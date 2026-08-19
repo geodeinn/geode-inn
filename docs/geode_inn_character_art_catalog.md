@@ -1,0 +1,948 @@
+# Geode Inn — Character Art Catalog
+## Version 1.0 — Updated July 22, 2026
+
+---
+
+## Aesthetic Hierarchy
+
+Characters in the Geode Inn follow a strict hierarchy based on their power and nature in the lore:
+
+### Full Presence (Non-Chibi)
+For deity-level figures and ancient forces where chibi treatment would be disrespectful to the source mythology. These characters are rendered with full gravitas, human-scale or larger, and carry the weight of their cultural significance.
+
+**Rule:** A character gets Full Presence when their core power is raw force, divine authority, or cosmic significance — when you *can't* underestimate them even if you try.
+
+### Chibi
+For tricksters, arcade NPCs, guides, and minor creatures. Small proportions (big head, small body), playful but still semi-realistic and painterly. NOT cartoonish — think Studio Ghibli meets illuminated manuscript.
+
+**Rule:** A character gets Chibi treatment when their core power is charm, cunning, or being underestimated. A tiny creature that can still destroy you is funnier and more unsettling than a big one.
+
+### In Between
+Some mythological figures (Anubis, Medusa) are powerful but serve game mechanics as guides or puzzle enemies. They get chibi treatment but with dignity — their power is real, just expressed at small scale.
+
+---
+
+## Full Presence Characters
+
+### 1. Seelie Fae (Summer Court)
+**Image:** https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/8cc0f5dc9_generated_image.png
+**Location:** Summerlands, Fae Kingdom (Downstairs)
+**Role:** NPC — quest giver, guide
+**Design Notes:**
+- Human-sized, ethereally beautiful with sharp angular features
+- Tall and slender, skin with faint luminous quality like moonlight on water
+- Eyes: large almond-shaped, golden amber, ancient knowing
+- Hair: dark honey, flowing in non-existent breeze, tiny white flowers woven through
+- Pointed ears — elegant, not exaggerated
+- Robes of woven light and shadow — shifting deep green, gold, twilight pale blue
+- Circlet of twisted silver and antler
+- Staff of pale wood topped with glowing amber stone
+- Standing in mushroom ring at twilight — the between-worlds hour
+- Feeling: old, beautiful, not entirely safe. One of the Gentry.
+
+**Cultural Source:** Irish/Celtic folklore — the Aos Sí, the Sidhe, the Tuatha Dé Danann
+**Why Full Presence:** The Fae are ancient powers in Irish mythology. Making them cute would disrespect the source culture. The Irish in Krista says no.
+
+---
+
+### 2. Unseelie Fae (Winter Court)
+**Image:** https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/d794fb7f7_generated_image.png
+**Location:** The Hollow, Fae Kingdom (Downstairs)
+**Role:** NPC — quest giver, adversary
+**Design Notes:**
+- Human-sized, hauntingly beautiful with edge of menace
+- Tall and willowy, pale frost-quality skin like marble in moonlight
+- Eyes: pale grey-green, color of winter water, sharp and predatory
+- Hair: black at roots fading to white at tips, flowing as if underwater
+- Sharp cheekbones, thin lips, smile that doesn't reach the eyes
+- Robes of deep shadow — absorb light, frost crystals and dark thorns woven through
+- Colors shift: charcoal grey, midnight blue, pale silver of ice
+- Crown of black iron thorns
+- Staff of dark wood wrapped in winter vine, stone glowing cold blue-white
+- Standing in frozen thorn forest — bare black trees, ice, visible cold
+- Feeling: beauty that is also a warning. One of the Sluagh.
+
+**Cultural Source:** Irish/Celtic folklore — the Sluagh, the wild hunt, the Unseelie Court
+**Why Full Presence:** Same as Seelie — these are the Gentry you do NOT meet at the crossroads at midnight.
+
+---
+
+### 3. The Morrigan
+**Image:** https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/0788a4cd6_generated_image.png
+**Location:** TBD — possibly a special encounter in the Fae Kingdom or tied to the narrative spine
+**Role:** Force of nature — not a fightable boss, but a presence that marks destiny
+**Design Notes:**
+- Tall woman of terrifying beauty standing at a river ford in grey pre-battle light
+- Form shifts between human and crow
+- Hair: black as raven's wing, long and wild, blowing in wind carrying battle cries
+- Skin: pale, almost grey, like a corpse washed clean
+- Eyes: red-black of dried blood — ancient, knowing, utterly without mercy
+- Cloak of black feathers that moves as if alive, each feather a shadow rustling with voices of the dead
+- Beneath cloak: armor of dark iron, old and scarred, nothing decorative
+- Crown of dark antlers and raven skulls
+- One hand holds spear, tip dark with old blood
+- Crows gather at her feet — they are her, extensions of her will
+- River behind her runs dark — she is washing garments of the doomed
+- Feeling: ancient dread. Not a creature you fight. A destiny that walks.
+
+**Cultural Source:** Irish mythology — the Badb, the washer at the ford, goddess of war, fate, and death
+**Why Full Presence:** The Morrigan chooses who dies and who lives. Chibi treatment would be sacrilegious. She is connected to the narrative spine's owl/bloodline motif through her associations with battle, death, and prophecy.
+
+---
+
+## Chibi Characters
+
+### 4. Goblin Merchant
+**Image:** https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/6040199fb_generated_image.png
+**Location:** The Threshold, Fae Kingdom (Downstairs)
+**Role:** NPC — merchant at the ruined faerie market
+**Design Notes:**
+- ~2 feet tall, big head, small body
+- Greenish-grey skin, wrinkled like old bark
+- Long pointed ears with small brass rings
+- Sharp teeth, friendly merchant's grin — shrewd, not menacing
+- Patchwork coat from mismatched fabrics, leather scraps, old maps
+- Tiny pouches and vials hanging from belt
+- One eye slightly larger — cunning look
+- Holding up small glowing crystal to examine it
+- Market stall behind with hanging gemstones, bottled fairy lights, curiosities
+- Feeling: a creature you'd trust for a fair price — barely.
+
+**Cultural Source:** European folklore — goblins as merchants and tricksters
+**Why Chibi:** Goblins' power is being underestimated. Small and shrewd is the whole point.
+
+---
+
+### 5. Troll Gatekeeper
+**Image:** https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/0bd372289_generated_image.png
+**Location:** The Hollow entrance, Fae Kingdom (Downstairs)
+**Role:** NPC — gatekeeper at the Unseelie Court entrance
+**Design Notes:**
+- ~3 feet tall, stocky, big head, broad body
+- Stone-grey skin with cracks like old granite
+- Faint blue-white frost pattern across skin surface
+- Small ice crystals growing from shoulders and elbows
+- Eyes: pale blue, glowing faintly in dark
+- Heavy brow ridge, small tusks from lower jaw
+- Armor: layered ice and frozen leather, Norse-style runic carvings
+- Large stone club almost as big as the troll
+- Standing in frozen thorn forest at entrance to dark ice grotto
+- Expression: gruff, suspicious, guarding
+- Feeling: intimidating despite small stature. NOT cute.
+
+**Cultural Source:** Nordic folklore — trolls as gatekeepers and bridge guardians
+**Why Chibi:** Trolls are strong but not divine. Small + intimidating = gamey fun.
+
+---
+
+### 6. Dwarf Blacksmith (Thorin-inspired)
+**Image:** https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/2fe0e066e_generated_image.png
+**Location:** Crystal Gardens, Fae Kingdom (Downstairs)
+**Role:** NPC — blacksmith who crafts gem rewards
+**Design Notes:**
+- ~2.5 feet tall, big head, broad compact body
+- Face: strong jaw, high cheekbones, weathered and handsome even at chibi scale
+- Hair: dark brown-black with prominent silver-grey streaks, worn long and thick, partially pulled back
+- Beard: full, dark with silver streaks, intricately braided with iron and copper beads — two thick braids framing the face
+- Eyes: piercing icy blue-grey, intense and focused (Richard Armitage as Thorin)
+- Thick dark eyebrows, furrowed in concentration
+- Thick leather blacksmith apron over chainmail shirt (visible at collar and sleeves)
+- Dark blue-grey tunic beneath
+- Heavy iron bracers on both forearms, scarred from forge work
+- Small muscular hands gripping blacksmith tongs holding a glowing gemstone
+- Forge: geode — large hollow crystal formation as hearth, multicolored fire (pink, blue, gold) like molten gemstones
+- Tiny tools and hammers on stone wall behind
+- Small oak-and-iron shield leaning against forge wall (Oakenshield reference)
+- Expression: focused, proud, regal — carries himself like a king working a forge
+- Feeling: noble and skilled. Not comedic. Not cute. Thorin's gravity at chibi scale.
+
+**Cultural Source:** Germanic/Norse folklore — dwarves as master smiths. Visual inspiration: Richard Armitage as Thorin Oakenshield in The Hobbit films.
+**Why Chibi:** Dwarves are craftspeople, not divine forces. But this one has a king's bearing — the chibi frame makes him approachable without diminishing his nobility.
+
+---
+
+### 7. Ent Guardian
+**Image:** https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/ebef67ee7_generated_image.png
+**Location:** Summerlands, Fae Kingdom (Downstairs)
+**Role:** NPC — guardian of the forest
+**Design Notes:**
+- ~3 feet tall, big head, small body
+- Body made of living wood — bark skin with moss patches
+- Tiny mushrooms growing on shoulders
+- Small glowing fireflies circling head
+- Face like carved wood: deep-set eyes glowing warm green, broad nose, knothole mouth
+- Branches growing from head like tiny antlers, small leaves, one small flower
+- Arms like branches, three-fingered twig hands
+- Roots partially buried in earth — part of the forest
+- Standing in sunlit ancient forest with massive tree roots
+- Expression: ancient, gentle, watchful. Protective, not aggressive.
+- Feeling: an ancient tree spirit, old and kind
+
+**Cultural Source:** Celtic/Germanic folklore — tree spirits and forest guardians
+**Why Chibi:** Ents are protectors, not conquerors. Small + ancient = gentle guardian.
+
+---
+
+### 8. Griffin Boss
+**Image:** https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/0719ee512_generated_image.png
+**Location:** Crystal Gardens, Fae Kingdom (Downstairs)
+**Role:** Boss encounter — guards the rarest Fae stones
+**Design Notes:**
+- ~4 feet tall at head, compact but regal
+- Front half: eagle with golden feathers, sharp hooked beak, fierce topaz eyes
+- Back half: lion with tawny fur, powerful legs
+- Wings: small but spread wide, iridescent feather tips shimmering blue/purple
+- Standing atop massive crystal formation in underground garden
+- Crystals of every color growing around like geode cathedral
+- Guards nest of rare gemstones
+- Expression: proud, territorial, noble. Beautiful but dangerous.
+- Feeling: heraldic fantasy meets geode interior
+
+**Cultural Source:** Greek/Persian mythology — griffins as guardians of treasure
+**Why Chibi:** Griffins are powerful but serve as game bosses. Regal at small scale.
+
+---
+
+### 9. Anansi the Trickster
+**Image:** https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/e67c66625_generated_image.png
+**Location:** TBD — possibly a quest-giver in the Modern Legends nook or the Threshold market
+**Role:** NPC — story-based quest giver ("Anansi's Tales")
+**Design Notes:**
+- ~2 feet tall, big head, small body
+- Humanoid with spider features: four arms (extra pair behind shoulders)
+- Large round eyes with multiple tiny supplementary spider-eyes at temples
+- Skin: warm dark brown with faint iridescent quality like spider's carapace
+- Wide gap-toothed grin — charming AND untrustworthy
+- Colorful patchwork kente cloth vest, tiny leather sandals
+- Small spider symbol woven into fabric
+- Tiny ornate wooden box on back (box of stories, tricked from Nyame)
+- One hand raised mid-gesture, telling a tale
+- Golden storytelling-energy trailing from fingertips like spider silk
+- Tiny words/symbols floating in the threads
+- Standing on ornate spider web between two baobab trees in sunlit savanna
+- Expression: clever, delighted in own cleverness, warm and sly
+- Feeling: will help you AND rob you AND you'll thank him for it
+
+**Cultural Source:** West African Akan/Ashanti folklore — Anansi as trickster and keeper of all stories
+**Why Chibi:** Anansi's power is charm and cunning, not force. Being disarming IS his weapon. You underestimate him, and by the time you realize you shouldn't have, you're caught in the web.
+**Reward Stone (potential):** Goldstone or Tiger's Eye — deep roots in African craftsmanship
+**Inspiration note:** Orlando Jones' Mr. Nancy in American Gods (the one character they cast correctly)
+
+---
+
+### 10. Ammit the Devourer
+**Image:** https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/1f083b673_generated_image.png
+**Location:** Tomb Tunnel game (Egypt — Dig Dug style)
+**Role:** Enemy — devourer of the dead
+**Design Notes:**
+- ~2 feet tall, big head, compact chunky body
+- Chimera: crocodile head with rows of tiny sharp teeth, lion's mane and front legs, hippo's round heavy back end
+- Golden-bronze scaled skin with metallic sheen like ancient Egyptian artifact
+- Small Egyptian collar with lapis lazuli inlay, tiny turquoise beads
+- Eyes: glow warm amber, hungry and ancient
+- Chunky and heavy but predatory stance
+- Sitting on golden scale (scales of Ma'at) which tips under its weight
+- Dark Egyptian tomb wall with faded hieroglyphics behind
+- Expression: not angry, just hungry. Patient. 4,000 years of waiting.
+- Feeling: tiny soul-eating chimera on a scale = absurd AND terrifying
+
+**Cultural Source:** Egyptian mythology — Ammit eats the hearts of the unworthy after judgment
+**Why Chibi:** A tiny crocodile-lion-hippo that eats souls is inherently funny and terrifying. Size isn't the danger — the teeth are.
+
+---
+
+### 11. Anubis the Guide
+**Image:** https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/546ee815e_generated_image.png
+**Location:** Tomb Tunnel game (Egypt — Dig Dug style)
+**Role:** Guide — shows the player the way down through the tomb
+**Design Notes:**
+- ~2 feet tall, big head, slender body
+- Black-furred jackal head, elegant pointed ears
+- Fur: faint blue-black sheen like obsidian in candlelight
+- Eyes: golden, intelligent and gentle but ancient — 5,000 years of guiding souls
+- Simple white Egyptian kilt, gold belt, narrow gold collar with turquoise and carnelian beads
+- Holding small ankh glowing with warm golden light
+- One hand pointing downward — guiding deeper underground
+- Patient and protective posture — not rushing, but he knows the way
+- Tunnel descending into darkness, faint hieroglyphics glowing on walls
+- Expression: regal, mysterious, gentle but powerful
+- Feeling: a god, even a small one. His power is knowing the way through the dark.
+
+**Cultural Source:** Egyptian mythology — Anubis as psychopomp, guide of souls
+**Why Chibi (with dignity):** Anubis is a guide, not a threat. His power is in knowing the way. Small + knowing = endearing without losing divinity.
+
+---
+
+### 12. El Muki
+**Image:** https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/ddcd9ce43_generated_image.png
+**Location:** Andean Run game (Peru — Temple Run style)
+**Role:** Enemy — cave goblin that chases the player through mines
+**Design Notes:**
+- ~2 feet tall, big head, stocky muscular body
+- Dark reddish-brown skin, rough like iron-rich Andean earth
+- Eyes: glowing red, like hot coals / active mine fire
+- Wild unruly black hair, matted and dusty
+- Tattered miner's clothes: ripped canvas jacket, dusty trousers, dented miner's helmet with dim candle lantern
+- Rusty pickaxe almost as big as he is, over one shoulder
+- FEET ARE BACKWARDS — from actual folklore, footprints lead wrong way
+- Visible in pose: feet point backward while facing forward
+- Charging forward aggressively, pickaxe raised
+- Expression: aggressive, territorial — guards the mountain's treasures
+- Feeling: gritty, weathered, a creature of the mines. NOT cute.
+
+**Cultural Source:** Peruvian Andean folklore — El Muki, the cave goblin who guards mountain treasures
+**Why Chibi:** A small cave goblin with backwards feet chasing you is gamey fun. The folklore detail (backwards feet) makes it culturally authentic.
+
+---
+
+### 13. Medusa
+**Image:** https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/ff47d5bd3_generated_image.png
+**Location:** Oracle's Riddles game (Greece — Crossword Puzzle)
+**Role:** Enemy — summons when wrong answers are given, slowly turns answers to stone
+**Design Notes:**
+- ~2 feet tall, big head, small body
+- Hair: nest of tiny living snakes — green, gold, copper, each wriggling and hissing independently
+- Some snakes have tiny amber eyes
+- Skin: pale green-grey with stone-like quality, as if slowly turning to stone herself
+- Eyes: glow dangerous amber-gold — the eyes that turn you to stone
+- Simple Greek chiton in faded white and dark green, small bronze belt
+- One hand raised, palm out — "stop, or else"
+- Tiny stone statues of frogs and insects at feet — creatures already turned to stone
+- Standing on Greek temple floor with mosaic tiles
+- Expression: not angry — tired, resigned. She didn't ask for this curse.
+- Feeling: a tiny Medusa who can still turn you to stone is funnier AND more unsettling than a big one
+
+**Cultural Source:** Greek mythology — Medusa, cursed by Athena, gaze turns living things to stone
+**Why Chibi (with melancholy):** The danger is in the eyes, not the size. Chibi Medusa with tired eyes adds a layer of tragedy. She's been a monster so long she's almost used to it.
+
+---
+
+## Characters Still To Design
+
+### Chibi — Game Enemies & Guides
+- [ ] Quetzalcoatl (Serpent Steps — Mexico, Chichen Itza)
+- [ ] Djinn (Treasury Match — Petra, Jordan)
+- [ ] Kitsune (Dragon Tiles — Japan)
+- [ ] Naga (Temple of the Naga — Cambodia)
+- [ ] Moai Spirit (Moji Maker — Easter Island)
+- [ ] Chullachaqui (Andean Run — Peru, jungle dwarf)
+
+### Chibi — Fae Kingdom NPCs
+- [ ] Mermaid NPC (Underground Pools, Fae Kingdom)
+- [ ] Orc Guard (The Hollow, Fae Kingdom)
+
+### Full Presence — Potential
+- [ ] The Owl (from the narrative spine — tied to the bloodline magic motif)
+- [ ] Odin/Allfather reference (connected to Geode Inn name = Huginn/Muninn)
+
+### Water Monsters (Playable Characters)
+- [ ] Nessie (Scotland — Loch Ness)
+- [ ] Kelpie (Scotland — water horse)
+- [ ] Bunyip (Australia)
+- [ ] Taniwha (New Zealand)
+- [ ] Mami Wata (Ghana/Liberia)
+- [ ] Bakunawa (Philippines — sky serpent)
+- [ ] + 26 more from the water monster roster
+
+---
+
+## Design Principles (Established)
+
+1. **Respect the source culture.** Characters from living mythological traditions (Irish Fae, the Morrigan) get full presence if their power is divine or cosmic. Chibi treatment is reserved for characters whose folklore is inherently trickster-like, guide-like, or gamey.
+
+2. **Chibi = underestimated power.** A tiny creature that can still destroy you is funnier and more unsettling than a big one. The chibi treatment amplifies the gap between appearance and danger.
+
+3. **Full Presence = ununderestimatable.** The Morrigan, the Fae — you cannot make these small. Their power IS their presence. Shrinking them would shrink their meaning.
+
+4. **Semi-realistic, painterly, NEVER cartoonish.** Think Studio Ghibli meets illuminated manuscript. Dark warm tones, earth colors, crystal accents. The baby dragon is the only deliberately cute element.
+
+5. **Cultural details from actual folklore.** El Muki's backwards feet. Anansi's box of stories from Nyame. Ammit sitting on the scales of Ma'at. These details make the chibis authentic, not generic.
+
+6. **The gap between cute and dangerous IS the design.** Ammit is patient and hungry. Medusa is tired and deadly. Anubis is gentle and divine. The tension between the chibi frame and the real power underneath is what makes these characters work.
+
+### 14. Quetzalcoatl
+**Image:** https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/9e594758a_generated_image.png
+**Location:** Serpent Steps game (Mexico — Chichen Itza)
+**Role:** Game deity — the feathered serpent, central to the equinox shadow mechanic
+**Design Notes:**
+- ~3 feet long coiled, big head, small serpentine body
+- Iridescent emerald green feathers shifting to turquoise and gold — quetzal bird feathers
+- Face: blend of snake and dragon, elongated snout, forked tongue
+- Eyes: large intelligent amber, ancient wisdom, not menace
+- Small feathered wings, too small for real flight, flutter when excited
+- Golden feather crest on head
+- Coiled around miniature El Castillo pyramid, head at top looking down
+- Glows warm green-gold energy
+- Starry Mesoamerican night sky, Milky Way visible behind
+- Expression: wise, patient, powerful but not aggressive. A creator god in miniature.
+- Feeling: dignified chibi — deity of creation and knowledge, not a monster
+
+**Cultural Source:** Aztec/Mayan mythology — Quetzalcoatl/Kukulkan, feathered serpent creator god
+**Why Chibi (with dignity):** Quetzalcoatl is divine but the game mechanic (precision platformer along the serpent shadow) calls for a small, present character. Chibi with authority.
+
+---
+
+### 15. Djinn
+**Image:** https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/6f0cb26ef_generated_image.png
+**Location:** Treasury Match game (Petra, Jordan — Bust a Move style)
+**Role:** Enemy — supernatural being from Arabian/Jordanian lore
+**Design Notes:**
+- ~2 feet tall but hovering — lower body trails off into translucent blue smoke
+- Skin: deep desert blue with faint luminescence, like lapis lazuli lit from within
+- Eyes: bright amber-gold, mischievous and intelligent
+- Small pointed beard curling at the tip
+- Turban of dark indigo silk with glowing amber gemstone
+- Vest of deep purple and gold over smoke-like lower body
+- Muscular arms — a djinn's power is in its arms and hands
+- One hand raised, fingers positioned to SNAP — the snap that grants wishes or causes chaos
+- Other hand holds small tarnished brass oil lamp trailing golden smoke wisps
+- Behind: carved rose-red rock walls of Petra's Treasury (Al-Khazneh), oil lamp glow
+- Expression: amused, knowing, slightly dangerous — being of smokeless fire who remembers every wish gone wrong
+- Feeling: chibi with an edge of real power. You should be careful what you ask for.
+
+**Cultural Source:** Arabian/Islamic folklore — jinn, beings of smokeless fire, wish-granters and tricksters
+**Why Chibi:** Djinn are powerful but trickster-adjacent. The chibi frame makes the wish-granting more disarming — and that's exactly when a djinn is most dangerous.
+
+---
+
+### 16. Kitsune
+**Image:** https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/2faa707ee_generated_image.png
+**Location:** Dragon Tiles game (Japan — Mahjong style)
+**Role:** Enemy — fox spirit who steals tiles
+**Design Notes:**
+- ~2 feet tall, big head, small body
+- Fox with nine tails — ancient powerful kitsune — but tails are small, fluffy, fan out like feather duster
+- Each tail glows with different colored foxfire — blue, violet, pale gold
+- Fur: bright reddish-orange with white belly/chest, black socks on paws
+- Most striking feature: holds small white porcelain Noh mask in front of face
+- Mask has knowing, enigmatic smile — but fox's real face visible above mask edge
+- Amber eyes too intelligent for an animal, sly grin behind the mask
+- Standing on hind legs in small Japanese garden: stone lantern, cherry blossoms, tiny torii gate
+- One paw rests on a mahjong dragon tile — just stolen from the board
+- Expression: the mask smiles politely, the eyes above it are laughing at you
+- Feeling: the trick IS the whole point. Polite mask, mischievous truth.
+
+**Cultural Source:** Japanese folklore — kitsune, fox spirits of illusion and trickery, nine tails mark age/power
+**Why Chibi:** Kitsune's power is illusion and disguise. A tiny fox wearing a Noh mask to steal your tiles is perfectly on-theme — the deception is adorable AND frustrating.
+
+---
+
+### 17. Naga
+**Image:** https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/c17d6fb73_generated_image.png
+**Location:** Temple of the Naga game (Cambodia, Angkor Wat — Castlevania style)
+**Role:** Enemy — serpent guardian of the temple
+**Design Notes:**
+- ~3 feet long coiled, big head, small serpentine body
+- Multi-headed serpent — three small cobra heads from single neck, each with flared hood
+- Jeweled eyes: ruby red
+- Scales: deep emerald green with gold markings along back, pale gold belly scales
+- Each head wears tiny golden crown — Naga are royal beings, temple guardians
+- Body coils around moss-covered stone pillar from Angkor Wat
+- Carved apsara dancers visible on stone behind, jungle vines wrapping architecture
+- Central head holds small glowing ruby in mouth — temple offering
+- Side heads watch left and right, alert and protective
+- Three tiny forked tongues flick out, tasting the air
+- Expression: regal, watchful, not aggressive but willing to strike
+- Feeling: serpentine dignity — divine protector, not a monster
+
+**Cultural Source:** Cambodian/Southeast Asian mythology — Naga as temple guardians and water deities
+**Why Chibi (with dignity):** Naga are divine protectors. Three tiny crowned cobra heads guarding a temple at small scale is regal and gamey at the same time.
+
+---
+
+### 18. Moai Spirit
+**Image:** https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/61c429cfb_generated_image.png
+**Location:** Moji Maker game (Easter Island — Little Alchemy style)
+**Role:** Puzzle guardian — moai eyes glow menacingly if wrong combinations are made
+**Design Notes:**
+- ~2 feet tall, big head, small body — the smallest, heaviest chibi in the roster
+- Body: compressed volcanic stone — rough, porous, dark grey-brown basalt with reddish tinge
+- Head: large and angular like miniature Moai statue — heavy brow, long nose, pursed lips
+- Classic Easter Island moai expression of serene authority
+- Eyes GLOW — deep amber, alive with ancient spirit (real moai had coral and stone eyes!)
+- Body: stocky and blocky, like a statue partially come to life — short stiff arms, thick column legs
+- Small cracks in stone body glow with volcanic orange light, like magma veins
+- Stands on grassy Easter Island hillside, full-size moai visible in background facing ocean
+- Holds small piece of obsidian — volcanic glass — like a precious offering
+- Expression: ancient, patient, stoic. Watched the ocean for a thousand years, not impressed by you.
+- Not hostile — a guardian. Guardians protect.
+
+**Cultural Source:** Rapa Nui (Easter Island) mythology — moai as living stone guardians of the island
+**Why Chibi:** A tiny walking moai statue is inherently charming, but the glowing eyes and volcanic cracks keep it grounded. The heaviest chibi — literally made of stone.
+
+### 19. Chullachaqui
+**Image:** https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/2ac1cb82a_generated_image.png
+**Location:** Andean Run game (Peru — Temple Run style)
+**Role:** Enemy — jungle dwarf who mimics loved ones to lead you astray
+**Design Notes:**
+- ~2 feet tall, big head, small hunched body
+- Face SHIFTS — one half friendly and familiar (almost human, warm), other half feral and wild
+- Wild side: bark-like dark brown skin with deep cracks, glowing pale yellow eyes, too-wide mouth
+- Mid-transformation: skin rippling where the two faces meet — the dissonance is the horror
+- One foot normal, other foot a twisted gnarled tree root/deer hoof (from actual folklore)
+- The deformed foot is the tell that reveals he isn't who he's pretending to be
+- Wears tattered Amazonian indigenous clothing — worn cotton tunic with faded geometric patterns
+- Hands behind back, hiding something
+- Half-hidden behind lush Amazonian foliage — giant leaves, vines, orchids
+- Supernatural blue glow on jungle edges — enchanted forest where reality thins
+- Expression: friendly side smiles warmly, wild side smiles hungrily
+- Feeling: deeply uncanny. NOT cute. A creature that mimics loved ones to lead you astray.
+
+**Cultural Source:** Peruvian Amazonian folklore — Chullachaqui, the shape-shifting jungle dwarf
+**Why Chibi:** The chibi frame makes the mimicking MORE unsettling — a small creature with a familiar face is creepier than a large one. The backwards/deformed foot detail from real folklore keeps it authentic.
+
+---
+
+### 20. Mermaid NPC
+**Image:** https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/82bbbb118_generated_image.png
+**Location:** Underground Pools, Fae Kingdom (Downstairs)
+**Role:** NPC — guards water monster stones, guides to water-related quests
+**Design Notes:**
+- ~2 feet long head to tail-tip, big head, small body
+- Upper body: warm golden-bronze skin with faint pearlescent shimmer like sunlight through water
+- Hair: dark blue-green with bioluminescent teal strands that glow softly, moving as if underwater even in air
+- Eyes: seafoam green with golden flecks — kind, curious, ancient
+- Delicate webbing between fingers
+- Top: iridescent abalone shell pieces and coral, tiny pearls strung together
+- Lower body: fish tail with scales shifting teal/turquoise/silver, translucent edges like jellyfish
+- Bioluminescent patterns along sides pulse gently with soft blue light
+- Tail fins elegant and flowing, like a betta fish
+- Sits on rock at edge of underground pool — crystal-clear water, glowing crystals in pool walls
+- Stalactites above, small glowing crystals on cave ceiling like stars
+- Holds small shell to ear, listening
+- Expression: serene, welcoming, mysterious. Knows where the deep things are.
+- Feeling: ethereal beauty — otherworldly even at small scale
+
+**Cultural Source:** Universal mermaid folklore, with Fae Kingdom context
+**Why Chibi:** Mermaids are magical creatures, not divine forces. Small + ethereal + bioluminescent fits the underground grotto setting perfectly.
+
+---
+
+### 21. Orc Guard
+**Image:** https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/b169261fe_generated_image.png
+**Location:** The Hollow, Fae Kingdom (Downstairs)
+**Role:** NPC — guard and combat encounter in the Unseelie Court territory
+**Design Notes:**
+- ~2.5 feet tall, big head, broad stocky body
+- Green-grey skin, thick and leathery like old leather armor
+- Bony ridges along jaw and brow
+- Lower tusks jutting up from underbite — yellowed ivory, one chipped
+- Small dark eyes, deep-set, glowing dull red like banked coals — watchful, not bright
+- Broken nose healed crooked
+- Heavy dark iron armor — chestplate scarred with claw marks, spiked shoulder pauldrons
+- Armor slightly too big — as if looted from a larger creature
+- Crude heavy iron sword, blade notched and worn, resting on shoulder
+- Standing at attention in frozen corridor — ice on walls, frost on floor, faint blue light
+- Thorny vines growing across stone walls behind
+- Expression: bored, tough, stubborn. Not going anywhere. Neither are you.
+- Feeling: gamey and fun. A small stocky orc blocking your path is arcade perfection. NOT cute — tough and formidable despite size.
+
+**Cultural Source:** Germanic/Tolkien-inspired fantasy — orcs as guards and combat encounters
+**Why Chibi:** Orcs are the quintessential game enemy. Small + heavily armored + blocking your path = arcade fun. The oversized looted armor adds character.
+
+---
+
+
+### 22. Bastet
+**Image:** https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/7a1a1af89_generated_image.png
+**Location:** Bastet's Herding game (Egypt — Cat herding puzzle)
+**Role:** Playable character — the goddess herself, herding cats
+**Design Notes:**
+- ~2 feet tall, big head, small slender body
+- Form: young woman with feline face — pointed ears, large golden cat eyes with vertical pupils
+- Fine golden fur covers cat ears and sides of face
+- Warm desert-bronze skin
+- White and gold Egyptian linen dress, narrow usekh collar with turquoise and carnelian beads
+- Tiny golden sistrum (sacred rattle) on belt — primary game tool
+- Small golden basket on back — for carrying cats (they keep escaping)
+- Three cats around feet: black (climbing her leg), tabby (walking away), calico (licking paw, ignoring her)
+- Sunlit Egyptian temple courtyard: palm columns, reflecting pool, hieroglyphics
+- Expression: divine patience mixed with "I am a goddess, why is this so hard"
+- Feeling: the most powerful cat goddess in Egypt cannot get three cats to go the same direction
+
+**Cultural Source:** Egyptian mythology — Bastet, goddess of cats, protection, and the home
+**Why Chibi:** Bastet's power is divine but the game is inherently comedic. A chibi cat goddess failing to herd cats is humble, funny, and deeply Egyptian. The chibi frame makes her approachable — she's a goddess you play AS, not one you fear.
+**Reward Stone:** Cat's Eye Chrysoberyl — named for its chatoyant cat-eye effect
+**Game Mechanic:** Top-down herding puzzle. Move Bastet to push cats toward the basket. Shake sistrum for pulse effect (cooldown). Cat types: Lazy (static), Curious (wander to shiny objects), Rebel (move away from basket), Climber (climb columns, must be knocked down). Cats reaching the temple gate are lost.
+
+---
+
+## UPDATED ROSTER STATUS (22 characters complete)
+
+### Full Presence (3)
+✅ Seelie Fae | ✅ Unseelie Fae | ✅ The Morrigan
+
+### Chibi — Fae Kingdom NPCs (8)
+✅ Goblin Merchant | ✅ Troll Gatekeeper | ✅ Dwarf Blacksmith | ✅ Ent Guardian | ✅ Griffin Boss | ✅ Mermaid NPC | ✅ Orc Guard | ✅ Anansi
+
+### Chibi — Arcade Game Cast (10)
+✅ Ammit | ✅ Anubis | ✅ El Muki | ✅ Chullachaqui | ✅ Medusa | ✅ Quetzalcoatl | ✅ Djinn | ✅ Kitsune | ✅ Naga | ✅ Moai Spirit
+
+### Games Designed
+- [x] Standing Stones (Stonehenge — Tetris)
+- [x] Tomb Tunnel (Egypt — Dig Dug)
+- [x] Andean Run (Peru — Temple Run)
+- [x] Monster of the Deep (Loch Ness — Nessie simulation)
+- [x] Bastet's Herding (Egypt — Cat herding puzzle) — NEW
+- [x] Serpent Steps (Chichen Itza — Precision platformer)
+- [x] Treasury Match (Petra — Bust a Move)
+- [x] Dragon Tiles (Japan — Mahjong)
+- [x] Temple of the Naga (Angkor Wat — Castlevania)
+- [x] Moji Maker (Easter Island — Little Alchemy)
+- [x] Oracle's Riddles (Greece — Crossword puzzle)
+
+### Still To Design
+- [ ] The Owl (narrative spine — Full Presence — tied to bloodline magic motif)
+- [ ] Water Monsters (Nessie, Kelpie, Bunyip, Taniwha, Mami Wata, Bakunawa + 26 more)
+
+### 23. The Owl (Full Presence)
+**Image:** https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/8cff66f03_generated_image.png
+**Location:** Appears throughout the Geode Inn — never fixed to one place. Shows up when the story demands it.
+**Role:** The Watcher — the living symbol of the narrative spine. Not a creature you interact with. A presence that observes.
+**Design Notes:**
+- Full presence — real barn owl anatomy, NOT chibi, NOT stylized fantasy
+- Iconic heart-shaped white face like a porcelain mask
+- Large dark eyes, almost black, with faint amber glow deep within — not natural, barely perceptible
+- Feathers: pale gold, cream, silver-white on face and chest, tawny gold and soft grey on back/wings
+- Fine dark grey speckling across chest and wings
+- Head turned three-quarters toward viewer — one eye fully visible, other half in shadow
+- It sees you. You cannot fully see it.
+- Talons grip the bark of an ancient oak branch — real, sharp, powerful
+- Each feather individually rendered, soft-edged, catching the faintest light
+- Setting: deep twilight, the between-worlds hour, not quite night
+- No fantasy embellishments on the bird itself — the supernatural is in the atmosphere
+- Twilight pools around the owl, shadows on the branch are deeper than they should be
+- A presence of ancient silence — not absence of sound, but the presence of watching
+- Background: dark blurred forest, out of focus, so the bird is the only thing that matters
+
+**Cultural Source:** Universal owl folklore — the watcher, the messenger between worlds. Barn owls specifically called "ghost owls" for their silent flight and pale appearance. Connected to Athena (wisdom), the Morrigan (death/prophecy), and the narrative spine's bloodline motif.
+**Why Full Presence:** The Owl is the living symbol of the narrative spine. "Wherever an owl is sighted one of us is near." It is not a game character. It is not a creature you fight or befriend. It watches. Shrinking it would shrink its meaning.
+**Visual Inspiration:** The barn owl from Labyrinth (1986) — the owl that was David Bowie's Jareth the Goblin King in another form. Elegant, otherworldly, magnetic, slightly dangerous. A real bird that is more than a real bird.
+**Design Philosophy:** The supernatural element lives in the atmosphere, not the bird. No glowing magical effects, no fantasy embellishments. The power is in the realism and the eyes — the faint amber glow deep within the dark is the only hint that this owl is more than what it appears to be.
+**Narrative Connection:** The Owl represents the unbreakable soul-bond, the bloodline tied to magic and death, and the recurring motif that connects the Geode Inn to Odin's ravens (Huginn and Muninn — thought and memory). The owl watches. The owl remembers. The owl is near.
+
+---
+
+## FINAL ROSTER STATUS (23 characters complete)
+
+### Full Presence (4)
+✅ Seelie Fae | ✅ Unseelie Fae | ✅ The Morrigan | ✅ The Owl
+
+### Chibi — Fae Kingdom NPCs (8)
+✅ Goblin Merchant | ✅ Troll Gatekeeper | ✅ Dwarf Blacksmith (Thorin-inspired) | ✅ Ent Guardian | ✅ Griffin Boss | ✅ Mermaid NPC | ✅ Orc Guard | ✅ Anansi
+
+### Chibi — Arcade Game Cast (11)
+✅ Ammit | ✅ Anubis | ✅ El Muki | ✅ Chullachaqui | ✅ Medusa | ✅ Quetzalcoatl | ✅ Djinn | ✅ Kitsune | ✅ Naga | ✅ Moai Spirit | ✅ Bastet
+
+### Still To Design
+- [ ] Water Monsters (Nessie, Kelpie, Bunyip, Taniwha, Mami Wata, Bakunawa + 26 more)
+
+### 24. The Wanderer (Odin — Approachable Form)
+**Image:** https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/bde558e53_generated_image.png
+**Location:** The Geode Inn — main floor, seated at a table in the tavern/common area
+**Role:** NPC — quest giver, riddle-asker, the Inn's "old man at the bar" who is far more than he appears
+**Design Notes:**
+- Full presence but unassuming — looks like an ordinary old traveler, ~60 years old
+- Long grey beard, weathered face, kind but sharp grey-blue eyes
+- One eye slightly clouded or closed — the sacrifice for wisdom, subtle not dramatic
+- Worn traveler's cloak in deep blue-grey, wide-brimmed hat shadowing his face
+- Simple leather traveling clothes, wooden staff carved with subtle runes leaning nearby
+- Holds a drinking horn, expression warm and amused — the storyteller who knew everything the whole time
+- Seated at wooden table in warm amber-lit tavern, shelves of books behind
+- KEY DETAIL: Two chibi ravens accompanying him, NOT dignified:
+  - Huginn (thought): on table with stolen moonstone in beak, head tilted, beady eye on the old man, daring him to react
+  - Muninn (memory): mid-flight carrying off a stolen gold earring, wings spread, tiny legs dangling loot
+- Both ravens: fist-sized, glossy black with blue-purple sheen, chibi proportions (big heads, small bodies), still recognizably ravens
+- Old man's expression: long-suffering affection, like a grandfather with misbehaving grandchildren he's secretly delighted by
+- Other patrons in background don't notice anything unusual
+- Feeling: the cozy disguise of a god. Warmth and humor with hidden depth.
+
+**Cultural Source:** Norse mythology — Odin as the Wanderer (Grímnir, Vegtamr), the disguised traveler who walks among mortals
+**Why Full Presence (but approachable):** The Wanderer is still Odin, but his power is in *not* showing it. Full presence because he's a god — but the presentation is deliberately warm, human, and unassuming. The ravens are the comic relief that undercuts the divinity.
+**Raven Behavior:** Chibi ravens in this form are irreverent, thieving, playful — they steal shiny things (gemstones, earrings, coins) and they do NOT take the old man seriously. This is the charm: even the Allfather's closest companions treat him like a grandfather, not a god.
+
+---
+
+### 25. The Allfather (Odin — Authoritative Form)
+**Image:** https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/6b80b153c_generated_image.png
+**Location:** Upstairs — Cosmology level, the highest point of the Geode Inn
+**Role:** Cosmic presence — the watcher of all things, keeper of the Web of Wyrd, connected to the narrative spine and the Owl
+**Design Notes:**
+- Full presence — towering, divine, the weight of all knowledge pressing down
+- Seated on ancient throne carved from single piece of dark stone, covered in deep-carved runes glowing cold blue-white
+- Long grey beard, weathered ancient face, same man as the Wanderer but transformed by context
+- KEY DIFFERENCE from Wanderer: one eye is gone — the empty socket glows cold blue-white, a star burning where an eye should be
+- Remaining eye: dark grey, ancient, knowing, holding the weight of everything ever seen
+- Robes of deep midnight blue and charcoal, silver thread forming constellations and runes throughout
+- Wide-brimmed hat shadowing upper face
+- One hand holds Gungnir — the spear that never misses — tip glowing cold light
+- Other hand rests on throne arm, carved and still
+- Two ravens on shoulders — NOT chibi here, full realistic ravens, sleek black with blue-purple sheen
+- Huginn on right shoulder (thought), Muninn on left (memory) — silent, alert, extensions of his will
+- Behind throne: vast cosmic space — stars, nebulae, Yggdrasil branches faintly visible connecting all realms
+- Floor: dark stone with faint Web of Wyrd pattern — threads of fate
+- No warmth, no humor, no comfort — cold, vast, ancient, silent
+- Feeling: you are in the presence of something that has seen everything and chosen to see more
+
+**Cultural Source:** Norse mythology — Odin as Allfather, seated on Hliðskjálf, the high seat from which he sees all realms
+**Why Full Presence:** This is the god who hung himself from Yggdrasil for nine days to learn the runes. The god who knows how the world ends. Full authority, full weight, no compromise.
+**Raven Behavior:** In this form, the ravens are silent and still — full realistic birds perched on his shoulders. Same Huginn and Muninn, but here they are extensions of his will, not comic relief. The transformation from the Wanderer's thieving chibis to these solemn watchers IS the storytelling.
+**Narrative Connection:** The Allfather connects to the narrative spine's themes of ancient beings watching and remembering. His ravens (Huginn = thought, Muninn = memory) mirror the Geode Inn's own function as an archive of thought and memory. The empty eye socket — the sacrifice for wisdom — parallels the narrative spine's theme of sacrifice and cosmic awareness.
+
+---
+
+## FINAL ROSTER STATUS (25 characters complete)
+
+### Full Presence (6)
+✅ Seelie Fae | ✅ Unseelie Fae | ✅ The Morrigan | ✅ The Owl | ✅ The Wanderer (Odin) | ✅ The Allfather (Odin)
+
+### Chibi — Fae Kingdom NPCs (8)
+✅ Goblin Merchant | ✅ Troll Gatekeeper | ✅ Dwarf Blacksmith (Thorin-inspired) | ✅ Ent Guardian | ✅ Griffin Boss | ✅ Mermaid NPC | ✅ Orc Guard | ✅ Anansi
+
+### Chibi — Arcade Game Cast (11)
+✅ Ammit | ✅ Anubis | ✅ El Muki | ✅ Chullachaqui | ✅ Medusa | ✅ Quetzalcoatl | ✅ Djinn | ✅ Kitsune | ✅ Naga | ✅ Moai Spirit | ✅ Bastet
+
+### Chibi — Companion (2 — shared between both Odin forms)
+✅ Huginn (Thought) | ✅ Muninn (Memory)
+
+### Still To Design
+- [ ] Water Monsters (Nessie, Kelpie, Bunyip, Taniwha, Mami Wata, Bakunawa + 26 more)
+
+### 26. The Scholar (Cthulhu — Ambulatory Patron)
+**Image:** https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/0bf0fb14a_generated_image.png
+**Location:** Wanders the Geode Inn randomly — most often found by the fireplace in the main floor library, occasionally upstairs in cosmology, sometimes in the modern legends nook reading his own mythos
+**Role:** Ambient NPC + hidden quest giver. Appears to be just atmosphere — a strange patron reading by the fire. Players who approach and ask the right questions discover he gives book-related quests: retrieve rare texts from the catacombs, translate passages in dead languages, find missing volumes. His rewards are the rarest stones in the Inn.
+**Design Notes:**
+- NOT terrifying, NOT cute-chibi — somewhere in between, ~4 feet tall, medium-sized being
+- Iconic Lovecraftian squid-headed form present but softened: bulbous head with tentacles draping like a beard
+- Two large eyes — intelligent, curious, warm, deep amber — NOT malevolent
+- Small round spectacles perched on the face, held in place by two smaller face tentacles
+- Dark green-grey skin with subtle iridescent sheen
+- Dark teal-green scholarly robe with high collar, belted at waist
+- Small clawed hands visible at sleeves, holding open leather-bound book
+- Two small vestigial wings on back, folded, purely decorative — too small for flight
+- Sits in large leather armchair by crackling amber fireplace
+- Stacks of ancient books piled on floor beside chair — mythology volumes, some with bookmarks
+- One tentacle turns pages with surprising delicacy
+- Posture: hunched forward over book, completely absorbed
+- Other patrons pay no special attention — just another regular at the Inn
+- Feeling: an ancient cosmic entity who decided the most fulfilling thing in existence is to sit by a fire and read
+
+**Cultural Source:** H.P. Lovecraft's Cthulhu Mythos — filed under "modern day legends" framework, not conspiracy terminology. Lovecraft's work IS on the shelves of the modern legends nook. The being itself wanders the Inn.
+**Why "Kinda Chibi, Kinda Not":** Too cute would undermine the cosmic weight. Too terrifying would break the Inn's warm atmosphere. The middle ground — a 4-foot scholarly being with spectacles — preserves the joke (it's Cthulhu) while making him approachable enough to talk to.
+**Design Philosophy:** The humor is in the contrast. The most terrifying entity in modern horror mythology is sitting by a fire reading books with tiny spectacles. No wink to the camera. No joke is explained. The players who recognize him get the joy of discovery. The players who don't just see a strange scholar NPC.
+**Narrative Connection:** The modern day legends nook on the main floor contains Lovecraft's work. Cthulhu reading twenty feet from his own mythology is the Inn's deepest layered joke — the archive contains the legend, and the legend is a patron. Ties into the Geode Inn's core philosophy: myths are not dead things on shelves. They live here.
+**Quest Mechanic:** Cthulhu gives rare book retrieval quests. Rewards: the rarest stones in the Inn (stones not available from any arcade game or Fae Kingdom quest). His quests require exploring the catacombs and ancient civilizations section downstairs. He is the only path to certain stones.
+
+---
+
+## FINAL ROSTER STATUS (26 characters complete + 2 ravens = 28 designs)
+
+### Full Presence (6)
+✅ Seelie Fae | ✅ Unseelie Fae | ✅ The Morrigan | ✅ The Owl | ✅ The Wanderer (Odin) | ✅ The Allfather (Odin)
+
+### Ambulatory / Between Categories (1)
+✅ The Scholar (Cthulhu) — kinda chibi, kinda not, wanders the Inn
+
+### Chibi — Fae Kingdom NPCs (8)
+✅ Goblin Merchant | ✅ Troll Gatekeeper | ✅ Dwarf Blacksmith (Thorin-inspired) | ✅ Ent Guardian | ✅ Griffin Boss | ✅ Mermaid NPC | ✅ Orc Guard | ✅ Anansi
+
+### Chibi — Arcade Game Cast (11)
+✅ Ammit | ✅ Anubis | ✅ El Muki | ✅ Chullachaqui | ✅ Medusa | ✅ Quetzalcoatl | ✅ Djinn | ✅ Kitsune | ✅ Naga | ✅ Moai Spirit | ✅ Bastet
+
+### Chibi — Companion (2 — shared between both Odin forms)
+✅ Huginn (Thought) | ✅ Muninn (Memory)
+
+### Still To Design
+- [ ] Water Monsters (Nessie, Kelpie, Bunyip, Taniwha, Mami Wata, Bakunawa + 26 more)
+
+## WATER MONSTERS — MONSTER OF THE DEEP (32 PLAYABLE CREATURES)
+
+All 32 creatures are chibi-style playable characters for the "Monster of the Deep" game. Each is drawn from a specific region's folklore and designed to be visually distinct, culturally grounded, and fun to play as.
+
+### W1. Nessie (Loch Ness Monster)
+**Image:** https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/7f32837c5_generated_image.png
+**Region:** Scotland | **Vibe:** Gentle, shy, the world's most beloved cryptid
+**Design:** Plesiosaur-inspired, deep teal-green with cream belly, bioluminescent blue spots along neck, amber eyes, surfacing in misty Scottish loch
+
+### W2. Kelpie
+**Image:** https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/e44914d5d_generated_image.png
+**Region:** Scotland | **Vibe:** Alluring and dangerous — beautiful enough to tempt you, those green eyes tell the truth
+**Design:** Black-green water horse, seaweed mane, eerie green glowing eyes, sharp teeth, serpentine fish tail, half in water half out
+
+### W3. The Bunyip
+**Image:** https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/00618c5cf_generated_image.png
+**Region:** Australia | **Vibe:** Grumpy, territorial, tired of scaring campers for 60,000 years
+**Design:** Round hippo-frog-seal chimera, dark brown-green damp fur, frog mouth with flat teeth, seal eyes, water-lily ears
+
+### W4. Bakunawa
+**Image:** https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/afb361c1b_generated_image.png
+**Region:** Philippines | **Vibe:** Hungry, majestic, cosmic — eats moons and is not apologetic
+**Design:** Iridescent blue-purple sea serpent, antlers, crescent-moon tail, amber-gold eyes, reaching for full moon, moon fragments dissolving in water
+
+### W5. Taniwha
+**Image:** https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/73cdcae59_generated_image.png
+**Region:** New Zealand | **Vibe:** Protective, territorial, ancient guardian
+**Design:** Armored reptilian sea-dragon, green-black scales with glowing Maori moko patterns, orange-amber eyes, horns, webbed claws, jade-green river
+
+### W6. Adaro
+**Image:** https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/6f7fdd3c8_generated_image.png
+**Region:** Solomon Islands | **Vibe:** Cunning, mischievous, unpredictable trickster of the deep
+**Design:** Shark-spirit merman, dorsal fin on head, all-black shark eyes, coral beard, bone spear, glowing flying fish, turquoise coral reef
+
+### W7. Grootslang
+**Image:** https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/28a9a0dba_generated_image.png
+**Region:** South Africa | **Vibe:** Ancient, greedy, patient — hoarding diamonds since before humans
+**Design:** Elephant-serpent hybrid, grey-green scaled hide, split trunk, ivory tusks, amber serpent eyes, diamonds embedded in scales, river cave hoard
+
+### W8. Iara
+**Image:** https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/4b415ea39_generated_image.png
+**Region:** Brazil | **Vibe:** Alluring, melancholy, lonely siren
+**Design:** Amazonian river mermaid, golden-bronze skin, pink-silver-purple dolphin tail, green eyes, water lily crown, shell comb, vitória-régia lily pads
+
+### W9. Blue Men of the Minch
+**Image:** https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/942591f3b_generated_image.png
+**Region:** Scotland | **Vibe:** Wild, joyful chaos — throws storms for the sheer drama
+**Design:** Stormy blue-skinned humanoid, foam beard, solid blue eyes, sealskin kilt, sea glass crown, ship's mast staff with glowing orb, makes storms
+
+### W10. Selkie
+**Image:** https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/921a06ae5_generated_image.png
+**Region:** Scotland | **Vibe:** Gentle, wistful, watchful — learned not to trust the shore
+**Design:** Mid-transformation seal-human, sealskin cloak half-on, pale skin, dark eyes, silver-grey seal tail, Orkney shore at golden hour
+
+### W11. Afanc
+**Image:** https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/e8380d1b0_generated_image.png
+**Region:** Wales | **Vibe:** Grumpy, stubborn, immovable — still mad at King Arthur
+**Design:** Giant mossy beaver-crocodile, dark brown fur, moss patches, stone-chewing teeth, flat tail, Welsh mountain lake
+
+### W12. Mokele-mbembe
+**Image:** https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/119710790_generated_image.png
+**Region:** Congo | **Vibe:** Peaceful, slow, ancient — too chill to notice extinction
+**Design:** Chibi sauropod, grey-brown with stripes, spined neck, gentle brown eyes, half-submerged in Congo river, jungle, steam, dappled light
+
+### W13. Ninki Nanka
+**Image:** https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/2e1756292_generated_image.png
+**Region:** Gambia | **Vibe:** Confused, indecisive — can't decide which animal it is
+**Design:** Crocodile body, giraffe neck, horse head, antelope horns, goat pupils, mixed teeth, river reed mane, mangrove river
+
+### W14. Inkanyamba
+**Image:** https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/034d3177f_generated_image.png
+**Region:** South Africa | **Vibe:** Proud, tempestuous, fierce — IS the thunderstorm
+**Design:** Winged serpent, emerald-green and stormy grey, electric blue eyes, scaled bat wings with lightning veins, spine crest, Howick Falls, storm clouds
+
+### W15. Arwe the Serpent
+**Image:** https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/0c9c0afc9_generated_image.png
+**Region:** Ethiopia | **Vibe:** Ancient, regal, imperious — old when Solomon built his temple
+**Design:** Massive crimson-gold serpent, cobra hood with Ethiopian church patterns, golden eyes, gold-tipped horns, three-forked tongue, Blue Nile gorge
+
+### W16. The Ningen
+**Image:** https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/fb04586a8_generated_image.png
+**Region:** Japan (Antarctic waters) | **Vibe:** Unknowable, alien, serene — the uncanny valley of the ocean
+**Design:** Pale translucent humanoid, no face except two black almond eyes and mouth slit, flipper arms, whale tail, bioluminescent, Antarctic water, aurora
+
+### W17. Rusalka
+**Image:** https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/637a5ae30_generated_image.png
+**Region:** Eastern Europe/Russia | **Vibe:** Sorrowful, ethereal, dangerous — drowns others because she can't accept she's dead
+**Design:** Pale blue-white ghost woman, platinum floating hair, ice-water eyes, seaweed fins, bone comb, willow log in dark Slavic river, fireflies
+
+### W18. The Lorelei
+**Image:** https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/13bedfb67_generated_image.png
+**Region:** Germany | **Vibe:** Melancholy, beautiful, fatal — a woman who became a river
+**Design:** Golden-haired siren, lower body dissolves into Rhine current, silver-blue scales, golden comb, Rhine rock, golden hour, vineyards, castle ruin
+
+### W19. Draugen
+**Image:** https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/2beae63e8_generated_image.png
+**Region:** Norway | **Vibe:** Furious, tormented, endless — came back angry about being buried at sea
+**Design:** Decaying Viking warrior, waterlogged chainmail, skull face with one blue-white glowing eye, rusted axe, ghost longship, dark Norwegian fjord, fog
+
+### W20. The Tarasque
+**Image:** https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/fbe3819de_generated_image.png
+**Region:** France | **Vibe:** Grumpy, uncomfortable — defeated by a lady with a prayer, never lived it down
+**Design:** Lion-turtle-scorpion-serpent chimera, spiked olive shell, tawny fur, six legs, venom tail, amber eyes, Rhône river, Provence lavender
+
+### W21. The Lindwurm of Klagenfurt
+**Image:** https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/be2f95cf7_generated_image.png
+**Region:** Austria | **Vibe:** Proud but slightly ridiculous — only has two legs, grudge about sulfur
+**Design:** Wingless two-legged serpent dragon, dark forest-green scales with bronze sheen, amber-red eyes, small horns, coiled around stone fountain, Alps backdrop
+
+### W22. The Wawel Dragon (Smok Wawelski)
+**Image:** https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/eac016152_generated_image.png
+**Region:** Poland | **Vibe:** Permanently hungry, always eating — defeated by sulfur-filled sheep, don't mention it
+**Design:** Stocky red dragon, gold underbelly, small wings, hungry green eyes, always eating, cattle bones scattered, Wawel Hill, Vistula River
+
+### W23. Tiddalik the Frog
+**Image:** https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/1a00f3943_generated_image.png
+**Region:** Australia | **Vibe:** Blissfully full, oblivious — drank all the water on earth and has zero awareness of the problem
+**Design:** Spherical bloated frog, translucent stretched skin showing water inside, muddy brown-green, pale yellow belly, half-closed eyes, cracked dry riverbed
+
+### W24. The Rainbow Serpent
+**Image:** https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/d0de912af_generated_image.png
+**Region:** Australia | **Vibe:** Ancient, creative, watchful — the oldest deity in the Inn, shaped the earth
+**Design:** Rainbow serpent with Aboriginal ochre colors (red, yellow, white, black, cosmic blue), dot painting and rarrk patterns, galaxy eyes, Milky Way backdrop, red rock desert
+
+### W25. Tompondrano
+**Image:** https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/d96248235_generated_image.png
+**Region:** Madagascar | **Vibe:** Regal, patient, ancient — a crocodile so respected people leave it gifts
+**Design:** Divine crocodile, dark green with golden underbelly, golden teeth, amber glowing eyes, golden horns, river stone collar, baobab trees, lemurs, offerings
+
+### W26. The Rannamaari
+**Image:** https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/95c91c78f_generated_image.png
+**Region:** Maldives | **Vibe:** Ancient hunger, patient malice — the ocean is its domain, everything in it is its to take
+**Design:** Amorphous dark water humanoid, rippling ocean-surface body, floating red-amber eyes, darkness mouth, water claw hands, Maldivian lagoon, dhoni boat
+
+### W27. The Altamaha-ha
+**Image:** https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/3e6173d12_generated_image.png
+**Region:** Georgia, USA | **Vibe:** Curious, friendly, slightly lost — been scaring fishermen for 200 years, just wants to say hi
+**Design:** Dolphin-headed river serpent, olive-green with gold belly, dorsal fin, paddle tail, cypress trees, Spanish moss, golden lotus, friendly dopey expression
+
+### W28. Aido-Hwedo
+**Image:** https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/46311cff0_generated_image.png
+**Region:** West Africa (Dahomey/Yoruba) | **Vibe:** Patient, burdened, eternal — holding up the world since creation
+**Design:** Cosmic rainbow serpent, iridescent scales, cobra hood with Yoruba geometric patterns, golden eyes, warm light in mouth, world grows on its coils, deep ocean trench
+
+### W29. Lusca
+**Image:** https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/191960c75_generated_image.png
+**Region:** Bahamas | **Vibe:** Cunning, territorial, opportunistic — grumpy underwater landlord with tentacles
+**Design:** Octopus-shark hybrid, blue-purple body, mismatched amber-blue eyes, two tentacles with shark fins and teeth, blue hole cave entrance, turquoise to black water gradient
+
+### W30. The Miengu
+**Image:** https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/437d067bb_generated_image.png
+**Region:** Cameroon | **Vibe:** Gentle, meditative, otherworldly — the kindest water creature, carries spirit-world mail
+**Design:** Dolphin-mermaid spirit, grey-blue skin, dorsal fin, kelp hair with shells, cowrie collar, glowing calabash, purple-silver tail, Wouri River, Mount Cameroon
+
+### W31. Mount Emei's White Snake (Bai Suzhen)
+**Image:** https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/1287193dc_generated_image.png
+**Region:** China | **Vibe:** Serene, devoted, powerful — loved a human so much she became one, was punished, never stopped
+**Design:** Pearl-white serpent, silver-blue iridescence, deep blue lashed eyes, jade forehead gem, lotus tail fin, bamboo, mist, Buddhist temple, sea of clouds
+
+### W32. Ayia Napa Sea Serpent
+**Image:** https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/5fb2094fc_generated_image.png
+**Region:** Cyprus | **Vibe:** Curious, surprised, harmless — accidentally became a tourist attraction, mildly inconvenienced
+**Design:** Turquoise serpent with Greek pottery patterns, coral crown growth, sea-green eyes, coral pink fins, Cyprus blue water, Cape Greco, bright sun
+
+---
+
+## FINAL COMPLETE ROSTER — ALL DESIGNS COMPLETE
+
+### Full Presence (6)
+✅ Seelie Fae | ✅ Unseelie Fae | ✅ The Morrigan | ✅ The Owl | ✅ The Wanderer (Odin) | ✅ The Allfather (Odin)
+
+### Ambulatory / Between Categories (1)
+✅ The Scholar (Cthulhu)
+
+### Chibi — Fae Kingdom NPCs (8)
+✅ Goblin Merchant | ✅ Troll Gatekeeper | ✅ Dwarf Blacksmith (Thorin-inspired) | ✅ Ent Guardian | ✅ Griffin Boss | ✅ Mermaid NPC | ✅ Orc Guard | ✅ Anansi
+
+### Chibi — Arcade Game Cast (11)
+✅ Ammit | ✅ Anubis | ✅ El Muki | ✅ Chullachaqui | ✅ Medusa | ✅ Quetzalcoatl | ✅ Djinn | ✅ Kitsune | ✅ Naga | ✅ Moai Spirit | ✅ Bastet
+
+### Chibi — Companion (2)
+✅ Huginn (Thought) | ✅ Muninn (Memory)
+
+### Chibi — Water Monsters (32)
+✅ Nessie | ✅ Kelpie | ✅ Bunyip | ✅ Bakunawa | ✅ Taniwha | ✅ Adaro | ✅ Grootslang | ✅ Iara | ✅ Blue Men of the Minch | ✅ Selkie | ✅ Afanc | ✅ Mokele-mbembe | ✅ Ninki Nanka | ✅ Inkanyamba | ✅ Arwe the Serpent | ✅ The Ningen | ✅ Rusalka | ✅ The Lorelei | ✅ Draugen | ✅ The Tarasque | ✅ The Lindwurm | ✅ The Wawel Dragon | ✅ Tiddalik the Frog | ✅ The Rainbow Serpent | ✅ Tompondrano | ✅ The Rannamaari | ✅ The Altamaha-ha | ✅ Aido-Hwedo | ✅ Lusca | ✅ The Miengu | ✅ Mount Emei's White Snake | ✅ Ayia Napa Sea Serpent
+
+### GRAND TOTAL: 60 DESIGNS COMPLETE
+6 Full Presence + 1 Ambulatory + 8 Fae NPCs + 11 Arcade Cast + 2 Ravens + 32 Water Monsters = 60
+
+🎉 ALL CHARACTER ART DESIGNS COMPLETE
