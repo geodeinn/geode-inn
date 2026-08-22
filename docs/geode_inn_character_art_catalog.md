@@ -734,6 +734,22 @@ Some mythological figures (Anubis, Medusa) are powerful but serve game mechanics
 **Narrative Connection:** The modern day legends nook on the main floor contains Lovecraft's work. Cthulhu reading twenty feet from his own mythology is the Inn's deepest layered joke — the archive contains the legend, and the legend is a patron. Ties into the Geode Inn's core philosophy: myths are not dead things on shelves. They live here.
 **Quest Mechanic:** Cthulhu gives rare book retrieval quests. Rewards: the rarest stones in the Inn (stones not available from any arcade game or Fae Kingdom quest). His quests require exploring the catacombs and ancient civilizations section downstairs. He is the only path to certain stones.
 
+**ATLANTEAN ORIGIN (Updated August 2026):**
+Cthulhu was an Atlantean — the brightest Merfolk scholar of their generation, so deeply bonded to the Heart Crystal that they volunteered to stay at the deepest point when Atlantis chose the ocean. The crystal's pressure transformed them over millennia — their Merfolk form became tentacled, alien, vast. But still a scholar. Still kind. The surface world heard fragments and Lovecraft turned it into horror. They saw the form and assumed the intent.
+
+**Two-Form Design:**
+- **Surface Form (Main Floor):** 4 feet tall, spectacles, scholarly robes, firelight aesthetic (existing design)
+- **Deep Form (Crystal Core, Atlantis):** 12 feet tall but folded smaller, bioluminescent amber-green crystalline skin, spectacles held by glowing tentacles, flowing water-silk robes, plugged into the Heart Crystal via tentacle contact. Same spectacles in both forms — the visual link.
+
+**Quest Line — "The Deepest Reader":**
+1. Surface encounter (existing) — fireplace, rare book quests from catacombs
+2. "The Whisper in the Deep" — find Atlantean tablet with his original name in the Drowned Library
+3. "The Descent to the Core" — find his true form in the Crystal Core (the deepest point in the underwater layer)
+4. "The Lost Tablets" — underwater retrieval quests across Niflheim, Sacred Cenote, Great Blue Hole. Rewards: Atlantean Silica + new acoustic frequencies
+5. "The Truth of the Deep" — full origin reveal. Player chooses: share knowledge on the surface or keep it in the deep. Reward: Heart Crystal fragment (rarest item in the game)
+
+**Connections:** Silica Thread made manifest. The Owl visits him in the deep (they know each other). Tesla was channeling his knowledge through crystal resonance. The Modern Legends Nook contains the horror version; the deep contains the truth.
+
 ---
 
 ## FINAL ROSTER STATUS (26 characters complete + 2 ravens = 28 designs)
