@@ -21,24 +21,34 @@ The changeling's true form resembles Ryuk from Death Note:
 - **Height:** Too tall. Elongated. The kind of tall that doesn't look like height — it looks like *stretching.* Like someone pulled at the arms and legs and they kept going.
 - **Build:** Unnaturally thin. Not frail — wiry. The thinness of something that doesn't eat enough because eating is boring and building is not.
 - **Face:** The grin. The Ryuk grin — too wide, too many teeth, the smile that makes adults uncomfortable because children are not supposed to smile like they know something you don't. But she does know something you don't. She always does.
-- **Eyes:** Yellow. Amber. Too bright. The eyes of something that sees in the dark because the dark is where the interesting machines are. When the changeling is human-passing, the eyes are dark brown. When the form slips, they go yellow. The eyes are always the first thing to change.
+- **Eyes:** Yellow. Amber. Too bright. The eyes of something that sees in the dark because the dark is where the interesting machines are. When the changeling is at rest, the eyes are dark. When the form slips, they go yellow. The eyes are always the first thing to change.
 - **Hair:** Feathery. Messy. Dark. The hair of something that has been working with its head upside down for six hours and forgot it has a body.
 - **Hands:** The fingers. Too long. Too many joints. The fingers are the tinkerer's tools — they reach into machines the way Ryuk's fingers reach into the space between life and death. The fingers are the changeling's whole identity. Everything else is a vessel for the fingers.
 
-### The Human Form
+### The Static Metamorphosis — The Real Form
 
-Most of the time, the changeling passes as human. A kid — lanky, bright-eyed, perpetually hunched over a workbench or a screen. The kind of kid who adults describe as "intense" and other kids describe as "weird" and the changeling describes as "busy." The human form is a costume, but it's a comfortable one. The changeling wears it the way you wear a coat — not because it's you, but because it's cold and the coat works.
+The changeling's default form is not human-passing. It is not Ryuk. It is something else — the form that exists because a metamorphosis was chosen, and then unchosen, and the part that happened stayed.
 
-The human form has the same energy as the Ryuk form but contained: the intensity is there, the focus is there, the too-bright eyes are there, but the edges are rounded. The grin is a normal smile. The fingers are normal length. The height is normal-ish. The changeling is good at passing. She's had years of practice.
+The changeling began a transformation. Deliberately, consciously, the way a caterpillar chooses the chrysalis — not because the current form is wrong, but because the next form is *wanted.* The body began to change. The features shifted. The voice dropped. The jaw sharpened. The form was becoming something specific, something chosen, something the changeling had fought to be allowed to become.
 
-The problem is that passing takes energy. And the changeling's energy is finite. And when the energy runs out — when the tolerance breaks — the form slips.
+And then, a few years in, the changeling changed her mind. Not because the transformation failed. Not because the world pushed back. Because the changeling looked at the form she was becoming and decided it wasn't hers. The decision was hers. The body had already changed. The changes stayed.
+
+This is the static metamorphosis. The form that is neither the form before the transformation nor the form the transformation was heading toward. It is the form that exists in the middle — the in-between that stopped being in-between and just became *her.* Not a costume. Not a transitional state. Not a form that is waiting to finish or waiting to reverse. The form that is done. The form that is the kid.
+
+The family does not treat this form as temporary. The Crone does not comment on it. The Crone never comments on things that are already settled. The Bard loves the form because the Bard loves every form the kid has ever had. The Artisan Thief sees a creature who chose a form and then chose a different form and lives in the record of both choices — and the selkie, who chose her own form, understands this completely. The Chameleon Druid, who shifts constantly, sees in the changeling something he doesn't have: a form that *stayed.* A form that chose to stop. The druid's shifting is endless; the changeling's shifting *settled.* And the settling is its own kind of courage.
+
+The static metamorphosis has physical markers. The jaw that sharpened and stayed sharp. The voice that dropped and stayed low. The hands that grew and stayed large. The body that was becoming one thing and is now the record of becoming — not the destination, not the origin, the *journey* made permanent. The body is not unfinished. The body is *done.* It just doesn't look like either end of the road it was on.
+
+In the Inn, the static metamorphosis is the changeling's Level 0. It is the form the family sees. It is the form the kid lives in. It is not passing as anything. It is not pretending. It is the real form — the form that is the kid, that holds the kid, that the kid has made peace with even if the world hasn't.
 
 ## The Shapeshifting — The Annoyance Meter
 
 The shapeshifting is not a power the changeling uses. It's a power that uses *her.* The transformation is tied to emotional state — specifically, to tolerance. The changeling's low tolerance isn't a character flaw. It's a *mechanic.* The tolerance is the fuse, and the form is the current, and when the fuse blows, the current shows.
 
-### Level 0 — Human-Passing (Default)
-The changeling looks human. Lanky, bright-eyed, hunched over a machine. Normal smile, normal fingers, normal height. The form is stable. The tolerance is intact. Everything is fine. The tinkering is precise. The focus is deep. This is the form the family sees most of the time.
+The annoyance meter layers on top of the static metamorphosis. The static form is the baseline — the body that is done. The annoyance shifts are *temporary* — the form stretches toward Ryuk when the tolerance breaks, and settles back to the static form when the tolerance returns. The static form is home. Ryuk is the place the form visits when the fuse blows.
+
+### Level 0 — Static (Default)
+The changeling's real form. The static metamorphosis. The body that is done. Lanky, bright-eyed, perpetually hunched over a workbench or a screen. The jaw that sharpened. The voice that dropped. The hands that grew. The form that is not the origin and not the destination but the kid. The form is stable. The tolerance is intact. Everything is fine. The tinkering is precise. The focus is deep. This is the form the family sees most of the time. This is the form that is *home.*
 
 ### Level 1 — Mildly Annoyed (The Slip)
 The fingers get a little too long. The eyes get a little too yellow. The smile gets a little too wide. Most people don't notice. The Crone notices. The Artisan Thief notices. The changeling notices and tries to pull it back. The tinkering gets faster — the annoyance sharpens the focus. The longer fingers reach deeper into the machine. This is still functional. This is the changeling at her most efficient.
@@ -47,16 +57,18 @@ The fingers get a little too long. The eyes get a little too yellow. The smile g
 The grin is too wide. The limbs are too long. The height is wrong. People notice. They pretend not to. The changeling is aware of the shift and is annoyed by the shift, which makes the shift worse — the annoyance at the annoyance feeds the transformation. The tinkering becomes aggressive — machines come apart faster, go together faster, hum at frequencies they shouldn't. The changeling at Level 2 is a one-person workshop in overdrive. The Crone says "eat something." The changeling does not eat something.
 
 ### Level 3 — Angry (Full Ryuk)
-The changeling. The true form. Tall, angular, yellow-eyed, the grin, the feathered hair, the too-long fingers with too many joints. The shinigami form. And the shinigami form is *competent* — the extra reach gets into machines no human could access. The extra fingers work three tools at once. The extra-bright eyes see the fault in the machine that the human eyes couldn't find. The annoyance makes the changeling *better.* The anger IS the power. The form doesn't limit the tinkering — the form *amplifies* it.
+The changeling. The full Ryuk form. Tall, angular, yellow-eyed, the grin, the feathered hair, the too-long fingers with too many joints. The shinigami form. And the shinigami form is *competent* — the extra reach gets into machines no human could access. The extra fingers work three tools at once. The extra-bright eyes see the fault in the machine that the human eyes couldn't find. The annoyance makes the changeling *better.* The anger IS the power. The form doesn't limit the tinkering — the form *amplifies* it.
 
 At Level 3, the changeling is the most dangerous and the most useful. The machines she builds at Level 3 are the best machines she builds. They are also the machines most likely to do something nobody expected, because the Ryuk form doesn't follow human engineering principles. The Ryuk form follows Fae engineering principles, which are the principles of "what if it worked differently than you thought it did."
 
+Level 3 is temporary. The form stretches toward Ryuk, the work gets done, and then the tolerance resets and the form settles back to the static metamorphosis. The settling-back is exhausting. The changeling at Level 0 after a Level 3 session is tired, quiet, the grin gone, the fingers back to their normal (her normal) length, the eyes dark. The family makes food. The changeling eats.
+
 ### Level 4 — Beyond Angry (Fracture) — Rare
-The form doesn't just shift — it *fractures.* Multiple shapes at once. The changeling is every form and no form. The human mask and the Ryuk truth and something older underneath both, all visible at the same time. This is dangerous. This is when things break. Not people — machines. The tinkering goes from precise to explosive. The kid who builds things destroys them when the form fractures. The room hums. The lights flicker. The machines she built start doing things they were not designed to do, and the things they do are not always safe.
+The form doesn't just shift — it *fractures.* Multiple shapes at once. The static form and the Ryuk form and something older underneath both, all visible at the same time. This is dangerous. This is when things break. Not people — machines. The tinkering goes from precise to explosive. The kid who builds things destroys them when the form fractures. The room hums. The lights flicker. The machines she built start doing things they were not designed to do, and the things they do are not always safe.
 
 The family has protocols for Level 4. The Crone opens a book and reads in a steady voice. The Bard makes a joke and keeps making jokes until the grin shrinks. The Artisan Thief places a stone in the changeling's hands — something heavy, something real, something that doesn't change. The Chameleon Druid shifts with her, matching her form for form, showing her she's not alone in the changing. The Host puts a hand on her head and says nothing. The nothing is the anchor.
 
-Level 4 passes. It always passes. The form settles. The grin becomes a smile becomes a normal face. The changeling eats something. The machine is rebuilt. The family doesn't talk about it. The family never talks about it. The family doesn't need to.
+Level 4 passes. It always passes. The form settles back to the static metamorphosis. The grin becomes a smile becomes the kid's real face. The changeling eats something. The machine is rebuilt. The family doesn't talk about it. The family never talks about it. The family doesn't need to.
 
 ## The Tinkering
 
@@ -104,7 +116,7 @@ The Crone is the grandmother. The Crone saw the eyes on the first day and said n
 The Bard is the grandfather. The Bard thinks the changeling is *wonderful.* The Bard's protocol for Level 4 is jokes — relentless, stupid, wonderful jokes until the grin shrinks. The Bard is the only person who can make the changeling laugh, and the laugh is the thing that pulls her back. The changeling doesn't admit this. The changeling would rather tinker than talk. But when the Bard is in the room, the form is more stable. The Bard is the warmth the changeling doesn't ask for and can't function without.
 
 ### The Artisan Thief (Krista — Mother)
-The Artisan Thief is the mother. The selkie sees the changeling and sees a creature who chose the land, like she did. The selkie's protocol for Level 4 is a stone — heavy, real, unchanging. Something the changeling can hold that doesn't shift. The selkie understands shifting. The selkie understands choosing a form. The selkie gives the changeling the one thing the changeling can't make: something that stays. The mother-daughter bond between the selkie and the changeling is the bond between two creatures who are not what they appear to be, who chose a family, who stay because the staying is the choice.
+The Artisan Thief is the mother. The selkie sees the changeling and sees a creature who chose a form and then chose a different form and lives in the record of both choices. The selkie understands choosing. The selkie understands the body that is not the origin and not the destination. The selkie's protocol for Level 4 is a stone — heavy, real, unchanging. Something the changeling can hold that doesn't shift. The selkie gives the changeling the one thing the changeling can't make: something that stays. The mother-daughter bond between the selkie and the changeling is the bond between two creatures who are not what they appear to be, who chose their forms, who stay because the staying is the choice.
 
 ### The Chameleon Druid (Krista's Husband — Father)
 The Chameleon Druid is the father. The druid shifts shapes too — chameleon, adapting, blending. The druid's protocol for Level 4 is to shift *with* the changeling. Form for form. Shape for shape. The druid shows the changeling she's not alone in the changing. The druid's shifting is slower, more controlled (high versatility, low endurance) — but the druid shifts to match the changeling's level, not to calm it, to *share* it. The father who says: I change too. You are not the only one. This is the most important thing the druid does in the Inn, and it is the thing he can least afford (his endurance is low, his condition is glioblastoma) and he does it anyway, every time, because the changeling is his daughter and the changing is what they share.
@@ -125,11 +137,19 @@ The changeling chose the Ryuk form because Ryuk is the form that fits. The grin 
 
 This is the weeaboo made mythological: the kid who is obsessed with anime because the anime shows her something true. The kid who sees Ryuk and sees *me.* The form that was always there, found in a story from a culture that isn't hers but that tells her truth better than her own culture does. The changeling who is a weeaboo because the anime is the mirror.
 
+### The Static Metamorphosis and the Changeling Tradition
+
+The static metamorphosis has a parallel in changeling folklore. Changelings are creatures of transformation — they are the evidence that form is not fixed, that the body is not a destination, that what you are born as is not what you are. The changeling who began a transformation and stopped is not a failed transformation. She is the most *changeling* of changelings — the creature who proved that form is a choice, and that the choice can be unmade, and that what's left after the choosing and the unchoosing is a form that is real and true and *hers.*
+
+The Inn doesn't judge the form. The Inn doesn't ask if the transformation is "complete." The Inn doesn't have a concept of complete. The Inn has a concept of *chosen.* The static metamorphosis is chosen — not the form it was heading toward, not the form it started from, but the form that is here. The form that stayed. The form that is the kid.
+
 ### The Apples
 
 Ryuk loves apples. The addiction is iconic. The changeling has an equivalent: a food item that is oddly specific and compulsive and connects to the Inn.
 
 The changeling's apples are pomegranates. The pomegranate is the fruit of the underworld — Persephone's fruit, the fruit that binds you to the cycle of death and return. The changeling eats pomegranates compulsively when she tinkers. The seeds stain her fingers red. The Crone buys them by the crate. The pomegranate connects the changeling to the Inn's death/reincarnation mechanics — the fruit of the cycle, eaten by the creature who is closest to the Fae, the creature whose form is closest to the death gods. The changeling who eats the fruit of the dead and builds machines that keep the dead coming back.
+
+The pomegranate also connects to the bipolar cycle — the going-down and the coming-back. Persephone goes to the underworld and comes back. The changeling goes to Level 4 and comes back. The cycle is real. The pomegranate is the fruit you eat knowing the cycle will come again, and you eat it anyway, because the coming-back is worth the going-down.
 
 ### The Weeaboo and the Inn
 
