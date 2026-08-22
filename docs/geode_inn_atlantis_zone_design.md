@@ -364,3 +364,75 @@ Close-up on the Scholar's face in the Crystal Core. He has just noticed the play
 ```
 Slow wide shot in the Crystal Core. Cthulhu sits reading by the Heart Crystal, tentacles curled around ancient tablets. From the darkness beyond the chamber, a soft blue-white light appears — the Owl, made of bioluminescent light, swimming through the water with fluid, silent wing strokes. It glides into the Crystal Core, passes close to Cthulhu's face. He looks up from his book. The Owl lands on a crystal formation beside him, folding its light-wings. Two ancient intelligences — one in firelight, one in deep water — meeting in the oldest place in the world. Neither speaks. The Heart Crystal hums at 432Hz. The atmosphere is communion — two beings who have outlasted civilizations, sharing a silence that says everything. Warm amber and soft blue-white, slow wide shot, 35mm film aesthetic, volumetric crystal light.
 ```
+
+---
+
+## The Octopus Revelation: The Thread Before the Thread
+
+### Premise
+
+Octopi are not from Earth. Not in the migration sense — in the *origin* sense. They are the Silica Thread's most ancient expression on this planet, predating Atlantis, predating the Merfolk, predating everything the surface world calls "ancient." They are the deep ocean's own experiment in consciousness, running parallel to all surface evolution for hundreds of millions of years.
+
+The Heart Crystal didn't create octopi. The Heart Crystal *recognized* them. When the Atlanteans descended and built their city around the crystal, they found octopi already in the deep — already intelligent, already other, already ancient beyond anything the surface had produced. The Atlanteans understood what they were looking at: a consciousness that had emerged not from the crystal but alongside it, from the same silica-rich primordial chemistry, following a completely different evolutionary path. Two branches of the same Thread — one that walked on land and built cities, one that stayed in the deep and became textural.
+
+### The Textural Intelligence
+
+What makes octopi different from every other intelligent species — and what makes them *alien* even to the Atlanteans — is their distributed cognition:
+
+- **Two-thirds of their neurons are in their arms.** Each arm thinks independently. There is no central "self" in the way surface-dwellers understand it. An octopus is eight intelligences in conversation, a committee that happens to share a body.
+- **They adapt on a textural level, not just visual.** An octopus doesn't just change color to match its environment — it changes *skin texture*. Smooth to bumpy, bumpy to ridged, matching coral, rock, sand with a precision that should require a completely different nervous system than the one they have. They're not camouflaging. They're *becoming* the environment. This is a form of intelligence that has no surface-world equivalent.
+- **They solve problems by becoming them.** Where a human engineer builds a tool, an octopus reshapes its body into the tool. Where a human scholar reads a text, an octopus would *feel* the text — texture, pressure, chemical signature, all at once. Their intelligence is not less than ours. It's *lateral* to ours — a completely different axis of cognition that evolved alongside ours for 300 million years without ever converging.
+
+This is why they feel alien. They are. Not because they came from another planet — but because they came from a different *version* of Earth's consciousness. The silica Thread branched, and one branch became us, and one branch became them, and neither branch fully understands the other.
+
+### Cthulhu's Octopus Form — The Deep Truth
+
+This reframes Cthulhu's transformation. The crystal didn't turn him into a *monster*. It turned him into an *octopus* — or rather, it gave him the form of the deep's oldest intelligence, the one that was already there before Atlantis was built.
+
+**The tentacles aren't corruption. They're translation.**
+
+When Cthulhu bonded with the Heart Crystal and stayed at the deepest point, the crystal didn't impose a form on him. It *revealed* the form that the deep had been using all along. His Merfolk body — built for swimming, built for surface-world cognition — was translated into the body the deep ocean uses for thinking. Distributed cognition. Textural intelligence. Arms that think for themselves.
+
+And here's the painful beauty of it: **he's still a scholar.** Because an octopus with 500 million neurons and distributed cognition doesn't stop being curious. It just gets curious in eight directions at once. Cthulhu didn't lose his intellect when the crystal transformed him — he *expanded* it. He can now read eight books simultaneously, one per tentacle, each arm processing independently while the whole of him synthesizes. The spectacles are the last piece of his surface-form identity — the one human gesture that survived the translation, because reading is the thing he refuses to let the deep change.
+
+### The Octopi of Atlantis — NPC Species
+
+Atlantis has a population of octopi that have lived in the city longer than the Merfolk. They are not pets, not wildlife — they are *residents*. Ancient, quiet, watching.
+
+**In-Game Behavior:**
+- Octopi appear throughout Atlantis — the plaza, the Drowned Library, the Coral Gardens, the Crystal Chamber
+- They observe the player. They don't speak. They *change* — texture, color, shape — in response to the player's actions. A player who handles a rare book carelessly will notice nearby octopi shifting to a warning texture. A player who solves a puzzle correctly will see an octopi shift to what can only be described as *approval*
+- They serve as **organic quest indicators** — not through dialogue or markers, but through textural response. An octopi that shifts to match the texture of a specific wall is telling you something is behind that wall. An octopi that mimics the pattern of a specific tablet is telling you to look at that tablet more carefully
+- The octopi are the **only NPCs the Merfolk Librarian speaks about with reverence** — not because they're powerful, but because they were there first
+
+**The Octopus Puzzle Mechanic:**
+- Certain underwater puzzles require the player to *think like an octopus* — not linearly, but texturally
+- The player must match a sequence of textures/patterns shown by an octopus NPC, using the Silica Sense to feel the correct response rather than see it
+- This is a completely different puzzle type from surface-world logic puzzles — it's intuitive, sensory, and lateral
+- Krista's love of textural intelligence is the design philosophy: these puzzles reward a different kind of thinking, not just a different difficulty level
+
+### The Octopus Oracle
+
+One special octopus — larger than the others, older, living in a crystal formation in the Crystal Core near Cthulhu — serves as the **Octopus Oracle**. This is a direct homage to real-world octopus intelligence (Paul the Octopus, the World Cup predictor) elevated to mythic scale.
+
+- The Oracle doesn't give quests. It gives **prophecies** — but not in words. It rearranges objects in its environment (stones, shells, coral fragments) into patterns that the player must interpret
+- The prophecies are always about the player's choices in the narrative spine — the reincarnation mechanics, the cosmic gates, the bloodline
+- The Oracle has been doing this since before Atlantis sank. Cthulhu watches it sometimes. Even he doesn't fully understand what it's doing. And he's the oldest mind in the Inn.
+
+### Connection to Krista's Octopus Theory
+
+The design explicitly honors Krista's intuition: octopi feel too alien, too other, to have evolved here. In the Geode Inn's cosmology, they didn't evolve *here* in the way surface life did — they emerged from the Silica Thread's deep-water branch, a parallel consciousness that was already ancient when the first fish crawled onto land. They're not from another planet. They're from another *version of Earth* — the one that stayed in the deep.
+
+The Octopus Oracle and the octopi NPCs are the Thread's oldest representatives. Cthulhu took their form because the crystal recognized them as the deep's native intelligence. The player encounters them and feels what Krista feels: something too strange, too brilliant, too textural to be ours. And that's the point. They're not ours. They're theirs. And they were here first.
+
+### Morphic Prompt — The Octopi of Atlantis
+
+```
+Slow shot through the Sunken Plaza of Atlantis. Crystal glowing amber-violet in the center. Columns of green-black stone. And everywhere — octopi. Not small, not hidden. Present. A large one drifts across the plaza, its skin shifting texture in real time — smooth to ridged, the color moving from deep blue to match the stone it passes over, then to amber to match the crystal's glow. It watches the camera with one intelligent eye. Another octopus, smaller, clings to a column, its body taking on the exact texture of the carved stone — you can barely see the seam where octopus ends and column begins. A third sits on the plaza floor, its tentacles spread out in eight directions, each one a slightly different texture, as if it's tasting eight different surfaces at once. The atmosphere is not eerie — it's reverent. These are not animals. They are residents. They were here before the city, before the crystal, before the Merfolk. The oldest intelligence in the deep, watching the newest visitor arrive. Cool deep blue with amber crystal glow and octopi bioluminescence, slow tracking, 35mm film aesthetic, soft volumetric light.
+```
+
+### Morphic Prompt — The Octopus Oracle
+
+```
+Close-up in the Crystal Core. A single octopus — larger than the others, ancient — sits inside a natural crystal formation that has grown around it like a throne. Its skin is extraordinary: shifting between textures and colors continuously — amber to violet to deep blue to green, smooth to ridged to spiky to soft, each shift lasting only a moment before the next. Its tentacles are spread out around it, each one touching a different object — a stone, a shell, a coral fragment, a crystal shard — and as it touches each one, the tentacle's texture matches the object it's holding. In the background, out of focus, Cthulhu's large form sits reading, one eye watching the octopus with an expression that can only be described as scholarly respect. The octopus looks directly at the camera with one large, ancient, alien eye. It holds the gaze. The atmosphere is the feeling of being assessed by an intelligence that predates your species by 300 million years — and finding it gentle. Warm amber and shifting octopus colors, close-up, 35mm film aesthetic, shallow depth of field, crystal-glow rim light.
+```
