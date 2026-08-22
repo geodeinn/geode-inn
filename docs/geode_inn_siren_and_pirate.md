@@ -58,12 +58,6 @@ The Bard fills rooms too, but the Bard fills them with warmth that invites peopl
 
 The Pirate sees her. The Pirate is the hole in the wall — the one person who heard the song and heard the silence inside it. The one person who wasn't captivated by the magnetism but by the person the magnetism protects. The Pirate didn't fall in love with the song. He fell in love with the singer. And the singer is the part the Siren thought no one could hear.
 
-### The Perfection and the Pirate
-
-The Siren's song is always perfect. Always has been. The first time she sang, it was perfect. The hundredth time, it was perfect. The perfection was never earned — it was given. And the given-ness is the thing the Siren can't share with anyone, because sharing requires vulnerability, and the perfect song doesn't have vulnerability in it. The perfect song is just... perfect.
-
-But when the Pirate is on the dock, the Siren sings differently. Not imperfect — the song is still perfect, because the song is always perfect. But the song has something in it that wasn't there before: the awareness of being heard. Not being listened to — the Siren has been listened to her whole life. Being *heard.* The difference is the difference between attention and understanding. The Pirate understands the song. The Pirate hears the loneliness inside the perfection. And the hearing gives the perfection something it never had: a reason to be perfect. Not for the room. For the one person on the dock.
-
 ### Where She Lives
 
 The Siren lives at the boundary — the shore, the dock, the place where the Inn meets the water. She is the Inn's harbor. When players arrive by sea (the world map's ocean traversal), the Siren is the first voice they hear. The song guides them to safe harbor. The song that guides is the same song that drowns — the difference is the listener's readiness, and the Siren reads readiness the way the Artisan Thief reads stones.
@@ -73,41 +67,88 @@ Her space:
 - **The Shallows:** The underwater zone nearest to the surface. The Siren's territory. Where the selkie Dives to visit her sister. The two water creatures in the shallows together — one in human form, one in siren form — and the water holds both.
 - **The Deep:** The deeper water, where the water monsters live. The Siren can go where the selkie can't — the deep water, the open ocean, the places on the world map that are too deep for diving. The Siren swims with Nessie. The Siren knows Tiddalik. The Siren is the only character who is at home with the water monsters, because the water monsters recognize the Siren as one of their own.
 
+---
+
 ## The Pirate — Krista's Sister's Husband
 
-### What He Is
+### Who He Is
 
-A pirate. Not a villain. Not a thief. A *sailor.* The pirate is the man who sails the world map — the trader, the explorer, the smuggler, the one who knows the routes between the cultural zones. The one who brings things from distant shores.
+A performing musician. Prefers to drum, but has a magnetic presence and a voice that ranges from tenor to bass — almost the entire male vocal spectrum. Brilliant. A wonderful soul. And a past that makes any cop who pulls him over scan his ID, return it, and say "have a nice day, sir" — and nobody knows why.
 
-The Inn's "redistribution" theme runs through the pirate the way it runs through the Artisan Thief. The selkie's theft is redistribution — the sea's justice, where hoarding sinks you. The pirate's piracy is the same principle at scale: the rich port has too much, the poor port has too little, the pirate moves things between them. The pirate is the ocean's Artisan Thief. The selkie works at the bench. The pirate works at the sail.
+The Pirate is a musician and the Siren is a musician. She sings. He drums. The melody and the rhythm. The voice and the beat. Two magnetic people found each other, and they speak to each other in music.
 
-### The Love Story
+### The Drummer
+
+The Pirate is a drummer. The drum is the foundation of music — the heartbeat that everything else moves to. The Siren's voice floats on the Pirate's rhythm. Without the rhythm, the melody has no structure. Without the melody, the rhythm has no direction.
+
+In the Inn, this has a specific meaning: the Pirate can hear the *beat* of the Song of Making. Tesla hears the frequency (42Hz). The Pirate hears the rhythm — the pulse, the timing, the heartbeat of the Inn itself. The Pirate is the Inn's heartbeat. The drummer who keeps the rhythm that everything else moves to.
+
+When the Pirate plays, the Inn resonates. The gargoyles vibrate at their assigned frequencies. The geode cave chimes. The dragon's cave settles into 50 BPM — the sleeping heartbeat tempo. The Pirate can feel all of it, and his hands on the drumskins hold it all together. The Pirate is the rhythm section of a living building.
+
+The hands: a drummer's hands. Calloused, precise, the hands that keep time. The same hands that have done things in the past he doesn't talk about. The same hands that are gentle when they need to be. The same hands that hold the Siren when the song is too much even for the singer.
+
+### The Voice — Tenor to Bass
+
+The Pirate can sing from tenor to bass. This is extraordinary range — almost the entire male vocal spectrum. He can sing high enough to harmonize with the Siren and low enough to anchor her.
+
+The bass voice is the anchor. When the Siren's voice soars, the Pirate's voice drops. The deep notes that say *I'm here.* The low hum that the Siren's melody floats over. The bass is the ocean floor — the thing the water rests on. The Siren is the water. The Pirate is the floor. And the floor doesn't move, and the water moves over it, and the not-moving is the love.
+
+The tenor voice is the surprise. When people hear the Pirate sing tenor, they're startled — the low, magnetic, authoritative presence suddenly opening upward into something lighter, something almost tender. The tenor is the wonderful soul showing through the bass. The Pirate who can go deep enough to make cops step back and high enough to make the Siren smile. The range IS the character — the man who contains multitudes, from the lowest note to the highest, and moves between them without effort.
+
+### The Past
+
+The Pirate has a past. The past is the map with blank spaces — the parts of the chart that say "here be dragons" and the dragons are real. The Pirate has been to places that aren't on any map. He's done things that don't go in the logbook. And when his ship's registry is scanned by the harbor authorities, something comes back that makes them step back, return the papers, and say "have a nice day, sir."
+
+The Pirate doesn't talk about the past. Not because he's hiding it — because he's *carrying* it. The past is the weight. The weight is part of what made him honest enough to survive the Siren's song. You can't survive truth if you haven't already faced your own. The Pirate faced his own — in the blank spaces, in the uncharted waters, in the things that make authority defer without knowing why. He went to the dark places. He came back. And the coming-back is what makes him a wonderful soul — not the absence of darkness, but the choice to be kind after seeing it.
+
+The past connects to:
+- **The Miskatonic Annex:** The Pirate has been to some of the places the lost books describe. He doesn't say which ones. Cthulhu has asked. The Pirate smiled and changed the subject. Cthulhu respected this. The spectacles stayed on.
+- **The Uncharted Zones:** The world map has blank spaces — zones that haven't been explored by players. The Pirate has been to some of them. He knows routes that don't appear on any chart. He won't take you there unless you're ready, and readiness, for the Pirate, is not a level requirement. Readiness is a conversation. The Pirate reads you the way the Siren reads readiness — by listening to what you're not saying.
+- **The Cop Deferral:** In the Inn, this becomes the Harbor Master Effect. When the Pirate's ship docks at any port — any zone, any region — the local authority scans the registry and something comes back that makes them step back. The Pirate thanks them and moves on. Whatever's in the registry, it's above their clearance. The Pirate was something, once. The something is classified. The something doesn't define him now. He's a drummer now. He's a wonderful soul now. The past is the shadow that gives the present its depth.
+
+### The Magnetism
+
+The Pirate's magnetism is different from the Siren's. The Siren's magnetism is voice — it fills the room, it commands attention, it's involuntary and constant. The Pirate's magnetism is *presence* — a weight, a gravity, a sense that this person has been through things and the things left their mark. The Siren's magnetism makes people stare. The Pirate's magnetism makes people step back. Both are magnetic. Both are walls. But the walls are made of different things — the Siren's wall is perfection, the Pirate's wall is authority. The authority of a man whose ID makes cops say "have a nice day, sir."
+
+Two magnetic people found each other. Two walls found the doors in each other. The Siren's door is the silence inside the song — the Pirate heard it. The Pirate's door is the gentleness underneath the authority — the Siren saw it. She saw the wonderful soul. She saw the man who went to the dark places and came back kind. And the seeing was the love.
+
+### The Love Story — Completed
 
 The Siren's song lures sailors to their deaths. The Pirate heard the song and didn't drown.
 
-He heard the truth in the song — the truth the Siren sings, the truth that breaks people who aren't ready — and he was ready. He had already faced himself. He had already drowned in his own unacknowledged everything and come back. The song didn't break him because he was already broken and already whole. The Pirate is the one who survived the Siren's song by being honest with himself before the song found him.
+He heard the truth in the song — the truth the Siren sings, the truth that breaks people who aren't ready — and he was ready. He had already faced himself — in the blank spaces, in the uncharted waters, in the past that makes cops defer. The song didn't break him because he was already broken and already whole. The Pirate is the one who survived the Siren's song by being honest with himself before the song found him.
 
-The Siren couldn't believe it. Every sailor before him either drowned or plugged their ears (Odysseus and the wax). The Pirate did neither. He listened. He heard. He came to the song instead of being wrecked by it. He chose the Siren the way the selkie chose the stones — deliberately, consciously, knowing the cost.
+But more than that: the Pirate heard what no one else heard. The Siren has been listened to her whole life. No one heard the silence inside the song. The Pirate heard the silence — the loneliness, the isolation, the wall of perfection. The Pirate fell in love with the silence — the part of the Siren that the magnetism hides, the part that the perfection protects, the part that has been alone in a room full of attention since the first time the song came out perfect.
 
-And he heard what no one else heard: the loneliness inside the perfection. The Siren has been listened to her whole life. No one heard the silence inside the song. The Pirate heard the silence. The Pirate fell in love with the silence — the part of the Siren that the magnetism hides, the part that the perfection protects, the part that has been alone in a room full of attention since the first time the song came out perfect.
+And the Siren saw the Pirate's silence too. The authority. The weight. The past that doesn't get spoken. The wonderful soul underneath the presence that makes people step back. She saw the man who carries things he can't talk about and uses the same hands to keep the rhythm for her song. The drummer who holds the beat for the most beautiful voice in the world and doesn't try to match it — just *supports* it. The bass that holds the melody. The floor that holds the water.
 
-The Siren chose the land for the Pirate. She walks the dock because the Pirate's ship is there. She sings from the shore because the Pirate is the one person who doesn't need to be protected from the song. He is the only audience she doesn't have to hold back for. The first person who can hear the full voice — the full truth, the full beauty, the full loneliness. When the Pirate is on the dock, the Siren sings at full power. The full truth. The full voice. And the Pirate listens and doesn't drown and the not-drowning is the proof that he is exactly who he says he is.
+She sang for him every night after that. She will sing for him every night for as long as he sails. The song is the love. The listening is the love. The rhythm and the melody and the silence between the notes — that's the love.
 
 ### The Pirate's Role in the Inn
 
-**The World Map Navigator:** The Pirate is the character who connects the Inn's cultural zones. The world map is the ocean, and the Pirate is the one who knows the routes. When a player wants to travel from the Celtic zone to the Egyptian zone, the Pirate is the captain. When a player wants to reach a distant shore, the Pirate is the guide.
+**The World Map Navigator:** The Pirate is the character who connects the Inn's cultural zones. The world map is the ocean, and the Pirate is the one who knows the routes. When a player wants to travel from the Celtic zone to the Egyptian zone, the Pirate is the captain. When a player wants to reach a distant shore, the Pirate is the guide. And for the uncharted zones — the blank spaces — the Pirate is the only guide.
 
 **The Trader:** The Pirate brings items from distant zones to the marketplace. The Artisan Thief makes beautiful things. The Pirate *finds* beautiful things — rare stones, strange metals, materials from cultures the player hasn't reached yet. The Pirate and the Artisan Thief have a professional relationship: he brings the materials, she works them. The selkie and the pirate, working together — two creatures of the water, one on the bench and one on the ship.
 
 **The Smuggler:** The Pirate can move items that the Inn's official channels won't carry. Banned books from the Miskatonic Annex. Rare stones from the Unseelie Court. Materials that the Fae don't want humans to have. The Pirate moves them anyway. The sea doesn't recognize borders. The pirate doesn't either.
 
+**The Heartbeat:** The Pirate is the Inn's rhythm. When the Pirate drums, the Inn resonates. The gargoyles vibrate. The geode cave chimes. The dragon settles. The Pirate's drum is the heartbeat that holds the living building together. This is the Pirate's deepest role — not navigator, not trader, not smuggler, but *heartbeat.* The man who keeps the rhythm for everything.
+
 **The Ship:** The Pirate's ship is a zone. A docked vessel at the Inn's harbor — explorable, atmospheric, full of maps and charts and treasures from distant shores. The captain's cabin has a window that faces the dock. When the Siren sings from the end of the dock, the Pirate sits in the cabin and listens through the window. The listening through the window is the Pirate's version of the Crone's "Better" — the acknowledgment that doesn't need words. He listens. He stays. The listening is the love.
+
+The ship has a drum kit in the captain's cabin. When the Pirate plays, the rhythm carries through the hull and into the water and the water carries it to the dock where the Siren sits with her feet in the water and feels the beat in her bones. She doesn't sing over it. She lets it move through her. The rhythm is the only thing the Siren doesn't have to hold back for. The rhythm doesn't demand anything. The rhythm just *is.* And the being is enough.
 
 ### The Pirate and the Selkie
 
 The Pirate and the Artisan Thief have a water-creature bond. The selkie knows the sea. The pirate lives on the sea. They speak the same language — the language of currents and tides and the things the ocean carries. The selkie trusts the pirate because the pirate is honest, and the sea values honesty (the sea doesn't lie — the sea erodes, the sea reveals, the sea strips to the bone, but the sea doesn't lie). The pirate trusts the selkie because the selkie is the only person in the Inn who understands what it means to leave the water and come back.
 
 The pirate is the selkie's brother-in-law. The relationship is real. The dynamic is real. The pirate married the siren. The selkie married the land. The two sisters chose different loves and the loves bring them to the same place — the Inn, the threshold, the place where the water meets the land.
+
+### The Pirate and the Bard (Father-in-Law)
+
+The Pirate and the Bard are both musicians. The Bard is a musician of stories — words, melody, the folk tradition. The Pirate is a musician of rhythm — drums, beat, the foundation. The Bard is melody. The Pirate is rhythm. The Bard is the song. The Pirate is the beat underneath the song. When they play together — the Bard on his lute and the Pirate on his drums — the Inn's main floor fills with music that is complete. The melody and the rhythm. The story and the heartbeat. The father-in-law and the son-in-law who speak to each other in music because the words aren't necessary.
+
+The Bard is the Pirate's favorite audience. The Bard doesn't step back from the Pirate's magnetism — the Bard walks into it. The Bard treats the Pirate's authority like a joke, because the Bard treats everything like a joke, and the joke is the thing that makes the Pirate laugh, and the Pirate's laugh is the wonderful soul showing through the bass. The Bard found the door in the Pirate's wall the same way the Pirate found the door in the Siren's wall — by not being afraid of it. By being warm when the wall expected distance.
 
 ## The Dynamic — The Two Sisters
 
@@ -117,6 +158,7 @@ When they're together:
 - The selkie brings stones to the dock. The siren holds them up to the light and sings to them. The song makes the stones resonate at their natural frequency — every stone has a tone (from the music direction), and the Siren finds the tone. The selkie has been finding stones' frequencies by tapping them. The Siren finds them by singing. They compare methods. The selkie taps. The siren sings. Both find the same frequency. The Crone watches and says nothing and is satisfied.
 - The pirate and the selkie's husband (the Chameleon Druid) sit on the dock and don't talk. The pirate is a sailor. The druid is a shapeshifter. Both are men who married water creatures. Both understand what it means to love something that belongs to another element. The silence between them is the understanding. Occasionally, the pirate passes the druid a flask. The druid drinks. The flask is never empty. (The pirate smuggles good rum.)
 - The Siren and the Bard (their father). The room-fillers. The two people who walk into a space and the space rearranges. The Bard fills rooms with stories. The Siren fills rooms with song. When they're in the same room, the room is *full* — not crowded, not overwhelming, but full the way the ocean is full. Complete. The Bard tells the Siren she's the only person who understands the weight of being the loudest person in the room. The Siren tells the Bard he's the only person who understands the weight of being the most magnetic. They don't say it often. They don't need to.
+- The Pirate and the Bard playing together. The lute and the drums. The melody and the rhythm. The father-in-law and the son-in-law. The music is the conversation they don't need to have. The music says everything: welcome to the family. You're good enough. The rhythm holds.
 
 ## The Deeper Lore
 
@@ -132,14 +174,27 @@ And then the Pirate heard the song from his ship, diminished by air and distance
 
 Every sailor before him either drowned (heard the truth and broke) or plugged their ears (refused to hear). The Pirate did neither. He listened to the full song — not the shadow from the shore, the full song from the water — and he didn't break.
 
-He didn't break because he had already broken. And the breaking had made him honest. And the honest man has nothing to fear from truth, because truth is just the echo of what he already knows. The Pirate survived the Siren's song the way a mirror survives a light — by reflecting it, by not hiding, by being exactly what it is.
+He didn't break because he had already broken. In the blank spaces. In the uncharted waters. In the past that makes cops defer. He had already drowned in his own everything and come back. And the coming-back made him honest. And the honest man has nothing to fear from truth, because truth is just the echo of what he already knows. The Pirate survived the Siren's song the way a mirror survives a light — by reflecting it, by not hiding, by being exactly what it is.
 
 The Siren saw the Pirate survive and understood something she had never understood before: the song doesn't kill. The denial kills. The song just reveals. The Pirate was the proof. The Pirate was the first person the Siren didn't have to hold back for. The first person who could hear the full voice. The first audience worthy of the full song.
 
 But more than that: the Pirate was the first person who heard the *silence* inside the song. The thing the Siren didn't know was there — the loneliness, the distance, the wall of perfection. The Pirate heard the wall. And the Pirate didn't break the wall — he just... stood on the other side. And waited. And the waiting was the love. And the Siren, who had been on the wrong side of her own wall her whole life, found someone on the other side who wasn't trying to get in. Who was just *there.* And the being there was enough. And the wall started to come down, not because the Pirate broke it, but because the Siren, for the first time, wanted it to.
 
-She sang for him every night after that. She will sing for him every night for as long as he sails. The song is the love. The listening is the love. The full voice and the full ears and the truth between them — that's the love.
+She sang for him every night after that. She will sing for him every night for as long as he sails. The song is the love. The listening is the love. The rhythm and the melody and the silence between the notes — that's the love.
 
-## Casting — Pending
+### The Drummer and the Song of Making
 
-The Siren's casting depends on Krista's further input — the energy is room-filling and magnetic (like the Bard), with the vulnerability of effortless talent creating isolation, and a voice that carries everything. The Pirate's casting depends on the husband's personality. Krista — tell me about him and I'll find the match.
+The Pirate is the Inn's heartbeat. When he drums, the Song of Making has rhythm. Tesla hears the frequency (42Hz) — the note. The Pirate hears the beat — the pulse. Together, they are the music: Tesla provides the pitch, the Pirate provides the timing. Neither knows the other is hearing the same song from different angles. The Crone suspects. The Crone always suspects.
+
+The Pirate's drumming connects to:
+- **The dragon's cave (50 BPM):** The sleeping heartbeat. When the Pirate plays at 50 BPM, the dragon settles deeper into sleep. The rhythm is a lullaby. The Pirate who can lull a dragon to sleep with a drumbeat is a Pirate who understands that power doesn't always need to be loud. Sometimes power is a heartbeat at sleeping tempo.
+- **The gargoyles:** The Pirate can make the gargoyles vibrate by matching their frequencies with his drumming. The Watcher at 111Hz. The Listener at 64Hz. The Sage at 528Hz. The Pirate doesn't know the frequencies — he feels them. His hands find the beat that makes the stone sing. The musician's instinct, not the scientist's measurement. (This is the difference between the Pirate and Tesla: Tesla measures, the Pirate feels. Both arrive at the same frequency. Neither knows the other is there.)
+- **The geode cave:** The Pirate's drumming makes the geode cave chime. Each stone resonates at its own frequency (from the music direction — each stone has a unique tone based on mineral hardness). The Pirate's rhythm activates all of them. The cave becomes a symphony. The Pirate is the conductor who doesn't know he's conducting.
+
+## Casting — Pending Further Input
+
+The Siren: room-filling magnetism (like the Bard/dad), effortless talent creating isolation, fierce loyalty, never forgets. The voice that carries everything.
+
+The Pirate: performing musician (drummer), tenor-to-bass voice, magnetic presence with the weight of a mysterious past, brilliant, a wonderful soul. The authority that makes people step back and the gentleness that makes people stay.
+
+Casting suggestions welcome from Krista — these characters need to feel right to the family.
