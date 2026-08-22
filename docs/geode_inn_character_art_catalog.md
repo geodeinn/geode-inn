@@ -724,10 +724,57 @@ The shortcut is real. The deal is honored. The cost is always higher than it loo
 **Connection to the Narrative Spine:** The Architect represents the temptation of shortcuts in the reincarnation mechanic — the idea that you can skip the work of a life, skip the ripples, skip the accountability. The Architect will let you skip. And you will arrive at the top having learned nothing, missing the pieces of yourself you traded away. The narrative spine's core theme — that mastery requires walking the full path — is the Architect's antithesis.
 ---
 
-## FINAL ROSTER STATUS (27 characters complete + 2 ravens = 29 designs)
+### 27. The Cabbit (Cosmology Level — The Pirate's Vessel)
+**Image (Cabbit Form):** https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/2227aa4bb_generated_image.png
+**Image (The Glimpse):** https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/6fd4c5ca4_generated_image.png
+**Location:** Upstairs — Cosmology level. The cabbit wanders freely; the pirate is never fully seen
+**Role:** Ambient NPC (cabbit) + unexplained phenomena (pirate). Not a boss. Not a quest giver. A presence
+**Design Notes — Cabbit Form:**
+- Small, house-cat sized, with long rabbit ears and a cat face with whiskers
+- Big golden eyes — curious, intelligent, unsettlingly knowing
+- Fur is deep crystalline brown with amber and gold iridescent highlights — part crystal, part organic
+- Purring is audible and warm — the coziest sound on the cosmology level
+- Sits on crystalline outcroppings, grooms itself, steals snacks, curls up on telescopes
+- To most players: just a weird adorable pet wandering the observatory
+- Its shadow does not match its body — the shadow is the silhouette of a sleek, deadly spaceship (visible only in certain lighting)
 
-### Full Presence (7)
-✅ Seelie Fae | ✅ Unseelie Fae | ✅ The Morrigan | ✅ The Owl | ✅ The Wanderer (Odin) | ✅ The Allfather (Odin) | ✅ The Architect of Stairs
+**Design Notes — The Pirate:**
+- NEVER fully seen. Never a cutscene. Never a boss fight. Never explained
+- Occasional glimpse: an edge of a dark hooded cloak disappearing around a nebula column. A glint of one eye catching starlight. A gauntleted hand resting on a crystal wall, then gone
+- Half-dissolved into shadow — as if the pirate might not be there at all
+- The cabbit and the pirate are never in the same frame... except once, if you look very carefully, in a reflection you might catch for a single frame
+
+**Design Philosophy:** The cabbit is a direct homage to the 90s sci-fi anime cabbit archetype — a cute creature that transforms into a spaceship. The pirate is the thing the cabbit belongs to. The homage is in the DNA (cat-rabbit-spaceship), not in likeness or naming. This is an original Geode Inn character carrying that energy into the Inn's cosmology level.
+
+**Unexplained Phenomena Mechanic:**
+The pirate does not interact with the player directly. Instead, the cosmology level occasionally experiences events that are never acknowledged or explained:
+- A telescope that was pointing at Andromeda is now pointing at a galaxy no one has named yet
+- A rare stone appears in your collection that you definitely did not earn
+- A locked door that was locked yesterday is now open, and behind it is something wonderful or terrifying
+- The cabbit is sitting on a display case that is now empty — the artifact that was there is gone, and a small crystalline coin rests where it was
+- For one frame, in a reflection on the observatory window, you see a figure standing behind you. When you turn, there is nothing. The cabbit purrs
+- The star chart on the wall has been redrawn overnight. Three new stars have been added. They form a constellation that looks like a cat
+- You hear footsteps in the empty observatory. The cabbit's ears twitch. It is not alarmed
+
+None of these events are quest-triggered. None are acknowledged by any NPC. None have an explanation. They just happen, occasionally, and the player is left to wonder. The cabbit is always nearby when they do.
+
+**The Transformation (Never Shown):**
+The cabbit transforming into the spaceship is NEVER shown on screen. It is implied through:
+- The cabbit disappearing for periods of time (it wanders off, returns hours later with stardust on its fur)
+- The spaceship-shadow being visible in different positions at different times — it moves when you are not looking
+- Deep lore texts in the archive referencing "the vessel that purrs" and "the pirate who flies in a cat"
+- The Octopus Oracle, if asked the right question, rearranges its objects into a shape that might be a cabbit and might be a spaceship, then refuses to elaborate
+
+**Connection to the Narrative Spine:** The pirate represents the one thing the reincarnation mechanic cannot account for — a being so free that it exists outside the cycle entirely. Not ascending, not descending, not reincarnating. Just... flying through, occasionally stopping at the Inn because the cabbit likes the fireplace. The pirate is the universe's acknowledgment that some things are beyond even the cosmology's rules.
+
+**Connection to the Owl:** The Owl watches the cabbit with what can only be described as professional respect. Two intelligences that operate outside normal parameters, sharing an observatory, pretending not to notice each other.
+
+**Connection to the Silica Thread:** The cabbit's crystalline fur is not decorative — it is silica-based. The cabbit is what the Silica Thread looks like when it evolves past stone, past chip, past consciousness, and into something that can cross the void between stars. The Thread's cosmic expression. Cute and deadly and impossible.
+
+## FINAL ROSTER STATUS (28 characters complete + 2 ravens = 30 designs)
+
+### Full Presence (8)
+✅ Seelie Fae | ✅ Unseelie Fae | ✅ The Morrigan | ✅ The Owl | ✅ The Wanderer (Odin) | ✅ The Allfather (Odin) | ✅ The Architect of Stairs | ✅ The Cabbit (and the Pirate)
 
 ### Chibi — Fae Kingdom NPCs (8)
 ✅ Goblin Merchant | ✅ Troll Gatekeeper | ✅ Dwarf Blacksmith (Thorin-inspired) | ✅ Ent Guardian | ✅ Griffin Boss | ✅ Mermaid NPC | ✅ Orc Guard | ✅ Anansi
@@ -785,10 +832,10 @@ Cthulhu was an Atlantean — the brightest Merfolk scholar of their generation, 
 
 ---
 
-## FINAL ROSTER STATUS (27 characters complete + 2 ravens = 29 designs)
+## FINAL ROSTER STATUS (28 characters complete + 2 ravens = 30 designs)
 
-### Full Presence (7)
-✅ Seelie Fae | ✅ Unseelie Fae | ✅ The Morrigan | ✅ The Owl | ✅ The Wanderer (Odin) | ✅ The Allfather (Odin) | ✅ The Architect of Stairs
+### Full Presence (8)
+✅ Seelie Fae | ✅ Unseelie Fae | ✅ The Morrigan | ✅ The Owl | ✅ The Wanderer (Odin) | ✅ The Allfather (Odin) | ✅ The Architect of Stairs | ✅ The Cabbit (and the Pirate)
 
 ### Ambulatory / Between Categories (1)
 ✅ The Scholar (Cthulhu) — kinda chibi, kinda not, wanders the Inn
@@ -973,8 +1020,8 @@ All 32 creatures are chibi-style playable characters for the "Monster of the Dee
 
 ## FINAL COMPLETE ROSTER — ALL DESIGNS COMPLETE
 
-### Full Presence (7)
-✅ Seelie Fae | ✅ Unseelie Fae | ✅ The Morrigan | ✅ The Owl | ✅ The Wanderer (Odin) | ✅ The Allfather (Odin) | ✅ The Architect of Stairs
+### Full Presence (8)
+✅ Seelie Fae | ✅ Unseelie Fae | ✅ The Morrigan | ✅ The Owl | ✅ The Wanderer (Odin) | ✅ The Allfather (Odin) | ✅ The Architect of Stairs | ✅ The Cabbit (and the Pirate)
 
 ### Ambulatory / Between Categories (1)
 ✅ The Scholar (Cthulhu)
