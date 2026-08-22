@@ -689,12 +689,45 @@ Some mythological figures (Anubis, Medusa) are powerful but serve game mechanics
 **Raven Behavior:** In this form, the ravens are silent and still — full realistic birds perched on his shoulders. Same Huginn and Muninn, but here they are extensions of his will, not comic relief. The transformation from the Wanderer's thieving chibis to these solemn watchers IS the storytelling.
 **Narrative Connection:** The Allfather connects to the narrative spine's themes of ancient beings watching and remembering. His ravens (Huginn = thought, Muninn = memory) mirror the Geode Inn's own function as an archive of thought and memory. The empty eye socket — the sacrifice for wisdom — parallels the narrative spine's theme of sacrifice and cosmic awareness.
 
+
+### 26. The Architect of Stairs (Unseelie Court — The Maze Maker)
+**Image:** https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/06be78e15_generated_image.png
+**Location:** The Staircase (Alchemy level) — appears on the impossible staircase between the main floor and the cosmology level. Also encountered in The Between (shifting borderlands of the Fae Kingdom)
+**Role:** NPC — shortcut trader, maze architect, deal-maker
+**Design Notes:**
+- Full Presence — tall, striking, androgynous, carrying the energy of a Labyrinth-inspired Fae
+- Wild feathered hair — pale feathers woven through dark hair, some falling across the face, catching unseen wind
+- White ruffled shirt, open at collar, flowing and dramatic — Henson-era fantasy aesthetic
+- Dark coat with subtle feather patterning, almost alive — the feathers shift when you are not looking
+- One hand rests casually on staircase railing; the other holds a small crystal that glows faintly amber
+- Expression: knowing, slightly amused, a little dangerous — the look of someone who designed the maze you are lost in
+- Eyes: heterochromatic — one pale blue, one amber — both sharp, both watching
+- The staircase behind them twists in impossible directions — Escher geometry, stone steps going up, down, sideways, looping back on themselves
+- Subtle crystals grow from the stone walls, glowing soft amber — the Geode Inn aesthetic
+- The Fae stands on a step that should not exist, on a staircase that should not work, and looks completely at home
+- Feeling: enchanting and unsettling — beautiful, but you should not trust this person. They will help you, but the help will cost you something you did not agree to give.
+
+**Cultural Source:** Celtic folklore (Unseelie Court — the Gentry who deal in bargains) crossed with the Henson/Labyrinth aesthetic — the beautiful deceiver, the maze designer, the one who makes deals in their own favor. An original Geode Inn character carrying that DNA, not a copy.
+**Why Full Presence:** This character commands the staircase — the bridge between all three levels of the Inn. Their power is architecture itself, the manipulation of space and transition. You cannot underestimate someone who can rebuild the path you are standing on.
+**Design Philosophy:** The homage is in the energy, not the likeness. Feathered hair, impossible stairs, deals that cost more than they appear — these are the DNA of the Labyrinth Escher scene translated into the Geode Inn's original mythology. The character is Unseelie because their deals always favor them, but they never lie. The trap is that the truth is worse than a lie would be.
+**Mechanic — The Bargain:** The Architect offers shortcuts up the staircase. The staircase normally shifts and rearranges for each person who climbs it (the alchemy level's key literally changes as you ascend). The Architect can lock the staircase into a single configuration for you — make it straight, make it short, make it easy. But the price is always something the player did not realize they were offering:
+- A memory (the player loses a piece of lore they have already learned and must re-earn it)
+- A stone (the player gives up a collected stone that they will have to find again)
+- A secret (the player reveals something about their playthrough that the Architect uses to reshape future encounters)
+
+The shortcut is real. The deal is honored. The cost is always higher than it looked. That is the Unseelie way.
+
+**Connection to the Staircase Level:** The staircase is the alchemy level — the bridge between physical matter (downstairs/catacombs) and the divine (upstairs/cosmology). The Architect doesn't just control the stairs — they control the *transition between states*. Alchemy is transformation, and the Architect is the only being in the Inn who can transform the path itself. This makes them one of the most powerful NPCs in the game, despite having no combat role.
+
+**Connection to the Owl:** The Owl and the Architect know each other. The Owl navigates the Inn freely, appearing and disappearing without using the staircase. The Architect finds this both irritating and fascinating. There is a history between them that neither will explain.
+
+**Connection to the Narrative Spine:** The Architect represents the temptation of shortcuts in the reincarnation mechanic — the idea that you can skip the work of a life, skip the ripples, skip the accountability. The Architect will let you skip. And you will arrive at the top having learned nothing, missing the pieces of yourself you traded away. The narrative spine's core theme — that mastery requires walking the full path — is the Architect's antithesis.
 ---
 
-## FINAL ROSTER STATUS (25 characters complete)
+## FINAL ROSTER STATUS (27 characters complete + 2 ravens = 29 designs)
 
-### Full Presence (6)
-✅ Seelie Fae | ✅ Unseelie Fae | ✅ The Morrigan | ✅ The Owl | ✅ The Wanderer (Odin) | ✅ The Allfather (Odin)
+### Full Presence (7)
+✅ Seelie Fae | ✅ Unseelie Fae | ✅ The Morrigan | ✅ The Owl | ✅ The Wanderer (Odin) | ✅ The Allfather (Odin) | ✅ The Architect of Stairs
 
 ### Chibi — Fae Kingdom NPCs (8)
 ✅ Goblin Merchant | ✅ Troll Gatekeeper | ✅ Dwarf Blacksmith (Thorin-inspired) | ✅ Ent Guardian | ✅ Griffin Boss | ✅ Mermaid NPC | ✅ Orc Guard | ✅ Anansi
@@ -752,10 +785,10 @@ Cthulhu was an Atlantean — the brightest Merfolk scholar of their generation, 
 
 ---
 
-## FINAL ROSTER STATUS (26 characters complete + 2 ravens = 28 designs)
+## FINAL ROSTER STATUS (27 characters complete + 2 ravens = 29 designs)
 
-### Full Presence (6)
-✅ Seelie Fae | ✅ Unseelie Fae | ✅ The Morrigan | ✅ The Owl | ✅ The Wanderer (Odin) | ✅ The Allfather (Odin)
+### Full Presence (7)
+✅ Seelie Fae | ✅ Unseelie Fae | ✅ The Morrigan | ✅ The Owl | ✅ The Wanderer (Odin) | ✅ The Allfather (Odin) | ✅ The Architect of Stairs
 
 ### Ambulatory / Between Categories (1)
 ✅ The Scholar (Cthulhu) — kinda chibi, kinda not, wanders the Inn
@@ -940,8 +973,8 @@ All 32 creatures are chibi-style playable characters for the "Monster of the Dee
 
 ## FINAL COMPLETE ROSTER — ALL DESIGNS COMPLETE
 
-### Full Presence (6)
-✅ Seelie Fae | ✅ Unseelie Fae | ✅ The Morrigan | ✅ The Owl | ✅ The Wanderer (Odin) | ✅ The Allfather (Odin)
+### Full Presence (7)
+✅ Seelie Fae | ✅ Unseelie Fae | ✅ The Morrigan | ✅ The Owl | ✅ The Wanderer (Odin) | ✅ The Allfather (Odin) | ✅ The Architect of Stairs
 
 ### Ambulatory / Between Categories (1)
 ✅ The Scholar (Cthulhu)
