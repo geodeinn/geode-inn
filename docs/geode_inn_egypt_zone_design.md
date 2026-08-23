@@ -28,11 +28,37 @@ Bastet is the zone's heart. She is warm. She is a cat. She is also a goddess who
 
 ## Characters
 
-### Bastet (Full Presence)
-- **Appearance:** A woman with the head of a cat, or as a large seated cat, or as a woman with cat-like features and golden eyes. She shifts between forms depending on the moment — playful in the herding, regal in the weighing, tender in the vision.
-- **Personality:** Warm, direct, slightly amused by everything. She has the energy of a cat who has lived for thousands of years and finds human earnestness endearing. She is not stern — she is patient. She does not demand worship — she asks for help.
-- **Voice:** Low, warm, unhurried. Like a cat purring between sentences.
-- **Role:** Quest-giver, guide, and the presence that transitions the zone from playful to profound. She gives the player the sistrum, teaches them to use it, and is present at the weighing and the vision.
+### Bastet (Full Presence) — Angela Bassett
+
+**The casting is Angela Bassett. In every way.**
+
+Not "inspired by." Not "channels the energy of." Angela Bassett IS Bastet, and Bastet IS Angela Bassett. The resemblance is not a performance choice — it's a recognition. The woman who has spent her career playing queens, protectors, and mothers who fight is the goddess who has been those things for five thousand years.
+
+**The quality:** Regal without performing regality. Powerful without raising her voice. Warm without being soft — the warmth has *teeth.* This is the Bassett warmth: the warmth of a lioness who could destroy you and is choosing, deliberately, to let you close. The warmth is not weakness. The warmth is *restraint.* And the restraint is what makes the warmth feel safe.
+
+**The presence:** Angela Bassett walks into a room and the room recalibrates. Not because she demands it — because the room *recognizes* her. The same way a temple recognizes its goddess. The same way a cat recognizes the person who feeds it. The recognition is instinctive, physical, below language. You don't think "I should respect this person." You just... do. The body knows before the mind does. Bastet has the same effect — the player enters the temple courtyard and the temple settles. The cats stop scattering. The dust motes find their patterns. The space *organizes around her* the way a pride organizes around a lioness.
+
+**The voice:** Low, rich, warm, unhurried. The Bassett voice — the voice that has delivered devastating lines in a whisper (American Horror Story), that has commanded nations without shouting (Black Panther's Ramonda), that has grieved with a dignity that makes the viewer feel like they're intruding (What's Love Got to Do With It). Bastet's voice is the sistrum made vocal — a low vibration that you feel in your chest before you hear it with your ears. When Bastet speaks, the cats listen. Not because she's loud. Because the frequency is *theirs.*
+
+**The cat quality:** Angela Bassett has something feline that is NOT cute-feline. Lioness-feline. The grace of a large, powerful body that moves with absolute economy. The stillness between movements — a cat doesn't fidget, a cat *waits.* Bassett waits. The camera finds her and she is already there, already still, already watching. The watching is the cat quality. Cats don't stare aggressively — they observe. They take in the whole room without moving their head. Bassett does this. Bastet does this. The goddess who watches her temple the way a cat watches its territory: with total attention, absolute patience, and the quiet understanding that everything in the space belongs to her.
+
+**The three modes — Bassett's range applied to Bastet:**
+
+*Playful (Herding):* The Bassett of *How Stella Got Her Groove Back* — warm, amused, alive, the woman who is genuinely delighted by life and doesn't hide it. The Bastet who sits on the pillar grooming her paw and says "Oh. You found it. Good — I've been waiting for someone who could hold it without dropping it. The last three couldn't." The playful is NOT silly. It's the playfulness of a being so powerful that play is the only thing left that surprises her. The last three couldn't hold the sistrum. That's funny. Five thousand years, and humans still can't hold a rattle. The humor is affection, not contempt.
+
+*Regal (Weighing):* The Bassett of *Black Panther* — Ramonda, the queen mother. The bearing that says "I have buried a king and I am still standing." The Bastet who watches the weighing from the doorway and says "Don't worry. The cats already told me everything I need to know about you." The regal is not cold — it's *composed.* The composure is the thing the player leans on. When the scales are measuring your understanding, Bastet's composure is the ground that keeps you from panicking. She doesn't say "you'll be fine." She says "the cats told me." The cats told her. The cats always tell her. The information is already in. The weighing is for the player, not for Bastet. She already knows.
+
+*Tender (The Vision):* The Bassett of *Waiting to Exhale* — the woman who grieves with her whole body, who doesn't hide the pain, who lets the tears come and lets them go and is not diminished by either. The Bastet who watches the Nile flood and remembers every flood, every cycle, every rising of Sirius, every time the water came and the people fed and the civilization endured. The tenderness is not soft. It's *deep.* The depth of someone who has been watching the same river for five thousand years and still finds it beautiful. The Bastet who purrs — and the purr is not a sound, it's a vibration, the 64Hz of the Listener gargoyle, the frequency that means "I am here and I am staying and the staying is the love."
+
+**Why Angela Bassett, specifically:**
+
+Bastet holds the tension between warmth and weight — the playful and the sacred. Most actors can do one or the other. They can be warm (and lose the gravitas) or they can be regal (and lose the warmth). Angela Bassett does both simultaneously. She has *never* chosen. Every role — from Tina Turner to Ramonda to Marie Laveau — carries both. The warmth is always there. The weight is always there. The tension between them is not a conflict. It's a *harmony.* And harmony — Ma'at — is the Egyptian zone's entire design philosophy.
+
+Bastet is the zone's heart. Angela Bassett is the actor whose heart has always been big enough to hold both the playful and the sacred without dropping either.
+
+- **Appearance:** A woman with the head of a cat, or as a large seated cat, or as a woman with cat-like features and golden eyes. She shifts between forms depending on the moment — playful in the herding, regal in the weighing, tender in the vision. In every form: Angela Bassett. The bone structure. The bearing. The eyes that see everything and judge nothing and miss nothing.
+- **Voice:** Low, warm, unhurried. The Bassett voice. Like a cat purring between sentences — but the cat is a lioness, and the purr is felt in the chest before it's heard with the ears.
+- **Role:** Quest-giver, guide, and the presence that transitions the zone from playful to profound. She gives the player the sistrum, teaches them to use it, and is present at the weighing and the vision. In every scene, she is Angela Bassett — the woman who makes you feel like the most interesting person in the room while simultaneously making the room feel like it belongs to her.
 
 ### Anubis (Chibi → Full Presence)
 - **Dual form:** In the herding game, Anubis appears as a chibi figure near the weighing scales, fidgeting with the feather. In the Weighing of Understanding, he shifts to Full Presence — jackal-headed, tall, quiet, precise.
