@@ -95,3 +95,60 @@ The question is not answered by Galahad alone. The question is answered by the *
 Galahad's arc is the arc of the old world learning that it was wrong — not evil, not cruel, but *insufficient.* The old standards were real. The purity was real. The worthiness was real. They were just... not enough. Not for the Song. Not for the merging. Not for the new magic that wants choice, not compliance.
 
 The complication is the compassion. Galahad is not punished for his purity. Galahad is *invited* — invited to crack, to fail, to become real. The invitation is the Inn's thesis: you are welcome here. Not because you are perfect. Because you are willing to break. And the breaking is the music.
+
+## Occam's Razor — The Broken Principle
+
+### How Galahad Thinks
+
+Galahad has lived by Occam's Razor: the simplest explanation is the best one. The fewest assumptions. The cleanest path. The decision reduced to its essential components, the complexity stripped away, the answer that requires the least machinery to be true.
+
+This is not just Galahad's philosophy. This is the *mechanism* of his purity. Occam's Razor is how he has navigated every decision of his life:
+- When the choice is between duty and desire, Occam's Razor says: duty. Duty is simpler. Desire introduces variables.
+- When the choice is between action and restraint, Occam's Razor says: restraint. Restraint is simpler. Action creates consequences.
+- When the choice is between the knightly path and the human path, Occam's Razor says: the knightly path. The knightly path has rules. The human path has... everything else.
+
+Every decision Galahad has ever made has been the *simplest* decision. The decision that requires the fewest assumptions about the world, about other people, about himself. The decision that can be made *clean.* Purity is Occam's Razor applied to a life.
+
+### Why It Breaks
+
+The merging eliminated the simple world.
+
+The old magic was simple. It followed laws. It rewarded compliance. It was a system where the simplest explanation WAS the right one — purity earns the Grail, sin earns failure, the knight who meets the standard achieves the prize. Clean. Simple. Occam's Razor applied to magic.
+
+The new magic is not simple. The new magic is the Seelie King's mutation — alive, responsive, emotional, unpredictable. The new magic responds to choice, and choice is the opposite of simple. Choice introduces variables. Choice creates consequences. Choice requires assumptions about the world, about others, about yourself. Choice is the *mess* that Occam's Razor was designed to cut away.
+
+The Song of Making is the ultimate anti-Occam object. It is not the simplest explanation for anything. It is the *most complex* thing in the Inn — a frequency that requires weight to be heard, imperfection to resonate, failure to carry meaning, love to transmit, and a crack in the armor to enter. The Song is not simple. The Song is *everything.* And Occam's Razor, applied to the Song, would cut everything away. Would reduce the Song to: "a hum." A 42Hz hum. A measurement. A frequency. A fact.
+
+Tesla's fact. Not Merlin's music.
+
+Galahad has been applying Occam's Razor to the Song his entire quest. He has been simplifying the Song down to its components, reducing the Grail to its mechanics, stripping the quest to its requirements. And the simplified version is: "be pure, be worthy, achieve the Grail." The simplest path. The cleanest solution. The fewest assumptions.
+
+And the simplest path leads to silence. The cleanest solution produces nothing. The fewest assumptions hear no Song. Because the Song is not in the simplicity. The Song is in the *mess.*
+
+### The Moment It Breaks
+
+The moment Galahad realizes Occam's Razor no longer applies is the Camelot zone's emotional climax.
+
+Galahad has been questing alongside the player. Galahad has been watching the player fail — fail at games, fail at riddles, fail at quests, fail at transformations. And Galahad has been applying Occam's Razor to the player's failures: "the simplest explanation for the player's failure is that the player is insufficient. The player is not pure enough. The player does not meet the standard."
+
+But the player keeps going. The player keeps failing and keeps questing and keeps *hearing* — fragments of the Song, partial notes, vibrations in the stones, echoes in the Bifrost music. The player hears the Song *because* of the failures, not in spite of them. The failures are the receiver. The mess is the antenna.
+
+Galahad watches. Galahad applies Occam's Razor. Occam's Razor says: "the player's success despite failure contradicts the premise that purity is required. The simplest explanation is that the premise is... wrong."
+
+The Razor cuts itself.
+
+This is the moment. The moment the principle that has governed every decision Galahad has ever made turns on itself. Occam's Razor — the tool for finding truth by cutting away complexity — cuts away the belief that simplicity is truth. The simplest explanation for why the player hears the Song and Galahad doesn't is: *the player's complexity is the mechanism, not the obstacle.* The mess is not the problem. The mess is the *solution.* And Occam's Razor, which cuts away the mess, cuts away the solution.
+
+The Razor breaks. Not because it was wrong — it was *sufficient* for the old world. It breaks because the old world is gone. The new world is not simpler than the old world. The new world is *alive.* And alive things cannot be reduced to their simplest components without killing them. Occam's Razor, applied to a living thing, is a scalpel. And the scalpel is sterile, and sterility is... purity, and purity is the silence where the Song should be.
+
+### What Replaces It
+
+The question: if not Occam's Razor, then what? What principle does Galahad use when the simplest explanation is no longer the right one?
+
+The answer is: *none.* No principle. No system. No single tool that can be applied to every decision. The new magic doesn't want a principle. It wants a *person.* A person who chooses, moment by moment, without a razor to cut the choice down to size. A person who holds the complexity, sits with the mess, lets the variables exist, and decides *anyway* — not because the decision is simple but because the decision is *his.*
+
+This is what the player models for Galahad. The player doesn't have a principle. The player has *experience.* The player has been a fish and a bird and a stone and a squirrel. The player has failed and succeeded and failed again. The player has eaten pomegranate seeds and paid Charon's obol and heard the Crone say "Better" and felt the Bifrost music ascend. The player has *weight.* And the weight is not a principle. The weight is a life. And a life is the one thing Occam's Razor cannot simplify without destroying.
+
+**Merlin's observation:** "...He lived by the razor. ...The razor cut the world down to size. ...The world is no longer that size. ...The razor is... [Merlin losing the thought, reaching for it] ...the razor was... sufficient. ...For a world that was simple. ...The world is not simple. ...The world is... [Archimedes, quietly, from the perch: '...Alive.'] ...Yes. ...Alive. ...I knew that. ...I knew that *next.* ...Is that the right tense? ...Archimedes? ...He's ignoring me. ...He does that when the answer matters."
+
+**The Crone's annotation on the breaking of Occam's Razor:** "...The principle was... elegant. ...I respect elegance. ...Elegance is the property of a system that achieves its purpose with minimal machinery. ...The razor achieved Galahad's purpose: purity. ...The purpose was the problem. ...Not the razor. ...The razor was... [the Crone pause, the one that means she's identifying with something she doesn't want to identify with] ...my principle too. ...I measure. ...I cut. ...I reduce to the essential. ...The essential is... [the pause that means she's changing] ...insufficient. ...I said this before. ...I am saying it again. ...I will keep saying it until I... [the longest Crone pause, the one that means she's not sure she'll ever finish the sentence] ...stop measuring. ...Or until I learn to measure... the crack. ...The crack is where the music is. ...The crack is not simple. ...The crack is... [final annotation, no pause, the Crone at her most direct] ...everything."
