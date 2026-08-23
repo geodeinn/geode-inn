@@ -361,6 +361,40 @@ static func get_profile(character_id: String) -> Dictionary:
 			"idle_animation": "inspecting_artifact",
 			"light_source": "canopy_filtered",
 			"special": {}
+		},
+		
+		"astronomer_deduction": {
+			"pitch_hz": 125.0,
+			"pitch_end_hz": 160.0,
+			"reveal_speed_ms": 25,
+			"reveal_speed_end_ms": 25,
+			"pause_ms": 100,
+			"expressiveness": 0.7,
+			"instrument": "violin_staccato",
+			"cadence": "mind_palace_deduction",
+			"facial_intensity": 0.7,
+			"gesture_frequency": 0.9,
+			"gesture_type": "connecting_points",
+			"idle_animation": "pacing_with_violin",
+			"light_source": "starlight_sharp",
+			"special": {"rising_pitch": true, "mode": "deduction"}
+		},
+		
+		"astronomer_contemplation": {
+			"pitch_hz": 125.0,
+			"pitch_end_hz": 100.0,
+			"reveal_speed_ms": 65,
+			"reveal_speed_end_ms": 65,
+			"pause_ms": 900,
+			"expressiveness": 0.3,
+			"instrument": "violin_sustained",
+			"cadence": "mind_palace_contemplation",
+			"facial_intensity": 0.3,
+			"gesture_frequency": 0.1,
+			"gesture_type": "looking_at_sky",
+			"idle_animation": "stargazing_with_violin",
+			"light_source": "starlight_soft",
+			"special": {"descending_pitch": true, "mode": "contemplation"}
 		}
 	}
 	
@@ -412,5 +446,6 @@ static func get_all_character_ids() -> Array:
 		"pirate", "siren_outer", "siren_inner", "shifting_man",
 		"peruvian_guide", "radagast", "beorn", "medusa",
 		"host", "anubis", "crone", "charon", "catalyst",
-		"cartographer", "examiner"
+		"cartographer", "examiner",
+		"astronomer_deduction", "astronomer_contemplation"
 	]
