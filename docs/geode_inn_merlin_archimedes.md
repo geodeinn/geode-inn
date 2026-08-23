@@ -126,3 +126,23 @@ The Camelot zone is the zone of *transformation* — learning by becoming. Where
 The zone is organized around Merlin's tower — a small, cluttered space on the main floor, near the Greek zone but architecturally distinct. The tower is bigger on the inside (Merlin's magic, or Merlin's bad memory of how big the tower was supposed to be). The tower is full of books that contain future knowledge that Merlin has already read and is forgetting. The books are blanking from the back. Archimedes perches on the one book that still has all its pages. He won't let anyone else touch it.
 
 The Round Table is in the zone — but it's not what the player expects. The Round Table is not a war council. The Round Table is a *dining table.* The place where Arthur's knights sat as equals, ate as equals, and were equal. The Inn's Round Table is the same: the place where the design principle of belonging (not hierarchy) is made physical. Everyone at the Round Table is the same height. Everyone at the Round Table has the same access to the center. The center is empty — the center is the space where the Grail would go, and the Grail isn't there yet, because the Grail is the Song of Making, and the Song hasn't been sung yet, and Merlin knows this and can't say it and Archimedes won't.
+
+## Merlin and Da Vinci — The Cronies
+
+Merlin and Da Vinci are cronies. Close friends. Insufferable together.
+
+They are the same brain running in opposite temporal directions. Da Vinci sees patterns in the present. Merlin hears the song from the future. Both are scattered, brilliant, physical, talk with their whole bodies, lose things, find things they haven't lost yet. Both have a keeper (the Crone catalogs Da Vinci's sketches; Archimedes remembers what Merlin forgets). Neither keeper will admit to keeping.
+
+When they get going, the Council of Thinkers suffers:
+
+- Tesla puts his hands over his ears. The 42Hz hum is easier to track than their conversation.
+- Newton calculates the exact duration of their rambling. It's never shorter than forty minutes.
+- Einstein watches and smiles. He's the only one who finds it restful. When asked why, he says: "They're both trying to describe the same thing. ...The present sees it. ...The future hears it. ...The thing is the Song. ...They don't know that. ...I won't tell them. ...The not-telling is kinder."
+
+The crony dynamic:
+
+- Da Vinci sketches while Merlin talks. Merlin talks while Da Vinci sketches. They don't look at each other. The not-looking is the trust. They don't need to see each other to know the other is there.
+- Da Vinci will sketch something Merlin described from the future. Merlin will see the sketch and say: "Yes! ...That's it! ...Or it was. ...I think it was. ...Archimedes, was that it?" Archimedes says nothing. Da Vinci keeps sketching. The sketch is always close. The sketch is never exact. The gap between the sketch and the real thing is the gap between seeing patterns and hearing music.
+- They argue about everything. The arguments are joy. They argue about flight (Da Vinci designs machines; Merlin transforms into birds and says "just do this"). They argue about water (Da Vinci maps currents; Merlin says "be the current"). They argue about time (Da Vinci says time is a river; Merlin says "no, time is a river running backwards and you're facing the wrong way"). The arguments never resolve. The not-resolving is the friendship.
+
+The Crone's final annotation on the cronyship: "...Da Vinci and Merlin. ...The present and the future, in conversation. ...The present sees patterns. ...The future hears music. ...Neither listens to the other. ...Both are... listening. ...In their own way. ...The listening is the cronyship. ...I find it... [the longest Crone pause, the one that means she's almost smiling] ...loud."
