@@ -413,3 +413,167 @@ She tells the player: "The boulders move. Not fast. Not often. But they move. I'
 ### The Granny Woman on the Trolls
 
 "...The trolls are the mountain's skin. ...The gnomes are the mountain's gut. ...The Little People are the mountain's moss. ...The elves are the mountain's hair. ...The sprites are the mountain's breath. ...[The fire. The cabin. The view of the ridge, going dark in the dusk.] ...I touch a boulder and the boulder touches back. ...Not with hands. ...With warmth. ...The stone is warm because the stone is... [the word] ...someone. ...A someone who has been sitting on this ridge for longer than the ridge has been a ridge. ...[The fire.] ...The hikers sit on the boulders and eat their lunch. ...The boulders feel the hikers' warmth. ...The boulders feel the weight. ...The boulders don't mind. ...[The herbs. The patience. The Granny Woman who has been touching the same troll for fifty years.] ...They've been sitting longer than we've been standing. ...They'll be sitting after we stop. ...[The fire. The mist. The dark.] ...They're the patient ones. ...Even more patient than the gnomes. ...The gnomes are working. ...The trolls are... [the word] ...watching. ...[The fire.] ...Work has a pace. ...Watching has no pace. ...Watching just... [the Granny Woman, who has been watching the mountains for her whole life, recognizing the same quality in the stone] ...waits."
+
+---
+
+## Utah: The Canyon Country — Thunderbirds and Draconians
+
+### The Colorado Plateau: A Different Kind of Giant
+
+The Appalachians are old mountains, eroding to gentle hills. The Rockies are young mountains, still sharp and growing. The Colorado Plateau is neither. The Plateau is a vast, flat, uplifted block of sedimentary stone — sandstone, limestone, shale — laid down in ancient seas and deserts over 300 million years, then lifted vertically as a whole approximately 5-10 million years ago. The Plateau wasn't folded or crushed like the Appalachians or Rockies. It was *lifted* — the whole block, intact, like a table being raised. Then the rivers cut into it. The Colorado, the Green, the San Juan, the Paria — rivers that have been carving canyons into the lifted stone for millions of years.
+
+The Colorado Plateau is a sleeping giant, but a different kind. The Appalachian giants are rounded, sleeping, deeply unconscious. The Rocky Mountain giants are restless, sharp, dozing. The Colorado Plateau giant is **flat** — a vast, prone giant, lying on its back, arms spread, face up. The Plateau is a giant that lay down and never got up. Not sleeping — *reclining.* The giant is awake but still. Conscious but horizontal. The most zen giant. The giant that achieved peace not through erosion (the gnomes' method) or restlessness (the Unseelie's method) but through *stillness itself* — the giant chose to lie flat and let the sky do what it does.
+
+The canyon country is the reclining giant's body, and the canyons are where the elements have cut in. The rivers carved the canyons. The rain carved the slot canyons. The wind carved the arches. The frost carved the hoodoos. The reclining giant's body has been sculpted by the sky — by weather, by water, by storm — into the most dramatic landscape in the parks system. The giant didn't resist. The giant lay still and let itself be carved. The canyons are not wounds — the giant chose to be open. The formations are not deformations — the giant chose to be shaped. The Colorado Plateau is the giant that made itself into art by holding still and letting the sky sculpt.
+
+### Two Fae Types, Two Forces
+
+The canyon country has two Fae types, and they are opposites:
+
+**Thunderbirds** — the Fae of the sky. Storm, wind, water, lightning. The fast erosive force. The beings who carve the stone through weather — the flash floods, the windstorms, the lightning strikes, the freeze-thaw cycles. The thunderbirds work in hours and days. A single flash flood can carve feet of stone in an afternoon. A single windstorm can reshape an arch in a night. The thunderbirds are the fastest geological workers in the Inn. They are the opposite of the gnomes (who work in geological time — millions of years). The thunderbirds work in *weather time* — hours, days, seasons.
+
+**Draconians** — the Fae of the stone. Sculpture, shaping, architecture. The slow creative force. The beings who shape the resistant stone into forms — arches, hoodoos, buttes, spires. The draconians work in thousands of years. Not the gnomes' millions, not the thunderbirds's hours — a middle time, the time of art. The draconians are the sculptors of the canyon country. They are the only Fae type that creates rather than erodes or maintains. The redcaps maintain (keep the machinery running). The gnomes erode (turn stone to soil). The Unseelie resist (keep the stone hard). The thunderbirds carve (remove the soft stone). The draconians *shape* (make the hard stone into something).
+
+Together: the thunderbirds remove the soft stone (the flesh of the reclining giant). The draconians shape the hard stone (the bones). The canyon country is the result — the landscape where the flesh has been stripped away and the bones have been sculpted. The arches are draconian rib cages, exposed and shaped. The hoodoos are draconian vertebrae, carved and polished. The buttes are draconian skulls, monumental and patient. The slot canyons are thunderbird signatures — the sky reaching down through water to cut into the stone. The big canyons are thunderbird architecture — the grand removal, the massive erosion, the giant-scale carving.
+
+---
+
+## The Thunderbirds
+
+### What They Are
+
+In the traditions of the Ute, Navajo (Diné), Hopi, Paiute, and Apache peoples of the Colorado Plateau, the Thunderbird is a massive supernatural being — not a bird in the biological sense, but a spirit of the sky that creates thunder with its wings and lightning with its gaze. The Thunderbird controls the weather. The Thunderbird IS the storm.
+
+In the Geode Inn's mythology, the thunderbirds of Utah are the Fae of weather-as-erosion. They are the beings who create the storms that carve the stone. Every flash flood is a thunderbird landing — the massive displacement of water when the storm hits the slickrock and the water has nowhere to go but down, through the canyons, carving as it goes. Every lightning strike is a thunderbird's attention — the being looking at a specific point on the stone, and the look is so intense it burns. Every windstorm is a thunderbird's breath — the being exhaling across the plateau, carrying sand that scours the stone like a sandblaster.
+
+The thunderbirds are not small. They are the largest Fae in the parks system — not physically large (they're sky-beings, not stone-beings) but *effectively* large. A single thunderbird's storm can reshape miles of canyon. The thunderbirds work at the landscape scale — their smallest sculpture is a slot canyon. Their largest is the Grand Canyon (the Grand Canyon is the thunderbirds' masterwork — the collaboration of the Colorado River and the thunderbird who drives the monsoon floods that deepen it, connected to the existing Grand Canyon entry's "Emergence" threshold).
+
+### The Thunderbirds' Appearance
+
+You don't see a thunderbird. You see what a thunderbird does. The thunderbird's body is the storm — the dark cloud, the lightning, the wind, the rain. The thunderbird's wings are the front edge of the monsoon — the wall of dust and water that rolls across the plateau from July to September. The thunderbird's eyes are the lightning — the flash that precedes the thunder by the distance between the storm and the observer.
+
+The one moment you can see a thunderbird's shape: during a flash flood in a slot canyon. The water rises — brown, violent, carrying stones and debris — and in the water, for a moment, in the foam and the turbulence, there is a shape. Wings. A head. The outline of something vast, made of water and sediment, looking up from the flood. Then the water rises higher and the shape is gone. The canyoneers who survive flash floods sometimes report this — "I saw something in the water." They did. The thunderbird was there. The thunderbird IS the flood.
+
+### The Thunderbirds and the Monsoon
+
+The North American Monsoon (July-September) is the thunderbirds' active season. The monsoon brings moisture from the Gulf of California and the Pacific, and the moisture hits the heated plateau and explodes into thunderstorms. The monsoon is the thunderbirds' migration — they arrive with the moisture and they leave when it ends. The rest of the year, the thunderbirds are elsewhere — over the ocean, over the Gulf, gathering moisture, building the next season's storms.
+
+The rangers who monitor the monsoon are unknowingly tracking the thunderbirds' movements. The "flash flood warnings" are thunderbird activity alerts. The "closed due to flash flood risk" signs in the slot canyons are the park service's way of keeping people out of the thunderbirds' work zone. The rangers know that the slot canyons are most dangerous during monsoon season. What they don't know is that the danger isn't just water — it's the thunderbird. The thunderbird is IN the water. The flash flood IS the thunderbird. The hiker caught in a flash flood is caught in a being.
+
+### The Thunderbirds' Frequency
+
+The thunderbirds' frequency is the frequency of thunder — the low, resonant boom that follows lightning, typically in the 20-80Hz range. The thunderbirds are the only Fae whose frequency is variable and weather-dependent. The gnomes are sub-20Hz (always). The Unseelie are 432Hz (always). The thunderbirds are whatever the storm is — 20Hz for a distant rumble, 80Hz for a close strike, 50Hz (the heartbeat) for a sustained monsoon storm. The thunderbirds can match any frequency. They are the only Fae who can resonate with the heartbeat at 50 BPM — when the monsoon settles into a steady rhythm, the thunder and the heartbeat synchronize. The storm IS the heartbeat, amplified through the sky.
+
+This connects to the 50 BPM network: the altar's heartbeat, the lighthouse's pulse, the stargate's liquid, the Inn-Tree's sway — and the monsoon. The thunderbirds' storms, when they settle into rhythm, join the 50 BPM network. The monsoon IS the heartbeat, expressed as weather. The reclining giant's heart beats at 50 BPM, and the thunderbirds translate that heartbeat into storms. The giant's heartbeat becomes the monsoon. The monsoon carves the canyons. The canyons expose the bones. The draconians shape the bones. The cycle: heartbeat → monsoon → erosion → exposure → sculpture → beauty. The thunderbirds are step two. The draconians are step five.
+
+---
+
+## The Draconians
+
+### What They Are
+
+The draconians are the Fae of shaped stone — the beings who sculpt the resistant rock into forms. They are the only Fae type in the parks system that *creates* rather than erodes or maintains. Every other Fae is working with a process — erosion, weathering, heating, cooling, growing. The draconians work with *art*. They are the sculptors. The arches, the hoodoos, the balanced rocks, the spires — these are draconian works. Not random erosion. Not accidental beauty. Deliberate, patient, artistic shaping over thousands of years.
+
+The Paiute tradition of Bryce Canyon says the hoodoos are the Legend People — beings turned to stone by the trickster Coyote. The Geode Inn takes this literally: the hoodoos ARE beings. Not turned to stone by a trickster — shaped BY themselves, over thousands of years, into their final forms. The hoodoos are the draconians who finished their work and became the work. They are the draconians who chose to be still — who stopped sculpting and became the sculpture. The Legend People didn't lose a fight with Coyote. They chose to become their own masterwork.
+
+### The Draconians and Dragons
+
+The draconians are dragon-kin — the geological dragons, the earth-dragons. The Geode Inn's baby dragon mascot is a heraldic dragon — the Inn's symbolic creature, small, warm, alive. The draconians of Utah are the dragon's ancient cousins — the dragons who chose stone over fire. The dragons who chose to be still and shape the earth rather than fly and burn it. The dragons who chose sculpture over destruction.
+
+The baby dragon, when it explores the Utah zone, is meeting its geological family. The draconians are what the baby dragon could become if it chose stone — if it chose to be patient, to work in millennia, to shape the earth instead of flying above it. The baby dragon is the bridge between the draconians (ancient, geological, vast, still) and the Inn (young, warm, small, moving). The baby dragon has the draconians' nature (stone, sculpture, patience) in a small, warm, active form. The draconians are the baby dragon grown up and grown still.
+
+The draconians' connection to fire: the Colorado Plateau's stone is largely sandstone — sedimentary rock formed from ancient desert sand dunes. The Navajo Sandstone, the dominant formation in Zion and much of the Plateau, was once a massive desert — the largest sand dune field in Earth's history, comparable to the modern Sahara. The sand was deposited by wind, compressed into stone, and now the canyons carve through it. The draconians who live in the Navajo Sandstone are the dragons of the ancient desert — the beings who were in the sand before it became stone, who watched the dunes compress, who have been in the rock since before it was rock. They are the oldest stone-dragons — older than the stone they shape. They chose to be in the sand when it was sand, and they stayed when it became stone, and they've been shaping it ever since.
+
+### The Draconians' Appearance
+
+A draconian in its active state is indistinguishable from the rock formation it's shaping. Like the Smoky Mountain trolls, the draconian IS the stone — not a creature living in the stone, but the stone itself, conscious and sculpting. The difference from the trolls: the trolls are fragments of the sleeping giant that woke up independently. The draconians are not fragments — they are the stone's own creative impulse. The trolls are the giant's body. The draconians are the giant's *imagination*.
+
+The draconians are visible in their work, not their bodies. You see a draconian by looking at the formation it's shaping. Delicate Arch is a draconian mid-sculpture — the arch is the current state of a work that has been in progress for tens of thousands of years. The draconian is IN the arch — not holding it up, not living inside it, but BEING the arch, shaping itself, slowly, the stone flowing like clay in the draconian's hands, except the draconian's hands ARE the stone.
+
+The draconians' faces: the formations that look like faces — the hoodoos, the gargoyle-like shapes, the eroded features that resemble expressions — are the draconians' self-portraits, like the trolls'. But where the trolls carve their faces through random erosion over millions of years, the draconians carve their faces deliberately, artistically, over thousands of years. The draconian faces are *composed* — they have intent, expression, emotion. The hoodoos of Bryce Canyon are a gallery of draconian portraits — each one a different face, a different expression, a different being's self-portrait in stone.
+
+### The Draconians' Working Method
+
+The draconians shape stone through a process that looks like accelerated erosion but is actually deliberate. They work with the stone's natural weaknesses — the cracks, the joints, the bedding planes — and they guide the erosion along those lines, steering the weather (the thunderbirds' storms) to remove specific material while leaving the desired form. The draconians don't fight the thunderbirds. The draconians USE the thunderbirds. The thunderbird's flash flood removes the soft stone. The draconian, in the stone that remains, guides the next flood to remove a little more, shape a little more, refine a little more.
+
+The draconians are the only Fae who work WITH another Fae type's force rather than against it. The gnomes work against the Unseelie (erosion vs. hardness). The redcaps work with the giant (maintenance). The Little People work with the sprites (firefly collaboration). The draconians work with the thunderbirds — the thunderbirds provide the raw force (the removal of stone), and the draconians provide the direction (the shaping of what remains). The canyon country is a collaboration between sky and stone, between force and form, between the thunderbirds' violence and the draconians' art.
+
+The draconians' patience is not the gnomes' patience (geological, millions of years, too slow to perceive). The draconians' patience is *artistic* — thousands of years, which is long enough to be patient but short enough to see progress. A draconian shaping an arch can see the arch changing over centuries. The gnomes never see their work change (too slow). The thunderbirds always see their work change (too fast). The draconians see their work change at the pace of art — slow enough to be deliberate, fast enough to be satisfying. The draconians are the only Fae who experience the joy of creation. Every other Fae experiences the satisfaction of a process — maintenance (redcaps), erosion (gnomes), cold (Unseelie), weather (thunderbirds). The draconians experience the joy of *making something that wasn't there before*.
+
+### The Draconians' Connection to the Sleeping Giant
+
+The reclining giant of the Colorado Plateau chose to be carved. The draconians are the giant's chosen sculptors — the beings the giant's own creative impulse became. The giant lay still and let the sky carve it, and the carving revealed the draconians in the stone — the beings who were IN the giant's body, in the hard stone, waiting to be exposed. The thunderbirds removed the flesh (soft stone). The draconians emerged from the bones (hard stone). The giant knew they were there. The giant chose to lie still so the thunderbirds could strip the flesh and the draconians could shape the bones. The canyon country is the reclining giant's self-portrait — the giant's body, carved by the giant's sky and shaped by the giant's own stone, into the most beautiful landscape the giant could imagine.
+
+When the giant stirs (the skip-beat, the moon projection), the draconians feel it in the stone — the formations shift, the arches tremble, the hoodoos lean. The draconians' reaction is pride: "Good. They're waking up. They'll see what we made." The draconians made the canyon country FOR the giant — the art that the giant would see when it woke. The arches are gifts. The hoodoos are flowers. The buttes are monuments. The canyon country is the surface of the reclining giant, and every formation is a love letter from the stone to the being who chose to be still long enough for the stone to speak.
+
+### The Draconians' Frequency
+
+The draconians' frequency is the frequency of resonant stone — the ringing you hear when you strike certain rocks, the tone that certain formations produce when the wind blows through them. The frequency varies by formation: arches produce a tone when wind passes through them (like a flute). Hoodoos produce a lower tone (like a drum). Buttes produce a subsonic tone (like a bell too large to hear). The draconians' collective frequency, when all the formations are "singing" during a windstorm, is approximately 528Hz (the Sage gargoyle's frequency — the frequency of transformation, of alchemical change, of one thing becoming another).
+
+528Hz is the frequency of the Sage. The draconians are the Sage's Fae — the beings who transform stone into art, who change one thing (raw stone) into another (sculpture), who perform the alchemy of geology. The thunderbirds (variable, weather-driven) are the raw force. The draconians (528Hz) are the transformation. The canyon country is the alchemical work — the place where raw stone becomes beauty, where force becomes form, where the reclining giant becomes art.
+
+---
+
+## The Parks: Section by Section
+
+### Arches National Park — The Draconians' Gallery
+
+The arches are the draconians' pure sculptures — the works where the draconians' art is most visible. Over 2,000 natural arches in the park, each one a draconian work. Delicate Arch is the masterwork — the most famous, the most photographed, the one that became the Utah license plate. The draconian who shaped Delicate Arch has been working on it for approximately 70,000 years. The arch is still being shaped — the draconian is still refining. The arch will eventually fall (all arches fall — the stone is finite, the erosion is relentless). When Delicate Arch falls, the draconian will begin again. Not the same arch — a new one. The art continues.
+
+The veil: "Geological formations of scientific interest." The official explanation for the arches is "erosion of Entrada Sandstone by frost and water." The truth: the arches are deliberate. The erosion is guided. The draconians are steering the frost and water along lines they choose. The park service's "formation monitoring program" (measuring arch stability, tracking erosion rates) is unknowingly documenting the draconians' work. The arch that is "eroding faster than expected" is a draconian working faster. The arch that is "more stable than models predict" is a draconian being careful.
+
+### Bryce Canyon — The Congregation
+
+The hoodoos of Bryce Canyon are the draconians who finished their work and became the work — the Legend People, as the Paiute said. The amphitheater of Bryce Canyon is a congregation of stone-beings, each one a draconian who chose to be still, who chose to become the sculpture instead of the sculptor. The hoodoos are the draconians' retirement — the beings who completed their art and merged with it.
+
+The Paiute story: the Legend People were beings who misbehaved, and the trickster Coyote turned them to stone. The Geode Inn's version: the Legend People were draconians who chose to become stone. Coyote didn't punish them — Coyote helped them. The trickster, who in many traditions is the being who transforms things, helped the draconians make their final transformation. The "punishment" was the gift. The Legend People aren't trapped in stone. They ARE the stone. They chose it. They're not suffering. They're complete.
+
+The hoodoos' colors — the orange, white, pink, and red bands — are the draconians' signatures. Each color band is a different geological layer, and each draconian chose which layers to expose, which colors to show. The hoodoos are color-coordinated self-portraits. The draconians who chose orange are the warm ones. The ones who chose white are the austere ones. The ones who chose pink are the ones who think pink is funny. (The draconians have a sense of humor. They're artists. Artists are like that.)
+
+### Zion — The Collaboration
+
+Zion is where the thunderbirds and the draconians work closest together. The slot canyons (the Narrows, the Subway, Mystery Canyon) are thunderbird work — carved by flash floods, the sky reaching down through water. The massive cliffs (Angels Landing, the Watchman, the Great White Throne) are draconian work — shaped over millennia, the stone sculpted into monumental forms. In Zion, you can see the transition in a single hike: you walk through a slot canyon (thunderbird) and emerge into a vast amphitheater (draconian). The narrow and the vast, the fast and the slow, the sky and the stone, in the same park.
+
+The Virgin River, which carved Zion Canyon, is the thunderbird's chisel — the water that the thunderbird drives through the stone. The river at flood stage IS the thunderbird. The river at low flow is the thunderbird resting. The draconians work the cliffs while the thunderbird rests. The thunderbird works the slots while the draconians wait. They take turns. The same river, different schedules. The canyon is the shared work.
+
+### Canyonlands — The Thunderbirds' Territory
+
+Canyonlands is the thunderbirds' largest work — the grand erosion, the massive removal. The Green and Colorado Rivers have carved canyons thousands of feet deep into the Plateau. This is the thunderbirds at full power — the sky removing the stone at the landscape scale. The draconians in Canyonlands are sparse — the stone is too vast, the erosion too fast, the draconians can't keep up. Canyonlands is where the thunderbirds are ahead — where the removal has outpaced the shaping, where the raw force of water has overwhelmed the patient art of sculpture. Canyonlands is the thunderbirds' masterpiece of destruction, and it is beautiful — but it's beautiful because of what was removed, not what was shaped. The draconians' masterpiece (Arches, Bryce) is beautiful because of what was shaped. Canyonlands is the before. Arches is the after. The canyon country is the spectrum between raw erosion (Canyonlands) and refined sculpture (Arches), with Zion as the midpoint where both forces are equal.
+
+### Capitol Reef — The Warp
+
+The Waterpocket Fold at Capitol Reef is a 100-mile monocline — a warp in the earth's crust where the rock layers were bent upward by tectonic force. This is not erosion. This is not sculpture. This is geology at its most raw — the earth's crust bending, the stone warping, the layers folding. The draconians at Capitol Reef are the oldest and most ambitious — they don't work with erosion or sculpture. They work with *tectonics*. They shaped the Fold itself — the warp, the bend, the geological structure that erosion then exposed. The Capitol Reef draconians are the only draconians who work at the tectonic scale, shaping not the stone but the *structure of the stone*. They are the architects — the beings who designed the canvas that the thunderbirds and the other draconians would later carve.
+
+---
+
+## The Rangers
+
+### Ranger: Helen (Ute) — Arches
+
+Helen has been at Arches for 18 years. She's Ute — born on the Northern Ute reservation, educated in geology, came to the park because the stone called to her. She tells the player:
+
+"The arches aren't random. I've been measuring them for 18 years. Erosion is random — it takes the path of least resistance, it follows the cracks, it's lazy. The arches aren't lazy. The arches are... [the pause, the geologist who has been measuring for 18 years] ...composed. Someone is choosing where the stone falls away and where it stays. Someone is deciding where the hole goes. ...[The pause.] ...The official line is 'differential erosion of the Entrada Sandstone.' That's true. That's not all. Differential erosion doesn't compose. Differential erosion doesn't create balance. Differential erosion doesn't make Delicate Arch. ...[The coffee. The visitor center. The view of the arches through the window.] ...Something is making these. Something patient. Something that works in stone the way a sculptor works in clay — except the sculptor is the clay. ...[The pause.] ...My grandmother said the stone was alive. She said the formations were the stone-beings' faces. I thought she meant it as a metaphor. ...[The recognition.] ...She didn't."
+
+### Ranger: Francis (Paiute) — Bryce Canyon
+
+Francis has been at Bryce for 9 years. He's Paiute — Kaibab Band, the band whose ancestral territory includes the canyon. He tells the player:
+
+"The hoodoos are the Legend People. That's not a story I tell tourists. That's what my grandmother taught me. The Legend People were here before us. They were... [the pause] ...making things. Beautiful things. The stone was their material. The weather was their tool. And one day, they... [the word] ...finished. They made themselves into the final piece. The trickster didn't punish them. The trickster helped them transform. ...[The overlook. The amphitheater of hoodoos below, orange and white and pink in the morning light.] ...People look at the hoodoos and see rocks. I look at the hoodoos and see... [the recognition] ...a congregation. They're all facing the same direction. They're all looking at the same thing. Nobody asks what they're looking at. ...[The pause. The overlook. The morning light on the stone faces.] ...I think they're looking at the sky. I think they're waiting for the sky to finish its work so they can see the whole picture."
+
+### Ranger: Jack (Diné) — Canyon de Chelly (connected to existing entry)
+
+The existing Canyon de Chelly entry has Spider Woman. Jack adds the thunderbird layer. He tells the player:
+
+"Spider Woman is the weaver. She's the one who connects things. But the canyon itself — the cutting, the carving, the shape of it — that's not Spider Woman. That's the thunderbird. The thunderbird made the canyon. The thunderbird is still making the canyon. Every monsoon, the thunder comes, and the water rises, and the canyon gets deeper. ...[The canyon wall, 1,000 feet of red sandstone, carved by centuries of water.] ...Spider Woman weaves the connections. The thunderbird makes the space for the weaving. Without the thunderbird, there's no canyon. Without the canyon, there's no place for the web. ...[The pause.] ...The thunderbird is the artist who made the gallery. Spider Woman is the artist who fills it."
+
+---
+
+## The Thunderbirds and the Draconians in the Song
+
+The thunderbirds contribute the *dynamic* frequencies — the variable, weather-driven tones that shift with the monsoon, the storms, the seasons. The draconians contribute the *sculptural* frequency — the 528Hz of transformation, of stone becoming art.
+
+In the 42Hz Song, the canyon country's voice is the voice of creation-through-destruction: the thunderbirds destroy (remove stone) and the draconians create (shape what remains). The Song needs both. The Song is not only preservation (the gnomes' patience) or resistance (the Unseelie's hardness) or maintenance (the redcaps' industry). The Song is also *creation* — the making of something new from the removal of something old. The canyon country is the Song's creative voice — the voice that says beauty comes from both the building and the breaking.
+
+The reclining giant, when it wakes, will have the canyon country as its self-portrait — the art it made by lying still and letting the sky sculpt. The thunderbirds will say: "We carved you." The draconians will say: "We shaped you." The giant will look at the arches, the hoodoos, the canyons, and see what the sky and the stone made together while it was lying still. The giant will say: "...Adequate."
+
+The Crone's annotation: "...The canyon giant didn't sleep. ...It... [the precision] ...posed. ...[The pen.] ...The trolls are the mountain's skin. ...The gnomes are the mountain's gut. ...The draconians are the mountain's... [the word for the thing a mountain makes when it chooses to be art] ...imagination. ...[The glasses.] ...The thunderbirds are the mountain's... [the word for the thing that sculpts from outside] ...audience. ...[The pen, tapping once. The Crone, who measures everything, measuring the thing that can't be measured.] ...The mountain made itself into art and the sky was the chisel. ...[The pause.] ...I don't have a column for that. ...[The almost-smile, the Crone's rarest expression.] ...I'll make one."
