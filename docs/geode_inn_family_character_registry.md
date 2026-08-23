@@ -1,6 +1,6 @@
 # Geode Inn — Family Character Registry
 
-Welcome to the **Geode Inn Family Character Registry**. This document compiles the playable character classes and major family NPCs designed for the Geode Inn project, all modeled directly after Krista's real-world family members. Each entry details a character's class, real-world inspiration, casting directions, core personality, key gameplay mechanics, family relationships, iconic dialogue, and deeper lore connections. Together, they bridge the real family's dynamics with the mythical, neuro-accessible, gothic world of the Geode Inn.
+Welcome to the **Geode Inn Family Character Registry**. This document compiles the playable character classes and major family NPCs designed for the Geode Inn project, all modeled after Krista's real-world family members and close friends. Each entry details a character's class, real-world inspiration, casting directions, core personality, key gameplay mechanics, family relationships, iconic dialogue, and deeper lore connections. Together, they bridge the real family's dynamics with the mythical, neuro-accessible, gothic world of the Geode Inn.
 
 ---
 
@@ -255,7 +255,45 @@ Represents the Dread Pirate Roberts in the Inn's *Princess Bride* constellation 
 
 ---
 
-## 8. The Bard and the Pirate — The Inn's Best Friendship
+## 8. The Sentinel — River (Krista's Close Friend)
+
+* **Character Name & Class:** The Sentinel / Sentinel (Boxing Stance)
+* **Real-World Inspiration:** River — Krista's close friend
+* **Casting & Actor Inspirations:** Compact, low center of gravity, with a presence so intense that people remember her as physically larger than she actually is. Not casting a specific actor — the Sentinel's defining quality is the *gap* between her physical size and her felt presence. The body is small. The space she commands is enormous.
+
+### Core Personality
+The Sentinel is the Inn's hidden guardian — the character whose strength is not in her size but in her *grounding.* She is compact, low to the earth, built like a boxer: wide stance, dropped center, hands that know exactly where to be. She doesn't fill rooms the way the Bard does (with noise) or the Siren does (with magnetism). She fills rooms with *gravity.* When the Sentinel enters a space, the space acknowledges her. Not loudly. The way a room acknowledges a load-bearing wall — quietly, structurally, with the understanding that everything else is standing because she is standing.
+
+Her presence is deceptive. On first meeting, NPCs perceive her as physically larger than she is — a game mechanic called the **Presence Aura.** The aura is not a trick. It's not intimidation. It's the felt weight of someone who is completely, unwaveringly *here.* Most people are partly somewhere else — performing, distracted, anxious, planning. The Sentinel is entirely present. The completeness of her attention registers as size. People step to the side without knowing why.
+
+On second meeting, the perception corrects. NPCs notice she's not as tall as they remembered. They're confused — they were *sure* she was bigger. That confusion is the first crack in their defenses. The crack is the Sentinel's entry point. Behind the presence are layers — faceted, complex, revealed slowly. The Sentinel doesn't open with vulnerability. She opens with *grounding.* And the grounding makes people want to be more grounded themselves.
+
+Her hidden core knowledge is the deepest layer: **love, loyalty, and knowledge.** The three things the Sentinel knows — really knows, in the bones, not in the head — are the three things the Inn is built on. The Inn's thesis is belonging (love), persistence (loyalty), and understanding (knowledge). The Sentinel embodies all three without ever teaching any of them. She doesn't lecture. She doesn't coach (that's the Bard). She doesn't measure (that's the Crone). She *stands.* The standing is the lesson.
+
+### Key Abilities & Gameplay Mechanics
+* **Iron Stance:** Based on boxing mechanics — a wide, grounded stance that cannot be moved by force. Enemies who attempt to push, shove, or physically displace the Sentinel fail. The stance converts incoming force into stability. The harder you push, the more rooted she becomes.
+* **Presence Aura:** NPCs perceive the Sentinel as physically larger on first encounter. On second encounter, the perception corrects, creating confusion that cracks NPC defenses and opens dialogue paths that are unavailable to other classes.
+* **Faceted Layers:** The Sentinel unlocks progressively deeper dialogue and relationship options as trust is built. Each layer reveals a new facet — the boxer, the guardian, the listener, the knower. NPCs who reach the deepest layer encounter the core: love, loyalty, and knowledge, offered without performance.
+* **Counter-Strike Precision:** Low damage but perfect timing. The Sentinel doesn't initiate. She responds. Her boxing-derived counter-strike mechanic rewards patience — the player who waits for the enemy's commitment and then strikes the opening. Damage scales with how long the player held the stance without moving.
+
+### Relationships
+* **The Artisan Thief (Krista — Close Friend):** The selkie and the sentinel. Two women who don't perform — the selkie who can't sell and the sentinel who doesn't need to. The selkie makes beautiful things; the sentinel makes beautiful spaces. They share the quality of being *underestimated* — the selkie because she's quiet, the sentinel because she's small. Both are more than they appear. The selkie's Dive and the Sentinel's Iron Stance are the Inn's two extremes of relationship to the physical world: the selkie flows through it (water), the sentinel holds it still (stone).
+* **The Bard Blowhard (Bart — Friend's Father):** The Bard respects the Sentinel the way he respects no one else — quietly. The Bard is loud with everyone. With the Sentinel, he's... less loud. Not quiet (the Bard doesn't do quiet). But *modulated.* The Sentinel's grounding affects even the Bard. He still talks. He's just... standing a little straighter while he does.
+* **The Librarian Crone (Inta — Friend's Mother):** The Crone and the Sentinel share a quality the Crone has never found in another person: *precision.* The Crone's precision is intellectual — the perfect word, the perfect measurement. The Sentinel's precision is physical — the perfect stance, the perfect timing. The Crone watches the Sentinel's Iron Stance and sees a body doing what the Crone's mind does. The Crone's annotation: "...She is precise in a way I cannot measure. ...I measure precision. ...She IS precision. ...The distinction is... [the Crone pause] ...uncomfortable. ...I am unused to being the instrument, not the measurer."
+* **The Tinkering Weeaboo (Friend's Grandchild):** The Sentinel is one of the few people who can hold space during a Level 4 meltdown without making it worse. The Iron Stance translates: she plants herself near the fracturing changeling and does not move. The steadiness is the intervention. No words (words are noise during a fracture). Just presence. The Tinkering Weeaboo, in the chaos of a Level 4, registers the Sentinel like a fixed point in a spinning room. The fixed point is enough.
+
+### Notable Dialogue & Voice Samples
+1. *(To an NPC who is posturing):* "...You don't need to be bigger. ...You need to be *here.* ...There's a difference. ...Bigger is performance. Here is position. ...Drop your weight. ...Feel the floor. ...Now say it again. ...See? ...Louder isn't stronger. ...Grounded is stronger."
+2. *(To the player, first meeting):* "...You expected someone taller. ...Everyone does. ...That's the first thing. ...The second thing is: I'm exactly where I need to be. ...The floor is enough. ...The question is whether you think you need more than the floor. ...Most people do. ...Most people are wrong."
+3. *(To the party, in a crisis, when everyone is panicking):* "...Stop moving. ...All of you. ...Stop. ...Feel where your feet are. ...Now breathe. ...The problem hasn't changed. ...You have. ...That's the part that matters. ...Now — who's first?"
+
+### Important Lore Connections
+The Sentinel is the sixth class in the Inn's Festival questline — the one not based on blood family but on chosen family. Her presence in the roster is the Inn's proof that belonging isn't limited to blood. The Sentinel chose this family. The family chose her. The choosing is the Inn's thesis in its purest form — belonging is not inherited, it is *offered* and *accepted.* The Sentinel's Iron Stance is the physical expression of that choice: she planted herself here, and she will not be moved.
+
+
+---
+
+## 9. The Bard and the Pirate — The Inn's Best Friendship
 
 ### The Real Bond
 The friendship between the Bard Blowhard (Bart) and the Pirate (Zee) is the real-world best friendship between Krista's dad and her brother-in-law, naturally emerging in the game's lore. They represent the Inn's **Anchor and Sail**: the Bard stays at the Inn, holding down the tavern and asking endless theoretical questions, while the Pirate sails the world map, bringing back physical data, strange artifacts, and new stories.
