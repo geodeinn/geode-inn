@@ -159,3 +159,27 @@ Baba Yaga is the Slavic zone's Keeper. The Aurora Reader is the Slavic zone's gu
 
 ### Dushan and the Aurora Reader
 Dushan is the warmth. Zorya is the clarity. Dushan brings birch-bark tea to the fjord cabin every few days — the long walk from the canopy platform to the fjord edge, through the forest, through the cold, carrying a thermos of warmth. He doesn't stay. He drops off the tea, hugs Zorya (she tolerates it — the only physical contact she allows, because Dushan's warmth is the kind that doesn't ask for a response), and leaves. Dushan: "...You need to eat." Zorya: "...I eat." Dushan: "...When?" Zorya: "...When the aurora dims." Dushan: "...That's not often enough." Zorya: "...It's often enough." Dushan: "...It's not." Zorya: "...[the Swinton almost-smile, the expression that is barely there, the expression that is the ice cracking just enough to show the water underneath] ...Thank you, Dushan." Dushan: "...I'll come back Tuesday." Zorya: "...I'll be here."
+
+---
+
+## Vishnu's Dream
+
+Vishnu is not an NPC. Vishnu is a cosmic presence — the dreamer whose dream the Inn exists within. He floats on the cosmic ocean (the same water the Siren swims in, the same water that fills the fjords) on the serpent Shesha, and he dreams, and the dream is the universe.
+
+The aurora borealis is Vishnu dreaming.
+
+The connection: the star-language in the ice is Vishnu's dream narrative, written in stars, translated by the aurora, published in the ice. The three aurora phases are three depths of Vishnu's sleep:
+
+- **Green aurora (past):** Vishnu dreaming steadily. The deep, stable dream. The dreamer is still. The dream is calm. The text is the dream's history — the narrative the dream has been telling since the dreamer fell asleep.
+- **Violet aurora (present):** Vishnu dreaming actively. The dreamer's eyes moving under closed lids. The dream is vivid, present, alive. The text is the dream's current scene — what is happening NOW in the cosmic sleep.
+- **White aurora (future):** Vishnu turning in his sleep. The dreamer shifting. The dream changing direction. The text is the dream's new trajectory — where the dream is going, what the dreamer is about to dream that has never been dreamed before. The new word — the word the stars have never written — is the moment Vishnu's dream invents something. The dreamer, asleep, creates.
+
+The Host (Patrick Stewart) is Vishnu's waking presence — the preserver, the sustainer, the calm authority that holds the Inn together while Vishnu sleeps. The Host is what Vishnu looks like when the dreamer is awake enough to tend the dream. The aurora is what Vishnu looks like when the dreamer is fully asleep and the dream is dreaming itself.
+
+Vishnu's occasional appearance: the player never sees Vishnu. The player sees the *effect* of Vishnu — the aurora shimmering, the star-language shifting, the ice reflecting a dream that is older than the ice. But very rarely — once per Inn-season, perhaps — the aurora takes a shape. Not a letter, not a word, but a *figure.* A shape that, for a few seconds, looks like a being lying on something coiled, eyes closed, dreaming. The shape lasts only seconds. Zorya has seen it three times in thirty years. She didn't transcribe it. Some things are not for the notebooks. Some things are for the watching.
+
+"...I saw him once. ...Last winter. ...The aurora formed a shape I'd never seen. ...A figure. ...Sleeping. ...On something... [the constellation pause, the words placed like stars] ...coiled. ...It lasted four seconds. ...Then the aurora shifted and the shape was gone. ...I didn't write it down. ...Some words... [the Swinton clarity, the truth without emotion, the ice that is also water] ...are not for translating. ...Some words are for... [the pause that is the space between stars] ...witnessing."
+
+### The Cosmic Ocean
+
+The water in the fjords is the cosmic ocean. The same water Vishnu floats on. The same water the Siren swims in. The same water Charon poles across. The same water the selkie dives through. All the water in the Inn is one water — the cosmic ocean, the primordial water, the water that existed before the dream and that the dreamer floats on while dreaming. The fjords are where the cosmic ocean touches the land — where the dream meets the shore. The aurora is where the dream meets the sky. The ice is where the dream meets the stone. The fjord of stars is the place where all three meet: water, sky, and stone. The dreamer, the dream, and the page.
