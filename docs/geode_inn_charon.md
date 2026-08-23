@@ -21,6 +21,28 @@ Charon is not a skeleton. Charon is not a grim reaper. Charon is not death. Char
 
 The Inn does not make him scary. The Inn makes him *honest.* Charon is the being who does the one thing that no one else wants to do: he takes people across. He doesn't judge them (that's the Morrigan). He doesn't wash them (that's the Morrigan). He doesn't welcome them (that's the Host). He doesn't hear them (that's the Catalyst). He *moves* them. From one side to the other. That's all. That's everything.
 
+### Casting — Anthony Hopkins
+
+**The same actor as the Crone. A different instrument.**
+
+The Crone is Anthony Hopkins' *mind* — the surgical intellect, the devastating eloquence, the measuring, the precision that cuts clean. Charon is Anthony Hopkins' *silence* — the stillness, the weight, the presence that fills a space without filling it with words. The mind and the silence are different instruments played by the same body. The Crone talks. Charon doesn't. The Crone measures everything. Charon measures nothing — he already knows the weight. The Crone writes annotations. Charon says one phrase. The same actor. Different art forms.
+
+**The Remains of the Day Hopkins.** Stevens the butler — the man who does his job. The job is everything. The job is identity. The job is not a burden — it is a *calling.* Stevens ferries people too — not across a river, but through the rituals of service. The devotion to duty that is so complete it becomes a kind of love. The restraint that is not repression but *vocation.* The man who has never once complained about the work because complaining about the work would be... an imprecision, and Stevens is never imprecise.
+
+Charon is Stevens of the underworld. He poles. That's what he does. He has poled for millennia. He will pole for millennia more. The poling is not punishment — it is *purpose.* The purpose is the love. The love is the work. The work is the being.
+
+**The Silence of the Lambs Hopkins** — not the violence, not the cannibalism, not the horror. The *stillness.* The way Lecter sits in his cell and the room organizes around him. The way he looks at Clarice and she feels *seen* — not threatened, not judged, but *seen,* with a clarity that is more unsettling than any threat. The eyes that see you. Charon's eyes are those eyes — the eyes that see what you are and where you're going and what you've brought and whether it's enough. Not threatening. Just... clear. The clarity that makes most people look away because most people don't want to be seen that clearly by a being who doesn't care whether they're looking or not.
+
+**The Westworld Hopkins** — the creator who understands the system from the inside. Ford's quality: the man who built the world and then chose to live in it as a worker, not a god. The man who could control everything and chooses to control almost nothing. The man who says very little and the little he says changes everything. Charon doesn't explain the river. Charon doesn't explain the obol. Charon doesn't explain the crossing. Charon *is* the crossing, and the being is the explanation, and the explanation needs no words.
+
+**The voice:** The Hopkins voice — deep, measured, precise, every syllable placed. The voice that makes you lean forward. The voice that makes a whisper louder than a shout. Charon says one phrase per crossing: "...There you are." In the Hopkins voice, those three words carry the weight of every soul he has ever ferried. Three words. The same three words. Every time. And the three words are never the same twice, because the passenger is never the same twice, and the Hopkins voice — the voice that finds a different music in the same line every time — makes "...There you are" the most varied three words in the Inn.
+
+**Why the same actor works for both the Crone and Charon:**
+
+The Crone and Charon serve the same function in the Inn's death mechanics — they are the two halves of the passage. The Crone measures your life. Charon carries you across. The measurer and the ferryman. The one who records and the one who transports. The one who writes the annotation and the one who poles the boat. Both Hopkins. Both using different parts of the same extraordinary range. The Crone is the Hopkins who talks. Charon is the Hopkins who doesn't need to.
+
+The Crone would recognize Charon. The Crone would see the same bone structure, the same eyes, the same voice — and she would see the difference: she uses hers to measure. He uses his to wait. The Crone might write in her notebook: "...I know that face. ...I know that voice. ...I know that man. ...He is not me. ...He is the... [the pause that means she's found the word] ...the other half. ...The half that doesn't speak. ...The half that carries what I measure. ...The half that waits while I work. ...We are the same instrument played in different... [the Crone, who has never been sentimental about anyone in the Inn, writing the word that surprises even her] ...hands. ...Same wood. ...Different hands. ...He poles. ...I write. ...Both of us... [the word that connects them, the word that makes them colleagues, not strangers] ...serve."
+
 ### Appearance
 
 Charon looks like a man who has been on the water for a very long time. Not ancient — *weathered.* The way a dock worker looks after thirty years. The way a fisherman looks after a lifetime. The face is not skeletal. The face is *worn.* The hands are rough. The clothes are simple — not robes, not a dark cloak, not the theatrical grim-reaper costume. Working clothes. The clothes of someone who works on water and has no reason to dress up because the water doesn't care what you're wearing.
