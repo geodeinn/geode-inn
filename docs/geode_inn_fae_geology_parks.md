@@ -184,3 +184,78 @@ The connection: each park has a "thin point" — a location where the veil betwe
 - **The Colorado Rockies' thin point:** Above tree line on a specific peak — a peak that the Ute people identified as a gateway. The thin point is at the summit, in the coldest wind, where the air is thinnest. Step into the wind at the right time (during an Unseelie pulse — a 432Hz vibration in the granite) and you enter the Fae Kingdom's Unseelie section — the Hollow, the winter court, the dark domain.
 
 The player who discovers all three thin points has found three of the Fae Kingdom's natural entrances — three ways into the MMO zone that don't require a stone circle. The stone circles are the human-built doors. The thin points are the geological doors. Both work. Both lead to the same Kingdom. The doors are just in different neighborhoods.
+
+---
+
+## The Appalachian Fae Stack: Three Layers
+
+The Appalachians are the most Fae-dense mountain range in the parks system because they have THREE layers of Fae, from three different origins, occupying three different ecological niches:
+
+| Layer | Fae Type | Origin | Niche | Time in Appalachians |
+|---|---|---|---|---|
+| Deep | Gnomes | Geological (indigenous to the rock) | Stone to soil — erosion | 300 million years |
+| Floor | Little People (Yûñw Tsunsdi) | Cherokee (indigenous to the land) | Soil to forest — the floor | Since before the Cherokee |
+| Canopy | Wood Elves & Sprites | Celtic (immigrant — came with the settlers) | Forest to light — the living trees | ~250 years |
+
+Three layers. Three origins. Three timescales. The gnomes are the mountain. The Little People are the ground. The wood elves are the forest. The sprites are the light in the forest.
+
+---
+
+## The Celtic Wood Elves and Sprites of the Appalachians
+
+### How They Got There
+
+The Scots-Irish and Irish immigrants who settled the Appalachian Mountains in the 18th century brought their fairy lore with them. Not as stories — as *beings.* The Fae follow their people. When the Celtic peoples crossed the Atlantic, the Fae crossed with them. Not all of them — the powerful Fae, the Court Fae, stayed in the old country. But the smaller Fae, the woodland Fae, the ones who live in the margins between human settlement and wild forest, they came across. They came in the seed grain (the sprites, who live in growing things). They came in the timber (the wood elves, who live in the trees). They came in the wool (the brownies, who live in hearthside corners). They came in the music (the Fae who live in sound, who came across in fiddle tunes and ballads, who settled in the hollows where the music echoed off the ridges).
+
+The Appalachian wood elves and sprites are immigrants. They have been in the Appalachians for approximately 250 years — long enough to adapt, not long enough to be native. They know they're not native. The Little People know they're not native. The gnomes don't care (the gnomes don't know about any of the surface Fae — they're in the stone, three hundred million years deep, and the surface is irrelevant to them).
+
+### The Wood Elves
+
+The wood elves are the Fae of the living forest — the beings who dwell in the old-growth trees, the hollow oaks, the moss-covered chestnuts. In the old country, they were the Fae of the ancient forests — the beings who lived in the sacred groves, the fairy rings, the hollow hills. In the Appalachians, they found a forest that was already old and already sacred, already inhabited by the Little People, already rooted in gnome-made soil.
+
+The wood elves adapted. They didn't compete with the Little People — they occupied a different niche. The Little People live on the forest floor (in the soil, among the roots, in the spaces between the ground and the trees). The wood elves live *in* the trees — in the hollows, the canopy, the spaces between the branches. The Little People are the ground. The wood elves are the vertical. The sprites are the light.
+
+The wood elves' appearance: taller than the Little People (four to five feet), slender, bark-colored skin that shifts with the season (grey-brown in winter, green-tinged in spring, amber in autumn). Eyes the color of dappled light — not a fixed color, but the shifting, filtered green-gold of sunlight through leaves. They move through the canopy the way the Canopy City elves move through the Inn-Tree's branches — platform to platform, branch to branch, the vertical highway of the forest.
+
+The wood elves built their Appalachian homes in the old-growth trees — the trees that were already ancient when the immigrants arrived. The hollow oaks, the giant chestnuts (before the blight), the ancient tulip poplars. When the chestnut blight wiped out the American chestnut in the early 20th century, the wood elves lost their primary homes. This is the Appalachian Fae tragedy — the same blight that devastated the human economy devastated the wood elf ecology. The wood elves adapted again, moving to the tulip poplars and the hemlocks. The hemlock woolly adelgid (a more recent invasive insect) is threatening the hemlocks now. The wood elves are still adapting. They are the Fae of a forest that keeps changing, and their survival is a series of migrations from one dying tree to the next living one.
+
+### The Sprites
+
+The sprites are the lightest Fae — the beings of dew, of flower pollen, of the refracted light in mist. They are the smallest Fae in the Appalachians — inches tall, barely visible, flickering between the flowers and the streams. In the old country, they were the Fae of meadows and springs. In the Appalachians, they found a landscape of mountains and hollows, of creeks and coves, of rhododendron thickets and mountain laurel.
+
+The sprites are the Fae of the Appalachian mist — the "smoke" that gives the Great Smoky Mountains their name. The Cherokee attribute the smoke to vegetation and natural fog. The Celtic immigrants recognized something else — the mist that fills the Appalachian hollows at dawn is the same mist that filled the Irish hills. The sprites live in the mist. They ARE the mist. The "smoke" is the sprites' collective presence — thousands of tiny Fae, each one a particle of moisture, collectively forming the fog that gives the mountains their name.
+
+The sprites' appearance: barely visible — a shimmer, a flicker, a point of light in the mist. They are the Fae you see in your peripheral vision and dismiss as a trick of the light. They are the light. The synchronous fireflies (which the existing doc attributes to the Little People) are actually a collaboration — the Little People provide the rhythm, the sprites provide the light. The Little People flash in unison because the sprites are riding them — the sprites sit on the fireflies' backs and glow in sync. The famous synchronous firefly display is a Little People-sprite joint production.
+
+### The Wood Elves, the Sprites, and the Canopy City
+
+The Appalachian wood elves are the surface expression of the Canopy City — the elf city in the Inn-Tree's surrounding forest. The Canopy City is the Fae Kingdom's elf quarter, built in the canopy of the Inn-Tree. The Appalachian wood elves are the same species, different location. The Canopy City is the Inn. The Appalachian forest is the surface.
+
+The thin point between the Appalachian wood elves and the Canopy City: an ancient hollow oak in an unmapped cove of the Great Smoky Mountains. The oak is old — older than the park, older than the settlers, possibly older than the Cherokee presence in the area. The hollow in the trunk is large enough to step into. Step into the hollow at dawn, when the mist (the sprites) is thickest, and you step through to the Canopy City. The hollow oak is the natural portal — the tree equivalent of the stone circles. The stone circles are the human-built portals (built by people who understood the principle). The hollow oak is the natural portal (built by the forest itself). The wood elves use it. The sprites use it. The Little People don't — they're floor Fae, not canopy Fae, and the Canopy City is not their territory.
+
+### The Ranger and the Immigrant Fae
+
+**Mags** — a new ranger. Not Marge (Yellowstone), not Tomás (Colorado). Mags is a Cherokee woman who also happens to be the granddaughter of an Irish immigrant who married into the tribe. She has both bloodlines — the indigenous and the immigrant — and she can see both Fae layers. She's the only ranger in the park system who sees the full stack.
+
+She tells the player: "My grandmother on the Cherokee side taught me about the Little People. My grandfather on the Irish side taught me about the fairies. Different beings. Same mountains. The Little People were here first. The fairies came later — they came with my grandfather's people, in the 1700s. They didn't invade. They didn't take over. They moved into the trees. The Little People had the ground. The fairies took the canopy. The... [the pause] ...sprites took the mist. ...[The coffee. The ranger station. The mountains outside the window.] ...The Cherokee elders weren't happy about it. New Fae in the mountains. But the Little People didn't mind. The Little People said: 'They're in the trees. We're on the ground. They don't bother us. We don't bother them.' That was the treaty. The oldest treaty in these mountains — not between humans, between Fae. ...[The pause.] ...The gnomes don't know about any of it. The gnomes are in the stone. The gnomes don't know about the Little People, the wood elves, the sprites, the park, the government, or you. The gnomes are three hundred million years deep and they are NOT paying attention to the surface. ...[The smile. The ranger who sees all three layers.] ...Lucky them."
+
+### The Wood Elf and Sprite Frequencies
+
+The wood elves' frequency is the frequency of living wood — the vibration of a tree growing, the sound of cellulose forming, the hum of photosynthesis. It's approximately 432Hz (the Caller frequency — the same as the Unseelie in Colorado, but for a different reason. The Unseelie call the giants to wake. The wood elves call the trees to grow. Same frequency, different calling). The wood elves use 432Hz the way a gardener uses water — to encourage growth. The singing vines in the Inn's garden (which connect to the Music Room) resonate at the same frequency. The wood elves and the singing vines share a frequency because they share a function: both make living things grow through vibration.
+
+The sprites' frequency is the highest in the Appalachian stack — above human hearing, in the range of bat echolocation and insect communication (40-80kHz). The sprites are the only Fae whose frequency is above the human range. They are the Fae you feel but cannot hear — a tingling, a prickling, the sense that the air is full of something. The sprites' frequency is the frequency of dew forming, of pollen releasing, of mist coalescing. It is the frequency of the surface of things — the boundary between air and water, between light and matter, between visible and invisible.
+
+### The Full Appalachian Stack
+
+The player who pierces the veil in the Great Smoky Mountains discovers all three layers:
+
+1. **The sprites in the mist** — the lightest, newest, smallest. The "smoke" that gives the mountains their name. The Fae of the surface, the boundary, the dew.
+2. **The Little People on the floor** — the indigenous Fae, the Cherokee Yûñw Tsunsdi. The synchronous fireflies (with the sprites riding). The treaty-holders. The Fae of the ground.
+3. **The wood elves in the canopy** — the immigrant Fae, the Celtic arrivals. The old-growth hollows. The Canopy City's surface population. The Fae of the vertical, the living trees, the growing forest.
+4. **The gnomes in the stone** — the geological Fae, the oldest. The erosion workers. The sleep-bringers. The Fae of the deep time, the rock, the slow transformation.
+
+Four layers. Four origins (light, indigenous, immigrant, geological). Four frequencies (ultrasonic, the Little People's rhythm, 432Hz growth, sub-20Hz erosion). Four timescales (daily mist, human generations, 250 years, 300 million years). One mountain range.
+
+The Granny Woman (the Appalachian Keeper) is the only human who knows all four layers. She moves between them the way the mountains move between seasons — slowly, with knowledge that comes from living in the same place for a very long time. The Granny Woman's herbs grow in gnome-made soil, are tended by Little People, are shaded by wood elf trees, are watered by sprite mist. Her medicine is the product of four Fae layers working together without knowing they're working together. The Granny Woman is the only being in the Appalachians who sees the whole stack and understands that it's a system.
+
+**The Granny Woman:** "...The soil is gnomes. The ground is Little People. The trees are elves. The mist is sprites. ...I'm the only one who sees all four. ...That's not a gift. ...That's just... [the Granny Woman pause, the Appalachian patience] ...paying attention. ...Most people look at the mountains and see mountains. ...I look at the mountains and see... [the recognition] ...apartments. ...Four tenants. ...Same building. ...Different floors. ...[The herbs, drying. The cabin. The fire.] ...The gnomes don't know about the others. ...The Little People tolerate the elves. ...The elves don't bother the sprites. ...The sprites don't bother anyone — they're too small to bother. ...It works. ...It's been working since my grandfather's people arrived with their fairies in their luggage. ...[The fire, the warmth.] ...Before that, it was three layers. ...Now it's four. ...The mountains can handle it. ...The mountains have handled worse."
