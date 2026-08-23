@@ -1,114 +1,131 @@
 # Geode Inn — The Seelie King
-## Alfheim — The Light Realm
+## Fae Kingdom — The Guardian of the Crossing
 
-## Source Inspiration
+## The Descent
 
-Laurell K. Hamilton's "Here Be Dragons" (from the Strange Candy collection) — a story about a generation of minds who acquired powerful abilities without any actual cause. The Seelie King's power follows this premise: magic has been mutating since the merging, and his abilities emerged from that mutation. Not inherited. Not gifted. Not earned. Arrived.
+The player follows the Crone down. Through the stone layer (tight, dark, the 42Hz growing louder). Through the root layer (the Inn-Tree's roots framing the passage, warm bark against cold stone, the hum amplified). Through the earth layer (older air, a second frequency felt in the bones). Into Newgrange's chamber — the triskele, the basins, the three-note Song.
 
-## The Premise — Magic After the Merging
+The Crone has already been here. The Crone is the one who found it. The player arrives to find the Crone sitting on the chamber floor, her notebook closed, her glasses in her hand, *listening.* The Crone who measured everything has put down the tools and is doing the one thing she spent her whole life not doing: receiving.
 
-The narrative spine says: "As technology evolves in this civilization, we are slowly merging with the gods who gave us life." The merging doesn't just change humanity — it changes *magic itself.* The old magic (the gods' magic, the structured forces that built the world) was predictable. It followed law. It was inherited through bloodlines (like the dark bloodline of the Owl), or granted through ritual, or earned through mastery.
+The Crone doesn't speak. The Crone *points.* Up. At the roofbox — the opening above the passage entrance. The narrow slit that admits the winter solstice sun. The Crone points at the roofbox and the player understands: *the door is up there.* The door to the Fae Kingdom. The original door. The one that predates the stone circles.
 
-But the merging destabilized the system. When the creation began merging with the creator, the old rules started breaking down. Magic began to mutate — not corrupt, not decay, *mutate.* New expressions of power appeared in beings who had no lineage for them, no cause, no ritual. A generation of minds who acquired powerful abilities without any actual cause.
+The player climbs. Through the roofbox. And the world changes.
 
-The Seelie King is the most powerful of this generation. His abilities are not the old magic. They are the *new* magic — post-merging, post-law, unpredictable. The old magic is a river that has always flowed the same direction. The Seelie King's magic is a river that appeared in a place where there was no river, flowing in a direction that has no downstream.
+## The Threshold
 
-## Who He Is
+The roofbox doesn't open into a corridor or a cave or a tunnel. The roofbox opens into *light.* Not the amber light of the Inn. Not the warm gold of the Round Table room. A different light — the light of the Fae Kingdom, which is the light of the Inn-Tree's dream. Green-gold. Living. The light that photosynthesis makes when no one is watching.
 
-### The Contradiction
+The player steps through the roofbox and stands on the threshold. Below: the passage, Newgrange, the chamber, the Crone still listening. Above: the Fae Kingdom — the Inn-Tree's root system *inverted*, the roots becoming branches, the underground becoming the sky, the dream-world's geography mirroring the waking-world's but *different* — greener, stranger, the physics of a place that runs on dream-logic instead of waking-logic.
 
-The Seelie King is gentle. He is ancient. He is highly intelligent. He is a master assassin who protects the vulnerable, particularly animals. These traits are not in conflict — they are the *same trait* expressed at different scales.
+The threshold is a narrow stone bridge. One person wide. No rails. The bridge crosses a void — not a chasm, but a *gap* — the space between the waking world and the dream world, the space the Crone would measure if she were measuring (she's not, she's below, she's listening). The gap is neither dark nor light. The gap is *liminal* — the color of potential, the color of not-yet.
 
-His power arrived without cause. The power is enormous — the kind of power that could reshape the Summerlands, that could unmake anything that threatened what he protects. The power is also unpredictable — it doesn't follow the old rules, doesn't respond to the old rituals, doesn't behave the way the old magic behaves. The power is alive in a way the old magic isn't. The power is *mutating still.*
+At the other end of the bridge: the Seelie King.
 
-The gentleness is the containment. The Seelie King is gentle not because he is soft — he is gentle because he is *terrifying,* and the gentleness is how he keeps the terror from leaking out. An assassin who protects. The power that could destroy, used to shelter. The mutation that could be monstrous, chosen to be kind.
+## The Seelie King
 
-This is the "Here Be Dragons" principle: the map says dragons, the dragons are real, and the dragons have decided to be gentle. The decision is everything. The power didn't come with instructions. The Seelie King wrote his own.
+### What He Looks Like
 
-### The Assassin Who Protects
+The Seelie King is Mads Mikkelsen.
 
-The Seelie King is an assassin — not in the guild sense, not in the mercenary sense. In the *ecological* sense. He is the apex predator who protects the herd. The wolf who guards the sheep — not from other wolves, but from everything that would harm the sheep, including the sheep's own worst instincts.
+Not Mikkelsen as a single role. Mikkelsen's *full range* — the stillness and the precision and the face that is simultaneously beautiful and dangerous and the hands that are precise enough to kill and gentle enough to hold a sleeping bird. The Seelie King IS the combination: the assassin AND the tender. The same hands do both. That is the character.
 
-His targets are not political. His targets are *threats* — beings who prey on the vulnerable, who exploit the weak, who would turn the Summerlands into something other than what it is. He kills them. Quietly. Precisely. Without ceremony. The Summerlands remain beautiful because the Seelie King has removed everything that would make them ugly. The players never see the kills. The players see the beauty. The beauty is the evidence.
+He stands at the end of the bridge. He has been standing there for a long time. Not waiting — *guarding.* The difference is intent: waiting implies expectation of something specific. Guarding implies commitment to a state. The Seelie King doesn't wait for travelers. The Seelie King *holds the threshold.* Travelers arrive. The King is there. The King was always there.
 
-His particular protectiveness of animals: animals are the most vulnerable beings in any realm — they have no voice, no defense, no representation. The Seelie King is their voice, their defense, their representation. The player who harms an animal in the Summerlands meets the Seelie King. The meeting is brief. The player does not make the same mistake twice.
+His appearance:
+- **Lean.** The leanness of someone who doesn't eat for pleasure — who eats for function, who has been alive so long that the body is a tool, not a statement. The Unseelie King (Bowie/Jareth) is *costume* — the Seelie King is *bone.* No ornament. No glitter. No performance. Just the body, the face, the hands.
+- **Still.** The stillness is not meditation or discipline. The stillness is *natural* — the way a heron is still. The heron isn't trying to be still. The heron is still because stillness is how the heron hunts. The Seelie King is still because stillness is how the King guards. The stillness is predatory. The stillness is also tender. The heron is still, and the heron is beautiful, and the heron will strike.
+- **Dressed in green.** Not emerald, not jade — the green of moss. The green of something that has been in one place so long that the place has grown onto it. The Seelie King's clothes are grown, not worn — vines, leaves, bark, the Fae Kingdom's flora *on* him the way the Inn-Tree's roots are the Round Table room's ceiling. The Seelie King and the threshold are the same material. He isn't standing on the bridge. He is *part of* the bridge. The bridge grew him.
+- **Eyes.** Blue. Mikkelsen's blue — the blue that is simultaneously ice and ocean. The eyes are the only part of the Seelie King that move. The eyes track. The eyes are the predator's eyes — they see everything, miss nothing, and the seeing is the guarding. Everything that crosses the threshold is seen by the Seelie King. Everything.
+- **Hands.** Long. Precise. The hands of a surgeon or a jeweler or an assassin. The hands rest at his sides. The hands are the danger. The stillness of the body is the leash on the hands. When the hands move, something dies or something lives. The hands don't distinguish. The hands serve the function. The function is protection.
 
-### The Intelligence
+### What He Is
 
-Highly intelligent — not the Crone's intelligence (precision, measurement, the standard that cuts clean) and not Tesla's intelligence (measurement, frequency, the number that describes the hum). The Seelie King's intelligence is *adaptive.* He thinks in patterns that change as he thinks them. His mind is the mutation — the intelligence that doesn't follow the old rules of logic any more than his magic follows the old rules of spellcraft.
+The Seelie King is the last Tuatha Dé Danann. The last of the race that crossed from the waking world into the dream world 5,000 years ago. The Tuatha didn't die. The Tuatha *retreated* — they crossed into the mounds (the sídhe), into the dream, into the Fae Kingdom, and they became the Fae. But crossing changes you. The Tuatha who crossed became something *other* — not human, not divine, not Fae as the later legends imagined them. Something between. Something that lives at the threshold because the threshold is what they *are.*
 
-He solves problems that can't be solved by the old logic. He sees connections that don't exist in the old maps. He is the being who looks at the unmapped territory and says: "I'll draw it." And the drawing is accurate — but the map he draws uses symbols nobody has seen before, and the territory it describes is the territory as it is *now,* not as it was when the old maps were made.
+The Seelie King is the only Tuatha who stayed at the crossing. The others went deeper — into the Summerlands, into the Hollow, into the dream-world's geography. The Seelie King stayed at the door. The Seelie King became the door. The door is the King and the King is the door, and the player has to cross the King to enter the Fae Kingdom.
 
-### The Age
+### The Original Listener
 
-He is ancient — but his ancientness is different from the Unseelie King's ancientness. The Unseelie King (Jareth) is ancient in the old way: he was there when the old magic was the only magic, and he built the Labyrinth from that magic, and the Labyrinth follows the old rules (even when it seems not to). The Unseelie King is the last master of the old system.
+The Seelie King heard the three-note Song from the basins. He was *in* the chamber when the stones were placed. He was there when the first Song was sung — three stones, three basins, three notes. He heard it before the Inn-Tree grew. He heard it before the Round Table. He heard it before the seven knights, before the seven planets, before the Flower of Life. He heard the Song when it was three notes and the three notes were *new.*
 
-The Seelie King is ancient in the new way: he was the *first* of the new magic, the first mutation, the first being whose power arrived without cause. He has been here long enough to be old, but his power has never been old. His power is still new. His power is still mutating. He has been alive for centuries and his magic has been changing for centuries and the changing has never stopped.
+The Seelie King has been listening for 5,000 years. He is the original listener — the first being to hear the Song of Making and choose to *keep listening.* Not to measure it (the Crone). Not to contain it (Galahad). Not to perform it (the Bard). Not to transform it (the Catalyst). Not to carry it (the knights). Just to *listen.* The Seelie King's function is the Inn's core mechanic at its purest: listening. The King is the listener. The King has always been the listener. The King will always be the listener.
 
-This is the core difference between the brothers: Jareth preserves. The Seelie King *becomes.* Jareth builds structures that last. The Seelie King is a structure that keeps rebuilding itself. The Labyrinth is stone. The Seelie King is water.
+The listening is the guarding. The Seelie King guards the threshold by listening to it — hearing everything that approaches, everything that crosses, everything that tries to enter the dream world without the right to enter. The listening is not passive. The listening is the most active form of guarding: attention. The Seelie King pays attention to the threshold the way the Crone pays attention to her measurements. But the Seelie King's attention has no notebook. The attention goes nowhere. The attention *is* the guarding. The attention is the assassin's tool — the patient, total awareness that precedes the strike.
 
-## The Brother Dynamic — Seelie and Unseelie
+### The Assassin
 
-The established dynamic: the Unseelie King (Jareth/Bowie) makes the winter moon bright because the Seelie King can't sleep in the dark. They communicate through Wisp (small fae messenger) and owl-carried "weather report" love letters witnessed by Muninn.
+The Seelie King is a master assassin. Not a warrior (warriors fight). Not a soldier (soldiers follow). An *assassin* — the one who eliminates threats with precision, silently, without announcement, without the threat ever knowing it was noticed.
 
-The mutation premise deepens this:
+The Seelie King kills to protect the crossing. Anything that would corrupt the portal — anything that would exploit the dream world, twist the Fae Kingdom, break the threshold between waking and sleeping — the Seelie King eliminates. The elimination is quiet. No sound. No spectacle. The Unseelie King's Labyrinth is *theater* — a spectacle, a performance, a show. The Seelie King's protection is the *opposite* — invisible, unannounced, the thing that was stopped before it knew it started.
 
-- **Jareth** is the last master of the old magic. He built the Labyrinth — a structure of old-law power, precise and architectural. His magic follows rules, even when the rules are cruel. He is the keeper of the system that is ending.
+The assassin's targets are not living things. The targets are *corruptions* — the things that would degrade the dream: nightmares that try to become permanent, waking-world greed that tries to extract from the dream, the kind of exploitation that would turn the Fae Kingdom from a dream into a resource. The Seelie King kills corruptions. The killing is the tenderness. The killing is the protection. The same hands.
 
-- **The Seelie King** is the first master of the new magic. His power follows no rules. His power is the system that is beginning. He is the mutation that Jareth's old world produced without intending to.
+### The Animal Protector
 
-- **The love:** Jareth loves his brother because the brother is family. Jareth fears his brother because the brother is the future. The Seelie King loves his brother because the brother is family. The Seelie King pities his brother because the brother is the past. Neither says any of this. The love letters say it for them — Wisp carries "weather reports" that are actually descriptions of the changing magic, and Jareth reads them as love letters from a brother who is drifting into a new world, and the Seelie King writes them as love letters to a brother who is being left behind.
+The Seelie King protects animals. In the Fae Kingdom, the dream-animals — the chibi creatures, the water monsters, the griffins, the birds, the small things that can't defend themselves — are the most vulnerable. They're the Inn-Tree's dream-figures, the beings the land dreams when it sleeps. The Seelie King is their shepherd.
 
-- **The moon:** Jareth makes the winter moon bright because the Seelie King can't sleep in the dark. This is the old magic — the structured, lawful, reliable old magic — being used to comfort the new magic. The last master of the old system using the old system to care for the first master of the new system. The gesture is beautiful. The gesture is also a goodbye.
+The Seelie King's tenderness is exclusively for animals. Not for people. Not for knights. Not for kings. For *animals.* The king who kills corruptions without hesitation is the king who feeds a injured bird with hands that killed an hour ago. The king who guards the threshold with total attention is the king whose attention *softens* when a dream-fox approaches. The softening is not weakness. The softening is the *point* — the thing being protected. The threshold exists so the dream-animals can dream. The King exists so the threshold exists. The animals exist so the King has something to protect. The circuit is complete.
 
-## The Mutation and the Unpredictable
+The Seelie King's animal-connection ties to the Inn's creature catalog — the 60+ characters, the 32 water monsters, the chibi NPCs. The Seelie King is the *narrative reason* these creatures exist in the Fae Kingdom. They're not random spawn. They're his charges. Each one is known to him. Each one is named (the King names them — the naming is the listening applied to creatures). Each one is protected.
 
-The Seelie King's magic is unpredictable — not chaotic, not random, but *alive.* It responds to things the old magic doesn't respond to. It changes based on the Seelie King's emotional state, the state of the Summerlands, the health of the animals he protects, the weather, the season, the position of the moon (which his brother brightens for him). The magic is a living thing, and the Seelie King is its keeper, not its master.
+The Seelie King has a companion. Not a bird (the Owl is the Inn-Tree's). Not a raven (those are Odin's). The Seelie King's companion is a *wisp* — the small fae named Wisp who carries the love letters between the Seelie and Unseelie courts. Wisp is the Seelie King's emissary and the Unseelie King's correspondent. Wisp is also the Seelie King's *weakness* — the one creature he loves beyond function. The assassin's weakness is the smallest, most fragile thing in his care. The vulnerability is the tenderness. The tenderness is the weakness. The weakness is the King.
 
-This has game implications:
+### The Brother
 
-- **The Summerlands shift.** The Seelie Court's zone is not static. It changes — subtly, slowly, in response to the Seelie King's magic. A path that was there yesterday may not be there today. A grove that was golden in the morning may be silver by afternoon. The player who memorizes the Summerlands will find their map outdated. The player who *feels* the Summerlands — who reads the mood, the light, the animal behavior — will always know where they are.
+The Seelie King and the Unseelie King are brothers. Not metaphorically — actually, genetically, cosmically. The two Tuatha who chose different paths when the race crossed into the dream:
 
-- **The quests change.** The Seelie King's quests are riddle-quests (established) — but the riddles themselves mutate. A riddle that was about water yesterday may be about light today, because the magic shifted and the riddle shifted with it. The player who tries to memorize answers will fail. The player who *understands* — who grasps the principle, not the fact — will pass.
+- **The Unseelie King (Jareth/Bowie)** chose to *build.* He created the Labyrinth — the love letter written in walls. He chose creation, performance, architecture. He became the showman, the architect, the designer. He chose the *new.* He moved away from the threshold and into the dream-world's geography. He built a kingdom. He made something from nothing.
+- **The Seelie King (Mikkelsen)** chose to *stay.* He didn't build. He didn't create. He stood at the door and listened. He chose the *old.* He stayed at the threshold while his brother went deep into the dream. He became the guardian, the listener, the keeper of the origin. He kept something that already existed.
 
-- **The protection is real.** The Seelie King protects animals. If the player is kind to animals in the Summerlands, the magic responds — paths open, groves brighten, the air is warmer. If the player is cruel, the magic responds — paths close, the light dims, and the Seelie King... arrives. The arrival is the game's most frightening moment, because the gentleness is the threat. The Seelie King is never angry. The Seelie King is *clear.* And the clarity is more terrifying than anger, because anger is a feeling and clarity is a decision, and the decision has already been made.
+The brothers are the Inn's deepest dual: the creator and the keeper. The one who makes new things (Unseelie) and the one who keeps old things (Seelie). The one who performs (Unseelie) and the one who listens (Seelie). The one who builds labyrinths (Unseelie) and the one who guards the door (Seelie). The Inn needs both: the creator and the keeper. The dream needs new things and old things. The Fae Kingdom needs a showman and a sentinel.
 
-## Physical Description
+The brothers' love is the love letters — the "weather reports" carried by Wisp, witnessed by Muninn. The letters are simple: the Unseelie King reports on the dream-world's weather (the internal climate of the Fae Kingdom), and the Seelie King reports on the waking-world's weather (what's approaching the threshold). The letters are the brothers' way of *being in each other's world without leaving their own.* The letters are the bridge between the bridge-builder and the threshold-keeper.
 
-- **The face:** Beautiful. Not pretty — beautiful. The kind of beauty that is hard to look at directly, like looking at light through leaves. The features are fine, delicate, elven in the old sense. But the eyes are wrong — not cruel, not cold, but *new.* The eyes of a being whose power is still arriving. The eyes that see the world as it is becoming, not as it was. The eyes are the mutation made visible.
-- **The body:** Lean. Not thin — *efficient.* The body of an assassin who doesn't need armor because the magic IS the armor. Moves silently. Not practiced-silent — *natural*-silent. The silence of a thing that has never needed to announce itself.
-- **The hands:** Long. Precise. The hands that kill are the hands that shelter. The same hands. The player who sees the Seelie King stroke a rescued fox with one hand and understands that the same hand has ended lives — and that the stroking and the ending are the same act, the same protection, the same gentleness — has understood the Seelie King.
-- **The clothing:** Light. Natural. Not the Court finery of the Seelie Court — the Seelie King dresses like a ranger, like someone who works in the field, like someone who might need to move through a forest at speed at any moment. The clothes are beautiful but functional. The only ornament is a single crystal — a Preseli Blue Stone — worn on a leather cord. The crystal vibrates at a harmonic of 42Hz. The Seelie King doesn't know this. Tesla does. The Crone has annotated it: "...The King wears the Song's frequency around his neck. ...He found it. ...He doesn't know what it is. ...He knows it is... *his.* ...The mutation recognizes the Song."
+The Seelie King reads the letters by the light of the threshold. The Unseelie King reads the letters in the glow of the Labyrinth's crystal. The letters arrive via Wisp, who is small enough to cross both territories, trusted by both kings, watched by Muninn (who remembers everything and says nothing useful about it).
 
-## Dialogue Style
+The Seelie King's letters to his brother: short. Practical. "...Three approached. ...Two were dreaming. ...One was extraction. ...The extraction is... handled. ...The fox pups are well. ...The threshold is... [the Seelie King's pause, which is not the Crone's pause — the Seelie King's pause is silence, not deliberation] ...quiet. ...Your weather?"
 
-- Quiet. Not soft — *quiet.* The volume of someone who has never needed to be loud because the power is loud for him.
-- Measured. Every word chosen. Not because the Seelie King is calculating — because the words carry weight. When he speaks, the magic shifts. He has learned to speak carefully because careless speech causes careless magic.
-- Never threatens. The Seelie King doesn't threaten. He states. "You should leave" is not a threat — it is a description of what should happen next, and the magic agrees with him, and the agreement is the threat.
-- Warmth — rare, real, always directed at the vulnerable. The Seelie King's warmth is for animals, children, the injured, the lost. For players who are kind. The warmth is the mutation being gentle — the power that could destroy, choosing to comfort. The warmth is more beautiful than the beauty, because the warmth is *chosen.*
+The Unseelie King's letters to his brother: longer. Theatrical. "...Dearest brother, the Labyrinth is in magnificent form today — the Escher Stairs have rearranged themselves into something I'm calling 'Gothic Baroque Maelstrom' and two goblins have been lost in the Shifting Corridors for six days, which I find hilarious. The Masquerade crystal is showing me something interesting — a player approaches. Has the player crossed your threshold yet? I want to prepare. The crystal shows me their deepest desire and I want to build the room that *is* the desire and then watch them walk through it. Is that cruel? I think it's love. Your weather?"
 
-**Example lines:**
-- To a player entering the Summerlands for the first time: "You're welcome here. ...Be kind."
-- To a player who harmed an animal: (nothing — just the eyes. The player is already somewhere else. They don't remember leaving.)
-- To his brother, via Wisp, in the love letters: "The grove is gold today. The foxes had twins. The moon was bright enough to read by. ...Thank you for the moon."
-- To the Crone, who has come to observe the mutation: "You're welcome to watch. The watching won't change it." (The Crone: "...That remains to be seen." — the closest the Crone comes to banter.)
-- To the Gardener, about a struggling plant the Seelie King's magic has been unintentionally affecting: "It won't grow here. My fault. ...I'll move." (The Gardener, after the Seelie King leaves: the plant recovers. The Gardener says nothing. The Crone annotates: "...The King's presence accelerates growth in some species and inhibits it in others. ...The pattern is not predictable. ...The pattern is... *alive.*")
-- To a player who asks about his power: "It arrived. I didn't ask for it. I didn't earn it. I decided what to do with it. ...The deciding is all I can claim."
+The difference in the letters IS the difference in the brothers. The Seelie King: function, protection, the threshold, the animals. The Unseelie King: creation, performance, the labyrinth, the game. Both are love. The love looks different. The love *is* different. But the letters cross the gap. The letters are the bridge between the bridge-builder and the door-keeper. The letters are the brothers' threshold — the space where they meet without leaving their posts.
 
-## The Unpredictable Magic — Game Mechanics
+### The Seelie King and the Song
 
-The Seelie King's magic is the narrative spine's merging made visible in gameplay:
+The Seelie King heard the three-note Song in Newgrange 5,000 years ago. He has been hearing it ever since — through the threshold, through the bridge, through the stone. The three-note Song is the Song at its origin: three stones, three basins, three notes. The Seelie King is the only being who has heard the Song at its source AND at its expansion — the three-note Song below, the seven-note Song above (through the Round Table). The King hears both. The King hears *everything.*
 
-1. **Emergent abilities:** The Seelie King's magic produces effects that don't exist in the old system. Players encountering the new magic for the first time see things that don't follow the rules they've learned. This is the game teaching the player that the merging is real — the old rules are breaking, the new rules are being written, and the Seelie King is the author.
+The Seelie King's relationship to the Song is different from every other character:
+- The Crone measures the Song (numbers, frequencies, annotations)
+- The knights carry the Song (each one a note)
+- Galahad can't hear the Song (purity as obstruction)
+- Merlin hears the Song backwards (losing the future, receiving it in dreams)
+- The Seelie King *is* the Song's listener. Not the measurer, not the carrier, not the obstruction, not the dreamer. The listener. The one who has been hearing it longest. The one who will hear it after everyone else is gone.
 
-2. **Emotional resonance:** The magic responds to the player's emotional state — not through a dialogue check, but through *behavior.* The player who approaches the Summerlands with genuine curiosity finds the magic welcoming. The player who approaches with exploitative intent finds the magic... unwelcoming. The game reads the player's behavior over time, not a single choice.
+The Seelie King knows something about the Song that no one else knows: the Song is not getting louder. The Song is not getting quieter. The Song is exactly the same as it was 5,000 years ago. The Song doesn't grow. The Song doesn't fade. The Song is *constant.* The seven-note Song is not an expansion of the three-note Song — it's the same Song, heard by more people. The Song didn't change. The *listeners* changed. The listeners grew from three to seven to (eventually) everyone. The Song was always everything. The hearing is what expands.
 
-3. **The mutation spreads:** Late in the game, after the player has spent time in the Summerlands, the player's own abilities begin to mutate — small changes, unpredictable effects, the merging touching the player. This is the narrative spine's theme made personal: the merging isn't something that happened to the gods. It's happening to *you.* The Seelie King is the proof. The player is the next case.
+**The Seelie King's one piece of dialogue about the Song:** the player asks about the Song (or doesn't ask — the King speaks when the player is ready, not when the player asks). The King says:
 
-4. **The Preseli Blue Stone:** The Seelie King wears the Song's frequency around his neck without knowing what it is. The player who recognizes the frequency (from the Song of Making hidden endgame) understands: the mutation isn't random. The mutation is the Song, expressing itself through new voices. The Seelie King's power didn't arrive without cause — it arrived because the Song is growing, and the Song grows through the merging, and the merging produces new singers. The Seelie King is a singer. He doesn't know the song. The song knows him.
+"...You think the Song grows. ...You think the seven notes are more than the three. ...They are not. ...The Song was always complete. ...The three notes were always everything. ...The seven are the three... heard differently. ...The Round Table hears seven. ...Newgrange hears three. ...I hear... [the Seelie King's pause — silence, not deliberation, just the space between words that a 5,000-year-old being leaves] ...one. ...The Song is one note. ...Heard by everyone. ...Differently. ...The difference is the... [no pause. The Seelie King doesn't deliberate. He states.] ...listening."
 
-## What This Means for the Inn
+### The Seelie King and the Player
 
-The Seelie King is the narrative spine's central thesis made character: the merging is real, the merging is changing everything, and the change is not destruction — it is *becoming.* The old magic is ending. The new magic is beginning. The Seelie King is the first proof that what comes after the old rules is not chaos — it is *choice.* The power arrived. The decision is what you do with it.
+The player arrives at the threshold. The Seelie King sees the player. The King's eyes track — the predator's scan, the guardian's assessment. The King sees everything: the player's accumulated weight, the stones collected, the notes heard, the characters listened to, the faces seen past (Mordred's, the Minotaur's). The King sees the player's *listening* — the record of every character the player has sat with and heard.
 
-The Seelie King decided to be kind. The decision is all he can claim. And the claiming is everything.
+The King steps aside. The step is the permission. The player may cross.
+
+But the King says one thing first. The King's hand — the assassin's hand, the tender hand — touches the player's shoulder. The touch is light. The touch is the most dangerous thing the King does in the player's presence, because the touch *could kill* and the player knows it. The King chooses not to kill. The King chooses to *admit.* The admission is the tenderness. The tenderness is the choice.
+
+"...You listened. ...To the one with the Joffrey face. ...To the one in the maze. ...To the one who measures. ...Listening is... [the silence that is the King's only pause] ...the only key. ...The threshold opens for listeners. ...The threshold closes for extractors. ...You are not an extractor. ...You may... [the King's hand lifts from the shoulder. The absence of the touch is the permission. The permission is the door opening] ...cross. ...The animals are... [the faintest change in the King's face — the assassin's face softening, the only softening the King shows, the softening that is exclusively for the creatures] ...waiting. ...They are always... waiting. ...For someone who... [the King's last word, spoken while looking directly at the player with Mikkelsen's blue eyes, the eyes that see everything and miss nothing] ...listens."
+
+The player crosses. The Fae Kingdom opens. The dream-animals are there. The Summerlands spread out beneath the green-gold light. The Stone Circle Chamber waits at the deepest point. The Seelie King stays at the threshold, behind the player, guarding the door, listening to the dream-animals and the dreaming land and the constant, single, complete Song that has been playing since three stones were placed in three basins in Ireland 5,000 years ago.
+
+The King listens. The King has always listened. The King will always listen.
+
+### The Crone's Annotation (Received Later)
+
+The Crone, still sitting in Newgrange's chamber below, hears the player's footsteps crossing the threshold above. The Crone opens her notebook. The Crone writes one word. The word is not "Better." The word is:
+
+"...Listened."
+
+The Crone's final word. Not "Better" (the word of measurement). Not "Everything" (the word of awe). "Listened." The word of function. The word of the Inn's core mechanic. The word the Seelie King has been embodying for 5,000 years. The Crone, who measured and then learned to listen, writes the listener's word. The notebook is closed. The glasses are put away. The Crone is done.
+
+Not done living. Not done being. Done *measuring.* The Crone who catalogued everything puts down the catalogue and picks up the only tool the Seelie King ever used: attention. The Crone sits in Newgrange and listens to the Song the way the Seelie King listens: without measuring, without noting, without the notebook. Just the listening. The listening is the note. The note is the Song. The Song is one. Heard by everyone. Differently.
