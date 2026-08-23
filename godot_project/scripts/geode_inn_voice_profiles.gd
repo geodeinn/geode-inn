@@ -431,6 +431,23 @@ static func get_profile(character_id: String) -> Dictionary:
 			"light_source": "threshold_amber",
 			"special": {"borrowed_body": true, "mask_tell": true, "dual_role": "guest_host"}
 		},
+
+		"keeper": {
+			"pitch_hz": 105.0,
+			"pitch_end_hz": 105.0,
+			"reveal_speed_ms": 80,
+			"reveal_speed_end_ms": 80,
+			"pause_ms": 1200,
+			"expressiveness": 0.2,
+			"instrument": "bodhran_heartbeat",
+			"cadence": "heartbeat",
+			"facial_intensity": 0.2,
+			"gesture_frequency": 0.05,
+			"gesture_type": "still_watching",
+			"idle_animation": "facing_sea",
+			"light_source": "crystal_beacon_amber",
+			"special": {"owl_eyes": true, "heartbeat_sync": true, "beacon_ability": true}
+		},
 		"constant": {
 			"pitch_hz": 115.0,
 			"pitch_end_hz": 115.0,
@@ -514,5 +531,5 @@ static func get_all_character_ids() -> Array:
 		"peruvian_guide", "radagast", "beorn", "medusa",
 		"host", "anubis", "crone", "charon", "catalyst",
 		"cartographer", "examiner",
-		"astronomer_deduction", "astronomer_contemplation", "nyx_purge", "nyx_wisdom", "guest", "constant"
+		"astronomer_deduction", "astronomer_contemplation", "nyx_purge", "nyx_wisdom", "guest", "keeper", "constant"
 	]
