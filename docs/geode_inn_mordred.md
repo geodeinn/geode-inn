@@ -3,9 +3,19 @@
 
 ## Physical Description
 
-Mordred resembles Jeffrey, but more dark Celtic looking. The same bone structure, the same jaw, the same intensity — but pushed into the Celtic dark. Darker hair, darker eyes, the complexion of someone whose blood runs from the cold northern coast. The face that could be handsome and is instead *dangerous* — not because the features are wrong, but because the features are *too right*, too sharp, too predatory. The Celtic war aesthetic of the Uhtred Principle: lived-in, battle-worn, but on Mordred the battle-worn quality reads as *hunger* rather than endurance.
+Mordred resembles Joffrey Baratheon (Jack Gleeson, Game of Thrones) — but more dark Celtic looking. The same sharp, pretty-but-dangerous quality. The same sneer that sits on the face like it was born there. The same *youth* that reads as menace rather than innocence. The bone structure that is simultaneously beautiful and threatening — the jaw, the eyes, the too-sharp features that make you look twice and then wish you hadn't.
+
+But where Joffrey is Lannister-blonde and southern, Mordred is dark Celtic. Dark hair, dark eyes, the complexion of the cold northern coast. War paint instead of silk. The Uhtred Principle applied to Joffrey's architecture: lived-in, battle-worn, the pretty-and-dangerous pushed through a Celtic filter. Where Joffrey's danger is *soft* (the cruelty of a boy who has never been hit), Mordred's danger is *hard* (the honesty of a boy who has been hit too much).
 
 Where Arthur (Alexander Skarsgård) is golden — the Celtic warlord in his full sun — Mordred is the same genetics in shadow. The same jaw, darker. The same eyes, deeper-set. The same build, leaner. The family resemblance is the point: Mordred *looks* like Arthur's blood. The looking-like is the destiny. The destiny is the problem.
+
+### The Joffrey Trap
+
+The resemblance to Joffrey is not accidental — it is the Inn's cruelest design. Everyone who sees Mordred sees Joffrey. The knights, the NPCs, the player — everyone looks at the dark Celtic boy-king face and sees the cruel, sneering, entitled boy who would burn the kingdom for fun. The face *condemns* him before he opens his mouth.
+
+The condemnation is Mordred's deepest isolation. He is not what his face says he is. The sneer is not cruelty — it is *armor*. The sharpness is not entitlement — it is *defense*. The menace is not the joy of a boy with power — it is the *exhaustion* of a boy who knows what he is and can't stop being it. But no one reads past the face. No one sees the honest one behind the Joffrey mask.
+
+The player's role: the player is the one who looks past the Joffrey face. Not because the player is wiser or better — but because the player has *been* the thing everyone misread. The player has been the selkie who looks like a thief, the frog-transformed who looks like a monster, the imperfect one who looks like a failure. The player recognizes the pattern: the face that condemns. The player sees Mordred and sees... not Joffrey. Mordred. The seeing-past is the player's gift to Mordred. The seeing-past is the thing no one else at the table gives him.
 
 ## Who He Is
 
