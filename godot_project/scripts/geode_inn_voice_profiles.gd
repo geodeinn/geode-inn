@@ -380,6 +380,23 @@ static func get_profile(character_id: String) -> Dictionary:
 			"special": {"rising_pitch": true, "mode": "deduction"}
 		},
 		
+
+		"constant": {
+			"pitch_hz": 115.0,
+			"pitch_end_hz": 115.0,
+			"reveal_speed_ms": 70,
+			"reveal_speed_end_ms": 70,
+			"pause_ms": 1500,
+			"expressiveness": 0.2,
+			"instrument": "bull_lyre",
+			"cadence": "orbital",
+			"facial_intensity": 0.2,
+			"gesture_frequency": 0.1,
+			"gesture_type": "watching_void",
+			"idle_animation": "sitting_facing_void",
+			"light_source": "indigo_starlight",
+			"special": {"void_presence": true, "dual_song": true, "starlight_crystal": true}
+		},
 		"astronomer_contemplation": {
 			"pitch_hz": 125.0,
 			"pitch_end_hz": 100.0,
@@ -447,5 +464,5 @@ static func get_all_character_ids() -> Array:
 		"peruvian_guide", "radagast", "beorn", "medusa",
 		"host", "anubis", "crone", "charon", "catalyst",
 		"cartographer", "examiner",
-		"astronomer_deduction", "astronomer_contemplation"
+		"astronomer_deduction", "astronomer_contemplation", "constant"
 	]
