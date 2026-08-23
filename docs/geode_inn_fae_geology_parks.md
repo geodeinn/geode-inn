@@ -325,3 +325,91 @@ The **Veil Map** for the Appalachian section would be a single document covering
 ### The Granny Woman's Final Word on the Range
 
 "...The mountains go from Alabama to the sea. ...The gnomes go with them. ...The same gnomes. ...The same stone. ...The same work. ...[The fire. The cabin. The view of the Blue Ridge from the porch.] ...The Scottish gnomes are on the other side of the ocean, doing the same thing. ...Same mountains. ...Same beings. ...Different ocean. ...[The pause. The herbs. The patience.] ...The wood elves came across the ocean and didn't know they were going home. ...The gnomes never left home. ...Home just... [the word] ...broke. ...[The fire.] ...Pangaea broke. ...The mountains broke. ...The gnomes didn't break. ...They kept working. ...Both halves. ...Same work. ...Same patience. ...Same... [the Granny Woman, who has lived in one place for a very long time, recognizing the gnomes' version of the same thing] ...home. ...Two halves. ...One mountain. ...[The fire. The mist. The mountains outside, going blue in the dusk.] ...They'll find each other again. ...The sediment goes east. ...The ocean floor rises. ...In another two hundred million years, the Atlantic closes. ...The mountains reconnect. ...The gnomes meet. ...[The smile. The Appalachian patience.] ...They won't recognize each other. ...They'll just... [the word] ...resume."
+
+---
+
+## The Smoky Mountain Trolls
+
+### The Boulder Layer: Between the Gnomes and the Little People
+
+The Appalachian Fae stack now has five layers:
+
+| Layer | Fae Type | Origin | Niche | Time in Appalachians |
+|---|---|---|---|---|
+| Deep | Gnomes | Geological | Bedrock — erosion | 300 million years |
+| Boulder | Trolls | Geological (fragments of the giant) | Visible stone — boulders, cliffs, overhangs | 300 million years |
+| Floor | Little People | Cherokee | Soil — forest floor | Since before the Cherokee |
+| Canopy | Wood Elves | Celtic (immigrant) | Living trees — canopy | ~250 years |
+| Air | Sprites | Celtic (immigrant) | Mist — light | ~250 years |
+
+The trolls are the boulder layer — the Fae of the visible stone. Not the bedrock (that's the gnomes). Not the soil (that's the Little People). The in-between: the boulders, the cliff faces, the rock shelters, the overhangs. The stone you can see and touch and sit on. The stone that has broken free from the bedrock and lives on the surface.
+
+### What Trolls Are
+
+In Scandinavian folklore, trolls are beings of stone who turn to stone in sunlight. The Geode Inn recontextualizes them the way it recontextualizes everything terrifying: strip the monster, find the neighbor.
+
+The Smoky Mountain trolls are not monsters. They are **fragments of the sleeping giant.**
+
+The mountains are sleeping giants — the Inn's established mythology. The giants are the bedrock, the whole mountain, the deep consciousness sleeping in the stone. Over 300 million years, the gnomes have been eroding the giants — softening the stone, turning peaks to hills, wearing the body down. As the gnomes work, pieces of the giant break free. Boulders calve from cliff faces. Rock formations weather into new shapes. Chunks of the mountain separate from the main body and become independent.
+
+Those pieces are the trolls.
+
+The trolls are the giant's body that broke off and woke up. Not the whole giant — just a piece. A finger, a knuckle, an elbow — a fragment of the mountain's body that separated from the main consciousness and became its own being. The giant sleeps as a whole. The trolls are fragments that didn't go back to sleep. They're the parts of the giant that stayed awake while the rest of the giant settled into deep geological sleep.
+
+Each troll is a boulder, a cliff, a rock formation that is also a being. The being IS the stone. Not a creature living in the stone — the creature IS the stone. The troll's body is the boulder. The troll's face is the cliff. The troll's back is the overhang. When you sit on a boulder in the Smokies, you are sitting on a troll's shoulder. They don't mind. They're asleep.
+
+### Why the Smokies
+
+Trolls in Scandinavian folklore turn to stone in sunlight. This is the folk explanation for why you only see rock formations — the troll was caught in the daylight and froze. The Smokies are different. The Smokies have perpetual mist (the sprites) and dense old-growth canopy (the wood elves). The sun rarely reaches the forest floor. The Smoky Mountain trolls don't have the sunlight problem. They can be active during the day because the mist and the canopy protect them. The Smokies are the one mountain range in the world where trolls don't have to hide.
+
+This makes the Smoky Mountain trolls the most active, most visible, most present trolls in the Fae Kingdom. Scandinavian trolls are nocturnal — forced into night by the long northern summer days. Smoky Mountain trolls are active around the clock, in the mist, in the shade, in the perpetual blue-grey light of the forest floor. They move slowly (they're stone), but they move. A boulder that was on the north side of the trail yesterday is on the south side today. A rock formation that looked like a face last year looks like a different face this year. The hikers who notice are the hikers who are paying attention. The hikers who don't notice just think "that rock looks different than I remember." The rock IS different. The troll moved.
+
+### The Trolls and the Mist
+
+The sprites ARE the mist — thousands of tiny Fae forming the "smoke" that gives the mountains their name. The trolls live IN the sprites' mist. The mist is the trolls' element — the permanent twilight that lets stone-beings be active. The sprites and the trolls have a symbiotic relationship: the sprites need the trolls' stone to condense on (mist forms on surfaces — the trolls' boulders and cliffs are the condensation points), and the trolls need the sprites' mist for shade (the mist blocks the sun that would freeze them). The sprites are the trolls' sunscreen. The trolls are the sprites' anchor.
+
+This is why the Smokies are smoky: the sprites and the trolls are working together. The sprites make the mist. The trolls provide the stone for the mist to cling to. The mist that gives the mountains their name is the product of a 250-year-old immigrant Fae (sprites) and a 300-million-year-old geological Fae (trolls) collaborating without knowing they're collaborating. The Granny Woman knows. The Granny Woman watches the mist form on the boulders and says nothing.
+
+### The Trolls' Appearance
+
+A Smoky Mountain troll in its active state is barely distinguishable from the stone it's made of. The only visual difference is texture: troll-stone has a finer grain than the surrounding rock, a smoother surface, a slight warmth (trolls are geological — they retain heat from the earth's interior, while surface stone is cold). A hiker who rests their hand on a boulder and feels warmth where they expected cold is touching a troll.
+
+When a troll moves (slowly, over hours or days), the movement is not walking — it's flowing. The stone reshapes. A boulder that was round becomes elongated, as if the troll is stretching. A cliff face shifts — a crack that was vertical is now diagonal. The movement is geological-speed — you can't see it happen in real time. You can only see it by comparison. You took a photo of this rock formation last year. You take the same photo this year. The formation is different. The troll moved.
+
+The trolls' faces: this is the detail that the folklore got right. Trolls have faces. The Smoky Mountain trolls' faces are the rock formations that look like faces — the natural erosion patterns that resemble eyes, noses, mouths. Every hiker in the Smokies has seen a rock that looked like a face. Every hiker dismissed it as pareidolia — the human tendency to see faces in random patterns. It's not pareidolia. The faces are real. The trolls carve their own faces into the stone through slow erosion — not the gnomes' erosion (which is random, geological) but a deliberate, patient, millions-of-years-long self-portrait. The trolls make their faces the way the gnomes make soil: one particle at a time, over deep time, with absolute patience.
+
+The faces change. The face you see this year is different from the face you saw last year. The troll is not finished. The troll has been carving its face for 300 million years and it is still not satisfied. The face is a work in progress. The work will never be finished. The troll has 300 million more years. The face will be different then, too.
+
+### The Trolls and the Sleeping Giants
+
+The trolls are fragments of the sleeping giant — pieces of the mountain's body that broke free and became independent. This means the trolls are the giant's *surface consciousness.* The giant sleeps as a whole, deep in the bedrock. But the pieces that broke off — the trolls — are the parts of the giant that are still awake, still aware, still experiencing the surface.
+
+The trolls are the giant's eyes, ears, and hands on the surface. Not deliberately — the giant isn't directing them. The giant is asleep. But the trolls, as fragments of the giant, carry a vestige of the giant's awareness. The trolls feel the rain. The trolls feel the hikers' footsteps. The trolls feel the seasons. The giant, sleeping in the bedrock, doesn't feel any of this — the bedrock is too deep. But the trolls, on the surface, feel everything. The trolls are the giant's nerve endings — the surface sensation that the sleeping giant can't feel but that is happening to its body anyway.
+
+When the giant stirs (after the moon projection, the skip-beat), the trolls feel it first. The gnomes feel it in the heat (the redcaps, in Yellowstone). The Unseelie feel it in the cold (the Rockies). The trolls feel it in the stone — a vibration, a tremor, a crack that appears where there was no crack. The giant is shifting. The trolls, as pieces of the giant, shift with it. A troll that has been sitting on the north side of the ridge for ten thousand years slides three inches to the east. The hikers don't notice. The troll notices. The troll IS the noticing.
+
+The trolls' reaction to the stirring is different from the gnomes (grief — their work undone) and the Unseelie (readiness — their work fulfilled). The trolls' reaction is **curiosity.** The trolls have been on the surface for 300 million years, experiencing the world the sleeping giant can't. They've watched the Cherokee arrive. They've watched the settlers arrive. They've watched the Little People, the wood elves, the sprites arrive. They've watched the park be established. They've watched the tourists come. They've been watching, silently, patiently, from the surface of the stone. When the giant stirs, the trolls think: "Oh. You're waking up. Good. I have things to show you."
+
+The trolls are the giant's memory of the surface. When the giant wakes, the trolls will be the first thing the giant sees — the pieces of itself that went ahead, that stayed awake, that watched the world while the giant slept. The trolls have been keeping vigil. Not deliberately. Not consciously. Just by being there, on the surface, in the mist, for 300 million years. Being the eyes that stayed open.
+
+### The Trolls and the Other Fae Layers
+
+The trolls occupy a unique position in the Appalachian stack: they're the only Fae layer that is both geological (like the gnomes) and surface-dwelling (like the Little People, wood elves, and sprites). The gnomes are deep and don't know about the surface Fae. The surface Fae are surface and don't know about the gnomes. The trolls know about both. The trolls are the bridge — the geological Fae who live on the surface. The trolls know the gnomes (they were once part of the same stone). The trolls know the Little People (they share the forest floor). The trolls know the wood elves (the elves' trees grow on the trolls' stone). The trolls know the sprites (the sprites' mist condenses on the trolls' surfaces).
+
+The trolls are the Appalachian Fae's connective tissue — the only layer that touches all the others. The Granny Woman knows this. The Granny Woman talks to the trolls. Not in words — in touch. She places her hand on a warm boulder, and the boulder is a troll, and the troll feels her hand, and the hand says "I know you're here." That's all. No conversation. No exchange. Just acknowledgment. The same mechanic as the rest of the parks — the acknowledgment IS the gameplay. The Granny Woman has been touching the same troll for fifty years. The troll has been feeling her hand for fifty years. Neither needs more than that.
+
+### The Trolls' Frequency
+
+The trolls' frequency is the frequency of stone resonating in mist — approximately 64Hz (the Listener gargoyle's frequency). The Listener gargoyle is the one that listens. The trolls are the Inn's listeners — the geological beings who have been listening to the surface for 300 million years. The 64Hz is the frequency of patience and attention combined. The gnomes are patient (sub-20Hz, too slow to hear). The Unseelie are active (432Hz, the Caller). The trolls are *attentive* — 64Hz, the Listener. They hear everything. They remember everything. They have been the Appalachian mountain range's recording system for longer than the range has been the range.
+
+When the Song is complete and the giants wake, the trolls will have 300 million years of surface experience to share. The giant will wake up and the first thing it will hear is the trolls saying: "Here's what happened while you were asleep." The trolls are the audiobook of the mountain. The 64Hz is the frequency of a being that has been listening for 300 million years and has been waiting for someone to tell.
+
+### The Ranger and the Trolls
+
+**Mags** (the Cherokee-Irish ranger) knows about the trolls. She's one of the few humans who can distinguish troll-stone from regular stone — the warmth, the texture, the slow movement. She doesn't touch them (the Cherokee tradition is to leave the mountain's beings alone). She observes them. She has a notebook of troll positions — a long-term study of which boulders have moved and how far. She's been tracking them for twelve seasons.
+
+She tells the player: "The boulders move. Not fast. Not often. But they move. I've been tracking fourteen boulders on the same trail for twelve seasons. Eleven of them have shifted. Three have rotated. One — the big one at the Indian Gap overlook — has moved eight inches to the east in twelve years. Eight inches. That's not erosion. That's not frost heave. That's not gravity. That's... [the pause, the ranger who has been measuring for twelve seasons] ...intentional. Something is moving them. Or... [the correction, the deeper reading] ...something IS them. The boulder is the being. The being moves the boulder. They're the same. ...[The coffee. The trail. The overlook.] ...My grandmother said the mountains were alive. I thought she meant it poetically. She didn't. She meant it... [the word] ...literally. The mountains are alive. The boulders are alive. The cliffs are alive. They're just... [the Cherokee patience, the geological patience, the patience that runs in Mags' blood on both sides] ...slow. ...Very, very slow. ...And they've been watching us. ...The whole time. ...[The mist. The trail. The overlook where the big boulder has moved eight inches east in twelve years.] ...We think we're exploring these mountains. ...We're not. ...We're being... [the recognition] ...observed."
+
+### The Granny Woman on the Trolls
+
+"...The trolls are the mountain's skin. ...The gnomes are the mountain's gut. ...The Little People are the mountain's moss. ...The elves are the mountain's hair. ...The sprites are the mountain's breath. ...[The fire. The cabin. The view of the ridge, going dark in the dusk.] ...I touch a boulder and the boulder touches back. ...Not with hands. ...With warmth. ...The stone is warm because the stone is... [the word] ...someone. ...A someone who has been sitting on this ridge for longer than the ridge has been a ridge. ...[The fire.] ...The hikers sit on the boulders and eat their lunch. ...The boulders feel the hikers' warmth. ...The boulders feel the weight. ...The boulders don't mind. ...[The herbs. The patience. The Granny Woman who has been touching the same troll for fifty years.] ...They've been sitting longer than we've been standing. ...They'll be sitting after we stop. ...[The fire. The mist. The dark.] ...They're the patient ones. ...Even more patient than the gnomes. ...The gnomes are working. ...The trolls are... [the word] ...watching. ...[The fire.] ...Work has a pace. ...Watching has no pace. ...Watching just... [the Granny Woman, who has been watching the mountains for her whole life, recognizing the same quality in the stone] ...waits."
