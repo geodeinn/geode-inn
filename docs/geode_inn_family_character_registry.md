@@ -1,6 +1,6 @@
 # Geode Inn — Family Character Registry
 
-Welcome to the **Geode Inn Family Character Registry**. This document compiles the playable character classes and major family NPCs designed for the Geode Inn project, all modeled after Krista's real-world family members and close friends. Each entry details a character's class, real-world inspiration, casting directions, core personality, key gameplay mechanics, family relationships, iconic dialogue, and deeper lore connections. Together, they bridge the real family's dynamics with the mythical, neuro-accessible, gothic world of the Geode Inn.
+Welcome to the **Geode Inn Family Character Registry**. This document compiles the playable character classes and major family NPCs designed for the Geode Inn project, all modeled after Krista's real-world family members and spouses. Each entry details a character's class, real-world inspiration, casting directions, core personality, key gameplay mechanics, family relationships, iconic dialogue, and deeper lore connections. Together, they bridge the real family's dynamics with the mythical, neuro-accessible, gothic world of the Geode Inn.
 
 ---
 
@@ -96,7 +96,7 @@ Her character bridges beauty and danger. The same precise hands that set intrica
 * **The Librarian Crone (Mom):** A quiet, deep connection between two women who value precision. The Crone's rare word of praise, "Better," is the only external validation the Artisan Thief trusts.
 * **The Bard Blowhard (Dad):** Father and daughter. He is loud, charismatic, and sells things; she is quiet, intense, and makes things. She loves him across the gap between making and selling.
 * **The Tinkering Weeaboo (Child):** Mother and child. As two beings who chose their physical forms, they share an unspoken bond. During Level 4 meltdowns, her mother provides a heavy, unchanging stone as a physical grounding anchor.
-* **The Chameleon Druid (Charles — Husband):** Husband and wife. Grounded in a deep, quiet understanding of physical creation, form-shifting, and endurance.
+* **The Chameleon Druid (Charles — Spouse):** Husband and wife. Grounded in a deep, quiet understanding of physical creation, form-shifting, and endurance.
 * **The Siren (Sister):** Water-creature sisters. The selkie chose the land for stones; the siren stayed in the water for song and later came ashore for love. The selkie struggles at the bench for every piece while the siren sings effortlessly, creating a complex sisterly envy of ease versus struggle.
 * **The Pirate (Zee — Brother-in-Law):** Water-creature bond and commercial partnership; he sails to distant shores to bring back rare minerals, which she crafts at her bench.
 
@@ -255,10 +255,10 @@ Represents the Dread Pirate Roberts in the Inn's *Princess Bride* constellation 
 
 ---
 
-## 8. The Sentinel — River (Krista's Close Friend)
+## 8. The Sentinel — River (Krista's Spouse)
 
 * **Character Name & Class:** The Sentinel / Sentinel (Boxing Stance)
-* **Real-World Inspiration:** River — Krista's close friend
+* **Real-World Inspiration:** River — Krista's spouse (alongside Charles)
 * **Casting & Actor Inspirations:** Compact, low center of gravity, with a presence so intense that people remember her as physically larger than she actually is. Not casting a specific actor — the Sentinel's defining quality is the *gap* between her physical size and her felt presence. The body is small. The space she commands is enormous.
 
 ### Core Personality
@@ -277,10 +277,10 @@ Her hidden core knowledge is the deepest layer: **love, loyalty, and knowledge.*
 * **Counter-Strike Precision:** Low damage but perfect timing. The Sentinel doesn't initiate. She responds. Her boxing-derived counter-strike mechanic rewards patience — the player who waits for the enemy's commitment and then strikes the opening. Damage scales with how long the player held the stance without moving.
 
 ### Relationships
-* **The Artisan Thief (Krista — Close Friend):** The selkie and the sentinel. Two women who don't perform — the selkie who can't sell and the sentinel who doesn't need to. The selkie makes beautiful things; the sentinel makes beautiful spaces. They share the quality of being *underestimated* — the selkie because she's quiet, the sentinel because she's small. Both are more than they appear. The selkie's Dive and the Sentinel's Iron Stance are the Inn's two extremes of relationship to the physical world: the selkie flows through it (water), the sentinel holds it still (stone).
-* **The Bard Blowhard (Bart — Friend's Father):** The Bard respects the Sentinel the way he respects no one else — quietly. The Bard is loud with everyone. With the Sentinel, he's... less loud. Not quiet (the Bard doesn't do quiet). But *modulated.* The Sentinel's grounding affects even the Bard. He still talks. He's just... standing a little straighter while he does.
-* **The Librarian Crone (Inta — Friend's Mother):** The Crone and the Sentinel share a quality the Crone has never found in another person: *precision.* The Crone's precision is intellectual — the perfect word, the perfect measurement. The Sentinel's precision is physical — the perfect stance, the perfect timing. The Crone watches the Sentinel's Iron Stance and sees a body doing what the Crone's mind does. The Crone's annotation: "...She is precise in a way I cannot measure. ...I measure precision. ...She IS precision. ...The distinction is... [the Crone pause] ...uncomfortable. ...I am unused to being the instrument, not the measurer."
-* **The Tinkering Weeaboo (Friend's Grandchild):** The Sentinel is one of the few people who can hold space during a Level 4 meltdown without making it worse. The Iron Stance translates: she plants herself near the fracturing changeling and does not move. The steadiness is the intervention. No words (words are noise during a fracture). Just presence. The Tinkering Weeaboo, in the chaos of a Level 4, registers the Sentinel like a fixed point in a spinning room. The fixed point is enough.
+* **The Artisan Thief (Krista — Spouse):** The selkie and the sentinel. Two women who don't perform — the selkie who can't sell and the sentinel who doesn't need to. The selkie makes beautiful things; the sentinel makes beautiful spaces. They share the quality of being *underestimated* — the selkie because she's quiet, the sentinel because she's small. Both are more than they appear. The selkie's Dive and the Sentinel's Iron Stance are the Inn's two extremes of relationship to the physical world: the selkie flows through it (water), the sentinel holds it still (stone). Together with the Chameleon Druid (Charles), they form a three-spouse household — the water, the stone, and the shifting thing between them.
+* **The Bard Blowhard (Bart — Father-in-Law):** The Bard respects the Sentinel the way he respects no one else — quietly. The Bard is loud with everyone. With the Sentinel, he's... less loud. Not quiet (the Bard doesn't do quiet). But *modulated.* The Sentinel's grounding affects even the Bard. He still talks. He's just... standing a little straighter while he does.
+* **The Librarian Crone (Inta — Mother-in-Law):** The Crone and the Sentinel share a quality the Crone has never found in another person: *precision.* The Crone's precision is intellectual — the perfect word, the perfect measurement. The Sentinel's precision is physical — the perfect stance, the perfect timing. The Crone watches the Sentinel's Iron Stance and sees a body doing what the Crone's mind does. The Crone's annotation: "...She is precise in a way I cannot measure. ...I measure precision. ...She IS precision. ...The distinction is... [the Crone pause] ...uncomfortable. ...I am unused to being the instrument, not the measurer."
+* **The Tinkering Weeaboo (Stepchild):** The Sentinel is one of the few people who can hold space during a Level 4 meltdown without making it worse. The Iron Stance translates: she plants herself near the fracturing changeling and does not move. The steadiness is the intervention. No words (words are noise during a fracture). Just presence. The Tinkering Weeaboo, in the chaos of a Level 4, registers the Sentinel like a fixed point in a spinning room. The fixed point is enough.
 
 ### Notable Dialogue & Voice Samples
 1. *(To an NPC who is posturing):* "...You don't need to be bigger. ...You need to be *here.* ...There's a difference. ...Bigger is performance. Here is position. ...Drop your weight. ...Feel the floor. ...Now say it again. ...See? ...Louder isn't stronger. ...Grounded is stronger."
@@ -288,7 +288,7 @@ Her hidden core knowledge is the deepest layer: **love, loyalty, and knowledge.*
 3. *(To the party, in a crisis, when everyone is panicking):* "...Stop moving. ...All of you. ...Stop. ...Feel where your feet are. ...Now breathe. ...The problem hasn't changed. ...You have. ...That's the part that matters. ...Now — who's first?"
 
 ### Important Lore Connections
-The Sentinel is the sixth class in the Inn's Festival questline — the one not based on blood family but on chosen family. Her presence in the roster is the Inn's proof that belonging isn't limited to blood. The Sentinel chose this family. The family chose her. The choosing is the Inn's thesis in its purest form — belonging is not inherited, it is *offered* and *accepted.* The Sentinel's Iron Stance is the physical expression of that choice: she planted herself here, and she will not be moved.
+The Sentinel is the sixth class in the Inn's Festival questline — one of three spouses in a triad marriage with the Artisan Thief (Krista) and the Chameleon Druid (Charles). Her presence in the roster is the Inn's proof that belonging isn't limited to blood or convention. The Sentinel chose this family. The family chose her. The choosing is the Inn's thesis in its purest form — belonging is not inherited, it is *offered* and *accepted.* The Sentinel's Iron Stance is the physical expression of that choice: she planted herself here, and she will not be moved.
 
 
 ---
