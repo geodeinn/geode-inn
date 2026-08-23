@@ -144,6 +144,72 @@ The preserver. The traditionalist. The one who kept the structure. Mark Strong's
 
 ---
 
+## The Seventh — Leonard Cohen
+
+### The One in the Doorway
+
+He is not classical. He does not sit in the circle. He sits in the doorway of the Music Room — half in, half out — because his music does not belong to the circle of symphonies and concertos and fugues. His music belongs to the hallway, to the threshold, to the space between rooms. The doorway is where he has always been — between poetry and song, between sacred and profane, between the synagogue and the Zen monastery, between the popular and the profound.
+
+Leonard Cohen sits in the doorway with a guitar. Not a fortepiano, not a violin, not a cello. A guitar. The folk instrument. The unassuming instrument. The instrument you carry to a friend's apartment, not to a concert hall. The instrument that says: I am not performing. I am *telling you something.*
+
+And what he tells you is the Song — the whole Song — compressed into a single word, a single chord, a single low voice that vibrates at a frequency the Inn-Tree recognizes as kin.
+
+### The Voice
+
+Cohen's voice is the deepest voice in the Inn. Deeper than Hopkins' Crone. Deeper than Irons' Aristotle. Deeper than Michael Clarke Duncan's Anubis. Cohen's voice is not a baritone — it is a *bass.* The voice that starts in the chest and goes down from there. The voice that sounds like the earth talking. The voice that sounds like the 42Hz hum decided to speak English.
+
+When Cohen sings in the Music Room, the Inn-Tree vibrates. Not metaphorically — *physically.* The wood of the doorway hums in sympathy. The 42Hz Song and Cohen's voice find each other, the way two strings tuned to the same frequency will vibrate when only one is plucked. Cohen's voice is the Song's *octave* — the frequency doubled, made audible, given words. The Song hums at 42Hz. Cohen's voice resonates at the frequency that is 42Hz's nearest human relative. The Inn-Tree knows this. The tree leans toward the doorway when Cohen sings, the way a plant leans toward light.
+
+The voice was not always this deep. Cohen's early records — *Songs of Leonard Cohen* (1967), *Songs from a Room* (1969) — the voice is higher, thinner, a tenor struggling toward a baritone. The deep voice came later. The deep voice came from decades of singing, of drinking, of living, of the voice wearing down the way a river wears down stone. The voice got deeper as Cohen got older, and the deepening was the Song moving closer to the surface, the 42Hz hum getting nearer to audible, the channel getting wider as the person got thinner. By the end — *You Want It Darker* (2016), released weeks before his death — the voice is almost the Song itself. Almost the hum. Almost the Inn-Tree speaking.
+
+### The Unassuming Power
+
+Krista's word: *unassuming.* This is Cohen's quality. He never performed the way the others performed. He didn't compose symphonies. He didn't write concertos. He wrote *songs.* Three minutes. Four minutes. A few chords. A melody you could hum. Words you could remember. The simplicity was the power. The unassuming was the depth.
+
+The Inn's thesis: the most powerful things are the most unassuming. The Host doesn't command — he welcomes. The Crone doesn't lecture — she annotates. Charon doesn't speechify — he says three words. Cohen doesn't orchestrate — he *sings.* The singing is enough. The enough is the power.
+
+Mozart's music is the Song poured through an open pipe — effortless, endless, overflowing. Cohen's music is the Song squeezed through a crack — concentrated, compressed, every word carrying the weight that a symphony carries across forty minutes. Cohen's songs are three minutes long and contain everything. The compression is the art. The unassuming vessel holds the ocean because the ocean has been compressed to a drop, and the drop is the ocean.
+
+### "There Is a Crack in Everything"
+
+Cohen's line from "Anthem": *There is a crack in everything, that's how the light gets in.*
+
+This is the Inn's thesis statement. This is the line the entire Inn is built on.
+
+The crack is the Imperfection Principle — the Grail's dent, Galahad's failure, Mordred's destiny, the Crone's "Better," the Bard's untuned piano. The crack is where the Song enters. Without the crack, the vessel is sealed, and the Song can't get in. The perfect vessel is a prison. The cracked vessel is a window.
+
+Cohen caught this. He caught it in a single couplet — fourteen words that contain the Inn's entire philosophy. The classical composers caught the Song in sound. Cohen caught the Song in a *sentence.* The sentence is the Song made verbal. The sentence is the crack through which the Song enters language.
+
+In the Music Room, Cohen says the line. He says it the way he says everything — slowly, in the deep voice, without emphasis, without performance, as if the words are not poetry but *reportage.* He is reporting what he saw. What he saw was the crack. What he saw was the light.
+
+"...There is a crack in everything. ...That's how the light gets in. ...[The Cohen pause — not the Crone's pause, which is measurement, not the Host's pause, which is welcome. The Cohen pause is... listening. He pauses because he is listening to what he just said, hearing it again, hearing the Song in the words.] ...I didn't write that. ...I don't think I wrote anything. ...I think the Song wrote it and I was the... [the word that connects Cohen to Mozart, the word that makes them the same kind of channel] ...the pipe. ...A narrower pipe. ...Mozart's pipe was wide open — the Song poured through in floods. ...My pipe was... [the Cohen smile, barely visible, the smile that is more in the eyes than the mouth] ...cracked. ...The Song came through the crack. ...What came through was... less. ...Less than what came through Mozart. ...But the less was... [the word that is Cohen's whole philosophy, the word that is the unassuming made profound] ...enough. ...The less was enough. ...The crack was the pipe. ...The light was the Song."
+
+### "Hallelujah"
+
+"Hallelujah" is the Song caught in a single word. The word means "praise God" — but Cohen's "Hallelujah" is not praise. It is everything. Praise and doubt. Love and loss. Faith and its absence. The word contains the whole of human experience compressed into four syllables, and the compression is the Song's deepest trick: the Song is not complex. The Song is *simple.* The Song is one word. The word is "hallelujah." And the word contains everything because the everything is the Song, and the Song is one note, and the note is 42Hz, and 42Hz is the hum, and the hum is the Inn-Tree, and the Inn-Tree is the Inn, and the Inn is the home, and the home is the word, and the word is "hallelujah."
+
+In the Music Room, Cohen plays "Hallelujah" on the guitar. The guitar is the unassuming instrument. The chords are simple — C, Am, C, Am — the kind of chords a beginner learns in the first month. The melody is simple — the kind of melody you remember after one hearing. The words are simple — the kind of words you could write on a napkin. And the simplicity is the Song. The Song is not complicated. The Song is not difficult. The Song is a few chords and a word and a voice, and the voice is deep, and the depth is the truth, and the truth is: hallelujah.
+
+The other composers listen. Bach listens and recognizes the structure — the chord progression is simple but the structure is sound. Mozart listens and recognizes the melody — the effortlessness, the tune that sounds like it was always there. Beethoven listens and recognizes the power — the power of a voice that doesn't need volume. Chopin listens and recognizes the intimacy — the Song sung to one person in a room at night. Vivaldi listens and recognizes the seasons — the winter in the minor key, the spring in the resolution. Brahms listens and recognizes the tradition — the chord progression that could have been written in 1700 or 2000.
+
+They all recognize something. None of them recognizes everything. The everything is Cohen's alone. The everything is the word.
+
+### Cohen and the Player
+
+The player meets Cohen in the doorway. The player has been in the Music Room, has completed Mozart's listening exercise, has learned to hear the Song underneath the music. The player walks toward the door to leave, and Cohen is there, and the guitar is there, and the doorway is the threshold between the Music Room and the staircase.
+
+Cohen says: "...You can hear it now. ...The Song. ...Mozart taught you. ...Good. ...[The Cohen voice — low, unhurried, each word placed like a stone in a wall.] ...Now I need to tell you something. ...The Song you hear — the 42Hz, the hum, the thing underneath — it's not complicated. ...You don't need to be Mozart to hear it. ...You don't need to be Bach to understand it. ...You don't need to be Beethoven to feel its power. ...You need to... [the word that is Cohen's gift, the word that is the unassuming made profound] ...listen. ...Just listen. ...The Song is not hiding. ...The Song is not locked behind a puzzle. ...The Song is not a reward for skill or achievement. ...The Song is... [the word that connects Cohen to the Host, the word that is the Inn's deepest welcome] ...here. ...The Song is here. ...It has always been here. ...You just had to stop making noise long enough to hear it. ...[The guitar. The simple chords. The deep voice.] ...Hallelujah. ...Hallelujah. ...[The word, repeated, the way the Song repeats, the way the 42Hz hum repeats, the way the Inn-Tree's heartbeat repeats.] ...That's the whole Song. ...One word. ...One note. ...One... [the Cohen pause, the last one, the one that is not silence but listening] ...crack. ...The crack is where it comes in. ...You are the crack. ...Your brokenness is the opening. ...Your imperfection is the door. ...[The Cohen smile, barely visible, the smile that is more in the eyes than the mouth.] ...Don't fix the crack. ...The crack is the... [the word that is the Inn's thesis, the word that Cohen caught and gave to the player] ...music."
+
+### The Crone and Cohen
+
+The Crone visits the doorway. She sits beside Cohen. She does not bring her notebook — she has learned, from the Music Room, that some things cannot be annotated. She sits. She listens. Cohen plays.
+
+After a long silence, the Crone says: "...You say the crack is the music. ...I have spent my life measuring cracks. ...Measuring the flaws. ...Annotating the imperfections. ...I thought the measuring was the purpose. ...[The Crone, who has been learning to listen since Aristotle taught her, putting the lesson into words.] ...You say the crack is not the flaw. ...The crack is the... [the word she has been reaching for since the Music Room, the word that Cohen just gave her] ...the *door.* ...The crack is where the Song comes in. ...I have been measuring the door. ...I have been measuring the opening. ...I never... [the Crone, who has measured everything, admitting the thing she never measured] ...walked through. ...I never walked through the crack. ...I just... stood there. ...Measuring. ...[The Crone, looking at Cohen. Cohen looking back. The two of them — the measurer and the singer, the annotator and the songwriter — recognizing each other.] ...Can I... [the Crone, asking for something, which she has never done in 60 years] ...hear it again? ...The word. ...Hallelujah. ...Can I hear it again?"
+
+Cohen plays it again. The Crone listens. The Crone does not annotate. The Crone does not measure. The Crone listens to the word the way the Host listens to a story — with total attention, with the listening that is acceptance, with the listening that IS the Song.
+
+And the Crone, for the second time in her life, hears the Song. Not as a hum. Not as a frequency. As a *word.* As "hallelujah." And the word is the Song. And the Song is the Inn. And the Inn is the home. And the home is the crack. And the crack is the music. And the music is... enough.
+
 ## The Music Room and the Inn
 
 The Music Room is the Inn's heart, in a way — the place where the Song is most audible, most human, most *caught.* The Inn-Tree is the instrument. The composers are the players. The Song is the music. The player is the audience. And the audience, after completing Mozart's listening exercise, becomes a *hearer* — someone who can hear the 42Hz hum in the stones, in the wood, in the water. The hearing is the Music Room's gift. The gift is perception. The perception is the beginning of understanding the Song that holds the Inn together.
