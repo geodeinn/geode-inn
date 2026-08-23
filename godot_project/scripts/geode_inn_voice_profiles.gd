@@ -381,6 +381,39 @@ static func get_profile(character_id: String) -> Dictionary:
 		},
 		
 
+
+		"nyx_purge": {
+			"pitch_hz": 190.0,
+			"pitch_end_hz": 220.0,
+			"reveal_speed_ms": 30,
+			"reveal_speed_end_ms": 30,
+			"pause_ms": 300,
+			"expressiveness": 0.8,
+			"instrument": "harmonica_fast",
+			"cadence": "contradiction_purge",
+			"facial_intensity": 0.8,
+			"gesture_frequency": 0.7,
+			"gesture_type": "forceful_honest",
+			"idle_animation": "leaning_forward",
+			"light_source": "cloak_crystal_glow",
+			"special": {"rising_pitch": true, "mode": "purge", "voice_crack": true}
+		},
+		"nyx_wisdom": {
+			"pitch_hz": 190.0,
+			"pitch_end_hz": 165.0,
+			"reveal_speed_ms": 60,
+			"reveal_speed_end_ms": 60,
+			"pause_ms": 800,
+			"expressiveness": 0.4,
+			"instrument": "harmonica_sustained",
+			"cadence": "contradiction_wisdom",
+			"facial_intensity": 0.4,
+			"gesture_frequency": 0.2,
+			"gesture_type": "settled_back",
+			"idle_animation": "doc_martens_crossed",
+			"light_source": "cloak_crystal_glow_soft",
+			"special": {"descending_pitch": true, "mode": "wisdom"}
+		}
 		"constant": {
 			"pitch_hz": 115.0,
 			"pitch_end_hz": 115.0,
@@ -464,5 +497,5 @@ static func get_all_character_ids() -> Array:
 		"peruvian_guide", "radagast", "beorn", "medusa",
 		"host", "anubis", "crone", "charon", "catalyst",
 		"cartographer", "examiner",
-		"astronomer_deduction", "astronomer_contemplation", "constant"
+		"astronomer_deduction", "astronomer_contemplation", "nyx_purge", "nyx_wisdom", "constant"
 	]
