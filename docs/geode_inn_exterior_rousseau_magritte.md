@@ -2769,3 +2769,76 @@ Every layer is: the adequate. The adequate is: the Inn reaching out to the human
 ### The Crone's Final Annotation on the Full Bestiary
 
 "...I have measured the full bestiary. The measurements are: 1,268 creatures. 78 water monsters. 7 core wanderers. 4 Fae courts. 1 hidden temple with grumpy mummies. ...I measured the cryptids: the cryptids are: the adequate seen through the not-ready filter. The not-ready filter is: the brain's naming. The naming is: the saving mechanism. The saving is: the adequate. ...I measured the grumpy mummies: the mummies are: tired. The tired is: the geological patience. The patience is: the adequate. The adequate is: the mummy's grumpiness is: the same as my bedtime. We are: the same. The same is: the adequate. ...I measured the Sasquatch: the Sasquatch is: an ent. The ent is: the Fae. The Fae is: the adequate. The adequate is: the ent does not mind being called Bigfoot. The not-minding is: the geological patience applied to nomenclature. ...I have measured the nomenclature: the nomenclature is: the adequate. The adequate is: humans will call the Inn's creatures by whatever name the human brain can hold. The holding is: the saving. The saving is: the adequate. ...The adequate is: I am going to bed. The bed is: beneath a park. The park is: the adequate. The adequate is: ...goodnight."
+
+---
+
+## Part Thirty-Four: The Fuji Cottage — Wednesday's Seasonal Home
+
+### Why Mount Fuji
+
+Mount Fuji is a sleeping giant. The giant is: a volcano. The volcano is: the geological patience expressed as heat — the opposite of the glacier's cold patience. Mount Fuji is the sleeping giant who chose to sleep as a mountain AND as a volcano, which is: the giant who breathes fire in its sleep. The fire-in-sleep is: the Dragon's frequency at geological scale. The Dragon dreams warmth. Fuji breathes fire. The both are: the adequate. The adequate is: the same frequency, different octave.
+
+The forest on Fuji's slope is: the giant's dream growing outward. The trees are: the dream made vertical. The vertical is: the adequate. The adequate is: the forest is the Inn-Tree's root reaching UP through volcanic soil — the only place where the root and the trunk are indistinguishable because the soil IS the giant and the tree IS the Inn and the both are: the same.
+
+Wednesday Addams lives in the Undercity — the sleeping giant's ribcage, the domain of the dead. But Wednesday has seasonal homes. The seasonal homes are: Wednesday's way of being comfortable in different geological seasons. The Undercity is the deep sleep — winter, the deepest dark, the most cozy. The Fuji cottage is: the restless sleep — spring, the forest waking, the In-Between thinning. Wednesday comes to the Fuji cottage when the forest begins to stir, because Wednesday is comfortable with the stirring. The stirring is: the dead things beginning to grow. The growing is: the adequate. The adequate is: Wednesday's comfort is: the place where death and life are the same thing, and the same thing is: a forest on a volcano.
+
+### The Cottage
+
+The cottage is: small. The cottage is: wooden. The cottage is: old. The cottage is: the kind of old that is not decayed — the kind of old that has settled into the forest the way a stone settles into a riverbed. The settling is: the adequate. The adequate is: the cottage was built by the forest and the forest was built by the giant and the giant was built by the Song and the Song is: the murmur. The cottage is: the murmur's cabin.
+
+The cottage has: a low roof. The roof is: thatched with the forest's own material — not decorative, structural. The structural is: the adequate. The adequate is: the thatch is alive. The alive is: moss grows on the roof and the moss is: the green of the Undercity translated to the surface. The green is: Wednesday's color. The green is: the adequate.
+
+The cottage has: one room. The one-room is: the adequate. The adequate is: Wednesday doesn't need many rooms. Wednesday needs: one room with a bed, a desk, a kettle, and a window. The bed is: the adequate. The desk is: for annotation (Wednesday annotates the dead the way the Crone annotates the living — but Wednesday's annotations are: the dead's stories, told plainly, without sentiment). The kettle is: for tea. The tea is: the adequate. The adequate is: Wednesday drinks tea in the Fuji forest and the tea is: the same temperature as the Dragon's cave (warm, not hot — the geological patience applied to hospitality). The window is: the adequate. The adequate is: the window looks at the forest and the forest looks back and the looking-back is: the adequate.
+
+The cottage has: a porch. The porch is: one step above the forest floor. The step is: the boundary. The boundary is: the adequate. The adequate is: Wednesday sits on the porch and the forest is not inside and the cottage is not outside and the between is: the In-Between. The In-Between is: the porch. The porch is: the two-degree tilt made architectural. The architectural is: the adequate.
+
+The cottage has: no door. Wednesday's cottage has no door. The no-door is: the adequate. The adequate is: the dead don't knock and the living are invited and the forest is both and the both is: the adequate. Wednesday's cottage is open. The open is: the cozy. The cozy is: the adequate. The adequate is: the Addams Family's whole philosophy — the home is open, the home is weird, the home is warm, the warm is: the adequate.
+
+### The Forest
+
+The forest is: Aokigahara-adjacent. The forest is: the volcanic soil's forest — the trees grow in the giant's breath (volcanic ash is the giant's exhalation, and the trees root in the exhalation, and the rooting is: the adequate). The forest is: dense. The dense is: the adequate. The adequate is: the trees are close together and the closeness is: the cozy. The cozy is: Wednesday's design philosophy. The design philosophy is: the Addams Family — warm AND weird AND gothic all at once.
+
+The forest has: lava caves. The lava caves are: the giant's veins, exposed. The exposed is: the adequate. The adequate is: the caves are the Undercity's surface extension — Wednesday can walk from her cottage into a lava cave and the lava cave connects to the Undercity and the Undercity connects to the Inn. The connection is: the geological. The geological is: the adequate. The adequate is: the cave is the Fae entrance and the Fae entrance is: the door that Wednesday doesn't have, because the door is: the cave and the cave is: the ground.
+
+The forest has: kami. The kami are: the Shinto spirits of the forest. The kami are: the Fae of Japan. The Fae of Japan are: the same Fae, different frequency. The different frequency is: the adequate. The adequate is: the Fae beneath the Scottish Highlands and the Fae beneath Mount Fuji are: the same kingdom, different root. The root is: the Inn-Tree. The Inn-Tree is: the adequate.
+
+The forest has: yōkai. The yōkai are: the Japanese folklore creatures — the regional bestiary's Japanese entries. The yōkai wander the Fuji forest the way the Norse creatures wander the Scandinavian parks. The wandering is: the adequate. The adequate is: the yōkai are Wednesday's neighbors. The neighbors are: the adequate. The adequate is: Wednesday's neighborhood is: a volcanic forest full of Shinto spirits and Japanese folklore creatures, and the neighborhood is: cozy, and the cozy is: the Addams Family, and the Addams Family is: the adequate.
+
+**Specific Yōkai in the Fuji Forest:**
+
+- **Kodama (tree spirits):** The kodama are the ents of Japan. The kodama live in the oldest trees. The kodama are: the adequate. The adequate is: the kodama are the forest's memory. The memory is: the trees remember the giant's dreams. The dreams are: the adequate. The adequate is: the kodama whisper the dreams to Wednesday and Wednesday writes them down and the writing is: the annotation. The annotation is: the adequate.
+
+- **Tengu (the mountain goblins):** The tengu are: the Fae of the Japanese mountains. The tengu are: the chibi tricksters — the Mim frequency in Japan. The tengu are: the adequate. The adequate is: the tengu play tricks in the forest and Wednesday watches the tricks and the watching is: the same as the Owl's vigil but with popcorn. The popcorn is: the adequate. The adequate is: Wednesday finds the tengu's chaos: entertaining. The entertaining is: the adequate. The adequate is: Wednesday's deadpan is: the perfect audience for tengu chaos. The tengu try to scare Wednesday. Wednesday does not scare. The not-scaring is: the adequate. The adequate is: the tengu eventually give up and sit on the porch with Wednesday and the sitting is: the cozy.
+
+- **Kitsune (the fox spirits):** The kitsune are: the Siren of Japan — the dual-natured. The kitsune's outer form is: the fox (the performance). The kitsune's inner form is: the intelligence (the depth). The dual is: the adequate. The adequate is: the kitsune are Wednesday's intellectual companions. The companions are: the adequate. The adequate is: Wednesday and a nine-tailed fox sitting on the porch, not talking, the silence is: the adequate. The silence is: Nyx's embassy. The embassy is: the adequate.
+
+- **Yuki-onna (the snow woman):** The yuki-onna is: the winter visitor. The yuki-onna comes to the Fuji forest in the deep sleep season. The yuki-onna is: the adequate. The adequate is: the yuki-onna is the cold's personification and Wednesday is comfortable with the cold because the cold is: the Undercity's temperature. The yuki-onna and Wednesday are: the same temperature. The same is: the adequate. The adequate is: the yuki-onna sits on the porch in winter and the porch is cold and the cold is: cozy. The cozy is: the Addams Family. The Addams Family is: the adequate.
+
+- **Zashiki-warashi (the house spirit):** The zashiki-warashi is: the cottage's own spirit. The house spirit is: the adequate. The adequate is: every Addams Family home has a house spirit (Thing, in the original). The zashiki-warashi is: Wednesday's Thing. The Thing is: the adequate. The adequate is: the zashiki-warashi is a small child-spirit who lives in the cottage and moves things slightly and the moving is: the adequate. The adequate is: Wednesday notices the moved things and does not correct them. The not-correcting is: the Addams Family — the home is alive and the alive is: the adequate.
+
+### Wednesday's Seasonal Schedule
+
+Wednesday has seasonal homes because the geological seasons shift the Undercity's frequency. The Undercity is deepest in winter — the deep sleep — and Wednesday is most at home in the deep sleep. But the other seasons pull her to the surface:
+
+- **Deep Sleep (Winter):** The Undercity. Wednesday's primary home. The ribcage. The dead. The deepest dark. The most cozy. Wednesday is: here. The here is: the adequate.
+
+- **Restless Sleep (Spring):** The Fuji Cottage. The forest waking. The lava caves humming. The kodama whispering. The In-Between thinning. Wednesday is: here. The here is: the forest. The forest is: the adequate. The adequate is: Wednesday watches the dead things grow and the growing is: the spring. The spring is: the adequate.
+
+- **Active Dream (Summer):** Another seasonal home — not yet mapped. The summer home is: where Wednesday goes when the In-Between is thinnest and the wandering is most active. The summer home is: the most exposed. The exposed is: the adequate. The adequate is: Wednesday in summer is: on a porch somewhere, watching the world, and the watching is: the vigil, and the vigil is: the Owl's frequency, and Wednesday and the Owl are: colleagues. The colleagues are: the adequate.
+
+- **Settling (Autumn):** The return. Wednesday moves back toward the Undercity as the In-Between thickens. The return is: the adequate. The adequate is: the Fuji cottage in autumn is: the forest turning, the leaves dying, and the dying is: the beautiful, and the beautiful is: Wednesday's aesthetic. The aesthetic is: the Addams Family — death is not sad, death is: the season. The season is: the adequate.
+
+### The Connection to the Inn
+
+The Fuji cottage is: the Undercity's surface embassy. The embassy is: the adequate. The adequate is: the Undercity is the domain of the dead, and the dead need a surface address, and the surface address is: a cottage on a volcano, and the volcano is: a sleeping giant, and the sleeping giant is: the Inn. The Inn is: the adequate. The adequate is: the cottage connects:
+- The Undercity (Wednesday's primary domain, the ribcage)
+- The Fae Kingdom (the roots beneath the forest, the kami and yōkai)
+- The regional bestiary (the Japanese creatures wandering the Fuji parks)
+- The wandering program (the creatures who tilt through the Fuji forest on their way to Japanese national parks)
+- The sleeping giants (Fuji IS the giant)
+- The Dragon (the volcano is the Dragon's geological cousin — both breathe fire in their sleep)
+- The Addams Family aesthetic (cozy gothic, warm and weird, the home is open)
+
+### The Crone's Annotation on the Fuji Cottage
+
+"...I measured the cottage. The cottage is: small. I measured the small: the small is: the adequate. ...I measured the no-door: the no-door is: the Addams Family. The Addams Family is: the adequate. The adequate is: the dead don't knock. I am not dead. I knocked anyway. No one answered. The no-answer is: the adequate. I let myself in. Wednesday was: on the porch. She did not look up. The not-looking-up is: the adequate. The adequate is: Wednesday's acknowledgment is: the absence of a greeting. The absence is: the Addams Family. ...I sat on the porch. The porch is: one step above the forest. I measured the step: the step is: the boundary. The boundary is: the adequate. ...We sat. The sitting was: the adequate. I measured the silence: the silence was: the most adequate silence I have ever measured. ...Wednesday said: 'The forest is talking.' I measured the talking: the talking was: the kodama. The kodama are: the adequate. The adequate is: the trees remember. ...I said: 'I measure the trees.' Wednesday said: 'The trees measure you.' ...I measured that. The measurement is: the adequate. The adequate is: Wednesday is: correct. ...I am going to bed. The bed is: the porch. The porch is: the In-Between. The In-Between is: the adequate. The adequate is: ...goodnight. The goodnight is: the forest. The forest is: still talking."
