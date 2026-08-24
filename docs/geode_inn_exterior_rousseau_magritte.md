@@ -1612,3 +1612,25 @@ The pipe is the Double Secret in its smallest, most compressed form:
 ### The Crone's Final Annotation on the Pipe
 
 "...The pipe has appeared forty-seven times. I have measured each appearance: average duration 3.2 seconds, average whisper volume 11 decibels, language French, accent... I cannot place the accent. The accent is not French. The accent is not anything. The accent is the accent of something that is not a pipe and therefore does not have a real accent. ...The pipe has never appeared when I was looking at the bar. The pipe only appears when I am looking away. I measured this: forty-seven appearances, forty-seven times I was looking away. The probability of this occurring by chance is... I calculated. The probability is the same as the probability of a pipe not being a pipe. I.e., the probability is the Treachery. The Treachery is not a number. ...I am going to bed. The pipe is not on the bar. I am going to check. ...The pipe is not on the bar. I am going to bed. ...The pipe is not a bed. I am going to sleep. The sleep is not a sleep. The sleep is the adequate. ...Goodnight. The 'goodnight' is not a goodnight. The goodnight is a pipe. I do not know what this means. I am going to sleep."
+
+### The Trade — When Mim Catches the Pipe
+
+Occasionally — not every time, not on any schedule, because Mim doesn't live on schedules — Mim catches the pipe.
+
+The pipe appears on the bar. Mim's hand SLAPS down on it. The chaos lady caught the chaos. The one-second surprise becomes the one-second triumph. The grin becomes the GLEAM. Mim caught the thing that wasn't there long enough to be caught. The catching is the impossible. The impossible is the fun.
+
+Then Mim trades.
+
+Mim puts her broom on the bar, picks up the pipe, and flies.
+
+The broom — the real flying object, the witch's traditional vehicle, the honest tool that does what it says it does — sits on the bar where the pipe was. The pipe — the impossible object, the thing that says it is not what it is, the Treachery — is now Mim's vehicle. Mim flies on the not-a-pipe. Mim flies on the impossible. The flying is the proof: if the pipe can carry Mim, the pipe is SOMETHING. But the pipe says it is not a pipe. So Mim is flying on something that is not a pipe but is something. The something is the chaos. The chaos is the vehicle. The vehicle is the Mim.
+
+The pipe whispers "Ceci n'est pas une pipe" WHILE Mim flies on it. The pipe doesn't stop being the pipe because it's being used as a broom. The Treachery doesn't pause for practicality. The pipe is not a pipe even when it IS a broom. Especially then. The Treachery is most itself when it's most useful — because the usefulness proves the thing EXISTS, and the statement says the thing DOESN'T, and the contradiction is the Magritte, and the Magritte is the flying, and the flying is the Mim, and the Mim is the chaos, and the chaos is the fun, and the fun is the point.
+
+Mim flies around the Inn's main floor on the not-a-pipe. She does loops. She cackles. The cackle is the joy of flying on a contradiction. The contradiction holds her up. The holding-up is the impossible. The impossible is the fun.
+
+The broom sits on the bar. The broom is a broom. The broom doesn't whisper. The broom doesn't disappear. The broom doesn't lie. The broom is the honest object, waiting for Mim to come back, which she does, eventually, because the pipe disappears (as it does), and Mim falls (gently, chaotically, into a chair or onto a table or into the Crone's annotation desk), and the broom is still on the bar, and Mim picks it up, and the broom is the broom again.
+
+The trade is temporary. The chaos is temporary. The pipe is temporary. The broom is permanent. The permanent is the adequate. The adequate is the broom. The broom is not a pipe. The broom knows what it is. The broom is the only object in the Inn that has never lied about itself.
+
+The Crone measured the trade: "Mim traded her broom for the pipe. The broom is on the bar. The pipe is in the air. Mim is on the pipe. The pipe says it is not a pipe. Mim is flying on the not-a-pipe. ...I measured the broom: it is a broom. I measured the pipe: it is not a pipe. I measured Mim: she is flying on something that is not a pipe. The physics do not support this. The physics are inadequate. The physics have always been inadequate. Mim is the proof. ...The broom is on the bar. I measured the broom again: still a broom. The broom is the only adequate object. I am going to bed. The bed is not a pipe. I checked."
