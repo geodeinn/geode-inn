@@ -1077,3 +1077,153 @@ The one rule for overlapping portals: a portal character can only take the playe
 ### The Crone's Annotation on Portals
 
 "...I have mapped the portal network. Eight characters. Eight methods. Multiple overlaps. The Pirate and Charon both reach the Locker — the Pirate by sea, Charon by river. The Guest and Wednesday both reach the surface — the Guest by duty, Wednesday by choice. The Owl and the Cartographer both point to other hubs — the Owl by star, the Cartographer by map. The overlaps are not redundant. The overlaps are ALTERNATIVE ROUTES. The same destination by different paths. I have measured the routes: no two routes to the same destination take the same time, pass the same zones, or tell the same story. The route IS the content. The destination is the excuse. This is adequate. I am going to bed. The Guest is walking someone upstairs and the footsteps are keeping me awake. The Guest walks too slowly. I have measured his pace: 0.3 meters per second. I could crawl faster. But the slowness is the point. The point is the portal. The portal is the Guest. I am going to bed."
+
+---
+
+## Part Fifteen: The Observatory — The Time Ship
+
+### "The upstairs is not a room. The upstairs is a vessel."
+
+The Observatory is the cosmology level's hub — the upstairs. But it is not a static space. It is a SHIP. A time ship. A steampunk vessel that travels through the void between cosmic cycles, carrying the compressed Song of each dying universe to seed the next one.
+
+The Observatory IS the ship. The ship IS the Observatory. The Astronomer's mind palace is not a building — it's a vessel. The mind is the navigation. The palace is the hull. The consciousness is the travel. The upstairs is not a place you visit. The upstairs is a vessel you BOARD.
+
+### The Steampunk Aesthetic
+
+The time ship is steampunk — old technology doing impossible things. The aesthetic fits because:
+
+- **The Constant is the oldest being in the Inn.** The ship was built before the universe was young. The technology is ancient — but the function is cosmic. Old brass doing god-work.
+- **The Lyres of Ur are the ship's material.** The Constant's instrument — the oldest known stringed instrument, from ancient Mesopotamia — is the ship's building material. The Lyres were made of wood, gold, lapis lazuli, and bitumen. The ship is made of the same: brass (the gold, aged), wood (the warm soundboard material, the living texture in a cosmic vessel), lapis lazuli (the deep blue — the night-sky blue, the Nyx blue, the void blue), and bitumen (the black seal — the same tar the Egyptians used for embalming, connecting the Observatory to the Undercity through shared material).
+- **Copper is the conductor.** Already established: the 42Hz Song moves through copper. The octopus coast's blue blood is copper-based. The catacombs glow green from copper veins in the granite. The time ship's wiring, its circuits, its circulatory system — all copper. The ship's copper carries the Song the way the octopus's hemocyanin carries oxygen. The ship and the coast share the same blood.
+- **Analog, not digital.** No screens. No displays. Brass dials. Crystal lenses. Tuning forks. Metronomes. The 42Hz is shown on a vibrating tuning fork, not a readout. The Song is measured by a metronome, not a computer. The stars are charted on a brass orrery, not a digital map. The Astronomer calculates with a slide rule and a mind. The analog IS the steampunk. The steampunk IS the permanence — analog instruments last. Digital instruments break. The ship has lasted billions of cycles because it's analog. The analog is the durability. The durability is the Constant.
+
+### The Ship's Architecture — The Rooms
+
+The time ship has rooms instead of quarters. Each room is a function of the cosmology. The ship is the Observatory — the rooms are the observation instruments, the navigation systems, the engine, and the void:
+
+#### 1. The Bridge — The Constant's Wheel
+
+The Bridge is where the Constant steers. The wheel is a brass orrery — but the orrery doesn't model planets. It models UNIVERSES. Each sphere on the orrery is a universe. Each orbit is a cycle. The Constant turns the wheel to aim the ship at the next universe. The turning is the steering. The steering is the patience — the Constant doesn't rush the turn. The turn takes as long as the turn takes. The patience is the engine.
+
+The Bridge has:
+- **The Orrery Wheel:** The brass orrery that serves as the helm. Each universe-sphere is made of lapis lazuli (the void-blue). The current universe's sphere is slightly brighter — the 42Hz Song vibrates in its lapis, making it glow faintly. The previous universe's sphere is darker — its Song (41.7Hz) has been compressed into the starlight crystal. The next universe's sphere is empty — waiting for the Song that hasn't been born yet.
+- **The Captain's Chair:** The Constant's seat. The chair is wood — the only warm surface on the Bridge. The Constant sits. The sitting is the patience. The chair faces the void — the Bridge's front wall is a window, and the window shows the void, and the void is Nyx, and the Constant watches the void the way the Owl watches the sea: with the stubborn faith that the watching matters.
+- **The Logbook:** The Constant's record of cycles. The logbook is bound in bitumen (the black seal). Each page is a cycle — the previous frequency, the journey through the void, the seeding of the next cycle. The logbook is the ship's memory. The Constant's memory is perfect, but the logbook is for the record. The record is the Crone's gift to the cosmos — someone has to write it down.
+
+#### 2. The Navigation Room — The Astronomer's Mind Palace
+
+The Navigation Room is the Astronomer's workspace — the mind palace made physical. This is where the calculations happen. The room is full of brass instruments: astrolabes, chronometers, slide rules, sextants. No computers. The mind is the computer. The brass is the interface.
+
+The Navigation Room has:
+- **The Calculation Desk:** Where the Astronomer works. The desk is covered in brass instruments and hand-written equations. The equations describe the Song — the frequencies, the harmonics, the propagation through the cosmic web. The Astronomer calculates when the Song will be complete. The calculation is the tension: the Astronomer CAN calculate the end, but doesn't want to. "The question is more beautiful than the answer." The desk is the tension made furniture.
+- **The Violin:** The Astronomer's instrument — played functionally, to think. The violin is the Navigation Room's sound. Where the Undercity has the Lithophone (geological tempo) and the Coast Hub has the foghorn (subsonic), the Observatory has the violin (human tempo, fast, precise). The violin is the mind's instrument — the rapid, intricate sound of calculation. The Astronomer plays when stuck. The playing IS the thinking. The thinking IS the navigation.
+- **The Star Charts:** Not maps of stars — maps of SONGS. The Astronomer charts the Song fragments the way a navigator charts currents. The charts show where the Song is loudest, where it's fading, where it's accumulating. The charts are the Astronomer's contribution to the Inn — the Music Room's composers catch Song fragments by genius. The Astronomer catches them by CALCULATION. Both catch the same thing. Different methods. Different rooms.
+- **The Slide Rule of Cosmic Proportions:** A brass slide rule that's six meters long. The Astronomer uses it for the calculations that are too large for the mind alone. The slide rule clicks. The clicking is the calculation. The calculation is the sound of the Observatory working. The clicking is to the Observatory what the clacking is to the Coast Hub's crustacean elders — the sound of measurement being made.
+
+#### 3. The Engine Room — The Resonance Chamber
+
+The Engine Room is where the 42Hz is channeled. The engine is not mechanical — it's a RESONANCE CHAMBER. A hollow brass sphere that amplifies the 42Hz Song. The Song powers the ship. The ship moves through the void at the speed of the Song. The speed of the Song is the speed of patience.
+
+The Engine Room has:
+- **The Resonance Sphere:** The brass sphere. Hollow. The 42Hz hum fills the sphere and the sphere amplifies it and the amplified hum drives the ship. The sphere is the ship's heart — the same way the Prism is the sleeping giant's heart and the lighthouse lamp is the coast's heart. Three hearts: the Prism (geological), the lighthouse (human/vigil), the Resonance Sphere (cosmic). The Inn's three heartbeats: 42Hz (the Song), 50 BPM (the vigil), and the Prism's deep geological pulse.
+- **The Clockwork:** The gears that translate the 42Hz hum into motion. The gears are brass. They turn at 42 cycles per second (42Hz). The turning is too fast to see — felt as a hum, the same hum that fills the catacombs, the same hum that the Coast Hub feels in its copper veins. The gears are the ship's heartbeat made mechanical. The mechanical is the steampunk. The steampunk is the 42Hz made visible (if you could see the gears, which you can't, because they're moving too fast, but you can FEEL them).
+- **The Frequency Dial:** The brass dial that shows the current universe's frequency. The dial reads 42Hz. The previous universe's dial reading (engraved on the dial's rim, faded) reads 41.7Hz. The next universe's reading is blank — waiting. The dial is the ship's clock. The clock is the frequency. The frequency is the Song. The Song is the time. The time is the ship.
+
+#### 4. The Void Cabin — Nyx's Room
+
+The Void Cabin is Nyx's room. The room is dark. Not unlit — DARK. Nyx is the void. The void is the medium the ship travels through. Nyx's room is the inside of the medium. The player who enters the Void Cabin is entering the void itself.
+
+The Void Cabin has:
+- **The Cloak:** Nyx's cloak, woven from the starlight crystals of every dead universe. The cloak hangs on a brass hook. The cloak is the most valuable object on the ship — each crystal in the cloak is a universe that lived and died and was compressed into a fragment of light. The cloak is the Constant's cargo manifest — every universe the Constant has ever seeded is represented in the cloak. Nyx wears the dead. The wearing is the keeping. The keeping is the Nyx.
+- **The Doc Martens:** Nyx's boots, by the door. The grounding. The one human object in the void. The boots say: even the primordial goddess of night needs to stand on something. The something is the ship. The ship is the floor. The floor is the Doc Martens. The Crone's annotation: "The boots are scuffed. The scuffing is evidence of use. Nyx walks. I did not expect the goddess of the void to walk. I have measured her stride: approximately 60 centimeters. The void has a stride. The stride is adequate."
+- **The Harmonica:** Nyx's instrument. The harmonica is the void's voice — the sound of the silence between notes. Nyx plays the harmonica and the sound is the absence of sound — the audible silence, the thing you hear when the music stops. The harmonica is the Observatory's opposite instrument: where the violin (the Astronomer) is rapid and precise, the harmonica (Nyx) is slow and empty. The two instruments together are the Observatory's complete sound: the calculation and the void, the question and the silence after the question.
+
+#### 5. The Crystal Vault — The Cargo
+
+The Crystal Vault holds the starlight crystal — the compressed Song of the previous universe. The vault is brass and copper. The crystal glows with the light of a dead universe — the 41.7Hz light, the previous cycle's frequency, one step below the current 42Hz.
+
+The Crystal Vault has:
+- **The Starlight Crystal:** The compressed Song. The crystal is the ship's fuel AND the ship's cargo — it powers the journey AND it seeds the next universe. The crystal is the reason the ship exists. The Constant carries it. The carrying is the purpose. The purpose is the Constant.
+- **The Compression Chamber:** The mechanism that compressed the previous universe's Song into the crystal. The chamber is brass and lapis. The compression is the dying — the universe's last act is to sing its complete Song into the crystal, and the Song compresses, and the compression is the death, and the death is the crystal, and the crystal is the seed. The chamber is the deathbed and the cradle. Both at once.
+- **The Seeding Mechanism:** The mechanism that will release the crystal into the next universe. The mechanism hasn't been used yet — the ship is still in the void, still traveling, still carrying. The seeding will happen when the Constant decides the void has been crossed. The deciding is the patience. The patience is the mechanism's trigger.
+
+#### 6. The Observatory Deck — The Hearing Trumpet
+
+The Observatory Deck is the ship's telescope room. But the telescope doesn't look at light. It listens to SOUND. The telescope is a giant brass HEARING TRUMPET — scaled to cosmic proportions. The Astronomer listens to the Song through the trumpet the way an astronomer looks at stars through a lens.
+
+The Observatory Deck has:
+- **The Hearing Trumpet:** The brass instrument. Pointed not at the stars but at the CURRENT UNIVERSE — the one the ship left, the one that's still singing, the one the Inn exists in. The trumpet catches the Song fragments that the Music Room's composers also catch. The trumpet is the Astronomer's ear. The ear is cosmic. The cosmic hears the 42Hz.
+- **The Fragment Library:** The Astronomer's collection of caught Song fragments. Each fragment is a note, a phrase, a chord that the Astronomer has captured through calculation (vs. the composers who capture through genius). The fragments are stored in brass tubes, labeled with the frequency and the source. The library is the Astronomer's version of the Music Room — the same Song, caught differently, stored differently, used differently. The Music Room's fragments become music. The Observatory's fragments become calculations.
+- **The Projection Lens:** A brass lens that projects the Song fragments as visible patterns — constellations of sound. The Astronomer projects the fragments onto the deck's ceiling and reads the patterns the way the Slavic Zone reads the aurora. The patterns are the Song's written form — the star-language. The Observatory Deck and the Slavic Fjord of Stars share the same language: the Song written in light. The Astronomer reads it through the lens. The Zorya reads it through the aurora. Same text. Different editions.
+
+### The Ship's Crew
+
+The time ship has three crew members — the three residents of the cosmology level, now recontextualized as a ship's crew:
+
+| Crew Member | Role | Instrument | Voice | Function |
+|-------------|------|------------|-------|----------|
+| **The Constant** (Malkovich) | Captain | Bull lyre | ~115Hz, ~70ms reveal, orbital cadence | Steers. Decides when to seed. The patience is the engine. |
+| **The Astronomer** (Cumberbatch) | Navigator | Violin | ~125Hz, rapid deduction / slow contemplation | Calculates. Determines when the Song is complete. The mind is the map. |
+| **Nyx** (Alanis Morissette) | The Medium | Harmonica | ~190Hz, purge / wisdom modes | IS the void the ship travels through. The silence that makes the Song possible. The medium is the matrix. |
+
+Three crew. Three functions. Three instruments. Three voices. The ship is the smallest hub — only three residents. But the three are the most POWERFUL beings in the Inn. The Constant orders the cosmos. The Astronomer calculates the Song. Nyx IS the void. Three people on a ship in the dark, doing the work that makes the next universe possible.
+
+### The Ship's Journey
+
+The ship is always in the VOID — the space between universes. The void is Nyx. The ship travels through Nyx the way a ship travels through water. Nyx is the ocean. The ship is the vessel. The Constant is the captain. The Astronomer is the navigator. The journey has no destination in the conventional sense — the destination is the NEXT universe, which hasn't been created yet. The creation happens when the Constant seeds the starlight crystal. Until then, the ship is traveling. The traveling is the patience. The patience is the Constant.
+
+The player visits the ship DURING the journey. The player boards the ship and explores it while it's in transit. The ship's windows show the void. The void is dark. The void is Nyx. The player is inside Nyx, looking at Nyx through the windows, and Nyx is also standing next to the player in the Void Cabin. The player is inside the medium AND next to the medium at the same time. The paradox is the Nyx. The Nyx is the Observatory.
+
+### The Ship's Sound Design
+
+The Observatory's soundscape is the steampunk-cosmic audio identity:
+
+- **Base Layer:** The 42Hz hum. Louder here than anywhere — the Resonance Sphere amplifies it. The hum is the ship's engine sound. The ship VIBRATES at 42Hz. The player feels it in the brass handrails, in the wood floors, in the lapis walls. The ship is the 42Hz made architectural. The architecture is the vibration. The vibration is the travel.
+- **The Clockwork Layer:** The gears in the Engine Room. Too fast to see, audible as a high whine — the mechanical overtone of the 42Hz. The clockwork is the hum's harmonic. The hum is the fundamental (42Hz). The clockwork is the overtone (84Hz, 126Hz, 168Hz — the harmonics of 42). The ship's sound is a 42Hz HARMONIC SERIES. The Inn's Song, rendered as a brass machine's overtone sequence.
+- **The Violin Layer:** The Astronomer, playing in the Navigation Room. Rapid, precise, the sound of a mind working. The violin is the Observatory's only HUMAN-TEMPO sound — everything else is cosmic-tempo (the 42Hz) or void-tempo (the silence). The violin is the player's anchor — the sound that reminds the player that a PERSON is on this ship, thinking, working, caring about the calculation.
+- **The Harmonica Layer:** Nyx, playing in the Void Cabin. Slow, empty, the sound of silence made audible. The harmonica is the Observatory's opposite of the violin — where the violin is full, the harmonica is empty. Both are necessary. The full and the empty together are the Observatory's complete sound: the question (violin) and the silence after the question (harmonica).
+- **The Bull Lyre Layer:** The Constant, playing on the Bridge. The oldest instrument. The lyre's sound is deep, resonant, ancient. The lyre is the ship's floor — the lowest note, the foundation. The violin sits on the lyre. The harmonica sits in the lyre. The lyre holds everything. The Constant holds the ship. The holding is the patience. The patience is the lyre.
+- **The Void Layer:** Silence. Not the absence of sound — the presence of silence. The void is Nyx. Nyx is the silence. The silence is the medium. The ship travels through silence the way a ship travels through water. The silence is not empty. The silence is the SPACE in which the Song exists. Without the silence, the Song would have no medium. Without Nyx, the Constant would have no void to cross. The silence is the necessary. The necessary is the Nyx.
+
+### The Observatory's Personality — The Hub's Vibe
+
+Each hub has a personality:
+
+| Hub | Personality | What It Feels Like |
+|-----|-------------|-------------------|
+| **The Inn** | The hearth — warm hobbit-hole | Coming home |
+| **The Undercity** | Cozy gothic — Addams Family home | Being weird in peace |
+| **The Canopy City** | Neuro-accessible calm — Kelethin spell | Being calmed |
+| **The Coast Hub** | New England Gothic — the vigil | Staying faithful |
+| **The Observatory** | Steampunk cosmic — the time ship | Being small in the presence of forever |
+
+The Observatory's personality is AWE — not the frightening awe of the abyss, but the COMFORTING awe of the very large. The player on the time ship is small — a human on a cosmic vessel, between universes, in the void. But the smallness is not terrifying. The smallness is REASSURING. The ship is maintained. The Constant is patient. The Astronomer is calculating. Nyx is the silence that holds everything. The three crew members are the most powerful beings in the Inn, and they are THREE PEOPLE on a SHIP, doing their jobs, maintaining the cosmos the way the lighthouse keeper maintains the light. The cosmos is a lighthouse. The Constant is the Owl. The void is the sea. The starlight crystal is the lamp. The 42Hz is the 50 BPM. The Observatory is the Coast Hub at cosmic scale.
+
+The Crone's connection: the Crone visits the Observatory and tries to measure the void. The void is unmeasurable. The Crone is frustrated. The frustration is the growth — the Crone, who measures everything, encounters the one thing she cannot measure: the silence. The silence has no frequency, no tempo, no dimensions. The silence IS. The Crone's annotation: "I have measured the ship. I have measured the crew. I have measured the starlight crystal. I cannot measure the void. The void is not a measurement. The void is the space in which measurements happen. I am... unsatisfied. Not adequate. Unsatisfied. The void has defeated me. I am going to bed. The bed is on the ship. The ship is in the void. The bed is in the void. I am sleeping in the unmeasurable. This is adequate."
+
+### The Ship's Connection to the Inn
+
+The time ship connects to the Inn through the ASTRONOMER'S CONNECTIONS — already established:
+- **The Astronomer ↔ the Cartographer:** Two pattern-seers, forest and sky, same pattern at different scales (mycorrhizal network = cosmic web). The Cartographer maps the Inn's ecosystem. The Astronomer maps the Song. Both see the same network.
+- **The Astronomer ↔ the Crone:** Two knowers, data and meaning. The Crone measures the Inn. The Astronomer measures the Song. Both measure the same thing differently.
+- **The Astronomer ↔ Zorya:** Two sky-readers, physics and poetry. Zorya reads the aurora. The Astronomer reads the Song. Both read the sky.
+- **The Astronomer ↔ Medusa:** The calculator and the preserver. The Astronomer determines WHEN the Song will be complete. Medusa freezes the singing vines AT the moment of completion. The timing is the collaboration. The ship and the grotto are connected by the Song's completion — the ship arrives, the grotto freezes, the cycle ends, the next begins.
+
+The ship also connects through the PORTAL NETWORK:
+- **The Guest (Death) visits Nyx:** The Guest is Nyx's firstborn (Thanatos). The Guest walks the player from the Inn to the Observatory via the staircase-and-void. The Guest is the only portal character who reaches the Observatory by walking — the Guest walks through the void the way the Guest walks through the Inn. Death walks through everything. The void is no obstacle. The void is Nyx. Nyx is the Guest's mother. The Guest visits his mother.
+- **The Owl points to the stars:** The Owl gives one word — a star name — and the player follows the star to the Observatory. The Owl is the Coast Hub's astronomer. The Owl watches the sea AND the sky. The star-name is the portal.
+- **The Stone Circles align to the stars:** At certain times, the stone circles' star-alignment opens an upward path to the Observatory. The stone circles are the sleeping giant's vertebrae — the spine connects the roots (the Undercity) to the sky (the Observatory). The spine is the staircase. The staircase IS the spine.
+- **The Cartographer's temporal maps:** The Cartographer maps past AND future. The future maps are the Observatory's calculations, rendered cartographically. The Cartographer and the Astronomer share the same data, different formats.
+
+### The Steampunk Details — The Ship's Texture
+
+The ship feels steampunk through its TEXTURE:
+- **Brass that tarnishes in the void.** The void oxidizes the metal. Each cycle adds a layer of tarnish. The Constant doesn't clean it. The tarnish is the record — each layer is a universe. The brass is dark with billions of layers. The darkness is the age. The age is the beauty.
+- **Wood that creaks.** The ship's wood (the Lyres of Ur material) creaks in the void. The creaking is the wood breathing in the vacuum. The wood is the ship's living element — the brass is mechanical, the lapis is mineral, the bitumen is chemical, but the wood is ALIVE. The wood was once a tree. The tree's ghost creaks in the void. The creaking is the ship's heartbeat — the 42Hz hum translated through wood into sound.
+- **Gears that need oiling.** The clockwork needs maintenance. The Constant oils the gears. The oiling is the ritual — the oldest being in the cosmos, on his knees, oiling brass gears with a cloth, the way a lighthouse keeper cleans the lamp. The Constant is the Owl. The gears are the lamp. The oiling is the vigil. The vigil is the patience.
+- **The lapis that glows.** The lapis lazuli in the ship's walls glows faintly in the void — the same bioluminescence principle as the catacombs' copper veins, but blue instead of green. The catacombs glow green (malachite, copper). The Observatory glows blue (lapis, the void's color). Green is the earth. Blue is the sky. The two glows are the Inn's two lights: the roots (green, the geological) and the canopy (blue, the cosmic).
+- **The bitumen that seals.** The black tar that holds the ship together. The same material the Egyptians used to preserve the dead. The ship is sealed with the dead's preservative. The ship is, in a sense, a mummy — a preserved body, sealed against decay, traveling through the void. The Observatory is the Inn's mummy. The Inn is the Observatory's living body. One body, two states: alive (the Inn) and preserved (the ship). The Guest is the bridge between the two. The Guest walks between the living and the preserved. The preserved is the ship. The ship is adequate.
+
+### The Crone's Final Annotation on the Observatory
+
+"...I have boarded the time ship. The ship is in the void. The void is unmeasurable. I have measured everything else: the brass (tarnished, 4.7 billion layers), the wood (creaking, ~42Hz resonance), the lapis (glowing, 470 nanometers), the gears (turning, 42 cycles per second), the crystal (41.7Hz, the previous cycle). I cannot measure the void. I have asked Nyx how to measure the void. Nyx said: 'You don't. You measure around it.' I asked: 'What is the void?' Nyx said: 'The space between your measurements.' I have written this down. I do not understand it. But it is... adequate. The void is the space between my measurements. The silence between my annotations. The pause between my words. I am the Crone. I measure. The void is what I measure AROUND. The measuring-around is the knowing. The knowing is the adequate. I am going to bed. The bed creaks. The creaking is the 42Hz. The 42Hz is the Song. The Song is in the wood. The wood was a tree. The tree is the Inn. I am sleeping in the Inn's ghost. This is more than adequate. I do not have a word for more than adequate. I am... satisfied. Again. I am using this word too often. The void is making me emotional. I am going to sleep."
