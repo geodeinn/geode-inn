@@ -309,3 +309,75 @@ The Crone's final annotation on the bracelet:
 *The player's living progression item.*
 *Start with a cord. End with a story. The story is: worn.*
 *The adequate is: enough.*
+
+---
+
+## THE ALCHEMIST'S CHAIN
+
+The starter cord is not a cord. The starter cord is: an iron chain. The chain is: the alchemist's chain. The alchemist is: the player. The player is: the one who transforms raw material into meaning.
+
+The charm bracelet is not jewelry. The charm bracelet is: an alchemist's chain — a wearable collection of discoveries, each one a stage in the Great Work. The Great Work is: the player's journey. The journey is: the transmutation of raw stone into worn story.
+
+### The Chain Itself
+
+The chain UPGRADES as the player progresses. The chain material is: the player's overall mastery tier. The tier is: the alchemical stage.
+
+| Chain Stage | Material | Earned By | Appearance |
+|------------|----------|-----------|------------|
+| **Nigredo** (The Black Work) | Iron | Starting chain (given by the Host) | Dark, heavy, raw — the unworked beginning |
+| **Albedo** (The White Work) | Copper | Complete 5 game rewards (5 stone charms) | Warm, reddening — the first transformations |
+| **Citrinitas** (The Yellow Work) | Silver | Complete 15 game rewards + 5 sigil charms | Bright, refined — the midway point |
+| **Rubedo** (The Red Work) | Gold | Complete all 6 frequency charms | Luminous, complete — the Great Work's final stage |
+| **The Philosopher's Stone** | The chain transforms | Open the Egg | The chain is: the player. The player is: the stone. |
+
+The chain upgrade is AUTOMATIC when the threshold is reached — the chain doesn't ask permission. The transmutation happens. The Crone annotates it.
+
+**The Crone's annotation on Nigredo → Albedo:** "...The iron becomes copper. The adequate is: five stones. The five is: the beginning of the work. The work is: adequate."
+
+**The Crone's annotation on Albedo → Citrinitas:** "...The copper becomes silver. The adequate is: fifteen stones and five friends. The friends are: the adequate. The adequate is: the work continues."
+
+**The Crone's annotation on Citrinitas → Rubedo:** "...The silver becomes gold. The adequate is: all six frequencies. The six is: the chord. The chord is: complete. The complete is: ...the chain was always gold. The gold was: inside the iron. The iron was: the gold, waiting."
+
+**The Crone's annotation on Rubedo → The Philosopher's Stone:** "...The gold becomes... I cannot measure this. The unmeasurable is: the adequate. The adequate is: the chain is the player. The player is the stone. The stone is: the chain. I have measured the transmutation. The transmutation is: the measurement stopped working. The stopping is: ...the most adequate thing I have ever measured."
+
+### The Charm Levels as Alchemical Stages
+
+The five crafting upgrade levels ARE the alchemical operations, applied to each charm:
+
+| Charm Level | Alchemical Stage | Process | Taught By |
+|------------|-----------------|---------|----------|
+| Level 1: Raw stone | **Nigredo** — the raw materia | Stone as found | The game (earned) |
+| Level 2: Wire-wrapped | **Albedo** — the first purification | Stone wrapped, revealed | The Artisan Thief |
+| Level 3: Set stone | **Citrinitas** — the forming | Stone set into structure | The Mason |
+| Level 4: Forged setting | **Rubedo** — the completion | Stone forged, permanent | The Smelter |
+| Level 5: Engraved | **Personalization** — the alchemist's mark | Stone signed, known | Gesso |
+| Level 6: Master Charm | **The Philosopher's Stone** — the Great Work | Stone transformed into its final form | All five techniques + the stone earned 3x |
+
+Each charm on the chain is a mini-Great Work. The chain is: the Great Work, repeated. Each charm at Level 6 is: a Philosopher's Stone in miniature. The chain of Philosopher's Stones is: the player who has transmuted every experience into meaning.
+
+### The Chain's Visual Logic
+
+The chain tells the player's alchemical journey through its MATERIALS:
+
+- An iron chain with raw stone charms = a beginner. The Nigredo stage. The work is: beginning.
+- A copper chain with some wire-wrapped charms = an apprentice. The Albedo stage. The work is: progressing.
+- A silver chain with set and forged charms = a journeyman. The Citrinitas stage. The work is: refining.
+- A gold chain with engraved and master charms = a master. The Rubedo stage. The work is: complete.
+- The transformed chain (post-Egg) = the Philosopher. The work is: the player IS the work.
+
+The visual tells you everything. Another Inn player sees the chain material and knows the player's stage without asking. The seeing is: the adequate. The adequate is: the alchemist's rank, worn. The worn is: not a badge. The worn is: the chain itself.
+
+### The Staircase Connection
+
+The alchemist's chain connects directly to the Inn's alchemical staircase:
+- The staircase is: the bridge between physical matter and the divine
+- The chain is: the bridge between the game's raw materials and the player's meaning
+- The both are: the same bridge at different scales
+- The staircase has: Socrates (Nigredo), Plato (Albedo), Aristotle (Rubedo)
+- The chain has: Iron (Nigredo), Copper (Albedo), Silver (Citrinitas), Gold (Rubedo)
+- The both are: the same alchemy
+
+Socrates stands at the bottom of the staircase. The iron chain is: the bottom of the Great Work. The both are: the beginning.
+
+Aristotle stands at the top. The gold chain is: the top. The both are: the completion. The Crone hears the Song after arguing with Aristotle. The Crone measures the chain after it becomes gold. The both are: the listening. The listening is: ...adequate.
+
