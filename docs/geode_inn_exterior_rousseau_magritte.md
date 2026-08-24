@@ -189,3 +189,69 @@ The exterior and the Inn-Tree add TWO more artists to the aesthetic framework:
 | **Cave Walls** | Bosch | Shadows | Imagination — the shadow as MORE real |
 
 Théodore Rousseau is the APPROACH — the artist you encounter before the Inn. Magritte is the INN ITSELF — the artist who defines what the building IS. The New England Gothic lighthouse is the INN'S EDGE — the farthest point from the tree, the place where the Inn meets the world it can't contain. Rousseau is the question (what is real?). Magritte is the answer (the real is the face of the open). The lighthouse is the AFTER — the place where the answer lives, where the open meets the ocean, where the faith sweeps through fog because the sweeping IS the faith.
+---
+
+## Part Four: The Town — What Came Out of the Ocean and Stayed
+
+### The Abandoned Fishing Village That Isn't
+
+The lighthouse watches over a town. The town is a New England fishing village — clapboard houses, a dock, a cannery, a church, a main street with three shops. The architecture is 1800s coastal New England: gray weathered shingles, white trim going gray, granite foundations, slate roofs going green with moss. The town looks like a hundred real New England towns that the fishing industry forgot.
+
+But the town isn't abandoned. The town is OCCUPIED — by things that came out of the ocean and stayed.
+
+### The Origin — Innsmouth Inverted
+
+Lovecraft's Innsmouth: the horror of humans becoming inhuman. The Deep One bloodline slowly transforming the townspeople into something aquatic. The horror is the CHANGE — the loss of the human.
+
+The Inn's town: the MIGRATION. Things from the sea that came ashore and found an empty town and moved in. The horror (for a player who expects horror) is the SAME — strange-looking people in a strange town who don't quite fit. But the TRUTH (for a player who stays and looks) is the opposite: the creatures didn't take the town from anyone. The humans LEFT. The town was empty. The ocean sent its own.
+
+The town is the Inn's answer to the question: what happens to the places people abandon? The Inn's answer: something fills them. The something is not the thing that was there before. The something is what the sea sends when the land is empty. The sea doesn't waste space. The sea fills the gap.
+
+### Who Lives There — The Ocean's Tenants
+
+The townspeople are not one species. They are whatever came out of the ocean and found a house with an open door and decided to stay:
+
+- **The Merfolk:** Not the Mermaid of the Fae Kingdom — those are surface Merfolk, the beautiful, theatrical, performing kind. These are DEEP Merfolk. The ones who lived near Cthulhu at the bottom. Their forms are less human — more angular, more aquatic, more obviously not-from-here. They wear the clothes they found in the houses (fishermen's coats, cable-knit sweaters, rubber boots) and the clothes don't quite fit because the bodies aren't quite the shape the clothes were made for. The not-quite-fitting is the visual: the town looks NORMAL from across the street, and looks WRONG up close, and the wrongness is just... different anatomy in borrowed clothes. The sweaters are the disguise. The disguise is the kindness — the Merfolk are TRYING to look like what the town used to be. The trying is the respect.
+
+- **The Crustacean Elders:** Ancient things — not humanoid, not fully crustacean, something between. They live in the cannery because the cannery smells like salt and fish and the smell is the closest thing to home. They don't speak. They clack. The clacking is a language — the Crone has been studying it for years and has annotated 300 of the 400 known clack-patterns. The Crone's note: "...a clack followed by two clicks followed by silence means 'the tide is adequate.' Their word for adequate is the same as ours. I did not expect this. I am... pleased."
+
+- **The Shape-Shifters:** Things from the deep that don't have a fixed form. They took the shapes of the people who left — not to deceive, but to MAINTAIN. The town should have a baker, so the shape-shifter became the baker. The town should have a postmistress, so the shape-shifter became the postmistress. The shapes are borrowed the way the Merfolk borrow the sweaters — with respect, with the understanding that the shape is on loan, that the original owner might come back and want it. The shape-shifters are the town's MEMORY — they keep the town looking like a town because they remember what a town is supposed to look like. The memory is the service. The service is the love.
+
+- **The Thing in the Church:** The largest creature. The one that came from the deepest point. It lives in the church because the church is the tallest building and the creature is very tall and the church is the only space where it can stand upright. The creature doesn't pray. The creature LISTENS. The church has good acoustics — the creature can hear the 42Hz hum through the church walls. The creature came from the deep ocean where the hum is loudest, and the church is the closest the creature can get to the hum on land. The creature is the town's connection to the Song. The Crone's annotation: "...it came from deeper than Cthulhu. Cthulhu is four feet tall. This is forty. It does not speak. It does not need to. It listens. The listening is the prayer. The prayer is adequate."
+
+### The Town's Relationship with the Lighthouse
+
+The lighthouse watches the town the way the lighthouse watches the ships — with the stubborn faith that seeing is enough. The light sweeps over the town every 50 BPM and the sweep is the lighthouse's blessing: I see you. I know what you are. I don't need you to be anything else.
+
+The Owl doesn't visit the town. The Owl doesn't need to. The Owl sees the town from the lighthouse porch, through the fog, as shadows that move between buildings and lights that go on and off and the rhythm of the lights (on at dusk, off at dawn) tells the Owl that the town is alive. The Owl counts the lights the way the Crone counts the annotations: not to verify, but to WITNESS. The witnessing is the vigil. The vigil is the lighthouse's job.
+
+The town's relationship with the Owl is one-way: the town knows the light. The town doesn't know the keeper. The Merfolk who came from the deep know the 42Hz hum, and the light sweeps at 50 BPM (heartbeat), and the heartbeat tempo is the hum's surface expression, and the town feels the light sweep the way the player feels the hum in the forest — as a presence, as a rhythm, as the evidence of something that is THERE. The town doesn't visit the lighthouse because the town doesn't need to. The light comes to the town. The coming is the care.
+
+### The Player's Experience
+
+The player finds the town by walking down from the lighthouse. The path is a coast road — granite gravel, scrub pines on both sides, the Atlantic on the left. The road descends to the town. The town appears in the fog — first the church spire (the tallest thing), then the rooftops, then the main street, then the people.
+
+The first impression is: abandoned. The second impression is: not. The player sees a figure on a porch, and the figure is wearing a fisherman's sweater that doesn't fit, and the figure waves, and the wave is a human gesture performed by a non-human hand, and the player doesn't know what to think and the not-knowing is the Inn's whole design. The not-knowing is the Rousseau (Henri) — the naive encounter, the first sight, the Sleeping Gypsy moment: the player is the gypsy, the townsperson is the lion, and the lion is waving.
+
+The player who stays discovers:
+- The baker is a shape-shifter who bakes bread that tastes like the ocean (salt bread, kelp bread, bread with a mineral undertone that shouldn't work and does)
+- The postmistress is a shape-shifter who delivers mail to empty houses and the mail is addressed to the people who left and the postmistress keeps the mail because the mail might need to be here if the people come back (the mail is the respect for the people who left, the same respect the Merfolk show by wearing their sweaters)
+- The cannery is full of clacking elders who process nothing (the fish are gone, the cannery is symbolic, the clacking is the work and the work is the maintenance of routine and the routine is the civilization)
+- The church has a forty-foot creature listening to the 42Hz hum through the walls
+- The dock has Merfolk who sit on the pilings and look at the sea they left and the looking is not regret — it's the way you look at the place you came from when you've chosen to be somewhere else. The selkie (the Artisan Thief) would understand. The selkie chose the land for the stones. The Merfolk chose the land for... what? The hum. They followed the 42Hz to the surface and the town was where the hum was strongest (because the lighthouse is the giant's raised hand and the hand is granite and the granite carries the hum). The Merfolk came for the Song.
+
+### The Quest — "The Empty Houses"
+
+The town's quest is "The Empty Houses": the player is asked to visit the houses that are still empty — the ones no ocean creature has taken. There are seven. Each empty house has a story: the family that left, the reason they left, the thing they left behind. The player reads the left-behind things (letters, photographs, a child's drawing, a captain's log) and the reading is the INVESTIGATION — the player reconstructs the human town that was here before.
+
+And then the player is asked: should the ocean creatures take the remaining houses? The seven empty houses are the town's last memory of the humans. If the creatures take them, the town becomes fully the ocean's town. If the creatures don't take them, the town stays half-human, half-ocean, a monument to the people who left.
+
+The player doesn't decide FOR the town. The player's FINDING — the visiting of the houses, the reading of the left-behind things, the knowing of the human stories — is what the quest needs. The creatures don't want the houses until someone knows what was in them. The knowing is the permission. The permission is the respect: the ocean can't take the last of the human town until someone has WITNESSED what the human town was.
+
+The Owl's quest reward ("Beacon" ability) gains a second function here: the player who has the Beacon ability can light the empty houses — one at a time, briefly — so the townspeople can see inside. The seeing is the witnessing. The witnessing is the quest. The Beacon lights the houses and the houses are seen and the seeing is the letting-go.
+
+After the quest, the seven houses are taken — slowly, over time, one by one, by creatures who now know what was there and who leave one thing from the old house in the new house: the letter on the mantle, the photograph on the wall, the child's drawing on the fridge. The kept thing is the memory. The memory is the cohabitation. The cohabitation is the New England Gothic: the ruin that is still a home, the home that is also a ruin, the past and the present in the same building, and both are adequate.
+
+### The Crone's Final Annotation on the Town
+
+"...I counted the lights at dusk. Twenty-three. Last year: nineteen. The year before: fourteen. The town is filling. The sea sends what the land loses. I do not know if this is replacement or replenishment. I do not know if there is a difference. The baker's bread tastes like the ocean and I eat it anyway. The postmistress keeps letters for people who will not return and I have added my own letter to the stack. I wrote: 'I was here. I measured everything. It was adequate.' The forty-foot thing in the church heard me write it. It did not speak. The listening was enough."
