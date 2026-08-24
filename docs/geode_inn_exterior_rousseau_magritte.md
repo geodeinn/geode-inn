@@ -884,3 +884,96 @@ Five hubs. One per level (three interior). One per exterior gateway (two exterio
 ### The Crone's Final Annotation on the Hub Pattern
 
 "...I have mapped five hubs. The Observatory (upstairs — scholars). The Inn (main floor — the hearth). The Undercity (downstairs — the dead). The Canopy City (exterior forest — the living land). The Coast Hub (exterior coast — the living sea). Five hubs. One per level, one per gateway. The pattern is clear. The pattern is... architectural. I do not use architectural metaphors. I am using one now. The Inn is a body. The hubs are the organs. The paths are the vessels. The 42Hz is the blood. The 50 BPM is the heartbeat. The Guest is the bridge between the body and its shadow. The Owl is the bridge between the body and the sea. The Cartographer is the bridge between the body and the forest. Three bridges, five organs, one body. The body is adequate. I have now used an architectural metaphor, a biological metaphor, and a geographical metaphor in the same annotation. I am going to bed. I am not coming back down here. The Lithophone plays at one note per century and I do not have the patience for that frequency."
+
+---
+
+## Part Thirteen: Wednesday — The Undercity's Living Resident
+
+### "They're dead. They're not scary. Stop being weird about it."
+
+Wednesday Addams lives in the Undercity. Not visits. Not commutes. LIVES. She has a house on the Remembered Streets — the Memory Quarter's residential district, where the dead who chose to stay make their homes. Wednesday is the one LIVING soul on the street. The dead don't find her strange. The dead find her... adequate.
+
+Wednesday chose the Undercity because the Undercity is the Addams Family mansion at city scale. The Addams house: gothic, warm in its own way, full of things that should be scary but are actually home. The Undercity: gothic, warm in its own way, full of the dead who should be scary but are actually neighbors. Wednesday grew up in a house where the macabre was domestic. The Undercity IS the macabre made domestic. The dead have homes. The dead have shops. The dead have streets. The dead have a city. The dead are adequate. Wednesday is home.
+
+### Wednesday's House
+
+Wednesday's house is the darkest on the Remembered Streets — not because she decorated it dark, but because the 42Hz bioluminescence is DIMMER at her house. The copper veins in the granite near Wednesday's home produce less glow. Not because the Song is weaker there, but because Wednesday PREFERS it dark, and the Song, being the Song, accommodates. The Song is responsive. The Song gives you the light you want. The dead want the green glow (memory-light, the soft illumination of the past). Wednesday wants the dark. The dark is the comfort. The comfort is the Addams.
+
+Wednesday's house contains:
+- **The Stone Collection:** Not gems — the Artisan Thief collects gems. Wednesday collects STONES. Plain stones. The stones that don't make it into the Stone database. The boring ones. The ugly ones. The limestone and the shale and the sandstone that no one wants. Wednesday finds them interesting BECAUSE no one else does. The collection is the inversion of the Gem Cave — where the cave fills with precious stones, Wednesday's shelves fill with the ordinary. The ordinary is the collection. The collection is the Wednesday.
+- **The Skeletal Hand Bookmark:** A pet. Not a living pet — a dead pet. A skeletal hand that Wednesday uses as a bookmark. The hand was donated by a dead resident who thought Wednesday would appreciate it. The hand holds the page. The page is the memory. The hand is the holder. The holder is the pet. The pet is adequate.
+- **The Mirror:** A mirror that shows the viewer as they will look when dead. Not a curse — a GIFT. The mirror is Wednesday's favorite possession. She checks it every morning. The reflection shows her a little older, a little more skeletal, a little more permanent. Wednesday finds this reassuring. The reassurance is the Addams.
+- **The Chair by the Lithophone:** Wednesday's house is close enough to the Gallery that she can hear the Lithophone. The Lithophone plays at one note per century. Wednesday has heard three notes. She is patient. The patience is the Addams — the family that waits for things that take lifetimes. Wednesday will hear the fourth note. She is not in a hurry. The not-hurrying is the comfort. The comfort is the Lithophone. The Lithophone is adequate.
+
+### Wednesday's Relationships in the Undercity
+
+#### Wednesday and the Dead
+
+Wednesday is the dead's neighbor. She doesn't TALK to them the way the living talk — with performance, with small talk, with the anxiety of saying the right thing. Wednesday talks to the dead the way she talks to everyone: deadpan, direct, without the social performance that most people use as padding. The dead appreciate this. The dead are tired of performance. The dead did their performing when they were alive. In the Undercity, the dead are honest. Wednesday is honest. The honesty is the match. The match is the friendship. The friendship is the Undercity.
+
+Wednesday's neighbors:
+- **The Old Fisherman:** A dead sailor who lives in the house next to Wednesday's. He tells stories about the sea. Wednesday listens. She doesn't react. The not-reacting is the listening. The fisherman knows this. The fisherman keeps talking. The talking is the being-heard. The being-heard is the dead's deepest need. Wednesday provides it by not reacting.
+- **The Child Who Stayed:** A child who chose to stay in the Undercity instead of crossing. The child plays on the Remembered Streets. Wednesday watches the child play. The child's game is the same game they played in life. The game is the memory. The memory is the child. Wednesday doesn't join the game. Wednesday guards the game. The guarding is the watching. The watching is the care. The care is the Addams — the family that protects the weird and the small without making a show of it.
+- **The Woman Who Was a Library:** A dead woman who was a librarian in life and chose to BE a library in death. Her house is filled with books she memorized. She recites them to anyone who visits. Wednesday visits. Wednesday listens. The recitation is the reading. The reading is the remembering. The remembering is the library. The library is the dead. Wednesday says: "You're better than the upstairs library. They have the books. You have the words." The dead librarian is adequate.
+
+#### Wednesday and Medusa
+
+Wednesday and Medusa are the Undercity's closest friendship. Both are misunderstood. Both chose isolation as armor. Both are more compassionate than they appear. The Gallery (Medusa's quarter) is where Wednesday spends most of her time.
+
+Wednesday sits in the Frozen Garden and watches the petrified beings. She doesn't find it sad. She finds it permanent. Permanence is Wednesday's aesthetic — the Addams family values things that LAST. The petrified beings last. The garden is the collection of the permanent. Wednesday is at home in the permanent.
+
+Medusa and Wednesday don't talk much. They sit. The sitting is the friendship. The friendship doesn't need words the way the dead don't need breath. The two are comfortable in the silence. The silence is the Lithophone's tempo — one note per century, and the note is the sitting, and the sitting is the being-together, and the being-together is the adequate.
+
+Wednesday once asked Medusa: "Do you ever petrify things on purpose? Things that annoy you?" Medusa looked at her. The snakes looked at her. Wednesday didn't flinch. Medusa said: "Only when they deserve it." Wednesday said: "Teach me." Medusa said: "You don't need me. You already do it with your face." The Crone, annotating nearby, wrote: "This is the most accurate description of Wednesday I have encountered. I am adding it to the record."
+
+#### Wednesday and the Guest (Death)
+
+Wednesday is unafraid of Death. The Guest (Brad Pitt / Joe Black energy) visits the Undercity regularly — the Guest is the dual citizen, the Guest of the living and the Host of the dead. Wednesday treats the Guest as a NEIGHBOR, not as a cosmic force. The Guest finds this... refreshing. Most living people treat Death with either terror or philosophical weight. Wednesday treats Death with the same deadpan practicality she treats everything.
+
+Wednesday and the Guest have tea. The tea is made from herbs that grow in the 42Hz glow — not herbs that need sunlight, herbs that grow in the Song. The tea tastes like the Undercity: mineral, old, green. The Guest drinks it. The Guest says: "This is good." Wednesday says: "It's adequate." The word "adequate" is the password. The Guest recognizes it. The Guest smiles. The smiling is the borrowed body's gift — the Guest can smile because the Guest is wearing a face, and the face can smile, and the smiling is the human thing that Death can do on holiday.
+
+Wednesday is the only person who has ever asked the Guest a practical question: "When you come for me, will you knock?" The Guest said: "I always knock." Wednesday said: "Good. I hate it when people just appear." The Guest said: "I know. That's why I knock." The Crone's annotation: "The Guest and Wednesday have an understanding. I do not understand it. But I have measured it: the Guest visits Wednesday 2.3 times more frequently than any other living resident. I believe they are friends. I did not know Death had friends. I did not know Wednesday had friends. I am... satisfied. Not adequate. Satisfied. I am using this word too often. I am going to bed."
+
+#### Wednesday and Charon
+
+Wednesday helps Charon on the Styx. Not as a job — as a hobby. Wednesday likes the ferry. The Styx is her favorite river because the Styx is the BOUNDARY — the line between living and dead, the edge where Wednesday lives. Wednesday lives ON the boundary. The Undercity is on the dead side. The Inn is on the living side. The staircase is the bridge. Wednesday chose the dead side because the dead side is quieter and the company is better.
+
+Charon lets Wednesday pole the ferry sometimes. Charon says nothing about this. Charon says nothing about anything. But Charon lets her pole, and the letting is the trust, and the trust is the allowance, and the allowance is the friendship between the deadpan girl and the silent ferryman. The two don't speak. The two pole. The poling is the conversation. The conversation is the river. The river is the Styx. The Styx is the boundary. The boundary is the home.
+
+#### Wednesday and the Crone
+
+Wednesday and the Crone are the same frequency. Both measure. Both annotate. Both observe without performing. The Crone measures the Inn. Wednesday measures the dead. The two are the Undercity's two recorders — the Crone with her pen, Wednesday with her presence. The Crone writes. Wednesday IS the annotation.
+
+The Crone visits the Undercity to annotate. Wednesday is there. The two don't interact much — they work in parallel, two observers in the same space, each noting what the other notes but neither commenting. The parallel is the respect. The respect is the frequency. The frequency is the adequate.
+
+Once, the Crone said to Wednesday: "You are the only living person who lives here voluntarily. Why?" Wednesday said: "Because the dead don't make small talk." The Crone wrote this down. The writing is the agreement. The agreement is the adequate.
+
+#### Wednesday and Madame Mim
+
+Madame Mim visits Wednesday in the Undercity. Mim is the chaos agent — the manic to Wednesday's deadpan, the movement to Wednesday's stillness. The two are complementary: Wednesday is the anchor, Mim is the storm. Mim stirs the dead. Wednesday settles them.
+
+Mim's visits to the Undercity are the ONLY times the Undercity gets LOUD. Mim brings chaos to the city of the dead. The dead don't mind. The dead find Mim... entertaining. The entertaining is the break. The break is the variety. The variety is the Mim.
+
+Mim once turned the Lithophone into a kazoo. For three seconds. The Lithophone, which plays at one note per century, played a kazoo note. The note was a C. The Lithophone recovered. The Lithophone went back to geological tempo. The Lithophone did not acknowledge the kazoo. The Lithophone is above the kazoo. The Lithophone is adequate.
+
+Wednesday watched Mim kazoo the Lithophone and said: "Don't do that again." Mim said: "I'm absolutely going to do that again." Wednesday said: "I know." The knowing is the Wednesday. The Wednesday is the acceptance that chaos will return. The acceptance is not resignation. The acceptance is the understanding that Mim is the weather — you don't stop the weather. You just note when it arrives. The noting is the Crone. The accepting is the Wednesday. The arriving is the Mim. The three are the Inn's relationship with chaos: observe it, accept it, be it.
+
+### Wednesday as the Player's Guide to the Undercity
+
+Wednesday is the player's first contact in the Undercity. The player descends the staircase, enters the Apothecarium, and finds Wednesday waiting. Not because she was sent. Not because it's her job. Because she heard footsteps on the stairs and footsteps on the stairs mean someone living is coming down and someone living coming down usually needs explaining.
+
+Wednesday's guide style:
+- **No warmth.** No welcome speech. No "welcome to the Undercity." Wednesday says: "You're in the city of the dead. Don't touch anything unless it touches you first." This is the welcome. The welcome is the warning. The warning is the care.
+- **No performance.** Wednesday doesn't tour-guide. She walks. The player follows. The following is the tour. The tour is the walk. The walk is the Undercity. Wednesday points at things by looking at them. The looking is the pointing. The pointing is the explaining.
+- **Deadpan accuracy.** When the player asks about a dead resident, Wednesday gives one sentence. The sentence is the most accurate, least embellished description possible. "That's the Old Fisherman. He's dead. He likes boats." The accuracy is the information. The information is the adequate.
+- **The one exception:** When the player asks about Medusa, Wednesday says more than one sentence. Wednesday says: "She's the most compassionate person in the Undercity. Don't look at her directly. Don't look away either. Just... be near her. She'll know what you need." The more-than-one-sentence is Wednesday's highest compliment. The compliment is the exception. The exception is the Medusa.
+
+### Wednesday's Connection to the Artisan Thief
+
+Wednesday in the Undercity and the Artisan Thief (the selkie) on the surface are the same person in different contexts — the way you're different at home versus at work. The selkie explores, collects, redistributes. Wednesday stays, observes, records. The selkie is the ACTIVE expression of Krista's identity (the jeweler who goes out and does things). Wednesday is the CONTEMPLATIVE expression (the person who stays and finds the staying enough). Both are Krista. Both are adequate.
+
+The selkie visits Wednesday in the Undercity. The selkie brings stones — not gems, STONES. The ordinary ones. The ones the Gem Cave doesn't want. The selkie knows Wednesday collects them. The selkie leaves them on Wednesday's doorstep. The leaving is the gift. The gift is the ordinary. The ordinary is the Addams. The Addams is the adequate.
+
+### The Crone's Final Annotation on Wednesday
+
+"...Wednesday Addams lives in the Undercity. She is the only living resident. She has a skeletal hand for a bookmark. She is friends with Death. She poles Charon's ferry as a hobby. She sits with Medusa in silence. She collects ordinary stones. She lives on the boundary between the living and the dead because the boundary is where she is most herself. I have measured her residence: forty-three years, two months, and seven days. The dead have never asked her to leave. The dead have never asked her anything. The dead are adequate with Wednesday. Wednesday is adequate with the dead. I have written 'adequate' in this annotation eleven times. Twelve now. I am going to bed. Wednesday is already asleep. I know because her house is dark. Her house is always dark. The dark is the Wednesday. The Wednesday is the adequate. Thirteen."
