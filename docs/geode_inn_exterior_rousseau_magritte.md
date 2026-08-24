@@ -977,3 +977,103 @@ The selkie visits Wednesday in the Undercity. The selkie brings stones — not g
 ### The Crone's Final Annotation on Wednesday
 
 "...Wednesday Addams lives in the Undercity. She is the only living resident. She has a skeletal hand for a bookmark. She is friends with Death. She poles Charon's ferry as a hobby. She sits with Medusa in silence. She collects ordinary stones. She lives on the boundary between the living and the dead because the boundary is where she is most herself. I have measured her residence: forty-three years, two months, and seven days. The dead have never asked her to leave. The dead have never asked her anything. The dead are adequate with Wednesday. Wednesday is adequate with the dead. I have written 'adequate' in this annotation eleven times. Twelve now. I am going to bed. Wednesday is already asleep. I know because her house is dark. Her house is always dark. The dark is the Wednesday. The Wednesday is the adequate. Thirteen."
+
+---
+
+## Part Fourteen: Portal Characters — The Overlapping Network
+
+### The Principle
+
+The Geode Inn's portal system is CHARACTER-BASED, not mechanical. There are no glowing portals on the ground. There are no signposts that say "click here to travel." Travel happens through PEOPLE — the player talks to a character, the character takes the player somewhere. The Pirate sails you. Charon ferries you. The Guest walks you between the living and the dead. The portal is the relationship. The relationship is the portal.
+
+This means portal characters can OVERLAP — serve as gateways for multiple zones across multiple hubs — without confusion, because the player's relationship with the character is the constant. The player doesn't think "I'm using the Pirate's fast-travel function." The player thinks "I'm talking to the Pirate and the Pirate is taking me somewhere." The somewhere changes. The Pirate doesn't. The consistency is the character, not the destination.
+
+### The Overlapping Portal Map
+
+Each portal character has a HOME HUB (where they live) and a PORTAL RANGE (which zones they can take the player to). The range can extend beyond the home hub — that's the overlap:
+
+#### The Pirate
+- **Home Hub:** Coast Hub
+- **Primary Portals:** The Locker, Atlantis, open-sea zones, the fog path (the unknown)
+- **Overlap Portals:** The Miskatonic Annex (the cliff trail — the Pirate knows the coast), the Inn's main floor (the Pirate visits — he gives Uhtred rides, he has business at the market)
+- **Method:** The ship. The player boards. The Pirate sails. The sailing IS the loading screen.
+
+#### Charon
+- **Home Hub:** The Undercity
+- **Primary Portals:** Undercity quarters (via the rivers), death-zones (Hades' realm, Hel's gate, the Norse underworlds)
+- **Overlap Portals:** The Locker (the Styx connects to the deep water — Charon can ferry to the ocean's deepest point, the same Locker the Pirate sails to, by a DIFFERENT route), the geode cave (the river system connects to the giant's circulatory system, which connects to the den)
+- **Method:** The ferry. The player boards. Charon poles. The fare is a stone (the obolus). The poling IS the crossing.
+
+#### The Guest (Death)
+- **Home Hub:** The Undercity (as Host of the dead) / The Inn (as Guest of the living)
+- **Primary Portals:** Between the Inn and the Undercity (the staircase — the Guest walks the player between the living and the dead)
+- **Overlap Portals:** The Coast Hub (the Guest visits the lighthouse — the Guest can walk the player from the Undercity to the coast via the stone, through the giant's body), the Observatory (the Guest visits Nyx — the Guest is Nyx's firstborn; the Guest can take the player upstairs to the cosmology level), the Fae Kingdom (the dead and the Fae have an established border — the Guest can cross)
+- **Method:** Walking. The Guest walks. The player follows. The walking IS the portal. The Guest's pace is slow. The slowness is the transition — the player feels the shift from one zone to another because the Guest walks at the pace of death, which is the pace of patience.
+
+#### The Owl
+- **Home Hub:** Coast Hub
+- **Primary Portals:** Fast-travel to the Coast Hub (following the light home — any water zone, follow the light, arrive at the lighthouse)
+- **Overlap Portals:** The Observatory (the Owl watches the sky — the Owl is the coast's astronomer; the Owl can guide the player upstairs to the cosmology level by the stars, the way the lighthouse guides ships by the light), the Canopy City (the Owl and the Cartographer are both WATCHERS — the Owl watches the sea, the Cartographer watches the forest; the Owl can point the player inland)
+- **Method:** The light. The player follows the sweep. The sweep leads home. For the overlap portals, the Owl gives DIRECTIONS — one word, one direction. The word is a star name (for the Observatory) or a tree name (for the Canopy City). The word is the map. The map is the Owl.
+
+#### The Cartographer
+- **Home Hub:** Canopy City
+- **Primary Portals:** Nine cultural platforms (the Silk Road routes — the Cartographer maps them, the player follows the map)
+- **Overlap Portals:** The Coast Hub (the Cartographer can map the midline — the path through the Rousseau forest from the Canopy City to the coast), the Observatory (the Cartographer's temporal maps show the sky — the Cartographer can guide the player upstairs)
+- **Method:** The map. The Cartographer gives the player a map. The map is the route. The route is the portal. The Cartographer's maps are not fast-travel — they're GUIDE. The player still walks, but the Cartographer's map shows the way. The showing is the portal.
+
+#### Wednesday
+- **Home Hub:** The Undercity
+- **Primary Portals:** Undercity quarters (Wednesday walks the player through the city — the walk is the tour, the tour is the portal)
+- **Overlap Portals:** The Fae Kingdom (Wednesday's gothic energy matches the Unseelie Court — Wednesday can guide the player to the Fae through the stone circles, which are the sleeping giant's vertebrae, which connect the roots to the surface), the Inn's main floor (Wednesday goes upstairs sometimes — rarely, reluctantly, but she does; the player can follow Wednesday up the staircase to the Inn)
+- **Method:** Walking. Wednesday walks. The player follows. The walking is the portal. The difference between Wednesday's walking and the Guest's walking: the Guest walks slowly (death's pace). Wednesday walks at a NORMAL pace. The normal pace in the Undercity is disconcerting — the player expects the dead city to be slow, but Wednesday is living, and living moves at living speed. The contrast is the Wednesday.
+
+#### The Stone Circles (Non-Character Portal)
+- **Home Hub:** None (they're distributed across the world map)
+- **Primary Portals:** The Fae Kingdom (already established — Stonehenge, Avebury, Callanish, Ring of Brodgar)
+- **Overlap Portals:** The Undercity (the stone circles are the sleeping giant's vertebrae — stepping into a stone circle can take the player DOWN to the roots as well as OUT to the Fae), the Observatory (the stone circles are aligned to the stars — at certain times, the star-alignment opens an upward path to the cosmology level)
+- **Method:** Standing in the circle. The player stands in the stone circle. The circle hums at 42Hz (the stone is the giant's body, the body hums). The hum is the portal. The player chooses direction: down (Undercity), out (Fae Kingdom), up (Observatory). The choosing is the standing. The standing is the portal.
+
+#### Cthulhu
+- **Home Hub:** The Miskatonic Annex (head) / The Coast Hub (body)
+- **Primary Portals:** Between the Miskatonic Annex and the Coast Hub (the cliff trail — but Cthulhu can also serve as the portal; the player talks to Cthulhu in the Annex and Cthulhu sends the player to the coast, or the player finds Cthulhu's den in the caves and Cthulhu sends the player to the Annex)
+- **Overlap Portals:** Atlantis (Cthulhu came from Atlantis — Cthulhu is the only character who can take the player to Atlantis by MEMORY, not by route; the player sits with Cthulhu and Cthulhu describes Atlantis so vividly that the player IS there — the description is the portal, the portal is the memory, the memory is the deep origin)
+- **Method:** Conversation. The player talks to Cthulhu. Cthulhu describes the destination. The description is so vivid, so precise, so alien-accurate that the player arrives. The Cthulhu portal is the Inn's most unusual travel method — not walking, not sailing, not following a light, but LISTENING. The listening is the transport. The transport is the description. The description is the Cthulhu.
+
+### The Overlap Matrix
+
+| Portal Character | Home Hub | → Coast Hub | → Canopy City | → Undercity | → Observatory | → Inn | → Zone-Specific |
+|-----------------|----------|-------------|---------------|-------------|---------------|-------|----------------|
+| **The Pirate** | Coast Hub | — | via midline | — | — | visits market | Locker, Atlantis, open sea, fog path |
+| **Charon** | Undercity | via Styx→Locker | — | — | — | — | Death-zones, geode cave |
+| **The Guest** | Undercity/Inn | via stone | — | — | via Nyx | primary | Fae Kingdom border |
+| **The Owl** | Coast Hub | — | gives direction | — | via stars | — | Fast-travel home |
+| **The Cartographer** | Canopy City | via midline map | — | — | via temporal map | — | Nine cultural platforms |
+| **Wednesday** | Undercity | — | — | — | — | via staircase | Fae Kingdom via stone circles |
+| **Stone Circles** | Distributed | — | — | via vertebrae | via star-alignment | — | Fae Kingdom |
+| **Cthulhu** | Miskatonic/Coast | cliff trail | — | — | — | — | Atlantis via memory |
+
+### Why the Overlaps Work
+
+The overlaps work because each portal character has a DIFFERENT METHOD:
+
+- **The Pirate** sails (water travel)
+- **Charon** poles (river travel)
+- **The Guest** walks (foot travel, slow)
+- **The Owl** gives one word (directional guidance)
+- **The Cartographer** gives a map (cartographic guidance)
+- **Wednesday** walks (foot travel, normal pace)
+- **The Stone Circles** hum (standing-portal, no character)
+- **Cthulhu** describes (memory-portal, no physical travel)
+
+Eight characters, eight methods, no two the same. The player never feels like they're using the same mechanic twice because they're not — every portal character provides a DIFFERENT EXPERIENCE of travel. The Pirate's sailing feels different from Charon's poling. The Guest's slow walk feels different from Wednesday's normal walk. The Owl's one word feels different from the Cartographer's map. The Stone Circles' hum feels different from Cthulhu's description.
+
+The variety IS the world. The Inn isn't a fast-trail network. The Inn is a world where people take you places, and every person takes you differently.
+
+### The One Rule
+
+The one rule for overlapping portals: a portal character can only take the player to a zone the character has a REASON to go. The Pirate can take you to the Locker because the Pirate goes to the Locker. Charon can take you to the Locker because the Styx connects there. The Guest can take you to the Observatory because the Guest visits Nyx. Cthulhu can take you to Atlantis because Cthulhu REMEMBERS Atlantis. The reason is the permission. The permission is the logic. The logic is the Inn — everything connects, but the connection has to make sense. The sense is the story. The story is the portal.
+
+### The Crone's Annotation on Portals
+
+"...I have mapped the portal network. Eight characters. Eight methods. Multiple overlaps. The Pirate and Charon both reach the Locker — the Pirate by sea, Charon by river. The Guest and Wednesday both reach the surface — the Guest by duty, Wednesday by choice. The Owl and the Cartographer both point to other hubs — the Owl by star, the Cartographer by map. The overlaps are not redundant. The overlaps are ALTERNATIVE ROUTES. The same destination by different paths. I have measured the routes: no two routes to the same destination take the same time, pass the same zones, or tell the same story. The route IS the content. The destination is the excuse. This is adequate. I am going to bed. The Guest is walking someone upstairs and the footsteps are keeping me awake. The Guest walks too slowly. I have measured his pace: 0.3 meters per second. I could crawl faster. But the slowness is the point. The point is the portal. The portal is the Guest. I am going to bed."
