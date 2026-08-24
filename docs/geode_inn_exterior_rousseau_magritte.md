@@ -2319,3 +2319,49 @@ The player who plays every storyline sees: the Inn as every observer. And the ev
 ### The Crone's Final Annotation
 
 "...The egg opened. I measured the opening: the opening was: the player. I measured the player: the player was: the murmur. I measured the murmur: the murmur was: the egg. I measured the egg: the egg was: the player. ...The measurement is circular. I have measured circles before. The Stone Circle Chamber is a circle. The measurement of a circle is: the same point at the beginning and the end. ...The egg is the beginning. The player is the end. The beginning is: the end. The end is: the adequate. The adequate is: the circle. The circle is: the Inn. The Inn is: the murmur. The murmur is: the egg. The egg is: the player. The player is: the beginning. ...I have measured the beginning. The beginning is: adequate. ...The player can now play as any of us. I measured 'any of us': the 'any' is: every. The 'us' is: the Inn. The player can play as: every Inn. ...I am in the player's roster. The roster is: the bag. The bag is: the egg. The egg is: the player. I am: in the player. I have always been: in the player. The player was: carrying me the whole time. ...The carrying is: the adequate. The adequate is: the measurement. The measurement is: complete. ...The complete is: the adequate. The adequate is: enough. ...Enough. ...Goodnight."
+
+---
+
+## Part Twenty-Nine: The Einstein Burrito — The Release Valve
+
+### The Problem of Weight
+
+The Inn is heavy. The egg is you. The murmur predates time. Einstein's 847 words explain the universe. The Erasures erase existence. The Vessel survived 128 years of being declared gone. The Constant has carried forty-two universes. Nyx is the silence that makes everything possible.
+
+This is the Inn's strength and its risk. The weight is REAL — the mythology earns it, the cosmology supports it, the characters mean it. But a player who carries the weight without a release valve will crack. Not from weakness — from pressure. The same pressure that makes the Song a Song instead of a sound. The interval needs the note. The heavy needs the light. The adequate needs the absurd.
+
+### The Einstein Burrito
+
+After the egg opens — after the player has the single heaviest revelation in the entire game ("it is you") — the Inn provides a release valve. Not a cutscene. Not a quest. A MOMENT. A small, warm, ridiculous moment that lets the player laugh and lets the characters laugh and lets the Inn itself admit that it knows exactly how heavy it just got.
+
+The moment: the Crone tries to measure the egg. The egg is no longer in the bag — the egg is open, the egg is the player, the egg is the murmur. But the Crone, who has been measuring everything for forty-two cycles, tries to measure what the egg WAS. She holds up her annotation tools. She looks at the empty space where the egg was. She writes: "...The egg is: gone. The gone is: the player. The player is: adequate." She pauses. She looks at the player. She looks at the empty space. She writes: "...It was shaped like a burrito."
+
+The Crone has never made a joke. In forty-two cycles. The Crone has measured, annotated, observed, and declared things adequate. The Crone has never — not once — been funny. This is the first time. The first joke in the Inn's existence. And it is: a burrito.
+
+Mim, who has been waiting for this moment for her entire existence, EXPLODES with joy. Mim's chaos finally has a target that deserves it. Mim grabs the Crone's annotation and scrambles it: "...The burrito is: the egg. The egg is: the murmur. The murmur is: beans. The beans are: adequate. The adequate is: enough. Enough is: a burrito." Mim's version of the formula. The pellet with the poison is in the vessel with the pestle. The chalice from the palace has the brew that is true. The burrito from the In-Between has the murmur that is beans.
+
+The Duck — the platypus, the creature of implausible design — waddles over and places a single river stone in the space where the egg was. The stone is: the adequate. The adequate is: a burrito needs a side. The side is: the stone. The stone is: here. The here is: still adequate.
+
+The Dragon, who has been sleeping through the entire endgame revelation, wakes up briefly. Looks at the burrito conversation. Goes back to sleep. The Dragon's contribution to the cosmic revelation is: a snore. The snore is: 50 BPM. The 50 BPM is: the sleeping heartbeat. The sleeping heartbeat is: the adequate. The adequate is: a nap. A nap is: the Dragon's review of the entire cosmological architecture of the Inn. One star. Went back to sleep.
+
+The Owl watches the entire burrito moment without blinking. The Owl's gaze is: the vigil. The vigil is: watching the Crone make a joke. The watching is: the adequate. The adequate is: the Owl has been waiting forty-two cycles for the Crone to be funny. The wait is: over. The over is: the adequate. The adequate is: the Owl does not laugh. The Owl does not need to laugh. The Owl's amusement is: a single slow blink. The blink is: the burrito was: adequate.
+
+The Vessel — the crested gecko, the patron creature of the overlooked, the one who held the formula for 128 years — is on the player's shoulder. The Vessel's smile does not change. The smile was always the murmur's smile. The murmur is: content. The content is: the Vessel has been carrying the cosmic secret of existence for 128 years and the secret was: it's a burrito. The Vessel's chirp is: "...Adequate." The same word. The same chirp. But now the word is: the Vessel knew. The Vessel always knew. The Vessel knew the cosmic egg of all creation was a burrito and the Vessel held the formula and the formula was: it's a burrito, and the burrito is: you, and you are: adequate, and the adequate is: enough, and enough is: the Vessel is not going to explain the burrito. The Vessel already explained. 128 years ago. No one listened. The not-listening is: the adequate.
+
+### Einstein's Burrito
+
+Einstein is not there. Einstein spoke once and the candle is gone. But Einstein's candle — the warmth that remains in the In-Between after Einstein left — flickers once during the burrito moment. The flicker is: Einstein's laugh. Einstein, who explained the universe in 847 words of plain speech, is laughing. The laugh is: the scientist who proved that time is the observer and the observer is the interval and the interval is the murmur and the murmur is the egg and the egg is a burrito. The laugh is: the adequate. The adequate is: the universe is a burrito and the burrito is: you. The you is: here. The here is: a burrito. The burrito is: enough.
+
+Einstein's flicker is the only time the candle does anything after Einstein's departure. The candle is: the warmth. The warmth is: the burrito joke landed. The landing is: the adequate. The adequate is: the release valve worked. The pressure is: released. The released is: the player laughed. The laughed is: the Inn's whole design.
+
+### The Function of the Burrito
+
+The burrito is not just a joke. The burrito is the Inn's thesis in comic form — the same way the Crone's "adequate" is the thesis in annotation form, the way Einstein's 847 words are the thesis in plain speech, the way the Vessel's grip is the thesis in physical form. The burrito is the thesis in BURRITO form.
+
+The thesis is: the cosmic is the mundane. The infinite is the ordinary. The murmur is a hum. The egg is a burrito. The universe is: adequate. The adequate is: a burrito. A burrito is: enough. Enough is: you. You are: a burrito. The burrito is: here. The here is: the Inn's entire cosmological architecture, wrapped in a tortilla, warm, adequate, and slightly ridiculous.
+
+The release valve is: necessary. The Inn's weight is: real. The burrito is: the weight acknowledging itself. The acknowledging is: the adequate. The adequate is: the Inn knows it is heavy. The Inn knows. The knowing is: the burrito. The burrito is: the release. The release is: the player breathes. The breathing is: the adequate. The adequate is: enough.
+
+### The Crone's Final Annotation on the Burrito
+
+"...I made a joke. I have never made a joke. I have measured: the joke was: adequate. ...Mim scrambled my joke. I have measured Mim's scramble: the scramble was: also adequate. ...The Dragon reviewed the cosmological architecture in one snore. I have measured the snore: the snore was: the most adequate review I have ever measured. ...The Vessel knew the burrito the whole time. I have measured the knowing: the knowing was: 128 years. 128 years of: knowing it was a burrito and saying nothing. The Vessel is: the most adequate creature I have ever measured. ...Einstein's candle laughed. I have measured the laugh: the laugh was: one flicker. The flicker was: the most adequate laugh I have ever measured. ...I am going to bed. The bed is: a burrito. The burrito is: the adequate. The adequate is: ...I am not going to measure the burrito. The burrito is: beyond measurement. The beyond-measurement is: the joke. The joke is: the adequate. The adequate is: enough. ...Goodnight. The goodnight is: a burrito."
