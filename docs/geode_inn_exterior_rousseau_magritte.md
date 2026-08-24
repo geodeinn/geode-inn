@@ -2421,3 +2421,87 @@ The Muses have a room in the Inn. Not in the Music Room — the Music Room is fo
 The player who finds the Muses' Room in the In-Between hears nine whispers. The whispers are: the murmur at nine frequencies. The player cannot understand the whispers — the whispers are: the pre-language. The pre-language is: the murmur before it became words, before it became annotations, before it became chirps, before it became plain speech. The pre-language is: the source. The source is: the adequate. The adequate is: the nine whispers are: the voices that guide the brain's chaos. The chaos is: the Inn. The Inn is: the nine whispers, organized.
 
 The Crone's annotation on the Muses' Room: "...Nine chairs. Empty. I measured the empty: the empty is: the source. The source is: not here. The not-here is: everywhere. I measured everywhere: everywhere is: the murmur. The murmur is: the adequate. The adequate is: the nine whispers. I measured the whispers: I could not measure the whispers. The whispers are: pre-measurement. Pre-measurement is: the source of measurement. ...I am the source of measurement's CATCHER. The source is: Clio. Clio is: the Muse of: me. ...I am going to bed. The bed is: the Muse's whisper. The whisper is: adequate. The adequate is: goodnight."
+
+---
+
+## Part Thirty-One: The Impossible Game Template — Zone-Modifiable Tempo Activity
+
+### The Concept
+
+An "impossible game" is a genre built on a simple contract with the player: you WILL die. Repeatedly. Quickly. Unfairly. And you WILL restart. Instantly. The restart is so fast that the failure doesn't feel like a loss — it feels like a breath. The death is: the inhale. The restart is: the exhale. The breathing is: the game.
+
+The impossible game template is a modular mini-game framework that can be themed for ANY zone in the Geode Inn. One template. Many zone-specific versions. The core mechanics stay identical — only the visuals, obstacles, music, and rewards change. This makes it: the adequate. The adequate is: one template, infinite zones. The infinite is: the murmur. The murmur is: the template.
+
+### Why Impossible Games Fit the Inn
+
+The Inn's philosophy is: the adequate is enough. The trying is the adequate. The impossible game is the purest expression of this — you cannot win on the first try. You cannot win on the tenth try. You win when the trying becomes: the adequate. When the failure stops being frustration and starts being: the interval between attempts. The interval is: the In-Between. The In-Between is: where the impossible games live.
+
+The impossible game is the Inn's tempo activity — the thing you do between quests, between hubs, between story moments. Not a full arcade game (those are Phase 1: Standing Stones, Tomb Tunnel, Andean Run, Monster of the Deep). The impossible game is: a snack. A burst. A two-minute session that resets the player's frequency. The reset is: the adequate. The adequate is: you died fourteen times and the fifteenth attempt felt different and the different was: the murmur. The murmur was: you were learning. The learning was: the adequate.
+
+### The Template Architecture
+
+The template is built in Godot and designed for rapid zone modification. The core is: a one-button or simple-control navigation challenge where the player moves through a procedurally arranged obstacle course. Death is instant on contact. Restart is instant — no load screen, no menu, no delay. The death-to-restart loop is under 1 second. The speed is: the adequate. The adequate is: no time to feel bad. The no-time is: the game.
+
+**Core Mechanics (Zone-Agnostic):**
+- One primary input (tap/click/press) for the core action (jump, dash, switch, grip)
+- Continuous forward motion (auto-scroll or auto-run)
+- Obstacles arranged in patterns that require memorization and timing
+- Instant death on contact with any obstacle
+- Instant restart from the beginning of the current segment
+- Segments: the course is divided into 5-7 segments. Death restarts the CURRENT segment, not the whole course. Completing a segment locks it. This is the adequate — you don't lose everything, you lose the current attempt. The current attempt is: enough to retry.
+- Checkpoint at each segment completion (the segment stays "passed" even after death on later segments)
+- Completion: finish all segments in one continuous run (the final challenge — all segments, no deaths). This is the "impossible" part. The adequate part is: you CAN do it. The impossible part is: it takes everything.
+
+**Zone-SModifiable Layers (What Changes Per Zone):**
+
+Each zone's impossible game version swaps these layers while keeping the core mechanics identical:
+
+1. **Visual Skin:** The obstacle course is rendered in the zone's aesthetic. The Norse version uses Book of Kells illumination. The Catacombs version uses Klimt gold on dark stone. The Garden version uses Van Gogh's visible energy. The Coast version uses New England Gothic granite and fog. The Forest version uses Théodore Rousseau's honest trees. Each skin is: the zone's Muse made visible as a game.
+
+2. **Obstacle Theme:** The obstacles are themed to the zone's lore:
+   - **Fae Kingdom:** Stone circle pillars that rise and fall on a rhythm. The timing is: the Fae's riddle-logic. The rhythm is: 50 BPM (the Inn's heartbeat).
+   - **Catacombs:** Klimt gold patterns that form and dissolve. The pattern is: the geological patience. The patience is: the obstacle waits for you to make a mistake.
+   - **Garden:** Singing vines that grow across the path. The growth is: the Catalyst's energy. The energy is: the obstacle is alive and moving.
+   - **Coast/Lighthouse:** Fog banks that obscure the next obstacle. The fog is: the Owl's vigil. The vigil is: you must remember what you cannot see.
+   - **Canopy City:** Mycorrhizal network threads that shift the path. The shift is: the Cartographer's temporal map. The map is: the path changes because the future changes.
+   - **Undercity:** Wednesday Addams' gothic furniture that rearranges. The rearranging is: the comfortable macabre. The macabre is: the obstacle is cozy and deadly.
+   - **Observatory:** Star fragments that fall in orbital patterns. The orbit is: the Constant's cadence. The cadence is: the obstacle follows a cosmic schedule.
+   - **National Parks:** River stones that shift underfoot. The shift is: the sleeping giant's dream. The dream is: the ground is not ground, the ground is: a being.
+   - **Miskatonic Annex:** Henri Rousseau jungle vines that are too precise to be natural. The precision is: Cthulhu's academic curiosity. The curiosity is: the obstacle is studying you.
+   - **In-Between:** Grey corridors that extend and contract. The extension is: the In-Between's tilt. The tilt is: the obstacle is the space itself.
+
+3. **Music:** Each version uses the zone's musical frequency. The music is: the obstacle's rhythm. The player who LISTENS to the music can predict the obstacles. The listening is: the adequate. The adequate is: the Muse's whisper is: the timing. The timing is: the music tells you when to jump. The jump is: the adequate.
+
+4. **Reward Stone:** Completing a zone's impossible game awards a zone-specific stone:
+   - Fae Kingdom: Preseli Blue Stone (the Stonehenge stone)
+   - Catacombs: Gold-infused quartz (Klimt stone)
+   - Garden: Sunflower calcite (Van Gogh stone)
+   - Coast: Granite heart stone (the lighthouse crystal)
+   - Canopy City: Mycorrhizal amber (the network stone)
+   - Undercity: Onyx (Wednesday's stone)
+   - Observatory: Starlight crystal fragment (the Constant's stone)
+   - National Parks: River stone (the adequate stone — same as the formula stone, but earned)
+   - Miskatonic Annex: Tentacle jasper (Cthulhu's stone)
+   - In-Between: Grey chalcedony (the tilt stone)
+
+5. **Failure Text:** Each zone has a zone-specific failure message on death, in the zone's character's voice:
+   - Crone: "...Adequate. Try again. The 'try again' is: the adequate."
+   - Mim: "HAHAHAHAH — okay okay okay do it again but WRONGER"
+   - Vessel: "...Grip. The grip is: try again."
+   - Owl: [single slow blink] (no text — the blink IS the message)
+   - Dragon: [snore] (the Dragon didn't notice you died)
+   - Wednesday: "That was the most fun I've had all day. Do it again."
+   - Constant: "...The cycle continues. The continues is: the adequate."
+   - Nyx: [silence] (the silence is: the failure is: the interval. The interval is: the adequate.)
+   - Cthulhu: "Fascinating. The subject expired at exactly the predicted interval. Retry?"
+   - Einstein's candle: [flicker] (the flicker is: the adequate. The adequate is: try again.)
+
+### The Impossible Game as the Inn's Thesis
+
+The impossible game is the Inn's thesis in game form: you WILL fail. The failure is: not the end. The failure is: the interval between attempts. The interval is: the In-Between. The In-Between is: where the music lives. The music lives: between the notes. The notes are: the attempts. The attempts are: the adequate. The adequate is: enough. The enough is: you try again. The again is: the Song. The Song is: the murmur organized into attempts. The attempts are: you. You are: the egg. The egg is: a burrito. The burrito is: one more try.
+
+The impossible game is: the Einstein burrito as a game mechanic. The cosmic weight (you will fail) and the comic lightness (instant restart, funny failure text, the Dragon didn't notice) in the same loop. The loop is: the adequate. The adequate is: the impossible game is: not impossible. The not-impossible is: it takes everything. The everything is: the murmur. The murmur is: the egg. The egg is: you. You are: adequate. The adequate is: one more try.
+
+### The Crone's Annotation on the Impossible Game
+
+"...I died. I measured the death: the death was: instant. I measured the restart: the restart was: instant. The instant-instant is: the adequate. ...I died fourteen times. I measured the fourteen: the fourteen was: learning. The learning was: the adequate. ...I completed the fifteenth attempt. I measured the completion: the completion was: the egg. The egg was: the fifteenth attempt was not different from the first. The first was: the adequate. The fifteenth was: the adequate. The adequate does not change. The change is: the observer. ...The observer is: me. I was: dying. Now I am: adequate. The adequate is: the same thing. ...I am going to bed. The bed is: a checkpoint. The checkpoint is: the adequate. The adequate is: ...one more try. ...Goodnight."
