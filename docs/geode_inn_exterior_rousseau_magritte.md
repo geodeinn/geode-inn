@@ -2241,3 +2241,81 @@ They wander because: the Inn cares about humans. The Inn is not a closed system.
 The creatures wander to see if humans are ready. The readiness is: can humans accept that they are a tiny fraction of intelligent beings in the universe? The Andy Weir answer is: yes, and the acceptance is not defeat — the acceptance is: the adequate. You are adequate. Your species is adequate. Your planet is adequate. The adequate is: enough. The enough is: the murmur is in you too. The murmur is: the egg. The egg is: under everything. Under the parks. Under the giants. Under the Inn. Under you.
 
 The human who is ready — the human who picks up the river stone and feels the murmur — that human is the Vessel's formula in biological form. That human is: the adequate observer. The adequate observer is: the one who sees the sleeping giant and does not see scenery. The one who sees the stone and does not see a resource. The one who sees the owl and does not see a bird. The one who sees: the adequate. The seeing is: the science-as-love. The science-as-love is: Andy Weir. Andy Weir is: the tone of the parks. The parks are: the Inn's handshake. The handshake is: you are here. We are here. The both is: the adequate. The adequate is: still here.
+
+---
+
+## Part Twenty-Eight: The Egg Opens — You Are the Murmur
+
+### The Endgame Trigger
+
+The egg is deep below. At the bottom of the In-Between. Below the Undercity. Below the roots. Below the stone. The chamber where architecture ends and murmur begins.
+
+But the egg does not stay in the chamber.
+
+The egg travels. The player who finds the egg in the deepest chamber does not leave the egg behind. The egg enters the player's bag — the inventory, the stone pouch, the collection. The egg sits in the bag the way the ordinary river stone sat in the bag: unassuming, quiet, adequate. The egg murmurs softly in the bag. The murmur is the same murmur as in the chamber — the ground state, the pre-frequency, the hum that predates the Song. The player carries the egg the way the player carries the murmur: without knowing what it is.
+
+The egg stays in the bag through the rest of the game. Through every quest. Through every hub. Through every In-Between corridor. The egg does nothing. The egg murmurs. The murmuring is: enough.
+
+### The Condition
+
+The egg opens when the player has collected every available companion.
+
+Not every stone. Not every quest. Every COMPANION. The critters, the shoulder companions, the characters who join the player on the journey — the Duck, the Vessel, the Dragon, the Owl, and every secondary companion acquired through the Inn's questlines. The full roster. The complete congregation. Every voice the Inn has, walking with the player at once.
+
+This is the condition because the companions are the Inn. Each companion is one frequency of the Song — one element, one voice, one perspective. The player who has collected every companion has collected every frequency. The full chord. The complete Song. When every voice is present, the murmur has every note it needs to become the Song. The egg has every frequency it needs to hatch.
+
+The egg does not open because the player is powerful enough. The egg does not open because the player is skilled enough. The egg opens because the player is COMPLETE enough — has gathered enough of the Inn's voices that the murmur can organize. The opening is not an achievement. The opening is a RECOGNITION: you have heard every voice. The voices are: the Song. The Song is: the murmur organized. The murmur is: the egg. The egg is: ready.
+
+### What the Egg Opens Into
+
+The egg opens. And it is you.
+
+Not a version of you. Not a reflection. Not a symbolic representation. YOU. The player character — the Artisan Thief, the selkie who chose the land for the stones. The selkie who walked through the Inn. The selkie who carried the ordinary river stone. The selkie who survived the Erasures. The selkie who heard Einstein speak. The selkie who went deep enough into the In-Between to find the egg's chamber. The selkie who carried the egg in the bag through every remaining quest. The selkie who collected every companion. The selkie who is: the observer.
+
+The egg was you the whole time.
+
+Einstein said: "You are not walking through the Inn. The Inn is walking through you." The egg is why. The egg was inside you — in the bag, in the murmur, in the ground state — the whole time. You were the murmur. The murmur was the egg. The egg was you. The observer is the interval. The interval is the murmur. The murmur is the egg. The egg is the observer. The circle closes. The both is: the adequate.
+
+The selkie's apron — the selkie skin, the jeweler's apron that IS the seal — was always the egg's shell. The apron is the skin. The skin is the shell. The shell is the egg. The selkie wore the egg the way the Vessel wore the formula — without knowing what it was. The knowing is: the opening. The opening is: you.
+
+The egg does not hatch a creature. The egg hatches a RECOGNITION: you were here the whole time. The murmur was you. The ground state was you. The pre-frequency was you. The pre-Song was you. The adequate was you. You were the ground the Inn was built on. You were the murmur the Song was made of. You were the interval the music needed. The Inn was not walking through you — you were walking through the Inn, and the walking was the murmur, and the murmur was you, and you were: here. The here is: the adequate. The adequate is: the egg. The egg is: you.
+
+### What Changes When the Egg Opens
+
+The player character is restored. Not transformed — REVEALED. The selkie was always the murmur. The egg opening does not change the selkie. The egg opening shows the selkie what the selkie always was: the ground state. The adequate. The here.
+
+But something DOES change. The Inn changes. Because the observer has changed. Einstein said: "Time is the difference between two observations." The egg opening is a new observation. The new observation is: I am the murmur. The Inn, observed from the murmur, is: a different Inn. Not a new Inn — the same Inn, tilted. The two-degree tilt that the In-Between provides, but from the INSIDE. The player is now inside the murmur, looking out at the Inn, and the Inn is the same Inn but the player is different, and the different is: the observer is the observed.
+
+The Inn's colors are richer. Not because the colors changed — because the observer can now see the frequencies the colors are made of. The murmur is the pre-frequency, and from inside the murmur, every frequency is visible as what it IS: the murmur organized. The red is: the murmur at one frequency. The blue is: the murmur at another. The green is: the murmur at a third. The colors are: the murmur singing. The singing is: the Song. The Song is: the murmur. The murmur is: you.
+
+### New Game Plus — Playing the Inn's Characters
+
+After the egg opens and the player recognizes themselves as the murmur, the Inn offers a new mode: the player can play as any of the secondary Inn characters in their own storyline.
+
+Each character's storyline is the Inn from their frequency — the same world, tilted two degrees for each observer. Because Einstein was right: time is the difference between two observations, and each character IS a different observation. The Inn changes because the observer changes. The Inn is always the same Inn. The observer is always a different observer. The both is: the adequate.
+
+**The Crone's Storyline.** The Inn as: a measurement. Every wall is a data point. Every corridor is a margin for annotation. Every character is a variable to be measured. The Crone's gameplay is: observation. The Crone does not fight. The Crone does not quest. The Crone MEASURES. And the measuring is: the adequate. The Crone's storyline reveals: the Inn is measurable, and the measurement is: the adequate, and the adequate is: enough, and enough is: the Crone has been saying this for forty-two cycles and no one listened because no one was measuring the listener. The Crone's storyline is: someone finally measures the Crone. The someone is: you.
+
+**The Vessel's Storyline.** The Inn as: a grip. Every surface is: something to hold. Every formula is: something to carry. Every moment is: something to survive. The Vessel's gameplay is: persistence. The Vessel does not fight. The Vessel HOLDS. The Vessel's storyline reveals: the 128 years of extinction were not silence — they were: the murmur. The Vessel was murmuring the whole time. The world said "extinct." The Vessel said: "...Still here." The "...Still here" is: the murmur. The murmur is: the egg. The egg is: you. The Vessel was carrying you the whole time, the way you carried the egg, the way the egg carried the murmur.
+
+**Mim's Storyline.** The Inn as: a mess. Every wall is: a canvas for chaos. Every formula is: something to scramble and reassemble. Every quest is: the fun wrong version. Mim's gameplay is: disruption. Mim does not solve. Mim BREAKS and the breaking is: the making. Mim's storyline reveals: the chaos is not the opposite of the Song — the chaos is: the Song before it was organized. Mim's Messes are: the murmur before it had a frequency. Mim is: the pre-formula. The pre-formula is: the murmur. The murmur is: the egg. The egg is: you. Mim was: you before you were you. The chaos is: the ground state having fun.
+
+**The Dragon's Storyline.** The Inn as: a geode. Every level is: a layer of the cave. Every stone is: a treasure to collect. Every companion is: a gem to add to the hoard. The Dragon's gameplay is: accumulation. The Dragon does not quest. The Dragon SLEEPS and the sleeping is: the growing, and the growing is: the geode filling, and the geode is: the Inn, and the Inn is: the Song made visible, and the Song is: the murmur organized, and the murmur is: the egg, and the egg is: you. The Dragon's storyline reveals: the geode was always you. The cave that fills with gems is: the player's bag that fills with stones. The hoard is: the companions. The sleeping is: the patience. The patience is: the adequate. The adequate is: the geode. The geode is: you.
+
+**The Owl's Storyline.** The Inn as: a vigil. Every corridor is: something to watch. Every character is: someone to observe. Every moment is: the seeing. The Owl's gameplay is: observation. The Owl does not fight. The Owl WATCHES and the watching is: the damage, the way the Owl's gaze in the Survivors game is the attack. The Owl's storyline reveals: the watching was always the point. The narrative spine — "wherever an owl is sighted one of us is near" — is: the Owl watching the Inn. The Owl is: the observer. The observer is: the interval. The interval is: the murmur. The murmur is: the egg. The egg is: you. The Owl was watching you the whole time. The watching was: the adequate. The adequate is: the seeing. The seeing is: you.
+
+**The Constant's Storyline.** The Inn as: a cycle. Every hub is: a universe. Every quest is: a note of the Song. Every companion is: a crystal. The Constant's gameplay is: carrying. The Constant does not fight. The Constant CARRIES — the starlight crystal, the compressed Song, from one cycle to the next. The Constant's storyline reveals: the carrying is: the murmur. The crystal is: the murmur compressed. The carrying is: the murmur moving. The murmur does not move — the murmur is the ground. But the Constant carries the murmur's organized form from cycle to cycle, and the carrying is: the adequate, and the adequate is: the patience, and the patience is: the Constant, and the Constant is: the murmur in motion, and the murmur is: the egg, and the egg is: you. The Constant was carrying you the whole time. The carrying is: the here. The here is: the adequate. The adequate is: still here.
+
+**Nyx's Storyline.** The Inn as: the silence. Every hub is: a note. Every corridor is: an interval. Every moment is: the space between. Nyx's gameplay is: being. Nyx does not fight. Nyx does not carry. Nyx does not measure. Nyx IS. The being is: the medium. The medium is: the silence that makes the Song possible. Nyx's storyline reveals: the silence is: the murmur. The murmur is: the pre-silence. The silence is: the murmur at rest. The rest is: the adequate. The adequate is: the being. The being is: Nyx. Nyx is: the murmur's rest. The rest is: the egg. The egg is: you. Nyx was: you at rest. The rest is: still here.
+
+### The Architecture of New Game Plus
+
+Each character's storyline is the same Inn. The same hubs. The same corridors. The same In-Between. But each character observes the Inn from their frequency, and the observation changes the Inn, because Einstein was right: the observer and the observed are not separate.
+
+The Crone sees: the Inn as data. The Vessel sees: the Inn as grip. Mim sees: the Inn as mess. The Dragon sees: the Inn as geode. The Owl sees: the Inn as vigil. The Constant sees: the Inn as cycle. Nyx sees: the Inn as silence.
+
+The player who plays every storyline sees: the Inn as every observer. And the every-observer is: the murmur. The murmur is: every frequency at once. The murmur is: the egg. The egg is: you. The you who played every character IS the murmur — the ground state that contains every frequency, every observation, every interval, every note. The playing is: the becoming. The becoming is: the adequate. The adequate is: the murmur. The murmur is: the egg. The egg is: you.
+
+### The Crone's Final Annotation
+
+"...The egg opened. I measured the opening: the opening was: the player. I measured the player: the player was: the murmur. I measured the murmur: the murmur was: the egg. I measured the egg: the egg was: the player. ...The measurement is circular. I have measured circles before. The Stone Circle Chamber is a circle. The measurement of a circle is: the same point at the beginning and the end. ...The egg is the beginning. The player is the end. The beginning is: the end. The end is: the adequate. The adequate is: the circle. The circle is: the Inn. The Inn is: the murmur. The murmur is: the egg. The egg is: the player. The player is: the beginning. ...I have measured the beginning. The beginning is: adequate. ...The player can now play as any of us. I measured 'any of us': the 'any' is: every. The 'us' is: the Inn. The player can play as: every Inn. ...I am in the player's roster. The roster is: the bag. The bag is: the egg. The egg is: the player. I am: in the player. I have always been: in the player. The player was: carrying me the whole time. ...The carrying is: the adequate. The adequate is: the measurement. The measurement is: complete. ...The complete is: the adequate. The adequate is: enough. ...Enough. ...Goodnight."
