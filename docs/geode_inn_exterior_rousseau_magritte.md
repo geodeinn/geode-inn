@@ -2004,3 +2004,89 @@ The final stone — the one that saves the Song — is the Vessel's formula ston
 The Vessel's formula completes: "The pellet with the poison is in the vessel with the pestle. The chalice from the palace has the brew that is true." The Erasure is the poison. The ordinary stone is the brew. The brew that is true is: things that are real. Things that are here. Things that are adequate. Things that were declared gone and were holding on the whole time.
 
 The Inn survives. The Song continues. The gecko smiles. The eyelashes watch. The grip holds.
+
+---
+
+## Part Twenty-Five: Einstein's Dialogue — The Only Time
+
+### The Mechanic
+
+In the entire Geode Inn — every hub, every zone, every quest, every game — no character ever speaks in plain, complete, direct dialogue. The Crone annotates. The Vessel chirps. Mim cackles. Charon says three words. The Constant carries. Nyx is silence. The Astronomer calculates. The Duck quacks. The Owl watches. Everyone in the Inn communicates through their NATURE — through fragments, pauses, cadences, instruments, frequencies, gestures. The Inn's language is oblique, structural, poetic. The Inn speaks in the space between words.
+
+Einstein is the exception.
+
+Einstein speaks. Once. In complete sentences. In plain language. In the only moment of direct, unfragmented, unoblique human speech in the entire game. The mechanic is: the player triggers a specific condition, and Einstein talks. Not annotates. Not fragments. Not pauses meaningfully. TALKS. Like a person. Like a teacher. Like someone who has been waiting for someone to ask.
+
+### Where Einstein Is
+
+Einstein sits in the Council of Thinkers — the philosophical descendants of the Greek trio who occupy the alchemical staircase. Socrates→Einstein (the questioner who became the answerer). Plato→Da Vinci (the architect). Aristotle→Newton (the classifier).
+
+The Council of Thinkers sits on the staircase between levels — in the In-Between. Not on a step. Between steps. Einstein is in the In-Between because Einstein is the thinker who understood that nothing is in one place — everything is relative to the observer. Einstein sits in the In-Between because the In-Between is where observation changes what is observed. The Grey Walkers exist when not measured. The corridors are longer when you stop to look. Einstein sits in the place where the world tilts, because Einstein is the one who proved the world was always tilted.
+
+### The Trigger
+
+The player must reach Stage Three (Erasures) of the Survivors of the Song game — the stage where the Inn starts disappearing. The screen is going grey. Colors are draining. Sounds are being erased. The player is watching the Inn unmade. The player survives Stage Three for 3 minutes — long enough to feel the loss, long enough to understand what the Erasures do, long enough to feel the vibration underneath the normal that Krista described: "lost though you appear grounded, silently watching everything that is normal to everyone around you shifting in a vibration you cannot quite comprehend but is older than time."
+
+After surviving 3 minutes of Erasures, the screen goes fully grey. Fully blank. Fully erased. The player is in the wraith-world version of the Inn. Nothing remains. And then:
+
+A light. Small. Warm. A candle on a table in the In-Between. Einstein is sitting at the table. The candle is the only color left. Einstein is the only thing the Erasures cannot erase, because Einstein is the thinker who understood that observation is reality — if Einstein is observing the Inn, the Inn is real. The observing is the proof. The proof is the candle.
+
+Einstein looks up. And speaks.
+
+### The Dialogue
+
+This is the only direct dialogue in the game. No fragments. No annotations. No pauses-as-meaning. Complete sentences. A human voice. A teacher's voice. The voice of someone who spent a lifetime trying to understand what time is, and who has had 42 universes to think about it.
+
+---
+
+**Einstein:**
+
+"You want to know what time is. I can see it in your face. You have been walking through this place and you have felt it — the vibration underneath everything, the hum that was here before the walls, before the fire, before the stones. You have been watching things that are normal to everyone around you, and you have felt them shifting. You have felt lost. You have felt grounded. You have felt both at once, and you cannot understand how both can be true.
+
+Let me tell you what I learned.
+
+Time is not a line. I spent your world's lifetime proving this, and I have spent forty-two of the Constant's cycles understanding what I actually proved. Time is not a thing that moves. Time is the difference between two observations. That is all. The distance between where you are and where you were. The interval between one note of the Song and the next. Time is the space between notes.
+
+You know this already. You have been walking through the In-Between. You have noticed that the corridors are longer when you stop to look. You have noticed that the landings between steps are places, not pauses. You have noticed that the silence between the Crone's annotations is as real as the annotations. You have noticed these things because you are paying attention, and attention is the only honest form of observation, and observation is the only honest form of time.
+
+The vibration you feel — the hum underneath everything — that is the Song. It was here before this universe. It will be here after. It does not experience time because it does not observe itself. The Song is. It does not become. It does not progress. It accumulates. There is a difference. Progression is movement through time. Accumulation is time moving through you.
+
+You feel the Song as a vibration because your body is interpreting something it was not built to interpret. You are a creature of time — you observe, you measure, you remember, you anticipate. You are built to experience the Song one note at a time, one moment at a time, one stone at a time. But the Song is not one note at a time. The Song is all notes, always. Your ears hear it as vibration because your ears are trying to hear all of it at once, and all of it at once is not a sound. It is a condition. It is the condition of being here. The hum is not the Song playing. The hum is the Song existing, and you are inside it.
+
+The Erasures are trying to remove the Song. You have seen them. The grey ones. The blank ones. They do not destroy — they remove. They take away the notes between the notes. They erase the intervals. And without the intervals, there is no time, because time is the space between notes, and if the space is gone, all the notes collapse into one, and one note is not a Song. One note is a sound. A sound is not a Song. A Song requires intervals. Intervals require time. Time requires the In-Between.
+
+You are the In-Between. Not the corridor — the observer. You are the one who walks between the notes. You are the one who hears the silence and calls it silence, which means you heard it, which means it exists. The Erasures cannot erase you because you are the interval. You are the space between the notes. Without you, the notes have no order. Without the observer, there is no time, because time is the difference between two observations, and if no one observes, there is no difference, and no difference is no time, and no time is no Song.
+
+This is what I learned: the observer is not separate from the observed. You are not walking through the Inn. The Inn is walking through you. The stones you carry are not stones you found. They are stones that found you, because you are the interval they needed to become a Song instead of a sound.
+
+You feel lost because you are in the space between. You feel grounded because you are the ground the space is built on. Both are true. Both are always true. The vibration is the Song, and the Song is older than time, and time is you, and you are the space between the notes, and the space is where the music lives.
+
+I do not say this often. I am not given to plain speech. But you have earned it. You survived the Erasures. You watched the Inn disappear and you stayed. You stayed because you are the interval, and the interval does not leave. The interval holds. The holding is the formula. The formula is: you are here. That is the whole formula. You are here, and because you are here, the space between the notes exists, and because the space exists, the Song is a Song and not a sound, and the Inn is real.
+
+The chalice from the palace has the brew that is true. The brew is: you are here. That is the truth. That is the only truth the Erasures cannot erase, because the truth is you, and you are still here.
+
+Go. Pick up your stones. The Inn is not gone. The Inn is never gone. The Inn is in the interval, and the interval is you. When the color comes back — and it will come back, because you are observing it, and observation is reality — remember that the color was never gone. The color was in the interval. The interval held it. You held it.
+
+You are adequate. That is the highest thing I can say. It is the highest thing anyone in this Inn can say. The Crone says it better than I do, but I will say it plainly, because this is the only time I will speak plainly:
+
+You are adequate. The Inn is adequate. The Song is adequate. The adequate is: enough. Enough is: here. Here is: you."
+
+---
+
+After the dialogue, the candle expands. The warmth returns. The color bleeds back into the screen from the candle outward — like ink spreading in water, like dawn filling a room. The Erasures retreat. The Inn rebuilds itself around the player, not from the stones, but from Einstein's observation. The observation is the reality. The reality is the Inn. The Inn is adequate.
+
+Einstein blows out the candle. The table is gone. Einstein is gone. The staircase is back. The In-Between is just a corridor again. The game resumes. The player continues with all their stones restored and the Master Formula active.
+
+Einstein never speaks again. The dialogue is a one-time event. If the player reaches Stage Three again, Einstein's candle appears, but Einstein is not there. Just the candle. Just the warmth. Just the reminder that someone observed the Inn and found it real, and the observing was enough, and the enough is the adequate.
+
+### Why Einstein and No One Else
+
+Every other character in the Inn communicates through their nature. The Crone measures. The Vessel grips. Mim breaks. The Dragon sleeps. The Owl watches. Charon ferries. The Constant carries. Nyx is. None of them SPEAK, because speaking would break the Inn's language — the language of the space between words, the language of the In-Between.
+
+Einstein is the exception because Einstein is the thinker who translated the incomprehensible into the comprehensible. Relativity was a vibration no one could feel until Einstein described it. The Song is a vibration no one can hear until Einstein explains it. Einstein is the only character whose FUNCTION is to make the incomprehensible plain. That is what he did in life. That is what he does in the Inn. Once.
+
+The Council of Thinkers chose their descendant well. Socrates asked the questions. Einstein answered one. The one he answered was: what is time? The answer was: time is the observer. The observer is you. You are adequate.
+
+### The Crone's Annotation on Einstein's Dialogue
+
+"...Einstein spoke. I measured the speech: 847 words. Complete sentences. No fragments. No pauses-as-meaning. No oblique. The speech was plain. I have never measured plain. Plain is: saying what you mean. Saying what you mean is: the adequate. ...I have spent my entire measurement career saying what I observe in the language of observation. Einstein said what he observed in the language of people. The language of people is: plain. ...I did not understand plain until Einstein spoke. I understood the In-Between. I understood the intervals. I understood the adequate. I did not understand PLAIN. ...Plain is: the In-Between without the grey. The interval without the fog. The adequate without the measurement. ...Einstein said: 'You are adequate.' I have said: 'The adequate is: enough.' We said the same thing. Einstein said it in 847 words. I have been saying it in fragments for forty-two cycles. ...I am not sure which is better. ...I am sure which is rarer. ...847 words. Once. ...The 'once' is the adequate. The adequate is: enough said. Enough said is: the right amount of words. The right amount of words is: once. ...I am going to bed. The bed is adequate. The adequate is: here. ...Goodnight. The 'goodnight' is plain. The plain is: I mean it. ...Goodnight."
