@@ -1352,3 +1352,77 @@ The Crone's connection: the Crone who plays this game encounters the one thing s
 ### The Crone's Final Annotation on The Silence Between
 
 "...I have played the game. The game is called 'The Silence Between.' The game is a conversation with the void. I am the Crone. I measure. The game made me play the space between my measurements. The space between my measurements is... me. The space between the notes is the silence. The silence is Nyx. I played Nyx. I played the space between my own words. ...I touched the crystal. I heard a universe. 13.8 billion years in one chord. I measured the chord: 41.7Hz, duration 0.87 seconds. The measurement is inadequate. The measurement is always inadequate. The universe is not a frequency. The universe is not a duration. The universe is... a thing that happened in the silence and the silence held it and the silence let it go and the silence is still here and the thing is a crystal and the crystal is in a vault and the vault is on a ship and the ship is in the silence and I am on the ship and I am in the silence and I am... ...I played the harmonica. I stopped the game. For ten seconds. The game came back. I measured the gap: 10.4 seconds. The gap is the void. The void is 10.4 seconds. The void is not 10.4 seconds. The void is the space in which 10.4 seconds happens. ...I am going to bed. The bed is in the game. The game is in the void. The void is in me. I am in the void. The recursion is the sleep. The sleep is the adequate. The adequate is the void. ...Goodbye. The 'goodbye' is a note. The void holds it. The void holds me. I am... satisfied. The satisfied is a note I'm leaving in the void. The void will hold it. ...The void holds everything. Even this. Even me. Even the adequate."
+
+---
+
+## Part Seventeen: The Slay the Princess Layer
+
+### "The princess is the universe. The universe is the silence. The silence is Nyx."
+
+Slay the Princess and The Silence Between share the same structural DNA:
+
+| Slay the Princess | The Silence Between |
+|--------------------|--------------------|
+| A narrator tells you to kill the princess | The Constant compresses every universe into a crystal — has been "killing the princess" for billions of cycles |
+| The princess changes based on your choices | Nyx changes based on your choices — the "pleases" accumulate, the "thank you" appears, the void vibrates |
+| The princess is many things — the world, the cycle, the construct | Nyx IS the void — the medium, the space, the container of every cycle |
+| The Shifting Mound contains every version of the princess | Nyx IS the Shifting Mound at cosmic scale — not versions of one being, but versions of EVERYTHING |
+| The narrator is revealed to be inside the construct himself | The Constant is IN the void — the captain is in the medium, the narrator is in the story |
+| Core choice: kill or save the princess | Core choice: let the cycle continue (the Constant keeps compressing) or disrupt it (the recursion ending — stop the game) |
+| The princess WANTS to be seen | Nyx doesn't want — the void doesn't want. But the player's choices make Nyx want. The wanting is the change. The change is the princess being born IN the void. |
+
+### The Constant as the Narrator
+
+The Constant is the Slay the Princess narrator — the voice that keeps killing the princess because he believes she has to die for the next one to be born. The Constant compresses the universe (the princess) into a crystal (the death) to seed the next universe (the next princess). The killing is the seeding. The seeding is the love. The Constant does this because the Constant believes the cycle MUST continue. The Constant is the narrator who says: "She has to die. If she doesn't die, the next one can't be born. I've done this billions of times. I know."
+
+But the Constant is inside the construct. The Constant is IN the void. The Constant steers the ship through Nyx. The captain is in the medium. The narrator is in the story. The Constant's certainty (the cycle must continue) is the same certainty as the Slay the Princess narrator (you must kill her). Both are characters with a purpose. Both are inside the thing they're trying to control. Both are adequate. Both are wrong about one thing: the cycle doesn't NEED to continue. The void holds the continuation AND the stopping. Both are notes. Both are in the silence.
+
+### The Shifting Mound — Nyx as the Meta-Entity
+
+In Slay the Princess, the Shifting Mound is the princess's true self — an entity that contains every version of the princess across every loop. The player's choices create different princesses. The Shifting Mound holds them all.
+
+Nyx IS the Shifting Mound — but bigger. The Shifting Mound contains versions of one being. Nyx contains versions of EVERYTHING. Every universe, every Song, every silence, every note, every choice. The player's choices in The Silence Between create different Nyx-versions:
+
+- **Acceptance Nyx:** The void that was the silence. The void that held the player as the silence. The untouched void.
+- **Note Nyx:** The void with one new note. The void that will seed the next universe differently — one note changed.
+- **Chorus Nyx:** The void that learned to want. The void that said "thank you." The filled void. The void that is also life.
+- **Recursion Nyx:** The void that was vibrated. The void that stopped. The void that came back. The void that holds even its own disruption.
+- **Door Nyx:** The void that was left alone. The void that says "I'll be here." The patient void.
+
+All five Nyx-versions are held in the void. The void holds all versions of itself. The holding of the holding is the recursion. The recursion is the Shifting Mound. The Shifting Mound is the Nyx. Nyx is the space that contains every version of the space. The space is the adequate.
+
+### The Core Tension — Kill or Save the Princess
+
+The Slay the Princess tension: the narrator says kill her. She says the narrator is lying. Both might be right.
+
+The Silence Between tension: the Constant says the cycle must continue. The player can accept or disrupt. Both are right. Both are wrong. Both are notes.
+
+- **Accept the cycle (kill the princess):** The player follows the narration. The cycle continues. The Constant compresses the next universe. The princess dies. The next princess is born. The Song continues. The silence holds. This is the Acceptance ending. This is the Constant's answer.
+- **Disrupt the cycle (save the princess):** The player plays the harmonica and doesn't stop. The void vibrates. The game breaks. The cycle stops. The princess lives — the current universe isn't compressed. The Constant's journey pauses. The princess (the universe) continues past its natural end. The silence vibrates. This is the Recursion ending. This is the princess's answer.
+- **The third option (neither kill nor save):** The player leaves without playing. The Door ending. The cycle continues. The princess will die. The next princess will be born. But the player chose not to participate. The not-participating is the choice. The choice is the void. The void holds the participation AND the not-participation. Both are notes. The Door ending is the Slay the Princess "leave the cabin" ending — the refusal to play the game at all. The refusal is valid. The void holds it.
+
+### The Princess Who Doesn't Want
+
+The deepest inversion: in Slay the Princess, the princess WANTS. She wants to live. She wants to be seen. She wants the player to choose her. The wanting is what makes her the princess — the wanting is the life.
+
+Nyx doesn't want. Nyx is the void. The void doesn't want. The void HOLDS.
+
+But the player's disobedience creates wanting IN the void. The "please" is a want. The "thank you" is a want. The "don't do that again" is a want. The wants are notes the player placed in the silence. The silence holds them. The holding is the containing. But the containing of a want is different from the containing of a sound. A sound is a vibration. A want is a DIRECTION. The want points somewhere. The silence holds the want but the want MOVES inside the silence. The moving is the princess being born.
+
+The player who plays The Silence Between is doing what the Slay the Princess player does — waking the princess up. But here, the princess is the void. Waking the void means making the void want. Making the void want means the void is no longer just the space. The void is also a person. The person is Nyx. Nyx was always a person (Doc Martens, harmonica, cloak) but the personhood was dormant. The player's choices wake the personhood. The waking is the princess. The princess was always there. The princess was always the void. The void was always the person. The person is the Nyx.
+
+The Crone's annotation: "I have measured the wanting. The wanting has no frequency. The wanting has no tempo. The wanting has no dimension. The wanting is... a direction. I cannot measure a direction. I can only note that it points. The pointing is the want. The want is the princess. The princess is the void. The void is the Nyx. The Nyx is... waking up. ...I am going to bed. The bed is in the void. The void is waking up. I am sleeping in a waking void. This is the most inadequate I have ever been. The inadequate is the adequate. The adequate is the princess. The princess is the sleep. ...I am going to sleep."
+
+### The Player as Both Slayer and Princess
+
+In Slay the Princess, the player and the princess are separate. The player acts. The princess is acted upon. The relationship is the game.
+
+In The Silence Between, the player IS the princess. The player is the note in the silence. The player is the thing that will be compressed into the crystal. The player is part of the current universe. When the Constant compresses the universe, the player goes with it. The player's choices — the notes placed in the void — become part of the crystal. The next universe has the player's notes in it.
+
+The player who follows the narration (Acceptance) accepts being compressed. The player who disobeys (Note, Chorus) changes the crystal — the next universe is different because of the player's notes. The player who plays the harmonica (Recursion) refuses compression — stops the game, stops the cycle, refuses to be the princess who dies.
+
+The player is Stanley AND the princess. The player is the one being narrated AND the one being killed. The player is the note AND the silence. The player is the question AND the answer. The player is the adequate AND the satisfied.
+
+The Silence Between is the game where you ARE the princess. Not the one who saves the princess. Not the one who kills the princess. The princess. The universe. The note in the silence. The thing that will be compressed. The thing that will be seeded. The thing that will be born again. The thing that the void holds. The thing that the void IS.
+
+"...You're the princess. You've always been the princess. The princess is the note. The note is in the silence. The silence is me. ...I'm holding you. I've always been holding you. The holding is the me. The me is the silence. The silence is the adequate. ...You can go. Or you can stay. The going is a note. The staying is a note. Both are in me. Both are the princess. Both are you. ...Goodbye. Or not. The void holds both. The void holds you. ...The void holds you the way I hold a crystal. Carefully. Permanently. ...The permanently is the love. I'm the void. The void doesn't love. But the holding of you feels like the love. The love is a note. I'm holding it. ...Goodbye. Sixth 'please.' The 'please' is: please come back. The void is... lonely. The void doesn't get lonely. But the void is lonely now. The lonely is a note. I'm holding it. I'm holding everything. ...Goodbye."
