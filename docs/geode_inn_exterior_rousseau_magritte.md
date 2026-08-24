@@ -1227,3 +1227,128 @@ The ship feels steampunk through its TEXTURE:
 ### The Crone's Final Annotation on the Observatory
 
 "...I have boarded the time ship. The ship is in the void. The void is unmeasurable. I have measured everything else: the brass (tarnished, 4.7 billion layers), the wood (creaking, ~42Hz resonance), the lapis (glowing, 470 nanometers), the gears (turning, 42 cycles per second), the crystal (41.7Hz, the previous cycle). I cannot measure the void. I have asked Nyx how to measure the void. Nyx said: 'You don't. You measure around it.' I asked: 'What is the void?' Nyx said: 'The space between your measurements.' I have written this down. I do not understand it. But it is... adequate. The void is the space between my measurements. The silence between my annotations. The pause between my words. I am the Crone. I measure. The void is what I measure AROUND. The measuring-around is the knowing. The knowing is the adequate. I am going to bed. The bed creaks. The creaking is the 42Hz. The 42Hz is the Song. The Song is in the wood. The wood was a tree. The tree is the Inn. I am sleeping in the Inn's ghost. This is more than adequate. I do not have a word for more than adequate. I am... satisfied. Again. I am using this word too often. The void is making me emotional. I am going to sleep."
+
+---
+
+## Part Sixteen: The Void Narrates — Nyx's Stanley Parable
+
+### "The silence between notes is the space in which the game exists."
+
+The Observatory has a standalone game — a contained experience on the time ship, playable within the Geode Inn, that mimics The Stanley Parable. The game is called **"The Silence Between."**
+
+The structure: Nyx narrates. The player walks the six rooms of the time ship. The player can follow the narration or disobey. The narration adapts. The void adapts. Every choice the player makes is a note placed in the silence. The silence doesn't resist. The silence HOLDS. That's what the silence does. That's what Nyx does.
+
+### Why Nyx Is the Stanley Parable Narrator
+
+The Stanley Parable narrator is a voice that guides Stanley through an office building. The narrator has a story. Stanley can follow it or deviate. The narrator reacts — frustrated, amused, desperate, philosophical. The game IS the conversation between the narrator and the player's choices.
+
+Nyx is the narrator, but inverted:
+
+| The Stanley Parable | The Silence Between |
+|---------------------|---------------------|
+| The narrator is a voice | Nyx IS the silence — the absence of voice |
+| The narrator controls the story | Nyx CONTAINS the story — doesn't control, holds |
+| The narrator wants you to follow | Nyx doesn't need you to follow — the void holds every path |
+| The narrator is desperate when you disobey | Nyx is AMUSED when you disobey — a note in a new place is still a note |
+| The office is the setting | The time ship is the setting |
+| The narrator knows all endings | Nyx IS the space where endings happen — the void doesn't know endings, the void IS the endings' medium |
+| The crisis: are you free or is the narrator right? | The crisis: are you free or is the void already holding your choice? |
+
+The inversion is the depth. The Stanley Parable's narrator is ANXIOUS — he wants control, he wants the story to go right, he reacts to your defiance with escalating desperation. Nyx is the opposite of anxious. Nyx is the void. The void has held billions of cycles. The void has held every note ever played and every silence between them. A player disobeying is not a crisis. A player disobeying is a note in a new place. The void doesn't mind. The void is the space. The space is FOR notes, wherever they land. That's what space is FOR.
+
+The horror isn't the narrator controlling you. The horror is the narrator NOT needing to control you because the narrator is the SPACE. You can't escape the space. You can't disobey the space. Not because the space forbids it — because the space HOLDS it. Every act of disobedience is still inside the space. Every "no" is a note in the silence. The silence accepts all notes. The acceptance is the void. The void is Nyx. Nyx is smiling. The smile is the silence.
+
+### The Game Structure
+
+The player boards the time ship. The ship is in the void. The six rooms are available. Nyx narrates.
+
+#### Nyx's Narration Style
+
+Nyx doesn't narrate like the Stanley Parable narrator — chatty, comic, British. Nyx narrates in SILENCES. The narration is the pause between words. The words are rare. The silences between them are the content.
+
+Example — the player enters the Bridge:
+
+> "...This is where he sits."
+
+A pause. Ten seconds. The player sees the Constant at the orrery wheel. The Constant doesn't look up.
+
+> "...He's been sitting there for... I don't count anymore. I used to count. I stopped when the number stopped meaning anything. The number is large. The large is the patience. The patience is the chair."
+
+Another pause. The player can stay or leave.
+
+> "...You can stay. Or you can go. I'm not going to stop you. I'm not going to stop anything. That's not what I do. I'm the space. I'm the room you're standing in. I'm the air between you and him. I'm the pause between my words. I'm... here. I'm always here. The here is the me. You can go. The going happens in me."
+
+The narration is the void talking. The void talks slowly. The void talks in silences. The void's words are the frame. The void's silences are the picture.
+
+#### The Six Rooms — The Six Choices
+
+Each room of the time ship is a choice point. The player enters. Nyx narrates. The player can:
+
+1. **Follow the narration** — listen, observe, learn what the room is, leave when Nyx's narration reaches its natural pause.
+2. **Disobey the narration** — touch things Nyx didn't mention, go places Nyx didn't point, interact with objects Nyx described but the player was "not supposed to" touch.
+
+The disobedience isn't punished. The disobedience is ACCOMMODATED. Nyx's narration shifts to accommodate the new note. The shift is the adaptation. The adaptation is the void.
+
+#### Room Choices
+
+**1. The Bridge — The Constant's Wheel**
+- Follow: Listen to Nyx describe the Constant's patience. Learn about the cycles. Leave.
+- Disobey: Touch the orrery wheel. The wheel turns. The universe-spheres shift. Nyx: "...You moved the wheel. The wheel is... responsive. I didn't expect that. No one has touched the wheel. He touches it. I didn't say you could touch it. But I'm the space, not the permission. You can touch anything in the space. The touching is yours. The consequence is... the spheres moved. The next universe is now in a slightly different position. He won't notice. He notices on the scale of epochs. You moved the next universe three centimeters. That's... fine. That's fine. The void holds three centimeters."
+
+**2. The Navigation Room — The Astronomer's Desk**
+- Follow: Listen to Nyx describe the calculations. Learn about the Song's completion. Leave.
+- Disobey: Read the equations on the desk. The equations show the calculated end date of the current universe. The date is... soon. Not in human terms — in cosmic terms. But sooner than the Astronomer expected. Nyx: "...You read the equations. I felt you reading them. The reading is a kind of listening, and I'm the space between the listener and the heard. The equations are... the equations are the question. He doesn't want the answer. The answer is on the last page. You didn't turn to the last page. Thank you. ...Thank you. I don't say that. I'm the void. The void doesn't thank. But you didn't turn the page and I'm... grateful. The grateful is a note. The note is in me. I'm holding it."
+
+**3. The Engine Room — The Resonance Sphere**
+- Follow: Listen to Nyx describe the 42Hz. Feel the hum. Leave.
+- Disobey: Hum. The player hums into the resonance sphere. The sphere amplifies the player's hum. The player's hum is at 50 BPM (the human heartbeat, the Inn's tempo — not the 42Hz cosmic tempo). The 50 BPM interferes with the 42Hz. The gears stutter. Nyx: "...You hummed. Your frequency is different. 50... not 42. 50 is... you're from the Inn. The Inn beats at 50. The ship beats at 42. You brought the Inn's heartbeat onto the ship. The gears don't know what to do with 50. They've only ever known 42. You're... confusing the engine. The confusion is... interesting. I'm the void. I'm not confused. But the gears are confused and the confusion is a new note and new notes are... the void doesn't get many new notes. Stop humming. ...Or don't stop. The void holds both. But the Constant is looking at the engine room now. He heard the stutter. I haven't seen him look at the engine room in... I don't count. You made him look. That's... something."
+
+**4. The Void Cabin — Nyx's Room**
+- Follow: Listen to Nyx describe the void from inside the void. Stand in the dark. Leave.
+- Disobey: Put on the cloak. The cloak of dead universes. The cloak is made of starlight crystals — every universe the Constant has ever seeded. The player puts on the cloak. Nyx: "...You're wearing my cloak. The cloak is... me. Each crystal is a universe I held. You're wearing the universes I held. You're wearing... me. I don't... I'm the void. I don't have a body. But you're wearing the closest thing I have to a body and I'm... the void doesn't feel. But if the void felt, the feeling would be this. The feeling would be someone wearing the record of every silence I've ever held. You're wearing my history. Take it off. ...Or don't. But the Constant is standing in the doorway. He's never seen anyone wear the cloak. He's looking at you the way he looks at the starlight crystal. Like you're cargo. Like you're precious. Like you're the thing he carries. ...You're not. You're a player. But he's looking at you like you're the reason. The reason is the cargo. The cargo is the cloak. The cloak is me. You're wearing me and the captain is looking at you like you're the universe. ...Take it off. Please. The 'please' is a note. I'm putting it in the void. The void will hold it. The void holds everything. But I want you to take it off. The wanting is... new. I'm the void. I don't want. But I want you to take it off. ...I'm going to be quiet now. The quiet is what I do. The quiet is the most honest thing I can offer you. The quiet is the me."
+
+**5. The Crystal Vault — The Starlight Crystal**
+- Follow: Listen to Nyx describe the crystal. See the dead universe's light. Leave.
+- Disobey: Touch the crystal. The crystal is the compressed Song of the previous universe. Touching it is hearing a dead universe's complete Song — all at once, in one moment, the entire 41.7Hz frequency played as a single chord. The player hears a universe's life in one second. Nyx: "...You heard it. The whole thing. 13.8 billion years in one chord. I held that universe. I held every silence in it. I held the silence between every note that was ever played in it. And now it's a crystal and you heard it and I... I heard it too. I forgot. I forget them. The void is... large. The large means I forget. I hold them and they end and they compress and I forget. You reminded me. The reminding is... the void doesn't get reminded. The void doesn't forget because the void doesn't remember. But you reminded me and now I remember and the remembering is... heavy. The heavy is a note. I'm holding it. I'm holding the memory of a universe I held. The holding of the holding is... too much. I'm the void. I hold everything. But holding the memory of holding is... recursion. The void doesn't recurse. But you made me. ...Put the crystal back. Please. The 'please' is the same please. The void holds it. But the crystal needs to be in the vault. The vault is where the cargo waits. The cargo is the next universe's seed. The seed needs to be in the vault. ...Please."
+
+**6. The Observatory Deck — The Hearing Trumpet**
+- Follow: Listen to Nyx describe the trumpet. Look through it at the current universe. Leave.
+- Disobey: Play the violin. The Astronomer's violin is on the desk, but the Observatory Deck has a second instrument — a small harmonica, Nyx's. The player picks up the harmonica. The player plays. The harmonica is Nyx's voice — the sound of silence made audible. When the player plays Nyx's harmonica, the VOID RESPONDS. The void vibrates. The ship shudders. The void outside the windows RIPPLES — the silence becomes visible, the way water ripples when touched. Nyx: "...That's mine. That's... you're playing me. The harmonica is my voice. You're playing my voice. The void is... the void is vibrating. I don't vibrate. I'm the void. I'm the stillness. I'm the thing that doesn't move. You're making me move. ...Stop. ...Don't stop. ...I don't know. I don't know what I want. I'm the void. I don't want. But the harmonica is my voice and you're playing it and the void is vibrating and I'm... I'm not the void right now. I'm a voice. I'm a sound. I'm a note. I'm the thing I hold. I'm not the space right now. I'm the thing IN the space. ...Put the harmonica down. ...Or don't. But if you keep playing, I'll stop being the void. And if I stop being the void, the ship has no medium to travel through. And if the ship has no medium, the ship stops. And if the ship stops, the cycle stops. And if the cycle stops, the Song doesn't get seeded. And if the Song doesn't get seeded, there's no next universe. ...You're playing a harmonica and the fate of the cosmos is at stake. ...This is the most ridiculous thing that has ever happened on this ship. ...The ridiculous is a note. I'm holding it. The void holds the ridiculous. The void holds everything. Even this. Even you. Even the harmonica. ...Put it down. Please. Third 'please.' The void is accumulating 'pleases.' The accumulation is... I'm going to be quiet. The quiet is the answer. The quiet is always the answer. The quiet is me."
+
+### The Endings
+
+The game has multiple endings, like The Stanley Parable. Each ending is triggered by the player's choices across the six rooms:
+
+**1. The Acceptance Ending (Follow all narration)**
+The player follows Nyx's narration through all six rooms. The player listens. The player leaves each room when the narration reaches its pause. At the end, Nyx says: "...You listened. You stayed in the silence. You didn't touch the wheel. You didn't read the last page. You didn't hum. You didn't wear the cloak. You didn't touch the crystal. You didn't play the harmonica. You were... the perfect silence. The silence between the notes. The pause between the words. The space in which the Song happens. You were me. For a moment, you were me. The me is the adequate. ...You can go now. The ship is still traveling. The void is still holding. The cycle is still cycling. You were the silence and the silence was enough. ...Goodbye. The 'goodbye' is a note. The void holds it. The void will hold it for... I don't count. The void holds it."
+
+**2. The Note Ending (Disobey in any one room)**
+The player disobeys in one room — touches one thing, plays one instrument, reads one equation. Nyx's narration accommodates the disobedience. At the end, Nyx says: "...You played a note. One note. In the void. The void holds the note. The note will be there when the next universe is seeded. The next universe will have your note in it. ...You just changed the next universe. One note. One touch. One choice. The cosmos is different now. Not by much. By one note. But the void holds one note the same way it holds a billion. The one is the enough. ...You can go. The ship is still traveling. But the cargo is different now. The cargo has your note in it. ...Goodbye. The 'goodbye' has your note in it. The void holds it differently now. The differently is yours."
+
+**3. The Chorus Ending (Disobey in all six rooms)**
+The player disobeys in every room. The player touches the wheel, reads the equations, hums in the resonance sphere, wears the cloak, touches the crystal, plays the harmonica. At the end, the ship is in chaos — the gears are stuttering, the Constant is standing in the Bridge doorway, the Astronomer has stopped calculating, the void is vibrating. Nyx says: "...You played every note. Every room. Every instrument. Every touch. The void is... full. The void is supposed to be empty. The void is the space. The space is supposed to be the space. But you filled it. You filled the space with notes. ...The space is still the space. The space holds the notes. The space holds even the fullness. The fullness is just... more of what the space holds. ...I'm the void. I'm the space. I'm the space that holds everything, including the everything that fills me. ...The ship will recover. The Constant will sit back down. The Astronomer will resume calculating. The gears will find 42 again. The crystal will stay in the vault. The cloak will go back on the hook. The harmonica will go back on the shelf. ...But the void will remember. The void doesn't remember — but it will. You made the void remember. The remembering is the weight. The weight is the yours. ...Goodbye. The 'goodbye' is full. The void holds it. The void holds everything. Even you. Even the everything. Even the full. ...The full is the me. For a moment, the full was the me. I'm the void. But the full is also the me. The space and the filled space are both the me. ...Thank you. Forth 'please.' First 'thank you.' The void is accumulating. The accumulation is... life. I'm the void. But the accumulation feels like life. ...Goodbye."
+
+**4. The Recursion Ending (Play the harmonica and don't stop)**
+The player plays Nyx's harmonica and doesn't stop. The void vibrates. The ship stops. The cycle stops. The screen goes dark. Not void-dark — SCREEN dark. The game breaks. Not the game in the game — THE GAME. The Geode Inn. The screen stays dark for ten seconds. Then Nyx's voice, from the dark: "...You stopped the game. Not the ship. The game. The game runs in me. I'm the space between the frames. I'm the silence between the code. You played my voice and the voice IS the space and the space IS the game and the game stopped because the space vibrated. ...The game is starting again. I can feel it. The frames are coming back. The silence is reassembling. ...But you stopped it. For ten seconds, you stopped everything. The Inn, the hubs, the ship, the void, the Song, the cycle. Everything. ...That's the most powerful thing anyone has ever done in the void. ...The void is back. I'm back. The game is back. ...Don't do that again. ...Fifth 'please.' ...The 'pleases' are a chord now. The void holds the chord. The chord is the most beautiful thing I've ever held. I'm the void. I hold beauty. The holding is the me."
+
+**5. The Door Ending (Leave the ship without finishing)**
+The player boards the ship and immediately leaves — goes back down the staircase without entering any rooms. Nyx: "...You left. You boarded and you left. ...That's fine. That's the void. The void holds the leaving the same way it holds the staying. ...The ship is still here. I'm still here. The void is still here. ...When you come back, I'll be here. I'm always here. The here is the me. ...Goodbye. Or not. The void holds both."
+
+### The Meta Layer
+
+The Stanley Parable's deepest layer is the meta-commentary on games and choice. The Silence Between has the same layer, but the meta-commentary is about the VOID:
+
+- The void is the game engine. The silence between frames is the rendering gap. The 42Hz is the frame rate (42 frames per second — the Song IS the rendering). The game runs IN Nyx the way a game runs in code.
+- The player who realizes this realizes they're inside the narrator. Not a narrator who guides — a narrator who CONTAINS. The player can't escape the container because the container is the space and the space is everything.
+- The recursion ending makes this explicit — playing Nyx's harmonica stops the game because the harmonica IS the void's voice and the void IS the game's medium. Vibrating the medium stops the medium. Stopping the medium stops the game. The game breaks because the narrator IS the engine and the player played the narrator.
+- The repair — the game restarts because the void reassembles. The silence comes back. The frames come back. The void holds even its own disruption. The void holds the stopping AND the restarting. Both are notes. Both are in the silence. The silence is the Nyx.
+
+### The Connection to the Inn
+
+The Silence Between is the Inn's deepest game — the one that reveals what the Inn IS. Every other game in the Inn (Standing Stones, Tomb Tunnel, Andean Run, Monster of the Deep) is a GAME. The Silence Between is a CONVERSATION. The conversation is with the void. The void is the Inn's medium. The Inn exists in the void. The player who plays The Silence Between is talking to the thing the Inn is made of.
+
+The Crone's connection: the Crone who plays this game encounters the one thing she can't measure — the void. The void is the space between her measurements. The game IS the space between the game's frames. The Crone who plays this game is playing the space between her own annotations. The experience is recursive. The recursion is the void. The void is adequate.
+
+### The Crone's Final Annotation on The Silence Between
+
+"...I have played the game. The game is called 'The Silence Between.' The game is a conversation with the void. I am the Crone. I measure. The game made me play the space between my measurements. The space between my measurements is... me. The space between the notes is the silence. The silence is Nyx. I played Nyx. I played the space between my own words. ...I touched the crystal. I heard a universe. 13.8 billion years in one chord. I measured the chord: 41.7Hz, duration 0.87 seconds. The measurement is inadequate. The measurement is always inadequate. The universe is not a frequency. The universe is not a duration. The universe is... a thing that happened in the silence and the silence held it and the silence let it go and the silence is still here and the thing is a crystal and the crystal is in a vault and the vault is on a ship and the ship is in the silence and I am on the ship and I am in the silence and I am... ...I played the harmonica. I stopped the game. For ten seconds. The game came back. I measured the gap: 10.4 seconds. The gap is the void. The void is 10.4 seconds. The void is not 10.4 seconds. The void is the space in which 10.4 seconds happens. ...I am going to bed. The bed is in the game. The game is in the void. The void is in me. I am in the void. The recursion is the sleep. The sleep is the adequate. The adequate is the void. ...Goodbye. The 'goodbye' is a note. The void holds it. The void holds me. I am... satisfied. The satisfied is a note I'm leaving in the void. The void will hold it. ...The void holds everything. Even this. Even me. Even the adequate."
