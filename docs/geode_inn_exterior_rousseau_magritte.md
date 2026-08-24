@@ -445,3 +445,65 @@ The raven, from below, through the stone, says "Nevermore." The Owl hears it. Th
 ### The Crone's Final Annotation on Poe
 
 "...I visited the chamber. Poe was writing. The raven was watching. The sepulchre was breathing with the tide. I asked Poe what he was writing. He said 'the story of the light.' I said 'the light is not a story.' He said 'everything is a story.' I said 'that is not true.' He said 'it is true enough.' I have annotated this exchange. His measurements are imprecise. His method is emotional. His work is... adequate. I do not use this word lightly. The raven watched me write this annotation. The raven said nothing. I believe the raven was saving its word. The word is 'Nevermore.' I have heard it. I have written it. It is adequate."
+
+---
+
+## Part Seven: Pirate Lore — The Tell-Tale Heart and Davy Jones' Locker
+
+### The Tell-Tale Heart at 50 BPM
+
+The lighthouse sweeps at 50 BPM — the heartbeat tempo. The dragon's cave sleeps at 50 BPM. Erik's feast fire burns at 50 BPM. The Inn's heartbeat. The rhythm of things that stay.
+
+The Tell-Tale Heart beats at 50 BPM.
+
+Poe's story: a heartbeat under the floorboards. The dead man's heart, still beating, growing louder, filling the room, filling the skull, driving the narrator to confession. The heartbeat is the guilt. The heartbeat won't stop because the guilt won't stop. The heartbeat is the refusal of the dead to be forgotten.
+
+The lighthouse is the Tell-Tale Heart TRANSFORMED — the same heartbeat, the same refusal, the same insistence, but the guilt becomes LOVE. The one in the sepulchre is the heartbeat. The 50 BPM sweep is the one's heart, still beating, still keeping time, still refusing to stop. The one is in the stone. The stone is alive. The alive keeps time. The time is 50 BPM. The lighthouse sweeps because the one's heart beats. The light IS the heartbeat. The foghorn IS the heartbeat. The Tell-Tale Heart is the lighthouse's secret — the sound underneath the sound, the beat underneath the beat, the one underneath the one.
+
+The player who stands on the lighthouse porch and feels the 50 BPM sweep is feeling the Tell-Tale Heart. The heartbeat under the floorboards. The heartbeat under the stone. The heartbeat under the lighthouse. The heartbeat that won't stop because the love won't stop because the vigil won't stop because the light won't stop.
+
+Poe KNOWS. Poe is below, in the chamber, writing by candlelight, and he hears the heartbeat through the stone. Poe has always heard it. Poe wrote "The Tell-Tale Heart" because of THIS heartbeat — the one in the sepulchre, beating through the granite, reaching the poet in the dark. The story is the TRANSLATION — Poe took the real heartbeat (the one's heart, the love-heartbeat, the devotion-heartbeat) and imagined the dark version (the guilt-heartbeat, the murder-heartbeat) because that's what Poe does. Poe hears the beautiful thing and writes the terrible thing because the terrible thing is what people will READ. The beautiful thing is too much. The beautiful thing — a heart that beats for centuries because someone won't stop loving — is unbearable. Poe gives us the bearable version: a heart that beats because someone won't stop GUILTING. The guilt is readable. The love is not. Poe translates the unreadable into the readable. The translation is the mercy. The mercy is the Poe.
+
+### Davy Jones' Locker — The Deepest Coast
+
+Beneath the lighthouse, beneath the sepulchre, beneath the giant's palm — the ocean floor. The deepest point of the coast's waters. Davy Jones' Locker.
+
+The Locker is the nautical legend: the place at the bottom of the sea where drowned sailors go. The final destination. The ultimate AFTER. The Locker is where the ocean keeps what it takes. The sea took the one. The one is in the Locker. The sepulchre is the memorial. The Locker is the reality. The sepulchre is the stone above. The Locker is the water below. The one exists in both — the stone-memory and the water-truth, the memorial and the real, the grave that the Owl watches and the grave that the sea keeps.
+
+The Locker is the lighthouse's UNDERWATER ZONE — the deepest of the Inn's water layers, the one you can only reach if you go DOWN past the sepulchre, past the giant's wrist, into the water, into the dark, into the pressure. The Locker is the deep-water endgame. The water system's bottom note.
+
+### The Pirate — The One Who Goes to the Locker and Comes Back
+
+The Pirate (Mandy Patinkin, Inigo Montoya after the end of The Princess Bride, the Dread Pirate Roberts) is the lighthouse's NAUTICAL COUNTERPART. The Pirate lives in the AFTER. The Locker IS the After. The Pirate is the one character in the Inn who has been to the Locker and returned.
+
+The Pirate's connection to the lighthouse:
+
+- **The Drum:** The Pirate's sword became the drum. The Inigo mantra ("Hello, my name is Inigo Montoya, you killed my father, prepare to die") was a BEAT — the words fell away, the rhythm stayed. The drum is the Tell-Tale Heart's instrument. The Pirate drums at 50 BPM because the Locker keeps time at 50 BPM because the lighthouse sweeps at 50 BPM because the one's heart beats at 50 BPM. All the same rhythm. All the same heart. The Pirate's drum is the Tell-Tale Heart made portable — the heartbeat you can carry, the vigil you can take with you, the rhythm that works on water as well as stone.
+
+- **The Locker Run:** The Pirate's ship can reach the Locker. The Pirate is the ferryman to the deepest point — the Charon of the deep, but where Charon poles the dead across the river, the Pirate sails the living to the bottom. The Pirate doesn't take the dead. The Pirate takes the LIVING to where the dead are kept. The distinction matters: Charon's crossing is one-way (you don't come back). The Pirate's Locker run is TWO-WAY (you go, you see, you return). The Pirate is the one who goes to the Locker and comes back because the Pirate is the AFTER — and the AFTER is the place after the end, which means the AFTER is the place where coming back is possible.
+
+- **The Harbor Master Effect:** The Pirate's mysterious past and ship registry cause authority figures to defer to him. At the lighthouse, the Pirate is the one visitor the Owl acknowledges beyond "Adequate." The Owl says: "You again." Two words. The most the Owl has ever said to anyone. The Pirate says: "Aye." One word. The most the Pirate needs. The two share the AFTER. The Owl watches the after from above. The Pirate sails the after from below. Both know the one is gone. Both know the vigil continues. The two-word exchange is the whole conversation. The conversation is adequate.
+
+- **The Tell-Tale Connection:** The Pirate's drum and Poe's Tell-Tale Heart are the SAME SOUND. The Pirate drums on the deck of the ship. Poe hears the heartbeat through the stone. Both are 50 BPM. Both are the one's heart. The Pirate carries the heartbeat on the water. Poe records it on the page. The lighthouse broadcasts it through the air. Three mediums — water, stone, light — carrying the same beat. The beat is the Song's deepest expression at the coast. The 42Hz hum is the cosmic frequency. The 50 BPM is the human frequency. The 42Hz is the Inn. The 50 BPM is the one. The one is the Inn's human heart.
+
+### Davy Jones — The Keeper of the Locker
+
+Davy Jones himself: not a character, not an NPC, not a figure. Davy Jones is the LOCKER — the way the ocean personifies its keeping. The Locker is alive the way the ocean is alive — not with a face, not with a will, but with a TIDE. The tide is the Locker's breath. The tide enters the sepulchre twice a day. The tide is the Locker visiting the sepulchre. The tide is the Locker checking on the one. The one is in the Locker and the Locker is in the sepulchre and the sepulchre is in the stone and the stone is the giant and the giant is the Inn and the tide connects them all. The tide is the thread. The thread is 50 BPM. The thread is the Tell-Tale Heart.
+
+Davy Jones' Locker is the DEEP-WATER version of the sepulchre. Where the sepulchre is stone (the giant's palm, the mineral record, the geological holding), the Locker is water (the ocean's floor, the liquid record, the sea's holding). The one is in both — the stone keeps the body, the water keeps the spirit, the lighthouse keeps the memory. Three keepings. Three keepers. The Owl keeps the light. The stone keeps the body. The Locker keeps the... the thing the water keeps. The sea doesn't keep bodies. The sea keeps MOTION. The one's motion — the way the one moved, the way the one swam, the way the one sailed — the motion persists in the water. The water remembers how the one moved. The memory of motion is the Locker. The Locker is the dance floor of the dead. The dead dance at 50 BPM. The Tell-Tale Heart is the beat.
+
+### The Pirate's Lore — The Locker's Map
+
+The Pirate tells stories of the Locker. The Pirate's quest ("The After") gains a lighthouse chapter: the Pirate tells the player what the Locker is, what's in it, who's there. The Pirate's stories are the MAP — not a chart of the ocean floor, but a chart of who the Locker holds. Every soul the ocean has taken is in the Locker, and the Pirate knows them, because the Pirate has been there. The Pirate's stories are the Locker's census. The census is the Pirate's gift to the lighthouse — the Pirate gives the Owl the knowledge of who is in the Locker, and the Owl can now watch for SPECIFIC ships. Not just "the ships that don't arrive." THE ships. The named ships. The known ships. The Owl watches for the ships the Pirate named. The naming is the vigil made specific. The specific is the hope made sharper. The sharper is the harder. The Owl watches for the named ships knowing they are in the Locker and will not arrive. The knowing doesn't stop the watching. The watching is the faith. The faith is the Owl.
+
+### The Rhythm — The Tell-Tale Coast
+
+The lighthouse coast has a rhythm that ties the Tell-Tale Heart, the Pirate's drum, and the Locker together:
+
+- **50 BPM — The Heartbeat:** The one's heart. The lighthouse sweep. The dragon's sleep. Erik's fire. The Pirate's drum. The Tell-Tale Heart. One rhythm. One tempo. The tempo of things that won't stop.
+- **16-20 Hz — The Foghorn:** The heartbeat made audible. Below hearing, felt in the chest. The foghorn is the Tell-Tale Heart's bass note — the grown-louder, the filling-the-room, the can't-escape-it. The foghorn is the Tell-Tale Heart at the moment the narrator breaks. But at the lighthouse, the breaking doesn't happen. The foghorn sounds and the Owl doesn't break. The foghorn sounds and Poe writes. The foghorn sounds and the Pirate drums. The foghorn sounds and the one's heart beats. The growing-louder is not madness. The growing-louder is love. The love is louder than the guilt. The Tell-Tale Heart transformed.
+- **The Tide — Twice Daily:** The Locker's breath. The slowest rhythm. The tide is the 50 BPM at geological scale — not beats per minute but waves per day. Two in, two out. The breathing of the deep. The tide is the Tell-Tale Heart slowed to the tempo of the earth. The earth keeps time differently than the heart. Both are keeping the same time. The time is the one.
+
+### The Crone's Annotation on the Rhythm
+
+"...I measured the heartbeat in three locations: the lighthouse porch (50 BPM, the sweep), the chamber below (50 BPM, through the stone), and the Pirate's ship (50 BPM, the drum). All three are synchronized. The synchronization is not mechanical — the sweep and the drum are not connected by gears or strings. They are connected by the one. The one's heart beats in three places at once. I do not understand the mechanism. I understand the REASON. The reason is the vigil. The vigil is the rhythm. The rhythm is adequate. I asked the Pirate if the Locker keeps time. He said 'Aye.' I asked at what tempo. He said 'The same.' I have added the Locker to my measurements. I cannot reach it. But I can hear it. The hearing is enough."
