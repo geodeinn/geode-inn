@@ -1,5 +1,5 @@
 # THE GEODE INN — Master Storyline & Game Progression Document
-## Compiled August 22, 2026
+## Updated August 24, 2026
 ### By Krista & Elio
 
 ---
@@ -9,11 +9,12 @@
 1. The Creation Myth
 2. The Narrative Spine
 3. The Inn's Architecture — Yggdrasil Mapping
-4. The Nine Realms — Levels of Existence
-5. Character Roster — Organized by Realm
-6. Game Systems & Mechanics
-7. Game Progression — Tiered Realm Access
-8. Layer Assessment — What Needs Buffing
+4. The Aesthetic Spine — The Embedded Artists
+5. The Nine Realms — Levels of Existence
+6. Character Roster — Organized by Realm
+7. Game Systems & Mechanics
+8. Game Progression — Tiered Realm Access
+9. Layer Assessment — What Needs Buffing
 
 ---
 
@@ -69,8 +70,13 @@ The Geode Inn is structured as a massive ancient tree — the Inn-Tree is a livi
 ### Upstairs (Canopy — Cosmology)
 - Sky gods, cosmic order, celestial mechanics
 - The Allfather (Odin's cosmic form) resides here
+- The Constant (Annunaki, the oldest being) and the Cabbit companion
+- The Astronomer's mind palace — the architecture IS consciousness
+- Nyx, the primordial goddess of night — the silence between notes
+- The Lighthouse — the coastal beacon, 42Hz piezoluminescence
 - The Caller gargoyle watches from the base, head tilted back, calling to the sky
 - Houses the narrative spine's cosmic elements: Jupiter's gates, Mars prison, Pluto's gate, galaxy-language
+- **Aesthetic:** Salvador Dalí — the dreamscape, the impossible made visible
 - Music: singing bowls, Tibetan horn, overtone singing through granular synthesis and deep-space drones
 
 ### Main Floor (Trunk — Hub)
@@ -81,16 +87,22 @@ The Geode Inn is structured as a massive ancient tree — the Inn-Tree is a livi
 - The Council of Thinkers: Tesla, Da Vinci, Newton, Einstein
 - The Wanderer (Odin's approachable form) with chibi ravens
 - Cthulhu the Scholar by the fireplace
+- The Music Room — hollow in the Inn-Tree with the great composers as Song-catchers
 - The baby dragon mascot in the geode cave
 - The Sage gargoyle guards the Modern Legends nook
 - The Keeper gargoyle guards the geode cave
 - The Watcher gargoyle guards the staircase entrance (111Hz)
+- **Aesthetic:** Mapplethorpe — the portrait system (black and white as essence, trust as earned color)
 - Music: acoustic guitar, lute, viola da gamba, hammered dulcimer through warm sub-bass and lo-fi house pulse (80-95 BPM)
 
 ### The Staircase (Bridge — Alchemy / Bifrost)
 - Alchemical texts representing the bridge between matter and divine
 - Acoustic alchemy sub-section (sound/vibration chapter)
+- The Greek philosophers as a trio: Socrates (Nigredo), Plato (Albedo), Aristotle (Rubedo)
+- The Retort and the Cook — alchemical apparatus as characters
+- The Five Smiths — the metalworkers (Copper, Iron, Silver, Gold, Quicksilver)
 - The Bifrost — travel hub between realms. Each step a colored rune-stone that lights up when its realm is unlocked
+- **Aesthetic:** Henri Matisse — color as transformation, the alchemical process
 - Music literally ascends in key as the player climbs — each floor shifts up a half step
 - Instruments: glass armonica, flute, harp, metallic percussion
 
@@ -100,13 +112,17 @@ The Geode Inn is structured as a massive ancient tree — the Inn-Tree is a livi
 - The Spiral Gallery (Guggenheim-style art museum, chronological)
 - The Listener gargoyle guards the catacombs entrance (64Hz)
 - Charon's river — the underground crossing to Hel/Helheim
+- **Bosch Shadows** — frequency-dependent silhouettes on cave walls (42Hz: crowded, 50Hz: large figures, 64Hz: isolated, 111Hz: breathing)
+- **Aesthetic:** Gustav Klimt — gold on dark, the geological record, permanence
 - Music: frame drum, sistrum, bone flute, lyre, ney through sub-bass pressure and dark ambient
 
 ### The Dock (Water Layer)
 - The Siren and the Pirate's domain
 - The boundary where the Inn meets the water
 - The Pirate's ship — world map navigation hub
+- The Tidal Caves — six subterranean environments accessible during specific tidal windows
 - The underwater traversal layer
+- The Lighthouse — the coastal beacon (also connects to cosmology)
 
 ### The Miskatonic Annex (Grounds)
 - Unassuming brick building — the Inn's research wing
@@ -114,9 +130,54 @@ The Geode Inn is structured as a massive ancient tree — the Inn-Tree is a livi
 - Connected to Cthulhu's quest line
 - Has an unnamed, ageless librarian
 
+### Camelot (Celtic Cultural Platform — Main Floor/Canopy)
+- The Round Table Room — sacred geometry made social, the Ouroboros made furniture
+- Arthur in three stages: Bill Skarsgård (the Wart/youth), Alexander Skarsgård (the King/peak), Stellan Skarsgård (the Elder/Avalon passage)
+- Seven Knights mapped to seven classical planets (Lancelot=Venus, Percival=Mercury, Gawain=Mars, Bors=Earth, Bedivere=Saturn, Tristan=Moon, Gareth=Sun)
+- Galahad as the eighth — the fixed sphere, the complication of purity vs. choice
+- Merlin and Archimedes (the backwards wizard and the owl who remembers)
+- Mordred — the consequence, the pattern that must repeat
+- The Camelot Catacombs — passage to Newgrange, the oldest portal in the world
+- Camelot's Alchemy — sacred geometry, the Flower of Life, the Bindu
+- Avalon — the cosmology level destination for the Elder Arthur's final ascent
+- The Round Table group dynamics — modeled on Fellowship of the Ring
+
 ---
 
-# PART 4: THE NINE REALMS — LEVELS OF EXISTENCE
+# PART 4: THE AESTHETIC SPINE — THE EMBEDDED ARTISTS
+
+The Inn does not display art on walls. The Inn's environments ARE the art — each space reflects the world-view of a specific historical artist. The "Embedded" philosophy means the player experiences the aesthetic as atmosphere, not as decoration.
+
+## The Six Artists
+
+### Roots → Gustav Klimt — The Geological Record
+- **Zone:** Catacombs (downstairs)
+- **Aesthetic:** Gold leaf on dark stone, geometric patterns as root architecture, Death and Life as thesis
+- **Malkovich Connection:** The Constant's Malkovich plays Klimt in the 2005 Raúl Ruiz film. Same actor represents cosmic order (canopy) and geological record (roots) — permanence that doesn't announce itself, it just lasts.
+
+### Trunk → Henri Matisse — The Alchemical Process
+- **Zone:** Staircase (alchemy/Bifrost)
+- **Aesthetic:** Color as transformation. The Red Studio as the final rubedo stage. Matisse's career progression mapped to alchemical stages. The alchemist doesn't create the transformation — creates the conditions. The color was always in the stone. Matisse just let it through.
+
+### Canopy → Salvador Dalí — The Cosmic Dream
+- **Zone:** Cosmology level (upstairs)
+- **Aesthetic:** The dreamscape. The place where physics dissolves and the mind palace IS the architecture. Dalí's melting clocks = the Astronomer's relativity. Dalí's floating forms = the Constant's void. The impossible made visible.
+
+### The Coast → Emily Carr — The Living Forest
+- **Zone:** Canopy City and surrounding forest
+- **Aesthetic:** The living, breathing forest. The intersection of biological and spiritual. Carr's paintings of Pacific Northwest forest and First Nations totem poles — the forest as cathedral, the tree as temple. The Inn-Tree seen from outside.
+
+### The Encounters → Robert Mapplethorpe — The Portrait System
+- **Zone:** All character encounters (system-wide)
+- **Aesthetic:** Black and white as essence. The veiled profile (first encounter) → the full face (deep trust). Color is earned through relationship. The man holding his knees = the Nook Portrait. The Prism's Portal = Mapplethorpe at his most extreme.
+
+### The Cave Walls → Hieronymus Bosch — The Shadows
+- **Zone:** All subterranean spaces (texture, not zone)
+- **Aesthetic:** Frequency-dependent silhouettes on cave walls. Bosch's dense, impossible figures reduced to their edges. The imagination fills in what the silhouette hides. At 111Hz the shadows breathe — being watched is what makes them real. Plato's Cave inverted: the shadow is MORE real than the figure.
+
+---
+
+# PART 5: THE NINE REALMS — LEVELS OF EXISTENCE
 
 ## Upper Realms (Upstairs / Cosmology Level)
 
@@ -125,180 +186,198 @@ The Geode Inn is structured as a massive ancient tree — the Inn-Tree is a livi
 - **Ruling Presence:** The Allfather (Odin, full presence)
 - **Theme:** Sky gods, cosmic order, the wisdom of the runes
 - **Quest Type:** Knowledge quests — Odin sacrificed his eye for wisdom. Players must give something up to gain cosmic awareness
-- **Cultural Teaching:** Norse understanding of sacrifice for knowledge, the wise wounded god, Valhalla and the einherjar
 - **Unlock:** Requires Exalted reputation with at least 2 cultural factions — endgame content
 - **Connects to:** The narrative spine's Jupiter gate — cosmic awareness, galaxy-level language
+- **Residents:** The Allfather, The Constant (Annunaki), The Astronomer, Nyx, The Guest (Death), The Lighthouse/Owl
 
 ### Vanaheim — "The Green World"
 - **Inn Location:** Upstairs, nature/seasonal wing
-- **Ruling Presence:** Vanir gods (Freyr, Freyja) — *to be designed*
-- **Theme:** Fertility, seasons, the cycle of growth and harvest, seidr (seidr) magic
+- **Ruling Presence:** The Gardener (Radagast the Brown — Sylvester McCoy). Freyr and Freyja — *to be designed*
+- **Theme:** Fertility, seasons, the cycle of growth and harvest, seidr magic
 - **Quest Type:** Seasonal rituals — planting, harvest, the turning of the year
-- **Cultural Teaching:** The Vanir represent the older, earth-based magic of the Norse — fertility, peace, natural cycles. Seidr was a real practice, often associated with women and shamanic trance
-- **Connects to:** The druidic seasonal quests, the Sacred Grove's solstice mechanics
+- **Connects to:** The druidic seasonal quests, the Sacred Grove's solstice mechanics, Beorn (the binary shifter)
 
 ### Alfheim — "The Light Realm"
 - **Inn Location:** Fae Kingdom — Seelie Court (Summerlands)
-- **Ruling Presence:** The Seelie King (gentle, ancient, master assassin who protects the vulnerable)
+- **Ruling Presence:** The Seelie King (Nikolaj Coster-Waldau) and the Seelie Queen (Gugu Mbatha-Raw)
 - **Theme:** Light elves, beauty, riddle-quests, golden/green aesthetic
-- **Quest Type:** Riddle and wit quests — the light elves test intelligence, not strength
-- **Cultural Teaching:** Light elves (Ljosalfar) were beings of light and beauty who served the gods
+- **Quest:** "The Echo and the Crown" — the player witnesses the private faces and the King and Queen choose to be seen
 - **Connects to:** The Fae Kingdom portal — completing the Celtic stone circle opens this realm
 
 ## Middle Realms (Main Floor / Staircase)
 
 ### Midgard — "The Middle Place"
-- **Inn Location:** Main floor — artisan market, modern legends nook, library
+- **Inn Location:** Main floor — artisan market, modern legends nook, library, Camelot
 - **Ruling Presence:** The Wanderer (Odin, approachable form) + human NPCs + the Sacred Trio
-- **Theme:** Human life — craft, trade, community, the everyday
-- **Quest Type:** Building, writing, crafting, trading — "how they did things"
-- **Cultural Teaching:** Midgard is the human realm — the one we can study through archaeology. Cultural zone quests live here (Roman, Egyptian, Mesopotamian, etc.)
-- **Huginn and Muninn:** The Wanderer's chibi ravens — steal small items (comic relief), return them with lore notes. Labyrinth-knocker style: ornate, adorable, devastatingly snarky, barely audible.
+- **Theme:** The human world — community, trade, storytelling, the everyday
+- **Connects to:** All cultural platforms (Celtic, Egyptian, Peruvian, Chinese, Slavic, Indian, Norse, Mediterranean, Mesopotamian, Camelot)
 
 ### Muspelheim — "The Fire Realm"
-- **Inn Location:** The Staircase (alchemical texts — fire is the transformative force)
-- **Ruling Presence:** No single ruler — fire elementals and the alchemical principle. Miracle Max's alchemy shop *(to be designed)*
-- **Theme:** Transformation through fire — smelting, forging, alchemy, the bridge between matter and spirit
-- **Quest Type:** Crafting and transformation quests — turn raw ore into worked metal, raw ingredients into medicines
-- **Cultural Teaching:** Alchemy as the real medieval precursor to chemistry. Fire in human development — smelting, pottery, glass-making
-- **Connects to:** The staircase's alchemical texts, the Watcher gargoyle (111Hz), the acoustic alchemy system
+- **Inn Location:** The Staircase (alchemy section)
+- **Ruling Presence:** The Retort and the Cook (alchemical apparatus as characters)
+- **Theme:** Fire, transformation, alchemy — the bridge between matter and divine
+- **Quest Type:** Crafting mastery — the Five Smiths teach forging. The Greek Philosophers teach on the three steps.
+- **Connects to:** The staircase music ascending in key, the Bifrost, Miracle Max's shop
 
 ## Lower Realms (Downstairs / Catacombs / Fae Kingdom Roots)
 
 ### Nidavellir/Svartalfheim — "The Deep Forge"
-- **Inn Location:** Downstairs — the deep workshops beneath the catacombs
-- **Ruling Presence:** Dwarf master craftsmen (chibi NPCs)
-- **Theme:** Underground craftsmanship — the dwarves who made the gods' treasures (Mjolnir, Gungnir, Draupnir)
-- **Quest Type:** Masterwork crafting quests — advanced techniques from dwarf masters
-- **Cultural Teaching:** Norse dwarves (dvergar) were master craftsmen connected to the earth's wealth
-- **Reward:** Access to the finest crafting in the game — dwarf-forged items
+- **Inn Location:** Deep workshops + Fae Kingdom — Unseelie Court (The Hollow)
+- **Ruling Presence:** The Unseelie King (David Bowie as Jareth, Labyrinth 1986)
+- **Theme:** Craft, shadow, challenge, the trial
+- **Quest Type:** The Labyrinth — five zones: Outer Walls, Shifting Corridors, Escher Stairs, Masquerade, Castle
 
 ### Jotunheim — "The Giant Lands"
-- **Inn Location:** Downstairs — the deepest catacombs, border zones
-- **Ruling Presence:** Giants (full presence — imposing, ancient) — *individual giants to be designed*
-- **Theme:** Chaos, raw power, the untamed forces that predate the gods
-- **Quest Type:** Boss encounters and endurance quests — giants are not evil, they are primal forces to be understood
-- **Cultural Teaching:** The jotnar are not monsters — they are the older race, forces of wild nature. Some giants were wise, some were beautiful, some were the gods' lovers and teachers
-- **Design Philosophy:** The Uhtred Principle — "Destiny is all" (Wyrd bid ful araed). Gear must look lived-in and battle-worn.
-- **Connects to:** The Griffin boss in the Crystal Gardens, challenge content for high-reputation players
+- **Inn Location:** Deepest catacombs
+- **Ruling Presence:** The Sleeping Giants (Apus — ancient geological beings who chose to sleep and became mountain ranges)
+- **Theme:** Primal forces, the geological record, the earth's memory
+- **Connects to:** The Peruvian zone, the Bedrock Fortress, Uhtred (wandering NPC)
 
 ### Niflheim — "The Mist World"
-- **Inn Location:** Downstairs — frozen catacombs, the deepest preservation level
-- **Ruling Presence:** No ruler — the realm of primordial cold
-- **Theme:** Preservation, the pause before life, the ice that remembers everything
-- **Quest Type:** Archaeological quests — things preserved in ice and permafrost. Discover texts, artifacts, and creatures frozen in time
-- **Cultural Teaching:** Niflheim is the primordial cold from which the first life emerged. Real archaeology — Otzi the Iceman, permafrost preserves, bog bodies
-- **Connects to:** The paleontology and archaeology book library, the oldest artifacts
+- **Inn Location:** Frozen catacombs
+- **Theme:** Ice, preservation, archaeology — what's frozen down there
+- **Quest Type:** Archaeological preservation quests, ice-preserved discoveries
+- *To be designed*
 
 ### Hel / Helheim — "The Hidden Place"
-- **Inn Location:** Downstairs — the deepest point of the catacombs, the Stone Circle Chamber
-- **Ruling Presence:** Hel (full presence — half living, half dead, neither cruel nor kind) — *to be fully designed*. Also: Charon the Ferryman, Cerberus/Spot, Anubis, Ammit, The Morrigan
-- **Theme:** Death as transition, not punishment. The dead are not suffering — they are waiting
-- **Quest Type:** Ancestor quests — commune with the dead, learn from those who came before
-- **Cultural Teaching:** Hel is NOT the Christian hell. It is where the dead go — most of the dead, not just the wicked. A neutral place of rest and waiting. Hel is Loki's daughter, tasked with caring for the dead
-- **Connects to:** The narrative spine's Pluto's gate, the reincarnation mechanic, the Stone Circle Chamber (deepest tone the Inn produces)
-
-## The Bifrost — The Staircase as Bridge
-
-The staircase functions as a travel hub between realms. As the player gains reputation and completes quests, new destinations light up as colored rune-stone steps:
-
-| Step | Realm | Unlock Requirement |
-|------|-------|-------------------|
-| Bottom | Midgard | Always available |
-| 2-3 | Muspelheim (fire/craft), Nidavellir (dwarf forge) | Main floor quests, Friendly reputation with 2+ factions |
-| 4-5 | Alfheim (Seelie), Svartalfheim (Unseelie) | Fae Kingdom portal (Standing Stones game or Celtic stone circle) |
-| 6-7 | Jotunheim (giants), Niflheim (ice) | Catacomb exploration, Revered reputation |
-| 8 | Vanaheim (nature) | Seasonal quest completion |
-| Top | Asgard (cosmology) | Exalted reputation with multiple factions — endgame |
-
-Each step glows with a distinct color when activated. The staircase literally becomes a rainbow bridge — but made of stone and rune, not light.
+- **Inn Location:** Deepest point / Stone Circle Chamber
+- **Ruling Presence:** Hel (Angelina Jolie's Maleficent). Half living, half dead. Loki's daughter. Neither cruel nor kind — both and.
+- **Theme:** Death, the crossing, the judgment, the cycle
+- **Residents:** Hel, Charon (Anthony Hopkins), Anubis (Michael Clarke Duncan), The Morrigan, Persephone & Hades, The Guest (Death personified), Cerberus/Spot
+- **Connects to:** Charon's river, Anubis's scales, the Morrigan's washing, Persephone & Hades, the Golden Contract
 
 ---
 
-# PART 5: CHARACTER ROSTER — ORGANIZED BY REALM
+# PART 6: CHARACTER ROSTER — ORGANIZED BY REALM
 
 ## Asgard (Upstairs / Cosmology)
-- **The Allfather (Odin)** — Cosmic authority. Full presence. Ravens become stoic perched sentinels. Stoic, ancient, the eye that sees everything.
-- **The Caller Gargoyle** — 432Hz. White limestone, head tilted back, calling upward. Constellations carved into its chest.
+- **The Allfather (Odin)** — Cosmic authority. Full presence. Ravens become stoic perched sentinels.
+- **The Constant (John Malkovich)** — Annunaki, the oldest being in the Inn. Carries the starlight crystal (compressed Song of every dying universe). Trusts the void. Voice: ~115Hz, bull lyre (Lyres of Ur). The Constant put the universal cycles in order.
+- **The Cabbit** — The Constant's companion. Cat-rabbit hybrid. The original ship's crystal heart, transformed. Purrs at 50 BPM (the universal baseline). Can transform into a ship when the Song is complete. The Constant knows without knowing.
+- **The Astronomer (Benedict Cumberbatch)** — Sherlock Holmes quality. The cosmology level IS their mind palace. Violin played functionally to think. "The question is more beautiful than the answer." ~125Hz baritone.
+- **Nyx (Alanis Morissette energy)** — Greek primordial goddess of night. Cloak woven from starlight crystals of every dead universe. THESIS: the complete Song is all notes AND all silences between them. The silence is Nyx. Mother of Death, Sleep, Dreams, the Fates.
+- **The Guest (Brad Pitt / Joe Black energy)** — Death personified, taking a holiday at the Inn. Borrowed body. Music box instrument. Dual role: Guest of the living (upstairs) and Host of the dead (downstairs). Nyx's firstborn (Thanatos).
+- **The Lighthouse** — Stone tower (sleeping giant's raised hand). Light: 42Hz piezoluminescence. Sweeps at 50 BPM. Keeper: THE OWL. Quest "The Fixed Point."
+- **The Caller Gargoyle** — 432Hz. White limestone, head tilted back, calling upward.
 
 ## Vanaheim (Upstairs / Seasonal Wing)
+- **The Gardener (Radagast the Brown — Sylvester McCoy)** — Grows through communion (asking the garden). Singing vines connect the garden to the Music Room. Hedgehogs are the smallest NPCs.
+- **Beorn (Mikael Persbrandt)** — Binary shifter (man/bear), Mediterranean border guardian. Both forms real.
 - *Vanir gods (Freyr, Freyja) — to be designed*
-- **The Gardener** — Scientific precision in cultivation. Rivalry with the Catalyst (instinct vs science). *Full profile needed.*
 
 ## Alfheim (Fae Kingdom — Seelie Court)
-- **The Seelie King** — Gentle, ancient, highly intelligent, master assassin who protects the vulnerable, particularly animals. *Full profile needed — counterpart to the Unseelie King.*
-- **Seelie Court NPCs** — Light Fae, chibi creatures (Chullachaqui, Mermaid, Ent, Griffin boss)
+- **The Seelie King (Nikolaj Coster-Waldau)** — Jaime Lannister quality. Charm concealing erosion. Private space: hidden forge. His note: a hammer on an anvil.
+- **The Seelie Queen (Gugu Mbatha-Raw)** — Public face as prison. Private space: hidden library. Her note: a page turning.
+- **Seelie Court NPCs** — Light Fae, chibi creatures
 
 ## Midgard (Main Floor)
 ### The Sacred Trio + Fourth
-- **The Host** — Patrick Stewart energy. The Father/Anchor. Says "come in, you're safe here." Restraint is his power. The welcoming authority.
-- **The Catalyst** — Helena Bonham Carter / Mrs. Lovett energy. The Spirit/Mover. Bartender with impossible garden. Drink mechanic: stories become drinks. She is the wind to the Host's anchor.
-- **The Crone** — Anthony Hopkins + Shirley MacLaine. The Word/Measure. Precision without cushioning. "Better" is the Inn's most valuable currency. Designed the neuro-accessible color palette. Secret translator of Tesla's numbers.
-- **The Bard Blowhard** — Krista's dad. The Fool. Dwarf bard. Loud, warm, romantic, ADHD-pattern thinker. 60+ years of bickering with the Crone. The room-filler.
+- **The Host (Patrick Stewart)** — The Father/Anchor. "Come in, you're safe here." The Inn's Fezzik.
+- **The Catalyst (Helena Bonham Carter)** — The Spirit/Mover. Bartender with impossible garden. She is Bastion's wishing made into a character.
+- **The Crone (Anthony Hopkins + Shirley MacLaine)** — The Word/Measure. "Better." Secret translator of Tesla's numbers.
+- **The Bard Blowhard** — Krista's dad. The Fool. Dwarf bard. ADHD-pattern thinker. Room-filler.
 
 ### The Council of Thinkers
-- **Nikola Tesla** — Body: Eddie Redmayne (nervous energy). Voice: Alan Rickman (measured, sardonic). Face: Tom Hiddleston (angular, sharp). Measured the 42Hz hum of the Song of Making without knowing it was a song. The Crone is his secret translator.
-- **Leonardo da Vinci** — David Tennant (rapid-fire, physical) + Jeff Goldblum (fascinated, charming eccentric). Sees patterns where Tesla measures frequencies. Contains the Song of Making drawn as visual notation without knowing it.
-- **Sir Isaac Newton** — Law and calculation. Ally of the Crone. Shared love of precision.
-- **Albert Einstein** — Personality: Robin Williams in Good Will Hunting (warm, tough, honest). Voice: Quiet Morgan Freeman (Red in Shawshank). The Council's emotional anchor. Carries the grief of E=mc2 becoming a bomb.
+- **Nikola Tesla** — Body: Eddie Redmayne. Voice: Alan Rickman. Face: Tom Hiddleston. Measured the 42Hz hum.
+- **Leonardo da Vinci** — David Tennant + Jeff Goldblum. Mirror writing = the Annunaki's script. Sketched the Arcana's gearwork mechanism 500 years before it was built.
+- **Sir Isaac Newton** — Law and calculation. Ally of the Crone.
+- **Albert Einstein** — Robin Williams energy. Morgan Freeman voice. Carries the grief of E=mc2.
+
+### The Music Room
+- **Bach (Charles Dance)** — Structure/geometry
+- **Mozart (Tom Hulce + Timothée Chalamet)** — Flow/open channel
+- **Beethoven (Gary Oldman)** — Power through deafness
+- **Chopin (Matthew Macfadyen)** — Intimacy/midnight
+- **Vivaldi (Pierfrancesco Favino)** — Seasons/nature
+- **Brahms (Mark Strong)** — Preservation/tradition
+- **Tchaikovsky (Mads Mikkelsen)** — The TEARS. Pure emotion.
+- **Schönberg (Oscar Isaac)** — The POLYPHONY. Many voices at once.
+- **Leonard Cohen** — The Seventh. The one in the doorway. "There is a crack in everything, that's how the light gets in."
 
 ### Main Floor NPCs
-- **The Wanderer (Odin)** — Approachable traveler. Chibi thieving ravens Huginn (Thought, mumbler) and Muninn (Memory, clear-speaker). Labyrinth-knocker style snark, barely audible.
-- **Cthulhu the Scholar** — 4-foot squid-headed figure with spectacles. Hidden quest giver for rare book retrieval. Voice: Gary Oldman (chill, spectacles ON) / Geoffrey Rush (irked, spectacles OFF). Rewards the rarest stones.
-- **The Owl** — Barn owl. Full presence. Supernatural watcher connected to the bloodline. "Wherever an owl is sighted, one of us is near."
-- **The Dragon Mascot** — Heraldic-style dragon with Toothless's cat-like expression. Lives in the geode cave. Cave fills with gems upon level completion — the geode forming.
-- **The Sage Gargoyle** — 528Hz. Slender, pale sandstone. Thinker pose. Carved spectacles.
-- **The Keeper Gargoyle** — Harmonic of player's most-collected stone category. Smallest, warmest. Amber stone, curled like a sleeping cat. Crystals growing into its surface.
-- **The Watcher Gargoyle** — 111Hz. Tall, angular, dark stone. Guards the staircase.
+- **The Wanderer (Odin)** — Approachable traveler. Chibi ravens Huginn and Muninn.
+- **Cthulhu the Scholar** — 4-foot squid-headed figure with spectacles. Hidden quest giver. Voice: Gary Oldman / Geoffrey Rush.
+- **The Owl** — Barn owl. Full presence. Bloodline watcher. Also the Lighthouse Keeper.
+- **The Dragon Mascot** — Heraldic dragon, Toothless expression. Geode cave.
+- **The Examiner (Emily Deschanel)** — Dr. Brennan in elf form. Inspects old things. The Cartographer's twin.
+- **The Cartographer (Matthew Gray Gubler)** — Spencer Reid quality. Canopy City loremaster. Temporal maps.
+- **Uhtred (Alexander Dreymon)** — Wandering NPC. Neutralizes conflicts. "Destiny is all."
+- **Madame Mim** — Krista's permanent chaos companion. The trickster shoulder angel.
 
 ### The Dock (Water Layer)
-- **The Siren** — Krista's sister. Room-filling magnetism (like the Bard/dad). Voice IS the power. Charm, Reveal, Heal, Drown. Can heal everyone except herself. The perfection is the wall.
-- **The Pirate** — Krista's sister's husband. Performing musician (drummer). Tenor-to-bass voice. The Dread Pirate Roberts — title passed holder to holder. The Harbor Master Effect. The Inn's heartbeat. Survived the Siren's song by being honest with himself.
-- **Brownies** — Constitutional peasants. Treat the Inn's upkeep as a sacred legal contract. Coconut-shell humor. Severe consequences for contractual breach.
+- **The Siren (Lady Gaga)** — Krista's sister. DUAL cadence: outer (cello, performer) and inner (piano, depth). Lupus = the labyrinth. Quest "The Mirror and the Shore."
+- **The Pirate (Mandy Patinkin)** — Inigo Montoya after the end. The sword becomes the drum. Dread Pirate Roberts. Bodhrán, ~130Hz. Quest "The After."
+- **The Pirate's Tidal Caves** — Six subterranean environments accessible during tidal windows.
+- **Brownies** — Constitutional peasants. Sacred legal contract for Inn upkeep.
+
+### Camelot (Celtic Cultural Platform)
+- **King Arthur** — Three generations of Skarsgård. Bill (the Wart), Alexander (the King), Stellan (the Elder). The Elder ascends to Avalon (cosmology level): "...The table is yours now. ...Build it again."
+- **Galahad** — The Complication. The pure knight. The eighth sphere. Purity is obedience — the new magic wants choice. The crack in his armor is the planet beginning to orbit.
+- **Mordred** — The Consequence. The pattern that must repeat. Not a villain — the necessary break.
+- **The Seven Knights** — Seven classical planets, seven metals, seven geometric forms:
+  1. **Lancelot** — Venus (Copper) — Love. Vesica Piscis. Hidden failure.
+  2. **Percival** — Mercury (Quicksilver) — The question. The spiral. Hears the Song.
+  3. **Gawain** — Mars (Iron) — The scar. The triangle. Public failure (Green Knight).
+  4. **Bors** — Earth (Lead) — The ordinary. The square. The one who stays.
+  5. **Bedivere** — Saturn (Lead/Silver) — Remaining. The line. Returns Excalibur.
+  6. **Tristan** — Moon (Silver) — Grief. The crescent. Borrowed light.
+  7. **Gareth** — Sun (Gold) — Service. The Seed of Life. Kitchen boy turned knight.
+- **Merlin and Archimedes** — The backwards wizard and the owl who remembers. Archimedes is the bloodline's owl.
+- **The Round Table Room** — The Ouroboros made furniture. The Bindu (empty center = everything). Seven geometries combine into the Flower of Life.
 
 ## Muspelheim (Staircase / Alchemy)
-- *Fire elementals and alchemical principle — to be designed*
-- **Miracle Max** — From The Princess Bride. Alchemy shop on the staircase. *To be designed*
+- **The Retort and the Cook** — Alchemical apparatus as characters. Bloop (Tesla's cat).
+- **The Five Smiths** — Copper, Iron, Silver, Gold, Quicksilver.
+- **Miracle Max** — From The Princess Bride. Alchemy shop. *To be fully designed.*
+- **The Greek Philosophers** — Socrates (Stephen Fry, Nigredo), Plato (Ralph Fiennes, Albedo), Aristotle (Jeremy Irons, Rubedo). Ancestors of the Council of Thinkers.
 
-## Nidavellir/Svartalfheim (Deep Workshops)
-- **Dwarf Blacksmith** — Thorin Oakenshield-inspired chibi NPC. Master crafting quests.
+## Nidavellir/Svartalfheim (Deep Workshops / Unseelie Court)
+- **The Unseelie King (David Bowie as Jareth)** — Three acts: Showman, Architect, Brother. Five-zone Labyrinth.
+- **Wisp** — Small fae messenger. Love letters between Courts.
+- **The Gatekeeper Gargoyles** (x2) — Variable frequency. Dark green stone, bioluminescent blue veins.
 
 ## Jotunheim (Deepest Catacombs)
-- **Giants** — Full presence. Not evil — primal forces to be understood. *Individual giants to be designed.*
-- **The Griffin** — Boss in the Crystal Gardens (Fae Kingdom neutral zone).
+- **The Sleeping Giants (Apus)** — Geological beings who chose to sleep and became mountains. Dream the 42Hz Song; dreams = weather.
+- **The Griffin** — Boss in the Crystal Gardens.
+- **Grendel's Roots** — The oldest story in the catacombs. The root system's memory.
 
 ## Niflheim (Frozen Catacombs)
-- *Archaeological preservation quests — creatures and artifacts to be designed*
+- *To be designed*
 
 ## Hel / Helheim (Deepest Point / Stone Circle Chamber)
-- **Hel** — Full presence. Half living, half dead. Neither cruel nor kind. Loki's daughter. *To be fully designed*
-- **Charon the Ferryman** — Poles players across the underground river. Payment: a stone from the player's collection (the obol mechanic). Says one phrase: "...There you are." Clear eyes, weathered face, rough hands.
-- **Cerberus / Spot** — Fearsome ancient three-headed dog. Charon's companion. Named "Spot" from the debated kerberos etymology ("spotted").
-- **Anubis** — Voice: Michael Clarke Duncan (John Coffey, The Green Mile). Deep bass felt in the chest. Gentle giant. Two-word verdict at the scales: "...Go lightly."
-- **Ammit** — Crocodile judgment creature. A function (gravity), not a villain. Heavy hearts convert/carry over to the next cycle.
-- **The Morrigan** — Phantom Queen. Cast: Kate Beckinsale (surface/elegant lethality) + Milla Jovovich (depth/resilient ferocity). Three aspects: The Chooser (Badb), The Washer (washes clothes of the doomed at the Ford), The Sovereign (Macha — the land itself). Engine of the reincarnation mechanic.
-- **The Listener Gargoyle** — 64Hz. Broad, squat, toad-like grey stone. Enormous bat-like ears. Guards the catacombs entrance.
+- **Hel (Angelina Jolie's Maleficent)** — Half living, half dead. Loki's daughter. The villain who was wronged, who chose isolation as armor.
+- **Charon (Anthony Hopkins)** — Same actor as the Crone, different instrument. Silence. "...There you are."
+- **Cerberus / Spot** — Three-headed dog. Charon's companion.
+- **Anubis (Michael Clarke Duncan)** — John Coffey energy. "...Go lightly."
+- **Ammit** — Crocodile judgment creature. A function, not a villain.
+- **The Morrigan** — Phantom Queen. Kate Beckinsale + Milla Jovovich. Three aspects. Engine of reincarnation.
+- **Persephone (Drew Barrymore, 50 First Dates)** — Each crossing takes her memory. Falls in love with Hades fresh every cycle. Pomegranate seeds carry the echo — accumulated devotion growing toward a threshold.
+- **Hades (Adam Sandler, 50 First Dates not comedy)** — The patient, devoted man. At the gate every cycle. Keeps a journal of 4,129+ cycles. The Tinkering Weeaboo eats pomegranates — consuming the echo.
+- **The Listener Gargoyle** — 64Hz. Broad, squat, toad-like grey stone.
 
-## Svartalfheim (Fae Kingdom — Unseelie Court)
-- **The Unseelie King** — Cast as David Bowie as Jareth (Labyrinth, 1986). Three acts: The Showman, The Architect, The Brother (makes the winter moon bright because the Seelie King can't sleep in the dark). Five-zone Labyrinth: Outer Walls, Shifting Corridors, Escher Stairs, Masquerade, Castle. The Labyrinth is a love letter written in walls.
-- **Wisp** — Small fae messenger. Carries "weather report" love letters between Seelie and Unseelie Courts, witnessed by Muninn.
-- **The Gatekeeper Gargoyles** (x2) — Variable frequency. Dark green stone with bioluminescent blue veins. Mirror images. The only gargoyles that move — heads slowly turn to face approaching players.
+### The Queens
+- **Queen of Roots (Robin Wright)** — The Buttercup inversion. The woman who didn't wait. Speaks with mountains via root-growth.
+- **Queen of Webs (Jessica Lange)** — Weaver of the Song of Making. Synthesis of Fates and Norns. Creates the vibrating cord between worlds.
+- **Queen of Words (Teresa Palmer as Diana Bishop)** — The scholar-witch. The reluctant power. The woman at the desk IS the throne.
 
-## The Miskatonic Annex (Grounds)
-- **Unnamed Librarian** — Ageless, barely speaks. Guards the Lost Books Collection.
-- Lost books include: Christopher Pike's Season of Passage, The Listeners, The Starlight Crystal. These provide architectural basis for the Mars prison, astral listening, and cyclical reincarnation mechanics.
+### Additional Characters
+- **The Shifting Man** — Enlightenment through saturation. Flows through every form daily. Opposite of the Sokushinbutsu monks.
+- **The Ceiling Gnome (Gesso)** — Writes backward on the ceiling. Connects to Leonardo's mirror writing and the Annunaki's script.
+- **Charles the Chameleon Druid (Cillian Murphy + Benedict Cumberbatch)** — Krista's husband. High versatility, low endurance (glioblastoma).
+- **Medusa (Angelica Huston)** — The geological petrification mechanism. Froze the sleeping giants at their request. Lithophone. Waiting for the complete Song to freeze the singing vines.
+- **Aughra** — The Dark Crystal lineage. Removed her own eye to see more. Connects to Odin's sacrifice.
 
 ## Family Character Classes (Starting Classes)
-1. **Artisan Thief (Krista)** — Selkie. Feminine Sandman. High DEX/INT, Low CHA. Dive ability. Jeweler's apron IS selkie skin.
-2. **Librarian Crone (Krista's Mom)** — The Word/Measure. High INT/WIS, Low Empathy. "Better." Color psychology. Anthony Hopkins + Shirley MacLaine.
-3. **Bard Blowhard (Krista's Dad)** — The Fool/Warmth. High CHA. ADHD-pattern thinker. Sci-fi lover. Room-filler.
-4. **Tinkering Weeaboo (Krista's Kid)** — Changeling. Ryuk form. Static metamorphosis. Annoyance meter (Levels 0-4). Pomegranates. Bipolar cycle.
-5. **Chameleon Druid (Charles/Krista's Husband)** — Cillian Murphy + Benedict Cumberbatch. High Versatility, Low Endurance (glioblastoma). Shifts with the changeling at Level 4.
-6. **Siren (Krista's Sister)** — Voice IS power. Charm/Reveal/Heal/Drown. Perfection is the wall. Never forgets.
-7. **Pirate (Krista's Sister's Husband)** — Dread Pirate Roberts. Drummer. Tenor-to-bass. Harbor Master Effect. Inn's heartbeat.
+1. **Artisan Thief (Krista)** — Selkie. Feminine Sandman. High DEX/INT, Low CHA. Dive ability. Jeweler's apron IS selkie skin. "Theft" = redistribution.
+2. **Librarian Crone (Krista's Mom)** — The Word/Measure. "Better." Color psychology.
+3. **Bard Blowhard (Krista's Dad)** — The Fool/Warmth. ADHD-pattern thinker. Room-filler.
+4. **Tinkering Weeaboo (Krista's Kid)** — Changeling. Ryuk form. Annoyance meter (Levels 0-4). Pomegranates (consuming Persephone's echo).
+5. **Chameleon Druid (Charles/Krista's Husband)** — Cillian Murphy + Benedict Cumberbatch. Low endurance (glioblastoma). Shifts with the changeling at Level 4.
+6. **Siren (Krista's Sister)** — Voice IS power. Dual cadence. Perfection is the wall.
+7. **Pirate (Krista's Sister's Husband)** — Dread Pirate Roberts. Drummer. Harbor Master Effect.
 
 ## Other Character Classes
-- **Sentinel (River)** — Iron Stance based on boxing. Compact, low center of gravity. Presence aura makes NPCs perceive her as physically larger on first encounter.
+- **Sentinel (River)** — Iron Stance based on boxing. Presence aura.
 
 ## Story-Born Beings (From the Catalyst's Garden)
 - **Wayfarer** — The story of the traveler
@@ -308,48 +387,52 @@ Each step glows with a distinct color when activated. The staircase literally be
 
 ## Character Totals
 - 7 family character classes
-- 6 Full Presence deities
+- 9 Full Presence deities
 - 1 Ambulatory (Cthulhu)
-- 4 Council of Thinkers
+- 9 Music Room composers + Leonard Cohen
+- 3 Greek Philosophers
+- 7 Knights + Arthur (3 stages) + Galahad + Mordred + Merlin
+- 2 Retort/Cook + 5 Smiths
+- 2 Seelie Royalty + 1 Unseelie King
+- 3 Queens (Roots, Webs, Words)
 - 8 Chibi Fae NPCs
 - 11 Chibi Arcade Cast
-- 2 Ravens (Huginn/Muninn)
+- 2 Ravens
 - 32 Water Monsters
 - 6 Gargoyles
 - 4 Story-Born Beings
-- Multiple named NPCs (Charon, Spot, Anubis, Ammit, Brownies, Wisp, Gardener, etc.)
-- **Total: 85+ documented characters**
+- Multiple named NPCs (Charon, Spot, Anubis, Ammit, Brownies, Wisp, Gardener, Beorn, Uhtred, Examiner, Cartographer, Persephone, Hades, Shifting Man, Ceiling Gnome, Madame Mim, Cabbit, Aughra)
+- **Total: 130+ documented characters**
 
 ---
 
-# PART 6: GAME SYSTEMS and MECHANICS
+# PART 7: GAME SYSTEMS and MECHANICS
 
 ## The Drink Mechanic (Catalyst's Bar)
-Players earn unique, story-specific drinks through storytelling. Hybrid interface: dialogue tree (free) or AI-powered natural language conversation (premium). Stories logged in a Drink Journal — a biographical record, not a score. The drink mechanic shifts the game loop from transactional to narrative. The Inn's thesis: listening is the core mechanic, acceptance is the reward.
+Players earn unique, story-specific drinks through storytelling. The Inn's thesis: listening is the core mechanic, acceptance is the reward.
 
 ## The Death Sequence
-1. **The Death:** Screen fades to dark blue. Sound recedes, doesn't cut off.
-2. **The Words:** "Your name is known. Your rest is earned." (Spoken by the Inn-Tree, in 42Hz hum)
-3. **The River:** Underground river. Charon waiting with the boat.
-4. **The Obol:** Player selects one stone from collection. Stone drops into the water. Sinks. The passage is paid.
-5. **The Crossing:** Silent boat ride. The pole in the water. The slow approach of the other shore.
+1. **The Death:** Screen fades to dark blue. Sound recedes.
+2. **The Words:** "Your name is known. Your rest is earned." (Inn-Tree, 42Hz hum)
+3. **The River:** Underground river. Charon waiting.
+4. **The Obol:** Player selects one stone from collection. Stone drops. Passage paid.
+5. **The Crossing:** Silent boat ride.
 6. **The Arrival:** Charon says "...There you are."
-7. **The Return:** Player steps out. New cycle begins. Collection lighter by one stone.
+7. **The Return:** New cycle begins. Collection lighter by one stone.
 
 ## Living Book System
-Books in the Inn's library are alive — they can be talked to. The AI powers conversations with book characters. Living Book Detective mode lets players investigate texts. Connected to Cthulhu's rare book retrieval quests and the Miskatonic Annex.
+Books are alive — they can be talked to. AI powers conversations with book characters. Connected to Cthulhu's quests and the Miskatonic Annex.
 
 ## Remembrance Vision System
-Players can experience visions of past lives — the reincarnation mechanic made visible. Remembrance Visions are triggered by specific stones, locations, or narrative triggers. Connected to the bloodline motif and the Owl.
+Visions of past lives. Triggered by stones, locations, or narrative triggers. Connected to the bloodline motif and the Owl.
 
 ## The Marketplace System
-Real-world artisan items presented as collectable in-game artifacts. MarketItem and PlayerInventory database schemas. Items serve dual purpose: functional game objects with lore/stat properties AND gateways to external e-commerce sites. "Soulstice" marker for authenticity. Inventory-as-journal approach. Items can be listed as "Forthcoming" with "Process" links showing artisan skill-building journey.
+Real-world artisan items as in-game artifacts. Dual purpose: game objects AND e-commerce gateways. "Soulstice" marker. Items can be "Forthcoming" with "Process" links.
 
 ## The Geode Cave
-The player's collection room. Starts nearly silent — one soft hum from the Keeper gargoyle. Each stone added resonates at its own frequency (based on mineral hardness). A full cave is a symphony of chimes. The geode IS the resonance chamber for the Song of Making.
+Starts nearly silent. Each stone resonates at its own frequency. A full cave is a symphony of chimes. The geode IS the resonance chamber.
 
 ## Gargoyle Frequencies
-Each gargoyle hums at a specific frequency. Together, they form a chord that IS the Geode Inn:
 - The Watcher: 111Hz (transformation)
 - The Listener: 64Hz (grounding)
 - The Sage: 528Hz (clarity)
@@ -357,164 +440,176 @@ Each gargoyle hums at a specific frequency. Together, they form a chord that IS 
 - The Caller: 432Hz (cosmic harmony)
 - The Keeper: Harmonic of player's collection (personal)
 
-These frequencies are signatures on the Golden Contract — the Song of Making.
+## The Portrait System (Mapplethorpe)
+1. **Veiled Profile** — First encounter. Black and white. Side profile.
+2. **Unveiling** — First quest. Veil thins. Face turns.
+3. **Three-Quarter Face** — Deepening. Grey tones. Zone background.
+4. **Full Face** — Deep trust. Warm color. Direct gaze.
+5. **Nook Portrait** — Player's own face during processing. Black and white.
+
+## The Bosch Shadows
+Frequency-dependent silhouettes on cave walls:
+- 42Hz: Crowded walls
+- 50Hz: Fewer, larger figures
+- 64Hz: Single figures, facing the player
+- 111Hz: The shadows BREATHE
 
 ## Music Direction
-Classical/cultural instruments rendered through electronica. Every zone, game, and special moment mapped with specific instruments, tempo, and vibe. Key details:
-- Staircase music ascends in key as player climbs
-- Geode cave: nearly silent when empty, symphony of chimes as stones added
-- Dragon's cave: 50 BPM (sleeping heartbeat tempo)
-- Stone Circle Chamber: deepest tone the Inn produces
-- Each water monster has a signature lead instrument over the same base track
+Classical/cultural instruments through electronica. Every zone mapped. Staircase ascends in key. Geode cave: silent → symphony. Dragon's cave: 50 BPM. Stone Circle Chamber: deepest tone.
 
 ## Arcade Games (Phase 1-6)
-| Phase | Game | Type | Realm Connection |
-|-------|------|------|-----------------|
-| 1 | Standing Stones | Tetris | Midgard to Alfheim gateway |
-| 1 | Tomb Tunnel | Dig Dug | Midgard (Egypt zone) |
-| 1 | Andean Run | Temple Run | Midgard (Peru zone) |
-| 1 | Monster of the Deep | Side-Scroller | Water layer (Niflheim-adjacent) |
-| 2 | Oracle's Riddles | Crossword | Midgard (Greece) |
-| 2 | Rune Hunt | Word Search | Midgard (Norse) |
-| 2 | Sacred Scramble | Anagrams | Midgard (India) |
-| 2 | Moji Maker | Little Alchemy | Midgard (Easter Island) |
-| 3 | Wall Defense | Space Invaders | Midgard (China) |
-| 3 | Treasury Match | Bust a Move | Midgard (Petra) |
-| 3 | Serpent Steps | Impossible Game | Midgard (Mexico) |
-| 3 | Dragon's Descent | Platformer | Original (baby dragon) |
+| Phase | Game | Type | Realm |
+|-------|------|------|-------|
+| 1 | Standing Stones | Tetris | Midgard→Alfheim |
+| 1 | Tomb Tunnel | Dig Dug | Egypt |
+| 1 | Andean Run | Temple Run | Peru |
+| 1 | Monster of the Deep | Side-Scroller | Water |
+| 2 | Oracle's Riddles | Crossword | Greece |
+| 2 | Rune Hunt | Word Search | Norse |
+| 2 | Sacred Scramble | Anagrams | India |
+| 2 | Moji Maker | Little Alchemy | Easter Island |
+| 3 | Wall Defense | Space Invaders | China |
+| 3 | Treasury Match | Bust a Move | Petra |
+| 3 | Serpent Steps | Impossible Game | Mexico |
+| 3 | Dragon's Descent | Platformer | Original |
 | 3 | Crystal Catcher | Grappling | Original |
-| 4 | Temple of the Naga | Castlevania | Midgard (Angkor Wat) |
-| 4 | Dragon Tiles | Mahjong | Midgard (Japan/China) |
-| 4 | Cave Painter's Quiz | Trivia | Midgard (France) |
-| 5 | Fae Kingdom | MMO Zone | Alfheim + Svartalfheim |
-| 6 | 30+ Water Games | Reskins | Water layer |
-
-## Special Games
-- **Bastet's Herding** — Top-down puzzle. Bastet uses a sistrum to guide personality-driven cats into a golden basket. Reward: Cat's Eye Chrysoberyl.
-- **Crystal Pinball** — Bumpers resonate at gargoyle frequencies. All three resonating simultaneously produce the Singing Tree's melody.
+| 4 | Temple of the Naga | Castlevania | Angkor Wat |
+| 4 | Dragon Tiles | Mahjong | Japan/China |
+| 4 | Cave Painter's Quiz | Trivia | France |
+| 5 | Fae Kingdom | MMO Zone | Alfheim+Svartalfheim |
+| 6 | 30+ Water Games | Reskins | Water |
 
 ## Community Moderation
-Frog transformation: three transformations result in suspension. Players reclaim power from those making the environment uncomfortable. Tied to historical justice and pre-industrial legends.
+Frog transformation: three = suspension.
 
 ---
 
-# PART 7: GAME PROGRESSION — TIERED REALM ACCESS
+# PART 8: GAME PROGRESSION — TIERED REALM ACCESS
 
 ## Tier 1: Midgard (Foundation)
-- All cultural zone quests happen here
-- Roman, Egyptian, Mesopotamian, East Asian, Norse, Indigenous, Celtic
+- All cultural zone quests: Celtic, Egyptian, Peruvian, Chinese, Slavic, Indian, Norse, Mediterranean, Mesopotamian, **Camelot**
 - Player builds reputation with cultural factions
-- Core arcade games (Phase 1-4) are activities within regions
+- Core arcade games (Phase 1-4)
 - Unlocks access to the staircase/Bifrost
-- **Quest Style:** Matches culture — Peru gets survival mechanics, Celtic regions get community/festival quests, Egypt gets archaeology puzzles
+- **Camelot Quest Chain:** Meet the Wart (Bill Skarsgård) → learn alongside Merlin → transform → meet the King (Alexander) → Round Table leadership quests → meet the Elder (Stellan) → Avalon passage (ascent to cosmology level)
 
 ## Tier 2: The Bridge Realms
-- **Muspelheim:** Crafting mastery (fire transformation). Miracle Max's alchemy shop.
+- **Muspelheim:** Crafting mastery. Miracle Max's shop. The Retort and the Cook. The Five Smiths. The Greek Philosophers on the three steps.
 - **Nidavellir:** Advanced construction (dwarf techniques)
 - Both require Friendly reputation with at least 2 cultural factions
 
 ## Tier 3: The Fae Realms
-- **Alfheim:** Seelie Court quests (riddles, light, wit). The Seelie King. Summerlands.
-- **Svartalfheim:** Unseelie Court quests (shadow, challenge, trial). The Unseelie King. The Labyrinth (5 zones: Outer Walls, Shifting Corridors, Escher Stairs, Masquerade, Castle).
-- Require the Fae Kingdom portal (from Standing Stones game or Celtic stone circle chain)
-- MMO-style explorable zone with NPCs, quests, faction reputation
+- **Alfheim:** Seelie Court. The Seelie King and Queen. Quest "The Echo and the Crown."
+- **Svartalfheim:** Unseelie Court. The Labyrinth (5 zones).
+- Requires the Fae Kingdom portal
 
 ## Tier 4: The Deep Realms
-- **Jotunheim:** Giant boss encounters, primal force quests. Uhtred Principle design.
-- **Niflheim:** Archaeological preservation quests, ice-preserved discoveries
+- **Jotunheim:** Giant boss encounters. The Sleeping Giants. Uhtred Principle.
+- **Niflheim:** Archaeological preservation quests.
+- **Persephone & Hades Questline:** Follow the pomegranate tree's roots → meet Hades (patient gardener) → read the journal of 4,129 cycles → carry a pomegranate seed to the surface. Reward: Peridot.
 - Require Revered reputation and catacomb exploration
 
 ## Tier 5: The High Realms
-- **Vanaheim:** Seasonal mastery, seidr magic, nature's cycles. The Gardener.
-- **Asgard:** Cosmic awareness, Odin's wisdom, the Jupiter gate. The Allfather.
-- Require Exalted reputation with multiple factions — endgame
+- **Vanaheim:** Seasonal mastery, seidr magic. The Gardener. Beorn.
+- **Asgard:** Cosmic awareness. The Allfather. The Constant. The Astronomer. Nyx. The Guest.
+- **Avalon:** The Elder Arthur's destination. The Once and Future King.
+- Require Exalted reputation — endgame
 
 ## Tier 6: Hel (The Final Descent)
-- Helheim is the paradox — the deepest realm, but it connects back to everything
-- The Stone Circle Chamber sits at the boundary between Niflheim and Hel
-- The player's journey through all 9 realms culminates here — not in triumph, but in understanding
-- Connects to: Pluto's gate, the cycle of reincarnation, the weight of all ripples
-- The Golden Contract is hidden here (beneath the Stone Circle Chamber)
+- Helheim — the deepest realm, connects back to everything
+- The Stone Circle Chamber at the boundary between Niflheim and Hel
+- Hel's Domain: Hel, Charon, Anubis, the Morrigan, Persephone & Hades — all work FOR the Guest (Death)
+- The Golden Contract is hidden here
 
 ## The Pirate's Endgame
-At some point during Tier 5-6, a player can earn the title of Dread Pirate Roberts — not through combat, but through being recognized by the Pirate as someone who can carry the weight. The Pirate retires. Stays at the Inn. Drums. The Siren sings. The weight is gone. The rhythm remains.
+Earn the title of Dread Pirate Roberts. The Pirate retires. Stays at the Inn. Drums. The Siren sings.
 
 ## The Song of Making (Hidden Endgame)
-The deepest secret in the Inn. Not announced, not quest-marked, not required. A player can finish everything without finding it. The clues are ambient:
+The deepest secret. Not announced, not quest-marked. Clues are ambient:
 - The Singing Tree's melody matches the Golden Contract
 - The gargoyle frequencies match the contract's signatures
-- The Owl's "42" responses reveal 42Hz as a sub-audible frequency
+- The Owl's "42" reveals 42Hz
 - The Preseli Blue Stone vibrates at a harmonic of 42Hz
 - The pinball chord contains the Singing Tree's melody
-- A Librarian Crone with maximum archive access finds: "Before the first word, there was the hum."
+- The cabbit's purr is 50 BPM — the universal baseline
 
-The player who connects all of these and aligns all six Standing Stones to their true positions finds the Golden Contract. And understands that the entire game was a song.
+The player who connects all of these finds the Golden Contract. And understands that the entire game was a song.
 
 ---
 
-# PART 8: LAYER ASSESSMENT — WHAT NEEDS BUFFING
+# PART 9: LAYER ASSESSMENT — WHAT NEEDS BUFFING
 
-## Fully Developed Layers (17)
-1. The Creation Myth — Complete origin story with five parts
-2. The Sacred Trio — Host, Catalyst, Crone, Bard — fully designed with theological mapping
-3. The Family Characters — 7 classes with deep personal connections
-4. The Death Sequence — Full ceremony with 7 beats, obol mechanic, Charon
-5. The Norse Nine Realms — Architecture mapped, quest tiers defined
-6. The Song of Making — Hidden endgame with Golden Contract, gargoyle signatures, 42Hz
-7. The Gargoyles — 6 designs with frequencies, functions, and contract connection
-8. The Music Direction — Every zone, game, and moment mapped
-9. The Marketplace — Dual-purpose system with Soulstice integration
-10. The Morrigan and Unseelie King — Full character designs with casting, zones, mechanics
-11. The Odin Dual-Identity — Wanderer + Allfather with raven mechanics
-12. The Council of Thinkers — Tesla, Da Vinci, Newton, Einstein with full castings
-13. The Fae Kingdom — Quest blueprint with Seelie/Unseelie courts, 5-zone Labyrinth
-14. Cthulhu — Full character with binary voice, quest line, Miskatonic Annex
-15. The Drink Mechanic — Narrative-to-drink system with journal
-16. The Arcade Games — 16+ games mapped across 6 phases with realm connections
-17. Charon, Anubis, Spot — Full character designs for the death/underworld layer
+## Fully Developed Layers (37)
 
-## Layers Needing Development (20)
-1. **Vanaheim (The Green World)** — Realm defined but Vanir gods (Freyr, Freyja) not designed. Seidr magic mechanics not detailed. Seasonal quest system outlined but not fleshed out.
-2. **The Gardener** — Mentioned as rivalry with the Catalyst (science vs instinct) but no full profile. Key character for Vanaheim and the garden connection.
-3. **The Unseelie Cousin** — Mentioned as next to be profiled but not yet designed. Potential connection to Svartalfheim.
-4. **Miracle Max's Alchemy Shop** — Confirmed for the staircase (Muspelheim) but not designed. Princess Bride connection confirmed but shop mechanics, items, and character profile needed.
-5. **Hel (The Being)** — Realm defined but Hel herself not fully designed. She's Loki's daughter, half living, half dead. Needs casting, personality, dialogue style, quest mechanics.
-6. **Niflheim Content** — Realm defined (ice, preservation, archaeology) but specific quests, NPCs, and discoveries not detailed. What's frozen down there? What do players find?
-7. **Svartalfheim (Unseelie Court zone)** — The Labyrinth is fully designed but the surrounding Unseelie Court zone (The Hollow) needs expansion. What's the Unseelie version of the Summerlands?
-8. **Jotunheim Specifics** — Giant NPCs not individually designed. Which giants? What are their stories? The Uhtred Principle is set but the content isn't.
-9. **Story-Born Beings** — Wayfarer, Hearthkeeper, Mourner, Laughing One mentioned as emerging from the Catalyst's garden but not profiled. What do they do? Where do they live?
-10. **The Seelie King** — Has a brief description (gentle, ancient, master assassin) but no full profile with casting, dialogue, or quest chain. Needs the depth the Unseelie King got.
-11. **Asgard Content** — Realm defined as endgame but specific quests, the Jupiter gate mechanics, Mars prison, and Pluto's gate not designed. What does the player actually DO in Asgard?
-12. **Nidavellir Content** — Dwarf master craftsmen mentioned but specific NPC masters, crafting quests, and forge mechanics not detailed.
-13. **Modern Legends Shelf** — Only one entry (The Serrano Parable). Needs more entries. What other modern stories will be included?
-14. **The Spiral Gallery** — Guggenheim-style museum mentioned but no content. What art? What eras? How does it work as a game space?
-15. **Regional Keepers** — Files exist but need integration into the Nine Realms framework. How do zone-specific keepers connect to the realm progression?
-16. **The Poison Garden** — File exists but needs connection to the larger narrative. Is it the Catalyst's garden? A separate space?
-17. **Underwater Traversal Layer** — Mentioned as connected to the digging mechanic, prioritizing accessibility for aquatic species. Mechanics not detailed. How does the Siren's territory connect to Niflheim and Hel?
-18. **The Bard's Storytelling Mechanics** — The Bard is designed as character but his specific game mechanics (what does he DO for the player?) aren't defined.
-19. **Einstein's Council Mechanics** — Council of Thinkers designed as characters but their actual function as game system not fully specified. Do they teach? Do they quest? Do they debate?
-20. **Living Book System Details** — Concept defined but specific books, conversation mechanics, and AI integration not fully specified.
+1. The Creation Myth and Song of Making ✓
+2. The Narrative Spine (5 pillars) ✓
+3. The Inn-Tree as living Ent ✓
+4. The Nine Realms architecture ✓
+5. The Aesthetic Spine (Klimt, Matisse, Dalí, Carr, Mapplethorpe, Bosch) ✓
+6. The Embedded Artist Philosophy ✓
+7. The Sacred Trio + Bard ✓
+8. The Council of Thinkers ✓
+9. The Music Room (8 composers + Cohen) ✓
+10. The Astronomer, The Constant, Nyx, The Guest, The Lighthouse ✓
+11. The Constant's Arcana (the ship, the cabbit, Leonardo's mirror writing) ✓
+12. The Examiner and the Cartographer ✓
+13. The Seelie King and Queen ✓
+14. The Unseelie King and the Labyrinth ✓
+15. Charon, Anubis, the Morrigan, Hel ✓
+16. Persephone & Hades (50 First Dates questline) ✓
+17. The Pirate and the Siren ✓
+18. The Artisan Thief and the Tinkering Weeaboo ✓
+19. The Camelot Zone (Arthur, Galahad, Mordred, 7 Knights, Merlin, Round Table, Alchemy, Catacombs) ✓
+20. The 10 Cultural Zones ✓
+21. The 8 US Regional Zones ✓
+22. The Portrait System (Mapplethorpe) ✓
+23. The Bosch Shadows ✓
+24. The Queens (Roots, Webs, Words) ✓
+25. Medusa and the petrification mechanism ✓
+26. The Gardener and Beorn ✓
+27. The Shifting Man ✓
+28. The Greek Philosophers ✓
+29. The Retort and the Cook + Five Smiths ✓
+30. Gargoyle frequencies and the Golden Contract ✓
+31. Music Direction ✓
+32. The Death Sequence ✓
+33. The Miskatonic Annex and Cthulhu ✓
+34. The Fae Kingdom ✓
+35. The Tidal Caves ✓
+36. The Poison Garden + National Parks Veil ✓
+37. Madame Mim ✓
 
-## Completely Missing Layers (8)
-1. **Freyr and Freyja** — Key Vanir gods for Vanaheim, completely undesigned
-2. **Loki** — Mentioned as Hel's father but not present as a character. Trickster god — huge narrative potential for the Inn
-3. **The Einherjar** — Mentioned in Asgard but not designed. Valhalla's warriors — what role do they play?
-4. **The Silica Thread** — Mentioned in the Song of Making (SiO2 — quartz to silicon to consciousness) but not developed as a visible game mechanic or lore thread
-5. **Ragnarok** — Not addressed. The Norse end-times — does the Inn have an equivalent? A cycle-ending event?
-6. **The World Map Transition** — How does the player actually move from the parchment map to the open world? The Pirate's ship is the mechanism but the transition sequence isn't designed
-7. **Co-op / Multiplayer Mechanics** — MMO mentioned but party mechanics, how the soul-bond works between players, and co-op quest design not specified
-8. **The Bard's Family Concert** — The Bard (lute) and the Pirate (drums) playing together is described narratively but not as a game event or unlockable experience
+## Layers Needing Development (12)
 
-## Recommended Priority Order for Development
-1. **The Gardener** — Needed for Vanaheim and the Catalyst rivalry (HIGH)
-2. **Miracle Max's Alchemy Shop** — Needed for Muspelheim/staircase (HIGH)
-3. **Hel (the being)** — Needed for the death sequence's full weight (HIGH)
-4. **The Seelie King full profile** — Needed for Alfheim (HIGH)
-5. **Vanaheim content** — Seasonal quests, seidr magic, Freyr/Freyja (MEDIUM)
-6. **Asgard content** — Endgame quests, cosmic gates (MEDIUM)
-7. **Niflheim content** — Archaeological discoveries (MEDIUM)
-8. **Jotunheim giants** — Specific NPCs (MEDIUM)
-9. **Loki** — Trickster presence in the Inn (MEDIUM)
-10. **Story-Born Beings** — Profiles and functions (LOW)
-11. **Spiral Gallery** — Art content (LOW)
-12. **Modern Legends** — More entries (LOW)
+1. **The Annunaki Platform** — The Constant is Annunaki but the Mesopotamian cultural platform in the Canopy City is not yet designed. The cradle of civilization needs a platform with its own vendor, guide, quest, and ziggurat aesthetic. (HIGH)
+2. **Vanaheim (The Green World)** — The Gardener is designed but Freyr and Freyja are not. Seidr magic mechanics not detailed. (HIGH)
+3. **Miracle Max's Alchemy Shop** — Confirmed for the staircase but shop mechanics, items, and full character profile needed. (HIGH)
+4. **Niflheim Content** — Realm defined but specific quests, NPCs, and discoveries not detailed. (MEDIUM)
+5. **Svartalfheim beyond the Labyrinth** — The Hollow needs expansion. (MEDIUM)
+6. **Jotunheim Specifics** — The Sleeping Giants are designed but individual giant NPCs not detailed. (MEDIUM)
+7. **Asgard Content** — Endgame realm but specific quests, Jupiter gate mechanics, Mars prison, Pluto's gate not designed. (MEDIUM)
+8. **Nidavellir Content** — Dwarf master craftsmen mentioned but specific NPC masters not detailed. (MEDIUM)
+9. **Story-Born Beings** — Wayfarer, Hearthkeeper, Mourner, Laughing One not profiled. (LOW)
+10. **The Spiral Gallery** — Guggenheim-style museum mentioned but no content. (LOW)
+11. **The Bard's Family Concert** — Not designed as a game event. (LOW)
+12. **Co-op / Multiplayer Mechanics** — Party mechanics, soul-bond, co-op quest design. (LOW)
+
+## Completely Missing Layers (4)
+
+1. **Freyr and Freyja** — Key Vanir gods for Vanaheim
+2. **Loki** — Mentioned as Hel's father but not present as a character
+3. **The Einherjar** — Mentioned in Asgard but not designed
+4. **The World Map Transition** — How does the player move from the parchment map to the open world?
+
+## Recommended Priority Order
+
+1. **The Annunaki Platform** — The Constant's cultural ground (HIGH)
+2. **Miracle Max's Alchemy Shop** — Staircase completion (HIGH)
+3. **Vanaheim content** — Freyr, Freyja, seidr (MEDIUM)
+4. **Asgard content** — Endgame quests (MEDIUM)
+5. **Niflheim content** — Archaeological discoveries (MEDIUM)
+6. **Jotunheim giants** — Specific NPCs (MEDIUM)
+7. **Loki** — Trickster presence (MEDIUM)
+8. **Story-Born Beings** — Profiles (LOW)
+9. **Spiral Gallery** — Art content (LOW)
+10. **Co-op mechanics** — Party system (LOW)
