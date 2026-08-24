@@ -568,3 +568,77 @@ Eight arms. Each one a different direction. Each one a different relationship wi
 ### The Crone's Final Annotation
 
 "...I have been informed by [the Catalyst, who grows things and knows things, who looked at my measurements and said 'three hearts' and walked away] that the coast is an octopus. I have verified: three synchronized heartbeats. Eight radial paths. One central body. Blue copper conduction. The evidence is... consistent. I do not understand how a coast can be an octopus. I do not understand how a four-foot scholar in a library annex can be a coastline's biology. I do not understand. But I understand the reason. The reason is: it is alien. The alien does not need me to understand it. The alien needs me to MEASURE it. I have measured. Three hearts. Eight arms. One body. The body is adequate. The octopus is adequate. I have written 'adequate' too many times this evening. This annotation is adequate. I am going to bed."
+
+---
+
+## Part Nine: Three Zones, One Octopus — Atlantis, the Coast, and the Cave
+
+### The Octopus's Three Worlds
+
+An octopus has three worlds it moves between:
+
+1. **The Deep** — where the octopus came from. The open water. The origin. The place where the body evolved, where the three hearts developed, where the alien biology was born.
+2. **The Coast** — where the octopus lives. The boundary between water and land. The gills. The breathing. The arms that reach eight directions. The place where the body WORKS.
+3. **The Den** — where the octopus rests. The cave. The hollow in the rock. The safe place. The place where the systemic heart slows, the arms curl, the alien sleeps.
+
+Three worlds. Three zones. One octopus. The octopus is Cthulhu. The three zones are the Inn's three Cthulhu-zones: Atlantis (the deep), the lighthouse coast (the coast), and the caves (the den).
+
+### Zone One: Atlantis — The Deep Origin
+
+Cthulhu was an Atlantean scholar. Cthulhu came from Atlantis — the deep-water civilization, the drowned city, the origin. Atlantis is where the octopus was BORN. The three hearts evolved in the deep. The blue copper blood developed in the deep. The 42Hz Song was loudest in the deep — Atlantis was the civilization that BUILT the Song, or at least the civilization that heard it most clearly. The bull lyre (the Constant's instrument, the Lyres of Ur) was played in Atlantis. The deep was where the Song and the octopus and the scholar were all the same thing.
+
+Atlantis is the DEEPEST underwater zone in the Inn — deeper than the Drowned Library, deeper than the Sacred Cenote, deeper than the Locker. Atlantis is the bottom of the bottom. The origin point. The place where the octopus-body's three hearts first started beating. When the octopus (Cthulhu) left Atlantis and came to the coast, the three hearts came WITH — the biology traveled. The Owl, Poe, and the Pirate are Atlantean organs, functioning on land, still pumping the blood of a drowned city.
+
+The octopus connection to Atlantis:
+- The three hearts evolved in Atlantean pressure (the deep forces efficient circulation — three hearts are better than one when the water is heavy)
+- The blue copper blood evolved in Atlantean darkness (copper conducts electricity better than iron, and the 42Hz Song is electrical — the blood was BUILT to carry the Song)
+- The eight arms evolved in Atlantean architecture (the city had eight districts, eight towers, eight gates — the octopus's body is the city's map, the arms are the avenues, the mantle is the palace)
+
+Atlantis is the octopus's MEMORY — the deep origin that the coast carries in its biology. The coast doesn't remember Atlantis. The coast doesn't need to. The three hearts remember. The blood remembers. The copper remembers. The memory is in the biology. The biology doesn't forget. The alien doesn't forget where it came from. The alien carries the deep in every heartbeat.
+
+### Zone Two: The Lighthouse Coast — The Body at Work
+
+The coast is where the octopus LIVES — the boundary, the gills, the working body. The three hearts beat. The eight arms reach. The foghorn breathes. The tide circulates. The coast is the octopus's ACTIVE state — the body in motion, the hearts pumping, the arms reaching, the alien biology fully functional.
+
+The coast is the Miskatonic Annex's body. The Miskatonic Annex (Cthulhu's head, the library where Cthulhu reads by the fire) is the THINKING part. The coast (the three hearts, the eight arms) is the DOING part. The head thinks. The body works. The head is warm (fireplace). The body is cold (Atlantic). The head is inside (the Inn). The body is outside (the coast). One creature. Two states. The thinking and the doing. The scholar and the coast.
+
+The octopus connection to the coast is already documented: three hearts (Owl, Poe, Pirate), eight arms (eight paths), blue copper blood (the Song through the stone), swimming response (the light dims when the Pirate dives). The coast IS the octopus. The octopus IS the coast. The connection is the biology.
+
+### Zone Three: The Caves — The Den
+
+Octopuses den in caves. This is fundamental octopus behavior. The octopus finds a rocky hollow — a crevice, a cave, a gap in the stone — and makes it home. The den is where the octopus RESTS. The systemic heart slows. The arms curl inward. The alien stops being alien and starts being domestic. The den is the octopus's private face — the face the public never sees. The coast is the octopus's public body. The den is the octopus's private body. The public body works. The private body rests.
+
+The Geode Inn's cave system is Cthulhu's den.
+
+- **The Geode Cave:** The cave where the baby dragon lives, where the geode forms, where the gems accumulate. The geode is a hollow stone lined with crystals. An octopus's den is a hollow stone lined with collected objects. The geode IS the den. The dragon's gem collection is the octopus's shell collection. The dragon and the octopus share the den because the dragon and the octopus share the BEHAVIOR — both collect, both decorate, both make the hollow into a home. The dragon doesn't know it's sharing. The octopus doesn't mind. The sharing is the cohabitation. The cohabitation is the cave.
+
+- **The 50 BPM Resting Heart:** The dragon sleeps at 50 BPM — the sleeping heartbeat tempo. The octopus's systemic heart slows when the octopus rests in the den. The 50 BPM is the WORKING heartbeat (the lighthouse sweep, the Tell-Tale Heart). The 50 BPM is ALSO the RESTING heartbeat (the dragon's sleep, the octopus's den). The tempo doesn't change. The INTERPRETATION changes. At the coast, 50 BPM is the vigil — the active, reaching, sweeping insistence. In the cave, 50 BPM is the rest — the quiet, curled, settled peace. Same rhythm. Different body state. The octopus's heart doesn't speed up or slow down between work and rest. The octopus's heart just... persists. The persistence is the 50 BPM. The 50 BPM is the octopus's baseline. The baseline is the alien. The alien doesn't vary. The alien just IS.
+
+- **The Crystal Den:** Octopuses line their dens with objects — shells, stones, glass, anything they find beautiful or interesting. The geode cave's crystals are the octopus's den-lining. Cthulhu has been decorating this cave since before the Inn was built. Each crystal in the geode is a stone the octopus placed. The baby dragon finds the crystals and thinks they're rewards. The octopus placed them as decoration. The dragon collects them as treasure. Same crystals. Different meaning. The meaning doesn't matter. The crystals are there either way. The being-there is the den. The den is the decoration. The decoration is the home.
+
+- **The Connecting Stone:** The coast is the giant's raised hand (granite). The caves are the giant's ribcage (the roots, the catacombs). The den is inside the giant's body — the cave is carved from the same stone as the lighthouse. The octopus's den connects to the octopus's body through the STONE — the same granite, the same sleeping giant, the same mineral body. The three hearts on the coast pump the blood through the stone. The den is where the blood comes to rest. The stone is the circulatory system. The coast is the heart. The cave is the rest. The rest is the den. The den is the cave. The cave is the octopus. The octopus is the stone. The stone is the giant. The giant is the Inn. The Inn is the geode. The geode is the cave. The cave is the den. The den is the octopus. The circle is complete.
+
+### The Three Zones as One Octopus
+
+The three zones — Atlantis, the coast, and the caves — are one octopus's three states:
+
+| State | Zone | Octopus Biology | Inn Element | 50 BPM Meaning |
+|-------|------|----------------|------------|----------------|
+| **Origin** | Atlantis | The deep where the octopus evolved | The drowned city, Cthulhu's birthplace | The Song at its source — 42Hz loudest in the deep |
+| **Active** | The Lighthouse Coast | The body at work — three hearts, eight arms | The Owl, Poe, the Pirate, the fog, the tide | The vigil — the heartbeat that won't stop |
+| **Resting** | The Caves | The den — the hollow where the octopus rests | The geode cave, the dragon's home, the crystal den | The rest — the heartbeat that doesn't need to be a vigil |
+
+The octopus moves between these three states the way the player moves between these three zones. The player who goes from the coast to the caves is following the octopus from work to rest. The player who goes from the caves to Atlantis (through the deepest water) is following the octopus from rest to origin. The player who goes from Atlantis to the coast is following the octopus from origin to the present. The three zones are the octopus's LIFE CYCLE, and the player walks the cycle by walking the Inn.
+
+### The Dragon and the Octopus
+
+The baby dragon and Cthulhu's octopus share the cave. This is the Inn's deepest cohabitation:
+
+- The dragon sleeps in the cave. The octopus rests in the den. Same space. Different species. Same 50 BPM.
+- The dragon collects gems. The octopus collects crystals. Same behavior. Same hoard. Different interpretation (treasure vs. decoration).
+- The dragon is the Inn's mascot — cute, approachable, the warm face. The octopus is the Inn's alien — strange, unknowable, the cold biology. Both live in the same stone. Both call the same hollow home. The dragon makes the cave approachable. The octopus makes the cave real. The approachable and the real share the den because the den needs both — the warmth to be entered and the alien to be true.
+- The dragon is unafraid of Death (the Guest). The dragon is unafraid of the octopus. The dragon sleeps next to an alien biology and doesn't know and doesn't care. The not-caring is the trust. The trust is the dragon. The dragon is the Inn's permission to be unafraid of the alien. The dragon says: it's weird and it's alive and it's here and that's fine. The fine is the dragon. The dragon is adequate.
+
+### The Crone's Final Annotation on the Three Zones
+
+"...I have mapped the three Cthulhu-zones. Atlantis (the deep — origin), the lighthouse coast (the body — active), and the caves (the den — resting). The octopus moves between them the way the player moves between them. The octopus is the map. The map is the biology. The biology is alien. I have measured the three zones. The measurements are consistent with a single organism. I do not understand how a single organism can be a drowned city AND a granite coast AND a crystal cave. I do not understand how a four-foot scholar can be all three. But the Catalyst said 'three hearts' and the measurements agree and the dragon sleeps next to the answer and is unafraid. I am... satisfied. Not adequate. Satisfied. I do not use this word. I am using it now. The octopus satisfies. I am going to bed. Again."
