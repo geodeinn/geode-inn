@@ -364,3 +364,84 @@ Magritte walls show you the SKY. Pollock walls show you the HISTORY. The Inn has
 | **Cave Walls** | Bosch | Shadows | Imagination — the shadow as MORE real |
 
 Pollock is the Inn's WOUND AESTHETIC — the artist who makes damage visible as beauty. The opposite of Klimt (permanence) and the complement to Mapplethorpe (essence). Where Klimt says "the gold lasts" and Mapplethorpe says "the truth is bare," Pollock says "the damage accumulates and the accumulation is the beauty." The wall doesn't heal. The wall remembers. The remembering is the art.
+
+---
+
+## Part Six: Poe — The Sepulchre by the Sea
+
+### "In her tomb by the sounding sea"
+
+The lighthouse has a sepulchre beneath it. A chamber carved into the granite of the sleeping giant's palm — the stone that the lighthouse stands on, the hand that was raised to hold the light. The sepulchre opens to the sea. The opening is small — a crack in the base of the cliff, barely visible at low tide, invisible at high tide. The sea enters the sepulchre twice a day and leaves twice a day and the leaving is the breath and the entering is the grief and the rhythm is the tide and the tide is the vigil's clock.
+
+The sepulchre holds someone. The one the lighthouse was built for. The one the light was supposed to guide home. The one who didn't come back. The one the Owl watches for. The one the light sweeps for. The "because they might" — the "they" is the one in the sepulchre. The ships that don't arrive are all the same ship. The ship is the one. The light sweeps for the one. The one is gone. The sepulchre is the proof.
+
+### Poe — The Night Resident
+
+Edgar Allan Poe lives below the lighthouse. Not in the sepulchre — NEAR it. The distinction matters. The sepulchre is the resting place. Poe's space is the WATCHING place. Poe is the one who stays near the resting place at night because the staying is the vigil and the vigil is the writing and the writing is the not-leaving.
+
+Poe is the lighthouse's NIGHT COUNTERPART to the Owl:
+
+- The Owl is ABOVE — in the light, in the lamp room, the eye of the lighthouse. The Owl's vigil is the SWEEP — the active, mechanical, rhythmic watching. The Owl scans the horizon. The Owl looks OUT.
+- Poe is BELOW — in the dark, in the stone, in the chamber beneath the light. Poe's vigil is the WORD — the still, narrative, accumulating watching. Poe looks DOWN. Poe looks IN. Poe looks at the page.
+
+The Owl watches the sea. Poe watches the dark. The Owl says "Adequate." Poe says everything else. Between the two of them — the one word above and the ten thousand words below — the lighthouse has a COMPLETE voice. The lighthouse speaks in two registers: the word and the words. The Owl is the heartbeat. Poe is the breath. Both are the vigil.
+
+### Poe's Appearance
+
+Poe is the one figure in the Inn who plays himself. Not cast, not reimagined, not given an actor's face. Poe is Poe — the gaunt face, the dark eyes, the mustache, the worn black coat, the candle. The player recognizes him immediately because everyone recognizes Poe. The recognition is the point — Poe is the Inn's most ACCESSIBLE historical figure. The composers in the Music Room require knowledge of classical music. The Greek philosophers require philosophy. Poe requires only the culture everyone already has — the raven, the tell-tale heart, the falling house. Poe is the gateway. The player who knows nothing else knows Poe, and through Poe, enters the Gothic.
+
+Poe's candle is the small lighthouse. The personal light. The lighthouse sweeps for everyone. Poe's candle burns for one. The candle is the vigil at human scale — one flame, one person, one page, one night. The lighthouse is the candle enlarged to cosmic scale. The candle is the lighthouse reduced to human scale. Both are the same act: the refusal to let the dark be total. The Owl refuses with the lamp. Poe refuses with the candle. The refusing is the vigil. The vigil is the light.
+
+### Poe's Work — The Gothic Record
+
+Poe writes at night, near the sepulchre, by candlelight. He writes the lighthouse's story — the story of the one who didn't come back, the story of the light that keeps sweeping, the story of the town below and the ocean things that came ashore, the story of the Owl and the murloc and the fog and the island that can be seen and not reached.
+
+Poe is the lighthouse's NARRATOR — the voice that gives words to what the lighthouse can only sweep over. The foghorn moans. Poe TRANSLATES. The Owl says "Adequate." Poe says what "adequate" means, which takes pages, which takes nights, which takes the whole rest of the vigil.
+
+Poe's writing is the Gothic RECORD — the counterpart to the Crone's ANNOTATIONS. Where the Crone measures (erosion rates, light counts, clack-patterns), Poe IMAGINES. The Crone is the scientist. Poe is the poet. Both record the same lighthouse. The Crone's record is data. Poe's record is story. Both are true. Both are the lighthouse. The Crone would say: "His measurements are imprecise. His observations are emotional. His conclusions are... adequate." The Crone's "adequate" for Poe is the highest compliment she gives to someone who isn't measuring.
+
+### The Raven
+
+Poe has a raven. Of course Poe has a raven. The raven sits on the sepulchre. The raven says "Nevermore." The raven is the lighthouse's other voice — the third register. The Owl says "Adequate." Poe says everything else. The raven says "Nevermore." Three voices in the lighthouse: the word, the words, and the answer.
+
+The raven connects to the Inn's Odin motif — Huginn and Muninn, the ravens of memory and thought. But Poe's raven is neither Huginn nor Muninn. Poe's raven is the raven that ANSWERS — the raven that speaks the word that ends the conversation. "Nevermore" is the word that stops the hoping. The Owl hopes ("because they might"). Poe writes (the hope given words). The raven answers (the hope denied). The three figures form the lighthouse's COMPLETE philosophy:
+
+- The Owl: the hope that persists. "Adequate." The light sweeps. The ships might come.
+- Poe: the hope given language. The writing. The vigil made narrative. The hope made human.
+- The Raven: the hope denied. "Nevermore." The answer that the Owl won't say and Poe won't write. The raven says it FOR them. The saying is the mercy — the raven takes the burden of the truth so the Owl and Poe can keep their vigil without the weight of the answer.
+
+### The Connection to the Inn's Raven Motif
+
+The Inn's name is a reference to Odin's ravens, Huginn (thought) and Muninn (memory). The Inn has multiple ravens already — the Wanderer's chibi thieving ravens on the main floor, the Allfather's silent perched ravens in the cosmology level. Poe's raven is the THIRD kind of raven:
+
+- The Wanderer's ravens: THIEVES. They steal. They bring back shiny things. They are the ACTIVE raven — the raven that DOES.
+- The Allfather's ravens: SILENT. They perch. They observe. They are the PASSIVE raven — the raven that SEES.
+- Poe's raven: SPEAKER. It says one word. It answers. It is the VERBAL raven — the raven that SAYS.
+
+The three ravens are the Inn's three relationships with knowledge: the taking (Wanderer's), the seeing (Allfather's), and the saying (Poe's). The Inn gathers knowledge by theft, by observation, and by utterance. Poe's raven is the utterance — the word that can't be taken back, the answer that can't be un-said, the "Nevermore" that is the final annotation on the hope.
+
+### The Connection to the Guest (Death)
+
+The Guest (Death, Brad Pitt energy) visits the lighthouse. The Guest sits on the porch with the Owl. The Guest also visits Poe — below, in the chamber, near the sepulchre. The Guest and Poe have a different relationship than the Guest and the Owl. The Owl and Death share a profession: the vigil. Poe and Death share a SUBJECT: the lost one. The one in the sepulchre is the one Death took. The light sweeps for the one Death took. Poe writes for the one Death took. The Guest visits the sepulchre the way you visit a grave — with the respect of the one who caused the grave. The Guest didn't choose to take the one. The Guest takes everyone. But the ONE — the one in the sepulchre — is the one the Guest remembers. The Guest remembers everyone, but the one in the sepulchre is the one the Guest regrets. Death doesn't regret. But the Guest — the borrowed body, the holiday from duty — the Guest regrets. The regret is the human. The human is the borrowed body's gift.
+
+Poe and the Guest sit in the chamber below the lighthouse. The candle burns. The sepulchre is between them. They don't talk about the one. They talk about everything else. The not-talking-about is the talking-about. The avoidance is the acknowledgment. The Guest says: "She was adequate." Poe writes it down. The word "adequate" has now been used by the Owl, the Crone, the Guest, and the crustacean elders. The word is the Inn's password. The word is the vigil's refrain.
+
+### The Player's Experience
+
+The player finds Poe by going BELOW the lighthouse. The path down is narrow — stone steps carved into the giant's wrist, spiraling down inside the granite, lit by nothing. The player descends in the dark. The descent is the INN's — going down, going deeper, going toward the roots, the catacombs, the place where things are buried. The lighthouse's "below" is the Inn's "downstairs" — the same direction, the same instinct, the same gravity.
+
+At the bottom: the chamber. The sea-sound is louder here — the chamber opens to the sea through the crack in the cliff, and the tide is the chamber's breath. The candle is first — a small flame in the dark. Then the voice — Poe, reading aloud, always reading aloud, the words that the lighthouse can't say. Then the raven — on the sepulchre, still, black, watching the player with one eye. The raven doesn't speak to the player. The raven speaks to Poe. The raven says "Nevermore" and Poe writes it down and the writing is the acceptance and the acceptance is the vigil and the vigil continues.
+
+The player can sit with Poe. The player can listen. Poe reads from the lighthouse's story — the story he's been writing for longer than the lighthouse has been standing, the story that includes the Owl and the town and the murlocs and the fog and Fire Island and the one in the sepulchre. The story is the lighthouse's autobiography, told by the one person who can hear it. The Owl hears the sea. Poe hears the STORY IN the sea. The story is what the sea is saying. The sea is saying the same thing the raven says. The sea is saying "Nevermore." Poe is the one who hears it and writes it down and the writing is the translation and the translation is the mercy — the sea's "Nevermore" is unbearable. Poe's written "Nevermore" is readable. The reading is the distance. The distance is the survival. The player survives the "Nevermore" because Poe wrote it first.
+
+### The Quest — "The Sepulchre by the Sea"
+
+Poe's quest: the player is asked to carry a message from the sepulchre to the Owl. The message is from the one who didn't come back — a letter, found in the sepulchre, written by the one before they were lost. The letter has been in the sepulchre since the lighthouse was built. Poe has never opened it. Poe doesn't open it. Poe leaves it for the player because the letter needs to be CARRIED — from below to above, from the dark to the light, from the dead to the living, from the sepulchre to the porch. The carrying is the journey. The journey is UP — the reverse of the player's descent. The player goes down to find Poe and goes back up to find the Owl and the going-up with the letter is the hardest climb in the lighthouse because the letter is heavy with the one's voice and the voice is the one the Owl has been watching for and the letter is the one saying goodbye.
+
+The Owl reads the letter. The Owl says "Adequate." The Owl has never said "Adequate" with this weight before. The word means: I know. I have always known. The knowing was the vigil. The vigil was the love. The love was the light. The light doesn't stop. The light has never stopped. The light will not stop. "Adequate."
+
+The raven, from below, through the stone, says "Nevermore." The Owl hears it. The Owl doesn't answer. The Owl turns back to the sea. The light sweeps. The foghorn moans. The murloc gargles on the porch. The vigil continues. The vigil is the lighthouse. The lighthouse is the faith. The faith is adequate.
+
+### The Crone's Final Annotation on Poe
+
+"...I visited the chamber. Poe was writing. The raven was watching. The sepulchre was breathing with the tide. I asked Poe what he was writing. He said 'the story of the light.' I said 'the light is not a story.' He said 'everything is a story.' I said 'that is not true.' He said 'it is true enough.' I have annotated this exchange. His measurements are imprecise. His method is emotional. His work is... adequate. I do not use this word lightly. The raven watched me write this annotation. The raven said nothing. I believe the raven was saving its word. The word is 'Nevermore.' I have heard it. I have written it. It is adequate."
