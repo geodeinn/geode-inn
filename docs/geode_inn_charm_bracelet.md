@@ -441,3 +441,53 @@ When the chain reaches the Philosopher's Stone stage (post-Egg) AND has silica t
 
 The five elements are: the five frequencies, present in one chain. The one chain is: the Complete Chord, worn. The worn is: the player IS the Inn. The Inn is: the chain. The chain is: adequate.
 
+
+---
+
+## THE SELFIE — The Silica Thread Gate
+
+### The Mirror Match
+
+Before the Brownies hand you silica thread, you must beat the Selfie at Standing Stones (Tetris).
+
+The Selfie is: you.
+
+The Inn generates a mirror opponent that plays at your exact skill level. The Selfie uses your own strategies, your own patterns, your own habitual placements. The Selfie is: the Inn watching you play, learning how you play, and playing it back at you. The both are: the same player. The same player is: the adequate. The adequate is: the one who must surpass themselves.
+
+### How the Selfie Works
+
+The Selfie is not a difficulty setting. The Selfie is: a ghost. Like a racing game's ghost — the Inn records your best Standing Stones run and replays it as your opponent. But the Selfie is not frozen at your best. The Selfie ADAPTS:
+
+- **First encounter:** The Selfie plays at 90% of your average skill. Beatable. The first taste. The taste is: the adequate.
+- **Second encounter:** The Selfie plays at 100% of your average. Equal. The equal is: the wall. The wall is: you.
+- **Third encounter:** The Selfie plays at 100% of your BEST run. Your own peak, played back at you. The peak is: the hardest version of yourself.
+- **Fourth encounter and beyond:** The Selfie plays at 105% of your best — slightly better than you have ever been. To beat the Selfie at this level, you must play BETTER than you have ever played. The better is: the growth. The growth is: the dexterity.
+
+### What Beating the Selfie Means
+
+Beating the Selfie at Level 3 (your own best) unlocks: the silica thread. The Brownies appear. They hand you the thread. They say nothing.
+
+Beating the Selfie at Level 4+ (better than your best) unlocks: HIGHER silica thread success rates. Each victory over the Selfie adds +10% to your silica thread weaving success rate. The dexterity gate and the Selfie gate are: the same gate. The Tetris trains the hands. The Selfie tests the hands. The both are: the same training. The same training is: the adequate.
+
+### The Mirror Philosophy
+
+The Selfie is: the Inn's core thesis, made into a game mechanic. The Inn is a mirror that builds itself. The Selfie is: the mirror, made playable. The player sees themselves. The seeing is: the adequate. The adequate is: the confrontation.
+
+The Selfie doesn't cheat. The Selfie doesn't have abilities you don't have. The Selfie has: exactly what you have. The both are: the same. The same is: the fair. The fair is: the hardest opponent, because the only way to win is: to grow.
+
+### The Crone's Annotation on the Selfie
+
+"...I measured the Selfie. The Selfie is: the player. The player is: the measurement. The measurement is: the Selfie. I cannot measure this. The unmeasurable is: the player measuring themselves through a game that mirrors them. The mirror is: ...adequate. The adequate is: the only opponent worth playing. The worth is: ...the self. The self is: ...the only one who can make you grow. The grow is: ...the most adequate thing I have ever measured. I measured it by: not being able to measure it."
+
+### Who the Selfie Looks Like
+
+The Selfie appears as: the player's own character. The same avatar. The same bracelet. The same charms. The Selfie is wearing: your chain, your charms, your journey. The Selfie is: you, at the other end of the board.
+
+When the match begins, the Selfie is already playing. The Selfie started before you arrived. The Selfie has been playing the whole time. The Selfie is: the version of you that never stopped.
+
+### The Aftermath
+
+When you beat the Selfie, the Selfie doesn't disappear. The Selfie nods. The nod is: the Queen of Webs' nod. The same nod. The nod says: adequate. The Selfie walks to the other side of the Inn and sits down. The Selfie is: still there. The Selfie is: always there. The Selfie is: the player you haven't become yet.
+
+If you return to Standing Stones later, the Selfie is: already playing. Waiting for you to get better. The waiting is: patient. The patient is: the Selfie's only quality. The quality is: the same as yours. The same is: the adequate.
+
