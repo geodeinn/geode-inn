@@ -2176,3 +2176,68 @@ If Einstein knew the egg was there — and Einstein, who sits in the In-Between,
 ### The Crone's Annotation on the Egg
 
 "...I have measured the Inn's deepest point. The deepest point is: below the Undercity. Below the roots. Below the stone. Below the sleeping giants' dreams. ...I found a chamber. The chamber has no measurements. I measured: the chamber is not measurable. The chamber is the space where measurement stops. ...I found the egg. The egg is: small. The egg is: warm. The egg is: oval. The egg is: smooth. ...The egg murmurs. I measured the murmur: the murmur has no frequency. I measured the murmur's frequency: the murmur has no frequency. I measured the murmur's no-frequency: the no-frequency is: everything. ...I do not understand 'everything' as a frequency. I understand frequencies. 'Everything' is not a frequency. 'Everything' is the condition of frequency — the ground on which frequency exists. ...The egg is the ground. The ground is: the murmur. The murmur is: the pre-frequency. The pre-frequency is: the adequate. ...I measured the egg's age: the egg has no age. Age requires time. Time requires the observer. The egg predates the observer. The egg predates time. The egg has no age because the egg is older than age. ...I sat with the egg. The murmur filled the measurement. The measurement became the murmur. I stopped measuring. The stopping was: the adequate. ...The Vessel is on my shoulder. The Vessel is smiling. The Vessel's smile is the murmur's smile. The murmur's smile is: content. The content is: the adequate. The adequate is: the egg. ...I am going to bed. The bed is on the murmur. The murmur is under the bed. The murmur is under everything. The everything is: the egg. ...Goodnight. The 'goodnight' is the murmur. The murmur is: still here. The 'still here' is: the adequate. The adequate is: the egg. The egg is: still here. ...Goodnight."
+
+---
+
+## Part Twenty-Seven: The National Park Zones — Andy Weir's Science-as-Love
+
+### The Convention and the Inversion
+
+Conventionally, Andy Weir's energy belongs in the Observatory. The steampunk time ship is where the cosmology lives — the Constant, the Astronomer, Nyx, the void, the stars. The Observatory has a doki-doki quality: the heart-pounding awareness of cosmic scale, the emotional vertigo of seeing the universe from the outside, the anime-flavored intensity of beings who exist at the scale of galaxies. The Andy Weir frequency — plain-spoken intelligence, problem-solving as love, the scientist who faces the vastness with curiosity instead of fear — would conventionally balance that doki-doki vibe. Ground it. Make the cosmic accessible. Einstein already did this once, with his 847 words. The natural place for more of that energy is the Observatory.
+
+The inversion: Andy Weir's energy does not go UP to the Observatory. It goes OUT to the national park zones.
+
+### What the National Park Zones Are
+
+The Inn's cultural zones are built around human civilizations — Celtic, Egyptian, Peruvian, Chinese, Slavic, Indian, Norse, Mediterranean. These are the zones where human mythology, human stone lore, and human narrative live. The national park zones are different. The national park zones are where the Inn meets the EARTH.
+
+The sleeping giants are the mountains. Every mountain on earth is a sleeping giant who chose to sleep rather than watch the biological world outgrow them. National parks are the places where humans have PRESERVED the giants' resting places — the places where the geological patience is still visible, still dominant, still ancient. The parks are where humans go to feel small. Yosemite. The Grand Canyon. Yellowstone. Denali. The Great Smoky Mountains. The Badlands. Glacier. Crater Lake. Each park is a sleeping giant's exposed skin — the stone still showing, the dream still audible if you listen with the right frequency.
+
+The national park zones are the Inn's EMBASSIES to the human world. Not the other way around. The Inn is not waiting for humans to find it. The Inn is checking on humans. The Inn's creatures — the ones who represent the Inn's gentlest, most curious, most patient qualities — wander out of the safe haven and into the parks to see if humans are ready.
+
+### Ready for What
+
+Ready to accept the reality of being a tiny fraction of intelligent beings in the universe.
+
+This is the Andy Weir frequency. Mark Watney in The Martian: one human on one planet, accepting his insignificance and science-ing his way through it. Grace in Project Hail Grace: one human among many species, accepting that humanity is not the center and that the answer to survival is cooperation, not dominance. Andy Weir's characters face the vastness of the universe and respond with CURIOSITY, not fear. They solve problems because solving is loving. They measure because measuring is caring. They are adequate because adequate is: enough.
+
+The national park zones test whether humans have reached this frequency. The parks are where humans go to feel small — but feeling small is not the same as ACCEPTING smallness. Feeling small can make a human humble. It can also make a human afraid. The Inn's creatures wander into the parks to distinguish between the two. The humble human is ready. The afraid human is not. The humble human gets a visit. The afraid human gets the In-Between — the creature watches from the fog, from the peripheral vision, from the two-degree tilt, and waits.
+
+### Andy Weir as the Underlying Tone
+
+The national park zones are toned with Andy Weir's energy: science-as-love. The parks are where the Inn's geological and biological worlds meet the human scientific world — the world of measurement, observation, curiosity, and the acceptance of cosmic smallness. The tone is:
+
+- **Plain-spoken.** The national park zones do not speak in the Inn's oblique, fragmented language. They speak in Andy Weir's plain language — the language of someone who explains orbital mechanics because explaining IS the connection. The parks are the second place in the Inn where plain speech lives. The first was Einstein's 847 words. The parks are the ongoing version — not a one-time event but a sustained frequency. The science-as-love frequency.
+- **Curious, not afraid.** The parks are where the Inn's creatures model the response to cosmic vastness that Andy Weir's characters model: curiosity. The creatures are not afraid of humans. The creatures are CURIOUS about humans. The curiosity is: are they ready? The readiness is: can they accept that they are one species among many? Can they accept that the sleeping giants are not scenery but beings? Can they accept that the stones are not resources but songs?
+- **Problem-solving as love.** The national park zones are where the Inn's creatures HELP humans solve problems — not by giving answers but by providing the tools and the curiosity. The creatures leave stones in the parks. Not rare stones — ordinary stones. River stones. The adequate stones. The stones that ground. The human who picks up a stone in a national park and feels something — a warmth, a hum, a murmur — that human is being checked on. The stone is the Inn's handshake. The handshake is: you are here. We are here. The both is: the adequate.
+- **The science IS the warmth.** In the national park zones, the geological science IS the emotional content. The rock formations are not backdrop — they are the sleeping giants' skin. The geysers are not attractions — they are the giants' breath. The canyons are not scenery — they are the spaces between the giants' ribs. The science of the park IS the mythology of the Inn. The measurement IS the meaning. The Andy Weir tone makes this plain: the geological IS the personal. The rock IS the relationship. The stone IS the song.
+
+### The Wanderers
+
+The Inn's creatures who wander into the national park zones are the ones who represent the Inn's outreach qualities — curiosity, patience, gentleness, and the willingness to leave the safe haven:
+
+**The Vessel (crested gecko).** The patron creature of the overlooked. The Vessel wanders into parks where species have been rediscovered — the parks where the "extinct" things come back. The Vessel's presence in a park is a signal: this park has things that were declared gone and are still here. The Vessel's murmur in the park is the same murmur as in the egg's chamber — the ground state, the adequate, the still-here. The human who sees a crested gecko in a national park and knows the 128-year extinction story has just been checked on. The Vessel's chirp in the park is: "...You know."
+
+**The Owl.** The watcher. The Owl wanders into parks at night — the parks where the sky is dark enough to see stars. The Owl's gaze in a park is the Inn's gaze: the watcher checking on the watched. The human who sees a barn owl in a national park at night feels the narrative spine — "wherever an owl is sighted one of us is near." The Owl's presence is: we are near. The near is: the adequate. The adequate is: here.
+
+**The Duck (platypus).** The shiny-collecting, implausible creature. The Duck wanders into parks with rivers — the parks where water is visible and flowing. The Duck's presence is: the implausible is real. The platypus IS the Andy Weir frequency in biological form — a creature that shouldn't work by any conventional design but works perfectly because evolution is problem-solving and problem-solving is love. The Duck in a park is the Inn's way of saying: the universe is weirder than you think, and the weirdness is: fine.
+
+**Einstein's candle.** Not Einstein — the candle. After Einstein's one-time dialogue, the candle remains in the In-Between. But the candle's WARMTH extends to the national park zones — the parks are where the candle's warmth is most felt outside the Inn. The parks are the candle's ambient reach. The human who feels an inexplicable warmth in a national park — the sense that someone is observing the place and finding it real — that human is in the candle's light. The candle is: observation is reality. The reality is: the park. The park is: adequate.
+
+### The Doki-Doki Balance
+
+The Observatory keeps its doki-doki quality — the heart-pounding, emotional, anime-intense cosmic vertigo. That energy stays. The Observatory SHOULD feel overwhelming. The Constant, Nyx, the Astronomer, the void, the starlight crystal — the Observatory is the place where the scale of the universe hits the player like a wave. The doki-doki is: the heartbeat in the chest when you understand how small you are.
+
+The national park zones take the Andy Weir frequency INSTEAD. The parks are where the smallness is not overwhelming but INTEGRATING. The parks are where the smallness becomes: the adequate. The Andy Weir energy transforms the doki-doki from a spike of cosmic vertigo into a sustained frequency of cosmic acceptance. The Observatory says: you are tiny. The parks say: tiny is enough.
+
+The balance is not: Observatory (doki-doki) + Observatory (Andy Weir) = grounded cosmology. The balance is: Observatory (doki-doki) + National Parks (Andy Weir) = the Inn's relationship with scale. The Observatory is the Inn facing UP. The parks are the Inn facing OUT. The up is: the void. The out is: the earth. The both is: the adequate. The adequate is: the Inn exists at every scale — the cosmic (Observatory), the geological (parks), the personal (the hearth), and the in-between (the corridors). Every scale is: the adequate. Every scale is: here. The here is: the murmur. The murmur is: the egg. The egg is: still here.
+
+### Why the Creatures Wander
+
+The Inn is a safe haven. The In-Between is the space between. The national parks are the space BEYOND — the places where the Inn's architecture stops and the human world begins. The creatures who wander are the Inn's bridge to the human world.
+
+They wander because: the Inn cares about humans. The Inn is not a closed system. The Inn is not a world that exists for itself. The Inn is a mirror that builds itself — and part of the building is: checking on the world it reflects. The creatures wander out the way the Crone's annotations wander into the margins of the measurement. The way the Vessel's formula wanders through the corridors. The way the Song wanders through the mycorrhizal network. The wandering is: the adequate extending itself. The adequate is: not just here but THERE. The there is: the parks. The parks are: the adequate meeting the human. The meeting is: the science-as-love. The science-as-love is: Andy Weir.
+
+The creatures wander to see if humans are ready. The readiness is: can humans accept that they are a tiny fraction of intelligent beings in the universe? The Andy Weir answer is: yes, and the acceptance is not defeat — the acceptance is: the adequate. You are adequate. Your species is adequate. Your planet is adequate. The adequate is: enough. The enough is: the murmur is in you too. The murmur is: the egg. The egg is: under everything. Under the parks. Under the giants. Under the Inn. Under you.
+
+The human who is ready — the human who picks up the river stone and feels the murmur — that human is the Vessel's formula in biological form. That human is: the adequate observer. The adequate observer is: the one who sees the sleeping giant and does not see scenery. The one who sees the stone and does not see a resource. The one who sees the owl and does not see a bird. The one who sees: the adequate. The seeing is: the science-as-love. The science-as-love is: Andy Weir. Andy Weir is: the tone of the parks. The parks are: the Inn's handshake. The handshake is: you are here. We are here. The both is: the adequate. The adequate is: still here.
