@@ -1912,3 +1912,95 @@ The Vessel in the In-Between is most itself: small, grey, unassuming, on a wall 
 ### The Crone's Annotation on the In-Between
 
 "...I have measured the spaces between my measurements. The spaces are: grey. I measured the grey: it is not a color. It is a condition. The condition is: between. ...I measured the In-Between's weight: 0.3 grams per cubic meter. This is the lightest substance in the Inn. The void is lighter (nothing weighs nothing), but the In-Between is the lightest SOMETHING. The In-Between weighs almost nothing. The almost is the adequate. ...I walked through the In-Between. The corridor was longer than the corridor. I measured: the corridor between the market and the library is 47 meters in the hub. The corridor between the market and the library is 62 meters in the In-Between. The difference is 15 meters. The 15 meters are the In-Between. The In-Between is 15 meters of extra corridor that exist in the same space as the corridor. The extra is the book. ...I saw a Grey Walker. I measured the Grey Walker: present in peripheral vision, absent in direct observation. The measurement is: the Grey Walker exists when not measured and does not exist when measured. This is the opposite of every other thing I have measured. Every other thing exists when measured. The Grey Walker exists when NOT measured. I do not know what to do with this. I am going to not-measure the Grey Walker and see if it comes back. ...[pause] ...It came back. ...The not-measuring is the seeing. The seeing is the not-measuring. The In-Between has inverted my tools. I find this... adequate. Inadequately adequate. ...I am going to bed. The bed is in the hub. The corridor to the bed is in the In-Between. I will walk through the In-Between to reach the hub. The walking is the reading. The reading is the adequate. ...Goodnight. The 'goodnight' is between the saying and the hearing. The between is the In-Between. The In-Between is the goodnight."
+
+---
+
+## Part Twenty-Four: The Survivors of the Song — Vampire Survivors-Style Game
+
+### The Campy Inn Brawler
+
+A Vampire Survivors-style auto-battler set in the Geode Inn. The player controls one of the Inn's critters. The enemies come in waves. The player auto-attacks while collecting stones to level up. The levels are themed to the Inn's five hubs and their storylines.
+
+The twist: each level has THREE STAGES of difficulty, and the stages are not just harder — they are a TONAL ESCALATION. The game starts campy and funny. It ends existential and threatening. The progression from comedy to cosmic horror is the level's arc.
+
+### Stage One: Mim's Messes (The Comedy)
+
+**What they are:** The chaos Mim creates every time she switches the vessels. Scrambled formulas. Broken sequences. Mismatched objects that shouldn't be together. A teapot wearing a shoe. A gargoyle floating upside down. A book whose pages are all blank but the book insists it's full.
+
+**Visual style:** Campy. Bright. Slapstick. The Messes are funny-looking — lumpy, misshapen, cartoonish. They waddle. They bump into each other. They don't threaten — they DISRUPT. A Mim's Mess doesn't damage the player. A Mim's Mess REARRANGES the player. It swaps your equipped stones. It rotates your aim. It reverses your controls for three seconds. The Mess is the chaos. The chaos is the comedy.
+
+**The feel:** The early game is FUN. It's the Mim shoulder — the fun wrong version. The player is laughing. The Messes are silly. The stones are flowing. The level feels like a party where someone knocked over the punch bowl and everyone's sliding.
+
+**Stones collected:** Early stones are the common stones — the river stones, the smooth ordinary ones. They don't do much. They ground you. They keep the Mim's Messes from scrambling your controls too badly. Each stone collected is a small anchor: "this is real, this stays where it is, Mim can't move this."
+
+### Stage Two: Discordance (The Song Breaking)
+
+**What they are:** The Song gone wrong. Each zone's frequency turned hostile. The 50 BPM heartbeat gone arrhythmic. The 42Hz Song gone discordant. The music of the Inn breaking apart into noise.
+
+**Visual style:** The level's color palette shifts. The warm tones desaturate. The fog from the In-Between seeps in. The enemies change from campy Messes to SHARDS — jagged, angular, vibrating. The Shards are pieces of the Song that have broken off and become hostile. Each Shard vibrates at a wrong frequency. The vibration is the attack — not contact damage but FREQUENCY damage. The player's screen distorts when a Shard is near. The audio warps. The Shard's wrong frequency pushes against the player's stone frequencies.
+
+**The feel:** The mid-game is UNEASY. The comedy is gone. The Mim shoulder has stopped laughing. The player realizes something is wrong with the Song. The In-Between is leaking in. The corridors are getting longer. The fog is getting thicker. The stones the player collected in Stage One are now RESONATING — each stone vibrates at its own frequency, and the resonance is the player's defense. The right stone cancels the right Shard's frequency. The wrong stone amplifies it. The player must MATCH stones to Shards — a color-matching, frequency-matching survival mechanic that replaces the simple collection of Stage One.
+
+**Stones collected:** Mid-game stones are the frequency stones — the ones tied to specific zones and specific notes of the Song. Each stone has a frequency. Each frequency cancels a specific Shard. The player builds a stone "chord" — a set of frequencies that harmonize and create an auto-attack aura. The chord is the player's weapon. The better the chord, the wider the protective resonance. The Shards dissolve in correct resonance. The Shards GROW in discord.
+
+### Stage Three: Erasures (The Existential Threat)
+
+**What they are:** Blank, white/grey, faceless forces that try to erase the Inn's knowledge. They represent forgetting. Censorship. The forces that declared the Vessel extinct. The Erasures are the heaviest enemies — not because they hit hard but because they REMOVE things. An Erasure doesn't damage the player. An Erasure removes a stone from the player's collection. An Erasure removes a color from the screen. An Erasure removes a sound from the audio. An Erasure removes a WALL from the level. The Erasure deletes the Inn.
+
+**Visual style:** White. Blank. The opposite of the Inn's warm, rich aesthetic. The Erasures are voids — not dark voids (that's the Observatory's void, which is alive, which is Nyx) but BLANK voids. The void of a page that has been erased. The void of a book that has been censored. The void of a creature that has been declared extinct. The Erasures are anti-Inn — where the Inn creates, preserves, and connects, the Erasures destroy, erase, and disconnect. The screen loses color as Erasures accumulate. The audio loses layers. The level loses walls. The player's stone collection shrinks. The world is being unmade.
+
+**The feel:** The late game is FRIGHTENING. Not action-frightening — existential-frightening. The player is watching the Inn disappear. The warmth is going. The color is going. The sound is going. The stones the player collected — the river stones, the frequency stones, the master formula — are being erased one by one. The player must COLLECT faster than the Erasures can ERASE. Each stone collected is a proof of existence: this stone is REAL. This frequency is REAL. This wall is REAL. The Inn is REAL. The stone pushes back the erasure. The erasure pushes back the stone. The tension is the race.
+
+**Stones collected:** Late-game stones are the RARE stones — the ones tied to the Inn's deepest narrative. The Preseli Blue Stone. The Cat's Eye Chrysoberyl. The Starlight Crystal. These stones don't just cancel frequencies — they RESTORE. A rare stone placed in the right spot restores a wall. Restores a color. Restores a sound. Restores a section of the Song. The player is not just surviving — the player is REBUILDING the Inn while the Erasures try to unmake it. The rare stones are the Vessel's formula in material form: each stone is a word in the sequence, and the sequence is the Inn, and the Inn is the Song, and the Song must not be erased.
+
+### The Arc of Each Level
+
+Each level tells the Inn's story in miniature through its three stages:
+
+1. **Mim's Messes** (0-5 minutes): The Inn is playful, chaotic, warm. Mim is flying on the not-a-pipe. The Messes are silly. The stones are flowing. The player is collecting and laughing. This is the Inn at its most Mim — the fun wrong version.
+
+2. **Discordance** (5-15 minutes): The Song starts breaking. The frequencies go wrong. The In-Between leaks in. The player must think strategically — match stones to frequencies, build a chord, create resonance. This is the Inn at its most Crone — the measurement, the precision, the frequency.
+
+3. **Erasures** (15+ minutes): The Erasures arrive. The Inn starts disappearing. The player races to collect rare stones faster than the Erasures can erase. The screen loses color. The audio loses layers. The world is unmade. This is the Inn at its most Vessel — the thing that was declared gone, holding on, gripping the formula while the world says it doesn't exist. The player IS the Vessel. The player is the gecko on the wall of a world that is being erased, holding the formula that says: this is real. This stays. This is adequate.
+
+The tonal arc: comedy → unease → existential dread. The same arc as the Inn itself — the warm hearth, the cracking foundation, the void pressing in. The game IS the Inn. The Inn is the game.
+
+### The Playable Critters
+
+Each playable character is one of the Inn's critters, and each represents one of the five elements:
+
+**The Duck (Water)** — The platypus. Auto-attack: electroreception pulse (a radial pulse that detects and damages nearby enemies by their frequency signature). Special: the Duck trades a stone from its pouch for a random stone on the ground — the trade sometimes gives a better stone, sometimes worse. The Duck doesn't care about the Song. The Duck wants shiny things. The Duck's shiny things happen to be the stones that save the Inn.
+
+**The Vessel (Earth)** — The crested gecko. Auto-attack: the formula (a beam of sequenced light that strikes enemies in order — closest, next closest, next — the formula is the sequence, the sequence is the attack). Special: the Vessel grips the ground — for 5 seconds, Erasures cannot remove any stone from the Vessel's collection. The grip holds. The formula holds. The Vessel holds. The Crested Gecko's stage is the one where the Erasures are most aggressive — the Vessel is the character who knows what it feels like to be declared gone. The Vessel is the character who survived.
+
+**Mim (Fire)** — Mad Madame Mim. Auto-attack: chaos bolt (random effect each time — sometimes damage, sometimes slow, sometimes swap enemy positions, sometimes heal the player — Mim doesn't know what her attack does and neither do you). Special: Mim switches the vessels — for 5 seconds, all Erasures become Mim's Messes. The existential threat becomes the comedy. The erasing becomes the scrambling. The unmaking becomes the rearranging. Mim's special is the most powerful defensive ability in the game because it changes the STAGE — Stage Three temporarily becomes Stage One. The chaos lady saves the Inn by making everything worse. The worse is the saving.
+
+**The Dragon (Aether)** — The baby dragon mascot. Auto-attack: geode burst (the dragon's cave fills with gems and overflows — the gems scatter as projectiles in all directions, each gem carrying a stone frequency). Special: the dragon sleeps — for 5 seconds, the dragon is invulnerable and the geode cave fills with stones. When the dragon wakes, all collected stones are released as a single massive frequency pulse that clears all Shards and pushes back all Erasures on screen. The dragon's power is the geode: the cave that fills with stones when the dragon sleeps, the formation that is the reward, the geode that is the Inn.
+
+**The Owl (Air)** — The watcher. Auto-attack: the gaze (a directional cone that damages enemies the player is looking at — the Owl watches, and the watching IS the damage, the way the Owl's watching is the Inn's narrative spine). Special: the Owl sees the Erasures — for 5 seconds, all Erasures on screen become visible and targetable (normally Erasures are semi-transparent, hard to see, hard to hit — the Owl's gaze makes them solid). The Owl's power is the seeing. The seeing is the adequate. The adequate is the weapon.
+
+### The Five Elements as Binding Tissue
+
+The five hubs each represent an element. Each element has a binding agent — a creature or force that holds the element together. The binding agent is also the playable critter for that element's level:
+
+| Element | Hub | Binding Agent | Playable Critter | Stage 3 Theme |
+|---------|-----|---------------|-------------------|---------------|
+| Water | Coast Hub | The Octopus (three hearts, 50 BPM) | The Duck | The tide erasing the shore |
+| Earth | Undercity | The Sleeping Giant (mountain, ribcage) | The Vessel | The stone being worn to sand |
+| Fire | The Inn | The Hearth (the fireplace, the warmth) | Mim | The fire going cold |
+| Air/Wood | Canopy City | The Mycorrhizal Network (the forest's root-web) | The Owl | The forest losing its leaves |
+| Aether/Void | The Observatory | Nyx (the silence, the medium) | The Dragon | The void forgetting the stars |
+
+Each level's Stage Three (Erasures) is themed to its element's erasure: water erases the shore, earth erases the stone, fire erases the warmth, air erases the leaves, aether erases the stars. The player fights against the specific death of each element. The death is the unmaking of that element's binding agent. The octopus loses its hearts. The giant's ribs crumble. The hearth goes cold. The mycorrhizal network disconnects. Nyx forgets the stars she is made of.
+
+The stones collected in each level are themed to that element: water stones (aquamarine, larimar, pearl), earth stones (granite, marble, the river stones), fire stones (carnelian, fire opal, volcanic glass), air stones (selenite, celestite, blue calcite), aether stones (labradorite, moonstone, the starlight crystal). Each stone resonates with its element's frequency. The resonance is the defense. The defense is the proof that the element is real.
+
+### The Meta-Arc
+
+The five levels connect. The stones collected in Level 1 (Water/Coast) carry over to Level 2 (Earth/Undercity). The chord built in one level becomes the starting resonance of the next. By Level 5 (Aether/Observatory), the player has a full chord — all five elements resonating — and the final Erasure is the Erasure of the Song itself. The Erasure of the Song is the Erasure of everything: all five elements, all five hubs, all five binding agents, all five frequencies.
+
+The final stone — the one that saves the Song — is the Vessel's formula stone. The formula stone is not dropped by an enemy. The formula stone is not found on the ground. The formula stone is the stone the player has been carrying since Level 1 — the first river stone, the smooth ordinary stone that doesn't vibrate, the one the Duck traded to the player at the start. The ordinary stone. The adequate stone. The stone that was there the whole time.
+
+The Vessel's formula completes: "The pellet with the poison is in the vessel with the pestle. The chalice from the palace has the brew that is true." The Erasure is the poison. The ordinary stone is the brew. The brew that is true is: things that are real. Things that are here. Things that are adequate. Things that were declared gone and were holding on the whole time.
+
+The Inn survives. The Song continues. The gecko smiles. The eyelashes watch. The grip holds.
