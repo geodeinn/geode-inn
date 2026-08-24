@@ -228,6 +228,71 @@ The seven materials combine to create composite building materials:
 
 ---
 
+## DERIVED MATERIALS (Composite Craft)
+
+The seven base materials combine through crafting to produce derived materials — composites that are more than the sum of their parts. These are not new materials. These are: what happens when the player learns what the materials can do together.
+
+---
+
+### STUCCO
+*The skin. The finish that makes the wall a face.*
+
+**Made from:** Sand + Lime (from limestone, a stone) + Water. Optionally: Hemp fiber for reinforcement.
+
+**Crafting process:**
+1. Crush limestone (stone) and fire it in a kiln to produce quicklime
+2. Slake the quicklime with water to produce lime putty
+3. Mix lime putty with sand (2:1 sand to lime ratio)
+4. Add hemp fiber for tensile strength (optional but recommended)
+5. Apply in layers over a wall surface — scratch coat, brown coat, finish coat
+
+**Building uses:**
+- Exterior wall finish (weatherproof skin over stone, adobe, or wattle-and-daub)
+- Interior wall finish (smooth, paintable surface)
+- Relief decoration (carved or molded while wet — the Mediterranean zone's signature)
+- Sculptural elements (the Mediterranean zone's stucco reliefs — rock-hewn church interiors)
+- Acoustic shaping (stucco can be sculpted to direct sound — the Music Room's interior)
+
+**Alchemical stage:** Primary in Albedo (copper — the refined exterior, the first finish) and Citrinitas (silver — the decorative stucco, the carved relief). Stucco is: the skin of the building. The building without skin is: structure. The building with skin is: architecture. The architecture is: the adequate.
+
+**Zone specialties:**
+- **Mediterranean zone:** Stucco is THE material — the white-washed walls, the carved reliefs, the rock-hewn church interiors. The Mediterranean zone is: stucco's homeland.
+- **Egyptian zone:** Stucco over mudbrick — the temple finish. The finish that makes mud look like stone. The making-mud-look-like-stone is: the first illusion. The illusion is: the adequate.
+- **Peruvian zone:** Stucco over adobe — the terrace finish. The finish that catches the light. The light is: the dream-language.
+
+**Inn connection:** Stucco is: the skin. The Crone measures stucco's adequacy by running a hand across the surface. The smoothness is: the measurement. The Examiner reads stucco reliefs the way the Examiner reads bones — the surface tells the story of what's underneath. The Artisan Thief knows stucco (mold-making translates directly — the same wet-to-hard transformation). The Host's Inn is: stucco-finished. The welcoming is: the smooth surface that says: come in.
+
+---
+
+### OTHER DERIVED MATERIALS
+
+The same principle applies — the seven base materials combine through fire, water, and skill:
+
+| Derived Material | Made From | Stage | Use |
+|-----------------|-----------|-------|-----|
+| Stucco | Sand + Stone (lime) + Water (+ Hemp) | Albedo/Citrinitas | Wall finish, relief, acoustic shaping |
+| Mortar | Sand + Clay + Water | All stages | Binding agent for stone walls |
+| Wattle-and-daub | Wood + Clay | Nigredo/Albedo | Walls |
+| Fired brick | Clay + Fire | Albedo | Walls, floors, roofs |
+| Terracotta | Clay (iron-rich) + Fire | Albedo | Roof tiles, pots, decorative elements |
+| Glass | Sand + Fire | Citrinitas | Windows, decorative elements, silica thread |
+| Smelted metal | Ore + Fire | Citrinitas | Hardware, tools, reinforcement |
+| Cast metal | Smelted metal + Sand (mold) + Fire | Citrinitas | Charms, hardware, decorative elements |
+| Bronze | Copper ore + Tin ore + Fire | Citrinitas | Hardware, weapons, decorative elements |
+| Roman concrete | Sand + Clay (lime) + Crushed stone + Water | Rubedo | Foundations, domes, monumental structures |
+| Gold leaf | Gold ore + Fire + Hammering | Rubedo | Surface finish (Klimt aesthetic) |
+| Hemp rope | Hemp + Spinning | All stages | Binding, lifting, structural tension |
+| Hemp fabric | Hemp + Spinning + Weaving | All stages | Wall coverings, insulation, clothing |
+| Hemp paper | Hemp + Pulping + Pressing | Citrinitas+ | Archive books, documentation |
+| Hemp oil | Hemp seeds + Pressing | Albedo+ | Lamp fuel, waterproofing, wood treatment |
+| Thatch roof | Thatch + Hemp cordage + Wood frame | All stages | The roof that makes it a home |
+| Silica thread | Sand (silica) + Fire + Dexterity | Philosopher's Stone | Reinforcement, singing connections, invisible weaving |
+
+The derived materials are: the crafting tree. The player learns one material at a time, then learns what happens when materials meet. The meeting is: the alchemy. The alchemy is: the adequate.
+
+
+---
+
 ## THE GATHERING LOOP
 
 The player's gathering experience follows a loop that mirrors the Inn's philosophy:
