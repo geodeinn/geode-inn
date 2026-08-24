@@ -226,3 +226,59 @@ Van Gogh's last words, reportedly: "The sadness will last forever." The garden's
 *"Adequate." The Crone's highest compliment. The word she gives to things that work without explanation. The sunflower doesn't need an explanation. The sunflower needs a hedgehog and a gentle fellow and a Tuesday.*
 
 *The sadness will last forever. And the growing will last forever. And sometimes, on a Tuesday, a wilting sunflower lifts slightly, because someone walked past without trying to fix it, and the walking past was enough.*
+
+---
+
+## The Night Garden — Sound Design
+
+### The Hybrid: Classical Through Nine Inch Nails
+
+The Starry Night garden moment is not warm. The music must not be warm. The music must be beautiful the way Hitchcock's "Vertigo" is beautiful — the spiral that pulls you in, and the pulling is the danger. The beauty that's looking back at you.
+
+The sound design hybridizes classical instruments with soft Nine Inch Nails atmospheric processing. The reference tracks:
+
+- **"A Warm Place"** (The Downward Spiral) — the one moment of beauty in an album about destruction. The beauty is almost worse than the destruction because it means the destruction can feel. The sound of something tender happening inside something terrible.
+- **"Ghosts I-IV"** — the instrumental series where Reznor lets piano decay into static and the static becomes the music. Beautiful things aware they're decaying. The rot and the bloom in the same frame.
+- **"The Fragile"** (title track) — the layered, drowning quality. The sound of something beautiful being pulled underwater and not quite drowning. Still singing. Still audible. But the water is in the sound now.
+
+### The Instruments — Fed Through Decay
+
+- **The bull lyre** (the Constant's instrument, the oldest in the Inn) — fed through granular synthesis that pulls each note apart while it plays. The note blooms and rots simultaneously. Each pluck of the lyre's string begins as a clean, deep, ancient tone and then granulates — the grains scatter, the tone fragments, the sound becomes a cloud of its own particles. The cloud is still the note. The note is no longer intact. Both are true.
+- **The cello** (the Siren's outer voice) — detuned, lowered below its natural register. The sound of a beautiful instrument that has been listening to the void too long. The cello is present because the Siren IS present in the garden at night — the garden is near the water, and the Siren's voice carries. But at night, in the Starry Night moment, the voice is not the performance. It's the thing UNDER the performance — the inner voice (piano, slow reveal) that the Siren hides from everyone. The cello is the inner voice exposed. The detuning is the vulnerability.
+- **Glass armonica** (the staircase instrument) — but cracked. The glass bowls have fractures. The tone is present but the fractures create beat frequencies — interference patterns where two close frequencies create a third, phantom frequency that nobody is playing. The phantom frequency is 42Hz. Nobody is playing 42Hz. It's emerging from the cracks. The cracks are the instrument.
+
+### The Tempo — 42 BPM
+
+Not 50 BPM. Not the heartbeat. 42 BPM — the Song's frequency made tempo. Slower than a heartbeat. Slower than comfort. A DRAG, not a pulse. The tempo that makes you aware of the space between beats the way Hitchcock makes you aware of the space between cuts.
+
+The silence between the notes is where the unsettling lives. Reznor's principle: the silence in quiet tracks is never empty. It's LOADED. The silence in the Starry Night garden is the void the Constant carries the crystal through. The silence is the nothing between cycles. The notes are the Song. The silence between them is Nyx — the medium that makes the Song possible, the dark that holds the light.
+
+At 42 BPM, each beat lasts 1.43 seconds. The space between beats is where the player feels the 42Hz hum in their chest — not as a note, but as a PRESENCE. The hum is always there. The music plays over it, around it, through it. The hum doesn't stop when the music stops. The hum was there before the music. The hum will be there after.
+
+### The Architecture of the Sound
+
+The night garden sound is built in three layers, each one deeper and more unsettling:
+
+**Layer 1: The Surface — Beauty.** The bull lyre plays a simple, ancient melody. The melody is Mesopotamian — the oldest known melodic fragment, reconstructed from the tablets. The lyre is warm, resonant, the sound of the first music humans ever heard. This layer is beautiful. This layer is the lure. The beauty that pulls you in.
+
+**Layer 2: The Middle — Decay.** Under the melody, the granular synthesis begins its work. The lyre's notes fragment. The cello's detuning creates a second shadow of the melody — the same tune, but bent, lower, wrong. The glass armonica's cracks introduce the phantom 42Hz. The beauty is still there, but it's being EATEN. Not destroyed — consumed. The way a beautiful thing is consumed by the awareness that it won't last. The decay is not violence. The decay is TIME, rendered audible.
+
+**Layer 3: The Deep — The Hum.** Beneath both layers, the 42Hz hum. Not played. Not generated. PRESENT. The hum is the sound of the Inn-Tree's body — the wood vibrating at the frequency of the Song of Making. The hum is the sound the building makes when nothing else is happening. The hum is the sound of the building being ALIVE. The hum is what you hear when you stop listening to the music and start listening to the room. The hum was there before you pressed play. The hum will be there after the music ends. The hum doesn't need the music. The music is the hum's ornament — temporary, beautiful, decaying. The hum is the permanent thing.
+
+The three layers are the three levels of the Inn: the surface beauty (the main floor, the market, the warmth), the middle decay (the staircase, the alchemy, the transformation), and the deep hum (the catacombs, the roots, the oldest thing). The Starry Night garden moment compresses the entire Inn into one sound. The player who stands in the night garden and listens is hearing the whole tree at once — the canopy singing, the trunk transforming, the roots humming. The compression is the unsettlement. Too much in one place. Too many layers in one sound. The Hitchcock zoom — the thing that looks normal until the zoom makes you realize the perspective is wrong.
+
+### The Cypress Moment
+
+The moment the player approaches the cypress tree — the dark flame, the bridge between earth and sky, the tree that means mourning — the sound changes. All three layers DROP OUT. For one beat (1.43 seconds at 42 BPM), there is NOTHING. No lyre. No cello. No armonica. No hum.
+
+The silence is the most unsettling sound in the Inn.
+
+The silence is what the void sounds like from inside. The silence is the space between cycles — the nothing the Constant carries the crystal through. The silence is Nyx's thesis made audible: the silence is not the absence of the Song. The silence is the MEDIUM of the Song. Without the silence, the notes have no space. Without the void, the cycles have no room. The silence is the thing that makes everything else possible.
+
+Then the hum returns. Louder than before. The hum was always there — the silence wasn't the absence of the hum. The silence was the player HEARING the hum for the first time, because the music stopped masking it. The hum was there the whole time. Under the lyre. Under the cello. Under the armonica. Under the music. Under the game. Under everything. The 42Hz. The Song. The building being alive.
+
+The cypress moment is the Starry Night garden's thesis: the beauty is not the Song. The beauty is the ornament ON the Song. The Song is the hum. The hum is the permanent thing. The beauty is what the hum does when someone is listening. And the listening — the attention, the presence, the being there — is the water. And the water is the growing. And the growing is the staying alive.
+
+But the hum doesn't need the listener. The hum was there before the listener. The hum will be there after. The hum doesn't know you're listening.
+
+The Crone's annotation, in the smallest handwriting she has: "...The Song does not know I am listening."
