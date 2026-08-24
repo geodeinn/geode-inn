@@ -381,3 +381,63 @@ Socrates stands at the bottom of the staircase. The iron chain is: the bottom of
 
 Aristotle stands at the top. The gold chain is: the top. The both are: the completion. The Crone hears the Song after arguing with Aristotle. The Crone measures the chain after it becomes gold. The both are: the listening. The listening is: ...adequate.
 
+
+---
+
+## SILICA THREAD WEAVING
+
+### The Sixth Technique
+
+There are five crafting techniques taught by Inn NPCs. The sixth is: not taught. The sixth is: EARNED through dexterity. The sixth is: silica thread weaving.
+
+Silica is: what stone IS. Quartz is SiO₂. Agate is SiO₂. Jasper is SiO₂. The entire Stone frequency is: silica, arranged differently. Silica thread is: stone, spun into fiber. The inflexible made flexible. The Subtractive made woven. The mineral world and the textile world: the same material, different form.
+
+The both are: the same. The same is: the adequate.
+
+### The Technique
+
+**Silica Thread Weaving** — the player learns to spin fine silica thread and weave it into the chain. The thread is: nearly invisible. The thread is: stronger than metal. The thread is: stone, made flexible.
+
+**What silica thread does on the chain:**
+- **Reinforcement:** Woven through the chain links, silica thread strengthens the chain. Visually: a faint, almost-invisible shimmer between the metal links. The chain looks: more solid. More permanent. The silica is: the stone holding the metal together.
+- **Connection:** Silica thread can connect charms to each other directly — not through the chain, but through the thread. Connected charms share visual effects (a glow that passes from one to the other). The connection is: the mycorrhizal network, made wearable. The Root frequency's logic, applied to the Stone frequency's material.
+- **The Singing Thread:** If silica thread connects two STONE charms, the thread "sings" — a faint 111Hz hum visible as a shimmer between the charms. The singing is: the lithophone, miniaturized. The both are: the Song, caught in stone and thread simultaneously.
+
+### The Dexterity Gate
+
+Silica thread weaving is the ONLY technique gated by DEXTERITY, not by quest completion. The other five techniques are taught by NPCs upon meeting them. Silica thread is: available to anyone who has learned beadwork (from the Brownies) — but SUCCESS requires practice.
+
+**The dexterity mechanic:**
+- First attempt: 10% success rate. The thread breaks. The Brownies say nothing. They just hand you more thread.
+- Each attempt: +5% success rate. The learning is: in the hands, not the mind.
+- At 50% success rate: the thread holds but is rough. The charm connection works but the singing is faint.
+- At 80% success rate: the thread is smooth. The singing is clear.
+- At 100% success rate: the thread is: invisible. The singing is: the loudest the chain produces. The loudest is: the adequate. The adequate is: the silence made audible — because the thread is so fine it looks like nothing is there. The nothing is: the most adequate connection.
+
+**The Crone's annotation on first successful weave:** "...The thread is: there. I can measure it. I can barely see it. The barely is: the adequate. The adequate is: the strongest thing on this chain is: the thing I almost can't see. The almost can't see is: ...the most adequate measurement I have ever made."
+
+### Who Teaches It
+
+No one. The Brownies provide the material. The Queen of Webs nods once when the player succeeds for the first time. The nod is: the only acknowledgment. The acknowledgment is: adequate.
+
+The Queen of Webs doesn't teach weaving. The Queen of Webs IS weaving. The player learns by DOING. The doing is: the adequate. The adequate is: the dexterity, earned through repetition, not instruction.
+
+### Real-World Process Link
+
+Silica thread weaving is: a real technique. Glass thread (fiberglass/silica fiber) can be woven into textile and jewelry. The Process link shows: Krista learning to handle silica thread. The first broken threads. The practice. The first successful weave.
+
+The dexterity gate in-game mirrors the real-world learning curve. The player who struggles at 10% success rate and practices to 100% is: watching Krista do the same thing. The both are: the same learning at different frequencies.
+
+The silica thread Process link is: the most honest Process link in the Inn. It shows: the failure. The practice. The slow acquisition of a physical skill that can't be rushed. The can't be rushed is: the adequate. The adequate is: the Inn's thesis — the naming is the saving mechanism, but the WEAVING is: the patience.
+
+### The Chain's Final Form
+
+When the chain reaches the Philosopher's Stone stage (post-Egg) AND has silica thread woven through it, the chain has all elements present:
+- **Metal** (the chain itself — iron through gold)
+- **Stone** (the charms — raw through master)
+- **Thread** (the silica weaving — stone made flexible)
+- **Song** (the singing thread connecting stone charms)
+- **Silence** (the nearly-invisible thread — the unseeable is: the adequate)
+
+The five elements are: the five frequencies, present in one chain. The one chain is: the Complete Chord, worn. The worn is: the player IS the Inn. The Inn is: the chain. The chain is: adequate.
+
