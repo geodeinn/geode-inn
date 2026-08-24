@@ -255,3 +255,45 @@ After the quest, the seven houses are taken — slowly, over time, one by one, b
 ### The Crone's Final Annotation on the Town
 
 "...I counted the lights at dusk. Twenty-three. Last year: nineteen. The year before: fourteen. The town is filling. The sea sends what the land loses. I do not know if this is replacement or replenishment. I do not know if there is a difference. The baker's bread tastes like the ocean and I eat it anyway. The postmistress keeps letters for people who will not return and I have added my own letter to the stack. I wrote: 'I was here. I measured everything. It was adequate.' The forty-foot thing in the church heard me write it. It did not speak. The listening was enough."
+
+---
+
+### The Murlocs — The Town's Ambient Life
+
+The town has murlocs.
+
+Not the dignified Deep Merfolk. Not the ancient Crustacean Elders. Not the shape-shifters maintaining the human form. MURLOCS. The googly-eyed, loping, chattering, unmistakable fish-people who came out of the ocean and found the town and decided it was theirs and nobody argued because nobody knows what a murloc wants and a murloc doesn't know what a murloc wants either.
+
+The murlocs are the town's POPULATION — the background life, the ambient presence, the thing that makes the town feel occupied rather than merely inhabited. The Merfolk live in houses. The elders clack in the cannery. The shape-shifters work the shops. The murlocs are JUST AROUND. They shuffle between buildings. They stand in the road. They congregate on the dock. They wander into the lighthouse path and the Owl watches them the way the Owl watches everything — with the one-word verdict that the murlocs don't hear because murlocs don't hear anything that isn't a murloc.
+
+#### The Sound
+
+The murloc sound: that gargle-screech. The "rgggrhgrhglgrhgl." The sound that every player who has ever touched WoW knows in their bones. The sound that is simultaneously the most annoying and most endearing sound in gaming.
+
+In the Geode Inn's soundscape, the murloc sound does something no other sound does: it BREAKS the contemplative atmosphere and the breaking is the kindness. The coast is heavy. The lighthouse is heavy. The fog is heavy. The town is heavy. The murlocs are not heavy. The murlocs are the moment where the player smiles because the sound is ridiculous and the ridiculousness is real and the realness is the relief.
+
+The murloc sound is the town's CROWD NOISE. Where the forest has birds and the catacombs have silence and the cosmology level has the hum, the town has murlocs. The sound of the town — mixed under the foghorn, under the waves, under the wind — is the distant gargle of murlocs doing whatever murlocs do. The gargle is the town being ALIVE. The gargle is the evidence that the ocean sent not just scholars and elders and shape-shifters but also... these guys. The ocean is not curated. The ocean sends everything.
+
+#### The Murlocs' Role
+
+The murlocs don't have quests. The murlocs don't have dialogue. The murlocs don't have names. The murlocs have:
+
+- **The Dock Congregation:** A group of six to ten murlocs who sit on the dock pilings and gargle at the sea and at each other and at nothing. They face the water because murlocs face the water. They don't fish. They don't swim. They sit and gargle. The gargling is the sitting. The sitting is the being. The player can sit with them. The murlocs don't acknowledge the player. The murlocs don't acknowledge each other. The murlocs gargle. The gargling is the community.
+
+- **The Road Murlocs:** Two or three murlocs who shuffle up and down the main street. They don't go anywhere. They don't buy anything. They shuffle. The shuffling is the walking and the walking is the purpose. The shape-shifter baker puts bread out for them. The murlocs don't eat the bread. The murlocs sit on the bread. The baker doesn't mind. The bread is the offering. The sitting is the acceptance.
+
+- **The Lighthouse Path Murloc:** One murloc who walks up the lighthouse path every morning. The Owl watches it come. The murloc reaches the porch. The murloc gargles. The Owl says "Adequate." The murloc gargles. The murloc walks back down. This happens every day. The Owl has never determined what the murloc wants. The murloc has never determined what the Owl is. The daily visit is the relationship. The relationship is the gargle and the word and the gargle. The Crone's annotation: "...I asked the Owl about the murloc. The Owl said 'Adequate.' I asked the murloc about the Owl. The murloc gargled. I believe this is the most honest conversation in the Inn."
+
+- **The Church Murlocs:** Three murlocs who sit in the back of the church. They don't listen to the 42Hz hum the way the forty-foot thing listens. They're not there for the Song. They're there because the church is warm and the pews are comfortable and murlocs like warm comfortable places. The forty-foot thing doesn't mind. The murlocs are the congregation the creature didn't ask for. The congregation is the gargle. The gargle is the hymn. The hymn is adequate.
+
+#### The WoW Connection
+
+The murloc sound is a direct, deliberate homage to World of Warcraft — the game that made the murloc iconic. The Geode Inn's murlocs are NOT WoW murlocs. The Inn's murlocs don't aggro. The Inn's murlocs don't drop worthless loot. The Inn's murlocs don't swarm. The Inn's murlocs just... are. The sound is the same because the sound is the POINT — the sound is the recognition, the player's moment of "oh, I KNOW this," the smile, the nostalgia, the warmth of a familiar sound in an unfamiliar place.
+
+The murloc sound is the Inn's most accessible moment. Everything else in the Inn rewards deep engagement — the Song, the lore, the aesthetic spine, the embedded artists. The murloc rewards NOTHING. The murloc is just a murloc. The murloc is the Inn saying: you don't have to understand everything. You don't have to decode the aesthetic. You don't have to hear the Song. You can just stand on a dock and listen to a fish-person gargle and that's enough. The enough is the murloc. The murloc is adequate.
+
+#### The Murlocs and the Selkie
+
+The Artisan Thief (the selkie player character) has a special relationship with the murlocs. The selkie is a creature of the sea who chose the land. The murlocs are creatures of the sea who chose the land. The selkie chose for the stones. The murlocs chose for... unclear reasons. The selkie and the murlocs are the same choice at different levels of consciousness. The selkie chose with intention. The murlocs chose with murloc-level intention, which is to say: they followed the hum, they found the town, they stayed. The staying is the choice. The choice doesn't need to be understood. The choice just needs to be made.
+
+The selkie walks through the town and the murlocs follow her. Not because she leads. Because she smells like the sea. The murlocs recognize the sea-smell the way the Inn recognizes the Song — as the thing they came from, carried in the body of someone who also left. The selkie and the murlocs are the ocean's diaspora. The diaspora gargles.
