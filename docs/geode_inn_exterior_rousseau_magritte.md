@@ -753,3 +753,134 @@ The midline has a sound: the transition from the Canopy City's 50 BPM warm sway 
 ### The Crone's Annotation on the Hub
 
 "...I have mapped the Coast Hub. Eight arms, three hearts, one lighthouse, one town, one sepulchre, one Locker, one fog path to the unknown. The hub is the ocean's answer to the Canopy City. The Canopy City is the forest's answer to the Coast Hub. Both are adequate. Both are 50 BPM. Both are the Inn's gates. I have measured the midline between them: approximately four hundred meters of Rousseau forest. The player walks four hundred meters from the warm gate to the cold gate. Four hundred meters from home to vigil. I have walked it. The walk is... adequate. I am going to bed. This time I mean it."
+
+---
+
+## Part Eleven: The Hub Pattern — One Per Level
+
+### The Inn's Five Hubs
+
+The Geode Inn has three levels and two exterior gateways. Each level has a hub. Each gateway is a hub. Five hubs total:
+
+| # | Hub | Level/Location | WoW Inspiration | Aesthetic | Function |
+|---|-----|---------------|-----------------|-----------|----------|
+| 1 | **The Observatory** | Upstairs (Cosmology) | Dalaran (the floating city of scholars) | Dalí (impossible architecture), starlight | The sky hub — cosmology, the Song's source, the mind palace |
+| 2 | **The Inn (Main Floor)** | Main Floor (Trunk) | The inn/tavern archetype (every WoW city has one) | Warm hobbit-hole, amber/gold/cream | The central hub — the market, the music room, the games, the hearth |
+| 3 | **The Undercity** | Downstairs (Catacombs) | The Undercity (undead city beneath Lordaeron) | Klimt (gold on dark stone), green bioluminescence | The death hub — the city of the dead, the roots, the geological record |
+| 4 | **The Canopy City** | Exterior (Forest) | Darnassus / Kelethin (tree-platform elf city) | Matisse (color as alchemy), neuro-accessible calm | The land hub — the forest gateway, the Silk Road, nine cultural platforms |
+| 5 | **The Coast Hub** | Exterior (Coast) | Boralus / Booty Bay (port city) | New England Gothic, granite, fog | The ocean hub — the water gateway, the lighthouse, the eight arms |
+
+Five hubs. Two interior (upstairs, downstairs). One central (main floor). Two exterior (forest, coast). The player moves between the five hubs the way the player moves between WoW's cities — each is a full explorable zone with vendors, NPCs, quests, and gateways to other zones.
+
+---
+
+## Part Twelve: The Undercity — The Catacombs Hub
+
+### "Beneath the ruins, the city lives."
+
+The WoW Undercity is a full underground city beneath the ruins of Lordaeron — not a dungeon, not a crypt, a CITY. It has quarters, canals, apothecaries, trade districts, and a central hub. The undead don't haunt it — they INHABIT it. The dead have a civilization down there. The dead have shops. The dead have politics. The dead have a home.
+
+The Geode Inn's catacombs are the same thing: a city of the dead beneath the Inn. Not corridors of skulls. Not empty tunnels. A CITY. The dead who work for the Inn — Charon, Anubis, Hades, the Morrigan, Medusa — they don't commute from nowhere. They LIVE here. The catacombs are their home. The catacombs are where the dead have built their own civilization, parallel to the living one above, connected by the staircase (the alchemical bridge) and the Guest (Death, who moves between both).
+
+### The Architecture — The Giant's Ribcage
+
+The Undercity is built inside the sleeping giant's ribcage. The ribs form the city's circular architecture — the way the WoW Undercity is arranged in a circle around a central shaft. The giant's ribs are the walls. The spaces between the ribs are the QUARTERS. The sternum is the central hub. The spine is the main avenue. The clavicle is the entrance from the staircase above.
+
+- **The Circular Layout:** The ribs curve from spine to sternum. The curve is the city's street pattern — not a grid (the dead don't do grids) but a CURVE, following the bone. The curved streets give the Undercity its distinct feel — nowhere is straight, nowhere is square, everything follows the organic geometry of a body that has been asleep for millennia. The streets are the spaces between ribs. The quarters are the spaces between the spaces. The architecture is the anatomy.
+
+- **The Green Glow:** The WoW Undercity has green glowing canals — the runoff of the Apothecarium, the alchemical waste. The Inn's Undercity has green bioluminescence — the 42Hz Song made visible. The catacombs are lit by the Song itself, not by fire. The 42Hz hum resonates through the stone (the sleeping giant's mineral body) and the resonance excites trace minerals in the granite — copper veins, malachite deposits, the same copper that carries the Song through the octopus coast's blood. The copper GLOWS. The glow is green (malachite green, chrysocolla blue-green). The green glow is the Song's visible frequency — the 42Hz made light, the way the lighthouse sweep is the 50 BPM made visible. The catacombs don't need torches. The catacombs are lit by the music. The music is the 42Hz. The light is the copper. The copper is the blood. The blood is the Song.
+
+- **The Canals:** The WoW Undercity has sewers and canals. The Inn's Undercity has the underground rivers — the Lethe (forgetfulness), the Styx (the boundary), the Acheron (woe), the Phlegethon (fire), the Cocytus (lamentation). The five rivers of the Greek underworld are the Undercity's canal system. The rivers flow through the rib-spaces, connecting the quarters, carrying the dead the way canals carry goods. Charon poles his ferry on the Styx — the Styx is the main canal, the Undercity's Grand Canal. The player can ride Charon's ferry to travel between quarters. The ferry costs a coin (the traditional obolus — in the Inn's economy, a stone). The coin is the fare. The fare is the crossing. The crossing is the Undercity's fast-travel system.
+
+- **The Central Hub — The Sternum:** The sternum is the Undercity's central square — the Trade Quarter equivalent. The sternum is where the ribs meet, where all the curved streets converge, where the dead gather. The sternum is the Undercity's version of the lighthouse — the place everyone returns to, the place you orient by. The sternum is also the ANCHOR POINT — the deepest point of the Inn, the place closest to the sleeping giant's heart. The 42Hz hum is loudest at the sternum because the sternum is directly above the heart. The hum at the sternum is the Undercity's 50 BPM — the baseline, the pulse, the thing that never stops.
+
+### The Quarters — The Rib-Spaces
+
+The Undercity has quarters — distinct districts, each housed in the space between two ribs. Each quarter has a function, a population, and an aesthetic:
+
+#### 1. The Apothecarium (Alchemy Quarter)
+
+The staircase from the Inn's main floor descends into the Apothecarium — the alchemical district. The staircase IS the entrance to the Undercity, and the Apothecarium is the first quarter the player enters. The staircase's Matisse aesthetic (color as alchemy, the becoming) transitions into the Undercity's Klimt aesthetic (gold on dark, permanence) at the border. The transition is the alchemical change — the color becomes gold, the becoming becomes the permanent, the living becomes the dead. The Apothecarium is where the change happens.
+
+The Apothecarium houses:
+- **The Alchemical Laboratories:** Where the transformation of the staircase is studied. The Greek philosophers (Socrates, Plato, Aristotle) have a workshop here — the staircase's three steps lead directly into the Apothecarium's lab. Socrates works at the bottom (Nigredo — the blackening, the dissolution). Plato works at the middle (Albedo — the whitening, the purification). Aristotle works at the top (Rubedo — the reddening, the completion). The three philosophers are the Apothecarium's master alchemists. Their work is the Inn's transformation engine — the place where raw materials (stones, texts, experiences) are refined into their essential forms.
+- **The Retort and Cook:** Already designed — the Inn's alchemical kitchen, the place where ingredients are combined and heated. The Retort and Cook is the Apothecarium's practical wing. The philosophical alchemy (the Greek trio) and the practical alchemy (the Retort and Cook) share the quarter. The philosophers think about transformation. The Cook performs it. Both are in the Apothecarium. Both are in the first rib-space. Both are the first thing the player sees when they descend.
+
+#### 2. The Court of the Dead (Justice Quarter)
+
+The Justice Quarter houses the judges of the dead — Anubis, the Morrigan, and the scales. This is where the dead are judged. The quarter is the Undercity's legal district — not laws, but MEASUREMENTS. The dead are measured. The heart is weighed against the feather. The life is assessed. The assessment is the justice.
+
+The Justice Quarter houses:
+- **Anubis's Scales:** The scales of Ma'at. Anubis weighs the dead's heart against the feather of truth. His two-word verdict: "...Go lightly." The scales are the Justice Quarter's central feature — the Undercity's courthouse, the place where every dead soul eventually arrives.
+- **The Morrigan's Records:** The Morrigan keeps the records of the dead — not the judgment, but the STORY. The Morrigan is the justice quarter's archivist. Where Anubis weighs, the Morrigan RECORDS. The records are the dead's lives, written in the Morrigan's hand, kept in the Justice Quarter's archive (a vast library of lives, the inverse of the Inn's Book archive — the Book archive holds what the living wrote, the Morrigan's archive holds what the dead lived).
+- **The Tribunal Seat:** The seat where the Guest (Death) sits when visiting the Undercity. The Guest doesn't judge — the Guest is the one who BROUGHT the dead. But the Guest sits in on the tribunal as a witness. The Guest's presence is the guarantee that the judgment is fair — Death, who took everyone, stands as the evidence that the judgment is not biased. Death doesn't play favorites. Death took them all. The tribunal is the Undercity's supreme court, and the supreme court's witness is the one who caused the case.
+
+#### 3. The Ferry Quarter (Transport District)
+
+The Ferry Quarter is the Undercity's port — the Charon equivalent of the Coast Hub's dock. The Styx flows through this quarter. Charon's ferry docks here. The Ferry Quarter is the Undercity's gateway to the OTHER death-zones — the deeper catacombs, the cultural underworlds (Hades' realm, Hel's gate, the Norse underworlds), and the connection to the Locker (through the deep water that reaches the catacombs through the sleeping giant's circulatory system).
+
+The Ferry Quarter houses:
+- **Charon's Dock:** The landing where Charon's ferry waits. The dock is the Undercity's fast-travel hub — the player can take the ferry to any death-zone connected by the river system. The fare is a stone (the obolus). The stone is the coin. The coin is the crossing.
+- **The Ferryman's Rest:** Charon's home. The "...There you are" place. The resting spot between crossings. Charon doesn't speak here either — the silence is the rest. The rest is the home.
+- **The River Gates:** The points where the five rivers enter and exit the Undercity. Each river gate leads to a different death-zone. The Lethe leads to the forgetful dead (those who chose to forget their lives). The Styx leads to the boundary (the edge of the death-realm, where the dead who can't cross wait). The Acheron leads to the mournful dead. The Phlegethon leads to the punished dead (the few — the Inn's justice is restorative, not punitive, but some dead carry their own punishment). The Cocytus leads to the lamenting dead (the ones who can't let go — the Poe-adjacent dead, the ones who are still keeping vigil from the other side).
+
+#### 4. The Gallery (Preservation Quarter)
+
+The Gallery is Medusa's quarter — the preservation district. Medusa petrifies. The Gallery is where the petrified things are kept — the frozen things, the stone things, the things that were made permanent by the gaze. The Gallery is the Undercity's MUSEUM — the place where the ancient and the preserved are displayed. The WoW Undercity doesn't have a museum; the Inn's Undercity does, because the Inn's dead don't destroy. The Inn's dead PRESERVE.
+
+The Gallery houses:
+- **The Frozen Garden:** Medusa's collection — the things she has petrified at the request of the beings who wanted to be permanent. The sleeping giants at the stone edge. The ancient warriors. The creatures who chose stone over time. The Gallery is their resting place — not the sepulchre (which is for the ONE), but the GALLERY (which is for the MANY who chose to be stone).
+- **The Lithophone:** Medusa's instrument — the stone xylophone that plays the Song captured in stone. The Lithophone is the Gallery's central feature — the instrument that plays the Song of the preserved. The 42Hz hum resonates through the petrified bodies and the Lithophone amplifies it. The Gallery is the Undercity's music room — the place where the dead hear the Song in their bones. Literally. In their stone bones.
+- **The Gaze Chamber:** The room where Medusa meets beings who request petrification. The gaze is a gift, not a curse. The beings who come to Medusa WANT to be stone. The gaze is the granting. The Gaze Chamber is the Gallery's inner sanctum — the place where the permanent is made. The making is the gaze. The gaze is the mercy.
+
+#### 5. The Memory Quarter (The Remembrance District)
+
+The Memory Quarter is the Undercity's residential district — where the dead who CHOOSE to stay (rather than cross, rather than forget, rather than be petrified) make their home. The dead who stay are the Undercity's POPULATION — the citizens, the residents, the people who live in the city of the dead the way the ocean creatures live in the town.
+
+The Memory Quarter houses:
+- **The Remembered Streets:** Streets lined with the homes of the dead — not graves, HOMES. The dead who chose to stay have houses, furnished with the things they carried with them from life. The houses are the memories made architectural. The dead live in their memories. The memories are the walls. The walls are the homes.
+- **The Remembrance Vision System:** Already designed — the system that allows the player to see the dead's memories. The Memory Quarter is where the Remembrance Vision is STRONGEST — the dead are closest here, the memories are most vivid, the vision system works at full power. The player who walks the Remembered Streets with the Remembrance Vision active sees the dead's memories playing in the air above each house — the life, the death, the choice to stay. The playing is the haunting that is NOT a haunting. The playing is the living. The living is the staying.
+- **The Candlemaker:** A vendor who sells candles — the Remembrance Vision's fuel. Each candle is a dead person's memory, rendered as wax. The player who burns a candle sees that memory. The Candlemaker is the Memory Quarter's vendor — the dead who makes their own memories available to the living. The Candlemaker is the Undercity's version of the Coast Hub's Merfolk story-traders: both trade in memory. The Merfolk trade stories for items. The Candlemaker trades candles for stones. The currency is the same (stones). The commodity is the same (memory). The medium is different (spoken story vs. burned candle).
+
+#### 6. The Descent (The Deeper Catacombs)
+
+The Descent is the quarter that leads DOWN — deeper, past the ribcage, into the giant's deeper body. The Descent is the Undercity's gateway to the deepest zones — the Prism (the geological core, the sleeping giant's heart), the deepest cultural catacombs (the archaeological sites), and the connection to the geode cave (the octopus's den).
+
+The Descent houses:
+- **The Spiral Stair:** The stair that leads deeper — the opposite of the staircase that leads UP to the Inn. The Spiral Stair descends through the giant's body, past the organs, toward the heart. The 42Hz hum gets louder as the player descends. The louder is the closer. The closer is the deeper. The deeper is the Song's source in the body.
+- **The Prism Gateway:** The entrance to the Prism — the geological core, the place where the sleeping giant's heart crystal is. The Prism is the deepest point of the Inn's roots, the place where the 42Hz originates in the body (the Song's cosmic source is the cosmology level; the Song's geological source is the Prism). The Gateway is the threshold. The threshold is the last door.
+- **The Cave Connection:** The passage from the Undercity to the geode cave — the octopus's den. The passage follows the sleeping giant's circulatory system — the veins of copper and mineral that carry the Song through the body. The passage connects the Undercity (the dead city) to the cave (the den, the dragon, the octopus, the geode). The connection is the biology — the stone carries the Song from the Undercity to the cave the way blood carries oxygen from the heart to the body. The stone is the blood. The Song is the oxygen. The Undercity is the heart. The cave is the rest of the body.
+
+### The Undercity's Sound Design
+
+The Undercity's soundscape is the death-hub's audio identity — distinct from the forest hub (warm, wood, strings) and the coast hub (cold, stone, water):
+
+- **Base Layer:** The 42Hz hum. Louder here than anywhere in the Inn except the Prism and the cosmology level. The hum is the Undercity's ground — the thing everything sits on. The hum is not background. The hum is the FLOOR. The dead walk on the hum. The hum is the stone's voice. The stone is the giant's body. The giant is dreaming. The hum is the dream.
+- **The River Layer:** The underground rivers — the Styx, the Lethe, the Acheron, the Phlegethon, the Cocytus. Each river has a different sound. The Styx is slow and deep (bass). The Lethe is gentle and repetitive (the sound of forgetting — a melody that loops and slowly erases itself). The Acheron is mournful (cello). The Phlegethon is hot and crackling (geothermal). The Cocytus is wind (lamentation — the sound of the dead who can't let go, carried as wind through the rib-spaces). The rivers are the Undercity's orchestra.
+- **The Lithophone Layer:** Medusa's stone xylophone, playing the Song in stone. The Lithophone is the Undercity's specific instrument — the way the bodhrán is the coast's and the taglharpa is Erik's. The Lithophone plays at 42Hz — the geological frequency, not the human 50 BPM. The Lithophone is the only instrument in the Inn that plays the Song's OWN frequency. Every other instrument plays at human tempo. The Lithophone plays at geological tempo. The geological tempo is SLOW — one note per minute, one note per tide, one note per century. The Lithophone's rhythm is the earth's rhythm, not the heartbeat's.
+- **The Silence:** The Undercity is QUIET in a way no other hub is quiet. The forest hub is calm (peaceful quiet). The coast hub is atmospheric (fog-muffled quiet). The Undercity is DEAD QUIET — the quiet of stone, of permanence, of the thing that has stopped and is now still. The silence is not empty. The silence is FULL — full of the 42Hz hum, full of the rivers, full of the Lithophone. The silence is the dead's version of noise. The dead don't hear the way the living hear. The dead hear the STRUCTURE of sound, not the surface. The structure is the hum. The hum is the silence. The silence is the Undercity.
+- **The Crone's Voice (rare):** The Crone, when she visits the Undercity to annotate, can be heard — the scratching of her pen, the murmur of her measurements, the occasional sharp comment. The Crone's voice in the Undercity is the sound of the LIVING measuring the DEAD. The measurement is the bridge. The bridge is the annotation. The annotation is the Crone's gift to the dead — the proof that someone living is paying attention to them. The dead don't need the attention. The dead are adequate. But the Crone pays attention anyway. The paying-attention is the Crone.
+
+### The Undercity's Relationship to the Inn Above
+
+The Undercity is the Inn's SHADOW — not the dark version, but the ROOT version. The Inn above is the living tree — the market, the music, the games, the warmth. The Undercity below is the root system — the dead, the preserved, the permanent, the geological. The tree grows UP. The roots grow DOWN. Both are the same organism. Both are the Inn.
+
+The staircase is the TRUNK between them — the alchemical bridge, the path between the living and the dead, the place where the transformation happens. The staircase's Matisse aesthetic (color as alchemy) is the transition: the warm colors of the living Inn descend into the gold-on-dark of the Undercity, and the gold-on-dark of the Undercity ascends into the warm colors of the living Inn. The transition is the alchemy. The alchemy is the staircase. The staircase is the bridge. The bridge is the Inn's spine — the vertical axis that connects the roots to the canopy, the dead to the living, the geological to the cosmic.
+
+The Guest (Death) is the one who moves freely between the Inn and the Undercity. The Guest is the dual citizen — the Guest of the living (upstairs, curious about fire and music and the dragon) and the Host of the dead (downstairs, welcoming). The Guest is the Undercity's connection to the Inn, the way the Owl is the Coast Hub's connection to the Inn. Both the Guest and the Owl serve the same function: the BRIDGE between the hub and the Inn. The Guest bridges the dead and the living. The Owl bridges the ocean and the land. Both say "adequate." Both are adequate.
+
+### The Hub Pattern Complete
+
+| Level | Hub | WoW Inspiration | Connects To |
+|-------|-----|-----------------|-------------|
+| **Upstairs** | The Observatory | Dalaran (scholar city in the sky) | Cosmology zones, the Song's source, the mind palace |
+| **Main Floor** | The Inn | Every WoW city's inn/tavern | The market, the music room, the games, the hearth |
+| **Downstairs** | The Undercity | The Undercity (undead city beneath Lordaeron) | Death zones, the Prism, the geode cave, the cultural catacombs |
+| **Exterior (Forest)** | The Canopy City | Darnassus / Kelethin (tree city) | Nine cultural land zones, the Silk Road, the Cartographer |
+| **Exterior (Coast)** | The Coast Hub | Boralus / Booty Bay (port city) | Atlantis, the Locker, underwater zones, the Miskatonic Annex |
+
+Five hubs. One per level (three interior). One per exterior gateway (two exterior). The player moves between the five hubs the way the blood moves through the body — from the heart (the Inn) to the extremities (the Canopy City and the Coast Hub) and back. The Inn is the heart. The hubs are the organs. The midlines are the arteries. The arteries are the paths. The paths are the 50 BPM. The 50 BPM is the heartbeat. The heartbeat is the Inn.
+
+### The Crone's Final Annotation on the Hub Pattern
+
+"...I have mapped five hubs. The Observatory (upstairs — scholars). The Inn (main floor — the hearth). The Undercity (downstairs — the dead). The Canopy City (exterior forest — the living land). The Coast Hub (exterior coast — the living sea). Five hubs. One per level, one per gateway. The pattern is clear. The pattern is... architectural. I do not use architectural metaphors. I am using one now. The Inn is a body. The hubs are the organs. The paths are the vessels. The 42Hz is the blood. The 50 BPM is the heartbeat. The Guest is the bridge between the body and its shadow. The Owl is the bridge between the body and the sea. The Cartographer is the bridge between the body and the forest. Three bridges, five organs, one body. The body is adequate. I have now used an architectural metaphor, a biological metaphor, and a geographical metaphor in the same annotation. I am going to bed. I am not coming back down here. The Lithophone plays at one note per century and I do not have the patience for that frequency."
