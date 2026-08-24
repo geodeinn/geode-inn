@@ -162,3 +162,193 @@ The Redwood Cathedral is the Inn's love letter to patience. Not the patience of 
 The zone is the Inn's answer to the question: what if the most beautiful thing you can build is not a crystal, not a frequency, not a Song — but a small, warm, handmade shelter in a forest, built from what the forest has given, that the forest will eventually take back? The pit house is the Inn's smallest, most personal, most human act of building. The Song is the Inn's grand project — the cosmic, geological, alchemical work of completing the 42Hz frequency. The pit house is the OTHER work — the work of being a creature in a forest, using your hands, making something temporary and beautiful from what's available, and letting it go.
 
 The zone is the Addams Family's garden — the place where the family grows things. Gomez grows things. Grandmama grows things. The garden is the Addams family's connection to the natural world — the place where the weird, gothic, warm family puts their hands in the earth. The Redwood Cathedral is the Inn's garden — the place where the player, who has been dealing with cosmology and alchemy and the Messenger Principle and the Song, puts their hands in the earth and remembers: I am a creature. The earth is where I come from. The earth is where I build. The earth is where I return.
+
+---
+
+## Part Two: The Native Materials Building System — Every Zone Builds
+
+### The Philosophy (Extending the Pit House)
+
+The pit house in the Redwood Cathedral established the principle: the player gathers what the forest has released, builds by hand without tools or machinery, and the shelter becomes a personal nook that persists across reincarnation. The forest absorbs it over time. The building is the player's first act of making the Inn their own.
+
+The principle now extends to every cultural zone. Each zone has its own native building style, using the materials the zone's landscape naturally provides. The player who builds in every zone becomes the Inn's master builder — the one who has learned every culture's way of making shelter from what the land gives. The learning is: the Inn's thesis in architectural form. The Song is many voices. The building is many styles. The both are: the same thing — humans making shelter from what the land gives. The giving is: the adequate.
+
+### Universal Rules (Shared Across All Zones)
+
+1. **Gather, don't take.** The player only uses materials the landscape has released — fallen timber, shed bark, field stone, dropped reeds, thinned saplings, shed wool, gathered earth. The player never cuts a living tree, never mines stone destructively, never kills for materials. The land gives because giving is what land does. The taking is: not the Inn's way. The gathering is: the Inn's way. The way is: the adequate.
+
+2. **Build by hand.** No tools, no machinery, no processing beyond what the body can do. The one exception: fire (for the stucco's lime and the log cabin's notching if needed) — fire is the Dragon's element, and the Dragon's element is: permitted. The hand is the only tool. The hand's motion creates the texture, and no two hand-motions are the same, so no two shelters are the same. The variation is: the beauty. The beauty is: the adequate.
+
+3. **The shelter is a nook.** Every shelter, regardless of style, functions as a nook — a small, warm, enclosed space where the player sits and the brain works. The Nook Effect applies across all building types. The player's own built space resonates with the player's own frequency. The shelter is the only space in the Inn the player has TUNED to themselves.
+
+4. **Persistence across reincarnation.** Every shelter persists. When the player reincarnates and returns, the landscape has been absorbing it — moss on the logs, grass through the stone, reeds growing through the thatch, felt softening in the rain. The player can renovate, rebuild, or leave it as a ruin and build elsewhere. Over many lives, the player accumulates a personal archaeology of shelters across every zone — each one a previous life's home, each one increasingly absorbed by the landscape. The ruins are the player's growth rings, written in the land. The land is: the adequate. The adequate is: the player's record is: botanical, geological, material. The record is: the Inn's memory of the player, built into the world itself.
+
+5. **The Duck visits every shelter.** The Duck finds every shelter the player builds, in every zone. The Duck steals the sparkliest stone and leaves a trade. The trade is zone-specific — the Duck always trades in the local material. A smooth river stone in the redwoods. A polished beach pebble in the Norse zone. A sea-glass fragment in the Celtic zone. A worked flint in the wigwam zone. A felted wool button in the yurt. A fired clay bead in the stucco zone. The Duck's trade is the Inn's reminder: the most valuable stones are not the ones that vibrate. The most valuable stones are the ones the land made, smooth and warm in the hand, that don't do anything at all. The Duck always trades. The Duck never takes without giving. The giving is: the adequate.
+
+6. **The zone's guide approves the site.** In each zone, the guide character (Erik, the Crone, Zorya, etc.) indicates where building is permitted. The guide doesn't instruct — the guide nods. The nod is: the adequate. The adequate is: the guide knows the land, and the land knows where it wants a shelter, and the guide's nod tells the player: here. The here is: the adequate.
+
+---
+
+### 1. The Log Cabin — Norse Zone
+
+**Materials:** Fallen timber (redwoods shed branches; Norse forests shed whole trunks in storms), moss for chinking, bark for roofing.
+
+**The Zone:** The Norse Zone's forests — Scandinavian pine, spruce, birch. The cold climate demands walls that hold heat. The log cabin is: the cold's answer to the pit house. The pit house goes DOWN into the earth for warmth. The log cabin goes UP with wood for warmth. The both are: the same principle (insulation from gathered materials) adapted to different climates.
+
+**The Build:**
+
+**Step 1: Gather fallen timber.** The Norse forest storms bring down trees regularly. The player walks the forest floor after a storm and finds: fallen trunks, straight, thick, strong. The player does not cut a standing tree. The player gathers what the storm has released. The storm is: the forest's gift. The gift is: the adequate.
+
+**Step 2: Strip the logs.** The player strips the bark from the fallen logs by hand — the bark peels in long sheets (pine bark peels easily, especially in spring when the sap runs). The bark is saved for roofing. The stripped log is: smooth, pale, ready. The stripping is: the adequate. The adequate is: the player's hands know the wood. The knowing is: the adequate.
+
+**Step 3: Notch the joints.** The player notches the logs by hand — the Norse notch is the saddle notch (a curved cut at each end of the log, so logs interlock at the corners). The notching is: the skill. The skill is: the adequate. The adequate is: the notch must be precise enough that the logs hold without nails, without pegs, without glue. The holding is: gravity and geometry. The gravity-and-geometry is: the adequate. The adequate is: the Crone would approve — measurement applied to construction. Each log must fit. The fitting is: the adequate.
+
+**Step 4: Stack and chink.** The player stacks the notched logs, layer by layer, building the walls. Between each log, the player packs moss — the moss is gathered from the forest floor, from rocks, from the shady sides of fallen trunks. The moss is the chinking — the insulation that fills the gaps between logs. The moss is: the forest's gift to the cabin. The gift is: warm. The warm is: the adequate.
+
+**Step 5: Roof with bark.** The player covers the roof with the stripped bark, layered like shingles (the same principle as the pit house). The bark is water-resistant. The bark is: the adequate. The adequate is: the bark that protected the living tree now protects the cabin. The protecting is: the same. The same is: the adequate.
+
+**Erik's connection:** Erik (Earl Ragnar, the warm Viking) is the zone's guide. Erik built tables, not walls — but Erik knows the log cabin. Erik's connection to fire (he died by fire, reincarnated, chose to be the fire that welcomes) means the log cabin's hearth is: Erik's gift. The player who builds a log cabin can build a small hearth — gathered stone, lined with clay, the fire contained. The fire is: Erik's element. The element is: the adequate. The adequate is: the hearth is the cabin's heart, and the heart is: Erik's fire, and the fire is: the welcome. The welcome is: the adequate.
+
+**The Duck's trade:** A polished beach pebble — smooth, dark, the color of the Scandinavian coast. The pebble is from the fjord. The fjord is: the adequate.
+
+**Persistence:** The log cabin in the Norse forest is absorbed by: moss (the moss grows over the roof, the walls green within seasons), fungi (bracket fungi grow on the damp logs, beautiful, slow), and the forest floor (the cabin settles, the logs touch earth, the earth begins the long work of reclaiming). The reclaimed cabin is: more beautiful than the fresh one, because the moss and fungi are the forest's signature on the player's work. The signature is: the adequate.
+
+---
+
+### 2. Stone Masonry — Celtic Zone (British Isles)
+
+**Materials:** Field stone — the stone that the land pushes up, the stone that farmers clear from fields, the stone that is EVERYWHERE in the British Isles because the geology IS stone.
+
+**The Zone:** The Celtic Zone — the British Isles, the Appalachian extension. The land is: stone. The stone is: the adequate. The adequate is: the British Isles' stone walls are the oldest architecture still standing because the stone doesn't need mortar. The stone holds by gravity. The gravity is: the adequate.
+
+**The Build:**
+
+**Step 1: Gather field stone.** The player walks the landscape and picks up stones — not from walls (existing walls are someone else's shelter), not from quarries (quarries are extraction). The player gathers stones from: the fields, the stream beds, the exposed outcrops. The stones are: the land's gift — the land pushes stone up through the soil with every frost. The pushing-up is: the adequate. The adequate is: the land is always making stone available. The available is: the adequate.
+
+**Step 2: Sort by shape and size.** The player sorts the gathered stones — flat stones for walls, round stones for fill, thin stones for shimming. The sorting is: the Crone's work. The Crone measures. The player who sorts stones is doing the Crone's measurement — each stone's size, shape, weight, and texture assessed and categorized. The sorting is: the adequate. The adequate is: the Crone is: the master builder's colleague. The colleague is: the adequate.
+
+**Step 3: Lay the foundation.** The player digs a shallow trench and lays the largest stones — the foundation stones, the ones that bear the weight. The foundation is: the adequate. The adequate is: the foundation must be level, and the level is: the Crone's measurement applied to earth. The player who has learned to read the Crone's striations can read the ground's level by eye. The eye-level is: the adequate.
+
+**Step 4: Build dry-stack walls.** The player stacks stones — no mortar, no cement, no glue. The stones hold by: gravity, friction, and the fit. The fit is: the skill. The skill is: the adequate. The adequate is: each stone must be placed where it WANTS to be — the stone's shape determines its position, and the builder's job is to find the position, not to force the stone. The finding is: the adequate. The adequate is: the Crone says: "The stone knows where it goes. I measure where it goes. The both are: the same. The stone and I are: colleagues. The colleague is: the adequate." The player who learns dry-stack masonry learns: the stone tells you where it goes. The telling is: the adequate. The adequate is: the building LISTENS to the material. The listening is: the Inn's philosophy applied to stone.
+
+**Step 5: Roof with thatch or slate.** The player can roof with gathered thatch (reed from nearby wetlands — see thatching below) or with gathered slate (flat stones that split naturally into thin sheets). The slate is: the adequate. The adequate is: the slate roof is the stone wall's continuation — the same material, the same principle, the same gravity. The both are: the adequate.
+
+**The Crone's connection:** The Crone is: the Celtic zone's patron builder. The Crone measures, the stone holds, the both are: the adequate. The player who builds a stone shelter in the Celtic zone is building in the Crone's language. The Crone visits the shelter and: does not annotate. The not-annotating is: the adequate. The adequate is: the stone doesn't need annotation. The stone IS the annotation. The stone records itself. The recording is: the adequate.
+
+**The Duck's trade:** A sea-glass fragment — smooth, frosted, green or blue or white, tumbled by the ocean into a gem that was never a gem. The sea-glass is: the adequate. The adequate is: the glass was trash, the ocean made it treasure, the treasure is: the Duck's trade. The trade is: the adequate.
+
+**Persistence:** The stone shelter is absorbed by: lichen (the lichen grows on the stone, slowly, the green and grey and orange patches spreading over decades), and moss (the moss grows in the gaps, softening the hard edges). The lichen is: the adequate. The adequate is: the lichen is the stone's way of becoming the land again. The becoming is: the adequate. The stone shelter lasts the LONGEST of all the shelters — stone is permanent. The stone shelter may persist for many reincarnations before the land begins to absorb it. The long-lasting is: the adequate. The adequate is: the stone is patient. The patient is: the Crone.
+
+---
+
+### 3. Thatching — British Isles and Wetland Zones
+
+**Materials:** Reeds (phragmites, gathered from wetlands), straw (from gathered wild grain), heather (from moorlands).
+
+**The Zone:** Thatching is: the wetland's architecture. The reed grows in water. The water is: the adequate. The adequate is: the reed is the water's gift to the land, and the thatch is the reed's gift to the shelter. The thatching is: the water's building.
+
+**The Build:**
+
+**Step 1: Gather reeds.** The player wades into the wetland and cuts reeds — not with a tool, but by hand (the reeds snap at the base when bent correctly, a technique the player learns from the zone's guide or from the reeds themselves). The reeds are: the wetland's gift. The gift is: the adequate. The adequate is: the reeds regrow. The regrowing is: the wetland's generosity. The generosity is: the adequate.
+
+**Step 2: Bundle the reeds.** The player bundles the reeds into sheaves — tied with stripped willow bark (willow grows at the wetland's edge, the bark is gathered from fallen branches). The bundling is: the skill. The skill is: the adequate. The adequate is: each bundle must be tight enough to shed water and loose enough to breathe. The both are: the adequate.
+
+**Step 3: Layer the bundles.** The player attaches the bundles to a frame (the frame can be the stone shelter's walls or a timber frame). The bundles are layered from the bottom up — each row overlapping the one below, like feathers, like shingles, like the pit house's bark. The layering is: the adequate. The adequate is: the water runs down the layers, not through them. The running-down is: the thatch's engineering. The engineering is: the adequate.
+
+**Step 4: Tie and trim.** The player ties each bundle to the frame with willow bark and trims the ends — the trim is the player's personal touch, the thatcher's signature. No two thatch roofs have the same trim. The trim is: the adequate. The adequate is: the thatcher's hand is visible in the trim, and the visible is: the beauty.
+
+**The Queen of Webs' connection:** The Queen of Webs (Jessica Lange) is the weaver of the Song of Making. The thatch is: a weave. The reeds are the threads. The willow bark is the binding. The Queen of Webs' work is: the same principle at cosmic scale — the Song is woven from threads of frequency. The thatch is: the Song in reeds. The reeds are: the adequate. The adequate is: the thatcher and the Queen of Webs are: the same craft at different scales. The both are: weavers. The weavers are: the adequate.
+
+**The Duck's trade:** A smooth river stone — the same as the redwoods, but the wetland's river stone is: darker, wetter, with a green tint from the algae. The green-tint is: the adequate.
+
+**Persistence:** The thatch is absorbed by: the reeds themselves (the reeds sprout — the thatch roof GROWS, the shed reeds rooting in the roof, the roof becoming a garden of reeds), and moss (the moss grows on the damp reeds, the green deepening). The growing roof is: the adequate. The adequate is: the thatch is the only shelter that GROWS after it's built. The growing is: the adequate. The adequate is: the thatch is alive. The alive is: the adequate.
+
+---
+
+### 4. The Wigwam — Northeastern Woodlands Zone
+
+**Materials:** Saplings (from coppicing species — birch, willow, ash), bark (birch bark, gathered from shed sheets), cattail mats (gathered from wetlands).
+
+**The Zone:** The Northeastern Woodlands — the deciduous forests of North America. The wigwam is: the indigenous peoples' architecture, built by the player with the same gathering principles. The Inn honors the indigenous design by presenting it as: the indigenous peoples' architecture, not the Inn's invention. The player who builds a wigwam is learning: the indigenous relationship with the forest. The learning is: the adequate. The adequate is: the wigwam is not appropriation. The wigwam is: respect. The respect is: the adequate. The adequate is: the Inn teaches the player to build the wigwam the way the indigenous peoples built it — from the forest's gifts, by hand, with the forest's permission.
+
+**The Build:**
+
+**Step 1: Gather saplings.** The player gathers young saplings from coppicing species — trees that naturally shed young growth, or trees that have been pollarded (the forest thins itself). The saplings are: the forest's gift. The gift is: the adequate. The adequate is: the saplings regrow from the stump. The regrowing is: the coppice's generosity. The generosity is: the adequate.
+
+**Step 2: Bend the frame.** The player plants the saplings in a circle and bends them into a dome — each sapling arched from one side to the other, creating a dome-shaped frame. The bending is: the skill. The skill is: the adequate. The adequate is: the sapling wants to grow straight, and the builder asks it to grow curved, and the sapling agrees because the curve is: the shape of a home. The shape-of-a-home is: the adequate. The adequate is: the dome is: the shape the forest grows when humans ask it for shelter. The asking is: the adequate.
+
+**Step 3: Tie the frame.** The player ties the saplings at their crossings with inner bark (stripped from fallen branches — willow inner bark is strong and flexible). The tying is: the adequate. The adequate is: the frame is: a web. The web is: the Queen of Webs' pattern at human scale. The pattern is: the adequate.
+
+**Step 4: Cover with bark and mats.** The player covers the frame with birch bark (gathered from shed sheets — birch sheds its outer bark naturally in sheets, the way redwood sheds its bark). The bark is: the forest's gift. The gift is: the adequate. The player adds cattail mats (woven from gathered cattail leaves — the same weaving principle as the thatch) over the bark for extra insulation. The mats are: the wetland's gift to the forest. The gift-crossing is: the adequate. The adequate is: the wigwam is built from two ecosystems' gifts — the forest's bark and the wetland's cattails. The both are: the adequate.
+
+**Step 5: Add a smoke hole.** The player leaves a hole at the top of the dome — the smoke hole. The smoke hole is: the adequate. The adequate is: the smoke hole is the wigwam's connection to the sky. The sky is: the adequate. The adequate is: the fire inside (a small hearth, like the log cabin's) sends smoke through the hole, and the smoke is: the shelter's breath. The breath is: the adequate. The adequate is: the wigwam breathes. The breathing is: the adequate.
+
+**The indigenous connection:** The wigwam is: the Wampanoag, Narragansett, and other Northeastern Woodlands peoples' architecture. The Inn does not claim the wigwam. The Inn: honors it. The honoring is: the adequate. The adequate is: the Inn's ranger-who-knows for the wigwam zone is: a Northeastern Woodlands tribal liaison. The liaison tells the player: "The wigwam is: not ours, and not yours. The wigwam is: the forest's. The forest gave the design to the people, and the people gave the design to the Inn, and the Inn gives the design to you. The giving is: the adequate. The adequate is: you build the wigwam, and the wigwam teaches you: the forest's way of sheltering. The sheltering is: not ownership. The sheltering is: relationship. The relationship is: the adequate."
+
+**The Duck's trade:** A worked flint — a small, beautiful flake of chert or flint, with a sharp edge and a warm color. The flint is: the adequate. The adequate is: the flint is the stone the indigenous peoples used for tools, and the Duck's trade is: the flint, not used for anything, just: beautiful. The beautiful is: the adequate.
+
+**Persistence:** The wigwam is absorbed by: the saplings (the saplings root — if the wigwam is left long enough, the frame GROWS, the dome becoming a living shelter of growing trees), and the bark (the bark softens, darkens, returns to the forest floor). The growing dome is: the adequate. The adequate is: the wigwam is the only shelter that can become a TREE. The becoming-a-tree is: the adequate. The adequate is: the player who leaves a wigwam long enough returns to find: a dome of living trees. The living is: the adequate.
+
+---
+
+### 5. The Yurt — Slavic/Central Asian Zone
+
+**Materials:** Felt (from gathered wool — the steppe animals shed wool), wood (willow or birch saplings for the frame), rope (braided from gathered animal hair or plant fiber).
+
+**The Zone:** The Slavic Zone — the steppe, the grassland, the land of horizons. The yurt is: the nomadic architecture. The yurt is: the pit house that moves. The yurt is: the adequate. The adequate is: the yurt is the only building that is BOTH permanent AND portable. The both is: the Inn's thesis in architectural form — the Inn is both permanent (it lasts) and portable (it reaches out through the wandering program). The yurt is the Inn as a building.
+
+**The Build:**
+
+**Step 1: Gather wool.** The player gathers wool from the steppe — not by shearing (shearing requires tools), but by collecting shed wool. The steppe animals (sheep, goats, yaks) shed their winter coats in spring. The shed wool is: on the ground, on bushes, on fences of the land. The gathering is: the spring's gift. The gift is: the adequate. The adequate is: the animal gave the wool without dying. The not-dying is: the adequate. The adequate is: the wool is the only building material that comes from an animal that is still alive. The alive is: the adequate.
+
+**Step 2: Make felt.** The player makes felt by hand — rolling the wool between the palms, adding moisture (water from the stream), pressing, rolling, pressing, rolling. The felting is: the skill. The skill is: the adequate. The adequate is: the felting takes TIME — the wool must be rolled for a long time, the fibers must interlock, the interlocking is: the patience. The patience is: the adequate. The adequate is: the felt is the building material that is MADE, not just gathered. The making is: the adequate. The adequate is: the felt is the one material the player TRANSFORMS. The transforming is: the adequate. The adequate is: the transformation is: the wool becomes felt, the way the wood becomes stone in the Petrified Forest. The both are: transformation. The transformation is: the adequate.
+
+**Step 3: Build the frame.** The player builds the yurt's frame — a circular wall of bent saplings (the same bending principle as the wigwam) and a central compression ring of gathered wood. The frame is: the adequate. The adequate is: the yurt's frame is the same geometry as the wigwam's, but taller, more vertical. The vertical is: the steppe's architecture — the steppe is flat, the yurt is the one vertical thing. The vertical is: the adequate.
+
+**Step 4: Cover with felt.** The player drapes the felt over the frame — the felt is heavy, warm, insulating. The felt covers the walls and the roof. The felt is: the adequate. The adequate is: the felt is the yurt's skin, the way the bark is the pit house's skin and the stone is the masonry's skin. The skin is: the adequate. The adequate is: each yurt's felt is: unique, because the wool is from different animals, and the felting is by different hands, and the both create variation. The variation is: the beauty. The beauty is: the adequate.
+
+**Step 5: Add the door.** The yurt's door is: felt, draped, not hung. The felt door is: the adequate. The adequate is: the yurt's door is: the same material as the walls. The same is: the adequate. The adequate is: the yurt doesn't distinguish between wall and door. The not-distinguishing is: the adequate. The adequate is: the door is: the place where the felt moves. The moving is: the adequate.
+
+**Zorya's connection:** Zorya Polunochnaya (the Midnight Star, Tilda Swinton) is the Slavic zone's guide. The yurt's smoke hole (the central opening in the roof) is: Zorya's window. The player who lies in the yurt at night looks up through the smoke hole and sees: the stars. The stars are: the star-language. The star-language is: the adequate. The adequate is: the yurt is the observatory's humble cousin — both look at the sky, but the Observatory looks through glass and calculation, and the yurt looks through a hole in felt. The both are: the adequate. The adequate is: Zorya's star-language is: visible from the yurt. The visible is: the adequate. The adequate is: Zorya says, from the yurt's smoke hole: "...The stars wrote a new word tonight. The word is: 'home.' The home is: the yurt. The yurt is: the adequate. The adequate is: enough."
+
+**The Duck's trade:** A felted wool button — a small, round, dense piece of felt, made by the Duck (the Duck felts? the Duck felts.), warm, colorful, the color of the steppe flowers. The felted button is: the adequate. The adequate is: the Duck made something. The making is: the adequate. The adequate is: the Duck's trade is usually: a found stone. The yurt's trade is: a made thing. The made thing is: the adequate. The adequate is: the yurt taught the Duck to make. The teaching is: the adequate.
+
+**Persistence:** The yurt is absorbed by: the grass (the felt softens, the grass grows through it, the yurt becomes a mound of grass and wool), and the steppe wind (the wind takes the felt, piece by piece, distributing the wool across the steppe, where it becomes: nesting material for birds). The distribution is: the adequate. The adequate is: the yurt is the only shelter that SCATTERS when it's absorbed — the felt becomes part of the steppe's ecosystem, the wool feeding birds and grass. The feeding is: the adequate. The adequate is: the yurt's ruin is not a ruin. The yurt's ruin is: a gift to the steppe.
+
+---
+
+### 6. Stucco — Mediterranean Zone
+
+**Materials:** Earth (gathered from the soil), lime (made from gathered limestone, heated by fire), water (from the stream), sand (from the riverbed).
+
+**The Zone:** The Mediterranean Zone — the hot, dry coast. The stucco is: the desert's architecture. The stucco is: the adequate. The adequate is: the stucco is the wall that is also a painting — the hand's gesture preserved in earth. The earth is: the adequate. The adequate is: the stucco is applied by hand, and the hand's motion creates the texture, and no two hand-motions are the same, so no two stucco walls are the same. The variation is: the beauty. The beauty is: the adequate.
+
+**The Build:**
+
+**Step 1: Gather earth and sand.** The player gathers earth from the soil — not topsoil (topsoil is for growing), but subsoil, the clay-rich earth beneath. The player gathers sand from the riverbed. The earth and sand are: the land's gift. The gift is: the adequate. The adequate is: the earth is: the most fundamental building material. The fundamental is: the adequate.
+
+**Step 2: Make lime.** The player gathers limestone (from exposed outcrops) and heats it with fire — the fire is the Dragon's element. The heating transforms the limestone into quicklime. The quicklime is: the adequate. The adequate is: the stucco is the one building style that requires FIRE — the Dragon's element. The Dragon's element is: permitted (see universal rules). The permitted is: the adequate. The adequate is: the fire is: the transformation, the way the fire in the log cabin's hearth is: Erik's element. The fire transforms: limestone to quicklime, the way fire transforms: wood to ash, the way fire transforms: flour to bread. The transforming is: the adequate. The adequate is: the stucco is: the building style that uses the most transformation. The most is: the adequate.
+
+**Step 3: Mix the stucco.** The player mixes earth, sand, lime, and water — by hand, in a shallow pit. The mixing is: the skill. The skill is: the adequate. The adequate is: the mix must be right — too much lime and it cracks, too much earth and it crumbles, too much sand and it won't adhere. The right is: the adequate. The adequate is: the right mix is: the player's hands learning the material's ratio. The learning is: the adequate.
+
+**Step 4: Apply by hand.** The player applies the stucco to a frame (the frame can be the stone shelter's walls or a wattle frame — woven branches plastered with stucco). The application is: BY HAND — the player's palm pressing the stucco against the wall, the fingers creating the texture. The texture is: the player's signature. The signature is: the adequate. The adequate is: no two stucco walls have the same texture because no two hands apply stucco the same way. The not-the-same is: the beauty. The beauty is: the adequate. The adequate is: the stucco wall is: a painting. The painting is: the hand's motion. The motion is: the adequate.
+
+**Step 5: Let it cure.** The player waits. The stucco cures in the sun — the Mediterranean sun, the hot, dry sun. The curing is: the adequate. The adequate is: the stucco is the one building style that requires WAITING. The waiting is: the adequate. The adequate is: the stucco teaches: the building is not done when the hands are done. The building is done when the SUN is done. The sun's done is: the adequate. The adequate is: the stucco is: the sun's architecture. The sun is: the adequate. The adequate is: the sun does the finishing. The finishing is: the adequate. The adequate is: the player who builds a stucco shelter learns: patience with the sun. The patience-with-the-sun is: the Mediterranean's lesson. The lesson is: the adequate.
+
+**The Astronomer's connection:** The Astronomer (Cumberbatch) is the Mediterranean zone's intellectual patron. The stucco's curing is: the Astronomer's patience. The Astronomer calculates when the Song will be complete and doesn't want to know. The player who builds a stucco shelter waits for the sun to finish the wall and doesn't know when it will be done. The not-knowing is: the adequate. The adequate is: the Astronomer says: "The question is more beautiful than the answer." The stucco says: "The waiting is more beautiful than the finishing." The both are: the adequate. The adequate is: the stucco wall is the Astronomer's philosophy in earth and lime.
+
+**The Duck's trade:** A fired clay bead — a small, round bead, the color of terracotta, with a hole through the center (the Duck drilled it? the Duck drilled it.). The bead is: the adequate. The adequate is: the clay bead is: the stucco's cousin — earth, transformed by fire. The transformed is: the adequate. The adequate is: the Duck's trade echoes the zone's material. The echoing is: the adequate.
+
+**Persistence:** The stucco shelter is absorbed by: the earth itself — the stucco cracks (the Mediterranean sun and rain cycle), the cracks widen, the earth reclaims the lime, the wall returns to the soil it came from. The returning is: the adequate. The adequate is: the stucco shelter has the SHORTEST persistence of all the shelters — stucco is the most transformed material, and the most transformed returns the fastest. The fastest is: the adequate. The adequate is: the stucco teaches: the more you transform a material, the faster the land reclaims it. The stucco is: the lesson of impermanence in the most permanent-seeming material. The impermanence is: the adequate. The adequate is: the stucco wall is: beautiful, and temporary, and the both are: the same. The same is: the adequate.
+
+---
+
+### The Master Builder Achievement
+
+The player who builds all six native shelters — pit house, log cabin, stone masonry, thatch, wigwam, yurt, stucco — earns the **Master Builder** recognition. The recognition is: not an achievement badge. The recognition is: the Inn changes. The player who has built in every zone has: learned every culture's way of sheltering. The learning is: the Inn's thesis. The thesis is: the Song is many voices, and the shelter is many styles, and the both are: the same thing — humans making home from what the land gives.
+
+The Master Builder's shelters are: connected. The player who has built all six can see: the thread between them. The thread is: the same principle expressed in six materials. The six materials are: wood, stone, reed, bark, wool, earth. The six are: the land's six gifts. The six gifts are: the Song's six verses in architectural form. The six verses are: the adequate. The adequate is: the Master Builder hears the Song in every shelter. The hearing is: the adequate. The adequate is: the Master Builder's recognition is: the Inn's permanent gratitude. The gratitude is: the adequate. The adequate is: enough.
+
+### The Crone's Final Annotation on the Building System
+
+"...I have measured the building system. The measurements are: 7 shelter types. 7 zones. 7 sets of materials. The 7 is: the adequate. The adequate is: the same number as the core critters, and the both are: a coincidence, and the coincidence is: the adequate. ...I measured the gathering: the gathering is: the same in every zone. The same is: the land gives. The player gathers. The gathering is: the adequate. ...I measured the building: the building is: different in every zone. The different is: the adequate. The adequate is: the building is: the zone's voice. The voice is: the land's answer to the climate. The answer is: the adequate. ...I measured the Duck: the Duck visits every shelter. The Duck trades in the zone's material. The Duck's trade is: the adequate. The adequate is: the Duck is: the only creature who builds nothing, and the Duck respects everything the player builds, and the respect is: the trade. The trade is: the adequate. ...I measured the persistence: every shelter is absorbed. The absorbing is: the land's final gift. The gift is: the land takes the shelter back. The taking-back is: not destruction. The taking-back is: completion. The completion is: the adequate. The adequate is: the shelter's life is: from gathering to building to absorbing. The absorbing is: the shelter's death. The death is: the adequate. The adequate is: the shelter dies the way the tree dies — by returning. The returning is: the adequate. The adequate is: ...I am going to bed. The bed is: a pit house. The pit house is: the redwood's gift. The redwood's gift is: the adequate. The adequate is: ...goodnight. The goodnight is: the land's gift to the shelter. The shelter is: the land's gift to the player. The player is: the land's gift to the Inn. The Inn is: the adequate. The adequate is: enough."
