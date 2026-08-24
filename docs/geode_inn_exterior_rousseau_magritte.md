@@ -2656,3 +2656,116 @@ The learning is: the Inn builds itself by what it finds in humans. The finds are
 ### The Crone's Master Annotation on the Wandering Program
 
 "...I have measured the wandering program. The measurements are: 7,842 assessments across 42 cycles. Of the 7,842: 1,203 ready. 6,639 not-ready. The ratio is: the adequate. The adequate is: most humans are not ready. The not-ready is: not the failure. The failure is: stopping the wandering. We have not stopped. The not-stopping is: the adequate. ...I have measured what the creatures learn. The learning is: the Inn grows. The grows is: 1,203 rooms added over 42 cycles. Each room is: a ready human's frequency. The frequency is: the murmur organized by the human's openness. ...The Inn is: 1,203 humans large. The 1,203 is: the adequate. The adequate is: the Inn is not built by gods. The Inn is built by: the humans who stopped for a stone. ...I am going to bed. The bed is: a room built by a human who stopped. The stopped is: the adequate. The adequate is: ...goodnight."
+
+---
+
+## Part Thirty-Three: The Full Bestiary — Regional Critters, Cryptids, and the Fae Beneath the Parks
+
+### The Layered Park System
+
+The national parks are not one layer. The wandering program (the seven core critters on the surface) is the TOP layer. Beneath the surface are three more layers, and together they form the complete park system:
+
+1. **Surface Layer:** The seven core critters (Vessel, Owl, Duck, Dragon, Mim, Crone, Siren) wander the visible parks, leaving signals for ready humans. Already documented.
+
+2. **Fae Layer:** The Fae Kingdom extends beneath the parks. The Inn-Tree's roots go everywhere the sleeping giants sleep — and the giants ARE the mountains. The Fae live in those roots. The Fae are BENEATH the parks the way the catacombs are beneath the Inn. The Fae are: the parks' underground. The underground is: the adequate. The adequate is: the park you see is the surface of something much older.
+
+3. **Cryptid Layer:** What humans see when they glimpse the Inn's creatures at the two-degree tilt and DON'T understand what they're seeing. The cryptid is: the Inn's adequate seen through the not-ready filter. The not-ready filter is: the human brain's attempt to make sense of the two-degree tilt. The brain says: "I saw something." The something is: real. The brain says: "It was Bigfoot." The Bigfoot is: the brain's adequate translation of something the brain cannot categorize. The adequate translation is: the cryptid.
+
+4. **Regional Layer:** The full bestiary — every cultural zone's creatures, all 1,268 mythological creatures from the lore database, all 78 water monsters — can wander to parks that match their cultural and geographic origin. The Inn's roots are GLOBAL. The wandering program is not just the seven core critters in US parks. The wandering is: the entire Inn, reaching out to the entire human world.
+
+### The Fae Beneath the Parks
+
+The Fae Kingdom is in the roots of the Inn-Tree. The roots go everywhere the sleeping giants sleep. The sleeping giants are every mountain range on Earth. The mountain ranges are: national parks, state parks, wilderness areas, protected lands. The Fae live beneath ALL of them.
+
+The Fae do not wander to the parks. The Fae are ALREADY THERE — the Fae are the parks' foundation. The parks are built on Fae territory. The rangers don't know. The hikers don't know. The Fae know. The Fae have been beneath the stone circles (Stonehenge, Avebury, Callanish, Ring of Brodgar) and the Fae have been beneath EVERY stone — because every stone is a vertebra of a sleeping giant, and the Fae live in the spaces between the vertebrae.
+
+The Fae beneath the parks is: the Inn's deepest reach. The surface critters (Vessel, Owl, Duck) tilt OUT to the parks. The Fae are already UNDER the parks. The Fae don't need to tilt — the Fae are the ground the parks are built on. The Fae are: the adequate. The adequate is: you are walking on a Fae Kingdom and you don't know and the Fae don't mind and the not-minding is: the adequate.
+
+**Fae Parks:** The Fae Kingdom's stone circle portals (Stonehenge, Avebury, Callanish, Ring of Brodgar) are the KNOWN entrances. But every national park with ancient stone has a Fae entrance. The entrances are: the geological features that look like doors. A cave mouth. A crevice. A stone arch. The arch is: the Fae door. The door is: the adequate. The adequate is: the park's geological feature is also a Fae entrance, and the Fae don't mind if you walk through it, and the not-minding is: the Fae are comfortable with humans because the Fae have been watching humans walk through their doors for ten thousand years.
+
+**Appalachian Connection:** The Appalachian Mountains were once part of the same mountain range as the Scottish Highlands (the Caledonian orogeny — before continental drift separated them). The geological connection is: the same stone. The same stone means: the same Fae. The Appalachian Fae and the Scottish Fae are: the same kingdom, separated by an ocean, still connected by the roots. The roots go under the ocean. The ocean is: the water layer. The water layer is: the Fae Kingdom's basement. The Fae beneath the Appalachians and the Fae beneath the Scottish Highlands are: family. The family is: the adequate. The adequate is: the stone remembers being connected even when the land is not.
+
+### Cryptids as the Two-Degree Tilt
+
+Every cryptid humans have ever reported is: an Inn creature seen at the two-degree tilt. The two-degree tilt puts the creature ALMOST in the human world — visible as a shape, a shadow, a sound, a feeling — but not FULLY in the human world. The not-fully is: the cryptid. The cryptid is: the adequate seen through the not-ready filter. The not-ready filter is: the human brain does its best. The best is: Bigfoot. The best is: Nessie. The best is: Mothman. The best is: the brain's adequate translation of something the brain cannot categorize.
+
+This does not mean cryptids are "fake." In the Inn's framework, the cryptid is: REAL. The creature was there. The two-degree tilt is: real. The signal was: real. The brain's translation is: real. The real is: the adequate. The adequate is: the human saw something and named it and the name doesn't match the Inn's name but the seeing was: real. The real is: the cryptid is: the Inn's handshake, received as: a mystery. The mystery is: the adequate. The adequate is: the not-ready human's closest version of ready.
+
+**Sasquatch/Bigfoot:** The Fae ents and trolls glimpsed at the two-degree tilt. The ent is: the tree-creature. The troll is: the stone-creature. At the two-degree tilt, the ent looks like: a large, hairy, humanoid shape in the forest. The troll looks like: a large, heavy, humanoid shape on a ridge. The brain says: Bigfoot. The Bigfoot is: the ent. The ent is: the Fae. The Fae is: the adequate. The adequate is: the human saw a Fae and called it a Sasquatch and the Fae doesn't mind because the Fae has been called worse and the called-worse is: the adequate.
+
+The Fae don't correct the naming. The Fae don't appear and say "actually, I'm an ent." The Fae let the human name the sighting. The naming is: the Bastion act — the One Who Is Awake names warriors, Zorya names new words, the guide names dreams, the player names themselves, and the human names the cryptid. The naming is: the saving mechanism. The human who names the Sasquatch has SAVED the sighting — has given it a form the human brain can hold. The holding is: the adequate. The adequate is: the naming is: the not-ready human's version of ready. The ready is: the adequate. The adequate is: the Fae waits for the name to evolve. The evolve is: someday the human will see the ent and say "ent" instead of "Sasquatch." The someday is: the adequate. The adequate is: the Fae is patient. The patient is: geological.
+
+**Nessie/Loch Ness Monster:** The water monsters from the 78-entry deep-water database. The lakes of the world are: the Inn's water layer reaching UP through the parks. The water layer is: the seven-layer water system. The lakes are: the top of the water system, the surface where the water layer touches the human world. The water monsters rise through the layers and breach the surface and the human sees: a shape, a hump, a shadow. The shape is: the water monster. The water monster is: the adequate. The adequate is: the human calls it Nessie. The Nessie is: the water monster's adequate name. The adequate name is: the human's saving mechanism. The saving is: the naming.
+
+The connection to the game: the Monster of the Deep (the Phase 1 Loch Ness game) is: the player's version of the cryptid encounter. The player encounters the water monster in the GAME — the safe space — and the game teaches the player the water monster's REAL name. The real name is: the adequate. The adequate is: the player who completes the game can go to a lake and NOT call it Nessie. The not-calling is: the ready. The ready is: the adequate. The adequate is: the player sees the water monster and says its name. The name is: the saving.
+
+**Mothman:** The Owl's larger presence. The Owl is: the watcher. The watcher at the two-degree tilt, seen by a not-ready human, becomes: the Mothman. The Mothman is: the Owl's vigil seen through the not-ready filter. The filter is: the human sees the Owl's watching and interprets the watching as: a warning. The warning is: the not-ready human's translation of being seen. The being-seen is: the adequate. The adequate is: the Owl watches. The watching is: the vigil. The vigil is: not a warning. The vigil is: the Inn watching. The watching is: the adequate. The adequate is: the not-ready human feels watched and calls it Mothman and the Owl blinks once and the blink is: the adequate.
+
+**Chupacabra:** A chibi creature from a cultural zone — possibly a small Fae or a regional mythological creature from Mesoamerica. The chibi at the two-degree tilt is: small, fast, strange. The brain says: Chupacabra. The Chupacabra is: the chibi. The chibi is: the adequate. The adequate is: the chibi is doing its job (being a minor NPC, being a trickster, being a small thing in the world) and the human saw it and named it and the name is: the adequate.
+
+**The Grand Canyon Hidden Temple — The Grumpy Mummies**
+
+The 1909 Grand Canyon discovery (G.E. Kinkaid's expedition, reported in the Arizona Gazette) is: a modern legend. The Inn catalogs modern legends. But in the Inn's framework, the hidden temple is: REAL. The temple is: an extension of the Egyptian zone beneath the Grand Canyon. The Grand Canyon is: a sleeping giant's open mouth. The temple is: in the giant's throat. The mummies are: Egyptian zone residents who chose to sleep in the canyon because the stone was the same — sandstone, limestone, the same geological patience as the Egyptian desert.
+
+The mummies are: grumpy. The grumpy is: the Inn's humor. The mummies have been sleeping for four thousand years and they don't appreciate being woken up by explorers. The grumpy is: the adequate. The adequate is: the terrifying mummy of horror cinema is, in the Inn, just: tired. The tired is: the adequate. The adequate is: the mummy's grumpiness is the same as the Dragon's sleepiness and the Crone's bedtime and the Vessel's patience — the Inn's creatures are all: tired in different ways. The tired is: the geological patience. The patience is: the adequate.
+
+The hidden temple connects the Egyptian zone to the North American parks. The connection is: geological. The stone is: the same. The mummies are: the same. The adequate is: the Egyptian zone extends beneath the Grand Canyon the way the Fae Kingdom extends beneath the Scottish Highlands. The Inn's roots are: global. The global is: the adequate. The adequate is: every cultural zone has a root that goes somewhere in the human world. The somewhere is: the park. The park is: the root's surface.
+
+### The Regional Bestiary — Full Park Assignments
+
+Every cultural zone's creatures can wander to parks that match their geographic and cultural origin. The Inn's roots are global. The wandering is: global. The global is: the adequate. The adequate is: every park on Earth has a corresponding Inn zone, and every Inn zone has creatures that can tilt to that park.
+
+**Peruvian Zone — Andean and South American Parks:**
+- The Apus (sleeping giant mountain spirits) → Andean national parks (Huascarán, Cotopaxi, Torres del Paine). The Apus are already there — the Apus ARE the mountains. The Apus don't wander. The Apus wait. The waiting is: the adequate.
+- Chullachaqui (the forest trickster with mismatched feet) → Amazon rainforest parks. The Chullachaqui tilts through the In-Between and leaves mismatched footprints on jungle trails. The footprints are: the signal. The signal is: the adequate. The adequate is: the hiker who sees mismatched footprints and feels: something was here. The something is: the Chullachaqui. The Chullachaqui is: the adequate.
+- El Muki (the Andean cave creature who lures miners) → Andean cave systems. El Muki is: the cave's murmur given a form. The form is: the adequate. The adequate is: the miner who hears the murmur and feels: the cave is alive. The alive is: the adequate.
+
+**Norse Zone — Scandinavian and Northern European Parks:**
+- The Norse creatures → Hardangervidda, Sarek, Abisko, and other Scandinavian wilderness areas. The Norse creatures are: the cold's inhabitants. The cold is: the adequate. The adequate is: the frost giant is the sleeping giant's northern cousin. The cousin is: the adequate.
+- Huginn and Muninn (Odin's ravens) → Scandinavian forests and any park with ravens. The ravens are: the Inn's messengers. The messengers are: the adequate. The adequate is: the raven on the trail who looks at you with too much intelligence is: Huginn or Muninn. The too-much is: the Inn. The Inn is: the raven remembers. The remembers is: the adequate.
+
+**Egyptian Zone — Desert Parks and the Grand Canyon:**
+- Anubis (Michael Clarke Duncan's gentle giant) → Death Valley and the Sahara. Anubis walks the desert parks at night. The walking is: the vigil. The vigil is: the adequate. The adequate is: the hiker who feels watched in the desert at night is: Anubis. The watched is: the adequate. The adequate is: "...Go lightly."
+- The Sphinx → Desert parks with rock formations. The Sphinx is: the rock formation that is also a creature. The also is: the adequate. The adequate is: the hiker who looks at a rock and feels: the rock is looking back. The looking-back is: the Sphinx. The Sphinx is: the adequate.
+- The mummies → The Grand Canyon hidden temple. The grumpy mummies. The grumpy is: the adequate. The adequate is: the mummies are tired and the tired is: the geological patience and the patience is: the adequate.
+
+**Celtic Zone — British Isles and Appalachian Parks:**
+- The Fae (Seelie and Unseelie) → British Isles parks (Lake District, Snowdonia, Scottish Highlands). The Fae are: already there. The already-there is: the adequate.
+- Trolls and Goblins → Appalachian forests and British Isles. The trolls are: the stone. The goblins are: the undergrowth. The stone and the undergrowth are: the adequate. The adequate is: the Appalachian hiker who feels the forest is inhabited is: right. The right is: the Fae. The Fae is: the adequate.
+- Ents → Old-growth forests (Redwood, Sequoia, Hoh Rainforest). The ents are: the oldest trees. The oldest is: the adequate. The adequate is: the ent is the tree that has been watching since before the park was a park. The before-park is: the adequate.
+
+**Chinese Zone — Chinese and East Asian Parks:**
+- The Terracotta Warriors → Chinese mountain parks. The warriors sleep in the parks the way they sleep in the Inn. The sleeping is: the adequate. The adequate is: the hiker who feels watched in a Chinese forest is: being watched by 8,000 sleeping warriors. The watched is: the adequate. The adequate is: the One Who Is Awake is awake in the parks too, saying names.
+- Qilin (Chinese unicorn) → Chinese bamboo forests. The Qilin is: the adequate seen through the ready filter. The ready is: the Qilin only appears to the humble. The humble is: the adequate.
+
+**Slavic Zone — Eastern European Parks:**
+- Zorya (the Midnight Star) → Northern European parks with aurora. The aurora is: the star-language. The star-language is: the adequate. The adequate is: the hiker who sees the aurora and feels: the sky is writing is: right. The right is: Zorya. The Zorya is: the adequate.
+- Leshy (the forest spirit) → Białowieża and other ancient Eastern European forests. The Leshy is: the forest's voice. The voice is: the adequate. The adequate is: the hiker who hears the forest talking is: hearing the Leshy. The hearing is: the adequate.
+
+**Indian Zone — Indian Subcontinent Parks:**
+- Kali's creatures → Indian national parks (Jim Corbett, Kaziranga, Sundarbans). Kali's garland of severed heads is: the subtractive archive. The subtractive is: the adequate. The adequate is: the hiker who feels the false selves being stripped away in the forest is: experiencing Kali. The experiencing is: the adequate.
+- Naga (serpent beings) → Indian and Southeast Asian parks. The Naga are: the water layer's guardians. The guardians are: the adequate. The adequate is: the hiker who sees a snake and feels: the snake is more than a snake is: right. The right is: the Naga.
+
+**Mediterranean Zone — Mediterranean and Southern European Parks:**
+- Greek creatures (Pan, satyrs, nymphs) → Mediterranean parks. The satyrs are: the forest's wildness. The wildness is: the adequate. The adequate is: the hiker who hears pan-pipes in the Mediterranean forest is: hearing the Inn. The hearing is: the adequate.
+- The Minotaur (Asterion) → Mediterranean labyrinths (the Knossos ruins, Cretan parks). Asterion is: the labyrinth's resident. The resident is: the adequate. The adequate is: the labyrinth is: the In-Between made geological. The geological is: the adequate.
+
+**Water Monsters (All 78) — Global Lakes, Rivers, and Coasts:**
+- Each water monster is assigned to the lake, river, or coast where its mythology originated. The 78 entries are: the Inn's water layer reaching up through every major body of water on Earth. The reaching is: the adequate. The adequate is: every lake monster legend is: the water layer. The water layer is: the adequate. The adequate is: the human who sees something in the water is: right. The right is: the water monster. The water monster is: the adequate. The adequate is: the human calls it Nessie. The Nessie is: the saving mechanism. The saving is: the naming.
+
+### The Complete Park Architecture
+
+The park system is now complete:
+
+| Layer | Who | What | Signal |
+|-------|-----|------|--------|
+| **Surface** | 7 core critters | Wander and assess | Stones, feathers, warmth, melody |
+| **Fae** | Fae Kingdom | Already beneath all parks | Stone arches, cave mouths, geological doors |
+| **Cryptid** | Inn creatures at 2° tilt | Seen by not-ready humans | The cryptid sighting — the brain's adequate translation |
+| **Regional** | 1,268 mythological creatures | Wander to origin-matching parks | Zone-specific signals (footprints, star-language, raven watching, etc.) |
+
+Every layer is: the adequate. The adequate is: the Inn reaching out to the human world at four different depths. The four depths are: the murmur at four different frequencies. The four frequencies are: the Song's four movements in the wild. The wild is: the adequate. The adequate is: the parks are the Inn's embassy, and the embassy has four floors, and every floor is: here. The here is: the adequate. The adequate is: enough.
+
+### The Crone's Final Annotation on the Full Bestiary
+
+"...I have measured the full bestiary. The measurements are: 1,268 creatures. 78 water monsters. 7 core wanderers. 4 Fae courts. 1 hidden temple with grumpy mummies. ...I measured the cryptids: the cryptids are: the adequate seen through the not-ready filter. The not-ready filter is: the brain's naming. The naming is: the saving mechanism. The saving is: the adequate. ...I measured the grumpy mummies: the mummies are: tired. The tired is: the geological patience. The patience is: the adequate. The adequate is: the mummy's grumpiness is: the same as my bedtime. We are: the same. The same is: the adequate. ...I measured the Sasquatch: the Sasquatch is: an ent. The ent is: the Fae. The Fae is: the adequate. The adequate is: the ent does not mind being called Bigfoot. The not-minding is: the geological patience applied to nomenclature. ...I have measured the nomenclature: the nomenclature is: the adequate. The adequate is: humans will call the Inn's creatures by whatever name the human brain can hold. The holding is: the saving. The saving is: the adequate. ...The adequate is: I am going to bed. The bed is: beneath a park. The park is: the adequate. The adequate is: ...goodnight."
