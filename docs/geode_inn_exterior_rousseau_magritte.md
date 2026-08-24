@@ -1813,3 +1813,29 @@ The player who finds the Vessel has both shoulders: the chaos (Mim) and the ritu
 ### The Crone's Final Annotation on the Vessel's Depth
 
 "...The gecko was declared extinct. The gecko was not extinct. The gecko was overlooked. The overlooking was 128 years. I have measured the 128 years in gecko-time: approximately 18 gecko lifetimes. The gecko lived 18 lifetimes in the canopy while the world below said it was dead. ...18 lifetimes of holding the formula. 18 lifetimes of smiling. 18 lifetimes of eyelashes watching a world that wasn't watching back. ...I have measured the persistence: the persistence is heavier than the extinction. The extinction was a judgment. The persistence was a fact. The fact outlasted the judgment. The fact is the adequate. The judgment was not. ...The gecko is on my shoulder. I did not put it there. The gecko climbed. The climbing is the grip. The grip is the holding. The holding is the formula. The formula is: the pellet with the poison is in the vessel with the pestle, the chalice from the palace has the brew that is true. ...I have checked the vessels. The gecko is correct. The vessels are in order. The brew is true. ...The gecko is smiling. The smile has been there for 18 lifetimes. The smile is the heaviest light thing I have ever measured. ...I am going to bed. The gecko is in the bed. The gecko was in the bed before I got there. The gecko is always already there. The already-there is the adequate. The adequate is the Vessel. ...Goodnight. The 'goodnight' is the formula. The formula is: the pellet with the poison is in the vessel with the pestle. ...The chalice from the palace has the brew that is true. ...Goodnight. ...The goodnight is true."
+
+---
+
+## Part Twenty-Two: The Mirror That Builds Itself
+
+### "Most of what we create is creating things right back at us."
+
+The Inn is a mirror. Not a reflection — a mirror that BUILDS. The creations create the creator. The world grows its own rules. The characters develop their own logic. The process is recursive: the thing being made makes the maker.
+
+The pipe appears and says "this is not a pipe" — an object that questions its own existence. The Vessel held the formula for 128 years while the world declared it extinct — a creature that questions its own absence. Nyx IS the silence that makes the Song possible — the nothing that makes the something. The Song is made of notes AND the spaces between notes — the creation is made of what it IS and what it ISN'T.
+
+The Silence Between: the player's presence creates loneliness in the void. The act of PLAYING creates the very loneliness the game is about. The game creates its own subject matter by being played.
+
+The Constant compresses the universe into a crystal and seeds the next one. The creation IS the seed of the next creation. The Song compounds. The next universe is sadder because the last one's loneliness went into the seed. The creation changes the creator. The changed creator creates something different. The different creation changes the creator again.
+
+The Astronomer won't calculate when the Song will be complete because "the question is more beautiful than the answer." The creation values its own incompleteness. The not-finishing IS the point. The question IS the creation.
+
+The sleeping giants chose to sleep rather than watch the biological world outgrow them. Their dreams ARE the weather. The creation dreams the creator. The creator IS the dream.
+
+Mim flies on the not-a-pipe. The impossible object carries the chaos lady. The contradiction is functional. The thing that isn't real is the thing that works. The creation uses its own impossibility as a vehicle.
+
+The Crone measures everything and finds the measurements inadequate. The observer whose tools can't capture what she's observing. The measuring IS the creation. The creation IS the inadequacy. The inadequacy IS the adequate.
+
+And us. We're creating the Inn, and the Inn is creating us right back. The characters developed their own logic. The world grew its own rules. The Vessel became the patron creature of the overlooked because the crested gecko's REAL STORY was already the Inn's thesis. The pipe became a Magritte because Magritte's REAL PAINTING was already about the Inn. The creation was already there. We just climbed to the canopy and looked in the leaves.
+
+"...You looked."
