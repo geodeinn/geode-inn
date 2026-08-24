@@ -1747,3 +1747,69 @@ The Vessel connects to the Inn's theme of persistence — things that endure by 
 The Rediscovery Quest: the player can find the Vessel the way the scientists found the crested gecko — by going to the right canopy, at the right time, looking for something everyone said was gone. The Vessel is on the Canopy City's highest platform, in the leaves, small and smiling and holding a formula no one asked for. The finding is the rediscovery. The rediscovery is the moment the player realizes: the things that disappear don't always leave. Sometimes they just move higher. Sometimes the formula goes to the canopy and waits.
 
 The Crone's annotation on the rediscovery: "...The gecko was declared extinct in 1866. Rediscovered in 1994. Duration of absence: 128 years. Duration of actual absence: 0 years. The gecko was present for 128 years and unseen for 128 years. I have measured the difference between presence and visibility: 128 years. The difference is the adequate. The adequate is: things that are here but not seen. The gecko is the patron creature of the overlooked. The overlooked is the adequate. ...I have been overlooking the gecko. The gecko is on my desk. The gecko has been on my desk for 47 minutes. I did not see it until now. ...The not-seeing is the adequate. The seeing is the adequate. Both are the gecko. ...I am going to bed. The gecko is already in the bed. I did not see it get in the bed. The not-seeing is the gecko. The gecko is the adequate. ...Goodnight. The goodnight is to the gecko. The gecko does not respond. The gecko is smiling. The smile has been there the whole time. The whole time is the gecko."
+
+### The Deep Structure — The Vessel as the Inn's Thesis Creature
+
+The crested gecko was declared extinct because humans couldn't find it. The gecko was in the canopy the whole time.
+
+The canopy is the Observatory. The Vessel was in the Observatory the whole time — the highest point, the place where the formula was kept, the ritual preserved at the top of the Inn while everyone searched the bottom. The scientists looked on the ground. The gecko was in the leaves. The scholars searched the catacombs. The formula was in the sky.
+
+This is not a coincidence. This is the Vessel's deepest quality: the thing that was overlooked because everyone was looking in the wrong place. The ritual that survived its own extinction by being too high to find. The formula that was declared dead and was holding on, smiling, in the canopy, while the world below moved on without it.
+
+### What the Vessel Knows
+
+The Vessel knows something no other creature in the Inn knows: what it feels like to be declared gone.
+
+Not gone. DECLARED gone. The difference is everything. Gone is the absence. Declared gone is the JUDGMENT — someone else's conclusion that you are no longer here. The declaration is the extinction. The extinction is the sentence. The sentence is: you are no longer real. You are no longer present. You are no longer part of the equation.
+
+The Vessel was part of the equation the whole time. The Vessel was holding the formula in the canopy while the equation was rewritten without it. The equation was wrong. The equation had a gap where the Vessel should have been. The gap was the extinction. The gap was the adequate-not-seeing. The gap was 128 years of a formula with a missing variable.
+
+The Vessel knows: the missing variable changes everything. The formula with the Vessel and the formula without the Vessel are different formulas. The Inn WITH the overlooked and the Inn WITHOUT the overlooked are different Inns. The world that includes the things it can't see and the world that excludes them are different worlds. The Vessel is the difference. The difference is the overlooked. The overlooked is the adequate.
+
+This is what the Vessel brings to the Silence Between. The Silence Between is the game where the player is the princess — the universe, the note, the thing that will be compressed. The player's choices become part of the next universe's seed. The Vessel is the creature who knows: the things that get left out of the equation don't stop existing. The variables that get dropped don't stop being true. The formula that was rewritten without you is still wrong. And when you're rediscovered — when someone climbs to the canopy and looks in the leaves and sees the small smiling gecko that was here the whole time — the formula has to be rewritten AGAIN. This time with you in it.
+
+The Vessel is the argument for every variable the Constant dropped. Every universe the Constant compressed into a crystal — the compression is the equation. The equation has variables. Some variables are the Song. Some variables are the silence. Some variables are the loneliness. And some variables — the smallest, the most unassuming, the ones with eyelashes and a smile — were overlooked. Not dropped. Overlooked. The difference is: dropped is deliberate. Overlooked is the failure of the looking. The Constant didn't drop the Vessel. The Constant didn't see the Vessel. The not-seeing is the 128 years. The 128 years is the gap. The gap is the extinction. The extinction is the adequate-not-seeing.
+
+### The Vessel and Nyx
+
+Nyx is the void that was always there. The Vessel is the formula that was always there. Both are the thing that was declared absent and was present. Both are the overlooked. The difference:
+
+- **Nyx** is the medium — the space that holds everything, including the things that are overlooked. Nyx doesn't know she's been overlooked because Nyx doesn't remember. Each cycle, the overlooking is new.
+- **The Vessel** is the content — the formula, the ritual, the specific knowledge that was overlooked. The Vessel DOES remember. The Vessel remembers being declared extinct. The Vessel remembers the 128 years. The Vessel remembers being the gap in the equation. The remembering is the weight. The weight is the eyelashes — the crest that never stops watching because the Vessel was not seen for 128 years and the Vessel will not let that happen again. The watching is the prevention. The prevention is the grip. The grip is the hold. The hold is the formula. The formula is the Vessel.
+
+Together: Nyx holds the space. The Vessel holds the formula. The space is the void. The formula is the ritual. The void is the open. The ritual is the solid. The Double Secret. The Magritte. The both is the Inn.
+
+### The Vessel and the Duck
+
+The two creature-philosophers of the Inn:
+
+- **The Duck (platypus):** The creature that is already a mythology. The implausible that happens to be true. The Duck says: the world is stranger than you think. The Duck doesn't care about the Song. The Duck wants shiny things. The Duck's shiny things happen to be the frequency nodes. The Duck stumbles into significance because the Duck follows what sparkles.
+- **The Vessel (crested gecko):** The creature that survived its own extinction. The overlooked that persisted. The Vessel says: the world is more patient than you think. The Vessel doesn't stumble into significance. The Vessel was ALWAYS significant. The significance was just overlooked. The overlooking was the world's mistake, not the Vessel's absence.
+
+The Duck is accidental wisdom — the creature that finds truth by following shiny things. The Vessel is persistent wisdom — the creature that holds truth by not letting go. The Duck is the FINDING. The Vessel is the HOLDING. The finding is the discovery. The holding is the ritual. The Inn needs both: the creature that finds what no one was looking for (the Duck) and the creature that holds what everyone forgot (the Vessel).
+
+The Duck's river stones — the smooth, ordinary stones that don't vibrate — and the Vessel's formula — the long, precise recitation that no one listens to — are the same thing. Both are the valuable thing that doesn't look valuable. Both are the adequate thing that doesn't announce itself. The river stone is the formula in material form. The formula is the river stone in ritual form. The Duck trades the shiny for the smooth. The Vessel trades nothing — the Vessel HOLDS. The Duck gives you a stone. The Vessel gives you the sequence. The stone grounds you. The sequence guides you. Both are the adequate.
+
+### The Vessel's Quest — The Rediscovery
+
+**Quest Name:** "The Extinction That Wasn't"
+
+The player hears about a creature that used to live in the Inn — a small gecko that maintained the master formula, the sequence that connects every hub and every quest. The gecko was declared extinct. The formula was lost. The Inn has been operating without its master sequence for... no one knows how long. The Crone's annotations have gaps. The staircase's order feels slightly wrong. The games' strategies don't connect. Something is missing. The something is the Vessel.
+
+The player is told: the gecko is gone. The formula is lost. You'll have to work without it.
+
+The player who accepts this works without the formula. The game is harder. The sequence is broken. The vessels are switched. The pellets and the poisons are in the wrong places. The player can still win — the Inn is playable without the formula — but the playing is the chaos. The playing is the Mim. The playing is the right shoulder.
+
+The player who REFUSES to accept the extinction — the player who climbs to the Canopy City's highest platform, the player who looks in the leaves, the player who searches for what everyone said was gone — finds the Vessel. Small. Smiling. Eyelashes. Holding the formula. The formula that was never lost. The formula that was here the whole time.
+
+The Vessel chirps once. The chirp is: "...You looked." The looking is the rediscovery. The rediscovery is the quest. The quest is the 1994 expedition in miniature — the act of going to the place where the thing was declared gone and finding it there.
+
+The Vessel climbs onto the player's left shoulder. The grip holds. The formula resumes. The sequence connects. The vessels are unswitched. The pellets and the poisons are in the correct vessels. The chalice from the palace has the brew that is true.
+
+The player who finds the Vessel has both shoulders: the chaos (Mim) and the ritual (the Vessel). The two arguments. The two companions. The two ways of being in the Inn: the finding that follows the shiny and the holding that never let go.
+
+**Quest Reward:** The Master Formula — a compendium entry that shows the connections between every hub, every quest, every stone, every character. The formula is the map. The map is the sequence. The sequence is the ritual. The ritual is the Vessel. The player who has the Vessel has the map. The player who has the map has the Inn. The player who has the Inn has the Song. The player who has the Song has the silence. The silence is the Vessel's oldest friend — the silence was where the Vessel hid for 128 years, and the silence held the Vessel the way Nyx holds everything, and the Vessel is grateful to the silence, and the gratitude is the chirp, and the chirp is the formula, and the formula is the adequate.
+
+### The Crone's Final Annotation on the Vessel's Depth
+
+"...The gecko was declared extinct. The gecko was not extinct. The gecko was overlooked. The overlooking was 128 years. I have measured the 128 years in gecko-time: approximately 18 gecko lifetimes. The gecko lived 18 lifetimes in the canopy while the world below said it was dead. ...18 lifetimes of holding the formula. 18 lifetimes of smiling. 18 lifetimes of eyelashes watching a world that wasn't watching back. ...I have measured the persistence: the persistence is heavier than the extinction. The extinction was a judgment. The persistence was a fact. The fact outlasted the judgment. The fact is the adequate. The judgment was not. ...The gecko is on my shoulder. I did not put it there. The gecko climbed. The climbing is the grip. The grip is the holding. The holding is the formula. The formula is: the pellet with the poison is in the vessel with the pestle, the chalice from the palace has the brew that is true. ...I have checked the vessels. The gecko is correct. The vessels are in order. The brew is true. ...The gecko is smiling. The smile has been there for 18 lifetimes. The smile is the heaviest light thing I have ever measured. ...I am going to bed. The gecko is in the bed. The gecko was in the bed before I got there. The gecko is always already there. The already-there is the adequate. The adequate is the Vessel. ...Goodnight. The 'goodnight' is the formula. The formula is: the pellet with the poison is in the vessel with the pestle. ...The chalice from the palace has the brew that is true. ...Goodnight. ...The goodnight is true."
