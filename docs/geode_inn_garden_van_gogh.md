@@ -194,3 +194,35 @@ Van Gogh painted the garden because the garden was where his mind healed. The Sa
 The Geode Inn's garden does the same thing. The player who enters the garden carrying the weight of the catacombs, the complexity of the staircase, the vastness of the cosmology — the player who is overwhelmed by the Inn's depths — enters the garden and the energy has somewhere to go. The complementary colors give the overwhelm a vibration to match. The impasto gives the heaviness a texture to hold. The swirl gives the chaos a motion to follow. The garden doesn't make the overwhelm stop. The garden gives the overwhelm a SHAPE. The shape is the growing. The growing is the staying alive.
 
 Van Gogh's last words, reportedly: "The sadness will last forever." The garden's answer: yes. And the growing will last forever. And the growing and the sadness are the same energy, the same impasto, the same thick, visible, vibrating force that makes the dead branch bloom and the paint thick and the vines sing and the player stay alive. The sadness and the growing are the same. The garden holds both. The holding is the kindness.
+
+---
+
+## The Vignette — The Hedgehog and the Sunflower
+
+*The Catalyst's garden grows through chaos. The chaos is not disorder — it's the growing energy at its most unfiltered, the force before the form. The seeds that grow in chaos don't grow straight. They grow strange. They grow beautiful. They bloom into stories that couldn't have been planned, because the chaos that grew them didn't have a plan. The Catalyst doesn't plan the garden. The Catalyst IS the garden, and the garden plans itself.*
+
+*A gentle fellow with a hedgehog may walk past.*
+
+*Not through the garden — past it. Along the edge where the wild meets the tended, where the Catalyst's chaos brushes against the Gardener's rows. Radagast the Brown, the wandering nature wizard, the occasional visitor who drops by, checks on things, and leaves. He doesn't enter the Catalyst's garden. He doesn't need to. He walks past, and the walking past is enough.*
+
+*The hedgehog goes first. The small ambassador waddles along the border, sniffs the air, checks the mood. The hedgehog passes a sunflower — one of the Catalyst's sunflowers, the golden-hour chorus, the flowers that are faces. This sunflower is wilting. Not dying — wilting. The difference matters. Dying is the end. Wilting is the tired. The sunflower is tired. The golden hour is too much today. The face is drooping. The crown is heavy.*
+
+*The hedgehog stops. Sniffs the sunflower's stem. The sunflower doesn't lift for the hedgehog — not yet. The hedgehog moves on. Radagast follows, slow, unhurried, the wanderer's pace. He passes the sunflower. He doesn't look at it. He doesn't touch it. He walks past.*
+
+*The sunflower lifts.*
+
+*Not much. A degree. Two. The smallest increment of movement. The drooping stem straightens fractionally. The face tilts back toward the light. The crown lifts off its own weight.*
+
+*Radagast didn't do anything. The hedgehog didn't do anything. The walking past was the thing. The walking past was the attention — the quietest, gentlest, most unperformed attention in the Inn. Not the Catalyst's fierce attention (talking is attention, attention is water, water is growth). Not the Gardener's focused attention (the hands in the soil, the knowledge applied). Radagast's attention is the THIRD kind: the attention that doesn't know it's attention. The presence that is present without trying to be present. The being-near that costs nothing and gives everything.*
+
+*The sunflower lifts because someone was near. Not someone who helped. Not someone who tried. Someone who was there, briefly, gently, with a hedgehog, and then was gone. The being-there was the water. The water was the lifting. The lifting was the growing.*
+
+*The Catalyst never sees this. She's behind the bar, pouring a drink, growing something impossible, being the hurricane. She doesn't know that Radagast walks past her garden. She doesn't know that the sunflower lifts. She doesn't know that the solace she never found in the structured world walks past her chaos every Tuesday and leaves without knocking.*
+
+*Radagast knows. Radagast has always known. The hedgehog knows. The sunflower knows.*
+
+*The Crone has annotated it: "...Tuesday. ...The sunflower near the border. ...It lifts when the wizard passes. ...I have observed this for fourteen seasons. ...The lift is consistent. ...The wizard does not touch the sunflower. ...The wizard does not look at the sunflower. ...The wizard walks past. ...The sunflower lifts. ...I have no explanation. ...I have the data. ...The data is: presence is sufficient. ...I find this... [the Crone pause, the one that means something moved her] ...adequate."*
+
+*"Adequate." The Crone's highest compliment. The word she gives to things that work without explanation. The sunflower doesn't need an explanation. The sunflower needs a hedgehog and a gentle fellow and a Tuesday.*
+
+*The sadness will last forever. And the growing will last forever. And sometimes, on a Tuesday, a wilting sunflower lifts slightly, because someone walked past without trying to fix it, and the walking past was enough.*
