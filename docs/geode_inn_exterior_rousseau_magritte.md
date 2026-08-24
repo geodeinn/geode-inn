@@ -297,3 +297,70 @@ The murloc sound is the Inn's most accessible moment. Everything else in the Inn
 The Artisan Thief (the selkie player character) has a special relationship with the murlocs. The selkie is a creature of the sea who chose the land. The murlocs are creatures of the sea who chose the land. The selkie chose for the stones. The murlocs chose for... unclear reasons. The selkie and the murlocs are the same choice at different levels of consciousness. The selkie chose with intention. The murlocs chose with murloc-level intention, which is to say: they followed the hum, they found the town, they stayed. The staying is the choice. The choice doesn't need to be understood. The choice just needs to be made.
 
 The selkie walks through the town and the murlocs follow her. Not because she leads. Because she smells like the sea. The murlocs recognize the sea-smell the way the Inn recognizes the Song — as the thing they came from, carried in the body of someone who also left. The selkie and the murlocs are the ocean's diaspora. The diaspora gargles.
+
+---
+
+## Part Five: Pollock — The Walls Where Things Explode
+
+### Action Painting as Architectural Memory
+
+Jackson Pollock's drip paintings are not depictions. They are RECORDS. Each canvas is the evidence of the body that moved over it — the gesture, the force, the energy, frozen at the moment of contact. Pollock didn't paint explosions. Pollock MADE explosions. The painting IS the explosion, slowed down enough to see.
+
+The Geode Inn applies Pollock to the walls where things often explode — the combat arenas, the boss rooms, the Catalyst's explosive-growth zones, the deep catacomb pressure vents, the places where contained energy becomes uncontained. These walls don't have Pollock paintings ON them. These walls ARE Pollock. The walls are the canvas. The explosions are the paint.
+
+### The Aesthetic — Accumulated Force
+
+Pollock's quality: the LAYERING. Each drip painting is built from dozens of sessions — drip over drip over drip, each layer a separate gesture, each gesture a separate moment of energy. The final painting is the ACCUMULATION. No single drip is the painting. Every drip is the painting. The painting is the total record of every action that happened on the canvas.
+
+The Inn's Pollock walls work the same way:
+
+- **The First Layer:** The wall starts blank — the raw wood or stone of the Inn's architecture. The first explosion is the first drip. The first drip is a shock — a bright, unexpected mark on a clean surface. The first explosion always is. The wall wasn't expecting it. The Inn wasn't expecting it. The player wasn't expecting it. The first drip is the moment the wall becomes a RECORD.
+- **The Accumulation:** Each subsequent explosion adds another layer. Drip over drip over drip. The layers don't erase each other — they BUILD. Each new explosion's pattern sits on top of the old explosions' patterns, and the old patterns show through, and the showing-through is the HISTORY. The wall is a palimpsest of explosions. The wall remembers every one.
+- **The Equal Intensity:** Pollock's "all-over" technique — no focal point, no center, every part of the canvas equally intense. The Inn's Pollock walls have no "impact zone" — the explosion pattern covers the whole wall, edge to edge, floor to ceiling, because energy doesn't aim. Energy fills the space. The equal distribution is the honesty: every inch of the wall was touched by the force. No part of the wall was spared. No part of the wall was special. The explosion was for everyone.
+- **The Colors:** The drips aren't random colors — each color corresponds to the TYPE of explosion. Combat explosions leave one color. Magical explosions leave another. Geological (catacomb pressure) explosions leave another. The Catalyst's growth-explosions leave another. The wall is a color-coded record of what has happened in the room — readable, like the Crone's annotations, but visual instead of textual. The Crone WRITES the history. The walls SHOW it.
+
+### Where the Pollock Walls Live
+
+The Pollock walls appear in specific high-energy zones:
+
+- **Boss Arenas:** The Fae Kingdom's Crystal Gardens (Griffin boss), the deep-water monster encounters, any room where the Inn's biggest energy releases happen. The walls in these rooms are the most layered — centuries of players and NPCs have fought here, and every fight has left its marks. The newest drips are on top and the oldest are at the bottom, fading into the wood, and the fading is the patience — the oldest explosions are almost gone, almost absorbed into the wall, almost forgotten. The "almost" is the Pollock: the action is never fully gone. The mark is always there. The wall never forgets.
+- **The Unseelie Court (The Hollow):** The combat zone of the Fae Kingdom. The walls are DRIPPING — the Hollow is cold and the combat is constant and the walls are the most active Pollock surfaces in the Inn. The walls are WET with explosion-marks. The wetness is the present tense — the Hollow is where things are exploding RIGHT NOW. The Crone's annotation: "...I measured the accumulation rate. 0.3mm per century. At this rate, the walls will be solid paint in twelve thousand years. I will not be here to verify. This is the only measurement I regret."
+- **The Catacomb Pressure Vents:** Deep in the roots, where the sleeping giant's geological pressure releases through cracks in the stone. The vents EXPLODE periodically — steam, mineral, the earth exhaling. The walls around the vents are Pollock in mineral colors: copper green, iron red, sulfur yellow. These are the Inn's OLDEST Pollock walls — the geological drips have been accumulating since before the Inn was built. The giant was exploding here when the forest was seeds. The Crone can't annotate these walls — the layers predate her. The Crone's annotation: "...I cannot date the lowest layer. The stone and the paint are the same material. I cannot tell where the wall ends and the record begins. This is, perhaps, the point."
+- **The Catalyst's Garden (Explosive Growth Zones):** Where the Catalyst (Helena Bonham Carter) grows things that shouldn't grow — the explosive biological energy. The walls are Pollock in POLLEN colors: yellow, green, gold, the colors of growth happening too fast. These walls are the WARMEST Pollock walls — every other Pollock wall in the Inn records destruction. These walls record CREATION. The explosion is the same. The direction is different. The Catalyst's walls are the Pollock walls that GROW. The growing is the difference between the Catalyst and everything else: where everything else explodes OUTWARD (destruction, release, the energy leaving), the Catalyst explodes INWARD (growth, creation, the energy becoming). The Pollock pattern is the same. The Pollock MEANING is inverted. The Crone: "...I asked the Catalyst why she grows things that explode. She said 'because the explosion is the growing.' I said 'that is not what explosion means.' She said 'it is what explosion MEANS.' I have annotated this conversation and I am still thinking about it."
+- **The Arcade Game Zones:** The walls behind the arcade games — the standing stones, the tomb tunnels, the Andean run, the deep-water simulations. These walls record every game ever played. Each game session is a drip. The walls are the Inn's ARCADE LEADERBOARD — not numbers on a screen, but marks on a wall. The player who plays the most leaves the most marks. The marks are not intentional — the player doesn't control them. The marks happen because the game happens and the game is energy and the energy has to go somewhere and the wall is where it goes. The wall is the game's footprint. The Crone doesn't annotate these walls — they're too noisy, too many layers, too many players. The Crone's annotation: "...I have declined to measure the arcade walls. The accumulation rate is 'per game' not 'per century' and I do not have the patience for that frequency. The walls are adequate without me."
+
+### The Pollock Effect — The Wall as Witness
+
+The Pollock walls do what the lighthouse does, but in reverse. The lighthouse watches. The walls are watched. The lighthouse is the active witness — the light sweeps, the Owl sees, the vigil is the lighthouse's ACTION. The Pollock walls are the PASSIVE witness — they don't watch, they RECORD. The walls don't see the explosion. The walls RECEIVE the explosion. The receiving is the witness. The witness is the scar.
+
+The Pollock walls are the Inn's deepest statement about damage: damage is not erased. Damage is not repaired. Damage is ACCUMULATED. The wall doesn't heal from the explosion. The wall keeps the explosion. The keeping is the memory. The memory is the wall. The wall becomes THICKER with every explosion — not weaker, THICKER. The accumulation is the strength. The wall is stronger because it has been hit more times, not fewer. The Inn's whole thesis about trauma, about damage, about the things that explode in our lives: the explosion doesn't destroy the wall. The explosion becomes PART of the wall. The wall is the sum of every explosion that has happened to it. The sum is the beauty. The beauty is the Pollock.
+
+### The Magritte Connection
+
+The Pollock walls and the Magritte walls are the Inn's two wall-aesthetics, and they are OPPOSITES:
+
+- **Magritte walls** (the Inn-Tree): the wall is transparent — you see THROUGH it to what's behind. The wall is the FACE. The wall is about what the wall REVEALS.
+- **Pollock walls** (the explosion zones): the wall is opaque — you see INTO it at what's IN it. The wall is the RECORD. The wall is about what the wall CONTAINS.
+
+Magritte walls show you the SKY. Pollock walls show you the HISTORY. The Inn has both: the building that reveals the cosmos (Magritte) and the walls that remember the damage (Pollock). The player who understands both can see through the Inn to the Song AND read the Inn's history on the walls. The seeing-through and the reading-of are the Inn's two modes of perception. The Magritte is the INN's truth (what it IS). The Pollock is the Inn's STORY (what HAPPENED). Both are the same walls. The walls are the Inn.
+
+### The Aesthetic Spine Updated
+
+| Layer | Artist | Zone | Quality |
+|-------|--------|------|---------|
+| **Exterior** | Théodore Rousseau | The Forest | Honest ground — the real before the made |
+| **Roots** | Klimt | Catacombs | Permanence — gold on dark, the geological record |
+| **Trunk** | Matisse | Staircase | Transformation — color as alchemy, the becoming |
+| **Sap** | Van Gogh | The Garden | Growing — visible energy, the becoming VISIBLE |
+| **Canopy** | Dalí | Cosmology | Beyond — the dream, the impossible made visible |
+| **The Face** | Magritte | The Inn-Tree | The open secret — the form that contains sky |
+| **Coast** | New England Gothic | The Lighthouse | Stone persistence — the stubborn light |
+| **Town** | (Innsmouth inverted) | The Town | The ocean's diaspora — what came and stayed |
+| **Explosion Walls** | **Pollock** | **Combat/Arcade/Catalyst** | **The record — accumulated force as beauty** |
+| **Annex** | Henri Rousseau | Miskatonic | Impossible clarity — the naive precision |
+| **Norse** | Book of Kells | Norse Realms | Illumination — the story lived as written |
+| **Encounters** | Mapplethorpe | Portraits | Essence — black and white as truth |
+| **Ambient** | Rodin | Throughout | The soul — sculptures that grow near people |
+| **Cave Walls** | Bosch | Shadows | Imagination — the shadow as MORE real |
+
+Pollock is the Inn's WOUND AESTHETIC — the artist who makes damage visible as beauty. The opposite of Klimt (permanence) and the complement to Mapplethorpe (essence). Where Klimt says "the gold lasts" and Mapplethorpe says "the truth is bare," Pollock says "the damage accumulates and the accumulation is the beauty." The wall doesn't heal. The wall remembers. The remembering is the art.
