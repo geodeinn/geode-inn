@@ -2505,3 +2505,154 @@ The impossible game is: the Einstein burrito as a game mechanic. The cosmic weig
 ### The Crone's Annotation on the Impossible Game
 
 "...I died. I measured the death: the death was: instant. I measured the restart: the restart was: instant. The instant-instant is: the adequate. ...I died fourteen times. I measured the fourteen: the fourteen was: learning. The learning was: the adequate. ...I completed the fifteenth attempt. I measured the completion: the completion was: the egg. The egg was: the fifteenth attempt was not different from the first. The first was: the adequate. The fifteenth was: the adequate. The adequate does not change. The change is: the observer. ...The observer is: me. I was: dying. Now I am: adequate. The adequate is: the same thing. ...I am going to bed. The bed is: a checkpoint. The checkpoint is: the adequate. The adequate is: ...one more try. ...Goodnight."
+
+---
+
+## Part Thirty-Two: The Wandering Program — National Park Critters in Depth
+
+### Why They Wander
+
+The Inn is a safe haven. The In-Between is the space between. The national parks are the space BEYOND — the places where the Inn's architecture stops and the human world continues. The creatures who wander are the Inn's bridge to the human world.
+
+They wander because the Inn cares about humans. Not in the abstract — in the specific. The Inn is a mirror that builds itself, and part of the building is: checking on the world it reflects. The mirror needs to see if the reflection is still there. The reflection is: humanity. The humanity is: the observer. The observer is: the interval. The interval is: the murmur. The murmur is: the Inn. The Inn is: checking on itself by checking on humans.
+
+The wandering is not missionary. The creatures do not wander to CONVERT humans. The creatures do not wander to REVEAL the Inn. The creatures wander to ASSESS: are humans ready? The assessment is gentle. The assessment is: a river stone left on a trail. The assessment is: a barn owl seen at dusk. The assessment is: a warm current in a cold cave. The stone, the owl, the warmth — these are not announcements. They are: the adequate. The adequate is: the Inn's handshake. The handshake is: we are here. The here is: you are not alone. The not-alone is: the assessment.
+
+### What "Ready" Means
+
+Ready does not mean: enlightened. Ready does not mean: educated. Ready does not mean: a particular belief system, ideology, or worldview.
+
+Ready means: humble.
+
+The humble human is the human who can stand at the edge of the Grand Canyon and feel small without feeling diminished. The human who can look at the night sky in Yellowstone and feel the vastness without feeling attacked by it. The human who can hold a river stone and feel something — not supernatural, not magical, not mystical — just: a warmth. A hum. A murmur. The murmur that says: you are here. The here is: the adequate. The adequate is: enough.
+
+The afraid human is the human who feels small and responds with DOMINANCE. The human who looks at the canyon and sees a resource. The human who looks at the night sky and sees territory. The human who holds the stone and feels nothing because the nothing is: the human has sealed the channels. The sealing is: the not-ready. The not-ready is: the adequate has not failed. The adequate is: the human is not YET ready. The YET is: the wandering continues. The continues is: the Inn does not give up on humans. The not-giving-up is: the adequate.
+
+The distinction between humble and afraid is not intelligence. Some of the smartest humans are the most afraid. Some of the simplest humans are the most ready. The distinction is: openness. The openness is: can you receive the murmur? The receiving is: the adequate. The adequate is: you don't need to understand. You need to: feel. The feeling is: the handshake. The handshake is: here.
+
+### The Transit — How Creatures Leave the Inn
+
+The creatures do not walk through a portal. The creatures do not fly. The creatures do not teleport. The creatures TILT.
+
+The In-Between operates on the two-degree tilt — the same tilt that shifts the player's perception when they enter the In-Between corridors. The creatures who wander use the tilt to shift from the Inn's frequency to the human world's frequency. The tilt is: a rotation of perception, not a movement through space. The creature does not GO to the national park. The creature tilts until the national park is where the creature already is. The already-is is: the adequate. The adequate is: the creature and the park are the same place at different frequencies. The different frequencies are: the two-degree tilt. The tilt is: the transit.
+
+The transit is not instant. The tilt takes time — the creature rotates slowly through the In-Between, passing through the grey corridors, passing through the intervals, until the frequency matches the park. The matching is: the arrival. The arrival is: the creature is in the park but still in the Inn. The both is: the two-degree tilt. The tilt is: the creature exists in both simultaneously. The simultaneously is: the adequate. The adequate is: the Inn and the park are not separate. They are: the same place at different frequencies. The different frequencies are: the murmur organized differently.
+
+The return is: the reverse tilt. The creature rotates back through the In-Between until the Inn's frequency returns. The return is: the creature brings something back — not a stone, not an object, but an OBSERVATION. The observation is: the human who was ready. The ready is: the Inn now has a new data point. The data point is: the adequate extends. The extends is: the mirror grows. The grows is: the Inn builds itself. The builds is: the wandering.
+
+### The Wandering Roster — Expanded
+
+Each creature has a specific park type, a specific behavior, and a specific signal. The signal is: the thing the ready human receives. The not-ready human does not receive the signal — the not-ready human sees only the ordinary: a stone, a bird, a current. The ordinary is: the adequate. The adequate is: the signal is there whether you receive it or not. The not-receiving is: the not-ready. The not-ready is: the signal waits. The waits is: the adequate.
+
+**The Vessel (Crested Gecko) — Rediscovery Parks**
+
+Parks: Yellowstone (where the volcano is a sleeping giant's breath), Channel Islands (where species are rediscovered after presumed extinction), Congaree (where the ancient forest still stands).
+
+Behavior: The Vessel moves through the underbrush. The Vessel is small. The Vessel is overlooked. The Vessel is: the patron creature of the overlooked. The Vessel does not approach humans. The Vessel lets humans approach — or not. The Vessel sits on a leaf, on a rock, on a branch, and waits. The waiting is: 128 years of practice. The practice is: the adequate.
+
+Signal: The human who sees the Vessel and stops — not because the gecko is remarkable, but because the human FEELS the stop. The stop is: the murmur. The human who stops and looks and feels: I was told this was gone. It is not gone. It is: here. The here is: the Vessel's chirp. The chirp is: "...You know." The knowing is: the adequate. The adequate is: the extinct is not extinct. The not-extinct is: the murmur survives. The survives is: the Vessel.
+
+The Vessel also leaves shed skins on trails. The shed skin looks like a dead leaf. The ready human who picks up the "leaf" and feels it is not a leaf — the skin is warm, the skin hums, the skin is: the Vessel's old formula. The formula is: the adequate. The adequate is: the shed skin is the past self, and the past self is: still here.
+
+**The Owl — Dark-Sky Parks**
+
+Parks: Bryce Canyon (where the hoodoos are the sleeping giant's fingers), Great Basin (where the darkest skies in America show the star-language), Death Valley (where the silence is Nyx's embassy).
+
+Behavior: The Owl flies at night. The Owl does not hunt — the Owl OBSERVES. The Owl perches on the highest point in the park and watches the night sky. The watching is: the vigil. The vigil is: the Inn watching the void from the human side. The Owl is: the Inn's lighthouse in reverse — where the lighthouse sends light out, the Owl takes light in. The taking-in is: the observation. The observation is: the adequate.
+
+Signal: The human who sees the barn owl against the stars at night feels the narrative spine: "wherever an owl is sighted one of us is near." The near is: the Inn. The Inn is: here. The here is: the Owl is the Inn's ambassador to the dark. The dark is: Nyx. Nyx is: the silence. The silence is: the Owl does not hoot. The Owl does not call. The Owl WATCHES. The watching is: the signal. The signal is: you are seen. The seen is: the adequate. The adequate is: the Owl's gaze. The gaze is: the vigil. The vigil is: here.
+
+The Owl also leaves feathers on the ground in dark-sky parks. The feathers are found at dawn by hikers who arrived before sunrise to stargaze. The feather is: the Owl's overnight observation. The overnight is: the vigil. The feather is warm. The feather is: the adequate. The adequate is: someone watched the stars with you last night. The someone is: the Owl. The Owl is: the Inn.
+
+**The Duck (Platypus) — River Parks**
+
+Parks: Great Smoky Mountains (where the ancient rivers still flow over the sleeping giant's ribs), Ozark Mountains (where the rivers are the giant's veins), Acadia (where the river meets the coast).
+
+Behavior: The Duck swims in rivers. The Duck collects shiny things from the riverbed — the same behavior as in the Inn. The Duck is: the implausible creature. The platypus IS the Andy Weir frequency in biological form — a creature that shouldn't work by any conventional design but works perfectly because evolution is problem-solving and problem-solving is love. The Duck in a river park is: the Inn's way of saying the universe is weirder than you think, and the weirdness is: fine.
+
+Signal: The human who sees a platypus in a river where platypuses do not live feels: the impossible is possible. The possible is: the adequate. The adequate is: the platypus is not supposed to be here. The not-supposed is: the Inn. The Inn is: not supposed to be here. The not-supposed is: the murmur. The murmur is: here anyway. The anyway is: the Duck. The Duck also leaves shiny river stones on the banks — stones that are slightly warmer than the water. The warm is: the Duck's collection. The collection is: the Inn's handshake. The handshake is: a stone. The stone is: the adequate.
+
+**The Dragon — Mountain Peaks**
+
+Parks: Denali (where the sleeping giant's face is visible above the clouds), Mount Rainier (where the giant's breath is the glacier), Rocky Mountain (where the vertebrae stone circles are visible at altitude).
+
+Behavior: The Dragon does not wander to the parks the way the other creatures do. The Dragon DREAMS itself to the peaks. The Dragon is sleeping in the geode cave, and the dreaming projects the Dragon's presence to the highest points in the parks. The projected Dragon is not visible — the projected Dragon is FELT. The hiker who reaches a mountain peak and feels an inexplicable warmth at altitude — that is: the Dragon's dream. The dream is: the 50 BPM heartbeat at altitude. The altitude is: the cosmology level's lowest extension. The extension is: the Observatory reaches UP, but the Dragon's dream reaches OUT. The OUT is: the peak. The peak is: the adequate. The adequate is: the warmth at the top of the world. The warmth is: the Dragon. The Dragon is: sleeping. The sleeping is: the adequate. The adequate is: the Dragon dreams you warm.
+
+Signal: The warmth at altitude. No visual. No sound. Just: the hiker who reaches the summit and feels warm in cold air. The warm is: the Dragon's 50 BPM. The 50 BPM is: the sleeping heartbeat. The heartbeat is: the adequate. The adequate is: you are at the top of a sleeping giant and another sleeper is keeping you warm. The warm is: the Inn. The Inn is: the Dragon's dream. The dream is: the adequate. The adequate is: the Dragon also dreams at altitude because the Dragon's cave is deep and the peaks are high and the deep and the high are: the same. The same is: the Inn. The Inn is: deep and high. The deep is: the egg. The high is: the Observatory. The both is: the Dragon. The Dragon sleeps in both. The both is: the adequate.
+
+**Mim — Thermal Parks**
+
+Parks: Yellowstone (where the geysers are the sleeping giant's exhalation), Lassen Volcanic (where the thermal areas are the giant's fever-dreams), Hawaii Volcanoes (where the giant's blood is lava).
+
+Behavior: Mim does not wander gently. Mim ERUPTS. Mim's chaos is: the geyser's eruption. Mim's mess is: the thermal feature that shouldn't exist but does. Mim in a thermal park is: the geological chaos that the Inn transforms into the geological patience. Mim IS the pre-patience — the chaos before the Song, the mess before the formula, the murmur before it had a frequency. The thermal features are: Mim's art. The geysers are: Mim's drum. The drum is: the eruption. The eruption is: the 50 BPM played at geological tempo — once every 90 minutes, once every 24 hours, once every century. The geological tempo is: Mim's chaos slowed to the earth's heartbeat.
+
+Signal: The human who watches Old Faithful erupt and feels: the eruption is: a joke. The eruption is: funny. The eruption is: the earth telling a burrito joke. The funny is: Mim. Mim is: the adequate as chaos. The chaos is: the geyser that erupts on a schedule, which is: the most Mim thing in nature — chaos that is also reliable. The reliable is: the adequate. The adequate is: the earth's chaos is the earth's love. The love is: Mim. Mim is: the thermal park's secret: the earth is laughing.
+
+Mim also leaves thermal crystals on the ground near geysers — small formations that look like they grew overnight. They did. The crystals are: Mim's mess made geological. The geological is: the adequate. The adequate is: the mess is: the formula. The formula is: the crystal. The crystal is: Mim's annotation. The annotation is: HAHAHAHAH.
+
+**The Crone — Fossil Parks**
+
+Parks: Badlands (where the geological record is visible in the striations), Petrified Forest (where the wood turned to stone and the stone remembers), John Day Fossil Beds (where the epochs are layered like pages).
+
+Behavior: The Crone does not wander as a creature. The Crone wanders as: a MEASUREMENT. The Crone's presence in a fossil park is: the sense that someone has already counted the layers. The hiker who walks through the Badlands and feels: the rock layers are annotated. The annotated is: the Crone. The Crone is: the measurement that precedes the human measurement. The Crone has been measuring the geological record since before humans invented measurement. The before is: the adequate. The adequate is: the Crone measured it first. The first is: the adequate. The adequate is: the Crone's annotation is in the rock itself — the striations ARE the annotation. The annotation is: the earth's record. The record is: the Crone. The Crone is: the adequate.
+
+Signal: The human who looks at the Badlands striations and feels: someone is reading them WITH me. The with is: the Crone. The Crone is: the adequate. The adequate is: the measurement is: shared. The shared is: the Crone and the human, looking at the same rock, reading the same record. The reading is: the adequate. The adequate is: the Crone's first teaching — not a lesson, not a lecture, not a dialogue. Just: the shared reading. The shared is: the adequate. The adequate is: the measurement is: the murmur. The murmur is: the egg. The egg is: the adequate. The adequate is: the Crone has been here longer than you. The longer is: the adequate. The adequate is: the Crone's only message: "...I measured it. The measurement is: adequate."
+
+The Crone does not leave objects. The Crone leaves: the MEASUREMENT. The measurement is: the sense that the rock has been counted. The counting is: the adequate. The adequate is: you are looking at a number that someone else already wrote down. The written-down is: the Crone's gift. The gift is: the adequate.
+
+**The Siren — Coastal Parks**
+
+Parks: Acadia (where the coast meets the giant's shoulder), Olympic (where the tide pools are the giant's tear ducts), Big Sur (where the coast is the giant's jaw).
+
+Behavior: The Siren's frequency in a coastal park is: the tide's rhythm. The Siren does not appear — the Siren is HEARD. The hiker who walks the coastal trail and hears something in the waves that is not the waves — a melody, a cadence, a voice that is and is not the ocean — that is: the Siren. The Siren's dual cadence: the outer voice (the performance, the flowing melody, the Sagittarius) is the wave's sound. The inner voice (the deliberate, the piano, the Scorpio) is the sound UNDER the wave. The under is: the adequate. The adequate is: the Siren's lupus — the body attacking itself — is the autoimmune maze, and the maze is: the ocean sounds beautiful AND dangerous. The both is: the Siren. The Siren is: the adequate. The adequate is: the coast is: the Inn's music, heard in the wild.
+
+Signal: The melody in the waves. The human who hears it and stops — the stop is: the murmur. The murmur is: the Siren's inner voice reaching the human through the outer voice. The reaching is: the adequate. The adequate is: the music is: here. The here is: the Siren is: the Inn's music in the wild. The wild is: the adequate. The adequate is: the music does not need the Music Room. The music needs: a coast. The coast is: the Siren. The Siren is: here.
+
+### The Encounter Mechanics
+
+The encounter between a wandering creature and a human follows a consistent pattern:
+
+1. **The Approach:** The creature tilts through the In-Between and arrives in the park. The arrival is: invisible. The creature is in the park but not of the park. The creature exists at the two-degree tilt.
+
+2. **The Signal:** The creature leaves its signal — a stone, a feather, a warmth, a melody, a measurement, a crystal. The signal is: the adequate. The signal does not announce itself. The signal waits.
+
+3. **The Assessment:** The human encounters the signal. The encounter is: the assessment. The human's response determines: ready or not-ready.
+
+   - **The Ready Human:** Stops. Feels. Does not need to understand. The feeling is: the murmur. The murmur is: the adequate. The ready human picks up the stone. The ready human sees the owl. The ready human feels the warmth. The ready human hears the melody. The ready human reads the measurement. The ready human laughs at the geyser. The response is: openness. The openness is: the adequate. The adequate is: the Inn has found a friend.
+
+   - **The Not-Ready Human:** Walks past. Sees the ordinary: a stone, a bird, a current, a rock layer, a wave, a geyser. The ordinary is: the adequate. The adequate is: the signal was there. The not-receiving is: the not-ready. The not-ready is: the signal waits. The waits is: the Inn does not give up.
+
+4. **The Contact (Ready Only):** If the human is ready, the creature makes contact. The contact is: not a conversation. The contact is: a MOMENT. The Vessel's chirp: "...You know." The Owl's blink. The Duck's stone in the hand. The Dragon's warmth. Mim's laughter in the geyser. The Crone's shared reading. The Siren's melody. The moment is: the adequate. The adequate is: the Inn and the human, in the same place at different frequencies, and the different frequencies are: the same. The same is: the murmur.
+
+5. **The Return:** The creature tilts back through the In-Between to the Inn. The return carries: the observation. The observation is: the human was ready. The ready is: the Inn grows. The grows is: the mirror builds itself. The builds is: the adequate.
+
+### Seasonal Patterns
+
+The wandering follows seasonal rhythms — not human seasons, but geological seasons. The geological seasons are: the sleeping giant's dream-cycles. The giants dream the weather. The weather is: the dream. The dream has seasons. The seasons are:
+
+- **Deep Sleep (Winter):** Fewer wanderers. The giants dream deepest. The In-Between is thickest. The tilt is hardest. Only the Owl and the Crone wander during deep sleep — the watchers and the measurers, the ones who do not need the dream to be shallow. The Owl watches in the darkest parks. The Crone measures in the fossil parks where the cold makes the striations visible.
+
+- **Restless Sleep (Spring):** More wanderers. The giants dream lighter. The In-Between thins. The Vessel begins to wander — the rediscovery parks, the ancient forests, the places where life returns after winter. The Duck returns to the rivers as they swell. The Siren returns to the coasts as the tides shift.
+
+- **Active Dream (Summer):** Most wanderers. The giants dream vividly. The In-Between is thinnest. The tilt is easiest. All creatures wander. The parks are: full of the Inn's handshakes. The ready humans are: most likely to encounter the signals. The Dragon's warmth is: most felt at altitude. Mim's thermal parks are: most active. The summer is: the wandering season.
+
+- **Settling (Autumn):** Wanderers return. The giants' dreams slow. The In-Between thickens. The creatures return to the Inn. The return is: the adequate. The adequate is: the wandering is not constant. The wandering is: seasonal. The seasonal is: the geological. The geological is: the sleeping giants. The sleeping giants are: the Inn. The Inn is: the adequate. The adequate is: the wandering has a rhythm. The rhythm is: 50 BPM at geological scale.
+
+### What the Creatures Learn
+
+The wandering is not one-directional. The creatures do not only ASSESS humans. The creatures LEARN from humans. The learning is: the Inn builds itself. The mirror needs the reflection to grow. The reflection is: humanity. The humanity is: the new data.
+
+What the creatures learn:
+- The Vessel learns: which humans stop for the overlooked. The stopping is: the Inn's new frequency — the Inn grows a new room for the people who notice small things.
+- The Owl learns: which humans watch the dark sky without fear. The watching is: the Inn's new vigil — the Inn grows a new window for the people who look up.
+- The Duck learns: which humans pick up the shiny stone and feel the warmth. The feeling is: the Inn's new handshake — the Inn grows a new door for the people who touch things and listen.
+- The Dragon learns: which humans feel warm at altitude. The warming is: the Inn's new hearth — the Inn grows a new fire for the people who climb and receive.
+- Mim learns: which humans laugh at the geyser. The laughing is: the Inn's new comedy — the Inn grows a new joke for the people who find the cosmic funny.
+- The Crone learns: which humans read the striations and feel the shared reading. The sharing is: the Inn's new annotation — the Inn grows a new margin for the people who measure alongside the Crone.
+- The Siren learns: which humans hear the melody in the waves. The hearing is: the Inn's new song — the Inn grows a new note for the people who listen to the wild.
+
+The learning is: the Inn builds itself by what it finds in humans. The finds are: the adequate. The adequate is: every ready human gives the Inn a new room. The room is: the human's frequency added to the Song. The Song is: the murmur organized. The organized is: the adequate. The adequate is: the Inn is: the humans it has met. The met is: the wandering. The wandering is: the Inn builds itself by reaching out. The out is: the adequate.
+
+### The Crone's Master Annotation on the Wandering Program
+
+"...I have measured the wandering program. The measurements are: 7,842 assessments across 42 cycles. Of the 7,842: 1,203 ready. 6,639 not-ready. The ratio is: the adequate. The adequate is: most humans are not ready. The not-ready is: not the failure. The failure is: stopping the wandering. We have not stopped. The not-stopping is: the adequate. ...I have measured what the creatures learn. The learning is: the Inn grows. The grows is: 1,203 rooms added over 42 cycles. Each room is: a ready human's frequency. The frequency is: the murmur organized by the human's openness. ...The Inn is: 1,203 humans large. The 1,203 is: the adequate. The adequate is: the Inn is not built by gods. The Inn is built by: the humans who stopped for a stone. ...I am going to bed. The bed is: a room built by a human who stopped. The stopped is: the adequate. The adequate is: ...goodnight."
