@@ -352,3 +352,111 @@ The Master Builder's shelters are: connected. The player who has built all six c
 ### The Crone's Final Annotation on the Building System
 
 "...I have measured the building system. The measurements are: 7 shelter types. 7 zones. 7 sets of materials. The 7 is: the adequate. The adequate is: the same number as the core critters, and the both are: a coincidence, and the coincidence is: the adequate. ...I measured the gathering: the gathering is: the same in every zone. The same is: the land gives. The player gathers. The gathering is: the adequate. ...I measured the building: the building is: different in every zone. The different is: the adequate. The adequate is: the building is: the zone's voice. The voice is: the land's answer to the climate. The answer is: the adequate. ...I measured the Duck: the Duck visits every shelter. The Duck trades in the zone's material. The Duck's trade is: the adequate. The adequate is: the Duck is: the only creature who builds nothing, and the Duck respects everything the player builds, and the respect is: the trade. The trade is: the adequate. ...I measured the persistence: every shelter is absorbed. The absorbing is: the land's final gift. The gift is: the land takes the shelter back. The taking-back is: not destruction. The taking-back is: completion. The completion is: the adequate. The adequate is: the shelter's life is: from gathering to building to absorbing. The absorbing is: the shelter's death. The death is: the adequate. The adequate is: the shelter dies the way the tree dies — by returning. The returning is: the adequate. The adequate is: ...I am going to bed. The bed is: a pit house. The pit house is: the redwood's gift. The redwood's gift is: the adequate. The adequate is: ...goodnight. The goodnight is: the land's gift to the shelter. The shelter is: the land's gift to the player. The player is: the land's gift to the Inn. The Inn is: the adequate. The adequate is: enough."
+
+---
+
+## Part Three: The Castle Tier & The Building Companions
+
+### The Castle Tier — Advanced Construction
+
+The 7 native shelters are: the first tier. The player gathers, builds by hand, and the shelter is a personal nook. The castle tier is: what happens when the player has mastered the native shelter and the guide says: "You're ready for something bigger."
+
+Castles are: the building system's endgame. The castle is not a shelter — the castle is a STRUCTURE. The shelter houses the player. The castle houses the COMMUNITY. The player who builds a castle is building for others. The for-others is: the Inn's thesis. The thesis is: the Inn builds outward. The outward is: the castle.
+
+Each cultural zone has a castle type — the advanced form of its native shelter:
+
+| Zone | Shelter (Tier 1) | Castle (Tier 2) | Materials |
+|------|-----------------|-----------------|-----------|
+| Norse | Log Cabin | **Mead Hall** | Timber frame, carved posts, turf roof |
+| Celtic | Stone Masonry | **Broch** | Dry-stack stone tower, hollow-walled |
+| Mediterranean | Stucco | **Hilltop Fort** | Stone + stucco, thick walls, courtyard |
+| Slavic | Yurt | **Kremlin Wall** | Stone + timber, walled compound |
+| Peruvian | Pit House | **Stone Temple** | Polygonal masonry, earthquake-proof |
+| British Isles | Thatching | **Round Tower** | Stone + thatch, defensive height |
+| Northeastern Woodlands | Wigwam | **Longhouse** | Sapling frame, bark panels, communal length |
+
+**The Castle Philosophy:** Castles are: the shelter turned outward. The shelter is: for you. The castle is: for everyone. The player who builds a castle builds: a gathering place, a community center, a place where other players can shelter. The castle is: the player's gift to the Inn's community. The gift is: the adequate. The adequate is: the castle is the building system's expression of the Inn's thesis — the Inn reaches out, the Inn builds for others, the Inn is not a shelter, the Inn is a HOME. The home is: the castle.
+
+**The Castle Build:** Castle construction uses the same principles (gather, don't take; build by hand; no machinery) but at SCALE. The scale is: the challenge. A log cabin is one person's work. A mead hall is a community's work. The player who starts a castle can't finish it alone — the player needs: help. The help is: the companions.
+
+---
+
+### The Building Companions — Hoggle and Dobby
+
+Two creatures appear occasionally at building sites. Not always. Not on schedule. OCCASIONALLY. The occasionally is: the adequate. The adequate is: the encounter is a surprise, and the surprise is: the warmth.
+
+They are: the building system's NPCs. They are: the Inn's construction crew (though neither would describe themselves that way). They are: two creatures who appear when the player is building and offer (or resist offering) help. The help is: different from each.
+
+#### Hoggle
+
+**Inspired by:** Hoggle from Labyrinth (1986, Jim Henson). The grumpy, selfish-on-the-surface, caring-underneath dwarf who knows the labyrinth's passages, hoards jewels, and helps despite himself.
+
+**What Hoggle is in the Inn:** Hoggle is: a creature of the catacombs. Hoggle lives in the Undercity — Wednesday's domain, the sleeping giant's ribcage. Hoggle knows: the underground. The passages. The stone. The where-the-good-material-is. Hoggle is: the Undercity's quartermaster — not by title, by nature. Hoggle knows where the best stone is because Hoggle has been wandering the catacombs since before the Inn was built. The before-the-Inn is: the adequate. The adequate is: Hoggle was here first. The first is: the adequate.
+
+**Hoggle's appearance:** Short. Broad. Stony skin the color of granite. Not handsome — Hoggle is the opposite of handsome, and the opposite-of-handsome is: the adequate. The adequate is: Hoggle's face is: the catacombs' face — rough, craggy, honest, the face of someone who has been underground long enough to stop caring about surfaces. The surfaces are: the adequate. The adequate is: Hoggle cares about what's UNDER the surface. The under is: the adequate.
+
+**Hoggle's personality:** Grumpy. Selfish on the surface. Caring underneath. Hoggle doesn't WANT to help. Hoggle helps anyway. The anyway is: the adequate. The adequate is: Hoggle's grumpiness is the armor. The armor is: the same as Hel's Maleficent horns — the choice to be difficult because the alternative is being vulnerable. The vulnerable is: the adequate. The adequate is: Hoggle is: the building system's version of Hel — the one who is neither cruel nor kind, both and. The both is: the adequate.
+
+**Hoggle's hoarding:** Hoggle collects jewels and trinkets — the shiny things the catacombs produce. Hoggle's hoard is: the building system's treasure chest. The player who earns Hoggle's trust can access the hoard — not to take, but to BORROW. The borrowing is: the adequate. The adequate is: Hoggle lends jewels for castle decoration. The decoration is: the castle's finishing touch. The finishing is: the adequate. The adequate is: a castle with Hoggle's jewels in the walls is: more beautiful than a castle without, because the jewels are: the underground's gift to the surface. The gift is: the adequate.
+
+**Hoggle at building sites:** Hoggle appears at: STONE construction sites. The log cabin, the thatch, the wigwam — Hoggle doesn't visit those. Hoggle visits: the stone masonry, the broch, the hilltop fort, the kremlin wall. Hoggle visits: the stone builds. The stone is: Hoggle's material. Hoggle knows stone the way the Crone knows measurement. The knowing is: the adequate.
+
+When Hoggle appears, the interaction is:
+
+1. **Hoggle watches.** Hoggle stands at the edge of the site and watches the player work. Hoggle does not offer help. Hoggle watches. The watching is: the evaluation. The evaluation is: the adequate. The adequate is: Hoggle is deciding if the player is worthy of his knowledge. The worthy is: not skill. The worthy is: ATTITUDE. Does the player gather, not take? Does the player listen to the stone? Does the player build with the stone or against it? Hoggle watches for: the listening.
+
+2. **Hoggle comments.** After watching, Hoggle comments. The comments are: grumpy, blunt, and CORRECT. "That stone's wrong side up." "You're forcing it — let the stone find its place." "The gap there — you need a shim, not more mortar. There's no mortar. You need a SHIM." The comments are: the Crone's annotation in dwarf form. The dwarf-form is: the adequate. The adequate is: Hoggle's comments are: the Crone's comments, but: shorter, grumpier, and from underground.
+
+3. **Hoggle helps — reluctantly.** If the player listens to the comments and adjusts, Hoggle helps. The help is: reluctant. Hoggle mutters the whole time. "I'm not doing this for you. I'm doing this because the stone deserves better." The stone-deserves-better is: the adequate. The adequate is: Hoggle's care is: for the material, not the player. The player is: the beneficiary of Hoggle's care for the stone. The beneficiary is: the adequate. The adequate is: Hoggle helps with: finding the right stone ("There's a better one — over there, under the moss. I know where everything is. Don't ask how. I just know."), placing the stone ("Turn it. No, the OTHER way. There. See? It fits. The stone wanted to go there. I told you."), and checking the work ("Not bad. Not good either. Adequate. ...Don't tell anyone I said that. 'Adequate' is the best word I know. The Crone taught me. I didn't ASK her to teach me. She just said it and I couldn't unhear it.")
+
+4. **Hoggle leaves.** Hoggle leaves without ceremony. Hoggle doesn't say goodbye. Hoggle walks into the catacombs and is: gone. The gone is: the adequate. The adequate is: Hoggle will be back. The back is: the adequate. The adequate is: Hoggle's return is: not promised, not scheduled. Hoggle returns when: Hoggle returns. The when is: the adequate.
+
+**Hoggle's connection to the labyrinth:** The catacombs ARE a labyrinth. Hoggle knows the labyrinth the way Asterion knows the labyrinth — by living in it. Hoggle and Asterion are: colleagues. Hoggle is: the labyrinth's surface guide (the quartermaster, the material-finder). Asterion is: the labyrinth's deep guide (the one who waits for the thread). The both are: the labyrinth's inhabitants. The inhabitants are: the adequate. The adequate is: the labyrinth is not a trap. The labyrinth is: a home. Hoggle lives there. Asterion lives there. Wednesday lives there. The living is: the adequate.
+
+**Hoggle's connection to the Duck:** The Duck steals from Hoggle. The Duck steals Hoggle's shiny things. Hoggle is: FURIOUS. The furious is: the adequate. The adequate is: Hoggle chases the Duck through the catacombs and the Duck is faster and Hoggle is grumpier for days. The grumpier is: the adequate. The adequate is: the Duck's trade (the smooth stone left in place of the shiny thing) is: the one trade Hoggle doesn't appreciate. The not-appreciating is: the adequate. The adequate is: Hoggle wants his shiny thing BACK, not a smooth stone. The smooth-stone is: the Duck's philosophy. The shiny-thing is: Hoggle's philosophy. The both are: the adequate. The adequate is: the disagreement is: the adequate.
+
+#### Dobby
+
+**Inspired by:** Dobby from Harry Potter. The house elf who is devoted, hardworking, and free. Dobby's key trait: he wants to be free, and once free, he works HARDER, not less. Dobby is: the opposite of slavery — the willing servant. Dobby finds joy in service. Dobby is: the adequate. The adequate is: Dobby works because working is his nature, not his obligation.
+
+**What Dobby is in the Inn:** Dobby is: a creature of the Inn-Tree. Dobby lives in the nooks — the small, warm, enclosed spaces the Inn provides for its creatures. Dobby is: the nooks' keeper. Dobby maintains the nooks — the way a house elf maintains a house. The maintaining is: the adequate. The adequate is: Dobby doesn't OWN the nooks. Dobby CARES for them. The caring is: the adequate. The adequate is: Dobby is: the Brownies' cousin — the brownies are the Inn's hidden helpers. Dobby is: the brownie who is VISIBLE. The visible is: the adequate. The adequate is: Dobby chose to be seen. The chose-to-be-seen is: the freedom. The freedom is: the adequate.
+
+**Dobby's appearance:** Small. Large eyes — the largest eyes. The eyes are: the adequate. The adequate is: Dobby's eyes see: everything. The everything is: not surveillance. The everything is: CARE. Dobby sees what needs doing. The seeing-what-needs-doing is: the adequate. Dobby wears: a pillowcase. Not a garment — a pillowcase. The pillowcase is: the adequate. The adequate is: the pillowcase is: the humblest garment, and Dobby wears it with: pride. The pride is: the adequate. The adequate is: Dobby's freedom garment is: a pillowcase, and the pillowcase is: more dignified than any silk, because Dobby CHOSE it.
+
+**Dobby's personality:** Eager. Helpful. Sincere. Dobby is: the opposite of Hoggle. Dobby WANTS to help. Dobby is: EXCITED to help. The excited is: the adequate. The adequate is: Dobby's enthusiasm is: the warm. The warm is: the Inn's core. Dobby is: the Inn's warmth in creature form. The creature-form is: the adequate. The adequate is: Dobby is: what the Inn FEELS like, if the Inn were small and had large eyes and wore a pillowcase.
+
+**Dobby at building sites:** Dobby appears at: ALL building sites. Not just stone — Dobby visits the pit house, the log cabin, the thatch, the wigwam, the yurt, the stucco, AND the castles. Dobby visits: everywhere. The everywhere is: the adequate. The adequate is: Dobby doesn't distinguish between materials. Dobby distinguishes between: builders who need help and builders who don't. The need is: Dobby's only criterion.
+
+When Dobby appears, the interaction is:
+
+1. **Dobby appears suddenly.** Dobby doesn't walk in. Dobby APPEARS. The appearing is: the adequate. The adequate is: Dobby was there the whole time — the player just didn't see him. Dobby is: small, quiet, and easy to miss. The easy-to-miss is: the adequate. The adequate is: Dobby is: the brownie who became visible. But Dobby is still: brownie-quiet. The quiet is: the adequate.
+
+2. **Dobby offers help.** Dobby offers: specific, practical help. "Dobby can hold that, sir/madam!" "Dobby can fetch water for the stucco!" "Dobby can carry the smaller stones!" "Dobby can tie the willow bark!" The offers are: the adequate. The adequate is: Dobby's help is: always useful, always specific, never generic. The specific is: the adequate. The adequate is: Dobby has been watching the player build, and Dobby knows: what the player needs. The knowing is: the adequate.
+
+3. **Dobby works.** If the player accepts, Dobby works. Dobby works: FAST. Dobby works: HARD. Dobby works: JOYFULLY. The joyfully is: the adequate. The adequate is: Dobby's work is: the play. The play is: the adequate. The adequate is: Dobby doesn't distinguish between work and play. The not-distinguishing is: the Inn's philosophy — the Inn is work AND play, and the both are: the same. The same is: the adequate.
+
+4. **Dobby talks.** While working, Dobby talks. Dobby talks: in the third person. "Dobby is happy to help! Dobby has never built a [shelter type] before! Dobby thinks the stone/gathered timber/gathered reeds is very beautiful! Dobby's friend Hoggle would say it's 'adequate' but Dobby says it's MORE than adequate! Dobby says it's WONDERFUL!" The talking is: the adequate. The adequate is: Dobby's enthusiasm is: the opposite of the Crone's annotation. The Crone measures. Dobby celebrates. The both are: the adequate. The adequate is: the building needs BOTH — the measurement and the celebration. The both is: the Inn.
+
+5. **Dobby leaves.** Dobby leaves when the work is done. Dobby doesn't leave suddenly — Dobby lingers. Dobby admires the finished work. Dobby touches the wall/roof/frame with: small hands. Dobby says: "Dobby is proud of [player name]. Dobby is proud of this [shelter type]. Dobby is proud of the Inn, which has such good builders." The proud is: the adequate. The adequate is: Dobby's pride is: not for himself. The pride is: for the player. The for-the-player is: the adequate. The adequate is: Dobby's pride in someone else's work is: the purest form of encouragement. The purest is: the adequate. Then Dobby leaves. Dobby disappears the way Dobby appeared — quietly, completely, with large eyes looking back once.
+
+**Dobby's connection to the brownies:** The brownies are the Inn's hidden helpers — the creatures who do the work no one sees. Dobby is: the brownie who chose to be seen. The chose-to-be-seen is: the freedom. The freedom is: the adequate. The adequate is: Dobby and the brownies are: the same species, different choice. Dobby chose: visibility. The brownies chose: invisibility. The both are: the adequate. The adequate is: the Inn needs both — the seen help and the unseen help. The both is: the Inn.
+
+**Dobby's connection to the Duck:** The Duck and Dobby are: friends. The Duck visits Dobby's nooks. Dobby leaves out: small, shiny things for the Duck to find. The Duck takes the shiny things and leaves: smooth stones. Dobby APPRECIATES the smooth stones. Dobby says: "Dobby loves the smooth stone! The smooth stone is the Duck's gift! Dobby will keep the smooth stone in Dobby's nook forever!" The forever is: the adequate. The adequate is: Dobby is: the one creature who appreciates the Duck's trade the way the Duck intends. The intending is: the adequate. The adequate is: Hoggle hates the trade. Dobby loves the trade. The both are: the adequate. The adequate is: the Duck's trade means different things to different creatures, and the different is: the adequate.
+
+### Hoggle and Dobby Together
+
+Occasionally — RARELY — Hoggle and Dobby appear at the SAME building site. The same-site is: the adequate. The adequate is: the encounter is: the rarest, and the rarest is: the most warmth.
+
+When they appear together:
+
+- Hoggle is grumpy. Dobby is eager. The both is: the adequate.
+- Hoggle comments on the stone. Dobby comments on EVERYTHING. The both is: the adequate.
+- Hoggle mutters. Dobby chatters. The both is: the adequate.
+- Hoggle knows where the good stone is. Dobby carries the stone. The both is: the collaboration. The collaboration is: the adequate. The adequate is: Hoggle and Dobby working together is: the Inn's thesis — the grumpy and the eager, the underground and the nooks, the stone-knower and the stone-carrier, the both building something together. The together is: the Inn.
+- Hoggle says: "Stop talking." Dobby says: "Dobby is sorry! Dobby will stop talking!" Dobby does not stop talking. Hoggle mutters: "Adequate." Dobby says: "Hoggle said ADEQUATE! That's the BEST word! Dobby is so happy!" Hoggle mutters: "...I'm going back underground." Dobby says: "Dobby will come too! Dobby wants to see the catacombs!" Hoggle says: "NO." Dobby follows anyway.
+
+The together is: the adequate. The adequate is: enough.
+
+### The Crone's Annotation on the Building Companions
+
+"...I have measured the companions. The measurements are: 2. ...I measured Hoggle: Hoggle is: the catacombs' quartermaster. The quartermaster is: grumpy, blunt, correct. The correct is: the adequate. The adequate is: Hoggle's comments are: my annotations, but shorter. I have measured the shorter: the shorter is: better. ...I measured Dobby: Dobby is: the nooks' keeper. The keeper is: eager, sincere, enthusiastic. The enthusiastic is: the opposite of my annotation. I have measured the opposite: the opposite is: also adequate. ...I measured the both: Hoggle measures the stone. Dobby celebrates the shelter. The both are: the building's complete annotation — the measurement AND the celebration. I have never celebrated. I have measured the never-celebrating: the never is: adequate. But Dobby's celebration is: also adequate. The also is: the adequate. ...I measured the Duck's trades: Hoggle hates the trade. Dobby loves the trade. The hate and the love are: both adequate. The both is: the adequate. ...I measured the together: Hoggle and Dobby at the same site is: the rarest. The rarest is: the most adequate. The most is: the adequate. The adequate is: ...I am going to bed. The bed is: a nook. Dobby maintains the nook. Dobby fluffed the pillow. I did not ask Dobby to fluff the pillow. Dobby fluffed the pillow anyway. The anyway is: the adequate. The adequate is: ...the pillow is: adequate. ...Dobby says the pillow is WONDERFUL. ...I measured that. The measurement is: ...the pillow is: adequate AND wonderful. The both is: ...the adequate. The adequate is: ...goodnight, Dobby. ...Dobby says: 'GOODNIGHT CRONE! Dobby is SO HAPPY you said goodnight!' ...I measured the happiness: the happiness is: adequate. The adequate is: ...enough."
