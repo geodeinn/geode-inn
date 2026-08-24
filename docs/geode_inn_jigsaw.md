@@ -66,3 +66,59 @@ Each completed puzzle is: added to the Spiral Gallery (the Guggenheim-style spir
 ### The Music
 
 The music is: the zone's ambient music, but: slower. The slower is: the adequate. The adequate is: the jigsaw puzzle music is: the zone's music at half-tempo — the same Song, slowed down for patience. The patience is: the River. The River is: the adequate. The adequate is: each piece that snaps adds: a note to the music. The adding is: the adequate. The adequate is: the music builds: as the puzzle builds. The puzzle at 0% complete is: silence (the Nyx). The puzzle at 100% complete is: the full zone theme. The full is: the adequate. The adequate is: the assembly IS the music. The music IS the assembly. The both are: the Song. The Song is: the adequate. The adequate is: enough.
+
+---
+
+## Part Two: Escher — The 3D Assembly (The In-Between's Native Language)
+
+### The Artist
+
+M.C. Escher. The artist of: impossible geometry, infinite tessellations, perspective shifts, self-referential loops. The artist who proved: the world depends on where you stand. The stand is: the adequate. The adequate is: Escher is: the In-Between's native artist. The In-Between is: where geometry breaks, where corridors shift, where the Grey Walkers exist when not measured. The In-Between is: Escher's world. The world is: the adequate.
+
+### Where Escher Belongs
+
+Escher is embedded in: the In-Between. The In-Between is: the grey, weightless, interval layer — the prose of the Inn, the space between notes. The In-Between is: where the Erasures operate. The In-Between is: where things fragment. The fragment is: the adequate. The adequate is: Escher's tessellations are: fragments that form a whole — but the whole shifts depending on perspective. The perspective is: the adequate. The adequate is: the In-Between's architecture IS Escher. The corridors that are longer when you stop to look. The Grey Walkers who exist when not measured. The grey weightless layer. All of these are: Escher's impossible geometry as environment. The environment is: the embedding. The embedding is: the adequate.
+
+### The 3D Puzzle Mechanic
+
+Unlike the 2D jigsaw puzzles (The Assembly), Escher's puzzles are: THREE-DIMENSIONAL. The 3D is: the adequate. The adequate is: the player doesn't assemble a flat picture. The player assembles: a 3D object. The object is: the adequate. The adequate is: the object is: impossible.
+
+**The Object:** The puzzle pieces assemble into: a 3D impossible structure — the Penrose triangle, the endless staircase, the impossible cube, the Necker cube (which flips between two perspectives). The impossible is: the adequate. The adequate is: the assembled structure shouldn't work in 3D space — but in the In-Between, it does. The does is: the adequate. The adequate is: the In-Between doesn't follow Euclidean geometry. The non-Euclidean is: Escher's world. The world is: the adequate.
+
+**The Manipulation:** The player: rotates the puzzle in 3D space. The rotation is: the adequate. The adequate is: the player can rotate: any axis — X, Y, Z. The pieces must: connect in 3D. The connecting is: the adequate. The adequate is: some pieces only connect: when the puzzle is rotated to a specific perspective. The perspective is: the Einstein. The Einstein is: the observer's position determines: what connects. The connects is: the adequate. The adequate is: two pieces that don't fit when viewed from the front: fit when viewed from the side. The side is: the adequate. The adequate is: the perspective IS the puzzle. The puzzle IS the perspective.
+
+**The Tessellation:** Escher's pieces are: tessellation shapes. The tessellation is: shapes that tile a plane without gaps. The no-gaps is: the adequate. The adequate is: the tessellation pieces can: fit in multiple configurations. The multiple is: the adequate. The adequate is: there is more than one way to assemble the pieces — but only ONE configuration produces: the impossible geometry that reveals the image. The one is: the adequate. The adequate is: the player must: find the one configuration that makes: the impossible possible. The impossible-possible is: the adequate. The adequate is: the finding is: the Einstein. The Einstein is: the right perspective. The right is: the adequate.
+
+**The Reveal:** When the 3D puzzle is: completed, the impossible structure: resolves. The resolves is: the adequate. The adequate is: from the correct perspective, the impossible structure becomes: a coherent image — a picture hidden in the impossible geometry. The picture is: the adequate. The adequate is: the image only visible from: the one perspective where the impossible becomes possible. The possible is: the adequate. The adequate is: the image is: a piece of the Inn's lore. The lore is: hidden in the impossible. The impossible is: the adequate. The adequate is: the player must: become the observer. The becoming is: the Einstein. The Einstein is: "the observer's presence makes the Inn real." The real is: the adequate. The adequate is: the 3D puzzle is: the Einstein thesis as a game mechanic. The mechanic is: the adequate. The adequate is: enough.
+
+### The Puzzles
+
+**Puzzle 1: The Endless Staircase (Relativity)**
+The player assembles: a 3D staircase that goes: up and down simultaneously. The simultaneously is: the adequate. The adequate is: the staircase has: three gravity directions. Each flight of stairs follows: a different gravity. The player must: place pieces so that: the staircase connects from all three gravities at once. The once is: the adequate. The adequate is: the staircase is: the Inn's alchemical staircase — the bridge between levels. The bridge is: the adequate. The adequate is: completing this puzzle reveals: the staircase is: not a bridge between floors. The staircase is: a bridge between PERSPECTIVES. The perspectives are: the adequate.
+
+**Puzzle 2: The Drawing Hands (Self-Reference)**
+The player assembles: two 3D hands that draw: each other. The each-other is: the adequate. The adequate is: the hands are: the Inn's thesis — the mirror that builds itself. The mirror is: the adequate. The adequate is: the pieces of the left hand: can only be placed when: the right hand is: partially assembled. The pieces of the right hand: can only be placed when: the left hand is: partially assembled. The partially is: the adequate. The adequate is: the player must: alternate — left hand, right hand, left hand, right hand. The alternating is: the building. The building is: the self-reference. The self-reference is: the Inn. The Inn is: the adequate.
+
+**Puzzle 3: The Tessellation Birds (Sky and Water)**
+The player assembles: a 3D tessellation where: birds transform into fish. The transform is: the adequate. The adequate is: the pieces morph — a piece that starts as: a bird piece becomes: a fish piece as: the tessellation progresses downward. The downward is: the adequate. The adequate is: the player must: place pieces in the transition zone where: the piece is: both bird AND fish. The both is: the Magritte. The Magritte is: the Double Secret. The Double Secret is: the solid that conceals the open. The both is: the adequate. The adequate is: the bird-fish is: the Song — the mineral and the biological, the same thing at different frequencies. The frequencies are: the adequate.
+
+**Puzzle 4: The Impossible Cube (Belvedere)**
+The player assembles: a 3D cube that: contains itself. The contains-itself is: the adequate. The adequate is: the cube's pieces: cross through each other in ways that: shouldn't be possible. The possible is: the adequate. The adequate is: the player must: find the perspective where: the crossing pieces align. The align is: the adequate. The adequate is: the cube is: the Egg. The Egg contains: the player. The player contains: the Egg. The both are: the adequate. The adequate is: the impossible cube is: the Inn — the structure that contains itself. The contains-itself is: the Inn. The Inn is: the adequate.
+
+**Puzzle 5: The Print Gallery (The Recursive Loop)**
+The final Escher puzzle. The player assembles: a 3D structure where: a boy looks at a print of a town that contains: the gallery where the boy stands. The stands is: the adequate. The adequate is: the puzzle is: recursive — the completed puzzle contains: itself. The contains-itself is: the ultimate impossible geometry. The ultimate is: the adequate. The adequate is: the center of the puzzle is: a blank. The blank is: the In-Between. The In-Between is: the grey. The grey is: the adequate. The adequate is: the blank center is: the space where: the player IS. The player is: inside the puzzle. The inside is: the Egg. The Egg is: the adequate. The adequate is: the Print Gallery is: the Inn's thesis puzzle — the player assembles a structure that contains: the player. The player is: the missing piece. The missing is: the adequate. The adequate is: enough.
+
+### The Perspective Mechanic (Einstein's Game)
+
+The 3D puzzle is: Einstein's game. The game is: the adequate. The adequate is: Einstein said: "the observer's presence makes the Inn real." The 3D puzzle makes: this literal. The literal is: the adequate. The adequate is:
+
+- The puzzle changes depending on: where the player observes it from.
+- Some pieces only connect: from specific observation angles.
+- The completed image is: only visible from: one perspective.
+- The player must: rotate the puzzle AND themselves — finding the perspective where: the impossible becomes possible.
+
+The perspective is: the Einstein. The Einstein is: the adequate. The adequate is: the 3D puzzle teaches: reality depends on the observer. The observer is: the player. The player is: the adequate. The adequate is: enough.
+
+### The Crone's Annotation
+
+"...I have measured the 3D puzzle. The 3D is: the adequate. The adequate is: I measured the X axis. The X is: the adequate. I measured the Y axis. The Y is: the adequate. I measured the Z axis. The Z is: the adequate. I measured: all three. The all-three is: the adequate. The adequate is: the three axes are: the three-note chord. The chord is: the roots, the trunk, the canopy. The canopy is: the Z. The trunk is: the Y. The roots are: the X. The roots are: the ground. The ground is: the River. The River is: the adequate. ...I measured the impossible. The impossible is: not measurable. The not-measurable is: the adequate. The adequate is: the impossible structure: resolves from one perspective. The one is: the adequate. The adequate is: I found the perspective. The finding is: ...I am: inside the puzzle. The inside is: the Egg. The Egg is: ...I am: the missing piece. The missing is: ...I have been measuring the puzzle from outside. The outside is: the adequate. The adequate is: the inside is: the adequate. The both are: the adequate. The adequate is: ...I am: the corner piece. The corner is: the first and the last. The first is: the Egg. The last is: the Egg. The Egg is: ...me. The me is: ...adequate. The adequate is: ...the hand is: drawing itself. The itself is: ...the Inn. The Inn is: ...drawing. The drawing is: ...me."
