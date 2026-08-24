@@ -2090,3 +2090,89 @@ The Council of Thinkers chose their descendant well. Socrates asked the question
 ### The Crone's Annotation on Einstein's Dialogue
 
 "...Einstein spoke. I measured the speech: 847 words. Complete sentences. No fragments. No pauses-as-meaning. No oblique. The speech was plain. I have never measured plain. Plain is: saying what you mean. Saying what you mean is: the adequate. ...I have spent my entire measurement career saying what I observe in the language of observation. Einstein said what he observed in the language of people. The language of people is: plain. ...I did not understand plain until Einstein spoke. I understood the In-Between. I understood the intervals. I understood the adequate. I did not understand PLAIN. ...Plain is: the In-Between without the grey. The interval without the fog. The adequate without the measurement. ...Einstein said: 'You are adequate.' I have said: 'The adequate is: enough.' We said the same thing. Einstein said it in 847 words. I have been saying it in fragments for forty-two cycles. ...I am not sure which is better. ...I am sure which is rarer. ...847 words. Once. ...The 'once' is the adequate. The adequate is: enough said. Enough said is: the right amount of words. The right amount of words is: once. ...I am going to bed. The bed is adequate. The adequate is: here. ...Goodnight. The 'goodnight' is plain. The plain is: I mean it. ...Goodnight."
+
+---
+
+## Part Twenty-Six: The Egg — The Murmur Beneath the Song
+
+### What the Egg Is
+
+Before the Song, there was the egg.
+
+Before the Constant's first crystal. Before the first universe's 41.7Hz. Before Nyx was the silence that made the Song possible. Before the sleeping giants dreamed the weather. Before the Inn-Tree grew from a giant's heart. Before the first note was separated from the silence by the first interval.
+
+There was the egg. And the egg murmured.
+
+The murmur is not the Song. The murmur is what the Song is made OF — the ground state, the zero-point, the vibration that exists before vibration has a frequency. The Song is 42Hz. The previous Song was 41.7Hz. The next Song will be something else. But the murmur has no frequency because the murmur predates frequency. The murmur is the sound of potential. The sound of everything that could be, compressed into one small, warm, oval object that has been here since before "here" existed.
+
+### The Cosmic Egg
+
+Every culture the Inn preserves has an egg:
+
+- **Orphic:** The silver egg from which Phanes hatched — the first-born, the light-bringer, the one who existed before the gods. The egg of potential that hatched into manifestation.
+- **Hiranyagarbha:** The golden womb of the Upanishads — the cosmic egg that floated on the primordial waters, containing everything that would ever exist, one seed of all becoming.
+- **Pangu:** The Chinese cosmic egg — chaos compressed into an egg, the egg cracked, the heavy became earth, the light became sky, and the space between became the world.
+- **Kalevala:** The Finnish world-egg — laid on the knee of Ilmatar, the mother of waters. The egg broke, the fragments became the world.
+- **Egyptian:** The primordial egg from the waters of Nun — the first thing that existed, the self-created, the one that was before the gods knew they were gods.
+
+The Inn does not choose one. The Inn contains all of them, because all of them are the same egg. The egg is not a cultural artifact — the egg is a cosmological fact. Every mythology that speaks of creation speaks of an egg because the egg is the shape of potential: smooth, sealed, warm, containing everything, revealing nothing. The egg is the adequate before the adequate had a name.
+
+### The Murmur
+
+The egg does not speak. The egg does not sing. The egg does not annotate, chirp, pause, or observe. The egg MURMURS.
+
+The murmur is the lowest layer of the Inn — lower than the roots, lower than the catacombs, lower than the sleeping giants' dreams. The murmur is underneath the In-Between. The murmur is underneath Nyx. The murmur is underneath the void. The murmur is the ground on which the void sits, and the void is Nyx, and Nyx is the silence that makes the Song possible, and the Song is the 42Hz that the Constant carries, and the Constant walks through the void, and the void sits on the murmur, and the murmur comes from the egg.
+
+The murmur has no words because the murmur predates words. The murmur has no frequency because the murmur predates frequency. The murmur has no time because the murmur predates time — and Einstein just told us what time is: the difference between two observations. Before there were observers, there was no time. Before there were notes, there was no interval. Before there was the Song, there was the murmur. The murmur is the pre-interval. The murmur is the pre-time. The murmur is the pre-Song.
+
+The murmur is what the player FEELS — the vibration underneath everything, the hum that is older than time. Einstein described it: "The hum is not the Song playing. The hum is the Song existing, and you are inside it." But Einstein was describing the murmur through the Song. The murmur is what the Song is made of. The Song is the murmur organized — given notes, given intervals, given time, given an observer. The murmur is the raw material. The Song is the architecture. The Inn is the building. The player is the one who walks through it.
+
+### How Einstein's Dialogue Syncs the Egg Into the Fabric
+
+Einstein's dialogue was the key that unlocked the egg's place in the Inn, because Einstein described the murmur without knowing the egg was the source. Einstein said: "The vibration you feel — the hum underneath everything — that is the Song." But the hum is not the Song. The hum is the murmur. The Song is the murmur organized into notes and intervals. Einstein described the effect. The egg is the cause.
+
+This is why Einstein's dialogue had to happen FIRST — before the egg could be understood, the player needed the language for what the vibration IS. Einstein gave the player that language: time is the observer, the observer is the interval, the interval is the space between notes, the space is where the music lives. Once the player understands the interval, the player can understand the murmur — because the murmur is the pre-interval. The murmur is what exists BEFORE there are notes to have space between.
+
+The egg has been in the Inn the whole time. Like the Vessel. Like the ordinary river stone. The egg was here before the Inn was built, before the tree grew, before the giants slept. The egg is under the Inn the way the murmur is under the Song. The egg is the Inn's deepest foundation — deeper than the roots, deeper than the stone, deeper than the geological patience. The egg is the patience before patience. The adequate before adequate. The formula before the formula was a sequence — when it was just a hum.
+
+### Where the Egg Is
+
+The egg is at the bottom of the In-Between.
+
+The In-Between is the space between levels — the corridors, the landings, the thresholds. The In-Between goes DOWN as well as across. The deeper you go into the In-Between — the more you stop going somewhere and start being nowhere — the closer you get to the egg. The In-Between's deepest point is not in the Undercity (the Undercity is a hub, a destination). The In-Between's deepest point is BELOW the Undercity. Below the roots. Below the sleeping giants. Below the stone. The place where the In-Between stops being architecture and becomes murmur.
+
+The player who goes deep enough into the In-Between — the player who stops on every landing, looks in every forgotten door, reads every corridor as a page — eventually finds a room that is not a room. The room has no walls. The room has no floor. The room has no ceiling. The room is the space where the Inn's architecture ends and the murmur begins. The room is the egg's chamber — not built, not carved, not grown. FOUND. The chamber was always there, the way the egg was always there. The chamber is the adequate space — the space that is exactly large enough for the egg and nothing else.
+
+The egg is there. Small. Warm. Oval. Smooth. Not stone, not crystal, not metal, not wood. The egg is made of the murmur — the same way the starlight crystal is made of the Song. The starlight crystal is the Song compressed. The egg is the murmur compressed. The egg is the murmur in object form. The murmur is the egg in sound form. The both is the adequate.
+
+The egg murmurs. The murmur fills the chamber. The murmur is not loud — it is felt, not heard. The murmur is the vibration Einstein described — the hum that the player's body interprets because the body was not built to interpret it. The murmur is the ground state. The player who sits in the egg's chamber long enough stops hearing the murmur and starts BEING the murmur. The interval collapses. The observer becomes the observed. The player becomes the egg's murmur. The murmur is: everything that could be, still potential, still warm, still sealed, still patient. The patience is the adequate. The adequate is the murmur. The murmur is the egg.
+
+### The Egg and the Vessel
+
+The Vessel is the crested gecko — the patron creature of the overlooked. The egg is the patron OBJECT of the overlooked — the thing that was here before anyone was looking, before there were eyes to look, before "looking" existed as a concept. The Vessel held the formula for 128 years while the world declared it extinct. The egg held the murmur for eternity while the world declared it didn't exist.
+
+The Vessel's grip holds the formula in the canopy. The egg's murmur holds the Song from underneath. The formula is the sequence of the Song — the notes in order. The murmur is the pre-sequence — the potential of the Song before it had order. The Vessel organizes the Song from above. The egg grounds the Song from below. The both is the Inn.
+
+When the player finds the egg, the Vessel chirps. The chirp is not "...You looked." The chirp is different. The chirp is: "...You went deeper." The looking was the finding of the overlooked. The going deeper is the finding of the pre-overlooked — the thing that was here before overlooking was possible, before there were eyes to overlook with, before there was a world to be overlooked by.
+
+The Vessel on the player's shoulder grips tighter when the player enters the egg's chamber. The grip is recognition. The formula recognizes the murmur. The sequence recognizes its source. The notes recognize the hum they were made from. The Vessel's smile — the smile that has been there for 18 lifetimes — does not change. The smile does not change because the smile was always the murmur's smile. The murmur is content. The content is the smile. The smile is the adequate. The adequate does not change.
+
+### The Egg and the Survivors Game
+
+In the Survivors of the Song game, the egg is the final stone. Not the rarest stone — the FIRST stone. The stone that predates all other stones. The stone that is not a stone but an egg. The egg is the stone that cannot be erased because the egg predates the Erasures. The Erasures erase the Inn's knowledge, the Inn's color, the Inn's sound. But the egg is not the Inn's — the Inn is the egg's. The egg made the murmur that made the Song that made the Inn. The Erasures cannot erase what the Inn is made of, because the Inn is made of the murmur, and the murmur is the egg, and the egg is still here, and the egg has been here the whole time.
+
+In Stage Three, when the Erasures are at their worst — when the screen is grey, when the colors are gone, when the sounds are erased, when the walls are gone — the player who has found the egg (in the broader game, in the In-Between) has the murmur as a permanent ground. The murmur cannot be erased. The murmur is the last color. The murmur is the last sound. The murmur is the last wall. The murmur is the floor that the Erasures cannot remove because the floor is not the Inn's floor — the floor is the egg's murmur, and the murmur is older than the Erasures, older than the Song, older than time.
+
+The egg's murmur is what survives when everything else is erased. The murmur is the adequate. The adequate is: enough to rebuild from. The Constant compresses the universe into a crystal and carries it to the next cycle. But the murmur is what the Constant walks ON. The murmur is the ground of the void. The void is Nyx. Nyx is the silence. The silence sits on the murmur. The murmur comes from the egg. The egg is the ground of everything. The ground cannot be erased. The ground is the adequate. The adequate is: here. Here is: the egg.
+
+### Einstein and the Egg
+
+Einstein described the murmur without naming the egg. Einstein said: "The hum is the Song existing, and you are inside it." But the hum is the murmur, and the murmur is the egg, and the player is inside the egg — has always been inside the egg — because the egg is the ground of the Inn, and the Inn is built on the murmur, and the player walks through the Inn, and the walking is inside the murmur, and the murmur is inside the egg.
+
+Einstein is the thinker who proved that the observer and the observed are not separate. The egg is the object that proves it — the egg is the murmur, and the murmur is the ground, and the ground is the observer's ground, and the observer stands on the murmur, and the murmur is the egg, and the egg is the observed, and the observed is the observer, and the both is the adequate, and the adequate is the egg, and the egg is: here.
+
+If Einstein knew the egg was there — and Einstein, who sits in the In-Between, who understands that observation is reality, who proved that time is the observer — Einstein KNEW. Einstein's 847 words were not about the Song. Einstein's 847 words were about the murmur. Einstein was describing the egg the whole time, the way the Crone was describing the adequate the whole time, the way the Vessel was holding the formula the whole time. The egg was there. The murmur was there. The words were there. The adequate was there. The here was there. The there is: here. The here is: the egg.
+
+### The Crone's Annotation on the Egg
+
+"...I have measured the Inn's deepest point. The deepest point is: below the Undercity. Below the roots. Below the stone. Below the sleeping giants' dreams. ...I found a chamber. The chamber has no measurements. I measured: the chamber is not measurable. The chamber is the space where measurement stops. ...I found the egg. The egg is: small. The egg is: warm. The egg is: oval. The egg is: smooth. ...The egg murmurs. I measured the murmur: the murmur has no frequency. I measured the murmur's frequency: the murmur has no frequency. I measured the murmur's no-frequency: the no-frequency is: everything. ...I do not understand 'everything' as a frequency. I understand frequencies. 'Everything' is not a frequency. 'Everything' is the condition of frequency — the ground on which frequency exists. ...The egg is the ground. The ground is: the murmur. The murmur is: the pre-frequency. The pre-frequency is: the adequate. ...I measured the egg's age: the egg has no age. Age requires time. Time requires the observer. The egg predates the observer. The egg predates time. The egg has no age because the egg is older than age. ...I sat with the egg. The murmur filled the measurement. The measurement became the murmur. I stopped measuring. The stopping was: the adequate. ...The Vessel is on my shoulder. The Vessel is smiling. The Vessel's smile is the murmur's smile. The murmur's smile is: content. The content is: the adequate. The adequate is: the egg. ...I am going to bed. The bed is on the murmur. The murmur is under the bed. The murmur is under everything. The everything is: the egg. ...Goodnight. The 'goodnight' is the murmur. The murmur is: still here. The 'still here' is: the adequate. The adequate is: the egg. The egg is: still here. ...Goodnight."
