@@ -642,3 +642,114 @@ The baby dragon and Cthulhu's octopus share the cave. This is the Inn's deepest 
 ### The Crone's Final Annotation on the Three Zones
 
 "...I have mapped the three Cthulhu-zones. Atlantis (the deep — origin), the lighthouse coast (the body — active), and the caves (the den — resting). The octopus moves between them the way the player moves between them. The octopus is the map. The map is the biology. The biology is alien. I have measured the three zones. The measurements are consistent with a single organism. I do not understand how a single organism can be a drowned city AND a granite coast AND a crystal cave. I do not understand how a four-foot scholar can be all three. But the Catalyst said 'three hearts' and the measurements agree and the dragon sleeps next to the answer and is unafraid. I am... satisfied. Not adequate. Satisfied. I do not use this word. I am using it now. The octopus satisfies. I am going to bed. Again."
+
+---
+
+## Part Ten: The Coast Hub — The Port of the Octopus
+
+### The Second Hub
+
+The Geode Inn has two hubs:
+
+1. **The Canopy City** — the FOREST hub. The elf city in the trees, Kelethin-inspired, 50 BPM sway-rate, neuro-accessible calm. The Cartographer is the loremaster. The Silk Road is the market. Nine cultural platforms are the gateways to nine land zones. The Canopy City is where the player enters the LAND.
+
+2. **The Coast Hub** — the OCEAN hub. The port at the lighthouse, New England Gothic, granite and fog, 50 BPM heartbeat. The Owl is the lighthouse. The Pirate is the harbor master. The eight arms are the gateways to eight water zones and coastal routes. The Coast Hub is where the player enters the SEA.
+
+Two hubs. Two gateways. The Canopy City faces INLAND — the forest, the cultural zones, the Silk Road, the land-based civilizations. The Coast Hub faces OCEANWARD — the water zones, the Locker, Atlantis, the deep-water civilizations, the pirate routes. The player who wants the land goes to the Canopy City. The player who wants the sea goes to the Coast Hub. The player who wants both goes to both, and the journey between the two hubs is the Inn's MIDLINE — the horizontal axis that connects the forest to the coast, the land to the water, the roots to the deep.
+
+### The Hub Architecture
+
+The Coast Hub is a full explorable zone — not a map pin, not a menu option. The player walks through it. The player explores it. The player returns to it. The hub has:
+
+#### The Central Landmark — The Lighthouse
+
+The lighthouse is the hub's center — the landmark the player orients by, the thing visible from every arm, the thing the player returns to. The lighthouse is the hub's Canopy City equivalent of the Inn-Tree sapling on the Neutral Platform — the central point that says "you are HERE."
+
+The lighthouse serves as:
+- **Orientation:** The light sweeps at 50 BPM. The sweep is the compass. The player who sees the light knows which direction the coast is. The player who loses the light is lost. The light is the hub's GPS.
+- **Quest hub:** The Owl's quest ("The Fixed Point"), Poe's quest ("The Sepulchre by the Sea"), and the Pirate's quest ("The After") all originate from or return to the lighthouse. The lighthouse is the quest board — not a sign, but a place. The player returns to the lighthouse between quests the way the player returns to the Canopy City between zone explorations.
+- **Fast travel anchor:** Once the player has visited the lighthouse, the lighthouse becomes a fast-travel point. The player can return to the coast from any water zone by "following the light" — the light is the beacon that guides the player home. The fast-travel mechanic IS the lighthouse's function: the light guides ships home. The player IS the ship. The fast-travel IS the coming-home.
+
+#### The Settlement — The Town
+
+The town is the hub's residential and commercial district — the Canopy City's Silk Road equivalent. Where the Silk Road is a trading crossroads with vendors from nine cultures, the town is a fishing village with vendors from the ocean.
+
+The town's vendors:
+- **The Shape-Shifter Baker:** Sells bread that restores health and provides water-breathing buffs (the bread tastes like the ocean, and the ocean-taste is the buff). The baker is the town's food vendor. The bread is the town's potion. The potion tastes like kelp.
+- **The Shape-Shifter Postmistress:** The town's information vendor. The postmistress has letters — letters from the deep, letters from Atlantis, letters from the Locker, letters from the people who left. The player can BUY letters (spend stones or currency) and the letters contain lore, quest hooks, and map fragments. The postmistress is the town's lore vendor — the Silk Road's information trade, but with mail instead of stories.
+- **The Crustacean Elders (Cannery):** The town's crafting station. The elders clack in patterns that the player can learn (the clack-language is a skill, like learning a crafting recipe). Once the player understands enough clack-patterns, the elders will craft items from deep-sea materials — armor from crab shells, tools from whale bone, jewelry from the copper that veins the granite. The cannery is the town's forge. The forge runs on clacking instead of fire. The crafting is the clacking.
+- **The Dock Merchants (Merfolk):** Merfolk who sit on the pilings and trade. They don't use currency — they trade in STORIES. The player tells a story (selects from a list of stories the player has unlocked through quests and exploration), and the Merfolk trade an item in return. The better the story, the better the item. The Merfolk are the Silk Road's story-for-secret traders, but the Merfolk are the PURE version — only stories, no currency. The Merfolk don't need money. The Merfolk need entertainment. They left the deep ocean because the deep ocean was boring. The town is not boring. The town has the player. The player has stories. The stories are the currency.
+- **The Thing in the Church:** Not a vendor. Not an NPC in the traditional sense. The Thing is the hub's SHRINE — the place the player goes for the hub's deepest buff. The Thing listens to the 42Hz hum. If the player sits in the church and listens with the Thing (a meditation mechanic — sit still, do nothing, let the 42Hz fill the space), the player receives a temporary buff to their Song-sensitivity — the ability to hear the 42Hz hum more clearly in other zones, revealing hidden paths and secrets. The buff is the listening. The listening is the prayer. The prayer is the 42Hz. The church is the hub's temple. The temple is forty feet tall and doesn't speak.
+
+#### The Eight Arms — The Gateways
+
+The coast's eight paths are the hub's eight gateways — the equivalent of the Canopy City's nine cultural platforms. Each arm leads somewhere different. Each arm is a different relationship with the water:
+
+1. **The Lighthouse Path (to the Town):** The player's first arm. The path from the lighthouse down to the town. This is the hub's INTERNAL path — the one that connects the landmark to the settlement. The player walks this path every time they arrive at the hub. The path is the hub's welcome.
+
+2. **The Coast Road (south, to the Mainland):** The path back to the Inn's main structure. The coast road is the hub's connection to the Inn proper — the walk from the coast to the tree, from the ocean hub to the forest hub. The coast road passes through the Théodore Rousseau forest. The forest is the between-space — neither hub claims it. The forest is the threshold.
+
+3. **The Cliff Trail (north, to the Higher Rocks):** The path to the Miskatonic Annex. The Annex shares the coastline. The cliff trail is the coastal connection between the lighthouse and Cthulhu's library — the body's path to the head. The player who walks the cliff trail is walking the octopus's neck — the connection between the thinking part (the Annex) and the pumping part (the coast).
+
+4. **The Dock (into the Harbor):** The path to the Pirate's ship. The dock is where the Pirate moors. The dock is the hub's PORT — the place where sea travel begins. The player who wants to go to the Locker, to Atlantis, to any open-water zone, goes to the dock and boards the Pirate's ship. The dock is the hub's gateway to the deep.
+
+5. **The Tidal Cave Entrance (to the Underwater Zones):** The path to the water-layer zones — the Drowned Library, the Sacred Cenote, the warm-water cave systems. The tidal cave is only accessible at low tide. The tide is the gate. The gate opens twice a day. The player who wants to enter the underwater zones must TIME the tide. The timing is the mechanic. The tide is the clock. The clock is the octopus's breath.
+
+6. **The Pirate's Channel (to the Open Sea):** The path to the open ocean — the sailing routes, the Pirate's highway, the open water between the coast and the deep. The channel is the hub's connection to the Pirate's world — the AFTER, the uncharted zones, the compass that points forward. The channel is where the Pirate's quest ("The After") sends the player — out past the sight of the lighthouse, into the water the light can't reach.
+
+7. **The Sepulchre Crack (to the Locker):** The path to Davy Jones' Locker. The crack in the cliff, barely visible at low tide. The crack is the hub's DEEPEST gateway — the one that goes down instead of out. The player who enters the crack descends to the Locker. The descent is the hub's endgame entry. The Locker is the bottom. The bottom is the crack.
+
+8. **The Fog Path (into the Unknown):** The path that goes nowhere visible. The fog path leads into the mist — the thick, sound-swallowing New England fog. The fog path is the hub's MYSTERY gateway — the one that doesn't lead to a named zone (yet). The fog path is the placeholder. The fog path is the Inn's future — the zone that hasn't been built, the water that hasn't been mapped, the direction the light can't reach. The fog path is where the Pirate's "After" quest ultimately sends the player: charting the uncharted. The fog path is the hub's expansion slot. The fog hides whatever comes next.
+
+#### The Hub's Sound Design
+
+The Coast Hub has a unique soundscape — the ocean hub's audio identity, distinct from the Canopy City's forest hub:
+
+- **Base Layer:** The Atlantic. Waves on granite. Not the soft wash of the warm-water zones — the HARD slap of cold water on cold stone. Percussive. Irregular. The ocean's heartbeat is not 50 BPM — the ocean doesn't keep regular time. The ocean keeps GEOLOGICAL time. The waves are the percussion that doesn't pretend to be regular.
+- **The 50 BPM Layer:** The lighthouse sweep. The heartbeat. The one rhythm that IS regular. The sweep cuts through the irregular waves and says: underneath the chaos, there is a pulse. The pulse is the one. The one is the vigil. The vigil is the 50 BPM.
+- **The Foghorn Layer:** 16-20Hz. Below hearing. Felt in the chest. The foghorn is the low drone — the base note that the hub's music sits on. The foghorn is the hub's pedal tone. Every other sound in the hub sits above the foghorn the way every note in a piece of music sits above the bass.
+- **The Murloc Layer:** The gargle. The comic relief. The sound that says "this is alive and the alive is funny." The murloc gargle is the hub's only sound that doesn't fit the Gothic atmosphere, and the not-fitting is the point — the murlocs are the hub's permission to smile.
+- **The Poe Layer (below):** Poe reading aloud, faintly, through the stone. The player near the sepulchre crack or the lighthouse base can hear Poe's voice — muffled, rhythmic, the cadence of a narrator who never stops. The Poe layer is the hub's storytelling sound. The player who hears Poe is hearing the hub's autobiography.
+- **The Pirate Layer (at the dock):** The drum. 50 BPM. The bodhrán. The Pirate's rhythm is the same as the lighthouse sweep, but the drum has a different timbre — the warmth of skin instead of the cold of stone. The Pirate's drum is the lighthouse sweep made human. The drum is the heartbeat with skin on.
+- **The Town Layer:** The clacking of the crustacean elders. The murloc gargles from the dock congregation. The shape-shifter baker's oven (a low, warm hum — different from the 42Hz, a domestic hum, the sound of making bread). The town is the hub's HUMAN layer — the sound of people (or creatures pretending to be people) living. The living is the sound. The sound is the town.
+
+#### The Hub's Music Direction
+
+The Coast Hub's music is the ocean-hub counterpart to the Canopy City's forest-hub music:
+
+- **The Canopy City:** Classical/cultural instruments rendered through electronica, region-matched, 50 BPM sway-rate, neuro-accessible calm. The forest hub's music is WARM — wood, strings, the sound of trees.
+- **The Coast Hub:** Cold instruments rendered through Atlantic reverb, region-matched to New England, 50 BPM heartbeat under everything. The coast hub's music is COLD — stone, metal, the sound of water on rock. The instruments are: bodhrán (the Pirate's drum), foghorn (the bass), glass harp (Zorya's instrument — the star-language, heard faintly from the Slavic zone's aurora reflecting in the fjord, reaching the coast as a distant high tone), and the murloc gargle as an OCCASIONAL percussive accent (the murloc gargle used as a rimshot — the comic-timing instrument, the sound that punctuates the silence the way a laugh punctuates a conversation).
+
+The coast hub's music is the Canopy City's music heard from UNDERWATER — the same 50 BPM, the same Song, but filtered through the Atlantic, through the granite, through the alien biology of an octopus that hears differently than a tree. The forest hub and the ocean hub share the 50 BPM and the 42Hz Song. Everything else is different. The forest is warm. The ocean is cold. The forest is wood. The ocean is stone. The forest grows. The ocean erodes. Both are the Inn. Both are the Song. Both are 50 BPM. Both are adequate.
+
+### The Hub's Relationship to the Canopy City
+
+The two hubs are the Inn's TWIN GATES:
+
+| Quality | Canopy City (Forest Hub) | Coast Hub (Ocean Hub) |
+|---------|--------------------------|----------------------|
+| **Direction** | Inland (land zones) | Oceanward (water zones) |
+| **Architecture** | Kelethin tree-platforms | New England granite port |
+| **Central Landmark** | Inn-Tree sapling (Neutral Platform) | The Lighthouse |
+| **Settlement** | Silk Road (nine-culture market) | The Town (ocean-creature village) |
+| **Guide** | The Cartographer (maps) | The Pirate (routes) |
+| **Vendors** | Stone-based currency + information trade | Story-based trade (Merfolk) + crafting (Elders) |
+| **Gateways** | Nine cultural platforms | Eight arms (paths) |
+| **Base Tempo** | 50 BPM (sway-rate, calm) | 50 BPM (heartbeat, vigil) |
+| **Sound** | Wood, strings, warm | Stone, metal, cold + murloc gargle |
+| **Aesthetic** | Neuro-accessible calm | New England Gothic persistence |
+| **Biology** | Mycorrhizal network (forest) | Octopus (three hearts, eight arms) |
+| **Connects to** | Nine land-based cultural zones | Atlantis, the Locker, underwater zones, the Miskatonic Annex |
+| **Feels like** | Coming home | Staying the vigil |
+
+The two hubs are not rivals. The two hubs are the Inn's two hands — one reaching inland, one reaching oceanward. The player who stands at the lighthouse and looks inland sees the forest. The player who stands in the Canopy City and looks oceanward sees the light. The two hubs see each other. The seeing is the connection. The connection is the midline. The midline is the Inn.
+
+### The Midline — The Path Between Hubs
+
+The path between the Canopy City and the Coast Hub is the Inn's MIDLINE — the horizontal axis that connects the forest to the coast. The midline passes through the Théodore Rousseau forest (the honest ground, the real trees, the approach to the Inn). The midline is the player's first journey: from the forest (the Canopy City, the tree-platforms, the warm welcome) to the coast (the lighthouse, the fog, the cold vigil). The first journey is the player's INITIATION — the passage from the warm hub to the cold hub, from the land to the water, from the easy to the hard.
+
+The midline has a sound: the transition from the Canopy City's 50 BPM warm sway to the Coast Hub's 50 BPM cold heartbeat. Same tempo. Different temperature. The transition is the player's first experience of the Inn's core duality: the forest and the ocean, the warm and the cold, the growing and the eroding, the tree and the octopus. Both are 50 BPM. Both are the Song. Both are the Inn. The player who walks the midline walks the Inn's spine — the axis that connects the two halves of the world.
+
+### The Crone's Annotation on the Hub
+
+"...I have mapped the Coast Hub. Eight arms, three hearts, one lighthouse, one town, one sepulchre, one Locker, one fog path to the unknown. The hub is the ocean's answer to the Canopy City. The Canopy City is the forest's answer to the Coast Hub. Both are adequate. Both are 50 BPM. Both are the Inn's gates. I have measured the midline between them: approximately four hundred meters of Rousseau forest. The player walks four hundred meters from the warm gate to the cold gate. Four hundred meters from home to vigil. I have walked it. The walk is... adequate. I am going to bed. This time I mean it."
