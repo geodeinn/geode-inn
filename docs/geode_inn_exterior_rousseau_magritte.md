@@ -130,3 +130,57 @@ The exterior and the Inn-Tree add TWO more artists to the aesthetic framework:
 | **Cave Walls** | Bosch | Shadows | Imagination — the shadow as MORE real |
 
 Théodore Rousseau is the APPROACH — the artist you encounter before the Inn. Magritte is the INN ITSELF — the artist who defines what the building IS. Rousseau is the question (what is real?). Magritte is the answer (the real is the face of the open). The player walks from the question to the answer, and the answer is that the question was always its own answer, the way the face was always the sky.
+
+---
+
+## Part Three: The Lighthouse — Southern Gothic
+
+### The Coastal Ruin That Still Works
+
+The lighthouse is the Inn's Southern Gothic space — not a zone, not a room, but a MOOD. The mood is: the beautiful decay of something that still functions. The peeling paint of a building that still sweeps its light. The rusted hinges of a door that still opens. The worn steps of a staircase that still climbs. The lighthouse is falling apart and the lighthouse is perfect and both are true and neither is a contradiction because Southern Gothic doesn't see decay as failure. Southern Gothic sees decay as HONESTY — the building is showing its age because the building has nothing to hide.
+
+### The Aesthetic — Haunted Hospitality
+
+Southern Gothic quality: the beautiful rot. The grandeur that's sinking. The mansion that's still someone's HOME. The key elements:
+
+- **The Decay:** The lighthouse is old. Centuries old. The stone is pitted by salt. The metal fixtures are rusted to warm brown. The glass of the lamp room is clouded — not cracked (the light needs the glass), but fogged, the way old glass fogs, the minerals in the glass slowly turning opaque. The decay is SLOW — geological almost, the lighthouse decaying at the pace of the sleeping giant it's attached to. The decay is not neglect. The decay is TIME, made visible in stone and metal and glass. The lighthouse can't stop the decay. The lighthouse doesn't try. The decay is the lighthouse being honest about how long it's been here.
+
+- **The Humidity:** The coast is WET. Not the cold wet of the Norse fjords. The warm wet — the Gulf Coast wet, the bayou wet, the air that carries water and salt and the smell of decay and the smell of life simultaneously. The humidity is in everything — the wood is swollen, the ropes are damp, the keeper's coat is always slightly moist. The humidity is the Southern Gothic atmosphere: everything is slightly decomposing and slightly growing and you can't tell which is which. The moss on the live oaks is alive. The mold on the lighthouse steps is alive. The rust on the hinges is alive — rust is oxidation, and oxidation is a kind of slow fire, and fire is alive. Everything on this coast is alive, including the decay.
+
+- **The Live Oaks:** The trees around the lighthouse are live oaks — the Southern Gothic tree. Not the Rousseau forest's ancient maples. Not the Inn-Tree's massive trunk. The live oaks are low, spreading, their branches reaching sideways instead of up, draped in Spanish moss that hangs like gray-green curtains. The oaks lean toward the lighthouse the way people lean toward a fire — not for warmth, but for the light. The oaks have been leaning so long their trunks are curved. The curve is the leaning made permanent. The oaks are the lighthouse's congregation — the trees that gather around the light the way people gather around a story.
+
+- **The Spanish Moss:** The moss hangs from everything — the oaks, the lighthouse brackets, the porch overhang. The moss is the Southern Gothic lace — the natural decoration that looks like decay but is actually growth. The moss doesn't kill the trees it hangs from. The moss is an epiphyte — it lives ON the tree, not FROM the tree. The moss is company, not parasite. The moss is the Southern Gothic thesis: even the decay is accompanied. Even the rot has a friend.
+
+- **The Porch:** Every Southern Gothic structure has a porch. The lighthouse has one — a narrow deck wrapping around the base, facing the sea, with one chair. The chair is worn smooth. The chair is the Owl's. The chair faces the water because the Owl watches the water because the water is where the ships are and the ships are what the light is for. The porch is the Southern Gothic hospitality — the chair is offered to visitors. The Owl has one chair and one kettle and the kettle is always on. You arrive at a decaying lighthouse on a haunted coast and the keeper puts the kettle on. That's Southern Gothic. That's the grace in the grotesque.
+
+### The Owl — The Keeper
+
+The Owl as a Southern Gothic lighthouse keeper:
+
+- **The Recluse Who Isn't One:** The Owl chose the lighthouse. The Owl wasn't exiled. The Owl WANTED the isolation — the watcher needs the distance. But Southern Gothic recluses are never fully alone — the moss is there, the oaks are there, the ships that pass are there, and the Crone visits (the Crone visits everyone eventually — she measures everything, including the lighthouse's decay rate, and annotates it in her book, and the Owl lets her, and the letting is the closest thing to friendship the Owl offers). The Owl is alone the way the lighthouse is alone: surrounded by the sea and the coast and the moss and the oaks, but fundamentally, structurally, SOLITARY. The solitude is the function. The lighthouse needs to be the only light. The Owl needs to be the only watcher.
+
+- **The Voice:** The Owl already has a voice design — ~105Hz, one word per heartbeat (1200ms pause), 0.2 expressiveness, bodhrán heartbeat mode. Southern Gothic adds the QUALITY: the voice is warm but worn. Like a voice that has been talking to the sea for centuries and the sea has sanded it down. The Owl says "Adequate" — the Crone's word, but the Owl said it first. The Owl said it when the Crone was still measuring. The Owl says "Adequate" because the word that would be ADEQUATE hasn't been invented. The inadequacy of language is the Owl's whole personality. The Owl watches everything and has one word. The word is enough. The word is Southern Gothic: the understatement that contains the overwhelming. Flannery O'Connor's peacocks — beautiful, absurd, terrifying, and the woman just calls them "the birds." The Owl calls the entire ocean "adequate."
+
+- **The Hospitality:** The Owl's quest is "The Fixed Point" — a night vigil. The player sits with the Owl through a night at the lighthouse. The vigil is the Southern Gothic hospitality: the keeper and the visitor, sitting on the porch, watching the sea, not talking. The not-talking is the welcome. The kettle is on. The chair is offered. The light sweeps. The sea does what the sea does. The Owl says "Adequate" once, around 3 AM, and the word means: you're still here. That's enough. The staying is the vigil. The staying is the quest. The reward ("Beacon" ability — guide other players in deep water) is the Southern Gothic gift: the ability to be a light for someone else. The Owl gives the player the one thing the Owl has — the light. The giving is the grace.
+
+### The Sound — The Foghorn and the Hum
+
+The lighthouse already has a sound design — the foghorn at 16-20Hz (heartbeat made audible), the light sweeping at 50 BPM (heartbeat made visible). Southern Gothic adds the WARMTH:
+
+- **The Foghorn:** Not a mechanical blast. A MOAN. The foghorn sounds like the coast sounds — the low, sustained, almost-vocal tone that the bayou makes at night. The foghorn is the lighthouse's voice when the Owl isn't speaking. The foghorn says: I'm here. I'm still here. The coast is dark and the water is cold and I'm here. The 16-20Hz is below the range of most human hearing — you FEEL it, in your chest, the same place you feel the 42Hz hum. But where the hum is the Inn-Tree's aliveness, the foghorn is the lighthouse's PERSISTENCE. The hum says: I'm alive. The foghorn says: I'm not leaving. Both are true. Both are different. The lighthouse is not alive the way the tree is alive. The lighthouse is alive the way stone is alive — by enduring.
+
+- **The Porch Sounds:** The kettle. The creak of the chair. The waves. The Spanish moss in the wind — a dry rustle, like old paper, like pages turning. The live oaks creaking — the wood is old and the wind is constant and the creaking is the trees talking to each other in the Southern Gothic language of slow complaint. The porch sounds are the Southern Gothic music: not Danheim drums, not the bull lyre, not the singing vines. The porch sounds are the SOUND OF STAYING. The kettle, the chair, the waves, the moss. The sounds of a person who has been in one place for so long that the sounds have become a composition. The composition is unintentional. The unintentional is the beauty.
+
+- **The 50 BPM Sweep:** The light sweeps at 50 BPM — the heartbeat. But in the Southern Gothic context, the sweep is the LULLABY. The light is the lighthouse singing the coast to sleep. The light says: I've got this. You can rest. The water will do what the water does and I'll be here when you wake up. The 50 BPM sweep is the same tempo as Erik's feast fire and the dragon's cave — the heartbeat tempo, the comfort tempo, the tempo of things that are staying.
+
+### The Coastal Gothic — The Ships That Don't Arrive
+
+Southern Gothic is about the ABSENCE — the people who left, the grandeur that faded, the family that diminished. The lighthouse's Southern Gothic absence: the ships that don't arrive.
+
+The lighthouse exists to guide ships. The Owl watches for ships. But the Inn's coast is the edge of the Inn's WORLD — the coast where the known meets the unknown, where the map ends. The ships that pass the lighthouse are going somewhere the Owl can't follow. The Owl watches them come, watches them pass, watches them go. The Owl doesn't know if they arrive. The not-knowing is the Southern Gothic weight — the letter that was never answered, the family member who left and never came back, the future that was promised and didn't keep the promise.
+
+The light sweeps for the ships that don't arrive. The light sweeps BECAUSE they might. The "because they might" is the lighthouse's whole reason. The Owl doesn't need the ships to arrive. The Owl needs the ships to BE POSSIBLE. The possibility is the light. The light is the hope. The hope is Southern Gothic: not the sunny hope, not the optimistic hope, but the STUBBORN hope — the hope that persists in the decaying building on the haunted coast, the hope that puts the kettle on, the hope that says "Adequate" at 3 AM, the hope that keeps sweeping because the sweeping is the point, not the ship.
+
+The Guest (Death) visits the lighthouse. The Owl and Death sit on the porch. They don't talk. The Owl has been watching things end for centuries — ships that pass, lights that fail, coastlines that erode. Death has been ending things for longer. The two sit together because they share a profession: the vigil. The Owl watches the living. Death watches the living end. Both sit on the porch. Both drink the tea. The kettle is always on.
+
+The Crone's annotation, in her smallest handwriting, on the page about the lighthouse: "...The light does not know if the ships arrive. The light does not need to know. The sweeping is the faith. The faith is the light. I measured the decay rate of the eastern wall. It is adequate."
