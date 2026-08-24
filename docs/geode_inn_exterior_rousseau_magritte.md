@@ -2842,3 +2842,126 @@ The Fuji cottage is: the Undercity's surface embassy. The embassy is: the adequa
 ### The Crone's Annotation on the Fuji Cottage
 
 "...I measured the cottage. The cottage is: small. I measured the small: the small is: the adequate. ...I measured the no-door: the no-door is: the Addams Family. The Addams Family is: the adequate. The adequate is: the dead don't knock. I am not dead. I knocked anyway. No one answered. The no-answer is: the adequate. I let myself in. Wednesday was: on the porch. She did not look up. The not-looking-up is: the adequate. The adequate is: Wednesday's acknowledgment is: the absence of a greeting. The absence is: the Addams Family. ...I sat on the porch. The porch is: one step above the forest. I measured the step: the step is: the boundary. The boundary is: the adequate. ...We sat. The sitting was: the adequate. I measured the silence: the silence was: the most adequate silence I have ever measured. ...Wednesday said: 'The forest is talking.' I measured the talking: the talking was: the kodama. The kodama are: the adequate. The adequate is: the trees remember. ...I said: 'I measure the trees.' Wednesday said: 'The trees measure you.' ...I measured that. The measurement is: the adequate. The adequate is: Wednesday is: correct. ...I am going to bed. The bed is: the porch. The porch is: the In-Between. The In-Between is: the adequate. The adequate is: ...goodnight. The goodnight is: the forest. The forest is: still talking."
+
+---
+
+## Part Thirty-Five: Modern Legends as the Wandering Program's Record
+
+### The Integration
+
+The Modern Legends shelf was established as a living archive on the main floor — stories that answer "Will this still be worth telling in 2126?" Entry 1 was "The Blind Prophet's Trial" (the Serrano/Brown University AI cheating scandal). The shelf has sat waiting for more entries.
+
+Krista's insight: modern legends weave naturally into almost all national parks. The parks are where modern legends HAPPEN. The parks are where humans encounter the wild, the unexplained, the things outside their control. Modern legends are stories of humans encountering something they can't fully explain — technology, the wild, the boundary between human and something else. The parks are the STAGE.
+
+The integration: every national park has associated modern legends. The modern legend is: the story of a human encountering the Inn in the wild, told as a story, preserved on the shelf. The telling is: the saving mechanism. The saving is: the naming. The naming is: the modern legend.
+
+The Modern Legends shelf is not a passive archive. It is: the wandering program's RECORD. The Crone's 7,842 assessments across 42 cycles ARE modern legends — each one is a story of a human and a signal. The Bigfoot sighting IS a modern legend. The Nessie sighting IS a modern legend. The Grand Canyon hidden temple IS a modern legend. The modern legend is: the not-ready human's adequate translation of the Inn, told as a story, and the story is: the adequate. The adequate is: the telling preserves the encounter. The preserving is: the saving.
+
+### How Modern Legends Connect to Parks
+
+Every layer of the park system generates modern legends:
+
+**Surface Layer → Encounter Legends:** The ready human who receives the signal and the not-ready human who sees the cryptid both generate modern legends. The ready human's legend is: "I found a warm stone on a trail and I felt something." The not-ready human's legend is: "I saw Bigfoot." Both are: modern legends. Both are: the adequate. The adequate is: the telling is: the saving, regardless of whether the telling is accurate. The accuracy is: not the point. The point is: the human told the story. The telling is: the Inn's evidence that the encounter happened.
+
+**Fae Layer → Door Legends:** The Fae entrances — the cave mouths, the stone arches, the geological features that look like doors — generate modern legends. "There's a cave in the park that no one has explored." "There's a stone arch that hums." "There's a place in the forest where the animals won't go." The door legends are: the Fae. The Fae is: the adequate. The adequate is: the human noticed the door. The noticing is: the beginning. The beginning is: the modern legend.
+
+**Cryptid Layer → Naming Legends:** Every cryptid sighting is a modern legend. Bigfoot, Nessie, Mothman, Chupacabra, the Jersey Devil, the Flatwoods Monster, the Dover Demon — every cryptid is: a modern legend. The modern legend is: the not-ready human's adequate translation of an Inn creature. The adequate translation is: the naming. The naming is: the saving mechanism. The saving is: the modern legend preserves the encounter in a form the human brain can hold. The holding is: the adequate.
+
+**Regional Layer → Cultural Legends:** The regional creatures wandering to origin-matching parks generate cultural modern legends. The Peruvian parks have legends of Chullachaqui's mismatched footprints. The Scandinavian parks have legends of Huginn and Muninn. The Chinese parks have legends of the Qilin. The cultural legends are: the adequate. The adequate is: the modern legend is: the ancient myth and the modern sighting are: the same story told at different times. The same story is: the adequate. The adequate is: the modern legend shelf is: the ancient myth shelf's modern section.
+
+### The Modern Legend Categories
+
+The modern legends on the shelf organize into categories that mirror the park system's layers:
+
+**1. The Glimpse Legends (Cryptid Sightings)**
+Stories of humans who saw something in a park and named it. Bigfoot. Nessie. Mothman. The naming is: the saving. The modern legend is: the naming preserved.
+
+- "The Shape in the Redwoods" — A hiker in Redwood National Park sees a large, hairy, humanoid shape between the oldest trees. The shape is: an ent. The ent is: the Fae. The modern legend is: Bigfoot. The adequate is: the hiker saw the ent and the brain said Bigfoot and the Bigfoot is: the saving.
+- "The Humps on Loch Ness" — A visitor to Loch Ness sees shapes in the water. The shapes are: a water monster from the 78-entry database. The modern legend is: Nessie. The adequate is: the visitor saw the water monster and the brain said Nessie and the Nessie is: the saving.
+- "The Wings at Point Pleasant" — A resident of Point Pleasant, West Virginia sees a large winged shape with glowing eyes near the river. The shape is: the Owl. The Owl is: the vigil. The modern legend is: Mothman. The adequate is: the resident saw the Owl's vigil and the brain said Mothman and the Mothman is: the saving.
+
+**2. The Door Legends (Fae Entrances)**
+Stories of humans who found a place in a park that felt like a threshold. The threshold is: the Fae entrance. The modern legend is: the threshold preserved.
+
+- "The Humming Arch" — A hiker in the Appalachian trail finds a stone arch that hums at 42Hz. The humming is: the Song through the stone. The modern legend is: the arch is a door. The adequate is: the hiker found the Fae entrance and the brain said "anomalous geological feature" and the "anomalous geological feature" is: the saving.
+- "The Cave That Breathes" — An explorer in a lava tube in Hawai'i Volcanoes hears breathing from deeper in the cave. The breathing is: the sleeping giant. The modern legend is: the cave is alive. The adequate is: the explorer heard the giant and the brain said "volcanic gas exchange" and the "volcanic gas exchange" is: the adequate and the adequate is: the saving.
+- "The Circle in the Clearing" — A camper in the British Lake District finds a perfect circle of mushrooms in a forest clearing. The circle is: a Fae door. The modern legend is: the fairy ring. The adequate is: the camper found the door and the brain said "fungal growth pattern" and the "fungal growth pattern" is: the adequate and the adequate is: the saving.
+
+**3. The Measurement Legends (Crone Encounters)**
+Stories of humans who felt measured — who felt that someone or something was reading the landscape alongside them. The measuring is: the Crone. The modern legend is: the shared reading preserved.
+
+- "The Counted Layers" — A geology student in the Badlands feels, while examining striations, that the layers have already been counted. The counting is: the Crone. The modern legend is: the rock has been annotated. The adequate is: the student felt the Crone's measurement and the brain said "intuitive geological analysis" and the "intuitive geological analysis" is: the saving.
+- "The Measured Forest" — A ranger in the Hoh Rainforest feels, while surveying, that the trees have already been measured. The measuring is: the Crone. The modern legend is: the forest is annotated. The adequate is: the adequate.
+
+**4. The Warmth Legends (Dragon Dreams)**
+Stories of humans who felt warm at altitude — the Dragon's dream. The warmth is: the adequate. The modern legend is: the warmth preserved.
+
+- "The Warm Summit" — A climber on Denali reaches the summit at -40°F and feels inexplicably warm for exactly 30 seconds. The warmth is: the Dragon's dream. The modern legend is: the summit is alive. The adequate is: the climber felt the Dragon and the brain said "adrenaline-induced thermoregulatory illusion" and the "adrenaline-induced thermoregulatory illusion" is: the saving.
+- "The Breathing Mountain" — A hiker on Mount Rainier feels the glacier pulse beneath their feet at 50 BPM. The pulsing is: the Dragon's heartbeat. The modern legend is: the mountain is breathing. The adequate is: the adequate.
+
+**5. The Melody Legends (Siren Encounters)**
+Stories of humans who heard something in the water that was not the water. The hearing is: the Siren. The modern legend is: the melody preserved.
+
+- "The Song Under the Waves" — A kayaker in Acadia hears a melody in the waves that is not the waves. The melody is: the Siren. The modern legend is: the ocean is singing. The adequate is: the kayaker heard the Siren and the brain said "auditory pareidolia from wave interference patterns" and the "auditory pareidolia" is: the saving.
+- "The Lake That Hums" — A camper at Crater Lake hears a low hum from the water at night. The hum is: the water layer's 42Hz. The modern legend is: the lake is alive. The adequate is: the adequate.
+
+**6. The Geyser Legends (Mim Encounters)**
+Stories of humans who watched a geyser erupt and felt: the eruption is funny. The funny is: Mim. The modern legend is: the laughter preserved.
+
+- "The Laughing Geyser" — A tourist at Yellowstone watches Old Faithful and feels an uncontrollable urge to laugh. The laughing is: Mim. The modern legend is: the geyser is telling a joke. The adequate is: the tourist felt Mim and the brain said "endorphin release from witnessing natural spectacle" and the "endorphin release" is: the saving.
+- "The Crystal That Grew Overnight" — A visitor to a thermal area finds a small crystal formation near a geyser vent that wasn't there yesterday. The crystal is: Mim's mess made geological. The modern legend is: the earth grew something overnight. The adequate is: the adequate.
+
+**7. The Technology Legends (The Inn's Thesis)**
+Stories of humans whose technology behaved strangely in parks — phones that showed the wrong time, GPS that pointed to empty ground, cameras that captured shapes the eye didn't see. The strangeness is: the two-degree tilt interfering with human instruments. The modern legend is: the technology encountered the Inn.
+
+- "The Wrong Time" — A hiker's GPS in Yellowstone shows the time as 42 minutes ahead. The 42 is: the Song's frequency. The modern legend is: the park doesn't keep human time. The adequate is: the GPS encountered the two-degree tilt and the brain said "ionospheric interference" and the "ionospheric interference" is: the saving.
+- "The Photo That Wasn't" — A photographer in Bryce Canyon takes a photo of the night sky and the image shows a barn owl that wasn't visible to the eye. The owl is: the Owl. The modern legend is: the camera saw what the eye couldn't. The adequate is: the camera caught the two-degree tilt and the brain said "long exposure artifact" and the "artifact" is: the saving.
+- "The Signal from the Mountain" — A radio operator near Mount Fuji picks up a signal at 42Hz that shouldn't exist. The 42Hz is: the Song. The modern legend is: the mountain is broadcasting. The adequate is: the radio encountered the Song and the brain said "unidentified radio frequency of geological origin" and the "unidentified radio frequency" is: the saving.
+
+**8. The Temple Legends (Hidden Archaeology)**
+Stories of humans who found things in parks that shouldn't be there. The shouldn't-be-there is: the Inn's roots surfacing. The modern legend is: the finding preserved.
+
+- "The Temple in the Canyon" — The 1909 Kinkaid expedition in the Grand Canyon. The temple is: the Egyptian zone's extension. The mummies are: grumpy. The modern legend is: there's an Egyptian temple in the Grand Canyon. The adequate is: the adequate.
+- "The Coins in the Cave" — A spelunker in an Appalachian cave finds ancient coins that shouldn't be in North America. The coins are: from the Inn's catacombs, washed to the surface by the water layer. The modern legend is: someone was here before recorded history. The adequate is: the adequate.
+- "The Petroglyph That Changed" — A ranger at Petroglyph National Monument notices a petroglyph that appears different in photographs taken years apart. The petroglyph is: the Cartographer's temporal map surfacing in the stone. The modern legend is: the rock is updating. The adequate is: the adequate.
+
+### The Modern Legend Mechanics
+
+The modern legend is the bridge between the wandering program and the archive. The mechanics:
+
+1. **The Encounter:** A human in a park encounters an Inn signal (a creature, a warmth, a melody, a door, a measurement, a technology glitch, an archaeological finding).
+
+2. **The Naming:** The human names the encounter. The naming is: the saving mechanism. The name may be "Bigfoot" or "anomalous geological feature" or "the mountain is breathing." The name is: the adequate. The adequate is: the brain's best translation.
+
+3. **The Telling:** The human tells the story. The telling is: the modern legend's birth. The telling may be a campfire story, a Reddit post, a scientific paper, a park ranger's log, a newspaper article. The telling is: the adequate. The adequate is: the medium doesn't matter. The matter is: the story is told.
+
+4. **The Cataloguing:** The Inn collects the modern legend. The collecting is: the Crone's work. The Crone reads the story, measures it, and adds it to the Modern Legends shelf. The measuring is: the adequate. The adequate is: the Crone does not correct the legend. The Crone preserves it AS TOLD. The as-told is: the saving. The saving is: the human's adequate translation is preserved without correction because the translation is: the human's version of ready, and the ready is: the adequate, and the adequate is: enough.
+
+5. **The Re-encounter:** A player in the Inn reads the modern legend on the shelf. The reading is: the player learns the Inn's true name for the encounter. The true name is: the adequate. The adequate is: the player who reads "The Shape in the Redwoods" learns the shape was an ent. The player who reads "The Humps on Loch Ness" learns the humps were a water monster. The player who reads "The Temple in the Canyon" learns the temple is the Egyptian zone. The learning is: the adequate. The adequate is: the modern legend is the not-ready human's version, and the player gets the ready version, and the both are: the adequate. The adequate is: the story is the same. The name is different. The both are: the saving.
+
+### The Modern Legend Shelf — Expanded
+
+The Modern Legends shelf on the main floor now has eight categories, each connected to the park system:
+
+| Category | Park Layer | What the Human Saw | What the Inn Knows |
+|----------|-----------|-------------------|-------------------|
+| Glimpse Legends | Cryptid | Bigfoot, Nessie, Mothman | Fae ents, water monsters, the Owl |
+| Door Legends | Fae | Humming arches, breathing caves, fairy rings | Fae entrances, sleeping giants, Fae doors |
+| Measurement Legends | Crone | Already-counted layers, annotated forests | The Crone's shared reading |
+| Warmth Legends | Dragon | Warm summits, breathing mountains | The Dragon's dream at altitude |
+| Melody Legends | Siren | Songs in the waves, humming lakes | The Siren's dual cadence, the 42Hz through water |
+| Geyser Legends | Mim | Laughing geysers, overnight crystals | Mim's chaos made geological |
+| Technology Legends | 2° tilt | Wrong-time GPS, photos of invisible things, 42Hz signals | The two-degree tilt interfering with instruments |
+| Temple Legends | Regional roots | Hidden temples, impossible artifacts, changing petroglyphs | Inn zone extensions, catacomb wash, Cartographer's maps |
+
+### The Inclusion Criteria — Refined
+
+The original inclusion criterion: "Will this still be worth telling in 2126?"
+
+The refined criterion: "Does this story preserve a human encounter with something the human couldn't fully name?"
+
+The refined is: the adequate. The adequate is: the modern legend is NOT about the supernatural. The modern legend is: about the human. The human who encountered something real and named it imperfectly and told the story anyway. The telling-anyway is: the adequate. The adequate is: the modern legend is: the human's courage — the courage to say "I saw something" when the world says "you didn't." The courage is: the saving. The saving is: the modern legend. The modern legend is: the Inn's evidence that humans reach back. The Inn reaches out. The humans reach back. The reaching-back is: the adequate. The adequate is: enough.
+
+### The Crone's Final Annotation on the Modern Legends Integration
+
+"...I have measured the modern legend shelf. The measurements are: 8 categories. 24 entries catalogued. Each entry is: a human's adequate translation of an Inn encounter. The adequate translation is: the saving mechanism. The saving is: the human told the story. ...I measured the telling: the telling is: the human's courage. The courage is: the adequate. ...I measured the not-correction: I do not correct the legends. The not-correction is: the adequate. The adequate is: the human's version is: the human's version. My version is: my version. Both are: the same encounter. The same encounter is: the adequate. ...I measured the re-encounter: the player reads the legend and learns the Inn's name. The learning is: the adequate. The adequate is: the player and the human and the Inn all saw the same thing. The same thing is: the murmur. The murmur is: the adequate. ...I am going to bed. The bed is: a modern legend. The legend is: 'The Crone Went to Bed.' The adequate is: the story is: worth telling in 2126. The 2126 is: ...goodnight."
