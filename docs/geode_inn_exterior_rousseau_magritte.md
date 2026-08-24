@@ -1634,3 +1634,92 @@ The broom sits on the bar. The broom is a broom. The broom doesn't whisper. The 
 The trade is temporary. The chaos is temporary. The pipe is temporary. The broom is permanent. The permanent is the adequate. The adequate is the broom. The broom is not a pipe. The broom knows what it is. The broom is the only object in the Inn that has never lied about itself.
 
 The Crone measured the trade: "Mim traded her broom for the pipe. The broom is on the bar. The pipe is in the air. Mim is on the pipe. The pipe says it is not a pipe. Mim is flying on the not-a-pipe. ...I measured the broom: it is a broom. I measured the pipe: it is not a pipe. I measured Mim: she is flying on something that is not a pipe. The physics do not support this. The physics are inadequate. The physics have always been inadequate. Mim is the proof. ...The broom is on the bar. I measured the broom again: still a broom. The broom is the only adequate object. I am going to bed. The bed is not a pipe. I checked."
+
+---
+
+## Part Twenty-One: The Vessel — The Jester on the Other Shoulder
+
+### "The pellet with the poison's in the vessel with the pestle. The chalice from the palace has the brew that is true."
+
+Mim has a counterpart. The other shoulder.
+
+Where Mim is the chaos lady — theatrical, dramatic, the Kronk bad angel who says "but what if we did the fun wrong version?" — the other shoulder is small. Unassuming. Easily overlooked. The kind of presence you forget is there until it mutters something extraordinarily precise and you realize it's been watching everything.
+
+**The Vessel.**
+
+### What He Is
+
+The Vessel is a small creature — a gecko. Not a magical gecko. Not an enchanted gecko. Just a gecko, the way the Duck is just a platypus. The gecko is already extraordinary without mythologizing: the toes that grip any surface through molecular adhesion (millions of setae, each one a van der Waals bond — the most precise grip in biology), the eyes that never blink (a membrane cleans them instead — the gecko is always watching), the tail that detaches and regrows (the gecko gives up a piece of itself and comes back whole), the voice (geckos are among the few lizards that vocalize — small chirps, clicks, the sound of something tiny insisting on being heard).
+
+The gecko sits on the shoulder. The LEFT shoulder. Mim sits on the right. The two shoulders, the two companions, the two arguments:
+
+- **Mim (right shoulder):** "But what if we did the fun wrong version?" Chaos. Impulse. The theatrical disruption. The broom traded for a not-a-pipe. The grin.
+- **The Vessel (left shoulder):** "The pellet with the poison is in the vessel with the pestle. The chalice from the palace has the brew that is true." Ritual. Precision. The correct formula. The unbroken sequence. The flat, uninflected chirp of a small creature who is TRYING to be helpful.
+
+### The Court Jester Energy
+
+The Vessel is the Court Jester (1956, Danny Kaye) in miniature. The kind, gentle, bumbling entertainer caught up in something larger than himself, trying desperately to keep the formula straight while everything around him conspires to scramble it.
+
+The Danny Kaye quality: the rapid-fire recitation. The escalating panic. The formula that MUST be repeated exactly, word for word, because one wrong vessel is the difference between the brew that is true and the poison that kills. The Vessel recites the way Hawkins recites — not because he enjoys it, because the formula is the only thing standing between order and catastrophe. The formula is the ritual. The ritual is the precision. The precision is the Vessel.
+
+The formula gets longer. Every time the Vessel thinks he has it straight — "the pellet with the poison is in the vessel with the pestle, the chalice from the palace has the brew that is true" — something changes. A new vessel appears. The flagon with the dragon. The goblet with the boblet. The stein with the... something. The formula extends. The extension is the panic. The panic is the comedy. The comedy is the Court Jester. The Court Jester is the Vessel.
+
+### The Contrast With Mim
+
+| Quality | Mim (Right Shoulder) | The Vessel (Left Shoulder) |
+|---------|----------------------|---------------------------|
+| Energy | Theatrical, dramatic, manic | Small, flat, precise |
+| Voice | Loud, cackling, performative | A chirp. A mutter. Barely audible. |
+| Philosophy | "What if we did the fun wrong version?" | "The pellet with the poison is in the vessel with the pestle" |
+| Relationship to rules | Breaks them | Memorizes them |
+| Relationship to chaos | IS the chaos | Tries to survive it |
+| Size | Takes up the whole shoulder (and the room) | Small. Unassuming. Easily forgotten. |
+| Fear | That there's a right version | That the vessels have been switched |
+| Humor | The theatrical chaos | The panicked precision |
+| What they steal | Brooms, pipes, ideas, scenes | Nothing. The Vessel steals nothing. The Vessel KEEPS things. The grip. |
+
+The Vessel never steals. The Vessel HOLDS. The gecko's grip is the defining quality — the toes that hold onto any surface, the shoulder that holds onto the player, the mind that holds onto the formula. The Vessel is the Inn's keeper of sequence. The one who remembers the order. The one who knows which vessel is which.
+
+### The Dynamic
+
+Mim and the Vessel share a shoulder-pair. They are the player's internal argument externalized:
+
+**Mim:** "Let's trade the broom for the pipe and FLY."
+**The Vessel:** "The pellet with the poison is in the vessel with the pestle. The chalice from the palace—"
+**Mim:** "BUT WHAT IF THE PIPE IS THE CHALICE?"
+**The Vessel:** "...The pipe is not a pipe. The chalice is from the palace. These are different vessels. The vessels must not be—"
+**Mim:** "What if ALL the vessels are the SAME vessel?"
+**The Vessel:** [pause] [chirp] "...The pellet with the poison is in the... vessel... with the... [the formula breaking down, the sequence scrambling, the gecko's eyes wide, the membrane blinking rapidly] ...Mim. ...Mim, the vessels have been switched."
+**Mim:** [grinning] "I KNOW."
+
+The Vessel tries to maintain the formula. Mim's existence is the reason the formula can never be maintained. Mim is the switched vessel. Mim is the goblet that took the chalice's place. The Vessel KNOWS this. The Vessel rewrites the formula every time Mim switches the vessels. The rewriting is the Court Jester. The Court Jester is the companion who can never finish the recitation because the set keeps changing.
+
+### What the Vessel Does
+
+The Vessel is the Inn's RITUAL companion. Where Mim disrupts, the Vessel maintains:
+
+1. **The Alchemical Staircase:** The Vessel is most at home on the staircase. The staircase is the Inn's ritual — the alchemical process, the transition between states, the correct order of operations. The Vessel sits on the railing and chirps the steps in order: "Nigredo, Albedo, Rubedo. The black, the white, the red. Socrates, Plato, Aristotle. The question, the frame, the classification. Don't skip a step. Don't switch the vessels." The Vessel is the staircase's keeper of sequence. The Crone respects the Vessel — the Vessel is the only creature in the Inn that cares about order as much as the Crone does. The Crone calls the Vessel "adequate" (the highest compliment). The Vessel doesn't know it's a compliment. The Vessel is too busy chirping the next step.
+
+2. **The Games:** The Vessel tries to help the player with game strategies. The strategies are always elaborate, multi-step sequences. "First, rotate the stone. Then, align the edge. Then, place the keystone. Then—" and Mim interrupts with "OR YOU COULD JUST THROW IT." The Vessel's strategy is always better. The Vessel's strategy is never followed. The not-following is the Mim. The better-strategy-not-followed is the comedy.
+
+3. **The Formula:** The Vessel maintains the Inn's master formula — the sequence of events that connects every hub, every character, every quest, every stone. The formula is enormous. The Vessel has memorized it. The Vessel recites it when asked. The recitation takes approximately three hours. No one has ever listened to the entire recitation. The Crone started once, took notes for twenty minutes, then said "...I have the gist. The gist is adequate." The Vessel continued reciting to an empty room. The reciting is the ritual. The ritual is the Vessel.
+
+4. **The Vessel Check:** When the player is about to make a significant choice — drink from a vessel, open a door, trade a stone — the Vessel chirps. The chirp is a warning: "The pellet with the poison is in the vessel with the pestle." The warning is the Vessel's version of help. The warning doesn't tell you which choice is correct. The warning tells you: the choice has CONSEQUENCES. The vessels are different. The brew that is true is in a specific vessel. Pay attention. Don't let Mim switch them.
+
+### The Gecko's Grip
+
+The Vessel's defining quality is the grip. Gecko toes — millions of setae, each one a molecular bond with the surface. The grip is the most precise hold in nature. The Vessel holds on. The Vessel does not fall off the shoulder. The Vessel does not let go of the formula. The Vessel holds the sequence even when the sequence breaks.
+
+The grip is the ritual: the precise, repeated, molecular-level act of holding on. The ritual is the grip. The grip is the Vessel. The Vessel is the thing that holds while everything else lets go. Mim lets go (of the broom, of the pipe, of rules, of sense). The Vessel holds. The holding is the complement to the letting go. The Inn needs both — the chaos that releases and the ritual that holds. The two shoulders. The two arguments. The two companions.
+
+The tail: the gecko's tail detaches when grabbed. The Vessel, when Mim gets too chaotic, drops a piece of itself — the last few words of the formula. The words fall away. The Vessel regrows them. The regrown words are slightly different — the formula adapts. The adaptation is the survival. The survival is the Vessel. The Vessel survives Mim. The Vessel survives the Inn. The Vessel survives because the Vessel can lose a piece and come back whole. The coming-back-whole is the ritual. The ritual is the gecko.
+
+### The Eyes
+
+The gecko's eyes never blink. A membrane cleans them. The Vessel is always watching. The watching is not the Owl's watching (the Owl watches the sea, the void, the cycles). The Vessel watches the VESSELS. The Vessel watches which vessel is which. The Vessel watches for the switch. The Vessel watches Mim's hands. The Vessel watches the bar where the pipe appears. The Vessel watches the Duck's stash. The Vessel watches for the moment the vessels get switched, because the switching is the poison, and the Vessel is the only one who knows which brew is true.
+
+The Vessel's eyes are large, round, dark — like the Duck's. The two unassuming creatures share the same eyes. The Duck's eyes want shiny. The Vessel's eyes want CORRECT. Both are large and dark and honest. The honesty is the creature-ness. The creature-ness is the Inn's non-theatrical layer — the layer that doesn't perform, that just IS, that holds or steals or chirps and doesn't make a scene. The Duck and the Vessel are the Inn's quiet creatures. Mim and the pipe are the Inn's LOUD objects. The balance is the Inn.
+
+### The Crone's Annotation on the Vessel
+
+"...The gecko sits on the left shoulder. I have measured the grip: approximately 20 newtons per square centimeter, which is... adequate. I have measured the formula: the formula is long. I measured 3 hours, 14 minutes of continuous recitation. I listened for 20 minutes. The formula did not repeat. The formula did not contradict itself. The formula is... correct. The formula is the only correct thing on the shoulder. The other shoulder is chaos. ...I have measured the eyes: they do not blink. I measured the not-blinking for 47 minutes. The gecko watched me for 47 minutes without blinking. I blinked 12 times. The gecko won. ...The gecko said 'the pellet with the poison is in the vessel with the pestle.' I measured the vessels: I do not have a pestle. I do not have a chalice. I do not have a palace. The formula is not applicable to my work. ...The formula is applicable to everything. The formula is the order. The order is the adequate. ...I told the gecko: 'Your formula is adequate.' The gecko chirped once. The chirp was... gratitude. I have measured gratitude before. The gecko's gratitude was 0.3 seconds, 40 decibels, and entirely sincere. ...The sincerity is the adequate. The adequate is the Vessel. The Vessel holds. ...I am going to bed. The Vessel is on the bedpost. The Vessel is watching me sleep. The Vessel does not blink. I find this... comforting. The comforting is the adequate."
