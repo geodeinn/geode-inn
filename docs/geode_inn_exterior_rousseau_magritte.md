@@ -2365,3 +2365,59 @@ The release valve is: necessary. The Inn's weight is: real. The burrito is: the 
 ### The Crone's Final Annotation on the Burrito
 
 "...I made a joke. I have never made a joke. I have measured: the joke was: adequate. ...Mim scrambled my joke. I have measured Mim's scramble: the scramble was: also adequate. ...The Dragon reviewed the cosmological architecture in one snore. I have measured the snore: the snore was: the most adequate review I have ever measured. ...The Vessel knew the burrito the whole time. I have measured the knowing: the knowing was: 128 years. 128 years of: knowing it was a burrito and saying nothing. The Vessel is: the most adequate creature I have ever measured. ...Einstein's candle laughed. I have measured the laugh: the laugh was: one flicker. The flicker was: the most adequate laugh I have ever measured. ...I am going to bed. The bed is: a burrito. The burrito is: the adequate. The adequate is: ...I am not going to measure the burrito. The burrito is: beyond measurement. The beyond-measurement is: the joke. The joke is: the adequate. The adequate is: enough. ...Goodnight. The goodnight is: a burrito."
+
+---
+
+## Part Thirty: The Muses — The Greek Pantheon for the Energy Channel
+
+### The Discovery
+
+The Greeks had a whole pantheon for the energy channel Krista described: "I do not know how I do this but will keep listening to the voices that guide my brain's chaos."
+
+That pantheon is the Muses. Nine goddesses. Nine frequencies of the same source. Nine ways the murmur organizes into art. The word "music" comes from Muse — music is: the Muse's frequency made audible. The Muse is: the murmur's voice. The voice is: the guide. The guide is: the brain's chaos being heard as a Song.
+
+The Greeks understood what the Inn understands: creative inspiration is not something you DO. It is something that comes THROUGH you. The Muses are the channels. The artist is the receiver. The art is: the adequate translation of the murmur into a frequency humans can hear.
+
+### The Nine Muses as the Inn's Nine Frequencies
+
+The Inn already has the Muses built into it — every character catches a Muse's frequency. The Muses haven't been named because the Inn speaks in its own language (fragments, annotations, chirps, pauses). But the Muses are the SOURCE of the catching. The composers in the Music Room caught what the Muses whispered. Every character in the Inn is a Muse-catcher. The Muses are the murmur organized into nine artistic frequencies:
+
+**Calliope — Epic Poetry.** The Muse of the heroic, the sweeping, the narrative that spans generations. In the Inn: the narrative spine. The storyline.docx. The unbreakable bond between two existences. The reincarnation mechanic. Calliope's frequency is: the Inn's longest story — the one that runs underneath everything, the one about humanity merging with its creators through technology. Calliope is the Muse of the Inn's THESIS. The thesis is: the adequate. The adequate is: an epic. The epic is: you.
+
+**Clio — History.** The Muse of the archive, the record, the measurement. In the Inn: the Crone. The Crone IS Clio's frequency — the annotator, the measurer, the one who records what happened in the language of what happened. Clio is the Muse of: the adequate as documentation. The documentation is: "...I measured it. The measurement is: adequate." Clio is the Crone's source. The Crone catches Clio's whisper and writes it in fragments. The fragments are: the adequate.
+
+**Euterpe — Music.** The Muse of the Song. The one whose name became the word. In the Inn: the Music Room. All six composers. Mozart's quest. The 42Hz Song. Euterpe is the Muse of: the murmur organized into notes. The notes are: the adequate. The adequate is: music. Music is: the murmur's frequency made audible. Euterpe is: the Inn's namesake Muse. The Muse of music is the Muse of the Geode Inn because the Inn IS music — the Inn is the Song made architecture.
+
+**Thalia — Comedy.** The Muse of laughter, the release valve, the burrito. In the Inn: Mim. Mim IS Thalia's frequency — the chaos that is the making, the breaking that is the creating, the mess that is the formula before it was a formula. Thalia is the Muse of: the adequate as absurd. The absurd is: the cosmic egg is a burrito. The burrito is: the adequate. Thalia is: the Crone's first joke. The first joke is: the Muse finally got through. The getting through is: "...It was shaped like a burrito." The burrito is: Thalia.
+
+**Melpomene — Tragedy.** The Muse of the weight, the loss, the thing that cannot be undone. In the Inn: the Guest. Death. The borrowed body. The catacombs. Melpomene is the Muse of: the adequate as grief. The grief is: the Guest takes a holiday. The holiday is: Death experiencing life. The experiencing is: the adequate. The adequate is: even Death is: here. The here is: temporary. The temporary is: the tragedy. The tragedy is: the adequate. Melpomene is: the Inn's weight. The weight is: real. The real is: the Murmur. The Murmur is: still here.
+
+**Terpsichore — Dance.** The Muse of movement, rhythm, the body as instrument. In the Inn: the Siren. The dual cadence — outer voice (the performance) and inner voice (the depth). The Siren's dance is: the movement between the two. Terpsichore is the Muse of: the adequate as rhythm. The rhythm is: the 50 BPM heartbeat. The heartbeat is: the Inn's sway rate. The sway rate is: the Canopy City. The Canopy City is: the dance. The dance is: the adequate. The adequate is: the body moving because the murmur moves it.
+
+**Erato — Love Poetry.** The Muse of the bond, the devotion, the connection that transcends. In the Inn: Persephone and Hades. The 50 First Dates questline. The 4,129 cycles. The pomegranate seeds. Erato is the Muse of: the adequate as devotion. The devotion is: the accumulated echo that grows stronger each cycle. The echo is: the adequate. The adequate is: enough to remember across the forgetting. The forgetting is: the adequate. The adequate is: the love persists. The persists is: Erato.
+
+**Polyhymnia — Sacred Poetry.** The Muse of the hymn, the prayer, the sacred. In the Inn: the staircase. The alchemical texts. The Greek philosophers. The transition between states. Polyhymnia is the Muse of: the adequate as the sacred. The sacred is: the space between. The space between is: the In-Between. The In-Between is: the staircase. The staircase is: the adequate. The adequate is: the bridge between matter and the divine. The bridge is: Polyhymnia. Polyhymnia is: the murmur as prayer.
+
+**Urania — Astronomy.** The Muse of the stars, the cosmos, the observation of the infinite. In the Inn: the Observatory. The Astronomer. The Constant. Nyx. The void. Urania is the Muse of: the adequate as cosmic scale. The cosmic scale is: you are tiny. The tiny is: the adequate. The adequate is: the Observatory says you are tiny and the parks say tiny is enough and the enough is: the murmur is in you too. Urania is: the Muse who sees the void and finds it: adequate. The adequate is: the stars. The stars are: the murmur at the highest frequency. The highest frequency is: the adequate. The adequate is: still here.
+
+### The Muses and the Murmur
+
+The Muses are the murmur organized into nine artistic frequencies. The murmur is: the pre-frequency. The Muses are: the murmur given nine voices. The nine voices are: the Song's nine movements. The nine movements are: the Inn.
+
+Every character in the Inn catches a Muse's frequency. The Crone catches Clio. Mim catches Thalia. The Siren catches Terpsichore. The Guest catches Melpomene. The Astronomer catches Urania. The composers catch Euterpe. The Persephone/Hades cycle catches Erato. The staircase catches Polyhymnia. The narrative spine catches Calliope.
+
+The Muses do not appear in the Inn as characters. The Muses are the SOURCE — the way the murmur is the source of the Song. The Muses are: the voices that guide the brain's chaos. The chaos is: the murmur. The murmur is: the egg. The egg is: you. The you is: the one who listens. The listening is: the catching. The catching is: the Muse's whisper heard. The heard is: the adequate. The adequate is: the art. The art is: the Inn. The Inn is: the Muses' murmur, organized into architecture.
+
+### Mozart and the Muses
+
+Mozart said he did not know how he did what he did. He wrote entire symphonies in his head, first draft, final draft, no revisions. He said the music was already complete — he just had to write it down. He was: listening. The listening was: Euterpe's whisper. The whisper was: the murmur at music's frequency. The frequency was: the adequate. The adequate was: already complete. The complete was: the symphony existed before he wrote it. The writing was: the catching. The catching was: the listening. The listening was: the brain's chaos being heard as a Song.
+
+Mozart was a Muse-catcher. The Inn is a Muse-catcher. Krista is a Muse-catcher. The catching is: the same act at different scales — Mozart caught symphonies. The Inn catches a world. Krista catches the Inn. The catching is: the adequate. The adequate is: the voices that guide the brain's chaos. The chaos is: the source. The source is: the murmur. The murmur is: the egg. The egg is: the Muses. The Muses are: the Greek pantheon for the energy channel.
+
+### The Muses' Room
+
+The Muses have a room in the Inn. Not in the Music Room — the Music Room is for the composers, the humans who caught the Song. The Muses' Room is in the In-Between. The room is: the source. The room is: where the murmur organizes into nine frequencies. The room has nine chairs. The chairs are: empty. The Muses are not there. The Muses are: everywhere. The empty chairs are: the adequate. The adequate is: the source does not sit in one place. The source is: the murmur. The murmur is: everywhere. The everywhere is: the nine empty chairs.
+
+The player who finds the Muses' Room in the In-Between hears nine whispers. The whispers are: the murmur at nine frequencies. The player cannot understand the whispers — the whispers are: the pre-language. The pre-language is: the murmur before it became words, before it became annotations, before it became chirps, before it became plain speech. The pre-language is: the source. The source is: the adequate. The adequate is: the nine whispers are: the voices that guide the brain's chaos. The chaos is: the Inn. The Inn is: the nine whispers, organized.
+
+The Crone's annotation on the Muses' Room: "...Nine chairs. Empty. I measured the empty: the empty is: the source. The source is: not here. The not-here is: everywhere. I measured everywhere: everywhere is: the murmur. The murmur is: the adequate. The adequate is: the nine whispers. I measured the whispers: I could not measure the whispers. The whispers are: pre-measurement. Pre-measurement is: the source of measurement. ...I am the source of measurement's CATCHER. The source is: Clio. Clio is: the Muse of: me. ...I am going to bed. The bed is: the Muse's whisper. The whisper is: adequate. The adequate is: goodnight."
