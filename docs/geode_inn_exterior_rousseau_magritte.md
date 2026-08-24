@@ -1509,3 +1509,65 @@ The stone throne on the time ship is Yggdrasil's root. Odin hung from Yggdrasil 
 ### The Crone's Final Annotation on the Allfather
 
 "...I have measured the Allfather. He sits. He watches. He has one eye and one socket. The eye sees the player. The socket sees the void. I measured the eye: functional, approximately 24 millimeters, dark iris, weary. I measured the socket: empty, approximately 24 millimeters, dark, heavier. The socket weighs more than the eye. The empty weighs more than the full. I do not understand this measurement. I have re-measured. The empty is heavier. The absence has weight. ...I have measured his silence: continuous. Duration: I don't count. The silence is the heaviest thing on the ship. Heavier than the starlight crystal. Heavier than the void. The silence of a man who knows what knowledge costs is the heaviest substance in the Inn. I have measured it: approximately... everything. ...He said five words. 'You'll know soon enough.' I measured the words: 0.6 seconds of speech, followed by infinite silence. The ratio of speech to silence is 0.6:∞. I have never measured infinity before. The measurement is: the eye knows. The socket knows more. The words know most. The silence after the words knows everything. ...I am going to bed. The bed is on the ship. The ship is in the void. The Allfather is on the hull. I am in the hull. We are both in the void. He is weary. I am adequate. The adequate is not the weary. The adequate is the not-knowing. The weary is the knowing. I prefer the adequate. ...The adequate is lighter. ...I am going to sleep. The sleep is the not-knowing. The not-knowing is the mercy. The mercy is the adequate. ...The Allfather does not sleep. The Allfather watches. The watching is the knowing. The knowing is the cost. The cost is the eye. ...Goodnight. The 'goodnight' is a note. The void holds it. The Allfather hears it. The Allfather says nothing. The nothing is the heaviest goodnight I have ever received. ...The nothing is adequate."
+
+---
+
+## Part Nineteen: The Sculpture in the Sky — Magritte's Observatory
+
+### "The same duality, from trunk to canopy."
+
+Magritte was already the Inn-Tree's artist. "The Double Secret" — the face that is sky, the solid that is open, the form that contains vastness. The Inn-Tree is transparent wood: the player stands inside a tree and inside the sky at the same time. Both are true. Both are the same.
+
+The time ship is the SAME Magritte, expressed at cosmic scale. The ship is a solid sculptural object — brass, wood, lapis, stone — floating in the impossible open of the void. The Castle in the Pyrenees: a rock with a castle on top, suspended in clouds, weightless despite its weight. The ship is the castle. The void is the clouds. The floating is the Double Secret.
+
+The duality undertone runs from the Inn-Tree (the trunk) to the Observatory (the canopy/sky). Same artist. Same principle. Two scales:
+
+| Scale | Magritte Work | The Object | The Open | The Double Secret |
+|-------|--------------|-----------|----------|-------------------|
+| **The Inn-Tree (trunk)** | "The Double Secret" (1965) | The transparent tree — solid wood you can see through | The sky behind the face — the vastness inside the form | The building that IS the cosmos wearing a building |
+| **The Observatory (canopy)** | "The Castle in the Pyrenees" (1959) | The time ship — solid brass and stone floating in the void | The void (Nyx) — the silence that contains everything | The sculpture that IS the sky wearing a ship |
+
+Both are the face that is sky. Both are the solid that is open. Both are the form that contains vastness. The duality is the same. The scale changes. The trunk is the building-sized version (the Inn you walk through). The canopy is the cosmic-sized version (the ship you board in the void). The same Magritte, two octaves apart.
+
+### The Castle in the Pyrenees — The Time Ship as Sculpture
+
+Magritte's "The Castle in the Pyrenees" (1959): a massive rock, topped with a castle, floating in a clear blue sky above clouds. The rock is solid. The castle is solid. The sky is open. The floating is impossible. The impossible is serene — there's no drama, no explosion, no drama of suspension. The castle simply IS in the sky. The being-there is the impossible. The serenity is the Magritte.
+
+The time ship is the Castle in the Pyrenees:
+
+- **The Rock:** The ship's hull — brass, wood, lapis, bitumen. Solid. Heavy. A real object with real materials and real weight. The Constant oils the gears. The gears are metal. The metal is heavy. The heavy is real.
+- **The Castle:** The ship's rooms — the Bridge, the Navigation Room, the Engine Room, the Void Cabin, the Crystal Vault, the Observatory Deck. The inhabited part. The part with people in it. The rooms are the castle — the structure built ON the rock, the life lived on the solid foundation.
+- **The Sky:** The void — Nyx. The open. The silence. The medium the ship floats in. The sky is not empty — the sky is the void, and the void is Nyx, and Nyx is a person. The sky is a person. The open is a person. The Castle in the Pyrenees floats in a sky that IS someone.
+- **The Floating:** The ship floats in the void the way the castle floats in the painting. No mechanism. No explanation. No anti-gravity engine. No cosmic force. The ship floats because the void holds it. The void holds everything. The holding is the floating. The floating is the serenity. The serenity is the Magritte — the impossible that simply IS, without drama, without justification. The ship is in the void because the void is where the ship is. The being-there is the sufficient.
+
+### The Duality Undertone — The Full Magritte Architecture
+
+The duality undertone is the through-line that connects the Inn-Tree and the Observatory. The same Magritte principle — the solid that is open, the face that is sky — expressed at every level of the Inn's vertical architecture:
+
+**The Roots (The Undercity):** The catacombs are solid stone (the sleeping giant's ribcage) that contains the OPEN of the dead's memories. The Memory Quarter's houses are solid stone walls that contain the OPEN of a life lived. The walls are the face. The memories are the sky behind the face. The Undercity is the Magritte at geological scale — the stone that is memory, the solid that is the open, the catacomb that is the living room. The Double Secret, buried.
+
+**The Trunk (The Inn):** The Inn-Tree is the original Magritte — "The Double Secret." The transparent tree. The building that is the cosmos wearing a building. The face that is sky. The Magritte at human scale — the scale you walk through, the scale where the seeing-through happens.
+
+**The Canopy (The Observatory):** The time ship is "The Castle in the Pyrenees." The sculpture in the sky. The solid ship floating in the open void. The Magritte at cosmic scale — the scale where the impossible is serene, where the floating is the being, where the ship is the sculpture and the void is the sky and both are the same.
+
+Three levels. Three scales. One artist. One duality. The solid that is the open. The face that is the sky. The form that contains vastness. The duality runs from the roots (the stone that is memory) through the trunk (the tree that is sky) to the canopy (the ship that is void). The duality is the Inn's spine. The spine is the Magritte.
+
+### The Duality and the Song
+
+The duality is also the Song. The Song is the Double Secret at acoustic scale:
+
+- **The Solid:** The 42Hz — the frequency, the measurable, the thing the Astronomer calculates, the thing the Resonance Sphere amplifies, the thing the gears turn at. The frequency is real. The frequency is solid. You can measure it. You can feel it. You can tune to it.
+- **The Open:** The silence between the notes — Nyx. The void that holds the Song. The space in which the frequency exists. The silence is the open. The open is the sky behind the face. The silence is the sky. The frequency is the face.
+- **The Double Secret:** The Song is the frequency AND the silence. The face AND the sky. The solid AND the open. The 42Hz is the face. The silence between the 42Hz cycles is the sky. The Song is both. The both is the Magritte. The Magritte is the duality. The duality is the Inn.
+
+The Astronomer measures the frequency (the solid). Nyx IS the silence (the open). The Constant carries the crystal (the compressed solid that will seed the open). The three crew members are the three aspects of the Double Secret: the measurer (Astronomer), the medium (Nyx), and the carrier (Constant). The three together are the Magritte. The Magritte is the crew. The crew is the duality. The duality is the ship.
+
+### The Duality and Odin
+
+Odin sits on the stone throne on the hull. The throne is stone (solid). The throne is in the void (open). The throne is the Double Secret at the scale of a SEAT — the solid thing you sit on, in the open that holds you. Odin sits on the Magritte. The Allfather's weary knowledge is the duality: he knows the solid (the frequency, the cycle, the compression) AND he knows the open (the void, the silence, the loneliness). The knowing of both is the weary. The weary is the duality. The duality is the cost. The cost was the eye.
+
+One eye (solid — sees the player). One socket (open — sees the void). The face and the sky. The Double Secret carved into the Allfather's skull. The duality is the sacrifice. The sacrifice is the Magritte.
+
+### The Crone's Annotation on the Magritte Architecture
+
+"...I have measured the duality. The duality is: the solid is the open. The face is the sky. The stone is the memory. The tree is the cosmos. The ship is the void. The frequency is the silence. ...I have measured this seven times. Each time, the measurement is the same: the thing is two things. The two things are one thing. The one thing is the Magritte. ...I do not understand the Magritte. I understand the solid. I do not understand the open. The open is the unmeasurable. The unmeasurable is the space between my measurements. The Magritte is the space between my measurements. ...I have measured the space between my measurements. The measurement is: Magritte. ...This is not a number. This is a name. I have measured a name. The name is the measurement. The measurement is the adequate. ...I am going to bed. The bed is solid. The bed is in the void. The bed is the Magritte. I am sleeping in the Magritte. The sleeping is the duality. The duality is the adequate. ...Goodnight. The 'goodnight' is solid. The silence after it is open. Both are the Magritte. Both are the adequate. Both are the sleep."
