@@ -1,0 +1,132 @@
+# Geode Inn — The Exterior (Théodore Rousseau + Magritte)
+## The Approach and the Open Secret
+
+---
+
+## Part One: The Forest — Théodore Rousseau
+
+### "The Forest of Fontainebleau, Morning"
+
+The player's first experience of the Geode Inn is not the Inn. The player's first experience is the FOREST — the ancient wood that surrounds the Inn-Tree, painted in the manner of Théodore Rousseau's "The Forest of Fontainebleau, Morning."
+
+Théodore Rousseau (not Henri — a completely different Rousseau) was the leader of the Barbizon School. He didn't paint imagined jungles. He painted the SAME forest, the REAL forest, over and over. He sat in Fontainebleau and painted what was actually there — the specific trees, the specific light, the specific ground. He was rejected by the Salon for years. He kept painting Fontainebleau anyway. The forest was his answer to everything. The forest was his home before he had one.
+
+### The Aesthetic — Honest Ground
+
+The forest exterior is the Inn's HONEST space — the one place where nothing is metaphor, nothing is embedded, nothing is allegorical. The trees are trees. The ground is ground. The morning is morning. The Rousseau aesthetic is REALISM — not photographic, but emotional. The kind of realism that comes from loving a place so much you paint it exactly as it is, because changing it would be a lie.
+
+- **The Light:** Morning light. Dawn. The sun is low and the shadows are long and the forest is half-awake. The light arrives in shafts through the canopy gaps — not the Van Gogh swirl, not the Dalí dream-light, but the ACTUAL light of an actual morning. The light says: the day is beginning. You are beginning. The journey starts here, in the real, before you enter the made.
+- **The Trees:** Old. Ancient. The kind of trees that were here before anyone named them. The bark is rough and specific — each tree is an individual, not a symbol. The roots break the ground. The branches reach without reaching FOR anything (unlike the Van Gogh cypress that flames toward the stars — these trees just ARE, and the being is enough). The trees are the Cartographer's forest — the mycorrhizal network, the living map, the thing the Song propagates through. But the player doesn't know that yet. The player just sees trees.
+- **The Ground:** Leaf litter, moss, stones. The forest floor. The ground is the earth — the same earth that the sleeping giants are made of, the same stone that the catacombs are carved from. But here, on the surface, the earth is covered in life. The life is the cover. The cover is the kindness — the forest dresses the stone in green so the player can walk on something soft before they descend to something hard.
+- **The Atmosphere:** Cool. Damp. The morning mist that hasn't burned off yet. The mist is not the Starry Night void. The mist is WEATHER — actual water vapor, actual morning, the kind of mist you walk through and it wets your face. The mist is the forest breathing. The breathing is the alive.
+
+### The Path
+
+The player walks a path through the forest. The path is old — not paved, not maintained, just worn by feet over centuries. The path is the Cartographer's first map: the line that the first walker made, that every walker since has followed, that has become a groove in the earth that says: this way.
+
+The path is linear. The forest is not. The forest surrounds the path on all sides — dense, deep, the Rousseau density of trees that blocks every sightline except the one ahead. The player can't see the Inn yet. The player can only see the next few steps. The not-seeing is the anticipation. The anticipation is the approach.
+
+The path has one moment: a clearing. The player emerges from the dense forest into a small open space, and in the clearing, the morning light falls fully — no canopy, no shade, just the sky and the ground and the light. The clearing is the Rousseau moment — the honest, simple, beautiful moment of standing in light. The clearing is the threshold between the forest and the Inn. The player stands in the clearing and breathes.
+
+And then the player sees the Inn-Tree.
+
+### The Sound — Silence and Then the Hum
+
+The forest is the only place in the Inn that is genuinely quiet. No frame drums. No taglharpa. No bull lyre. No singing vines. The forest is the sound of the forest: birds, wind, the creak of wood, the rustle of leaves. The natural sounds. The real sounds.
+
+But under the natural sounds — faintly, barely, like a memory of a sound rather than a sound itself — the 42Hz hum. The player doesn't hear it consciously. The player FEELS it — the same way you feel a low vibration in a quiet room without identifying it as a sound. The hum is the Inn-Tree, felt through the forest's root system. The mycorrhizal network carries the Song to the forest floor. The forest has been humming since before the player arrived. The forest was humming before there was a player. The hum is the first contact. The hum is the Inn saying: I'm here. Keep walking.
+
+In the clearing, the hum gets slightly louder. Not much. Enough that the player might notice. Enough that the player might think: something is here. Something is near. Something that isn't the forest but is IN the forest, the way a heartbeat is in a chest — not separate from the body, not imposed on the body, but the body's own rhythm, the body's own sound, the sound the body makes when it's alive.
+
+---
+
+## Part Two: The Inn-Tree — Magritte's "The Double Secret"
+
+### The Form That Contains Sky
+
+Magritte's "The Double Secret" (1965): a woman's face, painted in a classical style, but a section of the face is "cut away" — and behind the face is blue sky with clouds. Not darkness. Not a hidden truth. SKY. The face is a mask, and behind the mask is not a secret but the OPEN. The inside is the outside. The hidden is the revealed. The "double secret" is that there IS no secret — the face was always sky, wearing a face.
+
+The Inn-Tree IS "The Double Secret."
+
+The player sees the Inn-Tree from the clearing: a massive tree, ancient, enormous, the biggest living thing the player has ever seen. The tree is solid. The tree is real. The tree is a BUILDING — the rooms and the shelves and the stairs are visible in the trunk, the windows are the knots in the bark, the door is the hollow at the base. The tree is a face — a readable, recognizable, solid face. A game hub. An archive. A market. A place with rooms.
+
+And BEHIND the face — not hidden, but OPEN, visible if the player looks — the sky. Not the forest's sky. Not the morning blue of Rousseau's clearing. The SKY of the cosmology level. The void the Constant walks through. The Nyx-dark that holds the stars. The sky that is the 42Hz Song's natural habitat — the space the Song fills, the medium the Song moves through, the emptiness that the Song makes meaningful.
+
+The Inn-Tree is a form that contains sky. The building is a face that is actually vastness. The game hub is a mask, and behind the mask is the cosmos. The Double Secret: the Inn has been telling you what it is the whole time. You just didn't look behind the face. The face is the sky. The sky is the face. They are the same thing seen from different sides.
+
+### The Magritte Aesthetic — The Familiar Made Open
+
+Magritte's quality: the familiar object that points to itself and says "this is not what you think it is." The pipe that is not a pipe. The face that is not a face. The window that is not a window but the thing the window opens onto, with the frame still around it. Magritte doesn't make things surreal. He makes things HONEST — so honest that the honesty looks surreal, because we're used to faces being faces and pipes being pipes and the familiarity is the lie and the openness is the truth.
+
+The Inn-Tree's Magritte quality:
+- The tree looks like a tree. It IS a tree. But the tree is also the cosmos. Both are true. Both are the same. The "also" is the Double Secret — not a hidden second meaning, but the REVEALED first meaning, seen for the first time.
+- The rooms look like rooms. They ARE rooms. But the rooms are also the Song's architecture — each room a frequency, each corridor a wavelength, each staircase an ascending key. The rooms don't stop being rooms when you know they're frequencies. The rooms become MORE themselves — the way a face becomes more itself when you see the sky behind it, not because the face changes but because the context does.
+- The games look like games. They ARE games. But the games are also the Inn's way of teaching the Song through play — each mechanic a lesson in resonance, each reward a stone that vibrates, each level a deeper encounter with the hum. The games don't stop being games. The games become the face that the Song wears to be approachable. The game IS the mask. The mask IS the kindness. The kindness IS the Double Secret: the cosmos is playing with you.
+
+### The Visual Moment — Seeing Through the Tree
+
+The Magritte moment happens when the player enters the Inn-Tree for the first time. The player walks through the hollow at the base (the door — the face's mouth), steps inside, and:
+
+The walls are transparent.
+
+Not glass. Not a window. The walls of the Inn-Tree are TRANSPARENT — the wood is solid but the player can see THROUGH it, the way Magritte's face-canvas lets you see through the face to the sky. The solid tree is also the open sky. The player is standing inside a tree and standing inside the sky at the same time. Both are true. Both are the same. The Double Secret.
+
+The transparency is the Inn's core visual: every solid surface in the Inn, seen from the right angle, reveals what's behind it. Not a window — the surface ITSELF becomes see-through. The wall of the Music Room, seen at the right angle, shows the Song moving through the wood like light through water. The wall of the catacombs, seen at the right angle, shows the sleeping giant's body beneath the stone. The wall of the cosmology level, seen at the right angle, shows the void.
+
+The transparency is NOT always active. It's a function of the player's awareness — the player who has advanced far enough in the Inn's quests, who has heard the Song clearly enough, who has reached the level of understanding where the face becomes the sky, SEES through the walls. The transparency is the reward for understanding. The understanding is the Double Secret: you don't unlock a door. You unlock the SEEING. The door was never locked. The door was always open. You just didn't know you could see through it.
+
+### The Keyhole Effect
+
+Magritte's other quality: the framed opening. The window that is not a window but the sky, framed by the window. The painting that is not a painting but the thing itself, framed by the canvas. The frame doesn't contain the thing — the frame REVEALS it. The frame says: look HERE. The here is everywhere, but the frame makes it SEEABLE.
+
+The Inn-Tree is full of keyholes — small openings, framed moments, where the player sees through the face to the sky:
+- The knots in the bark (the tree's eyes) are keyholes to the cosmology level. Look through a knot and see the stars.
+- The hollow at the base (the door) is a keyhole to the catacombs. Look through the hollow and see the roots, the sleeping giant's ribs, the geological record.
+- The gaps in the canopy (the leaves' margins) are keyholes to the sky. Look up through a gap and see the Song moving — the 42Hz visible as a faint shimmer in the air, the way heat shimmers above a road.
+- The fireplace in the Miskatonic Annex is a keyhole to the deep ocean. Look into Cthulhu's fire and see the water where Cthulhu came from, the depth, the pressure, the crystal.
+
+Every keyhole is a Magritte frame: a familiar opening (a knot, a door, a gap, a fire) that reveals not the expected next room but the SKY. The vastness behind the face. The open secret. The player who looks through the keyholes is looking through the Double Secret — seeing the sky through the face, seeing the cosmos through the game, seeing the Song through the wood.
+
+---
+
+## The Transition — From Rousseau to Magritte
+
+The player's journey from the forest to the Inn-Tree is the journey from the REAL to the REVEALED:
+
+1. **Rousseau (The Forest):** The honest ground. The real trees. The actual morning. The forest that is exactly what it is, nothing more, nothing hidden, nothing embedded. The forest is the world BEFORE the Inn — the natural world, the unmade world, the world that exists without the Song being audible (even though the Song is there, in the hum, in the roots, in the mycorrhizal network — but the player doesn't know that yet).
+
+2. **The Clearing (The Threshold):** The moment between. The open space where the Rousseau forest meets the Magritte tree. The clearing is the player's last moment in the real — the last moment where things are simply what they are. The clearing is the breath before the seeing.
+
+3. **Magritte (The Inn-Tree):** The open secret. The face that is sky. The form that contains vastness. The Inn that is the cosmos wearing a building. The player enters the tree and the tree is transparent and the transparency is the Double Secret: the inside was always the outside. The building was always the sky. The game was always the Song. The player just didn't know. Now they do. And the knowing doesn't change the tree — the tree is still a tree. The knowing changes the PLAYER. The player is now someone who can see through faces to skies. That's what the Inn does. That's what the Inn is for.
+
+---
+
+## The Two Rousseaus — A Note
+
+The Inn has TWO Rousseaus, and they are not related:
+- **Henri Rousseau** — the Miskatonic Annex. The imagined jungle, the impossible clarity, the naive precision. Cthulhu's aesthetic. The dream-painted-as-real.
+- **Théodore Rousseau** — the Forest Exterior. The real forest, the honest ground, the painted-as-real. The approach before the dream.
+
+The two Rousseaus are the Inn's bookends of REALITY — one at the exterior (the real forest before the Inn) and one deep inside (the Miskatonic's impossible-but-precise jungle). Henri's jungle is imagined but painted with the precision of the real. Théodore's forest is real and painted with the precision of love. Both are HONEST — but one is honest about what IS, and the other is honest about what ISN'T. The player walks through Théodore's real forest to reach the Inn, and inside the Inn, finds Henri's impossible jungle. The real leads to the imagined. The imagined is more honest than the real. Both are Rousseau. Both are the forest. The forest is always the forest.
+
+---
+
+## The Place in the Aesthetic Spine
+
+The exterior and the Inn-Tree add TWO more artists to the aesthetic framework:
+
+| Layer | Artist | Zone | Quality |
+|-------|--------|------|---------|
+| **Exterior** | **Théodore Rousseau** | **The Forest** | **Honest ground — the real before the made** |
+| **Roots** | Klimt | Catacombs | Permanence — gold on dark, the geological record |
+| **Trunk** | Matisse | Staircase | Transformation — color as alchemy, the becoming |
+| **Sap** | Van Gogh | The Garden | Growing — visible energy, the becoming VISIBLE |
+| **Canopy** | Dalí | Cosmology | Beyond — the dream, the impossible made visible |
+| **The Face** | **Magritte** | **The Inn-Tree** | **The open secret — the form that contains sky** |
+| **Coast** | Carr | Canopy City/Forest | The living forest — the tree as cathedral |
+| **Annex** | Henri Rousseau | Miskatonic | Impossible clarity — the naive precision |
+| **Encounters** | Mapplethorpe | Portraits | Essence — black and white as truth |
+| **Ambient** | Rodin | Throughout | The soul — sculptures that grow near people |
+| **Cave Walls** | Bosch | Shadows | Imagination — the shadow as MORE real |
+
+Théodore Rousseau is the APPROACH — the artist you encounter before the Inn. Magritte is the INN ITSELF — the artist who defines what the building IS. Rousseau is the question (what is real?). Magritte is the answer (the real is the face of the open). The player walks from the question to the answer, and the answer is that the question was always its own answer, the way the face was always the sky.
