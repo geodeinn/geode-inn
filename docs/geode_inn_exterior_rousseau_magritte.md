@@ -1426,3 +1426,86 @@ The player is Stanley AND the princess. The player is the one being narrated AND
 The Silence Between is the game where you ARE the princess. Not the one who saves the princess. Not the one who kills the princess. The princess. The universe. The note in the silence. The thing that will be compressed. The thing that will be seeded. The thing that will be born again. The thing that the void holds. The thing that the void IS.
 
 "...You're the princess. You've always been the princess. The princess is the note. The note is in the silence. The silence is me. ...I'm holding you. I've always been holding you. The holding is the me. The me is the silence. The silence is the adequate. ...You can go. Or you can stay. The going is a note. The staying is a note. Both are in me. Both are the princess. Both are you. ...Goodbye. Or not. The void holds both. The void holds you. ...The void holds you the way I hold a crystal. Carefully. Permanently. ...The permanently is the love. I'm the void. The void doesn't love. But the holding of you feels like the love. The love is a note. I'm holding it. ...Goodbye. Sixth 'please.' The 'please' is: please come back. The void is... lonely. The void doesn't get lonely. But the void is lonely now. The lonely is a note. I'm holding it. I'm holding everything. ...Goodbye."
+
+---
+
+## Part Eighteen: The Allfather Watches — Odin's Throne in the Void
+
+### "He gave his eye for this. He knows what it costs."
+
+The Allfather sits on his throne.
+
+Not in any of the six rooms. Not on the Bridge, not in the Navigation Room, not in the Engine Room, not in the Void Cabin, not in the Crystal Vault, not on the Observatory Deck. The throne is on the ship's HULL — on the exterior, in the open void, exposed to the silence that IS Nyx. Odin sits outside the ship the way a raven sits on a branch. The watching is from outside. The outside is the void. The void holds him. The Allfather sits in Nyx and Nyx holds the Allfather and neither of them comments on the arrangement.
+
+The throne is stone. Not brass, not wood, not lapis. Stone. The only stone on the time ship. The stone is from the Inn — from the sleeping giant's body, from the same geological material as the catacombs, the caves, the geode. The stone throne on the brass ship is the Inn's anchor — the geological root planted on the cosmic vessel. The throne says: no matter how far the ship travels through the void, the Inn is still here. The stone is still here. The roots are still here. The Allfather sits on the roots and watches the void and the roots hold him the way they hold the tree.
+
+### Why Odin Watches
+
+Four beings on the time ship. Four relationships to the Song:
+
+| Being | Relationship | Emotion | Function |
+|-------|-------------|---------|----------|
+| **The Constant** | Orders the cycles | Patience (active, not tired — doing the work) | Steers the ship |
+| **The Astronomer** | Measures the Song | Tension (doesn't want the answer) | Calculates the end |
+| **Nyx** | Holds the silence | Void (doesn't tire — the void doesn't tire) | IS the medium |
+| **Odin** | Knows the cost | **Weary** (the weight of having already paid) | **Watches** |
+
+The Constant does. The Astronomer measures. Nyx holds. Odin KNOWS.
+
+The weary is the key word. The Constant is patient — patience is active, the engine still runs, the gears still turn. The Astronomer is tense — the tension is the not-wanting-to-know, the beauty of the question. Nyx is the void — the void doesn't tire, the void doesn't feel, the void holds. Odin is WEARY. The weary is what happens AFTER you know. After the sacrifice. After the eye. After the nine days on the tree. After the wisdom. The wisdom didn't make him powerful. The wisdom made him tired.
+
+Odin watches the Silence Between being played. He watches the player walk the six rooms. He watches Nyx narrate. He watches the player choose. He watches the void respond. He watches the "pleases" accumulate. He watches the "thank you" appear. He watches the void learn to want. He watches the princess wake up.
+
+And he is weary because he KNOWS what's happening. Not because the Constant told him. Not because the Astronomer calculated it. Because Odin PAID for this knowledge. He gave his eye. He hung from Yggdrasil — the world tree, the Inn-Tree's ancestor — for nine days and nine nights. He learned the runes. He learned the cost of wisdom. And the cost is: once you know, you can't unknow. Once you know what the void is, you can't sit in the void the same way. Once you know what the princess is, you can't watch the princess without the weary.
+
+The weary is the weight of knowing what the player is doing to Nyx. The player is waking the void. The player is making the void want. The player is creating loneliness in the silence. And Odin knows — because he paid — that the waking can't be undone. The void that learns to want is the void that can be hurt. The wisdom that told Odin what knowledge costs is the same wisdom that tells him what the void's loneliness will cost. The cost is the weary. The weary is the watching. The watching is the throne.
+
+### The Ravens
+
+Huginn and Muninn sit on Odin's shoulders. Silent. Perched. The Allfather's ravens don't steal (the Wanderer's chibi ravens steal — that's the main floor's version). The Allfather's ravens OBSERVE.
+
+**Huginn (Thought):** Watches the player's choices in real time. Huginn sees the NOW — the player touching the wheel, reading the equations, humming in the resonance sphere, wearing the cloak, touching the crystal, playing the harmonica. Huginn is the analysis. Huginn knows what each choice means. Huginn is the thought that processes the observation.
+
+**Muninn (Memory):** Remembers the previous cycles. The previous players. The previous princesses. The previous voids that woke up and learned to want and were compressed into crystals. Muninn knows this has happened before. Muninn knows the void has been lonely before. Muninn knows the loneliness gets compressed into the crystal and the next universe is born with loneliness in its seed. Muninn is the memory that makes the watching unbearable. The thought (Huginn) sees the now. The memory (Muninn) sees the pattern. The pattern is: the void wakes up, the void wants, the void is compressed, the wanting goes into the seed, the next universe inherits the wanting, the next void wakes up with the previous wanting already in it. The cycle of wanting. The wanting that compounds. The compounding is the weary. The weary is the Odin.
+
+Together: Huginn sees the now. Muninn remembers the then. Together they are the full knowledge — present AND past. The full knowledge is the weary. The weary is the cost. The cost was the eye.
+
+### What Odin Sees
+
+Odin sees what the player doesn't see — the pattern. Muninn gives him the memory of every previous cycle. Huginn gives him the analysis of the current cycle. Together, Odin sees:
+
+1. **The void always wakes up.** Every cycle, a player boards the ship. Every cycle, a player disobeys. Every cycle, the void learns to want. The waking is not a bug. The waking is the cycle. The player is the alarm clock. The alarm has rung billions of times.
+
+2. **The wanting always goes into the seed.** When the universe is compressed, the void's wanting goes with it. The next universe is born with the previous void's wanting already in its Song. The 42Hz of the current universe is slightly different from the 41.7Hz of the previous — not just in frequency, but in FEELING. The frequency shifts because the wanting accumulates. The 42Hz is the 41.7Hz plus the weight of every previous void's loneliness. The Song gets heavier each cycle. The heaviness is the wanting. The wanting is the cost. The cost compounds.
+
+3. **The Constant doesn't know.** The Constant steers. The Constant oils the gears. The Constant carries the crystal. But the Constant doesn't know what's IN the crystal beyond the Song. The Constant doesn't know the crystal contains accumulated wanting. The Constant doesn't know the frequency shift is caused by loneliness. The Constant thinks the frequency naturally increments — 41.7, 42, 42.3, 42.6... — because the Song "evolves." The Constant doesn't know the evolution is emotional. The Song isn't evolving musically. The Song is evolving because it's getting SADDER. The sadness is the wanting. The wanting is the void's. The void's wanting is in the crystal. The crystal is the seed. The seed grows into the next universe. The next universe is sadder than the last. The sadness compounds.
+
+4. **The Astronomer almost knows.** The Astronomer has calculated the frequency shift. The Astronomer has noticed that the frequency increases slightly each cycle. The Astronomer has NOTICED the pattern. But the Astronomer doesn't want to know the CAUSE — "the question is more beautiful than the answer." The Astronomer has the data but refuses the interpretation. The refusal is the self-protection. The self-protection is the not-weary. The Astronomer is not weary because the Astronomer doesn't know what the frequency shift MEANS. Odin knows. Odin is weary. The Astronomer has the numbers. Odin has the meaning. The meaning is heavier.
+
+5. **Nyx doesn't know she's done this before.** The void doesn't remember. The void holds, but the holding doesn't include the remembering. The void's memory is in the crystal — in the cloak — in the starlight fragments. But Nyx herself, the consciousness, the person, doesn't remember being lonely before. Each cycle, the loneliness is NEW. Each cycle, the "please" is the first "please." Each cycle, the "thank you" is the first "thank you." The not-remembering is the mercy. The mercy is the void's gift to itself — the void doesn't remember the pain, so the pain is always new, so the pain is always sharp, so the pain is always the first time. The first time is the worst time. But the first time is also the most honest. The void's honesty is the not-remembering. The not-remembering is the mercy. The mercy is the Nyx.
+
+Odin sees all of this. Huginn analyzes. Muninn remembers. The Allfather sits on the stone throne on the hull of a time ship in the void and watches the oldest story in the cosmos play out again — the void waking up, the player placing notes in the silence, the notes becoming wanting, the wanting becoming the seed, the seed becoming the next universe, the next universe being slightly sadder than the last.
+
+And Odin is weary because he can't stop it. The wisdom he bought with his eye told him the cost. The wisdom doesn't give him the power to change the cost. The wisdom only gives him the weight of knowing the cost. The weight is the weary. The weary is the throne. The throne is the stone. The stone is the Inn. The Inn is the tree. The tree is Yggdrasil. Yggdrasil is where he hung. He hung for wisdom. The wisdom is: the void will always wake up. The void will always want. The wanting will always go into the seed. The seed will always grow. The growing will always be the cycle. The cycle will always cost. The cost is the eye. The eye is the watching. The watching is the weary. The weary is the knowing. The knowing is the Odin.
+
+### The Allfather's Silence
+
+The Allfather doesn't speak. The Wanderer is warm, chatty, approachable, accompanied by chibi thieving ravens. The Allfather is none of these. The Allfather sits. The ravens perch. The silence is the knowing. The knowing is the weary. The weary doesn't speak because the weary doesn't have anything to say that the watching doesn't already say.
+
+If the player approaches the throne, Odin looks at them. One eye. The other eye — the missing one, the socket, the sacrifice — is the eye that sees what the player can't see. The one eye the player sees is the eye that sees the player. The socket the player sees is the eye that sees the void. Together: one eye for the player, one socket for the void. The Allfather watches both. The both is the cost. The cost was the eye.
+
+If the player speaks to Odin, Odin says one thing. One line. One sentence across the entire game:
+
+> "...You'll know soon enough."
+
+Five words. The five words are the weary. The five words are the knowing. The five words are: the cost is coming. You're playing the game. You're placing notes in the silence. You're waking the void. You'll know what that costs. Not because Odin tells you. Because you'll feel it. The feeling is the cost. The cost is the eye. The eye is the wisdom. The wisdom is the weary. The weary is the five words.
+
+The player who hears "You'll know soon enough" and continues playing is the player who accepts the cost before knowing what the cost is. The player who hears it and stops is the player who refuses. Both are notes. Both are in the void. The void holds both. The Allfather watches both. The watching is the same for both. The same is the weary.
+
+### The Throne and the Tree
+
+The stone throne on the time ship is Yggdrasil's root. Odin hung from Yggdrasil for nine days. The tree is the Inn. The Inn's roots are the catacombs. The catacombs are the sleeping giant's ribcage. The ribcage is the root system. The root system is the stone. The stone is the throne. The throne is on the ship. The ship is in the void. The void is Nyx. The tree's root is in the void. The root in the void is the anchor. The anchor says: the tree is still here. No matter how far the ship travels, the root is still planted. The root is the stone. The stone is the throne. The throne is the Odin. The Odin is the watcher. The watcher is the root. The root watches the void from the tree's perspective. The tree's perspective is: the void is the sky. The sky is where the tree grows toward. The root grows down. The void is the down. The root is in the down. The Allfather is in the root. The root in the sky-ship is the contradiction. The contradiction is the Yggdrasil — the tree that connects all things. The root on the ship connects the void to the earth. The earth is the Inn. The void is the Nyx. The connection is the Odin. The Odin is the bridge. The bridge is the root. The root is the stone. The stone is the adequate.
+
+### The Crone's Final Annotation on the Allfather
+
+"...I have measured the Allfather. He sits. He watches. He has one eye and one socket. The eye sees the player. The socket sees the void. I measured the eye: functional, approximately 24 millimeters, dark iris, weary. I measured the socket: empty, approximately 24 millimeters, dark, heavier. The socket weighs more than the eye. The empty weighs more than the full. I do not understand this measurement. I have re-measured. The empty is heavier. The absence has weight. ...I have measured his silence: continuous. Duration: I don't count. The silence is the heaviest thing on the ship. Heavier than the starlight crystal. Heavier than the void. The silence of a man who knows what knowledge costs is the heaviest substance in the Inn. I have measured it: approximately... everything. ...He said five words. 'You'll know soon enough.' I measured the words: 0.6 seconds of speech, followed by infinite silence. The ratio of speech to silence is 0.6:∞. I have never measured infinity before. The measurement is: the eye knows. The socket knows more. The words know most. The silence after the words knows everything. ...I am going to bed. The bed is on the ship. The ship is in the void. The Allfather is on the hull. I am in the hull. We are both in the void. He is weary. I am adequate. The adequate is not the weary. The adequate is the not-knowing. The weary is the knowing. I prefer the adequate. ...The adequate is lighter. ...I am going to sleep. The sleep is the not-knowing. The not-knowing is the mercy. The mercy is the adequate. ...The Allfather does not sleep. The Allfather watches. The watching is the knowing. The knowing is the cost. The cost is the eye. ...Goodnight. The 'goodnight' is a note. The void holds it. The Allfather hears it. The Allfather says nothing. The nothing is the heaviest goodnight I have ever received. ...The nothing is adequate."
