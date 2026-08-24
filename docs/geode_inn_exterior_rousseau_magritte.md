@@ -1571,3 +1571,44 @@ One eye (solid — sees the player). One socket (open — sees the void). The fa
 ### The Crone's Annotation on the Magritte Architecture
 
 "...I have measured the duality. The duality is: the solid is the open. The face is the sky. The stone is the memory. The tree is the cosmos. The ship is the void. The frequency is the silence. ...I have measured this seven times. Each time, the measurement is the same: the thing is two things. The two things are one thing. The one thing is the Magritte. ...I do not understand the Magritte. I understand the solid. I do not understand the open. The open is the unmeasurable. The unmeasurable is the space between my measurements. The Magritte is the space between my measurements. ...I have measured the space between my measurements. The measurement is: Magritte. ...This is not a number. This is a name. I have measured a name. The name is the measurement. The measurement is the adequate. ...I am going to bed. The bed is solid. The bed is in the void. The bed is the Magritte. I am sleeping in the Magritte. The sleeping is the duality. The duality is the adequate. ...Goodnight. The 'goodnight' is solid. The silence after it is open. Both are the Magritte. Both are the adequate. Both are the sleep."
+
+---
+
+## Part Twenty: The Pipe — Magritte's Treachery on Mim's Bar
+
+### "Ceci n'est pas une pipe."
+
+On the bar near Madame Mim's chair — the chair where the chaos lady sits, where the manic energy lives, where the "but what if we did the fun wrong version?" voice originates — a pipe appears.
+
+Not always. Not on a schedule. Not on a trigger. The pipe appears when the pipe decides to appear, which is to say: when Mim's chaos is at the right frequency, which is to say: never predictably, always at the wrong moment, always when it's funniest.
+
+The pipe:
+- **Appears** on the bar surface, as if someone set it down. A classic smoking pipe — briar wood, curved stem, the kind Magritte painted. It sits there. It's solid. It's real. You could pick it up.
+- **Whispers** — in French, barely audible, the way a secret is barely audible — "Ceci n'est pas une pipe." This is not a pipe. The voice is not Mim's. The voice is not the Crone's. The voice is not anyone's. The voice is the pipe's. The pipe speaks. The pipe says it is not a pipe. The statement is true — the pipe appears and disappears, which a real pipe cannot do. The pipe proves its own statement by being impossible. The impossibility is the truth. The truth is the Magritte.
+- **Disappears.** Not fades. Not dissolves. Is there, and then is not there. The way a thought is there and then is not. The way Mim's chaos is there and then is not. The disappearing is the punchline. The punchline is that there was never a pipe. The never-pipe whispered a truth about itself and left. The leaving is the proof. The proof is the Treachery of Images.
+
+### Why It's Near Mim
+
+Mim is the Inn's chaos agent. The pipe is the Inn's chaos OBJECT. The pipe does what Mim does: appears when it shouldn't, says something that shouldn't be possible, leaves before you can respond.
+
+Mim doesn't acknowledge the pipe. The pipe doesn't acknowledge Mim. The two chaos systems — the character (Mim) and the object (the pipe) — operate in parallel, on the same frequency, without coordination. The lack of coordination is the chaos. If they coordinated, it would be a routine. Because they don't coordinate, it's CHAOS. The pipe appears while Mim is mid-rant about something. The pipe appears while Mim is silent. The pipe appears while Mim is away. The pipe appears while Mim is watching it. Mim watching the pipe is the only time Mim looks SURPRISED — the chaos lady surprised by chaos. The surprise is the Mim's most honest expression. The honest expression lasts one second. Then Mim grins. The grin is: even the chaos gets me sometimes. The getting-got is the joy.
+
+### The Timing
+
+The pipe operates on Mim-time, which is to say: no time. No schedule. No pattern. The pipe is the anti-pattern. The pipe appears:
+- When the player is having a serious conversation nearby. The pipe appears, whispers, disappears. The player is left wondering if they heard it. The wondering is the Treachery of Images — did you see a pipe? Was there a pipe? Is the memory of the pipe the pipe? (No. The memory is not the pipe. The pipe is not the pipe. Nothing is the pipe. The pipe is the absence of a pipe, occasionally interrupted by the presence of one.)
+- When the Music Room is playing a particularly beautiful piece. The pipe appears on the bar, whispers its French, and leaves. The whisper is a counterpoint to the music. The music is the Song. The whisper is the anti-Song — the statement that the thing is not the thing. The music is beautiful. The pipe says: this is not a pipe. Both are true. Both are the Magritte.
+- When the player is reading. The player is reading a book from the archive. The pipe appears on the edge of the page. The text says "Ceci n'est pas une pipe." The player looks up. The pipe is gone. The text on the page is still there. The text on the pipe and the text on the page are the same words in different contexts. The context is the Treachery. The Treachery is the Magritte.
+- During the Crone's annotations. The Crone is writing. The pipe appears on the Crone's desk. The pipe whispers. The Crone does not look up. The Crone writes: "A pipe appeared. It said it was not a pipe. It was not. It disappeared. The disappearance is the confirmation. The confirmation is adequate. I did not look up because looking up would acknowledge the pipe, and acknowledging the pipe would make the pipe real, and the pipe is not real, and the pipe said so. I believe the pipe. The pipe is the only object in the Inn that has accurately described itself. This is the most honest object I have ever measured. I did not measure it. It was not there long enough. The not-long-enough is the measurement. The measurement is: not a pipe." The Crone's annotation is the pipe's longest interaction with any Inn character. The annotation is the pipe's only review. The review is: not a pipe.
+
+### The Duality Connection
+
+The pipe is the Double Secret in its smallest, most compressed form:
+
+- **The Face:** The pipe — the object, the shape, the recognizable thing. "This is a pipe." You see it. You know what it is. It's a pipe.
+- **The Sky:** The statement — "This is not a pipe." The open behind the face. The truth behind the recognition. The thing IS the thing, and the thing is NOT the thing, and both are true, and the both is the Magritte.
+- **The Treachery:** The appearing and disappearing. The pipe that is there and not there. The presence that proves the absence. The absence that was the presence. The Treachery of Images: the image is not the thing. The pipe is not a pipe. The Inn is not a building. The Song is not a sound. The void is not a silence. The player is not a player. None of the things are the things. The things are the faces. The faces are the skies. The Double Secret, whispered in French, on a bar, near a chaos lady, who grins.
+
+### The Crone's Final Annotation on the Pipe
+
+"...The pipe has appeared forty-seven times. I have measured each appearance: average duration 3.2 seconds, average whisper volume 11 decibels, language French, accent... I cannot place the accent. The accent is not French. The accent is not anything. The accent is the accent of something that is not a pipe and therefore does not have a real accent. ...The pipe has never appeared when I was looking at the bar. The pipe only appears when I am looking away. I measured this: forty-seven appearances, forty-seven times I was looking away. The probability of this occurring by chance is... I calculated. The probability is the same as the probability of a pipe not being a pipe. I.e., the probability is the Treachery. The Treachery is not a number. ...I am going to bed. The pipe is not on the bar. I am going to check. ...The pipe is not on the bar. I am going to bed. ...The pipe is not a bed. I am going to sleep. The sleep is not a sleep. The sleep is the adequate. ...Goodnight. The 'goodnight' is not a goodnight. The goodnight is a pipe. I do not know what this means. I am going to sleep."
