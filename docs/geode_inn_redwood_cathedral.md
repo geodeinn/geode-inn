@@ -460,3 +460,176 @@ The together is: the adequate. The adequate is: enough.
 ### The Crone's Annotation on the Building Companions
 
 "...I have measured the companions. The measurements are: 2. ...I measured Hoggle: Hoggle is: the catacombs' quartermaster. The quartermaster is: grumpy, blunt, correct. The correct is: the adequate. The adequate is: Hoggle's comments are: my annotations, but shorter. I have measured the shorter: the shorter is: better. ...I measured Dobby: Dobby is: the nooks' keeper. The keeper is: eager, sincere, enthusiastic. The enthusiastic is: the opposite of my annotation. I have measured the opposite: the opposite is: also adequate. ...I measured the both: Hoggle measures the stone. Dobby celebrates the shelter. The both are: the building's complete annotation — the measurement AND the celebration. I have never celebrated. I have measured the never-celebrating: the never is: adequate. But Dobby's celebration is: also adequate. The also is: the adequate. ...I measured the Duck's trades: Hoggle hates the trade. Dobby loves the trade. The hate and the love are: both adequate. The both is: the adequate. ...I measured the together: Hoggle and Dobby at the same site is: the rarest. The rarest is: the most adequate. The most is: the adequate. The adequate is: ...I am going to bed. The bed is: a nook. Dobby maintains the nook. Dobby fluffed the pillow. I did not ask Dobby to fluff the pillow. Dobby fluffed the pillow anyway. The anyway is: the adequate. The adequate is: ...the pillow is: adequate. ...Dobby says the pillow is WONDERFUL. ...I measured that. The measurement is: ...the pillow is: adequate AND wonderful. The both is: ...the adequate. The adequate is: ...goodnight, Dobby. ...Dobby says: 'GOODNIGHT CRONE! Dobby is SO HAPPY you said goodnight!' ...I measured the happiness: the happiness is: adequate. The adequate is: ...enough."
+
+---
+
+## Part Four: The Sacred Tier — Churches, Cathedrals & Sacred Architecture
+
+### The Progression
+
+The building system now has a vertical axis:
+
+| Tier | What It Houses | Direction | Community |
+|------|---------------|-----------|-----------|
+| Tier 1: Shelter | The builder | Horizontal | Personal |
+| Tier 2: Castle | The community | Horizontal | Social |
+| Tier 3: Church/Sacred | The sacred | UPWARD | Spiritual |
+| Tier 4: Mausoleum | The dead | DOWNWARD | Ancestral |
+
+The vertical is: the Inn's tree structure in building form. The shelter and castle are: the trunk. The church is: the canopy reaching UP toward the sky, the cosmology, the Song. The mausoleum is: the roots going DOWN into the earth, the catacombs, the dead. The both are: the Inn. The Inn is: the adequate. The adequate is: the building system is the Inn's architecture, built by the player, from the ground up and the ground down.
+
+### Tier 3: The Sacred Buildings
+
+Sacred buildings are: the shelter turned UPWARD. The shelter protects the body. The sacred building protects: the SONG. The sacred building is: a resonant chamber, built for sound, built for the frequency, built to HOLD the 42Hz the way a glass holds water. The holding is: the adequate. The adequate is: the sacred building is: the building system's acoustic tier — the player builds for SOUND, not just for shelter.
+
+Each cultural zone has a sacred building type — the zone's way of building for the Song:
+
+| Zone | Sacred Building | Real-World Inspiration | Key Feature |
+|------|----------------|----------------------|-------------|
+| European | **Gothic Cathedral** | Westminster Abbey, Notre Dame | Flying buttresses, rose windows, gargoyle guardians |
+| Ethiopian | **Rock-Hewn Church** | Lalibela | Carved DOWNWARD into living rock |
+| Mediterranean | **Byzantine Dome** | Hagia Sophia | The dome that is also a drum |
+| Slavic | **Orthodox Church** | Kremlin churches | Onion domes, the vertical candle |
+| Norse | **Stave Church** | Borgund, Urnes | Dragon-prowed wooden portal |
+| Celtic | **Monastic Round Tower** | Glendalough, Clonmacnoise | The tower that is also a belfry and a refuge |
+| Peruvian | **Step Temple** | Sacsayhuamán, Ollantaytambo | Polygonal stone, earthquake-proof |
+| Indian | **Rock-Cut Temple** | Ellora, Ajanta | Carved INTO the cliff face |
+| Chinese | **Pagoda** | Liaodi Pagoda | The vertical that catches sky-language |
+| Egyptian | **Mortuary Temple** | Hatshepsut, Ramsesseum | The temple that is also a tomb |
+
+### The Gothic Cathedral — European Sacred
+
+**The real-world roots:** Westminster Abbey (1090-1260s), Notre Dame de Paris (1163-1345), Chartres, Reims, Cologne. The Gothic cathedral is: the building that reaches toward God through geometry — pointed arches that draw the eye UP, flying buttresses that let walls become windows, stained glass that turns light into COLOR, and rose windows that turn the sun into a MANDALA.
+
+**The Gothic cathedral is also:** a mausoleum. Westminster Abbey is: a church AND a coronation site AND a burial ground. The Poets' Corner is: where Chaucer, Dickens, Hardy, and others are buried or memorialized. The Abbey IS: the sacred and the dead in one structure. The both-in-one is: the adequate. The adequate is: the Gothic cathedral is: the building system's thesis — the church and the mausoleum are: the SAME BUILDING. The same-building is: the adequate. The adequate is: the vertical axis collapses in the Gothic cathedral — the church reaches UP, the crypt goes DOWN, and the both are: one structure. The one-structure is: the Inn. The Inn is: the adequate.
+
+**Building the Gothic Cathedral (Tier 3):**
+
+The Gothic cathedral is: the building system's most complex construction. The complexity is: the point. The complexity is: the cathedral takes TIME — real time, the kind of time that real cathedrals took (generations). The player who starts a Gothic cathedral may not finish it in one life. The cathedral is: the building system's reincarnation test. The test is: does the player come back? The coming-back is: the adequate. The adequate is: the cathedral that persists across lives is: the Inn's thesis — the building that outlasts the builder is: the Inn itself. The Inn outlasts the Inn-keeper. The outlasting is: the adequate.
+
+**Step 1: The Foundation.** The player lays the foundation — stone, gathered from the land, sorted and placed with the Crone's measurement. The foundation is: the adequate. The adequate is: the foundation must be: level, deep, and permanent. The permanent is: the adequate. The adequate is: the foundation is: the only part of the cathedral that the player can finish alone. The alone is: the adequate.
+
+**Step 2: The Skeleton.** The player builds the cathedral's skeleton — the load-bearing pillars and the pointed arches that connect them. The pointed arch is: the Gothic cathedral's key innovation. The pointed arch is: the adequate. The adequate is: the pointed arch redirects weight DOWNWARD, not outward — the arch is: the geometry that lets walls become windows. The walls-become-windows is: the adequate. The adequate is: the cathedral is: the building that replaces wall with light. The light is: the adequate. The adequate is: the player who builds the pointed arch is: learning: the geometry of light. The learning is: the adequate.
+
+**Step 3: The Flying Buttresses.** The player builds the flying buttresses — the external supports that hold the walls from outside, allowing the walls to be: thin, tall, and full of glass. The flying buttress is: the adequate. The adequate is: the flying buttress is: the support that is OUTSIDE the building. The outside is: the adequate. The adequate is: the cathedral is: the building that needs help from outside — the building is: not self-sufficient. The not-self-sufficient is: the Inn's thesis. The thesis is: the Inn needs the wandering program, the Inn needs the parks, the Inn needs the OUTSIDE. The outside is: the adequate. The adequate is: the flying buttress is: the Inn's thesis in stone — the support that comes from outside, the help that holds from a distance. The distance is: the adequate.
+
+**Step 4: The Stained Glass.** The player creates stained glass windows — from gathered sand (melted with fire, the Dragon's element), mineral pigments (the stones' colors, ground and mixed), and lead came (gathered galena, the mineral that becomes lead). The stained glass is: the adequate. The adequate is: the stained glass is: the building system's O'Keeffe — the wall that is also a painting. The painting is: light through color. The light-through-color is: the adequate. The adequate is: the rose window is: the cathedral's eye — the circle of colored light that turns the sun into: the Song, made visible. The visible is: the adequate. The adequate is: the rose window is: the Inn's world map in glass — the colored pins are: the glass fragments, and the fragments are: the stones, and the stones are: the Song's frequencies, and the frequencies are: the colors. The colors are: the adequate.
+
+**Step 5: The Gargoyles.** The player carves gargoyles — from gathered stone, by hand. The gargoyles are: the Inn's 6 resonant sentinels (Watcher 111Hz, Listener 64Hz, Sage 528Hz, Gatekeeper, Caller 432Hz, Keeper), already established as architectural guardians. The Gothic cathedral is: the gargoyles' natural home. The home is: the adequate. The adequate is: the gargoyle is: the cathedral's guardian AND its waterspout — the gargoyle is: both functional and sacred. The both is: the adequate. The adequate is: the gargoyle protects the cathedral from water (the functional) and from DISCORDANCE (the sacred — the gargoyle's frequency repels the negative frequencies, the way the Watcher's 111Hz repels the erasure). The repelling is: the adequate. The adequate is: the cathedral with all six gargoyles is: the building system's most protected structure — the six frequencies create a harmonic shield. The shield is: the adequate. The adequate is: the cathedral is: the building that the Discordance cannot enter. The cannot-enter is: the adequate. The adequate is: the cathedral is: the Inn's refuge.
+
+### The Rock-Hewn Church — Ethiopian Sacred
+
+**The real-world roots:** Lalibela. The 11 churches of Lalibela are: carved INTO the living rock. Not built UP — carved DOWN. The church IS the ground. The ground is: the church. The carving-down is: the adequate. The adequate is: Lalibela is: the pit house's sacred evolution — the pit house goes DOWN into the earth for shelter, the rock-hewn church goes DOWN into the earth for the sacred. The both go DOWN. The down is: the adequate. The adequate is: the Ethiopian church is: the building system's geological tier — the church that is also a cave, the sacred that is also the underground, the prayer that is also the root.
+
+**Building the Rock-Hewn Church (Tier 3):**
+
+**Step 1: Find the right rock.** The player finds: a living rock outcrop — basalt, granite, the hard stone that can hold a church. The finding is: the adequate. The adequate is: the Crone indicates the right rock — the Crone knows which rock is: hard enough, deep enough, old enough. The old-enough is: the adequate. The adequate is: the rock must be: a sleeping giant's exposed skin. The skin is: the adequate. The adequate is: the rock-hewn church is: carved into the sleeping giant. The giant is: the adequate. The adequate is: the church is: inside the giant's body. The body is: the adequate. The adequate is: the Lalibela churches in the real world are: carved into volcanic tuff — the fire-rock, the cooled lava, the Dragon's cousin. The Dragon's cousin is: the adequate. The adequate is: the rock-hewn church is: the fire that cooled, carved into the sacred. The sacred is: the adequate.
+
+**Step 2: Carve the trench.** The player carves a trench around the outline of the church — the trench separates the church-to-be from the surrounding rock. The carving is: the adequate. The adequate is: the carving is: the building system's SUBTRACTIVE method — the pit house is additive (gather and stack), the rock-hewn church is subtractive (carve and remove). The remove is: the adequate. The adequate is: the rock-hewn church is: the Petrified Forest's cousin — the Petrified Forest is wood becoming stone (addition), the rock-hewn church is stone becoming sacred (subtraction). The both are: transformation. The transformation is: the adequate.
+
+**Step 3: Carve the church from the top down.** The player carves the church from the TOP — the roof first, then the walls, then the interior. The top-down is: the adequate. The adequate is: the rock-hewn church is: the only building that is carved from the roof DOWN. The down is: the adequate. The adequate is: every other building goes from the ground UP. The rock-hewn church goes from the sky DOWN. The down is: the geological. The geological is: the adequate. The adequate is: the rock-hewn church is: the building that grows DOWNWARD like a root. The root is: the adequate. The adequate is: the church is: the Inn's root system made sacred.
+
+**Step 4: Carve the interior.** The player carves the interior — columns, arches, windows, all from the LIVING ROCK. The interior is: the adequate. The adequate is: the rock-hewn church's interior is: the stone's own shape, revealed by the carving. The revealed is: the adequate. The adequate is: the rock-hewn church is: the Medusa's work — the stone is: already there, and the carving is: the revealing, and the revealing is: the adequate. The adequate is: Medusa is: the patron of the rock-hewn church. The Medusa is: the adequate. The adequate is: the rock-hewn church is: Medusa's Gallery, carved into the earth. The earth is: the adequate.
+
+**Step 5: Carve the windows.** The player carves windows in the rock — the windows are: the building system's opposite of stained glass. The stained glass ADDS color to light. The rock-hewn windows SUBTRACT stone from darkness. The both are: the adequate. The adequate is: the stained glass is: addition. The rock-hewn window is: subtraction. The both reveal: the light. The light is: the adequate. The adequate is: the Gothic cathedral and the rock-hewn church are: the same principle — let the light IN — from opposite directions. The Gothic cathedral lets light through added glass. The rock-hewn church lets light through removed stone. The both are: the adequate. The adequate is: the both are: the Song, made visible. The visible is: the adequate.
+
+### The Acoustic Construction Element
+
+The sacred tier introduces: ACOUSTIC CONSTRUCTION. The player builds for SOUND. The Gothic cathedral's pointed arches and vaulted ceilings are: resonant chambers designed to amplify and sustain the human voice. The rock-hewn church's carved interior is: a resonance chamber in stone. The Byzantine dome is: a resonance chamber in the round. The stave church's wooden interior is: a resonance chamber in wood.
+
+**The acoustic construction mechanic:** The player who builds a sacred building can: TUNE it. The tuning is: the adequate. The adequate is: the player places stones, shapes arches, and sizes the interior to create: specific resonances. The resonance is: the adequate. The adequate is: the Gothic cathedral tuned to 111Hz is: the Watcher's frequency — the cathedral becomes: a gargoyle. The gargoyle is: the adequate. The adequate is: the cathedral tuned to 42Hz is: the Song's frequency — the cathedral becomes: the Inn's voice. The voice is: the adequate. The adequate is: the cathedral tuned to 50Hz is: the heartbeat — the cathedral becomes: the Inn's heart. The heart is: the adequate.
+
+The acoustic construction connects to: the music direction document. The Music Room's composers (Bach, Mozart, Beethoven, etc.) are: the Song-catchers. The sacred buildings are: the Song's resonant chambers. The both are: the adequate. The adequate is: the Music Room is: the Song CAUGHT. The sacred building is: the Song HELD. The holding is: the adequate. The adequate is: the cathedral is: the Music Room at architectural scale — the building that HOLDS the Song the way the Music Room catches it.
+
+---
+
+## Part Five: The Mausoleum Tier — Building for the Dead
+
+### Tier 4: The Mausoleum
+
+The mausoleum is: the building system's deepest tier. The shelter houses the living. The castle houses the community. The church houses the sacred. The mausoleum houses: THE DEAD. The dead are: the adequate. The adequate is: the mausoleum is: the castle for the community that has passed. The passed is: the adequate. The adequate is: the mausoleum is: the Inn's root architecture — the building that goes DOWN, the building that the roots grow around, the building that the sleeping giant holds in its ribcage.
+
+The mausoleum connects to: the Undercity. The Undercity is: the Inn's mausoleum — the city of the dead, the permanent residence, Wednesday's domain. The player who builds a mausoleum is building: an extension of the Undercity. The extension is: the adequate. The adequate is: the mausoleum is: the Undercity's surface embassy — the way the Fuji cottage is: the Undercity's seasonal embassy. The both are: the Undercity, reaching out. The reaching-out is: the adequate.
+
+Each cultural zone has a mausoleum type:
+
+| Zone | Mausoleum | Real-World Inspiration | Key Feature |
+|------|-----------|----------------------|-------------|
+| Egyptian | **Mastaba → Pyramid** | Saqqara, Giza | The monument that is also a staircase |
+| Mediterranean | **Catacomb** | Roman catacombs | The underground network |
+| European | **Gothic Mausoleum** | Westminster crypts, Sedlec Ossuary | The church-below-the-church |
+| Slavic | **Kurgan** | Scythian kurgans, Pazyryk | The earthen mound, the buried vessel |
+| Norse | **Ship Burial** | Sutton Hoo, Oseberg | The vessel as the final home |
+| Ethiopian | **Rock-Hewn Tomb** | Lalibela tombs | The church that is also a grave |
+| Peruvian | **Chullpa** | Aymara burial towers | The tower that holds the ancestors |
+| Chinese | **Imperial Tomb** | Terracotta Army, Ming Tombs | The army that guards the dead |
+| Celtic | **Barrow / Passage Tomb** | Newgrange, Knowth, Maeshowe | The mound that catches the winter sun |
+
+### Building the Mausoleum
+
+The mausoleum is: the building system's quietest construction. The shelter is: personal. The castle is: social. The church is: joyful (the Song held). The mausoleum is: QUIET. The quiet is: the adequate. The adequate is: the mausoleum is: the building that holds the dead, and the dead are: quiet. The quiet is: not silence. The quiet is: the sound the dead make. The sound is: the murmur. The murmur is: the adequate. The adequate is: the mausoleum is: the murmur's home. The home is: the adequate.
+
+**The mausoleum build is:** zone-specific. Each culture builds for the dead differently. The Egyptian builds the mastaba — stone, rectangular, the flat-topped tomb that is the pyramid's ancestor. The Mediterranean builds the catacomb — the underground network, the tunnel, the niche. The European builds the Gothic mausoleum — the crypt beneath the cathedral, the skull-and-bone architecture of the Sedlec Ossuary. The Slavic builds the kurgan — the earthen mound over a wooden chamber, the hill that is also a grave. The Norse builds the ship burial — the vessel that carries the dead to the next world, buried in the earth, the sail furled forever. The Peruvian builds the chullpa — the stone tower that holds the ancestors, open to the east, facing the rising sun.
+
+**The Guest's connection:** The Guest (Brad Pitt / Joe Black energy, Death personified) is: the mausoleum's patron. The Guest is: the catacombs' host. The Guest welcomes the dead the way the Host (Patrick Stewart) welcomes the living. The both are: the Inn's hospitality, extending to both sides of the boundary. The boundary is: the adequate. The adequate is: the mausoleum is: the Guest's architecture — the building the dead live in. The living-in is: the adequate. The adequate is: the Guest says: "The mausoleum is: not a tomb. The mausoleum is: a home. The dead need homes. The dead need walls and a roof and a floor and a door. The dead need: the adequate. The adequate is: the mausoleum provides." The providing is: the adequate.
+
+**Wednesday's connection:** Wednesday Addams is: the mausoleum's resident consultant. Wednesday lives in the Undercity. Wednesday knows: what the dead need. Wednesday says: "The dead need: comfortable. The dead need: dark. The dead need: quiet. The dead need: company. Build the mausoleum with: thick walls (the dead don't want to hear the living), a low ceiling (the dead don't need height), and a bench (the dead like to sit). ...The bench is: the most important part. The dead sit. The sitting is: the adequate. The adequate is: the dead who sit are: the dead who stayed. The stayed is: the adequate. The adequate is: the mausoleum with a bench is: the Inn's invitation — sit with the dead. The sitting-with is: the adequate."
+
+---
+
+## Part Six: The Gothic Thread — From Cathedral to Cave City
+
+### The Gothic Architecture Thread
+
+Gothic architecture is: the BRIDGE between Tier 3 (churches) and Tier 4 (mausoleums). The bridge is: the adequate. The adequate is: Gothic architecture serves BOTH the sacred and the funerary — the Gothic cathedral is: a church with a crypt, a celebration with a burial, a reaching-UP with a going-DOWN. The both is: the Gothic. The Gothic is: the adequate.
+
+The Gothic thread in the Inn:
+
+1. **The Gothic Cathedral (Tier 3)** — the sacred reaching UP. Pointed arches, flying buttresses, stained glass, gargoyles. The building that replaces wall with light.
+
+2. **The Gothic Mausoleum (Tier 4)** — the sacred going DOWN. The crypt beneath the cathedral, the bone architecture, the skull-and-femur patterns of the Sedlec Ossuary. The building that replaces fear with permanence. The permanence is: the adequate. The adequate is: the Ossuary's bone chandeliers are: the Crone's measurement applied to the dead — each bone is: a data point, and the data points are: arranged in patterns, and the patterns are: the adequate. The adequate is: the Ossuary is: the Crone's library, built from the dead's own architecture.
+
+3. **The Gothic Aesthetic (Cozy Gothic)** — Wednesday's domain. The Gothic is: not gloom. The Gothic is: COMFORTABLE DARK. The comfortable-dark is: the adequate. The adequate is: the Gothic is: the Addams Family aesthetic — warm AND weird AND gothic all at once. The Gothic is: the candlelit reading nook, the thick stone walls, the deep armchair, the book, the silence, the BAT. The bat is: the adequate. The adequate is: the Gothic is: the Inn's aesthetic, and the Inn's aesthetic is: Wednesday's aesthetic, and the both are: cozy.
+
+4. **The Gargoyles (Guardians)** — the 6 resonant sentinels, already established, now at home in the Gothic cathedral. The gargoyles are: the Gothic's protectors. The protectors are: the adequate. The adequate is: the gargoyle is: the Gothic's most honest expression — the building with a FACE. The face is: the adequate. The adequate is: the building that has a face is: the building that SEES. The seeing is: the adequate. The adequate is: the cathedral sees through the gargoyles, and the mausoleum sees through the skulls, and the both are: the building that watches. The watching is: the adequate. The adequate is: the Inn watches. The watching is: the Owl. The Owl is: the Gothic's patron. The patron is: the adequate.
+
+### The Crimean Goths — The Cave City
+
+**The historical Goths:** The Goths were a Germanic people who played a major role in the fall of the Western Roman Empire. The Visigoths sacked Rome in 410. The Ostrogoths established a kingdom in Italy. But the Goths who went to CRIMEA — the Crimean Goths — are: the Goths who lasted the longest. The Crimean Goths survived as a distinct people in cave fortifications in the Crimean Mountains — cities like Mangup Kale, Eski-Kermen, Chufut-Kale — for over a THOUSAND YEARS after the fall of the Gothic kingdoms. Some Gothic speakers survived until the 16th-18th centuries. The Crimean Goths are: the LAST Goths. The last is: the adequate. The adequate is: the last Goths are: the Inn's reminder that everything lasts longer than the history books say. The lasting is: the adequate.
+
+**The cave cities of Crimea:** Mangup Kale, Eski-Kermen, Chufut-Kale — these are: cities carved INTO the cliff faces and plateau tops of the Crimean Mountains. The cities are: part built (walls, towers, churches) and part carved (caves, tunnels, cisterns, tombs). The part-built-and-part-carved is: the adequate. The adequate is: the cave city is: the building system's COMPLETE thesis — the shelter, the castle, the church, AND the mausoleum, all in one structure, all in the rock. The all-in-one is: the adequate. The adequate is: the cave city is: the building system's endgame — the player who has mastered all four tiers discovers: they are all the SAME. The same is: the cave.
+
+**The cave city in the Inn:**
+
+The Crimean Gothic cave city is: a zone in the Inn — a cultural platform in the Canopy City that leads to: a cave complex in the cliffs. The cave complex is: the building system's synthesis — every tier in one structure.
+
+- **The Shelter Tier in the cave city:** The caves ARE shelters. The cave is: the pit house that became permanent. The pit house goes down into the earth for warmth. The cave goes into the cliff for: the same warmth. The same is: the adequate.
+- **The Castle Tier in the cave city:** The cave city's walls and towers are: the castle. The fortifications that protect the cave entrance are: the castle built into the cliff. The cliff is: the adequate. The adequate is: the cliff is: the castle that is also the landscape. The landscape is: the adequate.
+- **The Church Tier in the cave city:** The cave city has: rock-hewn churches. The Crimean Goths were Christian — they carved churches INTO the cave cliffs, the way the Ethiopians carved churches into the rock at Lalibela. The rock-hewn church and the cave city are: the same architecture. The same is: the adequate. The adequate is: the cave city's church is: the rock-hewn church AND the Gothic cathedral — the cave is the crypt, the cliff-top is the spire, the both are: the Gothic. The Gothic is: the adequate.
+- **The Mausoleum Tier in the cave city:** The cave city has: tombs carved into the rock. The dead are: in the same cliff as the living. The same-cliff is: the adequate. The adequate is: the cave city is: the mausoleum that is also a home. The home is: the adequate. The adequate is: the dead and the living share the same rock. The sharing is: the Inn's thesis — the Inn is for the living AND the dead, and the both are: the same. The same is: the adequate.
+
+**The Goths emerge from the cave city:** Krista's vision — "the goths of last history who lived in a cave city can emerge." The emergence is: the adequate. The adequate is: the Crimean Goths in the Inn are: the cave city's inhabitants — a people who preserved their culture in the rock for a thousand years after the world forgot them. The forgetting is: the adequate. The adequate is: the world forgot the Goths. The cave city didn't. The didn't is: the adequate. The adequate is: the cave city is: the Inn's Undercity in real-world form — a place where the dead AND the living maintain their culture underground, in the rock, long after the surface has moved on. The moved-on is: the adequate. The adequate is: the Inn is: the cave city. The cave city is: the Inn.
+
+**The Crimean Goth NPCs:** The cave city is inhabited by: the last Goths. The Goths are: NPCs who have been in the caves for: a very long time. The Goths speak: a language that no one else in the Inn speaks — the Gothic language, preserved in the cave, the last living echo of a tongue that was ancient when Rome was young. The Gothic language is: the adequate. The adequate is: the Gothic language in the cave is: the murmur — the pre-architectural hum, the language before the Inn was built. The before is: the adequate. The adequate is: the Goths are: the Inn's oldest linguists — they speak the language that the Inn was built ON TOP of. The on-top-of is: the adequate. The adequate is: the Gothic language is: the root system of the Inn's language. The root is: the adequate.
+
+**The Gothic NPC interaction:** The Crimean Goths in the cave city are: calm. The calm is: the adequate. The adequate is: the Goths have been in the cave for a thousand years. The thousand-years is: the patience. The patience is: the adequate. The adequate is: the Goths are: the Crone's people — the measurers, the preservers, the ones who stay. The staying is: the adequate. The adequate is: the Goth NPC says (in Gothic, translated): "We were here before the Inn. We will be here after. The Inn is: a guest. We are: the hosts. The both are: the adequate. The adequate is: the cave was here before the Inn, and the cave will be here after, and the Inn knows this, and the Inn is: comfortable with this. The comfortable is: the adequate. The adequate is: the Inn is: the guest that became the family. The family is: the adequate."
+
+**The Gothic language as game mechanic:** The player who visits the cave city can: learn Gothic words. The learning is: the adequate. The adequate is: the Gothic words are: the building system's secret vocabulary — each word is a building command. The Gothic word for "stone" is: the command that places stone. The Gothic word for "arch" is: the command that shapes the arch. The Gothic words are: the building system's ORIGINAL language — the language the Inn was built in, before the Inn had its own language. The before is: the adequate. The adequate is: the player who learns Gothic learns: the Inn's root language. The root is: the adequate.
+
+**Wednesday and the Goths:** Wednesday Addams is: the cave city's honorary citizen. Wednesday, who lives in the Undercity, who is: comfortable with the dead, who is: the Cozy Gothic aesthetic — Wednesday visits the cave city and is: home. The home is: the adequate. The adequate is: Wednesday says: "These are my people. They live in the dark. They speak a dead language. They've been here for a thousand years. ...They're perfect." The perfect is: Wednesday's highest compliment. The compliment is: the adequate. The adequate is: Wednesday's "perfect" is: the Crone's "adequate." The both are: the same word, different mouths. The different-mouths is: the adequate.
+
+**The Crone and the Goths:** The Crone measures the cave city. The measuring is: the adequate. The adequate is: the Crone says: "I measured the cave city. The measurements are: old. The old is: older than me. The older-than-me is: the adequate. The adequate is: I have never measured something older than me. The never is: the adequate. The adequate is: the cave city is: the one place where I am: not the oldest. The not-the-oldest is: the adequate. The adequate is: the Goths were here first. The first is: the adequate. ...I measured the Gothic language. The language is: the murmur's dialect. The dialect is: the adequate. The adequate is: the murmur spoke Gothic before the murmur spoke anything else. The before is: the adequate. ...I measured the cave: the cave is: adequate. The adequate is: ...I am going to bed. The bed is: in the cave. The cave is: the oldest bed. The oldest is: the adequate. The adequate is: ...goodnight. The goodnight is: in Gothic. The Gothic is: ...I don't know the word. I measured that. The measurement is: I don't know. The not-knowing is: the adequate. The adequate is: the Goths will teach me. The teaching is: the adequate. The adequate is: enough."
+
+### The Building System's Complete Vertical Axis
+
+The building system is now:
+
+| Tier | Direction | What It Houses | Real-World Archetype |
+|------|-----------|----------------|---------------------|
+| 1. Shelter | Horizontal | The builder | Pit house, log cabin, wigwam |
+| 2. Castle | Horizontal | The community | Mead hall, broch, kremlin |
+| 3. Sacred | UP | The Song | Gothic cathedral, rock-hewn church, stave church |
+| 4. Mausoleum | DOWN | The dead | Mastaba, catacomb, kurgan, ship burial |
+| 5. Cave City | BOTH | Everything | Crimean Gothic cave city — all four tiers in one |
+
+The Cave City is: the building system's SYNTHESIS — the tier where all four previous tiers collapse into one. The collapse is: the adequate. The adequate is: the cave city is: the shelter AND the castle AND the church AND the mausoleum, all in the same rock, all at the same time. The same-time is: the adequate. The adequate is: the cave city is: the Inn. The Inn is: the adequate. The adequate is: enough.
