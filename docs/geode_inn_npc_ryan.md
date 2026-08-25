@@ -77,3 +77,10 @@ Ryan's presence in the Meadery creates a warmth radius — the both are: the ade
 3. Design Ryan's quest (the daughters who wandered)
 4. Place Ryan in the Meadery's layout
 5. Determine Ryan's instrument (something warm, rhythmic — the Barbossa cadence as music)
+
+---
+
+## Finalized Visual Details (Confirmed)
+
+- **Ryan chose the WARM version** — the campfire, not the goth. Ezio's build, Barbossa's coat in dark navy with tarnished gold trim and brass buttons, Van Helsing's wide-brimmed weathered leather hat with tarnished buckle band. Warm golden lighting, campfire glow.
+- **Confirmed:** Ryan saw both options (warm vs goth) and chose the warm version. Visual design locked.
