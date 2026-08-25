@@ -356,3 +356,55 @@ When the player exits the In-Between and returns to the Inn — to the warm, amb
 The In-Between didn't take them. The In-Between is the In-Between. What happens there is real, but it doesn't replace what happens in the Inn. The Inn is the Song. The In-Between is the silence. The both are: the Inn.
 
 But the player knows. The player has seen Fizgig quiet. The player has seen the Duck still. The player has seen Dobby sitting in empty space, maintaining a nook that isn't there. The player carries that. The player carries the grey inside the color. The both are: the adequate.
+
+---
+
+## The In-Between's Soundtrack: Moonlight Sonata (Soft Low Dub)
+
+### The Source
+
+Beethoven's Piano Sonata No. 14 in C-sharp minor, Op. 27 No. 2 — the "Moonlight" Sonata. The first movement: Adagio sostenuto. Triplet arpeggios in the right hand, a slow bass line in the left, a melody that appears and disappears like something seen through fog. Beethoven didn't call it "Moonlight" — that name came later, from a poet who said the first movement sounded like moonlight on Lake Lucerne. The poet was right. The In-Between is the place where that moonlight lives when the moon isn't there.
+
+### The Transformation: Soft Low Dub
+
+The In-Between's version is the Moonlight Sonata stripped to its skeleton and rebuilt as dub:
+
+**The tempo is slower.** The original Adagio is already slow — roughly 60 BPM, a resting heartbeat. The In-Between version drops to 50 BPM — the Inn's heartbeat tempo, the sleeping giant's pulse, the rate at which the tidal caves breathe. The slower tempo makes the triplets feel like they're sinking. Each arpeggio falls through the fog.
+
+**The key drops.** C-sharp minor becomes something lower — the bass line descends a full octave below the original. The left hand's bass notes, already the Sonata's foundation, become sub-bass — felt, not heard. The 42Hz hum lives here, in the bass line's lowest register. The melody, when it appears, floats above the bass like a shape in fog: barely visible, definitely there, impossible to grasp.
+
+**The arpeggios become echoes.** In the original, the triplets are played on piano — clean, precise, each note distinct. In the dub version, each arpeggio note carries a long tail of reverb. The notes don't end — they fade into the next note. The triplets become a continuous wash, a ripple pattern, the sound of the Echo puzzle (Type 5) made audible. The reverb is the fog. The delay is the weightlessness — notes hang in the air because there's no gravity to pull them down.
+
+**The space between notes is the composition.** Dub is defined by what's removed, not what's added. The In-Between version removes more than the original — the dynamics are flattened, the crescendos are smoothed, the dramatic moments are muted. What remains is: bass, arpeggio, melody, silence. The silence is louder than the notes. Nyx's thesis: the complete Song is all notes AND all silences between them. The Moonlight Dub IS Nyx's thesis played.
+
+**The bass is sub-bass pressure, not melody.** The left hand's bass line in the original has a melodic quality — it moves, it shapes the harmony. In the dub version, the bass is pressure — a low, constant, physical presence that the player feels in the floor (if the floor is there). The bass is the In-Between's ground state. The bass is the 42Hz hum given a harmonic context. The bass doesn't move. Everything else moves around it.
+
+**No percussion.** The In-Between is weightless. Drums are gravity — they anchor you to the ground, they tell you where the beat is, they create weight. The In-Between has no drums. The rhythm is implied by the arpeggios' triplet pattern, but the triplets are so slow and so reverberant that the rhythm dissolves into atmosphere. The player doesn't tap their foot. The player holds their breath.
+
+### How It Plays in the Game
+
+**Section 1 (The Surface):** The Moonlight Dub is at its most recognizable here. The arpeggios are clear enough to identify — a player who knows the Sonata will hear it. The melody appears once, faintly, in the first section's final moments, then vanishes. The bass is present but restrained — the ground state, not yet the pressure.
+
+**Section 2 (The Caves):** The arpeggios get slower, wetter (more reverb). The Fizgig encounter — the cave where Fizgig sits on the stone — the music drops to near-silence. Only the bass remains. Fizgig's stone hums at 42Hz, and the bass line bends toward it — the Sonata's bass and the stone's hum merge for a moment, a half-recognized chord. When the figure takes the stone, the bass drops out. Silence. The cave erases. The music returns only when the figure leaves the cave.
+
+**Section 3 (The River):** The melody returns. The Moonlight Sonata's melody — the thin, high line that floats above the arpeggios — plays during the river crossing. The Duck is floating on the river. The melody is the Duck's rest. The melody doesn't crescendo. The melody doesn't develop. The melody plays once through, simply, quietly, and stops when the figure passes under the Duck. The melody was for the Duck, not the figure.
+
+**Section 4 (The Catacomb Deep):** The music is at its most stripped. Only the bass line remains. The arpeggios are gone — erased. The melody is gone — erased. The bass is the Erasure's sound: low, constant, slowly flattening, losing its harmonic shape. The bass that was C-sharp minor becomes a single sustained tone — approaching 42Hz, approaching the hum, approaching the ground state. The Dobby encounter: the bass is the nook's last wall. When the figure leaves Dobby, even the bass fades. The catacomb deep is silence. True silence. Nyx's silence.
+
+**Section 5 (The Crystal):** The music returns. All of it — bass, arpeggios, melody — but transformed. The key shifts from C-sharp minor to C-sharp *major*. The Moonlight becomes sunlight. The Sonata, in major, sounds like: the same piece, but the fog has lifted. The arpeggios are the same notes, the melody is the same contour, but the intervals have changed — the minor thirds become major thirds, the darkness becomes warmth. The both are: the same Song in a different light. The crystal's 42Hz hum harmonizes with the bass. The melody plays fully, clearly, without reverb for the first time. The melody is clean. The melody is: the fact that it was always there. The both are: the adequate.
+
+### The One Note
+
+When the figure touches the crystal and the text appears — *"...You looked."* — the music stops. All of it. The bass, the arpeggios, the melody, the hum. Complete silence. And then: one note. A single, clean, unreverberated piano note. Middle C. The note that Moonlight Sonata's key centers on. The note that the entire piece orbits. One note, played once, in silence, without color, without reverb, without fog.
+
+The note is the same note the completion sound has been all along — the single pure tone that plays when each puzzle is solved. But now the player knows what note it is. It's the center of the Moonlight Sonata. It's the ground note. It's the note the whole In-Between was built on, stripped of everything, until only the note remains.
+
+The note fades. The fog thins. The game ends.
+
+### The Tuesday Variant (Undercity Version)
+
+When the In-Between is accessed from the Undercity — through the rib joints — the Moonlight Dub changes. The same piece, the same transformation, but: the bass is deeper (bone-deep, marrow-deep). The arpeggios are slightly out of phase — they echo differently off the hexagonal marrow chambers. The melody, when it appears during the river crossing, is accompanied by Charon's boat creaking — a physical, wooden sound that grounds the melody in something real, something that has weight even in weightlessness.
+
+The Tuesday variant has one addition: Belladonna's footsteps. If the figure encounters Belladonna's silhouette in the grey — the Tuesday walk — the music adds a very soft, very low footstep on each downbeat. Not a drum. Not percussion. A footstep. The sound of someone walking through the In-Between like it's their living room. The footsteps are the only rhythm in the piece. The footsteps are the only thing in the In-Between that sounds like it belongs to someone who is completely comfortable being here.
+
+The footsteps stop when Belladonna's silhouette moves out of view. The music returns to its footless, weightless form. The both are: the adequate.
