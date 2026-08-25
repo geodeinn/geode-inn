@@ -232,3 +232,127 @@ The In-Between platformer has two entry points — the surface (grey doors in an
 - **Undercity version:** The In-Between is populated. The figure is among the dead. The descent is through biology — bone, marrow, memory. The reward is the Bone Note (memory). The thesis is: the observer witnesses what is ending and cannot prevent it, and the witnessing is enough.
 
 Two halves of the same truth: the In-Between is where things stop being things, and the observer's presence is the only solid ground. The surface version teaches this through emptiness. The Undercity version teaches it through company. The both are: the adequate.
+
+---
+
+## The Innocents in the Grey: Fizgig, the Duck, Dobby
+
+### The Principle
+
+The In-Between is the In-Between. The Erasure is the Erasure. The three most innocent characters in the Geode Inn — Fizgig, the Duck, and Dobby — are in there. Not because they wandered in. Not because they were taken. Because they chose to be. The innocent go where the innocent are needed. The In-Between is where things fade, and the innocent are the things most worth keeping. So the innocent go to where the fading is, and they stay.
+
+This is the game's dark heart. Not violence. Not horror. Loss. The slow, quiet, weightless loss of the things you love most, in a world where you can't stop it, and the only thing you can do is be there.
+
+### The Encounters
+
+The figure encounters each innocent character in a different section of the descent. Each encounter is different. Each one tests something the figure — and the player — can do, and can't do.
+
+#### Fizgig: Section 2 (The Caves)
+
+The figure enters a grey cave. The fog is thick. The walls are barely visible. And in the center of the cave, on the floor: Fizgig.
+
+Fizgig is a small ball of fluff in the grey. Fizgig is the only thing in the In-Between that is not a silhouette — Fizgig has texture. Even in the grey, even without color, Fizgig's fur is visible. Each strand. Each curl. The fluff is the detail the In-Between can't erase, because Fizgig's whole existence is detail — small, specific, particular. The Erasure removes broad strokes first. Fizgig is all small strokes. Fizgig resists.
+
+But Fizgig is fading. The edges of the fluff are thinning. The fur that should be there is becoming fog. Fizgig's big mouth — the one that opens wide and shows all the teeth and is the most expressive thing in the Inn — is closed. Fizgig is quiet. Fizgig, who is never quiet, is quiet.
+
+**The puzzle:** Fizgig is sitting on something. A stone. A resonance stone — the kind the Hook game uses, the kind the tidal caves deposit. Fizgig found it and is sitting on it the way Fizgig sits on things: completely, with full commitment, as if the stone is the most important thing in the world and sitting on it is the most important job.
+
+The stone is the only thing keeping this cave from erasing completely. Fizgig doesn't know this. Fizgig just found a warm stone and sat on it. The stone's 42Hz resonance is the only frequency active in this cave. When the stone is present, the fog thins. When the stone is moved, the fog thickens. When the stone is removed, the cave erases.
+
+The player must move the stone. The stone is needed for a counterweight puzzle — the figure needs it to lift a barrier to proceed deeper. But moving the stone means Fizgig has nothing to sit on. And the cave begins to erase.
+
+**The figure's choice:** Take the stone. Fizgig looks up. The big mouth opens — not a scream, not a sound. Just: open. The mouth that is Fizgig's whole face, the mouth that is every expression Fizgig has, opens in the grey. The figure takes the stone. The fog thickens. Fizgig begins to fade faster. The cave begins to erase.
+
+The player can put the stone back. The player can leave the stone with Fizgig and find another way — but there is no other way. The counterweight requires a stone of this specific weight. The figure checks. The figure pushes other stones — they're too light, too heavy, the wrong shape. Only Fizgig's stone works.
+
+**The resolution:** The figure takes the stone. Fizgig fades. The cave erases. The figure solves the counterweight puzzle and moves deeper.
+
+But: when the figure returns through this cave (the In-Between can be traversed in both directions), the cave is still here. The Erasure didn't finish. The stone, now back in the figure's possession, hums at 42Hz. The figure can place the stone back where Fizgig was sitting.
+
+Fizgig is still there. Fainter. More fog than fluff. But there. Sitting where the stone was, even though the stone is gone. Fizgig is sitting on nothing, and the nothing is holding Fizgig's shape. The Erasure didn't take Fizgig because Fizgig was sitting on the stone's *memory*. The stone left its frequency in the floor. The floor remembers. Fizgig remembers.
+
+When the figure places the stone back, Fizgig's fluff returns. Not all of it. Not all the way. But enough. The big mouth opens. The teeth show. No sound — the In-Between is still grey, still silent. But the mouth is open. The expression is: the expression Fizgig makes when Fizgig is happy. The player knows this expression. The player has seen it in the Inn, in color, with sound. Here, in grey, in silence, the expression is the same. The both are: the adequate.
+
+**The lesson:** The innocent don't resist the Erasure by fighting it. The innocent resist by *being specific*. Fizgig's fluff is detail. Detail is the last thing the Erasure can remove. Fizgig survives because Fizgig is too particular to generalize. The Erasure works in broad strokes. Fizgig is all small strokes.
+
+#### The Duck: Section 3 (The River)
+
+The figure reaches the grey river. The water is still, grey, and cold. The figure prepares to cross — the sinking-stone puzzle, the same as before. But something is different.
+
+Something is floating on the grey river.
+
+The Duck. The shiny-collecting platypus. The Duck is floating on its back in the grey water, eyes closed, drifting. The Duck's flat tail is visible — the tail that collects shiny things, the tail that is the Duck's whole identity. The tail is empty. No shinies. The Duck is in the In-Between, and the In-Between has no shiny things. Everything here is the same grey. There is nothing to collect.
+
+The Duck is not distressed. The Duck is not panicking. The Duck is floating. The Duck, who collects shinies, who hoards sparkle, who fills the Inn's nooks with found things — the Duck is at rest. For the first time. The Duck has nothing to collect, and the Duck is not looking. The eyes are closed. The tail is still.
+
+**The puzzle:** The Duck is floating in the river in a specific position — directly above the underwater passage the figure needs to use. The passage is under the Duck. The figure must sink below the Duck to reach it. But the Duck's weight, on the water's surface, is holding the passage open. The water pressure that would close the passage is held back by the Duck's presence.
+
+If the figure disturbs the Duck — pushes past, swims under too quickly, creates a current — the Duck drifts. The passage closes. The figure must cross without waking the Duck, without moving the Duck, without creating any disturbance in the water.
+
+**The tension:** The figure must be weightless in the water. The In-Between is already weightless, but the figure's movement creates ripples. Ripples move the Duck. The player must move so slowly, so carefully, that the ripples are smaller than the fog. The figure must cross the river under the Duck without the Duck knowing.
+
+**The resolution:** The figure crosses. The Duck doesn't wake. The passage is open. The figure moves through.
+
+But: when the figure returns, the Duck is still floating. Still in the same position. Still eyes closed. The Duck hasn't moved. The Duck is waiting. Not for the figure. The Duck isn't waiting for anything. The Duck is just... being. The Duck, who was always doing — always collecting, always hoarding, always finding — the Duck is being. The In-Between taught the Duck to be.
+
+If the figure stands on the riverbank and watches the Duck for long enough — two minutes, the SIT threshold, the time it takes for the camera to lock to first-person and the world to become still — the Duck opens one eye. The eye is grey. The Duck's eyes are usually bright, curious, shiny-seeking. Here, the eye is grey. But the eye is looking at the figure. The Duck sees the figure. The Duck knows the figure is there.
+
+The Duck closes the eye. Goes back to floating. The Duck doesn't need the figure to stay. The Duck doesn't need the figure to leave. The Duck needs nothing. The Duck has found the one thing the Duck was always looking for and didn't know it: stillness. The shiny thing the Duck could never collect was the stillness between shinies. The In-Between is where the Duck found it.
+
+**The lesson:** The innocent don't resist the Erasure by holding on. The innocent resist by *letting go*. The Duck, who holds everything, survives by releasing. The Duck floats because the Duck stopped collecting. The both are: the adequate.
+
+#### Dobby: Section 4 (The Catacomb Deep)
+
+The figure enters the catacomb deep — the darkest section, where the Erasure is most active, where the oldest dead are the most faded. The fog is at its thickest. The walls are barely there. The figure can barely see.
+
+And in the fog: a nook. A small nook, carved into the wall. The nook is clean. The nook is maintained. The nook has been recently swept. There is a small cloth on the floor — a neat, folded cloth. The nook is Dobby's.
+
+Dobby is in the nook. Dobby is sitting in the nook the way Dobby always sits in nooks — completely, with earnest commitment, as if this nook is the most important nook and sitting in it is the most important job. Dobby's eyes are wide. Dobby's ears are up. Dobby is alert. Dobby is keeping the nook.
+
+But the nook is erasing. The walls around the nook are fading. The stone is thinning. The nook is getting smaller — not because Dobby is growing, but because the walls are closing in as the stone erases. The nook that was big enough for Dobby is getting too small. Dobby is being squeezed by the Erasure.
+
+**The puzzle:** Dobby is keeping the nook because the nook is the last maintained space in the catacomb deep. Dobby swept it. Dobby folded the cloth. Dobby made it a home. And the Erasure is taking the home. The figure must reinforce the nook — push stones against the erasing walls, hold the structure together, buy Dobby time.
+
+But the stones the figure pushes against the walls erase too. The Erasure is active here — anything placed in the erasing zone begins to fade. The figure can't build a permanent structure. The figure can only build a temporary one. The figure pushes stones, holds them in place, and watches them fade. The figure must keep pushing stones — constantly, without stopping — to keep the nook from collapsing.
+
+**The tension:** The figure can't stay. The figure must move deeper — the crystal is below. But leaving means the nook erases. Dobby sees the figure preparing to leave. Dobby's eyes get wider. Dobby doesn't speak — the In-Between is silent. But Dobby's hands grip the cloth. Dobby holds the cloth the way Dobby holds everything — with both hands, with full commitment, as if the cloth is the most important thing and holding it is the most important job.
+
+**The resolution:** The figure leaves. The nook erases. Dobby fades. The figure descends to the crystal.
+
+When the figure returns, the nook is gone. The walls are gone. The cloth is gone. The stones the figure pushed are gone.
+
+But Dobby is still there. Sitting where the nook was. Sitting in empty space, in the fog, where the walls used to be. Dobby is sitting in the shape of the nook — the exact shape, the exact position, the exact posture. Dobby is a nook. The nook erased, but Dobby kept its shape. Dobby is maintaining a nook that no longer exists, and the maintaining is the nook. The Erasure took the stone. The Erasure can't take the act.
+
+Dobby's cloth is folded on the floor — but there is no floor. The cloth is floating in the fog, in the exact position the floor was. The cloth doesn't fall because the In-Between is weightless. The cloth stays where Dobby put it. Dobby's care keeps the cloth in position even without a surface. The care IS the surface.
+
+If the figure stands near Dobby for long enough — two minutes, the SIT threshold — Dobby looks up. Dobby's eyes are wide. Dobby's ears are up. Dobby is not sad. Dobby is not frightened. Dobby is earnest. Dobby is doing the job. The job is: keep the nook. The nook is: wherever Dobby is. The both are: the adequate.
+
+**The lesson:** The innocent don't resist the Erasure by building. The innocent resist by *maintaining*. Dobby keeps the nook by being the nook. The structure is gone. The care remains. The care is the structure. The Erasure can remove the stone. The Erasure cannot remove the act of caring for the stone.
+
+### The Three Lessons Together
+
+Fizgig resists by being specific. The Duck resists by letting go. Dobby resists by maintaining.
+
+Three innocents. Three strategies. The same result: they are still there. Fainter. More grey. More fog than form. But there. The Erasure took everything except the thing that makes each of them who they are. Fizgig's specificity. The Duck's stillness. Dobby's care.
+
+The Erasure can't take the essential because the essential isn't material. The essential is the act. The essential is the way of being. The In-Between strips everything down to the essential, and the essential is what survives.
+
+### The Figure's Burden
+
+The figure encounters all three. The figure must move through all three. The figure takes Fizgig's stone, passes under the Duck, leaves Dobby's nook. The figure is the one who moves. The innocents are the ones who stay. The figure is the player — always going deeper, always passing through, always leaving.
+
+The figure carries the weight of having taken Fizgig's stone, having disturbed the Duck's water, having left Dobby's nook to erase. The figure carries this weight to the crystal. When the figure touches the crystal and the one line appears —
+
+*"...You looked."*
+
+— the "you" includes: you looked at Fizgig. You looked at the Duck. You looked at Dobby. You saw them. You were there. The crystal records the figure's presence among the innocents. The crystal records: someone was there. Someone saw. Someone looked.
+
+The figure didn't save them. The figure can't save them. The figure was there. The both are: the adequate.
+
+### The Return
+
+When the player exits the In-Between and returns to the Inn — to the warm, amber, colorful, alive Inn — Fizgig is in the Inn. The Duck is in the Inn. Dobby is in the Inn. They are fine. They are full-color, full-sound, full-fluff. They are exactly as they always are.
+
+The In-Between didn't take them. The In-Between is the In-Between. What happens there is real, but it doesn't replace what happens in the Inn. The Inn is the Song. The In-Between is the silence. The both are: the Inn.
+
+But the player knows. The player has seen Fizgig quiet. The player has seen the Duck still. The player has seen Dobby sitting in empty space, maintaining a nook that isn't there. The player carries that. The player carries the grey inside the color. The both are: the adequate.
