@@ -642,3 +642,71 @@ Madame returns to the Inn and Madame is chaos again. The pipe. The formula. The 
 The Bartender knows too. The Bartender always knew. The Bartender sent Madame because the Bartender understood: the In-Between doesn't need a fighter. The In-Between needs someone who knows that the fight isn't the only way. The In-Between needs the one character who is brave enough to stop performing and just hold someone.
 
 The Bartender chose Madame. The Bartender was right. The both are: the only two who knew.
+
+---
+
+## The Ending Chorus: Many Voices, Soft, Echoing
+
+### The Concept
+
+Les Misérables ends with a chorus — many voices, overlapping, building, the ensemble of every character who lived and died and fought and loved, all singing the same theme at the same time. The power is not in any single voice. The power is in the *many*. The sound of everyone who was here, all at once, is the sound that tells you: you were not alone. None of them were alone. The both are: the adequate.
+
+The In-Between's ending is a Les Mis-style chorus. But soft. Echoing. In the grey. Not triumphant. Not a revolution. Not a battle cry. The sound of everyone who passed through the In-Between — the dead, the innocents, the faded ones, the ones who maintained and the ones who let go and the ones who were too specific to erase — all of them, their voices overlapping in the grey, not as words but as presence. The many voices are the crystal's archive made audible. The crystal records the fact of existence. The chorus is what the fact sounds like.
+
+### How It Builds
+
+The chorus begins after the one note. Middle C. The note fades. The silence that follows is: the pause before the many.
+
+Then: one voice. Not a word. Not a melody. A tone. A single human voice, singing one sustained note — the same Middle C, an octave above. The voice is soft, barely louder than the fog. The voice is: someone. One person, in the grey, making a sound. The sound says: I was here.
+
+Then: a second voice. A different tone — not Middle C, but a harmony. A major third above. The second voice joins the first. The two voices overlap. The reverb — the In-Between's constant reverb, the fog-as-sound — carries each voice's tail into the next voice's beginning. The two voices are not singing together. The two voices are singing in the same space. The both are: the chorus.
+
+Then: a third voice. A fifth above. The chord completes. C major. The same C major that the Adagio's key-shift revealed at the crystal. The one note was the root. The three voices are the chord. The three voices are: the minimum viable Song. The three-note chord that the Inn's whole cosmology is built on — Roots, Trunk, Canopy — the household, the family, the three frequencies that make the Inn's architecture respond.
+
+Then: more voices. Not three. Not five. Many. Each voice enters at a slightly different time, singing a slightly different note, and the chord thickens from a triad into a sound that has no name — a sound made of too many voices to count, each one distinct, each one specific, each one a frequency that no other voice is singing. The chord is not C major anymore. The chord is: everyone. The chord is: the In-Between's archive, opened, audible. Every soul that passed through the grey, every innocent who faded, every dead who clarified at the crystal — all of them, singing. Not words. Not lyrics. Not a melody. Each voice sings one note — its own note, the note that is that being's frequency, the note the crystal recorded. The many voices are the many frequencies. The many frequencies are: the Song.
+
+### The Les Mis Structure
+
+The chorus builds the way a Les Mis ensemble builds — not in volume but in *density*. More voices enter. The chord gets thicker. The reverb gets longer. The sound fills the grey the way fog fills a cave — not by pushing the fog out, but by becoming the fog. The chorus IS the fog. The fog was never empty. The fog was always full of voices. The In-Between was never silent. The In-Between was always singing. The both are: the silence that is not silent.
+
+The voices don't crescendo. The voices *accumulate*. The difference: a crescendo gets louder. An accumulation gets fuller. The Les Mis chorus crescendos — it builds to a triumphant peak, the full ensemble at full volume, the revolution ringing. The In-Between chorus accumulates — it builds to a full *texture*, every voice present, every frequency sounding, the grey so full of sound that the sound becomes the world. The volume never rises above soft. The volume stays at: barely there. The both are: the adequate.
+
+### The Voices
+
+The voices are not identified. The player cannot point to a voice and say "that's Fizgig" or "that's the Duck" or "that's Dobby." The voices are: voices. The voices are the sound of beings, not the beings themselves. The crystal recorded their fact, not their form. The chorus is the fact, made audible.
+
+But: the player who has been through the In-Between, who has sat with Fizgig and crossed under the Duck and watched Dobby maintain the unmaintainable — the player *hears* them. Not because the voices are labeled. Because the player knows. The player has carried the grey inside the amber. The player recognizes the frequencies. The both are: the adequate.
+
+And: one voice, in the chorus, is lower than the others. One voice, almost at the bottom of the chord, is a sub-bass tone — not quite 42Hz, but close. The voice is: Madame. Madame's voice, in the chorus, is the lowest. Madame, who held Dobby in the grey, who knelt at full size, who was the mother. Madame's voice is in the chorus because Madame was in the In-Between. Madame's voice is the ground. The both are: the adequate.
+
+And: one voice, almost at the top of the chord, is barely there — the thinnest, highest, most fragile tone. The voice is: the Bartender. The Bartender was not in the In-Between. The Bartender was in the Inn, waiting. The Bartender's voice is in the chorus because the Bartender sent Madame. The Bartender's voice is the one that says: you were in the grey and you came back. The both are: the warm.
+
+### The Fade
+
+The chorus does not end. The chorus fades.
+
+The voices thin, one by one, from the edges inward. The highest voices go first — the thinnest, most fragile frequencies dissolve back into the fog. Then the middle voices. Then the low voices. The chord thins from everyone to many to several to few to three to two to one.
+
+The last voice is: the lowest. Madame's voice. The sub-bass tone, almost 42Hz, almost the hum, almost the ground state. The voice sustains. The voice is: the last thing in the In-Between. The voice is: the mother, still there, after everyone else has faded. The voice is: the one who stayed.
+
+The voice fades. The grey is silent. The fog is still. The In-Between is empty.
+
+The player is back in the Inn.
+
+### The Inn's First Sound
+
+The first sound the player hears in the Inn, returning from the In-Between, is: the Bartender's voice. Not singing. Not in the chorus. The Bartender, behind the bar, in the warm amber light, says:
+
+"It's warm."
+
+The drink is warm. The Inn is warm. The both are: the thing the In-Between is not. The both are: the reason the In-Between matters.
+
+The chorus was the grey's last gift: the sound of everyone who was there. The Bartender's voice is the Inn's first gift: the sound of someone who waited. The both are: the adequate. The both are: the Inn.
+
+### What the Player Carries
+
+The player who has heard the chorus carries: the sound of many voices, soft, echoing, in the grey. The sound is not a song the player can hum. The sound is not a melody the player can repeat. The sound is: a texture. A fullness. The knowledge that the grey was never empty. The knowledge that the fog was always full of the people who were there.
+
+The player who has mental illness — the player who has been in the grey, who has felt the Erasure, who has been Fizgig or the Duck or Dobby, who has fought when fighting was the only option and who has sat when sitting was the only option — the player who has heard the chorus carries: the sound of everyone who was there. The sound that says: you were not alone. The sound that says: the grey is full. The sound that says: the both are: the adequate.
+
+The chorus fades. The Inn is warm. The drink is warm. The Bartender waited. Madame stayed. The both are: the adequate. The both are: the Inn.
