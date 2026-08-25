@@ -93,3 +93,13 @@ The Lighthouse crowd: the Owl (the fixed point, the constant), the Pirate (the r
 4. **Design Persephone's visual** — regal, bifocal, the queen of two zones
 5. **Persephone's quest** — something involving the cycle, the progression, the spiral
 6. **Persephone's voice/instrument** — something cyclical, tidal, seasonal
+
+---
+
+## The Murloc Companion
+
+Persephone has a murloc companion who follows her into the underworld. The murloc is the water creature that goes where the water goes — and the water goes all the way down. Where Persephone goes, the water goes. Even into the land of the dead.
+
+The murloc is the proof that Persephone's domain is CONTINUOUS — the surface water and the underworld water are the same water, the same cycle, the same tide. The murloc doesn't transition between zones. The murloc doesn't change behavior above or below. The murloc is the both are: the adequate — the same creature in both worlds, the both are: the same.
+
+The "mgrl mgrl" in the underworld — the underwater sound in the dry place. The sound that says: the water is here too. The water is always here. The both are: the adequate.
