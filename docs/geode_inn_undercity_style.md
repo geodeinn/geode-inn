@@ -152,6 +152,38 @@ The catacombs are the zone's exploration content — the player descends through
 
 ---
 
+
+## The Gargoyle Puppies (The Pets)
+
+Every zone in the Inn has a pet type — the small, non-threatening creature that makes the zone feel like a place where living things CHOOSE to be. The Canopy City has the songbirds. The Garden has the hedgehogs. The Undercity has gargoyle puppies.
+
+### What They Are
+
+Gargoyle puppies are small — about the size of a corgi — made of grey-brown stone (the same stone as the Undercity buildings, as if the buildings are literally giving birth to them). They have the classic gargoyle features: small bat wings (too small to fly — they flutter when excited), little horns, a wide mouth full of flat stone teeth, and big round eyes that glow faint amber (the Inn's light, internalized — the gargoyle puppy carries the Inn's light inside its body the way a real puppy carries warmth).
+
+They are PUPPIES. Not dogs — puppies. They never grow up. They are eternally in the puppy stage: clumsy, overenthusiastic, too-big paws, ears that haven't learned to point the right direction yet. The gargoyle puppy is the version of a gargoyle that hasn't learned to be intimidating yet, and will never learn, because the Undercity doesn't need intimidation. The Undercity needs companionship.
+
+### The Stone-and-Warmth Paradox
+
+Gargoyle puppies are made of stone. They are also warm. This is the Undercity's thesis in miniature: the thing that looks dead is alive, the thing that looks cold is warm, the thing that looks hard is soft when you know it. The stone of a gargoyle puppy's body is warm to the touch — heated from within by the same amber glow that shines in its eyes. The puppy is a gothic building and a living thing and the both are: the same.
+
+When a gargoyle puppy sleeps (which is often — they sleep on warm copper pipes, on boiler casings, on gravestones in the afternoon mist), the stone cools slightly. The glow in the eyes dims. The puppy looks like a small gargoyle statue — the kind you'd see on any gothic building. Then the puppy wakes up, the glow returns, the stone warms, and the statue becomes a puppy again. The transition is the zone's magic: the dead thing is alive, and the alive thing looks dead, and the difference is attention. The both are: the adequate.
+
+### Behavior
+
+- **They follow engineers.** The engineers are the gargoyle puppies' people. A gargoyle puppy will follow an engineer on rounds, trotting along the cobblestones (the click-click-click of stone paws on stone streets), sitting patiently while the engineer fixes a valve, then following to the next stop. The puppy is the engineer's apprentice who never learns to fix anything but always learns where the warm pipes are.
+- **They chew on copper pipes.** Not destructively — the copper is too hard for stone teeth. But gargoyle puppies gnaw on copper pipes the way real puppies gnaw on bones. The gnawing leaves tiny tooth-shaped marks on the copper — the engineers can tell which pipes have been chewed on (the patina pattern is different where the puppy teeth have scraped the surface clean). The chew marks are not damage. The chew marks are affection. The pipes with the most chew marks are the most-loved pipes.
+- **They bark steam.** When a gargoyle puppy barks, it doesn't bark sound — it barks a small plume of steam. The bark is a tiny venting of the internal heat, a puff of warm mist that dissipates in the ambient fog. The bark is audible — a deep, resonant, stone-on-stone THUNK, like a gargoyle shifting on its perch — but the bark is also visible, a little steam-cloud, and the visibility makes the bark charming instead of alarming. A gargoyle puppy barking at you is saying hello, and the hello is a warm cloud.
+- **They perch.** Gargoyle puppies climb. Not well — the wings are decorative, not functional — but the claws are real, and the stone is grippy, and a gargoyle puppy can scramble up a gothic facade and perch on a buttress or a windowsill or a gargoyle (a real one — the architectural kind). Perched, the puppy IS a gargoyle — small, stone, decorative. The residents know which gargoyles are architecture and which are puppies who climbed up and fell asleep. The test: touch the gargoyle. If it's warm, it's a puppy.
+- **They love the mist.** Gargoyle puppies sit in the mist the way real puppies sit in a sunbeam. The warm steam is their sunlight. A gargoyle puppy lying in a pooling mist pocket, eyes half-closed, stone body steaming slightly (the warmth of the puppy meeting the warmth of the mist, creating a double-warmth that makes the air around the puppy shimmer), is the Undercity's version of a dog sleeping in a patch of sun.
+- **They are loyal.** A gargoyle puppy that bonds with a player will follow the player through the Undercity, perch on the player's shoulder (the small ones can), and wait outside buildings the player enters (sitting by the gothic door, looking like a door-knocker, steaming gently). The loyalty is the same as any dog's: absolute, unperformative, the presence that doesn't need to do anything to be the point.
+
+### The Elfman Connection
+
+The gargoyle puppies have their own musical motif — a tiny Elfman figure, a skittering woodwind arpeggio (bassoon or oboe), played at 50 BPM. The motif plays when a puppy appears, when a puppy barks (the bassoon THUNKS on the bark), when a puppy falls asleep (the arpeggio slows to a single sustained note that fades). The motif is the Nightmare Before Christmas energy at pet scale — the same playfulness, the same gothic charm, but small, warm, the music of a stone creature that doesn't know it's supposed to be scary.
+
+The motif is also the puppy's heartbeat. The 50 BPM tempo IS the puppy's pulse — the stone body has a heartbeat, and the heartbeat is the Inn's heartbeat, and the heartbeat is audible as a bassoon note that the player hears when close to a sleeping puppy. The stone is alive. The alive is slow. The slow is warm. The both are: the same.
+
 ## The Residents
 
 The Undercity's residents are the people who live in the gothic cathedral houses and tend the steam machinery and sit in the graveyard gardens. They are:
