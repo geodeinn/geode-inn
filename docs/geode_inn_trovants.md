@@ -154,3 +154,47 @@ A named trovant companion carries its geological history as visible identity. Th
 - [ ] Quest name — what is the trovant quest called?
 - [ ] How do trovant companions function in other zones? Do they carry rain with them?
 - [ ] Connection to the Pirate's bodhrán rhythm — is the trovant's heartbeat 50 BPM or something else?
+
+---
+
+## Grit and the Trovants
+
+### The Living Note Meets the Instrument
+
+Grit — the Fizzgig-inspired four-inch ball of fur — is a living note of the Song. A single, independent fragment of the 42Hz frequency, wearing a body small enough to fit anywhere the Song lives. Grit is drawn to resonance nodes the way iron is drawn to magnets. Every place Grit gets stuck is a node of the Song of Making.
+
+Trovants ARE resonance nodes — living ones. A trovant is the Song made solid in stone. When Grit encounters a trovant, Grit doesn't just get stuck. Grit *comes home*.
+
+### The Getting-Stuck Is the Guidance
+
+During the transformation game, Grit gets stuck on the trovant's surface. The brownies panic — Brindle mobilizes, Cobble calculates, Thatch reaches in. But Thatch pauses. Thatch sees that Grit isn't struggling this time. Grit is humming. The place where Grit sticks is the place where the 42Hz is strongest on the trovant's surface — and that's exactly where the wings should form.
+
+Grit is the template. The water follows the note. The mineral deposits accumulate where Grit's frequency is concentrated, building the wing structures along the lines the living note traces. The player who notices Grit — who stops trying to remove the "stuck" creature and instead plays toward where Grit sits — discovers that Grit is guiding the transformation. The note tells the water where to sing.
+
+### Grit as Living Tuning Fork
+
+After the trovant's wings emerge, Grit moves to the wingtips and hums. The crystalline wing structures amplify Grit's note — Grit's 42Hz passes through the mineral wings and the trovant resonates. The wings are tuning forks, and Grit is the fork that tunes them. A trovant with Grit on its wings vibrates at a cleaner frequency than a trovant without. The transformation is faster, truer, more beautiful.
+
+The player can optionally place Grit on a trovant before playing. This is the Inn's version of a difficulty modifier:
+- **With Grit:** The wing formation follows Grit's guidance. The shapes are more organic, more symmetrical, more alive. The Flower of Life forms more readily. But Grit moves during the game — the note shifts as the trovant's resonance changes, and the player must follow. The difficulty is not in the precision but in the attention.
+- **Without Grit:** The player shapes the wings purely through music. More control, more precision, but the shapes are mechanical. The Flower of Life is harder to achieve. The wings work but they don't sing.
+
+### The Brownies and the Trovants
+
+- **Brindle** treats the trovant as a siege operation. "We must extract Grit from the stone creature." Tries to dig. The trovant absorbs the dig and grows a bump where Brindle dug. Brindle is horrified. Cobble is fascinated.
+- **Cobble** calculates the resonance interface between a four-inch living note and a six-million-year-old sandstone concretion. Concludes: "The optimal strategy is to do nothing." Brindle ignores this. Thatch already knew.
+- **Thatch** sits next to the trovant. Watches Grit hum. Doesn't try to remove Grit. After a while, Thatch hums too. The trovant's surface ripples. A tiny wing bud forms where Thatch is sitting. Thatch doesn't notice. The Examiner does.
+
+### The Keeper's Comment
+
+The Keeper sees Grit on a trovant and says nothing for a long time. Then: "The note found the instrument. Let it play." The Keeper has known what Grit is for millennia. The Keeper has been waiting for something to resonate with Grit at the right frequency. The trovant is the first thing in the Inn that can *answer* Grit's note with its own.
+
+### The Deepest Connection
+
+Grit is the smallest piece of the Song that can exist independently. A trovant is the Song made solid in stone. Grit meeting a trovant is a note meeting its instrument — the fragment finding the body that can amplify it. The transformation game is, underneath everything, the process of teaching a stone to sing a note it already carries but has never heard aloud.
+
+Grit has been getting stuck in teapots and orreries and books for years — always trying to go home, always drawn to the nodes, always looking for something that can answer back. The trovant is the first thing that answers.
+
+When Grit hums on a trovant's surface and the trovant hums back, the brownies freeze. They've never heard the Song answer Grit before. Thatch's eyes fill. Brindle draws his crystal-shard dagger — then lowers it. Cobble stops calculating. The Keeper, somewhere else in the Inn, smiles and doesn't know why.
+
+The Inn's smallest creature found its largest instrument. The note is the same size as it has always been. The stone was always waiting to play it.
