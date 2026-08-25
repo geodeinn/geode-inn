@@ -163,3 +163,91 @@ The Pirate has the high score on the Hook cabinet. The Pirate's score is unbeata
 The Pirate doesn't mention the score. The Pirate doesn't need to. The high score screen says: "1. The Pirate — 14 hooks." Fourteen hooks. The minimum. Anyone who plays the game will understand what fourteen hooks means when they see how many they needed themselves.
 
 The Pirate's comment when the player checks the leaderboard: "Fourteen. ...I had a good day. ...The sea was calm. ...The stones were where they wanted to be. ...I just... [the Patinkin warmth, the grin] ...asked them nicely."
+
+---
+
+## Newton in the Tidal Cave: The Law Giver's Coastal Outpost
+
+### Why Newton Belongs Here
+
+Newton is already a roaming NPC — the Council of Thinkers' Law Giver, cataloging everything by natural law, studying planetary motion on the cosmology level. But Newton's actual historical work includes the first mathematical theory of tides. The Principia (1687) explained tides as the gravitational pull of the moon and sun — the same tides that gate the Pirate's cave system, the same 50 BPM heartbeat that drives the tidal layer.
+
+Newton belongs in the tidal cave because Newton IS the tidal cave. The tides are Newton's laws made visible in water. The Hook game is Newton's laws made playable.
+
+### Newton's Tidal Cave Desk
+
+Newton has a desk in the tidal cave — a small writing desk near the Hook cabinet, positioned where the cave opening lets in daylight. The desk is covered in tide charts, equations, and brass instruments. A brass sextant. A bowl of water with a floating cork (a simple tide model). The notebook — always the notebook, always being written in.
+
+Newton comes to the cave to study the tides directly. The cosmology level has the orrery (the model), but the cave has the real thing. Newton needs both: the model to calculate, the real tide to verify. Newton is the Council's empiricist — the one who checks the math against the world.
+
+The Pirate tolerates Newton's presence because Newton's tide charts are the most accurate the Pirate has ever used. Newton doesn't know the caves the way the Pirate does — Newton knows the *numbers* behind the caves. The Pirate knows the rhythm. Newton knows the reason. They are the same knowledge at different frequencies.
+
+The Pirate: "Newton knows why the tide comes in. ...I know when. ...The when is more useful. ...But the why is... [the Patinkin pause, the concession] ...also useful. ...Sometimes."
+
+Newton, not looking up from the notebook: "The lunar gravitational effect on this bay produces a semidiurnal tide with a mean range of approximately —"
+
+The Pirate: "It comes in twice a day. ...It goes out twice a day. ...That's the chart."
+
+Newton, writing: "It comes in twice a day because of the lunar gravitational —"
+
+The Pirate: "It comes in twice a day."
+
+### Newton's Three Laws as Hook Game Physics
+
+The Hook game is Newton's three laws of motion, and Newton knows it. He has annotated the Hook cabinet with equations in chalk on the cave wall beside it. The Pirate hasn't erased them because they're actually useful — the equations describe the cable tension at different depths, which helps the player plan their hooks.
+
+**First Law (Inertia):** A stone at rest stays at rest. A stone in a socket stays in the socket until the hook exerts a force on it. The stone doesn't move on its own. The grid doesn't shift. Everything stays where it is until something acts on it. This is the puzzle's foundation — the grid is stable, the stones are stable, and the only force that changes anything is the hook.
+
+Newton's chalk annotation: *"Lex Prima. The stone does not move. The player moves the stone. The question is not whether, but which, and in what order. The order is the puzzle."*
+
+**Second Law (F=ma):** The force the hook applies determines the stone's acceleration. A heavier stone (denser mineral, lower frequency) requires more cable tension to move. The cable's maximum tension is fixed (determined by the alchemical stage — stronger cable at higher stages). If the stone is too heavy for the cable, the cable snaps. The player must calculate: is this stone too heavy for my cable?
+
+Newton's chalk annotation: *"Lex Secunda. Force equals mass times acceleration. The cable provides the force. The stone provides the mass. The player provides the judgment. If the stone's mass exceeds the cable's tolerance, the cable breaks. This is not a design flaw. This is physics."*
+
+**Third Law (Action-Reaction):** When the hook pulls a stone, the stone pulls back on the cable. The cable goes taut. The winch creaks. The tension is bilateral — the hook feels the stone's resistance. When the player places a stone, the socket grips the stone — the socket exerts a force on the stone, the stone exerts an equal force on the socket. The crystal points grip because the stone pushes into them and they push back.
+
+Newton's chalk annotation: *"Lex Tertia. Every hook is a pull in both directions. The player pulls the stone. The stone pulls the player. The cable between them is the conversation. When the cable breaks, the conversation has exceeded its subject. This is not failure. This is the law saying: not this stone, not yet."*
+
+### The Orrery Connection
+
+Newton's brass orrery — the mechanical model of the solar system on the cosmology level — is the Hook game's cosmological mirror. The orrery is a system of orbiting bodies held in place by gravity (modeled as brass arms and gears). The Hook grid is a system of stones held in place by crystal sockets. The orrery is the cosmos. The grid is the coast. Same laws, different scale.
+
+Newton, when the player visits both the orrery and the Hook cabinet: "The orrery shows you the laws at the scale of planets. The Hook shows you the same laws at the scale of stones. The laws do not change. The scale does. ...The Pirate says I overthink this. ...The Pirate is not wrong. ...But the Pirate also uses my tide charts, so the Pirate is not entirely right either."
+
+Grit, who has been stuck in the orrery (planets orbited around Grit for three hours), is also occasionally stuck in the Hook cabinet's winch mechanism. The same creature, stuck in the same kind of machine, at two different scales. The orrery and the Hook are the same device — one models the cosmos, one models the coast. Grit gets stuck in both because Grit is drawn to the 42Hz resonance that both machines produce through their brass gears.
+
+### Newton's Tide Chart
+
+Newton has produced a tide chart for the Pirate that is more accurate than any the Pirate had before. Newton's chart predicts the tidal windows — the exact times the caves are accessible — using lunar position calculations rather than the Pirate's traditional method (going to the cave entrance and watching).
+
+The Pirate uses both. The Pirate will never admit this.
+
+Newton's tide chart is a quest item — the player can read it to plan cave exploration. The chart shows the tidal windows for each cave type:
+- Singing Caves: accessible at low tide during the 111Hz resonance window
+- Mirror Caves: accessible at the lowest tide of the lunar cycle (spring tide — when sun and moon align)
+- Bone Caves: accessible only during the dead tide (a specific window Newton identified — when the gravitational pull is weakest and the water is at its most stable)
+- Gargoyle Caves: accessible during the full moon low tide (when moonlight enters the caves and the gargoyle shadows move)
+
+Newton's annotation on the chart: *"The tides are not random. The tides are the moon's gravity made visible in water. The caves are the water's rhythm made accessible in stone. The both are: the adequate."*
+
+The Pirate's annotation, written below Newton's in different handwriting: *"He's right. ...Don't tell him I said that."*
+
+### Newton and the Siphon Puzzles
+
+The siphon puzzle type (Type 5 — pressure application) is Newton's favorite. The siphon is pure Newtonian physics — the weight of the water column creates pressure, the pressure pushes the water up the far side. Newton can often be found at the siphon puzzles, adjusting the brass valves and muttering equations.
+
+Newton, when the player solves a siphon puzzle: "The pressure at the bottom of the siphon equals the density times the gravitational acceleration times the height of the column. You have intuitively solved for the correct column height. ...This is not intuition. ...This is physics you have performed without knowing the equations. ...The Pirate calls this 'feel.' ...I call it 'empirical success without theoretical foundation.' ...It is still success. ...I will write it down."
+
+### Newton's Hook Game Score
+
+Newton has played the Hook game. Newton's score is second on the leaderboard — 16 hooks, two more than the Pirate's 14. Newton is annoyed by this. Not because of the score, but because Newton cannot determine which two hooks were unnecessary. Newton has analyzed every game, mapped every move, and concluded that 14 is the mathematical minimum. Newton scored 16 because Newton used two "verification hooks" — hooks that confirmed a stone's position without moving it. Newton couldn't play without verifying. The Pirate played by feel.
+
+Newton, checking the leaderboard: "Fourteen. ...The mathematical minimum is fourteen. ...I required sixteen. ...The two additional hooks were necessary for verification. ...The Pirate's fourteen hooks were not verified. ...They were... [Newton's jaw tightens] ...correct. ...I have written a paper on this. ...It is called 'On the Empirical Superiority of Maritime Intuition over Mathematical Verification in Stone Placement Puzzles.' ...I do not intend to publish it."
+
+The Pirate, overhearing: "Sixteen is good, Isaac. ...Most people need forty. ...Don't be hard on yourself."
+
+Newton, writing: "I am not being hard on myself. I am being accurate. Accuracy is not hardness. Accuracy is... [the pause] ...the only thing that matters."
+
+The Pirate: "...The both are: the adequate."
+
+Newton looks up. The Pirate walks away. Newton writes in the notebook for a long time.
