@@ -81,3 +81,11 @@ Katy is the Catalyst's origin — the real person the character was based on. In
 3. Design Katy's quest (something involving reanimation — a dead grove that needs reviving?)
 4. Determine Katy's voice/instrument (something organic — woodwind? wind through leaves?)
 5. Design the Van Gogh aura effect as a game mechanic
+
+---
+
+## Finalized Visual Details (Confirmed)
+
+- **Skin:** Pale, luminous — the both are: the adequate — the skin that glows in the Van Gogh light, the both are: the same palette, different surface
+- **Dreads:** Deep rich red (dark burgundy/henna red) — NOT natural-colored. The red against the green garden is the Van Gogh complementary color tension. The red hair IS the Van Gogh brushstroke. Some dreads adorned with small vines and tiny purple flowers.
+- **Confirmed:** Katy saw the concept art and said "That is her." Visual design locked.
