@@ -148,3 +148,87 @@ The game has no text — except one moment. When the figure touches the Crystal 
 The same words the Vessel says when the player finds the crested gecko in the canopy. The same recognition. The In-Between's crystal is the Vessel's confirmation: the player looked. The player found the source in the grey. The player refused to accept that the In-Between was empty.
 
 The text fades. The fog thins. The 42Hz hum becomes audible. The game ends.
+
+---
+
+## The Undercity Version: The In-Between Among the Dead
+
+### Why It Belongs Here
+
+The Undercity is Belladonna's (Wednesday Addams') domain — the sleeping giant's ribcage turned into architecture, where the dead live in cozy gothic comfort. The Undercity is already grey, already quiet, already liminal. The In-Between platformer doesn't need to be adapted for the Undercity — the Undercity is already the In-Between, just with furniture.
+
+The same game, played from the Undercity, becomes a different experience. The descent changes. The puzzles shift. The figure's journey through grey becomes a journey through the dead's territory — not the dead as threat, but the dead as context. The Undercity version is the In-Between platformer with one added layer: everything the figure passes through was once alive.
+
+### How the Player Accesses It
+
+In the Undercity, the In-Between platformer is accessed through **the Rib Joints** — the spaces between the sleeping giant's ribs where the bone thins and the grey shows through. The rib joints are visible as faint grey lines in the Undercity's architecture — the places where the bone structure is thinnest, where the dead's world is closest to the In-Between's weightlessness. The player who steps through a rib joint enters the In-Between from the Undercity's perspective.
+
+Belladonna knows about the rib joints. Belladonna uses them. Belladonna walks through the In-Between the way Wednesday Addams walks through a cemetery — casually, comfortably, without hurrying. The player who follows Belladonna through a rib joint sees the In-Between for the first time from the dead side.
+
+### The Undercity Descent: What Changes
+
+The core mechanics are identical — push, pull, climb, jump, sink. The puzzles are the same six types. But the context transforms:
+
+#### Section 1: The Ribcage (Grey Bone)
+The figure starts inside the giant's ribcage — the grey architecture is bone, not stone. The walls are curved. The floor is ridged (rib texture). The fog is the same, but it smells different — the player can't smell it, but the figure's animation changes slightly: the figure moves more carefully here, stepping over ridges, ducking under curves. The ribcage is the In-Between's first room, seen from inside.
+
+The first puzzles teach pushing and pulling — but the objects are bone fragments. The figure pushes a rib section into position to create a bridge across a gap. The bone is lighter than stone — it drifts more in the weightlessness. The player who has played the surface version (where stones sink predictably) must recalibrate: bone doesn't sink the same way. Bone floats longer. Bone drifts sideways. The dead are lighter than the living.
+
+#### Section 2: The Marrow (Darker, Warmer Grey)
+The figure descends into the marrow — the inside of the bone, where the grey gets slightly warmer. Not amber, not gold — just a grey that is less cold. The marrow is where the giant's blood was made. The blood is gone. The marrow is empty. But the shape remains — the honeycomb structure of bone marrow becomes the puzzle architecture: hexagonal chambers, each one a small room, each one connected to the next by narrow passages.
+
+The puzzles here involve the Echo (Type 5) — the hexagonal chambers amplify sound differently. The player must make echoes that travel through specific chambers to reach specific mechanisms. The marrow's acoustics are different from the surface caves — sound bounces off hexagonal walls in predictable but complex patterns. The player who understands the Echo puzzle from the surface version must relearn it: the marrow's geometry changes everything.
+
+#### Section 3: The River of the Dead (Grey Water, Familiar)
+The figure reaches Charon's river — but from the Undercity side. The river is the same river as Layer 4 (Charon's river) in the water system. The In-Between renders it grey. The Undercity version adds: the river is full of the dead. Not ghosts — the dead are solid in the Undercity, as real as Belladonna. They drift in the grey water, moving slowly, peacefully. They are not threats. They are not obstacles. They are residents.
+
+The figure must cross the river. The sinking-stone puzzle (Type 2) is the same — but the player can also step on the dead. The dead don't mind. The dead are stable — they don't sink. The dead have already sunk as far as they're going. The figure can walk across the river on the dead's shoulders. The dead don't react. The dead are used to it.
+
+**The Charon difference:** In the surface version, the boat is empty. In the Undercity version, Charon is in the boat. Charon poles the grey river, carrying the dead across. The figure can ride in Charon's boat — but Charon's boat goes a different direction than the surface version's empty drift. Charon's boat goes deeper. Charon knows the river. Charon has been poling this river since before the Inn was built.
+
+Charon doesn't speak to the figure in the In-Between. The In-Between is prose, not dialogue. But Charon's presence is the difference: the surface version is alone. The Undercity version is not alone. The dead are here. Charon is here. The figure is the only living thing in a world full of the dead, and the dead are not hostile. The dead are home.
+
+#### Section 4: The Catacomb Deep (Darkest)
+The figure enters the catacombs — the Undercity's deepest point, where the oldest dead are. The architecture shifts from bone to stone — the giant's ribcage gives way to the geological layers beneath. The grey is at its darkest. The fog is at its thickest. The Erasure puzzle (Type 6) is most active here — the oldest dead are the most faded, the most erased. The figure walks through corridors where the walls are barely visible, where the dead are wisps of grey, where the world is losing its last detail.
+
+The Erasure here is not aggressive — it's not the third threat stage's existential danger. The Erasure here is *gentle*. The oldest dead are not being destroyed. They are being *completed*. The Erasure is the dead's final transition — from grey to nothing, from presence to peace. The figure can't stop it. The figure can only witness it. The Erasure puzzles in the Undercity are not about escaping the erasure. They are about moving through it — being present while something ends, and not trying to prevent it.
+
+This is the In-Between's thesis at its deepest: the figure is the observer. The observer's presence makes the In-Between real (Einstein's theorem). But the observer cannot make the dead real again. The observer can only be there. The both are: the adequate.
+
+#### Section 5: The Crystal (Grey-White, Familiar)
+The figure reaches the Crystal Core — the same grey-white crystal as the surface version. The same 42Hz hum. The same light. The same moment: the figure touches the crystal, and the one line appears:
+
+*"...You looked."*
+
+But in the Undercity version, the crystal has company. The dead are here. The oldest dead, the most faded, have gathered at the crystal — not in worship, not in hope, but in proximity. The crystal's grey-white light is where the dead go when they are ready to stop being grey. The crystal is the In-Between's exit — not for the figure, but for the dead. The dead who reach the crystal don't dissolve. They *clarify*. The grey leaves them. What remains is... not color. Not form. Just: the fact that they were here. The crystal records them. The crystal is the In-Between's archive.
+
+The figure touches the crystal and sees: the dead, clarified. The dead, at peace. The dead, recorded. The crystal holds every soul that has ever passed through the In-Between — not their bodies, not their names, but their *fact*. The fact that they existed. The crystal is the In-Between's way of saying: you were here. The both are: the adequate.
+
+### The Undercity Reward
+
+The player who completes the In-Between platformer from the Undercity receives: **the Bone Note.**
+
+The Bone Note is different from the Grey Note. The Grey Note is silence — the space between notes. The Bone Note is *memory* — the echo of something that was. The Bone Note doesn't harmonize with every frequency like the Grey Note. The Bone Note resonates with one specific frequency — the frequency of whatever the player has lost.
+
+The Bone Note is personal. It is the In-Between's gift from the dead: the acknowledgment that loss is not erasure. The thing that was is still real — not as presence, but as fact. The dead are not gone. The dead are recorded. The Bone Note plays the frequency of what was, and the frequency is still beautiful.
+
+**Connection to Belladonna:** Belladonna doesn't need the Bone Note. Belladonna already lives among the dead. Belladonna already knows that the dead are not gone — the dead are neighbors. Belladonna's comment if the player shows the Bone Note: "...You went through the ribs. ...I know. ...I go through every Tuesday. ...The dead don't mind. ...The dead never mind. ...That's the whole point."
+
+**Connection to the Guest (Death):** The Guest — Death taking a holiday at the Inn — is the one who designed the crystal's archive function. The Guest is the one who decided that the dead should be recorded, not erased. The Guest's music box mechanism plays "Death's original note" — the note Death MADE, not caught. The Bone Note is the same principle: the note the dead MADE by existing. The Guest would hear the Bone Note and say nothing. The Guest already knows. The Guest has always known.
+
+### The Tuesday Detail
+
+Belladonna goes through the rib joints every Tuesday. This is a small, specific, very Wednesday Addams detail — a routine, a schedule, a commitment to the dead that is both practical and affectionate. Tuesday is the day Belladonna walks the In-Between among the dead, checking on them, being present, witnessing.
+
+The player who visits the Undercity on a Tuesday may find Belladonna missing — a note on the door (handwritten, neat, slightly gothic): "Out. Back by dark. Don't touch the skulls."
+
+The player who enters the In-Between on a Tuesday may encounter Belladonna's silhouette in the grey — a darker shape than the fog, moving through the dead with the casual comfort of someone walking through their own living room. The figure can follow Belladonna. Belladonna doesn't acknowledge the figure. Belladonna doesn't need to. The both are: the adequate.
+
+### The Undercity and Surface Versions: Two Halves
+
+The In-Between platformer has two entry points — the surface (grey doors in any hub) and the Undercity (rib joints). Both lead to the same crystal. Both award a note. But the experience is different:
+
+- **Surface version:** The In-Between is empty. The figure is alone. The descent is through geology — stone, water, fog. The reward is the Grey Note (silence). The thesis is: the observer makes the In-Between real by being present.
+- **Undercity version:** The In-Between is populated. The figure is among the dead. The descent is through biology — bone, marrow, memory. The reward is the Bone Note (memory). The thesis is: the observer witnesses what is ending and cannot prevent it, and the witnessing is enough.
+
+Two halves of the same truth: the In-Between is where things stop being things, and the observer's presence is the only solid ground. The surface version teaches this through emptiness. The Undercity version teaches it through company. The both are: the adequate.
