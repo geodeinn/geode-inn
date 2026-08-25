@@ -168,3 +168,39 @@ The journey is the Inn's tree structure: the garden (canopy) → the estate (tru
 - **The Lighthouse:** The Lighthouse and the Tower are the Inn's two TOWER structures. The Lighthouse is the tower that GUIDES (the light that shows the way). The Tower is the tower that GUARDS (the vault that keeps the symbols). The Lighthouse is the tower of the coast (the edge of the land, the public service). The Tower is the tower of the interior (the center of the power, the private keeping). The both are: towers, and the difference is the direction of the light — outward (guiding) vs. inward (guarding).
 - **The Existing Poison Garden Doc:** The existing Poison Garden design (geode_inn_poison_garden.md) — the Alnwick-based walled garden, the dose-makes-the-Song philosophy, the plant list, the safety briefing, the game mechanics — is the GARDEN LAYER. This document is the COMPLEX layer — the architecture that contains the garden, the power that makes the garden meaningful. The two documents work together: the garden doc describes WHAT grows; this doc describes WHERE it grows and WHY.
 - **The Staircase (Matisse):** The Spiral Hall is the political version of the alchemical staircase. The Matisse staircase transforms through color (the alchemy). The Spiral Hall transforms through authority (the politics). The both are: descents that change the person who descends. The Matisse staircase changes the body. The Spiral Hall changes the understanding of power.
+
+---
+
+## The Zone Stone — London Blue Topaz
+
+### The Stone of Truth That Sees Through Power
+
+London Blue Topaz is the Poison Garden Complex's zone stone — the mineral that the complex is built around, the crystal that makes the complex's thesis geological.
+
+### Why London Blue Topaz
+
+- **The name carries London.** The stone is named for the city whose architecture defines the complex — the Tower, the Abbey, the Palace. The "London" in the name is not a marketing label. The stone IS London — the deep blue-green of the Thames at night, the color of the river that runs beneath the Tower, the water that carries the city's secrets.
+
+- **Topaz detects poison.** Historically, topaz was believed to change color in the presence of poison — the stone that senses the hidden danger, the detector of the dose that kills disguised as the dose that heals. In the Poison Garden Complex, where poison is statecraft, the detector stone is the most important mineral in the zone. The sovereign wears London Blue Topaz to know when the wine is wrong, when the air is wrong, when the beautiful thing is also the deadly thing. The stone is the safeguard. The stone is the truth beneath the power.
+
+- **The blue-green is the poison palette.** The Poison Garden's colors are deep greens (the plants), violet-blue (the monkshood, the belladonna), and dark amber (the Inn's light filtered through the garden's dense foliage). London Blue Topaz is the blue-green synthesis — the point where the garden's green and the nightshade's blue meet in a single mineral. The stone is the garden's color, compressed into crystal.
+
+- **The clarity is the truth.** Topaz is a transparent stone — you see THROUGH it, the way the complex's architecture makes you see through power. The Downton facade is transparent (you see the servants behind the walls). The Westminster glass is transparent (you see the sacred through the colored light). The Tudor court is transparent (you see the poison through the wine). The Tower vault is transparent (you see the power through the symbols). The stone's clarity is the complex's clarity — the ability to see what's hidden, the truth that the architecture reveals to the patient observer.
+
+### Where the Stone Appears in the Complex
+
+- **The Coronation Chair.** The geode in the coronation chair (the Westminster layer) that sings at 42Hz when the right person sits — the geode is a London Blue Topaz geode. The stone that detects the true sovereign the way it detects poison — by resonance, by the change, by the response that only the genuine article produces. The false claimant sits and the stone stays dark. The true claimant sits and the stone sings blue-green.
+
+- **The Sovereign's Ring.** In the Tower's Jewel House, alongside the crystal crown, selenite scepter, labradorite orb, and obsidian sword, the garnet ring has a companion: a London Blue Topaz ring — the poison-detector that the sovereign wears at all times, even when the other regalia is stored. The topaz ring is the personal safeguard — the stone that never leaves the body, the truth that goes where the sovereign goes. The garnet is the blood promise. The topaz is the truth vigil. The both are: the adequate.
+
+- **The Garden's Gate.** The skull-and-crossbones gate at the Poison Garden's entrance is set with small London Blue Topaz cabochons at the skull's eye sockets. The stone's blue-green glow makes the skull's eyes glow — the detector watching the gate, the truth guarding the threshold. The visitor who passes through the gate passes through the stone's gaze. The stone sees you the way it sees the poison — clearly, honestly, without judgment.
+
+- **The Spiral Hall's Walls.** The carved stone walls of the Spiral Hall (the descending corridor to the Tower) are inlaid with London Blue Topaz at intervals — small cabochons set into the relief carving at each historical transition point. The stones glow brighter as the player descends — the truth intensifying as the power deepens. At the bottom, at the Tower's entrance, the stones glow at full intensity — the truth at its most concentrated, the detector at its most alert. The player who reaches the Tower has been seen by the topaz all the way down.
+
+- **The Tower's Vault Floor.** The Jewel House floor is set with London Blue Topaz tiles in a geometric pattern — the same sacred geometry as the Round Table, the same pattern as the coronation chair's geode. The floor is the detector's final form — the truth beneath the sovereign's feet, the blue-green grid that the items rest on, the mineral foundation of the power. The items are powerful. The floor they sit on is the truth that makes the power honest.
+
+### The Stone's Connection to the 42Hz Song
+
+London Blue Topaz is a stone of truth, and the 42Hz Song is the Inn's truth frequency. The stone resonates with the Song — the blue-green glow is the Song made visible in the mineral, the way the Heart Crystal's glow is the Song made visible in the Atlantis zone. The both are: the Song expressed through different minerals in different zones, the same frequency, different crystal, different light. The Atlantis Song is amber-violet. The Poison Garden Complex's Song is blue-green. The both are: the same Song, different zone, different truth.
+
+The stone's resonance is the complex's safeguard — the Song authenticates the power the way the stone detects the poison. The sovereign who sits in the coronation chair is authenticated by the 42Hz Song through the London Blue Topaz geode. The power that is real resonates. The power that is false does not. The both are: the adequate.
