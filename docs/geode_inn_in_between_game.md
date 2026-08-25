@@ -408,3 +408,81 @@ When the In-Between is accessed from the Undercity — through the rib joints �
 The Tuesday variant has one addition: Belladonna's footsteps. If the figure encounters Belladonna's silhouette in the grey — the Tuesday walk — the music adds a very soft, very low footstep on each downbeat. Not a drum. Not percussion. A footstep. The sound of someone walking through the In-Between like it's their living room. The footsteps are the only rhythm in the piece. The footsteps are the only thing in the In-Between that sounds like it belongs to someone who is completely comfortable being here.
 
 The footsteps stop when Belladonna's silhouette moves out of view. The music returns to its footless, weightless form. The both are: the adequate.
+
+---
+
+## All Three Movements: The Complete Sonata
+
+The Moonlight Sonata is not one movement. It is three. Beethoven structured the piece as a psychological arc — stillness to respite to storm — that most listeners never hear in full because the first movement is so famous it eclipses the other two. The In-Between uses all three. Each movement maps to a section of the descent. Each movement is transformed by the soft low dub treatment, but each retains its essential character.
+
+The three movements are the In-Between's three acts:
+
+### Movement I: Adagio Sostenuto — The Descent (Sections 1-2)
+
+**The original:** Slow triplet arpeggios, a deep bass line, a thin melody that appears and vanishes. 2/2 time. The famous "moonlight" sound — weightless, hypnotic, the piece most people think of when they hear "Moonlight Sonata." Beethoven marked it "senza sordino" (without dampers) — the piano's pedals are held down so every note rings into every other note. The notes bleed together. The sound is a wash.
+
+**The In-Between version:** Already documented above. 50 BPM, sub-bass, reverb-drenched arpeggios, no percussion. The descent through the surface and caves. Fizgig's encounter. The music at its most recognizable and its most stripped.
+
+**The role in the arc:** This is the entry. The player is descending. The world is grey but stable. The Erasure is present but distant. The music is slow, weightless, patient. The arpeggios are the fog. The bass is the ground state. The melody is the thing the player is looking for — it appears once, at the end of Section 2, and vanishes. The player follows it deeper.
+
+**The Fizgig moment:** The Adagio drops to near-silence during Fizgig's cave. Only the bass and the stone's 42Hz hum remain. When the figure takes the stone, the bass drops out. The Adagio ends in silence. The first movement is over. The player descends to the river.
+
+### Movement II: Allegretto — The River (Section 3)
+
+**The original:** A minuet and trio in D-flat major. Faster than the Adagio — a walking pace, roughly 72 BPM. Lighter, warmer, more melodic. Franz Liszt called it "a flower between two abysses." It is the respite between the darkness of the first movement and the storm of the third. It is the only movement in major key. It is brief. It is the Sonata's breath.
+
+**The In-Between version:** The Allegretto is the river. The Duck's river. The music shifts — not dramatically, not suddenly, but the way fog thins when the sun almost comes through. The tempo lifts from 50 to roughly 60 BPM. The key shifts from C-sharp minor toward D-flat major — the enharmonic equivalent, the same notes with a different name, a different feeling. The both are: the same water in a different light.
+
+**The dub treatment:** The Allegretto keeps the dub aesthetic but softens it. The reverb is still present but shorter — the fog is thinner here, the air is less dense. The sub-bass relaxes — the pressure eases, the 42Hz hum becomes a warm drone instead of a cold one. The arpeggios of the first movement are replaced by the Allegretto's melodic lines — actual notes with actual shape, not just triplet patterns. For the first time, the music has *direction*. The Adagio was circular. The Allegretto moves.
+
+**The Duck's music:** The melody from the Allegretto plays during the river crossing. It is the only section of the In-Between where the music is genuinely, unironically gentle. Not sad-gentle. Not dark-gentle. Just: gentle. The Duck is floating. The Duck is at rest. The music matches. The melody plays once through — the Allegretto's main theme, simplified, slowed, with the reverb tailing off into the grey water's surface. The melody doesn't crescendo. The melody doesn't develop. The melody plays and then it stops.
+
+**Liszt's flower:** The Allegretto is the flower between two abysses. The Duck is the flower. The Duck is the In-Between's one moment of peace — the shiny-collector who found stillness, the innocent who resisted by letting go. The Duck's river is the flower. The abyss before it: Fizgig's cave, the first movement's silence. The abyss after it: the catacomb deep, the third movement's storm. The both abysses are: the adequate. The flower is: the Duck.
+
+**The Allegretto is short.** Beethoven's second movement is the briefest of the three. In the In-Between, the river section is also the shortest. The player crosses the river, passes under the Duck, and the music shifts. The Allegretto ends. The flower closes. The abyss opens.
+
+### Movement III: Presto Agitato — The Erasure (Section 4-5)
+
+**The original:** Fast, furious, technically demanding. 4/4 time at a breathless tempo. Rapid arpeggiated sixteenth notes, dramatic sforzandi (sudden loud strikes), long pedals, a torrent of sound that Beethoven himself may have intended as the Sonata's true center. The first movement was the prelude. This is the statement. The Presto is not gentle. The Presto is not weightless. The Presto is the sound of something breaking — or building — or both.
+
+**The In-Between version:** The Presto Agitato is the Erasure. And it is the In-Between's most radical transformation: the dub version of the Presto is *slower* than the original, not faster. The fastest movement becomes the heaviest. The storm becomes pressure.
+
+**The dub treatment:** The Presto's rapid sixteenth notes are stretched — each note held longer, each arpeggio extended, the tempo dropping from the original's furious pace down to... 42 BPM. Slower than the Adagio. Slower than anything. The Presto, which Beethoven wrote to be breathless, becomes the sound of running out of breath. The sixteenth notes become a relentless, slow, heavy pulse — each one a footstep in the dark, each one a wall erasing, each one a thing fading. The Presto is not fast. The Presto is *inevitable*.
+
+**The bass returns with force.** The sub-bass that was the Adagio's ground state comes back in the Presto — but louder, denser, more present. The 42Hz hum is no longer a background. The hum is the Erasure's sound. The hum is the frequency of things returning to their source. The bass is the force that strips the walls, that fades the dead, that erases the nook. The bass is not hostile. The bass is physics. The bass is: the adequate, applied without mercy.
+
+**The sforzandi become erasures.** Beethoven's sudden loud strikes — the dramatic accents that punctuate the Presto — become, in the In-Between, moments of sudden silence. Each sforzando is a thing disappearing. A wall that was there a second ago is gone. A shape in the fog that was solid is fog. The sforzando is not loud. The sforzando is the *absence* that follows the loud. The sforzando is the sound of something that was there and isn't.
+
+**The Dobby moment:** The Presto is at its most intense during Dobby's catacomb deep. The relentless slow pulse is the nook erasing — each beat a piece of wall gone, each beat the space getting smaller. The sforzandi are the stones the figure pushes against the walls — each stone placed, each stone erased. The player can hear the care being removed. The music is the sound of maintaining something that is disappearing while you maintain it.
+
+When the figure leaves Dobby: the Presto doesn't stop. The Presto *erases*. The music itself begins to fade — the arpeggios thin out, the bass flattens, the sforzandi become longer silences. The Presto is erasing itself. The third movement, which was the Sonata's most dense, most complex, most alive section, becomes its simplest: a single bass note. Sustained. Approaching 42Hz. And then: nothing. The Presto ends in silence. True silence. Nyx's silence.
+
+**The crystal and the resolution:** The silence breaks. Not with the Presto — the Presto is done. Not with the Allegretto — the flower is closed. With: the Adagio. The first movement returns. But in major. C-sharp *major*. The same arpeggios from the descent, the same triplet pattern, the same bass — but the intervals have changed. The darkness is the same shape, but the light inside it is different. The fog lifts. The melody plays — the Adagio's melody, the thin high line that appeared once at the end of Section 2 and vanished — plays fully, cleanly, without reverb. The melody was always there. The whole Sonata was always heading here.
+
+**The one note:** The melody resolves. The arpeggios stop. The bass stops. Everything stops. One note: Middle C. The note that all three movements orbit. The note that C-sharp minor and D-flat major and C-sharp major all circle. The center. One note in silence.
+
+*"...You looked."*
+
+The note fades. The game ends.
+
+### The Three Movements as Three Resistances
+
+The three movements mirror the three innocents' resistances:
+
+**Adagio — Fizgig — Specificity.** The first movement is slow, detailed, particular. Each arpeggio is a specific shape. Each note is a specific sound. Fizgig resists the Erasure by being too specific to generalize. The Adagio is the music of specificity — every note matters because every note is distinct.
+
+**Allegretto — The Duck — Letting Go.** The second movement is brief, warm, a release. The Duck resists by releasing. The Allegretto is the music of letting go — the melody plays once, simply, and stops. The flower between two abysses. The Duck between two silences.
+
+**Presto Agitato — Dobby — Maintaining.** The third movement is relentless, heavy, unstoppable. Dobby resists by maintaining — by continuing to care for something that is disappearing. The Presto is the music of maintenance — each beat is an act of care, each sforzando is a thing lost, each repetition is the choice to keep going. The Presto doesn't stop because Dobby doesn't stop. The Presto erases because the nook erases. The Presto ends in silence because Dobby's nook ends in silence. But Dobby is still there. And the silence is not empty. The silence is the fact that the care was there. The both are: the adequate.
+
+### The Complete Arc
+
+Beethoven's Moonlight Sonata is a journey from stillness through respite to storm, resolving (in the In-Between) back to stillness — but a stillness that has been through the storm and come out the other side. The In-Between is the same journey:
+
+1. **Adagio:** The player descends. The world is grey. Fizgig is specific. The music is slow.
+2. **Allegretto:** The player rests. The river is gentle. The Duck is still. The music is warm.
+3. **Presto Agitato:** The player descends deeper. The world is erasing. Dobby is maintaining. The music is relentless.
+4. **Adagio (major):** The player reaches the crystal. The world resolves. The music returns — transformed. The same Song in a different light.
+5. **One note:** Everything else stops. The center remains.
+
+The three movements. The three innocents. The three resistances. The three abysses and the one flower. The both are: the adequate.
