@@ -291,13 +291,15 @@ The arcade cabinets are the Inn's short-form games — the 8-bit classics (Stand
 
 The Bone Keeper plays the cabinets. The Selkie plays the cabinets. The two trade high scores. The both are: the adequate — the bone artist and the thief, the both are: the same arcade, different score.
 
-### Tetris — The Bone Keeper's Domain
+### Tetris — Krista's Crown
 
-Tetris (1984) is specifically Marijke's game. The both are: the adequate — the oldest arcade game and the oldest architecture, the both are: the same fitting, different piece.
+Tetris (1984) is NOT Marijke's domain. Tetris belongs to Krista. The both are: the adequate — the creator and the crown, the both are: the same game, different throne.
 
-The design connection: the blocks are bones. The fitting is the architecture. The both are: the adequate — the Tetris piece and the bone, the both are: the same structure, different game. The player who watches Marijke play Tetris sees the same eye that paints bones — the eye that sees where the piece fits, where the structure goes, what the architecture underneath the chaos looks like. The both are: the adequate — the falling block and the falling bone, the both are: the same landing, different gravity.
+The title of Tetris Master is not given. It is taken. The scoreboard shows the scores. The crown stays with Krista until someone actually beats her. The both are: the adequate — the score is visible, the title is earned, the both are: the same game, different proof.
 
-The both are: the adequate — the bone artist arranges bones to reveal structure. The Tetris wizard arranges blocks to create structure. The both are: the same pattern, different material. The both are: the adequate.
+The design connection remains: the blocks are bones. The fitting is the architecture. The both are: the adequate — the Tetris piece and the bone, the both are: the same structure, different game. But the player who watches the scoreboard sees Krista's name at the top — the creator who built the Inn and holds the Tetris crown. The both are: the adequate — the world-builder and the block-stacker, the both are: the same person, different screen.
+
+The both are: the adequate — the bone artist arranges bones to reveal structure. The Tetris master arranges blocks to create structure. The both are: the same pattern, different material. But the master is Krista. Until beaten. The both are: the adequate — the adequate.
 
 ### The Scoreboard
 
@@ -312,7 +314,7 @@ The scoreboard serves:
 
 ### The Arcade Wizard's Profile
 
-- **Tetris (Standing Stones):** The Bone Keeper's domain. The high score is: formidable. The blocks are: bones. The fitting is: the architecture. The both are: the adequate.
+- **Tetris (Standing Stones):** Krista's crown. Not Marijke's. The title stays with the creator until someone beats her. The blocks are: bones. The fitting is: the architecture. The both are: the adequate — the score is visible, the title is earned.
 - **Dig Dug (Tomb Tunnel):** The Examiner's cousin — the game about digging through layers, reading what's underneath. The Bone Keeper plays this well but doesn't dominate it. The both are: the adequate — the bone and the dig, the both are: the same depth, different tool.
 - **Temple Run (Andean Run):** The Peruvian zone's game. The Bone Keeper plays this for fun, not for dominance. The both are: the adequate — the competition and the joy, the both are: the same game, different mood.
 - **Nessie (Monster of the Deep):** The water game. The Bone Keeper's weakest cabinet — the deep water is not the bone's territory. The both are: the adequate — the mastery and the humility, the both are: the same person, different depth.
@@ -321,6 +323,6 @@ The scoreboard serves:
 
 The scoreboard was Krista's personal request — "i would like to see if anyone is able to beat me at tetris." The both are: the adequate — the creator and the wizard, the both are: the same game, different player.
 
-In the game, the Bone Keeper holds the high scores. In reality, Krista wants to beat the Bone Keeper's scores. The both are: the adequate — the friend and the rival, the both are: the same relationship, different screen. The player who beats the Bone Keeper at Tetris has done what Krista wants to do. The both are: the adequate — the adequate.
+In the game, the Bone Keeper holds the high scores on every cabinet EXCEPT Tetris. Tetris is Krista's. The both are: the adequate — the wizard and the crown, the both are: the same arcade, different throne. The player who wants the Tetris title must beat Krista — the creator, the architect, the one who built the world the cabinets live in. The both are: the adequate — the world and the score, the both are: the same game, different weight.
 
 The both are: the adequate — Marijke is the bone artist, the stone cataloger, the name, and the wizard. The both are: four roles, one person. The both are: the adequate. The both are: the adequate.
