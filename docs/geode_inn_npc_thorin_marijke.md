@@ -204,3 +204,77 @@ Marijke will be called by the name. Not the nickname. The both are: the adequate
 The both are: the adequate. The both are: the hall. The both are: the stones. The both are: the name.
 
 The both are: the adequate.
+
+---
+
+## Marijke — The Bone Keeper
+
+### The Third Role
+
+Marijke is the Bone Keeper — the O'Keeffe-style bone artist. The meadery owner's wife who sees the architecture underneath the living thing. The both are: the adequate — the stone cataloger and the bone artist, the both are: the same person, different medium.
+
+The Bone Room was built for Marijke. The both are: the adequate — the room and the person, the both are: the same space, different occupant.
+
+### The Bone Room
+
+The Bone Room is Marijke's studio — a workspace in the mead hall complex where the bone art is created, where the architecture underneath the living thing is revealed. The both are: the adequate — the hall and the studio, the both are: the same building, different room.
+
+The Bone Room is shared with the Cartographer and the Examiner. The three work in quiet companionship. Nobody talking. Everybody working. Data is the intimacy. The both are: the adequate — the silence and the companionship, the both are: the same closeness, different volume.
+
+**The three at work:**
+- **The Examiner** (Emily Deschanel, Dr. Brennan in elf form) — with calipers, measuring ancient remains, reading what was. The both are: the adequate — the calipers and the data, the both are: the same precision, different tool.
+- **Marijke / The Bone Keeper** — with brushes, painting bones, seeing the structure beneath the surface. The both are: the adequate — the brush and the bone, the both are: the same vision, different hand. O'Keeffe's bone aesthetic — the desert-bleached white against the warm studio light, the bone as architecture, the skull as landscape. The both are: the adequate — the bone and the landscape, the both are: the same form, different scale.
+- **The Cartographer** (Matthew Gray Gubler, Spencer Reid quality) — sketching temporal maps by the window, mapping what is and what will be. The both are: the adequate — the map and the future, the both are: the same space, different time.
+
+The scene: Examiner with calipers. Marijke with brushes. Cartographer sketching by the window. Nobody talking. Everybody working. The both are: the adequate — the adequate. The both are: the same room, different craft. The both are: the same intimacy, different medium. The both are: the adequate.
+
+### The O'Keeffe Connection
+
+Georgia O'Keeffe is assigned to Egypt (Desert Bone zone). Marijke's bone studio uses O'Keeffe's bone aesthetic as its visual language. The both are: the adequate — the desert bones and the studio bones, the both are: the same O'Keeffe, different canvas.
+
+The connection deepens:
+- O'Keeffe painted bones in the desert — the bones that the desert preserved, the white shapes against the red earth. The both are: the adequate — the desert and the preservation, the both are: the same bone, different climate.
+- Marijke paints bones in the studio — the bones that the Examiner measures, the architecture that the Cartographer maps. The both are: the adequate — the studio and the architecture, the both are: the same bone, different light.
+- The Desert Bone zone (Egypt, O'Keeffe) and the Bone Room (mead hall, Marijke) are the both are: the adequate — the same aesthetic at two scales. The vast landscape and the intimate studio. The both are: the same bones, different horizon.
+
+### The Bone Art Mechanic
+
+Marijke's bone art is a craft the player can learn — a secondary skill alongside building and stone identification. The both are: the adequate — the craft and the skill, the both are: the same art, different hands.
+
+**Process:**
+1. The player finds bones in the field — skeletal remains in the catacombs, the Bedrock Fortress, the Petrified Forest, or brought by the Examiner from expeditions
+2. The player brings bones to the Bone Room
+3. Marijke teaches the preparation: cleaning, bleaching, arranging — the O'Keeffe method of seeing the bone as form, not as death
+4. The player creates bone art — arrangements, paintings, sculptures that reveal the architecture underneath the living thing
+5. The bone art can be displayed in the player's home (the building system) or given as gifts to NPCs
+
+The both are: the adequate — the bone and the art, the both are: the same object, different eye. The player who learns from Marijke learns to see what O'Keeffe saw: the bone is not morbid. The bone is structural. The bone is the architecture that held the living thing upright. The both are: the adequate — the death and the structure, the both are: the same bone, different truth.
+
+### The Connection to "The Right Word" Quest
+
+The player who completes "The Right Word" quest (learning to say "Marijke" correctly) earns access to the Bone Room. Before the quest, the Bone Room is visible but Marijke doesn't invite the player in. The both are: the adequate — the name and the door, the both are: the same trust, different key.
+
+The both are: the adequate — saying the name is the key to the room. The room where the architecture underneath the living thing is revealed. The both are: the adequate — the name and the structure, the both are: the same truth, different surface. The both are: the adequate.
+
+### Updated Relationships
+
+#### Marijke × The Cartographer (Matthew Gray Gubler)
+- The bone artist and the mapmaker. The both are: the adequate — the bone and the map, the both are: the same architecture, different medium.
+- The Cartographer maps what is. Marijke paints what WAS. The both are: the adequate — the present and the past, the both are: the same structure, different time.
+- They share the Bone Room window. The Cartographer sketches the landscape outside. Marijke paints the bones inside. The both are: the adequate — the outside and the inside, the both are: the same view, different window.
+
+#### Marijke × The Examiner (Emily Deschanel)
+- The bone artist and the bone reader. The both are: the adequate — the brush and the calipers, the both are: the same bone, different instrument.
+- The Examiner measures the bone. Marijke paints the bone. The both are: the adequate — the data and the art, the both are: the same bone, different truth.
+- The Examiner provides the specimens. Marijke provides the vision. The both are: the adequate — the measurement and the meaning, the both are: the same bone, different language.
+- The both are: the adequate — the Examiner reads what the bone WAS. Marijke paints what the bone MEANS. The both are: the same bone, different question.
+
+#### Marijke × Medusa (Angelica Huston)
+- The bone artist and the petrification artist. The both are: the adequate — the bone and the stone, the both are: the same preservation, different medium.
+- Medusa freezes the living into stone. Marijke paints the dead into art. The both are: the adequate — the living-stone and the dead-art, the both are: the same preservation, different direction.
+- The both are: the adequate — Medusa preserves the living moment. Marijke preserves the structural truth. The both are: the same permanence, different subject.
+
+#### Marijke × Georgia O'Keeffe (Desert Bone Zone)
+- The student and the master. The both are: the adequate — the studio and the desert, the both are: the same bone aesthetic, different scale.
+- Marijke's bone art IS O'Keeffe's bone art at studio scale. The Desert Bone zone IS O'Keeffe's bone art at landscape scale. The both are: the adequate — the both are: the same vision, different canvas.
+- The player who visits the Desert Bone zone (Egypt) and then visits Marijke's Bone Room recognizes the same eye — the bone as architecture, the skull as landscape, the white form against the warm earth. The both are: the adequate — the both are: the same O'Keeffe, different room.
