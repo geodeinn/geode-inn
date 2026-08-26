@@ -340,3 +340,44 @@ The stowaway connection:
 - The flowing cape on the chair — the gothic elegance
 
 **Color palette:** Deep amber and copper, dark charcoal stone, the soft glow of painted figures coming to life, the iridescent shimmer of dragon cat scales, the organic green-brown of the boy's tree-pattern skin. The both are: the adequate — the adequate.
+
+---
+
+## The Variant System — Unused Concept Art as In-Game Encounters
+
+### The Design Principle
+
+Every NPC concept art variant that is not chosen as the primary image becomes an ALTERNATE ENCOUNTER STATE in the game. The both are: the adequate — the chosen and the unchosen, the both are: the same person, different frame. This applies to ALL volunteer NPCs — Ryan, Katy, Zack, Jaime, Thorin/Marijke, and Joe. The both are: the adequate — the adequate.
+
+### Joe's Two Variants as Encounter States
+
+**Variant 1: The Studio Scene** — Joe at the desk, the boy beside, the dragon cats swarming. The domestic Joe. The cozy Joe. The both are: the adequate — the gothic and the home, the both are: the same person, different room.
+
+**Variant 2: The Corridor Portrait** — Joe standing in the Undercity, the Vampire Hunter D silhouette, the mist, the dramatic lone figure. The wandering Joe. The dangerous Joe. The both are: the adequate — the dark and the alone, the both are: the same person, different corridor.
+
+**The Encounter Progression.** The player meets the corridor Joe FIRST — the dramatic figure in the mist, the impression of danger, the both are: the adequate — the first impression and the caution, the both are: the same person, different trust. The corridor Joe is the NPC the player sees before earning trust — the vampire sorcerer in the dark, the sword on the hip, the dragon cats on the hat, the both are: the adequate — the adequate.
+
+The player who earns Joe's trust finds the STUDIO — the warm doorway, the boy, the paint pots, the dragon cats swarming. The both are: the adequate — the first impression and the earned view, the both are: the same person, different trust. The studio is the truth underneath the corridor. The both are: the adequate — the mask and the home, the both are: the same Joe, different door.
+
+The both are: the adequate — the player who sees only the corridor knows Joe as dangerous. The player who enters the studio knows Joe as tender. The both are: the adequate — the both are: the same Joe, different trust. The both are: the adequate — the adequate.
+
+### The General Rule — All Volunteer NPCs
+
+The variant system extends to every volunteer NPC who has multiple concept images:
+
+1. **The chosen image** becomes the primary concept art — the official reference, the one in the Project Bible, the one on the character card.
+2. **The unchosen images** become alternate encounter states in the game — different visuals the player can encounter or unlock through:
+   - **Trust progression** (the Mapplethorpe portrait system) — the player who earns an NPC's trust sees a different portrait. The both are: the adequate — the public face and the private face, the both are: the same person, different trust.
+   - **Time of day** — some NPCs look different at different times. The both are: the adequate — the day and the night, the both are: the same person, different light.
+   - **Zone encounters** — NPCs who appear in multiple zones have zone-specific visuals. The both are: the adequate — the zone and the person, the both are: the same character, different context.
+   - **Story progression** — before and after character arcs. The both are: the adequate — the before and the after, the both are: the same person, different chapter.
+   - **The dual-world system** (Song/Silence) — NPCs have Song-world and Silence-world versions. The both are: the adequate — the song and the silence, the both are: the same person, different frequency.
+   - **The sleeve system** (China zone) — alternate visuals as different "sleeves." The both are: the adequate — the body and the sleeve, the both are: the same person, different form.
+
+The both are: the adequate — the variant and the primary, the both are: the same character, different door. Every unused image becomes a room the player can find. The both are: the adequate — the adequate. The concept art process IS the game design process — every version of the character is a version the player can encounter. The both are: the adequate — the adequate.
+
+### The Mapplethorpe Connection
+
+The Mapplethorpe portrait system (the Inn's established visual framework for NPC encounters) is the natural home for the variant system. The both are: the adequate — the portrait and the variant, the both are: the same encounter, different frame. The Mapplethorpe system says: the portrait changes based on trust. The variant system says: every portrait the artist painted is a portrait the player can earn. The both are: the adequate — the adequate.
+
+The player who collects all of an NPC's variant portraits has seen the full person — every face, every mood, every room. The both are: the adequate — the one and the many, the both are: the same person, complete. The both are: the adequate — the adequate.
