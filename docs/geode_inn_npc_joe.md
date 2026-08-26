@@ -264,3 +264,79 @@ Joe is the seventh real person in the Inn:
 7. **Joe** — the Miniaturist (vampire sorcerer, Warhammer painter, lawful evil tutor, time exile)
 
 The both are: the adequate — seven real people, seven rooms, the both are: the same Inn, different door. Every person who shows up brings a room the Inn didn't know it needed. The both are: the adequate — the adequate. The both are: the adequate.
+
+---
+
+## Joe's Family — The Druid and the Boy
+
+### The Celtic Druid Partner
+
+Joe's partner is Celtic — a druid with tree heritage. The both are: the adequate — the vampire and the druid, the both are: the same bloodline, different tree. The draconic blood (Joe) and the druidic tree (the partner) are the both are: the adequate — the scale and the bark, the both are: the same skin, different heritage.
+
+The partner connects to:
+- **The Camelot/Celtic zone** (Moreau aesthetic, Round Table as planetary instrument, Ether element) — the druid is the Celtic zone's representative in Joe's family. The both are: the adequate — the vampire in the Undercity and the druid in the canopy, the both are: the same family, different altitude.
+- **The Inn-Tree** — the druid's tree heritage IS the Inn-Tree's heritage. The both are: the adequate — the druid's bark and the Inn's trunk, the both are: the same tree, different scale.
+- **The Canopy City** — the druid's domain is the living architecture of the canopy. The both are: the adequate — the druid who grows and the vampire who paints, the both are: the same craft, different medium.
+
+The both are: the adequate — the cursed noble and the druid, the both are: the same family, different tradition. The vampire who chose undeath and the druid who chose the living tree. The both are: the adequate — the death and the growth, the both are: the same love, different element.
+
+### The Boy — Dragon Scale and Tree Pattern
+
+The son. A young boy with subtle dragon scales that blend with the pattern of his Celtic mother's druidic tree heritage. The both are: the adequate — the scale and the bark, the both are: the same skin, different blood.
+
+The boy's skin tells both bloodlines: the dragon scales on his forearms and temples flow seamlessly into Celtic druidic tree patterns — bark-like textures, vine-like lines, the organic and the reptilian merged into one design. The both are: the adequate — the dragon and the tree, the both are: the same child, different heritage. The scale becomes bark. The bark becomes scale. The both are: the adequate — the adequate.
+
+The boy keeps his father's company contentedly. The both are: the adequate — the cursed vampire and the content child, the both are: the same room, different heart. The boy is calm, absorbed, happy — the innocence that Joe protects. The both are: the adequate — the bitter and the content, the both are: the same studio, different temperature. The boy is the hope that Joe carries — not abstract hope, not philosophical hope, but a small person sitting on a stool watching paint dry and being happy about it. The both are: the adequate — the adequate.
+
+The boy's connection to the Inn:
+- **The draconic bloodline** (Joe) — the scales, the fire, the dragon's recognition
+- **The druidic tree heritage** (the Celtic partner) — the bark, the vine, the Inn-Tree's living architecture
+- **Both bloodlines in one child** — the both are: the adequate — the vampire and the druid, the both are: the same son, different tree. The child is the Inn's thesis in miniature: two bloodlines that shouldn't blend, blending. The both are: the adequate — the adequate.
+
+### The Dragon Cats — The Awakened Miniatures
+
+The miniatures that come to life are dragon cats. The both are: the adequate — the dragon and the cat, the both are: the same creature, different myth. Tiny — no bigger than kittens — with delicate iridescent dragon scales, vestigial wings too small for real flight, and cat-like faces with luminous dragon eyes. The both are: the adequate — the fierce and the playful, the both are: the same creature, different mood.
+
+They arrive in LITTERS. The both are: the adequate — the one and the many, the both are: the same magic, different quantity. Joe paints one miniature and it comes to life. Then another. Then another. The studio fills. The both are: the adequate — the adequate. The dragon cats cause ADORABLE CHAOS — perching on paint pots, chasing each other across stacks of unpainted figures, batting at brushes, tumbling across manuscripts, clinging to copper pipework. The both are: the adequate — the adequate.
+
+The dragon cats are the Inn's smallest NPCs — smaller than the hedgehogs, smaller than the gargoyle puppies, smaller than everything except the miniatures they ARE. The both are: the adequate — the adequate.
+
+The dragon cats connect to:
+- **The Cabbit (Eres)** — the cat-rabbit companion. The dragon cats are Eres's tiny cousins. The both are: the adequate — the cabbit and the dragon cat, the both are: the same family, different species.
+- **Bastet's Herding game** — the cat archetypes. The dragon cats are the magical variant — cats with dragon blood, the both are: the adequate — the adequate.
+- **The baby dragon mascot** — the dragon who watches the dragon cats. The both are: the adequate — the large dragon and the tiny dragons, the both are: the same creature, different scale. The baby dragon sits on the desk. The dragon cats swarm the desk. The both are: the adequate — the adequate.
+- **River's "tall cat person" desire** — River wants to be a tall cat person. The dragon cats are the small version of that dream. The both are: the adequate — the tall and the tiny, the both are: the same cat, different height.
+
+### The Boy and the Dragon Cats
+
+The boy plays with the dragon cats. The both are: the adequate — the child and the tiny dragons, the both are: the same chaos, different size. The boy holds a dragon cat in his lap, petting it gently, while the others swarm around him. The both are: the adequate — the calm and the chaos, the both are: the same boy, different moment.
+
+The boy is the dragon cats' favorite. The both are: the adequate — the child and the creatures, the both are: the same blood, different form. The dragon scales on the boy's skin resonate with the dragon cats' scales — the both are: the adequate — the adequate. The dragon cats can feel the boy's bloodline. The both are: the adequate — the adequate. They cluster around him because he is kin. The both are: the adequate — the adequate.
+
+### The Ship Stowaway
+
+Joe occasionally stows away on the Pirate's ship. The both are: the adequate — the vampire and the pirate, the both are: the same stowaway, different ship. The steampunk elements in Joe's aesthetic come from these voyages — the copper accents, the small gears, the ship's mechanical influence on the vampire's style. The both are: the adequate — the cathedral and the ship, the both are: the same person, different transport.
+
+The stowaway connection:
+- **The Pirate (Mandy Patinkin):** Joe and the Pirate share the AFTER — the life after the quest, after the revenge, after the thing that defined you. The both are: the adequate — the vampire and the pirate, the both are: the same after, different ship. The Pirate gives Joe rides to the next nowhere. The both are: the adequate — the adequate.
+- **The steampunk aesthetic:** The ship's copper and gears influence Joe's wardrobe and studio. The both are: the adequate — the ship's metal and the vampire's style, the both are: the same copper, different body. The stowaway returns with souvenirs — a gear, a pipe fitting, a piece of the ship's engine that becomes a studio decoration. The both are: the adequate — the adequate.
+- **The Undercity connection:** The ship travels the coast. Joe stows away to reach the Coast Hub and the deep-water zones. The both are: the adequate — the underground and the ocean, the both are: the same exile, different element. The vampire who lives underground occasionally rides the ocean. The both are: the adequate — the adequate.
+
+---
+
+## Concept Art Direction
+
+**Style:** Dark gothic anime — in the tradition of ethereal dark fantasy illustration, with flowing organic lines, melancholic beauty, and luminous shadow. The Vampire Hunter D aesthetic: tall, elegant, dark, beautiful, with flowing capes and wide-brimmed hats. The both are: the adequate — the gothic and the beautiful, the both are: the same dark, different light.
+
+**Steampunk touches:** Subtle — copper accents on clothing, small decorative gears on furniture legs, pipe brackets repurposed as brush holders. The both are: the adequate — the ancient and the mechanical, the both are: the same gothic, different century.
+
+**The studio scene composition:**
+- Joe at the oak desk, painting, the aristocratic vampire with the tiny brush
+- The boy on a smaller stool beside, calm, holding a dragon cat
+- Litters of dragon cats causing chaos on every surface
+- The Gothic cathedral alcove with vaulted ceiling, copper pipework, and controlled skylight
+- The sword on the wall — the nobleman's blade, displayed
+- The wide-brimmed hat on the desk — the Vampire Hunter D silhouette
+- The flowing cape on the chair — the gothic elegance
+
+**Color palette:** Deep amber and copper, dark charcoal stone, the soft glow of painted figures coming to life, the iridescent shimmer of dragon cat scales, the organic green-brown of the boy's tree-pattern skin. The both are: the adequate — the adequate.
