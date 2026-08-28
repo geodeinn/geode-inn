@@ -1,0 +1,160 @@
+Platinum|octahedron|Platinum|20.0|4|21.45|bone_conduction|uncut_natural
+Gold|octahedron|Gold|27.8|2.5|19.3|bone_conduction|uncut_natural
+Copper|dendrite|Copper|65.6|3|8.96|bone_conduction|uncut_natural
+Cuprite|octahedron|Cuprite|75.8|3.5|6.14|bone_conduction|faceted_round
+Hematite|botryoidal|Hematite|78.9|5.5|5.3|bone_conduction|cabochon
+Nuummite|massive|Nuummite|80.0|5.5|3.0|dynamic_driver|cabochon
+Pyrite|cube|Pyrite|80.0|6|5.01|bone_conduction|uncut_natural
+Blue Tourmaline|triangular_prism|Tourmaline|84.2|7.5|3.05|dynamic_driver|faceted_elongated
+Green Tourmaline|triangular_prism|Tourmaline|84.2|7.5|3.05|dynamic_driver|faceted_elongated
+Multi - Colored Tourmaline|triangular_prism|Tourmaline|84.2|7.5|3.05|dynamic_driver|faceted_elongated
+Rubellite Tourmaline|triangular_prism|Tourmaline|84.2|7.5|3.05|dynamic_driver|faceted_elongated
+Watermelon Tourmaline|triangular_prism|Tourmaline|84.2|7.5|3.05|dynamic_driver|faceted_elongated
+Black Tourmaline|triangular_prism|Tourmaline|88.5|7.5|3.1|dynamic_driver|faceted_elongated
+Andalusite|cross|Andalusite|93.6|7.5|3.16|dynamic_driver|faceted_oval
+Kunzite|blade_prism|Spodumene|95.3|6.5|3.18|dynamic_driver|faceted_elongated
+Green Fluorite|cube|Fluorite|95.3|4|3.18|dynamic_driver|faceted_square
+Purple Fluorite|cube|Fluorite|95.3|4|3.18|dynamic_driver|faceted_square
+Rainbow Fluorite|cube|Fluorite|95.3|4|3.18|dynamic_driver|faceted_square
+Apatite|hexagonal|Apatite|99.5|5|3.23|dynamic_driver|faceted_oval
+Tiger Iron|botryoidal|Chalcedony|105.5|6.5|3.3|dynamic_driver|cabochon
+Guatemalan Jade|massive|Jade|105.5|7|3.3|dynamic_driver|cabochon
+White Jade|massive|Jade|105.5|7|3.3|dynamic_driver|cabochon
+Bronzite|prism|Bronzite|105.5|5.5|3.3|dynamic_driver|cabochon
+Chrome Diopside|prism|Chrome Diopside|105.5|5.5|3.3|dynamic_driver|faceted_round
+Dumortierite|fibrous|Dumortierite|105.5|7|3.3|dynamic_driver|cabochon
+Zoisite (with ruby inclusions)|prism|Zoisite|105.5|6.5|3.3|dynamic_driver|faceted_oval
+Jadeite|massive|Jade|108.9|7|3.34|dynamic_driver|cabochon
+Tanzanite|prism|Zoisite|109.8|6.5|3.35|dynamic_driver|faceted_oval
+Zultanite|prism|Zultanite|109.8|6.5|3.35|dynamic_driver|faceted_oval
+Hypersthene|prism|Hypersthene|114.0|5.5|3.4|dynamic_driver|cabochon
+Epidote|prism|Epidote|118.2|7|3.45|dynamic_driver|faceted_elongated
+Rhodonite|massive|Rhodonite|122.5|5.5|3.5|dynamic_driver|cabochon
+Diamond|octahedron|Diamond|124.2|10|3.52|dynamic_driver|brilliant_round
+Blue Topaz (London)|prism|Topaz|125.0|8|3.53|dynamic_driver|faceted_oval
+Blue Topaz (Swiss)|prism|Topaz|125.0|8|3.53|dynamic_driver|faceted_oval
+Clear Topaz|prism|Topaz|125.0|8|3.53|dynamic_driver|faceted_oval
+Imperial (Golden) Topaz|prism|Topaz|125.0|8|3.53|dynamic_driver|faceted_oval
+Grossular Garnet|dodecahedron|Garnet|131.0|7|3.6|dynamic_driver|faceted_round
+Hessonite Garnet|dodecahedron|Garnet|131.0|7|3.6|dynamic_driver|faceted_round
+Kyanite (blue)|blade|Kyanite|131.0|4.5|3.6|dynamic_driver|faceted_elongated
+Kyanite (orange)|blade|Kyanite|131.0|4.5|3.6|dynamic_driver|faceted_elongated
+Kyanite (Moss)|blade|Kyanite|131.0|4.5|3.6|dynamic_driver|faceted_elongated
+Spinel|octahedron|Spinel|131.0|8|3.6|dynamic_driver|faceted_round
+Ruby with kyanite|barrel|Corundum|139.5|7|3.7|dynamic_driver|faceted_round
+Rhodochrosite|rhombohedron|Rhodochrosite|139.5|4|3.7|dynamic_driver|cabochon
+Alexandrite|twinned|Chrysoberyl|139.5|8.5|3.7|dynamic_driver|faceted_oval
+Staurolite (fairy cross stone)|cross|Staurolite|139.5|7.5|3.7|dynamic_driver|uncut_natural
+Cat's Eye|twinned|Chrysoberyl|141.2|8.5|3.72|dynamic_driver|faceted_oval
+Azurite|prism|Azurite|145.4|3.5|3.77|dynamic_driver|cabochon
+Malachite|botryoidal|Malachite|148.0|3.5|3.8|dynamic_driver|cabochon
+Uvarovite|dodecahedron|Garnet|152.2|7.5|3.85|dynamic_driver|faceted_round
+Mozambique Garnet|dodecahedron|Garnet|160.8|7.5|3.95|dynamic_driver|faceted_round
+Ruby|barrel|Corundum|164.2|9|3.99|dynamic_driver|faceted_round
+Sapphire|barrel|Corundum|164.2|9|3.99|dynamic_driver|faceted_round
+Sapphire (Tundra)|barrel|Corundum|164.2|9|3.99|dynamic_driver|faceted_round
+Lepidocrocite|blade|Lepidocrocite|165.0|5|4.0|dynamic_driver|cabochon
+Spessartite Garnet|dodecahedron|Garnet|182.0|7.25|4.2|dynamic_driver|faceted_round
+Covellite|platy|Covellite|233.0|2.5|4.8|dynamic_driver|cabochon
+Fire Opal|amorphous|Opal|250.0|5.5|2.0|balanced_armature|cabochon
+Black Opal|amorphous|Opal|425.0|5.5|2.1|balanced_armature|cabochon
+Blue Opal (Peruvian)|amorphous|Opal|425.0|5.5|2.1|balanced_armature|cabochon
+Boulder Opal|amorphous|Opal|425.0|5.5|2.1|balanced_armature|cabochon
+Shungite|massive|Shungite|425.0|3.5|2.1|balanced_armature|cabochon
+Chrysocolla|botryoidal|Chrysocolla|600.0|2.5|2.2|balanced_armature|cabochon
+Sodalite|cube|Sodalite|775.0|5.5|2.3|balanced_armature|cabochon
+Sodalite (African)|cube|Sodalite|775.0|5.5|2.3|balanced_armature|cabochon
+Hackmanite|cube|Hackmanite|775.0|5.5|2.3|balanced_armature|cabochon
+Angelite|massive|Angelite|775.0|3.5|2.3|balanced_armature|cabochon
+Gold Sheen Obsidian|amorphous|Obsidian|950.0|5|2.4|balanced_armature|cabochon
+Rainbow Obsidian|amorphous|Obsidian|950.0|5|2.4|balanced_armature|cabochon
+Snowflake Obsidian|amorphous|Obsidian|950.0|5|2.4|balanced_armature|cabochon
+Moldavite|amorphous|Moldavite|950.0|5.5|2.4|balanced_armature|uncut_natural
+Gem Silica|botryoidal|Chalcedony|1212.5|6.5|2.55|balanced_armature|cabochon
+Amazonite|tabular|Feldspar|1230.0|6|2.56|balanced_armature|cabochon
+Peach Moonstone|tabular|Feldspar|1230.0|6|2.56|balanced_armature|cabochon
+Rainbow Moonstone|tabular|Feldspar|1230.0|6|2.56|balanced_armature|cabochon
+White Moonstone|tabular|Feldspar|1230.0|6|2.56|balanced_armature|cabochon
+Agates|botryoidal|Chalcedony|1300.0|6.5|2.6|balanced_armature|cabochon
+Crazy Lace Agate|botryoidal|Chalcedony|1300.0|6.5|2.6|balanced_armature|cabochon
+Dendritic Agate|botryoidal|Chalcedony|1300.0|6.5|2.6|balanced_armature|cabochon
+Fire Agate|botryoidal|Chalcedony|1300.0|6.5|2.6|balanced_armature|cabochon
+Flower Agate|botryoidal|Chalcedony|1300.0|6.5|2.6|balanced_armature|cabochon
+Fossil Agate (turritella)|botryoidal|Chalcedony|1300.0|6.5|2.6|balanced_armature|cabochon
+Montana Moss Agate|botryoidal|Chalcedony|1300.0|6.5|2.6|balanced_armature|cabochon
+Moss Agate|botryoidal|Chalcedony|1300.0|6.5|2.6|balanced_armature|cabochon
+Plumed Agate|botryoidal|Chalcedony|1300.0|6.5|2.6|balanced_armature|cabochon
+Tree Agate|botryoidal|Chalcedony|1300.0|6.5|2.6|balanced_armature|cabochon
+Chalcedony (Blue)|botryoidal|Chalcedony|1300.0|6.5|2.6|balanced_armature|cabochon
+Chalcedony (Dendritic)|botryoidal|Chalcedony|1300.0|6.5|2.6|balanced_armature|cabochon
+Black Onyx|botryoidal|Chalcedony|1300.0|6.5|2.6|balanced_armature|cabochon
+Green Onyx|botryoidal|Chalcedony|1300.0|6.5|2.6|balanced_armature|cabochon
+Iolite|pseudohexagonal|Cordierite|1300.0|7|2.6|balanced_armature|faceted_oval
+Coral (black)|branch|Coral|1300.0|3.5|2.6|balanced_armature|uncut_natural
+Coral (branch)|branch|Coral|1300.0|3.5|2.6|balanced_armature|uncut_natural
+Tektite|amorphous|Tektite|1300.0|5.5|2.6|balanced_armature|uncut_natural
+Aquaprase|botryoidal|Chalcedony|1300.0|6.5|2.6|balanced_armature|cabochon
+Carnelian|botryoidal|Chalcedony|1300.0|6.5|2.6|balanced_armature|cabochon
+Chrysoprase|botryoidal|Chalcedony|1300.0|6.5|2.6|balanced_armature|cabochon
+Sard|botryoidal|Chalcedony|1300.0|6.5|2.6|balanced_armature|cabochon
+Sardonyx|botryoidal|Chalcedony|1300.0|6.5|2.6|balanced_armature|cabochon
+Sunstone|tabular|Feldspar|1370.0|6|2.64|balanced_armature|cabochon
+Clear Quartz|hexagonal|Quartz|1387.5|7|2.65|balanced_armature|faceted_round
+Phantom Quartz|hexagonal|Quartz|1387.5|7|2.65|balanced_armature|faceted_round
+Rose Quartz|hexagonal|Quartz|1387.5|7|2.65|balanced_armature|faceted_round
+Rutilated Quartz|hexagonal|Quartz|1387.5|7|2.65|balanced_armature|faceted_round
+Smoky Quartz|hexagonal|Quartz|1387.5|7|2.65|balanced_armature|faceted_round
+Solar Quartz|hexagonal|Quartz|1387.5|7|2.65|balanced_armature|faceted_round
+Tourmalinated Quartz|hexagonal|Quartz|1387.5|7|2.65|balanced_armature|faceted_round
+Herkimer Diamond|hexagonal|Quartz|1387.5|7|2.65|balanced_armature|faceted_round
+Amethyst|hexagonal|Quartz|1387.5|7|2.65|balanced_armature|faceted_round
+Citrine|hexagonal|Quartz|1387.5|7|2.65|balanced_armature|faceted_round
+Ametrine|hexagonal|Quartz|1387.5|7|2.65|balanced_armature|faceted_round
+Aqua Aura|hexagonal|Quartz|1387.5|7|2.65|balanced_armature|faceted_round
+Bumblebee Jasper|botryoidal|Chalcedony|1387.5|6.5|2.65|balanced_armature|cabochon
+Desert Jasper|botryoidal|Chalcedony|1387.5|6.5|2.65|balanced_armature|cabochon
+Leopardskin Jasper|botryoidal|Chalcedony|1387.5|6.5|2.65|balanced_armature|cabochon
+Ocean Jasper|botryoidal|Chalcedony|1387.5|6.5|2.65|balanced_armature|cabochon
+Picasso Jasper|botryoidal|Chalcedony|1387.5|6.5|2.65|balanced_armature|cabochon
+Picture Jasper|botryoidal|Chalcedony|1387.5|6.5|2.65|balanced_armature|cabochon
+Sunset Jasper|botryoidal|Chalcedony|1387.5|6.5|2.65|balanced_armature|cabochon
+Blue Tiger's Eye|botryoidal|Chalcedony|1387.5|6.5|2.65|balanced_armature|cabochon
+Brown Tiger's Eye|botryoidal|Chalcedony|1387.5|6.5|2.65|balanced_armature|cabochon
+Red Tiger's Eye|botryoidal|Chalcedony|1387.5|6.5|2.65|balanced_armature|cabochon
+Hawk's Eye|botryoidal|Chalcedony|1387.5|6.5|2.65|balanced_armature|cabochon
+Petrified Wood|massive|Petrified Wood|1387.5|7|2.65|balanced_armature|cabochon
+Bloodstone|botryoidal|Chalcedony|1387.5|6.5|2.65|balanced_armature|cabochon
+Moukaite|botryoidal|Chalcedony|1387.5|6.5|2.65|balanced_armature|cabochon
+Pietersite|botryoidal|Chalcedony|1387.5|6.5|2.65|balanced_armature|cabochon
+Green Aventurine|botryoidal|Chalcedony|1387.5|6.5|2.65|balanced_armature|cabochon
+Red Aventurine|botryoidal|Chalcedony|1387.5|6.5|2.65|balanced_armature|cabochon
+Charoite|massive|Charoite|1440.0|6|2.68|balanced_armature|cabochon
+Green Labradorite|tabular|Feldspar|1475.0|6|2.7|balanced_armature|cabochon
+Lemurian Blue Calcite (Blue Onyx)|rhombohedron|Calcite|1475.0|3.5|2.7|balanced_armature|cabochon
+Lapis Lazuli|massive|Lapis Lazuli|1475.0|5.5|2.7|balanced_armature|cabochon
+Pearl|sphere|Pearl|1475.0|2.5|2.7|balanced_armature|uncut_sphere
+Abalone|shell|Abalone|1475.0|2.5|2.7|balanced_armature|uncut_natural
+Ammonite|spiral|Ammonite|1475.0|4|2.7|balanced_armature|uncut_natural
+Preseli Blue Stone|massive|Preseli Blue Stone|1475.0|7|2.7|balanced_armature|uncut_natural
+Septarian|nodule|Septarian|1475.0|3.5|2.7|balanced_armature|cabochon
+Turquoise (types found in the Americas)|massive|Turquoise|1475.0|6|2.7|balanced_armature|cabochon
+Turquoise (Tibetan)|massive|Turquoise|1475.0|6|2.7|balanced_armature|cabochon
+Emerald|hexagonal|Beryl|1510.0|7.5|2.72|balanced_armature|emerald_cut
+Morganite|hexagonal|Beryl|1510.0|7.5|2.72|balanced_armature|emerald_cut
+Aquamarine|hexagonal|Beryl|1510.0|7.5|2.72|balanced_armature|emerald_cut
+Sugilite|massive|Sugilite|1545.0|6|2.74|balanced_armature|cabochon
+Larimar|massive|Larimar|1650.0|4.5|2.8|balanced_armature|cabochon
+Lepidolite|scaly|Lepidolite|1650.0|2.5|2.8|balanced_armature|cabochon
+Chrysocolla Azurite|botryoidal|Chrysocolla|1650.0|3|2.8|balanced_armature|cabochon
+Ammolite|shell|Ammolite|1650.0|4.5|2.8|balanced_armature|uncut_natural
+Chinese Writing Stone|massive|Chinese Writing Stone|1650.0|4|2.8|balanced_armature|cabochon
+Chrysanthemum Stone|massive|Chrysanthemum Stone|1650.0|4|2.8|balanced_armature|cabochon
+Kammererite|rhombohedron|Kammererite|1650.0|2.5|2.8|balanced_armature|cabochon
+Unakite|massive|Unakite|1737.5|6.5|2.85|balanced_armature|cabochon
+Prehnite|massive|Prehnite|1790.0|6|2.88|balanced_armature|cabochon
+Eudialyte|trigonal_prism|Eudialyte|1825.0|5.5|2.9|balanced_armature|faceted_round
+Nephrite Jade|massive|Jade|1912.5|6|2.95|balanced_armature|cabochon
+Aragonite|rhombohedron|Calcite|1912.5|3.5|2.95|balanced_armature|cabochon
+Water Opal|amorphous|Opal|2060.0|5.5|1.99|electrostatic|cabochon
+Jet|amorphous|Jet|6200.0|2.5|1.3|electrostatic|cabochon
+Amber|nodule|Amber|7520.0|2.5|1.08|electrostatic|cabochon_bead

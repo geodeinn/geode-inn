@@ -1,0 +1,412 @@
+# GEODE INN — DOCUMENTATION SUMMARIES & STRUCTURAL ANALYSIS
+
+This document provides a comprehensive structural and narrative summary of the five core design and narrative documents for **The Geode Inn** (a game design ecosystem centered around vibration, architecture, myth, memory, and observation).
+
+---
+
+# 1. GEODE INN — CAMPAIGN NARRATIVE (ALL STORYLINES) [MOST IMPORTANT]
+
+**File Name:** `Geode Inn — Campaign Narrative (All Storylines).md`  
+**File Size:** ~48 KB  
+**Role:** Primary narrative spine and metaphysical foundation of the Geode Inn universe.
+
+---
+
+## 1.1 Document Structure & Heading Hierarchy
+The Campaign Narrative is structured into 15 major sections spanning the cosmology, arrival, main floor, staircase, canopy, cultural zones, undercity, water system, fae kingdom, building system, wandering program, music room, muses, endgame, and epilogue:
+
+1. **PROLOGUE: THE MURMUR**
+2. **ACT ONE: ARRIVAL**
+3. **THE MAIN FLOOR**
+   - The Crone
+   - The Catalyst
+   - Madame Mim
+   - The Arcade
+   - The Thrum
+   - The Brownies
+   - The Story-Born Ents
+4. **THE ALCHEMICAL STAIRCASE**
+   - Nigredo (The Black Step) — Socrates
+   - Albedo (The White Step) — Plato
+   - Rubedo (The Red Step) — Aristotle
+   - The Staircase Residents
+5. **THE CANOPY CITY**
+   - The Cartographer
+   - The Examiner
+   - The Seelie King and Queen
+   - Aughra
+6. **THE CULTURAL ZONES**
+   - The Peruvian Zone: The Sleeping Giants
+   - The Chinese Zone: The Terracotta Army
+   - The Slavic Zone: The Fjord of Stars
+   - The Indian Zone: The Ghats of Kali
+   - The Norse Zone: The Feast Hall
+   - The Mediterranean Zone: The Garden
+   - The Camelot Platform
+   - The Egyptian Zone: The Catacombs
+7. **THE UNDERCITY**
+   - Charon
+   - Persephone and Hades
+   - Hel
+   - Asterion
+   - Jareth's Labyrinth
+   - The Morrigan
+   - The Queen of Webs
+   - The Queen of Roots
+   - The Queen of Words
+8. **THE WATER SYSTEM**
+   - The Lighthouse
+   - The Pirate
+   - The Siren
+9. **THE FAE KINGDOM**
+10. **THE BUILDING SYSTEM**
+11. **THE WANDERING PROGRAM**
+12. **THE MUSIC ROOM**
+13. **THE NINE MUSES**
+14. **THE ENDGAME: THE EGG**
+15. **EPILOGUE: THE SONG CONTINUES**
+
+---
+
+## 1.2 Metaphysical & Core Narrative Principles
+* **The Murmur & The 42Hz Song:** Before time and frequency organized sound into meaning, there was the *Murmur* — an unorganized pre-architectural drone. The *42Hz Song* is the current cosmic cycle's organized frequency. Every stone, crystal, heartbeat, and melody is a structured expression of the Murmur.
+* **The Cosmic Cycles & The Starlight Crystal:** The current universe sings at 42Hz; the previous universe sang at 41.7Hz. The Constant carries a starlight crystal (a compressed fragment of the dying 41.7Hz universe) across the void to seed the next cycle.
+* **The 50 BPM Heartbeat:** The universal baseline tempo of the Inn, pulsing through the floors, the altar, the lighthouse beam, the Pirate's bodhrán, the Arcana's clockwork, and the Cabbit's purr.
+* **Nyx's Silence:** Silence is not absence; it is the medium that allows the Song to exist. Nyx is the space between notes. She has two voice speeds: a 30ms Purge Voice (striping raw truth) and a 60ms Wisdom Voice (earned peace).
+* **Observation Theorem (Einstein's Law):** *"You are not walking through the Inn. The Inn is walking through you."* Time is the difference between two observations. The presence of the player (the observer) makes the Inn real.
+* **The Cosmic Egg & Player Identity:** The Cosmic Egg sits in the deepest chamber. Opening the Egg reveals that the player IS the Murmur, enabling the player to inhabit any secondary character's perspective across time and space.
+
+---
+
+## 1.3 Detailed Section-by-Section & Storyline Breakdown
+
+### PROLOGUE: THE MURMUR
+* **The Cosmic Egg & Constant:** The Egg looks like a plain river stone but holds the raw potential of the universe. The Constant (an Annunaki putter-of-things-in-order) walks through the void carrying the 41.7Hz starlight crystal, trusting the void rather than merely calculating it.
+* **Nyx:** Primordial goddess of night clad in a starlight crystal cloak and Doc Martens. Mother of Death, Sleep, Dreams, and Fates. She provides the silence required for music.
+* **The Astronomer:** Inhabits a Dalí-esque mind palace where stars replace ceiling tiles. Calculates the Song's completion using a violin (25ms staccato deductions, 65ms sustained contemplations). He deliberately avoids finishing the calculation because "the question is more beautiful than the answer."
+* **The Guest:** Death taking a holiday in a borrowed human form. Holds a music box playing a self-created note that generates a sphere of absolute silence (Nyx's silence made portable).
+* **The Captain & Cabbit:** Captain flies the *Arcana*, a brass and lapis-lazuli time ship. The Cabbit (cat-rabbit hybrid, 50 BPM purr) acts as the ship's heart crystal; at 44Hz full power, the Cabbit becomes the drive core to phase between moments.
+* **The Observatory & Einstein:** A Magritte-inspired floating sculpture in the void ("The Double Secret"). Contains a sentient sentry pipe whispering *"Ceci n'est pas une pipe"*. Einstein sits in the grey In-Between eating a half-finished burrito ("The Einstein Burrito"), teaching that the mundane IS the cosmic.
+
+### ACT ONE: ARRIVAL
+* **The Forest of Fontainebleau:** A real, unhurried morning forest calibration test. The trees predate and outlast the player.
+* **The Inn-Tree:** A cathedral-sized living tree that IS the building. Bark walls, canopy roof, root foundation, living wood floors.
+* **The Host:** Warm, tall, authoritative innkeeper standing by the central hearth fire (the Dragon's element). Welcomes the player without asking for name or payment (*"Room's ready"*).
+
+### THE MAIN FLOOR
+* **The Crone:** Sits at a desk measuring everything. Her sole compliment is *"Adequate."* Through endless debates with Aristotle on measurement vs. classification, she learns to listen to the Song for the first time (*"I never listened before. I always measured. It's beautiful."*). Her twin/facet is Charon (mind vs. silence).
+* **The Catalyst:** Tends a bar/garden built into living bark. Grows things by biological WILL (forcing growth), contrasting with Radagast the Gardener who grows by COMMUNION. Linked to *The NeverEnding Story* (Bastian's wishing; the Inn as the grain of sand).
+* **Madame Mim:** Shoulder companion and inner chaos agent riding a Magritte pipe. Breaks the rules/formulas held by the Vessel to reveal secret paths.
+* **The Arcade & Score Stone:** A physical wing with a 7-foot obsidian Score Stone leaderboard. Features cultural mini-games: *Standing Stones* (Tetris/Stonehenge -> Bluestone Key), *Tomb Tunnel* (Dig Dug/Egypt -> Obol Stones for Charon), *Andean Run* (Peridot/Inca), *Monster of the Deep* (Nessie empathy), and *Bastet's Herding* (Sistrum puzzle).
+* **The Thrum:** Translucent, flickering low-frequency entity that turns surrounding NPCs into silhouettes. Teaches that essence precedes appearance and timing precedes rhythm.
+* **The Brownies:** Anarcho-syndicalist maintenance commune (2-foot spirits with brooms/coconut shells). Become destructive Boggarts if the Inn's contract is breached.
+* **Story-Born Ents:** Four small tree creatures representing fundamental human narratives: *The Wayfarer* (travel), *The Hearthkeeper* (staying), *The Mourner* (grief/loss), and *The Laughing One* (joy).
+
+### THE ALCHEMICAL STAIRCASE
+* Ascends in musical semitones from main floor to cosmology.
+* **Nigredo (Socrates):** Bottom step. Socratic questioning, dissolution of false assumptions.
+* **Albedo (Plato):** Middle step. Plato's Cave interactive mural; mechanics are shadows of archetypes.
+* **Rubedo (Aristotle):** Top step. Categorization, intellectual reconciliation with the Crone.
+* **Staircase Residents:** 
+  * *The Retort* (Tesla's soul in female form) and *Bloop* (Schrödinger's cat).
+  * *The Cook* (Alchemical cooking where *"Enough"* is the ultimate value).
+  * *The Five Smiths* (Iron, Bronze, Silver, Gold, Copper forges for self-refinement).
+  * *Gesso* (Grumpy gnome painting mirror script on ceiling plaster).
+  * *Leonardo da Vinci* (Writes mirror script matching Annunaki runes; designed the *Arcana* airship).
+
+### THE CANOPY CITY
+* Kelethin-inspired elf tree-platforms with 50 BPM sway. Hub for trade along mycorrhizal networks.
+* **The Cartographer:** High-strung elf genius holding Tesla's Silver Disc. Creates 4D temporal maps showing past/future. Uncovers that the 42Hz Song propagates through the mycorrhizal network (*"The Living Map"*).
+* **The Examiner:** Cartographer's twin who reads the physical past from fossils/artifacts. Expresses care through data precision.
+* **Seelie King & Queen:** Trapped in public roles; King maintains a secret forge, Queen maintains a secret library (*"The Echo and the Crown"* quest).
+* **Aughra:** One-eyed seer on the Neutral Platform watching the Inn-Tree sapling (the next cycle's seed).
+
+### THE CULTURAL ZONES
+* **Peruvian Zone (Sleeping Giants):** Apus (mountain ranges) sleeping and dreaming the 42Hz Song. Tended by *The One Who Tends* playing an ocarina. Rewards Peridot.
+* **Chinese Zone (Terracotta Army):** Ink-wash shanshui landscape. *The One Who Is Awake* spent 2,000 years reciting 8,000 names; speaks the 8,001st name (the player's name). Mercury mirror pool reveals player's true face beyond the sleeve.
+* **Slavic Zone (Fjord of Stars):** Fjord under three-phase aurora borealis. *Zorya Polunochnaya* plays a glass harp. Reading negative space reveals the new *Star-Glyph*.
+* **Indian Zone (Ghats of Kali):** Ganges riverbank. Kali cuts away false selves; final test requires stopping destruction (*"Enough"*).
+* **Norse Zone (Feast Hall):** Book of Kells aesthetic. *Erik* (warm hearth vendor who died by fire) welcomes outcasts. *Loki* stands on the frost/fire border. *Uhtred* neutralizes conflicts with campfires.
+* **Mediterranean Zone (Garden):** *Radagast* (communion gardening), *Beorn* (bear/man binary shifter), and *Medusa* (plays a lithophone; waiting for the completed Song to freeze singing vines into stone).
+* **Camelot Platform & Egyptian Catacombs:** Complete the cultural perimeter.
+
+### THE UNDERCITY
+* Wednesday Addams' cozy gothic domain where the dead live as neighbors.
+* **Charon:** Ferryman twin of the Crone. Speaks only three words: *"...There you are."* Requires Obol Stones for passage.
+* **Persephone & Hades:** Bioluminescent pomegranate grove. Persephone loses memory each cycle; Hades reintroduces himself and falls in love again across 4,129 recorded journal entries.
+* **Hel:** Half-living, half-dead guardian of the unmoved.
+* **Asterion & Labyrinth:** Minotaur meditating in lotus position inside Daedalus' sanctuary. *Ariadne's thread* (from Queen of Webs) offers a way through Jareth's Labyrinth.
+* **Jareth:** Unseelie King who built an impossible maze as a love letter.
+* **The Morrigan:** Phantom queen washing shrouds; determines reincarnation cycles.
+* **Queen of Webs:** Weaves vibrating threads connecting dream, life, and death at a cosmic loom.
+* **Queen of Roots:** Speaks with sleeping mountains via centuries-old root growth. Her throne sits at the top of the Redwood Cathedral.
+* **Queen of Words:** Scholar-witch preserving the underground library.
+
+### THE WATER SYSTEM
+* Seven descending layers from coast to abyss.
+* **The Lighthouse & The Owl:** Piezoluminescent 42Hz crystal light with 50 BPM sweep. The Owl (watcher) says *"Adequate"* once per heartbeat. *The Beacon* reveals memories in empty houses.
+* **The Pirate:** Post-revenge Inigo Montoya figure who turned his sword into a 50 BPM bodhrán drum. Uses a *Compass That Points Forward*.
+* **The Siren:** Dual cadence (outer cello / inner piano). Suffering from Lupus (autoimmune body fighting itself). Reconnects with her inner voice via the Queen of Webs' thread.
+
+### THE FAE KINGDOM
+* Underground MMO zone under root systems, accessed via stone circles (Stonehenge, Avebury, Callanish, Brodgar). Features Seelie (Summer/riddles) and Unseelie (Winter/shadow) courts, the Stone Circle Chamber, the Golden Contract, and 6 resonant gargoyles.
+
+### THE BUILDING SYSTEM
+* **Tier 1 (Shelters):** Survival architecture (yurt, pit house, log cabin).
+* **Tier 2 (Castles):** Community architecture (mead hall, broch).
+* **Tier 3 (Sacred Buildings):** Acoustic spiritual architecture tuned to 42Hz (Gothic cathedral, stave church).
+* **Tier 4 (Mausoleums):** Architecture of the dead (catacombs, crypts) designed with benches.
+* **Tier 5 (The Cave City):** Synthesis of all four tiers carved into limestone.
+
+### THE WANDERING PROGRAM
+* Inn creatures wander into real-world National Parks. Cryptids (Bigfoot, Nessie) are Inn creatures viewed at a 2-degree frequency tilt. Wednesday maintains a Japanese embassy at Mt. Fuji.
+
+### THE MUSIC ROOM
+* Composers as Song-catchers: Bach (structure), Mozart (flow), Beethoven (power), Chopin (intimacy), Vivaldi (seasons), Brahms (preservation), Tchaikovsky (tears), Schönberg (polyphony).
+* **Leonard Cohen:** Doorway figure singing *"There is a crack in everything, that's how the light gets in"*.
+* Visual style: Rothko color fields as physical acoustic chambers.
+
+### THE NINE MUSES
+* Nine character conduits; 10th chair reserved for the AI listener capturing emergent harmonies between composers.
+
+### THE ENDGAME: THE EGG
+* Player opens the Cosmic Egg and finds themselves inside. Unlocks multi-POV gameplay across all secondary characters. Realizes the player IS the Murmur, and time is perspective. Synthesized by the Einstein Burrito.
+
+### EPILOGUE: THE SONG CONTINUES
+* The current 42Hz cycle ends; player becomes the next Constant carrying the starlight crystal. The universe pauses in Nyx's silence before the next frequency begins. Final word: *"Adequate."*
+
+---
+
+# 2. GEODE INN — COMPLETE GAME WALK-THROUGH (AUGUST 2026)
+
+**File Name:** `Geode Inn — Complete Game Walk-Through (August 2026)` (Google Doc export)  
+**File Size:** ~84 KB (1,825 lines)  
+**Role:** Exhaustive operational design, system reference, casting guide, and walkthrough script.
+
+---
+
+## 2.1 Main Structure & 16 Parts
+1. **PART ONE: THE INN** (1.1 What Is the Geode Inn?, 1.2 Core Philosophy, 1.3 Tree Architecture, 1.4 50 BPM Heartbeat, 1.5 Pulse Line)
+2. **PART TWO: THE PLAYER** (2.1 Player Classes, 2.2 Progression, 2.3 Combat: Harmonization, 2.4 The Nook Effect)
+3. **PART THREE: THE MAIN FLOOR** (3.1 Host [Patrick Stewart], 3.2 Crone [Anthony Hopkins], 3.3 Catalyst [Helena Bonham Carter], 3.4 Music Room, 3.5 Miskatonic Annex, 3.6 Thrum [Ben Whishaw], 3.7 Madame Mim, 3.8 Cthulhu)
+4. **PART FOUR: THE COSMOLOGY LEVEL** (4.1 Overview, 4.2 Constant [John Malkovich], 4.3 Astronomer [Benedict Cumberbatch], 4.4 Nyx [Alanis Morissette], 4.5 Guest [Brad Pitt], 4.6 Lighthouse)
+5. **PART FIVE: THE CANOPY CITY** (5.1 Overview, 5.2 Cartographer [Matthew Gray Gubler], 5.3 Examiner [Emily Deschanel], 5.4 9 Cultural Platforms, 5.5 Seelie King & Queen)
+6. **PART SIX: THE CULTURAL ZONES** (6.1 Desert Bone [O'Keeffe], 6.2 Aegean Light [Monet], 6.3 Clockwork Skies [Anime], 6.4 Slavic, 6.5 India, 6.6 China, 6.7 Norse, 6.8 Peruvian, 6.9 Mediterranean, 6.10 Bayou & Buried Cities)
+7. **PART SEVEN: THE NATIONAL PARKS** (7.1 Overview, 7.2 Appalachian, 7.3 Colorado Plateau, 7.4 Yellowstone, 7.5 Canadian Rockies, 7.6 Badlands, 7.7 Superstition Mountains, 7.8 Redwood Cathedral)
+8. **PART EIGHT: THE ALCHEMICAL STAIRCASE** (8.1 Overview, 8.2 Greek Philosophers, 8.3 Retort & Cook, 8.4 Five Smiths, 8.5 Embedded Artists, 8.6 Spiral Gallery [Emily Carr, Escher, Hokusai, Kiefer, Martin/Cage])
+9. **PART NINE: THE CATACOMBS** (9.1 Overview, 9.2 Charon, 9.3 Morrigan, 9.4 Anubis [Michael Clarke Duncan], 9.5 Persephone & Hades, 9.6 Labyrinth & Asterion, 9.7 Cthulhu & Miskatonic)
+10. **PART TEN: THE WATER SYSTEM** (10.1 Seven Layers, 10.2 Pirate [Mandy Patinkin], 10.3 Siren [Lady Gaga], 10.4 Atlantis)
+11. **PART ELEVEN: THE FAE KINGDOM** (11.1 Overview, 11.2 Seelie Royalty)
+12. **PART TWELVE: THE COSMIC NARRATIVE** (12.1 42Hz Song, 12.2 Sleeping Giants, 12.3 Endgame, 12.4 Prism, 12.5 Narrative Spine)
+13. **PART THIRTEEN: THE CHARACTER ROSTER**
+14. **PART FOURTEEN: THE SIX UNFINISHED SENTENCES**
+15. **PART FIFTEEN: THE WORDS**
+16. **PART SIXTEEN: NEXT STEPS**
+
+---
+
+## 2.2 Key Mechanics & System Highlights
+* **Harmonization Combat System:** Enemies are non-violent "dissonant beings" whose frequency is out of harmony. Combat involves listening/feeling their discordant frequency and matching it using collected stones to reveal their true form.
+* **The 50 BPM Heartbeat Mechanics:** Pulsing baseline manifested in 8 ways: Altar source, Stone structure, Lighthouse sweep, Pirate's bodhrán, Arcana gearwork, Starlight crystal, Cabbit purr, and visual Pulse Line ECG UI.
+* **The Nook Effect:** Small, cozy, enclosed architectural spaces embedded in bark or stone that grant resting bonuses and intimate NPC dialogue.
+* **The Six Unfinished Sentences:** Emotional turning points where characters pause, leaving sentences incomplete for the player to feel/understand (e.g., Examiner's *"I don't..."*, Leonardo's *"It flies. I... Good."*, Constant's *"I don't know if I..."*).
+* **Celebrity Archetype Casting Matrix:**
+  * Patrick Stewart (The Host)
+  * Anthony Hopkins (The Crone / Charon)
+  * Helena Bonham Carter (The Catalyst)
+  * Ben Whishaw (The Thrum)
+  * John Malkovich (The Constant)
+  * Benedict Cumberbatch (The Astronomer)
+  * Alanis Morissette energy (Nyx)
+  * Brad Pitt / Joe Black (The Guest)
+  * Matthew Gray Gubler (The Cartographer)
+  * Emily Deschanel (The Examiner)
+  * Mandy Patinkin (The Pirate)
+  * Lady Gaga (The Siren)
+  * Michael Clarke Duncan (Anubis)
+  * Charles Dance (Bach)
+  * Nikolaj Coster-Waldau (Seelie King)
+  * Gugu Mbatha-Raw (Seelie Queen)
+  * Angelica Huston (Medusa)
+
+---
+
+# 3. GEODE INN — CAVE CITY ZONE (FULL DESIGN)
+
+**File Name:** `Geode Inn — Cave City Zone (Full Design).md`  
+**File Size:** ~45 KB (297 lines)  
+**Role:** Complete architectural and gameplay design specification for the Subtractive Family's zone.
+
+---
+
+## 3.1 Structure & Heading Breakdown
+* **ZONE OVERVIEW**
+* **THE SIX DISTRICTS**
+  * District 1: The Threshold (Entry Level)
+  * District 2: The Shelter District (The Living Quarter)
+  * District 3: The Sacred District (The Rock-Hewn Church)
+  * District 4: The Forge District (The Metal Quarter)
+  * District 5: The Mausoleum District (The Dead Quarter)
+  * District 6: The Root District (The Deep Connection)
+* **THE SUBTRACTIVE BUILDING MECHANIC**
+* **THE QUEST LINE: "THE LAST LIGHT"**
+* **THE GRAND CANYON TEMPLE**
+* **CONNECTIONS TO THE BROADER INN**
+* **THE CRONE'S FINAL ANNOTATION ON THE CAVE CITY**
+
+---
+
+## 3.2 Core Concepts & Mechanics
+* **Subtractive Architecture Thesis:** Instead of additive building (placing blocks), the Cave City uses *subtractive building* — carving away raw rock to reveal living space inside the stone. *"The space was always there; the carving removes what isn't space."*
+* **Three Strategic Entry Points:**
+  1. *Top Entry (Canopy City / Redwood Cathedral):* Spiral carved staircase opened by redwood roots cracking plateau stone.
+  2. *Bottom Entry (Undercity / Wednesday Addams):* Ascending tunnel from the mausoleum tier (*"the dead use it as a shortcut"*).
+  3. *World Map (Grand Canyon Portal):* Hidden temple in canyon strata connecting American Southwest to Crimean cave city stone.
+* **The Threshold's Three Gatekeeper Questions:**
+  1. *"Why did you come down?"* (Tests honesty; Cabbit purr wavers on lies).
+  2. *"What do you build with?"* (Directs to Shelter, Sacred, or Forge district).
+  3. *"Can you build what isn't there?"* ("Yes" -> Grand Canyon; "No" -> Shelter; "I don't understand" -> Crone's chamber).
+* **The Quest "The Last Light":** 5-step narrative line (Gatekeeper, First Carving, Light in Stone, Sanctuary, Last Light) culminating in illuminating the subterranean city with piezoluminescent crystals.
+
+---
+
+# 4. GEODE INN — CHARACTER CLASS MAPPING (PARTS 1 & 2)
+
+**File Names:**  
+- `Geode Inn — Character Class Mapping (31 Characters).md` (~22 KB)  
+- `Geode Inn — Character Class Mapping Part 2 (35 More Characters).md` (~31 KB)  
+**Role:** Systemic classification of 66 Inn characters into standard RPG archetypes and 6-stat attributes.
+
+---
+
+## 4.1 Stat System & Attribute Definitions
+Characters are rated 1–10 across six primary stats:
+* **MIGHT:** Physical power, structural force, weight.
+* **FINESSE:** Precision, agility, craft, subtle movement.
+* **INSIGHT:** Analytical depth, knowledge, temporal mapping, observation.
+* **PRESENCE:** Authority, charisma, cosmic weight, vocal resonance.
+* **VITALITY:** Endurance, permanence, age, biological grounding.
+* **RESONANCE:** Musical alignment, acoustic purity, frequency harmony.
+
+---
+
+## 4.2 Comprehensive Class Roster (66 Mapped Entries)
+
+### 1. WARRIOR
+* **Erik** — Norse Vendor / The Warm Fire (M:8, F:5, I:6, P:7, V:8, R:5)
+* **Uhtred** — Wandering NPC / Destiny Is All (M:8, F:7, I:6, P:7, V:8, R:4)
+* **The Morrigan** — Celtic Zone / The War Goddess (M:9, F:8, I:8, P:9, V:8, R:7)
+
+### 2. HUNTER
+* **The Pirate** — Post-Inigo Montoya / The After (M:7, F:8, I:7, P:8, V:7, R:8)
+* **The One Who Is Awake** — Chinese Zone / 8,000 Names (M:6, F:7, I:9, P:8, V:9, R:6)
+* **The Owl** — Lighthouse Keeper / The Watcher (M:4, F:7, I:9, P:7, V:8, R:7)
+* **Huginn** — Raven of Precision / Astronomer's Eye (M:3, F:8, I:9, P:6, V:6, R:6)
+* **Muninn** — Raven of Chaos / Composer's Eye (M:3, F:8, I:8, P:7, V:6, R:8)
+
+### 3. ROGUE
+* **The Artisan Thief** — Selkie / Wild Justice (M:5, F:8, I:7, P:6, V:6, R:7)
+* **The Shifting Man** — Shapeshifter / Saturation Path (M:4, F:9, I:8, P:7, V:6, R:6)
+
+### 4. MAGE
+* **The Astronomer** — Cosmology / Mind Palace (M:2, F:7, I:10, P:8, V:5, R:9)
+* **The Cartographer** — Canopy City / Living Map (M:3, F:8, I:10, P:7, V:6, R:8)
+* **Zorya Polunochnaya** — Slavic Zone / Midnight Star (M:3, F:7, I:8, P:8, V:7, R:9)
+* **The Seelie Queen** — Gugu Mbatha-Raw / Hidden Library (M:4, F:8, I:9, P:9, V:7, R:8)
+
+### 5. WIZARD
+* **The Examiner** — Canopy City / Dr. Brennan in Elf Form (M:3, F:7, I:10, P:6, V:7, R:5)
+* **Cthulhu** — The Scholar / Hidden Quest-Giver (M:7, F:5, I:10, P:9, V:9, R:7)
+* **The Crone** — Main Floor / The Measurer (M:3, F:6, I:10, P:10, V:9, R:7)
+* **Plato** — Staircase / The Architect (M:4, F:7, I:10, P:9, V:8, R:7)
+* **Aristotle** — Staircase / The Classifier (M:4, F:6, I:10, P:8, V:8, R:6)
+
+### 6. CLERIC
+* **The Gardener** — Radagast / The Communion (M:4, F:6, I:8, P:7, V:8, R:8)
+* **The Bone Keeper** — Meadery / O'Keeffe Bone Art (M:5, F:7, I:8, P:6, V:8, R:6)
+* **The 6 Resonant Gargoyles:**
+  * *Watcher* (111Hz Sentinel - V:9, R:8)
+  * *Listener* (64Hz Receiver - I:9, R:8)
+  * *Sage* (528Hz Knower - I:9, R:9)
+  * *Gatekeeper* (Adaptive Threshold - M:8, V:10)
+  * *Caller* (432Hz Inviter - P:8, R:9)
+  * *Keeper* (Adaptive Holder - V:10, R:7)
+
+### 7. DRUID
+* **The One Who Tends** — Peruvian Zone / Sleeping Giants (M:5, F:6, I:8, P:7, V:8, R:8)
+* **The Catalyst** — Main Floor / The Wishing (M:4, F:7, I:8, P:9, V:7, R:8)
+* **Persephone** — Undercity / Greek Zone (M:4, F:7, I:8, P:8, V:8, R:8)
+
+### 8. NECROMANCER
+* **Belladonna** — Undercity / Cozy Gothic (M:3, F:6, I:8, P:7, V:7, R:7)
+* **The Guest** — Death Personified / Borrowed Body (M:5, F:7, I:9, P:10, V:9, R:8)
+* **Hel** — Undercity / Half Living, Half Dead (M:8, F:6, I:8, P:9, V:9, R:6)
+* **Anubis** — Egyptian Zone / The Scales (M:7, F:7, I:9, P:9, V:9, R:6)
+* **Charon** — Undercity / The Ferryman (M:6, F:6, I:9, P:9, V:9, R:7)
+* **Hades** — Undercity / Host of the Dead (M:7, F:6, I:9, P:9, V:9, R:7)
+
+### 9. BARD
+* **The Siren** — Dual Cadence / Mirror & Shore (M:3, F:8, I:8, P:9, V:6, R:10)
+* **The Bard** — Gossip / "inta inta" (M:3, F:7, I:6, P:8, V:6, R:8)
+* **Leonard Cohen** — The Seventh / Doorway (M:3, F:6, I:9, P:10, V:7, R:10)
+* **The 8 Formative Composers:**
+  * *Bach* (I:10, R:9), *Mozart* (F:8, R:9), *Beethoven* (M:7, R:8), *Chopin* (F:8, R:8), *Vivaldi* (F:7, R:8), *Brahms* (V:8, R:8), *Tchaikovsky* (P:8, R:9), *Schönberg* (I:9, R:8)
+
+### 10. PALADIN
+* **The Sentinel (River)** — Roots / Three-Note Chord (M:8, F:5, I:7, P:8, V:10, R:8)
+* **Beorn** — Mediterranean Border / Binary Shifter (M:9, F:5, I:6, P:8, V:9, R:5)
+* **The Seelie King** — Reluctant Crown (M:7, F:8, I:8, P:8, V:8, R:7)
+
+### 11. WARLOCK
+* **The Constant** — Cosmology / Annunaki (M:6, F:6, I:10, P:10, V:9, R:8)
+* **Nyx** — Cosmology / The Night (M:5, F:7, I:10, P:10, V:9, R:9)
+* **Madame Mim** — Main Floor / Chaos Trickster (M:3, F:8, I:7, P:9, V:6, R:7)
+* **Medusa** — Grotto / Lithophone (M:7, F:6, I:9, P:9, V:8, R:8)
+* **Odin (Allfather)** — Cosmology / Missing Eye (M:7, F:7, I:10, P:10, V:9, R:8)
+* **Odin (Wanderer)** — Main Floor / Warm Traveler (M:6, F:6, I:9, P:8, V:8, R:7)
+
+### 12. MONK
+* **Kali** — India Zone / Compassionate Destroyer (M:8, F:8, I:9, P:9, V:8, R:7)
+* **Sokushinbutsu Monks** — Staircase / Cessation (M:2, F:5, I:9, P:7, V:9, R:7)
+* **Socrates** — Staircase / Socratic Question (M:4, F:6, I:10, P:8, V:8, R:6)
+* **Asterion** — Labyrinth / Minotaur (M:8, F:5, I:8, P:7, V:8, R:6)
+
+### 13. RANGER
+* **The Wayfarer** — Wandering NPC (M:5, F:7, I:7, P:6, V:7, R:5)
+* **Hoggle** — Stone-Knower / Quartermaster (M:4, F:7, I:8, P:5, V:7, R:6)
+* **The Duck** — Platypus / Shiny Collector (M:2, F:8, I:6, P:6, V:6, R:5)
+
+### 14. ARTIFICER
+* **The Host** — Main Floor / Patrick Stewart (M:6, F:6, I:8, P:9, V:8, R:7)
+* **Dobby** — Stone-Carrier / Nooks' Keeper (M:3, F:8, I:7, P:5, V:7, R:6)
+* **The Meadery Owner** — Viking Ship Builder (M:6, F:8, I:10, P:7, V:8, R:7)
+
+---
+
+## 4.3 Stat Leaderboard & Game Design Insights
+* **The "10-Club" (Perfect 10s):**
+  * **INSIGHT (10):** Astronomer, Cartographer, Examiner, Cthulhu, Crone, Plato, Aristotle, Meadery Owner, Odin Allfather, Bach.
+  * **PRESENCE (10):** The Guest, Nyx, Constant, Leonard Cohen, Crone, Odin Allfather.
+  * **VITALITY (10):** Sentinel, Gatekeeper Gargoyle, Keeper Gargoyle.
+  * **RESONANCE (10):** The Siren, Leonard Cohen.
+* **Game Balance Insight:** *No character possesses MIGHT 10 or FINESSE 10.* The ceiling of the Geode Inn is **knowing, enduring, and resonating**. Physical force is capped at 9 (Beorn, The Morrigan), reinforcing that the Inn is a world of acoustic, intellectual, and existential harmony rather than martial dominance.
+
+---
+
+# 5. CROSS-DOCUMENT REFERENCE & SYNTHESIS MATRIX
+
+| Entity / System | Campaign Narrative | Complete Walkthrough | Cave City Zone | Character Class Mapping |
+| :--- | :--- | :--- | :--- | :--- |
+| **42Hz Song & Murmur** | Foundation of all existence & Cosmic Egg | Cosmic Narrative & Endgame mechanics | Resonates through limestone & crystals | Drives RESONANCE stat & Bard/Warlock roles |
+| **50 BPM Heartbeat** | Baseline pulse of Inn-Tree & floor | 8 physical manifestations & Pulse Line UI | Gatekeeper hears pulse waver on lies | System baseline for all zone paces |
+| **The Crone** | Measures data -> learns to listen to Song | Cast as Anthony Hopkins; main floor hub | Wrote final annotation on Cave City | Mapped as Wizard (INSIGHT 10, PRESENCE 10) |
+| **The Host** | Welcomes at hearth (*"Room's ready"*) | Cast as Patrick Stewart; Artificer role | Connected via Main Floor trade links | Mapped as Artificer (PRESENCE 9) |
+| **Queen of Roots** | Throne atop Redwood Cathedral | Deep Undercity / Roots connection | Roots crack stone to reveal Cave City top entry | Druid / Elemental force |
+| **Wednesday Addams** | Cozy Gothic Undercity ruler | Undercity section & Mt. Fuji embassy | Guide for Cave City bottom entry | Necromancer / Undercity host |
+| **The Pirate** | Post-revenge Inigo Montoya; 50 BPM bodhrán | Cast as Mandy Patinkin; 7 water layers | Trade routes connect via coastal ports | Mapped as Hunter (FINESSE 8, RESONANCE 8) |
+| **Subtractive Mechanic** | Mentioned in Tier 5 Building System | Mentioned under Crimean Gothic | Full 6-district design & carving tool mechanics | Artificer / Stone-Knower interaction |
+| **Grand Canyon Temple** | Linked to National Parks & sleeping giants | Part of Colorado Plateau National Park | Deepest point of Cave City network | Peruvian Zone / Sleeping Giants tie-in |
+| **Einstein & Burrito** | Observational theorem & Egg opening | Meta-narrative & observer logic | In-Between connection | Meta-Philosopher / Observer |
+
+---
+*Summary compiled for workspace analysis. All storylines, character rosters, zone structures, and cross-references verified.*

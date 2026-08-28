@@ -1,0 +1,48 @@
+# GEODE INN DOCUMENT SUMMARIES
+
+
+
+Document: Before the Song.docx (before_the_song.txt)
+Character Count: 1,709,555 characters
+Description:
+This is an expansive narrative and design Bible for the 'Geode Inn' world. It establishes the foundational cosmology starting from 'The Murmur' (pre-sound 432Hz potential) and details the architecture, environments, lore, quest lines, and character interactions across multiple acts. Major areas documented include:
+- The Main Floor (The Crone, Catalyst, Madame Mim, Arcade, Thrum, Brownies, Ents)
+- The Alchemical Staircase (Nigredo, Albedo, Rubedo stages with Socrates, Plato, Aristotle)
+- The Canopy City (Cartographer, Examiner, Seelie King/Queen, Aughra)
+- The Cultural Zones (Peruvian Sleeping Giants, Chinese Terracotta Army, Slavic Fjord of Stars, Indian Ghats of Kali, Norse Feast Hall, Mediterranean Garden, Camelot, Egyptian Catacombs)
+- The Undercity & Cosmology Levels (Blacksmith, Bone Keeper, Allfather, Norns, Void)
+It serves as the comprehensive master blueprint for the Geode Inn's world-building, narrative arcs, and puzzle-environment integration.============================================================
+
+Document: bestiary.docx (bestiary.txt)
+Character Count: 60,626 characters
+Description:
+A structured character directory and roster organized by realm, family starting classes, and spatial layers within Geode Inn. Key contents include:
+- Realm Organization: Asgard (Cosmology), Vanaheim (Seasonal Wing), Alfheim (Seelie Court), Midgard (Main Floor), The Dock (Water Layer), Hel/Helheim (Deep Stone Circle), Svartalfheim (Unseelie Court), Miskatonic Annex (Grounds), Muspelheim, Nidavellir, Jotunheim, and Niflheim.
+- Character Profiles & Quests: Detailed voice profiles, frequency associations (e.g., 432Hz), modes, and quests for figures like Odin, The Caller Gargoyle, The Gardener, Nyx, The Astronomer, The Guest, Madame, Charon, Persephone & Hades, Asterion, Jareth's Labyrinth, The Morrigan, and the Queens of Webs/Roots/Words.
+- Family Character Classes: Specifications for player/NPC starting classes.============================================================
+
+Document: Document (1).docx (document_1.txt)
+Character Count: 29,018 characters
+Description:
+Detailed NPC design document for 'Jaime' — 'The Living Archive'.
+- Character Concept: Scientist, linguist, puzzle architect, and walking periodic table. Real-world inspired NPC who published a teaching language for STEM/programming, designs Mensa puzzles, and adores reptiles/goth culture.
+- Game Mechanics: Periodic Skin (tattoos as puzzle interfaces), Expansion Tattoos, Star-Language living dictionary, and reading systems.
+- Locations & Companions: Placed primarily in Atlantis (Luis Royo style library) with a Murloc companion and reptile theme.
+- Dynamic Connections: Detailed relationship mechanics with the Astronomer, Librarian, Medusa, Zorya, Siren, Radagast, The Guest, and Nyx, as well as the 'Squeak Protocol' when nervous.============================================================
+
+Document: Document (2).docx (document_2.txt)
+Character Count: 56,710 characters
+Description:
+Detailed NPC design document for 'Joe' — 'The Miniaturist'.
+- Character Concept: Vampire sorcerer, Warhammer painter, and Lawful Evil tutor (inspired by Kain from Legacy of Kain).
+- Four Roles: 1. Miniaturist (painting micro figures with extreme detail), 2. Tutor (strict Lawful Evil mentor), 3. Time Exile (reliving cursed choices), 4. Dragon's Blood Sorcerer.
+- Character Arc & Location: Arc of Vengeance → Consequence → Knowledge → Hope. Stationed in a Gothic Cathedral Studio within the Undercity.
+- Voice & Relationships: Detailed interaction matrix with key NPCs including The Guest (Brad Pitt energy), Erik (warm Viking), Belladonna (Wednesday Addams energy), Cartographer, Nyx, Medusa, Shifting Man, Marijke, Baby Dragon, and Astronomer.============================================================
+
+Document: full documentary of building geode inn.docx (full_documentary.txt)
+Character Count: 1,189,645 characters
+Description:
+An extensive chronological transcript and development documentary capturing the entire creation of the Geode Inn project from July 12, 2026 to August 21, 2026.
+- Business & Game Hub Vision: Evolution of the project from high-end natural jewelry business website into an interactive 2D platformer / puzzle game world map.
+- Architecture & Technical Specs: Detailed data schemas for stone data, Base44 app integrations, interactive puzzle locations (#1 to #34 including Vatican, Ruined Castle, Steampunk Workshop, Pre-Flood Atlantis, Cosmic Library).
+- Design Dialogue: Comprehensive records of brainstorming sessions, feature implementations, UI/UX designs, audio mechanics (432Hz), and lore integrations.
