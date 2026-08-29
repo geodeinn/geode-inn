@@ -1,3 +1,4 @@
+> DEPRECATED - SUPERSEDED BY geode_inn_quest_integration_native_system.md. This document was designed for an AzerothCore/WoW emulator prototype. The Geode Inn now uses native game architecture. Kept for design reference only.
 # Geode Inn — Jotunheim Quest Chain: "The Old Stones"
 ## Realm: Jotunheim — "The Giant Lands"
 ## Access: Norse cultural zone gateway (Midgard → Jotunheim)

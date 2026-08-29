@@ -1,3 +1,4 @@
+> DEPRECATED - SUPERSEDED BY geode_inn_quest_integration_native_system.md. This document was designed for an AzerothCore/WoW emulator prototype. The Geode Inn now uses native game architecture. Kept for design reference only.
 # Geode Inn — Greek Quest Chain: "The Drowned Question"
 ## Zone: Elwynn Forest → "The Hellenic Quarter" (Greek/Mediterranean Reskin)
 ## Gateway: Midgard → Niflheim (via the Atlantis investigation)
