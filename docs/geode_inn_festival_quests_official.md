@@ -35,7 +35,7 @@ When the portal arrows hit, the player rolls a 6-sided die (or the game's RNG ha
 | Roll | Location | Quest Type |
 |------|----------|------------|
 | 1 | Orc Village | Combat + Social |
-| 2 | Murlic's Hut of Fish | Puzzle + Combat + Choice |
+| 2 | Murloc's Hut of Fish | Puzzle + Combat + Choice |
 | 3 | Elf Hot Tub | Social + Skill |
 | 4 | Dwarf Basketball Court | Mini-game |
 | 5 | LARP Field | Social + Absurdity |
@@ -69,12 +69,12 @@ Once the chickens are caught (hostile) or the couple is retrieved (neutral), the
 
 ---
 
-## Quest 2: Murlic's Hut of Fish
+## Quest 2: Murloc's Hut of Fish
 ### Roll: 2 | Type: Puzzle + Combat + Choice | Zone: Water-adjacent (catacomb coast)
 
 ### Arrival
 
-The portal drops the player into Murlic's hut of fish. Murlic is a fish-creature — a Murloc, but the Inn's version. The hut is a fish-smell shack on stilts above a dark pool. The fish are everywhere. The player must roll to decide the depth:
+The portal drops the player into Murloc's hut of fish. Murloc is a fish-creature — a Murloc, but the Inn's version. The hut is a fish-smell shack on stilts above a dark pool. The fish are everywhere. The player must roll to decide the depth:
 
 **Fish Up to Your Knees (1-3):** Shallow water. The leader of the fish asks the player to return the cursed fish to the water. The cursed fish is hidden among the school — the player must find it by reciting a limerick about worms. The limerick is a puzzle: the player must compose a rhyme that pleases the fish. The both are: the adequate — the riddle and the bait, the same poem, different hook.
 
@@ -109,7 +109,7 @@ Once resolved, the return portal activates. The player pops back to the festival
 
 The deep-water path has a hidden encounter: if the player dives deep enough while fighting through the fish, they break through into a catacomb corridor. Three figures in dark suits — the Mini MIB — glide past in the corridor below, carrying a brass filing cabinet. They don't acknowledge the player. They don't stop. They just pass, their footsteps making no sound on the wet stone. The player glimpses the corridor for three seconds before the fish push them back up. The both are: the adequate — the glimpsed and the ignored, the same catacomb, different visitor.
 
-The player who mentions the MIB sighting to Murlic gets a response: "You saw the suits? Forget about them. They're already forgetting about you." The both are: the adequate — the seen and the unseen, the same corridor, different memory.
+The player who mentions the MIB sighting to Murloc gets a response: "You saw the suits? Forget about them. They're already forgetting about you." The both are: the adequate — the seen and the unseen, the same corridor, different memory.
 
 ---
 
@@ -233,7 +233,7 @@ The trophy is needed for the conclusion of the festival — a yearly ceremony wh
 
 **1 — The Oubliette:** The player falls through leaves into an underground chamber — an oubliette, a forgotten place. Soft earth, long roots sticking out. The player must climb out — a skill check against the roots. But the oubliette is not empty. Something is down there. The both are: the adequate — the trap and the discovery, the same hole, different occupant.
 
-The oubliette contains a Murloc — one of Murlic's, somehow here — who fell through a portal leak. The Murloc is lost and scared. The player can help the Murloc climb out (gaining a Murloc ally for the daycare encounter) or leave it behind (saving time but losing a potential ally). The both are: the adequate — the rescuer and the rushed, the same pit, different choice.
+The oubliette contains a Murloc — one of Murloc's, somehow here — who fell through a portal leak. The Murloc is lost and scared. The player can help the Murloc climb out (gaining a Murloc ally for the daycare encounter) or leave it behind (saving time but losing a potential ally). The both are: the adequate — the rescuer and the rushed, the same pit, different choice.
 
 **2 — The Four Attackers:** Four 10 HP attackers — 2 air, 2 ground. The air attackers are harpy fledglings; the ground attackers are dwarf mercenaries (hired by the thieves — the same dwarfs from Quest 4, if the player already completed that encounter, they might recognize the player). One of the air attackers has a note saying 'go to goose.' The both are: the adequate — the mercenaries and the messengers, the same squad, different employer.
 
@@ -285,7 +285,7 @@ Once the player has the chalice, the return portal activates. The player pops ba
 Once the chalice is returned, the festival concludes with the Meadmaster's Election. The player who returns the chalice gets to nominate the next meadmaster — a choice between the festival NPCs the player met during the event:
 
 - **The Orc Leader** (if the player resolved Quest 1)
-- **Murlic** (if the player resolved Quest 2 and earned the Murlocs' respect)
+- **Murloc** (if the player resolved Quest 2 and earned the Murlocs' respect)
 - **Syla the Elf** (if the player resolved Quest 3 and asked about the band)
 - **Fizzlebang the Coach** (if the player won Quest 4)
 - **The LARP Guild Master** (if the player became the LARP god)
@@ -303,7 +303,7 @@ The meadmaster's reward: the "Meadmaster's Chalice" item — a permanent invento
 
 The Festival questline adapts to any cultural zone:
 
-| Zone | Orc Village | Murlic's Fish | Elf Hot Tub | Dwarf Basketball | LARP | Harpy Daycare |
+| Zone | Orc Village | Murloc's Fish | Elf Hot Tub | Dwarf Basketball | LARP | Harpy Daycare |
 |------|-------------|----------------|-------------|------------------|------|----------------|
 | **Norse** | Berserker camp | Kraken's pool | Light elf spring | Dwarf forge court | Valhalla reenactment | Valkyrie rookery |
 | **Celtic** | Pict settlement | Selkie's cove | Tuatha Dé tub | Dwarf stone court | Fianna reenactment | Banshee roost |
@@ -319,7 +319,7 @@ The quest structure stays the same — six portal encounters, each with branchin
 
 The MIB appear in three of the six encounters — always as a glimpse, never as the main event:
 
-1. **Murlic's Hut (Quest 2):** Seen in the catacomb corridor beneath the deep water
+1. **Murloc's Hut (Quest 2):** Seen in the catacomb corridor beneath the deep water
 2. **Dwarf Basketball (Quest 4):** Seen through the hole the coach's firework blows in the court floor
 3. **Harpy Daycare (Quest 6):** The final encounter — the MIB hold the key to the chalice
 
@@ -354,7 +354,7 @@ The portal potion is craftable — the Tinkering Weeaboo class can craft portal 
 - **The Whisper Layer** — the MIB encounters affect Whisper Layer progress (talking to MIB loses progress, paying MIB gains progress)
 - **The Drink Mechanic** — the drinking contest in Quest 1 and the jello shots in Quest 3 use the expanded drink system
 - **Fizzlebang** — the dwarf basketball coach NPC, a recurring festival character and mentor for the Bard class
-- **Murlic** — the Murloc leader, a potential ally or chieftain-title-giver, connected to the water system quests
+- **Murloc** — the Murloc leader, a potential ally or chieftain-title-giver, connected to the water system quests
 - **Syla** — the Seelie elf with the frequency tuner band, connected to the frequency system and Seelie reputation
 - **The Meadmaster's Chalice** — a permanent reward item for completing the festival questline
 
