@@ -15,6 +15,17 @@
 
 ### Thorin — The Hall Builder
 
+### Thorin — The Real Character
+
+**Appearance:** Taller than expected — not tall, but taller than people assume. Pale orange-gold beard, full, worn like a statement. Piercing clear blue eyes — the kind that, when they finally land on you, make you feel like you've been read. But Thorin usually won't make eye contact. The avoidance is the hook — people lean in, trying to catch those eyes, and when they finally do, the connection is electric. The both are: the adequate — the look and the look-away, the both are: the same attention, different angle.
+
+**The Extrovert Skin:** Thorin is perceived by almost everyone as an extrovert — warm, social, the life of the mead hall. This is a SKIN. Underneath, Thorin is a hermit scholar — the same core as all of Krista's close friends. The both are: the adequate — the performer and the reader, the both are: the same person, different layer. Thorin has learned to perform warmth the way a stone Mason learns to carve — by practice, by necessity, by love of the craft even when the craft is exhausting.
+
+**The Hermit Scholar:** When the hall empties, Thorin reads. Geology texts, building manuals, old stone lore. The both are: the adequate — the hall owner and the scholar, the both are: the same mind, different room. The player who catches Thorin alone (visiting the mead hall during off hours) finds a different person — quieter, more precise, more willing to share the deep knowledge that the extrovert skin doesn't have time for. The both are: the adequate — the public Thorin and the private Thorin, the both are: the same builder, different hour.
+
+**The Eye Contact Mechanic:** In the game, Thorin's dialogue changes based on whether the player has earned eye contact. New players get the extrovert — warm, busy, performing. Players who have completed Thorin's quests, or who visit during off hours, or who bring a stone Thorin hasn't seen — those players get the scholar. The shift is signaled by the eyes: when Thorin looks directly at the player, the dialogue deepens. The blue eyes are the key — when they land on you, you know you've earned something. The both are: the adequate — the glance and the gaze, the both are: the same person, different trust.
+
+
 **Name:** Thorin (real name — no copyright issue; the Tolkien connection is the both are: the adequate — the accidental and the perfect, the both are: the same name, different mountain)
 
 **Role in the Inn:** Three roles:
