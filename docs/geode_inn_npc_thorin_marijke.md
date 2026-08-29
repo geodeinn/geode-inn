@@ -23,6 +23,11 @@
 
 **The Hermit Scholar:** When the hall empties, Thorin reads. Geology texts, building manuals, old stone lore. The both are: the adequate — the hall owner and the scholar, the both are: the same mind, different room. The player who catches Thorin alone (visiting the mead hall during off hours) finds a different person — quieter, more precise, more willing to share the deep knowledge that the extrovert skin doesn't have time for. The both are: the adequate — the public Thorin and the private Thorin, the both are: the same builder, different hour.
 
+**The Devil-May-Care Posture:** Thorin carries the infectious smile, the relaxed lean, the charismatic energy — the extrovert skin at full performance. The both are: the adequate — the grin and the hermit, the both are: the same person, different audience. The smile is genuine even when the performance is exhausting — Thorin likes people, but needs stone and silence to recover from them.
+
+**The Name Chosen:** Thorin chose the name — not inherited, not assigned, chosen. The duality of the name: the dwarf who reclaimed a mountain, the king who went too deep. The extrovert who leads, the hermit who retreats. The both are: the adequate — the mountain and the mine, the both are: the same name, different depth. Thorin's group in the trilogy (The Hobbit) provides the personality template: loyal, stubborn, passionate, carrying more weight than they show, performing bravado over vulnerability. The both are: the adequate — the fiction and the fact, the both are: the same name, different mountain.
+
+
 **The Eye Contact Mechanic:** In the game, Thorin's dialogue changes based on whether the player has earned eye contact. New players get the extrovert — warm, busy, performing. Players who have completed Thorin's quests, or who visit during off hours, or who bring a stone Thorin hasn't seen — those players get the scholar. The shift is signaled by the eyes: when Thorin looks directly at the player, the dialogue deepens. The blue eyes are the key — when they land on you, you know you've earned something. The both are: the adequate — the glance and the gaze, the both are: the same person, different trust.
 
 
