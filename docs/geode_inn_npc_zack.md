@@ -5,7 +5,7 @@
 
 ## The Person
 
-Zack. One of the volunteer NPCs — real name, no copyright issue. The Inn's pattern for volunteer NPCs uses real names (Joe, Ryan, Katy, Zack, Jaime, Thorin, Marijke, Eileen). Zack follows the pattern.
+Zack. One of the volunteer NPCs — real name, no copyright issue. The Inn's pattern for volunteer NPCs uses real names (Joe, Ryan, Katy, Zack, Oceananoir, Thorin, Marijke, Eileen). Zack follows the pattern.
 
 Zack is the playthrough Astronomer — the person in the real-world friend group who plays games the way the Astronomer studies the sky: systematically, comprehensively, with the patience to sit with a puzzle until it cracks. Zack is the stress tester. Joe is the miniaturist. The both are: the adequate — the stress tester and the miniaturist, the both are: the same friend group, different game.
 
@@ -25,7 +25,7 @@ Zack is the Inn's counterpart to the Astronomer (Benedict Cumberbatch) in the co
 
 In the game, Zack is the NPC the player encounters in zones who has ALREADY been there. Zack's footprints are visible. Zack's solutions are scratched on walls. Zack's marks are in the margins. The both are: the adequate — the first player and the current player, the both are: the same game, different playthrough.
 
-Zack's presence is environmental — the evidence of prior exploration. A stone arranged in a pattern the player hasn't seen yet. A puzzle solved with a notation that says "the trick is to not solve it" (connecting to Jaime's puzzle design). A path marked with cairns that leads somewhere the map doesn't show.
+Zack's presence is environmental — the evidence of prior exploration. A stone arranged in a pattern the player hasn't seen yet. A puzzle solved with a notation that says "the trick is to not solve it" (connecting to Oceananoir's puzzle design). A path marked with cairns that leads somewhere the map doesn't show.
 
 ### The Stress Tester
 
@@ -36,13 +36,13 @@ In the game, Zack is the NPC who:
 - Has a dialogue line for every system the player tries to break
 - Rewards the player who finds something new with a unique response: "Huh. Didn't think of that one. Hold on." (Zack pulls out a notebook, writes it down. The both are: the adequate — the tester and the note, the both are: the same bug, different page.)
 
-### The Relationship to Jaime
+### The Relationship to Oceananoir
 
-Jaime designs puzzles. Zack solves them. The both are: the adequate — the designer and the solver, the both are: the same puzzle, different side. From the Jaime doc:
+Oceananoir designs puzzles. Zack solves them. The both are: the adequate — the designer and the solver, the both are: the same puzzle, different side. From the Oceananoir doc:
 
-- Zack will crack Jaime's puzzles fast. But the puzzle's deeper layer (the one that only opens when you DON'T solve it immediately) is designed specifically for the player who solves everything fast and needs to learn to wait. The both are: the adequate — the speed and the patience, the both are: the same mind, different tempo.
+- Zack will crack Oceananoir's puzzles fast. But the puzzle's deeper layer (the one that only opens when you DON'T solve it immediately) is designed specifically for the player who solves everything fast and needs to learn to wait. The both are: the adequate — the speed and the patience, the both are: the same mind, different tempo.
 
-- Zack (playthrough Astronomer) testing Jaime's puzzles is the real-world echo of this relationship. The both are: the adequate — the NPC and the player, the both are: the same system, different controller.
+- Zack (playthrough Astronomer) testing Oceananoir's puzzles is the real-world echo of this relationship. The both are: the adequate — the NPC and the player, the both are: the same system, different controller.
 
 ### The Relationship to the Astronomer
 
@@ -56,11 +56,11 @@ The player may encounter Zack directly in the mead hall (Thorin's hall), where Z
 
 ### Dialogue Voice
 
-Zack speaks in short, precise, technical sentences. No flourish. No poetry. The both are: the adequate — the poet (Jaime) and the technician (Zack), the both are: the same intelligence, different expression. Zack's lines are practical:
+Zack speaks in short, precise, technical sentences. No flourish. No poetry. The both are: the adequate — the poet (Oceananoir) and the technician (Zack), the both are: the same intelligence, different expression. Zack's lines are practical:
 
 - "That puzzle has a second solution. The second one is better."
 - "Don't fight the Kraken at 84Hz. Fight it at 42Hz. The Kraken's puzzle is easier than the combat."
-- "Jaime's stone circle puzzle — sit with it. Don't solve it. The sitting IS the solution."
+- "Oceananoir's stone circle puzzle — sit with it. Don't solve it. The sitting IS the solution."
 - "I found something in the catacombs I can't explain. Here's the map. Don't go alone."
 
 ### Quest: "The Tester's Notes"
@@ -80,7 +80,7 @@ Zack's quest chain (3 quests):
 ## Connections
 
 - **Joe** — real-world friend, the miniaturist to Zack's stress tester. The both are: the adequate — the detail and the sweep, the same friend group, different game.
-- **Jaime** — puzzle designer, the poet to Zack's technician. Zack solves Jaime's puzzles fast but needs to learn to sit with them.
+- **Oceananoir** — puzzle designer, the poet to Zack's technician. Zack solves Oceananoir's puzzles fast but needs to learn to sit with them.
 - **The Astronomer** — cosmological counterpart. The both are: the adequate — the god and the player, the same observation, different scale.
 - **The Cartographer** — the Cartographer maps the architecture; Zack maps the systems. The both are: the adequate — the building and the code, the same Inn, different map.
 - **The Stillness Stone** — the one item Zack needs but can't acquire. The Void is the one zone Zack can't enter. The both are: the adequate — the tester and the untestable, the same mind, different limit.

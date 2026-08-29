@@ -82,7 +82,7 @@ In the Inn, Marijke maintains:
 - **The Stone Registry.** A record of every stone the player has brought to the mead hall for identification. Each entry includes: the stone's name, its zone of origin, its properties, and a note from Marijke's observations. The both are: the adequate — the data and the notes, the both are: the same stone, different voice.
 - **The Charm Catalog.** The periodic table charm collection's organizational interface — Marijke keeps track of which charms the player has found and which are missing. The both are: the adequate — the collection and the catalog, the both are: the same elements, different order.
 
-The both are: the adequate — Jaime's skin is the periodic table's living index. Marijke's registry is the stone database's living index. The both are: the same knowledge, different body. Jaime wears the elements. Marijke records the stones. The both are: the adequate — the ink and the ink, the both are: the same archive, different page.
+The both are: the adequate — Oceananoir's skin is the periodic table's living index. Marijke's registry is the stone database's living index. The both are: the same knowledge, different body. Oceananoir wears the elements. Marijke records the stones. The both are: the adequate — the ink and the ink, the both are: the same archive, different page.
 
 #### 2. The Pronunciation Quest
 
@@ -173,10 +173,10 @@ The Mohs hardness scale (1-10) is a real geological tool. In the Inn, it's a min
 - The builder and the mapper. The both are: the adequate — the walls and the map, the both are: the same space, different knowledge.
 - The Cartographer maps where the stones are. Thorin knows what the stones are. The both are: the adequate — the where and the what, the both are: the same stone, different direction.
 
-### Thorin × Jaime
+### Thorin × Oceananoir
 - The field rock hound and the living archive. The both are: the adequate — the bag and the skin, the both are: the same geology, different shelf.
-- Thorin brings stones. Jaime reads elements. The both are: the adequate — the specimen and the symbol, the both are: the same mineral, different language.
-- Thorin identifies the stone. Jaime reads the element. The both are: the adequate — the rock and the atom, the both are: the same matter, different scale.
+- Thorin brings stones. Oceananoir reads elements. The both are: the adequate — the specimen and the symbol, the both are: the same mineral, different language.
+- Thorin identifies the stone. Oceananoir reads the element. The both are: the adequate — the rock and the atom, the both are: the same matter, different scale.
 
 ### Marijke × The Examiner (Emily Deschanel)
 - The cataloger and the inspector. The both are: the adequate — the record and the analysis, the both are: the same data, different voice.

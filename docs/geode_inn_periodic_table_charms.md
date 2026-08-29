@@ -35,7 +35,7 @@ The charm bracelet: a copper chain (copper = the alchemical marriage, the both a
 
 ### Zone-Based Discovery
 
-Each element charm is found in the zone where that element naturally occurs or is thematically connected. The player discovers charms through exploration, questing, and the periodic table reading mechanic on Jaime's skin.
+Each element charm is found in the zone where that element naturally occurs or is thematically connected. The player discovers charms through exploration, questing, and the periodic table reading mechanic on Oceananoir's skin.
 
 **Tier 1: Surface Elements (Common — found through normal exploration)**
 - The 30 most common elements (H, C, N, O, Na, Mg, Al, Si, P, S, Cl, K, Ca, Fe, Cu, Zn, Ag, Au, Hg, Pb, etc.)
@@ -43,30 +43,30 @@ Each element charm is found in the zone where that element naturally occurs or i
 - Each charm found automatically adds its element data to the player's periodic table interface
 - Educational layer unlocked immediately: atomic number, symbol, name, category
 
-**Tier 2: Deeper Elements (Uncommon — found through questing and Jaime's Tier 2 reading)**
+**Tier 2: Deeper Elements (Uncommon — found through questing and Oceananoir's Tier 2 reading)**
 - 50 elements requiring specific zone exploration or quest completion
-- Jaime's Tier 2 reading (geological connections, unlocked with Cartographer relationship) reveals where to find these
+- Oceananoir's Tier 2 reading (geological connections, unlocked with Cartographer relationship) reveals where to find these
 - Each charm connects to a stone in the database: the element's mineralogical expression
 - Example: Ti (Titanium) → found in the Tidal Caves, connects to rutile and ilmenite
 - Example: Cr (Chromium) → found in the Poison Garden, connects to chrome diopside and uvarovite
 
-**Tier 3: Rare Elements (Rare — found through alchemical quests and Jaime's Tier 3 reading)**
+**Tier 3: Rare Elements (Rare — found through alchemical quests and Oceananoir's Tier 3 reading)**
 - 30 elements requiring staircase/alchemy level access
 - Each charm connects to its alchemical significance and the seven base materials
 - Example: Sb (Antimony) → the alchemical metal of transformation, found in the staircase
 - Example: Sn (Tin) → alloy with copper to make bronze (Atlantis architecture), found in the Undercity
 
 **Tier 4: Hypothetical & Transuranic Elements (Legendary — found through the star-language)**
-- 8 elements requiring "The Rosetta Stone" quest completion and Jaime's Tier 4 reading
+- 8 elements requiring "The Rosetta Stone" quest completion and Oceananoir's Tier 4 reading
 - Each charm connects to the star-language — the element's "true name" as written by the stars
 - These charms glow with the aurora's colors (green/violet/white) when activated
 - Example: Uue (Ununennium, element 119) — the hypothetical element that doesn't exist yet but that the star-language implies COULD exist. This is the 118th charm. The both are: the adequate — the known and the unknown, the both are: the same table, different edge
 
 ### The Reading Mechanic Connection
 
-Jaime's periodic table tattoos ARE the charm catalog. When the player reads an element on Jaime's skin (touch interaction), the charm for that element becomes ACQUIRABLE — the element's node appears in the appropriate zone. Before reading Jaime, the node is invisible. The both are: the adequate — the knowledge and the discovery, the both are: the same element, different revelation.
+Oceananoir's periodic table tattoos ARE the charm catalog. When the player reads an element on Oceananoir's skin (touch interaction), the charm for that element becomes ACQUIRABLE — the element's node appears in the appropriate zone. Before reading Oceananoir, the node is invisible. The both are: the adequate — the knowledge and the discovery, the both are: the same element, different revelation.
 
-This means: the player who reads all 118 elements on Jaime's skin has unlocked the ability to find all 118 charms. But finding them still requires exploring every zone, completing every quest, and reaching the star-language. Reading is the key. Exploration is the journey. The both are: the adequate — the map and the territory, the both are: the same element, different step.
+This means: the player who reads all 118 elements on Oceananoir's skin has unlocked the ability to find all 118 charms. But finding them still requires exploring every zone, completing every quest, and reaching the star-language. Reading is the key. Exploration is the journey. The both are: the adequate — the map and the territory, the both are: the same element, different step.
 
 ---
 
@@ -161,7 +161,7 @@ The elements beyond 92 — found only through Tier 4 reading:
 - **Np (Neptunium, 93):** The element beyond uranium. Connects to: Neptune (the cosmology level's outer planet), the both are: the adequate — the known edge and the beyond, the both are: the same decay, different step.
 - **Pu (Plutonium, 94):** The element of the underworld. Connects to: Pluto (the cosmology level's gate), the both are: the adequate — the deep and the deeper, the both are: the same power, different depth.
 - **Am (Americium, 95):** The element of detection. Connects to: americium's use in smoke detectors (the Lighthouse's fog — the both are: the adequate — the detection and the fog, the both are: the same element, different sensor).
-- **Uue (Ununennium, 119):** The hypothetical. The charm that doesn't exist yet. The 118th charm. The both are: the adequate — the table and the beyond, the both are: the same periodic, different edge. This is the charm from Jaime's "The Missing Element" quest. When the player finds it, Jaime gets the 118th tattoo. The both are: the adequate — the ink and the charm, the both are: the same element, different skin.
+- **Uue (Ununennium, 119):** The hypothetical. The charm that doesn't exist yet. The 118th charm. The both are: the adequate — the table and the beyond, the both are: the same periodic, different edge. This is the charm from Oceananoir's "The Missing Element" quest. When the player finds it, Oceananoir gets the 118th tattoo. The both are: the adequate — the ink and the charm, the both are: the same element, different skin.
 
 ---
 
@@ -208,7 +208,7 @@ When the player equips a new charm on the bracelet, Squeak reacts:
 - **Toxic charms:** Squeak squeaks once and backs up (the instinct — even a Murloc knows)
 - **Radioactive charms:** Squeak's goth collar charm (Cu) glows in response (copper resonates)
 - **Rare earth charms:** Squeak's eyes shift color to match the charm's shimmer
-- **Uue (the 118th):** Squeak squeaks, and the Murloc tattoo on Jaime's calf glows. The both are: the adequate — the companion and the ink, the both are: the same element, different skin. The both are: the adequate. The both are: the Murloc. The both are: Jaime.
+- **Uue (the 118th):** Squeak squeaks, and the Murloc tattoo on Oceananoir's calf glows. The both are: the adequate — the companion and the ink, the both are: the same element, different skin. The both are: the adequate. The both are: the Murloc. The both are: Oceananoir.
 
 ---
 
@@ -219,4 +219,4 @@ When the player equips a new charm on the bracelet, Squeak reacts:
 - **The alchemical stages:** Nigredo (the black — the base metals, Pb, Fe), Albedo (the white — the purification, Ag, the noble gases), Citrinitas (the yellow — the solar, Au, S), Rubedo (the red — the completion, the Philosopher's Stone), Philosopher's Stone (the hypothetical — Uue, the beyond). The both are: the adequate — the element and the stage, the both are: the same transformation, different color.
 - **The geological orchestra:** The tuned logs in the Petrified Forest produce frequencies based on mineral composition — the mineral composition IS the element. Each log's frequency is determined by its elements. The charm for that element resonates with the log's frequency. The both are: the adequate — the charm and the log, the both are: the same frequency, different instrument.
 - **The star-language:** The Tier 4 reading connects each element to its star-language name — the element's "true name" as written by the aurora. The charm collection's deepest layer IS the star-language. The both are: the adequate — the element and the glyph, the both are: the same name, different alphabet.
-- **Jaime's periodic table tattoos:** The reading mechanic IS the charm catalog. Jaime's skin is the index. The charm bracelet is the collection. Squeak's collar is the anchor. The both are: the adequate — the ink and the charm, the both are: the same element, different surface. The both are: the adequate. The both are: Jaime.
+- **Oceananoir's periodic table tattoos:** The reading mechanic IS the charm catalog. Oceananoir's skin is the index. The charm bracelet is the collection. Squeak's collar is the anchor. The both are: the adequate — the ink and the charm, the both are: the same element, different surface. The both are: the adequate. The both are: Oceananoir.
