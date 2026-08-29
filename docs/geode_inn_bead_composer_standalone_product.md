@@ -1,11 +1,11 @@
 # Bead Composer — Standalone Product Specification
-## The sonic jewelry design tool for independent makers
+## The sonic jewelry design tool, hosted at geodeinn.com
 
 ---
 
 ## PRODUCT VISION
 
-**One sentence:** A jewelry design app that lets you place real gemstones on a virtual board, hear the arrangement as sound, and export a production-ready spec — with built-in mineral intelligence that tells you what cuts work for which stones.
+**One sentence:** A jewelry design app at geodeinn.com that lets you place real gemstones on a virtual board, hear the arrangement as sound, and export a production-ready spec — with built-in mineral intelligence that tells you what cuts work for which stones.
 
 **The problem:** Independent jewelry makers, bead artists, and small studio designers work with graph paper, two-sided tape, and trial-and-error. They guess at arrangements, can't preview how stones look together, have no way to know if a stone can be cut a certain way without asking a gemcutter, and order materials based on mental math. No existing tool serves this audience.
 
@@ -17,6 +17,40 @@
 - **Has audio.** You hear the arrangement before you make it. This is the feature nobody else has and nobody else thought to build.
 - **Has rules.** The faceting engine knows that opaque stones don't facet (except onyx and tourmaline), that opals don't facet (except fire opal). It saves makers from ordering cuts that can't exist.
 - **Has a soul.** This isn't a sterile tool — it's a workspace that understands the craft because it was built from a real jeweler's booth process.
+
+---
+
+## HOSTING: GEODEINN.COM
+
+The Bead Composer lives at geodeinn.com as a dedicated section of the Geode Inn website. It is not a separate domain or a separate app — it is part of the Geode Inn's web presence, accessible to anyone visiting the site.
+
+### Two Doors, One Engine
+
+The Composer has two entry points, both running the same code:
+
+**Door 1: The Game (for players)**
+- Accessed through the Geode Inn game after reaching Level 4 (Campgrounds)
+- Players see the Composer as Dani's Studio (tutorial) or the Master's Bench (Undercity)
+- Stones are gated by game progression — players use what they've collected
+- Shapes unlock in tiers tied to game level
+- The Composer is part of the game world, with NPCs, quests, and commissions
+
+**Door 2: The Website (for everyone)**
+- Accessed directly from geodeinn.com/composer (or similar URL)
+- No game login, no game progression required
+- Full stone database available immediately (all 164 stones)
+- All shapes available immediately
+- The Composer is a standalone tool — no game UI, no NPCs, just the workspace
+- Users create a free account to save designs
+- The tool is marketed independently to jewelry makers, crafters, and designers
+
+### Why This Works
+
+- **geodeinn.com already exists** — no new domain to secure, no new brand to build
+- **The game is the proof of concept** — visitors who discover the Composer can explore the game if they want, but they don't have to
+- **Cross-pollination** — game players discover the tool is useful for real jewelry; tool users discover the game exists and might try it
+- **One codebase** — the Composer runs on the Geode Inn's Base44 app, with the game layer as a conditional wrapper
+- **SEO** — geodeinn.com/composer is indexable; the tool drives traffic to the site; the site drives traffic to the game
 
 ---
 
@@ -195,16 +229,24 @@
 
 ## TECHNICAL ARCHITECTURE
 
-### Platform: Base44 Standalone App
-- Separate from the Geode Inn game app
-- Own domain (beadcomposer.com — to be secured)
-- Base44 backend: Stone entity, Design entity, User entity, Template entity
-- Web frontend: React-based interactive board (Canvas 2D for shape rendering)
-- Mobile: Responsive web (no native app for MVP — PWA is sufficient)
-- Audio: Web Audio API for real-time synthesis
+### Platform: Geode Inn Base44 App (Shared)
+The Bead Composer runs on the existing Geode Inn Base44 app (ID: 6a60f218b0c6605c92fa35c4), with the game layer as a conditional wrapper.
+
+- **Website visitors** see the Composer at geodeinn.com/composer — no game UI, full tool access
+- **Game players** see the Composer inside the game world — gated by progression, with game context
+- **Same codebase** — the Composer is a page within the Geode Inn app, with the game wrapper toggled by entry point
+- **Same database** — the Stone entity (164 stones) serves both the game and the standalone tool
+- **Same audio engine** — the Web Audio API implementation is shared
+
+### Page Structure (Geode Inn App)
+- `/` — Geode Inn homepage (the Inn's front door)
+- `/composer` — Bead Composer standalone tool (no game required)
+- `/game` — Game entrance (for players)
+- `/library` — Stone library / archive (browsable without game)
+- `/market` — Artisan market (Soulstice + other makers)
 
 ### Entities
-- **Stone** — the mineral database (164 stones, expandable). Fields: name, family, category, colorNotes, opacity, mohs, canFacet, beadFinish, frequency, geoRegion, mind, body, varieties
+- **Stone** — the mineral database (164 stones, expandable). Already built. Fields: name, family, category, colorNotes, opacity, mohs, canFacet, beadFinish, frequency, geoRegion, mind, body, varieties
 - **Design** — saved board states. Fields: userId, name, boardType, boardWood, stones (JSON array of placements), metal, finish, audioExport, createdAt, sharedLink
 - **User** — user accounts. Fields: email, name, tier, savedDesigns, customStones
 - **Template** — pre-made arrangements. Fields: name, style, stones, metal, finish, isPublic, createdBy
@@ -230,6 +272,9 @@
 ### Name: Bead Composer
 Simple, clear, descriptive. The name says what it does.
 
+### Context: A tool from the Geode Inn
+The Bead Composer is a Geode Inn tool. The Geode Inn is a living archive and game hub for gemstone enthusiasts. The Composer is what the Inn's craftsmen use — now available to everyone.
+
 ### Tagline Options
 - "Design jewelry you can hear."
 - "The sonic jewelry studio."
@@ -243,14 +288,14 @@ Simple, clear, descriptive. The name says what it does.
 - Warm amber and cream tones (consistent with the Geode Inn's visual DNA)
 
 ### Positioning Statement
-For independent jewelry makers who design by arrangement, Bead Composer is the digital workspace that lets you place real stones, hear the composition, and export a production spec — with built-in mineral intelligence that no other tool offers. Unlike CAD software built for gem cutters, Bead Composer is built for designers: creative, intuitive, and grounded in real geological data.
+For independent jewelry makers who design by arrangement, Bead Composer is the digital workspace at geodeinn.com that lets you place real stones, hear the composition, and export a production spec — with built-in mineral intelligence that no other tool offers. Unlike CAD software built for gem cutters, Bead Composer is built for designers: creative, intuitive, and grounded in real geological data.
 
 ---
 
 ## DEVELOPMENT ROADMAP
 
 ### Phase 1: MVP (Weeks 1-4)
-- Board UI with drag-and-drop
+- Board UI with drag-and-drop at /composer
 - Stone palette with 164 stones
 - Shape library (16 shapes, size variants)
 - Faceting rule engine (canFacet gate)
@@ -258,6 +303,7 @@ For independent jewelry makers who design by arrangement, Bead Composer is the d
 - Export: visual (PNG) + materials list (CSV)
 - Save/load designs
 - User accounts (free tier)
+- Composer page accessible from geodeinn.com without game login
 
 ### Phase 2: Audio + Export (Weeks 5-8)
 - Full audio engine (polyphonic, metal drone, shape modulation)
@@ -299,10 +345,11 @@ Bead Composer is born from Krista's real booth process at Soulstice Jewelry. The
 - The Soulstice stone book (164 stones) as the app's launch database
 - Krista's design principles as the education mode's foundation
 
-**The Geode Inn as proof of concept:**
-- The game version demonstrates the tool in a creative context
-- The standalone version strips the game wrapper and delivers the tool to the market
-- Same engine, same data, same audio — different audience, different product
+**The Geode Inn as home:**
+- The Composer lives at geodeinn.com — the Inn is its home
+- Game players discover the tool is useful for real jewelry; tool users discover the game exists
+- The Inn's warm, scholarly aesthetic is the Composer's aesthetic
+- The Geode Inn's reputation as a gemstone archive gives the Composer credibility
 
 ---
 
@@ -328,4 +375,4 @@ Bead Composer is born from Krista's real booth process at Soulstice Jewelry. The
 - **Mohs resonance architecture** — `geode_inn_mohs_resonance_architecture.md`
 - **Stone entity** — 164 stones with canFacet, beadFinish, opacity fields ready
 - **Soulstice Jewelry** — the real-world jewelry business this tool serves
-- **Geode Inn** — the game that proved the concept
+- **Geode Inn** — the game and archive that hosts this tool at geodeinn.com
