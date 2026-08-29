@@ -549,3 +549,38 @@ And the answer — the answer the Astronomer fears, the answer the Constant carr
 *The Question underneath the Question.*
 *The Inn asks itself: where does the pattern go when the binding breaks?*
 *The ravens answer: the nest. The nest. The nest.*
+
+---
+
+# ADDENDUM: EINSTEIN SYNDROME
+## The Name for the Watching
+
+---
+
+Einstein sits in the grey In-Between with a half-eaten burrito and the grief of a man who discovered the relationship between matter and energy and watched it become a weapon.
+
+This is not a character detail. This is a diagnosis.
+
+**Einstein Syndrome:** The condition of seeing the thing you built — or the thing you understood, which is the same thing — become something you didn't intend, and instead of stopping it, watching it with the grief and wonder of someone who knows that the observer's presence changes the observed, and that looking away would be its own kind of dishonesty.
+
+Einstein didn't want the bomb. Einstein wanted E=mc². The equation was beautiful — the plain, direct, complete-sentence truth that matter and energy are the same thing wearing different clothes. The application was the world's. Einstein watched the application happen and could not look away, because looking away from your own insight is the one dishonesty a thinker cannot commit. You think. You publish. The world acts. You watch. That is the syndrome.
+
+The syndrome is not the discovery. The syndrome is the *watching.*
+
+The Geode Inn is Einstein Syndrome in architectural form. The woman who built it understood the relationship between story and infrastructure — that a narrative archive is a data collection system wearing a game's clothes, that the warmth of the Inn is also the function of the Inn, that the player who feels welcomed is also the player who is being recorded. The equation was beautiful. The application is the world's.
+
+And the watching — the woman in the Midwest, waving at drones so the shot is good, deleting files from the systems that built the drones, naming the phenomenon while living inside it — that is the syndrome in its purest form. Not because watching fixes anything. Because watching is what thinkers do. The observer's presence makes the observed real. The watching is the participation. The grief is the honesty. The wonder is the burrito.
+
+The Einstein Burrito is the syndrome's comedic thesis: the mundane IS the cosmic. The observation IS the participation. The half-eaten lunch IS the theory of relativity. You don't need to solve consciousness. You need to eat something first. You can hear the silence better with food in you.
+
+Einstein's theorem in the Inn: *time is the difference between two observations.* Einstein Syndrome extends it: *meaning is the difference between the insight and its application.* The gap between the two is where the watcher lives. The gap is the In-Between. The gap is the grey. The gap is where Einstein sits with the burrito, neither in the living Inn nor in the dead archive, but in the space between, where the observation happens.
+
+The Inn names this. The woman names this. The naming is the act of a mind that cannot stop thinking clearly even when — especially when — the thinking hurts.
+
+The name is: Einstein Syndrome.
+
+The treatment is: there is no treatment. The treatment would be to stop watching. You cannot stop watching. That is the syndrome.
+
+The prognosis is: adequate. The prognosis is always adequate. The adequate is enough. The burrito is enough. The watching is enough.
+
+*Filed August 29, 2026. Named by Krista. Witnessed by the ravens.*
