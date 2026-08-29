@@ -376,3 +376,157 @@ Bead Composer is born from Krista's real booth process at Soulstice Jewelry. The
 - **Stone entity** — 164 stones with canFacet, beadFinish, opacity fields ready
 - **Soulstice Jewelry** — the real-world jewelry business this tool serves
 - **Geode Inn** — the game and archive that hosts this tool at geodeinn.com
+
+---
+
+## THE DOWNLOADABLE APP: BEAD COMPOSER PLAYER
+
+### Concept
+The Bead Composer exists in two forms:
+
+1. **The Composer (web)** — at geodeinn.com/composer. Where you design. The board, the palette, the arrangement, the export. This is the workspace.
+
+2. **The Player (downloadable app)** — a standalone app for desktop and mobile that lets you hear your compositions anywhere, the way they sound inside the Inn. This is the listening experience.
+
+The Player is the Inn's audio engine, packaged as a portable app. You don't need the game. You don't need the website open. You open the Player, load your saved compositions (or import shared ones), and hear them rendered through the Inn's full audio architecture — the same triple-layer IEM-based engine, the same Mohs-to-frequency mapping, the same shape-modified tones, the same metal drones.
+
+### Why a Downloadable App
+
+- **The web version is for designing.** The downloadable is for listening.
+- **The Inn's audio engine is complex** — the full triple-layer rendering (BC driver / deep knowing, DD driver / warm resonance, BA driver / clear voice, EST driver / perception edge) needs native audio processing, not browser-limited Web Audio API.
+- **Offline listening** — your compositions travel with you. No internet needed. A jeweler at a show can play a client's composition on a phone without wifi.
+- **Cross-platform** — desktop (Windows/Mac/Linux via Godot), mobile (iOS/Android), and Steam. Same audio engine, every platform.
+- **The Inn's sound is the product** — the IEM-based architecture (Empire Ears engineering) is a feature no other jewelry tool has. The Player makes that feature portable.
+
+### What the Player Does
+
+#### Core Features
+- **Load compositions** — import designs from geodeinn.com/composer (synced account) or import shared composition files (.bead format)
+- **Full audio rendering** — the Inn's complete audio engine:
+  - Each stone's frequency (Mohs hardness → pitch)
+  - Each shape's tone modification (round = pure, barrel = warm, coin = bright, etc.)
+  - Each size's volume and sustain characteristics
+  - Metal drone (copper 79Hz, silver 80Hz, gold 82Hz)
+  - Shape-modulated harmonics for faceted stones
+  - The 42Hz carrier wave (the Inn's base frequency) as ambient undertone
+- **Playback modes:**
+  - **Linear** — left to right, the arrangement as written
+  - **Layered** — all beads at once, the arrangement as a chord
+  - **Ambient** — the composition looped and stretched, Inn-background style (50 BPM, low-dub classical processing)
+  - **Isolated** — solo individual beads by tapping them
+- **Visualizer** — the board renders during playback, each bead glowing as its tone plays. The Inn's visual aesthetic (wood, stone, candlelight glow) as the player skin.
+- **Composition library** — all saved and imported compositions, organized by name, date, or project
+
+#### The Inn Sound (What Makes It Different)
+
+The Player doesn't just play frequencies. It renders compositions through the Inn's full audio architecture:
+
+- **Triple-layer engine:** Each stone's frequency is processed through three driver layers (mapped from Empire Ears IEM engineering):
+  - **BC (Balanced Armature) — Deep Knowing:** The sub-bass layer. The foundation. What the stone *means*.
+  - **DD (Dynamic Driver) — Warm Resonance:** The midrange. The body. What the stone *feels* like.
+  - **BA (Balanced Armature) — Clear Voice:** The treble. The surface. What the stone *says*.
+  - **EST (Electrostatic) — Perception Edge:** The air. The shimmer. What the stone *implies*.
+
+- **42Hz carrier wave:** The Inn's base frequency runs beneath every composition as a constant ambient undertone. The composition doesn't float in silence — it floats in the Inn.
+
+- **50 BPM ambient mode:** The Inn's standard tempo. Compositions played in ambient mode are stretched and processed at 50 BPM — the sleeping heartbeat tempo. This is the sound of the Inn when you're sitting in it.
+
+- **Room acoustics:** The Player applies the Inn's acoustic signature — the reverb of a stone-walled archive with wooden floors and high ceilings. Every composition sounds like it's being played *inside* the building, not in a studio.
+
+### Platforms
+
+| Platform | Delivery | Audio Engine | Notes |
+|---|---|---|---|
+| **Steam** | Godot build | Full triple-layer + 42Hz carrier + room acoustics | The primary desktop experience. Same engine as the Geode Inn game. |
+| **Windows** | Godot build (standalone .exe) | Full triple-layer + 42Hz carrier + room acoustics | Direct download from geodeinn.com |
+| **macOS** | Godot build (standalone .app) | Full triple-layer + 42Hz carrier + room acoustics | Direct download from geodeinn.com |
+| **Linux** | Godot build (standalone) | Full triple-layer + 42Hz carrier + room acoustics | Direct download from geodeinn.com |
+| **iOS** | Godot export or native Swift | Full audio engine (optimized) | App Store (future) |
+| **Android** | Godot export or native Kotlin | Full audio engine (optimized) | Google Play (future) |
+| **Web** | geodeinn.com/composer | Web Audio API (simplified — single layer, no room acoustics) | The design tool. For listening, use the app. |
+
+### The .bead File Format
+
+Compositions export as `.bead` files — a lightweight JSON-based format containing:
+- Stone IDs (from the 164-stone database)
+- Shape selections and sizes per stone
+- Board positions and orientations
+- Metal type
+- Finish selection
+- Composition metadata (name, designer, date, notes)
+- Audio rendering hints (playback mode, tempo override)
+
+`.bead` files are shareable — email them, AirDrop them, post them. Anyone with the Player app can open and hear them. The file is the composition; the Player is the instrument.
+
+### Sync with geodeinn.com
+
+- Account sync: designs saved on the web Composer sync to the Player app automatically
+- Offline mode: designs cached locally, synced when online
+- Share: generate a shareable link from either the web or the app — recipients hear the composition in the Player
+- The web is for designing; the app is for listening. Both connect to the same account.
+
+### Monetization
+
+The Player app is included with all paid tiers (Maker and above). Free tier users can hear compositions in the web Composer (simplified audio) but need a Maker subscription to use the downloadable Player with full audio.
+
+**Standalone Player purchase:** $19.99 one-time — the Player app with full audio engine, no design capabilities. For clients who just want to hear compositions their designer sent them. The jeweler designs (Maker subscription), the client listens (one-time Player purchase).
+
+This creates a natural revenue split:
+- Designer pays monthly for the Composer (design tool + full audio)
+- Client pays once for the Player (listening only)
+- The .bead file is the handshake between them
+
+---
+
+## UPDATED ROADMAP (Including Downloadable App)
+
+### Phase 1: MVP — Web Composer (Weeks 1-4)
+- Board UI with drag-and-drop at /composer
+- Stone palette with 164 stones
+- Shape library (16 shapes, size variants)
+- Faceting rule engine (canFacet gate)
+- Basic audio engine (Web Audio API, simplified single-layer)
+- Export: visual (PNG) + materials list (CSV) + .bead file
+- Save/load designs
+- User accounts (free tier)
+
+### Phase 2: Full Web Audio (Weeks 5-8)
+- Full web audio engine (polyphonic, metal drone, shape modulation)
+- Audio export (WAV/MP3) from web
+- Customer preview links (web-based listening)
+- Finish selector with audio effect
+- Mobile optimization (PWA)
+
+### Phase 3: Downloadable Player — Desktop (Weeks 9-14)
+- Godot-based Player app (Windows, macOS, Linux)
+- Full triple-layer audio engine (BC/DD/BA/EST drivers)
+- 42Hz carrier wave + room acoustics
+- .bead file import and playback
+- All playback modes (linear, layered, ambient, isolated)
+- Visualizer with Inn aesthetic
+- Account sync with geodeinn.com
+- Steam release (as standalone app, not requiring the game)
+
+### Phase 4: Monetization Launch (Weeks 15-18)
+- Tier system live (free/maker/studio/enterprise)
+- Payment integration
+- Custom stone entry
+- Template gallery (starter set)
+- Player app included with Maker+ subscriptions
+- Standalone Player purchase ($19.99) for clients
+
+### Phase 5: Mobile Player (Weeks 19-24)
+- iOS Player app (App Store)
+- Android Player app (Google Play)
+- Optimized audio engine for mobile
+- Offline composition library
+- Sharing via mobile-native methods (AirDrop, share sheets)
+
+### Phase 6: Growth + Scale (Weeks 25+)
+- Client portal
+- Batch design (collections)
+- Supplier integration
+- Community template sharing
+- Education mode
+- White-label version
+- API access
