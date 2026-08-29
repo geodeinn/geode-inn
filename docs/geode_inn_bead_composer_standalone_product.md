@@ -530,3 +530,200 @@ This creates a natural revenue split:
 - Education mode
 - White-label version
 - API access
+
+---
+
+## INN MODE: THE UNIVERSAL AUDIO PROCESSOR
+
+### Concept
+
+Inn Mode is the feature that transforms the Bead Composer Player from a niche jewelry tool into a universal audio experience. Any song, any genre, any artist — processed through the Geode Inn's audio architecture and heard as if it were playing inside the Inn.
+
+The Player isn't just for stone compositions anymore. It's a DSP (digital signal processing) engine that renders any audio through the Inn's triple-layer IEM-inspired architecture, 42Hz carrier wave, and room acoustics.
+
+**One sentence:** Bring your favorite song. Hear it the way it sounds inside the Geode Inn.
+
+---
+
+### How It Works
+
+1. **User opens the Player app**
+2. **User loads an audio file they own** (MP3, WAV, FLAC, AAC, OGG — from their personal library)
+3. **User presses "Inn Mode"**
+4. **The Player processes the audio in real-time through the Inn's architecture:**
+   - **Layer 1 — The Foundation (sub-bass extraction & enhancement):** The deepest frequencies are isolated, warmed, and sustained. The floor of the Inn. What the song *means* underneath.
+   - **Layer 2 — The Resonance (midrange warmth):** The midrange is softened and rounded — the wooden walls, the stone floors, the human warmth of the building. What the song *feels* like inside.
+   - **Layer 3 — The Voice (treble clarity):** Vocals and lead instruments are clarified and lifted — the way sound carries in an archive with high ceilings. What the song *says* when the room is listening.
+   - **Layer 4 — The Air (shimmer & space):** The highest frequencies are extended with a subtle electrostatic sheen — candlelight on stone, dust in a sunbeam. What the song *implies* beyond itself.
+   - **42Hz Carrier Wave:** The Inn's base frequency layered beneath the processed audio as an ambient undertone. The song doesn't float in silence — it floats in the Inn.
+   - **Room Acoustics:** The Inn's acoustic signature applied — the reverb of a stone-walled archive with wooden floors, high ceilings, and the particular warmth of a space that has been lived in. Every song sounds like it's being played *inside* the building.
+5. **User hears their song transformed**
+6. **User saves the processed version locally** (stays on their device, never uploaded)
+
+---
+
+### Playback Variants
+
+Beyond standard Inn Mode, the Player offers themed rendering profiles — each a different "room" in the Inn:
+
+| Profile | What It Does | Vibe |
+|---|---|---|
+| **The Archive (Main Floor)** | Full Inn Mode — all four layers, 42Hz carrier, room reverb | The default. Sitting in the main hall. |
+| **The Catacombs (Downstairs)** | Heavy sub-bass, reduced treble, longer reverb, darker tone | Deep underground. Ancient. Weighted. |
+| **The Observatory (Upstairs)** | Lifted treble, extended air, minimal bass, short reverb | Open sky. Stars. Weightless. |
+| **The Staircase (Transition)** | Rising filter sweep — bass to treble as the song progresses | Climbing. The music literally ascends. |
+| **The Campgrounds** | Warm midrange forward, gentle reverb, natural sound | Outside the Inn. Open fire. Grounded. |
+| **The Shadow Inn (84Hz)** | Detuned, slightly discordant, heavier compression, 84Hz carrier instead of 42Hz | The mirror Inn. Wrong. Compelling. |
+| **The Geode Cave** | Near-silent background, each frequency isolated and crystalline, almost a cappella | Inside the stone. Intimate. Bare. |
+
+Each profile is a DSP preset — different EQ curves, reverb settings, carrier frequencies, and layer balances. The user picks the room; the Player reshapes the song for that space.
+
+---
+
+### The Legal Model (Why This Is Clean)
+
+Inn Mode follows the established legal framework for audio processing software:
+
+**What we do:**
+- We provide a DSP engine that processes audio the user already owns
+- Processing happens locally on the user's device
+- The processed output stays on the user's device
+- We never provide copyrighted songs
+- We never store user audio files on our servers
+- We never distribute the processed output
+
+**Precedent:**
+- Dolby Atmos processes user audio through spatial rendering — same model
+- Waves plugins process user audio through EQ/reverb — same model
+- iZotope Ozone processes user audio through mastering chains — same model
+- Room correction software (Sonarworks) processes user audio through room profiles — same model
+- Guitar pedals process user input through effect chains — same model
+
+**We are selling the processor, not the content.** The user brings their legally-owned music. We transform it. The output is theirs, on their device.
+
+**Terms of service (to be drafted):**
+- "The Player processes audio files you provide. You are responsible for ensuring you have the legal right to process and listen to those files."
+- "Processed audio is stored locally on your device. The Geode Inn does not upload, store, or redistribute your audio files or processed output."
+- "Shareable preview clips are user-generated content. You are responsible for the source material you choose to share."
+
+---
+
+### Shareable Preview Clips (The Marketing Engine)
+
+The Player can generate 15-30 second watermarked preview clips of any song in Inn Mode. These clips are:
+
+- Short enough to qualify as fair use preview (transformative, brief, non-substitutive)
+- Watermarked with a subtle "Geode Inn" audio tag
+- Intended for social media sharing — "Hear my favorite song in Inn Mode"
+- The user's responsibility for source material choice
+- The full processed version stays in the app; only the preview clip is shareable
+
+**The viral loop:**
+1. User processes a song in Inn Mode
+2. User generates a 30-second preview clip
+3. User shares to social media (TikTok, Instagram, YouTube Shorts)
+4. Viewers hear the Inn Mode transformation and want the app
+5. Viewers download the Player
+6. They process their own songs and share their own clips
+
+The preview clip is the demo. The app is the product. The songs are the user's. The Inn's sound is what they're paying for.
+
+---
+
+### MIDI Rendering (Future)
+
+The Player can also accept MIDI files and render them through the Inn's synth engine — oscillators producing tones, not recordings. This opens up:
+
+- Public domain music (Bach, Vivaldi, folk songs, Gregorian chants) rendered in full Inn audio — no copyright concerns at all
+- User-composed MIDI (original music) rendered in Inn audio
+- The Inn's synth engine as a creative tool — compose in MIDI, hear it in the Inn
+
+MIDI files of public domain compositions are freely available (IMSLP, MuseScore). The Inn could ship with a small library of public domain MIDI files pre-rendered in Inn Mode — a demo library that costs us nothing in licensing.
+
+---
+
+### Monetization
+
+Inn Mode is included in the Player app (all paid tiers). It is not available in the free web Composer — Inn Mode requires the downloadable Player.
+
+**Standalone Player with Inn Mode:** $29.99 one-time (increased from $19.99 — Inn Mode adds significant value)
+
+**Inn Mode Pro (add-on):** $4.99/month or $39/year — access to all room profiles (Catacombs, Observatory, Staircase, Shadow Inn, Geode Cave), batch processing (process an entire album at once), and high-resolution output (24-bit/96kHz processed files instead of standard quality).
+
+**Revenue model:**
+- Designer subscribes to the Composer (design tool + stone compositions)
+- Designer's client buys the Player ($29.99) to hear stone compositions
+- Music lover buys the Player ($29.99) for Inn Mode — hears their favorite songs in Inn audio
+- Power user subscribes to Inn Mode Pro ($4.99/mo) for all room profiles and batch processing
+- The Player serves two audiences (jewelry clients + music lovers) with one app
+
+---
+
+### Updated Feature Summary
+
+The Bead Composer ecosystem now has three core experiences:
+
+1. **The Composer (web, geodeinn.com/composer)** — Design jewelry from real stones. Hear the stone composition. Export production specs. For jewelry makers.
+
+2. **The Player — Stone Compositions (downloadable app)** — Hear your jewelry designs in full Inn audio. Load .bead files. All platforms. For jewelry clients and designers.
+
+3. **The Player — Inn Mode (downloadable app)** — Hear any song the way it sounds inside the Geode Inn. Universal audio processor. Bring your own music. For music lovers.
+
+One app. Two uses. Both powered by the Inn's audio architecture.
+
+---
+
+### UPDATED ROADMAP (Including Inn Mode)
+
+### Phase 1: MVP — Web Composer (Weeks 1-4)
+- Board UI with drag-and-drop at /composer
+- Stone palette with 164 stones
+- Shape library (16 shapes, size variants)
+- Faceting rule engine (canFacet gate)
+- Basic audio engine (Web Audio API, simplified single-layer)
+- Export: visual (PNG) + materials list (CSV) + .bead file
+- Save/load designs
+- User accounts (free tier)
+
+### Phase 2: Full Web Audio (Weeks 5-8)
+- Full web audio engine (polyphonic, metal drone, shape modulation)
+- Audio export (WAV/MP3) from web
+- Customer preview links (web-based listening)
+- Finish selector with audio effect
+- Mobile optimization (PWA)
+
+### Phase 3: Downloadable Player — Desktop (Weeks 9-14)
+- Godot-based Player app (Windows, macOS, Linux)
+- Full triple-layer audio engine (4 layers)
+- 42Hz carrier wave + room acoustics
+- .bead file import and playback (stone compositions)
+- All playback modes (linear, layered, ambient, isolated)
+- Visualizer with Inn aesthetic
+- Account sync with geodeinn.com
+- Steam release (standalone app)
+
+### Phase 4: Inn Mode (Weeks 15-20)
+- Audio file import (MP3, WAV, FLAC, AAC, OGG)
+- Real-time DSP processing through Inn architecture
+- All room profiles (Archive, Catacombs, Observatory, Staircase, Campgrounds, Shadow Inn, Geode Cave)
+- Shareable preview clips (15-30 second, watermarked)
+- Batch processing (Inn Mode Pro)
+- High-resolution output (Inn Mode Pro)
+- Inn Mode Pro subscription launch
+- Public domain MIDI library (pre-rendered demo songs)
+
+### Phase 5: Monetization + Launch (Weeks 21-24)
+- Full tier system live (free/maker/studio/enterprise)
+- Payment integration
+- Player app at $29.99 with Inn Mode included
+- Inn Mode Pro at $4.99/month
+- Template gallery
+- Marketing push (preview clips on social media)
+
+### Phase 6: Mobile + Growth (Weeks 25+)
+- iOS Player app (App Store) — stone compositions + Inn Mode
+- Android Player app (Google Play) — stone compositions + Inn Mode
+- Client portal
+- Supplier integration
+- Community features
+- Education mode
