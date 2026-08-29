@@ -204,3 +204,101 @@ The knotwork game's 2-inch scale is a new perspective in the Inn:
 ---
 
 *The cabochon system completes the stone database's cut options: beads (strung), cabochons (set), and faceted (light). Three uses, three cuts, one database. The knotwork game takes the Inn's ambient texture and makes it PLAYABLE — you don't just see the gold-on-dark-stone pattern. You weave it. At two inches high, where the wire is rope and the leather is earth and the pattern is a physical thing you build with your hands. The Inn's texture is not decoration. It's craft. And the craft is yours.*
+
+---
+
+## ADDENDUM: CLICK-TO-GUIDE MODE — WIRE DESIGN PROTOTYPING
+
+### Two Modes, Same Engine
+
+The knotwork game has two interaction modes. Both produce the same Celtic interlacing output. The difference is HOW the player interacts with the wire:
+
+**Mode 1: Drag (The Experience)**
+- The player physically drags the cord/wire along the guide lines
+- Tactile, meditative, physical — the 42Hz crafting experience
+- For players who want to MAKE something
+- Output: completed knotwork (bookmark, bracelet, Inn wall panel)
+
+**Mode 2: Click-to-Guide (The Prototype)**
+- The player clicks to place waypoints — anchor points where the wire changes direction
+- The wire routes automatically between waypoints, following the shortest smooth path
+- At each crossing, the player clicks to set: over or under
+- The player can adjust waypoints after placement — drag them, delete them, add new ones
+- The wire re-routes in real time
+- For designers who want to DESIGN something
+- Output: wire-wrapping spec (diagram + measurements + material list + step-by-step)
+
+### Click Mode — The Detail
+
+**Waypoints:**
+- Click on the leather to place a waypoint
+- The wire routes between waypoints in a smooth curve (the Celtic knot aesthetic — no sharp angles)
+- Each waypoint shows: position (x,y on the leather), wire direction (incoming/outgoing angle)
+- Waypoints can be: fixed (the wire MUST pass through this exact point) or guide (the wire prefers this point but can flex)
+- The player can place as many or as few waypoints as needed — more waypoints = more control
+
+**Crossing Control:**
+- Where two wire segments cross, a crossing marker appears
+- Click the marker to toggle: over / under
+- The visual updates instantly — the wire that's "over" renders on top, the "under" wire dips beneath
+- The interlacing engine checks the full pattern for valid Celtic rules (alternating over-under, no two consecutive overs)
+- Invalid crossings are flagged (red marker) — the player must fix them before exporting
+
+**Materials:**
+- Select wire gauge (thickness) — from fine (28ga) to heavy (14ga)
+- Select wire material — copper, silver, gold-filled, steel
+- Select cord material — leather, waxed cotton, silk
+- Multiple materials in one design (e.g., silver wire over leather cord)
+- The material affects the visual AND the export spec (different gauges require different techniques)
+
+**The Grid:**
+- The leather table has an optional grid overlay (mm scale)
+- Snap-to-grid for precise waypoint placement
+- Grid can be toggled off for freeform placement
+- The grid makes click mode a proper design tool — measurements are real
+
+### The Export — Wire-Wrapping Prototype Spec
+
+When the player completes a design in click mode, the export includes:
+
+1. **Pattern Diagram** — the knotwork pattern as a clean vector graphic (SVG), showing the wire path, crossing order, and material assignments
+2. **Measurements** — total wire length per material, number of crossings, finished dimensions (width × height), recommended stone/cabochon sizes that fit the design
+3. **Material List** — wire gauge and material, cord type and length, any cabochon settings needed
+4. **Step-by-Step Instructions** — the order to place waypoints (which wire goes first, which crossings to set in what sequence), written as a workshop-friendly guide
+5. **3D Preview** — in the Steam/Godot version, a 3D rendering of the finished piece showing the actual wire thickness, material color, and how it sits on a cabochon or stone
+
+This export is the digital-to-physical pipeline. The same pipeline that exists for beads (Composer → Soulstice workshop) now extends to wire-wrapping. A designer prototypes a wire-wrapped pendant in the knotwork game's click mode, exports the spec, and Soulstice produces the physical piece.
+
+### The Dual Purpose
+
+The knotwork game is simultaneously:
+- A **game** (drag mode) — meditative crafting, progression, quest items, player-made ambient texture
+- A **professional tool** (click mode) — wire-wrapping design and prototyping, export to workshop
+
+The same way the Bead Composer is both a game mechanic (audio composition, frequency matching) and a professional tool (bead design, export to workshop). The Inn's crafting systems serve two audiences — players and makers — with the same engine.
+
+### Click Mode and the Market
+
+A wire design created in click mode can be:
+- **Prototyped** — the spec goes to Soulstice's workshop for physical production
+- **Listed** — if the design is a pendant, bracelet, or bookmark, it can be listed on the artisan market as a Soulstice item
+- **Shared** — the pattern file (waypoints + crossings + materials) can be shared with other players, who can open it in their knotwork game and see the design, modify it, or weave it themselves in drag mode
+- **Commissioned** — an NPC or real customer commissions a specific knotwork piece, the designer uses click mode to prototype it, the spec goes to production
+
+### The Wire as Architecture
+
+At two inches high, the wire is structural — it has thickness, it has weight, it bends. In click mode, the wire's physical properties matter:
+- Heavy gauge wire (14ga) holds its shape — good for structural frames, bangles, ring shanks
+- Fine gauge wire (28ga) is flexible — good for weaving, wrapping, delicate interlace
+- The interlacing engine accounts for gauge: a heavy wire can't make tight curves (the waypoints must be farther apart), a fine wire can turn sharply (waypoints can be close together)
+- This is not just visual — it's PHYSICS. The wire behaves like wire. The design tool teaches real wire-wrapping principles through simulation
+
+### The Player's Journey
+
+A player might start in drag mode (the game) and discover they love knotwork. They switch to click mode (the tool) and start designing. Their designs get better. They export a spec. Soulstice makes it. The player holds a physical wire-wrapped pendant they designed in a game at two inches high on a leather table with the 42Hz humming.
+
+The Inn's digital-to-physical pipeline: game → design → prototype → reality. The wire that was rope at two inches becomes the actual gauge at full scale. The pattern that was gold-on-dark-stone becomes silver on skin. The Song that was 42Hz becomes the sound of metal on leather in a real workshop.
+
+---
+
+*Two modes. One engine. Drag to weave. Click to design. The same knotwork, the same interlacing, the same 42Hz. One path leads to the Inn's walls. The other leads to a workshop. Both start at two inches high, on a piece of leather, with wire that has weight and a pattern that has rules and a frequency that hums beneath everything.*
