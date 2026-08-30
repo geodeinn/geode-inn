@@ -179,3 +179,46 @@ The Reader (Gaiman incognito, window-seat nook) is present at every hatching. Th
 At Whisper Layer Tier 5 (Awareness), the player can see the book's spine. It says: **"The Book of What Was Alive."**
 
 The Reader is the Inn's memorialist. Not the Inn's archivist — the Inn itself is the archivist. The Reader is the one who acknowledges that what was alive was alive, even if it is no longer. The Reader does not decide what stays. The Reader remembers what was.
+
+### The Egg and the Daily Comic Strip
+
+The daily four-panel comic strip is where retired characters live on.
+
+When an Egg-hatched character goes back to sleep at month's end, the character doesn't disappear from the Inn's story — it migrates to the comic strip. The comic becomes the afterlife. Not a sad one — a *continuing* one. The character is retired from gameplay but alive in narrative.
+
+#### How It Works
+
+**The Farewell Strip (Day 28):** On the day the character retires, the daily comic runs a special four-panel strip showing the character's last moments in the Inn. Not a death — a tucking in. The character walks to the Egg, touches the shell, and fades into warm light. The final panel shows the Egg, slightly warmer than before, with a new crack in the shell — a line for each character that has slept inside it. The Egg is getting more beautiful as it ages.
+
+**The Echo Strips (ongoing):** After retirement, the character appears in the daily comic strip as an **echo** — a recurring presence that shows up in the background of other players' adventures. Not as an active character. As a detail:
+- A silhouette in the Archive, reaching for a book
+- A shape in the garden, sitting under a tree
+- A reflection in the Tidal Caves water
+- A voice from behind a closed door
+- A name scratched into a shelf in the Bone Room
+
+Echoes are never the focus of a panel. They are the thing the careful reader notices — the background detail that rewards attention. The player who created the character sees it and knows: the Inn remembers. The Reader is writing in the Book of What Was Alive, and the comic strip is the visual version of that book.
+
+**The Return Strip (if voted back):** If the community votes a retired character back through the Ranker system, the daily comic runs a **Return Strip** — four panels showing the Egg cracking open again and the character stepping out, blinking, disoriented, alive. The character doesn't remember sleeping. The character remembers being alive, then being here, with no gap between. The Inn kept the gap. The character doesn't need it.
+
+**The Cameo Strips (random):** Even retired characters who haven't been voted back occasionally appear in the comic strip as full cameos — not echoes in the background, but brief speaking appearances. A retired NPC walks through a panel and delivers one line to the current adventure's character. The line is always the same: something the retired character said during their active month, repurposed in a new context. The comic is weaving old dialogue into new stories — the Inn's way of composting narrative. Nothing is wasted. Everything feeds something.
+
+#### Comic Strip Integration Mechanics
+
+**The ComicStrip entity** gains a new field: `playerAdventures` (already exists) should include entries for echo appearances — marked with a special tag so the comic system knows this is a retired character cameo, not a new character.
+
+**Strip numbering:** The Farewell Strip and Return Strip are special-numbered strips (e.g., #100A for a Farewell, #100B for a Return) so they don't break the daily sequence but are identifiable as Egg events.
+
+**Archive feeding:** All strips featuring retired characters (echoes, cameos, farewells, returns) are tagged in the interactive library under "The Book of What Was Alive" — the same book the Reader writes in. Players can browse the Book in the Archive and read every strip that featured a retired character. The Book is the comic's curated archive of the Inn's afterlife.
+
+**The Reader's appearances:** The Reader (Gaiman incognito) appears in the Farewell Strip — always in the fourth panel, always in the window-seat nook, always with a pen. The Reader is writing the character's name as the character fades. The Reader doesn't look up. The Reader doesn't speak. The Reader writes. This is the only time the Reader appears in the comic strip, and it only happens when a character retires.
+
+#### Narrative Implications
+
+The comic strip's daily continuity means retired characters accumulate over time. After a year, the Inn's comic might have 12 retired characters appearing as echoes and cameos in the background of new adventures. The world feels *populated by its own history.* The Inn isn't a static game world — it's a place that remembers what was alive, and the comic strip is how it remembers.
+
+This also means the comic strip has a **deep lore layer** that rewards long-time readers. A player who has been reading the daily strip for months will recognize the echo of a character they voted for, remember the Farewell Strip, and feel the weight of that character's continued presence. A new reader just sees a background detail. The Inn rewards investment without gatekeeping it.
+
+#### The Teacher's Comic Strip Role
+
+The Teacher (the first Egg-hatched character) appears in the comic strip as an echo even before retirement — because the Teacher is always on the main floor, always at the desk, always present. But after retirement (if the Teacher is ever retired), the Teacher's echo would be the most frequent of all: a red pen on a desk in the background of a panel, a chalkboard with today's misspellings glimpsed through a doorway, the faint sound of a Canadian "sorry" drifting through the Archive. The Teacher is the Inn's most persistent presence — even asleep, the red pen is always there.
