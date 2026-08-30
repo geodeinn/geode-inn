@@ -55,10 +55,20 @@ Kathy Bates, softened per the Inn's celebrity rule (facial features softened, pr
 
 ### Dialogue Voice
 
-The Teacher speaks in the Inn's tabletop questline voice, but tilted toward the pedantic. Her dialogue is:
-- **Warm:** "Oh, what a lovely attempt. The root is Latin, you see — *monsieur* from *mon seigneur*, 'my lord.' Isn't that beautiful? You were so close. Let's try it together."
-- **Cold:** "That word. You've used it before. You've been corrected before. The correction is in your ledger. Would you like to see your ledger? ...No? Then perhaps we should try to remember it this time."
-- **Horror (three seconds, no dialogue — just silence and the glasses coming off. Then):** "Now then — shall we try that again, dear?"
+The Teacher speaks in the Inn's tabletop questline voice, but tilted toward the pedantic — and *deeply* Canadian. Her speech is clipped, precise, and relentlessly polite in the way that only Canadians can make politeness feel like a threat. The accent is generically Canadian with Quebecois French precision when correcting French specifically.
+
+**The Canadian tells:**
+- "About" becomes "aboot" — she doesn't hear it. Nobody does. Except the player.
+- "Eh" slips in at the end of sentences when she's not paying attention. She catches herself. The "eh" is always followed by a tiny pause — the micro-correction of a woman who knows she just revealed something. She never acknowledges it.
+- "Sorry" is weaponized: "Oh, I'm *so* sorry — that's not how you spell that, dear." The apology IS the correction. The kindness IS the cut.
+- "Hoser" never appears. She's not a caricature. She's a *teacher* who happens to be Canadian, not a Canadian who happens to be a teacher. The accent is real, not performed.
+- She says "grade eight" instead of "eighth grade." "Write that test" instead of "take that test." "Washroom" instead of "bathroom." These are the small tells that place her without announcing it.
+- When genuinely annoyed (Cold Mode), the Canadian becomes more pronounced, not less. The colder she gets, the more the "aboot" and "eh" creep in. It's the opposite of what you'd expect — the warmth is where she's most controlled. The cold is where the accent leaks. The Horror Mode is silent, but the three seconds after are always: "Now then, eh, shall we try that again, dear?"
+
+Her dialogue:
+- **Warm:** "Oh, what a lovely attempt. The root is Latin, you see — *monsieur* from *mon seigneur*, 'my lord.' Isn't that beautiful? You were so close. Let's try it together, eh?" *tiny pause* "...Sorry. Let's try it together."
+- **Cold:** "That word. You've used it before. You've been corrected before. The correction is in your ledger. Would you like to see your ledger? ...No? Then perhaps we should try to remember it this time, aboot... about... this time."
+- **Horror (three seconds of silence, glasses off. Then):** "Now then — shall we try that again, dear?" *The "dear" sounds different. Not warm. Not cold. Just... precise. Like a word being weighed on a scale.*
 
 ### Connection to the Egg
 
