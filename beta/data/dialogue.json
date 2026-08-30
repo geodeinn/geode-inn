@@ -1,0 +1,175 @@
+[
+  {
+    "dialogueId": "brindle_001",
+    "npcName": "Brindle",
+    "zone": "Variable",
+    "priority": 1,
+    "conditionTag": "first_visit",
+    "setFlags": ["met_brownies"],
+    "lines": [
+      "Where d'it go?",
+      "The wrench. The wrench is gone. It was HERE. I just had it. Cobble, did you take the wrench? Thatch, did you GLUE the wrench to something again? ...Oh. It's in my hat. The wrench was in my hat. This happens. Welcome to the Inn. Don't leave your tools unattended."
+    ],
+    "responses": ["What do you do here?", "Can I help you find something?", "Who are you three?"],
+    "voiceProfile": "Frazzled brownie — high-pitched, rushed, always losing something",
+    "questLink": "",
+    "isWhisperLayer": false
+  },
+  {
+    "dialogueId": "tumble_001",
+    "npcName": "Tumble",
+    "zone": "Variable",
+    "priority": 1,
+    "conditionTag": "first_visit",
+    "setFlags": ["met_tumble"],
+    "lines": ["*chime*"],
+    "responses": ["[Reach for Tumble]", "[Watch Tumble roll]", "[Listen to the chime]"],
+    "voiceProfile": "No words — a single chime, the sound of one note of the Song of Making",
+    "questLink": "",
+    "isWhisperLayer": false
+  },
+  {
+    "dialogueId": "allfather_001",
+    "npcName": "The Allfather",
+    "zone": "Cosmology",
+    "priority": 1,
+    "conditionTag": "first_visit",
+    "setFlags": ["met_allfather"],
+    "lines": [
+      "Already known.",
+      "Your question. Your name. Your purpose. Your doubt. Already known. I am the Allfather. I sit and I know. The ravens bring me what walks beneath. I do not wander — I am the place where all wandering arrives. You have arrived. Speak, if you wish. I will have already heard it. But say it anyway. The saying matters."
+    ],
+    "responses": ["What do you know about me?", "Tell me about the ravens.", "What is the Inn, truly?"],
+    "voiceProfile": "James Earl Jones — deep, resonant, each word carries the weight of myth",
+    "questLink": "",
+    "isWhisperLayer": false
+  },
+  {
+    "dialogueId": "guide_001",
+    "npcName": "Player Guide",
+    "zone": "Tutorial",
+    "priority": 1,
+    "conditionTag": "tutorial",
+    "setFlags": ["tutorial_started"],
+    "lines": [
+      "Ready?",
+      "Good. That's all I need — readiness. Not skill, not knowledge, not experience. Just the willingness to take the first step. The Inn is big. It's bigger than it looks, and it looks pretty big. But every journey is just steps, and every step starts with ready. So. Ready?"
+    ],
+    "responses": ["I'm ready.", "Tell me about the Inn first.", "What happens if I'm not ready?"],
+    "voiceProfile": "Jennifer Hale — warm, clear, encouraging without being condescending",
+    "questLink": "",
+    "isWhisperLayer": false
+  },
+  {
+    "dialogueId": "bog_fairy_golem_001",
+    "npcName": "The Bog Fairy Golem",
+    "zone": "Bayou",
+    "priority": 1,
+    "conditionTag": "first_visit",
+    "setFlags": ["met_bog_fairy_golem"],
+    "lines": [
+      "Grow.",
+      "That's the first word. The only word, sometimes. Everything in the bayou grows over everything else. The trees grow over the water. The moss grows over the trees. The earth grows over the stone. And me? I grow over all of it. I am made of this place. Bog clay and Spanish moss and bayou water and the 42Hz Song that keeps it all moving. Welcome to my swamp."
+    ],
+    "responses": ["What is the 42Hz Song?", "How were you made?", "Show me the bayou."],
+    "voiceProfile": "Bayou earth voice — low, organic, made of the land itself",
+    "questLink": "",
+    "isWhisperLayer": false
+  },
+  {
+    "dialogueId": "river_001",
+    "npcName": "River",
+    "zone": "Entrance",
+    "priority": 1,
+    "conditionTag": "first_visit",
+    "setFlags": ["met_river"],
+    "lines": [
+      "Halt.",
+      "State your purpose. The Geode Inn welcomes all — but the Sentinel welcomes first. I am the door. Nothing enters that I don't see. Nothing leaves that I don't note. That's not a threat. It's a promise. The Inn is safe because I'm standing here. What brings you?"
+    ],
+    "responses": ["I'm a visitor.", "I seek knowledge.", "I'm looking for someone."],
+    "voiceProfile": "Guard authority — calm, absolute, the voice that stops a room",
+    "questLink": "",
+    "isWhisperLayer": false
+  },
+  {
+    "dialogueId": "will_001",
+    "npcName": "Will",
+    "zone": "Atlantis",
+    "priority": 1,
+    "conditionTag": "first_visit",
+    "setFlags": ["met_will"],
+    "lines": [
+      "Current's shifting.",
+      "Feel it? No, you wouldn't — you're not from water. But it's shifting. The current tells you where to go before you know you need to go there. Oceananoir taught me that. Or maybe the ocean did. They sound the same after a while. Welcome to Atlantis. Mind the pressure. Not the water pressure — the other kind."
+    ],
+    "responses": ["Who is Oceananoir?", "What kind of pressure?", "Show me Atlantis."],
+    "voiceProfile": "Ocean-worn — deep, patient, shaped by pressure",
+    "questLink": "",
+    "isWhisperLayer": false
+  },
+  {
+    "dialogueId": "eres_001",
+    "npcName": "Eres",
+    "zone": "Cosmology",
+    "priority": 1,
+    "conditionTag": "first_visit",
+    "setFlags": ["met_er"],
+    "lines": [
+      "Where to?",
+      "That's the question, isn't it? Up. The answer's always up. But up is a lot of places. Stars, mostly. I go to stars. It's a living. The Inn's got levels, and the levels have ceilings, and the ceilings have holes, and the holes go somewhere. I'm the one who drives. Climb in."
+    ],
+    "responses": ["Take me to the cosmology level.", "How far up can you go?", "Have you ever gone too far?"],
+    "voiceProfile": "Cabbie brevity — economical, warm, says everything in three words or fewer",
+    "questLink": "",
+    "isWhisperLayer": false
+  },
+  {
+    "dialogueId": "rachel_001",
+    "npcName": "Rachel Kaiser",
+    "zone": "Studio",
+    "priority": 1,
+    "conditionTag": "first_visit",
+    "setFlags": ["met_rachel"],
+    "lines": [
+      "Hold still.",
+      "Not because I'm painting you — because you're moving too much and it's distracting. I'm working. I'm always working. The Inn is a mural that happens to have rooms in it. Every wall is a canvas. Every ceiling is a sky waiting to happen. You want to help? Stand there. Don't move. Perfect."
+    ],
+    "responses": ["What are you painting?", "Can you paint something for me?", "Show me your murals."],
+    "voiceProfile": "Artist intensity — focused, generous, sees the world as potential canvases",
+    "questLink": "",
+    "isWhisperLayer": false
+  },
+  {
+    "dialogueId": "stephanie_001",
+    "npcName": "Stephanie",
+    "zone": "Variable",
+    "priority": 1,
+    "conditionTag": "first_visit",
+    "setFlags": ["met_stephanie"],
+    "lines": [
+      "I was sleeping.",
+      "I was sleeping and now I am not sleeping and that is your fault. I am a scout. I scout. I do not entertain guests. I do not give tours. I do not answer questions. ...Fine. One question. Make it interesting or I go back to sleep and you never find me again."
+    ],
+    "responses": ["What do you scout for?", "Are you River's cat?", "Where's the best place to sleep in the Inn?"],
+    "voiceProfile": "Sardonic cat — imperious, lazy, devastatingly observant",
+    "questLink": "",
+    "isWhisperLayer": false
+  },
+  {
+    "dialogueId": "zack_001",
+    "npcName": "Zack",
+    "zone": "Cosmology",
+    "priority": 1,
+    "conditionTag": "first_visit",
+    "setFlags": ["met_zack"],
+    "lines": [
+      "Look up.",
+      "Everyone looks forward. Some look back. Almost nobody looks up. Up is where the answers are — not all of them, but the big ones. The ones that make the small ones make sense. I have a Mind Palace up here — not a metaphor, an actual room in my head where every star has a drawer. Want to see it?"
+    ],
+    "responses": ["Show me the Mind Palace.", "What's up there?", "How do you remember all of it?"],
+    "voiceProfile": "Astronomer — dreamy, precise, speaks in coordinates and wonder",
+    "questLink": "",
+    "isWhisperLayer": false
+  }
+]

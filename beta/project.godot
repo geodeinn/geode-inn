@@ -1,0 +1,24 @@
+; Engine configuration file for Geode Inn Beta
+[application]
+config/name="Geode Inn — Complete Story Beta"
+config/description="Single-player beta covering the full narrative arc from entry to the Final Room."
+run/main_scene="res://scenes/MainMenu.tscn"
+config/features=Node("4.2")
+
+[autoload]
+GameManager="*res://scripts/GameManager.gd"
+APIManager="*res://scripts/APIManager.gd"
+SaveManager="*res://scripts/SaveManager.gd"
+DialogueManager="*res://scripts/DialogueManager.gd"
+CutscenePlayer="*res://scripts/CutscenePlayer.gd"
+FizgigLoader="*res://scripts/FizgigLoader.gd"
+
+[display]
+window/size/viewport_width=1920
+window/size/viewport_height=1080
+window/stretch/mode="canvas_items"
+window/stretch/aspect="keep"
+
+[rendering]
+renderer/rendering_method="gl_compatibility"
+textures/canvas_textures/default_texture_filter=0
