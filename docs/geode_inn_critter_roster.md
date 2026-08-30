@@ -400,23 +400,67 @@ The gargoyle puppies are the Ent's senses-in-training. Stone pups, curled up and
 
 ---
 
-## Dragon Kittens
+## Dragon Kittens (Dragon Cats)
+
+### Origin: Joe's Miniatures
+
+The dragon kittens begin in Joe's Undercity studio. Joe — the vampire sorcerer, Warhammer painter, Lawful Evil tutor — retained one fragment of magic after his curse: the ability to bring painted miniatures to life. The sorcerer who could once reshape reality now reshapes one-inch figures. And the figures wake up.
+
+Joe paints dragon cats. Tiny — no bigger than kittens — with delicate iridescent dragon scales, vestigial wings too small for real flight, and cat-like faces with luminous dragon eyes. They arrive in LITTERS. Joe paints one miniature and it comes to life. Then another. Then another. The studio fills.
+
+The dragon cats cause ADORABLE CHAOS — perching on paint pots, chasing each other across stacks of unpainted figures, batting at brushes, tumbling across manuscripts, clinging to copper pipework. Joe watches with the satisfied expression of a sorcerer who found a smaller kind of world-shaping and decided it was enough.
+
+### The Connection to the Baby Dragon
 
 The Geode Inn's mascot is a heraldic dragon — cat-like, curious, trustworthy, Toothless-inspired. The dragon lives in the geode cave, the deepest point, where the Ent's heartwood meets the earth's crystal.
 
-The dragon has kittens.
+The baby dragon sits on Joe's desk. The dragon cats swarm the desk. The large dragon watches the tiny dragons with an expression that is either paternal concern or bewildered tolerance. The dragon cats are the baby dragon's tiny cousins — the same creature, different scale. The Cabbit (Eres) is also kin — the cat-rabbit companion shares the family.
 
-**Appearance:** Tiny dragons the size of a house cat. Same heraldic design as the parent — cat-like face, small wings, long tail, big eyes. But they're kittens. They wobble. Their wings are too small to fly. Their tails are longer than their bodies and they trip over them. They breathe tiny puffs of flame that light candles, warm tea, and occasionally singe their own whiskers. They are the most adorable thing in the Inn and they know it.
+### How They Spread
 
-**Where they hide:** In warm places. Near every fire, every torch, every heat source in the Inn. One is curled in the main floor hearth, tucked between the stones. One is sleeping on the staircase's warmest step. One is wedged behind a torch bracket in the catacombs. One is in the Selkie's tidal cave, curled around a warm geode. One is in the meadery, sleeping in the fermentation warmth. They seek heat the way the gargoyle puppies seek architecture. The Inn has warm spots everywhere if you know where to look.
+Joe's dragon cats don't stay in the studio. They wander. They seek warmth — it's the draconic bloodline responding to fire, the way a cat seeks a sunbeam. They find warm places throughout the Inn and fall asleep. Joe paints more. They leave. The Inn fills with sleeping dragon cats in warm corners.
 
-**Discovery mechanic:** Dragon kittens don't wake when you touch them — they wake when you bring them something warm. A lit candle. A warm stone. A cup of tea. You place the warm thing near the kitten, and it uncurls, opens one eye, sniffs the offering, and either accepts (purring — a deep, resonant purr that hums at 42Hz) or rejects (sneezes a tiny flame and goes back to sleep). The right offering depends on the kitten. Each one has different tastes. One likes candle wax. One likes sun-warmed stone. One likes the Bard's lute after a set (the wood holds the warmth of his hands).
+### Appearance
 
-**What finding them does:** Each dragon kitten you wake follows you — slowly, wobbling, tripping over its tail — back to the geode cave. The parent dragon is there, sleeping among the crystals. Each kitten returned adds to the geode cave's warmth. The cave fills with tiny dragon purrs at 42Hz, and the geodes vibrate in response, growing brighter, more resonant. When all kittens are home (say 8 total), the geode cave reaches full resonance — the deepest, warmest, most complete expression of the Song of Making in the Inn. The parent dragon opens one eye. Looks at you. Closes it. You've done something right.
+Tiny dragons the size of a house cat. Same heraldic design as the parent — cat-like face, small wings, long tail, big eyes. But they're kittens. They wobble. Their wings are too small to fly. Their tails are longer than their bodies and they trip over them. They breathe tiny puffs of flame that light candles, warm tea, and occasionally singe their own whiskers. They are the most adorable thing in the Inn and they know it.
 
-**The lore:** The dragon is the Song of Making made visible — a living note of the 42Hz frequency, given form by the Ent's heartwood and the earth's crystal. The kittens are new notes. The Song is still being written. Each kitten is a new harmony the Song is trying out. When they come home, they join the chord. The geode cave's resonance grows. The Inn gets slightly more complete.
+### Where They Hide
 
-**The feeling:** You're in the meadery. You notice something warm behind a fermentation cask. You look closer. A tiny dragon is sleeping in the heat rising from the mead. Its wings twitch. It sighs a small flame that lights a candle you didn't notice was there. You bring it a warm cup of mead. It uncurls. It opens gold eyes. It purrs at 42Hz and the meadery vibrates. It follows you, wobbling, all the way home.
+In warm places. Near every fire, every torch, every heat source in the Inn. One is curled in the main floor hearth, tucked between the stones. One is sleeping on the staircase's warmest step. One is wedged behind a torch bracket in the catacombs. One is in the Selkie's tidal cave, curled around a warm geode. One is in the meadery, sleeping in the fermentation warmth. One is in the Common Room, tucked behind the fire. They seek heat the way the gargoyle puppies seek architecture. The Inn has warm spots everywhere if you know where to look.
+
+### Discovery Mechanic
+
+Dragon kittens don't wake when you touch them — they wake when you bring them something warm. A lit candle. A warm stone. A cup of tea. The warmth is what Joe's magic responds to — the draconic bloodline in the paint, the fire in the creation. You place the warm thing near the kitten, and it uncurls, opens one eye, sniffs the offering, and either accepts (purring — a deep, resonant purr that hums at 42Hz) or rejects (sneezes a tiny flame and goes back to sleep). The right offering depends on the kitten. Each one has different tastes. One likes candle wax. One likes sun-warmed stone. One likes the Bard's lute after a set (the wood holds the warmth of his hands).
+
+### What Finding Them Does
+
+Each dragon kitten you wake follows you — slowly, wobbling, tripping over its tail — back to the geode cave. The parent dragon is there, sleeping among the crystals. Each kitten returned adds to the geode cave's warmth. The cave fills with tiny dragon purrs at 42Hz, and the geodes vibrate in response, growing brighter, more resonant. When all kittens are home (8 total), the geode cave reaches full resonance — the deepest, warmest, most complete expression of the Song of Making in the Inn. The parent dragon opens one eye. Looks at you. Closes it. You've done something right.
+
+### The Boy and the Dragon Cats
+
+Joe's son — the boy with both bloodlines, draconic and druidic — is the dragon cats' favorite. The dragon scales on the boy's skin resonate with the dragon cats' scales. They cluster around him because he is kin. The boy holds a dragon cat in his lap, petting it gently, while the others swarm around him. The calm in the chaos. The child who is part dragon, holding a creature that is part dragon, in a room painted by a vampire who is part dragon. The bloodline connecting across forms.
+
+### Connections
+
+- **Joe (the Miniaturist):** Joe paints them. His fragment of lost magic, channeled through pigment and brush. They are his sorcery at one-inch scale.
+- **The Baby Dragon (mascot):** Their cousin. The large dragon watches the tiny dragons. The relationship is unspoken and real.
+- **The Cabbit (Eres):** Family. The cat-rabbit and the dragon cats share the same branch of the family tree.
+- **Bastet's Herding game:** The dragon cats are the magical variant of the cat archetypes. Bastet herds regular cats. The dragon cats herd themselves, badly.
+- **River (the Sentinel):** River wants to be a tall cat person. The dragon cats are the small version of that dream. River collects them. Joe pretends not to notice.
+- **The Wandering Program:** Dragon kittens wander rarely (they're attached to warmth, and warmth is usually inside). But when they do wander into the National Park zones, they cause Modern Legend entries — "I found a tiny dragon sleeping on a warm rock in Yellowstone."
+- **The Common Room:** One dragon kitten lives behind the Common Room fire. It never leaves. The fire is too good. The travelers don't know it's there, but sometimes the fire crackles differently — that's the kitten shifting in its sleep.
+
+### The Lore
+
+The dragon is the Song of Making made visible — a living note of the 42Hz frequency, given form by the Ent's heartwood and the earth's crystal. The kittens are new notes, born through Joe's fragment of creation magic. The Song is still being written. Each kitten is a new harmony the Song is trying out. When they come home to the geode cave, they join the chord. The geode cave's resonance grows. The Inn gets slightly more complete.
+
+The both are: the adequate — the sorcerer who lost world-shaping power and found figure-animating power. The both are: the same magic, different scale. The big magic was lost. The small magic was found. And the small magic purrs.
+
+### The Feeling
+
+You're in the meadery. You notice something warm behind a fermentation cask. You look closer. A tiny dragon is sleeping in the heat rising from the mead. Its wings twitch. It sighs a small flame that lights a candle you didn't notice was there. You bring it a warm cup of mead. It uncurls. It opens gold eyes. It purrs at 42Hz and the meadery vibrates. It follows you, wobbling, all the way home.
+
+And somewhere in the Undercity, Joe picks up his brush and starts another one. Because the Song isn't finished. Because the small magic is enough. Because watching tiny dragons cause chaos in a studio is, it turns out, the adequate.
 
 ---
 
