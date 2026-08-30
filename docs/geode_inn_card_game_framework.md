@@ -118,7 +118,7 @@ The Inn's zones and geological features, which generate frequency mana:
 | **Wandering** | Uhtred / Parks | This card can move to an adjacent board lane once per turn. |
 | **Threshold** | Persephone / Hades | This card gains power each turn it remains in play. At a threshold count, it transforms into a more powerful version. |
 | **Vessel** | The crested gecko | This card holds a "formula" — at any point, you may reveal the formula to trigger a powerful effect, but the card is then silenced. |
-| **Mim** | Madame Mim | Once per game, you may "break the formula" — ignore all card text on this card and replace it with a random effect. |
+| **Mim** | Mim | Once per game, you may "break the formula" — ignore all card text on this card and replace it with a random effect. |
 | **Mirror** | Merlin / Magritte | This card copies the text of a target card. The copy is an illusion — if the opponent targets it, it is revealed as a mirror (the original effect triggers, not the copy). |
 | **Observer** | Einstein | While this card is in play, all hidden information is revealed (both players' hands are visible). |
 | **Ferry** | Charon | Once per turn, move one card from your discard pile to your hand. The cost: pay 1 frequency mana. |

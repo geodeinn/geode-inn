@@ -6,12 +6,12 @@
 
 ## REPLACEMENT CARDS (Names Changed from Batch 1)
 
-### MADAME MIMIC (formerly Madame Mim)
+### MADAME MIMIC (formerly Mim)
 Frequency: SONG (1) + SILENCE (1) — Total cost: 2
 Type: Character — Companion — Trickster
 Presence: 2 | Resonance: 2 | Cadence: Immediate
 Abilities: Mimic
-Special: **"But what if we did the fun wrong version?"** — Once per game, Madame Mimic may target any card in play (including your own) and replace its text with a randomly selected ability from a pool. The replaced card retains its stats. The breaking is: the adequate.
+Special: **"But what if we did the fun wrong version?"** — Once per game, Mimic may target any card in play (including your own) and replace its text with a randomly selected ability from a pool. The replaced card retains its stats. The breaking is: the adequate.
 Flavor text: *"The agent of chaos who rides a pipe that insists it is not a pipe."*
 Rarity: Epic
 

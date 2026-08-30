@@ -948,9 +948,9 @@ The Crone visits the Undercity to annotate. Wednesday is there. The two don't in
 
 Once, the Crone said to Wednesday: "You are the only living person who lives here voluntarily. Why?" Wednesday said: "Because the dead don't make small talk." The Crone wrote this down. The writing is the agreement. The agreement is the adequate.
 
-#### Wednesday and Madame Mim
+#### Wednesday and Mim
 
-Madame Mim visits Wednesday in the Undercity. Mim is the chaos agent — the manic to Wednesday's deadpan, the movement to Wednesday's stillness. The two are complementary: Wednesday is the anchor, Mim is the storm. Mim stirs the dead. Wednesday settles them.
+Mim visits Wednesday in the Undercity. Mim is the chaos agent — the manic to Wednesday's deadpan, the movement to Wednesday's stillness. The two are complementary: Wednesday is the anchor, Mim is the storm. Mim stirs the dead. Wednesday settles them.
 
 Mim's visits to the Undercity are the ONLY times the Undercity gets LOUD. Mim brings chaos to the city of the dead. The dead don't mind. The dead find Mim... entertaining. The entertaining is the break. The break is the variety. The variety is the Mim.
 
@@ -1578,7 +1578,7 @@ One eye (solid — sees the player). One socket (open — sees the void). The fa
 
 ### "Ceci n'est pas une pipe."
 
-On the bar near Madame Mim's chair — the chair where the chaos lady sits, where the manic energy lives, where the "but what if we did the fun wrong version?" voice originates — a pipe appears.
+On the bar near Mim's chair — the chair where the chaos lady sits, where the manic energy lives, where the "but what if we did the fun wrong version?" voice originates — a pipe appears.
 
 Not always. Not on a schedule. Not on a trigger. The pipe appears when the pipe decides to appear, which is to say: when Mim's chaos is at the right frequency, which is to say: never predictably, always at the wrong moment, always when it's funniest.
 
@@ -1973,7 +1973,7 @@ Each playable character is one of the Inn's critters, and each represents one of
 
 **The Vessel (Earth)** — The crested gecko. Auto-attack: the formula (a beam of sequenced light that strikes enemies in order — closest, next closest, next — the formula is the sequence, the sequence is the attack). Special: the Vessel grips the ground — for 5 seconds, Erasures cannot remove any stone from the Vessel's collection. The grip holds. The formula holds. The Vessel holds. The Crested Gecko's stage is the one where the Erasures are most aggressive — the Vessel is the character who knows what it feels like to be declared gone. The Vessel is the character who survived.
 
-**Mim (Fire)** — Mad Madame Mim. Auto-attack: chaos bolt (random effect each time — sometimes damage, sometimes slow, sometimes swap enemy positions, sometimes heal the player — Mim doesn't know what her attack does and neither do you). Special: Mim switches the vessels — for 5 seconds, all Erasures become Mim's Messes. The existential threat becomes the comedy. The erasing becomes the scrambling. The unmaking becomes the rearranging. Mim's special is the most powerful defensive ability in the game because it changes the STAGE — Stage Three temporarily becomes Stage One. The chaos lady saves the Inn by making everything worse. The worse is the saving.
+**Mim (Fire)** — Mad Mim. Auto-attack: chaos bolt (random effect each time — sometimes damage, sometimes slow, sometimes swap enemy positions, sometimes heal the player — Mim doesn't know what her attack does and neither do you). Special: Mim switches the vessels — for 5 seconds, all Erasures become Mim's Messes. The existential threat becomes the comedy. The erasing becomes the scrambling. The unmaking becomes the rearranging. Mim's special is the most powerful defensive ability in the game because it changes the STAGE — Stage Three temporarily becomes Stage One. The chaos lady saves the Inn by making everything worse. The worse is the saving.
 
 **The Dragon (Aether)** — The baby dragon mascot. Auto-attack: geode burst (the dragon's cave fills with gems and overflows — the gems scatter as projectiles in all directions, each gem carrying a stone frequency). Special: the dragon sleeps — for 5 seconds, the dragon is invulnerable and the geode cave fills with stones. When the dragon wakes, all collected stones are released as a single massive frequency pulse that clears all Shards and pushes back all Erasures on screen. The dragon's power is the geode: the cave that fills with stones when the dragon sleeps, the formation that is the reward, the geode that is the Inn.
 

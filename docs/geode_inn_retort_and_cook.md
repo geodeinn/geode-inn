@@ -39,7 +39,7 @@ The Retort has the Yzma energy — the theatrical, over-the-top, "I am the smart
 
 The Retort is theatrical about her work because her work IS theatrical — alchemy is the original performance art. The transformation of one substance into another, visible, dramatic, sometimes explosive. She enters a room and the room becomes a stage. She describes a potion and the description is a monologue. She fails at an experiment and the failure is a ACT — the throwing of hands, the "WHY," the immediate pivot to "FINE, we'll do it THIS way." She succeeds and the success is worse — the slow smile, the "of COURSE it worked, I'm BRILLIANT," the immediate start of the NEXT experiment before the first one is cleaned up.
 
-The Madame Mim connection: the Retort IS the Inn's Madame Mim — the trickster, the chaos agent, the one who says "but what if we did the fun wrong version?" applied to actual alchemical work. Krista has Madame Mim as her permanent chaos-inducing companion and shoulder angel. The Retort is Madame Mim made into an NPC — the same energy, the same function, but as a character in the world. The Retort is what Madame Mim would be if Mim had a laboratory instead of a shoulder.
+The Mim connection: the Retort IS the Inn's Mim — the trickster, the chaos agent, the one who says "but what if we did the fun wrong version?" applied to actual alchemical work. Krista has Mim as her permanent chaos-inducing companion and shoulder angel. The Retort is Mim made into an NPC — the same energy, the same function, but as a character in the world. The Retort is what Mim would be if Mim had a laboratory instead of a shoulder.
 
 ### What the Retort Does
 

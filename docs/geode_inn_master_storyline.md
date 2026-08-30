@@ -302,7 +302,7 @@ The Inn does not display art on walls. The Inn's environments ARE the art — ea
 - **The Examiner (Emily Deschanel)** — Dr. Brennan in elf form. Inspects old things. The Cartographer's twin.
 - **The Cartographer (Matthew Gray Gubler)** — Spencer Reid quality. Canopy City loremaster. Temporal maps.
 - **Uhtred (Alexander Dreymon)** — Wandering NPC. Neutralizes conflicts. "Destiny is all."
-- **Madame Mim** — Krista's permanent chaos companion. The trickster shoulder angel.
+- **Mim** — Krista's permanent chaos companion. The trickster shoulder angel.
 
 ### The Dock (Water Layer)
 - **The Siren (Lady Gaga)** — Krista's sister. DUAL cadence: outer (cello, performer) and inner (piano, depth). Lupus = the labyrinth. Quest "The Mirror and the Shore."
@@ -401,7 +401,7 @@ The Inn does not display art on walls. The Inn's environments ARE the art — ea
 - 32 Water Monsters
 - 6 Gargoyles
 - 4 Story-Born Beings
-- Multiple named NPCs (Charon, Spot, Anubis, Ammit, Brownies, Wisp, Gardener, Beorn, Uhtred, Examiner, Cartographer, Persephone, Hades, Shifting Man, Ceiling Gnome, Madame Mim, Cabbit, Aughra)
+- Multiple named NPCs (Charon, Spot, Anubis, Ammit, Brownies, Wisp, Gardener, Beorn, Uhtred, Examiner, Cartographer, Persephone, Hades, Shifting Man, Ceiling Gnome, Mim, Cabbit, Aughra)
 - **Total: 130+ documented characters**
 
 ---
@@ -577,7 +577,7 @@ The player who connects all of these finds the Golden Contract. And understands 
 34. The Fae Kingdom ✓
 35. The Tidal Caves ✓
 36. The Poison Garden + National Parks Veil ✓
-37. Madame Mim ✓
+37. Mim ✓
 
 ## Layers Needing Development (12)
 

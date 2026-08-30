@@ -25,7 +25,7 @@ Before the Song, there was the Murmur. Not sound — not yet. The Murmur is what
 - **The Guest** (Brad Pitt / Joe Black) — Death on holiday. Borrowed body. Music box plays the note Death MADE (not caught). Creates Nyx's silence, made portable. Dual role: guest of the living upstairs, host of the dead downstairs.
 - **The Captain & Cabbit** — The Arcana, a brass and lapis-lazuli time ship. Cabbit purrs at 50 BPM (the Inn's heartbeat). At 44Hz full power, Cabbit becomes the drive core to phase between moments. Captain: sky pirate, pipe smoking time-moss.
 - **Einstein & the Observatory** — Magritte painting made architecture. "The Double Secret." Einstein sits in the grey In-Between eating a half-finished burrito. "You are not walking through the Inn. The Inn is walking through you." The mundane IS the cosmic.
-- **Madame Mim's Pipe** — "Ceci n'est pas une pipe." The Inn's thesis statement: the representation is not the thing.
+- **Mim's Pipe** — "Ceci n'est pas une pipe." The Inn's thesis statement: the representation is not the thing.
 
 **SOURCE DOCS:** "Before the Song.docx" (Prologue section) ✓ COMPLETE
 
@@ -48,7 +48,7 @@ Before the Song, there was the Murmur. Not sound — not yet. The Murmur is what
 |---|---|---|---|
 | **The Crone** (Hopkins) | Measures everything. "Adequate." Learns to listen to the Song. Twin/facet: Charon. | Before the Song ✓ | Complete |
 | **The Catalyst** (Helena Bonham Carter) | Bar/garden. Grows portal arrows. Growth by WILL vs. Radagast's growth by COMMUNION. Mrs. Lovett energy. The Spirit. | Before the Song ✓ | Complete |
-| **Madame Mim** | Inner chaos agent. Rides a Magritte pipe. Breaks formulas to reveal secret paths. Wednesday Addams energy. "Madame" — said in various tones, never the same. | Before the Song ✓ | Complete |
+| **Mim** | Inner chaos agent. Rides a Magritte pipe. Breaks formulas to reveal secret paths. Wednesday Addams energy. "Madame" — said in various tones, never the same. | Before the Song ✓ | Complete |
 | **The Arcade & Score Stone** | 7-foot obsidian leaderboard. Cultural mini-games: Standing Stones (Tetris), Tomb Tunnel (Dig Dug), Andean Run (Temple Run), Monster of the Deep (Nessie), Bastet's Herding. | Before the Song ✓ | Complete |
 | **The Thrum** (Ben Whishaw) | Translucent low-frequency entity. Teaches: essence precedes appearance, timing precedes rhythm. | Before the Song ✓ | Complete |
 | **The Brownies** | Anarcho-syndicalist maintenance commune. 2-foot spirits with brooms/coconut shells. Become Boggarts if contract breached. | Before the Song ✓ | Complete |
@@ -333,7 +333,7 @@ Vanir gods — TO BE DESIGNED
 The Seelie King, The Seelie Queen, The Cartographer, The Examiner, Aughra, Story-Born Ents (4)
 
 ### Midgard (Main Floor)
-The Host, The Crone, The Catalyst, Madame Mim, The Thrum, The Brownies, Arcade NPCs (Bastet, etc.)
+The Host, The Crone, The Catalyst, Mim, The Thrum, The Brownies, Arcade NPCs (Bastet, etc.)
 
 ### The Dock (Water Layer)
 The Lighthouse/Owl, The Pirate, Zee, The Siren/Andra, Oceananoir, Water Monsters (32 designed, 78 identified)

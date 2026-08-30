@@ -29,7 +29,7 @@ The Cabbit sits on the brass and lapis-lazuli floor of the cosmology level's tim
 
 Above all of them, in the Observatory — a steampunk time ship that floats in the void outside the Inn — the Constant walks with the starlight crystal, the Astronomer calculates the Song, Nyx extends into the infinite dark, and the Guest holds his music box and watches.
 
-The Observatory is a Magritte painting made architecture. It is a floating sculpture in the void — solid on the outside, open on the inside. "The Double Secret." A sentry pipe floats near the chaotic witch Madame Mim, whispering "Ceci n'est pas une pipe." The pipe is alive. It trades items. It switches forms when Mim switches vessels. It is both a joke and the Inn's thesis statement: the representation is not the thing. The Inn is not a tree. The player is not the Murmur. Or maybe they are.
+The Observatory is a Magritte painting made architecture. It is a floating sculpture in the void — solid on the outside, open on the inside. "The Double Secret." A sentry pipe floats near the chaotic witch Mim, whispering "Ceci n'est pas une pipe." The pipe is alive. It trades items. It switches forms when Mim switches vessels. It is both a joke and the Inn's thesis statement: the representation is not the thing. The Inn is not a tree. The player is not the Murmur. Or maybe they are.
 
 The Observatory is also where the meta-narrative lives. The player's presence in the void creates loneliness — the void is empty because the player is there to observe it. This is the Slay the Princess / Stanley Parable layer: the Inn knows it is being observed. The observer's presence makes the Inn real. Einstein — the only character in the Inn who speaks in plain, direct language, no fragmented dialogue — sits in the grey In-Between and says: "You are not walking through the Inn. The Inn is walking through you."
 
@@ -93,9 +93,9 @@ The Catalyst's garden is the Inn's thesis on growth: some things grow because yo
 
 The Catalyst's connection to the NeverEnding Story is the Inn's deepest mythological layer. The Catalyst is Bastion's wishing made into a character — she grows things that shouldn't grow, the way Bastian's wishes in the NeverEnding Story create things that shouldn't exist. The Inn itself is Bastion's grain of sand: the small, fragile, human thing that the geological patience of the sleeping giants makes possible. The naming is the saving mechanism — the One Who Is Awake names warriors, Zorya names new words, the guide names dreams, the player names themselves. Every character in the Inn performs Bastion's act.
 
-## Madame Mim
+## Mim
 
-Madame Mim is the player's shoulder companion — the inner chaos agent who rides a Magritte-inspired pipe through the Inn and says "but what if we did the fun wrong version?" She is the Kronk bad angel on the player's shoulder. She is theatrical, dramatic, charismatic, and more interesting than the heroes. Her energy is the Disney villain energy: the villain whose theatricality IS the compassion, whose chaos IS the warmth.
+Mim is the player's shoulder companion — the inner chaos agent who rides a Magritte-inspired pipe through the Inn and says "but what if we did the fun wrong version?" She is the Kronk bad angel on the player's shoulder. She is theatrical, dramatic, charismatic, and more interesting than the heroes. Her energy is the Disney villain energy: the villain whose theatricality IS the compassion, whose chaos IS the warmth.
 
 Mim's role in the narrative is to break the formula. The Vessel holds the formula — the pellet-with-the-poison logic, the rules of the Inn's mechanics — and Mim actively breaks it. The two of them are the Inn's central tension: precision (the Vessel) and chaos (Mim). The player navigates between them. Listen to the Vessel, follow the rules, and the Inn operates as designed. Listen to Mim, break the rules, and the Inn reveals its hidden rooms, its secret paths, its wrong-but-wonderful versions.
 

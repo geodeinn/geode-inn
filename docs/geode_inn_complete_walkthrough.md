@@ -301,9 +301,9 @@ A resident of the main floor who uses a Rosicrucian hum to make inhabitants view
 
 ---
 
-## 3.7 — Madame Mim
+## 3.7 — Mim
 
-Krista's permanent chaos companion — a trickster shoulder angel. Madame Mim is the inner voice that says "but what if we did the fun wrong version?" She connects to Krista's Wednesday Addams identity and the Cozy Gothic aesthetic. Mim doesn't guide the player — Mim TEMPTS the player, playfully, toward the more interesting choice.
+Krista's permanent chaos companion — a trickster shoulder angel. Mim is the inner voice that says "but what if we did the fun wrong version?" She connects to Krista's Wednesday Addams identity and the Cozy Gothic aesthetic. Mim doesn't guide the player — Mim TEMPTS the player, playfully, toward the more interesting choice.
 
 ---
 
@@ -1089,7 +1089,7 @@ This narrative runs UNDERNEATH all game mechanics. The stones, the map, the Fae 
 | The Thrum | Ben Whishaw | Silhouette-maker, presence over hierarchy | Rosicrucian hum |
 | The Catalyst | Helena Bonham Carter | Bartender, information hub, botanical gifts | Mrs. Lovett energy |
 | Cthulhu | — | Squid-headed scholar, hidden quest giver | Quiet academic |
-| Madame Mim | — | Chaos companion, trickster shoulder angel | Playful chaos |
+| Mim | — | Chaos companion, trickster shoulder angel | Playful chaos |
 
 ### Canopy City
 | Character | Casting | Role | Voice |

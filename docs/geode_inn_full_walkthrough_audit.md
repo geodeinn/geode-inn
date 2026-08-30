@@ -271,7 +271,7 @@ The ground level and heart of the Geode Inn. Anti-FOMO sanctuary. The default st
 | **The Crone** | Anthony Hopkins | Measurer and annotator; says "Adequate" (highest compliment) |
 | **The Catalyst** | Helena Bonham Carter | Mrs. Lovett-inspired bartender; grows an impossible garden on the Ent's bark |
 | **The Thrum** | Ben Whishaw | Silhouette-maker; Rosicrucian hum; renders inhabitants as silhouettes to show presence over status |
-| **Madame Mim** | — | Krista's trickster shoulder angel; chaos agent; rides Magritte's pipe |
+| **Mim** | — | Krista's trickster shoulder angel; chaos agent; rides Magritte's pipe |
 | **Cthulhu** | Gary Oldman / Geoffrey Rush | 4-foot squid-headed scholar; fireplace nook; hidden quest-giver for rare book retrieval |
 | **The Bard** | Krista's Dad (Bart) | Dwarf bard; room-filler; ADHD-pattern thinker; best friend of The Pirate |
 | **The Wanderer (Odin)** | — | Approachable traveler with chibi thieving ravens Huginn & Muninn |

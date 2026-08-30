@@ -1,11 +1,11 @@
-# Geode Inn — The Magritte Pipe
-## Madame Mim's Broom: A Character Document
+# Geode Inn — The Monsieur Sentient
+## Mim's Broom: A Character Document
 
 ---
 
 ## WHAT IT IS
 
-The Magritte pipe is Madame Mim's vehicle, companion, and thesis statement. It is a sentient, floating pipe based on René Magritte's 1929 painting "La Trahison des Images" ("The Treachery of Images") — the famous painting of a pipe captioned "Ceci n'est pas une pipe" ("This is not a pipe").
+The Magritte pipe is Mim's vehicle, companion, and thesis statement. It is a sentient, floating pipe based on René Magritte's 1929 painting "La Trahison des Images" ("The Treachery of Images") — the famous painting of a pipe captioned "Ceci n'est pas une pipe" ("This is not a pipe").
 
 A witch rides a broom. Mim rides a pipe.
 
@@ -142,7 +142,7 @@ The pipe's willingness to make fun of ITSELF — to whisper a bad variation and 
 **Category:** Modern Legends
 **Image:** `magrittes_pipe.png` (production reference, item #6)
 **Type:** Companion / Vehicle / Thesis Statement
-**Carrier:** Madame Mim
+**Carrier:** Mim
 **Location:** Floats near Mim on the main floor; travels with Mim through all Inn zones except the In-Between
 **Shadow Inn Status:** Petrified (stone) — the thesis completed
 **Trade Function:** The pipe can trade items. The pipe trades representations — it will take your map and give you the territory, take your guide and give you the place, take your description and give you the thing. The trades are always fair and always unsettling, because the player realizes, after the trade, that the representation was more useful than the thing. The thing without the representation is just... a thing. The representation without the thing is... a pipe.
@@ -171,7 +171,7 @@ The pipe stops. Not petrified. Not gone. Just... quiet. For the first time. The 
 
 ## CONNECTIONS
 
-- **Madame Mim** — the pipe's carrier, partner, and fellow performer
+- **Mim** — the pipe's carrier, partner, and fellow performer
 - **The Vessel** — the pipe's philosophical opposite (formula vs. anti-formula); the Vessel ignores the pipe; the pipe finds this hilarious
 - **The Reader** — one glance of mutual respect; two characters who understand representation
 - **The Whisper Layer** — the pipe is the Whisper Layer's philosopher (asks "is this real?" while others ask "what is this?")

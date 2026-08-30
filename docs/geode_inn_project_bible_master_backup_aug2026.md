@@ -136,7 +136,7 @@ The Geode Inn is a hybrid digital archive, game hub, and artisan market built as
 | geode_inn_the_crone.md | The Crone (Anthony Hopkins) — the measurer, the annotator. "Adequate" as highest compliment. Hears the Song for the first time after arguing with Aristotle |
 | geode_inn_charon.md | Charon (Anthony Hopkins) — the Ferryman. Same actor as the Crone, different instrument. The Crone is Hopkins' mind; Charon is Hopkins' silence. "...There you are." Stone as obol payment |
 | geode_inn_the_thrum.md | The Thrum (Ben Whishaw) — Rosicrucian hum, makes inhabitants see each other as silhouettes. Presence over hierarchy |
-| geode_inn_madame_mim.md | Madame Mim — Krista's permanent chaos companion, trickster shoulder angel |
+| geode_inn_madame_mim.md | Mim — Krista's permanent chaos companion, trickster shoulder angel |
 
 ### XI. CHARACTERS — THE MUSIC ROOM
 
@@ -392,7 +392,7 @@ Runs through: underground altar → Inn structure → lighthouse beam → Pirate
 - The Crone (Anthony Hopkins) — the measurer, "Adequate"
 - Charon (Anthony Hopkins) — the Ferryman, the Crone's silence
 - The Thrum (Ben Whishaw) — silhouette-maker, presence over hierarchy
-- Madame Mim — chaos companion, trickster shoulder angel
+- Mim — chaos companion, trickster shoulder angel
 - Cthulhu — squid-headed scholar, hidden quest giver
 - The Music Room (9 composers) — Song-catchers, each caught a 42Hz fragment
 

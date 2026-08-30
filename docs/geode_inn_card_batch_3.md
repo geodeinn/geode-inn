@@ -251,7 +251,7 @@ Type: Enemy — Swarm
 Presence: 1 | Resonance: 1 | Cadence: Immediate
 Abilities: Mimic (unpredictable — each Mess has a random ability)
 Special: **Multiply** — At the end of each turn, if there are fewer than 5 Messes in play, create one additional Mess. The campy chaos is: the adequate. The adequate is: the mess is: the first stage. The player laughs.
-Flavor text: *"Madame Mimic's chaos. The first threat. The campy is: the approachable."*
+Flavor text: *"Mimic's chaos. The first threat. The campy is: the approachable."*
 Rarity: N/A (Enemy card)
 
 ---

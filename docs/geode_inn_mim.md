@@ -1,15 +1,15 @@
-# Geode Inn — Madame Mim
+# Geode Inn — Mim
 ## The Player's Companion — Daily Chaos Agent
 
 ## Origin
 
-Madame Mim from Disney's The Sword in the Stone (1963). Krista's "Kronk bad angel on my shoulder" — the inner chaos agent who says "but what if we did the fun wrong version?"
+Mim from Disney's The Sword in the Stone (1963). Krista's "Kronk bad angel on my shoulder" — the inner chaos agent who says "but what if we did the fun wrong version?"
 
 In the Inn, Mim is not a quest giver, not a shopkeeper, not a boss. Mim is a *companion* — the one who follows the player around, keeps them company in her own way, and cannot resist causing chaos at least once a day.
 
 ## Who She Is
 
-Madame Mim is the Inn's trickster companion. She attaches herself to the player early — maybe the first time the player does something "wrong" (takes the wrong path, picks up the wrong stone, talks to the wrong NPC). She appears, compliments the wrongness, and decides she's coming with you.
+Mim is the Inn's trickster companion. She attaches herself to the player early — maybe the first time the player does something "wrong" (takes the wrong path, picks up the wrong stone, talks to the wrong NPC). She appears, compliments the wrongness, and decides she's coming with you.
 
 She is:
 - **Company, not guidance.** She doesn't tell you where to go. She doesn't give you hints. She doesn't help with quests. She's just... *there.* Commenting. Observing. Keeping you company the way a cat keeps you company — by being in the room, by having opinions, by occasionally sitting on the thing you were trying to use.

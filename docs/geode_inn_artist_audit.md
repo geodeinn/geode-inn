@@ -40,7 +40,7 @@
 | 22 | Bayou / Buried Cities | Don't Starve / Tim Burton-esque | geode_inn_bayou_buried_cities.md | ✅ Complete |
 | 23 | Norse Realms | Book of Kells aesthetic | geode_inn_norse_zone_complete.md | ✅ Complete |
 | 24 | Miskatonic | Rousseau | geode_inn_miskatonic_rousseau.md | ✅ Complete |
-| 25 | Magritte Pipe (character) | Magritte | geode_inn_magritte_pipe.md | ✅ Complete |
+| 25 | Monsieur Sentient (character) | Magritte | geode_inn_magritte_pipe.md | ✅ Complete |
 
 **Spiral Gallery Chambers (Embedded Artist doc):**
 - Chamber 1: Emily Carr (Breathing Forest)
@@ -135,7 +135,7 @@
 4. **The Meadery** — Picasso ✅
 5. **Artisan Market** — Klimt gold patterns (foundational application) ✅
 6. **Portrait System** — Mapplethorpe ✅
-7. **Magritte Pipe** — Magritte ✅
+7. **Monsieur Sentient** — Magritte ✅
 
 ### World Map Zones
 8. **Desert Bone / Egypt** — O'Keeffe ✅
