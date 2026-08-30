@@ -84,7 +84,7 @@ Actually — no. The seventh layer is Bauer.
 
 Bauer's dark forest — the Unseelie Court, the ancient wood, the trolls and the goblins and the things that grow in the dark. Bauer's layer is the shadow to Rackham's light. Where Rackham's trees grow toward the sun, Bauer's trees grow toward the center. Bauer's trees are the roots that became the Fae Kingdom — the Seelie and the Unseelie, the golden and the dark, the two courts that are one court, the two brothers who are one bloodline.
 
-Bauer's layer says: the dark forest and the light forest are the same forest. The Seelie and the Unseelie are the same tree. Malachi and Aurelian — the messenger and the golden one — are the same root, splitting in two directions, growing toward different lights.
+Bauer's layer says: the dark forest and the light forest are the same forest. The Seelie and the Unseelie are the same tree. Malachi and Oleander — the messenger and the golden one — are the same root, splitting in two directions, growing toward different lights.
 
 ### Layer 8: Claude Monet
 

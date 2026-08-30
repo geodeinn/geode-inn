@@ -66,7 +66,7 @@ Not all at once. Branch by branch. The Canopy City's platforms crack and separat
 
 The traveler climbs through the breaking. Branches shatter around the traveler — not violently, not with destruction, but with the slow, deliberate separation of a structure that is releasing its parts. The Inn-Tree is not being destroyed. The Inn-Tree is disassembling. The way a geode splits — not broken, opened. The way a seed husk falls away — not lost, released.
 
-The zones scatter. Each zone — each artist's vision, each cultural mythology, each frequency signature — separates from the whole and becomes its own floating shard. The Egypt zone, O'Keeffe's bone and desert light, drifts free. Greece, Monet's dissolving edges, floats away. The Fae Kingdom, Lee's golden light and Bauer's dark forest, separates into two shards — Seelie and Unseelie, summer and winter, Aurelian and Malachi, the two brothers who are one root splitting in two directions.
+The zones scatter. Each zone — each artist's vision, each cultural mythology, each frequency signature — separates from the whole and becomes its own floating shard. The Egypt zone, O'Keeffe's bone and desert light, drifts free. Greece, Monet's dissolving edges, floats away. The Fae Kingdom, Lee's golden light and Bauer's dark forest, separates into two shards — Seelie and Unseelie, summer and winter, Oleander and Malachi, the two brothers who are one root splitting in two directions.
 
 The traveler watches the Inn come apart. The Inn the traveler walked through, collected stones in, played games in, met characters in, loved — the Inn is opening. The Inn is becoming what it was before it was an Inn: a collection of possibilities, a set of frequencies, a palette of artists, a seed.
 

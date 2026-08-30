@@ -15,7 +15,7 @@ The Geode Inn repository is 85-90% novel-ready. All major story arcs, character 
 
 ## A. NARRATIVE LOOSE ENDS (17 items)
 
-### A1. The Seelie King — UNNAMED + CASTING CONTRADICTION
+### A1. The Seelie King — NAMED: Oleander (casting: Mads Mikkelsen primary, Nikolaj Coster-Waldau in seelie_royalty.md — needs resolution)
 - Status: Intentionally unnamed. The Egg mechanic allows players to name him.
 - Issue: Casting contradiction — Nikolaj Coster-Waldau vs. Mads Mikkelsen in different docs
 - Resolution: Pick one casting. Name him (or keep the Egg naming mechanic for the game, but give him a name for the novel)
@@ -141,7 +141,7 @@ The game systems audit did not fully complete, but known gaps include:
 
 ## TOTAL LOOSE ENDS: 40+ items
 ### Priority for Novel Production:
-1. Name the Seelie King (A1) — needed for novel
+1. ~~Name the Seelie King (A1)~~ — NAMED: Oleander
 2. Write endgame choice scenes (A3) — the climax
 3. Write the Grand Collision scene (A4) — the penultimate moment
 4. Write the Ragnarok graduation scene (A7) — the emotional peak
