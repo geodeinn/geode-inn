@@ -1,48 +1,37 @@
-# NPC Name Audit — Geode Inn Beta
+# NPC Name Audit — Geode Inn
 
 ## Changes Made (Aug 30, 2026)
 
-### Fixed in beta code:
-1. **Player Guide → Lark** — Was a title, not a name. "Lark" = a songbird, fits the Inn's music/sound theme. Warm, adventurous, guides the player through orientation.
-2. **Voice profiles** — Removed two real actor names (Jennifer Hale, James Earl Jones) from dialogue.json. All voice profiles are now purely descriptive cadences.
-3. **WorldMap Peru artist** — Changed from "Olmos × Royo" (Edward James Olmos is an actor, not a visual artist) to "Guo Xi × Royo" (correct per the artist map).
-4. **FinalRoom.gd comment** — Removed "Gaiman" reference. The Reader is an original character. Comment now reads "the Inn itself — a voice that has always been here."
+### NPC renames (book/movie character names → original):
+1. **Player Guide → Lark** — Was a title, not a name. Songbird, fits the Inn's music/sound theme.
+2. **Mim → Brim** — Originated from "Madame Mim" (T.H. White, Sword in the Stone, 1938). "Brim" = brimstone, brim of a hat. Witchy without being derivative.
+3. **Cthulhu → Naut** — Lovecraft character. "Naut" = from nautilus (cephalopod), scholarly, short and memorable. "Naut, the Deep Scholar."
+4. **John Myers → Tobias** — Matched character from the 2004 Hellboy movie. "Tobias" = scholarly, archaic, no IP associations.
 
-### Confirmed clean (no book/movie character names):
-- Brindle, Cobble, Thatch (brownies) — original names
-- Tumble — original (named after gemstone tumbling)
-- The Reader — intentional title, anonymous character by design
-- The Allfather — Norse mythology (Odin), public domain
-- The Bog Fairy Golem — original title (Krista's avatar)
-- River — real person (Krista's spouse), intentional
-- Will — common name, original character
-- Eres — original character (cabbie)
-- Rachel Kaiser — original character
-- Stephanie — common name, original character (talking cat)
-- Zack — common name, original character (astronomer)
-- Bethany — common name, original character (tavern manager)
-- Joe — common name, original character
-- Beverley — common name, original character (librarian)
-- Oleander (Seelie King) — original name (poisonous plant, fits Fae)
-- Malachi (Unseelie King) — biblical name, public domain
+### Voice profiles cleaned (actor names removed):
+All real actor names removed from voice profiles across dialogue_entries.json and beta/data/dialogue.json. Profiles are now purely descriptive cadences:
+- Jennifer Hale → "Warm, clear, encouraging without being condescending"
+- James Earl Jones → "Deep, resonant, each word carries the weight of myth"
+- Sissy Spacek → "Quiet, measured, each word placed like a stone"
+- Anne Robinson → "Clipped, dismissive, precise — Australian accent"
+- Tom Ellis Lucifer → "Smooth, amused, self-aware"
+- Kathy Bates → "Warm, nurturing (default mode)" / "Cold, flat, correction mode"
 
-## Flagged for Krista — broader roster not yet in beta code:
+### Art direction fix:
+- WorldMap Peru artist corrected from "Olmos × Royo" (Edward James Olmos is an actor) to "Guo Xi × Royo" (correct visual artist per the artist map).
 
-### Needs new name:
-1. **Mim** (currently in lore) — Originated from "Madame Mim," a character in T.H. White's "The Sword in the Stone" (1938) and the Disney film. Shortened to "Mim" but the character origin is still copyrighted. Needs a fully original name. Suggestion: "Brim" (brimstone, brim of a hat, witchy without being derivative).
+### Comment cleanup:
+- FinalRoom.gd: Removed "Gaiman" reference. The Reader is an original character.
 
-2. **Cthulhu** (currently in lore) — Character from H.P. Lovecraft's works. While much of Lovecraft's work is public domain, the character is strongly associated with the Lovecraft estate/IP. Used as "a scholarly hidden NPC quest-giver." Suggestion: "The Archivist" or "The Deep Reader" or "Nautilus" — captures the scholarly, tentacled, hidden nature without the IP.
+## Confirmed clean (29 unique NPC names, all original or public domain):
+Bethany, Beverley, Bog Fairy Golem (The), Brim, Brindle, Crone (The), Elora Nightbloom, Eres, Evan, Joe, Kathy, Lark, Malachi, Monsieur Sentient, Naut, Oleander, Owl (The), Rachel Kaiser, Reader (The), River, Selkie, Stephanie, Teacher (The), Tobias, Tumble, Wanderer (The), Will, Zack, Allfather (The)
 
-3. **John Myers** (currently in lore) — Matches the character from the 2004 Hellboy movie (played by Rupert Evans). If this was intentional as a reference, it needs a new name. Suggestion: "John Marsh" or "Tobias" — keeps the scholarly feel without the movie reference.
+## Kept as production direction (not NPC names):
+- Anthony Hopkins' eyes — confirmed design decision for The Reader's eye rendering. Lives in PROMPT_SCRIPTS.md only, not in game code or data.
 
-### Confirmed OK (mythology/public domain):
-- The Morrigan — Irish mythology, public domain
-- Anansi — West African folklore, public domain
-- Anubis — Egyptian mythology, public domain
-- Goblins — generic mythological creature, public domain
-- The Wanderer / The Allfather — Norse mythology (Odin), public domain
+## Mythology references (public domain, no change needed):
+- The Allfather (Odin) — Norse mythology
+- The Morrigan — Irish mythology
+- Anansi — West African folklore
+- Anubis — Egyptian mythology
 - The Owl — folkloric motif, original Geode Inn character
-
-### Production direction notes (not NPC names, kept as internal):
-- Anthony Hopkins' eyes — confirmed design decision for The Reader's eye rendering
-- Voice profiles in dialogue.json — now purely descriptive (no actor names)

@@ -11,7 +11,7 @@ that tells you exactly who's talking before the name appears.
 | Beverley | "Obviously." | Anne Robinson cadence, Australian accent | Library | Clipped, dismissive librarian. Two-thirds human height. |
 | Joe | "Delightful." | Tom Ellis Lucifer cadence | Meadery | Smooth, amused, self-aware. Paints dragon kittens. |
 | The Teacher | "Incorrect." | Kathy Bates (3 modes) | Archive | Triggers dread. Warm 90% of the time. Canadian accent. |
-| Mim | "Watch this." | Witchy mischief | Hearth | Transforms things. Paired with Monsieur Sentient. |
+| Brim | "Watch this." | Witchy mischief | Hearth | Transforms things. Paired with Monsieur Sentient. |
 | Monsieur Sentient | "Absurd." | Existential pipe | Hearth | Opinionated. Maintains own agency. Magritte's pipe. |
 | The Wanderer | "Passing through." | Warm traveler | Main floor | Odin in disguise. Chibi thieving ravens. Approachable. |
 | The Owl | "Watching." | Silent presence | Variable | Barn owl. Supernatural watcher. "Wherever an owl is sighted, one of us is near." |
@@ -41,7 +41,7 @@ that tells you exactly who's talking before the name appears.
 
 | NPC | Hook Word(s) | Voice Profile | Zone | Notes |
 |-----|--------------|---------------|------|-------|
-| John Myers | "In the margins." | Lovecraftian scholar | Archive | Restricted library access. Finds what others miss. |
+| Tobias | "In the margins." | Lovecraftian scholar | Archive | Restricted library access. Finds what others miss. |
 | Zack | "Look up." | Astronomer | Cosmology | Mind Palace mechanic. Playable character. |
 | Maddi | "Calculated." | Precise, warm | Cosmology | Zack's partner. Grounds Zack's abstractions. |
 
