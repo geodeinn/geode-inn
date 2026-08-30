@@ -203,3 +203,19 @@ Each NPC's voice profile is tagged in the Inn's dialogue system with:
 - **Idiom links:** any idioms from the Idiom Atlas that belong to this NPC's culture
 
 The result: a player walking through the Inn hears 191 countries' worth of voices. The accents aren't decorations — they're worldbuilding. Each voice tells you where the character is from, what they value, and how they think, before they've finished their first sentence.
+
+---
+
+## Design Principle: Roots, Not Costumes
+
+These accents are not assigned TO the characters. These accents ARE the characters. The NPCs come from the real-world regions on the world map — they are FROM those countries. The Selkie grew up on the Irish coast. The Cartographer is from the Netherlands. The Norns walked out of Iceland. Mim is from Brussels. Oceananoir is from Paris. Katy is from Brabant. Eileen is from the Irish cave country. The Fixer is from Wales. Thorin and Marijke are from Scandinavia and the Low Countries.
+
+The Inn didn't assign them accents. The Inn collected them. The Inn is a gathering place — people came from everywhere, and they brought their voices with them. The 191-country world map isn't just a data layer of mythology pinned to locations. It's a map of where the Inn's residents are FROM. Every world map pin is a homeland. Every NPC walking the Inn's halls carries their homeland in their mouth.
+
+This means:
+- The NPC's cultural knowledge is real, not decorative. The Selkie knows Irish and Scottish selkie folklore because the Selkie GREW UP with it, not because the Inn assigned it.
+- The NPC's worldview is shaped by their origin. The Egyptian quest-giver measures time the way the desert measures time — in epochs, not hours — because that's where they're from.
+- The NPC's idioms come from their homeland. "Frog in a sock" is Beverley's because Beverley is Australian. "Horse horse tiger tiger" is the Teacher's because the Teacher is Canadian... no — the Teacher uses it because the concept speaks to them, but the Teacher is Canadian. The idiom atlas connects expressions to characters through ROOTS, not assignment.
+- The NPC's relationship to their zone is personal, not professional. The Greece zone NPC doesn't work there like an employee. They're HOME. The zone is a piece of their homeland, recreated in the Inn, because they brought it with them.
+
+The Inn is not a theme park where every zone has a decorative accent. The Inn is a shelter. People came from everywhere, and the Inn made room for all of them, and they brought their soil and their stones and their stories and their voices. The voices are the proof that the Inn is real — that real people from real places found their way here and stayed.
