@@ -1215,3 +1215,98 @@ All 32 creatures are chibi-style playable characters for the "Monster of the Dee
 **Image:** https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/99a4ae05f_generated_image.png
 **Artist:** O'Keeffe (essential bone forms) × Klimt (gilded ornament) — the Inn's two DNA strands meeting
 **Zone:** Underground — monumental bones in gilded frames, form meets beauty-of-form
+
+---
+
+## NEW CHARACTER VISUALS — NPC & Creature Round (Aug 30)
+### All rendered in the confirmed prototype style: Royo × Vampire Hunter D × Trinity Blood
+
+### 43. Rachel Kaiser (The Muralist)
+**Image:** https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/047dd9ecb_generated_image.png
+**Location:** Spiral Gallery — Studio
+**Role:** Artist-in-residence, ceramic tilemaker, welder, woodcarver, Stardew Valley farmer
+**Linework:** Heavy cel-shaded (tradesman)
+
+### 44. Stephanie (The Talking Cat)
+**Image:** https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/c0c835c9d_generated_image.png
+**Location:** Main Floor — Archive shelves
+**Role:** River's girl Friday, intelligence network, black cat with green eyes and white whiskers who talks
+**Linework:** Heavy cel-shaded (tradesman)
+
+### 45. Bethany (The Tavern Keeper's Wife)
+**Image:** https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/a6f42a70c_generated_image.png
+**Location:** Campgrounds — Huntsman Tavern
+**Role:** Tavern co-manager, the real innkeeper, cookbook questline
+**Linework:** Heavy cel-shaded (tradesman)
+
+### 46. John Myers (The Lovecraftian)
+**Image:** https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/15f0812c6_generated_image.png
+**Location:** Undercity — Archives by the fireplace
+**Role:** Seeker of hidden knowledge, restricted section access, Cthulhu's reading companion
+**Linework:** Cel-shaded transitioning to fragmented (crisis)
+
+### 47. TJ and Gabby (The Tavern Kids)
+**Image:** https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/2772b1867_generated_image.png
+**Location:** Campgrounds — Outside Huntsman Tavern
+**Role:** The Inn's next generation — TJ explores, Gabby draws things that haven't happened yet
+**Linework:** Cel-shaded (tradesman), Gabby's drawings use soft flowing (lore)
+
+### 48. Maddi (The Astronomer's Partner)
+**Image:** https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/fef645b67_generated_image.png
+**Location:** Cosmology Level — Base of the Observatory staircase
+**Role:** Grounding wire for Zack, future Inn employee, placeholder for full spec
+**Linework:** Heavy cel-shaded (tradesman)
+
+### 49. Zack — Playable Astronomer
+**Image:** https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/01d3de367_generated_image.png
+**Location:** Cosmology Level — Mind Palace
+**Role:** Playable character, Mind Palace mechanic, Allfather's Gaze ability
+**Linework:** No-outline (cosmological)
+
+### 50. The Draenei-Kangaroo
+**Image:** https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/753a1a4f8_generated_image.png
+**Location:** Zone perimeter (exterior/Campgrounds)
+**Role:** Guardian NPC — calm until provoked, then kangaroo kicks
+**Linework:** Sharp/angular (guardian)
+
+### 51. Peach and Bella (The Selkie's Companions)
+**Image:** https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/2d52e9977_generated_image.png
+**Location:** Tidal Caves — Selkie's Workshop
+**Role:** Bella = black cat assassin (boss, protector), Peach = orange-white fluffy genius (brains, charismatic)
+**Linework:** Heavy cel-shaded (tradesman)
+
+### 52. Maine Coon Colony
+**Image:** https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/561bfbb0e_generated_image.png
+**Location:** Throughout all zones
+**Role:** Ambient companion system — follow players, chirp, bring gifts, Fae-capable
+**Linework:** Heavy cel-shaded (tradesman)
+
+### 53. Savannah Cats (The Baby Dragons)
+**Image:** https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/d0822c483_generated_image.png
+**Location:** Warm zones — Undercity (Joe's studio), main floor hearth, Campgrounds tavern
+**Role:** Dragon-adjacent exotic cats, draconic bloodline resonance with dragon kittens
+**Linework:** Heavy cel-shaded (tradesman)
+
+### 54. The Frog Gargoyle
+**Image:** https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/d950a252f_generated_image.png
+**Location:** Tidal Caves — tide pools (riding caiman backs)
+**Role:** Gargoyle-textured frog, water zones' unique creature, the both are: the adequate — gargoyle and frog
+**Linework:** Heavy cel-shaded (tradesman)
+
+### 55. Marion (The Game Tester)
+**Image:** https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/281c5110f_generated_image.png
+**Location:** Inn development area
+**Role:** QA tester, MTG strategist, stress-tests every game before launch
+**Linework:** Heavy cel-shaded (tradesman)
+
+### 56. The Bears (Kodiak + Canadian Grizzly)
+**Image:** https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/ea392db40_generated_image.png
+**Location:** Campgrounds — tavern porch (Kodiak), deep forest clearing (Grizzly)
+**Role:** Kodiak = tiny and sweet, sleeps by the wolf. Grizzly = wants quiet, introverted, fishing
+**Linework:** Heavy cel-shaded (tradesman)
+
+### 57. Bearded Dragons and Caimans
+**Image:** https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/c9ec1e7dc_generated_image.png
+**Location:** Undercity copper pipes (bearded dragons), Tidal Caves shallows (caimans)
+**Role:** Bearded dragons = oversized sweethearts, Undercity heating system. Caimans = patient mini crocodilians, frogs ride their backs
+**Linework:** Heavy cel-shaded (tradesman)
