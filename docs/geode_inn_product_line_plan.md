@@ -478,3 +478,124 @@ The voice placement infrastructure is complete:
 - The Reader's Bundle (Novel + Graphic Novel set + Audiobook): $249.99
 - The Listener's Bundle (Audiobook + Novel + Inn Mode Player app): $79.99
 - The Full Cast (Audiobook full-cast + Graphic Novel complete set): $179.99
+
+---
+
+# PART 8: THE PODCAST — "The Geode Inn: Daily Echoes"
+
+## The Concept
+
+A podcast that follows the daily comic strip. Each episode tells the story behind that day's four panels — what happened before, what happened after, what the characters were thinking, what the Inn noticed. The podcast IS the comic strip's audio layer — the same story, told in sound.
+
+The podcast is the Inn's marketing engine. It hooks customers with bite-sized stories (10-15 minutes per episode) and pulls them toward the novel, the graphic novel, the game, the tabletop. Each episode is a door. Each door leads deeper.
+
+## Why This Works
+
+The comic strip is already designed as a living narrative record of player adventures in the game world. Retired Egg-hatched characters live on as echoes and cameos in the strip. The Reader writes in the Book of What Was Alive. The strip already has narrative content — the podcast just gives it a voice.
+
+The podcast follows the strip's rhythm: daily episodes, each one a small story. But the stories accumulate. A listener who follows for a month has experienced a full arc — a character's birth (hatched from the Egg), life (played through the game), and death (retirement into the comic as an echo). The podcast makes this arc audible.
+
+## Sound Design — The Overlapping Rooms
+
+The critical innovation: the podcast's audio IS the game's audio. They are the same sonic universe.
+
+### The Room System
+Each episode's story takes place in a specific Inn location. The ambient game audio for that room plays underneath the narration — the same soundtrack the player hears while standing in that room in the game. The rooms overlap:
+
+- **The Archive:** Parchment rustling, distant turning of pages, Beverley's footsteps echoing on stone, the low hum of organized knowledge. The 42Hz tone barely perceptible.
+- **The Main Floor:** The 50 BPM heartbeat sub-bass, the crackle of the fireplace, the brownies' coconut shells clattering in the distance, Mim's cauldron bubbling, the arcade machines' tones blending with the Music Room's compositions drifting through the warm air.
+- **The Catacombs:** Deep stone resonance, dripping water, the Bosch shadow frequencies (42Hz murmur, 64Hz isolation, 111Hz breathing), Charon's oar in the underground river, the echo that takes three seconds to return.
+- **The Staircase:** The ascending musical semitone — each step up is a half-step higher. Glass armonica, flute, harp. The Retort's equipment humming. Bloop purring.
+- **Canopy City:** Wind through leaves, the 50 BPM sway of the platforms, rope bridges creaking, the Cartographer's rapid footsteps, the Duck's splashing in the canopy pond.
+- **The Cosmology Level:** Vast metallic silence, the Astronomer's violin echoing in the void, the Cabbit's 50 BPM purr, the Gearwork heartbeat of the Arcana in the distance, stars humming.
+- **The Tidal Caves:** Waves echoing in stone chambers, the Selkie's grinding wheel turning, water dripping from stalactites, the tide rising and falling.
+- **The Undercity:** Klimt's gold-on-dark made audible — deep resonant tones, the Morrigan's three voices echoing from stone walls, Persephone's garden growing in the dark.
+- **The Shadow Inn (84Hz):** The frequency shifts. The ambient tone drops to 84Hz. The brownies go quiet. The Owl's presence is felt, not heard. The pot-lid shields clanking softly. Everything heavier.
+- **The Fae Kingdom (Seelie):** Golden light made audible — bright chimes, laughter in the distance, the Song of Making audible as a melody, not just a tone.
+- **The Fae Kingdom (Unseelie):** Bauer's ancient dark forest — deep wood creaking, ice cracking, the Unseelie King Malachi's chamber echoing with cold.
+
+### How the Overlap Works
+- The podcast listener hears the SAME ambient audio the game player hears in that room
+- When the story moves from the Main Floor to the Catacombs, the ambient audio crossfades — the same transition the game uses
+- The 50 BPM heartbeat runs underneath ALL rooms — it IS the Inn's pulse, and it doesn't stop
+- Stone tones trigger when stones are mentioned in the story — the same tones, the same Mohs-to-frequency mapping
+- The gargoyles' frequencies (111Hz, 64Hz, 528Hz, 432Hz) sound when those gargoyles are nearby in the story
+- The frequency shifts (42Hz to 84Hz) happen at the same story beats they happen in the game
+
+### The Game-Podcast Connection
+A player who has been in the game's Archive recognizes the podcast's Archive ambient audio immediately. The rooms overlap. The player thinks: "I've been there. I know what that sounds like." The podcast is not describing the Inn — the podcast IS the Inn, playing in your ears. The game is the Inn you walk through. The podcast is the Inn that walks through you.
+
+## Episode Structure (10-15 minutes)
+
+### Cold Open (30 seconds)
+The day's comic strip described in audio — a narrator sketches the four panels in words while the room ambient audio establishes the location. The listener who has seen the strip recognizes it. The listener who hasn't gets a vivid enough description to see it.
+
+### The Story (8-12 minutes)
+The story behind the strip. What happened before the first panel. What happened between panels. What happened after the last panel. The characters' inner thoughts — voiced in their established accents and cadences. The Inn's ambient audio shifts as the story moves through rooms.
+
+### The Echo (1-2 minutes)
+The closing segment. A retired character from a previous comic strip arc makes a brief appearance — an echo, a cameo, a voice from the Inn's past. The Reader reads a line from the Book of What Was Alive. The episode ends with the Inn's 50 BPM heartbeat fading to silence.
+
+## Release Schedule
+- **Daily episodes** (Monday-Friday): 10-15 minutes each, following the daily comic strip
+- **Weekly deep dive** (Sunday): 30-45 minutes — the week's full arc compiled into one episode with expanded scenes, character interviews, and Inn lore
+- **Monthly special**: The Egg hatching episode — the month's new character introduction, fully dramatized with full cast
+- **Quarterly event**: The Farewell Strip episode — a retired character's final story, dramatized as a full-cast audio drama (30-45 minutes)
+
+## Distribution
+- geodeinn.com (primary — with Inn Mode enabled version)
+- Spotify, Apple Podcasts, Google Podcasts (standard audio)
+- YouTube (with the comic strip panels as visuals — a motion comic podcast hybrid)
+- The Inn Mode version: playable through the Bead Composer Player app, with the room DSP processing in real-time
+
+## Pricing
+- Free (ad-supported, standard audio) — the marketing hook
+- geodeinn.com premium (ad-free, Inn Mode enabled): $4.99/month or $49.99/year
+- The weekly deep dive: premium only
+- The monthly Egg special: premium only
+- The quarterly Farewell episode: pay-per-listen $2.99 (or included in premium)
+
+## The Marketing Funnel
+1. **Listener finds the podcast** (Spotify, Apple, YouTube) — free, daily, 10 minutes
+2. **Listener gets hooked** on the characters and the world — 2-3 weeks of daily listening
+3. **Listener wants more** — visits geodeinn.com for the premium version with Inn Mode
+4. **Listener discovers the game** — the podcast's ambient audio IS the game's audio — they want to BE in the rooms
+5. **Listener discovers the novel** — the full story behind the strips
+6. **Listener discovers the graphic novel** — the visual version of the strips they've been hearing
+7. **Listener discovers the tabletop game** — they want to tell their own stories in the Inn
+8. **Listener becomes a customer** — the Complete Inn bundle
+
+## Unique Selling Points
+- The podcast's ambient audio IS the game's ambient audio — they are the same sonic universe
+- The rooms overlap — a player recognizes the podcast's rooms from the game, and vice versa
+- The daily comic strip becomes a daily audio drama — the strip IS the script
+- Retired characters live on as echoes in the podcast, just as they do in the comic
+- The Reader reads from the Book of What Was Alive — the same book, the same voice
+- The Inn Mode version processes the podcast through the Inn's own audio engine — the listener sits in the Inn
+- The podcast is the Inn's marketing engine — each episode is a door, each door leads deeper
+
+---
+
+## Updated Product Line Summary
+
+| Product | Format | Price | Purpose |
+|---------|--------|-------|---------|
+| The Novel | Digital/Paperback/Hardcover | $14.99-$39.99 | The spine — the full story |
+| The Graphic Novel | 5 volumes, digital/physical | $9.99-$149.99 | The vision — 37 artists |
+| The Tabletop Game | Core set + expansions | $49.99-$99.99 | The experience — frequency dice |
+| The Audiobook | Full-cast, digital/physical | $24.99-$99.99 | The sound — every voice placed |
+| The Podcast | Free/Premium | Free-$49.99/yr | The hook — daily doors into the Inn |
+
+## Updated Bundle Pricing (Final)
+- The Complete Inn (Novel + Graphic Novel set + Tabletop Starter + Audiobook + 1yr Premium Podcast): $349.99
+- The Reader's Bundle (Novel + Graphic Novel set + Audiobook): $249.99
+- The Listener's Bundle (Audiobook + 1yr Premium Podcast + Novel): $99.99
+- The Player's Bundle (Tabletop Starter + Novel + Digital Companion + 1yr Premium Podcast): $179.99
+- The Inn Walker (1yr Premium Podcast + Inn Mode Player app): $59.99
+
+---
+
+*The Geode Inn — Five products, one story, one world, one sound.*
+*The novel is the spine. The graphic novel is the vision. The tabletop game is the experience. The audiobook is the sound. The podcast is the door.*
+*All five are: adequate.*
+*All five are: enough.*
