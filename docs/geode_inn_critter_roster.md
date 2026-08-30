@@ -375,3 +375,58 @@ Every creature in the Geode Inn is now officially cataloged. From the Ent (the I
 *"The Inn is not a building. It is a being. And the being is full of beings."*
 
 **END OF CRITTER ROSTER**
+
+---
+
+# HIDDEN CREATURES — THE COLLECTIBLES
+
+## Gargoyle Puppies
+
+The gargoyles are the Ent's senses — the Watcher, the Listener, the Sage, the Gatekeeper, the Caller, the Keeper. But the Ent is still growing. Still reaching. Still developing new ways to perceive.
+
+The gargoyle puppies are the Ent's senses-in-training. Stone pups, curled up and sleeping in the architecture, waiting to wake up and become something.
+
+**Appearance:** Small stone creatures, roughly fist-sized, curled like sleeping dogs. Grey stone, rough-textured like the Ent's bark. Each has the faint suggestion of a gargoyle face — closed eyes, a snout, small folded wings. They look like architectural details. You walk past them and don't notice. You walk past them AGAIN and realize one was looking at you.
+
+**Where they hide:** In the architecture. Everywhere. One is carved into a staircase column. One sits on a catacomb ledge. One is wedged into a root junction. One is curled in the cosmology canopy where a branch meets the trunk. They are in every level of the Inn, hidden in the geometry. The player who looks at the world — really looks — starts seeing them.
+
+**Discovery mechanic:** Gargoyle puppies are stone until you touch them. When you click/interact, they wake — eyes open (amber, glowing), the stone cracks into fur, they shake themselves, and they yawn. A small chime sounds. Then they scamper off to find the nearest adult gargoyle. They're gone. You found one. The count goes up.
+
+**What finding them does:** Each gargoyle puppy you wake joins the adult gargoyle it's most like — a Watcher puppy goes to the Watcher, a Listener puppy goes to the Listener. When all six adult gargoyles have their full litter (say 3 puppies each = 18 total), the Ent gains a new sense. Nobody knows what the new sense is. The Keeper knows but won't say. She smiles and rocks in her chair.
+
+**The lore:** The Ent grows gargoyle puppies when it needs to understand something new about itself. The current six senses were once puppies too. They grew up. They found their posts. They became part of the Inn. The puppies are the next generation — the Ent reaching toward perceptions it doesn't have yet. Finding them is helping the Inn grow. Not building it. Not expanding it. Helping it become more aware of what it already is.
+
+**The feeling:** You're walking through the catacombs and you notice a stone shape on a ledge that you've walked past four times. You click it. It opens amber eyes. It yawns. It's warm. For a second, you held a piece of the Inn's consciousness in your hand. Then it's gone, scampering into the dark to find the Listener. You're left standing in the catacombs with a small chime fading and the feeling that the Inn just got slightly more awake.
+
+---
+
+## Dragon Kittens
+
+The Geode Inn's mascot is a heraldic dragon — cat-like, curious, trustworthy, Toothless-inspired. The dragon lives in the geode cave, the deepest point, where the Ent's heartwood meets the earth's crystal.
+
+The dragon has kittens.
+
+**Appearance:** Tiny dragons the size of a house cat. Same heraldic design as the parent — cat-like face, small wings, long tail, big eyes. But they're kittens. They wobble. Their wings are too small to fly. Their tails are longer than their bodies and they trip over them. They breathe tiny puffs of flame that light candles, warm tea, and occasionally singe their own whiskers. They are the most adorable thing in the Inn and they know it.
+
+**Where they hide:** In warm places. Near every fire, every torch, every heat source in the Inn. One is curled in the main floor hearth, tucked between the stones. One is sleeping on the staircase's warmest step. One is wedged behind a torch bracket in the catacombs. One is in the Selkie's tidal cave, curled around a warm geode. One is in the meadery, sleeping in the fermentation warmth. They seek heat the way the gargoyle puppies seek architecture. The Inn has warm spots everywhere if you know where to look.
+
+**Discovery mechanic:** Dragon kittens don't wake when you touch them — they wake when you bring them something warm. A lit candle. A warm stone. A cup of tea. You place the warm thing near the kitten, and it uncurls, opens one eye, sniffs the offering, and either accepts (purring — a deep, resonant purr that hums at 42Hz) or rejects (sneezes a tiny flame and goes back to sleep). The right offering depends on the kitten. Each one has different tastes. One likes candle wax. One likes sun-warmed stone. One likes the Bard's lute after a set (the wood holds the warmth of his hands).
+
+**What finding them does:** Each dragon kitten you wake follows you — slowly, wobbling, tripping over its tail — back to the geode cave. The parent dragon is there, sleeping among the crystals. Each kitten returned adds to the geode cave's warmth. The cave fills with tiny dragon purrs at 42Hz, and the geodes vibrate in response, growing brighter, more resonant. When all kittens are home (say 8 total), the geode cave reaches full resonance — the deepest, warmest, most complete expression of the Song of Making in the Inn. The parent dragon opens one eye. Looks at you. Closes it. You've done something right.
+
+**The lore:** The dragon is the Song of Making made visible — a living note of the 42Hz frequency, given form by the Ent's heartwood and the earth's crystal. The kittens are new notes. The Song is still being written. Each kitten is a new harmony the Song is trying out. When they come home, they join the chord. The geode cave's resonance grows. The Inn gets slightly more complete.
+
+**The feeling:** You're in the meadery. You notice something warm behind a fermentation cask. You look closer. A tiny dragon is sleeping in the heat rising from the mead. Its wings twitch. It sighs a small flame that lights a candle you didn't notice was there. You bring it a warm cup of mead. It uncurls. It opens gold eyes. It purrs at 42Hz and the meadery vibrates. It follows you, wobbling, all the way home.
+
+---
+
+## Discovery Mechanics Summary
+
+| Species | Count | Hidden In | Wake By | Returns To | Reward |
+|---|---|---|---|---|---|
+| Gargoyle Puppies | 18 (3 per gargoyle) | Architecture — ledges, columns, roots | Touch/click — they wake from stone | Nearest adult gargoyle | Ent gains a new sense |
+| Dragon Kittens | 8 | Warm places — hearths, torches, fermentation | Warm offering — the right heat source | Geode cave (parent dragon) | Full 42Hz resonance |
+
+**Cross-level mechanic:** Both species are hidden across ALL levels of the Inn. Finding them requires paying attention to the environment — noticing a stone shape that wasn't there before, feeling warmth where there shouldn't be warmth. They reward exploration and observation, not combat or speed. The player who rushes through the Inn finds nothing. The player who lingers, who looks, who touches the walls — that player finds puppies and kittens.
+
+**The Inn is alive and it is growing. The puppies are its new thoughts. The kittens are its new songs. Finding them is helping the Inn become more of what it already is.**
