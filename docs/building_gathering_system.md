@@ -1,0 +1,239 @@
+# Geode Inn — Building & Gathering System
+
+## Architecture: Ironforge Model
+
+The Geode Inn is structured like Ironforge — a central hub with radiating corridors connecting to themed districts. Each level has its own hub, and the corridors between zones are the gathering areas where players collect raw materials.
+
+### Layout Structure
+
+#### MAIN FLOOR — Hub: The Common Room
+The great hearth of the Inn. All corridors radiate from here like spokes.
+- **Corridor: Garden Path** → The Garden (Van Gogh) — gather: oak, rose, thyme, willow, moss
+- **Corridor: Mead Hall** → The Meadery (Picasso) — gather: honey, wheat, hops, beeswax
+- **Corridor: Archive Hall** → The Archive (library) — gather: parchment, ink, binding leather
+- **Corridor: Market Street** → The Artisan Market — where built items are displayed/sold
+- **Corridor: Tavern Walk** → The Tavern — social hub, NPC interactions
+- **Corridor: Forge Road** → The Forge — crafting station, smelting
+- **Corridor: Staircase** → The Staircase (alchemy) — connects upstairs and downstairs
+- **Corridor: World Map Gate** → The World Map portal — access to all cultural zones
+
+#### DOWNSTAIRS — Hub: The Crystal Chamber (Geode Center)
+The geode at the heart of the Inn. Ancient, crystalline, the oldest space.
+- **Corridor: Sandstone Pass** → Egypt/Tomb Tunnel (O'Keeffe) — gather: sandstone, desert glass, papyrus
+- **Corridor: Andean Trail** → Peru/Andean Run (Guo Xi) — gather: andesite, andean alder, gold ore
+- **Corridor: Tigris Way** → Mesopotamia (Hokusai) — gather: clay, bitumen, reed, lapis
+- **Corridor: Marble Hall** → Greece (Monet) — gather: marble, olive wood, bronze
+- **Corridor: Round Table** → Camelot (Moreau) — gather: english oak, yew, limestone
+- **Corridor: Northern Passage** → Norse (Book of Kells) — gather: pine, birch, bog iron, runestone
+- **Corridor: Bamboo Path** → China (Mulan ink-wash) — gather: bamboo, jade, lacquer, silk
+- **Corridor: Spice Road** → India (Tagore) — gather: teak, sandalwood, copper, indigo
+- **Corridor: Bayou Bridge** → Bayou (Don't Starve) — gather: cypress, bog moss, bog oak,Spanish moss
+- **Corridor: Fae Gate** → Fae Kingdom portal — gather: luminwood, fae silk, luminite
+
+#### UPSTAIRS — Hub: The Observatory
+The highest point. Stars, planets, the cosmological scale.
+- **Corridor: Star Field** → Astronomer's Path — gather: star dust, meteor iron
+- **Corridor: Planet Walk** → Planetary spheres — gather: cosmic crystal
+- **Corridor: Canopy Lift** → Canopy City (Rackham) — gather: canopy wood, leaf silk, sky resin
+- **Corridor: Ascension** → The Ascension Canopy — the final climb
+
+#### PARKS — Accessed from World Map
+- **Colorado Plateau** (Dixon) — gather: sandstone, juniper, turquoise
+- **Yellowstone** (Benton) — gather: obsidian, lodgepole pine, geyser salt
+- **Superstition Mountains** (Bierstadt) — gather: granite, saguaro, desert ironwood
+- **Appalachian Trail** (Wyeth) — gather: chestnut, maple, ginseng
+- **Petrified Forest** (Adams) — gather: petrified wood, agate, chalcedony
+- **Redwood** (Carr) — gather: redwood, fern, fog moss
+
+#### WATER ZONES — Accessed from downstairs
+- **Atlantis** (Royo) — gather: coral, pearl, deep sea crystal, abyssal stone
+- **Tidal Caves** (Lewis) — gather: sea glass, cave pearl, salt crystal, tidal moss
+
+#### UNDERGROUND — Accessed from downstairs
+- **Catacombs** (Klimt Death+Life) — gather: bone, ancient brick, shadow moss
+- **Undercity** (Gothic) — gather: undercity iron, shadow wood, ghost crystal
+- **Bone Room** (O'Keeffe×Klimt) — gather: bone meal, calcium crystal, fossil
+- **Cave City** (Doré) — gather: cave mushroom, glow moss, cave pearl
+- **Poison Garden** (Gorey) — gather: nightshade, thorn vine, venom sac
+
+---
+
+## Material System
+
+### Material Categories
+
+#### WOOD (12 types)
+| Material | Zone | Rarity | Source |
+|---------|------|--------|--------|
+| Oak | Garden | Common | Oak trees |
+| Willow | Garden | Common | Willow trees |
+| Pine | Norse | Common | Pine trees |
+| Birch | Norse | Common | Birch trees |
+| Cypress | Bayou | Common | Cypress trees |
+| Bamboo | China | Common | Bamboo groves |
+| Teak | India | Uncommon | Teak trees |
+| Sandalwood | India | Rare | Sandalwood trees |
+| Andean Alder | Peru | Uncommon | Alder groves |
+| Olive Wood | Greece | Uncommon | Olive trees |
+| English Oak | Camelot | Uncommon | Great oaks |
+| Bog Oak | Irish Bog (Bayou extension) | Rare | Preserved in bog for 1000+ years |
+| Yew | Camelot | Rare | Ancient yew trees |
+| Luminwood | Fae Kingdom | Legendary | Only grows in Fae light |
+| Redwood | Redwood Park | Rare | Giant redwoods |
+| Chestnut | Appalachian | Rare | Chestnut trees (near-extinct) |
+| Lodgepole Pine | Yellowstone | Common | Lodgepole forest |
+| Juniper | Colorado Plateau | Uncommon | Juniper shrubs |
+| Desert Ironwood | Superstition Mtns | Rare | Ironwood trees |
+| Canopy Wood | Canopy City | Uncommon | Upper canopy branches |
+| Shadow Wood | Undercity | Rare | Trees that grow in darkness |
+| Petrified Wood | Petrified Forest | Rare | Fossilized trees |
+| Lacquer Tree Sap | China | Uncommon | Lacquer trees |
+
+#### STONE (14 types)
+| Material | Zone | Rarity | Source |
+|---------|------|--------|--------|
+| Limestone | Camelot | Common | Quarry |
+| Sandstone | Egypt | Common | Desert outcrops |
+| Marble | Greece | Uncommon | Marble quarries |
+| Andesite | Peru | Common | Volcanic rock |
+| Granite | Superstition Mtns | Common | Mountain rock |
+| Basalt | Yellowstone | Uncommon | Volcanic deposits |
+| Obsidian | Yellowstone | Rare | Volcanic glass |
+| Runestone | Norse | Rare | Enchanted stone |
+| Crystal | Crystal Chamber | Uncommon | Geode formations |
+| Agate | Petrified Forest | Uncommon | Mineral deposits |
+| Chalcedony | Petrified Forest | Uncommon | Mineral deposits |
+| Turquoise | Colorado Plateau | Rare | Mineral veins |
+| Abyssal Stone | Atlantis | Rare | Deep sea floor |
+| Calcium Crystal | Bone Room | Rare | Bone mineral deposits |
+| Fossil | Bone Room | Rare | Ancient remains |
+| Cave Pearl | Cave City | Uncommon | Cave formations |
+| Ancient Brick | Catacombs | Common | Old construction |
+| Deep Sea Crystal | Atlantis | Legendary | Abyssal depths |
+
+#### METAL (8 types)
+| Material | Zone | Rarity | Source |
+|---------|------|--------|--------|
+| Iron | Norse (bog iron) | Common | Bog iron deposits |
+| Copper | India | Common | Copper veins |
+| Bronze | Greece | Uncommon | Alloy (copper + tin) |
+| Gold Ore | Peru | Rare | Gold veins |
+| Silver | Camelot | Uncommon | Silver veins |
+| Star Iron | Cosmology | Legendary | Meteoric iron |
+| Undercity Iron | Undercity | Uncommon | Shadow-forged iron |
+| Desert Glass | Egypt | Rare | Lightning-fused sand |
+
+#### PLANT & FIBER (15 types)
+| Material | Zone | Rarity | Source |
+|---------|------|--------|--------|
+| Reed | Mesopotamia | Common | River reeds |
+| Papyrus | Egypt | Common | Papyrus plants |
+| Moss | Various | Common | Multiple zones |
+| Bog Moss | Bayou | Common | Bog floor |
+| Spanish Moss | Bayou | Common | Hanging from trees |
+| Rose | Garden | Common | Rose bushes |
+| Thyme | Garden | Common | Herb gardens |
+| Heather | Norse | Common | Heather fields |
+| Thistle | Camelot | Common | Thistle plants |
+| Vine | Various | Common | Climbing vines |
+| Thorn Vine | Poison Garden | Uncommon | Living thorns |
+| Nightshade | Poison Garden | Rare | Poisonous plant |
+| Fern | Redwood | Common | Forest floor |
+| Ginseng | Appalachian | Rare | Mountain herb |
+| Fairy Silk | Fae Kingdom | Rare | Spun by Fae creatures |
+| Leaf Silk | Canopy City | Uncommon | Canopy leaves |
+| Cave Mushroom | Cave City | Common | Cave floors |
+| Glow Moss | Cave City/Catacombs | Uncommon | Dark places |
+| Shadow Moss | Catacombs | Uncommon | Underground |
+| Tidal Moss | Tidal Caves | Common | Coastal caves |
+| Fog Moss | Redwood | Common | Fog-dwelling |
+
+#### ORGANIC (8 types)
+| Material | Zone | Rarity | Source |
+|---------|------|--------|--------|
+| Amber | Norse/Garden | Uncommon | Fossilized resin |
+| Resin | Various | Common | Tree sap |
+| Honey | Meadery | Common | Beehives |
+| Beeswax | Meadery | Common | Beehives |
+| Lacquer | China | Uncommon | Lacquer tree processing |
+| Indigo | India | Common | Indigo plants |
+| Geyser Salt | Yellowstone | Uncommon | Mineral deposits |
+| Hops | Meadery | Common | Hop vines |
+| Wheat | Meadery | Common | Fields |
+| Pearl | Atlantis | Rare | Oyster beds |
+| Coral | Atlantis | Uncommon | Coral reefs |
+| Sea Glass | Tidal Caves | Common | Weathered glass |
+| Cave Pearl | Tidal Caves | Uncommon | Cave formations |
+| Venom Sac | Poison Garden | Rare | Poisonous creatures |
+
+#### MAGICAL (7 types)
+| Material | Zone | Rarity | Source |
+|---------|------|--------|--------|
+| Fae Dust | Fae Kingdom | Uncommon | Fae creatures |
+| Luminite | Fae Kingdom | Rare | Fae mineral |
+| Resonance Crystal | Crystal Chamber | Rare | Tuned geode crystal |
+| Gargoyle Stone | Catacombs | Rare | Sentient stone |
+| Dragon Scale | Canopy City | Legendary | Dragon kittens |
+| Cosmic Crystal | Cosmology | Legendary | Star material |
+| Ghost Crystal | Undercity | Rare | Spirit residue |
+| Star Dust | Cosmology | Rare | Cosmic gathering |
+
+---
+
+## Building System
+
+### Building Complexity Tiers
+
+#### Tier 1 — Simple (2-3 common materials)
+Examples: Basic walls, simple floors, wooden fences, torch holders
+- Oak wall = Oak + Resin
+- Pine floor = Pine + Resin
+- Reed mat = Reed + Moss
+- Torch holder = Iron + Beeswax
+
+#### Tier 2 — Functional (4-6 materials, some uncommon)
+Examples: Workbenches, storage chests, decorative pillars, garden plots
+- Crafting bench = Oak + Iron + Resin + Beeswax
+- Storage chest = Cypress + Iron + Bog Moss + Amber
+- Marble column = Marble + Bronze + Olive Wood
+- Garden planter = Oak + Rose + Thyme + Willow
+
+#### Tier 3 — Ornate (6-8 materials, includes rare)
+Examples: Carved thrones, stained glass windows, altars, bridges
+- Norse throne = Yew + Bog Iron + Runestone + Amber + Heather + Pine
+- Stained window = Sandstone + Desert Glass + Gold Ore + Resin
+- Fae altar = Luminwood + Luminite + Fae Dust + Fairy Silk + Crystal
+- Camelot round table = English Oak + Yew + Limestone + Bronze + Amber
+
+#### Tier 4 — Master (8-12 materials, multi-zone, includes legendary)
+Examples: Zone entrances, grand architecture, magical constructs
+- Geode gate = Crystal + Resonance Crystal + Luminite + Bog Oak + Gold Ore + Marble + Star Dust + Dragon Scale
+- Fae Kingdom portal = Luminwood + Luminite + Fae Dust + Fairy Silk + Resonance Crystal + Bog Oak + Crystal
+- Observatory dome = Star Iron + Cosmic Crystal + Marble + Gold Ore + Desert Glass + Luminwood + Resin
+
+#### Tier 5 — Legendary (12+ materials from every level)
+Examples: The Inn itself, the Final Room, the Whisper Layer
+- The Inn (main structure) = Oak + Limestone + Crystal + Bog Oak + Luminwood + Marble + Gold Ore + Yew + Resonance Crystal + Star Iron + Dragon Scale + Resonance Crystal
+- The Final Room = materials from every zone + Resonance Crystal + the player's gathered knowledge
+
+### Crafting Stations
+- **The Forge** (Main Floor) — smelts metals, shapes stone
+- **The Workshop** (Main Floor) — combines wood, fiber, plant materials
+- **The Crystal Chamber** (Downstairs) — combines magical materials
+- **The Observatory** (Upstairs) — combines cosmic materials
+- **The Fae Workshop** (Fae Kingdom) — combines Fae-specific materials
+
+### Gathering Tools
+- **Axe** — wood (upgrades: iron axe → bronze axe → gold axe → star iron axe)
+- **Pick** — stone (upgrades: iron pick → bronze pick → crystal pick → star iron pick)
+- **Sickle** — plants/fiber (upgrades: iron sickle → silver sickle → fae sickle)
+- **Net** — Fae/magical (upgrades: basic net → silk net → fairy silk net)
+- **Fishing Rod** — water materials (upgrades: basic → bone → crystal)
+
+### Gathering Dynamic (Don't Starve Style)
+- Resources respawn on timers (common: 5 min, uncommon: 15 min, rare: 30 min, legendary: 1 hour)
+- Tools have durability and must be repaired or replaced
+- Some materials require specific tools (bog oak needs iron axe, luminwood needs fae axe)
+- Seasonal events change available materials
+- The more you gather from a zone, the more the zone "remembers" you (Whisper Layer integration)
+
