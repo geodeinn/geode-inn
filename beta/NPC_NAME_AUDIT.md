@@ -8,7 +8,7 @@
 3. **Cthulhu → Naut** — Lovecraft character. "Naut" = from nautilus (cephalopod), scholarly, short and memorable. "Naut, the Deep Scholar."
 
 ### Name corrected (not a movie reference — real friend):
-4. **John Myers → John** — "Myers" surname matched a Hellboy movie character, causing a false positive. "John" is a real friend of Krista's who visits the Inn occasionally — not a permanent NPC. Surname dropped to avoid coincidence. Character marked as "Archive (visitor) — a friend who visits occasionally."
+4. **Loven → Lozen** — "Myers" surname matched a Hellboy movie character, causing a false positive. "Lozen" is a real friend of Krista's who visits the Inn occasionally — not a permanent NPC. Surname dropped to avoid coincidence. Character marked as "Archive (visitor) — a friend who visits occasionally."
 
 ### Voice profiles cleaned (actor names removed):
 All real actor names removed from voice profiles. Now purely descriptive cadences:
@@ -23,7 +23,7 @@ All real actor names removed from voice profiles. Now purely descriptive cadence
 - WorldMap Peru artist corrected from "Olmos × Royo" (actor) to "Guo Xi × Royo" (correct visual artist).
 
 ## Confirmed clean (29 unique NPC names, all original or public domain):
-Bethany, Beverley, Bog Fairy Golem (The), Brim, Brindle, Crone (The), Elora Nightbloom, Eres, Evan, Joe, John (visiting friend), Kathy, Lark, Malachi, Monsieur Sentient, Naut, Oleander, Owl (The), Rachel Kaiser, Reader (The), River, Selkie, Stephanie, Teacher (The), Tumble, Wanderer (The), Will, Zack, Allfather (The)
+Bethany, Beverley, Bog Fairy Golem (The), Brim, Brindle, Crone (The), Elora Nightbloom, Eres, Evan, Joe, Lozen (visiting friend), Kathy, Lark, Malachi, Monsieur Sentient, Naut, Oleander, Owl (The), Rachel Kaiser, Reader (The), River, Selkie, Stephanie, Teacher (The), Tumble, Wanderer (The), Will, Zack, Allfather (The)
 
 ## Kept as production direction (not NPC names):
 - Anthony Hopkins' eyes — confirmed design decision for The Reader's eye rendering. Lives in PROMPT_SCRIPTS.md only.
