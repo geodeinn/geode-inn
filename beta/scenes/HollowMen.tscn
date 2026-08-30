@@ -1,0 +1,103 @@
+[gd_scene load_steps=3 format=3 uid="uid://bmm005"]
+
+[ext_resource type="Script" path="res://scripts/games/HollowMen.gd" id="1_hollow"]
+
+[sub_resource type="LabelSettings" id="Label_title"]
+font_size = 48
+font_color = Color(0.7, 0.65, 0.55, 0.8)
+
+[sub_resource type="LabelSettings" id="Label_poem"]
+font_size = 18
+font_color = Color(0.6, 0.55, 0.45, 0.6)
+
+[node name="HollowMen" type="Node2D"]
+script = ExtResource("1_hollow")
+
+[node name="Background" type="ColorRect" parent="."]
+layout_mode = 1
+offset_right = 1920.0
+offset_bottom = 1080.0
+color = Color(0.03, 0.03, 0.02, 1)
+
+[node name="LevelArt" type="TextureRect" parent="."]
+layout_mode = 1
+offset_right = 1920.0
+offset_bottom = 1080.0
+
+[node name="TitleOverlay" type="Control" parent="."]
+visible = false
+layout_mode = 1
+offset_right = 1920.0
+offset_bottom = 1080.0
+
+[node name="LevelTitle" type="Label" parent="TitleOverlay"]
+layout_mode = 1
+anchors_preset = 7
+anchor_left = 0.5
+anchor_top = 1.0
+anchor_right = 0.5
+anchor_bottom = 1.0
+offset_left = -500.0
+offset_top = -400.0
+offset_right = 500.0
+offset_bottom = -300.0
+grow_horizontal = 2
+grow_vertical = 0
+theme_override_settings = SubResource("Label_title")
+text = ""
+horizontal_alignment = 1
+
+[node name="LevelSubtitle" type="Label" parent="TitleOverlay"]
+layout_mode = 1
+anchors_preset = 7
+anchor_left = 0.5
+anchor_top = 1.0
+anchor_right = 0.5
+anchor_bottom = 1.0
+offset_left = -500.0
+offset_top = -300.0
+offset_right = 500.0
+offset_bottom = -250.0
+grow_horizontal = 2
+grow_vertical = 0
+theme_override_settings = SubResource("Label_poem")
+text = ""
+horizontal_alignment = 1
+
+[node name="PoemExcerpt" type="Label" parent="TitleOverlay"]
+layout_mode = 1
+anchors_preset = 7
+anchor_left = 0.5
+anchor_top = 1.0
+anchor_right = 0.5
+anchor_bottom = 1.0
+offset_left = -600.0
+offset_top = -220.0
+offset_right = 600.0
+offset_bottom = -150.0
+grow_horizontal = 2
+grow_vertical = 0
+theme_override_settings = SubResource("Label_poem")
+text = ""
+horizontal_alignment = 1
+autowrap_mode = 2
+
+[node name="WhisperText" type="RichTextLabel" parent="."]
+visible = false
+layout_mode = 1
+anchors_preset = 8
+anchor_left = 0.5
+anchor_top = 0.5
+anchor_right = 0.5
+anchor_bottom = 0.5
+offset_left = -600.0
+offset_top = -100.0
+offset_right = 600.0
+offset_bottom = 100.0
+grow_horizontal = 2
+grow_vertical = 2
+theme_override_colors/font_color = Color(0.9, 0.85, 0.75, 0.9)
+theme_override_font_sizes/font_size = 28
+bbcode_enabled = true
+text = ""
+horizontal_alignment = 1

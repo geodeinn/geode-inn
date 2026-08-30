@@ -1,0 +1,144 @@
+[gd_scene load_steps=3 format=3 uid="uid://bmm008"]
+
+[ext_resource type="Script" path="res://scripts/EndgameChoice.gd" id="1_end"]
+
+[node name="EndgameChoice" type="Control"]
+layout_mode = 3
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+script = ExtResource("1_end")
+
+[node name="Background" type="ColorRect" parent="."]
+layout_mode = 1
+offset_right = 1920.0
+offset_bottom = 1080.0
+color = Color(0.02, 0.02, 0.02, 1)
+
+[node name="Title" type="Label" parent="."]
+layout_mode = 1
+anchors_preset = 8
+anchor_left = 0.5
+anchor_top = 0.5
+anchor_right = 0.5
+anchor_bottom = 0.5
+offset_left = -500.0
+offset_top = -400.0
+offset_right = 500.0
+offset_bottom = -350.0
+grow_horizontal = 2
+grow_vertical = 2
+theme_override_colors/font_color = Color(0.7, 0.65, 0.55, 0.8)
+theme_override_font_sizes/font_size = 36
+text = "The Inn has been watching. The Shadow has been waiting."
+horizontal_alignment = 1
+
+[node name="Prompt" type="Label" parent="."]
+layout_mode = 1
+anchors_preset = 8
+anchor_left = 0.5
+anchor_top = 0.5
+anchor_right = 0.5
+anchor_bottom = 0.5
+offset_left = -400.0
+offset_top = -290.0
+offset_right = 400.0
+offset_bottom = -250.0
+grow_horizontal = 2
+grow_vertical = 2
+theme_override_colors/font_color = Color(0.6, 0.55, 0.4, 0.7)
+theme_override_font_sizes/font_size = 20
+text = "What do you do?"
+horizontal_alignment = 1
+
+[node name="Choices" type="HBoxContainer" parent="."]
+layout_mode = 1
+anchors_preset = 8
+anchor_left = 0.5
+anchor_top = 0.5
+anchor_right = 0.5
+anchor_bottom = 0.5
+offset_left = -700.0
+offset_top = -180.0
+offset_right = 700.0
+offset_bottom = 180.0
+grow_horizontal = 2
+grow_vertical = 2
+theme_override_constants/separation = 40
+
+[node name="Stay" type="VBoxContainer" parent="Choices"]
+layout_mode = 2
+custom_minimum_size = Vector2(200, 300)
+theme_override_constants/separation = 15
+
+[node name="Label" type="Label" parent="Choices/Stay"]
+layout_mode = 2
+theme_override_colors/font_color = Color(0.55, 0.35, 0.15, 1)
+theme_override_font_sizes/font_size = 32
+text = "STAY"
+horizontal_alignment = 1
+
+[node name="Desc" type="Label" parent="Choices/Stay"]
+layout_mode = 2
+theme_override_colors/font_color = Color(0.5, 0.45, 0.35, 0.7)
+theme_override_font_sizes/font_size = 14
+text = "Remain in the Inn. The Inn records everything. You become part of the archive."
+horizontal_alignment = 1
+autowrap_mode = 2
+
+[node name="Button" type="Button" parent="Choices/Stay"]
+layout_mode = 2
+custom_minimum_size = Vector2(0, 50)
+text = "Stay"
+
+[node name="Leave" type="VBoxContainer" parent="Choices"]
+layout_mode = 2
+custom_minimum_size = Vector2(200, 300)
+theme_override_constants/separation = 15
+
+[node name="Label" type="Label" parent="Choices/Leave"]
+layout_mode = 2
+theme_override_colors/font_color = Color(0.3, 0.4, 0.6, 1)
+theme_override_font_sizes/font_size = 32
+text = "LEAVE"
+horizontal_alignment = 1
+
+[node name="Desc" type="Label" parent="Choices/Leave"]
+layout_mode = 2
+theme_override_colors/font_color = Color(0.5, 0.45, 0.35, 0.7)
+theme_override_font_sizes/font_size = 14
+text = "Exit the Inn. The Inn keeps its records. Your story becomes the daily comic."
+horizontal_alignment = 1
+autowrap_mode = 2
+
+[node name="Button" type="Button" parent="Choices/Leave"]
+layout_mode = 2
+custom_minimum_size = Vector2(0, 50)
+text = "Leave"
+
+[node name="Hide" type="VBoxContainer" parent="Choices"]
+layout_mode = 2
+custom_minimum_size = Vector2(200, 300)
+theme_override_constants/separation = 15
+
+[node name="Label" type="Label" parent="Choices/Hide"]
+layout_mode = 2
+theme_override_colors/font_color = Color(0.3, 0.3, 0.3, 1)
+theme_override_font_sizes/font_size = 32
+text = "HIDE"
+horizontal_alignment = 1
+
+[node name="Desc" type="Label" parent="Choices/Hide"]
+layout_mode = 2
+theme_override_colors/font_color = Color(0.5, 0.45, 0.35, 0.7)
+theme_override_font_sizes/font_size = 14
+text = "Leave something in the Nest the Inn cannot record. The blind spot made intentional."
+horizontal_alignment = 1
+autowrap_mode = 2
+
+[node name="Button" type="Button" parent="Choices/Hide"]
+layout_mode = 2
+custom_minimum_size = Vector2(0, 50)
+text = "Hide"

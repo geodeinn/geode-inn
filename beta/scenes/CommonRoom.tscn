@@ -1,0 +1,98 @@
+[gd_scene load_steps=4 format=3 uid="uid://bmm002"]
+
+[ext_resource type="Script" path="res://scripts/CommonRoomHub.gd" id="1_hub"]
+
+[sub_resource type="StyleBoxFlat" id="Style_exit"]
+bg_color = Color(0.12, 0.09, 0.05, 0.9)
+border_width_left = 2
+border_width_top = 2
+border_width_right = 2
+border_width_bottom = 2
+border_color = Color(0.5, 0.4, 0.2, 0.6)
+corner_radius_top_left = 8
+corner_radius_top_right = 8
+corner_radius_bottom_right = 8
+corner_radius_bottom_left = 8
+
+[sub_resource type="LabelSettings" id="Label_npc"]
+font_size = 14
+font_color = Color(0.8, 0.7, 0.5, 0.9)
+
+[node name="CommonRoom" type="Node2D"]
+script = ExtResource("1_hub")
+
+[node name="Background" type="TextureRect" parent="."]
+offset_right = 1920.0
+offset_bottom = 1080.0
+texture = ExtResource("2_bg")
+
+[node name="Exits" type="Control" parent="."]
+layout_mode = 1
+offset_right = 1920.0
+offset_bottom = 1080.0
+
+[node name="NPCLayer" type="Control" parent="."]
+layout_mode = 1
+offset_right = 1920.0
+offset_bottom = 1080.0
+
+[node name="DialoguePanel" type="Panel" parent="."]
+visible = false
+layout_mode = 1
+anchors_preset = 7
+anchor_left = 0.5
+anchor_top = 1.0
+anchor_right = 0.5
+anchor_bottom = 1.0
+offset_left = -700.0
+offset_top = -300.0
+offset_right = 700.0
+offset_bottom = -20.0
+grow_horizontal = 2
+grow_vertical = 0
+
+[node name="SpeakerName" type="Label" parent="DialoguePanel"]
+layout_mode = 1
+offset_left = 30.0
+offset_top = 20.0
+offset_right = 200.0
+offset_bottom = 50.0
+theme_override_colors/font_color = Color(0.85, 0.65, 0.3, 1)
+theme_override_font_sizes/font_size = 24
+
+[node name="VoiceProfile" type="Label" parent="DialoguePanel"]
+layout_mode = 1
+offset_left = 30.0
+offset_top = 50.0
+offset_right = 600.0
+offset_bottom = 70.0
+theme_override_colors/font_color = Color(0.5, 0.45, 0.35, 0.7)
+theme_override_font_sizes/font_size = 12
+text = ""
+
+[node name="DialogueText" type="RichTextLabel" parent="DialoguePanel"]
+layout_mode = 1
+offset_left = 30.0
+offset_top = 80.0
+offset_right = 1340.0
+offset_bottom = 180.0
+bbcode_enabled = true
+text = ""
+
+[node name="Responses" type="VBoxContainer" parent="DialoguePanel"]
+layout_mode = 1
+offset_left = 30.0
+offset_top = 200.0
+offset_right = 1340.0
+offset_bottom = 280.0
+theme_override_constants/separation = 10
+
+[node name="ExitHint" type="Label" parent="."]
+layout_mode = 1
+offset_left = 20.0
+offset_top = 20.0
+offset_right = 400.0
+offset_bottom = 50.0
+theme_override_colors/font_color = Color(0.5, 0.45, 0.35, 0.6)
+theme_override_font_sizes/font_size = 14
+text = "Click an exit to travel. Click an NPC to talk."

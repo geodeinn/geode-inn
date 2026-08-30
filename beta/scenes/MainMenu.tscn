@@ -1,0 +1,73 @@
+[gd_scene load_steps=3 format=3 uid="uid://bmm001"]
+
+[ext_resource type="Script" path="res://scripts/MainMenu.gd" id="1_main"]
+
+[sub_resource type="LabelSettings" id="LabelSettings_title"]
+font_size = 72
+font_color = Color(0.85, 0.65, 0.3, 1)
+
+[node name="MainMenu" type="Control"]
+layout_mode = 3
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+
+[node name="Background" type="ColorRect" parent="."]
+layout_mode = 1
+offset_right = 1920.0
+offset_bottom = 1080.0
+color = Color(0.08, 0.06, 0.04, 1)
+
+[node name="VBox" type="VBoxContainer" parent="."]
+layout_mode = 1
+anchors_preset = 8
+anchor_left = 0.5
+anchor_top = 0.5
+anchor_right = 0.5
+anchor_bottom = 0.5
+offset_left = -300.0
+offset_top = -200.0
+offset_right = 300.0
+offset_bottom = 200.0
+grow_horizontal = 2
+grow_vertical = 2
+theme_override_constants/separation = 40
+
+[node name="Title" type="Label" parent="VBox"]
+layout_mode = 2
+theme_override_settings = SubResource("LabelSettings_title")
+text = "The Geode Inn"
+
+[node name="Subtitle" type="Label" parent="VBox"]
+layout_mode = 2
+text = "Complete Story Beta"
+
+[node name="Spacer" type="Control" parent="VBox"]
+layout_mode = 2
+custom_minimum_size = Vector2(0, 20)
+
+[node name="NewGame" type="Button" parent="VBox"]
+layout_mode = 2
+custom_minimum_size = Vector2(0, 50)
+text = "New Journey"
+
+[node name="Continue" type="Button" parent="VBox"]
+layout_mode = 2
+custom_minimum_size = Vector2(0, 50)
+text = "Continue"
+
+[node name="Settings" type="Button" parent="VBox"]
+layout_mode = 2
+custom_minimum_size = Vector2(0, 50)
+text = "Settings"
+
+[node name="Quit" type="Button" parent="VBox"]
+layout_mode = 2
+custom_minimum_size = Vector2(0, 50)
+text = "Leave the Inn"
+
+[node name="Footer" type="Label" parent="VBox"]
+layout_mode = 2
+text = "The door is open."
