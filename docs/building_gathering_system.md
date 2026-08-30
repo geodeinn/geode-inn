@@ -391,3 +391,51 @@ Each historical building was reverse-engineered into its physical components, th
 
 ### Total Materials: 72
 ### Total Building Recipes: 106
+
+---
+
+## Cave & Underground Ecosystem — Full Integration
+
+### Materials Added (15):
+**Cave City (Doré):** Cave Mushroom, Glow Moss, Cave Pearl, Amber Crystal
+**Bone Room (O'Keeffe×Klimt):** Bone, Calcium Crystal
+**Tidal Caves (Wyndham Lewis):** Basalt, Sea Glass, Salt Crystal, Tidal Moss, Bioluminescent Algae
+**Catacombs (Klimt):** Shadow Moss, Gargoyle Stone
+**Undercity (Gothic):** Undercity Iron
+**Poison Garden (Gorey):** Venom Sac
+
+### Building Recipes Added (42):
+
+**Cave City (7 recipes):** Subtractive architecture — carved INTO the rock, not added to it
+- Carved Threshold Niche → The Subtractive Cathedral (Tier 1-5)
+- The Subtractive Cathedral: "The rock was always the building. You just removed what wasn't."
+
+**Bone Room (7 recipes):** O'Keeffe bone architecture — the structure that outlasts the body
+- Bone Display Niche → The Charnel Cathedral (Tier 1-5)
+- The Charnel Cathedral: Sedlec Ossuary philosophy — death made architectural
+
+**Tidal Caves (8 recipes):** Vorticist cave architecture — angular, mechanical, tidal
+- Tidal Pool Shelter → The Vorticist Cathedral (Tier 1-5)
+- The Vorticist Cathedral: BLAST and BLESS in basalt — the vortex IS the building
+
+**Catacombs (6 recipes):** Klimt golden underground — death and life on the same wall
+- Catacomb Niche → The Golden Crypt (Tier 1-5)
+- The Golden Crypt: "Death, in the Geode Inn, is not cold. Death is golden."
+
+**Undercity (5 recipes):** Gothic inventor's city — privacy where you become yourself
+- Workshop Lamp Post → The Inventor's Atelier (Tier 1-5)
+- The Inventor's Atelier: "The room the child eventually built. The room that was THEIRS."
+
+**Poison Garden (4 recipes):** Gorey walled garden — the macabre as cultivation
+- Thorn Archway → The Gorey Greenhouse (Tier 1-4)
+- The Gorey Greenhouse: the uncanny as cultivation, the dangerous as curation
+
+**Petra (5 recipes):** O'Keeffe extrovert — carved architecture that ANNOUNCES itself
+- Carved Sandstone Niche → The Monastery (Tier 1-5)
+- The Monastery: "The quiet building that is also the biggest. The adequate is: the building is the rock is the building."
+
+### Final Database Totals:
+- **Materials:** 87 (72 surface + 15 underground)
+- **Building Recipes:** 148 (106 historical + 42 underground)
+- **Recipes by Tier:** T1: 31, T2: 33, T3: 35, T4: 25, T5: 24
+- **Every zone in the Geode Inn now has materials AND building recipes**
