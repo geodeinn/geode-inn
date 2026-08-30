@@ -49,7 +49,7 @@ that tells you exactly who's talking before the name appears.
 
 | NPC | Hook Word(s) | Voice Profile | Zone | Notes |
 |-----|--------------|---------------|------|-------|
-| River (The Sentinel) | "Halt." | Guard authority | Entrance | Golden Gloves champion. INFJ. Guards the Inn. |
+| River (The Sentinel) | "Stand." | Guard authority | Common Room (patrols all zones) | Golden Gloves champion. INFJ. 6th playable class. Guards the boundary between 42Hz and 84Hz. Says "Stand" once — never repeats it. Full questline: 10 quests across 3 acts. |
 | Player Guide | "Ready?" | Jennifer Hale | Tutorial | Welcoming. Guides new players through first steps. |
 | The Bog Fairy Golem | "Grow." | Bayou earth voice | Bayou | Krista's avatar. Made of swamp. 42Hz Song animated. |
 | Charles (Chameleon Druid) | "What was I?" | Shifting self | Garden/Forest | Shapeshifter. Glioblastoma woven into character. |
