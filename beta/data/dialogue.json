@@ -647,7 +647,7 @@
   {
     "npcName": "Bethany",
     "zone": "Tavern",
-    "voiceProfile": "Katey Sagal \u2014 warm, practical, the kind of voice that carries over a crowd",
+    "voiceProfile": "Warm, practical, the kind of voice that carries over a crowd",
     "conditionTag": "first_visit",
     "priority": 1,
     "isWhisperLayer": false,
@@ -689,7 +689,7 @@
     "dialogueId": "evan_001"
   },
   {
-    "npcName": "Elora Nightbloom",
+    "npcName": "Briar Nightbloom",
     "zone": "Market",
     "voiceProfile": "Illusion-based charm \u2014 warm but always performing slightly",
     "conditionTag": "first_visit",

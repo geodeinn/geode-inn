@@ -41,6 +41,12 @@ const GAME_REWARDS := {
 		"stone_id": "",
 		"unlocks": "water_monster_select",
 		"description": "A pearl from the depths, earned by becoming the monster of the loch."
+	},
+	"sandfall": {
+		"stone_name": "Desert Rose Selenite",
+		"stone_id": "",
+		"unlocks": "bone_room_access",
+		"description": "The stone that blooms in sand. Earned by descending through seven levels of simplification into the geode."
 	}
 }
 
