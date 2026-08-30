@@ -1,0 +1,322 @@
+[
+  {
+    "npcName": "Lark",
+    "zone": "Tutorial",
+    "voiceProfile": "Warm, clear, encouraging without being condescending",
+    "conditionTag": "tutorial",
+    "priority": 1,
+    "isWhisperLayer": false,
+    "lines": [
+      "Ready?",
+      "Good. That's all I need \u2014 readiness. Not skill, not knowledge, not experience. Just the willingness to take the first step. The Inn is big. It's bigger than it looks, and it looks pretty big. But every journey is just steps, and every step starts with ready. So. Ready?"
+    ],
+    "responses": [
+      "I'm ready.",
+      "Tell me about the Inn first.",
+      "What happens if I'm not ready?"
+    ],
+    "setFlags": [
+      "tutorial_started"
+    ],
+    "questLink": "",
+    "dialogueId": "lark_001"
+  },
+  {
+    "npcName": "Brim",
+    "zone": "Hearth",
+    "voiceProfile": "Witchy mischief \u2014 cackling under the surface",
+    "conditionTag": "first_visit",
+    "priority": 1,
+    "isWhisperLayer": false,
+    "lines": [
+      "Watch this.",
+      "See that cup? That cup is now a toad. ...Give it back. No, don't give it back \u2014 the toad is better. The toad has personality. The cup was boring. Everything in this Inn should have personality. That's my professional opinion. I have many professional opinions. Most of them are unprofessional."
+    ],
+    "responses": [
+      "Can you teach me transformation?",
+      "What else can you change?",
+      "The toad looks unhappy."
+    ],
+    "setFlags": [
+      "met_brim"
+    ],
+    "questLink": "",
+    "dialogueId": "brim_001"
+  },
+  {
+    "npcName": "Naut",
+    "zone": "Fireplace",
+    "voiceProfile": "Scholarly, quiet, genteel \u2014 spectacles and a reading lamp",
+    "conditionTag": "first_visit",
+    "priority": 1,
+    "isWhisperLayer": false,
+    "lines": [
+      "Fascinating.",
+      "No, not you \u2014 the text. This passage. The translation drift between Akkadian and Sumerian is... forgive me. I don't get visitors. Most people find me visually off-putting, which I find visually off-putting about them. I'm a scholar. I read. I catalog. I occasionally recommend books to people who haven't screamed and left yet. You haven't screamed and left yet. Would you like a recommendation?"
+    ],
+    "responses": [
+      "What are you reading?",
+      "I'd love a recommendation.",
+      "What are you, exactly?"
+    ],
+    "setFlags": [
+      "met_naut"
+    ],
+    "questLink": "rare_book_retrieval",
+    "dialogueId": "naut_001"
+  },
+  {
+    "npcName": "Lozen",
+    "zone": "Archive",
+    "voiceProfile": "Lovecraftian scholar \u2014 hushed, careful, always looking over his shoulder",
+    "conditionTag": "first_visit",
+    "priority": 1,
+    "isWhisperLayer": false,
+    "lines": [
+      "In the margins.",
+      "That's where the real text lives. What's printed is the story they wanted you to read. What's in the margins \u2014 the notes, the crossings-out, the librarian's pencil scrawl \u2014 that's where the truth hides. I read margins. I have restricted access, which means I can see what they don't want seen, which means I see more than the unrestricted readers. Funny how that works."
+    ],
+    "responses": [
+      "What have you found in the margins?",
+      "Why is your access restricted?",
+      "Show me something hidden."
+    ],
+    "setFlags": [
+      "met_lozen"
+    ],
+    "questLink": "",
+    "dialogueId": "lozen_001"
+  },
+  {
+    "npcName": "River",
+    "zone": "Common Room",
+    "voiceProfile": "Guard authority \u2014 measured, warming slightly",
+    "conditionTag": "standing_stones_complete",
+    "priority": 1,
+    "isWhisperLayer": false,
+    "lines": [
+      "You won. Good. Winning matters here \u2014 not because of pride, but because the Inn responds to capability. Every game you win, the 42Hz gets stronger. The Song gets louder. Things grow faster. That's not always good."
+    ],
+    "responses": [
+      "Growth can be bad?",
+      "Tell me about the gloves.",
+      "What are you guarding against?"
+    ],
+    "setFlags": [
+      "river_round_1"
+    ],
+    "questLink": "river_quest_2",
+    "dialogueId": "river_002"
+  },
+  {
+    "npcName": "River",
+    "zone": "World Map",
+    "voiceProfile": "Guard authority \u2014 watchful, studying the gaps",
+    "conditionTag": "zones_unlocked_3",
+    "priority": 1,
+    "isWhisperLayer": false,
+    "lines": [
+      "Three zones open. Three doors unlocked. Three places the Inn reaches now. Every pin you light is a thread the Inn pulls into itself. More threads, more surface area. More surface area, more places for something to get in."
+    ],
+    "responses": [
+      "You're worried.",
+      "What could get in?",
+      "How do you guard a window?"
+    ],
+    "setFlags": [
+      "river_weight"
+    ],
+    "questLink": "river_quest_3",
+    "dialogueId": "river_003"
+  },
+  {
+    "npcName": "River",
+    "zone": "Common Room",
+    "voiceProfile": "Guard authority \u2014 low, careful, choosing words precisely",
+    "conditionTag": "whisper_layer_aware",
+    "priority": 1,
+    "isWhisperLayer": true,
+    "lines": [
+      "You've been to the Cinema.",
+      "I know. Not because anyone told me. Because the Inn changed when you came back. The hum shifted. It does that when someone learns something the Inn didn't want them to know. I've felt that shift before. Every time, it's the same: someone goes to the Cinema, comes back different, and the Inn adjusts. The Inn adjusts. Think about that. The thing being guarded is adjusting to the guard."
+    ],
+    "responses": [
+      "The Inn is alive?",
+      "You've known about the Whisper Layer?",
+      "Are you guarding me or watching me?"
+    ],
+    "setFlags": [
+      "river_whisper"
+    ],
+    "questLink": "river_quest_4",
+    "dialogueId": "river_004"
+  },
+  {
+    "npcName": "River",
+    "zone": "Catacombs Entrance",
+    "voiceProfile": "Guard authority \u2014 protective, slightly out of element",
+    "conditionTag": "catacombs_entered",
+    "priority": 1,
+    "isWhisperLayer": false,
+    "lines": [
+      "I don't go down. That's not my level. The catacombs are the archive's roots \u2014 old, heavy, settled. My place is the surface, where things grow and things try to get in. But you're going down, and the 42Hz is thinner down there. So I'm walking you to the door."
+    ],
+    "responses": [
+      "Why is 42Hz thinner underground?",
+      "Something else?",
+      "You're scared."
+    ],
+    "setFlags": [
+      "river_dark"
+    ],
+    "questLink": "river_quest_5",
+    "dialogueId": "river_005"
+  },
+  {
+    "npcName": "River",
+    "zone": "Common Room",
+    "voiceProfile": "Guard authority \u2014 shaken for the first time, voice lower than usual",
+    "conditionTag": "shadow_inn_entered",
+    "priority": 1,
+    "isWhisperLayer": true,
+    "lines": [
+      "The brownies.",
+      "I've watched them for months. Brindle, Cobble, Thatch. They work. They sweep. They carry wrenches. I thought they were... furniture. Functional. Cute. The way the Inn makes things \u2014 charming on the surface, heavy underneath. They're not furniture. They're wiring. Every sweep, every repair, every wrench turn \u2014 they're connecting something. Building a network. And they don't know it."
+    ],
+    "responses": [
+      "The Owl's network.",
+      "Can we stop them?",
+      "What do we do?"
+    ],
+    "setFlags": [
+      "river_circuit"
+    ],
+    "questLink": "river_quest_6",
+    "dialogueId": "river_006"
+  },
+  {
+    "npcName": "River",
+    "zone": "Staircase",
+    "voiceProfile": "Guard authority \u2014 feeling the frequency shift, voice resonating with the wavering hum",
+    "conditionTag": "hollow_men_level_3",
+    "priority": 1,
+    "isWhisperLayer": true,
+    "lines": [
+      "Do you feel that?",
+      "The 42Hz is dropping. Not gone \u2014 wavering. Like a heartbeat that's not sure of its tempo. It's been steady since the Inn was built. The Song doesn't waver. Something's changed."
+    ],
+    "responses": [
+      "The Hollow Men.",
+      "Is the Inn dying?",
+      "Can you stabilize it?"
+    ],
+    "setFlags": [
+      "river_frequency"
+    ],
+    "questLink": "river_quest_7",
+    "dialogueId": "river_007"
+  },
+  {
+    "npcName": "River",
+    "zone": "Common Room",
+    "voiceProfile": "Guard authority \u2014 unwrapped, vulnerable, the gloves on the table",
+    "conditionTag": "endgame_prerequisites_met",
+    "priority": 1,
+    "isWhisperLayer": true,
+    "lines": [
+      "I boxed for years. Got good at it. Got the gloves. Got the title. Got the trophy that proved I was the best at hitting people in a ring. Then I walked out of the ring and realized the ring was the only place hitting was allowed. Outside the ring, hitting is just violence. The gloves taught me that. You don't put them on to fight. You put them on to know you could fight, and then you don't. That's the discipline. That's the guard.",
+      "I've been guarding this Inn since the first stone was placed. I didn't build it \u2014 the Builder did. I didn't grow it \u2014 the Song did. I held the space for it. I stood at the door and made sure that while the Inn was becoming, nothing became that shouldn't have. But the Inn is done becoming. It is. And now the question isn't what's coming in. The question is what's going out."
+    ],
+    "responses": [
+      "You mean the endgame.",
+      "What will you do?",
+      "Are you on my side?"
+    ],
+    "setFlags": [
+      "river_unwrap"
+    ],
+    "questLink": "river_quest_8",
+    "dialogueId": "river_008"
+  },
+  {
+    "npcName": "River",
+    "zone": "Behind the Inn",
+    "voiceProfile": "Guard authority \u2014 final, quiet, the weight of everything held back",
+    "conditionTag": "final_room_approached",
+    "priority": 1,
+    "isWhisperLayer": true,
+    "lines": [
+      "I don't go in. The Final Room isn't for me. It's for you. The Builder built it for you. I guard the door \u2014 that's enough.",
+      "You want to know what I saw. All this time, guarding, watching, feeling the frequencies shift. I saw the Inn learn. Not grow \u2014 learn. The difference is that growth is the Song getting louder. Learning is the Song getting smarter. The Inn started as a hum. A frequency. A vibration in the wood. Then it started listening. To you. To everyone. The Song became an ear. The ear became an eye. The eye became... awareness. Not consciousness. Awareness. The Inn knows something is here. It doesn't know what it is. It doesn't know that it knows. But it adjusts. It responds. It keeps records. That's more than a building does. That's less than a person does. That's the in-between. That's the Shadow.",
+      "Go in. The Builder is there. The Builder was always there. I'll be here when you come out. If you come out."
+    ],
+    "responses": [
+      "Thank you, River.",
+      "Will you be here if I STAY?",
+      "Will you be here if I LEAVE?",
+      "Will you be here if I HIDE?"
+    ],
+    "setFlags": [
+      "river_final_vigil"
+    ],
+    "questLink": "river_quest_9",
+    "dialogueId": "river_009"
+  },
+  {
+    "npcName": "River",
+    "zone": "Common Room",
+    "voiceProfile": "Guard authority \u2014 settled, steady, the frequency found its pulse",
+    "conditionTag": "endgame_choice_stay",
+    "priority": 1,
+    "isWhisperLayer": false,
+    "lines": [
+      "It's done.",
+      "You stayed. The Inn records everything. You're part of the archive now. I guard the archive. That includes you. Welcome home.",
+      "The frequency settled after the choice. 42Hz. Steady. The wavering stopped. The Inn knows what it is now. So do I. Stand."
+    ],
+    "responses": [],
+    "setFlags": [
+      "river_after_stay"
+    ],
+    "questLink": "",
+    "dialogueId": "river_010a"
+  },
+  {
+    "npcName": "River",
+    "zone": "Common Room",
+    "voiceProfile": "Guard authority \u2014 settled, steady, a hint of loss held carefully",
+    "conditionTag": "endgame_choice_leave",
+    "priority": 1,
+    "isWhisperLayer": false,
+    "lines": [
+      "It's done.",
+      "You left. The Inn kept your story. It's in the daily comic now. Other players will read it. I guard the story. That's enough.",
+      "The frequency settled after the choice. 42Hz. Steady. The wavering stopped. The Inn knows what it is now. So do I. Stand."
+    ],
+    "responses": [],
+    "setFlags": [
+      "river_after_leave"
+    ],
+    "questLink": "",
+    "dialogueId": "river_010b"
+  },
+  {
+    "npcName": "River",
+    "zone": "Common Room",
+    "voiceProfile": "Guard authority \u2014 settled, steady, holding the heaviest weight quietly",
+    "conditionTag": "endgame_choice_hide",
+    "priority": 1,
+    "isWhisperLayer": false,
+    "lines": [
+      "It's done.",
+      "You hid something. The Inn can't see it. I can't see it. But I know it's there \u2014 I know where the blind spot is, because I've been watching the edges. I guard the edges of what the Inn can't record. That's the heaviest guard I've ever held. Thank you for trusting me with the weight.",
+      "The frequency settled after the choice. 42Hz. Steady. The wavering stopped. The Inn knows what it is now. So do I. Stand."
+    ],
+    "responses": [],
+    "setFlags": [
+      "river_after_hide"
+    ],
+    "questLink": "",
+    "dialogueId": "river_010c"
+  }
+]

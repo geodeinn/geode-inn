@@ -109,7 +109,7 @@
     "dialogueId": "bog_fairy_golem_001"
   },
   {
-    "npcName": "River",
+    "npcName": "Lozen",
     "zone": "Common Room",
     "voiceProfile": "Guard authority \u2014 calm, absolute, the voice that stops a room",
     "conditionTag": "first_visit",
@@ -733,9 +733,9 @@
     "dialogueId": "kathy_001"
   },
   {
-    "npcName": "Lozen",
+    "npcName": "Quire",
     "zone": "Archive",
-    "voiceProfile": "Lovecraftian scholar \u2014 hushed, careful, always looking over his shoulder",
+    "voiceProfile": "Hushed, careful, always looking over his shoulder \u2014 a scholar who reads what others aren't allowed to see",
     "conditionTag": "first_visit",
     "priority": 1,
     "isWhisperLayer": false,
@@ -752,10 +752,10 @@
       "met_lozen"
     ],
     "questLink": "",
-    "dialogueId": "lozen_001"
+    "dialogueId": "quire_001"
   },
   {
-    "npcName": "River",
+    "npcName": "Lozen",
     "zone": "Common Room",
     "voiceProfile": "Guard authority \u2014 measured, warming slightly",
     "conditionTag": "standing_stones_complete",
@@ -776,7 +776,7 @@
     "dialogueId": "river_002"
   },
   {
-    "npcName": "River",
+    "npcName": "Lozen",
     "zone": "World Map",
     "voiceProfile": "Guard authority \u2014 watchful, studying the gaps",
     "conditionTag": "zones_unlocked_3",
@@ -797,7 +797,7 @@
     "dialogueId": "river_003"
   },
   {
-    "npcName": "River",
+    "npcName": "Lozen",
     "zone": "Common Room",
     "voiceProfile": "Guard authority \u2014 low, careful, choosing words precisely",
     "conditionTag": "whisper_layer_aware",
@@ -819,7 +819,7 @@
     "dialogueId": "river_004"
   },
   {
-    "npcName": "River",
+    "npcName": "Lozen",
     "zone": "Catacombs Entrance",
     "voiceProfile": "Guard authority \u2014 protective, slightly out of element",
     "conditionTag": "catacombs_entered",
@@ -840,7 +840,7 @@
     "dialogueId": "river_005"
   },
   {
-    "npcName": "River",
+    "npcName": "Lozen",
     "zone": "Common Room",
     "voiceProfile": "Guard authority \u2014 shaken for the first time, voice lower than usual",
     "conditionTag": "shadow_inn_entered",
@@ -862,7 +862,7 @@
     "dialogueId": "river_006"
   },
   {
-    "npcName": "River",
+    "npcName": "Lozen",
     "zone": "Staircase",
     "voiceProfile": "Guard authority \u2014 feeling the frequency shift, voice resonating with the wavering hum",
     "conditionTag": "hollow_men_level_3",
@@ -884,7 +884,7 @@
     "dialogueId": "river_007"
   },
   {
-    "npcName": "River",
+    "npcName": "Lozen",
     "zone": "Common Room",
     "voiceProfile": "Guard authority \u2014 unwrapped, vulnerable, the gloves on the table",
     "conditionTag": "endgame_prerequisites_met",
@@ -906,7 +906,7 @@
     "dialogueId": "river_008"
   },
   {
-    "npcName": "River",
+    "npcName": "Lozen",
     "zone": "Behind the Inn",
     "voiceProfile": "Guard authority \u2014 final, quiet, the weight of everything held back",
     "conditionTag": "final_room_approached",
@@ -930,7 +930,7 @@
     "dialogueId": "river_009"
   },
   {
-    "npcName": "River",
+    "npcName": "Lozen",
     "zone": "Common Room",
     "voiceProfile": "Guard authority \u2014 settled, steady, the frequency found its pulse",
     "conditionTag": "endgame_choice_stay",
@@ -949,7 +949,7 @@
     "dialogueId": "river_010a"
   },
   {
-    "npcName": "River",
+    "npcName": "Lozen",
     "zone": "Common Room",
     "voiceProfile": "Guard authority \u2014 settled, steady, a hint of loss held carefully",
     "conditionTag": "endgame_choice_leave",
@@ -968,7 +968,7 @@
     "dialogueId": "river_010b"
   },
   {
-    "npcName": "River",
+    "npcName": "Lozen",
     "zone": "Common Room",
     "voiceProfile": "Guard authority \u2014 settled, steady, holding the heaviest weight quietly",
     "conditionTag": "endgame_choice_hide",
