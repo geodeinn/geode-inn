@@ -14,3 +14,12 @@ A casting contradiction exists in the docs:
 - `geode_inn_seelie_royalty.md`: Nikolaj Coster-Waldau
 
 The Mads Mikkelsen casting is the more developed profile (the assassin-tender, the heron stillness, the hands that kill and hold). This is the primary casting unless Krista decides otherwise.
+
+## Pronunciation & Character Detail
+The O is silent. It's pronounced "Leander."
+
+His mother spelled it "Oleander" to be trendy. It bugs him to no end.
+
+King Oleander (pronounced Leander, and if you say the O he will notice, and you don't want him to notice) has been irritated by this spelling for 5,000 years. The most ancient guardian of the threshold between waking and dreaming — the assassin-tender, the heron-still king — carries the quiet, permanent annoyance of a man whose mother thought she was being clever.
+
+This is the most human thing about him.
