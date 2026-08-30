@@ -1488,3 +1488,14 @@ All 32 creatures are chibi-style playable characters for the "Monster of the Dee
 **Location:** Alchemical Staircase — lab counter
 **Role:** Day-shift alchemist, shopkeeper, performer, seller. Opposite of Will (night-shift methodical).
 **Linework:** Heavy cel-shaded (tradesman)
+
+---
+
+## CANONICAL IMAGE DESIGNATION — Aug 30
+
+### THE CRONE — Canonical Reference
+**Image:** the_crone_ACCIDENTAL_CANONICAL.png
+**CDN:** https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/e99fac91f_the_crone_ACCIDENTAL_CANONICAL.png
+**Origin:** Accidental generation, Aug 27 session. Originally filed as alt_librarian_original_accidental.png.
+**Why canonical:** Direct straight-on eye contact. The Hopkins quality — terrifying, unsoftened, seeing in full spectrum. Three deliberate attempts (the_crone.png, the_crone_v2.png, crone_full_presence_ingame.png) did not capture what the accident did. The accidental image is the reference; all others are alternates.
+**Design rule confirmed:** Anthony Hopkins' eyes are the ONLY unsoftened celebrity features in Geode Inn art. This image is why.
