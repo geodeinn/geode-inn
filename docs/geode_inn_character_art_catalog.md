@@ -788,7 +788,7 @@ The cabbit transforming into the spaceship is NEVER shown on screen. It is impli
 ### Still To Design
 - [ ] Water Monsters (Nessie, Kelpie, Bunyip, Taniwha, Mami Wata, Bakunawa + 26 more)
 
-### 26. The Scholar (Cthulhu — Ambulatory Patron)
+### 26. The Scholar (Naut — Ambulatory Patron)
 **Image:** https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/0bf0fb14a_generated_image.png
 **Location:** Wanders the Geode Inn randomly — most often found by the fireplace in the main floor library, occasionally upstairs in cosmology, sometimes in the modern legends nook reading his own mythos
 **Role:** Ambient NPC + hidden quest giver. Appears to be just atmosphere — a strange patron reading by the fire. Players who approach and ask the right questions discover he gives book-related quests: retrieve rare texts from the catacombs, translate passages in dead languages, find missing volumes. His rewards are the rarest stones in the Inn.
@@ -808,14 +808,14 @@ The cabbit transforming into the spaceship is NEVER shown on screen. It is impli
 - Other patrons pay no special attention — just another regular at the Inn
 - Feeling: an ancient cosmic entity who decided the most fulfilling thing in existence is to sit by a fire and read
 
-**Cultural Source:** H.P. Lovecraft's Cthulhu Mythos — filed under "modern day legends" framework, not conspiracy terminology. Lovecraft's work IS on the shelves of the modern legends nook. The being itself wanders the Inn.
-**Why "Kinda Chibi, Kinda Not":** Too cute would undermine the cosmic weight. Too terrifying would break the Inn's warm atmosphere. The middle ground — a 4-foot scholarly being with spectacles — preserves the joke (it's Cthulhu) while making him approachable enough to talk to.
+**Cultural Source:** H.P. Lovecraft's Naut Mythos — filed under "modern day legends" framework, not conspiracy terminology. Lovecraft's work IS on the shelves of the modern legends nook. The being itself wanders the Inn.
+**Why "Kinda Chibi, Kinda Not":** Too cute would undermine the cosmic weight. Too terrifying would break the Inn's warm atmosphere. The middle ground — a 4-foot scholarly being with spectacles — preserves the joke (it's Naut) while making him approachable enough to talk to.
 **Design Philosophy:** The humor is in the contrast. The most terrifying entity in modern horror mythology is sitting by a fire reading books with tiny spectacles. No wink to the camera. No joke is explained. The players who recognize him get the joy of discovery. The players who don't just see a strange scholar NPC.
-**Narrative Connection:** The modern day legends nook on the main floor contains Lovecraft's work. Cthulhu reading twenty feet from his own mythology is the Inn's deepest layered joke — the archive contains the legend, and the legend is a patron. Ties into the Geode Inn's core philosophy: myths are not dead things on shelves. They live here.
-**Quest Mechanic:** Cthulhu gives rare book retrieval quests. Rewards: the rarest stones in the Inn (stones not available from any arcade game or Fae Kingdom quest). His quests require exploring the catacombs and ancient civilizations section downstairs. He is the only path to certain stones.
+**Narrative Connection:** The modern day legends nook on the main floor contains Lovecraft's work. Naut reading twenty feet from his own mythology is the Inn's deepest layered joke — the archive contains the legend, and the legend is a patron. Ties into the Geode Inn's core philosophy: myths are not dead things on shelves. They live here.
+**Quest Mechanic:** Naut gives rare book retrieval quests. Rewards: the rarest stones in the Inn (stones not available from any arcade game or Fae Kingdom quest). His quests require exploring the catacombs and ancient civilizations section downstairs. He is the only path to certain stones.
 
 **ATLANTEAN ORIGIN (Updated August 2026):**
-Cthulhu was an Atlantean — the brightest Merfolk scholar of their generation, so deeply bonded to the Heart Crystal that they volunteered to stay at the deepest point when Atlantis chose the ocean. The crystal's pressure transformed them over millennia — their Merfolk form became tentacled, alien, vast. But still a scholar. Still kind. The surface world heard fragments and Lovecraft turned it into horror. They saw the form and assumed the intent.
+Naut was an Atlantean — the brightest Merfolk scholar of their generation, so deeply bonded to the Heart Crystal that they volunteered to stay at the deepest point when Atlantis chose the ocean. The crystal's pressure transformed them over millennia — their Merfolk form became tentacled, alien, vast. But still a scholar. Still kind. The surface world heard fragments and Lovecraft turned it into horror. They saw the form and assumed the intent.
 
 **Two-Form Design:**
 - **Surface Form (Main Floor):** 4 feet tall, spectacles, scholarly robes, firelight aesthetic (existing design)
@@ -838,7 +838,7 @@ Cthulhu was an Atlantean — the brightest Merfolk scholar of their generation, 
 ✅ Seelie Fae | ✅ Unseelie Fae | ✅ The Morrigan | ✅ The Owl | ✅ The Wanderer (Odin) | ✅ The Allfather (Odin) | ✅ The Architect of Stairs | ✅ The Cabbit (and the Pirate)
 
 ### Ambulatory / Between Categories (1)
-✅ The Scholar (Cthulhu) — kinda chibi, kinda not, wanders the Inn
+✅ The Scholar (Naut) — kinda chibi, kinda not, wanders the Inn
 
 ### Chibi — Fae Kingdom NPCs (8)
 ✅ Goblin Merchant | ✅ Troll Gatekeeper | ✅ Dwarf Blacksmith (Thorin-inspired) | ✅ Ent Guardian | ✅ Griffin Boss | ✅ Mermaid NPC | ✅ Orc Guard | ✅ Anansi
@@ -1024,7 +1024,7 @@ All 32 creatures are chibi-style playable characters for the "Monster of the Dee
 ✅ Seelie Fae | ✅ Unseelie Fae | ✅ The Morrigan | ✅ The Owl | ✅ The Wanderer (Odin) | ✅ The Allfather (Odin) | ✅ The Architect of Stairs | ✅ The Cabbit (and the Pirate)
 
 ### Ambulatory / Between Categories (1)
-✅ The Scholar (Cthulhu)
+✅ The Scholar (Naut)
 
 ### Chibi — Fae Kingdom NPCs (8)
 ✅ Goblin Merchant | ✅ Troll Gatekeeper | ✅ Dwarf Blacksmith (Thorin-inspired) | ✅ Ent Guardian | ✅ Griffin Boss | ✅ Mermaid NPC | ✅ Orc Guard | ✅ Anansi
@@ -1110,12 +1110,12 @@ All 32 creatures are chibi-style playable characters for the "Monster of the Dee
 **Cultural Roots:** Southern Dutch (Brabant)
 **Design Notes:** Van Gogh's world in fantasy. Sunflowers taller than character, bioluminescent irises, vines growing toward sound. Worn apron, soil-stained hands, dead plant un-wilting. Humming a sustained note. Cadmium yellow, cobalt blue, emerald green palette. Soft flowing linework (lore). The necromancy is care.
 
-### 37. Mim & Monsieur Sentient
+### 37. Brim & Monsieur Sentient
 **Image:** https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/0b18e4b66_generated_image.png
 **Location:** Magritte Zone (surrealist)
 **Role:** Witch, transformation specialist
 **Cultural Roots:** Belgian
-**Design Notes:** Mim: Belgian French energy, playful deadpan surrealist. Dark coat with surreal elements (cloud pocket, starry collar). Floating sentient pipe (Monsieur Sentient) steaming a question mark. Magritte palette: sky blue, cloud white, greens, stone grey. Floating bowler hat, green apple/bird. No-outline linework (cosmological). "Non?"
+**Design Notes:** Brim: Belgian French energy, playful deadpan surrealist. Dark coat with surreal elements (cloud pocket, starry collar). Floating sentient pipe (Monsieur Sentient) steaming a question mark. Magritte palette: sky blue, cloud white, greens, stone grey. Floating bowler hat, green apple/bird. No-outline linework (cosmological). "Non?"
 
 ### 38. The Fixer (Wrought)
 **Image:** https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/025f930ae_generated_image.png
@@ -1239,10 +1239,10 @@ All 32 creatures are chibi-style playable characters for the "Monster of the Dee
 **Role:** Tavern co-manager, the real innkeeper, cookbook questline
 **Linework:** Heavy cel-shaded (tradesman)
 
-### 46. John Myers (The Lovecraftian)
+### 46. Quire (The Lovecraftian)
 **Image:** https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/15f0812c6_generated_image.png
 **Location:** Undercity — Archives by the fireplace
-**Role:** Seeker of hidden knowledge, restricted section access, Cthulhu's reading companion
+**Role:** Seeker of hidden knowledge, restricted section access, Naut's reading companion
 **Linework:** Cel-shaded transitioning to fragmented (crisis)
 
 ### 47. TJ and Gabby (The Tavern Kids)
@@ -1377,7 +1377,7 @@ All 32 creatures are chibi-style playable characters for the "Monster of the Dee
 
 ### Z27. Miskatonic Annex (Rousseau × Royo)
 **Image:** https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/42d12b713_generated_image.png
-**Zone:** Underground — impossible clarity jungle, Lovecraftian university, Cthulhu connection
+**Zone:** Underground — impossible clarity jungle, Lovecraftian university, Naut connection
 
 ### Z28. The Garden (Van Gogh × Royo)
 **Image:** https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/b9993d22d_generated_image.png

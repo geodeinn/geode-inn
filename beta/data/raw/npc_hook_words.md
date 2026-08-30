@@ -41,7 +41,7 @@ that tells you exactly who's talking before the name appears.
 
 | NPC | Hook Word(s) | Voice Profile | Zone | Notes |
 |-----|--------------|---------------|------|-------|
-| John Myers | "In the margins." | Lovecraftian scholar | Archive | Restricted library access. Finds what others miss. |
+| Quire | "In the margins." | Lovecraftian scholar | Archive | Restricted library access. Finds what others miss. |
 | Zack | "Look up." | Astronomer | Cosmology | Mind Palace mechanic. Playable character. |
 | Maddi | "Calculated." | Precise, warm | Cosmology | Zack's partner. Grounds Zack's abstractions. |
 

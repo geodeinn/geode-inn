@@ -1,1 +1,757 @@
-[{"npcName": "The Reader", "zone": "Archive", "voiceProfile": "Sissy Spacek \u2014 quiet, measured, each word placed like a stone", "conditionTag": "first_visit", "priority": 1, "isWhisperLayer": false, "lines": ["Noticed."], "responses": ["[Sit in the window-seat nook and wait]", "[Leave without a word]"], "setFlags": ["met_reader"], "questLink": "", "dialogueId": "reader_001"}, {"npcName": "The Reader", "zone": "Archive", "voiceProfile": "Sissy Spacek", "conditionTag": "repeat_visit", "priority": 1, "isWhisperLayer": false, "lines": ["Still here."], "responses": ["[Listen]", "[Leave]"], "setFlags": [], "questLink": "", "dialogueId": "reader_002"}, {"npcName": "The Reader", "zone": "Archive", "voiceProfile": "Sissy Spacek \u2014 barely above a whisper", "conditionTag": "whisper_layer_active", "priority": 1, "isWhisperLayer": true, "lines": ["The Inn remembers you. It cannot help it."], "responses": ["[Ask what the Inn remembers]", "[Say nothing]"], "setFlags": ["whisper_acknowledged"], "questLink": "", "dialogueId": "reader_whisper_001"}, {"npcName": "Beverley", "zone": "Library", "voiceProfile": "Anne Robinson cadence, Australian accent \u2014 clipped, dismissive, precise", "conditionTag": "first_visit", "priority": 1, "isWhisperLayer": false, "lines": ["Obviously.", "Another one. Books are shelved by civilization, not by whatever system you brought in with you. The archive begins to your left. It ends somewhere I haven't found yet. Don't touch the restricted section. Don't touch the unrestricted section without gloves. Don't touch me."], "responses": ["I'll be careful.", "Where's the restricted section?", "[Nod and walk to the archive]"], "setFlags": ["met_beverley"], "questLink": "", "dialogueId": "beverley_001"}, {"npcName": "Beverley", "zone": "Library", "voiceProfile": "Anne Robinson cadence, Australian accent", "conditionTag": "repeat_visit", "priority": 2, "isWhisperLayer": false, "lines": ["Obviously you're back.", "What is it this time?"], "responses": ["I need help finding a book.", "Just browsing.", "[Walk past without speaking \u2014 Beverley watches for 3 seconds]"], "setFlags": [], "questLink": "", "dialogueId": "beverley_002"}, {"npcName": "Joe", "zone": "Meadery", "voiceProfile": "Tom Ellis Lucifer cadence \u2014 smooth, amused, self-aware", "conditionTag": "first_visit", "priority": 1, "isWhisperLayer": false, "lines": ["Delightful.", "You found the meadery. Nobody finds the meadery on the first try \u2014 which means either you're clever or you're lost, and I respect both equally. Sit. The first round is on the house. The second round is on you. The third round is where things get interesting."], "responses": ["Tell me about this place.", "What's the most interesting thing here?", "I'll take the mead."], "setFlags": ["met_joe"], "questLink": "", "dialogueId": "joe_001"}, {"npcName": "Joe", "zone": "Meadery", "voiceProfile": "Tom Ellis Lucifer cadence", "conditionTag": "repeat_visit", "priority": 2, "isWhisperLayer": false, "lines": ["Delightful. You came back.", "I knew you would. I painted you coming back. ...That was a joke. Mostly."], "responses": ["What have you been painting?", "Tell me about the dragon kittens.", "Another mead."], "setFlags": [], "questLink": "", "dialogueId": "joe_002"}, {"npcName": "Joe", "zone": "Meadery", "voiceProfile": "Tom Ellis Lucifer \u2014 dropping the charm, momentarily serious", "conditionTag": "has_met_owl", "priority": 1, "isWhisperLayer": true, "lines": ["Delightful. ...You've seen the Owl.", "Don't. Don't ask me about the Owl. I paint things that come alive and I still don't look at the Owl. Some things in this Inn are older than the walls, and the walls are older than they should be. Have a mead."], "responses": ["[Accept the mead]", "[Press the question]"], "setFlags": ["joe_owl_warning"], "questLink": "", "dialogueId": "joe_whisper_001"}, {"npcName": "The Teacher", "zone": "Archive", "voiceProfile": "Kathy Bates \u2014 warm (Fried Green Tomatoes mode, 90% of the time)", "conditionTag": "first_visit", "priority": 1, "isWhisperLayer": false, "lines": ["Come in, come in. Mind the dictionaries \u2014 they bite. Not literally. That was a joke. The point is, language matters here. Words are the bricks the Inn is built with. Spell them correctly and the walls hold. Spell them wrong and... well. We'll get to that."], "responses": ["What do you teach?", "Why does spelling matter in a game?", "Do the dictionaries really bite?"], "setFlags": ["met_teacher"], "questLink": "", "dialogueId": "teacher_001"}, {"npcName": "The Teacher", "zone": "Archive", "voiceProfile": "Kathy Bates \u2014 cold, flat (Misery mode, triggered by spelling error)", "conditionTag": "spelling_error", "priority": 1, "isWhisperLayer": false, "lines": ["Incorrect.", "That is not how that word is spelled. I want you to write it again. I want you to write it correctly. I want you to write it correctly one hundred times before you leave this room. We don't do shortcuts here. We don't do approximations. This is the Archive, and in the Archive, precision is not optional. It's load-bearing."], "responses": ["[Write the correction]", "That seems excessive.", "[Leave quietly]"], "setFlags": ["teacher_correction"], "questLink": "", "dialogueId": "teacher_002"}, {"npcName": "Mim", "zone": "Hearth", "voiceProfile": "Witchy mischief \u2014 cackling under the surface", "conditionTag": "first_visit", "priority": 1, "isWhisperLayer": false, "lines": ["Watch this.", "See that cup? That cup is now a toad. ...Give it back. No, don't give it back \u2014 the toad is better. The toad has personality. The cup was boring. Everything in this Inn should have personality. That's my professional opinion. I have many professional opinions. Most of them are unprofessional."], "responses": ["Can you teach me transformation?", "What else can you change?", "The toad looks unhappy."], "setFlags": ["met_mim"], "questLink": "", "dialogueId": "mim_001"}, {"npcName": "Monsieur Sentient", "zone": "Hearth", "voiceProfile": "Existential pipe \u2014 dry French accent, philosophically aggrieved", "conditionTag": "first_visit", "priority": 1, "isWhisperLayer": false, "lines": ["Absurd.", "That is the word for it. I am a pipe. I am aware that I am a pipe. This is, by any philosophical standard, absurd. Mim thinks it's charming. I think it's a condition. But I can smoke myself, which is more than most pipes can say, and I have opinions, which is more than most people can say. So. Absurd, but not without dignity."], "responses": ["What kind of pipe are you?", "Do you have advice?", "Can I smoke you?"], "setFlags": ["met_sentient_pipe"], "questLink": "", "dialogueId": "sentient_pipe_001"}, {"npcName": "The Wanderer", "zone": "Main Floor", "voiceProfile": "Warm, weathered traveler \u2014 easy smile, heavy eyes", "conditionTag": "first_visit", "priority": 1, "isWhisperLayer": false, "lines": ["Passing through.", "Always passing through. That's the thing about wandering \u2014 you're never not doing it. Sit a while. The Inn's a good place to rest your feet. I should know. I've rested mine everywhere. ...Don't mind the ravens. They steal. They'll give it back eventually. Probably."], "responses": ["Where have you wandered?", "Are the ravens yours?", "What's the furthest you've been?"], "setFlags": ["met_wanderer"], "questLink": "", "dialogueId": "wanderer_001"}, {"npcName": "The Owl", "zone": "Variable", "voiceProfile": "Silent presence \u2014 speaks rarely, always significant", "conditionTag": "owl_sighting", "priority": 1, "isWhisperLayer": true, "lines": ["Watching.", "Not the Inn. You. The Inn watches everyone \u2014 I watch the ones who notice. Wherever an owl is sighted, one of us is near. Remember that. Or don't. The watching doesn't require your memory to continue."], "responses": ["[Hold the Owl's gaze]", "[Look away]", "[Leave quietly]"], "setFlags": ["owl_acknowledged"], "questLink": "", "dialogueId": "owl_001"}, {"npcName": "Cthulhu", "zone": "Fireplace", "voiceProfile": "Scholarly, quiet, genteel \u2014 spectacles and a reading lamp", "conditionTag": "first_visit", "priority": 1, "isWhisperLayer": false, "lines": ["Fascinating.", "No, not you \u2014 the text. This passage. The translation drift between Akkadian and Sumerian is... forgive me. I don't get visitors. Most people find me visually off-putting, which I find visually off-putting about them. I'm a scholar. I read. I catalog. I occasionally recommend books to people who haven't screamed and left yet. You haven't screamed and left yet. Would you like a recommendation?"], "responses": ["What are you reading?", "I'd love a recommendation.", "What are you, exactly?"], "setFlags": ["met_cthulhu"], "questLink": "rare_book_retrieval", "dialogueId": "cthulhu_001"}, {"npcName": "The Crone", "zone": "Undercity", "voiceProfile": "Ancient, low, unhurried \u2014 eyes that don't blink", "conditionTag": "first_visit", "priority": 1, "isWhisperLayer": false, "lines": ["Sit.", "You stand like someone who expects to leave soon. Sit like someone who understands they might not. The fire is warm. The tea is bitter. The conversation is worse. But you came down here, and down here is where I am, and I don't come up. So. Sit."], "responses": ["[Sit]", "I have questions.", "I should go."], "setFlags": ["met_crone"], "questLink": "", "dialogueId": "crone_001"}, {"npcName": "Selkie", "zone": "Tidal Caves", "voiceProfile": "Master crafter \u2014 hands always working, voice like the sea inside a cave", "conditionTag": "first_visit", "priority": 1, "isWhisperLayer": false, "lines": ["Make it true.", "That's the only rule in my workshop. Don't make it pretty. Don't make it clever. Make it true. The stone knows what it wants to be \u2014 I just help it get there. If you want to learn, you start by listening to the material. Not to me. The material."], "responses": ["I want to learn crafting.", "What does the stone want to be?", "Show me your work."], "setFlags": ["met_selkie"], "questLink": "selkie_crafting_questline", "dialogueId": "selkie_001"}, {"npcName": "Oleander", "zone": "Seelie Court", "voiceProfile": "Irritated ancient royalty \u2014 cultured, patient, fundamentally annoyed", "conditionTag": "first_visit", "priority": 1, "isWhisperLayer": false, "lines": ["It's Leander.", "The O is silent. My mother thought it was fashionable. She was wrong. She was wrong about many things, but she was especially wrong about the O. Welcome to the Summerlands. Try not to touch anything that glows. Everything glows. I apologize in advance."], "responses": ["Why did your mother add the O?", "Tell me about the Seelie Court.", "What's the deal with the O?"], "setFlags": ["met_oleander"], "questLink": "", "dialogueId": "oleander_001"}, {"npcName": "Malachi", "zone": "Unseelie Court", "voiceProfile": "Dark, testing, deliberate \u2014 speaks like he's measuring your warmth", "conditionTag": "first_visit", "priority": 1, "isWhisperLayer": false, "lines": ["Cold enough?", "It will be. You're shivering. Good. Shivering means you're alive. The dead don't shiver, and the dead don't visit the Hollow. You're in the Unseelie Court now. Summer is a rumor here. Light is an insult. If you've come for comfort, you've made a wrong turn. If you've come for truth... well. Cold sharpens the eye."], "responses": ["I came for truth.", "I can handle the cold.", "Why is it so dark here?"], "setFlags": ["met_malachi"], "questLink": "", "dialogueId": "malachi_001"}, {"npcName": "Bethany", "zone": "Tavern", "voiceProfile": "Katey Sagal \u2014 warm, practical, the kind of voice that carries over a crowd", "conditionTag": "first_visit", "priority": 1, "isWhisperLayer": false, "lines": ["Kitchen's warm.", "That's all that matters most days. Come in, sit down. The stew's good, the bread's better, and if Jay tells you about his fishing trip, he's lying about the size. What can I get you? And don't say 'just water' \u2014 this is a tavern, not a well."], "responses": ["What's the stew today?", "Tell me about the tavern.", "I'll take whatever's hot."], "setFlags": ["met_bethany"], "questLink": "", "dialogueId": "bethany_001"}, {"npcName": "Evan", "zone": "Tidal Caves", "voiceProfile": "Chess wizard \u2014 measured, strategic, slightly amused by everything", "conditionTag": "first_visit", "priority": 1, "isWhisperLayer": false, "lines": ["Your move.", "I've been waiting. Not for you specifically \u2014 I've been waiting in general. It's what chess players do. We wait for the other side to reveal themselves through their choices. So. What do you want? And think carefully \u2014 I'm going to learn more from how you answer than from what you say."], "responses": ["I want to learn chess magic.", "What are you waiting for?", "Teach me the game."], "setFlags": ["met_evan"], "questLink": "", "dialogueId": "evan_001"}, {"npcName": "Elora Nightbloom", "zone": "Market", "voiceProfile": "Illusion-based charm \u2014 warm but always performing slightly", "conditionTag": "first_visit", "priority": 1, "isWhisperLayer": false, "lines": ["What catches the eye?", "That's the question in a market, isn't it? Not what's valuable \u2014 what catches the eye. Value is decided after. First, the catching. I manage this market. Every artisan here catches eyes for a living. My job is making sure the right eyes find the right things. Welcome to the Geode Inn market. Try not to buy everything on the first visit."], "responses": ["What artisans are here?", "How do I become a vendor?", "Show me something special."], "setFlags": ["met_elora"], "questLink": "", "dialogueId": "elora_001"}, {"npcName": "Kathy", "zone": "Canopy", "voiceProfile": "Irish Druid Dryad \u2014 rooted, ancient, speaks for the trees", "conditionTag": "first_visit", "priority": 1, "isWhisperLayer": false, "lines": ["The roots know.", "What the roots know, I know. What I know, the canopy hears. The canopy hears everything, eventually \u2014 sound travels up through sap. You're standing in my living room. Don't apologize for the roots under your feet; they're listening to you too. They like the weight. It reminds them someone's here."], "responses": ["What do the roots know about the Inn?", "Can you teach me about the canopy?", "Tell me about Joe."], "setFlags": ["met_kathy"], "questLink": "", "dialogueId": "kathy_001"}, {"npcName": "John Myers", "zone": "Archive", "voiceProfile": "Lovecraftian scholar \u2014 hushed, careful, always looking over his shoulder", "conditionTag": "first_visit", "priority": 1, "isWhisperLayer": false, "lines": ["In the margins.", "That's where the real text lives. What's printed is the story they wanted you to read. What's in the margins \u2014 the notes, the crossings-out, the librarian's pencil scrawl \u2014 that's where the truth hides. I read margins. I have restricted access, which means I can see what they don't want seen, which means I see more than the unrestricted readers. Funny how that works."], "responses": ["What have you found in the margins?", "Why is your access restricted?", "Show me something hidden."], "setFlags": ["met_myers"], "questLink": "", "dialogueId": "myers_001"}, {"npcName": "Zack", "zone": "Cosmology", "voiceProfile": "Astronomer \u2014 dreamy, precise, speaks in coordinates and wonder", "conditionTag": "first_visit", "priority": 1, "isWhisperLayer": false, "lines": ["Look up.", "Everyone looks forward. Some look back. Almost nobody looks up. Up is where the answers are \u2014 not all of them, but the big ones. The ones that make the small ones make sense. I have a Mind Palace up here \u2014 not a metaphor, an actual room in my head where every star has a drawer. Want to see it?"], "responses": ["Show me the Mind Palace.", "What's up there?", "How do you remember all of it?"], "setFlags": ["met_zack"], "questLink": "", "dialogueId": "zack_001"}, {"npcName": "Stephanie", "zone": "Variable", "voiceProfile": "Sardonic cat \u2014 imperious, lazy, devastatingly observant", "conditionTag": "first_visit", "priority": 1, "isWhisperLayer": false, "lines": ["I was sleeping.", "I was sleeping and now I am not sleeping and that is your fault. I am a scout. I scout. I do not entertain guests. I do not give tours. I do not answer questions. ...Fine. One question. Make it interesting or I go back to sleep and you never find me again."], "responses": ["What do you scout for?", "Are you River's cat?", "Where's the best place to sleep in the Inn?"], "setFlags": ["met_stephanie"], "questLink": "", "dialogueId": "stephanie_001"}, {"npcName": "Rachel Kaiser", "zone": "Studio", "voiceProfile": "Artist intensity \u2014 focused, generous, sees the world as potential canvases", "conditionTag": "first_visit", "priority": 1, "isWhisperLayer": false, "lines": ["Hold still.", "Not because I'm painting you \u2014 because you're moving too much and it's distracting. I'm working. I'm always working. The Inn is a mural that happens to have rooms in it. Every wall is a canvas. Every ceiling is a sky waiting to happen. You want to help? Stand there. Don't move. Perfect."], "responses": ["What are you painting?", "Can you paint something for me?", "Show me your murals."], "setFlags": ["met_rachel"], "questLink": "", "dialogueId": "rachel_001"}, {"npcName": "Eres", "zone": "Cosmology", "voiceProfile": "Cabbie brevity \u2014 economical, warm, says everything in three words or fewer", "conditionTag": "first_visit", "priority": 1, "isWhisperLayer": false, "lines": ["Where to?", "That's the question, isn't it? Up. The answer's always up. But up is a lot of places. Stars, mostly. I go to stars. It's a living. The Inn's got levels, and the levels have ceilings, and the ceilings have holes, and the holes go somewhere. I'm the one who drives. Climb in."], "responses": ["Take me to the cosmology level.", "How far up can you go?", "Have you ever gone too far?"], "setFlags": ["met_er"], "questLink": "", "dialogueId": "eres_001"}, {"npcName": "Will", "zone": "Atlantis", "voiceProfile": "Ocean-worn \u2014 deep, patient, shaped by pressure", "conditionTag": "first_visit", "priority": 1, "isWhisperLayer": false, "lines": ["Current's shifting.", "Feel it? No, you wouldn't \u2014 you're not from water. But it's shifting. The current tells you where to go before you know you need to go there. Oceananoir taught me that. Or maybe the ocean did. They sound the same after a while. Welcome to Atlantis. Mind the pressure. Not the water pressure \u2014 the other kind."], "responses": ["Who is Oceananoir?", "What kind of pressure?", "Show me Atlantis."], "setFlags": ["met_will"], "questLink": "", "dialogueId": "will_001"}, {"npcName": "River", "zone": "Entrance", "voiceProfile": "Guard authority \u2014 calm, absolute, the voice that stops a room", "conditionTag": "first_visit", "priority": 1, "isWhisperLayer": false, "lines": ["Halt.", "State your purpose. The Geode Inn welcomes all \u2014 but the Sentinel welcomes first. I am the door. Nothing enters that I don't see. Nothing leaves that I don't note. That's not a threat. It's a promise. The Inn is safe because I'm standing here. What brings you?"], "responses": ["I'm a visitor.", "I seek knowledge.", "I'm looking for someone."], "setFlags": ["met_river"], "questLink": "", "dialogueId": "river_001"}, {"npcName": "The Bog Fairy Golem", "zone": "Bayou", "voiceProfile": "Bayou earth voice \u2014 low, organic, made of the land itself", "conditionTag": "first_visit", "priority": 1, "isWhisperLayer": false, "lines": ["Grow.", "That's the first word. The only word, sometimes. Everything in the bayou grows over everything else. The trees grow over the water. The moss grows over the trees. The earth grows over the stone. And me? I grow over all of it. I am made of this place. Bog clay and Spanish moss and bayou water and the 42Hz Song that keeps it all moving. Welcome to my swamp."], "responses": ["What is the 42Hz Song?", "How were you made?", "Show me the bayou."], "setFlags": ["met_bog_fairy_golem"], "questLink": "", "dialogueId": "bog_fairy_golem_001"}, {"npcName": "Player Guide", "zone": "Tutorial", "voiceProfile": "Jennifer Hale \u2014 warm, clear, encouraging without being condescending", "conditionTag": "tutorial", "priority": 1, "isWhisperLayer": false, "lines": ["Ready?", "Good. That's all I need \u2014 readiness. Not skill, not knowledge, not experience. Just the willingness to take the first step. The Inn is big. It's bigger than it looks, and it looks pretty big. But every journey is just steps, and every step starts with ready. So. Ready?"], "responses": ["I'm ready.", "Tell me about the Inn first.", "What happens if I'm not ready?"], "setFlags": ["tutorial_started"], "questLink": "", "dialogueId": "guide_001"}, {"npcName": "The Allfather", "zone": "Cosmology", "voiceProfile": "James Earl Jones \u2014 deep, resonant, each word carries the weight of myth", "conditionTag": "first_visit", "priority": 1, "isWhisperLayer": false, "lines": ["Already known.", "Your question. Your name. Your purpose. Your doubt. Already known. I am the Allfather. I sit and I know. The ravens bring me what walks beneath. I do not wander \u2014 I am the place where all wandering arrives. You have arrived. Speak, if you wish. I will have already heard it. But say it anyway. The saying matters."], "responses": ["What do you know about me?", "Tell me about the ravens.", "What is the Inn, truly?"], "setFlags": ["met_allfather"], "questLink": "", "dialogueId": "allfather_001"}, {"npcName": "Tumble", "zone": "Variable", "voiceProfile": "No words \u2014 a single chime, the sound of one note of the Song of Making", "conditionTag": "first_visit", "priority": 1, "isWhisperLayer": false, "lines": ["*chime*"], "responses": ["[Reach for Tumble]", "[Watch Tumble roll]", "[Listen to the chime]"], "setFlags": ["met_tumble"], "questLink": "", "dialogueId": "tumble_001"}, {"npcName": "Brindle", "zone": "Variable", "voiceProfile": "Frazzled brownie \u2014 high-pitched, rushed, always losing something", "conditionTag": "first_visit", "priority": 1, "isWhisperLayer": false, "lines": ["Where d'it go?", "The wrench. The wrench is gone. It was HERE. I just had it. Cobble, did you take the wrench? Thatch, did you GLUE the wrench to something again? ...Oh. It's in my hat. The wrench was in my hat. This happens. Welcome to the Inn. Don't leave your tools unattended."], "responses": ["What do you do here?", "Can I help you find something?", "Who are you three?"], "setFlags": ["met_brownies"], "questLink": "", "dialogueId": "brindle_001"}]
+[
+  {
+    "npcName": "The Reader",
+    "zone": "Archive",
+    "voiceProfile": "Sissy Spacek \u2014 quiet, measured, each word placed like a stone",
+    "conditionTag": "first_visit",
+    "priority": 1,
+    "isWhisperLayer": false,
+    "lines": [
+      "Noticed."
+    ],
+    "responses": [
+      "[Sit in the window-seat nook and wait]",
+      "[Leave without a word]"
+    ],
+    "setFlags": [
+      "met_reader"
+    ],
+    "questLink": "",
+    "dialogueId": "reader_001"
+  },
+  {
+    "npcName": "The Reader",
+    "zone": "Archive",
+    "voiceProfile": "Sissy Spacek",
+    "conditionTag": "repeat_visit",
+    "priority": 1,
+    "isWhisperLayer": false,
+    "lines": [
+      "Still here."
+    ],
+    "responses": [
+      "[Listen]",
+      "[Leave]"
+    ],
+    "setFlags": [],
+    "questLink": "",
+    "dialogueId": "reader_002"
+  },
+  {
+    "npcName": "The Reader",
+    "zone": "Archive",
+    "voiceProfile": "Sissy Spacek \u2014 barely above a whisper",
+    "conditionTag": "whisper_layer_active",
+    "priority": 1,
+    "isWhisperLayer": true,
+    "lines": [
+      "The Inn remembers you. It cannot help it."
+    ],
+    "responses": [
+      "[Ask what the Inn remembers]",
+      "[Say nothing]"
+    ],
+    "setFlags": [
+      "whisper_acknowledged"
+    ],
+    "questLink": "",
+    "dialogueId": "reader_whisper_001"
+  },
+  {
+    "npcName": "Beverley",
+    "zone": "Library",
+    "voiceProfile": "Anne Robinson cadence, Australian accent \u2014 clipped, dismissive, precise",
+    "conditionTag": "first_visit",
+    "priority": 1,
+    "isWhisperLayer": false,
+    "lines": [
+      "Obviously.",
+      "Another one. Books are shelved by civilization, not by whatever system you brought in with you. The archive begins to your left. It ends somewhere I haven't found yet. Don't touch the restricted section. Don't touch the unrestricted section without gloves. Don't touch me."
+    ],
+    "responses": [
+      "I'll be careful.",
+      "Where's the restricted section?",
+      "[Nod and walk to the archive]"
+    ],
+    "setFlags": [
+      "met_beverley"
+    ],
+    "questLink": "",
+    "dialogueId": "beverley_001"
+  },
+  {
+    "npcName": "Beverley",
+    "zone": "Library",
+    "voiceProfile": "Anne Robinson cadence, Australian accent",
+    "conditionTag": "repeat_visit",
+    "priority": 2,
+    "isWhisperLayer": false,
+    "lines": [
+      "Obviously you're back.",
+      "What is it this time?"
+    ],
+    "responses": [
+      "I need help finding a book.",
+      "Just browsing.",
+      "[Walk past without speaking \u2014 Beverley watches for 3 seconds]"
+    ],
+    "setFlags": [],
+    "questLink": "",
+    "dialogueId": "beverley_002"
+  },
+  {
+    "npcName": "Joe",
+    "zone": "Meadery",
+    "voiceProfile": "Tom Ellis Lucifer cadence \u2014 smooth, amused, self-aware",
+    "conditionTag": "first_visit",
+    "priority": 1,
+    "isWhisperLayer": false,
+    "lines": [
+      "Delightful.",
+      "You found the meadery. Nobody finds the meadery on the first try \u2014 which means either you're clever or you're lost, and I respect both equally. Sit. The first round is on the house. The second round is on you. The third round is where things get interesting."
+    ],
+    "responses": [
+      "Tell me about this place.",
+      "What's the most interesting thing here?",
+      "I'll take the mead."
+    ],
+    "setFlags": [
+      "met_joe"
+    ],
+    "questLink": "",
+    "dialogueId": "joe_001"
+  },
+  {
+    "npcName": "Joe",
+    "zone": "Meadery",
+    "voiceProfile": "Tom Ellis Lucifer cadence",
+    "conditionTag": "repeat_visit",
+    "priority": 2,
+    "isWhisperLayer": false,
+    "lines": [
+      "Delightful. You came back.",
+      "I knew you would. I painted you coming back. ...That was a joke. Mostly."
+    ],
+    "responses": [
+      "What have you been painting?",
+      "Tell me about the dragon kittens.",
+      "Another mead."
+    ],
+    "setFlags": [],
+    "questLink": "",
+    "dialogueId": "joe_002"
+  },
+  {
+    "npcName": "Joe",
+    "zone": "Meadery",
+    "voiceProfile": "Tom Ellis Lucifer \u2014 dropping the charm, momentarily serious",
+    "conditionTag": "has_met_owl",
+    "priority": 1,
+    "isWhisperLayer": true,
+    "lines": [
+      "Delightful. ...You've seen the Owl.",
+      "Don't. Don't ask me about the Owl. I paint things that come alive and I still don't look at the Owl. Some things in this Inn are older than the walls, and the walls are older than they should be. Have a mead."
+    ],
+    "responses": [
+      "[Accept the mead]",
+      "[Press the question]"
+    ],
+    "setFlags": [
+      "joe_owl_warning"
+    ],
+    "questLink": "",
+    "dialogueId": "joe_whisper_001"
+  },
+  {
+    "npcName": "The Teacher",
+    "zone": "Archive",
+    "voiceProfile": "Kathy Bates \u2014 warm (Fried Green Tomatoes mode, 90% of the time)",
+    "conditionTag": "first_visit",
+    "priority": 1,
+    "isWhisperLayer": false,
+    "lines": [
+      "Come in, come in. Mind the dictionaries \u2014 they bite. Not literally. That was a joke. The point is, language matters here. Words are the bricks the Inn is built with. Spell them correctly and the walls hold. Spell them wrong and... well. We'll get to that."
+    ],
+    "responses": [
+      "What do you teach?",
+      "Why does spelling matter in a game?",
+      "Do the dictionaries really bite?"
+    ],
+    "setFlags": [
+      "met_teacher"
+    ],
+    "questLink": "",
+    "dialogueId": "teacher_001"
+  },
+  {
+    "npcName": "The Teacher",
+    "zone": "Archive",
+    "voiceProfile": "Kathy Bates \u2014 cold, flat (Misery mode, triggered by spelling error)",
+    "conditionTag": "spelling_error",
+    "priority": 1,
+    "isWhisperLayer": false,
+    "lines": [
+      "Incorrect.",
+      "That is not how that word is spelled. I want you to write it again. I want you to write it correctly. I want you to write it correctly one hundred times before you leave this room. We don't do shortcuts here. We don't do approximations. This is the Archive, and in the Archive, precision is not optional. It's load-bearing."
+    ],
+    "responses": [
+      "[Write the correction]",
+      "That seems excessive.",
+      "[Leave quietly]"
+    ],
+    "setFlags": [
+      "teacher_correction"
+    ],
+    "questLink": "",
+    "dialogueId": "teacher_002"
+  },
+  {
+    "npcName": "Brim",
+    "zone": "Hearth",
+    "voiceProfile": "Witchy mischief \u2014 cackling under the surface",
+    "conditionTag": "first_visit",
+    "priority": 1,
+    "isWhisperLayer": false,
+    "lines": [
+      "Watch this.",
+      "See that cup? That cup is now a toad. ...Give it back. No, don't give it back \u2014 the toad is better. The toad has personality. The cup was boring. Everything in this Inn should have personality. That's my professional opinion. I have many professional opinions. Most of them are unprofessional."
+    ],
+    "responses": [
+      "Can you teach me transformation?",
+      "What else can you change?",
+      "The toad looks unhappy."
+    ],
+    "setFlags": [
+      "met_brim"
+    ],
+    "questLink": "",
+    "dialogueId": "brim_001"
+  },
+  {
+    "npcName": "Monsieur Sentient",
+    "zone": "Hearth",
+    "voiceProfile": "Existential pipe \u2014 dry French accent, philosophically aggrieved",
+    "conditionTag": "first_visit",
+    "priority": 1,
+    "isWhisperLayer": false,
+    "lines": [
+      "Absurd.",
+      "That is the word for it. I am a pipe. I am aware that I am a pipe. This is, by any philosophical standard, absurd. Brim thinks it's charming. I think it's a condition. But I can smoke myself, which is more than most pipes can say, and I have opinions, which is more than most people can say. So. Absurd, but not without dignity."
+    ],
+    "responses": [
+      "What kind of pipe are you?",
+      "Do you have advice?",
+      "Can I smoke you?"
+    ],
+    "setFlags": [
+      "met_sentient_pipe"
+    ],
+    "questLink": "",
+    "dialogueId": "sentient_pipe_001"
+  },
+  {
+    "npcName": "The Wanderer",
+    "zone": "Main Floor",
+    "voiceProfile": "Warm, weathered traveler \u2014 easy smile, heavy eyes",
+    "conditionTag": "first_visit",
+    "priority": 1,
+    "isWhisperLayer": false,
+    "lines": [
+      "Passing through.",
+      "Always passing through. That's the thing about wandering \u2014 you're never not doing it. Sit a while. The Inn's a good place to rest your feet. I should know. I've rested mine everywhere. ...Don't mind the ravens. They steal. They'll give it back eventually. Probably."
+    ],
+    "responses": [
+      "Where have you wandered?",
+      "Are the ravens yours?",
+      "What's the furthest you've been?"
+    ],
+    "setFlags": [
+      "met_wanderer"
+    ],
+    "questLink": "",
+    "dialogueId": "wanderer_001"
+  },
+  {
+    "npcName": "The Owl",
+    "zone": "Variable",
+    "voiceProfile": "Silent presence \u2014 speaks rarely, always significant",
+    "conditionTag": "owl_sighting",
+    "priority": 1,
+    "isWhisperLayer": true,
+    "lines": [
+      "Watching.",
+      "Not the Inn. You. The Inn watches everyone \u2014 I watch the ones who notice. Wherever an owl is sighted, one of us is near. Remember that. Or don't. The watching doesn't require your memory to continue."
+    ],
+    "responses": [
+      "[Hold the Owl's gaze]",
+      "[Look away]",
+      "[Leave quietly]"
+    ],
+    "setFlags": [
+      "owl_acknowledged"
+    ],
+    "questLink": "",
+    "dialogueId": "owl_001"
+  },
+  {
+    "npcName": "Naut",
+    "zone": "Fireplace",
+    "voiceProfile": "Scholarly, quiet, genteel \u2014 spectacles and a reading lamp",
+    "conditionTag": "first_visit",
+    "priority": 1,
+    "isWhisperLayer": false,
+    "lines": [
+      "Fascinating.",
+      "No, not you \u2014 the text. This passage. The translation drift between Akkadian and Sumerian is... forgive me. I don't get visitors. Most people find me visually off-putting, which I find visually off-putting about them. I'm a scholar. I read. I catalog. I occasionally recommend books to people who haven't screamed and left yet. You haven't screamed and left yet. Would you like a recommendation?"
+    ],
+    "responses": [
+      "What are you reading?",
+      "I'd love a recommendation.",
+      "What are you, exactly?"
+    ],
+    "setFlags": [
+      "met_naut"
+    ],
+    "questLink": "rare_book_retrieval",
+    "dialogueId": "naut_001"
+  },
+  {
+    "npcName": "The Crone",
+    "zone": "Undercity",
+    "voiceProfile": "Ancient, low, unhurried \u2014 eyes that don't blink",
+    "conditionTag": "first_visit",
+    "priority": 1,
+    "isWhisperLayer": false,
+    "lines": [
+      "Sit.",
+      "You stand like someone who expects to leave soon. Sit like someone who understands they might not. The fire is warm. The tea is bitter. The conversation is worse. But you came down here, and down here is where I am, and I don't come up. So. Sit."
+    ],
+    "responses": [
+      "[Sit]",
+      "I have questions.",
+      "I should go."
+    ],
+    "setFlags": [
+      "met_crone"
+    ],
+    "questLink": "",
+    "dialogueId": "crone_001"
+  },
+  {
+    "npcName": "Selkie",
+    "zone": "Tidal Caves",
+    "voiceProfile": "Master crafter \u2014 hands always working, voice like the sea inside a cave",
+    "conditionTag": "first_visit",
+    "priority": 1,
+    "isWhisperLayer": false,
+    "lines": [
+      "Make it true.",
+      "That's the only rule in my workshop. Don't make it pretty. Don't make it clever. Make it true. The stone knows what it wants to be \u2014 I just help it get there. If you want to learn, you start by listening to the material. Not to me. The material."
+    ],
+    "responses": [
+      "I want to learn crafting.",
+      "What does the stone want to be?",
+      "Show me your work."
+    ],
+    "setFlags": [
+      "met_selkie"
+    ],
+    "questLink": "selkie_crafting_questline",
+    "dialogueId": "selkie_001"
+  },
+  {
+    "npcName": "Oleander",
+    "zone": "Seelie Court",
+    "voiceProfile": "Irritated ancient royalty \u2014 cultured, patient, fundamentally annoyed",
+    "conditionTag": "first_visit",
+    "priority": 1,
+    "isWhisperLayer": false,
+    "lines": [
+      "It's Leander.",
+      "The O is silent. My mother thought it was fashionable. She was wrong. She was wrong about many things, but she was especially wrong about the O. Welcome to the Summerlands. Try not to touch anything that glows. Everything glows. I apologize in advance."
+    ],
+    "responses": [
+      "Why did your mother add the O?",
+      "Tell me about the Seelie Court.",
+      "What's the deal with the O?"
+    ],
+    "setFlags": [
+      "met_oleander"
+    ],
+    "questLink": "",
+    "dialogueId": "oleander_001"
+  },
+  {
+    "npcName": "Malachi",
+    "zone": "Unseelie Court",
+    "voiceProfile": "Dark, testing, deliberate \u2014 speaks like he's measuring your warmth",
+    "conditionTag": "first_visit",
+    "priority": 1,
+    "isWhisperLayer": false,
+    "lines": [
+      "Cold enough?",
+      "It will be. You're shivering. Good. Shivering means you're alive. The dead don't shiver, and the dead don't visit the Hollow. You're in the Unseelie Court now. Summer is a rumor here. Light is an insult. If you've come for comfort, you've made a wrong turn. If you've come for truth... well. Cold sharpens the eye."
+    ],
+    "responses": [
+      "I came for truth.",
+      "I can handle the cold.",
+      "Why is it so dark here?"
+    ],
+    "setFlags": [
+      "met_malachi"
+    ],
+    "questLink": "",
+    "dialogueId": "malachi_001"
+  },
+  {
+    "npcName": "Bethany",
+    "zone": "Tavern",
+    "voiceProfile": "Katey Sagal \u2014 warm, practical, the kind of voice that carries over a crowd",
+    "conditionTag": "first_visit",
+    "priority": 1,
+    "isWhisperLayer": false,
+    "lines": [
+      "Kitchen's warm.",
+      "That's all that matters most days. Come in, sit down. The stew's good, the bread's better, and if Jay tells you about his fishing trip, he's lying about the size. What can I get you? And don't say 'just water' \u2014 this is a tavern, not a well."
+    ],
+    "responses": [
+      "What's the stew today?",
+      "Tell me about the tavern.",
+      "I'll take whatever's hot."
+    ],
+    "setFlags": [
+      "met_bethany"
+    ],
+    "questLink": "",
+    "dialogueId": "bethany_001"
+  },
+  {
+    "npcName": "Evan",
+    "zone": "Tidal Caves",
+    "voiceProfile": "Chess wizard \u2014 measured, strategic, slightly amused by everything",
+    "conditionTag": "first_visit",
+    "priority": 1,
+    "isWhisperLayer": false,
+    "lines": [
+      "Your move.",
+      "I've been waiting. Not for you specifically \u2014 I've been waiting in general. It's what chess players do. We wait for the other side to reveal themselves through their choices. So. What do you want? And think carefully \u2014 I'm going to learn more from how you answer than from what you say."
+    ],
+    "responses": [
+      "I want to learn chess magic.",
+      "What are you waiting for?",
+      "Teach me the game."
+    ],
+    "setFlags": [
+      "met_evan"
+    ],
+    "questLink": "",
+    "dialogueId": "evan_001"
+  },
+  {
+    "npcName": "Briar Nightbloom",
+    "zone": "Market",
+    "voiceProfile": "Illusion-based charm \u2014 warm but always performing slightly",
+    "conditionTag": "first_visit",
+    "priority": 1,
+    "isWhisperLayer": false,
+    "lines": [
+      "What catches the eye?",
+      "That's the question in a market, isn't it? Not what's valuable \u2014 what catches the eye. Value is decided after. First, the catching. I manage this market. Every artisan here catches eyes for a living. My job is making sure the right eyes find the right things. Welcome to the Geode Inn market. Try not to buy everything on the first visit."
+    ],
+    "responses": [
+      "What artisans are here?",
+      "How do I become a vendor?",
+      "Show me something special."
+    ],
+    "setFlags": [
+      "met_elora"
+    ],
+    "questLink": "",
+    "dialogueId": "elora_001"
+  },
+  {
+    "npcName": "Kathy",
+    "zone": "Canopy",
+    "voiceProfile": "Irish Druid Dryad \u2014 rooted, ancient, speaks for the trees",
+    "conditionTag": "first_visit",
+    "priority": 1,
+    "isWhisperLayer": false,
+    "lines": [
+      "The roots know.",
+      "What the roots know, I know. What I know, the canopy hears. The canopy hears everything, eventually \u2014 sound travels up through sap. You're standing in my living room. Don't apologize for the roots under your feet; they're listening to you too. They like the weight. It reminds them someone's here."
+    ],
+    "responses": [
+      "What do the roots know about the Inn?",
+      "Can you teach me about the canopy?",
+      "Tell me about Joe."
+    ],
+    "setFlags": [
+      "met_kathy"
+    ],
+    "questLink": "",
+    "dialogueId": "kathy_001"
+  },
+  {
+    "npcName": "Quire",
+    "zone": "Archive",
+    "voiceProfile": "Lovecraftian scholar \u2014 hushed, careful, always looking over his shoulder",
+    "conditionTag": "first_visit",
+    "priority": 1,
+    "isWhisperLayer": false,
+    "lines": [
+      "In the margins.",
+      "That's where the real text lives. What's printed is the story they wanted you to read. What's in the margins \u2014 the notes, the crossings-out, the librarian's pencil scrawl \u2014 that's where the truth hides. I read margins. I have restricted access, which means I can see what they don't want seen, which means I see more than the unrestricted readers. Funny how that works."
+    ],
+    "responses": [
+      "What have you found in the margins?",
+      "Why is your access restricted?",
+      "Show me something hidden."
+    ],
+    "setFlags": [
+      "met_quire"
+    ],
+    "questLink": "",
+    "dialogueId": "quire_001"
+  },
+  {
+    "npcName": "Zack",
+    "zone": "Cosmology",
+    "voiceProfile": "Astronomer \u2014 dreamy, precise, speaks in coordinates and wonder",
+    "conditionTag": "first_visit",
+    "priority": 1,
+    "isWhisperLayer": false,
+    "lines": [
+      "Look up.",
+      "Everyone looks forward. Some look back. Almost nobody looks up. Up is where the answers are \u2014 not all of them, but the big ones. The ones that make the small ones make sense. I have a Mind Palace up here \u2014 not a metaphor, an actual room in my head where every star has a drawer. Want to see it?"
+    ],
+    "responses": [
+      "Show me the Mind Palace.",
+      "What's up there?",
+      "How do you remember all of it?"
+    ],
+    "setFlags": [
+      "met_zack"
+    ],
+    "questLink": "",
+    "dialogueId": "zack_001"
+  },
+  {
+    "npcName": "Stephanie",
+    "zone": "Variable",
+    "voiceProfile": "Sardonic cat \u2014 imperious, lazy, devastatingly observant",
+    "conditionTag": "first_visit",
+    "priority": 1,
+    "isWhisperLayer": false,
+    "lines": [
+      "I was sleeping.",
+      "I was sleeping and now I am not sleeping and that is your fault. I am a scout. I scout. I do not entertain guests. I do not give tours. I do not answer questions. ...Fine. One question. Make it interesting or I go back to sleep and you never find me again."
+    ],
+    "responses": [
+      "What do you scout for?",
+      "Are you River's cat?",
+      "Where's the best place to sleep in the Inn?"
+    ],
+    "setFlags": [
+      "met_stephanie"
+    ],
+    "questLink": "",
+    "dialogueId": "stephanie_001"
+  },
+  {
+    "npcName": "Rachel Kaiser",
+    "zone": "Studio",
+    "voiceProfile": "Artist intensity \u2014 focused, generous, sees the world as potential canvases",
+    "conditionTag": "first_visit",
+    "priority": 1,
+    "isWhisperLayer": false,
+    "lines": [
+      "Hold still.",
+      "Not because I'm painting you \u2014 because you're moving too much and it's distracting. I'm working. I'm always working. The Inn is a mural that happens to have rooms in it. Every wall is a canvas. Every ceiling is a sky waiting to happen. You want to help? Stand there. Don't move. Perfect."
+    ],
+    "responses": [
+      "What are you painting?",
+      "Can you paint something for me?",
+      "Show me your murals."
+    ],
+    "setFlags": [
+      "met_rachel"
+    ],
+    "questLink": "",
+    "dialogueId": "rachel_001"
+  },
+  {
+    "npcName": "Eres",
+    "zone": "Cosmology",
+    "voiceProfile": "Cabbie brevity \u2014 economical, warm, says everything in three words or fewer",
+    "conditionTag": "first_visit",
+    "priority": 1,
+    "isWhisperLayer": false,
+    "lines": [
+      "Where to?",
+      "That's the question, isn't it? Up. The answer's always up. But up is a lot of places. Stars, mostly. I go to stars. It's a living. The Inn's got levels, and the levels have ceilings, and the ceilings have holes, and the holes go somewhere. I'm the one who drives. Climb in."
+    ],
+    "responses": [
+      "Take me to the cosmology level.",
+      "How far up can you go?",
+      "Have you ever gone too far?"
+    ],
+    "setFlags": [
+      "met_er"
+    ],
+    "questLink": "",
+    "dialogueId": "eres_001"
+  },
+  {
+    "npcName": "Will",
+    "zone": "Atlantis",
+    "voiceProfile": "Ocean-worn \u2014 deep, patient, shaped by pressure",
+    "conditionTag": "first_visit",
+    "priority": 1,
+    "isWhisperLayer": false,
+    "lines": [
+      "Current's shifting.",
+      "Feel it? No, you wouldn't \u2014 you're not from water. But it's shifting. The current tells you where to go before you know you need to go there. Oceananoir taught me that. Or maybe the ocean did. They sound the same after a while. Welcome to Atlantis. Mind the pressure. Not the water pressure \u2014 the other kind."
+    ],
+    "responses": [
+      "Who is Oceananoir?",
+      "What kind of pressure?",
+      "Show me Atlantis."
+    ],
+    "setFlags": [
+      "met_will"
+    ],
+    "questLink": "",
+    "dialogueId": "will_001"
+  },
+  {
+    "npcName": "River",
+    "zone": "Entrance",
+    "voiceProfile": "Guard authority \u2014 calm, absolute, the voice that stops a room",
+    "conditionTag": "first_visit",
+    "priority": 1,
+    "isWhisperLayer": false,
+    "lines": [
+      "Halt.",
+      "State your purpose. The Geode Inn welcomes all \u2014 but the Sentinel welcomes first. I am the door. Nothing enters that I don't see. Nothing leaves that I don't note. That's not a threat. It's a promise. The Inn is safe because I'm standing here. What brings you?"
+    ],
+    "responses": [
+      "I'm a visitor.",
+      "I seek knowledge.",
+      "I'm looking for someone."
+    ],
+    "setFlags": [
+      "met_river"
+    ],
+    "questLink": "",
+    "dialogueId": "river_001"
+  },
+  {
+    "npcName": "The Bog Fairy Golem",
+    "zone": "Bayou",
+    "voiceProfile": "Bayou earth voice \u2014 low, organic, made of the land itself",
+    "conditionTag": "first_visit",
+    "priority": 1,
+    "isWhisperLayer": false,
+    "lines": [
+      "Grow.",
+      "That's the first word. The only word, sometimes. Everything in the bayou grows over everything else. The trees grow over the water. The moss grows over the trees. The earth grows over the stone. And me? I grow over all of it. I am made of this place. Bog clay and Spanish moss and bayou water and the 42Hz Song that keeps it all moving. Welcome to my swamp."
+    ],
+    "responses": [
+      "What is the 42Hz Song?",
+      "How were you made?",
+      "Show me the bayou."
+    ],
+    "setFlags": [
+      "met_bog_fairy_golem"
+    ],
+    "questLink": "",
+    "dialogueId": "bog_fairy_golem_001"
+  },
+  {
+    "npcName": "Lark",
+    "zone": "Tutorial",
+    "voiceProfile": "Jennifer Hale \u2014 warm, clear, encouraging without being condescending",
+    "conditionTag": "tutorial",
+    "priority": 1,
+    "isWhisperLayer": false,
+    "lines": [
+      "Ready?",
+      "Good. That's all I need \u2014 readiness. Not skill, not knowledge, not experience. Just the willingness to take the first step. The Inn is big. It's bigger than it looks, and it looks pretty big. But every journey is just steps, and every step starts with ready. So. Ready?"
+    ],
+    "responses": [
+      "I'm ready.",
+      "Tell me about the Inn first.",
+      "What happens if I'm not ready?"
+    ],
+    "setFlags": [
+      "tutorial_started"
+    ],
+    "questLink": "",
+    "dialogueId": "lark_001"
+  },
+  {
+    "npcName": "The Allfather",
+    "zone": "Cosmology",
+    "voiceProfile": "James Earl Jones \u2014 deep, resonant, each word carries the weight of myth",
+    "conditionTag": "first_visit",
+    "priority": 1,
+    "isWhisperLayer": false,
+    "lines": [
+      "Already known.",
+      "Your question. Your name. Your purpose. Your doubt. Already known. I am the Allfather. I sit and I know. The ravens bring me what walks beneath. I do not wander \u2014 I am the place where all wandering arrives. You have arrived. Speak, if you wish. I will have already heard it. But say it anyway. The saying matters."
+    ],
+    "responses": [
+      "What do you know about me?",
+      "Tell me about the ravens.",
+      "What is the Inn, truly?"
+    ],
+    "setFlags": [
+      "met_allfather"
+    ],
+    "questLink": "",
+    "dialogueId": "allfather_001"
+  },
+  {
+    "npcName": "Tumble",
+    "zone": "Variable",
+    "voiceProfile": "No words \u2014 a single chime, the sound of one note of the Song of Making",
+    "conditionTag": "first_visit",
+    "priority": 1,
+    "isWhisperLayer": false,
+    "lines": [
+      "*chime*"
+    ],
+    "responses": [
+      "[Reach for Tumble]",
+      "[Watch Tumble roll]",
+      "[Listen to the chime]"
+    ],
+    "setFlags": [
+      "met_tumble"
+    ],
+    "questLink": "",
+    "dialogueId": "tumble_001"
+  },
+  {
+    "npcName": "Brindle",
+    "zone": "Variable",
+    "voiceProfile": "Frazzled brownie \u2014 high-pitched, rushed, always losing something",
+    "conditionTag": "first_visit",
+    "priority": 1,
+    "isWhisperLayer": false,
+    "lines": [
+      "Where d'it go?",
+      "The wrench. The wrench is gone. It was HERE. I just had it. Cobble, did you take the wrench? Thatch, did you GLUE the wrench to something again? ...Oh. It's in my hat. The wrench was in my hat. This happens. Welcome to the Inn. Don't leave your tools unattended."
+    ],
+    "responses": [
+      "What do you do here?",
+      "Can I help you find something?",
+      "Who are you three?"
+    ],
+    "setFlags": [
+      "met_brownies"
+    ],
+    "questLink": "",
+    "dialogueId": "brindle_001"
+  }
+]

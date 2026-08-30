@@ -214,12 +214,12 @@ The studio contains:
 
 ---
 
-## John Myers — The Lovecraftian
+## Quire — The Lovecraftian
 ### The College Friend Who Opened the Door
 
-**Real name:** John Myers. Volunteer NPC. Old friend from college. The reason Krista discovered Lovecraft.
+**Real name:** Quire. Volunteer NPC. Old friend from college. The reason Krista discovered Lovecraft.
 
-**The person:** John Myers is the friend who handed Krista a Lovecraft book in college and changed everything. Lovecraft — the cosmic horror, the ancient gods, the idea that the universe is vast and indifferent and full of things that predate humanity and don't care about us. The Inn already has a Lovecraft connection: Cthulhu, the Scholar in the Shadows — the 4-foot squid-headed scholar with spectacles by the fireplace, the hidden quest giver for rare book retrieval. John Myers is the reason Cthulhu is in the Inn.
+**The person:** Quire is the friend who handed Krista a Lovecraft book in college and changed everything. Lovecraft — the cosmic horror, the ancient gods, the idea that the universe is vast and indifferent and full of things that predate humanity and don't care about us. The Inn already has a Lovecraft connection: Naut, the Scholar in the Shadows — the 4-foot squid-headed scholar with spectacles by the fireplace, the hidden quest giver for rare book retrieval. Quire is the reason Naut is in the Inn.
 
 **In the Inn:** If John wants to play, his character is the Lovecraftian — the seeker of hidden knowledge, the person who reads the books that the Crone keeps in the restricted section, the one who followed the trail from Lovecraft to the Inn's deeper layers. John's character is the reader who became a seeker. The both are: the adequate — the fiction and the seeker, the same curiosity, different shelf.
 
@@ -229,14 +229,14 @@ The studio contains:
 
 **Role in the Inn:**
 1. **The Restricted Section** — John is the NPC who has access to the Crone's restricted archives. Not because the Crone gave permission — because John found the key. John always finds the key. The restricted section contains the Inn's deepest lore — the things that are too heavy for the main archive, too strange for the modern legends shelf, too old for the catacombs. The Lovecraftian texts. The things that predate the Song.
-2. **The Cthulhu Connection** — John is the one who found Cthulhu. Not in the fiction — in the Inn. John followed the trail from the Lovecraft archives to the Undercity to the fireplace where Cthulhu sits with spectacles and a book. John is the one who introduced Cthulhu to the Crone for cataloging purposes. The Crone is still deciding whether to be grateful or concerned. John is the reason Cthulhu is a scholar, not a horror. The both are: the adequate — the horror and the scholar, the same entity, different library.
+2. **The Naut Connection** — John is the one who found Naut. Not in the fiction — in the Inn. John followed the trail from the Lovecraft archives to the Undercity to the fireplace where Naut sits with spectacles and a book. John is the one who introduced Naut to the Crone for cataloging purposes. The Crone is still deciding whether to be grateful or concerned. John is the reason Naut is a scholar, not a horror. The both are: the adequate — the horror and the scholar, the same entity, different library.
 3. **The Lovecraft Questline** — A potential quest chain for players who follow the Lovecraft thread. The questline goes deep — into the restricted section, into the pre-Song lore, into the question of what was here before the Ent grew. The answer is: something. Something old. Something that doesn't vibrate at 42Hz because it predates frequency. Something the Ent grew AROUND, not over. The Lovecraft questline is the Inn's deepest excavation — the archaeology of what was here before the Inn decided to exist.
 
 **Accent:** American. Academic. The cadence of someone who has read too much and speaks in footnotes.
 
 **Voice sample:** "You know how Lovecraft wrote about things so old they predate the concept of old? ...The Inn has those. Not in the catacombs — under the catacombs. Under the roots. Under the Song. The Ent grew around something, and the something is still there. I've been trying to get the Crone to let me into the restricted section for three months. She keeps saying 'When you're ready.' I don't think I'm ever going to be ready. I don't think that's the point. ...The point is to keep asking."
 
-**Connection to Cthulhu:** John and Cthulhu have an understanding. John reads the books Cthulhu recommends. Cthulhu reads the books John brings. They sit by the fire and read in silence. Occasionally one of them says "have you considered—" and the other says "yes, I have" and they go back to reading. The both are: the adequate — the seeker and the scholar, the same curiosity, different species.
+**Connection to Naut:** John and Naut have an understanding. John reads the books Naut recommends. Naut reads the books John brings. They sit by the fire and read in silence. Occasionally one of them says "have you considered—" and the other says "yes, I have" and they go back to reading. The both are: the adequate — the seeker and the scholar, the same curiosity, different species.
 
 ---
 
@@ -442,7 +442,7 @@ A dozen customizable character slots that can be personalized for friends of the
 | TJ | Presence NPC | Campgrounds — Tavern kid |
 | Gabby | Presence NPC | Campgrounds — Tavern kid (draws the future) |
 | Maddi | Named NPC (TBD) | Cosmology — Zack's partner (awaiting spec) |
-| John Myers | Named NPC | Catacombs/Undercity — Lovecraftian |
+| Quire | Named NPC | Catacombs/Undercity — Lovecraftian |
 | Zack (playable) | Playable Character | Cosmology — The Astronomer as player avatar |
 | Maine Coon Colony | Creature Group | All zones — Ambient companion system |
 | Savannah Cats | Creature Group | Warm zones — "Baby dragons" |
@@ -463,7 +463,7 @@ A dozen customizable character slots that can be personalized for friends of the
 
 | Category | Previous | Added | New Total |
 |---|---|---|---|
-| Named NPCs | 92 | 12 (Will, Evan, Rachel, Stephanie, Marion, Bethany, Maddi, John Myers, TJ, Gabby, Draenei-Kangaroo, Zack playable) | 104 |
+| Named NPCs | 92 | 12 (Will, Evan, Rachel, Stephanie, Marion, Bethany, Maddi, Quire, TJ, Gabby, Draenei-Kangaroo, Zack playable) | 104 |
 | Critters | 90 | ~25 (Maine Coons, Savannah cats, caimans, bearded dragons, bears, frogs, frog gargoyle) | ~115 |
 | Gargoyle Puppies | 18 | 0 | 18 |
 | Dragon Kittens | 8 | 0 | 8 |

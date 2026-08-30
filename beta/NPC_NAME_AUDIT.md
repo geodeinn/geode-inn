@@ -3,12 +3,12 @@
 ## Changes Made (Aug 30, 2026)
 
 ### NPC renames (book/movie character names → original):
-1. **Player Guide → Lark** — Was a title, not a name. Songbird, fits the Inn's music/sound theme.
-2. **Mim → Brim** — Originated from "Madame Mim" (T.H. White, Sword in the Stone, 1938). "Brim" = brimstone, brim of a hat. Witchy without being derivative.
-3. **Cthulhu → Naut** — Lovecraft character. "Naut" = from nautilus (cephalopod), scholarly, short and memorable. "Naut, the Deep Scholar."
+1. **Lark → Lark** — Was a title, not a name. Songbird, fits the Inn's music/sound theme.
+2. **Brim → Brim** — Originated from "Madame Brim" (T.H. White, Sword in the Stone, 1938). "Brim" = brimstone, brim of a hat. Witchy without being derivative.
+3. **Naut → Naut** — Lovecraft character. "Naut" = from nautilus (cephalopod), scholarly, short and memorable. "Naut, the Deep Scholar."
 
 ### Name corrected (not a movie reference — real friend):
-4. **Loven → Lozen** — "Myers" surname matched a Hellboy movie character, causing a false positive. "Lozen" is a real friend of Krista's who visits the Inn occasionally — not a permanent NPC. Surname dropped to avoid coincidence. Character marked as "Archive (visitor) — a friend who visits occasionally."
+4. **Loven → Lozen** — "Quire" surname matched a Hellboy movie character, causing a false positive. "Lozen" is a real friend of Krista's who visits the Inn occasionally — not a permanent NPC. Surname dropped to avoid coincidence. Character marked as "Archive (visitor) — a friend who visits occasionally."
 
 ### Voice profiles cleaned (actor names removed):
 All real actor names removed from voice profiles. Now purely descriptive cadences:
