@@ -1310,3 +1310,103 @@ All 32 creatures are chibi-style playable characters for the "Monster of the Dee
 **Location:** Undercity copper pipes (bearded dragons), Tidal Caves shallows (caimans)
 **Role:** Bearded dragons = oversized sweethearts, Undercity heating system. Caimans = patient mini crocodilians, frogs ride their backs
 **Linework:** Heavy cel-shaded (tradesman)
+
+---
+
+## ORIGINAL ZONE VISUALS — 25 Zones (Batch: Aug 30)
+
+### Z12. Desert Bone / Egypt (O'Keeffe × Royo)
+**Image:** https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/f9351b6c0_generated_image.png
+**Zone:** World Map — Egypt, Form Sight quest chain, Sphinx, Anubis, Bastet
+
+### Z13. Aegean Light / Greece (Monet × Royo)
+**Image:** https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/b123185b6_generated_image.png
+**Zone:** World Map — Greece, light-as-subject, dissolving edges, the Labyrinth
+
+### Z14. Atlantis (Royo — foundational)
+**Image:** https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/6ccd98c1d_generated_image.png
+**Zone:** Water — drowned cathedral, living crystal architecture, bronze-gold palette
+
+### Z15. Cosmology Level (Dalí × Royo)
+**Image:** https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/2e90eaad7_generated_image.png
+**Zone:** Cosmology — impossible architecture, orrery, Astronomer's mind palace
+
+### Z16. Catacombs (Klimt Death and Life × Royo)
+**Image:** https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/b089261d9_generated_image.png
+**Zone:** Underground — root system, golden geode interior, death made beautiful
+
+### Z17. Undercity (Gothic Cathedral × Steampunk × Burton × Royo)
+**Image:** https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/50554d9d3_generated_image.png
+**Zone:** Underground — gothic everything, copper pipework, cozy gothic atmosphere
+
+### Z18. Alchemical Staircase (Matisse × Royo)
+**Image:** https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/7c5bd5700_generated_image.png
+**Zone:** Staircase — trunk of Inn-Tree, color as alchemy, spiral ascent in musical key
+
+### Z19. Mesopotamia (Hokusai × Royo)
+**Image:** https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/3fb906d7f_generated_image.png
+**Zone:** World Map — ziggurats, river civilization, flat color woodblock energy
+
+### Z20. Camelot (Moreau × Royo)
+**Image:** https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/d0fd10389_generated_image.png
+**Zone:** World Map — sacred geometry, symbolist ornament, Round Table, chess board
+
+### Z21. Peru / Andes (Guo Xi × Royo)
+**Image:** https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/343754288_generated_image.png
+**Zone:** World Map — waking mountains, Inca terracing, three-distance perspective
+
+### Z22. Petrified Forest (Ansel Adams × Royo)
+**Image:** https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/f36a87bd9_generated_image.png
+**Zone:** National Parks — geological orchestra in black and white, mineral-replaced wood
+
+### Z23. Redwood Cathedral (Emily Carr × Royo)
+**Image:** https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/779af17de_generated_image.png
+**Zone:** National Parks — living tree cathedral, exploring/climbing/building, Queen of Roots
+
+### Z24. China / Terracotta Army (Mulan ink-wash × Royo)
+**Image:** https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/248b19af0_generated_image.png
+**Zone:** World Map — ink-wash mountains, terracotta soldiers, cherry blossom punctuation
+
+### Z25. Bayou / Buried Cities (Don't Starve / Burton × Royo)
+**Image:** https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/9bd14d6ec_generated_image.png
+**Zone:** World Map — swamp, colonial gothic church, pre-colonial door, Bog Fairy Golem
+
+### Z26. Norse Realms (Book of Kells × Royo)
+**Image:** https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/bd7b427e7_generated_image.png
+**Zone:** World Map — feast hall, illuminated manuscript architecture, the zone of STOP
+
+### Z27. Miskatonic Annex (Rousseau × Royo)
+**Image:** https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/42d12b713_generated_image.png
+**Zone:** Underground — impossible clarity jungle, Lovecraftian university, Cthulhu connection
+
+### Z28. The Garden (Van Gogh × Royo)
+**Image:** https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/b9993d22d_generated_image.png
+**Zone:** Main Floor — visible energy of growing, 42Hz as brushwork, the sap made visible
+
+### Z29. The Meadery (Picasso × Royo)
+**Image:** https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/a4a04871b_generated_image.png
+**Zone:** Main Floor — shifting styles as the day progresses, mead-making, haven that transforms
+
+### Z30. Seelie Court (Alan Lee × Royo)
+**Image:** https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/0de31fc75_generated_image.png
+**Zone:** Fae Kingdom — golden hour, Rivendell energy, perpetual autumn beauty
+
+### Z31. Inn Exterior (Rousseau + Magritte × Royo)
+**Image:** https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/ffa55ba55_generated_image.png
+**Zone:** Exterior — forest approach, Magritte sky, the held breath before entering
+
+### Z32. Trovant Garden (Kossoff × Royo)
+**Image:** https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/81d4b6c8e_generated_image.png
+**Zone:** National Parks — living stones, impasto as geological growth, accretion
+
+### Z33. Tidal Caves (Wyndham Lewis × Royo)
+**Image:** https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/206512647_generated_image.png
+**Zone:** Water — water as mechanical force, cave as engine, Vorticism, Selkie's workshop
+
+### Z34. Bosch Shadows (Bosch × Royo)
+**Image:** https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/6348ca7a9_generated_image.png
+**Zone:** Texture element — frequency-dependent cave-wall silhouettes, ambient ancient shadows
+
+### Z35. Spiral Gallery (Multi-artist × Royo)
+**Image:** https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/5b4f925ae_generated_image.png
+**Zone:** Underground — Guggenheim spiral, six perception chambers, art history as architecture
