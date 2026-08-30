@@ -1146,3 +1146,12 @@ All 32 creatures are chibi-style playable characters for the "Monster of the Dee
 **Role:** Cave painter, teacher of seeing
 **Cultural Roots:** Irish
 **Design Notes:** Ochre-stained leather apron, crude brush, pot of pigment. Cave wall covered in paleolithic paintings that MOVE in the firelight — animals walk, hunters run, spirits dance. Bosch cave shadows visible — silhouettes cast FROM the paintings by frequency. Soft flowing linework (lore). Palette: ochre red, charcoal black, firelight amber, stone grey. The both are: the adequate — the painting and the living, the same image, different light.
+
+---
+
+### 42. Marijke — Valkyrie Mode
+**Image:** https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/9d878f82d_generated_image.png
+**Location:** The Mead Hall (Norse)
+**Role:** The Volva gone Valkyrie — quiet menace, the shadow with wings
+**Cultural Roots:** Dutch/Scandinavian (Viking)
+**Design Notes:** Same character as Volva Marijke but transformed — posture rigid, eyes cold, hands precise on bones instead of gentle. The shadow on the wall behind her is tall, winged, wrong — the Valkyrie that was always underneath. Firelight dimmed to cold amber. Heavy cel-shaded linework (tradesman). The mood is quiet menace — she hasn't raised her voice, hasn't moved, but the room changed temperature. Earth browns, bone white, cold iron, one thread of cold blue shamanic energy.

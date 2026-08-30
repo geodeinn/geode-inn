@@ -44,7 +44,8 @@ The Mead Hall (Norse zone), at a low wooden table covered in bone fragments. The
 
 ## Visual Design
 
-**Image:** https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/f6a06450c_generated_image.png
+**Volva Image:** https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/f6a06450c_generated_image.png
+**Valkyrie Image:** https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/9d878f82d_generated_image.png
 **Linework:** Heavy cel-shaded (tradesperson class)
 **Palette:** Earth browns, bone white, fur grey, dark iron, warm amber firelight, one cold blue thread of shamanic energy through the bone arrangement
 **Key details:**
