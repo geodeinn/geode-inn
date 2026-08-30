@@ -1042,3 +1042,91 @@ All 32 creatures are chibi-style playable characters for the "Monster of the Dee
 6 Full Presence + 1 Ambulatory + 8 Fae NPCs + 11 Arcade Cast + 2 Ravens + 32 Water Monsters = 60
 
 🎉 ALL CHARACTER ART DESIGNS COMPLETE
+
+---
+
+## Inn Staff & NPCs — Voice-Profiled Characters (Batch 2)
+
+### 28. Beverley (The Librarian)
+**Image:** https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/1a49dc2f2_generated_image.png
+**Location:** The Archive (Main Floor)
+**Role:** Librarian — the Inn's most intimidating resident
+**Cultural Roots:** Australian
+**Design Notes:** Two-thirds human height. Silver hair, spectacles, dark high-collared coat with brass buttons. Anne Robinson cadence — the tilted head, the look-through-you gaze. Celtic knotwork along shelving edges in thin gold. Heavy cel-shaded linework (tradesperson). Smallest person in the building; silences the Firekeeper and Catalyst by walking past.
+
+### 29. The Teacher
+**Image:** https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/fbcb64e9c_generated_image.png
+**Location:** Archive desk (Main Floor)
+**Role:** Language guardian, idiom collector
+**Cultural Roots:** Canadian
+**Design Notes:** Kathy Bates energy, softened features. Cardigan, reading glasses on chain, red pen. Separate book: "What People Say When They Mean Something Else." Cel-shaded linework with hairline fractures toward fragmented (crisis mode beneath the warm surface). Three modes: warm (90%), cold correction, rare horror (glasses off).
+
+### 30. The Selkie (Artisan Thief)
+**Image:** https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/415f20f60_generated_image.png
+**Location:** Tidal Caves workshop (Water Zone)
+**Role:** Krista's player character, master crafter
+**Cultural Roots:** Irish/Scottish coastal
+**Design Notes:** Sandman Netflix aesthetic — pale, ethereal, dark hair with saltwater memory. Jeweler's leather apron = the selkie skin. Holding a cabochon moonstone showing adularescence. Half-submerged tidal cave workshop, tide-powered grinding wheel. Lewis Wyland water-zone style. Soft flowing linework (lore). Two worlds visible: maker and wild thing.
+
+### 31. The Norns (Urd, Verdandi, Skuld)
+**Image:** https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/22c91a390_generated_image.png
+**Location:** Distributed (Bone Room / Main Floor / Cosmology)
+**Role:** Fate-weavers tracking player resonance
+**Cultural Roots:** Icelandic / Old Norse
+**Design Notes:** Three sisters in Icelandic landscape. Urd (Past) slow, heavy, dark robes, bowl of reflecting water. Verdandi (Present) mid-motion, weaving golden thread. Skuld (Future) hooded, sparse, holding shears. Thread connects all three with 42Hz glow. No-outline linework (cosmological). Aurora borealis overhead.
+
+### 32. The Host (Innkeeper)
+**Image:** https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/721d657c1_generated_image.png
+**Location:** Main Floor entrance
+**Role:** Welcomer, tea-giver
+**Cultural Roots:** British (RP)
+**Design Notes:** Patrick Stewart energy, softened features. White beard, walking staff, teacup. Dark coat with Celtic knotwork embroidery in gold. Massive ancient door with glowing crystal frame. Klimt warm interior. Heavy cel-shaded linework (tradesperson). Hospitality as practice, not performance.
+
+### 33. The Firekeeper & The Catalyst
+**Image:** https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/3732c796c_generated_image.png
+**Location:** Main Floor hearth and bar
+**Role:** Storyteller (tells stories TO you) and Listener (pulls stories OUT of you)
+**Cultural Roots:** British
+**Design Notes:** Firekeeper: Tim Curry energy, softened features, wild dark hair, copper steampunk coat, theatrical gesture beside hearth. Catalyst: Helena Bonham Carter energy, softened features, wild curls, bar apron, plants growing from the bar. Lived-in chemistry — bickering without speaking. Heavy cel-shaded linework. Both are information gatherers for the Whisper Layer.
+
+### 34. The Reader
+**Image:** https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/b10c2d99c_generated_image.png
+**Location:** Window-seat nook, Archive
+**Role:** None. Pure atmosphere.
+**Cultural Roots:** British (incognito)
+**Design Notes:** Neil Gaiman energy, softened features — trying to be invisible, succeeding. Dark hair, glasses, black coat, book face-down, warm tea. No quest marker, no glow. Impossible sky through the window. Soft flowing linework (lore). Easy to walk past. The Inn's quietest thesis statement. One line per visit.
+
+### 35. Oceananoir
+**Image:** https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/ec77dbccc_generated_image.png
+**Location:** Atlantis (deep-water archive)
+**Role:** Scientist, linguist, periodic table architect
+**Cultural Roots:** French
+**Design Notes:** Goth scientist/warlock. Glowing periodic table tattoos (metals amber, noble gases signature colors, rare earths shimmer). Wire-rimmed glasses, dark academic coat. Murloc familiar (Squeak) beside. Royo underwater lighting. Gothic anime influence. 118 elements as spellbook.
+
+### 36. Katy (Plant Necromancer)
+**Image:** https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/614484658_generated_image.png
+**Location:** The Garden (Van Gogh zone)
+**Role:** Plant necromancer, the Walking Van Gogh
+**Cultural Roots:** Southern Dutch (Brabant)
+**Design Notes:** Van Gogh's world in fantasy. Sunflowers taller than character, bioluminescent irises, vines growing toward sound. Worn apron, soil-stained hands, dead plant un-wilting. Humming a sustained note. Cadmium yellow, cobalt blue, emerald green palette. Soft flowing linework (lore). The necromancy is care.
+
+### 37. Mim & Monsieur Sentient
+**Image:** https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/0b18e4b66_generated_image.png
+**Location:** Magritte Zone (surrealist)
+**Role:** Witch, transformation specialist
+**Cultural Roots:** Belgian
+**Design Notes:** Mim: Belgian French energy, playful deadpan surrealist. Dark coat with surreal elements (cloud pocket, starry collar). Floating sentient pipe (Monsieur Sentient) steaming a question mark. Magritte palette: sky blue, cloud white, greens, stone grey. Floating bowler hat, green apple/bird. No-outline linework (cosmological). "Non?"
+
+### 38. The Fixer (Wrought)
+**Image:** https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/025f930ae_generated_image.png
+**Location:** The Inn's foundations (invisible)
+**Role:** Celtic mason, infrastructure repair
+**Cultural Roots:** Welsh
+**Design Notes:** Small, wiry, calloused. Celtic knotwork clothing with hidden masonic symbols (compass in spiral, square in lattice, plumb line in thread). Trowel in hand, fresh mortar visible. Already moving to the next repair. Heavy cel-shaded linework (tradesperson). Earth tones: slate, stone, mortar, iron. "There." Then gone.
+
+### 39. Thorin & Marijke
+**Image:** https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/fe575da61_generated_image.png
+**Location:** Mead Hall (Norse)
+**Role:** Rock hounds, geological advisors
+**Cultural Roots:** Swedish (Thorin — Gustaf Skarsgård Floki energy) / Dutch (Marijke)
+**Design Notes:** Thorin: extrovert facade, broad grin, tankard, river agate, piercing blue eyes (hermit scholar peeking through). Celtic mug and drinking horn at belt. Braided beard. Marijke: blunt, direct, compact, geologist's hammer, loupe to a stone, expression that says you overpaid. Heavy cel-shaded linework (tradesperson). Warm firelight, dark wood, mineral sparkle.
