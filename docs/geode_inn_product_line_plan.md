@@ -599,3 +599,54 @@ The closing segment. A retired character from a previous comic strip arc makes a
 *The novel is the spine. The graphic novel is the vision. The tabletop game is the experience. The audiobook is the sound. The podcast is the door.*
 *All five are: adequate.*
 *All five are: enough.*
+
+---
+
+# PART 9: THE CARD GAME — "Resonance"
+
+## The Hearthstone-Style CCG
+
+A collectible card game where every NPC is a card, every zone is a board, every stone is a resource, and the 50 BPM heartbeat is the turn timer. Playable online and offline.
+
+Full spec: geode_inn_card_game_spec.md
+
+## Key Features
+- 12 base heroes (The Host, The Crone, The Firekeeper, The Catalyst, The Astronomer, The Constant, Mim, The Selkie, The Pirate, The Siren, The Morrigan, The Allfather) + 12 unlockable expansion heroes
+- 6 card types: Stone cards (198), Minion cards (all NPCs), Spell cards (frequency-based), Charm cards (118 element charms), Gargoyle cards (6 persistent board effects), Pet cards (Tumble, the Duck, the Cabbit, Bloop, Huginn/Muninn)
+- 37 zone-based boards, each with its artist style and ambient audio
+- The frequency system as core mechanic: 42Hz (growth), 84Hz (petrify), 111Hz (scry), In-Between (shift)
+- Online: ranked, casual, arena draft, festival events
+- Offline: vs AI (NPC decks with established voices), 4 solo campaigns following the novel, practice mode
+- Monthly Egg card drops with community voting
+- Uses existing entities: Stone, ElementCharm, BoardSkin, Leaderboard, EggHatch
+
+## Pricing
+- Free to play (base set + campaigns + AI)
+- Card packs: $1.99 | Zone packs: $2.99
+- Board skins: $3.99 | Hero skins: $4.99
+- Complete Card Collection: $49.99
+- Included in The Complete Inn bundle
+
+## Cross-Product Integration
+- The card game IS the arcade from the novel
+- Card art IS the graphic novel's art (shared visual language)
+- Tabletop stone/charm cards scan to unlock digital equivalents
+- Audiobook stone tones ARE the card game's stone card sounds
+- Podcast covers card strategies and new card reveals
+- Comic strip shows card battle moments
+
+---
+
+## Updated Product Line Summary (Final)
+
+| Product | Format | Price | Purpose |
+|---------|--------|-------|---------|
+| The Novel | Digital/Paperback/Hardcover | $14.99-$39.99 | The spine — the full story |
+| The Graphic Novel | 5 volumes, digital/physical | $9.99-$149.99 | The vision — 37 artists |
+| The Tabletop Game | Core set + expansions | $49.99-$99.99 | The experience — frequency dice |
+| The Audiobook | Full-cast, digital/physical | $24.99-$99.99 | The sound — every voice placed |
+| The Podcast | Free/Premium | Free-$49.99/yr | The hook — daily doors into the Inn |
+| The Card Game | F2P + packs + bundles | Free-$49.99 | The game — every NPC is a card |
+
+## Updated Final Bundle
+- The Complete Inn (Novel + Graphic Novel set + Tabletop Starter + Audiobook + 1yr Premium Podcast + Complete Card Collection): $399.99
