@@ -237,3 +237,110 @@ Examples: The Inn itself, the Final Room, the Whisper Layer
 - Seasonal events change available materials
 - The more you gather from a zone, the more the zone "remembers" you (Whisper Layer integration)
 
+
+---
+
+## Village & Community Building System
+
+### The Sim Dynamic
+
+The Geode Inn is the seed of a player-built world. Players don't just visit the Inn — they build around it. The Inn is the permanent center; everything else grows outward based on what players actually build.
+
+### Progression
+
+#### Phase 1: Homesteading
+- Player claims a plot of land near the Inn (in the surrounding village area)
+- Plots are organized in concentric rings: closer to the Inn = more expensive/prestigious
+- Player gathers materials from the Inn's corridors and zones to build their home
+- Home building uses the existing 5-tier system:
+  - Tier 1: Lean-to (Oak + Reed + Moss) — basic shelter
+  - Tier 2: Cottage (Oak + Limestone + Bog Iron + Beeswax) — a real home
+  - Tier 3: Workshop Home (English Oak + Marble + Bronze + Amber + Garden plot) — home with a crafting station
+  - Tier 4: Estate (Luminwood + Marble + Gold Ore + Crystal + Luminite + Bog Oak) — a grand home
+  - Tier 5: Ancestral Hall (one of every material) — a legacy home that persists across sessions
+
+#### Phase 2: Expansion
+- Player expands outward from their home:
+  - Garden plots (grow your own materials — herbs, simple woods)
+  - Workshops (crafting stations near your home)
+  - Storage buildings (keep gathered materials safe)
+  - Decorations (fountains, statues, paths, lighting)
+  - Defensive structures (walls, gates — for the Shadow Inn version)
+- Each expansion requires specific materials from specific zones
+- Expansions connect to the zone corridors — building a garden requires Garden Path materials, building a forge requires Forge Road materials
+
+#### Phase 3: Community Formation
+- When multiple players build near each other, the game detects a cluster:
+  - 2-3 homes near each other = a Hamlet
+  - 5-10 homes = a Village
+  - 10-20 homes = a Town
+  - 20+ homes = a City
+- Communities auto-generate:
+  - Shared resources (community garden, shared storage)
+  - NPC services (merchant, guard, artisan)
+  - Community buildings (well, market square, tavern, meeting hall)
+  - Roads connecting homes to each other and to the Inn
+- Community buildings require group contributions — multiple players gathering together
+
+#### Phase 4: Village Identity
+- Each village develops its own identity based on:
+  - Which zones the villagers gather from most (a village near the Bayou becomes a swamp village; one near Norse becomes a Nordic settlement)
+  - What they build most (a village of crafters vs. a village of explorers)
+  - Which NPCs settle there (attracted by specific amenities)
+  - The village's collective Fae reputation (good Fae relations attract Fae visitors)
+- Villages get named by their founders
+- The daily comic strip features events from active villages
+
+#### Phase 5: World Expansion
+- As villages grow, the world map expands outward from the Inn
+- New zones unlock based on community size and exploration
+- Villages establish trade routes with the Inn and with each other
+- The Whisper Layer tracks village growth — the Inn remembers what was built and by whom
+- Eventually, the world is a patchwork of player-built communities connected by roads, trade routes, and shared stories
+
+### Building Mechanics
+
+#### Plot System
+- Grid-based plot system around the Inn (like SimCity zones)
+- Plot types:
+  - Residential (homes)
+  - Agricultural (gardens, farms)
+  - Commercial (shops, markets)
+  - Industrial (workshops, forges)
+  - Civic (community buildings, meeting halls)
+  - Wild (left natural — attracts creatures, forages)
+- Plots closer to the Inn cost more but have better access to corridors
+- Outer plots are cheaper but require longer travel to gathering zones
+
+#### Material Flow
+The Inn's corridors are the supply lines:
+- Garden Path corridor → supplies garden plots and residential wood materials
+- Forge Road corridor → supplies industrial plots with metals
+- Market Street corridor → supplies commercial plots with trade goods
+- Each cultural zone corridor → supplies zone-specific building materials
+- The further you expand from the Inn, the more infrastructure (roads, bridges) you need to build to maintain material flow
+
+#### Community Buildings (requires group effort)
+- Village Well (5 players: Limestone + Marble + Crystal + fresh water)
+- Market Square (10 players: Sandstone + Bronze + Oak + Amber + Resin)
+- Community Tavern (8 players: Oak + Honey + Beeswax + Hops + English Oak)
+- Meeting Hall (15 players: English Oak + Yew + Limestone + Marble + Gold Ore)
+- Village Gate (12 players: Bog Iron + Runestone + Limestone + Amber + Oak)
+- Trade Post (10 players: Teak + Bamboo + Copper + Indigo + Lacquer)
+- Fae Embassy (20 players: Luminwood + Luminite + Fae Dust + Fairy Silk + Resonance Crystal)
+
+### Persistence
+- Player homes persist between sessions
+- Villages persist even when founders are offline (NPCs maintain them)
+- The Whisper Layer records the history of every building — who built it, when, and what it was for
+- Abandoned homes decay over time (materials return to the world) unless maintained
+- The Inn never decays — it is permanent, the anchor
+
+### Connection to Existing Systems
+- **Gathering**: All building materials come from the corridor/zone gathering system
+- **Marketplace**: Villages with commercial plots can host artisan listings
+- **Creature Catalog**: Wild plots attract creatures; some creatures only settle near specific building types
+- **Comic Strip**: Village events become comic strip content
+- **Whisper Layer**: The Inn tracks what every player builds — the village is the visible record of community
+- **Fae Kingdom**: Villages with Fae Embassies can access Fae materials without traveling to the Fae Kingdom
+- **Shadow Inn**: The Shadow Inn version of villages shows what was built vs. what was abandoned
