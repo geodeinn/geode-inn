@@ -1410,3 +1410,81 @@ All 32 creatures are chibi-style playable characters for the "Monster of the Dee
 ### Z35. Spiral Gallery (Multi-artist × Royo)
 **Image:** https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/5b4f925ae_generated_image.png
 **Zone:** Underground — Guggenheim spiral, six perception chambers, art history as architecture
+
+---
+
+## IN-GAME CHARACTER APPEARANCES — Missing Characters + Full Presence (Aug 30)
+
+### 58. Anubis — Full Presence (In-Game)
+**Image:** https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/712f4767d_generated_image.png
+**Location:** Desert Bone — tomb chamber
+**Role:** Full Presence — indigo shadow, deep bass voice, the weighing of the heart
+**Linework:** Heavy cel-shaded transitioning to no-outline at edges (shadow dissolving)
+**Note:** The monumental version — NOT the chibi arcade version. Nine feet of judgment.
+
+### 59. Joe — The Miniaturist (In-Game)
+**Image:** https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/320bf0f99_generated_image.png
+**Location:** Undercity — Joe's studio
+**Role:** Vampire sorcerer, Warhammer painter, dragon kitten creator, Tom Ellis Lucifer cadence
+**Linework:** Heavy cel-shaded (tradesman)
+
+### 60. Kathy — The Irish Druid Dryad (In-Game)
+**Image:** https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/0b15d9aa2_generated_image.png
+**Location:** Canopy City — living tree architecture
+**Role:** Joe's wife, druid who became the tree's wisdom, canopy architect, Round Table grower
+**Linework:** Heavy cel-shaded (tradesman) with soft flowing (lore) accents
+
+### 61. River — The Sentinel (In-Game)
+**Image:** https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/0c5b7ccc5_generated_image.png
+**Location:** Inn entrance
+**Role:** 6th character class, Golden Gloves champion, INFJ, the Inn's guard
+**Linework:** Sharp/angular (guardian)
+
+### 62. The Bog Fairy Golem (In-Game)
+**Image:** https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/a1f7ef8f1_generated_image.png
+**Location:** Bayou zone
+**Role:** Krista's avatar, the swamp's keeper, 42Hz Murmur made into a body
+**Linework:** Heavy cel-shaded (tradesman) with soft flowing (lore) at edges
+
+### 63. The Crone — Full Presence (In-Game)
+**Image:** https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/4afafe1b5_generated_image.png
+**Location:** Archive — desk
+**Role:** The Inn's intellectual authority, Hopkins intellect + MacLaine personality, the standard
+**Linework:** Soft flowing (lore)
+**Note:** Earlier haunting version exists in gallery — see the_crone.png and the_crone_v2.png
+
+### 64. Tumble (In-Game)
+**Image:** https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/39e6ba186_generated_image.png
+**Location:** Undercity (stuck in a copper pipe joint)
+**Role:** 4-inch ball of fur, living crystal note of the Song, the only true innocent
+**Linework:** Heavy cel-shaded (tradesman)
+
+### 65. Erik — The Norse Feast Host (In-Game)
+**Image:** https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/2f6449187_generated_image.png
+**Location:** Norse Realms — feast hall
+**Role:** The zone that teaches STOP, rewards presence not action, host of the feast fire
+**Linework:** Heavy cel-shaded (tradesman) with soft flowing (lore) accents
+
+### 66. The Pirate (Eres) & The Cabbit (In-Game)
+**Image:** https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/78a8c806b_generated_image.png
+**Location:** Cosmology Level
+**Role:** Cabbit = visible companion. Pirate = never fully seen, only glimpsed. Unexplained phenomena.
+**Linework:** No-outline (cosmological) for Pirate, cel-shaded for Cabbit
+
+### 67. Nyx — Primordial Night (In-Game)
+**Image:** https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/0c1521a6b_generated_image.png
+**Location:** Cosmology Level — edge of the void
+**Role:** The darkness between stars, oldest being in the cosmology, medium in which time happens
+**Linework:** No-outline (cosmological)
+
+### 68. The Constant (In-Game)
+**Image:** https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/0cbaaa7e8_generated_image.png
+**Location:** Cosmology Level — bridge of light between universes
+**Role:** Carries the starlight crystal through the void between dying and nascent universes
+**Linework:** No-outline (cosmological)
+
+### 69. Miracle Max — Theatrical Alchemist (In-Game)
+**Image:** https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/3eb6cfcb3_generated_image.png
+**Location:** Alchemical Staircase — lab counter
+**Role:** Day-shift alchemist, shopkeeper, performer, seller. Opposite of Will (night-shift methodical).
+**Linework:** Heavy cel-shaded (tradesman)
