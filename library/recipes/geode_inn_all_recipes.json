@@ -41,7 +41,7 @@
       6
     ],
     "description": "A circular subterranean chamber featuring dry-laid stone bench seating, a central hearth, a deflector wall, a sipapu floor niche, and turquoise decorative accents.",
-    "historicalNote": "Kivas served as spiritual, social, and political gathering spaces. The sipapu—a small hole in the kiva floor—symbolized the ancestral portal of emergence into the current world."
+    "historicalNote": "Kivas served as spiritual, social, and political gathering spaces. The sipapu\u2014a small hole in the kiva floor\u2014symbolized the ancestral portal of emergence into the current world."
   },
   {
     "resultName": "Cliff Alcove Palace",
@@ -57,7 +57,7 @@
       15
     ],
     "description": "A multi-story masonry structure built inside a massive sandstone cliff alcove, framed with juniper beams and adorned with inlaid turquoise mosaic amulets.",
-    "historicalNote": "Built during the Pueblo III period (1150–1300 CE) in locations like Mesa Verde and Canyon de Chelly, cliff dwellings offered microclimate advantages and natural defense."
+    "historicalNote": "Built during the Pueblo III period (1150\u20131300 CE) in locations like Mesa Verde and Canyon de Chelly, cliff dwellings offered microclimate advantages and natural defense."
   },
   {
     "resultName": "Great House Citadel",
@@ -301,7 +301,7 @@
       30
     ],
     "description": "A expansive mountain farmstead featuring a multi-room chestnut log main house, oak timber barn, stone springhouse, and dedicated ginseng curing sheds.",
-    "historicalNote": "Appalachian mountain culture combined Native woodland herbal knowledge—such as wild American ginseng foraging—with Scots-Irish timber notch construction traditions."
+    "historicalNote": "Appalachian mountain culture combined Native woodland herbal knowledge\u2014such as wild American ginseng foraging\u2014with Scots-Irish timber notch construction traditions."
   },
   {
     "resultName": "Agate Flaking Shrine",
@@ -361,7 +361,7 @@
       30
     ],
     "description": "A substantial stone dwelling built from heavy petrified wood tree trunks, featuring agate-inlaid doorways and translucent chalcedony window panes.",
-    "historicalNote": "Built around 1050–1300 CE, Agate House in Petrified Forest National Park is a famous 8-room pueblo constructed almost entirely from fossilized petrified wood logs."
+    "historicalNote": "Built around 1050\u20131300 CE, Agate House in Petrified Forest National Park is a famous 8-room pueblo constructed almost entirely from fossilized petrified wood logs."
   },
   {
     "resultName": "Lithic Crystal Sanctum",
@@ -454,5 +454,373 @@
     ],
     "description": "A monumental multi-family longhouse built from ancient old-growth redwood timbers, featuring elevated boardwalks, fog-moss insulated roofs, and carved entrance archways.",
     "historicalNote": "Pacific Coast longhouses were masterpieces of wood engineering, accommodating potlatch gatherings, winter ceremonies, and multiple extended families under one vast roof."
+  },
+  {
+    "resultName": "Stave Church Framework",
+    "buildingTier": 4,
+    "materials": [
+      "bog_oak",
+      "pine_tar",
+      "iron"
+    ],
+    "quantities": [
+      40,
+      10,
+      15
+    ],
+    "description": "A towering wooden church structure with dragon-head gables and intricately carved portals, built from ancient bog oak preserved in Irish peat for over a millennium.",
+    "historicalNote": "Stave churches (11th-13th century Norway) used vertical wooden posts (staves) as load-bearing columns. Only 28 survive today. The dragon-head gables predate Christian adoption and reference Norse sea-faring imagery."
+  },
+  {
+    "resultName": "Longhouse Hearth",
+    "buildingTier": 2,
+    "materials": [
+      "oak",
+      "thatch",
+      "clay"
+    ],
+    "quantities": [
+      25,
+      20,
+      10
+    ],
+    "description": "A communal Norse longhouse with a central fire pit, smoke hole, and paired rows of timber posts supporting a turf roof.",
+    "historicalNote": "Norse longhouses (500-1000 CE) were single-room structures housing entire families with livestock at one end. The central hearth was the only heat source and the social focal point."
+  },
+  {
+    "resultName": "Turf Wall Section",
+    "buildingTier": 1,
+    "materials": [
+      "turf",
+      "stone_rubble",
+      "driftwood"
+    ],
+    "quantities": [
+      15,
+      10,
+      5
+    ],
+    "description": "A double-faced turf wall with stone rubble core and driftwood bracing, providing insulation and windbreak in harsh coastal climates.",
+    "historicalNote": "Turf construction was standard in tree-poor Iceland and Greenland. Turf walls could last 70+ years and provided superior insulation compared to stone alone."
+  },
+  {
+    "resultName": "Mudbrick Mastaba",
+    "buildingTier": 1,
+    "materials": [
+      "mudbrick",
+      "limestone_rubble",
+      "palm_wood"
+    ],
+    "quantities": [
+      20,
+      5,
+      8
+    ],
+    "description": "A flat-roofed rectangular tomb structure of sun-dried mudbrick with a limestone rubble casing and palm beam supports.",
+    "historicalNote": "Mastabas (Early Dynastic Period, 3100-2686 BCE) were the precursor to pyramids. The name comes from the Arabic word for 'bench' due to their shape."
+  },
+  {
+    "resultName": "Limestone Column Drum",
+    "buildingTier": 3,
+    "materials": [
+      "limestone",
+      "copper_chisel",
+      "sand_abrasive"
+    ],
+    "quantities": [
+      15,
+      3,
+      5
+    ],
+    "description": "A single cylindrical drum section for a Egyptian temple column, shaped by copper chisels and polished with sand abrasive.",
+    "historicalNote": "Egyptian stone columns (Old Kingdom onward) were built from stacked drum sections. Each drum was carved separately then fitted \u2014 a technique allowing columns of any height."
+  },
+  {
+    "resultName": "Papyrus Reed Pavilion",
+    "buildingTier": 1,
+    "materials": [
+      "papyrus_reed",
+      "linen",
+      "acacia_wood"
+    ],
+    "quantities": [
+      30,
+      5,
+      8
+    ],
+    "description": "A lightweight shade structure with bundled papyrus reed columns and a stretched linen canopy on an acacia frame.",
+    "historicalNote": "Papyrus reed pavilions were common in Nile Delta settlements. The reed column shape inspired early stone columns in Egyptian temples."
+  },
+  {
+    "resultName": "Pagoda Tier",
+    "buildingTier": 3,
+    "materials": [
+      "cypress",
+      "ceramic_tile",
+      "iron_bracket"
+    ],
+    "quantities": [
+      20,
+      40,
+      10
+    ],
+    "description": "A single eaved tier of a multi-story pagoda with upturned ceramic tile roof corners and iron bracket supports.",
+    "historicalNote": "Chinese pagodas evolved from Indian stupas (Buddhist relics). The upturned eave corners appeared in the Tang Dynasty and became a defining architectural feature."
+  },
+  {
+    "resultName": "Dougong Bracket Set",
+    "buildingTier": 4,
+    "materials": [
+      "elm",
+      "oak",
+      "lacquer"
+    ],
+    "quantities": [
+      8,
+      5,
+      3
+    ],
+    "description": "An interlocking wooden bracket system that supports deep roof eaves without nails, using pure compression geometry.",
+    "historicalNote": "Dougong brackets (first appearing ~500 BCE) distribute weight from the roof to columns. They also act as earthquake dampers \u2014 buildings with dougong survived 8.0+ quakes that destroyed modern structures."
+  },
+  {
+    "resultName": "Rammed Earth Wall Section",
+    "buildingTier": 2,
+    "materials": [
+      "rammed_earth",
+      "bamboo",
+      "lime"
+    ],
+    "quantities": [
+      30,
+      5,
+      5
+    ],
+    "description": "A compressed earth wall with bamboo reinforcement and lime stabilization, built by tamping layers in a wooden form.",
+    "historicalNote": "Rammed earth construction dates to the Neolithic period in China. Sections of the Great Wall built with rammed earth have survived 2,000+ years."
+  },
+  {
+    "resultName": "Roundhouse Wattle Wall",
+    "buildingTier": 1,
+    "materials": [
+      "hazel_withies",
+      "daub",
+      "thatch"
+    ],
+    "quantities": [
+      20,
+      10,
+      15
+    ],
+    "description": "A circular wall of woven hazel withies coated in daub (clay/straw/dung), topped with a conical thatched roof.",
+    "historicalNote": "Iron Age Celtic roundhouses (800 BCE - 100 CE) were the dominant domestic structure across Britain and Ireland. The circular form provided structural stability in windy climates."
+  },
+  {
+    "resultName": "Broch Stone Tower",
+    "buildingTier": 4,
+    "materials": [
+      "dry_stone",
+      "slate",
+      "whale_bone"
+    ],
+    "quantities": [
+      80,
+      20,
+      3
+    ],
+    "description": "A double-walled dry-stone tower with internal galleries and staircases, capped with slate and braced with whale bone beams.",
+    "historicalNote": "Brochs (100 BCE - 100 CE, Scotland) are unique to Iron Age Scotland. The double-wall hollow construction provided insulation and structural stability. ~500 remain, mostly in the north and west."
+  },
+  {
+    "resultName": "Ashlar Terrace Wall",
+    "buildingTier": 3,
+    "materials": [
+      "andesite",
+      "bronze_chisel",
+      "clay mortar"
+    ],
+    "quantities": [
+      25,
+      3,
+      8
+    ],
+    "description": "A precision-cut stone terrace wall with interlocking polygonal blocks fitted without mortar, shaped by bronze chisels.",
+    "historicalNote": "Inca ashlar masonry (15th century) used polygonal blocks that interlock so precisely a knife blade cannot fit between them. This technique made walls earthquake-resistant."
+  },
+  {
+    "resultName": "Adobe Compound Wall",
+    "buildingTier": 2,
+    "materials": [
+      "adobe",
+      "cane",
+      "wood_beam"
+    ],
+    "quantities": [
+      25,
+      10,
+      8
+    ],
+    "description": "A thick mud-brick compound wall reinforced with vertical cane and horizontal wood beams for earthquake resistance.",
+    "historicalNote": "Coastal Peruvian cultures (Moche, Chim\u00fa) built massive adobe compounds. The Chan Chan citadel covered 20 km\u00b2 and used cane reinforcement for seismic stability."
+  },
+  {
+    "resultName": "Ziggurat Core Platform",
+    "buildingTier": 4,
+    "materials": [
+      "mudbrick",
+      "bitumen",
+      "reed_mat"
+    ],
+    "quantities": [
+      100,
+      15,
+      20
+    ],
+    "description": "A stepped pyramid platform with a mudbrick core wrapped in reed matting for moisture drainage and bitumen waterproofing.",
+    "historicalNote": "Ziggurats (3rd millennium BCE Mesopotamia) used reed matting layers between mudbrick courses to allow groundwater drainage. The bitumen waterproofing was essential in the floodplain."
+  },
+  {
+    "resultName": "Cuneiform Archive Shelf",
+    "buildingTier": 2,
+    "materials": [
+      "clay_tablet",
+      "cedar_plank",
+      "bitumen"
+    ],
+    "quantities": [
+      10,
+      8,
+      2
+    ],
+    "description": "A library shelf system for clay tablets, built from cedar planks sealed with bitumen against dampness.",
+    "historicalNote": "The Library of Ashurbanipal (7th century BCE, Nineveh) held 30,000+ clay tablets organized by subject. Cedar shelving resisted insects and moisture."
+  },
+  {
+    "resultName": "Cave Dwell Entry Hall",
+    "buildingTier": 2,
+    "materials": [
+      "tuff",
+      "wood_beam",
+      "stone_door_sill"
+    ],
+    "quantities": [
+      15,
+      8,
+      2
+    ],
+    "description": "A carved entry hall in volcanic tuff with wooden beam supports and a stone door sill, creating a sheltered vestibule.",
+    "historicalNote": "Cappadocian cave dwellings (4th-13th century CE, Turkey) were carved directly into soft volcanic tuff. Multi-story underground cities like Derinkuyu housed 20,000 people."
+  },
+  {
+    "resultName": "Luminwood Grove Archway",
+    "buildingTier": 4,
+    "materials": [
+      "luminwood",
+      "moonstone_dust",
+      "silver_wire"
+    ],
+    "quantities": [
+      10,
+      3,
+      5
+    ],
+    "description": "A living archway grown from Luminwood \u2014 legendary Fae Kingdom timber that only grows in Fae light \u2014 accented with moonstone dust strung on silver wire.",
+    "historicalNote": "Luminwood exists only in the Inn's Fae Kingdom zones. The wood glows faintly with the 42Hz hum and cannot be harvested by force \u2014 it must be given freely by the Fae."
+  },
+  {
+    "resultName": "Crystal-Cut Geode Doorway",
+    "buildingTier": 5,
+    "materials": [
+      "amethyst_geode",
+      "quartz_crystal",
+      "mithril_hinge"
+    ],
+    "quantities": [
+      3,
+      5,
+      2
+    ],
+    "description": "A doorway framed by a split amethyst geode, with quartz crystal handles and mithril hinges that never corrode.",
+    "historicalNote": "Tier 5 construction \u2014 the Inn's deepest building tier. Mithril is obtainable only from the Hollow Earth Grand Collision zone. Geode doorways resonate at the stone's natural frequency."
+  },
+  {
+    "resultName": "Seelie Gazebo",
+    "buildingTier": 3,
+    "materials": [
+      "luminwood",
+      "wildflower_thatch",
+      "gold_leaf"
+    ],
+    "quantities": [
+      8,
+      10,
+      2
+    ],
+    "description": "A circular open-air pavilion with a domed wildflower thatch roof, golden leaf accents, and luminwood pillars that hum in the 42Hz key.",
+    "historicalNote": "Seelie Court structures are grown, not built. The gazebo forms naturally where the 42Hz frequency is strongest. Gold leaf is applied by Seelie crafters as a gift to the structure."
+  },
+  {
+    "resultName": "Unseelie Ice Spire",
+    "buildingTier": 3,
+    "materials": [
+      "shadow_ice",
+      "obsidian",
+      "iron_chain"
+    ],
+    "quantities": [
+      15,
+      8,
+      5
+    ],
+    "description": "A sharp vertical spire of permanent shadow ice, reinforced with obsidian shards and bound with iron chains.",
+    "historicalNote": "Unseelie architecture grows downward, not upward. Shadow ice does not melt in sunlight \u2014 it only softens when the 84Hz frequency is played. Iron chains prevent the spire from drifting."
+  },
+  {
+    "resultName": "Artisan Display Table",
+    "buildingTier": 1,
+    "materials": [
+      "oak_plank",
+      "linen_cloth",
+      "candle_wax"
+    ],
+    "quantities": [
+      5,
+      2,
+      1
+    ],
+    "description": "A sturdy market display table with a linen cloth surface and candle wax coating for weather resistance.",
+    "historicalNote": "Market tables in medieval fairs were typically built on-site by the vendor and dismantled at fair's end. The wax coating protected goods from rain and dew."
+  },
+  {
+    "resultName": "Knotwork Window Screen",
+    "buildingTier": 2,
+    "materials": [
+      "oak",
+      "copper_wire",
+      "amber"
+    ],
+    "quantities": [
+      5,
+      10,
+      3
+    ],
+    "description": "An oak-framed window screen with intricate Celtic knotwork woven from copper wire and studded with amber beads.",
+    "historicalNote": "Celtic knotwork screens served both decorative and protective functions. The endless knot pattern symbolized eternity. Amber was traded from the Baltic since the Bronze Age."
+  },
+  {
+    "resultName": "Resonance Chamber Alcove",
+    "buildingTier": 3,
+    "materials": [
+      "sandstone",
+      "quartz_crystal",
+      "copper_resonator"
+    ],
+    "quantities": [
+      10,
+      3,
+      1
+    ],
+    "description": "A small alcove designed to amplify and focus the 42Hz frequency, lined with sandstone and centered on a quartz crystal node with a copper resonator.",
+    "historicalNote": "The Inn's resonance chambers are based on ancient amphitheater acoustics. The copper resonator is a Inn-specific device \u2014 a bowl that hums when the 42Hz frequency passes through it, directing the vibration toward the listener."
   }
 ]
