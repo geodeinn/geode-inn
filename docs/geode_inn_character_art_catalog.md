@@ -1130,3 +1130,19 @@ All 32 creatures are chibi-style playable characters for the "Monster of the Dee
 **Role:** Rock hounds, geological advisors
 **Cultural Roots:** Swedish (Thorin — Gustaf Skarsgård Floki energy) / Dutch (Marijke)
 **Design Notes:** Thorin: extrovert facade, broad grin, tankard, river agate, piercing blue eyes (hermit scholar peeking through). Celtic mug and drinking horn at belt. Braided beard. Marijke: blunt, direct, compact, geologist's hammer, loupe to a stone, expression that says you overpaid. Heavy cel-shaded linework (tradesperson). Warm firelight, dark wood, mineral sparkle.
+
+---
+
+### 40. The Cartographer (Updated — Dutch Root Design)
+**Image:** https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/3edbb6762_generated_image.png
+**Location:** The Archive (Main Floor) — Escher mapping station
+**Role:** Mapper of the Inn's impossible architecture
+**Cultural Roots:** Dutch
+**Design Notes:** Ink-stained fingers, brass compass, spectacles, dark coat with leather patches. Map tube across the back. Escher-inspired impossible geometry behind the character — staircases going up and down simultaneously, corridors looping. Heavy cel-shaded linework (tradesperson). Says "exactly" as a complete sentence. The only person who knows where everything is — and even the character isn't sure the map is finished.
+
+### 41. Eileen (Updated — Irish Root Design)
+**Image:** https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/bf9931efa_generated_image.png
+**Location:** The Catacombs (cave wall)
+**Role:** Cave painter, teacher of seeing
+**Cultural Roots:** Irish
+**Design Notes:** Ochre-stained leather apron, crude brush, pot of pigment. Cave wall covered in paleolithic paintings that MOVE in the firelight — animals walk, hunters run, spirits dance. Bosch cave shadows visible — silhouettes cast FROM the paintings by frequency. Soft flowing linework (lore). Palette: ochre red, charcoal black, firelight amber, stone grey. The both are: the adequate — the painting and the living, the same image, different light.
