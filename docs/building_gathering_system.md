@@ -344,3 +344,50 @@ The Inn's corridors are the supply lines:
 - **Whisper Layer**: The Inn tracks what every player builds — the village is the visible record of community
 - **Fae Kingdom**: Villages with Fae Embassies can access Fae materials without traveling to the Fae Kingdom
 - **Shadow Inn**: The Shadow Inn version of villages shows what was built vs. what was abandoned
+
+---
+
+## Historical Architecture Recipes — Disassembly Method
+
+Each historical building was reverse-engineered into its physical components, then each component was mapped to a material in a specific zone. The architecture IS the recipe — disassemble the building to learn what to gather and where.
+
+### Recipe Count: 106 total
+- 20 generic building recipes (Tier 1-5 foundation structures)
+- 86 historically grounded recipes across all cultural zones
+
+### By Tier:
+- Tier 1 (Simple): 18 recipes — pit houses, lean-tos, mudhifs, roundhouses
+- Tier 2 (Functional): 20 recipes — cottages, boathouses, storehouses, izbas
+- Tier 3 (Ornate): 20 recipes — kivas, theaters, stoas, longhouses, stave churches
+- Tier 4 (Master): 22 recipes — obelisks, pagodas, earth lodges, cliff dwellings
+- Tier 5 (Legendary): 26 recipes — ziggurats, parthenons, great houses, canopies
+
+### By Culture (disassembled buildings):
+- Egypt: 6 recipes (Worker Hut → Mortuary Temple)
+- Mesopotamia: 6 recipes (Mudhif → Ziggurat)
+- Greece: 5 recipes (Megaron → Parthenon)
+- Celtic/Camelot: 6 recipes (Roundhouse → Castle Keep)
+- Norse: 6 recipes (Pit House → Stave Church)
+- Slavic: 4 recipes (Izba → Cathedral of St. Sophia)
+- China: 6 recipes (Tea House → Imperial Dragon Pavilion)
+- India: 6 recipes (Chhatri → Royal Sandstone Palace)
+- Peru: 5 recipes (Storage Hut → Sun Usnu Platform)
+- Bayou: 6 recipes (Acadian Shelter → Grand Plantation Manor)
+- Colorado Plateau: 5 recipes (Pit House → Great House Citadel)
+- Yellowstone: 5 recipes (Sweat Lodge → Geyser Thermal Lodge)
+- Superstition Mountains: 5 recipes (Ramada → Apache Leap Stronghold)
+- Appalachian: 5 recipes (Lean-To → Great Smoky Homestead)
+- Petrified Forest: 5 recipes (Flaking Shrine → Lithic Crystal Sanctum)
+- Redwood: 5 recipes (Bark Sweat Lodge → Great Forest Canopy Longhouse)
+
+### New Materials Added (7):
+- Clay (Mesopotamia, Common) — river silt for mudbricks
+- Baked Brick (Mesopotamia/China, Uncommon) — kiln-fired construction
+- Bitumen (Mesopotamia, Uncommon) — natural asphalt mortar
+- Lapis Lazuli (Mesopotamia, Rare) — deep blue trade stone
+- Silk (China, Uncommon) — cultivated silkworm fiber
+- Jade (China, Rare) — carved decorative stone
+- Saguaro (Superstition Mountains, Uncommon) — cactus rib roof laths
+
+### Total Materials: 72
+### Total Building Recipes: 106
