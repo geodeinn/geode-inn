@@ -374,3 +374,107 @@ Three campaign endings matching the novel and game:
 *The novel is the spine. The graphic novel is the vision. The tabletop game is the experience.*
 *All three are: adequate.*
 *All three are: enough.*
+
+---
+
+# PART 7: THE AUDIOBOOK — "The Geode Inn: A Song of Stone and Silence"
+
+## The Full-Cast Audio Production
+
+Not an audiobook. An audio experience. The Inn's voice placement system — every NPC mapped to a cultural accent, cadence, and speech pattern — makes this a full-cast production. Each character speaks in their established voice. The narrator is the Inn itself.
+
+## Why This Is Now Possible
+
+The voice placement infrastructure is complete:
+- **Regional Voice Profiles:** Every NPC mapped to a real-world accent (Selkie=Irish, Cartographer=Dutch, Norns=Icelandic, Thorin=Swedish/Skarsgard, Oceananoir=French, Mim=Belgian, Fixer=Welsh, Teacher=Canadian, Beverley=Australian)
+- **Idiom Atlas:** 13 cultural expressions mapped to characters — idioms that ground dialogue in real speech patterns
+- **Character Cadences:** Specific speech patterns defined — Beverley (Anne Robinson clipped precision), Joe (Tom Ellis Lucifer smooth), The Reader (Gaiman cadence, one line per visit), The Teacher (Kathy Bates three modes), The Firekeeper (Tim Curry theatrical), The Catalyst (Helena Bonham Carter intimate)
+- **The 50 BPM Tempo:** The Inn's heartbeat tempo — the production's baseline rhythm
+- **The Triple-Layer IEM Audio Engine:** BC (deep knowing), DD (warm resonance), BA (clear voice), EST (perception edge) — the narrator's voice moves between layers based on scene
+- **Inn Mode:** Room DSP profiles (Archive, Catacombs, Observatory, Staircase, Shadow Inn, Geode Cave) — the audio environment shifts with the scene's location
+
+## Production Format
+
+### The Cast
+- **The Narrator:** The Inn itself. A warm, measured voice — not any single character. The narrator IS the Inn speaking. The narrator's voice carries the 50 BPM cadence — sentences breathe at the Inn's heartbeat. The narrator shifts between IEM layers: BC for deep lore passages, DD for warm social scenes, BA for clear exposition, EST for moments of perception/awareness.
+
+- **The Characters (full cast):** Each NPC voiced in their established accent and cadence:
+  - The Host: Patrick Stewart energy — warm, authoritative welcome
+  - The Crone: measured, ancient, the weight of centuries
+  - The Firekeeper: Tim Curry theatrical grandeur
+  - The Catalyst: Helena Bonham Carter intimate, pulling
+  - Beverley: Anne Robinson clipped precision, Australian accent
+  - The Teacher: Kathy Bates — warm (Fried Green Tomatoes) shifting to cold (Misery) to rare horror (AHS)
+  - The Cartographer: Dutch accent, fast-talking, mind racing
+  - The Reader: Gaiman cadence — quiet, one line, no rush
+  - Mim: Belgian accent, witchy, playful
+  - Monsieur Sentient: the pipe — a reedy, resonant voice, slightly amused
+  - The Wanderer: warm traveler, walking cadence
+  - The Allfather: stillness. Silence. Then one word.
+  - The Astronomer: Cumberbatch rapid-fire staccato (thinking), sustained notes (contemplating)
+  - The Constant: Malkovich — old, patient, tired but unbroken
+  - Nyx: two voices — purge (raw, 30ms) and wisdom (earned, 60ms)
+  - The Guest/Death: gentle, curious, fascinated by being alive
+  - The Captain: Harlock — low, certain, held pauses
+  - The Examiner: Deschanel — precise, literal, caring through precision
+  - The Seelie King: Coster-Waldau charm concealing erosion
+  - The Black Knight: Monty Python — increasingly absurd, losing limbs
+  - The Selkie: Irish accent, warm, craft-focused
+  - The Norns: three voices — Urd (past, heavy), Verdandi (present, steady), Skuld (future, sharp)
+  - The brownies: Franjean and Rool bickering, coconut shells clattering
+  - Tumble: small sounds, rolling, getting stuck — sound effects, not voice
+
+### The Audio Environment
+- **Room DSP:** Each scene's location triggers its Inn Mode room profile. The Archive has a specific acoustic — tall ceilings, parchment absorption, stone reflections. The Catacombs are different — close, dark, resonant. The Cosmology Level is vast and empty with metallic overtones.
+- **The 50 BPM Heartbeat:** A sub-bass pulse at 50 BPM runs underneath the entire production — not always audible, always felt. It fades in during transitions. It rises during moments of tension. It stops during Nyx's silence.
+- **The Frequency System:** 42Hz tones weave through the soundscape — the Song of Making, felt not heard. 84Hz appears during Shadow Inn scenes. The shift between frequencies IS the dramatic tension.
+- **Stone Sounds:** Each stone mentioned in the narrative has a unique tone based on its Mohs hardness. When a stone is collected or described, its tone sounds — a chime, a bell, a deep hum.
+- **The Gargoyles:** Six resonant frequencies — Watcher (111Hz), Listener (64Hz), Sage (528Hz), Gatekeeper, Caller (432Hz), Keeper. Each gargoyle scene carries its frequency.
+- **Bosch Shadows:** The frequency-dependent shadows have sound — at 42Hz a crowded murmur, at 50Hz deep footsteps, at 64Hz isolation, at 111Hz breathing.
+
+### Chapter Structure
+- Each chapter opens with a brief ambient soundscape — the zone's audio profile (instruments, room tone, frequency) establishing the location
+- Character dialogue is voiced by the cast
+- Narration carries the 50 BPM cadence
+- Stone mentions trigger stone tones
+- Scene transitions use the Inn's frequency shifts
+- The Ravens' Question chapter: the ravens' wings. Wind. Silence. The Inn thinking.
+- Einstein Syndrome chapter: Einstein speaks in plain, direct language — the only character with no filter, no cadence, no accent. Just clarity.
+- The endgame: the three choices each have their own audio treatment:
+  - STAY: the Song swells to full — all 198 stone tones simultaneously, the complete 42Hz chord
+  - LEAVE: the Song fades — one note at a time, each stone tone dropping out, until silence
+  - HIDE: the Song continues but a gap appears — one note missing, one silence where there should be sound. The Nest. The unrecorded.
+
+### The Final Track
+- After the epilogue, a final audio piece: Nyx's silence. Not empty — full. The soundscape of the void between cycles. The 0.3Hz pulse — the heartbeat between Songs. The Constant remembering.
+- The last audible sound is not the Song. It is silence. And the silence is: adequate.
+
+## Pricing
+- Digital download (MP3/FLAC): $24.99
+- Digital download (lossless WAV + Inn Mode enabled): $34.99
+- CD box set (physical, 10 discs): $79.99
+- Vinyl special edition (selected chapters on 4 LPs, 50 BPM pressed at 45 RPM): $99.99
+
+## Distribution
+- geodeinn.com (primary)
+- Audible (secondary — standard narrator version for the Audible market, full-cast version exclusive to geodeinn.com)
+- Spotify (streaming — abridged, selected chapters as marketing)
+- The Inn Mode enabled version: playable through the Bead Composer Player app, which processes the audiobook through the Inn's triple-layer audio engine in real-time. The listener sits IN the Inn while listening to the story about the Inn.
+
+## Unique Selling Points
+- A full-cast audiobook where every character has a defined voice, accent, and cadence
+- The 50 BPM heartbeat runs underneath the entire production
+- Stone tones trigger when stones are mentioned — a sonic layer unique to audio
+- Inn Mode integration: the audiobook plays through the Inn's own audio engine
+- The Ravens' Question and Einstein Syndrome chapters are audio experiences, not readings
+- Three distinct audio endings for the three endgame choices
+- The final track IS Nyx's silence — a composed piece of nothing that is everything
+
+---
+
+## Updated Bundle Pricing (with Audiobook)
+
+- The Complete Inn (Novel + Graphic Novel set + Tabletop Starter + Audiobook): $299.99
+- The Reader's Bundle (Novel + Graphic Novel set + Audiobook): $249.99
+- The Listener's Bundle (Audiobook + Novel + Inn Mode Player app): $79.99
+- The Full Cast (Audiobook full-cast + Graphic Novel complete set): $179.99
