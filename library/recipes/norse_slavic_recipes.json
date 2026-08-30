@@ -1,0 +1,258 @@
+[
+  {
+    "resultName": "Viking Turf Pit House",
+    "buildingTier": 1,
+    "materials": [
+      "pine",
+      "birch",
+      "heather",
+      "bog moss"
+    ],
+    "quantities": [
+      10,
+      8,
+      15,
+      20
+    ],
+    "description": "A simple semi-subterranean shelter insulated with birch bark, heather thatch, and damp bog moss turf.",
+    "historicalNote": "Known as a 'grubenhaus' or 'gropphus', these pit-houses served as early workshops, weaving huts, or humble dwellings during the Viking Age."
+  },
+  {
+    "resultName": "Viking Age Boathouse (Naust)",
+    "buildingTier": 2,
+    "materials": [
+      "pine",
+      "birch",
+      "bog iron",
+      "bog moss"
+    ],
+    "quantities": [
+      25,
+      12,
+      6,
+      15
+    ],
+    "description": "A sturdy shoreline timber shed with open gable ends for storing and repairing longships over winter, caulked with moss and pine tar.",
+    "historicalNote": "Nausts were vital maritime structures built along Scandinavian fjords, featuring heavy pine posts and stone foundations to protect ship hulls."
+  },
+  {
+    "resultName": "Traditional Viking Longhouse",
+    "buildingTier": 2,
+    "materials": [
+      "pine",
+      "birch",
+      "bog iron",
+      "heather",
+      "bog moss"
+    ],
+    "quantities": [
+      40,
+      20,
+      10,
+      30,
+      25
+    ],
+    "description": "A bow-sided hall with heavy pine load-bearing posts, wattle walls woven from birch, and a thick insulated turf roof of bog moss and heather.",
+    "historicalNote": "The longhouse was the central domestic and social hub of Viking farms, housing family, livestock, and a central hearth under one roof."
+  },
+  {
+    "resultName": "Viking Village Smithy",
+    "buildingTier": 3,
+    "materials": [
+      "pine",
+      "bog iron",
+      "runestone",
+      "birch"
+    ],
+    "quantities": [
+      30,
+      25,
+      12,
+      15
+    ],
+    "description": "A stone-hearth forge housed under a heavy timber frame, optimized for smelting bog ore into wrought iron weapons and agricultural tools.",
+    "historicalNote": "Norse ironsmiths harvested iron oxide deposits from wetlands (bog iron) and processed them in bloomery furnaces near sacred stone hearths."
+  },
+  {
+    "resultName": "Trelleborg Ring Fort Palisade",
+    "buildingTier": 3,
+    "materials": [
+      "pine",
+      "birch",
+      "bog iron",
+      "runestone"
+    ],
+    "quantities": [
+      60,
+      25,
+      15,
+      20
+    ],
+    "description": "A heavily reinforced timber rampart section secured with iron bolts and anchored on a foundation of cleaved runestone blocks.",
+    "historicalNote": "Ring fortresses like Trelleborg and Fyrkat were commissioned by King Harald Bluetooth, featuring precise circular ramparts and wooden palisades."
+  },
+  {
+    "resultName": "Carved Memorial Runestone",
+    "buildingTier": 4,
+    "materials": [
+      "runestone",
+      "bog iron",
+      "amber"
+    ],
+    "quantities": [
+      15,
+      5,
+      8
+    ],
+    "description": "A massive granite slab intricately carved with elder futhark runes, iron-chiseled knotwork dragons, and inlaid amber gemstones.",
+    "historicalNote": "Erected across Scandinavia to commemorate fallen warriors, mark land boundaries, or celebrate major achievements, often painted with mineral pigments."
+  },
+  {
+    "resultName": "Ornate Stave Church (Stavkirke)",
+    "buildingTier": 5,
+    "materials": [
+      "pine",
+      "birch",
+      "bog iron",
+      "runestone",
+      "amber"
+    ],
+    "quantities": [
+      80,
+      35,
+      20,
+      25,
+      12
+    ],
+    "description": "A monumental multi-tiered wooden cathedral supported by massive corner pine staves, adorned with carved dragon heads and amber-inlaid altar fixtures.",
+    "historicalNote": "Emerging during the late Viking Age transition to Christianity, stave churches combined indigenous Scandinavian timber joinery with basilican architectural plans."
+  },
+  {
+    "resultName": "Traditional Slavic Izba",
+    "buildingTier": 1,
+    "materials": [
+      "pine",
+      "birch",
+      "bog iron"
+    ],
+    "quantities": [
+      20,
+      10,
+      4
+    ],
+    "description": "A cozy log cabin built from horizontally stacked pine logs, notched at the corners and sealed between logs with birch bark strips.",
+    "historicalNote": "The izba was the quintessential East Slavic rural dwelling, centered around a massive clay or masonry stove (pech) for heating and cooking."
+  },
+  {
+    "resultName": "Kievan Banya (Bathhouse)",
+    "buildingTier": 2,
+    "materials": [
+      "pine",
+      "birch",
+      "runestone",
+      "bog iron"
+    ],
+    "quantities": [
+      25,
+      15,
+      10,
+      5
+    ],
+    "description": "A sealed timber log sauna equipped with a stone hearth furnace for generating intense steam and birch twig switches.",
+    "historicalNote": "Bathhouses were sacred cleansing spaces in Kievan Rus culture, utilized for physical hygiene, spiritual purification, childbirth, and healing."
+  },
+  {
+    "resultName": "Boyar Terem House",
+    "buildingTier": 3,
+    "materials": [
+      "pine",
+      "birch",
+      "bog iron",
+      "limestone (imported)"
+    ],
+    "quantities": [
+      50,
+      25,
+      12,
+      15
+    ],
+    "description": "A multi-story noble residence featuring carved wooden balconies, elevated steep roofs, and a sturdy imported limestone foundation.",
+    "historicalNote": "Terems were upper-story living quarters or standalone estates reserved for elite boyar families in Kievan Rus, showcasing ornate wooden fretwork."
+  },
+  {
+    "resultName": "Kremlin Timber Fortification Wall",
+    "buildingTier": 3,
+    "materials": [
+      "pine",
+      "bog iron",
+      "limestone (imported)",
+      "birch"
+    ],
+    "quantities": [
+      70,
+      20,
+      25,
+      15
+    ],
+    "description": "A heavy palisade wall and watchtower constructed from interlocking pine timbers filled with rammed earth and supported by limestone footings.",
+    "historicalNote": "Before brick walls became common, East Slavic citadels (kremlins) relied on timber log structures called 'gorodnya' to defend river trading posts."
+  },
+  {
+    "resultName": "Wooden Onion-Domed Chapel",
+    "buildingTier": 4,
+    "materials": [
+      "pine",
+      "birch",
+      "bog iron",
+      "gold ore"
+    ],
+    "quantities": [
+      60,
+      30,
+      15,
+      10
+    ],
+    "description": "A wooden church featuring stacked log walls, birch-shingle roofing, and an ornate helmet dome gilded with beaten gold leaf.",
+    "historicalNote": "Master carpenters in Northern Rus crafted complex churches entirely of wood without iron nails, pioneering cupola shapes designed to shed heavy snow."
+  },
+  {
+    "resultName": "Cathedral of St. Sophia Stone Church",
+    "buildingTier": 5,
+    "materials": [
+      "limestone (imported)",
+      "pine",
+      "bog iron",
+      "gold ore",
+      "runestone"
+    ],
+    "quantities": [
+      90,
+      40,
+      25,
+      20,
+      15
+    ],
+    "description": "A magnificent multi-domed cathedral built with imported limestone masonry, massive pine internal scaffolding, and brilliant gold-gilded cupolas.",
+    "historicalNote": "Modeled after Byzantine architecture following Prince Vladimir's baptism in 988 AD, monumental stone cathedrals in Kiev and Novgorod represented Rus state power."
+  },
+  {
+    "resultName": "Princely Treasure Vault & Armory",
+    "buildingTier": 4,
+    "materials": [
+      "limestone (imported)",
+      "pine",
+      "bog iron",
+      "gold ore",
+      "runestone"
+    ],
+    "quantities": [
+      55,
+      30,
+      30,
+      15,
+      10
+    ],
+    "description": "A heavily fortified vault with thick limestone walls, iron-reinforced pine doors, and runestone boundary markers to safeguard royal tribute and weapons.",
+    "historicalNote": "Princely treasuries in Kievan Rus stored tribute, bullion, and foreign diplomatic gifts, guarded within stone-walled precincts inside urban citadels."
+  }
+]

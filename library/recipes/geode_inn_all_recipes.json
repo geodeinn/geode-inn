@@ -1,0 +1,458 @@
+[
+  {
+    "resultName": "Ancestral Pit House",
+    "buildingTier": 1,
+    "materials": [
+      "sandstone",
+      "juniper"
+    ],
+    "quantities": [
+      10,
+      15
+    ],
+    "description": "A semi-subterranean shelter built with a shallow excavated floor, sandstone retaining walls, and a timber roof structure of sturdy juniper posts.",
+    "historicalNote": "Pit houses were the primary residential architecture of early Ancestral Puebloans (Basketmaker III to Pueblo I periods). Subterranean walls provided natural thermal mass against extreme desert temperature swings."
+  },
+  {
+    "resultName": "Sandstone Pueblo Unit",
+    "buildingTier": 2,
+    "materials": [
+      "sandstone",
+      "juniper"
+    ],
+    "quantities": [
+      30,
+      25
+    ],
+    "description": "An above-ground masonry room constructed from hand-shaped sandstone blocks mortared with mud, spanned by heavy juniper ceiling beams (vigas).",
+    "historicalNote": "Around 900 CE, Ancestral Puebloans transitioned to above-ground multi-room masonry pueblos, creating interconnected village complexes across Chaco Canyon and the San Juan Basin."
+  },
+  {
+    "resultName": "Ceremonial Kiva",
+    "buildingTier": 3,
+    "materials": [
+      "sandstone",
+      "juniper",
+      "turquoise"
+    ],
+    "quantities": [
+      50,
+      40,
+      6
+    ],
+    "description": "A circular subterranean chamber featuring dry-laid stone bench seating, a central hearth, a deflector wall, a sipapu floor niche, and turquoise decorative accents.",
+    "historicalNote": "Kivas served as spiritual, social, and political gathering spaces. The sipapu—a small hole in the kiva floor—symbolized the ancestral portal of emergence into the current world."
+  },
+  {
+    "resultName": "Cliff Alcove Palace",
+    "buildingTier": 4,
+    "materials": [
+      "sandstone",
+      "juniper",
+      "turquoise"
+    ],
+    "quantities": [
+      110,
+      75,
+      15
+    ],
+    "description": "A multi-story masonry structure built inside a massive sandstone cliff alcove, framed with juniper beams and adorned with inlaid turquoise mosaic amulets.",
+    "historicalNote": "Built during the Pueblo III period (1150–1300 CE) in locations like Mesa Verde and Canyon de Chelly, cliff dwellings offered microclimate advantages and natural defense."
+  },
+  {
+    "resultName": "Great House Citadel",
+    "buildingTier": 5,
+    "materials": [
+      "sandstone",
+      "juniper",
+      "turquoise"
+    ],
+    "quantities": [
+      200,
+      120,
+      30
+    ],
+    "description": "A monumental multi-story Great House featuring core-and-veneer sandstone masonry walls, massive imported juniper vigas, and sacred plazas encrusted with carved turquoise.",
+    "historicalNote": "Chacoan Great Houses like Pueblo Bonito contained hundreds of rooms. Transporting tens of thousands of timber beams and hand-dressing sandstone blocks required immense regional coordination."
+  },
+  {
+    "resultName": "Lodgepole Sweat Lodge",
+    "buildingTier": 1,
+    "materials": [
+      "lodgepole pine",
+      "geyser salt"
+    ],
+    "quantities": [
+      14,
+      6
+    ],
+    "description": "A domed ceremonial sauna made from flexible lodgepole pine saplings bent into a frame, banked with mineral-rich geyser salt around a central hot-rock pit.",
+    "historicalNote": "Sweat lodges (Inipi) were used across Northern Plains tribes for spiritual purification, prayer, and medicinal healing prior to major events and hunts."
+  },
+  {
+    "resultName": "Plains Tipi Frame",
+    "buildingTier": 2,
+    "materials": [
+      "lodgepole pine",
+      "obsidian"
+    ],
+    "quantities": [
+      24,
+      6
+    ],
+    "description": "A sturdy conical tripod framework of peeled lodgepole pine timbers, secured at the apex and pegged into the soil with razor-sharp carved obsidian stakes.",
+    "historicalNote": "Lodgepole pine (Pinus contorta) was highly prized by Plains tribes for its slim, straight growth, ideal for crafting lightweight, transportable tipi frames."
+  },
+  {
+    "resultName": "Frontier Log Cabin",
+    "buildingTier": 3,
+    "materials": [
+      "lodgepole pine",
+      "geyser salt",
+      "obsidian"
+    ],
+    "quantities": [
+      60,
+      20,
+      10
+    ],
+    "description": "A rugged wilderness homestead crafted from notched lodgepole pine logs, chinked with mud and geyser salt mortar, featuring an obsidian-bladed stone hearth.",
+    "historicalNote": "19th-century trappers and mountain men adapted Scandinavian log cabin styles to Rocky Mountain timber, utilizing local geyser salts in mortar to deter wood-boring pests."
+  },
+  {
+    "resultName": "Mandan Earth Lodge",
+    "buildingTier": 4,
+    "materials": [
+      "lodgepole pine",
+      "geyser salt",
+      "obsidian"
+    ],
+    "quantities": [
+      120,
+      35,
+      18
+    ],
+    "description": "A large dome-shaped timber-and-earth dwelling constructed over four central lodgepole pine posts, insulated with thick turf and pegged with obsidian fasteners.",
+    "historicalNote": "Mandan, Hidatsa, and Arikara nations built permanent circular earth lodges along the Missouri River basin, creating insulated multi-family communities that resisted harsh Plains winters."
+  },
+  {
+    "resultName": "Geyser Thermal Lodge",
+    "buildingTier": 5,
+    "materials": [
+      "lodgepole pine",
+      "geyser salt",
+      "obsidian"
+    ],
+    "quantities": [
+      220,
+      70,
+      35
+    ],
+    "description": "A grand wilderness lodge showcasing heavy lodgepole timber joinery, geothermal salt-cured wood siding, and polished volcanic obsidian masonry fireplaces.",
+    "historicalNote": "Inspired by turn-of-the-century 'Parkitecture' like the Old Faithful Inn, these monumental structures blended native logs and volcanic stone to harmonize with geothermal landscapes."
+  },
+  {
+    "resultName": "Ironwood Shade Ramada",
+    "buildingTier": 1,
+    "materials": [
+      "desert ironwood",
+      "saguaro"
+    ],
+    "quantities": [
+      12,
+      8
+    ],
+    "description": "An open-air shade structure built with four thick desert ironwood corner posts supporting a flat thatched roof woven from dried saguaro cactus ribs.",
+    "historicalNote": "Ramadas provided essential shade and ventilation in hot desert environments, serving as outdoor living and working quarters for indigenous Sonoran peoples."
+  },
+  {
+    "resultName": "Desert Dry-Stone Wall",
+    "buildingTier": 2,
+    "materials": [
+      "granite",
+      "desert ironwood"
+    ],
+    "quantities": [
+      35,
+      12
+    ],
+    "description": "A rugged terrace wall built from interlocking granite stones without mortar, reinforced at entry points with dense desert ironwood posts.",
+    "historicalNote": "Dry-stone walls in flash-flood-prone desert canyons allowed water to pass through without washing away mortar, protecting agricultural terraces and corrals."
+  },
+  {
+    "resultName": "Sonoran Adobe Dwelling",
+    "buildingTier": 3,
+    "materials": [
+      "granite",
+      "desert ironwood",
+      "saguaro"
+    ],
+    "quantities": [
+      50,
+      28,
+      16
+    ],
+    "description": "A sun-dried earth brick home built upon a granite boulder foundation, framed with heavy ironwood lintels and ceiling joists crafted from saguaro ribs.",
+    "historicalNote": "Saguaro ribs were traditionally harvested from dead, naturally fallen cacti to serve as latillas (roof laths) spanning between major timber ceiling beams."
+  },
+  {
+    "resultName": "Superstition Outpost",
+    "buildingTier": 4,
+    "materials": [
+      "granite",
+      "desert ironwood",
+      "saguaro"
+    ],
+    "quantities": [
+      100,
+      45,
+      28
+    ],
+    "description": "A fortified canyon refuge built against granite cliffs, featuring ironwood palisade walls and saguaro-rib ceilings designed for extreme desert heat defense.",
+    "historicalNote": "Prospectors, ranchers, and Native inhabitants utilized narrow canyon alcoves in the Superstition Mountains for natural defensive perches and spring water control."
+  },
+  {
+    "resultName": "Apache Leap Stronghold",
+    "buildingTier": 5,
+    "materials": [
+      "granite",
+      "desert ironwood",
+      "saguaro"
+    ],
+    "quantities": [
+      190,
+      80,
+      45
+    ],
+    "description": "An imposing mountain fortress constructed with granite masonry towers, heavy hand-carved ironwood gates, and elaborate multi-level saguaro rib colonnades.",
+    "historicalNote": "Named after the historic defense of Apache warriors near Superior, Arizona, desert strongholds took strategic advantage of rugged granite spires and ironwood timber strength."
+  },
+  {
+    "resultName": "Woodland Lean-To Shelter",
+    "buildingTier": 1,
+    "materials": [
+      "chestnut",
+      "ginseng"
+    ],
+    "quantities": [
+      15,
+      4
+    ],
+    "description": "A three-sided forest shelter constructed from split American chestnut logs and bark roof tiles, featuring drying racks hung with wild ginseng.",
+    "historicalNote": "Woodland travelers and backcountry hunters built single-pitch lean-to shelters along Appalachian ridge trails, utilizing rot-resistant American chestnut timber."
+  },
+  {
+    "resultName": "Frontier Root Cellar",
+    "buildingTier": 2,
+    "materials": [
+      "chestnut",
+      "oak (imported)"
+    ],
+    "quantities": [
+      28,
+      16
+    ],
+    "description": "A subterranean food storage bunker constructed with fieldstone walls, heavy American chestnut structural framing, and an oak plank trapdoor.",
+    "historicalNote": "Root cellars allowed Appalachian homesteaders to preserve apples, root crops, and medicinal herbs through freezing winters by tapping into constant underground ground heat."
+  },
+  {
+    "resultName": "Appalachian Notch Cabin",
+    "buildingTier": 3,
+    "materials": [
+      "chestnut",
+      "oak (imported)",
+      "ginseng"
+    ],
+    "quantities": [
+      55,
+      32,
+      10
+    ],
+    "description": "A classic pioneer log cabin built from hand-hewn chestnut timbers joined with dovetail corner notches, anchored on an oak foundation and stocked with ginseng bundles.",
+    "historicalNote": "Before the blight of the early 20th century, American chestnut was the king of Appalachian forests, prized by settlers for its straight grain, workability, and weather resistance."
+  },
+  {
+    "resultName": "Woodlands Longhouse",
+    "buildingTier": 4,
+    "materials": [
+      "chestnut",
+      "oak (imported)",
+      "ginseng"
+    ],
+    "quantities": [
+      115,
+      55,
+      18
+    ],
+    "description": "A communal multi-family longhouse constructed with arched chestnut sapling pole frames, oak bark shingling, and central hearths surrounded by ginseng drying racks.",
+    "historicalNote": "Longhouses (Ganondagan) were the traditional homes of the Iroquois (Haudenosaunee) and other Eastern Woodlands tribes, housing dozens of related extended family members under one roof."
+  },
+  {
+    "resultName": "Great Smoky Homestead",
+    "buildingTier": 5,
+    "materials": [
+      "chestnut",
+      "oak (imported)",
+      "ginseng"
+    ],
+    "quantities": [
+      210,
+      95,
+      30
+    ],
+    "description": "A expansive mountain farmstead featuring a multi-room chestnut log main house, oak timber barn, stone springhouse, and dedicated ginseng curing sheds.",
+    "historicalNote": "Appalachian mountain culture combined Native woodland herbal knowledge—such as wild American ginseng foraging—with Scots-Irish timber notch construction traditions."
+  },
+  {
+    "resultName": "Agate Flaking Shrine",
+    "buildingTier": 1,
+    "materials": [
+      "petrified wood",
+      "agate"
+    ],
+    "quantities": [
+      12,
+      6
+    ],
+    "description": "A small stone altar constructed from stacked blocks of petrified wood, surrounding a polished agate anvil stone for flintknapping tools.",
+    "historicalNote": "Ancient Native peoples gathered in the Petrified Forest region to harvest colorful agate, chert, and jasper for fashioning razor-sharp projectile points and scraper tools."
+  },
+  {
+    "resultName": "Chalcedony Trail Marker",
+    "buildingTier": 2,
+    "materials": [
+      "petrified wood",
+      "chalcedony"
+    ],
+    "quantities": [
+      25,
+      12
+    ],
+    "description": "A tall stone cairn constructed from slabs of petrified wood, topped with a luminous chalcedony crystal node that reflects desert sunlight.",
+    "historicalNote": "Prehistoric trade routes across northern Arizona used distinct stone cairns inlaid with lustrous quartz and chalcedony to guide travelers toward springs and settlements."
+  },
+  {
+    "resultName": "Petrified Wood Wall Shrine",
+    "buildingTier": 3,
+    "materials": [
+      "petrified wood",
+      "agate",
+      "chalcedony"
+    ],
+    "quantities": [
+      50,
+      22,
+      16
+    ],
+    "description": "A ceremonial wall panel built from slab-cut petrified wood, decorated with geometric mosaic bands of polished red agate and translucent chalcedony.",
+    "historicalNote": "Ancestral Puebloans in the Little Colorado River basin utilized readily available fossilized wood logs as primary building stone, mortared together into durable shelters."
+  },
+  {
+    "resultName": "Ancient Fossilized Lodge",
+    "buildingTier": 4,
+    "materials": [
+      "petrified wood",
+      "agate",
+      "chalcedony"
+    ],
+    "quantities": [
+      105,
+      38,
+      30
+    ],
+    "description": "A substantial stone dwelling built from heavy petrified wood tree trunks, featuring agate-inlaid doorways and translucent chalcedony window panes.",
+    "historicalNote": "Built around 1050–1300 CE, Agate House in Petrified Forest National Park is a famous 8-room pueblo constructed almost entirely from fossilized petrified wood logs."
+  },
+  {
+    "resultName": "Lithic Crystal Sanctum",
+    "buildingTier": 5,
+    "materials": [
+      "petrified wood",
+      "agate",
+      "chalcedony"
+    ],
+    "quantities": [
+      185,
+      65,
+      50
+    ],
+    "description": "A breathtaking ceremonial temple constructed of fossilized tree trunks, featuring inlaid fire agate floor mosaics and a central chalcedony altar piece.",
+    "historicalNote": "Fossilized Triassic trees of the Chinle Formation turned to solid quartz over 200 million years, creating colorful stone materials held in sacred regard by Southwestern tribes."
+  },
+  {
+    "resultName": "Redwood Bark Sweat Lodge",
+    "buildingTier": 1,
+    "materials": [
+      "redwood",
+      "fog moss"
+    ],
+    "quantities": [
+      14,
+      12
+    ],
+    "description": "A conical purification lodge constructed from thick fibrous slabs of fallen redwood bark, chinked with damp coastal fog moss.",
+    "historicalNote": "Yurok, Karuk, and Tolowa tribes along the Northern California coast built semisubterranean sweat houses and living structures using thick redwood bark slabs."
+  },
+  {
+    "resultName": "Fern-Thatched Ridge Shelter",
+    "buildingTier": 2,
+    "materials": [
+      "redwood",
+      "fern"
+    ],
+    "quantities": [
+      28,
+      22
+    ],
+    "description": "A coastal lean-to shelter built from split redwood posts and a heavy roof thatch woven from giant sword ferns to shed temperate rainforest rains.",
+    "historicalNote": "Indigenous rainforest peoples gathered giant sword fern fronds for quick waterproofing on seasonal hunting and coastal fishing shelters."
+  },
+  {
+    "resultName": "Coastal Redwood Plank House",
+    "buildingTier": 3,
+    "materials": [
+      "redwood",
+      "fern",
+      "fog moss"
+    ],
+    "quantities": [
+      58,
+      32,
+      26
+    ],
+    "description": "A traditional rectangular coastal dwelling built from massive hand-split redwood planks set into stone footings, insulated with fog moss and thatched with fern.",
+    "historicalNote": "Pacific Northwest and Northern California nations used antler wedges to split massive straight-grained planks directly from fallen redwood logs without felling live trees."
+  },
+  {
+    "resultName": "Pacific Crest Totem Lodge",
+    "buildingTier": 4,
+    "materials": [
+      "redwood",
+      "fern",
+      "fog moss"
+    ],
+    "quantities": [
+      110,
+      48,
+      42
+    ],
+    "description": "A prominent tribal lodge framed by heavy carved redwood heraldic posts depicting clan lineages, surrounded by lush fern gardens and moss-covered timber beams.",
+    "historicalNote": "Totem posts and structural house posts served as living historical records, displaying crests, lineages, and mythic events of the clan leaders who commissioned them."
+  },
+  {
+    "resultName": "Great Forest Canopy Longhouse",
+    "buildingTier": 5,
+    "materials": [
+      "redwood",
+      "fern",
+      "fog moss"
+    ],
+    "quantities": [
+      200,
+      75,
+      65
+    ],
+    "description": "A monumental multi-family longhouse built from ancient old-growth redwood timbers, featuring elevated boardwalks, fog-moss insulated roofs, and carved entrance archways.",
+    "historicalNote": "Pacific Coast longhouses were masterpieces of wood engineering, accommodating potlatch gatherings, winter ceremonies, and multiple extended families under one vast roof."
+  }
+]
