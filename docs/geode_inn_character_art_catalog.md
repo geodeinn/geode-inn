@@ -1155,3 +1155,63 @@ All 32 creatures are chibi-style playable characters for the "Monster of the Dee
 **Role:** The Volva gone Valkyrie — quiet menace, the shadow with wings
 **Cultural Roots:** Dutch/Scandinavian (Viking)
 **Design Notes:** Same character as Volva Marijke but transformed — posture rigid, eyes cold, hands precise on bones instead of gentle. The shadow on the wall behind her is tall, winged, wrong — the Valkyrie that was always underneath. Firelight dimmed to cold amber. Heavy cel-shaded linework (tradesman). The mood is quiet menace — she hasn't raised her voice, hasn't moved, but the room changed temperature. Earth browns, bone white, cold iron, one thread of cold blue shamanic energy.
+
+---
+
+## ZONE CONCEPT ART — 11 New Artist Assignments (Batch: Aug 30)
+### Prototype Style: Royo × Vampire Hunter D × Trinity Blood — hyper-detailed patterns, smooth flowing lines, stroke emphasis suggesting movement
+
+### Z1. Superstition Mountains (Bierstadt × Royo)
+**Image:** https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/32899911d_generated_image.png
+**Artist:** Albert Bierstadt (Hudson River School sublime) × Royo movement DNA
+**Zone:** National Parks — volcanic landscape, sleeping giant, Apache cultural layer
+
+### Z2. Yellowstone (Benton × Royo)
+**Image:** https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/f0b5c02b6_generated_image.png
+**Artist:** Thomas Hart Benton (mural energy, swirling forms) × Royo movement DNA
+**Zone:** National Parks — geothermal gut, Grand Prismatic Spring, Redcap workers, 111Hz resonance
+
+### Z3. Appalachian Range (Wyeth × Royo)
+**Image:** https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/361dddf50_generated_image.png
+**Artist:** Andrew Wyeth (weathered surfaces, muted decay) × Royo movement DNA
+**Zone:** National Parks — 300M-year-old eroding mountain, five Fae layers, cryptid factory
+
+### Z4. Colorado Plateau (Dixon × Royo)
+**Image:** https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/3f336ebaa_generated_image.png
+**Artist:** Maynard Dixon (Southwestern structure, monumentality) × Royo movement DNA
+**Zone:** National Parks — Grand Canyon, Monument Valley, Thunderbird/Draconian sculpture
+
+### Z5. Slavic Zone (Roerich × Royo)
+**Image:** https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/7022baf6c_generated_image.png
+**Artist:** Nicholas Roerich (luminous mountains, aurora-light, Northern mysticism) × Royo movement DNA
+**Zone:** World Map — Aurora Borealis, Baba Yaga house, star-language, Queen of Webs
+
+### Z6. India Zone (Tagore × Royo)
+**Image:** https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/b342b2cad_generated_image.png
+**Artist:** Abanindranath Tagore (Bengal School wash-painting, Indian modernism) × Royo movement DNA
+**Zone:** World Map — Ghats of Kali, Ganges river, Indian mythology
+
+### Z7. Canopy City / Ascension Canopy (Rackham × Royo)
+**Image:** https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/dece9f6e5_generated_image.png
+**Artist:** Arthur Rackham (living trees as architecture, golden-age fairy) × Royo movement DNA
+**Zone:** Cosmology access — treehouse civilization, living trees, brownie networks
+
+### Z8. Unseelie Court (Bauer × Royo)
+**Image:** https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/cb61332e4_generated_image.png
+**Artist:** John Bauer (Swedish fairy-tale trolls, winter forest) × Royo movement DNA
+**Zone:** Fae Kingdom — dark winter forest, ice palace, cold ancient creatures
+
+### Z9. Cave City (Doré × Royo)
+**Image:** https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/68a6ca3ff_generated_image.png
+**Artist:** Gustave Doré (subterranean engraving, dramatic darkness) × Royo movement DNA
+**Zone:** Underground — vast cave-carved city, cathedral-scale caverns, texture-as-architecture
+
+### Z10. Poison Garden (Gorey × Royo)
+**Image:** https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/4d875fe65_generated_image.png
+**Artist:** Edward Gorey (quietly macabre Victorian gothic) × Royo movement DNA
+**Zone:** Underground — beautiful poisonous plants, decaying manor, unsettling beauty
+
+### Z11. Bone Room (O'Keeffe × Klimt Collision)
+**Image:** https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/99a4ae05f_generated_image.png
+**Artist:** O'Keeffe (essential bone forms) × Klimt (gilded ornament) — the Inn's two DNA strands meeting
+**Zone:** Underground — monumental bones in gilded frames, form meets beauty-of-form
