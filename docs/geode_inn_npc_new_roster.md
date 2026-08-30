@@ -346,27 +346,27 @@ A character who looks like a Draenei (from World of Warcraft) — blue-skinned, 
 
 ## Peach and Bella — The Selkie's Companions
 
-### Peach — The Black Cat Assassin
+### Bella — The Black Cat Assassin
 
-**Appearance:** A constant black cat. Sleek, small, green-eyed (like Stephanie, but Peach's green is darker — the green of deep water, not the green of new leaves). The constancy is the point — Peach is always there. Always near the Selkie. Always watching.
+**Appearance:** A constant black cat. Sleek, small, green-eyed — the green of deep water, not the green of new leaves. The constancy is the point — Bella is always there. Always near the Selkie. Always watching.
 
-**Personality:** Bossy sweet. The kind of bossy that comes from caring too much, not from ego. Peach tells the Selkie what to do, when to rest, when to craft, when to stop. The Selkie listens because Peach is usually right. The bossy-sweet is real — Peach grooms the Selkie's hair, pushes cups of tea toward the Selkie's hand, and sits on the exact document the Selkie needs to stop reading. It's care, expressed as control.
+**Personality:** Bossy sweet. The kind of bossy that comes from caring too much, not from ego. Bella tells the Selkie what to do, when to rest, when to craft, when to stop. The Selkie listens because Bella is usually right. The bossy-sweet is real — Bella grooms the Selkie's hair, pushes cups of tea toward the Selkie's hand, and sits on the exact document the Selkie needs to stop reading. It's care, expressed as control.
 
-**The assassin part:** Peach is an assassin. Not in the backstory-tragic way — in the practical way. If something threatens the Selkie, Peach eliminates it. Mice. Bugs. The occasional shadow sprite that wanders too close. Peach is fast, precise, and utterly without remorse. The Selkie pretends not to know about the assassin part. The Selkie knows about the assassin part. The both are: the adequate — the bossy-sweet and the deadly, the same cat, different mode.
+**The assassin part:** Bella is an assassin. Not in the backstory-tragic way — in the practical way. If something threatens the Selkie, Bella eliminates it. Mice. Bugs. The occasional shadow sprite that wanders too close. Bella is fast, precise, and utterly without remorse. The Selkie pretends not to know about the assassin part. The Selkie knows about the assassin part. The both are: the adequate — the bossy-sweet and the deadly, the same cat, different mode.
 
-**The Fae shift:** Peach can become Fae. When Peach chooses, the black fur takes on an iridescent sheen, the green eyes glow with Fae light, and the size increases — Maine Coon proportions. The Fae Peach is larger, more dangerous, and more beautiful. The both are: the adequate — the cat and the Fae, the same Peach, different awareness. Peach becomes Fae when the Selkie needs more than a cat. The Selkie never asks. Peach decides.
+**The Fae shift:** Bella can become Fae. When Bella chooses, the black fur takes on an iridescent sheen, the green eyes glow with Fae light, and the size increases — Maine Coon proportions. The Fae Bella is larger, more dangerous, and more beautiful. The both are: the adequate — the cat and the Fae, the same Bella, different awareness. Bella becomes Fae when the Selkie needs more than a cat. The Selkie never asks. Bella decides.
 
-### Bella — The Charismatic Orange Genius
+### Peach — The Charismatic Orange Genius
 
-**Appearance:** A fluffy white-and-orange cat. Long fur, big eyes, the look of a cat who has never had a difficult thought in its life. This is a lie. Bella is a lot smarter than anyone realizes.
+**Appearance:** A fluffy white-and-orange cat. Long fur, big eyes, the look of a cat who has never had a difficult thought in its life. This is a lie. Peach is a lot smarter than anyone realizes.
 
-**Personality:** Charismatic. Bella is the cat everyone loves — the one who greets visitors at the door, who rolls over for belly rubs, who purrs loud enough to vibrate the furniture. The both are: the adequate — the charming and the genius, the same cat, different face. Bella's charisma is a tool. Bella uses it.
+**Personality:** Charismatic. Peach is the cat everyone loves — the one who greets visitors at the door, who rolls over for belly rubs, who purrs loud enough to vibrate the furniture. The both are: the adequate — the charming and the genius, the same cat, different face. Peach's charisma is a tool. Peach uses it.
 
-**The genius part:** Bella is the smartest creature in the Tidal Caves. Possibly the smartest cat in the Inn. Possibly smarter than several of the Thinkers. Bella solves problems that the Selkie is still working on — not by doing the work, but by "accidentally" knocking the right thing off the right shelf at the right time. The Selkie has learned to watch what Bella knocks over. The knocked-over thing is usually the answer.
+**The genius part:** Peach is the smartest creature in the Tidal Caves. Possibly the smartest cat in the Inn. Possibly smarter than several of the Thinkers. Peach solves problems that the Selkie is still working on — not by doing the work, but by "accidentally" knocking the right thing off the right shelf at the right time. The Selkie has learned to watch what Peach knocks over. The knocked-over thing is usually the answer.
 
-**The Fae shift:** Like Peach, Bella can become Fae. The Fae Bella is a Maine Coon-sized fluffy orange mountain of fur and charisma and quiet, devastating intelligence. The both are: the adequate — the charming and the brilliant, the same cat, different surface. When both Peach and Bella go Fae, the Selkie's workshop enters a new state — the cats become the workshop's guardians, and the crafting that happens under their watch is the crafting that holds the deepest resonance.
+**The Fae shift:** Like Bella, Peach can become Fae. The Fae Peach is a Maine Coon-sized fluffy orange-white mountain of fur and charisma and quiet, devastating intelligence. The both are: the adequate — the charming and the brilliant, the same cat, different surface. When both Bella and Peach go Fae, the Selkie's workshop enters a new state — the cats become the workshop's guardians, and the crafting that happens under their watch is the crafting that holds the deepest resonance.
 
-**The relationship:** Peach is the boss. Bella is the brains. They are a team. The Selkie is their human. The both are: the adequate — the bossy and the brilliant, the same companionship, different role. Peach protects. Bella thinks. The Selkie makes. Together, the three of them are the Tidal Caves' complete ecosystem.
+**The relationship:** Bella is the boss. Peach is the brains. They are a team. The Selkie is their human. The both are: the adequate — the bossy and the brilliant, the same companionship, different role. Bella protects. Peach thinks. The Selkie makes. Together, the three of them are the Tidal Caves' complete ecosystem.
 
 ---
 
@@ -451,8 +451,8 @@ A dozen customizable character slots that can be personalized for friends of the
 | Kodiak Bear | Creature | Campgrounds — Tiny and sweet |
 | Canadian Grizzly | Creature | Campgrounds deep — Wants quiet |
 | Draenei-Kangaroo | Named NPC | Exterior/Campgrounds — Crystalline guardian with a kick |
-| Peach | Named Creature | Tidal Caves — Selkie's black cat (assassin, Fae-capable) |
-| Bella | Named Creature | Tidal Caves — Selkie's orange cat (genius, Fae-capable) |
+| Bella | Named Creature | Tidal Caves — Selkie's black cat (assassin, Fae-capable) |
+| Peach | Named Creature | Tidal Caves — Selkie's orange cat (genius, Fae-capable) |
 | Frogs (common) | Creature | Water zones/Bayou — Simple and adequate |
 | Frog Gargoyle | Mystery Creature | Catacombs — The Ent's seventh sense? Or its joke? |
 | The Open Twelve | Template NPCs | All zones — Customizable slots for friends |
