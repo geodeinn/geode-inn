@@ -91,7 +91,7 @@ func _drawing_appears() -> void:
 func _readers_final_line() -> void:
 	# Text overlay, slow fade in:
 	# "They sat by the fire. The builder was there. They were home."
-	# Font: The Reader's handwriting (Gaiman incognito, window seat)
+	# Font: The Reader's handwriting (the Inn itself — a voice that has always been here)
 	pass
 
 func _fade_to_black() -> void:

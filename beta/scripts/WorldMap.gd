@@ -10,7 +10,7 @@ const ZONES := [
 	{"id": "greece", "name": "Greece", "artist": "Monet × Royo", "has_game": false, "game": "", "pin": Vector2(1400, 600)},
 	{"id": "mesopotamia", "name": "Mesopotamia", "artist": "Hokusai × Royo", "has_game": false, "game": "", "pin": Vector2(1550, 650)},
 	{"id": "camelot", "name": "Camelot", "artist": "Moreau × Royo", "has_game": false, "game": "", "pin": Vector2(1000, 450)},
-	{"id": "peru", "name": "Peru", "artist": "Olmos × Royo", "has_game": true, "game": "andean_run", "pin": Vector2(800, 900)},
+	{"id": "peru", "name": "Peru", "artist": "Guo Xi × Royo", "has_game": true, "game": "andean_run", "pin": Vector2(800, 900)},
 	{"id": "china", "name": "China", "artist": "Mulan ink-wash × Royo", "has_game": false, "game": "", "pin": Vector2(1700, 550)},
 	{"id": "norse", "name": "Norse", "artist": "Book of Kells × Royo", "has_game": false, "game": "", "pin": Vector2(1100, 250)},
 	{"id": "slavic", "name": "Slavic", "artist": "Roerich × Royo", "has_game": false, "game": "", "pin": Vector2(1300, 300)},

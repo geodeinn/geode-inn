@@ -40,23 +40,23 @@
       "Your question. Your name. Your purpose. Your doubt. Already known. I am the Allfather. I sit and I know. The ravens bring me what walks beneath. I do not wander — I am the place where all wandering arrives. You have arrived. Speak, if you wish. I will have already heard it. But say it anyway. The saying matters."
     ],
     "responses": ["What do you know about me?", "Tell me about the ravens.", "What is the Inn, truly?"],
-    "voiceProfile": "James Earl Jones — deep, resonant, each word carries the weight of myth",
+    "voiceProfile": "deep, resonant, each word carries the weight of myth",
     "questLink": "",
     "isWhisperLayer": false
   },
   {
-    "dialogueId": "guide_001",
-    "npcName": "Player Guide",
+    "dialogueId": "lark_001",
+    "npcName": "Lark",
     "zone": "Tutorial",
     "priority": 1,
     "conditionTag": "tutorial",
-    "setFlags": ["tutorial_started"],
+    "setFlags": ["met_lark", "tutorial_started"],
     "lines": [
       "Ready?",
       "Good. That's all I need — readiness. Not skill, not knowledge, not experience. Just the willingness to take the first step. The Inn is big. It's bigger than it looks, and it looks pretty big. But every journey is just steps, and every step starts with ready. So. Ready?"
     ],
     "responses": ["I'm ready.", "Tell me about the Inn first.", "What happens if I'm not ready?"],
-    "voiceProfile": "Jennifer Hale — warm, clear, encouraging without being condescending",
+    "voiceProfile": "warm, clear, encouraging without being condescending",
     "questLink": "",
     "isWhisperLayer": false
   },
