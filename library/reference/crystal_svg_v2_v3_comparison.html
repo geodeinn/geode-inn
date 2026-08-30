@@ -1,0 +1,1340 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Crystal SVG v2 vs v3 — Showcase</title>
+<style>
+body { background: #1a1a2e; color: #e0e0e0; font-family: Georgia, serif; margin: 0; padding: 20px; }
+h1 { text-align: center; color: #FFD700; }
+.subtitle { text-align: center; color: #888; font-size: 12px; margin-bottom: 30px; }
+.showcase { display: flex; flex-wrap: wrap; gap: 20px; justify-content: center; }
+.comparison { background: #16213e; border-radius: 12px; padding: 15px; width: 520px; }
+.comparison h3 { color: #4169E1; margin: 0 0 8px 0; font-size: 14px; }
+.comparison .desc { color: #aaa; font-size: 11px; margin-bottom: 10px; }
+.comparison .images { display: flex; gap: 10px; }
+.comparison .col { flex: 1; text-align: center; }
+.comparison .col img { width: 100%; height: auto; border-radius: 6px; }
+.comparison .label { color: #666; font-size: 10px; margin-top: 4px; }
+.v2 { border: 1px solid #444; }
+.v3 { border: 2px solid #4169E1; }
+</style>
+</head>
+<body>
+<h1>Crystal SVG Rendering — v2 vs v3</h1>
+<p class="subtitle">Cut styles · Texture overlays · Per-stone color · Cross-platform</p>
+<div class="showcase">
+<div class="comparison">
+<h3>Malachite</h3>
+<div class="desc">Banded + botryoidal + cabochon cut</div>
+<div class="images">
+<div class="col"><div class="v2"><svg xmlns="http://www.w3.org/2000/svg" width="240" height="320" viewBox="0 0 240 320" class="stone-svg" data-stone-name="Malachite" data-freq="148.0" data-mohs="3.5" data-sg="3.8" data-iem="dynamic_driver" data-shape="botryoidal">
+
+<style>
+  .stone-body {
+    transform-origin: 120px 140px;
+    animation: vibrate 0.500s ease-in-out infinite alternate;
+    animation-play-state: paused;
+  }
+  .stone-body.vibrating {
+    animation-play-state: running;
+  }
+  @keyframes vibrate {
+    0% { transform: translate(0, 0) rotate(0deg); }
+    25% { transform: translate(0.3px, -0.5px) rotate(0.1deg); }
+    50% { transform: translate(-0.2px, 0.3px) rotate(-0.1deg); }
+    75% { transform: translate(0.4px, 0.2px) rotate(0.1deg); }
+    100% { transform: translate(-0.3px, -0.4px) rotate(0deg); }
+  }
+  .stone-label {
+    font-family: Georgia, serif;
+    font-size: 11px;
+    fill: #6B5344;
+    text-anchor: middle;
+    font-style: italic;
+  }
+  .stone-freq {
+    font-family: 'Courier New', monospace;
+    font-size: 9px;
+    fill: #DAA520;
+    text-anchor: middle;
+  }
+  .stone-mohs {
+    font-family: 'Courier New', monospace;
+    font-size: 8px;
+    fill: #6B5344;
+    text-anchor: middle;
+    opacity: 0.6;
+  }
+  .freq-bar {
+    fill: #DAA520;
+    opacity: 0.3;
+    rx: 2;
+  }
+</style>
+<g class="stone-body">
+
+  <circle cx="90" cy="130" r="40" fill="#8B7355" stroke="#6B5344" stroke-width="2" opacity="1.0"/>
+  <circle cx="155" cy="115" r="45" fill="#8B7355" stroke="#6B5344" stroke-width="2" opacity="1.0"/>
+  <circle cx="120" cy="180" r="38" fill="#8B7355" stroke="#6B5344" stroke-width="2" opacity="1.0"/>
+  <circle cx="75" cy="190" r="32" fill="#8B7355" stroke="#6B5344" stroke-width="2" opacity="1.0"/>
+  <circle cx="170" cy="185" r="35" fill="#8B7355" stroke="#6B5344" stroke-width="2" opacity="1.0"/>
+</g>
+<text x="120" y="275" class="stone-label">Malachite</text>
+<text x="120" y="290" class="stone-freq">148.0 Hz</text>
+<text x="120" y="303" class="stone-mohs">Mohs 3.5 · SG 3.8</text>
+<rect x="50" y="310" width="15" height="4" class="freq-bar"/>
+</svg></div><div class="label">v2 (crystal habit + color only)</div></div>
+<div class="col"><div class="v3"><svg xmlns="http://www.w3.org/2000/svg" width="240" height="320" viewBox="0 0 240 320" class="stone-svg" data-stone-name="Malachite" data-freq="148.0" data-mohs="3.5" data-sg="3.8" data-iem="dynamic_driver" data-shape="botryoidal" data-cut="cabochon">
+
+<style>
+  .stone-body {
+    transform-origin: 120px 140px;
+    animation: vibrate 0.500s ease-in-out infinite alternate;
+    animation-play-state: paused;
+  }
+  .stone-body.vibrating {
+    animation-play-state: running;
+  }
+  @keyframes vibrate {
+    0% { transform: translate(0, 0) rotate(0deg); }
+    25% { transform: translate(0.3px, -0.5px) rotate(0.1deg); }
+    50% { transform: translate(-0.2px, 0.3px) rotate(-0.1deg); }
+    75% { transform: translate(0.4px, 0.2px) rotate(0.1deg); }
+    100% { transform: translate(-0.3px, -0.4px) rotate(0deg); }
+  }
+  .stone-label {
+    font-family: Georgia, serif;
+    font-size: 11px;
+    fill: #1A4A30;
+    text-anchor: middle;
+    font-style: italic;
+  }
+  .stone-freq {
+    font-family: 'Courier New', monospace;
+    font-size: 9px;
+    fill: #DAA520;
+    text-anchor: middle;
+  }
+  .stone-meta {
+    font-family: 'Courier New', monospace;
+    font-size: 8px;
+    fill: #1A4A30;
+    text-anchor: middle;
+    opacity: 0.6;
+  }
+  .freq-bar {
+    fill: #DAA520;
+    opacity: 0.3;
+  }
+</style>
+<g class="stone-body">
+  <circle cx="90" cy="130" r="40" fill="#2E8B57" stroke="#1A4A30" stroke-width="2" opacity="1.0"/>
+  <circle cx="155" cy="115" r="45" fill="#2E8B57" stroke="#1A4A30" stroke-width="2" opacity="1.0"/>
+  <circle cx="120" cy="180" r="38" fill="#2E8B57" stroke="#1A4A30" stroke-width="2" opacity="1.0"/>
+  <circle cx="75" cy="190" r="32" fill="#2E8B57" stroke="#1A4A30" stroke-width="2" opacity="1.0"/>
+  <circle cx="170" cy="185" r="35" fill="#2E8B57" stroke="#1A4A30" stroke-width="2" opacity="1.0"/>
+  <!-- Cabochon cut overlay -->
+  <g class="cabochon" opacity="0.6">
+    <ellipse cx="100" cy="100" rx="30" ry="20" fill="#FFFFFF" opacity="0.2"/>
+    <ellipse cx="105" cy="105" rx="18" ry="12" fill="#FFFFFF" opacity="0.3"/>
+    <ellipse cx="140" cy="170" rx="20" ry="15" fill="#1A4A30" opacity="0.15"/>
+  </g>
+  <!-- Banded texture -->
+  <g class="texture-banded" opacity="0.4">
+    <path d="M 60,110 Q 120,100 190,110" stroke="#50C878" stroke-width="3" fill="none" opacity="0.5"/>
+    <path d="M 55,130 Q 120,120 195,130" stroke="#50C878" stroke-width="2" fill="none" opacity="0.4"/>
+    <path d="M 60,150 Q 120,145 190,150" stroke="#50C878" stroke-width="4" fill="none" opacity="0.3"/>
+    <path d="M 55,170 Q 120,165 195,170" stroke="#50C878" stroke-width="2" fill="none" opacity="0.4"/>
+    <path d="M 60,190 Q 120,185 190,190" stroke="#50C878" stroke-width="3" fill="none" opacity="0.3"/>
+    <path d="M 55,210 Q 120,205 195,210" stroke="#50C878" stroke-width="2" fill="none" opacity="0.2"/>
+  </g>
+</g>
+<text x="120" y="275" class="stone-label">Malachite</text>
+<text x="120" y="290" class="stone-freq">148.0 Hz</text>
+<text x="120" y="303" class="stone-meta">Mohs 3.5 · SG 3.8 · cabochon</text>
+<rect x="50" y="310" width="15" height="4" class="freq-bar" rx="2"/>
+</svg></div><div class="label">v3 (cut style + textures)</div></div>
+</div>
+</div>
+<div class="comparison">
+<h3>Rutilated Quartz</h3>
+<div class="desc">Rutile inclusions + faceted cut</div>
+<div class="images">
+<div class="col"><div class="v2"><svg xmlns="http://www.w3.org/2000/svg" width="240" height="320" viewBox="0 0 240 320" class="stone-svg" data-stone-name="Rutilated Quartz" data-freq="1387.5" data-mohs="7" data-sg="2.65" data-iem="balanced_armature" data-shape="hexagonal">
+<defs><linearGradient id="g" x1="0%" y1="0%" x2="100%" y2="100%"><stop offset="0%" stop-color="#E8E4C9" stop-opacity="0.9"/><stop offset="100%" stop-color="#FFD700" stop-opacity="0.95"/></linearGradient></defs><defs><linearGradient id="sheen" x1="0%" y1="0%" x2="100%" y2="100%"><stop offset="0%" stop-color="#B8860B" stop-opacity="0.6"/><stop offset="50%" stop-color="#E8E4C9" stop-opacity="0"/><stop offset="100%" stop-color="#B8860B" stop-opacity="0.3"/></linearGradient></defs>
+<style>
+  .stone-body {
+    transform-origin: 120px 140px;
+    animation: vibrate 0.072s ease-in-out infinite alternate;
+    animation-play-state: paused;
+  }
+  .stone-body.vibrating {
+    animation-play-state: running;
+  }
+  @keyframes vibrate {
+    0% { transform: translate(0, 0) rotate(0deg); }
+    25% { transform: translate(0.8px, -1.4px) rotate(0.3deg); }
+    50% { transform: translate(-0.6px, 0.8px) rotate(-0.3deg); }
+    75% { transform: translate(1.1px, 0.6px) rotate(0.1deg); }
+    100% { transform: translate(-0.8px, -1.1px) rotate(0deg); }
+  }
+  .stone-label {
+    font-family: Georgia, serif;
+    font-size: 11px;
+    fill: #FFD700;
+    text-anchor: middle;
+    font-style: italic;
+  }
+  .stone-freq {
+    font-family: 'Courier New', monospace;
+    font-size: 9px;
+    fill: #4169E1;
+    text-anchor: middle;
+  }
+  .stone-mohs {
+    font-family: 'Courier New', monospace;
+    font-size: 8px;
+    fill: #FFD700;
+    text-anchor: middle;
+    opacity: 0.6;
+  }
+  .freq-bar {
+    fill: #4169E1;
+    opacity: 0.3;
+    rx: 2;
+  }
+</style>
+<g class="stone-body">
+
+  <polygon points="80,60 160,60 190,100 190,200 160,240 80,240 50,200 50,100" fill="url(#g)" stroke="#FFD700" stroke-width="2" opacity="0.85"/>
+  <polygon points="80,60 160,60 190,100 160,100 80,100 50,100" fill="url(#g)" stroke="#B8860B" stroke-width="1.5" opacity="0.4"/>
+  <line x1="80" y1="60" x2="80" y2="100" stroke="#B8860B" stroke-width="1" opacity="0.5"/>
+  <line x1="160" y1="60" x2="160" y2="100" stroke="#B8860B" stroke-width="1" opacity="0.5"/>
+  <polygon points="80,60 160,60 120,30" fill="none" stroke="#FFD700" stroke-width="1.5" opacity="0.7"/>
+</g>
+<text x="120" y="275" class="stone-label">Rutilated Quartz</text>
+<text x="120" y="290" class="stone-freq">1387.5 Hz</text>
+<text x="120" y="303" class="stone-mohs">Mohs 7 · SG 2.65</text>
+<rect x="50" y="310" width="139" height="4" class="freq-bar"/>
+</svg></div><div class="label">v2 (crystal habit + color only)</div></div>
+<div class="col"><div class="v3"><svg xmlns="http://www.w3.org/2000/svg" width="240" height="320" viewBox="0 0 240 320" class="stone-svg" data-stone-name="Rutilated Quartz" data-freq="1387.5" data-mohs="7" data-sg="2.65" data-iem="balanced_armature" data-shape="hexagonal" data-cut="faceted_round">
+<defs><linearGradient id="g" x1="0%" y1="0%" x2="100%" y2="100%"><stop offset="0%" stop-color="#F0F0F0" stop-opacity="0.9"/><stop offset="100%" stop-color="#D0D0D0" stop-opacity="0.95"/></linearGradient></defs>
+<style>
+  .stone-body {
+    transform-origin: 120px 140px;
+    animation: vibrate 0.072s ease-in-out infinite alternate;
+    animation-play-state: paused;
+  }
+  .stone-body.vibrating {
+    animation-play-state: running;
+  }
+  @keyframes vibrate {
+    0% { transform: translate(0, 0) rotate(0deg); }
+    25% { transform: translate(0.8px, -1.4px) rotate(0.3deg); }
+    50% { transform: translate(-0.6px, 0.8px) rotate(-0.3deg); }
+    75% { transform: translate(1.1px, 0.6px) rotate(0.1deg); }
+    100% { transform: translate(-0.8px, -1.1px) rotate(0deg); }
+  }
+  .stone-label {
+    font-family: Georgia, serif;
+    font-size: 11px;
+    fill: #D0D0D0;
+    text-anchor: middle;
+    font-style: italic;
+  }
+  .stone-freq {
+    font-family: 'Courier New', monospace;
+    font-size: 9px;
+    fill: #4169E1;
+    text-anchor: middle;
+  }
+  .stone-meta {
+    font-family: 'Courier New', monospace;
+    font-size: 8px;
+    fill: #D0D0D0;
+    text-anchor: middle;
+    opacity: 0.6;
+  }
+  .freq-bar {
+    fill: #4169E1;
+    opacity: 0.3;
+  }
+</style>
+<g class="stone-body">
+  <polygon points="80,60 160,60 190,100 190,200 160,240 80,240 50,200 50,100" fill="url(#g)" stroke="#D0D0D0" stroke-width="2" opacity="0.85"/>
+  <polygon points="80,60 160,60 190,100 160,100 80,100 50,100" fill="url(#g)" stroke="#C0A030" stroke-width="1.5" opacity="0.4"/>
+  <line x1="80" y1="60" x2="80" y2="100" stroke="#C0A030" stroke-width="1" opacity="0.5"/>
+  <line x1="160" y1="60" x2="160" y2="100" stroke="#C0A030" stroke-width="1" opacity="0.5"/>
+  <polygon points="80,60 160,60 120,30" fill="none" stroke="#D0D0D0" stroke-width="1.5" opacity="0.7"/>
+  <!-- Faceted cut overlay -->
+  <g class="facets" opacity="0.5">
+    <line x1="80" y1="60" x2="160" y2="240" stroke="#FFFFFF" stroke-width="0.8" opacity="0.6"/>
+    <line x1="160" y1="60" x2="80" y2="240" stroke="#FFFFFF" stroke-width="0.8" opacity="0.6"/>
+    <line x1="120" y1="30" x2="120" y2="250" stroke="#FFFFFF" stroke-width="0.6" opacity="0.4"/>
+    <line x1="50" y1="100" x2="190" y2="200" stroke="#FFFFFF" stroke-width="0.6" opacity="0.4"/>
+    <line x1="50" y1="200" x2="190" y2="100" stroke="#FFFFFF" stroke-width="0.6" opacity="0.4"/>
+    <polygon points="95,75 145,75 130,95 110,95" fill="#FFFFFF" opacity="0.15"/>
+    <polygon points="75,120 85,120 80,135" fill="#FFFFFF" opacity="0.2"/>
+  </g>
+  <!-- Rutile inclusions -->
+  <g class="texture-inclusion" opacity="0.7">
+    <line x1="75" y1="80" x2="170" y2="120" stroke="#C0A030" stroke-width="1" opacity="0.8"/>
+    <line x1="80" y1="120" x2="165" y2="100" stroke="#C0A030" stroke-width="0.8" opacity="0.6"/>
+    <line x1="70" y1="160" x2="180" y2="180" stroke="#C0A030" stroke-width="1.2" opacity="0.7"/>
+    <line x1="90" y1="70" x2="160" y2="200" stroke="#C0A030" stroke-width="0.6" opacity="0.5"/>
+    <line x1="75" y1="200" x2="175" y2="90" stroke="#C0A030" stroke-width="0.8" opacity="0.4"/>
+  </g>
+</g>
+<text x="120" y="275" class="stone-label">Rutilated Quartz</text>
+<text x="120" y="290" class="stone-freq">1387.5 Hz</text>
+<text x="120" y="303" class="stone-meta">Mohs 7 · SG 2.65 · faceted_round</text>
+<rect x="50" y="310" width="139" height="4" class="freq-bar" rx="2"/>
+</svg></div><div class="label">v3 (cut style + textures)</div></div>
+</div>
+</div>
+<div class="comparison">
+<h3>Fire Opal</h3>
+<div class="desc">Iridescent play-of-color + cabochon</div>
+<div class="images">
+<div class="col"><div class="v2"><svg xmlns="http://www.w3.org/2000/svg" width="240" height="320" viewBox="0 0 240 320" class="stone-svg" data-stone-name="Fire Opal" data-freq="250.0" data-mohs="5.5" data-sg="2.0" data-iem="balanced_armature" data-shape="amorphous">
+<defs><linearGradient id="g" x1="0%" y1="0%" x2="100%" y2="100%"><stop offset="0%" stop-color="#FF4500" stop-opacity="0.9"/><stop offset="100%" stop-color="#FF6347" stop-opacity="0.95"/></linearGradient></defs>
+<style>
+  .stone-body {
+    transform-origin: 120px 140px;
+    animation: vibrate 0.400s ease-in-out infinite alternate;
+    animation-play-state: paused;
+  }
+  .stone-body.vibrating {
+    animation-play-state: running;
+  }
+  @keyframes vibrate {
+    0% { transform: translate(0, 0) rotate(0deg); }
+    25% { transform: translate(0.3px, -0.5px) rotate(0.1deg); }
+    50% { transform: translate(-0.2px, 0.3px) rotate(-0.1deg); }
+    75% { transform: translate(0.4px, 0.2px) rotate(0.1deg); }
+    100% { transform: translate(-0.3px, -0.4px) rotate(0deg); }
+  }
+  .stone-label {
+    font-family: Georgia, serif;
+    font-size: 11px;
+    fill: #FF6347;
+    text-anchor: middle;
+    font-style: italic;
+  }
+  .stone-freq {
+    font-family: 'Courier New', monospace;
+    font-size: 9px;
+    fill: #4169E1;
+    text-anchor: middle;
+  }
+  .stone-mohs {
+    font-family: 'Courier New', monospace;
+    font-size: 8px;
+    fill: #FF6347;
+    text-anchor: middle;
+    opacity: 0.6;
+  }
+  .freq-bar {
+    fill: #4169E1;
+    opacity: 0.3;
+    rx: 2;
+  }
+</style>
+<g class="stone-body">
+
+  <path d="M 60,90 Q 80,60 120,70 Q 170,55 190,100 Q 195,170 170,220 Q 120,245 80,225 Q 55,180 60,90 Z" fill="url(#g)" stroke="#FF6347" stroke-width="2" opacity="0.85"/>
+  <ellipse cx="100" cy="120" rx="20" ry="15" fill="#FFD700" opacity="0.15"/>
+  <ellipse cx="155" cy="170" rx="25" ry="18" fill="#FFD700" opacity="0.15"/>
+</g>
+<text x="120" y="275" class="stone-label">Fire Opal</text>
+<text x="120" y="290" class="stone-freq">250.0 Hz</text>
+<text x="120" y="303" class="stone-mohs">Mohs 5.5 · SG 2.0</text>
+<rect x="50" y="310" width="25" height="4" class="freq-bar"/>
+</svg></div><div class="label">v2 (crystal habit + color only)</div></div>
+<div class="col"><div class="v3"><svg xmlns="http://www.w3.org/2000/svg" width="240" height="320" viewBox="0 0 240 320" class="stone-svg" data-stone-name="Fire Opal" data-freq="250.0" data-mohs="5.5" data-sg="2.0" data-iem="balanced_armature" data-shape="amorphous" data-cut="cabochon">
+<defs><radialGradient id="g"><stop offset="0%" stop-color="#FFD700"/><stop offset="50%" stop-color="#FF4500"/><stop offset="100%" stop-color="#FF6347"/></radialGradient></defs>
+<style>
+  .stone-body {
+    transform-origin: 120px 140px;
+    animation: vibrate 0.400s ease-in-out infinite alternate;
+    animation-play-state: paused;
+  }
+  .stone-body.vibrating {
+    animation-play-state: running;
+  }
+  @keyframes vibrate {
+    0% { transform: translate(0, 0) rotate(0deg); }
+    25% { transform: translate(0.3px, -0.5px) rotate(0.1deg); }
+    50% { transform: translate(-0.2px, 0.3px) rotate(-0.1deg); }
+    75% { transform: translate(0.4px, 0.2px) rotate(0.1deg); }
+    100% { transform: translate(-0.3px, -0.4px) rotate(0deg); }
+  }
+  .stone-label {
+    font-family: Georgia, serif;
+    font-size: 11px;
+    fill: #FF6347;
+    text-anchor: middle;
+    font-style: italic;
+  }
+  .stone-freq {
+    font-family: 'Courier New', monospace;
+    font-size: 9px;
+    fill: #4169E1;
+    text-anchor: middle;
+  }
+  .stone-meta {
+    font-family: 'Courier New', monospace;
+    font-size: 8px;
+    fill: #FF6347;
+    text-anchor: middle;
+    opacity: 0.6;
+  }
+  .freq-bar {
+    fill: #4169E1;
+    opacity: 0.3;
+  }
+</style>
+<g class="stone-body">
+  <path d="M 60,90 Q 80,60 120,70 Q 170,55 190,100 Q 195,170 170,220 Q 120,245 80,225 Q 55,180 60,90 Z" fill="url(#g)" stroke="#FF6347" stroke-width="2" opacity="0.85"/>
+  <!-- Cabochon cut overlay -->
+  <g class="cabochon" opacity="0.6">
+    <ellipse cx="100" cy="100" rx="30" ry="20" fill="#FFFFFF" opacity="0.2"/>
+    <ellipse cx="105" cy="105" rx="18" ry="12" fill="#FFFFFF" opacity="0.3"/>
+    <ellipse cx="140" cy="170" rx="20" ry="15" fill="#FF6347" opacity="0.15"/>
+  </g>
+  <!-- Iridescent play-of-color -->
+  <g class="texture-iridescent" opacity="0.5">
+    <circle cx="95" cy="95" r="12" fill="#FF1493" opacity="0.15"/>
+    <circle cx="140" cy="110" r="10" fill="#50C878" opacity="0.15"/>
+    <circle cx="110" cy="150" r="14" fill="#4169E1" opacity="0.15"/>
+    <circle cx="160" cy="170" r="10" fill="#FFD700" opacity="0.15"/>
+    <circle cx="80" cy="185" r="8" fill="#9370DB" opacity="0.15"/>
+    <circle cx="145" cy="200" r="11" fill="#FF6347" opacity="0.1"/>
+  </g>
+</g>
+<text x="120" y="275" class="stone-label">Fire Opal</text>
+<text x="120" y="290" class="stone-freq">250.0 Hz</text>
+<text x="120" y="303" class="stone-meta">Mohs 5.5 · SG 2.0 · cabochon</text>
+<rect x="50" y="310" width="25" height="4" class="freq-bar" rx="2"/>
+</svg></div><div class="label">v3 (cut style + textures)</div></div>
+</div>
+</div>
+<div class="comparison">
+<h3>Lapis Lazuli</h3>
+<div class="desc">Pyrite inclusions + metallic sheen</div>
+<div class="images">
+<div class="col"><div class="v2"><svg xmlns="http://www.w3.org/2000/svg" width="240" height="320" viewBox="0 0 240 320" class="stone-svg" data-stone-name="Lapis Lazuli" data-freq="1475.0" data-mohs="5.5" data-sg="2.7" data-iem="balanced_armature" data-shape="massive">
+<defs><linearGradient id="sheen" x1="0%" y1="0%" x2="100%" y2="100%"><stop offset="0%" stop-color="#FFD700" stop-opacity="0.6"/><stop offset="50%" stop-color="#26619C" stop-opacity="0"/><stop offset="100%" stop-color="#FFD700" stop-opacity="0.3"/></linearGradient></defs>
+<style>
+  .stone-body {
+    transform-origin: 120px 140px;
+    animation: vibrate 0.068s ease-in-out infinite alternate;
+    animation-play-state: paused;
+  }
+  .stone-body.vibrating {
+    animation-play-state: running;
+  }
+  @keyframes vibrate {
+    0% { transform: translate(0, 0) rotate(0deg); }
+    25% { transform: translate(0.9px, -1.5px) rotate(0.3deg); }
+    50% { transform: translate(-0.6px, 0.9px) rotate(-0.3deg); }
+    75% { transform: translate(1.2px, 0.6px) rotate(0.1deg); }
+    100% { transform: translate(-0.9px, -1.2px) rotate(0deg); }
+  }
+  .stone-label {
+    font-family: Georgia, serif;
+    font-size: 11px;
+    fill: #1A3F6B;
+    text-anchor: middle;
+    font-style: italic;
+  }
+  .stone-freq {
+    font-family: 'Courier New', monospace;
+    font-size: 9px;
+    fill: #4169E1;
+    text-anchor: middle;
+  }
+  .stone-mohs {
+    font-family: 'Courier New', monospace;
+    font-size: 8px;
+    fill: #1A3F6B;
+    text-anchor: middle;
+    opacity: 0.6;
+  }
+  .freq-bar {
+    fill: #4169E1;
+    opacity: 0.3;
+    rx: 2;
+  }
+</style>
+<g class="stone-body">
+
+  <path d="M 60,90 Q 80,60 120,70 Q 170,55 190,100 Q 195,170 170,220 Q 120,245 80,225 Q 55,180 60,90 Z" fill="#26619C" stroke="#1A3F6B" stroke-width="2" opacity="1.0"/>
+  <ellipse cx="100" cy="120" rx="20" ry="15" fill="#FFD700" opacity="0.15"/>
+  <ellipse cx="155" cy="170" rx="25" ry="18" fill="#FFD700" opacity="0.15"/>
+</g>
+<text x="120" y="275" class="stone-label">Lapis Lazuli</text>
+<text x="120" y="290" class="stone-freq">1475.0 Hz</text>
+<text x="120" y="303" class="stone-mohs">Mohs 5.5 · SG 2.7</text>
+<rect x="50" y="310" width="140" height="4" class="freq-bar"/>
+</svg></div><div class="label">v2 (crystal habit + color only)</div></div>
+<div class="col"><div class="v3"><svg xmlns="http://www.w3.org/2000/svg" width="240" height="320" viewBox="0 0 240 320" class="stone-svg" data-stone-name="Lapis Lazuli" data-freq="1475.0" data-mohs="5.5" data-sg="2.7" data-iem="balanced_armature" data-shape="massive" data-cut="cabochon">
+
+<style>
+  .stone-body {
+    transform-origin: 120px 140px;
+    animation: vibrate 0.068s ease-in-out infinite alternate;
+    animation-play-state: paused;
+  }
+  .stone-body.vibrating {
+    animation-play-state: running;
+  }
+  @keyframes vibrate {
+    0% { transform: translate(0, 0) rotate(0deg); }
+    25% { transform: translate(0.9px, -1.5px) rotate(0.3deg); }
+    50% { transform: translate(-0.6px, 0.9px) rotate(-0.3deg); }
+    75% { transform: translate(1.2px, 0.6px) rotate(0.1deg); }
+    100% { transform: translate(-0.9px, -1.2px) rotate(0deg); }
+  }
+  .stone-label {
+    font-family: Georgia, serif;
+    font-size: 11px;
+    fill: #1A3F6B;
+    text-anchor: middle;
+    font-style: italic;
+  }
+  .stone-freq {
+    font-family: 'Courier New', monospace;
+    font-size: 9px;
+    fill: #4169E1;
+    text-anchor: middle;
+  }
+  .stone-meta {
+    font-family: 'Courier New', monospace;
+    font-size: 8px;
+    fill: #1A3F6B;
+    text-anchor: middle;
+    opacity: 0.6;
+  }
+  .freq-bar {
+    fill: #4169E1;
+    opacity: 0.3;
+  }
+</style>
+<g class="stone-body">
+  <path d="M 60,90 Q 80,60 120,70 Q 170,55 190,100 Q 195,170 170,220 Q 120,245 80,225 Q 55,180 60,90 Z" fill="#26619C" stroke="#1A3F6B" stroke-width="2" opacity="1.0"/>
+  <!-- Cabochon cut overlay -->
+  <g class="cabochon" opacity="0.6">
+    <ellipse cx="100" cy="100" rx="30" ry="20" fill="#FFFFFF" opacity="0.2"/>
+    <ellipse cx="105" cy="105" rx="18" ry="12" fill="#FFFFFF" opacity="0.3"/>
+    <ellipse cx="140" cy="170" rx="20" ry="15" fill="#1A3F6B" opacity="0.15"/>
+  </g>
+  <!-- Pyrite inclusions (lapis) -->
+  <g class="texture-inclusion" opacity="0.6">
+    <polygon points="95,110 105,105 110,115 100,120" fill="#FFD700" opacity="0.8"/>
+    <polygon points="140,150 150,145 155,155 145,160" fill="#FFD700" opacity="0.7"/>
+    <polygon points="110,180 118,176 122,184 114,188" fill="#FFD700" opacity="0.6"/>
+    <circle cx="165" cy="95" r="2" fill="#FFD700" opacity="0.7"/>
+  </g>
+  <!-- Metallic sheen -->
+  <g class="texture-metallic" opacity="0.5">
+    <polygon points="85,75 130,72 125,82 90,85" fill="#FFFFFF" opacity="0.3"/>
+    <polygon points="140,100 175,105 170,115 145,112" fill="#FFFFFF" opacity="0.2"/>
+    <polygon points="80,160 120,155 115,168 85,170" fill="#FFD700" opacity="0.25"/>
+  </g>
+</g>
+<text x="120" y="275" class="stone-label">Lapis Lazuli</text>
+<text x="120" y="290" class="stone-freq">1475.0 Hz</text>
+<text x="120" y="303" class="stone-meta">Mohs 5.5 · SG 2.7 · cabochon</text>
+<rect x="50" y="310" width="140" height="4" class="freq-bar" rx="2"/>
+</svg></div><div class="label">v3 (cut style + textures)</div></div>
+</div>
+</div>
+<div class="comparison">
+<h3>Amber</h3>
+<div class="desc">Organic + insect inclusion + cabochon</div>
+<div class="images">
+<div class="col"><div class="v2"><svg xmlns="http://www.w3.org/2000/svg" width="240" height="320" viewBox="0 0 240 320" class="stone-svg" data-stone-name="Amber" data-freq="7520.0" data-mohs="2.5" data-sg="1.08" data-iem="electrostatic" data-shape="nodule">
+
+<style>
+  .stone-body {
+    transform-origin: 120px 140px;
+    animation: vibrate 0.050s ease-in-out infinite alternate;
+    animation-play-state: paused;
+  }
+  .stone-body.vibrating {
+    animation-play-state: running;
+  }
+  @keyframes vibrate {
+    0% { transform: translate(0, 0) rotate(0deg); }
+    25% { transform: translate(1.2px, -2.0px) rotate(0.4deg); }
+    50% { transform: translate(-0.8px, 1.2px) rotate(-0.4deg); }
+    75% { transform: translate(1.6px, 0.8px) rotate(0.2deg); }
+    100% { transform: translate(-1.2px, -1.6px) rotate(0deg); }
+  }
+  .stone-label {
+    font-family: Georgia, serif;
+    font-size: 11px;
+    fill: #DAA520;
+    text-anchor: middle;
+    font-style: italic;
+  }
+  .stone-freq {
+    font-family: 'Courier New', monospace;
+    font-size: 9px;
+    fill: #9370DB;
+    text-anchor: middle;
+  }
+  .stone-mohs {
+    font-family: 'Courier New', monospace;
+    font-size: 8px;
+    fill: #DAA520;
+    text-anchor: middle;
+    opacity: 0.6;
+  }
+  .freq-bar {
+    fill: #9370DB;
+    opacity: 0.3;
+    rx: 2;
+  }
+</style>
+<g class="stone-body">
+
+  <ellipse cx="120" cy="140" rx="70" ry="55" fill="#FFBF00" stroke="#DAA520" stroke-width="2" opacity="1.0"/>
+  <ellipse cx="100" cy="120" rx="25" ry="20" fill="#FFD700" opacity="0.2"/>
+</g>
+<text x="120" y="275" class="stone-label">Amber</text>
+<text x="120" y="290" class="stone-freq">7520.0 Hz</text>
+<text x="120" y="303" class="stone-mohs">Mohs 2.5 · SG 1.08</text>
+<rect x="50" y="310" width="140" height="4" class="freq-bar"/>
+</svg></div><div class="label">v2 (crystal habit + color only)</div></div>
+<div class="col"><div class="v3"><svg xmlns="http://www.w3.org/2000/svg" width="240" height="320" viewBox="0 0 240 320" class="stone-svg" data-stone-name="Amber" data-freq="7520.0" data-mohs="2.5" data-sg="1.08" data-iem="electrostatic" data-shape="nodule" data-cut="cabochon_bead">
+<defs><linearGradient id="g" x1="0%" y1="0%" x2="100%" y2="100%"><stop offset="0%" stop-color="#FFBF00" stop-opacity="0.9"/><stop offset="100%" stop-color="#FF8C00" stop-opacity="0.95"/></linearGradient></defs>
+<style>
+  .stone-body {
+    transform-origin: 120px 140px;
+    animation: vibrate 0.050s ease-in-out infinite alternate;
+    animation-play-state: paused;
+  }
+  .stone-body.vibrating {
+    animation-play-state: running;
+  }
+  @keyframes vibrate {
+    0% { transform: translate(0, 0) rotate(0deg); }
+    25% { transform: translate(1.2px, -2.0px) rotate(0.4deg); }
+    50% { transform: translate(-0.8px, 1.2px) rotate(-0.4deg); }
+    75% { transform: translate(1.6px, 0.8px) rotate(0.2deg); }
+    100% { transform: translate(-1.2px, -1.6px) rotate(0deg); }
+  }
+  .stone-label {
+    font-family: Georgia, serif;
+    font-size: 11px;
+    fill: #FF8C00;
+    text-anchor: middle;
+    font-style: italic;
+  }
+  .stone-freq {
+    font-family: 'Courier New', monospace;
+    font-size: 9px;
+    fill: #9370DB;
+    text-anchor: middle;
+  }
+  .stone-meta {
+    font-family: 'Courier New', monospace;
+    font-size: 8px;
+    fill: #FF8C00;
+    text-anchor: middle;
+    opacity: 0.6;
+  }
+  .freq-bar {
+    fill: #9370DB;
+    opacity: 0.3;
+  }
+</style>
+<g class="stone-body">
+  <ellipse cx="120" cy="140" rx="70" ry="55" fill="url(#g)" stroke="#FF8C00" stroke-width="2" opacity="0.85"/>
+  <!-- Cabochon cut overlay -->
+  <g class="cabochon" opacity="0.6">
+    <ellipse cx="100" cy="100" rx="30" ry="20" fill="#FFFFFF" opacity="0.2"/>
+    <ellipse cx="105" cy="105" rx="18" ry="12" fill="#FFFFFF" opacity="0.3"/>
+    <ellipse cx="140" cy="170" rx="20" ry="15" fill="#FF8C00" opacity="0.15"/>
+  </g>
+  <!-- Insect inclusion (amber) -->
+  <g class="texture-inclusion" opacity="0.4">
+    <ellipse cx="115" cy="140" rx="4" ry="6" fill="#3D2B1F" opacity="0.5"/>
+    <line x1="115" y1="134" x2="108" y2="128" stroke="#3D2B1F" stroke-width="0.5" opacity="0.4"/>
+    <line x1="115" y1="134" x2="122" y2="128" stroke="#3D2B1F" stroke-width="0.5" opacity="0.4"/>
+    <line x1="115" y1="146" x2="110" y2="152" stroke="#3D2B1F" stroke-width="0.5" opacity="0.4"/>
+    <line x1="115" y1="146" x2="120" y2="152" stroke="#3D2B1F" stroke-width="0.5" opacity="0.4"/>
+  </g>
+</g>
+<text x="120" y="275" class="stone-label">Amber</text>
+<text x="120" y="290" class="stone-freq">7520.0 Hz</text>
+<text x="120" y="303" class="stone-meta">Mohs 2.5 · SG 1.08 · cabochon_bead</text>
+<rect x="50" y="310" width="140" height="4" class="freq-bar" rx="2"/>
+</svg></div><div class="label">v3 (cut style + textures)</div></div>
+</div>
+</div>
+<div class="comparison">
+<h3>Labradorite</h3>
+<div class="desc">Iridescent + massive form</div>
+<div class="images">
+<div class="col"><div class="v2"></div><div class="label">v2 (crystal habit + color only)</div></div>
+<div class="col"><div class="v3"></div><div class="label">v3 (cut style + textures)</div></div>
+</div>
+</div>
+<div class="comparison">
+<h3>Tiger 's Eye Brown</h3>
+<div class="desc">Chatoyant cat's eye</div>
+<div class="images">
+<div class="col"><div class="v2"></div><div class="label">v2 (crystal habit + color only)</div></div>
+<div class="col"><div class="v3"></div><div class="label">v3 (cut style + textures)</div></div>
+</div>
+</div>
+<div class="comparison">
+<h3>Diamond</h3>
+<div class="desc">Brilliant cut + faceted</div>
+<div class="images">
+<div class="col"><div class="v2"><svg xmlns="http://www.w3.org/2000/svg" width="240" height="320" viewBox="0 0 240 320" class="stone-svg" data-stone-name="Diamond" data-freq="124.2" data-mohs="10" data-sg="3.52" data-iem="dynamic_driver" data-shape="octahedron">
+<defs><radialGradient id="g"><stop offset="0%" stop-color="#FFFFFF"/><stop offset="40%" stop-color="#FFFFFF"/><stop offset="100%" stop-color="#E0E0E0"/></radialGradient></defs>
+<style>
+  .stone-body {
+    transform-origin: 120px 140px;
+    animation: vibrate 0.500s ease-in-out infinite alternate;
+    animation-play-state: paused;
+  }
+  .stone-body.vibrating {
+    animation-play-state: running;
+  }
+  @keyframes vibrate {
+    0% { transform: translate(0, 0) rotate(0deg); }
+    25% { transform: translate(0.3px, -0.5px) rotate(0.1deg); }
+    50% { transform: translate(-0.2px, 0.3px) rotate(-0.1deg); }
+    75% { transform: translate(0.4px, 0.2px) rotate(0.1deg); }
+    100% { transform: translate(-0.3px, -0.4px) rotate(0deg); }
+  }
+  .stone-label {
+    font-family: Georgia, serif;
+    font-size: 11px;
+    fill: #E0E0E0;
+    text-anchor: middle;
+    font-style: italic;
+  }
+  .stone-freq {
+    font-family: 'Courier New', monospace;
+    font-size: 9px;
+    fill: #DAA520;
+    text-anchor: middle;
+  }
+  .stone-mohs {
+    font-family: 'Courier New', monospace;
+    font-size: 8px;
+    fill: #E0E0E0;
+    text-anchor: middle;
+    opacity: 0.6;
+  }
+  .freq-bar {
+    fill: #DAA520;
+    opacity: 0.3;
+    rx: 2;
+  }
+</style>
+<g class="stone-body">
+
+  <polygon points="120,40 190,140 120,240 50,140" fill="url(#g)" stroke="#E0E0E0" stroke-width="2" opacity="0.85"/>
+  <line x1="120" y1="40" x2="120" y2="240" stroke="#B0C4DE" stroke-width="1.5" opacity="0.4"/>
+  <line x1="50" y1="140" x2="190" y2="140" stroke="#B0C4DE" stroke-width="1.5" opacity="0.4"/>
+</g>
+<text x="120" y="275" class="stone-label">Diamond</text>
+<text x="120" y="290" class="stone-freq">124.2 Hz</text>
+<text x="120" y="303" class="stone-mohs">Mohs 10 · SG 3.52</text>
+<rect x="50" y="310" width="12" height="4" class="freq-bar"/>
+</svg></div><div class="label">v2 (crystal habit + color only)</div></div>
+<div class="col"><div class="v3"><svg xmlns="http://www.w3.org/2000/svg" width="240" height="320" viewBox="0 0 240 320" class="stone-svg" data-stone-name="Diamond" data-freq="124.2" data-mohs="10" data-sg="3.52" data-iem="dynamic_driver" data-shape="octahedron" data-cut="brilliant_round">
+
+<style>
+  .stone-body {
+    transform-origin: 120px 140px;
+    animation: vibrate 0.500s ease-in-out infinite alternate;
+    animation-play-state: paused;
+  }
+  .stone-body.vibrating {
+    animation-play-state: running;
+  }
+  @keyframes vibrate {
+    0% { transform: translate(0, 0) rotate(0deg); }
+    25% { transform: translate(0.3px, -0.5px) rotate(0.1deg); }
+    50% { transform: translate(-0.2px, 0.3px) rotate(-0.1deg); }
+    75% { transform: translate(0.4px, 0.2px) rotate(0.1deg); }
+    100% { transform: translate(-0.3px, -0.4px) rotate(0deg); }
+  }
+  .stone-label {
+    font-family: Georgia, serif;
+    font-size: 11px;
+    fill: #6B5344;
+    text-anchor: middle;
+    font-style: italic;
+  }
+  .stone-freq {
+    font-family: 'Courier New', monospace;
+    font-size: 9px;
+    fill: #DAA520;
+    text-anchor: middle;
+  }
+  .stone-meta {
+    font-family: 'Courier New', monospace;
+    font-size: 8px;
+    fill: #6B5344;
+    text-anchor: middle;
+    opacity: 0.6;
+  }
+  .freq-bar {
+    fill: #DAA520;
+    opacity: 0.3;
+  }
+</style>
+<g class="stone-body">
+  <polygon points="120,40 190,140 120,240 50,140" fill="#8B7355" stroke="#6B5344" stroke-width="2" opacity="1.0"/>
+  <line x1="120" y1="40" x2="120" y2="240" stroke="#D4A574" stroke-width="1.5" opacity="0.6"/>
+  <line x1="50" y1="140" x2="190" y2="140" stroke="#D4A574" stroke-width="1.5" opacity="0.6"/>
+  <!-- Raw/uncut texture overlay -->
+  <g class="raw-texture" opacity="0.3">
+    <circle cx="85" cy="80" r="3" fill="#D4A574" opacity="0.4"/>
+    <circle cx="150" cy="100" r="2" fill="#D4A574" opacity="0.3"/>
+    <circle cx="110" cy="160" r="4" fill="#D4A574" opacity="0.2"/>
+    <circle cx="170" cy="200" r="3" fill="#D4A574" opacity="0.3"/>
+    <circle cx="70" cy="180" r="2" fill="#D4A574" opacity="0.4"/>
+    <circle cx="145" cy="220" r="3" fill="#D4A574" opacity="0.2"/>
+  </g>
+
+</g>
+<text x="120" y="275" class="stone-label">Diamond</text>
+<text x="120" y="290" class="stone-freq">124.2 Hz</text>
+<text x="120" y="303" class="stone-meta">Mohs 10 · SG 3.52 · brilliant_round</text>
+<rect x="50" y="310" width="12" height="4" class="freq-bar" rx="2"/>
+</svg></div><div class="label">v3 (cut style + textures)</div></div>
+</div>
+</div>
+<div class="comparison">
+<h3>Tanzanite</h3>
+<div class="desc">Pleochroic color shift</div>
+<div class="images">
+<div class="col"><div class="v2"><svg xmlns="http://www.w3.org/2000/svg" width="240" height="320" viewBox="0 0 240 320" class="stone-svg" data-stone-name="Tanzanite" data-freq="109.8" data-mohs="6.5" data-sg="3.35" data-iem="dynamic_driver" data-shape="prism">
+<defs><linearGradient id="g" x1="0%" y1="0%" x2="100%" y2="100%"><stop offset="0%" stop-color="#4169E1" stop-opacity="0.9"/><stop offset="100%" stop-color="#6A0DAD" stop-opacity="0.95"/></linearGradient></defs>
+<style>
+  .stone-body {
+    transform-origin: 120px 140px;
+    animation: vibrate 0.500s ease-in-out infinite alternate;
+    animation-play-state: paused;
+  }
+  .stone-body.vibrating {
+    animation-play-state: running;
+  }
+  @keyframes vibrate {
+    0% { transform: translate(0, 0) rotate(0deg); }
+    25% { transform: translate(0.3px, -0.5px) rotate(0.1deg); }
+    50% { transform: translate(-0.2px, 0.3px) rotate(-0.1deg); }
+    75% { transform: translate(0.4px, 0.2px) rotate(0.1deg); }
+    100% { transform: translate(-0.3px, -0.4px) rotate(0deg); }
+  }
+  .stone-label {
+    font-family: Georgia, serif;
+    font-size: 11px;
+    fill: #6A0DAD;
+    text-anchor: middle;
+    font-style: italic;
+  }
+  .stone-freq {
+    font-family: 'Courier New', monospace;
+    font-size: 9px;
+    fill: #DAA520;
+    text-anchor: middle;
+  }
+  .stone-mohs {
+    font-family: 'Courier New', monospace;
+    font-size: 8px;
+    fill: #6A0DAD;
+    text-anchor: middle;
+    opacity: 0.6;
+  }
+  .freq-bar {
+    fill: #DAA520;
+    opacity: 0.3;
+    rx: 2;
+  }
+</style>
+<g class="stone-body">
+
+  <polygon points="90,70 150,70 170,100 170,210 150,240 90,240 70,210 70,100" fill="url(#g)" stroke="#6A0DAD" stroke-width="2" opacity="0.85"/>
+  <polygon points="90,70 150,70 170,100 150,100 90,100 70,100" fill="url(#g)" stroke="#B0C4DE" stroke-width="1" opacity="0.4"/>
+  <polygon points="90,70 150,70 120,40" fill="none" stroke="#6A0DAD" stroke-width="1.5" opacity="0.7"/>
+</g>
+<text x="120" y="275" class="stone-label">Tanzanite</text>
+<text x="120" y="290" class="stone-freq">109.8 Hz</text>
+<text x="120" y="303" class="stone-mohs">Mohs 6.5 · SG 3.35</text>
+<rect x="50" y="310" width="11" height="4" class="freq-bar"/>
+</svg></div><div class="label">v2 (crystal habit + color only)</div></div>
+<div class="col"><div class="v3"><svg xmlns="http://www.w3.org/2000/svg" width="240" height="320" viewBox="0 0 240 320" class="stone-svg" data-stone-name="Tanzanite" data-freq="109.75" data-mohs="6.5" data-sg="3.35" data-iem="dynamic_driver" data-shape="prism" data-cut="faceted_oval">
+<defs><linearGradient id="g" x1="0%" y1="0%" x2="100%" y2="100%"><stop offset="0%" stop-color="#4169E1" stop-opacity="0.9"/><stop offset="100%" stop-color="#6A0DAD" stop-opacity="0.95"/></linearGradient></defs>
+<style>
+  .stone-body {
+    transform-origin: 120px 140px;
+    animation: vibrate 0.500s ease-in-out infinite alternate;
+    animation-play-state: paused;
+  }
+  .stone-body.vibrating {
+    animation-play-state: running;
+  }
+  @keyframes vibrate {
+    0% { transform: translate(0, 0) rotate(0deg); }
+    25% { transform: translate(0.3px, -0.5px) rotate(0.1deg); }
+    50% { transform: translate(-0.2px, 0.3px) rotate(-0.1deg); }
+    75% { transform: translate(0.4px, 0.2px) rotate(0.1deg); }
+    100% { transform: translate(-0.3px, -0.4px) rotate(0deg); }
+  }
+  .stone-label {
+    font-family: Georgia, serif;
+    font-size: 11px;
+    fill: #6A0DAD;
+    text-anchor: middle;
+    font-style: italic;
+  }
+  .stone-freq {
+    font-family: 'Courier New', monospace;
+    font-size: 9px;
+    fill: #DAA520;
+    text-anchor: middle;
+  }
+  .stone-meta {
+    font-family: 'Courier New', monospace;
+    font-size: 8px;
+    fill: #6A0DAD;
+    text-anchor: middle;
+    opacity: 0.6;
+  }
+  .freq-bar {
+    fill: #DAA520;
+    opacity: 0.3;
+  }
+</style>
+<g class="stone-body">
+  <polygon points="90,70 150,70 170,100 170,210 150,240 90,240 70,210 70,100" fill="url(#g)" stroke="#6A0DAD" stroke-width="2" opacity="0.85"/>
+  <polygon points="90,70 150,70 170,100 150,100 90,100 70,100" fill="url(#g)" stroke="#B0C4DE" stroke-width="1.5" opacity="0.4"/>
+  <polygon points="90,70 150,70 120,40" fill="none" stroke="#6A0DAD" stroke-width="1.5" opacity="0.7"/>
+  <!-- Faceted cut overlay -->
+  <g class="facets" opacity="0.5">
+    <line x1="80" y1="60" x2="160" y2="240" stroke="#FFFFFF" stroke-width="0.8" opacity="0.6"/>
+    <line x1="160" y1="60" x2="80" y2="240" stroke="#FFFFFF" stroke-width="0.8" opacity="0.6"/>
+    <line x1="120" y1="30" x2="120" y2="250" stroke="#FFFFFF" stroke-width="0.6" opacity="0.4"/>
+    <line x1="50" y1="100" x2="190" y2="200" stroke="#FFFFFF" stroke-width="0.6" opacity="0.4"/>
+    <line x1="50" y1="200" x2="190" y2="100" stroke="#FFFFFF" stroke-width="0.6" opacity="0.4"/>
+    <polygon points="95,75 145,75 130,95 110,95" fill="#FFFFFF" opacity="0.15"/>
+    <polygon points="75,120 85,120 80,135" fill="#FFFFFF" opacity="0.2"/>
+  </g>
+  <!-- Pleochroic color shift indicator -->
+  <g class="texture-pleochroic" opacity="0.4">
+    <defs><linearGradient id="pleo" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#4169E1" stop-opacity="0.3"/>
+      <stop offset="50%" stop-color="#B0C4DE" stop-opacity="0.2"/>
+      <stop offset="100%" stop-color="#6A0DAD" stop-opacity="0.3"/>
+    </linearGradient></defs>
+    <polygon points="80,60 160,60 190,100 190,200 160,240 80,240 50,200 50,100" fill="url(#pleo)"/>
+  </g>
+</g>
+<text x="120" y="275" class="stone-label">Tanzanite</text>
+<text x="120" y="290" class="stone-freq">109.8 Hz</text>
+<text x="120" y="303" class="stone-meta">Mohs 6.5 · SG 3.35 · faceted_oval</text>
+<rect x="50" y="310" width="11" height="4" class="freq-bar" rx="2"/>
+</svg></div><div class="label">v3 (cut style + textures)</div></div>
+</div>
+</div>
+<div class="comparison">
+<h3>Bloodstone</h3>
+<div class="desc">Blood spot inclusions</div>
+<div class="images">
+<div class="col"><div class="v2"><svg xmlns="http://www.w3.org/2000/svg" width="240" height="320" viewBox="0 0 240 320" class="stone-svg" data-stone-name="Bloodstone" data-freq="1387.5" data-mohs="6.5" data-sg="2.65" data-iem="balanced_armature" data-shape="botryoidal">
+
+<style>
+  .stone-body {
+    transform-origin: 120px 140px;
+    animation: vibrate 0.072s ease-in-out infinite alternate;
+    animation-play-state: paused;
+  }
+  .stone-body.vibrating {
+    animation-play-state: running;
+  }
+  @keyframes vibrate {
+    0% { transform: translate(0, 0) rotate(0deg); }
+    25% { transform: translate(0.8px, -1.4px) rotate(0.3deg); }
+    50% { transform: translate(-0.6px, 0.8px) rotate(-0.3deg); }
+    75% { transform: translate(1.1px, 0.6px) rotate(0.1deg); }
+    100% { transform: translate(-0.8px, -1.1px) rotate(0deg); }
+  }
+  .stone-label {
+    font-family: Georgia, serif;
+    font-size: 11px;
+    fill: #5C0000;
+    text-anchor: middle;
+    font-style: italic;
+  }
+  .stone-freq {
+    font-family: 'Courier New', monospace;
+    font-size: 9px;
+    fill: #4169E1;
+    text-anchor: middle;
+  }
+  .stone-mohs {
+    font-family: 'Courier New', monospace;
+    font-size: 8px;
+    fill: #5C0000;
+    text-anchor: middle;
+    opacity: 0.6;
+  }
+  .freq-bar {
+    fill: #4169E1;
+    opacity: 0.3;
+    rx: 2;
+  }
+</style>
+<g class="stone-body">
+
+  <circle cx="90" cy="130" r="40" fill="#8B0000" stroke="#5C0000" stroke-width="2" opacity="1.0"/>
+  <circle cx="155" cy="115" r="45" fill="#8B0000" stroke="#5C0000" stroke-width="2" opacity="1.0"/>
+  <circle cx="120" cy="180" r="38" fill="#8B0000" stroke="#5C0000" stroke-width="2" opacity="1.0"/>
+  <circle cx="75" cy="190" r="32" fill="#8B0000" stroke="#5C0000" stroke-width="2" opacity="1.0"/>
+  <circle cx="170" cy="185" r="35" fill="#8B0000" stroke="#5C0000" stroke-width="2" opacity="1.0"/>
+</g>
+<text x="120" y="275" class="stone-label">Bloodstone</text>
+<text x="120" y="290" class="stone-freq">1387.5 Hz</text>
+<text x="120" y="303" class="stone-mohs">Mohs 6.5 · SG 2.65</text>
+<rect x="50" y="310" width="139" height="4" class="freq-bar"/>
+</svg></div><div class="label">v2 (crystal habit + color only)</div></div>
+<div class="col"><div class="v3"><svg xmlns="http://www.w3.org/2000/svg" width="240" height="320" viewBox="0 0 240 320" class="stone-svg" data-stone-name="Bloodstone" data-freq="1387.5" data-mohs="6.5" data-sg="2.65" data-iem="balanced_armature" data-shape="botryoidal" data-cut="cabochon">
+
+<style>
+  .stone-body {
+    transform-origin: 120px 140px;
+    animation: vibrate 0.072s ease-in-out infinite alternate;
+    animation-play-state: paused;
+  }
+  .stone-body.vibrating {
+    animation-play-state: running;
+  }
+  @keyframes vibrate {
+    0% { transform: translate(0, 0) rotate(0deg); }
+    25% { transform: translate(0.8px, -1.4px) rotate(0.3deg); }
+    50% { transform: translate(-0.6px, 0.8px) rotate(-0.3deg); }
+    75% { transform: translate(1.1px, 0.6px) rotate(0.1deg); }
+    100% { transform: translate(-0.8px, -1.1px) rotate(0deg); }
+  }
+  .stone-label {
+    font-family: Georgia, serif;
+    font-size: 11px;
+    fill: #1A4A30;
+    text-anchor: middle;
+    font-style: italic;
+  }
+  .stone-freq {
+    font-family: 'Courier New', monospace;
+    font-size: 9px;
+    fill: #4169E1;
+    text-anchor: middle;
+  }
+  .stone-meta {
+    font-family: 'Courier New', monospace;
+    font-size: 8px;
+    fill: #1A4A30;
+    text-anchor: middle;
+    opacity: 0.6;
+  }
+  .freq-bar {
+    fill: #4169E1;
+    opacity: 0.3;
+  }
+</style>
+<g class="stone-body">
+  <circle cx="90" cy="130" r="40" fill="#2E8B57" stroke="#1A4A30" stroke-width="2" opacity="1.0"/>
+  <circle cx="155" cy="115" r="45" fill="#2E8B57" stroke="#1A4A30" stroke-width="2" opacity="1.0"/>
+  <circle cx="120" cy="180" r="38" fill="#2E8B57" stroke="#1A4A30" stroke-width="2" opacity="1.0"/>
+  <circle cx="75" cy="190" r="32" fill="#2E8B57" stroke="#1A4A30" stroke-width="2" opacity="1.0"/>
+  <circle cx="170" cy="185" r="35" fill="#2E8B57" stroke="#1A4A30" stroke-width="2" opacity="1.0"/>
+  <!-- Cabochon cut overlay -->
+  <g class="cabochon" opacity="0.6">
+    <ellipse cx="100" cy="100" rx="30" ry="20" fill="#FFFFFF" opacity="0.2"/>
+    <ellipse cx="105" cy="105" rx="18" ry="12" fill="#FFFFFF" opacity="0.3"/>
+    <ellipse cx="140" cy="170" rx="20" ry="15" fill="#1A4A30" opacity="0.15"/>
+  </g>
+  <!-- Blood spots (bloodstone) -->
+  <g class="texture-inclusion" opacity="0.6">
+    <circle cx="95" cy="100" r="4" fill="#8B0000" opacity="0.7"/>
+    <circle cx="140" cy="130" r="3" fill="#8B0000" opacity="0.6"/>
+    <circle cx="110" cy="160" r="5" fill="#8B0000" opacity="0.5"/>
+    <circle cx="155" cy="190" r="3" fill="#8B0000" opacity="0.7"/>
+    <circle cx="75" cy="170" r="4" fill="#8B0000" opacity="0.6"/>
+  </g>
+</g>
+<text x="120" y="275" class="stone-label">Bloodstone</text>
+<text x="120" y="290" class="stone-freq">1387.5 Hz</text>
+<text x="120" y="303" class="stone-meta">Mohs 6.5 · SG 2.65 · cabochon</text>
+<rect x="50" y="310" width="139" height="4" class="freq-bar" rx="2"/>
+</svg></div><div class="label">v3 (cut style + textures)</div></div>
+</div>
+</div>
+<div class="comparison">
+<h3>Dendritic Agate</h3>
+<div class="desc">Dendritic branching pattern</div>
+<div class="images">
+<div class="col"><div class="v2"><svg xmlns="http://www.w3.org/2000/svg" width="240" height="320" viewBox="0 0 240 320" class="stone-svg" data-stone-name="Dendritic Agate" data-freq="1300.0" data-mohs="6.5" data-sg="2.6" data-iem="balanced_armature" data-shape="botryoidal">
+
+<style>
+  .stone-body {
+    transform-origin: 120px 140px;
+    animation: vibrate 0.077s ease-in-out infinite alternate;
+    animation-play-state: paused;
+  }
+  .stone-body.vibrating {
+    animation-play-state: running;
+  }
+  @keyframes vibrate {
+    0% { transform: translate(0, 0) rotate(0deg); }
+    25% { transform: translate(0.8px, -1.3px) rotate(0.3deg); }
+    50% { transform: translate(-0.5px, 0.8px) rotate(-0.3deg); }
+    75% { transform: translate(1.0px, 0.5px) rotate(0.1deg); }
+    100% { transform: translate(-0.8px, -1.0px) rotate(0deg); }
+  }
+  .stone-label {
+    font-family: Georgia, serif;
+    font-size: 11px;
+    fill: #3CB371;
+    text-anchor: middle;
+    font-style: italic;
+  }
+  .stone-freq {
+    font-family: 'Courier New', monospace;
+    font-size: 9px;
+    fill: #4169E1;
+    text-anchor: middle;
+  }
+  .stone-mohs {
+    font-family: 'Courier New', monospace;
+    font-size: 8px;
+    fill: #3CB371;
+    text-anchor: middle;
+    opacity: 0.6;
+  }
+  .freq-bar {
+    fill: #4169E1;
+    opacity: 0.3;
+    rx: 2;
+  }
+</style>
+<g class="stone-body">
+
+  <circle cx="90" cy="130" r="40" fill="#556B2F" stroke="#3CB371" stroke-width="2" opacity="1.0"/>
+  <circle cx="155" cy="115" r="45" fill="#556B2F" stroke="#3CB371" stroke-width="2" opacity="1.0"/>
+  <circle cx="120" cy="180" r="38" fill="#556B2F" stroke="#3CB371" stroke-width="2" opacity="1.0"/>
+  <circle cx="75" cy="190" r="32" fill="#556B2F" stroke="#3CB371" stroke-width="2" opacity="1.0"/>
+  <circle cx="170" cy="185" r="35" fill="#556B2F" stroke="#3CB371" stroke-width="2" opacity="1.0"/>
+</g>
+<text x="120" y="275" class="stone-label">Dendritic Agate</text>
+<text x="120" y="290" class="stone-freq">1300.0 Hz</text>
+<text x="120" y="303" class="stone-mohs">Mohs 6.5 · SG 2.6</text>
+<rect x="50" y="310" width="130" height="4" class="freq-bar"/>
+</svg></div><div class="label">v2 (crystal habit + color only)</div></div>
+<div class="col"><div class="v3"><svg xmlns="http://www.w3.org/2000/svg" width="240" height="320" viewBox="0 0 240 320" class="stone-svg" data-stone-name="Dendritic Agate" data-freq="1300.0" data-mohs="6.5" data-sg="2.6" data-iem="balanced_armature" data-shape="botryoidal" data-cut="cabochon">
+
+<style>
+  .stone-body {
+    transform-origin: 120px 140px;
+    animation: vibrate 0.077s ease-in-out infinite alternate;
+    animation-play-state: paused;
+  }
+  .stone-body.vibrating {
+    animation-play-state: running;
+  }
+  @keyframes vibrate {
+    0% { transform: translate(0, 0) rotate(0deg); }
+    25% { transform: translate(0.8px, -1.3px) rotate(0.3deg); }
+    50% { transform: translate(-0.5px, 0.8px) rotate(-0.3deg); }
+    75% { transform: translate(1.0px, 0.5px) rotate(0.1deg); }
+    100% { transform: translate(-0.8px, -1.0px) rotate(0deg); }
+  }
+  .stone-label {
+    font-family: Georgia, serif;
+    font-size: 11px;
+    fill: #D0D0C0;
+    text-anchor: middle;
+    font-style: italic;
+  }
+  .stone-freq {
+    font-family: 'Courier New', monospace;
+    font-size: 9px;
+    fill: #4169E1;
+    text-anchor: middle;
+  }
+  .stone-meta {
+    font-family: 'Courier New', monospace;
+    font-size: 8px;
+    fill: #D0D0C0;
+    text-anchor: middle;
+    opacity: 0.6;
+  }
+  .freq-bar {
+    fill: #4169E1;
+    opacity: 0.3;
+  }
+</style>
+<g class="stone-body">
+  <circle cx="90" cy="130" r="40" fill="#F5F5DC" stroke="#D0D0C0" stroke-width="2" opacity="1.0"/>
+  <circle cx="155" cy="115" r="45" fill="#F5F5DC" stroke="#D0D0C0" stroke-width="2" opacity="1.0"/>
+  <circle cx="120" cy="180" r="38" fill="#F5F5DC" stroke="#D0D0C0" stroke-width="2" opacity="1.0"/>
+  <circle cx="75" cy="190" r="32" fill="#F5F5DC" stroke="#D0D0C0" stroke-width="2" opacity="1.0"/>
+  <circle cx="170" cy="185" r="35" fill="#F5F5DC" stroke="#D0D0C0" stroke-width="2" opacity="1.0"/>
+  <!-- Cabochon cut overlay -->
+  <g class="cabochon" opacity="0.6">
+    <ellipse cx="100" cy="100" rx="30" ry="20" fill="#FFFFFF" opacity="0.2"/>
+    <ellipse cx="105" cy="105" rx="18" ry="12" fill="#FFFFFF" opacity="0.3"/>
+    <ellipse cx="140" cy="170" rx="20" ry="15" fill="#D0D0C0" opacity="0.15"/>
+  </g>
+  <!-- Dendritic pattern -->
+  <g class="texture-dendritic" opacity="0.5">
+    <path d="M 120,80 L 120,100 M 120,100 L 100,115 M 120,100 L 140,112 M 100,115 L 85,135 M 100,115 L 108,140 M 140,112 L 155,130 M 140,112 L 132,145 M 85,135 L 75,160 M 108,140 L 98,170 M 132,145 L 128,175 M 155,130 L 162,155 M 120,175 L 120,210 M 98,170 L 92,200 M 128,175 L 135,205 M 75,160 L 70,185 M 162,155 L 168,180" stroke="#2E8B57" stroke-width="1.5" fill="none" opacity="0.6"/>
+  </g>
+</g>
+<text x="120" y="275" class="stone-label">Dendritic Agate</text>
+<text x="120" y="290" class="stone-freq">1300.0 Hz</text>
+<text x="120" y="303" class="stone-meta">Mohs 6.5 · SG 2.6 · cabochon</text>
+<rect x="50" y="310" width="130" height="4" class="freq-bar" rx="2"/>
+</svg></div><div class="label">v3 (cut style + textures)</div></div>
+</div>
+</div>
+<div class="comparison">
+<h3>Gold</h3>
+<div class="desc">Metallic sheen</div>
+<div class="images">
+<div class="col"><div class="v2"><svg xmlns="http://www.w3.org/2000/svg" width="240" height="320" viewBox="0 0 240 320" class="stone-svg" data-stone-name="Gold" data-freq="27.8" data-mohs="2.5" data-sg="19.3" data-iem="bone_conduction" data-shape="octahedron">
+<defs><linearGradient id="sheen" x1="0%" y1="0%" x2="100%" y2="100%"><stop offset="0%" stop-color="#FFF8DC" stop-opacity="0.6"/><stop offset="50%" stop-color="#FFD700" stop-opacity="0"/><stop offset="100%" stop-color="#FFF8DC" stop-opacity="0.3"/></linearGradient></defs>
+<style>
+  .stone-body {
+    transform-origin: 120px 140px;
+    animation: vibrate 0.500s ease-in-out infinite alternate;
+    animation-play-state: paused;
+  }
+  .stone-body.vibrating {
+    animation-play-state: running;
+  }
+  @keyframes vibrate {
+    0% { transform: translate(0, 0) rotate(0deg); }
+    25% { transform: translate(0.3px, -0.5px) rotate(0.1deg); }
+    50% { transform: translate(-0.2px, 0.3px) rotate(-0.1deg); }
+    75% { transform: translate(0.4px, 0.2px) rotate(0.1deg); }
+    100% { transform: translate(-0.3px, -0.4px) rotate(0deg); }
+  }
+  .stone-label {
+    font-family: Georgia, serif;
+    font-size: 11px;
+    fill: #DAA520;
+    text-anchor: middle;
+    font-style: italic;
+  }
+  .stone-freq {
+    font-family: 'Courier New', monospace;
+    font-size: 9px;
+    fill: #8B0000;
+    text-anchor: middle;
+  }
+  .stone-mohs {
+    font-family: 'Courier New', monospace;
+    font-size: 8px;
+    fill: #DAA520;
+    text-anchor: middle;
+    opacity: 0.6;
+  }
+  .freq-bar {
+    fill: #8B0000;
+    opacity: 0.3;
+    rx: 2;
+  }
+</style>
+<g class="stone-body">
+
+  <polygon points="120,40 190,140 120,240 50,140" fill="#FFD700" stroke="#DAA520" stroke-width="2" opacity="1.0"/>
+  <line x1="120" y1="40" x2="120" y2="240" stroke="#FFF8DC" stroke-width="1.5" opacity="0.6"/>
+  <line x1="50" y1="140" x2="190" y2="140" stroke="#FFF8DC" stroke-width="1.5" opacity="0.6"/>
+</g>
+<text x="120" y="275" class="stone-label">Gold</text>
+<text x="120" y="290" class="stone-freq">27.8 Hz</text>
+<text x="120" y="303" class="stone-mohs">Mohs 2.5 · SG 19.3</text>
+<rect x="50" y="310" width="3" height="4" class="freq-bar"/>
+</svg></div><div class="label">v2 (crystal habit + color only)</div></div>
+<div class="col"><div class="v3"><svg xmlns="http://www.w3.org/2000/svg" width="240" height="320" viewBox="0 0 240 320" class="stone-svg" data-stone-name="Gold" data-freq="27.84" data-mohs="2.5" data-sg="19.3" data-iem="bone_conduction" data-shape="octahedron" data-cut="uncut_natural">
+
+<style>
+  .stone-body {
+    transform-origin: 120px 140px;
+    animation: vibrate 0.500s ease-in-out infinite alternate;
+    animation-play-state: paused;
+  }
+  .stone-body.vibrating {
+    animation-play-state: running;
+  }
+  @keyframes vibrate {
+    0% { transform: translate(0, 0) rotate(0deg); }
+    25% { transform: translate(0.3px, -0.5px) rotate(0.1deg); }
+    50% { transform: translate(-0.2px, 0.3px) rotate(-0.1deg); }
+    75% { transform: translate(0.4px, 0.2px) rotate(0.1deg); }
+    100% { transform: translate(-0.3px, -0.4px) rotate(0deg); }
+  }
+  .stone-label {
+    font-family: Georgia, serif;
+    font-size: 11px;
+    fill: #DAA520;
+    text-anchor: middle;
+    font-style: italic;
+  }
+  .stone-freq {
+    font-family: 'Courier New', monospace;
+    font-size: 9px;
+    fill: #8B0000;
+    text-anchor: middle;
+  }
+  .stone-meta {
+    font-family: 'Courier New', monospace;
+    font-size: 8px;
+    fill: #DAA520;
+    text-anchor: middle;
+    opacity: 0.6;
+  }
+  .freq-bar {
+    fill: #8B0000;
+    opacity: 0.3;
+  }
+</style>
+<g class="stone-body">
+  <polygon points="120,40 190,140 120,240 50,140" fill="#FFD700" stroke="#DAA520" stroke-width="2" opacity="1.0"/>
+  <line x1="120" y1="40" x2="120" y2="240" stroke="#FFF8DC" stroke-width="1.5" opacity="0.6"/>
+  <line x1="50" y1="140" x2="190" y2="140" stroke="#FFF8DC" stroke-width="1.5" opacity="0.6"/>
+  <!-- Raw/uncut texture overlay -->
+  <g class="raw-texture" opacity="0.3">
+    <circle cx="85" cy="80" r="3" fill="#FFF8DC" opacity="0.4"/>
+    <circle cx="150" cy="100" r="2" fill="#FFF8DC" opacity="0.3"/>
+    <circle cx="110" cy="160" r="4" fill="#FFF8DC" opacity="0.2"/>
+    <circle cx="170" cy="200" r="3" fill="#FFF8DC" opacity="0.3"/>
+    <circle cx="70" cy="180" r="2" fill="#FFF8DC" opacity="0.4"/>
+    <circle cx="145" cy="220" r="3" fill="#FFF8DC" opacity="0.2"/>
+  </g>
+  <!-- Metallic sheen -->
+  <g class="texture-metallic" opacity="0.5">
+    <polygon points="85,75 130,72 125,82 90,85" fill="#FFFFFF" opacity="0.3"/>
+    <polygon points="140,100 175,105 170,115 145,112" fill="#FFFFFF" opacity="0.2"/>
+    <polygon points="80,160 120,155 115,168 85,170" fill="#FFF8DC" opacity="0.25"/>
+  </g>
+</g>
+<text x="120" y="275" class="stone-label">Gold</text>
+<text x="120" y="290" class="stone-freq">27.8 Hz</text>
+<text x="120" y="303" class="stone-meta">Mohs 2.5 · SG 19.3 · uncut_natural</text>
+<rect x="50" y="310" width="5" height="4" class="freq-bar" rx="2"/>
+</svg></div><div class="label">v3 (cut style + textures)</div></div>
+</div>
+</div>
+</div></body></html>

@@ -1,0 +1,2598 @@
+{
+  "Platinum": {
+    "file": "Platinum.svg",
+    "shape": "octahedron",
+    "family": "Platinum",
+    "freq": 20.0,
+    "mohs": 4,
+    "sg": 21.45,
+    "iem": "bone_conduction",
+    "cut": "uncut_natural",
+    "colors": {
+      "p": "#E5E4E2",
+      "s": "#B8B8B8",
+      "a": "#FFFFFF",
+      "gemmy": false,
+      "metallic": true
+    }
+  },
+  "Gold": {
+    "file": "Gold.svg",
+    "shape": "octahedron",
+    "family": "Gold",
+    "freq": 27.8,
+    "mohs": 2.5,
+    "sg": 19.3,
+    "iem": "bone_conduction",
+    "cut": "uncut_natural",
+    "colors": {
+      "p": "#FFD700",
+      "s": "#DAA520",
+      "a": "#FFF8DC",
+      "gemmy": false,
+      "metallic": true
+    }
+  },
+  "Copper": {
+    "file": "Copper.svg",
+    "shape": "dendrite",
+    "family": "Copper",
+    "freq": 65.6,
+    "mohs": 3,
+    "sg": 8.96,
+    "iem": "bone_conduction",
+    "cut": "uncut_natural",
+    "colors": {
+      "p": "#B87333",
+      "s": "#8B4513",
+      "a": "#FFD700",
+      "gemmy": false,
+      "metallic": true
+    }
+  },
+  "Cuprite": {
+    "file": "Cuprite.svg",
+    "shape": "octahedron",
+    "family": "Cuprite",
+    "freq": 75.8,
+    "mohs": 3.5,
+    "sg": 6.14,
+    "iem": "bone_conduction",
+    "cut": "faceted_round",
+    "colors": {
+      "p": "#8B0000",
+      "s": "#5C0000",
+      "a": "#FF6347",
+      "gemmy": true
+    }
+  },
+  "Hematite": {
+    "file": "Hematite.svg",
+    "shape": "botryoidal",
+    "family": "Hematite",
+    "freq": 78.9,
+    "mohs": 5.5,
+    "sg": 5.3,
+    "iem": "bone_conduction",
+    "cut": "cabochon",
+    "colors": {
+      "p": "#2F2F4F",
+      "s": "#1A1A2E",
+      "a": "#9CA3AF",
+      "gemmy": false,
+      "metallic": true
+    }
+  },
+  "Nuummite": {
+    "file": "Nuummite.svg",
+    "shape": "massive",
+    "family": "Nuummite",
+    "freq": 80.0,
+    "mohs": 5.5,
+    "sg": 3.0,
+    "iem": "dynamic_driver",
+    "cut": "cabochon",
+    "colors": {
+      "p": "#1A1A2E",
+      "s": "#0D0D1A",
+      "a": "#4A4A6E",
+      "gemmy": false,
+      "flash": true
+    }
+  },
+  "Pyrite": {
+    "file": "Pyrite.svg",
+    "shape": "cube",
+    "family": "Pyrite",
+    "freq": 80.0,
+    "mohs": 6,
+    "sg": 5.01,
+    "iem": "bone_conduction",
+    "cut": "uncut_natural",
+    "colors": {
+      "p": "#B8860B",
+      "s": "#8B6914",
+      "a": "#FFD700",
+      "gemmy": false,
+      "metallic": true
+    }
+  },
+  "Blue Tourmaline": {
+    "file": "Blue_Tourmaline.svg",
+    "shape": "triangular_prism",
+    "family": "Tourmaline",
+    "freq": 84.2,
+    "mohs": 7.5,
+    "sg": 3.05,
+    "iem": "dynamic_driver",
+    "cut": "faceted_elongated",
+    "colors": {
+      "p": "#1E90FF",
+      "s": "#0066CC",
+      "a": "#87CEEB",
+      "gemmy": true
+    }
+  },
+  "Green Tourmaline": {
+    "file": "Green_Tourmaline.svg",
+    "shape": "triangular_prism",
+    "family": "Tourmaline",
+    "freq": 84.2,
+    "mohs": 7.5,
+    "sg": 3.05,
+    "iem": "dynamic_driver",
+    "cut": "faceted_elongated",
+    "colors": {
+      "p": "#50C878",
+      "s": "#2E8B57",
+      "a": "#90EE90",
+      "gemmy": true
+    }
+  },
+  "Multi - Colored Tourmaline": {
+    "file": "Multi_-_Colored_Tourmaline.svg",
+    "shape": "triangular_prism",
+    "family": "Tourmaline",
+    "freq": 84.2,
+    "mohs": 7.5,
+    "sg": 3.05,
+    "iem": "dynamic_driver",
+    "cut": "faceted_elongated",
+    "colors": {
+      "p": "#50C878",
+      "s": "#FF6B6B",
+      "a": "#9370DB",
+      "gemmy": true,
+      "multicolor": true
+    }
+  },
+  "Rubellite Tourmaline": {
+    "file": "Rubellite_Tourmaline.svg",
+    "shape": "triangular_prism",
+    "family": "Tourmaline",
+    "freq": 84.2,
+    "mohs": 7.5,
+    "sg": 3.05,
+    "iem": "dynamic_driver",
+    "cut": "faceted_elongated",
+    "colors": {
+      "p": "#E0115F",
+      "s": "#C71585",
+      "a": "#FF69B4",
+      "gemmy": true
+    }
+  },
+  "Watermelon Tourmaline": {
+    "file": "Watermelon_Tourmaline.svg",
+    "shape": "triangular_prism",
+    "family": "Tourmaline",
+    "freq": 84.2,
+    "mohs": 7.5,
+    "sg": 3.05,
+    "iem": "dynamic_driver",
+    "cut": "faceted_elongated",
+    "colors": {
+      "p": "#50C878",
+      "s": "#E0115F",
+      "a": "#FFFFFF",
+      "gemmy": true,
+      "multicolor": true
+    }
+  },
+  "Black Tourmaline": {
+    "file": "Black_Tourmaline.svg",
+    "shape": "triangular_prism",
+    "family": "Tourmaline",
+    "freq": 88.5,
+    "mohs": 7.5,
+    "sg": 3.1,
+    "iem": "dynamic_driver",
+    "cut": "faceted_elongated",
+    "colors": {
+      "p": "#1A1A1A",
+      "s": "#0D0D0D",
+      "a": "#3A3A3A",
+      "gemmy": false
+    }
+  },
+  "Andalusite": {
+    "file": "Andalusite.svg",
+    "shape": "cross",
+    "family": "Andalusite",
+    "freq": 93.6,
+    "mohs": 7.5,
+    "sg": 3.16,
+    "iem": "dynamic_driver",
+    "cut": "faceted_oval",
+    "colors": {
+      "p": "#8B7355",
+      "s": "#6B5344",
+      "a": "#D4A574",
+      "gemmy": true,
+      "pleochroic": true
+    }
+  },
+  "Kunzite": {
+    "file": "Kunzite.svg",
+    "shape": "blade_prism",
+    "family": "Spodumene",
+    "freq": 95.3,
+    "mohs": 6.5,
+    "sg": 3.18,
+    "iem": "dynamic_driver",
+    "cut": "faceted_elongated",
+    "colors": {
+      "p": "#E8B4B8",
+      "s": "#D4A0A0",
+      "a": "#FFC0CB",
+      "gemmy": true
+    }
+  },
+  "Green Fluorite": {
+    "file": "Green_Fluorite.svg",
+    "shape": "cube",
+    "family": "Fluorite",
+    "freq": 95.3,
+    "mohs": 4,
+    "sg": 3.18,
+    "iem": "dynamic_driver",
+    "cut": "faceted_square",
+    "colors": {
+      "p": "#90EE90",
+      "s": "#3CB371",
+      "a": "#98FB98",
+      "gemmy": true
+    }
+  },
+  "Purple Fluorite": {
+    "file": "Purple_Fluorite.svg",
+    "shape": "cube",
+    "family": "Fluorite",
+    "freq": 95.3,
+    "mohs": 4,
+    "sg": 3.18,
+    "iem": "dynamic_driver",
+    "cut": "faceted_square",
+    "colors": {
+      "p": "#9370DB",
+      "s": "#7B68EE",
+      "a": "#E6E6FA",
+      "gemmy": true
+    }
+  },
+  "Rainbow Fluorite": {
+    "file": "Rainbow_Fluorite.svg",
+    "shape": "cube",
+    "family": "Fluorite",
+    "freq": 95.3,
+    "mohs": 4,
+    "sg": 3.18,
+    "iem": "dynamic_driver",
+    "cut": "faceted_square",
+    "colors": {
+      "p": "#9370DB",
+      "s": "#90EE90",
+      "a": "#87CEEB",
+      "gemmy": true,
+      "multicolor": true
+    }
+  },
+  "Apatite": {
+    "file": "Apatite.svg",
+    "shape": "hexagonal",
+    "family": "Apatite",
+    "freq": 99.5,
+    "mohs": 5,
+    "sg": 3.23,
+    "iem": "dynamic_driver",
+    "cut": "faceted_oval",
+    "colors": {
+      "p": "#00CED1",
+      "s": "#008B8B",
+      "a": "#48D1CC",
+      "gemmy": true
+    }
+  },
+  "Tiger Iron": {
+    "file": "Tiger_Iron.svg",
+    "shape": "botryoidal",
+    "family": "Chalcedony",
+    "freq": 105.5,
+    "mohs": 6.5,
+    "sg": 3.3,
+    "iem": "dynamic_driver",
+    "cut": "cabochon",
+    "colors": {
+      "p": "#8B4513",
+      "s": "#DAA520",
+      "a": "#2F2F4F",
+      "gemmy": false,
+      "banded": true
+    }
+  },
+  "Guatemalan Jade": {
+    "file": "Guatemalan_Jade.svg",
+    "shape": "massive",
+    "family": "Jade",
+    "freq": 105.5,
+    "mohs": 7,
+    "sg": 3.3,
+    "iem": "dynamic_driver",
+    "cut": "cabochon",
+    "colors": {
+      "p": "#3C8D6E",
+      "s": "#2E6B4F",
+      "a": "#5FAC8E",
+      "gemmy": false
+    }
+  },
+  "White Jade": {
+    "file": "White_Jade.svg",
+    "shape": "massive",
+    "family": "Jade",
+    "freq": 105.5,
+    "mohs": 7,
+    "sg": 3.3,
+    "iem": "dynamic_driver",
+    "cut": "cabochon",
+    "colors": {
+      "p": "#F5F5DC",
+      "s": "#E8E4C9",
+      "a": "#FFFFFF",
+      "gemmy": false
+    }
+  },
+  "Bronzite": {
+    "file": "Bronzite.svg",
+    "shape": "prism",
+    "family": "Bronzite",
+    "freq": 105.5,
+    "mohs": 5.5,
+    "sg": 3.3,
+    "iem": "dynamic_driver",
+    "cut": "cabochon",
+    "colors": {
+      "p": "#8B7355",
+      "s": "#6B5344",
+      "a": "#CD853F",
+      "gemmy": false,
+      "metallic": true
+    }
+  },
+  "Chrome Diopside": {
+    "file": "Chrome_Diopside.svg",
+    "shape": "prism",
+    "family": "Chrome Diopside",
+    "freq": 105.5,
+    "mohs": 5.5,
+    "sg": 3.3,
+    "iem": "dynamic_driver",
+    "cut": "faceted_round",
+    "colors": {
+      "p": "#228B22",
+      "s": "#006400",
+      "a": "#32CD32",
+      "gemmy": true
+    }
+  },
+  "Dumortierite": {
+    "file": "Dumortierite.svg",
+    "shape": "fibrous",
+    "family": "Dumortierite",
+    "freq": 105.5,
+    "mohs": 7,
+    "sg": 3.3,
+    "iem": "dynamic_driver",
+    "cut": "cabochon",
+    "colors": {
+      "p": "#6A5ACD",
+      "s": "#483D8B",
+      "a": "#9370DB",
+      "gemmy": false
+    }
+  },
+  "Zoisite (with ruby inclusions)": {
+    "file": "Zoisite_with_ruby_inclusions.svg",
+    "shape": "prism",
+    "family": "Zoisite",
+    "freq": 105.5,
+    "mohs": 6.5,
+    "sg": 3.3,
+    "iem": "dynamic_driver",
+    "cut": "faceted_oval",
+    "colors": {
+      "p": "#3CB371",
+      "s": "#2E8B57",
+      "a": "#E0115F",
+      "gemmy": false,
+      "multicolor": true
+    }
+  },
+  "Jadeite": {
+    "file": "Jadeite.svg",
+    "shape": "massive",
+    "family": "Jade",
+    "freq": 108.9,
+    "mohs": 7,
+    "sg": 3.34,
+    "iem": "dynamic_driver",
+    "cut": "cabochon",
+    "colors": {
+      "p": "#50C878",
+      "s": "#2E8B57",
+      "a": "#98FB98",
+      "gemmy": false
+    }
+  },
+  "Tanzanite": {
+    "file": "Tanzanite.svg",
+    "shape": "prism",
+    "family": "Zoisite",
+    "freq": 109.8,
+    "mohs": 6.5,
+    "sg": 3.35,
+    "iem": "dynamic_driver",
+    "cut": "faceted_oval",
+    "colors": {
+      "p": "#4169E1",
+      "s": "#6A0DAD",
+      "a": "#B0C4DE",
+      "gemmy": true
+    }
+  },
+  "Zultanite": {
+    "file": "Zultanite.svg",
+    "shape": "prism",
+    "family": "Zultanite",
+    "freq": 109.8,
+    "mohs": 6.5,
+    "sg": 3.35,
+    "iem": "dynamic_driver",
+    "cut": "faceted_oval",
+    "colors": {
+      "p": "#DAA520",
+      "s": "#E8C547",
+      "a": "#C0C0C0",
+      "gemmy": true,
+      "colorchange": true
+    }
+  },
+  "Hypersthene": {
+    "file": "Hypersthene.svg",
+    "shape": "prism",
+    "family": "Hypersthene",
+    "freq": 114.0,
+    "mohs": 5.5,
+    "sg": 3.4,
+    "iem": "dynamic_driver",
+    "cut": "cabochon",
+    "colors": {
+      "p": "#5C4033",
+      "s": "#3E2723",
+      "a": "#8B7355",
+      "gemmy": false,
+      "metallic": true
+    }
+  },
+  "Epidote": {
+    "file": "Epidote.svg",
+    "shape": "prism",
+    "family": "Epidote",
+    "freq": 118.2,
+    "mohs": 7,
+    "sg": 3.45,
+    "iem": "dynamic_driver",
+    "cut": "faceted_elongated",
+    "colors": {
+      "p": "#556B2F",
+      "s": "#3D5314",
+      "a": "#6B8E23",
+      "gemmy": false
+    }
+  },
+  "Rhodonite": {
+    "file": "Rhodonite.svg",
+    "shape": "massive",
+    "family": "Rhodonite",
+    "freq": 122.5,
+    "mohs": 5.5,
+    "sg": 3.5,
+    "iem": "dynamic_driver",
+    "cut": "cabochon",
+    "colors": {
+      "p": "#E75480",
+      "s": "#C71585",
+      "a": "#2F2F2F",
+      "gemmy": false,
+      "banded": true
+    }
+  },
+  "Diamond": {
+    "file": "Diamond.svg",
+    "shape": "octahedron",
+    "family": "Diamond",
+    "freq": 124.2,
+    "mohs": 10,
+    "sg": 3.52,
+    "iem": "dynamic_driver",
+    "cut": "brilliant_round",
+    "colors": {
+      "p": "#FFFFFF",
+      "s": "#E0E0E0",
+      "a": "#B0C4DE",
+      "gemmy": true,
+      "brilliant": true
+    }
+  },
+  "Blue Topaz (London)": {
+    "file": "Blue_Topaz_London.svg",
+    "shape": "prism",
+    "family": "Topaz",
+    "freq": 125.0,
+    "mohs": 8,
+    "sg": 3.53,
+    "iem": "dynamic_driver",
+    "cut": "faceted_oval",
+    "colors": {
+      "p": "#2F5F8F",
+      "s": "#1C3F5F",
+      "a": "#4682B4",
+      "gemmy": true
+    }
+  },
+  "Blue Topaz (Swiss)": {
+    "file": "Blue_Topaz_Swiss.svg",
+    "shape": "prism",
+    "family": "Topaz",
+    "freq": 125.0,
+    "mohs": 8,
+    "sg": 3.53,
+    "iem": "dynamic_driver",
+    "cut": "faceted_oval",
+    "colors": {
+      "p": "#00BFFF",
+      "s": "#0099CC",
+      "a": "#87CEEB",
+      "gemmy": true
+    }
+  },
+  "Clear Topaz": {
+    "file": "Clear_Topaz.svg",
+    "shape": "prism",
+    "family": "Topaz",
+    "freq": 125.0,
+    "mohs": 8,
+    "sg": 3.53,
+    "iem": "dynamic_driver",
+    "cut": "faceted_oval",
+    "colors": {
+      "p": "#FFF8DC",
+      "s": "#E8E4C9",
+      "a": "#FFFFF0",
+      "gemmy": true
+    }
+  },
+  "Imperial (Golden) Topaz": {
+    "file": "Imperial_Golden_Topaz.svg",
+    "shape": "prism",
+    "family": "Topaz",
+    "freq": 125.0,
+    "mohs": 8,
+    "sg": 3.53,
+    "iem": "dynamic_driver",
+    "cut": "faceted_oval",
+    "colors": {
+      "p": "#FFB347",
+      "s": "#FF8C00",
+      "a": "#FFD700",
+      "gemmy": true
+    }
+  },
+  "Grossular Garnet": {
+    "file": "Grossular_Garnet.svg",
+    "shape": "dodecahedron",
+    "family": "Garnet",
+    "freq": 131.0,
+    "mohs": 7,
+    "sg": 3.6,
+    "iem": "dynamic_driver",
+    "cut": "faceted_round",
+    "colors": {
+      "p": "#73C6B6",
+      "s": "#5F9EA0",
+      "a": "#AFEEEE",
+      "gemmy": true
+    }
+  },
+  "Hessonite Garnet": {
+    "file": "Hessonite_Garnet.svg",
+    "shape": "dodecahedron",
+    "family": "Garnet",
+    "freq": 131.0,
+    "mohs": 7,
+    "sg": 3.6,
+    "iem": "dynamic_driver",
+    "cut": "faceted_round",
+    "colors": {
+      "p": "#D4A574",
+      "s": "#B8860B",
+      "a": "#FFDEAD",
+      "gemmy": true
+    }
+  },
+  "Kyanite (blue)": {
+    "file": "Kyanite_blue.svg",
+    "shape": "blade",
+    "family": "Kyanite",
+    "freq": 131.0,
+    "mohs": 4.5,
+    "sg": 3.6,
+    "iem": "dynamic_driver",
+    "cut": "faceted_elongated",
+    "colors": {
+      "p": "#4169E1",
+      "s": "#1E90FF",
+      "a": "#6495ED",
+      "gemmy": true
+    }
+  },
+  "Kyanite (orange)": {
+    "file": "Kyanite_orange.svg",
+    "shape": "blade",
+    "family": "Kyanite",
+    "freq": 131.0,
+    "mohs": 4.5,
+    "sg": 3.6,
+    "iem": "dynamic_driver",
+    "cut": "faceted_elongated",
+    "colors": {
+      "p": "#FF8C00",
+      "s": "#FF6347",
+      "a": "#FFD700",
+      "gemmy": true
+    }
+  },
+  "Kyanite (Moss)": {
+    "file": "Kyanite_Moss.svg",
+    "shape": "blade",
+    "family": "Kyanite",
+    "freq": 131.0,
+    "mohs": 4.5,
+    "sg": 3.6,
+    "iem": "dynamic_driver",
+    "cut": "faceted_elongated",
+    "colors": {
+      "p": "#556B2F",
+      "s": "#6B8E23",
+      "a": "#3CB371",
+      "gemmy": false
+    }
+  },
+  "Spinel": {
+    "file": "Spinel.svg",
+    "shape": "octahedron",
+    "family": "Spinel",
+    "freq": 131.0,
+    "mohs": 8,
+    "sg": 3.6,
+    "iem": "dynamic_driver",
+    "cut": "faceted_round",
+    "colors": {
+      "p": "#E0115F",
+      "s": "#C71585",
+      "a": "#FF1493",
+      "gemmy": true
+    }
+  },
+  "Ruby with kyanite": {
+    "file": "Ruby_with_kyanite.svg",
+    "shape": "barrel",
+    "family": "Corundum",
+    "freq": 139.5,
+    "mohs": 7,
+    "sg": 3.7,
+    "iem": "dynamic_driver",
+    "cut": "faceted_round",
+    "colors": {
+      "p": "#E0115F",
+      "s": "#4169E1",
+      "a": "#FF69B4",
+      "gemmy": true,
+      "multicolor": true
+    }
+  },
+  "Rhodochrosite": {
+    "file": "Rhodochrosite.svg",
+    "shape": "rhombohedron",
+    "family": "Rhodochrosite",
+    "freq": 139.5,
+    "mohs": 4,
+    "sg": 3.7,
+    "iem": "dynamic_driver",
+    "cut": "cabochon",
+    "colors": {
+      "p": "#E75480",
+      "s": "#FFC0CB",
+      "a": "#FFFFFF",
+      "gemmy": false,
+      "banded": true
+    }
+  },
+  "Alexandrite": {
+    "file": "Alexandrite.svg",
+    "shape": "twinned",
+    "family": "Chrysoberyl",
+    "freq": 139.5,
+    "mohs": 8.5,
+    "sg": 3.7,
+    "iem": "dynamic_driver",
+    "cut": "faceted_oval",
+    "colors": {
+      "p": "#50C878",
+      "s": "#9370DB",
+      "a": "#E0115F",
+      "gemmy": true,
+      "colorchange": true
+    }
+  },
+  "Staurolite (fairy cross stone)": {
+    "file": "Staurolite_fairy_cross_stone.svg",
+    "shape": "cross",
+    "family": "Staurolite",
+    "freq": 139.5,
+    "mohs": 7.5,
+    "sg": 3.7,
+    "iem": "dynamic_driver",
+    "cut": "uncut_natural",
+    "colors": {
+      "p": "#5C4033",
+      "s": "#3E2723",
+      "a": "#8B7355",
+      "gemmy": false
+    }
+  },
+  "Cat's Eye": {
+    "file": "Cats_Eye.svg",
+    "shape": "twinned",
+    "family": "Chrysoberyl",
+    "freq": 141.2,
+    "mohs": 8.5,
+    "sg": 3.72,
+    "iem": "dynamic_driver",
+    "cut": "faceted_oval",
+    "colors": {
+      "p": "#DAA520",
+      "s": "#B8860B",
+      "a": "#FFF8DC",
+      "gemmy": true,
+      "chatoyant": true
+    }
+  },
+  "Azurite": {
+    "file": "Azurite.svg",
+    "shape": "prism",
+    "family": "Azurite",
+    "freq": 145.4,
+    "mohs": 3.5,
+    "sg": 3.77,
+    "iem": "dynamic_driver",
+    "cut": "cabochon",
+    "colors": {
+      "p": "#1E90FF",
+      "s": "#0000CD",
+      "a": "#4169E1",
+      "gemmy": false
+    }
+  },
+  "Malachite": {
+    "file": "Malachite.svg",
+    "shape": "botryoidal",
+    "family": "Malachite",
+    "freq": 148.0,
+    "mohs": 3.5,
+    "sg": 3.8,
+    "iem": "dynamic_driver",
+    "cut": "cabochon",
+    "colors": {
+      "p": "#8B7355",
+      "s": "#6B5344",
+      "a": "#D4A574",
+      "gemmy": false
+    }
+  },
+  "Uvarovite": {
+    "file": "Uvarovite.svg",
+    "shape": "dodecahedron",
+    "family": "Garnet",
+    "freq": 152.2,
+    "mohs": 7.5,
+    "sg": 3.85,
+    "iem": "dynamic_driver",
+    "cut": "faceted_round",
+    "colors": {
+      "p": "#8B0000",
+      "s": "#5C0000",
+      "a": "#B22222",
+      "gemmy": true
+    }
+  },
+  "Mozambique Garnet": {
+    "file": "Mozambique_Garnet.svg",
+    "shape": "dodecahedron",
+    "family": "Garnet",
+    "freq": 160.8,
+    "mohs": 7.5,
+    "sg": 3.95,
+    "iem": "dynamic_driver",
+    "cut": "faceted_round",
+    "colors": {
+      "p": "#8B0000",
+      "s": "#5C0000",
+      "a": "#B22222",
+      "gemmy": true
+    }
+  },
+  "Ruby": {
+    "file": "Ruby.svg",
+    "shape": "barrel",
+    "family": "Corundum",
+    "freq": 164.2,
+    "mohs": 9,
+    "sg": 3.99,
+    "iem": "dynamic_driver",
+    "cut": "faceted_round",
+    "colors": {
+      "p": "#E0115F",
+      "s": "#C71585",
+      "a": "#FF69B4",
+      "gemmy": true
+    }
+  },
+  "Sapphire": {
+    "file": "Sapphire.svg",
+    "shape": "barrel",
+    "family": "Corundum",
+    "freq": 164.2,
+    "mohs": 9,
+    "sg": 3.99,
+    "iem": "dynamic_driver",
+    "cut": "faceted_round",
+    "colors": {
+      "p": "#4169E1",
+      "s": "#1E90FF",
+      "a": "#6495ED",
+      "gemmy": true
+    }
+  },
+  "Sapphire (Tundra)": {
+    "file": "Sapphire_Tundra.svg",
+    "shape": "barrel",
+    "family": "Corundum",
+    "freq": 164.2,
+    "mohs": 9,
+    "sg": 3.99,
+    "iem": "dynamic_driver",
+    "cut": "faceted_round",
+    "colors": {
+      "p": "#4169E1",
+      "s": "#1E90FF",
+      "a": "#6495ED",
+      "gemmy": true
+    }
+  },
+  "Lepidocrocite": {
+    "file": "Lepidocrocite.svg",
+    "shape": "blade",
+    "family": "Lepidocrocite",
+    "freq": 165.0,
+    "mohs": 5,
+    "sg": 4.0,
+    "iem": "dynamic_driver",
+    "cut": "cabochon",
+    "colors": {
+      "p": "#8B7355",
+      "s": "#6B5344",
+      "a": "#D4A574",
+      "gemmy": false
+    }
+  },
+  "Spessartite Garnet": {
+    "file": "Spessartite_Garnet.svg",
+    "shape": "dodecahedron",
+    "family": "Garnet",
+    "freq": 182.0,
+    "mohs": 7.25,
+    "sg": 4.2,
+    "iem": "dynamic_driver",
+    "cut": "faceted_round",
+    "colors": {
+      "p": "#8B0000",
+      "s": "#5C0000",
+      "a": "#B22222",
+      "gemmy": true
+    }
+  },
+  "Covellite": {
+    "file": "Covellite.svg",
+    "shape": "platy",
+    "family": "Covellite",
+    "freq": 233.0,
+    "mohs": 2.5,
+    "sg": 4.8,
+    "iem": "dynamic_driver",
+    "cut": "cabochon",
+    "colors": {
+      "p": "#8B7355",
+      "s": "#6B5344",
+      "a": "#D4A574",
+      "gemmy": false
+    }
+  },
+  "Fire Opal": {
+    "file": "Fire_Opal.svg",
+    "shape": "amorphous",
+    "family": "Opal",
+    "freq": 250.0,
+    "mohs": 5.5,
+    "sg": 2.0,
+    "iem": "balanced_armature",
+    "cut": "cabochon",
+    "colors": {
+      "p": "#FF4500",
+      "s": "#FF6347",
+      "a": "#FFD700",
+      "gemmy": true
+    }
+  },
+  "Black Opal": {
+    "file": "Black_Opal.svg",
+    "shape": "amorphous",
+    "family": "Opal",
+    "freq": 425.0,
+    "mohs": 5.5,
+    "sg": 2.1,
+    "iem": "balanced_armature",
+    "cut": "cabochon",
+    "colors": {
+      "p": "#1A1A1A",
+      "s": "#0D0D0D",
+      "a": "#3A3A3A",
+      "gemmy": false
+    }
+  },
+  "Blue Opal (Peruvian)": {
+    "file": "Blue_Opal_Peruvian.svg",
+    "shape": "amorphous",
+    "family": "Opal",
+    "freq": 425.0,
+    "mohs": 5.5,
+    "sg": 2.1,
+    "iem": "balanced_armature",
+    "cut": "cabochon",
+    "colors": {
+      "p": "#4169E1",
+      "s": "#1E90FF",
+      "a": "#87CEEB",
+      "gemmy": true
+    }
+  },
+  "Boulder Opal": {
+    "file": "Boulder_Opal.svg",
+    "shape": "amorphous",
+    "family": "Opal",
+    "freq": 425.0,
+    "mohs": 5.5,
+    "sg": 2.1,
+    "iem": "balanced_armature",
+    "cut": "cabochon",
+    "colors": {
+      "p": "#E0E0E0",
+      "s": "#87CEEB",
+      "a": "#FFB6C1",
+      "gemmy": true,
+      "iridescent": true
+    }
+  },
+  "Shungite": {
+    "file": "Shungite.svg",
+    "shape": "massive",
+    "family": "Shungite",
+    "freq": 425.0,
+    "mohs": 3.5,
+    "sg": 2.1,
+    "iem": "balanced_armature",
+    "cut": "cabochon",
+    "colors": {
+      "p": "#8B7355",
+      "s": "#6B5344",
+      "a": "#D4A574",
+      "gemmy": false
+    }
+  },
+  "Chrysocolla": {
+    "file": "Chrysocolla.svg",
+    "shape": "botryoidal",
+    "family": "Chrysocolla",
+    "freq": 600.0,
+    "mohs": 2.5,
+    "sg": 2.2,
+    "iem": "balanced_armature",
+    "cut": "cabochon",
+    "colors": {
+      "p": "#8B7355",
+      "s": "#6B5344",
+      "a": "#D4A574",
+      "gemmy": false
+    }
+  },
+  "Sodalite": {
+    "file": "Sodalite.svg",
+    "shape": "cube",
+    "family": "Sodalite",
+    "freq": 775.0,
+    "mohs": 5.5,
+    "sg": 2.3,
+    "iem": "balanced_armature",
+    "cut": "cabochon",
+    "colors": {
+      "p": "#8B7355",
+      "s": "#6B5344",
+      "a": "#D4A574",
+      "gemmy": false
+    }
+  },
+  "Sodalite (African)": {
+    "file": "Sodalite_African.svg",
+    "shape": "cube",
+    "family": "Sodalite",
+    "freq": 775.0,
+    "mohs": 5.5,
+    "sg": 2.3,
+    "iem": "balanced_armature",
+    "cut": "cabochon",
+    "colors": {
+      "p": "#8B7355",
+      "s": "#6B5344",
+      "a": "#D4A574",
+      "gemmy": false
+    }
+  },
+  "Hackmanite": {
+    "file": "Hackmanite.svg",
+    "shape": "cube",
+    "family": "Hackmanite",
+    "freq": 775.0,
+    "mohs": 5.5,
+    "sg": 2.3,
+    "iem": "balanced_armature",
+    "cut": "cabochon",
+    "colors": {
+      "p": "#8B7355",
+      "s": "#6B5344",
+      "a": "#D4A574",
+      "gemmy": false
+    }
+  },
+  "Angelite": {
+    "file": "Angelite.svg",
+    "shape": "massive",
+    "family": "Angelite",
+    "freq": 775.0,
+    "mohs": 3.5,
+    "sg": 2.3,
+    "iem": "balanced_armature",
+    "cut": "cabochon",
+    "colors": {
+      "p": "#8B7355",
+      "s": "#6B5344",
+      "a": "#D4A574",
+      "gemmy": false
+    }
+  },
+  "Gold Sheen Obsidian": {
+    "file": "Gold_Sheen_Obsidian.svg",
+    "shape": "amorphous",
+    "family": "Obsidian",
+    "freq": 950.0,
+    "mohs": 5,
+    "sg": 2.4,
+    "iem": "balanced_armature",
+    "cut": "cabochon",
+    "colors": {
+      "p": "#FFD700",
+      "s": "#DAA520",
+      "a": "#FFF8DC",
+      "gemmy": true
+    }
+  },
+  "Rainbow Obsidian": {
+    "file": "Rainbow_Obsidian.svg",
+    "shape": "amorphous",
+    "family": "Obsidian",
+    "freq": 950.0,
+    "mohs": 5,
+    "sg": 2.4,
+    "iem": "balanced_armature",
+    "cut": "cabochon",
+    "colors": {
+      "p": "#1A1A1A",
+      "s": "#2F2F4F",
+      "a": "#9370DB",
+      "gemmy": false
+    }
+  },
+  "Snowflake Obsidian": {
+    "file": "Snowflake_Obsidian.svg",
+    "shape": "amorphous",
+    "family": "Obsidian",
+    "freq": 950.0,
+    "mohs": 5,
+    "sg": 2.4,
+    "iem": "balanced_armature",
+    "cut": "cabochon",
+    "colors": {
+      "p": "#FFFAFA",
+      "s": "#F0F8FF",
+      "a": "#FFFFFF",
+      "gemmy": true
+    }
+  },
+  "Moldavite": {
+    "file": "Moldavite.svg",
+    "shape": "amorphous",
+    "family": "Moldavite",
+    "freq": 950.0,
+    "mohs": 5.5,
+    "sg": 2.4,
+    "iem": "balanced_armature",
+    "cut": "uncut_natural",
+    "colors": {
+      "p": "#8B7355",
+      "s": "#6B5344",
+      "a": "#D4A574",
+      "gemmy": false
+    }
+  },
+  "Gem Silica": {
+    "file": "Gem_Silica.svg",
+    "shape": "botryoidal",
+    "family": "Chalcedony",
+    "freq": 1212.5,
+    "mohs": 6.5,
+    "sg": 2.55,
+    "iem": "balanced_armature",
+    "cut": "cabochon",
+    "colors": {
+      "p": "#D4A574",
+      "s": "#B8860B",
+      "a": "#FFF8DC",
+      "gemmy": false
+    }
+  },
+  "Amazonite": {
+    "file": "Amazonite.svg",
+    "shape": "tabular",
+    "family": "Feldspar",
+    "freq": 1230.0,
+    "mohs": 6,
+    "sg": 2.56,
+    "iem": "balanced_armature",
+    "cut": "cabochon",
+    "colors": {
+      "p": "#D4A574",
+      "s": "#B8860B",
+      "a": "#FFF8DC",
+      "gemmy": false,
+      "iridescent": true
+    }
+  },
+  "Peach Moonstone": {
+    "file": "Peach_Moonstone.svg",
+    "shape": "tabular",
+    "family": "Feldspar",
+    "freq": 1230.0,
+    "mohs": 6,
+    "sg": 2.56,
+    "iem": "balanced_armature",
+    "cut": "cabochon",
+    "colors": {
+      "p": "#F5F5DC",
+      "s": "#E8E4C9",
+      "a": "#FFFFF0",
+      "gemmy": true,
+      "iridescent": true
+    }
+  },
+  "Rainbow Moonstone": {
+    "file": "Rainbow_Moonstone.svg",
+    "shape": "tabular",
+    "family": "Feldspar",
+    "freq": 1230.0,
+    "mohs": 6,
+    "sg": 2.56,
+    "iem": "balanced_armature",
+    "cut": "cabochon",
+    "colors": {
+      "p": "#F5F5DC",
+      "s": "#E8E4C9",
+      "a": "#FFFFF0",
+      "gemmy": true,
+      "iridescent": true
+    }
+  },
+  "White Moonstone": {
+    "file": "White_Moonstone.svg",
+    "shape": "tabular",
+    "family": "Feldspar",
+    "freq": 1230.0,
+    "mohs": 6,
+    "sg": 2.56,
+    "iem": "balanced_armature",
+    "cut": "cabochon",
+    "colors": {
+      "p": "#FFFFFF",
+      "s": "#E0E0E0",
+      "a": "#F5F5DC",
+      "gemmy": true
+    }
+  },
+  "Agates": {
+    "file": "Agates.svg",
+    "shape": "botryoidal",
+    "family": "Chalcedony",
+    "freq": 1300.0,
+    "mohs": 6.5,
+    "sg": 2.6,
+    "iem": "balanced_armature",
+    "cut": "cabochon",
+    "colors": {
+      "p": "#D4A574",
+      "s": "#B8860B",
+      "a": "#FFF8DC",
+      "gemmy": false
+    }
+  },
+  "Crazy Lace Agate": {
+    "file": "Crazy_Lace_Agate.svg",
+    "shape": "botryoidal",
+    "family": "Chalcedony",
+    "freq": 1300.0,
+    "mohs": 6.5,
+    "sg": 2.6,
+    "iem": "balanced_armature",
+    "cut": "cabochon",
+    "colors": {
+      "p": "#D4A574",
+      "s": "#B8860B",
+      "a": "#FFF8DC",
+      "gemmy": false
+    }
+  },
+  "Dendritic Agate": {
+    "file": "Dendritic_Agate.svg",
+    "shape": "botryoidal",
+    "family": "Chalcedony",
+    "freq": 1300.0,
+    "mohs": 6.5,
+    "sg": 2.6,
+    "iem": "balanced_armature",
+    "cut": "cabochon",
+    "colors": {
+      "p": "#556B2F",
+      "s": "#3CB371",
+      "a": "#8B7355",
+      "gemmy": false
+    }
+  },
+  "Fire Agate": {
+    "file": "Fire_Agate.svg",
+    "shape": "botryoidal",
+    "family": "Chalcedony",
+    "freq": 1300.0,
+    "mohs": 6.5,
+    "sg": 2.6,
+    "iem": "balanced_armature",
+    "cut": "cabochon",
+    "colors": {
+      "p": "#FF4500",
+      "s": "#FF6347",
+      "a": "#FFD700",
+      "gemmy": true
+    }
+  },
+  "Flower Agate": {
+    "file": "Flower_Agate.svg",
+    "shape": "botryoidal",
+    "family": "Chalcedony",
+    "freq": 1300.0,
+    "mohs": 6.5,
+    "sg": 2.6,
+    "iem": "balanced_armature",
+    "cut": "cabochon",
+    "colors": {
+      "p": "#D4A574",
+      "s": "#B8860B",
+      "a": "#FFF8DC",
+      "gemmy": false
+    }
+  },
+  "Fossil Agate (turritella)": {
+    "file": "Fossil_Agate_turritella.svg",
+    "shape": "botryoidal",
+    "family": "Chalcedony",
+    "freq": 1300.0,
+    "mohs": 6.5,
+    "sg": 2.6,
+    "iem": "balanced_armature",
+    "cut": "cabochon",
+    "colors": {
+      "p": "#D4A574",
+      "s": "#B8860B",
+      "a": "#FFF8DC",
+      "gemmy": false
+    }
+  },
+  "Montana Moss Agate": {
+    "file": "Montana_Moss_Agate.svg",
+    "shape": "botryoidal",
+    "family": "Chalcedony",
+    "freq": 1300.0,
+    "mohs": 6.5,
+    "sg": 2.6,
+    "iem": "balanced_armature",
+    "cut": "cabochon",
+    "colors": {
+      "p": "#556B2F",
+      "s": "#6B8E23",
+      "a": "#3CB371",
+      "gemmy": false
+    }
+  },
+  "Moss Agate": {
+    "file": "Moss_Agate.svg",
+    "shape": "botryoidal",
+    "family": "Chalcedony",
+    "freq": 1300.0,
+    "mohs": 6.5,
+    "sg": 2.6,
+    "iem": "balanced_armature",
+    "cut": "cabochon",
+    "colors": {
+      "p": "#556B2F",
+      "s": "#6B8E23",
+      "a": "#3CB371",
+      "gemmy": false
+    }
+  },
+  "Plumed Agate": {
+    "file": "Plumed_Agate.svg",
+    "shape": "botryoidal",
+    "family": "Chalcedony",
+    "freq": 1300.0,
+    "mohs": 6.5,
+    "sg": 2.6,
+    "iem": "balanced_armature",
+    "cut": "cabochon",
+    "colors": {
+      "p": "#D4A574",
+      "s": "#B8860B",
+      "a": "#FFF8DC",
+      "gemmy": false
+    }
+  },
+  "Tree Agate": {
+    "file": "Tree_Agate.svg",
+    "shape": "botryoidal",
+    "family": "Chalcedony",
+    "freq": 1300.0,
+    "mohs": 6.5,
+    "sg": 2.6,
+    "iem": "balanced_armature",
+    "cut": "cabochon",
+    "colors": {
+      "p": "#556B2F",
+      "s": "#8B7355",
+      "a": "#3CB371",
+      "gemmy": false
+    }
+  },
+  "Chalcedony (Blue)": {
+    "file": "Chalcedony_Blue.svg",
+    "shape": "botryoidal",
+    "family": "Chalcedony",
+    "freq": 1300.0,
+    "mohs": 6.5,
+    "sg": 2.6,
+    "iem": "balanced_armature",
+    "cut": "cabochon",
+    "colors": {
+      "p": "#4169E1",
+      "s": "#1E90FF",
+      "a": "#87CEEB",
+      "gemmy": true
+    }
+  },
+  "Chalcedony (Dendritic)": {
+    "file": "Chalcedony_Dendritic.svg",
+    "shape": "botryoidal",
+    "family": "Chalcedony",
+    "freq": 1300.0,
+    "mohs": 6.5,
+    "sg": 2.6,
+    "iem": "balanced_armature",
+    "cut": "cabochon",
+    "colors": {
+      "p": "#556B2F",
+      "s": "#3CB371",
+      "a": "#8B7355",
+      "gemmy": false
+    }
+  },
+  "Black Onyx": {
+    "file": "Black_Onyx.svg",
+    "shape": "botryoidal",
+    "family": "Chalcedony",
+    "freq": 1300.0,
+    "mohs": 6.5,
+    "sg": 2.6,
+    "iem": "balanced_armature",
+    "cut": "cabochon",
+    "colors": {
+      "p": "#1A1A1A",
+      "s": "#0D0D0D",
+      "a": "#3A3A3A",
+      "gemmy": false
+    }
+  },
+  "Green Onyx": {
+    "file": "Green_Onyx.svg",
+    "shape": "botryoidal",
+    "family": "Chalcedony",
+    "freq": 1300.0,
+    "mohs": 6.5,
+    "sg": 2.6,
+    "iem": "balanced_armature",
+    "cut": "cabochon",
+    "colors": {
+      "p": "#50C878",
+      "s": "#2E8B57",
+      "a": "#90EE90",
+      "gemmy": true
+    }
+  },
+  "Iolite": {
+    "file": "Iolite.svg",
+    "shape": "pseudohexagonal",
+    "family": "Cordierite",
+    "freq": 1300.0,
+    "mohs": 7,
+    "sg": 2.6,
+    "iem": "balanced_armature",
+    "cut": "faceted_oval",
+    "colors": {
+      "p": "#8B7355",
+      "s": "#6B5344",
+      "a": "#D4A574",
+      "gemmy": false
+    }
+  },
+  "Coral (black)": {
+    "file": "Coral_black.svg",
+    "shape": "branch",
+    "family": "Coral",
+    "freq": 1300.0,
+    "mohs": 3.5,
+    "sg": 2.6,
+    "iem": "balanced_armature",
+    "cut": "uncut_natural",
+    "colors": {
+      "p": "#1A1A1A",
+      "s": "#0D0D0D",
+      "a": "#3A3A3A",
+      "gemmy": false
+    }
+  },
+  "Coral (branch)": {
+    "file": "Coral_branch.svg",
+    "shape": "branch",
+    "family": "Coral",
+    "freq": 1300.0,
+    "mohs": 3.5,
+    "sg": 2.6,
+    "iem": "balanced_armature",
+    "cut": "uncut_natural",
+    "colors": {
+      "p": "#FF7F50",
+      "s": "#E75480",
+      "a": "#FFB6C1",
+      "gemmy": false,
+      "organic": true
+    }
+  },
+  "Tektite": {
+    "file": "Tektite.svg",
+    "shape": "amorphous",
+    "family": "Tektite",
+    "freq": 1300.0,
+    "mohs": 5.5,
+    "sg": 2.6,
+    "iem": "balanced_armature",
+    "cut": "uncut_natural",
+    "colors": {
+      "p": "#8B7355",
+      "s": "#6B5344",
+      "a": "#D4A574",
+      "gemmy": false
+    }
+  },
+  "Aquaprase": {
+    "file": "Aquaprase.svg",
+    "shape": "botryoidal",
+    "family": "Chalcedony",
+    "freq": 1300.0,
+    "mohs": 6.5,
+    "sg": 2.6,
+    "iem": "balanced_armature",
+    "cut": "cabochon",
+    "colors": {
+      "p": "#D4A574",
+      "s": "#B8860B",
+      "a": "#FFF8DC",
+      "gemmy": false
+    }
+  },
+  "Carnelian": {
+    "file": "Carnelian.svg",
+    "shape": "botryoidal",
+    "family": "Chalcedony",
+    "freq": 1300.0,
+    "mohs": 6.5,
+    "sg": 2.6,
+    "iem": "balanced_armature",
+    "cut": "cabochon",
+    "colors": {
+      "p": "#D4A574",
+      "s": "#B8860B",
+      "a": "#FFF8DC",
+      "gemmy": false
+    }
+  },
+  "Chrysoprase": {
+    "file": "Chrysoprase.svg",
+    "shape": "botryoidal",
+    "family": "Chalcedony",
+    "freq": 1300.0,
+    "mohs": 6.5,
+    "sg": 2.6,
+    "iem": "balanced_armature",
+    "cut": "cabochon",
+    "colors": {
+      "p": "#D4A574",
+      "s": "#B8860B",
+      "a": "#FFF8DC",
+      "gemmy": false
+    }
+  },
+  "Sard": {
+    "file": "Sard.svg",
+    "shape": "botryoidal",
+    "family": "Chalcedony",
+    "freq": 1300.0,
+    "mohs": 6.5,
+    "sg": 2.6,
+    "iem": "balanced_armature",
+    "cut": "cabochon",
+    "colors": {
+      "p": "#D4A574",
+      "s": "#B8860B",
+      "a": "#FFF8DC",
+      "gemmy": false
+    }
+  },
+  "Sardonyx": {
+    "file": "Sardonyx.svg",
+    "shape": "botryoidal",
+    "family": "Chalcedony",
+    "freq": 1300.0,
+    "mohs": 6.5,
+    "sg": 2.6,
+    "iem": "balanced_armature",
+    "cut": "cabochon",
+    "colors": {
+      "p": "#D4A574",
+      "s": "#B8860B",
+      "a": "#FFF8DC",
+      "gemmy": false
+    }
+  },
+  "Sunstone": {
+    "file": "Sunstone.svg",
+    "shape": "tabular",
+    "family": "Feldspar",
+    "freq": 1370.0,
+    "mohs": 6,
+    "sg": 2.64,
+    "iem": "balanced_armature",
+    "cut": "cabochon",
+    "colors": {
+      "p": "#FFD700",
+      "s": "#FF8C00",
+      "a": "#FFF8DC",
+      "gemmy": true,
+      "iridescent": true
+    }
+  },
+  "Clear Quartz": {
+    "file": "Clear_Quartz.svg",
+    "shape": "hexagonal",
+    "family": "Quartz",
+    "freq": 1387.5,
+    "mohs": 7,
+    "sg": 2.65,
+    "iem": "balanced_armature",
+    "cut": "faceted_round",
+    "colors": {
+      "p": "#FFFFFF",
+      "s": "#E0E0E0",
+      "a": "#B0C4DE",
+      "gemmy": true,
+      "brilliant": true
+    }
+  },
+  "Phantom Quartz": {
+    "file": "Phantom_Quartz.svg",
+    "shape": "hexagonal",
+    "family": "Quartz",
+    "freq": 1387.5,
+    "mohs": 7,
+    "sg": 2.65,
+    "iem": "balanced_armature",
+    "cut": "faceted_round",
+    "colors": {
+      "p": "#E8E4C9",
+      "s": "#D4CFA0",
+      "a": "#FFFFFF",
+      "gemmy": true
+    }
+  },
+  "Rose Quartz": {
+    "file": "Rose_Quartz.svg",
+    "shape": "hexagonal",
+    "family": "Quartz",
+    "freq": 1387.5,
+    "mohs": 7,
+    "sg": 2.65,
+    "iem": "balanced_armature",
+    "cut": "faceted_round",
+    "colors": {
+      "p": "#E8B4B8",
+      "s": "#D4A0A0",
+      "a": "#FFC0CB",
+      "gemmy": true
+    }
+  },
+  "Rutilated Quartz": {
+    "file": "Rutilated_Quartz.svg",
+    "shape": "hexagonal",
+    "family": "Quartz",
+    "freq": 1387.5,
+    "mohs": 7,
+    "sg": 2.65,
+    "iem": "balanced_armature",
+    "cut": "faceted_round",
+    "colors": {
+      "p": "#E8E4C9",
+      "s": "#FFD700",
+      "a": "#B8860B",
+      "gemmy": true,
+      "metallic": true
+    }
+  },
+  "Smoky Quartz": {
+    "file": "Smoky_Quartz.svg",
+    "shape": "hexagonal",
+    "family": "Quartz",
+    "freq": 1387.5,
+    "mohs": 7,
+    "sg": 2.65,
+    "iem": "balanced_armature",
+    "cut": "faceted_round",
+    "colors": {
+      "p": "#8B7355",
+      "s": "#6B5344",
+      "a": "#A0522D",
+      "gemmy": true
+    }
+  },
+  "Solar Quartz": {
+    "file": "Solar_Quartz.svg",
+    "shape": "hexagonal",
+    "family": "Quartz",
+    "freq": 1387.5,
+    "mohs": 7,
+    "sg": 2.65,
+    "iem": "balanced_armature",
+    "cut": "faceted_round",
+    "colors": {
+      "p": "#E8E4C9",
+      "s": "#D4CFA0",
+      "a": "#FFFFFF",
+      "gemmy": true
+    }
+  },
+  "Tourmalinated Quartz": {
+    "file": "Tourmalinated_Quartz.svg",
+    "shape": "hexagonal",
+    "family": "Quartz",
+    "freq": 1387.5,
+    "mohs": 7,
+    "sg": 2.65,
+    "iem": "balanced_armature",
+    "cut": "faceted_round",
+    "colors": {
+      "p": "#E8E4C9",
+      "s": "#1A1A1A",
+      "a": "#3A3A3A",
+      "gemmy": true
+    }
+  },
+  "Herkimer Diamond": {
+    "file": "Herkimer_Diamond.svg",
+    "shape": "hexagonal",
+    "family": "Quartz",
+    "freq": 1387.5,
+    "mohs": 7,
+    "sg": 2.65,
+    "iem": "balanced_armature",
+    "cut": "faceted_round",
+    "colors": {
+      "p": "#E8E4C9",
+      "s": "#D4CFA0",
+      "a": "#FFFFFF",
+      "gemmy": true
+    }
+  },
+  "Amethyst": {
+    "file": "Amethyst.svg",
+    "shape": "hexagonal",
+    "family": "Quartz",
+    "freq": 1387.5,
+    "mohs": 7,
+    "sg": 2.65,
+    "iem": "balanced_armature",
+    "cut": "faceted_round",
+    "colors": {
+      "p": "#9370DB",
+      "s": "#7B68EE",
+      "a": "#E6E6FA",
+      "gemmy": true
+    }
+  },
+  "Citrine": {
+    "file": "Citrine.svg",
+    "shape": "hexagonal",
+    "family": "Quartz",
+    "freq": 1387.5,
+    "mohs": 7,
+    "sg": 2.65,
+    "iem": "balanced_armature",
+    "cut": "faceted_round",
+    "colors": {
+      "p": "#FFB347",
+      "s": "#FF8C00",
+      "a": "#FFD700",
+      "gemmy": true
+    }
+  },
+  "Ametrine": {
+    "file": "Ametrine.svg",
+    "shape": "hexagonal",
+    "family": "Quartz",
+    "freq": 1387.5,
+    "mohs": 7,
+    "sg": 2.65,
+    "iem": "balanced_armature",
+    "cut": "faceted_round",
+    "colors": {
+      "p": "#E8E4C9",
+      "s": "#D4CFA0",
+      "a": "#FFFFFF",
+      "gemmy": true
+    }
+  },
+  "Aqua Aura": {
+    "file": "Aqua_Aura.svg",
+    "shape": "hexagonal",
+    "family": "Quartz",
+    "freq": 1387.5,
+    "mohs": 7,
+    "sg": 2.65,
+    "iem": "balanced_armature",
+    "cut": "faceted_round",
+    "colors": {
+      "p": "#E8E4C9",
+      "s": "#D4CFA0",
+      "a": "#FFFFFF",
+      "gemmy": true
+    }
+  },
+  "Bumblebee Jasper": {
+    "file": "Bumblebee_Jasper.svg",
+    "shape": "botryoidal",
+    "family": "Chalcedony",
+    "freq": 1387.5,
+    "mohs": 6.5,
+    "sg": 2.65,
+    "iem": "balanced_armature",
+    "cut": "cabochon",
+    "colors": {
+      "p": "#D4A574",
+      "s": "#B8860B",
+      "a": "#FFF8DC",
+      "gemmy": false
+    }
+  },
+  "Desert Jasper": {
+    "file": "Desert_Jasper.svg",
+    "shape": "botryoidal",
+    "family": "Chalcedony",
+    "freq": 1387.5,
+    "mohs": 6.5,
+    "sg": 2.65,
+    "iem": "balanced_armature",
+    "cut": "cabochon",
+    "colors": {
+      "p": "#D4A574",
+      "s": "#B8860B",
+      "a": "#FFF8DC",
+      "gemmy": false
+    }
+  },
+  "Leopardskin Jasper": {
+    "file": "Leopardskin_Jasper.svg",
+    "shape": "botryoidal",
+    "family": "Chalcedony",
+    "freq": 1387.5,
+    "mohs": 6.5,
+    "sg": 2.65,
+    "iem": "balanced_armature",
+    "cut": "cabochon",
+    "colors": {
+      "p": "#D4A574",
+      "s": "#B8860B",
+      "a": "#FFF8DC",
+      "gemmy": false
+    }
+  },
+  "Ocean Jasper": {
+    "file": "Ocean_Jasper.svg",
+    "shape": "botryoidal",
+    "family": "Chalcedony",
+    "freq": 1387.5,
+    "mohs": 6.5,
+    "sg": 2.65,
+    "iem": "balanced_armature",
+    "cut": "cabochon",
+    "colors": {
+      "p": "#D4A574",
+      "s": "#B8860B",
+      "a": "#FFF8DC",
+      "gemmy": false
+    }
+  },
+  "Picasso Jasper": {
+    "file": "Picasso_Jasper.svg",
+    "shape": "botryoidal",
+    "family": "Chalcedony",
+    "freq": 1387.5,
+    "mohs": 6.5,
+    "sg": 2.65,
+    "iem": "balanced_armature",
+    "cut": "cabochon",
+    "colors": {
+      "p": "#D4A574",
+      "s": "#B8860B",
+      "a": "#FFF8DC",
+      "gemmy": false
+    }
+  },
+  "Picture Jasper": {
+    "file": "Picture_Jasper.svg",
+    "shape": "botryoidal",
+    "family": "Chalcedony",
+    "freq": 1387.5,
+    "mohs": 6.5,
+    "sg": 2.65,
+    "iem": "balanced_armature",
+    "cut": "cabochon",
+    "colors": {
+      "p": "#D4A574",
+      "s": "#B8860B",
+      "a": "#FFF8DC",
+      "gemmy": false
+    }
+  },
+  "Sunset Jasper": {
+    "file": "Sunset_Jasper.svg",
+    "shape": "botryoidal",
+    "family": "Chalcedony",
+    "freq": 1387.5,
+    "mohs": 6.5,
+    "sg": 2.65,
+    "iem": "balanced_armature",
+    "cut": "cabochon",
+    "colors": {
+      "p": "#FFD700",
+      "s": "#FF8C00",
+      "a": "#FFF8DC",
+      "gemmy": true,
+      "iridescent": true
+    }
+  },
+  "Blue Tiger's Eye": {
+    "file": "Blue_Tigers_Eye.svg",
+    "shape": "botryoidal",
+    "family": "Chalcedony",
+    "freq": 1387.5,
+    "mohs": 6.5,
+    "sg": 2.65,
+    "iem": "balanced_armature",
+    "cut": "cabochon",
+    "colors": {
+      "p": "#4169E1",
+      "s": "#1E90FF",
+      "a": "#87CEEB",
+      "gemmy": true
+    }
+  },
+  "Brown Tiger's Eye": {
+    "file": "Brown_Tigers_Eye.svg",
+    "shape": "botryoidal",
+    "family": "Chalcedony",
+    "freq": 1387.5,
+    "mohs": 6.5,
+    "sg": 2.65,
+    "iem": "balanced_armature",
+    "cut": "cabochon",
+    "colors": {
+      "p": "#8B7355",
+      "s": "#DAA520",
+      "a": "#2F2F4F",
+      "gemmy": false,
+      "banded": true
+    }
+  },
+  "Red Tiger's Eye": {
+    "file": "Red_Tigers_Eye.svg",
+    "shape": "botryoidal",
+    "family": "Chalcedony",
+    "freq": 1387.5,
+    "mohs": 6.5,
+    "sg": 2.65,
+    "iem": "balanced_armature",
+    "cut": "cabochon",
+    "colors": {
+      "p": "#DC143C",
+      "s": "#B22222",
+      "a": "#FF6347",
+      "gemmy": true
+    }
+  },
+  "Hawk's Eye": {
+    "file": "Hawks_Eye.svg",
+    "shape": "botryoidal",
+    "family": "Chalcedony",
+    "freq": 1387.5,
+    "mohs": 6.5,
+    "sg": 2.65,
+    "iem": "balanced_armature",
+    "cut": "cabochon",
+    "colors": {
+      "p": "#D4A574",
+      "s": "#B8860B",
+      "a": "#FFF8DC",
+      "gemmy": false
+    }
+  },
+  "Petrified Wood": {
+    "file": "Petrified_Wood.svg",
+    "shape": "massive",
+    "family": "Petrified Wood",
+    "freq": 1387.5,
+    "mohs": 7,
+    "sg": 2.65,
+    "iem": "balanced_armature",
+    "cut": "cabochon",
+    "colors": {
+      "p": "#8B7355",
+      "s": "#6B5344",
+      "a": "#D4A574",
+      "gemmy": false
+    }
+  },
+  "Bloodstone": {
+    "file": "Bloodstone.svg",
+    "shape": "botryoidal",
+    "family": "Chalcedony",
+    "freq": 1387.5,
+    "mohs": 6.5,
+    "sg": 2.65,
+    "iem": "balanced_armature",
+    "cut": "cabochon",
+    "colors": {
+      "p": "#8B0000",
+      "s": "#5C0000",
+      "a": "#2F2F2F",
+      "gemmy": false
+    }
+  },
+  "Moukaite": {
+    "file": "Moukaite.svg",
+    "shape": "botryoidal",
+    "family": "Chalcedony",
+    "freq": 1387.5,
+    "mohs": 6.5,
+    "sg": 2.65,
+    "iem": "balanced_armature",
+    "cut": "cabochon",
+    "colors": {
+      "p": "#D4A574",
+      "s": "#B8860B",
+      "a": "#FFF8DC",
+      "gemmy": false
+    }
+  },
+  "Pietersite": {
+    "file": "Pietersite.svg",
+    "shape": "botryoidal",
+    "family": "Chalcedony",
+    "freq": 1387.5,
+    "mohs": 6.5,
+    "sg": 2.65,
+    "iem": "balanced_armature",
+    "cut": "cabochon",
+    "colors": {
+      "p": "#D4A574",
+      "s": "#B8860B",
+      "a": "#FFF8DC",
+      "gemmy": false
+    }
+  },
+  "Green Aventurine": {
+    "file": "Green_Aventurine.svg",
+    "shape": "botryoidal",
+    "family": "Chalcedony",
+    "freq": 1387.5,
+    "mohs": 6.5,
+    "sg": 2.65,
+    "iem": "balanced_armature",
+    "cut": "cabochon",
+    "colors": {
+      "p": "#50C878",
+      "s": "#2E8B57",
+      "a": "#90EE90",
+      "gemmy": true
+    }
+  },
+  "Red Aventurine": {
+    "file": "Red_Aventurine.svg",
+    "shape": "botryoidal",
+    "family": "Chalcedony",
+    "freq": 1387.5,
+    "mohs": 6.5,
+    "sg": 2.65,
+    "iem": "balanced_armature",
+    "cut": "cabochon",
+    "colors": {
+      "p": "#DC143C",
+      "s": "#B22222",
+      "a": "#FF6347",
+      "gemmy": true
+    }
+  },
+  "Charoite": {
+    "file": "Charoite.svg",
+    "shape": "massive",
+    "family": "Charoite",
+    "freq": 1440.0,
+    "mohs": 6,
+    "sg": 2.68,
+    "iem": "balanced_armature",
+    "cut": "cabochon",
+    "colors": {
+      "p": "#8B7355",
+      "s": "#6B5344",
+      "a": "#D4A574",
+      "gemmy": false
+    }
+  },
+  "Green Labradorite": {
+    "file": "Green_Labradorite.svg",
+    "shape": "tabular",
+    "family": "Feldspar",
+    "freq": 1475.0,
+    "mohs": 6,
+    "sg": 2.7,
+    "iem": "balanced_armature",
+    "cut": "cabochon",
+    "colors": {
+      "p": "#50C878",
+      "s": "#2E8B57",
+      "a": "#90EE90",
+      "gemmy": true
+    }
+  },
+  "Lemurian Blue Calcite (Blue Onyx)": {
+    "file": "Lemurian_Blue_Calcite_Blue_Onyx.svg",
+    "shape": "rhombohedron",
+    "family": "Calcite",
+    "freq": 1475.0,
+    "mohs": 3.5,
+    "sg": 2.7,
+    "iem": "balanced_armature",
+    "cut": "cabochon",
+    "colors": {
+      "p": "#4169E1",
+      "s": "#1E90FF",
+      "a": "#87CEEB",
+      "gemmy": true
+    }
+  },
+  "Lapis Lazuli": {
+    "file": "Lapis_Lazuli.svg",
+    "shape": "massive",
+    "family": "Lapis Lazuli",
+    "freq": 1475.0,
+    "mohs": 5.5,
+    "sg": 2.7,
+    "iem": "balanced_armature",
+    "cut": "cabochon",
+    "colors": {
+      "p": "#26619C",
+      "s": "#1A3F6B",
+      "a": "#FFD700",
+      "gemmy": false,
+      "metallic": true
+    }
+  },
+  "Pearl": {
+    "file": "Pearl.svg",
+    "shape": "sphere",
+    "family": "Pearl",
+    "freq": 1475.0,
+    "mohs": 2.5,
+    "sg": 2.7,
+    "iem": "balanced_armature",
+    "cut": "uncut_sphere",
+    "colors": {
+      "p": "#FFF8DC",
+      "s": "#F5F5DC",
+      "a": "#FFFFFF",
+      "gemmy": false,
+      "organic": true,
+      "iridescent": true
+    }
+  },
+  "Abalone": {
+    "file": "Abalone.svg",
+    "shape": "shell",
+    "family": "Abalone",
+    "freq": 1475.0,
+    "mohs": 2.5,
+    "sg": 2.7,
+    "iem": "balanced_armature",
+    "cut": "uncut_natural",
+    "colors": {
+      "p": "#8B7355",
+      "s": "#6B5344",
+      "a": "#D4A574",
+      "gemmy": false
+    }
+  },
+  "Ammonite": {
+    "file": "Ammonite.svg",
+    "shape": "spiral",
+    "family": "Ammonite",
+    "freq": 1475.0,
+    "mohs": 4,
+    "sg": 2.7,
+    "iem": "balanced_armature",
+    "cut": "uncut_natural",
+    "colors": {
+      "p": "#8B7355",
+      "s": "#6B5344",
+      "a": "#D4A574",
+      "gemmy": false
+    }
+  },
+  "Preseli Blue Stone": {
+    "file": "Preseli_Blue_Stone.svg",
+    "shape": "massive",
+    "family": "Preseli Blue Stone",
+    "freq": 1475.0,
+    "mohs": 7,
+    "sg": 2.7,
+    "iem": "balanced_armature",
+    "cut": "uncut_natural",
+    "colors": {
+      "p": "#4169E1",
+      "s": "#1E90FF",
+      "a": "#87CEEB",
+      "gemmy": true
+    }
+  },
+  "Septarian": {
+    "file": "Septarian.svg",
+    "shape": "nodule",
+    "family": "Septarian",
+    "freq": 1475.0,
+    "mohs": 3.5,
+    "sg": 2.7,
+    "iem": "balanced_armature",
+    "cut": "cabochon",
+    "colors": {
+      "p": "#8B7355",
+      "s": "#6B5344",
+      "a": "#D4A574",
+      "gemmy": false
+    }
+  },
+  "Turquoise (types found in the Americas)": {
+    "file": "Turquoise_types_found_in_the_Americas.svg",
+    "shape": "massive",
+    "family": "Turquoise",
+    "freq": 1475.0,
+    "mohs": 6,
+    "sg": 2.7,
+    "iem": "balanced_armature",
+    "cut": "cabochon",
+    "colors": {
+      "p": "#40E0D0",
+      "s": "#00CED1",
+      "a": "#AFEEEE",
+      "gemmy": false
+    }
+  },
+  "Turquoise (Tibetan)": {
+    "file": "Turquoise_Tibetan.svg",
+    "shape": "massive",
+    "family": "Turquoise",
+    "freq": 1475.0,
+    "mohs": 6,
+    "sg": 2.7,
+    "iem": "balanced_armature",
+    "cut": "cabochon",
+    "colors": {
+      "p": "#40E0D0",
+      "s": "#00CED1",
+      "a": "#AFEEEE",
+      "gemmy": false
+    }
+  },
+  "Emerald": {
+    "file": "Emerald.svg",
+    "shape": "hexagonal",
+    "family": "Beryl",
+    "freq": 1510.0,
+    "mohs": 7.5,
+    "sg": 2.72,
+    "iem": "balanced_armature",
+    "cut": "emerald_cut",
+    "colors": {
+      "p": "#50C878",
+      "s": "#2E8B57",
+      "a": "#98FB98",
+      "gemmy": true
+    }
+  },
+  "Morganite": {
+    "file": "Morganite.svg",
+    "shape": "hexagonal",
+    "family": "Beryl",
+    "freq": 1510.0,
+    "mohs": 7.5,
+    "sg": 2.72,
+    "iem": "balanced_armature",
+    "cut": "emerald_cut",
+    "colors": {
+      "p": "#50C878",
+      "s": "#2E8B57",
+      "a": "#98FB98",
+      "gemmy": true
+    }
+  },
+  "Aquamarine": {
+    "file": "Aquamarine.svg",
+    "shape": "hexagonal",
+    "family": "Beryl",
+    "freq": 1510.0,
+    "mohs": 7.5,
+    "sg": 2.72,
+    "iem": "balanced_armature",
+    "cut": "emerald_cut",
+    "colors": {
+      "p": "#50C878",
+      "s": "#2E8B57",
+      "a": "#98FB98",
+      "gemmy": true
+    }
+  },
+  "Sugilite": {
+    "file": "Sugilite.svg",
+    "shape": "massive",
+    "family": "Sugilite",
+    "freq": 1545.0,
+    "mohs": 6,
+    "sg": 2.74,
+    "iem": "balanced_armature",
+    "cut": "cabochon",
+    "colors": {
+      "p": "#8B7355",
+      "s": "#6B5344",
+      "a": "#D4A574",
+      "gemmy": false
+    }
+  },
+  "Larimar": {
+    "file": "Larimar.svg",
+    "shape": "massive",
+    "family": "Larimar",
+    "freq": 1650.0,
+    "mohs": 4.5,
+    "sg": 2.8,
+    "iem": "balanced_armature",
+    "cut": "cabochon",
+    "colors": {
+      "p": "#8B7355",
+      "s": "#6B5344",
+      "a": "#D4A574",
+      "gemmy": false
+    }
+  },
+  "Lepidolite": {
+    "file": "Lepidolite.svg",
+    "shape": "scaly",
+    "family": "Lepidolite",
+    "freq": 1650.0,
+    "mohs": 2.5,
+    "sg": 2.8,
+    "iem": "balanced_armature",
+    "cut": "cabochon",
+    "colors": {
+      "p": "#8B7355",
+      "s": "#6B5344",
+      "a": "#D4A574",
+      "gemmy": false
+    }
+  },
+  "Chrysocolla Azurite": {
+    "file": "Chrysocolla_Azurite.svg",
+    "shape": "botryoidal",
+    "family": "Chrysocolla",
+    "freq": 1650.0,
+    "mohs": 3,
+    "sg": 2.8,
+    "iem": "balanced_armature",
+    "cut": "cabochon",
+    "colors": {
+      "p": "#8B7355",
+      "s": "#6B5344",
+      "a": "#D4A574",
+      "gemmy": false
+    }
+  },
+  "Ammolite": {
+    "file": "Ammolite.svg",
+    "shape": "shell",
+    "family": "Ammolite",
+    "freq": 1650.0,
+    "mohs": 4.5,
+    "sg": 2.8,
+    "iem": "balanced_armature",
+    "cut": "uncut_natural",
+    "colors": {
+      "p": "#8B7355",
+      "s": "#6B5344",
+      "a": "#D4A574",
+      "gemmy": false
+    }
+  },
+  "Chinese Writing Stone": {
+    "file": "Chinese_Writing_Stone.svg",
+    "shape": "massive",
+    "family": "Chinese Writing Stone",
+    "freq": 1650.0,
+    "mohs": 4,
+    "sg": 2.8,
+    "iem": "balanced_armature",
+    "cut": "cabochon",
+    "colors": {
+      "p": "#8B7355",
+      "s": "#6B5344",
+      "a": "#D4A574",
+      "gemmy": false
+    }
+  },
+  "Chrysanthemum Stone": {
+    "file": "Chrysanthemum_Stone.svg",
+    "shape": "massive",
+    "family": "Chrysanthemum Stone",
+    "freq": 1650.0,
+    "mohs": 4,
+    "sg": 2.8,
+    "iem": "balanced_armature",
+    "cut": "cabochon",
+    "colors": {
+      "p": "#8B7355",
+      "s": "#6B5344",
+      "a": "#D4A574",
+      "gemmy": false
+    }
+  },
+  "Kammererite": {
+    "file": "Kammererite.svg",
+    "shape": "rhombohedron",
+    "family": "Kammererite",
+    "freq": 1650.0,
+    "mohs": 2.5,
+    "sg": 2.8,
+    "iem": "balanced_armature",
+    "cut": "cabochon",
+    "colors": {
+      "p": "#8B7355",
+      "s": "#6B5344",
+      "a": "#D4A574",
+      "gemmy": false
+    }
+  },
+  "Unakite": {
+    "file": "Unakite.svg",
+    "shape": "massive",
+    "family": "Unakite",
+    "freq": 1737.5,
+    "mohs": 6.5,
+    "sg": 2.85,
+    "iem": "balanced_armature",
+    "cut": "cabochon",
+    "colors": {
+      "p": "#8B7355",
+      "s": "#6B5344",
+      "a": "#D4A574",
+      "gemmy": false
+    }
+  },
+  "Prehnite": {
+    "file": "Prehnite.svg",
+    "shape": "massive",
+    "family": "Prehnite",
+    "freq": 1790.0,
+    "mohs": 6,
+    "sg": 2.88,
+    "iem": "balanced_armature",
+    "cut": "cabochon",
+    "colors": {
+      "p": "#8B7355",
+      "s": "#6B5344",
+      "a": "#D4A574",
+      "gemmy": false
+    }
+  },
+  "Eudialyte": {
+    "file": "Eudialyte.svg",
+    "shape": "trigonal_prism",
+    "family": "Eudialyte",
+    "freq": 1825.0,
+    "mohs": 5.5,
+    "sg": 2.9,
+    "iem": "balanced_armature",
+    "cut": "faceted_round",
+    "colors": {
+      "p": "#8B7355",
+      "s": "#6B5344",
+      "a": "#D4A574",
+      "gemmy": false
+    }
+  },
+  "Nephrite Jade": {
+    "file": "Nephrite_Jade.svg",
+    "shape": "massive",
+    "family": "Jade",
+    "freq": 1912.5,
+    "mohs": 6,
+    "sg": 2.95,
+    "iem": "balanced_armature",
+    "cut": "cabochon",
+    "colors": {
+      "p": "#50C878",
+      "s": "#2E8B57",
+      "a": "#98FB98",
+      "gemmy": false
+    }
+  },
+  "Aragonite": {
+    "file": "Aragonite.svg",
+    "shape": "rhombohedron",
+    "family": "Calcite",
+    "freq": 1912.5,
+    "mohs": 3.5,
+    "sg": 2.95,
+    "iem": "balanced_armature",
+    "cut": "cabochon",
+    "colors": {
+      "p": "#FFF8DC",
+      "s": "#FFD700",
+      "a": "#FFB347",
+      "gemmy": true
+    }
+  },
+  "Water Opal": {
+    "file": "Water_Opal.svg",
+    "shape": "amorphous",
+    "family": "Opal",
+    "freq": 2060.0,
+    "mohs": 5.5,
+    "sg": 1.99,
+    "iem": "electrostatic",
+    "cut": "cabochon",
+    "colors": {
+      "p": "#87CEEB",
+      "s": "#4682B4",
+      "a": "#B0E0E6",
+      "gemmy": true
+    }
+  },
+  "Jet": {
+    "file": "Jet.svg",
+    "shape": "amorphous",
+    "family": "Jet",
+    "freq": 6200.0,
+    "mohs": 2.5,
+    "sg": 1.3,
+    "iem": "electrostatic",
+    "cut": "cabochon",
+    "colors": {
+      "p": "#1A1A1A",
+      "s": "#0D0D0D",
+      "a": "#2F2F2F",
+      "gemmy": false,
+      "organic": true
+    }
+  },
+  "Amber": {
+    "file": "Amber.svg",
+    "shape": "nodule",
+    "family": "Amber",
+    "freq": 7520.0,
+    "mohs": 2.5,
+    "sg": 1.08,
+    "iem": "electrostatic",
+    "cut": "cabochon_bead",
+    "colors": {
+      "p": "#FFBF00",
+      "s": "#DAA520",
+      "a": "#FFD700",
+      "gemmy": false,
+      "organic": true
+    }
+  }
+}

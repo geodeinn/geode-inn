@@ -1,0 +1,764 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
+<title>Geode Inn — Stone Vibration Touch System</title>
+<style>
+  * { margin: 0; padding: 0; box-sizing: border-box; -webkit-tap-highlight-color: transparent; }
+  
+  body {
+    background: #0a0805;
+    color: #c9a84c;
+    font-family: Georgia, 'Times New Roman', serif;
+    overflow-x: hidden;
+    touch-action: manipulation;
+    user-select: none;
+  }
+  
+  /* Geode Inn aesthetic */
+  :root {
+    --bg: #0a0805;
+    --gold: #c9a84c;
+    --gold-dim: #8a7430;
+    --gold-dark: #4a4030;
+    --surface: #15110a;
+    --surface-light: #1f1a12;
+    --border: #2a2218;
+  }
+  
+  /* Header */
+  .header {
+    text-align: center;
+    padding: 20px 15px 10px;
+    border-bottom: 1px solid var(--border);
+    background: linear-gradient(to bottom, var(--surface), transparent);
+  }
+  .header h1 {
+    font-size: 1.4em;
+    letter-spacing: 2px;
+    color: var(--gold);
+    margin-bottom: 5px;
+  }
+  .header .subtitle {
+    font-size: 0.75em;
+    color: var(--gold-dim);
+    font-style: italic;
+  }
+  
+  /* Touch sensory toggle */
+  .sensory-toggle {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    padding: 12px 15px;
+    background: var(--surface);
+    border-bottom: 1px solid var(--border);
+    font-size: 0.8em;
+  }
+  .toggle-label {
+    color: var(--gold-dim);
+    font-style: italic;
+  }
+  .toggle-switch {
+    position: relative;
+    width: 44px;
+    height: 24px;
+    background: var(--border);
+    border-radius: 12px;
+    cursor: pointer;
+    transition: background 0.3s;
+  }
+  .toggle-switch.active {
+    background: var(--gold-dim);
+  }
+  .toggle-knob {
+    position: absolute;
+    top: 2px;
+    left: 2px;
+    width: 20px;
+    height: 20px;
+    background: var(--gold);
+    border-radius: 50%;
+    transition: left 0.3s;
+  }
+  .toggle-switch.active .toggle-knob {
+    left: 22px;
+  }
+  .toggle-status {
+    font-size: 0.75em;
+    color: var(--gold-dim);
+    min-width: 80px;
+  }
+  
+  /* Filter bar */
+  .filter-bar {
+    display: flex;
+    gap: 5px;
+    padding: 10px 12px;
+    overflow-x: auto;
+    background: var(--surface);
+    border-bottom: 1px solid var(--border);
+    scrollbar-width: thin;
+  }
+  .filter-btn {
+    padding: 6px 12px;
+    background: var(--border);
+    border: 1px solid var(--gold-dark);
+    border-radius: 15px;
+    color: var(--gold-dim);
+    font-size: 0.72em;
+    font-family: Georgia, serif;
+    font-style: italic;
+    cursor: pointer;
+    white-space: nowrap;
+    transition: all 0.3s;
+  }
+  .filter-btn:hover, .filter-btn.active {
+    background: var(--gold-dark);
+    color: var(--gold);
+    border-color: var(--gold);
+  }
+  
+  /* Stone grid */
+  .stone-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(160px, 1fr));
+    gap: 12px;
+    padding: 15px;
+    max-width: 1200px;
+    margin: 0 auto;
+  }
+  
+  .stone-card {
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: 10px;
+    padding: 10px;
+    text-align: center;
+    cursor: pointer;
+    transition: all 0.3s;
+    position: relative;
+    overflow: hidden;
+  }
+  .stone-card:hover {
+    border-color: var(--gold-dim);
+    background: var(--surface-light);
+  }
+  .stone-card:active {
+    transform: scale(0.97);
+  }
+  .stone-card.vibrating {
+    border-color: var(--gold);
+    box-shadow: 0 0 20px rgba(201, 168, 76, 0.3);
+    background: var(--surface-light);
+  }
+  
+  .stone-card svg {
+    width: 120px;
+    height: 160px;
+    display: block;
+    margin: 0 auto;
+  }
+  
+  .stone-card .stone-name {
+    font-size: 0.7em;
+    color: var(--gold);
+    font-style: italic;
+    margin-top: 5px;
+    line-height: 1.3;
+    height: 1.8em;
+    overflow: hidden;
+  }
+  
+  /* IEM driver badge */
+  .iem-badge {
+    position: absolute;
+    top: 5px;
+    right: 5px;
+    width: 8px;
+    height: 8px;
+    border-radius: 50%;
+    opacity: 0.7;
+  }
+  
+  /* Modal for active stone */
+  .stone-modal {
+    display: none;
+    position: fixed;
+    top: 0; left: 0; right: 0; bottom: 0;
+    background: rgba(10, 8, 5, 0.95);
+    z-index: 100;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+  }
+  .stone-modal.active {
+    display: flex;
+  }
+  .modal-stone {
+    width: 280px;
+    height: 360px;
+  }
+  .modal-stone svg {
+    width: 100%;
+    height: 100%;
+  }
+  .modal-info {
+    text-align: center;
+    margin-top: 20px;
+    color: var(--gold);
+  }
+  .modal-info h2 {
+    font-size: 1.2em;
+    font-style: italic;
+    margin-bottom: 8px;
+  }
+  .modal-info .freq-display {
+    font-family: 'Courier New', monospace;
+    font-size: 1.1em;
+    color: var(--gold);
+    margin: 5px 0;
+  }
+  .modal-info .specs {
+    font-size: 0.8em;
+    color: var(--gold-dim);
+    margin-top: 8px;
+  }
+  .modal-info .sensation {
+    font-size: 0.85em;
+    color: var(--gold-dim);
+    font-style: italic;
+    max-width: 350px;
+    margin: 15px auto;
+    line-height: 1.5;
+  }
+  .modal-close {
+    margin-top: 20px;
+    padding: 10px 30px;
+    background: var(--border);
+    border: 1px solid var(--gold-dim);
+    color: var(--gold);
+    border-radius: 8px;
+    cursor: pointer;
+    font-family: Georgia, serif;
+    font-style: italic;
+    font-size: 0.9em;
+    transition: all 0.3s;
+  }
+  .modal-close:hover {
+    background: var(--gold-dark);
+    border-color: var(--gold);
+  }
+  
+  /* Vibration indicator */
+  .vibe-indicator {
+    position: fixed;
+    bottom: 15px;
+    left: 50%;
+    transform: translateX(-50%);
+    padding: 8px 20px;
+    background: var(--surface);
+    border: 1px solid var(--gold-dark);
+    border-radius: 20px;
+    color: var(--gold-dim);
+    font-size: 0.72em;
+    font-style: italic;
+    display: none;
+    z-index: 50;
+  }
+  .vibe-indicator.active {
+    display: block;
+    border-color: var(--gold);
+    color: var(--gold);
+  }
+  
+  /* Audio canvas (hidden) */
+  #audio-canvas { display: none; }
+  
+  /* Instructions */
+  .instructions {
+    text-align: center;
+    padding: 10px 20px;
+    font-size: 0.72em;
+    color: var(--gold-dim);
+    font-style: italic;
+    line-height: 1.5;
+  }
+</style>
+</head>
+<body>
+
+<div class="header">
+  <h1>STONE VIBRATION TOUCH</h1>
+  <p class="subtitle">Touch any stone to feel its Mohs vibration · 160 stones, 27 crystal habits</p>
+</div>
+
+<div class="sensory-toggle">
+  <span class="toggle-label">Touch Sensory (Haptic)</span>
+  <div class="toggle-switch" id="hapticToggle" onclick="toggleHaptic()">
+    <div class="toggle-knob"></div>
+  </div>
+  <span class="toggle-status" id="hapticStatus">Off</span>
+</div>
+
+<div class="filter-bar" id="filterBar">
+  <button class="filter-btn active" data-filter="all" onclick="filterStones('all')">All Stones</button>
+  <button class="filter-btn" data-filter="bone_conduction" onclick="filterStones('bone_conduction')">Bone Conduction</button>
+  <button class="filter-btn" data-filter="dynamic_driver" onclick="filterStones('dynamic_driver')">Dynamic Driver</button>
+  <button class="filter-btn" data-filter="balanced_armature" onclick="filterStones('balanced_armature')">Balanced Armature</button>
+  <button class="filter-btn" data-filter="electrostatic" onclick="filterStones('electrostatic')">Electrostatic</button>
+</div>
+
+<div class="instructions">
+  Tap a stone to hear and feel its frequency. Touch and hold for sustained vibration. Enable Touch Sensory for haptic feedback on mobile devices.
+</div>
+
+<div class="stone-grid" id="stoneGrid"></div>
+
+<div class="stone-modal" id="stoneModal" onclick="closeModal(event)">
+  <div class="modal-stone" id="modalStone"></div>
+  <div class="modal-info" id="modalInfo"></div>
+  <button class="modal-close" onclick="closeModalDirect()">Close</button>
+</div>
+
+<div class="vibe-indicator" id="vibeIndicator"></div>
+
+<script>
+// ============================================================
+// STONE DATA — all 160 stones embedded
+// ============================================================
+const STONE_DATA = [{"id": 0, "name": "Platinum", "shape": "octahedron", "family": "Platinum", "freq": 20.0, "mohs": 4, "sg": 21.45, "iem": "bone_conduction", "cut": "uncut_natural", "colors": {"p": "#E5E4E2", "s": "#B8B8B8", "a": "#FFFFFF", "gemmy": false, "metallic": true}}, {"id": 1, "name": "Gold", "shape": "octahedron", "family": "Gold", "freq": 27.8, "mohs": 2.5, "sg": 19.3, "iem": "bone_conduction", "cut": "uncut_natural", "colors": {"p": "#FFD700", "s": "#DAA520", "a": "#FFF8DC", "gemmy": false, "metallic": true}}, {"id": 2, "name": "Copper", "shape": "dendrite", "family": "Copper", "freq": 65.6, "mohs": 3, "sg": 8.96, "iem": "bone_conduction", "cut": "uncut_natural", "colors": {"p": "#B87333", "s": "#8B4513", "a": "#FFD700", "gemmy": false, "metallic": true}}, {"id": 3, "name": "Cuprite", "shape": "octahedron", "family": "Cuprite", "freq": 75.8, "mohs": 3.5, "sg": 6.14, "iem": "bone_conduction", "cut": "faceted_round", "colors": {"p": "#8B0000", "s": "#5C0000", "a": "#FF6347", "gemmy": true}}, {"id": 4, "name": "Hematite", "shape": "botryoidal", "family": "Hematite", "freq": 78.9, "mohs": 5.5, "sg": 5.3, "iem": "bone_conduction", "cut": "cabochon", "colors": {"p": "#2F2F4F", "s": "#1A1A2E", "a": "#9CA3AF", "gemmy": false, "metallic": true}}, {"id": 5, "name": "Nuummite", "shape": "massive", "family": "Nuummite", "freq": 80.0, "mohs": 5.5, "sg": 3.0, "iem": "dynamic_driver", "cut": "cabochon", "colors": {"p": "#1A1A2E", "s": "#0D0D1A", "a": "#4A4A6E", "gemmy": false, "flash": true}}, {"id": 6, "name": "Pyrite", "shape": "cube", "family": "Pyrite", "freq": 80.0, "mohs": 6, "sg": 5.01, "iem": "bone_conduction", "cut": "uncut_natural", "colors": {"p": "#B8860B", "s": "#8B6914", "a": "#FFD700", "gemmy": false, "metallic": true}}, {"id": 7, "name": "Blue Tourmaline", "shape": "triangular_prism", "family": "Tourmaline", "freq": 84.2, "mohs": 7.5, "sg": 3.05, "iem": "dynamic_driver", "cut": "faceted_elongated", "colors": {"p": "#1E90FF", "s": "#0066CC", "a": "#87CEEB", "gemmy": true}}, {"id": 8, "name": "Green Tourmaline", "shape": "triangular_prism", "family": "Tourmaline", "freq": 84.2, "mohs": 7.5, "sg": 3.05, "iem": "dynamic_driver", "cut": "faceted_elongated", "colors": {"p": "#50C878", "s": "#2E8B57", "a": "#90EE90", "gemmy": true}}, {"id": 9, "name": "Multi - Colored Tourmaline", "shape": "triangular_prism", "family": "Tourmaline", "freq": 84.2, "mohs": 7.5, "sg": 3.05, "iem": "dynamic_driver", "cut": "faceted_elongated", "colors": {"p": "#50C878", "s": "#FF6B6B", "a": "#9370DB", "gemmy": true, "multicolor": true}}, {"id": 10, "name": "Rubellite Tourmaline", "shape": "triangular_prism", "family": "Tourmaline", "freq": 84.2, "mohs": 7.5, "sg": 3.05, "iem": "dynamic_driver", "cut": "faceted_elongated", "colors": {"p": "#E0115F", "s": "#C71585", "a": "#FF69B4", "gemmy": true}}, {"id": 11, "name": "Watermelon Tourmaline", "shape": "triangular_prism", "family": "Tourmaline", "freq": 84.2, "mohs": 7.5, "sg": 3.05, "iem": "dynamic_driver", "cut": "faceted_elongated", "colors": {"p": "#50C878", "s": "#E0115F", "a": "#FFFFFF", "gemmy": true, "multicolor": true}}, {"id": 12, "name": "Black Tourmaline", "shape": "triangular_prism", "family": "Tourmaline", "freq": 88.5, "mohs": 7.5, "sg": 3.1, "iem": "dynamic_driver", "cut": "faceted_elongated", "colors": {"p": "#1A1A1A", "s": "#0D0D0D", "a": "#3A3A3A", "gemmy": false}}, {"id": 13, "name": "Andalusite", "shape": "cross", "family": "Andalusite", "freq": 93.6, "mohs": 7.5, "sg": 3.16, "iem": "dynamic_driver", "cut": "faceted_oval", "colors": {"p": "#8B7355", "s": "#6B5344", "a": "#D4A574", "gemmy": true, "pleochroic": true}}, {"id": 14, "name": "Kunzite", "shape": "blade_prism", "family": "Spodumene", "freq": 95.3, "mohs": 6.5, "sg": 3.18, "iem": "dynamic_driver", "cut": "faceted_elongated", "colors": {"p": "#E8B4B8", "s": "#D4A0A0", "a": "#FFC0CB", "gemmy": true}}, {"id": 15, "name": "Green Fluorite", "shape": "cube", "family": "Fluorite", "freq": 95.3, "mohs": 4, "sg": 3.18, "iem": "dynamic_driver", "cut": "faceted_square", "colors": {"p": "#90EE90", "s": "#3CB371", "a": "#98FB98", "gemmy": true}}, {"id": 16, "name": "Purple Fluorite", "shape": "cube", "family": "Fluorite", "freq": 95.3, "mohs": 4, "sg": 3.18, "iem": "dynamic_driver", "cut": "faceted_square", "colors": {"p": "#9370DB", "s": "#7B68EE", "a": "#E6E6FA", "gemmy": true}}, {"id": 17, "name": "Rainbow Fluorite", "shape": "cube", "family": "Fluorite", "freq": 95.3, "mohs": 4, "sg": 3.18, "iem": "dynamic_driver", "cut": "faceted_square", "colors": {"p": "#9370DB", "s": "#90EE90", "a": "#87CEEB", "gemmy": true, "multicolor": true}}, {"id": 18, "name": "Apatite", "shape": "hexagonal", "family": "Apatite", "freq": 99.5, "mohs": 5, "sg": 3.23, "iem": "dynamic_driver", "cut": "faceted_oval", "colors": {"p": "#00CED1", "s": "#008B8B", "a": "#48D1CC", "gemmy": true}}, {"id": 19, "name": "Tiger Iron", "shape": "botryoidal", "family": "Chalcedony", "freq": 105.5, "mohs": 6.5, "sg": 3.3, "iem": "dynamic_driver", "cut": "cabochon", "colors": {"p": "#8B4513", "s": "#DAA520", "a": "#2F2F4F", "gemmy": false, "banded": true}}, {"id": 20, "name": "Guatemalan Jade", "shape": "massive", "family": "Jade", "freq": 105.5, "mohs": 7, "sg": 3.3, "iem": "dynamic_driver", "cut": "cabochon", "colors": {"p": "#3C8D6E", "s": "#2E6B4F", "a": "#5FAC8E", "gemmy": false}}, {"id": 21, "name": "White Jade", "shape": "massive", "family": "Jade", "freq": 105.5, "mohs": 7, "sg": 3.3, "iem": "dynamic_driver", "cut": "cabochon", "colors": {"p": "#F5F5DC", "s": "#E8E4C9", "a": "#FFFFFF", "gemmy": false}}, {"id": 22, "name": "Bronzite", "shape": "prism", "family": "Bronzite", "freq": 105.5, "mohs": 5.5, "sg": 3.3, "iem": "dynamic_driver", "cut": "cabochon", "colors": {"p": "#8B7355", "s": "#6B5344", "a": "#CD853F", "gemmy": false, "metallic": true}}, {"id": 23, "name": "Chrome Diopside", "shape": "prism", "family": "Chrome Diopside", "freq": 105.5, "mohs": 5.5, "sg": 3.3, "iem": "dynamic_driver", "cut": "faceted_round", "colors": {"p": "#228B22", "s": "#006400", "a": "#32CD32", "gemmy": true}}, {"id": 24, "name": "Dumortierite", "shape": "fibrous", "family": "Dumortierite", "freq": 105.5, "mohs": 7, "sg": 3.3, "iem": "dynamic_driver", "cut": "cabochon", "colors": {"p": "#6A5ACD", "s": "#483D8B", "a": "#9370DB", "gemmy": false}}, {"id": 25, "name": "Zoisite (with ruby inclusions)", "shape": "prism", "family": "Zoisite", "freq": 105.5, "mohs": 6.5, "sg": 3.3, "iem": "dynamic_driver", "cut": "faceted_oval", "colors": {"p": "#3CB371", "s": "#2E8B57", "a": "#E0115F", "gemmy": false, "multicolor": true}}, {"id": 26, "name": "Jadeite", "shape": "massive", "family": "Jade", "freq": 108.9, "mohs": 7, "sg": 3.34, "iem": "dynamic_driver", "cut": "cabochon", "colors": {"p": "#50C878", "s": "#2E8B57", "a": "#98FB98", "gemmy": false}}, {"id": 27, "name": "Tanzanite", "shape": "prism", "family": "Zoisite", "freq": 109.8, "mohs": 6.5, "sg": 3.35, "iem": "dynamic_driver", "cut": "faceted_oval", "colors": {"p": "#4169E1", "s": "#6A0DAD", "a": "#B0C4DE", "gemmy": true}}, {"id": 28, "name": "Zultanite", "shape": "prism", "family": "Zultanite", "freq": 109.8, "mohs": 6.5, "sg": 3.35, "iem": "dynamic_driver", "cut": "faceted_oval", "colors": {"p": "#DAA520", "s": "#E8C547", "a": "#C0C0C0", "gemmy": true, "colorchange": true}}, {"id": 29, "name": "Hypersthene", "shape": "prism", "family": "Hypersthene", "freq": 114.0, "mohs": 5.5, "sg": 3.4, "iem": "dynamic_driver", "cut": "cabochon", "colors": {"p": "#5C4033", "s": "#3E2723", "a": "#8B7355", "gemmy": false, "metallic": true}}, {"id": 30, "name": "Epidote", "shape": "prism", "family": "Epidote", "freq": 118.2, "mohs": 7, "sg": 3.45, "iem": "dynamic_driver", "cut": "faceted_elongated", "colors": {"p": "#556B2F", "s": "#3D5314", "a": "#6B8E23", "gemmy": false}}, {"id": 31, "name": "Rhodonite", "shape": "massive", "family": "Rhodonite", "freq": 122.5, "mohs": 5.5, "sg": 3.5, "iem": "dynamic_driver", "cut": "cabochon", "colors": {"p": "#E75480", "s": "#C71585", "a": "#2F2F2F", "gemmy": false, "banded": true}}, {"id": 32, "name": "Diamond", "shape": "octahedron", "family": "Diamond", "freq": 124.2, "mohs": 10, "sg": 3.52, "iem": "dynamic_driver", "cut": "brilliant_round", "colors": {"p": "#FFFFFF", "s": "#E0E0E0", "a": "#B0C4DE", "gemmy": true, "brilliant": true}}, {"id": 33, "name": "Blue Topaz (London)", "shape": "prism", "family": "Topaz", "freq": 125.0, "mohs": 8, "sg": 3.53, "iem": "dynamic_driver", "cut": "faceted_oval", "colors": {"p": "#2F5F8F", "s": "#1C3F5F", "a": "#4682B4", "gemmy": true}}, {"id": 34, "name": "Blue Topaz (Swiss)", "shape": "prism", "family": "Topaz", "freq": 125.0, "mohs": 8, "sg": 3.53, "iem": "dynamic_driver", "cut": "faceted_oval", "colors": {"p": "#00BFFF", "s": "#0099CC", "a": "#87CEEB", "gemmy": true}}, {"id": 35, "name": "Clear Topaz", "shape": "prism", "family": "Topaz", "freq": 125.0, "mohs": 8, "sg": 3.53, "iem": "dynamic_driver", "cut": "faceted_oval", "colors": {"p": "#FFF8DC", "s": "#E8E4C9", "a": "#FFFFF0", "gemmy": true}}, {"id": 36, "name": "Imperial (Golden) Topaz", "shape": "prism", "family": "Topaz", "freq": 125.0, "mohs": 8, "sg": 3.53, "iem": "dynamic_driver", "cut": "faceted_oval", "colors": {"p": "#FFB347", "s": "#FF8C00", "a": "#FFD700", "gemmy": true}}, {"id": 37, "name": "Grossular Garnet", "shape": "dodecahedron", "family": "Garnet", "freq": 131.0, "mohs": 7, "sg": 3.6, "iem": "dynamic_driver", "cut": "faceted_round", "colors": {"p": "#73C6B6", "s": "#5F9EA0", "a": "#AFEEEE", "gemmy": true}}, {"id": 38, "name": "Hessonite Garnet", "shape": "dodecahedron", "family": "Garnet", "freq": 131.0, "mohs": 7, "sg": 3.6, "iem": "dynamic_driver", "cut": "faceted_round", "colors": {"p": "#D4A574", "s": "#B8860B", "a": "#FFDEAD", "gemmy": true}}, {"id": 39, "name": "Kyanite (blue)", "shape": "blade", "family": "Kyanite", "freq": 131.0, "mohs": 4.5, "sg": 3.6, "iem": "dynamic_driver", "cut": "faceted_elongated", "colors": {"p": "#4169E1", "s": "#1E90FF", "a": "#6495ED", "gemmy": true}}, {"id": 40, "name": "Kyanite (orange)", "shape": "blade", "family": "Kyanite", "freq": 131.0, "mohs": 4.5, "sg": 3.6, "iem": "dynamic_driver", "cut": "faceted_elongated", "colors": {"p": "#FF8C00", "s": "#FF6347", "a": "#FFD700", "gemmy": true}}, {"id": 41, "name": "Kyanite (Moss)", "shape": "blade", "family": "Kyanite", "freq": 131.0, "mohs": 4.5, "sg": 3.6, "iem": "dynamic_driver", "cut": "faceted_elongated", "colors": {"p": "#556B2F", "s": "#6B8E23", "a": "#3CB371", "gemmy": false}}, {"id": 42, "name": "Spinel", "shape": "octahedron", "family": "Spinel", "freq": 131.0, "mohs": 8, "sg": 3.6, "iem": "dynamic_driver", "cut": "faceted_round", "colors": {"p": "#E0115F", "s": "#C71585", "a": "#FF1493", "gemmy": true}}, {"id": 43, "name": "Ruby with kyanite", "shape": "barrel", "family": "Corundum", "freq": 139.5, "mohs": 7, "sg": 3.7, "iem": "dynamic_driver", "cut": "faceted_round", "colors": {"p": "#E0115F", "s": "#4169E1", "a": "#FF69B4", "gemmy": true, "multicolor": true}}, {"id": 44, "name": "Rhodochrosite", "shape": "rhombohedron", "family": "Rhodochrosite", "freq": 139.5, "mohs": 4, "sg": 3.7, "iem": "dynamic_driver", "cut": "cabochon", "colors": {"p": "#E75480", "s": "#FFC0CB", "a": "#FFFFFF", "gemmy": false, "banded": true}}, {"id": 45, "name": "Alexandrite", "shape": "twinned", "family": "Chrysoberyl", "freq": 139.5, "mohs": 8.5, "sg": 3.7, "iem": "dynamic_driver", "cut": "faceted_oval", "colors": {"p": "#50C878", "s": "#9370DB", "a": "#E0115F", "gemmy": true, "colorchange": true}}, {"id": 46, "name": "Staurolite (fairy cross stone)", "shape": "cross", "family": "Staurolite", "freq": 139.5, "mohs": 7.5, "sg": 3.7, "iem": "dynamic_driver", "cut": "uncut_natural", "colors": {"p": "#5C4033", "s": "#3E2723", "a": "#8B7355", "gemmy": false}}, {"id": 47, "name": "Cat's Eye", "shape": "twinned", "family": "Chrysoberyl", "freq": 141.2, "mohs": 8.5, "sg": 3.72, "iem": "dynamic_driver", "cut": "faceted_oval", "colors": {"p": "#DAA520", "s": "#B8860B", "a": "#FFF8DC", "gemmy": true, "chatoyant": true}}, {"id": 48, "name": "Azurite", "shape": "prism", "family": "Azurite", "freq": 145.4, "mohs": 3.5, "sg": 3.77, "iem": "dynamic_driver", "cut": "cabochon", "colors": {"p": "#1E90FF", "s": "#0000CD", "a": "#4169E1", "gemmy": false}}, {"id": 49, "name": "Malachite", "shape": "botryoidal", "family": "Malachite", "freq": 148.0, "mohs": 3.5, "sg": 3.8, "iem": "dynamic_driver", "cut": "cabochon", "colors": {"p": "#8B7355", "s": "#6B5344", "a": "#D4A574", "gemmy": false}}, {"id": 50, "name": "Uvarovite", "shape": "dodecahedron", "family": "Garnet", "freq": 152.2, "mohs": 7.5, "sg": 3.85, "iem": "dynamic_driver", "cut": "faceted_round", "colors": {"p": "#8B0000", "s": "#5C0000", "a": "#B22222", "gemmy": true}}, {"id": 51, "name": "Mozambique Garnet", "shape": "dodecahedron", "family": "Garnet", "freq": 160.8, "mohs": 7.5, "sg": 3.95, "iem": "dynamic_driver", "cut": "faceted_round", "colors": {"p": "#8B0000", "s": "#5C0000", "a": "#B22222", "gemmy": true}}, {"id": 52, "name": "Ruby", "shape": "barrel", "family": "Corundum", "freq": 164.2, "mohs": 9, "sg": 3.99, "iem": "dynamic_driver", "cut": "faceted_round", "colors": {"p": "#E0115F", "s": "#C71585", "a": "#FF69B4", "gemmy": true}}, {"id": 53, "name": "Sapphire", "shape": "barrel", "family": "Corundum", "freq": 164.2, "mohs": 9, "sg": 3.99, "iem": "dynamic_driver", "cut": "faceted_round", "colors": {"p": "#4169E1", "s": "#1E90FF", "a": "#6495ED", "gemmy": true}}, {"id": 54, "name": "Sapphire (Tundra)", "shape": "barrel", "family": "Corundum", "freq": 164.2, "mohs": 9, "sg": 3.99, "iem": "dynamic_driver", "cut": "faceted_round", "colors": {"p": "#4169E1", "s": "#1E90FF", "a": "#6495ED", "gemmy": true}}, {"id": 55, "name": "Lepidocrocite", "shape": "blade", "family": "Lepidocrocite", "freq": 165.0, "mohs": 5, "sg": 4.0, "iem": "dynamic_driver", "cut": "cabochon", "colors": {"p": "#8B7355", "s": "#6B5344", "a": "#D4A574", "gemmy": false}}, {"id": 56, "name": "Spessartite Garnet", "shape": "dodecahedron", "family": "Garnet", "freq": 182.0, "mohs": 7.25, "sg": 4.2, "iem": "dynamic_driver", "cut": "faceted_round", "colors": {"p": "#8B0000", "s": "#5C0000", "a": "#B22222", "gemmy": true}}, {"id": 57, "name": "Covellite", "shape": "platy", "family": "Covellite", "freq": 233.0, "mohs": 2.5, "sg": 4.8, "iem": "dynamic_driver", "cut": "cabochon", "colors": {"p": "#8B7355", "s": "#6B5344", "a": "#D4A574", "gemmy": false}}, {"id": 58, "name": "Fire Opal", "shape": "amorphous", "family": "Opal", "freq": 250.0, "mohs": 5.5, "sg": 2.0, "iem": "balanced_armature", "cut": "cabochon", "colors": {"p": "#FF4500", "s": "#FF6347", "a": "#FFD700", "gemmy": true}}, {"id": 59, "name": "Black Opal", "shape": "amorphous", "family": "Opal", "freq": 425.0, "mohs": 5.5, "sg": 2.1, "iem": "balanced_armature", "cut": "cabochon", "colors": {"p": "#1A1A1A", "s": "#0D0D0D", "a": "#3A3A3A", "gemmy": false}}, {"id": 60, "name": "Blue Opal (Peruvian)", "shape": "amorphous", "family": "Opal", "freq": 425.0, "mohs": 5.5, "sg": 2.1, "iem": "balanced_armature", "cut": "cabochon", "colors": {"p": "#4169E1", "s": "#1E90FF", "a": "#87CEEB", "gemmy": true}}, {"id": 61, "name": "Boulder Opal", "shape": "amorphous", "family": "Opal", "freq": 425.0, "mohs": 5.5, "sg": 2.1, "iem": "balanced_armature", "cut": "cabochon", "colors": {"p": "#E0E0E0", "s": "#87CEEB", "a": "#FFB6C1", "gemmy": true, "iridescent": true}}, {"id": 62, "name": "Shungite", "shape": "massive", "family": "Shungite", "freq": 425.0, "mohs": 3.5, "sg": 2.1, "iem": "balanced_armature", "cut": "cabochon", "colors": {"p": "#8B7355", "s": "#6B5344", "a": "#D4A574", "gemmy": false}}, {"id": 63, "name": "Chrysocolla", "shape": "botryoidal", "family": "Chrysocolla", "freq": 600.0, "mohs": 2.5, "sg": 2.2, "iem": "balanced_armature", "cut": "cabochon", "colors": {"p": "#8B7355", "s": "#6B5344", "a": "#D4A574", "gemmy": false}}, {"id": 64, "name": "Sodalite", "shape": "cube", "family": "Sodalite", "freq": 775.0, "mohs": 5.5, "sg": 2.3, "iem": "balanced_armature", "cut": "cabochon", "colors": {"p": "#8B7355", "s": "#6B5344", "a": "#D4A574", "gemmy": false}}, {"id": 65, "name": "Sodalite (African)", "shape": "cube", "family": "Sodalite", "freq": 775.0, "mohs": 5.5, "sg": 2.3, "iem": "balanced_armature", "cut": "cabochon", "colors": {"p": "#8B7355", "s": "#6B5344", "a": "#D4A574", "gemmy": false}}, {"id": 66, "name": "Hackmanite", "shape": "cube", "family": "Hackmanite", "freq": 775.0, "mohs": 5.5, "sg": 2.3, "iem": "balanced_armature", "cut": "cabochon", "colors": {"p": "#8B7355", "s": "#6B5344", "a": "#D4A574", "gemmy": false}}, {"id": 67, "name": "Angelite", "shape": "massive", "family": "Angelite", "freq": 775.0, "mohs": 3.5, "sg": 2.3, "iem": "balanced_armature", "cut": "cabochon", "colors": {"p": "#8B7355", "s": "#6B5344", "a": "#D4A574", "gemmy": false}}, {"id": 68, "name": "Gold Sheen Obsidian", "shape": "amorphous", "family": "Obsidian", "freq": 950.0, "mohs": 5, "sg": 2.4, "iem": "balanced_armature", "cut": "cabochon", "colors": {"p": "#FFD700", "s": "#DAA520", "a": "#FFF8DC", "gemmy": true}}, {"id": 69, "name": "Rainbow Obsidian", "shape": "amorphous", "family": "Obsidian", "freq": 950.0, "mohs": 5, "sg": 2.4, "iem": "balanced_armature", "cut": "cabochon", "colors": {"p": "#1A1A1A", "s": "#2F2F4F", "a": "#9370DB", "gemmy": false}}, {"id": 70, "name": "Snowflake Obsidian", "shape": "amorphous", "family": "Obsidian", "freq": 950.0, "mohs": 5, "sg": 2.4, "iem": "balanced_armature", "cut": "cabochon", "colors": {"p": "#FFFAFA", "s": "#F0F8FF", "a": "#FFFFFF", "gemmy": true}}, {"id": 71, "name": "Moldavite", "shape": "amorphous", "family": "Moldavite", "freq": 950.0, "mohs": 5.5, "sg": 2.4, "iem": "balanced_armature", "cut": "uncut_natural", "colors": {"p": "#8B7355", "s": "#6B5344", "a": "#D4A574", "gemmy": false}}, {"id": 72, "name": "Gem Silica", "shape": "botryoidal", "family": "Chalcedony", "freq": 1212.5, "mohs": 6.5, "sg": 2.55, "iem": "balanced_armature", "cut": "cabochon", "colors": {"p": "#D4A574", "s": "#B8860B", "a": "#FFF8DC", "gemmy": false}}, {"id": 73, "name": "Amazonite", "shape": "tabular", "family": "Feldspar", "freq": 1230.0, "mohs": 6, "sg": 2.56, "iem": "balanced_armature", "cut": "cabochon", "colors": {"p": "#D4A574", "s": "#B8860B", "a": "#FFF8DC", "gemmy": false, "iridescent": true}}, {"id": 74, "name": "Peach Moonstone", "shape": "tabular", "family": "Feldspar", "freq": 1230.0, "mohs": 6, "sg": 2.56, "iem": "balanced_armature", "cut": "cabochon", "colors": {"p": "#F5F5DC", "s": "#E8E4C9", "a": "#FFFFF0", "gemmy": true, "iridescent": true}}, {"id": 75, "name": "Rainbow Moonstone", "shape": "tabular", "family": "Feldspar", "freq": 1230.0, "mohs": 6, "sg": 2.56, "iem": "balanced_armature", "cut": "cabochon", "colors": {"p": "#F5F5DC", "s": "#E8E4C9", "a": "#FFFFF0", "gemmy": true, "iridescent": true}}, {"id": 76, "name": "White Moonstone", "shape": "tabular", "family": "Feldspar", "freq": 1230.0, "mohs": 6, "sg": 2.56, "iem": "balanced_armature", "cut": "cabochon", "colors": {"p": "#FFFFFF", "s": "#E0E0E0", "a": "#F5F5DC", "gemmy": true}}, {"id": 77, "name": "Agates", "shape": "botryoidal", "family": "Chalcedony", "freq": 1300.0, "mohs": 6.5, "sg": 2.6, "iem": "balanced_armature", "cut": "cabochon", "colors": {"p": "#D4A574", "s": "#B8860B", "a": "#FFF8DC", "gemmy": false}}, {"id": 78, "name": "Crazy Lace Agate", "shape": "botryoidal", "family": "Chalcedony", "freq": 1300.0, "mohs": 6.5, "sg": 2.6, "iem": "balanced_armature", "cut": "cabochon", "colors": {"p": "#D4A574", "s": "#B8860B", "a": "#FFF8DC", "gemmy": false}}, {"id": 79, "name": "Dendritic Agate", "shape": "botryoidal", "family": "Chalcedony", "freq": 1300.0, "mohs": 6.5, "sg": 2.6, "iem": "balanced_armature", "cut": "cabochon", "colors": {"p": "#556B2F", "s": "#3CB371", "a": "#8B7355", "gemmy": false}}, {"id": 80, "name": "Fire Agate", "shape": "botryoidal", "family": "Chalcedony", "freq": 1300.0, "mohs": 6.5, "sg": 2.6, "iem": "balanced_armature", "cut": "cabochon", "colors": {"p": "#FF4500", "s": "#FF6347", "a": "#FFD700", "gemmy": true}}, {"id": 81, "name": "Flower Agate", "shape": "botryoidal", "family": "Chalcedony", "freq": 1300.0, "mohs": 6.5, "sg": 2.6, "iem": "balanced_armature", "cut": "cabochon", "colors": {"p": "#D4A574", "s": "#B8860B", "a": "#FFF8DC", "gemmy": false}}, {"id": 82, "name": "Fossil Agate (turritella)", "shape": "botryoidal", "family": "Chalcedony", "freq": 1300.0, "mohs": 6.5, "sg": 2.6, "iem": "balanced_armature", "cut": "cabochon", "colors": {"p": "#D4A574", "s": "#B8860B", "a": "#FFF8DC", "gemmy": false}}, {"id": 83, "name": "Montana Moss Agate", "shape": "botryoidal", "family": "Chalcedony", "freq": 1300.0, "mohs": 6.5, "sg": 2.6, "iem": "balanced_armature", "cut": "cabochon", "colors": {"p": "#556B2F", "s": "#6B8E23", "a": "#3CB371", "gemmy": false}}, {"id": 84, "name": "Moss Agate", "shape": "botryoidal", "family": "Chalcedony", "freq": 1300.0, "mohs": 6.5, "sg": 2.6, "iem": "balanced_armature", "cut": "cabochon", "colors": {"p": "#556B2F", "s": "#6B8E23", "a": "#3CB371", "gemmy": false}}, {"id": 85, "name": "Plumed Agate", "shape": "botryoidal", "family": "Chalcedony", "freq": 1300.0, "mohs": 6.5, "sg": 2.6, "iem": "balanced_armature", "cut": "cabochon", "colors": {"p": "#D4A574", "s": "#B8860B", "a": "#FFF8DC", "gemmy": false}}, {"id": 86, "name": "Tree Agate", "shape": "botryoidal", "family": "Chalcedony", "freq": 1300.0, "mohs": 6.5, "sg": 2.6, "iem": "balanced_armature", "cut": "cabochon", "colors": {"p": "#556B2F", "s": "#8B7355", "a": "#3CB371", "gemmy": false}}, {"id": 87, "name": "Chalcedony (Blue)", "shape": "botryoidal", "family": "Chalcedony", "freq": 1300.0, "mohs": 6.5, "sg": 2.6, "iem": "balanced_armature", "cut": "cabochon", "colors": {"p": "#4169E1", "s": "#1E90FF", "a": "#87CEEB", "gemmy": true}}, {"id": 88, "name": "Chalcedony (Dendritic)", "shape": "botryoidal", "family": "Chalcedony", "freq": 1300.0, "mohs": 6.5, "sg": 2.6, "iem": "balanced_armature", "cut": "cabochon", "colors": {"p": "#556B2F", "s": "#3CB371", "a": "#8B7355", "gemmy": false}}, {"id": 89, "name": "Black Onyx", "shape": "botryoidal", "family": "Chalcedony", "freq": 1300.0, "mohs": 6.5, "sg": 2.6, "iem": "balanced_armature", "cut": "cabochon", "colors": {"p": "#1A1A1A", "s": "#0D0D0D", "a": "#3A3A3A", "gemmy": false}}, {"id": 90, "name": "Green Onyx", "shape": "botryoidal", "family": "Chalcedony", "freq": 1300.0, "mohs": 6.5, "sg": 2.6, "iem": "balanced_armature", "cut": "cabochon", "colors": {"p": "#50C878", "s": "#2E8B57", "a": "#90EE90", "gemmy": true}}, {"id": 91, "name": "Iolite", "shape": "pseudohexagonal", "family": "Cordierite", "freq": 1300.0, "mohs": 7, "sg": 2.6, "iem": "balanced_armature", "cut": "faceted_oval", "colors": {"p": "#8B7355", "s": "#6B5344", "a": "#D4A574", "gemmy": false}}, {"id": 92, "name": "Coral (black)", "shape": "branch", "family": "Coral", "freq": 1300.0, "mohs": 3.5, "sg": 2.6, "iem": "balanced_armature", "cut": "uncut_natural", "colors": {"p": "#1A1A1A", "s": "#0D0D0D", "a": "#3A3A3A", "gemmy": false}}, {"id": 93, "name": "Coral (branch)", "shape": "branch", "family": "Coral", "freq": 1300.0, "mohs": 3.5, "sg": 2.6, "iem": "balanced_armature", "cut": "uncut_natural", "colors": {"p": "#FF7F50", "s": "#E75480", "a": "#FFB6C1", "gemmy": false, "organic": true}}, {"id": 94, "name": "Tektite", "shape": "amorphous", "family": "Tektite", "freq": 1300.0, "mohs": 5.5, "sg": 2.6, "iem": "balanced_armature", "cut": "uncut_natural", "colors": {"p": "#8B7355", "s": "#6B5344", "a": "#D4A574", "gemmy": false}}, {"id": 95, "name": "Aquaprase", "shape": "botryoidal", "family": "Chalcedony", "freq": 1300.0, "mohs": 6.5, "sg": 2.6, "iem": "balanced_armature", "cut": "cabochon", "colors": {"p": "#D4A574", "s": "#B8860B", "a": "#FFF8DC", "gemmy": false}}, {"id": 96, "name": "Carnelian", "shape": "botryoidal", "family": "Chalcedony", "freq": 1300.0, "mohs": 6.5, "sg": 2.6, "iem": "balanced_armature", "cut": "cabochon", "colors": {"p": "#D4A574", "s": "#B8860B", "a": "#FFF8DC", "gemmy": false}}, {"id": 97, "name": "Chrysoprase", "shape": "botryoidal", "family": "Chalcedony", "freq": 1300.0, "mohs": 6.5, "sg": 2.6, "iem": "balanced_armature", "cut": "cabochon", "colors": {"p": "#D4A574", "s": "#B8860B", "a": "#FFF8DC", "gemmy": false}}, {"id": 98, "name": "Sard", "shape": "botryoidal", "family": "Chalcedony", "freq": 1300.0, "mohs": 6.5, "sg": 2.6, "iem": "balanced_armature", "cut": "cabochon", "colors": {"p": "#D4A574", "s": "#B8860B", "a": "#FFF8DC", "gemmy": false}}, {"id": 99, "name": "Sardonyx", "shape": "botryoidal", "family": "Chalcedony", "freq": 1300.0, "mohs": 6.5, "sg": 2.6, "iem": "balanced_armature", "cut": "cabochon", "colors": {"p": "#D4A574", "s": "#B8860B", "a": "#FFF8DC", "gemmy": false}}, {"id": 100, "name": "Sunstone", "shape": "tabular", "family": "Feldspar", "freq": 1370.0, "mohs": 6, "sg": 2.64, "iem": "balanced_armature", "cut": "cabochon", "colors": {"p": "#FFD700", "s": "#FF8C00", "a": "#FFF8DC", "gemmy": true, "iridescent": true}}, {"id": 101, "name": "Clear Quartz", "shape": "hexagonal", "family": "Quartz", "freq": 1387.5, "mohs": 7, "sg": 2.65, "iem": "balanced_armature", "cut": "faceted_round", "colors": {"p": "#FFFFFF", "s": "#E0E0E0", "a": "#B0C4DE", "gemmy": true, "brilliant": true}}, {"id": 102, "name": "Phantom Quartz", "shape": "hexagonal", "family": "Quartz", "freq": 1387.5, "mohs": 7, "sg": 2.65, "iem": "balanced_armature", "cut": "faceted_round", "colors": {"p": "#E8E4C9", "s": "#D4CFA0", "a": "#FFFFFF", "gemmy": true}}, {"id": 103, "name": "Rose Quartz", "shape": "hexagonal", "family": "Quartz", "freq": 1387.5, "mohs": 7, "sg": 2.65, "iem": "balanced_armature", "cut": "faceted_round", "colors": {"p": "#E8B4B8", "s": "#D4A0A0", "a": "#FFC0CB", "gemmy": true}}, {"id": 104, "name": "Rutilated Quartz", "shape": "hexagonal", "family": "Quartz", "freq": 1387.5, "mohs": 7, "sg": 2.65, "iem": "balanced_armature", "cut": "faceted_round", "colors": {"p": "#E8E4C9", "s": "#FFD700", "a": "#B8860B", "gemmy": true, "metallic": true}}, {"id": 105, "name": "Smoky Quartz", "shape": "hexagonal", "family": "Quartz", "freq": 1387.5, "mohs": 7, "sg": 2.65, "iem": "balanced_armature", "cut": "faceted_round", "colors": {"p": "#8B7355", "s": "#6B5344", "a": "#A0522D", "gemmy": true}}, {"id": 106, "name": "Solar Quartz", "shape": "hexagonal", "family": "Quartz", "freq": 1387.5, "mohs": 7, "sg": 2.65, "iem": "balanced_armature", "cut": "faceted_round", "colors": {"p": "#E8E4C9", "s": "#D4CFA0", "a": "#FFFFFF", "gemmy": true}}, {"id": 107, "name": "Tourmalinated Quartz", "shape": "hexagonal", "family": "Quartz", "freq": 1387.5, "mohs": 7, "sg": 2.65, "iem": "balanced_armature", "cut": "faceted_round", "colors": {"p": "#E8E4C9", "s": "#1A1A1A", "a": "#3A3A3A", "gemmy": true}}, {"id": 108, "name": "Herkimer Diamond", "shape": "hexagonal", "family": "Quartz", "freq": 1387.5, "mohs": 7, "sg": 2.65, "iem": "balanced_armature", "cut": "faceted_round", "colors": {"p": "#E8E4C9", "s": "#D4CFA0", "a": "#FFFFFF", "gemmy": true}}, {"id": 109, "name": "Amethyst", "shape": "hexagonal", "family": "Quartz", "freq": 1387.5, "mohs": 7, "sg": 2.65, "iem": "balanced_armature", "cut": "faceted_round", "colors": {"p": "#9370DB", "s": "#7B68EE", "a": "#E6E6FA", "gemmy": true}}, {"id": 110, "name": "Citrine", "shape": "hexagonal", "family": "Quartz", "freq": 1387.5, "mohs": 7, "sg": 2.65, "iem": "balanced_armature", "cut": "faceted_round", "colors": {"p": "#FFB347", "s": "#FF8C00", "a": "#FFD700", "gemmy": true}}, {"id": 111, "name": "Ametrine", "shape": "hexagonal", "family": "Quartz", "freq": 1387.5, "mohs": 7, "sg": 2.65, "iem": "balanced_armature", "cut": "faceted_round", "colors": {"p": "#E8E4C9", "s": "#D4CFA0", "a": "#FFFFFF", "gemmy": true}}, {"id": 112, "name": "Aqua Aura", "shape": "hexagonal", "family": "Quartz", "freq": 1387.5, "mohs": 7, "sg": 2.65, "iem": "balanced_armature", "cut": "faceted_round", "colors": {"p": "#E8E4C9", "s": "#D4CFA0", "a": "#FFFFFF", "gemmy": true}}, {"id": 113, "name": "Bumblebee Jasper", "shape": "botryoidal", "family": "Chalcedony", "freq": 1387.5, "mohs": 6.5, "sg": 2.65, "iem": "balanced_armature", "cut": "cabochon", "colors": {"p": "#D4A574", "s": "#B8860B", "a": "#FFF8DC", "gemmy": false}}, {"id": 114, "name": "Desert Jasper", "shape": "botryoidal", "family": "Chalcedony", "freq": 1387.5, "mohs": 6.5, "sg": 2.65, "iem": "balanced_armature", "cut": "cabochon", "colors": {"p": "#D4A574", "s": "#B8860B", "a": "#FFF8DC", "gemmy": false}}, {"id": 115, "name": "Leopardskin Jasper", "shape": "botryoidal", "family": "Chalcedony", "freq": 1387.5, "mohs": 6.5, "sg": 2.65, "iem": "balanced_armature", "cut": "cabochon", "colors": {"p": "#D4A574", "s": "#B8860B", "a": "#FFF8DC", "gemmy": false}}, {"id": 116, "name": "Ocean Jasper", "shape": "botryoidal", "family": "Chalcedony", "freq": 1387.5, "mohs": 6.5, "sg": 2.65, "iem": "balanced_armature", "cut": "cabochon", "colors": {"p": "#D4A574", "s": "#B8860B", "a": "#FFF8DC", "gemmy": false}}, {"id": 117, "name": "Picasso Jasper", "shape": "botryoidal", "family": "Chalcedony", "freq": 1387.5, "mohs": 6.5, "sg": 2.65, "iem": "balanced_armature", "cut": "cabochon", "colors": {"p": "#D4A574", "s": "#B8860B", "a": "#FFF8DC", "gemmy": false}}, {"id": 118, "name": "Picture Jasper", "shape": "botryoidal", "family": "Chalcedony", "freq": 1387.5, "mohs": 6.5, "sg": 2.65, "iem": "balanced_armature", "cut": "cabochon", "colors": {"p": "#D4A574", "s": "#B8860B", "a": "#FFF8DC", "gemmy": false}}, {"id": 119, "name": "Sunset Jasper", "shape": "botryoidal", "family": "Chalcedony", "freq": 1387.5, "mohs": 6.5, "sg": 2.65, "iem": "balanced_armature", "cut": "cabochon", "colors": {"p": "#FFD700", "s": "#FF8C00", "a": "#FFF8DC", "gemmy": true, "iridescent": true}}, {"id": 120, "name": "Blue Tiger's Eye", "shape": "botryoidal", "family": "Chalcedony", "freq": 1387.5, "mohs": 6.5, "sg": 2.65, "iem": "balanced_armature", "cut": "cabochon", "colors": {"p": "#4169E1", "s": "#1E90FF", "a": "#87CEEB", "gemmy": true}}, {"id": 121, "name": "Brown Tiger's Eye", "shape": "botryoidal", "family": "Chalcedony", "freq": 1387.5, "mohs": 6.5, "sg": 2.65, "iem": "balanced_armature", "cut": "cabochon", "colors": {"p": "#8B7355", "s": "#DAA520", "a": "#2F2F4F", "gemmy": false, "banded": true}}, {"id": 122, "name": "Red Tiger's Eye", "shape": "botryoidal", "family": "Chalcedony", "freq": 1387.5, "mohs": 6.5, "sg": 2.65, "iem": "balanced_armature", "cut": "cabochon", "colors": {"p": "#DC143C", "s": "#B22222", "a": "#FF6347", "gemmy": true}}, {"id": 123, "name": "Hawk's Eye", "shape": "botryoidal", "family": "Chalcedony", "freq": 1387.5, "mohs": 6.5, "sg": 2.65, "iem": "balanced_armature", "cut": "cabochon", "colors": {"p": "#D4A574", "s": "#B8860B", "a": "#FFF8DC", "gemmy": false}}, {"id": 124, "name": "Petrified Wood", "shape": "massive", "family": "Petrified Wood", "freq": 1387.5, "mohs": 7, "sg": 2.65, "iem": "balanced_armature", "cut": "cabochon", "colors": {"p": "#8B7355", "s": "#6B5344", "a": "#D4A574", "gemmy": false}}, {"id": 125, "name": "Bloodstone", "shape": "botryoidal", "family": "Chalcedony", "freq": 1387.5, "mohs": 6.5, "sg": 2.65, "iem": "balanced_armature", "cut": "cabochon", "colors": {"p": "#8B0000", "s": "#5C0000", "a": "#2F2F2F", "gemmy": false}}, {"id": 126, "name": "Moukaite", "shape": "botryoidal", "family": "Chalcedony", "freq": 1387.5, "mohs": 6.5, "sg": 2.65, "iem": "balanced_armature", "cut": "cabochon", "colors": {"p": "#D4A574", "s": "#B8860B", "a": "#FFF8DC", "gemmy": false}}, {"id": 127, "name": "Pietersite", "shape": "botryoidal", "family": "Chalcedony", "freq": 1387.5, "mohs": 6.5, "sg": 2.65, "iem": "balanced_armature", "cut": "cabochon", "colors": {"p": "#D4A574", "s": "#B8860B", "a": "#FFF8DC", "gemmy": false}}, {"id": 128, "name": "Green Aventurine", "shape": "botryoidal", "family": "Chalcedony", "freq": 1387.5, "mohs": 6.5, "sg": 2.65, "iem": "balanced_armature", "cut": "cabochon", "colors": {"p": "#50C878", "s": "#2E8B57", "a": "#90EE90", "gemmy": true}}, {"id": 129, "name": "Red Aventurine", "shape": "botryoidal", "family": "Chalcedony", "freq": 1387.5, "mohs": 6.5, "sg": 2.65, "iem": "balanced_armature", "cut": "cabochon", "colors": {"p": "#DC143C", "s": "#B22222", "a": "#FF6347", "gemmy": true}}, {"id": 130, "name": "Charoite", "shape": "massive", "family": "Charoite", "freq": 1440.0, "mohs": 6, "sg": 2.68, "iem": "balanced_armature", "cut": "cabochon", "colors": {"p": "#8B7355", "s": "#6B5344", "a": "#D4A574", "gemmy": false}}, {"id": 131, "name": "Green Labradorite", "shape": "tabular", "family": "Feldspar", "freq": 1475.0, "mohs": 6, "sg": 2.7, "iem": "balanced_armature", "cut": "cabochon", "colors": {"p": "#50C878", "s": "#2E8B57", "a": "#90EE90", "gemmy": true}}, {"id": 132, "name": "Lemurian Blue Calcite (Blue Onyx)", "shape": "rhombohedron", "family": "Calcite", "freq": 1475.0, "mohs": 3.5, "sg": 2.7, "iem": "balanced_armature", "cut": "cabochon", "colors": {"p": "#4169E1", "s": "#1E90FF", "a": "#87CEEB", "gemmy": true}}, {"id": 133, "name": "Lapis Lazuli", "shape": "massive", "family": "Lapis Lazuli", "freq": 1475.0, "mohs": 5.5, "sg": 2.7, "iem": "balanced_armature", "cut": "cabochon", "colors": {"p": "#26619C", "s": "#1A3F6B", "a": "#FFD700", "gemmy": false, "metallic": true}}, {"id": 134, "name": "Pearl", "shape": "sphere", "family": "Pearl", "freq": 1475.0, "mohs": 2.5, "sg": 2.7, "iem": "balanced_armature", "cut": "uncut_sphere", "colors": {"p": "#FFF8DC", "s": "#F5F5DC", "a": "#FFFFFF", "gemmy": false, "organic": true, "iridescent": true}}, {"id": 135, "name": "Abalone", "shape": "shell", "family": "Abalone", "freq": 1475.0, "mohs": 2.5, "sg": 2.7, "iem": "balanced_armature", "cut": "uncut_natural", "colors": {"p": "#8B7355", "s": "#6B5344", "a": "#D4A574", "gemmy": false}}, {"id": 136, "name": "Ammonite", "shape": "spiral", "family": "Ammonite", "freq": 1475.0, "mohs": 4, "sg": 2.7, "iem": "balanced_armature", "cut": "uncut_natural", "colors": {"p": "#8B7355", "s": "#6B5344", "a": "#D4A574", "gemmy": false}}, {"id": 137, "name": "Preseli Blue Stone", "shape": "massive", "family": "Preseli Blue Stone", "freq": 1475.0, "mohs": 7, "sg": 2.7, "iem": "balanced_armature", "cut": "uncut_natural", "colors": {"p": "#4169E1", "s": "#1E90FF", "a": "#87CEEB", "gemmy": true}}, {"id": 138, "name": "Septarian", "shape": "nodule", "family": "Septarian", "freq": 1475.0, "mohs": 3.5, "sg": 2.7, "iem": "balanced_armature", "cut": "cabochon", "colors": {"p": "#8B7355", "s": "#6B5344", "a": "#D4A574", "gemmy": false}}, {"id": 139, "name": "Turquoise (types found in the Americas)", "shape": "massive", "family": "Turquoise", "freq": 1475.0, "mohs": 6, "sg": 2.7, "iem": "balanced_armature", "cut": "cabochon", "colors": {"p": "#40E0D0", "s": "#00CED1", "a": "#AFEEEE", "gemmy": false}}, {"id": 140, "name": "Turquoise (Tibetan)", "shape": "massive", "family": "Turquoise", "freq": 1475.0, "mohs": 6, "sg": 2.7, "iem": "balanced_armature", "cut": "cabochon", "colors": {"p": "#40E0D0", "s": "#00CED1", "a": "#AFEEEE", "gemmy": false}}, {"id": 141, "name": "Emerald", "shape": "hexagonal", "family": "Beryl", "freq": 1510.0, "mohs": 7.5, "sg": 2.72, "iem": "balanced_armature", "cut": "emerald_cut", "colors": {"p": "#50C878", "s": "#2E8B57", "a": "#98FB98", "gemmy": true}}, {"id": 142, "name": "Morganite", "shape": "hexagonal", "family": "Beryl", "freq": 1510.0, "mohs": 7.5, "sg": 2.72, "iem": "balanced_armature", "cut": "emerald_cut", "colors": {"p": "#50C878", "s": "#2E8B57", "a": "#98FB98", "gemmy": true}}, {"id": 143, "name": "Aquamarine", "shape": "hexagonal", "family": "Beryl", "freq": 1510.0, "mohs": 7.5, "sg": 2.72, "iem": "balanced_armature", "cut": "emerald_cut", "colors": {"p": "#50C878", "s": "#2E8B57", "a": "#98FB98", "gemmy": true}}, {"id": 144, "name": "Sugilite", "shape": "massive", "family": "Sugilite", "freq": 1545.0, "mohs": 6, "sg": 2.74, "iem": "balanced_armature", "cut": "cabochon", "colors": {"p": "#8B7355", "s": "#6B5344", "a": "#D4A574", "gemmy": false}}, {"id": 145, "name": "Larimar", "shape": "massive", "family": "Larimar", "freq": 1650.0, "mohs": 4.5, "sg": 2.8, "iem": "balanced_armature", "cut": "cabochon", "colors": {"p": "#8B7355", "s": "#6B5344", "a": "#D4A574", "gemmy": false}}, {"id": 146, "name": "Lepidolite", "shape": "scaly", "family": "Lepidolite", "freq": 1650.0, "mohs": 2.5, "sg": 2.8, "iem": "balanced_armature", "cut": "cabochon", "colors": {"p": "#8B7355", "s": "#6B5344", "a": "#D4A574", "gemmy": false}}, {"id": 147, "name": "Chrysocolla Azurite", "shape": "botryoidal", "family": "Chrysocolla", "freq": 1650.0, "mohs": 3, "sg": 2.8, "iem": "balanced_armature", "cut": "cabochon", "colors": {"p": "#8B7355", "s": "#6B5344", "a": "#D4A574", "gemmy": false}}, {"id": 148, "name": "Ammolite", "shape": "shell", "family": "Ammolite", "freq": 1650.0, "mohs": 4.5, "sg": 2.8, "iem": "balanced_armature", "cut": "uncut_natural", "colors": {"p": "#8B7355", "s": "#6B5344", "a": "#D4A574", "gemmy": false}}, {"id": 149, "name": "Chinese Writing Stone", "shape": "massive", "family": "Chinese Writing Stone", "freq": 1650.0, "mohs": 4, "sg": 2.8, "iem": "balanced_armature", "cut": "cabochon", "colors": {"p": "#8B7355", "s": "#6B5344", "a": "#D4A574", "gemmy": false}}, {"id": 150, "name": "Chrysanthemum Stone", "shape": "massive", "family": "Chrysanthemum Stone", "freq": 1650.0, "mohs": 4, "sg": 2.8, "iem": "balanced_armature", "cut": "cabochon", "colors": {"p": "#8B7355", "s": "#6B5344", "a": "#D4A574", "gemmy": false}}, {"id": 151, "name": "Kammererite", "shape": "rhombohedron", "family": "Kammererite", "freq": 1650.0, "mohs": 2.5, "sg": 2.8, "iem": "balanced_armature", "cut": "cabochon", "colors": {"p": "#8B7355", "s": "#6B5344", "a": "#D4A574", "gemmy": false}}, {"id": 152, "name": "Unakite", "shape": "massive", "family": "Unakite", "freq": 1737.5, "mohs": 6.5, "sg": 2.85, "iem": "balanced_armature", "cut": "cabochon", "colors": {"p": "#8B7355", "s": "#6B5344", "a": "#D4A574", "gemmy": false}}, {"id": 153, "name": "Prehnite", "shape": "massive", "family": "Prehnite", "freq": 1790.0, "mohs": 6, "sg": 2.88, "iem": "balanced_armature", "cut": "cabochon", "colors": {"p": "#8B7355", "s": "#6B5344", "a": "#D4A574", "gemmy": false}}, {"id": 154, "name": "Eudialyte", "shape": "trigonal_prism", "family": "Eudialyte", "freq": 1825.0, "mohs": 5.5, "sg": 2.9, "iem": "balanced_armature", "cut": "faceted_round", "colors": {"p": "#8B7355", "s": "#6B5344", "a": "#D4A574", "gemmy": false}}, {"id": 155, "name": "Nephrite Jade", "shape": "massive", "family": "Jade", "freq": 1912.5, "mohs": 6, "sg": 2.95, "iem": "balanced_armature", "cut": "cabochon", "colors": {"p": "#50C878", "s": "#2E8B57", "a": "#98FB98", "gemmy": false}}, {"id": 156, "name": "Aragonite", "shape": "rhombohedron", "family": "Calcite", "freq": 1912.5, "mohs": 3.5, "sg": 2.95, "iem": "balanced_armature", "cut": "cabochon", "colors": {"p": "#FFF8DC", "s": "#FFD700", "a": "#FFB347", "gemmy": true}}, {"id": 157, "name": "Water Opal", "shape": "amorphous", "family": "Opal", "freq": 2060.0, "mohs": 5.5, "sg": 1.99, "iem": "electrostatic", "cut": "cabochon", "colors": {"p": "#87CEEB", "s": "#4682B4", "a": "#B0E0E6", "gemmy": true}}, {"id": 158, "name": "Jet", "shape": "amorphous", "family": "Jet", "freq": 6200.0, "mohs": 2.5, "sg": 1.3, "iem": "electrostatic", "cut": "cabochon", "colors": {"p": "#1A1A1A", "s": "#0D0D0D", "a": "#2F2F2F", "gemmy": false, "organic": true}}, {"id": 159, "name": "Amber", "shape": "nodule", "family": "Amber", "freq": 7520.0, "mohs": 2.5, "sg": 1.08, "iem": "electrostatic", "cut": "cabochon_bead", "colors": {"p": "#FFBF00", "s": "#DAA520", "a": "#FFD700", "gemmy": false, "organic": true}}];
+
+// ============================================================
+// SVG GENERATION — per-stone colored SVGs with vibration
+// ============================================================
+function generateStoneSVG(stone) {
+  const c = stone.colors || {p: "#8B7355", s: "#6B5344", a: "#D4A574", gemmy: false};
+  const p = c.p, s = c.s, a = c.a;
+  const gemmy = c.gemmy;
+  const iridescent = c.iridescent;
+  const brilliant = c.brilliant;
+  const metallic = c.metallic;
+  const banded = c.banded;
+  
+  let defs = '';
+  let fillUrl = p;
+  
+  if (brilliant) {
+    defs = '<radialGradient id="g' + stone.id + '"><stop offset="0%" stop-color="#FFFFFF"/><stop offset="40%" stop-color="' + p + '"/><stop offset="100%" stop-color="' + s + '"/></radialGradient>';
+    fillUrl = 'url(#g' + stone.id + ')';
+  } else if (iridescent) {
+    defs = '<radialGradient id="g' + stone.id + '"><stop offset="0%" stop-color="' + a + '"/><stop offset="50%" stop-color="' + p + '"/><stop offset="100%" stop-color="' + s + '"/></radialGradient>';
+    fillUrl = 'url(#g' + stone.id + ')';
+  } else if (gemmy) {
+    defs = '<linearGradient id="g' + stone.id + '" x1="0%" y1="0%" x2="100%" y2="100%"><stop offset="0%" stop-color="' + p + '" stop-opacity="0.9"/><stop offset="100%" stop-color="' + s + '" stop-opacity="0.95"/></linearGradient>';
+    fillUrl = 'url(#g' + stone.id + ')';
+  }
+  
+  const bodyOpacity = gemmy ? '0.85' : '1.0';
+  const facetOpacity = gemmy ? '0.4' : '0.6';
+  
+  // Vibration rate — scaled to frequency
+  const vibRate = Math.max(0.05, Math.min(0.5, 1.0 / (stone.freq / 100.0)));
+  const vibAmp = Math.min(4, Math.max(1, stone.freq / 500.0));
+  
+  // Shape body (same shapes as generated SVGs)
+  const shapes = {"hexagonal": "  <polygon points=\"80,60 160,60 190,100 190,200 160,240 80,240 50,200 50,100\" fill=\"{FILL_URL}\" stroke=\"{S}\" stroke-width=\"2\" opacity=\"{BODY_OPACITY}\"/>\n  <polygon points=\"80,60 160,60 190,100 160,100 80,100 50,100\" fill=\"{FILL_URL}\" stroke=\"{A}\" stroke-width=\"1.5\" opacity=\"{FACET_OPACITY}\"/>\n  <line x1=\"80\" y1=\"60\" x2=\"80\" y2=\"100\" stroke=\"{A}\" stroke-width=\"1\" opacity=\"0.5\"/>\n  <line x1=\"160\" y1=\"60\" x2=\"160\" y2=\"100\" stroke=\"{A}\" stroke-width=\"1\" opacity=\"0.5\"/>\n  <polygon points=\"80,60 160,60 120,30\" fill=\"none\" stroke=\"{S}\" stroke-width=\"1.5\" opacity=\"0.7\"/>", "octahedron": "  <polygon points=\"120,40 190,140 120,240 50,140\" fill=\"{FILL_URL}\" stroke=\"{S}\" stroke-width=\"2\" opacity=\"{BODY_OPACITY}\"/>\n  <line x1=\"120\" y1=\"40\" x2=\"120\" y2=\"240\" stroke=\"{A}\" stroke-width=\"1.5\" opacity=\"{FACET_OPACITY}\"/>\n  <line x1=\"50\" y1=\"140\" x2=\"190\" y2=\"140\" stroke=\"{A}\" stroke-width=\"1.5\" opacity=\"{FACET_OPACITY}\"/>", "cube": "  <polygon points=\"70,80 170,80 170,220 70,220\" fill=\"{FILL_URL}\" stroke=\"{S}\" stroke-width=\"2\" opacity=\"{BODY_OPACITY}\"/>\n  <polygon points=\"70,80 110,50 210,50 170,80\" fill=\"{FILL_URL}\" stroke=\"{A}\" stroke-width=\"1.5\" opacity=\"{FACET_OPACITY}\"/>\n  <polygon points=\"170,80 210,50 210,190 170,220\" fill=\"{FILL_URL}\" stroke=\"{A}\" stroke-width=\"1.5\" opacity=\"{FACET_OPACITY}\"/>\n  <line x1=\"70\" y1=\"80\" x2=\"170\" y2=\"80\" stroke=\"{A}\" stroke-width=\"1\" opacity=\"0.5\"/>", "prism": "  <polygon points=\"90,70 150,70 170,100 170,210 150,240 90,240 70,210 70,100\" fill=\"{FILL_URL}\" stroke=\"{S}\" stroke-width=\"2\" opacity=\"{BODY_OPACITY}\"/>\n  <polygon points=\"90,70 150,70 170,100 150,100 90,100 70,100\" fill=\"{FILL_URL}\" stroke=\"{A}\" stroke-width=\"1\" opacity=\"{FACET_OPACITY}\"/>\n  <polygon points=\"90,70 150,70 120,40\" fill=\"none\" stroke=\"{S}\" stroke-width=\"1.5\" opacity=\"0.7\"/>", "blade": "  <polygon points=\"80,60 160,50 170,70 160,240 90,245 70,225 80,60\" fill=\"{FILL_URL}\" stroke=\"{S}\" stroke-width=\"2\" opacity=\"{BODY_OPACITY}\"/>\n  <line x1=\"80\" y1=\"60\" x2=\"90\" y2=\"245\" stroke=\"{A}\" stroke-width=\"1\" opacity=\"{FACET_OPACITY}\"/>\n  <line x1=\"160\" y1=\"50\" x2=\"160\" y2=\"240\" stroke=\"{A}\" stroke-width=\"1\" opacity=\"{FACET_OPACITY}\"/>", "blade_prism": "  <polygon points=\"85,60 155,55 175,95 175,205 155,245 85,240 65,200 65,100\" fill=\"{FILL_URL}\" stroke=\"{S}\" stroke-width=\"2\" opacity=\"{BODY_OPACITY}\"/>\n  <polygon points=\"85,60 155,55 175,95 155,95 85,95 65,95\" fill=\"{FILL_URL}\" stroke=\"{A}\" stroke-width=\"1\" opacity=\"{FACET_OPACITY}\"/>\n  <polygon points=\"85,60 155,55 120,30\" fill=\"none\" stroke=\"{S}\" stroke-width=\"1.5\" opacity=\"0.7\"/>", "dodecahedron": "  <polygon points=\"120,40 175,75 175,165 120,200 65,165 65,75\" fill=\"{FILL_URL}\" stroke=\"{S}\" stroke-width=\"2\" opacity=\"{BODY_OPACITY}\"/>\n  <polygon points=\"120,40 175,75 120,110 65,75\" fill=\"{FILL_URL}\" stroke=\"{A}\" stroke-width=\"1.5\" opacity=\"{FACET_OPACITY}\"/>\n  <polygon points=\"175,75 175,165 120,130 120,110\" fill=\"{FILL_URL}\" stroke=\"{A}\" stroke-width=\"1.5\" opacity=\"{FACET_OPACITY}\"/>\n  <polygon points=\"65,75 65,165 120,130 120,110\" fill=\"{FILL_URL}\" stroke=\"{A}\" stroke-width=\"1.5\" opacity=\"{FACET_OPACITY}\"/>\n  <polygon points=\"175,165 120,200 120,130\" fill=\"{FILL_URL}\" stroke=\"{A}\" stroke-width=\"1.5\" opacity=\"{FACET_OPACITY}\"/>\n  <polygon points=\"65,165 120,200 120,130\" fill=\"{FILL_URL}\" stroke=\"{A}\" stroke-width=\"1.5\" opacity=\"{FACET_OPACITY}\"/>", "barrel": "  <path d=\"M 80,100 Q 60,140 80,220 L 160,220 Q 180,140 160,100 Z\" fill=\"{FILL_URL}\" stroke=\"{S}\" stroke-width=\"2\" opacity=\"{BODY_OPACITY}\"/>\n  <line x1=\"80\" y1=\"100\" x2=\"160\" y2=\"100\" stroke=\"{A}\" stroke-width=\"1.5\" opacity=\"{FACET_OPACITY}\"/>\n  <line x1=\"60\" y1=\"140\" x2=\"180\" y2=\"140\" stroke=\"{A}\" stroke-width=\"1\" opacity=\"0.3\"/>", "cross": "  <rect x=\"100\" y=\"50\" width=\"40\" height=\"200\" rx=\"5\" fill=\"{FILL_URL}\" stroke=\"{S}\" stroke-width=\"2\" opacity=\"{BODY_OPACITY}\"/>\n  <rect x=\"60\" y=\"110\" width=\"120\" height=\"40\" rx=\"5\" fill=\"{FILL_URL}\" stroke=\"{S}\" stroke-width=\"2\" opacity=\"{BODY_OPACITY}\"/>\n  <line x1=\"120\" y1=\"50\" x2=\"120\" y2=\"250\" stroke=\"{A}\" stroke-width=\"1\" opacity=\"{FACET_OPACITY}\"/>", "triangular_prism": "  <polygon points=\"120,40 180,120 60,120\" fill=\"{FILL_URL}\" stroke=\"{S}\" stroke-width=\"2\" opacity=\"{BODY_OPACITY}\"/>\n  <polygon points=\"120,40 180,120 120,80\" fill=\"{FILL_URL}\" stroke=\"{A}\" stroke-width=\"1.5\" opacity=\"{FACET_OPACITY}\"/>\n  <polygon points=\"180,120 60,120 80,240 160,240\" fill=\"{FILL_URL}\" stroke=\"{S}\" stroke-width=\"2\" opacity=\"{BODY_OPACITY}\"/>\n  <line x1=\"120\" y1=\"80\" x2=\"120\" y2=\"240\" stroke=\"{A}\" stroke-width=\"1\" opacity=\"0.4\"/>", "rhombohedron": "  <polygon points=\"80,80 160,60 190,140 110,160\" fill=\"{FILL_URL}\" stroke=\"{S}\" stroke-width=\"2\" opacity=\"{BODY_OPACITY}\"/>\n  <polygon points=\"80,80 110,160 110,230 80,150\" fill=\"{FILL_URL}\" stroke=\"{A}\" stroke-width=\"1.5\" opacity=\"{FACET_OPACITY}\"/>\n  <polygon points=\"160,60 190,140 190,210 160,230 110,230 110,160\" fill=\"{FILL_URL}\" stroke=\"{A}\" stroke-width=\"1.5\" opacity=\"{FACET_OPACITY}\"/>", "botryoidal": "  <circle cx=\"90\" cy=\"130\" r=\"40\" fill=\"{FILL_URL}\" stroke=\"{S}\" stroke-width=\"2\" opacity=\"{BODY_OPACITY}\"/>\n  <circle cx=\"155\" cy=\"115\" r=\"45\" fill=\"{FILL_URL}\" stroke=\"{S}\" stroke-width=\"2\" opacity=\"{BODY_OPACITY}\"/>\n  <circle cx=\"120\" cy=\"180\" r=\"38\" fill=\"{FILL_URL}\" stroke=\"{S}\" stroke-width=\"2\" opacity=\"{BODY_OPACITY}\"/>\n  <circle cx=\"75\" cy=\"190\" r=\"32\" fill=\"{FILL_URL}\" stroke=\"{S}\" stroke-width=\"2\" opacity=\"{BODY_OPACITY}\"/>\n  <circle cx=\"170\" cy=\"185\" r=\"35\" fill=\"{FILL_URL}\" stroke=\"{S}\" stroke-width=\"2\" opacity=\"{BODY_OPACITY}\"/>", "massive": "  <path d=\"M 60,90 Q 80,60 120,70 Q 170,55 190,100 Q 195,170 170,220 Q 120,245 80,225 Q 55,180 60,90 Z\" fill=\"{FILL_URL}\" stroke=\"{S}\" stroke-width=\"2\" opacity=\"{BODY_OPACITY}\"/>\n  <ellipse cx=\"100\" cy=\"120\" rx=\"20\" ry=\"15\" fill=\"{A}\" opacity=\"0.15\"/>\n  <ellipse cx=\"155\" cy=\"170\" rx=\"25\" ry=\"18\" fill=\"{A}\" opacity=\"0.15\"/>", "nodule": "  <ellipse cx=\"120\" cy=\"140\" rx=\"70\" ry=\"55\" fill=\"{FILL_URL}\" stroke=\"{S}\" stroke-width=\"2\" opacity=\"{BODY_OPACITY}\"/>\n  <ellipse cx=\"100\" cy=\"120\" rx=\"25\" ry=\"20\" fill=\"{A}\" opacity=\"0.2\"/>", "sphere": "  <circle cx=\"120\" cy=\"140\" r=\"75\" fill=\"{FILL_URL}\" stroke=\"{S}\" stroke-width=\"2\" opacity=\"{BODY_OPACITY}\"/>\n  <ellipse cx=\"100\" cy=\"115\" rx=\"30\" ry=\"20\" fill=\"{A}\" opacity=\"0.3\"/>\n  <circle cx=\"135\" cy=\"165\" r=\"15\" fill=\"{S}\" opacity=\"0.3\"/>", "dendrite": "  <rect x=\"70\" y=\"60\" width=\"100\" height=\"180\" rx=\"5\" fill=\"{FILL_URL}\" stroke=\"{S}\" stroke-width=\"2\" opacity=\"0.3\"/>\n  <path d=\"M 120,70 L 120,100 M 120,100 L 100,120 M 120,100 L 140,115 M 100,120 L 85,140 M 100,120 L 110,145 M 140,115 L 155,135 M 140,115 L 130,140 M 85,140 L 75,165 M 110,145 L 100,170 M 130,140 L 125,170 M 155,135 L 160,160\" stroke=\"{A}\" stroke-width=\"2\" opacity=\"{BODY_OPACITY}\" fill=\"none\"/>\n  <path d=\"M 120,170 L 120,200 M 100,170 L 95,195 M 140,170 L 150,200\" stroke=\"{A}\" stroke-width=\"1.5\" opacity=\"{BODY_OPACITY}\" fill=\"none\"/>", "fibrous": "  <path d=\"M 80,60 L 85,240 M 95,55 L 102,245 M 110,52 L 118,248 M 125,50 L 135,248 M 140,52 L 150,245 M 155,55 L 168,240 M 170,58 L 178,235\" stroke=\"{S}\" stroke-width=\"2\" opacity=\"{BODY_OPACITY}\"/>\n  <path d=\"M 80,60 L 170,58 M 85,240 L 178,235\" stroke=\"{A}\" stroke-width=\"1.5\" opacity=\"0.5\"/>", "platy": "  <polygon points=\"60,120 100,80 180,80 200,120 180,160 100,160\" fill=\"{FILL_URL}\" stroke=\"{S}\" stroke-width=\"2\" opacity=\"{BODY_OPACITY}\"/>\n  <polygon points=\"80,145 120,105 200,105 220,145 200,185 120,185\" fill=\"{FILL_URL}\" stroke=\"{A}\" stroke-width=\"1.5\" opacity=\"{FACET_OPACITY}\"/>\n  <polygon points=\"70,175 110,135 190,135 210,175 190,215 110,215\" fill=\"{FILL_URL}\" stroke=\"{S}\" stroke-width=\"1.5\" opacity=\"{FACET_OPACITY}\"/>", "scaly": "  <path d=\"M 70,70 L 170,60 L 180,140 L 170,220 L 80,230 L 60,150 Z\" fill=\"{FILL_URL}\" stroke=\"{S}\" stroke-width=\"2\" opacity=\"0.3\"/>\n  <path d=\"M 80,80 Q 95,95 110,85 M 120,90 Q 135,105 150,95 M 95,115 Q 110,130 125,120 M 135,125 Q 150,140 165,130 M 85,155 Q 100,170 115,160 M 125,165 Q 140,180 155,170 M 95,195 Q 110,210 125,200 M 135,200 Q 150,215 165,205\" stroke=\"{A}\" stroke-width=\"2\" opacity=\"{BODY_OPACITY}\" fill=\"none\"/>", "spiral": "  <path d=\"M 120,140 m 0,0 a 20,20 0 1,0 0.1,0 M 120,140 m 0,0 a 35,35 0 1,0 0.1,0 M 120,140 m 0,0 a 50,50 0 1,0 0.1,0 M 120,140 m 0,0 a 65,65 0 1,0 0.1,0 M 120,140 m 0,0 a 80,80 0 1,0 0.1,0\" fill=\"none\" stroke=\"{S}\" stroke-width=\"2.5\" opacity=\"{BODY_OPACITY}\"/>\n  <path d=\"M 120,140 m 0,0 a 20,20 0 1,0 0.1,0\" fill=\"none\" stroke=\"{A}\" stroke-width=\"1.5\" opacity=\"0.6\"/>", "tabular": "  <polygon points=\"60,100 180,90 190,160 170,210 60,200 50,150\" fill=\"{FILL_URL}\" stroke=\"{S}\" stroke-width=\"2\" opacity=\"{BODY_OPACITY}\"/>\n  <polygon points=\"60,100 180,90 170,120 70,130\" fill=\"{FILL_URL}\" stroke=\"{A}\" stroke-width=\"1.5\" opacity=\"{FACET_OPACITY}\"/>", "short_prism": "  <polygon points=\"75,100 165,100 185,130 185,190 165,220 75,220 55,190 55,130\" fill=\"{FILL_URL}\" stroke=\"{S}\" stroke-width=\"2\" opacity=\"{BODY_OPACITY}\"/>\n  <polygon points=\"75,100 165,100 185,130 165,130 75,130 55,130\" fill=\"{FILL_URL}\" stroke=\"{A}\" stroke-width=\"1.5\" opacity=\"{FACET_OPACITY}\"/>\n  <polygon points=\"75,100 165,100 120,75\" fill=\"none\" stroke=\"{S}\" stroke-width=\"1.5\" opacity=\"0.7\"/>", "pseudohexagonal": "  <polygon points=\"80,80 160,80 195,120 160,240 80,240 45,120\" fill=\"{FILL_URL}\" stroke=\"{S}\" stroke-width=\"2\" opacity=\"{BODY_OPACITY}\"/>\n  <line x1=\"80\" y1=\"80\" x2=\"80\" y2=\"240\" stroke=\"{A}\" stroke-width=\"1\" opacity=\"0.4\"/>\n  <line x1=\"160\" y1=\"80\" x2=\"160\" y2=\"240\" stroke=\"{A}\" stroke-width=\"1\" opacity=\"0.4\"/>\n  <line x1=\"120\" y1=\"80\" x2=\"120\" y2=\"240\" stroke=\"{A}\" stroke-width=\"1\" opacity=\"0.3\"/>", "branch": "  <path d=\"M 120,60 L 120,240 M 120,100 L 80,120 L 60,140 M 120,130 L 160,150 L 175,170 M 120,170 L 90,195 L 75,210 M 120,180 L 150,210\" stroke=\"{S}\" stroke-width=\"3\" opacity=\"{BODY_OPACITY}\" fill=\"none\"/>\n  <circle cx=\"60\" cy=\"140\" r=\"5\" fill=\"{A}\" opacity=\"0.7\"/>\n  <circle cx=\"175\" cy=\"170\" r=\"5\" fill=\"{A}\" opacity=\"0.7\"/>\n  <circle cx=\"75\" cy=\"210\" r=\"5\" fill=\"{A}\" opacity=\"0.7\"/>", "twinned": "  <polygon points=\"60,80 120,60 120,150 60,170\" fill=\"{FILL_URL}\" stroke=\"{S}\" stroke-width=\"2\" opacity=\"{BODY_OPACITY}\"/>\n  <polygon points=\"120,60 180,80 180,170 120,150\" fill=\"{FILL_URL}\" stroke=\"{A}\" stroke-width=\"2\" opacity=\"{BODY_OPACITY}\"/>\n  <line x1=\"120\" y1=\"60\" x2=\"120\" y2=\"150\" stroke=\"{A}\" stroke-width=\"1.5\" opacity=\"0.5\"/>", "shell": "  <path d=\"M 60,200 Q 60,80 120,60 Q 180,80 180,200 Z\" fill=\"{FILL_URL}\" stroke=\"{S}\" stroke-width=\"2\" opacity=\"{BODY_OPACITY}\"/>\n  <path d=\"M 120,60 L 120,200 M 100,80 L 105,200 M 140,80 L 135,200 M 80,100 L 85,200 M 160,100 L 155,200\" stroke=\"{A}\" stroke-width=\"1\" opacity=\"0.4\"/>"};
+  const body = shapes[stone.shape] || shapes.massive;
+  
+  // Replace color placeholders
+  const bodyHtml = body
+    .replace(/\{FILL_URL\}/g, fillUrl)
+    .replace(/\{P\}/g, p)
+    .replace(/\{S\}/g, s)
+    .replace(/\{A\}/g, a)
+    .replace(/\{BODY_OPACITY\}/g, bodyOpacity)
+    .replace(/\{FACET_OPACITY\}/g, facetOpacity);
+  
+  const iemColors = {
+    bone_conduction: "#8B0000",
+    dynamic_driver: "#DAA520",
+    balanced_armature: "#4169E1",
+    electrostatic: "#9370DB",
+  };
+  const iemColor = iemColors[stone.iem] || "#8B7355";
+  
+  return '<svg xmlns="http://www.w3.org/2000/svg" width="240" height="320" viewBox="0 0 240 320" class="stone-svg">' +
+    '<defs>' + defs + '</defs>' +
+    '<style>' +
+    '.stone-body-' + stone.id + ' { transform-origin: 120px 140px; animation: vibrate' + stone.id + ' ' + vibRate.toFixed(3) + 's ease-in-out infinite alternate; animation-play-state: paused; }' +
+    '.stone-body-' + stone.id + '.vibrating { animation-play-state: running; }' +
+    '@keyframes vibrate' + stone.id + ' { ' +
+    '0% { transform: translate(0, 0) rotate(0deg); } ' +
+    '25% { transform: translate(' + (vibAmp*0.3).toFixed(1) + 'px, -' + (vibAmp*0.5).toFixed(1) + 'px) rotate(' + (vibAmp*0.1).toFixed(1) + 'deg); } ' +
+    '50% { transform: translate(-' + (vibAmp*0.2).toFixed(1) + 'px, ' + (vibAmp*0.3).toFixed(1) + 'px) rotate(-' + (vibAmp*0.1).toFixed(1) + 'deg); } ' +
+    '75% { transform: translate(' + (vibAmp*0.4).toFixed(1) + 'px, ' + (vibAmp*0.2).toFixed(1) + 'px) rotate(' + (vibAmp*0.05).toFixed(1) + 'deg); } ' +
+    '100% { transform: translate(-' + (vibAmp*0.3).toFixed(1) + 'px, -' + (vibAmp*0.4).toFixed(1) + 'px) rotate(0deg); } }' +
+    '</style>' +
+    '<g class="stone-body-' + stone.id + '">' +
+    bodyHtml +
+    '</g>' +
+    '<text x="120" y="275" style="font-family:Georgia,serif;font-size:11px;fill:' + s + ';text-anchor:middle;font-style:italic">' + stone.name + '</text>' +
+    '<text x="120" y="290" style="font-family:Courier New,monospace;font-size:9px;fill:' + iemColor + ';text-anchor:middle">' + stone.freq.toFixed(1) + ' Hz</text>' +
+    '<text x="120" y="303" style="font-family:Courier New,monospace;font-size:8px;fill:' + s + ';text-anchor:middle;opacity:0.6">Mohs ' + stone.mohs + ' · SG ' + stone.sg + '</text>' +
+    '</svg>';
+}
+
+// ============================================================
+// AUDIO ENGINE — Web Audio API tone generation
+// ============================================================
+let audioCtx = null;
+let activeOscillators = {};
+let activeHaptic = null;
+let hapticEnabled = false;
+
+function initAudio() {
+  if (!audioCtx) {
+    audioCtx = new (window.AudioContext || window.webkitAudioContext)();
+  }
+  if (audioCtx.state === 'suspended') {
+    audioCtx.resume();
+  }
+}
+
+function playStoneTone(stone, duration = 0) {
+  initAudio();
+  
+  // Stop existing tone
+  stopStoneTone();
+  
+  const freq = stone.freq;
+  const now = audioCtx.currentTime;
+  const dur = duration > 0 ? duration : 999; // long sustain if no duration
+  
+  // Main oscillator
+  const osc = audioCtx.createOscillator();
+  osc.type = 'sine';
+  osc.frequency.value = freq;
+  
+  // Volume scaling — lower freqs need more gain, higher freqs need less
+  const volScale = freq < 100 ? 0.3 : freq < 500 ? 0.15 : freq < 1000 ? 0.08 : 0.04;
+  
+  const gain = audioCtx.createGain();
+  gain.gain.setValueAtTime(0, now);
+  gain.gain.linearRampToValueAtTime(volScale, now + 0.05); // quick attack
+  if (duration > 0) {
+    gain.gain.linearRampToValueAtTime(volScale, now + dur - 0.1);
+    gain.gain.linearRampToValueAtTime(0, now + dur); // release
+  }
+  
+  // Lowpass filter for warmth
+  const filter = audioCtx.createBiquadFilter();
+  filter.type = 'lowpass';
+  filter.frequency.value = Math.max(200, freq * 2);
+  filter.Q.value = 1;
+  
+  // 42Hz drone underneath (the Song)
+  const droneOsc = audioCtx.createOscillator();
+  droneOsc.type = 'sine';
+  droneOsc.frequency.value = 42;
+  
+  const droneGain = audioCtx.createGain();
+  droneGain.gain.setValueAtTime(0, now);
+  droneGain.gain.linearRampToValueAtTime(0.04, now + 0.1);
+  if (duration > 0) {
+    droneGain.gain.linearRampToValueAtTime(0.04, now + dur - 0.1);
+    droneGain.gain.linearRampToValueAtTime(0, now + dur);
+  }
+  
+  // Sub-harmonic for high frequencies (ground the high tones)
+  let subOsc = null, subGain = null;
+  if (freq > 800) {
+    subOsc = audioCtx.createOscillator();
+    subOsc.type = 'sine';
+    subOsc.frequency.value = freq / 4;
+    subGain = audioCtx.createGain();
+    subGain.gain.setValueAtTime(0, now);
+    subGain.gain.linearRampToValueAtTime(volScale * 0.5, now + 0.05);
+    if (duration > 0) {
+      subGain.gain.linearRampToValueAtTime(volScale * 0.5, now + dur - 0.1);
+      subGain.gain.linearRampToValueAtTime(0, now + dur);
+    }
+  }
+  
+  // Connect
+  osc.connect(filter);
+  filter.connect(gain);
+  gain.connect(audioCtx.destination);
+  
+  droneOsc.connect(droneGain);
+  droneGain.connect(audioCtx.destination);
+  
+  if (subOsc) {
+    subOsc.connect(subGain);
+    subGain.connect(audioCtx.destination);
+  }
+  
+  // Start
+  osc.start(now);
+  droneOsc.start(now);
+  if (subOsc) subOsc.start(now);
+  
+  if (duration > 0) {
+    osc.stop(now + dur);
+    droneOsc.stop(now + dur);
+    if (subOsc) subOsc.stop(now + dur);
+  }
+  
+  activeOscillators = {
+    osc, gain, droneOsc, droneGain, subOsc, subGain,
+    stone: stone,
+  };
+  
+  // Haptic feedback
+  if (hapticEnabled) {
+    triggerHaptic(stone);
+  }
+}
+
+function stopStoneTone() {
+  if (activeOscillators.osc) {
+    const now = audioCtx ? audioCtx.currentTime : 0;
+    try {
+      if (activeOscillators.gain) {
+        activeOscillators.gain.gain.cancelScheduledValues(now);
+        activeOscillators.gain.gain.linearRampToValueAtTime(0, now + 0.05);
+      }
+      if (activeOscillators.droneGain) {
+        activeOscillators.droneGain.gain.cancelScheduledValues(now);
+        activeOscillators.droneGain.gain.linearRampToValueAtTime(0, now + 0.05);
+      }
+      if (activeOscillators.subGain) {
+        activeOscillators.subGain.gain.cancelScheduledValues(now);
+        activeOscillators.subGain.gain.linearRampToValueAtTime(0, now + 0.05);
+      }
+      activeOscillators.osc.stop(now + 0.06);
+      activeOscillators.droneOsc.stop(now + 0.06);
+      if (activeOscillators.subOsc) activeOscillators.subOsc.stop(now + 0.06);
+    } catch(e) {}
+  }
+  activeOscillators = {};
+  
+  // Stop haptic
+  if (activeHaptic) {
+    clearInterval(activeHaptic);
+    activeHaptic = null;
+  }
+  
+  // Remove vibrating class from all stones
+  document.querySelectorAll('[class*="stone-body-"]').forEach(el => el.classList.remove('vibrating'));
+  document.querySelectorAll('.stone-card').forEach(el => el.classList.remove('vibrating'));
+  document.getElementById('vibeIndicator').classList.remove('active');
+}
+
+// ============================================================
+// HAPTIC FEEDBACK — touch sensory
+// ============================================================
+function triggerHaptic(stone) {
+  if (!hapticEnabled) return;
+  
+  const freq = stone.freq;
+  const iem = stone.iem;
+  
+  // Different haptic patterns per IEM driver type
+  let pattern = [];
+  
+  if (iem === 'bone_conduction') {
+    // Deep, slow, strong pulses
+    const interval = Math.max(50, Math.min(500, 1000 / (freq / 10)));
+    pattern = [100, 50, 100, 50, 100];
+  } else if (iem === 'dynamic_driver') {
+    // Medium rhythmic pulses
+    const interval = Math.max(30, Math.min(200, 500 / (freq / 20)));
+    pattern = [50, 30, 50, 30, 50, 30, 50];
+  } else if (iem === 'balanced_armature') {
+    // Quick precise pulses
+    pattern = [20, 20, 20, 20, 20, 20, 20, 20];
+  } else if (iem === 'electrostatic') {
+    // Very fast, subtle pulses
+    pattern = [10, 10, 10, 10, 10, 10, 10, 10, 10, 10];
+  }
+  
+  // Try navigator.vibrate (Android Chrome)
+  if (navigator.vibrate) {
+    navigator.vibrate(pattern);
+  }
+  
+  // For iOS/other — use a loop of short vibrations
+  if (navigator.vibrate) {
+    let idx = 0;
+    activeHaptic = setInterval(() => {
+      if (idx < pattern.length) {
+        navigator.vibrate(pattern[idx]);
+        idx++;
+      } else {
+        idx = 0; // loop while touching
+      }
+    }, 100);
+  }
+}
+
+function toggleHaptic() {
+  hapticEnabled = !hapticEnabled;
+  const toggle = document.getElementById('hapticToggle');
+  const status = document.getElementById('hapticStatus');
+  
+  if (hapticEnabled) {
+    toggle.classList.add('active');
+    status.textContent = navigator.vibrate ? 'On' : 'Unsupported';
+    if (!navigator.vibrate) {
+      status.textContent = 'No API';
+      hapticEnabled = false;
+      toggle.classList.remove('active');
+    }
+  } else {
+    toggle.classList.remove('active');
+    status.textContent = 'Off';
+    if (navigator.vibrate) navigator.vibrate(0);
+  }
+}
+
+// ============================================================
+// STONE GRID — render all stones
+// ============================================================
+let currentFilter = 'all';
+let renderedStones = [];
+
+function renderStoneGrid() {
+  const grid = document.getElementById('stoneGrid');
+  grid.innerHTML = '';
+  
+  const filtered = currentFilter === 'all' 
+    ? STONE_DATA 
+    : STONE_DATA.filter(s => s.iem === currentFilter);
+  
+  renderedStones = filtered;
+  
+  filtered.forEach((stone, idx) => {
+    const card = document.createElement('div');
+    card.className = 'stone-card';
+    card.dataset.stoneId = stone.id;
+    card.innerHTML = generateStoneSVG(stone);
+    
+    // Add IEM badge
+    const iemColors = {
+      bone_conduction: "#8B0000",
+      dynamic_driver: "#DAA520",
+      balanced_armature: "#4169E1",
+      electrostatic: "#9370DB",
+    };
+    const badge = document.createElement('div');
+    badge.className = 'iem-badge';
+    badge.style.background = iemColors[stone.iem] || "#8B7355";
+    card.appendChild(badge);
+    
+    // Touch/click handlers
+    let isPressed = false;
+    
+    const startVibration = (e) => {
+      e.preventDefault();
+      e.stopPropagation();
+      isPressed = true;
+      
+      // Add vibrating class to stone body
+      const stoneBody = card.querySelector('[class*="stone-body-"]');
+      if (stoneBody) stoneBody.classList.add('vibrating');
+      card.classList.add('vibrating');
+      
+      // Play tone
+      playStoneTone(stone);
+      
+      // Show indicator
+      const indicator = document.getElementById('vibeIndicator');
+      indicator.textContent = stone.name + ' · ' + stone.freq.toFixed(1) + ' Hz';
+      indicator.classList.add('active');
+    };
+    
+    const stopVibration = (e) => {
+      if (isPressed) {
+        isPressed = false;
+        stopStoneTone();
+      }
+    };
+    
+    // Mouse
+    card.addEventListener('mousedown', startVibration);
+    card.addEventListener('mouseup', stopVibration);
+    card.addEventListener('mouseleave', stopVibration);
+    
+    // Touch
+    card.addEventListener('touchstart', startVibration, { passive: false });
+    card.addEventListener('touchend', stopVibration, { passive: false });
+    card.addEventListener('touchcancel', stopVibration, { passive: false });
+    
+    grid.appendChild(card);
+  });
+}
+
+// ============================================================
+// FILTERING
+// ============================================================
+function filterStones(filter) {
+  currentFilter = filter;
+  document.querySelectorAll('.filter-btn').forEach(btn => {
+    btn.classList.toggle('active', btn.dataset.filter === filter);
+  });
+  renderStoneGrid();
+}
+
+// ============================================================
+// MODAL (tap to expand)
+// ============================================================
+function openModal(stone) {
+  const modal = document.getElementById('stoneModal');
+  const modalStone = document.getElementById('modalStone');
+  const modalInfo = document.getElementById('modalInfo');
+  
+  modalStone.innerHTML = generateStoneSVG(stone);
+  const stoneBody = modalStone.querySelector('[class*="stone-body-"]');
+  if (stoneBody) stoneBody.classList.add('vibrating');
+  
+  const iemNames = {
+    bone_conduction: 'Bone Conduction',
+    dynamic_driver: 'Dynamic Driver',
+    balanced_armature: 'Balanced Armature',
+    electrostatic: 'Electrostatic',
+  };
+  
+  modalInfo.innerHTML = 
+    '<h2>' + stone.name + '</h2>' +
+    '<div class="freq-display">' + stone.freq.toFixed(1) + ' Hz</div>' +
+    '<div class="specs">Mohs ' + stone.mohs + ' · SG ' + stone.sg + ' · ' + iemNames[stone.iem] + '</div>' +
+    '<div class="specs">Crystal Habit: ' + stone.shape.replace(/_/g, ' ') + '</div>';
+  
+  modal.classList.add('active');
+  playStoneTone(stone);
+}
+
+function closeModal(e) {
+  if (e.target === document.getElementById('stoneModal')) {
+    closeModalDirect();
+  }
+}
+
+function closeModalDirect() {
+  document.getElementById('stoneModal').classList.remove('active');
+  stopStoneTone();
+}
+
+// ============================================================
+// INIT
+// ============================================================
+renderStoneGrid();
+
+// Stop all on page hide
+document.addEventListener('visibilitychange', () => {
+  if (document.hidden) stopStoneTone();
+});
+
+</script>
+
+</body>
+</html>
