@@ -1,0 +1,3933 @@
+[
+  {
+    "name": "Sun-Bleached Ankh Scepter",
+    "description": "A tall ceremonial scepter fashioned from carved red sandstone and wrapped with sun-bleached papyrus cordage. Its contours echo O'Keeffe's stark desert bone shapes.",
+    "itemType": "QuestItem",
+    "materials": [
+      "sandstone",
+      "papyrus",
+      "gold ore"
+    ],
+    "zone": "Egypt",
+    "interactiveProperties": "When placed upon the Horizon Pedestal, it channels direct sunlight to unlock the Chamber of the Sun.",
+    "basedOn": "Egyptian iconography of eternal life rendered through Georgia O'Keeffe's monumental, sun-baked desert bone aesthetic.",
+    "variants": [
+      "Ochre Sandstone",
+      "Bleached Bone White"
+    ]
+  },
+  {
+    "name": "Papyrus Scroll of the Horizon",
+    "description": "An ancient papyrus manuscript adorned with magnified, sweeping red-and-gold pigment lines representing the daily arc of Ra across the desert vault.",
+    "itemType": "QuestItem",
+    "materials": [
+      "papyrus",
+      "desert glass",
+      "copper"
+    ],
+    "zone": "Egypt",
+    "interactiveProperties": "Can be deciphered at a scholar's desk to reveal the hidden star alignment sequence for the Tomb of the Astronomy Priests.",
+    "basedOn": "Ancient Egyptian funerary scrolls synthesized with O'Keeffe's fluid, large-scale sky gradient compositions.",
+    "variants": [
+      "Dawn Horizon",
+      "Dusk Horizon"
+    ]
+  },
+  {
+    "name": "O'Keeffe Sun-Dappled Sunken Altar",
+    "description": "A massive, sculpted sandstone basin featuring smooth organic curves that capture shifting shadows as the desert sun moves overhead.",
+    "itemType": "Interactive",
+    "materials": [
+      "sandstone",
+      "limestone (imported)",
+      "copper"
+    ],
+    "zone": "Egypt",
+    "interactiveProperties": "Players can pour sacred desert water into the basin to trigger a light reflection puzzle that activates tomb door mechanisms.",
+    "basedOn": "O'Keeffe's architectural landforms and desert canyon geometry fused with ancient Egyptian offering tables.",
+    "variants": [
+      "Red Canyon Sandstone",
+      "Tura Limestone"
+    ]
+  },
+  {
+    "name": "Sarcophagus Scale Puzzle Lock",
+    "description": "An intricate stone lock mechanism embedded in tomb entrances, carved with oversized organic lotus blossoms and stylized scarabs.",
+    "itemType": "Interactive",
+    "materials": [
+      "sandstone",
+      "desert glass",
+      "gold ore",
+      "lapis lazuli"
+    ],
+    "zone": "Egypt",
+    "interactiveProperties": "Players rotate concentric stone rings to align sunburst patterns and open sealed burial vaults.",
+    "basedOn": "Ancient Egyptian tomb locks stylized with O'Keeffe's magnified floral and desert landscape contours.",
+    "variants": [
+      "Gilded Scarab",
+      "Lapis Petal"
+    ]
+  },
+  {
+    "name": "Monolithic Red Sandstone Throne",
+    "description": "A high-backed ceremonial seat carved from a single block of desert sandstone, smoothed along organic lines resembling wind-carved desert cliffs.",
+    "itemType": "Furniture",
+    "materials": [
+      "sandstone",
+      "desert ironwood",
+      "papyrus"
+    ],
+    "zone": "Egypt",
+    "interactiveProperties": "Provides a rested status effect (+15% stamina regeneration) when sat upon by the player or Inn guests.",
+    "basedOn": "Pharaonic royal thrones reinterpreted with O'Keeffe's stark Southwest desert canyon sculpture style.",
+    "variants": [
+      "Red Sandstone",
+      "Bleached Terracotta"
+    ]
+  },
+  {
+    "name": "Magnified Lotus Column Pillar",
+    "description": "A towering structural column whose capital flowers outward into sweeping, simplified lotus petals painted in soft desert tones.",
+    "itemType": "Furniture",
+    "materials": [
+      "sandstone",
+      "limestone (imported)",
+      "copper"
+    ],
+    "zone": "Egypt",
+    "interactiveProperties": "Serves as a structural support in building layouts and radiates ambient warmth to nearby decorative plants.",
+    "basedOn": "Karnak temple lotus columns simplified into O'Keeffe's iconic magnified floral forms.",
+    "variants": [
+      "Sunrise Rose",
+      "Desert Sand"
+    ]
+  },
+  {
+    "name": "Gilded Papyrus Reed Stylus",
+    "description": "A precision writing tool crafted from rigid papyrus stalk reinforced with beaten copper and tipped with polished desert glass.",
+    "itemType": "Tool",
+    "materials": [
+      "papyrus",
+      "copper",
+      "desert glass"
+    ],
+    "zone": "Egypt",
+    "interactiveProperties": "Used to scribe hieroglyphic rubbings from ancient stelae and craft specialized cartouche recipes.",
+    "basedOn": "Ancient Egyptian scribe instruments refined for digital archive cataloging in the Geode Inn.",
+    "variants": [
+      "Copper Tipped",
+      "Desert Glass Tip"
+    ]
+  },
+  {
+    "name": "Desert Glass Scarab Relic",
+    "description": "A radiant scarab amulet carved from translucent silica desert glass formed by ancient meteorite impacts in the Libyan desert.",
+    "itemType": "Collectible",
+    "materials": [
+      "desert glass",
+      "gold ore",
+      "lapis lazuli"
+    ],
+    "zone": "Egypt",
+    "interactiveProperties": "Can be displayed on velvet pedestals inside the Inn to increase room culture rating by 120 points.",
+    "basedOn": "Tutankhamun's meteoritic desert glass pectoral amulets matched with O'Keeffe's luminous desert light study.",
+    "variants": [
+      "Golden Solar",
+      "Azure Lapis Inlay"
+    ]
+  },
+  {
+    "name": "Monet's Olive-Crown Dial",
+    "description": "A bronze solar dial surrounded by a wreath of impressionistic bronze and silver olive leaves that catch and refract dappled sunlight.",
+    "itemType": "QuestItem",
+    "materials": [
+      "bronze",
+      "marble",
+      "silver"
+    ],
+    "zone": "Greece",
+    "interactiveProperties": "Aligning the shadow at solar noon unlocks the lost philosophical discourse of the Academy.",
+    "basedOn": "Greek olive wreaths and sun dials rendered in Monet's shimmering, dappled garden lighting style.",
+    "variants": [
+      "Verdigris Bronze",
+      "Polished Silver Leaf"
+    ]
+  },
+  {
+    "name": "Scroll of the Lyceum's Lost Theorem",
+    "description": "A preserved parchment roll bound with woven silk thread, containing Aristotle's lost commentary on natural harmony and geometry.",
+    "itemType": "QuestItem",
+    "materials": [
+      "parchment",
+      "olive wood",
+      "silk"
+    ],
+    "zone": "Greece",
+    "interactiveProperties": "Delivered to the Inn's Scholar NPC to complete the 'Architecture of Reason' questline.",
+    "basedOn": "Classical Greek philosophical manuscripts and Monet's thematic focus on harmony and perception.",
+    "variants": [
+      "Parchment Roll",
+      "Gilded Margin Edition"
+    ]
+  },
+  {
+    "name": "Impressionist Marble Water Basin",
+    "description": "A shallow basin carved from white Parian marble, filled with water reflecting soft impressionist brushstroke ripples of sky and olive branches.",
+    "itemType": "Interactive",
+    "materials": [
+      "marble",
+      "limestone (imported)",
+      "bronze"
+    ],
+    "zone": "Greece",
+    "interactiveProperties": "Players can float water lilies in the basin or gaze into it to reveal hidden quest clues in the reflections.",
+    "basedOn": "Classical Greek nymph fountains merged directly with Monet's iconic water lily and reflection paintings.",
+    "variants": [
+      "White Parian Marble",
+      "Rose Pentelic Marble"
+    ]
+  },
+  {
+    "name": "Dappled Light Bronze Armillary Sphere",
+    "description": "An astronomical instrument of interlinking bronze rings set upon a fluted marble pedestal, casting delicate dappled shadows.",
+    "itemType": "Interactive",
+    "materials": [
+      "bronze",
+      "marble",
+      "copper"
+    ],
+    "zone": "Greece",
+    "interactiveProperties": "Players can spin the celestial rings to align constellations and project starry light patterns onto room walls.",
+    "basedOn": "Hellenistic astronomical instruments rendered through Monet's interest in light diffusion and atmospheric haze.",
+    "variants": [
+      "Patinated Bronze",
+      "Gilded Brass"
+    ]
+  },
+  {
+    "name": "Sunlit Olive Wood Philosopher Bench",
+    "description": "A spacious outdoor bench carved from seasoned olive wood with soft curved backrests designed for long philosophical debates.",
+    "itemType": "Furniture",
+    "materials": [
+      "olive wood",
+      "bronze",
+      "terracotta"
+    ],
+    "zone": "Greece",
+    "interactiveProperties": "Seats up to three avatars simultaneously and boosts intellectual crafting success rate by 10%.",
+    "basedOn": "Agora debate benches from classical Athens softened by Monet's plein-air outdoor furniture aesthetics.",
+    "variants": [
+      "Natural Olive Wood",
+      "Bleached Ash Finish"
+    ]
+  },
+  {
+    "name": "Fluted Parian Marble Pedestal",
+    "description": "An elegant marble column section with delicate fluting that reflects ambient light in soft pastel hues.",
+    "itemType": "Furniture",
+    "materials": [
+      "marble",
+      "limestone (imported)"
+    ],
+    "zone": "Greece",
+    "interactiveProperties": "Acts as a display platform for artifacts, statues, or urns, increasing nearby item beauty score.",
+    "basedOn": "Doric and Ionic classical columns bathed in Monet's soft impressionistic Mediterranean morning light.",
+    "variants": [
+      "Parian White",
+      "Ivory Cream"
+    ]
+  },
+  {
+    "name": "Bronze Caliper of Golden Ratios",
+    "description": "A precise measuring tool crafted from cast bronze and silver rivets, used by ancient architects to calculate divine proportions.",
+    "itemType": "Tool",
+    "materials": [
+      "bronze",
+      "silver",
+      "olive wood"
+    ],
+    "zone": "Greece",
+    "interactiveProperties": "Equipped while building structures to unlock perfect golden ratio blueprint snapping and bonus stability.",
+    "basedOn": "Hellenistic mathematical instruments and Monet's structural canvas compositions.",
+    "variants": [
+      "Bronze & Silver",
+      "Aged Brass"
+    ]
+  },
+  {
+    "name": "Petrified Olive Leaf Pendant",
+    "description": "An ancient olive leaf preserved in clear calcite matrix, hung on a fine bronze wire loop.",
+    "itemType": "Collectible",
+    "materials": [
+      "olive wood",
+      "marble",
+      "bronze"
+    ],
+    "zone": "Greece",
+    "interactiveProperties": "Can be stored in the archive collection cabinet to unlock the 'Athena's Blessing' lore entry.",
+    "basedOn": "Sacred olive groves of Athens and Monet's shimmering foliage textures.",
+    "variants": [
+      "Calcite Cased",
+      "Gold Leaf Plated"
+    ]
+  },
+  {
+    "name": "Cuneiform Tablet of the Deluge",
+    "description": "A heavy baked clay tablet carved with sharp cuneiform script and bordered by dramatic Hokusai-style swirling wave engravings.",
+    "itemType": "QuestItem",
+    "materials": [
+      "baked brick",
+      "clay/mudbrick",
+      "bitumen"
+    ],
+    "zone": "Mesopotamia",
+    "interactiveProperties": "Translating the tablet at the Scribe's Desk reveals the location of the Great Marsh Ziggurat.",
+    "basedOn": "The Epic of Gilgamesh Flood Tablet combined with Hokusai's iconic Great Wave printmaking aesthetic.",
+    "variants": [
+      "Terracotta Red",
+      "Bitumen Black Accent"
+    ]
+  },
+  {
+    "name": "Golden Bull Head of Ur",
+    "description": "A majestic lyre lyre-ornament depicting a sacred bull with a lapis lazuli beard and sweeping horns rendered in dynamic woodblock-style curves.",
+    "itemType": "QuestItem",
+    "materials": [
+      "gold ore",
+      "lapis lazuli",
+      "cedar"
+    ],
+    "zone": "Mesopotamia",
+    "interactiveProperties": "Mounted onto the Royal Lyre of Ur to restore ancient Mesopotamian musical acoustics in the Inn.",
+    "basedOn": "The Royal Tombs of Ur lyre ornaments stylized with Hokusai's expressive animal silhouettes.",
+    "variants": [
+      "Lapis Bearded",
+      "Gilded Ochre"
+    ]
+  },
+  {
+    "name": "Bitumen-Sealed Reed Sluice Gate",
+    "description": "A heavy marsh floodgate woven from dense river reeds and caulked with dark water-resistant bitumen, featuring stylized wave crests.",
+    "itemType": "Interactive",
+    "materials": [
+      "reed",
+      "bitumen",
+      "clay/mudbrick"
+    ],
+    "zone": "Mesopotamia",
+    "interactiveProperties": "Players can raise or lower the gate handle to control water flow in the Inn's irrigation canals.",
+    "basedOn": "Ancient Sumerian canal management infrastructure drawn with Hokusai's woodblock print outline vigor.",
+    "variants": [
+      "Bitumen Black",
+      "Natural Reed Tan"
+    ]
+  },
+  {
+    "name": "Hokusai Crested Wave Clay Stamp Wheel",
+    "description": "A cylindrical terracotta seal mounted on a wooden spindle, designed to roll intricate wave and ziggurat patterns onto soft clay bricks.",
+    "itemType": "Interactive",
+    "materials": [
+      "clay/mudbrick",
+      "cedar",
+      "copper"
+    ],
+    "zone": "Mesopotamia",
+    "interactiveProperties": "Interacting with raw mudbrick stacks stamps them with ornamental wave crests prior to kiln firing.",
+    "basedOn": "Mesopotamian cylinder seals crossed with Hokusai's thirty-six views wave motifs.",
+    "variants": [
+      "Prussian Blue Glaze",
+      "Raw Clay"
+    ]
+  },
+  {
+    "name": "Glazed Cobalt Mudbrick Table",
+    "description": "A sturdy low table constructed from baked mudbricks glazed in vibrant lapis blue, reminiscent of the Ishtar Gate.",
+    "itemType": "Furniture",
+    "materials": [
+      "baked brick",
+      "lapis lazuli",
+      "bitumen"
+    ],
+    "zone": "Mesopotamia",
+    "interactiveProperties": "Provides surface storage for up to four small items and grants an ambiance bonus to nearby dining areas.",
+    "basedOn": "Babylonian glazed architectural brickwork rendered in Hokusai's intense Prussian blue pigment palette.",
+    "variants": [
+      "Ishtar Cobalt",
+      "Sumerian Ochre"
+    ]
+  },
+  {
+    "name": "Marsh-Reed Braided Screen Bed",
+    "description": "A elevated sleeping couch constructed from bound marsh reeds and bitumen-coated cedar legs, topped with woven linen mats.",
+    "itemType": "Furniture",
+    "materials": [
+      "reed",
+      "cedar",
+      "bitumen"
+    ],
+    "zone": "Mesopotamia",
+    "interactiveProperties": "Allows avatars to rest and skip night hours in the game cycle.",
+    "basedOn": "Sumerian marsh dweller furniture (Madan architecture) with Hokusai's graphic textile patterns.",
+    "variants": [
+      "Marsh Green",
+      "Dried Gold Reed"
+    ]
+  },
+  {
+    "name": "Bronze Reed Cuneiform Stylus",
+    "description": "A bevel-tipped stylus forged from bronze with a carved reed handle, ideal for making crisp wedge marks in soft clay.",
+    "itemType": "Tool",
+    "materials": [
+      "bronze",
+      "reed",
+      "copper"
+    ],
+    "zone": "Mesopotamia",
+    "interactiveProperties": "Used to write custom archival notes on wet clay tablets or craft tablet recipes.",
+    "basedOn": "Traditional Mesopotamian scribal instruments.",
+    "variants": [
+      "Polished Bronze",
+      "Raw Copper"
+    ]
+  },
+  {
+    "name": "Lapis Lazuli Cylinder Seal",
+    "description": "A small carved cylinder of deep blue lapis lazuli engraved with miniature scenes of gods taming roaring wave monsters.",
+    "itemType": "Collectible",
+    "materials": [
+      "lapis lazuli",
+      "gold ore"
+    ],
+    "zone": "Mesopotamia",
+    "interactiveProperties": "Can be stamped onto wax or clay in the catalog ledger to verify rare document authenticity.",
+    "basedOn": "Sumerian and Akkadian cylinder seals showcasing mythic heroism and Hokusai's dynamic monster lines.",
+    "variants": [
+      "Royal Lapis",
+      "Gold Cap Inlay"
+    ]
+  },
+  {
+    "name": "Grail Maiden's Enameled Reliquary",
+    "description": "An opulent casket of chiseled silver and dark English oak, encrusted with ruby enamels depicting the vision of the Holy Grail.",
+    "itemType": "QuestItem",
+    "materials": [
+      "english oak",
+      "silver",
+      "stained glass",
+      "granite"
+    ],
+    "zone": "Camelot",
+    "interactiveProperties": "Placing the Chalice of Light inside activates the glowing stained-glass sanctuary doors.",
+    "basedOn": "Arthurian grail mythology rendered in Gustave Moreau's jewel-encrusted Symbolist painterly detail.",
+    "variants": [
+      "Ruby Enamel",
+      "Sapphire Enamel"
+    ]
+  },
+  {
+    "name": "Chivalric Vow Parchment Scroll",
+    "description": "An illuminated oath scroll bound in purple velvet and sealed with gold leaf, inscribed with the code of the Round Table.",
+    "itemType": "QuestItem",
+    "materials": [
+      "parchment",
+      "gold ore",
+      "velvet",
+      "english oak"
+    ],
+    "zone": "Camelot",
+    "interactiveProperties": "Used at the Great Hall Bench to knight companion NPCs and boost their loyalty stat.",
+    "basedOn": "Arthurian chivalric romance manuscripts and Moreau's mysterious, dreamlike heraldic symbolism.",
+    "variants": [
+      "Crimson Seal",
+      "Royal Purple Seal"
+    ]
+  },
+  {
+    "name": "Jeweled Round Table Compass",
+    "description": "A heavy table-mounted brass dial set into a starburst pattern of English oak and inlaid silver, pointing toward sacred quest sites.",
+    "itemType": "Interactive",
+    "materials": [
+      "english oak",
+      "silver",
+      "granite",
+      "gold ore"
+    ],
+    "zone": "Camelot",
+    "interactiveProperties": "Players turn the central needle to reveal quest markers for hidden relics across the world map.",
+    "basedOn": "King Arthur's Round Table combined with Moreau's intricate, star-dusted decorative arts designs.",
+    "variants": [
+      "Silver Starburst",
+      "Gilded Brass"
+    ]
+  },
+  {
+    "name": "Enchanted Sword Stone Anvil",
+    "description": "A massive block of carved granite bound with iron bands, bearing a glowing blade socket where Excalibur was once drawn.",
+    "itemType": "Interactive",
+    "materials": [
+      "granite",
+      "iron",
+      "silver"
+    ],
+    "zone": "Camelot",
+    "interactiveProperties": "Players can insert broken quest blades to forge or repair magical chivalric weaponry.",
+    "basedOn": "The legend of the Sword in the Stone cast in Moreau's mystical, dramatic lighting.",
+    "variants": [
+      "Dark Granite",
+      "Mossy Castle Stone"
+    ]
+  },
+  {
+    "name": "Carved English Oak High Chair",
+    "description": "A tall-backed hall chair hand-carved with elaborate heraldic beasts, vine motifs, and stained-glass inlay accents.",
+    "itemType": "Furniture",
+    "materials": [
+      "english oak",
+      "velvet",
+      "stained glass"
+    ],
+    "zone": "Camelot",
+    "interactiveProperties": "Grants a 'Ruler's Presence' buff to avatars sitting at the head of a banquet hall.",
+    "basedOn": "Medieval knightly thrones embellished with Moreau's intricate Symbolist woodcarvings.",
+    "variants": [
+      "Dark Forest Oak",
+      "Aged Chestnut Finish"
+    ]
+  },
+  {
+    "name": "Stained-Glass Gothic Arch Display Frame",
+    "description": "A grand stone arch holding vibrant stained-glass panels that cast mystical red, cobalt, and gold light patterns across the floor.",
+    "itemType": "Furniture",
+    "materials": [
+      "granite",
+      "stained glass",
+      "iron"
+    ],
+    "zone": "Camelot",
+    "interactiveProperties": "Filters room lighting into rich jewel tones and enhances the display value of adjacent collectibles.",
+    "basedOn": "Gothic cathedral windows featured in Moreau's atmospheric religious and mythic canvases.",
+    "variants": [
+      "Grail Rose Window",
+      "Lancelot Blue"
+    ]
+  },
+  {
+    "name": "Moreau Damascened Iron Broadsword",
+    "description": "A ceremonial longsword forged with intricate gold damascening along the fuller, depicting dreamlike dragons and lilies.",
+    "itemType": "Tool",
+    "materials": [
+      "iron",
+      "gold ore",
+      "english oak"
+    ],
+    "zone": "Camelot",
+    "interactiveProperties": "Can be used to clear dense enchanted brambles or displayed as a wall-mounted weapon.",
+    "basedOn": "Chivalric ceremonial weaponry rendered with Moreau's dense gold ornament.",
+    "variants": [
+      "Gilded Blade",
+      "Blackened Iron"
+    ]
+  },
+  {
+    "name": "Gilded Grail Goblet Fragment",
+    "description": "A preserved fragment of a beaten gold chalice inset with cabochon garnets and intricate filigree.",
+    "itemType": "Collectible",
+    "materials": [
+      "gold ore",
+      "silver",
+      "stained glass"
+    ],
+    "zone": "Camelot",
+    "interactiveProperties": "Increases overall Inn mysticism score when exhibited in the Reliquary Wing.",
+    "basedOn": "The Holy Grail motif central to Moreau's late Symbolist masterpieces.",
+    "variants": [
+      "Garnet Inset",
+      "Emerald Inset"
+    ]
+  },
+  {
+    "name": "Khipu Knot-Record of the Sun King",
+    "description": "An intricate system of knotted cotton and alpaca wool cords dyed in indigo and ochre, recording ancient mountain harvest lore.",
+    "itemType": "QuestItem",
+    "materials": [
+      "andean alder",
+      "gold ore",
+      "silver"
+    ],
+    "zone": "Peru",
+    "interactiveProperties": "Decoded by the Weaver NPC to unlock high-altitude agricultural terrace blueprints.",
+    "basedOn": "Inca khipu record-keeping reimagined through Guo Xi's misty, rhythmic mountain compositions.",
+    "variants": [
+      "Indigo & Ochre Cords",
+      "Royal Crimson Cords"
+    ]
+  },
+  {
+    "name": "Golden Intihuatana Sun Tether",
+    "description": "A sacred carved gold and andesite pillar designed to 'hitch the sun' at the solstice, shaped with soaring mountain contours.",
+    "itemType": "QuestItem",
+    "materials": [
+      "andesite",
+      "gold ore",
+      "andean alder"
+    ],
+    "zone": "Peru",
+    "interactiveProperties": "When calibrated at noon, it summons solar light trails that reveal hidden mountain passes.",
+    "basedOn": "The Intihuatana stone of Machu Picchu stylized with Guo Xi's towering vertical mountain perspectives.",
+    "variants": [
+      "Polished Gold",
+      "Raw Andesite Base"
+    ]
+  },
+  {
+    "name": "Fitting-Stone Terrace Sluice Lever",
+    "description": "A precision-carved stone mechanism fitted seamlessly without mortar, used to control water channels on steep agricultural terraces.",
+    "itemType": "Interactive",
+    "materials": [
+      "andesite",
+      "limestone (imported)",
+      "andean alder"
+    ],
+    "zone": "Peru",
+    "interactiveProperties": "Players pull the stone lever to irrigate terrace garden beds, doubling crop yield speed.",
+    "basedOn": "Inca mortarless masonry and hydraulic engineering framed by Guo Xi's landscape harmony.",
+    "variants": [
+      "Grey Andesite",
+      "Dark Basalt"
+    ]
+  },
+  {
+    "name": "Mist-Resonating Panpipe Pillar",
+    "description": "A vertical stone and alder-wood organ pipe structure that produces deep harmonic tones when mountain mists pass through it.",
+    "itemType": "Interactive",
+    "materials": [
+      "andean alder",
+      "andesite",
+      "reed (imported)"
+    ],
+    "zone": "Peru",
+    "interactiveProperties": "Playing specific musical notes on the pipes clears surrounding fog and triggers cloud-bridge paths.",
+    "basedOn": "Andean panpipes (siku) integrated into Guo Xi's ethereal mist-and-mountain ink atmospheres.",
+    "variants": [
+      "Alder Wood",
+      "Andesite Carved"
+    ]
+  },
+  {
+    "name": "Polished Andesite Throne Chair",
+    "description": "A seat carved directly from volcanic stone with twelve-angled joint motifs and comfortable woven alpaca padding.",
+    "itemType": "Furniture",
+    "materials": [
+      "andesite",
+      "andean alder",
+      "gold ore"
+    ],
+    "zone": "Peru",
+    "interactiveProperties": "Offers sturdy seating for avatars and provides immunity to cold weather effects nearby.",
+    "basedOn": "Inca royal stone thrones and Guo Xi's monumental mountain rock textures.",
+    "variants": [
+      "Twelve-Angle Cut",
+      "Sun Emblem Carved"
+    ]
+  },
+  {
+    "name": "Andean Alder Carved Storage Chest",
+    "description": "A heavy wooden chest made from native Andean alder wood, decorated with geometric Inca key (tocapu) patterns and gold latches.",
+    "itemType": "Furniture",
+    "materials": [
+      "andean alder",
+      "gold ore",
+      "copper"
+    ],
+    "zone": "Peru",
+    "interactiveProperties": "Provides 24 slots of item storage for seeds, ores, and textile materials.",
+    "basedOn": "Inca wooden qero vessels and furniture with Guo Xi's organic wood grain brushwork.",
+    "variants": [
+      "Tocapu Inlaid",
+      "Natural Alder"
+    ]
+  },
+  {
+    "name": "Inca Bronze Chappi Adze",
+    "description": "A durable cutting tool with a heavy bronze blade lashed to a curved Andean alder handle using leather thongs.",
+    "itemType": "Tool",
+    "materials": [
+      "bronze",
+      "andean alder",
+      "copper"
+    ],
+    "zone": "Peru",
+    "interactiveProperties": "Used for harvesting mountain alder timber and shaping precision stone blocks.",
+    "basedOn": "Traditional Inca metalworking and stonemason tools.",
+    "variants": [
+      "Bronze Blade",
+      "Hardened Copper Blade"
+    ]
+  },
+  {
+    "name": "Guo Xi Mist-Flecked Gold Mask",
+    "description": "A ceremonial golden burial mask featuring repouss\u00e9 mountain spirits surrounded by swirling ink-like cloud tendrils.",
+    "itemType": "Collectible",
+    "materials": [
+      "gold ore",
+      "silver",
+      "andesite"
+    ],
+    "zone": "Peru",
+    "interactiveProperties": "Can be mounted on gallery walls to boost room elegance score by 150 points.",
+    "basedOn": "Sican and Inca funerary masks fused with Guo Xi's northern Song landscape mist aesthetics.",
+    "variants": [
+      "Gilded Gold",
+      "Silver Inlaid"
+    ]
+  },
+  {
+    "name": "Imperial Silk Calligraphy Scroll of Honor",
+    "description": "A long silk wall scroll featuring bold, sweeping ink-wash brushwork depicting mountain bamboo and heroic verses of loyalty.",
+    "itemType": "QuestItem",
+    "materials": [
+      "silk",
+      "bamboo",
+      "pine"
+    ],
+    "zone": "China",
+    "interactiveProperties": "Hanging the scroll in the Main Hall unlocks the 'Path of the Warrior Scholar' quest.",
+    "basedOn": "The Ballad of Mulan and classical Song Dynasty ink-wash calligraphy scrolls.",
+    "variants": [
+      "Black Ink on White Silk",
+      "Gold Leaf Ink on Crimson Silk"
+    ]
+  },
+  {
+    "name": "Jade Dragon Jadeite Seal",
+    "description": "A square seal carved from translucent green jade, topped with a coiled dragon executed with fluid calligraphic curves.",
+    "itemType": "QuestItem",
+    "materials": [
+      "jade",
+      "gold ore",
+      "silk"
+    ],
+    "zone": "China",
+    "interactiveProperties": "Used to stamp official imperial pardons and open the Pavilion of Five Dragons.",
+    "basedOn": "Chinese imperial jade seals (Xi) styled with expressive Mulan-era ink stroke silhouettes.",
+    "variants": [
+      "Imperial Green Jade",
+      "Mutton-Fat White Jade"
+    ]
+  },
+  {
+    "name": "Ink-Wash Bamboo Wind Chime Fountain",
+    "description": "A tranquil water feature crafted from hollow bamboo stalks and black river stone, producing gentle rhythmic clicks and splashing water.",
+    "itemType": "Interactive",
+    "materials": [
+      "bamboo",
+      "river stone",
+      "lacquer"
+    ],
+    "zone": "China",
+    "interactiveProperties": "Interacting with the fountain restores avatar focus and generates ambient relaxation soundscapes.",
+    "basedOn": "Traditional East Asian garden water features rendered in fluid ink-wash animation.",
+    "variants": [
+      "Natural Green Bamboo",
+      "Dark Lacquered Bamboo"
+    ]
+  },
+  {
+    "name": "Carved Lacquer Weiqi Game Board",
+    "description": "A low wooden table coated in glossy cinnabar lacquer, inlaid with jade grid lines and featuring bowls of black and white stone pieces.",
+    "itemType": "Interactive",
+    "materials": [
+      "lacquer",
+      "jade",
+      "bamboo",
+      "river stone"
+    ],
+    "zone": "China",
+    "interactiveProperties": "Two avatars can sit and play a full game of Go (Weiqi) to earn strategy perks.",
+    "basedOn": "Classical scholar games depicted in Chinese monochrome paintings and court arts.",
+    "variants": [
+      "Cinnabar Red Lacquer",
+      "Deep Black Lacquer"
+    ]
+  },
+  {
+    "name": "Cinnabar Lacquer Pagoda Cabinet",
+    "description": "A multi-tiered storage cabinet shaped like a classic pagoda, coated in deep red lacquer with hand-painted gold bamboo motifs.",
+    "itemType": "Furniture",
+    "materials": [
+      "lacquer",
+      "bamboo",
+      "gold ore",
+      "pine"
+    ],
+    "zone": "China",
+    "interactiveProperties": "Holds up to 30 items and acts as a focal decor piece for oriental tea rooms.",
+    "basedOn": "Ming and Qing Dynasty carved lacquerware furniture simplified into crisp ink-wash lines.",
+    "variants": [
+      "Cinnabar Red",
+      "Ebony Lacquer"
+    ]
+  },
+  {
+    "name": "Slender Bamboo Screen Divider",
+    "description": "A lightweight room screen composed of woven bamboo slats framed in dark stained timber, decorated with subtle ink pine prints.",
+    "itemType": "Furniture",
+    "materials": [
+      "bamboo",
+      "silk",
+      "pine"
+    ],
+    "zone": "China",
+    "interactiveProperties": "Divides room spaces to create private alcoves while allowing ambient light to pass through.",
+    "basedOn": "Traditional Chinese folding screens (Pingfeng) featuring brush-and-ink landscapes.",
+    "variants": [
+      "Ink Pine Print",
+      "Plum Blossom Print"
+    ]
+  },
+  {
+    "name": "Scholar's Wolf-Hair Calligraphy Brush",
+    "description": "A fine ink brush with a carved bamboo shaft and nickel-wrapped wolf hair bristles, ideal for expressive landscape painting.",
+    "itemType": "Tool",
+    "materials": [
+      "bamboo",
+      "jade",
+      "silk"
+    ],
+    "zone": "China",
+    "interactiveProperties": "Used to paint ink-wash murals on plain plaster walls inside the Inn.",
+    "basedOn": "The Four Treasures of the Study in classical Chinese scholar culture.",
+    "variants": [
+      "Carved Bamboo Shaft",
+      "Jade Tipped Shaft"
+    ]
+  },
+  {
+    "name": "Carved Dragon Jade Figurine",
+    "description": "A pocket-sized statuette of a celestial dragon carved from mottled green jade, smooth to the touch.",
+    "itemType": "Collectible",
+    "materials": [
+      "jade",
+      "silk"
+    ],
+    "zone": "China",
+    "interactiveProperties": "Can be gifted to NPCs to significantly raise friendship levels.",
+    "basedOn": "Chinese jade carving traditions celebrating luck, honor, and nature.",
+    "variants": [
+      "Emerald Jade",
+      "Celadon Jade"
+    ]
+  },
+  {
+    "name": "Runestone of the World Tree",
+    "description": "A slab of grey granite carved with intricate insular knotwork serpents framing ancient Futhark runes illuminated in gold leaf.",
+    "itemType": "QuestItem",
+    "materials": [
+      "runestone",
+      "pine",
+      "gold ore"
+    ],
+    "zone": "Norse",
+    "interactiveProperties": "Placing the stone into the Hearth Nexus unlocks the Yggdrasil realm branch on the world map.",
+    "basedOn": "Norse runestones rendered with Book of Kells style manuscript interlacing and serpent zoomorphs.",
+    "variants": [
+      "Gold Leaf Runes",
+      "Red Ochre Runes"
+    ]
+  },
+  {
+    "name": "Illuminated Longship Prow Ribbon",
+    "description": "A carved pine longship prow dragonhead wrapped in illuminated vellum ribbons featuring knotwork monsters.",
+    "itemType": "QuestItem",
+    "materials": [
+      "pine",
+      "parchment",
+      "bog iron"
+    ],
+    "zone": "Norse",
+    "interactiveProperties": "Attached to the Inn's harbor ship to enable passage through storm-wracked fjords.",
+    "basedOn": "Oseberg ship dragon prows merged with insular illuminated manuscript motifs.",
+    "variants": [
+      "Dragonhead Prow",
+      "Ravenhead Prow"
+    ]
+  },
+  {
+    "name": "Bog-Iron Serpent Knotwork Anvil",
+    "description": "A heavy blacksmith anvil smelted from bog iron ore, its sides deeply chiseled with interlacing Book of Kells beast knotwork.",
+    "itemType": "Interactive",
+    "materials": [
+      "bog iron",
+      "birch",
+      "pine"
+    ],
+    "zone": "Norse",
+    "interactiveProperties": "Players use the anvil to forge runic tools and armored gear with enhanced durability.",
+    "basedOn": "Viking Age bog iron metallurgy decorated with insular manuscript animal knotwork.",
+    "variants": [
+      "Smelted Bog Iron",
+      "Charcoal Tempered"
+    ]
+  },
+  {
+    "name": "Runestone Sunstone Compass Dial",
+    "description": "A stone disk set with a translucent Icelandic spar crystal and framed by Celtic-Norse interlaced metal borders.",
+    "itemType": "Interactive",
+    "materials": [
+      "runestone",
+      "bog iron",
+      "amber"
+    ],
+    "zone": "Norse",
+    "interactiveProperties": "Rotating the stone aligns sunbeams through overcast skies to reveal hidden treasure coordinates.",
+    "basedOn": "Norse sunstone navigation devices embellished with Book of Kells illuminated borders.",
+    "variants": [
+      "Spar Crystal",
+      "Amber Inlaid"
+    ]
+  },
+  {
+    "name": "Kells Interlaced Pine Feast Bench",
+    "description": "A long communal hall bench crafted from sturdy pine, decorated along the seat edges with carved ribbon-beast knotwork.",
+    "itemType": "Furniture",
+    "materials": [
+      "pine",
+      "birch",
+      "bog iron"
+    ],
+    "zone": "Norse",
+    "interactiveProperties": "Seats up to six avatars for mead hall feasting, granting a 'Skaldic Cheer' stamina buff.",
+    "basedOn": "Norse mead hall furniture decorated with Book of Kells illuminated interlace carvings.",
+    "variants": [
+      "Dark Stained Pine",
+      "Bleached Birch Accent"
+    ]
+  },
+  {
+    "name": "Carved Birch Shield Display Rack",
+    "description": "A wall-mounted rack constructed from birch timber and bog iron fittings, built to hold up to four round shields.",
+    "itemType": "Furniture",
+    "materials": [
+      "birch",
+      "bog iron",
+      "pine"
+    ],
+    "zone": "Norse",
+    "interactiveProperties": "Displays shields vertically while giving a defense boost to the surrounding room.",
+    "basedOn": "Longhouse armory racks decorated with insular interlacing strapwork.",
+    "variants": [
+      "Natural Birch",
+      "Charred Pine"
+    ]
+  },
+  {
+    "name": "Insular Bog Iron Woodcarving Gouge",
+    "description": "A sharp chisel tool forged from bog iron with an ergonomically shaped birch wood handle.",
+    "itemType": "Tool",
+    "materials": [
+      "bog iron",
+      "birch",
+      "pine"
+    ],
+    "zone": "Norse",
+    "interactiveProperties": "Used to carve complex knotwork patterns onto wooden furniture and boat beams.",
+    "basedOn": "Viking woodworking tools and manuscript illustration stylistics.",
+    "variants": [
+      "Straight Gouge",
+      "Curved V-Gouge"
+    ]
+  },
+  {
+    "name": "Polished Baltic Amber Beast Amulet",
+    "description": "A glowing chunk of golden Baltic amber carved into a coiled beast figure with interlaced limbs.",
+    "itemType": "Collectible",
+    "materials": [
+      "amber",
+      "bog iron"
+    ],
+    "zone": "Norse",
+    "interactiveProperties": "Glows softly in dark rooms and grants nearby plants faster growth rates.",
+    "basedOn": "Viking amber trade goods and Celtic/Norse animal art styles.",
+    "variants": [
+      "Honey Amber",
+      "Cherry Amber"
+    ]
+  },
+  {
+    "name": "Icon of the Firebird Feather",
+    "description": "A sacred panel painting framed in carved birch, depicting a glowing Firebird feather against Roerich's signature ultramarine mountains.",
+    "itemType": "QuestItem",
+    "materials": [
+      "birch",
+      "amber",
+      "gold ore"
+    ],
+    "zone": "Slavic",
+    "interactiveProperties": "Placed in the Hearth Shrine to complete the 'Light of Tsarevich' quest and banish dark frost.",
+    "basedOn": "Slavic folklore of the Firebird rendered in Nicholas Roerich's luminous, spiritual color palette.",
+    "variants": [
+      "Ultramarine Sky",
+      "Golden Twilight Sky"
+    ]
+  },
+  {
+    "name": "Amber Rosary of the Sacred Forest",
+    "description": "A strand of thirty-three polished Baltic amber beads linked by silver wire, radiating a warm pine resin scent.",
+    "itemType": "QuestItem",
+    "materials": [
+      "amber",
+      "silver",
+      "birch"
+    ],
+    "zone": "Slavic",
+    "interactiveProperties": "Used to bless the forest shrine and appease local Leshy nature spirits.",
+    "basedOn": "Orthodox prayer beads combined with Roerich's veneration of sacred mountain forests.",
+    "variants": [
+      "Honey Amber Beads",
+      "Cognac Amber Beads"
+    ]
+  },
+  {
+    "name": "Orthodox Bell Chime Console",
+    "description": "A miniature bronze bell tower frame resting on birch beams, tuned to ring deep resonant spiritual chords.",
+    "itemType": "Interactive",
+    "materials": [
+      "bronze",
+      "birch",
+      "copper"
+    ],
+    "zone": "Slavic",
+    "interactiveProperties": "Players can ring the bells in sequence to play traditional Slavic folk melodies and summon songbirds.",
+    "basedOn": "Slavic Orthodox church bell ringing (Zvon) and Roerich's architectural paintings of ancient Pskov.",
+    "variants": [
+      "Gilded Bronze Bells",
+      "Patinated Copper Bells"
+    ]
+  },
+  {
+    "name": "Gilded Birch Sacred Hearth Shrine",
+    "description": "A wooden corner altar (Krasny Ugol) carved from white birch, featuring gold foil trim and candle holders.",
+    "itemType": "Interactive",
+    "materials": [
+      "birch",
+      "gold ore",
+      "amber",
+      "pine"
+    ],
+    "zone": "Slavic",
+    "interactiveProperties": "Players can light beeswax candles at the shrine to grant the Inn guests a feeling of warmth and peace.",
+    "basedOn": "The 'Beautiful Corner' tradition in Slavic homes framed by Roerich's vivid, reverent art style.",
+    "variants": [
+      "Gilded White Birch",
+      "Dark Painted Birch"
+    ]
+  },
+  {
+    "name": "Roerich Cobalt Painted Birch Bench",
+    "description": "A sturdy wooden bench painted in deep cobalt blue and ochre folk motifs, inspired by ancient Northern Russian timber work.",
+    "itemType": "Furniture",
+    "materials": [
+      "birch",
+      "pine",
+      "copper"
+    ],
+    "zone": "Slavic",
+    "interactiveProperties": "Provides comfortable seating for two and enhances room color harmony rating.",
+    "basedOn": "Russian folk furniture depicted in Roerich's stage sets for Le Sacre du Printemps.",
+    "variants": [
+      "Cobalt & Ochre",
+      "Vermilion & Gold"
+    ]
+  },
+  {
+    "name": "Carved Lime-Wood Iconostasis Screen",
+    "description": "A tall wooden screen filled with delicate floral fretwork and arches designed to hold sacred icons and artwork.",
+    "itemType": "Furniture",
+    "materials": [
+      "birch",
+      "lime wood",
+      "gold ore"
+    ],
+    "zone": "Slavic",
+    "interactiveProperties": "Serves as a partition wall that displays up to three paintings or collectible icons.",
+    "basedOn": "Orthodox iconostasis screens painted with Roerich's bold architectural geometry.",
+    "variants": [
+      "Gold Leafed",
+      "Natural Lime Wood"
+    ]
+  },
+  {
+    "name": "Repouss\u00e9 Brass Birch-Bark Carving Knife",
+    "description": "A short, sharp carving knife with a repouss\u00e9 brass ferrule and a layered birch-bark handle that provides a firm grip.",
+    "itemType": "Tool",
+    "materials": [
+      "brass",
+      "birch",
+      "copper"
+    ],
+    "zone": "Slavic",
+    "interactiveProperties": "Used to craft birch-bark containers (tuyas) and intricate wooden folk toys.",
+    "basedOn": "Traditional Northern Russian artisan woodworking tools.",
+    "variants": [
+      "Birch Bark Handle",
+      "Amber Inlaid Handle"
+    ]
+  },
+  {
+    "name": "Raw Baltic Amber Sun-Stone Gem",
+    "description": "An uncut piece of raw golden amber containing ancient pine needle inclusions, glowing when held up to sunlight.",
+    "itemType": "Collectible",
+    "materials": [
+      "amber",
+      "pine"
+    ],
+    "zone": "Slavic",
+    "interactiveProperties": "Can be refined into varnish or displayed in gem cabinets for high prestige score.",
+    "basedOn": "Baltic amber trade routes and Roerich's glowing mountain color harmonies.",
+    "variants": [
+      "Raw Rough",
+      "Polished Face"
+    ]
+  },
+  {
+    "name": "Copper Plate Charter of the Monsoon Route",
+    "description": "An engraved copper plate inscribed with poetic maritime routes and star charts used by ancient spice traders.",
+    "itemType": "QuestItem",
+    "materials": [
+      "copper",
+      "teak",
+      "brass"
+    ],
+    "zone": "India",
+    "interactiveProperties": "Examined on the Map Table to open the Indian Ocean spice route trade missions.",
+    "basedOn": "Ancient Indian copper plate grants (Tamrapatra) combined with Tagore's poetic travel memoirs.",
+    "variants": [
+      "Engraved Copper",
+      "Patinated Verdigris"
+    ]
+  },
+  {
+    "name": "Sandalwood Veena of Poetic Verses",
+    "description": "A musical stringed instrument carved from fragrant red sandalwood, featuring gourd resonators etched with fluid Tagore ink motifs.",
+    "itemType": "QuestItem",
+    "materials": [
+      "sandalwood",
+      "brass",
+      "copper",
+      "silk"
+    ],
+    "zone": "India",
+    "interactiveProperties": "Playing the Veena in the Courtyard unlocks the 'Song of the Evening Raga' quest event.",
+    "basedOn": "Classical Indian musical traditions and Rabindranath Tagore's Rabindra Sangeet composition heritage.",
+    "variants": [
+      "Red Sandwood",
+      "Inlaid Ivory-Wood"
+    ]
+  },
+  {
+    "name": "Tagore Brass Incense Burner Fountain",
+    "description": "A tiered brass burner that releases gentle sandalwood incense smoke that flows downward like liquid water over copper steps.",
+    "itemType": "Interactive",
+    "materials": [
+      "brass",
+      "copper",
+      "sandalwood"
+    ],
+    "zone": "India",
+    "interactiveProperties": "Players can ignite various spice incense sticks to change the fragrance and ambient mood of the room.",
+    "basedOn": "Temple incense rituals and Tagore's fluid, rhythmically curved ink paintings.",
+    "variants": [
+      "Polished Brass",
+      "Antique Copper"
+    ]
+  },
+  {
+    "name": "Temple Lotus Oil Lamp Turret",
+    "description": "A multi-tiered brass lamp tower (Deepastambha) adorned with lotus petal wicks that cast warm flickering light.",
+    "itemType": "Interactive",
+    "materials": [
+      "brass",
+      "copper",
+      "terracotta"
+    ],
+    "zone": "India",
+    "interactiveProperties": "Lighting all oil lamp tiers illuminates dark courtyard areas and attracts fireflies at night.",
+    "basedOn": "South Indian temple oil lamps combined with Tagore's poetic imagery of light and devotion.",
+    "variants": [
+      "Brass Seven-Tier",
+      "Bronze Five-Tier"
+    ]
+  },
+  {
+    "name": "Carved Teakwood Temple Daybed",
+    "description": "A sprawling daybed carved from solid teak timber, outfitted with silk bolster cushions and intricate floral lattice feet.",
+    "itemType": "Furniture",
+    "materials": [
+      "teak",
+      "silk",
+      "sandalwood"
+    ],
+    "zone": "India",
+    "interactiveProperties": "Allows avatars to lounge, granting rapid health and stamina recovery bonuses.",
+    "basedOn": "Traditional Indian charpai and swing beds reinterpreted with Tagore's organic artistic elegance.",
+    "variants": [
+      "Teak & Crimson Silk",
+      "Teak & Gold Silk"
+    ]
+  },
+  {
+    "name": "Lattice Sandalwood Jali Screen",
+    "description": "An exquisitely carved sandalwood partition screen featuring complex geometric and floral ventilation patterns.",
+    "itemType": "Furniture",
+    "materials": [
+      "sandalwood",
+      "teak",
+      "brass"
+    ],
+    "zone": "India",
+    "interactiveProperties": "Fills nearby rooms with natural sandalwood aroma and casts intricate shadow patterns.",
+    "basedOn": "Mughal and Rajput stone/wood jali screens praised in Tagore's architectural writings.",
+    "variants": [
+      "Natural Sandalwood",
+      "Dark Teak Stained"
+    ]
+  },
+  {
+    "name": "Engraved Copper Spice Grinder Mortar",
+    "description": "A heavy copper mortar and pestle set etched with swirling vine patterns, used for crushing aromatic spices.",
+    "itemType": "Tool",
+    "materials": [
+      "copper",
+      "brass",
+      "teak"
+    ],
+    "zone": "India",
+    "interactiveProperties": "Used to process rare spices into dyes, remedies, and exotic tea recipes.",
+    "basedOn": "Traditional Indian culinary and Ayurvedic processing tools.",
+    "variants": [
+      "Etched Copper",
+      "Cast Brass"
+    ]
+  },
+  {
+    "name": "Lotus-Engraved Copper Coin Relic",
+    "description": "An ancient copper coin stamped with a blooming lotus and calligraphic Sanskrit script.",
+    "itemType": "Collectible",
+    "materials": [
+      "copper",
+      "gold ore"
+    ],
+    "zone": "India",
+    "interactiveProperties": "Can be placed in coin display trays to increase trade merchant discounts by 5%.",
+    "basedOn": "Gupta and Chola Dynasty coinage integrated into Tagore's historical archives.",
+    "variants": [
+      "Copper Stamped",
+      "Gold Plated"
+    ]
+  },
+  {
+    "name": "Will-o'-the-Wisp Lantern Vessel",
+    "description": "A eerie jar fashioned from murky blown glass and cypress bark, containing a floating, glowing swamp wisp in dark crosshatched glass.",
+    "itemType": "QuestItem",
+    "materials": [
+      "cypress",
+      "bog moss",
+      "spanish moss",
+      "bog iron"
+    ],
+    "zone": "Bayou",
+    "interactiveProperties": "Carried through murky bayou fogs to ward off shadow creatures and illuminate hidden sunken paths.",
+    "basedOn": "Don't Starve light sources and bayou spirit legends with sketchy hand-drawn dark lines.",
+    "variants": [
+      "Eerie Green Wisp",
+      "Pale Blue Wisp"
+    ]
+  },
+  {
+    "name": "Swamp Witch's Dried Spanish Moss Doll",
+    "description": "A crude poppet bound from dried Spanish moss, twiggy cypress fingers, and bog iron wire, carrying eerie charm protections.",
+    "itemType": "QuestItem",
+    "materials": [
+      "spanish moss",
+      "cypress",
+      "bog iron"
+    ],
+    "zone": "Bayou",
+    "interactiveProperties": "Given to the Swamp Trapper NPC to unlock secret bayou fishing holes.",
+    "basedOn": "Southern swamp folklore and Don't Starve's dark, sketchy hand-crafted survival items.",
+    "variants": [
+      "Spanish Moss Doll",
+      "Cypress Twig Doll"
+    ]
+  },
+  {
+    "name": "Cypress Log Crocodile Trap",
+    "description": "A heavy spring-loaded jaw trap constructed from jagged cypress timber, bog iron spikes, and woven reed ropes.",
+    "itemType": "Interactive",
+    "materials": [
+      "cypress",
+      "bog iron",
+      "reed"
+    ],
+    "zone": "Bayou",
+    "interactiveProperties": "Players can set the trap in swamp waters to catch giant bayou gators or aggressive marsh beasts.",
+    "basedOn": "Don't Starve wilderness trap mechanics rendered with gothic crosshatched timber textures.",
+    "variants": [
+      "Bog Iron Tooth",
+      "Charred Cypress"
+    ]
+  },
+  {
+    "name": "Bog Iron Smokehouse Smoker",
+    "description": "A tall, rickety outdoor smoker made from rusted bog iron plates and cypress wood slatted doors, venting hickory smoke.",
+    "itemType": "Interactive",
+    "materials": [
+      "bog iron",
+      "cypress",
+      "spanish moss"
+    ],
+    "zone": "Bayou",
+    "interactiveProperties": "Preserves raw meat and fish into jerky, extending item shelf life indefinitely.",
+    "basedOn": "Don't Starve drying racks and food smoker survival structures with sketchy line aesthetics.",
+    "variants": [
+      "Rusted Iron",
+      "Patched Tin & Cypress"
+    ]
+  },
+  {
+    "name": "Stilt-Mounted Cypress Plank Table",
+    "description": "A rustic dining table built on rough stilt legs to keep food above murky swamp floodwaters, draped with Spanish moss.",
+    "itemType": "Furniture",
+    "materials": [
+      "cypress",
+      "spanish moss",
+      "bog moss"
+    ],
+    "zone": "Bayou",
+    "interactiveProperties": "Serves as a sturdy surface for crafting hearty swamp stews and organizing tools.",
+    "basedOn": "Bayou stilt cabin furniture styled with Don't Starve's angular, scratchy woodgrain strokes.",
+    "variants": [
+      "Weathered Grey Cypress",
+      "Dark Bog Stained"
+    ]
+  },
+  {
+    "name": "Spanish Moss Stuffed Rocking Chair",
+    "description": "A creaky rocking chair fashioned from bent cypress knees and cushioned with dried Spanish moss and canvas.",
+    "itemType": "Furniture",
+    "materials": [
+      "cypress",
+      "spanish moss",
+      "reed"
+    ],
+    "zone": "Bayou",
+    "interactiveProperties": "Rocking in the chair slowly restores sanity/mental composure in dark environments.",
+    "basedOn": "Southern porch rockers rendered through Don't Starve's eerie gothic hand-drawn art style.",
+    "variants": [
+      "Cypress Knee Rocker",
+      "Charred Timber Rocker"
+    ]
+  },
+  {
+    "name": "Forged Bog Iron Swamp Machete",
+    "description": "A heavy, jagged blade forged from crude bog iron with a comfortable wrapped cypress handle.",
+    "itemType": "Tool",
+    "materials": [
+      "bog iron",
+      "cypress",
+      "spanish moss"
+    ],
+    "zone": "Bayou",
+    "interactiveProperties": "Clears dense Spanish moss, thick reeds, and overgrown vines to open hidden pathways.",
+    "basedOn": "Don't Starve wilderness clearing tools with dark scratchy crosshatching.",
+    "variants": [
+      "Jagged Edge",
+      "Smooth Cleaver Edge"
+    ]
+  },
+  {
+    "name": "Preserved Gator Tooth Amulet",
+    "description": "A necklace of bleached alligator teeth strung on twisted swamp reed cord with a central bog iron charm.",
+    "itemType": "Collectible",
+    "materials": [
+      "bog iron",
+      "reed",
+      "cypress"
+    ],
+    "zone": "Bayou",
+    "interactiveProperties": "Grants the wearer a +10% damage bonus against aquatic creatures.",
+    "basedOn": "Swamp trophy crafts and Don't Starve monster drop amulets.",
+    "variants": [
+      "Bleached Tooth",
+      "Fossilized Tooth"
+    ]
+  },
+  {
+    "name": "Swirling Sunflower Trellis",
+    "description": "A high arched garden trellis wrapped in vibrant sunflowers that twist in expressive, thick-painted curves. The flowers seem to follow an invisible sun, glowing with golden warmth even indoors.",
+    "itemType": "Furniture",
+    "materials": [
+      "Wrought Iron",
+      "Living Sunflower Stems",
+      "Impasto Clay"
+    ],
+    "zone": "Garden",
+    "interactiveProperties": "Climbing plants grow 25% faster when planted nearby. Players can sit beneath the arch to gain a 'Sunlight Warmth' buff (+10% crafting speed for botanical recipes).",
+    "basedOn": "Van Gogh's Sunflowers series and organic iron lattice work",
+    "variants": [
+      "Golden Bloom",
+      "Midnight Starry Vine",
+      "Autumn Amber Lattice"
+    ]
+  },
+  {
+    "name": "Starry Glasshouse Workbench",
+    "description": "A heavy oak garden workbench with a cobalt glass inlay top that refracts light into swirling blue and yellow patterns across the studio floor.",
+    "itemType": "Furniture",
+    "materials": [
+      "Cobalt Glass",
+      "Carved Cypress Wood",
+      "Brass Trim"
+    ],
+    "zone": "Garden",
+    "interactiveProperties": "Acts as a primary crafting station for seed mixtures and botanical pigments. Placing rare herbs on the glass reveals hidden optical traits.",
+    "basedOn": "Van Gogh's Starry Night color palette and French artisan workbenches",
+    "variants": [
+      "Cobalt Swirl",
+      "Cypress Grain",
+      "Gilded Brass Edge"
+    ]
+  },
+  {
+    "name": "Impasto Pigment Distiller",
+    "description": "A heated copper distillation apparatus used to boil down garden blossoms into vibrant, oil-thick botanical pigments and fragrant tinctures.",
+    "itemType": "Interactive",
+    "materials": [
+      "Copper Tubing",
+      "Earthenware Pot",
+      "Botanical Oils"
+    ],
+    "zone": "Garden",
+    "interactiveProperties": "Players insert garden blossoms and fuel (wood or peat) to distill 'Impasto Oils'. Interacting opens a mini-game to balance heat and color density.",
+    "basedOn": "Van Gogh's thick oil paint mixing process and herbal alchemy",
+    "variants": [
+      "Copper Boiler",
+      "Terracotta Glazed",
+      "Studio Collector"
+    ]
+  },
+  {
+    "name": "Swirling Cypress Sky Lantern",
+    "description": "A tall cylindrical paper-and-canvas lantern framed in cypress wood, casting swirling impasto light patterns onto surrounding garden walls.",
+    "itemType": "Interactive",
+    "materials": [
+      "Strained Canvas",
+      "Cypress Resin",
+      "Brass Ring"
+    ],
+    "zone": "Garden",
+    "interactiveProperties": "Can be toggled on or off to change garden lighting. Interacting with 'Rotate Prism' changes the cast shadows from golden daylight to starry cobalt.",
+    "basedOn": "Van Gogh's iconic cypress silhouettes against swirling night skies",
+    "variants": [
+      "Starry Cobalt",
+      "Sunset Ochre",
+      "Dawn Vermilion"
+    ]
+  },
+  {
+    "name": "Vibrant Iris Seedpod",
+    "description": "A rare, pulsing seedpod harvested from the deep garden beds. It radiates a deep violet light and hums with natural vital energy.",
+    "itemType": "QuestItem",
+    "materials": [
+      "Crystallized Plant Fiber",
+      "Iridescent Sap"
+    ],
+    "zone": "Garden",
+    "interactiveProperties": "Quest item required by the Master Herbalist to restore the Starry Glasshouse. Cannot be consumed, but can be analyzed at the Translation Desk.",
+    "basedOn": "Van Gogh's Irises and the herbalist quest line for lost hues",
+    "variants": [
+      "Royal Violet",
+      "Luminous Cyan",
+      "Gilded Petal"
+    ]
+  },
+  {
+    "name": "Wheatfield Sheaf of Abundance",
+    "description": "A tightly bound sheaf of golden wheat harvested at peak summer solstice. Each grain shines with an unnatural metallic luster.",
+    "itemType": "QuestItem",
+    "materials": [
+      "Golden Wheat Stalks",
+      "Twisted Silk Ribbon"
+    ],
+    "zone": "Garden",
+    "interactiveProperties": "Delivered to the Common Room Hearthmaster to initiate the Festival of the Sun quest. Grants temporary harvest aura when carried in inventory.",
+    "basedOn": "Van Gogh's Wheatfield series and harvest festival lore",
+    "variants": [
+      "Summer Gold",
+      "Stormy Ochre",
+      "Crow-Haunted"
+    ]
+  },
+  {
+    "name": "Impasto Palette Knife",
+    "description": "A flexible steel palette knife with a carved cypress handle, used to shape botanical resins, scrape rare lichen, and mix paint pigments.",
+    "itemType": "Tool",
+    "materials": [
+      "Tempered Spring Steel",
+      "Cypress Handle",
+      "Brass Ferrules"
+    ],
+    "zone": "Garden",
+    "interactiveProperties": "Equippable tool used to scrape sap from garden trees without damaging the bark. Unlocks precision sculpting on clay and wax furniture.",
+    "basedOn": "Van Gogh's heavy palette knife techniques",
+    "variants": [
+      "Standard Steel",
+      "Gold-Leaf Edge",
+      "Damascus Etched"
+    ]
+  },
+  {
+    "name": "Starry Night Glass Marble",
+    "description": "A smooth glass orb containing a miniature swirling vortex of blue cobalt paint and suspended gold flakes that shift when held.",
+    "itemType": "Collectible",
+    "materials": [
+      "Blown Cobalt Glass",
+      "Gold Dust Suspension"
+    ],
+    "zone": "Garden",
+    "interactiveProperties": "Can be placed on display pedestals or traded with visiting collectors for rare seed packs. Inspecting displays a brief particle effect.",
+    "basedOn": "Van Gogh's Starry Night swirl motifs",
+    "variants": [
+      "Cobalt Whirlpool",
+      "Solar Eclipse",
+      "Nebula Gold"
+    ]
+  },
+  {
+    "name": "Cubist Fermentation Barrel",
+    "description": "A wooden mead barrel constructed with deliberately offset, sharp angular staves. Despite its surreal shape, it ferments honey at an unmatched rate.",
+    "itemType": "Furniture",
+    "materials": [
+      "Asymmetrical Oak Staves",
+      "Forged Iron Bands",
+      "Honeycomb Seal"
+    ],
+    "zone": "Meadery",
+    "interactiveProperties": "Stores up to 100 liters of aging mead. Interacting allows players to sample the brew and check fermentation age and alcohol percentage.",
+    "basedOn": "Picasso's synthetic cubist sculptures and multi-perspective wooden forms",
+    "variants": [
+      "Angular Mahogany",
+      "Fractured Birch",
+      "Iron-Bound Cubist"
+    ]
+  },
+  {
+    "name": "Multi-Perspective Tavern Bench",
+    "description": "A tavern bench that appears to face three directions simultaneously. Sitting on it provides an unusually clear view of the entire room.",
+    "itemType": "Furniture",
+    "materials": [
+      "Patchwork Walnut",
+      "Brass Rivets",
+      "Leather Padding"
+    ],
+    "zone": "Meadery",
+    "interactiveProperties": "Seats up to 3 players at different geometric angles. Players seated here gain 'Tavern Camaraderie' (+5% charisma in dialogue).",
+    "basedOn": "Picasso's cubist seating in Three Musicians",
+    "variants": [
+      "Walnut & Brass",
+      "Patched Leather",
+      "Geometric Ash"
+    ]
+  },
+  {
+    "name": "Fractured Glass Decanter Array",
+    "description": "An array of sharp, geometric glass decanters mounted on a brass rack, allowing patrons to dispense multi-layered honey spirits.",
+    "itemType": "Interactive",
+    "materials": [
+      "Faceted Lead Crystal",
+      "Brass Spigots",
+      "Amber Mead"
+    ],
+    "zone": "Meadery",
+    "interactiveProperties": "Players can pull levers to blend different mead vintages. Correct geometric combinations yield rare infused cordials.",
+    "basedOn": "Picasso's Glass and Bottle of Suze and cubist glasswork",
+    "variants": [
+      "Prismatic Crystal",
+      "Smoked Amber Glass",
+      "Gilded Facet"
+    ]
+  },
+  {
+    "name": "Geometric Honeycomb Press",
+    "description": "A heavy mechanical press featuring interlocking triangular plates used to extract raw honey and royal jelly from geometric comb slabs.",
+    "itemType": "Interactive",
+    "materials": [
+      "Cast Iron Gears",
+      "Beeswax Plates",
+      "Polished Bronze"
+    ],
+    "zone": "Meadery",
+    "interactiveProperties": "Insert raw honeycomb blocks and turn the crank to refine Pure Honey and Comb Wax. Turning too fast risks crushing the comb structure.",
+    "basedOn": "Picasso's analytical cubism and mechanical bee structures",
+    "variants": [
+      "Cast Iron Classic",
+      "Bronze Lattice",
+      "Etched Steel"
+    ]
+  },
+  {
+    "name": "Fractured Queen's Royal Comb",
+    "description": "A slab of honeycomb where every cell forms a perfect mathematical polygon. It smells intensely of wild thistles and fermented nectar.",
+    "itemType": "QuestItem",
+    "materials": [
+      "Crystallized Beeswax",
+      "Golden Royal Jelly"
+    ],
+    "zone": "Meadery",
+    "interactiveProperties": "Required by Master Brewer Picasso-vane to brew the legendary 'Aura Mead'. Cannot be eaten raw without triggering a quest prompt.",
+    "basedOn": "Picasso's Cubist Queen motif and the Meadmaster's secret recipe",
+    "variants": [
+      "Golden Polygon",
+      "Amber Prism",
+      "Royal Wax"
+    ]
+  },
+  {
+    "name": "Dissonant Cellar Key",
+    "description": "An irregular iron key whose bits and wards rearrange depending on the angle at which light strikes the metal surface.",
+    "itemType": "QuestItem",
+    "materials": [
+      "Fractured Iron",
+      "Brass Tooth Array"
+    ],
+    "zone": "Meadery",
+    "interactiveProperties": "Unlocks the Subterranean Aging Vault beneath the Meadery. Must be rotated 90 degrees in three dimensions during the lockpicking interface.",
+    "basedOn": "Cubist key designs with shifting geometry",
+    "variants": [
+      "Iron Prism",
+      "Bronze Angular",
+      "Steel Offset"
+    ]
+  },
+  {
+    "name": "Asymmetrical Hydrometer",
+    "description": "A specialized floating glass hydrometer with a multi-angled scale for measuring sugar content and alcohol proof in fermenting vats.",
+    "itemType": "Tool",
+    "materials": [
+      "Blown Glass Tube",
+      "Lead Shot",
+      "Mercury Dial"
+    ],
+    "zone": "Meadery",
+    "interactiveProperties": "Equippable tool used on any vat or barrel to reveal exact sugar density, fermentation progress, and potential flavor notes.",
+    "basedOn": "Cubist scientific instruments and precise brewing tools",
+    "variants": [
+      "Standard Blown Glass",
+      "Gilded Dial",
+      "Mercury Core"
+    ]
+  },
+  {
+    "name": "Cubic Amber Mead Crystal",
+    "description": "A perfectly square block of dark amber honey crystal formed after a century of evaporation in the deep tavern cellars.",
+    "itemType": "Collectible",
+    "materials": [
+      "Crystallized Honey Spirit",
+      "Amber Resin"
+    ],
+    "zone": "Meadery",
+    "interactiveProperties": "Can be placed on display stands or gifted to the Meadmaster to unlock historical brewing lore notes.",
+    "basedOn": "Picasso's cubist geometric solid representations",
+    "variants": [
+      "Deep Amber",
+      "Golden Citrine",
+      "Smoked Honey"
+    ]
+  },
+  {
+    "name": "Firekeeper's Grand Carved Throne",
+    "description": "A towering carved dark oak armchair cushioned in plush crimson velvet and reinforced with heavy iron scrollwork. It overlooks the entire Common Room.",
+    "itemType": "Furniture",
+    "materials": [
+      "Ancient Dark Oak",
+      "Crimson Velvet",
+      "Wrought Iron Fittings"
+    ],
+    "zone": "Common Room",
+    "interactiveProperties": "Sitting in the throne grants the 'Hearthmaster's Authority' buff, causing nearby NPCs to treat you with high respect and grant lower vendor prices.",
+    "basedOn": "The Firekeeper's chair at the heart of the Geode Inn",
+    "variants": [
+      "Crimson & Oak",
+      "Black Velvet & Iron",
+      "Gilded Hearth Edition"
+    ]
+  },
+  {
+    "name": "Communal Hearthstone Banquet Table",
+    "description": "A long, wide stone table with a fire-warmed central slab. Built to hold endless platters of roasts, flagons of mead, and traveler maps.",
+    "itemType": "Furniture",
+    "materials": [
+      "Hearthstone Bedrock",
+      "Carved Chestnut Wood",
+      "Brass Brackets"
+    ],
+    "zone": "Common Room",
+    "interactiveProperties": "Up to 6 players can sit together. Food placed on the center slab stays piping hot indefinitely due to internal thermal stone properties.",
+    "basedOn": "The central communal tables near the great fire",
+    "variants": [
+      "Polished Bedrock",
+      "Chestnut Framed",
+      "Engraved Travelers Map"
+    ]
+  },
+  {
+    "name": "The Eternal Hearth Fireplace",
+    "description": "A massive floor-to-ceiling stone fireplace housing a pulsing Fire Crystal core that radiates steady amber warmth across the entire hub.",
+    "itemType": "Interactive",
+    "materials": [
+      "Hearthstone Blocks",
+      "Fire Crystal Core",
+      "Iron Grate"
+    ],
+    "zone": "Common Room",
+    "interactiveProperties": "Players can stoke the fire with different wood logs (Oak, Pine, Crystal-Infused) to alter room lighting, music tempo, and resting buff potency.",
+    "basedOn": "The primary architectural centerpiece of the Common Room",
+    "variants": [
+      "Grand Arched",
+      "Rough-Cut Granite",
+      "Iron-Gated Furnace"
+    ]
+  },
+  {
+    "name": "Amber Crystal Goblet Fountain",
+    "description": "A tiered brass fountain holding amber glass goblets that fill continuously with spiced hearth-cider.",
+    "itemType": "Interactive",
+    "materials": [
+      "Amber Glass",
+      "Polished Crystal Inlay",
+      "Brass Basin"
+    ],
+    "zone": "Common Room",
+    "interactiveProperties": "Players can take a goblet and trigger a 'Raise a Toast' interaction with other players, conferring a party-wide stamina regeneration buff.",
+    "basedOn": "The Firekeeper's crystal goblet array and toast mechanics",
+    "variants": [
+      "Amber & Brass",
+      "Prismatic Crystal",
+      "Gilded Royal"
+    ]
+  },
+  {
+    "name": "Embossed Guest Ledger of the Inn",
+    "description": "A massive, iron-clasped leather book containing centuries of traveler signatures, cryptic notes, and hidden floorplan sketches.",
+    "itemType": "QuestItem",
+    "materials": [
+      "Bound Pigskin Leather",
+      "Gold Leaf Thread",
+      "Vellum Pages"
+    ],
+    "zone": "Common Room",
+    "interactiveProperties": "Required by the Innkeeper to verify the identity of forgotten heroes. Reading it reveals lore entries and unlocks historical quest logs.",
+    "basedOn": "The historical register recording every guest who ever crossed the threshold",
+    "variants": [
+      "Ancient Pigskin",
+      "Iron-Clasped",
+      "Gold Thread Bound"
+    ]
+  },
+  {
+    "name": "Firekeeper's Crest Signet Ring",
+    "description": "A heavy iron ring set with a glowing amber stone carved in the shape of the Geode Inn's double-hearth crest.",
+    "itemType": "QuestItem",
+    "materials": [
+      "Wrought Iron",
+      "Carved Amber Gem"
+    ],
+    "zone": "Common Room",
+    "interactiveProperties": "Unlocks the heavy oak doors leading from the Common Room down into the Catacombs and Bone Room. Cannot be dropped.",
+    "basedOn": "The Firekeeper's badge of office and security key",
+    "variants": [
+      "Wrought Iron Seal",
+      "Polished Amber Crest",
+      "Gilded Keeper"
+    ]
+  },
+  {
+    "name": "Carved Oak Hearth Tongs",
+    "description": "Long, elegant iron tongs with smooth oak handles, designed to manipulate glowing embers without transferring heat to the wielder.",
+    "itemType": "Tool",
+    "materials": [
+      "Hand-Forged Wrought Iron",
+      "Carved Oak Grips"
+    ],
+    "zone": "Common Room",
+    "interactiveProperties": "Equippable tool used to harvest 'Eternal Embers' directly from the Great Hearth or relocate burning fire crystals safely.",
+    "basedOn": "The Firekeeper's essential fire maintenance tool",
+    "variants": [
+      "Standard Hearth",
+      "Dragonshead Iron",
+      "Gilded Grip"
+    ]
+  },
+  {
+    "name": "Prismatic Hearth Ember",
+    "description": "A solidified stone ember that glows with a gentle orange-gold pulse, warm to the touch even when submerged in icy water.",
+    "itemType": "Collectible",
+    "materials": [
+      "Crystallized Ash",
+      "Fire Crystal Dust"
+    ],
+    "zone": "Common Room",
+    "interactiveProperties": "Can be set in lanterns, placed on tables as personal hand-warmers, or displayed in trophy cabinets.",
+    "basedOn": "Ember stones that retain heat and light indefinitely",
+    "variants": [
+      "Golden Pulse",
+      "Deep Crimson Glow",
+      "Solar Spark"
+    ]
+  },
+  {
+    "name": "Gilded Osteo-Lattice Altar",
+    "description": "An exquisite altar formed from interlocking bleached bone arches draped in intricate geometric gold leaf mosaic patterns.",
+    "itemType": "Furniture",
+    "materials": [
+      "Bleached Mammoth Ribs",
+      "24k Gold Leaf",
+      "Calcite Crystals"
+    ],
+    "zone": "Bone Room",
+    "interactiveProperties": "Functions as a ceremonial focus for osteo-synthesis crafting. Placing bone artifacts here cleanses them of dark corruption.",
+    "basedOn": "O'Keeffe's skull and bone compositions wrapped in Gustav Klimt's shimmering gold leaf patterns",
+    "variants": [
+      "Mammoth Gold Lattice",
+      "Eburnean Mosaic",
+      "Calcite Crest"
+    ]
+  },
+  {
+    "name": "Opalescent Vertebrae Bench",
+    "description": "A bench sculpted from massive fossilized whale vertebrae, smooth as porcelain, set with glittering opal mosaic tiles.",
+    "itemType": "Furniture",
+    "materials": [
+      "Fossilized Vertebrae",
+      "Opal Inlay",
+      "Polished Velvet Cushion"
+    ],
+    "zone": "Bone Room",
+    "interactiveProperties": "Provides seating for two. Sitting here grants 'Osteo Resilience' (+15 defense against physical crushed status effects).",
+    "basedOn": "O'Keeffe's bone landscapes and Klimt's decorative jewel-tone mosaic patterns",
+    "variants": [
+      "Opalized Ivory",
+      "Gold Leaf Vertebrae",
+      "Obsidian Inlay"
+    ]
+  },
+  {
+    "name": "Calcite Skull Resonator",
+    "description": "A pristine stag skull mounted on dark basalt, its eye sockets filled with cluster crystals that hum when wind or sound passes through.",
+    "itemType": "Interactive",
+    "materials": [
+      "Bleached Stag Skull",
+      "Growth Calcite Crystals",
+      "Brass Tuning Rods"
+    ],
+    "zone": "Bone Room",
+    "interactiveProperties": "Players can strike the crystal antlers to produce musical tones. Solving tone puzzles unlocks hidden alcoves in the Bone Room.",
+    "basedOn": "O'Keeffe's Ram's Head with Hollyhock and Klimt's golden acoustic patterns",
+    "variants": [
+      "Stag Calcite",
+      "Bison Gold Horn",
+      "Sabertooth Quartz"
+    ]
+  },
+  {
+    "name": "Gilded Bone Loom",
+    "description": "A tall vertical loom built from polished longbones and brass gears, used to weave fine golden thread with calcium silk.",
+    "itemType": "Interactive",
+    "materials": [
+      "Bleached Bone Frame",
+      "Gold Wire Spools",
+      "Ivory Shuttles"
+    ],
+    "zone": "Bone Room",
+    "interactiveProperties": "Allows players to craft gilded textiles and bone-reinforced armor lining. Requires precise timing in a weaving rhythm mini-game.",
+    "basedOn": "Klimt's textile motifs combined with skeletal structural framework",
+    "variants": [
+      "Gold Thread Loom",
+      "Ivory Fine-Weave",
+      "Mammoth Frame"
+    ]
+  },
+  {
+    "name": "Bleached Ram's Horn of Solstice",
+    "description": "A massive spiral ram's horn coated in delicate Klimt-style gold leaf scrollwork, ringing with a soft echo when held.",
+    "itemType": "QuestItem",
+    "materials": [
+      "Ancient Ram Skull Bone",
+      "Gold Leaf Filigree"
+    ],
+    "zone": "Bone Room",
+    "interactiveProperties": "Required to open the Golden Bone Gate leading into the subterranean Deep Catacombs. Sounds a low trumpet call when used.",
+    "basedOn": "O'Keeffe's iconic Ram's Head paintings",
+    "variants": [
+      "Golden Spiral",
+      "Opaline Horn",
+      "Sun-Bleached White"
+    ]
+  },
+  {
+    "name": "Fossilized Ammonite Prism",
+    "description": "A perfectly preserved spiral ammonite fossil whose inner chambers have transformed into radiant prismatic calcite crystals.",
+    "itemType": "QuestItem",
+    "materials": [
+      "Petrified Shell",
+      "Calcite Crystal Matrix"
+    ],
+    "zone": "Bone Room",
+    "interactiveProperties": "Fits into the central altar of the Bone Room to align light beams onto hidden mural walls. Key item for the Archaeologist quest.",
+    "basedOn": "Spiral shell geometry and Klimt's metallic organic patterns",
+    "variants": [
+      "Prismatic Spiral",
+      "Gilded Ammonite",
+      "Deep Iridescent"
+    ]
+  },
+  {
+    "name": "Gold-Leaf Bone Stylus",
+    "description": "A sharp ivory stylus tipped with hardened gold alloy, engineered for delicate rune engraving on bone and fossil surfaces.",
+    "itemType": "Tool",
+    "materials": [
+      "Polished Ivory",
+      "24k Gold Nib",
+      "Silk Wrapping"
+    ],
+    "zone": "Bone Room",
+    "interactiveProperties": "Equippable tool that enables 'Bone Engraving' on raw fossil materials. Increases item quality when crafting osteo-furniture.",
+    "basedOn": "Precision carving tools used in gilded osteo-artistry",
+    "variants": [
+      "Ivory Gold Nib",
+      "Ebony Silver Tip",
+      "Mammoth Diamond"
+    ]
+  },
+  {
+    "name": "Opalized Trilobite Cameo",
+    "description": "A tiny prehistoric trilobite fossil that has completely opalized into a fiery display of blue, green, and gold iridescence.",
+    "itemType": "Collectible",
+    "materials": [
+      "Opalized Fossil",
+      "Gold Leaf Frame"
+    ],
+    "zone": "Bone Room",
+    "interactiveProperties": "Can be framed and hung on walls or traded to the Relic Collector for high-tier crafting recipes.",
+    "basedOn": "Prehistoric fossils transformed into luxurious Klimt-style jewelry",
+    "variants": [
+      "Fiery Red Opal",
+      "Oceanic Blue-Green",
+      "Gilded Golden Opal"
+    ]
+  },
+  {
+    "name": "Chiaroscuro Basalt Arch Chair",
+    "description": "A massive throne carved from dark basalt, featuring sweeping gothic arches that throw deep, angular shadows across the stone floor.",
+    "itemType": "Furniture",
+    "materials": [
+      "Volcanic Basalt",
+      "Carved Granite",
+      "Lichen Padding"
+    ],
+    "zone": "Cave City",
+    "interactiveProperties": "Player can sit to gain 'Subterranean Focus' (+10% vision range in dark caves). The chair's surface feels cool and immovably solid.",
+    "basedOn": "Gustave Dor\u00e9's monumental dark architecture and dramatic shadows",
+    "variants": [
+      "Basalt Gothic",
+      "Granite Pillar",
+      "Etched Shadow"
+    ]
+  },
+  {
+    "name": "Glow-Moss Lit Scholar's Desk",
+    "description": "A heavy slate desk built directly into a cave niche, illuminated by a canopy of cultivated bioluminescent green moss.",
+    "itemType": "Furniture",
+    "materials": [
+      "Subterranean Slate",
+      "Living Glow-Moss",
+      "Iron Frame"
+    ],
+    "zone": "Cave City",
+    "interactiveProperties": "Functions as a research desk for subterranean mapping. Items left on the desk are visible in total darkness due to moss luminescence.",
+    "basedOn": "Dor\u00e9's subterranean scholars and engraver studios",
+    "variants": [
+      "Slate & Moss",
+      "Deep Basalt",
+      "Iron-Legged Niche"
+    ]
+  },
+  {
+    "name": "Abyssal Chasm Pulley Elevator",
+    "description": "A heavy industrial cable system mounted over an abyssal drop, allowing players to lower themselves into lower cave tiers.",
+    "itemType": "Interactive",
+    "materials": [
+      "Wrought Iron Cable",
+      "Cast Bronze Winch",
+      "Oak Platform"
+    ],
+    "zone": "Cave City",
+    "interactiveProperties": "Interacting allows players to ride between upper Cave City and the Abyss floor. Players can operate the hand crank or lock the brake.",
+    "basedOn": "Dor\u00e9's monumental winches, bridge engineering, and subterranean chasms",
+    "variants": [
+      "Industrial Iron",
+      "Bronze Winch",
+      "Dwarf-Engraved Steel"
+    ]
+  },
+  {
+    "name": "Bioluminescent Mushroom Lantern Array",
+    "description": "A cluster of large blue-glowing cap mushrooms housed inside a protective wrought iron cage to prevent spore escape.",
+    "itemType": "Interactive",
+    "materials": [
+      "Spore-Cap Fungi",
+      "Iron Mesh Cage",
+      "Moist Soil Base"
+    ],
+    "zone": "Cave City",
+    "interactiveProperties": "Players can tap the cage to trigger a bright pulse of blue light that reveals hidden wall markings and frightens dark pests.",
+    "basedOn": "Subterranean lighting in Dor\u00e9's underground caverns",
+    "variants": [
+      "Indigo Spore",
+      "Luminous Cyan",
+      "Amber Cap"
+    ]
+  },
+  {
+    "name": "Engraved Basalt Waystone Map",
+    "description": "A heavy stone slab etched with microscopic lines depicting the labyrinthine tunnels and hidden aqueducts of Cave City.",
+    "itemType": "QuestItem",
+    "materials": [
+      "Chiseled Basalt Slab",
+      "Silver Ore Fill"
+    ],
+    "zone": "Cave City",
+    "interactiveProperties": "Delivered to the Cave Cartographer to reveal all fast-travel waypoints across the subterranean zone on the player's map.",
+    "basedOn": "Dor\u00e9's detailed steelplate engravings",
+    "variants": [
+      "Silver Inlaid Slab",
+      "Iron Etched",
+      "Dark Basalt"
+    ]
+  },
+  {
+    "name": "Subterranean Chime Tuning Fork",
+    "description": "A heavy two-pronged bronze fork that rings with a resonant low pitch capable of shattering acoustic granite locks.",
+    "itemType": "QuestItem",
+    "materials": [
+      "Tempered High-Purity Bronze",
+      "Lead Counterweight"
+    ],
+    "zone": "Cave City",
+    "interactiveProperties": "Used at sealed granite doorways in Cave City. Interacting triggers a reverberation wave that breaks the stone seal.",
+    "basedOn": "Acoustic stone-shattering mechanics in deep caverns",
+    "variants": [
+      "Deep Bronze",
+      "Tempered Steel",
+      "Resonant Brass"
+    ]
+  },
+  {
+    "name": "Engraver's Basalt Chisel Set",
+    "description": "A roll of precision steel chisels designed to carve sharp, crosshatched grooves into hard volcanic rock.",
+    "itemType": "Tool",
+    "materials": [
+      "Hardened Tool Steel",
+      "Ash Handle",
+      "Leather Roll"
+    ],
+    "zone": "Cave City",
+    "interactiveProperties": "Equippable tool used to harvest mineral veins cleanly and carve player custom runes onto stone walls and furniture.",
+    "basedOn": "Dor\u00e9's master engraving techniques transferred to stone carving",
+    "variants": [
+      "Master Steel",
+      "Diamond Tipped",
+      "Iron Clad"
+    ]
+  },
+  {
+    "name": "Deep-Cave Indigo Spore Globe",
+    "description": "A sealed glass sphere containing living indigo spores that float endlessly in a nutrient gel, casting soft blue ripples.",
+    "itemType": "Collectible",
+    "materials": [
+      "Blown Glass Globe",
+      "Bioluminescent Spores"
+    ],
+    "zone": "Cave City",
+    "interactiveProperties": "Can be placed on tables as a permanent soft light source or gifted to the Botanist to unlock fungal recipes.",
+    "basedOn": "Dor\u00e9's ethereal subterranean light sources",
+    "variants": [
+      "Indigo Mist",
+      "Ethereal Cyan",
+      "Deep Violet Wave"
+    ]
+  },
+  {
+    "name": "Crosshatched Iron Plant Stand",
+    "description": "A spindly multi-tiered iron plant stand rendered in sharp, crosshatched black metal, holding potting urns of venomous flora.",
+    "itemType": "Furniture",
+    "materials": [
+      "Wrought Iron",
+      "Blackened Steel",
+      "Terracotta Pots"
+    ],
+    "zone": "Poison Garden",
+    "interactiveProperties": "Holds up to 4 small potted poison plants. Plants placed here produce venom drops 20% faster.",
+    "basedOn": "Edward Gorey's pen-and-ink crosshatched Victorian wrought iron designs",
+    "variants": [
+      "Crosshatched Black",
+      "Rusted Victorian",
+      "Gothic Spire"
+    ]
+  },
+  {
+    "name": "Velvet-Lined Apothecary Cabinet",
+    "description": "A tall, narrow ebonized wood cabinet featuring dozens of tiny drawers labeled with cryptic Victorian latin poison names.",
+    "itemType": "Furniture",
+    "materials": [
+      "Ebonized Plum Wood",
+      "Dark Purple Velvet",
+      "Brass Drawer Pulls"
+    ],
+    "zone": "Poison Garden",
+    "interactiveProperties": "Provides 30 dedicated storage slots for toxins, seeds, and antidotes. Features a locked secret compartment behind the velvet back panel.",
+    "basedOn": "Gorey's sinister Edwardian specimen displays and poison cupboards",
+    "variants": [
+      "Ebonized Plum",
+      "Dark Mahogany",
+      "Midnight Velvet"
+    ]
+  },
+  {
+    "name": "Thorn-Vine Birdcage Greenhouse",
+    "description": "A towering Victorian birdcage converted into a miniature greenhouse to contain a thrashing, carnivorous thorn-vine plant.",
+    "itemType": "Interactive",
+    "materials": [
+      "Wrought Iron Bars",
+      "Living Thorn Vines",
+      "Lead Glass Base"
+    ],
+    "zone": "Poison Garden",
+    "interactiveProperties": "Players can feed insect specimens or meat to the thorn vine to harvest 'Razor-Thorn Resin'. Careful not to get bitten!",
+    "basedOn": "Gorey's ominous aviaries and sinister greenhouse illustrations",
+    "variants": [
+      "Iron Aviary",
+      "Crosshatched Black",
+      "Gilded Cage"
+    ]
+  },
+  {
+    "name": "Sinister Belladonna Tea Service",
+    "description": "An exquisite black china teapot and cup set painted with delicate nightshade flowers and crosshatched vine motifs.",
+    "itemType": "Interactive",
+    "materials": [
+      "Black Bone China",
+      "Gold Leaf Rim",
+      "Silver Tea Strainer"
+    ],
+    "zone": "Poison Garden",
+    "interactiveProperties": "Players can brew 'Micro-Dosed Herbal Tea'. Drinking grants immune resistance to all poison traps for 15 minutes.",
+    "basedOn": "Gorey's dark humor Victorian tea parties",
+    "variants": [
+      "Black Bone China",
+      "Nightshade Gold",
+      "Crosshatched Silver"
+    ]
+  },
+  {
+    "name": "Bottled Cobra Venom Flask",
+    "description": "A triangular glass bottle filled with viscous green liquid, sealed with black wax and stamped with a skull emblem.",
+    "itemType": "QuestItem",
+    "materials": [
+      "Heavy Blown Lead Glass",
+      "Wax Seal",
+      "Refined Venom"
+    ],
+    "zone": "Poison Garden",
+    "interactiveProperties": "Delivered to the Master Apothecary to brew the Universal Antidote. Highly volatile if opened improperly.",
+    "basedOn": "Gorey's alphabet of toxins and Edwardian apothecary lore",
+    "variants": [
+      "Viscous Green",
+      "Amber Distillate",
+      "Black Wax Seal"
+    ]
+  },
+  {
+    "name": "Edwardian Nightshade Journal",
+    "description": "A sinister handwritten field guide containing detailed crosshatched illustrations of lethal flora and their exact antidote formulas.",
+    "itemType": "QuestItem",
+    "materials": [
+      "Crosshatched Cloth Binding",
+      "Iron Gall Ink",
+      "Pressed Leaves"
+    ],
+    "zone": "Poison Garden",
+    "interactiveProperties": "Reading unlocks all Poison Garden plant recipes in the player's herbology codex. Key quest item for the Herbalist.",
+    "basedOn": "Gorey's illustrated books and botanical field notes",
+    "variants": [
+      "Cloth Bound",
+      "Leather Clasp",
+      "Crosshatched Ink"
+    ]
+  },
+  {
+    "name": "Gravedigger's Pruning Shears",
+    "description": "Heavy-duty steel shears with serrated inner jaws designed to snip thick, venomous thorn vines without causing sap splatter.",
+    "itemType": "Tool",
+    "materials": [
+      "Blackened High-Carbon Steel",
+      "Leather Wrapped Handles"
+    ],
+    "zone": "Poison Garden",
+    "interactiveProperties": "Equippable tool used to clear thorn-vine blockages in the Poison Garden and harvest rare plant cuttings safely.",
+    "basedOn": "Gorey's sharp gothic tools",
+    "variants": [
+      "Blackened Carbon",
+      "Rusted Gothic",
+      "Silver-Plated Edge"
+    ]
+  },
+  {
+    "name": "Crosshatched Poison Ring",
+    "description": "A heavy silver signet ring with an intricate crosshatched engraving. The top hinges open to reveal a tiny hidden compartment.",
+    "itemType": "Collectible",
+    "materials": [
+      "Sterling Silver",
+      "Hinged Onyx Compartment"
+    ],
+    "zone": "Poison Garden",
+    "interactiveProperties": "Can be worn as a cosmetic accessory or used to store 1 dose of powdered potion for quick tactical use.",
+    "basedOn": "Victorian secret poison rings in Gorey's murder mystery aesthetic",
+    "variants": [
+      "Sterling Onyx",
+      "Gilded Cameo",
+      "Blackened Steel"
+    ]
+  },
+  {
+    "name": "Woven Golden Willow Throne",
+    "description": "A high-backed throne woven entirely from living golden willow branches that blossom with fragrant white flowers when sat upon.",
+    "itemType": "Furniture",
+    "materials": [
+      "Living Summer Willow",
+      "Golden Thread",
+      "Birch Bark"
+    ],
+    "zone": "Seelie Court",
+    "interactiveProperties": "Sitting here grants 'Fae Grace' (+10% movement speed and jump height). The throne gently sways as if caressed by a summer breeze.",
+    "basedOn": "Alan Lee's watercolor ethereal wooden architecture and fae thrones",
+    "variants": [
+      "Living Willow",
+      "Sunlit Birch",
+      "Gossamer Woven"
+    ]
+  },
+  {
+    "name": "Sunlit Gossamer Daybed",
+    "description": "A low, elegant daybed framed in carved ash wood and draped with translucent gossamer fabric that catches golden forest light.",
+    "itemType": "Furniture",
+    "materials": [
+      "Silken Gossamer Thread",
+      "Polished Ash Wood",
+      "Golden Forest Moss"
+    ],
+    "zone": "Seelie Court",
+    "interactiveProperties": "Resting here rapidly restores player health and clears all fatigue debuffs while surrounding the player in golden particle light.",
+    "basedOn": "Alan Lee's romantic, soft watercolor interiors",
+    "variants": [
+      "Gossamer Ash",
+      "Summer Moss",
+      "Sunlit Gold"
+    ]
+  },
+  {
+    "name": "Riddle-Inscribed Sundial Table",
+    "description": "A round quartz table etched with delicate Elvish riddles. A golden brass needle casts shadows that point to hidden runes.",
+    "itemType": "Interactive",
+    "materials": [
+      "Aventurine Quartz",
+      "Golden Brass Gnomon",
+      "Elvish Inscriptions"
+    ],
+    "zone": "Seelie Court",
+    "interactiveProperties": "Players rotate the needle to solve sun-riddles based on current game time. Correct answers unlock secret Seelie treasure caches.",
+    "basedOn": "Alan Lee's ancient stone dials and fae riddlelore",
+    "variants": [
+      "Aventurine Quartz",
+      "Polished Marble",
+      "Golden Brass"
+    ]
+  },
+  {
+    "name": "Gossamer & Birch Wood Harp",
+    "description": "A graceful standing harp constructed from curved silver birch wood, strung with luminous gossamer threads that chime without touching.",
+    "itemType": "Interactive",
+    "materials": [
+      "Silver Birch Wood",
+      "Spun Gossamer Strings",
+      "Gold Leaf Inlay"
+    ],
+    "zone": "Seelie Court",
+    "interactiveProperties": "Players can play melodies on the harp. Playing the 'Summer Carol' causes surrounding flora to bloom instantly and open secret vine gates.",
+    "basedOn": "Alan Lee's depictions of elven musical instruments",
+    "variants": [
+      "Silver Birch",
+      "Gilded Gossamer",
+      "Ethereal Ash"
+    ]
+  },
+  {
+    "name": "Golden Summer Solstice Crown",
+    "description": "A circlet woven from threads of pure golden light and preserved solstice leaves that never wither.",
+    "itemType": "QuestItem",
+    "materials": [
+      "Woven Sun-Gold Wire",
+      "Solstice Oak Leaves",
+      "Dewdrop Crystals"
+    ],
+    "zone": "Seelie Court",
+    "interactiveProperties": "Required by the Seelie Ambassador to complete the Summer Court Alliance quest line. Grants water-walking when equipped.",
+    "basedOn": "The Seelie Queen's regalia in Alan Lee's faerie illustrations",
+    "variants": [
+      "Sun-Gold Solstice",
+      "Dewdrop Circlet",
+      "Golden Oak"
+    ]
+  },
+  {
+    "name": "Dewdrop Crystal Lantern of Truth",
+    "description": "A crystal lantern containing a single magnified drop of morning dew that glows with an unwavering warm golden light.",
+    "itemType": "QuestItem",
+    "materials": [
+      "Hand-Blown Crystal Sphere",
+      "Crystallized Dewdrop",
+      "Birch Handle"
+    ],
+    "zone": "Seelie Court",
+    "interactiveProperties": "Dispel illusions, revealing hidden Seelie pathways and unmasking shapeshifted Unseelie spies in the zone.",
+    "basedOn": "Fae magic light sources in watercolor legendry",
+    "variants": [
+      "Dewdrop Gold",
+      "Prismatic Birch",
+      "Sunlit Amber"
+    ]
+  },
+  {
+    "name": "Golden Oak Tuning Fork",
+    "description": "A carved wooden tuning fork that vibrates at the natural frequency of growing plants and trees.",
+    "itemType": "Tool",
+    "materials": [
+      "Ancient Heartwood Oak",
+      "Golden Brass Collar"
+    ],
+    "zone": "Seelie Court",
+    "interactiveProperties": "Equippable tool used to commune with ancient forest trees, unlocking hidden dialogue and harvesting rare sap.",
+    "basedOn": "Subtle natural sound tools in elven lore",
+    "variants": [
+      "Heartwood Oak",
+      "Golden Brass",
+      "Willow Leaf"
+    ]
+  },
+  {
+    "name": "Prismatic Dewdrop Gem",
+    "description": "A gemstone formed from a single drop of Seelie dawn dew, permanently frozen into a brilliant sun-catching crystal.",
+    "itemType": "Collectible",
+    "materials": [
+      "Crystallized Fae Dew",
+      "Gold Leaf Dust"
+    ],
+    "zone": "Seelie Court",
+    "interactiveProperties": "Can be placed on pedestals to project tiny rainbows across the room or traded for high-tier Seelie enchantments.",
+    "basedOn": "Magical dew drops solidified into jewels in fae mythology",
+    "variants": [
+      "Solar Gold",
+      "Cyan Aurora",
+      "Rose Solstice"
+    ]
+  },
+  {
+    "name": "Frost-Forged Shadow Stone Throne",
+    "description": "A massive dark granite seat wrapped in layers of creeping frost and shadow ice. It radiates an ominous, icy authority.",
+    "itemType": "Furniture",
+    "materials": [
+      "Dark Granite Monolith",
+      "Shadow Ice Inlay",
+      "Runic Iron Brackets"
+    ],
+    "zone": "Unseelie Court",
+    "interactiveProperties": "Sitting grants 'Frost Monarch' (+20% ice damage and resistance to freezing). Non-Unseelie NPCs bow when you sit here.",
+    "basedOn": "John Bauer's massive Scandinavian troll thrones carved from mossy boulders",
+    "variants": [
+      "Granite Monolith",
+      "Shadow Ice Spire",
+      "Runic Iron Clad"
+    ]
+  },
+  {
+    "name": "Glacial Ice Table of the Winter King",
+    "description": "A thick slab of dark blue shadow ice supported by rough mossy stone monoliths. The surface never melts, even near flame.",
+    "itemType": "Furniture",
+    "materials": [
+      "Eternal Shadow Ice Slab",
+      "Mossy Stone Pillars",
+      "Iron Rivets"
+    ],
+    "zone": "Unseelie Court",
+    "interactiveProperties": "Items placed on the table freeze instantly, preserving food and reagents indefinitely without decay.",
+    "basedOn": "Bauer's dark fairytale banquet tables in deep Scandinavian forests",
+    "variants": [
+      "Glacial Ice Slab",
+      "Mossy Monolith",
+      "Dark Frost Table"
+    ]
+  },
+  {
+    "name": "Troll-Carved Rune Monolith",
+    "description": "A towering ancient stone monolith etched with deep Scandinavian troll runes that pulse with cold blue luminescence.",
+    "itemType": "Interactive",
+    "materials": [
+      "Weathered Glacial Stone",
+      "Glowing Runes",
+      "Iron Chains"
+    ],
+    "zone": "Unseelie Court",
+    "interactiveProperties": "Players touch the runes to channel winter frost magic. Solving the rune alignment puzzle summons a temporary Shadow Ice Guard.",
+    "basedOn": "John Bauer's iconic mossy boulders and giant troll stone carvings",
+    "variants": [
+      "Mossy Monolith",
+      "Blue Rune Granite",
+      "Chained Frost Stone"
+    ]
+  },
+  {
+    "name": "Shadow-Ice Anvil of the Anvilmaster",
+    "description": "A heavy anvil forged from black iron resting on a pedestal of unmelting shadow ice. Used to craft dark winter armament.",
+    "itemType": "Interactive",
+    "materials": [
+      "Blackened Meteoric Iron",
+      "Shadow-Ice Base",
+      "Runic Hammers"
+    ],
+    "zone": "Unseelie Court",
+    "interactiveProperties": "Primary crafting station for Unseelie weapons and frost-forged armor. Striking the anvil emits a spray of freezing blue sparks.",
+    "basedOn": "Scandinavian dark fairytale blacksmithing and troll craftsmanship",
+    "variants": [
+      "Meteoric Black",
+      "Frost Pedestal",
+      "Troll Engraved"
+    ]
+  },
+  {
+    "name": "Shadow-Ice Heart Core",
+    "description": "A jagged, pulsing crystal of pure shadow ice that freezes the air around it into delicate ice needles.",
+    "itemType": "QuestItem",
+    "materials": [
+      "Compressed Shadow Ice",
+      "Dark Magic Essence"
+    ],
+    "zone": "Unseelie Court",
+    "interactiveProperties": "Required to break the Frost Curse over the Unseelie Vault and forge the Glacial Broadsword.",
+    "basedOn": "The icy heart of the troll king in Bauer's dark folklore",
+    "variants": [
+      "Jagged Shadow Ice",
+      "Black Frost Core",
+      "Glacial Blue"
+    ]
+  },
+  {
+    "name": "Troll King's Bone & Iron Crown",
+    "description": "A heavy, sprawling crown crafted from jagged dark iron and carved troll horn bone, set with raw shadow sapphires.",
+    "itemType": "QuestItem",
+    "materials": [
+      "Forged Dark Iron",
+      "Troll Horn Bone",
+      "Shadow Sapphires"
+    ],
+    "zone": "Unseelie Court",
+    "interactiveProperties": "Equipped or delivered to the Winter Regent to claim lordship over the Unseelie territory. Unlocks dark combat trials.",
+    "basedOn": "John Bauer's oversized ornate troll crowns in Among Goblins and Trolls",
+    "variants": [
+      "Dark Iron & Horn",
+      "Shadow Sapphire",
+      "Gilded Frost"
+    ]
+  },
+  {
+    "name": "Frost-Forged Iron Warhorn",
+    "description": "A heavy iron hunting horn wrapped in frost-coated leather, producing a deep, terrifying blast when sounded.",
+    "itemType": "Tool",
+    "materials": [
+      "Blackened Iron",
+      "Frost Crystal Trim",
+      "Leather Strap"
+    ],
+    "zone": "Unseelie Court",
+    "interactiveProperties": "Equippable tool used to blow a blizzard call that freezes nearby enemies for 3 seconds and clears shadow fog.",
+    "basedOn": "Scandinavian hunting horns in dark fairytale illustrations",
+    "variants": [
+      "Black Iron Classic",
+      "Frost Crystal Trim",
+      "Runic Engraved"
+    ]
+  },
+  {
+    "name": "Glacial Ice Runestone",
+    "description": "A palm-sized fragment of dark glacial ice etched with protection runes that fill with shimmering silver powder.",
+    "itemType": "Collectible",
+    "materials": [
+      "Carved Shadow Ice",
+      "Silver Powder Fill"
+    ],
+    "zone": "Unseelie Court",
+    "interactiveProperties": "Can be set into weapon sockets for ice damage or displayed on pedestals as a frost trophy.",
+    "basedOn": "John Bauer's magical runestones hidden in deep pine forests",
+    "variants": [
+      "Silver Rune",
+      "Shadow Blue",
+      "Glacial Frost"
+    ]
+  },
+  {
+    "name": "Abyssal Obsidian & Coral Altar",
+    "description": "A dark, sleek altar sculpted from polished black obsidian, wrapped in living red coral that pulses with deep sea light.",
+    "itemType": "Furniture",
+    "materials": [
+      "Volcanic Obsidian",
+      "Bioluminescent Red Coral",
+      "Pearl Dust"
+    ],
+    "zone": "Atlantis",
+    "interactiveProperties": "Functions as an oceanic ritual station. Placing marine artifacts on the altar imbues them with 'Abyssal Resonance'.",
+    "basedOn": "Luis Royo's dark fantasy aquatic art and sensuous organic stone shapes",
+    "variants": [
+      "Obsidian & Red Coral",
+      "Bioluminescent Cyan",
+      "Pearl Embedded"
+    ]
+  },
+  {
+    "name": "Iridescent Pearl Shell Lounge",
+    "description": "A luxurious reclining lounge set inside a massive polished giant clam shell, lined with iridescent mother-of-pearl and dark silk kelp.",
+    "itemType": "Furniture",
+    "materials": [
+      "Giant Clam Shell",
+      "Mother-of-Pearl",
+      "Abyssal Kelp Silk"
+    ],
+    "zone": "Atlantis",
+    "interactiveProperties": "Seats 2 players. Resting here grants underwater breathing and underwater vision for 30 minutes.",
+    "basedOn": "Royo's dark sensuous aquatic thrones and pearl resting beds",
+    "variants": [
+      "Mother-of-Pearl",
+      "Deep Sea Black Shell",
+      "Golden Nacre"
+    ]
+  },
+  {
+    "name": "Tide-Calling Conch Organ",
+    "description": "A monumental aquatic organ constructed from giant spiraled sea shells and coral pipes that channel water pressure into deep oceanic notes.",
+    "itemType": "Interactive",
+    "materials": [
+      "Spiral Conch Shells",
+      "Bioluminescent Sea Crystal",
+      "Coral Pipes"
+    ],
+    "zone": "Atlantis",
+    "interactiveProperties": "Players play hydraulic keys to alter water current direction and drain flooded chambers in the Atlantis ruins.",
+    "basedOn": "Royo's biomechanical and organic musical creations",
+    "variants": [
+      "Coral & Conch",
+      "Abyssal Obsidian",
+      "Prismatic Nacre"
+    ]
+  },
+  {
+    "name": "Bioluminescent Deep Sea Basin",
+    "description": "A wide basalt basin filled with pitch-black oceanic water illuminated from within by floating bioluminescent plankton.",
+    "itemType": "Interactive",
+    "materials": [
+      "Abyssal Basalt",
+      "Deep Sea Water",
+      "Glow-Plankton Crystal"
+    ],
+    "zone": "Atlantis",
+    "interactiveProperties": "Players can peer into the basin to scry distant flooded rooms, revealing enemy locations and submerged chest locations.",
+    "basedOn": "Royo's dark glowing water pools and scrying basins",
+    "variants": [
+      "Basalt Plankton",
+      "Obsidian Glow",
+      "Pearl Rimmed"
+    ]
+  },
+  {
+    "name": "Leviathan Scale Heartstone",
+    "description": "A hand-sized dragon scale from an ancient abyss leviathan, hard as diamond and shimmering with deep oceanic teal light.",
+    "itemType": "QuestItem",
+    "materials": [
+      "Iridescent Leviathan Scale",
+      "Deep Sea Crystal"
+    ],
+    "zone": "Atlantis",
+    "interactiveProperties": "Required to power the Abyssal Engine and unlock the lowest gates of the Atlantis Trench.",
+    "basedOn": "Royo's dark aquatic dragons and sea serpent motifs",
+    "variants": [
+      "Oceanic Teal Scale",
+      "Abyssal Black",
+      "Bioluminescent Gold"
+    ]
+  },
+  {
+    "name": "Golden Trident of the Tide Sovereign",
+    "description": "A majestic three-pronged trident forged from gleaming Orichalcum, set with a glowing pearl core at its center.",
+    "itemType": "QuestItem",
+    "materials": [
+      "Atlantean Orichalcum",
+      "Refined Pearl Core"
+    ],
+    "zone": "Atlantis",
+    "interactiveProperties": "Required to seal the deep-sea abyssal rift during the climax of the Atlantis quest line. Can be mounted as a trophy after.",
+    "basedOn": "Royo's dark fantasy royal weaponry",
+    "variants": [
+      "Orichalcum Gold",
+      "Abyssal Steel",
+      "Coral Inlaid"
+    ]
+  },
+  {
+    "name": "Coral Carving Glass Needle",
+    "description": "A needle-sharp instrument made from volcanic sea glass, used to engrave living coral without harming its growth.",
+    "itemType": "Tool",
+    "materials": [
+      "Obsidian Glass",
+      "Sharkskin Wrap",
+      "Coral Tip"
+    ],
+    "zone": "Atlantis",
+    "interactiveProperties": "Equippable tool used to harvest delicate bioluminescent coral branches and sculpt marine furniture.",
+    "basedOn": "Precision aquatic tools in Atlantean artisan craft",
+    "variants": [
+      "Obsidian Glass",
+      "Sharkskin Wrap",
+      "Orichalcum Tip"
+    ]
+  },
+  {
+    "name": "Tear of the Sea Siren",
+    "description": "A teardrop-shaped pearl that glows with an intense sapphire light, capturing the motion of ocean waves within its core.",
+    "itemType": "Collectible",
+    "materials": [
+      "Crystallized Sea Nacre",
+      "Bioluminescent Fluid"
+    ],
+    "zone": "Atlantis",
+    "interactiveProperties": "Can be placed on display stands or traded to the Sea Collector for legendary Atlantean armor blueprints.",
+    "basedOn": "Royo's sensuous siren mythology and dark ocean gems",
+    "variants": [
+      "Sapphire Tear",
+      "Black Pearl",
+      "Emerald Abyss"
+    ]
+  },
+  {
+    "name": "Red Mesa Shrine Altar",
+    "description": "A low-standing ceremonial altar cut directly from red sandstone strata, featuring turquoise channels that guide rain runoff into carved basin symbols.",
+    "itemType": "Furniture",
+    "materials": [
+      "Red sandstone",
+      "Juniper resin",
+      "Cut turquoise inlay"
+    ],
+    "zone": "Colorado Plateau",
+    "interactiveProperties": "Placing a sun-warmed mineral specimen on the altar surface aligns sunlight reflections across canyon wall glyphs, unlocking ancient plateau maps.",
+    "basedOn": "Maynard Dixon's geometric red rock monoliths and Southwestern architectural shrines",
+    "variants": [
+      "Sunset Red Sandstone",
+      "Ochre Clay Trim",
+      "Weathered Canyon Slate"
+    ]
+  },
+  {
+    "name": "Juniper-Carved Archive Bench",
+    "description": "A rugged bench crafted from twisted high-desert juniper wood, bound with rawhide straps and polished with natural beeswax.",
+    "itemType": "Furniture",
+    "materials": [
+      "Gnarled juniper wood",
+      "Rawhide lacing",
+      "Hand-forged iron rivets"
+    ],
+    "zone": "Colorado Plateau",
+    "interactiveProperties": "Players resting on this bench gain the 'Canyon Watcher' buff, reducing stamina depletion while climbing high sandstone cliffs.",
+    "basedOn": "Maynard Dixon's rugged wooden ranch and wilderness furniture designs",
+    "variants": [
+      "Sun-Bleached Juniper",
+      "Charred Cedar Finish",
+      "Resin-Polished Bark"
+    ]
+  },
+  {
+    "name": "Turquoise Sun Disc",
+    "description": "An ancient circular plate of polished Sleeping Beauty turquoise surrounded by a radiant copper sunburst housing.",
+    "itemType": "QuestItem",
+    "materials": [
+      "Sleeping Beauty turquoise",
+      "Native copper",
+      "Pine sap resin"
+    ],
+    "zone": "Colorado Plateau",
+    "interactiveProperties": "Fits into the Solstice Aperture inside the Echo Canyon Vault to trigger light beam puzzles.",
+    "basedOn": "Maynard Dixon's bold Southwestern motifs and traditional sky-god stone icons",
+    "variants": [
+      "Sky-Blue Turquoise",
+      "Matrix-Veined Green",
+      "Raw Mineral Core"
+    ]
+  },
+  {
+    "name": "Petroglyph Cipher Slab",
+    "description": "A weathered tablet of dark desert varnish sandstone etched with horn-headed figures, spiral star paths, and canyon trail marks.",
+    "itemType": "QuestItem",
+    "materials": [
+      "Varnish-coated sandstone",
+      "Desert varnish patina",
+      "Hematite pigment"
+    ],
+    "zone": "Colorado Plateau",
+    "interactiveProperties": "Decipherable using a Geologist's Lens; reveals hidden coordinates to secret turquoise veins across the plateau.",
+    "basedOn": "Maynard Dixon's stark canvas compositions of ancient indigenous rock art in Zion and Bryce",
+    "variants": [
+      "Spiral Path Glyph",
+      "Horned Keeper Emblem",
+      "Constellation Map Slab"
+    ]
+  },
+  {
+    "name": "High-Desert Geode Pick",
+    "description": "A compact prospector pick with an angular tempered steel head and an ergonomically carved juniper wood handle.",
+    "itemType": "Tool",
+    "materials": [
+      "Tempered steel",
+      "Aged juniper handle",
+      "Copper wire wrap"
+    ],
+    "zone": "Colorado Plateau",
+    "interactiveProperties": "Harvests raw turquoise veins and red quartz nodules without fracturing delicate inner crystal structures.",
+    "basedOn": "Maynard Dixon's rugged trail prospector gear with high-contrast iron forge details",
+    "variants": [
+      "Prospector Heavy Head",
+      "Slender Carver Tip",
+      "Reinforced Mesa Pick"
+    ]
+  },
+  {
+    "name": "Juniper Pitch Resin Pot",
+    "description": "A heavy terracotta kiln pot filled with smoldering juniper sap used for waterproofing leather and crafting sticky adhesives.",
+    "itemType": "Interactive",
+    "materials": [
+      "Fired terracotta",
+      "Aged juniper pitch",
+      "Pine soot dye"
+    ],
+    "zone": "Colorado Plateau",
+    "interactiveProperties": "Heats raw tree resin over a campfire to create flexible sealing coats for timber furniture and earthenware containers.",
+    "basedOn": "Maynard Dixon's warm desert campfires and traditional Southwestern pottery cauldrons",
+    "variants": [
+      "Smoldering Clay Pot",
+      "Glazed Terracotta Basin",
+      "Black-Ash Kiln Jar"
+    ]
+  },
+  {
+    "name": "Canyon Echo Basin",
+    "description": "A natural stone bowl carved out of red sandstone, filled with pristine rainwater that echoes subtle acoustic vibrations.",
+    "itemType": "Interactive",
+    "materials": [
+      "Carved red sandstone",
+      "Rainwater",
+      "Crushed turquoise sediment"
+    ],
+    "zone": "Colorado Plateau",
+    "interactiveProperties": "Playing wind instruments near the basin creates standing waves that highlight sub-surface mineral pulse directions.",
+    "basedOn": "Maynard Dixon's dramatic canyon shadows and natural stone basin reflections",
+    "variants": [
+      "Rippling Sandstone Bowl",
+      "Algae-Rimmed Cistern",
+      "Mirror-Still Reservoir"
+    ]
+  },
+  {
+    "name": "Desert Varnish Agate Nodules",
+    "description": "Rough mineral geodes covered in a lustrous black iron-manganese patina formed over thousands of desert years.",
+    "itemType": "Collectible",
+    "materials": [
+      "Iron-manganese coated agate",
+      "Quartz core",
+      "Desert varnish"
+    ],
+    "zone": "Colorado Plateau",
+    "interactiveProperties": "Can be split open on a lapidary bench to reveal vibrant orange carnelian or displayed in archive cabinets.",
+    "basedOn": "Maynard Dixon's sharp, sun-baked desert soil studies and mineral rock specimens",
+    "variants": [
+      "Polished Banded Agate",
+      "Raw Varnish Shell",
+      "Deep Rust Nodule"
+    ]
+  },
+  {
+    "name": "Lodgepole Pine Thermal Cabinet",
+    "description": "A tall rustic cabinet built from peeled lodgepole pine timbers, equipped with lower vents that capture geothermal steam.",
+    "itemType": "Furniture",
+    "materials": [
+      "Peeled lodgepole pine",
+      "Thermal mud glaze",
+      "Obsidian inlay"
+    ],
+    "zone": "Yellowstone",
+    "interactiveProperties": "Uses thermal vent steam to rapidly dry rare botanical specimens and cure parchment maps without scorching.",
+    "basedOn": "Thomas Hart Benton's undulating rustic timber furniture and regionalist wilderness lodge aesthetics",
+    "variants": [
+      "Steam-Vented Pine",
+      "Singed Charcoal Bark",
+      "Polished Lodgepole"
+    ]
+  },
+  {
+    "name": "Sinter Stone Display Pedestal",
+    "description": "A terraced display pedestal formed from white siliceous sinter deposited by active mineral hot springs.",
+    "itemType": "Furniture",
+    "materials": [
+      "Siliceous sinter stone",
+      "Sulfur crystal crust",
+      "Volcanic basalt base"
+    ],
+    "zone": "Yellowstone",
+    "interactiveProperties": "Items displayed on this pedestal emit a soft bioluminescent aura sustained by heat-loving microbial cultures.",
+    "basedOn": "Thomas Hart Benton's dynamic, flowing mineral formations and hot spring terracing",
+    "variants": [
+      "Terraced Sinter Ledge",
+      "Golden Sulfur Rim",
+      "Obsidian-Trimmed Pillar"
+    ]
+  },
+  {
+    "name": "Obsidian Mirror Glyph",
+    "description": "A curved disc of jet-black volcanic glass mounted in a scorched lodgepole frame, reflecting heat patterns as vivid light.",
+    "itemType": "QuestItem",
+    "materials": [
+      "Vitreous obsidian glass",
+      "Lodgepole pine frame",
+      "Sulfur pigment"
+    ],
+    "zone": "Yellowstone",
+    "interactiveProperties": "Reveals invisible thermal convection paths when pointed toward steaming mud pots and geyser vents.",
+    "basedOn": "Thomas Hart Benton's high-contrast dark curves and regionalist volcanic folklore",
+    "variants": [
+      "Sheared Volcanic Edge",
+      "Polished Mirror Surface",
+      "Chipped Blade Mirror"
+    ]
+  },
+  {
+    "name": "Thermophile Prism Core",
+    "description": "A crystalline specimen formed from concentric bands of thermophilic bacteria encrusted in translucent silica sinter.",
+    "itemType": "QuestItem",
+    "materials": [
+      "Calcified thermal crust",
+      "Crystallized thermophile mat",
+      "Geyser silica"
+    ],
+    "zone": "Yellowstone",
+    "interactiveProperties": "Required to calibrate the Inn's Geothermal Boiler Engine and stabilize thermal spring temperatures.",
+    "basedOn": "Thomas Hart Benton's vibrant, swirling color bands inspired by Grand Prismatic Spring",
+    "variants": [
+      "Rainbow Thermal Ring",
+      "Deep Sapphire Core",
+      "Emerald Algae Crystal"
+    ]
+  },
+  {
+    "name": "Geyser Thermal Sampler",
+    "description": "A heavy brass sampling flask mounted on an insulated lodgepole extension rod for extracting scalding geothermal fluids.",
+    "itemType": "Tool",
+    "materials": [
+      "Forged brass cylinder",
+      "Insulated leather wrap",
+      "Lodgepole handle"
+    ],
+    "zone": "Yellowstone",
+    "interactiveProperties": "Safely harvests boiling hot spring mineral water and sulfur steam samples without burning the user.",
+    "basedOn": "Thomas Hart Benton's sinuous metalwork and early national park scientific survey gear",
+    "variants": [
+      "Pressure-Sealed Brass",
+      "Long-Reach Tongs",
+      "Copper Thermocouple Flask"
+    ]
+  },
+  {
+    "name": "Subterranean Geyser Vent Valve",
+    "description": "A heavy cast-iron wheel mechanism fitted over a basalt pipe collar, controlling deep steam release in geyser fields.",
+    "itemType": "Interactive",
+    "materials": [
+      "Cast iron wheel",
+      "Basalt pipe coupling",
+      "Sulfured rubber seal"
+    ],
+    "zone": "Yellowstone",
+    "interactiveProperties": "Turning the wheel redirects steam pressure across thermal basins, clearing fogged paths or activating steam lifts.",
+    "basedOn": "Thomas Hart Benton's energetic industrial-meets-nature muscular structural motifs",
+    "variants": [
+      "Corroded Iron Wheel",
+      "Polished Brass Ring",
+      "Basalt Lever Gate"
+    ]
+  },
+  {
+    "name": "Boiling Mud Pot Cauldron",
+    "description": "A naturally bubbling clay pit enclosed in basalt masonry, filled with mineral-rich thermal mud.",
+    "itemType": "Interactive",
+    "materials": [
+      "Thermal clay pit",
+      "Boiling mineral mud",
+      "Pine ash surround"
+    ],
+    "zone": "Yellowstone",
+    "interactiveProperties": "Allows crafting players to temper metal tools or dye fabrics in deep ochre and slate grey geothermal pigments.",
+    "basedOn": "Thomas Hart Benton's swirling, rhythmic bubbling mud pools and earth tones",
+    "variants": [
+      "Bubbling Grey Mud",
+      "Rust-Ochre Pool",
+      "Sulfuric Yellow Pit"
+    ]
+  },
+  {
+    "name": "Sheared Obsidian Arrowhead Cluster",
+    "description": "A collection of expertly knapped volcanic glass blades bound together with dried sinew and pine resin.",
+    "itemType": "Collectible",
+    "materials": [
+      "Black volcanic obsidian",
+      "Mahogany obsidian streak",
+      "Sinew wrap"
+    ],
+    "zone": "Yellowstone",
+    "interactiveProperties": "Valuable volcanic trade specimen that grants a bonus to precision tool crafting when kept in a workshop drawer.",
+    "basedOn": "Thomas Hart Benton's sharp rhythmic contouring and ancient trade artifact depictions",
+    "variants": [
+      "Jet Black Obsidian",
+      "Mahogany Sheen",
+      "Snowflake Obsidian"
+    ]
+  },
+  {
+    "name": "Ironwood Prospector Table",
+    "description": "A massive, extremely heavy workstation cut from dense desert ironwood, reinforced with hand-hammered brass corner plates.",
+    "itemType": "Furniture",
+    "materials": [
+      "Desert ironwood",
+      "Hand-beaten brass trim",
+      "Granite leg blocks"
+    ],
+    "zone": "Superstition Mountains",
+    "interactiveProperties": "Provides an sturdy assaying surface for weighing ore samples and drafting mine shaft blueprints.",
+    "basedOn": "Albert Bierstadt's heroic frontier lodge interiors and heavy desert timbers",
+    "variants": [
+      "Carved Ironwood Plank",
+      "Weathered Mine Timber",
+      "Gold-Leaf Inlaid Border"
+    ]
+  },
+  {
+    "name": "Granite & Gold Assay Shelf",
+    "description": "A heavy wall shelf carved from porphyritic granite, featuring velvet-lined grooves for storing gold bars and ore specimens.",
+    "itemType": "Furniture",
+    "materials": [
+      "Porphyritic granite",
+      "Wrought iron brackets",
+      "Raw quartz accent"
+    ],
+    "zone": "Superstition Mountains",
+    "interactiveProperties": "Stores heavy metal ingots, automatically organizing them by mineral density and purity level.",
+    "basedOn": "Albert Bierstadt's dramatic mountain stone architecture and romantic western lighting",
+    "variants": [
+      "Chiseled Granite Ledge",
+      "Polished Quartz Shelf",
+      "Rough Mine Slate"
+    ]
+  },
+  {
+    "name": "Peralta Gold Mine Keycard Matrix",
+    "description": "An intricate locking plate composed of raw gold nuggets embedded into carved ironwood with quartz alignment pins.",
+    "itemType": "QuestItem",
+    "materials": [
+      "Native gold nugget",
+      "Carved desert ironwood",
+      "Quartz crystal pin"
+    ],
+    "zone": "Superstition Mountains",
+    "interactiveProperties": "Unlocks the heavy timber gate leading to the lower Peralta gold vein inside Weaver's Needle.",
+    "basedOn": "Albert Bierstadt's legendary lost treasure motifs and dramatic mountain mystery",
+    "variants": [
+      "Coarse Raw Gold",
+      "Refined Ingot Key",
+      "Hieroglyphic Gold Plate"
+    ]
+  },
+  {
+    "name": "Lost Dutchman's Compass",
+    "description": "A brass pocket compass housing a natural lodestone needle that swings toward underground magnetic quartz veins.",
+    "itemType": "QuestItem",
+    "materials": [
+      "Aged brass case",
+      "Magnetic lodestone",
+      "Glass lens"
+    ],
+    "zone": "Superstition Mountains",
+    "interactiveProperties": "Points directly toward hidden granite fissures and gold veins during golden hour lighting conditions.",
+    "basedOn": "Albert Bierstadt's atmospheric light shafts and romanticized frontier exploration",
+    "variants": [
+      "Tarnished Brass Case",
+      "Engraved Mine Compass",
+      "Sunburst Dial Plate"
+    ]
+  },
+  {
+    "name": "Ironwood Mine Sledge pick",
+    "description": "A heavy prospector pick featuring a dense ironwood shaft and a hardened high-carbon steel head for breaking granite.",
+    "itemType": "Tool",
+    "materials": [
+      "Dense ironwood haft",
+      "Forged high-carbon steel head",
+      "Leather grip"
+    ],
+    "zone": "Superstition Mountains",
+    "interactiveProperties": "Capable of breaking dense granite rock faces to expose quartz stringers and raw gold deposits.",
+    "basedOn": "Albert Bierstadt's rugged pioneer gear rendered with sharp lighting highlights",
+    "variants": [
+      "Heavy Mine Hammer",
+      "Hardened Steel Pick",
+      "Perrin Special Prospector"
+    ]
+  },
+  {
+    "name": "Granite Sluice Box System",
+    "description": "A tiered water trough carved from granite blocks and fitted with ironwood riffles for separating placer gold from river gravel.",
+    "itemType": "Interactive",
+    "materials": [
+      "Chiseled granite trough",
+      "Ironwood riffles",
+      "Coarse gravel bed"
+    ],
+    "zone": "Superstition Mountains",
+    "interactiveProperties": "Pours river water over mined gravel to extract fine gold dust, garnets, and heavy black sand.",
+    "basedOn": "Albert Bierstadt's sweeping mountain streams and gold rush engineering",
+    "variants": [
+      "Cascading Mountain Sluice",
+      "Portable Wooden Sluice",
+      "Granite Rocker Box"
+    ]
+  },
+  {
+    "name": "Golden Hour Sun-Dial Pillar",
+    "description": "A tall granite column topped with a brass gnomon that aligns with Weaver's Needle during late afternoon sunlight.",
+    "itemType": "Interactive",
+    "materials": [
+      "Monolithic granite pillar",
+      "Cast brass gnomon",
+      "Gold leaf dial lines"
+    ],
+    "zone": "Superstition Mountains",
+    "interactiveProperties": "When sunset rays hit the brass gnomon, a reflected light beam illuminates the concealed entrance to the lost shaft.",
+    "basedOn": "Albert Bierstadt's iconic golden light rays breaking over steep mountain crags",
+    "variants": [
+      "Sunburst Pillar",
+      "Weathered Granite Column",
+      "Chrono-Gilded Marker"
+    ]
+  },
+  {
+    "name": "Raw Gold-in-Quartz Cluster",
+    "description": "A striking rock specimen consisting of bright yellow wire gold branching through milky quartz matrix.",
+    "itemType": "Collectible",
+    "materials": [
+      "Milky quartz",
+      "Native gold wire",
+      "Iron oxide matrix"
+    ],
+    "zone": "Superstition Mountains",
+    "interactiveProperties": "Highly prized display specimen that increases gold crafting efficiency when placed near an anvil.",
+    "basedOn": "Albert Bierstadt's hyper-detailed mineral textures and glowing mountain veins",
+    "variants": [
+      "Wire Gold Specimen",
+      "Crystalline Nugget",
+      "Band-Veined Quartz"
+    ]
+  },
+  {
+    "name": "Wormy Chestnut Herbalist Desk",
+    "description": "A rustic study desk made from reclaimed wormy chestnut timber, with hand-dovetailed drawers and a beeswax rubbing.",
+    "itemType": "Furniture",
+    "materials": [
+      "Reclaimed wormy chestnut",
+      "Forged iron hinges",
+      "Beeswax finish"
+    ],
+    "zone": "Appalachian Trail",
+    "interactiveProperties": "Drawers are climate-buffered for slow-curing delicate forest herbs and mountain ginseng without decay.",
+    "basedOn": "Andrew Wyeth's weathered interior furniture and muted farmstead realism",
+    "variants": [
+      "Bleached Chestnut",
+      "Patina Waxed Surface",
+      "Distressed Barnwood"
+    ]
+  },
+  {
+    "name": "Sugar Maple Drying Rack",
+    "description": "A freestanding ladder-style drying frame constructed from hard sugar maple poles and natural hemp twine.",
+    "itemType": "Furniture",
+    "materials": [
+      "Hard sugar maple",
+      "Hemp twine",
+      "Copper hooks"
+    ],
+    "zone": "Appalachian Trail",
+    "interactiveProperties": "Hanging harvested flora and fungi here accelerates their drying and processing time by 50%.",
+    "basedOn": "Andrew Wyeth's stark simplicity and textured wooden structures in rural Maine and Pennsylvania",
+    "variants": [
+      "Natural Maple Frame",
+      "Smoked Wood Finish",
+      "Lichen-Dusted Poles"
+    ]
+  },
+  {
+    "name": "Wild Ginseng Fork Root",
+    "description": "A prized, multi-forked wild ginseng root harvested from moist Appalachian ridge loam, wrapped in damp moss.",
+    "itemType": "QuestItem",
+    "materials": [
+      "Aged ginseng root",
+      "Moist mountain loam",
+      "Dried moss wrap"
+    ],
+    "zone": "Appalachian Trail",
+    "interactiveProperties": "Turned in to the Ridge Herbalist to complete the 'Seven Decades Root' questline and unlock potent restorative elixirs.",
+    "basedOn": "Andrew Wyeth's subtle botanical fidelity and quiet woodsman folklore",
+    "variants": [
+      "Centennial Man-Root",
+      "Forked Wild Root",
+      "Green-Shooted Ginseng"
+    ]
+  },
+  {
+    "name": "Misty Mountain Ridge Map",
+    "description": "A hand-drawn map on unbleached linen paper using sepia tempera ink, illustrating subtle ridge paths through dense mountain fog.",
+    "itemType": "QuestItem",
+    "materials": [
+      "Handmade linen paper",
+      "Oak gall ink",
+      "Maple bark binding"
+    ],
+    "zone": "Appalachian Trail",
+    "interactiveProperties": "Guides players safely through the impenetrable fog of High Knob Gap without losing trail markers.",
+    "basedOn": "Andrew Wyeth's monochrome egg tempera tones depicting fog-shrouded Appalachian hills",
+    "variants": [
+      "Sepia Tempera Map",
+      "Weathered Pocket Scroll",
+      "Annotated Ridge Chart"
+    ]
+  },
+  {
+    "name": "Chestnut Digging Mattock",
+    "description": "A lightweight woodsman's tool featuring a forged steel adze blade fixed to a gracefully curved chestnut handle.",
+    "itemType": "Tool",
+    "materials": [
+      "Forged steel adze blade",
+      "Curved chestnut handle",
+      "Brass collar"
+    ],
+    "zone": "Appalachian Trail",
+    "interactiveProperties": "Extracts delicate roots, truffles, and clay deposits intact without damaging surrounding plant ecology.",
+    "basedOn": "Andrew Wyeth's utilitarian farm implements rendered with honest, worn craftsmanship",
+    "variants": [
+      "Root Digger Blade",
+      "Narrow Trench Mattock",
+      "Forged Woodsman Pick"
+    ]
+  },
+  {
+    "name": "Maple Syrup Evaporator Pan",
+    "description": "A long, flat copper evaporation pan mounted over a brick fire arch, designed for reducing sugar maple sap.",
+    "itemType": "Interactive",
+    "materials": [
+      "Stitched copper pan",
+      "Sugar maple logs",
+      "Cast iron grate"
+    ],
+    "zone": "Appalachian Trail",
+    "interactiveProperties": "Boils collected maple sap down into dark amber syrup used for cooking high-stamina trail rations.",
+    "basedOn": "Andrew Wyeth's quiet autumn sugarhouse interiors and steaming brass kettles",
+    "variants": [
+      "Copper Sap Pan",
+      "Cast Iron Kettle",
+      "Rustic Brick Arch"
+    ]
+  },
+  {
+    "name": "Fog-Catcher Linen Screen",
+    "description": "A tall wooden frame stringing translucent unbleached linen fabric that condenses passing mountain drizzle into a collection trough.",
+    "itemType": "Interactive",
+    "materials": [
+      "Unbleached linen weave",
+      "Maple timber frame",
+      "Zinc drip basin"
+    ],
+    "zone": "Appalachian Trail",
+    "interactiveProperties": "Harvests pure dew and mountain mist water overnight, filling water flasks automatically.",
+    "basedOn": "Andrew Wyeth's breezy curtains and translucent open windows blowing in misty air",
+    "variants": [
+      "Open Weave Linen",
+      "Weathered Timber Rig",
+      "Drizzle Collector"
+    ]
+  },
+  {
+    "name": "Appalachian Lichen & Moss Press",
+    "description": "A wooden herbarium press containing dried specimens of reindeer lichen, tree lungwort, and clubmoss.",
+    "itemType": "Collectible",
+    "materials": [
+      "Reindeer lichen",
+      "Tree lungwort moss",
+      "Pressed card stock"
+    ],
+    "zone": "Appalachian Trail",
+    "interactiveProperties": "Unlocks muted natural dye colors (slate grey, dried olive, ochre) at the Inn's textile loom.",
+    "basedOn": "Andrew Wyeth's subtle earthy color palette and detailed botanical studies",
+    "variants": [
+      "Pale Reindeer Lichen",
+      "Usnea Beard Moss",
+      "Golden Shield Lichen"
+    ]
+  },
+  {
+    "name": "Petrified Wood Slab Table",
+    "description": "A heavy coffee table formed from a polished cross-cut section of petrified tree trunk resting on matte black steel legs.",
+    "itemType": "Furniture",
+    "materials": [
+      "Cross-cut petrified log",
+      "Polished agate vein",
+      "Blackened steel legs"
+    ],
+    "zone": "Petrified Forest",
+    "interactiveProperties": "Indestructible stone surface. Reagents or tools placed on this surface are protected from chemical corrosion.",
+    "basedOn": "Ansel Adams' intense tonal contrast and sharp focus on ancient geological formations",
+    "variants": [
+      "Rainbow Agate Core",
+      "Monochrome Jet Wood",
+      "Carnelian Edged Slab"
+    ]
+  },
+  {
+    "name": "Chalcedony Fossil Cabinet",
+    "description": "An archival display case framed in petrified timber with sliding translucent chalcedony glass doors.",
+    "itemType": "Furniture",
+    "materials": [
+      "Petrified conifers",
+      "Translucent chalcedony panes",
+      "Iron latchwork"
+    ],
+    "zone": "Petrified Forest",
+    "interactiveProperties": "Locks delicate fossilized seeds in stasis, preserving their structural integrity permanently.",
+    "basedOn": "Ansel Adams' precise archival museum framing and crisp monochromatic shadow play",
+    "variants": [
+      "Black-and-White Inlay",
+      "Frosted Chalcedony",
+      "Heavy Fossilized Oak"
+    ]
+  },
+  {
+    "name": "Triassic Fern Fossil Tile",
+    "description": "A square slab of silicified mudstone bearing a razor-sharp black carbonized imprint of an ancient fern frond.",
+    "itemType": "QuestItem",
+    "materials": [
+      "Silicified mudstone",
+      "Carbonized fern imprint",
+      "Chalcedony glaze"
+    ],
+    "zone": "Petrified Forest",
+    "interactiveProperties": "Inserts into the Stratum Keyhole in the Badlands Archive to open the deep Triassic vault.",
+    "basedOn": "Ansel Adams' famous macro prints of delicate natural textures etched in rock",
+    "variants": [
+      "Carbon Leaf Impression",
+      "Crystallized Frond",
+      "Ironstone Fossil Slab"
+    ]
+  },
+  {
+    "name": "Agate Gem-Core Key",
+    "description": "A cylindrical key ground from banded carnelian agate with silver wire gears mounted on the base.",
+    "itemType": "QuestItem",
+    "materials": [
+      "Banded carnelian agate",
+      "Chert backing",
+      "Silver wire scrollwork"
+    ],
+    "zone": "Petrified Forest",
+    "interactiveProperties": "Turns the mineral tumbler lock inside the Petrified Vault, exposing ancient fossilized tree ring logs.",
+    "basedOn": "Ansel Adams' luminous highlights on desert mineral surfaces",
+    "variants": [
+      "Red Carnelian Ring",
+      "Blue Lace Agate",
+      "Moss Agate Cylinder"
+    ]
+  },
+  {
+    "name": "Chalcedony Saw & Lapidary Blade",
+    "description": "A precision hand saw fitted with a diamond-grit cutting edge and a comfortable petrified wood handle.",
+    "itemType": "Tool",
+    "materials": [
+      "Diamond-grit steel wheel",
+      "Petrified wood grip",
+      "Brass arbor"
+    ],
+    "zone": "Petrified Forest",
+    "interactiveProperties": "Cuts raw petrified logs, chalcedony nodules, and fossil slabs into smooth building tiles.",
+    "basedOn": "Ansel Adams' high-precision observational aesthetic and sharp-edged mineral tools",
+    "variants": [
+      "Diamond Lapidary Wheel",
+      "Fine Chalcedony Blade",
+      "Heavy Hand Saw"
+    ]
+  },
+  {
+    "name": "Petrified Log Lapidary Polisher",
+    "description": "A foot-treadle grinding wheel turned from a heavy cylinder of petrified wood, fed by an overhead water drip.",
+    "itemType": "Interactive",
+    "materials": [
+      "Petrified wood grinding wheel",
+      "Water drip bucket",
+      "Iron foot treadle"
+    ],
+    "zone": "Petrified Forest",
+    "interactiveProperties": "Grinds and polishes rough geodes, transforming unpolished stones into valuable gemstone collectibles.",
+    "basedOn": "Ansel Adams' stark contrast between raw rough rock faces and glass-smooth polished surfaces",
+    "variants": [
+      "Treadle Grinder",
+      "Water-Driven Lapidary",
+      "Hand-Crank Polisher"
+    ]
+  },
+  {
+    "name": "Monolith Shadow Gnomon",
+    "description": "A tall petrified tree trunk column set in an etched stone circle, casting high-contrast shadows across the ground.",
+    "itemType": "Interactive",
+    "materials": [
+      "Petrified tree trunk",
+      "Chalcedony pointer",
+      "Etched stone ground ring"
+    ],
+    "zone": "Petrified Forest",
+    "interactiveProperties": "Casts sharp black shadows that align with geological fracture lines, revealing hidden mineral deposits at solar noon.",
+    "basedOn": "Ansel Adams' dramatic play of deep shadows and brilliant Zone V highlights across rock monoliths",
+    "variants": [
+      "Stark Monolith",
+      "Chrono Agate Dial",
+      "Zone V Shadow Pillar"
+    ]
+  },
+  {
+    "name": "Banded Chalcedony Geode Half",
+    "description": "A halved geode displaying dramatic concentric rings of jet black, stark white, and deep grey microcrystalline quartz.",
+    "itemType": "Collectible",
+    "materials": [
+      "Microcrystalline chalcedony",
+      "Quartz druse interior",
+      "Hematite shell"
+    ],
+    "zone": "Petrified Forest",
+    "interactiveProperties": "Exhibits maximum monochromatic contrast; increases geological study output when placed in the library.",
+    "basedOn": "Ansel Adams' brilliant Zone System contrast from deep blacks to pure crystalline whites",
+    "variants": [
+      "Monochrome Quartz Druse",
+      "Deep Blue Banded",
+      "Carnelian Flame"
+    ]
+  },
+  {
+    "name": "Redwood Burl Archivist Throne",
+    "description": "A grand armchair hollowed out from a massive redwood burl, cushioned with living green moss and sword ferns.",
+    "itemType": "Furniture",
+    "materials": [
+      "Massive redwood burl",
+      "Sword fern upholstery",
+      "Sap-wax finish"
+    ],
+    "zone": "Redwood",
+    "interactiveProperties": "Sitting on the throne grants high-canopy vision, revealing real-time fog movements and hidden paths.",
+    "basedOn": "Emily Carr's expressive, living redwood tree trunks and totemic forest forms",
+    "variants": [
+      "Ancient Canopy Burl",
+      "Moss-Covered Trunk",
+      "Spiral Grain Throne"
+    ]
+  },
+  {
+    "name": "Fern-Woven Canopy Hammock",
+    "description": "A broad hammock woven from durable deer fern fibers and suspended between redwood heartwood struts.",
+    "itemType": "Furniture",
+    "materials": [
+      "Woven deer fern fibers",
+      "Redwood heartwood struts",
+      "Spruce root ropes"
+    ],
+    "zone": "Redwood",
+    "interactiveProperties": "Suspended high in the trees; sleeping here fully restores stamina and cures damp chill effects.",
+    "basedOn": "Emily Carr's sweeping green curves and organic forest canopy rhythm",
+    "variants": [
+      "Canopy High-Hammock",
+      "Ground Fern Cradle",
+      "Root-Anchored Swing"
+    ]
+  },
+  {
+    "name": "Heart of the Ancient Redwood Seedling",
+    "description": "A golden cone from an ancient old-growth tree nestled in rich forest humus inside a carved cedar bowl.",
+    "itemType": "QuestItem",
+    "materials": [
+      "Millennial redwood cone",
+      "Rich fog-humus soil",
+      "Cedar bark bowl"
+    ],
+    "zone": "Redwood",
+    "interactiveProperties": "Planted at Cathedral Grove to complete the 'Cycle of the Giants' quest and sprout a permanent vine ladder.",
+    "basedOn": "Emily Carr's spiritual reverence for sacred old-growth trees and living wilderness",
+    "variants": [
+      "Golden Cone Seedling",
+      "Sprouted Redwood Sapling",
+      "Luminous Canopy Cone"
+    ]
+  },
+  {
+    "name": "Fog-Weaver's Carved Totem Mask",
+    "description": "A ceremonial mask carved from redwood heartwood with abalone shell eye inlays and fern spore paint accents.",
+    "itemType": "QuestItem",
+    "materials": [
+      "Redwood heartwood",
+      "Abalone shell inlay",
+      "Fern spore paint"
+    ],
+    "zone": "Redwood",
+    "interactiveProperties": "Equipping the mask allows safe navigation through dense fog walls into the restricted Deep Growth grove.",
+    "basedOn": "Emily Carr's dynamic integration of Pacific Northwest indigenous carving and swirling mist",
+    "variants": [
+      "Raven Fog Mask",
+      "Bear Tree Totem",
+      "Silent Owl Face"
+    ]
+  },
+  {
+    "name": "Redwood Bark Adze",
+    "description": "A curved woodworking adze with a hand-forged blade lashed securely to an ergonomic redwood root handle.",
+    "itemType": "Tool",
+    "materials": [
+      "Hand-forged iron blade",
+      "Redwood root handle",
+      "Spruce root lashings"
+    ],
+    "zone": "Redwood",
+    "interactiveProperties": "Strips thick fibrous redwood bark cleanly without damaging the underlying structural heartwood.",
+    "basedOn": "Emily Carr's bold, rhythmic carved woodwork textures and organic hand tools",
+    "variants": [
+      "Curved Bark Adze",
+      "Heavy Hewing Tool",
+      "Detail Carver"
+    ]
+  },
+  {
+    "name": "Sword Fern Spore Condenser",
+    "description": "A hollowed redwood log vessel fitted with brass wire condensation screens and fresh fern frond lining.",
+    "itemType": "Interactive",
+    "materials": [
+      "Hollowed redwood log",
+      "Brass condensation mesh",
+      "Fern frond lining"
+    ],
+    "zone": "Redwood",
+    "interactiveProperties": "Extracts bioluminescent fog dew and green fern spores for brewing agility and stealth elixirs.",
+    "basedOn": "Emily Carr's lush, vibrant green understory and misty forest atmosphere",
+    "variants": [
+      "Log Spore Basin",
+      "Hanging Mesh Collector",
+      "Root-Tapped Vaporizer"
+    ]
+  },
+  {
+    "name": "Hollow Redwood Resonance Drum",
+    "description": "A massive standing drum fashioned from a hollowed lightning-struck redwood trunk covered in tight elk hide.",
+    "itemType": "Interactive",
+    "materials": [
+      "Hollow burnt redwood trunk",
+      "Elk hide head",
+      "Cedar wood mallets"
+    ],
+    "zone": "Redwood",
+    "interactiveProperties": "Striking the drum produces a deep sonic pulse that clears coastal fog patches within a wide radius.",
+    "basedOn": "Emily Carr's rhythmic, pulsing forest acoustics and totemic forms",
+    "variants": [
+      "Great Forest Drum",
+      "Burnt Hollow Trunk",
+      "Carved Spirit Drum"
+    ]
+  },
+  {
+    "name": "Conk Mushroom Shelf Specimen",
+    "description": "A large, woody artist's conk bracket mushroom preserved with natural spruce tree resin.",
+    "itemType": "Collectible",
+    "materials": [
+      "Artist's conk bracket mushroom",
+      "Spruce resin coating",
+      "Redwood wood grain"
+    ],
+    "zone": "Redwood",
+    "interactiveProperties": "Can be etched with fine needles like natural slate or mounted on cabin walls as organic shelving.",
+    "basedOn": "Emily Carr's rich textural details on decaying and living ancient trunks",
+    "variants": [
+      "Etched Artist's Conk",
+      "Varnished Shelf Fungus",
+      "Giant Bracket Mushroom"
+    ]
+  },
+  {
+    "name": "Sea Glass & Driftwood Table",
+    "description": "A low coastal table made of ocean-smoothed driftwood inlaid with a glowing mosaic of cobalt and emerald sea glass.",
+    "itemType": "Furniture",
+    "materials": [
+      "Tide-washed driftwood",
+      "Fused sea glass mosaic",
+      "Corroded copper frame"
+    ],
+    "zone": "Tidal Caves",
+    "interactiveProperties": "Refracts ambient cavern light onto surrounding rock walls, revealing hidden aquatic maps.",
+    "basedOn": "Norman Lewis' ethereal, atmospheric light layers and translucent coastal shapes",
+    "variants": [
+      "Cobalt & Emerald Glass",
+      "Frosted White Driftwood",
+      "Ultramarine Mosaic"
+    ]
+  },
+  {
+    "name": "Salt Crystal Basalt Basin",
+    "description": "A pedestal basin chiseled from columnar basalt, encrusted with shimmering pink and white halite salt crystals.",
+    "itemType": "Furniture",
+    "materials": [
+      "Columnar basalt",
+      "Halite salt crystals",
+      "Mother-of-pearl trim"
+    ],
+    "zone": "Tidal Caves",
+    "interactiveProperties": "Evaporates seawater left inside, producing pure mineral salt flakes and rare sea pearls.",
+    "basedOn": "Norman Lewis' rhythmic, crystalline line structures and dark ocean depths",
+    "variants": [
+      "Halite Crust Basin",
+      "Polished Ocean Basalt",
+      "Pink Salt Rim"
+    ]
+  },
+  {
+    "name": "Perfect Tidal Cave Pearl",
+    "description": "A luminous, spherical cave pearl formed over centuries by dripping calcium-saturated water in sea spray grottos.",
+    "itemType": "QuestItem",
+    "materials": [
+      "Concentric aragonite pearl",
+      "Calcite glaze",
+      "Bioluminescent algae coating"
+    ],
+    "zone": "Tidal Caves",
+    "interactiveProperties": "Placed into the Altar of the Tide to calm turbulent water surges and reveal submerged cavern tunnels.",
+    "basedOn": "Norman Lewis' radiant central glowing foci amidst dark atmospheric wash",
+    "variants": [
+      "Iridescent Pink Pearl",
+      "Deep Cobalt Pearl",
+      "Golden Concentric Pearl"
+    ]
+  },
+  {
+    "name": "Sea Glass Prism Sextant",
+    "description": "A maritime navigation instrument crafted from tarnished brass and fitted with frosted sea glass prisms.",
+    "itemType": "QuestItem",
+    "materials": [
+      "Tarnished naval brass",
+      "Frosted sea glass lenses",
+      "Whalebone frame"
+    ],
+    "zone": "Tidal Caves",
+    "interactiveProperties": "Aligns moonlit tidal reflections to locate flooded shipwreck vaults along the cavern coast.",
+    "basedOn": "Norman Lewis' abstract geometric calligraphic lines and maritime themes",
+    "variants": [
+      "Naval Brass Sextant",
+      "Verdigris Copper Frame",
+      "Pearl-Inlaid Navigator"
+    ]
+  },
+  {
+    "name": "Salt Crystal Chisel",
+    "description": "A delicate bronze hand chisel designed with a padded sea glass handle for delicate mineral extraction.",
+    "itemType": "Tool",
+    "materials": [
+      "Hardened bronze blade",
+      "Sea glass counterweight",
+      "Driftwood grip"
+    ],
+    "zone": "Tidal Caves",
+    "interactiveProperties": "Safely prised fragile cave pearls and delicate salt crystal formations from cave walls without shattering them.",
+    "basedOn": "Norman Lewis' delicate scratch lines and textured calligraphic marks",
+    "variants": [
+      "Fine Pearl Chisel",
+      "Bronze-Tipped Pick",
+      "Delicate Scraper"
+    ]
+  },
+  {
+    "name": "Tidal Pool Resonating Pool",
+    "description": "A natural stone tide basin filled with clear seawater and teeming with glowing bioluminescent dinoflagellates.",
+    "itemType": "Interactive",
+    "materials": [
+      "Natural tide pool niche",
+      "Seawater",
+      "Bioluminescent plankton"
+    ],
+    "zone": "Tidal Caves",
+    "interactiveProperties": "Disturbing the water sends glowing blue light ripples across the floor, highlighting secret submerged crawlspaces.",
+    "basedOn": "Norman Lewis' luminous, layered watery fields of color and subtle motion",
+    "variants": [
+      "Bioluminescent Pool",
+      "Crystal Salt Pool",
+      "Deep Anemone Niche"
+    ]
+  },
+  {
+    "name": "Salt Crust Desalination Still",
+    "description": "A terracotta dome distillation setup connected to a copper coil, heated over hot basalt coals.",
+    "itemType": "Interactive",
+    "materials": [
+      "Fired clay dome",
+      "Copper condenser tube",
+      "Basalt fire pit"
+    ],
+    "zone": "Tidal Caves",
+    "interactiveProperties": "Converts ocean saltwater into fresh drinking water while collecting purified sea salt crystals in the tray.",
+    "basedOn": "Norman Lewis' organic fluid lines interacting with sharp linear grids",
+    "variants": [
+      "Cauldron Still",
+      "Glass Condenser Array",
+      "Clay Solar Still"
+    ]
+  },
+  {
+    "name": "Frosted Cobalt Sea Glass Cluster",
+    "description": "A collection of ocean-tumbled cobalt blue glass fragments with a soft, frosted salt patina.",
+    "itemType": "Collectible",
+    "materials": [
+      "Tumble-polished glass",
+      "Ocean salt patina",
+      "Sand etchings"
+    ],
+    "zone": "Tidal Caves",
+    "interactiveProperties": "Can be crushed on a grinding stone to produce rich lapis-like blue pigments for painting or craft dyeing.",
+    "basedOn": "Norman Lewis' translucent color field layering and light diffusion",
+    "variants": [
+      "Cobalt Blue Shard",
+      "Seafoam Green Cluster",
+      "Amber Wave Glass"
+    ]
+  },
+  {
+    "name": "Levitating Green Apple Fountain",
+    "description": "A tiered marble garden basin over which a oversized green jade apple floats silently in mid-air, spouting clean water.",
+    "itemType": "Furniture",
+    "materials": [
+      "Carved marble bowl",
+      "Suspended green jade apple",
+      "Flowing clear water"
+    ],
+    "zone": "Exterior",
+    "interactiveProperties": "Water flows upward from the basin into the floating apple; drinking restores stamina and grants brief levitation.",
+    "basedOn": "Ren\u00e9 Magritte's iconic levitating green apples combined with Henri Rousseau's lush garden basins",
+    "variants": [
+      "Floating Jade Apple",
+      "Overgrown Jungle Basin",
+      "Surreal Sky Fountain"
+    ]
+  },
+  {
+    "name": "Bowler Hat Garden Planter",
+    "description": "A bronze sculpture shaped like a classic gentleman's bowler hat, spilling over with lush tropical monstera leaves.",
+    "itemType": "Furniture",
+    "materials": [
+      "Cast bronze hat planter",
+      "Exotic monstera foliage",
+      "Rich garden compost"
+    ],
+    "zone": "Exterior",
+    "interactiveProperties": "Flora planted inside this surreal planter grows double-sized and yields paradoxical hybrid fruits.",
+    "basedOn": "Ren\u00e9 Magritte's signature bowler hat motif combined with Henri Rousseau's wild jungle flora",
+    "variants": [
+      "Bronze Bowler",
+      "Midnight Black Felt",
+      "Ivy-Wrapped Top Hat"
+    ]
+  },
+  {
+    "name": "Key of the Impossible Door",
+    "description": "An ornate iron key whose skeleton bit is shaped like a cloud silhouette, cold to the touch regardless of temperature.",
+    "itemType": "QuestItem",
+    "materials": [
+      "Ornate iron",
+      "Cloud-patterned enamel",
+      "Brass skeleton teeth"
+    ],
+    "zone": "Exterior",
+    "interactiveProperties": "Unlocks freestanding wooden doorframes in the garden that step directly into different climate zones.",
+    "basedOn": "Ren\u00e9 Magritte's paradoxical freestanding doors and Henri Rousseau's mysterious garden vistas",
+    "variants": [
+      "Sky Blue Key",
+      "Cloud Engraved Key",
+      "Shadow Paradox Key"
+    ]
+  },
+  {
+    "name": "Surreal Moon-in-a-Cage Lamp",
+    "description": "A wrought-iron birdcage hanging from a garden arch, housing a glowing spherical miniature moon.",
+    "itemType": "QuestItem",
+    "materials": [
+      "Wrought iron birdcage",
+      "Trapped glowing orb",
+      "Silver filigree"
+    ],
+    "zone": "Exterior",
+    "interactiveProperties": "Casts bright noon sunlight within a ten-foot radius even during midnight garden exploration.",
+    "basedOn": "Ren\u00e9 Magritte's nighttime streetlights under daytime skies and Henri Rousseau's luminous full moons",
+    "variants": [
+      "Daylight Moon Orb",
+      "Caged Crescent",
+      "Cloud-Dusted Lamp"
+    ]
+  },
+  {
+    "name": "Jungle Pruning Shears of Paradox",
+    "description": "Polished steel shears with ivory handles that cut thick vines effortlessly while releasing paper butterflies.",
+    "itemType": "Tool",
+    "materials": [
+      "Tempered steel blades",
+      "Ivory handle inlay",
+      "Brass pivot screw"
+    ],
+    "zone": "Exterior",
+    "interactiveProperties": "Clears overgrown jungle thickets instantly; severed leaves magically transform into collectable paper butterflies.",
+    "basedOn": "Henri Rousseau's crisp leaf outlines and Ren\u00e9 Magritte's impossible metal tools",
+    "variants": [
+      "Gilded Shears",
+      "Overgrown Vine Cutters",
+      "Surreal Blade"
+    ]
+  },
+  {
+    "name": "Freestanding Sky Frame Mirror",
+    "description": "A heavy gilded mirror frame standing alone on the lawn, reflecting an open blue sky regardless of weather.",
+    "itemType": "Interactive",
+    "materials": [
+      "Gilded oak frame",
+      "Polished mirror silver",
+      "Rousseau jungle vine trim"
+    ],
+    "zone": "Exterior",
+    "interactiveProperties": "Stepping through the mirror frame teleports the player to the opposite side of the Inn's expansive gardens.",
+    "basedOn": "Ren\u00e9 Magritte's framed sky mirrors standing amidst dense natural landscapes",
+    "variants": [
+      "Gilded Sky Frame",
+      "Overgrown Jungle Mirror",
+      "Paradox Cloud Portal"
+    ]
+  },
+  {
+    "name": "Tiger-in-a-Tropical-Storm Wind Vane",
+    "description": "A weather vane featuring a brass prowling tiger silhouette that spins wildly even on windless days.",
+    "itemType": "Interactive",
+    "materials": [
+      "Cast brass tiger silhouette",
+      "Copper directional pointer",
+      "Iron roof spike"
+    ],
+    "zone": "Exterior",
+    "interactiveProperties": "Manually spinning the vane alters local weather conditions between tropical rainstorms and calm sunlight.",
+    "basedOn": "Henri Rousseau's masterpiece 'Surprised! (Tiger in a Tropical Storm)' and Magritte's weather paradoxes",
+    "variants": [
+      "Brass Prowling Tiger",
+      "Storm-Tossed Copper",
+      "Surreal Sky Vane"
+    ]
+  },
+  {
+    "name": "Ceci N'est Pas Une Pipe Carving",
+    "description": "A polished briarwood tobacco pipe sculpture resting on a wooden plinth inscribed with surreal French text.",
+    "itemType": "Collectible",
+    "materials": [
+      "Briarwood carving",
+      "Meerschaum bowl lining",
+      "Gold leaf lettering"
+    ],
+    "zone": "Exterior",
+    "interactiveProperties": "Enigmatic display object that boosts passive lore perception when placed in the Inn's central hallway.",
+    "basedOn": "Ren\u00e9 Magritte's 'The Treachery of Images' combined with Henri Rousseau's exotic wood craft",
+    "variants": [
+      "Classic Briar Pipe",
+      "Gilded Text Edition",
+      "Overgrown Ivy Pipe"
+    ]
+  },
+  {
+    "name": "Onion-Domed Amber Shrine Cabinet",
+    "description": "A tall cabinet crafted from silver birch wood, topped with a gilded onion dome and inlaid with glowing Baltic amber.",
+    "itemType": "Furniture",
+    "materials": [
+      "Carved white birch timber",
+      "Baltic amber panels",
+      "Gilded dome finial"
+    ],
+    "zone": "Slavic",
+    "interactiveProperties": "Stores sacred relics; internal amber panels radiate warmth that prevents stored liquids from freezing.",
+    "basedOn": "Nicholas Roerich's sacred mountain architecture and glowing onion domes",
+    "variants": [
+      "Gilded Onion Dome",
+      "Raw Amber Inlay",
+      "Silvered Birch Shrine"
+    ]
+  },
+  {
+    "name": "Carved Birch Boreal Workbench",
+    "description": "A sturdy carpentry workbench made of white birch wood, carved with traditional Slavic solar motifs and folk knotwork.",
+    "itemType": "Furniture",
+    "materials": [
+      "Silver birch wood",
+      "Wrought iron strapwork",
+      "Pine resin sealant"
+    ],
+    "zone": "Slavic",
+    "interactiveProperties": "Provides a craft bonus when carving wooden talismans, sacred icons, and amber incense burners.",
+    "basedOn": "Nicholas Roerich's vibrant folk timber craft and high-altitude monastic retreats",
+    "variants": [
+      "White Bark Birch",
+      "Pyrographed Folk Pattern",
+      "Dark Smoked Birch"
+    ]
+  },
+  {
+    "name": "Glowing Baltic Amber Sun Stone",
+    "description": "A large translucent lump of golden Baltic amber enclosing an ancient pine needle, bound in braided gold wire.",
+    "itemType": "QuestItem",
+    "materials": [
+      "Fossilized Baltic amber",
+      "Enclosed prehistoric pine needle",
+      "Gold wire harness"
+    ],
+    "zone": "Slavic",
+    "interactiveProperties": "Placed atop the Boreal Shrine to radiate heat and melt glacial ice seals over the monastery archives.",
+    "basedOn": "Nicholas Roerich's luminous, spiritual color palettes and sacred light motifs",
+    "variants": [
+      "Sun-Grown Amber",
+      "Inclusion Insect Core",
+      "Honey Gold Gem"
+    ]
+  },
+  {
+    "name": "Firebird Feather Talisman",
+    "description": "A feather-shaped talisman carved from glowing amber and wrapped in golden thread and birch bark strips.",
+    "itemType": "QuestItem",
+    "materials": [
+      "Crystallized amber filament",
+      "Birch bark scroll",
+      "Gold leaf thread"
+    ],
+    "zone": "Slavic",
+    "interactiveProperties": "Used to summon the Boreal Guardian Spirit and illuminate hidden paths through mountain blizzards.",
+    "basedOn": "Nicholas Roerich's vivid blue and gold Slavic folklore paintings",
+    "variants": [
+      "Radiant Flame Feather",
+      "Azure Frost Feather",
+      "Gilded Folk Icon"
+    ]
+  },
+  {
+    "name": "Birch Bark Tapping Spout",
+    "description": "A carved bone spout with a folded birch bark bucket for harvesting aromatic sap from boreal trees.",
+    "itemType": "Tool",
+    "materials": [
+      "Carved bone spout",
+      "Birch bark collection bucket",
+      "Leather strap"
+    ],
+    "zone": "Slavic",
+    "interactiveProperties": "Taps silver birch trunks in early spring to collect sweet sap and pine resin for crafting adhesives.",
+    "basedOn": "Nicholas Roerich's traditional boreal forest wilderness tools and folk craftsmanship",
+    "variants": [
+      "Carved Bone Spout",
+      "Iron Tap Pipe",
+      "Traditional Folk Bucket"
+    ]
+  },
+  {
+    "name": "Sacred Mountain Icon Brazier",
+    "description": "A bronze tripod brazier carved with mountain glyphs, burning aromatic amber resin and birch charcoal.",
+    "itemType": "Interactive",
+    "materials": [
+      "Cast bronze tripod",
+      "Baltic amber resin incense",
+      "Birch charcoal"
+    ],
+    "zone": "Slavic",
+    "interactiveProperties": "Burning amber resin creates a protective radiant warmth zone that repels frost spirits during night storms.",
+    "basedOn": "Nicholas Roerich's glowing mountain fires, intense skies, and spiritual sanctuaries",
+    "variants": [
+      "Azure Mountain Flame",
+      "Gilded Bronze Tripod",
+      "Monastic Iron Brazier"
+    ]
+  },
+  {
+    "name": "Boreal Chime Wind Carillon",
+    "description": "A set of tuned hollow birch chimes suspended with raw amber beads that ring musically in mountain breezes.",
+    "itemType": "Interactive",
+    "materials": [
+      "Resonant birch wood tubes",
+      "Raw amber beads",
+      "Hemp cordage"
+    ],
+    "zone": "Slavic",
+    "interactiveProperties": "Playing the carillon sends harmonic acoustic pulses across the valley, calming severe blizzards.",
+    "basedOn": "Nicholas Roerich's majestic, quiet mountain atmosphere and traditional Russian wooden chimes",
+    "variants": [
+      "Resonant Wooden Chimes",
+      "Amber-Beaded Carillon",
+      "Monastery Bell Tower"
+    ]
+  },
+  {
+    "name": "Raw Baltic Amber Nugget with Prehistoric Inclusion",
+    "description": "A polished lump of clear honey amber preserving an intact prehistoric botanical fragment.",
+    "itemType": "Collectible",
+    "materials": [
+      "Fossil pine resin",
+      "Encased ancient botanical fragment",
+      "Polished surface"
+    ],
+    "zone": "Slavic",
+    "interactiveProperties": "Rare ancient fossil resin that unlocks advanced alchemy and wood preservative recipes in the archive.",
+    "basedOn": "Nicholas Roerich's deep saturated gem tones and ancient Earth history focus",
+    "variants": [
+      "Golden Honey Amber",
+      "Deep Cherry Amber",
+      "Clear Yellow Resin"
+    ]
+  }
+]
