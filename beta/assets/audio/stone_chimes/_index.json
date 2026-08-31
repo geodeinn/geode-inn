@@ -1,0 +1,1790 @@
+{
+  "quartz": {
+    "name": "Quartz",
+    "mohs_hardness": 7.0,
+    "frequency_hz": 440.0,
+    "file": "stone_chimes/quartz.wav"
+  },
+  "amethyst": {
+    "name": "Amethyst",
+    "mohs_hardness": 7.0,
+    "frequency_hz": 440.0,
+    "file": "stone_chimes/amethyst.wav"
+  },
+  "citrine": {
+    "name": "Citrine",
+    "mohs_hardness": 7.0,
+    "frequency_hz": 440.0,
+    "file": "stone_chimes/citrine.wav"
+  },
+  "rose_quartz": {
+    "name": "Rose Quartz",
+    "mohs_hardness": 7.0,
+    "frequency_hz": 440.0,
+    "file": "stone_chimes/rose_quartz.wav"
+  },
+  "smoky_quartz": {
+    "name": "Smoky Quartz",
+    "mohs_hardness": 7.0,
+    "frequency_hz": 440.0,
+    "file": "stone_chimes/smoky_quartz.wav"
+  },
+  "rutilated_quartz": {
+    "name": "Rutilated Quartz",
+    "mohs_hardness": 7.0,
+    "frequency_hz": 440.0,
+    "file": "stone_chimes/rutilated_quartz.wav"
+  },
+  "tigers_eye": {
+    "name": "Tiger's Eye",
+    "mohs_hardness": 7.0,
+    "frequency_hz": 440.0,
+    "file": "stone_chimes/tigers_eye.wav"
+  },
+  "aventurine": {
+    "name": "Aventurine",
+    "mohs_hardness": 7.0,
+    "frequency_hz": 440.0,
+    "file": "stone_chimes/aventurine.wav"
+  },
+  "clear_quartz": {
+    "name": "Clear Quartz",
+    "mohs_hardness": 7.0,
+    "frequency_hz": 440.0,
+    "file": "stone_chimes/clear_quartz.wav"
+  },
+  "rock_crystal": {
+    "name": "Rock Crystal",
+    "mohs_hardness": 7.0,
+    "frequency_hz": 440.0,
+    "file": "stone_chimes/rock_crystal.wav"
+  },
+  "prasiolite": {
+    "name": "Prasiolite",
+    "mohs_hardness": 7.0,
+    "frequency_hz": 440.0,
+    "file": "stone_chimes/prasiolite.wav"
+  },
+  "snow_quartz": {
+    "name": "Snow Quartz",
+    "mohs_hardness": 7.0,
+    "frequency_hz": 440.0,
+    "file": "stone_chimes/snow_quartz.wav"
+  },
+  "milky_quartz": {
+    "name": "Milky Quartz",
+    "mohs_hardness": 7.0,
+    "frequency_hz": 440.0,
+    "file": "stone_chimes/milky_quartz.wav"
+  },
+  "garnet": {
+    "name": "Garnet",
+    "mohs_hardness": 7.5,
+    "frequency_hz": 493.88,
+    "file": "stone_chimes/garnet.wav"
+  },
+  "almandine": {
+    "name": "Almandine",
+    "mohs_hardness": 7.5,
+    "frequency_hz": 493.88,
+    "file": "stone_chimes/almandine.wav"
+  },
+  "pyrope": {
+    "name": "Pyrope",
+    "mohs_hardness": 7.5,
+    "frequency_hz": 493.88,
+    "file": "stone_chimes/pyrope.wav"
+  },
+  "spessartine": {
+    "name": "Spessartine",
+    "mohs_hardness": 7.5,
+    "frequency_hz": 493.88,
+    "file": "stone_chimes/spessartine.wav"
+  },
+  "rhodolite": {
+    "name": "Rhodolite",
+    "mohs_hardness": 7.5,
+    "frequency_hz": 493.88,
+    "file": "stone_chimes/rhodolite.wav"
+  },
+  "hessonite": {
+    "name": "Hessonite",
+    "mohs_hardness": 7.0,
+    "frequency_hz": 440.0,
+    "file": "stone_chimes/hessonite.wav"
+  },
+  "tsavorite": {
+    "name": "Tsavorite",
+    "mohs_hardness": 7.5,
+    "frequency_hz": 493.88,
+    "file": "stone_chimes/tsavorite.wav"
+  },
+  "demantoid": {
+    "name": "Demantoid",
+    "mohs_hardness": 7.0,
+    "frequency_hz": 440.0,
+    "file": "stone_chimes/demantoid.wav"
+  },
+  "ruby": {
+    "name": "Ruby",
+    "mohs_hardness": 9.0,
+    "frequency_hz": 698.46,
+    "file": "stone_chimes/ruby.wav"
+  },
+  "sapphire": {
+    "name": "Sapphire",
+    "mohs_hardness": 9.0,
+    "frequency_hz": 698.46,
+    "file": "stone_chimes/sapphire.wav"
+  },
+  "star_ruby": {
+    "name": "Star Ruby",
+    "mohs_hardness": 9.0,
+    "frequency_hz": 698.46,
+    "file": "stone_chimes/star_ruby.wav"
+  },
+  "star_sapphire": {
+    "name": "Star Sapphire",
+    "mohs_hardness": 9.0,
+    "frequency_hz": 698.46,
+    "file": "stone_chimes/star_sapphire.wav"
+  },
+  "padparadscha": {
+    "name": "Padparadscha",
+    "mohs_hardness": 9.0,
+    "frequency_hz": 698.46,
+    "file": "stone_chimes/padparadscha.wav"
+  },
+  "corundum": {
+    "name": "Corundum",
+    "mohs_hardness": 9.0,
+    "frequency_hz": 698.46,
+    "file": "stone_chimes/corundum.wav"
+  },
+  "emerald": {
+    "name": "Emerald",
+    "mohs_hardness": 7.5,
+    "frequency_hz": 493.88,
+    "file": "stone_chimes/emerald.wav"
+  },
+  "aquamarine": {
+    "name": "Aquamarine",
+    "mohs_hardness": 7.5,
+    "frequency_hz": 493.88,
+    "file": "stone_chimes/aquamarine.wav"
+  },
+  "morganite": {
+    "name": "Morganite",
+    "mohs_hardness": 7.5,
+    "frequency_hz": 493.88,
+    "file": "stone_chimes/morganite.wav"
+  },
+  "heliodor": {
+    "name": "Heliodor",
+    "mohs_hardness": 7.5,
+    "frequency_hz": 493.88,
+    "file": "stone_chimes/heliodor.wav"
+  },
+  "beryl": {
+    "name": "Beryl",
+    "mohs_hardness": 7.5,
+    "frequency_hz": 493.88,
+    "file": "stone_chimes/beryl.wav"
+  },
+  "goshenite": {
+    "name": "Goshenite",
+    "mohs_hardness": 7.5,
+    "frequency_hz": 493.88,
+    "file": "stone_chimes/goshenite.wav"
+  },
+  "red_beryl": {
+    "name": "Red Beryl",
+    "mohs_hardness": 7.5,
+    "frequency_hz": 493.88,
+    "file": "stone_chimes/red_beryl.wav"
+  },
+  "diamond": {
+    "name": "Diamond",
+    "mohs_hardness": 10.0,
+    "frequency_hz": 880.0,
+    "file": "stone_chimes/diamond.wav"
+  },
+  "topaz": {
+    "name": "Topaz",
+    "mohs_hardness": 8.0,
+    "frequency_hz": 554.37,
+    "file": "stone_chimes/topaz.wav"
+  },
+  "imperial_topaz": {
+    "name": "Imperial Topaz",
+    "mohs_hardness": 8.0,
+    "frequency_hz": 554.37,
+    "file": "stone_chimes/imperial_topaz.wav"
+  },
+  "blue_topaz": {
+    "name": "Blue Topaz",
+    "mohs_hardness": 8.0,
+    "frequency_hz": 554.37,
+    "file": "stone_chimes/blue_topaz.wav"
+  },
+  "pink_topaz": {
+    "name": "Pink Topaz",
+    "mohs_hardness": 8.0,
+    "frequency_hz": 554.37,
+    "file": "stone_chimes/pink_topaz.wav"
+  },
+  "opal": {
+    "name": "Opal",
+    "mohs_hardness": 6.0,
+    "frequency_hz": 349.23,
+    "file": "stone_chimes/opal.wav"
+  },
+  "fire_opal": {
+    "name": "Fire Opal",
+    "mohs_hardness": 6.0,
+    "frequency_hz": 349.23,
+    "file": "stone_chimes/fire_opal.wav"
+  },
+  "black_opal": {
+    "name": "Black Opal",
+    "mohs_hardness": 6.0,
+    "frequency_hz": 349.23,
+    "file": "stone_chimes/black_opal.wav"
+  },
+  "boulder_opal": {
+    "name": "Boulder Opal",
+    "mohs_hardness": 6.0,
+    "frequency_hz": 349.23,
+    "file": "stone_chimes/boulder_opal.wav"
+  },
+  "white_opal": {
+    "name": "White Opal",
+    "mohs_hardness": 6.0,
+    "frequency_hz": 349.23,
+    "file": "stone_chimes/white_opal.wav"
+  },
+  "water_opal": {
+    "name": "Water Opal",
+    "mohs_hardness": 6.0,
+    "frequency_hz": 349.23,
+    "file": "stone_chimes/water_opal.wav"
+  },
+  "jade": {
+    "name": "Jade",
+    "mohs_hardness": 7.0,
+    "frequency_hz": 440.0,
+    "file": "stone_chimes/jade.wav"
+  },
+  "jadeite": {
+    "name": "Jadeite",
+    "mohs_hardness": 7.0,
+    "frequency_hz": 440.0,
+    "file": "stone_chimes/jadeite.wav"
+  },
+  "nephrite": {
+    "name": "Nephrite",
+    "mohs_hardness": 6.0,
+    "frequency_hz": 349.23,
+    "file": "stone_chimes/nephrite.wav"
+  },
+  "lavender_jade": {
+    "name": "Lavender Jade",
+    "mohs_hardness": 7.0,
+    "frequency_hz": 440.0,
+    "file": "stone_chimes/lavender_jade.wav"
+  },
+  "turquoise": {
+    "name": "Turquoise",
+    "mohs_hardness": 6.0,
+    "frequency_hz": 349.23,
+    "file": "stone_chimes/turquoise.wav"
+  },
+  "sleeping_beauty_turquoise": {
+    "name": "Sleeping Beauty Turquoise",
+    "mohs_hardness": 6.0,
+    "frequency_hz": 349.23,
+    "file": "stone_chimes/sleeping_beauty_turquoise.wav"
+  },
+  "lapis_lazuli": {
+    "name": "Lapis Lazuli",
+    "mohs_hardness": 5.5,
+    "frequency_hz": 311.13,
+    "file": "stone_chimes/lapis_lazuli.wav"
+  },
+  "sodalite": {
+    "name": "Sodalite",
+    "mohs_hardness": 5.5,
+    "frequency_hz": 311.13,
+    "file": "stone_chimes/sodalite.wav"
+  },
+  "lazurite": {
+    "name": "Lazurite",
+    "mohs_hardness": 5.5,
+    "frequency_hz": 311.13,
+    "file": "stone_chimes/lazurite.wav"
+  },
+  "malachite": {
+    "name": "Malachite",
+    "mohs_hardness": 4.0,
+    "frequency_hz": 220.0,
+    "file": "stone_chimes/malachite.wav"
+  },
+  "azurite": {
+    "name": "Azurite",
+    "mohs_hardness": 4.0,
+    "frequency_hz": 220.0,
+    "file": "stone_chimes/azurite.wav"
+  },
+  "chrysocolla": {
+    "name": "Chrysocolla",
+    "mohs_hardness": 3.0,
+    "frequency_hz": 174.61,
+    "file": "stone_chimes/chrysocolla.wav"
+  },
+  "moonstone": {
+    "name": "Moonstone",
+    "mohs_hardness": 6.0,
+    "frequency_hz": 349.23,
+    "file": "stone_chimes/moonstone.wav"
+  },
+  "rainbow_moonstone": {
+    "name": "Rainbow Moonstone",
+    "mohs_hardness": 6.0,
+    "frequency_hz": 349.23,
+    "file": "stone_chimes/rainbow_moonstone.wav"
+  },
+  "labradorite": {
+    "name": "Labradorite",
+    "mohs_hardness": 6.0,
+    "frequency_hz": 349.23,
+    "file": "stone_chimes/labradorite.wav"
+  },
+  "sunstone": {
+    "name": "Sunstone",
+    "mohs_hardness": 6.0,
+    "frequency_hz": 349.23,
+    "file": "stone_chimes/sunstone.wav"
+  },
+  "orthoclase": {
+    "name": "Orthoclase",
+    "mohs_hardness": 6.0,
+    "frequency_hz": 349.23,
+    "file": "stone_chimes/orthoclase.wav"
+  },
+  "amazonite": {
+    "name": "Amazonite",
+    "mohs_hardness": 6.0,
+    "frequency_hz": 349.23,
+    "file": "stone_chimes/amazonite.wav"
+  },
+  "microcline": {
+    "name": "Microcline",
+    "mohs_hardness": 6.0,
+    "frequency_hz": 349.23,
+    "file": "stone_chimes/microcline.wav"
+  },
+  "fluorite": {
+    "name": "Fluorite",
+    "mohs_hardness": 4.0,
+    "frequency_hz": 220.0,
+    "file": "stone_chimes/fluorite.wav"
+  },
+  "blue_john": {
+    "name": "Blue John",
+    "mohs_hardness": 4.0,
+    "frequency_hz": 220.0,
+    "file": "stone_chimes/blue_john.wav"
+  },
+  "calcite": {
+    "name": "Calcite",
+    "mohs_hardness": 3.0,
+    "frequency_hz": 174.61,
+    "file": "stone_chimes/calcite.wav"
+  },
+  "iceland_spar": {
+    "name": "Iceland Spar",
+    "mohs_hardness": 3.0,
+    "frequency_hz": 174.61,
+    "file": "stone_chimes/iceland_spar.wav"
+  },
+  "onyx_marble": {
+    "name": "Onyx Marble",
+    "mohs_hardness": 3.0,
+    "frequency_hz": 174.61,
+    "file": "stone_chimes/onyx_marble.wav"
+  },
+  "hematite": {
+    "name": "Hematite",
+    "mohs_hardness": 6.0,
+    "frequency_hz": 349.23,
+    "file": "stone_chimes/hematite.wav"
+  },
+  "magnetite": {
+    "name": "Magnetite",
+    "mohs_hardness": 6.0,
+    "frequency_hz": 349.23,
+    "file": "stone_chimes/magnetite.wav"
+  },
+  "specularite": {
+    "name": "Specularite",
+    "mohs_hardness": 6.0,
+    "frequency_hz": 349.23,
+    "file": "stone_chimes/specularite.wav"
+  },
+  "pyrite": {
+    "name": "Pyrite",
+    "mohs_hardness": 6.5,
+    "frequency_hz": 392.0,
+    "file": "stone_chimes/pyrite.wav"
+  },
+  "marcasite": {
+    "name": "Marcasite",
+    "mohs_hardness": 6.5,
+    "frequency_hz": 392.0,
+    "file": "stone_chimes/marcasite.wav"
+  },
+  "tourmaline": {
+    "name": "Tourmaline",
+    "mohs_hardness": 7.5,
+    "frequency_hz": 493.88,
+    "file": "stone_chimes/tourmaline.wav"
+  },
+  "watermelon_tourmaline": {
+    "name": "Watermelon Tourmaline",
+    "mohs_hardness": 7.5,
+    "frequency_hz": 493.88,
+    "file": "stone_chimes/watermelon_tourmaline.wav"
+  },
+  "black_tourmaline": {
+    "name": "Black Tourmaline",
+    "mohs_hardness": 7.5,
+    "frequency_hz": 493.88,
+    "file": "stone_chimes/black_tourmaline.wav"
+  },
+  "rubellite": {
+    "name": "Rubellite",
+    "mohs_hardness": 7.5,
+    "frequency_hz": 493.88,
+    "file": "stone_chimes/rubellite.wav"
+  },
+  "indicolite": {
+    "name": "Indicolite",
+    "mohs_hardness": 7.5,
+    "frequency_hz": 493.88,
+    "file": "stone_chimes/indicolite.wav"
+  },
+  "dravite": {
+    "name": "Dravite",
+    "mohs_hardness": 7.5,
+    "frequency_hz": 493.88,
+    "file": "stone_chimes/dravite.wav"
+  },
+  "paraiba": {
+    "name": "Paraiba",
+    "mohs_hardness": 7.5,
+    "frequency_hz": 493.88,
+    "file": "stone_chimes/paraiba.wav"
+  },
+  "chrome_tourmaline": {
+    "name": "Chrome Tourmaline",
+    "mohs_hardness": 7.5,
+    "frequency_hz": 493.88,
+    "file": "stone_chimes/chrome_tourmaline.wav"
+  },
+  "peridot": {
+    "name": "Peridot",
+    "mohs_hardness": 7.0,
+    "frequency_hz": 440.0,
+    "file": "stone_chimes/peridot.wav"
+  },
+  "olivine": {
+    "name": "Olivine",
+    "mohs_hardness": 7.0,
+    "frequency_hz": 440.0,
+    "file": "stone_chimes/olivine.wav"
+  },
+  "chrysolite": {
+    "name": "Chrysolite",
+    "mohs_hardness": 7.0,
+    "frequency_hz": 440.0,
+    "file": "stone_chimes/chrysolite.wav"
+  },
+  "spinel": {
+    "name": "Spinel",
+    "mohs_hardness": 8.0,
+    "frequency_hz": 554.37,
+    "file": "stone_chimes/spinel.wav"
+  },
+  "balas_ruby": {
+    "name": "Balas Ruby",
+    "mohs_hardness": 8.0,
+    "frequency_hz": 554.37,
+    "file": "stone_chimes/balas_ruby.wav"
+  },
+  "picotite": {
+    "name": "Picotite",
+    "mohs_hardness": 8.0,
+    "frequency_hz": 554.37,
+    "file": "stone_chimes/picotite.wav"
+  },
+  "zircon": {
+    "name": "Zircon",
+    "mohs_hardness": 7.5,
+    "frequency_hz": 493.88,
+    "file": "stone_chimes/zircon.wav"
+  },
+  "hyacinth": {
+    "name": "Hyacinth",
+    "mohs_hardness": 7.5,
+    "frequency_hz": 493.88,
+    "file": "stone_chimes/hyacinth.wav"
+  },
+  "jargon": {
+    "name": "Jargon",
+    "mohs_hardness": 7.5,
+    "frequency_hz": 493.88,
+    "file": "stone_chimes/jargon.wav"
+  },
+  "chrysoberyl": {
+    "name": "Chrysoberyl",
+    "mohs_hardness": 8.5,
+    "frequency_hz": 622.25,
+    "file": "stone_chimes/chrysoberyl.wav"
+  },
+  "alexandrite": {
+    "name": "Alexandrite",
+    "mohs_hardness": 8.5,
+    "frequency_hz": 622.25,
+    "file": "stone_chimes/alexandrite.wav"
+  },
+  "cats_eye": {
+    "name": "Cat's Eye",
+    "mohs_hardness": 8.5,
+    "frequency_hz": 622.25,
+    "file": "stone_chimes/cats_eye.wav"
+  },
+  "cymophane": {
+    "name": "Cymophane",
+    "mohs_hardness": 8.5,
+    "frequency_hz": 622.25,
+    "file": "stone_chimes/cymophane.wav"
+  },
+  "tanzanite": {
+    "name": "Tanzanite",
+    "mohs_hardness": 6.5,
+    "frequency_hz": 392.0,
+    "file": "stone_chimes/tanzanite.wav"
+  },
+  "zoisite": {
+    "name": "Zoisite",
+    "mohs_hardness": 6.5,
+    "frequency_hz": 392.0,
+    "file": "stone_chimes/zoisite.wav"
+  },
+  "thulite": {
+    "name": "Thulite",
+    "mohs_hardness": 6.5,
+    "frequency_hz": 392.0,
+    "file": "stone_chimes/thulite.wav"
+  },
+  "iolite": {
+    "name": "Iolite",
+    "mohs_hardness": 7.0,
+    "frequency_hz": 440.0,
+    "file": "stone_chimes/iolite.wav"
+  },
+  "cordierite": {
+    "name": "Cordierite",
+    "mohs_hardness": 7.0,
+    "frequency_hz": 440.0,
+    "file": "stone_chimes/cordierite.wav"
+  },
+  "dichroite": {
+    "name": "Dichroite",
+    "mohs_hardness": 7.0,
+    "frequency_hz": 440.0,
+    "file": "stone_chimes/dichroite.wav"
+  },
+  "kyanite": {
+    "name": "Kyanite",
+    "mohs_hardness": 5.0,
+    "frequency_hz": 277.18,
+    "file": "stone_chimes/kyanite.wav"
+  },
+  "dumortierite": {
+    "name": "Dumortierite",
+    "mohs_hardness": 7.0,
+    "frequency_hz": 440.0,
+    "file": "stone_chimes/dumortierite.wav"
+  },
+  "sillimanite": {
+    "name": "Sillimanite",
+    "mohs_hardness": 7.0,
+    "frequency_hz": 440.0,
+    "file": "stone_chimes/sillimanite.wav"
+  },
+  "andalusite": {
+    "name": "Andalusite",
+    "mohs_hardness": 7.5,
+    "frequency_hz": 493.88,
+    "file": "stone_chimes/andalusite.wav"
+  },
+  "chiastolite": {
+    "name": "Chiastolite",
+    "mohs_hardness": 7.5,
+    "frequency_hz": 493.88,
+    "file": "stone_chimes/chiastolite.wav"
+  },
+  "epidote": {
+    "name": "Epidote",
+    "mohs_hardness": 7.0,
+    "frequency_hz": 440.0,
+    "file": "stone_chimes/epidote.wav"
+  },
+  "piedmontite": {
+    "name": "Piedmontite",
+    "mohs_hardness": 7.0,
+    "frequency_hz": 440.0,
+    "file": "stone_chimes/piedmontite.wav"
+  },
+  "prehnite": {
+    "name": "Prehnite",
+    "mohs_hardness": 6.0,
+    "frequency_hz": 349.23,
+    "file": "stone_chimes/prehnite.wav"
+  },
+  "apophyllite": {
+    "name": "Apophyllite",
+    "mohs_hardness": 5.0,
+    "frequency_hz": 277.18,
+    "file": "stone_chimes/apophyllite.wav"
+  },
+  "smithsonite": {
+    "name": "Smithsonite",
+    "mohs_hardness": 4.5,
+    "frequency_hz": 246.94,
+    "file": "stone_chimes/smithsonite.wav"
+  },
+  "hemimorphite": {
+    "name": "Hemimorphite",
+    "mohs_hardness": 5.0,
+    "frequency_hz": 277.18,
+    "file": "stone_chimes/hemimorphite.wav"
+  },
+  "rhodonite": {
+    "name": "Rhodonite",
+    "mohs_hardness": 6.0,
+    "frequency_hz": 349.23,
+    "file": "stone_chimes/rhodonite.wav"
+  },
+  "rhodochrosite": {
+    "name": "Rhodochrosite",
+    "mohs_hardness": 4.0,
+    "frequency_hz": 220.0,
+    "file": "stone_chimes/rhodochrosite.wav"
+  },
+  "sugilite": {
+    "name": "Sugilite",
+    "mohs_hardness": 6.5,
+    "frequency_hz": 392.0,
+    "file": "stone_chimes/sugilite.wav"
+  },
+  "charoite": {
+    "name": "Charoite",
+    "mohs_hardness": 6.0,
+    "frequency_hz": 349.23,
+    "file": "stone_chimes/charoite.wav"
+  },
+  "seraphinite": {
+    "name": "Seraphinite",
+    "mohs_hardness": 4.0,
+    "frequency_hz": 220.0,
+    "file": "stone_chimes/seraphinite.wav"
+  },
+  "chlorite": {
+    "name": "Chlorite",
+    "mohs_hardness": 4.0,
+    "frequency_hz": 220.0,
+    "file": "stone_chimes/chlorite.wav"
+  },
+  "dioptase": {
+    "name": "Dioptase",
+    "mohs_hardness": 5.0,
+    "frequency_hz": 277.18,
+    "file": "stone_chimes/dioptase.wav"
+  },
+  "plancheite": {
+    "name": "Plancheite",
+    "mohs_hardness": 5.0,
+    "frequency_hz": 277.18,
+    "file": "stone_chimes/plancheite.wav"
+  },
+  "shattuckite": {
+    "name": "Shattuckite",
+    "mohs_hardness": 5.0,
+    "frequency_hz": 277.18,
+    "file": "stone_chimes/shattuckite.wav"
+  },
+  "variscite": {
+    "name": "Variscite",
+    "mohs_hardness": 4.5,
+    "frequency_hz": 246.94,
+    "file": "stone_chimes/variscite.wav"
+  },
+  "wardite": {
+    "name": "Wardite",
+    "mohs_hardness": 5.0,
+    "frequency_hz": 277.18,
+    "file": "stone_chimes/wardite.wav"
+  },
+  "lepidolite": {
+    "name": "Lepidolite",
+    "mohs_hardness": 3.0,
+    "frequency_hz": 174.61,
+    "file": "stone_chimes/lepidolite.wav"
+  },
+  "muscovite": {
+    "name": "Muscovite",
+    "mohs_hardness": 2.5,
+    "frequency_hz": 155.56,
+    "file": "stone_chimes/muscovite.wav"
+  },
+  "serpentine": {
+    "name": "Serpentine",
+    "mohs_hardness": 4.0,
+    "frequency_hz": 220.0,
+    "file": "stone_chimes/serpentine.wav"
+  },
+  "bowenite": {
+    "name": "Bowenite",
+    "mohs_hardness": 4.0,
+    "frequency_hz": 220.0,
+    "file": "stone_chimes/bowenite.wav"
+  },
+  "williamsite": {
+    "name": "Williamsite",
+    "mohs_hardness": 4.0,
+    "frequency_hz": 220.0,
+    "file": "stone_chimes/williamsite.wav"
+  },
+  "jasper": {
+    "name": "Jasper",
+    "mohs_hardness": 7.0,
+    "frequency_hz": 440.0,
+    "file": "stone_chimes/jasper.wav"
+  },
+  "bloodstone": {
+    "name": "Bloodstone",
+    "mohs_hardness": 7.0,
+    "frequency_hz": 440.0,
+    "file": "stone_chimes/bloodstone.wav"
+  },
+  "heliotrope": {
+    "name": "Heliotrope",
+    "mohs_hardness": 7.0,
+    "frequency_hz": 440.0,
+    "file": "stone_chimes/heliotrope.wav"
+  },
+  "plasma": {
+    "name": "Plasma",
+    "mohs_hardness": 7.0,
+    "frequency_hz": 440.0,
+    "file": "stone_chimes/plasma.wav"
+  },
+  "agate": {
+    "name": "Agate",
+    "mohs_hardness": 7.0,
+    "frequency_hz": 440.0,
+    "file": "stone_chimes/agate.wav"
+  },
+  "moss_agate": {
+    "name": "Moss Agate",
+    "mohs_hardness": 7.0,
+    "frequency_hz": 440.0,
+    "file": "stone_chimes/moss_agate.wav"
+  },
+  "lace_agate": {
+    "name": "Lace Agate",
+    "mohs_hardness": 7.0,
+    "frequency_hz": 440.0,
+    "file": "stone_chimes/lace_agate.wav"
+  },
+  "fortification_agate": {
+    "name": "Fortification Agate",
+    "mohs_hardness": 7.0,
+    "frequency_hz": 440.0,
+    "file": "stone_chimes/fortification_agate.wav"
+  },
+  "blue_lace_agate": {
+    "name": "Blue Lace Agate",
+    "mohs_hardness": 7.0,
+    "frequency_hz": 440.0,
+    "file": "stone_chimes/blue_lace_agate.wav"
+  },
+  "botswana_agate": {
+    "name": "Botswana Agate",
+    "mohs_hardness": 7.0,
+    "frequency_hz": 440.0,
+    "file": "stone_chimes/botswana_agate.wav"
+  },
+  "crazy_lace_agate": {
+    "name": "Crazy Lace Agate",
+    "mohs_hardness": 7.0,
+    "frequency_hz": 440.0,
+    "file": "stone_chimes/crazy_lace_agate.wav"
+  },
+  "fire_agate": {
+    "name": "Fire Agate",
+    "mohs_hardness": 7.0,
+    "frequency_hz": 440.0,
+    "file": "stone_chimes/fire_agate.wav"
+  },
+  "eye_agate": {
+    "name": "Eye Agate",
+    "mohs_hardness": 7.0,
+    "frequency_hz": 440.0,
+    "file": "stone_chimes/eye_agate.wav"
+  },
+  "dendritic_agate": {
+    "name": "Dendritic Agate",
+    "mohs_hardness": 7.0,
+    "frequency_hz": 440.0,
+    "file": "stone_chimes/dendritic_agate.wav"
+  },
+  "carnelian": {
+    "name": "Carnelian",
+    "mohs_hardness": 7.0,
+    "frequency_hz": 440.0,
+    "file": "stone_chimes/carnelian.wav"
+  },
+  "sard": {
+    "name": "Sard",
+    "mohs_hardness": 7.0,
+    "frequency_hz": 440.0,
+    "file": "stone_chimes/sard.wav"
+  },
+  "sardonyx": {
+    "name": "Sardonyx",
+    "mohs_hardness": 7.0,
+    "frequency_hz": 440.0,
+    "file": "stone_chimes/sardonyx.wav"
+  },
+  "chalcedony": {
+    "name": "Chalcedony",
+    "mohs_hardness": 7.0,
+    "frequency_hz": 440.0,
+    "file": "stone_chimes/chalcedony.wav"
+  },
+  "chrysoprase": {
+    "name": "Chrysoprase",
+    "mohs_hardness": 7.0,
+    "frequency_hz": 440.0,
+    "file": "stone_chimes/chrysoprase.wav"
+  },
+  "prase": {
+    "name": "Prase",
+    "mohs_hardness": 7.0,
+    "frequency_hz": 440.0,
+    "file": "stone_chimes/prase.wav"
+  },
+  "onyx": {
+    "name": "Onyx",
+    "mohs_hardness": 7.0,
+    "frequency_hz": 440.0,
+    "file": "stone_chimes/onyx.wav"
+  },
+  "black_onyx": {
+    "name": "Black Onyx",
+    "mohs_hardness": 7.0,
+    "frequency_hz": 440.0,
+    "file": "stone_chimes/black_onyx.wav"
+  },
+  "band_onyx": {
+    "name": "Band Onyx",
+    "mohs_hardness": 7.0,
+    "frequency_hz": 440.0,
+    "file": "stone_chimes/band_onyx.wav"
+  },
+  "sardius": {
+    "name": "Sardius",
+    "mohs_hardness": 7.0,
+    "frequency_hz": 440.0,
+    "file": "stone_chimes/sardius.wav"
+  },
+  "petrified_wood": {
+    "name": "Petrified Wood",
+    "mohs_hardness": 7.0,
+    "frequency_hz": 440.0,
+    "file": "stone_chimes/petrified_wood.wav"
+  },
+  "fossilized_coral": {
+    "name": "Fossilized Coral",
+    "mohs_hardness": 7.0,
+    "frequency_hz": 440.0,
+    "file": "stone_chimes/fossilized_coral.wav"
+  },
+  "unakite": {
+    "name": "Unakite",
+    "mohs_hardness": 7.0,
+    "frequency_hz": 440.0,
+    "file": "stone_chimes/unakite.wav"
+  },
+  "epidosite": {
+    "name": "Epidosite",
+    "mohs_hardness": 7.0,
+    "frequency_hz": 440.0,
+    "file": "stone_chimes/epidosite.wav"
+  },
+  "howlite": {
+    "name": "Howlite",
+    "mohs_hardness": 3.5,
+    "frequency_hz": 196.0,
+    "file": "stone_chimes/howlite.wav"
+  },
+  "magnesite": {
+    "name": "Magnesite",
+    "mohs_hardness": 4.0,
+    "frequency_hz": 220.0,
+    "file": "stone_chimes/magnesite.wav"
+  },
+  "dolomite": {
+    "name": "Dolomite",
+    "mohs_hardness": 3.5,
+    "frequency_hz": 196.0,
+    "file": "stone_chimes/dolomite.wav"
+  },
+  "barite": {
+    "name": "Barite",
+    "mohs_hardness": 3.0,
+    "frequency_hz": 174.61,
+    "file": "stone_chimes/barite.wav"
+  },
+  "wulfenite": {
+    "name": "Wulfenite",
+    "mohs_hardness": 3.0,
+    "frequency_hz": 174.61,
+    "file": "stone_chimes/wulfenite.wav"
+  },
+  "crocoite": {
+    "name": "Crocoite",
+    "mohs_hardness": 3.0,
+    "frequency_hz": 174.61,
+    "file": "stone_chimes/crocoite.wav"
+  },
+  "vanadinite": {
+    "name": "Vanadinite",
+    "mohs_hardness": 3.0,
+    "frequency_hz": 174.61,
+    "file": "stone_chimes/vanadinite.wav"
+  },
+  "descloizite": {
+    "name": "Descloizite",
+    "mohs_hardness": 3.0,
+    "frequency_hz": 174.61,
+    "file": "stone_chimes/descloizite.wav"
+  },
+  "aragonite": {
+    "name": "Aragonite",
+    "mohs_hardness": 4.0,
+    "frequency_hz": 220.0,
+    "file": "stone_chimes/aragonite.wav"
+  },
+  "stichtite": {
+    "name": "Stichtite",
+    "mohs_hardness": 2.5,
+    "frequency_hz": 155.56,
+    "file": "stone_chimes/stichtite.wav"
+  },
+  "stromatolite": {
+    "name": "Stromatolite",
+    "mohs_hardness": 4.0,
+    "frequency_hz": 220.0,
+    "file": "stone_chimes/stromatolite.wav"
+  },
+  "ammonite": {
+    "name": "Ammonite",
+    "mohs_hardness": 4.0,
+    "frequency_hz": 220.0,
+    "file": "stone_chimes/ammonite.wav"
+  },
+  "ammolite": {
+    "name": "Ammolite",
+    "mohs_hardness": 4.0,
+    "frequency_hz": 220.0,
+    "file": "stone_chimes/ammolite.wav"
+  },
+  "orthoceras": {
+    "name": "Orthoceras",
+    "mohs_hardness": 4.0,
+    "frequency_hz": 220.0,
+    "file": "stone_chimes/orthoceras.wav"
+  },
+  "amber": {
+    "name": "Amber",
+    "mohs_hardness": 2.5,
+    "frequency_hz": 155.56,
+    "file": "stone_chimes/amber.wav"
+  },
+  "copal": {
+    "name": "Copal",
+    "mohs_hardness": 2.0,
+    "frequency_hz": 138.59,
+    "file": "stone_chimes/copal.wav"
+  },
+  "jet": {
+    "name": "Jet",
+    "mohs_hardness": 3.0,
+    "frequency_hz": 174.61,
+    "file": "stone_chimes/jet.wav"
+  },
+  "lignite": {
+    "name": "Lignite",
+    "mohs_hardness": 3.0,
+    "frequency_hz": 174.61,
+    "file": "stone_chimes/lignite.wav"
+  },
+  "obsidian": {
+    "name": "Obsidian",
+    "mohs_hardness": 5.5,
+    "frequency_hz": 311.13,
+    "file": "stone_chimes/obsidian.wav"
+  },
+  "snowflake_obsidian": {
+    "name": "Snowflake Obsidian",
+    "mohs_hardness": 5.5,
+    "frequency_hz": 311.13,
+    "file": "stone_chimes/snowflake_obsidian.wav"
+  },
+  "mahogany_obsidian": {
+    "name": "Mahogany Obsidian",
+    "mohs_hardness": 5.5,
+    "frequency_hz": 311.13,
+    "file": "stone_chimes/mahogany_obsidian.wav"
+  },
+  "rainbow_obsidian": {
+    "name": "Rainbow Obsidian",
+    "mohs_hardness": 5.5,
+    "frequency_hz": 311.13,
+    "file": "stone_chimes/rainbow_obsidian.wav"
+  },
+  "gold_sheen_obsidian": {
+    "name": "Gold Sheen Obsidian",
+    "mohs_hardness": 5.5,
+    "frequency_hz": 311.13,
+    "file": "stone_chimes/gold_sheen_obsidian.wav"
+  },
+  "apache_tears": {
+    "name": "Apache Tears",
+    "mohs_hardness": 5.5,
+    "frequency_hz": 311.13,
+    "file": "stone_chimes/apache_tears.wav"
+  },
+  "moldavite": {
+    "name": "Moldavite",
+    "mohs_hardness": 5.5,
+    "frequency_hz": 311.13,
+    "file": "stone_chimes/moldavite.wav"
+  },
+  "tektite": {
+    "name": "Tektite",
+    "mohs_hardness": 5.5,
+    "frequency_hz": 311.13,
+    "file": "stone_chimes/tektite.wav"
+  },
+  "libyan_glass": {
+    "name": "Libyan Glass",
+    "mohs_hardness": 5.5,
+    "frequency_hz": 311.13,
+    "file": "stone_chimes/libyan_glass.wav"
+  },
+  "selenite": {
+    "name": "Selenite",
+    "mohs_hardness": 2.0,
+    "frequency_hz": 138.59,
+    "file": "stone_chimes/selenite.wav"
+  },
+  "satin_spar": {
+    "name": "Satin Spar",
+    "mohs_hardness": 2.0,
+    "frequency_hz": 138.59,
+    "file": "stone_chimes/satin_spar.wav"
+  },
+  "desert_rose": {
+    "name": "Desert Rose",
+    "mohs_hardness": 2.0,
+    "frequency_hz": 138.59,
+    "file": "stone_chimes/desert_rose.wav"
+  },
+  "gypsum": {
+    "name": "Gypsum",
+    "mohs_hardness": 2.0,
+    "frequency_hz": 138.59,
+    "file": "stone_chimes/gypsum.wav"
+  },
+  "rose_des_sable": {
+    "name": "Rose Des Sable",
+    "mohs_hardness": 2.0,
+    "frequency_hz": 138.59,
+    "file": "stone_chimes/rose_des_sable.wav"
+  },
+  "selenite_rose": {
+    "name": "Selenite Rose",
+    "mohs_hardness": 2.0,
+    "frequency_hz": 138.59,
+    "file": "stone_chimes/selenite_rose.wav"
+  },
+  "halite": {
+    "name": "Halite",
+    "mohs_hardness": 2.5,
+    "frequency_hz": 155.56,
+    "file": "stone_chimes/halite.wav"
+  },
+  "rock_salt": {
+    "name": "Rock Salt",
+    "mohs_hardness": 2.5,
+    "frequency_hz": 155.56,
+    "file": "stone_chimes/rock_salt.wav"
+  },
+  "talc": {
+    "name": "Talc",
+    "mohs_hardness": 1.0,
+    "frequency_hz": 110.0,
+    "file": "stone_chimes/talc.wav"
+  },
+  "steatite": {
+    "name": "Steatite",
+    "mohs_hardness": 1.0,
+    "frequency_hz": 110.0,
+    "file": "stone_chimes/steatite.wav"
+  },
+  "soapstone": {
+    "name": "Soapstone",
+    "mohs_hardness": 1.0,
+    "frequency_hz": 110.0,
+    "file": "stone_chimes/soapstone.wav"
+  },
+  "pumice": {
+    "name": "Pumice",
+    "mohs_hardness": 5.0,
+    "frequency_hz": 277.18,
+    "file": "stone_chimes/pumice.wav"
+  },
+  "scoria": {
+    "name": "Scoria",
+    "mohs_hardness": 5.0,
+    "frequency_hz": 277.18,
+    "file": "stone_chimes/scoria.wav"
+  },
+  "granite": {
+    "name": "Granite",
+    "mohs_hardness": 7.0,
+    "frequency_hz": 440.0,
+    "file": "stone_chimes/granite.wav"
+  },
+  "rhyolite": {
+    "name": "Rhyolite",
+    "mohs_hardness": 6.0,
+    "frequency_hz": 349.23,
+    "file": "stone_chimes/rhyolite.wav"
+  },
+  "pegmatite": {
+    "name": "Pegmatite",
+    "mohs_hardness": 7.0,
+    "frequency_hz": 440.0,
+    "file": "stone_chimes/pegmatite.wav"
+  },
+  "granodiorite": {
+    "name": "Granodiorite",
+    "mohs_hardness": 6.0,
+    "frequency_hz": 349.23,
+    "file": "stone_chimes/granodiorite.wav"
+  },
+  "diorite": {
+    "name": "Diorite",
+    "mohs_hardness": 6.0,
+    "frequency_hz": 349.23,
+    "file": "stone_chimes/diorite.wav"
+  },
+  "gabbro": {
+    "name": "Gabbro",
+    "mohs_hardness": 6.0,
+    "frequency_hz": 349.23,
+    "file": "stone_chimes/gabbro.wav"
+  },
+  "basalt": {
+    "name": "Basalt",
+    "mohs_hardness": 7.0,
+    "frequency_hz": 440.0,
+    "file": "stone_chimes/basalt.wav"
+  },
+  "diabase": {
+    "name": "Diabase",
+    "mohs_hardness": 7.0,
+    "frequency_hz": 440.0,
+    "file": "stone_chimes/diabase.wav"
+  },
+  "dolerite": {
+    "name": "Dolerite",
+    "mohs_hardness": 7.0,
+    "frequency_hz": 440.0,
+    "file": "stone_chimes/dolerite.wav"
+  },
+  "novaculite": {
+    "name": "Novaculite",
+    "mohs_hardness": 7.0,
+    "frequency_hz": 440.0,
+    "file": "stone_chimes/novaculite.wav"
+  },
+  "hornfels": {
+    "name": "Hornfels",
+    "mohs_hardness": 6.0,
+    "frequency_hz": 349.23,
+    "file": "stone_chimes/hornfels.wav"
+  },
+  "slate": {
+    "name": "Slate",
+    "mohs_hardness": 4.0,
+    "frequency_hz": 220.0,
+    "file": "stone_chimes/slate.wav"
+  },
+  "phyllite": {
+    "name": "Phyllite",
+    "mohs_hardness": 4.0,
+    "frequency_hz": 220.0,
+    "file": "stone_chimes/phyllite.wav"
+  },
+  "schist": {
+    "name": "Schist",
+    "mohs_hardness": 4.0,
+    "frequency_hz": 220.0,
+    "file": "stone_chimes/schist.wav"
+  },
+  "gneiss": {
+    "name": "Gneiss",
+    "mohs_hardness": 6.0,
+    "frequency_hz": 349.23,
+    "file": "stone_chimes/gneiss.wav"
+  },
+  "quartzite": {
+    "name": "Quartzite",
+    "mohs_hardness": 7.0,
+    "frequency_hz": 440.0,
+    "file": "stone_chimes/quartzite.wav"
+  },
+  "sandstone": {
+    "name": "Sandstone",
+    "mohs_hardness": 5.0,
+    "frequency_hz": 277.18,
+    "file": "stone_chimes/sandstone.wav"
+  },
+  "shale": {
+    "name": "Shale",
+    "mohs_hardness": 3.0,
+    "frequency_hz": 174.61,
+    "file": "stone_chimes/shale.wav"
+  },
+  "limestone": {
+    "name": "Limestone",
+    "mohs_hardness": 3.0,
+    "frequency_hz": 174.61,
+    "file": "stone_chimes/limestone.wav"
+  },
+  "marble": {
+    "name": "Marble",
+    "mohs_hardness": 4.0,
+    "frequency_hz": 220.0,
+    "file": "stone_chimes/marble.wav"
+  },
+  "travertine": {
+    "name": "Travertine",
+    "mohs_hardness": 4.0,
+    "frequency_hz": 220.0,
+    "file": "stone_chimes/travertine.wav"
+  },
+  "alabaster": {
+    "name": "Alabaster",
+    "mohs_hardness": 3.0,
+    "frequency_hz": 174.61,
+    "file": "stone_chimes/alabaster.wav"
+  },
+  "gypsum_stone": {
+    "name": "Gypsum Stone",
+    "mohs_hardness": 2.0,
+    "frequency_hz": 138.59,
+    "file": "stone_chimes/gypsum_stone.wav"
+  },
+  "anhydrite": {
+    "name": "Anhydrite",
+    "mohs_hardness": 3.5,
+    "frequency_hz": 196.0,
+    "file": "stone_chimes/anhydrite.wav"
+  },
+  "aventurine_glass": {
+    "name": "Aventurine Glass",
+    "mohs_hardness": 6.0,
+    "frequency_hz": 349.23,
+    "file": "stone_chimes/aventurine_glass.wav"
+  },
+  "goldstone": {
+    "name": "Goldstone",
+    "mohs_hardness": 6.0,
+    "frequency_hz": 349.23,
+    "file": "stone_chimes/goldstone.wav"
+  },
+  "preseli_blue_stone": {
+    "name": "Preseli Blue Stone",
+    "mohs_hardness": 7.0,
+    "frequency_hz": 440.0,
+    "file": "stone_chimes/preseli_blue_stone.wav"
+  },
+  "bluestone": {
+    "name": "Bluestone",
+    "mohs_hardness": 7.0,
+    "frequency_hz": 440.0,
+    "file": "stone_chimes/bluestone.wav"
+  },
+  "staurolite": {
+    "name": "Staurolite",
+    "mohs_hardness": 7.0,
+    "frequency_hz": 440.0,
+    "file": "stone_chimes/staurolite.wav"
+  },
+  "fairy_cross": {
+    "name": "Fairy Cross",
+    "mohs_hardness": 7.0,
+    "frequency_hz": 440.0,
+    "file": "stone_chimes/fairy_cross.wav"
+  },
+  "datolite": {
+    "name": "Datolite",
+    "mohs_hardness": 5.0,
+    "frequency_hz": 277.18,
+    "file": "stone_chimes/datolite.wav"
+  },
+  "babingtonite": {
+    "name": "Babingtonite",
+    "mohs_hardness": 5.5,
+    "frequency_hz": 311.13,
+    "file": "stone_chimes/babingtonite.wav"
+  },
+  "axinite": {
+    "name": "Axinite",
+    "mohs_hardness": 7.0,
+    "frequency_hz": 440.0,
+    "file": "stone_chimes/axinite.wav"
+  },
+  "benitoite": {
+    "name": "Benitoite",
+    "mohs_hardness": 6.5,
+    "frequency_hz": 392.0,
+    "file": "stone_chimes/benitoite.wav"
+  },
+  "petalite": {
+    "name": "Petalite",
+    "mohs_hardness": 6.5,
+    "frequency_hz": 392.0,
+    "file": "stone_chimes/petalite.wav"
+  },
+  "scapolite": {
+    "name": "Scapolite",
+    "mohs_hardness": 5.5,
+    "frequency_hz": 311.13,
+    "file": "stone_chimes/scapolite.wav"
+  },
+  "pollucite": {
+    "name": "Pollucite",
+    "mohs_hardness": 6.5,
+    "frequency_hz": 392.0,
+    "file": "stone_chimes/pollucite.wav"
+  },
+  "tantalite": {
+    "name": "Tantalite",
+    "mohs_hardness": 6.0,
+    "frequency_hz": 349.23,
+    "file": "stone_chimes/tantalite.wav"
+  },
+  "cassiterite": {
+    "name": "Cassiterite",
+    "mohs_hardness": 7.0,
+    "frequency_hz": 440.0,
+    "file": "stone_chimes/cassiterite.wav"
+  },
+  "wolframite": {
+    "name": "Wolframite",
+    "mohs_hardness": 5.0,
+    "frequency_hz": 277.18,
+    "file": "stone_chimes/wolframite.wav"
+  },
+  "scheelite": {
+    "name": "Scheelite",
+    "mohs_hardness": 5.0,
+    "frequency_hz": 277.18,
+    "file": "stone_chimes/scheelite.wav"
+  },
+  "powellite": {
+    "name": "Powellite",
+    "mohs_hardness": 4.5,
+    "frequency_hz": 246.94,
+    "file": "stone_chimes/powellite.wav"
+  },
+  "mimetite": {
+    "name": "Mimetite",
+    "mohs_hardness": 4.0,
+    "frequency_hz": 220.0,
+    "file": "stone_chimes/mimetite.wav"
+  },
+  "pyromorphite": {
+    "name": "Pyromorphite",
+    "mohs_hardness": 4.0,
+    "frequency_hz": 220.0,
+    "file": "stone_chimes/pyromorphite.wav"
+  },
+  "cerussite": {
+    "name": "Cerussite",
+    "mohs_hardness": 3.5,
+    "frequency_hz": 196.0,
+    "file": "stone_chimes/cerussite.wav"
+  },
+  "anglesite": {
+    "name": "Anglesite",
+    "mohs_hardness": 3.0,
+    "frequency_hz": 174.61,
+    "file": "stone_chimes/anglesite.wav"
+  },
+  "barytocalcite": {
+    "name": "Barytocalcite",
+    "mohs_hardness": 4.0,
+    "frequency_hz": 220.0,
+    "file": "stone_chimes/barytocalcite.wav"
+  },
+  "witherite": {
+    "name": "Witherite",
+    "mohs_hardness": 3.5,
+    "frequency_hz": 196.0,
+    "file": "stone_chimes/witherite.wav"
+  },
+  "strontianite": {
+    "name": "Strontianite",
+    "mohs_hardness": 4.0,
+    "frequency_hz": 220.0,
+    "file": "stone_chimes/strontianite.wav"
+  },
+  "celestite": {
+    "name": "Celestite",
+    "mohs_hardness": 3.5,
+    "frequency_hz": 196.0,
+    "file": "stone_chimes/celestite.wav"
+  },
+  "fluorapatite": {
+    "name": "Fluorapatite",
+    "mohs_hardness": 5.0,
+    "frequency_hz": 277.18,
+    "file": "stone_chimes/fluorapatite.wav"
+  },
+  "apatite": {
+    "name": "Apatite",
+    "mohs_hardness": 5.0,
+    "frequency_hz": 277.18,
+    "file": "stone_chimes/apatite.wav"
+  },
+  "moroxite": {
+    "name": "Moroxite",
+    "mohs_hardness": 5.0,
+    "frequency_hz": 277.18,
+    "file": "stone_chimes/moroxite.wav"
+  },
+  "tremolite": {
+    "name": "Tremolite",
+    "mohs_hardness": 5.5,
+    "frequency_hz": 311.13,
+    "file": "stone_chimes/tremolite.wav"
+  },
+  "actinolite": {
+    "name": "Actinolite",
+    "mohs_hardness": 5.5,
+    "frequency_hz": 311.13,
+    "file": "stone_chimes/actinolite.wav"
+  },
+  "hornblende": {
+    "name": "Hornblende",
+    "mohs_hardness": 5.5,
+    "frequency_hz": 311.13,
+    "file": "stone_chimes/hornblende.wav"
+  },
+  "augite": {
+    "name": "Augite",
+    "mohs_hardness": 5.5,
+    "frequency_hz": 311.13,
+    "file": "stone_chimes/augite.wav"
+  },
+  "diopside": {
+    "name": "Diopside",
+    "mohs_hardness": 5.5,
+    "frequency_hz": 311.13,
+    "file": "stone_chimes/diopside.wav"
+  },
+  "enstatite": {
+    "name": "Enstatite",
+    "mohs_hardness": 5.5,
+    "frequency_hz": 311.13,
+    "file": "stone_chimes/enstatite.wav"
+  },
+  "hypersthene": {
+    "name": "Hypersthene",
+    "mohs_hardness": 5.5,
+    "frequency_hz": 311.13,
+    "file": "stone_chimes/hypersthene.wav"
+  },
+  "bronzite": {
+    "name": "Bronzite",
+    "mohs_hardness": 5.5,
+    "frequency_hz": 311.13,
+    "file": "stone_chimes/bronzite.wav"
+  },
+  "spodumene": {
+    "name": "Spodumene",
+    "mohs_hardness": 6.5,
+    "frequency_hz": 392.0,
+    "file": "stone_chimes/spodumene.wav"
+  },
+  "kunzite": {
+    "name": "Kunzite",
+    "mohs_hardness": 6.5,
+    "frequency_hz": 392.0,
+    "file": "stone_chimes/kunzite.wav"
+  },
+  "hiddenite": {
+    "name": "Hiddenite",
+    "mohs_hardness": 6.5,
+    "frequency_hz": 392.0,
+    "file": "stone_chimes/hiddenite.wav"
+  },
+  "triphane": {
+    "name": "Triphane",
+    "mohs_hardness": 6.5,
+    "frequency_hz": 392.0,
+    "file": "stone_chimes/triphane.wav"
+  },
+  "scapolite_yellow": {
+    "name": "Scapolite Yellow",
+    "mohs_hardness": 5.5,
+    "frequency_hz": 311.13,
+    "file": "stone_chimes/scapolite_yellow.wav"
+  },
+  "sphene": {
+    "name": "Sphene",
+    "mohs_hardness": 5.5,
+    "frequency_hz": 311.13,
+    "file": "stone_chimes/sphene.wav"
+  },
+  "titanite": {
+    "name": "Titanite",
+    "mohs_hardness": 5.5,
+    "frequency_hz": 311.13,
+    "file": "stone_chimes/titanite.wav"
+  },
+  "idocrase": {
+    "name": "Idocrase",
+    "mohs_hardness": 6.5,
+    "frequency_hz": 392.0,
+    "file": "stone_chimes/idocrase.wav"
+  },
+  "vesuvianite": {
+    "name": "Vesuvianite",
+    "mohs_hardness": 6.5,
+    "frequency_hz": 392.0,
+    "file": "stone_chimes/vesuvianite.wav"
+  },
+  "californite": {
+    "name": "Californite",
+    "mohs_hardness": 6.5,
+    "frequency_hz": 392.0,
+    "file": "stone_chimes/californite.wav"
+  },
+  "grossular": {
+    "name": "Grossular",
+    "mohs_hardness": 7.0,
+    "frequency_hz": 440.0,
+    "file": "stone_chimes/grossular.wav"
+  },
+  "uvarovite": {
+    "name": "Uvarovite",
+    "mohs_hardness": 7.5,
+    "frequency_hz": 493.88,
+    "file": "stone_chimes/uvarovite.wav"
+  },
+  "andradite": {
+    "name": "Andradite",
+    "mohs_hardness": 7.0,
+    "frequency_hz": 440.0,
+    "file": "stone_chimes/andradite.wav"
+  },
+  "grossularite": {
+    "name": "Grossularite",
+    "mohs_hardness": 7.0,
+    "frequency_hz": 440.0,
+    "file": "stone_chimes/grossularite.wav"
+  },
+  "serendibite": {
+    "name": "Serendibite",
+    "mohs_hardness": 7.0,
+    "frequency_hz": 440.0,
+    "file": "stone_chimes/serendibite.wav"
+  },
+  "sinhalite": {
+    "name": "Sinhalite",
+    "mohs_hardness": 6.5,
+    "frequency_hz": 392.0,
+    "file": "stone_chimes/sinhalite.wav"
+  },
+  "taaffeite": {
+    "name": "Taaffeite",
+    "mohs_hardness": 8.0,
+    "frequency_hz": 554.37,
+    "file": "stone_chimes/taaffeite.wav"
+  },
+  "painite": {
+    "name": "Painite",
+    "mohs_hardness": 8.0,
+    "frequency_hz": 554.37,
+    "file": "stone_chimes/painite.wav"
+  },
+  "jeremejevite": {
+    "name": "Jeremejevite",
+    "mohs_hardness": 6.5,
+    "frequency_hz": 392.0,
+    "file": "stone_chimes/jeremejevite.wav"
+  },
+  "phenakite": {
+    "name": "Phenakite",
+    "mohs_hardness": 7.5,
+    "frequency_hz": 493.88,
+    "file": "stone_chimes/phenakite.wav"
+  },
+  "danburite": {
+    "name": "Danburite",
+    "mohs_hardness": 7.0,
+    "frequency_hz": 440.0,
+    "file": "stone_chimes/danburite.wav"
+  },
+  "euclase": {
+    "name": "Euclase",
+    "mohs_hardness": 7.5,
+    "frequency_hz": 493.88,
+    "file": "stone_chimes/euclase.wav"
+  },
+  "hambergite": {
+    "name": "Hambergite",
+    "mohs_hardness": 7.5,
+    "frequency_hz": 493.88,
+    "file": "stone_chimes/hambergite.wav"
+  },
+  "beryllonite": {
+    "name": "Beryllonite",
+    "mohs_hardness": 6.0,
+    "frequency_hz": 349.23,
+    "file": "stone_chimes/beryllonite.wav"
+  },
+  "brazilianite": {
+    "name": "Brazilianite",
+    "mohs_hardness": 5.5,
+    "frequency_hz": 311.13,
+    "file": "stone_chimes/brazilianite.wav"
+  },
+  "herderite": {
+    "name": "Herderite",
+    "mohs_hardness": 5.0,
+    "frequency_hz": 277.18,
+    "file": "stone_chimes/herderite.wav"
+  },
+  "amblygonite": {
+    "name": "Amblygonite",
+    "mohs_hardness": 6.0,
+    "frequency_hz": 349.23,
+    "file": "stone_chimes/amblygonite.wav"
+  },
+  "montebrasite": {
+    "name": "Montebrasite",
+    "mohs_hardness": 6.0,
+    "frequency_hz": 349.23,
+    "file": "stone_chimes/montebrasite.wav"
+  },
+  "creedite": {
+    "name": "Creedite",
+    "mohs_hardness": 4.0,
+    "frequency_hz": 220.0,
+    "file": "stone_chimes/creedite.wav"
+  },
+  "cavansite": {
+    "name": "Cavansite",
+    "mohs_hardness": 4.0,
+    "frequency_hz": 220.0,
+    "file": "stone_chimes/cavansite.wav"
+  },
+  "stilbite": {
+    "name": "Stilbite",
+    "mohs_hardness": 4.0,
+    "frequency_hz": 220.0,
+    "file": "stone_chimes/stilbite.wav"
+  },
+  "heulandite": {
+    "name": "Heulandite",
+    "mohs_hardness": 4.0,
+    "frequency_hz": 220.0,
+    "file": "stone_chimes/heulandite.wav"
+  },
+  "apophyllite_green": {
+    "name": "Apophyllite Green",
+    "mohs_hardness": 5.0,
+    "frequency_hz": 277.18,
+    "file": "stone_chimes/apophyllite_green.wav"
+  },
+  "prehnite_yellow": {
+    "name": "Prehnite Yellow",
+    "mohs_hardness": 6.0,
+    "frequency_hz": 349.23,
+    "file": "stone_chimes/prehnite_yellow.wav"
+  },
+  "bytownite": {
+    "name": "Bytownite",
+    "mohs_hardness": 6.0,
+    "frequency_hz": 349.23,
+    "file": "stone_chimes/bytownite.wav"
+  },
+  "labradorite_golden": {
+    "name": "Labradorite Golden",
+    "mohs_hardness": 6.0,
+    "frequency_hz": 349.23,
+    "file": "stone_chimes/labradorite_golden.wav"
+  },
+  "andesine": {
+    "name": "Andesine",
+    "mohs_hardness": 6.0,
+    "frequency_hz": 349.23,
+    "file": "stone_chimes/andesine.wav"
+  },
+  "oligoclase": {
+    "name": "Oligoclase",
+    "mohs_hardness": 6.0,
+    "frequency_hz": 349.23,
+    "file": "stone_chimes/oligoclase.wav"
+  },
+  "sunstone_oregon": {
+    "name": "Sunstone Oregon",
+    "mohs_hardness": 6.0,
+    "frequency_hz": 349.23,
+    "file": "stone_chimes/sunstone_oregon.wav"
+  },
+  "stillness_stone": {
+    "name": "Stillness Stone",
+    "mohs_hardness": 5.0,
+    "frequency_hz": 277.18,
+    "file": "stone_chimes/stillness_stone.wav"
+  },
+  "octave_stone": {
+    "name": "Octave Stone",
+    "mohs_hardness": 6.0,
+    "frequency_hz": 349.23,
+    "file": "stone_chimes/octave_stone.wav"
+  }
+}
