@@ -1,0 +1,70 @@
+[gd_scene load_steps=8 format=3 uid="uid://tumble_run_main"]
+
+[ext_resource type="Script" path="res://scripts/TumbleRun.gd" id="1"]
+[ext_resource type="Texture2D" path="res://assets/sprites/tumble.png" id="2"]
+[ext_resource type="Texture2D" path="res://assets/zones/main_floor.png" id="3"]
+[ext_resource type="Texture2D" path="res://assets/sprites/placeholder_stone.png" id="4"]
+[ext_resource type="Texture2D" path="res://assets/sprites/placeholder_hazard.png" id="5"]
+
+[sub_resource type="ParallaxBackground" id="ParallaxBG_1"]
+
+[sub_resource type="Label" id="ScoreLabel"]
+text = "Score: 0"
+offset_left = 20.0
+offset_top = 20.0
+offset_right = 200.0
+offset_bottom = 60.0
+
+[sub_resource type="Label" id="LivesLabel"]
+text = "Lives: 3"
+offset_left = 20.0
+offset_top = 60.0
+offset_right = 200.0
+offset_bottom = 100.0
+
+[sub_resource type="Label" id="ZoneLabel"]
+text = "Main Floor"
+offset_left = 500.0
+offset_top = 20.0
+offset_right = 800.0
+offset_bottom = 60.0
+horizontal_alignment = 2
+
+[node name="TumbleRun" type="Node2D"]
+script = ExtResource("1")
+
+[node name="ParallaxBackground" type="ParallaxBackground" parent="."]
+[node name="BackgroundLayer" type="ParallaxLayer" parent="ParallaxBackground"]
+motion_scale = Vector2(0.3, 0)
+
+[node name="Background" type="Sprite2D" parent="ParallaxBackground/BackgroundLayer"]
+texture = ExtResource("3")
+position = Vector2(512, 300)
+scale = Vector2(2, 1.5)
+
+[node name="ScrollingLayer" type="ParallaxLayer" parent="ParallaxBackground"]
+motion_scale = Vector2(1, 0)
+
+[node name="HUD" type="CanvasLayer" parent="."]
+
+[node name="ScoreLabel" type="Label" parent="HUD"]
+text = "Score: 0"
+offset_left = 20.0
+offset_top = 20.0
+offset_right = 200.0
+offset_bottom = 60.0
+
+[node name="LivesLabel" type="Label" parent="HUD"]
+text = "Lives: 3"
+offset_left = 20.0
+offset_top = 60.0
+offset_right = 200.0
+offset_bottom = 100.0
+
+[node name="ZoneLabel" type="Label" parent="HUD"]
+text = "Main Floor"
+offset_left = 500.0
+offset_top = 20.0
+offset_right = 800.0
+offset_bottom = 60.0
+horizontal_alignment = 2
