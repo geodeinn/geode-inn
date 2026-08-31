@@ -1,0 +1,50 @@
+; Tumble Run — Geode Inn Arcade Game
+; Engine version: Godot 4.3
+; Built for Steam ($4.99)
+
+config_version=5
+
+[application]
+config/name="Tumble Run"
+config/description="Guide Tumble the baby dragon through the Geode Inn's corridors. Collect stones, dodge hazards, and descend deeper into the Inn."
+run/main_scene="res://scenes/TumbleRun.tscn"
+config/features=PoolStringArray("4.3", "GL Compatibility")
+config/icon="res://assets/sprites/tumble_icon.png"
+
+[autoload]
+APIManager="*res://scripts/APIManager.gd"
+AudioManager="*res://scripts/AudioManager.gd"
+SteamManager="*res://scripts/SteamManager.gd"
+
+[display]
+window/size/viewport_width=1024
+window/size/viewport_height=576
+window/size/resizable=true
+window/stretch/mode="canvas_items"
+window/stretch/aspect="keep"
+
+[input]
+jump={
+"deadzone": 0.5,
+"events": [Object(InputEventKey,"physical_keycode",32,"unicode",32,"location",0,"echo",false,"pressed",false)]
+}
+duck={
+"deadzone": 0.5,
+"events": [Object(InputEventKey,"physical_keycode",4194325,"unicode",0,"location",0,"echo",false,"pressed",false)]
+}
+pause={
+"deadzone": 0.5,
+"events": [Object(InputEventKey,"physical_keycode",4194305,"unicode",0,"location",0,"echo",false,"pressed",false)]
+}
+
+[layer_names]
+2d_render/layer_1="World"
+2d_render/layer_2="Player"
+2d_render/layer_3="Stones"
+2d_render/layer_4="Hazards"
+2d_render/layer_5="Particles"
+
+[rendering]
+renderer/rendering_method="gl_compatibility"
+renderer/rendering_method.mobile="gl_compatibility"
+textures/canvas_textures/default_texture_filter=0
