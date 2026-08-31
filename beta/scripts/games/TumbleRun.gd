@@ -67,11 +67,46 @@ signal world_started(world: int, name: String, desc: String)
 signal level_started(world: int, level: int)
 signal level_completed(world: int, level: int, gems: int, score: int)
 signal game_completed(total_score: int)
+
+func _on_game_complete(total_score: int) -> void:
+	# Audio: Nine Songs chord
+	if AudioManager:
+		AudioManager.play_stinger("level_up")
+		AudioManager.play_nine_songs_chord()
+	
+	# Steam + GameManager
+	if SteamManager:
+		SteamManager.unlock_achievement("first_game")
+	if GameManager:
+		GameManager.complete_game("tumble_run", total_score)
 signal tumble_stuck_event(obstacle_name: String)
+
+func _on_tumble_stuck(obstacle_name: String) -> void:
+	# Audio: Tumble got stuck — play a wobble sound
+	if AudioManager:
+		AudioManager.play_stone_chime("clear_quartz", -12.0)
+
+func _on_tumble_freed() -> void:
+	# Audio: Tumble wiggled free
+	if AudioManager:
+		AudioManager.play_stone_chime("clear_quartz", -5.0)
 signal tumble_freed()
 signal gem_collected(count: int)
 
+func _on_gem_collected(count: int) -> void:
+	# Audio: gem collected chime
+	if AudioManager:
+		AudioManager.play_stone_chime("crystal_note", -3.0)
+
 func _ready() -> void:
+	# Audio: Living mode + main floor ambient
+	if AudioManager:
+		AudioManager.set_mode(AudioManager.AudioMode.LIVING)
+		AudioManager.play_zone_ambient("main_floor")
+	
+	# Steam rich presence
+	if SteamManager:
+		SteamManager.set_rich_presence("Tumble Run", "Rolling")
 	_start_world(1)
 
 func _start_world(world: int) -> void:

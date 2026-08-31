@@ -123,6 +123,15 @@ func _ready() -> void:
 	
 	# Connect GameManager signals
 	GameManager.game_completed.connect(_on_game_completed)
+	
+	# Audio: Living mode + zone ambient
+	if AudioManager:
+		AudioManager.set_mode(AudioManager.AudioMode.LIVING)
+		AudioManager.play_zone_ambient("fae_kingdom")
+	
+	# Steam rich presence
+	if SteamManager:
+		SteamManager.set_rich_presence("Standing Stones", "Level %d" % level)
 
 func _init_grid() -> void:
 	grid = []
@@ -241,6 +250,11 @@ func _lock_piece() -> void:
 			grid[cell.y][cell.x] = color
 	
 	_check_rows()
+	
+	# Audio: piece locked
+	if AudioManager:
+		AudioManager.play_stone_chime("preseli_blue_stone", -8.0)
+	
 	_spawn_piece()
 	queue_redraw()
 
@@ -282,6 +296,17 @@ func _check_rows() -> void:
 	
 	_update_ui()
 	
+	# Audio: row clear stinger
+	if AudioManager and cleared > 0:
+		AudioManager.play_stinger("standing_stones_row_clear")
+		if cleared >= 4:  # Tetris!
+			AudioManager.play_stinger("standing_stones_level_up")
+	
+	# Steam: track rows
+	if SteamManager and cleared > 0:
+		if rows_cleared >= 10:
+			SteamManager.unlock_achievement("first_game")
+	
 	# Check win condition
 	if rows_cleared >= ROWS_TO_WIN:
 		_win()
@@ -290,12 +315,27 @@ func _win() -> void:
 	current_state = State.WIN
 	win_screen.visible = true
 	
+	# Audio: victory — Nine Songs chord
+	if AudioManager:
+		AudioManager.play_stinger("fae_portal_ignition")
+		await get_tree().create_timer(0.5).timeout
+		AudioManager.play_nine_songs_chord()
+	
+	# Steam: unlock Fae Kingdom achievement
+	if SteamManager:
+		SteamManager.unlock_achievement("first_game")
+		SteamManager.unlock_achievement("fae_portal_unlocked")
+	
 	# Notify GameManager — this unlocks the Fae Kingdom portal!
 	GameManager.complete_game("standing_stones", score)
 
 func _game_over() -> void:
 	current_state = State.GAME_OVER
 	game_over_screen.visible = true
+	
+	# Audio: defeat
+	if AudioManager:
+		AudioManager.play_stinger("monster_encounter")
 
 func _on_game_completed(game_id: String) -> void:
 	if game_id == "standing_stones":

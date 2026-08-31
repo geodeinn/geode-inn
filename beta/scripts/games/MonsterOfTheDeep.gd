@@ -130,6 +130,14 @@ const TARGET_WIN_SCORE: int = 2500
 @onready var ui_layer: CanvasLayer = $UILayer if has_node("UILayer") else null
 
 func _ready() -> void:
+	# Audio: Living mode + water zone ambient
+	if AudioManager:
+		AudioManager.set_mode(AudioManager.AudioMode.LIVING)
+		AudioManager.play_zone_ambient("tidal_caves")
+	
+	# Steam rich presence
+	if SteamManager:
+		SteamManager.set_rich_presence("Monster of the Deep", "Searching")
 	print_verbose("[DM/Reader]: 'Deep cello tones reverberate at 50 BPM. The sea monster stirs in Atlantean waters.'")
 	_reset_game()
 	current_state = State.PLAYING

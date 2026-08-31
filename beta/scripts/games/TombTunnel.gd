@@ -126,6 +126,14 @@ const PULSE_INTERVAL: float = 1.2  # 50 BPM wave cycle (~1.2 sec)
 @onready var ui_layer: CanvasLayer = $UILayer if has_node("UILayer") else null
 
 func _ready() -> void:
+	# Audio: Living mode + Egypt ambient
+	if AudioManager:
+		AudioManager.set_mode(AudioManager.AudioMode.LIVING)
+		AudioManager.play_zone_ambient("egypt")
+	
+	# Steam rich presence
+	if SteamManager:
+		SteamManager.set_rich_presence("Tomb Tunnel", "Digging deep")
 	# Tabletop GM introduction
 	print_verbose("[DM/Reader]: 'The sand gives way beneath your picks. 42Hz frequency vibrates in your boots.'")
 	_start_level(1)

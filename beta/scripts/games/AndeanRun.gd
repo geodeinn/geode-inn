@@ -82,6 +82,14 @@ const RHYTHM_CYCLE: float = 1.2  # 50 BPM cycle
 @onready var ui_layer: CanvasLayer = $UILayer if has_node("UILayer") else null
 
 func _ready() -> void:
+	# Audio: Living mode + Peru ambient
+	if AudioManager:
+		AudioManager.set_mode(AudioManager.AudioMode.LIVING)
+		AudioManager.play_zone_ambient("peru")
+	
+	# Steam rich presence
+	if SteamManager:
+		SteamManager.set_rich_presence("Andean Run", "Running")
 	print_verbose("[DM/Reader]: 'The Andean flute notes rise like mist off the Incan causeway. 42Hz hums under your boots.'")
 	_reset_game()
 	current_state = State.PLAYING
