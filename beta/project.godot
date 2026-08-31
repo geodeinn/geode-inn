@@ -2,6 +2,7 @@
 ; Geode Inn — Godot Project File (Beta)
 ; Engine: Godot 4.x
 ; Architecture: Base44 backend + Godot frontend
+; Audio: IEM-based Acoustic Architecture (Empire Ears)
 ;
 
 config_version=5
@@ -18,8 +19,10 @@ config/version="0.1.0-beta"
 
 APIManager="*res://beta/scripts/APIManager.gd"
 GameManager="*res://beta/scripts/GameManager.gd"
+SaveManager="*res://beta/scripts/SaveManager.gd"
 FizgigLoader="*res://beta/scripts/systems/FizgigLoader.gd"
 DialogueManager="*res://beta/scripts/systems/DialogueManager.gd"
+AudioManager="*res://beta/scripts/systems/AudioManager.gd"
 
 [display]
 
@@ -70,6 +73,11 @@ menu={
 "events": [Object(InputEventKey,"resource_local_to_scene":false,"resource_name":"","device":-1,"window_id":0,"alt_pressed":false,"shift_pressed":false,"ctrl_pressed":false,"meta_pressed":false,"pressed":false,"keycode":0,"physical_keycode":4194305,"key_label":0,"unicode":0,"echo":false,"script":null)
 ]
 }
+listen={
+"deadzone": 0.5,
+"events": [Object(InputEventKey,"resource_local_to_scene":false,"resource_name":"","device":-1,"window_id":0,"alt_pressed":false,"shift_pressed":false,"ctrl_pressed":false,"meta_pressed":false,"pressed":false,"keycode":0,"physical_keycode":76,"key_label":0,"unicode":108,"echo":false,"script":null)
+]
+}
 
 [physics]
 
@@ -81,3 +89,46 @@ renderer/rendering_method="gl_compatibility"
 renderer/rendering_method.mobile="gl_compatibility"
 textures/canvas_textures/default_texture_filter=0
 environment/defaults/default_clear_color=Color(0.102, 0.078, 0.063, 1)
+
+[audio]
+
+bus/0/name="Master"
+bus/0/solo=false
+bus/0/mute=false
+bus/0/bypass_fx=false
+bus/0/volume_db=0.0
+bus/1/name="Song"
+bus/1/solo=false
+bus/1/mute=false
+bus/1/bypass_fx=false
+bus/1/volume_db=-3.0
+bus/2/name="Zone"
+bus/2/solo=false
+bus/2/mute=false
+bus/2/bypass_fx=false
+bus/2/volume_db=-6.0
+bus/3/name="Stones"
+bus/3/solo=false
+bus/3/mute=false
+bus/3/bypass_fx=false
+bus/3/volume_db=-8.0
+bus/4/name="Voice"
+bus/4/solo=false
+bus/4/mute=false
+bus/4/bypass_fx=false
+bus/4/volume_db=-4.0
+bus/5/name="Music"
+bus/5/solo=false
+bus/5/mute=false
+bus/5/bypass_fx=false
+bus/5/volume_db=-5.0
+bus/6/name="SFX"
+bus/6/solo=false
+bus/6/mute=false
+bus/6/bypass_fx=false
+bus/6/volume_db=-10.0
+bus/7/name="Shadow"
+bus/7/solo=false
+bus/7/mute=true
+bus/7/bypass_fx=false
+bus/7/volume_db=-12.0
