@@ -22,6 +22,7 @@ GameManager="*res://beta/scripts/GameManager.gd"
 SaveManager="*res://beta/scripts/SaveManager.gd"
 FizgigLoader="*res://beta/scripts/systems/FizgigLoader.gd"
 DialogueManager="*res://beta/scripts/systems/DialogueManager.gd"
+DialogueUI="*res://beta/scripts/systems/DialogueUI.gd"
 AudioManager="*res://beta/scripts/systems/AudioManager.gd"
 SteamManager="*res://beta/scripts/systems/SteamManager.gd"
 
