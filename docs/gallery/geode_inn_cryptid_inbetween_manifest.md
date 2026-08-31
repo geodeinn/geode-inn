@@ -1,8 +1,8 @@
 # Geode Inn — Cryptid Bestiary: In-Between (Transitional Frequency) Manifest
 
 **Generated:** 2026-08-31
-**Total:** 39 of 48 cryptid In-Between versions complete
-**Status:** 9 remaining (Popobawa, Yowie, Yeren, Xiezhi, Mbielu-mbielu-mbielu, Ngoubou, Issie, Strix, Hoan Kiem Turtle)
+**Total:** 48 of 48 cryptid In-Between versions — COMPLETE ✅
+**Tri-Mode Status:** ALL categories fully complete (critters, water monsters, cryptids)
 
 ## Batch 1 — In-Between Versions (31 cryptids)
 
@@ -40,7 +40,7 @@
 | 30 | Akkorokamui | https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/43e5f7187_generated_image.png |
 | 31 | Mamlambo | https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/dfba9ccf3_generated_image.png |
 
-## Batch 2 — In-Between Versions (8 of 17 cryptids)
+## Batch 2 — In-Between Versions (17 cryptids)
 
 | # | Cryptid | In-Between URL |
 |---|---------|----------------|
@@ -52,30 +52,26 @@
 | 37 | Minhocão | https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/1faf2c1ca_generated_image.png |
 | 38 | Mishipeshu | https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/ed64e1388_generated_image.png |
 | 39 | Orang Pendek | https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/de18efb33_generated_image.png |
-
-## Remaining — In-Between Versions (9 cryptids)
-
-| # | Cryptid | Status |
-|---|---------|--------|
-| 40 | Popobawa | ⬜ Pending |
-| 41 | Yowie | ⬜ Pending |
-| 42 | Yeren | ⬜ Pending |
-| 43 | Xiezhi | ⬜ Pending |
-| 44 | Mbielu-mbielu-mbielu | ⬜ Pending |
-| 45 | Ngoubou | ⬜ Pending |
-| 46 | Issie | ⬜ Pending |
-| 47 | Strix | ⬜ Pending |
-| 48 | Hoan Kiem Turtle | ⬜ Pending |
+| 40 | Popobawa | https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/c5e5a0f5d_generated_image.png |
+| 41 | Yowie | https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/b07df903b_generated_image.png |
+| 42 | Yeren | https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/874edefe0_generated_image.png |
+| 43 | Xiezhi | https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/1f68bac35_generated_image.png |
+| 44 | Mbielu-mbielu-mbielu | https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/4809aabdf_generated_image.png |
+| 45 | Ngoubou | https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/690ee7f90_generated_image.png |
+| 46 | Issie | https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/1be4cf115_generated_image.png |
+| 47 | Strix | https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/f52f8f779_generated_image.png |
+| 48 | Hoan Kiem Turtle | https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/599cf2ddc_generated_image.png |
 
 ---
 
-## Tri-Mode Completion Summary
+## Tri-Mode Completion Summary — ALL COMPLETE ✅
 
-| Category | Living (42Hz) | Shadow (84Hz) | In-Between | Total |
-|----------|---------------|---------------|------------|-------|
-| Critters (12) | ✅ | ✅ | ✅ | 36 images |
-| Water Monsters (32) | ✅ | ✅ | ✅ | 96 images |
-| Cryptids (48) | ✅ | ✅ | 39/48 ✅ | 135/144 images |
-| **Total** | **92** | **92** | **83** | **267** |
+| Category | Living (42Hz) | Shadow (84Hz) | In-Between | Total Images |
+|----------|---------------|---------------|------------|--------------|
+| Critters (12) | ✅ 12 | ✅ 12 | ✅ 12 | 36 |
+| Water Monsters (32) | ✅ 32 | ✅ 32 | ✅ 32 | 96 |
+| Cryptids (48) | ✅ 48 | ✅ 48 | ✅ 48 | 144 |
+| **TOTAL** | **92** | **92** | **92** | **276** |
 
-9 cryptid In-Between versions remain to complete the full tri-mode set.
+The full tri-mode visual asset set for the Geode Inn's creature bestiary is now COMPLETE.
+Every creature exists in all three frequency states: Living (42Hz), Shadow (84Hz), and In-Between (transitional).
