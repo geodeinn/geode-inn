@@ -121,3 +121,18 @@ All uploaded. See geode_inn_asset_manifest.md for full list.
 
 ## ITEMS & ARTIFACTS (13)
 All uploaded. See geode_inn_asset_manifest.md for full list.
+
+## SOULSTICE PRODUCT PHOTOS (8 incoming files)
+| Product Name | Photo URL |
+|-------------|----------|
+| Baltic amber, amethyst and silver earrings (pair 2) | https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/7404fc026_56d564a64_3925.jpg |
+| Celtic leather in light brown | https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/0ff4cae1b_1231d9aca_3933.jpg |
+| Celtic leather in grays and browns | https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/212c30c52_d267a016b_3934.jpg |
+| Celtic leather bracelet in gray and brown | https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/6ab389c84_7a29b564a_3936.jpg |
+| Viking earrings | https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/a6bbdac15_e21054bb5_3937.jpg |
+| Celtic leather in gray and brown | https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/1c9b3355e_bb5eaf39b_3939.jpg |
+| Garnet, gold and spinel earrings | https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/4f6975596_46cf94d51_picker_image_97D602A6-106C-4A31-BFDC-EC58950F97DD.jpg |
+| Silver, black onyx, and pietersite earrings | https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/b50299b48_7f8ed5491_picker_image_4B4C1549-21F5-47AB-AE11-416C47CE93B1.jpg |
+
+## PRICE UPDATES (from soulsticejeweler.com shop scrape)
+All 30 Soulstice MarketItems updated with live shop prices: $40-$510 range.
