@@ -4,6 +4,9 @@ extends Node2D
 ## 5 sections. No combat. No puzzles. Walking. Witnessing.
 ## Art: Anselm Kiefer × Royo. Straw, ash, lead, burned materials.
 ## No fizgigs. Silence. The only loading screen without them.
+##
+## Audio: 84Hz Shadow mode throughout. The silence IS the audio.
+## At level 5, 42Hz and 84Hz cancel into true silence — the first silence in the game.
 
 const LEVELS := [
 	{
@@ -27,7 +30,7 @@ const LEVELS := [
 		"subtitle": "This is the cactus land",
 		"poem_excerpt": "Here the stone images / Are raised, here they receive / The supplication of a dead man's hand",
 		"environment": "Barren underground. Stone figures. Cactus-like growths made of mineral, not plant.",
-		"mechanic": "Walk among the stone images. They reach toward you. They are not reaching for you. They are reaching for what you carry.",
+		"mechanic": "Walk among the stone figures. They reach toward you. They are not reaching for you. They are reaching for what you carry.",
 		"art_prompt": "Kiefer × Royo. Underground wasteland. Stone figures with arms raised. Cactus-like mineral growths. Burned earth tones. Straw scattered on ground. Hyper-detailed texture on stone, flowing lines suggesting supplication.",
 	},
 	{
@@ -54,6 +57,8 @@ signal whisper_layer_spoke(line: String)
 
 var _current_level := 0
 var _is_active := false
+var _player_pos: float = 0.0  # Walking progress 0.0 → 1.0
+var _level_end_threshold: float = 1.0
 
 func _ready() -> void:
 	# No fizgig loading screen. Pure silence. This is deliberate.
@@ -63,7 +68,18 @@ func _ready() -> void:
 func start_hollow_men() -> void:
 	_current_level = 0
 	_is_active = true
-	_load_level(0)
+	_player_pos = 0.0
+	
+	# Audio: switch to Shadow mode (84Hz)
+	if AudioManager:
+		AudioManager.set_mode(AudioManager.AudioMode.SHADOW)
+		AudioManager.play_zone_ambient("undercity")
+	
+	# Steam rich presence
+	if SteamManager:
+		SteamManager.set_rich_presence("In the Hollow Men mines", "Descending")
+	
+	print("[HollowMen] Started — Shadow mode active")
 
 func _load_level(index: int) -> void:
 	if index >= LEVELS.size():
@@ -71,13 +87,34 @@ func _load_level(index: int) -> void:
 		return
 	
 	_current_level = index
-	var level := LEVELS[index]
+	_player_pos = 0.0
+	var level = LEVELS[index]
 	
-	# Display level title as text overlay (slow fade in/out)
-	# Load level environment art
-	# Set up the walking mechanic
-	# The player walks right until they reach the end
-	# No enemies, no collectibles, no puzzles
+	print("[HollowMen] Level %d: %s" % [index + 1, level.title])
+	
+	# Audio per level
+	if AudioManager:
+		match index:
+			0:
+				# Level 1: Dim amber — low drone
+				AudioManager.play_zone_ambient("undercity")
+			1:
+				# Level 2: Shadow separates — subtle shift
+				AudioManager.play_solfeggio("thalia")  # 84Hz reinforcement
+			2:
+				# Level 3: Stone figures — deeper drone
+				AudioManager.play_stone_chime("obsidian", -15.0)
+			3:
+				# Level 4: Sound-based navigation — echoes
+				AudioManager.play_stone_chime("jet", -20.0)
+				# In implementation: each footstep plays a faint echo
+			4:
+				# Level 5: TRUE SILENCE — the first silence in the game
+				# 42Hz and 84Hz cancel each other
+				AudioManager.set_mode(AudioManager.AudioMode.IN_BETWEEN)
+				# Fade all audio to near-zero
+				AudioManager.fade_all_buses(-60.0, 3.0)  # 3-second fade to silence
+				print("[HollowMen] Level 5: True silence begins. The first silence in the game.")
 	
 	# In actual implementation:
 	# 1. Fade to black
@@ -86,18 +123,55 @@ func _load_level(index: int) -> void:
 	# 4. Player walks forward (right arrow / D key)
 	# 5. Environmental events trigger as player progresses
 	# 6. At end of level, fade to black, load next
-	pass
+
+func _process(delta: float) -> void:
+	if not _is_active:
+		return
+	
+	# Player walks forward
+	if Input.is_action_pressed("move_right"):
+		_player_pos += delta * 0.1  # Slow walk
+	
+	# Level 4: footstep echoes
+	if _current_level == 3 and AudioManager:
+		if Input.is_action_just_pressed("move_right"):
+			AudioManager.play_ui_sound("button_click")
+	
+	# Check level end
+	if _player_pos >= _level_end_threshold:
+		_on_level_end()
 
 func _on_level_end() -> void:
 	level_completed.emit(_current_level)
+	
+	# Audio: level transition
+	if AudioManager and _current_level < 4:
+		AudioManager.play_ui_sound("portal")
+	
 	_load_level(_current_level + 1)
 
 func _finish() -> void:
 	_is_active = false
-	SaveManager.set_flag("hollow_men_completed", true)
+	
+	if SaveManager:
+		SaveManager.set_flag("hollow_men_completed", true)
+	
+	# Audio: the Whisper Layer speaks — in TRUE SILENCE
+	# The only sound in the entire sequence is this voice
+	if AudioManager:
+		# Unmute just the voice bus
+		AudioManager.set_bus_volume("Voice", 0.0)
+		AudioManager.play_stone_chime("clear_quartz", -5.0)  # A single clear tone
 	
 	# The Whisper Layer speaks
-	whisper_layer_spoken.emit("I have been watching you the whole time. I wanted you to know that.")
+	whisper_layer_spoke.emit("I have been watching you the whole time. I wanted you to know that.")
+	
+	print("[HollowMen] The Whisper Layer speaks. The Inn itself. One line in the silence.")
+	
+	# Steam achievement
+	if SteamManager:
+		SteamManager.unlock_achievement("hollow_men_complete")
+		SteamManager.set_rich_presence("Witnessed the Whisper Layer", "Endgame choice")
 	
 	# Present endgame choice
 	hollow_men_finished.emit()
@@ -111,7 +185,7 @@ func get_level_art_prompt(index: int) -> String:
 ## Generate the poem text overlay for a level
 func get_level_poem(index: int) -> Dictionary:
 	if index < LEVELS.size():
-		var level := LEVELS[index]
+		var level = LEVELS[index]
 		return {
 			"title": level.title,
 			"subtitle": level.subtitle,
@@ -119,3 +193,11 @@ func get_level_poem(index: int) -> Dictionary:
 			"environment": level.environment,
 		}
 	return {}
+
+## Get the endgame choice data
+func get_endgame_choices() -> Array:
+	return [
+		{"id": "stay", "text": "Stay. The Inn is home.", "frequency": 42, "description": "Remain in the Inn. The 42Hz Song continues. You become part of the archive."},
+		{"id": "leave", "text": "Leave. The world needs witnesses.", "frequency": 111, "description": "Return to the surface. Carry the Inn's knowledge outward. The Gargoyle's vigil."},
+		{"id": "hide", "text": "Hide. Some knowledge waits for the right time.", "frequency": 84, "description": "Enter the Shadow Inn. The 84Hz keeps you still. You wait, patient as stone."},
+	]
