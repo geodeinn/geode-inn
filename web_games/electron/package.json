@@ -1,0 +1,27 @@
+{
+  "name": "geode-inn",
+  "version": "1.0.0",
+  "description": "The Geode Inn — A living archive of stone, sound, and story",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "build:win": "electron-builder --win --x64",
+    "build:mac": "electron-builder --mac --arm64 --x64",
+    "build:linux": "electron-builder --linux --x64",
+    "build:all": "electron-builder --win --mac --linux"
+  },
+  "build": {
+    "appId": "com.geodeinn.game",
+    "productName": "The Geode Inn",
+    "directories": { "output": "dist" },
+    "files": ["main.js", "../geode_inn.html", "../manifest.json"],
+    "win": { "target": "nsis" },
+    "mac": { "target": ["dmg", "zip"], "category": "public.app-category.games" },
+    "linux": { "target": ["AppImage", "deb"], "category": "Game" },
+    "nsis": { "oneClick": false, "allowToChangeInstallationDirectory": true }
+  },
+  "devDependencies": {
+    "electron": "^28.0.0",
+    "electron-builder": "^24.0.0"
+  }
+}

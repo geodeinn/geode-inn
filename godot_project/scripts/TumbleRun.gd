@@ -2,6 +2,7 @@
 # 2D skill game: guide Tumble (the baby dragon) through the Inn's corridors
 # collecting stones while avoiding hazards. Inspired by classic endless runners.
 # Target: Steam ($4.99), Godot 4.x, cross-platform
+# Uses shared autoloads: AudioManager, ControllerManager, OverlayManager, FrequencyShift, SteamManager
 
 extends Node2D
 
@@ -90,6 +91,7 @@ func _ready() -> void:
 
 func _process(delta: float) -> void:
 	_update_player(delta)
+	_process_input()
 	_update_spawning(delta)
 	_update_objects(delta)
 	_update_zone_progress(delta)
@@ -134,11 +136,13 @@ func jump() -> void:
 	if is_grounded:
 		player_velocity = JUMP_FORCE
 		is_grounded = false
-		_play_sfx("jump")
+		if AudioManager: AudioManager.play_sfx("res://assets/audio/sfx/jump.wav")
+		else: _play_sfx("jump")
 	elif can_double_jump:
 		player_velocity = DOUBLE_JUMP_FORCE
 		can_double_jump = false
-		_play_sfx("double_jump")
+		if AudioManager: AudioManager.play_sfx("res://assets/audio/sfx/double_jump.wav")
+		else: _play_sfx("double_jump")
 		_spawn_jump_particles()
 
 func duck() -> void:
@@ -272,7 +276,14 @@ func _load_zone(zone_index: int) -> void:
 	current_zone = zone_index
 	zone_distance = 0.0
 	var zone = ZONES[zone_index]
-	current_speed = BASE_SPEED * zone.speed_mult
+	# Apply frequency state difficulty multiplier
+	var freq_mult = 1.0
+	if FrequencyShift:
+		freq_mult = FrequencyShift.get_difficulty_multiplier()
+	current_speed = BASE_SPEED * zone.speed_mult * freq_mult
+	
+	# Play zone transition SFX
+	_play_sfx("zone_transition")
 	
 	if zone_label:
 		zone_label.text = zone.name
@@ -295,15 +306,29 @@ func _complete_zone() -> void:
 func _next_zone() -> void:
 	if current_zone < ZONES.size() - 1:
 		_load_zone(current_zone + 1)
+		# Zone-based achievements
+		if current_zone >= 3 and SteamManager:
+			SteamManager.unlock_achievement("tumble_zone_diver")
+		if current_zone >= 1 and SteamManager:
+			SteamManager.unlock_achievement("tumble_first_steps")
 	else:
 		# All zones complete — loop with increased difficulty
 		current_speed = BASE_SPEED * 2.5
 		_load_zone(0)
+		if SteamManager:
+			SteamManager.unlock_achievement("tumble_gorgon_slayer")
+			if FrequencyShift and FrequencyShift.is_shadow():
+				SteamManager.unlock_achievement("tumble_shadow_walker")
+			if lives == 3:
+				SteamManager.unlock_achievement("tumble_perfect")
 
 # === COLLECTION & DAMAGE ===
 
 func _collect_stone(stone_name: String) -> void:
 	var points = _get_stone_points(stone_name)
+	# Apply Shadow mode rarity bonus to score
+	if FrequencyShift and FrequencyShift.is_shadow():
+		points = int(points * 1.15)
 	score += points
 	score_changed.emit(score)
 	
@@ -312,8 +337,37 @@ func _collect_stone(stone_name: String) -> void:
 	stones_collected[stone_name] += 1
 	
 	stone_collected.emit(stone_name)
-	_play_sfx("collect")
+	
+	# Play rarity-appropriate SFX
+	if stone_name in STONE_POOL_LEGENDARY:
+		_play_sfx("collect_legendary")
+		if SteamManager: SteamManager.unlock_achievement("tumble_legendary")
+	elif stone_name in STONE_POOL_RARE:
+		_play_sfx("collect_rare")
+	elif stone_name in STONE_POOL_UNCOMMON:
+		_play_sfx("collect_uncommon")
+	else:
+		_play_sfx("collect_common")
+	
+	# Play stone tone trigger (Mohs to frequency, -12dB below SFX)
+	if AudioManager:
+		AudioManager.play_stone_tone(stone_name)
+	
+	# Controller rumble on rare/legendary
+	if ControllerManager:
+		if stone_name in STONE_POOL_LEGENDARY:
+			ControllerManager.rumble(0.8, 1.0, 0.5)
+		elif stone_name in STONE_POOL_RARE:
+			ControllerManager.rumble(0.4, 0.6, 0.3)
+	
 	_spawn_collect_particles(points)
+	
+	# Check stone collector achievement
+	var total_stones = 0
+	for count in stones_collected.values():
+		total_stones += count
+	if total_stones >= 50 and SteamManager:
+		SteamManager.unlock_achievement("tumble_collector")
 
 func _take_damage(hazard_type: String) -> void:
 	lives -= 1
@@ -323,6 +377,8 @@ func _take_damage(hazard_type: String) -> void:
 	
 	_play_sfx("hit")
 	_screen_shake()
+	if ControllerManager:
+		ControllerManager.rumble(1.0, 0.8, 0.4)
 	
 	if lives <= 0:
 		_game_over()
@@ -412,27 +468,50 @@ func _screen_shake() -> void:
 	tween.tween_property(self, "position", Vector2.ZERO, 0.05)
 
 func _play_sfx(sound_name: String) -> void:
-	var path = "res://audio/sfx/" + sound_name + ".wav"
-	if ResourceLoader.exists(path):
-		var stream = load(path)
-		var player = AudioStreamPlayer.new()
-		player.stream = stream
-		add_child(player)
-		player.play()
-		await player.finished
-		player.queue_free()
+	# Route through AudioManager autoload for bus routing, pooling, and frequency modulation
+	var sfx_path = "res://assets/audio/sfx/" + sound_name + ".wav"
+	if AudioManager and ResourceLoader.exists(sfx_path):
+		AudioManager.play_sfx(sfx_path)
+	elif AudioManager:
+		# Fallback: try old path
+		var old_path = "res://audio/sfx/" + sound_name + ".wav"
+		if ResourceLoader.exists(old_path):
+			AudioManager.play_sfx(old_path)
+	else:
+		# Last resort: direct playback
+		var path = "res://audio/sfx/" + sound_name + ".wav"
+		if ResourceLoader.exists(path):
+			var stream = load(path)
+			var player = AudioStreamPlayer.new()
+			player.stream = stream
+			add_child(player)
+			player.play()
+			await player.finished
+			player.queue_free()
 
 func _play_music(music_path: String) -> void:
-	# Crossfade to new zone music
-	pass  # Handled by AudioManager.gd
+	# Route through AudioManager for crossfade, DSP profile, and frequency layer
+	if AudioManager:
+		AudioManager.play_zone_music(ZONES[current_zone].name.to_lower())
+	# Also apply frequency shift for this zone
+	if FrequencyShift:
+		var zone_name = ZONES[current_zone].name.to_lower()
+		match zone_name:
+			"gorgon's garden":
+				FrequencyShift.shift_to_shadow()
+			_:
+				FrequencyShift.shift_to_living()
+	# Rumble controller on zone change
+	if ControllerManager:
+		ControllerManager.rumble(0.3, 0.5, 0.3)
 
 # === GAME STATE ===
 
 func _game_over() -> void:
-	# Save score to Base44 API
+	_play_sfx("game_over")
+	if SteamManager and score >= 10000:
+		SteamManager.unlock_achievement("tumble_speed_demon")
 	_save_score()
-	
-	# Show game over screen
 	get_tree().change_scene_to_file("res://scenes/GameOver.tscn")
 
 func _save_score() -> void:
@@ -448,9 +527,11 @@ func _save_score() -> void:
 # === INPUT ===
 
 func _input(event: InputEvent) -> void:
+	# Touch input (mobile)
 	if event is InputEventScreenTouch:
 		if event.pressed:
 			jump()
+	# Keyboard input
 	elif event is InputEventKey:
 		if event.pressed:
 			match event.keycode:
@@ -459,7 +540,44 @@ func _input(event: InputEvent) -> void:
 				KEY_DOWN, KEY_S:
 					duck()
 				KEY_ESCAPE:
-					get_tree().paused = !get_tree().paused
+					_toggle_pause()
+	# Joypad button input (Bluetooth controllers)
+	elif event is InputEventJoypadButton:
+		if event.pressed:
+			match event.button_index:
+				0, 1:  # A/X/Cross — jump
+					jump()
+				13, 15:  # D-pad down — duck
+					duck()
+				6, 4:  # Start/Options/Select — pause
+					_toggle_pause()
+
+func _process_input() -> void:
+	# Called from _process for continuous controller input
+	if ControllerManager and ControllerManager.is_controller_active():
+		# Check jump via controller action
+		if ControllerManager.get_action_just_pressed("action"):
+			jump()
+		# Check duck via controller
+		if ControllerManager.get_action_pressed("cancel") or ControllerManager.get_action_pressed("down"):
+			duck()
+		# Check pause via start button
+		if ControllerManager.get_action_just_pressed("start"):
+			_toggle_pause()
+		# Overlay toggle is handled by OverlayManager automatically
+
+func _toggle_pause() -> void:
+	get_tree().paused = !get_tree().paused
+	if get_tree().paused:
+		# Show pause indicator
+		pass
+	else:
+		pass
+
+func _on_controller_connected(device_id: int, controller_type: String) -> void:
+	print("[TumbleRun] Controller connected: %s" % controller_type)
+	if ControllerManager:
+		ControllerManager.rumble(0.3, 0.3, 0.2)  # Brief rumble to confirm
 
 # === PUBLIC API (for external calls) ===
 

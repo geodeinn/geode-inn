@@ -1,0 +1,291 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width,initial-scale=1.0,user-scalable=no">
+<title>Tomb Tunnel — Geode Inn</title>
+<style>
+*{margin:0;padding:0;box-sizing:border-box}
+body{background:#0d0b08;color:#c4a572;font-family:Georgia,serif;overflow:hidden;
+  display:flex;flex-direction:column;align-items:center;justify-content:center;height:100vh;
+  background-image:radial-gradient(ellipse at center,#1a1610 0%,#0d0b08 70%)}
+canvas{border:2px solid #c4a572;border-radius:4px;box-shadow:0 0 30px rgba(196,165,114,0.15)}
+.hud{display:flex;gap:40px;margin-bottom:12px;font-size:14px;letter-spacing:1px}
+.hud span{color:#8a7350}.hud b{color:#c4a572}
+#title{font-size:22px;letter-spacing:4px;margin-bottom:8px;text-shadow:0 0 10px rgba(196,165,114,0.3)}
+#subtitle{font-size:11px;color:#6a5a40;margin-bottom:16px;letter-spacing:2px}
+#gameover{position:absolute;display:none;flex-direction:column;align-items:center;gap:16px;
+  background:rgba(13,11,8,0.95);padding:40px 60px;border:1px solid #c4a572;border-radius:8px}
+#gameover h2{font-size:28px;letter-spacing:3px}
+#gameover p{color:#8a7350;font-size:14px;text-align:center;max-width:400px;line-height:1.6}
+#gameover button{background:transparent;border:1px solid #c4a572;color:#c4a572;padding:10px 30px;
+  font-family:inherit;font-size:14px;cursor:pointer;letter-spacing:2px;border-radius:4px}
+.touch-controls{display:none;position:fixed;bottom:20px;left:0;right:0;justify-content:space-around;padding:0 20px}
+.touch-btn{width:56px;height:56px;border:1px solid #c4a572;border-radius:50%;background:rgba(196,165,114,0.08);
+  color:#c4a572;font-size:20px;display:flex;align-items:center;justify-content:center;user-select:none;touch-action:manipulation}
+@media(pointer:coarse){.touch-controls{display:flex}}
+.knotwork{position:fixed;top:0;left:0;right:0;height:4px;
+  background:repeating-linear-gradient(90deg,#c4a572 0,#c4a572 8px,transparent 8px,transparent 16px);opacity:0.15}
+</style>
+</head>
+<body>
+<div class="knotwork"></div>
+<div id="title">TOMB TUNNEL</div>
+<div id="subtitle">An Egyptian Dig Dug · Excavate 7 strata to find Lapis Lazuli</div>
+<div class="hud">
+  <span>Score: <b id="score">0</b></span>
+  <span>Depth: <b id="depth">1</b>/7</span>
+  <span>Lives: <b id="lives">3</b></span>
+</div>
+<canvas id="game" width="480" height="600"></canvas>
+<div id="gameover">
+  <h2 id="goTitle"></h2>
+  <p id="goMsg"></p>
+  <button onclick="restart()">Descend Again</button>
+</div>
+<div class="touch-controls">
+  <div class="touch-btn" id="tL">◀</div>
+  <div class="touch-btn" id="tU">▲</div>
+  <div class="touch-btn" id="tD">▼</div>
+  <div class="touch-btn" id="tR">▶</div>
+  <div class="touch-btn" id="tF">✦</div>
+</div>
+<script>
+const canvas=document.getElementById('game');
+const ctx=canvas.getContext('2d');
+const COLS=16,ROWS=20,CELL=30;
+canvas.width=COLS*CELL;canvas.height=ROWS*CELL;
+
+// 7 strata of Egypt — each a different earth tone
+const STRATA=[
+  {name:'Sand',color:'#c4a36a',stone:'Carnelian'},
+  {name:'Limestone',color:'#b8a890',stone:'Calcite'},
+  {name:'Clay',color:'#a07050',stone:'Jasper'},
+  {name:'Shale',color:'#6a5a50',stone:'Shungite'},
+  {name:'Basalt',color:'#3a3530',stone:'Obsidian'},
+  {name:'Granite',color:'#4a3530',stone:'Hematite'},
+  {name:'Bedrock',color:'#2a2520',stone:'Lapis Lazuli'}
+];
+
+let grid,player,enemies,score,lives,depth,gameOver,animId,lastTime,enemyTimer;
+
+function init(){
+  depth=1;score=0;lives=3;gameOver=false;
+  loadLevel();
+  updateHUD();
+  lastTime=performance.now();
+  animId=requestAnimationFrame(loop);
+}
+
+function loadLevel(){
+  grid=Array.from({length:ROWS},()=>Array(COLS).fill(0)); // 0=dirt,1=tunnel,2=rock
+  // Carve initial player space
+  const px=Math.floor(COLS/2),py=2;
+  player={x:px,y:py,dir:'down',alive:true,animFrame:0};
+  grid[py][px]=1;
+  // Place enemies
+  enemies=[];
+  const numEnemies=2+depth;
+  for(let i=0;i<numEnemies;i++){
+    let ex,ey;do{ex=Math.floor(Math.random()*COLS);ey=5+Math.floor(Math.random()*(ROWS-6));}while(grid[ey][ex]===1);
+    enemies.push({x:ex,y:ey,dir:'left',alive:true,moveTimer:0,speed:0.5+depth*0.1});
+  }
+  // Place rocks
+  for(let i=0;i<3+depth;i++){
+    let rx,ry;do{rx=Math.floor(Math.random()*COLS);ry=3+Math.floor(Math.random()*(ROWS-4));}while(grid[ry][rx]===1&&grid[ry][rx]===2);
+    grid[ry][rx]=2;
+  }
+}
+
+function updateHUD(){
+  document.getElementById('score').textContent=score;
+  document.getElementById('depth').textContent=depth;
+  document.getElementById('lives').textContent=lives;
+}
+
+function move(dx,dy){
+  if(gameOver||!player.alive)return;
+  const nx=player.x+dx,ny=player.y+dy;
+  if(nx<0||nx>=COLS||ny<0||ny>=ROWS)return;
+  if(grid[ny][nx]===2)return; // can't move through rock
+  player.x=nx;player.y=ny;
+  if(grid[ny][nx]===0){grid[ny][nx]=1;score+=10;updateHUD();} // dig
+  if(dx<0)player.dir='left';if(dx>0)player.dir='right';
+  if(dy<0)player.dir='up';if(dy>0)player.dir='down';
+}
+
+function fire(){
+  if(gameOver||!player.alive)return;
+  // Harpoon in facing direction
+  let dx=0,dy=0;
+  if(player.dir==='left')dx=-1;if(player.dir==='right')dx=1;
+  if(player.dir==='up')dy=-1;if(player.dir==='down')dy=1;
+  let hx=player.x+dx,hy=player.y+dy;
+  for(let i=0;i<4;i++){
+    if(hx<0||hx>=COLS||hy<0||hy>=ROWS)break;
+    if(grid[hy][hx]===2)break; // rock blocks
+    // Check enemy hit
+    for(const e of enemies){
+      if(e.alive&&e.x===hx&&e.y===hy){
+        e.alive=false;score+=100*depth;updateHUD();
+        // Check level clear
+        if(enemies.every(e=>!e.alive)){
+          depth++;
+          if(depth>7){winGame();return;}
+          score+=500;loadLevel();
+        }
+        return;
+      }
+    }
+    hx+=dx;hy+=dy;
+  }
+}
+
+function updateEnemies(dt){
+  enemyTimer+=dt;
+  for(const e of enemies){
+    if(!e.alive)continue;
+    if(e.moveTimer>e.speed*1000){
+      e.moveTimer=0;
+      // Simple chase AI
+      const dx=player.x-e.x,dy=player.y-e.y;
+      const moves=[];
+      if(Math.abs(dx)>Math.abs(dy)){
+        moves.push([Math.sign(dx),0]);
+        moves.push([0,Math.sign(dy)]);
+      }else{
+        moves.push([0,Math.sign(dy)]);
+        moves.push([Math.sign(dx),0]);
+      }
+      for(const[mx,my]of moves){
+        if(mx===0&&my===0)continue;
+        const nx=e.x+mx,ny=e.y+my;
+        if(nx>=0&&nx<COLS&&ny>=0&&ny<ROWS&&grid[ny][nx]!==2){
+          e.x=nx;e.y=ny;
+          if(grid[ny][nx]===0)grid[ny][nx]=1; // enemies dig too
+          if(e.x===player.x&&e.y===player.y)hitPlayer();
+          break;
+        }
+      }
+    }
+    e.moveTimer+=dt;
+  }
+}
+
+function hitPlayer(){
+  player.alive=false;lives--;updateHUD();
+  if(lives<=0){endGame();return;}
+  setTimeout(()=>{
+    player.x=Math.floor(COLS/2);player.y=2;player.alive=true;player.dir='down';
+    grid[2][Math.floor(COLS/2)]=1;
+  },1000);
+}
+
+function loop(time){
+  if(gameOver)return;
+  const dt=Math.min(50,time-lastTime);
+  lastTime=time;
+  enemyTimer=0;
+  updateEnemies(dt);
+  draw();
+  animId=requestAnimationFrame(loop);
+}
+
+function draw(){
+  const stratum=Math.min(depth-1,6);
+  const baseColor=STRATA[stratum].color;
+  ctx.fillStyle=shadeColor(baseColor,-40);
+  ctx.fillRect(0,0,canvas.width,canvas.height);
+  
+  for(let y=0;y<ROWS;y++){
+    const s=Math.min(Math.floor(y/3)+stratum,6);
+    for(let x=0;x<COLS;x++){
+      if(grid[y][x]===0){ // dirt
+        ctx.fillStyle=STRATA[s].color;
+        ctx.fillRect(x*CELL,y*CELL,CELL,CELL);
+        ctx.fillStyle=shadeColor(STRATA[s].color,-15);
+        ctx.fillRect(x*CELL,y*CELL,CELL,2);
+      }else if(grid[y][x]===2){ // rock
+        const grad=ctx.createLinearGradient(x*CELL,y*CELL,x*CELL+CELL,y*CELL+CELL);
+        grad.addColorStop(0,'#6a6a6a');grad.addColorStop(1,'#3a3a3a');
+        ctx.fillStyle=grad;
+        ctx.fillRect(x*CELL+2,y*CELL+2,CELL-4,CELL-4);
+      }
+    }
+  }
+  
+  // Player — adventurer in gold
+  if(player.alive){
+    ctx.fillStyle='#c4a572';
+    ctx.beginPath();
+    ctx.arc(player.x*CELL+CELL/2,player.y*CELL+CELL/2,CELL/2-3,0,Math.PI*2);
+    ctx.fill();
+    ctx.fillStyle='#1a1610';
+    // Direction indicator
+    const cx=player.x*CELL+CELL/2,cy=player.y*CELL+CELL/2;
+    if(player.dir==='left')ctx.fillRect(cx-12,cy-2,6,4);
+    if(player.dir==='right')ctx.fillRect(cx+6,cy-2,6,4);
+    if(player.dir==='up')ctx.fillRect(cx-2,cy-12,4,6);
+    if(player.dir==='down')ctx.fillRect(cx-2,cy+6,4,6);
+  }
+  
+  // Enemies — scarab beetles in dark red
+  for(const e of enemies){
+    if(!e.alive)continue;
+    ctx.fillStyle='#8b2020';
+    ctx.beginPath();
+    ctx.arc(e.x*CELL+CELL/2,e.y*CELL+CELL/2,CELL/2-4,0,Math.PI*2);
+    ctx.fill();
+    ctx.fillStyle='#c4a572';
+    ctx.fillRect(e.x*CELL+CELL/2-3,e.y*CELL+CELL/2-1,6,2);
+  }
+}
+
+function shadeColor(hex,p){
+  let r=parseInt(hex.slice(1,3),16),g=parseInt(hex.slice(3,5),16),b=parseInt(hex.slice(5,7),16);
+  r=Math.max(0,Math.min(255,r+p));g=Math.max(0,Math.min(255,g+p));b=Math.max(0,Math.min(255,b+p));
+  return'#'+r.toString(16).padStart(2,'0')+g.toString(16).padStart(2,'0')+b.toString(16).padStart(2,'0');
+}
+
+function winGame(){
+  gameOver=true;cancelAnimationFrame(animId);
+  document.getElementById('goTitle').textContent='The Lapis Lazuli';
+  document.getElementById('goMsg').innerHTML=`7 strata excavated. ${score} points.<br>The Lapis Lazuli glows in the deepest chamber.<br>Carry it to your geode, traveler.<br><br>"The earth remembers everything." — The Crone`;
+  document.getElementById('gameover').style.display='flex';
+}
+
+function endGame(){
+  gameOver=true;cancelAnimationFrame(animId);
+  document.getElementById('goTitle').textContent='The Tomb Closes';
+  document.getElementById('goMsg').innerHTML=`The scarabs overwhelm. ${score} points, ${depth-1} strata cleared.<br>The Lapis Lazuli remains buried. Try again.`;
+  document.getElementById('gameover').style.display='flex';
+}
+
+function restart(){
+  document.getElementById('gameover').style.display='none';
+  init();
+}
+
+// Controls
+document.addEventListener('keydown',e=>{
+  if(gameOver)return;
+  switch(e.key){
+    case'ArrowLeft':move(-1,0);break;
+    case'ArrowRight':move(1,0);break;
+    case'ArrowUp':move(0,-1);break;
+    case'ArrowDown':move(0,1);break;
+    case' ':case'z':case'Z':e.preventDefault();fire();break;
+  }
+});
+
+function bindTouch(id,fn){document.getElementById(id).addEventListener('touchstart',e=>{e.preventDefault();if(!gameOver)fn();},{passive:false});}
+bindTouch('tL',()=>move(-1,0));
+bindTouch('tR',()=>move(1,0));
+bindTouch('tU',()=>move(0,-1));
+bindTouch('tD',()=>move(0,1));
+bindTouch('tF',fire);
+
+init();
+</script>
+</body>
+</html>

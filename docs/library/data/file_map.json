@@ -1,0 +1,1020 @@
+{
+  "zones": [
+    {
+      "id": "1ho4ED5GbhCt3oN6oz-86eR5uk4yTepJIrVjWAFgwOiI",
+      "name": "Geode Inn \u2014 Alchemical Staircase Aesthetic (Matisse)",
+      "mime": "application/vnd.google-apps.document"
+    },
+    {
+      "id": "1zkN_fK75GwvVKecy_EFWQjDXTq8_KPj0--UBzydTlnI",
+      "name": "Geode Inn \u2014 Catacombs Aesthetic (Klimt)",
+      "mime": "application/vnd.google-apps.document"
+    },
+    {
+      "id": "1uVD2zjmLpU8VfrO5QS_ZF8t2pXrkrqx7",
+      "name": "Geode Inn \u2014 Cave City Zone (Full Design).md",
+      "mime": "text/markdown"
+    },
+    {
+      "id": "1e25_akL3rd7EUwaB_FaWOsQkgIBRRcTfrE4KQ-XUcE8",
+      "name": "Geode Inn \u2014 Cosmology Level Aesthetic (Dal\u00ed)",
+      "mime": "application/vnd.google-apps.document"
+    },
+    {
+      "id": "1mA1Gcu1Jw1d2cItswSjq8S6rDWPwkntZ0y1hpmjLtlQ",
+      "name": "Geode Inn \u2014 Exterior (Th\u00e9odore Rousseau + Magritte)",
+      "mime": "application/vnd.google-apps.document"
+    },
+    {
+      "id": "1NRzsma2iVQWuu05-LvkcultRNiprn9UyGCDU1rFfZdE",
+      "name": "Geode Inn \u2014 Exterior (Th\u00e9odore Rousseau + Magritte)",
+      "mime": "application/vnd.google-apps.document"
+    },
+    {
+      "id": "16HALZmcjKzFM6Y7q0e2tT1ehYoFHbRnBwIxUns9ZsWc",
+      "name": "Geode Inn \u2014 Exterior (Th\u00e9odore Rousseau + Magritte)",
+      "mime": "application/vnd.google-apps.document"
+    },
+    {
+      "id": "1jq5BzdsX_9vaEZp7bgt0w2ab52lKoGGl9DjgoKGbs7o",
+      "name": "Geode Inn \u2014 Exterior, Coast Hub, Undercity, Observatory & The Silence Between",
+      "mime": "application/vnd.google-apps.document"
+    },
+    {
+      "id": "1ZwBec-kJLAQVNKCJAZGwx1HgsFiCOD3uVAKnSlAfbnI",
+      "name": "Geode Inn \u2014 Garden Aesthetic (Van Gogh)",
+      "mime": "application/vnd.google-apps.document"
+    },
+    {
+      "id": "1D6fO-Ee5q7R9NZIhPNc-DvAaQXdsDc3MzD1K96Qb_ns",
+      "name": "Geode Inn \u2014 Mesopotamian Platform (The Ziggurat)",
+      "mime": "application/vnd.google-apps.document"
+    },
+    {
+      "id": "1w6qNMpwl_mcfJnCaTYMEtN888MTtTJtRIqrT8vAYPnI",
+      "name": "Geode Inn \u2014 Miskatonic Annex (Rousseau)",
+      "mime": "application/vnd.google-apps.document"
+    },
+    {
+      "id": "10pIMKvuVEV_6iRA09BV-ix1exDI3DAUzh0yA5z4asxo",
+      "name": "Geode Inn \u2014 Norse Realms (Book of Kells + Danheim)",
+      "mime": "application/vnd.google-apps.document"
+    },
+    {
+      "id": "15kbeyxnTru6B2DitJnhSKnGRu5oyFJZs",
+      "name": "Geode Inn \u2014 The Redwood Cathedral",
+      "mime": "text/markdown"
+    },
+    {
+      "id": "1oyz4ktC3Bljc3RBLi1jEVTbUD8PPz8sq",
+      "name": "Geode Inn \u2014 Undercity NPC The Blacksmith.md",
+      "mime": "text/markdown"
+    },
+    {
+      "id": "108sJUCMRZi7_6lz6HrGv8J0fGY4aStWY",
+      "name": "Geode Inn \u2014 Undercity NPC The Clockmaker.md",
+      "mime": "text/markdown"
+    },
+    {
+      "id": "1SDcMfi1u0iiVhZT6IXehWSctbeSPO6Pg",
+      "name": "geode_inn_catacombs_klimt.md",
+      "mime": "text/markdown"
+    },
+    {
+      "id": "1_uwhw9CCYAhfKy-9S_oqzkwoJp5JHedf",
+      "name": "geode_inn_cave_city_zone.md",
+      "mime": "text/markdown"
+    },
+    {
+      "id": "12jE4wS3NTD8TWmmXpDOVLOdczI8ZVXgC",
+      "name": "geode_inn_cosmology_dali.md",
+      "mime": "text/markdown"
+    },
+    {
+      "id": "1gCe5WVFsPmPFzHE5PqNZGE6BBaGyMYSY",
+      "name": "geode_inn_exterior_rousseau_magritte.md",
+      "mime": "text/markdown"
+    },
+    {
+      "id": "1kvc1qiyCzORBNfAez_0CwuSLblcRa3_Q",
+      "name": "geode_inn_garden_van_gogh.md",
+      "mime": "text/markdown"
+    },
+    {
+      "id": "1OghdT8z4WZtl2ZZ9LfvsD7YqZS9BiAS1",
+      "name": "geode_inn_mesopotamian_platform.md",
+      "mime": "text/markdown"
+    },
+    {
+      "id": "1YxN_7MWjDcK0lZUZP9SqWwedm6zN7Q0_",
+      "name": "geode_inn_miskatonic_rousseau.md",
+      "mime": "text/markdown"
+    },
+    {
+      "id": "1aS5Jq_38XtDzNnCzbANXm982kf_7DcNE",
+      "name": "geode_inn_norse_realms.md",
+      "mime": "text/markdown"
+    },
+    {
+      "id": "1rlYU7wKRe9sqE7c3zBA2P_AS97DbRKS6",
+      "name": "geode_inn_redwood_cathedral.md",
+      "mime": "text/markdown"
+    },
+    {
+      "id": "1jbIk2yEhSBBEmfuGK0Irw1bANKvT45g5",
+      "name": "geode_inn_staircase_matisse.md",
+      "mime": "text/markdown"
+    },
+    {
+      "id": "1koFJ9VcVOxcIdK7H9fKb-ORUlRFLQzHN",
+      "name": "geode_inn_undercity_npc_blacksmith.md",
+      "mime": "text/markdown"
+    }
+  ],
+  "characters": [
+    {
+      "id": "19naGptQ0CobsmDXvp5sBZF6jbfXqXNZT",
+      "name": "bestiary.docx",
+      "mime": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+    },
+    {
+      "id": "1h6URdj4FUgP0WuuG0uNMlir1aHhTKCdrrgubShQBbGA",
+      "name": "Geode Inn - Character Development Session (Aug 2026)",
+      "mime": "application/vnd.google-apps.document"
+    },
+    {
+      "id": "166g3dVGZP8YvIQl6ts3UKVtY2mrUOZva",
+      "name": "Geode Inn \u2014 Character Class 6 (The Sentinel).md",
+      "mime": "text/markdown"
+    },
+    {
+      "id": "1vZyLeSXjWCkHtAZpDhGgXt9pbzsGXPI1",
+      "name": "Geode Inn \u2014 Character Class Mapping (31 Characters \u00d7 14 Archetypes).md",
+      "mime": "text/markdown"
+    },
+    {
+      "id": "1mFAU0J21vRQulNHXCkKN2eGcl4nGIVRu",
+      "name": "Geode Inn \u2014 Character Class Mapping Part 2 (35 More Characters).md",
+      "mime": "text/markdown"
+    },
+    {
+      "id": "1TWbp34rqGyw9TfacDsLgJI7MUweq3NDm",
+      "name": "Geode Inn \u2014 Character Class System (Festival Questline).md",
+      "mime": "text/markdown"
+    },
+    {
+      "id": "1iGbF6OPMGuwVYhTJxM4g2lxdBVaV3XIdWFggIW1o0GU",
+      "name": "Geode Inn \u2014 Character Compendium (August 2026)",
+      "mime": "application/vnd.google-apps.document"
+    },
+    {
+      "id": "1NYczJZkMJabV9mPaGCrD9GA34fo5tP3n",
+      "name": "Geode Inn \u2014 Default Playable Classes (Family as Archetypes).md",
+      "mime": "text/markdown"
+    },
+    {
+      "id": "1-F6zer1q1hhgm6UOFQKi-pwh-50qCTTjCvPLY7uoSqM",
+      "name": "Geode Inn \u2014 Eileen (The Hearth)",
+      "mime": "application/vnd.google-apps.document"
+    },
+    {
+      "id": "1aojE3eJgQpG4NCz5e9eurXBYQPn23zCRPXCm15vHWyg",
+      "name": "Geode Inn \u2014 Family Character Registry (Final)",
+      "mime": "application/vnd.google-apps.document"
+    },
+    {
+      "id": "1Ch3CXYbZTEdrl7fujjfi_14JvgOcvB9ju-TukzWjSY0",
+      "name": "Geode Inn \u2014 Family Character Registry (Updated)",
+      "mime": "application/vnd.google-apps.document"
+    },
+    {
+      "id": "1Af2MlomoVJQEyq9L2JdcDnJKyV29hn7dJUKbg6l02Go",
+      "name": "Geode Inn \u2014 Jaime (The Living Archive)",
+      "mime": "application/vnd.google-apps.document"
+    },
+    {
+      "id": "1bgaF8lDqtYwOxGMvmviflIQ6AOzDegWv0wi0HF5DKbo",
+      "name": "Geode Inn \u2014 Jaime (The Living Archive)",
+      "mime": "application/vnd.google-apps.document"
+    },
+    {
+      "id": "1ujIPI-PI_QLp9drPuwAfAFqZQ-b9-dOY",
+      "name": "Geode Inn \u2014 Jaime Concept Art (Final)",
+      "mime": "image/jpeg"
+    },
+    {
+      "id": "1m3i_XPgSe4a_OjVrJkRFRbCEFAl3_jmdvsc6PPXnLKQ",
+      "name": "Geode Inn \u2014 Joe (The Miniaturist) + Water Zone Aesthetic",
+      "mime": "application/vnd.google-apps.document"
+    },
+    {
+      "id": "1whRj-1FNy0JMtbgieZgGLh8qAYTzm_9CJB_36n75XQg",
+      "name": "Geode Inn \u2014 Joe (The Miniaturist) + Water Zone Aesthetic",
+      "mime": "application/vnd.google-apps.document"
+    },
+    {
+      "id": "1dim76Ai_gkd-2ykMfIf3U_goqeD32lPGSiGHkRed0e0",
+      "name": "Geode Inn \u2014 Joe's Character (Story + Picture Options)",
+      "mime": "application/vnd.google-apps.document"
+    },
+    {
+      "id": "1UcAsnj4UU46E-FnVHl9WIVFRkdIXn7Lpa0cgr9hXIOg",
+      "name": "Geode Inn \u2014 Persephone Water Overlap",
+      "mime": "application/vnd.google-apps.document"
+    },
+    {
+      "id": "1Zzp5DeyIIWn99lfI-HdCPs1m--70gaGuDdLjNtMFI4A",
+      "name": "Geode Inn \u2014 Ryan Backstory Base Structure",
+      "mime": "application/vnd.google-apps.document"
+    },
+    {
+      "id": "1tvlRUaeu2AqD8ebXOIheUxObHOmnQezpv_T9xswLdZc",
+      "name": "Geode Inn \u2014 Ryan Backstory Base Structure",
+      "mime": "application/vnd.google-apps.document"
+    },
+    {
+      "id": "1cVcI5Jz6yziVMylVoDE8sbjOaMiwpmR1",
+      "name": "Geode Inn \u2014 The Raven's Angle",
+      "mime": "text/markdown"
+    },
+    {
+      "id": "1sJVzrlGmUAwIv5Owb5POx4XaAcfWiUH4rNwzqO3qH3Q",
+      "name": "Geode Inn \u2014 Thorin & Marijke (The Mead Hall)",
+      "mime": "application/vnd.google-apps.document"
+    },
+    {
+      "id": "1VT0brMDDuhqXnNyarjB8M5S-qlBqMX8Q",
+      "name": "Geode Inn \u2014 Wearable Attire System (Character Costuming).md",
+      "mime": "text/markdown"
+    },
+    {
+      "id": "1zaW_6KfYFS94fhCIkDzU_Fj8DlJs1T6Z",
+      "name": "geode_inn_adam_wardrobe.md",
+      "mime": "text/markdown"
+    },
+    {
+      "id": "1dUuO2qPK9PsGnYGib9XSzoqsa_IziEtV",
+      "name": "geode_inn_bestiary_mechanic.md",
+      "mime": "text/markdown"
+    },
+    {
+      "id": "1n4EjtC3umU1prkJp-Vjk6nC_LaWn60qz",
+      "name": "geode_inn_character_homes.md",
+      "mime": "text/markdown"
+    },
+    {
+      "id": "1Glf18vTx-gIAwzehPCnZG5Y32TNLNJaP",
+      "name": "geode_inn_class_abilities.md",
+      "mime": "text/markdown"
+    },
+    {
+      "id": "1hVkYZXU8vcg7TY8nib82fh99GRb9XBu3",
+      "name": "geode_inn_firekeeper_quest.md",
+      "mime": "text/markdown"
+    },
+    {
+      "id": "1IPCYojcsQco0XH1ZLzz6_MianL3PFmyp",
+      "name": "geode_inn_new_npcs_batch2.md",
+      "mime": "text/markdown"
+    },
+    {
+      "id": "1Fi5dSYu6bn3-fFdMTREZ0wIy6O1AAh7F",
+      "name": "geode_inn_npc_adam.md",
+      "mime": "text/markdown"
+    },
+    {
+      "id": "1Z_t99VKbTgYJBt2GDpWTm57xf8-VAp-i",
+      "name": "geode_inn_npc_adam.md",
+      "mime": "text/markdown"
+    },
+    {
+      "id": "16MOoeckD8eGjH8hCM-YiSPxktgsTAFIn",
+      "name": "geode_inn_npc_anna.md",
+      "mime": "text/markdown"
+    },
+    {
+      "id": "13BwNj-h86R9B-ll_HVQyLbwHSS7jtT8b",
+      "name": "geode_inn_npc_jay.md",
+      "mime": "text/markdown"
+    },
+    {
+      "id": "1KjralQCC2jd5Czfz6YFhV_MyGtZvhvDq",
+      "name": "geode_inn_ravens_angle.md",
+      "mime": "text/markdown"
+    }
+  ],
+  "items_templates": [
+    {
+      "id": "13wB8NmDw-AJCWWpIeTyE8_guH6ZyVEwM",
+      "name": "geode_inn_catacombs_item_templates.md",
+      "mime": "text/markdown"
+    },
+    {
+      "id": "1FTrDzMy2DOFLVPJQK2ePHBaVS_KKKxR6",
+      "name": "geode_inn_cosmology_item_templates.md",
+      "mime": "text/markdown"
+    },
+    {
+      "id": "1iQaI9xS1ZhGfHA4snpVCaEv85AEJbJ8x",
+      "name": "geode_inn_fae_kingdom_item_templates.md",
+      "mime": "text/markdown"
+    },
+    {
+      "id": "1ghS_eucULwCXi3wrdUXyq34WP8BmSAQ9",
+      "name": "geode_inn_hearth_item_templates.md",
+      "mime": "text/markdown"
+    },
+    {
+      "id": "1BANftOU7Sb69Hi-vGilGuqtmM-2DTG0y",
+      "name": "geode_inn_lighthouse_item_templates.md",
+      "mime": "text/markdown"
+    },
+    {
+      "id": "18dGeJyfKwwP5CKQvOOVh7-jMrsDgOs2z",
+      "name": "geode_inn_staircase_item_templates.md",
+      "mime": "text/markdown"
+    },
+    {
+      "id": "1TH9siYQTyK1Q3I5fuEJ2x9uLpT0pbr2t",
+      "name": "geode_inn_undercity_item_templates.md",
+      "mime": "text/markdown"
+    }
+  ],
+  "game_mechanics": [
+    {
+      "id": "1a6XJpaBAcE77-_7j7W27XV-JA3cBsEOG",
+      "name": "Geode Inn \u2014 Acoustic Engine Architecture (IEM-Based Sound Processing).md",
+      "mime": "text/markdown"
+    },
+    {
+      "id": "1rhTQTePysCvLLlahurMFi5Vmh9ir6USP",
+      "name": "Geode Inn \u2014 Camera System (Four Modes as Game Mechanic).md",
+      "mime": "text/markdown"
+    },
+    {
+      "id": "1gh7VMRjpp_l8R8ms68FWai5cbiPoY0hP",
+      "name": "Geode Inn \u2014 Camera System (Four Modes as Game Mechanic).md",
+      "mime": "text/markdown"
+    },
+    {
+      "id": "1G06P8VDHsHfNN2typHt4m438zZqlx85g",
+      "name": "Geode Inn \u2014 Linework Quest Indicator System.md",
+      "mime": "text/markdown"
+    },
+    {
+      "id": "1KHrC3asSYUnpwiIQHPeieOfkHrnrIHHTyyGPymPxOqc",
+      "name": "Geode Inn \u2014 Master Solidification Index (Aug 28)",
+      "mime": "application/vnd.google-apps.document"
+    },
+    {
+      "id": "1yia1vgQ8JwSo4x90k3d6WWRkFx2bZcXg",
+      "name": "Geode Inn \u2014 Production Reference Sheet.md",
+      "mime": "text/markdown"
+    },
+    {
+      "id": "1kp8wvcdOd0EKFvERRMlBe-ensFqUwA2j",
+      "name": "Geode Inn \u2014 Session Log 2026-08-26 (Andra, Zee, Charles, Spirit-Soul).md",
+      "mime": "text/markdown"
+    },
+    {
+      "id": "1tcdYsUO6PzU-9CXZRxazn9RFPr_CxHM2",
+      "name": "Geode Inn \u2014 Session Summary (Aug 24 Late).md",
+      "mime": "text/markdown"
+    },
+    {
+      "id": "1NXP1GPX_af-iGUdsC51pu0GP7AfrM3zG",
+      "name": "Geode Inn \u2014 Stone Vibration Godot Integration Guide.md",
+      "mime": "text/markdown"
+    },
+    {
+      "id": "1XOoHPOtmfKKhnosMoPMbeSPNp0p6JzOp",
+      "name": "Geode Inn \u2014 Stone Vibration Touch System.html",
+      "mime": "text/html"
+    },
+    {
+      "id": "1r9rB9j3Nfw2Ugw0Na4dbLDKoWzczt_8U",
+      "name": "Geode Inn \u2014 Stone Vibration Touch System.html",
+      "mime": "text/html"
+    },
+    {
+      "id": "19gU6q43GX4ARN9NpyGx3Npn3zMF7EjKC",
+      "name": "geode_inn_linework_quest_indicator_system.md",
+      "mime": "text/markdown"
+    },
+    {
+      "id": "1U20H2KVaQBSQFQXa-8crZKpxpDW2WNZF",
+      "name": "geode_inn_name_audit.md",
+      "mime": "text/markdown"
+    },
+    {
+      "id": "1bunqpMc26EhzO0jZVOIpDOsjqVqOgkve",
+      "name": "geode_inn_production_reference_sheet.md",
+      "mime": "text/markdown"
+    },
+    {
+      "id": "1fgKVwn7Z8wUj_KlMSVSPKYcL1HdJVnbQ",
+      "name": "geode_inn_production_reference_sheet_updated.md",
+      "mime": "text/markdown"
+    },
+    {
+      "id": "1J15ZVM-HJh4n8Y4LAXSPqFdFKWcPyFHG",
+      "name": "geode_inn_production_reference_sheet_updated.md",
+      "mime": "text/markdown"
+    },
+    {
+      "id": "1xaT-l_XEBW7mxQl-yaWITYr9PEFSMl7m",
+      "name": "geode_inn_session_checkpoint_aug26_evening.md",
+      "mime": "text/markdown"
+    }
+  ],
+  "storyline": [
+    {
+      "id": "1rxeIPGzh_A6rYYKBGnxGIQR-Us3dKH4L",
+      "name": "Geode Inn \u2014 Campaign Narrative (All Storylines).md",
+      "mime": "text/markdown"
+    },
+    {
+      "id": "1tWQn8lJjOkodfkeSwT1Rz2axUYQL-4VG",
+      "name": "Geode Inn \u2014 DM Narrative Walkthrough.md",
+      "mime": "text/markdown"
+    },
+    {
+      "id": "1FkeXj7GEe1ZSxv1QYAxlY_nQ2jloCbxO",
+      "name": "Geode Inn \u2014 Full Walkthrough & Consistency Audit",
+      "mime": "text/markdown"
+    },
+    {
+      "id": "1L5RpmQ0Ru5tPOPPhuaxc9XOXrazwAAVI",
+      "name": "Geode Inn \u2014 Full Walkthrough with Images.docx",
+      "mime": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+    },
+    {
+      "id": "1E79Qm51EDTNO8PEnImQe__qCHob7FvSDje8eAH5Vg7k",
+      "name": "Geode Inn \u2014 Master Storyline (UPDATED Aug 24)",
+      "mime": "application/vnd.google-apps.document"
+    },
+    {
+      "id": "156TnJIss9XlTMOMlK9WxT6rZog4_ATuhfnpRNRGnb6A",
+      "name": "Geode Inn \u2014 Master Storyline and Game Progression",
+      "mime": "application/vnd.google-apps.document"
+    },
+    {
+      "id": "1DnYh-4uZTga9q2OkJLRWP2SPx2thA6J6",
+      "name": "Geode Inn \u2014 Master Storyline and Game Progression.pdf",
+      "mime": "application/pdf"
+    },
+    {
+      "id": "1zczyWXX4V3miFWEA_tHS9ZXBtSkvy1en",
+      "name": "Geode Inn \u2014 Master Storyline and Game Progression\u00a0(1).docx",
+      "mime": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+    },
+    {
+      "id": "1pN7Jc4CRJ518OUQurLgrwAhjI5Nz72pY",
+      "name": "Geode Inn \u2014 Origin Story (Draft 1).md",
+      "mime": "text/markdown"
+    },
+    {
+      "id": "1_8hLhFh6n8NSXRkpYd6Q7LLjaXf8BbXM",
+      "name": "Geode Inn \u2014 Origin Story (Draft 1).md",
+      "mime": "text/markdown"
+    },
+    {
+      "id": "1Yk6ZtcB6qg7OJuvzlkS-h_tc_OPRRY-8",
+      "name": "Geode Inn \u2014 Origin Story Part 6 (The Conversations).md",
+      "mime": "text/markdown"
+    },
+    {
+      "id": "1BIlzcCW91HQWmkV7V_-C8cpLM5ViKrGccT6_Rr9XQSQ",
+      "name": "Geode Inn \u2014 Project Bible Master Backup (August 2026)",
+      "mime": "application/vnd.google-apps.document"
+    },
+    {
+      "id": "15G0jeBtuKMVJwfQ-hjdYalnQyyfk3V9Z",
+      "name": "Geode Inn \u2014 Project Bible v3.md",
+      "mime": "text/markdown"
+    },
+    {
+      "id": "12--2xNKMqqDsWwVK3gfItZbn561t3GcZ",
+      "name": "Geode Inn \u2014 Storyline Atlas (Skies to Giants).md",
+      "mime": "text/markdown"
+    },
+    {
+      "id": "18WG4edyaVw-0d7GD1Faw-0UxA1qblnzu",
+      "name": "Geode Inn \u2014 The Charm Bracelet (Living Progression Item).md",
+      "mime": "text/markdown"
+    },
+    {
+      "id": "1auE2h988f08age-R_wKtIr2gY-5n5LfX",
+      "name": "geode_inn_campaign_narrative.md",
+      "mime": "text/markdown"
+    },
+    {
+      "id": "1ixqcODAVm2C5g8Bg1vnLX9ESHksCfIGF",
+      "name": "geode_inn_complete_storyline_final_summary.md",
+      "mime": "text/markdown"
+    },
+    {
+      "id": "1wHwcBWhoinXvMsCzzzaNQgvgaVZf3eZq",
+      "name": "geode_inn_complete_storyline_final_summary.md",
+      "mime": "text/markdown"
+    },
+    {
+      "id": "1aRA3GVocp_YqfWDi7sBS9c6SOLMz5TvX",
+      "name": "geode_inn_dm_walkthrough.md",
+      "mime": "text/markdown"
+    },
+    {
+      "id": "1vaGzBpvJrJ5nkPLZ0YUTq_cOBSwzApfV",
+      "name": "geode_inn_full_walkthrough_audit.md",
+      "mime": "text/markdown"
+    },
+    {
+      "id": "1NiyVveBi2NiSceUiG4ssIDVs_OLu-Vap",
+      "name": "geode_inn_master_storyline.md",
+      "mime": "text/markdown"
+    },
+    {
+      "id": "1H8_iRnuq_imnK9FcvpQZd9rlTc5Dt5cN",
+      "name": "geode_inn_narrative_integration.md",
+      "mime": "text/markdown"
+    },
+    {
+      "id": "1FS3ypeuDqbiVts5FT-_tcecGNcfZ1P1v",
+      "name": "geode_inn_staircase_origin_storyline.md",
+      "mime": "text/markdown"
+    },
+    {
+      "id": "1Gs06B2FT4H_bjgMIScvgwE6aYh_qSIWM",
+      "name": "geode_inn_staircase_origin_storyline.md",
+      "mime": "text/markdown"
+    },
+    {
+      "id": "1gbC9dApYc7kUJa06Bo9fLI_EA2CGVPcl",
+      "name": "geode_inn_storyline_atlas.md",
+      "mime": "text/markdown"
+    }
+  ],
+  "card_game": [
+    {
+      "id": "1JrOFOBa-qRh9N0yf0C-xeL9Ja6n6oSrK",
+      "name": "Bohemian Rhapsody \u2014 Mineral Bead Mapping.md",
+      "mime": "text/markdown"
+    },
+    {
+      "id": "1icaAgaRiQqk3CaEOWwYSV1tRWL9rhIZ1",
+      "name": "bohemian_rhapsody_design.md",
+      "mime": "text/markdown"
+    },
+    {
+      "id": "1a4HU2GuKUncjJHnaytoA2xMNC765wbwJ",
+      "name": "Geode Inn \u2014 Card Game Batch 2 (Renamed + New Cards).md",
+      "mime": "text/markdown"
+    },
+    {
+      "id": "11tOppFXoUpz5ZZhxgQASbklPIm9gRNId",
+      "name": "Geode Inn \u2014 Card Game Batch 3 (Cave City + Fae + Enemies + Quests).md",
+      "mime": "text/markdown"
+    },
+    {
+      "id": "1FcZLKWfYi372eaw6i9_EiSyLV4S_7mrF",
+      "name": "Geode Inn \u2014 Card Game Framework (MTG-Hearthstone).md",
+      "mime": "text/markdown"
+    },
+    {
+      "id": "1F3yd58xQyqqisf-j3CzIRnzlQ9o10tA7",
+      "name": "Geode Inn \u2014 The Assembly (Jigsaw Puzzles)",
+      "mime": "text/markdown"
+    },
+    {
+      "id": "1ViLnCh2wtk9flyIDMS-ylWtw2nP6ma2m",
+      "name": "Geode Inn \u2014 The Hook (Placement & Removal Game).md",
+      "mime": "text/markdown"
+    },
+    {
+      "id": "1S6PwVvUrFYbWiuq0sKk7lg9TUuQ_Uhco",
+      "name": "Geode Inn \u2014 The Mohs Vibration (Game Design).md",
+      "mime": "text/markdown"
+    },
+    {
+      "id": "1Vgq-A6AWD-CI4Wjs_gZf01lGcIArOvnq",
+      "name": "geode_inn_card_batch_2.md",
+      "mime": "text/markdown"
+    },
+    {
+      "id": "1NE0PF8UhjxWV3d9Tkim3k_ZETDd3z379",
+      "name": "geode_inn_card_batch_3.md",
+      "mime": "text/markdown"
+    },
+    {
+      "id": "1hg877wjS8e9ocefKugdhEXLtMTzdRSqy",
+      "name": "geode_inn_card_batch_4.md",
+      "mime": "text/markdown"
+    },
+    {
+      "id": "1FyugwMGAZaHQ4rTJGgU0hayFWbZlvmh6",
+      "name": "geode_inn_card_batch_4_supplement.md",
+      "mime": "text/markdown"
+    },
+    {
+      "id": "1n_Y9WFuhJCrO-Q3l1NwMfTOlQkLnbb92",
+      "name": "geode_inn_card_game_framework.md",
+      "mime": "text/markdown"
+    },
+    {
+      "id": "11VlZsBdKafKOGa-H7q-FgFyOzBfdA9KE",
+      "name": "geode_inn_card_name_updates.md",
+      "mime": "text/markdown"
+    },
+    {
+      "id": "1H05P050a7XV8WqbcL3ewj49B_IN_3Arn",
+      "name": "geode_inn_charm_bracelet.md",
+      "mime": "text/markdown"
+    },
+    {
+      "id": "1SBRLn8hkjEeyyLBf9TImjg1z_Mnltq2o",
+      "name": "geode_inn_faberge_egg.md",
+      "mime": "text/markdown"
+    },
+    {
+      "id": "1BFPFqozLFLAVFePW7Aka4xEN_DFe7LVJ",
+      "name": "geode_inn_jigsaw.md",
+      "mime": "text/markdown"
+    }
+  ],
+  "art": [
+    {
+      "id": "14g4UfCrL3ImKVRmbLhxvPteRKLJ15A-V",
+      "name": "adam_catacombs_watcher.png",
+      "mime": "image/jpeg"
+    },
+    {
+      "id": "1CZEabZoBLuCnEE_46ulxtn-72rzmhmcz",
+      "name": "adam_concept.png",
+      "mime": "image/jpeg"
+    },
+    {
+      "id": "1JiN-FbhbMxa4stqTknQ4aSi53KKjqLbd",
+      "name": "adam_cosmology_reverent.png",
+      "mime": "image/jpeg"
+    },
+    {
+      "id": "1sm0HPvLqUBGGJyrUWsdOlTg_eaBuzN99",
+      "name": "adam_staircase_transformer.png",
+      "mime": "image/jpeg"
+    },
+    {
+      "id": "1jqL5NaLcskWhlsSE4OIqgcjabjhhBDLl",
+      "name": "adam_undercity_sibling.png",
+      "mime": "image/jpeg"
+    },
+    {
+      "id": "1i6CGeShd0hT0yPd0oKA6uqHjHaQMKKWY",
+      "name": "adam_water_free.png",
+      "mime": "image/jpeg"
+    },
+    {
+      "id": "1MJjWv3q9hWWlDC7eme0TViHK3dya2WJF",
+      "name": "andra land.jpg",
+      "mime": "image/jpeg"
+    },
+    {
+      "id": "1GlOGwZX3j7dIM19whEzKbWnNfhxaiPIG",
+      "name": "andra water.jpg",
+      "mime": "image/jpeg"
+    },
+    {
+      "id": "17F4gtPQ5La2iOoPQ8cIsMFEcwbE9_ems",
+      "name": "anna_concept.png",
+      "mime": "image/jpeg"
+    },
+    {
+      "id": "1Z54NgGo2v3jWaUifYeum5bw6lY0zExD7",
+      "name": "bastet_v2.png",
+      "mime": "image/jpeg"
+    },
+    {
+      "id": "1VDpu9ciqPMtvVYFS1kbJRcQh9gdjQDVV",
+      "name": "belladonna_v2.png",
+      "mime": "image/jpeg"
+    },
+    {
+      "id": "1eSEidoRvyJrJGbV9zjY8yjckctS6n7eE",
+      "name": "Bohemian Rhapsody \u2014 Necklace Design.png",
+      "mime": "image/jpeg"
+    },
+    {
+      "id": "1zM0H8X7EKTHkxGqZdpBPk-O-0oDQ4DrU",
+      "name": "charon_v2.png",
+      "mime": "image/jpeg"
+    },
+    {
+      "id": "1SY4z_1djzUiy5da5RGWCnXdLllixtIbm",
+      "name": "erik_v2.png",
+      "mime": "image/jpeg"
+    },
+    {
+      "id": "1S9rkTmHJFpUyjq_lfBWcn9eFOA3GPLHO",
+      "name": "Geode Inn \u2014 Bone Room (Concept Art).png",
+      "mime": "image/jpeg"
+    },
+    {
+      "id": "1TkHZWVzutkp1vMn7TOeT2kwOU9wVqwGS",
+      "name": "Geode Inn \u2014 River the Sentinel (Concept Art).png",
+      "mime": "image/jpeg"
+    },
+    {
+      "id": "1LN0UeRe2QCN2rgvjedTkSmrRyn857hrb",
+      "name": "Geode Inn \u2014 River the Sentinel (Concept Art).png",
+      "mime": "image/jpeg"
+    },
+    {
+      "id": "1la1yKQ8fnPI528qylmEQ9En773RpCM8j",
+      "name": "Geode Inn \u2014 Viking Ship Mead Hall (Concept Art).png",
+      "mime": "image/jpeg"
+    }
+  ],
+  "sessions": [],
+  "production": [],
+  "emblems": [
+    {
+      "id": "1G_yQPwKbkJczztBz7M_NowB_eUmlFk53",
+      "name": "Geode Inn \u2014 Emblem (Albedo).png",
+      "mime": "image/jpeg"
+    },
+    {
+      "id": "1kJ4svqvxVmPAs9k_AZ2fHh31Rf9A1RKi",
+      "name": "Geode Inn \u2014 Emblem (Nigredo).png",
+      "mime": "image/jpeg"
+    },
+    {
+      "id": "134fqYr8sgqKm1Bqp_8Q-7SLXnr0BUU45",
+      "name": "Geode Inn \u2014 Emblem (Philosopher_Stone).png",
+      "mime": "image/jpeg"
+    },
+    {
+      "id": "1VTaTvamhgOkVpInlD6-ZQRCTbe_MpwJ7",
+      "name": "Geode Inn \u2014 Emblem (Rubedo).png",
+      "mime": "image/jpeg"
+    },
+    {
+      "id": "1BeLvnJQNHGJ8zqUT9KF_plMBw_ZknDeP",
+      "name": "Geode Inn \u2014 Emblem Albedo (Stage 2).png",
+      "mime": "image/jpeg"
+    },
+    {
+      "id": "1GTPR5P0CkCd25a86PtFJhRRke6oQ0eBW",
+      "name": "Geode Inn \u2014 Emblem Citrinitas (Stage 3).png",
+      "mime": "image/jpeg"
+    },
+    {
+      "id": "133mnYcuPxrSrGmlhtev6g7kMUuqy7_AF",
+      "name": "Geode Inn \u2014 Emblem Nigredo (Stage 1).png",
+      "mime": "image/jpeg"
+    },
+    {
+      "id": "12qoJM3zFnTrpDG0q-jg0bShqeCG0l_H7",
+      "name": "Geode Inn \u2014 Emblem Philosopher's Stone (Stage 5).png",
+      "mime": "image/jpeg"
+    },
+    {
+      "id": "1Tpeft1uv11cmBX61PcNwQsOyL-d_XOTF",
+      "name": "Geode Inn \u2014 Emblem Rubedo (Stage 4).png",
+      "mime": "image/jpeg"
+    },
+    {
+      "id": "109CzcRnbB7oVeQzmVtW8Bn0k7RFqFJHq",
+      "name": "Geode Inn \u2014 Logo Concept (V1).png",
+      "mime": "image/jpeg"
+    },
+    {
+      "id": "1-8hf5vJfRSghHDXw5QcYq-HUg6VRrvci",
+      "name": "Geode Inn \u2014 Logo Concept (V2).png",
+      "mime": "image/jpeg"
+    },
+    {
+      "id": "1t9l1IU46KksLbqpNiUioh14JBaV_-MnO",
+      "name": "Geode Inn \u2014 Logo Concept (V4).png",
+      "mime": "image/jpeg"
+    },
+    {
+      "id": "1T15RTCC6wHQEZvBN-tq69CuZMbCC1ChX",
+      "name": "Geode Inn \u2014 Logo Concept V1 (Full Geode).png",
+      "mime": "image/jpeg"
+    },
+    {
+      "id": "1KCa4VgxMnlTqYat5CMjmwTqkvkal7Vvk",
+      "name": "Geode Inn \u2014 Logo Concept V2 (Clean Gear-Tree).png",
+      "mime": "image/jpeg"
+    },
+    {
+      "id": "1YuzGBhzCus4HeHu5qDG0GTqLnKCskIL8",
+      "name": "Geode Inn \u2014 Logo Concept V3 (Escher).png",
+      "mime": "image/jpeg"
+    },
+    {
+      "id": "1mrPuZQQAUlIZ2OO9KMpE_9MIbHb8TsxN",
+      "name": "Geode Inn \u2014 Official Logo (Hybrid).png",
+      "mime": "image/jpeg"
+    }
+  ],
+  "misc": [
+    {
+      "id": "12M-0ZZxgIJGZw7-5JJLx9wcuhd2qnbRT",
+      "name": "Before the Song.docx",
+      "mime": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+    },
+    {
+      "id": "1kNxcRdTdMhswVK0SAlorkvJCwpbtYbBu2KXrDrmDT80",
+      "name": "Copy of Geode Inn \u2014 Complete Game Walk-Through (August 2026)",
+      "mime": "application/vnd.google-apps.document"
+    },
+    {
+      "id": "1tbXGnSI7NoLA3eJiLbV4eyKc3htU1Wvo",
+      "name": "crystal_svg_v2_v3_comparison.html",
+      "mime": "text/html"
+    },
+    {
+      "id": "1pAmX3mvTnS-AOip5dk0lx9b4jkl7WKE_",
+      "name": "crystal_svg_v3_catalog.html",
+      "mime": "text/html"
+    },
+    {
+      "id": "1KROmI_KY-NP-Nvzi1SPMVF9SC2Ox_zZc",
+      "name": "Document (1).docx",
+      "mime": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+    },
+    {
+      "id": "1JQWnVZDDtS9xDQ345UPyQhvnrzq1scl_",
+      "name": "Document (2).docx",
+      "mime": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+    },
+    {
+      "id": "1VYFZ4YE4oHX0QO616BXrWl-pB5wasElU",
+      "name": "full documentary of building geode inn.docx",
+      "mime": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+    },
+    {
+      "id": "1MW-6ukP4Cu2xwzJPYNcSbwk2MKaE7QjOhWpKz5pEYTE",
+      "name": "geode inn art portfolio aug28 (Batch 1 - Shadow Instances + Goldmine Systems)",
+      "mime": "application/vnd.google-apps.document"
+    },
+    {
+      "id": "1s4ybtyo0AvtUjj9NGWqI9Z0KUIP1mqSX-5UHrJFi2Os",
+      "name": "geode inn art portfolio aug28 batch2",
+      "mime": "application/vnd.google-apps.document"
+    },
+    {
+      "id": "1V9WlbwQ5gSshzIbtPQiyWX9Nlca5cJ2o7z5XtOgDzGA",
+      "name": "geode inn art portfolio aug28 batch3",
+      "mime": "application/vnd.google-apps.document"
+    },
+    {
+      "id": "1zYmjywUvktNszTZ5FYAz4Wto_n657yX26WBha-Y5J7Q",
+      "name": "geode inn art portfolio aug28 batch4",
+      "mime": "application/vnd.google-apps.document"
+    },
+    {
+      "id": "1vX2Sx4mcBhL4GTeywvlg0rhPd8sGTYICfJ7YYKJPBEE",
+      "name": "Geode Inn \u2014 Bosch Shadows",
+      "mime": "application/vnd.google-apps.document"
+    },
+    {
+      "id": "1y6iueSU3J1finoXHcE-N2gSD1TENspywlUwCWJiLepU",
+      "name": "Geode Inn \u2014 Complete Game Walk-Through (August 2026)",
+      "mime": "application/vnd.google-apps.document"
+    },
+    {
+      "id": "1xNJvOkjoiRxvbx8hyw8N33N6ZKD3zCa3LmKH-XawdY8",
+      "name": "Geode Inn \u2014 Concept Art & Video Prompts (August 2026)",
+      "mime": "application/vnd.google-apps.document"
+    },
+    {
+      "id": "1c4UkMqwDgiVtv9UHANqTUUZ2e9xtCCVw",
+      "name": "Geode Inn \u2014 Default Actions Template (6+1 Interaction Wheel).md",
+      "mime": "text/markdown"
+    },
+    {
+      "id": "1EnlInjvn8VmQWNbpQAj3FCGuvVlto6cP",
+      "name": "Geode Inn \u2014 Default Actions Template (Universal Interaction Layer).md",
+      "mime": "text/markdown"
+    },
+    {
+      "id": "1txSKIBCdaJc4YMxULvJDALPOneiLShMP",
+      "name": "Geode Inn \u2014 Drive Folder Structure.md",
+      "mime": "text/markdown"
+    },
+    {
+      "id": "1PRwC7azy62w1d_PCz9uKgYPX8DFWVQL4",
+      "name": "Geode Inn \u2014 Full-Length Game Layer (Zelda ALttP Template).md",
+      "mime": "text/markdown"
+    },
+    {
+      "id": "1chPBR_QgSsDOO21UibpL7KFCmNBfV7pyGINg9QsElpw",
+      "name": "Geode Inn \u2014 Missing Stone Descriptions (Working Doc)",
+      "mime": "application/vnd.google-apps.document"
+    },
+    {
+      "id": "1tR21230awBHEOTujF8w_GPTR937ugddz",
+      "name": "Geode Inn \u2014 Name Audit (Copyright Check).md",
+      "mime": "text/markdown"
+    },
+    {
+      "id": "1GMbPSW3vusAdGOjDrnzajEob1cpaFOKAKnifv4RIGJ0",
+      "name": "Geode Inn \u2014 Periodic Table Charm Collection",
+      "mime": "application/vnd.google-apps.document"
+    },
+    {
+      "id": "1gK0IrJ3vS0PY1c-aqwJNdCgDsrVLN9I9Aw-uPJl0cw0",
+      "name": "Geode Inn \u2014 Portrait System (Mapplethorpe)",
+      "mime": "application/vnd.google-apps.document"
+    },
+    {
+      "id": "132yhhCE-G6WbfibcZxRA7pspszKmZEEl",
+      "name": "Geode Inn \u2014 Resource Gathering & Building System (7 Materials, 5 Tiers, Towns).md",
+      "mime": "text/markdown"
+    },
+    {
+      "id": "1LEbayvK2Gsk7_0Nn2s0f26r6GP0jvS41",
+      "name": "Geode Inn \u2014 Seven-Layer Water System.md",
+      "mime": "text/markdown"
+    },
+    {
+      "id": "1UybOZm3-f2ldyvProXQifUdBTENXGeql",
+      "name": "Geode Inn \u2014 Stone SVG Manifest.json",
+      "mime": "application/json"
+    },
+    {
+      "id": "1VJQdJNSY4DFmMPtYGWEfZJElz_pskdhe",
+      "name": "Geode Inn \u2014 Tabletop Questline Analysis (Festival in the Middle of a Raid).md",
+      "mime": "text/markdown"
+    },
+    {
+      "id": "10GoQdTj19Oan8rxoCg9gMZ1WT9kfQUuk",
+      "name": "Geode Inn \u2014 The Bone Room (O'Keeffe Bone Art).md",
+      "mime": "text/markdown"
+    },
+    {
+      "id": "1aKOOq0uQ_h5xE285rL1GbIhycJ1P6o9H",
+      "name": "Geode Inn \u2014 The Egg (Ancient Faberge Puzzle Egg).md",
+      "mime": "text/markdown"
+    },
+    {
+      "id": "1FvWw5VQ3U6WlTGfs-14M9Zi-81Xqb7J1",
+      "name": "Geode Inn \u2014 The Hidden Bloom",
+      "mime": "text/markdown"
+    },
+    {
+      "id": "1woDzsOjfptLgpZqxR6gCEsHSpEWPmtuA",
+      "name": "Geode Inn \u2014 The In-Between (Limbo-Style Platformer).md",
+      "mime": "text/markdown"
+    },
+    {
+      "id": "1lbgd3Cp2c-wMeD-uRmpMCOp-prgB7xqw",
+      "name": "Geode Inn \u2014 The Laughing One (Story-Born, Dissolving).md",
+      "mime": "text/markdown"
+    },
+    {
+      "id": "1P8p_21dmelSzBzLHdsOACPb-CVNUWnsr",
+      "name": "Geode Inn \u2014 Trovants (Living Stones of Romania).md",
+      "mime": "text/markdown"
+    },
+    {
+      "id": "1A0KN3jojd-GMekmxXZ7J28tBnFa8xrMW",
+      "name": "geode_inn_bosch_shadows.md",
+      "mime": "text/markdown"
+    },
+    {
+      "id": "19v644zPbi17ViTbCD4Yf4fYs67keaZJW",
+      "name": "geode_inn_hidden_bloom.md",
+      "mime": "text/markdown"
+    },
+    {
+      "id": "1UyR_9zIuFWj94GhinK8Sudv9Y_I6rqSx",
+      "name": "geode_inn_master_structure.md",
+      "mime": "text/markdown"
+    },
+    {
+      "id": "1OfSrl92Y9BwqT8LBtDhYtKTctgIvOMAR",
+      "name": "geode_inn_portrait_system_mapplethorpe.md",
+      "mime": "text/markdown"
+    }
+  ],
+  "folders": [
+    {
+      "id": "11HkgtsquOReVMlGr0fBIIqJ89fmcLdex",
+      "name": "Apps"
+    },
+    {
+      "id": "1y9m6cJkYsDRfiKFLq3GV0Zpg4DaRRW-4",
+      "name": "Concept Art \u2014 Aug 28 Session (76 images)"
+    },
+    {
+      "id": "1J_zeEwQGTBDBU_Yqvy1UWKBq2fp3BT_c",
+      "name": "Game emulator files"
+    },
+    {
+      "id": "11dWWagF1pJUE1UhikmSh2RyQQfxE5R17",
+      "name": "game videos"
+    }
+  ]
+}

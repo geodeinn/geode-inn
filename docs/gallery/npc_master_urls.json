@@ -1,0 +1,1311 @@
+{
+  "title": "NPC Portrait Wiring \u2014 Complete URL Set for Character Pages",
+  "description": "Wire NPC portraits into character/zone pages on geodeinn.com. Each character has up to 3 frequency states: Living (default), Shadow (84Hz), and In-Between (transitional). All URLs are live CDN images.",
+  "instructions": [
+    "On each zone page, display NPCs assigned to that zone with their Living portrait as default",
+    "Add a frequency toggle (Living / Shadow / In-Between) on character detail views \u2014 three thumbnails swap when toggled",
+    "If a character only has Living, show that without a toggle",
+    "Portraits should be displayed in the antiqued gold/brass bordered frame style matching the site aesthetic",
+    "Character names only \u2014 no pronouns (standing design rule)",
+    "On the /world-map page, use Living portraits as map pin popups for NPCs located in each zone"
+  ],
+  "total_characters": 144,
+  "characters": [
+    {
+      "num": 1,
+      "name": "The Allfather (Odin)",
+      "zone": "Cosmology (L1)",
+      "tier": "TIER 1: FULL PRESENCE CHARACTERS (Deity-level / Ancient Forces)",
+      "living_url": "https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/19e4f1e43_odin_allfather.png",
+      "shadow_url": "https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/3e4147da4_generated_image.png",
+      "inbetween_url": "https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/33a94d400_generated_image.png"
+    },
+    {
+      "num": 2,
+      "name": "The Wanderer (Odin)",
+      "zone": "Main Floor (L3) / Cosmology",
+      "tier": "TIER 1: FULL PRESENCE CHARACTERS (Deity-level / Ancient Forces)",
+      "living_url": null,
+      "shadow_url": "https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/8335b670c_generated_image.png",
+      "inbetween_url": "https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/b6efdf959_generated_image.png"
+    },
+    {
+      "num": 3,
+      "name": "Huginn & Muninn",
+      "zone": "Cosmology (L1)",
+      "tier": "TIER 1: FULL PRESENCE CHARACTERS (Deity-level / Ancient Forces)",
+      "living_url": null,
+      "shadow_url": null,
+      "inbetween_url": "https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/2503d9a53_generated_image.png"
+    },
+    {
+      "num": 4,
+      "name": "The Morrigan",
+      "zone": "Catacombs (L6) / Fae Kingdom",
+      "tier": "TIER 1: FULL PRESENCE CHARACTERS (Deity-level / Ancient Forces)",
+      "living_url": "https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/5a6c30516_the_morrigan.png",
+      "shadow_url": "https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/875406225_generated_image.png",
+      "inbetween_url": "https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/23fa92b6b_generated_image.png"
+    },
+    {
+      "num": 5,
+      "name": "The Owl",
+      "zone": "Cosmology (L1) / Narrative",
+      "tier": "TIER 1: FULL PRESENCE CHARACTERS (Deity-level / Ancient Forces)",
+      "living_url": null,
+      "shadow_url": "https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/04339f828_generated_image.png",
+      "inbetween_url": "https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/a39923ad1_generated_image.png"
+    },
+    {
+      "num": 6,
+      "name": "The Seelie Fae (Summer Court)",
+      "zone": "Fae Kingdom (L7) \u2014 Seelie Court (z30)",
+      "tier": "TIER 1: FULL PRESENCE CHARACTERS (Deity-level / Ancient Forces)",
+      "living_url": null,
+      "shadow_url": "https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/1b5b6e404_generated_image.png",
+      "inbetween_url": "https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/d3d379671_generated_image.png"
+    },
+    {
+      "num": 7,
+      "name": "The Unseelie Fae (Winter Court)",
+      "zone": "Fae Kingdom (L7) \u2014 Unseelie Court (z08)",
+      "tier": "TIER 1: FULL PRESENCE CHARACTERS (Deity-level / Ancient Forces)",
+      "living_url": null,
+      "shadow_url": "https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/1b5b6e404_generated_image.png",
+      "inbetween_url": "https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/d9ec927da_generated_image.png"
+    },
+    {
+      "num": 8,
+      "name": "Seelie King",
+      "zone": "Seelie Court (z30)",
+      "tier": "TIER 1: FULL PRESENCE CHARACTERS (Deity-level / Ancient Forces)",
+      "living_url": "https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/861bc82c7_seelie_king.png",
+      "shadow_url": "https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/7739cc290_generated_image.png",
+      "inbetween_url": "https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/e71ca4603_generated_image.png"
+    },
+    {
+      "num": 9,
+      "name": "Seelie Queen",
+      "zone": "Seelie Court (z30)",
+      "tier": "TIER 1: FULL PRESENCE CHARACTERS (Deity-level / Ancient Forces)",
+      "living_url": "https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/e1e84ee2e_seelie_queen.png",
+      "shadow_url": "https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/a9692a40b_generated_image.png",
+      "inbetween_url": "https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/c7e6659ba_generated_image.png"
+    },
+    {
+      "num": 10,
+      "name": "Unseelie King (Malachi)",
+      "zone": "Unseelie Court (z08)",
+      "tier": "TIER 1: FULL PRESENCE CHARACTERS (Deity-level / Ancient Forces)",
+      "living_url": "https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/4a1f3b2ae_jareth_unseelie_king.png",
+      "shadow_url": "https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/7739cc290_generated_image.png",
+      "inbetween_url": "https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/3ea266c05_generated_image.png"
+    },
+    {
+      "num": 11,
+      "name": "The Queen of Roots",
+      "zone": "Fae Kingdom (L7)",
+      "tier": "TIER 1: FULL PRESENCE CHARACTERS (Deity-level / Ancient Forces)",
+      "living_url": "https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/ad391cee1_queen_of_roots.png",
+      "shadow_url": "https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/ffac73484_generated_image.png",
+      "inbetween_url": "https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/625f54adc_generated_image.png"
+    },
+    {
+      "num": 12,
+      "name": "Medusa",
+      "zone": "Gorgon's Garden",
+      "tier": "TIER 1: FULL PRESENCE CHARACTERS (Deity-level / Ancient Forces)",
+      "living_url": "https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/e5986f97f_medusa_v2.png",
+      "shadow_url": "https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/0dfd04449_generated_image.png",
+      "inbetween_url": "https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/20dc6a974_generated_image.png"
+    },
+    {
+      "num": 13,
+      "name": "Persephone",
+      "zone": "Catacombs (L6)",
+      "tier": "TIER 1: FULL PRESENCE CHARACTERS (Deity-level / Ancient Forces)",
+      "living_url": "https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/2bbb62694_persephone.png",
+      "shadow_url": "https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/c20160d13_generated_image.png",
+      "inbetween_url": "https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/0ec3089ed_generated_image.png"
+    },
+    {
+      "num": 14,
+      "name": "Hades",
+      "zone": "Catacombs (L6)",
+      "tier": "TIER 1: FULL PRESENCE CHARACTERS (Deity-level / Ancient Forces)",
+      "living_url": "https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/697613fda_hades.png",
+      "shadow_url": "https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/229c1b1fe_generated_image.png",
+      "inbetween_url": "https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/3cc631a69_generated_image.png"
+    },
+    {
+      "num": 15,
+      "name": "Hel",
+      "zone": "Catacombs (L6) / Norse Realms (z26)",
+      "tier": "TIER 1: FULL PRESENCE CHARACTERS (Deity-level / Ancient Forces)",
+      "living_url": "https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/628cba374_hel.png",
+      "shadow_url": "https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/548443df4_generated_image.png",
+      "inbetween_url": "https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/8b279a30e_generated_image.png"
+    },
+    {
+      "num": 16,
+      "name": "Charon",
+      "zone": "Catacombs (L6)",
+      "tier": "TIER 1: FULL PRESENCE CHARACTERS (Deity-level / Ancient Forces)",
+      "living_url": "https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/fdc4c5070_charon.png",
+      "shadow_url": "https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/d21857e58_generated_image.png",
+      "inbetween_url": "https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/a6fec9dd0_generated_image.png"
+    },
+    {
+      "num": 17,
+      "name": "The Guest (Death)",
+      "zone": "Cosmology (L1) / Catacombs",
+      "tier": "TIER 1: FULL PRESENCE CHARACTERS (Deity-level / Ancient Forces)",
+      "living_url": "https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/1698ca344_the_guest_death.png",
+      "shadow_url": null,
+      "inbetween_url": "https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/e2f85a884_generated_image.png"
+    },
+    {
+      "num": 18,
+      "name": "The Crone",
+      "zone": "Main Floor (L3)",
+      "tier": "TIER 1: FULL PRESENCE CHARACTERS (Deity-level / Ancient Forces)",
+      "living_url": "https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/c8c56b74e_the_crone.png",
+      "shadow_url": "https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/72ed2ed1c_generated_image.png",
+      "inbetween_url": "https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/13cfa6636_generated_image.png"
+    },
+    {
+      "num": 19,
+      "name": "Nyx (Primordial Night)",
+      "zone": "Cosmology (L1)",
+      "tier": "TIER 1: FULL PRESENCE CHARACTERS (Deity-level / Ancient Forces)",
+      "living_url": "https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/e5b653a84_nyx.png",
+      "shadow_url": "https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/d602784ab_generated_image.png",
+      "inbetween_url": "https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/82d0cc644_generated_image.png"
+    },
+    {
+      "num": 20,
+      "name": "Bastet",
+      "zone": "Desert Bone Egypt (z12)",
+      "tier": "TIER 1: FULL PRESENCE CHARACTERS (Deity-level / Ancient Forces)",
+      "living_url": "https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/33f8413f5_bastet_v2.png",
+      "shadow_url": "https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/3fd55d885_generated_image.png",
+      "inbetween_url": "https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/0e734c5ca_generated_image.png"
+    },
+    {
+      "num": 21,
+      "name": "Kali",
+      "zone": "India (z06)",
+      "tier": "TIER 1: FULL PRESENCE CHARACTERS (Deity-level / Ancient Forces)",
+      "living_url": "https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/63877b733_kali.png",
+      "shadow_url": null,
+      "inbetween_url": "https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/aa10e202e_generated_image.png"
+    },
+    {
+      "num": 22,
+      "name": "Zorya",
+      "zone": "Slavic (z05)",
+      "tier": "TIER 1: FULL PRESENCE CHARACTERS (Deity-level / Ancient Forces)",
+      "living_url": "https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/1420bd14a_zorya_v2.png",
+      "shadow_url": null,
+      "inbetween_url": "https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/23ba37754_generated_image.png"
+    },
+    {
+      "num": 23,
+      "name": "Freyja",
+      "zone": "Norse Realms (z26)",
+      "tier": "TIER 1: FULL PRESENCE CHARACTERS (Deity-level / Ancient Forces)",
+      "living_url": "https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/bb3dbe9d4_freyja_vanir.png",
+      "shadow_url": null,
+      "inbetween_url": "https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/ed5c72cfd_generated_image.png"
+    },
+    {
+      "num": 24,
+      "name": "Freyr",
+      "zone": "Norse Realms (z26)",
+      "tier": "TIER 1: FULL PRESENCE CHARACTERS (Deity-level / Ancient Forces)",
+      "living_url": "https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/df2aa102a_freyr_vanir.png",
+      "shadow_url": null,
+      "inbetween_url": "https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/45f592fad_generated_image.png"
+    },
+    {
+      "num": 25,
+      "name": "Loki",
+      "zone": "Norse Realms (z26)",
+      "tier": "TIER 1: FULL PRESENCE CHARACTERS (Deity-level / Ancient Forces)",
+      "living_url": "https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/2fea95d97_loki.png",
+      "shadow_url": null,
+      "inbetween_url": "https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/7b835f940_generated_image.png"
+    },
+    {
+      "num": 26,
+      "name": "King Arthur",
+      "zone": "Camelot (z20)",
+      "tier": "TIER 1: FULL PRESENCE CHARACTERS (Deity-level / Ancient Forces)",
+      "living_url": "https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/333d56400_king_arthur_elder.png",
+      "shadow_url": null,
+      "inbetween_url": "https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/6a2b96e5f_generated_image.png"
+    },
+    {
+      "num": 27,
+      "name": "Anubis (Full Presence, in-game)",
+      "zone": "Desert Bone Egypt (z12)",
+      "tier": "TIER 1: FULL PRESENCE CHARACTERS (Deity-level / Ancient Forces)",
+      "living_url": "https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/b838d9d6a_anubis_full_presence.png",
+      "shadow_url": null,
+      "inbetween_url": null
+    },
+    {
+      "num": 28,
+      "name": "The Bog Fairy Golem (Krista)",
+      "zone": "Bayou (z25) / Main Floor",
+      "tier": "TIER 1: FULL PRESENCE CHARACTERS (Deity-level / Ancient Forces)",
+      "living_url": "https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/98c222357_bog_fairy_golem_ingame.png",
+      "shadow_url": "https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/1e74e5b60_generated_image.png",
+      "inbetween_url": "https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/61805226d_generated_image.png"
+    },
+    {
+      "num": 29,
+      "name": "Charles (Chameleon Druid)",
+      "zone": "Garden (z28) / Forest zones",
+      "tier": "TIER 1: FULL PRESENCE CHARACTERS (Deity-level / Ancient Forces)",
+      "living_url": "https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/82fee4de7_charles_chameleon_druid.png",
+      "shadow_url": null,
+      "inbetween_url": "https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/9d1e94634_generated_image.png"
+    },
+    {
+      "num": 30,
+      "name": "The Queen of Webs",
+      "zone": "Catacombs (L6) / Undercity",
+      "tier": "TIER 1: FULL PRESENCE CHARACTERS (Deity-level / Ancient Forces)",
+      "living_url": "https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/d8d6ea62c_queen_of_webs.png",
+      "shadow_url": null,
+      "inbetween_url": "https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/52f760c4b_generated_image.png"
+    },
+    {
+      "num": 31,
+      "name": "The Storyteller / The Host",
+      "zone": "Main Floor (L3)",
+      "tier": "TIER 2: KEY NPCs (Major characters with portraits)",
+      "living_url": "https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/d4c36c13d_generated_image.png",
+      "shadow_url": "https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/fbe9d53e9_generated_image.png",
+      "inbetween_url": "https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/39a0021d0_generated_image.png"
+    },
+    {
+      "num": 32,
+      "name": "The Catalyst",
+      "zone": "Main Floor (L3)",
+      "tier": "TIER 2: KEY NPCs (Major characters with portraits)",
+      "living_url": "https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/c8a9f005c_the_catalyst.png",
+      "shadow_url": "https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/10f9a9ac0_generated_image.png",
+      "inbetween_url": "https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/4292671e7_generated_image.png"
+    },
+    {
+      "num": 33,
+      "name": "The Constant",
+      "zone": "Cosmology (L1) / Main Floor",
+      "tier": "TIER 2: KEY NPCs (Major characters with portraits)",
+      "living_url": "https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/f42111fa8_the_constant.png",
+      "shadow_url": "https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/1da9425da_generated_image.png",
+      "inbetween_url": "https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/faca27190_generated_image.png"
+    },
+    {
+      "num": 34,
+      "name": "The Bard",
+      "zone": "Main Floor (L3) / Meadery (z29)",
+      "tier": "TIER 2: KEY NPCs (Major characters with portraits)",
+      "living_url": "https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/2f396676a_the_bard.png",
+      "shadow_url": "https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/f78cc9689_generated_image.png",
+      "inbetween_url": "https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/6ee9d3ee3_generated_image.png"
+    },
+    {
+      "num": 35,
+      "name": "Eileen (The One Who Tends)",
+      "zone": "Main Floor (L3)",
+      "tier": "TIER 2: KEY NPCs (Major characters with portraits)",
+      "living_url": "https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/6d43997bc_eileen.png",
+      "shadow_url": "https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/fb706859a_generated_image.png",
+      "inbetween_url": null
+    },
+    {
+      "num": 36,
+      "name": "The Smiths (Five Smiths)",
+      "zone": "Staircase (L5)",
+      "tier": "TIER 2: KEY NPCs (Major characters with portraits)",
+      "living_url": "https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/94699f58c_five_smiths.png",
+      "shadow_url": null,
+      "inbetween_url": "https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/0e432d1fe_generated_image.png"
+    },
+    {
+      "num": 37,
+      "name": "The Artisan Thief (Selkie)",
+      "zone": "Main Floor (L3) / Market",
+      "tier": "TIER 2: KEY NPCs (Major characters with portraits)",
+      "living_url": "https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/a3d815d57_artisan_thief_selkie.png",
+      "shadow_url": "https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/8185e7208_generated_image.png",
+      "inbetween_url": null
+    },
+    {
+      "num": 38,
+      "name": "Joe (The Miniaturist)",
+      "zone": "Main Floor (L3) / Studio",
+      "tier": "TIER 2: KEY NPCs (Major characters with portraits)",
+      "living_url": "https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/0e5486f77_joe.png",
+      "shadow_url": "https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/9effec166_generated_image.png",
+      "inbetween_url": "https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/54d2526e3_generated_image.png"
+    },
+    {
+      "num": 39,
+      "name": "The Fixer (Wrought)",
+      "zone": "Staircase (L5)",
+      "tier": "TIER 2: KEY NPCs (Major characters with portraits)",
+      "living_url": null,
+      "shadow_url": "https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/650a450db_generated_image.png",
+      "inbetween_url": "https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/8d42341b3_generated_image.png"
+    },
+    {
+      "num": 40,
+      "name": "The Ceiling Gnome (Gesso)",
+      "zone": "Staircase (L5) / Ceiling",
+      "tier": "TIER 2: KEY NPCs (Major characters with portraits)",
+      "living_url": "https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/8393a4b00_the_ceiling_gnome.png",
+      "shadow_url": "https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/3f75486d1_generated_image.png",
+      "inbetween_url": "https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/be7a1215a_generated_image.png"
+    },
+    {
+      "num": 41,
+      "name": "Naut (The Scholar)",
+      "zone": "Main Floor (L3) / Archive",
+      "tier": "TIER 2: KEY NPCs (Major characters with portraits)",
+      "living_url": null,
+      "shadow_url": "https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/1f74c337f_generated_image.png",
+      "inbetween_url": "https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/71db8fd88_generated_image.png"
+    },
+    {
+      "num": 42,
+      "name": "Beverley the Librarian",
+      "zone": "Archive",
+      "tier": "TIER 2: KEY NPCs (Major characters with portraits)",
+      "living_url": null,
+      "shadow_url": null,
+      "inbetween_url": "https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/2a7f6dd6f_generated_image.png"
+    },
+    {
+      "num": 43,
+      "name": "The Keeper (Aughra)",
+      "zone": "Clockwork Skies (L2)",
+      "tier": "TIER 2: KEY NPCs (Major characters with portraits)",
+      "living_url": null,
+      "shadow_url": "https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/91e2cb6e6_generated_image.png",
+      "inbetween_url": "https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/e0eec6187_generated_image.png"
+    },
+    {
+      "num": 44,
+      "name": "The Queen of Words",
+      "zone": "Archive / Main Floor",
+      "tier": "TIER 2: KEY NPCs (Major characters with portraits)",
+      "living_url": "https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/ce90323e7_queen_of_words.png",
+      "shadow_url": "https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/0d2e07ac4_generated_image.png",
+      "inbetween_url": "https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/7c3239766_generated_image.png"
+    },
+    {
+      "num": 45,
+      "name": "The Council of Thinkers",
+      "zone": "Staircase (L5) / Archive",
+      "tier": "TIER 2: KEY NPCs (Major characters with portraits)",
+      "living_url": "https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/6c63f7afe_council_of_thinkers.png",
+      "shadow_url": "https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/39e655fe6_generated_image.png",
+      "inbetween_url": null
+    },
+    {
+      "num": 46,
+      "name": "The Astronomer",
+      "zone": "Cosmology (L1)",
+      "tier": "TIER 2: KEY NPCs (Major characters with portraits)",
+      "living_url": "https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/3953aa0b3_the_astronomer.png",
+      "shadow_url": "https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/87fe6e6df_generated_image.png",
+      "inbetween_url": null
+    },
+    {
+      "num": 47,
+      "name": "Merlin",
+      "zone": "Camelot (z20)",
+      "tier": "TIER 2: KEY NPCs (Major characters with portraits)",
+      "living_url": "https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/64580134e_merlin_archimedes.png",
+      "shadow_url": "https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/9f6cb1b4f_generated_image.png",
+      "inbetween_url": "https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/fb7865efd_generated_image.png"
+    },
+    {
+      "num": 48,
+      "name": "Archimedes",
+      "zone": "Camelot (z20)",
+      "tier": "TIER 2: KEY NPCs (Major characters with portraits)",
+      "living_url": "https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/64580134e_merlin_archimedes.png",
+      "shadow_url": null,
+      "inbetween_url": null
+    },
+    {
+      "num": 49,
+      "name": "The Shifting Man",
+      "zone": "Catacombs (L6) / Undercity",
+      "tier": "TIER 2: KEY NPCs (Major characters with portraits)",
+      "living_url": "https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/44eb8253d_the_shifting_man.png",
+      "shadow_url": "https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/95f1d75ca_generated_image.png",
+      "inbetween_url": "https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/6fc9051dc_generated_image.png"
+    },
+    {
+      "num": 50,
+      "name": "Thorin",
+      "zone": "Meadery (z29) / Norse Realms",
+      "tier": "TIER 2: KEY NPCs (Major characters with portraits)",
+      "living_url": "https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/64f540d6a_thorin_v3.png",
+      "shadow_url": "https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/d4c806ee3_generated_image.png",
+      "inbetween_url": "https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/158712ba5_generated_image.png"
+    },
+    {
+      "num": 51,
+      "name": "Marijke",
+      "zone": "Meadery (z29)",
+      "tier": "TIER 2: KEY NPCs (Major characters with portraits)",
+      "living_url": "https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/8fef47d41_marijke.png",
+      "shadow_url": null,
+      "inbetween_url": "https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/c8fa8d0d7_generated_image.png"
+    },
+    {
+      "num": 52,
+      "name": "The Pirate",
+      "zone": "Water Zone (L8) / Campgrounds",
+      "tier": "TIER 2: KEY NPCs (Major characters with portraits)",
+      "living_url": "https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/1ca6bcf5d_the_pirate.png",
+      "shadow_url": "https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/9aaee1e0f_generated_image.png",
+      "inbetween_url": "https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/e49cee598_generated_image.png"
+    },
+    {
+      "num": 53,
+      "name": "The Gardener (Radagast)",
+      "zone": "Garden (z28)",
+      "tier": "TIER 2: KEY NPCs (Major characters with portraits)",
+      "living_url": "https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/bc4540a8b_the_gardener_radagast.png",
+      "shadow_url": "https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/90decd727_generated_image.png",
+      "inbetween_url": "https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/865d845f0_generated_image.png"
+    },
+    {
+      "num": 54,
+      "name": "Brim (Madame Mim)",
+      "zone": "Main Floor (L3)",
+      "tier": "TIER 2: KEY NPCs (Major characters with portraits)",
+      "living_url": null,
+      "shadow_url": "https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/683d9db64_generated_image.png",
+      "inbetween_url": "https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/d60c16144_generated_image.png"
+    },
+    {
+      "num": 55,
+      "name": "The Cook",
+      "zone": "Main Floor (L3)",
+      "tier": "TIER 2: KEY NPCs (Major characters with portraits)",
+      "living_url": "https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/15e28cc2c_the_cook.png",
+      "shadow_url": "https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/8bd36a9f0_generated_image.png",
+      "inbetween_url": "https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/1cc5b6883_generated_image.png"
+    },
+    {
+      "num": 56,
+      "name": "Erik (Norse Feast Host)",
+      "zone": "Norse Realms (z26) / Meadery",
+      "tier": "TIER 2: KEY NPCs (Major characters with portraits)",
+      "living_url": "https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/7a8eed988_erik_v2.png",
+      "shadow_url": null,
+      "inbetween_url": "https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/5316ec6b0_generated_image.png"
+    },
+    {
+      "num": 57,
+      "name": "Uhtred",
+      "zone": "Camelot (z20) / Norse Realms",
+      "tier": "TIER 2: KEY NPCs (Major characters with portraits)",
+      "living_url": "https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/da62d947d_uhtred.png",
+      "shadow_url": null,
+      "inbetween_url": null
+    },
+    {
+      "num": 58,
+      "name": "Beorn",
+      "zone": "Norse Realms (z26)",
+      "tier": "TIER 2: KEY NPCs (Major characters with portraits)",
+      "living_url": "https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/7a5e8d9fa_beorn.png",
+      "shadow_url": null,
+      "inbetween_url": "https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/334c412cc_generated_image.png"
+    },
+    {
+      "num": 59,
+      "name": "The Retort (Tesla)",
+      "zone": "Staircase (L5)",
+      "tier": "TIER 2: KEY NPCs (Major characters with portraits)",
+      "living_url": "https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/c5eb19ec7_the_retort.png",
+      "shadow_url": null,
+      "inbetween_url": "https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/1f886d4af_generated_image.png"
+    },
+    {
+      "num": 60,
+      "name": "The Captain",
+      "zone": "Clockwork Skies (L2)",
+      "tier": "TIER 2: KEY NPCs (Major characters with portraits)",
+      "living_url": "https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/96db20079_the_captain_arcana.png",
+      "shadow_url": null,
+      "inbetween_url": "https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/fc0fc1739_generated_image.png"
+    },
+    {
+      "num": 61,
+      "name": "The Navigator",
+      "zone": "Clockwork Skies (L2)",
+      "tier": "TIER 2: KEY NPCs (Major characters with portraits)",
+      "living_url": "https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/a615d9535_weeaboo_partner_navigator.png",
+      "shadow_url": null,
+      "inbetween_url": "https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/e96436a5f_generated_image.png"
+    },
+    {
+      "num": 62,
+      "name": "The Cartographer",
+      "zone": "Clockwork Skies (L2)",
+      "tier": "TIER 2: KEY NPCs (Major characters with portraits)",
+      "living_url": "https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/d16357841_the_cartographer.png",
+      "shadow_url": null,
+      "inbetween_url": "https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/ed11c7050_generated_image.png"
+    },
+    {
+      "num": 63,
+      "name": "The Examiner",
+      "zone": "Clockwork Skies (L2)",
+      "tier": "TIER 2: KEY NPCs (Major characters with portraits)",
+      "living_url": "https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/63d7656cc_the_examiner.png",
+      "shadow_url": null,
+      "inbetween_url": "https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/a8233970f_generated_image.png"
+    },
+    {
+      "num": 64,
+      "name": "Aughra",
+      "zone": "Clockwork Skies (L2)",
+      "tier": "TIER 2: KEY NPCs (Major characters with portraits)",
+      "living_url": "https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/75d0287dd_aughra.png",
+      "shadow_url": null,
+      "inbetween_url": "https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/e0eec6187_generated_image.png"
+    },
+    {
+      "num": 65,
+      "name": "The Siren",
+      "zone": "Water Zone (L8)",
+      "tier": "TIER 2: KEY NPCs (Major characters with portraits)",
+      "living_url": "https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/aaf9ee81b_the_siren.png",
+      "shadow_url": "https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/a592f145f_generated_image.png",
+      "inbetween_url": "https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/757d6a61b_generated_image.png"
+    },
+    {
+      "num": 66,
+      "name": "The Thrum (Whisper Layer)",
+      "zone": "Main Floor (L3) / All zones",
+      "tier": "TIER 2: KEY NPCs (Major characters with portraits)",
+      "living_url": "https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/e1c7575b3_the_thrum.png",
+      "shadow_url": null,
+      "inbetween_url": "https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/f2dcd142a_generated_image.png"
+    },
+    {
+      "num": 67,
+      "name": "The Pulse Line",
+      "zone": "Main Floor (L3) / All zones",
+      "tier": "TIER 2: KEY NPCs (Major characters with portraits)",
+      "living_url": "https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/e65b3bb2f_the_pulse_line.png",
+      "shadow_url": null,
+      "inbetween_url": null
+    },
+    {
+      "num": 68,
+      "name": "Lozen (The Sentinel / River)",
+      "zone": "Main Floor (L3) / Guard",
+      "tier": "TIER 2: KEY NPCs (Major characters with portraits)",
+      "living_url": null,
+      "shadow_url": "https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/5c2abd47c_generated_image.png",
+      "inbetween_url": "https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/6041a67a5_generated_image.png"
+    },
+    {
+      "num": 69,
+      "name": "Quire",
+      "zone": "Archive",
+      "tier": "TIER 2: KEY NPCs (Major characters with portraits)",
+      "living_url": null,
+      "shadow_url": "https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/19365b9dc_generated_image.png",
+      "inbetween_url": "https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/b626f0c73_generated_image.png"
+    },
+    {
+      "num": 70,
+      "name": "Lark (Player Guide)",
+      "zone": "Main Floor (L3)",
+      "tier": "TIER 2: KEY NPCs (Major characters with portraits)",
+      "living_url": null,
+      "shadow_url": "https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/f8c1f7e19_generated_image.png",
+      "inbetween_url": "https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/5fcf8a25d_generated_image.png"
+    },
+    {
+      "num": 73,
+      "name": "Adam",
+      "zone": "Main Floor (L3)",
+      "tier": "TIER 2: KEY NPCs (Major characters with portraits)",
+      "living_url": "https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/46ad3382c_madame_holding_dobby.png",
+      "shadow_url": null,
+      "inbetween_url": null
+    },
+    {
+      "num": 76,
+      "name": "Leonardo da Vinci",
+      "zone": "Cosmology (L1) / Staircase",
+      "tier": "TIER 2: KEY NPCs (Major characters with portraits)",
+      "living_url": "https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/9e6cc1695_leonardo_da_vinci.png",
+      "shadow_url": "https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/1f3242576_generated_image.png",
+      "inbetween_url": null
+    },
+    {
+      "num": 77,
+      "name": "Einstein",
+      "zone": "Cosmology (L1)",
+      "tier": "TIER 2: KEY NPCs (Major characters with portraits)",
+      "living_url": "https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/2a778098b_einstein.png",
+      "shadow_url": null,
+      "inbetween_url": null
+    },
+    {
+      "num": 78,
+      "name": "Miracle Max",
+      "zone": "Staircase (L5)",
+      "tier": "TIER 2: KEY NPCs (Major characters with portraits)",
+      "living_url": "https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/9122a750c_miracle_max_ingame.png",
+      "shadow_url": "https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/f77ae197b_generated_image.png",
+      "inbetween_url": "https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/777a22e37_generated_image.png"
+    },
+    {
+      "num": 80,
+      "name": "The Firekeeper (Tim Curry)",
+      "zone": "Main Floor (L3) / Hearth",
+      "tier": "TIER 2: KEY NPCs (Major characters with portraits)",
+      "living_url": null,
+      "shadow_url": "https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/8f71f4d57_generated_image.png",
+      "inbetween_url": "https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/a8e8b6945_generated_image.png"
+    },
+    {
+      "num": 81,
+      "name": "The Cool",
+      "zone": "Clockwork Skies (L2)",
+      "tier": "TIER 3: CLOCKWORK SKIES CREW (Level 2 \u2014 10 crew members)",
+      "living_url": "https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/a6de2dabe_crew_cool_v2.png",
+      "shadow_url": null,
+      "inbetween_url": "https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/d062ed181_generated_image.png"
+    },
+    {
+      "num": 82,
+      "name": "The Philosopher",
+      "zone": "Clockwork Skies (L2)",
+      "tier": "TIER 3: CLOCKWORK SKIES CREW (Level 2 \u2014 10 crew members)",
+      "living_url": "https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/c6da90e17_crew_philosopher_v2.png",
+      "shadow_url": null,
+      "inbetween_url": "https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/072cabcba_generated_image.png"
+    },
+    {
+      "num": 83,
+      "name": "The Protector",
+      "zone": "Clockwork Skies (L2)",
+      "tier": "TIER 3: CLOCKWORK SKIES CREW (Level 2 \u2014 10 crew members)",
+      "living_url": "https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/5704b037a_crew_protector_v2.png",
+      "shadow_url": null,
+      "inbetween_url": "https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/cc4dc81cb_generated_image.png"
+    },
+    {
+      "num": 84,
+      "name": "The Pure-Hearted",
+      "zone": "Clockwork Skies (L2)",
+      "tier": "TIER 3: CLOCKWORK SKIES CREW (Level 2 \u2014 10 crew members)",
+      "living_url": null,
+      "shadow_url": null,
+      "inbetween_url": "https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/e2fa53b43_generated_image.png"
+    },
+    {
+      "num": 85,
+      "name": "The Reluctant",
+      "zone": "Clockwork Skies (L2)",
+      "tier": "TIER 3: CLOCKWORK SKIES CREW (Level 2 \u2014 10 crew members)",
+      "living_url": "https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/2e47c7e40_crew_reluctant_v2.png",
+      "shadow_url": null,
+      "inbetween_url": "https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/b1de8b257_generated_image.png"
+    },
+    {
+      "num": 86,
+      "name": "Ryoko",
+      "zone": "Clockwork Skies (L2)",
+      "tier": "TIER 3: CLOCKWORK SKIES CREW (Level 2 \u2014 10 crew members)",
+      "living_url": "https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/51886eee9_crew_ryoko.png",
+      "shadow_url": null,
+      "inbetween_url": "https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/c8723184d_generated_image.png"
+    },
+    {
+      "num": 87,
+      "name": "Tinkering Weeaboo",
+      "zone": "Clockwork Skies (L2)",
+      "tier": "TIER 3: CLOCKWORK SKIES CREW (Level 2 \u2014 10 crew members)",
+      "living_url": "https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/c2687cdfe_tinkering_weeaboo.png",
+      "shadow_url": null,
+      "inbetween_url": "https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/99d8c76c3_generated_image.png"
+    },
+    {
+      "num": 88,
+      "name": "Eres the Cabbit",
+      "zone": "Cosmology (L1) / Clockwork",
+      "tier": "TIER 3: CLOCKWORK SKIES CREW (Level 2 \u2014 10 crew members)",
+      "living_url": null,
+      "shadow_url": "https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/6acde8825_generated_image.png",
+      "inbetween_url": "https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/9e56789bc_generated_image.png"
+    },
+    {
+      "num": 89,
+      "name": "The Vessel (Gecko)",
+      "zone": "Clockwork Skies (L2)",
+      "tier": "TIER 3: CLOCKWORK SKIES CREW (Level 2 \u2014 10 crew members)",
+      "living_url": "https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/1cc6b70a0_the_vessel_gecko.png",
+      "shadow_url": null,
+      "inbetween_url": "https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/704e7a8f8_generated_image.png"
+    },
+    {
+      "num": 90,
+      "name": "The Duck",
+      "zone": "Clockwork Skies (L2)",
+      "tier": "TIER 3: CLOCKWORK SKIES CREW (Level 2 \u2014 10 crew members)",
+      "living_url": "https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/c284b992b_the_duck.png",
+      "shadow_url": null,
+      "inbetween_url": "https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/c15cb99b1_generated_image.png"
+    },
+    {
+      "num": 108,
+      "name": "The Brownies",
+      "zone": "Main Floor (L3)",
+      "tier": "TIER 5: CHIBI \u2014 ARCADE & CULTURAL ZONE NPCs",
+      "living_url": "https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/9181132e8_the_brownies.png",
+      "shadow_url": null,
+      "inbetween_url": null
+    },
+    {
+      "num": 109,
+      "name": "Fizgig",
+      "zone": "Loading Screens",
+      "tier": "TIER 5: CHIBI \u2014 ARCADE & CULTURAL ZONE NPCs",
+      "living_url": "https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/a9308e10c_fizgig_in_grey.png",
+      "shadow_url": null,
+      "inbetween_url": null
+    },
+    {
+      "num": 110,
+      "name": "Tumble (Dragon Mascot)",
+      "zone": "Arcade (L3) / All zones",
+      "tier": "TIER 5: CHIBI \u2014 ARCADE & CULTURAL ZONE NPCs",
+      "living_url": "https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/ae4951532_tumble_ingame.png",
+      "shadow_url": "https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/829f960de_generated_image.png",
+      "inbetween_url": null
+    },
+    {
+      "num": 120,
+      "name": "Selkie",
+      "zone": "Scotland/Ireland",
+      "tier": "TIER 6: WATER MONSTERS (32 \u2014 playable characters for Monster of the Deep)",
+      "living_url": "https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/a3d815d57_artisan_thief_selkie.png",
+      "shadow_url": null,
+      "inbetween_url": null
+    },
+    {
+      "num": 173,
+      "name": "Aspidochelone (Shadow)",
+      "zone": "\u2705 Generated",
+      "tier": "TIER 7: SHADOW ECHO MONSTERS (84Hz \u2014 Shadow Inn versions of water monsters)",
+      "living_url": null,
+      "shadow_url": "https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/548443df4_generated_image.png",
+      "inbetween_url": "https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/8b279a30e_generated_image.png"
+    },
+    {
+      "num": 188,
+      "name": "Axolotl",
+      "zone": "Tidal Caves (z33)",
+      "tier": "TIER 8: CRITTERS (Ambient creatures \u2014 non-combat, non-quest)",
+      "living_url": null,
+      "shadow_url": null,
+      "inbetween_url": "https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/f39aa66a1_generated_image.png"
+    },
+    {
+      "num": 189,
+      "name": "Gentle Mantis Shrimp",
+      "zone": "Atlantis (z14)",
+      "tier": "TIER 8: CRITTERS (Ambient creatures \u2014 non-combat, non-quest)",
+      "living_url": null,
+      "shadow_url": null,
+      "inbetween_url": "https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/397c9f7b4_generated_image.png"
+    },
+    {
+      "num": 190,
+      "name": "African Rain Frog",
+      "zone": "Bayou (z25)",
+      "tier": "TIER 8: CRITTERS (Ambient creatures \u2014 non-combat, non-quest)",
+      "living_url": null,
+      "shadow_url": null,
+      "inbetween_url": "https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/dcdbf0554_generated_image.png"
+    },
+    {
+      "num": 191,
+      "name": "Tumble (Dragon Mascot)",
+      "zone": "All zones",
+      "tier": "TIER 8: CRITTERS (Ambient creatures \u2014 non-combat, non-quest)",
+      "living_url": "https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/ae4951532_tumble_ingame.png",
+      "shadow_url": "https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/829f960de_generated_image.png",
+      "inbetween_url": null
+    },
+    {
+      "num": 204,
+      "name": "Tumble (Shadow)",
+      "zone": "\u2705 Generated",
+      "tier": "TIER 8b: SHADOW ECHO CRITTERS (84Hz versions)",
+      "living_url": "https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/ae4951532_tumble_ingame.png",
+      "shadow_url": "https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/829f960de_generated_image.png",
+      "inbetween_url": null
+    },
+    {
+      "num": 253,
+      "name": "Ariadne's Thread",
+      "zone": "Catacombs (L6)",
+      "tier": "TIER 10: ITEMS & ARTIFACTS",
+      "living_url": "https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/4f8ecf504_ariadnes_thread.png",
+      "shadow_url": null,
+      "inbetween_url": null
+    },
+    {
+      "num": 254,
+      "name": "Bull Lyre of Ur",
+      "zone": "Mesopotamia (z19)",
+      "tier": "TIER 10: ITEMS & ARTIFACTS",
+      "living_url": "https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/03a947afe_bull_lyre_of_ur.png",
+      "shadow_url": null,
+      "inbetween_url": null
+    },
+    {
+      "num": 255,
+      "name": "Cosmic Egg",
+      "zone": "Cosmology (L1)",
+      "tier": "TIER 10: ITEMS & ARTIFACTS",
+      "living_url": "https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/4a0b7ec8e_cosmic_egg.png",
+      "shadow_url": null,
+      "inbetween_url": null
+    },
+    {
+      "num": 256,
+      "name": "Death's Music Box",
+      "zone": "Catacombs (L6)",
+      "tier": "TIER 10: ITEMS & ARTIFACTS",
+      "living_url": "https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/45109e110_deaths_music_box.png",
+      "shadow_url": null,
+      "inbetween_url": null
+    },
+    {
+      "num": 257,
+      "name": "Geode Cave",
+      "zone": "All zones (reward system)",
+      "tier": "TIER 10: ITEMS & ARTIFACTS",
+      "living_url": "https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/23d9ea2de_geode_cave.png",
+      "shadow_url": null,
+      "inbetween_url": null
+    },
+    {
+      "num": 258,
+      "name": "Magritte's Pipe (Monsieur Sentient)",
+      "zone": "Main Floor (L3)",
+      "tier": "TIER 10: ITEMS & ARTIFACTS",
+      "living_url": "https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/bfe9659fb_magrittes_pipe.png",
+      "shadow_url": null,
+      "inbetween_url": null
+    },
+    {
+      "num": 259,
+      "name": "Medusa's Lithophone",
+      "zone": "Gorgon's Garden",
+      "tier": "TIER 10: ITEMS & ARTIFACTS",
+      "living_url": null,
+      "shadow_url": "https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/0dfd04449_generated_image.png",
+      "inbetween_url": "https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/20dc6a974_generated_image.png"
+    },
+    {
+      "num": 260,
+      "name": "Starlight Crystal",
+      "zone": "Cosmology (L1)",
+      "tier": "TIER 10: ITEMS & ARTIFACTS",
+      "living_url": "https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/fc475b24d_starlight_crystal.png",
+      "shadow_url": null,
+      "inbetween_url": null
+    },
+    {
+      "num": 261,
+      "name": "Tesla's Silver Disc",
+      "zone": "Staircase (L5)",
+      "tier": "TIER 10: ITEMS & ARTIFACTS",
+      "living_url": "https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/85f36a058_teslas_silver_disc.png",
+      "shadow_url": null,
+      "inbetween_url": null
+    },
+    {
+      "num": 262,
+      "name": "The Beacon",
+      "zone": "Cosmology (L1)",
+      "tier": "TIER 10: ITEMS & ARTIFACTS",
+      "living_url": "https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/04f1f9eb6_the_beacon.png",
+      "shadow_url": null,
+      "inbetween_url": null
+    },
+    {
+      "num": 263,
+      "name": "The Golden Contract",
+      "zone": "Fae Kingdom (L7) / Archive",
+      "tier": "TIER 10: ITEMS & ARTIFACTS",
+      "living_url": "https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/5aa65d0cb_the_golden_contract.png",
+      "shadow_url": null,
+      "inbetween_url": "https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/940c02780_generated_image.png"
+    },
+    {
+      "num": 264,
+      "name": "The Score Stone",
+      "zone": "Staircase (L5)",
+      "tier": "TIER 10: ITEMS & ARTIFACTS",
+      "living_url": "https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/b5ab5f24b_the_score_stone.png",
+      "shadow_url": null,
+      "inbetween_url": null
+    },
+    {
+      "num": 265,
+      "name": "The Star Glyph",
+      "zone": "Cosmology (L1)",
+      "tier": "TIER 10: ITEMS & ARTIFACTS",
+      "living_url": "https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/e72873686_the_star_glyph.png",
+      "shadow_url": null,
+      "inbetween_url": null
+    },
+    {
+      "num": 266,
+      "name": "The Dragon's Egg",
+      "zone": "Main Floor (L3) / Nest",
+      "tier": "TIER 10: ITEMS & ARTIFACTS",
+      "living_url": null,
+      "shadow_url": null,
+      "inbetween_url": "https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/9c4e96a6d_generated_image.png"
+    },
+    {
+      "num": 267,
+      "name": "The Book of No Author",
+      "zone": "Final Room",
+      "tier": "TIER 10: ITEMS & ARTIFACTS",
+      "living_url": null,
+      "shadow_url": null,
+      "inbetween_url": "https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/f1e53f287_generated_image.png"
+    },
+    {
+      "num": 268,
+      "name": "The Sistrum of Bastet",
+      "zone": "Desert Bone Egypt (z12)",
+      "tier": "TIER 10: ITEMS & ARTIFACTS",
+      "living_url": null,
+      "shadow_url": "https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/3fd55d885_generated_image.png",
+      "inbetween_url": "https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/df7cab8af_generated_image.png"
+    },
+    {
+      "num": 269,
+      "name": "The Crone's Mirror",
+      "zone": "Main Floor (L3)",
+      "tier": "TIER 10: ITEMS & ARTIFACTS",
+      "living_url": null,
+      "shadow_url": "https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/72ed2ed1c_generated_image.png",
+      "inbetween_url": "https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/3c02edc8a_generated_image.png"
+    },
+    {
+      "num": 270,
+      "name": "The World Map",
+      "zone": "Main Floor (L3)",
+      "tier": "TIER 10: ITEMS & ARTIFACTS",
+      "living_url": null,
+      "shadow_url": null,
+      "inbetween_url": "https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/02a52dd9b_generated_image.png"
+    },
+    {
+      "num": 271,
+      "name": "The Alchemist's Key",
+      "zone": "Staircase (L5)",
+      "tier": "TIER 10: ITEMS & ARTIFACTS",
+      "living_url": null,
+      "shadow_url": null,
+      "inbetween_url": "https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/2bf25eae8_generated_image.png"
+    },
+    {
+      "num": 272,
+      "name": "The Stone Circle Activator",
+      "zone": "Fae Kingdom threshold",
+      "tier": "TIER 10: ITEMS & ARTIFACTS",
+      "living_url": null,
+      "shadow_url": null,
+      "inbetween_url": "https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/5c203c2f5_generated_image.png"
+    },
+    {
+      "num": 273,
+      "name": "The Gorgon's Eye",
+      "zone": "Gorgon's Garden",
+      "tier": "TIER 10: ITEMS & ARTIFACTS",
+      "living_url": null,
+      "shadow_url": null,
+      "inbetween_url": "https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/6dfd98e80_generated_image.png"
+    },
+    {
+      "num": 274,
+      "name": "The Composer's Bead Set",
+      "zone": "Bead Composer",
+      "tier": "TIER 10: ITEMS & ARTIFACTS",
+      "living_url": null,
+      "shadow_url": null,
+      "inbetween_url": "https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/9295a403f_generated_image.png"
+    },
+    {
+      "num": 275,
+      "name": "The Inn's Bell",
+      "zone": "Entrance",
+      "tier": "TIER 10: ITEMS & ARTIFACTS",
+      "living_url": null,
+      "shadow_url": null,
+      "inbetween_url": "https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/1f98a7f5a_generated_image.png"
+    },
+    {
+      "num": 276,
+      "name": "The Guardian's Shield",
+      "zone": "Catacombs (L6) / Armory",
+      "tier": "TIER 10: ITEMS & ARTIFACTS",
+      "living_url": null,
+      "shadow_url": null,
+      "inbetween_url": "https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/ddaf895ff_generated_image.png"
+    },
+    {
+      "num": 277,
+      "name": "The Bard's Lyre",
+      "zone": "Meadery (z29)",
+      "tier": "TIER 10: ITEMS & ARTIFACTS",
+      "living_url": null,
+      "shadow_url": "https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/f78cc9689_generated_image.png",
+      "inbetween_url": "https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/bf933eb4d_generated_image.png"
+    },
+    {
+      "num": 278,
+      "name": "The Golden Contract (Shadow)",
+      "zone": "\u2705 Generated",
+      "tier": "TIER 10b: SHADOW ECHO ITEMS (84Hz)",
+      "living_url": "https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/5aa65d0cb_the_golden_contract.png",
+      "shadow_url": null,
+      "inbetween_url": "https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/940c02780_generated_image.png"
+    },
+    {
+      "num": 279,
+      "name": "The Dragon's Egg (Shadow)",
+      "zone": "\u2705 Generated",
+      "tier": "TIER 10b: SHADOW ECHO ITEMS (84Hz)",
+      "living_url": null,
+      "shadow_url": null,
+      "inbetween_url": "https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/9c4e96a6d_generated_image.png"
+    },
+    {
+      "num": 280,
+      "name": "Monsieur Sentient Pipe (Shadow)",
+      "zone": "\u2705 Generated",
+      "tier": "TIER 10b: SHADOW ECHO ITEMS (84Hz)",
+      "living_url": null,
+      "shadow_url": null,
+      "inbetween_url": "https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/12d65936b_generated_image.png"
+    },
+    {
+      "num": 281,
+      "name": "The Book of No Author (Shadow)",
+      "zone": "\u2705 Generated",
+      "tier": "TIER 10b: SHADOW ECHO ITEMS (84Hz)",
+      "living_url": null,
+      "shadow_url": null,
+      "inbetween_url": "https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/f1e53f287_generated_image.png"
+    },
+    {
+      "num": 282,
+      "name": "The Sistrum of Bastet (Shadow)",
+      "zone": "\u2705 Generated",
+      "tier": "TIER 10b: SHADOW ECHO ITEMS (84Hz)",
+      "living_url": null,
+      "shadow_url": "https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/3fd55d885_generated_image.png",
+      "inbetween_url": "https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/df7cab8af_generated_image.png"
+    },
+    {
+      "num": 283,
+      "name": "The Crone's Mirror (Shadow)",
+      "zone": "\u2705 Generated",
+      "tier": "TIER 10b: SHADOW ECHO ITEMS (84Hz)",
+      "living_url": null,
+      "shadow_url": "https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/72ed2ed1c_generated_image.png",
+      "inbetween_url": "https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/3c02edc8a_generated_image.png"
+    },
+    {
+      "num": 284,
+      "name": "The World Map (Shadow)",
+      "zone": "\u2705 Generated",
+      "tier": "TIER 10b: SHADOW ECHO ITEMS (84Hz)",
+      "living_url": null,
+      "shadow_url": null,
+      "inbetween_url": "https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/02a52dd9b_generated_image.png"
+    },
+    {
+      "num": 285,
+      "name": "The Alchemist's Key (Shadow)",
+      "zone": "\u2705 Generated",
+      "tier": "TIER 10b: SHADOW ECHO ITEMS (84Hz)",
+      "living_url": null,
+      "shadow_url": null,
+      "inbetween_url": "https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/2bf25eae8_generated_image.png"
+    },
+    {
+      "num": 286,
+      "name": "The Stone Circle Activator (Shadow)",
+      "zone": "\u2705 Generated",
+      "tier": "TIER 10b: SHADOW ECHO ITEMS (84Hz)",
+      "living_url": null,
+      "shadow_url": null,
+      "inbetween_url": "https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/5c203c2f5_generated_image.png"
+    },
+    {
+      "num": 287,
+      "name": "The Gorgon's Eye (Shadow)",
+      "zone": "\u2705 Generated",
+      "tier": "TIER 10b: SHADOW ECHO ITEMS (84Hz)",
+      "living_url": null,
+      "shadow_url": null,
+      "inbetween_url": "https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/6dfd98e80_generated_image.png"
+    },
+    {
+      "num": 288,
+      "name": "The Composer's Bead Set (Shadow)",
+      "zone": "\u2705 Generated",
+      "tier": "TIER 10b: SHADOW ECHO ITEMS (84Hz)",
+      "living_url": null,
+      "shadow_url": null,
+      "inbetween_url": "https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/9295a403f_generated_image.png"
+    },
+    {
+      "num": 289,
+      "name": "The Inn's Bell (Shadow)",
+      "zone": "\u2705 Generated",
+      "tier": "TIER 10b: SHADOW ECHO ITEMS (84Hz)",
+      "living_url": null,
+      "shadow_url": null,
+      "inbetween_url": "https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/1f98a7f5a_generated_image.png"
+    },
+    {
+      "num": 290,
+      "name": "The Guardian's Shield (Shadow)",
+      "zone": "\u2705 Generated",
+      "tier": "TIER 10b: SHADOW ECHO ITEMS (84Hz)",
+      "living_url": null,
+      "shadow_url": null,
+      "inbetween_url": "https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/ddaf895ff_generated_image.png"
+    },
+    {
+      "num": 291,
+      "name": "The Bard's Lyre (Shadow)",
+      "zone": "\u2705 Generated",
+      "tier": "TIER 10b: SHADOW ECHO ITEMS (84Hz)",
+      "living_url": null,
+      "shadow_url": "https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/f78cc9689_generated_image.png",
+      "inbetween_url": "https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/bf933eb4d_generated_image.png"
+    },
+    {
+      "num": 293,
+      "name": "The Laughing One (Ent)",
+      "zone": "Garden (z28)",
+      "tier": "TIER 11: COMPANIONS & SPECIAL",
+      "living_url": "https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/2986b285c_the_laughing_one.png",
+      "shadow_url": null,
+      "inbetween_url": null
+    },
+    {
+      "num": 294,
+      "name": "The One Who Is Awake",
+      "zone": "Main Floor (L3)",
+      "tier": "TIER 11: COMPANIONS & SPECIAL",
+      "living_url": "https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/8ca105e73_the_one_who_is_awake.png",
+      "shadow_url": null,
+      "inbetween_url": "https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/a231a8589_generated_image.png"
+    },
+    {
+      "num": 295,
+      "name": "Madame holding Dobby",
+      "zone": "Main Floor (L3)",
+      "tier": "TIER 11: COMPANIONS & SPECIAL",
+      "living_url": "https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/46ad3382c_madame_holding_dobby.png",
+      "shadow_url": null,
+      "inbetween_url": null
+    },
+    {
+      "num": 296,
+      "name": "Dobby in Erasing Nook",
+      "zone": "Main Floor (L3)",
+      "tier": "TIER 11: COMPANIONS & SPECIAL",
+      "living_url": "https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/219c42bbf_dobby_in_erasing_nook.png",
+      "shadow_url": null,
+      "inbetween_url": null
+    },
+    {
+      "num": 297,
+      "name": "Ending Chorus",
+      "zone": "Final Room",
+      "tier": "TIER 11: COMPANIONS & SPECIAL",
+      "living_url": "https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/95fe894df_ending_chorus.png",
+      "shadow_url": null,
+      "inbetween_url": null
+    },
+    {
+      "num": 298,
+      "name": "Krista",
+      "zone": "Player/Bog Fairy Golem",
+      "tier": "TIER 12: REAL-WORLD PLAYER CHARACTERS (Login characters \u2014 NOT NPCs)",
+      "living_url": null,
+      "shadow_url": "https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/1e74e5b60_generated_image.png",
+      "inbetween_url": null
+    },
+    {
+      "num": 299,
+      "name": "River (Lozen)",
+      "zone": "Player/The Sentinel",
+      "tier": "TIER 12: REAL-WORLD PLAYER CHARACTERS (Login characters \u2014 NOT NPCs)",
+      "living_url": "https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/81da77f4a_river_sentinel_concept_early.png",
+      "shadow_url": null,
+      "inbetween_url": null
+    },
+    {
+      "num": 300,
+      "name": "Charles",
+      "zone": "Player/Chameleon Druid",
+      "tier": "TIER 12: REAL-WORLD PLAYER CHARACTERS (Login characters \u2014 NOT NPCs)",
+      "living_url": "https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/82fee4de7_charles_chameleon_druid.png",
+      "shadow_url": null,
+      "inbetween_url": "https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/9d1e94634_generated_image.png"
+    },
+    {
+      "num": 143,
+      "name": "Ember (Hearth Sprite)",
+      "zone": "Main Floor (L3) / Hearth",
+      "tier": "TIER 2: KEY NPCs (Major characters with portraits)",
+      "living_url": "https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/a2732ea4a_generated_image.png",
+      "shadow_url": "https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/fdf96bcd6_generated_image.png",
+      "inbetween_url": "https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/77fb4526d_generated_image.png"
+    },
+    {
+      "num": 144,
+      "name": "Spark (Hearth Sprite)",
+      "zone": "Main Floor (L3) / Hearth",
+      "tier": "TIER 2: KEY NPCs (Major characters with portraits)",
+      "living_url": "https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/c9a95c4c2_generated_image.png",
+      "shadow_url": "https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/7ad11b0c1_generated_image.png",
+      "inbetween_url": "https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/ddfe9c4fb_generated_image.png"
+    }
+  ]
+}

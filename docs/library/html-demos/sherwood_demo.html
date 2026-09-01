@@ -1,0 +1,766 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Sherwood Forest Faire — The Digital Grounds</title>
+<style>
+  @import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@400;600;700&family=Crimson+Text:ital,wght@0,400;0,600;1,400&display=swap');
+  
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  
+  body {
+    font-family: 'Crimson Text', serif;
+    background: #1a1a0e;
+    color: #e8e0c8;
+    overflow-x: hidden;
+  }
+  
+  h1, h2, h3 { font-family: 'Cinzel', serif; }
+  
+  .scene {
+    min-height: 100vh;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 2rem;
+    transition: opacity 0.6s ease;
+  }
+  
+  .scene.hidden { display: none; }
+  
+  /* Hero */
+  .hero {
+    background: linear-gradient(180deg, #1a1a0e 0%, #2d2a1a 40%, #1a1a0e 100%);
+    text-align: center;
+  }
+  
+  .hero img {
+    width: 100%;
+    max-width: 700px;
+    border-radius: 8px;
+    box-shadow: 0 20px 60px rgba(0,0,0,0.8);
+    margin-bottom: 2rem;
+    border: 2px solid #8b7d3c;
+  }
+  
+  .hero h1 {
+    font-size: clamp(2rem, 5vw, 3.5rem);
+    color: #d4af37;
+    text-shadow: 0 2px 20px rgba(0,0,0,0.9);
+    margin-bottom: 1rem;
+    letter-spacing: 0.05em;
+  }
+  
+  .hero .subtitle {
+    font-size: clamp(1rem, 3vw, 1.4rem);
+    color: #b8a05a;
+    font-style: italic;
+    margin-bottom: 2rem;
+  }
+  
+  .hero .intro {
+    max-width: 600px;
+    font-size: 1.1rem;
+    line-height: 1.8;
+    color: #c8b878;
+    margin-bottom: 2rem;
+  }
+  
+  /* Buttons */
+  .btn {
+    font-family: 'Cinzel', serif;
+    background: linear-gradient(135deg, #8b7d3c, #d4af37);
+    color: #1a1a0e;
+    border: none;
+    padding: 1rem 2.5rem;
+    font-size: 1.1rem;
+    font-weight: 600;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    box-shadow: 0 4px 15px rgba(139,125,60,0.4);
+    letter-spacing: 0.05em;
+  }
+  
+  .btn:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 6px 25px rgba(212,175,55,0.6);
+  }
+  
+  .btn-secondary {
+    background: transparent;
+    color: #b8a05a;
+    border: 1px solid #8b7d3c;
+    padding: 0.8rem 2rem;
+    font-size: 1rem;
+  }
+  
+  .btn-secondary:hover {
+    background: rgba(139,125,60,0.1);
+  }
+  
+  /* Navigation */
+  .nav-bar {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    background: rgba(26,26,14,0.95);
+    backdrop-filter: blur(10px);
+    border-bottom: 1px solid #8b7d3c;
+    padding: 0.8rem 1rem;
+    display: flex;
+    justify-content: center;
+    gap: 1.5rem;
+    z-index: 100;
+    flex-wrap: wrap;
+  }
+  
+  .nav-bar button {
+    font-family: 'Cinzel', serif;
+    background: none;
+    border: none;
+    color: #8b7d3c;
+    cursor: pointer;
+    font-size: 0.9rem;
+    transition: color 0.2s;
+    letter-spacing: 0.05em;
+  }
+  
+  .nav-bar button:hover, .nav-bar button.active {
+    color: #d4af37;
+  }
+  
+  /* Gatehouse */
+  .gatehouse {
+    background: linear-gradient(180deg, #1a1a0e 0%, #2d2a1a 50%, #1a1a0e 100%);
+    text-align: center;
+  }
+  
+  .gatehouse img {
+    width: 100%;
+    max-width: 600px;
+    border-radius: 8px;
+    box-shadow: 0 20px 60px rgba(0,0,0,0.8);
+    margin-bottom: 2rem;
+    border: 2px solid #8b7d3c;
+  }
+  
+  .calendar-box {
+    background: rgba(45,42,26,0.9);
+    border: 1px solid #8b7d3c;
+    border-radius: 8px;
+    padding: 1.5rem;
+    max-width: 400px;
+    margin: 1rem auto;
+  }
+  
+  .calendar-box h3 { color: #d4af37; margin-bottom: 0.5rem; }
+  .calendar-box .season { color: #c8b878; font-size: 1.1rem; margin: 0.3rem 0; }
+  .calendar-box .countdown { color: #e8e0c8; font-size: 1.3rem; margin-top: 0.5rem; }
+  .ticket-btn {
+    display: inline-block;
+    margin-top: 1rem;
+    padding: 0.8rem 2rem;
+    background: #2d5a27;
+    color: #d4e8c8;
+    text-decoration: none;
+    border-radius: 4px;
+    font-family: 'Cinzel', serif;
+    border: 1px solid #4a7a44;
+  }
+  
+  /* Market Row */
+  .market {
+    background: linear-gradient(180deg, #1a1a0e 0%, #2d2a1a 50%, #1a1a0e 100%);
+    padding: 4rem 1rem;
+  }
+  
+  .market h2 {
+    text-align: center;
+    color: #d4af37;
+    font-size: 2rem;
+    margin-bottom: 0.5rem;
+  }
+  
+  .market .desc {
+    text-align: center;
+    color: #b8a05a;
+    max-width: 500px;
+    margin: 0 auto 2rem;
+    font-style: italic;
+  }
+  
+  .stalls {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+    gap: 1.5rem;
+    max-width: 900px;
+    margin: 0 auto;
+  }
+  
+  .stall {
+    background: rgba(45,42,26,0.9);
+    border: 1px solid #5a4d2c;
+    border-radius: 8px;
+    overflow: hidden;
+    transition: transform 0.3s, box-shadow 0.3s;
+    cursor: pointer;
+  }
+  
+  .stall:hover {
+    transform: translateY(-4px);
+    box-shadow: 0 10px 30px rgba(139,125,60,0.3);
+    border-color: #d4af37;
+  }
+  
+  .stall-img {
+    height: 140px;
+    background: linear-gradient(135deg, #3a3a1e, #5a4d2c);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 3rem;
+  }
+  
+  .stall-body { padding: 1.2rem; }
+  .stall-body h3 { color: #d4af37; font-size: 1.2rem; margin-bottom: 0.3rem; }
+  .stall-body .tag { color: #8b7d3c; font-size: 0.85rem; margin-bottom: 0.5rem; }
+  .stall-body p { color: #c8b878; font-size: 0.95rem; line-height: 1.5; }
+  .stall-body .visit { color: #d4af37; font-size: 0.85rem; margin-top: 0.5rem; font-family: 'Cinzel', serif; }
+  
+  /* Greenwood */
+  .greenwood {
+    background: linear-gradient(180deg, #1a1a0e 0%, #1a2a1e 50%, #1a1a0e 100%);
+    text-align: center;
+    padding: 4rem 1rem;
+  }
+  
+  .greenwood img {
+    width: 100%;
+    max-width: 600px;
+    border-radius: 8px;
+    box-shadow: 0 20px 60px rgba(0,0,0,0.8);
+    margin-bottom: 2rem;
+    border: 2px solid #4a7a44;
+  }
+  
+  .greenwood h2 { color: #d4af37; font-size: 2rem; margin-bottom: 1rem; }
+  .greenwood p { color: #c8b878; max-width: 500px; margin: 0 auto 1rem; line-height: 1.7; }
+  
+  .feature-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    gap: 1rem;
+    max-width: 700px;
+    margin: 2rem auto;
+  }
+  
+  .feature {
+    background: rgba(26,42,30,0.8);
+    border: 1px solid #4a7a44;
+    border-radius: 8px;
+    padding: 1rem;
+  }
+  
+  .feature h3 { color: #b8d4a0; font-size: 1rem; margin-bottom: 0.3rem; }
+  .feature p { color: #8aa880; font-size: 0.85rem; }
+  
+  /* Feast Hall */
+  .feast {
+    background: linear-gradient(180deg, #1a1a0e 0%, #2a2010 50%, #1a1a0e 100%);
+    text-align: center;
+    padding: 4rem 1rem;
+  }
+  
+  .feast img {
+    width: 100%;
+    max-width: 600px;
+    border-radius: 8px;
+    box-shadow: 0 20px 60px rgba(0,0,0,0.8);
+    margin-bottom: 2rem;
+    border: 2px solid #8b7d3c;
+  }
+  
+  .feast h2 { color: #d4af37; font-size: 2rem; margin-bottom: 1rem; }
+  .feast p { color: #c8b878; max-width: 500px; margin: 0 auto 1rem; line-height: 1.7; }
+  
+  .candle-text {
+    font-style: italic;
+    color: #d4af37;
+    font-size: 1.1rem;
+    margin-top: 1rem;
+  }
+  
+  /* Off-season toggle */
+  .season-toggle {
+    display: flex;
+    justify-content: center;
+    gap: 1rem;
+    margin: 2rem auto;
+  }
+  
+  .toggle-btn {
+    padding: 0.6rem 1.5rem;
+    background: rgba(45,42,26,0.8);
+    border: 1px solid #8b7d3c;
+    color: #b8a05a;
+    border-radius: 4px;
+    cursor: pointer;
+    font-family: 'Cinzel', serif;
+    font-size: 0.9rem;
+    transition: all 0.3s;
+  }
+  
+  .toggle-btn.active {
+    background: #8b7d3c;
+    color: #1a1a0e;
+  }
+  
+  .season-display {
+    background: rgba(45,42,26,0.9);
+    border: 1px solid #8b7d3c;
+    border-radius: 8px;
+    padding: 1.5rem;
+    max-width: 450px;
+    margin: 1rem auto;
+    transition: all 0.4s;
+  }
+  
+  .season-display .label { color: #8b7d3c; font-size: 0.85rem; text-transform: uppercase; letter-spacing: 0.1em; }
+  .season-display .status { color: #d4af37; font-size: 1.2rem; margin: 0.5rem 0; font-family: 'Cinzel', serif; }
+  .season-display .detail { color: #c8b878; font-size: 0.95rem; }
+  
+  /* Benefits */
+  .benefits {
+    background: linear-gradient(180deg, #1a1a0e 0%, #2d2a1a 100%);
+    padding: 4rem 1rem;
+  }
+  
+  .benefits h2 { text-align: center; color: #d4af37; font-size: 2rem; margin-bottom: 2rem; }
+  
+  .benefit-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    gap: 1.5rem;
+    max-width: 800px;
+    margin: 0 auto;
+  }
+  
+  .benefit {
+    background: rgba(45,42,26,0.9);
+    border: 1px solid #8b7d3c;
+    border-radius: 8px;
+    padding: 1.5rem;
+    text-align: left;
+  }
+  
+  .benefit .icon { font-size: 2rem; margin-bottom: 0.5rem; }
+  .benefit h3 { color: #d4af37; font-size: 1.1rem; margin-bottom: 0.5rem; }
+  .benefit p { color: #c8b878; font-size: 0.9rem; line-height: 1.5; }
+  
+  /* Contact */
+  .contact {
+    background: linear-gradient(180deg, #2d2a1a 0%, #1a1a0e 100%);
+    text-align: center;
+    padding: 4rem 1rem;
+  }
+  
+  .contact h2 { color: #d4af37; font-size: 2rem; margin-bottom: 1rem; }
+  .contact p { color: #c8b878; max-width: 500px; margin: 0 auto 2rem; line-height: 1.7; font-size: 1.1rem; }
+  
+  .contact-info {
+    background: rgba(45,42,26,0.9);
+    border: 1px solid #d4af37;
+    border-radius: 8px;
+    padding: 2rem;
+    max-width: 400px;
+    margin: 0 auto;
+  }
+  
+  .contact-info p { color: #c8b878; margin: 0.5rem 0; }
+  .contact-info .name { color: #d4af37; font-family: 'Cinzel', serif; font-size: 1.2rem; }
+  .contact-info .email { color: #b8a05a; font-size: 1rem; }
+  
+  /* Scroll indicator */
+  .scroll-hint {
+    color: #8b7d3c;
+    font-size: 0.85rem;
+    margin-top: 1rem;
+    animation: bounce 2s infinite;
+  }
+  
+  @keyframes bounce {
+    0%, 100% { transform: translateY(0); }
+    50% { transform: translateY(8px); }
+  }
+  
+  /* Lore section */
+  .lore {
+    background: linear-gradient(180deg, #1a1a0e 0%, #1e1a2a 50%, #1a1a0e 100%);
+    padding: 4rem 1rem;
+  }
+  
+  .lore h2 { text-align: center; color: #d4af37; font-size: 2rem; margin-bottom: 1rem; }
+  .lore .lore-text {
+    max-width: 600px;
+    margin: 0 auto;
+    color: #c8b878;
+    font-size: 1.05rem;
+    line-height: 1.8;
+    text-align: justify;
+  }
+  
+  .lore .quote {
+    font-style: italic;
+    color: #d4af37;
+    text-align: center;
+    margin: 1.5rem 0;
+    font-size: 1.1rem;
+  }
+</style>
+</head>
+<body>
+
+<!-- Navigation -->
+<div class="nav-bar" id="navBar" style="display:none;">
+  <button onclick="scrollToId('hero')">Sherwood</button>
+  <button onclick="scrollToId('gatehouse')">Gatehouse</button>
+  <button onclick="scrollToId('market')">Market Row</button>
+  <button onclick="scrollToId('greenwood')">The Greenwood</button>
+  <button onclick="scrollToId('feast')">Feast Hall</button>
+  <button onclick="scrollToId('seasons')">Seasons</button>
+  <button onclick="scrollToId('lore')">Lore</button>
+  <button onclick="scrollToId('benefits')">Why</button>
+  <button onclick="scrollToId('contact')">Contact</button>
+</div>
+
+<!-- Hero -->
+<div class="scene hero" id="hero">
+  <h1>Sherwood Forest Faire</h1>
+  <p class="subtitle">The Digital Grounds</p>
+  <img src="https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/f7ed2a25b_generated_image.png" alt="Sherwood Gatehouse">
+  <div class="intro">
+    A year-round digital home for Sherwood Forest Faire — a walkable, explorable space 
+    inside the Geode Inn that keeps the faire alive when the physical grounds sleep. 
+    Vendor stalls stay open. The forest stays green. The fire stays lit.
+  </div>
+  <button class="btn" onclick="scrollToId('gatehouse')">Enter the Gatehouse</button>
+  <div class="scroll-hint">↓ Walk through the grounds</div>
+</div>
+
+<!-- Gatehouse -->
+<div class="scene gatehouse" id="gatehouse">
+  <h2>The Gatehouse</h2>
+  <p style="color:#b8a05a; max-width:500px; margin:1rem auto; font-style:italic;">
+    The entrance. A ticket portal, a calendar of physical season dates, and the door 
+    into the digital Sherwood — open all year.
+  </p>
+  <img src="https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/f7ed2a25b_generated_image.png" alt="Gatehouse Entrance">
+  
+  <div class="calendar-box">
+    <h3>Physical Faire Season</h3>
+    <div class="season">February – April</div>
+    <div class="season">McDade, Texas</div>
+    <div class="countdown">The physical grounds sleep. The digital grounds are open.</div>
+    <a href="https://www.sherwoodforestfaire.com/tickets/" target="_blank" class="ticket-btn">Get Tickets →</a>
+  </div>
+  
+  <p style="color:#c8b878; max-width:500px; margin:2rem auto 1rem; line-height:1.7;">
+    The digital gatehouse mirrors the real entrance. Players walk through, see the faire 
+    layout, and get a direct link to your ticket sales. The Inn never handles the transaction — 
+    it sends them to you.
+  </p>
+  <button class="btn" onclick="scrollToId('market')">Walk the Market Row →</button>
+</div>
+
+<!-- Market Row -->
+<div class="scene market" id="market">
+  <h2>The Market Row</h2>
+  <p class="desc">
+    Every physical vendor can have a digital stall — shop name, products, images, and a 
+    direct link to their real-world shop. The market never closes.
+  </p>
+  <img src="https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/93b30ee1b_generated_image.png" alt="Market Row" style="width:100%;max-width:600px;border-radius:8px;box-shadow:0 20px 60px rgba(0,0,0,0.8);margin-bottom:2rem;border:2px solid #8b7d3c;">
+  
+  <div class="stalls">
+    <div class="stall" onclick="alert('In the full version, this opens the vendor\\'s shop page with product gallery and a link to their real-world store.')">
+      <div class="stall-img" style="background:linear-gradient(135deg,#3a3a1e,#8b7d3c);">💎</div>
+      <div class="stall-body">
+        <h3>Soulstice Jewelry</h3>
+        <div class="tag">High-end natural jewelry • Bayou</div>
+        <p>Hand-crafted stone jewelry using natural minerals sourced from around the world. Each piece carries the weight of the stone it's made from.</p>
+        <div class="visit">Visit Shop →</div>
+      </div>
+    </div>
+    
+    <div class="stall" onclick="alert('In the full version, this opens the vendor\\'s shop page.')">
+      <div class="stall-img" style="background:linear-gradient(135deg,#5a3a1e,#8b5a2c);">⚒️</div>
+      <div class="stall-body">
+        <h3>The Smithy</h3>
+        <div class="tag">Hand-forged metalwork</div>
+        <p>Custom forged blades, armor, and decorative ironwork. Each piece hammered by hand over an open flame.</p>
+        <div class="visit">Visit Shop →</div>
+      </div>
+    </div>
+    
+    <div class="stall" onclick="alert('In the full version, this opens the vendor\\'s shop page.')">
+      <div class="stall-img" style="background:linear-gradient(135deg,#3a2a4a,#6a4a8b);">🏹</div>
+      <div class="stall-body">
+        <h3>Arrow & Bow</h3>
+        <div class="tag">Traditional archery</div>
+        <p>Hand-carved longbows, arrows fletched with real feathers, and leather arm guards. Traditional English archery.</p>
+        <div class="visit">Visit Shop →</div>
+      </div>
+    </div>
+    
+    <div class="stall" onclick="alert('In the full version, this opens the vendor\\'s shop page.')">
+      <div class="stall-img" style="background:linear-gradient(135deg,#4a3a2a,#7a5a3c);">📖</div>
+      <div class="stall-body">
+        <h3>The Scribe's Nook</h3>
+        <div class="tag">Handmade books & calligraphy</div>
+        <p>Leather-bound journals, hand-illuminated scrolls, and custom calligraphy. Each book is stitched and bound by hand.</p>
+        <div class="visit">Visit Shop →</div>
+      </div>
+    </div>
+    
+    <div class="stall" onclick="alert('In the full version, this opens the vendor\\'s shop page.')">
+      <div class="stall-img" style="background:linear-gradient(135deg,#2a4a3a,#4a8b6a);">🧸</div>
+      <div class="stall-body">
+        <h3>Wandering Toys</h3>
+        <div class="tag">Hand-carved wooden toys</div>
+        <p>Carved wooden dolls, puzzles, and games for children of all ages. Each toy is unique — no two are alike.</p>
+        <div class="visit">Visit Shop →</div>
+      </div>
+    </div>
+    
+    <div class="stall" onclick="alert('In the full version, this opens the vendor\\'s shop page.')">
+      <div class="stall-img" style="background:linear-gradient(135deg,#4a2a2a,#8b4a4a);">🍷</div>
+      <div class="stall-body">
+        <h3>The Meadery</h3>
+        <div class="tag">Artisan mead & honey</div>
+        <p>Small-batch mead made from local honey, plus raw honey and beeswax products from the apiary.</p>
+        <div class="visit">Visit Shop →</div>
+      </div>
+    </div>
+  </div>
+  
+  <p style="color:#8b7d3c; text-align:center; margin-top:2rem; font-style:italic; max-width:500px;">
+    Sample stalls shown. In the full version, every Sherwood vendor gets their own page 
+    with real product photos and a link to their actual shop.
+  </p>
+  
+  <button class="btn" style="margin-top:1.5rem;" onclick="scrollToId('greenwood')">Explore The Greenwood →</button>
+</div>
+
+<!-- Greenwood -->
+<div class="scene greenwood" id="greenwood">
+  <h2>The Greenwood</h2>
+  <img src="https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/0c1aea980_generated_image.png" alt="The Greenwood">
+  <p>
+    Beyond the market row, the forest paths wind through digital oaks. Hidden clearings 
+    hold archery ranges, a maypole, and Robin Hood's camp — a lore area telling the 
+    history of the legend that gives the faire its name.
+  </p>
+  
+  <div class="feature-grid">
+    <div class="feature">
+      <h3>Archery Range</h3>
+      <p>A mini-game where players test their aim. Sherwood-themed scoring.</p>
+    </div>
+    <div class="feature">
+      <h3>Robin Hood's Camp</h3>
+      <p>A lore area covering the history of the Robin Hood legend and its regional variations.</p>
+    </div>
+    <div class="feature">
+      <h3>The Maypole</h3>
+      <p>A seasonal decoration that changes with the faire's real-world calendar.</p>
+    </div>
+    <div class="feature">
+      <h3>Hidden Stalls</h3>
+      <p>Niche vendors tucked away in the forest, just like at the physical faire.</p>
+    </div>
+  </div>
+  
+  <button class="btn" onclick="scrollToId('feast')">Visit the Feast Hall →</button>
+</div>
+
+<!-- Feast Hall -->
+<div class="scene feast" id="feast">
+  <h2>The Feast Hall</h2>
+  <img src="https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/65ff5f5b6_generated_image.png" alt="The Feast Hall">
+  <p>
+    A food court matching the physical faire's vendors. Links to real food stalls. 
+    The hall is always set — tables laid, candles lit — as if the faire opens tomorrow.
+  </p>
+  <p class="candle-text">
+    One candle burns on the main table. The place is waiting, not dead.
+  </p>
+  
+  <button class="btn" style="margin-top:1.5rem;" onclick="scrollToId('seasons')">See the Seasons →</button>
+</div>
+
+<!-- Seasons Toggle -->
+<div class="scene feast" id="seasons">
+  <h2>Year-Round: Two Seasons</h2>
+  <p style="color:#c8b878; max-width:500px; margin:0 auto 1rem; line-height:1.7;">
+    The digital Sherwood shifts between two modes. When the physical faire is open, 
+    the digital grounds amplify it. When the physical faire closes, the digital grounds 
+    keep the community alive.
+  </p>
+  
+  <div class="season-toggle">
+    <button class="toggle-btn active" id="onBtn" onclick="setSeason('on')">Faire Season (Feb–Apr)</button>
+    <button class="toggle-btn" id="offBtn" onclick="setSeason('off')">Off-Season (May–Jan)</button>
+  </div>
+  
+  <div class="season-display" id="seasonDisplay">
+    <div class="label">Current Mode</div>
+    <div class="status" id="seasonStatus">Faire Season — Live</div>
+    <div class="detail" id="seasonDetail">
+      The digital grounds mirror the physical faire in real time. Vendor stalls are 
+      fully stocked. The Castle Stage shows today's performance schedule. Players can 
+      check what's happening today and plan their visit. Ticket portal is front and center.
+    </div>
+  </div>
+  
+  <button class="btn" style="margin-top:1.5rem;" onclick="scrollToId('lore')">Read the Lore →</button>
+</div>
+
+<!-- Lore -->
+<div class="scene lore" id="lore">
+  <h2>The Archive Entry</h2>
+  <p class="lore-text">
+    Sherwood Forest Faire enters the Geode Inn's archive as a "Living Legend" — a modern 
+    continuation of the medieval fair tradition. The lore entry covers the historical 
+    tradition of seasonal faires in medieval England, the Robin Hood legend and its 
+    regional variations, the modern Renaissance faire movement, and Sherwood Forest Faire 
+    specifically: its founding, location, theme, and the community it serves.
+  </p>
+  <p class="quote">
+    "The faire is not an event. It is a tradition that remembers itself every spring."
+  </p>
+  <p class="lore-text" style="font-size:0.9rem; color:#8b7d3c;">
+    This is presented in the Inn's scholarly, neutral voice — not as an advertisement, 
+    but as an archive entry. The faire becomes part of the record. Players who discover 
+    Sherwood through the game learn its real history, its real location, and its real 
+    community — and can buy tickets to visit in person.
+  </p>
+  
+  <button class="btn" style="margin-top:1.5rem;" onclick="scrollToId('benefits')">Why This Works →</button>
+</div>
+
+<!-- Benefits -->
+<div class="scene benefits" id="benefits">
+  <h2>What This Means for Sherwood</h2>
+  
+  <div class="benefit-grid">
+    <div class="benefit">
+      <div class="icon">🗓️</div>
+      <h3>Year-Round Presence</h3>
+      <p>The digital grounds stay open when the physical faire closes. Off-season engagement keeps the community connected and counting down to opening day.</p>
+    </div>
+    
+    <div class="benefit">
+      <div class="icon">🌍</div>
+      <h3>Global Reach</h3>
+      <p>Players worldwide discover Sherwood through the Geode Inn. People who can't visit Texas in person can explore digitally — and many will plan a trip.</p>
+    </div>
+    
+    <div class="benefit">
+      <div class="icon">🎟️</div>
+      <h3>Ticket Sales Channel</h3>
+      <p>Every digital visitor is one click from your ticket page. The Inn sends traffic — you handle the sale. No middleman, no transaction fees.</p>
+    </div>
+    
+    <div class="benefit">
+      <div class="icon">🛍️</div>
+      <h3>Vendor Support</h3>
+      <p>Every Sherwood vendor gets a digital stall. Off-season sales through their own shops. Vendors stay engaged even when the gates are closed.</p>
+    </div>
+    
+    <div class="benefit">
+      <div class="icon">📖</div>
+      <h3>Archive Status</h3>
+      <p>Sherwood enters the Inn's scholarly archive as a living tradition. Real history, real community — preserved and discoverable by a global audience.</p>
+    </div>
+    
+    <div class="benefit">
+      <div class="icon">🔗</div>
+      <h3>The Inn Handles Nothing</h3>
+      <p>The Geode Inn is a discovery hub, not a store. All ticket sales and vendor purchases redirect to Sherwood's own systems. You stay in control.</p>
+    </div>
+  </div>
+  
+  <button class="btn" style="margin-top:2rem;" onclick="scrollToId('contact')">Let's Talk →</button>
+</div>
+
+<!-- Contact -->
+<div class="scene contact" id="contact">
+  <h2>Bring Sherwood to Life</h2>
+  <p>
+    The digital grounds are pre-built and waiting. One conversation activates the zone — 
+    vendor stalls load, the calendar syncs, the gatehouse opens. Sherwood lives in the 
+    Geode Inn all year.
+  </p>
+  
+  <div class="contact-info">
+    <p class="name">Krista</p>
+    <p class="email">bogfairygolem@geodeinn.com</p>
+    <p style="color:#8b7d3c; font-size:0.85rem; margin-top:0.5rem;">
+      Soulstice Jewelry • Sherwood Forest Faire<br>
+      Geode Inn Project Lead
+    </p>
+  </div>
+  
+  <p style="color:#8b7d3c; font-size:0.85rem; margin-top:2rem; max-width:400px;">
+    This is a preview of what the digital Sherwood zone could look like inside the Geode Inn. 
+    Every element shown here is a concept mockup. The full zone would be custom-built with 
+    real vendor data, real imagery, and the faire's actual season calendar.
+  </p>
+</div>
+
+<script>
+  // Show nav bar after scrolling past hero
+  window.addEventListener('scroll', function() {
+    const nav = document.getElementById('navBar');
+    const hero = document.getElementById('hero');
+    if (window.scrollY > hero.offsetHeight - 100) {
+      nav.style.display = 'flex';
+    } else {
+      nav.style.display = 'none';
+    }
+  });
+  
+  function scrollToId(id) {
+    document.getElementById(id).scrollIntoView({ behavior: 'smooth' });
+  }
+  
+  // Season toggle
+  function setSeason(mode) {
+    const onBtn = document.getElementById('onBtn');
+    const offBtn = document.getElementById('offBtn');
+    const status = document.getElementById('seasonStatus');
+    const detail = document.getElementById('seasonDetail');
+    
+    if (mode === 'on') {
+      onBtn.classList.add('active');
+      offBtn.classList.remove('active');
+      status.textContent = 'Faire Season — Live';
+      detail.innerHTML = 'The digital grounds mirror the physical faire in real time. Vendor stalls are fully stocked. The Castle Stage shows today\'s performance schedule. Players can check what\'s happening today and plan their visit. Ticket portal is front and center.';
+      document.getElementById('seasonDisplay').style.borderColor = '#d4af37';
+    } else {
+      offBtn.classList.add('active');
+      onBtn.classList.remove('active');
+      status.textContent = 'Off-Season — The Grounds Wait';
+      detail.innerHTML = 'A banner reads: "The physical grounds sleep. The digital grounds are open." The market row stays active — vendors update stalls for next season. The Castle Stage shows archival footage and a countdown to opening day. One candle burns on the feast hall table. The community gathers here while they wait.';
+      document.getElementById('seasonDisplay').style.borderColor = '#5a4d2c';
+    }
+  }
+</script>
+
+</body>
+</html>

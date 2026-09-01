@@ -1,0 +1,2433 @@
+{
+  "manifest_title": "Geode Inn Archive \u2014 Google Drive PDF Catalog",
+  "manifest_date": "2026-09-01",
+  "created_by": "Elio (Inn Librarian)",
+  "purpose": "Complete catalog of 447 clean historical/academic PDFs from Google Drive, organized for import into the Book entity of the Geode Inn live database.",
+  "source": "Google Drive (googledrive connector)",
+  "target_app": "The Geode Inn (6a60f218b0c6605c92fa35c4)",
+  "target_entity": "Book",
+  "excluded": {
+    "toxic_files": [
+      {
+        "drive_id": "1QW6RvymgmRnEvDEO5SbvkUjzwZuDYBml",
+        "filename": "The Mystery of the Hyperborean Wisdom -- Nimrod de Rosario",
+        "reason": "Anti-semitic hyperborean fascist philosophy. Bastardized Gnosticism. Awaiting Krista editorial review."
+      },
+      {
+        "drive_id": "1xu9ctoy1i2ZGjVWgr_vOqRbJKMyiVlWu",
+        "filename": "Gnostic Fragments -- Nimrod de Rosario",
+        "reason": "Same author. Hyperborean fascist framework. Awaiting Krista editorial review."
+      },
+      {
+        "drive_id": "1xpx1W-vXbLcGKKNxLOu7FhVTu9kJ71QU",
+        "filename": "Propaganda and National Power (Berserker Books)",
+        "reason": "Propaganda text from Berserker Books."
+      },
+      {
+        "drive_id": "1HA9AeSc5ooyPQWATKOqEx2vHcg_DnrD",
+        "filename": "Secret History of the Thulegesellschaft",
+        "reason": "Thule Society material."
+      },
+      {
+        "drive_id": "1gSgRia2XNkIrcSNEvNVd0bHdCPMqcw1i",
+        "filename": "Lucifer_.pdf",
+        "reason": "Unknown content in toxic folder. Excluded by association."
+      }
+    ],
+    "toxic_folder": "bb (Drive folder ID: 169MkHlZJpNB2UGvq1-2IDIeve_GJLyRr)",
+    "note": "All 5 toxic files are isolated in the \"bb\" folder on Drive. None entered the Inn database, repo, or knowledge base. Krista plans to edit the Rosario Gnostic texts to remove toxic content while preserving any legitimate ancient Gnosticism references."
+  },
+  "summary": {
+    "total_clean_pdfs": 447,
+    "total_toxic_excluded": 5,
+    "total_pdfs_on_drive": 453,
+    "categories": {
+      "masonic_periodicals": 49,
+      "princeton_seminary_bulletins": 54,
+      "gentlemans_magazine": 15,
+      "royal_american_magazine": 12,
+      "yale_collections": 8,
+      "missouri_botanical": 65,
+      "google_books_scans": 7,
+      "historical_treatises": 57,
+      "religious_texts": 7,
+      "sacred_geometry": 3,
+      "other_periodicals": 3,
+      "miscellaneous_historical": 167
+    }
+  },
+  "categories": {
+    "masonic_periodicals": {
+      "count": 49,
+      "book_category": "Esoteric Traditions",
+      "in_game_zone": "Main Floor",
+      "region": "Europe/Americas",
+      "notes": "Masonic periodicals from 1811-1829. Primary sources for sacred architecture, symbolic geometry, and the masonic tradition that informs Wrought the Celtic Mason.",
+      "files": [
+        {
+          "drive_id": "11b5veonYAAj-EAl8pXbSW5bJViyeutMI",
+          "filename": "masonicmirrorvo00unkngoog.pdf",
+          "archive_category": "masonic_periodicals"
+        },
+        {
+          "drive_id": "1GDpNBIFvM_F2ZhFHuNorrTR40pcb0Kbe",
+          "filename": "sim_amaranth-or-masonic-garland_1829-03_1_12.pdf",
+          "archive_category": "masonic_periodicals"
+        },
+        {
+          "drive_id": "1ip47v_8DcpAhj7Gmy3EdQ8FHPq56UDHI",
+          "filename": "sim_amaranth-or-masonic-garland_1829-02_1_11.pdf",
+          "archive_category": "masonic_periodicals"
+        },
+        {
+          "drive_id": "1tIav003i14luVxEDKlPQX6vTEmpRI9Dp",
+          "filename": "sim_amaranth-or-masonic-garland_1829-01_1_10.pdf",
+          "archive_category": "masonic_periodicals"
+        },
+        {
+          "drive_id": "1zRySzsa7MlBDnTAaQ_vEiIS8hG7gHchr",
+          "filename": "sim_amaranth-or-masonic-garland_1828-12_1_9.pdf",
+          "archive_category": "masonic_periodicals"
+        },
+        {
+          "drive_id": "1Bc2CiVuIvt0tccY7hV8WbHmU7qNMGKmV",
+          "filename": "sim_amaranth-or-masonic-garland_1828-11_1_8.pdf",
+          "archive_category": "masonic_periodicals"
+        },
+        {
+          "drive_id": "1TLmYUXzjSMkxA0ozNkvqqNihqb293hdN",
+          "filename": "sim_amaranth-or-masonic-garland_1828-10_1_7.pdf",
+          "archive_category": "masonic_periodicals"
+        },
+        {
+          "drive_id": "1GZ1wZwxsUPJUBSBviI9bA_BVzVXjHMGK",
+          "filename": "sim_amaranth-or-masonic-garland_1828-09_1_6.pdf",
+          "archive_category": "masonic_periodicals"
+        },
+        {
+          "drive_id": "1MfU1D7YMN_D27Yels1XnuNdO3J3N6Us2",
+          "filename": "sim_amaranth-or-masonic-garland_1828-08_1_5.pdf",
+          "archive_category": "masonic_periodicals"
+        },
+        {
+          "drive_id": "1XmA6iq5IH8Wlzao53f6QKtf8sPPqIjb5",
+          "filename": "sim_amaranth-or-masonic-garland_1828-07_1_4.pdf",
+          "archive_category": "masonic_periodicals"
+        },
+        {
+          "drive_id": "1FYcPhr4gk3z-1ZPGd3t-YTDf73chMRpv",
+          "filename": "sim_amaranth-or-masonic-garland_1828-06_1_3.pdf",
+          "archive_category": "masonic_periodicals"
+        },
+        {
+          "drive_id": "1F7N-ajGbNnOb9Z1q-U8poPH1NrRDECO_",
+          "filename": "sim_amaranth-or-masonic-garland_1828-05_1_2.pdf",
+          "archive_category": "masonic_periodicals"
+        },
+        {
+          "drive_id": "1S2S7PE-sicIYZStR4-tVS8NDQpHUvDaS",
+          "filename": "sim_amaranth-or-masonic-garland_1828-04_1_1.pdf",
+          "archive_category": "masonic_periodicals"
+        },
+        {
+          "drive_id": "1MkKEyIabqwmjAwGXUK7QB5GipsVqFgQ0",
+          "filename": "amaranthormasoni02unse.pdf",
+          "archive_category": "masonic_periodicals"
+        },
+        {
+          "drive_id": "1nHTVQz_ZfNHuzrfVt4ZFf48w2pqnaYJ4",
+          "filename": "anitmasonicalman00gidd.pdf",
+          "archive_category": "masonic_periodicals"
+        },
+        {
+          "drive_id": "1qA1VRnmTn2p6u_KGHsH6LasCoLcoSAJ_",
+          "filename": "The Anti-Masonic Party in the United States- 1826-1843 - William Preston Vaughn.pdf",
+          "archive_category": "masonic_periodicals"
+        },
+        {
+          "drive_id": "187dLny1IDhP-L4ELjIyIVQEwE3hRuyKe",
+          "filename": "sim_american-masonic-register_1823-06_2_7.pdf",
+          "archive_category": "masonic_periodicals"
+        },
+        {
+          "drive_id": "1NgxqE9y87L3ezG7reqyvz56RB4y-ETIq",
+          "filename": "sim_american-masonic-register_1823-03_2_6.pdf",
+          "archive_category": "masonic_periodicals"
+        },
+        {
+          "drive_id": "1fIWT8KYRbY4xNXObRBRajH1jCQm5d0YC",
+          "filename": "sim_american-masonic-register_1823-02_2_5.pdf",
+          "archive_category": "masonic_periodicals"
+        },
+        {
+          "drive_id": "1LuGZNp0zBlrwq_zRTRzIVA8PYD8pUZx0",
+          "filename": "sim_american-masonic-register_1822-12_2_4.pdf",
+          "archive_category": "masonic_periodicals"
+        },
+        {
+          "drive_id": "10YyaL7ZaCGHsE7t6utDzDrJlt9uOwFng",
+          "filename": "sim_american-masonic-register_1822-11_2_3.pdf",
+          "archive_category": "masonic_periodicals"
+        },
+        {
+          "drive_id": "12D60cxaRslg9RBxBZJA3ds_5ftQt-BOl",
+          "filename": "sim_american-masonic-register_1822-03_2_2.pdf",
+          "archive_category": "masonic_periodicals"
+        },
+        {
+          "drive_id": "1y3eT05jw5GG_71SOnDzdMCN8TZHYVfiF",
+          "filename": "sim_american-masonic-register_1821-09_2_1.pdf",
+          "archive_category": "masonic_periodicals"
+        },
+        {
+          "drive_id": "1ZNCcVuZbWCkMHmaqa-E1rp2zV6L8C_-8",
+          "filename": "sim_american-masonic-register_1821_2_index.pdf",
+          "archive_category": "masonic_periodicals"
+        },
+        {
+          "drive_id": "1gPbOtGGJ3jfhGtOUVv9ZYeY-lz_PmCnK",
+          "filename": "sim_american-masonic-register_1821-08_1_12.pdf",
+          "archive_category": "masonic_periodicals"
+        },
+        {
+          "drive_id": "1sOGQhICIYInmSKdCgONxlHhBaUHwLAGO",
+          "filename": "sim_american-masonic-register_1821-07_1_11.pdf",
+          "archive_category": "masonic_periodicals"
+        },
+        {
+          "drive_id": "1D5M23EvpZoBaB0pBnz7Va-7UTvMbQcg9",
+          "filename": "sim_american-masonic-register_1821-06_1_10.pdf",
+          "archive_category": "masonic_periodicals"
+        },
+        {
+          "drive_id": "1v7ymUqt8IwYZq-y8LpYYKwUPkwWRAeqK",
+          "filename": "sim_american-masonic-register_1821-05_1_9.pdf",
+          "archive_category": "masonic_periodicals"
+        },
+        {
+          "drive_id": "1tm7zjhxGUFq7W6Tfe6W99h3A_FQA-XGP",
+          "filename": "sim_american-masonic-register_1821-04_1_8.pdf",
+          "archive_category": "masonic_periodicals"
+        },
+        {
+          "drive_id": "1HlGybvHoCQPF4Ozr6RudE3FDsxYS16w0",
+          "filename": "sim_american-masonic-register_1821-03_1_7.pdf",
+          "archive_category": "masonic_periodicals"
+        },
+        {
+          "drive_id": "1xey13vWSYyTW8oK7A5ErUb5quDVH1SpA",
+          "filename": "sim_american-masonic-register_1821-02_1_6.pdf",
+          "archive_category": "masonic_periodicals"
+        },
+        {
+          "drive_id": "1KxZe4no32oKH1o8gzDKQRsoSIBYe7vwb",
+          "filename": "sim_american-masonic-register_1821-01_1_5.pdf",
+          "archive_category": "masonic_periodicals"
+        },
+        {
+          "drive_id": "1JEHtwq6CBIEHxBiCAPupEjQheVd7sZfh",
+          "filename": "sim_american-masonic-register_1820-12_1_4.pdf",
+          "archive_category": "masonic_periodicals"
+        },
+        {
+          "drive_id": "1ejoDbLFPAYLy2BYfCtIKp9Zxzootto6i",
+          "filename": "sim_american-masonic-register_1820-11_1_3.pdf",
+          "archive_category": "masonic_periodicals"
+        },
+        {
+          "drive_id": "1zt2LpVz1OR29Z6NqmoqW789Bid_iXyKq",
+          "filename": "sim_american-masonic-register_1820-10_1_2.pdf",
+          "archive_category": "masonic_periodicals"
+        },
+        {
+          "drive_id": "1qbmWz4oFeXdTNcDTxFKGSnpCeTdSEtQc",
+          "filename": "sim_american-masonic-register_1820_1_contents.pdf",
+          "archive_category": "masonic_periodicals"
+        },
+        {
+          "drive_id": "1-9cq4AEPeMHCKwm_vfdDquKgEaIHpuGZ",
+          "filename": "sim_american-masonic-register_1820-09_1_1.pdf",
+          "archive_category": "masonic_periodicals"
+        },
+        {
+          "drive_id": "1TkoUe4bn6p25jn4aX_WfpJYQTcO1hl-r",
+          "filename": "sim_freemasons-magazine-and-general-miscellany_1812-03_2_6.pdf",
+          "archive_category": "masonic_periodicals"
+        },
+        {
+          "drive_id": "1lTnCcbxjdhvoDoiP3gj2K1d1iwyCrBLi",
+          "filename": "sim_freemasons-magazine-and-general-miscellany_1812-02_2_5.pdf",
+          "archive_category": "masonic_periodicals"
+        },
+        {
+          "drive_id": "1KwcZTKiGvobI5RXhyIKwf_62rqr5atT7",
+          "filename": "sim_freemasons-magazine-and-general-miscellany_1812-01_2_4.pdf",
+          "archive_category": "masonic_periodicals"
+        },
+        {
+          "drive_id": "1P7HJCGmWtO9NUlOTNDcpx09_Ex4xdfVg",
+          "filename": "sim_freemasons-magazine-and-general-miscellany_1811-12_2_3.pdf",
+          "archive_category": "masonic_periodicals"
+        },
+        {
+          "drive_id": "1pqakD2U42PbYU60FAp_swObYasUWbOcC",
+          "filename": "sim_freemasons-magazine-and-general-miscellany_1811-11_2_2.pdf",
+          "archive_category": "masonic_periodicals"
+        },
+        {
+          "drive_id": "1wdo6ELofyXOgXtCg9YODKXksyaxPTal5",
+          "filename": "sim_freemasons-magazine-and-general-miscellany_1811-10_2_1.pdf",
+          "archive_category": "masonic_periodicals"
+        },
+        {
+          "drive_id": "1_jcpAeHo4zgkcfQJn_61QJRFjhMkUILp",
+          "filename": "sim_freemasons-magazine-and-general-miscellany_1811-09_1_6.pdf",
+          "archive_category": "masonic_periodicals"
+        },
+        {
+          "drive_id": "1kjk4SEXOtLATW1Y_8zL_G-VZtzyIonel",
+          "filename": "sim_freemasons-magazine-and-general-miscellany_1811-08_1_5.pdf",
+          "archive_category": "masonic_periodicals"
+        },
+        {
+          "drive_id": "1qyArSpXBcM6EcarCMZbLq-1GMCtMjWIM",
+          "filename": "sim_freemasons-magazine-and-general-miscellany_1811-07_1_4.pdf",
+          "archive_category": "masonic_periodicals"
+        },
+        {
+          "drive_id": "1EvPmBOcsWQbwIgK9iiTT7hqy3-Nmb8M2",
+          "filename": "sim_freemasons-magazine-and-general-miscellany_1811-06_1_3.pdf",
+          "archive_category": "masonic_periodicals"
+        },
+        {
+          "drive_id": "11pYs_yXw8H8jCgW7U9z_XTXizuBcBoJ5",
+          "filename": "sim_freemasons-magazine-and-general-miscellany_1811-05_1_2.pdf",
+          "archive_category": "masonic_periodicals"
+        },
+        {
+          "drive_id": "1Q6WwWIps_gQhM2rGD5idnIF41grASVgy",
+          "filename": "sim_freemasons-magazine-and-general-miscellany_1811-04_1_1.pdf",
+          "archive_category": "masonic_periodicals"
+        }
+      ]
+    },
+    "princeton_seminary_bulletins": {
+      "count": 54,
+      "book_category": "Religion",
+      "in_game_zone": "Archive",
+      "region": "Americas",
+      "notes": "Princeton Seminary Bulletins 1938-1961. Theological and religious scholarship.",
+      "files": [
+        {
+          "drive_id": "1OStQOqCMmBFDJ7V71wT4luh89LknlpIU",
+          "filename": "princeton-seminary-bulletin_1942-03_35_4.pdf",
+          "archive_category": "princeton_seminary_bulletins"
+        },
+        {
+          "drive_id": "1CETTJt1MklajQ4wiCFcYEkYkUIhdIV3r",
+          "filename": "princeton-seminary-bulletin_1942-08_36_1.pdf",
+          "archive_category": "princeton_seminary_bulletins"
+        },
+        {
+          "drive_id": "1ZcdzbjxuBtin4XqOCIzOvL_RxG1JHjac",
+          "filename": "princeton-seminary-bulletin_1943-03_36_4.pdf",
+          "archive_category": "princeton_seminary_bulletins"
+        },
+        {
+          "drive_id": "1NsaJ0YgD-Ai4mDqPwk3j6zXjvvq7wsA0",
+          "filename": "princeton-seminary-bulletin_1943-12_37_1.pdf",
+          "archive_category": "princeton_seminary_bulletins"
+        },
+        {
+          "drive_id": "1X5JMEpucbLAyBvjMXA-vsqPwxy-RGh0Z",
+          "filename": "princeton-seminary-bulletin_1945-11_39_2.pdf",
+          "archive_category": "princeton_seminary_bulletins"
+        },
+        {
+          "drive_id": "1He-ySOH_XbadFBL8rtq7jnq2emQDllfH",
+          "filename": "princeton-seminary-bulletin_1952-10_46_2.pdf",
+          "archive_category": "princeton_seminary_bulletins"
+        },
+        {
+          "drive_id": "1mNP31JR07COS63yPqsH5jrht2hkGezbR",
+          "filename": "princeton-seminary-bulletin_1953-01_46_3.pdf",
+          "archive_category": "princeton_seminary_bulletins"
+        },
+        {
+          "drive_id": "1nfyMiDsaT2VaU4Ru0rVyD6v4I7FEJX7T",
+          "filename": "princeton-seminary-bulletin_1953-04_46_4.pdf",
+          "archive_category": "princeton_seminary_bulletins"
+        },
+        {
+          "drive_id": "1NUamMP4dyWT_P9hbGJEdFP9mfW7LhWCM",
+          "filename": "princeton-seminary-bulletin_1953-10_47_2.pdf",
+          "archive_category": "princeton_seminary_bulletins"
+        },
+        {
+          "drive_id": "1B27VdMdmVEKzlmHUxrQY7s5DglwJKBbm",
+          "filename": "princeton-seminary-bulletin_1954-05_47_4.pdf",
+          "archive_category": "princeton_seminary_bulletins"
+        },
+        {
+          "drive_id": "1op3nhICi616zWXD2e36IdVbMxBn49Irf",
+          "filename": "princeton-seminary-bulletin_1954-05_47_4.pdf",
+          "archive_category": "princeton_seminary_bulletins"
+        },
+        {
+          "drive_id": "1SDrDEoh2NP-3APdmbOHxHU5jDLhtCdwS",
+          "filename": "princeton-seminary-bulletin_1954-10_48_2.pdf",
+          "archive_category": "princeton_seminary_bulletins"
+        },
+        {
+          "drive_id": "194541NezlpH-s5vOeF3sqAzfASapMge1",
+          "filename": "princeton-seminary-bulletin_1955-01_48_3.pdf",
+          "archive_category": "princeton_seminary_bulletins"
+        },
+        {
+          "drive_id": "1Aq2eB1xheam2OYEcPgH7iZyaos4IuKGe",
+          "filename": "princeton-seminary-bulletin_1955-05_48_4.pdf",
+          "archive_category": "princeton_seminary_bulletins"
+        },
+        {
+          "drive_id": "1EQkvI2idGpl9GIalvML-fKlC19l2RVy9",
+          "filename": "princeton-seminary-bulletin_1955-10_49_2.pdf",
+          "archive_category": "princeton_seminary_bulletins"
+        },
+        {
+          "drive_id": "1Q3NXG1tBxXiJjbFYRVYqNAfMw8PgAEbZ",
+          "filename": "princeton-seminary-bulletin_1956-01_49_3.pdf",
+          "archive_category": "princeton_seminary_bulletins"
+        },
+        {
+          "drive_id": "1ABo9G8qNdC_LPZ53vDeGyu1WpsbuibPU",
+          "filename": "princeton-seminary-bulletin_1956-05_49_4.pdf",
+          "archive_category": "princeton_seminary_bulletins"
+        },
+        {
+          "drive_id": "1wIEJMukh2uHNLRTaE_8wYlnPfUAhPbp_",
+          "filename": "princeton-seminary-bulletin_1956-10_50_2.pdf",
+          "archive_category": "princeton_seminary_bulletins"
+        },
+        {
+          "drive_id": "1GYxg1BdepIkUc7DPjHQJpBxWtVUHo45d",
+          "filename": "princeton-seminary-bulletin_1957-02_50_3.pdf",
+          "archive_category": "princeton_seminary_bulletins"
+        },
+        {
+          "drive_id": "1VspZyb_Ara0U5a7otQ15bFgAwQr_MqFn",
+          "filename": "princeton-seminary-bulletin_1957-05_50_4.pdf",
+          "archive_category": "princeton_seminary_bulletins"
+        },
+        {
+          "drive_id": "1afX8eJ_J_d4u4peJsMIjxyX__vDilPmF",
+          "filename": "princeton-seminary-bulletin_1957-10_51_2.pdf",
+          "archive_category": "princeton_seminary_bulletins"
+        },
+        {
+          "drive_id": "1jDKM9YnRzzyMWVHMwlrAQ3aQpZLXEPKW",
+          "filename": "princeton-seminary-bulletin_1958-01_51_3.pdf",
+          "archive_category": "princeton_seminary_bulletins"
+        },
+        {
+          "drive_id": "1ABBFt9d7mDB8zae0cfwVJBksiIR57XF2",
+          "filename": "princeton-seminary-bulletin_1958-05_51_4.pdf",
+          "archive_category": "princeton_seminary_bulletins"
+        },
+        {
+          "drive_id": "1W86Wn4zfTgIyJ-6ztavlUGhfLxp8xc7A",
+          "filename": "princeton-seminary-bulletin_1959-01_52_3.pdf",
+          "archive_category": "princeton_seminary_bulletins"
+        },
+        {
+          "drive_id": "1RgNbgP5FLebf1WdIgMRw3C0zzpAUlLTe",
+          "filename": "princeton-seminary-bulletin_1959-10_53_2.pdf",
+          "archive_category": "princeton_seminary_bulletins"
+        },
+        {
+          "drive_id": "1_PLEwCzPhgWKKdiOploRK1qBI19y37I_",
+          "filename": "princeton-seminary-bulletin_1960-01_53_3.pdf",
+          "archive_category": "princeton_seminary_bulletins"
+        },
+        {
+          "drive_id": "1yZmVutW3rd07eTTDjcXj43hzGxoytZLr",
+          "filename": "princeton-seminary-bulletin_1960-07_54_1.pdf",
+          "archive_category": "princeton_seminary_bulletins"
+        },
+        {
+          "drive_id": "1fEyycXKFaqAHhs28Es3ltx8uTWxgKFub",
+          "filename": "princeton-seminary-bulletin_1960-11_54_2.pdf",
+          "archive_category": "princeton_seminary_bulletins"
+        },
+        {
+          "drive_id": "1svJbw6M0jmCxWrrkDS61j-tx_SggG860",
+          "filename": "princeton-seminary-bulletin_1961-02_54_3.pdf",
+          "archive_category": "princeton_seminary_bulletins"
+        },
+        {
+          "drive_id": "1I4iN22xTH1wSr-vUV7ECcqLPWAM8nPlH",
+          "filename": "princeton-seminary-bulletin_1961-09_55_1.pdf",
+          "archive_category": "princeton_seminary_bulletins"
+        },
+        {
+          "drive_id": "1_JlPCHsPM1Iel920M-PLdfUvf0d9flZU",
+          "filename": "princeton-seminary-bulletin_spring-1946_39_4.pdf",
+          "archive_category": "princeton_seminary_bulletins"
+        },
+        {
+          "drive_id": "1nfzNE6Kb9D1VWmHJDE5pmRDdHwjOvaQ6",
+          "filename": "princeton-seminary-bulletin_spring-1947_40_4.pdf",
+          "archive_category": "princeton_seminary_bulletins"
+        },
+        {
+          "drive_id": "1NfvH3T6nCwQ77QYOBJRjhuXDdNoxnony",
+          "filename": "princeton-seminary-bulletin_spring-1948_41_4.pdf",
+          "archive_category": "princeton_seminary_bulletins"
+        },
+        {
+          "drive_id": "1PYgXkRumULwEzDFYh8FZT_pINiJOejaw",
+          "filename": "princeton-seminary-bulletin_spring-1952_45_4.pdf",
+          "archive_category": "princeton_seminary_bulletins"
+        },
+        {
+          "drive_id": "1n8UP1UYl3L3JLPvuTLYXNY5YwrKwRxSZ",
+          "filename": "princeton-seminary-bulletin_summer-1946_40_1.pdf",
+          "archive_category": "princeton_seminary_bulletins"
+        },
+        {
+          "drive_id": "1oiLgzvbsDY17fmRBRTH3C-hJnP8jaHmC",
+          "filename": "princeton-seminary-bulletin_summer-1947_41_1.pdf",
+          "archive_category": "princeton_seminary_bulletins"
+        },
+        {
+          "drive_id": "1Bzd4BiUns6Ywu0FwjbAJr-jv0R-rB2ar",
+          "filename": "princeton-seminary-bulletin_summer-1948_42_1.pdf",
+          "archive_category": "princeton_seminary_bulletins"
+        },
+        {
+          "drive_id": "1kAoLnOpBYh-xM5VMM74jTELsldV4ioo4",
+          "filename": "princeton-seminary-bulletin_summer-1949_43_1.pdf",
+          "archive_category": "princeton_seminary_bulletins"
+        },
+        {
+          "drive_id": "1Kq2WD_W1Up4Ev5PdY7SJTHAwOkSrrx45",
+          "filename": "princeton-seminary-bulletin_summer-1950_44_1.pdf",
+          "archive_category": "princeton_seminary_bulletins"
+        },
+        {
+          "drive_id": "1rNaxh-HDJ5yR4I5wb1fm6bQx6_VMfeMr",
+          "filename": "princeton-seminary-bulletin_summer-1951_45_1.pdf",
+          "archive_category": "princeton_seminary_bulletins"
+        },
+        {
+          "drive_id": "16ahotenzSoFIIHCKiegk8ZoIRo7XfgRE",
+          "filename": "princeton-seminary-bulletin_winter-1946_40_3.pdf",
+          "archive_category": "princeton_seminary_bulletins"
+        },
+        {
+          "drive_id": "1qofhZRQ8RMBa4iaYh5WbQ5WqJDqyhoMg",
+          "filename": "princeton-seminary-bulletin_winter-1948_41_3.pdf",
+          "archive_category": "princeton_seminary_bulletins"
+        },
+        {
+          "drive_id": "17LgMMV2hnM-SieiRD6YavB4tLHuKweAC",
+          "filename": "princeton-seminary-bulletin_winter-1949_42_3.pdf",
+          "archive_category": "princeton_seminary_bulletins"
+        },
+        {
+          "drive_id": "1NZgDlq7VEppwl1kcPGvVHOgm1YWeqd3x",
+          "filename": "princeton-seminary-bulletin_winter-1950-1951_44_3.pdf",
+          "archive_category": "princeton_seminary_bulletins"
+        },
+        {
+          "drive_id": "1GHTnCwvhA_AKwL7GBCsXlo-sBymdI_HN",
+          "filename": "princeton-seminary-bulletin_winter-1950_43_3.pdf",
+          "archive_category": "princeton_seminary_bulletins"
+        },
+        {
+          "drive_id": "154SXi1TrLDin-qSvdekk8toJ7pHEt3nD",
+          "filename": "princeton-seminary-bulletin_winter-1951-1952_45_3.pdf",
+          "archive_category": "princeton_seminary_bulletins"
+        },
+        {
+          "drive_id": "11guL93y3N9xzN84LuMZYweBaLFgL1f3Z",
+          "filename": "princeton-seminary-bulletin_1942-03_35_4.pdf",
+          "archive_category": "princeton_seminary_bulletins"
+        },
+        {
+          "drive_id": "1hrpy2BAHDmQgVS1mlEy5vfauZbwSOxPf",
+          "filename": "princeton-seminary-bulletin_1941-02_34_4.pdf",
+          "archive_category": "princeton_seminary_bulletins"
+        },
+        {
+          "drive_id": "10Il9hOetTXM5zUZ4a6Rpo6cwULBX1p9g",
+          "filename": "princeton-seminary-bulletin_1941-02_34_4.pdf",
+          "archive_category": "princeton_seminary_bulletins"
+        },
+        {
+          "drive_id": "1-SWsyI2f9FL-fhd0CLYRzSSYdm9iXGGW",
+          "filename": "princeton-seminary-bulletin_1938-06_32_1.pdf",
+          "archive_category": "princeton_seminary_bulletins"
+        },
+        {
+          "drive_id": "1L94WpVLF6Qv1ViEg_7UEIAjdMFbxUp8f",
+          "filename": "princeton-seminary-bulletin_1959-05_52_4.pdf",
+          "archive_category": "princeton_seminary_bulletins"
+        },
+        {
+          "drive_id": "1Oqh6ZHBAc1i520vKj-OCzZQSMfPGH3gt",
+          "filename": "princeton-seminary-bulletin_1959-05_52_4.pdf",
+          "archive_category": "princeton_seminary_bulletins"
+        },
+        {
+          "drive_id": "1Lr09YfSXFTNRiM8I1eBS1li1z84d1K6H",
+          "filename": "princeton-seminary-bulletin_1958-05_51_4.pdf",
+          "archive_category": "princeton_seminary_bulletins"
+        },
+        {
+          "drive_id": "1yxw-7lNV9maTgHTMc5qf1byVYXh1acXV",
+          "filename": "princeton-seminary-bulletin_1942-03_35_4.pdf",
+          "archive_category": "princeton_seminary_bulletins"
+        }
+      ]
+    },
+    "gentlemans_magazine": {
+      "count": 15,
+      "book_category": "History",
+      "in_game_zone": "Archive",
+      "region": "Europe",
+      "notes": "Gentleman's Magazine issues, 18th century. General historical record including politics, science, arts.",
+      "files": [
+        {
+          "drive_id": "10Rdz6eTBUSZuAXmuQmjU0xdEhSZjg7_n",
+          "filename": "gentlemansmagaz00unkngoog.pdf",
+          "archive_category": "gentlemans_magazine"
+        },
+        {
+          "drive_id": "1Ay-5QSNRTwmr6n67FrKJK3jbR7c3ZKKk",
+          "filename": "gentlemansmagaz291unkngoog.pdf",
+          "archive_category": "gentlemans_magazine"
+        },
+        {
+          "drive_id": "14PkjUxJn-5yt3xavnKx_VrTG0KaMxmBM",
+          "filename": "gentlemansmagaz289unkngoog.pdf",
+          "archive_category": "gentlemans_magazine"
+        },
+        {
+          "drive_id": "1IauctBmOPfYo7rV-rEAoNi6YzSI0J1Sq",
+          "filename": "gentlemansmagaz27unkngoog.pdf",
+          "archive_category": "gentlemans_magazine"
+        },
+        {
+          "drive_id": "1FsnrcUoTcdfMkls7hIdH02BCaOO2sjfa",
+          "filename": "gentlemansmagaz269unkngoog.pdf",
+          "archive_category": "gentlemans_magazine"
+        },
+        {
+          "drive_id": "1eCswrS-tcLle50gRFaUejB1wS8gS73aL",
+          "filename": "gentlemansmagaz257unkngoog.pdf",
+          "archive_category": "gentlemans_magazine"
+        },
+        {
+          "drive_id": "1guWi1fCwdXQwIGoEPqU1Cd2jaKJlgaKW",
+          "filename": "gentlemansmagaz24unkngoog.pdf",
+          "archive_category": "gentlemans_magazine"
+        },
+        {
+          "drive_id": "1Wds77Ovd4-2Sa1iqhclnPucDRX9JXjlO",
+          "filename": "gentlemansmagaz244unkngoog.pdf",
+          "archive_category": "gentlemans_magazine"
+        },
+        {
+          "drive_id": "1gXiwTzUq8VV9b4JfY8PGBarKRlXHKBgy",
+          "filename": "gentlemansmagaz213unkngoog.pdf",
+          "archive_category": "gentlemans_magazine"
+        },
+        {
+          "drive_id": "1eKyGQkqVxPNDWtbL2aTpb66_sEt_ARou",
+          "filename": "gentlemansmagaz136unkngoog.pdf",
+          "archive_category": "gentlemans_magazine"
+        },
+        {
+          "drive_id": "1tKKoTbmGztFkJlavLlkhn7m7VZ9Jasfi",
+          "filename": "gentlemansmagaz39unkngoog.pdf",
+          "archive_category": "gentlemans_magazine"
+        },
+        {
+          "drive_id": "1M9dk_cuK8rTsa2LoksI_iNh5rtrPPEJV",
+          "filename": "gentlemansmagaz344unkngoog.pdf",
+          "archive_category": "gentlemans_magazine"
+        },
+        {
+          "drive_id": "1rgE9nLEk_hOLe90As8LtFV5r8thLaZO8",
+          "filename": "gentlemansmagaz91unkngoog.pdf",
+          "archive_category": "gentlemans_magazine"
+        },
+        {
+          "drive_id": "1ejkLUhgCwRsZ4fNSVCLxVpOioimgjM2R",
+          "filename": "gentlemansmagaz333unkngoog.pdf",
+          "archive_category": "gentlemans_magazine"
+        },
+        {
+          "drive_id": "1Zm97KdKIRWqXQ5kXGDiohjikXy94IjCz",
+          "filename": "gentlemansmagaz305unkngoog.pdf",
+          "archive_category": "gentlemans_magazine"
+        }
+      ]
+    },
+    "royal_american_magazine": {
+      "count": 12,
+      "book_category": "History",
+      "in_game_zone": "Archive",
+      "region": "Americas",
+      "notes": "Royal American Magazine 1774, colonial era. Pre-industrial American historical source.",
+      "files": [
+        {
+          "drive_id": "1lBuhMbwzVWnyb7yrL8Sk2eIjJA3JeinA",
+          "filename": "sim_royal-american-magazine-or-universal-repository_1774-12_1_12.pdf",
+          "archive_category": "royal_american_magazine"
+        },
+        {
+          "drive_id": "1tb1-QdsXy0O3Qr9sJ0iTIUYNsiDpTYuI",
+          "filename": "sim_royal-american-magazine-or-universal-repository_1774-11_1_11.pdf",
+          "archive_category": "royal_american_magazine"
+        },
+        {
+          "drive_id": "15IpZADXKiGbEvQRcY0nNxXa4laGyqoBG",
+          "filename": "sim_royal-american-magazine-or-universal-repository_1774-10_1_10.pdf",
+          "archive_category": "royal_american_magazine"
+        },
+        {
+          "drive_id": "1LrLFgvkIYPj6OWtRTpzyv_9H54lpU138",
+          "filename": "sim_royal-american-magazine-or-universal-repository_1774-09_1_9.pdf",
+          "archive_category": "royal_american_magazine"
+        },
+        {
+          "drive_id": "1yhWnseQ3K0AdAysbV-tqnuxQhkhi446a",
+          "filename": "sim_royal-american-magazine-or-universal-repository_1774-08_1_8.pdf",
+          "archive_category": "royal_american_magazine"
+        },
+        {
+          "drive_id": "1zjWhAVIrVCW3OrhNHpFl12H-KTx9iqMJ",
+          "filename": "sim_royal-american-magazine-or-universal-repository_1774-07_1_7.pdf",
+          "archive_category": "royal_american_magazine"
+        },
+        {
+          "drive_id": "1vtdbh1fcnxjGrORCJS-qpDqvPYABG2vw",
+          "filename": "sim_royal-american-magazine-or-universal-repository_1774-06_1_6.pdf",
+          "archive_category": "royal_american_magazine"
+        },
+        {
+          "drive_id": "1-vqjGKowmjAwjj1GpXSmJ_7qm6SYUMO5",
+          "filename": "sim_royal-american-magazine-or-universal-repository_1774-05_1_5.pdf",
+          "archive_category": "royal_american_magazine"
+        },
+        {
+          "drive_id": "1RDQbm0piu-hGTh5-hxPxlmSgMyHge7_Y",
+          "filename": "sim_royal-american-magazine-or-universal-repository_1774-04_1_4.pdf",
+          "archive_category": "royal_american_magazine"
+        },
+        {
+          "drive_id": "1xxYwW48Dq1Flz9xxVqs7JR-bAKKNbENu",
+          "filename": "sim_royal-american-magazine-or-universal-repository_1774-03_1_3.pdf",
+          "archive_category": "royal_american_magazine"
+        },
+        {
+          "drive_id": "1CGE6TYQZJJOGguP8YIQ_35EVrlFg-dmZ",
+          "filename": "sim_royal-american-magazine-or-universal-repository_1774-02_1_2.pdf",
+          "archive_category": "royal_american_magazine"
+        },
+        {
+          "drive_id": "1NB_wwqkdtqSD1f2YqfC5orGvpsscGqpN",
+          "filename": "sim_royal-american-magazine-or-universal-repository_1774-01_1_1.pdf",
+          "archive_category": "royal_american_magazine"
+        }
+      ]
+    },
+    "yale_collections": {
+      "count": 8,
+      "book_category": "Manuscripts",
+      "in_game_zone": "Archive",
+      "region": "Europe/Americas",
+      "notes": "Yale Beinecke Rare Book MS, Yale medical library, Yale Classical Studies. Primary source manuscripts.",
+      "files": [
+        {
+          "drive_id": "1g49J8apeuUB4RLNOIl6fwetrjRWGbSMF",
+          "filename": "39002086347029.med.yale.edu.pdf",
+          "archive_category": "yale_collections"
+        },
+        {
+          "drive_id": "16G0W97_dgJ1fjTo97FkSCrSAjqe2cP8A",
+          "filename": "bim_eighteenth-century_the-laws-of-yale-college_yale-university_1800.pdf",
+          "archive_category": "yale_collections"
+        },
+        {
+          "drive_id": "1IhYv-DG98WURiFRuF19_PZLGmqJel_lh",
+          "filename": "39002086306058.med.yale.edu.pdf",
+          "archive_category": "yale_collections"
+        },
+        {
+          "drive_id": "1SFNrz4w12HK7HuDIbjbBodlJ-vLmyyIa",
+          "filename": "beginningsyale01unkngoog.pdf",
+          "archive_category": "yale_collections"
+        },
+        {
+          "drive_id": "1ByL66ET0S9ZJoMQ0izrJzSRxq9UFxDRw",
+          "filename": "Yale_Classical_Studies.pdf",
+          "archive_category": "yale_collections"
+        },
+        {
+          "drive_id": "1c_0eQ1E1_zSMxXpeDTluSC9m0K-UsTDf",
+          "filename": "BeineckeMS1129_47.pdf",
+          "archive_category": "yale_collections"
+        },
+        {
+          "drive_id": "1OVFtvxwQMM1Y4tYaXbMkNpFS8r5-Urlt",
+          "filename": "LewisEM0282627_4.pdf",
+          "archive_category": "yale_collections"
+        },
+        {
+          "drive_id": "13jQby0rHME_STGQZbTqrkSozWLQPulba",
+          "filename": "collsoci00yale.pdf",
+          "archive_category": "yale_collections"
+        }
+      ]
+    },
+    "missouri_botanical": {
+      "count": 65,
+      "book_category": "Natural History",
+      "in_game_zone": "Archive",
+      "region": "Global",
+      "notes": "Missouri Botanical Garden scans. Botanical and natural history texts, many pre-industrial.",
+      "files": [
+        {
+          "drive_id": "1klLq5TSphi_iBu7RFFm7p--K_8MLGCOL",
+          "filename": "mobot31753002151840.pdf",
+          "archive_category": "missouri_botanical"
+        },
+        {
+          "drive_id": "1P4QES-g5aSinMU1ndnpsa8ps4TWrQ2K5",
+          "filename": "mobot31753002152467.pdf",
+          "archive_category": "missouri_botanical"
+        },
+        {
+          "drive_id": "1jlXaxllgiWDnrygXvFS4UgQWnztyEjtJ",
+          "filename": "mobot31753002152293.pdf",
+          "archive_category": "missouri_botanical"
+        },
+        {
+          "drive_id": "1gXz_Wg-uPS8OP1OitkLND9hEHHr24I1l",
+          "filename": "mobot31753002152335.pdf",
+          "archive_category": "missouri_botanical"
+        },
+        {
+          "drive_id": "11TH-dQCaiARgt4-Hk2xB51_tUzaj95mI",
+          "filename": "mobot31753002152939.pdf",
+          "archive_category": "missouri_botanical"
+        },
+        {
+          "drive_id": "1-q2DsLXCOomSmxCZZomNZpbYQNIzSUIF",
+          "filename": "mobot31753002152863.pdf",
+          "archive_category": "missouri_botanical"
+        },
+        {
+          "drive_id": "12vnLUgBMpY94NIdtYKg8t0tyhERb1mah",
+          "filename": "mobot31753002151865.pdf",
+          "archive_category": "missouri_botanical"
+        },
+        {
+          "drive_id": "13xSzYa3DWIF0nWr8aKNmxJWY3f2wCUy5",
+          "filename": "mobot31753002152913.pdf",
+          "archive_category": "missouri_botanical"
+        },
+        {
+          "drive_id": "1r62eMk0TdG3zq9fNsE_osdbqFVBRW-zc",
+          "filename": "mobot31753002152327.pdf",
+          "archive_category": "missouri_botanical"
+        },
+        {
+          "drive_id": "1aV0pYuc64KIVZ81_REPHu-U1LEWu230B",
+          "filename": "mobot31753002152871.pdf",
+          "archive_category": "missouri_botanical"
+        },
+        {
+          "drive_id": "1jl7dPDLHz_A7pJ4Cnwtt915SxgPdUGgi",
+          "filename": "mobot31753002152236.pdf",
+          "archive_category": "missouri_botanical"
+        },
+        {
+          "drive_id": "1_0v7XgfhKv32VEwnPelmJnpfjAlXn2n-",
+          "filename": "mobot31753002152582.pdf",
+          "archive_category": "missouri_botanical"
+        },
+        {
+          "drive_id": "1pGQI2Tkbp4LOVh8Ifx9-2bJ0IrZfttEm",
+          "filename": "mobot31753002152558.pdf",
+          "archive_category": "missouri_botanical"
+        },
+        {
+          "drive_id": "11YSgstcKp70JNlGhL-xJ3qlk3qHKE9un",
+          "filename": "mobot31753002152475.pdf",
+          "archive_category": "missouri_botanical"
+        },
+        {
+          "drive_id": "1KrZaKdfoUfdNr35DvME1jEOewE0aHouJ",
+          "filename": "mobot31753002152020.pdf",
+          "archive_category": "missouri_botanical"
+        },
+        {
+          "drive_id": "1-z5kZyM0YCWGB2CK-za55TNLrGuNpGCt",
+          "filename": "mobot31753002152954.pdf",
+          "archive_category": "missouri_botanical"
+        },
+        {
+          "drive_id": "1G2O_Z78wQSsflPXQmiFdjVXeQVvy2944",
+          "filename": "mobot31753002152921.pdf",
+          "archive_category": "missouri_botanical"
+        },
+        {
+          "drive_id": "1I11xM8M5tf2noI0kF7WW9rHw_H2gDfPk",
+          "filename": "mobot31753002152889.pdf",
+          "archive_category": "missouri_botanical"
+        },
+        {
+          "drive_id": "1n-SyHhTDIlONoUAb2a1aZycCwR_MTrFt",
+          "filename": "mobot31753002152665.pdf",
+          "archive_category": "missouri_botanical"
+        },
+        {
+          "drive_id": "1q8lyT4sJmw-dSIqStuiwtcF3oWTZBBOE",
+          "filename": "mobot31753002152624.pdf",
+          "archive_category": "missouri_botanical"
+        },
+        {
+          "drive_id": "1Og9Z8J5N3ApUQf6VtsG5TsjONc_pUp7X",
+          "filename": "mobot31753002152368.pdf",
+          "archive_category": "missouri_botanical"
+        },
+        {
+          "drive_id": "1RWxJzISrLI-FTTr8K627uYeLV5Fz6LZF",
+          "filename": "mobot31753002153002.pdf",
+          "archive_category": "missouri_botanical"
+        },
+        {
+          "drive_id": "1S1QKuVY0xgV7HLPXRbM8AoDM7Ysobfh_",
+          "filename": "mobot31753002152277.pdf",
+          "archive_category": "missouri_botanical"
+        },
+        {
+          "drive_id": "1-6v5iPizsAKy3XLfmAX_M_KggQf2bOJy",
+          "filename": "mobot31753002152194.pdf",
+          "archive_category": "missouri_botanical"
+        },
+        {
+          "drive_id": "1QUoM8V0HYLBaTk23kXImQZUIKLhWA_d6",
+          "filename": "mobot31753002152699.pdf",
+          "archive_category": "missouri_botanical"
+        },
+        {
+          "drive_id": "1ldtAMMPCSaWOvztJ5e6Cgt58iKyYWDcG",
+          "filename": "mobot31753002152244.pdf",
+          "archive_category": "missouri_botanical"
+        },
+        {
+          "drive_id": "1rY_2GZ7GclXqq_k8-3E0etNBg4gylkKm",
+          "filename": "mobot31753002151881.pdf",
+          "archive_category": "missouri_botanical"
+        },
+        {
+          "drive_id": "1M1E2az8Qr9uEkPbHkvZhhgpBFhBmEw1c",
+          "filename": "mobot31753002151824.pdf",
+          "archive_category": "missouri_botanical"
+        },
+        {
+          "drive_id": "1U3g_1By8FGnp-AoRC5Hdy5-kRK9uW_vl",
+          "filename": "mobot31753002152640.pdf",
+          "archive_category": "missouri_botanical"
+        },
+        {
+          "drive_id": "1JokMJZIGexW_agmKJToHCGKyul0nZvbb",
+          "filename": "mobot31753002153010.pdf",
+          "archive_category": "missouri_botanical"
+        },
+        {
+          "drive_id": "1DrcgbS8Aegd-EOZlwpNY-El_q8b6nFzC",
+          "filename": "mobot31753002152061.pdf",
+          "archive_category": "missouri_botanical"
+        },
+        {
+          "drive_id": "1-sg_s_EV4TKgIh4IXZa_moqgzb-qjhLN",
+          "filename": "mobot31753002152012.pdf",
+          "archive_category": "missouri_botanical"
+        },
+        {
+          "drive_id": "1o0ZRUyx0EFPwqczMwpZWYYTMhfKa-A7W",
+          "filename": "mobot31753002151998.pdf",
+          "archive_category": "missouri_botanical"
+        },
+        {
+          "drive_id": "1kqN5CcoOyg8GyVszQ0cxVJ1QOM496aOX",
+          "filename": "mobot31753002153028.pdf",
+          "archive_category": "missouri_botanical"
+        },
+        {
+          "drive_id": "1nnb4nBl8Vin9fpoqE0em91c_n1VYUvWx",
+          "filename": "mobot31753002152848.pdf",
+          "archive_category": "missouri_botanical"
+        },
+        {
+          "drive_id": "1gPcvoR-X2RSXg3GRz-S0SFPmhurN9002",
+          "filename": "mobot31753002152830.pdf",
+          "archive_category": "missouri_botanical"
+        },
+        {
+          "drive_id": "1PDrAOowIeBl8uEhUBNij1wFJK09lmW6A",
+          "filename": "mobot31753002152574.pdf",
+          "archive_category": "missouri_botanical"
+        },
+        {
+          "drive_id": "11hVL8pfcERtgtpOGk10zPYODsi4zqBrT",
+          "filename": "mobot31753002152442.pdf",
+          "archive_category": "missouri_botanical"
+        },
+        {
+          "drive_id": "142KK3Gv1xadIh48al4EqoUmsEzihQP0g",
+          "filename": "mobot31753002152269.pdf",
+          "archive_category": "missouri_botanical"
+        },
+        {
+          "drive_id": "1W0gz3ye2LrKik8gbOC21NNwGI05SyIJD",
+          "filename": "mobot31753002152533.pdf",
+          "archive_category": "missouri_botanical"
+        },
+        {
+          "drive_id": "1LgIjp5uBlWlsI0iaocdbL8PLckMeVzw8",
+          "filename": "mobot31753002151915.pdf",
+          "archive_category": "missouri_botanical"
+        },
+        {
+          "drive_id": "15fnUZCnah7x9sXaK7l-kbWgjEihJ-7_w",
+          "filename": "mobot31753002152723.pdf",
+          "archive_category": "missouri_botanical"
+        },
+        {
+          "drive_id": "14z6I7Lh3p7JxsPMuvW2YW8H0Ybd1tOeW",
+          "filename": "mobot31753002152319.pdf",
+          "archive_category": "missouri_botanical"
+        },
+        {
+          "drive_id": "11iMqfVm1zz0MFOHB7S8o8sv6IdK4mj3v",
+          "filename": "mobot31753002152251.pdf",
+          "archive_category": "missouri_botanical"
+        },
+        {
+          "drive_id": "1TwODjqDUUKnATXwUMf0GjRhCOJKH8uJT",
+          "filename": "mobot31753002152046.pdf",
+          "archive_category": "missouri_botanical"
+        },
+        {
+          "drive_id": "1UmflbSCsHBrfUImn5lJrTLqqX1EdhIh-",
+          "filename": "mobot31753002151923.pdf",
+          "archive_category": "missouri_botanical"
+        },
+        {
+          "drive_id": "1ZEQtq_WBjFjgzzku5nFbcb1_PMxzGgHV",
+          "filename": "mobot31753002152608.pdf",
+          "archive_category": "missouri_botanical"
+        },
+        {
+          "drive_id": "1BxPaGFTTBQXtf3z9kf0TkIs1fn1JUdxq",
+          "filename": "mobot31753002152806.pdf",
+          "archive_category": "missouri_botanical"
+        },
+        {
+          "drive_id": "1iAJtCvpkwW9FvlQWTJEbkRjV7RbPRU-y",
+          "filename": "mobot31753002152798.pdf",
+          "archive_category": "missouri_botanical"
+        },
+        {
+          "drive_id": "1hy6cfKczubpNZCfGynwFk_vhj2hsS9E7",
+          "filename": "mobot31753002152707.pdf",
+          "archive_category": "missouri_botanical"
+        },
+        {
+          "drive_id": "1nF2UAlzHVaHGSiqvavPeEIyaiE97iggX",
+          "filename": "mobot31753002152509.pdf",
+          "archive_category": "missouri_botanical"
+        },
+        {
+          "drive_id": "1NeL-dCZTrMDcYGlFRV2oEJdHLRm1Tc3F",
+          "filename": "mobot31753002152095.pdf",
+          "archive_category": "missouri_botanical"
+        },
+        {
+          "drive_id": "1bpHzAYnWzT9PELScG0rm1u2TB6HUNKV6",
+          "filename": "mobot31753002151873.pdf",
+          "archive_category": "missouri_botanical"
+        },
+        {
+          "drive_id": "1BSpAphU8x_FwYzIUfhu54aTdPxf2_t1N",
+          "filename": "mobot31753002152632.pdf",
+          "archive_category": "missouri_botanical"
+        },
+        {
+          "drive_id": "1Gm1N5v9rYjTRwhT-KeY73KsWB_vqQc3W",
+          "filename": "mobot31753002152616.pdf",
+          "archive_category": "missouri_botanical"
+        },
+        {
+          "drive_id": "1snc3mQyd8teF0VJUZZzrNWLpEtOhmLxW",
+          "filename": "mobot31753002153051.pdf",
+          "archive_category": "missouri_botanical"
+        },
+        {
+          "drive_id": "1pysCMFfL6IM-Xcx1guWu_7xn4coV2DF3",
+          "filename": "mobot31753002152905.pdf",
+          "archive_category": "missouri_botanical"
+        },
+        {
+          "drive_id": "1hmfoMRWDSQTmdoMfei7JE0e-k0WlQALM",
+          "filename": "mobot31753002152756.pdf",
+          "archive_category": "missouri_botanical"
+        },
+        {
+          "drive_id": "1lordpcB_NlcOt1DTxhRtOgeJcX8OBVtD",
+          "filename": "mobot31753002152673.pdf",
+          "archive_category": "missouri_botanical"
+        },
+        {
+          "drive_id": "1sd7Z5ae6AQl461pBtMQd4cWX8To_wp0c",
+          "filename": "mobot31753002152418.pdf",
+          "archive_category": "missouri_botanical"
+        },
+        {
+          "drive_id": "1vFNqAEPFPr0zqF0M28L0WBiC3GQFOkfV",
+          "filename": "mobot31753002152384.pdf",
+          "archive_category": "missouri_botanical"
+        },
+        {
+          "drive_id": "1GNyOW0AFPHkkRyuMTgDlZJnqHwzaoIj_",
+          "filename": "mobot31753002152970.pdf",
+          "archive_category": "missouri_botanical"
+        },
+        {
+          "drive_id": "1M7JFrD14ohnS80QZJXpB8zDvNAqAoy7T",
+          "filename": "mobot31753002152228.pdf",
+          "archive_category": "missouri_botanical"
+        },
+        {
+          "drive_id": "1ytpvthA1qvk3U36PTY7i3q6HYlObRYqc",
+          "filename": "mobot31753002152210.pdf",
+          "archive_category": "missouri_botanical"
+        },
+        {
+          "drive_id": "1LdpFr4LhC8h-mXp2Fo4F2QYmZlszz3qS",
+          "filename": "mobot31753002152053.pdf",
+          "archive_category": "missouri_botanical"
+        }
+      ]
+    },
+    "google_books_scans": {
+      "count": 7,
+      "book_category": "Mixed",
+      "in_game_zone": "Archive",
+      "region": "Global",
+      "notes": "University library scans via Google Books. Mixed subjects, need individual review.",
+      "files": [
+        {
+          "drive_id": "1wPmBsROe-lkXvU9GJHowfwyWV630pS8S",
+          "filename": "bub_gb_NUrvQ5oAZ4kC.pdf",
+          "archive_category": "google_books_scans"
+        },
+        {
+          "drive_id": "1A-CiTbDshBcxv3-6gO5I_UWhnxcdzI28",
+          "filename": "bub_gb_na631mATkvMC.pdf",
+          "archive_category": "google_books_scans"
+        },
+        {
+          "drive_id": "15684A8BAHhG9VvYiIA6Z8YxSngm3erCl",
+          "filename": "bub_gb_SNsN_sa2xg0C.pdf",
+          "archive_category": "google_books_scans"
+        },
+        {
+          "drive_id": "1QJGI8MWYsgBrikS1a5G8VAeRDlOhQsJS",
+          "filename": "bub_gb_lAIJAAAAIAAJ.pdf",
+          "archive_category": "google_books_scans"
+        },
+        {
+          "drive_id": "1_8Wfkik9QRu8kq66U5Ep45VBShgt7RaF",
+          "filename": "bub_gb_Rf0IAAAAIAAJ.pdf",
+          "archive_category": "google_books_scans"
+        },
+        {
+          "drive_id": "1KELbjAN3-Nvis_-5SYBFcNcANZOHkpRl",
+          "filename": "bub_gb_j7MEAAAAYAAJ.pdf",
+          "archive_category": "google_books_scans"
+        },
+        {
+          "drive_id": "1tBI78Lyr3wQ5ZDq8TJzlOkthCDPNXGZS",
+          "filename": "bub_gb_nfUQAAAAIAAJ.pdf",
+          "archive_category": "google_books_scans"
+        }
+      ]
+    },
+    "historical_treatises": {
+      "count": 57,
+      "book_category": "History",
+      "in_game_zone": "Archive",
+      "region": "Global",
+      "notes": "Historical treatises, accounts, discourses, and descriptions from pre-industrial era.",
+      "files": [
+        {
+          "drive_id": "1s93OFbg4OWSgWeD1DaTWDb4EZC5iwEHw",
+          "filename": "acriticalessayo00innegoog.pdf",
+          "archive_category": "historical_treatises"
+        },
+        {
+          "drive_id": "1XfNPsEig6L1_jY8el_AZPFW23e_zjPpY",
+          "filename": "outlinesoflectur00buch.pdf",
+          "archive_category": "historical_treatises"
+        },
+        {
+          "drive_id": "1QJwIri4IzGZrBtdaEZgYlSXSf6YvWyNq",
+          "filename": "ananswertoinqui00lanegoog.pdf",
+          "archive_category": "historical_treatises"
+        },
+        {
+          "drive_id": "1bDdiFJD9O3JFyvUclNQSpiJ0kk4B-CSn",
+          "filename": "accountofastrono00unse.pdf",
+          "archive_category": "historical_treatises"
+        },
+        {
+          "drive_id": "1eu9ryataS36RshsIiB_ddCP9vd_H9Uqb",
+          "filename": "viewrussianempi00conggoog.pdf",
+          "archive_category": "historical_treatises"
+        },
+        {
+          "drive_id": "1SrYeCHlgO76YyFX3SOQ2HOpWvGG0TvaZ",
+          "filename": "systematischesal02bnni.pdf",
+          "archive_category": "historical_treatises"
+        },
+        {
+          "drive_id": "17IQMRZ7WzKpAuuXx1LFcTLDkLQMYstAq",
+          "filename": "generalsystemoft00orfi.pdf",
+          "archive_category": "historical_treatises"
+        },
+        {
+          "drive_id": "1tXwSy7KqU9vaEZzys7bDuPvxQdZn09Na",
+          "filename": "acompendiousgra00boswgoog.pdf",
+          "archive_category": "historical_treatises"
+        },
+        {
+          "drive_id": "172FvflNEMPAJF_48XU88vZMxXO5xnI1d",
+          "filename": "aclassicalandhi01unkngoog.pdf",
+          "archive_category": "historical_treatises"
+        },
+        {
+          "drive_id": "1_YTdPwMWAjNC0GpncfrBIdgpxzqK-1wD",
+          "filename": "accusationshist00towngoog.pdf",
+          "archive_category": "historical_treatises"
+        },
+        {
+          "drive_id": "1lvDQayAr1BTj5qQ2BNMtdYsmUStu9Rlh",
+          "filename": "atreatiseonreco02sumngoog.pdf",
+          "archive_category": "historical_treatises"
+        },
+        {
+          "drive_id": "1U-qjYHcVz44O2JgW8y79qhG8Enn4ooc1",
+          "filename": "adescriptionske00socigoog.pdf",
+          "archive_category": "historical_treatises"
+        },
+        {
+          "drive_id": "14-G6ojqrdWWrKyEzEXjcIt-Gdsny0ZMk",
+          "filename": "asecondjourneyr00davigoog.pdf",
+          "archive_category": "historical_treatises"
+        },
+        {
+          "drive_id": "1BLh38IduEnADakOD6ebp6xLFSgT2Sb56",
+          "filename": "anessayonegypti01grangoog.pdf",
+          "archive_category": "historical_treatises"
+        },
+        {
+          "drive_id": "1fNpjNTYlAGZr3t_kRKvT0LTTD1FT7Dno",
+          "filename": "acompaniontosci00joycgoog.pdf",
+          "archive_category": "historical_treatises"
+        },
+        {
+          "drive_id": "16OfBJLThn7rduS1H7_2fRBRZVKrmoHNK",
+          "filename": "ashortviewfirst00browgoog.pdf",
+          "archive_category": "historical_treatises"
+        },
+        {
+          "drive_id": "1qKJUqQoIemEmrUepwg65KtzPnHCxFm_d",
+          "filename": "adiscourseonrel00socigoog.pdf",
+          "archive_category": "historical_treatises"
+        },
+        {
+          "drive_id": "1v8bwE-B5mtBhoqZgeFdPkWzMXK9vKdLf",
+          "filename": "anessayonminera00unkngoog.pdf",
+          "archive_category": "historical_treatises"
+        },
+        {
+          "drive_id": "1w8wJDEq5KIaHCuzFKgZol2fB4f1rjh6D",
+          "filename": "acompendioushis00biglgoog.pdf",
+          "archive_category": "historical_treatises"
+        },
+        {
+          "drive_id": "1yxKsq1-qrajhqTRkGqXnJl6Rrh-ngFUM",
+          "filename": "anhistoricalske00barlgoog.pdf",
+          "archive_category": "historical_treatises"
+        },
+        {
+          "drive_id": "1MQzAHM1lskFCh2mB6efX_ByU8O7F08A3",
+          "filename": "anessayonorigin00halegoog.pdf",
+          "archive_category": "historical_treatises"
+        },
+        {
+          "drive_id": "1JriT8THfBdbqwRrtnexX1iEGiiOqmyNh",
+          "filename": "anhistoricaless00santgoog.pdf",
+          "archive_category": "historical_treatises"
+        },
+        {
+          "drive_id": "1sB92Zv7B5M1IgT3-WYLMYJNuwK2ZGU9y",
+          "filename": "atreatiseonmagn00clargoog.pdf",
+          "archive_category": "historical_treatises"
+        },
+        {
+          "drive_id": "10BQrGr7cWkCRRjuGwhLec5lhi878BnKQ",
+          "filename": "aclassicaltourt14eustgoog.pdf",
+          "archive_category": "historical_treatises"
+        },
+        {
+          "drive_id": "1S83fUYXjk_Qo3q07gg6bxVn8ej7Gnmdg",
+          "filename": "ashortaccountli00cathgoog.pdf",
+          "archive_category": "historical_treatises"
+        },
+        {
+          "drive_id": "1xUoNctg6P1LQh3lx_CZfXB_GJryjSpvf",
+          "filename": "anessayonantiqu00vallgoog.pdf",
+          "archive_category": "historical_treatises"
+        },
+        {
+          "drive_id": "1FkcICt3YgDOzBi7bMLjqyflpXKDck0yd",
+          "filename": "atreatiseonphys00lyongoog.pdf",
+          "archive_category": "historical_treatises"
+        },
+        {
+          "drive_id": "1cXzoaSMNyjaPBpmI9zRti0UQH1M_Lhyn",
+          "filename": "acompaniontoalt01vickgoog.pdf",
+          "archive_category": "historical_treatises"
+        },
+        {
+          "drive_id": "1L7rBXDONgQH8-As7OXBPBDSfeyPQfOOM",
+          "filename": "ashorthistoryan00lamygoog.pdf",
+          "archive_category": "historical_treatises"
+        },
+        {
+          "drive_id": "1Gbw27brMNZl1sa3WzZT7oFEoHB3mkryL",
+          "filename": "anessayonunbeli00churgoog.pdf",
+          "archive_category": "historical_treatises"
+        },
+        {
+          "drive_id": "1pReHVUqs7dymz9CZfSJGwJ4ZMLH0ARhG",
+          "filename": "aviewevidencesc07palegoog.pdf",
+          "archive_category": "historical_treatises"
+        },
+        {
+          "drive_id": "1oGfYljSnVuz1VOOsSQhzfOGhqN6Sxruk",
+          "filename": "anhistoricaldis03robegoog.pdf",
+          "archive_category": "historical_treatises"
+        },
+        {
+          "drive_id": "17Ukd5iS10Y4vLuOoWT-_D5WLya5Jgcl1",
+          "filename": "anewsystemorana04goog.pdf",
+          "archive_category": "historical_treatises"
+        },
+        {
+          "drive_id": "18LXZpYo9uNTiyGaqOdcfGu3tro8ucWrJ",
+          "filename": "atreatiseonorig01aitogoog.pdf",
+          "archive_category": "historical_treatises"
+        },
+        {
+          "drive_id": "1os9iNtXVBQrOzM43Tko1cmRo0z8unZYj",
+          "filename": "anaccountstatue00blungoog.pdf",
+          "archive_category": "historical_treatises"
+        },
+        {
+          "drive_id": "1vevGr10eX-y6wxQ05OFrByMbA4vLbdHz",
+          "filename": "ashortaccountce00kettgoog.pdf",
+          "archive_category": "historical_treatises"
+        },
+        {
+          "drive_id": "1LJCvmMGsitU9RA-jmDcTiJ1WG_phUiJY",
+          "filename": "anaccountmodedr00johngoog.pdf",
+          "archive_category": "historical_treatises"
+        },
+        {
+          "drive_id": "1Rlf8W2Y_lRsRW-UJt1GY7prpIo_3rnmy",
+          "filename": "anhistoricaldis07robegoog.pdf",
+          "archive_category": "historical_treatises"
+        },
+        {
+          "drive_id": "1-HCK8O5jCX7T3Gz6JcDJH_BHFY4gk4y6",
+          "filename": "aviewthisandoth00bostgoog.pdf",
+          "archive_category": "historical_treatises"
+        },
+        {
+          "drive_id": "1OweDJ4YnPgTfp1atQwj5CewN-PikYnCB",
+          "filename": "anhistoricalacc02unkngoog.pdf",
+          "archive_category": "historical_treatises"
+        },
+        {
+          "drive_id": "1gKVkksv75DaKsjyqP2vZOR49UC7qzVoj",
+          "filename": "anhistoricaldes00henrgoog.pdf",
+          "archive_category": "historical_treatises"
+        },
+        {
+          "drive_id": "17zDki2_OH_2xG1oVdMqEphOob3itINZw",
+          "filename": "ashorthistoryfi00chalgoog.pdf",
+          "archive_category": "historical_treatises"
+        },
+        {
+          "drive_id": "1kZf4M3-mPvzqYJRwpampkf-8vgzoaseV",
+          "filename": "anewessayoncivi00wattgoog.pdf",
+          "archive_category": "historical_treatises"
+        },
+        {
+          "drive_id": "1gE9QPOlrcq14xTUZjDoSGDpfSdEZNLoK",
+          "filename": "adiscourseonanc00addigoog.pdf",
+          "archive_category": "historical_treatises"
+        },
+        {
+          "drive_id": "1y3H-UWvVRwC81TysGKyQ6Ttv9BKlcpg-",
+          "filename": "ashortstatecont00shargoog.pdf",
+          "archive_category": "historical_treatises"
+        },
+        {
+          "drive_id": "1yPlIIQWOsq3iY4KlAcHa_9hw71iPX0Gi",
+          "filename": "anhistoricaldis01callgoog.pdf",
+          "archive_category": "historical_treatises"
+        },
+        {
+          "drive_id": "1GoMg2de-VcbZJ64Mf0SfKyeeEkmlBpO9",
+          "filename": "atreatiseonnonn00burtgoog.pdf",
+          "archive_category": "historical_treatises"
+        },
+        {
+          "drive_id": "1D4P7QmMuzdkpgbxiqbMFXpU9kVp7ana2",
+          "filename": "anhistoricalacc00johngoog.pdf",
+          "archive_category": "historical_treatises"
+        },
+        {
+          "drive_id": "1Peq2XPXmWO3kYb_F5U8B5JGlpSmjkkUH",
+          "filename": "adiscourseconce00clargoog.pdf",
+          "archive_category": "historical_treatises"
+        },
+        {
+          "drive_id": "1wB8hNb8MFM23JaWw9knzmfDKTC9McbbD",
+          "filename": "anessayonscript00burngoog.pdf",
+          "archive_category": "historical_treatises"
+        },
+        {
+          "drive_id": "1vQ-8mo7Or5uhcaiIULcWYEI7WefvoVwk",
+          "filename": "anaccountsomest00richgoog.pdf",
+          "archive_category": "historical_treatises"
+        },
+        {
+          "drive_id": "1XbT9ckGNEBu0LKztnlK1eNqgjp2Jt1Ey",
+          "filename": "anessayuponnece00maidgoog.pdf",
+          "archive_category": "historical_treatises"
+        },
+        {
+          "drive_id": "1GzmWd5ppsMwBkF8ngYD2vQ0aglHEjR26",
+          "filename": "anessaytowardsp00mortgoog.pdf",
+          "archive_category": "historical_treatises"
+        },
+        {
+          "drive_id": "1abp7R-6Rk6Ta9hgOroZuTrk0J5EH59vJ",
+          "filename": "adiscourseconce00holdgoog.pdf",
+          "archive_category": "historical_treatises"
+        },
+        {
+          "drive_id": "1PzZfcX9fYKJm4opysUWpfmyDXE9zZ5bt",
+          "filename": "ananswertoalibe00steugoog.pdf",
+          "archive_category": "historical_treatises"
+        },
+        {
+          "drive_id": "1Wgv8cZWY6OmSCHDBMr73S32aRd0RitLc",
+          "filename": "adescriptionsei00housgoog.pdf",
+          "archive_category": "historical_treatises"
+        },
+        {
+          "drive_id": "1hnAYjuZ1_JRTd3FrSGng4dDv7DLKEtHq",
+          "filename": "adescriptionana00browgoog.pdf",
+          "archive_category": "historical_treatises"
+        }
+      ]
+    },
+    "religious_texts": {
+      "count": 7,
+      "book_category": "Religion",
+      "in_game_zone": "Archive",
+      "region": "Global",
+      "notes": "Religious texts including Book of Enoch, Bible translations, theological discourses.",
+      "files": [
+        {
+          "drive_id": "1cdpHh1CBA8EJ8BS4skfw3bUkyOztpj_v",
+          "filename": "bookenochprophe00laurgoog.pdf",
+          "archive_category": "religious_texts"
+        },
+        {
+          "drive_id": "1F9wa3bCVR0n8IAVTVrZcsFEHCjMr3_zh",
+          "filename": "religiousconsti00clapgoog.pdf",
+          "archive_category": "religious_texts"
+        },
+        {
+          "drive_id": "12U8nDtqJFqryAhUBP-xkLFHo5A3kMVAv",
+          "filename": "bookenochprophe00laurgoog.pdf",
+          "archive_category": "religious_texts"
+        },
+        {
+          "drive_id": "1EnVuMIt3fd0AUSP38BnA7bcFKIloOAnY",
+          "filename": "anecclesiastica03unkngoog.pdf",
+          "archive_category": "religious_texts"
+        },
+        {
+          "drive_id": "1Yv9iukwmBzxSHTwuHiD4XGrr63KKabLi",
+          "filename": "achristianlreat00unkngoog.pdf",
+          "archive_category": "religious_texts"
+        },
+        {
+          "drive_id": "1cdI_ExQb9J5CKzTOYyJ_wF8p6oTAhfDN",
+          "filename": "adefencedivines00presgoog.pdf",
+          "archive_category": "religious_texts"
+        },
+        {
+          "drive_id": "1QvdoPSMpn0lvpyHXkkrwYUeALJzGHz8H",
+          "filename": "bibleinmanytong00unkngoog.pdf",
+          "archive_category": "religious_texts"
+        }
+      ]
+    },
+    "sacred_geometry": {
+      "count": 3,
+      "book_category": "Sacred Geometry",
+      "in_game_zone": "Upstairs",
+      "region": "Global",
+      "notes": "Sacred geometry reference materials. Directly relevant to the Cosmology level and Camelot alchemy.",
+      "files": [
+        {
+          "drive_id": "1haXfioGiyNso3dXAqzkFkthqZ-_NHYib",
+          "filename": "sacred geometry summary.pdf",
+          "archive_category": "sacred_geometry"
+        },
+        {
+          "drive_id": "1BWFwtaW2CzcHEDWHSUsH3dHEUV_47B_P",
+          "filename": "sacred geometry summary.pdf",
+          "archive_category": "sacred_geometry"
+        },
+        {
+          "drive_id": "1Q5nu42oZCJbf8p6IVHQ5EGUf6CsEWFOe",
+          "filename": "sacred geometry summary.pdf",
+          "archive_category": "sacred_geometry"
+        }
+      ]
+    },
+    "other_periodicals": {
+      "count": 3,
+      "book_category": "History",
+      "in_game_zone": "Archive",
+      "region": "Americas",
+      "notes": "Early American periodicals including Columbian Museum, Juvenile Miscellany, Peoples Journal.",
+      "files": [
+        {
+          "drive_id": "12j7Ti_hRefyh9JTYrZIW2q9jhWE6SV_5",
+          "filename": "sim_columbian-museum-or-universal-asylum_1793-01.pdf",
+          "archive_category": "other_periodicals"
+        },
+        {
+          "drive_id": "1re_AAdXULAz1LcpyFp_PVcrMrKyY0EC_",
+          "filename": "sim_fly-or-juvenile-miscellany_1806-04-02_1_13.pdf",
+          "archive_category": "other_periodicals"
+        },
+        {
+          "drive_id": "12zUtkjd7SO8ma9dBdNtOMfcnmGydFjS6",
+          "filename": "sim_american-peoples-journal-of-science-literature-and-art_1850-02_1_2.pdf",
+          "archive_category": "other_periodicals"
+        }
+      ]
+    },
+    "miscellaneous_historical": {
+      "count": 167,
+      "book_category": "History",
+      "in_game_zone": "Archive",
+      "region": "Global",
+      "notes": "Miscellaneous historical texts needing individual review for proper categorization. Many are pre-industrial primary sources from Google Books and university library scans.",
+      "files": [
+        {
+          "drive_id": "1ItO0x5rit6qrj2qdIH8IPwnHN-nVby-n",
+          "filename": "tobecontinuedann00unit.pdf",
+          "archive_category": "miscellaneous_historical"
+        },
+        {
+          "drive_id": "1N7CHdGm8YTe05npRh6Ukye5z-rk22pmL",
+          "filename": "keytofirstchart00parmgoog.pdf",
+          "archive_category": "miscellaneous_historical"
+        },
+        {
+          "drive_id": "1oMCEA6hoVyhtuyfl3zkXegC3cs32_QKa",
+          "filename": "anuniversalhist08unkngoog.pdf",
+          "archive_category": "miscellaneous_historical"
+        },
+        {
+          "drive_id": "1zx8x4AIXXi4VT1zqxGV3edYAs80e6oUg",
+          "filename": "anuniversalhist39swingoog.pdf",
+          "archive_category": "miscellaneous_historical"
+        },
+        {
+          "drive_id": "13ABdyU_uDlA6ODbkRMLhjODRC6hSimF2",
+          "filename": "universalmagazi04unkngoog.pdf",
+          "archive_category": "miscellaneous_historical"
+        },
+        {
+          "drive_id": "1gQe8s3eDRmUdfhvmgWfjjs4Y7HlKqPw8",
+          "filename": "anuniversalhist00unkngoog.pdf",
+          "archive_category": "miscellaneous_historical"
+        },
+        {
+          "drive_id": "1v4gWnHuYbw2Wr_Z5Z6jHAzMlcsil48kk",
+          "filename": "historyarianism01websgoog.pdf",
+          "archive_category": "miscellaneous_historical"
+        },
+        {
+          "drive_id": "1Wy9xeMUv6TQKOZ0waLJq-vbOs5F2oL4o",
+          "filename": "miscellaneacuri00hallgoog.pdf",
+          "archive_category": "miscellaneous_historical"
+        },
+        {
+          "drive_id": "1Rg6BDPHt7e8YbOLON-dINU8tRO8dj0r2",
+          "filename": "secrethistoryeu00oldmgoog.pdf",
+          "archive_category": "miscellaneous_historical"
+        },
+        {
+          "drive_id": "18FtRi10HIBc91YqlCU9QL1Spcvr_hvyg",
+          "filename": "rbsc_lc_new-discovery-country-america_lande00423.pdf",
+          "archive_category": "miscellaneous_historical"
+        },
+        {
+          "drive_id": "1lA0npbmJRrdR9r4Zit8UPvNMDytBkUQ5",
+          "filename": "rbsc_roman-forgeries_BX1763T731673.pdf",
+          "archive_category": "miscellaneous_historical"
+        },
+        {
+          "drive_id": "1eI5GTFOd9XqRNz5yMSWqnVgMXpyBD_eL",
+          "filename": "2009gen12345.pdf",
+          "archive_category": "miscellaneous_historical"
+        },
+        {
+          "drive_id": "1diAt4ydQhEAsM4QZSxHy7d5-br8yw8YQ",
+          "filename": "AgnesePortolanAtlasLOC1544.pdf",
+          "archive_category": "miscellaneous_historical"
+        },
+        {
+          "drive_id": "1OcojgSDHXjEcN8qrLoYKdMxQ3Y1mmUIJ",
+          "filename": "americandispensa1827coxe.pdf",
+          "archive_category": "miscellaneous_historical"
+        },
+        {
+          "drive_id": "1uylG7DzVRuWejB7ecz537BKGyyPMvqf9",
+          "filename": "The Free Mason examind; or, The world brought out of -- by Alexander Slade -- ( WeLib.org ).pdf",
+          "archive_category": "miscellaneous_historical"
+        },
+        {
+          "drive_id": "1rMbATtxI7oedeJWVun_5sEprZRweRycH",
+          "filename": "americanjournalo1002unse.pdf",
+          "archive_category": "miscellaneous_historical"
+        },
+        {
+          "drive_id": "1v8VGvcG-v3W_OUEPSS4royT8CPzVx3zu",
+          "filename": "ahistoryinventi05beckgoog.pdf",
+          "archive_category": "miscellaneous_historical"
+        },
+        {
+          "drive_id": "1hgQGS2sbGFenlICAyhnvLbKn53JP2Hox",
+          "filename": "codexmedicamenta42sche.pdf",
+          "archive_category": "miscellaneous_historical"
+        },
+        {
+          "drive_id": "1NbtIrFfDPfOnKFghKdYl22Uv5ErHKpU0",
+          "filename": "memoirsconnecti02univgoog.pdf",
+          "archive_category": "miscellaneous_historical"
+        },
+        {
+          "drive_id": "12pAYRino8QuRqw79Xl5UWIJyUrHA6BBG",
+          "filename": "memoirsofconnect45191516conn.pdf",
+          "archive_category": "miscellaneous_historical"
+        },
+        {
+          "drive_id": "1LLP7b8n9nrX_Vou0Zr4KMzQATco42ntk",
+          "filename": "pupilsguidetopr00grougoog.pdf",
+          "archive_category": "miscellaneous_historical"
+        },
+        {
+          "drive_id": "1ah_lGUqevMVAcUxee0R1ETgL3_q51Qed",
+          "filename": "ancientmodernhis00unse.pdf",
+          "archive_category": "miscellaneous_historical"
+        },
+        {
+          "drive_id": "1pRQD2Jdg0i_lqoMYEU0JwXdDean317cB",
+          "filename": "wsb8f20.pdf",
+          "archive_category": "miscellaneous_historical"
+        },
+        {
+          "drive_id": "1ly1VH_prYJB0fzJZLFuUBykZqc6uT9iA",
+          "filename": "27077868_5937.pdf",
+          "archive_category": "miscellaneous_historical"
+        },
+        {
+          "drive_id": "1mYyPy49rFSjNwMm7Mkq1bm3fHPCV5l-C",
+          "filename": "textbookfordomes00morg.pdf",
+          "archive_category": "miscellaneous_historical"
+        },
+        {
+          "drive_id": "1fezk6YTKlS1cXw146DwzjH4dlgrsHlJ1",
+          "filename": "annalsorhistory00clapgoog.pdf",
+          "archive_category": "miscellaneous_historical"
+        },
+        {
+          "drive_id": "1KDP2AXXfatxiRAa8lze8ZglwPsLdMkRu",
+          "filename": "caseofopposition00amhuuoft.pdf",
+          "archive_category": "miscellaneous_historical"
+        },
+        {
+          "drive_id": "13Vpd0KZcl2gNmVF17q_iBAt4zaG8HwcJ",
+          "filename": "b20665945_0002.pdf",
+          "archive_category": "miscellaneous_historical"
+        },
+        {
+          "drive_id": "1ekUDO8ZhfDXYNboW0K0RmotQCvBsHaIK",
+          "filename": "universalformula1850grif.pdf",
+          "archive_category": "miscellaneous_historical"
+        },
+        {
+          "drive_id": "1AXRQR0l3MY5VYphaKZakP7P_TuAAaU87",
+          "filename": "universalformula1850grif.pdf",
+          "archive_category": "miscellaneous_historical"
+        },
+        {
+          "drive_id": "1w0IS-uLQi3GE8Zn12aUm8kf4SGr942cg",
+          "filename": "legendsmontauk00ayregoog.pdf",
+          "archive_category": "miscellaneous_historical"
+        },
+        {
+          "drive_id": "1H2G6-uX2XnG2kzLS5Ihto-7aq4xCxOqL",
+          "filename": "ahistoryinventi05beckgoog.pdf",
+          "archive_category": "miscellaneous_historical"
+        },
+        {
+          "drive_id": "1IfA9vwuqtaiMbjz_bCBERXcGBc38k51O",
+          "filename": "Voynich Manuscript coding and decoding methods.pdf",
+          "archive_category": "miscellaneous_historical"
+        },
+        {
+          "drive_id": "1gOpq5y-GMegPZrERgAKWX_StEFo0oNZS",
+          "filename": "Voynich Manuscript.pdf",
+          "archive_category": "miscellaneous_historical"
+        },
+        {
+          "drive_id": "1yXBTq9yoWdN7bUzigl7DKpP6xAVq6DEd",
+          "filename": "anexplanationtw00servgoog.pdf",
+          "archive_category": "miscellaneous_historical"
+        },
+        {
+          "drive_id": "1_oN6kmLlsxV8GtoY0Q5bIkHXTCZorFm6",
+          "filename": "analphabeticall00clubgoog.pdf",
+          "archive_category": "miscellaneous_historical"
+        },
+        {
+          "drive_id": "1j3CJ66CYxdgMVk5sFVCgaCvc1ynJ2dC3",
+          "filename": "atouringermanya00russgoog.pdf",
+          "archive_category": "miscellaneous_historical"
+        },
+        {
+          "drive_id": "1rOgv7W6Cse0_UT9fci471LYG0X1sNDv6",
+          "filename": "ahistoryearthan06goldgoog.pdf",
+          "archive_category": "miscellaneous_historical"
+        },
+        {
+          "drive_id": "1p93T9OslqHA-CeCL17QHAcVjKfARgWTQ",
+          "filename": "anenglishschool00hortgoog.pdf",
+          "archive_category": "miscellaneous_historical"
+        },
+        {
+          "drive_id": "1RwVzWHZTSOubiUh3WLj1skKW4vLtqMiA",
+          "filename": "ahistoryuniteds00goog.pdf",
+          "archive_category": "miscellaneous_historical"
+        },
+        {
+          "drive_id": "1L4ffc_7lViqQlzV-C4ts7dotwjap4jWk",
+          "filename": "bravobohemiaorb00unkngoog.pdf",
+          "archive_category": "miscellaneous_historical"
+        },
+        {
+          "drive_id": "1G4bRNsj0czfa5VoTfCTJ3WfYnYMLIuEc",
+          "filename": "anastasiusormem15hopegoog.pdf",
+          "archive_category": "miscellaneous_historical"
+        },
+        {
+          "drive_id": "1ih4OPKeXtVJFxUIOJYn0nmY9EEdxkBbG",
+          "filename": "anetractatapart00chrogoog.pdf",
+          "archive_category": "miscellaneous_historical"
+        },
+        {
+          "drive_id": "1UWToHguYZRlXRAkhAZyVV2Z6V346BPk9",
+          "filename": "browniebodsbeck01hogggoog.pdf",
+          "archive_category": "miscellaneous_historical"
+        },
+        {
+          "drive_id": "1_pNbD5L_QL_ENz0oQonab19GAr9u-KbJ",
+          "filename": "booksellerscata02unkngoog.pdf",
+          "archive_category": "miscellaneous_historical"
+        },
+        {
+          "drive_id": "1-W4yoXIEQMx12t17N_OfEs6dnk7G9ZfC",
+          "filename": "anautumnnearrhi02doddgoog.pdf",
+          "archive_category": "miscellaneous_historical"
+        },
+        {
+          "drive_id": "1LyVxHbBFhYm-55-KTMhdOx5bSRLT1-8Q",
+          "filename": "acollectionarmo01richgoog.pdf",
+          "archive_category": "miscellaneous_historical"
+        },
+        {
+          "drive_id": "1DxO0oBcA7usvtVPBeTzppRNyMdDLabGt",
+          "filename": "abriefsketchvar00sankgoog.pdf",
+          "archive_category": "miscellaneous_historical"
+        },
+        {
+          "drive_id": "1wP-sqnp5VJ4_s2VU30C1Pie4dfkL-Ymb",
+          "filename": "anintroductiont00bonngoog.pdf",
+          "archive_category": "miscellaneous_historical"
+        },
+        {
+          "drive_id": "1CxzDJmv8GBZki2wvC7m1b_VQZv1Dq4XV",
+          "filename": "beauchamporwhee00fielgoog.pdf",
+          "archive_category": "miscellaneous_historical"
+        },
+        {
+          "drive_id": "1-CZ9Oaq1s4zDy6vLl_OkoMZ0tCujj8b5",
+          "filename": "astatementcircu00burrgoog.pdf",
+          "archive_category": "miscellaneous_historical"
+        },
+        {
+          "drive_id": "1jy0kA4usIOT61nKAvoV89R6sMuf8Of6x",
+          "filename": "americanmedical00bigegoog.pdf",
+          "archive_category": "miscellaneous_historical"
+        },
+        {
+          "drive_id": "1Vl5BvUsCOcjD0ddIWqMUqkbT68esmfE4",
+          "filename": "alawgrammarorru00jacogoog.pdf",
+          "archive_category": "miscellaneous_historical"
+        },
+        {
+          "drive_id": "1whgPDlSSXDKN-d7VebEnG9aDimMY1DII",
+          "filename": "adissertationon00maitgoog.pdf",
+          "archive_category": "miscellaneous_historical"
+        },
+        {
+          "drive_id": "1tsad7JCLDo5CHpDVP-MC0_2B5qb7Ofee",
+          "filename": "ahistoryearthan18goldgoog.pdf",
+          "archive_category": "miscellaneous_historical"
+        },
+        {
+          "drive_id": "1YwQnKLynTJDlc4QIqD7z5joV-zt7EFoV",
+          "filename": "antiquarianitin00unkngoog.pdf",
+          "archive_category": "miscellaneous_historical"
+        },
+        {
+          "drive_id": "15lHIYP00qsa-gL-ZlU7eHB9IH7TUqVFH",
+          "filename": "antiquary20unkngoog.pdf",
+          "archive_category": "miscellaneous_historical"
+        },
+        {
+          "drive_id": "18scYeO1BILKjPOPM4x-piEGF5FeIWBZZ",
+          "filename": "antiquaryvolume00scotgoog.pdf",
+          "archive_category": "miscellaneous_historical"
+        },
+        {
+          "drive_id": "1sJ1QZhPC4D9Rnq7t3QQD9FyWeKRBsuFD",
+          "filename": "ageographicalvi00smitgoog.pdf",
+          "archive_category": "miscellaneous_historical"
+        },
+        {
+          "drive_id": "1IUV3QqxI_CvnZ5eR7y1n_qtWkAEsINGw",
+          "filename": "achronologicala03molegoog.pdf",
+          "archive_category": "miscellaneous_historical"
+        },
+        {
+          "drive_id": "1n1xsoOkxj0FTY1i3w0WlaEc8YCR8ytyG",
+          "filename": "anewintroductio00intrgoog.pdf",
+          "archive_category": "miscellaneous_historical"
+        },
+        {
+          "drive_id": "1htvvpmdfidVLDrQifpknpLGgrIg3zSmq",
+          "filename": "ancientreliques00religoog.pdf",
+          "archive_category": "miscellaneous_historical"
+        },
+        {
+          "drive_id": "1ISsNMi5Iq6FbbIgSAHaj4pdZb1LvOPQK",
+          "filename": "asketchdenomina02evangoog.pdf",
+          "archive_category": "miscellaneous_historical"
+        },
+        {
+          "drive_id": "1Vrpg9-nnFxhyzf9M4DQDvMxQoIsnckrD",
+          "filename": "anecdotesmanner09malcgoog.pdf",
+          "archive_category": "miscellaneous_historical"
+        },
+        {
+          "drive_id": "1dT-mfnxS8VFsHFck0vvi_rUt6rXD4Y3M",
+          "filename": "aportablecyclop00watkgoog.pdf",
+          "archive_category": "miscellaneous_historical"
+        },
+        {
+          "drive_id": "139aYhItD-3MyHKfPA_PGfN6QN7IuEsPa",
+          "filename": "antiquitiesangl02linggoog.pdf",
+          "archive_category": "miscellaneous_historical"
+        },
+        {
+          "drive_id": "11Qvs8sPCehVVhkeGQXcaPhu6OcDLv1m4",
+          "filename": "ahistorywitches00coungoog.pdf",
+          "archive_category": "miscellaneous_historical"
+        },
+        {
+          "drive_id": "1wISbES_PJ02OTNKkJB-0wUEw2zB5ovBI",
+          "filename": "atractchieflyre01dalygoog.pdf",
+          "archive_category": "miscellaneous_historical"
+        },
+        {
+          "drive_id": "1K8P5fM1eeCV1m3TTO3PmLeqfIw2nuekT",
+          "filename": "anewdictionarye00unkngoog.pdf",
+          "archive_category": "miscellaneous_historical"
+        },
+        {
+          "drive_id": "1qidxmkwmsW-2g2ln8viomtRZEPlDEcNP",
+          "filename": "anintroductiont01neilgoog.pdf",
+          "archive_category": "miscellaneous_historical"
+        },
+        {
+          "drive_id": "19p6c7pa0kYjViIzjefjKNtk60KuVv4Mg",
+          "filename": "anecdoteslitera00unkngoog.pdf",
+          "archive_category": "miscellaneous_historical"
+        },
+        {
+          "drive_id": "1vTszObJDduDDYgakgxMCmIUN-VtIcp8Y",
+          "filename": "antiquarianandt10greigoog.pdf",
+          "archive_category": "miscellaneous_historical"
+        },
+        {
+          "drive_id": "1_NiEywEB6WucKWKgssmtzwmt20vCIbtz",
+          "filename": "ancienthistoric00ballgoog.pdf",
+          "archive_category": "miscellaneous_historical"
+        },
+        {
+          "drive_id": "10qHaoOTo6plY8S4SxqLAnkkg22UKJ8py",
+          "filename": "acollectionepit01collgoog.pdf",
+          "archive_category": "miscellaneous_historical"
+        },
+        {
+          "drive_id": "1wbs0N6iTWWY1jLCgIJ2ZmfDUj8Ik9h40",
+          "filename": "anorthernsummer00carrgoog.pdf",
+          "archive_category": "miscellaneous_historical"
+        },
+        {
+          "drive_id": "1Lboh5RySsTx6Ttb6PnGVRiEGcNejncBK",
+          "filename": "ancientalphabet00conggoog.pdf",
+          "archive_category": "miscellaneous_historical"
+        },
+        {
+          "drive_id": "1MvOciHSocmnRdqqJRya-NJmg5hbJVkRK",
+          "filename": "anenglishandwel01richgoog.pdf",
+          "archive_category": "miscellaneous_historical"
+        },
+        {
+          "drive_id": "13CDawDFdxgxB-Cu9MPouF4eDXm8L5kwj",
+          "filename": "apracticalgramm00kellgoog.pdf",
+          "archive_category": "miscellaneous_historical"
+        },
+        {
+          "drive_id": "1gyH2UoD3RlesfSe2GGhMT337B4UA_NYU",
+          "filename": "booknatureortru01jonegoog.pdf",
+          "archive_category": "miscellaneous_historical"
+        },
+        {
+          "drive_id": "1yuxriRZFDzYNk7lkrVyw2v3IRMbormWv",
+          "filename": "argonauticstrin01apolgoog.pdf",
+          "archive_category": "miscellaneous_historical"
+        },
+        {
+          "drive_id": "1GajjcVowLNd5I5bRWmg0n7a6pr6OZ7M9",
+          "filename": "ancientempirest00empigoog.pdf",
+          "archive_category": "miscellaneous_historical"
+        },
+        {
+          "drive_id": "1OWssHCjaj4UQQF93ZLoBljnF1tmMH6lD",
+          "filename": "anarrativeextra02campgoog.pdf",
+          "archive_category": "miscellaneous_historical"
+        },
+        {
+          "drive_id": "1BL8EjuXMYDS-3jAhVW_LVh8j7jL8Qhs4",
+          "filename": "anillustrationr00warngoog.pdf",
+          "archive_category": "miscellaneous_historical"
+        },
+        {
+          "drive_id": "1oPYx_LJ5I97MmljQxlq4dfsJeoHxFyWg",
+          "filename": "acompletedictio00unkngoog.pdf",
+          "archive_category": "miscellaneous_historical"
+        },
+        {
+          "drive_id": "1qyGGx-QaPKenYrXzlIkJxRDNswXUYhKA",
+          "filename": "aegyptiacaorobs00whitgoog.pdf",
+          "archive_category": "miscellaneous_historical"
+        },
+        {
+          "drive_id": "1mO2zw6SUXqllPYx2ALbivKAm3EmJaZ8D",
+          "filename": "anepitomeastron00walkgoog.pdf",
+          "archive_category": "miscellaneous_historical"
+        },
+        {
+          "drive_id": "1ZOHMxmhp-WQw1MwIEiZJMX_Ob-r6Ywyk",
+          "filename": "ancienthistorye11unkngoog.pdf",
+          "archive_category": "miscellaneous_historical"
+        },
+        {
+          "drive_id": "1HuO9AYbFsE5W7kz99579QS4pPvX2RnC_",
+          "filename": "anecdotesartsin01dallgoog.pdf",
+          "archive_category": "miscellaneous_historical"
+        },
+        {
+          "drive_id": "1DTxf1cPG-O-x1es02U2BhvXXUdYnHjNW",
+          "filename": "annalsmedicinef00duncgoog.pdf",
+          "archive_category": "miscellaneous_historical"
+        },
+        {
+          "drive_id": "1BpeOPG3ActfUV3tTF2dhWzz95VVtwun5",
+          "filename": "atmosphereandat00dickgoog.pdf",
+          "archive_category": "miscellaneous_historical"
+        },
+        {
+          "drive_id": "17HO1PKhDFdM4tu0cIZN8NPrQ6-CrQ1An",
+          "filename": "alypiustagaste00webbgoog.pdf",
+          "archive_category": "miscellaneous_historical"
+        },
+        {
+          "drive_id": "1yluV2DndNg64CzdSswxppTUIzJvwybsr",
+          "filename": "ancientjerusale00kittgoog.pdf",
+          "archive_category": "miscellaneous_historical"
+        },
+        {
+          "drive_id": "1hqgGP3IZEx8lYJtz0Gm-c4ontKbgE7wp",
+          "filename": "biblicalatlasco00unkngoog.pdf",
+          "archive_category": "miscellaneous_historical"
+        },
+        {
+          "drive_id": "1iNx8zrRESEIwetvpZh36wHizM7dlQmAT",
+          "filename": "aglanceathistor00bichgoog.pdf",
+          "archive_category": "miscellaneous_historical"
+        },
+        {
+          "drive_id": "1akMueiYqCmld1tlwCMC0686JIUnNGcr5",
+          "filename": "britishsynonymy04piozgoog.pdf",
+          "archive_category": "miscellaneous_historical"
+        },
+        {
+          "drive_id": "1bIYuEYF76bb0Zo3SnpKKaADTa39zxKAO",
+          "filename": "anattempttoprov00ashdgoog.pdf",
+          "archive_category": "miscellaneous_historical"
+        },
+        {
+          "drive_id": "1UFjJHHfVUqA7GV2U3NncuS_2ovivE4Ox",
+          "filename": "adventuressirla00smolgoog.pdf",
+          "archive_category": "miscellaneous_historical"
+        },
+        {
+          "drive_id": "1Ww7NYYYFkOPiqdbs3tR7DlbUTMEcbJyZ",
+          "filename": "anewguidetoengl01dilwgoog.pdf",
+          "archive_category": "miscellaneous_historical"
+        },
+        {
+          "drive_id": "1th-MwEkH5LmkReAkk1WEmHULhFmnJQBi",
+          "filename": "antiquarestaura00moulgoog.pdf",
+          "archive_category": "miscellaneous_historical"
+        },
+        {
+          "drive_id": "1V2uVWYkMM8Bwzl6j_P2NLfUvZFBWcnW-",
+          "filename": "anintroductiont00cockgoog.pdf",
+          "archive_category": "miscellaneous_historical"
+        },
+        {
+          "drive_id": "1iP25RpRas3r6WPo1RK4vVK6dT_wDjl7O",
+          "filename": "anattempttoasce00warngoog.pdf",
+          "archive_category": "miscellaneous_historical"
+        },
+        {
+          "drive_id": "1gNHicV4tBtPs6jhiQXbTiB94nPrlyZvg",
+          "filename": "asuccinctaccoun00heckgoog.pdf",
+          "archive_category": "miscellaneous_historical"
+        },
+        {
+          "drive_id": "182XYGgKSKwSjRvurIQNem6jJXPgknwG5",
+          "filename": "acurioushierogl00unkngoog.pdf",
+          "archive_category": "miscellaneous_historical"
+        },
+        {
+          "drive_id": "1c1kuIYeKy8-fH99Uit6Gvt1I7UrB3jtu",
+          "filename": "archaeologiacor01prycgoog.pdf",
+          "archive_category": "miscellaneous_historical"
+        },
+        {
+          "drive_id": "1U8fesju6Cfaj4_ZbEa0VlQJRL5Upsx7J",
+          "filename": "anewhistorygrec00johngoog.pdf",
+          "archive_category": "miscellaneous_historical"
+        },
+        {
+          "drive_id": "1oPQAtvSrMK0_MFV-bOIkiXF8_GIAFjbe",
+          "filename": "anewpocketcompa04unkngoog.pdf",
+          "archive_category": "miscellaneous_historical"
+        },
+        {
+          "drive_id": "1EQSu8WgbUVwdJf1hblUEYiJaECuAvv93",
+          "filename": "anuniversalhist05histgoog.pdf",
+          "archive_category": "miscellaneous_historical"
+        },
+        {
+          "drive_id": "1LiPdF53fM-XI6ZAs3yY_J4LwHF0Hrrme",
+          "filename": "ahistoryanddefe00unkngoog.pdf",
+          "archive_category": "miscellaneous_historical"
+        },
+        {
+          "drive_id": "1gDe9Z3VqFGNoGrIbwlb4SgDag_ZseGeQ",
+          "filename": "acandiddisquisi00calcgoog.pdf",
+          "archive_category": "miscellaneous_historical"
+        },
+        {
+          "drive_id": "1Z0SHifLqk5T86kQhpJm-0t_Ybx4fELrR",
+          "filename": "ajournalavoyage00unkngoog.pdf",
+          "archive_category": "miscellaneous_historical"
+        },
+        {
+          "drive_id": "1EX5gNlMTIBOjragR9BHmx82lGcf9DXdq",
+          "filename": "anothertravller00pategoog.pdf",
+          "archive_category": "miscellaneous_historical"
+        },
+        {
+          "drive_id": "1UyxukA6wDFtdWjC_0xohGQP0zz8ESN4b",
+          "filename": "antiquitiesabbe00sandgoog.pdf",
+          "archive_category": "miscellaneous_historical"
+        },
+        {
+          "drive_id": "1RBnuDQ4pU9tLAda0x7kmLWl9R2sI_HMo",
+          "filename": "ahimanrezonorah00dermgoog.pdf",
+          "archive_category": "miscellaneous_historical"
+        },
+        {
+          "drive_id": "1sbXA7H2shbBorXQXrIaCAHrbvMez_YPq",
+          "filename": "arcanacaelesiao00unkngoog.pdf",
+          "archive_category": "miscellaneous_historical"
+        },
+        {
+          "drive_id": "1x_Mj0SuIIPh6osFe2Ee-NSL8gFaMXgHa",
+          "filename": "avindicationsom00bringoog.pdf",
+          "archive_category": "miscellaneous_historical"
+        },
+        {
+          "drive_id": "1jhOyyyIABBcEPucLIwgPSb4de6UoKoy0",
+          "filename": "alchemistacomed00jonsgoog.pdf",
+          "archive_category": "miscellaneous_historical"
+        },
+        {
+          "drive_id": "1L1nwc4gLlZsNuI4GhrWXYNVq8dGOpWBv",
+          "filename": "agenuinedialogu00dialgoog.pdf",
+          "archive_category": "miscellaneous_historical"
+        },
+        {
+          "drive_id": "1pZuAguanm_Iczi_3Qy8lTNkaLJwH4oo5",
+          "filename": "anoldmantaughtw00fielgoog.pdf",
+          "archive_category": "miscellaneous_historical"
+        },
+        {
+          "drive_id": "1jo6J8lF8tv22BxdlLkJVrR-WBOrMmKnA",
+          "filename": "adefenceprotest00stergoog.pdf",
+          "archive_category": "miscellaneous_historical"
+        },
+        {
+          "drive_id": "1_K3oYINuX8lHwWVDaoE_-Es-2-GD6zL-",
+          "filename": "alciphronorminu00cloygoog.pdf",
+          "archive_category": "miscellaneous_historical"
+        },
+        {
+          "drive_id": "1ExD5G8zhvYUDCkhuE5wL3tr9pKv0UWod",
+          "filename": "artshadowsoruni00goodgoog.pdf",
+          "archive_category": "miscellaneous_historical"
+        },
+        {
+          "drive_id": "1iWoI_xHeRgoFxNBRcc5WYQyE2FfsmhMI",
+          "filename": "astrotheologyor01derhgoog.pdf",
+          "archive_category": "miscellaneous_historical"
+        },
+        {
+          "drive_id": "17hc1uJeiTlVOYluv8vIrYBccL6T2eZs2",
+          "filename": "acourselectures00bradgoog.pdf",
+          "archive_category": "miscellaneous_historical"
+        },
+        {
+          "drive_id": "1g65AP3esQUEHQ0sHC6qVM9OE7x2vUvMs",
+          "filename": "acollectionorig00goog.pdf",
+          "archive_category": "miscellaneous_historical"
+        },
+        {
+          "drive_id": "1-8M9Aw9PXqQpdVH6vTTeNF2UKTAjptBw",
+          "filename": "acompleathistor00maffgoog.pdf",
+          "archive_category": "miscellaneous_historical"
+        },
+        {
+          "drive_id": "1j11vVi5nxZKwB3-gKhxH8fjDlCHBqc1Q",
+          "filename": "anhelpforrightu00wellgoog.pdf",
+          "archive_category": "miscellaneous_historical"
+        },
+        {
+          "drive_id": "1m7xe6iLU0tYFICeT5syrbp35NrB8UE__",
+          "filename": "arrianshistorya01rookgoog.pdf",
+          "archive_category": "miscellaneous_historical"
+        },
+        {
+          "drive_id": "1fisKXBRM76tPvJnKujUW3NaXNWN0Owpc",
+          "filename": "atriptomoonrepr00mcdegoog.pdf",
+          "archive_category": "miscellaneous_historical"
+        },
+        {
+          "drive_id": "1frtz6XJqHYGKtXk-fmv64_Qk0cWbIZ9p",
+          "filename": "acollectioncont00hickgoog.pdf",
+          "archive_category": "miscellaneous_historical"
+        },
+        {
+          "drive_id": "1dcXf1wAHA7FexocTc0w7gVzBufU2ZMCo",
+          "filename": "acollectionepig00collgoog.pdf",
+          "archive_category": "miscellaneous_historical"
+        },
+        {
+          "drive_id": "1Gb-vcVZxiqWj5baWDvNzX4ID5aekOrW2",
+          "filename": "avoyageroundwor00schegoog.pdf",
+          "archive_category": "miscellaneous_historical"
+        },
+        {
+          "drive_id": "1RTFU-ccLJEUFIBxT4QvjSI5SdO8KQh22",
+          "filename": "boscobelorhisto00wyndgoog.pdf",
+          "archive_category": "miscellaneous_historical"
+        },
+        {
+          "drive_id": "1AWPtgeAPJ--2Lob9gkuJEbjChjEg9NyN",
+          "filename": "acollectionoldb00unkngoog.pdf",
+          "archive_category": "miscellaneous_historical"
+        },
+        {
+          "drive_id": "1BwWhel8YlT-PpZaZA1PthrLWmrxcpibg",
+          "filename": "bishopburnetstr00burngoog.pdf",
+          "archive_category": "miscellaneous_historical"
+        },
+        {
+          "drive_id": "1qpEjP7VCtmtZ5n9PBGcGgPtl0y83fZQo",
+          "filename": "anexaminationno00clargoog.pdf",
+          "archive_category": "miscellaneous_historical"
+        },
+        {
+          "drive_id": "1UbUmFtpaNnfh5-XTliL4XpNmoZzWdIs1",
+          "filename": "acrowngloryrewa00kengoog.pdf",
+          "archive_category": "miscellaneous_historical"
+        },
+        {
+          "drive_id": "1vwsd4HMOVQIYvDO5laSayJXsUfpIOiJy",
+          "filename": "acollectionoldb01unkngoog.pdf",
+          "archive_category": "miscellaneous_historical"
+        },
+        {
+          "drive_id": "1ca1vQcdz9LQ093VdLTV012WejiaDmxS4",
+          "filename": "aseconddiscover00broogoog.pdf",
+          "archive_category": "miscellaneous_historical"
+        },
+        {
+          "drive_id": "1gj961ZREWrQJfMDVbmUfsQo_oVzaSfdS",
+          "filename": "anhistoryarchbi00defogoog.pdf",
+          "archive_category": "miscellaneous_historical"
+        },
+        {
+          "drive_id": "1P6BlC3OuEUlVcyFRk0jS3CQYkVuC8sqY",
+          "filename": "aplainandration00manngoog.pdf",
+          "archive_category": "miscellaneous_historical"
+        },
+        {
+          "drive_id": "1qGYJzIi8co_xRILS1sy21zRcMxtQpKPr",
+          "filename": "astrotheologyor03derhgoog.pdf",
+          "archive_category": "miscellaneous_historical"
+        },
+        {
+          "drive_id": "1Fz2sAyS2b3QwfJpwPxJ4OeGbOif8KQyu",
+          "filename": "britishhistory00thomgoog.pdf",
+          "archive_category": "miscellaneous_historical"
+        },
+        {
+          "drive_id": "1Sa_lxiWlL0jF8-zIaO7cftf1eTeFChnk",
+          "filename": "artificialgardi00agrigoog.pdf",
+          "archive_category": "miscellaneous_historical"
+        },
+        {
+          "drive_id": "1mxqzU9ku9NrjMO1TypGAoA6b5fOqPj2n",
+          "filename": "athenaebritanni02davigoog.pdf",
+          "archive_category": "miscellaneous_historical"
+        },
+        {
+          "drive_id": "1jC2DHibQXre20Bn1i2Nk3hXzFdVc5D8G",
+          "filename": "athenaebritanni00davigoog.pdf",
+          "archive_category": "miscellaneous_historical"
+        },
+        {
+          "drive_id": "10rks4icOqh_J6n8i2Z5NeElLog1F9IQm",
+          "filename": "athenaebritanni01davigoog.pdf",
+          "archive_category": "miscellaneous_historical"
+        },
+        {
+          "drive_id": "1u8FW38RQEm2HmhjlIT1bVBXcqpHWNKFE",
+          "filename": "anoriginalcanto00steegoog.pdf",
+          "archive_category": "miscellaneous_historical"
+        },
+        {
+          "drive_id": "1giR9IzX3WzOWcVxWBVvRjLpZPVdvCkY0",
+          "filename": "avoyagetothiopi00poncgoog.pdf",
+          "archive_category": "miscellaneous_historical"
+        },
+        {
+          "drive_id": "1SxbINYarjbfu8xvMK-WzOi9U4AwtppCH",
+          "filename": "archaeologiabri00lhuygoog.pdf",
+          "archive_category": "miscellaneous_historical"
+        },
+        {
+          "drive_id": "15P5uaM4inPzLStgUsBefaApTBLur62EI",
+          "filename": "artmemory00dasgoog.pdf",
+          "archive_category": "miscellaneous_historical"
+        },
+        {
+          "drive_id": "11g8pvFuF7XTWvRA5fDqHQJhvtw6_EODb",
+          "filename": "asteptooxfordin00unkngoog.pdf",
+          "archive_category": "miscellaneous_historical"
+        },
+        {
+          "drive_id": "130O1jjx-gg0QVx9rivYCZQxvU1GVYUJE",
+          "filename": "asupplementtoad00defogoog.pdf",
+          "archive_category": "miscellaneous_historical"
+        },
+        {
+          "drive_id": "1hVKfRQtiHEW7kpeORS_hIRzRGts06dN2",
+          "filename": "ataleatub00unkngoog.pdf",
+          "archive_category": "miscellaneous_historical"
+        },
+        {
+          "drive_id": "1MyYP7rQf4LCnlNbvzgQd45UIJciNgdc6",
+          "filename": "apluralityworld00bovigoog.pdf",
+          "archive_category": "miscellaneous_historical"
+        },
+        {
+          "drive_id": "1Nx7AnvyCl5eHXJDNbm2-BsfgvZWfmfqM",
+          "filename": "alettertoamembe00lettgoog.pdf",
+          "archive_category": "miscellaneous_historical"
+        },
+        {
+          "drive_id": "1DOU_NUjSx0raDL38AhxmULCvISj04X4V",
+          "filename": "abriefhistorica00bluegoog.pdf",
+          "archive_category": "miscellaneous_historical"
+        },
+        {
+          "drive_id": "1WBQSibjZfmddPgWnUnXsDL1jjRTgtKMS",
+          "filename": "arepresentation00reprgoog.pdf",
+          "archive_category": "miscellaneous_historical"
+        },
+        {
+          "drive_id": "1FgsJCXI28igBvfOmDzTvMSt9zPU3yyhc",
+          "filename": "arraignmentandc00derogoog.pdf",
+          "archive_category": "miscellaneous_historical"
+        },
+        {
+          "drive_id": "1Rlq4i3ZgR5ju7H0w9NP-OJtHr1zVsuTP",
+          "filename": "asketchonegreat00rothgoog.pdf",
+          "archive_category": "miscellaneous_historical"
+        },
+        {
+          "drive_id": "1mSEcXMRS5rYSactytpytccikcM0oFtgN",
+          "filename": "abriefcommentar00marbgoog.pdf",
+          "archive_category": "miscellaneous_historical"
+        },
+        {
+          "drive_id": "1SKpvDjwQGssyg1DHQtTZ_agBxadK3p9-",
+          "filename": "abriefexpositio00cottgoog.pdf",
+          "archive_category": "miscellaneous_historical"
+        },
+        {
+          "drive_id": "1lA4OUp4SOeghZtjNSiu_5RUce_voVegE",
+          "filename": "apropositioncon00bradgoog.pdf",
+          "archive_category": "miscellaneous_historical"
+        },
+        {
+          "drive_id": "1D8WMesbRu6wgosVUtHb_28475P4zGeUe",
+          "filename": "astorehousephys00paragoog.pdf",
+          "archive_category": "miscellaneous_historical"
+        },
+        {
+          "drive_id": "1g23WoTmGTS4k20_kJZhfHU0WSj5_Wj1T",
+          "filename": "oxforduniversity013320mbp.pdf",
+          "archive_category": "miscellaneous_historical"
+        },
+        {
+          "drive_id": "1-WX_S2NJMIvbuI6NRjfvxyNbcu4f13eh",
+          "filename": "egyptiana00smit.pdf",
+          "archive_category": "miscellaneous_historical"
+        },
+        {
+          "drive_id": "1KJHhMa08cV4SixKb79n_mZoha0aBUqfr",
+          "filename": "Masterpieces_of_Painting_in_The_Metropolitan_Museum_of_Art.pdf",
+          "archive_category": "miscellaneous_historical"
+        },
+        {
+          "drive_id": "1hzYYyrq3JfoczIRE0wfN0ootbKTDJaEu",
+          "filename": "masterpiece00nati.pdf",
+          "archive_category": "miscellaneous_historical"
+        }
+      ]
+    }
+  },
+  "import_status": {
+    "date": "2026-09-01",
+    "total_books_on_live_app": 625,
+    "total_lore_records": 236,
+    "total_archive_entries": 861,
+    "categories_pushed": [
+      "Mystery pile (168 books \u2014 decoded from cryptic filenames)",
+      "Masonic periodicals (49 \u2014 Staircase)",
+      "Missouri Botanical Garden scans (65 \u2014 Natural History)",
+      "Historical treatises (57 \u2014 History)",
+      "Princeton Seminary Bulletins (54 \u2014 Religion)",
+      "Gentleman's Magazine (15 \u2014 History)",
+      "Royal American Magazine (12 \u2014 History)",
+      "Yale Collections (8 \u2014 Reference/Manuscripts)",
+      "Google Books scans (7 \u2014 Mixed)",
+      "Religious texts (7 \u2014 Religion)",
+      "Sacred geometry (3 \u2014 Upstairs)",
+      "Other periodicals (3 \u2014 History)",
+      "Miscellaneous historical (167 \u2014 History)",
+      "Original curated texts (10 \u2014 original languages)"
+    ],
+    "lore_categories_synced": {
+      "world_mythology": 208,
+      "ancient_civilizations": 15,
+      "sacred_geometry": 12,
+      "creation_myth": 1,
+      "test_record_deleted": true
+    }
+  }
+}

@@ -1,0 +1,381 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Share Wood — Your Faire, Year-Round</title>
+<style>
+  @import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@400;600;700&family=Crimson+Text:ital,wght@0,400;0,600;1,400&display=swap');
+  
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  body { font-family: 'Crimson Text', serif; background: #1a1a0e; color: #e8e0c8; overflow-x: hidden; }
+  h1, h2, h3 { font-family: 'Cinzel', serif; }
+  
+  .scene { min-height: 100vh; display: flex; flex-direction: column; justify-content: center; align-items: center; padding: 2rem; }
+  
+  .nav-bar {
+    position: fixed; top: 0; left: 0; right: 0;
+    background: rgba(26,26,14,0.95); backdrop-filter: blur(10px);
+    border-bottom: 1px solid #4a7a44; padding: 0.8rem 1rem;
+    display: flex; justify-content: center; gap: 1.2rem; z-index: 100; flex-wrap: wrap;
+  }
+  .nav-bar button { font-family: 'Cinzel', serif; background: none; border: none; color: #6a8a54; cursor: pointer; font-size: 0.85rem; transition: color 0.2s; }
+  .nav-bar button:hover { color: #b8d4a0; }
+  
+  .btn {
+    font-family: 'Cinzel', serif; background: linear-gradient(135deg, #4a7a44, #7ab86a);
+    color: #1a1a0e; border: none; padding: 1rem 2.5rem; font-size: 1.1rem;
+    font-weight: 600; border-radius: 4px; cursor: pointer; transition: all 0.3s;
+    box-shadow: 0 4px 15px rgba(74,122,68,0.4); letter-spacing: 0.05em;
+  }
+  .btn:hover { transform: translateY(-2px); box-shadow: 0 6px 25px rgba(122,184,106,0.6); }
+  
+  /* Hero */
+  .hero { background: linear-gradient(180deg, #0d0d07 0%, #1a1a0e 30%, #1a2a1e 60%, #1a1a0e 100%); text-align: center; }
+  .hero .brand { font-family: 'Cinzel', serif; font-size: 0.9rem; color: #4a7a44; letter-spacing: 0.3em; text-transform: uppercase; margin-bottom: 1rem; }
+  .hero h1 { font-size: clamp(3rem, 7vw, 5rem); color: #b8d4a0; text-shadow: 0 2px 30px rgba(0,0,0,0.9); margin-bottom: 0.5rem; letter-spacing: 0.02em; }
+  .hero .tagline { font-size: clamp(1.1rem, 3vw, 1.6rem); color: #8ab874; font-style: italic; margin-bottom: 1rem; }
+  .hero .pitch { max-width: 550px; font-size: 1.15rem; line-height: 1.8; color: #c8d8b8; margin: 1.5rem auto; }
+  
+  .hero img { width: 100%; max-width: 600px; border-radius: 8px; box-shadow: 0 20px 60px rgba(0,0,0,0.8); margin: 1rem 0 2rem; border: 2px solid #4a7a44; }
+  
+  .stats { display: flex; justify-content: center; gap: 2.5rem; margin: 2rem 0; flex-wrap: wrap; }
+  .stat { text-align: center; }
+  .stat .num { font-family: 'Cinzel', serif; font-size: 2rem; color: #b8d4a0; }
+  .stat .label { font-size: 0.8rem; color: #4a7a44; text-transform: uppercase; letter-spacing: 0.1em; }
+  
+  .scroll-hint { color: #4a7a44; font-size: 0.85rem; margin-top: 1rem; animation: bounce 2s infinite; }
+  @keyframes bounce { 0%,100% { transform: translateY(0); } 50% { transform: translateY(8px); } }
+  
+  /* How it works */
+  .how { background: linear-gradient(180deg, #1a1a0e 0%, #1a2a1e 50%, #1a1a0e 100%); padding: 4rem 1rem; text-align: center; }
+  .how h2 { color: #b8d4a0; font-size: 2rem; margin-bottom: 2rem; }
+  .steps { display: flex; flex-direction: column; gap: 1rem; max-width: 500px; margin: 0 auto; }
+  .step { display: flex; align-items: flex-start; gap: 1rem; background: rgba(26,42,30,0.8); border: 1px solid #4a7a44; border-radius: 8px; padding: 1.2rem; text-align: left; }
+  .step .num { font-family: 'Cinzel', serif; font-size: 1.5rem; color: #b8d4a0; min-width: 2rem; }
+  .step h3 { color: #b8d4a0; font-size: 1rem; margin-bottom: 0.2rem; }
+  .step p { color: #8ab874; font-size: 0.9rem; line-height: 1.5; }
+  .step .highlight { color: #c8d8b8; font-weight: 600; }
+  
+  /* Builder showcase */
+  .builder { background: linear-gradient(180deg, #1a1a0e 0%, #2d2a1a 50%, #1a1a0e 100%); padding: 4rem 1rem; text-align: center; }
+  .builder h2 { color: #b8d4a0; font-size: 2rem; margin-bottom: 1rem; }
+  .builder .lead { color: #8ab874; max-width: 500px; margin: 0 auto 2rem; font-size: 1.1rem; line-height: 1.7; }
+  
+  .tools-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 1.5rem; max-width: 800px; margin: 0 auto; }
+  .tool { background: rgba(45,42,26,0.9); border: 1px solid #5a4d2c; border-radius: 8px; padding: 1.5rem; text-align: left; }
+  .tool .icon { font-size: 2rem; margin-bottom: 0.5rem; }
+  .tool h3 { color: #b8d4a0; font-size: 1.1rem; margin-bottom: 0.5rem; }
+  .tool p { color: #c8b878; font-size: 0.9rem; line-height: 1.5; }
+  
+  /* Tiers */
+  .tiers { background: linear-gradient(180deg, #1a1a0e 0%, #1a2a1e 100%); padding: 4rem 1rem; }
+  .tiers h2 { text-align: center; color: #b8d4a0; font-size: 2rem; margin-bottom: 1rem; }
+  .tiers .lead { text-align: center; color: #8ab874; max-width: 500px; margin: 0 auto 2rem; font-style: italic; }
+  
+  .tier-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 1.5rem; max-width: 900px; margin: 0 auto; }
+  .tier { background: rgba(26,42,30,0.9); border: 1px solid #4a7a44; border-radius: 8px; padding: 1.5rem; position: relative; }
+  .tier.featured { border-color: #b8d4a0; box-shadow: 0 0 30px rgba(184,212,160,0.15); }
+  .tier .badge { position: absolute; top: -0.8rem; right: 1rem; background: #b8d4a0; color: #1a1a0e; padding: 0.2rem 0.8rem; border-radius: 4px; font-size: 0.75rem; font-family: 'Cinzel', serif; font-weight: 600; }
+  .tier h3 { color: #b8d4a0; font-size: 1.3rem; margin-bottom: 0.3rem; }
+  .tier .price { color: #8ab874; font-size: 1.1rem; margin-bottom: 1rem; font-family: 'Cinzel', serif; }
+  .tier .price .per { font-size: 0.85rem; color: #6a8a54; }
+  .tier .desc { color: #6a8a54; font-size: 0.85rem; margin-bottom: 1rem; font-style: italic; }
+  .tier ul { list-style: none; }
+  .tier ul li { color: #c8d8b8; font-size: 0.9rem; padding: 0.4rem 0 0.4rem 1.5rem; position: relative; line-height: 1.4; }
+  .tier ul li::before { content: "✦"; position: absolute; left: 0; color: #4a7a44; }
+  .tier.featured ul li::before { color: #b8d4a0; }
+  
+  /* No red tape */
+  .noredtape { background: linear-gradient(180deg, #1a1a0e 0%, #2a2010 50%, #1a1a0e 100%); padding: 4rem 1rem; text-align: center; }
+  .noredtape h2 { color: #d4af37; font-size: 2rem; margin-bottom: 1rem; }
+  .noredtape .lead { color: #c8b878; max-width: 500px; margin: 0 auto 2rem; font-size: 1.1rem; line-height: 1.7; }
+  
+  .promise-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 1rem; max-width: 700px; margin: 0 auto; }
+  .promise { background: rgba(45,42,26,0.6); border: 1px solid #5a4d2c; border-radius: 8px; padding: 1.2rem; }
+  .promise .x { color: #c45a4a; font-size: 1.3rem; font-family: 'Cinzel', serif; margin-bottom: 0.3rem; }
+  .promise p { color: #c8b878; font-size: 0.9rem; line-height: 1.5; }
+  
+  /* Case study */
+  .case-study { background: linear-gradient(135deg, #1a2a1e 0%, #2d4a2d 50%, #1a2a1e 100%); text-align: center; padding: 3rem 1rem; border-top: 1px solid #4a7a44; border-bottom: 1px solid #4a7a44; }
+  .case-study .label { font-family: 'Cinzel', serif; color: #4a8b44; font-size: 0.85rem; letter-spacing: 0.2em; text-transform: uppercase; margin-bottom: 0.5rem; }
+  .case-study h2 { color: #d4e8c8; font-size: 1.8rem; }
+  .case-study p { color: #b8d4a0; font-style: italic; }
+  
+  /* Sherwood walkthrough */
+  .walkthrough { background: linear-gradient(180deg, #1a1a0e 0%, #2d2a1a 50%, #1a1a0e 100%); padding: 4rem 1rem; }
+  .walkthrough h2 { text-align: center; color: #b8d4a0; font-size: 1.8rem; margin-bottom: 2rem; }
+  .walkthrough img { width: 100%; max-width: 600px; border-radius: 8px; box-shadow: 0 20px 60px rgba(0,0,0,0.8); margin: 0 auto 1.5rem; display: block; border: 2px solid #4a7a44; }
+  .walkthrough .caption { text-align: center; color: #8ab874; font-style: italic; max-width: 500px; margin: 0 auto 2rem; }
+  
+  /* Contact */
+  .contact { background: linear-gradient(180deg, #1a2a1e 0%, #1a1a0e 100%); text-align: center; padding: 4rem 1rem; }
+  .contact h2 { color: #b8d4a0; font-size: 2rem; margin-bottom: 1rem; }
+  .contact p { color: #c8d8b8; max-width: 500px; margin: 0 auto 2rem; line-height: 1.7; font-size: 1.1rem; }
+  .contact-info { background: rgba(26,42,30,0.9); border: 1px solid #b8d4a0; border-radius: 8px; padding: 2rem; max-width: 400px; margin: 0 auto; }
+  .contact-info p { color: #c8d8b8; margin: 0.3rem 0; }
+  .contact-info .name { color: #b8d4a0; font-family: 'Cinzel', serif; font-size: 1.3rem; }
+  .contact-info .role { color: #4a7a44; font-size: 0.85rem; }
+  .contact-info .email { color: #8ab874; font-size: 1rem; }
+  
+  .footer { text-align: center; padding: 2rem 1rem; color: #3a5a34; font-size: 0.8rem; background: #0d0d07; }
+</style>
+</head>
+<body>
+
+<div class="nav-bar" id="navBar" style="display:none;">
+  <button onclick="scrollToId('hero')">Share Wood</button>
+  <button onclick="scrollToId('how')">How It Works</button>
+  <button onclick="scrollToId('builder')">The Builder</button>
+  <button onclick="scrollToId('tiers')">Pricing</button>
+  <button onclick="scrollToId('noredtape')">No Red Tape</button>
+  <button onclick="scrollToId('caseStudy')">Case Study</button>
+  <button onclick="scrollToId('contact')">Subscribe</button>
+</div>
+
+<!-- Hero -->
+<div class="scene hero" id="hero">
+  <div class="brand">A Geode Inn Product</div>
+  <h1>Share Wood</h1>
+  <div class="tagline">Your faire. Your world. Year-round.</div>
+  <img src="https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/f7ed2a25b_generated_image.png" alt="Share Wood">
+  <p class="pitch">
+    Subscribe. Build your digital faire grounds using your own videos, your own photos, 
+    your own vendors. Publish when you're ready. No approval. No red tape. 
+    Just your faire, open all year.
+  </p>
+  <div class="stats">
+    <div class="stat"><div class="num">365</div><div class="label">Days Open</div></div>
+    <div class="stat"><div class="num">0</div><div class="label">Approval Steps</div></div>
+    <div class="stat"><div class="num">0%</div><div class="label">Transaction Fees</div></div>
+  </div>
+  <button class="btn" onclick="scrollToId('how')">How It Works</button>
+  <div class="scroll-hint">↓</div>
+</div>
+
+<!-- How It Works -->
+<div class="scene how" id="how">
+  <h2>Three Steps. That's It.</h2>
+  <div class="steps">
+    <div class="step">
+      <div class="num">1</div>
+      <div>
+        <h3>Subscribe</h3>
+        <p>Pick a tier, pay the monthly fee, get access to the <span class="highlight">Share Wood zone builder</span>. No application. No review. No pitch meeting. You subscribe, you're in.</p>
+      </div>
+    </div>
+    <div class="step">
+      <div class="num">2</div>
+      <div>
+        <h3>Build Your World</h3>
+        <p>Drag and drop your gatehouse, vendor stalls, stage, and forest paths. Upload your own <span class="highlight">promo videos, vendor photos, drone footage</span>. Link your ticket page. Set your season dates. You know your faire — you build it.</p>
+      </div>
+    </div>
+    <div class="step">
+      <div class="num">3</div>
+      <div>
+        <h3>Publish</h3>
+        <p>Hit publish. The gatehouse opens. Players worldwide walk through your grounds <span class="highlight">immediately</span>. No one reviews it. No one approves it. You built it. You own it. You publish it.</p>
+      </div>
+    </div>
+  </div>
+  <button class="btn" style="margin-top:2rem;" onclick="scrollToId('builder')">See the Builder →</button>
+</div>
+
+<!-- Builder -->
+<div class="scene builder" id="builder">
+  <h2>The Zone Builder</h2>
+  <p class="lead">Everything you need to turn your faire's existing media into a walkable digital world. Your YouTube channel becomes the Castle Stage. Your vendor photos become the stalls. Your drone shots become the forest.</p>
+  
+  <div class="tools-grid">
+    <div class="tool">
+      <div class="icon">🏗️</div>
+      <h3>Structure Placement</h3>
+      <p>Drag gatehouse, stalls, stages, food courts, and forest paths onto your zone map. Mirror your physical layout or design something new.</p>
+    </div>
+    <div class="tool">
+      <div class="icon">🎬</div>
+      <h3>Media Integration</h3>
+      <p>Paste YouTube links or upload videos — they play on the Castle Stage. Upload photos — they populate vendor stalls. Upload audio — it becomes your zone's ambiance.</p>
+    </div>
+    <div class="tool">
+      <div class="icon">🛍️</div>
+      <h3>Vendor Stalls</h3>
+      <p>Each vendor gets a page: shop name, product photos, description, and a link to their real-world shop. You place the stall. The vendor fills it.</p>
+    </div>
+    <div class="tool">
+      <div class="icon">📅</div>
+      <h3>Calendar & Seasons</h3>
+      <p>Set your physical season dates. The zone automatically switches to off-season mode when the physical faire closes. "The physical grounds sleep. The digital grounds are open."</p>
+    </div>
+    <div class="tool">
+      <div class="icon">🎟️</div>
+      <h3>Ticket Portal</h3>
+      <p>Link to your own ticket page. The Inn sends traffic — you handle the sale. No middleman. No fees. Ever.</p>
+    </div>
+    <div class="tool">
+      <div class="icon">📖</div>
+      <h3>Lore Entry</h3>
+      <p>Write your faire's history in the Inn's scholarly archive. Your faire becomes part of the record — not an ad, but an entry in a living library.</p>
+    </div>
+  </div>
+  
+  <button class="btn" style="margin-top:2rem;" onclick="scrollToId('tiers')">See Pricing →</button>
+</div>
+
+<!-- Tiers -->
+<div class="scene tiers" id="tiers">
+  <h2>Three Tiers</h2>
+  <p class="lead">All self-service. No tier requires anyone to build anything for you. Subscribe and build.</p>
+  
+  <div class="tier-grid">
+    <div class="tier">
+      <h3>The Clearing</h3>
+      <div class="price">$49<span class="per">/month</span></div>
+      <div class="desc">For faires testing the waters</div>
+      <ul>
+        <li>One walkable zone, up to 20 vendor stalls</li>
+        <li>Castle Stage video player (5 videos)</li>
+        <li>Calendar with season dates</li>
+        <li>Ticket portal</li>
+        <li>Lore entry in the archive</li>
+        <li>Automatic off-season mode</li>
+        <li>Basic zone templates</li>
+      </ul>
+    </div>
+    
+    <div class="tier featured">
+      <div class="badge">Recommended</div>
+      <h3>The Village</h3>
+      <div class="price">$149<span class="per">/month</span></div>
+      <div class="desc">Full off-season engagement</div>
+      <ul>
+        <li>Up to 75 vendor stalls</li>
+        <li>Unlimited Castle Stage videos</li>
+        <li>Special event weekends with themed banners</li>
+        <li>Performance schedule on the Castle Stage</li>
+        <li>Custom zone layout (free placement)</li>
+        <li>Off-season content rotation</li>
+        <li>Dual-listing with Inn artisan marketplace</li>
+        <li>Custom zone name and description</li>
+      </ul>
+    </div>
+    
+    <div class="tier">
+      <h3>The Kingdom</h3>
+      <div class="price">$399<span class="per">/month</span></div>
+      <div class="desc">The faire as a full game zone</div>
+      <ul>
+        <li>Up to 250 vendor stalls</li>
+        <li>Mini-games (archery, jousting, faire-themed)</li>
+        <li>Custom NPC creation</li>
+        <li>Quest tie-ins to the Inn's storyline</li>
+        <li>Live event hosting (stream Q&As, performances)</li>
+        <li>Custom ambient music upload</li>
+        <li>Multiple connected zones</li>
+        <li>Analytics dashboard</li>
+      </ul>
+    </div>
+  </div>
+  
+  <button class="btn" style="margin-top:2rem;" onclick="scrollToId('noredtape')">What We Don't Do →</button>
+</div>
+
+<!-- No Red Tape -->
+<div class="scene noredtape" id="noredtape">
+  <h2>No Red Tape</h2>
+  <p class="lead">We mean it. Here's everything Share Wood will never do:</p>
+  
+  <div class="promise-grid">
+    <div class="promise">
+      <div class="x">✕</div>
+      <p>No application or approval process — subscribe and build</p>
+    </div>
+    <div class="promise">
+      <div class="x">✕</div>
+      <p>No review of your zone before publishing — you publish what you build</p>
+    </div>
+    <div class="promise">
+      <div class="x">✕</div>
+      <p>No transaction fees on tickets — your ticket link, your revenue</p>
+    </div>
+    <div class="promise">
+      <div class="promise">
+      <div class="x">✕</div>
+      <p>No cut of vendor sales — links go to their shops, not through us</p>
+    </div>
+    </div>
+    <div class="promise">
+      <div class="x">✕</div>
+      <p>No ownership of your content — your media stays yours</p>
+    </div>
+    <div class="promise">
+      <div class="x">✕</div>
+      <p>No gatekeeping beyond the subscription — pay and build, that's it</p>
+    </div>
+  </div>
+  
+  <button class="btn" style="margin-top:2rem;" onclick="scrollToId('caseStudy')">See the First Zone →</button>
+</div>
+
+<!-- Case Study -->
+<div class="case-study" id="caseStudy">
+  <div class="label">First Partner — Case Study</div>
+  <h2>Sherwood Forest Faire</h2>
+  <p>McDade, Texas • February–April • Robin Hood Theme</p>
+</div>
+
+<!-- Sherwood walkthrough -->
+<div class="scene walkthrough" id="walkthrough">
+  <h2>What Sherwood's Zone Looks Like</h2>
+  <img src="https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/f7ed2a25b_generated_image.png" alt="Gatehouse">
+  <p class="caption">The Gatehouse — ticket portal, season calendar, entrance to the digital grounds</p>
+  
+  <img src="https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/93b30ee1b_generated_image.png" alt="Market Row">
+  <p class="caption">The Market Row — each vendor gets a stall with their real photos and a link to their real shop</p>
+  
+  <img src="https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/0c1aea980_generated_image.png" alt="The Greenwood">
+  <p class="caption">The Greenwood — archery range, lore area, hidden vendor stalls in the forest</p>
+  
+  <img src="https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/65ff5f5b6_generated_image.png" alt="Feast Hall">
+  <p class="caption">The Feast Hall — always set, one candle burning. The place is waiting, not dead.</p>
+  
+  <p style="color:#4a7a44; text-align:center; max-width:500px; margin:2rem auto; font-size:0.9rem;">
+    Concept art shown. The real zone uses Sherwood's own commercial footage and vendor photos — 
+    they already have everything they need. Build time: an afternoon.
+  </p>
+  
+  <button class="btn" onclick="scrollToId('contact')">Subscribe →</button>
+</div>
+
+<!-- Contact -->
+<div class="scene contact" id="contact">
+  <h2>Build Your World</h2>
+  <p>
+    Share Wood is live and accepting subscriptions. Your faire already has the videos, 
+    the photos, the vendors, the history. You bring the woods. We share them with the world.
+  </p>
+  <div class="contact-info">
+    <p class="name">Krista</p>
+    <p class="role">Share Wood • Geode Inn</p>
+    <p class="email">bogfairygolem@geodeinn.com</p>
+    <p class="role" style="margin-top:0.8rem;">Sherwood Forest Faire • Soulstice Jewelry</p>
+  </div>
+</div>
+
+<div class="footer">
+  Share Wood — A Geode Inn Product • geodeinn.com<br>
+  Your faire. Your world. Year-round.
+</div>
+
+<script>
+  window.addEventListener('scroll', function() {
+    const nav = document.getElementById('navBar');
+    const hero = document.getElementById('hero');
+    nav.style.display = window.scrollY > hero.offsetHeight - 100 ? 'flex' : 'none';
+  });
+  function scrollToId(id) { document.getElementById(id).scrollIntoView({ behavior: 'smooth' }); }
+</script>
+
+</body>
+</html>

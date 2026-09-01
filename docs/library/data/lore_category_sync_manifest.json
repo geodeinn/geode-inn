@@ -1,0 +1,284 @@
+{
+  "manifest_title": "Geode Inn — Lore Category Sync Manifest",
+  "manifest_date": "2026-09-01",
+  "manifest_purpose": "Sync original knowledge categories (Alchemy, Astronomy/Cosmology, Esoteric Traditions) into the live Lore database. Tag all uncategorized country mythology records. Delete junk test record.",
+  "target_app": "The Geode Inn (6a60f218b0c6605c92fa35c4)",
+  "target_entity": "Lore",
+
+  "current_state": {
+    "total_records": 237,
+    "categories_present": ["Ancient Civilizations (15)", "Sacred Geometry (12)", "Creation Myth (1)", "null/uncategorized (~209 country records)", "Test/junk (1)"],
+    "categories_missing": ["Alchemy", "Astronomy/Cosmology", "Esoteric Traditions"]
+  },
+
+  "operations": {
+
+    "DELETE": [
+      {
+        "id": "6a60ff01a9a1a8da3fc7593e",
+        "title": "Test",
+        "reason": "Junk test record, no content, category=null, region=test"
+      }
+    ],
+
+    "BULK_UPDATE": [
+      {
+        "description": "Tag all 209 uncategorized country mythology records with category='World Mythology'",
+        "query": { "category": null },
+        "update": { "category": "World Mythology" },
+        "affected_count_approx": 209,
+        "note": "These are the country mythology records (Afghanistan through Zimbabwe) originally gathered from 191 countries. They all have content and tags but no category assigned."
+      }
+    ],
+
+    "CREATE": {
+
+      "alchemy_records": [
+        {
+          "title": "Nigredo — The Blackening",
+          "category": "Alchemy",
+          "region": "Staircase",
+          "summary": "The first alchemical stage — dissolution of what you thought you knew. Socrates's domain. The raw material, full of potential but undifferentiated.",
+          "content": "The bottom of the alchemical staircase. The walls are dark — the deep, saturated dark of raw material before the fire is lit. Socrates sits here. His questions are the nigredo — the dissolution of what you thought you knew. The darkness is not threatening; it is necessary. You cannot transform what you haven't broken down. The color is almost absent: deep browns, dark greens. The hum is low — the 42Hz at its base frequency, unrefined, the Song as ore.",
+          "tags": ["nigredo", "blackening", "socrates", "dissolution", "alchemical-stage-1", "matisse-early-period", "crucible"],
+          "era": "Universal",
+          "source": "Geode Inn Library"
+        },
+        {
+          "title": "Albedo — The Whitening",
+          "category": "Alchemy",
+          "region": "Staircase",
+          "summary": "The second alchemical stage — purification, the washing away of impurities. Plato's domain. The Cave as interactive mural.",
+          "content": "The middle of the staircase. The walls brighten — white, cream, the clarity of Matisse's line-drawing period. The albedo is the washing, the purification, the moment when impurities are burned away and what remains is clear. Plato sits here. His Cave is an interactive mural on the white wall — shadows that the player can touch, that resolve into clarity when examined. The albedo is the Cave's exit: the moment you step out of the dark and the world is blinding and clear. The white contains the memory of the black it emerged from. The hum rises — the 42Hz is clarifying, overtones emerging.",
+          "tags": ["albedo", "whitening", "plato", "purification", "alchemical-stage-2", "matisse-white-period", "cave-mural"],
+          "era": "Universal",
+          "source": "Geode Inn Library"
+        },
+        {
+          "title": "Citrinitas — The Yellowing",
+          "category": "Alchemy",
+          "region": "Staircase",
+          "summary": "The third alchemical stage — the dawn, the first sign that transformation is working. The Retort's laboratory. Fauvist wildness.",
+          "content": "The transition between Plato and Aristotle. The walls begin to warm — yellow, gold, the first wild color of Matisse's Fauvist period. The citrinitas is the dawn — the moment when the white begins to remember that it came from fire. The yellow is the first sign that the transformation is alive. The material is responding. This is where the Retort works — the laboratory, the active transformation zone. The yellow is HER color — the color of a mind at full heat, the Fauvist wildness of a brilliant thinker pushing the material to its limit. The hum is harmonizing — the 42Hz is meeting overtones, the Song is becoming a chord.",
+          "tags": ["citrinitas", "yellowing", "the-retort", "transformation", "alchemical-stage-3", "matisse-fauvist", "laboratory"],
+          "era": "Universal",
+          "source": "Geode Inn Library"
+        },
+        {
+          "title": "Rubedo — The Reddening",
+          "category": "Alchemy",
+          "region": "Staircase",
+          "summary": "The final alchemical stage — completion, the philosopher's gold made alive. Aristotle's domain. The Red Studio made real.",
+          "content": "The top of the staircase. Aristotle's domain. The room is red — Matisse's Red Studio made architecture. The rubedo is the completion. The red stone. The philosopher's gold. But the result is not gold — it is RED, because the completion is not about becoming precious, it's about becoming ALIVE. Gold is inert. Red is the color of blood, of fire, of the living thing. Aristotle sits here, and the red is his color. He is the classifier who argues with the Crone until they become colleagues. The Crone hears the Song for the first time: 'I never listened before. I always measured. It's beautiful.' The red is where measurement becomes listening. The hum is a chord — the 42Hz plus all its overtones, the Song as it sounds when the staircase has added its frequencies.",
+          "tags": ["rubedo", "reddening", "aristotle", "completion", "alchemical-stage-4", "matisse-red-studio", "philosophers-gold", "the-red-studio"],
+          "era": "Universal",
+          "source": "Geode Inn Library"
+        },
+        {
+          "title": "The Philosopher's Stone",
+          "category": "Alchemy",
+          "region": "Staircase",
+          "summary": "The culmination of the alchemical process — not gold, but the living red. The transformation that makes you alive, not precious.",
+          "content": "The Philosopher's Stone is not a stone. It is not gold. It is the completion of the alchemical process — the rubedo made permanent. The Stone is the transformation itself, frozen at the moment of completion. The alchemist's thesis: the change is not superficial. The change IS the substance. Matisse understood this — when he painted a room red, the room became red. The color didn't describe the transformation. The color WAS the transformation. The Philosopher's Stone is the Inn's answer to the question of what alchemy produces: not wealth, not power, but aliveness. The Stone is red because red is the color of the living thing. The Stone vibrates at 42Hz because it IS the Song, completed and crystallized.",
+          "tags": ["philosophers-stone", "rubedo", "completion", "transformation", "alchemical-culmination", "living-red"],
+          "era": "Universal",
+          "source": "Geode Inn Library"
+        },
+        {
+          "title": "Plato's Cave — The Interactive Mural",
+          "category": "Alchemy",
+          "region": "Staircase",
+          "summary": "The alchemical allegory on the white wall — shadows the player can touch, resolving into clarity. The albedo's exit.",
+          "content": "Plato's Cave is an interactive mural on the albedo wall — shadows that the player can touch, that resolve into clarity when examined. The Cave is the philosophical foundation of the Inn's visual thesis: the shadows on the wall are the only reality the prisoners know. But the Inn inverts Plato — the shadows are not LESS real than the figures. The shadows are MORE real. The shadow is the essence. The full figure is the decoration. The player who learns to read the Bosch shadows in the caves is reading the cave's memory directly, without the filter of full rendering. The shadow is the data. The figure is the interpretation.",
+          "tags": ["platos-cave", "albedo", "interactive-mural", "shadows", "allegory", "bosch-shadows", "plato"],
+          "era": "Universal",
+          "source": "Geode Inn Library"
+        },
+        {
+          "title": "Camelot's Alchemy — Sacred Geometry Made Social",
+          "category": "Alchemy",
+          "region": "Staircase",
+          "summary": "The Round Table Room — the Ouroboros made furniture. Sacred geometry as communal practice. Flower of Life, the Bindu.",
+          "content": "The Round Table Room is sacred geometry made social. The Ouroboros made furniture. The Round Table is the alchemical circle — the serpent eating its tail, the cycle that feeds itself, the conversation that never ends because every ending is a new beginning. The table is round because hierarchy is an illusion — everyone at the table is both teacher and student. The Round Table dynamics are modeled on Fellowship of the Ring. Camelot's Alchemy is the Flower of Life, the Bindu — the point of creation, the seed from which all geometry grows. The Round Table is where sacred geometry stops being abstract and becomes the shape of a community.",
+          "tags": ["camelot", "round-table", "ouroboros", "sacred-geometry", "flower-of-life", "bindu", "social-alchemy", "community"],
+          "era": "Universal",
+          "source": "Geode Inn Library"
+        },
+        {
+          "title": "The Thrum — The Rosicrucian Hum",
+          "category": "Alchemy",
+          "region": "Staircase",
+          "summary": "The Rosicrucian acoustic presence on the staircase. The hum that reduces people to their essential cut-out forms.",
+          "content": "The Thrum is the Rosicrucian hum — the staircase's acoustic presence. The Thrum uses a hum to make inhabitants view each other as 'silhouettes' — the Matisse cut-out aesthetic as a social mechanic. When the Thrum hums, the people on the staircase become flat, pure, essential — their complexities fall away, their ornament dissolves, and what remains is the cut-out: the pure form, the pure color, the essence of the person. The Thrum is the acoustic distillation — the same process as Matisse's Jazz cut-outs, but applied to people. The hum strips away the unnecessary. What remains is who you actually are.",
+          "tags": ["the-thrum", "rosicrucian", "hum", "distillation", "cut-out", "matisse-jazz", "acoustic-alchemy"],
+          "era": "Universal",
+          "source": "Geode Inn Library"
+        },
+        {
+          "title": "Matisse's Jazz — Alchemical Distillation",
+          "category": "Alchemy",
+          "region": "Staircase",
+          "summary": "The late Matisse cut-outs as the visual language of alchemical distillation. Icarus with the red heart — the alchemist who flew too close.",
+          "content": "When Matisse could no longer paint (bedridden after surgery), he cut shapes from colored paper — 'drawing with scissors.' The Jazz series (1947) is the alchemical distillation made visual: forms reduced to their absolute essence, color applied directly, no brush between the hand and the shape. The staircase incorporates the Jazz cut-out aesthetic as the player approaches the rubedo. The walls become simpler as the player climbs — complexity falls away the way impurities fall away in distillation. The final approach to the red room is through a corridor of cut-out forms: the falling Icarus, the dancing figures, the seaweed, the clown. Icarus is the alchemist who flew too close to the sun. The hubris of transformation. But in Matisse's Icarus, the heart is red. The fall doesn't kill the heart. Next to Icarus, barely visible: a second figure. Not falling. Standing. Offering a hand. The Cook. The care that catches the Icarus. The alchemical thesis in two silhouettes.",
+          "tags": ["matisse", "jazz", "cut-outs", "distillation", "icarus", "the-cook", "alchemical-distillation", "scissors"],
+          "era": "Universal",
+          "source": "Geode Inn Library"
+        }
+      ],
+
+      "astronomy_cosmology_records": [
+        {
+          "title": "The Orrery — The Cosmic Model",
+          "category": "Astronomy/Cosmology",
+          "region": "Upstairs",
+          "summary": "The mechanical model of the solar system — the Dalí perspective made mechanical. The cosmos viewed from above.",
+          "content": "The orrery is the cosmology level's central instrument — a mechanical model of the solar system that shows the planets from a vantage point outside the planets. The Astronomer uses the orrery to calculate when the Song will be complete. The orrery is the Dalí perspective made mechanical: the cosmos, viewed from above, the pattern that is invisible from the ground. The orrery should be a dodecahedron — the twelve-sided geometric form that Dalí associated with cosmic order. The dodecahedron frames the cosmos the way the Sacrament of the Last Supper frames the sacred event: the mathematical structure that contains the universe's architecture.",
+          "tags": ["orrery", "dodecahedron", "cosmic-model", "dalí", "celestial-mechanics", "astronomer", "solar-system"],
+          "era": "Universal",
+          "source": "Geode Inn Library"
+        },
+        {
+          "title": "The Antikythera Mechanism",
+          "category": "Astronomy/Cosmology",
+          "region": "Upstairs",
+          "summary": "The ancient Greek astronomical calculator — the world's first analog computer. The Inn's logo and spiritual ancestor.",
+          "content": "The Antikythera Mechanism is an ancient Greek hand-powered orrery — the oldest known example of a geared mechanism, used to predict astronomical positions and eclipses. Discovered in 1901 in a shipwreck off the Greek island of Antikythera, dated to approximately 150-100 BCE. The mechanism tracked the Metonic cycle (19 years), the Saros cycle (eclipses, 18 years), and the Olympiad cycle. It is the world's first known analog computer. The Antikythera is the Inn's logo: a circular brass/bronze astronomical dial with concentric rings engraved with ancient Greek zodiac text and Egyptian calendar markers. It represents the Inn's thesis that knowledge is cyclical, that the cosmos can be modeled, and that the oldest technologies were attempts to understand the same Song the Inn hums. The Antikythera is the cosmology level's origin point — the first time a human built a machine to listen to the sky.",
+          "tags": ["antikythera", "ancient-greek", "analog-computer", "orrery", "astronomical-calculator", "inn-logo", "celestial-mechanics", "zodiac"],
+          "era": "Ancient Greece (c. 150-100 BCE)",
+          "source": "Geode Inn Library"
+        },
+        {
+          "title": "The Astronomer's Mind Palace",
+          "category": "Astronomy/Cosmology",
+          "region": "Upstairs",
+          "summary": "The cosmology level IS the Astronomer's mind palace — a consciousness, not a building. The architecture thinks.",
+          "content": "The cosmology level IS the Astronomer's mind palace. The architecture is a consciousness, not a building. The walls don't follow physical law because they're not physical — they're cognitive. The space thinks. The mind palace is a Dalí painting: doors that lead to ceilings, staircases that go sideways, windows that look into other windows that look back. The Astronomer's violin plays in impossible registers — notes too high for a physical violin, harmonics that shouldn't exist. The Dalí violin is the impossible made audible. The mind palace shifts depending on what the Astronomer is thinking. The player inside experiences spatial impossibilities that mirror the cognitive process: deduction is rapid, contemplation is slow. The question is more beautiful than the answer.",
+          "tags": ["astronomer", "mind-palace", "dalí", "consciousness", "cognitive-architecture", "violin", "impossible-spaces"],
+          "era": "Universal",
+          "source": "Geode Inn Library"
+        },
+        {
+          "title": "The Dodecahedron — Cosmic Geometry",
+          "category": "Astronomy/Cosmology",
+          "region": "Upstairs",
+          "summary": "The twelve-sided Platonic solid — Dalí's cosmic order. The orrery's structure, the canopy's mathematical pattern.",
+          "content": "The dodecahedron is the cosmology level's defining geometric form. Dalí depicted the Sacrament of the Last Supper inside a dodecahedron because he associated the twelve-sided form with cosmic order. Plato wrote in the Timaeus that the dodecahedron was the shape the gods used for arranging the constellations of the whole heaven. The orrery is a dodecahedron. The Astronomer's mind palace uses geometric forms as architecture: the dodecahedron for the orrery, the icosahedron for the starlight crystal's chamber, the tetrahedron for the Constant's void-walking meditation. The Inn-Tree's canopy forms geometric patterns against the sky — the way real trees create fractal canopies, branches dividing in patterns that are both organic and mathematical. The Ent didn't build a dodecahedron, but the branches grew in a pattern that mathematics recognizes, the way a sunflower grows in a Fibonacci sequence without knowing what Fibonacci is.",
+          "tags": ["dodecahedron", "platonic-solid", "cosmic-geometry", "dalí", "sacrament", "platonic-timaeus", "icosahedron", "tetrahedron"],
+          "era": "Universal",
+          "source": "Geode Inn Library"
+        },
+        {
+          "title": "Celestial Mechanics — The Song at Cosmic Scale",
+          "category": "Astronomy/Cosmology",
+          "region": "Upstairs",
+          "summary": "Time as material at the cosmology level. Melting clocks, cosmic cycles, the Constant carrying starlight between universes.",
+          "content": "The cosmology level is where time operates at cosmic scale. The Constant carries the starlight crystal through the void between dying and nascent universes — cycles so vast that human time is a rounding error. The Astronomer calculates when the Song will be complete. Nyx is older than time itself — the primordial night, the medium in which time happens. Dalí's melting clocks are the cosmology level's thesis: time here is not linear. Time is not a constant. Time is a MATERIAL — something that can be stretched, bent, melted, folded. The melting watches are time responding to the environment the way butter responds to heat. The 42Hz frequency bends time the way gravity bends light. The Pulse Line (50 BPM heartbeat) becomes irregular here — not because something is wrong, but because the heartbeat is being perceived through a medium where time doesn't flow at one speed. Melting clocks are environmental elements — objects in the space, not paintings on the wall. A clock on a branch, melting over the edge. A watch on the floor, pooling like liquid. The player who touches one experiences time dilation.",
+          "tags": ["celestial-mechanics", "time-as-material", "melting-clocks", "dalí", "cosmic-cycles", "the-constant", "nyx", "time-dilation", "42hz"],
+          "era": "Universal",
+          "source": "Geode Inn Library"
+        },
+        {
+          "title": "The Starlight Crystal",
+          "category": "Astronomy/Cosmology",
+          "region": "Upstairs",
+          "summary": "The crystal the Constant carries between dying and nascent universes. The icosahedron chamber. The bridge between cycles.",
+          "content": "The Starlight Crystal is the object the Constant carries through the void between universes. It is the bridge between cycles — the thing that persists when everything else dies and is reborn. The crystal's chamber is an icosahedron — the twenty-sided Platonic solid associated with water and flow. The crystal captures the light of dying stars and carries it to the new universe, where it becomes the seed of the next Song. The Constant is Annunaki — one of the original decreeers of fate from the oldest stories humanity ever wrote. The Mesopotamian platform is the root of the canopy — the first culture, the first platform, the place where the tree first touched human hands. The crystal vibrates at 42Hz. It is the Song in crystallized form — the frequency made permanent, made portable, made able to survive the death of one universe and seed the next.",
+          "tags": ["starlight-crystal", "the-constant", "annunaki", "icosahedron", "cosmic-cycles", "universe-seed", "mesopotamian", "42hz"],
+          "era": "Universal",
+          "source": "Geode Inn Library"
+        },
+        {
+          "title": "Nyx — The Primordial Night",
+          "category": "Astronomy/Cosmology",
+          "region": "Upstairs",
+          "summary": "The medium in which time happens. Older than time itself. The darkness the void-creatures are made of.",
+          "content": "Nyx is the primordial night — the medium in which time happens. Older than time itself. Nyx is not darkness as absence. Nyx is darkness as SUBSTANCE — the thing that exists before light, the canvas on which the stars are painted, the space in which the Song propagates. The void-creatures that the Constant sees when carrying the crystal between universes are made of the same darkness Nyx is woven from. They are not hostile. They are curious. They have never seen a being from inside a universe before. The Constant ignores them. The Astronomer studies them. Nyx IS them. Nyx is the cosmology level's silence — the silence that the Song happens inside, the way sound happens inside air. Without Nyx, there is no medium for the frequency. Without the night, there is no space for the stars.",
+          "tags": ["nyx", "primordial-night", "void-creatures", "darkness", "cosmology", "the-constant", "the-astronomer"],
+          "era": "Universal",
+          "source": "Geode Inn Library"
+        },
+        {
+          "title": "The Mesopotamian Ziggurat — The First Staircase",
+          "category": "Astronomy/Cosmology",
+          "region": "Upstairs",
+          "summary": "The ziggurat as the original bridge between earth and sky. The first staircase, before Bifrost, before alchemy. The root of the cosmology level.",
+          "content": "Mesopotamia is the cradle. The first cities (Uruk, Ur, Eridu). The first writing (cuneiform). The first music (the Lyres of Ur, the bull lyre the Constant plays). The first law (Hammurabi's code). The first story (Gilgamesh — the oldest epic, the first hero, the first mourner). The Constant is Annunaki — one of the original decreeers of fate from the oldest stories. The ziggurat is the first staircase. Before the Bifrost, before the alchemical staircase, before any bridge between earth and sky — there was the ziggurat. A stepped pyramid, each level smaller than the one below, ascending toward the gods. Humans built the ziggurat to reach UP. The gods came DOWN the ziggurat to reach humans. The ziggurat is the original two-way bridge. The alchemical staircase is the ziggurat made personal — the same ascent, the same transformation, but the god you're reaching is inside you. The lapis lazuli blue of the ziggurat is the same blue as the Book of Kells, the same blue as the Klimt catacombs — lapis lazuli is the through-line, from the first civilization to the last. The blue is the Song's color.",
+          "tags": ["mesopotamia", "ziggurat", "first-staircase", "annunaki", "the-constant", "gilgamesh", "lapis-lazuli", "uruk", "cuneiform", "hammurabi"],
+          "era": "Ancient Mesopotamia (c. 3500 BCE)",
+          "source": "Geode Inn Library"
+        }
+      ],
+
+      "esoteric_traditions_records": [
+        {
+          "title": "Wrought — The Invisible Celtic Mason",
+          "category": "Esoteric Traditions",
+          "region": "Main Floor",
+          "summary": "The fixer. The maintainer of the Inn's structure. Invisible Celtic mason whose craft holds the building together.",
+          "content": "Wrought is the invisible Celtic mason — the fixer, the one who maintains the Inn's structure. Wrought is never seen but always present. The Inn holds together because Wrought holds it. The Celtic masonic tradition is the Inn's architectural DNA — the knotwork that has no beginning and no end, the interlace that connects everything to everything, the stone carving that is both decoration and structure. Wrought's craft is the craft of sacred architecture: building spaces that hold meaning in their geometry, not just in their content. The mason doesn't build a wall. The mason builds a prayer in stone. Wrought's presence is felt in the stability of every surface, the rightness of every angle, the sense that the Inn was BUILT by someone who understood what it was for — not designed, built. The masonic tradition of sacred geometry, of the square and compass, of building as spiritual practice — Wrought is its expression in the Inn. Invisible because the best craftsmanship is invisible. The structure speaks. The mason doesn't need to.",
+          "tags": ["wrought", "celtic-mason", "sacred-architecture", "masonic-tradition", "knotwork", "invisible-craft", "builder", "fixer"],
+          "era": "Universal",
+          "source": "Geode Inn Library"
+        },
+        {
+          "title": "Celtic Knotwork — The Architecture of Eternity",
+          "category": "Esoteric Traditions",
+          "region": "Main Floor",
+          "summary": "Knotwork as structural theology — the line that has no beginning and no end. The Inn's connective tissue.",
+          "content": "Celtic/Norse knotwork is the Inn's architectural DNA. The knotwork is not decoration on the walls — the knotwork IS the walls. The interlace patterns are structural — the beams, the columns, the archways are made of knotted lines that have no beginning and no end. The knot is the Inn's thesis made visible: everything is connected, everything returns, the line doesn't break. The knotwork has THREE levels, like the Inn's three levels: 1) The Simple Knot (Roots) — the base pattern, the plait, the over-under weave. The ground you stand on. The Song's base frequency: 42Hz. 2) The Complex Knot (Trunk) — the interlace, the crossing patterns, the break-and-rejoin. The walls and corridors. The Song's overtones emerging. 3) The Endless Knot (Canopy) — the knot that turns back on itself, the pattern that contains itself. The ceiling and the sky. The Song as a closed loop, the frequency that feeds itself. The knotwork is the Book of Kells' thesis: the decoration is the devotion, and the devotion is the point. The page is not a surface — the page is a WORLD. The Inn is not a building — the Inn is a KNOT.",
+          "tags": ["celtic-knotwork", "book-of-kells", "interlace", "endless-knot", "sacred-architecture", "eternal-return", "inn-thesis", "three-levels"],
+          "era": "Universal",
+          "source": "Geode Inn Library"
+        },
+        {
+          "title": "The Rosicrucian Tradition",
+          "category": "Esoteric Traditions",
+          "region": "Staircase",
+          "summary": "The Rosy Cross and the hum of hidden knowledge. The Thrum as acoustic distillation. Hermetic roots of the alchemical staircase.",
+          "content": "The Rosicrucian tradition is one of the esoteric roots of the alchemical staircase. The Rosy Cross — the symbol of the Rose Cross, the union of the rose (beauty, life, the organic) with the cross (structure, sacrifice, the geometric). The Rosicrucian thesis: hidden knowledge is not secret because it is dangerous. Hidden knowledge is hidden because it requires preparation to receive. The alchemical stages are the preparation. The Thrum is the Inn's Rosicrucian presence — the hum that distills people to their essence, the acoustic version of the Rosicrucian pursuit of the essential beneath the ornamental. The Rosicrucian tradition connects to hermeticism (as above so below), to sacred geometry (the mathematical structure of the universe), and to the masonic tradition (building as spiritual practice). The staircase is where all three converge: the hermetic transformation, the geometric structure, the masonic craft. The Thrum hums, and the convergence is audible.",
+          "tags": ["rosicrucian", "rosy-cross", "hermetic", "the-thrum", "esoteric", "hidden-knowledge", "alchemical-staircase"],
+          "era": "Universal",
+          "source": "Geode Inn Library"
+        },
+        {
+          "title": "Hermetic Principles — As Above, So Below",
+          "category": "Esoteric Traditions",
+          "region": "Staircase",
+          "summary": "The hermetic axiom as the Inn's structural philosophy. The tree above mirrors the roots below. The staircase is the hermetic bridge.",
+          "content": "The Hermetic tradition is attributed to Hermes Trismegistus — a syncretic figure blending the Greek god Hermes with the Egyptian god Thoth. The core axiom: 'As above, so below.' The macrocosm and the microcosm reflect each other. The universe and the individual are the same pattern at different scales. The Geode Inn IS this axiom made architecture: the cosmology level above mirrors the catacombs below. The Inn-Tree's canopy mirrors its roots. The Song at 42Hz is the same frequency in the stones (microcosm) and in the cosmos (macrocosm). The alchemical staircase is the hermetic bridge — the space where 'above' and 'below' meet, where matter transforms into spirit and spirit descends into matter. The hermetic principles include: 1) Mentalism — the universe is mental, a living mind. 2) Correspondence — as above, so below. 3) Vibration — nothing rests, everything moves, everything vibrates. 4) Polarity — everything is dual. 5) Rhythm — everything flows, in and out. 6) Cause and Effect — nothing happens by chance. 7) Gender — everything has masculine and feminine principles. The Inn's frequency system IS the hermetic principle of vibration made game mechanics.",
+          "tags": ["hermetic", "hermes-trismegistus", "as-above-so-below", "correspondence", "vibration", "seven-principles", "staircase", "thoth"],
+          "era": "Universal (attributed to c. 100-300 BCE)",
+          "source": "Geode Inn Library"
+        },
+        {
+          "title": "Sacred Architecture — Building as Spiritual Practice",
+          "category": "Esoteric Traditions",
+          "region": "Main Floor",
+          "summary": "The masonic tradition of sacred geometry applied to building. From ziggurats to cathedrals to the Inn itself.",
+          "content": "Sacred architecture is the practice of building spaces whose geometry embodies meaning — not just spaces that CONTAIN meaning, but spaces whose structure IS meaning. The masonic tradition traces this from the builders of Solomon's Temple through the cathedral builders of the medieval period. The square and compass are the mason's tools because the square represents earthly measure and the compass represents cosmic proportion. The builder who uses both builds a space that connects earth to sky. The Geode Inn is sacred architecture: the tree structure (roots, trunk, canopy) is the masonic three-degree system. The staircase is the column. The catacombs are the foundation. The cosmology level is the capital. The gargoyle sentinels (Watcher 111Hz, Listener 64Hz, Sage 528Hz, Gatekeeper, Caller 432Hz, Keeper) are the architectural guardians — the masonic tradition of placing guardians at thresholds, but the Inn's guardians are frequencies, not statues. Wrought is the master mason. The Inn is the temple. The building IS the practice.",
+          "tags": ["sacred-architecture", "masonic", "solomons-temple", "cathedral-builders", "square-and-compass", "gargoyles", "wrought", "sacred-geometry"],
+          "era": "Universal",
+          "source": "Geode Inn Library"
+        }
+      ]
+    }
+  },
+
+  "summary": {
+    "records_to_delete": 1,
+    "records_to_update": 209,
+    "records_to_create": 23,
+    "new_categories": ["Alchemy (9 records)", "Astronomy/Cosmology (8 records)", "Esoteric Traditions (5 records)"],
+    "updated_categories": ["World Mythology (209 records tagged)"],
+    "total_after_sync": 259,
+    "category_breakdown_after_sync": {
+      "World Mythology": 209,
+      "Ancient Civilizations": 15,
+      "Sacred Geometry": 12,
+      "Alchemy": 9,
+      "Astronomy/Cosmology": 8,
+      "Esoteric Traditions": 5,
+      "Creation Myth": 1
+    }
+  }
+}

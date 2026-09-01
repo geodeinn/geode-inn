@@ -1,0 +1,2063 @@
+{
+  "stones": [
+    {
+      "name": "River Amber",
+      "family": "Amber",
+      "opacity": "opaque",
+      "optical": "none",
+      "finish": "smooth",
+      "canFacet": false,
+      "colorNotes": "Golden, cold, holds a memory inside \u2014 a trapped prehistoric insect",
+      "image": "https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/efb9ae233_generated_image.png"
+    },
+    {
+      "name": "Rhine Quartz",
+      "family": "Quartz",
+      "opacity": "transparent",
+      "optical": "none",
+      "finish": "faceted",
+      "canFacet": true,
+      "colorNotes": "Clear with a golden tint, river-polished from the Rhine",
+      "image": "https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/d6f1cd2c1_generated_image.png"
+    },
+    {
+      "name": "Frost Iron",
+      "family": "Iron",
+      "opacity": "opaque",
+      "optical": "none",
+      "finish": "smooth",
+      "canFacet": false,
+      "colorNotes": "Norwegian river iron, cold, heavy, permanent frost coating",
+      "image": "https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/4c4c67be1_generated_image.png"
+    },
+    {
+      "name": "Provence Limestone",
+      "family": "Carbonate",
+      "opacity": "opaque",
+      "optical": "none",
+      "finish": "smooth",
+      "canFacet": false,
+      "colorNotes": "Honey-colored, water-smooth, warm to the touch from Provence",
+      "image": "https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/efcf4e9c7_generated_image.png"
+    },
+    {
+      "name": "Alpine Granite",
+      "family": "Igneous",
+      "opacity": "opaque",
+      "optical": "none",
+      "finish": "smooth",
+      "canFacet": false,
+      "colorNotes": "Grey-pink, lake-polished, dense from the Alps",
+      "image": "https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/3e2f1b9c5_generated_image.png"
+    },
+    {
+      "name": "Vistula Agate",
+      "family": "Agate",
+      "opacity": "translucent",
+      "optical": "none",
+      "finish": "faceted",
+      "canFacet": true,
+      "colorNotes": "Red-banded, river-polished, warm from the Vistula",
+      "image": "https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/18b021d1e_generated_image.png"
+    },
+    {
+      "name": "Rainstone",
+      "family": "Silicate",
+      "opacity": "opaque",
+      "optical": "none",
+      "finish": "smooth",
+      "canFacet": false,
+      "colorNotes": "Grey-blue, smooth, always slightly damp to the touch",
+      "image": "https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/43d3a014c_generated_image.png"
+    },
+    {
+      "name": "Dreamtime Opal",
+      "family": "Opal",
+      "opacity": "translucent",
+      "optical": "play-of-color",
+      "finish": "smooth",
+      "canFacet": false,
+      "colorNotes": "Rainbow-colored, the rarest stone in the water zone \u2014 full spectrum play of color",
+      "image": "https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/52c16d662_generated_image.png"
+    },
+    {
+      "name": "Crocodile Stone",
+      "family": "Silicate",
+      "opacity": "opaque",
+      "optical": "none",
+      "finish": "smooth",
+      "canFacet": false,
+      "colorNotes": "Green-black, scaled pattern, river-worn, ancient",
+      "image": "https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/6579a6662_generated_image.png"
+    },
+    {
+      "name": "Maldivian Pearl",
+      "family": "Pearl",
+      "opacity": "opaque",
+      "optical": "orient",
+      "finish": "smooth",
+      "canFacet": false,
+      "colorNotes": "Black-lipped oyster pearl, the rarest pearl type, deep ocean black",
+      "image": "https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/c3b3ca32d_generated_image.png"
+    },
+    {
+      "name": "Tannin Agate",
+      "family": "Agate",
+      "opacity": "translucent",
+      "optical": "none",
+      "finish": "faceted",
+      "canFacet": true,
+      "colorNotes": "Brown-orange, river-stained, swamp-worn from Georgia",
+      "image": "https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/ce7f97aa8_generated_image.png"
+    },
+    {
+      "name": "Cosmic Serpent Scale",
+      "family": "Scale",
+      "opacity": "opaque",
+      "optical": "iridescence",
+      "finish": "smooth",
+      "canFacet": false,
+      "colorNotes": "Iridescent, the only scale that didn't fall off, the serpent's gift",
+      "image": "https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/2f4626839_generated_image.png"
+    },
+    {
+      "name": "Blue Hole Calcite",
+      "family": "Carbonate",
+      "opacity": "translucent",
+      "optical": "none",
+      "finish": "faceted",
+      "canFacet": true,
+      "colorNotes": "Turquoise-to-black gradient, the stone captures the blue hole's color shift",
+      "image": "https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/0c40712e2_generated_image.png"
+    },
+    {
+      "name": "Spirit Quartz",
+      "family": "Quartz",
+      "opacity": "transparent",
+      "optical": "none",
+      "finish": "faceted",
+      "canFacet": true,
+      "colorNotes": "Clear, but casts a shadow that doesn't match its shape",
+      "image": "https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/e13a2aeed_generated_image.png"
+    },
+    {
+      "name": "Emei Jade",
+      "family": "Silicate",
+      "opacity": "translucent",
+      "optical": "none",
+      "finish": "faceted",
+      "canFacet": true,
+      "colorNotes": "White-green, mountain-water stone, the journey from peak to sea",
+      "image": "https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/9b23adaba_generated_image.png"
+    },
+    {
+      "name": "Cyprus Coral Stone",
+      "family": "Carbonate",
+      "opacity": "opaque",
+      "optical": "none",
+      "finish": "smooth",
+      "canFacet": false,
+      "colorNotes": "Turquoise, coral-textured, bright and cheerful from Cyprus",
+      "image": "https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/c1fc99c30_generated_image.png"
+    },
+    {
+      "name": "Freshwater Pearl",
+      "family": "Pearl",
+      "opacity": "opaque",
+      "optical": "orient",
+      "finish": "smooth",
+      "canFacet": false,
+      "colorNotes": "Water-worn variant \u2014 slightly darker than surface pearl, shaped by loch currents",
+      "image": "https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/19aa06999_pearl_family.png"
+    },
+    {
+      "name": "River Pearl",
+      "family": "Pearl",
+      "opacity": "opaque",
+      "optical": "orient",
+      "finish": "smooth",
+      "canFacet": false,
+      "colorNotes": "Darker than freshwater pearl, shaped by river current",
+      "image": "https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/19aa06999_pearl_family.png"
+    },
+    {
+      "name": "Australian Boulder Opal",
+      "family": "Opal",
+      "opacity": "translucent",
+      "optical": "play-of-color",
+      "finish": "smooth",
+      "canFacet": false,
+      "colorNotes": "Water-worn \u2014 ironstone matrix visible, opal veins smoothed by billabong water",
+      "image": "https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/1adc14f2c_silicate_family_opaque.png"
+    },
+    {
+      "name": "Moonstone (Celestial)",
+      "family": "Feldspar",
+      "opacity": "translucent",
+      "optical": "adularescence",
+      "finish": "faceted",
+      "canFacet": true,
+      "colorNotes": "Celestial variant \u2014 glowing, not water-attenuated. Smoother than surface moonstone",
+      "image": "https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/4a450b061_feldspar_family.png"
+    },
+    {
+      "name": "Pounamu",
+      "family": "Silicate",
+      "opacity": "opaque",
+      "optical": "none",
+      "finish": "smooth",
+      "canFacet": false,
+      "colorNotes": "River-worn greenstone, deep nephrite green, Maori moko patterns visible",
+      "image": "https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/1adc14f2c_silicate_family_opaque.png"
+    },
+    {
+      "name": "Coral Pearl",
+      "family": "Pearl",
+      "opacity": "opaque",
+      "optical": "orient",
+      "finish": "smooth",
+      "canFacet": false,
+      "colorNotes": "Pink organic pearl from healed coral reef",
+      "image": "https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/19aa06999_pearl_family.png"
+    },
+    {
+      "name": "River Diamond",
+      "family": "Carbon",
+      "opacity": "transparent",
+      "optical": "none",
+      "finish": "faceted",
+      "canFacet": true,
+      "colorNotes": "Alluvial diamond, water-tumbled, embedded in river sediment matrix",
+      "image": "https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/4b2201448_native_element_carbon_family.png"
+    },
+    {
+      "name": "Amazonian Aquamarine",
+      "family": "Beryl",
+      "opacity": "transparent",
+      "optical": "none",
+      "finish": "faceted",
+      "canFacet": true,
+      "colorNotes": "River-blue, water-worn smooth, from the Meeting of Waters",
+      "image": "https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/1adc14f2c_silicate_family_opaque.png"
+    },
+    {
+      "name": "Sea Glass",
+      "family": "Glass",
+      "opacity": "translucent",
+      "optical": "none",
+      "finish": "smooth",
+      "canFacet": false,
+      "colorNotes": "Blue, wave-tumbled, manufactured but naturalized by the sea",
+      "image": "https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/bbfa3ad40_volcanic_glass_family.png"
+    },
+    {
+      "name": "Sealite",
+      "family": "Silicate",
+      "opacity": "opaque",
+      "optical": "none",
+      "finish": "smooth",
+      "canFacet": false,
+      "colorNotes": "Rare grey stone, smooth as a seal's coat, Orkney beach-found",
+      "image": "https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/0c1d542ff_generated_image.png"
+    },
+    {
+      "name": "Welsh Slate",
+      "family": "Slate",
+      "opacity": "opaque",
+      "optical": "none",
+      "finish": "smooth",
+      "canFacet": false,
+      "colorNotes": "Blue-grey, water-split, smooth from mountain lake",
+      "image": "https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/a23e844c2_generated_image.png"
+    },
+    {
+      "name": "Congo Jasper",
+      "family": "Jasper",
+      "opacity": "opaque",
+      "optical": "none",
+      "finish": "smooth",
+      "canFacet": false,
+      "colorNotes": "Deep red-brown, river-worn, warm tones from Congo River",
+      "image": "https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/eb706a32b_generated_image.png"
+    },
+    {
+      "name": "Mangrove Pearl",
+      "family": "Pearl",
+      "opacity": "opaque",
+      "optical": "orient",
+      "finish": "smooth",
+      "canFacet": false,
+      "colorNotes": "Green-black, organic, brackish water-formed",
+      "image": "https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/d29b25ac5_generated_image.png"
+    },
+    {
+      "name": "Howick Quartz",
+      "family": "Quartz",
+      "opacity": "transparent",
+      "optical": "none",
+      "finish": "faceted",
+      "canFacet": true,
+      "colorNotes": "Storm-charged, crackling with internal fractures, from Howick Falls",
+      "image": "https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/3a949f9d2_generated_image.png"
+    },
+    {
+      "name": "Nile Sapphire",
+      "family": "Corundum",
+      "opacity": "transparent",
+      "optical": "none",
+      "finish": "faceted",
+      "canFacet": true,
+      "colorNotes": "Deep blue, river-worn, ancient \u2014 from the Blue Nile gorge",
+      "image": "https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/ff7e05ac3_generated_image.png"
+    },
+    {
+      "name": "Antarctic Ice Quartz",
+      "family": "Quartz",
+      "opacity": "transparent",
+      "optical": "none",
+      "finish": "faceted",
+      "canFacet": true,
+      "colorNotes": "Clear as ice, cold to the touch, permanently frozen \u2014 the clearest quartz in the Inn",
+      "image": "https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/64a330943_generated_image.png"
+    },
+    {
+      "name": "Petrified Palm Wood",
+      "family": "Chalcedony",
+      "opacity": "opaque",
+      "optical": "none",
+      "finish": "smooth",
+      "canFacet": false,
+      "colorNotes": "Tan, brown, reddish-brown with distinctive spotted or dotted cellular patterns from the original palm vascular structure.",
+      "image": "https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/0ae44e109_generated_image.png"
+    },
+    {
+      "name": "Fossil Coprolite",
+      "family": "Phosphate",
+      "opacity": "transparent",
+      "optical": "none",
+      "finish": "faceted",
+      "canFacet": true,
+      "colorNotes": "Brown, tan, gray, sometimes with visible inclusions. Patterns vary by source diet and mineral replacement.",
+      "image": "https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/021d1489e_generated_image.png"
+    },
+    {
+      "name": "Multi - Colored Tourmaline",
+      "family": "Tourmaline",
+      "opacity": "opaque",
+      "optical": "pleochroism",
+      "finish": "both",
+      "canFacet": true,
+      "colorNotes": null,
+      "image": "https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/bb571b74e_generated_image.png"
+    },
+    {
+      "name": "Rubellite Tourmaline",
+      "family": "Tourmaline",
+      "opacity": "opaque",
+      "optical": "pleochroism",
+      "finish": "both",
+      "canFacet": true,
+      "colorNotes": null,
+      "image": "https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/4fa1ebcc4_generated_image.png"
+    },
+    {
+      "name": "Watermelon Tourmaline",
+      "family": "Tourmaline",
+      "opacity": "opaque",
+      "optical": "pleochroism",
+      "finish": "both",
+      "canFacet": true,
+      "colorNotes": null,
+      "image": "https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/acc72bdc8_generated_image.png"
+    },
+    {
+      "name": "Turquoise (types found in the Americas)",
+      "family": "Turquoise",
+      "opacity": "opaque",
+      "optical": "none",
+      "finish": "smooth",
+      "canFacet": false,
+      "colorNotes": null,
+      "image": "https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/78d3f2eff_generated_image.png"
+    },
+    {
+      "name": "Turquoise (Tibetan)",
+      "family": "Turquoise",
+      "opacity": "opaque",
+      "optical": "none",
+      "finish": "smooth",
+      "canFacet": false,
+      "colorNotes": null,
+      "image": "https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/290232f14_generated_image.png"
+    },
+    {
+      "name": "Unakite",
+      "family": "Igneous",
+      "opacity": "opaque",
+      "optical": "none",
+      "finish": "smooth",
+      "canFacet": false,
+      "colorNotes": null,
+      "image": "https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/92b1d4247_generated_image.png"
+    },
+    {
+      "name": "Uvarovite",
+      "family": "Garnet",
+      "opacity": "transparent",
+      "optical": "none",
+      "finish": "faceted",
+      "canFacet": true,
+      "colorNotes": null,
+      "image": "https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/4ae72bc57_generated_image.png"
+    },
+    {
+      "name": "Zoisite (with ruby inclusions)",
+      "family": "Silicate",
+      "opacity": "translucent",
+      "optical": "none",
+      "finish": "faceted",
+      "canFacet": true,
+      "colorNotes": null,
+      "image": "https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/b6a81597e_generated_image.png"
+    },
+    {
+      "name": "Zultanite",
+      "family": "Diaspore",
+      "opacity": "transparent",
+      "optical": "color-change",
+      "finish": "faceted",
+      "canFacet": true,
+      "colorNotes": null,
+      "image": "https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/12c330021_generated_image.png"
+    },
+    {
+      "name": "Sunstone",
+      "family": "Feldspar",
+      "opacity": "translucent",
+      "optical": "iridescence",
+      "finish": "faceted",
+      "canFacet": true,
+      "colorNotes": null,
+      "image": "https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/403838ca4_generated_image.png"
+    },
+    {
+      "name": "Tanzanite",
+      "family": "Zoisite",
+      "opacity": "transparent",
+      "optical": "pleochroism",
+      "finish": "faceted",
+      "canFacet": true,
+      "colorNotes": null,
+      "image": "https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/62e3d0561_generated_image.png"
+    },
+    {
+      "name": "Tektite",
+      "family": "Tektite",
+      "opacity": "translucent",
+      "optical": "none",
+      "finish": "smooth",
+      "canFacet": false,
+      "colorNotes": null,
+      "image": "https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/ecba25487_generated_image.png"
+    },
+    {
+      "name": "Blue Tiger's Eye",
+      "family": "Quartz",
+      "opacity": "transparent",
+      "optical": "chatoyancy",
+      "finish": "faceted",
+      "canFacet": true,
+      "colorNotes": null,
+      "image": "https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/97ce6eca9_generated_image.png"
+    },
+    {
+      "name": "Brown Tiger's Eye",
+      "family": "Quartz",
+      "opacity": "transparent",
+      "optical": "chatoyancy",
+      "finish": "faceted",
+      "canFacet": true,
+      "colorNotes": null,
+      "image": "https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/0547db0c1_generated_image.png"
+    },
+    {
+      "name": "Red Tiger's Eye",
+      "family": "Quartz",
+      "opacity": "transparent",
+      "optical": "chatoyancy",
+      "finish": "faceted",
+      "canFacet": true,
+      "colorNotes": null,
+      "image": "https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/ae1b13387_generated_image.png"
+    },
+    {
+      "name": "Tiger Iron",
+      "family": "Quartz",
+      "opacity": "transparent",
+      "optical": "chatoyancy",
+      "finish": "faceted",
+      "canFacet": true,
+      "colorNotes": null,
+      "image": "https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/b06eb848d_generated_image.png"
+    },
+    {
+      "name": "Blue Topaz (London)",
+      "family": "Topaz",
+      "opacity": "transparent",
+      "optical": "none",
+      "finish": "faceted",
+      "canFacet": true,
+      "colorNotes": null,
+      "image": "https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/b7df12c94_generated_image.png"
+    },
+    {
+      "name": "Blue Topaz (Swiss)",
+      "family": "Topaz",
+      "opacity": "transparent",
+      "optical": "none",
+      "finish": "faceted",
+      "canFacet": true,
+      "colorNotes": null,
+      "image": "https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/883a985ef_generated_image.png"
+    },
+    {
+      "name": "Clear Topaz",
+      "family": "Topaz",
+      "opacity": "transparent",
+      "optical": "none",
+      "finish": "faceted",
+      "canFacet": true,
+      "colorNotes": null,
+      "image": "https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/317070418_generated_image.png"
+    },
+    {
+      "name": "Imperial (Golden) Topaz",
+      "family": "Topaz",
+      "opacity": "transparent",
+      "optical": "none",
+      "finish": "faceted",
+      "canFacet": true,
+      "colorNotes": null,
+      "image": "https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/0a864aa1e_generated_image.png"
+    },
+    {
+      "name": "Black Tourmaline",
+      "family": "Tourmaline",
+      "opacity": "opaque",
+      "optical": "pleochroism",
+      "finish": "both",
+      "canFacet": true,
+      "colorNotes": null,
+      "image": "https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/d119cbba1_generated_image.png"
+    },
+    {
+      "name": "Blue Tourmaline",
+      "family": "Tourmaline",
+      "opacity": "opaque",
+      "optical": "pleochroism",
+      "finish": "both",
+      "canFacet": true,
+      "colorNotes": null,
+      "image": "https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/3f8dfa379_generated_image.png"
+    },
+    {
+      "name": "Green Tourmaline",
+      "family": "Tourmaline",
+      "opacity": "opaque",
+      "optical": "pleochroism",
+      "finish": "both",
+      "canFacet": true,
+      "colorNotes": null,
+      "image": "https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/be03a1a31_generated_image.png"
+    },
+    {
+      "name": "Rhodochrosite",
+      "family": "Carbonate",
+      "opacity": "opaque",
+      "optical": "none",
+      "finish": "smooth",
+      "canFacet": false,
+      "colorNotes": null,
+      "image": "https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/083fdf356_generated_image.png"
+    },
+    {
+      "name": "Rhodonite",
+      "family": "Silicate",
+      "opacity": "opaque",
+      "optical": "none",
+      "finish": "smooth",
+      "canFacet": false,
+      "colorNotes": null,
+      "image": "https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/0d9961655_generated_image.png"
+    },
+    {
+      "name": "Ruby",
+      "family": "Corundum",
+      "opacity": "transparent",
+      "optical": "none",
+      "finish": "faceted",
+      "canFacet": true,
+      "colorNotes": null,
+      "image": "https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/9211138be_generated_image.png"
+    },
+    {
+      "name": "Ruby with kyanite",
+      "family": "Corundum",
+      "opacity": "transparent",
+      "optical": "none",
+      "finish": "faceted",
+      "canFacet": true,
+      "colorNotes": null,
+      "image": "https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/913c8c4ab_generated_image.png"
+    },
+    {
+      "name": "Sapphire",
+      "family": "Corundum",
+      "opacity": "transparent",
+      "optical": "none",
+      "finish": "faceted",
+      "canFacet": true,
+      "colorNotes": null,
+      "image": "https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/525d4b1c7_generated_image.png"
+    },
+    {
+      "name": "Sapphire (Tundra)",
+      "family": "Corundum",
+      "opacity": "transparent",
+      "optical": "none",
+      "finish": "faceted",
+      "canFacet": true,
+      "colorNotes": null,
+      "image": "https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/bb660749e_generated_image.png"
+    },
+    {
+      "name": "Sard",
+      "family": "Chalcedony",
+      "opacity": "opaque",
+      "optical": "none",
+      "finish": "smooth",
+      "canFacet": false,
+      "colorNotes": null,
+      "image": "https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/96d7cbd76_generated_image.png"
+    },
+    {
+      "name": "Sardonyx",
+      "family": "Chalcedony",
+      "opacity": "opaque",
+      "optical": "none",
+      "finish": "smooth",
+      "canFacet": false,
+      "colorNotes": null,
+      "image": "https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/af4751662_generated_image.png"
+    },
+    {
+      "name": "Septarian",
+      "family": "Carbonate",
+      "opacity": "opaque",
+      "optical": "none",
+      "finish": "smooth",
+      "canFacet": false,
+      "colorNotes": null,
+      "image": "https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/aac3e1ad6_generated_image.png"
+    },
+    {
+      "name": "Shungite",
+      "family": "Carbon",
+      "opacity": "transparent",
+      "optical": "none",
+      "finish": "faceted",
+      "canFacet": true,
+      "colorNotes": null,
+      "image": "https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/e6a25ae1e_generated_image.png"
+    },
+    {
+      "name": "Sodalite",
+      "family": "Silicate",
+      "opacity": "opaque",
+      "optical": "none",
+      "finish": "smooth",
+      "canFacet": false,
+      "colorNotes": null,
+      "image": "https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/8db376a95_generated_image.png"
+    },
+    {
+      "name": "Sodalite (African)",
+      "family": "Silicate",
+      "opacity": "opaque",
+      "optical": "none",
+      "finish": "smooth",
+      "canFacet": false,
+      "colorNotes": null,
+      "image": "https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/5ba233652_generated_image.png"
+    },
+    {
+      "name": "Spinel",
+      "family": "Spinel",
+      "opacity": "translucent",
+      "optical": "none",
+      "finish": "faceted",
+      "canFacet": true,
+      "colorNotes": null,
+      "image": "https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/fdae54471_generated_image.png"
+    },
+    {
+      "name": "Staurolite (fairy cross stone)",
+      "family": "Silicate",
+      "opacity": "opaque",
+      "optical": "none",
+      "finish": "smooth",
+      "canFacet": false,
+      "colorNotes": null,
+      "image": "https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/64614f22e_generated_image.png"
+    },
+    {
+      "name": "Sugilite",
+      "family": "Silicate",
+      "opacity": "opaque",
+      "optical": "none",
+      "finish": "smooth",
+      "canFacet": false,
+      "colorNotes": null,
+      "image": "https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/edaf8604d_generated_image.png"
+    },
+    {
+      "name": "Pearl",
+      "family": "Pearl",
+      "opacity": "opaque",
+      "optical": "orient",
+      "finish": "smooth",
+      "canFacet": false,
+      "colorNotes": null,
+      "image": "https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/90b9eb9e0_generated_image.png"
+    },
+    {
+      "name": "Peridot",
+      "family": "Olivine",
+      "opacity": "transparent",
+      "optical": "none",
+      "finish": "faceted",
+      "canFacet": true,
+      "colorNotes": "Yellow-green to olive green to brownish-green. The gem-quality variety of olivine.",
+      "image": "https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/8eb9317d8_generated_image.png"
+    },
+    {
+      "name": "Petrified Wood",
+      "family": "Chalcedony",
+      "opacity": "opaque",
+      "optical": "none",
+      "finish": "smooth",
+      "canFacet": false,
+      "colorNotes": null,
+      "image": "https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/28968468b_generated_image.png"
+    },
+    {
+      "name": "Pietersite",
+      "family": "Chalcedony",
+      "opacity": "opaque",
+      "optical": "chatoyancy",
+      "finish": "smooth",
+      "canFacet": false,
+      "colorNotes": null,
+      "image": "https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/b0f59bbaf_generated_image.png"
+    },
+    {
+      "name": "Platinum",
+      "family": "Native Element",
+      "opacity": "opaque",
+      "optical": "none",
+      "finish": "smooth",
+      "canFacet": false,
+      "colorNotes": null,
+      "image": "https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/f8620381e_generated_image.png"
+    },
+    {
+      "name": "Prehnite",
+      "family": "Silicate",
+      "opacity": "translucent",
+      "optical": "none",
+      "finish": "faceted",
+      "canFacet": true,
+      "colorNotes": null,
+      "image": "https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/9f4f0cbb7_generated_image.png"
+    },
+    {
+      "name": "Preseli Blue Stone",
+      "family": "Dolerite",
+      "opacity": "opaque",
+      "optical": "none",
+      "finish": "smooth",
+      "canFacet": false,
+      "colorNotes": null,
+      "image": "https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/30d241d8c_generated_image.png"
+    },
+    {
+      "name": "Pyrite",
+      "family": "Sulfide",
+      "opacity": "opaque",
+      "optical": "none",
+      "finish": "smooth",
+      "canFacet": false,
+      "colorNotes": null,
+      "image": "https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/42514d581_generated_image.png"
+    },
+    {
+      "name": "Clear Quartz",
+      "family": "Quartz",
+      "opacity": "transparent",
+      "optical": "none",
+      "finish": "faceted",
+      "canFacet": true,
+      "colorNotes": null,
+      "image": "https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/82b42704a_generated_image.png"
+    },
+    {
+      "name": "Phantom Quartz",
+      "family": "Quartz",
+      "opacity": "transparent",
+      "optical": "none",
+      "finish": "faceted",
+      "canFacet": true,
+      "colorNotes": null,
+      "image": "https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/55afaaa32_generated_image.png"
+    },
+    {
+      "name": "Rose Quartz",
+      "family": "Quartz",
+      "opacity": "transparent",
+      "optical": "none",
+      "finish": "faceted",
+      "canFacet": true,
+      "colorNotes": null,
+      "image": "https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/75b607da1_generated_image.png"
+    },
+    {
+      "name": "Rutilated Quartz",
+      "family": "Quartz",
+      "opacity": "transparent",
+      "optical": "none",
+      "finish": "faceted",
+      "canFacet": true,
+      "colorNotes": null,
+      "image": "https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/3a8e2386d_generated_image.png"
+    },
+    {
+      "name": "Smoky Quartz",
+      "family": "Quartz",
+      "opacity": "transparent",
+      "optical": "none",
+      "finish": "faceted",
+      "canFacet": true,
+      "colorNotes": null,
+      "image": "https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/c8f2758f5_generated_image.png"
+    },
+    {
+      "name": "Solar Quartz",
+      "family": "Quartz",
+      "opacity": "transparent",
+      "optical": "none",
+      "finish": "faceted",
+      "canFacet": true,
+      "colorNotes": null,
+      "image": "https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/fdab465ab_generated_image.png"
+    },
+    {
+      "name": "Tourmalinated Quartz",
+      "family": "Quartz",
+      "opacity": "transparent",
+      "optical": "none",
+      "finish": "faceted",
+      "canFacet": true,
+      "colorNotes": null,
+      "image": "https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/85a90371e_generated_image.png"
+    },
+    {
+      "name": "Moldavite",
+      "family": "Tektite",
+      "opacity": "translucent",
+      "optical": "none",
+      "finish": "smooth",
+      "canFacet": false,
+      "colorNotes": null,
+      "image": "https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/3a5d09449_generated_image.png"
+    },
+    {
+      "name": "Peach Moonstone",
+      "family": "Feldspar",
+      "opacity": "translucent",
+      "optical": "adularescence",
+      "finish": "faceted",
+      "canFacet": true,
+      "colorNotes": null,
+      "image": "https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/575ceea02_generated_image.png"
+    },
+    {
+      "name": "Rainbow Moonstone",
+      "family": "Feldspar",
+      "opacity": "translucent",
+      "optical": "adularescence",
+      "finish": "faceted",
+      "canFacet": true,
+      "colorNotes": null,
+      "image": "https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/1a1348ef3_generated_image.png"
+    },
+    {
+      "name": "White Moonstone",
+      "family": "Feldspar",
+      "opacity": "translucent",
+      "optical": "adularescence",
+      "finish": "faceted",
+      "canFacet": true,
+      "colorNotes": null,
+      "image": "https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/a4d5810d2_generated_image.png"
+    },
+    {
+      "name": "Morganite",
+      "family": "Beryl",
+      "opacity": "transparent",
+      "optical": "none",
+      "finish": "faceted",
+      "canFacet": true,
+      "colorNotes": null,
+      "image": "https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/2972b84c3_generated_image.png"
+    },
+    {
+      "name": "Nuummite",
+      "family": "Silicate",
+      "opacity": "opaque",
+      "optical": "iridescence",
+      "finish": "smooth",
+      "canFacet": false,
+      "colorNotes": null,
+      "image": "https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/ac009964d_generated_image.png"
+    },
+    {
+      "name": "Gold Sheen Obsidian",
+      "family": "Volcanic Glass",
+      "opacity": "opaque",
+      "optical": "iridescence",
+      "finish": "smooth",
+      "canFacet": false,
+      "colorNotes": null,
+      "image": "https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/adb14af65_generated_image.png"
+    },
+    {
+      "name": "Rainbow Obsidian",
+      "family": "Volcanic Glass",
+      "opacity": "opaque",
+      "optical": "iridescence",
+      "finish": "smooth",
+      "canFacet": false,
+      "colorNotes": null,
+      "image": "https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/ac91025bc_generated_image.png"
+    },
+    {
+      "name": "Snowflake Obsidian",
+      "family": "Volcanic Glass",
+      "opacity": "opaque",
+      "optical": "none",
+      "finish": "smooth",
+      "canFacet": false,
+      "colorNotes": null,
+      "image": "https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/fbe2cab4d_generated_image.png"
+    },
+    {
+      "name": "Black Onyx",
+      "family": "Chalcedony",
+      "opacity": "opaque",
+      "optical": "none",
+      "finish": "smooth",
+      "canFacet": false,
+      "colorNotes": null,
+      "image": "https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/cf96aee91_generated_image.png"
+    },
+    {
+      "name": "Green Onyx",
+      "family": "Chalcedony",
+      "opacity": "opaque",
+      "optical": "none",
+      "finish": "smooth",
+      "canFacet": false,
+      "colorNotes": null,
+      "image": "https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/4e0c85b3d_generated_image.png"
+    },
+    {
+      "name": "Lemurian Blue Calcite (Blue Onyx)",
+      "family": "Carbonate",
+      "opacity": "translucent",
+      "optical": "none",
+      "finish": "faceted",
+      "canFacet": true,
+      "colorNotes": null,
+      "image": "https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/60dbbdda6_generated_image.png"
+    },
+    {
+      "name": "Black Opal",
+      "family": "Opal",
+      "opacity": "translucent",
+      "optical": "play-of-color",
+      "finish": "smooth",
+      "canFacet": false,
+      "colorNotes": null,
+      "image": "https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/85bf9fee4_generated_image.png"
+    },
+    {
+      "name": "Blue Opal (Peruvian)",
+      "family": "Opal",
+      "opacity": "translucent",
+      "optical": "play-of-color",
+      "finish": "smooth",
+      "canFacet": false,
+      "colorNotes": null,
+      "image": "https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/787b705f4_generated_image.png"
+    },
+    {
+      "name": "Boulder Opal",
+      "family": "Opal",
+      "opacity": "translucent",
+      "optical": "play-of-color",
+      "finish": "smooth",
+      "canFacet": false,
+      "colorNotes": null,
+      "image": "https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/72805b511_generated_image.png"
+    },
+    {
+      "name": "Fire Opal",
+      "family": "Opal",
+      "opacity": "translucent",
+      "optical": "play-of-color",
+      "finish": "faceted",
+      "canFacet": true,
+      "colorNotes": null,
+      "image": "https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/c42f71b01_generated_image.png"
+    },
+    {
+      "name": "Water Opal",
+      "family": "Opal",
+      "opacity": "translucent",
+      "optical": "play-of-color",
+      "finish": "smooth",
+      "canFacet": false,
+      "colorNotes": null,
+      "image": "https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/c3af3afc6_generated_image.png"
+    },
+    {
+      "name": "Picasso Jasper",
+      "family": "Chalcedony",
+      "opacity": "opaque",
+      "optical": "none",
+      "finish": "smooth",
+      "canFacet": false,
+      "colorNotes": null,
+      "image": "https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/8fce9a1c2_generated_image.png"
+    },
+    {
+      "name": "Picture Jasper",
+      "family": "Chalcedony",
+      "opacity": "opaque",
+      "optical": "none",
+      "finish": "smooth",
+      "canFacet": false,
+      "colorNotes": null,
+      "image": "https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/bd5ef3418_generated_image.png"
+    },
+    {
+      "name": "Sunset Jasper",
+      "family": "Chalcedony",
+      "opacity": "opaque",
+      "optical": "none",
+      "finish": "smooth",
+      "canFacet": false,
+      "colorNotes": null,
+      "image": "https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/ba93e051a_generated_image.png"
+    },
+    {
+      "name": "Jet",
+      "family": "Lignite",
+      "opacity": "opaque",
+      "optical": "none",
+      "finish": "smooth",
+      "canFacet": false,
+      "colorNotes": null,
+      "image": "https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/6397fab94_generated_image.png"
+    },
+    {
+      "name": "Kammererite",
+      "family": "Silicate",
+      "opacity": "opaque",
+      "optical": "none",
+      "finish": "smooth",
+      "canFacet": false,
+      "colorNotes": null,
+      "image": "https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/e8d0dacc8_generated_image.png"
+    },
+    {
+      "name": "Kunzite",
+      "family": "Spodumene",
+      "opacity": "transparent",
+      "optical": "pleochroism",
+      "finish": "faceted",
+      "canFacet": true,
+      "colorNotes": null,
+      "image": "https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/bf62d684a_generated_image.png"
+    },
+    {
+      "name": "Kyanite (blue)",
+      "family": "Silicate",
+      "opacity": "translucent",
+      "optical": "none",
+      "finish": "faceted",
+      "canFacet": true,
+      "colorNotes": null,
+      "image": "https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/fbd7d096e_generated_image.png"
+    },
+    {
+      "name": "Kyanite (orange)",
+      "family": "Silicate",
+      "opacity": "translucent",
+      "optical": "none",
+      "finish": "faceted",
+      "canFacet": true,
+      "colorNotes": null,
+      "image": "https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/d946028a0_generated_image.png"
+    },
+    {
+      "name": "Kyanite (Moss)",
+      "family": "Silicate",
+      "opacity": "translucent",
+      "optical": "none",
+      "finish": "faceted",
+      "canFacet": true,
+      "colorNotes": null,
+      "image": "https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/8e0a24875_generated_image.png"
+    },
+    {
+      "name": "Green Labradorite",
+      "family": "Feldspar",
+      "opacity": "translucent",
+      "optical": "adularescence",
+      "finish": "faceted",
+      "canFacet": true,
+      "colorNotes": null,
+      "image": "https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/53bbbeb08_generated_image.png"
+    },
+    {
+      "name": "Lapis Lazuli",
+      "family": "Silicate",
+      "opacity": "opaque",
+      "optical": "none",
+      "finish": "smooth",
+      "canFacet": false,
+      "colorNotes": null,
+      "image": "https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/3e444b5f6_generated_image.png"
+    },
+    {
+      "name": "Larimar",
+      "family": "Silicate",
+      "opacity": "opaque",
+      "optical": "none",
+      "finish": "smooth",
+      "canFacet": false,
+      "colorNotes": null,
+      "image": "https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/72de4456b_generated_image.png"
+    },
+    {
+      "name": "Lepidocrocite",
+      "family": "Silicate",
+      "opacity": "translucent",
+      "optical": "none",
+      "finish": "faceted",
+      "canFacet": true,
+      "colorNotes": null,
+      "image": "https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/b1812258d_generated_image.png"
+    },
+    {
+      "name": "Lepidolite",
+      "family": "Silicate",
+      "opacity": "opaque",
+      "optical": "none",
+      "finish": "smooth",
+      "canFacet": false,
+      "colorNotes": null,
+      "image": "https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/430235fda_generated_image.png"
+    },
+    {
+      "name": "Malachite",
+      "family": "Carbonate",
+      "opacity": "opaque",
+      "optical": "none",
+      "finish": "smooth",
+      "canFacet": false,
+      "colorNotes": null,
+      "image": "https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/17dc87cdd_generated_image.png"
+    },
+    {
+      "name": "Hawk's Eye",
+      "family": "Quartz",
+      "opacity": "transparent",
+      "optical": "chatoyancy",
+      "finish": "faceted",
+      "canFacet": true,
+      "colorNotes": null,
+      "image": "https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/108f3e816_generated_image.png"
+    },
+    {
+      "name": "Hematite",
+      "family": "Oxide",
+      "opacity": "opaque",
+      "optical": "none",
+      "finish": "smooth",
+      "canFacet": false,
+      "colorNotes": null,
+      "image": "https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/32d03f0cf_generated_image.png"
+    },
+    {
+      "name": "Herkimer Diamond",
+      "family": "Quartz",
+      "opacity": "transparent",
+      "optical": "none",
+      "finish": "faceted",
+      "canFacet": true,
+      "colorNotes": null,
+      "image": "https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/6cf451113_generated_image.png"
+    },
+    {
+      "name": "Hypersthene",
+      "family": "Silicate",
+      "opacity": "opaque",
+      "optical": "iridescence",
+      "finish": "smooth",
+      "canFacet": false,
+      "colorNotes": null,
+      "image": "https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/4d217a32a_generated_image.png"
+    },
+    {
+      "name": "Iolite",
+      "family": "Silicate",
+      "opacity": "transparent",
+      "optical": "pleochroism",
+      "finish": "faceted",
+      "canFacet": true,
+      "colorNotes": null,
+      "image": "https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/6826f9a7c_generated_image.png"
+    },
+    {
+      "name": "Guatemalan Jade",
+      "family": "Jade",
+      "opacity": "translucent",
+      "optical": "none",
+      "finish": "faceted",
+      "canFacet": true,
+      "colorNotes": null,
+      "image": "https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/808ab8cc9_generated_image.png"
+    },
+    {
+      "name": "Jadeite",
+      "family": "Jade",
+      "opacity": "translucent",
+      "optical": "none",
+      "finish": "faceted",
+      "canFacet": true,
+      "colorNotes": null,
+      "image": "https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/33e49dd47_generated_image.png"
+    },
+    {
+      "name": "Nephrite Jade",
+      "family": "Jade",
+      "opacity": "translucent",
+      "optical": "none",
+      "finish": "faceted",
+      "canFacet": true,
+      "colorNotes": null,
+      "image": "https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/f145dc239_generated_image.png"
+    },
+    {
+      "name": "White Jade",
+      "family": "Jade",
+      "opacity": "translucent",
+      "optical": "none",
+      "finish": "faceted",
+      "canFacet": true,
+      "colorNotes": null,
+      "image": "https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/68b6031e9_generated_image.png"
+    },
+    {
+      "name": "Bloodstone",
+      "family": "Chalcedony",
+      "opacity": "opaque",
+      "optical": "none",
+      "finish": "smooth",
+      "canFacet": false,
+      "colorNotes": null,
+      "image": "https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/95b8a561e_generated_image.png"
+    },
+    {
+      "name": "Bumblebee Jasper",
+      "family": "Chalcedony",
+      "opacity": "opaque",
+      "optical": "none",
+      "finish": "smooth",
+      "canFacet": false,
+      "colorNotes": null,
+      "image": "https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/6ebe6148e_generated_image.png"
+    },
+    {
+      "name": "Desert Jasper",
+      "family": "Chalcedony",
+      "opacity": "opaque",
+      "optical": "none",
+      "finish": "smooth",
+      "canFacet": false,
+      "colorNotes": null,
+      "image": "https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/f17fa1a5d_generated_image.png"
+    },
+    {
+      "name": "Leopardskin Jasper",
+      "family": "Chalcedony",
+      "opacity": "opaque",
+      "optical": "none",
+      "finish": "smooth",
+      "canFacet": false,
+      "colorNotes": null,
+      "image": "https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/101c0c635_generated_image.png"
+    },
+    {
+      "name": "Moukaite",
+      "family": "Chalcedony",
+      "opacity": "opaque",
+      "optical": "none",
+      "finish": "smooth",
+      "canFacet": false,
+      "colorNotes": null,
+      "image": "https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/71701cfa8_generated_image.png"
+    },
+    {
+      "name": "Ocean Jasper",
+      "family": "Chalcedony",
+      "opacity": "opaque",
+      "optical": "none",
+      "finish": "smooth",
+      "canFacet": false,
+      "colorNotes": null,
+      "image": "https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/e215ded46_generated_image.png"
+    },
+    {
+      "name": "Diamond",
+      "family": "Diamond",
+      "opacity": "transparent",
+      "optical": "none",
+      "finish": "faceted",
+      "canFacet": true,
+      "colorNotes": null,
+      "image": "https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/542ff58cf_generated_image.png"
+    },
+    {
+      "name": "Dumortierite",
+      "family": "Silicate",
+      "opacity": "opaque",
+      "optical": "none",
+      "finish": "smooth",
+      "canFacet": false,
+      "colorNotes": null,
+      "image": "https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/48ff40663_generated_image.png"
+    },
+    {
+      "name": "Emerald",
+      "family": "Beryl",
+      "opacity": "transparent",
+      "optical": "none",
+      "finish": "faceted",
+      "canFacet": true,
+      "colorNotes": null,
+      "image": "https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/a93ec173a_generated_image.png"
+    },
+    {
+      "name": "Epidote",
+      "family": "Silicate",
+      "opacity": "translucent",
+      "optical": "none",
+      "finish": "faceted",
+      "canFacet": true,
+      "colorNotes": null,
+      "image": "https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/23032c84f_generated_image.png"
+    },
+    {
+      "name": "Eudialyte",
+      "family": "Silicate",
+      "opacity": "opaque",
+      "optical": "none",
+      "finish": "smooth",
+      "canFacet": false,
+      "colorNotes": null,
+      "image": "https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/6336dc986_generated_image.png"
+    },
+    {
+      "name": "Green Fluorite",
+      "family": "Halide",
+      "opacity": "translucent",
+      "optical": "fluorescence",
+      "finish": "faceted",
+      "canFacet": true,
+      "colorNotes": null,
+      "image": "https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/63964470d_generated_image.png"
+    },
+    {
+      "name": "Purple Fluorite",
+      "family": "Halide",
+      "opacity": "translucent",
+      "optical": "fluorescence",
+      "finish": "faceted",
+      "canFacet": true,
+      "colorNotes": null,
+      "image": "https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/4e9d4579d_generated_image.png"
+    },
+    {
+      "name": "Rainbow Fluorite",
+      "family": "Halide",
+      "opacity": "translucent",
+      "optical": "fluorescence",
+      "finish": "faceted",
+      "canFacet": true,
+      "colorNotes": null,
+      "image": "https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/dbfb5043d_generated_image.png"
+    },
+    {
+      "name": "Agatized fossil Coprolite (Dinosaur) Coral fossils Opalized Wood Orthoceras",
+      "family": "Chalcedony",
+      "opacity": "opaque",
+      "optical": "none",
+      "finish": "smooth",
+      "canFacet": false,
+      "colorNotes": null,
+      "image": "https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/1e3f524cc_generated_image.png"
+    },
+    {
+      "name": "Petrified palm wood rainbow petrified wood",
+      "family": "Chalcedony",
+      "opacity": "opaque",
+      "optical": "none",
+      "finish": "smooth",
+      "canFacet": false,
+      "colorNotes": null,
+      "image": "https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/6870af304_generated_image.png"
+    },
+    {
+      "name": "Grossular Garnet",
+      "family": "Garnet",
+      "opacity": "transparent",
+      "optical": "none",
+      "finish": "faceted",
+      "canFacet": true,
+      "colorNotes": null,
+      "image": "https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/2dc74f87e_generated_image.png"
+    },
+    {
+      "name": "Hessonite Garnet",
+      "family": "Garnet",
+      "opacity": "transparent",
+      "optical": "none",
+      "finish": "faceted",
+      "canFacet": true,
+      "colorNotes": null,
+      "image": "https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/c1e6274cf_generated_image.png"
+    },
+    {
+      "name": "Mozambique Garnet",
+      "family": "Garnet",
+      "opacity": "transparent",
+      "optical": "none",
+      "finish": "faceted",
+      "canFacet": true,
+      "colorNotes": null,
+      "image": "https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/08d63dbaf_generated_image.png"
+    },
+    {
+      "name": "Rhyolite Garnet",
+      "family": "Garnet",
+      "opacity": "transparent",
+      "optical": "none",
+      "finish": "faceted",
+      "canFacet": true,
+      "colorNotes": "Deep red to reddish-brown garnet crystals in a gray to tan rhyolite matrix.",
+      "image": "https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/6e028c43b_generated_image.png"
+    },
+    {
+      "name": "Spessartite Garnet",
+      "family": "Garnet",
+      "opacity": "transparent",
+      "optical": "none",
+      "finish": "faceted",
+      "canFacet": true,
+      "colorNotes": null,
+      "image": "https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/f933dfcea_generated_image.png"
+    },
+    {
+      "name": "Gem Silica",
+      "family": "Chalcedony",
+      "opacity": "opaque",
+      "optical": "none",
+      "finish": "smooth",
+      "canFacet": false,
+      "colorNotes": null,
+      "image": "https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/c02506c73_generated_image.png"
+    },
+    {
+      "name": "Gold",
+      "family": "Native Element",
+      "opacity": "opaque",
+      "optical": "none",
+      "finish": "smooth",
+      "canFacet": false,
+      "colorNotes": null,
+      "image": "https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/c95caf6eb_generated_image.png"
+    },
+    {
+      "name": "Hackmanite",
+      "family": "Silicate",
+      "opacity": "translucent",
+      "optical": "none",
+      "finish": "faceted",
+      "canFacet": true,
+      "colorNotes": null,
+      "image": "https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/c6ac1486e_generated_image.png"
+    },
+    {
+      "name": "Chalcedony (Blue)",
+      "family": "Chalcedony",
+      "opacity": "opaque",
+      "optical": "none",
+      "finish": "smooth",
+      "canFacet": false,
+      "colorNotes": null,
+      "image": "https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/5d20c44e1_generated_image.png"
+    },
+    {
+      "name": "Chalcedony (Dendritic)",
+      "family": "Chalcedony",
+      "opacity": "opaque",
+      "optical": "none",
+      "finish": "smooth",
+      "canFacet": false,
+      "colorNotes": null,
+      "image": "https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/17e61e6bc_generated_image.png"
+    },
+    {
+      "name": "Charoite",
+      "family": "Silicate",
+      "opacity": "opaque",
+      "optical": "none",
+      "finish": "smooth",
+      "canFacet": false,
+      "colorNotes": null,
+      "image": "https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/43344234d_generated_image.png"
+    },
+    {
+      "name": "Chinese Writing Stone",
+      "family": "Silicate",
+      "opacity": "opaque",
+      "optical": "none",
+      "finish": "smooth",
+      "canFacet": false,
+      "colorNotes": null,
+      "image": "https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/49ace8c85_generated_image.png"
+    },
+    {
+      "name": "Chrome Diopside",
+      "family": "Silicate",
+      "opacity": "transparent",
+      "optical": "none",
+      "finish": "faceted",
+      "canFacet": true,
+      "colorNotes": null,
+      "image": "https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/bd6e3a668_generated_image.png"
+    },
+    {
+      "name": "Chrysocolla",
+      "family": "Silicate",
+      "opacity": "opaque",
+      "optical": "none",
+      "finish": "smooth",
+      "canFacet": false,
+      "colorNotes": null,
+      "image": "https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/d641a24ba_generated_image.png"
+    },
+    {
+      "name": "Chrysocolla Azurite",
+      "family": "Silicate",
+      "opacity": "opaque",
+      "optical": "none",
+      "finish": "smooth",
+      "canFacet": false,
+      "colorNotes": null,
+      "image": "https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/f61f4ecff_generated_image.png"
+    },
+    {
+      "name": "Chrysanthemum Stone",
+      "family": "Silicate",
+      "opacity": "opaque",
+      "optical": "none",
+      "finish": "smooth",
+      "canFacet": false,
+      "colorNotes": null,
+      "image": "https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/5d178789c_generated_image.png"
+    },
+    {
+      "name": "Chrysoprase",
+      "family": "Chalcedony",
+      "opacity": "opaque",
+      "optical": "none",
+      "finish": "smooth",
+      "canFacet": false,
+      "colorNotes": null,
+      "image": "https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/826685998_generated_image.png"
+    },
+    {
+      "name": "Citrine",
+      "family": "Quartz",
+      "opacity": "transparent",
+      "optical": "none",
+      "finish": "faceted",
+      "canFacet": true,
+      "colorNotes": null,
+      "image": "https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/ad39960b4_generated_image.png"
+    },
+    {
+      "name": "Copper",
+      "family": "Native Element",
+      "opacity": "opaque",
+      "optical": "none",
+      "finish": "smooth",
+      "canFacet": false,
+      "colorNotes": null,
+      "image": "https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/fd40d5cd1_generated_image.png"
+    },
+    {
+      "name": "Coral (black)",
+      "family": "Coral",
+      "opacity": "opaque",
+      "optical": "none",
+      "finish": "smooth",
+      "canFacet": false,
+      "colorNotes": null,
+      "image": "https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/c59a965db_generated_image.png"
+    },
+    {
+      "name": "Coral (branch)",
+      "family": "Coral",
+      "opacity": "opaque",
+      "optical": "none",
+      "finish": "smooth",
+      "canFacet": false,
+      "colorNotes": null,
+      "image": "https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/c92cbece0_generated_image.png"
+    },
+    {
+      "name": "Covellite",
+      "family": "Sulfide",
+      "opacity": "opaque",
+      "optical": "none",
+      "finish": "smooth",
+      "canFacet": false,
+      "colorNotes": null,
+      "image": "https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/436990670_generated_image.png"
+    },
+    {
+      "name": "Cuprite",
+      "family": "Oxide",
+      "opacity": "opaque",
+      "optical": "none",
+      "finish": "smooth",
+      "canFacet": false,
+      "colorNotes": null,
+      "image": "https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/656a717f7_generated_image.png"
+    },
+    {
+      "name": "Cat's Eye",
+      "family": "Chrysoberyl",
+      "opacity": "transparent",
+      "optical": "chatoyancy",
+      "finish": "faceted",
+      "canFacet": true,
+      "colorNotes": null,
+      "image": "https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/3e33149f8_generated_image.png"
+    },
+    {
+      "name": "Ametrine",
+      "family": "Quartz",
+      "opacity": "transparent",
+      "optical": "none",
+      "finish": "faceted",
+      "canFacet": true,
+      "colorNotes": null,
+      "image": "https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/347584928_generated_image.png"
+    },
+    {
+      "name": "Ammolite",
+      "family": "Carbonate",
+      "opacity": "opaque",
+      "optical": "none",
+      "finish": "smooth",
+      "canFacet": false,
+      "colorNotes": null,
+      "image": "https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/b45bec343_generated_image.png"
+    },
+    {
+      "name": "Ammonite",
+      "family": "Carbonate",
+      "opacity": "opaque",
+      "optical": "none",
+      "finish": "smooth",
+      "canFacet": false,
+      "colorNotes": null,
+      "image": "https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/f9be285c3_generated_image.png"
+    },
+    {
+      "name": "Andalusite",
+      "family": "Andalusite",
+      "opacity": "transparent",
+      "optical": "pleochroism",
+      "finish": "faceted",
+      "canFacet": true,
+      "colorNotes": null,
+      "image": "https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/15c921c91_generated_image.png"
+    },
+    {
+      "name": "Angelite",
+      "family": "Sulfate",
+      "opacity": "opaque",
+      "optical": "none",
+      "finish": "smooth",
+      "canFacet": false,
+      "colorNotes": null,
+      "image": "https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/b182dd776_generated_image.png"
+    },
+    {
+      "name": "Apatite",
+      "family": "Phosphate",
+      "opacity": "transparent",
+      "optical": "none",
+      "finish": "faceted",
+      "canFacet": true,
+      "colorNotes": null,
+      "image": "https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/a02e7dde9_generated_image.png"
+    },
+    {
+      "name": "Aqua Aura",
+      "family": "Quartz",
+      "opacity": "transparent",
+      "optical": "none",
+      "finish": "faceted",
+      "canFacet": true,
+      "colorNotes": null,
+      "image": "https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/e110ba87d_generated_image.png"
+    },
+    {
+      "name": "Aquamarine",
+      "family": "Beryl",
+      "opacity": "transparent",
+      "optical": "none",
+      "finish": "faceted",
+      "canFacet": true,
+      "colorNotes": null,
+      "image": "https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/873d089f8_generated_image.png"
+    },
+    {
+      "name": "Aquaprase",
+      "family": "Chalcedony",
+      "opacity": "opaque",
+      "optical": "none",
+      "finish": "smooth",
+      "canFacet": false,
+      "colorNotes": null,
+      "image": "https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/1652f8509_generated_image.png"
+    },
+    {
+      "name": "Aragonite",
+      "family": "Carbonate",
+      "opacity": "opaque",
+      "optical": "none",
+      "finish": "smooth",
+      "canFacet": false,
+      "colorNotes": null,
+      "image": "https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/4a93eb770_generated_image.png"
+    },
+    {
+      "name": "Green Aventurine",
+      "family": "Quartz",
+      "opacity": "transparent",
+      "optical": "none",
+      "finish": "faceted",
+      "canFacet": true,
+      "colorNotes": null,
+      "image": "https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/101a1f464_generated_image.png"
+    },
+    {
+      "name": "Red Aventurine",
+      "family": "Quartz",
+      "opacity": "transparent",
+      "optical": "none",
+      "finish": "faceted",
+      "canFacet": true,
+      "colorNotes": null,
+      "image": "https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/77ef30344_generated_image.png"
+    },
+    {
+      "name": "Azurite",
+      "family": "Silicate",
+      "opacity": "opaque",
+      "optical": "none",
+      "finish": "smooth",
+      "canFacet": false,
+      "colorNotes": null,
+      "image": "https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/8dc0da0a2_generated_image.png"
+    },
+    {
+      "name": "Bronzite",
+      "family": "Silicate",
+      "opacity": "opaque",
+      "optical": "none",
+      "finish": "smooth",
+      "canFacet": false,
+      "colorNotes": null,
+      "image": "https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/cabf441c3_generated_image.png"
+    },
+    {
+      "name": "Carnelian",
+      "family": "Chalcedony",
+      "opacity": "opaque",
+      "optical": "none",
+      "finish": "smooth",
+      "canFacet": false,
+      "colorNotes": null,
+      "image": "https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/4df41ddf4_generated_image.png"
+    },
+    {
+      "name": "Abalone",
+      "family": "Abalone",
+      "opacity": "opaque",
+      "optical": "iridescence",
+      "finish": "smooth",
+      "canFacet": false,
+      "colorNotes": null,
+      "image": "https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/59592081a_generated_image.png"
+    },
+    {
+      "name": "Agates",
+      "family": "Chalcedony",
+      "opacity": "opaque",
+      "optical": "none",
+      "finish": "smooth",
+      "canFacet": false,
+      "colorNotes": null,
+      "image": "https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/92497c994_generated_image.png"
+    },
+    {
+      "name": "Crazy Lace Agate",
+      "family": "Chalcedony",
+      "opacity": "opaque",
+      "optical": "none",
+      "finish": "smooth",
+      "canFacet": false,
+      "colorNotes": null,
+      "image": "https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/c9d37f00a_generated_image.png"
+    },
+    {
+      "name": "Dendritic Agate",
+      "family": "Chalcedony",
+      "opacity": "opaque",
+      "optical": "none",
+      "finish": "smooth",
+      "canFacet": false,
+      "colorNotes": null,
+      "image": "https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/587005ab2_generated_image.png"
+    },
+    {
+      "name": "Fire Agate",
+      "family": "Chalcedony",
+      "opacity": "opaque",
+      "optical": "none",
+      "finish": "smooth",
+      "canFacet": false,
+      "colorNotes": null,
+      "image": "https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/4aad53803_generated_image.png"
+    },
+    {
+      "name": "Flower Agate",
+      "family": "Chalcedony",
+      "opacity": "opaque",
+      "optical": "none",
+      "finish": "smooth",
+      "canFacet": false,
+      "colorNotes": null,
+      "image": "https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/3fa28a41d_generated_image.png"
+    },
+    {
+      "name": "Fossil Agate (turritella)",
+      "family": "Chalcedony",
+      "opacity": "opaque",
+      "optical": "none",
+      "finish": "smooth",
+      "canFacet": false,
+      "colorNotes": null,
+      "image": "https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/99311277c_generated_image.png"
+    },
+    {
+      "name": "Montana Moss Agate",
+      "family": "Chalcedony",
+      "opacity": "opaque",
+      "optical": "none",
+      "finish": "smooth",
+      "canFacet": false,
+      "colorNotes": null,
+      "image": "https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/3862674d0_generated_image.png"
+    },
+    {
+      "name": "Moss Agate",
+      "family": "Chalcedony",
+      "opacity": "opaque",
+      "optical": "none",
+      "finish": "smooth",
+      "canFacet": false,
+      "colorNotes": null,
+      "image": "https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/5db959a9e_generated_image.png"
+    },
+    {
+      "name": "Plumed Agate",
+      "family": "Chalcedony",
+      "opacity": "opaque",
+      "optical": "none",
+      "finish": "smooth",
+      "canFacet": false,
+      "colorNotes": null,
+      "image": "https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/c5aae06a8_generated_image.png"
+    },
+    {
+      "name": "Tree Agate",
+      "family": "Chalcedony",
+      "opacity": "opaque",
+      "optical": "none",
+      "finish": "smooth",
+      "canFacet": false,
+      "colorNotes": null,
+      "image": "https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/37465c289_generated_image.png"
+    },
+    {
+      "name": "Alexandrite",
+      "family": "Chrysoberyl",
+      "opacity": "transparent",
+      "optical": "color-change",
+      "finish": "faceted",
+      "canFacet": true,
+      "colorNotes": null,
+      "image": "https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/ae9a275b7_generated_image.png"
+    },
+    {
+      "name": "Amazonite",
+      "family": "Feldspar",
+      "opacity": "translucent",
+      "optical": "none",
+      "finish": "faceted",
+      "canFacet": true,
+      "colorNotes": null,
+      "image": "https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/cc7406bbf_generated_image.png"
+    },
+    {
+      "name": "Amber",
+      "family": "Amber",
+      "opacity": "opaque",
+      "optical": "none",
+      "finish": "smooth",
+      "canFacet": false,
+      "colorNotes": null,
+      "image": "https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/82f527e5b_generated_image.png"
+    },
+    {
+      "name": "Amethyst",
+      "family": "Quartz",
+      "opacity": "transparent",
+      "optical": "none",
+      "finish": "faceted",
+      "canFacet": true,
+      "colorNotes": null,
+      "image": "https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/a6a18b920_generated_image.png"
+    }
+  ],
+  "shapes": {
+    "smooth": [
+      {
+        "id": "round",
+        "name": "Round"
+      },
+      {
+        "id": "barrel",
+        "name": "Barrel"
+      },
+      {
+        "id": "coin",
+        "name": "Coin"
+      },
+      {
+        "id": "drum",
+        "name": "Drum"
+      },
+      {
+        "id": "freeform",
+        "name": "Freeform"
+      },
+      {
+        "id": "rondelle",
+        "name": "Rondelle"
+      },
+      {
+        "id": "teardrop",
+        "name": "Teardrop"
+      },
+      {
+        "id": "tube",
+        "name": "Tube"
+      }
+    ],
+    "faceted": [
+      {
+        "id": "round",
+        "name": "Round"
+      },
+      {
+        "id": "oval",
+        "name": "Oval"
+      },
+      {
+        "id": "cushion",
+        "name": "Cushion"
+      },
+      {
+        "id": "pear",
+        "name": "Pear"
+      },
+      {
+        "id": "baguette",
+        "name": "Baguette"
+      },
+      {
+        "id": "marquise",
+        "name": "Marquise"
+      },
+      {
+        "id": "princess",
+        "name": "Princess"
+      },
+      {
+        "id": "trillion",
+        "name": "Trillion"
+      }
+    ]
+  },
+  "facetingRules": {
+    "opaque": "smooth",
+    "transparent": "faceted",
+    "translucent": "faceted",
+    "exceptions": {
+      "opal": "smooth_except_fire_opal",
+      "tourmaline": "both"
+    }
+  }
+}

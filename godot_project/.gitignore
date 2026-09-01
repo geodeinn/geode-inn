@@ -1,0 +1,11 @@
+# Godot 4+ specific ignores
+.godot/
+*.tmp
+# OS files
+.DS_Store
+Thumbs.db
+# Build outputs (don't track compiled builds)
+*.exe
+*.app
+*.x86_64
+export_presets.cfg

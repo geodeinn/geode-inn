@@ -1,0 +1,1020 @@
+{
+  "date": "2026-09-01",
+  "total_market_items": 101,
+  "arcade_games": 61,
+  "soulstice_products": 40,
+  "games": [
+    {
+      "id": "6a97028f5dc7baf0c0527fe2",
+      "name": "Crystal Catcher",
+      "category": "Arcade Game",
+      "zone": "Caverns",
+      "priceRange": "$3.99",
+      "rarity": "Uncommon",
+      "stoneType": "Tourmaline",
+      "gameDescription": "Hook/Bionic Commando \u00d7 Caverns. Grapple crystals."
+    },
+    {
+      "id": "6a97028dfbc0d34ba3384f48",
+      "name": "Serpent Steps",
+      "category": "Arcade Game",
+      "zone": "Chichen Itza",
+      "priceRange": "$3.99",
+      "rarity": "Uncommon",
+      "stoneType": "Fire Opal",
+      "gameDescription": "Snake \u00d7 Chichen Itza. Climb the serpent steps."
+    },
+    {
+      "id": "6a97028d5893699f7dbbd3e1",
+      "name": "The Noob Siege",
+      "category": "Arcade Game",
+      "zone": "Wire Nook",
+      "priceRange": "$4.99",
+      "rarity": "Uncommon",
+      "stoneType": "Lodestone",
+      "gameDescription": "Attack of the Noobs-inspired tower defense. Build towers to defend the fizgigs' Wire Nook. 6 waves."
+    },
+    {
+      "id": "6a97028d9d08eedc3ceabd00",
+      "name": "The Apothecary's Cure",
+      "category": "Arcade Game",
+      "zone": "Staircase",
+      "priceRange": "$4.99",
+      "rarity": "Rare",
+      "stoneType": "Malachite",
+      "gameDescription": "Dr. Mario-inspired pill-matching puzzle. Align 4+ colors to cure germs. 20 germs per level."
+    },
+    {
+      "id": "6a97028d22f22219e55ef4bc",
+      "name": "The Dream Gardener",
+      "category": "Arcade Game",
+      "zone": "Fae Kingdom",
+      "priceRange": "$4.99",
+      "rarity": "Rare",
+      "stoneType": "Dream Quartz",
+      "gameDescription": "Super Mario Bros 2-inspired platformer. Pull enemies from the ground, throw them, bounce on Fae growth plants."
+    },
+    {
+      "id": "6a97028d2f146d319b97c7a6",
+      "name": "The Crystal Paddle",
+      "category": "Arcade Game",
+      "zone": "Crystal Gardens",
+      "priceRange": "$3.99",
+      "rarity": "Common",
+      "stoneType": "Beryl",
+      "gameDescription": "Arkanoid-inspired brick breaker. Paddle and ball, shatter crystal formations across 6 rows."
+    },
+    {
+      "id": "6a97028d701944bb94496980",
+      "name": "The Forest Defense",
+      "category": "Arcade Game",
+      "zone": "Campgrounds",
+      "priceRange": "$4.99",
+      "rarity": "Common",
+      "stoneType": "Moss Agate",
+      "gameDescription": "PixelJunk Monsters-inspired tower defense on the campground trail. 6 waves of forest creatures."
+    },
+    {
+      "id": "6a97028de306a22965e616df",
+      "name": "The Mirror's Seven",
+      "category": "Arcade Game",
+      "zone": "Poison Garden",
+      "priceRange": "$4.99",
+      "rarity": "Rare",
+      "stoneType": "Snowflake Obsidian",
+      "gameDescription": "Snow White-inspired puzzle quest. Seven tasks from finding the mirror to waking the sleeper."
+    },
+    {
+      "id": "6a97028d994effda35cfaf71",
+      "name": "Moji Maker",
+      "category": "Arcade Game",
+      "zone": "Easter Island",
+      "priceRange": "$2.99",
+      "rarity": "Uncommon",
+      "stoneType": "Obsidian",
+      "gameDescription": "Little Alchemy \u00d7 Easter Island. Combine elements to create."
+    },
+    {
+      "id": "6a97028d11f13b8add532d42",
+      "name": "The Egg Carrier",
+      "category": "Arcade Game",
+      "zone": "Canopy",
+      "priceRange": "$4.99",
+      "rarity": "Uncommon",
+      "stoneType": "Fire Agate",
+      "gameDescription": "Yoshi's Island-inspired platformer. Carry eggs, throw them to defeat enemies and save canopy babies."
+    },
+    {
+      "id": "6a97028dd0362b91f985d2d4",
+      "name": "The World Walker",
+      "category": "Arcade Game",
+      "zone": "All Zones",
+      "priceRange": "$6.99",
+      "rarity": "Epic",
+      "stoneType": "Rainbow Stone",
+      "gameDescription": "Super Mario Bros 3-inspired platformer. 6 worlds, power-ups, world map progression. The biggest arcade game in the Inn."
+    },
+    {
+      "id": "6a97028d1a89de40aefb9cc1",
+      "name": "The Pipe Descent",
+      "category": "Arcade Game",
+      "zone": "Catacombs",
+      "priceRange": "$4.99",
+      "rarity": "Uncommon",
+      "stoneType": "Pipe Stone",
+      "gameDescription": "Super Mario Bros-inspired platformer. Stomp catacomb critters, collect coins, and descend through the Inn's pipe network."
+    },
+    {
+      "id": "6a97028d7eb157d5c8ba8359",
+      "name": "Tumble Run",
+      "category": "Arcade Game",
+      "zone": "Canopy",
+      "priceRange": "$4.99",
+      "rarity": "Rare",
+      "stoneType": "Random Stone",
+      "gameDescription": "Geometry Dash \u00d7 Canopy. Guide Tumble through the corridors."
+    },
+    {
+      "id": "6a97028da6f67f4b1f299e11",
+      "name": "Bastet's Herding",
+      "category": "Arcade Game",
+      "zone": "Egypt",
+      "priceRange": "$2.99",
+      "rarity": "Uncommon",
+      "stoneType": "Cat's Eye Chrysoberyl",
+      "gameDescription": "Herding cats with a sistrum pulse. Original mechanic."
+    },
+    {
+      "id": "6a97028dc939bfbcf2a10cb0",
+      "name": "The Signal",
+      "category": "Arcade Game",
+      "zone": "Cosmology",
+      "priceRange": "$4.99",
+      "rarity": "Epic",
+      "stoneType": "Moldavite",
+      "gameDescription": "DDLC \u00d7 Cosmology. A spacecraft story that knows you are playing."
+    },
+    {
+      "id": "6a97028d888df7efcf28a659",
+      "name": "The Long Dark",
+      "category": "Arcade Game",
+      "zone": "Undercity",
+      "priceRange": "$4.99",
+      "rarity": "Rare",
+      "stoneType": "Shadow Quartz",
+      "gameDescription": "Vampire Survivors \u00d7 Undercity. Survive the Hollow Men."
+    },
+    {
+      "id": "6a97028d47df3d73db0f2cc3",
+      "name": "The Reclamation",
+      "category": "Arcade Game",
+      "zone": "Bayou",
+      "priceRange": "$4.99",
+      "rarity": "Rare",
+      "stoneType": "Swamp Agate",
+      "gameDescription": "Don't Starve \u00d7 Bayou. Reclaim the swamp through crafting."
+    },
+    {
+      "id": "6a97028d878b75eb8ff2c9fd",
+      "name": "Standing Stones",
+      "category": "Arcade Game",
+      "zone": "Stonehenge",
+      "priceRange": "$2.99",
+      "rarity": "Common",
+      "stoneType": "Preseli Blue Stone",
+      "gameDescription": "Tetris \u00d7 Stonehenge. Stack stones to build the circle."
+    },
+    {
+      "id": "6a97028d0079c6c2b3559d4d",
+      "name": "Oracle's Riddles",
+      "category": "Arcade Game",
+      "zone": "Parthenon",
+      "priceRange": "$2.99",
+      "rarity": "Uncommon",
+      "stoneType": "Sapphire",
+      "gameDescription": "Crossword \u00d7 Parthenon. Solve the oracle word puzzles."
+    },
+    {
+      "id": "6a97028daf952ab7d27c6d80",
+      "name": "Andean Run",
+      "category": "Arcade Game",
+      "zone": "Peru",
+      "priceRange": "$2.99",
+      "rarity": "Common",
+      "stoneType": "Blue Opal",
+      "gameDescription": "Temple Run \u00d7 Peru. Run the cloud causeways of Machu Picchu."
+    },
+    {
+      "id": "6a97028df5dd23e1ef96be45",
+      "name": "Tomb Tunnel",
+      "category": "Arcade Game",
+      "zone": "Egypt",
+      "priceRange": "$2.99",
+      "rarity": "Common",
+      "stoneType": "Lapis Lazuli",
+      "gameDescription": "Dig Dug \u00d7 Egypt. Excavate 7 strata to find Lapis Lazuli."
+    },
+    {
+      "id": "6a97028d199119fa3918fcd6",
+      "name": "Temple of the Naga",
+      "category": "Arcade Game",
+      "zone": "Angkor Wat",
+      "priceRange": "$3.99",
+      "rarity": "Rare",
+      "stoneType": "Zircon",
+      "gameDescription": "Castlevania \u00d7 Angkor Wat. Side-scroll through the temple."
+    },
+    {
+      "id": "6a97028d3f67db0f9afddc46",
+      "name": "Sacred Scramble",
+      "category": "Arcade Game",
+      "zone": "Taj Mahal",
+      "priceRange": "$2.99",
+      "rarity": "Uncommon",
+      "stoneType": "Ruby",
+      "gameDescription": "Anagrams \u00d7 Taj Mahal. Unscramble the sacred texts."
+    },
+    {
+      "id": "6a97028dd0f049931c21363a",
+      "name": "Treasury Match",
+      "category": "Arcade Game",
+      "zone": "Petra",
+      "priceRange": "$3.99",
+      "rarity": "Uncommon",
+      "stoneType": "Banded Agate",
+      "gameDescription": "Bust-A-Move \u00d7 Petra. Match orbs to clear the treasury."
+    },
+    {
+      "id": "6a97028d4e23977526690cb9",
+      "name": "Monster of the Deep",
+      "category": "Arcade Game",
+      "zone": "Water",
+      "priceRange": "$2.99",
+      "rarity": "Rare",
+      "stoneType": "Freshwater Pearl",
+      "gameDescription": "You ARE the Loch Ness monster. Surface, dive, survive."
+    },
+    {
+      "id": "6a97028d6aad68d99d48743f",
+      "name": "Rune Hunt",
+      "category": "Arcade Game",
+      "zone": "Norse",
+      "priceRange": "$2.99",
+      "rarity": "Uncommon",
+      "stoneType": "Iolite",
+      "gameDescription": "Word Search \u00d7 Norse. Find the hidden runes."
+    },
+    {
+      "id": "6a97028db4c94ae085784093",
+      "name": "Wall Defense",
+      "category": "Arcade Game",
+      "zone": "Great Wall",
+      "priceRange": "$3.99",
+      "rarity": "Uncommon",
+      "stoneType": "Jade",
+      "gameDescription": "Space Invaders \u00d7 Great Wall. Defend the wall."
+    },
+    {
+      "id": "6a97028df1e385efa36e4f0e",
+      "name": "Pinball",
+      "category": "Arcade Game",
+      "zone": "Geode Inn",
+      "priceRange": "$2.99",
+      "rarity": "Uncommon",
+      "stoneType": "Various",
+      "gameDescription": "Original Geode Inn pinball table. Bumpers are zones."
+    },
+    {
+      "id": "6a97028da1d6a2c5039af1a5",
+      "name": "Dragon's Descent",
+      "category": "Arcade Game",
+      "zone": "Lost Civ",
+      "priceRange": "$3.99",
+      "rarity": "Uncommon",
+      "stoneType": "Multi-gems",
+      "gameDescription": "Super Mario \u00d7 Lost Civ. Platform through the ruins."
+    },
+    {
+      "id": "6a97028d91d62a242136190a",
+      "name": "Bayou Reclamation",
+      "category": "Arcade Game",
+      "zone": "Bayou",
+      "priceRange": "$3.99",
+      "rarity": "Rare",
+      "stoneType": "Swamp Agate",
+      "gameDescription": "Don't Starve \u00d7 Bayou. Reclaim the swamp as a world trial."
+    },
+    {
+      "id": "6a97028cf5dd23e1ef96be43",
+      "name": "Acropolis in Five Lights",
+      "category": "Arcade Game",
+      "zone": "Greece",
+      "priceRange": "$3.99",
+      "rarity": "Rare",
+      "stoneType": "Sapphire",
+      "gameDescription": "Gorogoa \u00d7 Greece. 5 light phases + 6th when Song complete."
+    },
+    {
+      "id": "6a97028c6eb476c95e5fd295",
+      "name": "Zelda-Style World",
+      "category": "Arcade Game",
+      "zone": "All Zones",
+      "priceRange": "$12.99",
+      "rarity": "Legendary",
+      "stoneType": "Multi-gems",
+      "gameDescription": "LttP \u00d7 All Zones. Living/Shadow frequency shift on ZR."
+    },
+    {
+      "id": "6a97028cd82cd0691a8ee535",
+      "name": "The Arcana",
+      "category": "Arcade Game",
+      "zone": "Cosmology",
+      "priceRange": "$9.99",
+      "rarity": "Epic",
+      "stoneType": "Moldavite",
+      "gameDescription": "Star Fox \u00d7 Cosmology. Captain tests with QUIET."
+    },
+    {
+      "id": "6a97028ca7609baec226717e",
+      "name": "Appalachian Trail",
+      "category": "Arcade Game",
+      "zone": "Appalachian",
+      "priceRange": "$3.99",
+      "rarity": "Uncommon",
+      "stoneType": "Quartz",
+      "gameDescription": "Firewatch \u00d7 Appalachian. Hike and discover."
+    },
+    {
+      "id": "6a97028c65e7d740ef64bb20",
+      "name": "Tidal Caves",
+      "category": "Arcade Game",
+      "zone": "Water Zone",
+      "priceRange": "$9.99",
+      "rarity": "Epic",
+      "stoneType": "Pearl",
+      "gameDescription": "Vaulknut workshop. 6 subterranean sea-level environments."
+    },
+    {
+      "id": "6a97028c9ce36d4fb74993cd",
+      "name": "Fae Kingdom MMO",
+      "category": "Arcade Game",
+      "zone": "Fae Kingdom",
+      "priceRange": "$12.99",
+      "rarity": "Legendary",
+      "stoneType": "Labradorite",
+      "gameDescription": "WoW \u00d7 Fae Kingdom. Seelie + Unseelie courts, 6 sub-zones."
+    },
+    {
+      "id": "6a97028cee4c826a460f3fa3",
+      "name": "Hollow Earth RPG",
+      "category": "Arcade Game",
+      "zone": "Hollow Earth",
+      "priceRange": "$12.99",
+      "rarity": "Legendary",
+      "stoneType": "Source Stone",
+      "gameDescription": "Champions of Norrath \u00d7 Hollow Earth. 9 districts, 25 quests."
+    },
+    {
+      "id": "6a97028c80124ea1912d9f5b",
+      "name": "Canopy City Trading",
+      "category": "Arcade Game",
+      "zone": "Canopy City",
+      "priceRange": "$9.99",
+      "rarity": "Epic",
+      "stoneType": "Luminwood",
+      "gameDescription": "Animal Crossing \u00d7 Canopy City. 9 cultural platforms."
+    },
+    {
+      "id": "6a97028c7dda14a9b484b094",
+      "name": "Dragon Tiles",
+      "category": "Arcade Game",
+      "zone": "China/Japan",
+      "priceRange": "$3.99",
+      "rarity": "Rare",
+      "stoneType": "Jade",
+      "gameDescription": "Mahjong \u00d7 China/Japan. Match the dragon tiles."
+    },
+    {
+      "id": "6a97028c28694c48594f73d2",
+      "name": "Badlands Fossil Dig",
+      "category": "Arcade Game",
+      "zone": "Badlands",
+      "priceRange": "$3.99",
+      "rarity": "Uncommon",
+      "stoneType": "Fossil Agate",
+      "gameDescription": "Fossil Fighters \u00d7 Badlands. Dig and discover."
+    },
+    {
+      "id": "6a97028cabea3285ee8c4261",
+      "name": "Inca Terrace Lullaby",
+      "category": "Arcade Game",
+      "zone": "Peru",
+      "priceRange": "$3.99",
+      "rarity": "Rare",
+      "stoneType": "Blue Opal",
+      "gameDescription": "Rhythm Heaven \u00d7 Peru. Keep the sleeping giant asleep."
+    },
+    {
+      "id": "6a97028c409eb6245fc9b2bd",
+      "name": "Terracotta Army Builder",
+      "category": "Arcade Game",
+      "zone": "China",
+      "priceRange": "$3.99",
+      "rarity": "Rare",
+      "stoneType": "Jade",
+      "gameDescription": "Pikmin \u00d7 China. Command terracotta soldiers."
+    },
+    {
+      "id": "6a97028c1fe7c4718e58e767",
+      "name": "Mediterranean Trade",
+      "category": "Arcade Game",
+      "zone": "Mediterranean",
+      "priceRange": "$3.99",
+      "rarity": "Rare",
+      "stoneType": "Coral",
+      "gameDescription": "Uncharted Waters \u00d7 Mediterranean. Ancient trade routes."
+    },
+    {
+      "id": "6a97028c53834b7fc40b7cb0",
+      "name": "Norse Voyage",
+      "category": "Arcade Game",
+      "zone": "Norse",
+      "priceRange": "$3.99",
+      "rarity": "Rare",
+      "stoneType": "Iolite",
+      "gameDescription": "Wind Waker \u00d7 Norse. Sea exploration, Yggdrasil roots."
+    },
+    {
+      "id": "6a97028c823de9ebc57fe269",
+      "name": "Ghats of Kali",
+      "category": "Arcade Game",
+      "zone": "India",
+      "priceRange": "$3.99",
+      "rarity": "Rare",
+      "stoneType": "Ruby",
+      "gameDescription": "Patapon \u00d7 India. River festival rhythm."
+    },
+    {
+      "id": "6a97028cabea3285ee8c425f",
+      "name": "Fjord of Stars",
+      "category": "Arcade Game",
+      "zone": "Slavic",
+      "priceRange": "$3.99",
+      "rarity": "Rare",
+      "stoneType": "Iolite",
+      "gameDescription": "Lumines \u00d7 Slavic. 3 aurora phases, star mapping."
+    },
+    {
+      "id": "6a97028c9b3572f806ec58a8",
+      "name": "Music Room Composer",
+      "category": "Arcade Game",
+      "zone": "Music Room",
+      "priceRange": "$4.99",
+      "rarity": "Rare",
+      "stoneType": "Harmonic Stone",
+      "gameDescription": "Beat Saber \u00d7 Music Room. 9 composers, create the Song."
+    },
+    {
+      "id": "6a97028c4be6463ce6c6fc35",
+      "name": "Yellowstone Geyser",
+      "category": "Arcade Game",
+      "zone": "Yellowstone",
+      "priceRange": "$3.99",
+      "rarity": "Uncommon",
+      "stoneType": "Obsidian",
+      "gameDescription": "Pipe Mania \u00d7 Yellowstone. Time the geysers."
+    },
+    {
+      "id": "6a97028c3faee44f398db46a",
+      "name": "Redwood Cathedral",
+      "category": "Arcade Game",
+      "zone": "Redwood",
+      "priceRange": "$3.99",
+      "rarity": "Uncommon",
+      "stoneType": "Petrified Wood",
+      "gameDescription": "Grow Home \u00d7 Redwood Cathedral. Climb the giants."
+    },
+    {
+      "id": "6a97028c1bbad94f7d46747a",
+      "name": "Superstition Mountains",
+      "category": "Arcade Game",
+      "zone": "Superstition",
+      "priceRange": "$3.99",
+      "rarity": "Uncommon",
+      "stoneType": "Gold",
+      "gameDescription": "Spelunky \u00d7 Superstition Mountains. Treasure hunt."
+    },
+    {
+      "id": "6a97028ca95bae3b0e8c0582",
+      "name": "Spiral Gallery Tour",
+      "category": "Arcade Game",
+      "zone": "Spiral Gallery",
+      "priceRange": "Free",
+      "rarity": "Rare",
+      "stoneType": null,
+      "gameDescription": "Museum walk. Interactive art history."
+    },
+    {
+      "id": "6a97028c1648cabbb4e3976a",
+      "name": "Egyptian Gates",
+      "category": "Arcade Game",
+      "zone": "Egypt",
+      "priceRange": "$3.99",
+      "rarity": "Rare",
+      "stoneType": "Carnelian",
+      "gameDescription": "Patapon \u00d7 Egypt. 12 gates of the Duat."
+    },
+    {
+      "id": "6a97028c190967a3edad7ec7",
+      "name": "Whisper Layer Discovery",
+      "category": "Arcade Game",
+      "zone": "All Zones",
+      "priceRange": "Free",
+      "rarity": "Common",
+      "stoneType": "Echo Stone",
+      "gameDescription": "Hidden Folks \u00d7 All Zones. Find 5 manifestations of the Whisper Layer."
+    },
+    {
+      "id": "6a97028cf2e9a7c71cd6b199",
+      "name": "Poison Garden",
+      "category": "Arcade Game",
+      "zone": "Poison Garden",
+      "priceRange": "$4.99",
+      "rarity": "Rare",
+      "stoneType": "Antidote Orchid",
+      "gameDescription": "Untitled Goose Game reversed \u00d7 Poison Garden. Beauty that kills \u2014 don't touch."
+    },
+    {
+      "id": "6a97028c409eb6245fc9b2bb",
+      "name": "Alchemical Staircase",
+      "category": "Arcade Game",
+      "zone": "Staircase",
+      "priceRange": "$4.99",
+      "rarity": "Epic",
+      "stoneType": "Philosopher's Stone",
+      "gameDescription": "Catherine \u00d7 Staircase. Nigredo \u2192 Albedo \u2192 Rubedo."
+    },
+    {
+      "id": "6a97028c0fcf0ae7264dbdc4",
+      "name": "Clockwork Skies",
+      "category": "Arcade Game",
+      "zone": "Clockwork",
+      "priceRange": "$3.99",
+      "rarity": "Rare",
+      "stoneType": "Star Iron",
+      "gameDescription": "Star Fox \u00d7 Clockwork Skies. Anime zone, mechanical flight."
+    },
+    {
+      "id": "6a97028c438ddec99e4bb6e3",
+      "name": "Colorado Plateau",
+      "category": "Arcade Game",
+      "zone": "Colorado",
+      "priceRange": "$3.99",
+      "rarity": "Uncommon",
+      "stoneType": "Turquoise",
+      "gameDescription": "BotW climbing \u00d7 Colorado Plateau. Climb and explore."
+    },
+    {
+      "id": "6a97028cc939bfbcf2a10cae",
+      "name": "Cave Painter's Quiz",
+      "category": "Arcade Game",
+      "zone": "Chauvet",
+      "priceRange": "$3.99",
+      "rarity": "Rare",
+      "stoneType": "Aragonite",
+      "gameDescription": "Art History Quiz \u00d7 Chauvet. Test your knowledge of cave art."
+    },
+    {
+      "id": "6a97028c1a438f72d3e4bcd4",
+      "name": "Catacomb Labyrinth",
+      "category": "Arcade Game",
+      "zone": "Catacombs",
+      "priceRange": "$4.99",
+      "rarity": "Rare",
+      "stoneType": "Charon Token",
+      "gameDescription": "Pac-Man \u00d7 Catacombs. Charon river, Asterion maze."
+    },
+    {
+      "id": "6a97028c823de9ebc57fe266",
+      "name": "Frog Transformation",
+      "category": "Arcade Game",
+      "zone": "Inn",
+      "priceRange": "Free",
+      "rarity": "Common",
+      "stoneType": null,
+      "gameDescription": "Among Us \u00d7 Inn. Social deduction moderation. 3 transformations = suspension."
+    },
+    {
+      "id": "6a97028cf784fc2134e778cb",
+      "name": "Canadian Rockies",
+      "category": "Arcade Game",
+      "zone": "Canadian Rockies",
+      "priceRange": "$3.99",
+      "rarity": "Uncommon",
+      "stoneType": "Jade",
+      "gameDescription": "Celeste \u00d7 Canadian Rockies. Mountain traverse."
+    }
+  ],
+  "products": [
+    {
+      "id": "6a97028d8b8d3d1f05aff563",
+      "name": "Baltic amber, amethyst and silver earrings (pair 2)",
+      "category": "Gemstone Earrings",
+      "zone": "Main Floor Market",
+      "priceRange": "$110",
+      "rarity": "Rare",
+      "stoneType": "Baltic Amber, Amethyst",
+      "gameDescription": "Earrings of Baltic amber, amethyst, and silver. The amber holds ancient light, the amethyst holds calm, the silver holds the shape. The fire grows warmer when these are near."
+    },
+    {
+      "id": "6a958aa6efa98beb7c7bf016",
+      "name": "The Bluestone Key",
+      "category": "Artifacts",
+      "zone": null,
+      "priceRange": "$50-100",
+      "rarity": "Rare",
+      "stoneType": "Preseli Blue Stone",
+      "gameDescription": null
+    },
+    {
+      "id": "6a958aa6efa98beb7c7bf017",
+      "name": "The Truth-Teller's Ring",
+      "category": "Artifacts",
+      "zone": null,
+      "priceRange": "$50-100",
+      "rarity": "Rare",
+      "stoneType": "Malachite",
+      "gameDescription": null
+    },
+    {
+      "id": "6a958aa6efa98beb7c7bf018",
+      "name": "The Aurora Pendant",
+      "category": "Artifacts",
+      "zone": null,
+      "priceRange": "$100-250",
+      "rarity": "Epic",
+      "stoneType": "Labradorite",
+      "gameDescription": null
+    },
+    {
+      "id": "6a958aa6efa98beb7c7bf019",
+      "name": "The Cat's Eye of Bastet",
+      "category": "Artifacts",
+      "zone": null,
+      "priceRange": "$250-500",
+      "rarity": "Legendary",
+      "stoneType": "Cat's Eye Chrysoberyl",
+      "gameDescription": null
+    },
+    {
+      "id": "6a9589157a593abb552b3abb",
+      "name": "Baltic amber, amethyst and silver earrings (variant)",
+      "category": "Gemstone Earrings",
+      "zone": null,
+      "priceRange": "$110",
+      "rarity": null,
+      "stoneType": "Baltic Amber, Amethyst",
+      "gameDescription": null
+    },
+    {
+      "id": "6a9589157a593abb552b3abc",
+      "name": "Sunstone, garnet, and London blue topaz drops",
+      "category": "Gemstone Earrings",
+      "zone": null,
+      "priceRange": "$120",
+      "rarity": null,
+      "stoneType": "Sunstone, Garnet, London Blue Topaz",
+      "gameDescription": null
+    },
+    {
+      "id": "6a9589157a593abb552b3abd",
+      "name": "Celtic love weaving in black",
+      "category": "Celtic Leatherwork",
+      "zone": null,
+      "priceRange": "$90",
+      "rarity": null,
+      "stoneType": "Leather",
+      "gameDescription": null
+    },
+    {
+      "id": "6a9589157a593abb552b3abe",
+      "name": "Handmade Celtic leatherwork in gray, green, and black",
+      "category": "Celtic Leatherwork",
+      "zone": null,
+      "priceRange": "$250",
+      "rarity": null,
+      "stoneType": "Leather",
+      "gameDescription": null
+    },
+    {
+      "id": "6a9589157a593abb552b3abf",
+      "name": "Leather and skulls",
+      "category": "Celtic Leatherwork",
+      "zone": null,
+      "priceRange": "$120",
+      "rarity": null,
+      "stoneType": "Leather",
+      "gameDescription": null
+    },
+    {
+      "id": "6a9588a0c76d78556cd6d3b3",
+      "name": "Celtic leather in green and black",
+      "category": "Celtic Leatherwork",
+      "zone": null,
+      "priceRange": "$80",
+      "rarity": null,
+      "stoneType": "Leather",
+      "gameDescription": null
+    },
+    {
+      "id": "6a9588a0c76d78556cd6d3b4",
+      "name": "Peridot, amber and amethyst earrings",
+      "category": "Gemstone Earrings",
+      "zone": null,
+      "priceRange": "$110",
+      "rarity": null,
+      "stoneType": "Peridot, Amber, Amethyst",
+      "gameDescription": null
+    },
+    {
+      "id": "6a9588a0c76d78556cd6d3b5",
+      "name": "Celtic leather love knot bracelet in green",
+      "category": "Celtic Leatherwork",
+      "zone": null,
+      "priceRange": "$40",
+      "rarity": null,
+      "stoneType": "Leather",
+      "gameDescription": null
+    },
+    {
+      "id": "6a9588a0c76d78556cd6d3b6",
+      "name": "Celtic leather bracelet in black and green",
+      "category": "Celtic Leatherwork",
+      "zone": null,
+      "priceRange": "$40",
+      "rarity": null,
+      "stoneType": "Leather",
+      "gameDescription": null
+    },
+    {
+      "id": "6a9588a0c76d78556cd6d3b7",
+      "name": "Celtic leather in black and browns",
+      "category": "Celtic Leatherwork",
+      "zone": null,
+      "priceRange": "$80",
+      "rarity": null,
+      "stoneType": "Leather",
+      "gameDescription": null
+    },
+    {
+      "id": "6a9588393ff0142ed4fac1bb",
+      "name": "Celtic leather in black and green",
+      "category": "Celtic Leatherwork",
+      "zone": null,
+      "priceRange": "$160",
+      "rarity": null,
+      "stoneType": "Leather",
+      "gameDescription": null
+    },
+    {
+      "id": "6a9588393ff0142ed4fac1bc",
+      "name": "Leather Celtic bracelet in blacks, blues, and browns",
+      "category": "Celtic Leatherwork",
+      "zone": null,
+      "priceRange": "$120",
+      "rarity": null,
+      "stoneType": "Leather",
+      "gameDescription": null
+    },
+    {
+      "id": "6a9588393ff0142ed4fac1bd",
+      "name": "Leather Celtic necklace in blacks, blues, and browns",
+      "category": "Celtic Leatherwork",
+      "zone": null,
+      "priceRange": "$250",
+      "rarity": null,
+      "stoneType": "Leather",
+      "gameDescription": null
+    },
+    {
+      "id": "6a9588393ff0142ed4fac1be",
+      "name": "Celtic leather in brown, black, and green",
+      "category": "Celtic Leatherwork",
+      "zone": null,
+      "priceRange": "$80",
+      "rarity": null,
+      "stoneType": "Leather",
+      "gameDescription": null
+    },
+    {
+      "id": "6a9588393ff0142ed4fac1bf",
+      "name": "Celtic leather bracelet in brown",
+      "category": "Celtic Leatherwork",
+      "zone": null,
+      "priceRange": "$40",
+      "rarity": null,
+      "stoneType": "Leather",
+      "gameDescription": null
+    },
+    {
+      "id": "6a9587c4c1416a2ed1491f89",
+      "name": "Celtic leather bracelet in gray and brown",
+      "category": "Celtic Leatherwork",
+      "zone": null,
+      "priceRange": "$40",
+      "rarity": null,
+      "stoneType": "Leather",
+      "gameDescription": null
+    },
+    {
+      "id": "6a9587c4c1416a2ed1491f8a",
+      "name": "Aquamarine, Carnelian and Onyx",
+      "category": "Gemstone Earrings",
+      "zone": null,
+      "priceRange": "$140",
+      "rarity": null,
+      "stoneType": "Aquamarine, Carnelian, Onyx",
+      "gameDescription": null
+    },
+    {
+      "id": "6a9587c4c1416a2ed1491f8b",
+      "name": "Celtic leather love knot in green and brown",
+      "category": "Celtic Leatherwork",
+      "zone": null,
+      "priceRange": "$80",
+      "rarity": null,
+      "stoneType": "Leather",
+      "gameDescription": null
+    },
+    {
+      "id": "6a9587c4c1416a2ed1491f8c",
+      "name": "Celtic leather bracelet in green",
+      "category": "Celtic Leatherwork",
+      "zone": null,
+      "priceRange": "$40",
+      "rarity": null,
+      "stoneType": "Leather",
+      "gameDescription": null
+    },
+    {
+      "id": "6a9587c4c1416a2ed1491f8d",
+      "name": "Bloodlust",
+      "category": "Gemstone Jewelry",
+      "zone": null,
+      "priceRange": "$180",
+      "rarity": null,
+      "stoneType": "Garnet, Hematite",
+      "gameDescription": null
+    },
+    {
+      "id": "6a9587154525ecfe8dc46326",
+      "name": "Celtic leather in light brown",
+      "category": "Celtic Leatherwork",
+      "zone": null,
+      "priceRange": "$80",
+      "rarity": null,
+      "stoneType": "Leather",
+      "gameDescription": null
+    },
+    {
+      "id": "6a9587154525ecfe8dc46322",
+      "name": "Silver, black onyx, and pietersite earrings",
+      "category": "Gemstone Earrings",
+      "zone": null,
+      "priceRange": "$120",
+      "rarity": null,
+      "stoneType": "Silver, Black Onyx, Pietersite",
+      "gameDescription": null
+    },
+    {
+      "id": "6a9587154525ecfe8dc46323",
+      "name": "Celtic woven leather in black",
+      "category": "Celtic Leatherwork",
+      "zone": null,
+      "priceRange": "$80",
+      "rarity": null,
+      "stoneType": "Leather",
+      "gameDescription": null
+    },
+    {
+      "id": "6a9587154525ecfe8dc46324",
+      "name": "Celtic leather in gray and brown",
+      "category": "Celtic Leatherwork",
+      "zone": null,
+      "priceRange": "$80",
+      "rarity": null,
+      "stoneType": "Leather",
+      "gameDescription": null
+    },
+    {
+      "id": "6a9587154525ecfe8dc46325",
+      "name": "Triple moon with smoky quartz, agate, and garnet on a silk ribbon",
+      "category": "Gemstone Jewelry",
+      "zone": null,
+      "priceRange": "$60",
+      "rarity": null,
+      "stoneType": "Smoky Quartz, Agate, Garnet",
+      "gameDescription": null
+    },
+    {
+      "id": "6a9586a2b3611f14d4c98672",
+      "name": "Tiny sunstone necklace",
+      "category": "Gemstone Jewelry",
+      "zone": null,
+      "priceRange": "$60",
+      "rarity": null,
+      "stoneType": "Sunstone",
+      "gameDescription": null
+    },
+    {
+      "id": "6a9586a2b3611f14d4c98673",
+      "name": "Shield pendant",
+      "category": "Gemstone Jewelry",
+      "zone": null,
+      "priceRange": "$80",
+      "rarity": null,
+      "stoneType": "Mixed Metals",
+      "gameDescription": null
+    },
+    {
+      "id": "6a9586a2b3611f14d4c98674",
+      "name": "Thistle necklace",
+      "category": "Gemstone Jewelry",
+      "zone": null,
+      "priceRange": "$90",
+      "rarity": null,
+      "stoneType": "Silver",
+      "gameDescription": null
+    },
+    {
+      "id": "6a9586a2b3611f14d4c98675",
+      "name": "Star pendant",
+      "category": "Gemstone Jewelry",
+      "zone": null,
+      "priceRange": "$80",
+      "rarity": null,
+      "stoneType": "Silver",
+      "gameDescription": null
+    },
+    {
+      "id": "6a9586a2b3611f14d4c98676",
+      "name": "Trinity pendant",
+      "category": "Gemstone Jewelry",
+      "zone": null,
+      "priceRange": "$80",
+      "rarity": null,
+      "stoneType": "Silver",
+      "gameDescription": null
+    },
+    {
+      "id": "6a958452fd666a3119e11a90",
+      "name": "Garnet, gold and spinel earrings",
+      "category": "Gemstone Earrings",
+      "zone": null,
+      "priceRange": "$90",
+      "rarity": null,
+      "stoneType": "Garnet, Gold, Spinel",
+      "gameDescription": null
+    },
+    {
+      "id": "6a958452fd666a3119e11a91",
+      "name": "Viking earrings",
+      "category": "Gemstone Earrings",
+      "zone": null,
+      "priceRange": "$160",
+      "rarity": null,
+      "stoneType": "Silver",
+      "gameDescription": null
+    },
+    {
+      "id": "6a958452fd666a3119e11a92",
+      "name": "Baltic amber, amethyst and silver earrings",
+      "category": "Gemstone Earrings",
+      "zone": null,
+      "priceRange": "$90",
+      "rarity": null,
+      "stoneType": "Baltic Amber, Amethyst",
+      "gameDescription": null
+    },
+    {
+      "id": "6a958452fd666a3119e11a93",
+      "name": "Celtic leather in grays and browns",
+      "category": "Celtic Leatherwork",
+      "zone": null,
+      "priceRange": "$250",
+      "rarity": null,
+      "stoneType": "Leather",
+      "gameDescription": null
+    },
+    {
+      "id": "6a958452fd666a3119e11a94",
+      "name": "LIMITED EDITION 5 Strand Gemstone Necklace",
+      "category": "Gemstone Jewelry",
+      "zone": null,
+      "priceRange": "$510",
+      "rarity": null,
+      "stoneType": "Mixed Gemstones",
+      "gameDescription": null
+    }
+  ]
+}

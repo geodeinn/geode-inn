@@ -1,0 +1,1321 @@
+[
+  {
+    "dialogueId": "medusa_001",
+    "lines": [],
+    "responses": [],
+    "setFlags": [
+      "met_medusa",
+      "gorgon_garden_entered"
+    ],
+    "questLink": "",
+    "conditionTag": "",
+    "priority": 1,
+    "isWhisperLayer": false,
+    "voiceProfile": "medusa",
+    "npcName": "Medusa",
+    "zone": "Gorgon's Garden",
+    "hookWord": "stay"
+  },
+  {
+    "dialogueId": "medusa_002",
+    "lines": [
+      "Want is a word for the living. These have moved past wanting into being."
+    ],
+    "responses": [],
+    "setFlags": [
+      "medusa_taught_stillness"
+    ],
+    "questLink": "",
+    "conditionTag": "",
+    "priority": 1,
+    "isWhisperLayer": false,
+    "voiceProfile": "medusa",
+    "npcName": "Medusa",
+    "zone": "Gorgon's Garden",
+    "hookWord": "stay"
+  },
+  {
+    "dialogueId": "medusa_003",
+    "lines": [
+      "You will feel the 84Hz enter your bones. Not as pain. As relief.",
+      "The part of you that is tired \u2014 the part that has been running since before you found the Inn \u2014 that part will stop.",
+      "The rest of you will continue. Lighter. The Song will be clearer without the weight of all that running."
+    ],
+    "responses": [],
+    "setFlags": [
+      "medusa_offered_touch"
+    ],
+    "questLink": "",
+    "conditionTag": "",
+    "priority": 1,
+    "isWhisperLayer": false,
+    "voiceProfile": "medusa",
+    "npcName": "Medusa",
+    "zone": "Gorgon's Garden",
+    "hookWord": "stay"
+  },
+  {
+    "dialogueId": "medusa_004",
+    "lines": [
+      "Then go. The garden will be here. I will be here. The 84Hz does not move.",
+      "When you are ready to rest \u2014 truly ready, not just tired \u2014 come back. The stones will welcome you."
+    ],
+    "responses": [],
+    "setFlags": [
+      "met_medusa",
+      "left_gorgon_garden"
+    ],
+    "questLink": "",
+    "conditionTag": "",
+    "priority": 1,
+    "isWhisperLayer": false,
+    "voiceProfile": "medusa",
+    "npcName": "Medusa",
+    "zone": "Gorgon's Garden",
+    "hookWord": "stay"
+  },
+  {
+    "dialogueId": "medusa_005",
+    "lines": [],
+    "responses": [],
+    "setFlags": [
+      "touched_medusa_stone",
+      "received_84hz_blessing",
+      "stone_chime_unlocked_84hz"
+    ],
+    "questLink": "",
+    "conditionTag": "",
+    "priority": 1,
+    "isWhisperLayer": false,
+    "voiceProfile": "medusa",
+    "npcName": "Medusa",
+    "zone": "Gorgon's Garden",
+    "hookWord": "stay"
+  },
+  {
+    "dialogueId": "charon_001",
+    "lines": [],
+    "responses": [],
+    "setFlags": [
+      "met_charon"
+    ],
+    "questLink": "",
+    "conditionTag": "",
+    "priority": 1,
+    "isWhisperLayer": false,
+    "voiceProfile": "charon",
+    "npcName": "Charon",
+    "zone": "Catacombs",
+    "hookWord": "across"
+  },
+  {
+    "dialogueId": "charon_002",
+    "lines": [],
+    "responses": [],
+    "setFlags": [
+      "crossed_with_charon",
+      "reached_far_shore"
+    ],
+    "questLink": "",
+    "conditionTag": "",
+    "priority": 1,
+    "isWhisperLayer": false,
+    "voiceProfile": "charon",
+    "npcName": "Charon",
+    "zone": "River",
+    "hookWord": "across"
+  },
+  {
+    "dialogueId": "charon_003",
+    "lines": [],
+    "responses": [],
+    "setFlags": [],
+    "questLink": "",
+    "conditionTag": "",
+    "priority": 1,
+    "isWhisperLayer": false,
+    "voiceProfile": "charon",
+    "npcName": "Charon",
+    "zone": "Catacombs",
+    "hookWord": "across"
+  },
+  {
+    "dialogueId": "kali_001",
+    "lines": [],
+    "responses": [],
+    "setFlags": [
+      "met_kali"
+    ],
+    "questLink": "",
+    "conditionTag": "",
+    "priority": 1,
+    "isWhisperLayer": false,
+    "voiceProfile": "kali",
+    "npcName": "Kali",
+    "zone": "Undercity",
+    "hookWord": "cut"
+  },
+  {
+    "dialogueId": "kali_002",
+    "lines": [],
+    "responses": [],
+    "setFlags": [
+      "kali_revealed_weights"
+    ],
+    "questLink": "",
+    "conditionTag": "",
+    "priority": 1,
+    "isWhisperLayer": false,
+    "voiceProfile": "kali",
+    "npcName": "Kali",
+    "zone": "Undercity",
+    "hookWord": "cut"
+  },
+  {
+    "dialogueId": "kali_003",
+    "lines": [
+      "Then carry them a while longer. The fire will be here. I will be here."
+    ],
+    "responses": [],
+    "setFlags": [
+      "met_kali",
+      "deferred_kali_cut"
+    ],
+    "questLink": "",
+    "conditionTag": "",
+    "priority": 1,
+    "isWhisperLayer": false,
+    "voiceProfile": "kali",
+    "npcName": "Kali",
+    "zone": "Undercity",
+    "hookWord": "cut"
+  },
+  {
+    "dialogueId": "kali_004",
+    "lines": [],
+    "responses": [],
+    "setFlags": [
+      "kali_cut_complete",
+      "weight_released",
+      "song_clarity_boost"
+    ],
+    "questLink": "",
+    "conditionTag": "",
+    "priority": 1,
+    "isWhisperLayer": false,
+    "voiceProfile": "kali",
+    "npcName": "Kali",
+    "zone": "Undercity",
+    "hookWord": "cut"
+  },
+  {
+    "dialogueId": "erik_001",
+    "lines": [],
+    "responses": [],
+    "setFlags": [
+      "met_erik",
+      "feast_first_visit"
+    ],
+    "questLink": "",
+    "conditionTag": "",
+    "priority": 1,
+    "isWhisperLayer": false,
+    "voiceProfile": "erik",
+    "npcName": "Erik",
+    "zone": "Hearth",
+    "hookWord": "feast"
+  },
+  {
+    "dialogueId": "erik_002",
+    "lines": [
+      "The taglharpa? Horsehair strings. Bone body. It sounds like a memory of a song, not the song itself.",
+      "I play it when the fire needs company. The 42Hz in the strings and the 42Hz in the flame \u2014 they harmonize. Or sometimes they argue."
+    ],
+    "responses": [],
+    "setFlags": [
+      "learned_taglharpa"
+    ],
+    "questLink": "",
+    "conditionTag": "",
+    "priority": 1,
+    "isWhisperLayer": false,
+    "voiceProfile": "erik",
+    "npcName": "Erik",
+    "zone": "Hearth",
+    "hookWord": "feast"
+  },
+  {
+    "dialogueId": "erik_003",
+    "lines": [
+      "Everyone, eventually. The table is long. The fire is patient.",
+      "Beverley passes through \u2014 never sits, always evaluating. Joe brings mead from the meadery. The brownies leave crumbs.",
+      "The Reader sits at the far end, once. Reads. Says nothing. Leaves a bookmark made of birch bark.",
+      "You are here now. That is enough for the table."
+    ],
+    "responses": [],
+    "setFlags": [],
+    "questLink": "",
+    "conditionTag": "",
+    "priority": 1,
+    "isWhisperLayer": false,
+    "voiceProfile": "erik",
+    "npcName": "Erik",
+    "zone": "Hearth",
+    "hookWord": "feast"
+  },
+  {
+    "dialogueId": "erik_004",
+    "lines": [
+      "The fire will remember you. Come back when you need warmth that does not ask questions."
+    ],
+    "responses": [],
+    "setFlags": [
+      "feast_first_visit",
+      "hearth_warmth_received"
+    ],
+    "questLink": "",
+    "conditionTag": "",
+    "priority": 1,
+    "isWhisperLayer": false,
+    "voiceProfile": "erik",
+    "npcName": "Erik",
+    "zone": "Hearth",
+    "hookWord": "feast"
+  },
+  {
+    "dialogueId": "zorya_001",
+    "lines": [],
+    "responses": [],
+    "setFlags": [
+      "met_zorya"
+    ],
+    "questLink": "",
+    "conditionTag": "",
+    "priority": 1,
+    "isWhisperLayer": false,
+    "voiceProfile": "zorya",
+    "npcName": "Zorya",
+    "zone": "Cosmology",
+    "hookWord": "star"
+  },
+  {
+    "dialogueId": "zorya_002",
+    "lines": [],
+    "responses": [],
+    "setFlags": [
+      "zorya_read_aurora"
+    ],
+    "questLink": "",
+    "conditionTag": "",
+    "priority": 1,
+    "isWhisperLayer": false,
+    "voiceProfile": "zorya",
+    "npcName": "Zorya",
+    "zone": "Cosmology",
+    "hookWord": "star"
+  },
+  {
+    "dialogueId": "zorya_003",
+    "lines": [],
+    "responses": [],
+    "setFlags": [
+      "zorya_taught_listening",
+      "aurora_listening_unlocked"
+    ],
+    "questLink": "",
+    "conditionTag": "",
+    "priority": 1,
+    "isWhisperLayer": false,
+    "voiceProfile": "zorya",
+    "npcName": "Zorya",
+    "zone": "Cosmology",
+    "hookWord": "star"
+  },
+  {
+    "dialogueId": "zorya_004",
+    "lines": [
+      "Descend. The Inn is below, and it is patient. The stars will be here when you return."
+    ],
+    "responses": [],
+    "setFlags": [
+      "met_zorya",
+      "cosmology_visited"
+    ],
+    "questLink": "",
+    "conditionTag": "",
+    "priority": 1,
+    "isWhisperLayer": false,
+    "voiceProfile": "zorya",
+    "npcName": "Zorya",
+    "zone": "Cosmology",
+    "hookWord": "star"
+  },
+  {
+    "dialogueId": "peruvian_guide_001",
+    "lines": [],
+    "responses": [],
+    "setFlags": [
+      "met_peruvian_guide"
+    ],
+    "questLink": "",
+    "conditionTag": "",
+    "priority": 1,
+    "isWhisperLayer": false,
+    "voiceProfile": "peruvian_guide",
+    "npcName": "The Guide",
+    "zone": "Peru",
+    "hookWord": "terrace"
+  },
+  {
+    "dialogueId": "peruvian_guide_002",
+    "lines": [
+      "Blue opal. The mountain sweats it. The Andes weep stone tears \u2014 that is how the old ones described it.",
+      "The opal carries water inside stone. The Inca believed it was the tears of Pachamama, frozen in the mountain's embrace.",
+      "Run far enough, high enough, and the mountain will let you find one."
+    ],
+    "responses": [],
+    "setFlags": [
+      "learned_blue_opal"
+    ],
+    "questLink": "",
+    "conditionTag": "",
+    "priority": 1,
+    "isWhisperLayer": false,
+    "voiceProfile": "peruvian_guide",
+    "npcName": "The Guide",
+    "zone": "Peru",
+    "hookWord": "terrace"
+  },
+  {
+    "dialogueId": "peruvian_guide_003",
+    "lines": [],
+    "responses": [],
+    "setFlags": [
+      "learned_apus"
+    ],
+    "questLink": "",
+    "conditionTag": "",
+    "priority": 1,
+    "isWhisperLayer": false,
+    "voiceProfile": "peruvian_guide",
+    "npcName": "The Guide",
+    "zone": "Peru",
+    "hookWord": "terrace"
+  },
+  {
+    "dialogueId": "peruvian_guide_004",
+    "lines": [
+      "Run with breath. Stop with purpose. The mountain will keep the path warm."
+    ],
+    "responses": [],
+    "setFlags": [
+      "met_peruvian_guide",
+      "andean_run_started"
+    ],
+    "questLink": "",
+    "conditionTag": "",
+    "priority": 1,
+    "isWhisperLayer": false,
+    "voiceProfile": "peruvian_guide",
+    "npcName": "The Guide",
+    "zone": "Peru",
+    "hookWord": "terrace"
+  },
+  {
+    "dialogueId": "one_who_is_awake_001",
+    "lines": [],
+    "responses": [],
+    "setFlags": [
+      "met_one_who_is_awake"
+    ],
+    "questLink": "",
+    "conditionTag": "",
+    "priority": 1,
+    "isWhisperLayer": false,
+    "voiceProfile": "one_who_is_awake",
+    "npcName": "The One Who Is Awake",
+    "zone": "Cosmology",
+    "hookWord": "name"
+  },
+  {
+    "dialogueId": "one_who_is_awake_002",
+    "lines": [],
+    "responses": [],
+    "setFlags": [],
+    "questLink": "",
+    "conditionTag": "",
+    "priority": 1,
+    "isWhisperLayer": false,
+    "voiceProfile": "one_who_is_awake",
+    "npcName": "The One Who Is Awake",
+    "zone": "Cosmology",
+    "hookWord": "name"
+  },
+  {
+    "dialogueId": "one_who_is_awake_003",
+    "lines": [
+      "All of them. Twice. Once in the language of the thing itself, once in the language of the one who finds it.",
+      "The first naming is truth. The second is understanding. The Inn exists in the space between the two."
+    ],
+    "responses": [],
+    "setFlags": [],
+    "questLink": "",
+    "conditionTag": "",
+    "priority": 1,
+    "isWhisperLayer": false,
+    "voiceProfile": "one_who_is_awake",
+    "npcName": "The One Who Is Awake",
+    "zone": "Cosmology",
+    "hookWord": "name"
+  },
+  {
+    "dialogueId": "one_who_is_awake_004",
+    "lines": [
+      "Go. I will continue naming. When you find something new in the Inn \u2014 a stone, a room, a feeling \u2014 I will have already named it.",
+      "You will know the name when you hear it. That is how naming works."
+    ],
+    "responses": [],
+    "setFlags": [
+      "met_one_who_is_awake",
+      "cosmology_visited"
+    ],
+    "questLink": "",
+    "conditionTag": "",
+    "priority": 1,
+    "isWhisperLayer": false,
+    "voiceProfile": "one_who_is_awake",
+    "npcName": "The One Who Is Awake",
+    "zone": "Cosmology",
+    "hookWord": "name"
+  },
+  {
+    "dialogueId": "beorn_001",
+    "lines": [],
+    "responses": [],
+    "setFlags": [
+      "met_beorn"
+    ],
+    "questLink": "",
+    "conditionTag": "",
+    "priority": 1,
+    "isWhisperLayer": false,
+    "voiceProfile": "beorn",
+    "npcName": "Beorn",
+    "zone": "Forest Edge",
+    "hookWord": "threshold"
+  },
+  {
+    "dialogueId": "beorn_002",
+    "lines": [],
+    "responses": [],
+    "setFlags": [
+      "crossed_threshold",
+      "entered_forest"
+    ],
+    "questLink": "",
+    "conditionTag": "",
+    "priority": 1,
+    "isWhisperLayer": false,
+    "voiceProfile": "beorn",
+    "npcName": "Beorn",
+    "zone": "Forest",
+    "hookWord": "threshold"
+  },
+  {
+    "dialogueId": "beorn_003",
+    "lines": [],
+    "responses": [],
+    "setFlags": [
+      "met_beorn"
+    ],
+    "questLink": "",
+    "conditionTag": "",
+    "priority": 1,
+    "isWhisperLayer": false,
+    "voiceProfile": "beorn",
+    "npcName": "Beorn",
+    "zone": "Forest Edge",
+    "hookWord": "threshold"
+  },
+  {
+    "dialogueId": "siren_outer_001",
+    "lines": [],
+    "responses": [],
+    "setFlags": [
+      "met_siren"
+    ],
+    "questLink": "",
+    "conditionTag": "",
+    "priority": 1,
+    "isWhisperLayer": false,
+    "voiceProfile": "siren_outer",
+    "npcName": "The Siren",
+    "zone": "Atlantis",
+    "hookWord": "sing"
+  },
+  {
+    "dialogueId": "siren_outer_002",
+    "lines": [
+      "I sing about what the water remembers. Every ship that crossed it. Every stone it shaped. Every creature that lived in it and returned to it."
+    ],
+    "responses": [],
+    "setFlags": [
+      "learned_water_archive"
+    ],
+    "questLink": "",
+    "conditionTag": "",
+    "priority": 1,
+    "isWhisperLayer": false,
+    "voiceProfile": "siren_outer",
+    "npcName": "The Siren",
+    "zone": "Atlantis",
+    "hookWord": "sing"
+  },
+  {
+    "dialogueId": "siren_outer_003",
+    "lines": [],
+    "responses": [],
+    "setFlags": [
+      "siren_silence_heard",
+      "between_perception_unlocked"
+    ],
+    "questLink": "",
+    "conditionTag": "",
+    "priority": 1,
+    "isWhisperLayer": false,
+    "voiceProfile": "siren_outer",
+    "npcName": "The Siren",
+    "zone": "Atlantis",
+    "hookWord": "sing"
+  },
+  {
+    "dialogueId": "siren_outer_004",
+    "lines": [
+      "Go. The water will carry you. It carries everything, eventually."
+    ],
+    "responses": [],
+    "setFlags": [
+      "met_siren",
+      "atlantis_visited"
+    ],
+    "questLink": "",
+    "conditionTag": "",
+    "priority": 1,
+    "isWhisperLayer": false,
+    "voiceProfile": "siren_outer",
+    "npcName": "The Siren",
+    "zone": "Atlantis",
+    "hookWord": "sing"
+  },
+  {
+    "dialogueId": "siren_inner_001",
+    "lines": [],
+    "responses": [],
+    "setFlags": [
+      "met_inner_siren"
+    ],
+    "questLink": "",
+    "conditionTag": "met_siren",
+    "priority": 1,
+    "isWhisperLayer": false,
+    "voiceProfile": "siren_inner",
+    "npcName": "The Inner Siren",
+    "zone": "Tidal Caves",
+    "hookWord": "listen"
+  },
+  {
+    "dialogueId": "siren_inner_002",
+    "lines": [],
+    "responses": [],
+    "setFlags": [
+      "learned_old_ones"
+    ],
+    "questLink": "",
+    "conditionTag": "",
+    "priority": 1,
+    "isWhisperLayer": false,
+    "voiceProfile": "siren_inner",
+    "npcName": "The Inner Siren",
+    "zone": "Tidal Caves",
+    "hookWord": "listen"
+  },
+  {
+    "dialogueId": "siren_inner_003",
+    "lines": [],
+    "responses": [],
+    "setFlags": [
+      "met_inner_siren",
+      "tidal_caves_visited"
+    ],
+    "questLink": "",
+    "conditionTag": "",
+    "priority": 1,
+    "isWhisperLayer": false,
+    "voiceProfile": "siren_inner",
+    "npcName": "The Inner Siren",
+    "zone": "Tidal Caves",
+    "hookWord": "listen"
+  },
+  {
+    "dialogueId": "radagast_001",
+    "lines": [],
+    "responses": [],
+    "setFlags": [
+      "met_radagast"
+    ],
+    "questLink": "",
+    "conditionTag": "",
+    "priority": 1,
+    "isWhisperLayer": false,
+    "voiceProfile": "radagast",
+    "npcName": "Radagast",
+    "zone": "Garden",
+    "hookWord": "grow"
+  },
+  {
+    "dialogueId": "radagast_002",
+    "lines": [
+      "Medicinal herbs. Mineral-rich roots. Flowering plants that only bloom when specific frequencies are played."
+    ],
+    "responses": [],
+    "setFlags": [],
+    "questLink": "",
+    "conditionTag": "",
+    "priority": 1,
+    "isWhisperLayer": false,
+    "voiceProfile": "radagast",
+    "npcName": "Radagast",
+    "zone": "Garden",
+    "hookWord": "grow"
+  },
+  {
+    "dialogueId": "radagast_003",
+    "lines": [],
+    "responses": [],
+    "setFlags": [
+      "learned_plant_frequencies"
+    ],
+    "questLink": "",
+    "conditionTag": "",
+    "priority": 1,
+    "isWhisperLayer": false,
+    "voiceProfile": "radagast",
+    "npcName": "Radagast",
+    "zone": "Garden",
+    "hookWord": "grow"
+  },
+  {
+    "dialogueId": "radagast_004",
+    "lines": [],
+    "responses": [],
+    "setFlags": [
+      "met_radagast",
+      "garden_visited",
+      "reginald_approval"
+    ],
+    "questLink": "",
+    "conditionTag": "",
+    "priority": 1,
+    "isWhisperLayer": false,
+    "voiceProfile": "radagast",
+    "npcName": "Radagast",
+    "zone": "Garden",
+    "hookWord": "grow"
+  },
+  {
+    "dialogueId": "uhtred_001",
+    "lines": [],
+    "responses": [],
+    "setFlags": [
+      "met_uhtred"
+    ],
+    "questLink": "",
+    "conditionTag": "",
+    "priority": 1,
+    "isWhisperLayer": false,
+    "voiceProfile": "uhtred",
+    "npcName": "Uhtred",
+    "zone": "Campgrounds",
+    "hookWord": "verdict"
+  },
+  {
+    "dialogueId": "uhtred_002",
+    "lines": [
+      "Courage. Walk to the Catacombs. Alone. No light. No map. The 42Hz Song will be your guide \u2014 if you can hear it."
+    ],
+    "responses": [],
+    "setFlags": [
+      "uhtred_test_courage",
+      "catacombs_trial_unlocked"
+    ],
+    "questLink": "",
+    "conditionTag": "",
+    "priority": 1,
+    "isWhisperLayer": false,
+    "voiceProfile": "uhtred",
+    "npcName": "Uhtred",
+    "zone": "Campgrounds",
+    "hookWord": "verdict"
+  },
+  {
+    "dialogueId": "uhtred_003",
+    "lines": [
+      "Patience. Sit by the fire. Do not speak. Do not move. Listen to the 42Hz Song until it becomes the only thing you hear.",
+      "When the fire dims and you do not reach for fuel \u2014 that is patience.",
+      "When the Song becomes louder than your own heartbeat \u2014 that is listening."
+    ],
+    "responses": [],
+    "setFlags": [
+      "uhtred_test_patience",
+      "patience_trial_unlocked"
+    ],
+    "questLink": "",
+    "conditionTag": "",
+    "priority": 1,
+    "isWhisperLayer": false,
+    "voiceProfile": "uhtred",
+    "npcName": "Uhtred",
+    "zone": "Campgrounds",
+    "hookWord": "verdict"
+  },
+  {
+    "dialogueId": "uhtred_004",
+    "lines": [],
+    "responses": [],
+    "setFlags": [
+      "met_uhtred"
+    ],
+    "questLink": "",
+    "conditionTag": "",
+    "priority": 1,
+    "isWhisperLayer": false,
+    "voiceProfile": "uhtred",
+    "npcName": "Uhtred",
+    "zone": "Campgrounds",
+    "hookWord": "verdict"
+  },
+  {
+    "dialogueId": "shifting_man_001",
+    "lines": [],
+    "responses": [],
+    "setFlags": [
+      "met_shifting_man"
+    ],
+    "questLink": "",
+    "conditionTag": "",
+    "priority": 1,
+    "isWhisperLayer": false,
+    "voiceProfile": "shifting_man",
+    "npcName": "The Shifting Man",
+    "zone": "Staircase",
+    "hookWord": "change"
+  },
+  {
+    "dialogueId": "shifting_man_002",
+    "lines": [],
+    "responses": [],
+    "setFlags": [],
+    "questLink": "",
+    "conditionTag": "",
+    "priority": 1,
+    "isWhisperLayer": false,
+    "voiceProfile": "shifting_man",
+    "npcName": "The Shifting Man",
+    "zone": "Staircase",
+    "hookWord": "change"
+  },
+  {
+    "dialogueId": "shifting_man_003",
+    "lines": [],
+    "responses": [],
+    "setFlags": [],
+    "questLink": "",
+    "conditionTag": "",
+    "priority": 1,
+    "isWhisperLayer": false,
+    "voiceProfile": "shifting_man",
+    "npcName": "The Shifting Man",
+    "zone": "Staircase",
+    "hookWord": "change"
+  },
+  {
+    "dialogueId": "shifting_man_004",
+    "lines": [
+      "Climb. The staircase goes in all directions. You will find the right one."
+    ],
+    "responses": [],
+    "setFlags": [
+      "met_shifting_man",
+      "staircase_visited"
+    ],
+    "questLink": "",
+    "conditionTag": "",
+    "priority": 1,
+    "isWhisperLayer": false,
+    "voiceProfile": "shifting_man",
+    "npcName": "The Shifting Man",
+    "zone": "Staircase",
+    "hookWord": "change"
+  },
+  {
+    "dialogueId": "norns_001",
+    "lines": [],
+    "responses": [],
+    "setFlags": [
+      "met_norns"
+    ],
+    "questLink": "",
+    "conditionTag": "",
+    "priority": 1,
+    "isWhisperLayer": false,
+    "voiceProfile": "norn_verdandi",
+    "npcName": "The Norns",
+    "zone": "Cosmology",
+    "hookWord": "thread"
+  },
+  {
+    "dialogueId": "norns_002",
+    "lines": [],
+    "responses": [],
+    "setFlags": [
+      "learned_final_room_pattern"
+    ],
+    "questLink": "",
+    "conditionTag": "",
+    "priority": 1,
+    "isWhisperLayer": false,
+    "voiceProfile": "norn_skuld",
+    "npcName": "The Norns",
+    "zone": "Cosmology",
+    "hookWord": "thread"
+  },
+  {
+    "dialogueId": "norns_003",
+    "lines": [],
+    "responses": [],
+    "setFlags": [
+      "learned_completion_vs_cutting"
+    ],
+    "questLink": "",
+    "conditionTag": "",
+    "priority": 1,
+    "isWhisperLayer": false,
+    "voiceProfile": "norn_urd",
+    "npcName": "The Norns",
+    "zone": "Cosmology",
+    "hookWord": "thread"
+  },
+  {
+    "dialogueId": "norns_004",
+    "lines": [],
+    "responses": [],
+    "setFlags": [
+      "met_norns",
+      "cosmology_visited"
+    ],
+    "questLink": "",
+    "conditionTag": "",
+    "priority": 1,
+    "isWhisperLayer": false,
+    "voiceProfile": "norn_verdandi",
+    "npcName": "The Norns",
+    "zone": "Cosmology",
+    "hookWord": "thread"
+  },
+  {
+    "dialogueId": "oceananoir_001",
+    "lines": [],
+    "responses": [],
+    "setFlags": [
+      "met_oceananoir"
+    ],
+    "questLink": "",
+    "conditionTag": "",
+    "priority": 1,
+    "isWhisperLayer": false,
+    "voiceProfile": "oceananoir",
+    "npcName": "Oceananoir",
+    "zone": "Atlantis",
+    "hookWord": "depth"
+  },
+  {
+    "dialogueId": "oceananoir_002",
+    "lines": [],
+    "responses": [],
+    "setFlags": [
+      "learned_water_narrative"
+    ],
+    "questLink": "",
+    "conditionTag": "",
+    "priority": 1,
+    "isWhisperLayer": false,
+    "voiceProfile": "oceananoir",
+    "npcName": "Oceananoir",
+    "zone": "Atlantis",
+    "hookWord": "depth"
+  },
+  {
+    "dialogueId": "oceananoir_003",
+    "lines": [
+      "Good. Will is in the deep section \u2014 past the reef, through the ruins, where the water goes from blue to black.",
+      "Tell Will the anglerfish found something new in the silt. A stone that hums at 42Hz. Will will know what it means."
+    ],
+    "responses": [],
+    "setFlags": [
+      "met_oceananoir",
+      "will_quest_unlocked"
+    ],
+    "questLink": "",
+    "conditionTag": "",
+    "priority": 1,
+    "isWhisperLayer": false,
+    "voiceProfile": "oceananoir",
+    "npcName": "Oceananoir",
+    "zone": "Atlantis",
+    "hookWord": "depth"
+  },
+  {
+    "dialogueId": "oceananoir_004",
+    "lines": [],
+    "responses": [],
+    "setFlags": [
+      "met_oceananoir",
+      "atlantis_visited"
+    ],
+    "questLink": "",
+    "conditionTag": "",
+    "priority": 1,
+    "isWhisperLayer": false,
+    "voiceProfile": "oceananoir",
+    "npcName": "Oceananoir",
+    "zone": "Atlantis",
+    "hookWord": "depth"
+  },
+  {
+    "dialogueId": "marijke_001",
+    "lines": [],
+    "responses": [],
+    "setFlags": [
+      "met_marijke"
+    ],
+    "questLink": "",
+    "conditionTag": "",
+    "priority": 1,
+    "isWhisperLayer": false,
+    "voiceProfile": "marijke",
+    "npcName": "Marijke",
+    "zone": "Cosmology",
+    "hookWord": "valor"
+  },
+  {
+    "dialogueId": "marijke_002",
+    "lines": [],
+    "responses": [],
+    "setFlags": [
+      "learned_visual_prototype"
+    ],
+    "questLink": "",
+    "conditionTag": "",
+    "priority": 1,
+    "isWhisperLayer": false,
+    "voiceProfile": "marijke",
+    "npcName": "Marijke",
+    "zone": "Cosmology",
+    "hookWord": "valor"
+  },
+  {
+    "dialogueId": "marijke_003",
+    "lines": [],
+    "responses": [],
+    "setFlags": [
+      "learned_armor_harmonics"
+    ],
+    "questLink": "",
+    "conditionTag": "",
+    "priority": 1,
+    "isWhisperLayer": false,
+    "voiceProfile": "marijke",
+    "npcName": "Marijke",
+    "zone": "Cosmology",
+    "hookWord": "valor"
+  },
+  {
+    "dialogueId": "marijke_004",
+    "lines": [],
+    "responses": [],
+    "setFlags": [
+      "met_marijke",
+      "cosmology_visited"
+    ],
+    "questLink": "",
+    "conditionTag": "",
+    "priority": 1,
+    "isWhisperLayer": false,
+    "voiceProfile": "marijke",
+    "npcName": "Marijke",
+    "zone": "Cosmology",
+    "hookWord": "valor"
+  },
+  {
+    "dialogueId": "thrum_001",
+    "lines": [],
+    "responses": [],
+    "setFlags": [
+      "met_thrum"
+    ],
+    "questLink": "",
+    "conditionTag": "",
+    "priority": 1,
+    "isWhisperLayer": true,
+    "voiceProfile": "thrum",
+    "npcName": "Thrum",
+    "zone": "Variable",
+    "hookWord": "pulse"
+  },
+  {
+    "dialogueId": "thrum_002",
+    "lines": [],
+    "responses": [],
+    "setFlags": [],
+    "questLink": "",
+    "conditionTag": "",
+    "priority": 1,
+    "isWhisperLayer": false,
+    "voiceProfile": "thrum",
+    "npcName": "Thrum",
+    "zone": "Variable",
+    "hookWord": "pulse"
+  },
+  {
+    "dialogueId": "thrum_003",
+    "lines": [
+      "Everywhere. Yes. That is the nature of a pulse."
+    ],
+    "responses": [],
+    "setFlags": [
+      "met_thrum",
+      "pulse_perception_unlocked"
+    ],
+    "questLink": "",
+    "conditionTag": "",
+    "priority": 1,
+    "isWhisperLayer": false,
+    "voiceProfile": "thrum",
+    "npcName": "Thrum",
+    "zone": "Variable",
+    "hookWord": "pulse"
+  },
+  {
+    "dialogueId": "constant_001",
+    "lines": [],
+    "responses": [],
+    "setFlags": [
+      "met_constant",
+      "whisper_layer_aware"
+    ],
+    "questLink": "",
+    "conditionTag": "",
+    "priority": 1,
+    "isWhisperLayer": true,
+    "voiceProfile": "constant",
+    "npcName": "The Constant",
+    "zone": "Variable",
+    "hookWord": "always"
+  },
+  {
+    "dialogueId": "constant_002",
+    "lines": [],
+    "responses": [],
+    "setFlags": [],
+    "questLink": "",
+    "conditionTag": "",
+    "priority": 1,
+    "isWhisperLayer": false,
+    "voiceProfile": "constant",
+    "npcName": "The Constant",
+    "zone": "Variable",
+    "hookWord": "always"
+  },
+  {
+    "dialogueId": "constant_003",
+    "lines": [
+      "Good."
+    ],
+    "responses": [],
+    "setFlags": [
+      "met_constant",
+      "whisper_layer_aware"
+    ],
+    "questLink": "",
+    "conditionTag": "",
+    "priority": 1,
+    "isWhisperLayer": false,
+    "voiceProfile": "constant",
+    "npcName": "The Constant",
+    "zone": "Variable",
+    "hookWord": "always"
+  },
+  {
+    "dialogueId": "nyx_wisdom_001",
+    "lines": [],
+    "responses": [],
+    "setFlags": [
+      "met_nyx"
+    ],
+    "questLink": "",
+    "conditionTag": "",
+    "priority": 1,
+    "isWhisperLayer": false,
+    "voiceProfile": "nyx_wisdom",
+    "npcName": "Nyx",
+    "zone": "Cosmology",
+    "hookWord": "dark"
+  },
+  {
+    "dialogueId": "nyx_wisdom_002",
+    "lines": [
+      "Patterns that light obscures. The 42Hz Song is clearer in the dark \u2014 nothing competes with it."
+    ],
+    "responses": [],
+    "setFlags": [],
+    "questLink": "",
+    "conditionTag": "",
+    "priority": 1,
+    "isWhisperLayer": false,
+    "voiceProfile": "nyx_wisdom",
+    "npcName": "Nyx",
+    "zone": "Cosmology",
+    "hookWord": "dark"
+  },
+  {
+    "dialogueId": "nyx_wisdom_003",
+    "lines": [],
+    "responses": [],
+    "setFlags": [
+      "learned_nyx_purge"
+    ],
+    "questLink": "",
+    "conditionTag": "",
+    "priority": 1,
+    "isWhisperLayer": false,
+    "voiceProfile": "nyx_wisdom",
+    "npcName": "Nyx",
+    "zone": "Cosmology",
+    "hookWord": "dark"
+  },
+  {
+    "dialogueId": "nyx_wisdom_004",
+    "lines": [],
+    "responses": [],
+    "setFlags": [
+      "met_nyx",
+      "cosmology_visited",
+      "dark_perception_unlocked"
+    ],
+    "questLink": "",
+    "conditionTag": "",
+    "priority": 1,
+    "isWhisperLayer": false,
+    "voiceProfile": "nyx_wisdom",
+    "npcName": "Nyx",
+    "zone": "Cosmology",
+    "hookWord": "dark"
+  },
+  {
+    "dialogueId": "cook_001",
+    "lines": [],
+    "responses": [],
+    "setFlags": [
+      "met_cook"
+    ],
+    "questLink": "",
+    "conditionTag": "",
+    "priority": 1,
+    "isWhisperLayer": false,
+    "voiceProfile": "cook",
+    "npcName": "The Cook",
+    "zone": "Hearth",
+    "hookWord": "warm"
+  },
+  {
+    "dialogueId": "cook_002",
+    "lines": [],
+    "responses": [],
+    "setFlags": [],
+    "questLink": "",
+    "conditionTag": "",
+    "priority": 1,
+    "isWhisperLayer": false,
+    "voiceProfile": "cook",
+    "npcName": "The Cook",
+    "zone": "Hearth",
+    "hookWord": "warm"
+  },
+  {
+    "dialogueId": "cook_003",
+    "lines": [],
+    "responses": [],
+    "setFlags": [
+      "met_cook",
+      "warm_stew_received",
+      "hearth_warmth_received"
+    ],
+    "questLink": "",
+    "conditionTag": "",
+    "priority": 1,
+    "isWhisperLayer": false,
+    "voiceProfile": "cook",
+    "npcName": "The Cook",
+    "zone": "Hearth",
+    "hookWord": "warm"
+  },
+  {
+    "dialogueId": "keeper_001",
+    "lines": [],
+    "responses": [],
+    "setFlags": [
+      "met_keeper"
+    ],
+    "questLink": "",
+    "conditionTag": "",
+    "priority": 1,
+    "isWhisperLayer": false,
+    "voiceProfile": "keeper",
+    "npcName": "The Keeper",
+    "zone": "Hearth",
+    "hookWord": "keep"
+  },
+  {
+    "dialogueId": "keeper_002",
+    "lines": [],
+    "responses": [],
+    "setFlags": [
+      "learned_final_room_condition"
+    ],
+    "questLink": "",
+    "conditionTag": "",
+    "priority": 1,
+    "isWhisperLayer": false,
+    "voiceProfile": "keeper",
+    "npcName": "The Keeper",
+    "zone": "Hearth",
+    "hookWord": "keep"
+  },
+  {
+    "dialogueId": "keeper_003",
+    "lines": [],
+    "responses": [],
+    "setFlags": [
+      "met_keeper",
+      "hearth_warmth_received"
+    ],
+    "questLink": "",
+    "conditionTag": "",
+    "priority": 1,
+    "isWhisperLayer": false,
+    "voiceProfile": "keeper",
+    "npcName": "The Keeper",
+    "zone": "Hearth",
+    "hookWord": "keep"
+  }
+]

@@ -1,0 +1,8 @@
+{
+  "appId": "com.geodeinn.app",
+  "appName": "The Geode Inn",
+  "webDir": "../",
+  "server": { "androidScheme": "https" },
+  "ios": { "contentInset": "always", "backgroundColor": "#0d0b08", "orientation": "portrait" },
+  "android": { "backgroundColor": "#0d0b08", "orientation": "portrait" }
+}

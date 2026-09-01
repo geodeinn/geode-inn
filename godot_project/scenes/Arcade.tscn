@@ -1,0 +1,65 @@
+[gd_scene load_steps=4 format=3 uid="uid://geode_inn_arcade"]
+
+[ext_resource type="Script" path="res://scripts/Arcade.gd" id="1"]
+[ext_resource type="Texture2D" path="res://assets/zones/zone_L3_arcade_muted_matisse.png" id="2"]
+
+[sub_resource type="StyleBoxFlat" id="ArcadePanelStyle"]
+bg_color = Color(0.06, 0.05, 0.04, 0.92)
+border_width_left = 2
+border_width_top = 2
+border_width_right = 2
+border_width_bottom = 2
+border_color = Color(0.55, 0.45, 0.27, 0.7)
+corner_radius_top_left = 6
+corner_radius_top_right = 6
+corner_radius_bottom_right = 6
+corner_radius_bottom_left = 6
+
+[node name="Arcade" type="Node2D"]
+script = ExtResource("1")
+
+[node name="Background" type="Sprite2D" parent="."]
+position = Vector2(512, 288)
+scale = Vector2(16, 9)
+texture = ExtResource("2")
+modulate = Color(0.25, 0.22, 0.18, 0.7)
+
+[node name="Camera2D" type="Camera2D" parent="."]
+position = Vector2(512, 288)
+
+[node name="HUD" type="CanvasLayer" parent="."]
+
+[node name="TitleLabel" type="Label" parent="HUD"]
+offset_left = 312
+offset_top = 15
+offset_right = 712
+offset_bottom = 50
+text = "The Arcade"
+horizontal_alignment = 1
+theme_override_font_sizes/font_size = 24
+theme_override_colors/font_color = Color(0.85, 0.72, 0.35, 1)
+
+[node name="VBoxContainer" type="VBoxContainer" parent="HUD"]
+offset_left = 56
+offset_top = 60
+offset_right = 968
+offset_bottom = 520
+
+[node name="ScrollContainer" type="ScrollContainer" parent="HUD/VBoxContainer"]
+layout_mode = 2
+size_flags_horizontal = 3
+size_flags_vertical = 3
+
+[node name="GameList" type="VBoxContainer" parent="HUD/VBoxContainer/ScrollContainer"]
+layout_mode = 2
+size_flags_horizontal = 3
+theme_override_constants/separation = 8
+
+[node name="BackLabel" type="Label" parent="HUD"]
+offset_left = 20
+offset_top = 540
+offset_right = 400
+offset_bottom = 570
+text = "ESC: Back to Hub | Up/Down: Navigate | Enter: Select"
+theme_override_colors/font_color = Color(0.5, 0.45, 0.35, 0.7)
+theme_override_font_sizes/font_size = 11

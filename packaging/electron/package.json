@@ -1,0 +1,50 @@
+{
+  "name": "geode-inn-arcade",
+  "version": "1.0.0",
+  "description": "The Geode Inn Arcade — 52 games, offline playable",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "build:win": "electron-builder --win --x64",
+    "build:mac": "electron-builder --mac --arm64 --x64",
+    "build:linux": "electron-builder --linux --x64",
+    "build:all": "electron-builder --win --mac --linux"
+  },
+  "build": {
+    "appId": "com.geodeinn.arcade",
+    "productName": "Geode Inn Arcade",
+    "directories": {
+      "output": "dist"
+    },
+    "files": [
+      "main.js",
+      "preload.js",
+      "arcade.html",
+      "icons/"
+    ],
+    "win": {
+      "target": "nsis",
+      "icon": "icons/geode-arcade.ico"
+    },
+    "mac": {
+      "target": "dmg",
+      "icon": "icons/geode-arcade.icns",
+      "category": "public.app-category.games"
+    },
+    "linux": {
+      "target": "AppImage",
+      "icon": "icons/geode-arcade.png",
+      "category": "Game"
+    },
+    "nsis": {
+      "oneClick": false,
+      "allowToChangeInstallationDirectory": true,
+      "createDesktopShortcut": true,
+      "createStartMenuShortcut": true
+    }
+  },
+  "devDependencies": {
+    "electron": "^28.0.0",
+    "electron-builder": "^24.6.4"
+  }
+}

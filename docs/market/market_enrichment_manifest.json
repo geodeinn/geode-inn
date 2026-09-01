@@ -1,0 +1,331 @@
+{
+  "title": "Geode Inn \u2014 MarketItem Enrichment Manifest",
+  "description": "Complete product data sync from Elio staging to live Geode Inn app. Each entry maps to a live MarketItem record by ID and provides stoneType, loreConnection, priceRange, realImage, and realName.",
+  "app_id": "6a60f218b0c6605c92fa35c4",
+  "entity": "MarketItem",
+  "total_records": 39,
+  "records_with_photos": 8,
+  "price_range": "$40-$510",
+  "updates": [
+    {
+      "live_id": "6a958452fd666a3119e11a90",
+      "name": "Garnet, gold and spinel earrings",
+      "stoneType": "Garnet, Gold, Spinel",
+      "loreConnection": "Garnet (Stone entity), Spinel (Stone entity). Connected to the Undercity and Klimt's Death and Life aesthetic.",
+      "priceRange": "$90",
+      "realImage": "https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/4f6975596_46cf94d51_picker_image_97D602A6-106C-4A31-BFDC-EC58950F97DD.jpg",
+      "realName": "Garnet, gold and spinel earrings"
+    },
+    {
+      "live_id": "6a9587154525ecfe8dc46322",
+      "name": "Silver, black onyx, and pietersite earrings",
+      "stoneType": "Silver, Black Onyx, Pietersite",
+      "loreConnection": "Black Onyx (Stone entity, facetable despite opacity), Pietersite (Stone entity). Connected to the acoustic architecture and dialogue systems.",
+      "priceRange": "$120",
+      "realImage": "https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/b50299b48_7f8ed5491_picker_image_4B4C1549-21F5-47AB-AE11-416C47CE93B1.jpg",
+      "realName": "Silver, black onyx, and pietersite earrings"
+    },
+    {
+      "live_id": "6a9589157a593abb552b3abb",
+      "name": "Baltic amber, amethyst and silver earrings (variant)",
+      "stoneType": "Baltic Amber, Amethyst",
+      "loreConnection": "Baltic Amber (Stone entity), Amethyst (Stone entity). Connected to the Hearth and fire mechanics.",
+      "priceRange": "$110",
+      "realImage": "https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/7404fc026_56d564a64_3925.jpg",
+      "realName": "Baltic amber, amethyst and silver earrings"
+    },
+    {
+      "live_id": "6a958452fd666a3119e11a92",
+      "name": "Baltic amber, amethyst and silver earrings",
+      "stoneType": "Baltic Amber, Amethyst",
+      "loreConnection": "Baltic Amber (Stone entity), Amethyst (Stone entity). Connected to the Hearth and fire mechanics.",
+      "priceRange": "$90",
+      "realName": "Baltic amber, amethyst and silver earrings"
+    },
+    {
+      "live_id": "6a9589157a593abb552b3abc",
+      "name": "Sunstone, garnet, and London blue topaz drops",
+      "stoneType": "Sunstone, Garnet, London Blue Topaz",
+      "loreConnection": "Sunstone (Stone entity), Garnet (Stone entity), London Blue Topaz (Stone entity). Connected to the Water Zone and tidal mechanics.",
+      "priceRange": "$120",
+      "realName": "Sunstone, garnet, and London blue topaz drops"
+    },
+    {
+      "live_id": "6a9588a0c76d78556cd6d3b4",
+      "name": "Peridot, amber and amethyst earrings",
+      "stoneType": "Peridot, Amber, Amethyst",
+      "loreConnection": "Peridot (Stone entity), Amber (Stone entity), Amethyst (Stone entity). Connected to the Canopy Zone and Fae Kingdom acoustics.",
+      "priceRange": "$110",
+      "realName": "Peridot, amber and amethyst earrings"
+    },
+    {
+      "live_id": "6a958452fd666a3119e11a91",
+      "name": "Viking earrings",
+      "stoneType": "Silver",
+      "loreConnection": "Connected to the Norse zone (Book of Kells artist assignment) and Viking mythology in the Lore entity.",
+      "priceRange": "$160",
+      "realImage": "https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/a6bbdac15_e21054bb5_3937.jpg",
+      "realName": "Viking earrings"
+    },
+    {
+      "live_id": "6a9587c4c1416a2ed1491f8a",
+      "name": "Aquamarine, Carnelian and Onyx",
+      "stoneType": "Aquamarine, Carnelian, Onyx",
+      "loreConnection": "Aquamarine (Stone entity), Carnelian (Stone entity), Onyx (Stone entity). Connected to the Water Zone and the Selkie questline.",
+      "priceRange": "$140",
+      "realName": "Aquamarine, Carnelian and Onyx"
+    },
+    {
+      "live_id": "6a9587c4c1416a2ed1491f8d",
+      "name": "Bloodlust",
+      "stoneType": "Garnet, Hematite",
+      "loreConnection": "Connected to the Shadow Inn (84Hz) and the combat/truth duality. The name reflects the Inn's honesty about its darker zones.",
+      "priceRange": "$180",
+      "realName": "Bloodlust"
+    },
+    {
+      "live_id": "6a958452fd666a3119e11a94",
+      "name": "LIMITED EDITION 5 Strand Gemstone Necklace",
+      "stoneType": "Mixed Gemstones",
+      "loreConnection": "Connected to all five levels of the Inn. The 5-strand design mirrors the Inn's vertical descent structure. This is the legendary piece of the collection.",
+      "priceRange": "$510",
+      "realName": "LIMITED EDITION 5 Strand Gemstone Necklace"
+    },
+    {
+      "live_id": "6a9587154525ecfe8dc46325",
+      "name": "Triple moon with smoky quartz, agate, and garnet on a silk ribbon",
+      "stoneType": "Smoky Quartz, Agate, Garnet",
+      "loreConnection": "Smoky Quartz (Stone entity), Agate (Stone entity), Garnet (Stone entity). The triple moon connects to the Inn's three creators. Silk ribbon = the thread of the narrative.",
+      "priceRange": "$60",
+      "realName": "Triple moon with smoky quartz, agate, and garnet on a silk ribbon"
+    },
+    {
+      "live_id": "6a958aa6efa98beb7c7bf016",
+      "name": "The Bluestone Key",
+      "stoneType": "Preseli Blue Stone",
+      "loreConnection": "Preseli Blue Stone from the Stone entity. Connected to the Standing Stones game (Phase 1 Tetris) and the Fae Kingdom portal system. The bluestone is the physical key to the game's biggest zone.",
+      "priceRange": "$50-100",
+      "realName": "Preseli Bluestone Pendant"
+    },
+    {
+      "live_id": "6a958aa6efa98beb7c7bf017",
+      "name": "The Truth-Teller's Ring",
+      "stoneType": "Malachite",
+      "loreConnection": "Malachite stone from the Stone entity. Connected to the Crone's character and her precision-without-cushioning philosophy. Also references Krista's Artisan Thief class \u2014 the jeweler who knows malachite is toxic when ground.",
+      "priceRange": "$50-100",
+      "realName": "Malachite Ring in Copper"
+    },
+    {
+      "live_id": "6a958aa6efa98beb7c7bf018",
+      "name": "The Aurora Pendant",
+      "stoneType": "Labradorite",
+      "loreConnection": "Labradorite stone from the Stone entity. Connected to the Catalyst's garden and the Fae Kingdom portal system. The stone's color-shift mirrors the Fae realm's shifting geography.",
+      "priceRange": "$100-250",
+      "realName": "Labradorite Pendant Sterling Silver"
+    },
+    {
+      "live_id": "6a958aa6efa98beb7c7bf019",
+      "name": "The Cat's Eye of Bastet",
+      "stoneType": "Cat's Eye Chrysoberyl",
+      "loreConnection": "Cat's Eye Chrysoberyl from the Stone entity. Connected to Bastet's Herding game and the Egyptian zone's cat mechanics. Krista's love of cats is embedded in the lore.",
+      "priceRange": "$250-500",
+      "realName": "Cat's Eye Chrysoberyl Pendant"
+    },
+    {
+      "live_id": "6a9587154525ecfe8dc46323",
+      "name": "Celtic woven leather in black",
+      "stoneType": "Leather",
+      "loreConnection": "Celtic knotwork \u2014 shadow variant. Connected to the Shadow Inn (84Hz).",
+      "priceRange": "$80",
+      "realName": "Celtic woven leather in black"
+    },
+    {
+      "live_id": "6a9587154525ecfe8dc46324",
+      "name": "Celtic leather in gray and brown",
+      "stoneType": "Leather",
+      "loreConnection": "Celtic knotwork \u2014 the Inn's ambient texture made wearable.",
+      "priceRange": "$80",
+      "realImage": "https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/1c9b3355e_bb5eaf39b_3939.jpg",
+      "realName": "Celtic leather in gray and brown"
+    },
+    {
+      "live_id": "6a9587154525ecfe8dc46326",
+      "name": "Celtic leather in light brown",
+      "stoneType": "Leather",
+      "loreConnection": "Celtic knotwork \u2014 the Inn's ambient texture made wearable.",
+      "priceRange": "$80",
+      "realImage": "https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/0ff4cae1b_1231d9aca_3933.jpg",
+      "realName": "Celtic leather in light brown"
+    },
+    {
+      "live_id": "6a9587c4c1416a2ed1491f89",
+      "name": "Celtic leather bracelet in gray and brown",
+      "stoneType": "Leather",
+      "loreConnection": "Celtic knotwork \u2014 the Inn's ambient texture made wearable.",
+      "priceRange": "$40",
+      "realImage": "https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/6ab389c84_7a29b564a_3936.jpg",
+      "realName": "Celtic leather bracelet in gray and brown"
+    },
+    {
+      "live_id": "6a958452fd666a3119e11a93",
+      "name": "Celtic leather in grays and browns",
+      "stoneType": "Leather",
+      "loreConnection": "Celtic knotwork \u2014 masterwork tier. Connected to the Inn's crafting system and the Knotwork game.",
+      "priceRange": "$250",
+      "realImage": "https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/212c30c52_d267a016b_3934.jpg",
+      "realName": "Celtic leather in grays and browns"
+    },
+    {
+      "live_id": "6a9588393ff0142ed4fac1bb",
+      "name": "Celtic leather in black and green",
+      "stoneType": "Leather",
+      "loreConnection": "Celtic knotwork is the ambient texture of the Inn. This piece is the craft made physical.",
+      "priceRange": "$160",
+      "realName": "Celtic leather in black and green"
+    },
+    {
+      "live_id": "6a9588393ff0142ed4fac1bc",
+      "name": "Leather Celtic bracelet in blacks, blues, and browns",
+      "stoneType": "Leather",
+      "loreConnection": "Celtic knotwork bracelet \u2014 the Inn's ambient texture made wearable.",
+      "priceRange": "$120",
+      "realName": "Leather Celtic bracelet in blacks, blues, and browns"
+    },
+    {
+      "live_id": "6a9588393ff0142ed4fac1bd",
+      "name": "Leather Celtic necklace in blacks, blues, and browns",
+      "stoneType": "Leather",
+      "loreConnection": "Celtic knotwork necklace \u2014 the Inn's ambient texture made wearable.",
+      "priceRange": "$250",
+      "realName": "Leather Celtic necklace in blacks, blues, and browns"
+    },
+    {
+      "live_id": "6a9588393ff0142ed4fac1be",
+      "name": "Celtic leather in brown, black, and green",
+      "stoneType": "Leather",
+      "loreConnection": "Celtic knotwork \u2014 the Inn's ambient texture made wearable.",
+      "priceRange": "$80",
+      "realName": "Celtic leather in brown, black, and green"
+    },
+    {
+      "live_id": "6a9588393ff0142ed4fac1bf",
+      "name": "Celtic leather bracelet in brown",
+      "stoneType": "Leather",
+      "loreConnection": "Celtic knotwork \u2014 entry-level craft of the Inn.",
+      "priceRange": "$40",
+      "realName": "Celtic leather bracelet in brown"
+    },
+    {
+      "live_id": "6a9588a0c76d78556cd6d3b3",
+      "name": "Celtic leather in green and black",
+      "stoneType": "Leather",
+      "loreConnection": "Celtic knotwork \u2014 the Inn's ambient texture made wearable.",
+      "priceRange": "$80",
+      "realName": "Celtic leather in green and black"
+    },
+    {
+      "live_id": "6a9588a0c76d78556cd6d3b5",
+      "name": "Celtic leather love knot bracelet in green",
+      "stoneType": "Leather",
+      "loreConnection": "Celtic knotwork \u2014 love knot variant. Connected to the Inn's warmth mechanics.",
+      "priceRange": "$40",
+      "realName": "Celtic leather love knot bracelet in green"
+    },
+    {
+      "live_id": "6a9588a0c76d78556cd6d3b6",
+      "name": "Celtic leather bracelet in black and green",
+      "stoneType": "Leather",
+      "loreConnection": "Celtic knotwork \u2014 the Inn's ambient texture made wearable.",
+      "priceRange": "$40",
+      "realName": "Celtic leather bracelet in black and green"
+    },
+    {
+      "live_id": "6a9588a0c76d78556cd6d3b7",
+      "name": "Celtic leather in black and browns",
+      "stoneType": "Leather",
+      "loreConnection": "Celtic knotwork \u2014 the Inn's ambient texture made wearable.",
+      "priceRange": "$80",
+      "realName": "Celtic leather in black and browns"
+    },
+    {
+      "live_id": "6a9587c4c1416a2ed1491f8b",
+      "name": "Celtic leather love knot in green and brown",
+      "stoneType": "Leather",
+      "loreConnection": "Celtic knotwork \u2014 love knot variant. Connected to the Inn's warmth mechanics.",
+      "priceRange": "$80",
+      "realName": "Celtic leather love knot in green and brown"
+    },
+    {
+      "live_id": "6a9587c4c1416a2ed1491f8c",
+      "name": "Celtic leather bracelet in green",
+      "stoneType": "Leather",
+      "loreConnection": "Celtic knotwork \u2014 canopy variant. Connected to the Canopy Zone (42Hz grow).",
+      "priceRange": "$40",
+      "realName": "Celtic leather bracelet in green"
+    },
+    {
+      "live_id": "6a9589157a593abb552b3abd",
+      "name": "Celtic love weaving in black",
+      "stoneType": "Leather",
+      "loreConnection": "Celtic knotwork \u2014 love weaving variant. Connected to the Shadow Inn (84Hz).",
+      "priceRange": "$90",
+      "realName": "Celtic love weaving in black"
+    },
+    {
+      "live_id": "6a9589157a593abb552b3abe",
+      "name": "Handmade Celtic leatherwork in gray, green, and black",
+      "stoneType": "Leather",
+      "loreConnection": "Celtic knotwork \u2014 masterwork tier. Connected to the Inn's crafting system.",
+      "priceRange": "$250",
+      "realName": "Handmade Celtic leatherwork in gray, green, and black"
+    },
+    {
+      "live_id": "6a9589157a593abb552b3abf",
+      "name": "Leather and skulls",
+      "stoneType": "Leather",
+      "loreConnection": "Connected to the Catacombs zone and the Inn's death/remembrance themes.",
+      "priceRange": "$120",
+      "realName": "Leather and skulls"
+    },
+    {
+      "live_id": "6a9586a2b3611f14d4c98672",
+      "name": "Tiny sunstone necklace",
+      "stoneType": "Sunstone",
+      "loreConnection": "Sunstone (Stone entity). Connected to the Cosmology level and the Inn's warmth frequencies. The smallest piece in the collection \u2014 proof that the Inn's power is not in size but in presence.",
+      "priceRange": "$60",
+      "realName": "Tiny sunstone necklace"
+    },
+    {
+      "live_id": "6a9586a2b3611f14d4c98673",
+      "name": "Shield pendant",
+      "stoneType": "Mixed Metals",
+      "loreConnection": "Connected to Lozen's Sentinel questline and the Inn's guardian mechanics. The shield is the Inn's promise that not everything needs to be faced alone.",
+      "priceRange": "$80",
+      "realName": "Shield pendant"
+    },
+    {
+      "live_id": "6a9586a2b3611f14d4c98674",
+      "name": "Thistle necklace",
+      "stoneType": "Silver",
+      "loreConnection": "Connected to the Scottish/Celtic zones and the Book of Kells artist assignment. The thistle is Scotland's emblem \u2014 beauty that defends itself.",
+      "priceRange": "$90",
+      "realName": "Thistle necklace"
+    },
+    {
+      "live_id": "6a9586a2b3611f14d4c98675",
+      "name": "Star pendant",
+      "stoneType": "Silver",
+      "loreConnection": "Connected to the Clockwork Skies zone and the Navigator's star charts. Every star in the Inn is a direction someone hasn't tried yet.",
+      "priceRange": "$80",
+      "realName": "Star pendant"
+    },
+    {
+      "live_id": "6a9586a2b3611f14d4c98676",
+      "name": "Trinity pendant",
+      "stoneType": "Silver",
+      "loreConnection": "Connected to the Inn's three creators \u2014 Krista, River, and Charles. The trinity is not a symbol of faith in the Inn but a symbol of family.",
+      "priceRange": "$80",
+      "realName": "Trinity pendant"
+    }
+  ]
+}

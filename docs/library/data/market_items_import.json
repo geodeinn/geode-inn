@@ -1,0 +1,345 @@
+{
+  "instructions": "Delete all existing MarketItem records, then create new ones from this data. Each item maps to the Geode Inn MarketItem entity schema.",
+  "items": [
+    {
+      "name": "Garnet, gold and spinel earrings",
+      "description": "Handcrafted earrings featuring garnet, gold, and spinel.",
+      "price_range": "$90",
+      "category": "Gemstone Earrings",
+      "image_url": "https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/4f6975596_46cf94d51_picker_image_97D602A6-106C-4A31-BFDC-EC58950F97DD.jpg",
+      "isSoulsticeItem": true,
+      "process_url": "https://soulsticejeweler.com/shop",
+      "status": "Available"
+    },
+    {
+      "name": "Silver, black onyx, and pietersite earrings",
+      "description": "Handcrafted earrings featuring silver, black onyx, and pietersite.",
+      "price_range": "$120",
+      "category": "Gemstone Earrings",
+      "image_url": "https://base44.api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/b50299b48_7f8ed5491_picker_image_4B4C1549-21F5-47AB-AE11-416C47CE93B1.jpg",
+      "isSoulsticeItem": true,
+      "process_url": "https://soulsticejeweler.com/shop",
+      "status": "Available"
+    },
+    {
+      "name": "Celtic woven leather in black",
+      "description": "Celtic woven leather in black.",
+      "price_range": "$80",
+      "category": "Celtic Leatherwork",
+      "image_url": null,
+      "isSoulsticeItem": true,
+      "process_url": "https://soulsticejeweler.com/shop",
+      "status": "Available"
+    },
+    {
+      "name": "Celtic leather in gray and brown",
+      "description": "Celtic woven leather in gray and brown.",
+      "price_range": "$80",
+      "category": "Celtic Leatherwork",
+      "image_url": "https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/1c9b3355e_bb5eaf39b_3939.jpg",
+      "isSoulsticeItem": true,
+      "process_url": "https://soulsticejeweler.com/shop",
+      "status": "Available"
+    },
+    {
+      "name": "Triple moon with smoky quartz, agate, and garnet on a silk ribbon",
+      "description": "Triple moon pendant with smoky quartz, agate, and garnet on a silk ribbon.",
+      "price_range": "$60",
+      "category": "Gemstone Jewelry",
+      "image_url": null,
+      "isSoulsticeItem": true,
+      "process_url": "https://soulsticejeweler.com/shop",
+      "status": "Available"
+    },
+    {
+      "name": "Baltic amber, amethyst and silver earrings",
+      "description": "Handcrafted earrings featuring Baltic amber, amethyst, and silver.",
+      "price_range": "$110",
+      "category": "Gemstone Earrings",
+      "image_url": "https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/7404fc026_56d564a64_3925.jpg",
+      "isSoulsticeItem": true,
+      "process_url": "https://soulsticejeweler.com/shop",
+      "status": "Available"
+    },
+    {
+      "name": "Celtic leather in light brown",
+      "description": "Celtic woven leather in light brown.",
+      "price_range": "$80",
+      "category": "Celtic Leatherwork",
+      "image_url": "https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/0ff4cae1b_1231d9aca_3933.jpg",
+      "isSoulsticeItem": true,
+      "process_url": "https://soulsticejeweler.com/shop",
+      "status": "Available"
+    },
+    {
+      "name": "Celtic leather bracelet in gray and brown",
+      "description": "Celtic woven leather bracelet in gray and brown.",
+      "price_range": "$40",
+      "category": "Celtic Leatherwork",
+      "image_url": "https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/6ab389c84_7a29b564a_3936.jpg",
+      "isSoulsticeItem": true,
+      "process_url": "https://soulsticejeweler.com/shop",
+      "status": "Available"
+    },
+    {
+      "name": "Viking earrings",
+      "description": "Handcrafted Viking-style earrings.",
+      "price_range": "$160",
+      "category": "Gemstone Earrings",
+      "image_url": "https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/a6bbdac15_e21054bb5_3937.jpg",
+      "isSoulsticeItem": true,
+      "process_url": "https://soulsticejeweler.com/shop",
+      "status": "Available"
+    },
+    {
+      "name": "Celtic leather in grays and browns",
+      "description": "Handmade Celtic leatherwork in grays and browns. Masterwork tier.",
+      "price_range": "$250",
+      "category": "Celtic Leatherwork",
+      "image_url": "https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/212c30c52_d267a016b_3934.jpg",
+      "isSoulsticeItem": true,
+      "process_url": "https://soulsticejeweler.com/shop",
+      "status": "Available"
+    },
+    {
+      "name": "Aquamarine, Carnelian and Onyx",
+      "description": "Handcrafted piece featuring aquamarine, carnelian, and onyx.",
+      "price_range": "$140",
+      "category": "Gemstone Jewelry",
+      "image_url": null,
+      "isSoulsticeItem": true,
+      "process_url": "https://soulsticejeweler.com/shop",
+      "status": "Available"
+    },
+    {
+      "name": "Celtic leather love knot in green and brown",
+      "description": "Celtic leather love knot in green and brown.",
+      "price_range": "$80",
+      "category": "Celtic Leatherwork",
+      "image_url": null,
+      "isSoulsticeItem": true,
+      "process_url": "https://soulsticejeweler.com/shop",
+      "status": "Available"
+    },
+    {
+      "name": "Celtic leather bracelet in green",
+      "description": "Celtic woven leather bracelet in green.",
+      "price_range": "$40",
+      "category": "Celtic Leatherwork",
+      "image_url": null,
+      "isSoulsticeItem": true,
+      "process_url": "https://soulsticejeweler.com/shop",
+      "status": "Available"
+    },
+    {
+      "name": "Bloodlust",
+      "description": "Handcrafted piece called Bloodlust. Deep red and dark stones.",
+      "price_range": "$180",
+      "category": "Gemstone Jewelry",
+      "image_url": null,
+      "isSoulsticeItem": true,
+      "process_url": "https://soulsticejeweler.com/shop",
+      "status": "Available"
+    },
+    {
+      "name": "LIMITED EDITION 5 Strand Gemstone Necklace",
+      "description": "Limited edition 5-strand gemstone necklace. The most complex piece in the Soulstice collection.",
+      "price_range": "$510",
+      "category": "Gemstone Jewelry",
+      "image_url": null,
+      "isSoulsticeItem": true,
+      "process_url": "https://soulsticejeweler.com/shop",
+      "status": "Available"
+    },
+    {
+      "name": "Celtic leather in black and green",
+      "description": "16 strands of leather in a Celtic knot pattern. Woven pattern is 16 inches with 7-inch deer hide leather extender cords. Can be worn around the neck, hat, or brow.",
+      "price_range": "$160",
+      "category": "Celtic Leatherwork",
+      "image_url": null,
+      "isSoulsticeItem": true,
+      "process_url": "https://soulsticejeweler.com/shop",
+      "status": "Available"
+    },
+    {
+      "name": "Leather Celtic bracelet in blacks, blues, and browns",
+      "description": "Celtic woven leather bracelet in blacks, blues, and browns.",
+      "price_range": "$120",
+      "category": "Celtic Leatherwork",
+      "image_url": null,
+      "isSoulsticeItem": true,
+      "process_url": "https://soulsticejeweler.com/shop",
+      "status": "Available"
+    },
+    {
+      "name": "Leather Celtic necklace in blacks, blues, and browns",
+      "description": "Celtic woven leather necklace in blacks, blues, and browns.",
+      "price_range": "$250",
+      "category": "Celtic Leatherwork",
+      "image_url": null,
+      "isSoulsticeItem": true,
+      "process_url": "https://soulsticejeweler.com/shop",
+      "status": "Available"
+    },
+    {
+      "name": "Celtic leather in brown, black, and green",
+      "description": "Celtic woven leather piece in brown, black, and green.",
+      "price_range": "$80",
+      "category": "Celtic Leatherwork",
+      "image_url": null,
+      "isSoulsticeItem": true,
+      "process_url": "https://soulsticejeweler.com/shop",
+      "status": "Available"
+    },
+    {
+      "name": "Celtic leather bracelet in brown",
+      "description": "Celtic woven leather bracelet in brown.",
+      "price_range": "$40",
+      "category": "Celtic Leatherwork",
+      "image_url": null,
+      "isSoulsticeItem": true,
+      "process_url": "https://soulsticejeweler.com/shop",
+      "status": "Available"
+    },
+    {
+      "name": "Celtic leather in green and black",
+      "description": "Celtic woven leather in green and black.",
+      "price_range": "$80",
+      "category": "Celtic Leatherwork",
+      "image_url": null,
+      "isSoulsticeItem": true,
+      "process_url": "https://soulsticejeweler.com/shop",
+      "status": "Available"
+    },
+    {
+      "name": "Peridot, amber and amethyst earrings",
+      "description": "Handcrafted earrings featuring peridot, amber, and amethyst stones.",
+      "price_range": "$110",
+      "category": "Gemstone Earrings",
+      "image_url": null,
+      "isSoulsticeItem": true,
+      "process_url": "https://soulsticejeweler.com/shop",
+      "status": "Available"
+    },
+    {
+      "name": "Celtic leather love knot bracelet in green",
+      "description": "Celtic leather love knot bracelet in green.",
+      "price_range": "$40",
+      "category": "Celtic Leatherwork",
+      "image_url": null,
+      "isSoulsticeItem": true,
+      "process_url": "https://soulsticejeweler.com/shop",
+      "status": "Available"
+    },
+    {
+      "name": "Celtic leather bracelet in black and green",
+      "description": "Celtic woven leather bracelet in black and green.",
+      "price_range": "$40",
+      "category": "Celtic Leatherwork",
+      "image_url": null,
+      "isSoulsticeItem": true,
+      "process_url": "https://soulsticejeweler.com/shop",
+      "status": "Available"
+    },
+    {
+      "name": "Celtic leather in black and browns",
+      "description": "Celtic woven leather in black and browns.",
+      "price_range": "$80",
+      "category": "Celtic Leatherwork",
+      "image_url": null,
+      "isSoulsticeItem": true,
+      "process_url": "https://soulsticejeweler.com/shop",
+      "status": "Available"
+    },
+    {
+      "name": "Baltic amber, amethyst and silver earrings",
+      "description": "Handcrafted earrings featuring Baltic amber, amethyst, and silver.",
+      "price_range": "$90",
+      "category": "Gemstone Earrings",
+      "image_url": null,
+      "isSoulsticeItem": true,
+      "process_url": "https://soulsticejeweler.com/shop",
+      "status": "Available"
+    },
+    {
+      "name": "Sunstone, garnet, and London blue topaz drops",
+      "description": "Drop earrings featuring sunstone, garnet, and London blue topaz.",
+      "price_range": "$120",
+      "category": "Gemstone Earrings",
+      "image_url": null,
+      "isSoulsticeItem": true,
+      "process_url": "https://soulsticejeweler.com/shop",
+      "status": "Available"
+    },
+    {
+      "name": "Celtic love weaving in black",
+      "description": "Celtic love weaving in black leather with woven cord.",
+      "price_range": "$90",
+      "category": "Celtic Leatherwork",
+      "image_url": null,
+      "isSoulsticeItem": true,
+      "process_url": "https://soulsticejeweler.com/shop",
+      "status": "Available"
+    },
+    {
+      "name": "Handmade Celtic leatherwork in gray, green, and black",
+      "description": "Handmade Celtic leatherwork in gray, green, and black. Multiple options available.",
+      "price_range": "$250",
+      "category": "Celtic Leatherwork",
+      "image_url": null,
+      "isSoulsticeItem": true,
+      "process_url": "https://soulsticejeweler.com/shop",
+      "status": "Available"
+    },
+    {
+      "name": "Leather and skulls",
+      "description": "Leather necklace featuring small skull charms on braided cord.",
+      "price_range": "$120",
+      "category": "Celtic Leatherwork",
+      "image_url": null,
+      "isSoulsticeItem": true,
+      "process_url": "https://soulsticejeweler.com/shop",
+      "status": "Available"
+    },
+    {
+      "name": "The Bluestone Key",
+      "description": "Authentic Preseli Blue Stone (dolerite) from the Preseli Hills, Wales \u2014 the same source as the Stonehenge bluestones. Polished cabochon in sterling silver.",
+      "price_range": "$50-100",
+      "category": "Jewelry",
+      "image_url": null,
+      "isSoulsticeItem": true,
+      "process_url": "https://soulsticejeweler.com",
+      "status": "Available"
+    },
+    {
+      "name": "The Truth-Teller's Ring",
+      "description": "Natural malachite ring set in copper. Each piece is unique due to the natural banding patterns of the stone.",
+      "price_range": "$50-100",
+      "category": "Jewelry",
+      "image_url": null,
+      "isSoulsticeItem": true,
+      "process_url": "https://soulsticejeweler.com",
+      "status": "Studying Technique"
+    },
+    {
+      "name": "The Aurora Pendant",
+      "description": "Handcrafted labradorite pendant in sterling silver. Each piece features natural blue flash labradorite sourced from Labrador, Canada.",
+      "price_range": "$100-250",
+      "category": "Jewelry",
+      "image_url": null,
+      "isSoulsticeItem": true,
+      "process_url": "https://soulsticejeweler.com",
+      "status": "Available"
+    },
+    {
+      "name": "The Cat's Eye of Bastet",
+      "description": "Genuine cat's eye chrysoberyl cabochon set in sterling silver. Displays sharp chatoyancy under direct light.",
+      "price_range": "$250-500",
+      "category": "Jewelry",
+      "image_url": null,
+      "isSoulsticeItem": true,
+      "process_url": "https://soulsticejeweler.com",
+      "status": "Available"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "name": "The Geode Inn",
+  "short_name": "Geode Inn",
+  "description": "A living archive of stone, sound, and story. 52 games, 198 stones, one Inn.",
+  "start_url": "./geode_inn.html",
+  "display": "fullscreen",
+  "orientation": "any",
+  "background_color": "#0d0b08",
+  "theme_color": "#c4a572",
+  "icons": [
+    {
+      "src": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 512 512'%3E%3Crect fill='%230d0b08' width='512' height='512'/%3E%3Ccircle cx='256' cy='256' r='180' fill='none' stroke='%23c4a572' stroke-width='8'/%3E%3Ccircle cx='256' cy='256' r='120' fill='none' stroke='%23c4a572' stroke-width='4' opacity='0.5'/%3E%3Ccircle cx='256' cy='256' r='40' fill='%23c4a572' opacity='0.3'/%3E%3C/svg%3E",
+      "sizes": "512x512",
+      "type": "image/svg+xml"
+    }
+  ],
+  "categories": ["games", "entertainment", "education"],
+  "screenshots": [],
+  "features": ["offline", "fullscreen", "gamepad"]
+}
