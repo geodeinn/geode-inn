@@ -71,13 +71,81 @@ The Canopy City is the Arcana's home port. A community in the upper branches. No
 
 6. **The Crow's Path** — a rope-walk that circles the outer canopy, offering views in every direction. The path is where the Canopy City's "lookouts" walk — the people who watch the sky for weather, for ships, for the things that sometimes come from the uncharted regions. The Crow's Path connects to the Reluctant's Crow's Nest — the same instinct (watching) expressed at the city scale.
 
+
+7. **The Cartographer's Outlook** — a platform at the outermost edge of the Canopy City, extending past the canopy into open sky. The Cartographer's maps cover every surface — pinned to the platform, hanging from ropes, weighted with stones. The outlook is the Canopy City's world map station: the place where the player accesses the World Map from above. The Cartographer has been mapping ley lines for centuries but could never see them — only infer their presence from stone placements and sacred site alignments. The outlook has a brass telescope mounted at the center, aimed not up (like the Astronomer's) and not down (like the Lighthouse's) but ACROSS — along the horizon. The telescope is the Cartographer's instrument for trying to see the ley lines. It has never worked. The player, carrying stones that resonate with ley lines, will change this.
+
+8. **The Sky Dock** — the Canopy City's departure point for the World Grid. Rope ladders and wooden slides descend from the Canopy City's edge to the ground below — faster than climbing the Staircase, a direct drop from sky to earth. The Sky Dock is where the player descends to the World Grid's cultural regions. Each of the nine cultural platforms corresponds to a descent line: the Moorlands line, the Fjords line, the Desert line, etc. The player selects a line, slides, and lands in that region. Fast travel back: the player climbs any cultural platform to return to the Canopy City. The long way: walk to the Inn's base and climb the Staircase.
+
 ### Canopy City NPCs
 
 - **The Clockwork Maker** — a Canopy City artisan, meticulous, the kind of person who talks to gears. Repairs charms, upgrades mechanisms. Knows the second ring of the Brísingamen is in the shop's music box. Doesn't know what it is — just knows it hums and makes the shop feel warm.
 - **The Sky Market Vendor** — sells wind-glass and weather charms. A retired sky sailor who lost a ship to a storm and chose to stay on the ground (or rather, in the canopy). Tells stories of the uncharted sky.
 - **The Crow's Path Lookout** — a young Canopy City resident who walks the outer rope-walk. Reports what's seen. One of the few people who has seen the ghost ship from the Canopy City's edge — and was told nobody would believe it.
+- **The Cartographer** — the Canopy City's mapmaker and ley line theorist. An older figure, patient, methodical, the kind of person who has spent so long looking at maps that the maps have started looking back. The Cartographer has been mapping the ley lines for centuries — the hypothetical energy channels that connect every sacred site on earth. The Cartographer has never seen a ley line. The Cartographer has only inferred them: from the placement of stone circles, from the alignment of pyramids, from the fact that every culture built its most sacred structures on the same invisible grid. The Cartographer gives the quest "The Map That Hears" — sending the player to three ley line nodes (Stonehenge, the Pyramids, Uluru) with a stone-compass. When the player returns, the ley line network is revealed on the world map. The Cartographer's voice is quiet, precise, and breaks slightly when the ley lines finally appear — the sound of someone who has been right for centuries and never had proof.
+
 
 ---
+
+
+## The Silk Road: Ley Line Trading System
+
+The Silk Road is the Canopy City's expanded trading system — but it's more than trade. The Silk Road is the Inn's ENERGY NETWORK: the horizontal axis connecting every cultural zone, every stone, and every sacred site across the Earth's surface.
+
+If the Inn is the tree, the Silk Road is the ROOT SYSTEM — the network that draws energy from the ground and distributes it outward. The Hollow Earth generates the 42Hz frequency. The ley lines carry it. The Silk Road trades in it. The Inn collects it. The player composes it. The Song returns to the stars.
+
+### Ley Line Vision
+
+Ley lines are the Earth's natural energy channels — pathways carrying 42Hz frequency from the Hollow Earth's core through the crust to the surface. Every sacred site in human history was built on a ley line node — Stonehenge, the Pyramids, Machu Picchu, Angkor Wat, the Nazca Lines. The builders could FEEL the frequency. They built where the energy was strongest.
+
+The player unlocks Ley Line Vision through the Cartographer's quest "The Map That Hears":
+1. The Cartographer gives the player a stone-compass — a raw crystal that vibrates when near a ley line
+2. The player travels to three ley line nodes (Stonehenge, the Pyramids, Uluru) and holds the compass at each
+3. At each node, the compass reveals a section of the ley line network on the world map
+4. After three nodes, the full network is revealed
+5. **Reward:** Ley Line Vision (permanent world map upgrade) + the Cartographer's Map (shows ley line energy flow in real-time)
+
+With Ley Line Vision, the world map gains a 5th toggleable layer:
+- **Ley Line Layer** — glowing threads connecting sacred sites. Nodes glow brighter where lines intersect. Stone pins pulse: charged stones glow gold, neutral stones glow silver. Lore pins at node sites show a small ley line icon. The Silk Road routes appear as major arteries. The ley lines emanate FROM the poles — tracing any line back to its origin reveals the Hollow Earth.
+
+### Stone Charging System
+
+Stones have a CHARGE level (0-100%):
+- **0% (Neutral):** Base frequency. Functional but weak.
+- **1-49% (Charging):** Frequency strengthening. Noticeable improvement in Bead Board compositions.
+- **50-99% (Resonant):** Clear, strong frequency. Significant boost in games and compositions.
+- **100% (Charged):** Full power. The stone hums audibly. Faint golden glow.
+
+Stones charge by traveling along ley lines. The player who walks a Silk Road route with stones in inventory charges them passively — the ley line energy flows through the stones. Stones found at ley line nodes (mining at sacred sites) are naturally charged (10-30%). Stones from non-node locations need to be charged by traveling.
+
+### The Silk Road Routes
+
+The Silk Road routes are the PAVED PATHS through the World Grid — the major ley line arteries carrying the most energy. The player can walk the routes (structured travel — faster, with waypoints and rest stops) or wander off-path (unstructured exploration — slower, but with hidden gathering nodes and secret locations).
+
+On the route: traders, waypoints, other travelers (NPCs). The route is SAFE — no hazards. The route follows the ley line, so stones charge while walking.
+
+Off the route: wild terrain, hidden veins, rare plants. Navigation by Ley Line Vision (the ley lines are the only visible landmarks in wild terrain). The rarest resources are off-path.
+
+## The World Grid: Open World Exploration
+
+The World Grid is the explorable open space surrounding the Inn — the terrain between cultural zones. Where the Silk Road caravan game is the structured expedition, the World Grid is UNSTRUCTURED exploration — the player walking, riding, or wandering through a living world with no objective except gathering.
+
+**Design Model:** Darnassus (World of Warcraft) — beautiful, explorable, ambient. Mostly open space. No combat in safe zones. No pressure. No timers. The 42Hz frequency plays softly, the ley lines glow in the distance, and the world is full of stones, plants, and water that the player can gather just by being present.
+
+**The Core Loop:**
+- OUT — travel the World Grid, gather resources along ley lines
+- IN — return to the Inn, use gathered resources in crafting (Bead Board, alchemy, cooking)
+- OUT — charge stones and crafted items by traveling ley lines again
+- IN — use charged items in games, quests, and compositions
+
+The Canopy City is the World Grid's hub. The player descends from the Canopy City to any of the 9 cultural regions through the Sky Dock platforms. The Inn-tree is always visible on the horizon — glowing softly with 42Hz. The player who is lost can always find their way back by walking toward the tree.
+
+**Three Gathering Professions:**
+1. **Mining** — stones by frequency-matching with a Tuning Pick (a crystal tuning fork that resonates with the stone's frequency for clean extraction). 3-5 seconds per stone. No failure — poor matches yield fragments, not nothing.
+2. **Herbalism** — plants by listening to their vibrational signatures. Each plant has a frequency; the player who can hear it can harvest it.
+3. **Water Collecting** — from springs, rivers, and ley line water sources. Ley line water carries charge — it's used in alchemy and crafting.
+
+**9 Cultural Regions + 1 Outer Ring:**
+The World Grid is divided into 9 cultural regions (matching the cultural zone platforms) + 1 outer ring (the National Parks / External Zones). Each region has its own biome, stones, plants, and water features. The Silk Road routes connect the regions. The outer ring contains the 12 primary ley line nodes — the strongest sacred sites on Earth.
 
 ## The Arcana — Ship Interior
 

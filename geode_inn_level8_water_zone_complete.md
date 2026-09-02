@@ -151,9 +151,11 @@ The Lighthouse operates at three simultaneous tempos, each associated with a cha
 
 The three tempos layer: the Pirate's 50 BPM heartbeat is the fastest, the Tidal Cycle is the medium, and the Owl's Eternity is the slowest. The Lighthouse keeper perceives all three simultaneously — the present (heartbeat), the cycle (tide), and the eternal (owl). The Bifocal Gaze mechanic: the Lighthouse telescope sees both the Water Zone (below) and the Cosmology (above). The Lighthouse is the only point in the Inn where you can see the deepest water AND the highest stars through the same lens.
 
+**The Trifocal Gaze (hidden):** The Lighthouse telescope has three lenses, not two — but the third was always hidden. The Deep Lens sees DOWN through the Source (Layer 7) into the Hollow Earth's underground ocean and crystal city. Persephone has known about the third lens the whole time and never told anyone. The Deep Lens is unlocked at Vigil Mastery + Deep Pearl, and requires Ley Line Vision (to see the ley lines connecting the Source to the Hollow Earth) + at least one charged water stone (to tune the lens). Through the Deep Lens, the player sees: the underground ocean stretching vast and dark, the crystal city's golden glow deep below, the Deep Ones' bioluminescent shapes moving in the deep, and Byrd's path — a faint resonant trail leading to the North Pole entry to the Hollow Earth.
+
 ### The Bifocal Gaze
 
-The Lighthouse's telescope has two settings:
+The Lighthouse's telescope has three settings (the third is hidden until the Trifocal Gaze is unlocked):
 - **Downward:** sees through all 7 layers of the Water Zone. The light beam penetrates each layer, and the returning light tells the keeper the state of each layer (calm, turbulent, dangerous, dormant). The Bifocal Gaze is the Vigil's primary tool.
 - **Upward:** sees into the Cosmology level. The stars are visible — the same stars the Allfather watches. The Lighthouse and the Observatory are connected by the Bifocal Gaze: two watchers, one looking down, one looking up, seeing each other through the same sky.
 
@@ -297,6 +299,49 @@ At the Source, Persephone listens. The Source's 42Hz hum — the water's own fre
 
 **Phase 3: The Return**
 The player and Persephone return to the Lighthouse. The ascent is the descent in reverse — each layer passed through, each state noted for the Vigil. The return is the quest's emotional core: the descent is the work; the return is the reason. Persephone descends to listen; Persephone returns to watch. The cycle is the purpose.
+
+### Persephone's Secret: The Eighth Layer
+
+Persephone has been keeping the Vigil for years — monitoring the 7 layers, reading the Bifocal Gaze, maintaining the Water Zone's harmony. But Persephone has always known there's something below Layer 7. The Source isn't just the water's origin — it's a CEILING. The Source is the top of the underground ocean. Below the Source: the Hollow Earth's interior sea. Below the water: the crystal city.
+
+Persephone has seen it. Through the Source's clear water, when the tide is lowest and the water is stillest, Persephone has looked DOWN and seen: light. Not bioluminescence. Not the Water Zone's creatures. A steady, ancient, golden light — the Hollow Earth's crystal city, glowing from below.
+
+Persephone has never told anyone. Not the Pirate. Not the Owl. Not the player — not until the player has earned the Lighthouse Keeper's full trust.
+
+**Persephone's Hidden Dialogue (unlocked at Vigil Mastery + Deep Pearl):**
+
+> *"I have kept the Vigil for longer than I can count. The seven layers. The tides. The heartbeat. I have watched the water breathe. But there is an eighth layer. Below the Source. Below the water's origin. I have seen it only three times — when the tide was lowest and the water was still as glass. Below the Source, there is more water. And below that water, there is light. Not our light. Not the bioluminescence. Not the Lighthouse's beam. An older light. A light that was here before the Lighthouse. Before the Water Zone. Before the Inn.*
+>
+> *I did not tell you because I was not sure. I am sure now. You carry the Inn Song. The light below the Source responds to your stones. I have watched your stones glow when you descend to Layer 7. The light below responds. It has been waiting.*
+>
+> *The Bifocal Gaze has a third lens. I have never used it. The third lens was not for the water or the sky. The third lens was for what's beneath both. Take the Lighthouse's telescope. Turn it to the deepest setting. Look through the Source. Look down.*
+>
+> *I will keep the Vigil while you go."*
+
+With the Deep Lens, the Vigil game gains an 8th layer:
+
+| Layer | State | Response |
+|---|---|---|
+| 8. The Deep | Still / Glowing / Pulsing / Silent | LISTEN (the Deep requires attention, not action — same as the Source) |
+
+The 8th layer's state reflects the Hollow Earth's condition: Still (city dormant), Glowing (city responds to player's presence), Pulsing (city is active — player has played the Inn Song), Silent (city at peace — the Song is complete).
+
+### The Pirate's Hidden Depth
+
+The Pirate drums at 50 BPM. The Pirate's drum reaches the Hollow Earth through the water — every beat carried down through all 7 layers, through the Source, into the underground ocean. The Deep Ones hear it. They call it "the Above-Beat." They've been hearing it for millennia. They don't know what it is.
+
+**The Pirate's Hidden Dialogue (unlocked with the Pirate's Bodhran + the Deep Lens):**
+
+> *"I drum for the sky. Someone up there beats at the same rate — I told you that. The heartbeat is the meeting. But the drum goes down too. I can feel it in the water. Every beat I play, the water carries it. I don't know where it goes. I know it goes deep. I know something down there hears it. I know because when I stop drumming — when I rest — the water changes. The current slows. Something down there is listening to the rhythm. Something down there moves to my beat.*
+>
+> *I have never stopped drumming for long. I don't know what happens if I stop for too long. I don't want to know. The heartbeat is the meeting. The meeting goes both ways. Up and down. Sky and deep. Same heart."*
+
+**The Trifocal Gaze's three directions:**
+| Direction | What It Sees | Tempo | Character |
+|---|---|---|---|
+| UP | The Cosmology — stars, the 42Hz source above | The Owl (Eternity) | The Allfather's mirror |
+| ACROSS | The 7 water layers — the Water Zone's full depth | The Tidal Cycle (Persephone) | The Keeper's vigil |
+| DOWN | The underground ocean — the Hollow Earth's interior sea | The Heartbeat (The Pirate, 50 BPM) | The Pirate's drum, reaching the deep |
 
 **Phase 4: The Understanding**
 Persephone teaches the player the Vigil. The player takes a shift at the Lighthouse — monitoring the 7 layers, reading the Bifocal Gaze, responding to changes. The Vigil is the quest's game template: the management of the Water Zone through observation and response.

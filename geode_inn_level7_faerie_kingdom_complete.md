@@ -99,6 +99,44 @@ The Between is the Faerie Kingdom's most dangerous space — not because of enem
 - **The Shifting Market** — a marketplace that appears and disappears. The Shifting Market is where Seelie and Unseelie traders meet on neutral ground — the only place where goods from both courts can be exchanged. The Fae Merchant runs the Shifting Market. The market's location changes every visit — the player must find it.
 - **The Lost Fae's Clearing** — a small space where the Lost Fae sits, undecided. The Lost Fae wandered from the Seelie to the Unseelie and doesn't know which court to return to. The clearing is the Between's emotional center — the place where the Fae Kingdom's duality becomes personal.
 
+
+### 4b. The Mycorrhizal Network (The Between's Hidden System)
+
+Beneath The Between, visible only in Form Sight, the Mycorrhizal Network pulses — a living web of fungal threads connecting every zone at the root level. The network is the Fae Kingdom's nervous system: information, resources, and frequencies travel through the mycelium the way nerve signals travel through a body.
+
+The Mycorrhizal Network is the Inn's DEEPEST trade system — deeper than the Artisan Market (surface trade), deeper than the Bead Composer (craft trade), deeper than the Caravan Master's routes (cultural trade). This is ROOT trade — the system that runs beneath everything, connecting zones at the root level.
+
+**The Hub:** The Between is the network's center. The mycelium is visible in Form Sight here — glowing white threads beneath the ground, pulsing at 42Hz. When the player enters The Between with Form Sight active, the network resolves like a constellation map underground: nodes and threads spreading outward toward every earth-connected zone.
+
+**How It Works:**
+- The player places an item on any mycelium node (a glowing white point on the ground, visible in Form Sight)
+- The item is absorbed into the network and appears at a DIFFERENT node — one the player has visited before
+- Items travel at the speed of GROWTH (a few real hours, not instant). The network doesn't rush. The network is a tree, and trees don't rush.
+
+**What Can Be Sent:**
+- **Stones** — arrive at destination with a slight frequency shift (the mycelium adds its own 42Hz hum, creating a harmonic). Stones sent through the network are unique — no surface trade or gathering produces this harmonic.
+- **Messages** — short text messages appear on leaves at the destination node. NPCs can read and respond.
+- **Frequencies** — played on an instrument, the frequency travels the threads and plays at the destination. A musical message. A root-level serenade.
+
+**NPC Sending:** NPCs use the network too. The player who has a mycelium node near their favorite nook will occasionally find items left there — a stone from an unvisited zone, a note from an NPC who remembered the player's favorite frequency, a charm from the Fae.
+
+**Network Connections:**
+| Zone | Node Location | Connection Character |
+|------|--------------|---------------------|
+| The Between (Hub) | Center of the borderlands | The network's heart — all threads radiate from here |
+| The Catacombs | Underground river bank | Water harmonic — items carry the river's frequency |
+| The Norse Zone | Frozen lake's center | Ice harmonic — 42Hz carries through frozen water, clear and crystalline |
+| The Mediterranean | Olive Grove's oldest tree | Root harmonic — the tree's roots ARE the network here |
+| The Redwood Cathedral | Cathedral floor | The Queen of Roots' personal node — items sent here reach her directly |
+| The Bayou | Cypress roots | Wetland harmonic — items carry bay water's mineral signature |
+| The Poison Garden | Beneath the poisonous plants | Toxicity tag — items sent through this node arrive altered (not damaged, changed) |
+
+**Form Sight Integration:**
+The Mycorrhizal Network adds a layer to Form Sight (the Inn's ability to see hidden frequencies). When Form Sight is active, the player sees:
+- Mycelium threads as glowing white lines beneath the ground
+- Nodes as brighter glowing points where threads converge
+- Item flow as small motes of light traveling along the threads (in real time — the player can watch their sent items traveling)
+
 ### 5. The Crystal Gardens
 Neutral ground. Beautiful, dangerous. The only place in the Faerie Kingdom where neither court has advantage. The Crystal Gardens are the Faerie Kingdom's connection to the divine — the place where the Fae's nature magic meets the Vanir's original power.
 

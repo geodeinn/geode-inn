@@ -41,6 +41,7 @@ The World Map is accessed from the Main Floor — a large table in the entrance 
 2. **Lore Layer** — shows all 191 lore pins. Each pin is a mythological symbol (a raven for Norse regions, a serpent for Mesoamerican, etc.). Clicking a pin shows the region's mythology (gods, creatures, stories).
 3. **Park Layer** — shows all national park expedition zones. Each park pin is illustrated with the park's defining feature (a geyser for Yellowstone, a canyon for the Grand Canyon). Clicking a park pin opens the expedition interface.
 4. **Portal Layer** — shows the four stone circle portals. Active portals glow; inactive portals are dim. The portal layer connects to the Fae Kingdom.
+5. **Ley Line Layer** (unlocked through "The Map That Hears" quest from the Cartographer in the Canopy City) — glowing threads connecting sacred sites across the globe. Ley line nodes glow brighter where lines intersect. Stone pins on ley lines pulse: charged stones glow gold, neutral stones glow silver. Lore pins at node sites show a small ley line icon. The Silk Road routes appear as major arteries — the paths carrying the most energy. The ley lines emanate FROM the poles — tracing any line back to its origin reveals the Hollow Earth. This layer reveals the earth's nervous system: the 42Hz frequency network connecting every sacred site the Inn's mythology is built on.
 
 ### The Map as a Game System
 
@@ -118,6 +119,35 @@ Each geological type is a CATEGORY in the Sonic Mineral Codex — stones from th
 ## The National Parks
 
 ### US National Parks
+
+## The 12 Primary Ley Line Nodes
+
+The 12 primary ley line nodes are the strongest sacred sites on Earth — the points where the most ley lines intersect. Each node is a point of concentrated 42Hz energy. Stones found at these nodes are NATURALLY CHARGED — their frequency amplified by centuries of ley line resonance. The nodes are mapped to the National Park system:
+
+| # | Node | Park | Type | Charged Stones | Effect |
+|---|------|------|------|----------------|--------|
+| 1 | Yellowstone | Yellowstone NP (US) | Geothermal — the Earth's breath | Obsidian, Yellowstone Geode | Stones mined here arrive at 25-30% charge. Geothermal frequency adds a fire harmonic. |
+| 2 | Grand Canyon | Grand Canyon NP (US) | Sedimentary — the Earth's memory layers | Agate, jasper, turquoise | Sedimentary frequency adds a time harmonic — stones age faster (mature in hours instead of days). |
+| 3 | Yosemite | Yosemite NP (US) | Granite — the Earth's bone | Quartz, garnet, tourmaline | Granite frequency adds a structural harmonic — stones are harder to crack in combat. |
+| 4 | Great Smoky Mountains | Great Smoky Mountains NP (US) | Forest — the mycorrhizal network's surface expression | Moonstone, smoky quartz | Forest frequency adds a root harmonic — stones sent through the Mycorrhizal Network arrive with an extra charge. |
+| 5 | Badlands | Badlands NP (US) | Erosion — the Earth's exposed frequency | Fairburn agate, rose quartz | Erosion frequency adds an exposure harmonic — stones glow brighter in dark spaces. |
+| 6 | Acadia | Acadia NP (US) | Coastal — where ley lines meet the Atlantic | Tourmaline, beryl, quartz | Coastal frequency adds a water harmonic — stones resonate with the Water Zone. |
+| 7 | Hawaii Volcanoes | Hawaii Volcanoes NP (US) | Volcanic — the Earth's forge | Peridot, olivine, volcanic glass | Volcanic frequency adds a fire harmonic — peridot mined here are the strongest in the Inn (Queen of Roots' collection stones). |
+| 8 | Petrified Forest | Petrified Forest NP (US) | Silicified — the stone that was wood | Petrified wood, agate, chalcedony | Silicified frequency adds a transformation harmonic — stones carry the memory of being something else. |
+| 9 | Giant's Causeway | Giant's Causeway (Ireland) | Basalt — the Earth's geometry | Basalt columns, Irish marble | Basalt frequency adds a geometric harmonic — stones align to grid patterns more easily. |
+| 10 | Serengeti | Serengeti (Tanzania) | Savanna — the Earth's drum | Tiger's eye, citrine, tanzanite | Savanna frequency adds a rhythm harmonic — stones pulse at the 50 BPM heartbeat more clearly. |
+| 11 | Socotra | Socotra (Yemen) | Dragon Blood — the Earth's strangest forest | Dragon's blood resin, incense | Dragon's blood frequency adds a rarity harmonic — stones mined here are more likely to attract companions. |
+| 12 | Uluru | Uluru (Australia) | The deepest node — the Earth's navel | Opal, moonstone, zircon | Uluru's frequency is the STRONGEST — stones mined here arrive at 40-50% charge. The deepest ley line point on the surface. The Cartographer's final node for "The Map That Hears." |
+
+### Secondary Nodes
+
+Every country in the 191-country lore database that has a stone circle, pyramid, temple, or sacred site is a secondary ley line node. These are visible on the world map (Ley Line Layer) but carry less energy than the 12 primary nodes. Stones from these locations are naturally charged at 5-15%.
+
+Notable secondary nodes: Stonehenge (Preseli bluestone), Machu Picchu (Andean opal), Angkor Wat (zircon), the Nazca Lines (Nazca desert agate), the Pyramids of Giza (lapis lazuli — the strongest secondary node in Egypt).
+
+### Tertiary Nodes
+
+Every stone in the 198-stone database has an origin point. Stones from ley line nodes (primary or secondary) are NATURALLY CHARGED. Stones from non-node locations are NEUTRAL — they need to be charged by traveling along ley lines.
 
 #### 1. Yellowstone National Park (Wyoming/Montana/Idaho)
 **Geological Type:** Volcanic + Hydrothermal
