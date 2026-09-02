@@ -237,6 +237,26 @@ The sound is the 42Hz Song — but not the hum. The SONG. A melody. Four notes: 
 
 ---
 
+## The Blue Box (The In-Between Joke)
+
+Somewhere on the Staircase — not at the top, not at the bottom, but at a landing between floors where the light shifts and the alchemical texts pause — there is a blue box.
+
+It is a police box. London, 1963. Dark blue with white windows. The lamp on top blinks. Slowly. Once every 1.2 seconds — which, coincidentally, is exactly 50 BPM (the Inn's heartbeat). The blink is warm. The blue is deeper than it should be. The wood grain is real.
+
+The box does not open. There is no quest. There is no dialogue. No NPC mentions it. No gargoyle watches it. It is simply THERE — in an alcove off the Staircase, between the third and fourth landing, where the alchemical texts transition from elemental to celestial.
+
+The Crone once lowered a measuring tape through the keyhole. The tape read "bigger." The Crone removed the tape, rolled it up, and never spoke of it again.
+
+The baby dragon chirps at it when carried past. The chibi ravens circled it once, searching for something to steal, and left empty-handed. The Clockmaker has never acknowledged its existence — which, for someone who maintains everything on the Staircase, is the loudest statement possible.
+
+The box blinks at 50 BPM. The Staircase hums at 50 BPM. The Inn breathes at 50 BPM. The box breathes with the building. It is not part of the Inn. It is not separate from the Inn. It is in-between — which is exactly where it should be, on the Staircase that was always the place between rooms.
+
+Some players will walk past it. Some players will stare at it for ten minutes, certain it means something. Both responses are correct. The box is the Inn's inside joke with itself — a building that is bigger on the inside than it appears from the outside, acknowledging the original.
+
+**Visual:** The blue box uses the no-outline cosmological style — no linework, no cel-shading. It is rendered as a PRESENCE, not a drawing. The blue glows faintly from within — the same faint internal glow as the crystal spires in the Hollow Earth. The box doesn't look like it was placed there. It looks like it arrived.
+
+**Implementation:** Static model. No interaction prompt. No tooltip. The lamp blinks at 50 BPM via CSS animation (the same animation class as the Inn's heartbeat visual). Collision: solid — the player walks around it. The alcove is slightly too small for it, so the box's left edge overlaps the wall by 3 pixels. This is not a bug. This is the joke. The box is bigger on the inside; the alcove is exactly the right size; the wall just doesn't know it yet.
+
 ## Interactive Items Summary
 
 | Item | Location | Function |
@@ -251,6 +271,7 @@ The sound is the 42Hz Song — but not the hum. The SONG. A melody. Four notes: 
 | The Seiðr Codex | Alchemical texts section | Freyja's original seiðr text; the source of acoustic alchemy |
 | The Gargoyle Manual | The Workshop (Clockmaker's reference) | Technical reference on the six gargoyles; annotated by the Clockmaker |
 | The Doodle Margin Notes | In the texts' margins | Anna's doodles; readable as text with the Questioner's awakening bonus |
+| The Blue Box | Alcove between 3rd and 4th landing | Easter egg. No interaction. Blinks at 50 BPM. The Inn's inside joke with itself. |
 
 ---
 
