@@ -339,3 +339,12 @@ The theme itself is simple: four notes. The Brísingamen chord, played as a melo
 | Connections to adjacent levels | ✅ Complete (staircase, Fae Kingdom, Clockwork Skies, Main Floor) |
 
 **LEVEL 1: COSMOLOGY — COMPLETE.**
+
+
+## Kubrick Composition
+The Constellation Floor is a Kubrick held frame: centered, looking down through the transparent floor at the Inn below — the tree laid out like a diagram, 20 seconds. The Inn seen as a shape for the first time. The dominant palette is deep blue-black and star-white. The anomaly: the Brisingamen's gold — warm, organic, alive in the cold. The chequerboard floor tracks real star positions for the zone's mythological associations. Orion's stars are where Orion's constellation is on the floor. Every detail is correct. You don't have to check. But you can.
+
+## Coppola Composition
+The Cosmology level is where the Inn reveals itself as a family's love letter to the world. The stones are the mother's knowledge. The archive is the father's curiosity. The games are the child's play. The Staircase is the space between them. The Constellation Floor shows the Inn from above — the whole building, one shape — and the Coppola moment is the realization: this isn't a building, it's a family expressed as architecture.
+
+Coppola light: the canopy's clarity (knowledge, openness) vs. the void between stars (the unknown, what even the Inn doesn't know). The border: the shadow of the tree itself, falling across the player's face when they look down. The moment knowledge casts a shadow — that's the Coppola move.

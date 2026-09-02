@@ -589,3 +589,14 @@ Each water monster adds its signature lead instrument over this bass-heavy chord
 
 
 **Del Toro Protocol active.** The Water Zone is SATURATED — every surface has a sheen, every texture has depth from water interaction. The deeper you go, the wetter the stone gets, until the walls in The Trench are running with condensation. The Lighthouse is the zone's del Toro anomaly: a perfectly dry circle on the stone floor where the Pirate stands. The water doesn't touch the Pirate. The moisture goes around.
+
+
+## Kubrick Composition
+The Lighthouse interior looking out through the beam is a Kubrick held frame — the full Water Zone visible through one window, 15 seconds, the beam sweeping, the frame holding. The zone's dominant palette is deep blue and bioluminescent teal. The anomaly: the dry circle around the Pirate — not a color but the ABSENCE of water-sheen. 90% blue, 8% teal, 2% dry.
+
+## Coppola Composition
+The Descent through the Water Zone is a Coppola long scene — from the Lighthouse entry to The Source, no cuts, no loading screens, no chapter breaks. The player descends through all 7 layers in one continuous experience, 15-25 minutes. The light fades. The pressure builds. The texture saturates. The composition frames each layer. This is the Inn's Apocalypse Now.
+
+The Source holds a single smooth stone at the center, worn by nothing. Something held it. Something loved it. The Song began because someone sang to something they cared about. The epic becomes personal. The Source is not a crystal cathedral — the Source is a stone in a hand.
+
+Coppola light: bioluminescence (life generating its own light) vs. total depth darkness. The moral border: the Lighthouse's Reach — the last circle of external light. Beyond it, the player must generate their own. What do you rely on when the lighthouse can't reach you?

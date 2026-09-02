@@ -81,6 +81,11 @@ The Natural Archive includes:
 - **The Fossil Shelves** — fossils from pre-industrial civilizations. Ammonites, trilobites, ancient plants. The deep time of the earth.
 - **The Mole's Tunnels** — small tunnels in the archive's walls, made by Charles's companion Mole. The Mole navigates the deepest parts of the archive — the sections too small for humans, too deep for the Stacks. The player can follow the Mole's tunnels to find hidden sections.
 
+### Kubrick Composition
+The Catacombs main aisle through The Stacks is a one-point perspective — shelves stretching into deep focus, reading candles as points of light receding into dark. The aisle from The Deep looking up is a Kubrick held frame: 20 seconds, the corridor of shelves rising into distant light. The archive as a throat.
+
+The candles are too evenly lit. They seem to coordinate. They dont but the arrangement is so orderly that the mind insists on pattern. The uncanny: the archive is organized by a system the Crone follows but never explains. The system is perfect. Perfect systems predate the Crone. What was here before the system?
+
 ### 6. The Deep
 The archive's deepest point. Where the Catacombs meet the Fae Kingdom. The Deep is:
 - Physically the lowest point in the Inn (below the Fae Kingdom's Stone Circle Chamber)
@@ -403,3 +408,11 @@ The Crone, who has measured everything, has never measured the mycelium. The thr
 | Connections to adjacent levels | ✅ Complete — Staircase, Main Floor, Fae Kingdom, Campgrounds, Cosmology, Clockwork Skies |
 
 **LEVEL 6: CATACOMBS — COMPLETE.**
+
+
+## Coppola Composition
+The Royal Excavation is a Coppola long scene — entering the hidden archive behind the catacombs, descending, 20-30 minutes, no cuts. The stone gets older. The air gets thicker. The artifacts get stranger. Warehouse 13 humor arrives and departs in waves. Naut is above, not following but aware. The player reaches the deepest artifact — the one that changes what they thought the Inn was — and the scene holds.
+
+Coppola light: candlelight (fragile, human knowledge) vs. the deep dark (what's lost, what predates memory). The border: The Deep, where the last candle flickers and the 84Hz shadow begins.
+
+Naut is the Coppola character — the reluctant steward, the Michael Corleone. Naut didn't want to be the keeper of The Royal. Naut IS the keeper. The gap between what Naut wants and what Naut does is the tragedy. But the Inn is kinder than Coppola's films — Naut finds peace. The Inn lets its Michael Corleone heal.

@@ -116,6 +116,7 @@ The emotional core: loneliness that transforms into connection. The city is empt
 **Entry zone. Safe. No combat.**
 - The player arrives from the North Pole entry. A vast crystal cavern opening into the city's northern gate.
 - The first sight: the city skyline — crystal spires glowing from within, stretching into the violet-dark of the Hollow Earth's interior.
+  - **Kubrick Composition:** The central plaza is a one-point perspective — spires in full symmetry, the underground ocean behind, the Resonance Engine at the far end. 20-second held frame. The city as a cathedral of geometry. The symmetry is perfect. The perfection is unsettling. The player feels watched. Nothing is watching. That's worse. The dominant palette is violet and crystal-white. The anomaly: the Dark Side chamber, where the prism splits white into full spectrum — the only place in the Hollow Earth where color breaks the palette.
   - **The Spielberg Moment:** The crystal's 42Hz hum is the source music — it has been growing louder since the player entered the polar tunnel. At first sight of the skyline, the hum is joined by a single violin — the Inn Song, beginning. Four seconds solo. The full Inn arrangement joins, one instrument at a time, over 15 seconds. Camera goes wide — the city holds for 10 seconds. Then drop-out: everything stops. The 42Hz crystal hum alone. The city is real. The hum is real. The music is what the player brings to it. Three seconds. The violin returns — alone — changed. The silence between drop and return has recontextualized the Song. The player is no longer hearing the Inn's music. The player is hearing their own.
 - No enemies. No NPCs. Just the city, silent and patient.
 - The 42Hz frequency is strong here — the player's stones visibly glow.
@@ -406,3 +407,11 @@ Each district has its own sonic identity:
 | Connections to adjacent systems | ✅ Complete — Silk Road, Water Zone, Cosmology, Gargoyles, Fae Kingdom, Narrative Spine, Bead Board, World Map |
 
 **THE HOLLOW EARTH RPG — COMPLETE.**
+
+
+## Coppola Composition
+The Hollow Earth is a Coppola space — the vast crystal civilization rendered through intimate detail. The player enters the city for the first time and the Coppola move is not the skyline but a Lost child's toy in the plaza: carved stone, one eye missing, left by someone who lived here millennia ago and loved a child enough to make it. The epic becomes personal.
+
+Coppola light: the crystal's glow (inner light, the light from within the material) vs. the Dark Reaches (what happens when inner light goes out). The border: the Dark Side chamber, where light and shadow are the same thing — the spectrum is both. The separation was the illusion.
+
+Sound has physical weight: the crystal's 42Hz hum creates standing waves. Standing still in the right spot, the waves constructively interfere and the player's chest resonates. Moving one step sideways, the resonance vanishes. The sound has geography.

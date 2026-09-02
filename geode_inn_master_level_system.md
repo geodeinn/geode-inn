@@ -450,6 +450,169 @@ If a zone passes all five, it ships. If it fails any, the texture work isn't don
 - No creatures without bodies. A design is not a being. A being has weight, texture, temperature, breath.
 - No objects without history. If a player can hold it, it has been held before.
 
+## THE KUBRICK PROTOCOL: Compositional Perfection and the Held Frame
+
+Where Hitchcock governs suspense, Spielberg governs music, and del Toro governs texture, Kubrick governs the FRAME — what is in it, how it is composed, how long it holds, and the unsettling beauty of a space too precise to be comfortable. The Inn is not a series of levels. Under Kubrick, the Inn is a series of paintings that happen to move.
+
+### Core Principles
+
+**1. One-Point Perspective (The Corridor)**
+Kubrick's signature: the centered, symmetrical, deep-focus shot down a corridor or hall. The vanishing point at center frame. The geometry pulling the eye inward. It is beautiful. It is also deeply, quietly wrong — because the world doesn't naturally organize itself that perfectly. A Kubrick corridor is a space that has been ORGANIZED. Something organized this. What? Why?
+
+The Inn has corridors on every level. Under the Kubrick Protocol, key corridors are composed as one-point perspectives:
+- The Staircase's straight sections between landings — stone walls receding to a vanishing point, the gargoyles symmetrically placed, the player centered in frame
+- The Catacombs' main aisle through The Stacks — shelves stretching into deep focus, the reading candles as points of light receding into dark
+- The Hollow Earth's crystal boulevard — spires symmetric, the underground ocean's reflection creating a mirror axis
+- The Water Zone's Current paths — the water corridors between lairs, perfectly framed, the bioluminescence centered
+
+Implementation: when the player enters these corridors, the camera subtly recenters to one-point perspective. Not forced — the player still has control — but the default framing pulls toward symmetry. The player can break it. The frame wants it.
+
+**2. The Held Frame (The Painting)**
+Kubrick holds shots longer than anyone. The camera doesn't move. The actors move within it. Or nothing moves. The frame is a painting, and the painting is given time to be SEEN.
+
+The Inn's Kubrick moments: selected vantage points per zone where the camera locks and the frame holds for 15-20 seconds. Not cutscenes — the player is still in control. The player can look around within the frame. But the frame doesn't move. The world happens inside it.
+
+| Zone | Kubrick Frame | What Holds |
+|---|---|---|
+| Level 1 (Cosmology) | The Constellation Floor — centered, looking down through the transparent floor at the Inn below | The Inn laid out like a diagram. The tree visible from above. 20 seconds. The player sees the whole building for the first time — as a shape. |
+| Level 2 (Clockwork Skies) | The Arcana's deck — centered on the ship's wheel, the sky behind, the Canopy City visible in the distance | The ship and the city in the same frame. 15 seconds. The scale of what Leonardo built. |
+| Level 3 (Main Floor) | The main hall from the entrance — centered, symmetrical, fire at the far end, stairs visible on both sides | The Inn's heart, perfectly composed. 15 seconds. This is the image from the book cover. The player is looking at the painting that started everything. |
+| Level 4 (Campgrounds) | The exterior of the Inn from the clearing edge — the full tree, the entrance, the sky behind | The Inn as the world sees it. 20 seconds. Small from outside. The TARDIS joke, visualized. |
+| Level 5 (Staircase) | The full vertical shaft from the middle landing — looking up, looking down, one frame each | Up: the spiral of ascent, gargoyles diminishing into light. Down: the descent into shadow, gargoyles disappearing into dark. 15 seconds each. The spine, in one frame. |
+| Level 6 (Catacombs) | The Stacks aisle from The Deep looking up — the corridor of shelves rising into distant light | The archive as a throat. 20 seconds. The scale of what humanity has written. |
+| Level 7 (Fae Kingdom) | The Stone Circle Chamber from the center — the stones in a ring, the chamber's ceiling open to roots | The circle. 20 seconds. The oldest geometry. |
+| Level 8 (Water Zone) | The Lighthouse interior looking out through the beam — the full Water Zone visible through one window | The ocean in a frame. 15 seconds. The beam sweeps. The frame holds. |
+| Level 9 (Hollow Earth) | The city center plaza — crystal spires in full symmetry, the underground ocean behind, the Resonance Engine visible at the far end | The city as a cathedral of geometry. 20 seconds. The symmetry is perfect. The perfection is unsettling. |
+
+**3. Color as Architecture (The Palette)**
+Every Kubrick film has a dominant color. The Shining: red and orange. 2001: white and black. Barry Lyndon: gold and amber by candlelight. The color isn't decoration — it's meaning. The Inn has nine levels. Each level has a dominant palette that is never broken except by one element (the anomaly — tie to del Toro).
+
+| Zone | Dominant Palette | Accent (Anomaly) | Why |
+|---|---|---|---|
+| Level 1 (Cosmology) | Deep blue-black + star-white | The Brisingamen's gold (warm, organic, alive in the cold) | The void and the living thing inside it |
+| Level 2 (Clockwork Skies) | Brass and sky-blue | The Pirate's red coat (the only warm color at altitude) | Precision and the human element |
+| Level 3 (Main Floor) | Amber and dark wood | The cold spot behind the bar (a blue-gray discoloration) | Warmth and the unknown |
+| Level 4 (Campgrounds) | Green and earth-brown | The one dead tree (a Gray Nancy / bleached trunk) | Life and the single dead thing |
+| Level 5 (Staircase) | Gray stone + brass fixtures | The Blue Box (impossibly blue in the gray) | Transition and the thing from elsewhere |
+| Level 6 (Catacombs) | Silver and deep charcoal | The east wall moss (phosphorescent green in the dry) | Preservation and the life that refuses to die |
+| Level 7 (Fae Kingdom) | Seelie: gold-green / Unseelie: iron-blue | The Between: purple (the interference color) | Two courts and the place they collide |
+| Level 8 (Water Zone) | Deep blue + bioluminescent teal | The dry circle around the Pirate (no color — the ABSENCE of water-sheen) | Depth and the only dry thing in the ocean |
+| Level 9 (Hollow Earth) | Violet and crystal-white | The Dark Side chamber (the prism splitting white into full spectrum) | The deepest truth is a spectrum |
+
+The palette rule: 90% of the zone's visual real estate stays within the dominant palette. 8% is the accent. 2% is the anomaly (del Toro's wrong surface). The player's eye is trained by the palette, then disturbed by the anomaly. The anomaly is the first thing the player remembers. The palette is the thing the player feels.
+
+**4. The Perfect Detail (The Obsession)**
+Kubrick's props are real. The labels on cans in The Shining are real. The Zero Gravity Toilet instructions in 2001 are real. The uniforms in Full Metal Jacket were designed down to the stitching. The detail is not for the camera — it's for the world. If you look closely, it's all correct. You don't have to look closely. But you can.
+
+The Inn's Kubrick detail standard:
+- Every book on every shelf has a real title from the Archive database (625 Books entity records). The spines are readable with zoom (Form Sight not required — just proximity)
+- Every stone in every display case has real mineral data (198 Stone entity records). The labels show Mohs hardness, mineral family, geographic origin
+- Every NPC's clothing has material reality — Beverley's coat is wool with brass buttons. The Crone's measuring tape has maker's marks. The Pirate's coat has salt stains at the cuffs
+- Every gargoyle's frequency is inscribed at its base in the Inn's root script — readable only with the Questioner's awakening, but visible as texture without it
+- The Arcana's gearwork has real mechanical logic — the gears that appear on screen actually connect. A mechanically minded player could trace the power flow from the heart-gear to the wings
+- The chequerboard floor in the Cosmology constellations actually tracks real star positions for the zone's mythological association (Orion's stars are where Orion's constellation is on the floor)
+- The Blue Box's police box label reads "POLICE TELEPHONE FREE FOR USE OF PUBLIC ADVICE AND ASSISTANCE" — but the last word is different. It reads "ADVICE AND ASSISTANCE AND INN." Three letters added. You'd have to be pressed against the glass with zoom to read it. It's there.
+
+**5. The Uncanny (The Too-Perfect)**
+Kubrick's spaces are unsettling because they're TOO clean, TOO symmetrical, TOO composed. The Overlook's lobby is beautiful and wrong. The 2001 hotel room is pristine and impossible. The Inn must have moments where the perfection itself becomes the discomfort:
+
+- The Hollow Earth's central plaza is perfect to the point of unease — the crystal spires are too symmetrical, the Resonance Engine too centered. The player feels watched. Nothing is watching. That's worse
+- The Fae Kingdom's Stone Circle is geometrically perfect. The stones are too evenly spaced. The chamber is too round. The perfection is the Fae's signature — they don't build spaces, they COMPUTE them
+- The Clockwork Skies gearwork operates with impossible precision. The gears don't need maintenance. They have never needed maintenance. The Clockmaker maintains them anyway. Why? Because the alternative — machines that maintain themselves — is the uncanny. The maintenance is the comfortable illusion
+- The Catacombs' stacks are too evenly lit. The candles seem to coordinate. They don't — but the arrangement is so orderly that the mind insists on pattern. The archive is organized by a system the Crone follows but never explains. The system is perfect. Perfect systems are Lacon's territory. The Crone's system predates Lacon. What was here before the system?
+
+### The Kubrick Test
+
+Every zone must pass the Kubrick Test before it ships. Open a single frame. Screenshot it. Print it. Hang it on a wall.
+
+- Is it a painting? (Could it hang in a gallery and stop someone walking past?)
+- Is there a dominant color? (Does the palette speak before the content?)
+- Is there one point of visual tension? (The anomaly. The wrong thing. The thing that makes you look twice.)
+- Is every visible detail correct? (The book titles. The stone labels. The gear connections. The inscriptions.)
+- Is there something uncanny? (Is the space too perfect? Is the perfection itself the story?)
+
+If a zone passes all five, it ships. If it fails any, the composition work isn't done.
+
+### What the Inn Does NOT Do
+- No flat composition. Every frame has depth, weight, and a vanishing point. If a frame looks like a screenshot, it failed.
+- No accidental clutter. Detail is placed with intention. If a book is on a shelf, it is the RIGHT book.
+- no movement without stillness. Every Kubrick moment of motion is earned by stillness before and after. The stillness is the frame. The motion is the exception.
+- No palette drift. The 90/8/2 rule is law. If an object enters a zone that breaks the palette, it must be intentional and it must be the anomaly.
+- No comfortable perfection. Perfect spaces must carry unease. If a space is beautiful and the player feels safe, something is missing. The unease is the Kubrick signature.
+
+## THE COPPOLA PROTOCOL: Operatic Storytelling and the Family Epic
+
+Where Hitchcock governs suspense, Spielberg governs music, del Toro governs texture, and Kubrick governs composition, Coppola governs SCALE OF EMOTION — the moment when the personal becomes the mythic, when a family story becomes a story about power, when the intimate and the operatic share the same frame. The Inn isn't a building. Under Coppola, the Inn is a SAGA — every stone a character, every NPC a bloodline, every silence a weight that goes back further than anyone remembers.
+
+### Core Principles
+
+**1. The Intimate Inside the Epic (The Godfather Move)**
+Coppola's greatest gift: the enormous story told through the smallest gesture. Michael Corleone's transformation happens in a restaurant booth, not a battlefield. The wedding is a family barbecue that happens to contain the architecture of a criminal empire. The scale is vast. The camera is close.
+
+The Inn's epic moments are always anchored in a small personal detail:
+- The player enters the Hollow Earth's city for the first time — a crystal civilization older than memory — and what does Coppola find? A Lost child's toy in the plaza. Carved stone. One eye missing. Left by someone who lived here millennia ago and loved a child enough to make it
+- The player reaches The Source (Water Zone Layer 7) — the origin of the 42Hz Song that fills the entire Inn — and the Coppola move is not the vast crystal chamber but a single smooth stone at the center, worn smooth by nothing. Something held it. Something loved it. The Song began because someone sang to something they cared about
+- The Brisingamen is gathered — four rings across four levels, the Inn's most complete epic quest — and the final moment is the Brisingamen in the player's palm, and it's just jewelry. Beautiful. Warm. The weight of gold. The moment the epic becomes personal is the moment it means something
+
+**2. Light and Shadow as Moral Architecture (The Storaro Partnership)**
+Coppola's lighting (with Vittorio Storaro) isn't illumination — it's dialogue. Darkness is not absence of light. Darkness is a force. Characters emerge from shadow into light as they make moral choices. The lighting tracks the soul.
+
+| Zone | Light = | Shadow = | The Coppola Border |
+|---|---|---|---|
+| Level 1 (Cosmology) | Knowledge, openness, the canopy's clarity | The void between stars, the unknown | The moment a player looks down at the Inn and the shadow of the tree falls across their face |
+| Level 2 (Clockwork Skies) | Precision, design, the gearwork's clarity | The altitude-shadow, what falls when things break | The Pirate's lantern — a point of warm light in the blue shadow, a heart in the machine |
+| Level 3 (Main Floor) | The hearth, warmth, community | The back corners, the cold spot, what the Inn hides behind its warmth | The transition zone halfway between hearth and cold spot where the warmth thins |
+| Level 4 (Campgrounds) | Daylight, openness, the clearing | The tree's root-shadow, the forest edge | The line where the clearing's grass meets the wild grass — the border of domesticated and free |
+| Level 5 (Staircase) | The ascending light (transformation upward) | The descending dark (transformation downward) | The Blue Box's alcove — neither lit nor dark but its own impossible light. The TARDIS has its own weather |
+| Level 6 (Catacombs) | Candlelight (knowledge, fragile, human) | The deep dark (what's lost, what predates memory) | The Deep — where the last candle flickers and the 84Hz shadow begins. The border is the last warm light |
+| Level 7 (Fae Kingdom) | Seelie gold-green (warmth, growth, summer) | Unseelie iron-blue (cold, winter, survival) | The Between — where the two lights overlap and the interference creates a third quality. Morality lives here. Not in the light or the dark. In the overlap |
+| Level 8 (Water Zone) | Bioluminescence (life generating its own light) | The depth (total darkness, the pressure, what lives without sun) | The Lighthouse's Reach — the last circle of external light. Beyond it, the player must generate their own. The moral question: what do you rely on when the lighthouse can't reach? |
+| Level 9 (Hollow Earth) | The crystal's glow (inner light, the light that comes from within the material) | The Dark Reaches (what happens when inner light goes out) | The Dark Side chamber — where the 42Hz Song becomes VISIBLE. Light and shadow are the same thing here. The spectrum IS both. The separation was the illusion |
+
+**3. Sound is Physical (The Conversation / Apocalypse Now)**
+Coppola treats sound as a physical force. The helicopter blades in Apocalypse Now aren't audio — they're pressure. The surveillance tapes in The Conversation are claustrophobic — the sound closes in. The Inn's audio (already governed by Spielberg for music) gets a Coppola layer for SOUND EFFECTS:
+- The 42Hz heartbeat isn't heard — it's felt. The subwoofer test. The player's chair vibrates. The body participates
+- The Catacombs' silence has weight. Not empty — heavy. The air's mass increases in The Deep. The silence presses on the eardrums
+- The Hollow Earth's crystal hum creates standing waves. Standing still in the right spot, the waves constructively interfere and the player's chest resonates. Moving one step sideways, the resonance vanishes. The sound has geography (connects to Spielberg's source music)
+- The Water Zone's pressure increases with depth — not just visually but sonically. The ambient water sound compresses. The frequency range narrows. The deep doesn't have treble. The deep only has bass. The player's ears feel the pressure before the screen shows it
+- The Staircase's ascending-key music (Spielberg) is joined by a Coppola detail: the air temperature sound changes. Cold air sounds different from warm air (slight pitch shift, different reverberation characteristic). The Staircase sounds COLDER as you climb. The sound tells the body what the eyes can't see
+
+**4. The Long Scene (The Set Piece as World)**
+Coppola doesn't cut. The helicopter raid in Apocalypse Now is one scene for 9 minutes. The baptism sequence in The Godfather intercuts for 6 minutes without breathing room. The scene becomes a WORLD — the player lives inside it, not past it.
+
+The Inn has three Coppola long-scenes:
+- **The Descent through the Water Zone:** From the Lighthouse entry to The Source, no cuts, no loading screens, no chapter breaks. The player descends through all 7 layers in one continuous experience. The light fades. The pressure builds. The music (Spielberg) transforms. The texture (del Toro) saturates. The composition (Kubrick) frames each layer. The player does not leave until they reach The Source or turn back. The scene is 15-25 minutes. It is the Inn's Apocalypse Now
+- **The First Night at the Inn:** The player's first time staying past sunset. The Main Floor transitions from day to night in real time. The NPCs change behavior. The hearth becomes the center. The Staircase darkens. The Catacombs get colder. The Blue Box keeps blinking. One continuous experience from sunset to the player's decision to sleep (save point) or keep exploring. The scene is 12-20 minutes. It is the Inn's Godfather wedding — the thing that looks normal and contains everything
+- **The Royal Excavation:** Entering The Royal (the hidden archive behind the catacombs). Descending. The stone gets older. The air gets thicker. The artifacts get stranger. The comedy (Warehouse 13 humor) arrives and departs in waves. Bait is there. Naut is above, not following but aware. The player reaches the deepest artifact — the one that changes what they thought the Inn was — and the scene holds. It is 20-30 minutes. It is the Inn's Conversation — the thing that starts as one thing and becomes something else entirely by the end
+
+**5. The Family Story is the Epic (The Bloodline)**
+Coppola's greatest insight: every epic is a family story. The Godfather is about a father and son. Apocalypse Now is about two men who were family-in-spirit. Dracula is about love across centuries. Bram Stoker's Dracula specifically — Coppola's version — is the template for the Inn's emotional architecture: the intimate love story inside the gothic horror inside the period epic.
+
+The Inn's bloodline: Krista, River, Charles. The Crone (Krista's mother). Beverley. The family IS the Inn. The NPCs are not quest-givers — they are people the player cares about because the Inn cares about them and the Inn's caring is visible in every surface (del Toro) and every held frame (Kubrick) and every musical shift (Spielberg).
+
+The Coppola moment comes when the player realizes the Inn is not a place but a FAMILY'S LOVE LETTER to the world. The stones are the mother's knowledge. The archive is the father's curiosity. The games are the child's play. The Staircase is the space between them. The whole building is a family expressed as architecture. That realization is Coppola's move — the moment the epic becomes personal and the personal becomes unavoidable.
+
+Naut is Coppola's character. The reluctant steward who knows the truth. The Michael Corleone of the Inn — someone who didn't want power, didn't want responsibility, but the family needed someone and Naut was there. Naut doesn't want to be the keeper of The Royal. Naut IS the keeper of The Royal. The gap between what Naut wants and what Naut does is the Coppola tragedy. And the Inn is kinder than Coppola's films — Naut finds peace. Eventually. The Inn lets its Michael Corleone heal.
+
+### The Coppola Test
+
+Every zone must pass the Coppola Test before it ships. Find the scene. Find the emotion.
+
+- Does the zone have a moment where the epic becomes personal? (What's the small detail inside the vast space?)
+- Does the light tell a moral story? (Is shadow a force, not just absence?)
+- Does the sound have physical weight? (Can the body feel it?)
+- Is there at least one long scene — a world the player lives inside, not past?
+- Does the zone feel like it belongs to someone? (Is it a family's expression or just a level?)
+
+If a zone passes all five, it ships. If it fails any, the emotion work isn't done.
+
+### What the Inn Does NOT Do
+- No epics without intimacy. A vast space with no small human detail is a setting, not a story. What did someone leave here?
+- No neutral light. Light in the Inn always means something. If a scene is lit "normally," it failed.
+- No weightless sound. Every sound in the Inn has mass. If it can't be felt, it isn't finished.
+- No short scenes for big moments. The Inn's most important experiences take TIME. If the player can rush through what should be savored, the pacing failed.
+- No characters without blood. NPCs in the Inn are family. If the player can't imagine them off-duty, off-screen, having dinner, arguing about something stupid — they're not real yet.
+
 ## BUILD ORDER
 
 ### Phase 1: Cosmology (Level 1) — START HERE

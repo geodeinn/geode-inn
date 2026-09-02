@@ -451,3 +451,12 @@ The Main Floor music changes with the time of day:
 | Connections to adjacent levels | ✅ Complete — all 8 connections mapped |
 
 **LEVEL 3: MAIN FLOOR — COMPLETE.**
+
+
+## Kubrick Composition
+The main hall from the entrance, centered: fire at the far end, stairs visible on both sides, symmetrical, deep focus. 15-second held frame. This is the Inn's book cover — the painting that started everything. The player is standing inside the image they first saw. The dominant palette is amber and dark wood. The anomaly: the cold spot behind the bar (blue-gray discoloration). 90% amber, 8% brass, 2% wrong.
+
+## Coppola Composition
+The First Night at the Inn is a Coppola long scene — the player's first time staying past sunset. The Main Floor transitions from day to night in real time. NPCs change behavior. The hearth becomes the center. The Staircase darkens. The Catacombs get colder. The Blue Box keeps blinking. One continuous experience from sunset to the player's decision to sleep (save point) or keep exploring. 12-20 minutes. This is the Inn's Godfather wedding — the thing that looks normal and contains everything.
+
+Coppola light: the hearth (warmth, community) vs. the back corners and the cold spot (what the Inn hides). The border: the zone halfway between hearth and cold spot where the warmth thins. That's where the player feels the Inn's moral architecture — the building is warm, but it's warm because someone tends the fire. If the Firekeeper stopped...

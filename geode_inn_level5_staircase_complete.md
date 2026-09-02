@@ -27,7 +27,9 @@ The Inn is the staircase, expanded. Every room in the Inn is a room that grew fr
 
 ## Visual Language
 
-**Linework:** Sharp/angular (guardian style) — the Staircase is the guardian zone. The gargoyles are here. The Clockmaker maintains the structure. Everything in the Staircase is PRECISE — sharp lines, clean angles, the geometry of gears and architecture. No soft flowing lines here (those are for the lore spaces); no heavy cel-shading (that's for the tradesmen). The Staircase is the Inn's ENGINEERING — the place where structure is visible and beauty is in the precision.
+**Linework:** Sharp/angular (guardian style) — the Staircase is the guardian zone.
+
+**Kubrick Protocol active.** The Staircase's straight sections between landings are composed as one-point perspectives — stone walls receding to a centered vanishing point, gargoyles symmetrically placed, the player pulled into the geometry. The camera subtly recenters toward symmetry in these sections. The full vertical shaft from the middle landing is a Kubrick held frame: look up (spiral of light), look down (spiral of dark), 15 seconds each. The spine in one frame. The Blue Box's police box label, readable only at maximum zoom, pressed against the glass, reads "...ADVICE AND ASSISTANCE AND INN." Three letters added to a real label. You'd have to be looking. The gargoyles are here. The Clockmaker maintains the structure. Everything in the Staircase is PRECISE — sharp lines, clean angles, the geometry of gears and architecture. No soft flowing lines here (those are for the lore spaces); no heavy cel-shading (that's for the tradesmen). The Staircase is the Inn's ENGINEERING — the place where structure is visible and beauty is in the precision.
 
 **Color Palette:**
 - Primary: stone grey, brass gold, gear bronze
