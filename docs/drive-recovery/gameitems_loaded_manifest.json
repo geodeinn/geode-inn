@@ -1,0 +1,699 @@
+{
+  "source": "Google Drive Recovery \u2014 Item Templates (8 zone docs)",
+  "date": "2026-09-01",
+  "total_items_loaded": 71,
+  "by_zone": {
+    "Catacombs": 8,
+    "Cosmology": 8,
+    "Fae Kingdom": 6,
+    "Hearth": 8,
+    "Lighthouse": 9,
+    "Staircase": 16,
+    "Undercity": 8,
+    "Water": 8
+  },
+  "items": [
+    {
+      "name": "Stone Archive Shelf",
+      "zone": "Catacombs",
+      "itemType": "Interactive Object",
+      "variants": [],
+      "materials": [
+        "Bedrock stone (structure)"
+      ]
+    },
+    {
+      "name": "Translation Desk",
+      "zone": "Catacombs",
+      "itemType": "Interactive Object",
+      "variants": [],
+      "materials": [
+        "Bedrock stone (surface)",
+        "crystal lens (tool)",
+        "bone stylus (tool)"
+      ]
+    },
+    {
+      "name": "Clay Oil Lamp",
+      "zone": "Catacombs",
+      "itemType": "Interactive Object",
+      "variants": [],
+      "materials": [
+        "Clay (body)",
+        "animal fat (fuel)",
+        "plant fiber (wick)"
+      ]
+    },
+    {
+      "name": "Scroll Tube",
+      "zone": "Catacombs",
+      "itemType": "Interactive Object",
+      "variants": [],
+      "materials": [
+        "Baked clay",
+        "clay seal"
+      ]
+    },
+    {
+      "name": "Bone Stylus",
+      "zone": "Catacombs",
+      "itemType": "Interactive Object",
+      "variants": [],
+      "materials": [
+        "Ancient bone",
+        "optional crystal tip"
+      ]
+    },
+    {
+      "name": "Foxfire Marker",
+      "zone": "Catacombs",
+      "itemType": "Interactive Object",
+      "variants": [],
+      "materials": [
+        "Ancient stone (must be from the deepest catacomb level)",
+        "foxfire fungus"
+      ]
+    },
+    {
+      "name": "Crystal Lens",
+      "zone": "Catacombs",
+      "itemType": "Interactive Object",
+      "variants": [],
+      "materials": [
+        "Ancient crystal",
+        "bone frame"
+      ]
+    },
+    {
+      "name": "Bone Key",
+      "zone": "Catacombs",
+      "itemType": "Interactive Object",
+      "variants": [],
+      "materials": [
+        "Ancient bone (shaped to match a specific clay seal pattern)"
+      ]
+    },
+    {
+      "name": "Star Throne",
+      "zone": "Cosmology",
+      "itemType": "Interactive Object",
+      "variants": [],
+      "materials": [
+        "Sky stone (single piece)",
+        "runic carvings"
+      ]
+    },
+    {
+      "name": "Celestial Globe",
+      "zone": "Cosmology",
+      "itemType": "Interactive Object",
+      "variants": [],
+      "materials": [
+        "Star crystal",
+        "celestial metal"
+      ]
+    },
+    {
+      "name": "Wind Chime Pillars",
+      "zone": "Cosmology",
+      "itemType": "Interactive Object",
+      "variants": [],
+      "materials": [
+        "Sky stone (carved with varying channel widths)",
+        "optional crystal inlays"
+      ]
+    },
+    {
+      "name": "Moon Glass Lantern",
+      "zone": "Cosmology",
+      "itemType": "Interactive Object",
+      "variants": [],
+      "materials": [
+        "Moon glass",
+        "celestial metal (frame)"
+      ]
+    },
+    {
+      "name": "Void Silk Canopy",
+      "zone": "Cosmology",
+      "itemType": "Interactive Object",
+      "variants": [],
+      "materials": [
+        "Void silk",
+        "celestial metal (anchor points)"
+      ]
+    },
+    {
+      "name": "Star Compass",
+      "zone": "Cosmology",
+      "itemType": "Interactive Object",
+      "variants": [],
+      "materials": [
+        "Sky stone (floor inlay)",
+        "runic carvings",
+        "optional star crystal (center)"
+      ]
+    },
+    {
+      "name": "Falling Star Altar",
+      "zone": "Cosmology",
+      "itemType": "Interactive Object",
+      "variants": [],
+      "materials": [
+        "Sky stone",
+        "star crystal fragments"
+      ]
+    },
+    {
+      "name": "Raven Perch",
+      "zone": "Cosmology",
+      "itemType": "Interactive Object",
+      "variants": [],
+      "materials": [
+        "Sky stone",
+        "runic carvings (eyes)"
+      ]
+    },
+    {
+      "name": "Seelie Rules (Summerlands)",
+      "zone": "Fae Kingdom",
+      "itemType": "Interactive Object",
+      "variants": [],
+      "materials": []
+    },
+    {
+      "name": "Unseelie Rules (The Hollow)",
+      "zone": "Fae Kingdom",
+      "itemType": "Interactive Object",
+      "variants": [],
+      "materials": []
+    },
+    {
+      "name": "Neutral Rules (Crystal Gardens)",
+      "zone": "Fae Kingdom",
+      "itemType": "Interactive Object",
+      "variants": [],
+      "materials": []
+    },
+    {
+      "name": "Seelie Court (Summer)",
+      "zone": "Fae Kingdom",
+      "itemType": "Interactive Object",
+      "variants": [],
+      "materials": []
+    },
+    {
+      "name": "Unseelie Court (Winter)",
+      "zone": "Fae Kingdom",
+      "itemType": "Interactive Object",
+      "variants": [],
+      "materials": []
+    },
+    {
+      "name": "Neutral (Crystal Gardens)",
+      "zone": "Fae Kingdom",
+      "itemType": "Interactive Object",
+      "variants": [],
+      "materials": []
+    },
+    {
+      "name": "Grand Carved Chair",
+      "zone": "Hearth",
+      "itemType": "Interactive Object",
+      "variants": [],
+      "materials": [
+        "Carved dark wood",
+        "iron fittings",
+        "optional velvet cushion"
+      ]
+    },
+    {
+      "name": "Hearth Stone Table",
+      "zone": "Hearth",
+      "itemType": "Interactive Object",
+      "variants": [],
+      "materials": [
+        "Hearth stone",
+        "carved wood (legs)",
+        "iron (fittings)"
+      ]
+    },
+    {
+      "name": "Crystal Goblet Set",
+      "zone": "Hearth",
+      "itemType": "Interactive Object",
+      "variants": [],
+      "materials": [
+        "Amber glass",
+        "optional crystal inlay"
+      ]
+    },
+    {
+      "name": "Firewood Rack",
+      "zone": "Hearth",
+      "itemType": "Interactive Object",
+      "variants": [],
+      "materials": [
+        "Iron",
+        "wood"
+      ]
+    },
+    {
+      "name": "Ornate Walking Cane",
+      "zone": "Hearth",
+      "itemType": "Interactive Object",
+      "variants": [],
+      "materials": [
+        "Carved wood",
+        "iron/crystal handle"
+      ]
+    },
+    {
+      "name": "Velvet Cushion",
+      "zone": "Hearth",
+      "itemType": "Interactive Object",
+      "variants": [],
+      "materials": [
+        "Velvet",
+        "iron (corner studs optional)"
+      ]
+    },
+    {
+      "name": "Fire-Mantle Shelf",
+      "zone": "Hearth",
+      "itemType": "Interactive Object",
+      "variants": [],
+      "materials": [
+        "Hearth stone",
+        "carved wood (trim)",
+        "optional gold-leaf"
+      ]
+    },
+    {
+      "name": "Storyteller's Rug",
+      "zone": "Hearth",
+      "itemType": "Interactive Object",
+      "variants": [],
+      "materials": [
+        "Wool",
+        "optional gold-thread patterns"
+      ]
+    },
+    {
+      "name": "The Three-Tempo System",
+      "zone": "Lighthouse",
+      "itemType": "Interactive Object",
+      "variants": [],
+      "materials": []
+    },
+    {
+      "name": "The Great Lens",
+      "zone": "Lighthouse",
+      "itemType": "Interactive Object",
+      "variants": [],
+      "materials": [
+        "Crystal disks",
+        "brass frame",
+        "oil flame"
+      ]
+    },
+    {
+      "name": "The Vigil Log",
+      "zone": "Lighthouse",
+      "itemType": "Interactive Object",
+      "variants": [],
+      "materials": [
+        "Sea-stone cover",
+        "parchment pages",
+        "brass clasp"
+      ]
+    },
+    {
+      "name": "The Swivel Telescope",
+      "zone": "Lighthouse",
+      "itemType": "Interactive Object",
+      "variants": [],
+      "materials": [
+        "Brass tube",
+        "crystal lenses",
+        "swivel mount"
+      ]
+    },
+    {
+      "name": "Keeper's Chair",
+      "zone": "Lighthouse",
+      "itemType": "Interactive Object",
+      "variants": [],
+      "materials": [
+        "Driftwood",
+        "rope (repair)"
+      ]
+    },
+    {
+      "name": "Oil Reservoir",
+      "zone": "Lighthouse",
+      "itemType": "Interactive Object",
+      "variants": [],
+      "materials": [
+        "Brass tank",
+        "iron pipes",
+        "stone housing"
+      ]
+    },
+    {
+      "name": "Storm Shutters",
+      "zone": "Lighthouse",
+      "itemType": "Interactive Object",
+      "variants": [],
+      "materials": [
+        "Brass",
+        "iron hinges",
+        "sea-stone frame"
+      ]
+    },
+    {
+      "name": "Tide Chart",
+      "zone": "Lighthouse",
+      "itemType": "Interactive Object",
+      "variants": [],
+      "materials": [
+        "Sea stone",
+        "brass inlay",
+        "crystal markers"
+      ]
+    },
+    {
+      "name": "Signal Lamp",
+      "zone": "Lighthouse",
+      "itemType": "Interactive Object",
+      "variants": [],
+      "materials": [
+        "Brass",
+        "crystal lens (small)",
+        "oil flame"
+      ]
+    },
+    {
+      "name": "The Core Concept",
+      "zone": "Staircase",
+      "itemType": "Interactive Object",
+      "variants": [],
+      "materials": []
+    },
+    {
+      "name": "Station 1: GRINDING (Catacombs Level)",
+      "zone": "Staircase",
+      "itemType": "Interactive Object",
+      "variants": [],
+      "materials": []
+    },
+    {
+      "name": "Station 2: FORGING (Lower Transition)",
+      "zone": "Staircase",
+      "itemType": "Interactive Object",
+      "variants": [],
+      "materials": []
+    },
+    {
+      "name": "Station 3: MEASURING (Main Floor Level)",
+      "zone": "Staircase",
+      "itemType": "Interactive Object",
+      "variants": [],
+      "materials": []
+    },
+    {
+      "name": "Station 4: PURIFYING (Upper Transition)",
+      "zone": "Staircase",
+      "itemType": "Interactive Object",
+      "variants": [],
+      "materials": []
+    },
+    {
+      "name": "Station 5: TRANSMUTATION (Cosmology Level)",
+      "zone": "Staircase",
+      "itemType": "Interactive Object",
+      "variants": [],
+      "materials": []
+    },
+    {
+      "name": "Alchemical Station",
+      "zone": "Staircase",
+      "itemType": "Interactive Object",
+      "variants": [],
+      "materials": [
+        "Varies by height (see Material Evolution Table)"
+      ]
+    },
+    {
+      "name": "Gear-Step Mechanism",
+      "zone": "Staircase",
+      "itemType": "Interactive Object",
+      "variants": [],
+      "materials": [
+        "Iron gears",
+        "stone steps",
+        "crystal sensors"
+      ]
+    },
+    {
+      "name": "Formula Wall",
+      "zone": "Staircase",
+      "itemType": "Interactive Object",
+      "variants": [],
+      "materials": [
+        "Carved stone (lower)",
+        "carved wood (middle)",
+        "etched crystal (upper)"
+      ]
+    },
+    {
+      "name": "Ascending Light Fixture",
+      "zone": "Staircase",
+      "itemType": "Interactive Object",
+      "variants": [],
+      "materials": [
+        "Varies by height"
+      ]
+    },
+    {
+      "name": "Transition Niche",
+      "zone": "Staircase",
+      "itemType": "Interactive Object",
+      "variants": [],
+      "materials": [
+        "Varies by height (transitions from raw stone to polished crystal)"
+      ]
+    },
+    {
+      "name": "Clockmaker's Tool Set",
+      "zone": "Staircase",
+      "itemType": "Interactive Object",
+      "variants": [],
+      "materials": [
+        "Iron (base tools)",
+        "crystal (precision tools)",
+        "star crystal (the Clockmaker's own set)"
+      ]
+    },
+    {
+      "name": "Essence Vessel",
+      "zone": "Staircase",
+      "itemType": "Interactive Object",
+      "variants": [],
+      "materials": [
+        "Crystal (clear",
+        "pure)",
+        "gold (trim)",
+        "star crystal (the Clockmaker's vessel)"
+      ]
+    },
+    {
+      "name": "Pendulum",
+      "zone": "Staircase",
+      "itemType": "Interactive Object",
+      "variants": [],
+      "materials": [
+        "Iron and stone (rod)",
+        "crystal (weight)",
+        "gold (pivot)"
+      ]
+    },
+    {
+      "name": "Step Types",
+      "zone": "Staircase",
+      "itemType": "Interactive Object",
+      "variants": [],
+      "materials": []
+    },
+    {
+      "name": "Doorway Types (to side passages and niches)",
+      "zone": "Staircase",
+      "itemType": "Interactive Object",
+      "variants": [],
+      "materials": []
+    },
+    {
+      "name": "Stone Alcove Bed",
+      "zone": "Undercity",
+      "itemType": "Interactive Object",
+      "variants": [],
+      "materials": [
+        "Stone (structure)",
+        "dark fabric (draping)",
+        "iron (brackets)"
+      ]
+    },
+    {
+      "name": "Heavy Carved Desk",
+      "zone": "Undercity",
+      "itemType": "Interactive Object",
+      "variants": [],
+      "materials": [
+        "Carved wood",
+        "iron"
+      ]
+    },
+    {
+      "name": "Stone Shelf",
+      "zone": "Undercity",
+      "itemType": "Interactive Object",
+      "variants": [],
+      "materials": [
+        "Stone"
+      ]
+    },
+    {
+      "name": "Klimt-Gold Mirror",
+      "zone": "Undercity",
+      "itemType": "Interactive Object",
+      "variants": [],
+      "materials": [
+        "Glass",
+        "gold leaf",
+        "iron (backing)"
+      ]
+    },
+    {
+      "name": "Fairy Light String",
+      "zone": "Undercity",
+      "itemType": "Interactive Object",
+      "variants": [],
+      "materials": [
+        "Amber glass",
+        "iron wire",
+        "crystal fragments"
+      ]
+    },
+    {
+      "name": "Stone Window Alcove",
+      "zone": "Undercity",
+      "itemType": "Interactive Object",
+      "variants": [],
+      "materials": [
+        "Stone (frame)",
+        "crystal (glow source from outside)"
+      ]
+    },
+    {
+      "name": "Crystal Sill Collection",
+      "zone": "Undercity",
+      "itemType": "Interactive Object",
+      "variants": [],
+      "materials": [
+        "Various stones and crystals"
+      ]
+    },
+    {
+      "name": "Boot Rack / Entry Station",
+      "zone": "Undercity",
+      "itemType": "Interactive Object",
+      "variants": [],
+      "materials": [
+        "Iron",
+        "stone"
+      ]
+    },
+    {
+      "name": "Kelp-Woven Sleeping Hollow",
+      "zone": "Water",
+      "itemType": "Interactive Object",
+      "variants": [],
+      "materials": [
+        "Tidal stone (structure)",
+        "kelp and sea grass (lining)",
+        "seaweed (curtains)"
+      ]
+    },
+    {
+      "name": "Floating Driftwood Table",
+      "zone": "Water",
+      "itemType": "Interactive Object",
+      "variants": [],
+      "materials": [
+        "Driftwood",
+        "stone weights"
+      ]
+    },
+    {
+      "name": "Abalone Mirror",
+      "zone": "Water",
+      "itemType": "Interactive Object",
+      "variants": [],
+      "materials": [
+        "Abalone",
+        "coral or stone frame"
+      ]
+    },
+    {
+      "name": "Shell Shelf",
+      "zone": "Water",
+      "itemType": "Interactive Object",
+      "variants": [],
+      "materials": [
+        "Tidal stone or coral"
+      ]
+    },
+    {
+      "name": "Pearl String",
+      "zone": "Water",
+      "itemType": "Interactive Object",
+      "variants": [],
+      "materials": [
+        "Pearl",
+        "crystal",
+        "kelp cord"
+      ]
+    },
+    {
+      "name": "Water Jewel Workstation",
+      "zone": "Water",
+      "itemType": "Interactive Object",
+      "variants": [],
+      "materials": [
+        "Coral (anvil)",
+        "bone and shell (tools)",
+        "abalone (surface)",
+        "stone (base)"
+      ]
+    },
+    {
+      "name": "Current Channel",
+      "zone": "Water",
+      "itemType": "Interactive Object",
+      "variants": [],
+      "materials": [
+        "Tidal stone (channel walls)",
+        "coral (flow directors)"
+      ]
+    },
+    {
+      "name": "Coral Garden",
+      "zone": "Water",
+      "itemType": "Interactive Object",
+      "variants": [],
+      "materials": [
+        "Living coral (various types)"
+      ]
+    }
+  ]
+}
