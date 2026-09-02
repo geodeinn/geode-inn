@@ -1,0 +1,172 @@
+{
+  "manifest_title": "Geode Inn — Smithsonian Libraries & Batch-Named PDF Treasures",
+  "manifest_date": "2026-09-01",
+  "created_by": "Elio (Inn Librarian)",
+  "purpose": "Catalog of PDFs with batch/scanned identifiers that were not captured in the original archive manifest",
+  "source": "Google Drive (googledrive connector) + Internet Archive + Library of Congress identification",
+  "target_app": "The Geode Inn (6a60f218b0c6605c92fa35c4)",
+  "target_entity": "Book",
+  "total_new_identified": 10,
+  "notes": "These files were scanned by Google Books / Internet Archive with batch identifiers instead of readable titles. Identified via archive.org lookups, Google Books API, and Library of Congress catalog.",
+  "files": [
+    {
+      "drive_name": "bub_gb_NUrvQ5oAZ4kC.pdf",
+      "size": 114487343,
+      "title": "The Gentleman's Magazine, and Historical Chronicle (1736-1822)",
+      "author": "Edward Cave; John Nichols",
+      "publisher": "London: Printed by Edw. Cave",
+      "publication_date": "1736-1822",
+      "pages": 707,
+      "source": "Smithsonian Libraries (via Internet Archive / Google Books)",
+      "archive_org_id": "bub_gb_NUrvQ5oAZ4kC",
+      "google_books_id": "NUrvQ5oAZ4kC",
+      "category": "History",
+      "in_game_zone": "Archive",
+      "notes": "Vols. 6-32, 35-70. Benjamin Franklin Collection. Pre-1801 Imprint Collection. Part of the Smithsonian Libraries collection."
+    },
+    {
+      "drive_name": "bub_gb_Rf0IAAAAIAAJ.pdf",
+      "size": 91058878,
+      "title": "The Gentleman's Magazine, and Historical Chronicle",
+      "author": "Edward Cave",
+      "publisher": "London: Printed by Edw. Cave",
+      "publication_date": "18th century",
+      "source": "Smithsonian Libraries (via Internet Archive / Google Books)",
+      "archive_org_id": "bub_gb_Rf0IAAAAIAAJ",
+      "google_books_id": "Rf0IAAAAIAAJ",
+      "category": "History",
+      "in_game_zone": "Archive"
+    },
+    {
+      "drive_name": "bub_gb_SNsN_sa2xg0C.pdf",
+      "size": 81607672,
+      "title": "The Gentleman's Magazine, and Historical Chronicle",
+      "author": "Edward Cave",
+      "publisher": "London: Printed by Edw. Cave",
+      "publication_date": "18th century",
+      "source": "Smithsonian Libraries (via Internet Archive / Google Books)",
+      "archive_org_id": "bub_gb_SNsN_sa2xg0C",
+      "google_books_id": "SNsN_sa2xg0C",
+      "category": "History",
+      "in_game_zone": "Archive"
+    },
+    {
+      "drive_name": "bub_gb_j7MEAAAAYAAJ.pdf",
+      "size": 43415386,
+      "title": "The Gentleman's Magazine, and Historical Chronicle",
+      "author": "Edward Cave",
+      "publisher": "London: Printed by Edw. Cave",
+      "publication_date": "18th century",
+      "source": "Smithsonian Libraries (via Internet Archive / Google Books)",
+      "archive_org_id": "bub_gb_j7MEAAAAYAAJ",
+      "google_books_id": "j7MEAAAAYAAJ",
+      "category": "History",
+      "in_game_zone": "Archive"
+    },
+    {
+      "drive_name": "bub_gb_lAIJAAAAIAAJ.pdf",
+      "size": 90782498,
+      "title": "The Gentleman's Magazine, and Historical Chronicle, Vol. 53 (1783)",
+      "author": "Edward Cave",
+      "publisher": "London: Printed by Edw. Cave",
+      "publication_date": "1783",
+      "source": "Smithsonian Libraries (via Internet Archive / Google Books)",
+      "archive_org_id": "bub_gb_lAIJAAAAIAAJ",
+      "google_books_id": "lAIJAAAAIAAJ",
+      "category": "History",
+      "in_game_zone": "Archive"
+    },
+    {
+      "drive_name": "bub_gb_na631mATkvMC.pdf",
+      "size": 88505216,
+      "title": "The Gentleman's Magazine, and Historical Chronicle",
+      "author": "Edward Cave",
+      "publisher": "London: Printed by Edw. Cave",
+      "publication_date": "18th century",
+      "source": "Smithsonian Libraries (via Internet Archive / Google Books)",
+      "archive_org_id": "bub_gb_na631mATkvMC",
+      "google_books_id": "na631mATkvMC",
+      "category": "History",
+      "in_game_zone": "Archive"
+    },
+    {
+      "drive_name": "bub_gb_nfUQAAAAIAAJ.pdf",
+      "size": 50154077,
+      "title": "The Gentleman's Magazine, and Historical Chronicle",
+      "author": "Edward Cave",
+      "publisher": "London: Printed by Edw. Cave",
+      "publication_date": "18th century",
+      "source": "Smithsonian Libraries (via Internet Archive / Google Books)",
+      "archive_org_id": "bub_gb_nfUQAAAAIAAJ",
+      "google_books_id": "nfUQAAAAIAAJ",
+      "category": "History",
+      "in_game_zone": "Archive"
+    },
+    {
+      "drive_name": "2009gen12345.pdf",
+      "size": 185191193,
+      "pages": 370,
+      "title": "De Occulta Philosophia (Three Books of Occult Philosophy)",
+      "author": "Heinrich Cornelius Agrippa",
+      "publication_date": "1533",
+      "source": "Library of Congress Rare Book Collection (rbc0001.2009gen12345)",
+      "loc_resource": "rbc0001.2009gen12345",
+      "category": "Esoteric Traditions",
+      "in_game_zone": "Staircase",
+      "notes": "FOUNDATIONAL Renaissance occult text. Covers natural magic, celestial magic, and ceremonial/religious magic. Contains the Theban alphabet. One of the most important esoteric texts in Western history. Image-only scan (no OCR text layer). Perfect for the alchemical staircase."
+    },
+    {
+      "drive_name": "27077868_5937.pdf",
+      "size": 1395286,
+      "pages": 80,
+      "title": "The Bakerian Lecture: on the theory of light and colours",
+      "author": "Thomas Young (1773-1829)",
+      "publication_date": "1801",
+      "source": "Yale Medical Library Historical Library (Fulton Collection)",
+      "category": "Science",
+      "in_game_zone": "Archive",
+      "notes": "One of the most important physics papers in history. Young's wave theory of light and the principle of interference. Foundation of modern optics."
+    },
+    {
+      "drive_name": "39002086306058.med.yale.edu.pdf",
+      "size": 786541,
+      "pages": 28,
+      "title": "On the Mode of Collecting and Preserving Objects of Natural History",
+      "author": "Robert Peter",
+      "publication_date": "unknown (pre-industrial)",
+      "source": "Yale Medical Library",
+      "category": "Natural History",
+      "in_game_zone": "Archive"
+    },
+    {
+      "drive_name": "39002086347029.med.yale.edu.pdf",
+      "size": 455534,
+      "pages": 20,
+      "title": "Observations on the General Treatment of Lunatics",
+      "author": "Andrew Duncan",
+      "publication_date": "1809",
+      "source": "Yale Medical Library",
+      "category": "Medicine",
+      "in_game_zone": "Archive"
+    }
+  ],
+  "previously_cataloged_related": [
+    {
+      "drive_name": "egyptiana00smit.pdf",
+      "title": "Egyptian Architecture as Cultural Expression",
+      "author": "E. Smith",
+      "source": "Smithsonian Libraries (via Internet Archive)",
+      "archive_org_id": "egyptiana00smit",
+      "category": "History",
+      "in_game_zone": "Archive"
+    },
+    {
+      "drive_name": "americanjournalo1002unse.pdf",
+      "title": "American Journal of Science and Arts",
+      "source": "Internet Archive",
+      "category": "Science",
+      "in_game_zone": "Archive",
+      "notes": "Related to Smithsonian suppression narrative — archaeological finds that didn't match official 1800s history. Referenced in session 6a874c84881e3444848f1262."
+    }
+  ]
+}
