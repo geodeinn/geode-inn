@@ -25,6 +25,8 @@ The Fire Dancers' Former Explorer (Campgrounds) provides lore teasers and the Ge
 
 **Linework:** Soft flowing (lore style) — the Catacombs are the Inn's lore zone. Soft, flowing lines that suggest age and depth. The texts, the artifacts, the stone walls — all rendered with edges that blur slightly, as if the past itself is slightly out of focus. The only sharp lines in the Catacombs are the Crone's Hopkins gaze (the one unsoftened precision) and Beverley's spectacles (the librarian's tools).
 
+**Del Toro Protocol active.** The Catacombs are DRY. Cracked stone, dusty surfaces, air that pulls moisture from paper. The Deep is the driest place — the paper feels brittle, the stone is smooth from aeons of dry wind. Every shelf has dark patches where fingers have pulled books free over centuries. The Crone's desk is scarred oak with indentations where a measuring tape has been laid thousands of times. The zone anomaly: condensation on the EAST wall, in an S-curve following an unknown water source. The water comes from somewhere the Crone has never found. It feeds a single line of moss that glows faintly in the deep silver light.
+
 **Color Palette:**
 - Primary: stone grey-brown, parchment cream, shadow purple
 - Secondary: candle amber (the reading light), copper green (oxidized metal), fossil tan

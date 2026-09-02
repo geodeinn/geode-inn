@@ -257,6 +257,8 @@ Some players will walk past it. Some players will stare at it for ten minutes, c
 
 **Implementation:** Static model. No interaction prompt. No tooltip. The lamp blinks at 50 BPM via CSS animation (the same animation class as the Inn's heartbeat visual). Collision: solid — the player walks around it. The alcove is slightly too small for it, so the box's left edge overlaps the wall by 3 pixels. This is not a bug. This is the joke. The box is bigger on the inside; the alcove is exactly the right size; the wall just doesn't know it yet.
 
+**Del Toro detail:** The Blue Box's alcove is perfectly dry. Impossibly dry. The Staircase's condensation line — the visible moisture transition from warm (top) to damp (bottom) — goes AROUND the alcove. The box's micro-atmosphere is wrong. The stone near the box is a slightly different color — not stained, not discolored, just... shifted. As if the stone near the box remembers a different climate. The player notices without knowing why. The del Toro move: the space that doesn't match its surroundings. The anomaly that makes you look twice.
+
 ## Interactive Items Summary
 
 | Item | Location | Function |

@@ -378,6 +378,78 @@ The Spielberg technique: when the player approaches the source, the music gets l
 - No music that explains the feeling. The music creates the space for the feeling. The player fills it.
 - No music that outstays its welcome. When the moment passes, the music leaves. The 42Hz heartbeat is the only constant — the rest are guests.
 
+## THE DEL TORO PROTOCOL: Synesthetic World-Building
+
+Where Hitchcock governs suspense and Spielberg governs music, del Toro governs TEXTURE — the design directive that makes the Inn a place you can feel with your fingers, smell with your nose, taste on the back of your tongue. The visual IS the sensory. Every surface the player sees must imply what it would be like to touch it, to stand near it, to breathe the air around it.
+
+### Core Principles
+
+**1. Every Surface Has a History You Can Read**
+del Toro's walls don't look like walls — they look like walls that have been touched, leaned against, wept on, painted over, abandoned, and rediscovered. The Inn's surfaces carry their own archaeology. The Staircase's stone has been worn smooth in the center by centuries of climbing. The Catacombs' shelves have dark patches where fingers have pulled books free. The Main Floor bar has a gloss where elbows have rested. Nobody tells you this. You can just see it.
+
+Implementation: every texture asset in the Inn has a "wear map" — a second texture layer showing where time has touched the surface. Centers are smoother than edges. Handles are darker than panels. The floor near the hearth is lighter where boots have stood. The stone near the Blue Box is slightly discolored where players have lingered to stare at it. The wear is subtle. The player feels it before they can articulate why.
+
+**2. The Air Has Weight (Atmospheric Density)**
+del Toro's spaces have air you can taste. Crimson Peak's clay seeps into everything. The Pale Man's room has a sweet, stagnant rot. The troll market smells like wet fur and old fruit. The Inn's air changes by zone — not through a "smell meter" but through the visual quality of the atmosphere itself.
+
+| Zone | Air Quality (Visual) | What the Air Implies |
+|---|---|---|
+| Level 1 (Cosmology) | Crystalline clarity — stars sharp, no haze | Thin air. Cold. The air of high places. You breathe deep but the oxygen feels old. |
+| Level 2 (Clockwork Skies) | Slight haze — gear oil particulate visible in light beams | Warm air, metallic tang. The workshop smells like copper and machine oil. The air has texture. |
+| Level 3 (Main Floor) | Warm amber haze — firelit, dust motes visible | Warm, woody, beeswax. The air of a room where someone has been cooking and reading and living for decades. |
+| Level 4 (Campgrounds) | Clear, moving — wind visible in grass and leaves | Fresh, green, wet earth after rain. The air moves. The indoor stillness is gone. |
+| Level 5 (Staircase) | Shifting — warmer below, cooler above, visible thermal layers | The air changes as you climb. Bottom: warm and close, stone dust. Middle: neutral, the transition. Top: cold and thin, the air of the canopy. The air tells you where you are. |
+| Level 6 (Catacombs) | Still, cold, slightly dusty — particles hang motionless | Old. The air hasn't moved in decades. Paper and stone and candle wax. The dust is not decorative — it's the result of stone exhaling. |
+| Level 7 (Fae Kingdom) | Liquid light — pollen in the Seelie, frost crystals in Unseelie | Seelie: honey, flowers, warm earth. Unseelie: iron, ice, petrichor. The Between: the two mix — honey and iron — and the combination is wrong. |
+| Level 8 (Water Zone) | Humid, pressure-graded — visible moisture increases with depth | Surface: sea salt and wind. Abyss: the pressure compresses the moisture until the air is nearly water. Trench: the air IS water. The lungs feel the change. |
+| Level 9 (Hollow Earth) | Warm, mineral, crystalline — the hum creates a faint vibration in the air | Quartz dust and ancient mineral water. The air tastes like stone and lightning. The 42Hz hum makes the air itself feel alive. |
+
+**3. The Creature Has a Body (Tactile Design)**
+del Toro's creatures aren't designs — they're beings with anatomies. The faun has moss that you know is damp. Abe Sapien's skin looks like it would feel cool and smooth. The Pale Man's skin is paper-thin over bone. Every creature in the Inn has a tactile profile — not described to the player, but implied through visual texture, animation weight, and environmental interaction.
+
+The Inn's 399 characters each have a material reality:
+- The baby dragon's scales are warm — theplayer can tell because the area near the dragon is visually warmer (ambient light shift)
+- Beverley the librarian's coat is heavy wool — the coat hangs with weight, the buttons are brass (you can see the metal quality)
+- The Crone's desk is scarred oak — the surface has indentations where a measuring tape has been laid thousands of times
+- The water monsters have wet skin — a specular highlight that moves differently than the surrounding water, telling the eye "this surface is living flesh, not water"
+- The Wild in the Dark Reaches have skin that reflects bioluminescence differently than their surroundings — they're matte where the crystals are glossy, telling the eye "this is organic matter, not mineral"
+
+**4. The Object Remembers What Happened to It (Artifact Design)**
+del Toro's objects carry their stories on their surfaces. The Inn's interactive items — stones, texts, charms, artifacts — show use, age, and care differently:
+
+- Stones from gathering have tool marks. Stones from ley lines have vibration polish. Stones from the Mycorrhizal Network have a fine mycelium residue that catches light differently (Form Sight makes it glow)
+- Books in the Archive have dog-eared pages, marginalia, wine stains. The Crone's personal texts have indentation where the measuring tape was used as a bookmark
+- Quest charms show the mark of giving — a worn spot where a hand once clenched around them during a difficult moment
+- The crystal skulls in The Royal have a resonance that the player can SEE — a faint vibration in the air around them, the way heat shimmer reads as a visual aura. The skulls hum. The air around them bends.
+
+**5. The Wet and the Dry (Moisture as Story)**
+del Toro uses moisture as narrative. Water on walls, condensation on glass, the way fabric darkens when wet. The Inn tracks moisture as a visual layer:
+
+- The Catacombs are DRY — cracked stone, dusty surfaces, the air pulling moisture from everything. The Deep is the driest place in the Inn. So dry the paper feels brittle.
+- The Water Zone is SATURATED — every surface has a sheen, every texture has depth from water interaction. The deeper you go, the wetter the stone gets, until the walls in The Trench are running with condensation.
+- The Staircase transitions — dry at the top (Cosmology air), damp at the bottom (Catacomb seep). The condensation line on the Staircase wall is a visual marker: above it, the air is warm. Below it, the air smells like wet stone.
+- The Main Floor is comfortable — the hearth adds warmth, the wood is seasoned and dry, the air has the moisture of a lived-in space. Not desert. Not swamp. Home.
+- The Blue Box's alcove on the Staircase is perfectly dry. Impossibly dry. The condensation line goes AROUND the alcove. The box's micro-atmosphere is wrong. This is a del Toro detail: the space that doesn't match its surroundings. The player notices without knowing why.
+
+### The Del Toro Test
+
+Every zone must pass the Del Toro Test before it ships. Sit in the zone. Do nothing. Look around.
+
+- Can you tell what the floor would feel like underfoot? (rough stone, smooth wood, wet sand, cold crystal)
+- Can you imagine the smell of the air? (does it have a "nose"?)
+- Does the light have a temperature? (warm firelight, cold starlight, wet bioluminescence)
+- Do the objects look like they've been touched? (wear, dust, patina, residue)
+- Is there one surface that is WRONG — that doesn't match the zone's atmosphere? (every zone has one del Toro anomaly: the thing that doesn't belong. The Catacombs have condensation on the east wall from an unknown water source. The Main Floor has a cold spot behind the bar. The Water Zone's Lighthouse has a dry circle on the floor where the Pirate stands.)
+
+If a zone passes all five, it ships. If it fails any, the texture work isn't done.
+
+### What the Inn Does NOT Do
+- No flat textures. Every surface implies touch. If a wall looks like a wall texture, it failed.
+- No clean spaces. The Inn has been lived in. Gnawed on. Rubbed smooth. Spilled on. The Inn is not curated — it's inhabited.
+- No decorative moisture. Water in the Inn does something — it erodes, it stains, it feeds the Mycorrhizal Network, it marks the condensation line. Moisture is never just "wet-looking." It always tells a story.
+- No creatures without bodies. A design is not a being. A being has weight, texture, temperature, breath.
+- No objects without history. If a player can hold it, it has been held before.
+
 ## BUILD ORDER
 
 ### Phase 1: Cosmology (Level 1) — START HERE

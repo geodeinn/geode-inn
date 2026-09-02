@@ -178,6 +178,8 @@ Stones sent through the Mycorrhizal Network arrive with a 42Hz harmonic added �
 ### 7. The Firekeeper's Hearth
 Already designed (see Firekeeper quest doc). The permanent storyteller's corner. Tim Curry's domain. The hearth is the Inn's warmest physical point — the fire that never goes out. The Firekeeper tells stories. The player listens.
 
+**Del Toro Protocol active across the Main Floor.** The Main Floor is COMFORTABLE — the hearth adds warmth, the wood is seasoned and dry, the air has the moisture of a lived-in space. Not desert. Not swamp. Home. Every surface shows use: the bar has a gloss where elbows have rested, the chairs are worn where bodies have leaned, the floor near the hearth is lighter where boots have stood for centuries. The zone anomaly: a cold spot behind the bar. A circle of floor, slightly darker, slightly cooler, where no one has ever stood and the air doesn't move. The Firekeeper has never explained it. The Wanderer has never mentioned it. The cold spot is the Inn's own del Toro mystery — the thing that doesn't belong in a room that otherwise feels like the warmest place in the world.
+
 ### 8. Cthulhu's Fireplace Nook
 Already designed. The hidden scholar — a 4-foot squid-headed figure with spectacles by the fireplace. Hidden quest giver for rare book retrieval. Rewards the rarest stones in the Inn.
 

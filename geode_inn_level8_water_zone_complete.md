@@ -586,3 +586,6 @@ Each water monster adds its signature lead instrument over this bass-heavy chord
 | Connections to adjacent levels | ✅ Complete — Main Floor, Faerie Kingdom, Catacombs, Staircase, Cosmology, Clockwork Skies |
 
 **LEVEL 8: WATER ZONE — COMPLETE.**
+
+
+**Del Toro Protocol active.** The Water Zone is SATURATED — every surface has a sheen, every texture has depth from water interaction. The deeper you go, the wetter the stone gets, until the walls in The Trench are running with condensation. The Lighthouse is the zone's del Toro anomaly: a perfectly dry circle on the stone floor where the Pirate stands. The water doesn't touch the Pirate. The moisture goes around.
