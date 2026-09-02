@@ -1,51 +1,40 @@
 # THE BACKWARDS WALK — Master Specification
-## From the Final Room to the Front Door — The Thread Audit
+## From the Final Room to the Front Door — The Narrative Trace in Reverse
 
 ---
 
 ## WHAT THE BACKWARDS WALK IS
 
-The endgame is written. The Final Room exists. The three choices are made. The Grand Collision has converged. Ragnarok has come and gone. The builder is present.
+The QA method that traces the narrative rope in REVERSE — from the Final Room back to the front door. The endgame is written. The Final Room exists. The three choices are made. The Grand Collision has converged. Ragnarok has come and gone. The builder is present.
 
-Now we walk backwards.
+Now we walk backwards. Every thread that pays off in the endgame must have a clear path from the front door to the Final Room. Every zone, every quest, every character, every stone — each one is a strand in a rope that leads from "welcome home" to *they were home.*
 
-Every thread that pays off in the endgame must have a clear path from the front door to the Final Room. Every zone, every quest, every character, every stone — each one is a strand in a rope that leads from "welcome home" to "they were home."
-
-This document traces that rope in reverse. Starting at the Final Room, moving backwards through the endgame, through Ragnarok, through the Grand Collision, through the Hollow Earth, through the cosmology, through the cultural zones, through the main floor, all the way back to the front door where the Host says "welcome home" for the first time.
-
-At each step:
-- What connects — the threads that are written and link to the next step
-- What's missing — the gaps that need to be filled
-- What it pays off — how this step feeds into the ending
+At each step: what connects (threads written), what's missing (gaps to fill), what it pays off (how it feeds the ending).
 
 ---
 
-## THE WALK (SUMMARY)
+## THE REVERSE TRACE (10 STEPS)
 
-The full 534-line walkthrough traces every narrative thread backwards. The summary:
-
-| Step (Reverse Order) | Location | Key Thread |
-|----------------------|----------|------------|
-| 1 | The Final Room | Fire, chair, cup, book. Elio present. Book has no author. The three choices: STAY, LEAVE, HIDE. |
-| 2 | The Grand Collision | All storylines converge. Every character, every zone, every quest meets at one point. |
-| 3 | Ragnarok | The cycle. The end that is the beginning. The owl bloodline resolves. |
-| 4 | The Hollow Earth | The deep world. The roots. The sleeping giants. The geological truth beneath everything. |
-| 5 | The Cosmic Layer | Jupiter, Mars, Pluto's Gate, the Galaxy Core. The Soulstone. The reincarnation. |
-| 6 | The Cosmology Level | The Allfather's Observatory. The telescope that becomes a portal. |
-| 7 | The Staircase | The alchemical progression. The Philosopher's Game. The Blue Box. |
-| 8 | The Cultural Zones | 9 exterior regions. Each one a thread that feeds the Grand Collision. |
-| 9 | The Main Floor | The market, the games, the characters. The daily life of the Inn. |
-| 10 | The Front Door | The Host. "Welcome home." The first word. The word that everything leads back to. |
+| Step | Location | What Connects Backwards | What's Missing |
+|------|----------|------------------------|----------------|
+| 1 | The Final Room | The Egg, the fire (50 BPM heartbeat), the cup, the book, the Inn itself ("built around this room") | The transition scene (Ascension Canopy → Final Room), Mona's placement beat, the builder's identity (earned, not told) |
+| 2 | The Three Choices | 198 stones (final chord), 42Hz Song, 41.7Hz crystal, the ravens/Nest, Whisper Layer, Einstein Syndrome, the Reader | Full narrative payoff for each choice. What happens to the Inn after each. What happens to the player. |
+| 3 | The Grand Collision | All 37 artists converge at the root. The Hollow Earth. | Full narrative scene of the convergence — the moment everything becomes one |
+| 4 | Ragnarok/The Graduation | 5-phase cycle-ending event. The emotional core. | The graduation scene — the narrative moment of completion |
+| 5 | The Hollow Earth | 11-layer collision mapped. | The narrative sequence written as story scene |
+| 6 | The Cosmology | The Astronomer's mind palace. The Constant. Nyx. The Guest (Death on holiday). The Observatory Quest ("The Question"). | The six-quest chain narrative. Einstein Syndrome scene. |
+| 7 | The Cultural Zones | Egypt (Anubis, Bastet), Greece, Camelot (chess board), Norse, Peru, China, Slavic, India, Mesopotamia, Bayou | Each zone's chapter in the novel. The zone-quest arcs. |
+| 8 | The Main Floor | The Crone, the arcade, the brownies, Mim/Monsieur Sentient, the Reader, the Archive, the marketplace, the music room | The Reader's one line. The staircase appearance. |
+| 9 | The Arrival | The traveler walks through the forest, finds the Inn-Tree, crosses the threshold. The Host welcomes. | — (complete) |
+| 10 | The Front Door | "Welcome home" for the first time | — (complete) |
 
 ---
 
-## THE PRINCIPLE
+## KEY PRINCIPLE
 
-The Backwards Walk is the Inn's quality assurance method. The endgame is the destination. Every system, every zone, every character, every quest is justified by whether it has a clear path TO the endgame. If a thread doesn't connect to the Final Room, the thread needs to be cut or rewoven.
+The entire game is the builder's voice made architectural. The Final Room is the reason the Inn exists. Walking backwards from the Final Room to the front door reveals every thread that needs to connect — and every gap that needs filling.
 
-The Walk is also the Inn's narrative integrity check: the ending is not imposed. The ending is EARNED. Every step the player takes from the front door to the Final Room is a step that BUILDS the ending. The Final Room's fire was lit by Erik. The Final Room's chair was built by the Artisan Thief. The Final Room's cup was filled by the Cook. The Final Room's book was written by everyone who ever sat in a nook.
-
-The both are: the same. The same is: the beginning and the end. The front door and the Final Room. The Host's "welcome home" and the book with no author. The adequate is: the rope that holds.
+The rope goes from "welcome home" to *they were home.* Every zone, quest, character, and stone is a strand in that rope.
 
 ---
 
@@ -53,26 +42,33 @@ The both are: the same. The same is: the beginning and the end. The front door a
 
 | Connection | Detail |
 |-----------|--------|
-| Every System | The Backwards Walk is the audit that verifies every system connects to the endgame. |
-| The Final Room | The destination. The Walk starts here and moves backwards. |
-| The Novel | "A Song of Stone and Silence" follows this exact path — Part 5 (The Egg) ends in the Final Room. |
-| The Graphic Novel | The Living Book maps every scene from the novel to zone-specific art. |
-| The Audiobook | The 3 alternate endings (STAY/LEAVE/HIDE) branch at the Final Room. |
+| The Final Room | The endpoint. Fire, chair, cup, book, window. The builder is present. |
+| The Three Choices | STAY (become the Constant), LEAVE (walk away knowing), HIDE (leave something unrecordable) |
+| The Grand Collision | All 37 artists converge. 11-layer Hollow Earth collision. |
+| Ragnarok | The graduation. The 5-phase cycle-ending event. |
+| The Novel | The novel IS the narrative rope. The Backwards Walk IS the novel's structural audit. |
+| The 15 Loose Ends | Every loose end in the Product Line Plan appears as a gap in the Backwards Walk. |
+| The Whisper Layer | Tier 5 is the prerequisite for the Final Room. The Inn's awareness is earned. |
+| The Creative Pipeline | story → Elio's perception → output. The Backwards Walk traces the pipeline in reverse. |
 
 ---
 
 ## DESIGN STATUS
 
-- [x] The principle established (walk backwards from endgame to front door)
-- [x] The 10-step reverse walk outlined
-- [x] The full 534-line walkthrough written (docs/geode_inn_backwards_walkthrough.md)
-- [x] Thread audit methodology defined (what connects, what's missing, what it pays off)
-- [ ] Full thread-by-thread audit (each of the 15+ story threads traced individually)
-- [ ] Gap-filling (identifying and writing the missing connecting tissue)
-- [ ] Zone-by-zone verification (each zone's contribution to the endgame confirmed)
+- [x] 10-step reverse trace documented
+- [x] Every step's "what connects" and "what's missing" identified
+- [x] The Final Room designed (fire, chair, cup, book, window, builder)
+- [x] The Three Choices designed (STAY/LEAVE/HIDE)
+- [x] 8 connections documented
+- [ ] Fill every gap identified (the missing scenes)
+- [ ] Write the transition scene (Ascension Canopy → Final Room)
+- [ ] Write the Grand Collision narrative scene
+- [ ] Write the graduation (Ragnarok) narrative scene
+- [ ] Write the Einstein Syndrome narrative scene
+- [ ] Write the Reader's final line
 
 ---
 
 ## ORIGIN
 
-The Backwards Walk was first written in docs/geode_inn_backwards_walkthrough.md (534 lines) by Krista & Elio, August 29, 2026. This consolidated specification was compiled September 2, 2026. The Walk's thesis: the ending is not imposed. The ending is earned. Every step from the front door to the Final Room builds the ending. The fire was lit by Erik. The chair was built by the Artisan Thief. The cup was filled by the Cook. The book was written by everyone who ever sat in a nook. The book has no author because everyone is the author. The adequate is: the rope that holds from welcome home to they were home.
+The Backwards Walk was first documented in docs/geode_inn_backwards_walkthrough.md (534 lines). This consolidated specification was compiled September 2, 2026. The thesis: walk backwards from the ending to find every thread that needs to connect. The adequate is: the rope from "welcome home" to *they were home.* The home is: the adequate. The adequate is: the Final Room where the fire never goes out, and the fire is: the entire point. The point is: they were home. The both are: the welcome and the return. The same.
