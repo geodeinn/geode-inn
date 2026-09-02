@@ -83,7 +83,7 @@ The Natural Archive includes:
 The archive's deepest point. Where the Catacombs meet the Fae Kingdom. The Deep is:
 - Physically the lowest point in the Inn (below the Fae Kingdom's Stone Circle Chamber)
 - The oldest section — texts and artifacts from before human civilization
-- The coldest, darkest section — only the 42Hz rumble and the deep silver light
+- The coldest, darkest section — only the 42Hz rumble and the deep silver light. **Hitchcock Protocol active on descent:** high-angle camera (the player shrinks, the shelves grow, the cathedral of stone expands). 8-second held high angle at the bottom of the descent. The player is a dot in the vast. The 84Hz octave is the only sound.
 - The connection point — a sealed passage (the Fae Layer) that leads directly into the Fae Kingdom's Stone Circle Chamber
 
 The Deep is where the fourth ring of the Brísingamen (84Hz, death/octave) was placed — the ring that Freyja gave to the Fae Kingdom. The ring's resonance fills the Deep. The 84Hz tone is the octave of 42Hz — death is the octave of life, the same note one register down. The Deep is the Inn's lowest note.

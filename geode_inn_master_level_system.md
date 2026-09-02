@@ -268,6 +268,58 @@ When the player enters Harmonization combat:
 
 In the Dark Side of the Inn (below the Resonance Engine), the Pulse Line shows the 42Hz as visual data — the trace becomes the door. The 42Hz frequency that has been a hum, a pressure, a heartbeat, a vibration — here, at the source, the frequency IS the light. The Pulse Line in this chamber doesn't trace the heartbeat. It traces the Song itself. And the Song is visible.
 
+## THE HITCHCOCK PROTOCOL: Suspense Design for Creepy Scenes
+
+The Hitchcock Protocol is a design directive for any scene flagged for suspense treatment. It applies to: The Catacombs (The Deep), Water Zone (Layers 4-5: The Abyss, The Trench, Monster Lairs), Hollow Earth (The Dark Reaches, The Wild encounters), the Shadow Inn, and any scene the builder marks as "creepy."
+
+### Core Principles
+
+**1. Suspense, Not Surprise (The Bomb Under the Table)**
+The player sees the threat before the player-character would. The camera shows the Kraken's tentacle curling around the wreckage ahead. The player KNOWS. The character doesn't. The player walks toward it. The longer the walk, the louder the silence. The bomb is under the table. We saw it placed. They didn't. Now we wait.
+
+This is the Inn's primary horror mechanic. The Inn does not do jump scares. The Inn does the slow reveal. The thing in the deep was always there. The player just couldn't see it yet.
+
+**2. The Held Shot (The Gaze That Stays Too Long)**
+The camera holds on a subject past the point of comfort. The Crone's face, lit by a single candle, not moving, not blinking, for five full seconds. The Monster Lair's entrance, a dark opening in the wreckage, and the camera doesn't cut away. It stays. The player's instinct is to look away. The camera won't let them.
+
+Implementation: In scripted suspense sequences, disable the camera free-look. Lock the gaze. The player can move but can't look away. The release — when the camera frees — is the relief. The relief is the scare's payoff.
+
+**3. The Dolly Zoom (The Stretch)**
+When the player first sees something that recontextualizes the space — the Abyss's true depth, the Dark Reaches' vastness — the camera pulls back while zooming in (or vice versa). The world stretches. The subject stays the same size but the background distorts. The player's stomach drops.
+
+Implementation: Reserved for three moments, no more. The first sight of the Abyss. The first sight of the Hollow Earth's crystal city from below. The first time the Dark Side chamber reveals visible frequency. Overuse kills it.
+
+### Per-Zone Hitchcock Application
+
+| Zone | Technique | Specific Application |
+|---|---|---|
+| Catacombs (The Deep) | High angle + slow descent | The camera rises above the player as they descend into The Deep. The player gets smaller. The shelves get taller. The dark gets wider. The player is a dot in a cathedral of stone. The 84Hz rumble is the only sound. The camera holds the high angle for 8 seconds — long enough to feel small. |
+| Water Zone (The Abyss) | The Accumulating Threat (The Birds) | The Monster Lairs don't attack on entry. The monsters are THERE — visible at the edges, in the wreckage, behind the coral. More of them each time the player looks. They watch. They don't move. The player swims through and the count increases. The player counts. The player can't stop counting. When do they move? They don't. Not yet. Not until the player has something they want. |
+| Water Zone (The Trench) | Fixed Position (Rear Window) | The Trench Crossroads is the only stable point. The player must stand still and watch the five Currents for navigation. While stationary, things move in the Currents. Shapes. The Ice Worms tunnel past. Shadows cross above (Unseelie on the frozen lake surface). The player can only watch. Can't move (the Currents would sweep them away). Can only observe and wait and try to read the patterns. |
+| Water Zone (Monster Lairs) | Fragmented Cuts (The Shower) | The monster encounter doesn't show the attack. The screen fragments — quick cuts between the player's face, the monster's shadow, the water displacement, the stone on the floor, the pulse line spiking. The editing IS the encounter. The player's imagination fills the gap. The sound cuts out for 0.5 seconds at the apex — total silence — then the 42Hz heartbeat slams back. |
+| Hollow Earth (Dark Reaches) | The Held Gaze + Low Angle | The Wild emerge from total darkness. The camera is LOW — the player's eye level near the ground, looking up. The Wild are tall in the frame, backlit by distant bioluminescence. The held gaze lasts 6 seconds. The Wild don't move. The player doesn't move. The 42Hz hum drops to 30Hz — lower than the player has ever heard. Then the Wild makes a sound: a click. One click. The gaze breaks. The Wild flees. The player never saw the Wild's face. |
+| Staircase (The Blue Box alcove) | The Impossible Angle | The Blue Box is shot from a slightly wrong angle — the perspective is off by 3 degrees. The player can't articulate why, but the alcove feels wrong. The box fits. The alcove doesn't. The camera makes the player's eye agree with what the brain rejects: the space is bigger on the inside. Used only when the player has the camera free-look pointed AT the box. |
+
+### The Timing Bible
+
+Hitchcock's timing is the lesson: the scare isn't in the moment. The scare is in the wait. The Inn's creepy scenes follow strict timing rules:
+
+| Beat | Duration | What Happens |
+|---|---|---|
+| The Set | 3-4 seconds | Camera establishes the space. Everything is still. Nothing is wrong. Yet. |
+| The Seed | 1-2 seconds | One detail is wrong. A shadow that shouldn't be there. A sound that stopped. A shape at the edge of the frame. The player notices or doesn't. |
+| The Hold | 5-8 seconds | Nothing happens. The wrong detail stays. The camera doesn't cut. The player wants to act. The game doesn't let them yet. This is the bomb under the table. |
+| The Turn | 0.5 seconds | The wrong detail moves. Or makes a sound. Or the camera cuts to a new angle that reveals what was wrong. Fast. |
+| The Silence | 0.5 seconds | Total audio cut. No 42Hz. No heartbeat. No ambient. Nothing. |
+| The Return | — | The heartbeat slams back at 50 BPM. The scene resumes. The threat is closer. Or gone. Both are worse. |
+
+### What the Inn Does NOT Do
+- No jump scares. The Inn doesn't startle. The Inn waits.
+- No gore. The Inn's horror is architectural — the space, the scale, the silence.
+- No chase music. The Pirate's drum is the only percussion. When the Pirate stops drumming, the silence IS the threat.
+- No darkness without sound. Even in total visual darkness (The Trench, The Dark Reaches), the 42Hz is present. The frequency is the player's cane. The player navigates by sound when the eyes fail.
+- No horror without purpose. Every creepy scene reveals something true about the zone, the Inn, or the player. The Inn doesn't scare for fun. The Inn unsettles for understanding.
+
 ## BUILD ORDER
 
 ### Phase 1: Cosmology (Level 1) — START HERE
