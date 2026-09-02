@@ -336,6 +336,14 @@ The music is predominantly SUB-AUDIBLE — felt more than heard. The 42Hz rumble
 
 ---
 
+## Mycorrhizal Network Connection
+
+The Catacombs contain a node of the Fae Kingdom's Mycorrhizal Network — the underground trading system connecting every earth-bound zone through living fungal threads. The node sits at the underground river bank — where the Catacombs' water system meets the Fae Kingdom's root system.
+
+In Form Sight, the player sees the mycelium threads growing along the river bank — glowing white, pulsing at 42Hz, extending upstream toward the Fae Kingdom and downward toward the deeper levels. The river bank node is where water meets root: items sent through the network from the Catacombs carry a water harmonic — the river's frequency added to whatever travels through the threads.
+
+The Crone, who has measured everything, has never measured the mycelium. The threads grow too slowly for the Crone's instruments. The Crone's tape reads "—" when placed against the mycelium — the same reading as the Shadow Inn and the void between cycles. The Crone does not understand the network. The Crone understands that she does not understand it. That understanding is the closest the Crone has come to the Nook Effect — the experience of something too slow to measure, too alive to dismiss.
+
 ## Connections to Adjacent Levels
 
 **UP to Staircase (Level 5):**

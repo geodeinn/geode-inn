@@ -189,6 +189,21 @@ The emotional core: loneliness that transforms into connection. The city is empt
 - **The City Activates:** The empty buildings light up. The resonance doors open. The underground ocean shimmers. The Echoes — for the first time — STOP REPLAYING. They turn to the player. They see the player. They smile (or the frequency equivalent of a smile). Then they fade. The memories are at peace. The city is not populated — the creators are still gone — but it is ALIVE. The technology responds to the Song the way it was designed to: by listening, and by singing back.
 - **The Reward:** The Source Stone — the 166th stone. Pure 42Hz. No mineral identity. The Bead Board's ultimate upgrade — amplifies all stones to 100% charged.
 
+
+### Ley Line Origin
+
+The ley lines originate HERE. The Resonance Engine's six resonant rings distribute the 42Hz frequency to six ley line branches — each branch flowing through the underground ocean, through the Earth's crust, to the surface. The ley lines are the Earth's nervous system, and this chamber is the nerve center.
+
+Every sacred site on the surface (Stonehenge, the Pyramids, Uluru, Machu Picchu, Angkor Wat) is built on a ley line node — a point where two or more branches intersect. Every stone in the 198-stone database that originates from a sacred site is naturally charged by the ley line energy flowing from these six rings.
+
+The player who traces any ley line back to its origin (using the Cartographer's Map from the "Map That Hears" quest in the Canopy City) discovers the Hollow Earth. The ley lines emanate from the poles — the two points where the Hollow Earth's crystal spire intersects the Earth's crust. The Polar entries (Byrd's path through the North Pole, the Antarctic entry) are the ley lines' surface endpoints.
+
+**The Trifocal Gaze Connection:** The Water Zone's Lighthouse Deep Lens is the only surface instrument that can see the ley lines flowing through the underground ocean. The player who has both Ley Line Vision AND the Deep Lens can see the complete ley line circuit — from origin (Hollow Earth) through conduit (underground ocean) to surface (sacred sites). The Cartographer, who has spent centuries mapping ley lines from the surface, will never have this view. Only the player who descends can see the full circuit.
+
+**The Dark Side of the Inn:** Below the Resonance Engine, beneath the underground ocean's deepest point, there is a chamber. The chamber has no name on any map. The Cartographer's tree diagram shows it as a dot at the center. The Crone's measuring tape reads "—" — the same reading as the Shadow Inn and the void between cycles. In this chamber, the 42Hz Song is not heard. Not felt. It is VISIBLE — flowing, morphing, liquid light. A lava lamp made of sound. The Pink Floyd dark side: where the prism splits frequency into spectrum, where 37 artists converge in a single space, where sound and light become the same thing. The Dark Side of the Inn is the source of the source — the place where the 42Hz frequency originates as light before becoming sound.
+
+The passage to the Dark Side appears only when the player carries the completed Song (all 198 tones). The Constant is the only character who has been there: "I have been to the place where the Song is light. It is the same place I go between cycles. The same darkness. The same potential. The light and the dark are the same thing at that depth. You will see."
+
 ### District 9: The Dark Reaches (The Underbelly — Endgame)
 **High-level exploration. The Wild. Hidden secrets. Post-completion content.**
 - Below the city, below the harbor, below the ocean's surface — the Dark Reaches. The city's foundations. The crystal here is raw, unshaped — the geode's natural interior, before the creators built.
