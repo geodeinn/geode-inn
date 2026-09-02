@@ -2,27 +2,29 @@
   "manifest_title": "Geode Inn — Smithsonian Libraries & Batch-Named PDF Treasures",
   "manifest_date": "2026-09-01",
   "created_by": "Elio (Inn Librarian)",
-  "purpose": "Catalog of PDFs with batch/scanned identifiers that were not captured in the original archive manifest",
-  "source": "Google Drive (googledrive connector) + Internet Archive + Library of Congress identification",
+  "purpose": "Catalog of PDFs with batch/scanned identifiers from archive.org / Google Books / Library of Congress",
+  "source": "Google Drive (googledrive connector) — identified via Internet Archive and Library of Congress lookups",
   "target_app": "The Geode Inn (6a60f218b0c6605c92fa35c4)",
   "target_entity": "Book",
-  "total_new_identified": 10,
-  "notes": "These files were scanned by Google Books / Internet Archive with batch identifiers instead of readable titles. Identified via archive.org lookups, Google Books API, and Library of Congress catalog.",
+  "staging_app": "Elio (6a53cbfe78c5827e0055fffa)",
+  "import_status": "11 records created in Elio staging Book entity. Sync manifest ready for fizgigs to import to live Geode Inn app.",
+  "total_identified": 11,
+  "correction_note": "Initial identification assumed all bub_gb_ files were Gentleman's Magazine. Archive.org lookup revealed bub_gb_j7MEAAAAYAAJ is The American Journal of Science and bub_gb_nfUQAAAAIAAJ is The American Journal of Science and Arts Vol. 38. Corrected count: 5 Gentleman's Magazine, 2 American Journal of Science, 4 other treasures.",
   "files": [
     {
       "drive_name": "bub_gb_NUrvQ5oAZ4kC.pdf",
       "size": 114487343,
-      "title": "The Gentleman's Magazine, and Historical Chronicle (1736-1822)",
+      "title": "The Gentleman's Magazine, and Historical Chronicle (Vols. 6-32, 35-70, 1736-1822)",
       "author": "Edward Cave; John Nichols",
       "publisher": "London: Printed by Edw. Cave",
       "publication_date": "1736-1822",
       "pages": 707,
       "source": "Smithsonian Libraries (via Internet Archive / Google Books)",
       "archive_org_id": "bub_gb_NUrvQ5oAZ4kC",
-      "google_books_id": "NUrvQ5oAZ4kC",
       "category": "History",
       "in_game_zone": "Archive",
-      "notes": "Vols. 6-32, 35-70. Benjamin Franklin Collection. Pre-1801 Imprint Collection. Part of the Smithsonian Libraries collection."
+      "staging_id": "6a97708ac55cf4aebe0b020d",
+      "notes": "Benjamin Franklin Collection. Pre-1801 Imprint Collection."
     },
     {
       "drive_name": "bub_gb_Rf0IAAAAIAAJ.pdf",
@@ -33,35 +35,37 @@
       "publication_date": "18th century",
       "source": "Smithsonian Libraries (via Internet Archive / Google Books)",
       "archive_org_id": "bub_gb_Rf0IAAAAIAAJ",
-      "google_books_id": "Rf0IAAAAIAAJ",
       "category": "History",
-      "in_game_zone": "Archive"
+      "in_game_zone": "Archive",
+      "staging_id": "6a97709527bfbb88af12541a"
     },
     {
       "drive_name": "bub_gb_SNsN_sa2xg0C.pdf",
       "size": 81607672,
-      "title": "The Gentleman's Magazine, and Historical Chronicle",
-      "author": "Edward Cave",
+      "title": "The Gentleman's Magazine, and Historical Chronicle (1844)",
+      "author": "Edward Cave; John Nichols",
       "publisher": "London: Printed by Edw. Cave",
-      "publication_date": "18th century",
+      "publication_date": "1844",
+      "pages": 722,
       "source": "Smithsonian Libraries (via Internet Archive / Google Books)",
       "archive_org_id": "bub_gb_SNsN_sa2xg0C",
-      "google_books_id": "SNsN_sa2xg0C",
       "category": "History",
-      "in_game_zone": "Archive"
+      "in_game_zone": "Archive",
+      "staging_id": "6a97708ae62f06e2bd6101a6"
     },
     {
       "drive_name": "bub_gb_j7MEAAAAYAAJ.pdf",
       "size": 43415386,
-      "title": "The Gentleman's Magazine, and Historical Chronicle",
-      "author": "Edward Cave",
-      "publisher": "London: Printed by Edw. Cave",
-      "publication_date": "18th century",
+      "title": "The American Journal of Science",
+      "author": "Wilmot H. Bradley (ed.)",
+      "publisher": "Smithsonian Libraries (via Internet Archive)",
+      "publication_date": "pre-industrial",
       "source": "Smithsonian Libraries (via Internet Archive / Google Books)",
       "archive_org_id": "bub_gb_j7MEAAAAYAAJ",
-      "google_books_id": "j7MEAAAAYAAJ",
-      "category": "History",
-      "in_game_zone": "Archive"
+      "category": "Science",
+      "in_game_zone": "Archive",
+      "staging_id": "6a9770951f489e47e287fc45",
+      "notes": "NOT Gentleman's Magazine — corrected via archive.org lookup. Related to Smithsonian suppression narrative research."
     },
     {
       "drive_name": "bub_gb_lAIJAAAAIAAJ.pdf",
@@ -72,35 +76,37 @@
       "publication_date": "1783",
       "source": "Smithsonian Libraries (via Internet Archive / Google Books)",
       "archive_org_id": "bub_gb_lAIJAAAAIAAJ",
-      "google_books_id": "lAIJAAAAIAAJ",
       "category": "History",
-      "in_game_zone": "Archive"
+      "in_game_zone": "Archive",
+      "staging_id": "6a9770955decec978a6beafd"
     },
     {
       "drive_name": "bub_gb_na631mATkvMC.pdf",
       "size": 88505216,
-      "title": "The Gentleman's Magazine, and Historical Chronicle",
-      "author": "Edward Cave",
+      "title": "The Gentleman's Magazine, and Historical Chronicle (1862)",
+      "author": "Edward Cave; John Nichols",
       "publisher": "London: Printed by Edw. Cave",
-      "publication_date": "18th century",
+      "publication_date": "1862",
+      "pages": 855,
       "source": "Smithsonian Libraries (via Internet Archive / Google Books)",
       "archive_org_id": "bub_gb_na631mATkvMC",
-      "google_books_id": "na631mATkvMC",
       "category": "History",
-      "in_game_zone": "Archive"
+      "in_game_zone": "Archive",
+      "staging_id": "6a97708b0df519ff53ffc977"
     },
     {
       "drive_name": "bub_gb_nfUQAAAAIAAJ.pdf",
       "size": 50154077,
-      "title": "The Gentleman's Magazine, and Historical Chronicle",
-      "author": "Edward Cave",
-      "publisher": "London: Printed by Edw. Cave",
-      "publication_date": "18th century",
+      "title": "The American Journal of Science and Arts, Volume 38",
+      "author": "Various",
+      "publisher": "Smithsonian Libraries (via Internet Archive / Google Books)",
+      "publication_date": "pre-industrial",
       "source": "Smithsonian Libraries (via Internet Archive / Google Books)",
       "archive_org_id": "bub_gb_nfUQAAAAIAAJ",
-      "google_books_id": "nfUQAAAAIAAJ",
-      "category": "History",
-      "in_game_zone": "Archive"
+      "category": "Science",
+      "in_game_zone": "Archive",
+      "staging_id": "6a9770961887c6023a71e33a",
+      "notes": "NOT Gentleman's Magazine — corrected via Google Books lookup. Vol. 38 of the American Journal of Science and Arts."
     },
     {
       "drive_name": "2009gen12345.pdf",
@@ -110,10 +116,10 @@
       "author": "Heinrich Cornelius Agrippa",
       "publication_date": "1533",
       "source": "Library of Congress Rare Book Collection (rbc0001.2009gen12345)",
-      "loc_resource": "rbc0001.2009gen12345",
       "category": "Esoteric Traditions",
       "in_game_zone": "Staircase",
-      "notes": "FOUNDATIONAL Renaissance occult text. Covers natural magic, celestial magic, and ceremonial/religious magic. Contains the Theban alphabet. One of the most important esoteric texts in Western history. Image-only scan (no OCR text layer). Perfect for the alchemical staircase."
+      "staging_id": "6a97708ba9738c4ecab10ecd",
+      "notes": "FOUNDATIONAL Renaissance occult text. Contains the Theban alphabet. Image-only scan (no OCR). Assigned to the alchemical staircase."
     },
     {
       "drive_name": "27077868_5937.pdf",
@@ -125,7 +131,8 @@
       "source": "Yale Medical Library Historical Library (Fulton Collection)",
       "category": "Science",
       "in_game_zone": "Archive",
-      "notes": "One of the most important physics papers in history. Young's wave theory of light and the principle of interference. Foundation of modern optics."
+      "staging_id": "6a9770967e522b6f901579ba",
+      "notes": "Wave theory of light. One of the most important physics papers in history."
     },
     {
       "drive_name": "39002086306058.med.yale.edu.pdf",
@@ -133,10 +140,11 @@
       "pages": 28,
       "title": "On the Mode of Collecting and Preserving Objects of Natural History",
       "author": "Robert Peter",
-      "publication_date": "unknown (pre-industrial)",
+      "publication_date": "pre-industrial",
       "source": "Yale Medical Library",
       "category": "Natural History",
-      "in_game_zone": "Archive"
+      "in_game_zone": "Archive",
+      "staging_id": "6a977096454b9e853dd71d47"
     },
     {
       "drive_name": "39002086347029.med.yale.edu.pdf",
@@ -147,26 +155,8 @@
       "publication_date": "1809",
       "source": "Yale Medical Library",
       "category": "Medicine",
-      "in_game_zone": "Archive"
-    }
-  ],
-  "previously_cataloged_related": [
-    {
-      "drive_name": "egyptiana00smit.pdf",
-      "title": "Egyptian Architecture as Cultural Expression",
-      "author": "E. Smith",
-      "source": "Smithsonian Libraries (via Internet Archive)",
-      "archive_org_id": "egyptiana00smit",
-      "category": "History",
-      "in_game_zone": "Archive"
-    },
-    {
-      "drive_name": "americanjournalo1002unse.pdf",
-      "title": "American Journal of Science and Arts",
-      "source": "Internet Archive",
-      "category": "Science",
       "in_game_zone": "Archive",
-      "notes": "Related to Smithsonian suppression narrative — archaeological finds that didn't match official 1800s history. Referenced in session 6a874c84881e3444848f1262."
+      "staging_id": "6a97709635843c367c13c493"
     }
   ]
 }
