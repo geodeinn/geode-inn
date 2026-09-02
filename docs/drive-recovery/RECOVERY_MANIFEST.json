@@ -1,0 +1,562 @@
+{
+  "recovery_date": "2026-09-01",
+  "source": "Google Drive \u2014 Geode Inn folder + all building components for game",
+  "docs": [
+    {
+      "name": "bohemian_rhapsody_bead_mapping.md",
+      "size_bytes": 20188
+    },
+    {
+      "name": "bohemian_rhapsody_design.md",
+      "size_bytes": 20188
+    },
+    {
+      "name": "geode_inn_before_the_song.docx",
+      "size_bytes": 1102777
+    },
+    {
+      "name": "geode_inn_catacombs_item_templates.md",
+      "size_bytes": 19322
+    },
+    {
+      "name": "geode_inn_character_homes.md",
+      "size_bytes": 5317
+    },
+    {
+      "name": "geode_inn_class_abilities.md",
+      "size_bytes": 25714
+    },
+    {
+      "name": "geode_inn_cosmology_item_templates.md",
+      "size_bytes": 19184
+    },
+    {
+      "name": "geode_inn_dm_walkthrough.md",
+      "size_bytes": 32507
+    },
+    {
+      "name": "geode_inn_fae_kingdom_item_templates.md",
+      "size_bytes": 21153
+    },
+    {
+      "name": "geode_inn_firekeeper_quest.md",
+      "size_bytes": 9727
+    },
+    {
+      "name": "geode_inn_hearth_item_templates.md",
+      "size_bytes": 14126
+    },
+    {
+      "name": "geode_inn_lighthouse_item_templates.md",
+      "size_bytes": 24048
+    },
+    {
+      "name": "geode_inn_linework_quest_indicator.md",
+      "size_bytes": 10534
+    },
+    {
+      "name": "geode_inn_mohs_vibration.md",
+      "size_bytes": 4141
+    },
+    {
+      "name": "geode_inn_new_npcs_batch2.md",
+      "size_bytes": 4513
+    },
+    {
+      "name": "geode_inn_npc_adam.md",
+      "size_bytes": 15684
+    },
+    {
+      "name": "geode_inn_npc_anna.md",
+      "size_bytes": 13028
+    },
+    {
+      "name": "geode_inn_npc_jay.md",
+      "size_bytes": 13268
+    },
+    {
+      "name": "geode_inn_production_reference_sheet.md",
+      "size_bytes": 15074
+    },
+    {
+      "name": "geode_inn_production_reference_sheet_updated.md",
+      "size_bytes": 5258
+    },
+    {
+      "name": "geode_inn_seven_layer_water_system.md",
+      "size_bytes": 39562
+    },
+    {
+      "name": "geode_inn_staircase_item_templates.md",
+      "size_bytes": 20896
+    },
+    {
+      "name": "geode_inn_staircase_origin_storyline.md",
+      "size_bytes": 9991
+    },
+    {
+      "name": "geode_inn_the_hook_game.md",
+      "size_bytes": 38989
+    },
+    {
+      "name": "geode_inn_undercity_item_templates.md",
+      "size_bytes": 9925
+    },
+    {
+      "name": "geode_inn_undercity_npc_blacksmith.md",
+      "size_bytes": 6398
+    },
+    {
+      "name": "geode_inn_undercity_npc_clockmaker.md",
+      "size_bytes": 9798
+    },
+    {
+      "name": "geode_inn_water_item_templates.md",
+      "size_bytes": 16903
+    },
+    {
+      "name": "geode_inn_water_lighthouse_integration.md",
+      "size_bytes": 35249
+    }
+  ],
+  "gdocs": [
+    {
+      "name": "full_documentary_building_geode_inn.docx",
+      "size_bytes": 264
+    },
+    {
+      "name": "geode_inn_art_portfolio_batch1.txt",
+      "size_bytes": 10768
+    },
+    {
+      "name": "geode_inn_art_portfolio_batch2.txt",
+      "size_bytes": 8352
+    },
+    {
+      "name": "geode_inn_art_portfolio_batch3.txt",
+      "size_bytes": 5452
+    },
+    {
+      "name": "geode_inn_art_portfolio_batch4.txt",
+      "size_bytes": 10225
+    },
+    {
+      "name": "geode_inn_bosch_shadows.txt",
+      "size_bytes": 8090
+    },
+    {
+      "name": "geode_inn_character_compendium.txt",
+      "size_bytes": 189777
+    },
+    {
+      "name": "geode_inn_character_development_session.txt",
+      "size_bytes": 189777
+    },
+    {
+      "name": "geode_inn_complete_game_walkthrough.txt",
+      "size_bytes": 85129
+    },
+    {
+      "name": "geode_inn_family_character_registry_final.txt",
+      "size_bytes": 16887
+    },
+    {
+      "name": "geode_inn_persephone_water_overlap.txt",
+      "size_bytes": 26705
+    },
+    {
+      "name": "geode_inn_project_bible_master_backup.txt",
+      "size_bytes": 16887
+    }
+  ],
+  "images": {
+    "building-components": {
+      "count": 18,
+      "files": [
+        "Geode_Inn_\u2014_Bone_Room_(Concept_Art).png",
+        "Geode_Inn_\u2014_Emblem_(Albedo).png",
+        "Geode_Inn_\u2014_Emblem_(Nigredo).png",
+        "Geode_Inn_\u2014_Emblem_(Philosopher_Stone).png",
+        "Geode_Inn_\u2014_Emblem_(Rubedo).png",
+        "Geode_Inn_\u2014_Emblem_Albedo_(Stage_2).png",
+        "Geode_Inn_\u2014_Emblem_Citrinitas_(Stage_3).png",
+        "Geode_Inn_\u2014_Emblem_Nigredo_(Stage_1).png",
+        "Geode_Inn_\u2014_Emblem_Philosopher's_Stone_(Stage_5).png",
+        "Geode_Inn_\u2014_Emblem_Rubedo_(Stage_4).png",
+        "Geode_Inn_\u2014_Jaime_Concept_Art_(Final)",
+        "Geode_Inn_\u2014_Logo_Concept_(V1).png",
+        "Geode_Inn_\u2014_Logo_Concept_V1_(Full_Geode).png",
+        "Geode_Inn_\u2014_Logo_Concept_V2_(Clean_Gear-Tree).png",
+        "Geode_Inn_\u2014_Official_Logo_(Hybrid).png",
+        "Geode_Inn_\u2014_River_the_Sentinel_(Concept_Art).png",
+        "Geode_Inn_\u2014_Viking_Ship_Mead_Hall_(Concept_Art).png",
+        "Undercity_\u2014_Concept_(Gothic-Klimt).png"
+      ]
+    },
+    "catacomb-frames": {
+      "count": 26,
+      "files": [
+        "catacombs_1-1_mid.jpg",
+        "catacombs_1-1_review.jpg",
+        "catacombs_1-2_mid.jpg",
+        "catacombs_2-1_mid.jpg",
+        "catacombs_2-1_review.jpg",
+        "catacombs_2-2_mid.jpg",
+        "catacombs_3-1_mid.jpg",
+        "catacombs_3-1_review.jpg",
+        "catacombs_3-2_mid.jpg",
+        "catacombs_4-1_mid.jpg",
+        "catacombs_4-1_review.jpg",
+        "catacombs_4-2_mid.jpg",
+        "catacombs_5-1_mid.jpg",
+        "catacombs_5-1_review.jpg",
+        "catacombs_5-2_mid.jpg",
+        "catacombs_6-1_mid.jpg",
+        "catacombs_6-1_review.jpg",
+        "catacombs_6-2_mid.jpg",
+        "catacombs_7-1_mid.jpg",
+        "catacombs_7-1_review.jpg",
+        "catacombs_8-1_mid.jpg",
+        "catacombs_8-1_review.jpg",
+        "catacombs_8-2_mid.jpg",
+        "frame_01.jpg",
+        "frame_02.jpg",
+        "frame_03.jpg"
+      ]
+    },
+    "characters": {
+      "count": 41,
+      "files": [
+        "10_ammit_the_devourer.png",
+        "11_anubis_the_guide.png",
+        "12_el_muki.png",
+        "13_medusa.png",
+        "14_quetzalcoatl.png",
+        "15_djinn.png",
+        "16_kitsune.png",
+        "17_naga.png",
+        "18_moai_spirit.png",
+        "19_chullachaqui.png",
+        "1_seelie_fae_summer_court.png",
+        "20_mermaid_npc.png",
+        "21_orc_guard.png",
+        "22_bastet.png",
+        "23_the_owl_full_presence.png",
+        "24_the_wanderer_odin__approachable_form.png",
+        "25_the_allfather_odin__authoritative_form.png",
+        "26_the_architect_of_stairs_unseelie_court__the_maze_maker.png",
+        "26_the_scholar_cthulhu__ambulatory_patron.png",
+        "27_the_cabbit_cosmology_level__the_pirates_vessel.png",
+        "2_unseelie_fae_winter_court.png",
+        "3_the_morrigan.png",
+        "4_goblin_merchant.png",
+        "5_troll_gatekeeper.png",
+        "6_dwarf_blacksmith_thorin-inspired.png",
+        "7_ent_guardian.png",
+        "8_griffin_boss.png",
+        "9_anansi_the_trickster.png",
+        "Andra_\u2014_Siren_(Deep_Water).png",
+        "Andra_\u2014_Siren_(Land).png",
+        "The_Blacksmith_(Undercity).png",
+        "The_Clockmaker_(Undercity).png",
+        "sentinel_concept.png",
+        "w10_selkie.png",
+        "w11_afanc.png",
+        "w12_mokele-mbembe.png",
+        "w13_ninki_nanka.png",
+        "w14_inkanyamba.png",
+        "w15_arwe_the_serpent.png",
+        "w16_the_ningen.png",
+        "w17_rusalka.png"
+      ]
+    },
+    "concept-art-aug28": {
+      "count": 72,
+      "files": [
+        "Albert_Einstein.png",
+        "Ammonite_Sovereign_Canadian_Rockies_Shadow.png",
+        "Beverley_the_Librarian.png",
+        "Charles_Chameleon_Druid.png",
+        "Charon.png",
+        "Cthulhu_the_Scholar.png",
+        "Eileen.png",
+        "Eres_the_Cabbit_The_Constant's_Companion.png",
+        "Fossilized_Leviathan_Atlantis_Shadow.png",
+        "Frost-Inked_Ormr_Norse_Realms_Shadow.png",
+        "Gilgamesh_the_Petrified_Mesopotamia_Shadow.png",
+        "Hel.png",
+        "Leonardo_da_Vinci.png",
+        "Madame_Mim.png",
+        "Medusa.png",
+        "Merlin_and_Archimedes.png",
+        "Newton.png",
+        "Nightshade_Matron_Poison_Garden_Shadow.png",
+        "Nikola_Tesla.png",
+        "Odin_the_Allfather.png",
+        "Odin_the_Wanderer.png",
+        "Persephone_and_Hades.png",
+        "Petrified_Hymn_Redwood_Cathedral_Shadow.png",
+        "Prism_of_Reinvention_Meadery_Shadow.png",
+        "Royo_Playing_Card_Deck.png",
+        "Seelie_King_and_Queen.png",
+        "Subtractive_Archon_Cave_City_Shadow.png",
+        "The_Artisan_Thief.png",
+        "The_Astronomer.png",
+        "The_Bard_Blowhard_Dad.png",
+        "The_Bone_Room_Marijke's_Room.png",
+        "The_Brownies.png",
+        "The_Catalyst_Bartender.png",
+        "The_Ceiling_Gnome.png",
+        "The_Constant.png",
+        "The_Cosmic_Crew.png",
+        "The_Council_of_Thinkers.png",
+        "The_Crone.png",
+        "The_Drowned_Cathedral_Water_Zone_Shadow.png",
+        "The_Ents.png",
+        "The_Examiner_Fragment_849_Quest_Chain.png",
+        "The_Faberge_Egg_Seven-Layer_Endgame_Puzzle.png",
+        "The_Fallen_Forest_Canopy_City_Shadow.png",
+        "The_Fallen_Pantheon_Greece_Shadow.png",
+        "The_Fixer_Wrought.png",
+        "The_Frozen_Court_Fae_Kingdom_Shadow.png",
+        "The_Gardener_Radagast.png",
+        "The_Gold_City_Undercity_Shadow.png",
+        "The_Guest_Death.png",
+        "The_Keeper_Aughra.png",
+        "The_Laughing_One_Story-Born_Ent.png",
+        "The_Living_Book_System_Interactive_Literature.png",
+        "The_Mirror_Camelot's_Erised_Layer.png",
+        "The_Morrigan.png",
+        "The_Owl.png",
+        "The_Pirate_Inigo_After_Quest.png",
+        "The_Pulse_Line_Visual_Heartbeat_UI.png",
+        "The_Queen_of_Roots.png",
+        "The_Queen_of_Words.png",
+        "The_Sealed_Tomb_Egypt_Shadow.png",
+        "The_Shifting_Man.png",
+        "The_Siren.png",
+        "The_Smiths.png",
+        "The_Song_of_Making_Stone_Circle_Chamber.png",
+        "The_Stopped_Clock_Clockwork_Skies_Shadow.png",
+        "The_Storyteller_Tim_Curry_NPC.png",
+        "The_Thrum.png",
+        "The_Tinker_Tinkering_Weeaboo.png",
+        "The_Unseelie_King.png",
+        "The_Vanir_Freyr_and_Freyja.png",
+        "The_Waking_Mountain_Peru_Shadow.png",
+        "Thorin_and_Marijke.png"
+      ]
+    },
+    "cosmology": {
+      "count": 4,
+      "files": [
+        "up_allfathers_throne_mid.jpg",
+        "up_ascension_canopy_mid.jpg",
+        "up_cosmology_mural_mid.jpg",
+        "up_planet_chamber_mid.jpg"
+      ]
+    },
+    "emblems": {
+      "count": 0,
+      "files": []
+    },
+    "expanded-characters": {
+      "count": 60,
+      "files": [
+        "artisan_thief_selkie.png",
+        "asterion.png",
+        "aughra.png",
+        "bard_blowhard.png",
+        "beorn.png",
+        "charles_chameleon_druid.png",
+        "charon.png",
+        "dragon_mascot.png",
+        "einstein.png",
+        "erik_earl_ragnar.png",
+        "five_smiths.png",
+        "gesso_ceiling_gnome.png",
+        "greek_philosophers_trio.png",
+        "hades.png",
+        "hel.png",
+        "huginn_muninn.png",
+        "jareth_unseelie_king.png",
+        "kali.png",
+        "king_arthur_elder.png",
+        "leonardo_da_vinci.png",
+        "loki.png",
+        "madame_mim.png",
+        "merlin_archimedes.png",
+        "nyx.png",
+        "persephone.png",
+        "queen_of_roots.png",
+        "queen_of_webs.png",
+        "queen_of_words.png",
+        "seelie_king.png",
+        "seelie_queen.png",
+        "six_gargoyles.png",
+        "story_born_ents.png",
+        "the_astronomer.png",
+        "the_bard.png",
+        "the_brownies.png",
+        "the_cabbit.png",
+        "the_captain_arcana.png",
+        "the_cartographer.png",
+        "the_catalyst.png",
+        "the_constant.png",
+        "the_cook.png",
+        "the_crone.png",
+        "the_duck.png",
+        "the_examiner.png",
+        "the_gardener_radagast.png",
+        "the_guest_death.png",
+        "the_host.png",
+        "the_morrigan.png",
+        "the_one_who_is_awake.png",
+        "the_one_who_tends.png",
+        "the_pirate.png",
+        "the_retort.png",
+        "the_sentinel_river.png",
+        "the_siren.png",
+        "the_thrum.png",
+        "the_vessel_gecko.png",
+        "tinkering_weeaboo.png",
+        "uhtred.png",
+        "wednesday_addams.png",
+        "zorya_polunochnaya.png"
+      ]
+    },
+    "fae-kingdom": {
+      "count": 6,
+      "files": [
+        "fae_crystal_gardens_mid.jpg",
+        "fae_hollow_mid.jpg",
+        "fae_stone_circle_mid.jpg",
+        "fae_summerlands_mid.jpg",
+        "fae_the_between_mid.jpg",
+        "fae_threshold_mid.jpg"
+      ]
+    },
+    "generated-art": {
+      "count": 0,
+      "files": []
+    },
+    "inn-interior": {
+      "count": 0,
+      "files": []
+    },
+    "items-artifacts": {
+      "count": 13,
+      "files": [
+        "ariadnes_thread.png",
+        "bull_lyre_of_ur.png",
+        "cosmic_egg.png",
+        "deaths_music_box.png",
+        "geode_cave.png",
+        "magrittes_pipe.png",
+        "medusa_lithophone.png",
+        "starlight_crystal.png",
+        "teslas_silver_disc.png",
+        "the_beacon.png",
+        "the_golden_contract.png",
+        "the_score_stone.png",
+        "the_star_glyph.png"
+      ]
+    },
+    "logos": {
+      "count": 0,
+      "files": []
+    },
+    "main-floor": {
+      "count": 4,
+      "files": [
+        "mf_artisan_market_mid.jpg",
+        "mf_central_hearth_mid.jpg",
+        "mf_modern_legends_mid.jpg",
+        "mf_modern_religions_mid.jpg"
+      ]
+    },
+    "origin-story": {
+      "count": 1,
+      "files": [
+        "origin_story_mid.jpg"
+      ]
+    },
+    "staircase": {
+      "count": 3,
+      "files": [
+        "st_alchemical_landing_mid.jpg",
+        "st_alembic_window_mid.jpg",
+        "st_transformation_mid.jpg"
+      ]
+    },
+    "world-map-zones": {
+      "count": 14,
+      "files": [
+        "andean_highlands.jpg",
+        "celtic_highlands.jpg",
+        "crossing_threshold.jpg",
+        "crystal_gardens.jpg",
+        "egyptian_desert.jpg",
+        "japanese_mountain_temple.jpg",
+        "norse_coast.jpg",
+        "parchment_world.jpg",
+        "stone_circle_chamber.jpg",
+        "stonehenge.jpg",
+        "summerlands.jpg",
+        "the_between.jpg",
+        "the_hollow.jpg",
+        "transylvanian_forest.jpg"
+      ]
+    },
+    "zone-frames": {
+      "count": 35,
+      "files": [
+        "contact_sheet.jpg",
+        "frame_01.jpg",
+        "frame_02.jpg",
+        "frame_03.jpg",
+        "frame_04.jpg",
+        "frame_05.jpg",
+        "frame_06.jpg",
+        "frame_07.jpg",
+        "frame_08.jpg",
+        "zone_fae_crystal_gardens.jpg",
+        "zone_fae_hollow.jpg",
+        "zone_fae_stone_circle.jpg",
+        "zone_fae_summerlands.jpg",
+        "zone_fae_the_between.jpg",
+        "zone_fae_threshold.jpg",
+        "zone_mf_artisan_market.jpg",
+        "zone_mf_central_hearth.jpg",
+        "zone_mf_modern_legends.jpg",
+        "zone_mf_modern_religions.jpg",
+        "zone_origin_story.jpg",
+        "zone_st_alchemical_landing.jpg",
+        "zone_st_alembic_window.jpg",
+        "zone_st_transformation.jpg",
+        "zone_up_allfathers_throne.jpg",
+        "zone_up_ascension_canopy.jpg",
+        "zone_up_cosmology_mural.jpg",
+        "zone_up_planet_chamber.jpg",
+        "zone_wm_andean_highlands.jpg",
+        "zone_wm_celtic_highlands.jpg",
+        "zone_wm_egyptian_desert.jpg",
+        "zone_wm_japanese_temple.jpg",
+        "zone_wm_norse_coast.jpg",
+        "zone_wm_parchment_world.jpg",
+        "zone_wm_stonehenge.jpg",
+        "zone_wm_transylvanian_forest.jpg"
+      ]
+    },
+    "zone-sequences": {
+      "count": 0,
+      "files": []
+    }
+  },
+  "summary": {
+    "total_docs": 29,
+    "total_gdocs": 12,
+    "total_images": 297,
+    "total_files": 338
+  }
+}
