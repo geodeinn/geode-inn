@@ -116,6 +116,7 @@ The emotional core: loneliness that transforms into connection. The city is empt
 **Entry zone. Safe. No combat.**
 - The player arrives from the North Pole entry. A vast crystal cavern opening into the city's northern gate.
 - The first sight: the city skyline — crystal spires glowing from within, stretching into the violet-dark of the Hollow Earth's interior.
+  - **The Spielberg Moment:** The crystal's 42Hz hum is the source music — it has been growing louder since the player entered the polar tunnel. At first sight of the skyline, the hum is joined by a single violin — the Inn Song, beginning. Four seconds solo. The full Inn arrangement joins, one instrument at a time, over 15 seconds. Camera goes wide — the city holds for 10 seconds. Then drop-out: everything stops. The 42Hz crystal hum alone. The city is real. The hum is real. The music is what the player brings to it. Three seconds. The violin returns — alone — changed. The silence between drop and return has recontextualized the Song. The player is no longer hearing the Inn's music. The player is hearing their own.
 - No enemies. No NPCs. Just the city, silent and patient.
 - The 42Hz frequency is strong here — the player's stones visibly glow.
 - **Key Feature:** The First Echo — a memory-ghost standing at the gate, replaying the moment the creators sealed the city. The player can tune in and watch. This is the player's introduction to the Echo system.

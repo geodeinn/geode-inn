@@ -25,6 +25,16 @@ The player can enter through either. The Andean Vessel deposits the player at La
 
 ---
 
+## The Spielberg Moment: First Lighthouse View
+
+The first time the player sees the full Water Zone from the Lighthouse, the 42Hz deepens three seconds before anything changes. The player feels the floor hum lower. Then a single cello enters — Persephone's instrument. Four seconds alone. The arrangement builds: low brass (the depth), harp (the water surface), flute (the bioluminescence). Full assembly over 15 seconds.
+
+The Lighthouse beam sweeps across the 7-layer expanse. The camera goes wide. Hold for 12 seconds — the beam traveling from Surface to Source, the layers dimming from blue-green to black to crystal glow. The music holds full.
+
+When the beam reaches Layer 7 — The Source — the music drops out. Hard cut. Unresolved chord hangs. 42Hz alone. The Source is too fundamental for melody. Three seconds of the heartbeat. Then the cello returns — alone — in a lower register. The Source changed the music the way the Source changes everything.
+
+**Spielberg Protocol: Entry (heartbeat shift 3s before cello) + Wide Hold (12s) + Drop-Out at The Source + Return in lower register.**
+
 ## The 7-Layer Water System
 
 The Water Zone is structured as seven descending layers. Each layer is deeper, darker, and colder than the last. The layers connect to the real-world ocean's vertical zones, but themed through the Inn's mythology.

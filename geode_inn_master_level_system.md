@@ -320,6 +320,64 @@ Hitchcock's timing is the lesson: the scare isn't in the moment. The scare is in
 - No darkness without sound. Even in total visual darkness (The Trench, The Dark Reaches), the 42Hz is present. The frequency is the player's cane. The player navigates by sound when the eyes fail.
 - No horror without purpose. Every creepy scene reveals something true about the zone, the Inn, or the player. The Inn doesn't scare for fun. The Inn unsettles for understanding.
 
+## THE SPIELBERG PROTOCOL: Music Placement and Atmospheric Ambience
+
+The Spielberg Protocol is the Inn's directive for how music enters, fills, and leaves a scene. Where the Hitchcock Protocol governs suspense, the Spielberg Protocol governs feeling — the moments when the Inn takes your breath away, not by scaring you, but by showing you something beautiful.
+
+### Core Principles
+
+**1. The Hum Before the Theme (The Entry)**
+Music never starts at the moment of visual reveal. The 42Hz heartbeat — always present — shifts FIRST. A full 2-3 seconds before the theme begins, the heartbeat warms, or deepens, or quickens. The player feels the change before they hear the music. The body knows before the ears do.
+
+Then the theme enters — not at full volume, but as a single instrument. One cello. One flute. One low brass note. It plays alone for 4-6 seconds. Then the rest of the arrangement joins, one layer at a time, building to the full theme over 15-20 seconds. The music ARRIVES, like a guest at the Inn — one at a time, each instrument finding its seat.
+
+**2. The Wide Hold (The Awe Shot)**
+When the player sees something vast — the crystal city of the Hollow Earth, the full expanse of the Water Zone from the Lighthouse, the Cosmology canopy at night — the camera goes wide, the music reaches full arrangement, and everything HOLDS. No cuts. No new elements. Just the wide shot and the full theme for 8-12 seconds. The player is given time to FEEL the scale.
+
+The Spielberg move: don't rush the wonder. Let it sit. The music says "look at this" and then the music has the courtesy to shut up and let you look.
+
+**3. The Drop-Out (The Breath)**
+The most powerful Spielberg technique: the music stops. Not fades — stops. A hard cut to silence, mid-phrase, leaving an unresolved chord hanging in the air. The 42Hz heartbeat continues alone. The player hears the space the music left. The void where the melody was. This is the moment the character realizes something. The music stops because the feeling is too big for instruments.
+
+The drop-out lasts 3-5 seconds. Then the theme returns — but changed. A different key. A different instrument leads. The same melody, but the silence between the drop and the return has recontextualized it. The player heard the absence. The return means something different now.
+
+**4. The Distant Melody (Source Music)**
+Some music in the Inn is not score — it's source. The Pirate's drum is real — it's in the Lighthouse. The Firekeeper's hum is real — it's by the hearth. The Canopy City's wind chimes are real — they're in the Arcana's workshop. The music comes from a place.
+
+The Spielberg technique: when the player approaches the source, the music gets louder and more detailed. When the player moves away, it fades and simplifies. The music has geography. The player can walk toward music and away from it. The 50 BPM heartbeat is the only constant — everything else has a source.
+
+### Per-Zone Spielberg Application
+
+| Zone | Technique | Trigger | Music Behavior |
+|---|---|---|---|
+| Level 1 (Cosmology) | Wide Hold | First sight of the canopy at night | The Brisingamen chord enters one note at a time (4 voices over 20 seconds). Holds full for 10 seconds. Drops to silence when the player looks down at the Inn below. The chord returns in a lower register — the same melody seen from above. |
+| Level 2 (Clockwork Skies) | Source Music | Entering the Arcana's workshop | Wind chimes grow louder on approach. Inside the workshop, the chimes layer with gear ticks — mechanical and organic music blending. The Arcana's gearwork heartbeat (50 BPM) IS the tempo. Leaving the workshop, the chimes fade and the gearwork softens. |
+| Level 3 (Main Floor) | The Distant Melody | The Firekeeper's hearth | The Firekeeper hums. The hum is audible across the main hall — barely, a thread of sound. The player walks toward it. The hum grows. At the hearth, the hum is full, warm, a story without words. The player sits. The hum becomes the score. |
+| Level 4 (Campgrounds) | The Entry | Stepping outside the Inn | The 42Hz shifts — warmer, lighter. A single acoustic guitar enters (regional instrument from the current Canopy City region). 6 seconds alone. Then atmospheric layering — wind, birds, the canopy above — joins over 15 seconds. The outdoors has a theme that the indoors never uses. |
+| Level 5 (Staircase) | Ascending Build | Climbing the Staircase | Music enters at the base as a single cello. Each landing adds an instrument. The arrangement builds literally as the player climbs. At the top (Cosmology exit), the full orchestra. At the bottom (Catacombs descent), instruments drop away one by one until solo cello again — but in a lower register. The descent is the climb reversed, but lower. |
+| Level 6 (Catacombs) | The Drop-Out | Finding The Deep | The archive's ambient music (sparse, candlelit harp) plays during exploration. At the moment the player enters The Deep — the deepest section — the harp stops mid-phrase. An unresolved chord hangs. 5 seconds of 42Hz alone. Then a single low tone returns — 84Hz, the octave of death. The Deep has different music because The Deep is a different kind of place. |
+| Level 7 (Fae Kingdom) | Source Music | The Mycorrhizal Network hub | The network's fungal threads hum at 42Hz. This hum is source music — the player can hear it getting louder near the hub, softer at the edges. In the Seelie court, the hum harmonizes with wind through crystal leaves. In Unseelie, the hum drops to a sub-bass growl. The Between: both at once — the interference pattern IS the music. |
+| Level 8 (Water Zone) | The Entry + Wide Hold | First Lighthouse view of the full Water Zone | 42Hz deepens 3 seconds before the theme. A single cello enters (Persephone's instrument). 4 seconds alone. Full arrangement builds over 15 seconds. At the wide hold (the Lighthouse beam sweeping the 7-layer expanse), music holds full for 12 seconds. When the beam reaches Layer 7 (The Source), the music drops out. 42Hz alone. The Source is too fundamental for melody. |
+| Level 9 (Hollow Earth) | The Distant Melody + Drop-Out | First sight of the crystal city | The crystal's 42Hz hum IS the source music — it gets louder as the player approaches the city. At first sight of the skyline (spires glowing from within), the hum is joined by a single violin — the Inn Song, beginning. 4 seconds solo. Then the full Inn music joins. 10-second wide hold of the city. Then drop-out: everything stops. The 42Hz crystal hum alone. The city is real. The hum is real. The music is what the player brings to it. |
+
+### The Spielberg Timing Bible
+
+| Beat | Duration | What Happens |
+|---|---|---|
+| The Heartbeat Shift | 2-3 seconds | 42Hz changes quality — warmer, deeper, faster. The body knows before the ears. |
+| The Solo Entry | 4-6 seconds | A single instrument plays the theme. Alone. Finding the room. |
+| The Build | 15-20 seconds | One instrument at a time joins. The arrangement assembles. The player feels the music arriving. |
+| The Wide Hold | 8-12 seconds | Full arrangement. No cuts. No new elements. The music says: look. Then it lets you. |
+| The Drop-Out | 3-5 seconds | Hard stop. Unresolved chord. 42Hz alone. The feeling is bigger than instruments. |
+| The Return | — | Same melody. Different key. Different lead instrument. The silence changed what the music means. |
+
+### What the Inn Does NOT Do
+- No music that starts at the visual moment. The heartbeat always shifts first. The body before the ears.
+- No music that drowns the world. The 42Hz is always audible beneath the arrangement. The foundation is never buried.
+- no music without geography. Every piece has a source. The player can walk toward it and away from it.
+- No music that explains the feeling. The music creates the space for the feeling. The player fills it.
+- No music that outstays its welcome. When the moment passes, the music leaves. The 42Hz heartbeat is the only constant — the rest are guests.
+
 ## BUILD ORDER
 
 ### Phase 1: Cosmology (Level 1) — START HERE

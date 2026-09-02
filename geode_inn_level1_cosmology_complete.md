@@ -17,6 +17,16 @@ The player arrives through the top of the Staircase. The first thing seen: Freyr
 
 ---
 
+## The Spielberg Moment: First Sight of the Canopy at Night
+
+The first time the player reaches the Cosmology level at "night" (the canopy closes, the stars appear), the Brisingamen chord enters — not all at once, but one voice at a time. The 42Hz heartbeat warms two seconds before the first note. A single cello plays the root. Four seconds. A viola joins. Three seconds. A violin. Three seconds. A voice (no words). The chord is complete — four voices, 20 seconds to assemble.
+
+The camera goes wide. The full canopy of the tree, the stars between the branches, the glow of the cosmology level below. Hold for 10 seconds. No cuts. No new elements. The music lets the player look.
+
+When the player looks DOWN — toward the Inn below — the chord drops out. Two seconds of 42Hz alone. The chord returns in a lower register. The same melody, seen from above. The Inn looks different from the canopy. The music agrees.
+
+**Spielberg Protocol: Entry (hum before theme) + Wide Hold + Drop-Out on look-down.**
+
 ## Entry Requirement
 
 The Cosmology level is the hardest to reach. Not because of a locked door or a boss fight — because the player must have EARNED the understanding that the gods require.
