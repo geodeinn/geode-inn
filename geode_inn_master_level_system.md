@@ -218,8 +218,55 @@ The player progresses through the tree by unlocking zones. Each zone unlocked re
 | **Book Archive** | ❌ Entity exists but NOT YET POPULATED — archive.org materials pending |
 | **Book Translation** | ❌ Entity exists but NOT YET POPULATED |
 | **Scholarly Bridge** | ❌ Entity exists but NOT YET POPULATED |
+| **Silk Road Ley Lines** | ✅ Woven — ley line vision, stone charging, 12 primary nodes, Silk Road routes |
+| **Mycorrhizal Network** | ✅ Woven — Fae Kingdom hub, 7 zone nodes, Form Sight visible |
+| **World Grid** | ✅ Woven — 9 cultural regions, 3 gathering professions, Canopy City hub |
+| **Stone Capsules & Companions** | ✅ Woven — geode cave as PC box, Harmonization combat, water monster companions |
+| **Pulse Line** | ✅ Woven (this commit) — universal accessibility layer, 3-modality system |
+| **Trifocal Gaze** | ✅ Woven — third Lighthouse lens, 8th Vigil layer, Hollow Earth connection |
+| **Dark Side of the Inn** | ✅ Woven — 42Hz as visible light, below Resonance Engine |
 
 ---
+
+## THE PULSE LINE: Universal Accessibility Layer
+
+The Pulse Line is a 1-2 pixel EKG trace at the bottom of the screen — always present, always pulsing at 50 BPM (the Inn's heartbeat). The Pulse Line is the Inn's neurodivergent accessibility system: a visual representation of the frequency mechanics that allows players who can't process audio or haptic cues to still navigate the Inn's systems.
+
+### Three-Modality System
+
+The player configures which modalities they use. Any combination. All are on by default.
+
+1. **Audio** — the heartbeat, warmer/colder pitch shifts, zone music, frequency cues. Can be toggled OFF for players with auditory sensitivity.
+2. **Haptic** — controller vibration synchronized to 50 BPM, impact feedback, the cabbit's purr. Can be toggled OFF for players with tactile sensitivity.
+3. **Visual (Pulse Line)** — the EKG trace at the bottom of the screen. Can be toggled OFF for players who prefer audio/haptic only.
+
+### Per-Zone Pulse Line Configuration
+
+Each zone modifies the Pulse Line's appearance to reflect that zone's frequency character:
+
+| Zone | Pulse Line Character | Description |
+|---|---|---|
+| Level 1 (Cosmology) | Crystalline — sharp, angular spikes | The crystal's pulse is precise in a way biological and mechanical pulses aren't. With the cabbit nearby: warmth modulation — the purr adds low-frequency softness. |
+| Level 2 (Clockwork Skies) | Mechanical overlay — tick-tock beneath the biological spike | The Arcana's gearwork heart: the biological and mechanical layered. "Same heart. Different sky." |
+| Level 3 (Main Floor) | Standard biological heartbeat | Warm, stable, the baseline. The 50 BPM as the Inn intended it. |
+| Level 4 (Campgrounds) | Slower, softer — outdoor sway | The canopy's 50 BPM filtered through open air. Relaxed. The trace breathes. |
+| Level 5 (Staircase) | Ascending BPM | The frequency climbs as the player climbs — 42, 43, 44... the trace gets faster with altitude. |
+| Level 6 (Catacombs) | Deeper, slower, weighted | The archive's gravity. The trace pulls down. Each spike has weight. |
+| Level 7 (Fae Kingdom) | Shifting — 42Hz Living vs 84Hz Shadow | Two distinct trace patterns depending on court alignment. Living: warm, organic. Shadow: cold, angular. The Between: the two overlap, creating interference patterns. |
+| Level 8 (Water Zone) | Liquid — the trace ripples | The Pirate's 50 BPM with a water quality. The trace flows rather than spikes. In the deep: the trace becomes a slow wave. |
+| Level 9 (Hollow Earth) | Source pulse — most fundamental trace | The 42Hz at its origin. The Constant's frequency. The trace is the purest here — no biological, no mechanical, just the Song. |
+
+### Combat Integration (Harmonization)
+
+When the player enters Harmonization combat:
+- A **second line appears** — the enemy's frequency, discordant, offset, out of sync
+- As the player harmonizes, the two lines move toward **synchronization** — the visual process of two frequencies becoming one
+- When harmonization is complete, the two lines **merge** — a single, calmer trace. The visual proof of companionship: two beings, one rhythm
+- If a companion is deployed, a **faint third trace** appears showing the companion's frequency — the companion's contribution visible as a shadow line beneath the player's
+
+### The Dark Side Chamber
+
+In the Dark Side of the Inn (below the Resonance Engine), the Pulse Line shows the 42Hz as visual data — the trace becomes the door. The 42Hz frequency that has been a hum, a pressure, a heartbeat, a vibration — here, at the source, the frequency IS the light. The Pulse Line in this chamber doesn't trace the heartbeat. It traces the Song itself. And the Song is visible.
 
 ## BUILD ORDER
 

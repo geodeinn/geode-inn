@@ -134,6 +134,47 @@ The baby dragon's home. A geode — a crystal-lined cave — built into the wall
 - When the geode has 10+ stones, it begins to resonate — the stones' frequencies layer into a hum. The more stones, the richer the hum. At 164 stones (the full collection), the geode becomes a complete sonic instrument — the Inn's entire mineral range in one cave.
 - The dragon's purring harmonizes with the geode's hum. The dragon and the cave are a duet — the Inn's simplest, warmest music.
 
+### 6b. The Stone Capsule System (Geode Cave Expansion)
+
+The geode is more than a display — it's the player's companion storage. The Stone Capsule system reimagines the geode's core image: a plain stone exterior that opens to reveal crystals inside. Every stone IS a capsule.
+
+**How It Works:**
+- Each stone the player collects is stored in inventory as a capsule — a small hand-held stone containing a frequency
+- The stone IS the capsule. The Inn's medium is stone. The capsule is not technology — it's geology
+- Two sizes: **pocket stones** (carry 6) and **geode stones** (home storage in the cave)
+- Pocket stones are the active party — deployed in combat and compositions
+- Geode stones are the reserve — stored in the dragon's geode cave
+- Transfer between them at the geode cave. The baby dragon tends the companions when they're not deployed
+
+**The Geode Cave as PC Box:**
+The dragon's geode already fills with stones as the player progresses. Now it serves double duty: it's the home storage for companion stones. The dragon curls around the stored companions — the baby dragon is the PC box's living caretaker. The dragon's purring calms the stored companions. A companion stored in the geode cave is content — it's in a warm cave with a dragon who purrs at 50 BPM.
+
+**Combat — Harmonization & Companions:**
+When the player enters Harmonization (the Inn's non-lethal combat — matching an enemy's frequency to reveal their true form):
+- The player selects a pocket stone. The stone's frequency is the player's combat move
+- If a companion is stored in the selected stone, the companion appears and fights alongside — adding its frequency to the player's
+- After successful harmonization: the newly-harmonized creature is offered as a companion. The player selects an empty pocket stone to store it
+- If no empty slot: the creature departs peacefully. The Inn doesn't trap beings. The door is always open
+- Visual: two Pulse Line traces converging into one (see Pulse Line system) — the visual proof of harmonization
+
+**Companion Milestones:**
+- **Egg** — first harmonized creature stored. The geode reacts — a new crystal formation grows overnight
+- **Stone** — first companion deployed in combat. The dragon chirps
+- **Geode** — full party of 6 pocket stones with companions. The geode resonates at a new harmonic
+- **Resonance** — first companion harmonization chain: a companion helps harmonize another enemy. Two frequencies, working together. The dragon's purring shifts to match
+
+**Water Monster Companions:**
+The 32 water monsters in the Water Zone bestiary are the primary source of companions. Harmonizing a water monster → storing it in a water stone capsule → deploying it in surface-zone combat with a water frequency advantage. A water companion on the Main Floor is a fish out of water — literally. The companion appears, fights, and returns to the stone. The other NPCs notice. The Wanderer says: "The little one has a friend from the deep. Good. Everyone should have a friend from somewhere they've never been."
+
+**Bead Board Integration:**
+The Bead Board (Undercity/Tidal Caves) uses the same stones. Stones used in Bead Board compositions are still in inventory — but the composition "plays" their frequencies. The Bead Board and the combat system share the same stone pool. The player who uses their best combat stone in a composition has to decide: beauty or power? (Or both — charged stones are better in both.)
+
+**Silk Road Connection:**
+Charged stones (from the ley line system) are stronger capsules — the charged frequency is more powerful in combat. A 100% charged stone capsule hits harder in Harmonization and sings louder in the Bead Board. The player who charges their combat stones by walking ley lines has a measurable advantage.
+
+**Mycorrhizal Connection:**
+Stones sent through the Mycorrhizal Network arrive with a 42Hz harmonic added — creating unique capsule variants. A mycelium-sent stone has a frequency no surface gathering or ley line charging can produce. These stones are rare, unique, and slightly alive in a way other stones aren't.
+
 ### 7. The Firekeeper's Hearth
 Already designed (see Firekeeper quest doc). The permanent storyteller's corner. Tim Curry's domain. The hearth is the Inn's warmest physical point — the fire that never goes out. The Firekeeper tells stories. The player listens.
 
