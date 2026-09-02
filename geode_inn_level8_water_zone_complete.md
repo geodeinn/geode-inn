@@ -57,6 +57,20 @@ The boundary between light and dark. Where Zee's dual nature is most visible —
 
 **Connection:** Main Floor (the Loch Pool arcade machine's water extends to here).
 
+**The Threshold Screen (Easter Egg):**
+
+The first time the player descends from Layer 1 to Layer 2, the screen does something the Inn has never done before.
+
+The game fades to black. A single point of light appears at center screen and spirals outward — the classic expanding spiral, but rendered in the Inn's linework style (sharp/angular guardian lines, not the original's wavy lines). A deep heartbeat sounds at 50 BPM. Text appears on screen in the distinctive condensed-serif font, letter by letter, timed to the heartbeat:
+
+*"You are traveling through another dimension — a dimension not only of stone and water, but of frequency. A journey into a wondrous place whose boundaries are that of deep time and deeper silence. You are moving into a land of both shadow and substance, of things and ideas. You have just crossed over into... the Twilight Zone."*
+
+The spiral fades. The player is in Layer 2. The water is blue-green and dimming. Everything is exactly where it was — but the screen remembers what it said.
+
+This triggers ONCE. On subsequent descents, the player passes through Layer 2 normally. But the text is still there — the player who opens the Park Journal and reads the Water Zone entry finds the spiral's text at the bottom of the page, in the same condensed-serif font, smaller. A footnote from the screen itself.
+
+**Design note:** The condensed-serif font (not the Inn's standard serif) is used ONLY for this easter egg and the footnote. It does not appear anywhere else in the Inn. It is the font of the boundary between light and dark — the Twilight Zone's own typeface. The font is deliberately NOT named or documented. The player who recognizes it has the recognition. The player who doesn't has the mystery. Both are the Twilight Zone.
+
 ### Layer 3: The Midnight Zone
 **Depth:** 200-1000m equivalent
 **Light:** No sunlight. Bioluminescence only.

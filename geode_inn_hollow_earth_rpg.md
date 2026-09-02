@@ -32,6 +32,15 @@ The emotional core: loneliness that transforms into connection. The city is empt
 **Entry 1: The North Pole (External Zone Expedition)**
 - **Starting District:** The Crystal Approach (northern quarter of the city)
 - **The Journey:** Arctic expedition through ice and aurora. A crack in the ice sheet descends into a crystal spiral tunnel. Miles of descending crystal. The ice transitions to stone, the stone to crystal. The crystal begins to hum at 42Hz. The tunnel opens into the city's northern gate.
+- **The Taking of the Screen (Easter Egg):** As the player steps through the crack in the ice — the moment the surface disappears behind and the crystal tunnel begins — the screen goes to static. Not modern static. 1963 static. The black-and-white horizontal bars, the hiss, the flicker. The static holds for three full seconds. Then a voice — not any character's voice, a voice the Inn has never used before and will never use again — speaks while the static resolves into a slow pan across the crystal tunnel:
+
+  *"There is nothing wrong with your screen. Do not attempt to adjust the frequency. We are controlling the Inn. If we make the frequency higher, the crystals will ring. If we make it lower, the water will still. We will control the depth. We will control the light. We can make the stone soft, or close the gate. You are about to experience the awe and mystery which reaches from the deep to the center of the earth. Sit quietly and listen."*
+
+  The static clears. The screen returns to full color. The player is standing in the crystal tunnel. The 42Hz hum is audible, warm, constant. Nothing about the gameplay has changed — the journey proceeds normally. But the screen has spoken. And it does not speak again.
+
+  This triggers ONCE, the first time the player enters through either polar path (North or South). On subsequent entries, the static flashes for a single frame — too fast to read, too slow to miss. A subliminal reminder that the screen remembers what it said.
+
+  **Design note:** The voice is not attributed to any character. It is the Inn's own voice — the building itself speaking. The voice is processed through the same 42Hz foundation as every other voice in the Inn, but presented DRY — no room reverb, no zone ambience, no layered audio. The voice has no space because the voice IS the space. It is the only time the Inn speaks without a room to speak from.
 - **Requirement:** Ley Line Vision + at least one charged stone (frequency key)
 - **Visual:** The descent is the most spectacular entry — spiraling through crystal that shifts from blue ice to violet stone to white crystal. The aurora follows the player down, then fades as the Song grows stronger.
 - **Character:** The player enters through the CRYSTAL — the mineral path. The player who enters here arrives in the city's mineral quarter, where the crystal architecture is purest.
@@ -39,6 +48,7 @@ The emotional core: loneliness that transforms into connection. The city is empt
 **Entry 2: The South Pole (Antarctica — External Zone Expedition)**
 - **Starting District:** The Deep Harbor (southern quarter, where the underground ocean meets the city)
 - **The Journey:** Antarctic ice shelf crossing. Beneath the ice: a geode the size of a cathedral. The geode's crystals vibrate at 42Hz. The descent is near-vertical through crystal. The player rappels down through a cathedral of vibrating crystal and emerges at the city's harbor — the underground ocean's shore.
+- **The Taking of the Screen:** Same easter egg as the North Pole entry (see above). The static, the voice, the same words — the Inn doesn't distinguish between doors. Both polar entries trigger the screen's one and only speech on first entry.
 - **Requirement:** Ley Line Vision + at least three charged stones
 - **Visual:** The steepest, most vertigo-inducing entry. The player descends through a geode — the Earth's amethyst, the planet's own crystal formation. The ocean at the bottom glows with bioluminescence.
 - **Character:** The player enters through the WATER — the ocean path. The player who enters here arrives at the city's harbor, where the Deep Ones live.
