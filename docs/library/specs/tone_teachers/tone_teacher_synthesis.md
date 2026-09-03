@@ -1,5 +1,5 @@
 # The Geode Inn Tone Teacher Synthesis
-## How Fourteen Craft Traditions Combine Into the Inn's Design DNA
+## How Fifteen Craft Traditions Combine Into the Inn's Design DNA
 
 **Document type:** Craft standard / Design philosophy
 **Status:** Active — all new zone development, character design, quest writing, and prose must be measurable against this document
@@ -9,7 +9,7 @@
 
 ## Purpose
 
-The six-writer constitution (Rothfuss, Pratchett, Gaiman, Asimov, Bradbury, Weir) is the editorial standard for all Inn prose. The fourteen tone teachers are the craft infrastructure that feeds that constitution. This document maps each teacher to the specific Inn systems they inform, creating a single reference for builders, writers, and designers.
+The six-writer constitution (Rothfuss, Pratchett, Gaiman, Asimov, Bradbury, Weir) is the editorial standard for all Inn prose. The fifteen tone teachers are the craft infrastructure that feeds that constitution. This document maps each teacher to the specific Inn systems they inform, creating a single reference for builders, writers, and designers.
 
 If a new zone, character, quest, or piece of prose doesn't carry at least one tone teacher's lesson and at least one six-writer quality, it doesn't ship.
 
@@ -87,6 +87,11 @@ If a new zone, character, quest, or piece of prose doesn't carry at least one to
 **Design principle:** A melodic fragment carries a character's entire soul. Two notes IS Batman. A waltz IS the descent. A wordless choir IS the archive's awareness. The hook IS the architecture. Music that carries contradictory emotions simultaneously (Ice Dance: smile and cry at once) is the Final Room's sound. The Inn doesn't choose for you. The music doesn't either.
 **Shipping test:** Does this NPC have an irreducible melodic signature? Does the zone's rhythm match its emotional weight? Does the music hold contradictory emotions without resolving them?
 
+### 15. Tool - The Sound That IS the Architecture
+**Inn systems:** The frequency constants as mathematical architecture, the tri-mode tectonic shift, sensory fusion (linework + IEM audio), the Inn as one organism with movements, the Silica Thread as math-and-mysticism
+**Design principle:** Don't layer. Fuse. The 42Hz Song, the 50 BPM heartbeat, the stone triggers, the NPC leitmotifs, the choral-ethereal are not separate elements. They are one sound the player can't separate into parts. The math IS the mysticism. The Fibonacci sequence IS the spiritual practice. The long build is accumulation, not escalation. The vocal is an instrument, not a narrator. NPCs inhabit, don't explain.
+**Shipping test:** Can the player perceive this as one fused experience, not separate audio layers? Do the mathematical relationships feel inevitable? Does the shift feel tectonic, not gradual?
+
 ---
 
 ## The Inn's Design DNA — Combined Principles
@@ -160,5 +165,6 @@ All thirteen tone teacher complete indexes are stored in:
 | 12 | Clifford Pickover | pickover_complete_index.md | The lateral thinking |
 | 13 | Futurama | futurama_complete_index.md | The satire that became prophecy |
 | 14 | Danny Elfman | elfman_complete_index.md | The hook that haunts |
+| 15 | Tool | tool_complete_index.md | The sound that IS the architecture |
 
 This synthesis document: tone_teacher_synthesis.md

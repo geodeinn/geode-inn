@@ -1,6 +1,6 @@
 ---
 title: Tone Teachers & Formative Books
-summary: Krista's formative reading and visual media — reference for craft, tone, and worldbuilding. NOT archive material (all under copyright). Fourteen tone teachers now catalogued, each teaching a different structural layer of the Inn.
+summary: Krista's formative reading and visual media — reference for craft, tone, and worldbuilding. NOT archive material (all under copyright). Fifteen tone teachers now catalogued, each teaching a different structural layer of the Inn.
 ---
 
 # Tone Teachers & Formative Books
@@ -75,6 +75,12 @@ File: [futurama_complete_index.md](futurama_complete_index.md)
 
 ### 14. Danny Elfman — The Hook That Haunts
 File: [elfman_complete_index.md](elfman_complete_index.md)
+- How to make a melodic fragment carry a character's entire soul; the waltz-macabre as the rhythm of descent; the choral-ethereal as the sound of the Whisper Layer; Ice Dance — music that makes you smile and cry at the same time
+
+### 15. Tool — The Sound That IS the Architecture
+File: [tool_complete_index.md](tool_complete_index.md)
+- How to fuse all sonic elements into one organism; the tectonic shift as the tri-mode signal; the mathematics as mysticism; the long build as accumulation, not escalation. Krista's all-time favorite band. 30 Seconds to Mars (cathedral scale) and Depeche Mode (electronic darkness) are the sonic trinity context — The Hook That Haunts
+File: [elfman_complete_index.md](elfman_complete_index.md)
 - How to make a melodic fragment carry a character's entire soul; the waltz-macabre as the rhythm of descent; the choral-ethereal as the sound of the Whisper Layer; Ice Dance — music that makes you smile and cry at the same time — The Satire That Became Prophecy
 File: [futurama_complete_index.md](futurama_complete_index.md)
 - How to hold absurdity without apologizing for it; the gag that becomes mythology; God done right — the lightest possible touch
@@ -88,6 +94,12 @@ Ghoul and Cutthroat — the Special X thrillers that sparked Krista's fascinatio
 
 ### In Death series (J.D. Robb / Nora Roberts)
 Eve Dallas — the near-future series started in the 90s whose gadgets are becoming reality. The same fascination as Futurama in a different palette: technology changes the context but not the condition. Already covered under Roberts (#5) as sustained warmth, but the futurism element is a separate trait.
+
+### 30 Seconds to Mars
+Jared Leto's band — arena-scale emotional intensity, cathedral walls of sound, concept albums as complete emotional arcs. The Inn's emotional escalation model: start intimate, build to overwhelming.
+
+### Depeche Mode
+The permanent third. Dave Gahan's baritone, Martin Gore's songwriting. The proof that electronic music carries genuine soul. The blueprint for the Inn's "classical instruments through electronica" philosophy. The Shadow Inn (84Hz) needs Depeche Mode's electronic darkness — not cold, but electronica with a pulse and longing.
 
 ### Futurama (Matt Groening)
 Also Futurama's "Godfellas" gives the Inn its design philosophy in one line: "When you do things right, people won't be sure you've done anything at all." That's the Inn. The lightest touch. The room so generous the guest thinks they brought it.
@@ -130,13 +142,13 @@ Also Futurama's "Godfellas" gives the Inn its design philosophy in one line: "Wh
 - **Archive** (public domain, pre-industrial): actual texts shelved in the Inn's library
 - **Tone Teacher** (under copyright): reference for craft, atmosphere, and worldbuilding depth — teaches us HOW to write, not WHAT to shelve
 - The Inn's pre-industrial focus is a natural copyright shield. Most archive material is old enough that nobody owns it.
-- We write our OWN weird fiction. The pulp era teaches us how. The archive gives us raw mythology. The six-writer voice makes it ours. The fourteen tone teachers show us how to build the rooms.
+- We write our OWN weird fiction. The pulp era teaches us how. The archive gives us raw mythology. The six-writer voice makes it ours. The fifteen tone teachers show us how to build the rooms.
 
 ---
 
 ## The Cross-Reference Patterns
 
-The fourteen tone teachers overlap in productive ways. Key intersections:
+The fifteen tone teachers overlap in productive ways. Key intersections:
 
 - **Camouflage:** Moning (romance), Butcher (noir), Kenyon (bodice-ripper), Harrison (urban fantasy), Patterson (mainstream thriller), Futurama (animated satire) — six genre covers, same principle
 - **Fae courts:** Moning, Butcher, Harrison, Kenyon — four different Fae cosmologies, each morally complex
@@ -150,6 +162,7 @@ The fourteen tone teachers overlap in productive ways. Key intersections:
 - **The created being:** Patterson, Butcher, Kenyon, Pickover, Futurama — five versions of the question: if you create a mind, does it belong to you?
 - **The ordinary person who stays ordinary:** Patterson, Futurama, Hearne — three versions of the anchor who doesn't become the chosen one
 - **The hook as character identity:** Elfman, Butcher (case-as-identity), Harrison (biological specificity) — three versions of the irreducible fragment that IS the character
+- **Fusion as architecture:** Tool (sensory fusion), Elfman (hook-as-architecture), Pickover (math-as-mythology) — three versions of elements that can't be separated into parts Elfman, Butcher (case-as-identity), Harrison (biological specificity) — three versions of the irreducible fragment that IS the character
 - **Technology/mythology that solves nothing:** Futurama, Slade, In Death — three versions of the insight that the tools change but the condition doesn't
 
 These overlaps are not coincidence. They are convergence — multiple creators independently arriving at the same structural truths about how to build a world that feels real. The Inn inherits all of them.
