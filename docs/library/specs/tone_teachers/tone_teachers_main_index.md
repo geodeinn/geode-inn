@@ -1,6 +1,6 @@
 ---
 title: Tone Teachers & Formative Books
-summary: Krista's formative reading and visual media — reference for craft, tone, and worldbuilding. NOT archive material (all under copyright). Thirteen tone teachers now catalogued, each teaching a different structural layer of the Inn.
+summary: Krista's formative reading and visual media — reference for craft, tone, and worldbuilding. NOT archive material (all under copyright). Fourteen tone teachers now catalogued, each teaching a different structural layer of the Inn.
 ---
 
 # Tone Teachers & Formative Books
@@ -73,6 +73,12 @@ File: [pickover_complete_index.md](pickover_complete_index.md)
 File: [futurama_complete_index.md](futurama_complete_index.md)
 - How to hold absurdity without apologizing for it; the gag that becomes mythology; God done right — the lightest possible touch
 
+### 14. Danny Elfman — The Hook That Haunts
+File: [elfman_complete_index.md](elfman_complete_index.md)
+- How to make a melodic fragment carry a character's entire soul; the waltz-macabre as the rhythm of descent; the choral-ethereal as the sound of the Whisper Layer; Ice Dance — music that makes you smile and cry at the same time — The Satire That Became Prophecy
+File: [futurama_complete_index.md](futurama_complete_index.md)
+- How to hold absurdity without apologizing for it; the gag that becomes mythology; God done right — the lightest possible touch
+
 ---
 
 ## Honorary Mentions — Works That Spark Fascination (not full tone teachers)
@@ -124,13 +130,13 @@ Also Futurama's "Godfellas" gives the Inn its design philosophy in one line: "Wh
 - **Archive** (public domain, pre-industrial): actual texts shelved in the Inn's library
 - **Tone Teacher** (under copyright): reference for craft, atmosphere, and worldbuilding depth — teaches us HOW to write, not WHAT to shelve
 - The Inn's pre-industrial focus is a natural copyright shield. Most archive material is old enough that nobody owns it.
-- We write our OWN weird fiction. The pulp era teaches us how. The archive gives us raw mythology. The six-writer voice makes it ours. The thirteen tone teachers show us how to build the rooms.
+- We write our OWN weird fiction. The pulp era teaches us how. The archive gives us raw mythology. The six-writer voice makes it ours. The fourteen tone teachers show us how to build the rooms.
 
 ---
 
 ## The Cross-Reference Patterns
 
-The thirteen tone teachers overlap in productive ways. Key intersections:
+The fourteen tone teachers overlap in productive ways. Key intersections:
 
 - **Camouflage:** Moning (romance), Butcher (noir), Kenyon (bodice-ripper), Harrison (urban fantasy), Patterson (mainstream thriller), Futurama (animated satire) — six genre covers, same principle
 - **Fae courts:** Moning, Butcher, Harrison, Kenyon — four different Fae cosmologies, each morally complex
@@ -139,10 +145,11 @@ The thirteen tone teachers overlap in productive ways. Key intersections:
 - **The found family:** Harrison, Roberts, Kenyon, Tolkien, Patterson, Futurama — six versions of community as structural unit
 - **The cursed species:** Kenyon, Moning, Harrison, Butcher, Hearne — each species is the product of a backstory
 - **The villain with valid pain:** Kenyon, King, Butcher, Harrison — the antagonist whose grievance is real
-- **Humor as structure:** Harrison (survival), Hearne (bond), Roberts (warmth), Futurama (satire) — four versions of comedy as load-bearing
+- **Humor as structure:** Harrison (survival), Hearne (bond), Roberts (warmth), Futurama (satire), Elfman (carnival-dark) — five versions of comedy as load-bearing
 - **The earth as source:** Hearne, Tolkien, Pickover — three versions of geology as power
 - **The created being:** Patterson, Butcher, Kenyon, Pickover, Futurama — five versions of the question: if you create a mind, does it belong to you?
 - **The ordinary person who stays ordinary:** Patterson, Futurama, Hearne — three versions of the anchor who doesn't become the chosen one
+- **The hook as character identity:** Elfman, Butcher (case-as-identity), Harrison (biological specificity) — three versions of the irreducible fragment that IS the character
 - **Technology/mythology that solves nothing:** Futurama, Slade, In Death — three versions of the insight that the tools change but the condition doesn't
 
 These overlaps are not coincidence. They are convergence — multiple creators independently arriving at the same structural truths about how to build a world that feels real. The Inn inherits all of them.

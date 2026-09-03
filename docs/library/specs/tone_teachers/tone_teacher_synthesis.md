@@ -1,5 +1,5 @@
 # The Geode Inn Tone Teacher Synthesis
-## How Thirteen Craft Traditions Combine Into the Inn's Design DNA
+## How Fourteen Craft Traditions Combine Into the Inn's Design DNA
 
 **Document type:** Craft standard / Design philosophy
 **Status:** Active — all new zone development, character design, quest writing, and prose must be measurable against this document
@@ -9,7 +9,7 @@
 
 ## Purpose
 
-The six-writer constitution (Rothfuss, Pratchett, Gaiman, Asimov, Bradbury, Weir) is the editorial standard for all Inn prose. The thirteen tone teachers are the craft infrastructure that feeds that constitution. This document maps each teacher to the specific Inn systems they inform, creating a single reference for builders, writers, and designers.
+The six-writer constitution (Rothfuss, Pratchett, Gaiman, Asimov, Bradbury, Weir) is the editorial standard for all Inn prose. The fourteen tone teachers are the craft infrastructure that feeds that constitution. This document maps each teacher to the specific Inn systems they inform, creating a single reference for builders, writers, and designers.
 
 If a new zone, character, quest, or piece of prose doesn't carry at least one tone teacher's lesson and at least one six-writer quality, it doesn't ship.
 
@@ -81,6 +81,11 @@ If a new zone, character, quest, or piece of prose doesn't carry at least one to
 **Inn systems:** The Inn's self-awareness, the ordinary player who stays ordinary, the God-done-right design philosophy
 **Design principle:** Hold absurdity without apologizing for it. The ordinary person stays ordinary — the anchor, not the chosen one. The gag becomes mythology. Technology solves nothing — rooms, not fixes. "When you do things right, people won't be sure you've done anything at all." That's the Inn.
 **Shipping test:** Does this content hold its absurdity with confidence? Does the humor have the potential to become devastating on reflection? Is the design touch light enough that the player thinks they found the room themselves?
+
+### 14. Danny Elfman - The Hook That Haunts
+**Inn systems:** NPC leitmotifs, the Staircase waltz-macabre, the Whisper Layer choral-ethereal, The Royal carnival-dark, the tri-mode off-kilter modulation, the Final Room emotional surprise, the Common Room orchestral anarchy
+**Design principle:** A melodic fragment carries a character's entire soul. Two notes IS Batman. A waltz IS the descent. A wordless choir IS the archive's awareness. The hook IS the architecture. Music that carries contradictory emotions simultaneously (Ice Dance: smile and cry at once) is the Final Room's sound. The Inn doesn't choose for you. The music doesn't either.
+**Shipping test:** Does this NPC have an irreducible melodic signature? Does the zone's rhythm match its emotional weight? Does the music hold contradictory emotions without resolving them?
 
 ---
 
@@ -154,5 +159,6 @@ All thirteen tone teacher complete indexes are stored in:
 | 11 | James Patterson | patterson_complete_index.md | The accessible depth |
 | 12 | Clifford Pickover | pickover_complete_index.md | The lateral thinking |
 | 13 | Futurama | futurama_complete_index.md | The satire that became prophecy |
+| 14 | Danny Elfman | elfman_complete_index.md | The hook that haunts |
 
 This synthesis document: tone_teacher_synthesis.md
