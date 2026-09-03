@@ -59,7 +59,7 @@ All character images have been uploaded to app storage. Below is the COMPLETE ma
 
 ### Campgrounds (Level 4)
 - Jay → https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/381e3a68c_jay_voltaire_vibe.png
-- Dani → https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/13cc2e314_alt_jeweler_early_dani.png
+- Solstara → https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/13cc2e314_alt_jeweler_early_dani.png
 - Dragon Mascot → https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/793f72a14_dragon_mascot.png
 
 ### Staircase (Level 5)

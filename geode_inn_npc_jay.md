@@ -3,7 +3,7 @@
 
 **Real Name:** Jay
 **Age:** TBD
-**Family:** Charles' best friend. Dani's good friend and fellow jeweler.
+**Family:** Charles' best friend. Solstara's good friend and fellow jeweler.
 
 ---
 
@@ -80,8 +80,8 @@ The wolf comes up to Jay's knee. A full-grown wolf at knee height means Jay is r
 **Charles' Best Friend:**
 Jay is Charles' best friend. The connection: Jay is the outside to Charles' inside. Charles is the Chameleon Druid — the one who becomes the landscape. Jay is the huntsman — the one who reads the landscape. They are two approaches to the same forest: one becomes it, one knows it. The friendship makes sense because both men are loud, both are smart, and both are pretending to be simpler than they are. Charles hides intelligence behind druidic mystery. Jay hides intelligence behind volume and ale.
 
-**Dani's Friend:**
-Dani works the Dallas Renaissance Faire. Jay's campgrounds ARE a Renaissance faire. The connection is immediate — Dani's real-world faire experience is the template for Jay's tavern energy. Dani is the zen counterweight: calm, grounded, centered. Jay is the storm. Together at the tavern, they're the full spectrum of the faire — the quiet artisan and the loud showman.
+**Solstara's Friend:**
+Solstara works the Dallas Renaissance Faire. Jay's campgrounds ARE a Renaissance faire. The connection is immediate — Solstara's real-world faire experience is the template for Jay's tavern energy. Solstara is the zen counterweight: calm, grounded, centered. Jay is the storm. Together at the tavern, they're the full spectrum of the faire — the quiet artisan and the loud showman.
 
 **The Tavern vs. The Hearth:**
 The Hearth (inside the Inn) is Eileen's domain — warmth, community, feeding others. Jay's tavern is the EXTERIOR version of the same impulse. Two hearths: one inside the tree, one outside under the sky. Eileen's hearth is the unconditional welcome. Jay's tavern is the conditional welcome — you're welcome, but you're also going to hear the truth about yourself. The inside hearth is love. The outside hearth is love with a side of honesty.
@@ -115,7 +115,7 @@ The Hearth (inside the Inn) is Eileen's domain — warmth, community, feeding ot
 ## TABLETOP NARRATIVE VOICE — Sample Dialogue
 
 **Jay (greeting a new arrival):**
-"Sit. Eat. The stew's good today — I didn't make it, Dani did, which is why it's good and not... creative. My cooking is creative. Dani's cooking is correct. You want correct. Trust me. —Oh, don't mind the wolf. The wolf minds you. That's just how the wolf says hello. Full body weight. You'll get used to it. Everyone does. The ones who don't get used to it don't come back, and that's how I know the stew is for people with taste."
+"Sit. Eat. The stew's good today — I didn't make it, Solstara did, which is why it's good and not... creative. My cooking is creative. Solstara's cooking is correct. You want correct. Trust me. —Oh, don't mind the wolf. The wolf minds you. That's just how the wolf says hello. Full body weight. You'll get used to it. Everyone does. The ones who don't get used to it don't come back, and that's how I know the stew is for people with taste."
 
 **Jay (on the Inn):**
 "You want the inside? The big tree, the library, the quiet? Go ahead. I'll be here. I tried the inside once. Too much thinking, not enough ale. The Crone looked at me like I was a book that had been shelved in the wrong section. I told the Crone I was a book that hadn't been written yet. The Crone told me to leave. I did. The ale is better out here anyway. The ale is always better when you make it yourself."
@@ -139,7 +139,7 @@ The wolf gets the same treatment — heavy cel-shaded, bold outlines, the same v
 ## CONNECTIONS
 
 - **Charles (Chameleon Druid):** Best friends. The outside and the inside of the same forest. Two loud, smart men pretending to be simpler than they are.
-- **Dani (The Artisan):** Good friend, fellow jeweler, zen counterweight. Dani's faire experience is the template for Jay's campgrounds energy. Dani cooks; Jay serves.
+- **Solstara (The Artisan):** Good friend, fellow jeweler, zen counterweight. Solstara's faire experience is the template for Jay's campgrounds energy. Solstara cooks; Jay serves.
 - **Eileen (The Hearth):** Two hearths. Eileen's hearth is inside — unconditional warmth. Jay's tavern is outside — conditional warmth (you're welcome, but you're getting the truth too).
 - **The Firekeeper:** Two storytellers. The Firekeeper tells stories inside by the fire. Jay tells stories outside by the fire. Different audiences, different energy, same impulse: the story is for the people listening.
 - **The Campgrounds:** Jay's zone — the exterior, the ren faire, the front porch of the Inn.

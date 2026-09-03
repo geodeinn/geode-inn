@@ -84,16 +84,16 @@ The player progresses through the tree by unlocking zones. Each zone unlocked re
 |---|---|
 | **Zone design** | ✅ Partial — Ren Faire vibe, market stalls connecting to MarketItem entity |
 | **Visual language** | ✅ Heavy cel-shaded (tradesmen), Ren Faire aesthetic |
-| **Characters** | ✅ Jay (tavern keeper), Dani (jeweler) — concept art and profiles done |
-| **Character stations** | ✅ Jay's Tavern (Huntsman Tavern), Dani's shop (TBD) |
+| **Characters** | ✅ Jay (tavern keeper), Solstara (jeweler) — concept art and profiles done |
+| **Character stations** | ✅ Jay's Tavern (Huntsman Tavern), Solstara's shop (TBD) |
 | **Quests** | ❌ NOT YET DESIGNED |
 | **Audio profiles** | ❌ NOT YET DESIGNED |
 | **Games** | ❌ NOT YET DESIGNED — possible crafting/trading mini-games |
 | **Interactive items** | ❌ NOT YET DESIGNED |
 | **Entry requirement** | ✅ Exterior of the Inn — accessible from main floor |
-| **Connections** | ✅ Market stalls → MarketItem entity, Jay → Charles (best friend), Dani → Jay (friend) |
+| **Connections** | ✅ Market stalls → MarketItem entity, Jay → Charles (best friend), Solstara → Jay (friend) |
 
-**GAPS:** Dani's shop design, quests for both Jay and Dani, audio profiles, game templates, interactive items, additional campground NPCs
+**GAPS:** Solstara's shop design, quests for both Jay and Solstara, audio profiles, game templates, interactive items, additional campground NPCs
 
 ---
 

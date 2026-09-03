@@ -95,7 +95,7 @@ The Geode Inn boasts a rich roster of 60+ character designs—spanning chibi com
 | Andra the Siren     | Deep Water Entity     | Siren Sonar Wave                 | Amphibious Flow                    |
 | Jakob the Firekeeper| Hearth Protector      | Amber Ember Shield               | Hearthfire Aura                    |
 | Anubis              | Underworld Steward    | Scales of Judgment               | Weight of the Dead Execution       |
-| Dani the Jeweler    | Master Artisan        | Prismatic Facet Laser            | Gemstone Refraction                |
+| Solstara the Jeweler    | Master Artisan        | Prismatic Facet Laser            | Gemstone Refraction                |
 +---------------------+-----------------------+----------------------------------+------------------------------------+
 ```
 
@@ -108,31 +108,36 @@ The Geode Inn boasts a rich roster of 60+ character designs—spanning chibi com
 * **Description:** A fluffy, long-eared feline-rabbit hybrid who nests near the main hearth.
 * **Starting Weapon — Resonant Purr:** Emits expanding concentric rings of low-frequency audio waves that knock back enemies and deal continuous AoE damage.
 * **Passive — 50 BPM Heartbeat:** Surrounds Eres with a 50 BPM pulse aura. Any enemy entering the aura has its movement and attack speed reduced by 35%. During 42Hz phases, the aura radius doubles.
-* **Evolution Catalyst:** Feldspar Stone $ightarrow$ *The Hearth's Eternal Lullaby*.
+* **Evolution Catalyst:** Feldspar Stone $
+ightarrow$ *The Hearth's Eternal Lullaby*.
 
 #### 2. The Tinker
 * **Description:** The Inn's eccentric gnome engineer who keeps the steam-pipes and frequency generators running.
 * **Starting Weapon — Frequency Turret:** Deploys stationary brass turrets that periodically blast 42Hz harmonic waves in a 360-degree radius, damaging Shadow beasts and stabilizing local frequency.
 * **Passive — Overclocked Crafting:** Receives +1 additional upgrade option during stone level-ups and gains +15% turret attack speed for every Feldspar stone collected.
-* **Evolution Catalyst:** Fluorite Stone $ightarrow$ *Giga-Hz Matrix Array*.
+* **Evolution Catalyst:** Fluorite Stone $
+ightarrow$ *Giga-Hz Matrix Array*.
 
 #### 3. The Owl
 * **Description:** The nocturnal guardian of the Observatory and upper canopy.
 * **Starting Weapon — Astral Talon & Blink:** Attacks with sweeping spectral talons. Activating dash triggers **Blink**, leaving behind a feathered decoy that draws enemy aggro for 3 seconds.
 * **Passive — Night Vision:** Reveals veiled, phased, and invisible Shadow enemies before they enter the screen margin, increasing critical hit chance against off-screen targets by 20%.
-* **Evolution Catalyst:** Moonstone $ightarrow$ *Eclipse Talon Storm*.
+* **Evolution Catalyst:** Moonstone $
+ightarrow$ *Eclipse Talon Storm*.
 
 #### 4. Bill the Platypus
 * **Description:** A trench-coat-wearing aquatic detective from the Inn’s Water Zone.
 * **Starting Weapon — Venom Spur:** Fires piercing poison barbs from his hind legs that inflict stacking Toxic Resonance over 6 seconds.
 * **Passive — Electroreception:** Displays an off-screen radar ring around the player, pointing toward elite foes, rare stone deposits, and hidden puzzle nodes with glowing electric arcs.
-* **Evolution Catalyst:** Beryl Stone $ightarrow$ *Kraken Venom Geyser*.
+* **Evolution Catalyst:** Beryl Stone $
+ightarrow$ *Kraken Venom Geyser*.
 
 #### 5. Ceiling Gnome (Gesso's Assistant)
 * **Description:** A mischievous spirit coated in plaster and oil paint, hanging upside down from ceiling rafters.
 * **Starting Weapon — Pigment Bomb:** Flings splashes of thick, colorful tempera paint onto the battlefield. Enemies stepping on paint patches are slowed by 50% and take amplified damage from subsequent attacks.
 * **Passive — Fresco Array:** When paint patches connect into closed shapes on the ground, they ignite into golden fresco traps that instantly obliterate non-boss enemies inside.
-* **Evolution Catalyst:** Tourmaline Stone $ightarrow$ *Gesso's Masterpiece*.
+* **Evolution Catalyst:** Tourmaline Stone $
+ightarrow$ *Gesso's Masterpiece*.
 
 #### 6. Huginn & Muninn (Dual Raven Pair)
 * **Description:** The twin ravens of memory and thought, flying in tight double-helix formations.
@@ -140,31 +145,36 @@ The Geode Inn boasts a rich roster of 60+ character designs—spanning chibi com
   * *Huginn (Thought):* Fires high-velocity linear blue energy spikes that pierce through enemy ranks.
   * *Muninn (Memory):* Launches orbiting amber spheres that linger on the screen and pull back toward the player, striking enemies on return.
 * **Passive — Dual Consciousness:** Increases overall projectile count by +1 and causes all projectile weapons to alternate between direct piercing (Thought) and orbital homing (Memory).
-* **Evolution Catalyst:** Lapis Lazuli $ightarrow$ *Odin's Mindscape*.
+* **Evolution Catalyst:** Lapis Lazuli $
+ightarrow$ *Odin's Mindscape*.
 
 #### 7. Andra the Siren
 * **Description:** A majestic aquatic singer from the 7-Layer Deep Water Zone.
 * **Starting Weapon — Siren Sonar Wave:** Sends out cascading blue sonar arcs that confuse enemies, making them attack each other for 4 seconds.
 * **Passive — Amphibious Flow:** Gains +25% movement speed during 84Hz phases and regenerates health whenever passing through water or slime patches on the arena floor.
-* **Evolution Catalyst:** Aquamarine $ightarrow$ *Tidal Vortex Symphony*.
+* **Evolution Catalyst:** Aquamarine $
+ightarrow$ *Tidal Vortex Symphony*.
 
 #### 8. Jakob the Firekeeper
 * **Description:** The stoic hearth tender who guards the Inn's primordial flame.
 * **Starting Weapon — Amber Ember Shield:** Spawns three swirling amber embers that block incoming projectiles and scorch melee attackers.
 * **Passive — Hearthfire Aura:** Converts 10% of damage taken into explosive fire pulses, burning surrounding enemies with molten hearth energy.
-* **Evolution Catalyst:** Garnet $ightarrow$ *Everlasting Hearth Nova*.
+* **Evolution Catalyst:** Garnet $
+ightarrow$ *Everlasting Hearth Nova*.
 
 #### 9. Anubis
 * **Description:** The ancient jackal guardian of the Catacombs, wielding the scales of truth.
 * **Starting Weapon — Scales of Judgment:** Spawns spectral balance scales above the nearest elite enemy. If the enemy's health is below 25%, it is instantly executed and converted into double Resonance Shards.
 * **Passive — Weight of the Dead:** Every defeated enemy increases Anubis's armor by 0.1 (up to +30 armor max) for the remainder of the wave.
-* **Evolution Catalyst:** Obsidian $ightarrow$ *Osiris's Absolute Ledger*.
+* **Evolution Catalyst:** Obsidian $
+ightarrow$ *Osiris's Absolute Ledger*.
 
-#### 10. Dani the Jeweler
+#### 10. Solstara the Jeweler
 * **Description:** The artisan who cuts and polishes the Inn's 168 cataloged gemstone species.
 * **Starting Weapon — Prismatic Facet Laser:** Fires a focused beam of light that refracts off collected stones, splitting into multi-colored target-seeking lasers.
 * **Passive — Gemstone Refraction:** All stone upgrade stat boosts are amplified by 15%, and chest pickups drop +1 additional stone tier.
-* **Evolution Catalyst:** Diamond $ightarrow$ *Prismatic Infinity Prism*.
+* **Evolution Catalyst:** Diamond $
+ightarrow$ *Prismatic Infinity Prism*.
 
 ---
 
@@ -322,12 +332,18 @@ In *The Long Night*, character progression is tied directly to the **Geode Inn G
 ### 6.1 Weapon Evolution Synergy (Stone Resonance Fusion)
 When a starting weapon reaches Rank 8 and the player possesses the corresponding catalyst stone, opening a Boss Chest triggers **Resonance Fusion**, evolving the weapon into its Legendary Inn Form:
 
-* **Resonant Purr (Eres) + Feldspar Stone** $ightarrow$ **The Hearth's Eternal Lullaby:** Screenshaking 50 BPM pulse that permanently slows all enemies on screen and deals triple damage to bosses.
-* **Frequency Turret (Tinker) + Fluorite Stone** $ightarrow$ **Giga-Hz Matrix Array:** Turrets link together with golden laser tripwires that vaporize non-boss enemies instantly.
-* **Astral Talon (Owl) + Moonstone** $ightarrow$ **Eclipse Talon Storm:** Blinks spawn 5 spectral owls that sweep across the screen, leaving trails of critical starry feathers.
-* **Venom Spur (Bill) + Beryl Stone** $ightarrow$ **Kraken Venom Geyser:** Poison barbs explode into lingering acid geysers that strip boss armor to zero.
-* **Pigment Bomb (Gnome) + Tourmaline Stone** $ightarrow$ **Gesso's Masterpiece:** Paint covers 100% of the screen in gold leaf, freezing all enemies into statue art pieces.
-* **Thought & Memory (Huginn/Muninn) + Lapis Lazuli** $ightarrow$ **Odin's Mindscape:** Projectiles create a permanent orbiting black-hole galaxy around the player that shreds enemy swarms.
+* **Resonant Purr (Eres) + Feldspar Stone** $
+ightarrow$ **The Hearth's Eternal Lullaby:** Screenshaking 50 BPM pulse that permanently slows all enemies on screen and deals triple damage to bosses.
+* **Frequency Turret (Tinker) + Fluorite Stone** $
+ightarrow$ **Giga-Hz Matrix Array:** Turrets link together with golden laser tripwires that vaporize non-boss enemies instantly.
+* **Astral Talon (Owl) + Moonstone** $
+ightarrow$ **Eclipse Talon Storm:** Blinks spawn 5 spectral owls that sweep across the screen, leaving trails of critical starry feathers.
+* **Venom Spur (Bill) + Beryl Stone** $
+ightarrow$ **Kraken Venom Geyser:** Poison barbs explode into lingering acid geysers that strip boss armor to zero.
+* **Pigment Bomb (Gnome) + Tourmaline Stone** $
+ightarrow$ **Gesso's Masterpiece:** Paint covers 100% of the screen in gold leaf, freezing all enemies into statue art pieces.
+* **Thought & Memory (Huginn/Muninn) + Lapis Lazuli** $
+ightarrow$ **Odin's Mindscape:** Projectiles create a permanent orbiting black-hole galaxy around the player that shreds enemy swarms.
 
 ---
 
@@ -424,7 +440,7 @@ The Geode Inn is an adaptive, living environment powered by the **Whisper Layer*
 If a player repeatedly survives *The Long Night* using **Bill the Platypus**, the Whisper Layer registers high aquatic affinity. Returning to the main floor causes the Water Zone NPCs (Andra, the Deep Tide Keepers) to offer exclusive quests and refer to the player as *"The Hero of the Abyssal Night."*
 
 #### 2. Mineral Resonance Profile
-A player who consistently picks **Quartz** (Speed) and **Moonstone** (Crit) builds a *Celestial Velocity* profile. The Jeweler (Dani) will display new dialogue:
+A player who consistently picks **Quartz** (Speed) and **Moonstone** (Crit) builds a *Celestial Velocity* profile. The Jeweler (Solstara) will display new dialogue:
 > *"I felt your heartbeat in the arcade cabinet last night... swift as moonbeams on quartz. Here, take this faceted chime—it matches your vibration."*
 
 #### 3. Evolution of the Cosmology Ceiling Mural

@@ -35,7 +35,7 @@
 ---
 
 #### 3. DANI — Master Jeweler & Zen Artisan
-1. **Subject Name:** Dani (The Jeweler)
+1. **Subject Name:** Solstara (The Jeweler)
 2. **Visual Description:** A curvy, grounded woman with wild, cascading long brown hair, zen eyes, and jeweler's hands marked by tiny, honorable soldering burn scars. She wears layered bohemian skirts, a fitted earth-tone bodice, fringe vests, and multiple metal bangles and tiny silver bells along her wrists and ankles.
 3. **Linework Style:** Heavy cel-shaded (tradesman style) — clean 3px outlines highlighting craft tools, bead strings, and layered textiles with sharp clarity.
 4. **Color Palette:** Warm terracotta, moss green, deep copper, rust orange, layered with jewel accents (turquoise blue, garnet red, lapis lazuli).

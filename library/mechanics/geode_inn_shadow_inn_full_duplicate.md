@@ -233,8 +233,8 @@ Frozen mid-song. The tavern is full — every NPC who ever visited is petrified 
 
 The tavern's atmosphere is the warmest in the Shadow Inn's Campgrounds — not temperature, but MEMORY warmth. The tavern is where people gathered. The gathering is preserved. Every seat holds a stone guest. The player can walk among them, read their faces, see who came to Jay's and when.
 
-**Dani's Shop (Shadow):**
-The jewelry configurator shop is frozen mid-design. The Bead Board in Dani's shop has the MASTER arrangement — the final design, the ultimate bead composition. Dani is petrified beside it, hands on the board, mid-placement. The final bead is the Source Stone (166th, pure 42Hz/84Hz). The completed design is the "Wearable Song" in its final form — every stone placed, every frequency harmonized. The player can study this design as the Bead Board's reference solution.
+**Solstara's Shop (Shadow):**
+The jewelry configurator shop is frozen mid-design. The Bead Board in Solstara's shop has the MASTER arrangement — the final design, the ultimate bead composition. Solstara is petrified beside it, hands on the board, mid-placement. The final bead is the Source Stone (166th, pure 42Hz/84Hz). The completed design is the "Wearable Song" in its final form — every stone placed, every frequency harmonized. The player can study this design as the Bead Board's reference solution.
 
 **The Metal-Sonic Foundations (Shadow):**
 In the Living Inn, the Bead Board's metal-sonic foundations are under the floor — the raw frequency architecture. In the Shadow Inn, the floor is TRANSPARENT. The foundations are visible — the full metal-sonic grid, every frequency cable, every resonant chamber, every IEM driver-type mechanism. The Shadow Inn's Campgrounds is the Bead Board's ENGINEERING DIAGRAM. The player can study the complete sonic architecture that powers the Bead Board.
@@ -243,21 +243,21 @@ In the Living Inn, the Bead Board's metal-sonic foundations are under the floor 
 
 **Jay** — petrified mid-pour, mid-song. Jay's tall Voltaire-goth silhouette is the Campground's most striking frozen image. The half-finished drink is on the bar. Jay's expression: joy. Not performed joy — the real thing. Under the goth aesthetic, Jay was having the time of their life. The Shadow Inn preserves the evidence.
 
-**Dani** — petrified mid-design. Hands on the Bead Board. The final bead is in hand — the Source Stone. The expression: focus. The artisan at the moment of completing the masterwork.
+**Solstara** — petrified mid-design. Hands on the Bead Board. The final bead is in hand — the Source Stone. The expression: focus. The artisan at the moment of completing the masterwork.
 
 **New Quests (Shadow Campgrounds):**
 
 **"Jay's Last Song"** — The player reads the complete song (gold notes in the air). The song is Jay's own composition — a song about the Inn. The final verse references the player: "And the guest who stayed became the host, and the host became the inn, and the inn became the song." Bringing the lyrics to Jay in the Living Inn: Jay looks at the words, laughs, and says: "...I wrote that years ago. ...I didn't think anyone would hear it. ...It's not finished. ...Wait — you saw it FINISHED? ...It IS finished? ...I've been singing a verse that's already done? ...That's the most Jay thing I've ever heard."
 
-**"The Master Design"** — The player studies Dani's completed Bead Board arrangement. The player can replicate it in the Living Inn. When the player places the final bead (Source Stone) in the Living Inn's Bead Board, the board plays the complete Inn Song — the full 84Hz chord. The Bead Board's master solution is the Inn Song, rendered as a jewelry design.
+**"The Master Design"** — The player studies Solstara's completed Bead Board arrangement. The player can replicate it in the Living Inn. When the player places the final bead (Source Stone) in the Living Inn's Bead Board, the board plays the complete Inn Song — the full 84Hz chord. The Bead Board's master solution is the Inn Song, rendered as a jewelry design.
 
 **"The Transparent Floor"** — The player examines the metal-sonic foundations. The foundations reveal hidden frequency channels — channels that connect the Bead Board to every zone in the Inn. The player can use this knowledge to unlock cross-zone frequency combinations on the Living Inn's Bead Board (stones from different zones that harmonize in ways the player hadn't discovered).
 
 **Shadow Campgrounds Items:**
 - Jay's Complete Song (gold notes, readable) — story/music item
-- The Master Bead Design (Dani's final arrangement) — Bead Board reference solution
+- The Master Bead Design (Solstara's final arrangement) — Bead Board reference solution
 - The Metal-Sonic Blueprint (transparent floor diagram) — Bead Board engineering upgrade
-- The Source Stone (visible in Dani's frozen hand) — the 166th stone, accessible early in Shadow Inn
+- The Source Stone (visible in Solstara's frozen hand) — the 166th stone, accessible early in Shadow Inn
 
 ---
 
@@ -446,7 +446,7 @@ Narrow, winding, gold-muraled. The murals tell the Undercity's COMPLETE history 
 
 **The Workshop District (Shadow):**
 
-**The Goldsmith's Studio** — frozen mid-cast. The mold is closed. The gold is poured. The player can open the mold: inside is the completed piece — the ultimate Soulstice Jewelry design. The "Wearable Song" in physical form — a pendant that encodes the complete Inn Song as a bead arrangement. The player can take the design to the Living Inn's Dani for replication.
+**The Goldsmith's Studio** — frozen mid-cast. The mold is closed. The gold is poured. The player can open the mold: inside is the completed piece — the ultimate Soulstice Jewelry design. The "Wearable Song" in physical form — a pendant that encodes the complete Inn Song as a bead arrangement. The player can take the design to the Living Inn's Solstara for replication.
 
 **The Bead Master's Bench** — frozen mid-composition. The Bead Board here is the MASTER Bead Board — all 167 stones placed (166 Living stones + the Stillness Stone). The arrangement is the Inn Song's ultimate form. The player can study it as the Bead Board's final reference.
 
@@ -482,7 +482,7 @@ The root-system clock is stopped. Every mechanism visible. The clock's final tim
 
 **"Scarlett's Journal"** — The player reads Scarlett's drawings. Scarlett has been documenting the Shadow Inn for years. The drawings are the Shadow Inn's history — how it formed, when each NPC petrified, what the Shadow Inn looked like before it was complete. Scarlett is the only witness to the Shadow Inn's creation. Scarlett's journal reveals: Medusa built the Shadow Inn gradually, one NPC at a time, starting with the oldest (the Constant) and ending with the newest. The Shadow Inn is not a snapshot — it's a LAYERED preservation, built over time.
 
-**"The Wearable Song"** — The player takes the Goldsmith's completed pendant design to Dani in the Living Inn. Dani can craft the Wearable Song — the physical bead arrangement that encodes the Inn Song. This is Soulstice Jewelry's masterwork — the ultimate product. The Wearable Song is the Bead Board's physical output, the digital-to-physical bridge.
+**"The Wearable Song"** — The player takes the Goldsmith's completed pendant design to Solstara in the Living Inn. Solstara can craft the Wearable Song — the physical bead arrangement that encodes the Inn Song. This is Soulstice Jewelry's masterwork — the ultimate product. The Wearable Song is the Bead Board's physical output, the digital-to-physical bridge.
 
 **"The World Seed"** — The player takes the Glass Blower's sphere (portable 42Hz source) to the geode cave. Placing the World Seed amplifies all stone frequencies by 50%. The geode cave becomes a resonant chamber — the complete Inn Song audible in the player's home.
 
@@ -772,7 +772,7 @@ Puzzles that REQUIRE shifting between Living and Shadow Inn:
 
 ### Puzzle 11: The Bead Board Master Solution
 **Living Inn:** The Bead Board has 166 stones. The optimal arrangement is unknown.
-**Shadow Inn:** Dani's shop has the Master Bead Board — all 167 stones placed.
+**Shadow Inn:** Solstara's shop has the Master Bead Board — all 167 stones placed.
 **Solution:** Study the arrangement in Shadow, replicate in Living. The Inn Song plays.
 
 ### Puzzle 12: The Gargoyle Choir

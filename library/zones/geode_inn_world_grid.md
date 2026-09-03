@@ -108,7 +108,7 @@ Each region has its own mineral veins. The player who wants a specific stone mus
 | Plant Category | Use | System Connection |
 |---|---|---|
 | **Frequency Herbs** | Enhance stone frequencies when combined at the Alchemist's Scale | Staircase zone — alchemy |
-| **Resonance Flowers** | Decorative elements for the Bead Board — flowers woven into bead arrangements add frequency harmonics | Bead Board / Campgrounds — Dani's shop |
+| **Resonance Flowers** | Decorative elements for the Bead Board — flowers woven into bead arrangements add frequency harmonics | Bead Board / Campgrounds — Solstara's shop |
 | **Catalyst Ingredients** | The Catalyst's drinks — beverages that enhance perception (hearing faint frequencies, seeing hidden nodes) | The Catalyst (Staircase NPC) |
 | **Cooking Ingredients** | Jay's tavern — food that provides exploration buffs (speed, frequency sensitivity, ley line detection) | Campgrounds — Jay's tavern |
 | **Medicinal Herbs** | Healing items for the Hollow Earth RPG (the only zone with combat — medicinal herbs restore health) | Hollow Earth — combat preparation |

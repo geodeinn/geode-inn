@@ -68,7 +68,7 @@ Harry Potter's structural DNA in the Geode Inn:
 | The hidden magical world | The Inn hidden from the ordinary world — the tree, the ley lines, the Fae Kingdom |
 | Dobby (loyal, overlooked, sees clearly) | The Hearth Tender — a small helper who knows every secret because nobody watches the help |
 | The house-elf's loyalty | The Echoes' devotion to the creators' legacy — memory-ghosts who serve a purpose nobody else remembers |
-| Found family | The Inn's community — Jay, Dani, the Crone, Beverley, the Catalyst, the Wanderer |
+| Found family | The Inn's community — Jay, Solstara, the Crone, Beverley, the Catalyst, the Wanderer |
 | The castle's stairs that move | The Staircase (Level 5) — Escher-inspired impossible geometry |
 | The Room of Requirement | The player's room in the Undercity — grows and changes based on what the player has earned |
 | Horcruxes (objects of power) | The 12 Archive Records — crystal shards that contain the creators' history |
@@ -159,7 +159,7 @@ HARRY POTTER ──────────────────────�
 Hogwarts ──────────────────────────── The Inn (living structure, stairs that move)
 Dobby ─────────────────────────────── The Hearth Tender (overlooked, sees all)
 The hidden world ──────────────────── The Inn hidden from the ordinary world
-Found family ──────────────────────── Jay, Dani, the Crone, Beverley, the Catalyst
+Found family ──────────────────────── Jay, Solstara, the Crone, Beverley, the Catalyst
 The Room of Requirement ───────────── Player's Room (Undercity — grows with player)
 Horcruxes ─────────────────────────── The 12 Archive Records (crystal shards)
 ```

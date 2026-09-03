@@ -117,7 +117,7 @@ The Inn's World Map as a game board. The player moves along paths between cultur
   - **Jay's Tavern:** Rest and restore health. Listen to a song (music plays).
   - **Beverley's Library:** Read a hint. Find a secret.
   - **The Firekeeper's Hearth:** Story time. A lore drop.
-  - **Dani's Shop:** Buy a power-up with collected stones.
+  - **Solstara's Shop:** Buy a power-up with collected stones.
   - **The Bead Board Mini:** A quick bead-matching puzzle for a bonus
 - Airship levels: the Arcana flies overhead — board it for a special platforming challenge
 - Bosses: each cultural zone's guardian creature

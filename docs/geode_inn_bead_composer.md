@@ -1,6 +1,6 @@
 # Geode Inn — The Bead Composer
 ## System: The Digital Jewelry Studio
-## Access: Undercity → Master's Bench + Campgrounds → Dani's Studio
+## Access: Undercity → Master's Bench + Campgrounds → Solstara's Studio
 ## Prerequisite: Level 4 (Campgrounds) reached + at least 10 stones collected
 
 ### Overview
@@ -84,9 +84,9 @@ Krista receives the order at Soulstice and crafts the physical piece. The digita
 
 ---
 
-## Design Principles (Taught by Dani)
+## Design Principles (Taught by Solstara)
 
-Dani (the Campgrounds jeweler) teaches the player the principles of sonic jewelry design through the Display Board (her finished pieces) and the Commission Book (NPC requests):
+Solstara (the Campgrounds jeweler) teaches the player the principles of sonic jewelry design through the Display Board (her finished pieces) and the Commission Book (NPC requests):
 
 1. **The Drone is the Foundation** — the metal wire's frequency is the piece's base. Everything else builds on it. Choose the metal first.
 2. **Contrast Creates Interest** — beads of similar frequencies produce a drone (boring). Beads of very different frequencies produce chaos (unpleasant). Beads with COMPLEMENTARY frequencies (harmonic intervals) produce beauty.
@@ -127,7 +127,7 @@ The same design, the same stones, the same frequencies — playable on every pla
 - **Soulstice Jewelry** — the Composer is the digital version of Krista's booth process. Every design can become a real piece.
 - **The Sonic Mineral Codex** — the Composer uses the Codex's frequency data for each stone
 - **The Stone Vibration Touch System** — the Composer's audio engine uses the same frequency mapping
-- **The Campgrounds** — Dani's Studio is the Composer's "inspiration gallery" and tutorial space
+- **The Campgrounds** — Solstara's Studio is the Composer's "inspiration gallery" and tutorial space
 - **The Undercity** — the Master's Bench is the Composer's advanced workspace (more tools, more metals, more options)
 - **The Blacksmith** (Campgrounds) — provides the structural metals and custom findings
 - **The Nine Muses** — Euterpe (96Hz, music) buff enhances the Composer's audio quality

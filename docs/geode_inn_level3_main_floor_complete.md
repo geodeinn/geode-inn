@@ -60,7 +60,7 @@ The bar is where the player:
 - The Cool (Clockwork Skies) — drinks alone, but not sadly. Sometimes the player can sit with the Cool and share a drink. The Cool says three words. They're the right three words.
 - The Crone (Catacombs) — comes upstairs for a single drink, once a week. Orders something very specific. The Weeaboo always has it ready. The Crone never thanks the Weeaboo. The Weeaboo never expects thanks.
 - Jay (Campgrounds) — brings ale from the tavern. Trades recipes with the Weeaboo. Laughs loudly.
-- Dani (Campgrounds) — comes for the quiet. Sits in the corner, draws bead designs on napkins. Leaves the napkins. The Weeaboo keeps them.
+- Solstara (Campgrounds) — comes for the quiet. Sits in the corner, draws bead designs on napkins. Leaves the napkins. The Weeaboo keeps them.
 
 ### 3. The Arcade
 The Inn's game room. Four machines styled as ancient artifacts, each one a doorway to a deeper zone:
@@ -89,7 +89,7 @@ The commercial bridge. The Soulstice Jewelry space plus artisan items plus in-ga
 
 2. **Artisan Items** — from other craftspeople and zone NPCs:
    - Jay's tavern ale (Campgrounds) — a buff item; drinking Jay's ale before a voyage increases crew morale
-   - Dani's bead kits (Campgrounds) — crafting materials; raw stones for the Bead Board
+   - Solstara's bead kits (Campgrounds) — crafting materials; raw stones for the Bead Board
    - Canopy City wind-glass — a decorative item that plays a captured wind sound when opened
    - The Clockwork Maker's music boxes — each plays a different zone's ambient theme
 

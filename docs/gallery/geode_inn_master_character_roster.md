@@ -89,7 +89,7 @@ A coinciding list of every created character, critter, creature, and item with v
 | 69 | Quire | Archive | ✅ Portrait | Lovecraftian scholar, restricted texts, hushed/careful |
 | 70 | Lark (Player Guide) | Main Floor (L3) | ✅ Portrait | Formerly Player Guide |
 | 71 | Jay (Voltaire vibe) | Campgrounds (L4) | ✅ Portrait | |
-| 72 | Dani | Campgrounds (L4) | ✅ Portrait | Jeweler character |
+| 72 | Solstara | Campgrounds (L4) | ✅ Portrait | Jeweler character |
 | 73 | Speter Adams | Main Floor (L3) | ✅ Portrait | |
 | 74 | Jakob | Main Floor (L3) | ✅ Portrait | |
 | 75 | Anna | Cosmology (L1) | ✅ Portrait | |

@@ -52,7 +52,7 @@ Amicable silence. Two world-builders side by side. The silence is the deepest fo
 ---
 
 ## 3. Jay — The Huntsman / The Tavern Keeper
-**Zone: Campgrounds (outside the Inn) | Charles' best friend, Dani's friend**
+**Zone: Campgrounds (outside the Inn) | Charles' best friend, Solstara's friend**
 
 ### Core Identity
 - 7+ feet tall. Wolf comes up to the knee (the scale reveal).

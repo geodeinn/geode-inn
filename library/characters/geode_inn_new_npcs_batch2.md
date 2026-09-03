@@ -28,14 +28,14 @@
 - **Note:** Beverley may expect to be the Inn's librarian — this is a humor note, not a casting decision
 
 ### 4. Jay — Charles' Best Friend
-- **Relationship:** Charles' best friend, Dani's good friend
+- **Relationship:** Charles' best friend, Solstara's good friend
 - **Visual:** Former Marine, tall, long black hair, Cherokee cheekbones, goth musician Voltaire energy. Loud and charismatic like Charles. Smarter than people think — intentional camouflage.
 - **Companion:** A derpy wolf — large timber wolf, dumb lovable expression, acts like a puppy
 - **Lineework:** Heavy cel-shaded (charismatic tradesman class)
 - **Art:** https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/ba43f2c4a_generated_image.png
-- **Inn Role:** TBD — Jay wants to contribute his own backstory. Connected to Charles and Dani.
+- **Inn Role:** TBD — Jay wants to contribute his own backstory. Connected to Charles and Solstara.
 
-### 5. Dani — Fellow Jeweler
+### 5. Solstara — Fellow Jeweler
 - **Relationship:** Jay's good friend, fellow jeweler
 - **Visual:** Jeweler's hands, loupe, leather apron, practical build, warm grounded presence. Listens more than speaks.
 - **Lineework:** Soft flowing (artisan/lore character)
@@ -62,7 +62,7 @@
 - What is Jakob's Inn role — the Sentinel's child far from home?
 - Does Beverley get the librarian role or does someone else?
 - What is Jay's backstory that he wants to contribute?
-- How does Dani connect to the artisan market / Soulstice Jewelry?
+- How does Solstara connect to the artisan market / Soulstice Jewelry?
 - What lineework style for each character's role?
 
 ---
@@ -73,7 +73,7 @@
 - Beverley (Librarian): https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/dfadc0d2d_generated_image.png
 - Beverley (standing): https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/b9b57c888_generated_image.png
 - Jay + Wolf: https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/ba43f2c4a_generated_image.png
-- Dani: https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/bf5bff742_generated_image.png
+- Solstara: https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/bf5bff742_generated_image.png
 - River (redesign): https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/fc181cba8_generated_image.png
 - John (Fezzik): https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/7c3181045_generated_image.png
 - Librarian (original accidental): https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/476d41631_generated_image.png

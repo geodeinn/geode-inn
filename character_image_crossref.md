@@ -114,7 +114,7 @@ Base URL prefix: `https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/
 ---
 
 ## REMAINING UPLOADS (Future Batches)
-- Current session characters: Speter Adams (chameleon), Jay (tavern keeper), Dani (jeweler), Scarlett, Clockwork Skies crew, Freyr & Freyja, Eileen, Anna, and more
+- Current session characters: Speter Adams (chameleon), Jay (tavern keeper), Solstara (jeweler), Scarlett, Clockwork Skies crew, Freyr & Freyja, Eileen, Anna, and more
 - Zone/environment concept art (460+ images)
 - Celtic bead frame components
 - Stone bead crop images (160 circular PNGs)

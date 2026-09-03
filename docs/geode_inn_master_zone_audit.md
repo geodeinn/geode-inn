@@ -36,7 +36,7 @@
 | Portrait Gallery | Mapplethorpe | Portrait subjects | 42Hz | — | — | Portrait cards | COMPLETE |
 | Brim's Nook | Magritte | Brim, Monsieur Sentient | 42Hz (pipe frequency) | Brim's questline | — | The Pipe (Sentient), transformation tokens | COMPLETE |
 | The Arcade | SNES gold Celtic | Beverley (librarian) | 42Hz | — | 48 games catalogued | Score Stone, arcade tokens | COMPLETE |
-| The Market | Mucha/Royo | 11 vendors, Dani's Booth | 42Hz commerce | Market quests | Market Day (merchant sim) | MarketItem entity (Soulstice bridge) | COMPLETE |
+| The Market | Mucha/Royo | 11 vendors, Solstara's Booth | 42Hz commerce | Market quests | Market Day (merchant sim) | MarketItem entity (Soulstice bridge) | COMPLETE |
 | The Music Room | — | The Bard | 42Hz composition | — | Bead Board Battle | Composed pieces, bead shapes | COMPLETE |
 | The Archive | Klimt gold | Beverley, The Teacher | 42Hz record | Archive quests | The Deep Read (library nav) | Archive cards, ruler | COMPLETE |
 | Modern Day Legends | — | — | 42Hz (outside pre-industrial) | — | — | Serrano Parable, Sync Paradox entries | COMPLETE |

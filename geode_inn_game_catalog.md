@@ -133,7 +133,7 @@ Each zone has one signature game that embodies its unique mechanic and theme.
 - **Inspiration:** Recettear / trading sim
 - **Geography:** The Renaissance Faire campgrounds
 - **Culture:** Medieval trade, faire economics
-- **Mechanic:** Buy stones from traveling merchants, sell finished bead designs to faire-goers. Prices fluctuate based on weather, events, and demand. Each merchant has a personality — Jay haggles, Dani gives fair prices, the Blacksmith only trades metal components.
+- **Mechanic:** Buy stones from traveling merchants, sell finished bead designs to faire-goers. Prices fluctuate based on weather, events, and demand. Each merchant has a personality — Jay haggles, Solstara gives fair prices, the Blacksmith only trades metal components.
 - **Reward:** Coins (in-game currency) + rare stones from traveling merchants
 - **Sound:** Ren Faire ambient — lutes, crowd murmur, Jay's laughter
 - **Visual:** Market stalls in golden daylight. Merchants behind their booths. Price tags update in real-time.

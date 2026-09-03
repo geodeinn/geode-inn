@@ -168,7 +168,7 @@ Size affects the board layout — small beads can fit more per row, large beads 
 
 Not all shapes are available at first contact with the Bead Composer. Shapes unlock as the player progresses:
 
-### Tier 1: Campgrounds — Dani's Studio (Level 4+)
+### Tier 1: Campgrounds — Solstara's Studio (Level 4+)
 Available immediately at the Composer's tutorial location:
 - **Smooth:** Round, Barrel, Coin
 - **Faceted:** Round, Oval, Cushion
@@ -179,7 +179,7 @@ Unlocked when the player reaches the Undercity's advanced workshop:
 - **Faceted:** Marquise, Pear, Square Princess
 
 ### Tier 3: Master Crafter (Level 12+)
-Unlocked after completing Dani's master commission:
+Unlocked after completing Solstara's master commission:
 - **Smooth:** Tube, Teardrop
 - **Faceted:** Trillion, Baguette
 
@@ -237,6 +237,6 @@ The orientation feature is unique to asymmetric shapes — a teardrop placed nar
 - **Faceting classification** — `geode_inn_faceting_classification.md` (database rules and status)
 - **Mohs resonance architecture** — `geode_inn_mohs_resonance_architecture.md` (frequency mapping per stone)
 - **Stone entity** — `canFacet`, `beadFinish`, `opacity` fields drive shape availability
-- **Dani (Campgrounds jeweler)** — teaches Tier 1 shapes and design principles
+- **Solstara (Campgrounds jeweler)** — teaches Tier 1 shapes and design principles
 - **The Blacksmith** — provides metals and custom findings
 - **Soulstice Jewelry** — physical production from digital designs

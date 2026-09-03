@@ -6,7 +6,7 @@
 ### ZONE 4: CAMPGROUNDS (Level 4 — Exterior & Ren Faire)
 
 1. **Subject Name:** Campgrounds Exterior & Market Field Background (Zone 4)
-2. **Visual Description:** An expansive, open-air Renaissance Faire set against the rustic front facade of the Geode Inn and the treeline of an ancient forest. Canvas market stalls with red-and-purple striped canopies, rough-hewn wooden booths, and stone fire pits circle a dusty earthen courtyard. Visible structures include the rustic log facade of the Huntsman Tavern with its wide wooden porch, Dani's canvas-roofed jeweler studio filled with workbenches, the open-air Blacksmith's forge with red coal embers, and a velvet-draped Fortune Teller booth.
+2. **Visual Description:** An expansive, open-air Renaissance Faire set against the rustic front facade of the Geode Inn and the treeline of an ancient forest. Canvas market stalls with red-and-purple striped canopies, rough-hewn wooden booths, and stone fire pits circle a dusty earthen courtyard. Visible structures include the rustic log facade of the Huntsman Tavern with its wide wooden porch, Solstara's canvas-roofed jeweler studio filled with workbenches, the open-air Blacksmith's forge with red coal embers, and a velvet-draped Fortune Teller booth.
 3. **Linework Style:** Heavy cel-shaded (tradesman style) — bold 3-4px clean black outlines with flat fills on architectural elements, wooden beams, canvas tents, and environmental props to establish solid, grounded physical presence.
 4. **Color Palette:** Canvas tan, deep grass green, warm timber brown, open sky blue; secondary accents in ale amber, forge orange, banner red, market-stripe purple, bright copper, and polished steel.
 5. **Lighting/Atmosphere:** Crisp, warm open-air daylight. Sunbeams filter through canvas awnings and tree branches. Soft rising heat hazes shimmer around the forge embers and tavern chimney, contrasting with cooler shadows under tent canopies.
@@ -88,7 +88,7 @@
 ---
 
 #### 3. DANI — Master Jeweler & Zen Artisan
-1. **Subject Name:** Dani (The Jeweler)
+1. **Subject Name:** Solstara (The Jeweler)
 2. **Visual Description:** A curvy, grounded woman with wild, cascading long brown hair, zen eyes, and jeweler's hands marked by tiny, honorable soldering burn scars. She wears layered bohemian skirts, a fitted earth-tone bodice, fringe vests, and multiple metal bangles and tiny silver bells along her wrists and ankles.
 3. **Linework Style:** Heavy cel-shaded (tradesman style) — clean 3px outlines highlighting craft tools, bead strings, and layered textiles with sharp clarity.
 4. **Color Palette:** Warm terracotta, moss green, deep copper, rust orange, layered with jewel accents (turquoise blue, garnet red, lapis lazuli).

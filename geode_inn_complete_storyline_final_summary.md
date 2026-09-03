@@ -163,7 +163,7 @@ The external threshold. The ren faire front porch. Market stalls connecting to t
 
 **Key Characters:**
 - **Jay** — Huntsman Tavern Keeper. Former Marine, very tall, long black hair, Cherokee cheekbones, Voltaire-goth aesthetic. Derpy wolf companion (full-grown but only knee-height to Jay — reveals Jay's enormous height). Charles' best friend. Fun, loving, calls nonsense with warmth and a grin. Heavy cel-shaded linework.
-- **Dani** — Jeweler, Jay's good friend. Wild brown long hair, curvy, zen energy, raised by hippies, dresses like a gypsy. Goes to raves. Works the huge Renaissance Faire near Dallas. Jeweler's hands with small burn scars. Calm, grounded, centered — the quiet counterpoint to Jay's loud energy. Jewelry-configurator shop.
+- **Solstara** — Jeweler, Jay's good friend. Wild brown long hair, curvy, zen energy, raised by hippies, dresses like a gypsy. Goes to raves. Works the huge Renaissance Faire near Dallas. Jeweler's hands with small burn scars. Calm, grounded, centered — the quiet counterpoint to Jay's loud energy. Jewelry-configurator shop.
 
 **The Baby Dragon Mascot** — Heraldic-style dragon, Toothless-inspired. Cat-like expression, curiosity, and trustworthiness. The cave reward system: a geode that fills with gems upon level completion, symbolizing the formation of a geode.
 
@@ -465,7 +465,7 @@ A browsable interactive catalog of all 166 Geode Inn stones. Each stone plays it
 - **The Firekeeper (Tim Curry)** — Permanent storyteller. The voice by the hearth.
 - **The Crone (Hopkins)** — Krista's mom. The archive keeper. The Hopkins gaze.
 - **Jay** — Tavern keeper. Former Marine. Voltaire-goth. Derpy wolf.
-- **Dani** — Jeweler. Zen energy. Renaissance Faire.
+- **Solstara** — Jeweler. Zen energy. Renaissance Faire.
 
 ### The Council of Thinkers (Roaming AI Debate System)
 Tesla, Da Vinci, Newton, Einstein — roam the Inn debating. The system generates real-time philosophical conversations based on each thinker's actual positions.
@@ -508,7 +508,7 @@ Anubis, Persephone and Hades, Morrigan and Mab, Loki, Hel, Arthur + Galahad + Me
 
 ### The Linework-as-UI System
 NPC role and quest-purpose are visually encoded through linework style:
-- **Heavy cel-shaded** — Tradesmen (Blacksmith, Clockmaker, Jay, Dani)
+- **Heavy cel-shaded** — Tradesmen (Blacksmith, Clockmaker, Jay, Solstara)
 - **Soft flowing** — Lore (Catalyst, Thrum, Anna's doodles)
 - **Sharp/angular** — Guardians (Gargoyles, Water Monsters, Fae guards)
 - **No-outline** — Cosmological (Allfather, Vanir, Cosmic Crew)

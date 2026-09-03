@@ -38,7 +38,7 @@ The room says: I am safe here. I can be all of myself here. No one comes in unle
 ### Jay
 **Location (proposed):** TBD — awaiting backstory from Krista
 
-### Dani
+### Solstara
 **Location (proposed):** TBD — awaiting placement details
 
 ### Charles

@@ -237,7 +237,7 @@ With Ley Line Vision unlocked, the World Grid reveals its hidden layer:
 - **Alchemist's Scale (Staircase):** Frequency herbs enhance stones. Fragments combine into whole stones.
 - **Jay's Tavern (Campgrounds):** Cooking ingredients → exploration buffs. Fish dishes.
 - **The Catalyst (Staircase):** Catalyst ingredients → perception-enhancing drinks.
-- **Dani's Shop (Campgrounds):** Resonance flowers as Bead Board decorative elements.
+- **Solstara's Shop (Campgrounds):** Resonance flowers as Bead Board decorative elements.
 - **Hollow Earth:** Deepest caves connect to Dark Reaches. Hollow Earth minerals and flora at max gathering levels. Medicinal herbs for Hollow Earth combat.
 - **Water Zone:** The 42Hz Carp from the Source. Underground ocean fishing. Deep Pearl charm unlocks deepest fishing.
 - **World Map:** Ley Line Vision shows gathering nodes on the map. Regions are the World Grid's geography.

@@ -21,7 +21,7 @@ Zone template system: character homes as architectural templates for player-buil
 6. **Three-tempo system for Lighthouse** — Owl/Persephone/Pirate
 7. **Bifocal Gaze mechanic** — Lighthouse bridges Water Zone and Cosmology
 8. **Fae Kingdom faction system** — Seelie/Unseelie/Neutral with reputation mechanics
-9. **New character profiles**: Scarlett, John, Jay, Dani, Beverley, Firekeeper confirmed
+9. **New character profiles**: Scarlett, John, Jay, Solstara, Beverley, Firekeeper confirmed
 10. **Master structure doc updated** with zone template system, new characters, completed items
 
 ### Files Created/Updated
@@ -36,7 +36,7 @@ Zone template system: character homes as architectural templates for player-buil
 - `geode_inn_lighthouse_item_templates.md` — Lighthouse zone template
 - `geode_inn_firekeeper_quest.md` — Firekeeper quest design doc
 - `geode_inn_master_structure.md` — updated with zone template system + new characters
-- `geode_inn_new_npcs_batch2.md` — new NPC profiles (Jay, Dani, Beverley, Scarlett, John)
+- `geode_inn_new_npcs_batch2.md` — new NPC profiles (Jay, Solstara, Beverley, Scarlett, John)
 
 ### Images Generated
 - Firekeeper portrait (refined): https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/409aae878_generated_image.png

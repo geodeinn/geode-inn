@@ -95,7 +95,7 @@ Each facet of the Geode Inn — each floor, each zone — is rendered in the vis
 
 **The Artist:** Mucha defined Art Nouveau — flowing organic lines, decorative borders, botanical elements, elegant female figures framed by ornamental halos. His posters are literally advertisements for crafts, performances, and products. The Campgrounds ARE a Mucha poster.
 
-**Why Mucha for the Campgrounds:** The Campgrounds are the Inn's Ren Faire — market stalls, artisan shops, Jay's tavern, Dani's bead-configurator. Everything is handcrafted, decorative, organic. Mucha's Art Nouveau is the aesthetic of CRAFT — of beautiful, functional objects decorated with organic forms. The Campgrounds' market stalls are Mucha posters; the Ren Faire IS Art Nouveau.
+**Why Mucha for the Campgrounds:** The Campgrounds are the Inn's Ren Faire — market stalls, artisan shops, Jay's tavern, Solstara's bead-configurator. Everything is handcrafted, decorative, organic. Mucha's Art Nouveau is the aesthetic of CRAFT — of beautiful, functional objects decorated with organic forms. The Campgrounds' market stalls are Mucha posters; the Ren Faire IS Art Nouveau.
 
 **Color Palette:**
 - Mucha's palette: muted earth tones, olive green, dusty rose, mustard yellow, deep burgundy, cream, gold accents
@@ -105,10 +105,10 @@ Each facet of the Geode Inn — each floor, each zone — is rendered in the vis
 **Key Visual Elements:**
 - **The Market Stalls** — Mucha posters. Each stall is framed by a Mucha-style decorative border — flowing vines, ornamental corners, a circular panel above the stall with the artisan's name. The stalls are Art Nouveau advertisements for the artisans' work
 - **Jay's Tavern** — a Mucha interior. Flowing wood grain, decorative ironwork, botanical prints on the walls. Jay is a Mucha figure — tall, elegant, framed by ornamental elements. The wolf is a Mucha animal — a stylized, flowing form
-- **Dani's Shop** — the bead-configurator. Mucha's decorative precision applied to jewelry. The shop is an Art Nouveau jewelry display — beads arranged in Mucha-style ornamental patterns. The Bead Board itself is a Mucha composition tool — the tray is an ornamental frame, the dips are decorative elements
+- **Solstara's Shop** — the bead-configurator. Mucha's decorative precision applied to jewelry. The shop is an Art Nouveau jewelry display — beads arranged in Mucha-style ornamental patterns. The Bead Board itself is a Mucha composition tool — the tray is an ornamental frame, the dips are decorative elements
 - **The Blacksmith's Forge** — Mucha's metalwork aesthetic. The forge is heavy, functional, but DECORATED — Art Nouveau ironwork. The Blacksmith's tools are beautiful objects. The copper/silver/gold chord is a Mucha color palette: copper (#B87333), silver (#C0C0C0), gold (#FFD700)
 
-**Linework:** Heavy cel-shaded (tradesman style). Mucha's figures have bold outlines — the Art Nouveau outline. Jay, Dani, the Blacksmith — all rendered with Mucha's confident outlines and cel-shaded color blocks.
+**Linework:** Heavy cel-shaded (tradesman style). Mucha's figures have bold outlines — the Art Nouveau outline. Jay, Solstara, the Blacksmith — all rendered with Mucha's confident outlines and cel-shaded color blocks.
 
 ---
 

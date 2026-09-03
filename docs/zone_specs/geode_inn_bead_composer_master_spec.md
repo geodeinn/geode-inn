@@ -109,7 +109,7 @@ One codebase. The game layer is a conditional wrapper. No game login required fo
 | Template Gallery | Pre-made arrangements by style (boho, classic, minimalist, gothic). Community-shared templates. |
 | Client Portal | Designers send preview links to clients. Clients approve, request changes, or modify. Order flows to the designer's production queue. |
 | Batch Design | Design multiple pieces as a collection. Shared stones with inventory tracking. Collection-level audio (the full set as one composition). |
-| Education Mode | Faceting rules explained. Audio theory for jewelry. Dani's design principles as interactive tutorials. The app teaches the craft while you use it. |
+| Education Mode | Faceting rules explained. Audio theory for jewelry. Solstara's design principles as interactive tutorials. The app teaches the craft while you use it. |
 | Soulstice Integration | Direct order pipeline to Krista's workshop. |
 
 ---
@@ -144,7 +144,7 @@ Inn Mode is the audiobook's DSP system repurposed for the Composer. The composit
 | The Wearable System | Bead Composer designs can feed directly into the Soulstice jewelry line. A composition becomes a physical piece. |
 | Soulstice Jewelry | Direct order pipeline to Krista's workshop. Designs become real jewelry. |
 | The MarketItem Entity | Composer designs can be listed as MarketItems (custom jewelry commissions). |
-| The Novel | Dani's workshop (Level 4) IS the Bead Composer's tutorial layer. |
+| The Novel | Solstara's workshop (Level 4) IS the Bead Composer's tutorial layer. |
 
 ---
 
@@ -167,7 +167,7 @@ Inn Mode is the audiobook's DSP system repurposed for the Composer. The composit
 - [ ] Customer preview link system (shareable URLs)
 - [ ] Supplier API integration (Rio Grande, Fire Mountain)
 - [ ] Client portal (designer → client approval workflow)
-- [ ] Education Mode tutorials (Dani's design principles)
+- [ ] Education Mode tutorials (Solstara's design principles)
 - [ ] Soulstice order pipeline
 
 ---

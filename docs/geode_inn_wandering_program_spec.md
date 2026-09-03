@@ -49,7 +49,7 @@ The Wandering Program ensures that the Geode Inn maintains a living, autonomous 
 
 ### 1.3 Strict Voice and Nomenclature Protocol
 In strict compliance with the narrative spine of the Geode Inn, all character descriptions, schedule scripts, dialogue triggers, and technical documentation in this specification adhere to the following rules:
-- **Title and Name Referencing Only:** Characters are identified exclusively by their proper names (e.g., *Beverley*, *Nyx*, *Anna*, *The Wayfarer*, *Jay*, *Dani*, *Charles*, *Gesso*, *Einstein*) or official titles (e.g., *The Firekeeper*, *The Catalyst*, *The Storyteller*, *The Reader*, *The Cartographer*, *The Crone*, *The Astronomer*, *The Allfather*, *The Wandermaster*, *The Cook*, *The Captain*).
+- **Title and Name Referencing Only:** Characters are identified exclusively by their proper names (e.g., *Beverley*, *Nyx*, *Anna*, *The Wayfarer*, *Jay*, *Solstara*, *Charles*, *Gesso*, *Einstein*) or official titles (e.g., *The Firekeeper*, *The Catalyst*, *The Storyteller*, *The Reader*, *The Cartographer*, *The Crone*, *The Astronomer*, *The Allfather*, *The Wandermaster*, *The Cook*, *The Captain*).
 - **Absolute Elimination of Gendered Pronouns:** Gendered pronouns (*he*, *him*, *his*, *she*, *her*, *hers*) are strictly prohibited across all documentation, event logic, and dialogue scripts. Only gender-neutral forms (*they*, *them*, *their*, *it*, *its*) or direct names and titles shall be utilized.
 
 ---
@@ -437,7 +437,7 @@ The player can visit the Cartographer at any time to consult the Master Map:
 | **Einstein** | Branches / Solarium | Observatory Bench | Calculation Nook | Solarium Chess | Night Study |
 | **Nyx** | The Void Realm | Void Realm | Void Realm | Void Realm | Void Realm |
 | **Jay** | Trunk (Main Floor) | Reception Desk | Lobby Greeting | Tavern Chat | Quarters Rest |
-| **Dani** | Trunk (Main Floor) | Courtyard Garden | Botanical Care | Solarium Chat | Quarters Rest |
+| **Solstara** | Trunk (Main Floor) | Courtyard Garden | Botanical Care | Solarium Chat | Quarters Rest |
 | **The Bearsark** | Nodes (Mediterranean)| Border Guard | Shield Practice | Terrace Wine | Border Vigil |
 | **The Mason** | Roots (Undercity) | Stone Cutting | Archway Repair | Forge Hearth | Cavern Rest |
 | **The Clockmaker** | Roots (Undercity) | Gear Tuning | Chronometer Check | Workshop Tea | Rest |

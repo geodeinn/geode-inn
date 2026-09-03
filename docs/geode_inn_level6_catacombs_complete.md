@@ -194,7 +194,7 @@ Charles chose the archive because the earth remembers too. The Catacombs are not
 | Text Reveal Speed | ~50ms (flowing — Charles talks like a river, continuous and warm) |
 | Pause | ~700ms (comfortable — Charles pauses to let the earth's timescale sink in) |
 | Expressiveness | 0.60 (high — Charles's warmth is visible, audible, infectious) |
-| Instrument | Stone on stone — but different from Dani's jeweler stone-on-stone. Charles's sound is BOULDER on boulder — deep, resonant, the earth's percussion. The sound of geology. The sound of deep time made audible. |
+| Instrument | Stone on stone — but different from Solstara's jeweler stone-on-stone. Charles's sound is BOULDER on boulder — deep, resonant, the earth's percussion. The sound of geology. The sound of deep time made audible. |
 
 **The Quest: "The Stone That Remembers"**
 

@@ -30,7 +30,7 @@ Raw stones, cut stones, polished stones. The outer ring is where stone traders f
 
 **Middle Ring — The Craft Market:**
 Finished goods — jewelry, tools, instruments, charms. The middle ring is where the artisans work:
-- Dani's booth: finished bead compositions, Wearable Songs, stone jewelry
+- Solstara's booth: finished bead compositions, Wearable Songs, stone jewelry
 - The Blacksmith's stall: metal findings, tools, custom commissions
 - The Silversmith (Current): crystal-lens devices, silver findings, the Examiner's camera
 - The Bard's stall: musical instruments, sheet music (the tabletop compositions)
@@ -110,7 +110,7 @@ The player can sell items to vendors who are interested in that item type. Stone
 Some vendors accept TRADES instead of coins. The Examiner trades fragments for identified stones. The Blacksmith trades findings for raw metal. The Caravan Master (Petra) trades exotic stones for stones the player has but the Caravan Master doesn't. Trading is the market's barter system — the economy before currency.
 
 ### Commissioning
-The player can commission custom items from artisans. Dani takes bead commissions (the Bead Composer system). The Blacksmith takes metal commissions. The Silversmith takes lens commissions. Commissions cost more than ready-made items but are tailored to the player's specifications (specific stones, specific metals, specific frequencies).
+The player can commission custom items from artisans. Solstara takes bead commissions (the Bead Composer system). The Blacksmith takes metal commissions. The Silversmith takes lens commissions. Commissions cost more than ready-made items but are tailored to the player's specifications (specific stones, specific metals, specific frequencies).
 
 ---
 
@@ -144,7 +144,7 @@ Krista's Viking earrings (iolite, copper, Celtic knotwork, Thor's hammer — her
 - **MarketItem Entity** — the market's inventory system. Every item is a database record.
 - **Stone Entity** — each MarketItem with a `stoneType` links to the Stone entity for lore and frequency data.
 - **Soulstice Jewelry** — the Soulstice Gallery is the real-world bridge. Each piece links to the real shop.
-- **The Bead Composer** — Dani's booth is the Composer's physical location. The player can compose at Dani's bench.
+- **The Bead Composer** — Solstara's booth is the Composer's physical location. The player can compose at Solstara's bench.
 - **The Campgrounds** — the Blacksmith's stall here connects to the Campgrounds' forge (where the metal is made).
 - **The Wandering Program** — wandering creatures bring back items that appear in the market's outer ring (the stone market).
 - **The Mycorrhizal Network** — items traded through the network arrive at the player's nook, not the market. The market is the surface trade; the network is the root trade.

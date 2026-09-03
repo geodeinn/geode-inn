@@ -370,12 +370,12 @@ TO BE DESIGNED
 | **John** | Eileen's son (15, 6'5") | The family Fezzik (gentle giant) | Session memory ✓ | Complete |
 | **Beverley** | Alexia's mom (Australian) | The Librarian (2/3 human size, silver hair, intimidating) | Session memory ✓ | Complete |
 | **Jay** | Charles's best friend, former Marine | Charismatic NPC (Voltaire-goth, Cherokee cheekbones, derpy wolf) — backstory pending | Session memory | Partial |
-| **Dani** | Jay's friend, jeweler | Zen jeweler NPC (Renaissance Faire, rave-going, gypsy style) | Session memory | Partial |
+| **Solstara** | Jay's friend, jeweler | Zen jeweler NPC (Renaissance Faire, rave-going, gypsy style) | Session memory | Partial |
 
 **MISSING NPC DESIGNS:**
 - [ ] Ryan, Katy, Zack, Thorin/Marijke — full design docs
 - [x] Jay — basic profile complete, full backstory pending from Krista
-- [x] Dani — basic profile complete, full backstory pending
+- [x] Solstara — basic profile complete, full backstory pending
 - [x] Scarlett — full profile complete, Undercity home designed
 - [x] John — full profile complete
 - [x] Beverley — full profile complete, librarian role assigned

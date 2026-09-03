@@ -30,7 +30,7 @@ The Composer has two entry points, both running the same code:
 
 **Door 1: The Game (for players)**
 - Accessed through the Geode Inn game after reaching Level 4 (Campgrounds)
-- Players see the Composer as Dani's Studio (tutorial) or the Master's Bench (Undercity)
+- Players see the Composer as Solstara's Studio (tutorial) or the Master's Bench (Undercity)
 - Stones are gated by game progression — players use what they've collected
 - Shapes unlock in tiers tied to game level
 - The Composer is part of the game world, with NPCs, quests, and commissions
@@ -173,7 +173,7 @@ The Composer has two entry points, both running the same code:
 ### Education Mode
 - Faceting rules explained (why this stone can't be faceted)
 - Audio theory for jewelry (why these frequencies work together)
-- Dani's design principles as interactive tutorials
+- Solstara's design principles as interactive tutorials
 - The app teaches the craft while you use it
 
 ### Integration with Soulstice Jewelry

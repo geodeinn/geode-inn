@@ -118,7 +118,7 @@ The Arcana is frozen mid-flight. The Cabbit is stone, mid-purr. The 50 BPM is st
 The hearth fire is frozen mid-flicker — a sculpture of light. The Market stalls are stocked with the final versions of every item. The Arcade games are frozen mid-play — the high scores are set. The player can READ the high scores (they're the player's own future scores — the Shadow Inn knows what the player will achieve). The Modern Day Legends shelf has one more book than the Living Inn — the player's own story, completed.
 
 ### Level 4: Campgrounds (Shadow)
-Jay's tavern is frozen mid-song. The half-finished drink is on the bar. Dani's shop has the final bead designs — designs the player hasn't created yet. The metal-sonic foundations of the Bead Board are visible in the Shadow Inn — the raw frequency architecture under the wood and stone.
+Jay's tavern is frozen mid-song. The half-finished drink is on the bar. Solstara's shop has the final bead designs — designs the player hasn't created yet. The metal-sonic foundations of the Bead Board are visible in the Shadow Inn — the raw frequency architecture under the wood and stone.
 
 ### Level 5: Staircase (Shadow)
 The alchemical texts are frozen mid-transformation. The pages are open to the final stage — the Rubedo, the Red Work, the completed transformation. The Staircase in the Shadow Inn goes all the way down — no locked doors. Every floor is accessible. The Staircase is the Shadow Inn's highway.

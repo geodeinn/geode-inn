@@ -85,7 +85,7 @@ The Draconian guide — a reptilian sculptor whose claws carve wet stone with th
 - **Quest Text:** *(The Storm Singer and the Stone Shaper speak together — their voices overlapping, thunder and stone, the zone's two voices as one.)*
 *"The rain carves. The claw shapes. ...But neither alone makes the canyon. ...The canyon is the COLLABORATION — the rain and the claw, the destruction and the construction, the accident and the intention. ...You must do both. ...Make the rain AND shape the stone. ...Not separately. Together. ...The rain is your left hand. The claw is your right. ...Carve the canyon. ...Your canyon. ...The small one. The one that's waiting for you."*
 - **Objective:** The player must simultaneously control the Rain Charm (left hand — creating mist) and the Carver's Claw (right hand — shaping the wet stone). The player carves a small canyon — a miniature version of the Grand Canyon, about 10 feet long and 3 feet deep. The carving takes 5 real minutes of simultaneous rain + shape. The result is the player's personal sculpture — a small canyon that carries the player's composite frequency.
-- **Reward:** The Sculpture — the player's personal canyon, which appears in the Campgrounds (near Dani's studio) as a permanent fixture. The canyon vibrates at the player's frequency. The Sculpture is the player's first CREATION in the Inn — not a collection, not a quest reward, but something the player MADE.
+- **Reward:** The Sculpture — the player's personal canyon, which appears in the Campgrounds (near Solstara's studio) as a permanent fixture. The canyon vibrates at the player's frequency. The Sculpture is the player's first CREATION in the Inn — not a collection, not a quest reward, but something the player MADE.
 
 ### Quest 4: "The Mesa Verde Memory"
 - **Giver:** The Stone Shaper, at the Mesa Verde cliff dwellings
@@ -132,6 +132,6 @@ The Draconian guide — a reptilian sculptor whose claws carve wet stone with th
 - **The Desert Bone** — the Colorado Plateau shares the desert aesthetic and O'Keeffe's palette. The Grand Canyon IS O'Keeffe's landscape — monumental, simplified, colored shadows.
 - **The Petrified Forest** — geographically adjacent (both in the Colorado Plateau region). The Petrified Forest is the PLATEAU's time record; the Grand Canyon is the PLATEAU's sculpture.
 - **The Cave City** — Mesa Verde is the Cave City's American cousin. Both carve architecture into stone.
-- **The Campgrounds** — the player's personal canyon sculpture appears here, near Dani's studio.
+- **The Campgrounds** — the player's personal canyon sculpture appears here, near Solstara's studio.
 - **The Nine Muses** — Terpsichore (dance/movement, 528Hz) connects to the plateau's sculptural movement. The carving IS a dance — rain and claw, left and right.
 - **The Wandering Program** — Thunderbirds can wander to the Appalachian Range (as the "Thunderbird" cryptid).
