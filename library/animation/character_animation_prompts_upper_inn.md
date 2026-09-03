@@ -67,7 +67,7 @@ All character prompts in this document adhere strictly to the **Geode Inn Master
 ---
 
 #### 4. Anna
-- **Subject Name:** Anna — Eileen's Youngest Child / The Sonic Architect
+- **Subject Name:** Anna — Aurallia's Youngest Child / The Sonic Architect
 - **Visual Description:** A tall, pale, slender youth with wide, far-seeing silver eyes and dark, unkempt hair tucked behind delicate ears. Dressed in a simple oversized tunic of soft unbleached linen, curled up quietly in a stone window nook of the observatory. In her hand is a luminescent slate stylus, drawing intricate glowing geometric patterns and frequency curves onto stone tiles.
 - **Linework Style:** **No-outline (Cosmological Style)**. Pure soft form defined by edge radiance and shadow depth; zero ink lines.
 - **Color Palette:** Pale moonstone skin (`#F3F4F6`), linen cream (`#E5E7EB`), stylus teal glow (`#14B8A6`), shadow navy (`#1E1B4B`).

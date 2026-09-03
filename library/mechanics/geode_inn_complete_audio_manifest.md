@@ -25,7 +25,7 @@ The entire Inn IS a transducer. Based on Empire Ears IEM engineering, the buildi
 SONG_FREQUENCY_HZ = 42.0        # The Song of Making
 INVERSE_FREQUENCY_HZ = 84.0      # Shadow Inn / petrify
 RESONANCE_FREQUENCY_HZ = 111.0  # Gargoyle watchers
-SCHUMANN_RESONANCE_HZ = 7.83    # Eileen's calibration tone
+SCHUMANN_RESONANCE_HZ = 7.83    # Aurallia's calibration tone
 CANOPY_SWAY_BPM = 50.0          # Sleeping heartbeat tempo
 SOLFEGGIO: 396, 528, 639, 741, 852 Hz  # Nine Muses scale
 ```
@@ -55,7 +55,7 @@ Directory: `system_tones/`
 | Song of Making | 42 | Base drone under everything. Felt, not heard. |
 | Shadow Inn | 84 + tritone | Petrifaction frequency. Unsettling. |
 | Gargoyle Watcher | 111 | Sentinel proximity, riddle solving. |
-| Schumann Calibration | 7.83 | Eileen's tuning quest. Earth resonance. |
+| Schumann Calibration | 7.83 | Aurallia's tuning quest. Earth resonance. |
 | Canopy Sway | 50 BPM | Sleeping heartbeat reference. |
 | Solfeggio (9 tones) | 42-852 | Nine Muses quest chains, Bead Composer, puzzle solutions. |
 

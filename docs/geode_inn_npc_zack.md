@@ -5,7 +5,7 @@
 
 ## The Person
 
-Zack. One of the volunteer NPCs — real name, no copyright issue. The Inn's pattern for volunteer NPCs uses real names (Joe, Ryan, Katy, Zack, Oceanianoir, Thorin, Marijke, Eileen). Zack follows the pattern.
+Zack. One of the volunteer NPCs — real name, no copyright issue. The Inn's pattern for volunteer NPCs uses real names (Joe, Ryan, Katy, Zack, Oceanianoir, Thorin, Marijke, Aurallia). Zack follows the pattern.
 
 Zack is the playthrough Astronomer — the person in the real-world friend group who plays games the way the Astronomer studies the sky: systematically, comprehensively, with the patience to sit with a puzzle until it cracks. Zack is the stress tester. Joe is the miniaturist. The both are: the adequate — the stress tester and the miniaturist, the both are: the same friend group, different game.
 

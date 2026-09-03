@@ -184,7 +184,7 @@ The player progresses through the tree by unlocking zones. Each zone unlocked re
 |---|---|
 | **Zone design** | ✅ Complete — vaulted deep gold ceilings, swirling Klimt patterns over gothic stone |
 | **Visual language** | ✅ Dark gothic structure + Klimt gold — STRUCTURAL STAPLE image established |
-| **Characters** | ✅ Scarlett (Eileen's goth daughter, 17) |
+| **Characters** | ✅ Scarlett (Aurallia's goth daughter, 17) |
 | **Character stations** | ✅ Scarlett's Room |
 | **Quests** | ❌ NOT YET DESIGNED |
 | **Audio profiles** | ❌ NOT YET DESIGNED |

@@ -128,7 +128,7 @@ Freyja is the teacher. The one who taught the Allfather everything. The player m
 **Title:** "The One Who Perceives"
 **Archetype:** The Silent Observer
 
-Anna is Eileen's youngest child. The seer. The one who perceives what others can't. Anna never speaks in dialogue — described, not voiced. Anna's presence is felt through the drawings, not through words.
+Anna is Aurallia's youngest child. The seer. The one who perceives what others can't. Anna never speaks in dialogue — described, not voiced. Anna's presence is felt through the drawings, not through words.
 
 Anna's home is a window nook in the Allfather's Observatory — the quietest space in the Cosmology level, and the quietest space in the Inn. A small alcove with a window looking out at the sky. No furniture except a cushion and drawing materials. No-outline rendering, always — Anna's linework never changes because Anna's nature never changes. Anna is the constant in the variable.
 

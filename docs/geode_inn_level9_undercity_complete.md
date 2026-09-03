@@ -115,7 +115,7 @@ The Undercity's outdoor space — but "outdoor" in the Undercity means "under th
 **Station:** Scarlett's Room
 **Title:** "The Private"
 
-Scarlett is Eileen's second youngest child. 17 years old. Chose the name Scarlett for herself (birth name Grace). The one who joined Krista on the bench at their first meeting — has called Krista "Aunt Krista" ever since. Very goth. Built like Marilyn Monroe — curvy, hourglass figure. Exceptionally beautiful. Huge introvert. Loves manga. Incredibly intelligent. Hair: tousled locks with streaks of scarlet over deep black. Incredibly pale, heart-shaped face, huge blue eyes lined with kohl-style eyeliner.
+Scarlett is Aurallia's second youngest child. 17 years old. Chose the name Scarlett for herself (birth name Grace). The one who joined Krista on the bench at their first meeting — has called Krista "Aunt Krista" ever since. Very goth. Built like Marilyn Monroe — curvy, hourglass figure. Exceptionally beautiful. Huge introvert. Loves manga. Incredibly intelligent. Hair: tousled locks with streaks of scarlet over deep black. Incredibly pale, heart-shaped face, huge blue eyes lined with kohl-style eyeliner.
 
 Scarlett is the Undercity's keeper — not the way the Crone keeps the archive or the Clockmaker keeps the Staircase, but the way a teenager keeps their room. Scarlett's room is the zone's heart. Scarlett doesn't MANAGE the Undercity; Scarlett INHABITS it. The zone is alive because Scarlett is alive in it.
 

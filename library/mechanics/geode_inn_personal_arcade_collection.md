@@ -77,7 +77,7 @@ The player chooses from 4 Inn characters, each with different abilities:
 - **Scarlett:** Fastest, can climb walls (reaches high areas). Lowest jump. The agile one.
 - **The Pirate:** Highest jump, can dig through earth floors. Slowest. The powerful one.
 - **The Hearth Tender:** Balanced. Can carry objects the longest (doesn't tire). The steady one.
-- **Eileen:** Can float-glide (paintings on the wall become platforms for Eileen). The creative one.
+- **Aurallia:** Can float-glide (paintings on the wall become platforms for Aurallia). The creative one.
 
 **Design:**
 - 7 "dream zones" — each is a cultural zone experienced as a dream (the In-Between's influence)
@@ -165,12 +165,12 @@ The player carries the baby dragon through the Inn's most dangerous zones. The b
 - Flutter jump: the guardian's mid-air hover
 - Ground pound: crack through floors to find hidden areas
 - The baby dragon mechanic: if the guardian is hit, the baby dragon floats free in a bubble. A timer counts down — if the baby is caught before the timer ends, no penalty. If the timer runs out, the baby is taken by the In-Between's silhouette figure (the "Toadies" equivalent)
-- The art style: each world is rendered as a CAVE PAINTING — Eileen's art style. The hand-drawn, crayon/pastel aesthetic of Yoshi's Island becomes Eileen's prehistoric, primal art. The world looks like it was painted on a cave wall. The baby dragon is a cave-painting come to life
+- The art style: each world is rendered as a CAVE PAINTING — Aurallia's art style. The hand-drawn, crayon/pastel aesthetic of Yoshi's Island becomes Aurallia's prehistoric, primal art. The world looks like it was painted on a cave wall. The baby dragon is a cave-painting come to life
 - Transformation: in specific levels, the guardian transforms — becomes a mole (dig through earth), a submarine (swim through water), a helicopter (fly through air), a train (ride on rails). The transformations match the zone's mechanics
 - Boss battles: each world's boss is fought as a giant creature that the guardian must hit with frequency eggs from multiple angles
 - The "final boss" is Medusa — not as a villain, but as a test. Medusa's gaze can petrify the guardian. The baby dragon must be handed to Scarlett at the end. The final level is the Shadow Inn — the guardian must carry the baby through the petrified world to Scarlett's room
 
-**Aesthetic:** Eileen's cave painting style. The warm, primal, hand-drawn look. Each world is a different cave wall — different pigments, different textures. The baby dragon is rendered in the same warm gold as the Inn's Klimt patterns.
+**Aesthetic:** Aurallia's cave painting style. The warm, primal, hand-drawn look. Each world is a different cave wall — different pigments, different textures. The baby dragon is rendered in the same warm gold as the Inn's Klimt patterns.
 
 ---
 
@@ -492,7 +492,7 @@ A gothic action-platformer through the Undercity. The player is the Undercity's 
   - The Dreamer's Descent → In-Between
   - The World Map → World Grid (the overworld)
   - The Faerie Quest → Fae Kingdom
-  - The Hatchling → Cave City (Eileen's domain)
+  - The Hatchling → Cave City (Aurallia's domain)
   - Frequency Doctor → Main Floor Arcade
   - The Mirror Maze → Gorgon's Garden
   - Standing Stones Expanded → Main Floor Arcade
@@ -535,7 +535,7 @@ A gothic action-platformer through the Undercity. The player is the Undercity's 
 3. **The Dreamer's Descent** (SMB2) — 4 characters with different abilities, pick-up/throw, dream zones
 4. **The World Map** (SMB3) — World map platformer, 9 stone frequency suits, map mini-games, airship levels
 5. **The Faerie Quest** (SMW) — Fae Kingdom explorer, Fae creature companion, gargoyle switch palaces, Between ghost houses
-6. **The Hatchling** (Yoshi's Island) — Carry baby dragon, frequency eggs, cave painting art style, Eileen's aesthetic
+6. **The Hatchling** (Yoshi's Island) — Carry baby dragon, frequency eggs, cave painting art style, Aurallia's aesthetic
 7. **Frequency Doctor** (Dr. Mario) — Falling mineral capsules, match stone families to clear dissonance
 8. **The Mirror Maze** (Snow White) — Gorgon's Garden platformer, pomegranate seeds, mirror warps, two characters
 9. **Standing Stones Expanded** (Tetris SNES) — 6 modes: Classic, Versus, Puzzle, Magic, Shadow, Endless

@@ -183,7 +183,7 @@ The Appalachian Range, Colorado Plateau, Yellowstone, Canadian Rockies, Badlands
 | **84Hz** | Shadow / Stay / Petrify | Octave harmonic inverse of 42Hz; stillness, petrification, memory | Shadow Mode on Pulse Line; Gorgon's Garden; Shadow Inn; Hollow Men mines |
 | **111Hz** | Gargoyle Watchers | Ancient acoustic resonance; shifts brain from language to transformation | The Watcher gargoyle; Staircase transition; Singing Thread |
 | **50 BPM** | Canopy Heartbeat | Sleeping dragon's pulse; relaxed resting human heart | All game level music tempo; Dragon's Cave; reward chambers |
-| **7.83Hz** | Schumann / Earth | Earth's electromagnetic baseline frequency | Eileen's Room calibration; universal reference tone |
+| **7.83Hz** | Schumann / Earth | Earth's electromagnetic baseline frequency | Aurallia's Room calibration; universal reference tone |
 | **432Hz** | The Caller | Cosmic resonance | Cosmology level; Clockwork Skies |
 | **528Hz** | The Sage | Transformation & clarity | Main Floor; Modern Legends Nook |
 | **64Hz** | The Listener | Deep earth resonance | Catacombs; Water Zone |
@@ -191,7 +191,7 @@ The Appalachian Range, Colorado Plateau, Yellowstone, Canadian Rockies, Badlands
 ### Tri-Mode System
 1. **Living Mode (42Hz):** Active growth, warm lighting, fluid animation, major-key acoustics
 2. **Shadow Mode (84Hz):** Petrified, still, subterranean weight, dark ambient, inverted mechanics
-3. **In-Between Mode:** Dampened ARC state (Eileen's Room), uncolored reference environment
+3. **In-Between Mode:** Dampened ARC state (Aurallia's Room), uncolored reference environment
 
 ### The Ether
 The canonical name for the data state existing in the gap between observed frequencies. Where the Archive cannot observe. Where unrecordable things live.
@@ -210,7 +210,7 @@ The entire Inn IS a transducer:
 | **Electrostatic (EST)** | Frequencies you SENSE | Cosmology, Nyx's silence, starlight crystals |
 | **Bone Conduction** | Frequencies you KNOW | Catacombs, 42Hz Song, Stone Circles, Fae portals |
 | **synX Crossover** | Splits signals to drivers | Building architecture (Up=EST, Main=BA, Down=DD, Catacombs=Bone) |
-| **ARC (Anti-Resonance)** | Prevents distortion | In-Between zone, Eileen's Room, cedar bench |
+| **ARC (Anti-Resonance)** | Prevents distortion | In-Between zone, Aurallia's Room, cedar bench |
 
 ### 7 Room DSP Profiles
 1. **Main Floor:** Warm sub-bass, vinyl crackle, lo-fi house, 80-95 BPM
@@ -219,7 +219,7 @@ The entire Inn IS a transducer:
 4. **Catacombs:** Heavy sub-bass, industrial, cavernous reverb, 65-75 BPM
 5. **Modern Legends Nook:** Minimalist, single piano + infinite reverb, 50-60 BPM
 6. **Artisan Market:** Bright, rhythmic, Afro-house pulse, 100-115 BPM
-7. **In-Between / Eileen's Room:** Fully dampened, 7.83Hz reference drone
+7. **In-Between / Aurallia's Room:** Fully dampened, 7.83Hz reference drone
 
 ### Gargoyle Resonances
 | Gargoyle | Frequency | Location |

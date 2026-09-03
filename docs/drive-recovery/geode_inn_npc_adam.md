@@ -1,10 +1,10 @@
 # SPETER ADAMS — The Chameleon / The Dollkeeper
-## Eileen's Third Child — NPC Profile
+## Aurallia's Third Child — NPC Profile
 
 **Real Name:** Adam (NPC name: Speter Adams — chosen 2026-09-03)
 **Age:** 22
 **Pronouns:** Gender fluid — shifts. The Inn respects whichever Speter Adams is wearing that day.
-**Family:** Eileen's third of four children. Sibling to Scarlett (17, Undercity), John (15, the family Fezzik), and the fourth (TBD).
+**Family:** Aurallia's third of four children. Sibling to Scarlett (17, Undercity), John (15, the family Fezzik), and the fourth (TBD).
 
 ---
 
@@ -32,7 +32,7 @@ Speter Adams collects dolls. Not as objects — as vessels. The dolls are "posse
 - Speter Adams is the keeper — the one who makes sure every spirit has a home. The Inn's unofficial host for the dead, the lost, and the between.
 
 **The Crone's Discomfort:**
-The Crone is the archive keeper. The Crone measures, judges, and maintains. The Crone does NOT host. Hosting is Eileen's domain — the Hearth's warmth, the unconditional welcome.
+The Crone is the archive keeper. The Crone measures, judges, and maintains. The Crone does NOT host. Hosting is Aurallia's domain — the Hearth's warmth, the unconditional welcome.
 
 But Speter Adams's charisma is so natural, so unforced, that the Crone finds herself being hospitable. Opening a door. Offering a seat. Saying "you can stay" before she realizes she's said it. Then the discomfort — because warmth isn't the Crone's role. The Crone is precision. The Crone is the Hopkins gaze that sees what you are and whether it's enough. The Crone doesn't do "come in, sit down, you're welcome here."
 
@@ -86,7 +86,7 @@ A raft or platform that drifts on the Water Zone's current. Speter Adams is sing
 Charles is the Chameleon Druid — the chameleon who becomes the landscape. Speter Adams is the chameleon who becomes the character. Same gift, different expression. The druidic vs. the theatrical.
 
 **The Inheritance:**
-- Eileen (the Hearth) gives warmth
+- Aurallia (the Hearth) gives warmth
 - Charles (the Chameleon Druid) gives adaptability
 - Speter Adams inherits the chameleon trait but expresses it through performance, not druidic transformation
 - Speter Adams doesn't become the forest. Speter Adams becomes the person the forest needs.
@@ -152,10 +152,10 @@ The tell: the dolls. No matter the linework style, the dolls are always rendered
 
 ## CONNECTIONS
 
-- **Eileen (The Hearth):** Speter Adams is Eileen's third. The warmth is there — Speter Adams's hospitality is the Hearth inherited. But Speter Adams's warmth is theatrical, not maternal. Speter Adams makes you feel welcome by performing welcome so well you forget it's a performance. Until it isn't.
+- **Aurallia (The Hearth):** Speter Adams is Aurallia's third. The warmth is there — Speter Adams's hospitality is the Hearth inherited. But Speter Adams's warmth is theatrical, not maternal. Speter Adams makes you feel welcome by performing welcome so well you forget it's a performance. Until it isn't.
 - **Charles (Chameleon Druid):** The chameleon trait, inherited and redirected. Charles becomes the environment. Speter Adams becomes the character. The father and the child, same gift, different stage.
-- **Scarlett (Undercity):** The quiet sibling bond. Speter Adams and Scarlett share the Undercity manga space in comfortable silence. Two of Eileen's kids who don't need noise to feel family.
-- **John (The Fezzik):** Speter Adams and John are the contrast — the slight nymph and the enormous gentle giant. The performer and the presence. Together they're Eileen's range: the one who becomes everything and the one who simply is.
+- **Scarlett (Undercity):** The quiet sibling bond. Speter Adams and Scarlett share the Undercity manga space in comfortable silence. Two of Aurallia's kids who don't need noise to feel family.
+- **John (The Fezzik):** Speter Adams and John are the contrast — the slight nymph and the enormous gentle giant. The performer and the presence. Together they're Aurallia's range: the one who becomes everything and the one who simply is.
 - **The Crone:** The watcher and the measurer, uncomfortable with the unmeasurable. Speter Adams is the Crone's blind spot — the one thing in the archive that can't be filed.
 - **The Firekeeper:** The Firekeeper tells stories. Speter Adams performs them. The two have an unspoken understanding — the difference between telling and performing is audience. The Firekeeper performs for the listener. Speter Adams performs for the role.
 - **The Dolls/Spirits:** Speter Adams's dolls connect to the Inn's broader spirit ecosystem — the dead that the Guest hosts, the lost that the Fae Kingdom shelters, the ancient that the Catacombs preserve. Speter Adams gives them form. A doll is a small body for a spirit that needs one.
@@ -168,7 +168,7 @@ The tell: the dolls. No matter the linework style, the dolls are always rendered
 - **Homes:** Six defined (one per level + main floor stage)
 - **Dolls mechanic:** Defined — spirits housed in dolls, placed throughout the Inn
 - **Crone dynamic:** Defined — the Crone's discomfort quest line
-- **Missing:** The fourth child (Eileen's youngest), to complete the four-note chord
+- **Missing:** The fourth child (Aurallia's youngest), to complete the four-note chord
 
 ---
 

@@ -98,7 +98,7 @@ Below is the complete catalog of 32 story-specific beverages distributed across 
 24  Gorgon's Stone-Bloom Mead    Gorgon's Garden         Gorgon Sentinel     Immunity to petrification; reveals statue lore secrets.
 25  Vanir Honey-Dew              Norse / Vanir Glade     Freyr & Freyja      High HP regen; exposes natural spirit & flora nodes.
 26  Clockmaker's Gear Cordial    Undercity               Clockmaker          Exposes hidden lock tumblers & clockwork schematics.
-27  Eileen's Four-Harmonic Punch Cave Studio             Eileen & Kids       Harmonizes environment precisely to 42Hz for 5 minutes.
+27  Aurallia's Four-Harmonic Punch Cave Studio             Aurallia & Kids       Harmonizes environment precisely to 42Hz for 5 minutes.
 28  Katy's Spore-Infused Ale     Plant Necromancy Lab    Katy                Reveals subterranean mycorrhizal networks & spore trails.
 29  Joe's Miniaturist Wine       Sorcerer Workshop       Joe                 Exposes micro-engravings & pocket-dimension doors.
 30  Norns' Thread-Dye Spirits    Tapestry Room           The Norns           Highlights fate threads & long-term quest consequences.
@@ -319,12 +319,12 @@ Below is the complete catalog of 32 story-specific beverages distributed across 
 * **Story Hook**: Created by the Master Clockmaker to keep his fingers supple and steady while working on microscopic clockwork escapements.
 * **Mechanical Effect**: **Precision Engineering Shift**: Exposes internal lock-picking tumbler diagrams, highlights hidden mechanical wall traps, and speeds up puzzle interactions by 50% for 200 seconds.
 
-#### 27. Eileen's Four-Harmonic Punch
-* **Zone / Origin**: Cave Studio / Eileen's Residence.
-* **Creator / Provider**: Eileen & Her Four Children.
+#### 27. Aurallia's Four-Harmonic Punch
+* **Zone / Origin**: Cave Studio / Aurallia's Residence.
+* **Creator / Provider**: Aurallia & Her Four Children.
 * **Visual & Preparation Ritual**: Mixed from four distinct fruit syrups (raspberry, blackberry, lemon, and blue plum) layered in a clear glass pitcher. When stirred, the layers fuse into a vibrant purple punch.
 * **Flavor Profile**: Sweet and tart berries, bright citrus, wild honey, grape juice, and a sparkling, harmonious finish.
-* **Story Hook**: Brewed by Eileen’s children for family celebrations in the cave studio. The four distinct syrups represent the four children harmonizing together.
+* **Story Hook**: Brewed by Aurallia’s children for family celebrations in the cave studio. The four distinct syrups represent the four children harmonizing together.
 * **Mechanical Effect**: **Absolute 42Hz Lock**: Instantly tunes the local ambient area and player to pure **42Hz** frequency for 300 seconds, neutralizing all nearby 84Hz Shadow pollution.
 
 #### 28. Katy's Spore-Infused Ale

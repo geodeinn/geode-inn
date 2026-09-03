@@ -33,7 +33,7 @@ const CANOPY_SWAY_BPM: float = 50.0          # Sleeping heartbeat tempo
 const CANOPY_SWAY_PERIOD: float = 60.0 / CANOPY_SWAY_BPM  # 1.2s per sway
 const INVERSE_FREQUENCY_HZ: float = 84.0     # Shadow Inn / petrify
 const RESONANCE_FREQUENCY_HZ: float = 111.0  # Gargoyle watchers
-const SCHUMANN_RESONANCE_HZ: float = 7.83    # Eileen's calibration tone
+const SCHUMANN_RESONANCE_HZ: float = 7.83    # Aurallia's calibration tone
 ```
 
 ### Zone Audio Defaults
@@ -125,7 +125,7 @@ Accents are not assigned TO characters. Accents ARE the characters. The NPCs com
 |-----|------------------------|--------|------|----------|
 | Undercity NPC | Lauren Bacall | American (deep) | Undercity | Knows what's underneath, each word drops into a well |
 | The Fixer (Wrought) | Welsh mason | Welsh (working-class) | Celtic foundations | "There." as completion — the thing is in its place |
-| Eileen | Irish cave dweller | Irish (rural, deep) | Cave City | "The both are" — dualities as a single thing, not a choice |
+| Aurallia | Irish cave dweller | Irish (rural, deep) | Cave City | "The both are" — dualities as a single thing, not a choice |
 | Medusa | Angelica Huston | Mediterranean | Grotto/Stone Edge | Snakes are the emotional register, voice is geological |
 
 #### World Map NPCs

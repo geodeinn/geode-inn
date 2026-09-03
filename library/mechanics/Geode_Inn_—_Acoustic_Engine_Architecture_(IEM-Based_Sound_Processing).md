@@ -138,15 +138,15 @@ The staircase music literally ascends in key as you climb — you are physically
 
 ---
 
-### ARC (Anti-Resonance Compound) → The In-Between / Eileen's Room
+### ARC (Anti-Resonance Compound) → The In-Between / Aurallia's Room
 
 ARC prevents unwanted resonance. It stops the IEM's shell from vibrating at frequencies that would distort the sound. It keeps the signal clean.
 
 In the Inn, the **anti-resonance system** is:
 - **The In-Between** — the space where nothing resonates, nothing is amplified, nothing is colored. The In-Between is the dampening material. The space where the signal is pure because nothing is vibrating.
-- **Eileen's Room** — the dampened chamber. 7.83Hz (Schumann resonance, the Earth's heartbeat) is the reference tone — the frequency all other frequencies are measured against. Eileen's room is the calibration chamber. You sit on the bench, your heartbeat synchronizes to 7.83Hz, and the Inn is calibrated.
+- **Aurallia's Room** — the dampened chamber. 7.83Hz (Schumann resonance, the Earth's heartbeat) is the reference tone — the frequency all other frequencies are measured against. Aurallia's room is the calibration chamber. You sit on the bench, your heartbeat synchronizes to 7.83Hz, and the Inn is calibrated.
 - **The cedar bench** — the anti-resonance state. Sit, be still, let all resonance fade. The bench is the ARC in its purest form — the place where the Inn stops vibrating and just IS.
-- **Eileen's paintings** — the anti-resonance doesn't mean silence. The paintings move in firelight. The shadows cast FROM the paintings are the Bosch cave shadows. The art IS the dampening — beauty absorbs the dissonance.
+- **Aurallia's paintings** — the anti-resonance doesn't mean silence. The paintings move in firelight. The shadows cast FROM the paintings are the Bosch cave shadows. The art IS the dampening — beauty absorbs the dissonance.
 
 ---
 
@@ -204,7 +204,7 @@ The Inn doesn't just contain sound. The Inn IS a sound processing system. Every 
 
 **The 42Hz Song as the Signal:** The Song isn't music in the traditional sense. It's the fundamental signal the entire Inn is designed to process. Every system — stones, characters, zones, buildings, quests — is a component in the processing of that signal.
 
-**Eileen's 7.83Hz as Reference Tone:** The Schumann resonance is the Earth's baseline frequency. In IEM terms, it's the reference tone — the calibration signal that ensures all other frequencies are accurate. Eileen's room is where the Inn calibrates itself. The player who sits on the bench long enough is being calibrated — their personal frequency aligned with the Earth's.
+**Aurallia's 7.83Hz as Reference Tone:** The Schumann resonance is the Earth's baseline frequency. In IEM terms, it's the reference tone — the calibration signal that ensures all other frequencies are accurate. Aurallia's room is where the Inn calibrates itself. The player who sits on the bench long enough is being calibrated — their personal frequency aligned with the Earth's.
 
 ---
 

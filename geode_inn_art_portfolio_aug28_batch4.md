@@ -101,7 +101,7 @@
 **URL:** https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/195978f85_generated_image.png
 **Art Direction:** Mead hall built from a longship — hull as ceiling, keel as spine, ribs as archways. Thorin broad and calloused, Marijke sharp-eyed and in charge. Stone registry catalog. The couple who built a home from a ship.
 
-### 25. Eileen
+### 25. Aurallia
 **URL:** https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/818e4102d_generated_image.png
 **Art Direction:** Hearth keeper, four fire-lights (children) in the flames. Cinnabar and ochre cave paintings — the Living Book's first murals. The one who paints stories on walls for the fire to illuminate.
 

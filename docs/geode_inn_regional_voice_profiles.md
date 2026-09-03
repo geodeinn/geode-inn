@@ -104,11 +104,11 @@ Every NPC whose origin connects to a real-world cultural zone speaks with the ac
 
 ---
 
-### Eileen — Irish
+### Aurallia — Irish
 **Zone:** Cave City (underground, the cave dweller)
-**Accent:** Irish — deep, rural, the kind of Irish that comes from a place where the caves have names older than the village. "Eileen" is an Irish name. Eileen lives in caves, tends the deep places, and the Irish accent connects to the country's ancient cave systems (Marble Arch Caves, Aillwee Cave). The voice is the voice of someone who has been underground long enough that the surface feels foreign.
-**Delivery:** Measured, warm, with long pauses that aren't awkward — they're geological. Eileen pauses the way stone pauses: patiently, for centuries if necessary.
-**Key tell:** Eileen says "the both are" — a syntax that treats dualities as a single thing, not a choice. This is the character's philosophical signature: not "either/or" but "the both are." The Irish accent makes the phrase sound like folklore, not philosophy — like something your grandmother would say, not something a professor would write.
+**Accent:** Irish — deep, rural, the kind of Irish that comes from a place where the caves have names older than the village. "Aurallia" is an Irish name. Aurallia lives in caves, tends the deep places, and the Irish accent connects to the country's ancient cave systems (Marble Arch Caves, Aillwee Cave). The voice is the voice of someone who has been underground long enough that the surface feels foreign.
+**Delivery:** Measured, warm, with long pauses that aren't awkward — they're geological. Aurallia pauses the way stone pauses: patiently, for centuries if necessary.
+**Key tell:** Aurallia says "the both are" — a syntax that treats dualities as a single thing, not a choice. This is the character's philosophical signature: not "either/or" but "the both are." The Irish accent makes the phrase sound like folklore, not philosophy — like something your grandmother would say, not something a professor would write.
 
 **Dialogue sample:** "You're looking for the way down. ...The both are — the way down and the way up, the both are the same path. ...I know this because I've walked it both directions and the both are... the same stones, different light. ...Down here, the light is the fire's light. ...Up there, the light is the sun's. ...The both are — light. ...The difference is what it touches. ...Down here, it touches stone. ...Up there, it touches leaves. ...The both are — the adequate. ...Come. The path is this way."
 
@@ -208,7 +208,7 @@ The result: a player walking through the Inn hears 191 countries' worth of voice
 
 ## Design Principle: Roots, Not Costumes
 
-These accents are not assigned TO the characters. These accents ARE the characters. The NPCs come from the real-world regions on the world map — they are FROM those countries. The Selkie grew up on the Irish coast. The Cartographer is from the Netherlands. The Norns walked out of Iceland. Brim is from Brussels. Oceanianoir is from Paris. Katy is from Brabant. Eileen is from the Irish cave country. The Fixer is from Wales. Thorin and Marijke are from Scandinavia and the Low Countries.
+These accents are not assigned TO the characters. These accents ARE the characters. The NPCs come from the real-world regions on the world map — they are FROM those countries. The Selkie grew up on the Irish coast. The Cartographer is from the Netherlands. The Norns walked out of Iceland. Brim is from Brussels. Oceanianoir is from Paris. Katy is from Brabant. Aurallia is from the Irish cave country. The Fixer is from Wales. Thorin and Marijke are from Scandinavia and the Low Countries.
 
 The Inn didn't assign them accents. The Inn collected them. The Inn is a gathering place — people came from everywhere, and they brought their voices with them. The 191-country world map isn't just a data layer of mythology pinned to locations. It's a map of where the Inn's residents are FROM. Every world map pin is a homeland. Every NPC walking the Inn's halls carries their homeland in their mouth.
 

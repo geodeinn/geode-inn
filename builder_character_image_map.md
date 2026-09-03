@@ -145,7 +145,7 @@ All character images have been uploaded to app storage. Below is the COMPLETE ma
 - Madame holding Dobby → https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/b931896ec_madame_holding_dobby.png
 - Dobby in Erasing Nook → https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/5aa28db78_dobby_in_erasing_nook.png
 - Fizgig → https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/b35aac61e_fizgig_in_grey.png
-- The One Who Tends (Eileen) → https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/b70aae1da_the_one_who_tends_v2.png
+- The One Who Tends (Aurallia) → https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/b70aae1da_the_one_who_tends_v2.png
 - The One Who Is Awake → https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/48d79ed0b_the_one_who_is_awake_v2.png
 - The Laughing One (Ent) → https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/7cc42e37b_the_laughing_one.png
 - Ending Chorus → https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/48b1c0557_ending_chorus.png

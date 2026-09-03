@@ -75,7 +75,7 @@
 | The Constant | https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/f0751c074_the_constant_v2.png |
 | Eres the Cabbit | https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/5ee7ac851_the_cabbit.png |
 | The Bard | https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/a0e20dea2_the_bard_v2.png |
-| Eileen | https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/2cde472c8_eileen.png |
+| Aurallia | https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/2cde472c8_eileen.png |
 | The Smiths | https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/416a46918_five_smiths.png |
 | The Artisan Thief | https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/e68edde2f_artisan_thief_selkie.png |
 | Joe | https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/3e40c69a2_joe_miniaturist_ingame.png |

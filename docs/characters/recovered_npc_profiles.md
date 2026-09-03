@@ -7,7 +7,7 @@ Full profiles in docs/drive-recovery/geode_inn_npc_*.md
 ---
 
 ## 1. Speter Adams — The Chameleon / The Dollkeeper
-**Eileen's Third Child | Age: 22 | Zone: ALL ZONES (only NPC with a home on every level)**
+**Aurallia's Third Child | Age: 22 | Zone: ALL ZONES (only NPC with a home on every level)**
 
 ### Core Mechanic
 - Linework style CHANGES by zone — the only character who does this
@@ -29,7 +29,7 @@ The Crone measures everything. Speter Adams cannot be measured. Speter Adams's c
 ---
 
 ## 2. Anna — The Seer / The Doodler
-**Eileen's Fourth Child | Zone: Cosmology (Allfather's Observatory side room)**
+**Aurallia's Fourth Child | Zone: Cosmology (Allfather's Observatory side room)**
 
 ### Core Mechanic
 - No-outline linework (cosmological — earned through perception, not scale)
@@ -41,7 +41,7 @@ The Crone measures everything. Speter Adams cannot be measured. Speter Adams's c
 ### The Bond with Krista
 Amicable silence. Two world-builders side by side. The silence is the deepest form of company. This bond explains why the Inn exists.
 
-### The Four-Note Chord (Eileen's Children)
+### The Four-Note Chord (Aurallia's Children)
 | Child | Age | Strategy | Zone | Linework |
 |-------|-----|----------|------|----------|
 | Speter Adams | 22 | Chameleon (wide) | All Zones | Changes by zone |
@@ -122,4 +122,4 @@ Love is structural — a tavern with a chair that's always yours. Calls nonsense
 - Speter Adams's chameleon linework = technical challenge (per-zone rendering rules)
 - Jay's campgrounds zone connects to MarketItem entity (exterior market stalls)
 - Clockmaker + Blacksmith = the Undercity crafting supply chain
-- The Four-Note Chord completes Eileen's family roster
+- The Four-Note Chord completes Aurallia's family roster

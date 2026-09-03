@@ -30,7 +30,7 @@ The core teaching: What you SEE is not what something IS. This is the Inn's acce
 
 NPC Connections:
 - The Keeper (Fibonacci) tends the geode cave and observes the player's progress
-- Eileen's presence (7.83Hz) calms the cave — bone conduction range
+- Aurallia's presence (7.83Hz) calms the cave — bone conduction range
 - Tesla would measure the frequencies here (cosmology connection)
 
 Frequency States:
@@ -57,7 +57,7 @@ Frequency States:
 - Harmonic interval chimes: Perfect fifth, octave, major third — played when correct pairs matched
 - Composer mode: Full chord progression playback — the player's arrangement performed
 - Haptic: Controller vibration at each stone's density frequency
-- Voice lines: The Keeper (4-6 gentle observations), Eileen ambient (2-3 calming whispers at 7.83Hz)
+- Voice lines: The Keeper (4-6 gentle observations), Aurallia ambient (2-3 calming whispers at 7.83Hz)
 - Inn Mode DSP: Geode cave reverb profile (long decay, crystal resonance, deep bass presence)
 - Estimated total: 10-15 audio assets + procedural synthesis system
 
@@ -104,5 +104,5 @@ Steam Integration:
 - The "same chord" discovery (amethyst = citrine = smoky = rose = clear quartz) is the game's signature moment — the realization that sight is not identity
 - Free pricing strategy: this game is the Inn's ambassador. It costs nothing, teaches the core thesis, and invites players deeper
 - The Tuning Fork tutorial teaches the IEM driver types — this is the only game that explicitly teaches the Inn's acoustic architecture
-- Connects to Eileen's room: 7.83Hz (Schumann resonance) is in the bone conduction range — her presence is felt, not heard
+- Connects to Aurallia's room: 7.83Hz (Schumann resonance) is in the bone conduction range — her presence is felt, not heard
 - The Composer mode creates a bridge to the Bead Composer: both are about arranging stones by their properties

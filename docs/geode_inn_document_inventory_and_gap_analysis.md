@@ -90,7 +90,7 @@ These are the files that didn't match keyword filters. Many are major design doc
 - **geode_inn_knights.md** (114 lines) — Knights
 - **geode_inn_ceiling_gnome.md** (80 lines) — Gesso the Ceiling Gnome
 - **geode_inn_mim.md** (67 lines) — Brim
-- **geode_inn_eileens_kids.md** (108 lines) — Eileen's kids
+- **geode_inn_eileens_kids.md** (108 lines) — Aurallia's kids
 - **geode_inn_miracle_max.md** (111 lines) — Miracle Max
 - **geode_inn_mordred.md** (90 lines) — Mordred
 - **geode_inn_dread_pirate_roberts.md** (51 lines) — Dread Pirate Roberts

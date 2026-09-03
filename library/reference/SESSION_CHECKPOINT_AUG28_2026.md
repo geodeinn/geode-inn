@@ -99,7 +99,7 @@
 4. Populate remaining database entities (Book, Leaderboard, ElementCharm, etc.)
 5. Create visual catalog for 164 mineral charms
 6. Vesper spirit name duplicate patch
-7. Character work: Jay's backstory, Eileen's children, Charles & River, Clockwork crew names
+7. Character work: Jay's backstory, Aurallia's children, Charles & River, Clockwork crew names
 8. Erik (Norse zone), The Greenward full profiles
 9. Ryan, Katy, Zack, Thorin/Marijke NPC design docs
 10. Begin Lateralus physical construction phase

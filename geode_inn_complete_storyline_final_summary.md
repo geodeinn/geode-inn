@@ -96,7 +96,7 @@ The Inn's highest point — the canopy, the stars, the gods. The Allfather's Obs
 **Key Characters:**
 - **The Allfather (Odin)** — Stoic deity. Silent, perched ravens. The Allfather's Gaze perception upgrade (permanent stone sacrifice).
 - **The Wanderer (Odin)** — Warm, approachable traveler on the main floor. Chibi thieving ravens (Huginn & Muninn). The same god, different face.
-- **Anna** — Eileen's youngest. The Inn's seer. Perceives what others can't. Never speaks in dialogue — described, not voiced. Anna's doodles are the Inn's sonic architecture rendered visible: frequency maps, the 42Hz Song as geometry, crystal patterns. Scattered throughout the Inn as hidden maps.
+- **Anna** — Aurallia's youngest. The Inn's seer. Perceives what others can't. Never speaks in dialogue — described, not voiced. Anna's doodles are the Inn's sonic architecture rendered visible: frequency maps, the 42Hz Song as geometry, crystal patterns. Scattered throughout the Inn as hidden maps.
 - **Freyr & Freyja** — The Vanir gods. Freyja's Brísingamen necklace is the foundational source for the Inn's 42Hz chord logic.
 - **The Owl** — Barn owl. Supernatural watcher connected to the narrative's bloodline magic. "Wherever an owl is sighted one of us is near." Connected to Athena and Odin thematically.
 
@@ -267,7 +267,7 @@ The Inn's deepest civilization layer — below the Catacombs, below the Fae King
 - **The Clockmaker** — Precision root-system clock builder. Time mechanisms.
 - **The Bone Keeper** — O'Keeffe-style bone artist. The Bone Room.
 - **Joe (The Collector/Miniaturist)** — Vampire sorcerer, Warhammer painter, Lawful Evil tutor. Kain energy. Gothic cathedral studio.
-- **Scarlett** — Eileen's second youngest (17, goth). Private sanctuary. String lights, manga shelf, drawing desk. The Undercity's emotional center.
+- **Scarlett** — Aurallia's second youngest (17, goth). Private sanctuary. String lights, manga shelf, drawing desk. The Undercity's emotional center.
 - **The Shadow Choir** — Undercity atmosphere.
 
 **Spaces:**
@@ -450,13 +450,13 @@ A browsable interactive catalog of all 166 Geode Inn stones. Each stone plays it
 
 ### The Family (Real People to Inn Characters)
 - **Charles** — Krista's husband. The Constant / Chameleon Druid. Annunaki. Millwright. The chameleon trait expressed through druidic transformation. The ONLY character with a home on EVERY level of the Inn. The dolls (possessed dolls so spirits can have homes) are placed throughout the Inn as a spirit-housing mechanic.
-- **Eileen** — Krista's closest friend. The Hearth. 7.83Hz Schumann resonance. Cave painter. Unconditional love mechanic. The foundation of the Inn.
+- **Aurallia** — Krista's closest friend. The Hearth. 7.83Hz Schumann resonance. Cave painter. Unconditional love mechanic. The foundation of the Inn.
 - **River** — Krista's daughter. The Sentinel. Tall cat person. Anunnaki heritage. Medical logistics. One son: Jakob (lives in Australia with Alexia).
 - **Andra** — Krista's sister. The Siren. Performance as armor. The spotlight as shield.
-- **Speter Adams** — Eileen's third child (22). Gender fluid, built like a nymph. Skilled performer. The chameleon demonstrated AS the linework system — linework style changes by zone. The ONLY character with a home on EVERY level.
-- **Scarlett** — Eileen's second youngest (17, goth). Undercity resident. Private sanctuary.
-- **John** — Eileen's youngest son (15, 6'5"). The family Fezzik. Gentle giant.
-- **Anna** — Eileen's youngest. The Inn's seer. Perceives what others can't. Never speaks — described, not voiced.
+- **Speter Adams** — Aurallia's third child (22). Gender fluid, built like a nymph. Skilled performer. The chameleon demonstrated AS the linework system — linework style changes by zone. The ONLY character with a home on EVERY level.
+- **Scarlett** — Aurallia's second youngest (17, goth). Undercity resident. Private sanctuary.
+- **John** — Aurallia's youngest son (15, 6'5"). The family Fezzik. Gentle giant.
+- **Anna** — Aurallia's youngest. The Inn's seer. Perceives what others can't. Never speaks — described, not voiced.
 - **Beverley** — Alexia's mom. The Librarian. 2/3 human size. Silver hair, spectacles, dark high-collared coat. Clipped Australian accent. Intimidating.
 - **Jakob** — River's son. Tall, wild black hair, burly. Lives in Australia.
 - **Alexia** — Jakob's mom. Slight build, black loosely curly hair, brilliant and elfin.

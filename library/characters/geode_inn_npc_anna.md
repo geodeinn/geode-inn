@@ -1,10 +1,10 @@
 # ANNA — The Seer / The Doodler
-## Eileen's Fourth Child — NPC Profile
+## Aurallia's Fourth Child — NPC Profile
 
 **Real Name:** Anna
 **Age:** TBD
 **Pronouns:** They/them
-**Family:** Eileen's fourth and youngest. Sibling to Speter Adams (22, the Switzerland), Scarlett (17, Undercity), John (15, the family Fezzik).
+**Family:** Aurallia's fourth and youngest. Sibling to Speter Adams (22, the Switzerland), Scarlett (17, Undercity), John (15, the family Fezzik).
 
 ---
 
@@ -82,7 +82,7 @@ Not the main observatory floor. A side room. A nook. A space with a window that 
 
 ---
 
-## THE FOUR-NOTE CHORD — Eileen's Children Complete
+## THE FOUR-NOTE CHORD — Aurallia's Children Complete
 
 | Child | Age | Strategy | Inn Expression | Zone | Linework |
 |-------|-----|----------|----------------|------|----------|
@@ -139,4 +139,4 @@ The chord is richer than three notes. The seventh chord. Four children of the sa
 - **Home:** Cosmology zone — window nook in the Allfather's Observatory
 - **Doodles mechanic:** Defined — sonic architecture rendered as art, scattered throughout the Inn as hidden maps
 - **Silence mechanic:** Defined — sitting with Anna without interaction as a recognition/bonding system
-- **Four-note chord:** Complete — all four of Eileen's children documented
+- **Four-note chord:** Complete — all four of Aurallia's children documented

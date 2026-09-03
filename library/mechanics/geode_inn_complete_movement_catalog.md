@@ -25,7 +25,7 @@ These are characters with dialogue, quests, services, or narrative function. Eac
 | NPC-009 | The Fixer (Wrought) | Workshop, main floor | Repairs, upgrades, crafting | Hammers, solders, adjusts goggles, wipes hands on apron | Stands at workbench. Reaches for tools. Occasional: steps back to inspect work, nods. |
 | NPC-010 | The Artisan Thief | Market stalls, main floor | Wire-wrapping instructor, crafting | Works copper wire at speed, displays pendants, watches crowd | Walks market stalls. Hands always moving — wire wrapping even while walking. Shows pendants to interested players. |
 | NPC-011 | The Bard Blowhard | Common room, main floor | Music, atmosphere, comic relief | Plays lute (badly), sings (loudly), drinks, waves at people | Stands on small stage. Sways with music. Gestures to crowd. Occasional: drinks from tankard mid-song. |
-| NPC-012 | Eileen | Hearth area, main floor | Hearth keeper, cave painter | Tends fire, paints on cave walls, hums | Kneels by hearth, stokes fire. Turns to cave wall, paints with cinnabar. Four small fire-lights flicker near her. |
+| NPC-012 | Aurallia | Hearth area, main floor | Hearth keeper, cave painter | Tends fire, paints on cave walls, hums | Kneels by hearth, stokes fire. Turns to cave wall, paints with cinnabar. Four small fire-lights flicker near her. |
 
 ### 1.2 — Zone Masters and Deities
 
@@ -398,7 +398,7 @@ JS-based particle system with the following emitter types:
 ## SECTION 6: PRIORITY TIERS FOR IMPLEMENTATION
 
 ### Tier 1 — The Inn Feels Alive (Must Have for Beta)
-- All 12 main floor NPCs (Storyteller, Catalyst, Constant, Eres, Bard, Eileen, Smiths, Artisan Thief, Joe, Odin Wanderer, Fixer, Ceiling Gnome)
+- All 12 main floor NPCs (Storyteller, Catalyst, Constant, Eres, Bard, Aurallia, Smiths, Artisan Thief, Joe, Odin Wanderer, Fixer, Ceiling Gnome)
 - 8 dragon kittens
 - 6 gargoyle puppies
 - 6 fizgigs

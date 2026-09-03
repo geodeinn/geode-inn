@@ -22,7 +22,7 @@ Full CSS + JS system containing:
 - Mode switching (Living 42Hz / Shadow 84Hz / In-Between) via the Pulse Line
 
 ## Tier 1 (Beta Priority — ~50 elements)
-- 12 main floor NPCs (Storyteller, Catalyst, Constant, Eres, Bard, Eileen, Smiths, Artisan Thief, Joe, Odin Wanderer, Fixer)
+- 12 main floor NPCs (Storyteller, Catalyst, Constant, Eres, Bard, Aurallia, Smiths, Artisan Thief, Joe, Odin Wanderer, Fixer)
 - 8 dragon kittens (Ember, Spark, Glimmer, Pip, Soot, Ash, Cinder, Glow)
 - 6 gargoyle puppies (one for each frequency pair)
 - 6 fizgigs (Wrench, Sparkplug, Cogwheel, Rivet, Widget, Gadget)

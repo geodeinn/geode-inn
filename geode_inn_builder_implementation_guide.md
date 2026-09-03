@@ -52,7 +52,7 @@ The Geode Inn main floor page needs the following HTML structure:
   <div class="pixie-hearth geode-float geode-var-2" style="left: 420px; top: 190px;"></div>
   <div class="pixie-hearth geode-float geode-var-4" style="left: 400px; top: 210px;"></div>
   
-  <!-- Eileen NPC (tends fire, paints cave walls) -->
+  <!-- Aurallia NPC (tends fire, paints cave walls) -->
   <div class="npc-eileen"
        data-geode-sprite="/sprites/eileen.png"
        data-geode-preset="kneeling">

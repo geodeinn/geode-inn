@@ -1,5 +1,5 @@
 # THE NPC PROFILES — Master Specification
-## Individual Character Docs — Joe, Thorin/Marijke, Oceanianoir, Kathy, Eileen, + Key NPCs
+## Individual Character Docs — Joe, Thorin/Marijke, Oceanianoir, Kathy, Aurallia, + Key NPCs
 
 ---
 
@@ -17,7 +17,7 @@ Individual character design documents for key NPCs who warranted their own dedic
 | Thorin & Marijke | 344 | Meadery managers. Brewer + logistician. | The Drink Mechanic, the Wandering Program. |
 | Oceanianoir | 287 (+238) | The deep-water NPC. | The Water System, the Trifocal Gaze. |
 | Kathy | 214 | NPC role. | Regional connection. |
-| Eileen | 206 | NPC role. | Regional connection. |
+| Aurallia | 206 | NPC role. | Regional connection. |
 | The Catalyst | 294 | The bartender. Liquid acoustic catalysts. | The Drink Mechanic. |
 | Einstein | 215 | The In-Between's resident. The anomaly. | The Mirror Systems, the Einstein Syndrome. |
 | Nyx | 212 | The goddess of night. | The Cosmology Level. |

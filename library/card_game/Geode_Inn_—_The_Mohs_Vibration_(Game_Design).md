@@ -80,7 +80,7 @@ This game IS the accessibility principle:
 - Stones collected here populate the geode cave's visual display
 - The game is the DEEP layer of the cave — past the visual, into the pure sound
 - Connects to the IEM architecture: the four driver types ARE the game's four sensory channels
-- Connects to Eileen's room: 7.83Hz is close to the bone conduction range — her presence calms the cave
+- Connects to Aurallia's room: 7.83Hz is close to the bone conduction range — her presence calms the cave
 
 ## Technical
 

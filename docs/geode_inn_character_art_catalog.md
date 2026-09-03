@@ -1140,7 +1140,7 @@ All 32 creatures are chibi-style playable characters for the "Monster of the Dee
 **Cultural Roots:** Dutch
 **Design Notes:** Ink-stained fingers, brass compass, spectacles, dark coat with leather patches. Map tube across the back. Escher-inspired impossible geometry behind the character — staircases going up and down simultaneously, corridors looping. Heavy cel-shaded linework (tradesperson). Says "exactly" as a complete sentence. The only person who knows where everything is — and even the character isn't sure the map is finished.
 
-### 41. Eileen (Updated — Irish Root Design)
+### 41. Aurallia (Updated — Irish Root Design)
 **Image:** https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/bf9931efa_generated_image.png
 **Location:** The Catacombs (cave wall)
 **Role:** Cave painter, teacher of seeing

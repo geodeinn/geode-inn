@@ -52,7 +52,7 @@ Zone template system: character homes as architectural templates for player-buil
 
 ### Next Steps
 - Jay's backstory (pending from Krista)
-- Eileen's two older children (pending from Krista)
+- Aurallia's two older children (pending from Krista)
 - Remaining volunteer NPC designs (Ryan, Katy, Zack, Thorin/Marijke)
 - Crystal SVG rendering logic (per-stone color/texture/cut)
 - Populate Book entity with archive.org materials

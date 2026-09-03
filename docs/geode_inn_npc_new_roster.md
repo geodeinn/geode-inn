@@ -187,7 +187,7 @@ The studio contains:
 
 **Gabby:** The younger kid. Quiet, observant, the one who notices things. Gabby draws — scratches pictures in the dirt outside the tavern, on napkins, on Jay's map wall (Bethany pretends to be annoyed; Jay secretly adds a frame around the best ones). Gabby's drawings sometimes show things that haven't happened yet. The Crone has a collection of Gabby's drawings in her study. She compares them to events. The correlation is uncomfortable.
 
-**Both:** Presence characters, like Eileen's kids. They're not major NPCs — they're the Inn's next generation. The kids who grow up in the Inn and will inherit it. TJ explores. Gabby observes. The wolf guards both. The tavern is their home. The Campgrounds are their backyard. The Inn is their world.
+**Both:** Presence characters, like Aurallia's kids. They're not major NPCs — they're the Inn's next generation. The kids who grow up in the Inn and will inherit it. TJ explores. Gabby observes. The wolf guards both. The tavern is their home. The Campgrounds are their backyard. The Inn is their world.
 
 **Linework:** Cel-shaded (tradesman style) — they're Campgrounds kids. Solid, grounded, present. Gabby's drawings on the napkins use soft/flowing (lore) linework — the first hint that Gabby sees the world differently from everyone else in the Campgrounds.
 

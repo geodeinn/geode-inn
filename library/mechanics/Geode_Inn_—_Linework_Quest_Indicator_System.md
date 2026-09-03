@@ -32,7 +32,7 @@ The linework breathes. The outline dissolves at the edges — forms are defined 
 
 **Visual spec:** Thin (1-2px) outlines that fade in and out — present on focal areas (face, hands), absent on secondary areas (clothing folds, background edges). Soft gradient shading instead of cel-shaded hard edges. Flowing line quality — curves dominate, angles are rare. Watercolor-influenced rendering inside gothic anime structure.
 
-**Applied to:** The Siren (Andra), the Wanderer (Odin), Eileen (the Hearth), the Crone, any NPC whose quest line is dialogue-driven.
+**Applied to:** The Siren (Andra), the Wanderer (Odin), Aurallia (the Hearth), the Crone, any NPC whose quest line is dialogue-driven.
 
 **Player instinct:** "This person has a story. I should talk."
 

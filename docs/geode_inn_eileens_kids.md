@@ -1,13 +1,13 @@
-# Geode Inn — Eileen's Kids: The Four Children
+# Geode Inn — Aurallia's Kids: The Four Children
 ## The Hearth's Next Generation — Presence Characters
 
 ---
 
 ## Overview
 
-Eileen brought four children to Soulstice the weekend before opening — ranging from nine to nineteen. The both are: the adequate — the one and the four, the same family, different scale. The children are not major NPCs. They are PRESENCE characters — the living evidence of Eileen's love, the warmth made visible in small bodies.
+Aurallia brought four children to Soulstice the weekend before opening — ranging from nine to nineteen. The both are: the adequate — the one and the four, the same family, different scale. The children are not major NPCs. They are PRESENCE characters — the living evidence of Aurallia's love, the warmth made visible in small bodies.
 
-The four children appear in Eileen's cave studio, in the Spiral Gallery, in the Inn's common spaces — always near Eileen, always at ease. The both are: the adequate — the adequate. They are the Inn's next generation — the players who will inherit the archive.
+The four children appear in Aurallia's cave studio, in the Spiral Gallery, in the Inn's common spaces — always near Aurallia, always at ease. The both are: the adequate — the adequate. They are the Inn's next generation — the players who will inherit the archive.
 
 ---
 
@@ -15,16 +15,16 @@ The four children appear in Eileen's cave studio, in the Spiral Gallery, in the 
 
 ### 1. John (19) — The Oldest
 
-**Real-world basis:** Eileen's oldest child. From the Eileen doc and existing NPC files.
+**Real-world basis:** Aurallia's oldest child. From the Aurallia doc and existing NPC files.
 
-**Role in the Inn:** John is the bridge between Eileen's generation and the younger kids. John helps Eileen in the cave studio — the apprentice, the one learning the craft. The both are: the adequate — the teacher and the apprentice, the same art, different hands.
+**Role in the Inn:** John is the bridge between Aurallia's generation and the younger kids. John helps Aurallia in the cave studio — the apprentice, the one learning the craft. The both are: the adequate — the teacher and the apprentice, the same art, different hands.
 
 John's presence in the game:
-- Helps in the cave studio (the player can watch John painting, learning Eileen's techniques)
+- Helps in the cave studio (the player can watch John painting, learning Aurallia's techniques)
 - The oldest — carries a quiet authority among the four children
 - John's relationship to the dragon: the dragon tolerates John's presence but doesn't sleep near John the way the dragon sleeps near the shy daughter. The dragon respects John but doesn't nest with John. The both are: the adequate — the respect and the trust, the same dragon, different proximity.
 
-**John's quest connection:** John is the NPC who introduces the player to Eileen's cave studio. John greets the player at the studio door: "Mom's painting. She doesn't like to stop mid-stroke. Come in, but be quiet about it." The both are: the adequate — the greeting and the guard, the same family, different door.
+**John's quest connection:** John is the NPC who introduces the player to Aurallia's cave studio. John greets the player at the studio door: "Mom's painting. She doesn't like to stop mid-stroke. Come in, but be quiet about it." The both are: the adequate — the greeting and the guard, the same family, different door.
 
 **Full profile exists:** docs/geode_inn_npc_john.md (referenced in master structure as complete)
 
@@ -32,9 +32,9 @@ John's presence in the game:
 
 ### 2. Scarlett (16) — The Shy Daughter
 
-**Real-world basis:** Eileen's daughter who walked up to Krista and sat beside her on the cedar bench. The both are: the adequate — the shy and the trust, the same child, different moment. Scarlett's act of sitting beside Krista was the moment Eileen's guard dropped completely. The both are: the adequate — the child's trust and the mother's trust, the same love, different proof.
+**Real-world basis:** Aurallia's daughter who walked up to Krista and sat beside her on the cedar bench. The both are: the adequate — the shy and the trust, the same child, different moment. Scarlett's act of sitting beside Krista was the moment Aurallia's guard dropped completely. The both are: the adequate — the child's trust and the mother's trust, the same love, different proof.
 
-**Role in the Inn:** Scarlett is the dragon's companion. The both are: the adequate — the shy child and the sleeping dragon, the same trust, different species. Scarlett sits beside the dragon in Eileen's cave studio. The dragon's 50 BPM cave tempo slows to 7.83Hz in the combined presence of Scarlett and Eileen — the cosmic creature grounding to the earth's frequency when the shy and the warm are near.
+**Role in the Inn:** Scarlett is the dragon's companion. The both are: the adequate — the shy child and the sleeping dragon, the same trust, different species. Scarlett sits beside the dragon in Aurallia's cave studio. The dragon's 50 BPM cave tempo slows to 7.83Hz in the combined presence of Scarlett and Aurallia — the cosmic creature grounding to the earth's frequency when the shy and the warm are near.
 
 **Scarlett's presence in the game:**
 - Sits beside the sleeping dragon in the cave studio. The both are: the adequate — the stillness and the sleep, the same peace, different body.
@@ -52,9 +52,9 @@ John's presence in the game:
 
 ### 3. The Second Son (14) — The Builder
 
-**Real-world basis:** Eileen's third child. Name: TBD — Krista will provide when ready. The both are: the adequate — the known and the waiting, the same family, different page.
+**Real-world basis:** Aurallia's third child. Name: TBD — Krista will provide when ready. The both are: the adequate — the known and the waiting, the same family, different page.
 
-**Role in the Inn:** The Builder. This child is the one who builds things — blocks, models, structures. The both are: the adequate — the artist (Eileen) and the builder (the child), the same family, different material. Where Eileen paints what IS, this child builds what COULD BE.
+**Role in the Inn:** The Builder. This child is the one who builds things — blocks, models, structures. The both are: the adequate — the artist (Aurallia) and the builder (the child), the same family, different material. Where Aurallia paints what IS, this child builds what COULD BE.
 
 **Presence in the game:**
 - Found in the Spiral Gallery, building small structures from the gallery's loose stones — miniature versions of the Inn's architecture
@@ -70,7 +70,7 @@ John's presence in the game:
 
 ### 4. The Youngest (9) — The Finder
 
-**Real-world basis:** Eileen's youngest child. Name: TBD — Krista will provide when ready. The both are: the adequate — the known and the waiting, the same family, different chapter.
+**Real-world basis:** Aurallia's youngest child. Name: TBD — Krista will provide when ready. The both are: the adequate — the known and the waiting, the same family, different chapter.
 
 **Role in the Inn:** The Finder. This child finds things. Stones, objects, paths, secrets. The both are: the adequate — the explorer and the finder, the same curiosity, different age. The youngest child is the Inn's youngest presence — the one who sees the Inn with the freshest eyes.
 
@@ -86,7 +86,7 @@ John's presence in the game:
 
 ## The Four Together
 
-When the four children are together (in the cave studio, in the mead hall, in the common spaces), the Inn's frequency stabilizes at 42Hz. The both are: the adequate — the one (Eileen) and the four (the children), the same family, different frequency. Eileen's presence calms the Inn. The four children's presence TUNES the Inn. The both are: the adequate — the calm and the tune, the same love, different effect.
+When the four children are together (in the cave studio, in the mead hall, in the common spaces), the Inn's frequency stabilizes at 42Hz. The both are: the adequate — the one (Aurallia) and the four (the children), the same family, different frequency. Aurallia's presence calms the Inn. The four children's presence TUNES the Inn. The both are: the adequate — the calm and the tune, the same love, different effect.
 
 The four children are the Inn's argument for the future: the archive is not just for the current player. The archive is for the next generation — the players who will inherit the stones, the stories, the songs. The four children are the next players. The both are: the adequate — the adequate.
 
@@ -94,8 +94,8 @@ The four children are the Inn's argument for the future: the archive is not just
 
 ## Connections
 
-- **Eileen** — the mother, the hearth. The four children are Eileen's presence made visible.
-- **The Dragon** — sleeps in Eileen's cave, plays with the children, nests with Scarlett. The both are: the adequate — the cosmic and the familial, the same warmth, different origin.
+- **Aurallia** — the mother, the hearth. The four children are Aurallia's presence made visible.
+- **The Dragon** — sleeps in Aurallia's cave, plays with the children, nests with Scarlett. The both are: the adequate — the cosmic and the familial, the same warmth, different origin.
 - **The Building System** — the second son is the living tutorial.
 - **The Spiral Gallery** — the second son builds miniature architecture there.
 - **The Whisper Layer** — Scarlett's drawing changes at Tier 3. The youngest finds the impossible stone at Tier 4. The children are the Whisper Layer's most gentle intrusion — the Inn using the most innocent presence to deliver its most complex message.

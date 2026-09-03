@@ -6,7 +6,7 @@
 
 # TABLE OF CONTENTS
 1. [Thorin & Marijke — The Mead Hall & Geological Registry](#1-thorin--marijke-the-mead-hall--geological-registry)
-2. [Eileen — The Hearth & Cave Painter](#2-eileen-the-hearth--cave-painter)
+2. [Aurallia — The Hearth & Cave Painter](#2-eileen-the-hearth--cave-painter)
 3. [Oceanianoir — The Living Archive & Periodic Table](#3-oceanianoir-the-living-archive--periodic-table)
 4. [Ryan — The Meadery Bartender & Campfire](#4-ryan-the-meadery-bartender--campfire)
 5. [Katy — The Plant Necromancer & Van Gogh Garden](#5-katy-the-plant-necromancer--van-gogh-garden)
@@ -56,14 +56,14 @@ Thorin provides the architectural blueprints for the Mead Hall’s *Citrinitas* 
 ## 2. EILEEN — THE HEARTH & CAVE PAINTER
 
 ### Visual DNA & Aesthetic Synthesis
-* **Living Inn (42Hz - Klimt Aesthetic):** Sunlight filters through hearth-smoke onto golden cave walls painted in swirling cinnabar, ochre, and gold leaf. Eileen wears flowing earthy robes adorned with woven mosaic beads. Her four children gather around a crackling stone hearth, their laughter radiating in warm jewel tones. Her murals tell the creation myth of the Inn-Tree with radiant, sensual Klimt spirals.
-* **Shadow Inn (84Hz - Royo Aesthetic):** The hearth fire turns into a cold blue plasma flare. The cave wall murals transform into dark biomechanical bas-reliefs carved directly into basalt, glowing with bioluminescent ultramarine and phosphorus dust. Eileen stands tall and imposing, wrapped in dark slate-grey garments, her hands stained with silver-charcoal powder.
+* **Living Inn (42Hz - Klimt Aesthetic):** Sunlight filters through hearth-smoke onto golden cave walls painted in swirling cinnabar, ochre, and gold leaf. Aurallia wears flowing earthy robes adorned with woven mosaic beads. Her four children gather around a crackling stone hearth, their laughter radiating in warm jewel tones. Her murals tell the creation myth of the Inn-Tree with radiant, sensual Klimt spirals.
+* **Shadow Inn (84Hz - Royo Aesthetic):** The hearth fire turns into a cold blue plasma flare. The cave wall murals transform into dark biomechanical bas-reliefs carved directly into basalt, glowing with bioluminescent ultramarine and phosphorus dust. Aurallia stands tall and imposing, wrapped in dark slate-grey garments, her hands stained with silver-charcoal powder.
 
 ### (1) Shadow Inn State
-In the 84Hz Shadow Inn, Eileen manifests as the **Shadow Memory Keeper**. Her painted cave murals come alive as moving shadow projections on the basalt walls, displaying historical events and lost timelines of previous Inn cycles. She offers the *Ancestral Presence* buff, which calms shadow-corrupted enemies in combat and prevents player insanity meters from rising.
+In the 84Hz Shadow Inn, Aurallia manifests as the **Shadow Memory Keeper**. Her painted cave murals come alive as moving shadow projections on the basalt walls, displaying historical events and lost timelines of previous Inn cycles. She offers the *Ancestral Presence* buff, which calms shadow-corrupted enemies in combat and prevents player insanity meters from rising.
 
 ### (2) Endgame Connections
-Eileen’s cave wall mural contains the final missing panel of the Inn’s cycle. When the player brings the 167th stone to her hearth, she uses mineral dust ground from all nine zones to complete the painting. This triggers the alignment of the four hearth flames (representing her four children's spirit lights), linking the main floor hearth directly to the central Resonance Engine in Hollow Earth.
+Aurallia’s cave wall mural contains the final missing panel of the Inn’s cycle. When the player brings the 167th stone to her hearth, she uses mineral dust ground from all nine zones to complete the painting. This triggers the alignment of the four hearth flames (representing her four children's spirit lights), linking the main floor hearth directly to the central Resonance Engine in Hollow Earth.
 
 ### (3) Sound Profile
 * **Base Frequency:** 128 Hz low hearthfire crackle, shifting to an 84 Hz sub-bass choir drone in Shadow mode.

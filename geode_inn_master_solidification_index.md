@@ -123,7 +123,7 @@ Every markdown document in the Geode Inn repository (255 files, ~750k words) has
 
 ### Batch 10: NPCs & Supporting Characters (`solidification_batch_npcs_supporting.md`)
 88. Thorin & Marijke
-89. Eileen
+89. Aurallia
 90. Oceanianoir
 91. Ryan
 92. Katy

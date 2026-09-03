@@ -21,7 +21,7 @@ Charles's real-life precision work IS the Constant. The being who puts universal
 
 The In-Between is the space where the camera doesn't work. Where there's no tool, no angle, no way to frame it so it fits. Some things aren't meant to be filed — the archive doesn't have a drawer for the experience of watching someone you love die because the doors won't close while the thing behind them is still happening.
 
-The In-Between isn't an archive room. It's Eileen's painted room — the one where you just sit, and the fire moves, and nothing needs to be organized or understood. The bench. The do-nothing place. Not every room needs a lock.
+The In-Between isn't an archive room. It's Aurallia's painted room — the one where you just sit, and the fire moves, and nothing needs to be organized or understood. The bench. The do-nothing place. Not every room needs a lock.
 
 ---
 

@@ -155,7 +155,7 @@ This is the coinciding master list — every character, creature, and artifact c
 | 108 | Tinkering Weeaboo | Tinkerer | tinkering_weeaboo.png | ✅ npc_remaining |
 | 109 | The Ceiling Gnome | Gesso gnome, Whisper Layer | gesso_ceiling_gnome.png | ✅ npc_remaining |
 | 110 | Naut the Scholar (formerly Cthulhu) | Squid-headed scholar, Archive keeper | naut_the_scholar.png | ✅ Uploaded |
-| 111 | Eileen | Character | eileen.png | ✅ Uploaded |
+| 111 | Aurallia | Character | eileen.png | ✅ Uploaded |
 | 112 | The Figure in Fog | Mysterious shrouded figure | figure_in_fog.png | ✅ npc_remaining |
 
 ## 1M. Speter Adams Variants (Zone-specific)

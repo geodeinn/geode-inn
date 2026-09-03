@@ -44,7 +44,7 @@ The room says: I am safe here. I can be all of myself here. No one comes in unle
 ### Charles
 **Location (proposed):** TBD — the Constant
 
-### Eileen
+### Aurallia
 **Location (proposed):** TBD — the Hearth (mother figure, warmth)
 
 ### Andra (The Siren)

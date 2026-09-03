@@ -75,7 +75,7 @@ Each NPC is frozen at the moment of the Song's completion — their final, most 
 - **The Catalyst** — frozen mid-pour. The drink is half-fallen — a frozen arc of liquid gold. The Catalyst's other hand holds a portal arrow, fully grown, pointed at... somewhere the player hasn't been. The arrow's direction is a clue to a location not yet found in the Living Inn.
 - **The Host** — frozen with arms open. The welcome. The same gesture as the beginning — "Room's ready" — but now it's the final welcome. The Host's expression is the one from the end: satisfied. The work is done.
 - **The Allfather** — frozen with one eye closed. Not sacrificed — CLOSED. The Allfather chose to stop seeing. The rest is for the player. The ravens are stone on the perches, beaks open mid-cry. The sound is frozen in the gold.
-- **Eileen** — frozen at the cave wall, mid-stroke. The last painting. The cave paintings tell the FULL creation myth — not fragments, but the complete story. Eileen's hands are stone on the wall. The painting is finished.
+- **Aurallia** — frozen at the cave wall, mid-stroke. The last painting. The cave paintings tell the FULL creation myth — not fragments, but the complete story. Aurallia's hands are stone on the wall. The painting is finished.
 - **Scarlett** — NOT FROZEN. Scarlett is the one NPC who moves in the Shadow Inn. Scarlett's room is the only warm room. Scarlett is the Bridge — the character who exists in both frequencies. Scarlett is the player's guide in the Shadow Inn. Scarlett can see the petrified figures and tell the player what they were doing — Scarlett has been watching the frozen Inn for a long time.
 - **The Pirate** — frozen mid-drumbeat. The bodhrán is stone. The 50 BPM is GONE. The Shadow Inn has no heartbeat. The silence is the point. The Pirate's hands are on the drum, frozen in the last beat. The last heartbeat.
 - **Persephone** — frozen at the threshold between above and below. Neither up nor down. The cycle stopped. In the Shadow Inn, Persephone isn't seasonal — Persephone is COMPLETE. Both sides at once. The choice made.
@@ -100,7 +100,7 @@ Each NPC is frozen at the moment of the Song's completion — their final, most 
 
 7. **The Fae Kingdom in Stone** — In the Living Inn, the Fae Kingdom is shifting, alive, the Seelie and Unseelie in constant motion. In the Shadow Inn, the entire Fae Kingdom is a petrified garden. The gargoyle sentinels are at full power — both halves of each pair awakened, frequencies doubled. The Shadow Inn's Fae Kingdom is where the gargoyle system reaches its full potential. The player can interact with the dormant twins — the "mercy" halves — which are awake in the Shadow Inn.
 
-8. **Eileen's Completed Cave Paintings** — In the Living Inn, Eileen's cave paintings are fragments — partial myths, incomplete stories. In the Shadow Inn, the paintings are complete. The player can read the full creation myth on the cave walls. The full myth reveals information about the Hollow Earth, the creators, and the Song's true purpose.
+8. **Aurallia's Completed Cave Paintings** — In the Living Inn, Aurallia's cave paintings are fragments — partial myths, incomplete stories. In the Shadow Inn, the paintings are complete. The player can read the full creation myth on the cave walls. The full myth reveals information about the Hollow Earth, the creators, and the Song's true purpose.
 
 ---
 

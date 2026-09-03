@@ -368,7 +368,7 @@ TO BE DESIGNED
 
 | NPC | Real Role | Inn Character | Source | Status |
 |---|---|---|---|---|
-| **Eileen** | Krista's closest friend, art/English teacher, cave art degree | The Hearth (7.83Hz Schumann resonance, cave painter, unconditional love mechanic) | Session memory ✓ | Complete |
+| **Aurallia** | Krista's closest friend, art/English teacher, cave art degree | The Hearth (7.83Hz Schumann resonance, cave painter, unconditional love mechanic) | Session memory ✓ | Complete |
 | **Oceanianoir** | Scientist, linguist, puzzle designer, Mensa, goth, periodic table tattoos | The Living Archive (Atlantis, periodic table as game mechanic, Murloc companion) | Document 1 ✓ | Complete |
 | **Joe** | School teacher, Warhammer painter | The Miniaturist / The Collector (vampire sorcerer, Kain energy, Lawful Evil tutor) | Document 2 ✓ | Complete |
 | **Charles** | Krista's husband, millwright, Annunaki/Constant | The Constant / Chameleon Druid | Session memory ✓ | Complete |
@@ -380,8 +380,8 @@ TO BE DESIGNED
 | **Zack** | Volunteer NPC | TBD | Session memory | Partial |
 | **Thorin/Marijke** | Volunteer NPCs | TBD | Session memory | Partial |
 | **Tim Curry / Firekeeper** | Actor (passed Aug 26, 2026) | The Firekeeper (permanent storyteller, hearth-keeper, "The Last Story Told" quest) | Session memory ✓ | Complete |
-| **Scarlett** | Eileen's daughter (17, goth) | Undercity resident (private sanctuary, manga, goth introvert) | Session memory ✓ | Complete |
-| **John** | Eileen's son (15, 6'5") | The family Fezzik (gentle giant) | Session memory ✓ | Complete |
+| **Scarlett** | Aurallia's daughter (17, goth) | Undercity resident (private sanctuary, manga, goth introvert) | Session memory ✓ | Complete |
+| **John** | Aurallia's son (15, 6'5") | The family Fezzik (gentle giant) | Session memory ✓ | Complete |
 | **Beverley** | Alexia's mom (Australian) | The Librarian (2/3 human size, silver hair, intimidating) | Session memory ✓ | Complete |
 | **Jay** | Charles's best friend, former Marine | Charismatic NPC (Voltaire-goth, Cherokee cheekbones, derpy wolf) — backstory pending | Session memory | Partial |
 | **Solstara** | Jay's friend, jeweler | Zen jeweler NPC (Renaissance Faire, rave-going, gypsy style) | Session memory | Partial |
@@ -394,7 +394,7 @@ TO BE DESIGNED
 - [x] John — full profile complete
 - [x] Beverley — full profile complete, librarian role assigned
 - [x] Tim Curry/Firekeeper — full design complete, quest designed, images generated
-- [x] CORRECTED: River has NO daughters. Eileen has four children (John, Scarlett, + 2 TBD). Next-gen NPCs are Eileen's kids, not River's.
+- [x] CORRECTED: River has NO daughters. Aurallia has four children (John, Scarlett, + 2 TBD). Next-gen NPCs are Aurallia's kids, not River's.
 - [ ] Erik (Norse zone) — full profile
 - [ ] The Greenward — full profile (gardener rival to Catalyst)
 
@@ -409,7 +409,7 @@ TO BE DESIGNED
 | **03 Architecture & Design** | 0 | EMPTY | Camera System, Building System, Cave City, Acoustic Engine, IEM Architecture |
 | **04 Zone Designs** | 3 subfolders | Game emulators, game videos, World Map Regions | Zone-specific design docs |
 | **05 Quest & Game Design** | 3 | Tabletop analysis, Drive structure, Android APKs | Quest chain docs per zone |
-| **06 Characters & NPCs** | 39 | Character portraits + some dev docs | Missing NPC design docs (Oceanianoir, Joe, Eileen should be here) |
+| **06 Characters & NPCs** | 39 | Character portraits + some dev docs | Missing NPC design docs (Oceanianoir, Joe, Aurallia should be here) |
 | **07 Systems** | 0 | EMPTY | Card Game, Character Classes, Drink Mechanic, Death Sequence, Harmonization |
 | **08 Visual References** | 4 | Concept art prompts, morphic prompts | Generated character art catalog |
 | **09 Music & Sound** | 0 | EMPTY | Sonic Mineral Codex, Music Direction, Acoustic Engine, 42Hz Song |
@@ -432,7 +432,7 @@ TO BE DESIGNED
 **RECOMMENDATION:** "Before the Song" is the master narrative document. The other files contain subsets of what's in it. Consider making "Before the Song" the canonical source and linking from it, rather than maintaining separate copies.
 
 ### Content only in chat history (full documentary, 1.2M chars):
-- Eileen's full design (The Hearth, 7.83Hz, cave painter)
+- Aurallia's full design (The Hearth, 7.83Hz, cave painter)
 - Andra's water zone visual design
 - Zee's dual form visual design
 - Charles's real-life backstory (millwright, micrometer, chlorine explosion)
@@ -449,7 +449,7 @@ TO BE DESIGNED
 ## IMMEDIATE PRIORITY ACTIONS
 
 1. **Upload this master structure to Drive** → 01 Project Bible
-2. **Extract chat-history-only content** into structured docs (Eileen, Andra water form, Zee, Charles backstory, Sonic Mineral System)
+2. **Extract chat-history-only content** into structured docs (Aurallia, Andra water form, Zee, Charles backstory, Sonic Mineral System)
 3. **Fill empty Drive folders** (03 Architecture, 07 Systems, 09 Music & Sound)
 4. **Move "Before the Song.docx" to 02 Origin Story & Narrative**
 5. **Define the 5 starting character classes** (only Charles and River are mapped)

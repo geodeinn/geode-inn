@@ -755,10 +755,10 @@ Puzzles that REQUIRE shifting between Living and Shadow Inn:
 **Shadow Inn:** All four portals are open.
 **Solution:** Enter locked Fae areas through Shadow portals, explore, collect items, return to Living.
 
-### Puzzle 8: Eileen's Completed Paintings
-**Living Inn:** Eileen's cave paintings are fragments.
+### Puzzle 8: Aurallia's Completed Paintings
+**Living Inn:** Aurallia's cave paintings are fragments.
 **Shadow Inn:** The paintings are complete — the full creation myth readable.
-**Solution:** Read the full myth in Shadow, bring the knowledge to Eileen in Living. Eileen's dialogue changes: "You saw the whole painting? ...I've only seen pieces. ...You saw what I'm making? ...Is it... adequate?"
+**Solution:** Read the full myth in Shadow, bring the knowledge to Aurallia in Living. Aurallia's dialogue changes: "You saw the whole painting? ...I've only seen pieces. ...You saw what I'm making? ...Is it... adequate?"
 
 ### Puzzle 9: The Siren's Self-Recognition
 **Living Inn:** The Siren needs to hear her own inner voice.

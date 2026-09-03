@@ -64,7 +64,7 @@
 | Artisan Thief (Raven) | https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/526fd5b65_generated_image.png |
 | Ceiling Gnome | https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/3f75486d1_generated_image.png |
 | Thrum (The Pulse) | https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/e0e11e5af_generated_image.png |
-| Eileen (Weaver) | https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/fb706859a_generated_image.png |
+| Aurallia (Weaver) | https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/fb706859a_generated_image.png |
 | Persephone (alt) | https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/d3c1c57bc_generated_image.png |
 | Hades (alt) | https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/951ff9923_generated_image.png |
 

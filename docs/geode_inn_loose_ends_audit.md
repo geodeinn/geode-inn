@@ -119,7 +119,7 @@ The Geode Inn repository is 85-90% novel-ready. All major story arcs, character 
 ### B21-B23. Missing Voice/Backstory
 21. The Sentinel (River) — lacks regional voice/accent assignment
 22. Dread Pirate Roberts — lacks regional dialect details
-23. Eileen's Children — family connections need full integration into Eileen's profile
+23. Aurallia's Children — family connections need full integration into Aurallia's profile
 
 ### B24. 37 of 60 Catalog Characters Lack Profile Docs
 - 15 Chibi Fae/Arcade cast (Goblin Merchant, Troll Gatekeeper, Ent Guardian, Griffin Boss, Anansi, Ammit, El Muki, Quetzalcoatl, Djinn, Kitsune, Naga, Moai Spirit, Chullachaqui, Mermaid NPC, Orc Guard, Bastet)

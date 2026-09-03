@@ -187,7 +187,7 @@
 | 2,414 | geode_inn_research_mapping.md | Research Material Mapping |
 | 2,371 | geode_inn_hidden_boom.md | The Hidden Bloom |
 | 2,302 | geode_inn_ravens_angle.md | The Raven's Angle |
-| 2,150 | geode_inn_npc_eileen.md | NPC: Eileen |
+| 2,150 | geode_inn_npc_eileen.md | NPC: Aurallia |
 | 1,343 | geode_inn_sacred_trio.md | The Sacred Trio |
 | 1,314 | geode_inn_bosch_shadows.md | Bosch Shadows |
 
@@ -200,7 +200,7 @@
 | 9,779 | geode_inn_npc_joe.md | NPC: Joe (the biggest NPC doc!) |
 | 4,806 | geode_inn_npc_oceanianoir.md | NPC: Oceanianoir |
 | 5,634 | geode_inn_npc_thorin_marijke.md | NPC: Thorin & Marijke |
-| 3,710 | geode_inn_npc_eileen.md | NPC: Eileen |
+| 3,710 | geode_inn_npc_eileen.md | NPC: Aurallia |
 | 1,482 | geode_inn_npc_ryan.md | NPC: Ryan |
 | 1,398 | geode_inn_npc_katy.md | NPC: Katy |
 | 877 | geode_inn_npc_ryan_backstory_base.md | Ryan: Base Backstory |

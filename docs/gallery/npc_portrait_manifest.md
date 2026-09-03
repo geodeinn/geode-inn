@@ -10,7 +10,7 @@ Total: 41 portraits found.
 | The Constant | the_constant_v2.png | 1 | ✅
 | Eres the Cabbit | the_cabbit.png | 1 | ✅
 | The Bard | the_bard_v2.png | 1 | ✅
-| Eileen | eileen.png | 1 | ✅
+| Aurallia | eileen.png | 1 | ✅
 | The Smiths | five_smiths.png | 1 | ✅
 | The Artisan Thief | artisan_thief_selkie.png | 1 | ✅
 | Joe | joe_miniaturist_ingame.png | 1 | ✅

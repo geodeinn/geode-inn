@@ -6,7 +6,7 @@
 
 ## Summary Statistics
 - **Starting commit:** 365a555 (Interlude: The Ravens' Question)
-- **Ending commit:** e5b5c41 (Cartographer/Eileen updated art)
+- **Ending commit:** e5b5c41 (Cartographer/Aurallia updated art)
 - **Total commits:** 52
 - **Unique files changed:** 93
 - **Lines added:** 16,597
@@ -17,7 +17,7 @@
 
 ## Complete Commit Log (52 commits, newest first)
 
-1. **e5b5c41** — Updated art for Cartographer (Dutch root) and Eileen (Irish root) with proper cultural voice-rooted designs
+1. **e5b5c41** — Updated art for Cartographer (Dutch root) and Aurallia (Irish root) with proper cultural voice-rooted designs
 2. **82762cc** — Black Knight NPC: Monty Python-inspired Camelot zone gag character. 'Tis but a scratch!' — the Inn's living price tag
 3. **57db80a** — Volva spelling fix (no umlaut) + Futurama-style running gag: everyone calls her Volvo, she corrects them every time. The Duck is the only one who never got it wrong
 4. **04b7924** — Marijke fix: Volva is Norse seeress (seidr practitioner), not the car. Removed all car-brand metaphor
@@ -102,7 +102,7 @@
 - geode_inn_npc_black_knight.md — Monty Python Camelot knight
 - geode_inn_npc_oceanianoir.md — Oceanianoir (formerly Jaime), goth scientist
 - geode_inn_npc_thorin_marijke.md — Thorin & Marijke paired profile
-- geode_inn_npc_eileen.md — Eileen, Irish cave painter
+- geode_inn_npc_eileen.md — Aurallia, Irish cave painter
 - geode_inn_npc_joe.md — Joe
 - geode_inn_npc_zack.md — Zack
 - geode_inn_mim.md — Mim (renamed from Madame Mim)
@@ -113,7 +113,7 @@
 - geode_inn_mason_npc.md — Mason (stonemason)
 - geode_inn_oceanianoir_formal_integration.md — Oceanianoir's 5-tier periodic table system
 - geode_inn_oceanianoir_formal_integration.md — Oceanianoir's formal quest integration
-- geode_inn_eileens_kids.md — Eileen's children
+- geode_inn_eileens_kids.md — Aurallia's children
 - geode_inn_retort_and_cook.md — The Retort and the Cook
 
 ### Art & Visual Design

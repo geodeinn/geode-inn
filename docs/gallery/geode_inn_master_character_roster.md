@@ -52,7 +52,7 @@ A coinciding list of every created character, critter, creature, and item with v
 | 32 | The Catalyst | Main Floor (L3) | ✅ Portrait | |
 | 33 | The Constant | Cosmology (L1) / Main Floor | ✅ Portrait | Malkovich-inspired |
 | 34 | The Bard | Main Floor (L3) / Meadery (z29) | ✅ Portrait | |
-| 35 | Eileen (The One Who Tends) | Main Floor (L3) | ✅ Portrait | Hearth keeper |
+| 35 | Aurallia (The One Who Tends) | Main Floor (L3) | ✅ Portrait | Hearth keeper |
 | 36 | The Smiths (Five Smiths) | Staircase (L5) | ✅ Portrait | |
 | 37 | The Artisan Thief (Selkie) | Main Floor (L3) / Market | ✅ Portrait | |
 | 38 | Joe (The Miniaturist) | Main Floor (L3) / Studio | ✅ Portrait | Paints dragon kittens, Tom Ellis Lucifer cadence |

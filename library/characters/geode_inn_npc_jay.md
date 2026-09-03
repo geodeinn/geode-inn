@@ -84,7 +84,7 @@ Jay is Charles' best friend. The connection: Jay is the outside to Charles' insi
 Solstara works the Dallas Renaissance Faire. Jay's campgrounds ARE a Renaissance faire. The connection is immediate — Solstara's real-world faire experience is the template for Jay's tavern energy. Solstara is the zen counterweight: calm, grounded, centered. Jay is the storm. Together at the tavern, they're the full spectrum of the faire — the quiet artisan and the loud showman.
 
 **The Tavern vs. The Hearth:**
-The Hearth (inside the Inn) is Eileen's domain — warmth, community, feeding others. Jay's tavern is the EXTERIOR version of the same impulse. Two hearths: one inside the tree, one outside under the sky. Eileen's hearth is the unconditional welcome. Jay's tavern is the conditional welcome — you're welcome, but you're also going to hear the truth about yourself. The inside hearth is love. The outside hearth is love with a side of honesty.
+The Hearth (inside the Inn) is Aurallia's domain — warmth, community, feeding others. Jay's tavern is the EXTERIOR version of the same impulse. Two hearths: one inside the tree, one outside under the sky. Aurallia's hearth is the unconditional welcome. Jay's tavern is the conditional welcome — you're welcome, but you're also going to hear the truth about yourself. The inside hearth is love. The outside hearth is love with a side of honesty.
 
 **The Campgrounds as Zone:**
 - The campgrounds serve as the Inn's exterior — the space between the real world and the archive
@@ -140,7 +140,7 @@ The wolf gets the same treatment — heavy cel-shaded, bold outlines, the same v
 
 - **Charles (Chameleon Druid):** Best friends. The outside and the inside of the same forest. Two loud, smart men pretending to be simpler than they are.
 - **Solstara (The Artisan):** Good friend, fellow jeweler, zen counterweight. Solstara's faire experience is the template for Jay's campgrounds energy. Solstara cooks; Jay serves.
-- **Eileen (The Hearth):** Two hearths. Eileen's hearth is inside — unconditional warmth. Jay's tavern is outside — conditional warmth (you're welcome, but you're getting the truth too).
+- **Aurallia (The Hearth):** Two hearths. Aurallia's hearth is inside — unconditional warmth. Jay's tavern is outside — conditional warmth (you're welcome, but you're getting the truth too).
 - **The Firekeeper:** Two storytellers. The Firekeeper tells stories inside by the fire. Jay tells stories outside by the fire. Different audiences, different energy, same impulse: the story is for the people listening.
 - **The Campgrounds:** Jay's zone — the exterior, the ren faire, the front porch of the Inn.
 

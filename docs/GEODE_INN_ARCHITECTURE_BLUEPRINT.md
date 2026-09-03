@@ -278,7 +278,7 @@ There are 144 characters in the Inn. Each one has up to 3 portrait versions:
 | Naut (The Scholar) | Archive | Hidden quest giver |
 | Beverley the Librarian | Archive | Library keeper |
 | The Storyteller / The Host | Main Floor | Tells stories by the hearth |
-| Eileen (The One Who Tends) | Main Floor | Tends the Inn |
+| Aurallia (The One Who Tends) | Main Floor | Tends the Inn |
 | The Bard | Meadery | Music and songs |
 | The Crone | Main Floor | Wisdom, mirrors |
 | Medusa | Gorgon's Garden | Petrification mechanic |

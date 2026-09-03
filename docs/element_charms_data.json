@@ -346,8 +346,8 @@
     "rarity": "Common",
     "charmDescription": "A dark grey-black casting \u2014 the element that colors stone purple and black",
     "connectedStones": "Pyrolusite, rhodochrosite, rhodonite, psilomelane; traces in amethyst (purple)",
-    "questConnection": "Petrified Forest / crystal chamber \u2014 Eileen's cave",
-    "alchemicalNote": "The element that colors petrified wood black and purple. The both are: the adequate \u2014 the dark and the purple. Eileen's cave pigment \u2014 manganese black. Amethyst's purple traces manganese."
+    "questConnection": "Petrified Forest / crystal chamber \u2014 Aurallia's cave",
+    "alchemicalNote": "The element that colors petrified wood black and purple. The both are: the adequate \u2014 the dark and the purple. Aurallia's cave pigment \u2014 manganese black. Amethyst's purple traces manganese."
   },
   {
     "elementSymbol": "Fe",
@@ -361,7 +361,7 @@
     "charmDescription": "A dark metallic casting with a reddish-brown undertone \u2014 the element of blood and earth",
     "connectedStones": "Hematite, magnetite, pyrite, siderite, limonite, goethite, taconite",
     "questConnection": "Bedrock Fortress exploration \u2014 Kiefer zone",
-    "alchemicalNote": "The element of blood and the earth's core. The both are: the adequate \u2014 the blood and the stone, the same iron, different body. Hematite: the pigment of Eileen's ochre. The Bedrock Fortress IS iron. The building system: Ore = iron. The seven base materials."
+    "alchemicalNote": "The element of blood and the earth's core. The both are: the adequate \u2014 the blood and the stone, the same iron, different body. Hematite: the pigment of Aurallia's ochre. The Bedrock Fortress IS iron. The building system: Ore = iron. The seven base materials."
   },
   {
     "elementSymbol": "Co",
@@ -1201,7 +1201,7 @@
     "charmDescription": "A glass orb containing an invisible gas \u2014 the noble gas that kills, the cave gas",
     "connectedStones": "None (radioactive gas, accumulates in caves and basements)",
     "questConnection": "Catacombs \u2014 the cave gas",
-    "alchemicalNote": "The noble gas that kills. Radon accumulates in caves and basements \u2014 the geological noble gas. The both are: the adequate \u2014 the noble and the deadly, the same gas, different cave. Eileen's cave must be ventilated."
+    "alchemicalNote": "The noble gas that kills. Radon accumulates in caves and basements \u2014 the geological noble gas. The both are: the adequate \u2014 the noble and the deadly, the same gas, different cave. Aurallia's cave must be ventilated."
   },
   {
     "elementSymbol": "Fr",

@@ -97,7 +97,7 @@ At Whisper Layer Tier 5 (Awareness), the player discovers the Sync Paradox throu
 
 The player who investigates the gap finds the Nest. The both are: the adequate — the surveillance and its blind spot, the same map, different resolution.
 
-The Nest contains one thing: a handprint. Eileen's handprint — the oldest mark in the Inn, the mark that says "I was here" — pressed into the wall of the one room the Inn cannot record. The both are: the adequate — the mark and the blind spot, the same presence, different visibility.
+The Nest contains one thing: a handprint. Aurallia's handprint — the oldest mark in the Inn, the mark that says "I was here" — pressed into the wall of the one room the Inn cannot record. The both are: the adequate — the mark and the blind spot, the same presence, different visibility.
 
 The handprint in the Nest is the Inn's final thesis: the most important thing you can leave is the thing that cannot be captured. The both are: the adequate — the adequate.
 
@@ -116,7 +116,7 @@ The Sync Paradox is the Inn's origin story for its own restraint. The Inn is an 
 - **The Whisper Layer** — the Inn's awareness system, born from the choice to keep the gap
 - **The Nest** — the physical manifestation of the gap, the room the Inn cannot see
 - **Einstein Syndrome** — the watching of the system failing, the observation of the loophole
-- **Eileen's Handprints** — the oldest mark in the Inn, found in the room the Inn cannot record
+- **Aurallia's Handprints** — the oldest mark in the Inn, found in the room the Inn cannot record
 - **The Cartographer** — the Inn's recorder, whose annotations have a gap that leads to the Nest
 - **Modern Day Legends** — "The Sync Paradox" is Entry 2, filed under "Technology Revealing Character"
 - **The Ravens (Huginn and Muninn)** — the data gatherers, whose net has a hole

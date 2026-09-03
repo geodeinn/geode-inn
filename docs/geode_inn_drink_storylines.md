@@ -295,7 +295,7 @@ The drink is never the point. The drink is the key. The conversation is the room
 - Gorgon's Stone-Bloom Mead (Gorgon's Garden)
 - Vanir Honey-Dew (Norse / Vanir Glade)
 - Clockmaker's Gear Cordial (Undercity)
-- Eileen's Four-Harmonic Punch (Cave Studio)
+- Aurallia's Four-Harmonic Punch (Cave Studio)
 - Joe's Miniaturist Wine (Sorcerer Workshop)
 - Norns' Thread-Dye Spirits (Tapestry Room)
 - Canopy Pine-Needle Tea (Ascension Canopy)

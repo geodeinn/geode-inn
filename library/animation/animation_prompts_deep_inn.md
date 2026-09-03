@@ -573,15 +573,15 @@ This document contains detailed character animation prompts for all characters r
 
 # Zone 9: Undercity Characters
 
-### 1. Scarlett (Eileen's Child / Goth Crafter)
+### 1. Scarlett (Aurallia's Child / Goth Crafter)
 - **Subject Name:** Scarlett
-- **Visual Description:** Eileen's 17-year-old child (birth name Grace). Exceptionally beautiful goth young woman built like Marilyn Monroe with a curvy, hourglass figure and incredibly pale, heart-shaped face. Huge expressive blue eyes lined with thick kohl eyeliner. Tousled jet-black hair features striking streaks of scarlet red. Dressed in a cozy goth outfit of black lace, velvet corset, and gold-embroidered boots. Intense introvert, brilliant maker and crafter, holding a cherished manga volume.
+- **Visual Description:** Aurallia's 17-year-old child (birth name Grace). Exceptionally beautiful goth young woman built like Marilyn Monroe with a curvy, hourglass figure and incredibly pale, heart-shaped face. Huge expressive blue eyes lined with thick kohl eyeliner. Tousled jet-black hair features striking streaks of scarlet red. Dressed in a cozy goth outfit of black lace, velvet corset, and gold-embroidered boots. Intense introvert, brilliant maker and crafter, holding a cherished manga volume.
 - **Linework Style:** Heavy cel-shaded linework — crisp, defined graphic lines emphasizing her identity as a maker, builder, and crafter.
 - **Color Palette:** Goth black, scarlet red, pale ivory skin, kohl black, and Klimt gold accents.
 - **Lighting / Atmosphere:** Cozy, warm golden-amber rim lighting from Undercity gold ceilings catching her scarlet hair streaks against dark shadows.
 - **Animation Notes:** Idle: Sits comfortably tucked into a cozy corner bench of the Undercity, engrossed in reading a manga book; occasionally flips a page while golden ceiling light catches the red streaks in her hair; takes a quiet breath as gold dust particles float past.
 - **Sound Connection:** Gentle paper page turns over a cozy, warm theta-wave background drone.
-- **Special Notes:** Key character of Level 9; daughter of Eileen; embodies the transition to SELF.
+- **Special Notes:** Key character of Level 9; daughter of Aurallia; embodies the transition to SELF.
 
 ---
 
