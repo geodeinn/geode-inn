@@ -27,7 +27,7 @@ Cultural expressions from the real world, mapped to Inn characters, zones, and s
 ### Brazil: "To peel a pineapple"
 **Meaning:** To face a difficult, complicated situation.
 
-**Inn Connection:** The Selkie's crafting questline. Three acts — cabochon cutting, bead forming, wire knotwork. Each act is a layer of the pineapple. You can't skip a layer. You peel from the outside in, and the core is the pendant. Also: Oceananoir's 118-element periodic table system. Peeling a pineapple, one element at a time.
+**Inn Connection:** The Selkie's crafting questline. Three acts — cabochon cutting, bead forming, wire knotwork. Each act is a layer of the pineapple. You can't skip a layer. You peel from the outside in, and the core is the pendant. Also: Oceanianoir's 118-element periodic table system. Peeling a pineapple, one element at a time.
 
 **Dialogue home:** The Selkie, when the player begins Act 3 (wirework): "You've made it this far. Two layers peeled. The third is the core — and the core is where the pineapple fights back. ...The wire knows your hands now. It knows you peeled it. It's ready."
 

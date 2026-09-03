@@ -304,7 +304,7 @@ Joe is a tradesman — a painter, a teacher, a worker. The heavy cel-shaded line
 ### Joe connects to:
 
 - **The Bead Board** — Joe's miniatures can hold charms, which interact with the Bead Board's frequency system
-- **The Periodic Table Charms** — Jaime's tattoos catalog charms; Joe's miniatures are the charm receptacles
+- **The Periodic Table Charms** — Oceanianoir's tattoos catalog charms; Joe's miniatures are the charm receptacles
 - **The Bone Room** — Marijke paints bones (what was alive); Joe paints miniatures (what will be alive). Parallel craft, different direction
 - **The Constant** — The 41.7Hz recording (Quest 4) creates a dialogue bridge between Joe and the Constant
 - **The Pirate** — Joe stows away on the Pirate's ship; shared "AFTER" narrative

@@ -198,7 +198,7 @@
 | Words | File | Character |
 |-------|------|-----------|
 | 9,779 | geode_inn_npc_joe.md | NPC: Joe (the biggest NPC doc!) |
-| 4,806 | geode_inn_npc_jaime.md | NPC: Jaime |
+| 4,806 | geode_inn_npc_oceanianoir.md | NPC: Oceanianoir |
 | 5,634 | geode_inn_npc_thorin_marijke.md | NPC: Thorin & Marijke |
 | 3,710 | geode_inn_npc_eileen.md | NPC: Eileen |
 | 1,482 | geode_inn_npc_ryan.md | NPC: Ryan |

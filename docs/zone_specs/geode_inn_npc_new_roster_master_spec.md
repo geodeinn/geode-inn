@@ -15,10 +15,10 @@ These are volunteer NPCs — real people from Krista's life who asked to be in t
 
 | NPC | Role | Zone | What They Do |
 |-----|------|------|-------------|
-| Will | The Bonded Alchemist | Staircase | Married to Oceananoir. Runs the staircase lab's night shift. Methodical — documents everything. The charm system's quality assurance. Tests charms from Oceananoir's skin. "In alchemy, patience is a reagent." |
+| Will | The Bonded Alchemist | Staircase | Married to Oceanianoir. Runs the staircase lab's night shift. Methodical — documents everything. The charm system's quality assurance. Tests charms from Oceanianoir's skin. "In alchemy, patience is a reagent." |
 | Evan | The Chess Wizard | Camelot/Celtic | A wizard whose magic IS chess. Built the giant chess board as a child. The Inn's tabletop questline voice IS Evan's natural speaking voice. Evan is the dungeon master. Notices the Whisper Layer because Evan watches everything. |
 | Rachel Kaiser | The Muralist | Main Floor/Archive | Studio artist, ceramic tilemaker. Paints the Inn's murals. Stardew Valley connection. |
-| Oceananoir | The Living Chemical Equation | Staircase | Periodic-table-tattooed scientist, Mensa puzzle designer, goth atheist, burlesque performer, reptile enthusiast. The charm catalog (tattoos = charms). Will balances the equation. |
+| Oceanianoir | The Living Chemical Equation | Staircase | Periodic-table-tattooed scientist, Mensa puzzle designer, goth atheist, burlesque performer, reptile enthusiast. The charm catalog (tattoos = charms). Will balances the equation. |
 | Joe | The Miniaturist | Undercity | Miniature painter. Paints the chess pieces, the game sprites, the tiny models. The Inn's visual craftsperson. |
 
 ---
@@ -28,7 +28,7 @@ These are volunteer NPCs — real people from Krista's life who asked to be in t
 | Principle | Detail |
 |-----------|--------|
 | Volunteer NPCs | Real people from Krista's life, given roles matching their actual personalities and skills. Not avatars — characters inspired by real people. |
-| The both are: the adequate | Every NPC pairing follows the Inn's thesis. Will and Oceananoir: the volatile and the stable, the same reaction, different role. Evan and Joe: the painter and the player, the same game, different role. |
+| The both are: the adequate | Every NPC pairing follows the Inn's thesis. Will and Oceanianoir: the volatile and the stable, the same reaction, different role. Evan and Joe: the painter and the player, the same game, different role. |
 | Accent by origin | NPCs receive accents corresponding to their cultural origin or personal background. |
 | No gendered pronouns | All characters referenced by name or title. |
 | The questline voice | Evan's natural speaking voice IS the tabletop questline voice (Rothfuss + Pratchett + Gaiman + Asimov + Bradbury + Weir). The NPC who writes the quests IS the voice of the quests. |
@@ -39,9 +39,9 @@ These are volunteer NPCs — real people from Krista's life who asked to be in t
 
 | Pair | The Both Are |
 |------|-------------|
-| Will + Oceananoir | The creation and the verification. The volatile and the stable. The same charm, different stage. |
+| Will + Oceanianoir | The creation and the verification. The volatile and the stable. The same charm, different stage. |
 | Evan + Joe | The painter and the player. The same game, different role. Joe paints the chess pieces. Evan plays them. |
-| Evan + Oceananoir | The puzzle and the solver. Oceananoir designs puzzles for Mensa. Evan solves puzzles for fun. |
+| Evan + Oceanianoir | The puzzle and the solver. Oceanianoir designs puzzles for Mensa. Evan solves puzzles for fun. |
 | Evan + Kathy (the druid) | The chess board is living wood. Kathy grew it. Evan and Kathy disagree about whether the board should "evolve" or stay the same. The board does what it wants. |
 | Will + Max (Miracle Max) | Max's margins (flowery, dramatic). Will's footnotes (precise, small). The Crone noticed Will's footnotes are more useful. She hasn't told Max. |
 
@@ -59,12 +59,12 @@ The chess board is the Round Table's other face — the table as a game, not jus
 
 | Connection | Detail |
 |-----------|--------|
-| The Staircase | Will and Oceananoir run the alchemical lab. Day shift (Max) and night shift (Will). |
-| The Periodic Table Charms | Oceananoir's tattoos are the charm catalog. Will tests each one. |
+| The Staircase | Will and Oceanianoir run the alchemical lab. Day shift (Max) and night shift (Will). |
+| The Periodic Table Charms | Oceanianoir's tattoos are the charm catalog. Will tests each one. |
 | The Tabletop Questline | Evan IS the tabletop questline voice. Evan writes the quests. |
 | The Camelot/Celtic Zone | Evan's chess board. The Round Table's other face. |
 | The Whisper Layer | Evan is the one who notices the Inn is watching — because Evan watches everything. |
-| The Charm Bracelet | Oceananoir's tattoos = charm designs. Will's verification = charm quality. |
+| The Charm Bracelet | Oceanianoir's tattoos = charm designs. Will's verification = charm quality. |
 | The Master Character Roster | These NPCs join the 399-entry roster. |
 | Joe (the Miniaturist) | Paints chess pieces, game sprites, tiny models. The visual craftsperson. |
 
@@ -75,7 +75,7 @@ The chess board is the Round Table's other face — the table as a game, not jus
 - [x] Will fully designed (the Bonded Alchemist, night shift, charm QA)
 - [x] Evan fully designed (the Chess Wizard, questline voice, chess board, Dresden questline)
 - [x] Rachel Kaiser designed (the Muralist)
-- [x] Oceananoir designed (the Living Chemical Equation)
+- [x] Oceanianoir designed (the Living Chemical Equation)
 - [x] Joe designed (the Miniaturist)
 - [x] Key relationships documented (5 pairs)
 - [x] Evan's chess board mechanic designed

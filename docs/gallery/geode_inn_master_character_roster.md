@@ -38,7 +38,7 @@ A coinciding list of every created character, critter, creature, and item with v
 | 25 | Loki | Norse Realms (z26) | ✅ Portrait | |
 | 26 | King Arthur | Camelot (z20) | ✅ Portrait | Elder king form |
 | 27 | Anubis (Full Presence, in-game) | Desert Bone Egypt (z12) | ✅ Portrait | In-game full presence version |
-| 28 | The Bog Fairy Golem (Krista) | Bayou (z25) / Main Floor | ✅ Portrait | Krista's avatar, the maker |
+| 28 | The Bog Fairy Golem (Vaulknut) | Bayou (z25) / Main Floor | ✅ Portrait | Krista's avatar, the maker |
 | 29 | Charles (Chameleon Druid) | Garden (z28) / Forest zones | ✅ Portrait | Shapeshifter, glioblastoma woven into character |
 | 30 | The Queen of Webs | Catacombs (L6) / Undercity | ✅ Portrait | |
 
@@ -356,7 +356,7 @@ Each shadow echo is the 84Hz petrified version of its living counterpart — the
 
 | # | Name | Type | Notes |
 |---|------|------|-------|
-| 298 | Krista | Player/Bog Fairy Golem | Real person, plays as avatar in-game |
+| 298 | Vaulknut | Player/Bog Fairy Golem | Played by Krista, real-world builder of the Inn |
 | 299 | River (Lozen) | Player/The Sentinel | Real person, boxer/Golden Gloves, 10-part questline |
 | 300 | Charles | Player/Chameleon Druid | Real person, shapeshifter character |
 | 301 | John Myers | Player | Real person, logs in as themselves — NOT the NPC Quire |

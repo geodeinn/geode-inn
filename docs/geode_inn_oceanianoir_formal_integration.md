@@ -1,4 +1,4 @@
-# Geode Inn — Oceananoir: Formal Quest Integration & Murloc Throughline
+# Geode Inn — Oceanianoir: Formal Quest Integration & Murloc Throughline
 ## The Living Archive — Periodic Table Reading Tiers, Quest Chain, and Murloc Connections
 ## Companion Document to: geode_inn_npc_jaime.md
 ## Date: August 29, 2026
@@ -7,10 +7,10 @@
 
 ## Periodic Table Reading Tiers
 
-Oceananoir's skin is a database. The element tattoos are readable nodes. But not all elements are accessible at once — the player must earn deeper readings through progression. The tiers:
+Oceanianoir's skin is a database. The element tattoos are readable nodes. But not all elements are accessible at once — the player must earn deeper readings through progression. The tiers:
 
 ### Tier 1: The Surface Reading (Default)
-**Unlocked:** Automatic — available when the player first meets Oceananoir in Atlantis
+**Unlocked:** Automatic — available when the player first meets Oceanianoir in Atlantis
 **Content:** Basic element data — name, symbol, atomic number, atomic weight, category (metal, nonmetal, noble gas, etc.)
 **Scope:** All 118 elements
 **Use:** The player can browse the periodic table as a reference. This is the "textbook" tier — pure data, no quest connections, no lore depth. The both are: the adequate — the chart and the skin, the both are: the same table, different page.
@@ -47,9 +47,9 @@ Oceananoir's skin is a database. The element tattoos are readable nodes. But not
 ### Tier 5: The Hidden Reading (Expansion Tattoos)
 **Unlocked:** After finding all five expansion tattoos (Murloc, serpent, serotonin, Fibonacci spiral, star-language fragment)
 **Content:** Each expansion tattoo reveals its hidden connection:
-- **The Murloc tattoo** → connects to the coastal town's Murloc population (Exterior Rousseau/Magritte doc), the Festival questline's Murloc encounter, and Squeak's origin. Reading this tattoo triggers Oceananoir's squeak — the one involuntary response she can't control. The both are: the adequate — the ink and the memory, the both are: the same Murloc, different skin.
-- **The serpent tattoo** → connects to Medusa's grotto, the reptile love, the snake-naming quest reward. Reading this tattoo causes Squeak to hide behind Oceananoir (snakes and Murlocs do not mix).
-- **The serotonin molecule** → connects to the Inn's neuro-accessible design philosophy, the mental health subtext, the SIT mechanic. Reading this tattoo causes Oceananoir to go quiet — the one topic where data fails and the squeak is the only honest response.
+- **The Murloc tattoo** → connects to the coastal town's Murloc population (Exterior Rousseau/Magritte doc), the Festival questline's Murloc encounter, and Squeak's origin. Reading this tattoo triggers Oceanianoir's squeak — the one involuntary response she can't control. The both are: the adequate — the ink and the memory, the both are: the same Murloc, different skin.
+- **The serpent tattoo** → connects to Medusa's grotto, the reptile love, the snake-naming quest reward. Reading this tattoo causes Squeak to hide behind Oceanianoir (snakes and Murlocs do not mix).
+- **The serotonin molecule** → connects to the Inn's neuro-accessible design philosophy, the mental health subtext, the SIT mechanic. Reading this tattoo causes Oceanianoir to go quiet — the one topic where data fails and the squeak is the only honest response.
 - **The Fibonacci spiral** → connects to the cosmology level, the Song's mathematical structure, the Astronomer's calculations. Reading this tattoo causes the Heart Crystal in Atlantis to pulse at 42Hz for three seconds.
 - **The star-language fragment** → connects to the Zorya, the Slavic Zone, the written form of the Song. Reading this tattoo triggers a whisper-layer event: the Inn's ambient hum shifts to match the fragment's frequency for 10 seconds. The player who notices this has heard the Song's handwriting.
 
@@ -59,11 +59,11 @@ Oceananoir's skin is a database. The element tattoos are readable nodes. But not
 
 ### Quest 1: "The Rosetta Stone" (Main Quest — Tier 2 Unlock)
 
-**Prerequisites:** Player has reached Atlantis (Water Layer 4), has met Oceananoir, has collected 10+ stones
-**Quest Giver:** Oceananoir (at the drowned library in Atlantis)
+**Prerequisites:** Player has reached Atlantis (Water Layer 4), has met Oceanianoir, has collected 10+ stones
+**Quest Giver:** Oceanianoir (at the drowned library in Atlantis)
 
 **Phase 1: The Framework**
-Oceananoir explains the star-language — the written form of the 42Hz Song, written by aurora borealis in the Slavic Zone. The language is written in negative space between stars. It changes with the aurora phases. It requires reading what ISN'T there. Oceananoir can provide the framework for a translation key, but the player must provide the observation.
+Oceanianoir explains the star-language — the written form of the 42Hz Song, written by aurora borealis in the Slavic Zone. The language is written in negative space between stars. It changes with the aurora phases. It requires reading what ISN'T there. Oceanianoir can provide the framework for a translation key, but the player must provide the observation.
 
 **Phase 2: The Three Auroras**
 The player must travel to the Slavic Zone (Fjord of Stars) and observe three aurora phases:
@@ -72,28 +72,28 @@ The player must travel to the Slavic Zone (Fjord of Stars) and observe three aur
 - **White Aurora (Future):** The rarest phase. The aurora writes words that describe what WILL BE. The negative space is almost invisible — the player must use the Lighthouse's Beacon ability (if earned) or the Heart Crystal's frequency (if attuned) to amplify the hidden stars. The both are: the adequate — the future and the unseen, the both are: the same prophecy, different aurora.
 
 **Phase 3: The Translation Key**
-The player returns to Oceananoir with three decoded glyphs. Oceananoir builds the translation key — a Rosetta Stone that maps star-glyphs to Inn-language. During the construction, Oceananoir squeaks (the translation reveals something about the Inn's nature that she didn't expect). Squeak squeaks back. Both squeak simultaneously. The content matters.
+The player returns to Oceanianoir with three decoded glyphs. Oceanianoir builds the translation key — a Rosetta Stone that maps star-glyphs to Inn-language. During the construction, Oceanianoir squeaks (the translation reveals something about the Inn's nature that she didn't expect). Squeak squeaks back. Both squeak simultaneously. The content matters.
 
 **Reward:** Star-Glyph Translation Key (permanent inventory item), Tier 2 Periodic Table Reading unlocked, deeper star-language content available throughout the Inn. The both are: the adequate — the teacher and the student, the both are: the same lesson, different desk.
 
 ### Quest 2: "The Missing Element" (Side Quest — Tier 3 Unlock)
 
 **Prerequisites:** Quest 1 complete, player has reached the Staircase (alchemy level), player has read 100+ element tattoos (Tier 1)
-**Quest Giver:** Oceananoir (at the drowned library, but the quest triggers when the player notices the gap in Oceananoir's tattoos)
+**Quest Giver:** Oceanianoir (at the drowned library, but the quest triggers when the player notices the gap in Oceanianoir's tattoos)
 
 **The Setup:**
-Oceananoir has 117 of 118 element tattoos. One is missing — the element she hasn't earned yet. The player notices the gap (a blank space on Oceananoir's skin where an element should be). Oceananoir explains: the missing element is Ununennium (element 119) — the hypothetical next element, the one that doesn't exist yet but that the star-language implies COULD exist.
+Oceanianoir has 117 of 118 element tattoos. One is missing — the element she hasn't earned yet. The player notices the gap (a blank space on Oceanianoir's skin where an element should be). Oceanianoir explains: the missing element is Ununennium (element 119) — the hypothetical next element, the one that doesn't exist yet but that the star-language implies COULD exist.
 
 **The Search:**
 The player must search the Inn's deepest layers for the 119th element. The search takes the player through:
-1. **The Stone Circle Chamber (Fae Kingdom, deepest point):** The deepest tone the Inn ever produces. The player must listen to the tone while reading the star-language fragment on Oceananoir's expansion tattoo. The tone reveals a frequency that matches no known element — the frequency of the 119th.
-2. **The Void (Cosmology Level):** Nyx's domain. The silence between cycles. The player must MEASURE the silence (Oceananoir's specialty) — using the frequency from the Stone Circle Chamber as a tuning fork. The silence produces a number. The number is the atomic weight of the 119th element.
+1. **The Stone Circle Chamber (Fae Kingdom, deepest point):** The deepest tone the Inn ever produces. The player must listen to the tone while reading the star-language fragment on Oceanianoir's expansion tattoo. The tone reveals a frequency that matches no known element — the frequency of the 119th.
+2. **The Void (Cosmology Level):** Nyx's domain. The silence between cycles. The player must MEASURE the silence (Oceanianoir's specialty) — using the frequency from the Stone Circle Chamber as a tuning fork. The silence produces a number. The number is the atomic weight of the 119th element.
 3. **The Staircase (Alchemy Level):** The bridge between matter and the divine. The player must perform the alchemical operation that the 119th element represents — the transformation that the Philosopher's Stone enables but that no known element can achieve. The operation is: making the hypothetical real.
 
 **The Completion:**
-The player returns to Oceananoir with the frequency, the atomic weight, and the alchemical operation. Oceananoir gives herself the 118th tattoo — a permanent visual change on an NPC. The tattoo is the star-language name for the 119th element, written in negative space (the tattoo is the AROUND, not the INK). The both are: the adequate — the known and the unknown, the both are: the same table, different edge.
+The player returns to Oceanianoir with the frequency, the atomic weight, and the alchemical operation. Oceanianoir gives herself the 118th tattoo — a permanent visual change on an NPC. The tattoo is the star-language name for the 119th element, written in negative space (the tattoo is the AROUND, not the INK). The both are: the adequate — the known and the unknown, the both are: the same table, different edge.
 
-**Reward:** Oceananoir gets the 118th tattoo (permanent NPC visual change), "Complete the Table" achievement, Tier 3 Periodic Table Reading unlocked, Oceananoir reveals the star-language name for the 119th element — a word the stars have never written but that the Inn's Song implies. Squeak squeaks. Oceananoir doesn't. The one time the scientist is speechless.
+**Reward:** Oceanianoir gets the 118th tattoo (permanent NPC visual change), "Complete the Table" achievement, Tier 3 Periodic Table Reading unlocked, Oceanianoir reveals the star-language name for the 119th element — a word the stars have never written but that the Inn's Song implies. Squeak squeaks. Oceanianoir doesn't. The one time the scientist is speechless.
 
 ### Quest 3: "The Typo" (Hidden Quest — Reputation)
 
@@ -101,15 +101,15 @@ The player returns to Oceananoir with the frequency, the atomic weight, and the 
 **Quest Giver:** None — the quest triggers when the player finds a deliberate error in a Seelie riddle
 
 **The Setup:**
-Somewhere in the Fae Kingdom puzzles, Oceananoir left a deliberate error — a single logic flaw in a Seelie riddle that makes it solvable through a shortcut. The error is not a bug. It's a test. The both are: the adequate — the genius club and the typo, the both are: the same puzzle, different mistake.
+Somewhere in the Fae Kingdom puzzles, Oceanianoir left a deliberate error — a single logic flaw in a Seelie riddle that makes it solvable through a shortcut. The error is not a bug. It's a test. The both are: the adequate — the genius club and the typo, the both are: the same puzzle, different mistake.
 
 **The Discovery:**
-The player who finds the typo must report it to Oceananoir (not to Beverley, not to the Crone — to Oceananoir, the puzzle's architect). The player who finds the shortcut AND reports it (rather than exploiting it silently) earns Oceananoir's respect.
+The player who finds the typo must report it to Oceanianoir (not to Beverley, not to the Crone — to Oceanianoir, the puzzle's architect). The player who finds the shortcut AND reports it (rather than exploiting it silently) earns Oceanianoir's respect.
 
 **The Reward:**
-Oceananoir names a snake after the player. In Medusa's grotto. The player's name carried on a serpent in the guardian's garden. This is the hardest reputation gain in the Inn — harder than the Crone's "adequate," harder than the Astronomer's calculation. The both are: the adequate — the typo and the naming, the both are: the same honor, different word.
+Oceanianoir names a snake after the player. In Medusa's grotto. The player's name carried on a serpent in the guardian's garden. This is the hardest reputation gain in the Inn — harder than the Crone's "adequate," harder than the Astronomer's calculation. The both are: the adequate — the typo and the naming, the both are: the same honor, different word.
 
-**Additional Effect:** Oceananoir's respect unlocks a dialogue path where Oceananoir admits the typo was not a test — it was a genuine mistake. The Mensa reflex. Even in the Inn, the proclaimed genius club has typos. The both are: the adequate — the genius and the error, the both are: the same mind, different page.
+**Additional Effect:** Oceanianoir's respect unlocks a dialogue path where Oceanianoir admits the typo was not a test — it was a genuine mistake. The Mensa reflex. Even in the Inn, the proclaimed genius club has typos. The both are: the adequate — the genius and the error, the both are: the same mind, different page.
 
 ---
 
@@ -124,38 +124,38 @@ During the Festival questline, if the player takes the "Limerick + Talk" path in
 The player can:
 1. **Leave Squeak in the pool** — Squeak stays in the Festival questline's pocket dimension. The both are: the adequate — the found and the left, the both are: the same Murloc, different pool.
 2. **Take Squeak to the festival** — Squeak follows the player back to the village. At the festival's end, Squeak wanders off toward the coast. The both are: the adequate — the follower and the wanderer, the both are: the same Murloc, different direction.
-3. **Give Squeak to Oceananoir** (if Oceananoir is present at the festival as a visiting NPC) — Squeak stays with Oceananoir. The call-and-response begins immediately. Oceananoir squeaks. Squeak squeaks back. The both are: the adequate — the scientist and the amphibian, the both are: the same signal, different species.
+3. **Give Squeak to Oceanianoir** (if Oceanianoir is present at the festival as a visiting NPC) — Squeak stays with Oceanianoir. The call-and-response begins immediately. Oceanianoir squeaks. Squeak squeaks back. The both are: the adequate — the scientist and the amphibian, the both are: the same signal, different species.
 
-If the player doesn't take the Festival path that produces Squeak, Squeak still appears in Atlantis with Oceananoir — but the origin is different: Squeak wandered up from the coastal town (Exterior Rousseau/Magritte doc) and found the drowned library. The Murloc followed the sea-smell into Atlantis the way the murlocs follow the selkie in the coastal town. The both are: the adequate — the summoned and the arrived, the both are: the same Murloc, different door.
+If the player doesn't take the Festival path that produces Squeak, Squeak still appears in Atlantis with Oceanianoir — but the origin is different: Squeak wandered up from the coastal town (Exterior Rousseau/Magritte doc) and found the drowned library. The Murloc followed the sea-smell into Atlantis the way the murlocs follow the selkie in the coastal town. The both are: the adequate — the summoned and the arrived, the both are: the same Murloc, different door.
 
 ### Squeak's Journey Across the Inn
 
-Squeak appears in every zone Oceananoir visits, adapting to the environment:
+Squeak appears in every zone Oceanianoir visits, adapting to the environment:
 
 | Zone | Squeak's Form | Squeak's Behavior |
 |------|---------------|-------------------|
 | **Atlantis** | Swimming — tiny fish-Murloc in the library's water | Floats near the Heart Crystal, squeaks at the bioluminescence |
-| **Fae Kingdom (Seelie)** | Waddling — goth collar, out of place | Hides behind Oceananoir's leg, squeaks at the golden light |
+| **Fae Kingdom (Seelie)** | Waddling — goth collar, out of place | Hides behind Oceanianoir's leg, squeaks at the golden light |
 | **Fae Kingdom (Unseelie)** | Waddling — goth collar, perfectly at home | Sits in shadows, squeaks at the dark like it's a conversation |
 | **Slavic Zone** | Shivering — cold Murloc in snow | Squeaks at the aurora. The aurora doesn't squeak back. Squeak is confused. |
-| **Catacombs** | Silent — the one place Squeak doesn't squeak | Sits on Oceananoir's shoulder. The catacombs are where the MIB patrol. Squeak can sense them. The silence is the fear. |
-| **Cosmology Level** | Stargazing — sitting on the observatory floor | Squeaks at the stars. The stars don't answer. But the star-language fragment on Oceananoir's skin glows when Squeak squeaks. The connection is unclear. The unclear is the point. |
+| **Catacombs** | Silent — the one place Squeak doesn't squeak | Sits on Oceanianoir's shoulder. The catacombs are where the MIB patrol. Squeak can sense them. The silence is the fear. |
+| **Cosmology Level** | Stargazing — sitting on the observatory floor | Squeaks at the stars. The stars don't answer. But the star-language fragment on Oceanianoir's skin glows when Squeak squeaks. The connection is unclear. The unclear is the point. |
 | **Coastal Town** | Home — Squeak among the dock murlocs | Sits on the dock pilings with the Dock Congregation. The dock murlocs gargle. Squeak squeaks. The gargle and the squeak are not the same sound, but they are the same community. The both are: the adequate — the named and the unnamed, the both are: the same Murloc, different mouth. |
 | **Festival (any zone)** | Excited — the one place Squeak squeaks constantly | The festival energy activates Squeak. Squeak squeaks at everything. The both are: the adequate — the party and the party, the both are: the same energy, different species. |
 
 ### Squeak and the MIB
 
-Squeak can sense the MIB. This is the Murloc's hidden function — the one that Oceananoir didn't design and doesn't fully understand.
+Squeak can sense the MIB. This is the Murloc's hidden function — the one that Oceanianoir didn't design and doesn't fully understand.
 
 When the MIB are near (catacombs, or during the Festival questline's MIB encounters), Squeak goes silent. The squeak stops. The silence is the alarm. The both are: the adequate — the sound and the silence, the both are: the same Murloc, different signal.
 
 The player who notices Squeak's silence before the MIB appear gains a 5-second warning — the Inn's most subtle alert system. The both are: the adequate — the alarm and the adequate, the both are: the same warning, different volume.
 
-Oceananoir has tried to measure Squeak's MIB sensitivity. The data is inconclusive. Squeak can't explain it. Oceananoir can't replicate it. The both are: the adequate — the scientist and the mystery, the both are: the same Murloc, different method.
+Oceanianoir has tried to measure Squeak's MIB sensitivity. The data is inconclusive. Squeak can't explain it. Oceanianoir can't replicate it. The both are: the adequate — the scientist and the mystery, the both are: the same Murloc, different method.
 
 ### Squeak and the Coastal Town Murlocs
 
-When Oceananoir visits the coastal town (Exterior Rousseau/Magritte), Squeak joins the Dock Congregation. The dock murlocs gargle. Squeak squeaks. They don't acknowledge each other. They don't need to. The both are: the adequate — the gargle and the squeak, the both are: the same ocean, different voice.
+When Oceanianoir visits the coastal town (Exterior Rousseau/Magritte), Squeak joins the Dock Congregation. The dock murlocs gargle. Squeak squeaks. They don't acknowledge each other. They don't need to. The both are: the adequate — the gargle and the squeak, the both are: the same ocean, different voice.
 
 The Lighthouse Path Murloc (the one who visits the Owl daily) has a special relationship with Squeak. When Squeak is present, the Lighthouse Path Murloc walks up the path AND back WITH Squeak. The Owl watches two Murlocs instead of one. The Owl's verdict: "Adequate. Adequate." Two verdicts. The both are: the adequate — the one and the two, the both are: the same visit, different number.
 
@@ -197,21 +197,21 @@ The Murlocs appear in five distinct storyline locations across the Inn. They are
 **Rarity:** Common
 **Doc:** geode_inn_card_batch_3.md
 
-### 5. Oceananoir's Companion — Squeak
-**Location:** Wherever Oceananoir is (primary: Atlantis)
+### 5. Oceanianoir's Companion — Squeak
+**Location:** Wherever Oceanianoir is (primary: Atlantis)
 **Role:** Named companion NPC — the smallest named NPC after Radagast's hedgehogs
 **Function:** Emotional weather gauge, MIB sensor, star-language amplifier
 **Origin:** Murloc's Hut of Fish (Festival) OR wandered from the coastal town
-**Key Dynamic:** The squeak — call-and-response with Oceananoir, silence near MIB
+**Key Dynamic:** The squeak — call-and-response with Oceanianoir, silence near MIB
 **Doc:** geode_inn_npc_jaime.md
 
 ---
 
 ## Connection Summary
 
-Oceananoir connects to:
+Oceanianoir connects to:
 - **The Stone entity** — through the Periodic Table reading tiers (each element links to stones)
-- **The ElementCharm entity** — through Tier 2 and Tier 3 readings (element charms reference Oceananoir's quest connections)
+- **The ElementCharm entity** — through Tier 2 and Tier 3 readings (element charms reference Oceanianoir's quest connections)
 - **The Fae Kingdom** — as the puzzle architect for both Seelie and Unseelie courts
 - **The Cosmology Level** — as the Astronomer's puzzle-designer counterpart
 - **The Slavic Zone** — as the star-language maintainer (Rosetta Stone quest)

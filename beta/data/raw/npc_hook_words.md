@@ -24,7 +24,7 @@ that tells you exactly who's talking before the name appears.
 
 | NPC | Hook Word(s) | Voice Profile | Zone | Notes |
 |-----|--------------|---------------|------|-------|
-| Selkie | "Make it true." | Master crafter | Tidal Caves | Krista's character. Three-act crafting quest line. |
+| Selkie | "Make it true." | Master crafter | Tidal Caves | Vaulknut, played by Krista. Three-act crafting quest line. |
 | Elora Nightbloom | "What catches the eye?" | Illusion-based charm | Market | Market Manager. Lacey's character. Manages vendor portal. |
 | Rachel Kaiser | "Hold still." | Artist intensity | Studio | Artist-in-residence. Makeup-transformation routine. Stardew Valley aesthetic. |
 
@@ -51,7 +51,7 @@ that tells you exactly who's talking before the name appears.
 |-----|--------------|---------------|------|-------|
 | River (The Sentinel) | "Halt." | Guard authority | Entrance | Golden Gloves champion. INFJ. Guards the Inn. |
 | Player Guide | "Ready?" | Jennifer Hale | Tutorial | Welcoming. Guides new players through first steps. |
-| The Bog Fairy Golem | "Grow." | Bayou earth voice | Bayou | Krista's avatar. Made of swamp. 42Hz Song animated. |
+| The Bog Fairy Golem | "Grow." | Bayou earth voice | Bayou | played by Krista. Made of swamp. 42Hz Song animated. |
 | Charles (Chameleon Druid) | "What was I?" | Shifting self | Garden/Forest | Shapeshifter. Glioblastoma woven into character. |
 
 ## Fae Kingdom NPCs
@@ -65,7 +65,7 @@ that tells you exactly who's talking before the name appears.
 
 | NPC | Hook Word(s) | Voice Profile | Zone | Notes |
 |-----|--------------|---------------|------|-------|
-| Will | "Current's shifting." | Ocean-worn | Atlantis | Oceananoir's partner. Reads the water. |
+| Will | "Current's shifting." | Ocean-worn | Atlantis | Oceanianoir's partner. Reads the water. |
 | Evan | "Your move." | Chess wizard | Tidal Caves | Dresden Files fan. Potential quest lead. |
 
 ## Animal & Creature NPCs

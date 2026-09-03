@@ -1064,7 +1064,7 @@ All 32 creatures are chibi-style playable characters for the "Monster of the Dee
 ### 30. The Selkie (Artisan Thief)
 **Image:** https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/415f20f60_generated_image.png
 **Location:** Tidal Caves workshop (Water Zone)
-**Role:** Krista's player character, master crafter
+**Role:** Vaulknut, the player character, master crafter
 **Cultural Roots:** Irish/Scottish coastal
 **Design Notes:** Sandman Netflix aesthetic — pale, ethereal, dark hair with saltwater memory. Jeweler's leather apron = the selkie skin. Holding a cabochon moonstone showing adularescence. Half-submerged tidal cave workshop, tide-powered grinding wheel. Lewis Wyland water-zone style. Soft flowing linework (lore). Two worlds visible: maker and wild thing.
 
@@ -1096,7 +1096,7 @@ All 32 creatures are chibi-style playable characters for the "Monster of the Dee
 **Cultural Roots:** British (incognito)
 **Design Notes:** Neil Gaiman energy, softened features — trying to be invisible, succeeding. Dark hair, glasses, black coat, book face-down, warm tea. No quest marker, no glow. Impossible sky through the window. Soft flowing linework (lore). Easy to walk past. The Inn's quietest thesis statement. One line per visit.
 
-### 35. Oceananoir
+### 35. Oceanianoir
 **Image:** https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/ec77dbccc_generated_image.png
 **Location:** Atlantis (deep-water archive)
 **Role:** Scientist, linguist, periodic table architect
@@ -1443,7 +1443,7 @@ All 32 creatures are chibi-style playable characters for the "Monster of the Dee
 ### 62. The Bog Fairy Golem (In-Game)
 **Image:** https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/a1f7ef8f1_generated_image.png
 **Location:** Bayou zone
-**Role:** Krista's avatar, the swamp's keeper, 42Hz Murmur made into a body
+**Role:** Vaulknut, the swamp's keeper, 42Hz Murmur made into a body
 **Linework:** Heavy cel-shaded (tradesman) with soft flowing (lore) at edges
 
 ### 63. The Crone — Full Presence (In-Game)

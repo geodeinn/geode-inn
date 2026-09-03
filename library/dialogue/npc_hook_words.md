@@ -65,7 +65,7 @@ that tells you exactly who's talking before the name appears.
 
 | NPC | Hook Word(s) | Voice Profile | Zone | Notes |
 |-----|--------------|---------------|------|-------|
-| Will | "Current's shifting." | Ocean-worn | Atlantis | Oceananoir's partner. Reads the water. |
+| Will | "Current's shifting." | Ocean-worn | Atlantis | Oceanianoir's partner. Reads the water. |
 | Evan | "Your move." | Chess wizard | Tidal Caves | Dresden Files fan. Potential quest lead. |
 
 ## Animal & Creature NPCs

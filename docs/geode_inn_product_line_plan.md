@@ -386,7 +386,7 @@ Not an audiobook. An audio experience. The Inn's voice placement system — ever
 ## Why This Is Now Possible
 
 The voice placement infrastructure is complete:
-- **Regional Voice Profiles:** Every NPC mapped to a real-world accent (Selkie=Irish, Cartographer=Dutch, Norns=Icelandic, Thorin=Swedish/Skarsgard, Oceananoir=French, Mim=Belgian, Fixer=Welsh, Teacher=Canadian, Beverley=Australian)
+- **Regional Voice Profiles:** Every NPC mapped to a real-world accent (Selkie=Irish, Cartographer=Dutch, Norns=Icelandic, Thorin=Swedish/Skarsgard, Oceanianoir=French, Mim=Belgian, Fixer=Welsh, Teacher=Canadian, Beverley=Australian)
 - **Idiom Atlas:** 13 cultural expressions mapped to characters — idioms that ground dialogue in real speech patterns
 - **Character Cadences:** Specific speech patterns defined — Beverley (Anne Robinson clipped precision), Joe (Tom Ellis Lucifer smooth), The Reader (Gaiman cadence, one line per visit), The Teacher (Kathy Bates three modes), The Firekeeper (Tim Curry theatrical), The Catalyst (Helena Bonham Carter intimate)
 - **The 50 BPM Tempo:** The Inn's heartbeat tempo — the production's baseline rhythm

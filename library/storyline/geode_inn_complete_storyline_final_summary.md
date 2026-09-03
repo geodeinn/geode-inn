@@ -238,7 +238,7 @@ Persephone's cycle made spatial. The 7-layer water system.
 1. **Surface/Spring** — Persephone's presence (high tide). Kelpie, Selkie, Nykur, Cailleach Beur, Kappa.
 2. **Shallows/Transition** — The shift. Nixie, Each-Uisge, Merrow, Hafgufu.
 3. **Tidal Caves** — Wyndham Lewis aesthetic. Hippocampus, Afanc, Finman, Loathly Worm, Jiaolong, Vodyanoy, Tarasque.
-4. **Atlantis** — Luis Royo aesthetic. Jaime's primary location. Havestue, Wyvern of the Deep, Djinn of the Depths, Ningyo, Oannes.
+4. **Atlantis** — Luis Royo aesthetic. Oceanianoir's primary location. Havestue, Wyvern of the Deep, Djinn of the Depths, Ningyo, Oannes.
 5. **Abyssal/The Deep** — Water monsters. Nessie game. Kraken, Leviathan, Morgawr, Uncegila, Umibozu, Akkorokamui, Siren (deep-water).
 6. **Underworld Boundary** — Hades as Harbor. Nuckelavee, Tiamat Dragon, Scylla.
 7. **Roots/Stone Circle Chamber** — Deepest point. Fae Kingdom connection. Ymir's Tear.
@@ -250,7 +250,7 @@ Persephone's cycle made spatial. The 7-layer water system.
 - **The Pirate (Mandy Patinkin)** — 50 BPM bodhrán. Two drummers (Pirate + Zee). The Pirate's drum goes DOWN through all 7 layers, through the Source, into the underground ocean. The Deep Ones hear it — call it "the Above-Beat."
 - **The Siren/Andra (Lady Gaga)** — Auburn redhead, Amy Winehouse vibe. Krista's sister. Performance as armor. The spotlight as shield.
 - **Zee** — Drummer from Mexico. Dual land/pirate and water/merman forms.
-- **Jaime** — The Living Archive. Scientist, linguist, puzzle architect. Walking periodic table (periodic table tattoos). Atlantis. Murloc companion.
+- **Oceanianoir** — The Living Archive. Scientist, linguist, puzzle architect. Walking periodic table (periodic table tattoos). Atlantis. Murloc companion.
 
 **The Lighthouse Vigil** — The Bifocal Gaze: UP (Cosmology) and ACROSS (Water Zone). Becomes the Trifocal Gaze with the addition of DOWN (Hollow Earth). The Keeper watches all three. Three tempos: Owl (fast), Persephone (medium), Pirate (slow). 8th layer: Still / Glowing / Pulsing / Silent.
 
@@ -471,7 +471,7 @@ A browsable interactive catalog of all 166 Geode Inn stones. Each stone plays it
 Tesla, Da Vinci, Newton, Einstein — roam the Inn debating. The system generates real-time philosophical conversations based on each thinker's actual positions.
 
 ### Volunteer NPCs
-Jaime (Living Archive), Joe (Vampire Sorcerer/Miniaturist), Katy (Plant Necromancer), Ryan (Meadery bartender), Thorin and Marijke (Mead Hall), Uhtred (Neutralizer).
+Oceanianoir (Living Archive), Joe (Vampire Sorcerer/Miniaturist), Katy (Plant Necromancer), Ryan (Meadery bartender), Thorin and Marijke (Mead Hall), Uhtred (Neutralizer).
 
 ### Mythological Figures (15+)
 Anubis, Persephone and Hades, Morrigan and Mab, Loki, Hel, Arthur + Galahad + Merlin, Medusa, Mulan, Gilgamesh and Enkidu, Radagast and Beorn, Miracle Max, Inn-Tree and 4 Ents, Odin's Ravens, Ceiling Gnome (Gesso), Greek Philosophers.

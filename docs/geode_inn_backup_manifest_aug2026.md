@@ -22,7 +22,7 @@
 3. **57db80a** — Volva spelling fix (no umlaut) + Futurama-style running gag: everyone calls her Volvo, she corrects them every time. The Duck is the only one who never got it wrong
 4. **04b7924** — Marijke fix: Volva is Norse seeress (seidr practitioner), not the car. Removed all car-brand metaphor
 5. **fc8601e** — Marijke redesign: The Volva Valkyrie. Mild-mannered Viking shaman, Brida from Last Kingdom styling, bone reader
-6. **8f67748** — Concept art Batch 2: 10 Inn staff NPCs drawn with regional root voices (Beverley, Teacher, Selkie, Norns, Host, Firekeeper, Catalyst, Reader, Oceananoir, Katy, Mim, Monsieur Sentient, Fixer, Thorin, Marijke)
+6. **8f67748** — Concept art Batch 2: 10 Inn staff NPCs drawn with regional root voices (Beverley, Teacher, Selkie, Norns, Host, Firekeeper, Catalyst, Reader, Oceanianoir, Katy, Mim, Monsieur Sentient, Fixer, Thorin, Marijke)
 7. **4458ec6** — Design principle update: NPCs come FROM the 191 world map countries — accents are roots, not assignments
 8. **1c2a343** — Regional Voice Profiles: every NPC mapped to real-world accent of their cultural zone
 9. **966413d** — Idiom Atlas: 13 cultural expressions mapped to Inn characters. Whisper Layer throughline: five idioms form a skeleton key
@@ -49,8 +49,8 @@
 30. **ec97058** — Bead Composer: Standalone product spec — full SaaS product definition. 4-tier monetization, 5-phase roadmap
 31. **9d6618f** — Bead Composer: Full bead shape catalog — 8 smooth shapes, 8 faceted shapes, size/audio profiles, unlock progression
 32. **0c3043e** — Characters: Madame Mim's Magritte Pipe — standalone character doc. Stones: faceting classification doc
-33. **fb262c1** — Rename Jaime → Oceananoir across all docs (17 files)
-34. **041e685** — Jaime formal quest integration: 5-tier periodic table reading system, Murloc throughline
+33. **fb262c1** — Rename Jaime → Oceanianoir (now Oceanianoir) across all docs (17 files)
+34. **041e685** — Oceanianoir formal quest integration: 5-tier periodic table reading system, Murloc throughline
 35. **54734bf** — Fix: Murlic → Murloc (damn autocorrect)
 36. **aa8f344** — Fix: Murdoch → Murlic (the Inn's name for the fish-creature)
 37. **18d748c** — Festival in the Middle of a Raid — official quest document. All 6 portal encounters, MIB throughline
@@ -100,7 +100,7 @@
 ### Characters
 - geode_inn_npc_marijke.md — The Volva Valkyrie (redesigned)
 - geode_inn_npc_black_knight.md — Monty Python Camelot knight
-- geode_inn_npc_oceananoir.md — Oceananoir (formerly Jaime), goth scientist
+- geode_inn_npc_oceanianoir.md — Oceanianoir (formerly Jaime), goth scientist
 - geode_inn_npc_thorin_marijke.md — Thorin & Marijke paired profile
 - geode_inn_npc_eileen.md — Eileen, Irish cave painter
 - geode_inn_npc_joe.md — Joe
@@ -111,8 +111,8 @@
 - geode_inn_the_egg.md — Monthly character hatchery system
 - geode_inn_the_weaver.md — The Weaver (cosmological)
 - geode_inn_mason_npc.md — Mason (stonemason)
-- geode_inn_oceananoir_formal_integration.md — Oceananoir's 5-tier periodic table system
-- geode_inn_jaime_formal_integration.md — Jaime's formal quest integration
+- geode_inn_oceanianoir_formal_integration.md — Oceanianoir's 5-tier periodic table system
+- geode_inn_oceanianoir_formal_integration.md — Oceanianoir's formal quest integration
 - geode_inn_eileens_kids.md — Eileen's children
 - geode_inn_retort_and_cook.md — The Retort and the Cook
 
@@ -184,7 +184,7 @@
 14. **Bead Composer** — Full SaaS product at geodeinn.com/composer with Inn Mode audio processor
 15. **Brownie Revelation** — Brownies as Owl's unwitting infrastructure, Shadow Inn playable class
 16. **Festival in the Middle of a Raid** — 6 portal encounters, MIB throughline
-17. **Oceananoir** — Renamed from Jaime, goth scientist with Murloc familiar Squeak
+17. **Oceanianoir** — Renamed from Jaime, goth scientist with Murloc familiar Squeak
 18. **118 element charms** — Periodic table charm system loaded as entity records
 19. **Comic Strip** — Daily 4-panel strip, retired characters live on as echoes
 20. **Regional voice profiles** — Every NPC mapped to real-world cultural accent

@@ -133,7 +133,7 @@
 | 60 | The Examiner | Family friend | Reads what was | ✅ v1 + v2 | `the_examiner.png` / `_v2.png` |
 | 61 | The Collector (Joe) | Volunteer | Undercity NPC | ✅ v1 | `joe_share.md` — Joe approved design |
 | 62 | The Hearth (Eileen) | Krista's friend | Unconditional love | ✅ v1 | `the_one_who_tends.png` / `_v2.png` |
-| 63 | Jaime | Volunteer | NPC | ✅ final | `jaime_concept_art_final.png` |
+| 63 | Oceanianoir | Volunteer | NPC | ✅ final | `jaime_concept_art_final.png` |
 | 64 | Ryan | Volunteer | NPC | ❌ NEEDED | Doc exists, no final art |
 | 65 | Katy | Volunteer | NPC | ❌ NEEDED | Doc exists, no final art |
 | 66 | Thorin/Marijke | Meadery owners | Viking great hall | ❌ NEEDED | Doc exists, no final art |

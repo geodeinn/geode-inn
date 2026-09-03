@@ -53,7 +53,7 @@ const NPC_SPRITE_MAP := {
 	"The Keeper": "npcs/keeper.png",
 	"The Constant": "npcs/constant.png",
 	"The Cook": "npcs/cook.png",
-	"Oceananoir": "npcs/oceananoir.png",
+	"Oceanianoir": "npcs/oceanianoir.png",
 	"Radagast": "npcs/radagast.png",
 	"Beorn": "npcs/beorn.png",
 	"Marijke": "npcs/marijke.png",

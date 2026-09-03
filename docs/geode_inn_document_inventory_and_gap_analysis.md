@@ -172,7 +172,7 @@ These are the files that didn't match keyword filters. Many are major design doc
 - **geode_inn_tinkering_weeaboo.md** (156 lines) — Tinkering Weeaboo
 - **geode_inn_shifting_man.md** (99 lines) — Shifting Man
 - **geode_inn_azerothcore_mapping.md** (182 lines) — AzerothCore mapping
-- **geode_inn_oceananoir_formal_integration.md** (238 lines) — Oceananoir integration
+- **geode_inn_oceanianoir_formal_integration.md** (238 lines) — Oceanianoir integration
 - **geode_inn_artist_audit.md** (238 lines) — Artist audit
 - **geode_inn_national_parks_veil.md** (211 lines) — National Parks Veil
 - **geode_inn_missing_stones.md** (166 lines) — Missing stones

@@ -196,7 +196,7 @@ The Miskatonic Annex (Grounds)
 * Unnamed Librarian — Ageless, barely speaks. Guards the Lost Books Collection.
 * Lost books include: Christopher Pike's Season of Passage, The Listeners, The Starlight Crystal. These provide architectural basis for the Mars prison, astral listening, and cyclical reincarnation mechanics.
 Family Character Classes (Starting Classes)
-* Artisan Thief (Krista) — Selkie. Feminine Sandman. High DEX/INT, Low CHA. Dive ability. Jeweler's apron IS selkie skin.
+* Artisan Thief (Vaulknut) — Selkie. Feminine Sandman. High DEX/INT, Low CHA. Dive ability. Jeweler's apron IS selkie skin.
 * Librarian Crone (Krista's Mom) — The Word/Measure. High INT/WIS, Low Empathy. "Better." Color psychology. Anthony Hopkins + Shirley MacLaine.
 * Bard Blowhard (Krista's Dad) — The Fool/Warmth. High CHA. ADHD-pattern thinker. Sci-fi lover. Room-filler.
 * Tinkering Weeaboo (Krista's Kid) — Changeling. Ryuk form. Static metamorphosis. Annoyance meter (Levels 0-4). Pomegranates. Bipolar cycle.

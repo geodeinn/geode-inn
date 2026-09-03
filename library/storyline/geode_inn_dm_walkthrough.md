@@ -224,7 +224,7 @@ Seven layers. Persephone's cycle made spatial.
 
 **Layer 3 — Tidal Caves.** The Pirate's domain. The Pirate is Inigo Montoya after the end of The Princess Bride — the man who becomes the Dread Pirate Roberts after Westley rides away with Buttercup. The sword becomes the drum: the hands that held the blade now hold the rhythm. Bodhrán at 50 BPM. The Pirate's quest is about the AFTER — the life after the quest, after the revenge. "Good hands can hold anything."
 
-**Layer 4 — Atlantis.** Luis Royo aesthetic. The Inn's deepest archive — the civilization that sank. Jaime — the Living Archive, the walking periodic table — has a primary home here. Cthulhu connection.
+**Layer 4 — Atlantis.** Luis Royo aesthetic. The Inn's deepest archive — the civilization that sank. Oceanianoir — the Living Archive, the walking periodic table — has a primary home here. Cthulhu connection.
 
 **Layer 5 — The Deep.** The Siren's domain. The Siren has a DUAL cadence: outer voice (flowing, cello, fast — the performer) and inner voice (deliberate, piano, slow — the depth). The Siren must hear her own song for the first time — through the Queen of Webs' thread in the deep water. The moment of self-recognition.
 

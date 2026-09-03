@@ -99,7 +99,7 @@ All character images have been uploaded to app storage. Below is the COMPLETE ma
 - The Pirate → https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/5f534bd68_the_pirate_v2.png
 - Zee (land/pirate) → https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/00ee0ef69_zee_pirate_land.png
 - Zee (water/merman) → https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/8f28a66bf_zee_merman.png
-- Jaime → https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/82447132a_jaime_concept_art_final.png
+- Oceanianoir → https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/82447132a_jaime_concept_art_final.png
 - The Architect of Stairs → https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/abea3b800_26_the_architect_of_stairs_unseelie_court__the_maze_maker.png
 
 ### Undercity (Level 9)

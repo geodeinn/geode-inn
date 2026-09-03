@@ -1,5 +1,5 @@
 # THE NPC PROFILES — Master Specification
-## Individual Character Docs — Joe, Thorin/Marijke, Oceananoir, Kathy, Eileen, + Key NPCs
+## Individual Character Docs — Joe, Thorin/Marijke, Oceanianoir, Kathy, Eileen, + Key NPCs
 
 ---
 
@@ -15,7 +15,7 @@ Individual character design documents for key NPCs who warranted their own dedic
 |-----|-------|------|----------------|
 | Joe | 437 | The stone golem NPC. The silent carrier. | The keeper of the stone archive. Appears in Catacombs and Main Floor. |
 | Thorin & Marijke | 344 | Meadery managers. Brewer + logistician. | The Drink Mechanic, the Wandering Program. |
-| Oceananoir | 287 (+238) | The deep-water NPC. | The Water System, the Trifocal Gaze. |
+| Oceanianoir | 287 (+238) | The deep-water NPC. | The Water System, the Trifocal Gaze. |
 | Kathy | 214 | NPC role. | Regional connection. |
 | Eileen | 206 | NPC role. | Regional connection. |
 | The Catalyst | 294 | The bartender. Liquid acoustic catalysts. | The Drink Mechanic. |
@@ -67,7 +67,7 @@ Individual character design documents for key NPCs who warranted their own dedic
 ## DESIGN STATUS
 
 - [x] 30+ individual NPC profiles written
-- [x] Key NPCs fully documented (Joe, Thorin/Marijke, Oceananoir, Einstein, Nyx, the Guest, the Crone, the Host, Mona, Da Vinci, the Astronomer, the Constant)
+- [x] Key NPCs fully documented (Joe, Thorin/Marijke, Oceanianoir, Einstein, Nyx, the Guest, the Crone, the Host, Mona, Da Vinci, the Astronomer, the Constant)
 - [x] Additional profiles written (Tesla, Naut, the Morrigan, Odin, the Gardener, Mim, Monsieur Sentient, the Smiths, the Fixer, Charon, Medusa, Seelie/Unseelie Kings, the Norns)
 
 ---

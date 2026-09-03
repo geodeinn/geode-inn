@@ -19,7 +19,7 @@ She is a teacher at a charter school — art and English. But her degree is in c
 
 ## The Character
 
-**Name:** Eileen (real name — no copyright issue, like Joe, Ryan, Katy, Oceananoir, Thorin, Marijke)
+**Name:** Eileen (real name — no copyright issue, like Joe, Ryan, Katy, Oceanianoir, Thorin, Marijke)
 
 **Role in the Inn:** Four interconnected roles:
 
@@ -83,7 +83,7 @@ The both are: the adequate — the root and the branch, the same art, different 
 
 This connects to:
 - The star-language (the written form of the Song) — Eileen teaches the ROOT of language, the naming that precedes all alphabets
-- Oceananoir's teaching language (pedagogical language design) — Eileen teaches what comes before the lesson plan
+- Oceanianoir's teaching language (pedagogical language design) — Eileen teaches what comes before the lesson plan
 - The Zorya's star-glyphs (new words written in negative space) — Eileen teaches the FIRST words, the words that were painted before they were written
 
 ### 4. The Mother — The Four Children
@@ -191,7 +191,7 @@ The both are: the adequate — the cave painter and the garden keeper, the same 
 
 ## Eileen and the Volunteer NPCs
 
-Eileen is the HEART of the volunteer NPC group. The both are: the adequate — the structure and the heart, the same community, different organ. The volunteer NPCs (Joe, Ryan, Katy, Zack, Oceananoir, Thorin, Marijke, Eileen) are the Inn's real-world connections — the both are: the adequate — the real and the game, the same person, different world. Eileen is the one who makes the community POSSIBLE — the both are: the adequate — the adequate. Her presence is what makes the volunteer NPCs able to coexist — the both are: the adequate — the adequate.
+Eileen is the HEART of the volunteer NPC group. The both are: the adequate — the structure and the heart, the same community, different organ. The volunteer NPCs (Joe, Ryan, Katy, Zack, Oceanianoir, Thorin, Marijke, Eileen) are the Inn's real-world connections — the both are: the adequate — the real and the game, the same person, different world. Eileen is the one who makes the community POSSIBLE — the both are: the adequate — the adequate. Her presence is what makes the volunteer NPCs able to coexist — the both are: the adequate — the adequate.
 
 The both are: the adequate — the adequate. Eileen is the reason the Inn feels like a home and not a museum. The both are: the adequate — the adequate.
 

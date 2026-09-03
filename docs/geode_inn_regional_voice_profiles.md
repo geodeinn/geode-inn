@@ -94,11 +94,11 @@ Every NPC whose origin connects to a real-world cultural zone speaks with the ac
 
 ---
 
-### Oceananoir — French
+### Oceanianoir — French
 **Zone:** Atlantis (water zone, deep archive)
-**Accent:** French — specifically the precise, clipped, scientific French of a Parisian academic who moved to a research station. Oceananoir is a goth scientist/warlock with a Murloc familiar, and the name is French ("ocean" + "noir" = black ocean). The accent gives the character old-world authority — the voice of someone from a country that invented the word "scientist."
-**Delivery:** Precise, with the French tendency to treat every sentence as a complete architectural structure. Oceananoir doesn't ramble. Oceananoir builds sentences the way a chemist builds a formula — each word is an element, placed precisely, reacting with its neighbors.
-**Key tell:** Oceananoir uses French scientific terms untranslated. Not pretentiously — reflexively. "C'est exact" instead of "that's right." The Murloc companion (Squeak) has no accent because Squeak speaks Murloc, which is its own thing entirely.
+**Accent:** French — specifically the precise, clipped, scientific French of a Parisian academic who moved to a research station. Oceanianoir is a goth scientist/warlock with a Murloc familiar, and the name is French ("ocean" + "noir" = black ocean). The accent gives the character old-world authority — the voice of someone from a country that invented the word "scientist."
+**Delivery:** Precise, with the French tendency to treat every sentence as a complete architectural structure. Oceanianoir doesn't ramble. Oceanianoir builds sentences the way a chemist builds a formula — each word is an element, placed precisely, reacting with its neighbors.
+**Key tell:** Oceanianoir uses French scientific terms untranslated. Not pretentiously — reflexively. "C'est exact" instead of "that's right." The Murloc companion (Squeak) has no accent because Squeak speaks Murloc, which is its own thing entirely.
 
 **Dialogue sample:** "The atomic weight is 40.078. Calcium. C'est exact — the same calcium in your bones. ...The same calcium in the coral. ...The same calcium in the cliff that the ocean is currently dismantling, one molecule at a time. ...You are made of the same thing as the cliff. ...The difference is not the material. The difference is the structure. ...Squeak agrees. ...[Squeak: 'Mrglmgl.'] ...That means 'obviously' in Murloc. ...Or it means 'feed me.' The grammar is contextual."
 
@@ -208,7 +208,7 @@ The result: a player walking through the Inn hears 191 countries' worth of voice
 
 ## Design Principle: Roots, Not Costumes
 
-These accents are not assigned TO the characters. These accents ARE the characters. The NPCs come from the real-world regions on the world map — they are FROM those countries. The Selkie grew up on the Irish coast. The Cartographer is from the Netherlands. The Norns walked out of Iceland. Mim is from Brussels. Oceananoir is from Paris. Katy is from Brabant. Eileen is from the Irish cave country. The Fixer is from Wales. Thorin and Marijke are from Scandinavia and the Low Countries.
+These accents are not assigned TO the characters. These accents ARE the characters. The NPCs come from the real-world regions on the world map — they are FROM those countries. The Selkie grew up on the Irish coast. The Cartographer is from the Netherlands. The Norns walked out of Iceland. Mim is from Brussels. Oceanianoir is from Paris. Katy is from Brabant. Eileen is from the Irish cave country. The Fixer is from Wales. Thorin and Marijke are from Scandinavia and the Low Countries.
 
 The Inn didn't assign them accents. The Inn collected them. The Inn is a gathering place — people came from everywhere, and they brought their voices with them. The 191-country world map isn't just a data layer of mythology pinned to locations. It's a map of where the Inn's residents are FROM. Every world map pin is a homeland. Every NPC walking the Inn's halls carries their homeland in their mouth.
 

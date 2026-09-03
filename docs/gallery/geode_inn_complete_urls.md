@@ -111,7 +111,7 @@
 | The Siren | https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/07ccdc821_the_siren.png |
 | The Brownies | https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/54c77a0c2_the_brownies.png |
 | Charles Chameleon Druid | https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/44c5e1ea0_charles_chameleon_druid.png |
-| Bog Fairy Golem (Krista) | https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/1de591dd1_bog_fairy_golem_ingame.png |
+| Bog Fairy Golem (Vaulknut) | https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/1de591dd1_bog_fairy_golem_ingame.png |
 | The Shifting Man | https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/046befa78_the_shifting_man.png |
 | The Thrum (Whisper Layer) | https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/7a8fb4106_the_thrum.png |
 | The Pulse Line (UI) | https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/a04cae78e_the_pulse_line.png |

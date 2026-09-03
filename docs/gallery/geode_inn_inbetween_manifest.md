@@ -60,7 +60,7 @@ The In-Between state is the transitional frequency — half-living (42Hz) and ha
 | 48 | The Firekeeper | Main Floor/Hearth | https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/a8e8b6945_generated_image.png |
 | 49 | The Gardener (Radagast) | Garden | https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/865d845f0_generated_image.png |
 | 50 | The Retort (Tesla) | Staircase | https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/1f886d4af_generated_image.png |
-| 51 | Oceananoir | Water Zone | https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/973f80e4a_generated_image.png |
+| 51 | Oceanianoir | Water Zone | https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/973f80e4a_generated_image.png |
 | 52 | Zorya (Slavic dusk) | Slavic | https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/a85d2e136_generated_image.png |
 | 53 | The Seelie King | Seelie Court | https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/e71ca4603_generated_image.png |
 | 54 | The Seelie Queen | Seelie Court | https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/c7e6659ba_generated_image.png |

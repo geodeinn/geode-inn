@@ -195,7 +195,7 @@ Clockwork Skies crew has inconsistent naming:
 - `tinkering_weeaboo.png` → is this one of the crew?
 
 ### D. Real People vs Characters
-- `jaime_concept_art*.png` (3 files) → Jaime is a real person? Which character?
+- `jaime_concept_art*.png` (3 files) → Oceanianoir is a real person? Which character?
 - `katy.png` / `kathy_druid_dryad_ingame.png` → same person? Different characters?
 - `ryan.png` → real person? Which character?
 - `mason.png` → real person? Which character?

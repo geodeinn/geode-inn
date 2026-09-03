@@ -13,7 +13,7 @@ The comprehensive audit of all cultural zones in the Geode Inn, covering: Atlant
 
 | Zone | Key Feature | Artist Style | Key NPCs |
 |------|-------------|--------------|---------|
-| Atlantis | Chosen deep transformation. Stargate caves. | Gothic anime (water) | Oceananoir |
+| Atlantis | Chosen deep transformation. Stargate caves. | Gothic anime (water) | Oceanianoir |
 | Cave City | Underground civilization. | Klimt (underground) | Cave dwellers |
 | Desert Bone | Form Sight source. 7-quest chain. | Georgia O'Keeffe | The Examiner |
 | Peruvian Zone | Giant's dream. Guo Xi ink-wash. | Guo Xi | Peruvian NPCs |

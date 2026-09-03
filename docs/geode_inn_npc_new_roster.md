@@ -11,25 +11,25 @@ This document adds all remaining NPCs and creatures to the Geode Inn. Every frie
 ---
 
 ## Will — The Bonded Alchemist
-### Married to Oceananoir (the living chemical equation)
+### Married to Oceanianoir (the living chemical equation)
 
 **Real name:** Will. Volunteer NPC, following the Inn's pattern.
 
-**The person:** Will is married to Oceananoir — the periodic-table-tattooed scientist, Mensa puzzle designer, goth atheist, burlesque performer, reptile enthusiast. If Oceananoir is the living chemical equation, Will is the person who balances it. Not by being the opposite — by being the steady variable in an equation that's always in motion.
+**The person:** Will is married to Oceanianoir — the periodic-table-tattooed scientist, Mensa puzzle designer, goth atheist, burlesque performer, reptile enthusiast. If Oceanianoir is the living chemical equation, Will is the person who balances it. Not by being the opposite — by being the steady variable in an equation that's always in motion.
 
 **In the Inn:** Will is an alchemist. Not the Miracle Max kind (theatrical, shopkeeping) — the quiet kind. The kind who sits in the staircase lab late at night, running the same reaction for the fiftieth time, because the forty-ninth time produced something unexpected and the fiftieth time might explain it. Will is the methodical alchemist — the one who documents everything, who believes that if the Song of Making can be understood, it will be understood through careful repetition, not grand inspiration.
 
-**Appearance:** Unassuming. The kind of person you don't notice in a room until they've already figured out what everyone is doing. Average build, practical clothing, ink-stained fingers (not tattoo-stained like Oceananoir — just ink, just notes, just the residue of someone who writes everything down). Deep brown eyes that track movement the way a scientist tracks variables. When Will is thinking, the left hand traces equations on the nearest surface — table, wall, thigh. Always the left hand. Oceananoir has tried to get Will to switch hands. Will doesn't.
+**Appearance:** Unassuming. The kind of person you don't notice in a room until they've already figured out what everyone is doing. Average build, practical clothing, ink-stained fingers (not tattoo-stained like Oceanianoir — just ink, just notes, just the residue of someone who writes everything down). Deep brown eyes that track movement the way a scientist tracks variables. When Will is thinking, the left hand traces equations on the nearest surface — table, wall, thigh. Always the left hand. Oceanianoir has tried to get Will to switch hands. Will doesn't.
 
-**Personality:** Calm. Grounded. The still point around which Oceananoir's intensity orbits. Will doesn't share Oceananoir's goth aesthetic or performance energy — Will shares the precision. The two of them communicate in a shorthand that nobody else follows — half chemistry, half inside jokes, entirely their own language. Will is the only person who can make Oceananoir stop squeaking (the Murloc nervous squeak) by simply being present. Oceananoir's anxiety has a circuit breaker. It's Will.
+**Personality:** Calm. Grounded. The still point around which Oceanianoir's intensity orbits. Will doesn't share Oceanianoir's goth aesthetic or performance energy — Will shares the precision. The two of them communicate in a shorthand that nobody else follows — half chemistry, half inside jokes, entirely their own language. Will is the only person who can make Oceanianoir stop squeaking (the Murloc nervous squeak) by simply being present. Oceanianoir's anxiety has a circuit breaker. It's Will.
 
 **Accent:** Neutral American. The kind of neutral that comes from having lived everywhere and nowhere specific. The accent of someone who learned to be understood by everyone rather than belonging to one place.
 
 **Role in the Inn:** Will runs the staircase lab's night shift. While Max runs the shop by day (theatrical, selling, performing), Will runs the research by night (methodical, documenting, repeating). The staircase's alchemical texts have annotations in two handwritings — Max's (flowery, dramatic, in the margins) and Will's (precise, small, in the footnotes). The Crone has noticed that Will's footnotes are more useful than Max's margins. She has not told Max.
 
-**Connection to Oceananoir:** The living chemical equation and the person who balances it. The both are: the adequate — the volatile and the stable, the same reaction, different role. Will doesn't have Oceananoir's tattoos or performance energy. Will has patience. In alchemy, patience is a reagent.
+**Connection to Oceanianoir:** The living chemical equation and the person who balances it. The both are: the adequate — the volatile and the stable, the same reaction, different role. Will doesn't have Oceanianoir's tattoos or performance energy. Will has patience. In alchemy, patience is a reagent.
 
-**Connection to the Periodic Table Charms:** Oceananoir's tattoos are the charm catalog. Will is the one who tests them — who takes a charm from Oceananoir's skin and verifies its frequency, its stability, its resonance. Will is the charm system's quality assurance. A charm that hasn't been Will-tested isn't ready. Oceananoir accepts this. The both are: the adequate — the creation and the verification, the same charm, different stage.
+**Connection to the Periodic Table Charms:** Oceanianoir's tattoos are the charm catalog. Will is the one who tests them — who takes a charm from Oceanianoir's skin and verifies its frequency, its stability, its resonance. Will is the charm system's quality assurance. A charm that hasn't been Will-tested isn't ready. Oceanianoir accepts this. The both are: the adequate — the creation and the verification, the same charm, different stage.
 
 ---
 
@@ -57,7 +57,7 @@ This document adds all remaining NPCs and creatures to the Geode Inn. Every frie
 
 **Connections:**
 - **Joe (the Miniaturist):** Joe paints the chess pieces. Evan plays them. The both are: the adequate — the painter and the player, the same game, different role.
-- **Oceananoir (the puzzle designer):** Oceananoir designs puzzles for Mensa. Evan solves puzzles for fun. The both are: the adequate — the puzzle and the solver, the same challenge, different side.
+- **Oceanianoir (the puzzle designer):** Oceanianoir designs puzzles for Mensa. Evan solves puzzles for fun. The both are: the adequate — the puzzle and the solver, the same challenge, different side.
 - **Kathy (the druid):** The chess board is made of living wood — Kathy grew it. The pieces grow into new configurations between games. Evan and Kathy have a friendly disagreement about whether the board should be allowed to "evolve" (Kathy's position) or whether it should stay the same until the game is finished (Evan's position). The board does what it wants.
 - **The Camelot/Celtic Zone:** The chess board is the Round Table's other face — the table as a game, not just an instrument. The knights ARE chess pieces. Arthur IS the king. The quest IS the game. Evan figured this out. Kathy confirmed it. Neither of them has told the other knights.
 
@@ -143,7 +143,7 @@ The studio contains:
 
 **Personality:** TBD from write-up. Placeholder: the game tester's instinct — methodical, thorough, skeptical of "it works fine" claims, delighted by edge cases. The kind of person who says "what happens if I do this" and everyone else says "don't" and they do it anyway and something breaks and they say "see, that's a bug" with satisfaction.
 
-**Role in the Inn:** Marion is the Inn's stress tester — the NPC who tests every game, every puzzle, every mechanic before it goes live. The character who finds the exploits, the loopholes, the "actually, if you combine this charm with this frequency while standing on this tile..." combos. Marion is the reason the Inn's games are balanced. Marion is also the reason Joe and Oceananoir have jobs — Joe builds, Oceananoir puzzles, Marion breaks, and then the cycle repeats.
+**Role in the Inn:** Marion is the Inn's stress tester — the NPC who tests every game, every puzzle, every mechanic before it goes live. The character who finds the exploits, the loopholes, the "actually, if you combine this charm with this frequency while standing on this tile..." combos. Marion is the reason the Inn's games are balanced. Marion is also the reason Joe and Oceanianoir have jobs — Joe builds, Oceanianoir puzzles, Marion breaks, and then the cycle repeats.
 
 **Connection to Zack:** Zack is the playthrough Astronomer — the person who plays games systematically and comprehensively. Marion is the person who plays games destructively and creatively. The both are: the adequate — the thorough and the destructive, the same testing, different approach. Zack wants to complete everything. Marion wants to break everything. Together, they are the Inn's QA department.
 
@@ -306,9 +306,9 @@ Bearded dragons that are too big for a bearded dragon but keep the clever, laid-
 
 **Behavior:** They bask. On warm stones, on copper pipes (Joe's Undercity pipework has a bearded dragon on every third pipe), on the Ent's exposed roots. They are the Undercity's ambient warmth — the living heating system. They are completely docile. They can be picked up. They will sit on your lap. They will fall asleep. They are the Inn's most accessible reptile — the gateway lizard.
 
-**Connection to Joe:** Joe adores reptiles (Oceananoir does too — the both are: the adequate). The bearded dragons in Joe's studio are his breaks — when the painting is too precise and the curse is too heavy, Joe puts down the brush and holds a bearded dragon. The both are: the adequate — the vampire and the lizard, the same warmth, different metabolism.
+**Connection to Joe:** Joe adores reptiles (Oceanianoir does too — the both are: the adequate). The bearded dragons in Joe's studio are his breaks — when the painting is too precise and the curse is too heavy, Joe puts down the brush and holds a bearded dragon. The both are: the adequate — the vampire and the lizard, the same warmth, different metabolism.
 
-**Connection to Oceananoir:** Oceananoir's real-world love of reptiles is expressed in the Inn through the bearded dragons. They are the Inn's tribute to Oceananoir's passion — the reptiles that are sweet enough for anyone to love, even people who are afraid of scales.
+**Connection to Oceanianoir:** Oceanianoir's real-world love of reptiles is expressed in the Inn through the bearded dragons. They are the Inn's tribute to Oceanianoir's passion — the reptiles that are sweet enough for anyone to love, even people who are afraid of scales.
 
 ---
 
@@ -433,7 +433,7 @@ A dozen customizable character slots that can be personalized for friends of the
 
 | Character | Type | Zone/Role |
 |---|---|---|
-| Will | Named NPC | Staircase — Alchemist (Oceananoir's partner) |
+| Will | Named NPC | Staircase — Alchemist (Oceanianoir's partner) |
 | Evan | Named NPC (storyline) | Camelot zone — Chess Wizard (Dresden Files) |
 | Rachel Kaiser | Named NPC | Spiral Gallery — Artist-in-Residence |
 | Stephanie | Named NPC | Main Floor/wherever River is — Talking Black Cat |

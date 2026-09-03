@@ -87,7 +87,7 @@ This is the coinciding master list — every character, creature, and artifact c
 | 64 | Merlin & Archimedes | Wizard + owl familiar | merlin_archimedes.png | ✅ npc_remaining |
 | 65 | Thorin | Dwarf craftsman | thorin_v3.png | ✅ npc_remaining |
 | 66 | Uhtred | Saxon warrior | uhtred_v2.png | ✅ npc_remaining |
-| 67 | Jaime | Knight concept | jaime_concept_art_final.png | ✅ npc_remaining |
+| 67 | Oceanianoir | Knight concept | jaime_concept_art_final.png | ✅ npc_remaining |
 
 ## 1G. Cultural Zone Characters
 | # | Character | Role | Image | Status |
@@ -118,7 +118,7 @@ This is the coinciding master list — every character, creature, and artifact c
 ## 1I. The Triad (Real People as In-Game Characters)
 | # | Character | Role | Image | Status |
 |---|-----------|------|-------|--------|
-| 86 | Bog Fairy Golem (Krista) | Bayou keeper, maker's avatar | bog_fairy_golem_ingame.png | ✅ Uploaded |
+| 86 | Bog Fairy Golem (Vaulknut) | Bayou keeper, maker's avatar | bog_fairy_golem_ingame.png | ✅ Uploaded |
 | 87 | Lozen (River) | Sentinel, former boxer, 10-part questline | river_sentinel_ingame.png | ✅ npc_remaining |
 | 88 | Charles Chameleon Druid | Shapeshifter, garden dweller | charles_chameleon_druid.png | ✅ Uploaded |
 

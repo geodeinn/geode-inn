@@ -709,7 +709,7 @@ static func get_profile(character_id: String) -> Dictionary:
 			"special": {"talks_to_plants": true, "brabant_warmth": true}
 		},
 		
-		"oceananoir": {
+		"oceanianoir": {
 			"pitch_hz": 120.0,
 			"pitch_end_hz": 120.0,
 			"reveal_speed_ms": 40,
@@ -1029,7 +1029,7 @@ static func get_profile(character_id: String) -> Dictionary:
 			"gesture_type": "slow_deliberate",
 			"idle_animation": "standing_at_depth",
 			"light_source": "atlantis_deep_blue",
-			"special": {"shaped_by_pressure": true, "oceananoir_partner": true}
+			"special": {"shaped_by_pressure": true, "oceanianoir_partner": true}
 		},
 		
 		"eres": {
@@ -1388,7 +1388,7 @@ static func get_all_character_ids() -> Array:
 		"thorin_scholar",
 		"marijke",
 		"katy",
-		"oceananoir",
+		"oceanianoir",
 		"eileen",
 		"fixer",
 		"reader",

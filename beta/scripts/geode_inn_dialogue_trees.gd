@@ -947,11 +947,11 @@ static func get_dialogue_trees() -> Dictionary:
 	},
 
 	# === OCEANANOIR — Water zone ===
-	"oceananoir_001": {
-		"npcName": "Oceananoir",
+	"oceanianoir_001": {
+		"npcName": "Oceanianoir",
 		"zone": "Atlantis",
 		"hookWord": "depth",
-		"voiceProfile": "oceananoir",
+		"voiceProfile": "oceanianoir",
 		"questLink": "",
 		"conditionTag": "",
 		"priority": 1,
@@ -964,52 +964,52 @@ static func get_dialogue_trees() -> Dictionary:
 			"Will is my partner. You'll find Will deeper down, where the light gives up and the story [i]begins[/i]."
 		],
 		"responses": [
-			{"text": "What story does the water tell?", "next": "oceananoir_002"},
-			{"text": "I'll find Will.", "next": "oceananoir_003"},
-			{"text": "I should surface.", "next": "oceananoir_004"}
+			{"text": "What story does the water tell?", "next": "oceanianoir_002"},
+			{"text": "I'll find Will.", "next": "oceanianoir_003"},
+			{"text": "I should surface.", "next": "oceanianoir_004"}
 		],
-		"setFlags": ["met_oceananoir"]
+		"setFlags": ["met_oceanianoir"]
 	},
-	"oceananoir_002": {
-		"npcName": "Oceananoir",
+	"oceanianoir_002": {
+		"npcName": "Oceanianoir",
 		"zone": "Atlantis",
 		"hookWord": "depth",
-		"voiceProfile": "oceananoir",
+		"voiceProfile": "oceanianoir",
 		"lines": [
 			"The oldest story: something was lost here. The water does not remember what. It remembers the [i]shape[/i] of the loss — wide, heavy, warm.",
 			"The creatures here are the loss, [i]expressed[/i]. The anglerfish carries its own light because the loss was about [i]light[/i]. The jellyfish is transparent because the loss was about [i]being seen[/i].",
 			"The 42Hz Song is slower down here. It moves through water at 1,500 meters per second — four times faster than air. The Song [i]reaches[/i] the deep before it reaches the surface."
 		],
 		"responses": [
-			{"text": "I'll find Will.", "next": "oceananoir_003"},
-			{"text": "I should surface.", "next": "oceananoir_004"}
+			{"text": "I'll find Will.", "next": "oceanianoir_003"},
+			{"text": "I should surface.", "next": "oceanianoir_004"}
 		],
 		"setFlags": ["learned_water_narrative"]
 	},
-	"oceananoir_003": {
-		"npcName": "Oceananoir",
+	"oceanianoir_003": {
+		"npcName": "Oceanianoir",
 		"zone": "Atlantis",
 		"hookWord": "depth",
-		"voiceProfile": "oceananoir",
+		"voiceProfile": "oceanianoir",
 		"lines": [
 			"Good. Will is in the deep section — past the reef, through the ruins, where the water goes from blue to black.",
 			"Tell Will the anglerfish found something new in the silt. A stone that hums at 42Hz. Will will know what it means.",
-			"[i]Oceananoir fades into shadow. A single bioluminescent trail lights the path down.[/i]"
+			"[i]Oceanianoir fades into shadow. A single bioluminescent trail lights the path down.[/i]"
 		],
 		"responses": [],
-		"setFlags": ["met_oceananoir", "will_quest_unlocked"]
+		"setFlags": ["met_oceanianoir", "will_quest_unlocked"]
 	},
-	"oceananoir_004": {
-		"npcName": "Oceananoir",
+	"oceanianoir_004": {
+		"npcName": "Oceanianoir",
 		"zone": "Atlantis",
 		"hookWord": "depth",
-		"voiceProfile": "oceananoir",
+		"voiceProfile": "oceanianoir",
 		"lines": [
 			"Surface. The air will feel thin after the water. That is normal. The water is [i]thicker[/i] with story.",
 			"Come back when you want the other kind of depth. The kind that requires holding your breath."
 		],
 		"responses": [],
-		"setFlags": ["met_oceananoir", "atlantis_visited"]
+		"setFlags": ["met_oceanianoir", "atlantis_visited"]
 	},
 
 	# === MARIJKE — Valkyrie (prototype visual reference) ===

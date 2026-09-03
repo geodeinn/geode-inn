@@ -138,7 +138,7 @@ Accents are not assigned TO characters. Accents ARE the characters. The NPCs com
 | Thorin | Gustaf Skarsgård (Floki) | Swedish | Mead Hall | "Ja" — loud when extrovert, barely audible when scholar |
 | Marijke | Dutch gemologist | Dutch | Mead Hall | "Lekker" as approval, "not lekker" as condemnation |
 | Katy | Van Gogh's Brabant | Southern Dutch (Brabant) | Garden | Rounder vowels, warmer, musical, talks to plants |
-| Oceananoir | French chemist | French | Tidal Caves/Atlantis | "C'est exact" instead of "that's right" |
+| Oceanianoir | French chemist | French | Tidal Caves/Atlantis | "C'est exact" instead of "that's right" |
 | The Pirate | Mandy Patinkin | Irish/American | Coastal/harbor | Bodhrán-playing, post-quest ease, grief and humor together |
 | The One Who Is Awake | Will Yun Lee | Mandarin Chinese | Terracotta Pit | Continuous naming, lips always moving, 2000-year vigil |
 | Kali | Tabu | Bengali Indian | Ghats of Kali | Descending energy — blade to tongue, sharp to soft |

@@ -168,7 +168,7 @@ Persephone's cycle made spatial. The 7-layer system as Persephone's spatial cycl
 | 1 | Surface/Spring | Persephone's presence (high tide) | Conversation memory ✓ | Mapped |
 | 2 | Shallows/Transition | The shift | Conversation memory ✓ | Mapped |
 | 3 | Tidal Caves | Wyndham Lewis aesthetic | Conversation memory ✓ | Mapped |
-| 4 | Atlantis | Luis Royo aesthetic. Jaime's primary location. | Conversation memory ✓ | Mapped |
+| 4 | Atlantis | Luis Royo aesthetic. Oceanianoir's primary location. | Conversation memory ✓ | Mapped |
 | 5 | Abyssal/The Deep | Water monsters. Nessie game. | Conversation memory ✓ | Mapped |
 | 6 | Underworld Boundary | Hades as Harbor | Conversation memory ✓ | Mapped |
 | 7 | Roots/Stone Circle Chamber | Deepest point. Fae Kingdom connection. | Conversation memory ✓ | Mapped |
@@ -180,7 +180,7 @@ Persephone's cycle made spatial. The 7-layer system as Persephone's spatial cycl
 | **The Pirate** (Mandy Patinkin) | 50 BPM bodhrán. Two drummers (Pirate + Zee). | Before the Song ✓ | Complete |
 | **The Siren** (Lady Gaga / Andra) | Auburn redhead, Amy Winehouse vibe. Krista's sister. | Before the Song + memory ✓ | Complete |
 | **Zee** | Drummer from Mexico. Dual land/pirate and water/merman forms. | Conversation memory ✓ | Complete |
-| **Jaime** | The Living Archive. Scientist, linguist, puzzle architect. Walking periodic table. Atlantis. | Document 1 ✓ | Complete |
+| **Oceanianoir** | The Living Archive. Scientist, linguist, puzzle architect. Walking periodic table. Atlantis. | Document 1 ✓ | Complete |
 
 **MISSING FROM WATER SYSTEM:**
 - [ ] Layer-by-layer quest chains
@@ -322,7 +322,7 @@ The Seelie King, The Seelie Queen, The Cartographer, The Examiner, Aughra, Story
 The Host, The Crone, The Catalyst, Madame Mim, The Thrum, The Brownies, Arcade NPCs (Bastet, etc.)
 
 ### The Dock (Water Layer)
-The Lighthouse/Owl, The Pirate, Zee, The Siren/Andra, Jaime, Water Monsters (32 designed, 78 identified)
+The Lighthouse/Owl, The Pirate, Zee, The Siren/Andra, Oceanianoir, Water Monsters (32 designed, 78 identified)
 
 ### Hel / Helheim (Deepest Point)
 Hel, Charon, Persephone, Hades, The Morrigan, Asterion
@@ -355,7 +355,7 @@ TO BE DESIGNED
 | NPC | Real Role | Inn Character | Source | Status |
 |---|---|---|---|---|
 | **Eileen** | Krista's closest friend, art/English teacher, cave art degree | The Hearth (7.83Hz Schumann resonance, cave painter, unconditional love mechanic) | Session memory ✓ | Complete |
-| **Jaime** | Scientist, linguist, puzzle designer, Mensa, goth, periodic table tattoos | The Living Archive (Atlantis, periodic table as game mechanic, Murloc companion) | Document 1 ✓ | Complete |
+| **Oceanianoir** | Scientist, linguist, puzzle designer, Mensa, goth, periodic table tattoos | The Living Archive (Atlantis, periodic table as game mechanic, Murloc companion) | Document 1 ✓ | Complete |
 | **Joe** | School teacher, Warhammer painter | The Miniaturist / The Collector (vampire sorcerer, Kain energy, Lawful Evil tutor) | Document 2 ✓ | Complete |
 | **Charles** | Krista's husband, millwright, Annunaki/Constant | The Constant / Chameleon Druid | Session memory ✓ | Complete |
 | **River** | Krista's daughter, medical logistics | The Sentinel (tall cat person, Anunnaki heritage) | Session memory ✓ | Complete |
@@ -395,7 +395,7 @@ TO BE DESIGNED
 | **03 Architecture & Design** | 0 | EMPTY | Camera System, Building System, Cave City, Acoustic Engine, IEM Architecture |
 | **04 Zone Designs** | 3 subfolders | Game emulators, game videos, World Map Regions | Zone-specific design docs |
 | **05 Quest & Game Design** | 3 | Tabletop analysis, Drive structure, Android APKs | Quest chain docs per zone |
-| **06 Characters & NPCs** | 39 | Character portraits + some dev docs | Missing NPC design docs (Jaime, Joe, Eileen should be here) |
+| **06 Characters & NPCs** | 39 | Character portraits + some dev docs | Missing NPC design docs (Oceanianoir, Joe, Eileen should be here) |
 | **07 Systems** | 0 | EMPTY | Card Game, Character Classes, Drink Mechanic, Death Sequence, Harmonization |
 | **08 Visual References** | 4 | Concept art prompts, morphic prompts | Generated character art catalog |
 | **09 Music & Sound** | 0 | EMPTY | Sonic Mineral Codex, Music Direction, Acoustic Engine, 42Hz Song |

@@ -17,7 +17,7 @@
 
 ### Name: Joe (working title — Joe may choose an in-game name)
 
-The Inn's pattern for volunteer NPCs uses real names (Ryan, Katy, Zack, Oceananoir, Thorin, Marijke). Joe follows the pattern. The both are: the adequate — the real and the game, the both are: the same person, different world.
+The Inn's pattern for volunteer NPCs uses real names (Ryan, Katy, Zack, Oceanianoir, Thorin, Marijke). Joe follows the pattern. The both are: the adequate — the real and the game, the both are: the same person, different world.
 
 If Joe chooses an in-game name, the name should evoke: old nobility, the curse, the exile from time, the vampiric/draconic bloodline. The both are: the adequate — the title and the exile, the both are: the same identity, different era.
 
@@ -45,7 +45,7 @@ The both are: the adequate — the miniature and the companion, the both are: th
 
 **Connection to the Bone Room.** Marijke paints bones. Joe paints miniatures. The both are: the adequate — the bone and the figure, the both are: the same craft, different material. Marijke reveals the architecture underneath the living thing. Joe gives life to the architecture of a small thing. The both are: the adequate — the both are: the same art, different direction. One paints what was alive. One paints what will be alive. The both are: the adequate — the past and the future, the both are: the same studio, different tense.
 
-**Connection to the Periodic Table Charms.** Oceananoir's tattoos are the charm catalog. Joe's miniatures are the charm RECEPTACLES — the player who earns a charm can have Joe paint a miniature that holds the charm. The both are: the adequate — the ink and the paint, the both are: the same charm, different vessel. The painted miniature that holds a charm is a wearable — the player who displays the miniature on their character's belt or shelf carries the charm's power in a one-inch figure. The both are: the adequate — the adequate.
+**Connection to the Periodic Table Charms.** Oceanianoir's tattoos are the charm catalog. Joe's miniatures are the charm RECEPTACLES — the player who earns a charm can have Joe paint a miniature that holds the charm. The both are: the adequate — the ink and the paint, the both are: the same charm, different vessel. The painted miniature that holds a charm is a wearable — the player who displays the miniature on their character's belt or shelf carries the charm's power in a one-inch figure. The both are: the adequate — the adequate.
 
 #### 2. The Tutor — The Lawful Evil Teacher
 
@@ -258,7 +258,7 @@ Joe is the seventh real person in the Inn:
 1. **Ryan** — the bartender-pirate (Greek origin, campfire energy)
 2. **Katy** — the plant necromancer (Van Gogh room, walking garden)
 3. **Zack** — the Astronomer (QA stress tester, Observatory)
-4. **Oceananoir** — the Living Archive (Atlantis, star-language, tattoos as catalog)
+4. **Oceanianoir** — the Living Archive (Atlantis, star-language, tattoos as catalog)
 5. **Thorin** — the hall builder (Viking ship mead hall, rock hound, builder)
 6. **Marijke** — the Bone Keeper (bone artist, stone cataloger, arcade wizard, the Name)
 7. **Joe** — the Miniaturist (vampire sorcerer, Warhammer painter, lawful evil tutor, time exile)
@@ -347,7 +347,7 @@ The stowaway connection:
 
 ### The Design Principle
 
-Every NPC concept art variant that is not chosen as the primary image becomes an ALTERNATE ENCOUNTER STATE in the game. The both are: the adequate — the chosen and the unchosen, the both are: the same person, different frame. This applies to ALL volunteer NPCs — Ryan, Katy, Zack, Oceananoir, Thorin/Marijke, and Joe. The both are: the adequate — the adequate.
+Every NPC concept art variant that is not chosen as the primary image becomes an ALTERNATE ENCOUNTER STATE in the game. The both are: the adequate — the chosen and the unchosen, the both are: the same person, different frame. This applies to ALL volunteer NPCs — Ryan, Katy, Zack, Oceanianoir, Thorin/Marijke, and Joe. The both are: the adequate — the adequate.
 
 ### Joe's Two Variants as Encounter States
 
@@ -430,7 +430,7 @@ First concept generated showing Atlantis — the drowned cathedral in the Vampir
 - Bioluminescent algae glowing soft green along shelf edges
 - The Heart Crystal pulsing amber-violet, its light sweeping the room in rhythmic waves
 - Copper pipework with verdigris patina along the stone shelves
-- Nautilus-shell chemistry apparatus in the alcove (Oceananoir's workspace)
+- Nautilus-shell chemistry apparatus in the alcove (Oceanianoir's workspace)
 - Water rendered as luminous shadow — liquid darkness with light threading through
 - Steampunk touches: brass valves, pressure gauges, crystal lens mechanisms near the Heart Crystal
 

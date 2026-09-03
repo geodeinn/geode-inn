@@ -923,23 +923,23 @@
     "hookWord": "thread"
   },
   {
-    "dialogueId": "oceananoir_001",
+    "dialogueId": "oceanianoir_001",
     "lines": [],
     "responses": [],
     "setFlags": [
-      "met_oceananoir"
+      "met_oceanianoir"
     ],
     "questLink": "",
     "conditionTag": "",
     "priority": 1,
     "isWhisperLayer": false,
-    "voiceProfile": "oceananoir",
-    "npcName": "Oceananoir",
+    "voiceProfile": "oceanianoir",
+    "npcName": "Oceanianoir",
     "zone": "Atlantis",
     "hookWord": "depth"
   },
   {
-    "dialogueId": "oceananoir_002",
+    "dialogueId": "oceanianoir_002",
     "lines": [],
     "responses": [],
     "setFlags": [
@@ -949,45 +949,45 @@
     "conditionTag": "",
     "priority": 1,
     "isWhisperLayer": false,
-    "voiceProfile": "oceananoir",
-    "npcName": "Oceananoir",
+    "voiceProfile": "oceanianoir",
+    "npcName": "Oceanianoir",
     "zone": "Atlantis",
     "hookWord": "depth"
   },
   {
-    "dialogueId": "oceananoir_003",
+    "dialogueId": "oceanianoir_003",
     "lines": [
       "Good. Will is in the deep section \u2014 past the reef, through the ruins, where the water goes from blue to black.",
       "Tell Will the anglerfish found something new in the silt. A stone that hums at 42Hz. Will will know what it means."
     ],
     "responses": [],
     "setFlags": [
-      "met_oceananoir",
+      "met_oceanianoir",
       "will_quest_unlocked"
     ],
     "questLink": "",
     "conditionTag": "",
     "priority": 1,
     "isWhisperLayer": false,
-    "voiceProfile": "oceananoir",
-    "npcName": "Oceananoir",
+    "voiceProfile": "oceanianoir",
+    "npcName": "Oceanianoir",
     "zone": "Atlantis",
     "hookWord": "depth"
   },
   {
-    "dialogueId": "oceananoir_004",
+    "dialogueId": "oceanianoir_004",
     "lines": [],
     "responses": [],
     "setFlags": [
-      "met_oceananoir",
+      "met_oceanianoir",
       "atlantis_visited"
     ],
     "questLink": "",
     "conditionTag": "",
     "priority": 1,
     "isWhisperLayer": false,
-    "voiceProfile": "oceananoir",
-    "npcName": "Oceananoir",
+    "voiceProfile": "oceanianoir",
+    "npcName": "Oceanianoir",
     "zone": "Atlantis",
     "hookWord": "depth"
   },

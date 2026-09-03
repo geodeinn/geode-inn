@@ -73,12 +73,15 @@ var active_hazards: Array = []
 var active_particles: Array = []
 
 # Nodes
-@onready var player_sprite: Sprite2D
-@onready var background: Sprite2D
-@onready var parallax_bg: ParallaxBackground
-@onready var score_label: Label
-@onready var lives_label: Label
-@onready var zone_label: Label
+@onready var player_sprite: Sprite2D = $PlayerSprite
+@onready var background: Sprite2D = $ParallaxBackground/BackgroundLayer/BGSprite
+@onready var parallax_bg: ParallaxBackground = $ParallaxBackground
+@onready var score_label: Label = $UILayer/ScoreLabel
+@onready var lives_label: Label = $UILayer/LivesLabel
+@onready var zone_label: Label = $UILayer/ZoneLabel
+@onready var stones_label: Label = $UILayer/StonesLabel
+@onready var distance_label: Label = $UILayer/DistanceLabel
+@onready var pause_overlay: CanvasLayer = $PauseOverlay
 
 # === LIFECYCLE ===
 
@@ -126,11 +129,10 @@ func _update_player(delta: float) -> void:
 	distance += current_speed * delta
 
 func _spawn_player() -> void:
-	player_sprite = Sprite2D.new()
-	player_sprite.texture = preload("res://assets/sprites/tumble.png")
-	player_sprite.position = Vector2(PLAYER_X, GROUND_Y)
-	player_sprite.scale = Vector2(0.5, 0.5)
-	add_child(player_sprite)
+	# PlayerSprite is now in the scene tree — just initialize position
+	if player_sprite:
+		player_sprite.position = Vector2(PLAYER_X, GROUND_Y)
+		player_sprite.visible = true
 
 func jump() -> void:
 	if is_grounded:

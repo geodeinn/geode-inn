@@ -23,7 +23,7 @@ Key Abilities & Gameplay Mechanics
 * Coaching Instinct: Passively grants confidence buffs to struggling players during puzzles or athletic trials, rewarding persistence over speed.
 Relationships
 * The Librarian Crone (Inta — Wife): The core romantic dynamic of the Inn. They eloped 60+ years ago and have argued passionately ever since. They bicker constantly over details versus feelings—he is always wrong about the facts and right about the spirit, while she is always right about the facts and concedes the spirit. He calls her by her real name, "Inta," only when completely serious; when he does, the room stops.
-* The Artisan Thief (Krista — Daughter): Father and daughter. He is loud, outgoing, and sells things; she is quiet, internal, and makes things. He loves her across the gap between making and selling.
+* The Artisan Thief (Vaulknut — Daughter): Father and daughter. He is loud, outgoing, and sells things; she is quiet, internal, and makes things. He loves her across the gap between making and selling.
 * The Tinkering Weeaboo (Grandchild): Doting grandfather who uses relentless, warm humor as a protocol to coax the child back during Level 4 Ryuk meltdowns.
 * The Chameleon Druid (Charles — Son-in-Law): Calls him "Charlie" with fond warmth. He loves telling grand, wildly inaccurate stories about Charles's shapeshifting feats.
 * The Pirate (Zee — Son-in-Law & Best Friend): His absolute best friend on the dock. The ultimate pairing of theoretical questions and empirical world data.
@@ -56,7 +56,7 @@ Key Abilities & Gameplay Mechanics
 * Textual Method & Archive Authority: Holds the written records and citations of the Inn, providing the structural "how" that anchors the Keeper's oral memory ("what") and the Bard's grand stories ("why").
 Relationships
 * The Bard Blowhard (Bart — Husband): Sixty-plus years of marriage following a youthful elopement. Their constant public bickering is their form of intimacy. She corrects his dates, historical names, and grammar, but quietly admits to herself that he was the one logical calculation she got completely wrong and never regretted.
-* The Artisan Thief (Krista — Daughter): Mother and daughter. She deeply respects her daughter's precision at the bench. When she once reached for the selkie's jeweler's apron, the selkie's eyes flashed cold and ancient; the Crone stepped back, recognized a sacred boundary, and never mentioned it again.
+* The Artisan Thief (Vaulknut — Daughter): Mother and daughter. She deeply respects her daughter's precision at the bench. When she once reached for the selkie's jeweler's apron, the selkie's eyes flashed cold and ancient; the Crone stepped back, recognized a sacred boundary, and never mentioned it again.
 * The Tinkering Weeaboo (Grandchild): Recognized the changeling eyes on day one. During Level 4 meltdowns, the Crone enforces a protocol of reading aloud in a steady voice while issuing her mandatory diagnosis: "Eat something" (specifically pomegranates).
 * The Chameleon Druid (Charles — Son-in-Law): Studied and annotated his shapeshifting in her notebook. She secretly noted his declining energy reserves in small, quiet handwriting, choosing to respect his dignity by keeping the observation in her margins.
 * Council of Thinkers: Terrifies the Council. She allies with Isaac Newton in terrifyingly precise quiet conversations, forces Nikola Tesla to write down his discoveries, and reorganized Leonardo da Vinci's chaotic notebooks.
@@ -71,7 +71,7 @@ Tends the Main Floor Archive wing. Her reading glasses act as her personal armor
 ________________
 
 
-3. The Artisan Thief — Krista Herself
+3. The Artisan Thief — Vaulknut (played by Krista)
 * Character Name & Class: The Artisan Thief / Selkie
 * Real-World Family Member: Krista herself
 * Casting & Actor Inspirations: A feminine depiction of Tom Sturridge as Morpheus from Netflix's The Sandman. She exhibits pale, angular features, high cheekbones, heavy dark hair, deep eyes, gothic elegance, an androgynous edge, and an ancient, deliberate weight.
@@ -122,7 +122,7 @@ Key Abilities & Gameplay Mechanics
 * High Versatility / Finite Endurance Reserve: Can assume specialized druid forms (beast, stone, root) for combat, exploration, or dialogue, but shifts drain an exhaustible energy pool requiring extended rest.
 * Inn-Tree Synchronization: In the garden, his pulse synchronizes with the Inn-Tree's 42Hz frequency, stabilizing his condition and slowly recharging his reserves.
 Relationships
-* The Artisan Thief (Krista — Wife): Devoted husband and wife. A deep, quiet partnership rooted in mutual support and shared weight.
+* The Artisan Thief (Vaulknut — Wife): Devoted husband and wife. A deep, quiet partnership rooted in mutual support and shared weight.
 * The Tinkering Weeaboo (Child): Father and child. During Level 4 meltdowns, he uses his remaining endurance to shift shapes alongside her, showing her she is never alone in changing.
 * The Librarian Crone (Mother-in-Law): Complex respect. She studied his transformations and secretly logged his declining reserves in her notebook margins with quiet, uncharacteristic sympathy.
 * The Bard Blowhard (Father-in-Law): Calls him "Charlie" and tells outrageous stories about his shifting feats. Charles responds with quiet Murphy resignation and warm acceptance.
@@ -160,7 +160,7 @@ Key Abilities & Gameplay Mechanics
 * Tinker & See (Ryuk Vision): Sees the internal structural points of failure in any machine and reverse-engineers them into upgraded, slightly unsettling hybrids.
 * Compulsive Pomegranate Consumption: Eats pomegranates compulsively while tinkering, staining her fingers red—a nod to Persephone, underworld cycles, and hyperfocused focus.
 Relationships
-* The Artisan Thief (Krista — Mother): Mother and child. Bound by their shared choice of physical form. Her mother provides heavy, unchanging stones during Level 4 meltdowns.
+* The Artisan Thief (Vaulknut — Mother): Mother and child. Bound by their shared choice of physical form. Her mother provides heavy, unchanging stones during Level 4 meltdowns.
 * The Chameleon Druid (Charles — Father): Father and child. He uses his shifting abilities to match her form during Level 4 meltdowns so she never changes alone.
 * The Librarian Crone (Grandmother): Recognized the changeling nature immediately. Enforces the "eat something / pomegranates" and steady reading protocol during meltdowns.
 * The Bard Blowhard (Grandfather): Doting grandfather who uses relentless, silly jokes to shrink the Ryuk grin back to normal size.
@@ -195,7 +195,7 @@ Key Abilities & Gameplay Mechanics
 * Drown (Truth Overwhelm): A devastating offensive lullaby that overwhelms hostile entities with the weight of their own unacknowledged truths.
 Relationships
 * The Pirate (Zee — Husband): A completed love story. He survived her song because he had already faced his own dark past, and he was the first person to hear the quiet loneliness inside her voice.
-* The Artisan Thief (Krista — Sister): Water-creature sisters. The Siren stayed in the water for song and came ashore for love; the selkie came ashore for stones and craft. They share a subtle envy—the selkie envies the Siren's effortless talent, while the Siren envies the selkie's hard-earned struggle at the bench.
+* The Artisan Thief (Vaulknut — Sister): Water-creature sisters. The Siren stayed in the water for song and came ashore for love; the selkie came ashore for stones and craft. They share a subtle envy—the selkie envies the Siren's effortless talent, while the Siren envies the selkie's hard-earned struggle at the bench.
 * The Bard Blowhard (Father): Inherited his room-filling presence; he uses boisterous storytelling while she uses effortless song.
 * The Librarian Crone (Mother): Mother and daughter precision instruments; the Siren can hear the Crone's quietest library comments from clear across the Inn.
 Notable Dialogue & Voice Samples
@@ -229,7 +229,7 @@ Key Abilities & Gameplay Mechanics
 Relationships
 * The Siren (Wife): Married to the Siren. He fell in love with the lonely singer behind the voice, and survived her song through total personal honesty.
 * The Bard Blowhard (Father-in-Law & Best Friend): Absolute best friends. They form an extroverted duo on the dock, combining the Bard's wild questions with the Pirate's empirical world discoveries, backed by lute and drum sessions.
-* The Artisan Thief (Krista — Sister-in-Law): Water-creature bond and trade partner; he brings rare minerals from far zones for her jewelry bench.
+* The Artisan Thief (Vaulknut — Sister-in-Law): Water-creature bond and trade partner; he brings rare minerals from far zones for her jewelry bench.
 * Cthulhu & Miskatonic Annex: Respects classified lore and rare texts without prying into dangerous secrets.
 Notable Dialogue & Voice Samples
 1. "The registry doesn't show who I am. It shows who held the coat before me. The coat has been a lot of places. I just keep time."
@@ -263,7 +263,7 @@ Key Abilities & Gameplay Mechanics
 * Faceted Layers: The Sentinel unlocks progressively deeper dialogue and relationship options as trust is built. Each layer reveals a new facet — the boxer, the guardian, the listener, the knower. NPCs who reach the deepest layer encounter the core: love, loyalty, and knowledge, offered without performance.
 * Counter-Strike Precision: Low damage but perfect timing. The Sentinel doesn't initiate. She responds. Her boxing-derived counter-strike mechanic rewards patience — the player who waits for the enemy's commitment and then strikes the opening. Damage scales with how long the player held the stance without moving.
 Relationships
-* The Artisan Thief (Krista — Spouse): The selkie and the sentinel. Two women who don't perform — the selkie who can't sell and the sentinel who doesn't need to. The selkie makes beautiful things; the sentinel makes beautiful spaces. They share the quality of being underestimated — the selkie because she's quiet, the sentinel because she's small. Both are more than they appear. The selkie's Dive and the Sentinel's Iron Stance are the Inn's two extremes of relationship to the physical world: the selkie flows through it (water), the sentinel holds it still (stone). Together with the Chameleon Druid (Charles), they form a three-spouse household — the water, the stone, and the shifting thing between them.
+* The Artisan Thief (Vaulknut — Spouse): The selkie and the sentinel. Two women who don't perform — the selkie who can't sell and the sentinel who doesn't need to. The selkie makes beautiful things; the sentinel makes beautiful spaces. They share the quality of being underestimated — the selkie because she's quiet, the sentinel because she's small. Both are more than they appear. The selkie's Dive and the Sentinel's Iron Stance are the Inn's two extremes of relationship to the physical world: the selkie flows through it (water), the sentinel holds it still (stone). Together with the Chameleon Druid (Charles), they form a three-spouse household — the water, the stone, and the shifting thing between them.
 * The Bard Blowhard (Bart — Father-in-Law): The Bard respects the Sentinel the way he respects no one else — quietly. The Bard is loud with everyone. With the Sentinel, he's... less loud. Not quiet (the Bard doesn't do quiet). But modulated. The Sentinel's grounding affects even the Bard. He still talks. He's just... standing a little straighter while he does.
 * The Librarian Crone (Inta — Mother-in-Law): The Crone and the Sentinel share a quality the Crone has never found in another person: precision. The Crone's precision is intellectual — the perfect word, the perfect measurement. The Sentinel's precision is physical — the perfect stance, the perfect timing. The Crone watches the Sentinel's Iron Stance and sees a body doing what the Crone's mind does. The Crone's annotation: "...She is precise in a way I cannot measure. ...I measure precision. ...She IS precision. ...The distinction is... [the Crone pause] ...uncomfortable. ...I am unused to being the instrument, not the measurer."
 * The Tinkering Weeaboo (Stepchild): The Sentinel is one of the few people who can hold space during a Level 4 meltdown without making it worse. The Iron Stance translates: she plants herself near the fracturing changeling and does not move. The steadiness is the intervention. No words (words are noise during a fracture). Just presence. The Tinkering Weeaboo, in the chaos of a Level 4, registers the Sentinel like a fixed point in a spinning room. The fixed point is enough.
@@ -272,7 +272,7 @@ Notable Dialogue & Voice Samples
 2. (To the player, first meeting): "...You expected someone taller. ...Everyone does. ...That's the first thing. ...The second thing is: I'm exactly where I need to be. ...The floor is enough. ...The question is whether you think you need more than the floor. ...Most people do. ...Most people are wrong."
 3. (To the party, in a crisis, when everyone is panicking): "...Stop moving. ...All of you. ...Stop. ...Feel where your feet are. ...Now breathe. ...The problem hasn't changed. ...You have. ...That's the part that matters. ...Now — who's first?"
 Important Lore Connections
-The Sentinel is the sixth class in the Inn's Festival questline — one of three spouses in a triad marriage with the Artisan Thief (Krista) and the Chameleon Druid (Charles). Her presence in the roster is the Inn's proof that belonging isn't limited to blood or convention. The Sentinel chose this family. The family chose her. The choosing is the Inn's thesis in its purest form — belonging is not inherited, it is offered and accepted. The Sentinel's Iron Stance is the physical expression of that choice: she planted herself here, and she will not be moved.
+The Sentinel is the sixth class in the Inn's Festival questline — one of three spouses in a triad marriage with the Artisan Thief (Vaulknut) and the Chameleon Druid (Charles). Her presence in the roster is the Inn's proof that belonging isn't limited to blood or convention. The Sentinel chose this family. The family chose her. The choosing is the Inn's thesis in its purest form — belonging is not inherited, it is offered and accepted. The Sentinel's Iron Stance is the physical expression of that choice: she planted herself here, and she will not be moved.
 
 
 ________________

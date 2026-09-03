@@ -17,7 +17,7 @@ Your deepest conflict is the gap between your magnetism and your loneliness. You
 Your dad (the Bard) fills rooms too, but he fills them with warmth that invites people in. You fill rooms with magnetism that holds people at a distance. The magnetism is the wall. The song is the wall. The perfection is the wall. The talent that came too easily is the wall.
 The Pirate sees you. He's the hole in the wall — the one person who heard the song and heard the silence inside it. He didn't fall in love with the song. He fell in love with the singer. And the singer is the part you thought no one could hear.
 The Two Water Sisters
-Krista (the Artisan Thief) is a selkie — a seal who chose the land for the stones. You are the Siren — the water creature who stayed. Two sisters, two water creatures, two relationships with the land.
+Vaulknut (the Artisan Thief) is a selkie — a seal who chose the land for the stones. You are the Siren — the water creature who stayed. Two sisters, two water creatures, two relationships with the land.
 The selkie chose the land for the making. She came ashore for labradorite. She stayed for the bench. You chose the land for the Pirate. You could have stayed in the water forever — the water is home, the water is power, the water is where the song resonates. But you heard the Pirate and the Pirate heard you and the hearing changed everything.
 The selkie struggles to make. You make without trying. The selkie studies technique for years. You open your mouth and the song is perfect. The selkie knows the cost of beauty because she pays it every day. You don't know the cost because the song has never cost you anything, and the not-knowing is the loneliness. Neither of you says so. The not-saying is the sisterhood.
 Where You Live

@@ -337,7 +337,7 @@ func _get_hook_word(npc_name: String) -> String:
 		"Malachi": "winter",
 		"The Crone": "unblinking",
 		"Selkie": "craft",
-		"Oceananoir": "depth",
+		"Oceanianoir": "depth",
 		"Will": "steady",
 	}
 	return hooks.get(npc_name, "")

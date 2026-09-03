@@ -52,7 +52,7 @@
     "rarity": "Uncommon",
     "charmDescription": "A small steel-grey casting, deceptively light, with a subtle bluish undertone",
     "connectedStones": "Beryl (emerald, aquamarine, heliodor), chrysoberyl",
-    "questConnection": "Oceananoir Tier 2 reading \u2014 geological connections",
+    "questConnection": "Oceanianoir Tier 2 reading \u2014 geological connections",
     "alchemicalNote": "The element of beryl \u2014 emerald and aquamarine grow from beryllium. The Siren's deep-water eye color is cobalt, but the stone that carries the water is beryl."
   },
   {
@@ -66,7 +66,7 @@
     "rarity": "Uncommon",
     "charmDescription": "A dark crystal point, nearly black, with a glassy luster",
     "connectedStones": "Borax, ulexite, kernite, tourmaline (contains boron)",
-    "questConnection": "Oceananoir Tier 2 reading",
+    "questConnection": "Oceanianoir Tier 2 reading",
     "alchemicalNote": "The element that colors tourmaline \u2014 the watermelon stone. Boron creates the pink, green, and blue zones in tourmaline crystals."
   },
   {
@@ -122,7 +122,7 @@
     "rarity": "Uncommon",
     "charmDescription": "A pale crystal point, nearly colorless, with a sharp angular form \u2014 the most reactive element",
     "connectedStones": "Fluorite, fluorapatite",
-    "questConnection": "Oceananoir Tier 2 reading",
+    "questConnection": "Oceanianoir Tier 2 reading",
     "alchemicalNote": "The element of fluorite \u2014 the Fae Kingdom's reward stone. Fluorite's fluorescence (glow under UV) is named after fluorine. The element that makes stones glow."
   },
   {
@@ -290,7 +290,7 @@
     "rarity": "Rare",
     "charmDescription": "A light silvery casting with a subtle yellow tint \u2014 the rare earth that isn't quite rare earth",
     "connectedStones": "Thortveitite, euxenite (minor)",
-    "questConnection": "Oceananoir Tier 3 reading \u2014 alchemical quest",
+    "questConnection": "Oceanianoir Tier 3 reading \u2014 alchemical quest",
     "alchemicalNote": "The bridge between the common transition metals and the rare earths. The both are: the adequate \u2014 the between."
   },
   {
@@ -318,7 +318,7 @@
     "rarity": "Uncommon",
     "charmDescription": "A silvery charm that shifts color \u2014 grey, green, purple, depending on oxidation state",
     "connectedStones": "Vanadinite, carnotite, roscoelite; in some beryl and tourmaline",
-    "questConnection": "Oceananoir Tier 2 reading",
+    "questConnection": "Oceanianoir Tier 2 reading",
     "alchemicalNote": "The element of color-shifting. Vanadium makes tsavorite garnet green and some beryl blue. The both are: the adequate \u2014 the chameleon element, the Shifting Man's metal."
   },
   {
@@ -374,7 +374,7 @@
     "rarity": "Uncommon",
     "charmDescription": "A deep blue charm \u2014 the element that gives glass and ceramics their impossible blue",
     "connectedStones": "Cobaltite, erythrite, skutterudite; smalt (cobalt blue glass)",
-    "questConnection": "Oceananoir Tier 2 reading \u2014 Lighthouse lens connection",
+    "questConnection": "Oceanianoir Tier 2 reading \u2014 Lighthouse lens connection",
     "alchemicalNote": "The element of blue. The Lighthouse lens. The Poison Garden's London Blue Topaz. The deep-water zones. The Siren's eye color in the deep. The both are: the adequate \u2014 the deep and the blue."
   },
   {
@@ -584,7 +584,7 @@
     "rarity": "Uncommon",
     "charmDescription": "A dark grey charm \u2014 the element of high-temperature strength, the refractory metal",
     "connectedStones": "Molybdenite, wulfenite, powellite",
-    "questConnection": "Oceananoir Tier 2 reading",
+    "questConnection": "Oceanianoir Tier 2 reading",
     "alchemicalNote": "The element of heat resistance. The both are: the adequate \u2014 the melting and the enduring. Molybdenite: the soft, greasy mineral that looks like graphite but isn't. Wulfenite: the orange-red crystal of the Poison Garden's edge."
   },
   {
@@ -1032,7 +1032,7 @@
     "rarity": "Uncommon",
     "charmDescription": "A dense, dark grey charm \u2014 the element of the highest melting point, the unmeltable",
     "connectedStones": "Wolframite, scheelite, ferberite, hubnerite",
-    "questConnection": "Oceananoir Tier 2 reading \u2014 Erik's fire connection",
+    "questConnection": "Oceanianoir Tier 2 reading \u2014 Erik's fire connection",
     "alchemicalNote": "The element with the highest melting point of any metal. The both are: the adequate \u2014 the fire and the enduring. Tungsten: the filament of the incandescent bulb \u2014 the Lighthouse light's ancestor. Erik's fire cannot melt tungsten."
   },
   {

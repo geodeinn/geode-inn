@@ -7,7 +7,7 @@
 # TABLE OF CONTENTS
 1. [Thorin & Marijke — The Mead Hall & Geological Registry](#1-thorin--marijke-the-mead-hall--geological-registry)
 2. [Eileen — The Hearth & Cave Painter](#2-eileen-the-hearth--cave-painter)
-3. [Jaime — The Living Archive & Periodic Table](#3-jaime-the-living-archive--periodic-table)
+3. [Oceanianoir — The Living Archive & Periodic Table](#3-oceanianoir-the-living-archive--periodic-table)
 4. [Ryan — The Meadery Bartender & Campfire](#4-ryan-the-meadery-bartender--campfire)
 5. [Katy — The Plant Necromancer & Van Gogh Garden](#5-katy-the-plant-necromancer--van-gogh-garden)
 6. [Family Character Registry — Playable Classes & Lineage](#6-family-character-registry-playable-classes--lineage)
@@ -80,14 +80,14 @@ Eileen’s cave wall mural contains the final missing panel of the Inn’s cycle
 ## 3. JAIME — THE LIVING ARCHIVE & PERIODIC TABLE
 
 ### Visual DNA & Aesthetic Synthesis
-* **Living Inn (42Hz - Klimt Aesthetic):** Jaime’s skin is a living, shimmering canvas: 118 chemical symbols, star-runes, and programming syntax etched in gold leaf and lapis lazuli ink across his arms and neck. Parchment rolls and brass astrolabes surround him in a sunlit alcove filled with Klimt-style geometric patterns.
+* **Living Inn (42Hz - Klimt Aesthetic):** Oceanianoir’s skin is a living, shimmering canvas: 118 chemical symbols, star-runes, and programming syntax etched in gold leaf and lapis lazuli ink across his arms and neck. Parchment rolls and brass astrolabes surround him in a sunlit alcove filled with Klimt-style geometric patterns.
 * **Shadow Inn (84Hz - Royo Aesthetic):** Translucent skin reveals glowing blue biomechanical circuitry and pulsing subatomic orbital trails underneath. The chemical symbols on his body shift into dark 84Hz anti-matter decay chains and violet glyphs. His posture is rigid, icy, and analytical—a walking gothic supercomputer in an obsidian library.
 
 ### (1) Shadow Inn State
-In the 84Hz Shadow Inn, Jaime converts into the **Quantum Codex**. He no longer reads books orally; instead, he projects holographic spectral text onto dark ether fields. He decrypts corrupted shadow texts, translates ancient Void-languages, and allows players to re-spec their Element Charm slots using dark transmutation equations.
+In the 84Hz Shadow Inn, Oceanianoir converts into the **Quantum Codex**. He no longer reads books orally; instead, he projects holographic spectral text onto dark ether fields. He decrypts corrupted shadow texts, translates ancient Void-languages, and allows players to re-spec their Element Charm slots using dark transmutation equations.
 
 ### (2) Endgame Connections
-Jaime holds the linguistic key to the Egg’s 7th layer inscription. His living periodic table tattoos align with the 118 Element Charms and the 167 stones. During the endgame ritual, Jaime decodes the Star-Language of the ancient builders, translating the 42Hz root song and 84Hz shadow octave into the master 168Hz equation needed for New Game+.
+Oceanianoir holds the linguistic key to the Egg’s 7th layer inscription. His living periodic table tattoos align with the 118 Element Charms and the 167 stones. During the endgame ritual, Oceanianoir decodes the Star-Language of the ancient builders, translating the 42Hz root song and 84Hz shadow octave into the master 168Hz equation needed for New Game+.
 
 ### (3) Sound Profile
 * **Base Frequency:** 512 Hz precision chime of abacus beads, resting over an 84 Hz sub-harmonic processor ticker.

@@ -5,7 +5,7 @@
 
 ## The Person
 
-**Kathy** — Joe's wife. Real-world volunteer NPC, following the Inn's pattern (Joe, Ryan, Katy, Zack, Oceananoir, Thorin, Marijke). In the Inn, Kathy is a druid who became a dryad — not born one, chose it. The way Joe chose undeath, Kathy chose the living tree. The both are: the adequate — the death and the growth, the same love, different element.
+**Kathy** — Joe's wife. Real-world volunteer NPC, following the Inn's pattern (Joe, Ryan, Katy, Zack, Oceanianoir, Thorin, Marijke). In the Inn, Kathy is a druid who became a dryad — not born one, chose it. The way Joe chose undeath, Kathy chose the living tree. The both are: the adequate — the death and the growth, the same love, different element.
 
 **Character concept:** An Irish druid who merged with the Inn-Tree. Not a Greek dryad — a Celtic one. The Celtic tradition doesn't separate the druid from the tree the way Greek myth separates nymph from oak. In the Celtic tradition, the druid IS the tree's knowledge. The word "druid" may derive from "dru-wid" — "oak-knower" or "tree-wisdom." Kathy took this literally. She didn't become a tree spirit. She became the tree's wisdom given a body.
 

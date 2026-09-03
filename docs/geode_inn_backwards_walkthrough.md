@@ -280,7 +280,7 @@ At each step, we identify:
 - The Siren (Lady Gaga / Andra) — auburn redhead, Amy Winehouse vibe
 - The Pirate (Mandy Patinkin) — 50 BPM bodhrán
 - Zee — drummer from Mexico, dual land/water forms
-- Oceananoir — goth scientist, periodic table, Murloc familiar Squeak
+- Oceanianoir — goth scientist, periodic table, Murloc familiar Squeak
 - The Selkie — Krista's character, Tidal Caves workshop, three-act crafting quest
 - The Lighthouse — 50 BPM sweep, Bifocal Gaze, 3 tempos (Owl/Pirate/Persephone)
 - 78 water monster entries (bestiary designed)

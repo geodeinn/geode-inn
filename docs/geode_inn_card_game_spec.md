@@ -41,7 +41,7 @@ Each major NPC is a hero class with a unique hero power based on their establish
 | The Teacher (Kathy Bates) | The Corrector | "Red Pen" — Silence a minion (remove its text) | Main Floor | Complete the Teacher's quest chain |
 | The Cartographer | The Mapper | "Chart" — Reveal the opponent's next draw | Canopy City | Complete the Cartographer's quest chain |
 | The Examiner (Deschanel) | The Analyst | "Examine" — Reveal all Secrets (hidden cards) | Canopy City | Complete the Examiner's quest chain |
-| Oceananoir | The Warlock | "Squeak" — Summon a 1/1 Murloc with Taunt | Catacombs | Complete Oceananoir's quest chain |
+| Oceanianoir | The Warlock | "Squeak" — Summon a 1/1 Murloc with Taunt | Catacombs | Complete Oceanianoir's quest chain |
 | The Captain | The Sky Pirate | "Boarding" — Steal a random card from the opponent's deck | Clockwork Skies | Reach Rank 10 |
 | The Seelie King | The Gentle Blade | "Charm" — Give a minion +2/+2 and Divine Shield | Fae Kingdom | Complete the Fae campaign |
 | The Unseelie King (Malachi) | The Labyrinth | "Tempt" — Take control of an enemy minion for 1 turn | Fae Kingdom | Complete the Shadow campaign |

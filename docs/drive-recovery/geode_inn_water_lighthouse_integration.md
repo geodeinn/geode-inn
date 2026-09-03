@@ -160,7 +160,7 @@ Every layer shifts dramatically depending on **Persephone’s Presence** (High T
   * **High Tide (The City Awakens):** Submerged Atlantean spires glow with deep violet and indigo piezoluminescence. Crystalline energy conduits light up, humming with power. Water is crystal clear dark violet.
   * **Low Tide (The Silt Sleep):** Energy conduits dim to faint copper embers. Heavy silt settles over ruined plazas. Dark shadow envelopes the fallen statues and silent arcades.
 * **Gameplay Mechanics:**
-  * **Domain of Jaime the Living Archive:** Jaime (scientist, linguist, Mensa goth with periodic table tattoos) resides here with his Murloc companion.
+  * **Domain of Oceanianoir the Living Archive: Oceanianoir (scientist, linguist, Mensa goth with periodic table tattoos) resides here with Murloc companion.
   * **High Tide:** Power arrays online. Players solve periodic-table elemental puzzles using mineral catalysts to open Atlantean tech-vaults. Zero-G underwater diving unlocks full 3D exploration of tall spires.
   * **Low Tide:** Silt navigation and excavation. Ancient stone inscriptions can be scanned; physical access to flooded archive basements opens up as upper chambers drain into Layer 5.
 * **Water Monster Roster:**

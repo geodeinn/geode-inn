@@ -11,7 +11,7 @@
 | Character | Shadow URL |
 |-----------|-----------|
 | Tumble (Dragon Mascot) | https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/829f960de_generated_image.png |
-| Bog Fairy Golem (Krista) | https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/1e74e5b60_generated_image.png |
+| Bog Fairy Golem (Vaulknut) | https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/1e74e5b60_generated_image.png |
 | Seelie Fae | https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/1b5b6e404_generated_image.png |
 | Unseelie Fae | https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/62e77b50f_generated_image.png |
 | Joe (Miniaturist) | https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/9effec166_generated_image.png |
