@@ -5,7 +5,7 @@
 
 Mordred resembles Joffrey Baratheon (Jack Gleeson, Game of Thrones) — but more dark Celtic looking. The same sharp, pretty-but-dangerous quality. The same sneer that sits on the face like it was born there. The same *youth* that reads as menace rather than innocence. The bone structure that is simultaneously beautiful and threatening — the jaw, the eyes, the too-sharp features that make you look twice and then wish you hadn't.
 
-But where Joffrey is Lannister-blonde and southern, Mordred is dark Celtic. Dark hair, dark eyes, the complexion of the cold northern coast. War paint instead of silk. The Uhtred Principle applied to Joffrey's architecture: lived-in, battle-worn, the pretty-and-dangerous pushed through a Celtic filter. Where Joffrey's danger is *soft* (the cruelty of a boy who has never been hit), Mordred's danger is *hard* (the honesty of a boy who has been hit too much).
+But where Joffrey is Lannister-blonde and southern, Mordred is dark Celtic. Dark hair, dark eyes, the complexion of the cold northern coast. War paint instead of silk. The The Wayfarer Principle applied to Joffrey's architecture: lived-in, battle-worn, the pretty-and-dangerous pushed through a Celtic filter. Where Joffrey's danger is *soft* (the cruelty of a boy who has never been hit), Mordred's danger is *hard* (the honesty of a boy who has been hit too much).
 
 Where Arthur (Alexander Skarsgård) is golden — the Celtic warlord in his full sun — Mordred is the same genetics in shadow. The same jaw, darker. The same eyes, deeper-set. The same build, leaner. The family resemblance is the point: Mordred *looks* like Arthur's blood. The looking-like is the destiny. The destiny is the problem.
 
@@ -35,9 +35,9 @@ Mordred sees what no one else will say: the table is going to fall. Not because 
 
 ### The Destiny
 
-The Uhtred Principle: "Destiny is all." Wyrd bid ful aræd — fate is inexorable. Mordred is the character who IS his destiny in a way that no one else at the table is. Galahad was *built* for a destiny (the Grail). Mordred was *born* for a destiny (the fall). The difference: Galahad's destiny was chosen for him by the old world's standards. Mordred's destiny was chosen for him by his blood. Galahad can crack and become free. Mordred can't crack — because Mordred IS the crack. Mordred is the crack in Arthur's armor. The crack in the Round Table. The crack in the cycle. And the crack, as the Crone learned, is where the music is.
+The The Wayfarer Principle: "Destiny is all." Wyrd bid ful aræd — fate is inexorable. Mordred is the character who IS his destiny in a way that no one else at the table is. Galahad was *built* for a destiny (the Grail). Mordred was *born* for a destiny (the fall). The difference: Galahad's destiny was chosen for him by the old world's standards. Mordred's destiny was chosen for him by his blood. Galahad can crack and become free. Mordred can't crack — because Mordred IS the crack. Mordred is the crack in Arthur's armor. The crack in the Round Table. The crack in the cycle. And the crack, as the Crone learned, is where the music is.
 
-Mordred's relationship to destiny is the darkest version of the Uhtred Principle. Uhtred meets his destiny with courage and action — "destiny is all, so you meet it head-on." Mordred meets his destiny with the knowledge that meeting it *destroys* everything his father built. The courage is not in the fighting. The courage is in the *knowing* — the awareness that you are the end of something beautiful, and the beautiful thing can't be saved, and the not-saving is not your failure but your *function.*
+Mordred's relationship to destiny is the darkest version of the The Wayfarer Principle. The Wayfarer meets his destiny with courage and action — "destiny is all, so you meet it head-on." Mordred meets his destiny with the knowledge that meeting it *destroys* everything his father built. The courage is not in the fighting. The courage is in the *knowing* — the awareness that you are the end of something beautiful, and the beautiful thing can't be saved, and the not-saving is not your failure but your *function.*
 
 ### The Morrigan's Hand
 

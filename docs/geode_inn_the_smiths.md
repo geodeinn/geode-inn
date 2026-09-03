@@ -23,7 +23,7 @@ This is the Inn's fourth way of knowing (after timing/Thrum, measurement/Crone, 
 The Inn has a three-fire framework:
 - **Erik** (Norse) — the feast fire. Warmth. The fire that gathers.
 - **Kali** (India) — the cremation fire. Transformation through destruction. The fire that releases.
-- **Uhtred** (wandering) — the campfire. Clarity. The fire that reveals truth.
+- **The Wayfarer** (wandering) — the campfire. Clarity. The fire that reveals truth.
 
 The smiths add the FOURTH fire:
 - **The Forge Fire** — creation fire. Transformation through heat and pressure. The fire that MAKES.
@@ -34,7 +34,7 @@ The forge fire is different from the other three:
 - The campfire REVEALS (the light shows what the dark hid).
 - The forge fire CREATES (the ore becomes metal, the metal becomes tool, the tool becomes part of the Inn).
 
-The forge fire doesn't give itself away (like Erik's fire). The forge fire doesn't destroy (like Kali's). The forge fire doesn't reveal (like Uhtred's). The forge fire TRANSFORMS. The forge fire takes what IS and makes it into what it COULD BE. The forge fire is the Inn's creative fire — the only fire that produces something that wasn't there before.
+The forge fire doesn't give itself away (like Erik's fire). The forge fire doesn't destroy (like Kali's). The forge fire doesn't reveal (like The Wayfarer's). The forge fire TRANSFORMS. The forge fire takes what IS and makes it into what it COULD BE. The forge fire is the Inn's creative fire — the only fire that produces something that wasn't there before.
 
 The forge fire is the Inn's most INTENSE fire — hotter than the feast, more controlled than the cremation, more sustained than the campfire. The forge fire is MAINTAINED — the smith doesn't light the forge and walk away. The smith TENDS the forge. The smith adjusts the air, the fuel, the heat. The smith's relationship with the forge fire is the most ACTIVE relationship any character has with fire — the smith and the fire are PARTNERS. The fire provides the heat. The smith provides the intention. Together: transformation.
 
@@ -158,7 +158,7 @@ The smiths' forge fire is the fourth fire, and the smiths have relationships wit
 
 - **Alloy and Kali** (cremation fire): Kali's fire DESTROYS. Alloy's fire COMBINES. The two fires are OPPOSITES — Kali's fire reduces to ash (the form is let go), Alloy's fire builds from combination (the form is created). Kali and Alloy have the Inn's most tense smith-fire relationship. Kali's fire is the fire that says "this is no longer needed." Alloy's fire is the fire that says "this can become something new." The two fires are the two directions of transformation: subtraction (Kali) and addition (Alloy). Kali cuts away. Alloy joins together. Both are transmutation. The Inn needs both.
 
-- **Current and Uhtred** (campfire): Uhtred's fire REVEALS. Current's fire TRANSMITS. The two fires are COMPLEMENTS — Uhtred's fire shows what's true, Current's fire carries what's true. Uhtred's campfire forces honesty between disputing characters. Current's silver carries frequency between distant points. The two fires are the Inn's COMMUNICATION system — Uhtred is the local communication (face to face, fire to face), Current is the long-distance communication (frequency to frequency, silver to silver). Uhtred says the uncomfortable truth. Current carries it to the person who needs to hear it.
+- **Current and The Wayfarer** (campfire): The Wayfarer's fire REVEALS. Current's fire TRANSMITS. The two fires are COMPLEMENTS — The Wayfarer's fire shows what's true, Current's fire carries what's true. The Wayfarer's campfire forces honesty between disputing characters. Current's silver carries frequency between distant points. The two fires are the Inn's COMMUNICATION system — The Wayfarer is the local communication (face to face, fire to face), Current is the long-distance communication (frequency to frequency, silver to silver). The Wayfarer says the uncomfortable truth. Current carries it to the person who needs to hear it.
 
 ### The Smiths and Leonardo
 

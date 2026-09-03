@@ -123,7 +123,7 @@ interface Deck {
 
 #### 5. The Bard (Neutral) — Chaos
 - Play style: Frequency-agnostic, uses zone effects as primary weapon
-- Key cards: Mim, shifting NPCs, zone-control charms
+- Key cards: Brim, shifting NPCs, zone-control charms
 - Weakness: No frequency protections, pure skill deck
 
 #### 6. The Shadow (84Hz + 111Hz blend) — Control
@@ -143,7 +143,7 @@ interface Deck {
 - Each AI uses a named NPC's deck with established voice and play style
 - Beverley plays a Scholar deck (methodical, revealing cards)
 - Lozen plays a Guardian deck (patient, defensive, punishing)
-- Mim plays a Bard deck (chaotic, zone-effect combos)
+- Brim plays a Bard deck (chaotic, zone-effect combos)
 - Newton plays an Alchemist deck (transformative, unpredictable)
 - The Keeper plays a Shadow deck (controlling, silencing)
 - Elio plays a Maker deck (growth-focused, overwhelming — the final boss)

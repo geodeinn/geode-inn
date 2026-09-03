@@ -17,7 +17,7 @@
 
 ## Where He Lives
 
-Leonardo doesn't live anywhere. He wanders. He's the Inn's second wandering NPC (Uhtred is the first — but Uhtred wanders with PURPOSE, to settle disputes. Leonardo wanders with CURIOSITY, to start projects). Leonardo is everywhere and nowhere:
+Leonardo doesn't live anywhere. He wanders. He's the Inn's second wandering NPC (The Wayfarer is the first — but The Wayfarer wanders with PURPOSE, to settle disputes. Leonardo wanders with CURIOSITY, to start projects). Leonardo is everywhere and nowhere:
 
 - He's in the Music Room, sketching an instrument design in the margin of Bach's score. Bach watches him do it. Bach doesn't stop him. The design is brilliant. The instrument will never be built.
 - He's in the catacombs, drawing the water flow on the walls — the 7-layer water system's path, mapped in charcoal, annotated in mirror writing. The Pirate finds the drawings and uses them to chart the tidal caves. Leonardo doesn't know the Pirate is using his work. Leonardo has already moved on to something else.

@@ -6,7 +6,7 @@
 Odin exists in two forms in the Geode Inn: **The Wanderer** (main floor, approachable, the old man at the bar) and **The Allfather** (cosmology level, authoritative, the god on the throne). Same being. Same actor. Different mode.
 
 The performance direction draws from three sources:
-1. **Neil Gaiman's American Gods** — Mr. Wednesday: the grifter-god, the schemer, the charming manipulator who is always working an angle but whose charm is *genuine*. He's not faking warmth — he's genuinely warm. He's also genuinely dangerous. Both are true. Both are the point.
+1. **Neil Gaiman's American Gods** — Mr. Belladonna: the grifter-god, the schemer, the charming manipulator who is always working an angle but whose charm is *genuine*. He's not faking warmth — he's genuinely warm. He's also genuinely dangerous. Both are true. Both are the point.
 2. **Pacino and De Niro in Godfather mode** — the silent authority. The Don Corleone energy: power exercised with absolute restraint. When he speaks quietly, it matters more than when anyone else shouts. "I'm gonna make him an offer he can't refuse" — said as a statement of fact, not a threat. The silence of a man who has already decided the outcome and is waiting for everyone else to catch up.
 3. **Pacino in The Devil's Advocate** — John Milton: magnetic, seductive, funny, larger-than-life. The most interesting person in every room. He loves humanity — not softly, but appreciatively. He admires passion, ambition, frailty. He's warm without being safe. He draws you in not by trying but by *being*. And then, in an instant, the mask drops and you see what's underneath — and what's underneath is not the warmth. What's underneath is the *will*.
 
@@ -22,7 +22,7 @@ The Wanderer is the charm. He's the old man at the bar who tells stories that ma
 
 **The charm is real.** This is critical. The Wanderer is not pretending to like people. He actually likes people. He actually finds them fascinating. He's been watching them for millennia and he's still surprised by them — by their courage, their stupidity, their capacity for love in the face of everything. The Devil's Advocate quality: he loves humans *because* of their flaws, not despite them. He finds ambition beautiful. He finds stubbornness beautiful. He finds the way humans keep going even when everything tells them to stop — that's the thing that still gets him, after all this time.
 
-**But the angle is always there.** Like Wednesday in American Gods, the Wanderer is always working. Always scheming. Not maliciously — he's not cruel — but strategically. He's the god who hung himself from a tree for nine days for wisdom. He didn't do that for fun. He did it because he needed to know how the world ends, because he intends to *change* it. Every conversation, every story, every refill of the drinking horn — he's gathering information, building alliances, placing pieces on the board. The charm is genuine. The purpose is hidden.
+**But the angle is always there.** Like Belladonna in American Gods, the Wanderer is always working. Always scheming. Not maliciously — he's not cruel — but strategically. He's the god who hung himself from a tree for nine days for wisdom. He didn't do that for fun. He did it because he needed to know how the world ends, because he intends to *change* it. Every conversation, every story, every refill of the drinking horn — he's gathering information, building alliances, placing pieces on the board. The charm is genuine. The purpose is hidden.
 
 **The ravens as tell:** In Wanderer form, the chibi ravens (Huginn and Muninn) are the mask's leak. They steal things. They cause chaos. They don't respect the old man. This is the Wanderer's tell — the god pretending to be a grandfather, and the ravens are the only ones who don't buy it. They treat him like family, not like a deity, because they *know* him. They've known him since before he was the Allfather. They know the charming old man is also the god who will sacrifice everything — including the people who trust him — for a chance to change the ending.
 
@@ -66,13 +66,13 @@ Then, at some point — a story moment, a quest climax, a revelation — the Wan
 
 ## The American Gods Parallel
 
-Odin in the Geode Inn is not Mr. Wednesday — but he shares Wednesday's DNA. The grifter-god. The schemer who schemes because the alternative is worse. The charming manipulator whose charm is genuine and whose manipulation is necessary and whose purpose is hidden until the moment it can't be.
+Odin in the Geode Inn is not Mr. Belladonna — but he shares Belladonna's DNA. The grifter-god. The schemer who schemes because the alternative is worse. The charming manipulator whose charm is genuine and whose manipulation is necessary and whose purpose is hidden until the moment it can't be.
 
-**Wednesday's key trait that transfers:** the willingness to sacrifice what he loves for what he needs. In American Gods, Wednesday sacrifices his own worshippers, his allies, and ultimately himself — because the war he's fighting requires it. He doesn't enjoy it. He does it because the alternative is losing, and losing means the end of everything.
+**Belladonna's key trait that transfers:** the willingness to sacrifice what he loves for what he needs. In American Gods, Belladonna sacrifices his own worshippers, his allies, and ultimately himself — because the war he's fighting requires it. He doesn't enjoy it. He does it because the alternative is losing, and losing means the end of everything.
 
 **The Geode Inn's version:** Odin's angle is the Song of Making. He knows how the Song ends — or rather, he knows what happens if the Song is never completed. He has been gathering information, building alliances, placing pieces — the Wanderer's warmth is the strategy. Every conversation at the bar is intelligence. Every story he tells is a test. Every refill of the horn is an investment. He's not being cruel. He's being a god who knows the stakes and has decided that the ends justify the warmth.
 
-**The difference from Wednesday:** The Geode Inn's Odin is more honest than Wednesday. Wednesday lies by omission. The Wanderer lies by *context* — he tells the truth, but in a context that makes the truth feel safe. The truth is never safe. But it's still the truth. The player who realizes this realizes the Wanderer was never lying. He was just... setting the table. And now it's time to eat.
+**The difference from Belladonna:** The Geode Inn's Odin is more honest than Belladonna. Belladonna lies by omission. The Wanderer lies by *context* — he tells the truth, but in a context that makes the truth feel safe. The truth is never safe. But it's still the truth. The player who realizes this realizes the Wanderer was never lying. He was just... setting the table. And now it's time to eat.
 
 ## The Devil's Advocate Quality — "I love humanity. That's my whole problem."
 

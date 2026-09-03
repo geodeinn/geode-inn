@@ -119,9 +119,9 @@ The top of the Bifrost — the step into Asgard — is the carpet page for the f
 
 ### Vanaheim — The Illuminated Garden
 
-- **Aesthetic:** The Book of Kells' CARPET PAGE — the full decorative spread, the page where the pattern IS the content. The knotwork is the zoomorphic knot (the animals and the plants intertwined). The colors are green and gold (the growing colors). The animals are the hedgehog, the bear (Beorn), the garden creatures.
+- **Aesthetic:** The Book of Kells' CARPET PAGE — the full decorative spread, the page where the pattern IS the content. The knotwork is the zoomorphic knot (the animals and the plants intertwined). The colors are green and gold (the growing colors). The animals are the hedgehog, the bear (The Bearsark), the garden creatures.
 - **Music:** Danheim at 50-60 BPM — slower, gentler, the garden pace. The frame drum is the heartbeat of the sleeping earth. The taglharpa is the wind in the branches. The throat singing is the hum of the growing things. This is the Danheim sound at its most TENDER — the same power, the same depth, but played soft, the way a lullaby uses the same notes as a battle hymn but plays them gently.
-- **Key Feature:** The Gardener. Radagast. The hedgehog. The garden's knotwork is the living version of the manuscript's knotwork — the pattern is the same, but the pattern is GROWING, not painted. Vanaheim is where the Book of Kells comes alive. The letters bloom. The animals breathe. The margins grow.
+- **Key Feature:** The Gardener. The Greenward. The hedgehog. The garden's knotwork is the living version of the manuscript's knotwork — the pattern is the same, but the pattern is GROWING, not painted. Vanaheim is where the Book of Kells comes alive. The letters bloom. The animals breathe. The margins grow.
 
 ### Asgard — The Final Page
 

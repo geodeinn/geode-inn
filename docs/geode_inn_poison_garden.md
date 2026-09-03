@@ -92,7 +92,7 @@ The real Alnwick Garden has ~100 plants. The Inn's version will catalog each wit
 
 ## The Gardener
 
-The Poison Garden is tended by **the Gardener** — an NPC who is not quite a Keeper but is more than a ranger. She is somewhere between the Keeper (Aughra) and the rangers of the National Parks: an expert, a custodian, and a person who has been changed by the thing she guards.
+The Poison Garden is tended by **the Gardener** — an NPC who is not quite a Keeper but is more than a ranger. She is somewhere between the Keeper (Fibonacci) and the rangers of the National Parks: an expert, a custodian, and a person who has been changed by the thing she guards.
 
 ### Appearance
 
@@ -109,7 +109,7 @@ She has a relationship with each plant. Not anthropomorphic — she doesn't pret
 
 ### The Gardener and the Keeper
 
-The Gardener and the Inn's Keeper (Aughra) have a relationship. The Keeper visits the Poison Garden — the only zone outside the Geode Cave where she goes. She comes at night, when the garden is closed. She sits under the yew. She doesn't speak to the Gardener. The Gardener doesn't speak to her. They sit. The yew hums. The angel's trumpet sways.
+The Gardener and the Inn's Keeper (Fibonacci) have a relationship. The Keeper visits the Poison Garden — the only zone outside the Geode Cave where she goes. She comes at night, when the garden is closed. She sits under the yew. She doesn't speak to the Gardener. The Gardener doesn't speak to her. They sit. The yew hums. The angel's trumpet sways.
 
 If the player is in the garden at night (a rare event — the garden is usually locked after dark) and sees the Keeper sitting under the yew with the Gardener, neither speaking, they have witnessed one of the Inn's quietest and most significant moments. The two women who tend the most dangerous things in the Inn — the Keeper tends the Song, the Gardener tends the poisons — sitting together in silence. The Gardener, if asked later: "She comes for the yew. Not for me. The yew remembers her. She remembers the yew. I'm just... here. Making sure nobody touches anything while they have their visit."
 

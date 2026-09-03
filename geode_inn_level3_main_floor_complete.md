@@ -180,7 +180,7 @@ Already designed (see Firekeeper quest doc). The permanent storyteller's corner.
 
 **Del Toro Protocol active across the Main Floor.** The Main Floor is COMFORTABLE — the hearth adds warmth, the wood is seasoned and dry, the air has the moisture of a lived-in space. Not desert. Not swamp. Home. Every surface shows use: the bar has a gloss where elbows have rested, the chairs are worn where bodies have leaned, the floor near the hearth is lighter where boots have stood for centuries. The zone anomaly: a cold spot behind the bar. A circle of floor, slightly darker, slightly cooler, where no one has ever stood and the air doesn't move. The Firekeeper has never explained it. The Wanderer has never mentioned it. The cold spot is the Inn's own del Toro mystery — the thing that doesn't belong in a room that otherwise feels like the warmest place in the world.
 
-### 8. Cthulhu's Fireplace Nook
+### 8. Naut's Fireplace Nook
 Already designed. The hidden scholar — a 4-foot squid-headed figure with spectacles by the fireplace. Hidden quest giver for rare book retrieval. Rewards the rarest stones in the Inn.
 
 ---
@@ -262,7 +262,7 @@ The night is long. The NPCs are many. The player feels what the mask costs: the 
 
 That's the invitation. The player who covers the mask earns the Weeaboo's trust. The trust is the Canopy City entry. The player who hasn't done this quest can still earn the invitation through sufficient engagement (3 games + 15 stones), but the quest gives the invitation AND the understanding: the mask is heavy, and the person under it is worth knowing.
 
-**Reward:** The Weeaboo's Trust — a relationship charm. The Weeaboo's bar is always open to the player. Drinks are free. The Weeaboo's stories (the ones the mask usually hides) become available — the Weeaboo tells the player about the Ryuk form, about the Navigator, about the sky. The trust is the key to the Clockwork Skies and the Weeaboo's full character arc.
+**Reward:** The Weeaboo's Trust — a relationship charm. The Weeaboo's bar is always open to the player. Drinks are free. The Weeaboo's stories (the ones the mask usually hides) become available — the Weeaboo tells the player about the True Form, about the Navigator, about the sky. The trust is the key to the Clockwork Skies and the Weeaboo's full character arc.
 
 ---
 
@@ -297,7 +297,7 @@ The dragon's song is the Inn's final reward. Not an item, not a charm — a soun
 ### 4. The Firekeeper
 Already designed (see Firekeeper quest doc). "The Last Story Told" — three phases encoding Legend, Clue, and the sonic system. Reward: The Firekeeper's Stone (42Hz charm). The quest is the prerequisite for Cosmology entry.
 
-### 5. Cthulhu
+### 5. Naut
 Already designed. Hidden scholar NPC, fireplace nook, rare book retrieval quest. Rewards the rarest stones in the Inn.
 
 ---
@@ -360,7 +360,7 @@ Not a game per se — the quest system. Daily and story quests posted on the boa
 | The Library Nook | Reading room | World religions, modern legends shelf, reference texts |
 | The Dragon's Geode | Geode Corner | Place stones, grow the dragon, build the Inn's simplest music |
 | The Firekeeper's Hearth | Hearth corner | Stories, the "Last Story Told" quest, the Inn's warmest point |
-| Cthulhu's Nook | Hidden fireplace nook | Rare book retrieval quest, rarest stones |
+| Naut's Nook | Hidden fireplace nook | Rare book retrieval quest, rarest stones |
 | The Wanderer's Walking Stick | Leaning against the bar | Pick it up — ravens steal it back. The stick is the "Road That Returns" quest item |
 | The Chibi Ravens | Great Hall | Steal shiny things, hide them, provide comic relief. Items can be retrieved by finding the ravens' stash |
 | The Modern Legends Shelf | Library Nook | Read entries, submit new stories, the Wanderer judges inclusion |
@@ -437,12 +437,12 @@ The Main Floor music changes with the time of day:
 | The Library Nook | ✅ Complete — world religions, modern legends shelf, reading room |
 | The Dragon's Geode | ✅ Complete — growth mechanic, sonic resonance, 3-phase questline |
 | The Firekeeper's Hearth | ✅ Complete (from existing doc) |
-| Cthulhu's Nook | ✅ Complete (from existing doc) |
+| Naut's Nook | ✅ Complete (from existing doc) |
 | Character: The Wanderer | ✅ Complete — quest, audio, items, reward |
 | Character: The Weeaboo | ✅ Complete — Main Floor quest (Mask That Serves), audio |
 | Character: The Dragon | ✅ Complete — 3-phase questline, growth mechanic, geode system |
 | Character: The Firekeeper | ✅ Complete (from existing doc) |
-| Character: Cthulhu | ✅ Complete (from existing doc) |
+| Character: Naut | ✅ Complete (from existing doc) |
 | Game templates | ✅ Complete — 4 arcade games + Innkeeper's List quest board |
 | Interactive items | ✅ Complete — 12+ items across all spaces |
 | Audio profile (zone) | ✅ Complete — ambient layers, time-of-day music variations |

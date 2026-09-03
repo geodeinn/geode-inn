@@ -38,7 +38,7 @@ These affect every zone, every character, and every animation.
 | Peruvian (Andes) | 42 (giant's dream) | Geological | Cloud movement at geological timescale, condor thermals | `cloud_speed = 0.05` |
 | Norse (Fjord camp) | 100 (Erik's fire) | 50 | Warm firelight on carved wood, mead steam, runes glowing | `fire_flicker = 1.0`, `rune_glow = 0.3` |
 | Mediterranean | 42 (stone/garden) | 50 | Olive grove dappled light, vine movement, butterfly motion | `olive_shimmer = true` |
-| Mediterranean Border | 100 (Beorn) | Slow | Wilderness encroaching on cultivation | `border_fade = 0.0-1.0` |
+| Mediterranean Border | 100 (The Bearsark) | Slow | Wilderness encroaching on cultivation | `border_fade = 0.0-1.0` |
 
 ---
 

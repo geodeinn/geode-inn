@@ -32,7 +32,7 @@ A half-buried labyrinth — the Minoan labyrinth, weathered, overgrown, partiall
 Medusa's home — a coastal cave at the zone's edge, where the olive grove meets the sea. The grotto is filled with frozen things: a bird mid-flight, a flower mid-bloom, a wave mid-crash, a serpent mid-strike. Each frozen thing is a being who chose stone. The grotto is the Inn's most beautiful room — everything in it is at the peak of its beauty, preserved forever. The grotto is also the Inn's saddest room — nothing in it can grow. Stone is permanent. Stone is also still.
 
 ### 5. The Border Crossroads
-The zone's edge — where the Mediterranean meets the external zones (National Parks). The crossroads has a marker: a standing stone with the Inn's frequency (42Hz) carved in Ogham, runes, hieroglyphs, and Greek — all four writing systems, one frequency. The crossroads is where the player exits the Inn's interior zones and enters the external world. Beorn guards this crossing.
+The zone's edge — where the Mediterranean meets the external zones (National Parks). The crossroads has a marker: a standing stone with the Inn's frequency (42Hz) carved in Ogham, runes, hieroglyphs, and Greek — all four writing systems, one frequency. The crossroads is where the player exits the Inn's interior zones and enters the external world. The Bearsark guards this crossing.
 
 ---
 
@@ -40,9 +40,9 @@ The zone's edge — where the Mediterranean meets the external zones (National P
 
 | NPC | Role | Design |
 |-----|------|--------|
-| **The Gardener** (Sylvester McCoy) | Zone guide — Radagast energy, communion with plants | Chibi NPC — eccentric, earthy, speaks to birds |
+| **The Gardener** (Sylvester McCoy) | Zone guide — The Greenward energy, communion with plants | Chibi NPC — eccentric, earthy, speaks to birds |
 | **Medusa** (Angelica Huston) | The Preserver — gorgon, keeper of frozen things | Full Presence — ancient, regal, the gaze is a gift |
-| **Beorn** (Mikael Persbrandt) | Border guardian — binary shifter (man/bear) | Full Presence — both forms real, Kali can't cut |
+| **The Bearsark** (Mikael Persbrandt) | Border guardian — binary shifter (man/bear) | Full Presence — both forms real, Kali can't cut |
 | **The Olive Dryads** | Tree spirits — the olive grove's residents | Ambient — visible in Form Sight as silver-green forms |
 | **Chibi Hedgehogs** | The smallest NPCs — the Gardener's helpers | Chibi critter — round, determined, surprisingly useful |
 
@@ -50,7 +50,7 @@ The zone's edge — where the Mediterranean meets the external zones (National P
 
 ## The Gardener — Full Character
 
-The Gardener is Radagast the Brown energy — Sylvester McCoy's eccentric, earthy, bird-speaking wizard. The Gardener grows through COMMUNION: asking the garden what it wants, not telling it. This is the opposite of the Catalyst (Helena Bonham Carter on the main floor), who shapes through WILL. The two are the zone's philosophical pair: the Gardener asks, the Catalyst commands. Both produce beauty. The method is the difference.
+The Gardener is The Greenward energy — Sylvester McCoy's eccentric, earthy, bird-speaking wizard. The Gardener grows through COMMUNION: asking the garden what it wants, not telling it. This is the opposite of the Catalyst (Helena Bonham Carter on the main floor), who shapes through WILL. The two are the zone's philosophical pair: the Gardener asks, the Catalyst commands. Both produce beauty. The method is the difference.
 
 **Voice:** McCoy's breathy, wandering, slightly distracted cadence. The Gardener talks to plants mid-sentence. The plants talk back (the player can't hear them — the Gardener can). The Gardener's dialogue is interrupted by bird sounds, leaf rustling, and the occasional hedgehog squeak.
 
@@ -80,13 +80,13 @@ Medusa is the Preserver — the Gorgon who freezes living things at their peak. 
 
 ---
 
-## Beorn — Full Character
+## The Bearsark — Full Character
 
-Beorn is the border guardian — the binary shifter who can be man or bear at will. Both forms are real. Kali can't cut Beorn (the subtractive philosophy can't remove what is genuinely dual). Beorn guards the crossroads between the Mediterranean Zone and the external national park zones.
+The Bearsark is the border guardian — the binary shifter who can be man or bear at will. Both forms are real. Kali can't cut The Bearsark (the subtractive philosophy can't remove what is genuinely dual). The Bearsark guards the crossroads between the Mediterranean Zone and the external national park zones.
 
-**Voice:** Mikael Persbrandt's gruff, physical, direct cadence. Beorn speaks the way a bear moves: economically, powerfully, without waste.
+**Voice:** Mikael Persbrandt's gruff, physical, direct cadence. The Bearsark speaks the way a bear moves: economically, powerfully, without waste.
 
-**Beorn's mechanic:** Beorn is the zone's GATEKEEPER to the external zones. The player must pass Beorn's test to leave the Inn's interior zones and enter the national parks. The test: the player must demonstrate that they can be TWO things at once (the binary test). The player must show Beorn a stone that has TWO frequencies (a rune-inscribed stone from the Norse Zone, or a petrified stone from the Petrified Forest — any stone with a harmonic). The dual-frequency stone is the proof that the player understands duality.
+**The Bearsark's mechanic:** The Bearsark is the zone's GATEKEEPER to the external zones. The player must pass The Bearsark's test to leave the Inn's interior zones and enter the national parks. The test: the player must demonstrate that they can be TWO things at once (the binary test). The player must show The Bearsark a stone that has TWO frequencies (a rune-inscribed stone from the Norse Zone, or a petrified stone from the Petrified Forest — any stone with a harmonic). The dual-frequency stone is the proof that the player understands duality.
 
 ---
 

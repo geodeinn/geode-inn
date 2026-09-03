@@ -53,7 +53,7 @@ In MTG, there are five colors (White, Blue, Black, Red, Green). In the Geode Inn
 **Playstyle:** Defense-Control. Stone cards are expensive, durable, and create permanent structures. Stone decks win by building an unassailable board state — walls, monuments, and crypts that the opponent cannot break through.
 **Card mechanic:** "Carve" — this card occupies a board slot permanently. It cannot be destroyed by normal means — only by Subtractive effects (removal that specifically targets permanent structures).
 **Win condition:** The Monument — having 5 Stone structure cards in play simultaneously.
-**Key characters:** Medusa, the Crone, the Mason, the Mourner, Wednesday Addams
+**Key characters:** Medusa, the Crone, the Mason, the Mourner, Belladonna
 
 ### 6. ROOT (Mycorrhizal / The Network) — The Frequency of Connection
 **Color identity:** Deep Green/Brown
@@ -115,10 +115,10 @@ The Inn's zones and geological features, which generate frequency mana:
 | **Bridge** | The Staircase | This card can be played from two different frequency costs. When played from the higher cost, trigger a bonus effect. |
 | **Subtractive** | Cave City | Instead of playing this card normally, you may REMOVE one of your own cards from play to play this card at reduced cost. The removal IS the cost. |
 | **Additive** | Building system | When this card enters play, you may stack another card on top of it. The stacked card gains the bottom card's abilities. |
-| **Wandering** | Uhtred / Parks | This card can move to an adjacent board lane once per turn. |
+| **Wandering** | The Wayfarer / Parks | This card can move to an adjacent board lane once per turn. |
 | **Threshold** | Persephone / Hades | This card gains power each turn it remains in play. At a threshold count, it transforms into a more powerful version. |
 | **Vessel** | The crested gecko | This card holds a "formula" — at any point, you may reveal the formula to trigger a powerful effect, but the card is then silenced. |
-| **Mim** | Madame Mim | Once per game, you may "break the formula" — ignore all card text on this card and replace it with a random effect. |
+| **Brim** | Brim | Once per game, you may "break the formula" — ignore all card text on this card and replace it with a random effect. |
 | **Mirror** | Merlin / Magritte | This card copies the text of a target card. The copy is an illusion — if the opponent targets it, it is revealed as a mirror (the original effect triggers, not the copy). |
 | **Observer** | Einstein | While this card is in play, all hidden information is revealed (both players' hands are visible). |
 | **Ferry** | Charon | Once per turn, move one card from your discard pile to your hand. The cost: pay 1 frequency mana. |
@@ -300,8 +300,8 @@ Rarity: Epic
 Frequency: SONG (1) + SILENCE (1) — Total cost: 2
 Type: Character — Companion — Trickster
 Presence: 2 | Resonance: 2 | Cadence: Immediate
-Abilities: Mim
-Special: **"But what if we did the fun wrong version?"** — Once per game, Mim may target any card in play (including your own) and replace its text with a randomly selected ability from a pool. The replaced card retains its stats. The breaking is: the adequate.
+Abilities: Brim
+Special: **"But what if we did the fun wrong version?"** — Once per game, Brim may target any card in play (including your own) and replace its text with a randomly selected ability from a pool. The replaced card retains its stats. The breaking is: the adequate.
 Flavor text: *"The agent of chaos who rides a Magritte-inspired pipe."*
 Rarity: Epic
 
@@ -382,7 +382,7 @@ Frequency: STONE (2) + SONG (2) — Total cost: 4
 Type: Character — Guide — Seer
 Presence: 2 | Resonance: 6 | Cadence: Delayed
 Abilities: Observer (passive — both players' hands visible)
-Special: **One Eye** — Aughra sees what two eyes cannot: the patterns. Once per turn, name a card type. The opponent must reveal if they have any cards of that type in hand. The seeing is: the adequate. The adequate is: she removed the other eye for deeper vision.
+Special: **One Eye** — Fibonacci sees what two eyes cannot: the patterns. Once per turn, name a card type. The opponent must reveal if they have any cards of that type in hand. The seeing is: the adequate. The adequate is: she removed the other eye for deeper vision.
 Flavor text: *"The Neutral Platform. The sapling grows. The next cycle's seed."*
 Rarity: Epic
 
@@ -452,7 +452,7 @@ Frequency: ROOT (2) + FIRE (1) — Total cost: 3
 Type: Character — Guide — Wizard
 Presence: 2 | Resonance: 5 | Cadence: Next Turn
 Abilities: Network, Additive
-Special: **Communion** — Once per turn, Radagast may "ask" a target structure card. If the structure is yours, it gains +1 Resonance. If the structure is the opponent's, it gains +1 Resonance but you see its full text. The asking is: the growing. The telling is: the Catalyst's way.
+Special: **Communion** — Once per turn, The Greenward may "ask" a target structure card. If the structure is yours, it gains +1 Resonance. If the structure is the opponent's, it gains +1 Resonance but you see its full text. The asking is: the growing. The telling is: the Catalyst's way.
 Flavor text: *"He grows through communion. He asks the garden."*
 Rarity: Epic
 
@@ -634,14 +634,14 @@ Rarity: Legendary
 Frequency: SONG (2) + SILENCE (1) — Total cost: 3
 Type: Character — Player Class — Changeling
 Presence: 2 | Resonance: 3 | Cadence: Immediate
-Abilities: Mim, Threshold
+Abilities: Brim, Threshold
 Special: **Annoyance Meter** — Each time the Weeaboo is targeted by an opponent, place an "Annoyance" counter. At each level:
 - Level 0: Human-passing (no effect)
 - Level 1: +1 Presence
 - Level 2: +2 Presence, gains Wandering
-- Level 3: Transforms into "Ryuk Form" — +3 Presence, gains Vessel (holds a random formula)
+- Level 3: Transforms into "True Form Form" — +3 Presence, gains Vessel (holds a random formula)
 - Level 4: Form Fracture — destroys all STRUCTURE cards in play (including your own). The breaking is: the adequate.
-Flavor text: *"The changeling whose true form resembles Ryuk from Death Note."*
+Flavor text: *"The changeling whose true form resembles the shinigami archetype: tall, angular, yellow-eyed, too-wide grin, too-long fingers."*
 Rarity: Legendary
 
 ---
@@ -727,7 +727,7 @@ Playstyle: Aggressive swarm. Cheap fire cards that support each other. The wound
 
 ### 3. "The Monument" (Stone Defense)
 Win condition: Have 5 Stone structures in play simultaneously.
-Key cards: Medusa, the Mason, the Mourner, Hel, Wednesday
+Key cards: Medusa, the Mason, the Mourner, Hel, Belladonna
 Playstyle: Pure defense. Build unbreakable structures. Carve permanent board slots. Win by making the board impenetrable.
 
 ### 4. "The Crossing" (Water Tempo)
@@ -737,7 +737,7 @@ Playstyle: Movement-based. Cards that return to hand and replay. Each replay tri
 
 ### 5. "The Living Map" (Root Ramp)
 Win condition: Have Root cards connected to all six frequencies simultaneously.
-Key cards: The Cartographer, the Queen of Webs, the Queen of Roots, Radagast, the Root Reader
+Key cards: The Cartographer, the Queen of Webs, the Queen of Roots, The Greenward, the Root Reader
 Playstyle: Ramp. Accelerate mana generation through the Network ability. Reach high-cost cards fast. The more Root cards, the more mana.
 
 ### 6. "The Silence Between" (Silence Lock)
@@ -752,7 +752,7 @@ Playstyle: Self-sacrifice. You WIN by removing your own cards. Each removal trig
 
 ### 8. "The After" (Wanderer Combo)
 Win condition: Have one Wandering card visit all 6 board lanes in one game.
-Key cards: The Pirate, Uhtred, the Captain, the Duck, the Tinkering Weeaboo (at Level 2+)
+Key cards: The Pirate, The Wayfarer, the Captain, the Duck, the Tinkering Weeaboo (at Level 2+)
 Playstyle: Movement and disruption. Your cards wander the board, triggering effects in each lane. The opponent can't predict where you'll be.
 
 ---
@@ -798,7 +798,7 @@ Instead of MTG's land-based mana, the Geode Inn uses FREQUENCY mana:
 
 - **Common** — Basic NPCs, companions, simple zone cards
 - **Rare** — Named NPCs with specific abilities (the Bard, the Cook, the Retort, the Thrum)
-- **Epic** — Zone guides with significant special abilities (the Captain, the Seelie King/Queen, Radagast, Hel, the Examiner)
+- **Epic** — Zone guides with significant special abilities (the Captain, the Seelie King/Queen, The Greenward, Hel, the Examiner)
 - **Legendary** — The Inn's principal characters with game-changing abilities (the Constant, Nyx, the Guest, the Crone, the Host, Erik, Kali, Medusa, Charon, the Morrigan, the Queen of Webs, the Queen of Roots, the Pirate, the Siren, the One Who Is Awake, Zorya)
 
 ---
@@ -806,8 +806,8 @@ Instead of MTG's land-based mana, the Geode Inn uses FREQUENCY mana:
 ## NEXT STEPS
 
 ### Characters still needing card profiles:
-- Uhtred (Wanderer)
-- Beorn (Shifter)
+- The Wayfarer (Wanderer)
+- The Bearsark (Shifter)
 - Bastet (Cat Goddess)
 - Persephone (detailed above)
 - The Bard's Laughing Ent (companion)
@@ -818,7 +818,7 @@ Instead of MTG's land-based mana, the Geode Inn uses FREQUENCY mana:
 - The Crimean Goth NPCs (Cave City set)
 - The Captain's crew
 - The Seelie/Unseelie Court NPCs
-- Merlin & Archimedes
+- Merlin & Noctua
 - King Arthur (Elder)
 
 ### Items still needing card profiles:

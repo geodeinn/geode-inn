@@ -19,7 +19,7 @@
 12. [The Sacred Trio — The Host, The Catalyst, The Crone](#12-the-sacred-trio-the-host-the-catalyst-the-crone)
 13. [The Retort & The Cook — Alchemical Laboratory & Kitchen](#13-the-retort--the-cook-alchemical-laboratory--kitchen)
 14. [The Retort's Two Frustrations — The Bloop & Tesla](#14-the-retorts-two-frustrations-the-bloop--tesla)
-15. [The Gardener & Beorn — Radagast & The Wild Guardian](#15-the-gardener--beorn-radagast--the-wild-guardian)
+15. [The Gardener & The Bearsark — The Greenward & The Wild Guardian](#15-the-gardener--beorn-radagast--the-wild-guardian)
 16. [The Bard & The Pirate — Anchor, Sail, & Deep Friendship](#16-the-bard--the-pirate-anchor-sail--deep-friendship)
 17. [The Dread Pirate Roberts — Succession, Mask, & Legacy](#17-the-dread-pirate-roberts-succession-mask--legacy)
 18. [The Pirate & The Tidal Caves — Coastal Gateways & Hidden Worlds](#18-the-pirate--the-tidal-caves-coastal-gateways--hidden-worlds)
@@ -161,7 +161,7 @@ In the 84Hz Shadow Inn, the playable family classes switch to their **Shadow Van
 * *Librarian Crone:* Measurement flips to *Void Audit* (strips shadow enemy buffs).
 * *Chameleon Druid:* Shifts into biomechanical shadow beasts.
 * *Artisan Thief:* Uses shadow-step and dark mineral gem setting.
-* *Tinkering Weeaboo:* Shifts into full Ryuk static form.
+* *Tinkering Weeaboo:* Shifts into full True Form static form.
 
 ### (2) Endgame Connections
 The combined lineage activates the ancestral *Family Crest Seal* on the Staircase. Each class must contribute their unique archetype mastery item (e.g., Bard's Horn, Crone's Ledger, Thief's Apron) to the central altar to open the seal leading to Level 9 Undercity and the Egg Chamber.
@@ -182,17 +182,17 @@ The combined lineage activates the ancestral *Family Crest Seal* on the Staircas
 
 ### Visual DNA & Aesthetic Synthesis
 * **Living Inn (42Hz - Klimt Aesthetic):** Petite human form sitting at a crowded workbench surrounded by golden clockwork gears, anime figurines leafed in gold foil, and brass springs. Intricate mosaic blueprints cover the walls in warm Klimt geometric style. Her fingers move with blinding speed, assembling brass automata.
-* **Shadow Inn (84Hz - Royo Aesthetic):** Static Metamorphosis triggers her true form: an elongated, terrifying Ryuk-like silhouette. Seven feet tall, impossibly thin arms, gaunt biomechanical joints, dark feathery obsidian collar, cold glowing red eyes, and a wide, metallic grin. She crouches perched atop high rafters with dark mechanical claws.
+* **Shadow Inn (84Hz - Royo Aesthetic):** Static Metamorphosis triggers her true form: an elongated, terrifying True Form-like silhouette. Seven feet tall, impossibly thin arms, gaunt biomechanical joints, dark feathery obsidian collar, cold glowing red eyes, and a wide, metallic grin. She crouches perched atop high rafters with dark mechanical claws.
 
 ### (1) Shadow Inn State
-In the 84Hz Shadow Inn (or when her *Annoyance Meter* reaches 100%), she sheds her human guise and operates in her **Ryuk Changeling Form**. She gains infinite dexterity, moves silently along ceiling beams, bypasses locks instantly, and crafts forbidden dark-matter gadgets that manipulate gravitational and electrical fields.
+In the 84Hz Shadow Inn (or when her *Annoyance Meter* reaches 100%), she sheds her human guise and operates in her **True Form Changeling Form**. She gains infinite dexterity, moves silently along ceiling beams, bypasses locks instantly, and crafts forbidden dark-matter gadgets that manipulate gravitational and electrical fields.
 
 ### (2) Endgame Connections
-The Ancient Mechanism powering Level 2 Clockwork Skies is severely damaged and out of reach for human hands. The Tinkering Weeaboo uses her stretched Ryuk form and high dex to climb into the clockwork core, repairing the master gear train and enabling the sky platforms to align for the endgame skybridge.
+The Ancient Mechanism powering Level 2 Clockwork Skies is severely damaged and out of reach for human hands. The Tinkering Weeaboo uses her stretched True Form and high dex to climb into the clockwork core, repairing the master gear train and enabling the sky platforms to align for the endgame skybridge.
 
 ### (3) Sound Profile
 * **Base Frequency:** 84 Hz steady mechanical hum, backed by rapid 1200-2400 Hz gear whirring and spring clicks.
-* **Acoustic Layer:** Raspy, quiet Ryuk laugh (180 Hz), static electrical discharge crackles (3500 Hz), metallic claw scraping on iron beams.
+* **Acoustic Layer:** Raspy, quiet True Form laugh (180 Hz), static electrical discharge crackles (3500 Hz), metallic claw scraping on iron beams.
 * **Audio Texture:** Hyper-kinetic, twitchy, mechanical, and unsettlingly nocturnal.
 
 ### (4) Cross-System Integration
@@ -373,14 +373,14 @@ The deep ocean combustion frequency of the Bloop (19Hz) and Tesla's high-voltage
 ## 15. THE GARDENER & BEORN — RADAGAST & THE WILD GUARDIAN
 
 ### Visual DNA & Aesthetic Synthesis
-* **Living Inn (42Hz - Klimt Aesthetic):** Radagast lives in an overgrown cottage completely consumed by golden sunflower vines, nests, and moss. Honeycomb beehives glitter like gold leaf in warm sunlight. Beorn sits on a massive timber porch—an enormous, gentle man illuminated by warm golden light, surrounded by giant golden honeybees and sleeping hedgehogs.
-* **Shadow Inn (84Hz - Royo Aesthetic):** The cottage transforms into an ironwood briar thicket with dark obsidian thorns and glowing bioluminescent fungi. Beorn shifts into his colossal 84Hz Shadow Bear form: dark metallic fur, glowing amber eyes, and obsidian claws, guarding the garden perimeter against shadow beasts.
+* **Living Inn (42Hz - Klimt Aesthetic):** The Greenward lives in an overgrown cottage completely consumed by golden sunflower vines, nests, and moss. Honeycomb beehives glitter like gold leaf in warm sunlight. The Bearsark sits on a massive timber porch—an enormous, gentle man illuminated by warm golden light, surrounded by giant golden honeybees and sleeping hedgehogs.
+* **Shadow Inn (84Hz - Royo Aesthetic):** The cottage transforms into an ironwood briar thicket with dark obsidian thorns and glowing bioluminescent fungi. The Bearsark shifts into his colossal 84Hz Shadow Bear form: dark metallic fur, glowing amber eyes, and obsidian claws, guarding the garden perimeter against shadow beasts.
 
 ### (1) Shadow Inn State
-In the 84Hz Shadow Inn, Radagast becomes the **Guardian of Shadow Flora**, tending to dark nightshades and ghostly medicinal herbs. Beorn serves as the **Wild Shadow Boss/Ally**; players must prove their harmony in combat before he joins as a high-tier mount and combat companion.
+In the 84Hz Shadow Inn, The Greenward becomes the **Guardian of Shadow Flora**, tending to dark nightshades and ghostly medicinal herbs. The Bearsark serves as the **Wild Shadow Boss/Ally**; players must prove their harmony in combat before he joins as a high-tier mount and combat companion.
 
 ### (2) Endgame Connections
-Radagast cultivates the *Sacred Yggdrasil Graft*, the living plant cutting that restores the Inn-Tree’s canopy. Beorn stands guard at the door of the Root Chamber during the Convergence ritual, holding back waves of shadow monstrosities while the player forged the Octave Stone inside.
+The Greenward cultivates the *Sacred Yggdrasil Graft*, the living plant cutting that restores the Inn-Tree’s canopy. The Bearsark stands guard at the door of the Root Chamber during the Convergence ritual, holding back waves of shadow monstrosities while the player forged the Octave Stone inside.
 
 ### (3) Sound Profile
 * **Base Frequency:** 60 Hz deep bear respiration growl, doubling to an 84 Hz roar in Shadow mode.
@@ -389,7 +389,7 @@ Radagast cultivates the *Sacred Yggdrasil Graft*, the living plant cutting that 
 
 ### (4) Cross-System Integration
 * **Garden Van Gogh Zone:** Serves as primary fauna tenders and wilderness protectors.
-* **Bestiary Taming System:** Beorn unlocks high-tier bear taming; Radagast unlocks small animal companions (hedgehogs, birds).
+* **Bestiary Taming System:** The Bearsark unlocks high-tier bear taming; The Greenward unlocks small animal companions (hedgehogs, birds).
 * **Honey & Herb Crafting:** Produces magical honey consumables that heal health and restore stamina.
 
 ---

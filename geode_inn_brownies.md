@@ -13,7 +13,7 @@ The Geode Inn's Brownies are all of that. They are also an anarcho-syndicalist c
 
 Wait.
 
-The Brownies maintain the Inn. They sweep the main floor. They dust the archive shelves. They polish the gargoyles (the gargoyles vibrate pleasantly when polished — 42Hz resonates through a clean surface better than a dusty one, and the Brownies have noted this, and Cthulhu has noted that the Brownies have noted this, and the Crone has noted that Cthulhu has noted that the Brownies have noted this, and nobody has said anything about any of it because the Brownies don't take meetings about things people have noted about their noting).
+The Brownies maintain the Inn. They sweep the main floor. They dust the archive shelves. They polish the gargoyles (the gargoyles vibrate pleasantly when polished — 42Hz resonates through a clean surface better than a dusty one, and the Brownies have noted this, and Naut has noted that the Brownies have noted this, and the Crone has noted that Naut has noted that the Brownies have noted this, and nobody has said anything about any of it because the Brownies don't take meetings about things people have noted about their noting).
 
 They also, occasionally, without explanation, without warning, without any apparent purpose, clap two halves of a coconut shell together.
 
@@ -62,7 +62,7 @@ The Brownies have coconut shells. They keep them in a small pile near the main f
 - "We trade for them. With whom is an internal matter. The collective voted on the trade agreement. The minutes are available."
 - "The Inn-Tree grew them. ...No, trees don't grow coconuts. ...The Inn-Tree is not a tree. The Inn-Tree is an Ent. ...Ents can grow whatever they want. ...Have you asked the Ent? ...No. We don't speak to the Ent. The Ent doesn't speak to us. We maintain the Ent's body. The Ent maintains itself. The coconuts are at the intersection of our maintenance and its self-maintenance. ...This is in the minutes."
 
-They clap them together at irregular intervals. The sound — *clip clop clip clop* — echoes through the main floor at random moments: during the Host's welcome, during the Catalyst's drink service, during the Council of Thinkers' debates, during Cthulhu's reading. No pattern. No reason. The Brownies don't explain. When asked:
+They clap them together at irregular intervals. The sound — *clip clop clip clop* — echoes through the main floor at random moments: during the Host's welcome, during the Catalyst's drink service, during the Council of Thinkers' debates, during Naut's reading. No pattern. No reason. The Brownies don't explain. When asked:
 
 "Why are you clapping coconut shells?"
 
@@ -106,10 +106,10 @@ The Bard LOVES the Brownies. They are, he argues, the best show in the Inn. He f
 
 The Bard has not stopped. The Brownies have voted on whether to file a formal complaint. The vote was 4-2 in favor. The executive officer ratified it. The complaint was filed with... no one, because the Brownies don't recognize any authority that would receive a complaint. The complaint is on the mushroom cap, next to the constitution. It is, technically, the most formal document in the Inn.
 
-**Cthulhu:**
-Cthulhu and the Brownies have an arrangement: they don't touch his books. He doesn't touch their minutes. The arrangement has held for centuries. Once, a Brownie dusted Cthulhu's shelf. Cthulhu's spectacles came off. The Rush emerged: "*What* are you doing near my — " and the Brownie held up a copy of the constitution (the mushroom cap, laminated in sap for durability) and said: "The collective voted to expand the dusting rotation to include the reading corner. The executive officer ratified it. The minutes are available. ...We will dust. ...You will not interrupt the dusting. ...Good day, Professor."
+**Naut:**
+Naut and the Brownies have an arrangement: they don't touch his books. He doesn't touch their minutes. The arrangement has held for centuries. Once, a Brownie dusted Naut's shelf. Naut's spectacles came off. The Rush emerged: "*What* are you doing near my — " and the Brownie held up a copy of the constitution (the mushroom cap, laminated in sap for durability) and said: "The collective voted to expand the dusting rotation to include the reading corner. The executive officer ratified it. The minutes are available. ...We will dust. ...You will not interrupt the dusting. ...Good day, Professor."
 
-Cthulhu looked at the Brownie. The Brownie looked at Cthulhu. Cthulhu looked at the mushroom cap constitution. Cthulhu put his spectacles back on.
+Naut looked at the Brownie. The Brownie looked at Naut. Naut looked at the mushroom cap constitution. Naut put his spectacles back on.
 
 "...Fine. ...Don't touch the Voynich."
 

@@ -1,7 +1,7 @@
 # Geode Inn — The Wandering Program
 ## System: Inn Creatures in the Real World
 ## Access: Main Floor → World Map → National Parks → Any park
-## Prerequisite: Beorn's border test (Mediterranean Zone Quest 5)
+## Prerequisite: The Bearsark's border test (Mediterranean Zone Quest 5)
 
 ### Overview
 
@@ -131,7 +131,7 @@ Each entry follows this structure:
 
 - **Modern Legends Nook** (Main Floor) — the archive where all entries are stored and readable
 - **National Park Zones** — the wandering destinations
-- **Uhtred** (Norse Zone) — the first registered wanderer; his mobile campfire is the model for the program
+- **The Wayfarer** (Norse Zone) — the first registered wanderer; his mobile campfire is the model for the program
 - **The Whisper Layer** — the frequency offset (42Hz ± 2 degrees) is the same "veil" that the Whisper Layer operates behind. The cryptids are the Whisper Layer's real-world manifestation.
 - **Bastion** — the naming mechanism. When a human names a cryptid, the human performs Bastion's act: acknowledging the existence of something they don't understand. The name is the bridge between the Inn and the human world.
 - **The Bead Board / Sonic Mineral Codex** — wandering creatures can bring back stones from the parks. These stones have park-specific frequencies that can be used in the Bead Composer.

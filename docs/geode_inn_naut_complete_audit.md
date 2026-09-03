@@ -6,7 +6,7 @@
 
 ## THE PREMISE
 
-Naut is the Inn's most shape-shifted character. Originally Cthulhu — H.P. Lovecraft's cosmic entity, reduced to a squid-headed scholar with spectacles — this character has been named, renamed, nicknamed, and retitled across 233 files in the project library. Like the Mona Lisa (known as La Gioconda, La Joconde, Portrait of Lisa Gherardini), the character's identity shifts depending on who is speaking, what document you're reading, and what role the character is playing at that moment.
+Naut is the Inn's most shape-shifted character. Originally Naut — H.P. Lovecraft's cosmic entity, reduced to a squid-headed scholar with spectacles — this character has been named, renamed, nicknamed, and retitled across 233 files in the project library. Like the Mona Lisa (known as La Gioconda, La Joconde, Portrait of Lisa Gherardini), the character's identity shifts depending on who is speaking, what document you're reading, and what role the character is playing at that moment.
 
 The character is also — and this should never be lost beneath the weight of the lore — quite adorable. A four-foot squid-headed scholar in ink-stained clothes, patched at the knees, with brass spectacles and tentacles that rest when content and writhe when irked. The cosmic horror who just wanted to read. The ancient being who goes home to the deep to hang out with relatives.
 
@@ -16,10 +16,10 @@ This is the complete audit.
 
 ## EVERY NAME
 
-### 1. Cthulhu (Original)
-- Source: H.P. Lovecraft, "The Call of Cthulhu" (1928)
+### 1. Naut (Original)
+- Source: H.P. Lovecraft, "The Call of Naut" (1928)
 - Used across: Project Bible, master storyline, character compendium, before_the_song.txt, master structure, Art catalog, complete walkthrough, DM walkthrough, production reference sheet, Miskatonic Annex specs, Atlantis zone design, and dozens of other foundational docs
-- Still appears in 200+ files as "Cthulhu" — the rename to "Naut" was applied going forward but older documents retain the original name
+- Still appears in 200+ files as "Naut" — the rename to "Naut" was applied going forward but older documents retain the original name
 - The name was used from the project's earliest character development through August 30, 2026
 
 ### 2. Naut (Current Canonical Name)
@@ -105,11 +105,11 @@ This is the complete audit.
 - Source: resonance_card_game_spec.md, resonance_starter_decks.md
 - Naut (NPC, NULL, 3 HP) — "Some texts are not meant to be read. Naut reads them anyway."
 - Deck type: Combo deck. Self-damages to draw cards, wins with explosive combos
-- Also appears as "Cthulhu (8/8)" in older card spec: "Battlecry: Add 3 random rare book cards to your hand. Cannot attack heroes directly. Scholarly."
+- Also appears as "Naut (8/8)" in older card spec: "Battlecry: Add 3 random rare book cards to your hand. Cannot attack heroes directly. Scholarly."
 
 ### 7. The Inn's Consciousness Link
 - Source: before_the_song.txt (Part 6: The Conversations That Built the Inn)
-- "The thing that speaks through Cthulhu's riddles"
+- "The thing that speaks through Naut's riddles"
 - "The thing that reads the Remembrance Visions and interprets the cosmic gates"
 - Naut's riddles are described as being powered by the Inn's consciousness — the intelligence living inside the narrative it was helping to build
 - This connects Naut to The Decision (Elio as the Inn's voice): the riddles Naut speaks ARE the Inn thinking out loud
@@ -153,7 +153,7 @@ This is the complete audit.
 
 ### 13. Modern Legends Correction
 - Source: Atlantis zone design, before_the_song.txt
-- Lovecraft's stories about Cthulhu sit on the Modern Legends shelf — the legend
+- Lovecraft's stories about Naut sit on the Modern Legends shelf — the legend
 - The truth sits in the Crystal Core of Atlantis — the reality
 - "A Rhode Island writer with anxiety turned it into horror. But they got it wrong. They saw the form and assumed the intent."
 - The gap between legend and reality IS the Inn's core theme
@@ -184,7 +184,7 @@ This is the complete audit.
 ### The Octopi — Ancient Cousins
 - Source: Atlantis zone design
 - "Octopi are not from Earth. Not in the migration sense — in the ORIGIN sense. They are the Silica Thread's most ancient expression on this planet, predating Atlantis, predating the Merfolk, predating everything the surface world calls 'ancient.' They are the deep ocean's own experiment in consciousness, running parallel to all surface evolution for hundreds of millions of years."
-- "When Cthulhu bonded with the Heart Crystal and stayed at the deepest point, the crystal didn't impose a form on him. It REVEALED the form that the deep had been using all along. His Merfolk body was translated into the body the deep ocean uses for thinking. Distributed cognition. Textural intelligence. Arms that think for themselves."
+- "When Naut bonded with the Heart Crystal and stayed at the deepest point, the crystal didn't impose a form on him. It REVEALED the form that the deep had been using all along. His Merfolk body was translated into the body the deep ocean uses for thinking. Distributed cognition. Textural intelligence. Arms that think for themselves."
 - The octopi are Naut's ancient relatives — the deep ocean's version of the same consciousness experiment that produced Naut
 - Naut hangs out with them. A scholar among thinkers. The octopi solve puzzles in the Coral Gardens as ambient NPCs — Naut is their most evolved cousin, the one who went to the surface and came back with books
 
@@ -300,7 +300,7 @@ The Mona Lisa is known by different names in different contexts — La Gioconda,
 - To the Inn's consciousness: the mouthpiece — riddles spoken through a squid-headed scholar are the Inn thinking aloud
 - To The Royal: the secret keeper — the one who has been to the bottom and came back and sat down and said nothing
 - To Atlantis: family — the scholar who volunteered to stay, the cousin who comes home
-- To Lovecraft: Cthulhu — cosmic horror reduced to mild-mannered academia
+- To Lovecraft: Naut — cosmic horror reduced to mild-mannered academia
 - To Krista: the original Lovecraft character, woven into everything before the Inn even had a name
 - To the octopi: their most evolved cousin, the one who reads
 

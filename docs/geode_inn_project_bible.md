@@ -88,7 +88,7 @@ All documents are stored in the Base44 sandbox and mirrored to Google Drive.
     - Modern Legends Nook
     - World Religions Library              THE LISTENER (64Hz)
     - Baby Dragon's Geode Cave            ↓ DOWNSTAIRS / ROOTS
-    - Cthulhu by the fireplace            ↓ Catacombs, Ancient Civilizations
+    - Naut by the fireplace            ↓ Catacombs, Ancient Civilizations
     - The Wanderer (Odin) + ravens        ↓ Spiral Gallery (art museum)
     THE SAGE (528Hz)                      ↓ Fae Kingdom Portal
     THE KEEPER (adaptive)                ↓ THE GATEKEEPER (variable Hz)
@@ -112,7 +112,7 @@ All documents are stored in the Base44 sandbox and mirrored to Google Drive.
 | Category | Count | Examples |
 |----------|-------|----------|
 | Full Presence | 6 | Morrigan, Seelie, Unseelie, Owl, Wanderer Odin, Allfather Odin |
-| Ambulatory NPC | 1 | Cthulhu the Scholar |
+| Ambulatory NPC | 1 | Naut the Scholar |
 | Chibi Fae NPCs | 8 | Chullachaqui, Mermaid, Orc, Ent, Goblin, Troll, Dwarf, Griffin |
 | Chibi Arcade Cast | 11 | Anansi, Anubis, Ammit, El Muki, Medusa, Bastet, + others |
 | Ravens | 2 | Huginn (Thought), Muninn (Memory) |

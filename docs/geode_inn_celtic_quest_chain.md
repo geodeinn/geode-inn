@@ -18,7 +18,7 @@ Each quest teaches a real aspect of Celtic/Druidic culture through gameplay mech
 | **Branwen** | Craft teacher — stone mason, leather apron, strong build | Chibi NPC |
 | **Taliesin** | Ogham scholar — thin, hooded, carries tablets | Chibi NPC |
 | **Arianrhod** | Astronomer — silver-haired, observes stars from hilltop | Full Presence |
-| **The Oak** | Ancient tree spirit — optional side quest giver | Ambulatory (like Cthulhu) |
+| **The Oak** | Ancient tree spirit — optional side quest giver | Ambulatory (like Naut) |
 | **Chibi Fae** | Mischievous helpers — appear after stones are placed | Chibi Fae NPCs |
 
 ---

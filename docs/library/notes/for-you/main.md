@@ -299,7 +299,7 @@ Foundational: Klimt + Royo | Main Floor: Van Gogh, Picasso, Mapplethorpe, Magrit
 - ✅ Master character assignment document finalized for 399 entries (190 pre-existing portraits, 130+ needing generation, 45+ cryptid candidates).
 - ✅ Tri-mode character asset generation complete for ~60 main cast (all three frequency states).
 - ✅ Shadow (84Hz) versions generated for ALL 12 critters and ALL 32 water monsters — complete.
-- ✅ In-Between version generated for Wednesday (Belladonna).
+- ✅ In-Between version generated for Belladonna (Belladonna).
 - ✅ Cryptid bestiary: 48 cryptids fully generated with both Living (42Hz) + Shadow (84Hz) versions = 96 images:
   - Batch 1 (31): Mothman, Bigfoot, Chupacabra, Jersey Devil, Yeti, Mongolian Death Worm, Flatwoods Monster, Dover Demon, Spring-heeled Jack, Nandi Bear, Skunk Ape, Goatman, Wendigo, Lusca, Owlman of Mawnan, Tulpa, Black Shuck, Manticore, Nuckelavee, Aswang, Mokele-mbembe, Ropen, Bunyip, Kappa, Tsuchinoko, Dobhar-chú, Morgawr, Tatzelwurm, Qilin, Akkorokamuru, Mamlambo
   - Batch 2 (17): Ahool, Altamaha-ha, Buru, Cherufe, Enfield Horror, Minhocão, Mishipeshu, Orang Pendek, Popobawa, Yowie, Yeren, Xiezhi, Mbielu-mbielu-mbielu, Ngoubou, Issie, Strix, Hoan Kiem Turtle
@@ -501,7 +501,7 @@ Foundational: Klimt + Royo | Main Floor: Van Gogh, Picasso, Mapplethorpe, Magrit
   - Only effective treatment: cannabis (illegal in Texas, accessed through friends/"hippies")
   - Krista prefers unmedicated cognitive chaos over medicated fog — chaos is the engine that built the Inn
   - The chaos is the brain routing around the scar — parallel processing instead of sequential, six songs and ten stories playing simultaneously
-- ✅ Wednesday renamed Belladonna (in-between/mixed state character)
+- ✅ Belladonna renamed Belladonna (in-between/mixed state character)
 - ✅ The Echo, The Hollow, The Alchemist, and The Root are the most personal entries — directly telling Krista's medical story through Inn architecture
 - ⬜ Web beta builder still blocked — pending Krista's approval
 - ⬜ Novel expansion and remaining product tasks continue

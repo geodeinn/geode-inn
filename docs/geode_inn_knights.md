@@ -37,7 +37,7 @@ Percival's armor is plain. Unadorned. The armor of a knight who has not yet earn
 
 **What Percival hears:** The Song's note of inquiry. The frequency that exists in the space before understanding — the hum of potential, the vibration of a question that hasn't been answered yet. Percival hears the Song as *music without words.* He can't name it. He can't describe it. He can only say: "...it wants something. ...I don't know what. ...But it wants." The wanting is the note.
 
-**Merlin's observation:** "...The boy asks the right question. ...I know because I *knew* — I remember hearing him ask it. ...Or I will hear him ask it. ...The tense is... [loses it] ...Archimedes, what tense is 'I already remember something that hasn't happened yet'? ...He's preening. ...The preening means the tense doesn't matter. ...The question matters. ...The question is... always."
+**Merlin's observation:** "...The boy asks the right question. ...I know because I *knew* — I remember hearing him ask it. ...Or I will hear him ask it. ...The tense is... [loses it] ...Noctua, what tense is 'I already remember something that hasn't happened yet'? ...He's preening. ...The preening means the tense doesn't matter. ...The question matters. ...The question is... always."
 
 ### Gawain — The Note of the Scar
 

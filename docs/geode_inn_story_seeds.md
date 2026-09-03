@@ -53,7 +53,7 @@ She's lying. She remembers exactly where it came from. She remembers the story, 
 
 ### What the Keeper Knows
 
-The Keeper (Aughra, in the Geode Cave) knows about the story seeds. She has always known. The plants in the bar garden grow at 42Hz — the foundation frequency of the Song of Making. The stories, planted in soil, tended with attention, grow at the Song's frequency. They become part of the Song.
+The Keeper (Fibonacci, in the Geode Cave) knows about the story seeds. She has always known. The plants in the bar garden grow at 42Hz — the foundation frequency of the Song of Making. The stories, planted in soil, tended with attention, grow at the Song's frequency. They become part of the Song.
 
 The Keeper and the Catalyst have never discussed this. The Keeper watches from the Geode Cave. The Catalyst tends the garden. The stories grow into plants. The plants hum at 42Hz. The hum feeds the Song. The Song feeds the Inn. The Inn feeds the players. The players come back to the bar and tell more stories.
 

@@ -224,7 +224,7 @@ A player may concede at any time. The Inn doesn't require you to stay. The leavi
 | **Wandering** | Move to adjacent empty lane | Once per turn |
 | **Threshold** | Gains power each turn in play; transforms at threshold count | End of turn |
 | **Vessel** | Holds a "formula": reveal to trigger powerful effect, then silenced | Active |
-| **Mim** | Once per game: ignore all card text, replace with random effect | Once per game |
+| **Brim** | Once per game: ignore all card text, replace with random effect | Once per game |
 | **Mirror** | Copies target card's text; revealed if targeted by opponent | Passive |
 | **Observer** | All hidden information revealed (both hands visible) | While in play |
 | **Ferry** | Move card from Archive to hand for 1 mana | Once per turn |
@@ -248,13 +248,13 @@ The Cosmic Egg's endgame ability. Once per game, if you have the Cosmic Egg item
 ## WHAT THE MTG/HEARTHSTONE TESTER SHOULD LOOK FOR
 
 1. **Mana curve:** Are zone decks generating enough frequency by turn 3? Turn 5? Are 5-cost cards playable or always dead in hand?
-2. **Keyword balance:** Is Mim (random effect) too swingy? Is Subtractive (sacrifice your own card) too punishing? Is Network (mana ramp) too fast?
+2. **Keyword balance:** Is Brim (random effect) too swingy? Is Subtractive (sacrifice your own card) too punishing? Is Network (mana ramp) too fast?
 3. **Hero power balance:** Are any hero powers auto-pick? Are any never-pick? The Fire power (deal 1, or 2 if a friendly was damaged) may be too strong in Wound decks.
 4. **Silencing vs. destruction:** Does the recovery mechanic (Ferry, Cook, Mourner) make silencing too soft? Or does the 1/1 face-down penalty make it too harsh?
 5. **Alternate win conditions:** Are any too easy to achieve? The Complete Chord (one card from each frequency) seems hard — is it? The Silence Between (all opponent cards Damped) requires board lock — is that achievable?
 6. **Lane positioning:** Do 6 lanes matter enough? Wandering and Gargoyle use them, but does positional play create enough decisions?
 7. **Card tempo:** Cadence (Immediate, Next Turn, Delayed) is the Inn's summoning sickness. Is Next Turn too slow? Is Immediate too fast for high-Presence characters?
-8. **The Mim keyword:** "Once per game, ignore all card text and replace with a random effect" — this is the most chaotic keyword in any card game. An MTG player will immediately ask: "What's the random effect TABLE?" (We need to build that table.)
+8. **The Brim keyword:** "Once per game, ignore all card text and replace with a random effect" — this is the most chaotic keyword in any card game. An MTG player will immediately ask: "What's the random effect TABLE?" (We need to build that table.)
 9. **Deck construction constraints:** 2 copies of Commons/Rares, 1 of Epics/Legendaries, minimum 2 frequencies. Is this restrictive enough to create meta diversity? Too restrictive?
 10. **The Inhabit mechanic:** Is once-per-game perspective stealing balanced? Does it create interesting decisions or just chaos?
 

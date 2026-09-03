@@ -57,9 +57,9 @@ This recontextualizes the Fae Kingdom: it's not just an explorable zone accessed
 
 ### Connection to Merlin
 
-Merlin's prophecies come through dreams. In some traditions, Merlin's visionary power is dream-derived — the prophet who sees the future because the future comes to him in sleep. If Mab = Morrigan, and Mab shapes dreams, then Merlin's prophecies are *Mab's work.* Mab brings Merlin the future in dreams. Merlin lives backward and is losing the future. Mab brings him the future *again*, every night, in dreams. The forgetting and the dreaming are the same cycle — Merlin loses the future while awake and receives it while sleeping. Archimedes doesn't know this. Archimedes should watch Merlin sleep more carefully.
+Merlin's prophecies come through dreams. In some traditions, Merlin's visionary power is dream-derived — the prophet who sees the future because the future comes to him in sleep. If Mab = Morrigan, and Mab shapes dreams, then Merlin's prophecies are *Mab's work.* Mab brings Merlin the future in dreams. Merlin lives backward and is losing the future. Mab brings him the future *again*, every night, in dreams. The forgetting and the dreaming are the same cycle — Merlin loses the future while awake and receives it while sleeping. Noctua doesn't know this. Noctua should watch Merlin sleep more carefully.
 
-**Merlin's observation:** "...I dream the future. ...Or I dream the past. ...The direction is... [loses it] ...the dreams come and they are... clear. ...Clearer than waking. ...In the dreams, I know. ...In waking, I lose it. ...Someone is... [reaching] ...someone is *sending* the dreams. ...Archimedes, who sends the dreams? ...He's preening again. ...The preening means he doesn't know. ...Or he knows and won't say. ...With Archimedes, it's always both."
+**Merlin's observation:** "...I dream the future. ...Or I dream the past. ...The direction is... [loses it] ...the dreams come and they are... clear. ...Clearer than waking. ...In the dreams, I know. ...In waking, I lose it. ...Someone is... [reaching] ...someone is *sending* the dreams. ...Noctua, who sends the dreams? ...He's preening again. ...The preening means he doesn't know. ...Or he knows and won't say. ...With Noctua, it's always both."
 
 ### Connection to the Pomegranate
 

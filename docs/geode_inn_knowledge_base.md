@@ -277,9 +277,9 @@ The entire Inn IS a transducer:
 | Beverley | Archive | Master librarian (Anne Robinson, Australian) | Sharp, dry, precise | "Obviously." |
 | Joe | Studio/Meadery | Miniaturist, paints dragon kittens (Tom Ellis/Lucifer) | Charmingly theatrical | "Delightful." |
 | The Teacher | Archive | Educator (Kathy Bates) | Strict, uncompromising | "Incorrect." |
-| Brim (Mim) | Hearth | Witchy hearth NPC | Mischievous, mirrors formulas | "Watch this." |
+| Brim (Brim) | Hearth | Witchy hearth NPC | Mischievous, mirrors formulas | "Watch this." |
 | Monsieur Sentient | Hearth | Sentient pipe | Existentialist, dry | "Absurd." |
-| Naut (Cthulhu) | Fireplace/Archive | Scholar, riddle giver (4ft squid-headed) | Scholarly, quiet | "Fascinating." |
+| Naut (Naut) | Fireplace/Archive | Scholar, riddle giver (4ft squid-headed) | Scholarly, quiet | "Fascinating." |
 | The Firekeeper | Hearth | Hearth keeper (Tim Curry energy) | Devoted, theatrical | "Tend." |
 | The Catalyst | Hearth | Agent of change | Philosophical, probing | "What changes?" |
 | Selkie | Tidal Caves/Market | Master crafter, jewelry artisan | Master crafter confidence | "Make it true." |
@@ -295,12 +295,12 @@ The entire Inn IS a transducer:
 | The Five Smiths | Staircase | Master metalworkers | Rhythmic hammering | — |
 | The Fixer (Wrought) | Staircase | Mechanical repair | Practical, cynical | — |
 | The Ceiling Gnome (Gesso) | Staircase/Ceiling | Ceiling muralist / Whisper Layer | High-pitched whisper | — |
-| The Augur (Aughra/Keeper) | Clockwork Skies | Diviner / pattern reader | Rasping, ancient seer | — |
+| The Augur (Fibonacci/Keeper) | Clockwork Skies | Diviner / pattern reader | Rasping, ancient seer | — |
 | The Queen of Words | Archive | Master of linguistics | Elegant, crystal-clear | — |
 | Council of Thinkers | Staircase/Cosmology | Tesla, da Vinci, Newton, Einstein | Debating, intellectual | — |
 | The Astronomer | Cosmology | Cosmic mapmaker (Cumberbatch) | Intense, brilliant | — |
 | Merlin & Noctua | Camelot | Arch-mage & owl companion | Deep, ancient, mystical | — |
-| Wednesday (Belladonna) | Main Floor | Cozy gothic resident | Monotone, deadpan, dark humor | — |
+| Belladonna (Belladonna) | Main Floor | Cozy gothic resident | Monotone, deadpan, dark humor | — |
 | The Thrum (Whisper Layer) | All zones | Ambient subconscious entity | Low hum, felt not heard | — |
 
 ### Tier 3: Clockwork Skies Crew (10 Members)
@@ -544,7 +544,7 @@ All entities in Base44 app (ID: 6a60f218b0c6605c92fa35c4):
 
 ### Part Structure
 - **Part 1: The Murmur** (Prologue-7) — Creation myth, Inn arrival, Host, Common Room, first stones
-- **Part 2: The Main Floor** (8-16) — Crone, Catalyst, Mim, Reader, Archive, Music Room, Marketplace, Staircase
+- **Part 2: The Main Floor** (8-16) — Crone, Catalyst, Brim, Reader, Archive, Music Room, Marketplace, Staircase
 - **Part 3: The Descent** (17-24) — Catacombs, Egypt, Greece, Camelot, Norse, Undercity, Fae Kingdom
 - **Part 4: The Ascent** (25-33) — Staircase, Alchemists, Aristotle, Spiral Gallery, Canopy City, Clockwork Skies, Cosmology, Whisper Layer, Einstein
 - **Part 5: The Egg** (34-40) — Deepest chamber, Grand Collision, Three Choices (STAY/LEAVE/HIDE), Final Room, Epilogue
@@ -556,7 +556,7 @@ All entities in Base44 app (ID: 6a60f218b0c6605c92fa35c4):
 - **HIGH:** Council of Thinkers (only Einstein appears)
 - **HIGH:** The Wanderer (only Allfather mentioned)
 - **HIGH:** The Poison Garden not visited
-- **HIGH:** The Keeper (Aughra) absent
+- **HIGH:** The Keeper (Fibonacci) absent
 - **HIGH:** Desert Bone zone not properly visited
 
 ---

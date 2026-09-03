@@ -9,9 +9,9 @@
 
 **Earl Ragnar.** From The Last Kingdom by Bernard Cornwell / the BBC Netflix series. Played by Peter Gantzler.
 
-Not Uhtred. Earl Ragnar is Uhtred's *father* — the man who raised the boy the culture said was an enemy. The man who took a Saxon child and made him a Dane. The man whose warmth was not weakness but the strongest thing about him. Earl Ragnar is the Viking at his best: the feast-giver, the adopter, the man strong enough to be kind in a culture that rewarded cruelty.
+Not The Wayfarer. Earl Ragnar is The Wayfarer's *father* — the man who raised the boy the culture said was an enemy. The man who took a Saxon child and made him a Dane. The man whose warmth was not weakness but the strongest thing about him. Earl Ragnar is the Viking at his best: the feast-giver, the adopter, the man strong enough to be kind in a culture that rewarded cruelty.
 
-Erik was already designed as the warm Norse character — big, loud, the one who drinks with Dushan every evening, the ship-builder, the one who makes you feel welcome from across the room. Earl Ragnar is the deepening of that design. The warmth isn't personality — it's *philosophy.* Erik chose warmth the way Earl Ragnar chose to adopt Uhtred: not because it was easy, but because it was right. And the choice has a reason. The warmth has a wound underneath it.
+Erik was already designed as the warm Norse character — big, loud, the one who drinks with Dushan every evening, the ship-builder, the one who makes you feel welcome from across the room. Earl Ragnar is the deepening of that design. The warmth isn't personality — it's *philosophy.* Erik chose warmth the way Earl Ragnar chose to adopt The Wayfarer: not because it was easy, but because it was right. And the choice has a reason. The warmth has a wound underneath it.
 
 ### The Fire
 
@@ -32,9 +32,9 @@ This connects to:
 
 ### The Adoptive Father
 
-Earl Ragnar's defining act was adoption. He took Uhtred — a boy who should have been his enemy — and raised him as his son. Not out of strategy. Out of *recognition.* He saw a child who needed a father and he became the father. The culture said: this is an enemy. Ragnar said: this is a child.
+Earl Ragnar's defining act was adoption. He took The Wayfarer — a boy who should have been his enemy — and raised him as his son. Not out of strategy. Out of *recognition.* He saw a child who needed a father and he became the father. The culture said: this is an enemy. Ragnar said: this is a child.
 
-Erik does the same thing in the Canopy City. His platform is the feast table — everyone eats, everyone belongs. But the belonging is not generic. Erik *adopts.* He looks at the outcasts who come to the Canopy City — the players, the misfits, the people who didn't fit in their home culture — and he says: you're mine now. Not in a possessive way. In a *father* way. The way Earl Ragnar said it to Uhtred: you're my son. Not because I chose you. Because you needed choosing, and I was here, and that's what I do.
+Erik does the same thing in the Canopy City. His platform is the feast table — everyone eats, everyone belongs. But the belonging is not generic. Erik *adopts.* He looks at the outcasts who come to the Canopy City — the players, the misfits, the people who didn't fit in their home culture — and he says: you're mine now. Not in a possessive way. In a *father* way. The way Earl Ragnar said it to The Wayfarer: you're my son. Not because I chose you. Because you needed choosing, and I was here, and that's what I do.
 
 The adoption is the Norse zone's contribution to the Inn's theme of belonging. The Inn's thesis: outcasts find belonging not by changing but by finding others who operate on their same frequency. Erik's version: you don't find belonging by being worthy of it. You find belonging by someone *claiming* you. By someone saying: you're mine. Not because you earned it. Because you needed it. And I'm the one who gives it.
 

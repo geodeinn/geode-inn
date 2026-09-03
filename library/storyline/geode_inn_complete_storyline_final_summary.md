@@ -30,7 +30,7 @@ Before the Song, there was the Murmur. Not sound — not yet. The Murmur is what
 
 **Einstein & the Observatory** — Magritte painting made architecture. "The Double Secret." Einstein sits in the grey In-Between eating a half-finished burrito. "You are not walking through the Inn. The Inn is walking through you." The mundane IS the cosmic.
 
-**Madame Mim's Pipe** — "Ceci n'est pas une pipe." The Inn's thesis statement: the representation is not the thing.
+**Brim's Pipe** — "Ceci n'est pas une pipe." The Inn's thesis statement: the representation is not the thing.
 
 ---
 
@@ -127,7 +127,7 @@ The Inn's mechanical/rhythmic level. The Arcana ship, the 50 BPM heartbeat, the 
 
 **The Canopy City** — Kelethin-inspired elf tree-platforms. 50 BPM sway. Mycorrhizal network trade hub. 9 cultural platforms, each a gateway to a cultural zone.
 
-**Key Characters:** The Cartographer (4D temporal maps, Tesla's Silver Disc), The Examiner (reads what was, calipers), The Seelie King and Queen (gentle, ancient, occasionally lethal), Aughra (Dark Crystal astronomer).
+**Key Characters:** The Cartographer (4D temporal maps, Tesla's Silver Disc), The Examiner (reads what was, calipers), The Seelie King and Queen (gentle, ancient, occasionally lethal), Fibonacci (Dark Crystal astronomer).
 
 ### LEVEL 3: THE MAIN FLOOR (Midgard)
 **Artist:** Henri Matisse — Joy, color, flow, the heart
@@ -138,14 +138,14 @@ The Inn's social and economic hub. The Arcade, the Wanderer's quests, the growth
 
 **Key Characters:**
 - **The Crone (Hopkins)** — Krista's mother. Archive keeper. Measures everything. "Adequate." Learns to listen to the Song. The Hopkins gaze — clear, seeing, the one unsoftened celebrity feature in Geode Inn art.
-- **The Catalyst (Helena Bonham Carter)** — Bar/garden. Grows portal arrows. Growth by WILL vs. Radagast's growth by COMMUNION. Mrs. Lovett energy. The Spirit.
-- **Madame Mim** — Inner chaos agent. Rides a Magritte pipe. Breaks formulas to reveal secret paths. Wednesday Addams energy.
+- **The Catalyst (Helena Bonham Carter)** — Bar/garden. Grows portal arrows. Growth by WILL vs. The Greenward's growth by COMMUNION. Mrs. Lovett energy. The Spirit.
+- **Brim** — Inner chaos agent. Rides a Magritte pipe. Breaks formulas to reveal secret paths. Belladonna energy.
 - **The Thrum (Ben Whishaw)** — Translucent low-frequency entity. Teaches: essence precedes appearance, timing precedes rhythm.
 - **The Brownies** — Anarcho-syndicalist maintenance commune. 2-foot spirits with brooms/coconut shells. Become Boggarts if contract breached. The Constitutional Peasants (Monty Python coconut shells). The Keeper's Entourage (with Grit).
 - **The Story-Born Ents (4)** — The Wayfarer (travel), The Hearthkeeper (staying), The Mourner (grief), The Laughing One (joy).
 - **The Host (Patrick Stewart)** — Warm, tall, authoritative.
 - **The Bard** — Musician. "inta inta." Krista's father Charles in energy.
-- **Cthulhu the Scholar** — 4-foot squid-headed scholar with spectacles by the fireplace. Hidden quest giver for rare book retrieval. Rewards the rarest stones in the Inn.
+- **Naut the Scholar** — 4-foot squid-headed scholar with spectacles by the fireplace. Hidden quest giver for rare book retrieval. Rewards the rarest stones in the Inn.
 
 **The Arcade & Score Stone** — 7-foot obsidian leaderboard. Core arcade games: Standing Stones (Tetris/England), Tomb Tunnel (Dig Dug/Egypt), Andean Run (Temple Run/Peru), Monster of the Deep (Nessie/Scotland). Zone signature games: The Orrery, All Hands, Bead Board Battle, Bastet's Herding, The Alchemist's Scale, The Deep Read, Market Day + Wolf's Hunt, Stone Circle Resonance, Lighthouse Vigil, The Inn Song. Cultural mini-games: 10 reusable templates mapped to 79 countries with specific cryptids from the lore database.
 
@@ -209,7 +209,7 @@ The Inn's archive layer. Where the Catacombs preserve what was.
 
 **The Tunnel Keeper** — Hoggle archetype. The physical explorer of the Catacombs. Contrasts with the Crone's archival precision.
 
-**The Miskatonic Annex** — Cthulhu the Scholar's domain. Rousseau aesthetic. Academic horror as scholarship.
+**The Miskatonic Annex** — Naut the Scholar's domain. Rousseau aesthetic. Academic horror as scholarship.
 
 ### LEVEL 7: THE FAERIE KINGDOM (Alfheim/Svartalfheim)
 **Artist:** Arthur Rackham — Ink + watercolor, fairy-tale enchantment
@@ -471,13 +471,13 @@ A browsable interactive catalog of all 166 Geode Inn stones. Each stone plays it
 Tesla, Da Vinci, Newton, Einstein — roam the Inn debating. The system generates real-time philosophical conversations based on each thinker's actual positions.
 
 ### Volunteer NPCs
-Oceanianoir (Living Archive), Joe (Vampire Sorcerer/Miniaturist), Katy (Plant Necromancer), Ryan (Meadery bartender), Thorin and Marijke (Mead Hall), Uhtred (Neutralizer).
+Oceanianoir (Living Archive), Joe (Vampire Sorcerer/Miniaturist), Katy (Plant Necromancer), Ryan (Meadery bartender), Thorin and Marijke (Mead Hall), The Wayfarer (Neutralizer).
 
 ### Mythological Figures (15+)
-Anubis, Persephone and Hades, Morrigan and Mab, Loki, Hel, Arthur + Galahad + Merlin, Medusa, Mulan, Gilgamesh and Enkidu, Radagast and Beorn, Miracle Max, Inn-Tree and 4 Ents, Odin's Ravens, Ceiling Gnome (Gesso), Greek Philosophers.
+Anubis, Persephone and Hades, Morrigan and Mab, Loki, Hel, Arthur + Galahad + Merlin, Medusa, Mulan, Gilgamesh and Enkidu, The Greenward and The Bearsark, Miracle Max, Inn-Tree and 4 Ents, Odin's Ravens, Ceiling Gnome (Gesso), Greek Philosophers.
 
 ### Shoulder Companions
-- **Madame Mim (on a pipe)** — The musical principle of improvisation.
+- **Brim (on a pipe)** — The musical principle of improvisation.
 - **The Crested Gecko (The Vessel)** — The musical principle of composition.
 - **The Hearth Tender (Dobby archetype)** — The quiet witness to the Firekeeper. Pairs with Anna as a seer.
 - **The Tunnel Keeper (Hoggle archetype)** — The physical explorer of the Catacombs.

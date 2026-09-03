@@ -29,7 +29,7 @@ The Tinkering Weeaboo visits the cosmology level (if the player has befriended t
 
 > "That's a cabbit. In anime, cabbits transform into ships. That's not a pet. That's a ship. The old man has been carrying his ship around like a cat. That's the most anime thing in this entire Inn."
 
-The Weeaboo grins the Ryuk grin — too-wide, too-bright, the grin of a being who just saw the anime truth in a real thing. ERES looks at the Weeaboo with the cat-eyes. ERES and the Weeaboo look at each other — the creature that IS a ship and the creature who RECOGNIZES ships because anime taught what ships look like when they're hiding.
+The Weeaboo grins the True Form grin — too-wide, too-bright, the grin of a being who just saw the anime truth in a real thing. ERES looks at the Weeaboo with the cat-eyes. ERES and the Weeaboo look at each other — the creature that IS a ship and the creature who RECOGNIZES ships because anime taught what ships look like when they're hiding.
 
 This is the moment the player learns what ERES IS. Not through data (the Examiner's way). Not through frequency (the Astronomer's way). Through ANIME — the feeling lens, the Weeaboo's way of seeing. ERES FEELS like a ship. ERES IS a ship. Anime is a way of seeing. And ERES is the proof.
 

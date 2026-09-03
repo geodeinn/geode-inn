@@ -100,13 +100,13 @@ The Crone measures people. Anubis measures hearts. Same methodology.
 
 The Crone: "...His scale has been right more often than my analysis. Five thousand years of data. I cannot argue with the dataset. Note: approach the Weigher with respect. Do not argue methodology. He will win. He always wins. The feather always wins."
 
-### Anubis & Cthulhu (The Unlikeliest Friendship)
-Anubis, to Cthulhu: "You're not chaos. You're the unknown. Chaos is disorder. The unknown is just the not-yet-known. The feather doesn't weigh chaos. The feather weighs honesty. Are you honest? Yes. Painfully, theatrically, obsessively honest. Your heart, if I weighed it, would be... lighter than you think."
+### Anubis & Naut (The Unlikeliest Friendship)
+Anubis, to Naut: "You're not chaos. You're the unknown. Chaos is disorder. The unknown is just the not-yet-known. The feather doesn't weigh chaos. The feather weighs honesty. Are you honest? Yes. Painfully, theatrically, obsessively honest. Your heart, if I weighed it, would be... lighter than you think."
 
-Cthulhu (full theatrical reaction): "LIGHTER?! I am a COSMIC HORROR! I am the THING IN THE DARK!"
+Naut (full theatrical reaction): "LIGHTER?! I am a COSMIC HORROR! I am the THING IN THE DARK!"
 Anubis (the crinkle): "...That's a librarian with tentacles."
 
-Cthulhu: "...I hate you." / Anubis: "...No, you don't." / Cthulhu: "...No, I don't. Don't tell anyone." / Anubis: "...The Crone already knows." / Cthulhu: "...The Crone always already knows. That's the real cosmic horror."
+Naut: "...I hate you." / Anubis: "...No, you don't." / Naut: "...No, I don't. Don't tell anyone." / Anubis: "...The Crone already knows." / Naut: "...The Crone always already knows. That's the real cosmic horror."
 
 ---
 
@@ -131,7 +131,7 @@ Cthulhu: "...I hate you." / Anubis: "...No, you don't." / Cthulhu: "...No, I don
 | Charon (Greek Zone) | Parallel death guide. Same function, different cultural expression. |
 | The Morrigan | The other chooser. Fate vs. Truth. |
 | The Crone | The other measurer. The Crone measures people; Anubis measures hearts. |
-| Cthulhu/Naut | The unlikeliest friendship. The weigher and the cosmic horror. The heart that is lighter than it thinks. |
+| Naut/Naut | The unlikeliest friendship. The weigher and the cosmic horror. The heart that is lighter than it thinks. |
 | The Host | The Host welcomes the living. Anubis guides the dead. The Host's nod when you return = the Anubis verdict made visible: your heart was light enough. |
 | The Egg Hatchery | Retired characters who migrate to the comic strip echo may pass through the Hall. The weighing continues. |
 | The Nook Effect | The Hall of Ma'at is the ultimate nook — the deepest stillness, the deepest truth. |
@@ -146,7 +146,7 @@ Cthulhu: "...I hate you." / Anubis: "...No, you don't." / Cthulhu: "...No, I don
 - [x] Egyptian death sequence (8 steps) specified
 - [x] "Go lightly" — Anubis's two words
 - [x] Cross-cultural death system established (Greek/Egyptian, expandable)
-- [x] 5 key relationships documented (Charon, Morrigan, Crone, Cthulhu, Host)
+- [x] 5 key relationships documented (Charon, Morrigan, Crone, Naut, Host)
 - [x] Frequency system mapped
 - [x] Connections to all major systems documented
 - [ ] Additional death sequences (Norse, Celtic, Slavic — each cultural zone gets its own)

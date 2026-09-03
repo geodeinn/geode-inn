@@ -21,7 +21,7 @@
 **URL:** https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/2699423c8_generated_image.png
 **Art Direction:** Violin in hand, thought experiments made physical — trains at light speed, clocks at different rates. Shadow state: Observer at Rest, time=0. The mind that made the universe a thought experiment.
 
-### 5. Cthulhu the Scholar
+### 5. Naut the Scholar
 **URL:** https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/d86df5c57_generated_image.png
 **Art Direction:** 4-foot squid-headed scholar with spectacles by the fireplace, reading a rare book. Tentacles hold pages with gentle precision. The cosmic horror who chose books.
 
@@ -45,7 +45,7 @@
 **URL:** https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/62c3cb458_generated_image.png
 **Art Direction:** Split perfectly down the middle — one half living/beautiful/warm, one half skeletal/dark/dead. Throne of frozen roots. Fire on the living side, ice on the dead side. The one who holds both sides of the threshold.
 
-### 11. Madame Mim
+### 11. Brim
 **URL:** https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/de3c7601b_generated_image.png
 **Art Direction:** Mid-transformation — multiple forms simultaneously (raven, snake, flame, human). Magical chaos, fragments spinning. Cauldron of Klimt gold. The one who finds the fun shape and wears it.
 
@@ -57,7 +57,7 @@
 **URL:** https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/441614951_generated_image.png
 **Art Direction:** Apple in one hand, prism in the other. Study of refracted light, skull on desk (memento mori). Shadow state: prism shatters light into too many frequencies. The mind that insisted the universe follows rules.
 
-### 14. The Gardener (Radagast-inspired)
+### 14. The Gardener (The Greenward-inspired)
 **URL:** https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/7cca104f0_generated_image.png
 **Art Direction:** Earth-stained robes, birds in hat, living wood staff. Wild garden defying cultivation. Hedgehog in pocket. Shadow state: garden petrifies. The one who knows the best garden is the one you don't control.
 
@@ -123,7 +123,7 @@
 
 - Batch 1: 16 (8 Shadow Inn instances + 8 Goldmine systems)
 - Batch 2: 16 (8 zone Shadow instances + 8 key characters/systems)
-- Batch 3: 12 (Charon, Astronomer, Tesla, Da Vinci, Medusa, Keeper, Thrum, Vanir, Persephone/Hades, Merlin/Archimedes, Queen of Words, Fixer)
+- Batch 3: 12 (Charon, Astronomer, Tesla, Da Vinci, Medusa, Keeper, Thrum, Vanir, Persephone/Hades, Merlin/Noctua, Queen of Words, Fixer)
 - Batch 4: 28 (28 character concepts — all listed above)
 
 All pushed to GitHub at github.com/geodeinn/geode-inn.

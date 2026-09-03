@@ -9,12 +9,12 @@
 
 **Name:** The Crone's Casting
 **Month:** Launch Month (Month 1)
-**Theme:** Mim, the Crone, has cast three stones into the deep. Each stone is becoming something. The community decides what.
+**Theme:** Brim, the Crone, has cast three stones into the deep. Each stone is becoming something. The community decides what.
 
 **Duration:** 28 days (standard egg lifecycle)
 **Format:** 3 active eggs, community voting, 1 egg hatches per week for first 3 weeks, final week = reveal + echo migration
 
-**Hook:** "Mim says the stones chose what they wanted to be. Mim is lying. The stones chose nothing. You choose. That's the whole trick."
+**Hook:** "Brim says the stones chose what they wanted to be. Brim is lying. The stones chose nothing. You choose. That's the whole trick."
 
 ---
 
@@ -23,7 +23,7 @@
 ### Egg 1: "The Old Smith" (Week 1 hatch)
 **Shell Tier:** Iron — dark, metallic, heavily textured
 **Zone:** Main Floor (forge area)
-**Description:** A stone that Mim found in the forge's deepest ash. It's been cooking for years, absorbing the heat of every fire, every struck piece of metal, every spark that landed wrong. The stone is warm. The stone is patient. The stone wants to be something useful.
+**Description:** A stone that Brim found in the forge's deepest ash. It's been cooking for years, absorbing the heat of every fire, every struck piece of metal, every spark that landed wrong. The stone is warm. The stone is patient. The stone wants to be something useful.
 
 **Community Vote Options:**
 - **NURTURE** (keep it in the Inn): The Old Smith becomes a permanent NPC — a retired blacksmith who lives by the forge and gives metalworking quests. Low-key, warm, smells like iron.
@@ -38,7 +38,7 @@
 ### Egg 2: "The Silent Bard" (Week 2 hatch)
 **Shell Tier:** Crystal — translucent, pale blue, humming faintly at 432Hz
 **Zone:** Common Room
-**Description:** A stone that was once part of a singing bowl. Mim found it in pieces and glued it back together with resin and spite. The stone remembers being part of something that made sound. The stone wants to make sound again.
+**Description:** A stone that was once part of a singing bowl. Brim found it in pieces and glued it back together with resin and spite. The stone remembers being part of something that made sound. The stone wants to make sound again.
 
 **Community Vote Options:**
 - **NURTURE**: The Silent Bard becomes a permanent NPC in the Common Room — a musician who plays background music for chat sessions. The Bard's instrument changes based on the room's acoustic profile.
@@ -112,7 +112,7 @@ While an egg is active in a zone:
 | signatureThreshold | 50 | 75 | 100 |
 | signatureCount | 0 | 0 | 0 |
 | voteCount | 0 | 0 | 0 |
-| creatorName | Mim | Mim | Mim |
+| creatorName | Brim | Brim | Brim |
 | creatorPlayerId | system | system | system |
 | questlineSteps | ["forge_01", "forge_02", "forge_03"] | ["bard_01", "bard_02"] | ["sentinel_06_01", "sentinel_06_02", "sentinel_06_03"] |
 | resonanceScore | 42 | 432 | 0 (unmeasured) |

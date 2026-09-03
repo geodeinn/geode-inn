@@ -53,4 +53,4 @@ The Inn asks: will you *stay*?
 ## Related
 - [[geode-inn-comic]] — player adventures archived as visual stories
 - Tri-mode game dynamic (Living 42Hz / Shadow 84Hz / In-Between)
-- The Storyteller (Tim Curry cadence) and Octoscholar (Cthulhu) as core NPCs
+- The Storyteller (Tim Curry cadence) and Octoscholar (Naut) as core NPCs

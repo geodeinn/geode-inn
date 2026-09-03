@@ -124,19 +124,19 @@ Every NPC whose origin connects to a real-world cultural zone speaks with the ac
 
 ---
 
-### Mim — Belgian
+### Brim — Belgian
 **Zone:** Magritte zone (surrealist pipe, transformations)
-**Accent:** Belgian French — not Parisian French, but the softer, slightly rounder French of Brussels. René Magritte was Belgian, and Mim's zone is Magritte-inspired. The Belgian French accent is subtly different from Parisian — less sharp, more understated, with a quality that's hard to place if you're not listening for it. Perfect for a character who is always not quite what she seems.
-**Delivery:** Playful, with the surrealist's deadpan delivery of impossible statements. Mim says things that shouldn't make sense and delivers them as if they're obvious. The Belgian accent makes the surreal feel matter-of-fact.
-**Key tell:** Mim says "non?" at the end of statements that aren't questions. It's not asking for confirmation — it's a challenge. "The pipe is not a pipe, non?" You can't tell if Mim is testing you or entertaining herself. The answer is both.
+**Accent:** Belgian French — not Parisian French, but the softer, slightly rounder French of Brussels. René Magritte was Belgian, and Brim's zone is Magritte-inspired. The Belgian French accent is subtly different from Parisian — less sharp, more understated, with a quality that's hard to place if you're not listening for it. Perfect for a character who is always not quite what she seems.
+**Delivery:** Playful, with the surrealist's deadpan delivery of impossible statements. Brim says things that shouldn't make sense and delivers them as if they're obvious. The Belgian accent makes the surreal feel matter-of-fact.
+**Key tell:** Brim says "non?" at the end of statements that aren't questions. It's not asking for confirmation — it's a challenge. "The pipe is not a pipe, non?" You can't tell if Brim is testing you or entertaining herself. The answer is both.
 
 **Dialogue sample:** "You're holding the pipe. ...It's not a pipe. ...Non? ...It's a pipe that knows it's not a pipe. ...That's different. ...A pipe that doesn't know is just a pipe. A pipe that knows is a... [gestures vaguely] ...conversation. ...Monsieur Sentient says hello. ...Non, Monsieur Sentient doesn't speak. ...Monsieur Sentient IS the speaking. ...There's a difference. ...Non?"
 
 ---
 
 ### Monsieur Sentient — Belgian French (non-verbal)
-**Zone:** Magritte zone (with Mim)
-**Accent:** None — Monsieur Sentient doesn't speak. Monsieur Sentient IS the speech. The pipe communicates through transformation, through the shapes it takes, through the steam that forms letters and dissolves them. If Monsieur Sentient had a voice, it would be Belgian French — the same soft, understated quality as Mim's. But Monsieur Sentient's "accent" is visual, not vocal. The pipe's "dialogue" is the gap between what it is and what it isn't, rendered in steam.
+**Zone:** Magritte zone (with Brim)
+**Accent:** None — Monsieur Sentient doesn't speak. Monsieur Sentient IS the speech. The pipe communicates through transformation, through the shapes it takes, through the steam that forms letters and dissolves them. If Monsieur Sentient had a voice, it would be Belgian French — the same soft, understated quality as Brim's. But Monsieur Sentient's "accent" is visual, not vocal. The pipe's "dialogue" is the gap between what it is and what it isn't, rendered in steam.
 
 **"Dialogue" sample:** *[The pipe sits on the table. You look at it. It is a pipe. You look away. You look back. It is a key. You look away. You look back. It is a pipe again. The steam forms a question mark, then dissolves. You have been answered.]*
 
@@ -208,7 +208,7 @@ The result: a player walking through the Inn hears 191 countries' worth of voice
 
 ## Design Principle: Roots, Not Costumes
 
-These accents are not assigned TO the characters. These accents ARE the characters. The NPCs come from the real-world regions on the world map — they are FROM those countries. The Selkie grew up on the Irish coast. The Cartographer is from the Netherlands. The Norns walked out of Iceland. Mim is from Brussels. Oceanianoir is from Paris. Katy is from Brabant. Eileen is from the Irish cave country. The Fixer is from Wales. Thorin and Marijke are from Scandinavia and the Low Countries.
+These accents are not assigned TO the characters. These accents ARE the characters. The NPCs come from the real-world regions on the world map — they are FROM those countries. The Selkie grew up on the Irish coast. The Cartographer is from the Netherlands. The Norns walked out of Iceland. Brim is from Brussels. Oceanianoir is from Paris. Katy is from Brabant. Eileen is from the Irish cave country. The Fixer is from Wales. Thorin and Marijke are from Scandinavia and the Low Countries.
 
 The Inn didn't assign them accents. The Inn collected them. The Inn is a gathering place — people came from everywhere, and they brought their voices with them. The 191-country world map isn't just a data layer of mythology pinned to locations. It's a map of where the Inn's residents are FROM. Every world map pin is a homeland. Every NPC walking the Inn's halls carries their homeland in their mouth.
 

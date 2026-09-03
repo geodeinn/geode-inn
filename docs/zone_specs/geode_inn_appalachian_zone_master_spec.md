@@ -10,7 +10,7 @@ The Appalachian Range is 300 million years old — older than the Himalayas, old
 The zone is structured as FIVE LAYERS — five strata of Fae, each representing a different era of the range's life, from the deepest bedrock (the Gnomes, who remember when the mountains were taller than the Himalayas) to the surface canopy (the Sylphs, who live in the wind that has worn the peaks down). Each layer is deeper, older, more patient.
 
 **Access:** Main Floor → World Map → Appalachian Range pin
-**Prerequisite:** Mediterranean Zone Quest 5 (Beorn's border crossing)
+**Prerequisite:** Mediterranean Zone Quest 5 (The Bearsark's border crossing)
 **Art Style:** Thomas Hart Benton (the muscular, flowing landscape style — earth as movement frozen in form)
 
 ---
@@ -82,7 +82,7 @@ The zone's design principle: erosion is not loss. Erosion is the mountain's gift
 | The Fae Kingdom | The Appalachian Fae are the American expression of the Fae Kingdom. The Gnomes are the deep-earth cousins of the Fae Kingdom's underground species. The ley line network connects the Appalachian stone formations to the European stone circles. |
 | The Bayou Zone | Both are American zones. The Bayou represents biological time and the maker's in-between. The Appalachians represent geological time and the mountain's patience. Together: the American zone's two temporal poles — biological and geological. |
 | The Nook Effect | The Appalachian zone is DESIGNED for long SITs. The zone's tempo is SLOW. The pilgrim walk (Quest 4) is built for the Nook Effect — the player who walks slowly and sits in each layer experiences the zone's full depth. |
-| The Questioner's Awakening (Aughra Questline) | Quest 1 requires the Questioner's Awakening to see the mountains at their original height. The Gnome King's memory is visible only through the Awakening. |
+| The Questioner's Awakening (Fibonacci Questline) | Quest 1 requires the Questioner's Awakening to see the mountains at their original height. The Gnome King's memory is visible only through the Awakening. |
 | The Stone Database | The Appalachian Stone (Quest 5 reward) — vibrates once per year, the slowest stone frequency in the Inn — goes into the Stone entity with unique properties. |
 | The World Grid | The Appalachian zone connects to the World Grid as one of the 9 exterior regions. The Trailkeeper's pilgrim path (Quest 4) is a World Grid travel route. |
 

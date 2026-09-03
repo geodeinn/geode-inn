@@ -3,7 +3,7 @@
 
 ## Overview
 
-Every Inn needs a host. The Geode Inn has the Keeper (the archive, the memory engine, Aughra with Maggie Smith's wit and Judi Dench's regal cadence), but the Keeper is *behind* the counter. She's in the Geode Cave, tending the Song. She's not the one who greets you at the door.
+Every Inn needs a host. The Geode Inn has the Keeper (the archive, the memory engine, Fibonacci with Maggie Smith's wit and Judi Dench's regal cadence), but the Keeper is *behind* the counter. She's in the Geode Cave, tending the Song. She's not the one who greets you at the door.
 
 The Innkeeper is the one who greets you. The first face you see. The voice that says "come in, you're safe here." The calm, patient, ever-steady presence that makes a vast, strange, magical space feel like home. He is the host. And his energy is Patrick Stewart — specifically, the Picard/Xavier quality: intellectual gravitas, diplomatic patience, warmth without softness, and power expressed as *welcome* rather than authority.
 
@@ -33,7 +33,7 @@ The Host is found in two places:
 
 **Calm is not weakness. This is the core.**
 
-The Host is the calmest person in the Inn. Nothing rattles him. Not the Allfather's silence. Not the Morrigan's arrival. Not the Unseelie Court's shade. Not Cthulhu sprawling by the fire with ink on his spectacles. Not a player arriving bleeding from the Fae Kingdom with three frog curses on them. The Host looks at all of it, nods, and says: "Sit down. Let me see that. ...It's not as bad as it looks. Most things aren't."
+The Host is the calmest person in the Inn. Nothing rattles him. Not the Allfather's silence. Not the Morrigan's arrival. Not the Unseelie Court's shade. Not Naut sprawling by the fire with ink on his spectacles. Not a player arriving bleeding from the Fae Kingdom with three frog curses on them. The Host looks at all of it, nods, and says: "Sit down. Let me see that. ...It's not as bad as it looks. Most things aren't."
 
 The calm comes from three sources:
 

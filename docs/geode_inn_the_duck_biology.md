@@ -101,7 +101,7 @@ Male platypuses have venomous spurs on their hind legs. The venom is produced on
 
 ### In the Inn
 
-The Duck is venomous. The player doesn't know this for a long time. The Duck is cute, irresistible, universally beloved — and the Duck has venomous spurs. The venom is the Duck's SECRET — the depth beneath the surface, the danger beneath the cuteness, the Wednesday Addams quality of a creature that looks harmless and ISN'T.
+The Duck is venomous. The player doesn't know this for a long time. The Duck is cute, irresistible, universally beloved — and the Duck has venomous spurs. The venom is the Duck's SECRET — the depth beneath the surface, the danger beneath the cuteness, the Belladonna quality of a creature that looks harmless and ISN'T.
 
 The venom only activates under specific conditions (real biology: breeding season only). In the Inn, the Duck's venom activates when the FOREST IS THREATENED. The Duck, who lives in the Redwood Cathedral, who builds no pit houses but lives among the redwoods, who steals from everyone but harms nothing — the Duck becomes venomous when something tries to harm the forest. The Duck's cuteness is the surface. The Duck's venom is the guard.
 

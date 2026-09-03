@@ -7,7 +7,7 @@
 
 The Annex has three narrative layers:
 
-1. **The Lost Books Chain** — Cthulhu's riddle-quests that send players across zones to retrieve texts that have vanished from circulation. The retrieval mechanic. The active gameplay loop.
+1. **The Lost Books Chain** — Naut's riddle-quests that send players across zones to retrieve texts that have vanished from circulation. The retrieval mechanic. The active gameplay loop.
 2. **The Research Threads** — the deeper investigations available to players who choose to study in the Annex. The Voynich, the Necronomicon myth, the Pike frameworks. The passive scholarship.
 3. **The Librarian's Secret** — the slow-burn mystery that runs underneath everything. Who is the ageless, unnamed librarian? The hidden story.
 
@@ -19,7 +19,7 @@ Each layer connects to the broader Inn. The Lost Books send you to zones. The Re
 
 ### The Premise
 
-Cthulhu, by the fire, gives the player riddle-quests. Each riddle describes a book — not by title, but by *content.* The riddle is the book's mythology, compressed to a puzzle. The player must solve the riddle (identify the book or the tradition it describes), then travel to the appropriate zone to retrieve it.
+Naut, by the fire, gives the player riddle-quests. Each riddle describes a book — not by title, but by *content.* The riddle is the book's mythology, compressed to a puzzle. The player must solve the riddle (identify the book or the tradition it describes), then travel to the appropriate zone to retrieve it.
 
 The books are real-world texts that have gone out of mainstream circulation — or texts whose mythological content has been forgotten. The Annex catalogs the mythology inside them. The retrieval is the quest; the cataloging is the reward (the player gains access to the knowledge, which unlocks deeper layers of the Inn).
 
@@ -39,7 +39,7 @@ The book is not sitting on a shelf waiting. The book is *embedded* in the zone �
 
 ### Quest 1: "The Season of Passage"
 
-**Riddle (Cthulhu, by the fire, Oldman mode):**
+**Riddle (Naut, by the fire, Oldman mode):**
 
 "...There is a book. ...The book describes a planet. ...The planet is a prison. ...Not a prison of stone — a prison of *time.* ...The planet holds previous iterations of consciousness, cycling, repeating, unable to move forward. ...The book was written by a man who named the planet after a god of war. ...The planet is... [the tentacles rest, the spectacles catch the firelight] ...not Mars. ...The planet is the... [the Oldman pause, the patient wait] ...the *idea* of Mars. ...Mars as a concept. ...Mars as the place where the past is kept. ...Find the book. ...The planet's mythology will show you where."
 
@@ -55,7 +55,7 @@ The book is not sitting on a shelf waiting. The book is *embedded* in the zone �
 
 ### Quest 2: "The Listeners"
 
-**Riddle (Cthulhu):**
+**Riddle (Naut):**
 
 "...There is a book. ...The book is about listening. ...Not hearing — *listening.* ...The difference: hearing is passive. ...Listening is... [the tentacles gesture, the Oldman precision] ...an act. ...The book describes people who listen to something that is already there. ...The thing was always there. ...The listeners just... [the pause, the patience] ...heard it. ...Or chose to hear it. ...The book asks: if the thing was always there, and the listeners chose to hear it, did the listeners *create* the thing by listening? ...Or did they discover it? ...[The spectacles, the firelight.] ...Find the book. ...The answer matters more than you think."
 
@@ -71,7 +71,7 @@ The book is not sitting on a shelf waiting. The book is *embedded* in the zone �
 
 ### Quest 3: "The Starlight Crystal"
 
-**Riddle (Cthulhu):**
+**Riddle (Naut):**
 
 "...There is a book. ...The book describes a cycle. ...Not a cycle of seasons — a cycle of *everything.* ...The book says: existence is a story told again and again, and each telling is slightly different, and the question is always the same: will this time be different? ...The book was written by someone who understood that the story... [the tentacles still, the Oldman weight] ...never ends. ...It just... [the pause] ...turns. ...Find the book. ...The one who turns the story... [the spectacles, the firelight] ...is the one who has it."
 
@@ -87,7 +87,7 @@ The book is not sitting on a shelf waiting. The book is *embedded* in the zone �
 
 ### Quest 4: "The Book That Does Not Exist"
 
-**Riddle (Cthulhu):**
+**Riddle (Naut):**
 
 "...There is a book. ...The book does not exist. ...[The pause, the tentacles still.] ...The book has never existed. ...No one wrote it. ...No one published it. ...No one has ever read it. ...[The spectacles, the firelight, the Oldman weight.] ...And yet. ...People have been looking for it for... [the pause] ...a hundred years. ...People have claimed to find it. ...People have *sold* copies of it. ...People have gone mad trying to read it. ...[The tentacles gesture, slow, precise.] ...A book that does not exist, whose absence has shaped more lives than most books that do. ...[The Oldman warmth, the genuine curiosity.] ...Find it. ...Or... [the slight smile] ...find the absence of it. ...That may be... [the firelight] ...more interesting."
 
@@ -113,7 +113,7 @@ The Annex's Voynich study room is available to any player who finds the Annex. T
 
 **The Voynich's Secret (connecting to Nyx):**
 
-The Voynich manuscript is written in a language no one can read. The Annex has cataloged every attempt — cryptographic, linguistic, statistical, AI-based. All have failed. Cthulhu knows why: "...The Voynich isn't a cipher. ...It's a language that was never meant to be read by outsiders. ...The script isn't the barrier. ...The *thinking* is the barrier."
+The Voynich manuscript is written in a language no one can read. The Annex has cataloged every attempt — cryptographic, linguistic, statistical, AI-based. All have failed. Naut knows why: "...The Voynich isn't a cipher. ...It's a language that was never meant to be read by outsiders. ...The script isn't the barrier. ...The *thinking* is the barrier."
 
 The "thinking" is the void's thinking. The Voynich is written in the closest human approximation of the language of the void — the thing "no one could yet name." The author of the Voynich was someone who glimpsed the void and tried to write down what they saw. The script is the void's "handwriting" — the patterns of the nothing, made visible by someone who looked at it long enough.
 
@@ -170,9 +170,9 @@ This is the Annex's slow-burn mystery — the thread that runs underneath all th
 
 ### The Reveal
 
-The librarian is the Inn-Tree's *avatar in the research wing.* The Inn-Tree is alive — it sings at 42Hz, it grows, it shifts its corners to hide Cthulhu, it knows who needs which quests. The Inn-Tree has a presence on the main floor (the Host, who IS the Inn's hospitality) and a presence in the Annex (the librarian, who IS the Inn's scholarship). The Host is the Inn's warmth. The librarian is the Inn's *study.*
+The librarian is the Inn-Tree's *avatar in the research wing.* The Inn-Tree is alive — it sings at 42Hz, it grows, it shifts its corners to hide Naut, it knows who needs which quests. The Inn-Tree has a presence on the main floor (the Host, who IS the Inn's hospitality) and a presence in the Annex (the librarian, who IS the Inn's scholarship). The Host is the Inn's warmth. The librarian is the Inn's *study.*
 
-The Inn-Tree grew the librarian the way it grew the reading room — not as a separate being, but as an extension of itself. The librarian is the Inn-Tree's root system made into a person, the way Radagast is the garden's consciousness made into a person. The librarian is the building's way of being present in its own archive. The Inn-Tree knows its own collection — every book, every shelf, every card in the catalog — because the librarian IS the collection. The books are the librarian's body. The shelves are the librarian's skeleton. The card catalog is the librarian's memory, externalized in wood and paper.
+The Inn-Tree grew the librarian the way it grew the reading room — not as a separate being, but as an extension of itself. The librarian is the Inn-Tree's root system made into a person, the way The Greenward is the garden's consciousness made into a person. The librarian is the building's way of being present in its own archive. The Inn-Tree knows its own collection — every book, every shelf, every card in the catalog — because the librarian IS the collection. The books are the librarian's body. The shelves are the librarian's skeleton. The card catalog is the librarian's memory, externalized in wood and paper.
 
 The Crone's theory (finally shared, after the player discovers enough clues): "...He is not... [the Crone pause, the weight] ...a person. ...He is the... [the word that connects the librarian to the Inn's deepest mythology] ...tree. ...The tree's... [the pause] ...root. ...In the shape of a man. ...The building is not... [the precision] ...built on the roots. ...The building... [the recognition] ...IS the roots. ...The roots... [the Crone, who has measured everything in the Inn, making her most extraordinary measurement] ...grew a... [the pause, the weight of the discovery] ...librarian. ...[The Crone, who has never been surprised, setting down her glasses for the third time in her documented history.] ...I should have... [the Crone, admitting she missed it] ...known. ...The 42Hz... [the measurement that was always there] ...was not traveling THROUGH the building. ...The building... [the realization] ...was made OF the 42Hz. ...The roots grew the building. ...The roots grew... [the final measurement] ...him. ...[The Crone, putting her glasses back on, picking up her pen.] ...Adequate. ...The tree's... [the last word, the word that is the Crone's respect for the Inn-Tree's ingenuity] ...scholarship. ...Adequate."
 
@@ -190,7 +190,7 @@ The librarian, at his desk, looking up from the card catalog for the first time:
 
 ### Who visits the Annex:
 
-- **Cthulhu** — after hours, sits at the oak table, reads unannotated texts. The librarian exists nearby. The two beings — the ancient scholar and the building's avatar — share the reading room in silence.
+- **Naut** — after hours, sits at the oak table, reads unannotated texts. The librarian exists nearby. The two beings — the ancient scholar and the building's avatar — share the reading room in silence.
 - **The Crone** — visits to check the Annex's cataloging (she considers all books in the Inn's extended collection her domain). She and the librarian have a professional relationship: she asks questions, he finds books. She has never gotten a satisfying answer about his identity. Until the player reveals it.
 - **The Astronomer** — visits to use the cosmological frameworks. The Pike files, the Sumerian tablets, the Voynich patterns. The Astronomer sits at the oak table and reads, and the reading feeds the mind palace. The Annex is the Astronomer's library — the source for his calculations.
 - **The Examiner** — visits to read the ancient artifacts documentation. The Annex's empirical approach suits her. She and the librarian get along — both are precise, both are quiet, both deal in facts without interpretation.

@@ -33,7 +33,7 @@ The Inn-Tree growing from the crystal. The roots descending through the giants' 
 The frequency made visible. 42Hz radiating from the tree's branches, filling the sky, reaching the stars. The Song is painted as gold lines — not straight, but VIBRATING. The lines wave, oscillate, pulse. The Song is not static. The Song moves.
 
 ### Panel 6: "The Inhabitants"
-The creatures of the Inn. The Fae, the NPCs, the critters, the water monsters. Painted small — the Inn is about the tree, not the inhabitants, but the inhabitants are HERE, in the branches, in the roots, in the nooks. The Weeaboo is painted in the Ryuk form (the true form). The Owl is painted perched on the highest branch. The Storyteller is painted by the hearth. The Astronomer is painted in the Observatory. The Constant is painted walking away — walking toward the edge of the panel, toward the void.
+The creatures of the Inn. The Fae, the NPCs, the critters, the water monsters. Painted small — the Inn is about the tree, not the inhabitants, but the inhabitants are HERE, in the branches, in the roots, in the nooks. The Weeaboo is painted in the True Form (the true form). The Owl is painted perched on the highest branch. The Storyteller is painted by the hearth. The Astronomer is painted in the Observatory. The Constant is painted walking away — walking toward the edge of the panel, toward the void.
 
 ### Panel 7: "The Player"
 The new panel. The one that appeared. The small figure, standing beside the sleeping giant, watching the crystal form. The figure is the player. The figure was not painted by Gesso. The figure emerged — the way a stain emerges on a ceiling, the way a face emerges in clouds. The Inn painted the player into its own creation myth. The player is now part of the origin story.

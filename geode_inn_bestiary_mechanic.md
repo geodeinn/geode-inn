@@ -27,7 +27,7 @@ The Geode Inn functions simultaneously as a game hub and a global mythological a
 |  | < Discovery State: Mastered >   |  |  She sings because the shore is quiet, |  |
 |  |                                 |  |  and quiet is a dangerous thing..."    |  |
 |  +---------------------------------+  +----------------------------------------+  |
-|  [Page 104/1268]                     [ Scholarly Mode: OFF (Cthulhu Quest 0) ]    |
+|  [Page 104/1268]                     [ Scholarly Mode: OFF (Naut Quest 0) ]    |
 +-----------------------------------------------------------------------------------+
 ```
 
@@ -40,7 +40,7 @@ The Geode Inn functions simultaneously as a game hub and a global mythological a
    - **Fae Court Alignment**: Seelie (Summer/Light) vs. Unseelie (Winter/Dark) for Alfheim/Svartalfheim entities.
    - **Presence Scale**: Full Presence (boss/mythic scale) vs. Chibi (common/compact encounters).
    - **Frog Transformation Moderation**: Documentation of frog-curse triggers and community self-defense rites.
-   - **Scholarly Mode**: A 3-quest chain led by Cthulhu the Scholar that unlocks deep mythological root context, comparative folklore, and frequency counters.
+   - **Scholarly Mode**: A 3-quest chain led by Naut the Scholar that unlocks deep mythological root context, comparative folklore, and frequency counters.
 
 ---
 
@@ -157,12 +157,12 @@ interface BestiaryEntry {
     foreshadowing: string;            // Hint toward broader Inn mysteries
   };
 
-  // Scholarly Mode (Unlocked via Cthulhu Quest Chain)
+  // Scholarly Mode (Unlocked via Naut Quest Chain)
   scholarlyMode: {
     unlockedLevel: 0 | 1 | 2 | 3;     // 0 = Locked, 1 = Etymology, 2 = Comparative, 3 = Root
     etymology?: string;               // Unlocked by Quest 1
     comparativeFolklore?: string;     // Unlocked by Quest 2
-    primordialRootText?: string;      // Unlocked by Quest 3 (Cthulhu's personal commentary)
+    primordialRootText?: string;      // Unlocked by Quest 3 (Naut's personal commentary)
   };
 
   // Collection State
@@ -199,7 +199,7 @@ In the entry view, water creatures feature a horizontal gauge bar with illuminat
 - **Layer 4 (Underground River)**: e.g., Charon's River Serpent, Styx Nixie
 - **Layer 5 (Deep Water)**: e.g., The Siren, Nessie, Bunyip, Lindwurm
 - **Layer 6 (Atlantis)**: e.g., Merfolk Scholar, Deep Kraken
-- **Layer 7 (Crystal Core)**: e.g., Primordial Leviathan, Cthulhu's True Aspect
+- **Layer 7 (Crystal Core)**: e.g., Primordial Leviathan, Naut's True Aspect
 
 ---
 
@@ -231,7 +231,7 @@ The Geode Inn balances grand mythic scale with warm accessibility through a dual
 
 1. **Full Presence (Boss / Mythic Scale)**:
    - High-fidelity visual presentation, custom atmospheric lighting, intricate animation rigs.
-   - Reserved for major narrative anchors: *The Siren, Medusa, Odin, Charon, Cthulhu, The Griffin, Anubis, The Morrigan*.
+   - Reserved for major narrative anchors: *The Siren, Medusa, Odin, Charon, Naut, The Griffin, Anubis, The Morrigan*.
    - Entry features full 3D interactive preview and detailed harmonic weakness matrices.
 
 2. **Chibi (Common Encounters / Expressive Folk)**:
@@ -280,7 +280,7 @@ Discovering and cataloging creatures is a central gameplay loop in the Geode Inn
 |  [2. SIGHTED]     --> Pencil Sketch, Country of Origin, Zone Location           |
 |  [3. ENCOUNTERED] --> Full Render, Basic HP/Atk, Rothfuss Lore Text Unlocked    |
 |  [4. MASTERED]    --> Full Stat Matrix, Resonant Frequency, Drop Rates Unlocked |
-|  [5. SCHOLARLY]   --> Cthulhu's Footnotes, Etymology, Primordial Root Text     |
+|  [5. SCHOLARLY]   --> Naut's Footnotes, Etymology, Primordial Root Text     |
 +---------------------------------------------------------------------------------+
 ```
 
@@ -288,7 +288,7 @@ Discovering and cataloging creatures is a central gameplay loop in the Geode Inn
 - **Sighted**: Spotting a creature through the Spyglass, seeing its shadow in deep water, or reading its name in a library scroll.
 - **Encountered**: Engaging in dialogue, entering combat, or surviving an encounter.
 - **Mastered**: Defeating/befriending the creature 5 times, solving its riddle, or harvesting its harmonic stone.
-- **Scholarly Mastered**: Completing Cthulhu’s 3-stage book retrieval quest chain and reading the creature's ancient folio in the Miskatonic Annex.
+- **Scholarly Mastered**: Completing Naut’s 3-stage book retrieval quest chain and reading the creature's ancient folio in the Miskatonic Annex.
 
 ### 5.2 Visual & Audio Feedback
 When a new creature is added or elevated to a higher discovery state:
@@ -298,10 +298,10 @@ When a new creature is added or elevated to a higher discovery state:
 
 ---
 
-## 6. Cthulhu's Scholarly Quest Chain
+## 6. Naut's Scholarly Quest Chain
 
-### 6.1 Character Profile: Cthulhu the Scholar
-Cthulhu sits by the fireplace in the Catacombs / Miskatonic Annex—a 4-foot squid-headed academic wearing brass spectacles, sipping tea, and peering through ancient folios.
+### 6.1 Character Profile: Naut the Scholar
+Naut sits by the fireplace in the Catacombs / Miskatonic Annex—a 4-foot squid-headed academic wearing brass spectacles, sipping tea, and peering through ancient folios.
 
 - **Dual Cadence Voice**:
   - *Spectacles ON*: Gary Oldman—mild-mannered, erudite, soft-spoken, deeply encouraging of human curiosity.
@@ -332,7 +332,7 @@ Cthulhu sits by the fireplace in the Catacombs / Miskatonic Annex—a 4-foot squ
 #### Quest 1: "The Dust on the Folios"
 - **Location**: Miskatonic Annex / Catacomb Archives
 - **Objective**: Locate 3 missing parchment folios scattered among the gargoyle perches on the Staircase.
-- **Cthulhu's Dialogue**:
+- **Naut's Dialogue**:
   > *"People assume madness comes from knowing too much... A charming misunderstanding. Madness comes from knowing only half a sentence and filling the rest with terror. Bring me the folios from the staircase. Let us finish the thought, shall we?"*
 - **Bestiary Unlock**: Unlocks **Scholarly Mode Level 1** (Etymology and native linguistic roots for all cataloged creatures).
 
@@ -341,7 +341,7 @@ Cthulhu sits by the fireplace in the Catacombs / Miskatonic Annex—a 4-foot squ
 #### Quest 2: "Comparative Mythologies of the Submerged"
 - **Location**: Layer 6 Atlantis / The Drowned Library
 - **Objective**: Dive into Layer 6 wearing the Merfolk form and retrieve the *Submerged Codex of Tides*.
-- **Cthulhu's Dialogue**:
+- **Naut's Dialogue**:
   > *"The surface dwellers think every water monster is a leviathan waiting to swallow their ships... But if you listen at four hundred and thirty-two hertz, you realize they are merely complaining about the noise on the surface. Fetch the codex from Atlantis. Let us read what they wrote when the water was still clear..."*
 - **Bestiary Unlock**: Unlocks **Scholarly Mode Level 2** (Comparative cross-mythology mapping, depth resonances, and exact drop tables for all 78 water creatures).
 
@@ -350,10 +350,10 @@ Cthulhu sits by the fireplace in the Catacombs / Miskatonic Annex—a 4-foot squ
 #### Quest 3: "The Language Before the Song"
 - **Location**: Layer 7 Crystal Core / Stone Circle Chamber
 - **Objective**: Escort a resonant amber gargoyle to the Crystal Core root and transcribe the *Starlight Inscription*.
-- **Cthulhu's Dialogue**:
+- **Naut's Dialogue**:
   > *(Adjusts spectacles, voice dropping an octave into resonant bass)*  
   > *"Before there was an Inn, before there was a tree, there was a frequency carrying a memory across the dark... You have cataloged their names and their teeth. Now learn what they were called before men had tongues to mispronounce them."*
-- **Bestiary Unlock**: Unlocks **Scholarly Mode Level 3** (Cthulhu's personal primordial annotations, true frequency hard counters, and the gold-embossed Scholarly Mode UI Toggle).
+- **Bestiary Unlock**: Unlocks **Scholarly Mode Level 3** (Naut's personal primordial annotations, true frequency hard counters, and the gold-embossed Scholarly Mode UI Toggle).
 
 ---
 
@@ -498,7 +498,7 @@ const stats = await aggregate_entities({
 
 ## 8. Sample Bestiary Entries (Tabletop Narrative Voice)
 
-Below are four complete, fully formatted Bestiary entries demonstrating the specific narrative tone (*Patrick Rothfuss / The Name of the Wind* style), UI flags, depth gauges, court alignments, and Cthulhu scholarly annotations.
+Below are four complete, fully formatted Bestiary entries demonstrating the specific narrative tone (*Patrick Rothfuss / The Name of the Wind* style), UI flags, depth gauges, court alignments, and Naut scholarly annotations.
 
 ---
 
@@ -528,11 +528,11 @@ Below are four complete, fully formatted Bestiary entries demonstrating the spec
 | If you meet her in the deep water of Layer 5, do not draw a sword. A blade moves slowly through|
 | four hundred fathoms. Sing back to her. Even a broken note will do."                           |
 |------------------------------------------------------------------------------------------------|
-| SCHOLARLY MODE ANNOTATIONS (Unlocked via Cthulhu Quest 2):                                     |
+| SCHOLARLY MODE ANNOTATIONS (Unlocked via Naut Quest 2):                                     |
 | Etymology: Greek 'Seirēn' — related to 'seira' (cord/rope), literal meaning: 'That which binds' |
 | Depth Ecology: Inhabits Layer 2 during solar noon to lure surface craft; descends to Layer 5   |
 | during low tide to rest among the submerged abyssal monuments.                                  |
-| Cthulhu's Note: "Her song is simply an uncalibrated harmonic frequency from the first cycle.  |
+| Naut's Note: "Her song is simply an uncalibrated harmonic frequency from the first cycle.  |
 | She is not malicious; she is merely lonely at a frequency humans cannot digest without choking."|
 ==================================================================================================
 ```
@@ -562,10 +562,10 @@ Below are four complete, fully formatted Bestiary entries demonstrating the spec
 | trade you a secret about the Seelie King's garden. If you throw stone at her, she will turn    |
 | your boots into wet river clay before you can finish your curse..."                            |
 |------------------------------------------------------------------------------------------------|
-| SCHOLARLY MODE ANNOTATIONS (Unlocked via Cthulhu Quest 1):                                     |
+| SCHOLARLY MODE ANNOTATIONS (Unlocked via Naut Quest 1):                                     |
 | Etymology: Old English 'Mere' (sea/lake) + 'Maid' (young woman).                               |
 | Fae Alignment: Seelie Court operative under the Seelie Queen's canopy estate.                  |
-| Cthulhu's Note: "Do not let the small stature fool you. They are the water system's scouts.    |
+| Naut's Note: "Do not let the small stature fool you. They are the water system's scouts.    |
 | What they see in the shallows is reported to the Ents before nightfall."                       |
 ==================================================================================================
 ```
@@ -596,11 +596,11 @@ Below are four complete, fully formatted Bestiary entries demonstrating the spec
 | Give him a poor riddle, and he swings. Give him a good one, and he sits on his club, scratches |
 | his ear, and grunts: '...Pass. But don't tell the King I let you through easy...'"             |
 |------------------------------------------------------------------------------------------------|
-| SCHOLARLY MODE ANNOTATIONS (Unlocked via Cthulhu Quest 1):                                     |
+| SCHOLARLY MODE ANNOTATIONS (Unlocked via Naut Quest 1):                                     |
 | Etymology: Old Norse 'Troll' — fiend, demon, or subterranean giant.                            |
 | Court Role: Heavy infantry for the Unseelie Winter Guard; responds directly to Daedalus's      |
 | structural escapement gear ticks at 42 BPM.                                                    |
-| Cthulhu's Note: "They turn to granite when exposed to pure 528Hz harmonic light. Sir Isaac     |
+| Naut's Note: "They turn to granite when exposed to pure 528Hz harmonic light. Sir Isaac     |
 | Newton spent three days trying to calculate their density before giving up and eating lunch."  |
 ==================================================================================================
 ```
@@ -634,12 +634,12 @@ Below are four complete, fully formatted Bestiary entries demonstrating the spec
 | Cross that line three times, and you leave your boots behind. You spend the night croaking on a|
 | lily pad in Layer 2 until you remember how to speak like a guest..."                           |
 |------------------------------------------------------------------------------------------------|
-| SCHOLARLY MODE ANNOTATIONS (Unlocked via Cthulhu Quest 3):                                     |
+| SCHOLARLY MODE ANNOTATIONS (Unlocked via Naut Quest 3):                                     |
 | Mythic Roots: Hesiodic Gorgon traditions; recontextualized as the archetype of sacred          |
 | boundary protection and self-defense for the persecuted.                                       |
 | Moderation Rite: Anchor NPC for 'The Rite of the Amphibian'. Manages the transformation state|
 | timer (24-hour croak cycle) and evaluates rehabilitation penance before restoring human skin. |
-| Cthulhu's Note: "The most misunderstood entity in the archive. The gods called her a monster   |
+| Naut's Note: "The most misunderstood entity in the archive. The gods called her a monster   |
 | because she refused to let them turn her sanctuary into a hunting ground. Her frequency is    |
 | pure forty-two hertz—the Inn's own foundation stone."                                          |
 ==================================================================================================
@@ -656,7 +656,7 @@ To ensure full compatibility with the Geode Inn production build, verify the fol
 - [x] **7 Water Layers Mapped**: Correctly integrates Layer 1 (Rain/Trovants) through Layer 7 (Crystal Core).
 - [x] **Fae Court Badges Included**: Seelie vs. Unseelie alignments with Chibi and Full Presence distinctions.
 - [x] **Frog Moderation Mechanic Anchored**: Linked to *Medusa*, *Circe*, *Tiddalik*, and community self-regulation rites.
-- [x] **Cthulhu Quest Chain Detailed**: 3-part book retrieval progression unlocking Scholarly Mode Levels 1-3.
+- [x] **Naut Quest Chain Detailed**: 3-part book retrieval progression unlocking Scholarly Mode Levels 1-3.
 - [x] **Database & Lore Entity Synchronized**: Includes JSON Schema for Base44 `Lore` entity (`country`, `region`, `creatures`, `waterCreatures`) and MongoDB aggregation pipelines.
 - [x] **Rothfuss Narrative Tone Maintained**: Written with clever, direct, lyrical prose, pregnant pauses (`...`), and deep foreshadowing.
 

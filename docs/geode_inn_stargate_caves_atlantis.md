@@ -95,7 +95,7 @@ The player is in Merfolk form. The transformation happens during the passage —
 
 The stargate works both ways. The player can return from Atlantis to the caves by stepping back through the Atlantis-side ring. The liquid pulses the same. The passage is the same. The player arrives back in the seventh cave, in human form, the Merfolk transformation reversed by the liquid.
 
-This means the stargate is the primary access point between the surface and Atlantis. The "dig down through the catacombs" method from the original Atlantis doc is the alternate entry — harder, longer, requiring the player to dig through bedrock and hit the water table. The stargate is the intended path. The dig is the back door. Cthulhu, who has "two doors to his library — one by the fireplace, one at the bottom of the ocean," now has two paths to Atlantis as well: the stargate (the front door, through the caves) and the dig (the back door, through the catacombs).
+This means the stargate is the primary access point between the surface and Atlantis. The "dig down through the catacombs" method from the original Atlantis doc is the alternate entry — harder, longer, requiring the player to dig through bedrock and hit the water table. The stargate is the intended path. The dig is the back door. Naut, who has "two doors to his library — one by the fireplace, one at the bottom of the ocean," now has two paths to Atlantis as well: the stargate (the front door, through the caves) and the dig (the back door, through the catacombs).
 
 ---
 
@@ -141,7 +141,7 @@ Before the stargate, the water layers were separate:
 4. Atlantis (underwater hub)
 5. Deep water zones (branching from Atlantis)
 6. Real-world caves (from Open Ocean)
-7. Crystal Core (Cthulhu)
+7. Crystal Core (Naut)
 
 After the stargate, they connect:
 
@@ -159,7 +159,7 @@ After the stargate, they connect:
 
 The full vertical journey:
 
-**Surface → Pirate's ship → tidal cave → explore and learn → seventh cave → stargate → Atlantis → deep zones → real-world caves → Crystal Core → Cthulhu**
+**Surface → Pirate's ship → tidal cave → explore and learn → seventh cave → stargate → Atlantis → deep zones → real-world caves → Crystal Core → Naut**
 
 And the return:
 
@@ -179,7 +179,7 @@ The heartbeat in the stargate is not just 50 BPM. The heartbeat has variations �
 
 The player who carries the heartbeat can read the stargate's mood. On calm days (steady pulse), the passage is gentle — the liquid is warm, the transition is smooth, the arrival in Atlantis is calm. On stormy days (fast pulse), the passage is rougher — the liquid churns, the transition is disorienting, the arrival in Atlantis is in the middle of an underwater storm (the ocean equivalent of the giant's restless dream). On the rarest days (the heartbeat skipping), the stargate does something extraordinary: it takes you somewhere that ISN'T Atlantis.
 
-The skip-beat stargate: when the giant's heartbeat skips — when the aurora is in its rarest phase, when the Peruvian guide announces a dream-event, when the sleeping giant stirs — the stargate's liquid changes color. The blue-green-amber shifts to violet-white. The portal doesn't go to Atlantis. It goes to the Crystal Core directly. Bypassing Atlantis. Bypassing the deep zones. Straight to the bottom. Straight to Cthulhu.
+The skip-beat stargate: when the giant's heartbeat skips — when the aurora is in its rarest phase, when the Peruvian guide announces a dream-event, when the sleeping giant stirs — the stargate's liquid changes color. The blue-green-amber shifts to violet-white. The portal doesn't go to Atlantis. It goes to the Crystal Core directly. Bypassing Atlantis. Bypassing the deep zones. Straight to the bottom. Straight to Naut.
 
 The skip-beat is the speedrun. The player who can read the heartbeat, who knows when the giant stirs, who catches the skip-beat — that player can jump straight to the deepest point in the game. No five-zone descent. No cave exploration. Just the stillness, the sync, the skip, and the bottom.
 

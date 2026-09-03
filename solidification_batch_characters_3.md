@@ -125,25 +125,25 @@ Their dual existence across light and dark provides the structural model for how
 # 5. MERLIN AND ARCHIMEDES
 
 ### Character Vibe & Role: The Backwards Wizard & Memory Owl (Camelot Zone)
-Derived from T.H. White / Disney's *The Sword in the Stone*, Merlin lives backward through time—knowing the future because he has already experienced it, while forgetting the past he hasn't reached yet. Archimedes is his grumpy, fiercely loyal barn owl companion who remembers what Merlin forgets. Merlin teaches through **transformation**—turning the player into a fish, bird, or stone to give them permanent perspective shifts.
+Derived from T.H. White / Disney's *The Sword in the Stone*, Merlin lives backward through time—knowing the future because he has already experienced it, while forgetting the past he hasn't reached yet. Noctua is his grumpy, fiercely loyal barn owl companion who remembers what Merlin forgets. Merlin teaches through **transformation**—turning the player into a fish, bird, or stone to give them permanent perspective shifts.
 
 ---
 
 ### (1) Shadow Inn State (84Hz)
-In the Shadow Inn, temporal flow halts completely. Merlin experiences profound relief: his exhausting backward progression freezes at 84Hz stillness. In the Shadow Tower, Archimedes rests peacefully without having to correct Merlin's memory, as all past and future events lie laid out before them as a single, readable tapestry.
+In the Shadow Inn, temporal flow halts completely. Merlin experiences profound relief: his exhausting backward progression freezes at 84Hz stillness. In the Shadow Tower, Noctua rests peacefully without having to correct Merlin's memory, as all past and future events lie laid out before them as a single, readable tapestry.
 
 ### (2) Endgame Connections
 Merlin's reverse temporal knowledge allows him to predict the exact acoustic notes of the **Song of Making** before they are played. He plants temporal ciphers in the early game (which he experienced in his future) that the player decodes in the late game to trigger the final octave shift during the **Convergence**.
 
 ### (3) Sound Profile
-- **Living Inn (42Hz)**: Whimsical woodwinds (bassoon, flute), bubbling potion cauldrons, Archimedes' hooting at 50 BPM, ticking clocks running backward.
+- **Living Inn (42Hz)**: Whimsical woodwinds (bassoon, flute), bubbling potion cauldrons, Noctua' hooting at 50 BPM, ticking clocks running backward.
 - **Shadow Inn (84Hz)**: Sustained 84Hz glass organ chord, silent owl wing flutter, crystal pendulum chime.
 - **In-Between (Null/Phase Shift)**: Reverse audio tape echo, time-scrambled woodwind melodies, fluttering parchment sounds.
 - **Acoustic IEM Profile**: Airy treble extension, wide spatial separation, detailed vocal micro-dynamics.
 
 ### (4) Cross-System Integration
 - **Camelot Zone Quests**: Master of Transformation questlines (Fish mode for water navigation, Bird mode for Bifrost flight, Stone mode for deep earth sensing).
-- **Card Game**: "The Backwards Spell" (reverses turn history) & "Archimedes' Memory" (retrieves discarded cards).
+- **Card Game**: "The Backwards Spell" (reverses turn history) & "Noctua' Memory" (retrieves discarded cards).
 - **Arcade Cabinets**: Alchemy transformation puzzle cabinets in the Arcade collection.
 - **Linework & UI Art**: Soft flowing magical linework sprinkled with Klimt gold star dust and Royo owl-feather texturing.
 
@@ -314,15 +314,15 @@ Hel converts expired player runs into permanent historical lore records in the I
 # 12. MADAME MIM
 
 ### Character Vibe & Role: The Daily Chaos Companion
-Derived from Disney's *The Sword in the Stone*, Mim is the player's trickster companion ("Kronk bad angel on my shoulder"). She provides chaotic companionship rather than guidance—causing daily non-harmful mischief (turning drinks purple, making gargoyles hum ragtime). She strictly respects the boundary of death, never causing chaos across Hel's threshold.
+Derived from Disney's *The Sword in the Stone*, Brim is the player's trickster companion ("Kronk bad angel on my shoulder"). She provides chaotic companionship rather than guidance—causing daily non-harmful mischief (turning drinks purple, making gargoyles hum ragtime). She strictly respects the boundary of death, never causing chaos across Hel's threshold.
 
 ---
 
 ### (1) Shadow Inn State (84Hz)
-In the Shadow Inn, Mim becomes the **Sculptor of Frozen Mischief**. Since dynamic chaos is impossible at 84Hz, Mim shapeshifts into bizarre, frozen gargoyle-like statues in unexpected places, striking ridiculous poses that disrupt Medusa's solemn static architecture.
+In the Shadow Inn, Brim becomes the **Sculptor of Frozen Mischief**. Since dynamic chaos is impossible at 84Hz, Brim shapeshifts into bizarre, frozen gargoyle-like statues in unexpected places, striking ridiculous poses that disrupt Medusa's solemn static architecture.
 
 ### (2) Endgame Connections
-Mim's unpredictable rule-bending provides the single non-deterministic variable needed to break the rigid acoustic tie during the **Song of Making**, allowing the **Octave Stone** to crystallize.
+Brim's unpredictable rule-bending provides the single non-deterministic variable needed to break the rigid acoustic tie during the **Song of Making**, allowing the **Octave Stone** to crystallize.
 
 ### (3) Sound Profile
 - **Living Inn (42Hz)**: Whimsical kettle cackle, comical kazoo/brass slide, popping purple bubbles, rapid shapeshifting swish.

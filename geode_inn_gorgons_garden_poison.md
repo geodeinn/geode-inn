@@ -90,7 +90,7 @@ Plants that produce stillness through RELEASE. These are the POISON CURES — th
 
 ## MEDUSA'S ROLE
 
-Medusa tends the garden the way Radagast tends the Mediterranean garden — but through a different philosophy. Radagast grows through COMMUNION (asking the garden). The Catalyst grows through WILL (telling the garden). Medusa grows through STILLNESS (letting the garden be).
+Medusa tends the garden the way The Greenward tends the Mediterranean garden — but through a different philosophy. The Greenward grows through COMMUNION (asking the garden). The Catalyst grows through WILL (telling the garden). Medusa grows through STILLNESS (letting the garden be).
 
 Medusa does not plant. Medusa does not water. Medusa does not prune. Medusa watches. The garden grows because the plants CHOOSE to grow — in the stillness, in the shadow, in the absence of the 42Hz's relentless push to grow. The Gorgon's Garden is the space where things are allowed to be what they are, without the pressure to become more.
 

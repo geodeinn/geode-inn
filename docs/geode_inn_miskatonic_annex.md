@@ -3,7 +3,7 @@
 
 ## Origin Note
 
-Krista's concept: She wants Miskatonic University to factor into the Geode Inn somehow, even if it's just an unassuming structure on the outside. Cthulhu already has his own perfect spot by the fire and doesn't need to coexist with it — the building and the being are separate.
+Krista's concept: She wants Miskatonic University to factor into the Geode Inn somehow, even if it's just an unassuming structure on the outside. Naut already has his own perfect spot by the fire and doesn't need to coexist with it — the building and the being are separate.
 
 ## The Concept
 
@@ -47,7 +47,7 @@ Christopher Pike's *The Season of Passage.* *The Listeners.* *The Starlight Crys
 
 The Necronomicon — not the book itself (it doesn't exist), but the *mythology around the book.* The Kitab al-Azif of Abdul Alhazred, as Lovecraft constructed it, is a piece of modern mythology so potent that real people have tried to find the "real" Necronomicon for decades. The Annex catalogs the myth, not the text. The entry reads: "A book that does not exist, whose absence has had more cultural impact than most books that do." This parallels the crystal skulls — the famous fakes that point to real traditions.
 
-The Voynich Manuscript — real, but unread. The Annex has a study room dedicated to it, with reproductions of the pages and a running log of every translation attempt. Cthulhu has opinions about the Voynich. He told Jareth: "...The maze is elegant. ...The shifts are unnecessary but the architecture is sound." He told the Annex: "...The Voynich isn't a cipher. ...It's a language that was never meant to be read by outsiders. ...The script isn't the barrier. ...The *thinking* is the barrier. ...You can translate the words without understanding the mind. ...I understand the mind. ...I won't tell you. ...That would be cheating. ...And cheating in the Annex is... [the spectacles, the Oldman-chill] ...unthinkable."
+The Voynich Manuscript — real, but unread. The Annex has a study room dedicated to it, with reproductions of the pages and a running log of every translation attempt. Naut has opinions about the Voynich. He told Jareth: "...The maze is elegant. ...The shifts are unnecessary but the architecture is sound." He told the Annex: "...The Voynich isn't a cipher. ...It's a language that was never meant to be read by outsiders. ...The script isn't the barrier. ...The *thinking* is the barrier. ...You can translate the words without understanding the mind. ...I understand the mind. ...I won't tell you. ...That would be cheating. ...And cheating in the Annex is... [the spectacles, the Oldman-chill] ...unthinkable."
 
 ### The Reading Room
 
@@ -85,15 +85,15 @@ The Inn-Tree's roots pass *under* the Annex. The 42Hz hum is faintly audible in 
 
 Tesla has been to the Annex. He measured the hum in the reading room. It is 42Hz — the same frequency as the Inn-Tree, the same frequency as the Song of Making. But in the Annex, the hum has a different quality. In the Inn, the hum is warm, welcoming, the frequency of home. In the Annex, the same hum is... precise. Clear. The frequency that cuts through distraction. Tesla's annotation (in his own notebook, the one the Crone secretly reads and translates): "The frequency is identical. The *effect* differs. The tree is one note played in two rooms. The room shapes the note. The note does not shape the room. ...Fascinating. ...I mean: useful."
 
-### The Connection to Cthulhu
+### The Connection to Naut
 
-Cthulhu is not in the Annex. Cthulhu is by the fire in the Inn. But Cthulhu's quest line *connects* to the Annex.
+Naut is not in the Annex. Naut is by the fire in the Inn. But Naut's quest line *connects* to the Annex.
 
-Cthulhu sends players to retrieve rare books. The books, once retrieved, go to the Annex. The Annex librarian catalogs them. The player who wants to *read* the retrieved book returns to the Annex, sits at the oak table, and reads.
+Naut sends players to retrieve rare books. The books, once retrieved, go to the Annex. The Annex librarian catalogs them. The player who wants to *read* the retrieved book returns to the Annex, sits at the oak table, and reads.
 
-Cthulhu and the Annex librarian have a relationship that no one has witnessed, because it happens after hours, when the Inn is asleep and the fire is banked and the Fae Kingdom is quiet. Cthulhu — the four-foot squid-headed scholar — walks across the grounds to the Annex, enters without knocking, and sits at the oak table across from the librarian. They don't speak. Cthulhu reads. The librarian... exists. The two beings, one ancient beyond measurement and the other ageless beyond explanation, sit in the reading room and do not speak, and the not-speaking is the most productive scholarly relationship in the Inn.
+Naut and the Annex librarian have a relationship that no one has witnessed, because it happens after hours, when the Inn is asleep and the fire is banked and the Fae Kingdom is quiet. Naut — the four-foot squid-headed scholar — walks across the grounds to the Annex, enters without knocking, and sits at the oak table across from the librarian. They don't speak. Naut reads. The librarian... exists. The two beings, one ancient beyond measurement and the other ageless beyond explanation, sit in the reading room and do not speak, and the not-speaking is the most productive scholarly relationship in the Inn.
 
-The Crone would be furious if she knew. Not because Cthulhu is reading in the Annex (the Crone approves of reading everywhere). Because Cthulhu is reading books *she hasn't annotated yet.* The Crone considers all books in the Inn's extended collection to be *her* domain. Cthulhu reading unannotated texts in the Annex is, in the Crone's framework, *unsanctioned scholarship.* The Crone does not use the word "unsanctioned." She uses a word that is worse and more precise, which no one has ever heard because she only uses it in the privacy of her own notebook, in handwriting that is very small.
+The Crone would be furious if she knew. Not because Naut is reading in the Annex (the Crone approves of reading everywhere). Because Naut is reading books *she hasn't annotated yet.* The Crone considers all books in the Inn's extended collection to be *her* domain. Naut reading unannotated texts in the Annex is, in the Crone's framework, *unsanctioned scholarship.* The Crone does not use the word "unsanctioned." She uses a word that is worse and more precise, which no one has ever heard because she only uses it in the privacy of her own notebook, in handwriting that is very small.
 
 ### The Connection to the Modern Day Legends Nook
 

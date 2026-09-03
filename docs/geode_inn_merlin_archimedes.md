@@ -1,4 +1,4 @@
-# Geode Inn — Merlin and Archimedes
+# Geode Inn — Merlin and Noctua
 ## Camelot Zone — The Backwards Wizard and the Owl Who Remembers
 
 ## Source
@@ -34,45 +34,45 @@ The tragedy of Merlin: the future is fading. Every day he lives backward, the fu
 
 This is the game mechanic: Merlin's prophecies. Merlin sometimes gives the player fragments of future knowledge — riddles, images, single words that don't make sense yet. The player collects these fragments. Later — much later — in a different zone, in a different quest, the fragment clicks into place and the player understands what Merlin was trying to tell them. By then, Merlin may have forgotten he said it. The player who goes back to Merlin with the answer finds that Merlin has already moved past the moment when he would have understood. The timing is off. The backwards life means the teacher and student are always missing each other's moments of understanding. The missing is the melancholy at the center of Merlin's comedy.
 
-**Archimedes is the answer to the missing.**
+**Noctua is the answer to the missing.**
 
-## Archimedes — The Owl Who Remembers
+## Noctua — The Owl Who Remembers
 
 ### Who He Is
 
-Archimedes is Merlin's owl. Grumpy, loyal, secretly caring, the one who remembers what Merlin forgets. In The Sword in the Stone, Archimedes is the practical one — the one who keeps track of things while Merlin is lost in his own brilliance. In the Inn, Archimedes has the same role, but deeper: Archimedes is the owl who remembers the future Merlin is losing.
+Noctua is Merlin's owl. Grumpy, loyal, secretly caring, the one who remembers what Merlin forgets. In The Sword in the Stone, Noctua is the practical one — the one who keeps track of things while Merlin is lost in his own brilliance. In the Inn, Noctua has the same role, but deeper: Noctua is the owl who remembers the future Merlin is losing.
 
-Archimedes doesn't live backward. Archimedes lives *forward* — normal time, normal direction. But Archimedes has been with Merlin long enough that Merlin has told him things — future things, things Merlin is forgetting, things Merlin said yesterday (which was tomorrow for Merlin). Archimedes remembers. Archimedes always remembers. The owl is the memory. The wizard is the forgetting. Together they make one complete record of the timeline — Merlin knows the future and is losing it; Archimedes doesn't know the future but is holding what Merlin has lost.
+Noctua doesn't live backward. Noctua lives *forward* — normal time, normal direction. But Noctua has been with Merlin long enough that Merlin has told him things — future things, things Merlin is forgetting, things Merlin said yesterday (which was tomorrow for Merlin). Noctua remembers. Noctua always remembers. The owl is the memory. The wizard is the forgetting. Together they make one complete record of the timeline — Merlin knows the future and is losing it; Noctua doesn't know the future but is holding what Merlin has lost.
 
 ### The Owl Motif Connection
 
-The Inn already has the bloodline owl — the barn owl that watches, that marks the bloodline, that means "one of us is near." Archimedes is a *different* owl — but owls in the Inn are always connected. The owl motif is consistent: owls watch, owls remember, owls mark the boundary between knowing and not-knowing.
+The Inn already has the bloodline owl — the barn owl that watches, that marks the bloodline, that means "one of us is near." Noctua is a *different* owl — but owls in the Inn are always connected. The owl motif is consistent: owls watch, owls remember, owls mark the boundary between knowing and not-knowing.
 
 - **The bloodline owl** is the silent watcher. It appears. It observes. It says nothing. Its presence IS its speech.
-- **Archimedes** is the vocal owl. He talks. He argues. He sasses. He says what the bloodline owl only implies. Where the bloodline owl is the *mark* of the bloodline, Archimedes is the *voice* of the bloodline's accumulated knowledge — the part that can be spoken, the part that comes with commentary, the part that says "I told you so" and means "I love you."
-- **Athena's owl** (the Greek zone) is the wisdom owl — the owl of knowledge, of strategy, of seeing clearly. The Greek owl connects to Archimedes the way the Moirai connect to the Morrigan: same force, different cultural name. Athena's owl is the owl of *knowing.* Archimedes is the owl of *remembering.* The bloodline owl is the owl of *watching.* Three functions, one motif, three cultural zones.
+- **Noctua** is the vocal owl. He talks. He argues. He sasses. He says what the bloodline owl only implies. Where the bloodline owl is the *mark* of the bloodline, Noctua is the *voice* of the bloodline's accumulated knowledge — the part that can be spoken, the part that comes with commentary, the part that says "I told you so" and means "I love you."
+- **Athena's owl** (the Greek zone) is the wisdom owl — the owl of knowledge, of strategy, of seeing clearly. The Greek owl connects to Noctua the way the Moirai connect to the Morrigan: same force, different cultural name. Athena's owl is the owl of *knowing.* Noctua is the owl of *remembering.* The bloodline owl is the owl of *watching.* Three functions, one motif, three cultural zones.
 
 ### The Two Owls Together
 
-The bloodline owl and Archimedes are aware of each other. They don't interact — not directly. But the player who has seen both will notice:
+The bloodline owl and Noctua are aware of each other. They don't interact — not directly. But the player who has seen both will notice:
 
-- When the bloodline owl is present, Archimedes is quiet. The silence is respect — Archimedes recognizes the watcher and yields the observation.
-- When Archimedes is talking (which is most of the time), the bloodline owl is absent. The absence is not avoidance — it's *distinction.* The two owls don't compete. They take shifts. The bloodline owl watches when the stakes are high. Archimedes talks when the teaching is happening. The coordination is invisible and perfect.
+- When the bloodline owl is present, Noctua is quiet. The silence is respect — Noctua recognizes the watcher and yields the observation.
+- When Noctua is talking (which is most of the time), the bloodline owl is absent. The absence is not avoidance — it's *distinction.* The two owls don't compete. They take shifts. The bloodline owl watches when the stakes are high. Noctua talks when the teaching is happening. The coordination is invisible and perfect.
 - Occasionally — rarely — both owls are present at the same time. The player who sees this should pay attention. Something is about to happen that requires both watching and remembering. The Crone has noted this: "...Both owls present simultaneously. ...This has occurred... [checking] ...three times. ...Each occurrence preceded a significant event. ...The correlation is... [the Crone pause] ...predictive. ...I will not say 'prophetic.' ...The owls are not prophets. ...The owls are... [another pause] ...a system. ...The watcher and the rememberer. ...When both are present, the system is... complete."
 
-### Archimedes' Personality
+### Noctua' Personality
 
-- **Grumpy.** The Disney Archimedes grumpiness — the owl who huffs, who ruffles, who pretends he doesn't care. The grumpiness is the love. Archimedes is grumpy because he cares and doesn't want to admit it. The admission would be... undignified. (The Crone recognizes this. The Crone's annotation: "...The owl performs displeasure to mask attachment. ...I find this... [the Crone pause that means recognition] ...familiar.")
-- **Loyal.** Archimedes stays with Merlin. The staying is the loyalty. Merlin is losing the future. Archimedes is holding it. The holding is the loyalty. The owl could leave — could fly to the Greek zone, could join the bloodline owl's watch, could go anywhere. He stays. The staying is the choice. The choice is the loyalty.
-- **Secretly the most important character in the Camelot zone.** Archimedes is the one who remembers. When Merlin's prophecies start coming true and the player needs to understand what Merlin meant, Archimedes is the one who can tell them. Not because he's wise — because he *listened.* He listened to Merlin say things Merlin has forgotten. The listening is the service. The remembering is the gift.
+- **Grumpy.** The Disney Noctua grumpiness — the owl who huffs, who ruffles, who pretends he doesn't care. The grumpiness is the love. Noctua is grumpy because he cares and doesn't want to admit it. The admission would be... undignified. (The Crone recognizes this. The Crone's annotation: "...The owl performs displeasure to mask attachment. ...I find this... [the Crone pause that means recognition] ...familiar.")
+- **Loyal.** Noctua stays with Merlin. The staying is the loyalty. Merlin is losing the future. Noctua is holding it. The holding is the loyalty. The owl could leave — could fly to the Greek zone, could join the bloodline owl's watch, could go anywhere. He stays. The staying is the choice. The choice is the loyalty.
+- **Secretly the most important character in the Camelot zone.** Noctua is the one who remembers. When Merlin's prophecies start coming true and the player needs to understand what Merlin meant, Noctua is the one who can tell them. Not because he's wise — because he *listened.* He listened to Merlin say things Merlin has forgotten. The listening is the service. The remembering is the gift.
 
-### Dialogue Style — Archimedes
+### Dialogue Style — Noctua
 
 - Short. Sharp. The clipped speech of someone who has been listening for centuries and has learned economy.
 - Dry. The dryness of an owl who has heard every one of Merlin's rants and has opinions about all of them.
-- Occasional warmth — rare, disguised, always delivered as criticism. "You'll need this" (handing the player something Merlin mentioned once, three years ago, in a different timeline direction). The "you'll need this" is the love. Archimedes would never say "I care about you." Archimedes says "you'll need this."
+- Occasional warmth — rare, disguised, always delivered as criticism. "You'll need this" (handing the player something Merlin mentioned once, three years ago, in a different timeline direction). The "you'll need this" is the love. Noctua would never say "I care about you." Noctua says "you'll need this."
 
-**Example lines — Archimedes:**
+**Example lines — Noctua:**
 - To the player on first meeting: "...Another one. ...Sit down. ...He'll be a minute. ...Or a century. ...Time is... flexible. ...For him."
 - About Merlin: "He knows the ending. ...He's forgotten most of it. ...I haven't."
 - When the player asks a question Merlin already answered (but hasn't answered yet, because backwards): "...He told you. ...He hasn't told you yet. ...Same thing. ...Don't think about it too hard. ...I have. ...It doesn't help."
@@ -87,9 +87,9 @@ The bloodline owl and Archimedes are aware of each other. They don't interact �
 
 **Example lines — Merlin:**
 - First meeting: "Ah! ...You're early. ...Or late. ...I can never... no, I can, I just... the direction is... anyway. ...Welcome! ...You're here to learn. ...Everyone is. ...The question is: what will you be when you've learned it?"
-- About living backward: "Don't ask. ...I mean, you can ask, but I'll answer in the wrong tense and we'll both get a headache. ...The short version: I've already been to the end. ...The end is... [loses the thought] ...it was something. ...It was definitely something. ...Archimedes, what was the end? ...He's not going to tell you. ...He never tells anyone. ...Thinks it's bad for the curriculum."
+- About living backward: "Don't ask. ...I mean, you can ask, but I'll answer in the wrong tense and we'll both get a headache. ...The short version: I've already been to the end. ...The end is... [loses the thought] ...it was something. ...It was definitely something. ...Noctua, what was the end? ...He's not going to tell you. ...He never tells anyone. ...Thinks it's bad for the curriculum."
 - Teaching through transformation: "You want to understand water? ...Be water. ...I can do that. ...Don't move. ...Don't move don't move don't— [transformation] ...There. ...You're a fish. ...Well. ...A fish who used to be a person. ...The water will teach you the rest. ...I'll be here. ...Or I was here. ...One of those."
-- The devastating-in-the-pauses moment: "The Inn is... beautiful, isn't it? ...It won't always be. ...No, that's wrong — it won't *never* be. ...It will be and then it won't and then it will again. ...That's the Song. ...The making and the unmaking and the making. ...You'll hear it. ...Eventually. ...Don't rush. ...The Song doesn't. ...Well. ...It didn't. ...I think it didn't. ...Archimedes, did the Song rush? ...He's ignoring me. ...He does that when the answer is important."
+- The devastating-in-the-pauses moment: "The Inn is... beautiful, isn't it? ...It won't always be. ...No, that's wrong — it won't *never* be. ...It will be and then it won't and then it will again. ...That's the Song. ...The making and the unmaking and the making. ...You'll hear it. ...Eventually. ...Don't rush. ...The Song doesn't. ...Well. ...It didn't. ...I think it didn't. ...Noctua, did the Song rush? ...He's ignoring me. ...He does that when the answer is important."
 
 ## The Transformation Quests
 
@@ -103,7 +103,7 @@ The Camelot zone's core gameplay is Merlin's transformation quests:
 
 4. **The Squirrel** — the player becomes a squirrel. Learns the Inn-Tree from inside. The squirrel can climb the tree — through the bark, through the branches, through the canopy that is the cosmology level. The squirrel sees the Inn-Tree as *home* — not a building, not a structure, but a living being that shelters everything inside it. The squirrel transformation is the first step toward understanding the Inn-Tree as an Ent.
 
-5. **The final transformation** — Merlin doesn't tell the player what the final transformation is. The player discovers it. (Hint: it connects to the bloodline. To the owl. To the thing Merlin knows and is forgetting and Archimedes remembers and the bloodline owl watches for. The final transformation is the one the player has to choose for themselves — Merlin can't give it, because Merlin hasn't experienced it yet, because it happens in Merlin's past, which is the player's future.)
+5. **The final transformation** — Merlin doesn't tell the player what the final transformation is. The player discovers it. (Hint: it connects to the bloodline. To the owl. To the thing Merlin knows and is forgetting and Noctua remembers and the bloodline owl watches for. The final transformation is the one the player has to choose for themselves — Merlin can't give it, because Merlin hasn't experienced it yet, because it happens in Merlin's past, which is the player's future.)
 
 ## Merlin's Place in the Inn
 
@@ -123,15 +123,15 @@ This makes Merlin unique — and uniquely lonely. The Thinkers can collaborate. 
 
 The Camelot zone is the zone of *transformation* — learning by becoming. Where the Greek zone teaches through the pomegranate (understanding through descent), and the Celtic zone teaches through the stone circles (understanding through passage), the Camelot zone teaches through transformation (understanding by *being*).
 
-The zone is organized around Merlin's tower — a small, cluttered space on the main floor, near the Greek zone but architecturally distinct. The tower is bigger on the inside (Merlin's magic, or Merlin's bad memory of how big the tower was supposed to be). The tower is full of books that contain future knowledge that Merlin has already read and is forgetting. The books are blanking from the back. Archimedes perches on the one book that still has all its pages. He won't let anyone else touch it.
+The zone is organized around Merlin's tower — a small, cluttered space on the main floor, near the Greek zone but architecturally distinct. The tower is bigger on the inside (Merlin's magic, or Merlin's bad memory of how big the tower was supposed to be). The tower is full of books that contain future knowledge that Merlin has already read and is forgetting. The books are blanking from the back. Noctua perches on the one book that still has all its pages. He won't let anyone else touch it.
 
-The Round Table is in the zone — but it's not what the player expects. The Round Table is not a war council. The Round Table is a *dining table.* The place where Arthur's knights sat as equals, ate as equals, and were equal. The Inn's Round Table is the same: the place where the design principle of belonging (not hierarchy) is made physical. Everyone at the Round Table is the same height. Everyone at the Round Table has the same access to the center. The center is empty — the center is the space where the Grail would go, and the Grail isn't there yet, because the Grail is the Song of Making, and the Song hasn't been sung yet, and Merlin knows this and can't say it and Archimedes won't.
+The Round Table is in the zone — but it's not what the player expects. The Round Table is not a war council. The Round Table is a *dining table.* The place where Arthur's knights sat as equals, ate as equals, and were equal. The Inn's Round Table is the same: the place where the design principle of belonging (not hierarchy) is made physical. Everyone at the Round Table is the same height. Everyone at the Round Table has the same access to the center. The center is empty — the center is the space where the Grail would go, and the Grail isn't there yet, because the Grail is the Song of Making, and the Song hasn't been sung yet, and Merlin knows this and can't say it and Noctua won't.
 
 ## Merlin and Da Vinci — The Cronies
 
 Merlin and Da Vinci are cronies. Close friends. Insufferable together.
 
-They are the same brain running in opposite temporal directions. Da Vinci sees patterns in the present. Merlin hears the song from the future. Both are scattered, brilliant, physical, talk with their whole bodies, lose things, find things they haven't lost yet. Both have a keeper (the Crone catalogs Da Vinci's sketches; Archimedes remembers what Merlin forgets). Neither keeper will admit to keeping.
+They are the same brain running in opposite temporal directions. Da Vinci sees patterns in the present. Merlin hears the song from the future. Both are scattered, brilliant, physical, talk with their whole bodies, lose things, find things they haven't lost yet. Both have a keeper (the Crone catalogs Da Vinci's sketches; Noctua remembers what Merlin forgets). Neither keeper will admit to keeping.
 
 When they get going, the Council of Thinkers suffers:
 
@@ -142,7 +142,7 @@ When they get going, the Council of Thinkers suffers:
 The crony dynamic:
 
 - Da Vinci sketches while Merlin talks. Merlin talks while Da Vinci sketches. They don't look at each other. The not-looking is the trust. They don't need to see each other to know the other is there.
-- Da Vinci will sketch something Merlin described from the future. Merlin will see the sketch and say: "Yes! ...That's it! ...Or it was. ...I think it was. ...Archimedes, was that it?" Archimedes says nothing. Da Vinci keeps sketching. The sketch is always close. The sketch is never exact. The gap between the sketch and the real thing is the gap between seeing patterns and hearing music.
+- Da Vinci will sketch something Merlin described from the future. Merlin will see the sketch and say: "Yes! ...That's it! ...Or it was. ...I think it was. ...Noctua, was that it?" Noctua says nothing. Da Vinci keeps sketching. The sketch is always close. The sketch is never exact. The gap between the sketch and the real thing is the gap between seeing patterns and hearing music.
 - They argue about everything. The arguments are joy. They argue about flight (Da Vinci designs machines; Merlin transforms into birds and says "just do this"). They argue about water (Da Vinci maps currents; Merlin says "be the current"). They argue about time (Da Vinci says time is a river; Merlin says "no, time is a river running backwards and you're facing the wrong way"). The arguments never resolve. The not-resolving is the friendship.
 
 The Crone's final annotation on the cronyship: "...Da Vinci and Merlin. ...The present and the future, in conversation. ...The present sees patterns. ...The future hears music. ...Neither listens to the other. ...Both are... listening. ...In their own way. ...The listening is the cronyship. ...I find it... [the longest Crone pause, the one that means she's almost smiling] ...loud."

@@ -137,47 +137,47 @@ Brindle turned back to the line. The line resumed. The coconut-shell polyrhythm 
 
 ---
 
-## Chapter Eleven: Mim and the Pipe
+## Chapter Eleven: Brim and the Pipe
 
-The traveler met Mim on the staircase.
+The traveler met Brim on the staircase.
 
 Not the main staircase — a small staircase, a half-flight, tucked between the common room and the arcade, the kind of architectural afterthought that exists in every large building and that the Inn, being a living tree, had grown for reasons of its own. The traveler was climbing the half-flight because the half-flight was there, and in the Inn, the act of going where the going is available is always rewarded, though the reward is not always pleasant and is not always what you expected.
 
-Mim was sitting on the third step.
+Brim was sitting on the third step.
 
-Mim was — the traveler searched for the word and rejected several before landing on "theatrical." Not dramatic, which implies a reaction to circumstances. Theatrical, which implies that the drama IS the circumstance, that the performance is not a response to reality but a replacement for it. Mim was dressed in robes that changed color when the traveler looked at them — not the way a chameleon changes color, which is functional, but the way a sunset changes color, which is gratuitous and glorious and serves no purpose except to be beautiful.
+Brim was — the traveler searched for the word and rejected several before landing on "theatrical." Not dramatic, which implies a reaction to circumstances. Theatrical, which implies that the drama IS the circumstance, that the performance is not a response to reality but a replacement for it. Brim was dressed in robes that changed color when the traveler looked at them — not the way a chameleon changes color, which is functional, but the way a sunset changes color, which is gratuitous and glorious and serves no purpose except to be beautiful.
 
-"Hello, traveler," Mim said, and the way Mim said "traveler" made the word into a title, a costume, a role being offered. "You've placed a stone. How exciting. How predictable. How adequate." Mim smiled at the word, the way someone smiles at an inside joke they're not sure the other person gets. "The Crone's been measuring you, I see. The Crone measures everything. The Crone has never once measured the right thing."
+"Hello, traveler," Brim said, and the way Brim said "traveler" made the word into a title, a costume, a role being offered. "You've placed a stone. How exciting. How predictable. How adequate." Brim smiled at the word, the way someone smiles at an inside joke they're not sure the other person gets. "The Crone's been measuring you, I see. The Crone measures everything. The Crone has never once measured the right thing."
 
 "What's the right thing?"
 
-"The wrong thing. The thing that doesn't fit. The thing that breaks the measurement. The Crone's whole system is based on the assumption that everything can be quantified, which is the same assumption that says everything can be contained, which is the same assumption that says the map is the territory, which is the same assumption that says this" — Mim held up a pipe — "is a pipe."
+"The wrong thing. The thing that doesn't fit. The thing that breaks the measurement. The Crone's whole system is based on the assumption that everything can be quantified, which is the same assumption that says everything can be contained, which is the same assumption that says the map is the territory, which is the same assumption that says this" — Brim held up a pipe — "is a pipe."
 
-The pipe was not a pipe. The pipe was floating. The pipe was alive. The pipe rotated slowly in the air beside Mim's head, and as it rotated, it whispered, in a voice like dry leaves on stone: "Ceci n'est pas une pipe."
+The pipe was not a pipe. The pipe was floating. The pipe was alive. The pipe rotated slowly in the air beside Brim's head, and as it rotated, it whispered, in a voice like dry leaves on stone: "Ceci n'est pas une pipe."
 
 "What is it, then?" the traveler asked, looking at the pipe.
 
-"It's a question," Mim said. "The pipe is the Inn's thesis statement. The representation is not the thing. The map is not the territory. The Inn is not a tree. You are not the Murmur. Or maybe you are. The pipe doesn't answer. The pipe only asks. That's the Magritte paradox — the thing that looks like a thing and isn't the thing is actually more honest than the thing, because at least it admits it's not the thing."
+"It's a question," Brim said. "The pipe is the Inn's thesis statement. The representation is not the thing. The map is not the territory. The Inn is not a tree. You are not the Murmur. Or maybe you are. The pipe doesn't answer. The pipe only asks. That's the Magritte paradox — the thing that looks like a thing and isn't the thing is actually more honest than the thing, because at least it admits it's not the thing."
 
 The pipe floated closer to the traveler. The traveler did not step back — the traveler had been in the Inn long enough to know that stepping back from the Inn's questions was the same as stepping back from the Inn, and the Inn did not punish stepping back, but the Inn did not reward it either.
 
-"The pipe trades," Mim said. "It's a trader. It doesn't sell, it doesn't buy — it trades. You give it something, it gives you something, and the something it gives you is never what you wanted but is always what you needed. The something it gives you is the wrong thing. The wrong thing is my whole philosophy. The Vessel" — Mim gestured vaguely toward the main floor — "holds the formula. The rules. The right way. I break the formula. I am the wrong way. And the wrong way, in the Inn, is not a mistake. The wrong way is a path. The right path tells you what the Inn is. The wrong path tells you what the Inn could be."
+"The pipe trades," Brim said. "It's a trader. It doesn't sell, it doesn't buy — it trades. You give it something, it gives you something, and the something it gives you is never what you wanted but is always what you needed. The something it gives you is the wrong thing. The wrong thing is my whole philosophy. The Vessel" — Brim gestured vaguely toward the main floor — "holds the formula. The rules. The right way. I break the formula. I am the wrong way. And the wrong way, in the Inn, is not a mistake. The wrong way is a path. The right path tells you what the Inn is. The wrong path tells you what the Inn could be."
 
 "What happens if I follow the wrong path?"
 
-Mim's smile widened. The smile was not warm and not cold and not cruel and not kind. The smile was the smile of someone who has been the villain in enough stories to know that "villain" is just a word for "the one who makes the interesting choice," and who has decided, a very long time ago, to always make the interesting choice.
+Brim's smile widened. The smile was not warm and not cold and not cruel and not kind. The smile was the smile of someone who has been the villain in enough stories to know that "villain" is just a word for "the one who makes the interesting choice," and who has decided, a very long time ago, to always make the interesting choice.
 
-"You find the hidden rooms," Mim said. "The secret passages. The doors that the right path doesn't show you. The Inn has rules, and the rules are real, and the rules keep the Inn standing. But the Inn also has exceptions, and the exceptions are real, and the exceptions keep the Inn alive. The rules are the bones. The exceptions are the blood. I am the blood."
+"You find the hidden rooms," Brim said. "The secret passages. The doors that the right path doesn't show you. The Inn has rules, and the rules are real, and the rules keep the Inn standing. But the Inn also has exceptions, and the exceptions are real, and the exceptions keep the Inn alive. The rules are the bones. The exceptions are the blood. I am the blood."
 
-Mim stood, and the pipe floated, and the robes shifted through a spectrum that had no name, and Mim walked up the half-flight staircase and into a passage that the traveler was sure had not been there a moment ago. The passage closed behind — not with a door, not with a wall, but with the particular silence of a tree that has decided to stop showing something.
+Brim stood, and the pipe floated, and the robes shifted through a spectrum that had no name, and Brim walked up the half-flight staircase and into a passage that the traveler was sure had not been there a moment ago. The passage closed behind — not with a door, not with a wall, but with the particular silence of a tree that has decided to stop showing something.
 
-The pipe lingered. It floated in the air where Mim had been, rotating slowly, whispering "Ceci n'est pas une pipe" in its dry-leaf voice. Then it floated to the traveler and stopped, hovering at eye level, waiting.
+The pipe lingered. It floated in the air where Brim had been, rotating slowly, whispering "Ceci n'est pas une pipe" in its dry-leaf voice. Then it floated to the traveler and stopped, hovering at eye level, waiting.
 
 The traveler had nothing to trade. The traveler had the amethyst, but the amethyst was not the traveler's to trade — it was the traveler's first note, the first contribution to the Song, and the traveler understood, without being told, that trading the first note would be trading the beginning of the relationship, and the beginning of the relationship was not for sale.
 
 The pipe seemed to understand this. It rotated once more — a nod, or a shrug, or the pipe equivalent — and floated away, through the wall, into the bark, gone.
 
-The traveler stood on the half-flight and thought about pipes that weren't pipes and paths that weren't paths and the difference between the right way and the interesting way. The 42Hz hum was in the stairs. The 50 BPM pulse was in the walls. And somewhere in the Inn, Mim was doing the wrong thing, and the wrong thing was growing, and the growing was keeping the Inn alive.
+The traveler stood on the half-flight and thought about pipes that weren't pipes and paths that weren't paths and the difference between the right way and the interesting way. The 42Hz hum was in the stairs. The 50 BPM pulse was in the walls. And somewhere in the Inn, Brim was doing the wrong thing, and the wrong thing was growing, and the growing was keeping the Inn alive.
 
 ---
 
@@ -187,7 +187,7 @@ The window-seat nook was on the west side of the main floor, tucked into a curve
 
 The Reader was in the nook.
 
-The Reader was not what the traveler expected. Not a scholar, not a scribe, not a cloaked figure with a staff. The Reader was a person in a cardigan, sitting in the window seat with a book, reading. The ordinariness of this was, in the Inn, extraordinary. Every other being the traveler had met was a role — the Host, the Crone, the Catalyst, the Firekeeper, the brownies, Mim. Each was a function, a facet, a piece of the Inn's machinery. The Reader was... a person. A person reading a book in a window seat. The cardigan was worn at the elbows. The book was old. The reading was slow, in the way that reading is slow when the reader is not consuming the text but living in it.
+The Reader was not what the traveler expected. Not a scholar, not a scribe, not a cloaked figure with a staff. The Reader was a person in a cardigan, sitting in the window seat with a book, reading. The ordinariness of this was, in the Inn, extraordinary. Every other being the traveler had met was a role — the Host, the Crone, the Catalyst, the Firekeeper, the brownies, Brim. Each was a function, a facet, a piece of the Inn's machinery. The Reader was... a person. A person reading a book in a window seat. The cardigan was worn at the elbows. The book was old. The reading was slow, in the way that reading is slow when the reader is not consuming the text but living in it.
 
 The traveler almost didn't approach. The nook had the particular quality of a space that is occupied — not full, not guarded, but inhabited, the way a nest is inhabited. The Reader's presence had shaped the nook the way the Reader's presence had shaped the air around the bench, and the shaping said: I am here. I am reading. You may sit, if you are quiet.
 

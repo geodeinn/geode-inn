@@ -372,14 +372,14 @@ At each step, we identify:
 - The Cartographer (4D temporal maps, Tesla's Silver Disc)
 - The Examiner (reads what was, calipers)
 - The Seelie King and Queen (Oleander, gentle, ancient, occasionally lethal)
-- Aughra (Dark Crystal astronomer, "The Carrying" 5-part quest)
+- Fibonacci (Dark Crystal astronomer, "The Carrying" 5-part quest)
 - The mycorrhizal network (trade hub, 42Hz propagation)
 - The Clockwork Skies (above canopy, airships, the Arcana)
 
 **What connects forwards:**
 - The Cartographer's maps → the traveler sees the Inn's structure as a tree (Form Sight prerequisite)
 - The mycorrhizal network → the 42Hz propagation path (how the Song travels)
-- Aughra's "The Carrying" → the Golden Contract, the crystal eye return, the Song completion quest
+- Fibonacci's "The Carrying" → the Golden Contract, the crystal eye return, the Song completion quest
 - The Clockwork Skies → the Arcana (the Captain, the Cabbit, 44Hz full power)
 
 **What's missing:**
@@ -387,7 +387,7 @@ At each step, we identify:
 - [ ] The Cartographer's specific quest chain (how the maps reveal the tree structure)
 - [ ] The Clockwork Skies full zone design
 
-**Pays off:** Form Sight (seeing the Inn as a tree → the Grand Collision's small tree), the 42Hz propagation (the Song's path through the Inn), Aughra's quest (the Song completion that the endgame requires).
+**Pays off:** Form Sight (seeing the Inn as a tree → the Grand Collision's small tree), the 42Hz propagation (the Song's path through the Inn), Fibonacci's quest (the Song completion that the endgame requires).
 
 ---
 
@@ -398,7 +398,7 @@ At each step, we identify:
 - The Host (Patrick Stewart) — "Room's ready." No name asked, no payment required.
 - The Crone (Anthony Hopkins) — measures everything, "Adequate." Learns to listen.
 - The Catalyst (Helena Bonham Carter) — bar/garden, grows portal arrows, Mrs. Lovett energy.
-- Mim — inner chaos agent, rides Monsieur Sentient, breaks formulas.
+- Brim — inner chaos agent, rides Monsieur Sentient, breaks formulas.
 - The Firekeeper — tells stories by the fire, the main floor's warmth anchor.
 - The Arcade & Score Stone — 7-foot obsidian leaderboard, cultural mini-games.
 - The Thrum (Ben Whishaw) — teaches essence precedes appearance.
@@ -408,7 +408,7 @@ At each step, we identify:
 - Beverley (Anne Robinson cadence, Australian accent) — the librarian.
 - The Teacher (Kathy Bates modes) — guards spelling/language near the Archive.
 - The Music Room — player composition, each stone has a unique tone.
-- The Miskatonic Annex — Cthulhu the Scholar, hidden quest giver.
+- The Miskatonic Annex — Naut the Scholar, hidden quest giver.
 - The Artisan Market — real-world jewelry linked to in-game lore.
 - The Modern Day Legends shelf — the Sync Paradox, the Serrano Parable.
 - The Egg / Ranker voting system — monthly hatchery.

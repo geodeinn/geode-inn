@@ -19,7 +19,7 @@ Total: 41 portraits found.
 | The Ceiling Gnome | the_ceiling_gnome.png | 1 | ✅
 | Naut (Scholar) | naut_the_scholar.png | 2 | ✅
 | Beverley the Librarian | beverley_librarian.png | 2 | ✅
-| The Keeper (Aughra) | the_keeper_aughra.png | 2 | ✅
+| The Keeper (Fibonacci) | the_keeper_aughra.png | 2 | ✅
 | The Queen of Words | queen_of_words.png | 2 | ✅
 | Odin the Allfather | odin_allfather.png | 2 | ✅
 | The Owl | the_owl.png | 2 | ✅
@@ -34,9 +34,9 @@ Total: 41 portraits found.
 | Hades | hades_v2.png | 2 | ✅
 | Charon | charon_v2.png | 2 | ✅
 | The Guest (Death) | the_guest_death_v2.png | 2 | ✅
-| Brim (Madame Mim) | madame_mim.png | 2 | ✅
+| Brim (Brim) | madame_mim.png | 2 | ✅
 | Merlin | merlin_archimedes.png | 2 | ✅
-| Archimedes | merlin_archimedes.png | 2 | ✅
+| Noctua | merlin_archimedes.png | 2 | ✅
 | The Shifting Man | the_shifting_man.png | 2 | ✅
 | Thorin | thorin_v3.png | 2 | ✅
 | Marijke | marijke.png | 2 | ✅

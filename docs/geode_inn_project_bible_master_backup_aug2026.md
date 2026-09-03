@@ -52,8 +52,8 @@ The Geode Inn is a hybrid digital archive, game hub, and artisan market built as
 | geode_inn_slavic_zone.md | Slavic zone — The Fjord of Stars. Aurora borealis star-language, three phases (green/violet/white). Zorya Polunochnaya (Tilda Swinton). "The First Word" quest |
 | geode_inn_peruvian_zone.md | Peruvian zone — The Sleeping Giants. Apus as ancient geological beings, Inca terraces as dream-language. The One Who Tends (Q'orianka Kilcher) |
 | geode_inn_greece_zone.md | Greece zone — reimagined in Monet's style (predecessor to the Aegean Light document) |
-| geode_inn_gardener.md | The Gardener — Radagast the Brown (Sylvester McCoy), Mediterranean zone keeper, communion with the garden |
-| geode_inn_gardener_and_beorn.md | Radagast and Beorn (Mikael Persbrandt) — binary shifter, Mediterranean border guardian. Singing vines, hedgehogs |
+| geode_inn_gardener.md | The Gardener — The Greenward (Sylvester McCoy), Mediterranean zone keeper, communion with the garden |
+| geode_inn_gardener_and_beorn.md | The Greenward and The Bearsark (Mikael Persbrandt) — binary shifter, Mediterranean border guardian. Singing vines, hedgehogs |
 | geode_inn_medusa.md | Medusa (Angelica Huston) — the preserver. Petrified the giants at their request. Lithophone. Waiting for the complete Song to freeze the singing vines |
 | geode_inn_poison_garden.md | The Poison Garden — design document |
 | geode_inn_canopy_zone_design.md | Canopy zone design details |
@@ -68,7 +68,7 @@ The Geode Inn is a hybrid digital archive, game hub, and artisan market built as
 | geode_inn_badlands_ether.md | The Badlands — 40Hz Ether zone, erosion creates unstructured frequency, players synthesize 41Hz bridge |
 | geode_inn_superstition_mountains.md | Superstition Mountains — volcanic giant zone, 30 million years of grief, Ghost Forge, Weaver's Needle |
 | geode_inn_canadian_rockies_ammolite.md | Canadian Rockies — sedimentary memory zone, Rememberers (fossilized Fae), Ammolite as zone heart |
-| geode_inn_aughra_lineage.md | Aughra lineage — the wise woman tradition connecting the Retort, the Cook, and Aughra |
+| geode_inn_aughra_lineage.md | Fibonacci lineage — the wise woman tradition connecting the Retort, the Cook, and Fibonacci |
 
 ### V. ZONES — WATER SYSTEM (7 LAYERS)
 
@@ -76,7 +76,7 @@ The Geode Inn is a hybrid digital archive, game hub, and artisan market built as
 |---|---|
 | geode_inn_pirate_tidal_caves.md | The Pirate's tidal caves — six subterranean environments, sea-level gating as the game's clock |
 | geode_inn_siren_deep.md | The Siren's deep water zone — the autoimmune labyrinth (lupus), dual-cadence voice |
-| geode_inn_atlantis_zone_design.md | Atlantis underwater zone — full design with Cthulhu connection |
+| geode_inn_atlantis_zone_design.md | Atlantis underwater zone — full design with Naut connection |
 | geode_inn_stargate_caves_atlantis.md | Stargate caves connecting to Atlantis |
 | geode_inn_lighthouse.md | The Lighthouse — coastal beacon, stone tower (sleeping giant's raised hand), 42Hz piezoluminescence, The Owl as keeper. "The Fixed Point" quest, "Beacon" ability |
 
@@ -104,7 +104,7 @@ The Geode Inn is a hybrid digital archive, game hub, and artisan market built as
 | geode_inn_arthur.md | King Arthur — character profile |
 | geode_inn_galahad.md | Galahad — character profile |
 | geode_inn_mordred.md | Mordred — character profile |
-| geode_inn_merlin_archimedes.md | Merlin and Archimedes — character connection |
+| geode_inn_merlin_archimedes.md | Merlin and Noctua — character connection |
 | geode_inn_loki.md | Loki — character profile |
 | geode_inn_hel.md | Hel (Maleficent-inspired) — character profile |
 
@@ -115,7 +115,7 @@ The Geode Inn is a hybrid digital archive, game hub, and artisan market built as
 | geode_inn_nine_realms_architecture.md | Nine Realms architecture — Aesir originally glass not gold, "The Comfortable Map" quest |
 | geode_inn_jotunheim_quest_chain.md | Jotunheim quest chain — frost giant zone |
 | geode_inn_erik_earl_ragnar.md | Erik (Norse vendor) — Peter Gantzler, the warm Viking, died by fire, chose to be fire that welcomes |
-| geode_inn_uhtred_wanderer.md | Uhtred (Alexander Dreymon) — wandering neutralizer NPC, mobile campfire, "Destiny is all" |
+| geode_inn_uhtred_wanderer.md | The Wayfarer (Alexander Dreymon) — wandering neutralizer NPC, mobile campfire, "Destiny is all" |
 
 ### IX. CHARACTERS — COSMOLOGY LEVEL
 
@@ -136,7 +136,7 @@ The Geode Inn is a hybrid digital archive, game hub, and artisan market built as
 | geode_inn_the_crone.md | The Crone (Anthony Hopkins) — the measurer, the annotator. "Adequate" as highest compliment. Hears the Song for the first time after arguing with Aristotle |
 | geode_inn_charon.md | Charon (Anthony Hopkins) — the Ferryman. Same actor as the Crone, different instrument. The Crone is Hopkins' mind; Charon is Hopkins' silence. "...There you are." Stone as obol payment |
 | geode_inn_the_thrum.md | The Thrum (Ben Whishaw) — Rosicrucian hum, makes inhabitants see each other as silhouettes. Presence over hierarchy |
-| geode_inn_madame_mim.md | Mim — Krista's permanent chaos companion, trickster shoulder angel |
+| geode_inn_madame_mim.md | Brim — Krista's permanent chaos companion, trickster shoulder angel |
 
 ### XI. CHARACTERS — THE MUSIC ROOM
 
@@ -229,7 +229,7 @@ The Geode Inn is a hybrid digital archive, game hub, and artisan market built as
 | Document | Description |
 |---|---|
 | geode_inn_artisan_thief.md | The Artisan Thief (Krista's class) — selkie, human form resembles feminine Sandman. Jeweler's apron IS selkie skin. Dive ability. Theft = redistribution |
-| geode_inn_tinkering_weeaboo.md | The Tinkering Weeaboo (kid's class) — changeling, true form = Ryuk from Death Note. Annoyance meter (Levels 0-4). Eats pomegranates. Anime as mirror. Clockwork tinkerer. The captain's crew: "Good hands. Stay." |
+| geode_inn_tinkering_weeaboo.md | The Tinkering Weeaboo (kid's class) — changeling, true form = the shinigami archetype (original design). Annoyance meter (Levels 0-4). Eats pomegranates. Anime as mirror. Clockwork tinkerer. The captain's crew: "Good hands. Stay." |
 | geode_inn_family_character_registry.md | Family character registry — full family mapping (Krista, sister as Siren, sister's husband as Pirate, kid as Weeaboo) |
 
 ### XXII. CHARACTERS — ODIN & ENTOURAGE
@@ -264,7 +264,7 @@ The Geode Inn is a hybrid digital archive, game hub, and artisan market built as
 
 | Document | Description |
 |---|---|
-| geode_inn_cthulhu_character_profile.md | Cthulhu — 4-foot squid-headed scholar with spectacles. Hidden quest giver. Rewards rarest stones. Krista's love of octopi |
+| geode_inn_cthulhu_character_profile.md | Naut — 4-foot squid-headed scholar with spectacles. Hidden quest giver. Rewards rarest stones. Krista's love of octopi |
 | geode_inn_miskatonic_annex.md | The Miskatonic Annex — library design |
 | geode_inn_miskatonic_annex_storylines.md | Three story chains: "The Lost Books," "Research Threads," "The Librarian's Secret" (Host and Librarian are the same entity) |
 | geode_inn_living_book_system.md | Living Book system — interactive archive books |
@@ -274,7 +274,7 @@ The Geode Inn is a hybrid digital archive, game hub, and artisan market built as
 
 | Document | Description |
 |---|---|
-| geode_inn_the_keeper_aughra.md | The Keeper / Aughra — detailed profile |
+| geode_inn_the_keeper_aughra.md | The Keeper / Fibonacci — detailed profile |
 | geode_inn_bard_pirate.md | The Bard and the Pirate connection |
 | geode_inn_bard_blowhard_character_vibe.md | Bard character vibe |
 | geode_inn_miracle_max.md | Miracle Max — character profile |
@@ -392,8 +392,8 @@ Runs through: underground altar → Inn structure → lighthouse beam → Pirate
 - The Crone (Anthony Hopkins) — the measurer, "Adequate"
 - Charon (Anthony Hopkins) — the Ferryman, the Crone's silence
 - The Thrum (Ben Whishaw) — silhouette-maker, presence over hierarchy
-- Mim — chaos companion, trickster shoulder angel
-- Cthulhu — squid-headed scholar, hidden quest giver
+- Brim — chaos companion, trickster shoulder angel
+- Naut — squid-headed scholar, hidden quest giver
 - The Music Room (9 composers) — Song-catchers, each caught a 42Hz fragment
 
 ### Canopy City
@@ -434,7 +434,7 @@ Runs through: underground altar → Inn structure → lighthouse beam → Pirate
 
 ### Player Characters
 - The Artisan Thief (Krista) — selkie, feminine Sandman, jeweler's apron = selkie skin, theft = redistribution
-- The Tinkering Weeaboo (kid) — changeling, true form = Ryuk, annoyance meter, pomegranates, clockwork tinkerer
+- The Tinkering Weeaboo (kid) — changeling, true form = True Form, annoyance meter, pomegranates, clockwork tinkerer
 - The Duck — platypus, non-magical thief, steals sparkly stones, electroreception guide
 
 ### National Parks Fae
@@ -447,10 +447,10 @@ Runs through: underground altar → Inn structure → lighthouse beam → Pirate
 - The One Who Is Awake (Will Yun Lee) — China, 2,000-year vigil
 - Zorya Polunochnaya (Tilda Swinton) — Slavic, midnight star
 - Erik (Peter Gantzler) — Norse, warm Viking, feast fire
-- Uhtred (Alexander Dreymon) — wandering neutralizer, campfire/clarity
+- The Wayfarer (Alexander Dreymon) — wandering neutralizer, campfire/clarity
 - The One Who Tends (Q'orianka Kilcher) — Peruvian, sleeping giants
-- The Gardener/Radagast (Sylvester McCoy) — Mediterranean, communion with garden
-- Beorn (Mikael Persbrandt) — Mediterranean border guardian
+- The Gardener/The Greenward (Sylvester McCoy) — Mediterranean, communion with garden
+- The Bearsark (Mikael Persbrandt) — Mediterranean border guardian
 - Medusa (Angelica Huston) — the preserver, waiting for the complete Song
 - Bastet (Angela Bassett) — four modes, sistrum, 64Hz purr
 - Persephone (Drew Barrymore) / Hades (Adam Sandler) — 50 First Dates, 4,129 cycles

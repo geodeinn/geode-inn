@@ -77,6 +77,6 @@ Everyone calls it "the Duck." Not because it's a duck. Because it's the only cre
 
 The Duck is the Inn's sense of humor made into a creature. The Inn is deep, layered, scholarly, gothic, philosophical, and occasionally overwhelming. The Duck is the relief valve. The Duck is the reminder that not everything has to mean something. Sometimes a platypus steals a shiny rock because the shiny rock is shiny. Sometimes the deepest thing in the room is the thing that isn't trying to be deep.
 
-The Duck is the Addams Family's Thing — the small, strange, beloved creature that is part of the family for reasons no one can explain. The Duck is Gomez's delight. The Duck is Wednesday's "I'll allow it." The Duck is Grandmama's "that one's got sense."
+The Duck is the Addams Family's Thing — the small, strange, beloved creature that is part of the family for reasons no one can explain. The Duck is Gomez's delight. The Duck is Belladonna's "I'll allow it." The Duck is Grandmama's "that one's got sense."
 
 The Duck is the platypus. The platypus is the real. The real is the most mythological thing in the Inn.

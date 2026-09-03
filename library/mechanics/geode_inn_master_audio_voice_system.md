@@ -145,9 +145,9 @@ Accents are not assigned TO characters. Accents ARE the characters. The NPCs com
 | The One Who Tends | Q'orianka Kilcher | Andean Spanish/Quechua | Andes | "Pueblo" = the people who ARE the place |
 | The Shifting Man | Pedro Pascal | Neutral (shifting) | All zones | Fluid identity, wardrobe of accumulated selves |
 | Erik | Norse elder | Norse (deep) | Norse zone | Feast-fire energy, expansive openness |
-| Uhtred | Alexander Dreymon | British/Norse | All (wandering) | War-drum fingers, level volume regardless of emotion |
-| Beorn | Mikael Persbrandt | Nordic | Mediterranean border | Body IS the instrument, bear always in the shoulders |
-| Radagast (Gardener) | Sylvester McCoy | British (Scottish) | Mediterranean/Garden | Distracted cadence, sentences that branch mid-stream |
+| The Wayfarer | Alexander Dreymon | British/Norse | All (wandering) | War-drum fingers, level volume regardless of emotion |
+| The Bearsark | Mikael Persbrandt | Nordic | Mediterranean border | Body IS the instrument, bear always in the shoulders |
+| The Greenward (Gardener) | Sylvester McCoy | British (Scottish) | Mediterranean/Garden | Distracted cadence, sentences that branch mid-stream |
 
 #### Fae Court NPCs
 

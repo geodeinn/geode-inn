@@ -26,7 +26,7 @@ This is NOT the Undercity's cozy gothic. This is POWER gothic — the gothic of 
 
 The Poison Garden is the walled garden of a grand English country estate — the kind of estate that Downton Abbey represents. The great house is visible from the garden — a vast, orderly, Georgian-Gothic mansion with symmetric wings, a central tower, and enough chimneys to suggest that someone is always burning something. The house is the garden's context: the garden exists BECAUSE the house exists. The poison is grown for the household. The household is the reason.
 
-The Downton quality: the estate is FUNCTIONAL. This is not a ruin. This is not a museum. The estate is a working aristocratic household — there are servants, there are routines, there is the quiet machinery of a large house that runs on the labor of people who are never seen by the visitors. The garden is tended by the Gardener (Radagast) and the estate's head gardener. The house is maintained by a staff that moves through the corridors the way blood moves through veins — essential, constant, invisible.
+The Downton quality: the estate is FUNCTIONAL. This is not a ruin. This is not a museum. The estate is a working aristocratic household — there are servants, there are routines, there is the quiet machinery of a large house that runs on the labor of people who are never seen by the visitors. The garden is tended by the Gardener (The Greenward) and the estate's head gardener. The house is maintained by a staff that moves through the corridors the way blood moves through veins — essential, constant, invisible.
 
 ### The Architecture
 
@@ -136,7 +136,7 @@ The garden's design (from the existing Poison Garden doc) is preserved:
 - ~100 toxic, intoxicating, and narcotic plants
 - Foxgloves, laburnum, belladonna, monkshood, opium poppies
 - The dose makes the Song — every plant can kill or cure
-- The Gardener (Radagast) gives the safety briefing
+- The Gardener (The Greenward) gives the safety briefing
 - No touching, tasting, or smelling
 
 What the architecture ADDS to the garden:

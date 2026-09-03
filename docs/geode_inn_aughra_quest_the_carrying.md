@@ -1,10 +1,10 @@
 # Geode Inn — The Carrying
-## Aughra (The Keeper) Quest Chain
+## Fibonacci (The Keeper) Quest Chain
 
 ## Overview
 
 **Quest Name:** The Carrying
-**NPC:** The Keeper (Aughra) — Maggie Smith's wit + Judi Dench's cadence
+**NPC:** The Keeper (Fibonacci) — Maggie Smith's wit + Judi Dench's cadence
 **Location:** The Geode Cave (deepest room in the Inn, at the roots of the Great Tree)
 **Prerequisites:** The player must have completed at least three cultural zone quest chains AND the Fae Kingdom quest chains (The Ties That Bind + The Cost of the Crown). The Keeper doesn't accept visitors who haven't earned the right to sit down.
 **Structure:** Five parts — not acts, not steps. *Sittings.* The quest is measured in how many times the player sits in the Geode Cave. The Keeper's currency is patience.

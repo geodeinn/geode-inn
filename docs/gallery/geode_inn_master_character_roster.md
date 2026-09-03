@@ -58,30 +58,30 @@ A coinciding list of every created character, critter, creature, and item with v
 | 38 | Joe (The Miniaturist) | Main Floor (L3) / Studio | ✅ Portrait | Paints dragon kittens, Tom Ellis Lucifer cadence |
 | 39 | The Fixer (Wrought) | Staircase (L5) | ✅ Portrait | |
 | 40 | The Ceiling Gnome (Gesso) | Staircase (L5) / Ceiling | ✅ Portrait | Whisper Layer positioning |
-| 41 | Naut (The Scholar) | Main Floor (L3) / Archive | ✅ Portrait | Formerly Cthulhu, 4-foot squid-headed scholar by fireplace |
+| 41 | Naut (The Scholar) | Main Floor (L3) / Archive | ✅ Portrait | Formerly Naut, 4-foot squid-headed scholar by fireplace |
 | 42 | Beverley the Librarian | Archive | ✅ Portrait | Anne Robinson cadence, Australian accent |
-| 43 | The Keeper (Aughra) | Clockwork Skies (L2) | ✅ Portrait | |
+| 43 | The Keeper (Fibonacci) | Clockwork Skies (L2) | ✅ Portrait | |
 | 44 | The Queen of Words | Archive / Main Floor | ✅ Portrait | |
 | 45 | The Council of Thinkers | Staircase (L5) / Archive | ✅ Portrait | Greek Philosophers trio |
 | 46 | The Astronomer | Cosmology (L1) | ✅ Portrait | Einstein/Cumberbatch inspired |
-| 47 | Merlin | Camelot (z20) | ✅ Portrait | With Archimedes (owl) |
-| 48 | Archimedes | Camelot (z20) | ✅ Portrait | Shared image with Merlin |
+| 47 | Merlin | Camelot (z20) | ✅ Portrait | With Noctua (owl) |
+| 48 | Noctua | Camelot (z20) | ✅ Portrait | Shared image with Merlin |
 | 49 | The Shifting Man | Catacombs (L6) / Undercity | ✅ Portrait | |
 | 50 | Thorin | Meadery (z29) / Norse Realms | ✅ Portrait | |
 | 51 | Marijke | Meadery (z29) | ✅ Portrait | |
 | 52 | The Pirate | Water Zone (L8) / Campgrounds | ✅ Portrait | |
-| 53 | The Gardener (Radagast) | Garden (z28) | ✅ Portrait | |
-| 54 | Brim (Madame Mim) | Main Floor (L3) | ✅ Portrait | Formerly Madame Mim |
+| 53 | The Gardener (The Greenward) | Garden (z28) | ✅ Portrait | |
+| 54 | Brim (Brim) | Main Floor (L3) | ✅ Portrait | Formerly Brim |
 | 55 | The Cook | Main Floor (L3) | ✅ Portrait | |
 | 56 | Erik (Norse Feast Host) | Norse Realms (z26) / Meadery | ✅ Portrait | |
-| 57 | Uhtred | Camelot (z20) / Norse Realms | ✅ Portrait | |
-| 58 | Beorn | Norse Realms (z26) | ✅ Portrait | |
+| 57 | The Wayfarer | Camelot (z20) / Norse Realms | ✅ Portrait | |
+| 58 | The Bearsark | Norse Realms (z26) | ✅ Portrait | |
 | 59 | The Retort (Tesla) | Staircase (L5) | ✅ Portrait | |
 | 60 | The Captain | Clockwork Skies (L2) | ✅ Portrait | |
 | 61 | The Navigator | Clockwork Skies (L2) | ✅ Portrait | |
 | 62 | The Cartographer | Clockwork Skies (L2) | ✅ Portrait | |
 | 63 | The Examiner | Clockwork Skies (L2) | ✅ Portrait | |
-| 64 | Aughra | Clockwork Skies (L2) | ✅ Portrait | |
+| 64 | Fibonacci | Clockwork Skies (L2) | ✅ Portrait | |
 | 65 | The Siren | Water Zone (L8) | ✅ Portrait | |
 | 66 | The Thrum (Whisper Layer) | Main Floor (L3) / All zones | ✅ Portrait | Archive-aware, no villain |
 | 67 | The Pulse Line | Main Floor (L3) / All zones | ✅ Portrait | UI element |
@@ -96,7 +96,7 @@ A coinciding list of every created character, critter, creature, and item with v
 | 76 | Leonardo da Vinci | Cosmology (L1) / Staircase | ✅ Portrait | |
 | 77 | Einstein | Cosmology (L1) | ✅ Portrait | |
 | 78 | Miracle Max | Staircase (L5) | ✅ Portrait | Theatrical alchemist |
-| 79 | Wednesday / Belladonna | Main Floor (L3) | ✅ Portrait | Addams-inspired |
+| 79 | Belladonna / Belladonna | Main Floor (L3) | ✅ Portrait | Addams-inspired |
 | 80 | The Firekeeper (Tim Curry) | Main Floor (L3) / Hearth | ✅ Portrait | |
 
 ---
@@ -397,11 +397,11 @@ Each shadow echo is the 84Hz petrified version of its living counterpart — the
 
 ## NAMING CONVENTIONS (Confirmed Decisions)
 
-- Mim → **Brim**
-- Cthulhu → **Naut**
+- Brim → **Brim**
+- Naut → **Naut**
 - Player Guide → **Lark**
 - John Myers → **Quire** (NPC) / John Myers (real player)
-- Madame Mim → **Brim**
+- Brim → **Brim**
 - The Scholar → **Naut**
 - The Sentinel → **Lozen** (class title was "The Sentinel," character name is Lozen)
 - Unseelie King → **Malachi**

@@ -29,7 +29,7 @@ The Cabbit sits on the brass and lapis-lazuli floor of the cosmology level's tim
 
 Above all of them, in the Observatory — a steampunk time ship that floats in the void outside the Inn — the Constant walks with the starlight crystal, the Astronomer calculates the Song, Nyx extends into the infinite dark, and the Guest holds his music box and watches.
 
-The Observatory is a Magritte painting made architecture. It is a floating sculpture in the void — solid on the outside, open on the inside. "The Double Secret." A sentry pipe floats near the chaotic witch Madame Mim, whispering "Ceci n'est pas une pipe." The pipe is alive. It trades items. It switches forms when Mim switches vessels. It is both a joke and the Inn's thesis statement: the representation is not the thing. The Inn is not a tree. The player is not the Murmur. Or maybe they are.
+The Observatory is a Magritte painting made architecture. It is a floating sculpture in the void — solid on the outside, open on the inside. "The Double Secret." A sentry pipe floats near the chaotic witch Brim, whispering "Ceci n'est pas une pipe." The pipe is alive. It trades items. It switches forms when Brim switches vessels. It is both a joke and the Inn's thesis statement: the representation is not the thing. The Inn is not a tree. The player is not the Murmur. Or maybe they are.
 
 The Observatory is also where the meta-narrative lives. The player's presence in the void creates loneliness — the void is empty because the player is there to observe it. This is the Slay the Princess / Stanley Parable layer: the Inn knows it is being observed. The observer's presence makes the Inn real. Einstein — the only character in the Inn who speaks in plain, direct language, no fragmented dialogue — sits in the grey In-Between and says: "You are not walking through the Inn. The Inn is walking through you."
 
@@ -89,17 +89,17 @@ The Crone's twin is Charon — the ferryman of the dead, played by the same acto
 
 The Catalyst tends the bar on the main floor's east side — a bar that is also a garden, because the bar is built into the Inn-Tree's bark and living vines grow from the shelves. The Catalyst is a wild-haired woman with a slightly unhinged warmth, and she grows things. Not the way a gardener grows things — the way a force of nature grows things. The Catalyst is the agent of biological will, the power that says "grow" and the growing happens, whether the growing should happen or not.
 
-The Catalyst's garden is the Inn's thesis on growth: some things grow because you ask them (the Gardener's way) and some things grow because you tell them (the Catalyst's way). The Catalyst and the Gardener — Radagast the Brown, who tends the Inn's outdoor garden on the Mediterranean border — are the Inn's two approaches to creation. The Catalyst grows by will. The Gardener grows by communion. They trade plants: fast-growers that Radagast settles, slow-growers the Catalyst can't rush. The singing vines — the vines that produce the Inn's ambient music when someone pays attention to them — are the Catalyst's work. The hedgehogs — the smallest NPCs, the garden's quietest residents — are the Gardener's.
+The Catalyst's garden is the Inn's thesis on growth: some things grow because you ask them (the Gardener's way) and some things grow because you tell them (the Catalyst's way). The Catalyst and the Gardener — The Greenward, who tends the Inn's outdoor garden on the Mediterranean border — are the Inn's two approaches to creation. The Catalyst grows by will. The Gardener grows by communion. They trade plants: fast-growers that The Greenward settles, slow-growers the Catalyst can't rush. The singing vines — the vines that produce the Inn's ambient music when someone pays attention to them — are the Catalyst's work. The hedgehogs — the smallest NPCs, the garden's quietest residents — are the Gardener's.
 
 The Catalyst's connection to the NeverEnding Story is the Inn's deepest mythological layer. The Catalyst is Bastion's wishing made into a character — she grows things that shouldn't grow, the way Bastian's wishes in the NeverEnding Story create things that shouldn't exist. The Inn itself is Bastion's grain of sand: the small, fragile, human thing that the geological patience of the sleeping giants makes possible. The naming is the saving mechanism — the One Who Is Awake names warriors, Zorya names new words, the guide names dreams, the player names themselves. Every character in the Inn performs Bastion's act.
 
-## Madame Mim
+## Brim
 
-Madame Mim is the player's shoulder companion — the inner chaos agent who rides a Magritte-inspired pipe through the Inn and says "but what if we did the fun wrong version?" She is the Kronk bad angel on the player's shoulder. She is theatrical, dramatic, charismatic, and more interesting than the heroes. Her energy is the Disney villain energy: the villain whose theatricality IS the compassion, whose chaos IS the warmth.
+Brim is the player's shoulder companion — the inner chaos agent who rides a Magritte-inspired pipe through the Inn and says "but what if we did the fun wrong version?" She is the Kronk bad angel on the player's shoulder. She is theatrical, dramatic, charismatic, and more interesting than the heroes. Her energy is the Disney villain energy: the villain whose theatricality IS the compassion, whose chaos IS the warmth.
 
-Mim's role in the narrative is to break the formula. The Vessel holds the formula — the pellet-with-the-poison logic, the rules of the Inn's mechanics — and Mim actively breaks it. The two of them are the Inn's central tension: precision (the Vessel) and chaos (Mim). The player navigates between them. Listen to the Vessel, follow the rules, and the Inn operates as designed. Listen to Mim, break the rules, and the Inn reveals its hidden rooms, its secret paths, its wrong-but-wonderful versions.
+Brim's role in the narrative is to break the formula. The Vessel holds the formula — the pellet-with-the-poison logic, the rules of the Inn's mechanics — and Brim actively breaks it. The two of them are the Inn's central tension: precision (the Vessel) and chaos (Brim). The player navigates between them. Listen to the Vessel, follow the rules, and the Inn operates as designed. Listen to Brim, break the rules, and the Inn reveals its hidden rooms, its secret paths, its wrong-but-wonderful versions.
 
-Mim's pipe is the sentient Magritte pipe — "Ceci n'est pas une pipe." The pipe floats, trades items, and switches forms when Mim switches vessels. It whispers. It is the Inn's thesis made tangible: the representation is not the thing. The map is not the territory. The Inn is not a tree. The player is not the Murmur. The pipe is the Inn's invitation to question every assumption — including the assumption that the Inn is real.
+Brim's pipe is the sentient Magritte pipe — "Ceci n'est pas une pipe." The pipe floats, trades items, and switches forms when Brim switches vessels. It whispers. It is the Inn's thesis made tangible: the representation is not the thing. The map is not the territory. The Inn is not a tree. The player is not the Murmur. The pipe is the Inn's invitation to question every assumption — including the assumption that the Inn is real.
 
 ## The Arcade
 
@@ -200,9 +200,9 @@ The Queen is brilliant and trapped. Her public face is a prison. Her private spa
 
 Their quest — "The Echo and the Crown" — asks the player to witness their private faces. Not to expose them. To SEE them. When the quest is complete, their private notes join the Song: a hammer on an anvil, a page turning.
 
-## Aughra
+## Fibonacci
 
-Aughra sits on the Neutral Platform — an ancient, wild-haired seer with one enormous golden eye. She removed the other for deeper vision, mirroring Odin's sacrifice. The Neutral Platform is where the Inn-Tree sapling grows — the next cycle's seed. Aughra watches it the way the Constant watches the starlight crystal: with the patience of someone who knows the current cycle will end and the next one will begin.
+Fibonacci sits on the Neutral Platform — an ancient, wild-haired seer with one enormous golden eye. She removed the other for deeper vision, mirroring Odin's sacrifice. The Neutral Platform is where the Inn-Tree sapling grows — the next cycle's seed. Fibonacci watches it the way the Constant watches the starlight crystal: with the patience of someone who knows the current cycle will end and the next one will begin.
 
 ---
 
@@ -246,13 +246,13 @@ Guide: Erik — the warm Viking who died by fire and chose to be the fire that w
 
 Loki stands at the border between the feast hall and a colder corridor — fire and frost coexisting. The schemer whose warmth is genuine while the purpose is hidden. The Inn treats Loki with neutrality: not villain, not hero. A facet.
 
-Uhtred wanders between zones — the man who says the uncomfortable truth: "Destiny is all" means the argument is already decided. He neutralizes NPC conflicts by appearing with a campfire. The Pirate gives him rides to the next nowhere.
+The Wayfarer wanders between zones — the man who says the uncomfortable truth: "Destiny is all" means the argument is already decided. He neutralizes NPC conflicts by appearing with a campfire. The Pirate gives him rides to the next nowhere.
 
 ## The Mediterranean Zone: The Garden
 
-Olive trees, singing vines, warm stone. Guide: Radagast the Brown — grows through communion. He ASKS the garden to grow. He kneels among singing vines and talks to a hedgehog. Bees circle his head.
+Olive trees, singing vines, warm stone. Guide: The Greenward — grows through communion. He ASKS the garden to grow. He kneels among singing vines and talks to a hedgehog. Bees circle his head.
 
-Beorn guards the border — a massive man who is also a massive bear. Both forms real. Kali's blade cannot cut what has two true forms.
+The Bearsark guards the border — a massive man who is also a massive bear. Both forms real. Kali's blade cannot cut what has two true forms.
 
 Medusa lives in a grotto at the olive grove's edge — the geological petrification mechanism. She froze the sleeping giants at their request. Her lithophone plays the Song captured in stone. She is waiting for the Song to be complete before she looks at the singing vines — the gaze will freeze them at the moment of the complete Song, capturing it in stone forever. The frozen vine is the Inn's final note. When it plays, the giants can wake.
 
@@ -262,7 +262,7 @@ Her deepest connection: the Astronomer calculates WHEN the Song will be complete
 
 A spiral staircase leading to Avalon. King Arthur stands at the top as the Elder — an aging king turning back: "The table is yours now... Build it again." Excalibur sheathed. The Round Table visible below — empty chairs, waiting.
 
-Merlin stands behind — the wizard living backward, remembering the future. On his shoulder: Archimedes, a barn owl. "Wherever an owl is sighted, one of us is near." Merlin's mirror-script matches Leonardo's notebooks and the Annunaki runes. The same script across millennia. The Inn's root language.
+Merlin stands behind — the wizard living backward, remembering the future. On his shoulder: Noctua, a barn owl. "Wherever an owl is sighted, one of us is near." Merlin's mirror-script matches Leonardo's notebooks and the Annunaki runes. The same script across millennia. The Inn's root language.
 
 The Arthurian layer is the Inn's thesis on legacy: the table is yours now. Build it again. The player who sits at the Round Table inherits Arthur's responsibility — the duty to gather people, build alliances, make a space where everyone has a seat. The Inn is a round table. The building is the saving mechanism.
 
@@ -276,7 +276,7 @@ Building type: the mastaba — the flat-topped tomb, the pyramid's ancestor, the
 
 # THE UNDERCITY
 
-The Inn's city of the dead — the permanent residence beneath the roots. Wednesday Addams' domain. Cozy Gothic — warm AND weird AND gothic. The dead are not scary. The dead are neighbors. The dead sit on benches. The dead read books.
+The Inn's city of the dead — the permanent residence beneath the roots. Belladonna' domain. Cozy Gothic — warm AND weird AND gothic. The dead are not scary. The dead are neighbors. The dead sit on benches. The dead read books.
 
 ## Charon
 
@@ -350,7 +350,7 @@ The coast is New England Gothic — granite, fog, an abandoned fishing town. Oce
 
 Post-Inigo Montoya. The sword became the drum. Lives in the AFTER — after the quest, after the revenge, after the thing that defined you is done. "Harbor Master Effect" — authority figures defer without question. The accumulated weight of every holder of the mantle.
 
-Gives Uhtred rides to the next nowhere. Quest: "The After" — chart the uncharted zones. Reward: Compass That Points Forward. Not north. Not home. Forward. The compass points toward what hasn't been built yet.
+Gives The Wayfarer rides to the next nowhere. Quest: "The After" — chart the uncharted zones. Reward: Compass That Points Forward. Not north. Not home. Forward. The compass points toward what hasn't been built yet.
 
 ## The Siren
 
@@ -380,7 +380,7 @@ Five tiers from personal to cosmic:
 
 **Tier 3 — Sacred Buildings** (upward, spiritual): Gothic cathedral, rock-hewn church, stave church, Byzantine dome. Acoustic construction — the player builds for SOUND, tuning to specific frequencies. A cathedral tuned to 42Hz becomes the Inn's voice.
 
-**Tier 4 — Mausoleums** (downward, ancestral): mastaba, catacomb, Gothic crypt, kurgan, ship burial, chullpa, barrow. The architecture of the dead. Wednesday consults: "The dead need: comfortable. Dark. Quiet. A bench. The bench is the most important part. The dead sit."
+**Tier 4 — Mausoleums** (downward, ancestral): mastaba, catacomb, Gothic crypt, kurgan, ship burial, chullpa, barrow. The architecture of the dead. Belladonna consults: "The dead need: comfortable. Dark. Quiet. A bench. The bench is the most important part. The dead sit."
 
 **Tier 5 — The Cave City** (synthesis): all four tiers in one structure. The Crimean Gothic cave cities — part built, part carved. Shelter, castle, church, and mausoleum in the same rock. The Crimean Goths preserved their culture in the rock for a thousand years after the world forgot them. Their Gothic language is the Inn's root language — the murmur's dialect. The cave city is the Inn's endgame for the builder: the discovery that all four tiers are the same. The same is: the cave. The cave is: adequate.
 
@@ -392,7 +392,7 @@ Inn creatures wander into real-world National Parks to assess human humility. Cr
 
 The Modern Legends archive records the wandering program's encounters. Each legend answers: "Will this still be worth telling in 2126?" Not conspiracy theories — folklore. The modern equivalent of ancient myths.
 
-Wednesday has a seasonal residence at Mount Fuji — the Undercity's embassy to Japan. Cozy gothic translated into Japanese mountain architecture. The yōkai are her kind of people.
+Belladonna has a seasonal residence at Mount Fuji — the Undercity's embassy to Japan. Cozy gothic translated into Japanese mountain architecture. The yōkai are her kind of people.
 
 ---
 

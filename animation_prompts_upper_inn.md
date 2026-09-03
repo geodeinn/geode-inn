@@ -9,7 +9,7 @@ All animation prompts in this document adhere strictly to the **Geode Inn Master
 
 1. **Linework-as-UI System:**
    - **Heavy cel-shaded:** Tradespeople, crew, working characters (Innkeeper, Weeaboo, Navigator, Cool, Protector, Reluctant). Bold black line weights and crisp shadow boundaries.
-   - **Soft flowing:** Lore keepers, scholars, gentle spirits (Cthulhu, Pure-Hearted). Smooth contour lines, organic flow, graceful weight transitions.
+   - **Soft flowing:** Lore keepers, scholars, gentle spirits (Naut, Pure-Hearted). Smooth contour lines, organic flow, graceful weight transitions.
    - **Sharp/angular:** Guardians, sky navigators, complex thinkers (Captain, Philosopher). Hard angles, geometric geometry, cut-glass edge clarity.
    - **No-outline:** Cosmological beings, gods, celestial entities (Allfather, Freyr, Freyja, Anna). Form defined strictly through gradient illumination, volumetric rim light, and edge emission; zero inked outlines.
    - **Fragmented:** Entities in crisis or existing between states (Ryoko). Broken, flickering stroke lines, offset line layers, and micro-tears in vector boundaries.
@@ -329,8 +329,8 @@ All animation prompts in this document adhere strictly to the **Geode Inn Master
 
 ---
 
-#### 19. Cthulhu the Scholar
-- **Subject Name:** Cthulhu the Scholar — Hidden Book Collector
+#### 19. Naut the Scholar
+- **Subject Name:** Naut the Scholar — Hidden Book Collector
 - **Visual Description:** A charming 4-foot-tall scholarly figure with a cephalopod head, soft green skin, small coiled tentacles around mouth, and small brass reading spectacles perched on nose bridge. Wears an oversized tweed professor vest with elbow patches, sitting in a velvet wingback chair beside the fire, engrossed in a giant leather tome.
 - **Linework Style:** **Soft Flowing (Scholar Style)**. Smooth, gentle organic line contours around tentacles and cozy tweed vest texture.
 - **Color Palette:** Scholar Sea Green (`#15803D`), Deep Ink Black (`#020617`), Tweed Brown (`#78350F`), Velvet Crimson (`#991B1B`).

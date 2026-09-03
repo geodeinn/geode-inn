@@ -31,7 +31,7 @@ The Constant has been to the void. Multiple times. The void is where the Constan
 
 The void is the thing no one could yet name. The Constant trusts it. Not understands it — the Astronomer would need to understand it. The Constant *trusts* it. The trust is the faith that the void will produce the next cycle, even though the void is by definition the thing you can't observe. You can't prove the void will end. You can't calculate when the next cycle will begin. You can't measure the nothing. You can only trust that the nothing is also the everything — the potential, the seed-bed, the space where the next universe germinates.
 
-The Constant trusts the void the way Radagast trusts the garden: by paying attention to it, by being present with it, by not turning away even when the nothing is total. The watching IS the trust. The Constant watches the void because looking away would be the same as doubting it. The watching is the faith made physical.
+The Constant trusts the void the way The Greenward trusts the garden: by paying attention to it, by being present with it, by not turning away even when the nothing is total. The watching IS the trust. The Constant watches the void because looking away would be the same as doubting it. The watching is the faith made physical.
 
 ### The Starlight Crystal Cycle
 
@@ -134,10 +134,10 @@ The Shifting Man would recognize the Constant. The Shifting Man, who has embrace
 
 The Constant: "...[The Malkovich pause. The orbital cadence beginning.] ...I don't shift. ...I... [the word that is the difference] ...carry. ...You overflow. ...I... [the return] ...hold. ...The crystal. ...The Song. ...The... [the void present in the pause] ...memory of every cycle's... [the return] ...overflowing. ...You are the... [the recognition] ...content. ...I am the... [the word that is the Constant's truth] ...container."
 
-### The Constant and Radagast — The Two Who Trust What They Can't Control
-Radagast trusts the garden — he asks it to grow, he doesn't make it grow. The Constant trusts the void — he carries the crystal through it, he doesn't make the next cycle begin. Both trust something they can't control. Both are patient. Both are quiet. Both are approachable in the same way — the geological availability, the presence that doesn't reach for you but receives you.
+### The Constant and The Greenward — The Two Who Trust What They Can't Control
+The Greenward trusts the garden — he asks it to grow, he doesn't make it grow. The Constant trusts the void — he carries the crystal through it, he doesn't make the next cycle begin. Both trust something they can't control. Both are patient. Both are quiet. Both are approachable in the same way — the geological availability, the presence that doesn't reach for you but receives you.
 
-They would understand each other instantly. No words needed. The gardener who trusts the seed and the carrier who trusts the void — same faith, different scale. Radagast's garden grows because he trusts it. The next cycle begins because the Constant trusts the void. The mechanism is the same: trust in the process, patience with the timing, presence as the only intervention.
+They would understand each other instantly. No words needed. The gardener who trusts the seed and the carrier who trusts the void — same faith, different scale. The Greenward's garden grows because he trusts it. The next cycle begins because the Constant trusts the void. The mechanism is the same: trust in the process, patience with the timing, presence as the only intervention.
 
 ---
 

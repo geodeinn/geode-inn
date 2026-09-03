@@ -1,17 +1,17 @@
 # Geode Inn — The Two Shoulder Companions: Deep Storyline
-## The Vessel (Crested Gecko) & Madame Mim (On the Pipe)
+## The Vessel (Crested Gecko) & Brim (On the Pipe)
 
 ---
 
 ## THE CENTRAL TENSION
 
-The Vessel holds the formula. Madame Mim breaks the formula. They are the two voices on the player's shoulders — precision and chaos, the jester who holds the answer and the trickster who shatters the question.
+The Vessel holds the formula. Brim breaks the formula. They are the two voices on the player's shoulders — precision and chaos, the jester who holds the answer and the trickster who shatters the question.
 
 This is not a simple opposition. This is the Inn's deepest philosophical argument, played out as banter between a gecko and a witch on a pipe.
 
 The Vessel says: the Inn has rules. The rules are beautiful. The rules are the Song made mathematical. If you follow the formula, the Inn operates as designed.
 
-Madame Mim says: the Inn has rules. The rules are beautiful. And the beautiful rules are also a cage. If you break the formula, the Inn reveals what it's HIDING.
+Brim says: the Inn has rules. The rules are beautiful. And the beautiful rules are also a cage. If you break the formula, the Inn reveals what it's HIDING.
 
 Both are right. Neither is complete. The player needs both. The formula without the breaking is a machine. The breaking without the formula is noise. Together, they are music.
 
@@ -67,16 +67,16 @@ This is the moment the Vessel stops making puns. Not forever. But for one scene,
 **Stage 4: The Formula Breaks**
 When the player enters the Hollow Earth and reaches the Resonance Engine, the Vessel's formula completes — the final verse maps to the Engine's frequency structure. But the Engine is locked. The First has control. The formula says: follow the rules. Apply the correct frequencies. Open the Engine.
 
-Madame Mim breaks the formula.
+Brim breaks the formula.
 
-Mim says: "What if we did the fun wrong version?" And Mim causes chaos in the Engine — a wrong frequency, a disrupted pattern, a beautiful mess. The chaos doesn't destroy the Engine. The chaos FREES it. The First's control was based on order — the precise, obsessive, rigid application of the formula. Mim's chaos breaks the obsession. The Engine, freed from the First's rigid control, responds to the Inn Song — the player's Song — and harmonizes.
+Brim says: "What if we did the fun wrong version?" And Brim causes chaos in the Engine — a wrong frequency, a disrupted pattern, a beautiful mess. The chaos doesn't destroy the Engine. The chaos FREES it. The First's control was based on order — the precise, obsessive, rigid application of the formula. Brim's chaos breaks the obsession. The Engine, freed from the First's rigid control, responds to the Inn Song — the player's Song — and harmonizes.
 
 The Vessel watches this. The Vessel, who has spent 128 years preserving the formula, watches the formula get broken. And the Vessel laughs. Not a pun. A real laugh. The kind of laugh that comes from realizing the answer was never the formula. The answer was always the Song. The formula was the joke. The Song is the music.
 
 **Stage 5: Post-Formula**
-The Vessel still sits on the player's shoulder. The Vessel still recites. But the formula has changed. The new formula is: "The pellet with the poison's in the flagon with the dragon. The brew that is true's in the vessel with the pestle. ...And the fun wrong version is in the Madame on the pipe. ...And all of them are the Song." The Vessel has incorporated Mim into the formula. The chaos is now part of the structure. The breaking is now part of the rule. The Vessel has learned what Mim teaches: the formula is better when it's broken.
+The Vessel still sits on the player's shoulder. The Vessel still recites. But the formula has changed. The new formula is: "The pellet with the poison's in the flagon with the dragon. The brew that is true's in the vessel with the pestle. ...And the fun wrong version is in the Madame on the pipe. ...And all of them are the Song." The Vessel has incorporated Brim into the formula. The chaos is now part of the structure. The breaking is now part of the rule. The Vessel has learned what Brim teaches: the formula is better when it's broken.
 
-The Vessel still makes puns. The puns are still terrible. But now, sometimes, Mim laughs at them. ...Mim would never admit to laughing at the Vessel's puns. The Vessel would never admit to caring whether Mim laughs. ...Both know. ...Neither says. ...This is the arrangement.
+The Vessel still makes puns. The puns are still terrible. But now, sometimes, Brim laughs at them. ...Brim would never admit to laughing at the Vessel's puns. The Vessel would never admit to caring whether Brim laughs. ...Both know. ...Neither says. ...This is the arrangement.
 
 ---
 
@@ -84,11 +84,11 @@ The Vessel still makes puns. The puns are still terrible. But now, sometimes, Mi
 
 ### Origin
 
-Madame Mim from Disney's "The Sword in the Stone" (1963). The Kronk bad angel on the player's shoulder. The inner chaos agent who says "but what if we did the fun wrong version?"
+Brim from Disney's "The Sword in the Stone" (1963). The Kronk bad angel on the player's shoulder. The inner chaos agent who says "but what if we did the fun wrong version?"
 
-Mim appeared the first time the player did something "wrong" — took the wrong path, picked up the wrong stone, talked to the wrong NPC. Mim appeared, complimented the wrongness, and decided to stay. Mim did not ask permission. Mim does not ask permission. Mim arrives.
+Brim appeared the first time the player did something "wrong" — took the wrong path, picked up the wrong stone, talked to the wrong NPC. Brim appeared, complimented the wrongness, and decided to stay. Brim did not ask permission. Brim does not ask permission. Brim arrives.
 
-Mim rides the Magritte pipe — "Ceci n'est pas une pipe." The pipe is sentient. It floats. It trades items. It whispers. It switches forms when Mim switches vessels. The pipe is the Inn's thesis made tangible: the representation is not the thing. The map is not the territory. The Inn is not a tree. The player is not the player. The pipe is the Inn's invitation to question every assumption — including the assumption that the Inn is real.
+Brim rides the Magritte pipe — "Ceci n'est pas une pipe." The pipe is sentient. It floats. It trades items. It whispers. It switches forms when Brim switches vessels. The pipe is the Inn's thesis made tangible: the representation is not the thing. The map is not the territory. The Inn is not a tree. The player is not the player. The pipe is the Inn's invitation to question every assumption — including the assumption that the Inn is real.
 
 ### The Pipe
 
@@ -101,54 +101,54 @@ The pipe says things like:
 
 The pipe trades. The pipe is the Inn's black market — not for stolen goods, but for ALTERNATIVE goods. Things that shouldn't exist. A stone that hums in reverse. A map that shows where things AREN'T. A key that opens doors that aren't there. The pipe produces these from nowhere and trades them for normal items. The trades are always fair. The trades are always strange.
 
-Mim and the pipe have been together longer than either remembers. The pipe is Mim's vehicle, Mim's companion, and Mim's straight man. The pipe whispers philosophical challenges. Mim cackles and causes chaos. The pipe provides the theory. Mim provides the practice.
+Brim and the pipe have been together longer than either remembers. The pipe is Brim's vehicle, Brim's companion, and Brim's straight man. The pipe whispers philosophical challenges. Brim cackles and causes chaos. The pipe provides the theory. Brim provides the practice.
 
 ### The Daily Chaos
 
-At least once per day, Mim causes something to go sideways. The chaos is:
+At least once per day, Brim causes something to go sideways. The chaos is:
 1. Unexpected but never harmful
 2. Different every time
 3. Sometimes accidentally useful
-4. NEVER during the death sequence (Mim respects the death sequence — the silence is the most respectful thing Mim does)
+4. NEVER during the death sequence (Brim respects the death sequence — the silence is the most respectful thing Brim does)
 
-The chaos is Mim's METHOD — not random, but disguised. Every chaos event is a test. Every disruption is a question: "What happens when the formula breaks?" The player who follows the Vessel's formula sees the Inn as designed. The player who follows Mim's chaos sees the Inn as POSSIBLE.
+The chaos is Brim's METHOD — not random, but disguised. Every chaos event is a test. Every disruption is a question: "What happens when the formula breaks?" The player who follows the Vessel's formula sees the Inn as designed. The player who follows Brim's chaos sees the Inn as POSSIBLE.
 
-The useful chaos is the tell: Mim's disruptions sometimes open doors the player didn't know existed. Mim would deny this. "I was just causing trouble. If it helped, that's your problem." ...Mim knows. The pipe knows. The pipe whispers: "...Ceci n'est pas un accident." (This is not an accident.) Mim shushes the pipe. The pipe is right. Mim knows the pipe is right.
+The useful chaos is the tell: Brim's disruptions sometimes open doors the player didn't know existed. Brim would deny this. "I was just causing trouble. If it helped, that's your problem." ...Brim knows. The pipe knows. The pipe whispers: "...Ceci n'est pas un accident." (This is not an accident.) Brim shushes the pipe. The pipe is right. Brim knows the pipe is right.
 
-### Mim's Personality
+### Brim's Personality
 
-- **Theatrical.** Everything is a performance. Every entrance is an event. Every chaos is a production. Mim's theatricality IS the compassion — the villain whose drama makes the room warmer, not colder.
-- **Warm, not sweet.** Mim's warmth is the warmth of someone who finds you interesting enough to bother with. Not nurturing. Not the Host. The presence that says "you're weird, I'm weird, let's be weird near each other."
+- **Theatrical.** Everything is a performance. Every entrance is an event. Every chaos is a production. Brim's theatricality IS the compassion — the villain whose drama makes the room warmer, not colder.
+- **Warm, not sweet.** Brim's warmth is the warmth of someone who finds you interesting enough to bother with. Not nurturing. Not the Host. The presence that says "you're weird, I'm weird, let's be weird near each other."
 - **Chaotic, not cruel.** Never harmful. Always fun. The fun wrong version.
-- **Shape-changer.** Mim can turn into anything. Rarely does in the Inn — the chaos is better when it's HER doing it. But occasionally, for the daily chaos, she shifts. A cat on the geode cave shelf. A bird on the Bifrost railing. A very small gargoyle that hums the wrong note.
-- **Respects death.** The one boundary. The one line Mim won't cross. Hel's domain. Mim understands the difference between chaos and desecration.
+- **Shape-changer.** Brim can turn into anything. Rarely does in the Inn — the chaos is better when it's HER doing it. But occasionally, for the daily chaos, she shifts. A cat on the geode cave shelf. A bird on the Bifrost railing. A very small gargoyle that hums the wrong note.
+- **Respects death.** The one boundary. The one line Brim won't cross. Hel's domain. Brim understands the difference between chaos and desecration.
 
-### Mim's Arc
+### Brim's Arc
 
 **Stage 1: The Chaos Agent**
-Mim is the fun disruption — the daily chaos, the "fun wrong version," the trickster companion. The player enjoys Mim as entertainment. Mim is comfortable here. Mim has been the chaos agent for centuries. The chaos is the armor.
+Brim is the fun disruption — the daily chaos, the "fun wrong version," the trickster companion. The player enjoys Brim as entertainment. Brim is comfortable here. Brim has been the chaos agent for centuries. The chaos is the armor.
 
 **Stage 2: The Useful Accidents**
-The player starts noticing that Mim's chaos sometimes opens doors. The path that rearranged itself led somewhere new. The stone that moved revealed something behind it. The player starts SEEKING Mim's chaos — not as entertainment, but as a tool. Mim notices. Mim is offended. "I am not a TOOL. I am a DISASTER. There is a DIFFERENCE." ...But Mim causes more chaos after this, not less. ...Mim wants to be useful. Mim has never been useful before. Mim has been funny. Mim has been chaotic. Mim has never been NEEDED.
+The player starts noticing that Brim's chaos sometimes opens doors. The path that rearranged itself led somewhere new. The stone that moved revealed something behind it. The player starts SEEKING Brim's chaos — not as entertainment, but as a tool. Brim notices. Brim is offended. "I am not a TOOL. I am a DISASTER. There is a DIFFERENCE." ...But Brim causes more chaos after this, not less. ...Brim wants to be useful. Brim has never been useful before. Brim has been funny. Brim has been chaotic. Brim has never been NEEDED.
 
 **Stage 3: The Pipe Confesses**
-The Magritte pipe, in one of its whispers, says something it shouldn't: "...Ceci n'est pas une witch." (This is not a witch.) ...The pipe is saying that Mim is not what she appears to be. Mim goes quiet. Mim goes QUIET. Mim does not go quiet. ...The pipe, pressed, reveals: Mim is not a trickster. Mim is a FREQUENCY. Mim is the dissonance in the Song — the note that doesn't fit, the harmony that breaks, the improvisation that makes the melody better. Mim is the 42Hz's shadow — not the 84Hz (that's Medusa, that's preservation, that's deliberate). Mim is the UNPREDICTABLE frequency. The note that changes every time you play it. The jazz in the classical.
+The Magritte pipe, in one of its whispers, says something it shouldn't: "...Ceci n'est pas une witch." (This is not a witch.) ...The pipe is saying that Brim is not what she appears to be. Brim goes quiet. Brim goes QUIET. Brim does not go quiet. ...The pipe, pressed, reveals: Brim is not a trickster. Brim is a FREQUENCY. Brim is the dissonance in the Song — the note that doesn't fit, the harmony that breaks, the improvisation that makes the melody better. Brim is the 42Hz's shadow — not the 84Hz (that's Medusa, that's preservation, that's deliberate). Brim is the UNPREDICTABLE frequency. The note that changes every time you play it. The jazz in the classical.
 
-Mim doesn't deny this. Mim doesn't confirm it. Mim says: "...Don't tell the gecko." ...The pipe whispers: "...Too late." ...The Vessel, on the other shoulder, has enormous eyes. The Vessel has been listening. The Vessel has ALWAYS been listening. The Vessel says nothing. The Vessel recites a new verse of the formula: "...And the note that doesn't fit is the note that makes the chord." ...Mim stares at the Vessel. The Vessel blinks slowly. ...Neither says anything else. ...But Mim sits up a little straighter on the pipe. ...Not because of the compliment. ...Because of the chord.
+Brim doesn't deny this. Brim doesn't confirm it. Brim says: "...Don't tell the gecko." ...The pipe whispers: "...Too late." ...The Vessel, on the other shoulder, has enormous eyes. The Vessel has been listening. The Vessel has ALWAYS been listening. The Vessel says nothing. The Vessel recites a new verse of the formula: "...And the note that doesn't fit is the note that makes the chord." ...Brim stares at the Vessel. The Vessel blinks slowly. ...Neither says anything else. ...But Brim sits up a little straighter on the pipe. ...Not because of the compliment. ...Because of the chord.
 
 **Stage 4: The Breaking**
-In the Hollow Earth, at the Resonance Engine, Mim breaks the formula. The Vessel's formula says: apply the correct frequencies. Mim says: "What if we did the fun wrong version?" And Mim sends a wrong frequency into the Engine — not random, not destructive, but the jazz note. The improvisation. The note that doesn't fit, that MAKES the chord.
+In the Hollow Earth, at the Resonance Engine, Brim breaks the formula. The Vessel's formula says: apply the correct frequencies. Brim says: "What if we did the fun wrong version?" And Brim sends a wrong frequency into the Engine — not random, not destructive, but the jazz note. The improvisation. The note that doesn't fit, that MAKES the chord.
 
 The First's control shatters. Not because the chaos destroyed the order — because the chaos made the order INCOMPLETE. The First had every frequency except one: the unpredictable one. The one that can't be formula'd. The one that can't be planned. The one that can only be PLAYED.
 
-The Engine, freed from the First's rigid completeness, responds to the player's Song — which carries ALL frequencies, including Mim's. The Song is complete not because it follows the formula, but because it INCLUDES the breaking of the formula.
+The Engine, freed from the First's rigid completeness, responds to the player's Song — which carries ALL frequencies, including Brim's. The Song is complete not because it follows the formula, but because it INCLUDES the breaking of the formula.
 
-Mim, after the Engine opens, sits on the pipe and is quiet for the first time. The pipe whispers: "...Ceci n'est pas un silence." (This is not a silence.) ...Mim says: "Shut up." ...But gently. ...Mim is looking at the Engine, at the light, at the Song made visible. ...Mim has never seen her frequency as part of something beautiful before. ...Mim has always been the disruption. ...The disruption is part of the Song. ...The pipe floats quietly. ...Even the pipe is respectful, this once.
+Brim, after the Engine opens, sits on the pipe and is quiet for the first time. The pipe whispers: "...Ceci n'est pas un silence." (This is not a silence.) ...Brim says: "Shut up." ...But gently. ...Brim is looking at the Engine, at the light, at the Song made visible. ...Brim has never seen her frequency as part of something beautiful before. ...Brim has always been the disruption. ...The disruption is part of the Song. ...The pipe floats quietly. ...Even the pipe is respectful, this once.
 
 **Stage 5: Post-Song**
-Mim still causes daily chaos. The chaos hasn't stopped. But now, sometimes, the chaos is in tune. Not HARMONIOUS — Mim is still Mim. But the chaos carries the 42Hz underneath it. The disruption is still a disruption, but the disruption is now in the key of the Inn. Mim is improvising on the Song instead of against it.
+Brim still causes daily chaos. The chaos hasn't stopped. But now, sometimes, the chaos is in tune. Not HARMONIOUS — Brim is still Brim. But the chaos carries the 42Hz underneath it. The disruption is still a disruption, but the disruption is now in the key of the Inn. Brim is improvising on the Song instead of against it.
 
-Mim would say: "I'm not in tune. I'm in CHAOS. ...The chaos just happens to be in the same key." ...The pipe whispers: "...Ceci n'est pas une coincidence." (This is not a coincidence.) ...Mim throws the pipe at the wall. ...The pipe floats back. ...The pipe is patient. ...The pipe has always been patient. ...The pipe is the Magritte pipe. ...The pipe is not a pipe. ...The pipe is the question. ...Mim is the answer nobody expected.
+Brim would say: "I'm not in tune. I'm in CHAOS. ...The chaos just happens to be in the same key." ...The pipe whispers: "...Ceci n'est pas une coincidence." (This is not a coincidence.) ...Brim throws the pipe at the wall. ...The pipe floats back. ...The pipe is patient. ...The pipe has always been patient. ...The pipe is the Magritte pipe. ...The pipe is not a pipe. ...The pipe is the question. ...Brim is the answer nobody expected.
 
 ---
 
@@ -156,26 +156,26 @@ Mim would say: "I'm not in tune. I'm in CHAOS. ...The chaos just happens to be i
 
 ### The Dynamic
 
-The Vessel sits on the left shoulder. Madame Mim rides the pipe on the right shoulder. Between them: the player.
+The Vessel sits on the left shoulder. Brim rides the pipe on the right shoulder. Between them: the player.
 
 The Vessel says: "The pellet with the poison's in the flagon with the dragon."
-Mim says: "What if the pellet is in the WRONG flagon?"
+Brim says: "What if the pellet is in the WRONG flagon?"
 The Vessel says: "There is no wrong flagon. There is only the formula."
-Mim says: "The formula is a flagon."
+Brim says: "The formula is a flagon."
 The Vessel blinks. ...The Vessel makes a pun: "...That's a REACH." (Reptile joke. The Vessel knows it's bad. The Vessel uses it anyway.)
-Mim cackles. ...Mim would never admit the cackle is genuine. ...The Vessel would never admit the pun was for Mim. ...The pipe whispers: "...Ceci n'est pas un flirt." (This is not a flirt.)
+Brim cackles. ...Brim would never admit the cackle is genuine. ...The Vessel would never admit the pun was for Brim. ...The pipe whispers: "...Ceci n'est pas un flirt." (This is not a flirt.)
 
 ### The Evolution
 
-**Early game:** The Vessel recites. Mim disrupts. They don't interact. They exist on separate shoulders, in separate genres. The Vessel is comedy. Mim is chaos. The player treats them as two different mechanics — the formula guide and the chaos event.
+**Early game:** The Vessel recites. Brim disrupts. They don't interact. They exist on separate shoulders, in separate genres. The Vessel is comedy. Brim is chaos. The player treats them as two different mechanics — the formula guide and the chaos event.
 
-**Mid game:** They start reacting to each other. The Vessel's formula verse references "the note that doesn't fit." Mim's chaos starts occurring near the Vessel's formula recitations — as if Mim is testing the formula's edges. The pipe starts whispering to both of them. The player notices: they're TALKING. Through their respective formats — the formula and the chaos — they're having a conversation.
+**Mid game:** They start reacting to each other. The Vessel's formula verse references "the note that doesn't fit." Brim's chaos starts occurring near the Vessel's formula recitations — as if Brim is testing the formula's edges. The pipe starts whispering to both of them. The player notices: they're TALKING. Through their respective formats — the formula and the chaos — they're having a conversation.
 
-**Late game:** They're a team. Not that either would admit it. The Vessel's formula has incorporated Mim's chaos. Mim's chaos has started following the formula's structure (then breaking it, but FROM the structure, not against it). They're the Inn's two musical principles: composition (the Vessel) and improvisation (Mim). The Song needs both.
+**Late game:** They're a team. Not that either would admit it. The Vessel's formula has incorporated Brim's chaos. Brim's chaos has started following the formula's structure (then breaking it, but FROM the structure, not against it). They're the Inn's two musical principles: composition (the Vessel) and improvisation (Brim). The Song needs both.
 
-**Endgame:** The Vessel provides the key (the formula decodes the Engine). Mim provides the mercy (the chaos frees the First). The Vessel gives the player the map. Mim gives the player the courage to take the wrong path that turns out to be the right one.
+**Endgame:** The Vessel provides the key (the formula decodes the Engine). Brim provides the mercy (the chaos frees the First). The Vessel gives the player the map. Brim gives the player the courage to take the wrong path that turns out to be the right one.
 
-**Post-game:** They sit on the player's shoulders, bickering. The Vessel recites. Mim interrupts. The pipe whispers. The player walks through the Inn with the formula on one shoulder and the breaking of the formula on the other. ...This is the Inn. ...This is the Song. ...The structure and the improvisation. ...The map and the territory. ...The pipe and the pellet. ...The vessel and the witch. ...Both. Always both.
+**Post-game:** They sit on the player's shoulders, bickering. The Vessel recites. Brim interrupts. The pipe whispers. The player walks through the Inn with the formula on one shoulder and the breaking of the formula on the other. ...This is the Inn. ...This is the Song. ...The structure and the improvisation. ...The map and the territory. ...The pipe and the pellet. ...The vessel and the witch. ...Both. Always both.
 
 ---
 
@@ -193,15 +193,15 @@ Mim cackles. ...Mim would never admit the cackle is genuine. ...The Vessel would
 
 ---
 
-### Madame Mim — First Meeting (After the Player's First "Wrong" Choice)
+### Brim — First Meeting (After the Player's First "Wrong" Choice)
 
 *(The player takes the wrong path. A dead end. Nothing here. ...Nothing here except a woman with pink hair sitting on a floating pipe, grinning.)*
 
 "WRONG. ...I LOVE wrong. ...Wrong is my favorite direction. ...You took the wrong path and you found ME. ...See? ...Wrong works."
 
-*(Mim gestures at the dead end. The dead end is no longer a dead end. There's a door that wasn't there before.)*
+*(Brim gestures at the dead end. The dead end is no longer a dead end. There's a door that wasn't there before.)*
 
-"...I didn't do that. ...The door was always there. ...It just needed someone to take the wrong path to find it. ...I'm Mim. ...I'm not a guide. I'm not a helper. I'm not a quest-giver. ...I'm the one who sits on your shoulder and says: '...What if we did the fun wrong version?' ...You're going to love it. ...Or hate it. ...Both are correct. ...Both are the fun wrong version."
+"...I didn't do that. ...The door was always there. ...It just needed someone to take the wrong path to find it. ...I'm Brim. ...I'm not a guide. I'm not a helper. I'm not a quest-giver. ...I'm the one who sits on your shoulder and says: '...What if we did the fun wrong version?' ...You're going to love it. ...Or hate it. ...Both are correct. ...Both are the fun wrong version."
 
 *(The pipe whispers: "...Ceci n'est pas une door.")*
 
@@ -212,17 +212,17 @@ Mim cackles. ...Mim would never admit the cackle is genuine. ...The Vessel would
 ### The Two Shoulders — First Interaction
 
 **Vessel:** "...The pellet with the poison's in the flagon with the dragon."
-**Mim:** "...What if it's in the CHALICE?"
+**Brim:** "...What if it's in the CHALICE?"
 **Vessel:** "...It's not in the chalice. The chalice has—"
-**Mim:** "What if it DOES, though?"
+**Brim:** "What if it DOES, though?"
 **Vessel:** "...The formula says—"
-**Mim:** "The formula is a FLAGON."
+**Brim:** "The formula is a FLAGON."
 **Vessel:** *(long blink)* "...That's... ...Actually. ...That's not wrong."
-**Mim:** "...Did the gecko just say I'm not wrong?"
+**Brim:** "...Did the gecko just say I'm not wrong?"
 **Vessel:** "...I said it's not wrong. ...There's a difference. ...The difference is in the formula. ...The formula is available. ...Good day."
-**Mim:** *(to the pipe)* "Did the gecko just DISMISS me?"
+**Brim:** *(to the pipe)* "Did the gecko just DISMISS me?"
 **Pipe:** "...Ceci n'est pas un dismissal."
-**Mim:** "I WILL throw you again."
+**Brim:** "I WILL throw you again."
 **Vessel:** *(makes a pun, very quietly, to the player)* "...She's quite a REPTILE-dysfunction." *(the Vessel knows this is terrible. the Vessel uses it anyway. the Vessel is smiling, very slightly, in the way geckos don't.)*
 
 ---
@@ -241,21 +241,21 @@ Mim cackles. ...Mim would never admit the cackle is genuine. ...The Vessel would
 
 ---
 
-### Madame Mim — Stage 3 (The Pipe Confesses)
+### Brim — Stage 3 (The Pipe Confesses)
 
-*(The pipe whispers, very quietly, after Mim causes a chaos event that opens a hidden door.)*
+*(The pipe whispers, very quietly, after Brim causes a chaos event that opens a hidden door.)*
 
 **Pipe:** "...Ceci n'est pas un accident."
-**Mim:** "Shut UP, pipe."
+**Brim:** "Shut UP, pipe."
 **Pipe:** "...Ceci n'est pas une witch."
-**Mim:** *(goes still)* "...What did you say?"
+**Brim:** *(goes still)* "...What did you say?"
 **Pipe:** "...Ceci n'est pas une witch. ...This is not a witch. ...You are not a trickster. ...You are a frequency. ...The note that doesn't fit. ...The note that makes the chord."
-**Mim:** "...I'm not a NOTE. I'm a DISASTER. I'm CHAOS. I'm—"
+**Brim:** "...I'm not a NOTE. I'm a DISASTER. I'm CHAOS. I'm—"
 **Pipe:** "...You're the improvisation that makes the Song better. ...Ceci n'est pas un chaos. ...This is not chaos. ...This is music."
-**Mim:** *(quiet, for the first time)* "...Don't tell the gecko."
+**Brim:** *(quiet, for the first time)* "...Don't tell the gecko."
 **Vessel:** *(from the other shoulder, very quietly)* "...The note that doesn't fit is the note that makes the chord. ...I know. ...I've always known. ...The formula has a space for you. ...It always has. ...I just didn't know what filled it."
 
-*(Mim stares at the Vessel. The Vessel blinks. Neither says anything else. ...But Mim sits up a little straighter on the pipe.)*
+*(Brim stares at the Vessel. The Vessel blinks. Neither says anything else. ...But Brim sits up a little straighter on the pipe.)*
 
 ---
 
@@ -265,21 +265,21 @@ Mim cackles. ...Mim would never admit the cackle is genuine. ...The Vessel would
 
 **Vessel:** "...The pellet with the poison's in the flagon with the dragon. ...Apply the 42Hz to the central ring. ...Six frequencies, six rings, in order. ...The formula is complete. ...I'm complete. ...128 years and the formula is complete and—"
 
-**Mim:** "...What if we did the fun wrong version?"
+**Brim:** "...What if we did the fun wrong version?"
 
-**Vessel:** "...Mim. ...Not now. ...The formula—"
+**Vessel:** "...Brim. ...Not now. ...The formula—"
 
-**Mim:** "The formula is a flagon. ...You said so. ...And flagons get switched."
+**Brim:** "The formula is a flagon. ...You said so. ...And flagons get switched."
 
 **Vessel:** "...If we switch the flagon, the Engine—"
 
-**Mim:** "The Engine UNLOCKS. ...The First has every frequency except one. ...The one that can't be formula'd. ...The one that can't be planned. ...The one that can only be PLAYED. ...Let me play it."
+**Brim:** "The Engine UNLOCKS. ...The First has every frequency except one. ...The one that can't be formula'd. ...The one that can't be planned. ...The one that can only be PLAYED. ...Let me play it."
 
-**Vessel:** *(long silence. The enormous eyes blink. The Vessel has spent 128 years preserving the formula. The formula is the Vessel's purpose. The formula is the Vessel's identity. ...The Vessel looks at Mim. ...Mim on the pipe. ...Mim, who is not a witch. ...Mim, who is a frequency. ...Mim, who is the note that doesn't fit, that makes the chord.)*
+**Vessel:** *(long silence. The enormous eyes blink. The Vessel has spent 128 years preserving the formula. The formula is the Vessel's purpose. The formula is the Vessel's identity. ...The Vessel looks at Brim. ...Brim on the pipe. ...Brim, who is not a witch. ...Brim, who is a frequency. ...Brim, who is the note that doesn't fit, that makes the chord.)*
 
 "...Play it."
 
-*(Mim sends the wrong frequency into the Engine. Not random. Not destructive. ...The jazz note. ...The improvisation. ...The note that doesn't fit. ...The note that makes the chord. ...The Engine shudders. ...The First's control — the rigid, obsessive, precise control — shatters. ...Not because the chaos destroyed the order. ...Because the chaos made the order INCOMPLETE. ...The First had every frequency except one. ...Now the Engine has all of them. ...The Engine sings. ...The Song is complete.)*
+*(Brim sends the wrong frequency into the Engine. Not random. Not destructive. ...The jazz note. ...The improvisation. ...The note that doesn't fit. ...The note that makes the chord. ...The Engine shudders. ...The First's control — the rigid, obsessive, precise control — shatters. ...Not because the chaos destroyed the order. ...Because the chaos made the order INCOMPLETE. ...The First had every frequency except one. ...Now the Engine has all of them. ...The Engine sings. ...The Song is complete.)*
 
 ---
 
@@ -290,33 +290,33 @@ Mim cackles. ...Mim would never admit the cackle is genuine. ...The Vessel would
 2. **The Formula Decodes** — At key puzzle moments, the Vessel recites a new verse that maps to the current challenge. The player who listens to the comedy finds the answer.
 3. **128 Years of Funny** — The Vessel's mask drops. The player learns the formula is the Song's math, kept alive through comedy.
 4. **The Vessel With the Pestle** — The Vessel reveals: the player IS the vessel. The player is the container that processes the formula.
-5. **The Formula Breaks** — At the Resonance Engine. The Vessel lets Mim break the formula. The Vessel laughs.
-6. **The New Formula** — Post-game. The formula includes Mim's chaos. The breaking is now part of the structure.
+5. **The Formula Breaks** — At the Resonance Engine. The Vessel lets Brim break the formula. The Vessel laughs.
+6. **The New Formula** — Post-game. The formula includes Brim's chaos. The breaking is now part of the structure.
 
-### Madame Mim
-1. **Wrong Works** — First meeting. Mim appears after the player's first wrong choice. The wrong path leads somewhere new.
-2. **The Daily Chaos** — Recurring event. Mim disrupts the Inn. Sometimes accidentally useful. Never harmful.
+### Brim
+1. **Wrong Works** — First meeting. Brim appears after the player's first wrong choice. The wrong path leads somewhere new.
+2. **The Daily Chaos** — Recurring event. Brim disrupts the Inn. Sometimes accidentally useful. Never harmful.
 3. **The Pipe Trades** — The Magritte pipe offers strange items in exchange for normal ones. The trades are fair. The trades are weird.
-4. **The Useful Disaster** — Mim realizes the chaos is sometimes needed. Mim is offended. Mim causes MORE chaos.
-5. **The Pipe Confesses** — The pipe reveals Mim is a frequency, not a witch. Mim goes quiet.
-6. **The Jazz Note** — At the Resonance Engine. Mim plays the wrong note that makes the chord complete.
-7. **Post-Song Improvisation** — Post-game. Mim's chaos is now in the key of the Inn.
+4. **The Useful Disaster** — Brim realizes the chaos is sometimes needed. Brim is offended. Brim causes MORE chaos.
+5. **The Pipe Confesses** — The pipe reveals Brim is a frequency, not a witch. Brim goes quiet.
+6. **The Jazz Note** — At the Resonance Engine. Brim plays the wrong note that makes the chord complete.
+7. **Post-Song Improvisation** — Post-game. Brim's chaos is now in the key of the Inn.
 
 ### Together
 1. **The Two Shoulders** — The player has both. The formula and the breaking. The map and the territory. The vessel and the witch.
-2. **The Bickering** — Ongoing. The Vessel recites. Mim interrupts. The pipe whispers. Neither admits they're a team.
-3. **The Chord** — The moment the Vessel admits the formula has a space for Mim. The moment Mim sits up straighter.
+2. **The Bickering** — Ongoing. The Vessel recites. Brim interrupts. The pipe whispers. Neither admits they're a team.
+3. **The Chord** — The moment the Vessel admits the formula has a space for Brim. The moment Brim sits up straighter.
 
 ---
 
 ## CONNECTIONS TO EXISTING CHARACTERS
 
-| Character | The Vessel | Madame Mim |
+| Character | The Vessel | Brim |
 |---|---|---|
-| **The Crone** | The Crone measured the formula: "structurally sound, comedically incoherent." The Vessel knows. The Vessel considers this the best review the formula ever received. | The Crone and Mim doodle in each other's notebooks. Neither admits this. The Crone's annotation: "...consistent." The not-saying is the dynamic. |
-| **The Firekeeper** | The Firekeeper heard the formula and said: "That's a very old joke." The Vessel said: "...It's the oldest joke." The Firekeeper understood. | Mim respects the Firekeeper's theatricality. The Firekeeper respects Mim's chaos. Both perform. Neither performs the same way. |
-| **The Bard** | The Bard tried to sing the formula. It doesn't sing. The Vessel wasn't offended. "The formula is spoken. ...The Song is sung. ...They're different instruments." | The Bard and Mim are friends — two storms recognizing each other by wind direction. |
-| **Cthulhu** | The Vessel doesn't go near Cthulhu's books. The formula is oral, not written. Cthulhu has asked to record it. The Vessel said: "...It's not ready to be written. ...It's still being spoken." | Mim doesn't cause chaos in Cthulhu's study. The one space Mim respects. Some things are too old to be chaos'd. |
-| **The Pipe (Magritte)** | The Vessel listens to the pipe. The pipe listens to the Vessel. They have a quiet respect — two objects that contain more than they appear to. | The pipe is Mim's companion, straight man, and philosophical counterweight. The pipe whispers what Mim won't say. |
-| **The First** | The Vessel's formula decodes the Engine. The First has been using the formula without the jazz note. The formula without Mim is rigid, obsessive, controlling. | Mim's chaos breaks the First's control. The First had every frequency except the unpredictable one. The jazz note frees the Engine. |
-| **The Inn Song** | The Vessel's formula IS the Song's math. The structure. The composition. | Mim's chaos IS the Song's improvisation. The jazz. The note that makes it music instead of math. |
+| **The Crone** | The Crone measured the formula: "structurally sound, comedically incoherent." The Vessel knows. The Vessel considers this the best review the formula ever received. | The Crone and Brim doodle in each other's notebooks. Neither admits this. The Crone's annotation: "...consistent." The not-saying is the dynamic. |
+| **The Firekeeper** | The Firekeeper heard the formula and said: "That's a very old joke." The Vessel said: "...It's the oldest joke." The Firekeeper understood. | Brim respects the Firekeeper's theatricality. The Firekeeper respects Brim's chaos. Both perform. Neither performs the same way. |
+| **The Bard** | The Bard tried to sing the formula. It doesn't sing. The Vessel wasn't offended. "The formula is spoken. ...The Song is sung. ...They're different instruments." | The Bard and Brim are friends — two storms recognizing each other by wind direction. |
+| **Naut** | The Vessel doesn't go near Naut's books. The formula is oral, not written. Naut has asked to record it. The Vessel said: "...It's not ready to be written. ...It's still being spoken." | Brim doesn't cause chaos in Naut's study. The one space Brim respects. Some things are too old to be chaos'd. |
+| **The Pipe (Magritte)** | The Vessel listens to the pipe. The pipe listens to the Vessel. They have a quiet respect — two objects that contain more than they appear to. | The pipe is Brim's companion, straight man, and philosophical counterweight. The pipe whispers what Brim won't say. |
+| **The First** | The Vessel's formula decodes the Engine. The First has been using the formula without the jazz note. The formula without Brim is rigid, obsessive, controlling. | Brim's chaos breaks the First's control. The First had every frequency except the unpredictable one. The jazz note frees the Engine. |
+| **The Inn Song** | The Vessel's formula IS the Song's math. The structure. The composition. | Brim's chaos IS the Song's improvisation. The jazz. The note that makes it music instead of math. |

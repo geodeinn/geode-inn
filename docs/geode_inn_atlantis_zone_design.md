@@ -265,15 +265,15 @@ The crystal's 432Hz hum is the *only* continuous tone in the underwater layer. I
 
 ---
 
-## Cthulhu: The Atlantean Scholar
+## Naut: The Atlantean Scholar
 
 ### Origin Story
 
-Cthulhu was not a monster. Cthulhu was an Atlantean — the brightest scholar of their generation, a Merfolk philosopher-mathematician who was so deeply bonded to the Heart Crystal that when Atlantis chose the deep, they volunteered to stay at the very bottom. The deepest point. The pressure point where the crystal's resonance was strongest.
+Naut was not a monster. Naut was an Atlantean — the brightest scholar of their generation, a Merfolk philosopher-mathematician who was so deeply bonded to the Heart Crystal that when Atlantis chose the deep, they volunteered to stay at the very bottom. The deepest point. The pressure point where the crystal's resonance was strongest.
 
 Over millennia, the crystal's pressure changed them. Their Merfolk form shifted to reflect the deep ocean itself — tentacled, alien, vast. But still *them*. Still a scholar. Still kind. The transformation was not corruption; it was adaptation taken to its extreme. The Silica Thread made flesh — or rather, made crystal, made deep-sea, made something that looks like what the bottom of the ocean would look like if it could think.
 
-The surface world eventually heard fragments of the story. Sailors brought tales of a shape in the water. A Rhode Island writer with anxiety turned it into horror. "Cthulhu, the sleeping evil in the drowned city." But they got it wrong. They saw the form and assumed the intent. They always do.
+The surface world eventually heard fragments of the story. Sailors brought tales of a shape in the water. A Rhode Island writer with anxiety turned it into horror. "Naut, the sleeping evil in the drowned city." But they got it wrong. They saw the form and assumed the intent. They always do.
 
 This is the Geode Inn's whole philosophy in one character: what people *see* vs. what's actually *there*.
 
@@ -281,11 +281,11 @@ This is the Geode Inn's whole philosophy in one character: what people *see* vs.
 
 **Two Encounters, Same Character:**
 
-1. **The Main Floor (Existing):** Cthulhu wanders the Geode Inn as the Scholar — 4 feet tall, spectacles, leather-bound books, sitting by the fireplace. Players who recognize him get the joy of discovery. Players who don't just see a strange patron. He gives rare book retrieval quests from the catacombs. This is the *surface* version of the character — warm, approachable, reading by firelight.
+1. **The Main Floor (Existing):** Naut wanders the Geode Inn as the Scholar — 4 feet tall, spectacles, leather-bound books, sitting by the fireplace. Players who recognize him get the joy of discovery. Players who don't just see a strange patron. He gives rare book retrieval quests from the catacombs. This is the *surface* version of the character — warm, approachable, reading by firelight.
 
-2. **The Crystal Core (New — Deepest Atlantis):** When the player digs down, becomes Merfolk, and descends to the very deepest point of Atlantis — past the Crystal Chamber, past the Drowned Library, to the Crystal Core itself — they find Cthulhu's true form. Not the 4-foot scholar. The *real* him. Ancient. Vast. Surrounded by the rarest books in existence, perfectly preserved in the crystal's pressure. Bioluminescent amber light from the Heart Crystal illuminates shelves of vellum, metal tablets, and crystal-etched texts that predate every surface civilization.
+2. **The Crystal Core (New — Deepest Atlantis):** When the player digs down, becomes Merfolk, and descends to the very deepest point of Atlantis — past the Crystal Chamber, past the Drowned Library, to the Crystal Core itself — they find Naut's true form. Not the 4-foot scholar. The *real* him. Ancient. Vast. Surrounded by the rarest books in existence, perfectly preserved in the crystal's pressure. Bioluminescent amber light from the Heart Crystal illuminates shelves of vellum, metal tablets, and crystal-etched texts that predate every surface civilization.
 
-The emotional beat: the player first sees the shape and thinks "oh no, it's Cthulhu." The horror. The dread. And then he adjusts his spectacles — the same spectacles, somehow, after all this time — and says something quiet and brilliant, and the player realizes they're standing in front of the oldest librarian in the world. The horror dissolves into warmth. That's the Inn in a single scene.
+The emotional beat: the player first sees the shape and thinks "oh no, it's Naut." The horror. The dread. And then he adjusts his spectacles — the same spectacles, somehow, after all this time — and says something quiet and brilliant, and the player realizes they're standing in front of the oldest librarian in the world. The horror dissolves into warmth. That's the Inn in a single scene.
 
 ### The Two-Form Design
 
@@ -310,59 +310,59 @@ The emotional beat: the player first sees the shape and thinks "oh no, it's Cthu
 ### Quest Line: "The Deepest Reader"
 
 **Quest 1: The Surface Encounter (Existing)**
-- Player meets Cthulhu by the fireplace on the main floor
+- Player meets Naut by the fireplace on the main floor
 - He gives a standard rare book retrieval quest from the catacombs
 - Rewards: rare surface stones
 - No mention of Atlantis yet
 
 **Quest 2: The Whisper in the Deep**
-- After the player has unlocked the Merfolk transformation and found Atlantis, they discover a tablet in the Drowned Library with Cthulhu's name — but it's not "Cthulhu." It's an Atlantean name, phonetically similar, meaning roughly "the one who stayed."
+- After the player has unlocked the Merfolk transformation and found Atlantis, they discover a tablet in the Drowned Library with Naut's name — but it's not "Naut." It's an Atlantean name, phonetically similar, meaning roughly "the one who stayed."
 - The Merfolk Librarian NPC vibrates softly when asked about it and points downward — toward the Crystal Core.
 
 **Quest 3: The Descent to the Core**
 - The player descends past the Crystal Chamber to the Crystal Core — the deepest point in the underwater layer
 - The entrance is marked by the same spectacles-shaped symbol etched into the crystal walls
-- Inside: Cthulhu's true form, surrounded by the rarest texts in existence
+- Inside: Naut's true form, surrounded by the rarest texts in existence
 - He recognizes the player. "Ah. You found the other entrance." He's been giving you quests from the surface this whole time. He has two doors to his library — one by the fireplace, one at the bottom of the ocean.
 
 **Quest 4: The Lost Tablets**
-- Cthulhu gives underwater retrieval quests — tablets scattered across the Drowned Library, Niflheim, the Sacred Cenote, the Great Blue Hole
+- Naut gives underwater retrieval quests — tablets scattered across the Drowned Library, Niflheim, the Sacred Cenote, the Great Blue Hole
 - These are texts that don't exist on the surface — Atlantean treatises on sound, frequency, and consciousness
 - Rewards: Atlantean Silica (the rarest stone in the Inn), plus knowledge that unlocks deeper acoustic alchemy abilities
 - Each tablet returned to the Crystal Core adds a new frequency to the player's repertoire — connecting to the gargoyle/sound system
 
 **Quest 5: The Truth of the Deep (Final Quest)**
-- Cthulhu reveals the full story: he was Atlantean. He chose to stay. The crystal changed him over deep time. The horror stories got it wrong.
+- Naut reveals the full story: he was Atlantean. He chose to stay. The crystal changed him over deep time. The horror stories got it wrong.
 - He gives the player a choice: take the knowledge to the surface (add it to the main floor library for all players to read) or let it stay in the deep (keep it exclusive, rarer, more powerful)
 - Either choice has consequences for the player's reputation with surface scholars vs. deep-sea NPCs
 - Reward: a crystal-fragment of the Heart Crystal itself — the single rarest item in the game
 
 ### Narrative Significance
 
-Cthulhu is the living proof of what the Heart Crystal can do to consciousness — not just store it, but *transform* it over deep time. He is the Silica Thread made manifest. He started as a Merfolk with gills and spectacles. He became something the surface world turned into a monster. And he's been sitting at the bottom of the ocean, reading, waiting for someone who could actually *reach* him and see past the form to the person underneath.
+Naut is the living proof of what the Heart Crystal can do to consciousness — not just store it, but *transform* it over deep time. He is the Silica Thread made manifest. He started as a Merfolk with gills and spectacles. He became something the surface world turned into a monster. And he's been sitting at the bottom of the ocean, reading, waiting for someone who could actually *reach* him and see past the form to the person underneath.
 
 He connects to:
 - **The Silica Thread** — he IS the Thread, transformed by deep time
 - **The Owl** — the Owl visits him. They know each other. Two ancient intelligences, one in firelight, one in deep water
-- **Tesla** — Tesla was channeling Atlantean knowledge through the crystal resonance; Cthulhu is the being *inside* that resonance
-- **The Modern Legends Nook** — Lovecraft's stories about Cthulhu are on the shelf; the truth is in the deep. The gap between legend and reality is the Inn's core theme
-- **The Fae Kingdom** — the Unseelie Court's shadow magic that hides Atlantis from sonar also hides Cthulhu's true form from surface detection
+- **Tesla** — Tesla was channeling Atlantean knowledge through the crystal resonance; Naut is the being *inside* that resonance
+- **The Modern Legends Nook** — Lovecraft's stories about Naut are on the shelf; the truth is in the deep. The gap between legend and reality is the Inn's core theme
+- **The Fae Kingdom** — the Unseelie Court's shadow magic that hides Atlantis from sonar also hides Naut's true form from surface detection
 
-### Morphic Prompts — Cthulhu in Atlantis
+### Morphic Prompts — Naut in Atlantis
 
-#### Cthulhu — The Crystal Core
+#### Naut — The Crystal Core
 ```
 Slow descent into the deepest point of Atlantis. The Crystal Core — a cathedral-sized geode chamber at the very bottom of the city. Massive crystal formations cover every surface, glowing amber, blue, and violet in a slow breathing rhythm. At the center, the Heart Crystal — taller than a person, translucent, containing what looks like frozen light. And there, folded into a reading posture beside the crystal, is a figure. Large — twelve feet tall, but curled smaller, hunched over a stone reading table. Bioluminescent amber-green skin, iridescent like deep-water crystal. Tentacles — long, graceful, some holding open books, one resting against the Heart Crystal itself as if plugged into it. Small round spectacles perched on the face, held by two thinner tentacles. The spectacles catch the crystal's glow. The figure is completely absorbed in reading, one tentacle-tip turning a page of a vellum tablet with surprising delicacy. The atmosphere is awe dissolving into warmth — the most terrifying shape in modern mythology, sitting in the oldest library in the world, reading by crystal light. Warm amber and deep violet, sine-clamped gentle light, slow descent, 35mm film aesthetic.
 ```
 
-#### Cthulhu — The Recognition
+#### Naut — The Recognition
 ```
 Close-up on the Scholar's face in the Crystal Core. He has just noticed the player. The large amber eyes — warm, intelligent, ancient — shift from the book to the camera. One tentacle adjusts the spectacles. The same gesture from the fireplace on the main floor — the same spectacles, the same tilt of the head, the same quiet curiosity. But here, at the bottom of the ocean, in the Heart Crystal's glow, the player can see what the deep has done: the skin is crystalline, the tentacles pulse faintly with light, and the eyes — the eyes have the Silica Thread glowing in them, amber filaments like circuit traces, like mineral veins, like the roots of a tree. He recognizes the player. The expression is gentle. The atmosphere is the moment horror becomes tenderness. Warm amber close-up, 35mm film aesthetic, shallow depth of field, crystal-glow rim light.
 ```
 
-#### Cthulhu — The Owl Visits the Deep
+#### Naut — The Owl Visits the Deep
 ```
-Slow wide shot in the Crystal Core. Cthulhu sits reading by the Heart Crystal, tentacles curled around ancient tablets. From the darkness beyond the chamber, a soft blue-white light appears — the Owl, made of bioluminescent light, swimming through the water with fluid, silent wing strokes. It glides into the Crystal Core, passes close to Cthulhu's face. He looks up from his book. The Owl lands on a crystal formation beside him, folding its light-wings. Two ancient intelligences — one in firelight, one in deep water — meeting in the oldest place in the world. Neither speaks. The Heart Crystal hums at 432Hz. The atmosphere is communion — two beings who have outlasted civilizations, sharing a silence that says everything. Warm amber and soft blue-white, slow wide shot, 35mm film aesthetic, volumetric crystal light.
+Slow wide shot in the Crystal Core. Naut sits reading by the Heart Crystal, tentacles curled around ancient tablets. From the darkness beyond the chamber, a soft blue-white light appears — the Owl, made of bioluminescent light, swimming through the water with fluid, silent wing strokes. It glides into the Crystal Core, passes close to Naut's face. He looks up from his book. The Owl lands on a crystal formation beside him, folding its light-wings. Two ancient intelligences — one in firelight, one in deep water — meeting in the oldest place in the world. Neither speaks. The Heart Crystal hums at 432Hz. The atmosphere is communion — two beings who have outlasted civilizations, sharing a silence that says everything. Warm amber and soft blue-white, slow wide shot, 35mm film aesthetic, volumetric crystal light.
 ```
 
 ---
@@ -385,15 +385,15 @@ What makes octopi different from every other intelligent species — and what ma
 
 This is why they feel alien. They are. Not because they came from another planet — but because they came from a different *version* of Earth's consciousness. The silica Thread branched, and one branch became us, and one branch became them, and neither branch fully understands the other.
 
-### Cthulhu's Octopus Form — The Deep Truth
+### Naut's Octopus Form — The Deep Truth
 
-This reframes Cthulhu's transformation. The crystal didn't turn him into a *monster*. It turned him into an *octopus* — or rather, it gave him the form of the deep's oldest intelligence, the one that was already there before Atlantis was built.
+This reframes Naut's transformation. The crystal didn't turn him into a *monster*. It turned him into an *octopus* — or rather, it gave him the form of the deep's oldest intelligence, the one that was already there before Atlantis was built.
 
 **The tentacles aren't corruption. They're translation.**
 
-When Cthulhu bonded with the Heart Crystal and stayed at the deepest point, the crystal didn't impose a form on him. It *revealed* the form that the deep had been using all along. His Merfolk body — built for swimming, built for surface-world cognition — was translated into the body the deep ocean uses for thinking. Distributed cognition. Textural intelligence. Arms that think for themselves.
+When Naut bonded with the Heart Crystal and stayed at the deepest point, the crystal didn't impose a form on him. It *revealed* the form that the deep had been using all along. His Merfolk body — built for swimming, built for surface-world cognition — was translated into the body the deep ocean uses for thinking. Distributed cognition. Textural intelligence. Arms that think for themselves.
 
-And here's the painful beauty of it: **he's still a scholar.** Because an octopus with 500 million neurons and distributed cognition doesn't stop being curious. It just gets curious in eight directions at once. Cthulhu didn't lose his intellect when the crystal transformed him — he *expanded* it. He can now read eight books simultaneously, one per tentacle, each arm processing independently while the whole of him synthesizes. The spectacles are the last piece of his surface-form identity — the one human gesture that survived the translation, because reading is the thing he refuses to let the deep change.
+And here's the painful beauty of it: **he's still a scholar.** Because an octopus with 500 million neurons and distributed cognition doesn't stop being curious. It just gets curious in eight directions at once. Naut didn't lose his intellect when the crystal transformed him — he *expanded* it. He can now read eight books simultaneously, one per tentacle, each arm processing independently while the whole of him synthesizes. The spectacles are the last piece of his surface-form identity — the one human gesture that survived the translation, because reading is the thing he refuses to let the deep change.
 
 ### The Octopi of Atlantis — NPC Species
 
@@ -413,17 +413,17 @@ Atlantis has a population of octopi that have lived in the city longer than the 
 
 ### The Octopus Oracle
 
-One special octopus — larger than the others, older, living in a crystal formation in the Crystal Core near Cthulhu — serves as the **Octopus Oracle**. This is a direct homage to real-world octopus intelligence (Paul the Octopus, the World Cup predictor) elevated to mythic scale.
+One special octopus — larger than the others, older, living in a crystal formation in the Crystal Core near Naut — serves as the **Octopus Oracle**. This is a direct homage to real-world octopus intelligence (Paul the Octopus, the World Cup predictor) elevated to mythic scale.
 
 - The Oracle doesn't give quests. It gives **prophecies** — but not in words. It rearranges objects in its environment (stones, shells, coral fragments) into patterns that the player must interpret
 - The prophecies are always about the player's choices in the narrative spine — the reincarnation mechanics, the cosmic gates, the bloodline
-- The Oracle has been doing this since before Atlantis sank. Cthulhu watches it sometimes. Even he doesn't fully understand what it's doing. And he's the oldest mind in the Inn.
+- The Oracle has been doing this since before Atlantis sank. Naut watches it sometimes. Even he doesn't fully understand what it's doing. And he's the oldest mind in the Inn.
 
 ### Connection to Krista's Octopus Theory
 
 The design explicitly honors Krista's intuition: octopi feel too alien, too other, to have evolved here. In the Geode Inn's cosmology, they didn't evolve *here* in the way surface life did — they emerged from the Silica Thread's deep-water branch, a parallel consciousness that was already ancient when the first fish crawled onto land. They're not from another planet. They're from another *version of Earth* — the one that stayed in the deep.
 
-The Octopus Oracle and the octopi NPCs are the Thread's oldest representatives. Cthulhu took their form because the crystal recognized them as the deep's native intelligence. The player encounters them and feels what Krista feels: something too strange, too brilliant, too textural to be ours. And that's the point. They're not ours. They're theirs. And they were here first.
+The Octopus Oracle and the octopi NPCs are the Thread's oldest representatives. Naut took their form because the crystal recognized them as the deep's native intelligence. The player encounters them and feels what Krista feels: something too strange, too brilliant, too textural to be ours. And that's the point. They're not ours. They're theirs. And they were here first.
 
 ### Morphic Prompt — The Octopi of Atlantis
 
@@ -434,5 +434,5 @@ Slow shot through the Sunken Plaza of Atlantis. Crystal glowing amber-violet in 
 ### Morphic Prompt — The Octopus Oracle
 
 ```
-Close-up in the Crystal Core. A single octopus — larger than the others, ancient — sits inside a natural crystal formation that has grown around it like a throne. Its skin is extraordinary: shifting between textures and colors continuously — amber to violet to deep blue to green, smooth to ridged to spiky to soft, each shift lasting only a moment before the next. Its tentacles are spread out around it, each one touching a different object — a stone, a shell, a coral fragment, a crystal shard — and as it touches each one, the tentacle's texture matches the object it's holding. In the background, out of focus, Cthulhu's large form sits reading, one eye watching the octopus with an expression that can only be described as scholarly respect. The octopus looks directly at the camera with one large, ancient, alien eye. It holds the gaze. The atmosphere is the feeling of being assessed by an intelligence that predates your species by 300 million years — and finding it gentle. Warm amber and shifting octopus colors, close-up, 35mm film aesthetic, shallow depth of field, crystal-glow rim light.
+Close-up in the Crystal Core. A single octopus — larger than the others, ancient — sits inside a natural crystal formation that has grown around it like a throne. Its skin is extraordinary: shifting between textures and colors continuously — amber to violet to deep blue to green, smooth to ridged to spiky to soft, each shift lasting only a moment before the next. Its tentacles are spread out around it, each one touching a different object — a stone, a shell, a coral fragment, a crystal shard — and as it touches each one, the tentacle's texture matches the object it's holding. In the background, out of focus, Naut's large form sits reading, one eye watching the octopus with an expression that can only be described as scholarly respect. The octopus looks directly at the camera with one large, ancient, alien eye. It holds the gaze. The atmosphere is the feeling of being assessed by an intelligence that predates your species by 300 million years — and finding it gentle. Warm amber and shifting octopus colors, close-up, 35mm film aesthetic, shallow depth of field, crystal-glow rim light.
 ```

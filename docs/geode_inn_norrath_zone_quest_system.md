@@ -372,7 +372,7 @@ A forest clearing with a ring of empty holes where stones once stood. An ancient
 - **Reward:** Preseli Blue Stone (the stone of Stonehenge itself), 300 reputation, Fae Kingdom unlocked, zone complete
 
 **Quest 7 (Optional): "The Oak's Secret"**
-- **Giver:** The Oak (ancient tree spirit — Ambulatory, like Cthulhu)
+- **Giver:** The Oak (ancient tree spirit — Ambulatory, like Naut)
 - **Objective:** The Oak has been watching since before the circle was built. It offers a hidden quest for players who return to the grove after the Fae Kingdom.
 - **Reward:** Heartwood Stone, a unique Living Book entry (the Oak's memories — the oldest text in the Inn)
 
@@ -440,7 +440,7 @@ The Norrath template scales to every cultural region in the Inn's 191-country lo
 2. **Sumeria** — "The First Alchemy" — Little Alchemy-style crafting, the Anunnaki as Hitchhiker's Guide NPCs
 3. **Silk Road** — "The Caravan of Echoes" — Oregon Trail meets Monty Python, trade route survival
 4. **The Rom** — "The Enchanted Road" — magical music quests, Krista's deepest-researched region
-5. **Atlantis** — "The Heart Crystal" — underwater exploration, Cthulhu's riddle quests, octopus puzzles
+5. **Atlantis** — "The Heart Crystal" — underwater exploration, Naut's riddle quests, octopus puzzles
 6. **The Canopy of Sála** — "Blind Faith" — beam walking, the Singing Tree, Kelethin homage
 
 Each future zone follows the same 5-quest structure: Intro → Exploration → Puzzle → Boss/Finale → Optional, with embedded arcade games, class-specific mechanics, and faction branches.

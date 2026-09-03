@@ -6,7 +6,7 @@
 extends RefCounted
 
 const TREES := {
-	"Beorn": [
+	"The Bearsark": [
 		{
 			"dialogueId": "beorn_001",
 			"zone": "Forest Edge",
@@ -15,7 +15,7 @@ const TREES := {
 			"conditionTag": "",
 			"priority": 1,
 			"isWhisperLayer": false,
-			"lines": [\"[\\"[i]A large figure at the tree line. Still. The kind of still that has [i]weight[/i]. No instrument. No fire. Just presence.[/i]\\", \\"Threshold.\\", \\"[i]A long pause. Beorn does not fill silence. Silence is the point.[/i]\\", \\"Cross or don't. The forest does not invite. The forest [i]is[/i]. You decide if that includes you.\\", \\"I change shape here. Not for you. For the forest. It needs a guardian that knows both sides \\u2014 the two-legged and the four-legged, the speaking and the silent.\\", \\"The Inn is behind you. The wild is ahead. Both are real. Neither is safer.\\"]\"],
+			"lines": [\"[\\"[i]A large figure at the tree line. Still. The kind of still that has [i]weight[/i]. No instrument. No fire. Just presence.[/i]\\", \\"Threshold.\\", \\"[i]A long pause. The Bearsark does not fill silence. Silence is the point.[/i]\\", \\"Cross or don't. The forest does not invite. The forest [i]is[/i]. You decide if that includes you.\\", \\"I change shape here. Not for you. For the forest. It needs a guardian that knows both sides \\u2014 the two-legged and the four-legged, the speaking and the silent.\\", \\"The Inn is behind you. The wild is ahead. Both are real. Neither is safer.\\"]\"],
 			"responses": [{\"text\": \"I'll cross.\", \"next\": \"beorn_002\"}, {\"text\": \"Not yet.\", \"next\": \"beorn_003\"}],
 			"setFlags": \"[\\"met_beorn\\"]\",
 		},
@@ -27,7 +27,7 @@ const TREES := {
 			"conditionTag": "",
 			"priority": 1,
 			"isWhisperLayer": false,
-			"lines": [\"[\\"[i]Beorn nods. Or the shape that was Beorn nods. The figure at the tree line is... different now. Larger. The eyes have moved.[/i]\\", \\"Welcome to the other side. The rules are: there are no rules. Only consequences.\\", \\"The forest will test you. Not with riddles \\u2014 with [i]honesty[/i]. It will show you what you are. Some people do not want to see that.\\", \\"Come back when you are done. Or don't. The threshold is always here.\\"]\"],
+			"lines": [\"[\\"[i]The Bearsark nods. Or the shape that was The Bearsark nods. The figure at the tree line is... different now. Larger. The eyes have moved.[/i]\\", \\"Welcome to the other side. The rules are: there are no rules. Only consequences.\\", \\"The forest will test you. Not with riddles \\u2014 with [i]honesty[/i]. It will show you what you are. Some people do not want to see that.\\", \\"Come back when you are done. Or don't. The threshold is always here.\\"]\"],
 			"responses": [],
 			"setFlags": \"[\\"crossed_threshold\\", \\"entered_forest\\"]\",
 		},
@@ -39,7 +39,7 @@ const TREES := {
 			"conditionTag": "",
 			"priority": 1,
 			"isWhisperLayer": false,
-			"lines": [\"[\\"[i]Beorn does not respond. The silence is the response. The threshold remains.[/i]\\"]\"],
+			"lines": [\"[\\"[i]The Bearsark does not respond. The silence is the response. The threshold remains.[/i]\\"]\"],
 			"responses": [],
 			"setFlags": \"[\\"met_beorn\\"]\",
 		},
@@ -394,7 +394,7 @@ const TREES := {
 			"setFlags": \"[\\"met_oceanianoir\\", \\"atlantis_visited\\"]\",
 		},
 	],
-	"Radagast": [
+	"The Greenward": [
 		{
 			"dialogueId": "radagast_001",
 			"zone": "Garden",
@@ -503,7 +503,7 @@ const TREES := {
 			"conditionTag": "",
 			"priority": 1,
 			"isWhisperLayer": false,
-			"lines": [\"[\\"Roots. Stone-ground grain. Herbs from Radagast's garden. And something I am [i]not telling you[/i] \\u2014 not because it is secret, because it is [i]fun[/i] when people guess.\\", \\"The 42Hz in the stew is not added. It is [i]grown[/i]. The ingredients grow in soil tuned to 42Hz. The frequency is in the [i]cell walls[/i].\\", \\"You cannot taste frequency. But you can [i]feel[/i] it. Eat slowly.\\"]\"],
+			"lines": [\"[\\"Roots. Stone-ground grain. Herbs from The Greenward's garden. And something I am [i]not telling you[/i] \\u2014 not because it is secret, because it is [i]fun[/i] when people guess.\\", \\"The 42Hz in the stew is not added. It is [i]grown[/i]. The ingredients grow in soil tuned to 42Hz. The frequency is in the [i]cell walls[/i].\\", \\"You cannot taste frequency. But you can [i]feel[/i] it. Eat slowly.\\"]\"],
 			"responses": [{\"text\": \"Thank you.\", \"next\": \"cook_003\"}],
 			"setFlags": \"[]\",
 		},
@@ -884,7 +884,7 @@ const TREES := {
 			"setFlags": \"[\\"met_thrum\\", \\"pulse_perception_unlocked\\"]\",
 		},
 	],
-	"Uhtred": [
+	"The Wayfarer": [
 		{
 			"dialogueId": "uhtred_001",
 			"zone": "Campgrounds",

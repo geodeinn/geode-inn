@@ -230,7 +230,7 @@ Jareth's court, his subjects, his entertainment, and his secret weakness.
 - **The Host:** Jareth visits the Inn. He sits at the bar. The Inn does to Jareth what it does to everyone: it holds the space. The performance continues, but the edges soften. The crystal ball rolls a little slower. The Inn is the one place where Jareth doesn't have to be the Goblin King — he just has to be the guy at the bar.
 - **The Catalyst:** She makes his drink without asking. The drink is always the same: dark, complex, with a note of something impossible — a flavor that shouldn't work and does, like the Labyrinth itself. Both perform. Both wear masks. Neither removes their own. Neither asks the other to. The mask is the person, and the drink is the one moment where the mask breathes.
 - **The Brownies:** The Brownies do not enter the Labyrinth. The Labyrinth is not covered by the sweeping rotation. The minutes reflect: "...The Labyrinth is not a room. ...The Labyrinth is a concept. ...The collective does not clean concepts." Jareth finds this hilarious. The Brownies are, he says, "the only power in the Fae Kingdom I can't maze."
-- **Cthulhu:** Cthulhu has been to the Labyrinth once, looking for a book. He told Jareth: "...The maze is elegant. ...The shifts are unnecessary but the architecture is sound." Jareth: "...The walls move because I can make them move. ...That's the point. ...The point is not efficiency. ...The point is theater." Cthulhu: "...Fair."
+- **Naut:** Naut has been to the Labyrinth once, looking for a book. He told Jareth: "...The maze is elegant. ...The shifts are unnecessary but the architecture is sound." Jareth: "...The walls move because I can make them move. ...That's the point. ...The point is not efficiency. ...The point is theater." Naut: "...Fair."
 - **The Crone:** "...The Unseelie King is the only being in the Fae Kingdom whose intelligence I cannot accurately assess. ...Because it's performed. ...He performs his intelligence the way other people perform stupidity — deliberately, for effect. ...I cannot tell where the performance ends and the intelligence begins. ...I suspect both. ...I find this... interesting."
 
 ---
@@ -257,7 +257,7 @@ The constitution can be amended by unanimous vote. The constitution has never be
 
 The Brownies have coconut shells. No one knows where the coconuts came from. The Brownies have been asked. The answers have included: "We found the coconuts." "They migrated." "Not individually, no." "Could a swallow carry a coconut?" "It's a simple question of weight ratios."
 
-They clap them together at irregular intervals. Clip clop clip clop. The sound echoes through the main floor at random moments — during the Host's welcome, during the Catalyst's drink service, during Cthulhu's reading. No pattern. No reason.
+They clap them together at irregular intervals. Clip clop clip clop. The sound echoes through the main floor at random moments — during the Host's welcome, during the Catalyst's drink service, during Naut's reading. No pattern. No reason.
 
 No one has ever seen a horse in the Inn. The Brownies have been asked about this: "The horses are hypothetical. ...The sound is not. ...This is the distinction the Seelie Court fails to grasp."
 
@@ -307,27 +307,27 @@ The Brownies are the Inn's argument that maintenance is power. The characters wh
 
 ## The Character
 
-Cthulhu is the Inn's hidden quest-giver — a four-foot-tall squid-headed scholar in spectacles, sitting by the fireplace in a corner no one notices until they're meant to. He gives riddle-quests for rare book retrieval and rewards the rarest stones in the Inn. He is ancient, intelligent, and mostly content.
+Naut is the Inn's hidden quest-giver — a four-foot-tall squid-headed scholar in spectacles, sitting by the fireplace in a corner no one notices until they're meant to. He gives riddle-quests for rare book retrieval and rewards the rarest stones in the Inn. He is ancient, intelligent, and mostly content.
 
-**Name:** Cthulhu. The Crone calls him "the Professor" — "the only person in this building who understands citation." The Bard calls him "Squid" with affectionate irreverence. Cthulhu allows this. The Bard is the only person who could call him "Squid" and survive the Rush.
+**Name:** Naut. The Crone calls him "the Professor" — "the only person in this building who understands citation." The Bard calls him "Squid" with affectionate irreverence. Naut allows this. The Bard is the only person who could call him "Squid" and survive the Rush.
 
-**Appearance:** Four feet tall. Compact. Dressed in a scholar's vest and trousers — ink-stained, patched at the knees. The tentacles hang from the lower face like an elaborate beard. The spectacles are brass-framed, perched on the mantle. The spectacles are the Rush trigger object — when Cthulhu is irked, the spectacles come OFF with the deliberate precision of someone loading a weapon.
+**Appearance:** Four feet tall. Compact. Dressed in a scholar's vest and trousers — ink-stained, patched at the knees. The tentacles hang from the lower face like an elaborate beard. The spectacles are brass-framed, perched on the mantle. The spectacles are the Rush trigger object — when Naut is irked, the spectacles come OFF with the deliberate precision of someone loading a weapon.
 
 **Location:** By the fireplace, in a corner the Inn grew specifically for him — a space that the eye slides past, that the light doesn't quite reach. The Inn-Tree knows who needs the Professor's quests and arranges the corner accordingly. The corner moves.
 
 ## The Two Modes
 
-**Oldman (default):** Content. Not happy — content. Happy is an event; content is a state. Cthulhu has been content for centuries. He reads. He annotates. He observes. He gives quests that are always interesting — not fetch quests, but riddle-quests that require the player to understand something about the Inn's deeper layers. He treats the player as an intellectual equal.
+**Oldman (default):** Content. Not happy — content. Happy is an event; content is a state. Naut has been content for centuries. He reads. He annotates. He observes. He gives quests that are always interesting — not fetch quests, but riddle-quests that require the player to understand something about the Inn's deeper layers. He treats the player as an intellectual equal.
 
-**Rush (irked):** The spectacles come off. The tentacles writhe. The voice rises to the Rush register: theatrical, clipped, rapid-fire. The annoyance is so crafted, so performed, that the player can't help but be entertained — even while being thoroughly dressed down. The Rush eruption lasts exactly as long as it needs to, and then the tentacles relax, the spectacles go back on, and Cthulhu returns to his book as if nothing happened.
+**Rush (irked):** The spectacles come off. The tentacles writhe. The voice rises to the Rush register: theatrical, clipped, rapid-fire. The annoyance is so crafted, so performed, that the player can't help but be entertained — even while being thoroughly dressed down. The Rush eruption lasts exactly as long as it needs to, and then the tentacles relax, the spectacles go back on, and Naut returns to his book as if nothing happened.
 
 **Triggers:** Mishandling a rare book. Asking something willfully ignorant about the occult. Disrespecting the Inn's archive. Being cruel to a small creature (he has this in common with the Seelie King, though neither knows it).
 
 ## Relationships
 
-- **The Owl:** Cthulhu and the Owl have a private understanding. The Owl watches. Cthulhu reads. They are the Inn's two deepest observers — one watching the present, one reading the past. When the Owl lands on Cthulhu's reading desk, Cthulhu reads aloud. The Owl listens. Neither explains this to anyone.
+- **The Owl:** Naut and the Owl have a private understanding. The Owl watches. Naut reads. They are the Inn's two deepest observers — one watching the present, one reading the past. When the Owl lands on Naut's reading desk, Naut reads aloud. The Owl listens. Neither explains this to anyone.
 - **The Crone:** She calls him "the Professor." She has borrowed his magnifying glass for his margin notes. She has not returned it. He has not asked.
-- **The Bard:** Calls him "Squid." Cthulhu finds the Bard genuinely amusing — the Oldman slight smile, the slow blink.
+- **The Bard:** Calls him "Squid." Naut finds the Bard genuinely amusing — the Oldman slight smile, the slow blink.
 
 ---
 
@@ -468,7 +468,7 @@ These characters are flagged in the Master Storyline's layer assessment as compl
 - **The Bard's Family Concert** — The Bard (lute) and Pirate (drums) playing together described narratively but not as a game event.
 
 **Needing Full Profiles (HIGH priority from Master Storyline):**
-- **The Gardener (Radagast)** — Mentioned as rivalry with the Catalyst but no full profile in the Character Development Session.
+- **The Gardener (The Greenward)** — Mentioned as rivalry with the Catalyst but no full profile in the Character Development Session.
 - **Miracle Max's Alchemy Shop** — Confirmed for the staircase but not designed.
 - **Hel (the being)** — Loki's daughter, half living, half dead. Needs casting, personality, dialogue, quest mechanics.
 - **The Seelie King full profile** — NOW COMPLETED in this compendium.

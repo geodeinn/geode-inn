@@ -44,7 +44,7 @@ Every track takes the authentic instruments and melodic traditions of a specific
 **Tempo:** 50-60 BPM, barely there
 **Vibe:** Quiet contemplation. You are reading stories about people who chose whether to think or not think. The music should feel like being alone in a library at 2am with one lamp on. The Serrano parable deserves silence with a pulse underneath.
 **Reference:** Nils Frahm meets Tim Hecker. Ólafur Arnalds meets William Basinski.
-**Special:** Cthulhu's fireplace crackle is the only ambient sound here, layered faintly under the music.
+**Special:** Naut's fireplace crackle is the only ambient sound here, layered faintly under the music.
 
 ## Zone 6: The Artisan Market
 **Instruments:** Hand drums, oud, kalimba, bells

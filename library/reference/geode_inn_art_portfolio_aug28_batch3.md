@@ -25,7 +25,7 @@
 **URL:** https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/a586a03fe_generated_image.png
 **Art Direction:** Living stone serpents for hair — each a different mineral (amethyst, jade, obsidian, tiger's eye). The serpents are musical, forming a living lithophone. The gaze that petrifies is a gift — preserving things in perfect stillness. The one who holds the world still to hear its true note.
 
-### 6. The Keeper (Aughra)
+### 6. The Keeper (Fibonacci)
 **URL:** https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/d9e68c9ef_generated_image.png
 **Art Direction:** Three eyes (one normally closed), mossy cloak, crystal staff. Observatory in the Inn's roots — bone, crystal, and gold instruments. In Shadow state: eyes go dark — the cosmos reveals too much. The one who watches because someone must.
 
@@ -41,7 +41,7 @@
 **URL:** https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/df7b5a13d_generated_image.png
 **Art Direction:** Garden in two seasons simultaneously — spring on one side, winter on the other. Hands clasped across the threshold. Crystallized pomegranate seeds glowing amber. The love that blooms in the space between seasons — meeting and forgetting, and choosing each other every time.
 
-### 10. Merlin and Archimedes
+### 10. Merlin and Noctua
 **URL:** https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/5d28b354c_generated_image.png
 **Art Direction:** Backwards-written text glowing on robes. Tower of time-reversing artifacts — hourglasses flowing upward, candles un-burning, pages writing themselves. Horned owl with golden knowing eyes on shoulder. The wizard who lives backwards and the owl who remembers forward.
 

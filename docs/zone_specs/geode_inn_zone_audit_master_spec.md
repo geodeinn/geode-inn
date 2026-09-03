@@ -19,7 +19,7 @@ The comprehensive audit of all cultural zones in the Geode Inn, covering: Atlant
 | Peruvian Zone | Giant's dream. Guo Xi ink-wash. | Guo Xi | Peruvian NPCs |
 | Norse Realms | Erik, Earl, Ragnar. Mead hall. | Rackham | Erik, Earl, Ragnar |
 | Slavic Zone | Tessellation. Aurora. Fjord. | Slavic tessellation style | Slavic NPCs |
-| Mediterranean | Olive grove, garden, grotto. | Monet | The Gardener, Beorn |
+| Mediterranean | Olive grove, garden, grotto. | Monet | The Gardener, The Bearsark |
 | Canopy City | Tree-platform hub. 9 cultural platforms. | Rackham | Canopy vendors |
 | Bayou | Bog Fairy Golem origin. Buried cities. | Bayou style | Bog Fairy Golem (Krista) |
 | India | Ghats. Saffron. Aum at 42Hz. | Tagore | Indian NPCs |

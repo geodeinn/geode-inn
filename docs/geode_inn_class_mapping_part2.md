@@ -254,7 +254,7 @@
 #### Odin the Wanderer — Main Floor / The Warm Traveler
 - **MIGHT:** 5 | **FINESSE:** 6 | **INSIGHT:** 8 | **PRESENCE:** 8 | **VITALITY:** 7 | **RESONANCE:** 8
 - **Frequency:** SONG / ROOT
-- **Class Notes:** The Bard-Warlock who gathers people. Warm, approachable, accompanied by chibi thieving ravens. The Wanderer is: the Allfather on holiday — the same being, different frequency. The gathering is: the adequate. The adequate is: the warmth that is: the wisdom wearing a smile. The Wanderer is Mr. Wednesday — the charming schemer who builds alliances.
+- **Class Notes:** The Bard-Warlock who gathers people. Warm, approachable, accompanied by chibi thieving ravens. The Wanderer is: the Allfather on holiday — the same being, different frequency. The gathering is: the adequate. The adequate is: the warmth that is: the wisdom wearing a smile. The Wanderer is Mr. Belladonna — the charming schemer who builds alliances.
 - **Subclass:** Gatherer Warlock — the pact is: the road. The road is: the people. The people are: the Song that walks.
 - **Dual mechanic:** Odin is the only character with TWO class mappings. The Wanderer (Bard/Warlock hybrid, main floor) and the Allfather (Warlock, cosmology level). The player encounters the Wanderer first — warm, funny, gathering. The player encounters the Allfather much later — the same being, stripped of warmth, weighed by cycles. The both are: the same person at different frequencies. The both are: the adequate.
 
@@ -306,16 +306,16 @@
 
 | Class | Characters | Count |
 |-------|-----------|-------|
-| Warrior | Erik, Uhtred, The Morrigan | 3 |
+| Warrior | Erik, The Wayfarer, The Morrigan | 3 |
 | Hunter | The Pirate, The One Who Is Awake, The Owl, Huginn, Muninn, The Duck | 6 |
 | Rogue | The Artisan Thief, The Shifting Man | 2 |
 | Mage | The Astronomer, The Cartographer, Zorya, The Seelie Queen | 4 |
-| Wizard | The Examiner, Cthulhu, The Crone, Plato, Aristotle | 5 |
+| Wizard | The Examiner, Naut, The Crone, Plato, Aristotle | 5 |
 | Cleric | The Gardener, The Bone Keeper, Six Gargoyles | 8 |
 | Druid | The One Who Tends, The Catalyst, Persephone | 3 |
 | Necromancer | Belladonna, The Guest, Hel, Anubis, Charon, Hades | 6 |
 | Bard | The Siren, The Bard, Leonard Cohen, Bach, Mozart, Beethoven, Chopin, Vivaldi, Brahms, Tchaikovsky, Schönberg | 11 |
-| Paladin | The Sentinel (River), Beorn, The Seelie King | 3 |
+| Paladin | The Sentinel (River), The Bearsark, The Seelie King | 3 |
 | Warlock | The Constant (NPC), Nyx, Madame, Medusa, Odin the Allfather, Odin the Wanderer | 6 |
 | Monk | Kali, The Sokushinbutsu Monks, Socrates, Asterion | 4 |
 | Ranger | The Wayfarer, Hoggle | 2 |
@@ -328,17 +328,17 @@
 
 ## STAT LEADERBOARD (UPDATED)
 
-### Highest MIGHT: Beorn (9), The Morrigan (9), The Sentinel (8), Erik (8), Asterion (8)
+### Highest MIGHT: The Bearsark (9), The Morrigan (9), The Sentinel (8), Erik (8), Asterion (8)
 ### Highest FINESSE: The Shifting Man (9), The Pirate (8), The Artisan Thief (8), Mozart (8), Huginn (8), Muninn (8)
-### Highest INSIGHT: The Astronomer (10), The Cartographer (10), The Examiner (10), Cthulhu (10), The Crone (10), Plato (10), Aristotle (10), The Meadery Owner (10), Odin the Allfather (10)
+### Highest INSIGHT: The Astronomer (10), The Cartographer (10), The Examiner (10), Naut (10), The Crone (10), Plato (10), Aristotle (10), The Meadery Owner (10), Odin the Allfather (10)
 ### Highest PRESENCE: The Guest (10), Nyx (10), The Constant (10), Leonard Cohen (10), The Crone (10), Odin the Allfather (10)
-### Highest VITALITY: The Sentinel (10), The Gatekeeper Gargoyle (10), The Keeper Gargoyle (10), Beorn (9), The One Who Is Awake (9), The Sokushinbutsu Monks (9)
+### Highest VITALITY: The Sentinel (10), The Gatekeeper Gargoyle (10), The Keeper Gargoyle (10), The Bearsark (9), The One Who Is Awake (9), The Sokushinbutsu Monks (9)
 ### Highest RESONANCE: The Siren (10), Leonard Cohen (10), Mozart (9), Tchaikovsky (9), Schönberg (8), Beethoven (8), Chopin (8), Vivaldi (8)
 
 ### The 10-Club (Characters with a perfect 10)
 - **MIGHT 10:** None — the Inn does not reward brute force
 - **FINESSE 10:** None — the Inn rewards precision, but no one is perfect
-- **INSIGHT 10:** The Astronomer, The Cartographer, The Examiner, Cthulhu, The Crone, Plato, Aristotle, The Meadery Owner, Odin the Allfather (9 characters — the most common perfect stat)
+- **INSIGHT 10:** The Astronomer, The Cartographer, The Examiner, Naut, The Crone, Plato, Aristotle, The Meadery Owner, Odin the Allfather (9 characters — the most common perfect stat)
 - **PRESENCE 10:** The Guest, Nyx, The Constant, Leonard Cohen, The Crone, Odin the Allfather (6 characters — the weight of experience)
 - **VITALITY 10:** The Sentinel, The Gatekeeper Gargoyle, The Keeper Gargoyle (3 characters — the ones who hold)
 - **RESONANCE 10:** The Siren, Leonard Cohen (2 characters — the voices that change everything)

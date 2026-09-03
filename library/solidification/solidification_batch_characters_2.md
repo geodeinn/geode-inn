@@ -140,7 +140,7 @@ In the 84Hz Shadow Inn, the Queen of Roots falls into **Petrified Root Blight**.
 * **Bestiary / Item Templates:**
   * *Item:* **Heartwood Resin** — High-tier alchemy ingredient for crafting superior health elixirs.
   * *Item:* **Peridot Seedling** — Relic item that grants permanent immunity to root-rot in Shadow zones.
-* **NPC Interactions:** Shares deep physical links with the Seelie King, Medusa, Radagast, and the Fixer.
+* **NPC Interactions:** Shares deep physical links with the Seelie King, Medusa, The Greenward, and the Fixer.
 
 ---
 
@@ -347,7 +347,7 @@ In the 84Hz Shadow Inn, Medusa's protective preservation turns into **Malicious 
 * **Bestiary / Item Templates:**
   * *Item:* **Serpent Scale** — Crafting component for poison-resistant and petrify-resistant armor.
   * *Item:* **Tuned Basalt Slate** — Material required to build and tune lithophone instruments.
-* **NPC Interactions:** Maintains powerful relationships with Radagast, the Peruvian Guide, Kali, and the Fixer.
+* **NPC Interactions:** Maintains powerful relationships with The Greenward, the Peruvian Guide, Kali, and the Fixer.
 
 ---
 

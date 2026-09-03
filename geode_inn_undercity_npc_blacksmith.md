@@ -26,7 +26,7 @@ Anvils: three, of different sizes, arranged in a semicircle around the geode. Ea
 
 ### Role in the Geode Inn
 
-The Blacksmith is the Undercity's craft anchor. When players bring raw ore from the mines (Andean Run game, Tomb Tunnel game), the Blacksmith is who turns it into usable material for the building system. The Blacksmith is also the only NPC who can work the rare stones — the ones from the Fae Kingdom, from Cthulhu's deep quests, from the water zone — into charms and settings for the Element Charm system.
+The Blacksmith is the Undercity's craft anchor. When players bring raw ore from the mines (Andean Run game, Tomb Tunnel game), the Blacksmith is who turns it into usable material for the building system. The Blacksmith is also the only NPC who can work the rare stones — the ones from the Fae Kingdom, from Naut's deep quests, from the water zone — into charms and settings for the Element Charm system.
 
 Quests: The Blacksmith does not give quests. The Blacksmith gives WORK. Bring materials, receive products. The relationship is transactional, but deeply satisfying — the forge loop is meditative. Players who spend time in the forge find their heartbeat syncing to the hammer rhythm (50 BPM, the Inn's resting pulse).
 

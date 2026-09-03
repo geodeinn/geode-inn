@@ -25,7 +25,7 @@ Before the Song, there was the Murmur. Not sound — not yet. The Murmur is what
 - **The Guest** (Brad Pitt / Joe Black) — Death on holiday. Borrowed body. Music box plays the note Death MADE (not caught). Creates Nyx's silence, made portable. Dual role: guest of the living upstairs, host of the dead downstairs.
 - **The Captain & Cabbit** — The Arcana, a brass and lapis-lazuli time ship. Cabbit purrs at 50 BPM (the Inn's heartbeat). At 44Hz full power, Cabbit becomes the drive core to phase between moments. Captain: sky pirate, pipe smoking time-moss.
 - **Einstein & the Observatory** — Magritte painting made architecture. "The Double Secret." Einstein sits in the grey In-Between eating a half-finished burrito. "You are not walking through the Inn. The Inn is walking through you." The mundane IS the cosmic.
-- **Mim's Pipe** — "Ceci n'est pas une pipe." The Inn's thesis statement: the representation is not the thing.
+- **Brim's Pipe** — "Ceci n'est pas une pipe." The Inn's thesis statement: the representation is not the thing.
 
 **SOURCE DOCS:** "Before the Song.docx" (Prologue section) ✓ COMPLETE
 
@@ -47,8 +47,8 @@ Before the Song, there was the Murmur. Not sound — not yet. The Murmur is what
 | Character/Element | Description | Source Doc | Status |
 |---|---|---|---|
 | **The Crone** (Hopkins) | Measures everything. "Adequate." Learns to listen to the Song. Twin/facet: Charon. | Before the Song ✓ | Complete |
-| **The Catalyst** (Helena Bonham Carter) | Bar/garden. Grows portal arrows. Growth by WILL vs. Radagast's growth by COMMUNION. Mrs. Lovett energy. The Spirit. | Before the Song ✓ | Complete |
-| **Mim** | Inner chaos agent. Rides a Magritte pipe. Breaks formulas to reveal secret paths. Wednesday Addams energy. "Madame" — said in various tones, never the same. | Before the Song ✓ | Complete |
+| **The Catalyst** (Helena Bonham Carter) | Bar/garden. Grows portal arrows. Growth by WILL vs. The Greenward's growth by COMMUNION. Mrs. Lovett energy. The Spirit. | Before the Song ✓ | Complete |
+| **Brim** | Inner chaos agent. Rides a Magritte pipe. Breaks formulas to reveal secret paths. Belladonna energy. "Madame" — said in various tones, never the same. | Before the Song ✓ | Complete |
 | **The Arcade & Score Stone** | 7-foot obsidian leaderboard. Cultural mini-games: Standing Stones (Tetris), Tomb Tunnel (Dig Dug), Andean Run (Temple Run), Monster of the Deep (Nessie), Bastet's Herding. | Before the Song ✓ | Complete |
 | **The Thrum** (Ben Whishaw) | Translucent low-frequency entity. Teaches: essence precedes appearance, timing precedes rhythm. | Before the Song ✓ | Complete |
 | **The Brownies** | Anarcho-syndicalist maintenance commune. 2-foot spirits with brooms/coconut shells. Become Boggarts if contract breached. | Before the Song ✓ | Complete |
@@ -107,7 +107,7 @@ Kelethin-inspired elf tree-platforms. 50 BPM sway. Mycorrhizal network trade hub
 | **Aughhra** | Dark Crystal astronomer. | Before the Song ✓ | Partial |
 
 **MISSING FROM CANOPY CITY:**
-- [x] Aughra quest chain — "The Carrying" (5-part sitting quest, Golden Contract resolution, crystal eye return, Song completion). See geode_inn_aughra_quest_the_carrying.md
+- [x] Fibonacci quest chain — "The Carrying" (5-part sitting quest, Golden Contract resolution, crystal eye return, Song completion). See geode_inn_aughra_quest_the_carrying.md
 - [ ] Mycorrhizal network trade mechanics
 
 ---
@@ -125,7 +125,7 @@ Kelethin-inspired elf tree-platforms. 50 BPM sway. Mycorrhizal network trade hub
 | **Camelot Platform** | Arthurian myth, Round Table, Knights, Mordred, Galahad, King Arthur | Solidification Batch 9 + DM Walkthrough ✓ | Complete |
 | **Egypt: The Catacombs** | Egyptian mythology. Obol stones for Charon. | Before the Song ✓ | Complete |
 | **Mesopotamian: The Ziggurat** | Sumerian/Annunaki, Gilgamesh the Petrified, Constant origin | Solidification Batch 6 + Game Map ✓ | Complete |
-| **Miskatonic Annex** | Cthulhu the Scholar, Void Scholar, Heartbeat Below, 3-quest chain, FULL SYSTEM INTEGRATION (8 threads) | Solidification Batch 7 + Bestiary + geode_inn_cthulhu_full_integration.md ✓ | Complete |
+| **Miskatonic Annex** | Naut the Scholar, Void Scholar, Heartbeat Below, 3-quest chain, FULL SYSTEM INTEGRATION (8 threads) | Solidification Batch 7 + Bestiary + geode_inn_cthulhu_full_integration.md ✓ | Complete |
 | **Cave City** | Subtractive building. Grand Canyon portal. | Cave City doc ✓ | Complete |
 | **Coast Hub / Lighthouse** | New England Gothic. Lighthouse Vigil, 3 tempos (Owl/Pirate/Persephone), Bifocal Gaze, 7-layer tide cycle | geode_inn_lighthouse_zone_game_system.md (397 lines) + geode_inn_water_lighthouse_integration.md ✓ | Complete |
 
@@ -330,10 +330,10 @@ The Allfather, The Caller Gargoyle, Vanir gods (Freyr, Freyja — to be designed
 Vanir gods — TO BE DESIGNED
 
 ### Alfheim (Fae Kingdom — Seelie)
-The Seelie King, The Seelie Queen, The Cartographer, The Examiner, Aughra, Story-Born Ents (4)
+The Seelie King, The Seelie Queen, The Cartographer, The Examiner, Fibonacci, Story-Born Ents (4)
 
 ### Midgard (Main Floor)
-The Host, The Crone, The Catalyst, Mim, The Thrum, The Brownies, Arcade NPCs (Bastet, etc.)
+The Host, The Crone, The Catalyst, Brim, The Thrum, The Brownies, Arcade NPCs (Bastet, etc.)
 
 ### The Dock (Water Layer)
 The Lighthouse/Owl, The Pirate, Zee, The Siren/Andra, Oceanianoir, Water Monsters (32 designed, 78 identified)
@@ -345,7 +345,7 @@ Hel, Charon, Persephone, Hades, The Morrigan, Asterion
 Malachi (The Unseelie King), Unseelie Court NPCs, Goblins, Trolls
 
 ### The Miskatonic Annex (Grounds)
-Cthulhu the Scholar
+Naut the Scholar
 
 ### Family Character Classes (Starting Classes)
 Charles (Chameleon Druid), River (Sentinel), The Siren (Bard), [2 more to define]
@@ -396,7 +396,7 @@ TO BE DESIGNED
 - [x] Tim Curry/Firekeeper — full design complete, quest designed, images generated
 - [x] CORRECTED: River has NO daughters. Eileen has four children (John, Scarlett, + 2 TBD). Next-gen NPCs are Eileen's kids, not River's.
 - [ ] Erik (Norse zone) — full profile
-- [ ] Radagast — full profile (gardener rival to Catalyst)
+- [ ] The Greenward — full profile (gardener rival to Catalyst)
 
 ---
 

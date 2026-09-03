@@ -54,7 +54,7 @@ The roles are not assigned at character creation. ANY class can perform ANY role
 - **Pulse Mitigation:** When the boss emits an 84Hz disruption pulse, the tank can INTERCEPT it — standing in the pulse's path and deploying a counter-frequency at the exact moment of impact. The interception is a timing mechanic — the Pulse Line shows the pulse approaching (a sharp irregular spike building on the line), and the tank must deploy the counter-frequency at the pulse's peak. Perfect timing = full mitigation. Good timing = partial mitigation. Poor timing = the pulse hits the group.
 
 **Classes Best Suited:**
-- **Warrior** (Erik, Uhtred) — MIGHT + VITALITY, STONE/FIRE frequency. Natural tanks. Erik's fire-armor becomes resonance armor. Uhtred's "destiny is all" becomes unbreakable aggro.
+- **Warrior** (Erik, The Wayfarer) — MIGHT + VITALITY, STONE/FIRE frequency. Natural tanks. Erik's fire-armor becomes resonance armor. The Wayfarer's "destiny is all" becomes unbreakable aggro.
 - **Paladin** — MIGHT + PRESENCE, STONE/ROOT frequency. The oath-bound guardian. The paladin's oath IS the aggro — the commitment that the boss can't ignore.
 - **Monk** — VITALITY + FINESSE, ROOT/SILENCE frequency. The monk tanks through discipline — the resonance armor is thin but PERFECT. No wasted frequency. The monk's mitigation is efficient, not heavy.
 

@@ -500,7 +500,7 @@
     "priority": 1,
     "isWhisperLayer": false,
     "voiceProfile": "beorn",
-    "npcName": "Beorn",
+    "npcName": "The Bearsark",
     "zone": "Forest Edge",
     "hookWord": "threshold"
   },
@@ -517,7 +517,7 @@
     "priority": 1,
     "isWhisperLayer": false,
     "voiceProfile": "beorn",
-    "npcName": "Beorn",
+    "npcName": "The Bearsark",
     "zone": "Forest",
     "hookWord": "threshold"
   },
@@ -533,7 +533,7 @@
     "priority": 1,
     "isWhisperLayer": false,
     "voiceProfile": "beorn",
-    "npcName": "Beorn",
+    "npcName": "The Bearsark",
     "zone": "Forest Edge",
     "hookWord": "threshold"
   },
@@ -668,7 +668,7 @@
     "priority": 1,
     "isWhisperLayer": false,
     "voiceProfile": "radagast",
-    "npcName": "Radagast",
+    "npcName": "The Greenward",
     "zone": "Garden",
     "hookWord": "grow"
   },
@@ -684,7 +684,7 @@
     "priority": 1,
     "isWhisperLayer": false,
     "voiceProfile": "radagast",
-    "npcName": "Radagast",
+    "npcName": "The Greenward",
     "zone": "Garden",
     "hookWord": "grow"
   },
@@ -700,7 +700,7 @@
     "priority": 1,
     "isWhisperLayer": false,
     "voiceProfile": "radagast",
-    "npcName": "Radagast",
+    "npcName": "The Greenward",
     "zone": "Garden",
     "hookWord": "grow"
   },
@@ -718,7 +718,7 @@
     "priority": 1,
     "isWhisperLayer": false,
     "voiceProfile": "radagast",
-    "npcName": "Radagast",
+    "npcName": "The Greenward",
     "zone": "Garden",
     "hookWord": "grow"
   },
@@ -734,7 +734,7 @@
     "priority": 1,
     "isWhisperLayer": false,
     "voiceProfile": "uhtred",
-    "npcName": "Uhtred",
+    "npcName": "The Wayfarer",
     "zone": "Campgrounds",
     "hookWord": "verdict"
   },
@@ -753,7 +753,7 @@
     "priority": 1,
     "isWhisperLayer": false,
     "voiceProfile": "uhtred",
-    "npcName": "Uhtred",
+    "npcName": "The Wayfarer",
     "zone": "Campgrounds",
     "hookWord": "verdict"
   },
@@ -774,7 +774,7 @@
     "priority": 1,
     "isWhisperLayer": false,
     "voiceProfile": "uhtred",
-    "npcName": "Uhtred",
+    "npcName": "The Wayfarer",
     "zone": "Campgrounds",
     "hookWord": "verdict"
   },
@@ -790,7 +790,7 @@
     "priority": 1,
     "isWhisperLayer": false,
     "voiceProfile": "uhtred",
-    "npcName": "Uhtred",
+    "npcName": "The Wayfarer",
     "zone": "Campgrounds",
     "hookWord": "verdict"
   },

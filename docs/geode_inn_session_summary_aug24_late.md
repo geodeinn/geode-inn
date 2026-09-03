@@ -35,7 +35,7 @@ Drive: Uploaded
 Full audit of the card game framework completed:
 - **115 unique cards** across 4 batches
 - **6 Frequencies** (Song, Silence, Fire, Water, Stone, Root)
-- **20 keyword mechanics** (Adequate, Wound, Damp, Current, Carve, Network, Resonate, Naming, Bridge, Subtractive, Additive, Wandering, Threshold, Vessel, Mim, Mirror, Observer, Ferry, Gargoyle, Lithophone, Heartbeat)
+- **20 keyword mechanics** (Adequate, Wound, Damp, Current, Carve, Network, Resonate, Naming, Bridge, Subtractive, Additive, Wandering, Threshold, Vessel, Brim, Mirror, Observer, Ferry, Gargoyle, Lithophone, Heartbeat)
 - **11 deck archetypes** mapped to the Inn's cosmology
 - **Adorable cast confirmed:** Bloop (Schrödinger's Cat), The Duck (platypus), The Cabbit (Eres), Noctua (owl), The Brownies, The Murloc, The Crimean Goth Children, The Four Story-Born Ents, The Tinkering Weeaboo
 

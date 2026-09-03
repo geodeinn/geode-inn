@@ -15,12 +15,12 @@ These are characters with dialogue, quests, services, or narrative function. Eac
 | ID | Name | Location | Role | Idle Behavior | Movement Pattern |
 |----|------|----------|------|---------------|-----------------|
 | NPC-001 | The Storyteller | Great Hearth, main floor | Host, tutorial, lore | Sits in grand chair, gestures mid-story, sips brandy, pipe smoke | Seated — never stands. Gestures: wide arm sweeps, finger points, dramatic pauses. Pipe smoke varies with emotional beat. |
-| NPC-002 | Cthulhu the Scholar | Library stacks | Hidden quest giver, rare book retrieval | Reads book, turns pages with tentacles, adjusts spectacles, sips tea | Seated mostly. Occasional: looks up when player approaches, tilts head curiously. Tentacles have independent idle motion. |
+| NPC-002 | Naut the Scholar | Library stacks | Hidden quest giver, rare book retrieval | Reads book, turns pages with tentacles, adjusts spectacles, sips tea | Seated mostly. Occasional: looks up when player approaches, tilts head curiously. Tentacles have independent idle motion. |
 | NPC-003 | Beverley the Librarian | Archive, downstairs | Librarian, gatekeeper of knowledge | Stands at catalog desk, writes in ledger, stamps books, peers over spectacles | Walks between shelves with purpose. Short strides (two-thirds height). Stops to shelve books. Intimidating stare when approached. |
 | NPC-004 | The Catalyst (Bartender) | Bar, main floor | Barkeep, quest broker, information | Polishes glass, pours drinks, listens, nods | Stands behind bar. Reaches for bottles, wipes counter. Leans forward when player engages. |
 | NPC-005 | The Constant | Central hub | Player's companion/guide | Follows player, sits nearby when idle, watches | Companion AI — follows at 2-3 tile distance. When player stops: sits, looks around, yawns. Eres the cabbit curls on shoulder or lap. |
 | NPC-006 | Eres the Cabbit | On The Constant's shoulder | Ship's heart in animal form | Curls up, flicks ears, chases butterflies when free-roaming | Perched on shoulder most of the time. Occasional: hops down, explores, returns. Iridescent fur shimmers. |
-| NPC-007 | The Keeper (Aughra) | Observatory, upstairs | Archive of astral knowledge | Mixes potions, peers through telescope, organizes crystals | Slow, deliberate. Hands always working. Turns to face player with full-body rotation. |
+| NPC-007 | The Keeper (Fibonacci) | Observatory, upstairs | Archive of astral knowledge | Mixes potions, peers through telescope, organizes crystals | Slow, deliberate. Hands always working. Turns to face player with full-body rotation. |
 | NPC-008 | The Queen of Words | Library, main floor | Language scholar, translation quests | Writes in multiple scripts simultaneously, consults dictionaries | Seated at writing desk. Hands move in different rhythms for different scripts. Looks up through reading glasses. |
 | NPC-009 | The Fixer (Wrought) | Workshop, main floor | Repairs, upgrades, crafting | Hammers, solders, adjusts goggles, wipes hands on apron | Stands at workbench. Reaches for tools. Occasional: steps back to inspect work, nods. |
 | NPC-010 | The Artisan Thief | Market stalls, main floor | Wire-wrapping instructor, crafting | Works copper wire at speed, displays pendants, watches crowd | Walks market stalls. Hands always moving — wire wrapping even while walking. Shows pendants to interested players. |
@@ -45,9 +45,9 @@ These are characters with dialogue, quests, services, or narrative function. Eac
 | NPC-024 | Hades | Greek underworld zone | Underworld lord | Sits on obsidian throne, counts coins, Cerberus at feet | Seated. Flips coins. Cerberus (three-headed dog) sleeps at feet — one head always awake. |
 | NPC-025 | Charon | Underground river crossing | Ferryman, transition guardian | Poles boat across underground river, collects coins | Standing in boat. Slow poling motion. Boat rocks gently. Extends hand for coin. |
 | NPC-026 | The Guest (Death) | Thresholds and doorways | Death, transition guide | Stands in doorways, waits, watches, extends hand | Never enters — always at thresholds. Stillness. Only hand moves, extended in invitation. Robes drift despite no wind. |
-| NPC-027 | Madame Mim | Camelot zone | Transformation sorceress | Shifts between forms — raven, snake, flame, human | Mid-transformation constant. Fragments of forms spin. Eyes are the constant. Cauldron bubbles. |
+| NPC-027 | Brim | Camelot zone | Transformation sorceress | Shifts between forms — raven, snake, flame, human | Mid-transformation constant. Fragments of forms spin. Eyes are the constant. Cauldron bubbles. |
 | NPC-028 | Merlin | Camelot zone | Wizard, scholar | Reads spell books, beard moves independently, stars orbit staff | Seated at desk. Beard has own animation cycle. Small stars orbit staff tip. Occasional: levitates briefly. |
-| NPC-029 | Archimedes (Merlin's owl) | Camelot zone | Merlin's companion | Perches on Merlin's chair, preens, hoots, disapproves | Perched. Head swivels. Ruffles feathers when player approaches. Occasionally flies to bookshelf and back. |
+| NPC-029 | Noctua (Merlin's owl) | Camelot zone | Merlin's companion | Perches on Merlin's chair, preens, hoots, disapproves | Perched. Head swivels. Ruffles feathers when player approaches. Occasionally flies to bookshelf and back. |
 | NPC-030 | The Shifting Man | Crossroads, nine-path intersection | Nine-realm quest giver | Shifts between nine forms at the crossroads, each form dominant for 3 seconds | Standing at crossroads center. Form morphs every 3 seconds. Nine paths glow beneath feet. Cloak of nine skins flutters. |
 | NPC-031 | Thorin | Meadery, Canopy City | Mead hall owner, stone catalog keeper | Brews mead, checks stone registry, wipes bar | Behind bar. Pours mead. Opens stone registry, writes carefully. Calloused hands move deliberately. |
 | NPC-032 | Marijke | Meadery, Canopy City | Mead hall co-owner, business mind | Counts inventory, sharp-eyed scanning, corrects Thorin | Walks the hall. Inspects barrels. Returns to Thorin, points at registry, taps a correction. |
@@ -287,7 +287,7 @@ Non-living elements that move. These create the Inn's atmosphere through animati
 | ENV-034 | The Pulse Line | Bottom of screen (all zones) | CSS waveform | The 42Hz/84Hz frequency indicator. Always present. Shifts between modes. Visual heartbeat of the Inn. |
 | ENV-035 | Floating Books | Library | CSS levitation | Occasional book floats from shelf to reading table. Pages flutter. Lands gently. |
 | ENV-036 | Sparkles | Crystal areas, magic zones | Particle system | Tiny light points. Appear and fade. Concentrate near magical NPCs. |
-| ENV-037 | Smoke from Cauldron | Madame Mim's area | Particle system | Cauldron bubbles. Smoke rises in shapes. Purple and green. Transforming. |
+| ENV-037 | Smoke from Cauldron | Brim's area | Particle system | Cauldron bubbles. Smoke rises in shapes. Purple and green. Transforming. |
 | ENV-038 | Frost Crystals | Unseelie Court, Norse zone | CSS form | Frost patterns form on surfaces. Spread from Unseelie King's throne. |
 | ENV-039 | Sand Particles | Egypt zone, desert areas | Particle system | Fine sand drifts. Settles on surfaces. Disturbed by movement. |
 | ENV-040 | Ember Rise | Forge, hearth, any fire | Particle system | Embers rise from fire sources. Glow, dim, fade. Spiral upward on heat currents. |
@@ -302,7 +302,7 @@ Non-living elements that move. These create the Inn's atmosphere through animati
 
 | Type | Count | Method | Examples |
 |------|-------|--------|----------|
-| Character Sprites | 45 NPCs | Sprite sheet (idle, walk, interact, dialogue) | Storyteller, Cthulhu, Odin, all main NPCs |
+| Character Sprites | 45 NPCs | Sprite sheet (idle, walk, interact, dialogue) | Storyteller, Naut, Odin, all main NPCs |
 | Filler Critters | 60 creatures | Sprite sheet (idle, wander, react) | Dragon kittens, gargoyle puppies, fizgigs |
 | CSS Animations | 25 elements | CSS keyframes | Flames, fog, gears, vines, pulse line |
 | Particle Systems | 17 elements | JS particle engine | Smoke, dust, embers, rain, pollen, sparkles |

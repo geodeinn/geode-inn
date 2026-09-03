@@ -11,7 +11,7 @@
 | Rarity Tier | Common |
 | Price | Free (accessibility showcase — included with Inn access) |
 | Game Effect | Populates geode cave with collected stones. Teaches the core principle: vibration is identity. |
-| Lore Connection | The geode cave is where the 42Hz Song is densest. The Keeper (Aughra) tends this place. Each stone plays its chord — two frequencies from real mineralogy: density (specific gravity) and hardness (Mohs scale). The discovery: quartz varieties all share the same chord. What you SEE is not what something IS. Color is cosmetic. Vibration is identity. |
+| Lore Connection | The geode cave is where the 42Hz Song is densest. The Keeper (Fibonacci) tends this place. Each stone plays its chord — two frequencies from real mineralogy: density (specific gravity) and hardness (Mohs scale). The discovery: quartz varieties all share the same chord. What you SEE is not what something IS. Color is cosmetic. Vibration is identity. |
 | Development Status | spec-complete |
 
 ## SECTION 2: STORYLINE ADAPTATION
@@ -29,7 +29,7 @@ Four game modes:
 The core teaching: What you SEE is not what something IS. This is the Inn's accessibility thesis made into a game. A blind player can play this fully. A deaf player gets haptic feedback at the stone's frequency.
 
 NPC Connections:
-- The Keeper (Aughra) tends the geode cave and observes the player's progress
+- The Keeper (Fibonacci) tends the geode cave and observes the player's progress
 - Eileen's presence (7.83Hz) calms the cave — bone conduction range
 - Tesla would measure the frequencies here (cosmology connection)
 
@@ -40,7 +40,7 @@ Frequency States:
 
 ## SECTION 3: VISUAL ASSETS NEEDED
 
-- Character sprites: The Keeper (Aughra) in geode cave (Living + Shadow)
+- Character sprites: The Keeper (Fibonacci) in geode cave (Living + Shadow)
 - Background: Dark cave — minimal. Vibration waveforms/frequency bars as primary visual
 - Stone reveal: Color floods in AFTER identification — the "aha" moment. Each stone's real color from database
 - Geode cave filling: As stones are collected, cave fills with light and crystal display

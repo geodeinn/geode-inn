@@ -31,7 +31,7 @@ The Card Game Framework translates the Inn's complete narrative architecture, NP
   2. *Silence (Nyx's Frequency - Deep Blue/Black):* Control identity. Suspends cards via *Damp* (nullifying abilities for 2 turns without destroying). Win condition: *The Silence Between* (all opponent cards Damped). Key cards: Nyx, The Guest (Death), The Thrum, Gesso.
   3. *Fire (50 BPM - Warm Red/Orange):* Aggro-Swarm identity. Gains strength through *Wound* (+1/+1 when taking damage). Win condition: *The Feast* (7+ Fire cards in play). Key cards: Erik, The Host, The Cook, The Catalyst.
   4. *Water (16–42 Hz - Teal/Cyan):* Midrange-Combo identity. Card movement via *Current* (bounce to hand and replay at reduced cost). Win condition: *The Crossing* (card bounces/replays 3 times). Key cards: Charon, The Siren, The Pirate, Owl/Lighthouse.
-  5. *Stone (111 Hz - Gray/White):* Defense-Control identity. Structural permanence via *Carve* (occupies board permanently; destroyed only by Subtractive effects). Win condition: *The Monument* (5 Stone structures in play). Key cards: Medusa, The Crone, The Mason, Wednesday Addams.
+  5. *Stone (111 Hz - Gray/White):* Defense-Control identity. Structural permanence via *Carve* (occupies board permanently; destroyed only by Subtractive effects). Win condition: *The Monument* (5 Stone structures in play). Key cards: Medusa, The Crone, The Mason, Belladonna.
   6. *Root (Mycorrhizal - Deep Green/Brown):* Ramp-Combo identity. Mana acceleration via *Network* (+1 mana per Root card). Win condition: *The Living Map* (Root cards connected to all 6 frequencies). Key cards: Cartographer, Queen of Webs, Queen of Roots, Gardener.
 
 ---

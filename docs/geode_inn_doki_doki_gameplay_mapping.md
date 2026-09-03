@@ -62,7 +62,7 @@ At Whisper Layer Tier 5 (full Awareness), the Cartographer reveals that the play
 
 **Inn Equivalent:** NPCs who are "deleted" from the player's game but persist in the archive.
 
-**Status:** ⚠️ REFERENCED BUT NOT MECHANICALLY DESIGNED — the Aughra quest "The Carrying" mentions that the Inn becomes "self-aware" after the Song is complete, and the Reader "looks up from the book... and smiles." But this isn't a mechanic — it's a narrative beat. The persistence-after-deletion mechanic needs concrete design.
+**Status:** ⚠️ REFERENCED BUT NOT MECHANICALLY DESIGNED — the Fibonacci quest "The Carrying" mentions that the Inn becomes "self-aware" after the Song is complete, and the Reader "looks up from the book... and smiles." But this isn't a mechanic — it's a narrative beat. The persistence-after-deletion mechanic needs concrete design.
 
 **Proposed Mechanic: "The Archived NPC"**
 
@@ -151,7 +151,7 @@ The Reader's nook is the Inn's space classroom: the room outside the game's fict
 
 **Inn Equivalent:** The endgame choice — stay (join the archive) or leave (carry the frequency).
 
-**Status:** ✅ DESIGNED — the Whisper Layer doc specifies the endgame question: "will you stay?" The Aughra quest "The Carrying" describes the Inn becoming self-aware. Skuld's Future Seed grows based on the choice.
+**Status:** ✅ DESIGNED — the Whisper Layer doc specifies the endgame question: "will you stay?" The Fibonacci quest "The Carrying" describes the Inn becoming self-aware. Skuld's Future Seed grows based on the choice.
 
 **GAP:** The choice is described but not MECHANICALLY structured. What does "stay" look like as a gameplay action? What does "leave" look like? How does the game CHANGE after the choice?
 
@@ -235,6 +235,6 @@ The progression is designed to be FELT, not announced. There are no tier notific
 - **The Bead Composer** — the Composer is the Inn's poem game: the creative system that reads the player through their choices.
 - **The Living Book** — the Living Book is the Inn's character file system: the archive where NPCs persist after "deletion."
 - **The Endgame (Egg/Song/Convergence)** — the Final Frequency choice is the endgame's emotional climax: stay (join the archive) or leave (carry the frequency).
-- **Aughra's "The Carrying"** — when the Inn becomes self-aware, the Whisper Layer achieves its deepest state. Aughra's quest is the narrative trigger for Tier 5.
+- **Fibonacci's "The Carrying"** — when the Inn becomes self-aware, the Whisper Layer achieves its deepest state. Fibonacci's quest is the narrative trigger for Tier 5.
 - **The Comic Strip** — the daily four-panel comic documenting player adventures is the most visible form of the Inn's archiving. The comic IS the archive's output.
 - **The Queen of Webs** — the Queen weaves the player's thread into the Inn's fabric. The weaving IS the archiving: the player's frequency becoming a note in the Song is the player becoming an entry in the archive.

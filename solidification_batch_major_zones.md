@@ -369,7 +369,7 @@ The Spiral Gallery is reimagined as a concentrated initiation ramp where players
 ## 11. GEODE_INN_AUGHRA_LINEAGE.MD — THE AUGHRA LINEAGE
 
 ### Core Overview & Solidification
-Drawing from Jim Henson's *The Dark Crystal*, this document connects Mother Thra / Aughra's lineage to **The Retort** (alchemical apparatus), **The Cook** (kitchen hearth matriarch), and the Crystal's distant subterranean relatives.
+Drawing from Jim Henson's *The Dark Crystal*, this document connects Mother Thra / Fibonacci's lineage to **The Retort** (alchemical apparatus), **The Cook** (kitchen hearth matriarch), and the Crystal's distant subterranean relatives.
 
 The lineage embodies dual nature: terrifying primal crone and maternal soup-maker. Possessing a single-eye holistic perception, the lineage sees the Inn as one living organism. The Retort cleanses alchemical crystal sludge, The Cook feeds root systems through hearth cauldrons, and the subterranean Crystal operates as the Inn's memory core.
 
@@ -533,11 +533,11 @@ This document establishes the copyright, trademark, and public domain compliance
 
 **Key Name Shifts & Safeguards:**
 - **MUST CHANGE (Actively Copyrighted):**
-  - *Madame Mim* -> **Old Mother Witch** / Baba Yaga aspect.
+  - *Brim* -> **Old Mother Witch** / Baba Yaga aspect.
   - *Dobby* -> **Hob** (public domain house-spirit).
   - *Hoggle* -> **Hedley** / Grotto-Gnome.
-  - *Cthulhu* -> **The Deep Sleeper** / Eldritch Abyssal.
-  - *Aughra* -> **Mother Thra** / The Crystal Matriarch.
+  - *Naut* -> **The Deep Sleeper** / Eldritch Abyssal.
+  - *Fibonacci* -> **Mother Thra** / The Crystal Matriarch.
   - *Huginn & Muninn* -> **Thought & Memory** / Hugin & Munin (Norse public domain spelling).
 - **REVIEW (Actor / Celebrity Parodies):**
   - *Emily Deschanel / Brennan* -> **The Bone Examiner**.

@@ -23,7 +23,7 @@ The Geode Inn is structured as a massive ancient tree with three main levels plu
 - The Modern Day Legends nook (living archive of contemporary folklore)
 - A library of world religions (neutral, scholarly)
 - The Sage gargoyle guards the Modern Legends nook entrance
-- Cthulhu the Scholar sits by the fireplace as a hidden quest giver
+- Naut the Scholar sits by the fireplace as a hidden quest giver
 - The Wanderer (Odin's approachable form) can be found here with his chibi thieving ravens
 - The baby dragon mascot lives here in the geode cave
 - The Keeper gargoyle guards the geode cave entrance
@@ -98,7 +98,7 @@ Architectural sentinels embedded in the living tree. They do not move (except th
 6. **Odin — The Allfather** — Cosmic authority, upstairs/cosmology level. Ravens become stoic perched sentinels.
 
 ## Ambulatory (1) — Unique NPC
-7. **Cthulhu the Scholar** — 4-foot squid-headed figure with spectacles, sits by the fireplace. Hidden quest giver for rare book retrieval. Rewards the rarest stones in the Inn.
+7. **Naut the Scholar** — 4-foot squid-headed figure with spectacles, sits by the fireplace. Hidden quest giver for rare book retrieval. Rewards the rarest stones in the Inn.
 
 ## Chibi Fae NPCs (8) — Fae Kingdom inhabitants
 8. Chullachaqui

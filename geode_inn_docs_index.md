@@ -117,14 +117,14 @@
 | 4,961 | geode_inn_charon.md | Charon |
 | 4,723 | geode_inn_astronomer.md | The Astronomer: Mind Palace in the Sky |
 | 4,508 | geode_inn_tesla_character_profile.md | Nikola Tesla |
-| 4,465 | geode_inn_cthulhu_character_profile.md | Cthulhu |
+| 4,465 | geode_inn_cthulhu_character_profile.md | Naut |
 | 4,350 | geode_inn_da_vinci_character_profile.md | Leonardo da Vinci |
 | 4,437 | geode_inn_siren_deep.md | The Siren: Deep Character Study |
 | 4,322 | geode_inn_shifting_man_narrative.md | The Shifting Man: Narrative Presence |
 | 4,259 | geode_inn_queen_of_words.md | The Queen of Words |
 | 4,109 | geode_inn_queen_of_roots.md | The Queen of Roots |
-| 4,102 | geode_inn_gardener_and_beorn.md | The Gardener: Radagast |
-| 4,066 | geode_inn_the_keeper_aughra.md | The Keeper (Aughra) |
+| 4,102 | geode_inn_gardener_and_beorn.md | The Gardener: The Greenward |
+| 4,066 | geode_inn_the_keeper_aughra.md | The Keeper (Fibonacci) |
 | 4,018 | geode_inn_the_thrum.md | The Thrum |
 | 3,998 | geode_inn_council_of_thinkers.md | The Council of Thinkers |
 | 3,961 | geode_inn_odin_character_profile.md | Odin Character Profile |
@@ -166,7 +166,7 @@
 | 1,882 | geode_inn_song_of_making.md | The Song of Making & Golden Contract |
 | 1,879 | geode_inn_examiner_story.md | The Examiner's Story |
 | 1,846 | geode_inn_hel.md | Hel |
-| 1,707 | geode_inn_madame_mim.md | Madame Mim |
+| 1,707 | geode_inn_madame_mim.md | Brim |
 | 1,690 | geode_inn_morrigan_mab.md | The Morrigan and Queen Mab |
 | 5,576 | geode_inn_einstein_character_profile.md | Albert Einstein |
 | 5,369 | geode_inn_morrigan.md | The Morrigan |
@@ -178,7 +178,7 @@
 | 1,303 | geode_inn_persephone_redesign.md | Persephone Redesign |
 | 4,441 | geode_inn_periodic_table_charms.md | The Periodic Table Charm Collection |
 | 3,912 | geode_inn_ruined_castle_keepfolk.md | The Ruined Castle: The Left-Behind |
-| 3,615 | geode_inn_merlin_archimedes.md | Merlin and Archimedes |
+| 3,615 | geode_inn_merlin_archimedes.md | Merlin and Noctua |
 | 3,257 | geode_inn_messenger_principle.md | The Messenger Principle |
 | 3,184 | geode_inn_retort_bloop_tesla.md | The Retort's Two Frustrations |
 | 2,944 | geode_inn_worldbuilding_notes_aug2026.md | World-Building Notes |
@@ -235,8 +235,8 @@
 | 2,302 | geode_inn_table_dynamics.md | Round Table Group Dynamics |
 | 2,287 | geode_inn_galahad.md | Galahad |
 | 1,937 | geode_inn_arthur.md | King Arthur |
-| 1,707 | geode_inn_madame_mim.md | Madame Mim |
-| 3,615 | geode_inn_merlin_archimedes.md | Merlin and Archimedes |
+| 1,707 | geode_inn_madame_mim.md | Brim |
+| 3,615 | geode_inn_merlin_archimedes.md | Merlin and Noctua |
 
 ---
 
@@ -316,7 +316,7 @@
 | 2,647 | geode_inn_canopy_zone_design.md | Canopy of Sála: Kelekeen-Inspired |
 | 4,542 | geode_inn_canopy_city_vendors.md | Canopy City Vendors |
 | 1,520 | mib_tesla_prompt_list.md | MIB & Tesla Morphic Prompts |
-| 2,715 | geode_inn_aughra_lineage.md | Aughra Lineage |
+| 2,715 | geode_inn_aughra_lineage.md | Fibonacci Lineage |
 | 2,586 | geode_inn_trovant_kossoff.md | The Trovant Garden (Kossoff) |
 | 2,864 | geode_inn_redwood_cathedral.md | Redwood Cathedral |
 | 2,320 | geode_inn_ravens_angle.md | The Raven's Angle |

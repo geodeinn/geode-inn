@@ -85,7 +85,7 @@ The market is NOT static. Stalls change based on:
 
 **Time of day:** Different vendors are present at different in-game times. Erik's mead stall opens at dusk. The Examiner's fragment stall is only open midday. The Bard's instrument stall opens at dawn (the Bard practices at dawn).
 
-**Player progression:** New stalls appear as the player unlocks zones. The Fae Kingdom stall only appears after the player opens the portal. The National Parks stall only appears after the player crosses Beorn's border.
+**Player progression:** New stalls appear as the player unlocks zones. The Fae Kingdom stall only appears after the player opens the portal. The National Parks stall only appears after the player crosses The Bearsark's border.
 
 **Seasonal events:** The market changes with in-game seasons (if implemented). The Solstice Market (summer/winter) brings rare items. The Equinox Market brings balanced items (equal frequency pairs).
 

@@ -164,11 +164,11 @@ Relationships
 * The Chameleon Druid (Charles — Father): Father and child. He uses his shifting abilities to match her form during Level 4 meltdowns so she never changes alone.
 * The Librarian Crone (Grandmother): Recognized the changeling nature immediately. Enforces the "eat something / pomegranates" and steady reading protocol during meltdowns.
 * The Bard Blowhard (Grandfather): Doting grandfather who uses relentless, silly jokes to shrink the Ryuk grin back to normal size.
-* Cthulhu: Mutual respect between two dark-dwelling, scholarly outsiders who appreciate quiet spaces.
+* Naut: Mutual respect between two dark-dwelling, scholarly outsiders who appreciate quiet spaces.
 Notable Dialogue & Voice Samples
 1. "The Fae Kingdom is three hundred years of shiny grass and poetry. Humans have arcade cabinets and soldering irons. Why would anyone stay in the grass?"
 2. (Level 1 Annoyed): "I don't need help. I need a smaller screwdriver, a higher clock speed, and for people to stop asking me if I've eaten."
-3. (To Cthulhu, showing her Ryuk form): "You're welcome."
+3. (To Naut, showing her Ryuk form): "You're welcome."
 Important Lore Connections
 Connects directly to the Inn's Japanese cultural zone (kami, yokai, shinigami, mecha), arcade cabinet modifications, and the underworld reincarnation cycle through pomegranate consumption.
 
@@ -230,7 +230,7 @@ Relationships
 * The Siren (Wife): Married to the Siren. He fell in love with the lonely singer behind the voice, and survived her song through total personal honesty.
 * The Bard Blowhard (Father-in-Law & Best Friend): Absolute best friends. They form an extroverted duo on the dock, combining the Bard's wild questions with the Pirate's empirical world discoveries, backed by lute and drum sessions.
 * The Artisan Thief (Vaulknut — Sister-in-Law): Water-creature bond and trade partner; he brings rare minerals from far zones for her jewelry bench.
-* Cthulhu & Miskatonic Annex: Respects classified lore and rare texts without prying into dangerous secrets.
+* Naut & Miskatonic Annex: Respects classified lore and rare texts without prying into dangerous secrets.
 Notable Dialogue & Voice Samples
 1. "The registry doesn't show who I am. It shows who held the coat before me. The coat has been a lot of places. I just keep time."
 2. (To the Bard on the dock): "I brought you a compass that doesn't point north. The why is yours."

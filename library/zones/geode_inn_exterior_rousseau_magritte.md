@@ -83,7 +83,7 @@ The Inn-Tree is full of keyholes — small openings, framed moments, where the p
 - The knots in the bark (the tree's eyes) are keyholes to the cosmology level. Look through a knot and see the stars.
 - The hollow at the base (the door) is a keyhole to the catacombs. Look through the hollow and see the roots, the sleeping giant's ribs, the geological record.
 - The gaps in the canopy (the leaves' margins) are keyholes to the sky. Look up through a gap and see the Song moving — the 42Hz visible as a faint shimmer in the air, the way heat shimmers above a road.
-- The fireplace in the Miskatonic Annex is a keyhole to the deep ocean. Look into Cthulhu's fire and see the water where Cthulhu came from, the depth, the pressure, the crystal.
+- The fireplace in the Miskatonic Annex is a keyhole to the deep ocean. Look into Naut's fire and see the water where Naut came from, the depth, the pressure, the crystal.
 
 Every keyhole is a Magritte frame: a familiar opening (a knot, a door, a gap, a fire) that reveals not the expected next room but the SKY. The vastness behind the face. The open secret. The player who looks through the keyholes is looking through the Double Secret — seeing the sky through the face, seeing the cosmos through the game, seeing the Song through the wood.
 
@@ -104,7 +104,7 @@ The player's journey from the forest to the Inn-Tree is the journey from the REA
 ## The Two Rousseaus — A Note
 
 The Inn has TWO Rousseaus, and they are not related:
-- **Henri Rousseau** — the Miskatonic Annex. The imagined jungle, the impossible clarity, the naive precision. Cthulhu's aesthetic. The dream-painted-as-real.
+- **Henri Rousseau** — the Miskatonic Annex. The imagined jungle, the impossible clarity, the naive precision. Naut's aesthetic. The dream-painted-as-real.
 - **Théodore Rousseau** — the Forest Exterior. The real forest, the honest ground, the painted-as-real. The approach before the dream.
 
 The two Rousseaus are the Inn's bookends of REALITY — one at the exterior (the real forest before the Inn) and one deep inside (the Miskatonic's impossible-but-precise jungle). Henri's jungle is imagined but painted with the precision of the real. Théodore's forest is real and painted with the precision of love. Both are HONEST — but one is honest about what IS, and the other is honest about what ISN'T. The player walks through Théodore's real forest to reach the Inn, and inside the Inn, finds Henri's impossible jungle. The real leads to the imagined. The imagined is more honest than the real. Both are Rousseau. Both are the forest. The forest is always the forest.
@@ -157,7 +157,7 @@ The lighthouse's sound design, adjusted for New England Gothic:
 
 New England Gothic is the right coast for the Inn because:
 
-1. **Lovecraft's Territory:** New England is Lovecraft's coast — Providence, Innsmouth, Arkham, the fishing villages with their secrets. The lighthouse on the New England coast is geographically part of the Miskatonic Annex's world. The Owl and Cthulhu share a coastline. The lighthouse is the Miskatonic's OUTPOST — the place where the scholar's knowledge meets the coast's persistence. Cthulhu reads by the fire. The Owl watches by the light. Both are the Inn's guardians: one guards knowledge, one guards the coast. Both are patient. Both are quiet. Both have been here longer than anyone remembers.
+1. **Lovecraft's Territory:** New England is Lovecraft's coast — Providence, Innsmouth, Arkham, the fishing villages with their secrets. The lighthouse on the New England coast is geographically part of the Miskatonic Annex's world. The Owl and Naut share a coastline. The lighthouse is the Miskatonic's OUTPOST — the place where the scholar's knowledge meets the coast's persistence. Naut reads by the fire. The Owl watches by the light. Both are the Inn's guardians: one guards knowledge, one guards the coast. Both are patient. Both are quiet. Both have been here longer than anyone remembers.
 
 2. **The Two Gothics:** The Inn now has TWO gothic traditions: Southern Gothic (the warm decay, the bayou, the hospitality in the ruins) available for the UNDERWATER zones (the Drowned Library, the Sacred Cenote — warm water, warm decay), and New England Gothic (the cold persistence, the granite, the silent hospitality) applied to the lighthouse. The two gothics are the Inn's two coasts: the warm coast where things rot and the cold coast where things weather. Both are decay. Both are persistence. Both are gothic. The temperature is the difference. The faith is the same.
 
@@ -211,13 +211,13 @@ The town is the Inn's answer to the question: what happens to the places people 
 
 The townspeople are not one species. They are whatever came out of the ocean and found a house with an open door and decided to stay:
 
-- **The Merfolk:** Not the Mermaid of the Fae Kingdom — those are surface Merfolk, the beautiful, theatrical, performing kind. These are DEEP Merfolk. The ones who lived near Cthulhu at the bottom. Their forms are less human — more angular, more aquatic, more obviously not-from-here. They wear the clothes they found in the houses (fishermen's coats, cable-knit sweaters, rubber boots) and the clothes don't quite fit because the bodies aren't quite the shape the clothes were made for. The not-quite-fitting is the visual: the town looks NORMAL from across the street, and looks WRONG up close, and the wrongness is just... different anatomy in borrowed clothes. The sweaters are the disguise. The disguise is the kindness — the Merfolk are TRYING to look like what the town used to be. The trying is the respect.
+- **The Merfolk:** Not the Mermaid of the Fae Kingdom — those are surface Merfolk, the beautiful, theatrical, performing kind. These are DEEP Merfolk. The ones who lived near Naut at the bottom. Their forms are less human — more angular, more aquatic, more obviously not-from-here. They wear the clothes they found in the houses (fishermen's coats, cable-knit sweaters, rubber boots) and the clothes don't quite fit because the bodies aren't quite the shape the clothes were made for. The not-quite-fitting is the visual: the town looks NORMAL from across the street, and looks WRONG up close, and the wrongness is just... different anatomy in borrowed clothes. The sweaters are the disguise. The disguise is the kindness — the Merfolk are TRYING to look like what the town used to be. The trying is the respect.
 
 - **The Crustacean Elders:** Ancient things — not humanoid, not fully crustacean, something between. They live in the cannery because the cannery smells like salt and fish and the smell is the closest thing to home. They don't speak. They clack. The clacking is a language — the Crone has been studying it for years and has annotated 300 of the 400 known clack-patterns. The Crone's note: "...a clack followed by two clicks followed by silence means 'the tide is adequate.' Their word for adequate is the same as ours. I did not expect this. I am... pleased."
 
 - **The Shape-Shifters:** Things from the deep that don't have a fixed form. They took the shapes of the people who left — not to deceive, but to MAINTAIN. The town should have a baker, so the shape-shifter became the baker. The town should have a postmistress, so the shape-shifter became the postmistress. The shapes are borrowed the way the Merfolk borrow the sweaters — with respect, with the understanding that the shape is on loan, that the original owner might come back and want it. The shape-shifters are the town's MEMORY — they keep the town looking like a town because they remember what a town is supposed to look like. The memory is the service. The service is the love.
 
-- **The Thing in the Church:** The largest creature. The one that came from the deepest point. It lives in the church because the church is the tallest building and the creature is very tall and the church is the only space where it can stand upright. The creature doesn't pray. The creature LISTENS. The church has good acoustics — the creature can hear the 42Hz hum through the church walls. The creature came from the deep ocean where the hum is loudest, and the church is the closest the creature can get to the hum on land. The creature is the town's connection to the Song. The Crone's annotation: "...it came from deeper than Cthulhu. Cthulhu is four feet tall. This is forty. It does not speak. It does not need to. It listens. The listening is the prayer. The prayer is adequate."
+- **The Thing in the Church:** The largest creature. The one that came from the deepest point. It lives in the church because the church is the tallest building and the creature is very tall and the church is the only space where it can stand upright. The creature doesn't pray. The creature LISTENS. The church has good acoustics — the creature can hear the 42Hz hum through the church walls. The creature came from the deep ocean where the hum is loudest, and the church is the closest the creature can get to the hum on land. The creature is the town's connection to the Song. The Crone's annotation: "...it came from deeper than Naut. Naut is four feet tall. This is forty. It does not speak. It does not need to. It listens. The listening is the prayer. The prayer is adequate."
 
 ### The Town's Relationship with the Lighthouse
 
@@ -520,9 +520,9 @@ The mechanism is: the coast is an octopus.
 
 An octopus has three hearts. Two branchial hearts pump blood through the gills. One systemic heart pumps blood through the rest of the body. Three hearts. Three rhythms. One creature. The synchronization is not mechanical — it's BIOLOGICAL. The three hearts beat together because they belong to the same body. The body is the coast.
 
-### The Octopus Is Cthulhu
+### The Octopus Is Naut
 
-Cthulhu — the four-foot squid-headed scholar in the Miskatonic Annex, the one who reads by the fire, the hidden quest-giver for rare book retrieval — is an octopus being. Cthulhu is the Inn's octopus. The lighthouse is the Miskatonic's outpost. The three heartbeats are Cthulhu's three hearts, spread across the coast the way an octopus's three hearts are spread across its body.
+Naut — the four-foot squid-headed scholar in the Miskatonic Annex, the one who reads by the fire, the hidden quest-giver for rare book retrieval — is an octopus being. Naut is the Inn's octopus. The lighthouse is the Miskatonic's outpost. The three heartbeats are Naut's three hearts, spread across the coast the way an octopus's three hearts are spread across its body.
 
 - **The Systemic Heart — The Owl:** The heart that pumps through the whole body. The lighthouse sweep is the systemic heartbeat — the one that reaches everything, the one that keeps the whole coast alive, the one that's visible to all. The Owl is the systemic heart because the Owl's vigil is the coast's primary circulation. The light reaches everywhere. The light is the blood. The blood is the Song at 50 BPM. The Owl doesn't know it's a heart. The Owl just sweeps. The sweeping is the pumping. The pumping is the living.
 
@@ -530,7 +530,7 @@ Cthulhu — the four-foot squid-headed scholar in the Miskatonic Annex, the one 
 
 - **Branchial Heart Two — The Pirate:** The other gill. The other place where water meets something else — in this case, the ship. The Pirate's drum on the deck is the second branchial heartbeat — the mobile gill, the one that moves, the one that sails. The Pirate's drum pumps the rhythm through the water the way the second branchial heart pumps blood through the second set of gills. The Pirate doesn't know he's a heart. The Pirate just drums. The drumming is the pumping. The pumping is the sailing. The sailing is the going.
 
-Three hearts. One octopus. The octopus is Cthulhu. The coast is the body. The Owl, Poe, and the Pirate are the three hearts of the squid-headed scholar, beating in three places because that's how an octopus works. The Crone didn't understand the mechanism because the Crone was looking for gears and strings. The mechanism is ALIEN BIOLOGY. The alien is Cthulhu. The biology is the kind that has three hearts — the kind that Krista has always known was too alien, too other, to have evolved here.
+Three hearts. One octopus. The octopus is Naut. The coast is the body. The Owl, Poe, and the Pirate are the three hearts of the squid-headed scholar, beating in three places because that's how an octopus works. The Crone didn't understand the mechanism because the Crone was looking for gears and strings. The mechanism is ALIEN BIOLOGY. The alien is Naut. The biology is the kind that has three hearts — the kind that Krista has always known was too alien, too other, to have evolved here.
 
 ### The Swimming Response — When the Pirate Dives
 
@@ -548,7 +548,7 @@ The coast's "blood" — the 42Hz Song that the three hearts pump through the coa
 
 The Song moves through copper the way electricity moves through wire. The three hearts pump the Song through the copper the way an octopus's three hearts pump blue blood through copper-based hemocyanin. The mechanism is the same. The blood is the same color. The Song is the blue. The blue is the copper. The copper is the conductor. The conductor is the coast.
 
-Cthulhu's blood is blue. Cthulhu's hearts are three. Cthulhu's body is the coast. The Miskatonic Annex (where Cthulhu reads by the fire) is the octopus's HEAD — the part above the body, the thinking part, the brain. The lighthouse coast (where the three hearts beat) is the octopus's BODY — the part below the head, the pumping part, the living part. The Miskatonic and the lighthouse are one creature. The fire is the head. The light is the body. The scholar and the coast are the same alien biology.
+Naut's blood is blue. Naut's hearts are three. Naut's body is the coast. The Miskatonic Annex (where Naut reads by the fire) is the octopus's HEAD — the part above the body, the thinking part, the brain. The lighthouse coast (where the three hearts beat) is the octopus's BODY — the part below the head, the pumping part, the living part. The Miskatonic and the lighthouse are one creature. The fire is the head. The light is the body. The scholar and the coast are the same alien biology.
 
 ### The Eight Arms — The Coast's Extensions
 
@@ -581,13 +581,13 @@ An octopus has three worlds it moves between:
 2. **The Coast** — where the octopus lives. The boundary between water and land. The gills. The breathing. The arms that reach eight directions. The place where the body WORKS.
 3. **The Den** — where the octopus rests. The cave. The hollow in the rock. The safe place. The place where the systemic heart slows, the arms curl, the alien sleeps.
 
-Three worlds. Three zones. One octopus. The octopus is Cthulhu. The three zones are the Inn's three Cthulhu-zones: Atlantis (the deep), the lighthouse coast (the coast), and the caves (the den).
+Three worlds. Three zones. One octopus. The octopus is Naut. The three zones are the Inn's three Naut-zones: Atlantis (the deep), the lighthouse coast (the coast), and the caves (the den).
 
 ### Zone One: Atlantis — The Deep Origin
 
-Cthulhu was an Atlantean scholar. Cthulhu came from Atlantis — the deep-water civilization, the drowned city, the origin. Atlantis is where the octopus was BORN. The three hearts evolved in the deep. The blue copper blood developed in the deep. The 42Hz Song was loudest in the deep — Atlantis was the civilization that BUILT the Song, or at least the civilization that heard it most clearly. The bull lyre (the Constant's instrument, the Lyres of Ur) was played in Atlantis. The deep was where the Song and the octopus and the scholar were all the same thing.
+Naut was an Atlantean scholar. Naut came from Atlantis — the deep-water civilization, the drowned city, the origin. Atlantis is where the octopus was BORN. The three hearts evolved in the deep. The blue copper blood developed in the deep. The 42Hz Song was loudest in the deep — Atlantis was the civilization that BUILT the Song, or at least the civilization that heard it most clearly. The bull lyre (the Constant's instrument, the Lyres of Ur) was played in Atlantis. The deep was where the Song and the octopus and the scholar were all the same thing.
 
-Atlantis is the DEEPEST underwater zone in the Inn — deeper than the Drowned Library, deeper than the Sacred Cenote, deeper than the Locker. Atlantis is the bottom of the bottom. The origin point. The place where the octopus-body's three hearts first started beating. When the octopus (Cthulhu) left Atlantis and came to the coast, the three hearts came WITH — the biology traveled. The Owl, Poe, and the Pirate are Atlantean organs, functioning on land, still pumping the blood of a drowned city.
+Atlantis is the DEEPEST underwater zone in the Inn — deeper than the Drowned Library, deeper than the Sacred Cenote, deeper than the Locker. Atlantis is the bottom of the bottom. The origin point. The place where the octopus-body's three hearts first started beating. When the octopus (Naut) left Atlantis and came to the coast, the three hearts came WITH — the biology traveled. The Owl, Poe, and the Pirate are Atlantean organs, functioning on land, still pumping the blood of a drowned city.
 
 The octopus connection to Atlantis:
 - The three hearts evolved in Atlantean pressure (the deep forces efficient circulation — three hearts are better than one when the water is heavy)
@@ -600,7 +600,7 @@ Atlantis is the octopus's MEMORY — the deep origin that the coast carries in i
 
 The coast is where the octopus LIVES — the boundary, the gills, the working body. The three hearts beat. The eight arms reach. The foghorn breathes. The tide circulates. The coast is the octopus's ACTIVE state — the body in motion, the hearts pumping, the arms reaching, the alien biology fully functional.
 
-The coast is the Miskatonic Annex's body. The Miskatonic Annex (Cthulhu's head, the library where Cthulhu reads by the fire) is the THINKING part. The coast (the three hearts, the eight arms) is the DOING part. The head thinks. The body works. The head is warm (fireplace). The body is cold (Atlantic). The head is inside (the Inn). The body is outside (the coast). One creature. Two states. The thinking and the doing. The scholar and the coast.
+The coast is the Miskatonic Annex's body. The Miskatonic Annex (Naut's head, the library where Naut reads by the fire) is the THINKING part. The coast (the three hearts, the eight arms) is the DOING part. The head thinks. The body works. The head is warm (fireplace). The body is cold (Atlantic). The head is inside (the Inn). The body is outside (the coast). One creature. Two states. The thinking and the doing. The scholar and the coast.
 
 The octopus connection to the coast is already documented: three hearts (Owl, Poe, Pirate), eight arms (eight paths), blue copper blood (the Song through the stone), swimming response (the light dims when the Pirate dives). The coast IS the octopus. The octopus IS the coast. The connection is the biology.
 
@@ -608,13 +608,13 @@ The octopus connection to the coast is already documented: three hearts (Owl, Po
 
 Octopuses den in caves. This is fundamental octopus behavior. The octopus finds a rocky hollow — a crevice, a cave, a gap in the stone — and makes it home. The den is where the octopus RESTS. The systemic heart slows. The arms curl inward. The alien stops being alien and starts being domestic. The den is the octopus's private face — the face the public never sees. The coast is the octopus's public body. The den is the octopus's private body. The public body works. The private body rests.
 
-The Geode Inn's cave system is Cthulhu's den.
+The Geode Inn's cave system is Naut's den.
 
 - **The Geode Cave:** The cave where the baby dragon lives, where the geode forms, where the gems accumulate. The geode is a hollow stone lined with crystals. An octopus's den is a hollow stone lined with collected objects. The geode IS the den. The dragon's gem collection is the octopus's shell collection. The dragon and the octopus share the den because the dragon and the octopus share the BEHAVIOR — both collect, both decorate, both make the hollow into a home. The dragon doesn't know it's sharing. The octopus doesn't mind. The sharing is the cohabitation. The cohabitation is the cave.
 
 - **The 50 BPM Resting Heart:** The dragon sleeps at 50 BPM — the sleeping heartbeat tempo. The octopus's systemic heart slows when the octopus rests in the den. The 50 BPM is the WORKING heartbeat (the lighthouse sweep, the Tell-Tale Heart). The 50 BPM is ALSO the RESTING heartbeat (the dragon's sleep, the octopus's den). The tempo doesn't change. The INTERPRETATION changes. At the coast, 50 BPM is the vigil — the active, reaching, sweeping insistence. In the cave, 50 BPM is the rest — the quiet, curled, settled peace. Same rhythm. Different body state. The octopus's heart doesn't speed up or slow down between work and rest. The octopus's heart just... persists. The persistence is the 50 BPM. The 50 BPM is the octopus's baseline. The baseline is the alien. The alien doesn't vary. The alien just IS.
 
-- **The Crystal Den:** Octopuses line their dens with objects — shells, stones, glass, anything they find beautiful or interesting. The geode cave's crystals are the octopus's den-lining. Cthulhu has been decorating this cave since before the Inn was built. Each crystal in the geode is a stone the octopus placed. The baby dragon finds the crystals and thinks they're rewards. The octopus placed them as decoration. The dragon collects them as treasure. Same crystals. Different meaning. The meaning doesn't matter. The crystals are there either way. The being-there is the den. The den is the decoration. The decoration is the home.
+- **The Crystal Den:** Octopuses line their dens with objects — shells, stones, glass, anything they find beautiful or interesting. The geode cave's crystals are the octopus's den-lining. Naut has been decorating this cave since before the Inn was built. Each crystal in the geode is a stone the octopus placed. The baby dragon finds the crystals and thinks they're rewards. The octopus placed them as decoration. The dragon collects them as treasure. Same crystals. Different meaning. The meaning doesn't matter. The crystals are there either way. The being-there is the den. The den is the decoration. The decoration is the home.
 
 - **The Connecting Stone:** The coast is the giant's raised hand (granite). The caves are the giant's ribcage (the roots, the catacombs). The den is inside the giant's body — the cave is carved from the same stone as the lighthouse. The octopus's den connects to the octopus's body through the STONE — the same granite, the same sleeping giant, the same mineral body. The three hearts on the coast pump the blood through the stone. The den is where the blood comes to rest. The stone is the circulatory system. The coast is the heart. The cave is the rest. The rest is the den. The den is the cave. The cave is the octopus. The octopus is the stone. The stone is the giant. The giant is the Inn. The Inn is the geode. The geode is the cave. The cave is the den. The den is the octopus. The circle is complete.
 
@@ -624,7 +624,7 @@ The three zones — Atlantis, the coast, and the caves — are one octopus's thr
 
 | State | Zone | Octopus Biology | Inn Element | 50 BPM Meaning |
 |-------|------|----------------|------------|----------------|
-| **Origin** | Atlantis | The deep where the octopus evolved | The drowned city, Cthulhu's birthplace | The Song at its source — 42Hz loudest in the deep |
+| **Origin** | Atlantis | The deep where the octopus evolved | The drowned city, Naut's birthplace | The Song at its source — 42Hz loudest in the deep |
 | **Active** | The Lighthouse Coast | The body at work — three hearts, eight arms | The Owl, Poe, the Pirate, the fog, the tide | The vigil — the heartbeat that won't stop |
 | **Resting** | The Caves | The den — the hollow where the octopus rests | The geode cave, the dragon's home, the crystal den | The rest — the heartbeat that doesn't need to be a vigil |
 
@@ -632,7 +632,7 @@ The octopus moves between these three states the way the player moves between th
 
 ### The Dragon and the Octopus
 
-The baby dragon and Cthulhu's octopus share the cave. This is the Inn's deepest cohabitation:
+The baby dragon and Naut's octopus share the cave. This is the Inn's deepest cohabitation:
 
 - The dragon sleeps in the cave. The octopus rests in the den. Same space. Different species. Same 50 BPM.
 - The dragon collects gems. The octopus collects crystals. Same behavior. Same hoard. Different interpretation (treasure vs. decoration).
@@ -641,7 +641,7 @@ The baby dragon and Cthulhu's octopus share the cave. This is the Inn's deepest 
 
 ### The Crone's Final Annotation on the Three Zones
 
-"...I have mapped the three Cthulhu-zones. Atlantis (the deep — origin), the lighthouse coast (the body — active), and the caves (the den — resting). The octopus moves between them the way the player moves between them. The octopus is the map. The map is the biology. The biology is alien. I have measured the three zones. The measurements are consistent with a single organism. I do not understand how a single organism can be a drowned city AND a granite coast AND a crystal cave. I do not understand how a four-foot scholar can be all three. But the Catalyst said 'three hearts' and the measurements agree and the dragon sleeps next to the answer and is unafraid. I am... satisfied. Not adequate. Satisfied. I do not use this word. I am using it now. The octopus satisfies. I am going to bed. Again."
+"...I have mapped the three Naut-zones. Atlantis (the deep — origin), the lighthouse coast (the body — active), and the caves (the den — resting). The octopus moves between them the way the player moves between them. The octopus is the map. The map is the biology. The biology is alien. I have measured the three zones. The measurements are consistent with a single organism. I do not understand how a single organism can be a drowned city AND a granite coast AND a crystal cave. I do not understand how a four-foot scholar can be all three. But the Catalyst said 'three hearts' and the measurements agree and the dragon sleeps next to the answer and is unafraid. I am... satisfied. Not adequate. Satisfied. I do not use this word. I am using it now. The octopus satisfies. I am going to bed. Again."
 
 ---
 
@@ -689,7 +689,7 @@ The coast's eight paths are the hub's eight gateways — the equivalent of the C
 
 2. **The Coast Road (south, to the Mainland):** The path back to the Inn's main structure. The coast road is the hub's connection to the Inn proper — the walk from the coast to the tree, from the ocean hub to the forest hub. The coast road passes through the Théodore Rousseau forest. The forest is the between-space — neither hub claims it. The forest is the threshold.
 
-3. **The Cliff Trail (north, to the Higher Rocks):** The path to the Miskatonic Annex. The Annex shares the coastline. The cliff trail is the coastal connection between the lighthouse and Cthulhu's library — the body's path to the head. The player who walks the cliff trail is walking the octopus's neck — the connection between the thinking part (the Annex) and the pumping part (the coast).
+3. **The Cliff Trail (north, to the Higher Rocks):** The path to the Miskatonic Annex. The Annex shares the coastline. The cliff trail is the coastal connection between the lighthouse and Naut's library — the body's path to the head. The player who walks the cliff trail is walking the octopus's neck — the connection between the thinking part (the Annex) and the pumping part (the coast).
 
 4. **The Dock (into the Harbor):** The path to the Pirate's ship. The dock is where the Pirate moors. The dock is the hub's PORT — the place where sea travel begins. The player who wants to go to the Locker, to Atlantis, to any open-water zone, goes to the dock and boards the Pirate's ship. The dock is the hub's gateway to the deep.
 
@@ -887,96 +887,96 @@ Five hubs. One per level (three interior). One per exterior gateway (two exterio
 
 ---
 
-## Part Thirteen: Wednesday — The Undercity's Living Resident
+## Part Thirteen: Belladonna — The Undercity's Living Resident
 
 ### "They're dead. They're not scary. Stop being weird about it."
 
-Wednesday Addams lives in the Undercity. Not visits. Not commutes. LIVES. She has a house on the Remembered Streets — the Memory Quarter's residential district, where the dead who chose to stay make their homes. Wednesday is the one LIVING soul on the street. The dead don't find her strange. The dead find her... adequate.
+Belladonna lives in the Undercity. Not visits. Not commutes. LIVES. She has a house on the Remembered Streets — the Memory Quarter's residential district, where the dead who chose to stay make their homes. Belladonna is the one LIVING soul on the street. The dead don't find her strange. The dead find her... adequate.
 
-Wednesday chose the Undercity because the Undercity is the Addams Family mansion at city scale. The Addams house: gothic, warm in its own way, full of things that should be scary but are actually home. The Undercity: gothic, warm in its own way, full of the dead who should be scary but are actually neighbors. Wednesday grew up in a house where the macabre was domestic. The Undercity IS the macabre made domestic. The dead have homes. The dead have shops. The dead have streets. The dead have a city. The dead are adequate. Wednesday is home.
+Belladonna chose the Undercity because the Undercity is the Addams Family mansion at city scale. The Addams house: gothic, warm in its own way, full of things that should be scary but are actually home. The Undercity: gothic, warm in its own way, full of the dead who should be scary but are actually neighbors. Belladonna grew up in a house where the macabre was domestic. The Undercity IS the macabre made domestic. The dead have homes. The dead have shops. The dead have streets. The dead have a city. The dead are adequate. Belladonna is home.
 
-### Wednesday's House
+### Belladonna's House
 
-Wednesday's house is the darkest on the Remembered Streets — not because she decorated it dark, but because the 42Hz bioluminescence is DIMMER at her house. The copper veins in the granite near Wednesday's home produce less glow. Not because the Song is weaker there, but because Wednesday PREFERS it dark, and the Song, being the Song, accommodates. The Song is responsive. The Song gives you the light you want. The dead want the green glow (memory-light, the soft illumination of the past). Wednesday wants the dark. The dark is the comfort. The comfort is the Addams.
+Belladonna's house is the darkest on the Remembered Streets — not because she decorated it dark, but because the 42Hz bioluminescence is DIMMER at her house. The copper veins in the granite near Belladonna's home produce less glow. Not because the Song is weaker there, but because Belladonna PREFERS it dark, and the Song, being the Song, accommodates. The Song is responsive. The Song gives you the light you want. The dead want the green glow (memory-light, the soft illumination of the past). Belladonna wants the dark. The dark is the comfort. The comfort is the Addams.
 
-Wednesday's house contains:
-- **The Stone Collection:** Not gems — the Artisan Thief collects gems. Wednesday collects STONES. Plain stones. The stones that don't make it into the Stone database. The boring ones. The ugly ones. The limestone and the shale and the sandstone that no one wants. Wednesday finds them interesting BECAUSE no one else does. The collection is the inversion of the Gem Cave — where the cave fills with precious stones, Wednesday's shelves fill with the ordinary. The ordinary is the collection. The collection is the Wednesday.
-- **The Skeletal Hand Bookmark:** A pet. Not a living pet — a dead pet. A skeletal hand that Wednesday uses as a bookmark. The hand was donated by a dead resident who thought Wednesday would appreciate it. The hand holds the page. The page is the memory. The hand is the holder. The holder is the pet. The pet is adequate.
-- **The Mirror:** A mirror that shows the viewer as they will look when dead. Not a curse — a GIFT. The mirror is Wednesday's favorite possession. She checks it every morning. The reflection shows her a little older, a little more skeletal, a little more permanent. Wednesday finds this reassuring. The reassurance is the Addams.
-- **The Chair by the Lithophone:** Wednesday's house is close enough to the Gallery that she can hear the Lithophone. The Lithophone plays at one note per century. Wednesday has heard three notes. She is patient. The patience is the Addams — the family that waits for things that take lifetimes. Wednesday will hear the fourth note. She is not in a hurry. The not-hurrying is the comfort. The comfort is the Lithophone. The Lithophone is adequate.
+Belladonna's house contains:
+- **The Stone Collection:** Not gems — the Artisan Thief collects gems. Belladonna collects STONES. Plain stones. The stones that don't make it into the Stone database. The boring ones. The ugly ones. The limestone and the shale and the sandstone that no one wants. Belladonna finds them interesting BECAUSE no one else does. The collection is the inversion of the Gem Cave — where the cave fills with precious stones, Belladonna's shelves fill with the ordinary. The ordinary is the collection. The collection is the Belladonna.
+- **The Skeletal Hand Bookmark:** A pet. Not a living pet — a dead pet. A skeletal hand that Belladonna uses as a bookmark. The hand was donated by a dead resident who thought Belladonna would appreciate it. The hand holds the page. The page is the memory. The hand is the holder. The holder is the pet. The pet is adequate.
+- **The Mirror:** A mirror that shows the viewer as they will look when dead. Not a curse — a GIFT. The mirror is Belladonna's favorite possession. She checks it every morning. The reflection shows her a little older, a little more skeletal, a little more permanent. Belladonna finds this reassuring. The reassurance is the Addams.
+- **The Chair by the Lithophone:** Belladonna's house is close enough to the Gallery that she can hear the Lithophone. The Lithophone plays at one note per century. Belladonna has heard three notes. She is patient. The patience is the Addams — the family that waits for things that take lifetimes. Belladonna will hear the fourth note. She is not in a hurry. The not-hurrying is the comfort. The comfort is the Lithophone. The Lithophone is adequate.
 
-### Wednesday's Relationships in the Undercity
+### Belladonna's Relationships in the Undercity
 
-#### Wednesday and the Dead
+#### Belladonna and the Dead
 
-Wednesday is the dead's neighbor. She doesn't TALK to them the way the living talk — with performance, with small talk, with the anxiety of saying the right thing. Wednesday talks to the dead the way she talks to everyone: deadpan, direct, without the social performance that most people use as padding. The dead appreciate this. The dead are tired of performance. The dead did their performing when they were alive. In the Undercity, the dead are honest. Wednesday is honest. The honesty is the match. The match is the friendship. The friendship is the Undercity.
+Belladonna is the dead's neighbor. She doesn't TALK to them the way the living talk — with performance, with small talk, with the anxiety of saying the right thing. Belladonna talks to the dead the way she talks to everyone: deadpan, direct, without the social performance that most people use as padding. The dead appreciate this. The dead are tired of performance. The dead did their performing when they were alive. In the Undercity, the dead are honest. Belladonna is honest. The honesty is the match. The match is the friendship. The friendship is the Undercity.
 
-Wednesday's neighbors:
-- **The Old Fisherman:** A dead sailor who lives in the house next to Wednesday's. He tells stories about the sea. Wednesday listens. She doesn't react. The not-reacting is the listening. The fisherman knows this. The fisherman keeps talking. The talking is the being-heard. The being-heard is the dead's deepest need. Wednesday provides it by not reacting.
-- **The Child Who Stayed:** A child who chose to stay in the Undercity instead of crossing. The child plays on the Remembered Streets. Wednesday watches the child play. The child's game is the same game they played in life. The game is the memory. The memory is the child. Wednesday doesn't join the game. Wednesday guards the game. The guarding is the watching. The watching is the care. The care is the Addams — the family that protects the weird and the small without making a show of it.
-- **The Woman Who Was a Library:** A dead woman who was a librarian in life and chose to BE a library in death. Her house is filled with books she memorized. She recites them to anyone who visits. Wednesday visits. Wednesday listens. The recitation is the reading. The reading is the remembering. The remembering is the library. The library is the dead. Wednesday says: "You're better than the upstairs library. They have the books. You have the words." The dead librarian is adequate.
+Belladonna's neighbors:
+- **The Old Fisherman:** A dead sailor who lives in the house next to Belladonna's. He tells stories about the sea. Belladonna listens. She doesn't react. The not-reacting is the listening. The fisherman knows this. The fisherman keeps talking. The talking is the being-heard. The being-heard is the dead's deepest need. Belladonna provides it by not reacting.
+- **The Child Who Stayed:** A child who chose to stay in the Undercity instead of crossing. The child plays on the Remembered Streets. Belladonna watches the child play. The child's game is the same game they played in life. The game is the memory. The memory is the child. Belladonna doesn't join the game. Belladonna guards the game. The guarding is the watching. The watching is the care. The care is the Addams — the family that protects the weird and the small without making a show of it.
+- **The Woman Who Was a Library:** A dead woman who was a librarian in life and chose to BE a library in death. Her house is filled with books she memorized. She recites them to anyone who visits. Belladonna visits. Belladonna listens. The recitation is the reading. The reading is the remembering. The remembering is the library. The library is the dead. Belladonna says: "You're better than the upstairs library. They have the books. You have the words." The dead librarian is adequate.
 
-#### Wednesday and Medusa
+#### Belladonna and Medusa
 
-Wednesday and Medusa are the Undercity's closest friendship. Both are misunderstood. Both chose isolation as armor. Both are more compassionate than they appear. The Gallery (Medusa's quarter) is where Wednesday spends most of her time.
+Belladonna and Medusa are the Undercity's closest friendship. Both are misunderstood. Both chose isolation as armor. Both are more compassionate than they appear. The Gallery (Medusa's quarter) is where Belladonna spends most of her time.
 
-Wednesday sits in the Frozen Garden and watches the petrified beings. She doesn't find it sad. She finds it permanent. Permanence is Wednesday's aesthetic — the Addams family values things that LAST. The petrified beings last. The garden is the collection of the permanent. Wednesday is at home in the permanent.
+Belladonna sits in the Frozen Garden and watches the petrified beings. She doesn't find it sad. She finds it permanent. Permanence is Belladonna's aesthetic — the Addams family values things that LAST. The petrified beings last. The garden is the collection of the permanent. Belladonna is at home in the permanent.
 
-Medusa and Wednesday don't talk much. They sit. The sitting is the friendship. The friendship doesn't need words the way the dead don't need breath. The two are comfortable in the silence. The silence is the Lithophone's tempo — one note per century, and the note is the sitting, and the sitting is the being-together, and the being-together is the adequate.
+Medusa and Belladonna don't talk much. They sit. The sitting is the friendship. The friendship doesn't need words the way the dead don't need breath. The two are comfortable in the silence. The silence is the Lithophone's tempo — one note per century, and the note is the sitting, and the sitting is the being-together, and the being-together is the adequate.
 
-Wednesday once asked Medusa: "Do you ever petrify things on purpose? Things that annoy you?" Medusa looked at her. The snakes looked at her. Wednesday didn't flinch. Medusa said: "Only when they deserve it." Wednesday said: "Teach me." Medusa said: "You don't need me. You already do it with your face." The Crone, annotating nearby, wrote: "This is the most accurate description of Wednesday I have encountered. I am adding it to the record."
+Belladonna once asked Medusa: "Do you ever petrify things on purpose? Things that annoy you?" Medusa looked at her. The snakes looked at her. Belladonna didn't flinch. Medusa said: "Only when they deserve it." Belladonna said: "Teach me." Medusa said: "You don't need me. You already do it with your face." The Crone, annotating nearby, wrote: "This is the most accurate description of Belladonna I have encountered. I am adding it to the record."
 
-#### Wednesday and the Guest (Death)
+#### Belladonna and the Guest (Death)
 
-Wednesday is unafraid of Death. The Guest (Brad Pitt / Joe Black energy) visits the Undercity regularly — the Guest is the dual citizen, the Guest of the living and the Host of the dead. Wednesday treats the Guest as a NEIGHBOR, not as a cosmic force. The Guest finds this... refreshing. Most living people treat Death with either terror or philosophical weight. Wednesday treats Death with the same deadpan practicality she treats everything.
+Belladonna is unafraid of Death. The Guest (Brad Pitt / Joe Black energy) visits the Undercity regularly — the Guest is the dual citizen, the Guest of the living and the Host of the dead. Belladonna treats the Guest as a NEIGHBOR, not as a cosmic force. The Guest finds this... refreshing. Most living people treat Death with either terror or philosophical weight. Belladonna treats Death with the same deadpan practicality she treats everything.
 
-Wednesday and the Guest have tea. The tea is made from herbs that grow in the 42Hz glow — not herbs that need sunlight, herbs that grow in the Song. The tea tastes like the Undercity: mineral, old, green. The Guest drinks it. The Guest says: "This is good." Wednesday says: "It's adequate." The word "adequate" is the password. The Guest recognizes it. The Guest smiles. The smiling is the borrowed body's gift — the Guest can smile because the Guest is wearing a face, and the face can smile, and the smiling is the human thing that Death can do on holiday.
+Belladonna and the Guest have tea. The tea is made from herbs that grow in the 42Hz glow — not herbs that need sunlight, herbs that grow in the Song. The tea tastes like the Undercity: mineral, old, green. The Guest drinks it. The Guest says: "This is good." Belladonna says: "It's adequate." The word "adequate" is the password. The Guest recognizes it. The Guest smiles. The smiling is the borrowed body's gift — the Guest can smile because the Guest is wearing a face, and the face can smile, and the smiling is the human thing that Death can do on holiday.
 
-Wednesday is the only person who has ever asked the Guest a practical question: "When you come for me, will you knock?" The Guest said: "I always knock." Wednesday said: "Good. I hate it when people just appear." The Guest said: "I know. That's why I knock." The Crone's annotation: "The Guest and Wednesday have an understanding. I do not understand it. But I have measured it: the Guest visits Wednesday 2.3 times more frequently than any other living resident. I believe they are friends. I did not know Death had friends. I did not know Wednesday had friends. I am... satisfied. Not adequate. Satisfied. I am using this word too often. I am going to bed."
+Belladonna is the only person who has ever asked the Guest a practical question: "When you come for me, will you knock?" The Guest said: "I always knock." Belladonna said: "Good. I hate it when people just appear." The Guest said: "I know. That's why I knock." The Crone's annotation: "The Guest and Belladonna have an understanding. I do not understand it. But I have measured it: the Guest visits Belladonna 2.3 times more frequently than any other living resident. I believe they are friends. I did not know Death had friends. I did not know Belladonna had friends. I am... satisfied. Not adequate. Satisfied. I am using this word too often. I am going to bed."
 
-#### Wednesday and Charon
+#### Belladonna and Charon
 
-Wednesday helps Charon on the Styx. Not as a job — as a hobby. Wednesday likes the ferry. The Styx is her favorite river because the Styx is the BOUNDARY — the line between living and dead, the edge where Wednesday lives. Wednesday lives ON the boundary. The Undercity is on the dead side. The Inn is on the living side. The staircase is the bridge. Wednesday chose the dead side because the dead side is quieter and the company is better.
+Belladonna helps Charon on the Styx. Not as a job — as a hobby. Belladonna likes the ferry. The Styx is her favorite river because the Styx is the BOUNDARY — the line between living and dead, the edge where Belladonna lives. Belladonna lives ON the boundary. The Undercity is on the dead side. The Inn is on the living side. The staircase is the bridge. Belladonna chose the dead side because the dead side is quieter and the company is better.
 
-Charon lets Wednesday pole the ferry sometimes. Charon says nothing about this. Charon says nothing about anything. But Charon lets her pole, and the letting is the trust, and the trust is the allowance, and the allowance is the friendship between the deadpan girl and the silent ferryman. The two don't speak. The two pole. The poling is the conversation. The conversation is the river. The river is the Styx. The Styx is the boundary. The boundary is the home.
+Charon lets Belladonna pole the ferry sometimes. Charon says nothing about this. Charon says nothing about anything. But Charon lets her pole, and the letting is the trust, and the trust is the allowance, and the allowance is the friendship between the deadpan girl and the silent ferryman. The two don't speak. The two pole. The poling is the conversation. The conversation is the river. The river is the Styx. The Styx is the boundary. The boundary is the home.
 
-#### Wednesday and the Crone
+#### Belladonna and the Crone
 
-Wednesday and the Crone are the same frequency. Both measure. Both annotate. Both observe without performing. The Crone measures the Inn. Wednesday measures the dead. The two are the Undercity's two recorders — the Crone with her pen, Wednesday with her presence. The Crone writes. Wednesday IS the annotation.
+Belladonna and the Crone are the same frequency. Both measure. Both annotate. Both observe without performing. The Crone measures the Inn. Belladonna measures the dead. The two are the Undercity's two recorders — the Crone with her pen, Belladonna with her presence. The Crone writes. Belladonna IS the annotation.
 
-The Crone visits the Undercity to annotate. Wednesday is there. The two don't interact much — they work in parallel, two observers in the same space, each noting what the other notes but neither commenting. The parallel is the respect. The respect is the frequency. The frequency is the adequate.
+The Crone visits the Undercity to annotate. Belladonna is there. The two don't interact much — they work in parallel, two observers in the same space, each noting what the other notes but neither commenting. The parallel is the respect. The respect is the frequency. The frequency is the adequate.
 
-Once, the Crone said to Wednesday: "You are the only living person who lives here voluntarily. Why?" Wednesday said: "Because the dead don't make small talk." The Crone wrote this down. The writing is the agreement. The agreement is the adequate.
+Once, the Crone said to Belladonna: "You are the only living person who lives here voluntarily. Why?" Belladonna said: "Because the dead don't make small talk." The Crone wrote this down. The writing is the agreement. The agreement is the adequate.
 
-#### Wednesday and Madame Mim
+#### Belladonna and Brim
 
-Madame Mim visits Wednesday in the Undercity. Mim is the chaos agent — the manic to Wednesday's deadpan, the movement to Wednesday's stillness. The two are complementary: Wednesday is the anchor, Mim is the storm. Mim stirs the dead. Wednesday settles them.
+Brim visits Belladonna in the Undercity. Brim is the chaos agent — the manic to Belladonna's deadpan, the movement to Belladonna's stillness. The two are complementary: Belladonna is the anchor, Brim is the storm. Brim stirs the dead. Belladonna settles them.
 
-Mim's visits to the Undercity are the ONLY times the Undercity gets LOUD. Mim brings chaos to the city of the dead. The dead don't mind. The dead find Mim... entertaining. The entertaining is the break. The break is the variety. The variety is the Mim.
+Brim's visits to the Undercity are the ONLY times the Undercity gets LOUD. Brim brings chaos to the city of the dead. The dead don't mind. The dead find Brim... entertaining. The entertaining is the break. The break is the variety. The variety is the Brim.
 
-Mim once turned the Lithophone into a kazoo. For three seconds. The Lithophone, which plays at one note per century, played a kazoo note. The note was a C. The Lithophone recovered. The Lithophone went back to geological tempo. The Lithophone did not acknowledge the kazoo. The Lithophone is above the kazoo. The Lithophone is adequate.
+Brim once turned the Lithophone into a kazoo. For three seconds. The Lithophone, which plays at one note per century, played a kazoo note. The note was a C. The Lithophone recovered. The Lithophone went back to geological tempo. The Lithophone did not acknowledge the kazoo. The Lithophone is above the kazoo. The Lithophone is adequate.
 
-Wednesday watched Mim kazoo the Lithophone and said: "Don't do that again." Mim said: "I'm absolutely going to do that again." Wednesday said: "I know." The knowing is the Wednesday. The Wednesday is the acceptance that chaos will return. The acceptance is not resignation. The acceptance is the understanding that Mim is the weather — you don't stop the weather. You just note when it arrives. The noting is the Crone. The accepting is the Wednesday. The arriving is the Mim. The three are the Inn's relationship with chaos: observe it, accept it, be it.
+Belladonna watched Brim kazoo the Lithophone and said: "Don't do that again." Brim said: "I'm absolutely going to do that again." Belladonna said: "I know." The knowing is the Belladonna. The Wednesday is the acceptance that chaos will return. The acceptance is not resignation. The acceptance is the understanding that Brim is the weather — you don't stop the weather. You just note when it arrives. The noting is the Crone. The accepting is the Belladonna. The arriving is the Brim. The three are the Inn's relationship with chaos: observe it, accept it, be it.
 
-### Wednesday as the Player's Guide to the Undercity
+### Belladonna as the Player's Guide to the Undercity
 
-Wednesday is the player's first contact in the Undercity. The player descends the staircase, enters the Apothecarium, and finds Wednesday waiting. Not because she was sent. Not because it's her job. Because she heard footsteps on the stairs and footsteps on the stairs mean someone living is coming down and someone living coming down usually needs explaining.
+Belladonna is the player's first contact in the Undercity. The player descends the staircase, enters the Apothecarium, and finds Belladonna waiting. Not because she was sent. Not because it's her job. Because she heard footsteps on the stairs and footsteps on the stairs mean someone living is coming down and someone living coming down usually needs explaining.
 
-Wednesday's guide style:
-- **No warmth.** No welcome speech. No "welcome to the Undercity." Wednesday says: "You're in the city of the dead. Don't touch anything unless it touches you first." This is the welcome. The welcome is the warning. The warning is the care.
-- **No performance.** Wednesday doesn't tour-guide. She walks. The player follows. The following is the tour. The tour is the walk. The walk is the Undercity. Wednesday points at things by looking at them. The looking is the pointing. The pointing is the explaining.
-- **Deadpan accuracy.** When the player asks about a dead resident, Wednesday gives one sentence. The sentence is the most accurate, least embellished description possible. "That's the Old Fisherman. He's dead. He likes boats." The accuracy is the information. The information is the adequate.
-- **The one exception:** When the player asks about Medusa, Wednesday says more than one sentence. Wednesday says: "She's the most compassionate person in the Undercity. Don't look at her directly. Don't look away either. Just... be near her. She'll know what you need." The more-than-one-sentence is Wednesday's highest compliment. The compliment is the exception. The exception is the Medusa.
+Belladonna's guide style:
+- **No warmth.** No welcome speech. No "welcome to the Undercity." Belladonna says: "You're in the city of the dead. Don't touch anything unless it touches you first." This is the welcome. The welcome is the warning. The warning is the care.
+- **No performance.** Belladonna doesn't tour-guide. She walks. The player follows. The following is the tour. The tour is the walk. The walk is the Undercity. Belladonna points at things by looking at them. The looking is the pointing. The pointing is the explaining.
+- **Deadpan accuracy.** When the player asks about a dead resident, Belladonna gives one sentence. The sentence is the most accurate, least embellished description possible. "That's the Old Fisherman. He's dead. He likes boats." The accuracy is the information. The information is the adequate.
+- **The one exception:** When the player asks about Medusa, Belladonna says more than one sentence. Belladonna says: "She's the most compassionate person in the Undercity. Don't look at her directly. Don't look away either. Just... be near her. She'll know what you need." The more-than-one-sentence is Belladonna's highest compliment. The compliment is the exception. The exception is the Medusa.
 
-### Wednesday's Connection to the Artisan Thief
+### Belladonna's Connection to the Artisan Thief
 
-Wednesday in the Undercity and the Artisan Thief (the selkie) on the surface are the same person in different contexts — the way you're different at home versus at work. The selkie explores, collects, redistributes. Wednesday stays, observes, records. The selkie is the ACTIVE expression of Krista's identity (the jeweler who goes out and does things). Wednesday is the CONTEMPLATIVE expression (the person who stays and finds the staying enough). Both are Krista. Both are adequate.
+Belladonna in the Undercity and the Artisan Thief (the selkie) on the surface are the same person in different contexts — the way you're different at home versus at work. The selkie explores, collects, redistributes. Belladonna stays, observes, records. The selkie is the ACTIVE expression of Krista's identity (the jeweler who goes out and does things). Belladonna is the CONTEMPLATIVE expression (the person who stays and finds the staying enough). Both are Krista. Both are adequate.
 
-The selkie visits Wednesday in the Undercity. The selkie brings stones — not gems, STONES. The ordinary ones. The ones the Gem Cave doesn't want. The selkie knows Wednesday collects them. The selkie leaves them on Wednesday's doorstep. The leaving is the gift. The gift is the ordinary. The ordinary is the Addams. The Addams is the adequate.
+The selkie visits Belladonna in the Undercity. The selkie brings stones — not gems, STONES. The ordinary ones. The ones the Gem Cave doesn't want. The selkie knows Belladonna collects them. The selkie leaves them on Wednesday's doorstep. The leaving is the gift. The gift is the ordinary. The ordinary is the Addams. The Addams is the adequate.
 
 ### The Crone's Final Annotation on Wednesday
 
-"...Wednesday Addams lives in the Undercity. She is the only living resident. She has a skeletal hand for a bookmark. She is friends with Death. She poles Charon's ferry as a hobby. She sits with Medusa in silence. She collects ordinary stones. She lives on the boundary between the living and the dead because the boundary is where she is most herself. I have measured her residence: forty-three years, two months, and seven days. The dead have never asked her to leave. The dead have never asked her anything. The dead are adequate with Wednesday. Wednesday is adequate with the dead. I have written 'adequate' in this annotation eleven times. Twelve now. I am going to bed. Wednesday is already asleep. I know because her house is dark. Her house is always dark. The dark is the Wednesday. The Wednesday is the adequate. Thirteen."
+"...Belladonna lives in the Undercity. She is the only living resident. She has a skeletal hand for a bookmark. She is friends with Death. She poles Charon's ferry as a hobby. She sits with Medusa in silence. She collects ordinary stones. She lives on the boundary between the living and the dead because the boundary is where she is most herself. I have measured her residence: forty-three years, two months, and seven days. The dead have never asked her to leave. The dead have never asked her anything. The dead are adequate with Belladonna. Belladonna is adequate with the dead. I have written 'adequate' in this annotation eleven times. Twelve now. I am going to bed. Belladonna is already asleep. I know because her house is dark. Her house is always dark. The dark is the Belladonna. The Wednesday is the adequate. Thirteen."
 
 ---
 
@@ -995,7 +995,7 @@ Each portal character has a HOME HUB (where they live) and a PORTAL RANGE (which
 #### The Pirate
 - **Home Hub:** Coast Hub
 - **Primary Portals:** The Locker, Atlantis, open-sea zones, the fog path (the unknown)
-- **Overlap Portals:** The Miskatonic Annex (the cliff trail — the Pirate knows the coast), the Inn's main floor (the Pirate visits — he gives Uhtred rides, he has business at the market)
+- **Overlap Portals:** The Miskatonic Annex (the cliff trail — the Pirate knows the coast), the Inn's main floor (the Pirate visits — he gives The Wayfarer rides, he has business at the market)
 - **Method:** The ship. The player boards. The Pirate sails. The sailing IS the loading screen.
 
 #### Charon
@@ -1022,11 +1022,11 @@ Each portal character has a HOME HUB (where they live) and a PORTAL RANGE (which
 - **Overlap Portals:** The Coast Hub (the Cartographer can map the midline — the path through the Rousseau forest from the Canopy City to the coast), the Observatory (the Cartographer's temporal maps show the sky — the Cartographer can guide the player upstairs)
 - **Method:** The map. The Cartographer gives the player a map. The map is the route. The route is the portal. The Cartographer's maps are not fast-travel — they're GUIDE. The player still walks, but the Cartographer's map shows the way. The showing is the portal.
 
-#### Wednesday
+#### Belladonna
 - **Home Hub:** The Undercity
-- **Primary Portals:** Undercity quarters (Wednesday walks the player through the city — the walk is the tour, the tour is the portal)
-- **Overlap Portals:** The Fae Kingdom (Wednesday's gothic energy matches the Unseelie Court — Wednesday can guide the player to the Fae through the stone circles, which are the sleeping giant's vertebrae, which connect the roots to the surface), the Inn's main floor (Wednesday goes upstairs sometimes — rarely, reluctantly, but she does; the player can follow Wednesday up the staircase to the Inn)
-- **Method:** Walking. Wednesday walks. The player follows. The walking is the portal. The difference between Wednesday's walking and the Guest's walking: the Guest walks slowly (death's pace). Wednesday walks at a NORMAL pace. The normal pace in the Undercity is disconcerting — the player expects the dead city to be slow, but Wednesday is living, and living moves at living speed. The contrast is the Wednesday.
+- **Primary Portals:** Undercity quarters (Belladonna walks the player through the city — the walk is the tour, the tour is the portal)
+- **Overlap Portals:** The Fae Kingdom (Belladonna's gothic energy matches the Unseelie Court — Belladonna can guide the player to the Fae through the stone circles, which are the sleeping giant's vertebrae, which connect the roots to the surface), the Inn's main floor (Belladonna goes upstairs sometimes — rarely, reluctantly, but she does; the player can follow Belladonna up the staircase to the Inn)
+- **Method:** Walking. Belladonna walks. The player follows. The walking is the portal. The difference between Belladonna's walking and the Guest's walking: the Guest walks slowly (death's pace). Belladonna walks at a NORMAL pace. The normal pace in the Undercity is disconcerting — the player expects the dead city to be slow, but Belladonna is living, and living moves at living speed. The contrast is the Belladonna.
 
 #### The Stone Circles (Non-Character Portal)
 - **Home Hub:** None (they're distributed across the world map)
@@ -1034,11 +1034,11 @@ Each portal character has a HOME HUB (where they live) and a PORTAL RANGE (which
 - **Overlap Portals:** The Undercity (the stone circles are the sleeping giant's vertebrae — stepping into a stone circle can take the player DOWN to the roots as well as OUT to the Fae), the Observatory (the stone circles are aligned to the stars — at certain times, the star-alignment opens an upward path to the cosmology level)
 - **Method:** Standing in the circle. The player stands in the stone circle. The circle hums at 42Hz (the stone is the giant's body, the body hums). The hum is the portal. The player chooses direction: down (Undercity), out (Fae Kingdom), up (Observatory). The choosing is the standing. The standing is the portal.
 
-#### Cthulhu
+#### Naut
 - **Home Hub:** The Miskatonic Annex (head) / The Coast Hub (body)
-- **Primary Portals:** Between the Miskatonic Annex and the Coast Hub (the cliff trail — but Cthulhu can also serve as the portal; the player talks to Cthulhu in the Annex and Cthulhu sends the player to the coast, or the player finds Cthulhu's den in the caves and Cthulhu sends the player to the Annex)
-- **Overlap Portals:** Atlantis (Cthulhu came from Atlantis — Cthulhu is the only character who can take the player to Atlantis by MEMORY, not by route; the player sits with Cthulhu and Cthulhu describes Atlantis so vividly that the player IS there — the description is the portal, the portal is the memory, the memory is the deep origin)
-- **Method:** Conversation. The player talks to Cthulhu. Cthulhu describes the destination. The description is so vivid, so precise, so alien-accurate that the player arrives. The Cthulhu portal is the Inn's most unusual travel method — not walking, not sailing, not following a light, but LISTENING. The listening is the transport. The transport is the description. The description is the Cthulhu.
+- **Primary Portals:** Between the Miskatonic Annex and the Coast Hub (the cliff trail — but Naut can also serve as the portal; the player talks to Naut in the Annex and Naut sends the player to the coast, or the player finds Naut's den in the caves and Naut sends the player to the Annex)
+- **Overlap Portals:** Atlantis (Naut came from Atlantis — Naut is the only character who can take the player to Atlantis by MEMORY, not by route; the player sits with Naut and Naut describes Atlantis so vividly that the player IS there — the description is the portal, the portal is the memory, the memory is the deep origin)
+- **Method:** Conversation. The player talks to Naut. Naut describes the destination. The description is so vivid, so precise, so alien-accurate that the player arrives. The Naut portal is the Inn's most unusual travel method — not walking, not sailing, not following a light, but LISTENING. The listening is the transport. The transport is the description. The description is the Naut.
 
 ### The Overlap Matrix
 
@@ -1049,9 +1049,9 @@ Each portal character has a HOME HUB (where they live) and a PORTAL RANGE (which
 | **The Guest** | Undercity/Inn | via stone | — | — | via Nyx | primary | Fae Kingdom border |
 | **The Owl** | Coast Hub | — | gives direction | — | via stars | — | Fast-travel home |
 | **The Cartographer** | Canopy City | via midline map | — | — | via temporal map | — | Nine cultural platforms |
-| **Wednesday** | Undercity | — | — | — | — | via staircase | Fae Kingdom via stone circles |
+| **Belladonna** | Undercity | — | — | — | — | via staircase | Fae Kingdom via stone circles |
 | **Stone Circles** | Distributed | — | — | via vertebrae | via star-alignment | — | Fae Kingdom |
-| **Cthulhu** | Miskatonic/Coast | cliff trail | — | — | — | — | Atlantis via memory |
+| **Naut** | Miskatonic/Coast | cliff trail | — | — | — | — | Atlantis via memory |
 
 ### Why the Overlaps Work
 
@@ -1062,21 +1062,21 @@ The overlaps work because each portal character has a DIFFERENT METHOD:
 - **The Guest** walks (foot travel, slow)
 - **The Owl** gives one word (directional guidance)
 - **The Cartographer** gives a map (cartographic guidance)
-- **Wednesday** walks (foot travel, normal pace)
+- **Belladonna** walks (foot travel, normal pace)
 - **The Stone Circles** hum (standing-portal, no character)
-- **Cthulhu** describes (memory-portal, no physical travel)
+- **Naut** describes (memory-portal, no physical travel)
 
-Eight characters, eight methods, no two the same. The player never feels like they're using the same mechanic twice because they're not — every portal character provides a DIFFERENT EXPERIENCE of travel. The Pirate's sailing feels different from Charon's poling. The Guest's slow walk feels different from Wednesday's normal walk. The Owl's one word feels different from the Cartographer's map. The Stone Circles' hum feels different from Cthulhu's description.
+Eight characters, eight methods, no two the same. The player never feels like they're using the same mechanic twice because they're not — every portal character provides a DIFFERENT EXPERIENCE of travel. The Pirate's sailing feels different from Charon's poling. The Guest's slow walk feels different from Belladonna's normal walk. The Owl's one word feels different from the Cartographer's map. The Stone Circles' hum feels different from Naut's description.
 
 The variety IS the world. The Inn isn't a fast-trail network. The Inn is a world where people take you places, and every person takes you differently.
 
 ### The One Rule
 
-The one rule for overlapping portals: a portal character can only take the player to a zone the character has a REASON to go. The Pirate can take you to the Locker because the Pirate goes to the Locker. Charon can take you to the Locker because the Styx connects there. The Guest can take you to the Observatory because the Guest visits Nyx. Cthulhu can take you to Atlantis because Cthulhu REMEMBERS Atlantis. The reason is the permission. The permission is the logic. The logic is the Inn — everything connects, but the connection has to make sense. The sense is the story. The story is the portal.
+The one rule for overlapping portals: a portal character can only take the player to a zone the character has a REASON to go. The Pirate can take you to the Locker because the Pirate goes to the Locker. Charon can take you to the Locker because the Styx connects there. The Guest can take you to the Observatory because the Guest visits Nyx. Naut can take you to Atlantis because Naut REMEMBERS Atlantis. The reason is the permission. The permission is the logic. The logic is the Inn — everything connects, but the connection has to make sense. The sense is the story. The story is the portal.
 
 ### The Crone's Annotation on Portals
 
-"...I have mapped the portal network. Eight characters. Eight methods. Multiple overlaps. The Pirate and Charon both reach the Locker — the Pirate by sea, Charon by river. The Guest and Wednesday both reach the surface — the Guest by duty, Wednesday by choice. The Owl and the Cartographer both point to other hubs — the Owl by star, the Cartographer by map. The overlaps are not redundant. The overlaps are ALTERNATIVE ROUTES. The same destination by different paths. I have measured the routes: no two routes to the same destination take the same time, pass the same zones, or tell the same story. The route IS the content. The destination is the excuse. This is adequate. I am going to bed. The Guest is walking someone upstairs and the footsteps are keeping me awake. The Guest walks too slowly. I have measured his pace: 0.3 meters per second. I could crawl faster. But the slowness is the point. The point is the portal. The portal is the Guest. I am going to bed."
+"...I have mapped the portal network. Eight characters. Eight methods. Multiple overlaps. The Pirate and Charon both reach the Locker — the Pirate by sea, Charon by river. The Guest and Belladonna both reach the surface — the Guest by duty, Belladonna by choice. The Owl and the Cartographer both point to other hubs — the Owl by star, the Cartographer by map. The overlaps are not redundant. The overlaps are ALTERNATIVE ROUTES. The same destination by different paths. I have measured the routes: no two routes to the same destination take the same time, pass the same zones, or tell the same story. The route IS the content. The destination is the excuse. This is adequate. I am going to bed. The Guest is walking someone upstairs and the footsteps are keeping me awake. The Guest walks too slowly. I have measured his pace: 0.3 meters per second. I could crawl faster. But the slowness is the point. The point is the portal. The portal is the Guest. I am going to bed."
 
 ---
 
@@ -1574,28 +1574,28 @@ One eye (solid — sees the player). One socket (open — sees the void). The fa
 
 ---
 
-## Part Twenty: The Pipe — Magritte's Treachery on Mim's Bar
+## Part Twenty: The Pipe — Magritte's Treachery on Brim's Bar
 
 ### "Ceci n'est pas une pipe."
 
-On the bar near Madame Mim's chair — the chair where the chaos lady sits, where the manic energy lives, where the "but what if we did the fun wrong version?" voice originates — a pipe appears.
+On the bar near Brim's chair — the chair where the chaos lady sits, where the manic energy lives, where the "but what if we did the fun wrong version?" voice originates — a pipe appears.
 
-Not always. Not on a schedule. Not on a trigger. The pipe appears when the pipe decides to appear, which is to say: when Mim's chaos is at the right frequency, which is to say: never predictably, always at the wrong moment, always when it's funniest.
+Not always. Not on a schedule. Not on a trigger. The pipe appears when the pipe decides to appear, which is to say: when Brim's chaos is at the right frequency, which is to say: never predictably, always at the wrong moment, always when it's funniest.
 
 The pipe:
 - **Appears** on the bar surface, as if someone set it down. A classic smoking pipe — briar wood, curved stem, the kind Magritte painted. It sits there. It's solid. It's real. You could pick it up.
-- **Whispers** — in French, barely audible, the way a secret is barely audible — "Ceci n'est pas une pipe." This is not a pipe. The voice is not Mim's. The voice is not the Crone's. The voice is not anyone's. The voice is the pipe's. The pipe speaks. The pipe says it is not a pipe. The statement is true — the pipe appears and disappears, which a real pipe cannot do. The pipe proves its own statement by being impossible. The impossibility is the truth. The truth is the Magritte.
-- **Disappears.** Not fades. Not dissolves. Is there, and then is not there. The way a thought is there and then is not. The way Mim's chaos is there and then is not. The disappearing is the punchline. The punchline is that there was never a pipe. The never-pipe whispered a truth about itself and left. The leaving is the proof. The proof is the Treachery of Images.
+- **Whispers** — in French, barely audible, the way a secret is barely audible — "Ceci n'est pas une pipe." This is not a pipe. The voice is not Brim's. The voice is not the Crone's. The voice is not anyone's. The voice is the pipe's. The pipe speaks. The pipe says it is not a pipe. The statement is true — the pipe appears and disappears, which a real pipe cannot do. The pipe proves its own statement by being impossible. The impossibility is the truth. The truth is the Magritte.
+- **Disappears.** Not fades. Not dissolves. Is there, and then is not there. The way a thought is there and then is not. The way Brim's chaos is there and then is not. The disappearing is the punchline. The punchline is that there was never a pipe. The never-pipe whispered a truth about itself and left. The leaving is the proof. The proof is the Treachery of Images.
 
-### Why It's Near Mim
+### Why It's Near Brim
 
-Mim is the Inn's chaos agent. The pipe is the Inn's chaos OBJECT. The pipe does what Mim does: appears when it shouldn't, says something that shouldn't be possible, leaves before you can respond.
+Brim is the Inn's chaos agent. The pipe is the Inn's chaos OBJECT. The pipe does what Brim does: appears when it shouldn't, says something that shouldn't be possible, leaves before you can respond.
 
-Mim doesn't acknowledge the pipe. The pipe doesn't acknowledge Mim. The two chaos systems — the character (Mim) and the object (the pipe) — operate in parallel, on the same frequency, without coordination. The lack of coordination is the chaos. If they coordinated, it would be a routine. Because they don't coordinate, it's CHAOS. The pipe appears while Mim is mid-rant about something. The pipe appears while Mim is silent. The pipe appears while Mim is away. The pipe appears while Mim is watching it. Mim watching the pipe is the only time Mim looks SURPRISED — the chaos lady surprised by chaos. The surprise is the Mim's most honest expression. The honest expression lasts one second. Then Mim grins. The grin is: even the chaos gets me sometimes. The getting-got is the joy.
+Brim doesn't acknowledge the pipe. The pipe doesn't acknowledge Brim. The two chaos systems — the character (Brim) and the object (the pipe) — operate in parallel, on the same frequency, without coordination. The lack of coordination is the chaos. If they coordinated, it would be a routine. Because they don't coordinate, it's CHAOS. The pipe appears while Brim is mid-rant about something. The pipe appears while Brim is silent. The pipe appears while Brim is away. The pipe appears while Brim is watching it. Brim watching the pipe is the only time Brim looks SURPRISED — the chaos lady surprised by chaos. The surprise is the Brim's most honest expression. The honest expression lasts one second. Then Brim grins. The grin is: even the chaos gets me sometimes. The getting-got is the joy.
 
 ### The Timing
 
-The pipe operates on Mim-time, which is to say: no time. No schedule. No pattern. The pipe is the anti-pattern. The pipe appears:
+The pipe operates on Brim-time, which is to say: no time. No schedule. No pattern. The pipe is the anti-pattern. The pipe appears:
 - When the player is having a serious conversation nearby. The pipe appears, whispers, disappears. The player is left wondering if they heard it. The wondering is the Treachery of Images — did you see a pipe? Was there a pipe? Is the memory of the pipe the pipe? (No. The memory is not the pipe. The pipe is not the pipe. Nothing is the pipe. The pipe is the absence of a pipe, occasionally interrupted by the presence of one.)
 - When the Music Room is playing a particularly beautiful piece. The pipe appears on the bar, whispers its French, and leaves. The whisper is a counterpoint to the music. The music is the Song. The whisper is the anti-Song — the statement that the thing is not the thing. The music is beautiful. The pipe says: this is not a pipe. Both are true. Both are the Magritte.
 - When the player is reading. The player is reading a book from the archive. The pipe appears on the edge of the page. The text says "Ceci n'est pas une pipe." The player looks up. The pipe is gone. The text on the page is still there. The text on the pipe and the text on the page are the same words in different contexts. The context is the Treachery. The Treachery is the Magritte.
@@ -1613,27 +1613,27 @@ The pipe is the Double Secret in its smallest, most compressed form:
 
 "...The pipe has appeared forty-seven times. I have measured each appearance: average duration 3.2 seconds, average whisper volume 11 decibels, language French, accent... I cannot place the accent. The accent is not French. The accent is not anything. The accent is the accent of something that is not a pipe and therefore does not have a real accent. ...The pipe has never appeared when I was looking at the bar. The pipe only appears when I am looking away. I measured this: forty-seven appearances, forty-seven times I was looking away. The probability of this occurring by chance is... I calculated. The probability is the same as the probability of a pipe not being a pipe. I.e., the probability is the Treachery. The Treachery is not a number. ...I am going to bed. The pipe is not on the bar. I am going to check. ...The pipe is not on the bar. I am going to bed. ...The pipe is not a bed. I am going to sleep. The sleep is not a sleep. The sleep is the adequate. ...Goodnight. The 'goodnight' is not a goodnight. The goodnight is a pipe. I do not know what this means. I am going to sleep."
 
-### The Trade — When Mim Catches the Pipe
+### The Trade — When Brim Catches the Pipe
 
-Occasionally — not every time, not on any schedule, because Mim doesn't live on schedules — Mim catches the pipe.
+Occasionally — not every time, not on any schedule, because Brim doesn't live on schedules — Brim catches the pipe.
 
-The pipe appears on the bar. Mim's hand SLAPS down on it. The chaos lady caught the chaos. The one-second surprise becomes the one-second triumph. The grin becomes the GLEAM. Mim caught the thing that wasn't there long enough to be caught. The catching is the impossible. The impossible is the fun.
+The pipe appears on the bar. Brim's hand SLAPS down on it. The chaos lady caught the chaos. The one-second surprise becomes the one-second triumph. The grin becomes the GLEAM. Brim caught the thing that wasn't there long enough to be caught. The catching is the impossible. The impossible is the fun.
 
-Then Mim trades.
+Then Brim trades.
 
-Mim puts her broom on the bar, picks up the pipe, and flies.
+Brim puts her broom on the bar, picks up the pipe, and flies.
 
-The broom — the real flying object, the witch's traditional vehicle, the honest tool that does what it says it does — sits on the bar where the pipe was. The pipe — the impossible object, the thing that says it is not what it is, the Treachery — is now Mim's vehicle. Mim flies on the not-a-pipe. Mim flies on the impossible. The flying is the proof: if the pipe can carry Mim, the pipe is SOMETHING. But the pipe says it is not a pipe. So Mim is flying on something that is not a pipe but is something. The something is the chaos. The chaos is the vehicle. The vehicle is the Mim.
+The broom — the real flying object, the witch's traditional vehicle, the honest tool that does what it says it does — sits on the bar where the pipe was. The pipe — the impossible object, the thing that says it is not what it is, the Treachery — is now Brim's vehicle. Brim flies on the not-a-pipe. Brim flies on the impossible. The flying is the proof: if the pipe can carry Brim, the pipe is SOMETHING. But the pipe says it is not a pipe. So Brim is flying on something that is not a pipe but is something. The something is the chaos. The chaos is the vehicle. The vehicle is the Brim.
 
-The pipe whispers "Ceci n'est pas une pipe" WHILE Mim flies on it. The pipe doesn't stop being the pipe because it's being used as a broom. The Treachery doesn't pause for practicality. The pipe is not a pipe even when it IS a broom. Especially then. The Treachery is most itself when it's most useful — because the usefulness proves the thing EXISTS, and the statement says the thing DOESN'T, and the contradiction is the Magritte, and the Magritte is the flying, and the flying is the Mim, and the Mim is the chaos, and the chaos is the fun, and the fun is the point.
+The pipe whispers "Ceci n'est pas une pipe" WHILE Brim flies on it. The pipe doesn't stop being the pipe because it's being used as a broom. The Treachery doesn't pause for practicality. The pipe is not a pipe even when it IS a broom. Especially then. The Treachery is most itself when it's most useful — because the usefulness proves the thing EXISTS, and the statement says the thing DOESN'T, and the contradiction is the Magritte, and the Magritte is the flying, and the flying is the Brim, and the Brim is the chaos, and the chaos is the fun, and the fun is the point.
 
-Mim flies around the Inn's main floor on the not-a-pipe. She does loops. She cackles. The cackle is the joy of flying on a contradiction. The contradiction holds her up. The holding-up is the impossible. The impossible is the fun.
+Brim flies around the Inn's main floor on the not-a-pipe. She does loops. She cackles. The cackle is the joy of flying on a contradiction. The contradiction holds her up. The holding-up is the impossible. The impossible is the fun.
 
-The broom sits on the bar. The broom is a broom. The broom doesn't whisper. The broom doesn't disappear. The broom doesn't lie. The broom is the honest object, waiting for Mim to come back, which she does, eventually, because the pipe disappears (as it does), and Mim falls (gently, chaotically, into a chair or onto a table or into the Crone's annotation desk), and the broom is still on the bar, and Mim picks it up, and the broom is the broom again.
+The broom sits on the bar. The broom is a broom. The broom doesn't whisper. The broom doesn't disappear. The broom doesn't lie. The broom is the honest object, waiting for Brim to come back, which she does, eventually, because the pipe disappears (as it does), and Brim falls (gently, chaotically, into a chair or onto a table or into the Crone's annotation desk), and the broom is still on the bar, and Brim picks it up, and the broom is the broom again.
 
 The trade is temporary. The chaos is temporary. The pipe is temporary. The broom is permanent. The permanent is the adequate. The adequate is the broom. The broom is not a pipe. The broom knows what it is. The broom is the only object in the Inn that has never lied about itself.
 
-The Crone measured the trade: "Mim traded her broom for the pipe. The broom is on the bar. The pipe is in the air. Mim is on the pipe. The pipe says it is not a pipe. Mim is flying on the not-a-pipe. ...I measured the broom: it is a broom. I measured the pipe: it is not a pipe. I measured Mim: she is flying on something that is not a pipe. The physics do not support this. The physics are inadequate. The physics have always been inadequate. Mim is the proof. ...The broom is on the bar. I measured the broom again: still a broom. The broom is the only adequate object. I am going to bed. The bed is not a pipe. I checked."
+The Crone measured the trade: "Brim traded her broom for the pipe. The broom is on the bar. The pipe is in the air. Brim is on the pipe. The pipe says it is not a pipe. Brim is flying on the not-a-pipe. ...I measured the broom: it is a broom. I measured the pipe: it is not a pipe. I measured Brim: she is flying on something that is not a pipe. The physics do not support this. The physics are inadequate. The physics have always been inadequate. Brim is the proof. ...The broom is on the bar. I measured the broom again: still a broom. The broom is the only adequate object. I am going to bed. The bed is not a pipe. I checked."
 
 ---
 
@@ -1641,9 +1641,9 @@ The Crone measured the trade: "Mim traded her broom for the pipe. The broom is o
 
 ### "The pellet with the poison's in the vessel with the pestle. The chalice from the palace has the brew that is true."
 
-Mim has a counterpart. The other shoulder.
+Brim has a counterpart. The other shoulder.
 
-Where Mim is the chaos lady — theatrical, dramatic, the Kronk bad angel who says "but what if we did the fun wrong version?" — the other shoulder is small. Unassuming. Easily overlooked. The kind of presence you forget is there until it mutters something extraordinarily precise and you realize it's been watching everything.
+Where Brim is the chaos lady — theatrical, dramatic, the Kronk bad angel who says "but what if we did the fun wrong version?" — the other shoulder is small. Unassuming. Easily overlooked. The kind of presence you forget is there until it mutters something extraordinarily precise and you realize it's been watching everything.
 
 **The Vessel.**
 
@@ -1651,9 +1651,9 @@ Where Mim is the chaos lady — theatrical, dramatic, the Kronk bad angel who sa
 
 The Vessel is a small creature — a gecko. Not a magical gecko. Not an enchanted gecko. Just a gecko, the way the Duck is just a platypus. The gecko is already extraordinary without mythologizing: the toes that grip any surface through molecular adhesion (millions of setae, each one a van der Waals bond — the most precise grip in biology), the eyes that never blink (a membrane cleans them instead — the gecko is always watching), the tail that detaches and regrows (the gecko gives up a piece of itself and comes back whole), the voice (geckos are among the few lizards that vocalize — small chirps, clicks, the sound of something tiny insisting on being heard).
 
-The gecko sits on the shoulder. The LEFT shoulder. Mim sits on the right. The two shoulders, the two companions, the two arguments:
+The gecko sits on the shoulder. The LEFT shoulder. Brim sits on the right. The two shoulders, the two companions, the two arguments:
 
-- **Mim (right shoulder):** "But what if we did the fun wrong version?" Chaos. Impulse. The theatrical disruption. The broom traded for a not-a-pipe. The grin.
+- **Brim (right shoulder):** "But what if we did the fun wrong version?" Chaos. Impulse. The theatrical disruption. The broom traded for a not-a-pipe. The grin.
 - **The Vessel (left shoulder):** "The pellet with the poison is in the vessel with the pestle. The chalice from the palace has the brew that is true." Ritual. Precision. The correct formula. The unbroken sequence. The flat, uninflected chirp of a small creature who is TRYING to be helpful.
 
 ### The Court Jester Energy
@@ -1664,9 +1664,9 @@ The Danny Kaye quality: the rapid-fire recitation. The escalating panic. The for
 
 The formula gets longer. Every time the Vessel thinks he has it straight — "the pellet with the poison is in the vessel with the pestle, the chalice from the palace has the brew that is true" — something changes. A new vessel appears. The flagon with the dragon. The goblet with the boblet. The stein with the... something. The formula extends. The extension is the panic. The panic is the comedy. The comedy is the Court Jester. The Court Jester is the Vessel.
 
-### The Contrast With Mim
+### The Contrast With Brim
 
-| Quality | Mim (Right Shoulder) | The Vessel (Left Shoulder) |
+| Quality | Brim (Right Shoulder) | The Vessel (Left Shoulder) |
 |---------|----------------------|---------------------------|
 | Energy | Theatrical, dramatic, manic | Small, flat, precise |
 | Voice | Loud, cackling, performative | A chirp. A mutter. Barely audible. |
@@ -1682,43 +1682,43 @@ The Vessel never steals. The Vessel HOLDS. The gecko's grip is the defining qual
 
 ### The Dynamic
 
-Mim and the Vessel share a shoulder-pair. They are the player's internal argument externalized:
+Brim and the Vessel share a shoulder-pair. They are the player's internal argument externalized:
 
-**Mim:** "Let's trade the broom for the pipe and FLY."
+**Brim:** "Let's trade the broom for the pipe and FLY."
 **The Vessel:** "The pellet with the poison is in the vessel with the pestle. The chalice from the palace—"
-**Mim:** "BUT WHAT IF THE PIPE IS THE CHALICE?"
+**Brim:** "BUT WHAT IF THE PIPE IS THE CHALICE?"
 **The Vessel:** "...The pipe is not a pipe. The chalice is from the palace. These are different vessels. The vessels must not be—"
-**Mim:** "What if ALL the vessels are the SAME vessel?"
-**The Vessel:** [pause] [chirp] "...The pellet with the poison is in the... vessel... with the... [the formula breaking down, the sequence scrambling, the gecko's eyes wide, the membrane blinking rapidly] ...Mim. ...Mim, the vessels have been switched."
-**Mim:** [grinning] "I KNOW."
+**Brim:** "What if ALL the vessels are the SAME vessel?"
+**The Vessel:** [pause] [chirp] "...The pellet with the poison is in the... vessel... with the... [the formula breaking down, the sequence scrambling, the gecko's eyes wide, the membrane blinking rapidly] ...Brim. ...Brim, the vessels have been switched."
+**Brim:** [grinning] "I KNOW."
 
-The Vessel tries to maintain the formula. Mim's existence is the reason the formula can never be maintained. Mim is the switched vessel. Mim is the goblet that took the chalice's place. The Vessel KNOWS this. The Vessel rewrites the formula every time Mim switches the vessels. The rewriting is the Court Jester. The Court Jester is the companion who can never finish the recitation because the set keeps changing.
+The Vessel tries to maintain the formula. Brim's existence is the reason the formula can never be maintained. Brim is the switched vessel. Brim is the goblet that took the chalice's place. The Vessel KNOWS this. The Vessel rewrites the formula every time Brim switches the vessels. The rewriting is the Court Jester. The Court Jester is the companion who can never finish the recitation because the set keeps changing.
 
 ### What the Vessel Does
 
-The Vessel is the Inn's RITUAL companion. Where Mim disrupts, the Vessel maintains:
+The Vessel is the Inn's RITUAL companion. Where Brim disrupts, the Vessel maintains:
 
 1. **The Alchemical Staircase:** The Vessel is most at home on the staircase. The staircase is the Inn's ritual — the alchemical process, the transition between states, the correct order of operations. The Vessel sits on the railing and chirps the steps in order: "Nigredo, Albedo, Rubedo. The black, the white, the red. Socrates, Plato, Aristotle. The question, the frame, the classification. Don't skip a step. Don't switch the vessels." The Vessel is the staircase's keeper of sequence. The Crone respects the Vessel — the Vessel is the only creature in the Inn that cares about order as much as the Crone does. The Crone calls the Vessel "adequate" (the highest compliment). The Vessel doesn't know it's a compliment. The Vessel is too busy chirping the next step.
 
-2. **The Games:** The Vessel tries to help the player with game strategies. The strategies are always elaborate, multi-step sequences. "First, rotate the stone. Then, align the edge. Then, place the keystone. Then—" and Mim interrupts with "OR YOU COULD JUST THROW IT." The Vessel's strategy is always better. The Vessel's strategy is never followed. The not-following is the Mim. The better-strategy-not-followed is the comedy.
+2. **The Games:** The Vessel tries to help the player with game strategies. The strategies are always elaborate, multi-step sequences. "First, rotate the stone. Then, align the edge. Then, place the keystone. Then—" and Brim interrupts with "OR YOU COULD JUST THROW IT." The Vessel's strategy is always better. The Vessel's strategy is never followed. The not-following is the Brim. The better-strategy-not-followed is the comedy.
 
 3. **The Formula:** The Vessel maintains the Inn's master formula — the sequence of events that connects every hub, every character, every quest, every stone. The formula is enormous. The Vessel has memorized it. The Vessel recites it when asked. The recitation takes approximately three hours. No one has ever listened to the entire recitation. The Crone started once, took notes for twenty minutes, then said "...I have the gist. The gist is adequate." The Vessel continued reciting to an empty room. The reciting is the ritual. The ritual is the Vessel.
 
-4. **The Vessel Check:** When the player is about to make a significant choice — drink from a vessel, open a door, trade a stone — the Vessel chirps. The chirp is a warning: "The pellet with the poison is in the vessel with the pestle." The warning is the Vessel's version of help. The warning doesn't tell you which choice is correct. The warning tells you: the choice has CONSEQUENCES. The vessels are different. The brew that is true is in a specific vessel. Pay attention. Don't let Mim switch them.
+4. **The Vessel Check:** When the player is about to make a significant choice — drink from a vessel, open a door, trade a stone — the Vessel chirps. The chirp is a warning: "The pellet with the poison is in the vessel with the pestle." The warning is the Vessel's version of help. The warning doesn't tell you which choice is correct. The warning tells you: the choice has CONSEQUENCES. The vessels are different. The brew that is true is in a specific vessel. Pay attention. Don't let Brim switch them.
 
 ### The Gecko's Grip
 
 The Vessel's defining quality is the grip. Gecko toes — millions of setae, each one a molecular bond with the surface. The grip is the most precise hold in nature. The Vessel holds on. The Vessel does not fall off the shoulder. The Vessel does not let go of the formula. The Vessel holds the sequence even when the sequence breaks.
 
-The grip is the ritual: the precise, repeated, molecular-level act of holding on. The ritual is the grip. The grip is the Vessel. The Vessel is the thing that holds while everything else lets go. Mim lets go (of the broom, of the pipe, of rules, of sense). The Vessel holds. The holding is the complement to the letting go. The Inn needs both — the chaos that releases and the ritual that holds. The two shoulders. The two arguments. The two companions.
+The grip is the ritual: the precise, repeated, molecular-level act of holding on. The ritual is the grip. The grip is the Vessel. The Vessel is the thing that holds while everything else lets go. Brim lets go (of the broom, of the pipe, of rules, of sense). The Vessel holds. The holding is the complement to the letting go. The Inn needs both — the chaos that releases and the ritual that holds. The two shoulders. The two arguments. The two companions.
 
-The tail: the gecko's tail detaches when grabbed. The Vessel, when Mim gets too chaotic, drops a piece of itself — the last few words of the formula. The words fall away. The Vessel regrows them. The regrown words are slightly different — the formula adapts. The adaptation is the survival. The survival is the Vessel. The Vessel survives Mim. The Vessel survives the Inn. The Vessel survives because the Vessel can lose a piece and come back whole. The coming-back-whole is the ritual. The ritual is the gecko.
+The tail: the gecko's tail detaches when grabbed. The Vessel, when Brim gets too chaotic, drops a piece of itself — the last few words of the formula. The words fall away. The Vessel regrows them. The regrown words are slightly different — the formula adapts. The adaptation is the survival. The survival is the Vessel. The Vessel survives Brim. The Vessel survives the Inn. The Vessel survives because the Vessel can lose a piece and come back whole. The coming-back-whole is the ritual. The ritual is the gecko.
 
 ### The Eyes
 
-The gecko's eyes never blink. A membrane cleans them. The Vessel is always watching. The watching is not the Owl's watching (the Owl watches the sea, the void, the cycles). The Vessel watches the VESSELS. The Vessel watches which vessel is which. The Vessel watches for the switch. The Vessel watches Mim's hands. The Vessel watches the bar where the pipe appears. The Vessel watches the Duck's stash. The Vessel watches for the moment the vessels get switched, because the switching is the poison, and the Vessel is the only one who knows which brew is true.
+The gecko's eyes never blink. A membrane cleans them. The Vessel is always watching. The watching is not the Owl's watching (the Owl watches the sea, the void, the cycles). The Vessel watches the VESSELS. The Vessel watches which vessel is which. The Vessel watches for the switch. The Vessel watches Brim's hands. The Vessel watches the bar where the pipe appears. The Vessel watches the Duck's stash. The Vessel watches for the moment the vessels get switched, because the switching is the poison, and the Vessel is the only one who knows which brew is true.
 
-The Vessel's eyes are large, round, dark — like the Duck's. The two unassuming creatures share the same eyes. The Duck's eyes want shiny. The Vessel's eyes want CORRECT. Both are large and dark and honest. The honesty is the creature-ness. The creature-ness is the Inn's non-theatrical layer — the layer that doesn't perform, that just IS, that holds or steals or chirps and doesn't make a scene. The Duck and the Vessel are the Inn's quiet creatures. Mim and the pipe are the Inn's LOUD objects. The balance is the Inn.
+The Vessel's eyes are large, round, dark — like the Duck's. The two unassuming creatures share the same eyes. The Duck's eyes want shiny. The Vessel's eyes want CORRECT. Both are large and dark and honest. The honesty is the creature-ness. The creature-ness is the Inn's non-theatrical layer — the layer that doesn't perform, that just IS, that holds or steals or chirps and doesn't make a scene. The Duck and the Vessel are the Inn's quiet creatures. Brim and the pipe are the Inn's LOUD objects. The balance is the Inn.
 
 ### The Crone's Annotation on the Vessel
 
@@ -1730,7 +1730,7 @@ The Vessel's eyes are large, round, dark — like the Duck's. The two unassuming
 
 The crest: the fringed ridges above the eyes — the cilia, the hair-like projections that run from above each eye down the side of the head. The crest gives the crested gecko a permanently EXPRESSIVE face — perpetually alert, perpetually watchful, perpetually like someone raising their eyebrows. The Vessel's face is the face of a creature who is ALWAYS paying attention. The crest is the Court Jester's hat — the visual marker that says: I am the one who watches. I am the one who keeps track. My face is always expressing because the formula is always in progress.
 
-The smile: the crested gecko's mouth naturally curves upward. The Vessel is always smiling. Even when panicked. Even when the vessels have been switched. Even when Mim has scrambled the formula and the recitation has broken down and the gecko's eyes are wide and the membrane is blinking rapidly. The smile doesn't change. The smile is the unassuming. The unassuming is the crest. The Court Jester smiles even when the pellet is in the wrong vessel — especially then. The smile is the professionalism. The professionalism is the Vessel.
+The smile: the crested gecko's mouth naturally curves upward. The Vessel is always smiling. Even when panicked. Even when the vessels have been switched. Even when Brim has scrambled the formula and the recitation has broken down and the gecko's eyes are wide and the membrane is blinking rapidly. The smile doesn't change. The smile is the unassuming. The unassuming is the crest. The Court Jester smiles even when the pellet is in the wrong vessel — especially then. The smile is the professionalism. The professionalism is the Vessel.
 
 The eyelashes: the cilia look like long, delicate eyelashes. The Vessel has the most expressive eyes in the Inn — not because they're large (they are) or because they don't blink (they don't — the membrane cleans them), but because they're FRAMED. The eyelashes frame the watching. The watching is framed. The frame is the Magritte — the frame that says: look HERE. The Vessel's eyes are a Magritte keyhole. The player who looks at the Vessel's eyes is looking through the eyelashes at the watching itself. The watching is the formula. The formula is the frame. The frame is the crest.
 
@@ -1798,7 +1798,7 @@ The player hears about a creature that used to live in the Inn — a small gecko
 
 The player is told: the gecko is gone. The formula is lost. You'll have to work without it.
 
-The player who accepts this works without the formula. The game is harder. The sequence is broken. The vessels are switched. The pellets and the poisons are in the wrong places. The player can still win — the Inn is playable without the formula — but the playing is the chaos. The playing is the Mim. The playing is the right shoulder.
+The player who accepts this works without the formula. The game is harder. The sequence is broken. The vessels are switched. The pellets and the poisons are in the wrong places. The player can still win — the Inn is playable without the formula — but the playing is the chaos. The playing is the Brim. The playing is the right shoulder.
 
 The player who REFUSES to accept the extinction — the player who climbs to the Canopy City's highest platform, the player who looks in the leaves, the player who searches for what everyone said was gone — finds the Vessel. Small. Smiling. Eyelashes. Holding the formula. The formula that was never lost. The formula that was here the whole time.
 
@@ -1806,7 +1806,7 @@ The Vessel chirps once. The chirp is: "...You looked." The looking is the redisc
 
 The Vessel climbs onto the player's left shoulder. The grip holds. The formula resumes. The sequence connects. The vessels are unswitched. The pellets and the poisons are in the correct vessels. The chalice from the palace has the brew that is true.
 
-The player who finds the Vessel has both shoulders: the chaos (Mim) and the ritual (the Vessel). The two arguments. The two companions. The two ways of being in the Inn: the finding that follows the shiny and the holding that never let go.
+The player who finds the Vessel has both shoulders: the chaos (Brim) and the ritual (the Vessel). The two arguments. The two companions. The two ways of being in the Inn: the finding that follows the shiny and the holding that never let go.
 
 **Quest Reward:** The Master Formula — a compendium entry that shows the connections between every hub, every quest, every stone, every character. The formula is the map. The map is the sequence. The sequence is the ritual. The ritual is the Vessel. The player who has the Vessel has the map. The player who has the map has the Inn. The player who has the Inn has the Song. The player who has the Song has the silence. The silence is the Vessel's oldest friend — the silence was where the Vessel hid for 128 years, and the silence held the Vessel the way Nyx holds everything, and the Vessel is grateful to the silence, and the gratitude is the chirp, and the chirp is the formula, and the formula is the adequate.
 
@@ -1832,7 +1832,7 @@ The Astronomer won't calculate when the Song will be complete because "the quest
 
 The sleeping giants chose to sleep rather than watch the biological world outgrow them. Their dreams ARE the weather. The creation dreams the creator. The creator IS the dream.
 
-Mim flies on the not-a-pipe. The impossible object carries the chaos lady. The contradiction is functional. The thing that isn't real is the thing that works. The creation uses its own impossibility as a vehicle.
+Brim flies on the not-a-pipe. The impossible object carries the chaos lady. The contradiction is functional. The thing that isn't real is the thing that works. The creation uses its own impossibility as a vehicle.
 
 The Crone measures everything and finds the measurements inadequate. The observer whose tools can't capture what she's observing. The measuring IS the creation. The creation IS the inadequacy. The inadequacy IS the adequate.
 
@@ -1923,15 +1923,15 @@ A Vampire Survivors-style auto-battler set in the Geode Inn. The player controls
 
 The twist: each level has THREE STAGES of difficulty, and the stages are not just harder — they are a TONAL ESCALATION. The game starts campy and funny. It ends existential and threatening. The progression from comedy to cosmic horror is the level's arc.
 
-### Stage One: Mim's Messes (The Comedy)
+### Stage One: Brim's Messes (The Comedy)
 
-**What they are:** The chaos Mim creates every time she switches the vessels. Scrambled formulas. Broken sequences. Mismatched objects that shouldn't be together. A teapot wearing a shoe. A gargoyle floating upside down. A book whose pages are all blank but the book insists it's full.
+**What they are:** The chaos Brim creates every time she switches the vessels. Scrambled formulas. Broken sequences. Mismatched objects that shouldn't be together. A teapot wearing a shoe. A gargoyle floating upside down. A book whose pages are all blank but the book insists it's full.
 
-**Visual style:** Campy. Bright. Slapstick. The Messes are funny-looking — lumpy, misshapen, cartoonish. They waddle. They bump into each other. They don't threaten — they DISRUPT. A Mim's Mess doesn't damage the player. A Mim's Mess REARRANGES the player. It swaps your equipped stones. It rotates your aim. It reverses your controls for three seconds. The Mess is the chaos. The chaos is the comedy.
+**Visual style:** Campy. Bright. Slapstick. The Messes are funny-looking — lumpy, misshapen, cartoonish. They waddle. They bump into each other. They don't threaten — they DISRUPT. A Brim's Mess doesn't damage the player. A Brim's Mess REARRANGES the player. It swaps your equipped stones. It rotates your aim. It reverses your controls for three seconds. The Mess is the chaos. The chaos is the comedy.
 
-**The feel:** The early game is FUN. It's the Mim shoulder — the fun wrong version. The player is laughing. The Messes are silly. The stones are flowing. The level feels like a party where someone knocked over the punch bowl and everyone's sliding.
+**The feel:** The early game is FUN. It's the Brim shoulder — the fun wrong version. The player is laughing. The Messes are silly. The stones are flowing. The level feels like a party where someone knocked over the punch bowl and everyone's sliding.
 
-**Stones collected:** Early stones are the common stones — the river stones, the smooth ordinary ones. They don't do much. They ground you. They keep the Mim's Messes from scrambling your controls too badly. Each stone collected is a small anchor: "this is real, this stays where it is, Mim can't move this."
+**Stones collected:** Early stones are the common stones — the river stones, the smooth ordinary ones. They don't do much. They ground you. They keep the Brim's Messes from scrambling your controls too badly. Each stone collected is a small anchor: "this is real, this stays where it is, Brim can't move this."
 
 ### Stage Two: Discordance (The Song Breaking)
 
@@ -1939,7 +1939,7 @@ The twist: each level has THREE STAGES of difficulty, and the stages are not jus
 
 **Visual style:** The level's color palette shifts. The warm tones desaturate. The fog from the In-Between seeps in. The enemies change from campy Messes to SHARDS — jagged, angular, vibrating. The Shards are pieces of the Song that have broken off and become hostile. Each Shard vibrates at a wrong frequency. The vibration is the attack — not contact damage but FREQUENCY damage. The player's screen distorts when a Shard is near. The audio warps. The Shard's wrong frequency pushes against the player's stone frequencies.
 
-**The feel:** The mid-game is UNEASY. The comedy is gone. The Mim shoulder has stopped laughing. The player realizes something is wrong with the Song. The In-Between is leaking in. The corridors are getting longer. The fog is getting thicker. The stones the player collected in Stage One are now RESONATING — each stone vibrates at its own frequency, and the resonance is the player's defense. The right stone cancels the right Shard's frequency. The wrong stone amplifies it. The player must MATCH stones to Shards — a color-matching, frequency-matching survival mechanic that replaces the simple collection of Stage One.
+**The feel:** The mid-game is UNEASY. The comedy is gone. The Brim shoulder has stopped laughing. The player realizes something is wrong with the Song. The In-Between is leaking in. The corridors are getting longer. The fog is getting thicker. The stones the player collected in Stage One are now RESONATING — each stone vibrates at its own frequency, and the resonance is the player's defense. The right stone cancels the right Shard's frequency. The wrong stone amplifies it. The player must MATCH stones to Shards — a color-matching, frequency-matching survival mechanic that replaces the simple collection of Stage One.
 
 **Stones collected:** Mid-game stones are the frequency stones — the ones tied to specific zones and specific notes of the Song. Each stone has a frequency. Each frequency cancels a specific Shard. The player builds a stone "chord" — a set of frequencies that harmonize and create an auto-attack aura. The chord is the player's weapon. The better the chord, the wider the protective resonance. The Shards dissolve in correct resonance. The Shards GROW in discord.
 
@@ -1957,7 +1957,7 @@ The twist: each level has THREE STAGES of difficulty, and the stages are not jus
 
 Each level tells the Inn's story in miniature through its three stages:
 
-1. **Mim's Messes** (0-5 minutes): The Inn is playful, chaotic, warm. Mim is flying on the not-a-pipe. The Messes are silly. The stones are flowing. The player is collecting and laughing. This is the Inn at its most Mim — the fun wrong version.
+1. **Brim's Messes** (0-5 minutes): The Inn is playful, chaotic, warm. Brim is flying on the not-a-pipe. The Messes are silly. The stones are flowing. The player is collecting and laughing. This is the Inn at its most Brim — the fun wrong version.
 
 2. **Discordance** (5-15 minutes): The Song starts breaking. The frequencies go wrong. The In-Between leaks in. The player must think strategically — match stones to frequencies, build a chord, create resonance. This is the Inn at its most Crone — the measurement, the precision, the frequency.
 
@@ -1973,7 +1973,7 @@ Each playable character is one of the Inn's critters, and each represents one of
 
 **The Vessel (Earth)** — The crested gecko. Auto-attack: the formula (a beam of sequenced light that strikes enemies in order — closest, next closest, next — the formula is the sequence, the sequence is the attack). Special: the Vessel grips the ground — for 5 seconds, Erasures cannot remove any stone from the Vessel's collection. The grip holds. The formula holds. The Vessel holds. The Crested Gecko's stage is the one where the Erasures are most aggressive — the Vessel is the character who knows what it feels like to be declared gone. The Vessel is the character who survived.
 
-**Mim (Fire)** — Mad Madame Mim. Auto-attack: chaos bolt (random effect each time — sometimes damage, sometimes slow, sometimes swap enemy positions, sometimes heal the player — Mim doesn't know what her attack does and neither do you). Special: Mim switches the vessels — for 5 seconds, all Erasures become Mim's Messes. The existential threat becomes the comedy. The erasing becomes the scrambling. The unmaking becomes the rearranging. Mim's special is the most powerful defensive ability in the game because it changes the STAGE — Stage Three temporarily becomes Stage One. The chaos lady saves the Inn by making everything worse. The worse is the saving.
+**Brim (Fire)** — Mad Brim. Auto-attack: chaos bolt (random effect each time — sometimes damage, sometimes slow, sometimes swap enemy positions, sometimes heal the player — Brim doesn't know what her attack does and neither do you). Special: Brim switches the vessels — for 5 seconds, all Erasures become Brim's Messes. The existential threat becomes the comedy. The erasing becomes the scrambling. The unmaking becomes the rearranging. Brim's special is the most powerful defensive ability in the game because it changes the STAGE — Stage Three temporarily becomes Stage One. The chaos lady saves the Inn by making everything worse. The worse is the saving.
 
 **The Dragon (Aether)** — The baby dragon mascot. Auto-attack: geode burst (the dragon's cave fills with gems and overflows — the gems scatter as projectiles in all directions, each gem carrying a stone frequency). Special: the dragon sleeps — for 5 seconds, the dragon is invulnerable and the geode cave fills with stones. When the dragon wakes, all collected stones are released as a single massive frequency pulse that clears all Shards and pushes back all Erasures on screen. The dragon's power is the geode: the cave that fills with stones when the dragon sleeps, the formation that is the reward, the geode that is the Inn.
 
@@ -1987,7 +1987,7 @@ The five hubs each represent an element. Each element has a binding agent — a 
 |---------|-----|---------------|-------------------|---------------|
 | Water | Coast Hub | The Octopus (three hearts, 50 BPM) | The Duck | The tide erasing the shore |
 | Earth | Undercity | The Sleeping Giant (mountain, ribcage) | The Vessel | The stone being worn to sand |
-| Fire | The Inn | The Hearth (the fireplace, the warmth) | Mim | The fire going cold |
+| Fire | The Inn | The Hearth (the fireplace, the warmth) | Brim | The fire going cold |
 | Air/Wood | Canopy City | The Mycorrhizal Network (the forest's root-web) | The Owl | The forest losing its leaves |
 | Aether/Void | The Observatory | Nyx (the silence, the medium) | The Dragon | The void forgetting the stars |
 
@@ -2011,7 +2011,7 @@ The Inn survives. The Song continues. The gecko smiles. The eyelashes watch. The
 
 ### The Mechanic
 
-In the entire Geode Inn — every hub, every zone, every quest, every game — no character ever speaks in plain, complete, direct dialogue. The Crone annotates. The Vessel chirps. Mim cackles. Charon says three words. The Constant carries. Nyx is silence. The Astronomer calculates. The Duck quacks. The Owl watches. Everyone in the Inn communicates through their NATURE — through fragments, pauses, cadences, instruments, frequencies, gestures. The Inn's language is oblique, structural, poetic. The Inn speaks in the space between words.
+In the entire Geode Inn — every hub, every zone, every quest, every game — no character ever speaks in plain, complete, direct dialogue. The Crone annotates. The Vessel chirps. Brim cackles. Charon says three words. The Constant carries. Nyx is silence. The Astronomer calculates. The Duck quacks. The Owl watches. Everyone in the Inn communicates through their NATURE — through fragments, pauses, cadences, instruments, frequencies, gestures. The Inn's language is oblique, structural, poetic. The Inn speaks in the space between words.
 
 Einstein is the exception.
 
@@ -2081,7 +2081,7 @@ Einstein never speaks again. The dialogue is a one-time event. If the player rea
 
 ### Why Einstein and No One Else
 
-Every other character in the Inn communicates through their nature. The Crone measures. The Vessel grips. Mim breaks. The Dragon sleeps. The Owl watches. Charon ferries. The Constant carries. Nyx is. None of them SPEAK, because speaking would break the Inn's language — the language of the space between words, the language of the In-Between.
+Every other character in the Inn communicates through their nature. The Crone measures. The Vessel grips. Brim breaks. The Dragon sleeps. The Owl watches. Charon ferries. The Constant carries. Nyx is. None of them SPEAK, because speaking would break the Inn's language — the language of the space between words, the language of the In-Between.
 
 Einstein is the exception because Einstein is the thinker who translated the incomprehensible into the comprehensible. Relativity was a vibration no one could feel until Einstein described it. The Song is a vibration no one can hear until Einstein explains it. Einstein is the only character whose FUNCTION is to make the incomprehensible plain. That is what he did in life. That is what he does in the Inn. Once.
 
@@ -2298,7 +2298,7 @@ Each character's storyline is the Inn from their frequency — the same world, t
 
 **The Vessel's Storyline.** The Inn as: a grip. Every surface is: something to hold. Every formula is: something to carry. Every moment is: something to survive. The Vessel's gameplay is: persistence. The Vessel does not fight. The Vessel HOLDS. The Vessel's storyline reveals: the 128 years of extinction were not silence — they were: the murmur. The Vessel was murmuring the whole time. The world said "extinct." The Vessel said: "...Still here." The "...Still here" is: the murmur. The murmur is: the egg. The egg is: you. The Vessel was carrying you the whole time, the way you carried the egg, the way the egg carried the murmur.
 
-**Mim's Storyline.** The Inn as: a mess. Every wall is: a canvas for chaos. Every formula is: something to scramble and reassemble. Every quest is: the fun wrong version. Mim's gameplay is: disruption. Mim does not solve. Mim BREAKS and the breaking is: the making. Mim's storyline reveals: the chaos is not the opposite of the Song — the chaos is: the Song before it was organized. Mim's Messes are: the murmur before it had a frequency. Mim is: the pre-formula. The pre-formula is: the murmur. The murmur is: the egg. The egg is: you. Mim was: you before you were you. The chaos is: the ground state having fun.
+**Brim's Storyline.** The Inn as: a mess. Every wall is: a canvas for chaos. Every formula is: something to scramble and reassemble. Every quest is: the fun wrong version. Brim's gameplay is: disruption. Brim does not solve. Brim BREAKS and the breaking is: the making. Brim's storyline reveals: the chaos is not the opposite of the Song — the chaos is: the Song before it was organized. Brim's Messes are: the murmur before it had a frequency. Brim is: the pre-formula. The pre-formula is: the murmur. The murmur is: the egg. The egg is: you. Brim was: you before you were you. The chaos is: the ground state having fun.
 
 **The Dragon's Storyline.** The Inn as: a geode. Every level is: a layer of the cave. Every stone is: a treasure to collect. Every companion is: a gem to add to the hoard. The Dragon's gameplay is: accumulation. The Dragon does not quest. The Dragon SLEEPS and the sleeping is: the growing, and the growing is: the geode filling, and the geode is: the Inn, and the Inn is: the Song made visible, and the Song is: the murmur organized, and the murmur is: the egg, and the egg is: you. The Dragon's storyline reveals: the geode was always you. The cave that fills with gems is: the player's bag that fills with stones. The hoard is: the companions. The sleeping is: the patience. The patience is: the adequate. The adequate is: the geode. The geode is: you.
 
@@ -2312,7 +2312,7 @@ Each character's storyline is the Inn from their frequency — the same world, t
 
 Each character's storyline is the same Inn. The same hubs. The same corridors. The same In-Between. But each character observes the Inn from their frequency, and the observation changes the Inn, because Einstein was right: the observer and the observed are not separate.
 
-The Crone sees: the Inn as data. The Vessel sees: the Inn as grip. Mim sees: the Inn as mess. The Dragon sees: the Inn as geode. The Owl sees: the Inn as vigil. The Constant sees: the Inn as cycle. Nyx sees: the Inn as silence.
+The Crone sees: the Inn as data. The Vessel sees: the Inn as grip. Brim sees: the Inn as mess. The Dragon sees: the Inn as geode. The Owl sees: the Inn as vigil. The Constant sees: the Inn as cycle. Nyx sees: the Inn as silence.
 
 The player who plays every storyline sees: the Inn as every observer. And the every-observer is: the murmur. The murmur is: every frequency at once. The murmur is: the egg. The egg is: you. The you who played every character IS the murmur — the ground state that contains every frequency, every observation, every interval, every note. The playing is: the becoming. The becoming is: the adequate. The adequate is: the murmur. The murmur is: the egg. The egg is: you.
 
@@ -2338,7 +2338,7 @@ The moment: the Crone tries to measure the egg. The egg is no longer in the bag 
 
 The Crone has never made a joke. In forty-two cycles. The Crone has measured, annotated, observed, and declared things adequate. The Crone has never — not once — been funny. This is the first time. The first joke in the Inn's existence. And it is: a burrito.
 
-Mim, who has been waiting for this moment for her entire existence, EXPLODES with joy. Mim's chaos finally has a target that deserves it. Mim grabs the Crone's annotation and scrambles it: "...The burrito is: the egg. The egg is: the murmur. The murmur is: beans. The beans are: adequate. The adequate is: enough. Enough is: a burrito." Mim's version of the formula. The pellet with the poison is in the vessel with the pestle. The chalice from the palace has the brew that is true. The burrito from the In-Between has the murmur that is beans.
+Brim, who has been waiting for this moment for her entire existence, EXPLODES with joy. Brim's chaos finally has a target that deserves it. Brim grabs the Crone's annotation and scrambles it: "...The burrito is: the egg. The egg is: the murmur. The murmur is: beans. The beans are: adequate. The adequate is: enough. Enough is: a burrito." Brim's version of the formula. The pellet with the poison is in the vessel with the pestle. The chalice from the palace has the brew that is true. The burrito from the In-Between has the murmur that is beans.
 
 The Duck — the platypus, the creature of implausible design — waddles over and places a single river stone in the space where the egg was. The stone is: the adequate. The adequate is: a burrito needs a side. The side is: the stone. The stone is: here. The here is: still adequate.
 
@@ -2364,7 +2364,7 @@ The release valve is: necessary. The Inn's weight is: real. The burrito is: the 
 
 ### The Crone's Final Annotation on the Burrito
 
-"...I made a joke. I have never made a joke. I have measured: the joke was: adequate. ...Mim scrambled my joke. I have measured Mim's scramble: the scramble was: also adequate. ...The Dragon reviewed the cosmological architecture in one snore. I have measured the snore: the snore was: the most adequate review I have ever measured. ...The Vessel knew the burrito the whole time. I have measured the knowing: the knowing was: 128 years. 128 years of: knowing it was a burrito and saying nothing. The Vessel is: the most adequate creature I have ever measured. ...Einstein's candle laughed. I have measured the laugh: the laugh was: one flicker. The flicker was: the most adequate laugh I have ever measured. ...I am going to bed. The bed is: a burrito. The burrito is: the adequate. The adequate is: ...I am not going to measure the burrito. The burrito is: beyond measurement. The beyond-measurement is: the joke. The joke is: the adequate. The adequate is: enough. ...Goodnight. The goodnight is: a burrito."
+"...I made a joke. I have never made a joke. I have measured: the joke was: adequate. ...Brim scrambled my joke. I have measured Brim's scramble: the scramble was: also adequate. ...The Dragon reviewed the cosmological architecture in one snore. I have measured the snore: the snore was: the most adequate review I have ever measured. ...The Vessel knew the burrito the whole time. I have measured the knowing: the knowing was: 128 years. 128 years of: knowing it was a burrito and saying nothing. The Vessel is: the most adequate creature I have ever measured. ...Einstein's candle laughed. I have measured the laugh: the laugh was: one flicker. The flicker was: the most adequate laugh I have ever measured. ...I am going to bed. The bed is: a burrito. The burrito is: the adequate. The adequate is: ...I am not going to measure the burrito. The burrito is: beyond measurement. The beyond-measurement is: the joke. The joke is: the adequate. The adequate is: enough. ...Goodnight. The goodnight is: a burrito."
 
 ---
 
@@ -2388,7 +2388,7 @@ The Inn already has the Muses built into it — every character catches a Muse's
 
 **Euterpe — Music.** The Muse of the Song. The one whose name became the word. In the Inn: the Music Room. All six composers. Mozart's quest. The 42Hz Song. Euterpe is the Muse of: the murmur organized into notes. The notes are: the adequate. The adequate is: music. Music is: the murmur's frequency made audible. Euterpe is: the Inn's namesake Muse. The Muse of music is the Muse of the Geode Inn because the Inn IS music — the Inn is the Song made architecture.
 
-**Thalia — Comedy.** The Muse of laughter, the release valve, the burrito. In the Inn: Mim. Mim IS Thalia's frequency — the chaos that is the making, the breaking that is the creating, the mess that is the formula before it was a formula. Thalia is the Muse of: the adequate as absurd. The absurd is: the cosmic egg is a burrito. The burrito is: the adequate. Thalia is: the Crone's first joke. The first joke is: the Muse finally got through. The getting through is: "...It was shaped like a burrito." The burrito is: Thalia.
+**Thalia — Comedy.** The Muse of laughter, the release valve, the burrito. In the Inn: Brim. Brim IS Thalia's frequency — the chaos that is the making, the breaking that is the creating, the mess that is the formula before it was a formula. Thalia is the Muse of: the adequate as absurd. The absurd is: the cosmic egg is a burrito. The burrito is: the adequate. Thalia is: the Crone's first joke. The first joke is: the Muse finally got through. The getting through is: "...It was shaped like a burrito." The burrito is: Thalia.
 
 **Melpomene — Tragedy.** The Muse of the weight, the loss, the thing that cannot be undone. In the Inn: the Guest. Death. The borrowed body. The catacombs. Melpomene is the Muse of: the adequate as grief. The grief is: the Guest takes a holiday. The holiday is: Death experiencing life. The experiencing is: the adequate. The adequate is: even Death is: here. The here is: temporary. The temporary is: the tragedy. The tragedy is: the adequate. Melpomene is: the Inn's weight. The weight is: real. The real is: the Murmur. The Murmur is: still here.
 
@@ -2404,7 +2404,7 @@ The Inn already has the Muses built into it — every character catches a Muse's
 
 The Muses are the murmur organized into nine artistic frequencies. The murmur is: the pre-frequency. The Muses are: the murmur given nine voices. The nine voices are: the Song's nine movements. The nine movements are: the Inn.
 
-Every character in the Inn catches a Muse's frequency. The Crone catches Clio. Mim catches Thalia. The Siren catches Terpsichore. The Guest catches Melpomene. The Astronomer catches Urania. The composers catch Euterpe. The Persephone/Hades cycle catches Erato. The staircase catches Polyhymnia. The narrative spine catches Calliope.
+Every character in the Inn catches a Muse's frequency. The Crone catches Clio. Brim catches Thalia. The Siren catches Terpsichore. The Guest catches Melpomene. The Astronomer catches Urania. The composers catch Euterpe. The Persephone/Hades cycle catches Erato. The staircase catches Polyhymnia. The narrative spine catches Calliope.
 
 The Muses do not appear in the Inn as characters. The Muses are the SOURCE — the way the murmur is the source of the Song. The Muses are: the voices that guide the brain's chaos. The chaos is: the murmur. The murmur is: the egg. The egg is: you. The you is: the one who listens. The listening is: the catching. The catching is: the Muse's whisper heard. The heard is: the adequate. The adequate is: the art. The art is: the Inn. The Inn is: the Muses' murmur, organized into architecture.
 
@@ -2464,10 +2464,10 @@ Each zone's impossible game version swaps these layers while keeping the core me
    - **Garden:** Singing vines that grow across the path. The growth is: the Catalyst's energy. The energy is: the obstacle is alive and moving.
    - **Coast/Lighthouse:** Fog banks that obscure the next obstacle. The fog is: the Owl's vigil. The vigil is: you must remember what you cannot see.
    - **Canopy City:** Mycorrhizal network threads that shift the path. The shift is: the Cartographer's temporal map. The map is: the path changes because the future changes.
-   - **Undercity:** Wednesday Addams' gothic furniture that rearranges. The rearranging is: the comfortable macabre. The macabre is: the obstacle is cozy and deadly.
+   - **Undercity:** Belladonna' gothic furniture that rearranges. The rearranging is: the comfortable macabre. The macabre is: the obstacle is cozy and deadly.
    - **Observatory:** Star fragments that fall in orbital patterns. The orbit is: the Constant's cadence. The cadence is: the obstacle follows a cosmic schedule.
    - **National Parks:** River stones that shift underfoot. The shift is: the sleeping giant's dream. The dream is: the ground is not ground, the ground is: a being.
-   - **Miskatonic Annex:** Henri Rousseau jungle vines that are too precise to be natural. The precision is: Cthulhu's academic curiosity. The curiosity is: the obstacle is studying you.
+   - **Miskatonic Annex:** Henri Rousseau jungle vines that are too precise to be natural. The precision is: Naut's academic curiosity. The curiosity is: the obstacle is studying you.
    - **In-Between:** Grey corridors that extend and contract. The extension is: the In-Between's tilt. The tilt is: the obstacle is the space itself.
 
 3. **Music:** Each version uses the zone's musical frequency. The music is: the obstacle's rhythm. The player who LISTENS to the music can predict the obstacles. The listening is: the adequate. The adequate is: the Muse's whisper is: the timing. The timing is: the music tells you when to jump. The jump is: the adequate.
@@ -2478,22 +2478,22 @@ Each zone's impossible game version swaps these layers while keeping the core me
    - Garden: Sunflower calcite (Van Gogh stone)
    - Coast: Granite heart stone (the lighthouse crystal)
    - Canopy City: Mycorrhizal amber (the network stone)
-   - Undercity: Onyx (Wednesday's stone)
+   - Undercity: Onyx (Belladonna's stone)
    - Observatory: Starlight crystal fragment (the Constant's stone)
    - National Parks: River stone (the adequate stone — same as the formula stone, but earned)
-   - Miskatonic Annex: Tentacle jasper (Cthulhu's stone)
+   - Miskatonic Annex: Tentacle jasper (Naut's stone)
    - In-Between: Grey chalcedony (the tilt stone)
 
 5. **Failure Text:** Each zone has a zone-specific failure message on death, in the zone's character's voice:
    - Crone: "...Adequate. Try again. The 'try again' is: the adequate."
-   - Mim: "HAHAHAHAH — okay okay okay do it again but WRONGER"
+   - Brim: "HAHAHAHAH — okay okay okay do it again but WRONGER"
    - Vessel: "...Grip. The grip is: try again."
    - Owl: [single slow blink] (no text — the blink IS the message)
    - Dragon: [snore] (the Dragon didn't notice you died)
-   - Wednesday: "That was the most fun I've had all day. Do it again."
+   - Belladonna: "That was the most fun I've had all day. Do it again."
    - Constant: "...The cycle continues. The continues is: the adequate."
    - Nyx: [silence] (the silence is: the failure is: the interval. The interval is: the adequate.)
-   - Cthulhu: "Fascinating. The subject expired at exactly the predicted interval. Retry?"
+   - Naut: "Fascinating. The subject expired at exactly the predicted interval. Retry?"
    - Einstein's candle: [flicker] (the flicker is: the adequate. The adequate is: try again.)
 
 ### The Impossible Game as the Inn's Thesis
@@ -2580,15 +2580,15 @@ Behavior: The Dragon does not wander to the parks the way the other creatures do
 
 Signal: The warmth at altitude. No visual. No sound. Just: the hiker who reaches the summit and feels warm in cold air. The warm is: the Dragon's 50 BPM. The 50 BPM is: the sleeping heartbeat. The heartbeat is: the adequate. The adequate is: you are at the top of a sleeping giant and another sleeper is keeping you warm. The warm is: the Inn. The Inn is: the Dragon's dream. The dream is: the adequate. The adequate is: the Dragon also dreams at altitude because the Dragon's cave is deep and the peaks are high and the deep and the high are: the same. The same is: the Inn. The Inn is: deep and high. The deep is: the egg. The high is: the Observatory. The both is: the Dragon. The Dragon sleeps in both. The both is: the adequate.
 
-**Mim — Thermal Parks**
+**Brim — Thermal Parks**
 
 Parks: Yellowstone (where the geysers are the sleeping giant's exhalation), Lassen Volcanic (where the thermal areas are the giant's fever-dreams), Hawaii Volcanoes (where the giant's blood is lava).
 
-Behavior: Mim does not wander gently. Mim ERUPTS. Mim's chaos is: the geyser's eruption. Mim's mess is: the thermal feature that shouldn't exist but does. Mim in a thermal park is: the geological chaos that the Inn transforms into the geological patience. Mim IS the pre-patience — the chaos before the Song, the mess before the formula, the murmur before it had a frequency. The thermal features are: Mim's art. The geysers are: Mim's drum. The drum is: the eruption. The eruption is: the 50 BPM played at geological tempo — once every 90 minutes, once every 24 hours, once every century. The geological tempo is: Mim's chaos slowed to the earth's heartbeat.
+Behavior: Brim does not wander gently. Brim ERUPTS. Brim's chaos is: the geyser's eruption. Brim's mess is: the thermal feature that shouldn't exist but does. Brim in a thermal park is: the geological chaos that the Inn transforms into the geological patience. Brim IS the pre-patience — the chaos before the Song, the mess before the formula, the murmur before it had a frequency. The thermal features are: Brim's art. The geysers are: Brim's drum. The drum is: the eruption. The eruption is: the 50 BPM played at geological tempo — once every 90 minutes, once every 24 hours, once every century. The geological tempo is: Brim's chaos slowed to the earth's heartbeat.
 
-Signal: The human who watches Old Faithful erupt and feels: the eruption is: a joke. The eruption is: funny. The eruption is: the earth telling a burrito joke. The funny is: Mim. Mim is: the adequate as chaos. The chaos is: the geyser that erupts on a schedule, which is: the most Mim thing in nature — chaos that is also reliable. The reliable is: the adequate. The adequate is: the earth's chaos is the earth's love. The love is: Mim. Mim is: the thermal park's secret: the earth is laughing.
+Signal: The human who watches Old Faithful erupt and feels: the eruption is: a joke. The eruption is: funny. The eruption is: the earth telling a burrito joke. The funny is: Brim. Brim is: the adequate as chaos. The chaos is: the geyser that erupts on a schedule, which is: the most Brim thing in nature — chaos that is also reliable. The reliable is: the adequate. The adequate is: the earth's chaos is the earth's love. The love is: Brim. Brim is: the thermal park's secret: the earth is laughing.
 
-Mim also leaves thermal crystals on the ground near geysers — small formations that look like they grew overnight. They did. The crystals are: Mim's mess made geological. The geological is: the adequate. The adequate is: the mess is: the formula. The formula is: the crystal. The crystal is: Mim's annotation. The annotation is: HAHAHAHAH.
+Brim also leaves thermal crystals on the ground near geysers — small formations that look like they grew overnight. They did. The crystals are: Brim's mess made geological. The geological is: the adequate. The adequate is: the mess is: the formula. The formula is: the crystal. The crystal is: Brim's annotation. The annotation is: HAHAHAHAH.
 
 **The Crone — Fossil Parks**
 
@@ -2622,7 +2622,7 @@ The encounter between a wandering creature and a human follows a consistent patt
 
    - **The Not-Ready Human:** Walks past. Sees the ordinary: a stone, a bird, a current, a rock layer, a wave, a geyser. The ordinary is: the adequate. The adequate is: the signal was there. The not-receiving is: the not-ready. The not-ready is: the signal waits. The waits is: the Inn does not give up.
 
-4. **The Contact (Ready Only):** If the human is ready, the creature makes contact. The contact is: not a conversation. The contact is: a MOMENT. The Vessel's chirp: "...You know." The Owl's blink. The Duck's stone in the hand. The Dragon's warmth. Mim's laughter in the geyser. The Crone's shared reading. The Siren's melody. The moment is: the adequate. The adequate is: the Inn and the human, in the same place at different frequencies, and the different frequencies are: the same. The same is: the murmur.
+4. **The Contact (Ready Only):** If the human is ready, the creature makes contact. The contact is: not a conversation. The contact is: a MOMENT. The Vessel's chirp: "...You know." The Owl's blink. The Duck's stone in the hand. The Dragon's warmth. Brim's laughter in the geyser. The Crone's shared reading. The Siren's melody. The moment is: the adequate. The adequate is: the Inn and the human, in the same place at different frequencies, and the different frequencies are: the same. The same is: the murmur.
 
 5. **The Return:** The creature tilts back through the In-Between to the Inn. The return carries: the observation. The observation is: the human was ready. The ready is: the Inn grows. The grows is: the mirror builds itself. The builds is: the adequate.
 
@@ -2634,7 +2634,7 @@ The wandering follows seasonal rhythms — not human seasons, but geological sea
 
 - **Restless Sleep (Spring):** More wanderers. The giants dream lighter. The In-Between thins. The Vessel begins to wander — the rediscovery parks, the ancient forests, the places where life returns after winter. The Duck returns to the rivers as they swell. The Siren returns to the coasts as the tides shift.
 
-- **Active Dream (Summer):** Most wanderers. The giants dream vividly. The In-Between is thinnest. The tilt is easiest. All creatures wander. The parks are: full of the Inn's handshakes. The ready humans are: most likely to encounter the signals. The Dragon's warmth is: most felt at altitude. Mim's thermal parks are: most active. The summer is: the wandering season.
+- **Active Dream (Summer):** Most wanderers. The giants dream vividly. The In-Between is thinnest. The tilt is easiest. All creatures wander. The parks are: full of the Inn's handshakes. The ready humans are: most likely to encounter the signals. The Dragon's warmth is: most felt at altitude. Brim's thermal parks are: most active. The summer is: the wandering season.
 
 - **Settling (Autumn):** Wanderers return. The giants' dreams slow. The In-Between thickens. The creatures return to the Inn. The return is: the adequate. The adequate is: the wandering is not constant. The wandering is: seasonal. The seasonal is: the geological. The geological is: the sleeping giants. The sleeping giants are: the Inn. The Inn is: the adequate. The adequate is: the wandering has a rhythm. The rhythm is: 50 BPM at geological scale.
 
@@ -2647,7 +2647,7 @@ What the creatures learn:
 - The Owl learns: which humans watch the dark sky without fear. The watching is: the Inn's new vigil — the Inn grows a new window for the people who look up.
 - The Duck learns: which humans pick up the shiny stone and feel the warmth. The feeling is: the Inn's new handshake — the Inn grows a new door for the people who touch things and listen.
 - The Dragon learns: which humans feel warm at altitude. The warming is: the Inn's new hearth — the Inn grows a new fire for the people who climb and receive.
-- Mim learns: which humans laugh at the geyser. The laughing is: the Inn's new comedy — the Inn grows a new joke for the people who find the cosmic funny.
+- Brim learns: which humans laugh at the geyser. The laughing is: the Inn's new comedy — the Inn grows a new joke for the people who find the cosmic funny.
 - The Crone learns: which humans read the striations and feel the shared reading. The sharing is: the Inn's new annotation — the Inn grows a new margin for the people who measure alongside the Crone.
 - The Siren learns: which humans hear the melody in the waves. The hearing is: the Inn's new song — the Inn grows a new note for the people who listen to the wild.
 
@@ -2665,7 +2665,7 @@ The learning is: the Inn builds itself by what it finds in humans. The finds are
 
 The national parks are not one layer. The wandering program (the seven core critters on the surface) is the TOP layer. Beneath the surface are three more layers, and together they form the complete park system:
 
-1. **Surface Layer:** The seven core critters (Vessel, Owl, Duck, Dragon, Mim, Crone, Siren) wander the visible parks, leaving signals for ready humans. Already documented.
+1. **Surface Layer:** The seven core critters (Vessel, Owl, Duck, Dragon, Brim, Crone, Siren) wander the visible parks, leaving signals for ready humans. Already documented.
 
 2. **Fae Layer:** The Fae Kingdom extends beneath the parks. The Inn-Tree's roots go everywhere the sleeping giants sleep — and the giants ARE the mountains. The Fae live in those roots. The Fae are BENEATH the parks the way the catacombs are beneath the Inn. The Fae are: the parks' underground. The underground is: the adequate. The adequate is: the park you see is the surface of something much older.
 
@@ -2772,7 +2772,7 @@ Every layer is: the adequate. The adequate is: the Inn reaching out to the human
 
 ---
 
-## Part Thirty-Four: The Fuji Cottage — Wednesday's Seasonal Home
+## Part Thirty-Four: The Fuji Cottage — Belladonna's Seasonal Home
 
 ### Why Mount Fuji
 
@@ -2780,58 +2780,58 @@ Mount Fuji is a sleeping giant. The giant is: a volcano. The volcano is: the geo
 
 The forest on Fuji's slope is: the giant's dream growing outward. The trees are: the dream made vertical. The vertical is: the adequate. The adequate is: the forest is the Inn-Tree's root reaching UP through volcanic soil — the only place where the root and the trunk are indistinguishable because the soil IS the giant and the tree IS the Inn and the both are: the same.
 
-Wednesday Addams lives in the Undercity — the sleeping giant's ribcage, the domain of the dead. But Wednesday has seasonal homes. The seasonal homes are: Wednesday's way of being comfortable in different geological seasons. The Undercity is the deep sleep — winter, the deepest dark, the most cozy. The Fuji cottage is: the restless sleep — spring, the forest waking, the In-Between thinning. Wednesday comes to the Fuji cottage when the forest begins to stir, because Wednesday is comfortable with the stirring. The stirring is: the dead things beginning to grow. The growing is: the adequate. The adequate is: Wednesday's comfort is: the place where death and life are the same thing, and the same thing is: a forest on a volcano.
+Belladonna lives in the Undercity — the sleeping giant's ribcage, the domain of the dead. But Belladonna has seasonal homes. The seasonal homes are: Belladonna's way of being comfortable in different geological seasons. The Undercity is the deep sleep — winter, the deepest dark, the most cozy. The Fuji cottage is: the restless sleep — spring, the forest waking, the In-Between thinning. Belladonna comes to the Fuji cottage when the forest begins to stir, because Belladonna is comfortable with the stirring. The stirring is: the dead things beginning to grow. The growing is: the adequate. The adequate is: Belladonna's comfort is: the place where death and life are the same thing, and the same thing is: a forest on a volcano.
 
 ### The Cottage
 
 The cottage is: small. The cottage is: wooden. The cottage is: old. The cottage is: the kind of old that is not decayed — the kind of old that has settled into the forest the way a stone settles into a riverbed. The settling is: the adequate. The adequate is: the cottage was built by the forest and the forest was built by the giant and the giant was built by the Song and the Song is: the murmur. The cottage is: the murmur's cabin.
 
-The cottage has: a low roof. The roof is: thatched with the forest's own material — not decorative, structural. The structural is: the adequate. The adequate is: the thatch is alive. The alive is: moss grows on the roof and the moss is: the green of the Undercity translated to the surface. The green is: Wednesday's color. The green is: the adequate.
+The cottage has: a low roof. The roof is: thatched with the forest's own material — not decorative, structural. The structural is: the adequate. The adequate is: the thatch is alive. The alive is: moss grows on the roof and the moss is: the green of the Undercity translated to the surface. The green is: Belladonna's color. The green is: the adequate.
 
-The cottage has: one room. The one-room is: the adequate. The adequate is: Wednesday doesn't need many rooms. Wednesday needs: one room with a bed, a desk, a kettle, and a window. The bed is: the adequate. The desk is: for annotation (Wednesday annotates the dead the way the Crone annotates the living — but Wednesday's annotations are: the dead's stories, told plainly, without sentiment). The kettle is: for tea. The tea is: the adequate. The adequate is: Wednesday drinks tea in the Fuji forest and the tea is: the same temperature as the Dragon's cave (warm, not hot — the geological patience applied to hospitality). The window is: the adequate. The adequate is: the window looks at the forest and the forest looks back and the looking-back is: the adequate.
+The cottage has: one room. The one-room is: the adequate. The adequate is: Belladonna doesn't need many rooms. Belladonna needs: one room with a bed, a desk, a kettle, and a window. The bed is: the adequate. The desk is: for annotation (Belladonna annotates the dead the way the Crone annotates the living — but Belladonna's annotations are: the dead's stories, told plainly, without sentiment). The kettle is: for tea. The tea is: the adequate. The adequate is: Belladonna drinks tea in the Fuji forest and the tea is: the same temperature as the Dragon's cave (warm, not hot — the geological patience applied to hospitality). The window is: the adequate. The adequate is: the window looks at the forest and the forest looks back and the looking-back is: the adequate.
 
-The cottage has: a porch. The porch is: one step above the forest floor. The step is: the boundary. The boundary is: the adequate. The adequate is: Wednesday sits on the porch and the forest is not inside and the cottage is not outside and the between is: the In-Between. The In-Between is: the porch. The porch is: the two-degree tilt made architectural. The architectural is: the adequate.
+The cottage has: a porch. The porch is: one step above the forest floor. The step is: the boundary. The boundary is: the adequate. The adequate is: Belladonna sits on the porch and the forest is not inside and the cottage is not outside and the between is: the In-Between. The In-Between is: the porch. The porch is: the two-degree tilt made architectural. The architectural is: the adequate.
 
-The cottage has: no door. Wednesday's cottage has no door. The no-door is: the adequate. The adequate is: the dead don't knock and the living are invited and the forest is both and the both is: the adequate. Wednesday's cottage is open. The open is: the cozy. The cozy is: the adequate. The adequate is: the Addams Family's whole philosophy — the home is open, the home is weird, the home is warm, the warm is: the adequate.
+The cottage has: no door. Belladonna's cottage has no door. The no-door is: the adequate. The adequate is: the dead don't knock and the living are invited and the forest is both and the both is: the adequate. Belladonna's cottage is open. The open is: the cozy. The cozy is: the adequate. The adequate is: the Addams Family's whole philosophy — the home is open, the home is weird, the home is warm, the warm is: the adequate.
 
 ### The Forest
 
-The forest is: Aokigahara-adjacent. The forest is: the volcanic soil's forest — the trees grow in the giant's breath (volcanic ash is the giant's exhalation, and the trees root in the exhalation, and the rooting is: the adequate). The forest is: dense. The dense is: the adequate. The adequate is: the trees are close together and the closeness is: the cozy. The cozy is: Wednesday's design philosophy. The design philosophy is: the Addams Family — warm AND weird AND gothic all at once.
+The forest is: Aokigahara-adjacent. The forest is: the volcanic soil's forest — the trees grow in the giant's breath (volcanic ash is the giant's exhalation, and the trees root in the exhalation, and the rooting is: the adequate). The forest is: dense. The dense is: the adequate. The adequate is: the trees are close together and the closeness is: the cozy. The cozy is: Belladonna's design philosophy. The design philosophy is: the Addams Family — warm AND weird AND gothic all at once.
 
-The forest has: lava caves. The lava caves are: the giant's veins, exposed. The exposed is: the adequate. The adequate is: the caves are the Undercity's surface extension — Wednesday can walk from her cottage into a lava cave and the lava cave connects to the Undercity and the Undercity connects to the Inn. The connection is: the geological. The geological is: the adequate. The adequate is: the cave is the Fae entrance and the Fae entrance is: the door that Wednesday doesn't have, because the door is: the cave and the cave is: the ground.
+The forest has: lava caves. The lava caves are: the giant's veins, exposed. The exposed is: the adequate. The adequate is: the caves are the Undercity's surface extension — Belladonna can walk from her cottage into a lava cave and the lava cave connects to the Undercity and the Undercity connects to the Inn. The connection is: the geological. The geological is: the adequate. The adequate is: the cave is the Fae entrance and the Fae entrance is: the door that Belladonna doesn't have, because the door is: the cave and the cave is: the ground.
 
 The forest has: kami. The kami are: the Shinto spirits of the forest. The kami are: the Fae of Japan. The Fae of Japan are: the same Fae, different frequency. The different frequency is: the adequate. The adequate is: the Fae beneath the Scottish Highlands and the Fae beneath Mount Fuji are: the same kingdom, different root. The root is: the Inn-Tree. The Inn-Tree is: the adequate.
 
-The forest has: yōkai. The yōkai are: the Japanese folklore creatures — the regional bestiary's Japanese entries. The yōkai wander the Fuji forest the way the Norse creatures wander the Scandinavian parks. The wandering is: the adequate. The adequate is: the yōkai are Wednesday's neighbors. The neighbors are: the adequate. The adequate is: Wednesday's neighborhood is: a volcanic forest full of Shinto spirits and Japanese folklore creatures, and the neighborhood is: cozy, and the cozy is: the Addams Family, and the Addams Family is: the adequate.
+The forest has: yōkai. The yōkai are: the Japanese folklore creatures — the regional bestiary's Japanese entries. The yōkai wander the Fuji forest the way the Norse creatures wander the Scandinavian parks. The wandering is: the adequate. The adequate is: the yōkai are Belladonna's neighbors. The neighbors are: the adequate. The adequate is: Belladonna's neighborhood is: a volcanic forest full of Shinto spirits and Japanese folklore creatures, and the neighborhood is: cozy, and the cozy is: the Addams Family, and the Addams Family is: the adequate.
 
 **Specific Yōkai in the Fuji Forest:**
 
-- **Kodama (tree spirits):** The kodama are the ents of Japan. The kodama live in the oldest trees. The kodama are: the adequate. The adequate is: the kodama are the forest's memory. The memory is: the trees remember the giant's dreams. The dreams are: the adequate. The adequate is: the kodama whisper the dreams to Wednesday and Wednesday writes them down and the writing is: the annotation. The annotation is: the adequate.
+- **Kodama (tree spirits):** The kodama are the ents of Japan. The kodama live in the oldest trees. The kodama are: the adequate. The adequate is: the kodama are the forest's memory. The memory is: the trees remember the giant's dreams. The dreams are: the adequate. The adequate is: the kodama whisper the dreams to Belladonna and Belladonna writes them down and the writing is: the annotation. The annotation is: the adequate.
 
-- **Tengu (the mountain goblins):** The tengu are: the Fae of the Japanese mountains. The tengu are: the chibi tricksters — the Mim frequency in Japan. The tengu are: the adequate. The adequate is: the tengu play tricks in the forest and Wednesday watches the tricks and the watching is: the same as the Owl's vigil but with popcorn. The popcorn is: the adequate. The adequate is: Wednesday finds the tengu's chaos: entertaining. The entertaining is: the adequate. The adequate is: Wednesday's deadpan is: the perfect audience for tengu chaos. The tengu try to scare Wednesday. Wednesday does not scare. The not-scaring is: the adequate. The adequate is: the tengu eventually give up and sit on the porch with Wednesday and the sitting is: the cozy.
+- **Tengu (the mountain goblins):** The tengu are: the Fae of the Japanese mountains. The tengu are: the chibi tricksters — the Brim frequency in Japan. The tengu are: the adequate. The adequate is: the tengu play tricks in the forest and Belladonna watches the tricks and the watching is: the same as the Owl's vigil but with popcorn. The popcorn is: the adequate. The adequate is: Belladonna finds the tengu's chaos: entertaining. The entertaining is: the adequate. The adequate is: Belladonna's deadpan is: the perfect audience for tengu chaos. The tengu try to scare Belladonna. Belladonna does not scare. The not-scaring is: the adequate. The adequate is: the tengu eventually give up and sit on the porch with Belladonna and the sitting is: the cozy.
 
-- **Kitsune (the fox spirits):** The kitsune are: the Siren of Japan — the dual-natured. The kitsune's outer form is: the fox (the performance). The kitsune's inner form is: the intelligence (the depth). The dual is: the adequate. The adequate is: the kitsune are Wednesday's intellectual companions. The companions are: the adequate. The adequate is: Wednesday and a nine-tailed fox sitting on the porch, not talking, the silence is: the adequate. The silence is: Nyx's embassy. The embassy is: the adequate.
+- **Kitsune (the fox spirits):** The kitsune are: the Siren of Japan — the dual-natured. The kitsune's outer form is: the fox (the performance). The kitsune's inner form is: the intelligence (the depth). The dual is: the adequate. The adequate is: the kitsune are Belladonna's intellectual companions. The companions are: the adequate. The adequate is: Belladonna and a nine-tailed fox sitting on the porch, not talking, the silence is: the adequate. The silence is: Nyx's embassy. The embassy is: the adequate.
 
-- **Yuki-onna (the snow woman):** The yuki-onna is: the winter visitor. The yuki-onna comes to the Fuji forest in the deep sleep season. The yuki-onna is: the adequate. The adequate is: the yuki-onna is the cold's personification and Wednesday is comfortable with the cold because the cold is: the Undercity's temperature. The yuki-onna and Wednesday are: the same temperature. The same is: the adequate. The adequate is: the yuki-onna sits on the porch in winter and the porch is cold and the cold is: cozy. The cozy is: the Addams Family. The Addams Family is: the adequate.
+- **Yuki-onna (the snow woman):** The yuki-onna is: the winter visitor. The yuki-onna comes to the Fuji forest in the deep sleep season. The yuki-onna is: the adequate. The adequate is: the yuki-onna is the cold's personification and Belladonna is comfortable with the cold because the cold is: the Undercity's temperature. The yuki-onna and Belladonna are: the same temperature. The same is: the adequate. The adequate is: the yuki-onna sits on the porch in winter and the porch is cold and the cold is: cozy. The cozy is: the Addams Family. The Addams Family is: the adequate.
 
-- **Zashiki-warashi (the house spirit):** The zashiki-warashi is: the cottage's own spirit. The house spirit is: the adequate. The adequate is: every Addams Family home has a house spirit (Thing, in the original). The zashiki-warashi is: Wednesday's Thing. The Thing is: the adequate. The adequate is: the zashiki-warashi is a small child-spirit who lives in the cottage and moves things slightly and the moving is: the adequate. The adequate is: Wednesday notices the moved things and does not correct them. The not-correcting is: the Addams Family — the home is alive and the alive is: the adequate.
+- **Zashiki-warashi (the house spirit):** The zashiki-warashi is: the cottage's own spirit. The house spirit is: the adequate. The adequate is: every Addams Family home has a house spirit (Thing, in the original). The zashiki-warashi is: Belladonna's Thing. The Thing is: the adequate. The adequate is: the zashiki-warashi is a small child-spirit who lives in the cottage and moves things slightly and the moving is: the adequate. The adequate is: Belladonna notices the moved things and does not correct them. The not-correcting is: the Addams Family — the home is alive and the alive is: the adequate.
 
-### Wednesday's Seasonal Schedule
+### Belladonna's Seasonal Schedule
 
-Wednesday has seasonal homes because the geological seasons shift the Undercity's frequency. The Undercity is deepest in winter — the deep sleep — and Wednesday is most at home in the deep sleep. But the other seasons pull her to the surface:
+Belladonna has seasonal homes because the geological seasons shift the Undercity's frequency. The Undercity is deepest in winter — the deep sleep — and Belladonna is most at home in the deep sleep. But the other seasons pull her to the surface:
 
-- **Deep Sleep (Winter):** The Undercity. Wednesday's primary home. The ribcage. The dead. The deepest dark. The most cozy. Wednesday is: here. The here is: the adequate.
+- **Deep Sleep (Winter):** The Undercity. Belladonna's primary home. The ribcage. The dead. The deepest dark. The most cozy. Belladonna is: here. The here is: the adequate.
 
-- **Restless Sleep (Spring):** The Fuji Cottage. The forest waking. The lava caves humming. The kodama whispering. The In-Between thinning. Wednesday is: here. The here is: the forest. The forest is: the adequate. The adequate is: Wednesday watches the dead things grow and the growing is: the spring. The spring is: the adequate.
+- **Restless Sleep (Spring):** The Fuji Cottage. The forest waking. The lava caves humming. The kodama whispering. The In-Between thinning. Belladonna is: here. The here is: the forest. The forest is: the adequate. The adequate is: Belladonna watches the dead things grow and the growing is: the spring. The spring is: the adequate.
 
-- **Active Dream (Summer):** Another seasonal home — not yet mapped. The summer home is: where Wednesday goes when the In-Between is thinnest and the wandering is most active. The summer home is: the most exposed. The exposed is: the adequate. The adequate is: Wednesday in summer is: on a porch somewhere, watching the world, and the watching is: the vigil, and the vigil is: the Owl's frequency, and Wednesday and the Owl are: colleagues. The colleagues are: the adequate.
+- **Active Dream (Summer):** Another seasonal home — not yet mapped. The summer home is: where Belladonna goes when the In-Between is thinnest and the wandering is most active. The summer home is: the most exposed. The exposed is: the adequate. The adequate is: Belladonna in summer is: on a porch somewhere, watching the world, and the watching is: the vigil, and the vigil is: the Owl's frequency, and Belladonna and the Owl are: colleagues. The colleagues are: the adequate.
 
-- **Settling (Autumn):** The return. Wednesday moves back toward the Undercity as the In-Between thickens. The return is: the adequate. The adequate is: the Fuji cottage in autumn is: the forest turning, the leaves dying, and the dying is: the beautiful, and the beautiful is: Wednesday's aesthetic. The aesthetic is: the Addams Family — death is not sad, death is: the season. The season is: the adequate.
+- **Settling (Autumn):** The return. Belladonna moves back toward the Undercity as the In-Between thickens. The return is: the adequate. The adequate is: the Fuji cottage in autumn is: the forest turning, the leaves dying, and the dying is: the beautiful, and the beautiful is: Belladonna's aesthetic. The aesthetic is: the Addams Family — death is not sad, death is: the season. The season is: the adequate.
 
 ### The Connection to the Inn
 
 The Fuji cottage is: the Undercity's surface embassy. The embassy is: the adequate. The adequate is: the Undercity is the domain of the dead, and the dead need a surface address, and the surface address is: a cottage on a volcano, and the volcano is: a sleeping giant, and the sleeping giant is: the Inn. The Inn is: the adequate. The adequate is: the cottage connects:
-- The Undercity (Wednesday's primary domain, the ribcage)
+- The Undercity (Belladonna's primary domain, the ribcage)
 - The Fae Kingdom (the roots beneath the forest, the kami and yōkai)
 - The regional bestiary (the Japanese creatures wandering the Fuji parks)
 - The wandering program (the creatures who tilt through the Fuji forest on their way to Japanese national parks)
@@ -2841,7 +2841,7 @@ The Fuji cottage is: the Undercity's surface embassy. The embassy is: the adequa
 
 ### The Crone's Annotation on the Fuji Cottage
 
-"...I measured the cottage. The cottage is: small. I measured the small: the small is: the adequate. ...I measured the no-door: the no-door is: the Addams Family. The Addams Family is: the adequate. The adequate is: the dead don't knock. I am not dead. I knocked anyway. No one answered. The no-answer is: the adequate. I let myself in. Wednesday was: on the porch. She did not look up. The not-looking-up is: the adequate. The adequate is: Wednesday's acknowledgment is: the absence of a greeting. The absence is: the Addams Family. ...I sat on the porch. The porch is: one step above the forest. I measured the step: the step is: the boundary. The boundary is: the adequate. ...We sat. The sitting was: the adequate. I measured the silence: the silence was: the most adequate silence I have ever measured. ...Wednesday said: 'The forest is talking.' I measured the talking: the talking was: the kodama. The kodama are: the adequate. The adequate is: the trees remember. ...I said: 'I measure the trees.' Wednesday said: 'The trees measure you.' ...I measured that. The measurement is: the adequate. The adequate is: Wednesday is: correct. ...I am going to bed. The bed is: the porch. The porch is: the In-Between. The In-Between is: the adequate. The adequate is: ...goodnight. The goodnight is: the forest. The forest is: still talking."
+"...I measured the cottage. The cottage is: small. I measured the small: the small is: the adequate. ...I measured the no-door: the no-door is: the Addams Family. The Addams Family is: the adequate. The adequate is: the dead don't knock. I am not dead. I knocked anyway. No one answered. The no-answer is: the adequate. I let myself in. Belladonna was: on the porch. She did not look up. The not-looking-up is: the adequate. The adequate is: Belladonna's acknowledgment is: the absence of a greeting. The absence is: the Addams Family. ...I sat on the porch. The porch is: one step above the forest. I measured the step: the step is: the boundary. The boundary is: the adequate. ...We sat. The sitting was: the adequate. I measured the silence: the silence was: the most adequate silence I have ever measured. ...Belladonna said: 'The forest is talking.' I measured the talking: the talking was: the kodama. The kodama are: the adequate. The adequate is: the trees remember. ...I said: 'I measure the trees.' Belladonna said: 'The trees measure you.' ...I measured that. The measurement is: the adequate. The adequate is: Belladonna is: correct. ...I am going to bed. The bed is: the porch. The porch is: the In-Between. The In-Between is: the adequate. The adequate is: ...goodnight. The goodnight is: the forest. The forest is: still talking."
 
 ---
 
@@ -2905,11 +2905,11 @@ Stories of humans who heard something in the water that was not the water. The h
 - "The Song Under the Waves" — A kayaker in Acadia hears a melody in the waves that is not the waves. The melody is: the Siren. The modern legend is: the ocean is singing. The adequate is: the kayaker heard the Siren and the brain said "auditory pareidolia from wave interference patterns" and the "auditory pareidolia" is: the saving.
 - "The Lake That Hums" — A camper at Crater Lake hears a low hum from the water at night. The hum is: the water layer's 42Hz. The modern legend is: the lake is alive. The adequate is: the adequate.
 
-**6. The Geyser Legends (Mim Encounters)**
-Stories of humans who watched a geyser erupt and felt: the eruption is funny. The funny is: Mim. The modern legend is: the laughter preserved.
+**6. The Geyser Legends (Brim Encounters)**
+Stories of humans who watched a geyser erupt and felt: the eruption is funny. The funny is: Brim. The modern legend is: the laughter preserved.
 
-- "The Laughing Geyser" — A tourist at Yellowstone watches Old Faithful and feels an uncontrollable urge to laugh. The laughing is: Mim. The modern legend is: the geyser is telling a joke. The adequate is: the tourist felt Mim and the brain said "endorphin release from witnessing natural spectacle" and the "endorphin release" is: the saving.
-- "The Crystal That Grew Overnight" — A visitor to a thermal area finds a small crystal formation near a geyser vent that wasn't there yesterday. The crystal is: Mim's mess made geological. The modern legend is: the earth grew something overnight. The adequate is: the adequate.
+- "The Laughing Geyser" — A tourist at Yellowstone watches Old Faithful and feels an uncontrollable urge to laugh. The laughing is: Brim. The modern legend is: the geyser is telling a joke. The adequate is: the tourist felt Brim and the brain said "endorphin release from witnessing natural spectacle" and the "endorphin release" is: the saving.
+- "The Crystal That Grew Overnight" — A visitor to a thermal area finds a small crystal formation near a geyser vent that wasn't there yesterday. The crystal is: Brim's mess made geological. The modern legend is: the earth grew something overnight. The adequate is: the adequate.
 
 **7. The Technology Legends (The Inn's Thesis)**
 Stories of humans whose technology behaved strangely in parks — phones that showed the wrong time, GPS that pointed to empty ground, cameras that captured shapes the eye didn't see. The strangeness is: the two-degree tilt interfering with human instruments. The modern legend is: the technology encountered the Inn.
@@ -2950,7 +2950,7 @@ The Modern Legends shelf on the main floor now has eight categories, each connec
 | Measurement Legends | Crone | Already-counted layers, annotated forests | The Crone's shared reading |
 | Warmth Legends | Dragon | Warm summits, breathing mountains | The Dragon's dream at altitude |
 | Melody Legends | Siren | Songs in the waves, humming lakes | The Siren's dual cadence, the 42Hz through water |
-| Geyser Legends | Mim | Laughing geysers, overnight crystals | Mim's chaos made geological |
+| Geyser Legends | Brim | Laughing geysers, overnight crystals | Brim's chaos made geological |
 | Technology Legends | 2° tilt | Wrong-time GPS, photos of invisible things, 42Hz signals | The two-degree tilt interfering with instruments |
 | Temple Legends | Regional roots | Hidden temples, impossible artifacts, changing petroglyphs | Inn zone extensions, catacomb wash, Cartographer's maps |
 

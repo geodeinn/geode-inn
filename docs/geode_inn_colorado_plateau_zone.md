@@ -1,7 +1,7 @@
 # Geode Inn — The Colorado Plateau: "The Sculpture"
 ## Zone: National Park — The Colorado Plateau (Arizona/Utah/New Mexico/Colorado)
 ## Access: Main Floor → World Map → Colorado Plateau pin
-## Prerequisite: Mediterranean Zone Quest 5 (Beorn's border crossing)
+## Prerequisite: Mediterranean Zone Quest 5 (The Bearsark's border crossing)
 
 ### Overview
 

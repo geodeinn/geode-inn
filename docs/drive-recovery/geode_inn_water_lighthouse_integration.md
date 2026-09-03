@@ -203,7 +203,7 @@ Every layer shifts dramatically depending on **Persephone’s Presence** (High T
   * **Arwe** (*Ethiopia*): Ancient abyssal serpent of prophecy; guards the deep descent to Layer 6.
   * **Umibozu** (*Japan*): Enormous ink-black shadowy giant rising from the depths to engulf submersibles in liquid darkness.
   * **Ninki Nanka** (*Gambia*): Dragon-crocodile hybrid with a mirror gaze that causes instant madness if looked in the eye without Bifocal Gaze.
-  * **Cthulhu the Scholar** (*Miskatonic Annex / Abyssal Portal*): 4-foot spectacles-wearing squid scholar who sits near deep hydrothermal vents, granting rare book quests.
+  * **Naut the Scholar** (*Miskatonic Annex / Abyssal Portal*): 4-foot spectacles-wearing squid scholar who sits near deep hydrothermal vents, granting rare book quests.
 * **Lighthouse Crowd Dynamics:**
   * **The Owl:** Uses deep-water sonar charts to track titan movements.
   * **The Pirate:** The 50 BPM drum beat is the player's panic meter anchor—matching your breath to the drum prevents abyssal pressure madness.
@@ -468,7 +468,7 @@ Taught to the player by Persephone, **Bifocal Gaze** is both a lore concept and 
 | **2. Shallows** | Weathered Coastal | Wading / Diving | Submerged Ruins, Swimming | Exposed Barnacled Corridors | Kelpie, Iara, Afanc, Adaro |
 | **3. Tidal Caves** | Wyndham Lewis Vorticist | Fluid / Gear Puzzles | Hydro-Jet Torrent Navigation | Exposed Basalt Gear Chambers | Bunyip, Taniwha, Lindwurm |
 | **4. Atlantis** | Luis Royo Dark Gothic | Mineral Tech / Zero-G | City Awakens, Powered Spires | Silt Sleep, Archive Basements | Mami Wata, Bakunawa, Grootslang |
-| **5. Abyssal** | Luminous Shadow Ink | High-Pressure Survival | Leviathans Rise, Ink Dark | Vents Flare, Trench Gateway | Mokele-mbembe, Ningen, Cthulhu |
+| **5. Abyssal** | Luminous Shadow Ink | High-Pressure Survival | Leviathans Rise, Ink Dark | Vents Flare, Trench Gateway | Mokele-mbembe, Ningen, Naut |
 | **6. Underworld** | Black Marble Harbor | Obol Trade / Rest | Harbor Fills, Persephone Present | Charon Ferry Docks, Low Pier | Jormungandr, Leviathan, Kraken |
 | **7. Stone Circle** | Megalithic Root | 42Hz Acoustic Tuning | Submerged Piezoluminescent Standing Wave | Exposed Stone Circle, Cosmic Egg | Cosmic Egg Guardian, Murmur |
 

@@ -547,8 +547,8 @@ This document contains detailed character animation prompts for all characters r
 
 ---
 
-### 13. Water Monster 7: Cthulhu's Deep-Water Form (Eldritch Archon)
-- **Subject Name:** Cthulhu (Deep Water Form)
+### 13. Water Monster 7: Naut's Deep-Water Form (Eldritch Archon)
+- **Subject Name:** Naut (Deep Water Form)
 - **Visual Description:** An eldritch giant combining octopus tentacles, dragon wings, and human anatomy. Lurks in the deepest trench, shrouded in non-Euclidean shadow geometries.
 - **Linework Style:** Soft flowing lines combined with Fragmented linework on shifting wings.
 - **Color Palette:** Void black, deep eldritch green, and maddening violet light.

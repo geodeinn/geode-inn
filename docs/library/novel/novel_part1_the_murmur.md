@@ -323,4 +323,4 @@ And the 42Hz Song hummed, and the 50 BPM pulse thumped, and the stones in the wa
 
 **Word count: ~5,200**
 
-*Part Two: The Main Floor — next: the Crone measures, the Catalyst pulls stories, the arcade opens fully, the brownies in their mischief, Mim and the sentient pipe, the Reader's single line, the Archive and Beverley, the marketplace, the music room, and the staircase appears.*
+*Part Two: The Main Floor — next: the Crone measures, the Catalyst pulls stories, the arcade opens fully, the brownies in their mischief, Brim and the sentient pipe, the Reader's single line, the Archive and Beverley, the marketplace, the music room, and the staircase appears.*

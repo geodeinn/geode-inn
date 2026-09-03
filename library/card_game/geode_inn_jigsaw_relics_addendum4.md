@@ -105,7 +105,7 @@
 ---
 
 ### 20. The Miskatonic Annex — Watching Pieces
-**Zone:** Miskatonic Annex (Lovecraftian, Rousseau aesthetic, Cthulhu the Scholar's domain)
+**Zone:** Miskatonic Annex (Lovecraftian, Rousseau aesthetic, Naut the Scholar's domain)
 **The Mechanic:** Pieces move when you're not looking at them. You place a piece, look away to grab the next one, and the first piece has shifted. The horror isn't a monster — it's that the puzzle is aware of you.
 
 **Details:**

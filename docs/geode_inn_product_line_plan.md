@@ -99,7 +99,7 @@ The taxonomy is named. The narrative scene — Einstein watching, the grief and 
 - The Crone measures. The Catalyst pulls stories. The Firekeeper tells them.
 - The arcade — first games, first stones collected
 - The brownies — Brindle, Cobble, Thatch. Tumble getting stuck.
-- Mim and Monsieur Sentient. The Magritte paradox.
+- Brim and Monsieur Sentient. The Magritte paradox.
 - The Reader in the window-seat nook. One line.
 - The Archive. Beverley. The Teacher. The Cartographer.
 - The marketplace — Soulstice Jewelry, the artisans, the zone vendors
@@ -386,7 +386,7 @@ Not an audiobook. An audio experience. The Inn's voice placement system — ever
 ## Why This Is Now Possible
 
 The voice placement infrastructure is complete:
-- **Regional Voice Profiles:** Every NPC mapped to a real-world accent (Selkie=Irish, Cartographer=Dutch, Norns=Icelandic, Thorin=Swedish/Skarsgard, Oceanianoir=French, Mim=Belgian, Fixer=Welsh, Teacher=Canadian, Beverley=Australian)
+- **Regional Voice Profiles:** Every NPC mapped to a real-world accent (Selkie=Irish, Cartographer=Dutch, Norns=Icelandic, Thorin=Swedish/Skarsgard, Oceanianoir=French, Brim=Belgian, Fixer=Welsh, Teacher=Canadian, Beverley=Australian)
 - **Idiom Atlas:** 13 cultural expressions mapped to characters — idioms that ground dialogue in real speech patterns
 - **Character Cadences:** Specific speech patterns defined — Beverley (Anne Robinson clipped precision), Joe (Tom Ellis Lucifer smooth), The Reader (Gaiman cadence, one line per visit), The Teacher (Kathy Bates three modes), The Firekeeper (Tim Curry theatrical), The Catalyst (Helena Bonham Carter intimate)
 - **The 50 BPM Tempo:** The Inn's heartbeat tempo — the production's baseline rhythm
@@ -407,7 +407,7 @@ The voice placement infrastructure is complete:
   - The Teacher: Kathy Bates — warm (Fried Green Tomatoes) shifting to cold (Misery) to rare horror (AHS)
   - The Cartographer: Dutch accent, fast-talking, mind racing
   - The Reader: Gaiman cadence — quiet, one line, no rush
-  - Mim: Belgian accent, witchy, playful
+  - Brim: Belgian accent, witchy, playful
   - Monsieur Sentient: the pipe — a reedy, resonant voice, slightly amused
   - The Wanderer: warm traveler, walking cadence
   - The Allfather: stillness. Silence. Then one word.
@@ -503,7 +503,7 @@ The critical innovation: the podcast's audio IS the game's audio. They are the s
 Each episode's story takes place in a specific Inn location. The ambient game audio for that room plays underneath the narration — the same soundtrack the player hears while standing in that room in the game. The rooms overlap:
 
 - **The Archive:** Parchment rustling, distant turning of pages, Beverley's footsteps echoing on stone, the low hum of organized knowledge. The 42Hz tone barely perceptible.
-- **The Main Floor:** The 50 BPM heartbeat sub-bass, the crackle of the fireplace, the brownies' coconut shells clattering in the distance, Mim's cauldron bubbling, the arcade machines' tones blending with the Music Room's compositions drifting through the warm air.
+- **The Main Floor:** The 50 BPM heartbeat sub-bass, the crackle of the fireplace, the brownies' coconut shells clattering in the distance, Brim's cauldron bubbling, the arcade machines' tones blending with the Music Room's compositions drifting through the warm air.
 - **The Catacombs:** Deep stone resonance, dripping water, the Bosch shadow frequencies (42Hz murmur, 64Hz isolation, 111Hz breathing), Charon's oar in the underground river, the echo that takes three seconds to return.
 - **The Staircase:** The ascending musical semitone — each step up is a half-step higher. Glass armonica, flute, harp. The Retort's equipment humming. Bloop purring.
 - **Canopy City:** Wind through leaves, the 50 BPM sway of the platforms, rope bridges creaking, the Cartographer's rapid footsteps, the Duck's splashing in the canopy pond.
@@ -611,7 +611,7 @@ A collectible card game where every NPC is a card, every zone is a board, every 
 Full spec: geode_inn_card_game_spec.md
 
 ## Key Features
-- 12 base heroes (The Host, The Crone, The Firekeeper, The Catalyst, The Astronomer, The Constant, Mim, The Selkie, The Pirate, The Siren, The Morrigan, The Allfather) + 12 unlockable expansion heroes
+- 12 base heroes (The Host, The Crone, The Firekeeper, The Catalyst, The Astronomer, The Constant, Brim, The Selkie, The Pirate, The Siren, The Morrigan, The Allfather) + 12 unlockable expansion heroes
 - 6 card types: Stone cards (198), Minion cards (all NPCs), Spell cards (frequency-based), Charm cards (118 element charms), Gargoyle cards (6 persistent board effects), Pet cards (Tumble, the Duck, the Cabbit, Bloop, Huginn/Muninn)
 - 37 zone-based boards, each with its artist style and ambient audio
 - The frequency system as core mechanic: 42Hz (growth), 84Hz (petrify), 111Hz (scry), In-Between (shift)

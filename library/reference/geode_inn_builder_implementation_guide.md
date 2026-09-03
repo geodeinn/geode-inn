@@ -103,7 +103,7 @@ The Geode Inn main floor page needs the following HTML structure:
        data-wander-bounds='{"x":0,"y":0,"width":600,"height":400}'>
   </div>
   
-  <!-- Cthulhu the Scholar (hidden in stacks) -->
+  <!-- Naut the Scholar (hidden in stacks) -->
   <div class="npc-cthulhu"
        data-geode-sprite="/sprites/cthulhu.png"
        data-geode-preset="seated">
@@ -387,7 +387,7 @@ The Geode Inn main floor page needs the following HTML structure:
        data-geode-preset="standing">
   </div>
   
-  <!-- The Keeper (Aughra) -->
+  <!-- The Keeper (Fibonacci) -->
   <div class="npc-keeper"
        data-geode-sprite="/sprites/keeper.png"
        data-geode-preset="standing">
@@ -713,7 +713,7 @@ The Geode Inn main floor page needs the following HTML structure:
 
 ```html
 <div class="geode-camelot">
-  <!-- Madame Mim (mid-transformation) -->
+  <!-- Brim (mid-transformation) -->
   <div class="npc-madame-mim"
        data-geode-sprite="/sprites/madame_mim.png"
        data-geode-preset="standing">
@@ -725,7 +725,7 @@ The Geode Inn main floor page needs the following HTML structure:
        data-geode-preset="seated">
   </div>
   
-  <!-- Archimedes the owl -->
+  <!-- Noctua the owl -->
   <div class="npc-archimedes geode-hover"
        data-geode-sprite="/sprites/archimedes.png"
        data-geode-preset="small"

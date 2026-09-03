@@ -208,50 +208,50 @@ The third pitcher is the last one. The Bard knows this. The hall is empty except
 
 ---
 
-## 5. Aughra's Root Decoction — "The Voice of the Rocks"
+## 5. Fibonacci's Root Decoction — "The Voice of the Rocks"
 
 ### The Setting
 
-Deep Forest. The Moss Nook. Aughra's kettle hangs over a fire that burns without wood — it burns on root, on the buried memory of trees that fell centuries ago and are still warm underground.
+Deep Forest. The Moss Nook. Fibonacci's kettle hangs over a fire that burns without wood — it burns on root, on the buried memory of trees that fell centuries ago and are still warm underground.
 
-Aughra is old in the way that mountains are old — not decrepit, not faded. Present. Dense. The kind of old that makes new things feel temporary by comparison.
+Fibonacci is old in the way that mountains are old — not decrepit, not faded. Present. Dense. The kind of old that makes new things feel temporary by comparison.
 
 ### Tier 1: Acquaintance (1-2 Rounds)
 
-The decoction is boiled dark. Aughra ladles it into a wooden bowl that has been hollowed by use, not carved. The bowl fits the hand because the hand made it fit, over years.
+The decoction is boiled dark. Fibonacci ladles it into a wooden bowl that has been hollowed by use, not carved. The bowl fits the hand because the hand made it fit, over years.
 
-**Aughra:** "Sit. You're standing too fast for the drink. This one doesn't rush. It's root and moss and pine and the kind of earth that takes six thousand years to make one inch of topsoil. You drink this, you're drinking patience. Not your patience — the world's."
+**Fibonacci:** "Sit. You're standing too fast for the drink. This one doesn't rush. It's root and moss and pine and the kind of earth that takes six thousand years to make one inch of topsoil. You drink this, you're drinking patience. Not your patience — the world's."
 
 *The taste is forest floor. Bitter licorice. Pine needle. The feeling of standing in old woods after rain.*
 
-**Aughra:** "The Carrying — you know about the Carrying? No? Good. Knowing about it ruins it. The Carrying is a walk. That's all. You carry something from one place to another. The trick is you don't know what you're carrying. You find out at the end. Some people carry grief. Some carry a name they forgot. Some carry a seed they don't recognize until it's planted. The decoction helps you hear the thing you're carrying. It doesn't tell you what it is. It just makes it louder. So you can't ignore it anymore."
+**Fibonacci:** "The Carrying — you know about the Carrying? No? Good. Knowing about it ruins it. The Carrying is a walk. That's all. You carry something from one place to another. The trick is you don't know what you're carrying. You find out at the end. Some people carry grief. Some carry a name they forgot. Some carry a seed they don't recognize until it's planted. The decoction helps you hear the thing you're carrying. It doesn't tell you what it is. It just makes it louder. So you can't ignore it anymore."
 
 ### Tier 2: Companion (3-5 Rounds)
 
-The second bowl is poured from lower in the kettle — thicker, darker, more sediment. Aughra sits cross-legged on the moss and indicates the ground beside.
+The second bowl is poured from lower in the kettle — thicker, darker, more sediment. Fibonacci sits cross-legged on the moss and indicates the ground beside.
 
-**Aughra:** "The rocks talk. Everyone in the Inn knows this in their bones, but most people don't know it in their ears. The decoction moves the knowing from the bones to the ears. You'll hear it soon. Not words — not yet. Frequencies. The stones vibrate at different pitches depending on how old they are and what they've seen. Quartz that's been near water hums differently than quartz that's been near fire. Granite that's been walked on sings differently than granite that's been buried. The stones are telling you their resume. Their work history. What they've done with their time."
+**Fibonacci:** "The rocks talk. Everyone in the Inn knows this in their bones, but most people don't know it in their ears. The decoction moves the knowing from the bones to the ears. You'll hear it soon. Not words — not yet. Frequencies. The stones vibrate at different pitches depending on how old they are and what they've seen. Quartz that's been near water hums differently than quartz that's been near fire. Granite that's been walked on sings differently than granite that's been buried. The stones are telling you their resume. Their work history. What they've done with their time."
 
 **Player dialogue branch:**
 - *"What do the stones say about the Inn?"*
 - *"Can you hear them without the drink?"*
 - *"What am I carrying?"*
 
-**Aughra (if "what am I carrying"):** "If I told you, you'd put it down. The whole point of the Carrying is that you don't know. You hold it gently because it might be fragile. You hold it firmly because it might be important. You hold it close because it might be yours. The not-knowing is the care. The care is the carrying. The carrying is the quest. I'm not going to break the quest to save you the walk."
+**Fibonacci (if "what am I carrying"):** "If I told you, you'd put it down. The whole point of the Carrying is that you don't know. You hold it gently because it might be fragile. You hold it firmly because it might be important. You hold it close because it might be yours. The not-knowing is the care. The care is the carrying. The carrying is the quest. I'm not going to break the quest to save you the walk."
 
 ### Tier 3: Confidant (6-9 Rounds)
 
-The third bowl is the last in the kettle. Aughra scrapes the bottom. The liquid is almost black — the color of deep earth, of the place where roots become rock.
+The third bowl is the last in the kettle. Fibonacci scrapes the bottom. The liquid is almost black — the color of deep earth, of the place where roots become rock.
 
-**Aughra:** "I've been in this forest since before the Inn was a ship. Before it was a book. Before it was a thought. I was here when it was just ground. Just stone. Just the 42Hz Song, humming through bedrock, with nothing on top of it. The Inn was built on the song. Not on the stone — on what the stone was singing. The song came first. Everything else is architecture."
+**Fibonacci:** "I've been in this forest since before the Inn was a ship. Before it was a book. Before it was a thought. I was here when it was just ground. Just stone. Just the 42Hz Song, humming through bedrock, with nothing on top of it. The Inn was built on the song. Not on the stone — on what the stone was singing. The song came first. Everything else is architecture."
 
-*Aughra sets the bowl down. Places both hands on the ground. The moss vibrates.*
+*Fibonacci sets the bowl down. Places both hands on the ground. The moss vibrates.*
 
-**Aughra:** "You want to hear the oldest sound in the Inn? The sound the rocks make when no one is listening? Drink the last of this. Put your hands on the ground. Close your eyes. And stop trying to hear it. The sound is already there. It's been there since before you were born. It will be there after the Inn is gone. The sound is the Inn's foundation, and the foundation is not stone. The foundation is vibration. The foundation is a song that something started singing a very long time ago, and never stopped."
+**Fibonacci:** "You want to hear the oldest sound in the Inn? The sound the rocks make when no one is listening? Drink the last of this. Put your hands on the ground. Close your eyes. And stop trying to hear it. The sound is already there. It's been there since before you were born. It will be there after the Inn is gone. The sound is the Inn's foundation, and the foundation is not stone. The foundation is vibration. The foundation is a song that something started singing a very long time ago, and never stopped."
 
 *The bowl is empty. The ground is warm. The sound is there.*
 
-**Aughra:** "Now you know. The Inn is not a building. The Inn is a note. Everything else — the walls, the floors, the bar, the drinks, the people — is harmonics. Overtones. Resonance. The note is the only permanent thing. The note is what you're carrying. Don't put it down."
+**Fibonacci:** "Now you know. The Inn is not a building. The Inn is a note. Everything else — the walls, the floors, the bar, the drinks, the people — is harmonics. Overtones. Resonance. The note is the only permanent thing. The note is what you're carrying. Don't put it down."
 
 ---
 
@@ -289,7 +289,7 @@ The drink is never the point. The drink is the key. The conversation is the room
 - Fae Nectar of Summerland (Fae Kingdom)
 - Black-Star Coffee Brew (Cosmic Layer)
 - Brownie's Spiced Cider (Main Floor / Common)
-- Cthulhu's Elder Bitters (Archive / Void)
+- Naut's Elder Bitters (Archive / Void)
 - Einstein's Relativity Stout (Council of Thinkers)
 - Morrigan's Raven Tonic (Celtic Shadow)
 - Gorgon's Stone-Bloom Mead (Gorgon's Garden)

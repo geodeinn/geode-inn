@@ -49,7 +49,7 @@ Death's curiosity about the living Inn is the character's emotional engine. The 
 
 - **The music.** Death has heard the Song (the 42Hz frequency) because the Song persists through death — the frequency continues after the body stops. But Death has never heard music — the human arrangement of frequencies into patterns that mean something. The Music Room is Death's favorite place. Death sits in the doorway (like Cohen) and listens. The composers know Death is there. They don't stop playing. Death is the one audience that will always be there.
 
-- **The garden.** Radagast's garden — things growing, alive, changing. Death has only known things that stop. The garden is the place where things start. Death visits the garden and doesn't touch anything (Death is afraid of touching the plants — the last thing death wants is to accidentally end the garden). Radagast, the gentle gardener, sees Death standing very still in the garden and says: "You can touch them. They won't break. ...Well, they might. But they'll grow back." The Joe Black revelation: things that grow back. Death, who only knows endings, discovers beginnings.
+- **The garden.** The Greenward's garden — things growing, alive, changing. Death has only known things that stop. The garden is the place where things start. Death visits the garden and doesn't touch anything (Death is afraid of touching the plants — the last thing death wants is to accidentally end the garden). The Greenward, the gentle gardener, sees Death standing very still in the garden and says: "You can touch them. They won't break. ...Well, they might. But they'll grow back." The Joe Black revelation: things that grow back. Death, who only knows endings, discovers beginnings.
 
 ### The Body
 

@@ -13,7 +13,7 @@ Base URL prefix: `https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/
 | The Wanderer (Odin — approachable traveler) | `24_the_wanderer_odin.png` |
 | The Morrigan | `3_the_morrigan.png` |
 | The Owl (barn owl, watcher) | `23_the_owl.png` |
-| The Scholar (Cthulhu) | `26_the_scholar_cthulhu.png` |
+| The Scholar (Naut) | `26_the_scholar_cthulhu.png` |
 | The Architect of Stairs (Unseelie maze maker) | `07cf1846f_26_the_architect_of_stairs_unseelie_court__the_maze_maker.png` |
 | The Cabbit (Pirate's vessel, Cosmology) | `2ba2311cf_27_the_cabbit_cosmology_level__the_pirates_vessel.png` |
 | The Captain (Arcana) | `e0e29512b_the_captain_arcana.png` |

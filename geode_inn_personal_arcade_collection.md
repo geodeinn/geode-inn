@@ -428,7 +428,7 @@ Navigate the Catacombs' archive corridors. Collect knowledge fragments (pellets)
   - Level 1: a small book (the Inn's founding story)
   - Level 2: a scroll (the 42Hz discovery)
   - Level 3: a grimoire (the alchemical texts)
-  - Level 4: the Necronomicon (Cthulhu's reading)
+  - Level 4: the Necronomicon (Naut's reading)
   - Level 5: the player's own book ("The Player Who Stayed")
 - 255 levels (the original's 256th level is the kill screen — here, Level 256 is the Shadow Inn's Archive, where the maze is gold and the creatures are frozen. The "kill screen" becomes the Shadow Inn — the game completes itself)
 - Speed: increases with each level. The Catacombs' 84hz heartbeat accelerates

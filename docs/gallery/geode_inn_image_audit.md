@@ -223,10 +223,10 @@ Archive the others (don't delete — they may be useful as Shadow or In-Between 
 
 ### Step 2: Rename Old Character Names
 Update all filenames to current canonical names:
-- Madame Mim → Brim
+- Mim → Brim
 - Jareth → Malachi
-- Uhtred → Waystone
-- Wednesday → Belladonna
+- The Wayfarer → Waystone
+- Belladonna → Belladonna
 - The Sentinel / River Sentinel → Lozen
 
 ### Step 3: Identify Crew Members

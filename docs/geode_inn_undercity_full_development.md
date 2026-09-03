@@ -72,7 +72,7 @@ The Shadow Choir has no dialogue. But other characters describe it:
 
 **The Clockmaker:** "...The choir is a frequency I cannot replicate mechanically. ...I have tried. ...The Master Clock includes a choir simulation — twelve brass resonators tuned to the stone harmonics. ...It is close. ...It is not the same. ...The difference is: my resonators play the note. ...The roots ARE the note. ...I cannot build 'being.' ...I can only build 'doing.' ...The choir is being."
 
-**The Keeper (Aughra):** "...The Shadow Choir was here before the Blacksmith, before the Clockmaker, before the Undercity had a floor. ...It's the tree breathing. ...You can hear it because the tree is alive and the stone is hollow and the space between them vibrates. ...That's all it is. ...That's all anything is. ...The space between two things vibrating."
+**The Keeper (Fibonacci):** "...The Shadow Choir was here before the Blacksmith, before the Clockmaker, before the Undercity had a floor. ...It's the tree breathing. ...You can hear it because the tree is alive and the stone is hollow and the space between them vibrates. ...That's all it is. ...That's all anything is. ...The space between two things vibrating."
 
 ---
 

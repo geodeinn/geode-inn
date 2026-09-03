@@ -22,7 +22,7 @@ const ZONES := {
 		"size": Vector2i(32, 20),
 		"bg_color": Color(0.08, 0.06, 0.04, 1),
 		"accent": Color(0.78, 0.66, 0.30, 1),  # Antiqued gold
-		"npcs": ["Beverley", "Briar Nightbloom", "Mim", "Lark"],
+		"npcs": ["Beverley", "Briar Nightbloom", "Brim", "Lark"],
 		"stones": ["Amethyst", "Clear Quartz", "Rose Quartz"],
 		"corridors": {"north": "cosmology", "south": "staircase", "east": "archive", "west": "campgrounds"},
 		"music": "main_floor",

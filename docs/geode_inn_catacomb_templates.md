@@ -35,7 +35,7 @@ The Retort, upon discovering the deep lab and the alchemical canals, would have 
 
 ### The Deep Lab and the Staircase
 
-The deep lab is the catacombs' alchemical heart. The staircase (where the Retort, the Cook, the Thrum, and the philosophers work) is the CURRENT alchemical facility. The deep lab is the ORIGINAL — the workspace of the first practitioners, the ancestors of the Aughra lineage, the beings who did the first alchemical work in the Inn's history.
+The deep lab is the catacombs' alchemical heart. The staircase (where the Retort, the Cook, the Thrum, and the philosophers work) is the CURRENT alchemical facility. The deep lab is the ORIGINAL — the workspace of the first practitioners, the ancestors of the Fibonacci lineage, the beings who did the first alchemical work in the Inn's history.
 
 The connection between the deep lab and the staircase:
 - The deep lab is the ROOT. The staircase is the TRUNK. The deep lab is where the work began. The staircase is where the work continued. The deep lab is the origin. The staircase is the tradition.

@@ -136,10 +136,10 @@ Authored by Krista & Elio, this master storyline establishes the foundational na
 ### *Campaign Narrative — All Storylines, All Fates, All Facets*
 
 #### Executive Summary & Core Concept
-The Campaign Narrative details the complete narrative arc from "Prologue: The Murmur" through Act One and beyond. It establishes the primordial state before frequency—the Murmur (0Hz hum)—which was condensed into the Cosmic Egg. It frames The Constant as an ancient Annunaki carrier holding a 41.7Hz starlight crystal from a previous universal cycle, walking alongside Nyx (the void). Main Floor residents (The Crone, The Catalyst, Madame Mim, The Arcade, The Thrum, The Brownies, The Ents) interact within this cosmic framework.
+The Campaign Narrative details the complete narrative arc from "Prologue: The Murmur" through Act One and beyond. It establishes the primordial state before frequency—the Murmur (0Hz hum)—which was condensed into the Cosmic Egg. It frames The Constant as an ancient Annunaki carrier holding a 41.7Hz starlight crystal from a previous universal cycle, walking alongside Nyx (the void). Main Floor residents (The Crone, The Catalyst, Brim, The Arcade, The Thrum, The Brownies, The Ents) interact within this cosmic framework.
 
 #### 1. Shadow Inn State (84Hz)
-- **84Hz Inversion:** During the Shadow Campaign phase, The Murmur amplifies into an 84Hz carrier wave. Main Floor NPCs reveal their Shadow aspects: The Crone becomes the Weaver of Fate, The Catalyst becomes the Void Alchemist, and Madame Mim's parlor morphs into a dark mirror cabinet of temporal paradoxes.
+- **84Hz Inversion:** During the Shadow Campaign phase, The Murmur amplifies into an 84Hz carrier wave. Main Floor NPCs reveal their Shadow aspects: The Crone becomes the Weaver of Fate, The Catalyst becomes the Void Alchemist, and Brim's parlor morphs into a dark mirror cabinet of temporal paradoxes.
 - **Visual Shift (Klimt+Royo):** The warm, amber-lit hearth of the Main Floor transforms into a Klimt-gold motif fractured by Royo dark velvet shadows, silver tendon weaves, and glowing purple geode fissures.
 - **Gameplay Shift:** Dialogue choices invert—players must speak in counter-cadence to Shadow NPCs to balance their frequency alignment and extract critical endgame lore.
 
@@ -150,7 +150,7 @@ The Campaign Narrative details the complete narrative arc from "Prologue: The Mu
 
 #### 3. Sound Profile
 - **Frequencies:** 0Hz sub-bass Murmur; 41.7Hz Constant starlight frequency; 42Hz living Inn chime; 84Hz Shadow campaign drone.
-- **Acoustics:** Soft crackle of hearth wood, low brass drones during Constant monologues, glass chime echoes when interacting with Madame Mim's arcana cards.
+- **Acoustics:** Soft crackle of hearth wood, low brass drones during Constant monologues, glass chime echoes when interacting with Brim's arcana cards.
 - **Vocal Layer:** The Constant's measured, chill, timeless voice paired with The Crone's crackling rhythmic refrain: *"The both are: the adequate..."*
 
 #### 4. Cross-System Integration

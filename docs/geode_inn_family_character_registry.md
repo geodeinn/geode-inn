@@ -25,7 +25,7 @@ At his center, the Bard is an endlessly loyal, encouraging mentor who sees poten
 ### Relationships
 * **The Librarian Crone (Inta — Wife):** The core romantic dynamic of the Inn. They eloped 60+ years ago and have argued passionately ever since. They bicker constantly over details versus feelings—he is always wrong about the facts and right about the spirit, while she is always right about the facts and concedes the spirit. He calls her by her real name, "Inta," only when completely serious; when he does, the room stops.
 * **The Artisan Thief (Krista — Daughter):** Father and daughter. He is loud, outgoing, and sells things; she is quiet, internal, and makes things. He loves her across the gap between making and selling.
-* **The Tinkering Weeaboo (Grandchild):** Doting grandfather who uses relentless, warm humor as a protocol to coax the child back during Level 4 Ryuk meltdowns.
+* **The Tinkering Weeaboo (Grandchild):** Doting grandfather who uses relentless, warm humor as a protocol to coax the child back during Level 4 True Form meltdowns.
 * **The Chameleon Druid (Charles — Son-in-Law):** Calls him "Charlie" with fond warmth. He loves telling grand, wildly inaccurate stories about Charles's shapeshifting feats.
 * **The Pirate (Zee — Son-in-Law & Best Friend):** His absolute best friend on the dock. The ultimate pairing of theoretical questions and empirical world data.
 
@@ -149,36 +149,36 @@ A core playable starting class in the Festival questline, illustrating that true
 
 * **Character Name & Class:** The Tinkering Weeaboo / Changeling
 * **Real-World Family Member:** Krista's Kid
-* **Casting & Actor Inspirations:** Ryuk from *Death Note* (for true/annoyed forms: tall, elongated, wiry build, wide multi-toothed grin, bright amber/yellow eyes, long multi-jointed fingers, feathery dark hair).
+* **Casting & Actor Inspirations:** True Form from *Death Note* (for true/annoyed forms: tall, elongated, wiry build, wide multi-toothed grin, bright amber/yellow eyes, long multi-jointed fingers, feathery dark hair).
 
 ### Core Personality
 The Tinkering Weeaboo is a Fae changeling who was left in a human family and realized that human technology and machines are far more fascinating than three hundred years of boring Fae grass. Brilliant, hyperfocused, and possessing high dexterity and intelligence, she regularly goes down twelve-hour learning rabbit holes, dismantling and re-engineering arcade cabinets, clockwork mechanisms, and portal machinery.
 
 Her baseline body exists in a state called "Static Metamorphosis" (Level 0). This settled, permanent form resulted from a halted physical transition—lanky, sharp-jawed, deep-voiced, and large-handed—representing the kid's chosen, settled identity. However, she possesses low emotional tolerance, which functions as an in-game shapeshifting mechanic called the "Annoyance Meter."
 
-As frustration or sensory overload mounts, her body stretches toward her Ryuk form. Mild annoyance lengthens her fingers and brightens her eyes; full anger transforms her into a tall, yellow-eyed shinigami whose multi-jointed fingers can manipulate three tools at once and apply wild Fae engineering principles. While Level 3 Ryuk shifts make her ultra-competent at fixing complex machines, collapsing back to Level 0 leaves her utterly exhausted.
+As frustration or sensory overload mounts, her body stretches toward her True Form. Mild annoyance lengthens her fingers and brightens her eyes; full anger transforms her into a tall, yellow-eyed shinigami whose multi-jointed fingers can manipulate three tools at once and apply wild Fae engineering principles. While Level 3 True Form shifts make her ultra-competent at fixing complex machines, collapsing back to Level 0 leaves her utterly exhausted.
 
 ### Key Abilities & Gameplay Mechanics
-* **Annoyance Meter & Ryuk Transformation (Levels 0–4):**
+* **Annoyance Meter & True Form Transformation (Levels 0–4):**
   * *Level 0 (Static Metamorphosis):* Default home form; sharp focus, precise tinkering.
   * *Level 1 (The Slip):* Fingers lengthen, eyes glint yellow; clock speed and repair rate increase.
   * *Level 2 (The Crack):* Grin widens uncanny amounts; aggressive high-speed teardowns.
-  * *Level 3 (Full Ryuk):* Full tall shinigami form; multi-jointed fingers work three tools simultaneously using non-standard Fae logic.
+  * *Level 3 (Full True Form):* Full tall shinigami form; multi-jointed fingers work three tools simultaneously using non-standard Fae logic.
   * *Level 4 (Fracture):* Rare meltdown where form fractures across multiple shapes; requires family intervention protocols to stabilize.
-* **Tinker & See (Ryuk Vision):** Sees the internal structural points of failure in any machine and reverse-engineers them into upgraded, slightly unsettling hybrids.
+* **Tinker & See (True Form Vision):** Sees the internal structural points of failure in any machine and reverse-engineers them into upgraded, slightly unsettling hybrids.
 * **Compulsive Pomegranate Consumption:** Eats pomegranates compulsively while tinkering, staining her fingers red—a nod to Persephone, underworld cycles, and hyperfocused focus.
 
 ### Relationships
 * **The Artisan Thief (Krista — Mother):** Mother and child. Bound by their shared choice of physical form. Her mother provides heavy, unchanging stones during Level 4 meltdowns.
 * **The Chameleon Druid (Charles — Father):** Father and child. He uses his shifting abilities to match her form during Level 4 meltdowns so she never changes alone.
 * **The Librarian Crone (Grandmother):** Recognized the changeling nature immediately. Enforces the "eat something / pomegranates" and steady reading protocol during meltdowns.
-* **The Bard Blowhard (Grandfather):** Doting grandfather who uses relentless, silly jokes to shrink the Ryuk grin back to normal size.
-* **Cthulhu:** Mutual respect between two dark-dwelling, scholarly outsiders who appreciate quiet spaces.
+* **The Bard Blowhard (Grandfather):** Doting grandfather who uses relentless, silly jokes to shrink the True Form grin back to normal size.
+* **Naut:** Mutual respect between two dark-dwelling, scholarly outsiders who appreciate quiet spaces.
 
 ### Notable Dialogue & Voice Samples
 1. *"The Fae Kingdom is three hundred years of shiny grass and poetry. Humans have arcade cabinets and soldering irons. Why would anyone stay in the grass?"*
 2. *(Level 1 Annoyed):* *"I don't need help. I need a smaller screwdriver, a higher clock speed, and for people to stop asking me if I've eaten."*
-3. *(To Cthulhu, showing her Ryuk form):* *"You're welcome."*
+3. *(To Naut, showing her True Form):* *"You're welcome."*
 
 ### Important Lore Connections
 Connects directly to the Inn's Japanese cultural zone (kami, yokai, shinigami, mecha), arcade cabinet modifications, and the underworld reincarnation cycle through pomegranate consumption.
@@ -243,7 +243,7 @@ In the Inn, he acts as the world map navigator, trader, smuggler, and rhythmic h
 * **The Siren (Wife):** Married to the Siren. He fell in love with the lonely singer behind the voice, and survived her song through total personal honesty.
 * **The Bard Blowhard (Father-in-Law & Best Friend):** Absolute best friends. They form an extroverted duo on the dock, combining the Bard's wild questions with the Pirate's empirical world discoveries, backed by lute and drum sessions.
 * **The Artisan Thief (Krista — Sister-in-Law):** Water-creature bond and trade partner; he brings rare minerals from far zones for her jewelry bench.
-* **Cthulhu & Miskatonic Annex:** Respects classified lore and rare texts without prying into dangerous secrets.
+* **Naut & Miskatonic Annex:** Respects classified lore and rare texts without prying into dangerous secrets.
 
 ### Notable Dialogue & Voice Samples
 1. *"The registry doesn't show who I am. It shows who held the coat before me. The coat has been a lot of places. I just keep time."*

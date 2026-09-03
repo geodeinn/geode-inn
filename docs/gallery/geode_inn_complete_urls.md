@@ -83,7 +83,7 @@
 | Odin the Allfather | https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/748c2a91f_odin_allfather.png |
 | The Fixer (Wrought) | https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/4aeeacaad_the_fixer_wrought.png |
 | The Ceiling Gnome | https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/e3823af66_the_ceiling_gnome.png |
-| The Keeper (Aughra) | https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/91552e330_the_keeper_aughra.png |
+| The Keeper (Fibonacci) | https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/91552e330_the_keeper_aughra.png |
 | Naut (Scholar) | https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/3250d6d38_naut_the_scholar.png |
 | Beverley the Librarian | https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/e0cfef846_beverley_librarian.png |
 | The Owl | https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/0b60b8460_the_owl.png |
@@ -93,12 +93,12 @@
 | Hades | https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/5f2730455_hades_v2.png |
 | Charon | https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/f8cd64464_charon_v2.png |
 | The Guest (Death) | https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/1bbf5d607_the_guest_death_v2.png |
-| Madame Mim (Brim) | https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/3579d1a39_madame_mim.png |
-| Merlin/Archimedes | https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/a6f168534_merlin_archimedes.png |
+| Brim (Brim) | https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/3579d1a39_madame_mim.png |
+| Merlin/Noctua | https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/a6f168534_merlin_archimedes.png |
 | Thorin | https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/91c858ca2_thorin_v3.png |
 | Marijke | https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/b6f85756a_marijke.png |
 | The Pirate | https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/7b2ab100f_the_pirate_v2.png |
-| The Gardener (Radagast) | https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/f45453707_the_gardener_radagast_v2.png |
+| The Gardener (The Greenward) | https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/f45453707_the_gardener_radagast_v2.png |
 | The Astronomer | https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/f67ee3759_the_astronomer_v2.png |
 | Hel | https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/ca65ce3c9_hel_v2.png |
 | Seelie King | https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/f4ad9f2b8_seelie_king_v2.png |

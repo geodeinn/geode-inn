@@ -1,7 +1,7 @@
 # Geode Inn — The Appalachian Range: "The Five Layers"
 ## Zone: National Park — The Appalachian Range (Eastern North America)
 ## Access: Main Floor → World Map → Appalachian Range pin
-## Prerequisite: Mediterranean Zone Quest 5 (Beorn's border crossing)
+## Prerequisite: Mediterranean Zone Quest 5 (The Bearsark's border crossing)
 
 ### Overview
 

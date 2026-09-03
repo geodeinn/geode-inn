@@ -161,7 +161,7 @@ Thalia is the person the philosophers walk past. She walks back. She sells the t
 
 She was exiled for being too practical. Not formally — the Mediterranean zone doesn't exile. But the philosophers talk about the life of the mind, and Thalia lives the life of the market, and the gap between mind and market is the same gap the philosophers describe — the gap between the Form and the object. Thalia IS the object. The philosophers are the Form. Thalia left because being the object in a culture of Forms is like being the shadow on the Cave wall — real, present, and ignored.
 
-**Sells:** Greek amphorae (quest items for the labyrinth zone), laurel wreaths, olive oil (a restorative — the Mediterranean equivalent of Dushan's birch-bark tea), and — from a small, unassuming stall at the back of her platform — items from the Miskatonic Annex: out-of-print books, rare manuscripts, scholarly oddities that Cthulhu's quest line recovers.
+**Sells:** Greek amphorae (quest items for the labyrinth zone), laurel wreaths, olive oil (a restorative — the Mediterranean equivalent of Dushan's birch-bark tea), and — from a small, unassuming stall at the back of her platform — items from the Miskatonic Annex: out-of-print books, rare manuscripts, scholarly oddities that Naut's quest line recovers.
 
 **Personality:** Sharp, practical, a trader's wit. She's the fastest negotiator in the city. She can close a deal in three sentences. She's also the city's information broker — the one who knows what's selling, who's buying, and what's coming down the Silk Road next. Her information is for sale, but the currency is stories, not stones. Tell Thalia a story she hasn't heard, and she'll tell you what the market is doing.
 

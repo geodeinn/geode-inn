@@ -106,7 +106,7 @@ The player offers something from their inventory to the thing. Not all things ac
   - **Erik** accepts mead, firewood, and good stories. Rejects nothing — Erik accepts everything with the same warmth. The warmth is: the adequate.
   - **The Crone** accepts nothing. The Crone needs nothing. The refusal is: the adequate. (Exception: Leonard Cohen's "Hallelujah" — the Crone asks to hear it again. The asking is: the first thing the Crone has ever asked for.)
   - **The Duck** accepts shiny things. The Duck will take anything shiny and add it to the collection. The Duck doesn't differentiate between a diamond and a bottle cap. The not-differentiating is: the adequate.
-  - **Cthulhu** accepts rare books. The scholar doesn't want treasure — the scholar wants reading material. Offering a rare book unlocks hidden quests.
+  - **Naut** accepts rare books. The scholar doesn't want treasure — the scholar wants reading material. Offering a rare book unlocks hidden quests.
   - **Belladonna** accepts bones, dried flowers, and dark humor. The last one isn't an item — it's a dialogue option. Belladonna accepts dark humor as currency. The deadpan is: the payment.
   - **The Guest** accepts nothing material. The Guest accepts: time. Offering time (waiting with the Guest) is the only gift Death wants. The time is: the adequate.
 - **Stones:** Offering a stone to another stone can create a resonance pair — two stones that harmonize. Offering a stone to a building material can reinforce the structure. Offering a stone to water changes the water's frequency.

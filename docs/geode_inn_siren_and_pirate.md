@@ -21,7 +21,7 @@ Fiercely loyal. Never forgets. The Siren's song carries everything — every tru
 
 A siren. In Greek mythology, sirens are creatures whose song lures sailors to their deaths on rocky shores. The voice is the power — irresistible, beautiful, dangerous. Odysseus had himself tied to his mast to survive them. Orpheus out-sang them. They are the original warning about the danger of beauty.
 
-But the Inn strips terrifying figures to their honest core. The Morrigan is a washerwoman. Charon is a ferryman. Cthulhu is a scholar with spectacles. Cerberus is a dog named Spot.
+But the Inn strips terrifying figures to their honest core. The Morrigan is a washerwoman. Charon is a ferryman. Naut is a scholar with spectacles. Cerberus is a dog named Spot.
 
 The Siren is not a monster. The Siren is a *musician.*
 
@@ -102,7 +102,7 @@ The Pirate has a past. The past is the map with blank spaces — the parts of th
 The Pirate doesn't talk about the past. Not because he's hiding it — because he's *carrying* it. The past is the weight. The weight is part of what made him honest enough to survive the Siren's song. You can't survive truth if you haven't already faced your own. The Pirate faced his own — in the blank spaces, in the uncharted waters, in the things that make authority defer without knowing why. He went to the dark places. He came back. And the coming-back is what makes him a wonderful soul — not the absence of darkness, but the choice to be kind after seeing it.
 
 The past connects to:
-- **The Miskatonic Annex:** The Pirate has been to some of the places the lost books describe. He doesn't say which ones. Cthulhu has asked. The Pirate smiled and changed the subject. Cthulhu respected this. The spectacles stayed on.
+- **The Miskatonic Annex:** The Pirate has been to some of the places the lost books describe. He doesn't say which ones. Naut has asked. The Pirate smiled and changed the subject. Naut respected this. The spectacles stayed on.
 - **The Uncharted Zones:** The world map has blank spaces — zones that haven't been explored by players. The Pirate has been to some of them. He knows routes that don't appear on any chart. He won't take you there unless you're ready, and readiness, for the Pirate, is not a level requirement. Readiness is a conversation. The Pirate reads you the way the Siren reads readiness — by listening to what you're not saying.
 - **The Cop Deferral:** In the Inn, this becomes the Harbor Master Effect. When the Pirate's ship docks at any port — any zone, any region — the local authority scans the registry and something comes back that makes them step back. The Pirate thanks them and moves on. Whatever's in the registry, it's above their clearance. The Pirate was something, once. The something is classified. The something doesn't define him now. He's a drummer now. He's a wonderful soul now. The past is the shadow that gives the present its depth.
 

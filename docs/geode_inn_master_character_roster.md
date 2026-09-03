@@ -33,7 +33,7 @@ This is the coinciding master list — every character, creature, and artifact c
 | 26 | The Fixer (Wrought) | Repairs everything | the_fixer_wrought.png | ✅ Uploaded |
 | 27 | The Cook | Kitchen master | the_cook_v2.png | ✅ npc_remaining |
 | 28 | Joe | Miniaturist, paints dragon kittens | joe_miniaturist_ingame.png | ✅ Uploaded |
-| 29 | Mim/Brim | Pipe smoker (formerly Madame Mim) | madame_mim.png | ✅ npc_remaining |
+| 29 | Brim | Pipe smoker (formerly Mim) | madame_mim.png | ✅ npc_remaining |
 | 30 | Monsieur Sentient | Sentient pipe (Magritte) | magrittes_pipe.png | ✅ npc_remaining |
 | 31 | The Weaver | Textiles, tapestries | the_weaver.png | ✅ npc_remaining |
 | 32 | The Examiner | Fragment 849 quest chain | the_examiner_v2.png | ✅ npc_remaining |
@@ -84,16 +84,16 @@ This is the coinciding master list — every character, creature, and artifact c
 | # | Character | Role | Image | Status |
 |---|-----------|------|-------|--------|
 | 63 | King Arthur (Elder) | Aged king | king_arthur_elder.png | ✅ npc_remaining |
-| 64 | Merlin & Archimedes | Wizard + owl familiar | merlin_archimedes.png | ✅ npc_remaining |
+| 64 | Merlin & Noctua | Wizard + owl familiar | merlin_archimedes.png | ✅ npc_remaining |
 | 65 | Thorin | Dwarf craftsman | thorin_v3.png | ✅ npc_remaining |
-| 66 | Uhtred | Saxon warrior | uhtred_v2.png | ✅ npc_remaining |
+| 66 | The Wayfarer (formerly Uhtred) | Saxon warrior, walks between zones | uhtred_v2.png | ✅ npc_remaining |
 | 67 | Oceanianoir | Knight concept | jaime_concept_art_final.png | ✅ npc_remaining |
 
 ## 1G. Cultural Zone Characters
 | # | Character | Role | Image | Status |
 |---|-----------|------|-------|--------|
-| 68 | Beorn | Skin-changer | beorn.png | ✅ npc_remaining |
-| 69 | Belladonna | Poison Garden matron | belladonna_v2.png | ✅ npc_remaining |
+| 68 | The Bearsark (formerly Beorn) | Skin-changer | beorn.png | ✅ npc_remaining |
+| 69 | Belladonna (formerly Wednesday Addams) | Undercity host, Poison Garden matron, city-of-the-dead guide | belladonna_v2.png | ✅ npc_remaining |
 | 70 | Marijke | Bone Room keeper | marijke.png | ✅ npc_remaining |
 | 71 | Mason | Stoneworker, cave builder | mason.png | ✅ npc_remaining |
 | 72 | Miracle Max | Healer | miracle_max_ingame.png | ✅ npc_remaining |
@@ -147,14 +147,14 @@ This is the coinciding master list — every character, creature, and artifact c
 | 100 | The Vessel (Gecko) | Living vessel, carries resonance | the_vessel_gecko.png | ✅ npc_remaining |
 | 101 | The Captain (Arcana) | Tarot-connected | the_captain_arcana.png | ✅ npc_remaining |
 | 102 | The Pirate (Inigo) | After-quest pirate | the_pirate_v2.png | ✅ Uploaded |
-| 103 | The Gardener (Radagast) | Nature keeper | the_gardener_radagast_v2.png | ✅ Uploaded |
-| 104 | The Keeper (Aughra) | Collects planetseed pods | the_keeper_aughra.png | ✅ Uploaded |
+| 103 | The Gardener (The Greenward, formerly Radagast) | Nature keeper | the_gardener_radagast_v2.png | ✅ Uploaded |
+| 104 | The Keeper (Fibonacci, formerly Aughra) | Collects planetseed pods, reads the spiral patterns | the_keeper_aughra.png | ✅ Uploaded |
 | 105 | The Siren | Water zone singer | the_siren_v2.png | ✅ npc_remaining |
 | 106 | The Retort | Alchemical figure | the_retort_v2.png | ✅ npc_remaining |
-| 107 | Wednesday Addams | Goth character | wednesday_addams.png | ✅ npc_remaining |
+| 107 | ~~Belladonna (duplicate)~~ → merged into #69 | — | wednesday_addams.png (legacy asset) | merged |
 | 108 | Tinkering Weeaboo | Tinkerer | tinkering_weeaboo.png | ✅ npc_remaining |
 | 109 | The Ceiling Gnome | Gesso gnome, Whisper Layer | gesso_ceiling_gnome.png | ✅ npc_remaining |
-| 110 | Naut (Scholar) | Formerly Cthulhu, squid-headed scholar | naut_the_scholar.png | ✅ Uploaded |
+| 110 | Naut the Scholar (formerly Cthulhu) | Squid-headed scholar, Archive keeper | naut_the_scholar.png | ✅ Uploaded |
 | 111 | Eileen | Character | eileen.png | ✅ Uploaded |
 | 112 | The Figure in Fog | Mysterious shrouded figure | figure_in_fog.png | ✅ npc_remaining |
 

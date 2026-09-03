@@ -151,26 +151,26 @@ The Crone has the most complete analysis of Anubis's methodology of anyone in th
 
 The Crone's notebook entry on Anubis: "...The Weigher operates on a binary system: light or heavy. ...Pass or devoured. ...The binary is honest but insufficient. ...A heart is not a coin. ...A heart has chambers. ...Each chamber holds a different weight. ...The warrior who fought bravely but loved poorly — is that heart light or heavy? ...Anubis would say: the scale decides. ...I would say: the scale is a tool, and tools measure what they are built to measure, and the heart is built to hold more than any scale can weigh. ...But. ...[the Crone pause, the one that means she's about to concede something] ...his scale has been right more often than my analysis. ...Five thousand years of data. ...I cannot argue with the dataset. ...Note: approach the Weigher with respect. ...Do not argue methodology. ...He will win. ...He always wins. ...The feather always wins."
 
-**Cthulhu:**
-Cthulhu and Anubis have the most unlikely friendship in the Inn. Cthulhu is a cosmic horror from beyond the stars. Anubis is a god who has been on earth since before the pyramids. They should have nothing to say to each other. They have *everything* to say to each other.
+**Naut:**
+Naut and Anubis have the most unlikely friendship in the Inn. Naut is a cosmic horror from beyond the stars. Anubis is a god who has been on earth since before the pyramids. They should have nothing to say to each other. They have *everything* to say to each other.
 
-Cthulhu, spectacles on, the Oldman whisper, to Anubis during one of their late-night conversations in the Annex: "...You weigh the heart against the feather. ...The feather is Ma'at. ...Ma'at is order. ...Order is the thing the universe imposes on chaos. ...I AM chaos. ...I am the thing the feather measures against. ...I am the weight that makes the feather necessary."
+Naut, spectacles on, the Oldman whisper, to Anubis during one of their late-night conversations in the Annex: "...You weigh the heart against the feather. ...The feather is Ma'at. ...Ma'at is order. ...Order is the thing the universe imposes on chaos. ...I AM chaos. ...I am the thing the feather measures against. ...I am the weight that makes the feather necessary."
 
-Anubis, the warm voice, the desert-night tone: "...You're not chaos. ...You're the *unknown.* ...Chaos is disorder. ...The unknown is just... the not-yet-known. ...The feather doesn't weigh chaos, Cthulhu. ...The feather weighs *honesty.* ...Are you honest? ...Yes. ...Painfully, theatrically, obsessively honest. ...Your heart, if I weighed it, would be... [the crinkle, the rare humor] ...lighter than you think."
+Anubis, the warm voice, the desert-night tone: "...You're not chaos. ...You're the *unknown.* ...Chaos is disorder. ...The unknown is just... the not-yet-known. ...The feather doesn't weigh chaos, Naut. ...The feather weighs *honesty.* ...Are you honest? ...Yes. ...Painfully, theatrically, obsessively honest. ...Your heart, if I weighed it, would be... [the crinkle, the rare humor] ...lighter than you think."
 
-Cthulhu — the spectacles coming off. The Rush shift. The full-body theatrical reaction: "LIGHTER?! ...I am a COSMIC HORROR! ...I am the THING IN THE DARK! ...I am the DREAM THAT WAKES THE MAD! ...My heart should be the HEAVIEST THING ON ANY SCALE—"
+Naut — the spectacles coming off. The Rush shift. The full-body theatrical reaction: "LIGHTER?! ...I am a COSMIC HORROR! ...I am the THING IN THE DARK! ...I am the DREAM THAT WAKES THE MAD! ...My heart should be the HEAVIEST THING ON ANY SCALE—"
 
 Anubis, calm, warm, immovable: "...Heavy hearts are dishonest hearts. ...Hearts that hoard what isn't theirs. ...Hearts that pretend to be what they're not. ...You don't hoard. ...You don't pretend. ...You wear spectacles and read books and get annoyed when people mishandle them. ...That's not heavy. ...That's... [the crinkle, the full crinkle, the one that lasts longer than usual because the Jackal is genuinely amused] ...that's a librarian with tentacles."
 
-Cthulhu — the spectacles go back on. The Oldman stillness returns. The whisper: "...I hate you."
+Naut — the spectacles go back on. The Oldman stillness returns. The whisper: "...I hate you."
 
 Anubis: "...No, you don't."
 
-Cthulhu: "...No, I don't. ...Don't tell anyone."
+Naut: "...No, I don't. ...Don't tell anyone."
 
 Anubis: "...The Crone already knows."
 
-Cthulhu: "...The Crone always already knows. ...That's the *real* cosmic horror."
+Naut: "...The Crone always already knows. ...That's the *real* cosmic horror."
 
 **The Host:**
 The Host and Anubis have a quiet, formal respect. The Host welcomes the living. Anubis guides the dead. The Host's domain is the main floor — warmth, fire, belonging. Anubis's domain is the Hall — truth, scales, crossing. They don't overlap. They don't need to. The Host doesn't go to the Hall. Anubis doesn't come to the fire. But the Host, when a player dies and returns, is the first face the player sees on the new cycle. And the Host's nod — the small, acknowledging nod that says *you're back, you're welcome, you're safe* — is the Host's version of Anubis's weighing. The Host weighs nothing. The Host judges nothing. The Host just says: *come in. The fire is still going. You made it back.* And the making-it-back is the Anubis verdict made visible: your heart was light enough. You crossed. You're here. The fire is still going.

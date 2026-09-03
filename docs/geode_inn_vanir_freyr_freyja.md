@@ -60,7 +60,7 @@ Freyr's Garden is also the BRIDGE to the Fae Kingdom. The roots of the garden's 
 - **Freyja:** The twins. The oldest bond. Freyr is the steady one — the golden hour, the warmth, the growth. Freyja is the dynamic one — the duality, the storm, the choice. Together they are the complete Vanir: the power that grows (Freyr) and the power that transforms (Freyja).
 - **The Fae Kingdom:** The Vanir are the original Fae. Freyr's light is the Seelie Court's light. The Seelie Court grows because Freyr's garden feeds it from above.
 - **The Arcana (Clockwork Skies):** Skíðblaðnir is the Arcana's mythological ancestor. The folding ship that predates clockwork. Freyr would visit the Arcana if it docked at the Canopy City — Freyr visits everything that grows, and the Arcana's crew is a kind of garden.
-- **Radagast (gardener):** Radagast is the gardener rival to the Catalyst. Freyr is the gardener god. Radagast tends a garden that is a reflection of Freyr's. The rivalries among gardeners are the most ancient rivalries in the Inn.
+- **The Greenward (gardener):** The Greenward is the gardener rival to the Catalyst. Freyr is the gardener god. The Greenward tends a garden that is a reflection of Freyr's. The rivalries among gardeners are the most ancient rivalries in the Inn.
 
 ### Quest Hook — "The Sword That Fights Itself"
 
@@ -186,7 +186,7 @@ Freyja's Seiðr
 Freyr's Light
 ├── The Fae Kingdom (Seelie = Freyr's golden half)
 ├── The Arcana (Skíðblaðnir is the mythological ancestor)
-├── Radagast's Garden (reflection of Freyr's Garden)
+├── The Greenward's Garden (reflection of Freyr's Garden)
 ├── The Campgrounds (the Ren Faire exterior — growth and abundance)
 ├── The Pure-Hearted (the innocent power archetype echoes Freyr's strength)
 └── The Golden Hour (the light that changes — the only moving light in the Cosmology level)

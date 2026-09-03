@@ -43,7 +43,7 @@ The player who has completed the tessellation work (achieved the Reunion) arrive
 
 ## THE KEEPER CONNECTION
 
-The Keeper (Aughra) gave her eye to hear the Song. The crystal eye is a piece of the Singing Tree — before it was a tree, when it was a crystal in the ground.
+The Keeper (Fibonacci) gave her eye to hear the Song. The crystal eye is a piece of the Singing Tree — before it was a tree, when it was a crystal in the ground.
 
 **Where did the crystal come from?**
 

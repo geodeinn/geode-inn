@@ -125,7 +125,7 @@ The Shadow state shatters the Meadery's smooth daily progression into an intense
 # 3. THE MISKATONIC ANNEX (`geode_inn_miskatonic_annex.md`)
 
 ### Living Inn Architectural & Narrative Summary
-Located quietly on the Inn grounds, the Miskatonic Annex is an aggressively unremarkable single-story brick building covered in ivy. Behind its unmarked wooden door lies a vast subterranean research archive housing the Lost Books Collection (out-of-print books with unique mythologies), the Voynich Manuscript study room, the Necronomicon myth catalog, a long oak reading room, and an ageless, unnamed Librarian dedicated to anonymous scholarship. Cthulhu frequents the fire nearby as a distinct entity.
+Located quietly on the Inn grounds, the Miskatonic Annex is an aggressively unremarkable single-story brick building covered in ivy. Behind its unmarked wooden door lies a vast subterranean research archive housing the Lost Books Collection (out-of-print books with unique mythologies), the Voynich Manuscript study room, the Necronomicon myth catalog, a long oak reading room, and an ageless, unnamed Librarian dedicated to anonymous scholarship. Naut frequents the fire nearby as a distinct entity.
 
 ---
 
@@ -154,7 +154,7 @@ In the Shadow state, the unassuming exterior wall collapses outward into a tower
 
 ### (3) Endgame Connections
 * **Level 1 Cosmological Layer:** Direct archival pipeline supplying planetary prison frameworks (Christopher Pike's *Season of Passage*) to the Astronomer's mind palace.
-* **Council of Thinkers:** Cthulhu's research findings from the Annex feed into the Council's cosmic defense strategies.
+* **Council of Thinkers:** Naut's research findings from the Annex feed into the Council's cosmic defense strategies.
 * **Silica Thread Archive:** The Annex's cataloging methodology provides the indexing schema for all 168 mineral entries across the Inn.
 
 ---
@@ -168,7 +168,7 @@ In the Shadow state, the unassuming exterior wall collapses outward into a tower
 
 ### (5) Cross-System Integration
 * **Card Catalog UI:** Functions as a global cross-reference system for item templates and mineral charm properties.
-* **Voynich Room & Cthulhu:** Companion Cthulhu provides cipher decoding buffs when brought into the Annex.
+* **Voynich Room & Naut:** Companion Naut provides cipher decoding buffs when brought into the Annex.
 * **Gargoyle Sage (528 Hz):** Deployed to accelerate research decoding speeds during archival quests.
 * **Tabletop DM Walkthrough:** Reads Crone annotations and catalog notes verbatim during exploration.
 
@@ -177,7 +177,7 @@ In the Shadow state, the unassuming exterior wall collapses outward into a tower
 # 4. MISKATONIC ANNEX STORYLINES (`geode_inn_miskatonic_annex_storylines.md`)
 
 ### Living Inn Architectural & Narrative Summary
-Documents the Annex's three active narrative layers: (1) The Lost Books Chain (Cthulhu's riddle-quests retrieving texts like Christopher Pike's *Season of Passage*, *The Listeners*, and *The Starlight Crystal* across zones), (2) The Research Threads (scholarly investigation of Voynich, Necronomicon myth, and Mars prison cosmologies), and (3) The Librarian's Secret (the mystery of the ageless, unnamed librarian).
+Documents the Annex's three active narrative layers: (1) The Lost Books Chain (Naut's riddle-quests retrieving texts like Christopher Pike's *Season of Passage*, *The Listeners*, and *The Starlight Crystal* across zones), (2) The Research Threads (scholarly investigation of Voynich, Necronomicon myth, and Mars prison cosmologies), and (3) The Librarian's Secret (the mystery of the ageless, unnamed librarian).
 
 ---
 
@@ -207,7 +207,7 @@ The three narrative threads physicalize as razor-wire ink tendrils spanning the 
 ### (3) Endgame Connections
 * **Global Passive "Deep Listening":** Unlocked permanently, enhancing the player's ability to hear subtle 42 Hz Song variations and secret doors in all zones.
 * **Reincarnation Engine:** Mars cyclic time mechanics feed directly into the player's death/rebirth loop options.
-* **Starlight Crystal Cycle:** Bridges the Constant's cosmological ordering with Cthulhu's deep-time memory.
+* **Starlight Crystal Cycle:** Bridges the Constant's cosmological ordering with Naut's deep-time memory.
 
 ---
 
@@ -220,7 +220,7 @@ The three narrative threads physicalize as razor-wire ink tendrils spanning the 
 
 ### (5) Cross-System Integration
 * **Pulse Line Diagnostics:** Displays riddle resonance meters during Lost Book retrieval quests.
-* **Companion Cthulhu:** Offers cryptic Oldman-style hints when identifying obscure book mythologies.
+* **Companion Naut:** Offers cryptic Oldman-style hints when identifying obscure book mythologies.
 * **Gargoyle Deployment:** Sage 528 Hz deployment neutralizes Semantic Dissonance inversions.
 * **Tabletop DM Walkthrough:** Guides step-by-step solutions for all Lost Book riddles.
 
@@ -377,7 +377,7 @@ Alchemical alembics overflow with boiling 84 Hz acidic sludge. The Yew Circle's 
 ### (5) Cross-System Integration
 * **Alembic Brewing Station:** Allows crafting shadow-resistance potions for raid encounters.
 * **Gargoyle Alchemist (432 Hz):** Deployed to boost potion yields and prevent brewing explosions.
-* **Companion Radagast:** Assists in gathering rare herbs across the Fae Kingdom and Poison Garden.
+* **Companion The Greenward:** Assists in gathering rare herbs across the Fae Kingdom and Poison Garden.
 * **Tabletop DM Walkthrough:** Guides precise temperature and frequency formulas for all recipes.
 
 ---
@@ -437,7 +437,7 @@ The high-contrast monochrome landscape collapses into a pitch-black Zone 0 void 
 # 9. THE HIDDEN BLOOM (`geode_inn_hidden_bloom.md`)
 
 ### Living Inn Architectural & Narrative Summary
-A pattern recognition and visual association match game set in Van Gogh's Garden. Features two visual modes: Saint-Rémy Wild Mode (The Catalyst / Helena Bonham Carter) and Auvers Tended Mode (The Gardener / Radagast). Players match flower paintings and polished stone specimens across five escalating connection levels: Color, Family, Geography, Property, and Frequency. Trains the player's INFJ structural sight.
+A pattern recognition and visual association match game set in Van Gogh's Garden. Features two visual modes: Saint-Rémy Wild Mode (The Catalyst / Helena Bonham Carter) and Auvers Tended Mode (The Gardener / The Greenward). Players match flower paintings and polished stone specimens across five escalating connection levels: Color, Family, Geography, Property, and Frequency. Trains the player's INFJ structural sight.
 
 ---
 

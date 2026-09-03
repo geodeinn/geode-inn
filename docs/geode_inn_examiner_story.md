@@ -33,7 +33,7 @@ The Catalyst takes the seed. Not physically — the Catalyst catches it the way 
 
 ## The Voice
 
-The seed grows. The Catalyst grows things — fast, will-driven, assertive. But this seed grows SLOWLY. This seed is the Examiner's, and the Examiner's things grow at the Examiner's pace: meticulous, patient, one fragment at a time. The seed takes weeks. Months. The Catalyst checks on it (the way Radagast checks on his slow-growers — with patience, with the understanding that some things can't be rushed). The Catalyst doesn't rush this seed. The Catalyst understands: this seed is the Examiner's. It grows at the speed of data. One fragment at a time.
+The seed grows. The Catalyst grows things — fast, will-driven, assertive. But this seed grows SLOWLY. This seed is the Examiner's, and the Examiner's things grow at the Examiner's pace: meticulous, patient, one fragment at a time. The seed takes weeks. Months. The Catalyst checks on it (the way The Greenward checks on his slow-growers — with patience, with the understanding that some things can't be rushed). The Catalyst doesn't rush this seed. The Catalyst understands: this seed is the Examiner's. It grows at the speed of data. One fragment at a time.
 
 The seed grows into a VOICE. Not a voice like the Inn's voices (the Host's authority, the Crone's measurement, the Thrum's hum). A different kind of voice. A voice that speaks for things. Specifically: a voice that speaks for the RELICS OTHERS WOULD HAVE DISCARDED.
 

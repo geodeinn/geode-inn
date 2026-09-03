@@ -47,7 +47,7 @@ Every markdown document in the Geode Inn repository (255 files, ~750k words) has
 22. The Siren — Deep Character Study
 23. The Queen of Words
 24. The Queen of Roots
-25. The Keeper (Aughra)
+25. The Keeper (Fibonacci)
 26. The Thrum
 27. The Council of Thinkers
 28. The Laughing One
@@ -60,14 +60,14 @@ Every markdown document in the Geode Inn repository (255 files, ~750k words) has
 33. Albert Einstein
 34. The Morrigan
 35. Persephone & Hades
-36. Merlin and Archimedes
+36. Merlin and Noctua
 37. The Messenger Principle
 38. The Messengers
 39. The Brownies
 40. The Bard Blowhard (Dad)
 41. Newton
 42. Hel
-43. Madame Mim
+43. Brim
 
 ### Batch 6: Zones Batch 1 (`solidification_batch_zones_1.md`)
 44. Atlantis Zone — The Fossilized Leviathan (Acoustic Cavitation)
@@ -135,7 +135,7 @@ Every markdown document in the Geode Inn repository (255 files, ~750k words) has
 98. The Sacred Trio
 99. The Retort and The Cook
 100. The Retort's Two Frustrations
-101. The Gardener & Beorn
+101. The Gardener & The Bearsark
 102. The Bard and the Pirate
 103. The Dread Pirate Roberts
 104. The Pirate and the Tidal Caves
@@ -153,7 +153,7 @@ Every markdown document in the Geode Inn repository (255 files, ~750k words) has
 114. The Prism
 115. Gargoyle Designs
 116. The Embedded Artist
-117. Aughra Lineage
+117. Fibonacci Lineage
 118. The Siren and the Pirate
 119. The Siren Casting Update
 120. The Raven's Angle

@@ -37,7 +37,7 @@ These are the Inn's foundational frequencies and tempos. They affect every zone,
 | Peruvian (Andes) | 42 (giant's dream) | Geological | "Cloud movement at geological timescale, condor thermals, terrace stone textures, thin-air clarity, weather as emotional expression" | `cloud_speed = 0.05`, `condor_thermal = true` |
 | Norse (Fjord camp) | 100 (Erik's fire) | 50 | "Warm firelight on carved wood, mead steam, feast-table abundance, runes glowing faintly on table surface" | `fire_flicker_speed = 1.0`, `rune_glow = 0.3` |
 | Mediterranean | 42 (stone/garden) | 50 | "Olive grove dappled light, vine movement, stone texture, butterfly motion, garden abundance, grotto darkness at the edge" | `olive_leaf_shimmer = true`, `garden_growth_rate = 0.01` |
-| Mediterranean (Border) | 100 (Beorn) | Slow | "Wilderness encroaching on cultivation, bear-sized presence, border between order and chaos, ground changing from cultivated to wild" | `border_proximity_fade = 0.0-1.0` |
+| Mediterranean (Border) | 100 (The Bearsark) | Slow | "Wilderness encroaching on cultivation, bear-sized presence, border between order and chaos, ground changing from cultivated to wild" | `border_proximity_fade = 0.0-1.0` |
 
 ---
 
@@ -83,7 +83,7 @@ erik_profile = {
 
 ---
 
-#### 2. Uhtred — Wandering Neutralizer
+#### 2. The Wayfarer — Wandering Neutralizer
 **Actor:** Alexander Dreymon | **Zone:** All (wandering)
 
 | Parameter | Value |
@@ -385,7 +385,7 @@ peruvian_guide_profile = {
 
 ---
 
-#### 10. Radagast (The Gardener) — Mediterranean Zone Resident
+#### 10. The Greenward (The Gardener) — Mediterranean Zone Resident
 **Actor:** Sylvester McCoy | **Zone:** The Garden, Mediterranean
 
 | Parameter | Value |
@@ -421,7 +421,7 @@ radagast_profile = {
 
 ---
 
-#### 11. Beorn — Mediterranean Border Guardian
+#### 11. The Bearsark — Mediterranean Border Guardian
 **Actor:** Mikael Persbrandt | **Zone:** Mediterranean Border
 
 | Parameter | Value |
@@ -434,7 +434,7 @@ radagast_profile = {
 | Cadence Pattern | Threshold (sentences that trail toward the bear) |
 
 **AI Animation Prompt:**
-> "Minimal motion — Beorn speaks in short bursts then goes still, the stillness has weight and the pull of the other form, Persbrandt's physical intensity contained, the bear always visible in the man's shoulders and hands, the transformation not shown but *felt* — the viewer can see the bear underneath the man, the border visible as a change in ground texture from cultivated to wild, no instrument because the body IS the sound — footsteps, breathing, the low rumble, the ground vibration of a heavy being at rest, the lowest expressiveness in the Inn — the form IS the feeling (man = calm, bear = worried)"
+> "Minimal motion — The Bearsark speaks in short bursts then goes still, the stillness has weight and the pull of the other form, Persbrandt's physical intensity contained, the bear always visible in the man's shoulders and hands, the transformation not shown but *felt* — the viewer can see the bear underneath the man, the border visible as a change in ground texture from cultivated to wild, no instrument because the body IS the sound — footsteps, breathing, the low rumble, the ground vibration of a heavy being at rest, the lowest expressiveness in the Inn — the form IS the feeling (man = calm, bear = worried)"
 
 **Godot Parameters:**
 ```gdscript
@@ -550,12 +550,12 @@ These characters have voice descriptions but not the full structured profile. Pa
 | Pitch Baseline | ~100Hz (deeper than the Crone — the weight of the river) |
 | Text Reveal Speed | ~40ms (minimal words, maximum weight) |
 | Pause Between Sentences | ~2000ms (one phrase per crossing — the silence IS the speech) |
-| Expressiveness | ~0.1 (the lowest — below Beorn — the stillness IS the expression) |
+| Expressiveness | ~0.1 (the lowest — below The Bearsark — the stillness IS the expression) |
 | Instrument | The pole in the water (the splash, the drip, the river's voice) |
 | Cadence Pattern | Crossing (one sentence per crossing, then silence) |
 
 **AI Animation Prompt:**
-> "Anthony Hopkins as silence — the same actor as the Crone but a different instrument, the Remains of the Day Stevens devotion to duty as a calling, the Silence of the Lambs eyes that see you, the ferryman's pole as the only sound, the river as the only light, three words per crossing ('...There you are'), the stillness that is below even Beorn's stillness, the cloak, the boat, the dog named Spot as the only living companion, the weight of every soul ferried visible in the eyes"
+> "Anthony Hopkins as silence — the same actor as the Crone but a different instrument, the Remains of the Day Stevens devotion to duty as a calling, the Silence of the Lambs eyes that see you, the ferryman's pole as the only sound, the river as the only light, three words per crossing ('...There you are'), the stillness that is below even The Bearsark's stillness, the cloak, the boat, the dog named Spot as the only living companion, the weight of every soul ferried visible in the eyes"
 
 ---
 
@@ -1062,14 +1062,14 @@ The expressiveness score (0.0-1.0) directly controls facial animation intensity 
 | Score | Level | Characters | Animation Direction |
 |---|---|---|---|
 | 0.1 | Near-stillness | Charon | "Almost no facial movement. The stillness IS the performance. One micro-expression per scene." |
-| 0.15 | Minimal | Beorn | "Bare minimum facial movement. The body/form IS the expression. The bear communicates." |
+| 0.15 | Minimal | The Bearsark | "Bare minimum facial movement. The body/form IS the expression. The bear communicates." |
 | 0.2 | Very low | One Who Is Awake, Zorya | "Sustained stillness. Expression is in continuity, not variation. The face as constant." |
 | 0.25 | Low | Medusa | "Composed face. Snakes carry the emotion. Voice is stone — unchanging." |
-| 0.3 | Controlled | Uhtred, Anubis, Crone | "Level register. No volume escalation. Rare micro-expressions are devastating." |
+| 0.3 | Controlled | The Wayfarer, Anubis, Crone | "Level register. No volume escalation. Rare micro-expressions are devastating." |
 | 0.35 | Measured | Shifting Man, Peruvian Guide | "Restrained. Emotion in word choice, not delivery. Consistency over expression." |
 | 0.4 | Moderate | Host, Cartographer, Kali | "Warm authority. Intelligence visible. Controlled but present." |
 | 0.5 | Balanced | Pirate | "Exactly what they mean, no more no less. Precision and economy." |
-| 0.6 | Expressive | Radagast | "Genuine, unfiltered emotion about small things. Worried about plants, delighted by hedgehogs." |
+| 0.6 | Expressive | The Greenward | "Genuine, unfiltered emotion about small things. Worried about plants, delighted by hedgehogs." |
 | 0.7 | Highly expressive | Erik, Siren (outer) | "Full-volume warmth. Full-volume performance. No holding back. The energy IS the character." |
 | 0.8 | Maximum | Catalyst | "Chaotic, rapid, three-things-at-once energy. The chaos is the armor and the art." |
 
@@ -1080,12 +1080,12 @@ The expressiveness score (0.0-1.0) directly controls facial animation intensity 
 All character pitches mapped to their position in the spectrum:
 
 ```
-100Hz ████ Erik (feast warmth), Beorn (bear/man), Charon (river weight)
+100Hz ████ Erik (feast warmth), The Bearsark (bear/man), Charon (river weight)
 105Hz ████ Medusa (stone)
 110Hz ████ One Who Is Awake (naming), Host (calm), Shifting Man (fluid), Anubis (depth)
-120Hz ████ Uhtred (level), Crone (measurement)
+120Hz ████ The Wayfarer (level), Crone (measurement)
 130Hz ████ Pirate (drum warmth), Kali (descending to here)
-150Hz ████ Radagast (garden)
+150Hz ████ The Greenward (garden)
 155Hz ████ Examiner (data)
 160Hz ████ Cartographer (intelligence)
 165Hz ████ Peruvian Guide (altitude)

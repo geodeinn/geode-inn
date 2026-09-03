@@ -12,10 +12,10 @@
 | **Beorn** | Tolkien, The Hobbit | Named character from copyrighted works | **The Bearsark** — a play on "berserker" (Norse bear-warriors), original compound. He IS the bear-sark: the skin that shifts between man and bear. |
 | **Jareth** | Labyrinth (1986, Lucasfilm/Henson) | Named character from copyrighted film | **The Ravel** — from "unravel/ravel," the one who raveled the labyrinth. Sounds like a name, functions as a title. He IS the tangle. |
 | **Uhtred** | Bernard Cornwell, The Saxon Stories / The Last Kingdom | Named character from copyrighted novels | **The Wayfarer** — title-based, fits the Inn's convention. He walks the roads between zones. "Destiny is all" stays — it's a translation of the Old English concept of wyrd, public domain. |
-| **Aughra** | The Dark Crystal (1982, Henson/Jim Henson Company) | Named character from copyrighted film | **The Augur** — from the Latin "augur" (a Roman diviner/seer). Real word, public domain. Keeps the "Au" sound. She IS the augur: the one who reads the patterns. |
+| **Aughra** | The Dark Crystal (1982, Henson/Jim Henson Company) | Named character from copyrighted film | **Fibonacci** (CONFIRMED by Krista 2026-09-03) — the mathematician who described the spiral pattern that defines Aughra's Keeper role and the Inn's golden-ratio architecture. Historical figure (died 1250), public domain. The name IS the pattern. |
 | **Archimedes** (the owl) | Disney's The Sword in the Stone (1963) | Named owl character from copyrighted film | **Noctua** — Latin for "little owl," the actual species name (Athene noctua) of the owl associated with Athena in Greek mythology. Real word, public domain, mythologically grounded. |
 | **"Ryuk Form"** (Tinkering Weeaboo) | Death Note (Tsugumi Ohba/Takeshi Obata) | Named character from copyrighted manga/anime | **"True Form"** or **"Unmasked"** — the description (tall, angular, yellow-eyed, too-wide grin, too-long fingers) stays as original design. Just don't name it "Ryuk." |
-| **Wednesday Addams** | The Addams Family (Charles Addams, 1938-) | Named character from copyrighted comic/film/TV | **Wednesday** (standalone) — "Wednesday" is a day of the week, not copyrightable. Use ONLY "Wednesday" — never "Addams." The character keeps her identity (deadpan, dark humor, cozy gothic) without the surname. The name "Wednesday" also connects to Odin/Wednesday (public domain mythology). |
+| **Wednesday Addams** | The Addams Family (Charles Addams, 1938-) | Named character from copyrighted comic/film/TV | **Belladonna** (CONFIRMED by Krista 2026-09-03) — deadly nightshade, Italian for "beautiful lady." Public domain. The name carries the gothic, cozy-but-dangerous energy without referencing any copyrighted property. |
 
 ## REVIEW (Borderline — Recommend Changing to Be Safe)
 
@@ -54,7 +54,7 @@ Beyond name changes, any DIRECT QUOTES from copyrighted works need to become ori
 
 ## SUMMARY
 
-**Must change:** 9 names (Mim, Radagast, Beorn, Jareth, Uhtred, Aughra, Archimedes owl, Ryuk form, Wednesday Addams → Wednesday)
+**Must change:** 9 names (Mim → Brim, Radagast → The Greenward, Beorn → The Bearsark, Jareth → Malachi, Uhtred → The Wayfarer, Aughra → Fibonacci, Archimedes owl → Noctua, Ryuk form → True Form, Wednesday Addams → Belladonna) — ALL CONFIRMED by Krista 2026-09-03
 
 **Review:** 2 names (Cabbit, Leonard Cohen)
 

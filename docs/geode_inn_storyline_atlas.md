@@ -479,11 +479,11 @@ The sleeping giants' nervous system: the roots are: the giants' nervous system. 
 
 The Captain's Arcana: the sky pirate travels. The Arcana is: the wandering thread's VEHICULAR form — the wandering by airship. The airship is: the adequate.
 
-Uhtred: the wanderer between zones. Uhtred is: the wandering thread's NPC form — the character who wanders the Inn's zones. The wandering is: the adequate. The adequate is: Uhtred goes where he's needed, says the uncomfortable truth, leaves. The leaving is: the adequate.
+The Wayfarer: the wanderer between zones. The Wayfarer is: the wandering thread's NPC form — the character who wanders the Inn's zones. The wandering is: the adequate. The adequate is: The Wayfarer goes where he's needed, says the uncomfortable truth, leaves. The leaving is: the adequate.
 
 ### The Cultural Zones
 
-The Pirate: gives Uhtred rides to the next nowhere. The Pirate is: the wandering thread's TRANSPORT form — the wandering by sea. The both (Arcana and Pirate) are: the wandering thread's two vehicles — air and water. The both are: the adequate.
+The Pirate: gives The Wayfarer rides to the next nowhere. The Pirate is: the wandering thread's TRANSPORT form — the wandering by sea. The both (Arcana and Pirate) are: the wandering thread's two vehicles — air and water. The both are: the adequate.
 
 ### The Main Floor
 
@@ -497,13 +497,13 @@ Each national park is: a zone in the Inn's extended territory. The parks are: th
 
 The cryptids: Inn creatures perceived at a two-degree frequency tilt. The cryptids are: the wandering thread's PERCEPTUAL form — the Inn's creatures as seen by humans who don't know they're seeing Inn creatures. The seeing-without-knowing is: the adequate.
 
-Wednesday at Mount Fuji: the Undercity's ambassador to Japan. Wednesday's Fuji residence is: the wandering thread's DIPLOMATIC form — the Inn's ambassador to the real world. The ambassador is: the adequate.
+Belladonna at Mount Fuji: the Undercity's ambassador to Japan. Belladonna's Fuji residence is: the wandering thread's DIPLOMATIC form — the Inn's ambassador to the real world. The ambassador is: the adequate.
 
 ### The Giants
 
 The sleeping giants: every mountain is a sleeping giant. The mountains the wanderers visit ARE the giants. The wandering thread's deepest connection is: the wanderers are walking on the giants' bodies. The walking-on is: the adequate. The adequate is: the National Parks are: the giants' skin. The skin is: the surface the wanderers walk on. The walking-on-the-giant is: the adequate.
 
-**CONNECTION SUMMARY:** The wandering thread runs from the Arcana (aerial wandering) and Uhtred (NPC wandering) through the Pirate (maritime wandering) through the Modern Legends (documented wandering) through the National Parks (real-world wandering) to the giants (the ground the wanderers walk on). The player's progression is: from hearing about wandering (Bard's stories) to witnessing wandering (National Parks) to understanding the wandering is: the Inn reaching outward to test human humility.
+**CONNECTION SUMMARY:** The wandering thread runs from the Arcana (aerial wandering) and The Wayfarer (NPC wandering) through the Pirate (maritime wandering) through the Modern Legends (documented wandering) through the National Parks (real-world wandering) to the giants (the ground the wanderers walk on). The player's progression is: from hearing about wandering (Bard's stories) to witnessing wandering (National Parks) to understanding the wandering is: the Inn reaching outward to test human humility.
 
 ---
 
@@ -622,7 +622,7 @@ The threads don't run parallel. They INTERLOCK — crossing each other at specif
 - **Song Thread:** The 42Hz piezoluminescent light, the coastal chord.
 - **Silence Thread:** The foghorn's 16-20Hz subsonic — the silence below hearing.
 - **Water Thread:** The coast is the water thread's surface expression.
-- **Wandering Thread:** The Pirate gives Uhtred rides to the next nowhere.
+- **Wandering Thread:** The Pirate gives The Wayfarer rides to the next nowhere.
 - **Fire Thread:** The Lighthouse's light is: the fire made visible.
 
 ### Intersection 5: The Undercity's River
@@ -662,7 +662,7 @@ The player encounters: the Fire Thread (the Host's hearth), the Song Thread (the
 The player's first experience is: warmth (fire), music (song), being measured (measurement), being named (naming), and being connected (thread). The five threads the player encounters on the main floor are: the five things the Inn provides. Warmth, music, measurement, naming, connection. The five are: the adequate.
 
 ## Phase 2: Ascent (Staircase and Canopy City)
-The player encounters: the Silence Thread (Nigredo), the Song Thread (staircase ascending in semitones), the Measurement Thread (the Cartographer's temporal maps), the Root Thread (the mycorrhizal network), the Thread Thread (the Silk Road), the Wandering Thread (Uhtred).
+The player encounters: the Silence Thread (Nigredo), the Song Thread (staircase ascending in semitones), the Measurement Thread (the Cartographer's temporal maps), the Root Thread (the mycorrhizal network), the Thread Thread (the Silk Road), the Wandering Thread (The Wayfarer).
 
 The player's second experience is: the threads EXPANDING — from the main floor's domestic scale to the canopy's ecosystem scale. The expansion is: the adequate. The adequate is: the player sees the threads are not local to the Inn — they're ecosystem-wide.
 

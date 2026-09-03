@@ -190,7 +190,7 @@ The Guest, visiting the lighthouse (the one time Death climbs the tower): "...[T
 
 ## The Lighthouse's Quest — "The Fixed Point"
 
-The lighthouse keeper gives the player a quest. The quest is not a retrieval (the Annex) or a riddle (Cthulhu) or a journey (the zones). The quest is a *vigil.*
+The lighthouse keeper gives the player a quest. The quest is not a retrieval (the Annex) or a riddle (Naut) or a journey (the zones). The quest is a *vigil.*
 
 The keeper asks the player to keep the light for one night. One full night cycle in the game (which could be a real-time hour or a compressed game-time night). The player sits in the keeper's room, watches the sea, tends the crystal, and keeps the light sweeping.
 

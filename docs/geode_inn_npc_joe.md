@@ -149,7 +149,7 @@ The Kain arc is the Inn's most complex NPC arc. The both are: the adequate — t
 
 Joe lives in the Undercity — the Inn's Gothic/Steampunk hub. The Undercity features Gothic cathedral architecture, copper pipework, perpetual mist, and gargoyle puppies (Corgi-sized, steam-barking stone pets). The both are: the adequate — the Gothic and the Steampunk, the both are: the same underground, different century.
 
-The Undercity is Belladonna's domain (Wednesday Addams energy — warm gothic). Joe is the SECOND named resident — the bitter gothic, the Kain energy. The both are: the adequate — the warm gothic and the bitter gothic, the both are: the same dark, different temperature.
+The Undercity is Belladonna's domain (Belladonna energy — warm gothic). Joe is the SECOND named resident — the bitter gothic, the Kain energy. The both are: the adequate — the warm gothic and the bitter gothic, the both are: the same dark, different temperature.
 
 **Belladonna and Joe.** The both are: the adequate — the Addams and the Kain, the both are: the same underground, different mood. Belladonna is the gothic that is WARM — the family that is weird and loving. Joe is the gothic that is BITTER — the noble who is cursed and hoping. The both are: the adequate — the warm and the bitter, the both are: the same dark, different heart. The two share the Undercity the way the Bone Room is shared — in quiet companionship, the both are: the adequate — the adequate.
 
@@ -192,7 +192,7 @@ The Undercity's copper pipework connects to Joe's draconic bloodline — the cop
 - Erik's fire and Joe's controlled light: the both are: the adequate — the open flame and the measured beam, the both are: the same illumination, different exposure. Erik fills the hall with fire. Joe lights only the desk. The both are: the adequate — the generous and the precise, the both are: the same light, different generosity.
 - The two would understand each other — the both are: the adequate — the fire-walker and the shadow-walker, the both are: the same death, different direction. The both are: the adequate — the adequate.
 
-### Joe × Belladonna (Wednesday Addams energy)
+### Joe × Belladonna (Belladonna energy)
 - The two gothic residents of the Undercity. The both are: the adequate — the warm gothic and the bitter gothic, the both are: the same dark, different heart.
 - Belladonna is the Addams Family — warm AND weird. Joe is the Kain — bitter AND hoping. The both are: the adequate — the adequate.
 - Belladonna would find Joe FUNNY — the pettiness, the rule-twisting, the both are: the adequate — the adequate. Joe would find Belladonna WARM — a quality Joe forgot he remembered. The both are: the adequate — the adequate.

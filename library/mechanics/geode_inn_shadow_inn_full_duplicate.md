@@ -133,7 +133,7 @@ The 9 cultural platforms are frozen. The mycorrhizal network connections are vis
 
 **The Examiner** — petrified mid-caliper-measurement. The calipers are on a stone — the Examiner was measuring a stone's final frequency. The measurement reads 84Hz — the Examiner was measuring a Living Inn stone at the moment of completion, when its frequency rose from 42Hz to 84Hz. The Examiner's notebook records every stone's completion frequency. The Shadow Inn's Examiner is the stone frequency database's final entry.
 
-**Aughra** — petrified in the Observatory-adjacent study, three eyes open. Aughra's stone eyes are fixed on the same star the Astronomer's telescope points to. Aughra knew before the Astronomer calculated. Aughra's Dark Crystal astronomy is complete — the crystal in Aughra's study shows the entire cosmic cycle: previous universe (41.7Hz) → current (42Hz) → next (44.1Hz). The cycle is visible in the crystal's layers, like tree rings.
+**Fibonacci** — petrified in the Observatory-adjacent study, three eyes open. Fibonacci's stone eyes are fixed on the same star the Astronomer's telescope points to. Fibonacci knew before the Astronomer calculated. Fibonacci's Dark Crystal astronomy is complete — the crystal in Fibonacci's study shows the entire cosmic cycle: previous universe (41.7Hz) → current (42Hz) → next (44.1Hz). The cycle is visible in the crystal's layers, like tree rings.
 
 **The Seelie King & Queen** — petrified on the Canopy City's central platform. They are standing together, looking down at the Fae Kingdom below. The Seelie King's hand is on the Queen's shoulder. The Queen's hand is on the King's. They are watching their kingdom — frozen, complete. The Seelie King's expression: the same peace as the Reluctant. The Queen's: the same satisfaction as the Captain.
 
@@ -152,7 +152,7 @@ The 9 cultural platforms are frozen. The mycorrhizal network connections are vis
 - The Ship's Last Words (gold text transcription) — story item
 - The Identity Mirror (Philosopher's mirror, showing future self) — reflection item
 - The Completion Frequency Record (Examiner's notebook) — stone database final entries
-- Aughra's Crystal (cosmic cycle visible in layers) — knowledge item
+- Fibonacci's Crystal (cosmic cycle visible in layers) — knowledge item
 - The Self-Playing Lyre (from Level 1, accessible via Clockwork's connection to Cosmology)
 
 ---
@@ -195,7 +195,7 @@ One more book than the Living Inn: the player's own story. Title: "The Player Wh
 
 **The Catalyst** — petrified mid-pour. The drink is a frozen arc of gold liquid. The Catalyst's other hand holds a portal arrow, fully grown, pointing at a location the player hasn't been. The Catalyst's garden is frozen — the portal arrows are all grown, all pointed at different destinations. The player can read each arrow's direction. The Catalyst's expression: the performance is over. The mask is off. Under the chaos, the Catalyst's face is calm. The Catalyst was always calm underneath.
 
-**Madame Mim** — petrified on the pipe. "Ceci n'est pas une pipe" — the pipe is stone. The Magritte reference is complete: the representation IS the thing, because the thing is now stone, and the stone is permanent. The pipe that was "not a pipe" is now definitively not a pipe. The thesis is proven. Mim's expression: satisfied. The joke landed.
+**Brim** — petrified on the pipe. "Ceci n'est pas une pipe" — the pipe is stone. The Magritte reference is complete: the representation IS the thing, because the thing is now stone, and the stone is permanent. The pipe that was "not a pipe" is now definitively not a pipe. The thesis is proven. Brim's expression: satisfied. The joke landed.
 
 **The Wanderer** — (see above — petrified by the quest board, home at last)
 
@@ -394,7 +394,7 @@ Every Fae creature is petrified — Trolls, Goblins, Dwarves, Orcs, Mermaids, En
 
 **Layer 3 — Frozen Tidal Caves.** The Pirate's domain. The Pirate is petrified mid-drumbeat — hands on the bodhrán, the last beat struck. The 50 BPM is stopped. The drum is stone. The sound is in the gold — the last beat is visible as a gold ripple, frozen mid-expansion from the drum's surface. The Pirate's expression: the hands that held the blade, then held the rhythm, now hold... nothing. The hands are at rest. The rhythm is done. The Pirate's quest — the AFTER, the life after revenge — is complete. The Pirate found what comes after: stillness.
 
-**Layer 4 — Frozen Atlantis.** The sunken city is visible through the clear ice — the full city, every building, every street. The Living Inn's Atlantis is underwater, dark, difficult to see. The Shadow Inn's Atlantis is visible through the ice — the ice is a WINDOW. The player can walk above the city and see it clearly for the first time. Oceanianoir (the Living Archive, periodic table tattoos) is petrified mid-cataloguing — the tattoos are glowing at full power, every element visible. Oceanianoir's body is the completed periodic table, frozen, every element at its final frequency. Cthulhu is petrified in the deepest archive chamber — the scholarly squid-headed NPC, spectacles on, mid-read. The book Cthulhu was reading is the Necronomicon, and it's... open. The player can read the final page. The final page is blank. The Necronomicon's last secret: there is no secret. The horror was the not-knowing. The knowing is: adequate.
+**Layer 4 — Frozen Atlantis.** The sunken city is visible through the clear ice — the full city, every building, every street. The Living Inn's Atlantis is underwater, dark, difficult to see. The Shadow Inn's Atlantis is visible through the ice — the ice is a WINDOW. The player can walk above the city and see it clearly for the first time. Oceanianoir (the Living Archive, periodic table tattoos) is petrified mid-cataloguing — the tattoos are glowing at full power, every element visible. Oceanianoir's body is the completed periodic table, frozen, every element at its final frequency. Naut is petrified in the deepest archive chamber — the scholarly squid-headed NPC, spectacles on, mid-read. The book Naut was reading is the Necronomicon, and it's... open. The player can read the final page. The final page is blank. The Necronomicon's last secret: there is no secret. The horror was the not-knowing. The knowing is: adequate.
 
 **Layer 5 — Frozen Deep.** The Siren's domain. The Siren is petrified mid-song — the dual cadence frozen. The outer voice (flowing, cello) and inner voice (deliberate, piano) are both visible as gold waveforms, overlapping. The player can see the Siren's two voices for the first time — the performer and the depth, simultaneously. The Queen of Webs is petrified in the deepest water — the web is complete, every thread connected, the full web visible through the ice. The web is the Inn's connection map — every NPC linked to every other NPC, every relationship visible as a gold thread.
 
@@ -417,7 +417,7 @@ The transitional beings that moved between Water Zone and Hollow Earth are petri
 
 **"The Siren's Two Voices"** — The player sees the Siren's dual waveforms. The player can bring this knowledge to the Siren in the Living Inn: "You saw both voices. ...The one I perform and the one I... am. ...They're the same song. ...I know. ...I've always known. ...I just didn't want anyone else to hear the inner one. ...Thank you for hearing it. ...Can you hear it now? ...In me? ...Right now?" (The Siren hums. The inner voice is audible. The Siren cries. The Siren's self-recognition is complete.)
 
-**"The Necronomicon's Last Page"** — The player reads the blank final page. Cthulhu in the Living Inn reacts: "...You read it. ...The last page. ...Blank. ...Yes. ...The horror was never the knowledge. The horror was the seeking. ...The seeking is done. ...The page is blank because the answer is: there is no answer. ...Or: the answer is everything you already know. ...Both are true. ...Both are adequate."
+**"The Necronomicon's Last Page"** — The player reads the blank final page. Naut in the Living Inn reacts: "...You read it. ...The last page. ...Blank. ...Yes. ...The horror was never the knowledge. The horror was the seeking. ...The seeking is done. ...The page is blank because the answer is: there is no answer. ...Or: the answer is everything you already know. ...Both are true. ...Both are adequate."
 
 **"The Full Web"** — The player studies the Queen of Webs' complete web — the Inn's relationship map. The player can see connections between NPCs they didn't know were connected: the Firekeeper and the Astronomer were friends. The Crone and Medusa correspond. The Catalyst and Jareth exchanged letters. The web reveals the Inn's social network — the hidden relationships that the Living Inn's NPCs never disclosed.
 
@@ -781,9 +781,9 @@ Puzzles that REQUIRE shifting between Living and Shadow Inn:
 **Solution:** Experience the full choir in Shadow, bring the chord back as a tuning reference. Living gargoyles get a temporary power boost.
 
 ### Puzzle 13: The Necronomicon's Secret
-**Living Inn:** Cthulhu is reading the Necronomicon. The final page is unknown.
+**Living Inn:** Naut is reading the Necronomicon. The final page is unknown.
 **Shadow Inn:** The Necronomicon is open. The final page is blank.
-**Solution:** Read the blank page in Shadow, tell Cthulhu in Living. New dialogue: the horror was the not-knowing.
+**Solution:** Read the blank page in Shadow, tell Naut in Living. New dialogue: the horror was the not-knowing.
 
 ### Puzzle 14: The Player's Book
 **Living Inn:** The Modern Day Legends shelf is incomplete.

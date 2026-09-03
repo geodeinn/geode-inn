@@ -100,7 +100,7 @@ Foundational visual DNA: **Klimt** (stillness, architecture, gold structure) + *
 - **Diamonds (Earth/Artisan):** Earthy browns and copper tones, craft scenes — workbenches, gemstones, tools, hands shaping metal, the maker's process. Grounded and warm
 
 ### Face Cards:
-- Kings: Full Presence characters (Odin Allfather, Seelie Queen, Morrigan, Cthulhu)
+- Kings: Full Presence characters (Odin Allfather, Seelie Queen, Morrigan, Naut)
 - Queens: Full Presence characters (Unseelie Queen, Freyja, The Crone, Owl)
 - Jacks: Key NPCs (Wanderer Odin, Beverley, Tim Curry Firekeeper, Scarlett)
 - Jokers: The Dragon mascot and the Fizgigs

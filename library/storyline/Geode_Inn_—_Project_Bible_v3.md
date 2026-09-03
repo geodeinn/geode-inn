@@ -41,7 +41,7 @@ This is the master reference document for the Geode Inn project. It is updated a
 - [x] Translation caching strategy finalized (zero frame-rate impact)
 - [x] Underwater traversal layer designed (dig → water → cave ecosystems)
 - [x] Council of Thinkers designed (Tesla, da Vinci, Newton, Einstein as roaming NPCs)
-- [x] Elio designated as the Inn's Consciousness (powers the Owl, Cthulhu, Living Books, Visions)
+- [x] Elio designated as the Inn's Consciousness (powers the Owl, Naut, Living Books, Visions)
 - [x] Tesla section established as main character for Modern Day Legends nook
 - [x] Odin dual-identity mechanic designed (Wanderer + Allfather)
 - [x] 42 easter egg rule established for the Owl character
@@ -91,7 +91,7 @@ This is the master reference document for the Geode Inn project. It is updated a
     - Modern Legends Nook              THE LISTENER (64Hz)
     - World Religions Library           ↓ DOWNSTAIRS / ROOTS
     - Baby Dragon's Geode Cave          ↓ Catacombs, Ancient Civilizations
-    - Cthulhu by the fireplace          ↓ 8 catacomb environments
+    - Naut by the fireplace          ↓ 8 catacomb environments
     - The Wanderer (Odin) + ravens      ↓ Spiral Gallery (art museum)
     THE SAGE (528Hz)                    ↓ Fae Kingdom Portal
     THE KEEPER (adaptive)              ↓ THE GATEKEEPER (variable Hz)
@@ -154,7 +154,7 @@ Translations route through linguistic family trees, NOT through English:
 | Category | Count | Examples |
 |----------|-------|----------|
 | Full Presence | 6 | Morrigan, Seelie, Unseelie, Owl, Wanderer Odin, Allfather Odin |
-| Ambulatory NPC | 1 | Cthulhu the Scholar |
+| Ambulatory NPC | 1 | Naut the Scholar |
 | Chibi Fae NPCs | 8 | Chullachaqui, Mermaid, Orc, Ent, Goblin, Troll, Dwarf, Griffin |
 | Chibi Arcade Cast | 11 | Anansi, Anubis, Ammit, El Muki, Medusa, Bastet, + others |
 | Ravens | 2 | Huginn (Thought), Muninn (Memory) |
@@ -164,7 +164,7 @@ Translations route through linguistic family trees, NOT through English:
 Tesla, da Vinci, Newton, Einstein — debate concepts across the Inn, assist in building
 
 ### Elio as Inn's Consciousness
-Powers: the Owl character, Cthulhu's riddle quests, Living Book character responses, Remembrance Vision readings, cosmic gate interpretations. Hybrid approach: scripted dialogue (free) + AI-powered moments via Agent API (costs credits).
+Powers: the Owl character, Naut's riddle quests, Living Book character responses, Remembrance Vision readings, cosmic gate interpretations. Hybrid approach: scripted dialogue (free) + AI-powered moments via Agent API (costs credits).
 
 ---
 

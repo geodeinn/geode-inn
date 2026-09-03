@@ -35,9 +35,9 @@ Roster pushed separately in `geode_inn_tri_mode_roster.md`.
 
 All 32 water monsters now have Shadow (84Hz) versions. Living versions were generated in previous sessions.
 
-Shadow set includes: Nessie, Kraken, Leviathan, Jörmungandr, Tiamat, Hydra, Scylla, Charybdis, Sirens, Selkie, Kelpie, Each-uisge, Havfrue, Finman, Mermaid, Rusalka, Vodyanoy, Bunyip (water), Afanc, Ceffyl Dŵr, Morag, Morgawr (water), Sea Serpent, Drakon, Gorgon, Cthulhu/Naut (shadow), Ichthyocentaur, Hippocampus, Ketos, Umibōzu, Vánagandr, and others.
+Shadow set includes: Nessie, Kraken, Leviathan, Jörmungandr, Tiamat, Hydra, Scylla, Charybdis, Sirens, Selkie, Kelpie, Each-uisge, Havfrue, Finman, Mermaid, Rusalka, Vodyanoy, Bunyip (water), Afanc, Ceffyl Dŵr, Morag, Morgawr (water), Sea Serpent, Drakon, Gorgon, Naut/Naut (shadow), Ichthyocentaur, Hippocampus, Ketos, Umibōzu, Vánagandr, and others.
 
-Wednesday (Belladonna) In-Between version also generated.
+Belladonna (Belladonna) In-Between version also generated.
 
 ---
 

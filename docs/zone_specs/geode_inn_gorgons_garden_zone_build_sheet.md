@@ -55,7 +55,7 @@ The garden beds. Rows of petrified plants — each one a real poisonous species,
 
 - **Monkshood (Wolfsbane)** — the most toxic plant in the garden. Blue flowers, frozen mid-bloom. A single touch in life could stop a heart. In the Garden, it's stone. The threat is preserved, not active.
 - **Foxglove** — the source of digitalis. Beautiful bell-shaped flowers. The line between medicine and poison is the dose. The Foxglove in the Garden has a small plaque (carved, not printed — Doré engraving style): "A medicine. A poison. You decide."
-- **Nightshade (Belladonna)** — the namesake of Wednesday (the In-Between NPC). Belladonna grows in the Garden and in the In-Between. It's the only plant that exists in two frequencies.
+- **Nightshade (Belladonna)** — the namesake of Belladonna (the In-Between NPC). Belladonna grows in the Garden and in the In-Between. It's the only plant that exists in two frequencies.
 - **Hemlock** — the plant that killed Socrates. The Hemlock in the Garden leans slightly toward the Snake Gate, as if trying to leave. Medusa lets it lean. "Everything here wants to grow. That's the problem with preservation — the thing preserved still has its original intention."
 - **Yew** — the longest-lived tree in Europe. Every part toxic except the berry. The Yew in the Garden is the oldest petrified tree — it was already ancient when Medusa preserved it. Its wood is dark red. Its frequency is the lowest in the Garden (subsonic).
 
@@ -116,7 +116,7 @@ The Garden's deepest point. Medusa's station. A stone bench beside the Mirror Po
 | The Lithophone | 42Hz to 84Hz (full range) | The only instrument that spans both octaves. Playing the range unlocks the Garden's paths |
 | The Mirror Pool | 84Hz (frozen) + 42Hz reflected | The pool is both — 84Hz in the water, 42Hz in the reflection (the Shadow Inn visible below) |
 | Medusa's bench | Silence | The one place in the Garden with no hum. Medusa works in silence, like the Crone. |
-| Nightshade (Belladonna) | Variable — shifts between 42Hz, 84Hz, and In-Between | The only plant that exists in all three frequencies. Connects to Wednesday. |
+| Nightshade (Belladonna) | Variable — shifts between 42Hz, 84Hz, and In-Between | The only plant that exists in all three frequencies. Connects to Belladonna. |
 
 ---
 
@@ -126,7 +126,7 @@ The Garden's deepest point. Medusa's station. A stone bench beside the Mirror Po
 |-----------|--------|
 | The Shadow Inn | The Garden is the Shadow Inn's native zone — 84Hz homeland. The Mirror Pool is the safest Threshold. |
 | The Catacombs (Level 6) | The Garden is accessed through The Deep. The Garden is the Catacombs' botanical wing — preserved the way the archive preserves texts. |
-| The In-Between | Nightshade (Belladonna) connects the Garden to the In-Between. Wednesday is the Garden's In-Between attendant. |
+| The In-Between | Nightshade (Belladonna) connects the Garden to the In-Between. Belladonna is the Garden's In-Between attendant. |
 | The Poison Garden arcade game | The arcade game (tier2_poison_garden.md) is the Garden's interactive version — the player controls the garden itself, protecting it from foragers. The arcade game is the Garden's story told from the Garden's perspective. |
 | The Philosopher's Game | The Garden's thesis (preservation vs. growth) mirrors the Philosopher's Game's thesis (intention vs. skill). The Garden preserves; the Game tests. Both ask: what do you want? |
 | The Tri-Mode System | The Garden is the proof that 84Hz is not evil — it's an octave. The same note, higher. The Garden is beautiful at 84Hz. The Shadow Inn is beautiful at 84Hz. The fear of the Shadow is the player's, not the Inn's. |

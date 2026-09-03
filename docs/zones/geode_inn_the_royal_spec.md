@@ -146,4 +146,4 @@ This is the Silica Thread's deepest reveal: the Song didn't come from the gods. 
 - Open questions:
   - How many chambers? (Suggest: one per realm/region in the world mythology collection — the buried city maps to the world map above)
   - What specific anomalies are stored here vs. the Modern Legends shelf? (Suggest: The Royal holds pre-industrial anomalies; Modern Legends holds the last-two-centuries stories)
-  - Does Naut (the Cthulhu scholar NPC) know about The Royal? (The Royal predates the Inn — Naut's Archive is on Layer 1. Naut may suspect The Royal exists but has never been there)
+  - Does Naut (the Naut scholar NPC) know about The Royal? (The Royal predates the Inn — Naut's Archive is on Layer 1. Naut may suspect The Royal exists but has never been there)

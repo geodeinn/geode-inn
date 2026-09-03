@@ -39,7 +39,7 @@ A forge near the mead hall — the zone's crafting station. The Smithy is run by
 | NPC | Role | Design |
 |-----|------|--------|
 | **Erik** (Peter Gantzler) | Zone guide — the warm Viking, feast-giver | Full Presence — booming, warm, fire underneath |
-| **Uhtred** (Alexander Dreymon) | Wandering NPC — conflict neutralizer, truth-teller | Ambulatory — mobile campfire, "Destiny is all" |
+| **The Wayfarer** (Alexander Dreymon) | Wandering NPC — conflict neutralizer, truth-teller | Ambulatory — mobile campfire, "Destiny is all" |
 | **Huginn & Muninn** | Odin's ravens — chibi thieves, messengers | Chibi critters — one steals, one remembers |
 | **The Dwarves** | Smithy operators — Svartalfheim crafters | Chibi NPCs — short, bearded, articulate |
 | **The Valkyries** | Border guardians — choose who enters the hall | Full Presence — winged, helmeted, assessing |
@@ -62,13 +62,13 @@ Erik is the zone's heart. Earl Ragnar energy — the warm Viking, the adoptive f
 
 ---
 
-## Uhtred — The Wandering Truth-Teller
+## The Wayfarer — The Wandering Truth-Teller
 
-Uhtred is a wandering NPC — not tied to any zone. Uhtred appears when NPC conflicts reach a threshold (two NPCs arguing, a quest giver frustrated with the player, a faction dispute). Uhtred arrives with a mobile campfire, sits down, and says the uncomfortable truth: "Destiny is all." The phrase means: the argument is already decided. Stop wasting energy. The Pirate gives Uhtred rides to the next nowhere.
+The Wayfarer is a wandering NPC — not tied to any zone. The Wayfarer appears when NPC conflicts reach a threshold (two NPCs arguing, a quest giver frustrated with the player, a faction dispute). The Wayfarer arrives with a mobile campfire, sits down, and says the uncomfortable truth: "Destiny is all." The phrase means: the argument is already decided. Stop wasting energy. The Pirate gives The Wayfarer rides to the next nowhere.
 
-**Voice:** Alexander Dreymon's Uhtred cadence — direct, flat, certain. No ornamentation. The truth doesn't need decoration.
+**Voice:** Alexander Dreymon's The Wayfarer cadence — direct, flat, certain. No ornamentation. The truth doesn't need decoration.
 
-**Uhtred's mechanic:** Uhtred resolves NPC conflicts by reducing both sides' agitation to zero. The player can't summon Uhtred — Uhtred appears automatically when a conflict has gone on too long (3+ minutes of unresolved NPC argument). Uhtred is the game's pressure-release valve: the NPC who prevents the world from getting stuck.
+**The Wayfarer's mechanic:** The Wayfarer resolves NPC conflicts by reducing both sides' agitation to zero. The player can't summon The Wayfarer — The Wayfarer appears automatically when a conflict has gone on too long (3+ minutes of unresolved NPC argument). The Wayfarer is the game's pressure-release valve: the NPC who prevents the world from getting stuck.
 
 ---
 
@@ -144,5 +144,5 @@ Uhtred is a wandering NPC — not tied to any zone. Uhtred appears when NPC conf
 - **Form Sight** — Runes revealed by Form Sight in any zone connect back to the Norse Zone's Runic Literacy
 - **The Spiral** — the frozen lake's spiral connects to the universal spiral across zones
 - **The Pulse Line** — Erik's Hearth is a portable 100Hz source; near the Pulse Line, the hearth's frequency interacts with the 42Hz/84Hz mode
-- **The Wandering Program** — Uhtred is the program's first registered wanderer; his mobile campfire is the model for wandering NPC behavior
+- **The Wandering Program** — The Wayfarer is the program's first registered wanderer; his mobile campfire is the model for wandering NPC behavior
 - **The Firekeeper** (Tim Curry) — Erik and the Firekeeper are the Inn's two fire-keepers. Erik's fire is social (the hearth). The Firekeeper's fire is narrative (the storytelling fire). Both are warm. Both are dangerous. Both remember.

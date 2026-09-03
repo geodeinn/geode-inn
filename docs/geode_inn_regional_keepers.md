@@ -3,7 +3,7 @@
 
 ## Overview
 
-The Geode Inn's Keeper (Aughra, Smith/Dench) is the master archetype — the Inn's own ancient consciousness, tending the Song at the roots of the Great Tree. But she is not alone. Every cultural region in the Inn's open world has its own version: a wise ancient figure drawn from that culture's real mythology and folklore, serving the same narrative function — keeper of knowledge, tender of the world, one who remembers — expressed through that culture's authentic traditions.
+The Geode Inn's Keeper (Fibonacci, Smith/Dench) is the master archetype — the Inn's own ancient consciousness, tending the Song at the roots of the Great Tree. But she is not alone. Every cultural region in the Inn's open world has its own version: a wise ancient figure drawn from that culture's real mythology and folklore, serving the same narrative function — keeper of knowledge, tender of the world, one who remembers — expressed through that culture's authentic traditions.
 
 These are not copies of the Keeper. They are her *siblings*. Each one remembers a piece of the Song of Making, filtered through their culture's lens. The Inn's Keeper remembers the whole Song. The regional Keepers each remember a verse.
 

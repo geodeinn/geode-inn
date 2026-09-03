@@ -179,7 +179,7 @@ Each zone uses one of 7 DSP (digital signal processing) room profiles:
 
 ### Character Tiers
 1. **Full Presence** — deity-level, ancient forces (The Morrigan, Fae royalty, The Allfather). Large, imposing, rendered with full detail.
-2. **Ambulatory** — significant NPCs who move freely (Cthulhu/Naut the scholar, Quire, the Cartographer). Mid-detail.
+2. **Ambulatory** — significant NPCs who move freely (Naut/Naut the scholar, Quire, the Cartographer). Mid-detail.
 3. **Chibi** — tricksters, arcade NPCs, minor creatures (Anansi, goblins, companion pets). Cute, small, expressive.
 
 ### Portrait System

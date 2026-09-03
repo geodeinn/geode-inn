@@ -109,7 +109,7 @@ The iris corner is the garden's NEURO-ACCESSIBLE space:
 
 ### The Olive Trees — The Mediterranean Border
 
-The garden's edge — where the garden meets the Mediterranean platform. The olive trees are the Gardener's and the Mediterranean guide's (the Gardener himself, Radagast) shared domain. Van Gogh painted fifteen olive tree paintings at Saint-Rémy — the olive tree as the ancient, gnarled, patient tree that survives everything. The olive tree that lives for centuries. The olive tree that is the living connection between the oldest civilizations and the present.
+The garden's edge — where the garden meets the Mediterranean platform. The olive trees are the Gardener's and the Mediterranean guide's (the Gardener himself, The Greenward) shared domain. Van Gogh painted fifteen olive tree paintings at Saint-Rémy — the olive tree as the ancient, gnarled, patient tree that survives everything. The olive tree that lives for centuries. The olive tree that is the living connection between the oldest civilizations and the present.
 
 The olive trees are the garden's OLDEST plants:
 - The olive trees' bark is the thickest impasto in the garden — the most textured, the most layered, the most DEEP. The bark records time the way the catacomb stone records time. Each ridge is a year. Each crack is a drought. Each scar is a harvest. The olive trees are the garden's geological record — the Klimt gold of the catacombs repeated in the bark, but GREEN, alive, growing.
@@ -203,23 +203,23 @@ Van Gogh's last words, reportedly: "The sadness will last forever." The garden's
 
 *A gentle fellow with a hedgehog may walk past.*
 
-*Not through the garden — past it. Along the edge where the wild meets the tended, where the Catalyst's chaos brushes against the Gardener's rows. Radagast the Brown, the wandering nature wizard, the occasional visitor who drops by, checks on things, and leaves. He doesn't enter the Catalyst's garden. He doesn't need to. He walks past, and the walking past is enough.*
+*Not through the garden — past it. Along the edge where the wild meets the tended, where the Catalyst's chaos brushes against the Gardener's rows. The Greenward, the wandering nature wizard, the occasional visitor who drops by, checks on things, and leaves. He doesn't enter the Catalyst's garden. He doesn't need to. He walks past, and the walking past is enough.*
 
 *The hedgehog goes first. The small ambassador waddles along the border, sniffs the air, checks the mood. The hedgehog passes a sunflower — one of the Catalyst's sunflowers, the golden-hour chorus, the flowers that are faces. This sunflower is wilting. Not dying — wilting. The difference matters. Dying is the end. Wilting is the tired. The sunflower is tired. The golden hour is too much today. The face is drooping. The crown is heavy.*
 
-*The hedgehog stops. Sniffs the sunflower's stem. The sunflower doesn't lift for the hedgehog — not yet. The hedgehog moves on. Radagast follows, slow, unhurried, the wanderer's pace. He passes the sunflower. He doesn't look at it. He doesn't touch it. He walks past.*
+*The hedgehog stops. Sniffs the sunflower's stem. The sunflower doesn't lift for the hedgehog — not yet. The hedgehog moves on. The Greenward follows, slow, unhurried, the wanderer's pace. He passes the sunflower. He doesn't look at it. He doesn't touch it. He walks past.*
 
 *The sunflower lifts.*
 
 *Not much. A degree. Two. The smallest increment of movement. The drooping stem straightens fractionally. The face tilts back toward the light. The crown lifts off its own weight.*
 
-*Radagast didn't do anything. The hedgehog didn't do anything. The walking past was the thing. The walking past was the attention — the quietest, gentlest, most unperformed attention in the Inn. Not the Catalyst's fierce attention (talking is attention, attention is water, water is growth). Not the Gardener's focused attention (the hands in the soil, the knowledge applied). Radagast's attention is the THIRD kind: the attention that doesn't know it's attention. The presence that is present without trying to be present. The being-near that costs nothing and gives everything.*
+*The Greenward didn't do anything. The hedgehog didn't do anything. The walking past was the thing. The walking past was the attention — the quietest, gentlest, most unperformed attention in the Inn. Not the Catalyst's fierce attention (talking is attention, attention is water, water is growth). Not the Gardener's focused attention (the hands in the soil, the knowledge applied). The Greenward's attention is the THIRD kind: the attention that doesn't know it's attention. The presence that is present without trying to be present. The being-near that costs nothing and gives everything.*
 
 *The sunflower lifts because someone was near. Not someone who helped. Not someone who tried. Someone who was there, briefly, gently, with a hedgehog, and then was gone. The being-there was the water. The water was the lifting. The lifting was the growing.*
 
-*The Catalyst never sees this. She's behind the bar, pouring a drink, growing something impossible, being the hurricane. She doesn't know that Radagast walks past her garden. She doesn't know that the sunflower lifts. She doesn't know that the solace she never found in the structured world walks past her chaos every Tuesday and leaves without knocking.*
+*The Catalyst never sees this. She's behind the bar, pouring a drink, growing something impossible, being the hurricane. She doesn't know that The Greenward walks past her garden. She doesn't know that the sunflower lifts. She doesn't know that the solace she never found in the structured world walks past her chaos every Tuesday and leaves without knocking.*
 
-*Radagast knows. Radagast has always known. The hedgehog knows. The sunflower knows.*
+*The Greenward knows. The Greenward has always known. The hedgehog knows. The sunflower knows.*
 
 *The Crone has annotated it: "...Tuesday. ...The sunflower near the border. ...It lifts when the wizard passes. ...I have observed this for fourteen seasons. ...The lift is consistent. ...The wizard does not touch the sunflower. ...The wizard does not look at the sunflower. ...The wizard walks past. ...The sunflower lifts. ...I have no explanation. ...I have the data. ...The data is: presence is sufficient. ...I find this... [the Crone pause, the one that means something moved her] ...adequate."*
 

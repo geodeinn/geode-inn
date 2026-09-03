@@ -137,7 +137,7 @@ The Fae Kingdom is accessed through Stone Circle portals on the world map (Stone
 
 #### 5. Cob — The Riddle-Keeper
 - **Location:** Under the largest ancient tree, sitting at a desk made from a single massive mushroom cap
-- **Presence:** A middle-aged Fae man with spectacles (echoing Cthulhu's scholar aesthetic — the Inn values knowledge). Surrounded by scrolls and books. He never looks up when you approach — he speaks while writing.
+- **Presence:** A middle-aged Fae man with spectacles (echoing Naut's scholar aesthetic — the Inn values knowledge). Surrounded by scrolls and books. He never looks up when you approach — he speaks while writing.
 - **Function:** The primary quest-giver for Seelie Court reputation. His quests are riddle-based — solve a riddle, retrieve a specific item, interpret a passage from a Living Book. Each quest teaches the player something about Fae logic, which operates differently from surface logic.
 - **Dialogue (contextual):**
   - *First meeting:* "Sit. Don't touch the scrolls. You want the Court's trust? The Court trusts those who think in circles, not lines. I have riddles that need solving and books that need reading. The answers aren't in the books — the books are the questions."

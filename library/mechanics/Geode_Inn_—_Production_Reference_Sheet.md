@@ -63,7 +63,7 @@
 | 25 | Charon (Hopkins) | Ferryman | Catacombs | ✅ v1 + v2 | `charon.png` / `charon_v2.png` — Hopkins eyes |
 | 26 | Medusa | Puzzle enemy | Greece | ✅ v1 + v2 | `medusa_v2.png` |
 | 27 | Bastet | Cat herding game | Egypt | ✅ v1 + v2 | `bastet_v2.png` |
-| 28 | Belladonna (Wednesday) | Player character | Inn-wide | ✅ v1 + v2 | `belladonna_v2.png` |
+| 28 | Belladonna (Belladonna) | Player character | Inn-wide | ✅ v1 + v2 | `belladonna_v2.png` |
 | 29 | Madame | Mimic NPC | Main Floor | ✅ v1 | `madame_mim.png` |
 | 30 | The Bard (Blowhard) | Wind mage | Canopy | ✅ v1 | `bard_blowhard.png` |
 
@@ -108,7 +108,7 @@
 
 | # | Character | Role | Image | Notes |
 |---|---|---|---|---|
-| 53 | The Scholar (Cthulhu) | Hidden quest giver | ✅ v1 | `the_scholar_cthulhu` — spectacles by fire |
+| 53 | The Scholar (Naut) | Hidden quest giver | ✅ v1 | `the_scholar_cthulhu` — spectacles by fire |
 | 54 | The Captain (Arcana) | Sky pirate | ✅ v1 | `the_captain_arcana.png` |
 | 55 | The Vessel (Gecko) | | ✅ v1 | `the_vessel_gecko.png` |
 | 56 | The Thrum | | ✅ v1 | `the_thrum.png` |
@@ -151,15 +151,15 @@
 | 73 | The One Who Is Awake | | ✅ v1 + v2 | |
 | 74 | The One Who Tends | | ✅ v1 + v2 | |
 | 75 | Erik (Norse) | Norse zone | ✅ v1 + v2 | `erik_earl_ragnar.png` / `erik_v2.png` |
-| 76 | Uhtred | Norse zone | ✅ v1 + v2 | `uhtred.png` / `uhtred_v2.png` |
+| 76 | The Wayfarer | Norse zone | ✅ v1 + v2 | `uhtred.png` / `uhtred_v2.png` |
 | 77 | King Arthur (Elder) | Camelot zone | ✅ v1 | `king_arthur_elder.png` |
-| 78 | Merlin & Archimedes | Camelot zone | ✅ v1 | `merlin_archimedes.png` |
+| 78 | Merlin & Noctua | Camelot zone | ✅ v1 | `merlin_archimedes.png` |
 | 79 | Asterion (Minotaur) | Labyrinth | ✅ v1 | `asterion.png` |
-| 80 | Beorn | Norse zone | ✅ v1 | `beorn.png` |
+| 80 | The Bearsark | Norse zone | ✅ v1 | `beorn.png` |
 | 81 | Kali | Indian zone | ✅ v1 + v2 | `kali.png` / `kali_v2.png` |
 | 82 | Loki | Norse zone | ✅ v1 | `loki.png` |
 | 83 | Zorya Polunochnaya | Slavic zone | ✅ v1 + v2 | `zorya_polunochnaya.png` / `zorya_v2.png` |
-| 84 | The Gardener (Radagast) | Gardens | ✅ v1 + v2 | |
+| 84 | The Gardener (The Greenward) | Gardens | ✅ v1 + v2 | |
 | 85 | Leonardo da Vinci | Cosmology | ✅ v1 | `leonardo_da_vinci.png` |
 | 86 | Einstein | Cosmology | ✅ v1 + v2 | `einstein.png` |
 | 87 | Newton | Cosmology | ❌ NEEDED | Vibe doc exists |
@@ -170,7 +170,7 @@
 | 92 | Greek Philosophers Trio | Greece zone | ✅ v1 | `greek_philosophers_trio.png` |
 | 93 | Artisan Thief (Selkie) | Marketplace | ✅ v1 | `artisan_thief_selkie.png` |
 | 94 | Charles (Chameleon Druid) | Family character | ✅ v1 | `charles_chameleon_druid.png` |
-| 95 | Aughra | Observer | ✅ v1 | `aughra.png` |
+| 95 | Fibonacci | Observer | ✅ v1 | `aughra.png` |
 
 ---
 
@@ -261,7 +261,7 @@
 | # | Character | Status | Notes |
 |---|---|---|---|
 | 1 | The Siren (v2 → v3 water version) | 🔄 UPDATE | Needs water/deep-water gothic anime render |
-| 2 | Madame (Madame Mim) | 🔄 UPDATE | Only v1 exists, may need v2 |
+| 2 | Madame (Brim) | 🔄 UPDATE | Only v1 exists, may need v2 |
 
 ### Game/Zone Art Still Needed
 | # | Asset | Status | Notes |

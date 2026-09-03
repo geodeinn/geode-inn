@@ -91,8 +91,8 @@ Below is the complete catalog of 32 story-specific beverages distributed across 
 17  Black-Star Coffee Brew       The Void / Cosmic Layer Cosmic Crew         Exposes cosmic constellation weaves & crew memories.
 18  Brownie's Spiced Cider       Main Floor / Common     Brownies / Grit     +35% Move Speed; reveals dust-passages & Brownie shortcuts.
 19  The Bard's Spilled Pitcher   Mead Hall               The Bard Blowhard   + Charisma; unlocks comedic & deceptive dialogue branches.
-20  Aughra's Root Decoction      Deep Forest / Carrying  Aughra / The Keeper Exposes the "Voice of the Rocks" & past chronological echo lines.
-21  Cthulhu's Elder Bitters      Archive / Void          Cthulhu             Exposes Eldritch runes & non-Euclidean geometry paths.
+20  Fibonacci's Root Decoction      Deep Forest / Carrying  Fibonacci / The Keeper Exposes the "Voice of the Rocks" & past chronological echo lines.
+21  Naut's Elder Bitters      Archive / Void          Naut             Exposes Eldritch runes & non-Euclidean geometry paths.
 22  Einstein's Relativity Stout  Council of Thinkers     Einstein            Bends combat time perception; highlights math solutions.
 23  Morrigan's Raven Tonic       Celtic Shadow           The Morrigan        Exposes death-threads; 3s invulnerability during shifts.
 24  Gorgon's Stone-Bloom Mead    Gorgon's Garden         Gorgon Sentinel     Immunity to petrification; reveals statue lore secrets.
@@ -263,20 +263,20 @@ Below is the complete catalog of 32 story-specific beverages distributed across 
 * **Story Hook**: The Bard’s drink of choice before launching into wild, embellished heroic ballads that are only 20% historically accurate.
 * **Mechanical Effect**: **Bardsong Charisma**: Boosts Charisma checks by +30%, unlocks hilarious boastful dialogue branches, but causes slight screen sway for 180 seconds.
 
-#### 20. Aughra's Root & Moss Decoction
+#### 20. Fibonacci's Root & Moss Decoction
 * **Zone / Origin**: Deep Forest / The Carrying Questline.
-* **Creator / Provider**: Aughra (The Keeper).
-* **Visual & Preparation Ritual**: Boiled in a black iron kettle over crackling root-fires. Aughra ladles the steaming dark brown liquid into a hollow wooden bowl with calloused, dirt-stained hands.
+* **Creator / Provider**: Fibonacci (The Keeper).
+* **Visual & Preparation Ritual**: Boiled in a black iron kettle over crackling root-fires. Fibonacci ladles the steaming dark brown liquid into a hollow wooden bowl with calloused, dirt-stained hands.
 * **Flavor Profile**: Deep forest soil, bitter licorice root, wild pine needle, damp peat moss, and an ancient, grounding earthiness.
-* **Story Hook**: The sacred tea served by Aughra during "The Carrying" questline. It forces the drinker to slow down, sit, and listen to the world.
+* **Story Hook**: The sacred tea served by Fibonacci during "The Carrying" questline. It forces the drinker to slow down, sit, and listen to the world.
 * **Mechanical Effect**: **Voice of the Rocks**: Renders the player immune to movement displacement, unlocks acoustic speech from ancient stone monoliths, and reveals chronological timeline echoes for 300 seconds.
 
-#### 21. Cthulhu's Elder Bitters
+#### 21. Naut's Elder Bitters
 * **Zone / Origin**: The Archive / Deep Void Chamber.
-* **Creator / Provider**: Cthulhu (The Librarian).
+* **Creator / Provider**: Naut (The Librarian).
 * **Visual & Preparation Ritual**: Dispensed drop by drop from an antique green glass eye-dropper into a crystal glass filled with crushed black ice. The liquid swirls in impossible, non-Euclidean spirals.
 * **Flavor Profile**: Bitter gentian, dark licorice, clove, salty squid ink, and an eerie cosmic coldness that vibrates on the palate.
-* **Story Hook**: Formulated by Cthulhu to soothe his throat after hours of reading forbidden cosmic manuscripts to visitors in the Archive Nook.
+* **Story Hook**: Formulated by Naut to soothe his throat after hours of reading forbidden cosmic manuscripts to visitors in the Archive Nook.
 * **Mechanical Effect**: **Eldritch Geometry Shift**: Exposes non-Euclidean shortcuts, hidden portal runes on book spines, and grants immunity to madness/sanity degradation for 210 seconds.
 
 #### 22. Einstein's Relativity Stout
@@ -523,7 +523,7 @@ Soma of High Peaks          Observatory Apex Nook     "Cosmic Alignment"       P
                                                                                Observatory ceiling without puzzle triggers.
 Clockwork Green Tea         Clockwork Airship Nook    "Skybound Solitude"      Highlights all hidden airship loot caches across
                                                                                the Level 2 skyways.
-Aughra's Root Decoction     Deep Forest Moss Nook     "Memory of the First Tree" Plays Aughra's narrative recounting the birth
+Fibonacci's Root Decoction     Deep Forest Moss Nook     "Memory of the First Tree" Plays Fibonacci's narrative recounting the birth
                                                                                of the prime crystal.
 Black-Star Coffee Brew      Void Edge Window Nook     "Silent Constellation"   Reveals the secret passage to the Outer Hull.
 The 42Hz Resonant Vintage   Prime Crystal Nook        "The Completed Song"     Triggers a 3-minute Klimt-gold visual bloom

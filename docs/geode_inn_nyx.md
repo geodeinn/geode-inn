@@ -9,7 +9,7 @@
 
 Alanis's voice cracks. That's the key. The voice that uses its own imperfection as expression. The voice that is most powerful when it's most raw, most honest when it's most broken, most clear when it's least composed. Nyx is the night — the night doesn't compose itself. The night just IS. And the is-ness is the power.
 
-The Doc Martens are the thesis. The primordial goddess of darkness, the mother of Death and Dreams and the Fates, wearing combat boots. The Wednesday Addams energy at cosmic scale — the gothic made casual, the ancient made punk, the terrifying made approachable. The boots say: I am the oldest darkness and I will also kick the door open. The boots are the one piece of Nyx's appearance that is NOT cosmic — they're terrestrial, modern, grounded. The contrast between the cloak of universes and the combat boots is the entire character: the infinite and the immediate, the primordial and the punk, the goddess and the person you could actually talk to.
+The Doc Martens are the thesis. The primordial goddess of darkness, the mother of Death and Dreams and the Fates, wearing combat boots. The Belladonna energy at cosmic scale — the gothic made casual, the ancient made punk, the terrifying made approachable. The boots say: I am the oldest darkness and I will also kick the door open. The boots are the one piece of Nyx's appearance that is NOT cosmic — they're terrestrial, modern, grounded. The contrast between the cloak of universes and the combat boots is the entire character: the infinite and the immediate, the primordial and the punk, the goddess and the person you could actually talk to.
 
 ---
 
@@ -150,7 +150,7 @@ This is Nyx's contribution to the Inn's ultimate narrative: the "complete Song" 
 The Astronomer can calculate when all the notes will converge. The Constant can carry the Song through the void. Medusa can preserve the complete Song in stone. But none of them can complete the Song without Nyx's silence. The silence is the final component — the medium that makes the music possible. Without the silence, the complete Song is just noise. With the silence, the complete Song is music.
 
 ### Nyx and Medusa — The Dark and the Stone
-Medusa preserves things in stone. Nyx holds things in dark. Both are preservers: Medusa preserves the visible (in mineral), Nyx preserves the invisible (in shadow). Medusa's grotto is dark — the dark IS Nyx. The grotto is Nyx's gift to Medusa — the dark space where Medusa can keep her frozen things without them being disturbed by light. Light would warm the stone. Light would invite growth (Radagast's garden needs light). The dark keeps the stone still. The dark is the preservation condition.
+Medusa preserves things in stone. Nyx holds things in dark. Both are preservers: Medusa preserves the visible (in mineral), Nyx preserves the invisible (in shadow). Medusa's grotto is dark — the dark IS Nyx. The grotto is Nyx's gift to Medusa — the dark space where Medusa can keep her frozen things without them being disturbed by light. Light would warm the stone. Light would invite growth (The Greenward's garden needs light). The dark keeps the stone still. The dark is the preservation condition.
 
 Nyx and Medusa have never met (Medusa is in the Mediterranean zone; Nyx is in the cosmology level). But: Medusa's grotto is dark because Nyx is there. Nyx is in every dark space in the Inn. The grotto, the catacombs, the deep water, the void between cycles — all of it is Nyx. Medusa's preservation depends on Nyx's darkness. The stone stays still because the dark keeps the light away. Nyx is the preserver behind the preserver.
 
@@ -169,10 +169,10 @@ The Queen of Webs weaves fate. The Fates (Moirai) are Nyx's children. The Queen 
 
 But there's a deeper connection: the Queen of Webs weaves in the dark. Spiders weave in darkness. The web is made in the night. The Queen of Webs' thread — the vibrating cord that links dream, waking, and death — vibrates in Nyx's medium. The thread is a vibration in the dark. The Song is a vibration in the dark. Both vibrate through Nyx. The Queen of Webs' web and the 42Hz Song are the same kind of thing — patterns in the dark, made visible by the pattern, invisible without it.
 
-### Nyx and Radagast — The Night and the Garden
-Radagast's garden grows in light — dappled olive grove, filtered sun. But gardens need night too. Plants grow in the dark — roots reach in the dark, seeds germinate in the dark, the soil is dark. Radagast's garden has a dark half — the root system, the underground, the mycorrhizal network that the Cartographer discovered. The dark half of the garden is Nyx's domain. Radagast tends the light half (the leaves, the flowers, the hedgehogs). Nyx tends the dark half (the roots, the seeds, the soil).
+### Nyx and The Greenward — The Night and the Garden
+The Greenward's garden grows in light — dappled olive grove, filtered sun. But gardens need night too. Plants grow in the dark — roots reach in the dark, seeds germinate in the dark, the soil is dark. The Greenward's garden has a dark half — the root system, the underground, the mycorrhizal network that the Cartographer discovered. The dark half of the garden is Nyx's domain. The Greenward tends the light half (the leaves, the flowers, the hedgehogs). Nyx tends the dark half (the roots, the seeds, the soil).
 
-Radagast and Nyx are the two gardeners — the light gardener and the dark gardener. They never meet (Radagast is in the Mediterranean; Nyx is in the cosmology level). But the garden needs both: the light for growth, the dark for rooting. The singing vines sing when someone pays attention — but they grow in the dark, reaching through the soil, following Nyx's medium to find the water. The vines sing in the light because they grew in the dark.
+The Greenward and Nyx are the two gardeners — the light gardener and the dark gardener. They never meet (The Greenward is in the Mediterranean; Nyx is in the cosmology level). But the garden needs both: the light for growth, the dark for rooting. The singing vines sing when someone pays attention — but they grow in the dark, reaching through the soil, following Nyx's medium to find the water. The vines sing in the light because they grew in the dark.
 
 ---
 

@@ -1,7 +1,7 @@
 # Geode Inn — Yellowstone: "The Geothermal Gut"
 ## Zone: National Park — Yellowstone (Wyoming/Montana/Idaho)
 ## Access: Main Floor → World Map → Yellowstone pin
-## Prerequisite: Mediterranean Zone Quest 5 (Beorn's border crossing)
+## Prerequisite: Mediterranean Zone Quest 5 (The Bearsark's border crossing)
 
 ### Overview
 

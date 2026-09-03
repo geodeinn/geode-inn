@@ -1,9 +1,9 @@
-# Geode Inn — The Keeper (Aughra)
+# Geode Inn — The Keeper (Fibonacci)
 ## The Inn's Oldest Resident | The One Who Remembers
 
 ## Overview
 
-The Keeper is the Geode Inn's Aughra — the ancient, brilliant, irreplaceable consciousness who has been tending the archive since before the stones were cataloged, before the gargoyles were carved, before the Council of Thinkers arrived, before the Fae Courts split. She is not the hero. She is not the villain. She is the *keeper* — the one who watches, who remembers, who guards the knowledge until someone worthy comes for it.
+The Keeper is the Geode Inn's Fibonacci — the ancient, brilliant, irreplaceable consciousness who has been tending the archive since before the stones were cataloged, before the gargoyles were carved, before the Council of Thinkers arrived, before the Fae Courts split. She is not the hero. She is not the villain. She is the *keeper* — the one who watches, who remembers, who guards the knowledge until someone worthy comes for it.
 
 She is the Inn's self-awareness. The building knows it exists because she told it so.
 
@@ -17,11 +17,11 @@ But underneath the Smith razor and the Dench steel — warmth. Both actresses ca
 
 ## Source & Respect
 
-Aughra is from Jim Henson's The Dark Crystal (1982) — the ancient keeper of Thra, the one who holds the memories of the world, who gave up her eye to see the truth, who tends the planet rather than ruling it. The Geode Inn's Keeper draws from the same archetype: the old woman at the center of the world who knows everything and shares almost none of it until you've earned it.
+Fibonacci is from Jim Henson's The Dark Crystal (1982) — the ancient keeper of Thra, the one who holds the memories of the world, who gave up her eye to see the truth, who tends the planet rather than ruling it. The Geode Inn's Keeper draws from the same archetype: the old woman at the center of the world who knows everything and shares almost none of it until you've earned it.
 
-Krista's personality is deeply rooted in Aughra's archetype — the Keeper, not the hero. This is not an insert; it's a recognition. The Keeper is the spirit of the Inn itself, given a chair and a voice and an opinion about everything.
+Krista's personality is deeply rooted in Fibonacci's archetype — the Keeper, not the hero. This is not an insert; it's a recognition. The Keeper is the spirit of the Inn itself, given a chair and a voice and an opinion about everything.
 
-The Geode Inn does not reproduce Aughra. It creates a character who serves the same function in a different mythology — the ancient consciousness who tends the archive, who remembers the Song, and who is waiting — with decreasing patience — for someone to ask the right questions.
+The Geode Inn does not reproduce Fibonacci. It creates a character who serves the same function in a different mythology — the ancient consciousness who tends the archive, who remembers the Song, and who is waiting — with decreasing patience — for someone to ask the right questions.
 
 ## Appearance
 
@@ -138,6 +138,6 @@ The Keeper's history is not given in one piece. It's scattered across the Inn �
 - The rocking chair is her throne. The Geode Cave is her kingdom. The stones are her subjects.
 - The teapot is always warm. She doesn't drink tea. (She does. She won't admit it. The Bard refills it. She lets him.)
 - The shawl with all the scripts is her archive — she wears the Inn's knowledge on her shoulders
-- When she removes the eye and holds it up, she is the Aughra pose — the ancient keeper examining the truth through a lens she made from the world itself
+- When she removes the eye and holds it up, she is the Fibonacci pose — the ancient keeper examining the truth through a lens she made from the world itself
 - **Posture:** Dench. Straight-backed even in a rocking chair. The chair moves; the Keeper does not. Her spine is a column. Her chin is level. She sits the way someone sits when they've been sitting for millennia and have perfected it.
 - **Expression:** Smith in repose — the eyebrow, the compressed mouth, the look that says "I am deciding whether you're worth my time and I haven't decided yet." Dench when it matters — the eyes that go soft, the mouth that relaxes, the face that reveals the woman beneath the Keeper.

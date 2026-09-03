@@ -70,7 +70,7 @@ Bait's characteristics:
 **Naut** is the public-facing identity who knows the truth about The Royal. Naut serves as a reluctant steward — a character who occasionally tasks players with retrieving items from The Royal's depths without revealing the source.
 
 Naut's characteristics:
-- Formerly known as Cthulhu (the 4-foot squid-headed scholar with spectacles by the fireplace).
+- Formerly known as Naut (the 4-foot squid-headed scholar with spectacles by the fireplace).
 - Knows about The Royal but doesn't advertise it. The Royal is Naut's guilty secret — something inherited, not chosen.
 - Occasionally asks players to retrieve specific items from deep in the archive. The requests are always specific ("I need the bowl from Section 7 — no, not that one, the one that hums") but never explained.
 - Naut is the bridge between the public Inn and the hidden Royal. Players who notice the pattern of requests eventually figure out that Naut has access to something much larger than the fireplace library.

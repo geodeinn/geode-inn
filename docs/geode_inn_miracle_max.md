@@ -15,7 +15,7 @@ The conviction. The absolute, unshakable, slightly manic conviction of a man who
 
 The Lloyd energy is the shop. The shop is chaotic, organized in a system that only makes sense to Max, full of things that should not be next to each other but are, because Max put them there and Max doesn't explain his filing system. The Lloyd energy is the belief that the system works — and the system *does* work, which is the terrifying part. The chaos is functional. The clutter is precision. The mess is the method.
 
-The Lloyd warmth — because Lloyd is warm. The Addams Family uncle energy (which connects to Krista's Wednesday Addams identity — Max is the kind of family member Wednesday would tolerate because he doesn't try to make her normal). The warmth of someone who is genuinely kind but expresses kindness through bombastic enthusiasm rather than gentleness. Max doesn't comfort you. Max *fixes* you. And the fixing is loud.
+The Lloyd warmth — because Lloyd is warm. The Addams Family uncle energy (which connects to Krista's Belladonna identity — Max is the kind of family member Belladonna would tolerate because he doesn't try to make her normal). The warmth of someone who is genuinely kind but expresses kindness through bombastic enthusiasm rather than gentleness. Max doesn't comfort you. Max *fixes* you. And the fixing is loud.
 
 ### Christopher Walken — The Posture, Speech, and Cadence
 

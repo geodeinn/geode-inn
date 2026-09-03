@@ -46,7 +46,7 @@ The master document for the Geode Inn's three core publishing products: the Nove
 | Part | Name | Words | What Happens |
 |------|------|-------|-------------|
 | 1 | The Murmur | ~20k | Creation myth, gods, the Song, the Egg. The traveler walks through the forest, finds the Inn-Tree, crosses the threshold. The Host welcomes. First stones, first games, first night by the fire. |
-| 2 | The Main Floor | ~25k | The Crone measures. The Catalyst pulls stories. The arcade. The brownies. Mim and Monsieur Sentient. The Reader in the window-seat nook. One line. The Archive. The marketplace. The music room. The staircase appears. |
+| 2 | The Main Floor | ~25k | The Crone measures. The Catalyst pulls stories. The arcade. The brownies. Brim and Monsieur Sentient. The Reader in the window-seat nook. One line. The Archive. The marketplace. The music room. The staircase appears. |
 | 3 | The Descent | ~35k | Egypt, Greece, Camelot, Norse, Peru, China, Slavic, India, Mesopotamia, Bayou. The Undercity. The Fae Kingdom. The Golden Contract. The Silica Thread. |
 | 4 | The Ascent | ~30k | The alchemical staircase (Socrates, Plato, Aristotle). The Spiral Gallery. Canopy City. The Clockwork Skies. The Cosmology Level. The Guest. The Observatory Quest. The Einstein Syndrome. |
 | 5 | The Egg | ~15k | The Whisper Layer revealed. The three choices. The Egg opens. The Grand Collision. The endgame choice. The epilogue — Nyx. "The adequate is enough." |

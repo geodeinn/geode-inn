@@ -62,9 +62,9 @@ The player progresses through the tree by unlocking zones. Each zone unlocked re
 |---|---|
 | **Zone design** | ✅ Complete — hobbit-hole cozy, amber/gold/cream, living tree architecture |
 | **Visual language** | ✅ Warm, organic, Darnassus-style living tree |
-| **Characters** | ✅ Multiple: The Wanderer (Odin), Huginn & Muninn (ravens), Tim Curry (Firekeeper), The Weeaboo, the baby dragon mascot, Cthulhu (hidden scholar) |
-| **Character stations** | ✅ Hearth (Firekeeper), main floor (Wanderer + ravens), hidden fireplace nook (Cthulhu) |
-| **Quests** | ✅ "The Last Story Told" (Firekeeper, 3 phases), Cthulhu's rare book retrieval |
+| **Characters** | ✅ Multiple: The Wanderer (Odin), Huginn & Muninn (ravens), Tim Curry (Firekeeper), The Weeaboo, the baby dragon mascot, Naut (hidden scholar) |
+| **Character stations** | ✅ Hearth (Firekeeper), main floor (Wanderer + ravens), hidden fireplace nook (Naut) |
+| **Quests** | ✅ "The Last Story Told" (Firekeeper, 3 phases), Naut's rare book retrieval |
 | **Audio profiles** | ✅ Firekeeper profiled |
 | **Games** | ✅ Phase 1 games designed: Standing Stones (Tetris), Tomb Tunnel (Dig Dug), Andean Run (Temple Run), Monster of the Deep (Nessie) |
 | **Interactive items** | ✅ Partial — zone template designed (Hearth template) |

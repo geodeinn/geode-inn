@@ -42,7 +42,7 @@ Main Floor (Trunk — Hub)
 * The Sacred Trio: Host, Catalyst, Crone (+ the Bard as fourth presence)
 * The Council of Thinkers: Tesla, Da Vinci, Newton, Einstein
 * The Wanderer (Odin's approachable form) with chibi ravens
-* Cthulhu the Scholar by the fireplace
+* Naut the Scholar by the fireplace
 * The baby dragon mascot in the geode cave
 * The Sage gargoyle guards the Modern Legends nook
 * The Keeper gargoyle guards the geode cave
@@ -69,7 +69,7 @@ The Dock (Water Layer)
 The Miskatonic Annex (Grounds)
 * Unassuming brick building — the Inn's research wing
 * Houses the Lost Books Collection
-* Connected to Cthulhu's quest line
+* Connected to Naut's quest line
 * Has an unnamed, ageless librarian
 ________________
 PART 4: THE NINE REALMS — LEVELS OF EXISTENCEUpper Realms (Upstairs / Cosmology Level)Asgard — "The High Place"
@@ -121,7 +121,7 @@ Jotunheim — "The Giant Lands"
 * Theme: Chaos, raw power, the untamed forces that predate the gods
 * Quest Type: Boss encounters and endurance quests — giants are not evil, they are primal forces to be understood
 * Cultural Teaching: The jotnar are not monsters — they are the older race, forces of wild nature. Some giants were wise, some were beautiful, some were the gods' lovers and teachers
-* Design Philosophy: The Uhtred Principle — "Destiny is all" (Wyrd bid ful araed). Gear must look lived-in and battle-worn.
+* Design Philosophy: The The Wayfarer Principle — "Destiny is all" (Wyrd bid ful araed). Gear must look lived-in and battle-worn.
 * Connects to: The Griffin boss in the Crystal Gardens, challenge content for high-reputation players
 Niflheim — "The Mist World"
 * Inn Location: Downstairs — frozen catacombs, the deepest preservation level
@@ -160,7 +160,7 @@ The Council of Thinkers
 * Albert Einstein — Personality: Robin Williams in Good Will Hunting (warm, tough, honest). Voice: Quiet Morgan Freeman (Red in Shawshank). The Council's emotional anchor. Carries the grief of E=mc2 becoming a bomb.
 Main Floor NPCs
 * The Wanderer (Odin) — Approachable traveler. Chibi thieving ravens Huginn (Thought, mumbler) and Muninn (Memory, clear-speaker). Labyrinth-knocker style snark, barely audible.
-* Cthulhu the Scholar — 4-foot squid-headed figure with spectacles. Hidden quest giver for rare book retrieval. Voice: Gary Oldman (chill, spectacles ON) / Geoffrey Rush (irked, spectacles OFF). Rewards the rarest stones.
+* Naut the Scholar — 4-foot squid-headed figure with spectacles. Hidden quest giver for rare book retrieval. Voice: Gary Oldman (chill, spectacles ON) / Geoffrey Rush (irked, spectacles OFF). Rewards the rarest stones.
 * The Owl — Barn owl. Full presence. Supernatural watcher connected to the bloodline. "Wherever an owl is sighted, one of us is near."
 * The Dragon Mascot — Heraldic-style dragon with Toothless's cat-like expression. Lives in the geode cave. Cave fills with gems upon level completion — the geode forming.
 * The Sage Gargoyle — 528Hz. Slender, pale sandstone. Thinker pose. Carved spectacles.
@@ -199,7 +199,7 @@ Family Character Classes (Starting Classes)
 * Artisan Thief (Vaulknut) — Selkie. Feminine Sandman. High DEX/INT, Low CHA. Dive ability. Jeweler's apron IS selkie skin.
 * Librarian Crone (Krista's Mom) — The Word/Measure. High INT/WIS, Low Empathy. "Better." Color psychology. Anthony Hopkins + Shirley MacLaine.
 * Bard Blowhard (Krista's Dad) — The Fool/Warmth. High CHA. ADHD-pattern thinker. Sci-fi lover. Room-filler.
-* Tinkering Weeaboo (Krista's Kid) — Changeling. Ryuk form. Static metamorphosis. Annoyance meter (Levels 0-4). Pomegranates. Bipolar cycle.
+* Tinkering Weeaboo (Krista's Kid) — Changeling. True Form. Static metamorphosis. Annoyance meter (Levels 0-4). Pomegranates. Bipolar cycle.
 * Chameleon Druid (Charles/Krista's Husband) — Cillian Murphy + Benedict Cumberbatch. High Versatility, Low Endurance (glioblastoma). Shifts with the changeling at Level 4.
 * Siren (Krista's Sister) — Voice IS power. Charm/Reveal/Heal/Drown. Perfection is the wall. Never forgets.
 * Pirate (Krista's Sister's Husband) — Dread Pirate Roberts. Drummer. Tenor-to-bass. Harbor Master Effect. Inn's heartbeat.
@@ -213,7 +213,7 @@ Story-Born Beings (From the Catalyst's Garden)
 Character Totals
 * 7 family character classes
 * 6 Full Presence deities
-* 1 Ambulatory (Cthulhu)
+* 1 Ambulatory (Naut)
 * 4 Council of Thinkers
 * 8 Chibi Fae NPCs
 * 11 Chibi Arcade Cast
@@ -232,7 +232,7 @@ PART 6: GAME SYSTEMS and MECHANICSThe Drink Mechanic (Catalyst's Bar)Players ear
 * The Crossing: Silent boat ride. The pole in the water. The slow approach of the other shore.
 * The Arrival: Charon says "...There you are."
 * The Return: Player steps out. New cycle begins. Collection lighter by one stone.
-Living Book SystemBooks in the Inn's library are alive — they can be talked to. The AI powers conversations with book characters. Living Book Detective mode lets players investigate texts. Connected to Cthulhu's rare book retrieval quests and the Miskatonic Annex.Remembrance Vision SystemPlayers can experience visions of past lives — the reincarnation mechanic made visible. Remembrance Visions are triggered by specific stones, locations, or narrative triggers. Connected to the bloodline motif and the Owl.The Marketplace SystemReal-world artisan items presented as collectable in-game artifacts. MarketItem and PlayerInventory database schemas. Items serve dual purpose: functional game objects with lore/stat properties AND gateways to external e-commerce sites. "Soulstice" marker for authenticity. Inventory-as-journal approach. Items can be listed as "Forthcoming" with "Process" links showing artisan skill-building journey.The Geode CaveThe player's collection room. Starts nearly silent — one soft hum from the Keeper gargoyle. Each stone added resonates at its own frequency (based on mineral hardness). A full cave is a symphony of chimes. The geode IS the resonance chamber for the Song of Making.Gargoyle FrequenciesEach gargoyle hums at a specific frequency. Together, they form a chord that IS the Geode Inn:
+Living Book SystemBooks in the Inn's library are alive — they can be talked to. The AI powers conversations with book characters. Living Book Detective mode lets players investigate texts. Connected to Naut's rare book retrieval quests and the Miskatonic Annex.Remembrance Vision SystemPlayers can experience visions of past lives — the reincarnation mechanic made visible. Remembrance Visions are triggered by specific stones, locations, or narrative triggers. Connected to the bloodline motif and the Owl.The Marketplace SystemReal-world artisan items presented as collectable in-game artifacts. MarketItem and PlayerInventory database schemas. Items serve dual purpose: functional game objects with lore/stat properties AND gateways to external e-commerce sites. "Soulstice" marker for authenticity. Inventory-as-journal approach. Items can be listed as "Forthcoming" with "Process" links showing artisan skill-building journey.The Geode CaveThe player's collection room. Starts nearly silent — one soft hum from the Keeper gargoyle. Each stone added resonates at its own frequency (based on mineral hardness). A full cave is a symphony of chimes. The geode IS the resonance chamber for the Song of Making.Gargoyle FrequenciesEach gargoyle hums at a specific frequency. Together, they form a chord that IS the Geode Inn:
 * The Watcher: 111Hz (transformation)
 * The Listener: 64Hz (grounding)
 * The Sage: 528Hz (clarity)
@@ -373,7 +373,7 @@ Tier 3: The Fae Realms
 * Require the Fae Kingdom portal (from Standing Stones game or Celtic stone circle chain)
 * MMO-style explorable zone with NPCs, quests, faction reputation
 Tier 4: The Deep Realms
-* Jotunheim: Giant boss encounters, primal force quests. Uhtred Principle design.
+* Jotunheim: Giant boss encounters, primal force quests. The Wayfarer Principle design.
 * Niflheim: Archaeological preservation quests, ice-preserved discoveries
 * Require Revered reputation and catacomb exploration
 Tier 5: The High Realms
@@ -410,7 +410,7 @@ The Morrigan and Unseelie King — Full character designs with casting, zones, m
 The Odin Dual-Identity — Wanderer + Allfather with raven mechanics
 The Council of Thinkers — Tesla, Da Vinci, Newton, Einstein with full castings
 The Fae Kingdom — Quest blueprint with Seelie/Unseelie courts, 5-zone Labyrinth
-Cthulhu — Full character with binary voice, quest line, Miskatonic Annex
+Naut — Full character with binary voice, quest line, Miskatonic Annex
 The Drink Mechanic — Narrative-to-drink system with journal
 The Arcade Games — 16+ games mapped across 6 phases with realm connections
 Charon, Anubis, Spot — Full character designs for the death/underworld layer
@@ -422,7 +422,7 @@ Miracle Max's Alchemy Shop — Confirmed for the staircase (Muspelheim) but not 
 Hel (The Being) — Realm defined but Hel herself not fully designed. She's Loki's daughter, half living, half dead. Needs casting, personality, dialogue style, quest mechanics.
 Niflheim Content — Realm defined (ice, preservation, archaeology) but specific quests, NPCs, and discoveries not detailed. What's frozen down there? What do players find?
 Svartalfheim (Unseelie Court zone) — The Labyrinth is fully designed but the surrounding Unseelie Court zone (The Hollow) needs expansion. What's the Unseelie version of the Summerlands?
-Jotunheim Specifics — Giant NPCs not individually designed. Which giants? What are their stories? The Uhtred Principle is set but the content isn't.
+Jotunheim Specifics — Giant NPCs not individually designed. Which giants? What are their stories? The The Wayfarer Principle is set but the content isn't.
 Story-Born Beings — Wayfarer, Hearthkeeper, Mourner, Laughing One mentioned as emerging from the Catalyst's garden but not profiled. What do they do? Where do they live?
 The Seelie King — Has a brief description (gentle, ancient, master assassin) but no full profile with casting, dialogue, or quest chain. Needs the depth the Unseelie King got.
 Asgard Content — Realm defined as endgame but specific quests, the Jupiter gate mechanics, Mars prison, and Pluto's gate not designed. What does the player actually DO in Asgard?

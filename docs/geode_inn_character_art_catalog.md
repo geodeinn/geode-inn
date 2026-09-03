@@ -808,7 +808,7 @@ The cabbit transforming into the spaceship is NEVER shown on screen. It is impli
 - Other patrons pay no special attention — just another regular at the Inn
 - Feeling: an ancient cosmic entity who decided the most fulfilling thing in existence is to sit by a fire and read
 
-**Cultural Source:** H.P. Lovecraft's Naut Mythos — filed under "modern day legends" framework, not conspiracy terminology. Lovecraft's work IS on the shelves of the modern legends nook. The being itself wanders the Inn.
+**Cultural Source:** H.P. Lovecraft's Cthulhu Mythos — filed under "modern day legends" framework, not conspiracy terminology. Lovecraft's work IS on the shelves of the modern legends nook. The being itself wanders the Inn.
 **Why "Kinda Chibi, Kinda Not":** Too cute would undermine the cosmic weight. Too terrifying would break the Inn's warm atmosphere. The middle ground — a 4-foot scholarly being with spectacles — preserves the joke (it's Naut) while making him approachable enough to talk to.
 **Design Philosophy:** The humor is in the contrast. The most terrifying entity in modern horror mythology is sitting by a fire reading books with tiny spectacles. No wink to the camera. No joke is explained. The players who recognize him get the joy of discovery. The players who don't just see a strange scholar NPC.
 **Narrative Connection:** The modern day legends nook on the main floor contains Lovecraft's work. Naut reading twenty feet from his own mythology is the Inn's deepest layered joke — the archive contains the legend, and the legend is a patron. Ties into the Geode Inn's core philosophy: myths are not dead things on shelves. They live here.

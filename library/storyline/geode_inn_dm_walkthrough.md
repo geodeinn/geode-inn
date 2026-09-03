@@ -71,11 +71,11 @@ The Crone is the same actor as Charon — but a different instrument. The Crone 
 
 The bartender. Mrs. Lovett energy — performative chaos masking a deeply grounded intelligence. The Catalyst is the Inn's information hub. She hears everything, remembers everything, trades information for drinks. She grows portal arrows in her garden — each arrow is a seedpod from a vine, nurtured to a destination, harvested at peak, dried. The "random" arrow she slides across the bar is the one she's been growing for you for weeks. It is the opposite of accidental.
 
-The Catalyst vs. the Gardener (Radagast): the Catalyst grows through WILL (telling the garden what to do). The Gardener grows through COMMUNION (asking the garden what it needs). Their rivalry is symbiotic — they need each other.
+The Catalyst vs. the Gardener (The Greenward): the Catalyst grows through WILL (telling the garden what to do). The Gardener grows through COMMUNION (asking the garden what it needs). Their rivalry is symbiotic — they need each other.
 
-### Madame Mim
+### Brim
 
-The inner chaos agent. Wednesday Addams energy. Mim doesn't guide the player — Mim TEMPTS the player, playfully, toward the more interesting choice. The voice that says: "but what if we did the fun wrong version?" The Magritte pipe floats near her, whispering "Ceci n'est pas une pipe." The pipe is alive. It trades items. It is both a joke and the Inn's thesis statement: the representation is not the thing.
+The inner chaos agent. Belladonna energy. Brim doesn't guide the player — Brim TEMPTS the player, playfully, toward the more interesting choice. The voice that says: "but what if we did the fun wrong version?" The Magritte pipe floats near her, whispering "Ceci n'est pas une pipe." The pipe is alive. It trades items. It is both a joke and the Inn's thesis statement: the representation is not the thing.
 
 ### The Arcade
 
@@ -115,9 +115,9 @@ Nine great composers sit as Song-catchers — humans who caught fragments of the
 - **Schönberg** — the POLYPHONY. Many voices at once.
 - **Cohen** — in the doorway, not in the circle. The Song caught in simplicity. "There is a crack in everything, that's how the light gets in." The Inn's thesis statement. "Hallelujah" = the Song compressed to a single word.
 
-### Cthulhu
+### Naut
 
-A 4-foot squid-headed scholar with spectacles by the fireplace. Hidden quest giver for rare book retrieval. The terrifying cosmic horror reduced to a mild-mannered academic. Cthulhu rewards the rarest stones in the Inn.
+A 4-foot squid-headed scholar with spectacles by the fireplace. Hidden quest giver for rare book retrieval. The terrifying cosmic horror reduced to a mild-mannered academic. Naut rewards the rarest stones in the Inn.
 
 ---
 
@@ -177,7 +177,7 @@ The elf city in the trees. Kelethin-inspired tree-platforms. The city sways at 5
 
 **The Seelie King** — the brother who chose stillness. Quiet. Ancient. Occasionally lethal. The brother who says to Jareth: "You're too loud, brother. They'll mistake you for strong." And Jareth, smiling: "And you're too quiet, brother. They'll mistake you for weak. ...We're both right. ...That's what makes it fun."
 
-**Aughra** — the Dark Crystal astronomer. Two eyes that can see different things simultaneously.
+**Fibonacci** — the Dark Crystal astronomer. Two eyes that can see different things simultaneously.
 
 ---
 
@@ -224,7 +224,7 @@ Seven layers. Persephone's cycle made spatial.
 
 **Layer 3 — Tidal Caves.** The Pirate's domain. The Pirate is Inigo Montoya after the end of The Princess Bride — the man who becomes the Dread Pirate Roberts after Westley rides away with Buttercup. The sword becomes the drum: the hands that held the blade now hold the rhythm. Bodhrán at 50 BPM. The Pirate's quest is about the AFTER — the life after the quest, after the revenge. "Good hands can hold anything."
 
-**Layer 4 — Atlantis.** Luis Royo aesthetic. The Inn's deepest archive — the civilization that sank. Oceanianoir — the Living Archive, the walking periodic table — has a primary home here. Cthulhu connection.
+**Layer 4 — Atlantis.** Luis Royo aesthetic. The Inn's deepest archive — the civilization that sank. Oceanianoir — the Living Archive, the walking periodic table — has a primary home here. Naut connection.
 
 **Layer 5 — The Deep.** The Siren's domain. The Siren has a DUAL cadence: outer voice (flowing, cello, fast — the performer) and inner voice (deliberate, piano, slow — the depth). The Siren must hear her own song for the first time — through the Queen of Webs' thread in the deep water. The moment of self-recognition.
 

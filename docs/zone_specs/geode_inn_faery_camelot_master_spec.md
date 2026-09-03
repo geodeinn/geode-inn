@@ -33,7 +33,7 @@ Stone Circle Chambers: Stonehenge, Avebury, Callanish, Ring of Brodgar — each 
 | Camelot Moreau | 100 | Moreau's visual style for Camelot. Mythic richness. |
 | Round Table Room | 87 | The Round Table as a room. Each seat is a stone. |
 | Galahad | 154 | The pure knight. The grail quest. |
-| Merlin/Archimedes | 148 | Merlin and the owl. The wizard's tower. |
+| Merlin/Noctua | 148 | Merlin and the owl. The wizard's tower. |
 | Mordred | 90 | The traitor. Complex motivations — not evil, broken. |
 | Knights | 114 | The knight roster. Each knight = a stone + a zone + a quest. |
 | Black Knight | 67 | The guardian. The first test. |

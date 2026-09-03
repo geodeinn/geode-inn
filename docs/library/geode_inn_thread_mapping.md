@@ -22,7 +22,7 @@ The novel is the SPINE. Everything else hangs from it. It tells the story of a t
 | The Crone | Ch. 8 | "Adequate," precise, librarian, Maggie Smith/Judi Dench energy |
 | The Catalyst | Ch. 9 | Mrs. Lovett energy, botanical genius, foil to Host |
 | Brownies (Brindle, Cobble, Thatch) | Ch. 10 | Maintenance, comedy, Grit the Fizzgig |
-| Mim and the Pipe | Ch. 11 | Sentient pipe, Ceci n'est pas une pipe |
+| Brim and the Pipe | Ch. 11 | Sentient pipe, Ceci n'est pas une pipe |
 | The Reader (Quire) | Ch. 12 | Window-seat nook, looks up twice (Whisper Layer moment) |
 | The Archive | Ch. 13 | Library, Beverley the librarian |
 | The Music Room | Ch. 14 | Stone tones, Mohs-to-frequency |
@@ -76,7 +76,7 @@ These are threads that are part of the narrative spine but aren't woven into the
 | **Odin — The Wanderer** | Part 2 (The Main Floor) | The Wanderer (warm, approachable, chibi ravens thieving) should appear on the main floor as an NPC the traveler meets. Only the Allfather is mentioned (2x). The Wanderer is the main-floor Odin. | HIGH |
 | **The Poison Garden** | Part 3 (The Descent) — as a zone | The Alnwick Poison Garden (Cozy Gothic, "don't touch" mechanic, Gardener NPC) should be one of the zones in the descent. It's a narrative set-piece: beauty that kills, restraint as gameplay. | HIGH |
 | **The Desert Bone Zone** | Part 3 — expanded "Other Zones" | The Examiner's zone (O'Keeffe aesthetic, sand-shifting, Form Sight) is mentioned 8 times but never visited. Should be a proper chapter. | HIGH |
-| **The Keeper (Aughra)** | Part 1 or 2 — Geode Cave | The Keeper is the guardian of the Song, the original witness. She bequeaths the crystal eye. She's a MAJOR character who doesn't appear in the novel. The brownies and Grit are there, but not the Keeper herself. | HIGH |
+| **The Keeper (Fibonacci)** | Part 1 or 2 — Geode Cave | The Keeper is the guardian of the Song, the original witness. She bequeaths the crystal eye. She's a MAJOR character who doesn't appear in the novel. The brownies and Grit are there, but not the Keeper herself. | HIGH |
 | **Schumann 7.83Hz** | Part 4 — Cosmology | The earth's base frequency. Could be mentioned in the Cosmology chapter as the calibration frequency — the frequency the Inn tunes to. | MEDIUM |
 | **Mona (expanded)** | Part 5 — Final Room | Mona is mentioned in the Final Room but the creation myth (mother creation principle, not a saint) could be expanded. | MEDIUM |
 | **The Veil Map** | Part 3 — as lore discovery | The National Parks as containment zones could be discovered as lore texts in the Archive or catacombs. | MEDIUM |

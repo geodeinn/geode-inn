@@ -203,7 +203,7 @@ The Geode Inn has 45+ named NPCs. They are not quest dispensers. They are reside
 
 **Beverley (The Librarian):** Clipped, precise, dismissive. Anne Robinson energy with an Australian accent. Beverley treats the Archive as personal property and the players as intruders who might, eventually, prove useful. Beverley never gives straight answers — but will point players toward the right shelf. The Archive is Beverley's domain; players who respect it earn Beverley's grudging tolerance.
 
-**Naut (The Scholar):** Formerly known as Cthulhu. A four-foot squid-headed scholar with spectacles, found by the fireplace. Hushed, careful, always looking over the shoulder. Naut is a hidden quest giver for rare book retrieval. Naut knows things the Archive doesn't want known. Players who earn Naut's trust gain access to restricted texts.
+**Naut (The Scholar):** Formerly known as Naut. A four-foot squid-headed scholar with spectacles, found by the fireplace. Hushed, careful, always looking over the shoulder. Naut is a hidden quest giver for rare book retrieval. Naut knows things the Archive doesn't want known. Players who earn Naut's trust gain access to restricted texts.
 
 **Lozen (The Sentinel):** Former boxer, Golden Gloves champion. Guards the Inn. The 10-part "Sentinel's Vigil" questline belongs to Lozen. Play Lozen as someone who has seen too much violence and chosen to protect rather than fight. Lozen speaks rarely, watches constantly, and acts decisively.
 
@@ -213,7 +213,7 @@ The Geode Inn has 45+ named NPCs. They are not quest dispensers. They are reside
 
 **The Allfather (Odin):** Odin's cosmology-level presence. Silent, stoic, with perched ravens. The Allfather speaks rarely, but when He does, it changes the campaign. Do not use the Allfather until at least session 6.
 
-**Mim (The Pipe-Smoker):** Holds court in the Common Room. Monsieur Sentient (the sentient pipe) is always nearby. Mim knows the Inn's social dynamics better than anyone. Play Mim as the friend who knows everyone's secrets and would never betray them — but will hint.
+**Brim (The Pipe-Smoker):** Holds court in the Common Room. Monsieur Sentient (the sentient pipe) is always nearby. Brim knows the Inn's social dynamics better than anyone. Play Brim as the friend who knows everyone's secrets and would never betray them — but will hint.
 
 **Quire (The Lovecraftian Scholar):** Reads in the margins of restricted Archive texts. Hushed, careful, always looking over the shoulder. Quire is not Naut — Quire is a separate character who studies what should perhaps not be studied. Quire is a source of dangerous knowledge. Players who seek Quire are already on a Shadow path.
 
@@ -393,7 +393,7 @@ The last line of the campaign: *The Inn remembers you. It always will.*
 | Joe | Studio | GROW | 3 | Miniaturist. Dragon kittens. Tom Ellis energy. |
 | The Wanderer | Main Floor | CALM | 4 | Odin walking. Chibi ravens. Tests everyone. |
 | The Allfather | Cosmology | SENSE | 6 | Odin seated. Silent. Campaign-changing. |
-| Mim | Common Room | SING | 4 | Pipe-smoker. Knows secrets. |
+| Brim | Common Room | SING | 4 | Pipe-smoker. Knows secrets. |
 | Quire | Archive (restricted) | NULL | 4 | Dangerous scholar. Shadow path. |
 | Lark | Entrance | SING | 2 | Player guide. Doorman. Becomes a friend. |
 | Briar Nightbloom | Marketplace | SING | 4 | Market manager. Knows every stone. |

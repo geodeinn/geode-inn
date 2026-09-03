@@ -39,7 +39,7 @@ The Retort has the Yzma energy — the theatrical, over-the-top, "I am the smart
 
 The Retort is theatrical about her work because her work IS theatrical — alchemy is the original performance art. The transformation of one substance into another, visible, dramatic, sometimes explosive. She enters a room and the room becomes a stage. She describes a potion and the description is a monologue. She fails at an experiment and the failure is a ACT — the throwing of hands, the "WHY," the immediate pivot to "FINE, we'll do it THIS way." She succeeds and the success is worse — the slow smile, the "of COURSE it worked, I'm BRILLIANT," the immediate start of the NEXT experiment before the first one is cleaned up.
 
-The Mim connection: the Retort IS the Inn's Mim — the trickster, the chaos agent, the one who says "but what if we did the fun wrong version?" applied to actual alchemical work. Krista has Mim as her permanent chaos-inducing companion and shoulder angel. The Retort is Mim made into an NPC — the same energy, the same function, but as a character in the world. The Retort is what Mim would be if Mim had a laboratory instead of a shoulder.
+The Brim connection: the Retort IS the Inn's Brim — the trickster, the chaos agent, the one who says "but what if we did the fun wrong version?" applied to actual alchemical work. Krista has Brim as her permanent chaos-inducing companion and shoulder angel. The Retort is Brim made into an NPC — the same energy, the same function, but as a character in the world. The Retort is what Brim would be if Brim had a laboratory instead of a shoulder.
 
 ### What the Retort Does
 
@@ -115,7 +115,7 @@ Jack Black's voice — the deep, warm, enthusiastic baritone. The voice that mak
 
 ### The Cook's Appearance
 
-The Cook is enormous. Not tall-and-thin enormous (like Uhtred). Not broad-and-muscled enormous (like Erik). The Cook is ROUND enormous — the shape of someone who eats well and cooks better and has been both things his whole life. He is the largest person in the Inn. His hands are the size of dinner plates (the sprites sit on them). His apron is the largest piece of fabric in the building. His kitchen is the largest room on the staircase — not because it needs to be, but because the Cook needs room to move, and the Cook moves big, and everything he touches gets bigger.
+The Cook is enormous. Not tall-and-thin enormous (like The Wayfarer). Not broad-and-muscled enormous (like Erik). The Cook is ROUND enormous — the shape of someone who eats well and cooks better and has been both things his whole life. He is the largest person in the Inn. His hands are the size of dinner plates (the sprites sit on them). His apron is the largest piece of fabric in the building. His kitchen is the largest room on the staircase — not because it needs to be, but because the Cook needs room to move, and the Cook moves big, and everything he touches gets bigger.
 
 The Cook is always warm. Physically warm — his body temperature runs high, his hands radiate heat, the kitchen is always comfortable regardless of the weather outside. The sprites cluster around him in winter. The Fae who visit his kitchen sit near the stove. The Cook is the Inn's hearth — the warm center, the place that is always lit, always heated, always ready.
 

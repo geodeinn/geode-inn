@@ -25,7 +25,7 @@ Before the Song, there was the Murmur. Not sound — not yet. The Murmur is what
 - **The Guest** (Brad Pitt / Joe Black) — Death on holiday. Borrowed body. Music box plays the note Death MADE (not caught). Creates Nyx's silence, made portable. Dual role: guest of the living upstairs, host of the dead downstairs.
 - **The Captain & Cabbit** — The Arcana, a brass and lapis-lazuli time ship. Cabbit purrs at 50 BPM (the Inn's heartbeat). At 44Hz full power, Cabbit becomes the drive core to phase between moments. Captain: sky pirate, pipe smoking time-moss.
 - **Einstein & the Observatory** — Magritte painting made architecture. "The Double Secret." Einstein sits in the grey In-Between eating a half-finished burrito. "You are not walking through the Inn. The Inn is walking through you." The mundane IS the cosmic.
-- **Madame Mim's Pipe** — "Ceci n'est pas une pipe." The Inn's thesis statement: the representation is not the thing.
+- **Brim's Pipe** — "Ceci n'est pas une pipe." The Inn's thesis statement: the representation is not the thing.
 
 **SOURCE DOCS:** "Before the Song.docx" (Prologue section) ✓ COMPLETE
 
@@ -47,8 +47,8 @@ Before the Song, there was the Murmur. Not sound — not yet. The Murmur is what
 | Character/Element | Description | Source Doc | Status |
 |---|---|---|---|
 | **The Crone** (Hopkins) | Measures everything. "Adequate." Learns to listen to the Song. Twin/facet: Charon. | Before the Song ✓ | Complete |
-| **The Catalyst** (Helena Bonham Carter) | Bar/garden. Grows portal arrows. Growth by WILL vs. Radagast's growth by COMMUNION. Mrs. Lovett energy. The Spirit. | Before the Song ✓ | Complete |
-| **Madame Mim** | Inner chaos agent. Rides a Magritte pipe. Breaks formulas to reveal secret paths. Wednesday Addams energy. "Madame" — said in various tones, never the same. | Before the Song ✓ | Complete |
+| **The Catalyst** (Helena Bonham Carter) | Bar/garden. Grows portal arrows. Growth by WILL vs. The Greenward's growth by COMMUNION. Mrs. Lovett energy. The Spirit. | Before the Song ✓ | Complete |
+| **Brim** | Inner chaos agent. Rides a Magritte pipe. Breaks formulas to reveal secret paths. Belladonna energy. "Madame" — said in various tones, never the same. | Before the Song ✓ | Complete |
 | **The Arcade & Score Stone** | 7-foot obsidian leaderboard. Cultural mini-games: Standing Stones (Tetris), Tomb Tunnel (Dig Dug), Andean Run (Temple Run), Monster of the Deep (Nessie), Bastet's Herding. | Before the Song ✓ | Complete |
 | **The Thrum** (Ben Whishaw) | Translucent low-frequency entity. Teaches: essence precedes appearance, timing precedes rhythm. | Before the Song ✓ | Complete |
 | **The Brownies** | Anarcho-syndicalist maintenance commune. 2-foot spirits with brooms/coconut shells. Become Boggarts if contract breached. | Before the Song ✓ | Complete |
@@ -109,7 +109,7 @@ Kelethin-inspired elf tree-platforms. 50 BPM sway. Mycorrhizal network trade hub
 **MISSING FROM CANOPY CITY:**
 - [ ] Seelie King detailed profile (the brother who chose stillness)
 - [ ] Seelie Queen character design
-- [ ] Aughra quest chain
+- [ ] Fibonacci quest chain
 - [ ] Mycorrhizal network trade mechanics
 
 ---
@@ -127,7 +127,7 @@ Kelethin-inspired elf tree-platforms. 50 BPM sway. Mycorrhizal network trade hub
 | **Camelot Platform** | Arthurian myth. | Before the Song ✓ | Partial |
 | **Egypt: The Catacombs** | Egyptian mythology. Obol stones for Charon. | Before the Song ✓ | Complete |
 | **Mesopotamian: The Ziggurat** | Sumerian/Annunaki. | Project Bible ✓ | Partial |
-| **Miskatonic Annex** | Cthulhu the Scholar. Rousseau aesthetic. | Project Bible ✓ | Partial |
+| **Miskatonic Annex** | Naut the Scholar. Rousseau aesthetic. | Project Bible ✓ | Partial |
 | **Cave City** | Subtractive building. Grand Canyon portal. | Cave City doc ✓ | Complete |
 | **Coast Hub / Lighthouse** | New England Gothic. | Project Bible ✓ | Partial |
 
@@ -316,10 +316,10 @@ The Allfather, The Caller Gargoyle, Vanir gods (Freyr, Freyja — to be designed
 Vanir gods — TO BE DESIGNED
 
 ### Alfheim (Fae Kingdom — Seelie)
-The Seelie King, The Seelie Queen, The Cartographer, The Examiner, Aughra, Story-Born Ents (4)
+The Seelie King, The Seelie Queen, The Cartographer, The Examiner, Fibonacci, Story-Born Ents (4)
 
 ### Midgard (Main Floor)
-The Host, The Crone, The Catalyst, Madame Mim, The Thrum, The Brownies, Arcade NPCs (Bastet, etc.)
+The Host, The Crone, The Catalyst, Brim, The Thrum, The Brownies, Arcade NPCs (Bastet, etc.)
 
 ### The Dock (Water Layer)
 The Lighthouse/Owl, The Pirate, Zee, The Siren/Andra, Oceanianoir, Water Monsters (32 designed, 78 identified)
@@ -331,7 +331,7 @@ Hel, Charon, Persephone, Hades, The Morrigan, Asterion
 Jareth (The Unseelie King), Unseelie Court NPCs, Goblins, Trolls
 
 ### The Miskatonic Annex (Grounds)
-Cthulhu the Scholar
+Naut the Scholar
 
 ### Family Character Classes (Starting Classes)
 Charles (Chameleon Druid), River (Sentinel), The Siren (Bard), [2 more to define]
@@ -382,7 +382,7 @@ TO BE DESIGNED
 - [x] Tim Curry/Firekeeper — full design complete, quest designed, images generated
 - [x] CORRECTED: River has NO daughters. Eileen has four children (John, Scarlett, + 2 TBD). Next-gen NPCs are Eileen's kids, not River's.
 - [ ] Erik (Norse zone) — full profile
-- [ ] Radagast — full profile (gardener rival to Catalyst)
+- [ ] The Greenward — full profile (gardener rival to Catalyst)
 
 ---
 

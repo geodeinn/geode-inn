@@ -390,7 +390,7 @@ During the game, NPCs speak in chat using their established voice profiles:
 - The Wanderer: Vague, testing. "You're learning. Or perhaps you're forgetting. Same thing, really."
 - Medusa: Still, patient. "You move so much. Why not try staying?"
 - Lark: Cheerful, helpful. "Welcome back! The Inn missed you."
-- Mim: Mysterious, knowing. "Smoke reveals what fire hides."
+- Brim: Mysterious, knowing. "Smoke reveals what fire hides."
 - Briar Nightbloom: Professional, efficient. "New stock arrived. Try not to break this one."
 - Quire: Nervous, hushed. "You shouldn't be here. But since you are..."
 - The Allfather: Rare, weighted. "..."
@@ -553,7 +553,7 @@ Each NPC in the Geode Inn can be an AI opponent with their own deck and playstyl
 | The Wanderer | Balanced | Uses all six frequencies, unpredictable | Hard |
 | Medusa | Lockdown | Petrifies player's cards (makes them unable to act), wins by stalling | Hard |
 | Lark | Tutorial | Simple deck, teaches mechanics, always goes easy on new players | Easy |
-| Mim | Disruption | Reverses effects, tricks with smoke and mirrors, unpredictable | Hard |
+| Brim | Disruption | Reverses effects, tricks with smoke and mirrors, unpredictable | Hard |
 | Briar | Economy | Trades efficiently, always has the right charm for the situation | Medium |
 | Quire | Mill | Draws rapidly, forces player to draw, causes Fatigue | Hard |
 | The Allfather | Dissonance | Builds dissonance pressure, wins by Total Overload | Very Hard |

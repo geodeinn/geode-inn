@@ -26,7 +26,7 @@ Each major NPC is a hero class with a unique hero power based on their establish
 | The Catalyst (HBC) | The Gardener | "Seed" — Plant a seed on a friendly minion (grows +1/+1 each turn) | 2 | Main Floor Garden | Van Gogh |
 | The Astronomer (Cumberbatch) | The Calculator | "Deduction" — Look at the top 3 cards of your deck, rearrange them | 2 | Cosmology | Dali |
 | The Constant (Malkovich) | The Carrier | "Crystal" — Add a 41.7Hz token card to your hand (reduces next card cost by 1) | 3 | Observatory | Dali |
-| Mim (Belgian witch) | The Shapeshifter | "Vessel" — Transform a friendly minion into a random minion of the same cost | 3 | Observatory/Magritte | Magritte |
+| Brim (Belgian witch) | The Shapeshifter | "Vessel" — Transform a friendly minion into a random minion of the same cost | 3 | Observatory/Magritte | Magritte |
 | The Selkie | The Crafter | "Cabochon" — Craft a stone card from your deck (draw a Stone card) | 2 | Tidal Caves | Lewis |
 | The Pirate (Mandy Patinkin) | The Voyager | "Compass" — Swap a card in your hand with the top card of your deck | 1 | Coast Hub | Royo |
 | The Siren (Lady Gaga) | The Caller | "Lure" — Force an enemy minion to attack a minion of your choice | 2 | Water Zone | Royo |
@@ -82,7 +82,7 @@ Every character in the Inn is a minion card. Stats and abilities are based on lo
 **Full Presence (Legendary):**
 - The Morrigan (7/7) — Battlecry: Transform into one of three aspects (Macha/Badb/Nemain). Each aspect has different stats and abilities.
 - The Owl (3/8) — Stealth. At the start of each turn, reveal the opponent's next draw. "Wherever an owl is sighted..."
-- Cthulhu (8/8) — Battlecry: Add 3 random rare book cards to your hand. Cannot attack heroes directly. Scholarly.
+- Naut (8/8) — Battlecry: Add 3 random rare book cards to your hand. Cannot attack heroes directly. Scholarly.
 - The Wanderer (4/4) — Deathrattle: Summon two 1/1 Chibi Ravens with Taunt.
 
 **Chibi Fae (Common/Rare):**
@@ -231,7 +231,7 @@ Players unlock board skins by completing zone quests. Some skins are zone-specif
 - **The Crafter (Selkie):** Crafting-focused. Stone cards have enhanced effects. Cabochon Cut as signature spell.
 - **The Storyteller (Firekeeper):** Burn damage. The fire crackles. Tale cards deal damage to all enemies.
 - **The Carrier (Constant):** Ramp deck. Crystal tokens reduce costs. Play big stones early.
-- **The Shapeshifter (Mim):** Transformation deck. Monsieur Sentient as the signature weapon. Vessel swaps minions.
+- **The Shapeshifter (Brim):** Transformation deck. Monsieur Sentient as the signature weapon. Vessel swaps minions.
 
 ---
 

@@ -23,7 +23,7 @@ This isn't a new idea for the Inn. The Inn has been doing this all along:
 
 - **The voice profiles** don't DISPLAY actors. The actors' energies ARE the characters. Patrick Stewart's authority IS the Host. Helena Bonham Carter's chaos IS the Catalyst. Ben Whishaw's stillness IS the Thrum. The actor's energy is in the NPC. You don't see the actor. You MEET the character.
 
-- **The Disney villain aesthetic** doesn't DISPLAY villains. The villains' energies ARE the design approach. Maleficent's theatricality IS Hel. Ursula's deal-making IS the Siren's trap. Mim's chaos IS the player's inner trickster. The villain's energy is in the design. You don't watch the villain. You FEEL the villain.
+- **The Disney villain aesthetic** doesn't DISPLAY villains. The villains' energies ARE the design approach. Maleficent's theatricality IS Hel. Ursula's deal-making IS the Siren's trap. Brim's chaos IS the player's inner trickster. The villain's energy is in the design. You don't watch the villain. You FEEL the villain.
 
 - **The zones** don't DISPLAY geography. The zones ARE the geography — each one embodying the unique energy of its real-world inspiration. The Fjord of Stars IS the aurora. The Ghats of Kali IS the Ganges. The Redwood Cathedral IS the ancient forest. The zone is the place. You don't look at the map. You WALK the map.
 

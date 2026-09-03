@@ -107,7 +107,7 @@ The upper sky domain where airships fly. The flagship **Arcana** is built from L
 | **The Engineer** | — | Mirror twin of the Tinkering Weeaboo; reads mirror writing |
 | **The Navigator** | — | Uses Tesla's Wind Indicator |
 | **The Lookout** | — | Vulture's counterpart in the crow's nest |
-| **The Tinkering Weeaboo (Kid)** | Ryuk from Death Note | Changeling player class; annoyance meter (0-4); crew member |
+| **The Tinkering Weeaboo (Kid)** | Shinigami archetype | Changeling player class; annoyance meter (0-4); crew member |
 
 ### Items & Rewards
 - **The Captain's Bell** — Summons the Arcana for fast travel (quest: "The Sky Is for Everyone")
@@ -147,8 +147,8 @@ Each platform has a vendor and connects to a cultural zone:
 | Slavic | Dushan | Zorya Polunochnaya | — |
 | Indian | Priya | Kali | — |
 | Norse | Erik | Erik (vendor + guide) | Danheim / Book of Kells |
-| Mediterranean | Thalia | The Gardener / Radagast | — |
-| Neutral | The Keeper / Aughra | — | — |
+| Mediterranean | Thalia | The Gardener / The Greenward | — |
+| Neutral | The Keeper / Fibonacci | — | — |
 
 ### Items & Rewards
 - **Cartographer's Compass** — Points to future locations of frequency nodes (quest: "The Living Map")
@@ -199,7 +199,7 @@ Each platform has a vendor and connects to a cultural zone:
 
 ### 5.6 — Norse Zone (Feast Hall — Book of Kells / Danheim Lens)
 - **Guide/Vendor:** Erik (Peter Gantzler) — the warm Viking who died by fire and chose to be the fire that welcomes
-- **Wandering NPC:** Uhtred (Alexander Dreymon) — neutralizes conflicts; "Destiny is all"
+- **Wandering NPC:** The Wayfarer (Alexander Dreymon) — neutralizes conflicts; "Destiny is all"
 - **Quest:** "The Feast Fire" — portable social fire anchor
 - **Items:** Erik's Hearth
 - **Aesthetic:** Book of Kells (illuminated, legible); Danheim rhythmic pacing (60-80 BPM walking, 50 BPM feast-fire)
@@ -211,11 +211,11 @@ Each platform has a vendor and connects to a cultural zone:
 - **Theme:** Inca terraces = dream-language visible (geological star-language); Apus are ancient geological beings who chose to sleep
 
 ### 5.8 — The Mediterranean Zone (Garden / Labyrinth Border)
-- **Guides:** The Gardener / Radagast (Sylvester McCoy); Beorn (Mikael Persbrandt)
+- **Guides:** The Gardener / The Greenward (Sylvester McCoy); The Bearsark (Mikael Persbrandt)
 - **Key NPC:** Medusa (Angelica Huston) — geological petrification; lithophone
 - **Quest:** "The Gorgon's Garden" — Medusa's lithophone plays the Song captured in stone
 - **Items:** Medusa's Lithophone; hedgehogs (smallest NPCs)
-- **Theme:** Radagast grows by asking the garden (communion); the Catalyst grows by telling the garden (will). Singing vines connect the garden to the Music Room.
+- **Theme:** The Greenward grows by asking the garden (communion); the Catalyst grows by telling the garden (will). Singing vines connect the garden to the Music Room.
 - **Game:** The Hidden Bloom (pattern matching) — Saint-Rémy (Catalyst/wild) vs Auvers (Gardener/structured) modes
 
 ### 5.9 — The Bayou & Buried Cities
@@ -228,7 +228,7 @@ Each platform has a vendor and connects to a cultural zone:
 - **The 7 Knights:** Lancelot (Venus/Copper), Percival (Mercury), Gawain (Mars/Iron), Bors (Earth/Lead), Bedivere (Saturn), Tristan (Moon/Silver), Gareth (Sun/Gold)
 - **Galahad:** The 8th sphere knight — divine obedience vs human choice
 - **Mordred:** The consequence — necessary break
-- **Merlin & Archimedes:** The wizard living backward; the owl who remembers (Bloodline's owl)
+- **Merlin & Noctua:** The wizard living backward; the owl who remembers (Bloodline's owl)
 - **Quest:** Arthur tells the player: "The table is yours now... Build it again."
 
 ### 5.11 — Mesopotamian Platform (Ziggurat in the Canopy)
@@ -255,7 +255,7 @@ Sitting in a nook thins the veil to reveal Fae. Inn creatures wander into real-w
 8 categories mapping cryptids and modern legends to park layers. All cryptids are Inn creatures perceived at a two-degree frequency tilt. Bigfoot, Nessie, etc. — their "names" act as a saving mechanism for humans.
 
 ### Wandering Program
-Inn creatures wander into National Parks when "ready." Wednesday Addams has a seasonal residence at Mount Fuji with local yōkai and kami.
+Inn creatures wander into National Parks when "ready." Belladonna has a seasonal residence at Mount Fuji with local yōkai and kami.
 
 ---
 
@@ -271,8 +271,8 @@ The ground level and heart of the Geode Inn. Anti-FOMO sanctuary. The default st
 | **The Crone** | Anthony Hopkins | Measurer and annotator; says "Adequate" (highest compliment) |
 | **The Catalyst** | Helena Bonham Carter | Mrs. Lovett-inspired bartender; grows an impossible garden on the Ent's bark |
 | **The Thrum** | Ben Whishaw | Silhouette-maker; Rosicrucian hum; renders inhabitants as silhouettes to show presence over status |
-| **Mim** | — | Krista's trickster shoulder angel; chaos agent; rides Magritte's pipe |
-| **Cthulhu** | Gary Oldman / Geoffrey Rush | 4-foot squid-headed scholar; fireplace nook; hidden quest-giver for rare book retrieval |
+| **Brim** | — | Krista's trickster shoulder angel; chaos agent; rides Magritte's pipe |
+| **Naut** | Gary Oldman / Geoffrey Rush | 4-foot squid-headed scholar; fireplace nook; hidden quest-giver for rare book retrieval |
 | **The Bard** | Krista's Dad (Bart) | Dwarf bard; room-filler; ADHD-pattern thinker; best friend of The Pirate |
 | **The Wanderer (Odin)** | — | Approachable traveler with chibi thieving ravens Huginn & Muninn |
 | **The Vessel** | — | Crested gecko; patron of the overlooked; held the formula for 128 years |
@@ -339,7 +339,7 @@ The structural junction where the sleeping giant's heart crystal touches the Inn
 ## LAYER 9: THE UNDERCITY (Catacombs — Death/Roots Hub)
 
 ### What It Is
-A living city of the dead inside the sleeping giant's ribcage. Wednesday Addams's domain. She lives among the dead — comfortable, gothic, cozy.
+A living city of the dead inside the sleeping giant's ribcage. Belladonna's domain. She lives among the dead — comfortable, gothic, cozy.
 
 ### Embedded Artist
 - **Gustav Klimt** — Gold leaf on dark stone; geometric patterns as root architecture; "Death and Life" as the zone's thesis
@@ -348,7 +348,7 @@ A living city of the dead inside the sleeping giant's ribcage. Wednesday Addams'
 ### Who Lives Here
 | Character | Casting | Role |
 |---|---|---|
-| **Wednesday Addams** | — | Undercity resident; seasonal residence at Mount Fuji; tour guide to the Fae |
+| **Belladonna** | — | Undercity resident; seasonal residence at Mount Fuji; tour guide to the Fae |
 | **Charon** | Anthony Hopkins | Silent ferryman; "...There you are"; the Crone's same wood, different hands |
 | **Cerberus ("Spot")** | — | Charon's three-headed companion dog |
 | **Anubis** | Michael Clarke Duncan | Gentle giant at the scales; "...Go lightly" |
@@ -463,7 +463,7 @@ The pre-frequency ground state — the raw, unorganized vibration that predates 
 The physical container of the Murmur. Found at the deepest point of the In-Between. When the player gathers all companion voices, the Egg opens to reveal: **the player IS the Murmur**. The observer. The selkie skin / jeweler's apron was the Egg's shell all along.
 
 ### The Einstein Burrito
-After the cosmic revelation, the Crone tries to measure the Egg and delivers her first joke in 42 cycles: "...It was shaped like a burrito." Mim scrambles the formula into beans, the Duck offers a stone side, Einstein's candle laughs. Comedy is a core cosmological pillar.
+After the cosmic revelation, the Crone tries to measure the Egg and delivers her first joke in 42 cycles: "...It was shaped like a burrito." Brim scrambles the formula into beans, the Duck offers a stone side, Einstein's candle laughs. Comedy is a core cosmological pillar.
 
 ### The Endgame Sequence
 Nyx's Silence → Astronomer's Calculation → Medusa freezes singing vines with gaze → Lithophone plays completed 44Hz Song → Silica resonance projects lullaby into the Moon → Sleeping Giants wake → Cabbit transforms into ship → Constant departs into the Void → New Game Plus (play as any character)
@@ -483,7 +483,7 @@ Every major system beats at 50 BPM. It is the Inn's resting heart rate.
 | Class | Player | Archetype | Key Ability |
 |---|---|---|---|
 | **Artisan Thief** | Krista | Selkie (Sandman/Morpheus feminine) | Dive (water traversal); jeweler's apron IS selkie skin; "theft" = redistribution |
-| **Tinkering Weeaboo** | Krista's Kid | Changeling (Ryuk from Death Note) | Annoyance meter (0-4); clockwork tinkering; eats pomegranates |
+| **Tinkering Weeaboo** | Krista's Kid | Changeling (shinigami archetype) | Annoyance meter (0-4); clockwork tinkering; eats pomegranates |
 | **Chameleon Druid** | Charles (husband) | Cillian Murphy + Cumberbatch | High versatility / low endurance; shifts beside kid during meltdowns |
 | **Sentinel** | River | Boxer physique | Boxing Iron Stance; presence aura; physical anchor |
 | **Siren** | Krista's Sister | Lady Gaga | Voice-based power; dual cadence (outer cello / inner piano) |
@@ -553,9 +553,9 @@ The Inn's architecture and music respond to the presence of rare frequencies. Th
 1. **Loki** — Mentioned as Hel's father; no full design profile in the compendium (though a 31KB file exists: geode_inn_loki.md)
 2. **Freyr & Freyja** — Mentioned as Vanir deities; marked "completely undesigned" in the compendium (though Norse Realms doc may cover them)
 3. **The Einherjar** — Mentioned as Valhalla warriors; marked "completely undesigned"
-4. **Wednesday Addams** — Has extensive context in conversation memory but needs formal compendium entry
+4. **Belladonna** — Has extensive context in conversation memory but needs formal compendium entry
 5. **The Shifting Man** — Mentioned in storyline but needs compendium placement
-6. **Aughra** — Mentioned as Dark Crystal lineage seer; appears as Neutral vendor "The Keeper" but needs full profile
+6. **Fibonacci** — Mentioned as Dark Crystal lineage seer; appears as Neutral vendor "The Keeper" but needs full profile
 
 ### Zones Needing Detail Work (From Next Steps)
 1. **Music Room (Rothko)** — Composer details complete; Rothko room aesthetic needs final design
@@ -576,7 +576,7 @@ The Inn's architecture and music respond to the presence of rare frequencies. Th
 ### Consistency Notes
 - The Crone and Charon are both Anthony Hopkins — this is intentional ("same wood, different hands")
 - The Constant (Malkovich) and Klimt's aesthetic share the same actor representing cosmic order and geological record — same song, different octave
-- The Owl appears in both the Cosmology Level (as Lighthouse keeper) and the Main Floor (on Cthulhu's desk) — this is consistent; the Owl is a wandering watcher
+- The Owl appears in both the Cosmology Level (as Lighthouse keeper) and the Main Floor (on Naut's desk) — this is consistent; the Owl is a wandering watcher
 - Jareth (David Bowie) is the Unseelie King AND the Labyrinth architect — both roles are consistent; he built the Labyrinth as a love letter to his brother, the Seelie King
 - The Preseli Blue Stone serves double duty: reward for both Standing Stones (Tetris) and Raven's Angle Zone 7, and key to the Fae portal — this is consistent; both games are paths to the same key
 

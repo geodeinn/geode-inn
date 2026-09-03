@@ -39,7 +39,7 @@
 3. The Crystal (42Hz, gold leaf)
 4. The Tree (the Inn growing)
 5. The Song (42Hz radiating as vibrating gold lines)
-6. The Inhabitants (all NPCs, the Weeaboo in Ryuk form, the Constant walking toward the edge)
+6. The Inhabitants (all NPCs, the Weeaboo in True Form, the Constant walking toward the edge)
 7. The Player (self-painted by the Inn — the Whisper Layer's visual key)
 8. The Ending (44Hz, the brightest panel, fading at edges)
 9. The Silence (the Void, the darkest, the faintest glow of next cycle)

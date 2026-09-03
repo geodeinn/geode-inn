@@ -386,9 +386,9 @@ Mind is simply stone that has been processed, aligned, and tuned across octaves.
 
 ---
 
-#### Dialogue with Cthulhu (Layer 6 — Deep Crystal Core)
+#### Dialogue with Naut (Layer 6 — Deep Crystal Core)
 
-**Cthulhu:** *(adjusting small brass wire spectacles while reading an ancient stone tablet)*
+**Naut:** *(adjusting small brass wire spectacles while reading an ancient stone tablet)*
 > "Human scholars spend centuries agonizing over whether mind can arise from matter. They write endless treatises wondering how dead rocks could ever give birth to thought.
 >
 > They fail to realize that matter was never dead. It was merely uncalibrated.
@@ -602,7 +602,7 @@ The Silica Thread runs through every level of the Geode Inn. The table below lis
 | **Layer 3** | Main Floor / Hearth | Quartz Fireplace Mortar & Glass | STAGE 1 / 2 | The Crone |
 | **Layer 4** | Campgrounds | Petrified Wood & Agate Gravel | STAGE 1 (STONE) | The Firekeeper |
 | **Layer 5** | Escher Staircase | Floating Quartz Steps | STAGE 1 (STONE) | The Cartographer |
-| **Layer 6** | Deep Catacombs | Monolith Quartz Basin | STAGE 1 (STONE) | Catacombs Watcher & Cthulhu |
+| **Layer 6** | Deep Catacombs | Monolith Quartz Basin | STAGE 1 (STONE) | Catacombs Watcher & Naut |
 | **Layer 7** | Faerie Kingdom | Crystal Web Gateway | STAGE 1 / 3 | The Weaver & Seelie Monarch |
 | **Layer 8** | Water Zone / Sub-Ocean | Heart Crystal Trench | STAGE 1 / 3 | Siren Keeper & Andra |
 | **Layer 9** | Undercity | Reduction Furnace & Wafer Scribe | STAGE 2 (CHIP) | The Clockmaker & Blacksmith |

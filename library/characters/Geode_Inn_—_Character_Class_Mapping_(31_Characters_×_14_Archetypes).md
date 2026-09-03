@@ -56,7 +56,7 @@ Every fully written character in the Inn, sorted by class archetype.
 - **Class Notes:** Erik is the Warrior who chose warmth. The fire wound underneath — burned alive, reincarnated, chose to be the fire that welcomes. Builds tables, not walls. Adopts outcasts. The wound IS the power.
 - **Subclass:** Berserker (reclaimed) — the rage is: the love. The fire is: the welcome.
 
-#### Uhtred — Wandering NPC / Destiny Is All
+#### The Wayfarer — Wandering NPC / Destiny Is All
 - **MIGHT:** 7 | **FINESSE:** 6 | **INSIGHT:** 5 | **PRESENCE:** 7 | **VITALITY:** 6 | **RESONANCE:** 5
 - **Frequency:** STONE / FIRE
 - **Class Notes:** The Warrior who became the Messenger. Not tied to any zone — appears with a mobile campfire, says the uncomfortable truth, moves on. "Destiny is all" = the argument is already decided. The war drum is: the fingers on the table.
@@ -130,7 +130,7 @@ Every fully written character in the Inn, sorted by class archetype.
 - **Class Notes:** The Wizard who reads old things. Ancient remains, fossilized artifacts, pre-Inn settlements. Socially literal, empirically precise. Data is: the intimacy. "The forest will remember us accurately. That is the best anyone can hope for."
 - **Subclass:** Lore Master — the study is: the caring. The caring is: the data.
 
-#### Cthulhu — The Scholar / The Hidden Quest-Giver
+#### Naut — The Scholar / The Hidden Quest-Giver
 - **MIGHT:** 6 | **FINESSE:** 4 | **INSIGHT:** 10 | **PRESENCE:** 9 | **VITALITY:** 7 | **RESONANCE:** 5
 - **Frequency:** SILENCE / WATER
 - **Class Notes:** The Wizard who mistakes horror for academic curiosity. 4-foot squid-headed scholar with spectacles by the fireplace. Hidden quest-giver for rare book retrieval. Rewards the rarest stones. The curiosity is: the adequate. The adequate is: the thing that should terrify you but doesn't because it has glasses.
@@ -141,7 +141,7 @@ Every fully written character in the Inn, sorted by class archetype.
 ### CLERIC
 *The ones who heal and protect through devotion.*
 
-#### The Gardener — Radagast the Brown / The Communion
+#### The Gardener — The Greenward / The Communion
 - **MIGHT:** 4 | **FINESSE:** 5 | **INSIGHT:** 7 | **PRESENCE:** 9 | **VITALITY:** 8 | **RESONANCE:** 6
 - **Frequency:** ROOT / SONG
 - **Class Notes:** The Cleric who heals by asking. Grows through communion — the opposite of the Catalyst's will. The singing vines connect the garden to the Music Room. The hedgehogs are: the smallest NPCs. The patience is: the asking.
@@ -178,7 +178,7 @@ Every fully written character in the Inn, sorted by class archetype.
 #### Belladonna — Undercity / The Cozy Gothic
 - **MIGHT:** 5 | **FINESSE:** 6 | **INSIGHT:** 8 | **PRESENCE:** 9 | **VITALITY:** 7 | **RESONANCE:** 7
 - **Frequency:** SILENCE / STONE
-- **Class Notes:** The Necromancer who is at home among the dead. Wednesday Addams energy — deadpan, dark humor, genuinely comfortable with the macabre. The Undercity is: the sleeping giant's ribcage. The comfort is: not morbid. The not-morbid is: the adequate.
+- **Class Notes:** The Necromancer who is at home among the dead. Belladonna energy — deadpan, dark humor, genuinely comfortable with the macabre. The Undercity is: the sleeping giant's ribcage. The comfort is: not morbid. The not-morbid is: the adequate.
 - **Subclass:** Grey Necromancer — the death is: the home. The home is: the ribcage.
 
 #### The Guest — Death Personified / The Borrowed Body
@@ -221,7 +221,7 @@ Every fully written character in the Inn, sorted by class archetype.
 - **Class Notes:** The Paladin who cannot be moved. Rooted Stance — immune to knockback and displacement. Summons Bar Backs to intercept. The Annunaki heritage awakens at Level 10. The tall cat-person who guards the roots of creation and also manages eight chaos agents at a ren faire.
 - **Subclass:** Oath of the Root — the guarding is: the staying. The staying is: the adequate.
 
-#### Beorn — Mediterranean Border / The Binary Shifter
+#### The Bearsark — Mediterranean Border / The Binary Shifter
 - **MIGHT:** 9 | **FINESSE:** 5 | **INSIGHT:** 5 | **PRESENCE:** 6 | **VITALITY:** 9 | **RESONANCE:** 5
 - **Frequency:** FIRE / STONE
 - **Class Notes:** The Paladin who is two forms. Man and bear, both real — Kali can't cut. The border guardian. The binary is: not a choice. The not-choice is: the adequate.
@@ -307,16 +307,16 @@ Every fully written character in the Inn, sorted by class archetype.
 
 | Class | Characters | Count |
 |-------|-----------|-------|
-| Warrior | Erik, Uhtred | 2 |
+| Warrior | Erik, The Wayfarer | 2 |
 | Hunter | The Pirate, The One Who Is Awake | 2 |
 | Rogue | The Artisan Thief, The Shifting Man | 2 |
 | Mage | The Astronomer, The Cartographer, Zorya | 3 |
-| Wizard | The Examiner, Cthulhu | 2 |
+| Wizard | The Examiner, Naut | 2 |
 | Cleric | The Gardener, The Bone Keeper | 2 |
 | Druid | The One Who Tends, The Catalyst | 2 |
 | Necromancer | Belladonna, The Guest | 2 |
 | Bard | The Siren, The Bard, Leonard Cohen | 3 |
-| Paladin | The Sentinel (River), Beorn | 2 |
+| Paladin | The Sentinel (River), The Bearsark | 2 |
 | Warlock | The Constant (NPC), Nyx, Madame | 3 |
 | Monk | Kali, The Sokushinbutsu Monks | 2 |
 | Ranger | The Wayfarer, Hoggle | 2 |
@@ -349,11 +349,11 @@ Every fully written character in the Inn, sorted by class archetype.
 
 ## STAT DISTRIBUTION ANALYSIS
 
-### Highest MIGHT: Beorn (9), Erik (8), The Sentinel (8)
+### Highest MIGHT: The Bearsark (9), Erik (8), The Sentinel (8)
 ### Highest FINESSE: The Shifting Man (9), The Pirate (8), The Artisan Thief (8)
-### Highest INSIGHT: The Astronomer (10), The Cartographer (10), The Examiner (10), Cthulhu (10)
+### Highest INSIGHT: The Astronomer (10), The Cartographer (10), The Examiner (10), Naut (10)
 ### Highest PRESENCE: The Guest (10), Nyx (10), The Constant (10), Leonard Cohen (10)
-### Highest VITALITY: The Sentinel (10), The One Who Is Awake (9), Beorn (9), The Sokushinbutsu Monks (9)
+### Highest VITALITY: The Sentinel (10), The One Who Is Awake (9), The Bearsark (9), The Sokushinbutsu Monks (9)
 ### Highest RESONANCE: The Siren (10), Leonard Cohen (10)
 
 The Inn's stat distribution reflects its philosophy:

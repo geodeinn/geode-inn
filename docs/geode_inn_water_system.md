@@ -107,13 +107,13 @@ The Siren's lupus — the autoimmune labyrinth — is the deep water's metaphor.
 **Frequency:** 432Hz — the crystal's hum, the Song in its crystalline form
 **Temperature:** Stable — the crystal regulates the water
 **Pressure:** Very high — the deepest navigable point
-**Keeper:** Cthulhu (the Scholar)
+**Keeper:** Naut (the Scholar)
 
 Atlantis is the underwater city — the crown jewel of the water system. The player reaches Atlantis by digging down through catacomb sediment, breaking through into water, and undergoing the Merfolk transformation. The transition is the water system's threshold: the player leaves the land behind and becomes a water creature.
 
 Atlantis is organized around the Heart Crystal — a geode the size of a cathedral, humming at 432Hz. The crystal is the water system's tuning fork — the frequency that keeps the entire underwater layer stable. The 432Hz is the 42Hz Song in its most concentrated, most crystalline form. The Song in stone is 42Hz. The Song in crystal is 432Hz. Same note, different octave, different medium.
 
-The Drowned Library is here — the sea-based lost knowledge, paired with the Miskatonic Annex's land-based lost knowledge. Cthulhu is the librarian — the Scholar by the fireplace on the main floor, the ancient vast being at the Crystal Core. The Scholar is the water system's memory keeper — the one who has been here since before the water was water.
+The Drowned Library is here — the sea-based lost knowledge, paired with the Miskatonic Annex's land-based lost knowledge. Naut is the librarian — the Scholar by the fireplace on the main floor, the ancient vast being at the Crystal Core. The Scholar is the water system's memory keeper — the one who has been here since before the water was water.
 
 The Merfolk transformation is the water system's class system. The player's form changes to match the water. Legs become tail. Lungs become gills. The transformation is the water system's thesis: you cannot navigate the deep by being a land creature. You must become the water to move through it.
 
@@ -127,15 +127,15 @@ The Merfolk transformation is the water system's class system. The player's form
 **Frequency:** 42Hz in its original form — the Song before it was broken into octaves
 **Temperature:** Warm — the crystal's own heat
 **Pressure:** Maximum — the weight of the world
-**Keeper:** Cthulhu's true form / The Constant's silence
+**Keeper:** Naut's true form / The Constant's silence
 
 The Crystal Core is the deepest point in the water system — past Atlantis, past the Crystal Chamber, past the Drowned Library. The Heart Crystal's root. The point where the water system meets the geological system — where the water that carried the Song from the sky touches the stone that has been singing since before there was a sky.
 
 The Crystal Core is where the 42Hz Song originated — or where it was first heard. The Constant (the Annunaki, the oldest being) carried the starlight crystal through the void to seed this cycle. The crystal found its own frequency: 42Hz. The water carried that frequency from the crystal outward — up through Atlantis, through the deep water, through the river, through the tides, through the surface, into the rain. The rain is the Song returning to the ground. The Crystal Core is where the Song began.
 
-Cthulhu's true form is here — ancient, vast, surrounded by the rarest books in existence, preserved in the crystal's pressure. The Scholar adjusts the same spectacles. The horror dissolves into warmth. The oldest librarian in the world, guarding the oldest story in the world — the story of the frequency that became a Song that became a world.
+Naut's true form is here — ancient, vast, surrounded by the rarest books in existence, preserved in the crystal's pressure. The Scholar adjusts the same spectacles. The horror dissolves into warmth. The oldest librarian in the world, guarding the oldest story in the world — the story of the frequency that became a Song that became a world.
 
-**Connection to the Aughra Lineage:** The Retort and the Cook guard the 42Hz crystal by using it (Retort) and tending it (Cook). The Crystal Core is where their guardianship is most literal — the crystal is HERE. The Retort's ambition (44Hz — the instinct that 42 isn't the end) and the Cook's patience (the stable foundation growth requires) meet at the Crystal Core. The 2Hz gap — the difference between 40Hz (the ocean's own frequency) and 42Hz (the Inn's Song) — might be damage (the crystal cracked) or evolution (the crystal grew). The Crystal Core holds the answer. The Constant says: "That crystal found its own frequency. I don't carry it. I don't know if it was always 42."
+**Connection to the Fibonacci Lineage:** The Retort and the Cook guard the 42Hz crystal by using it (Retort) and tending it (Cook). The Crystal Core is where their guardianship is most literal — the crystal is HERE. The Retort's ambition (44Hz — the instinct that 42 isn't the end) and the Cook's patience (the stable foundation growth requires) meet at the Crystal Core. The 2Hz gap — the difference between 40Hz (the ocean's own frequency) and 42Hz (the Inn's Song) — might be damage (the crystal cracked) or evolution (the crystal grew). The Crystal Core holds the answer. The Constant says: "That crystal found its own frequency. I don't carry it. I don't know if it was always 42."
 
 **Gameplay:** The endgame. The player who reaches the Crystal Core has descended through all seven layers. The Core is the reward — not a treasure, but a perspective. The player sees the Song's complete journey: rain to crystal, sky to core, diffuse to concentrated. The player understands that the water system is one continuous instrument, and the 42Hz has been the same note in every layer, just at different octaves, different pressures, different temperatures. The both are: the adequate.
 
@@ -226,7 +226,7 @@ The descent is a musical decrescendo that inverts at Atlantis. The music gets qu
 
 ## Connections to Existing Systems
 
-- **Five Hubs:** The Coast Hub (Granite Port) is Layers 2-3. The Undercity (Wednesday/Belladonna) touches Layer 4 (Charon's river runs beneath it). The Inn is Layer 1 (rain on the tree). The Observatory watches all seven layers from above. The Canopy City is above the water entirely — but the mycorrhizal network is the water system's underground mirror.
+- **Five Hubs:** The Coast Hub (Granite Port) is Layers 2-3. The Undercity (Belladonna/Belladonna) touches Layer 4 (Charon's river runs beneath it). The Inn is Layer 1 (rain on the tree). The Observatory watches all seven layers from above. The Canopy City is above the water entirely — but the mycorrhizal network is the water system's underground mirror.
 - **Building System:** Water is one of the seven base materials. Each layer's water has different properties for crafting — rain water for trovant work, surface water for general crafting, tidal water for resonance stones, river water for funerary rites, deep water for rare minerals, Atlantis water for crystal work, core water for the Philosopher's Stone stage.
 - **Acoustic Alchemy:** The Singing Caves (Layer 3) are the acoustic alchemy's origin point. The gargoyles were born there. The water system is the Inn's oldest instrument — the ocean was the first architect, the first tuner, the first keeper.
 - **The Card Game:** Water is one of the six core frequencies. The water cards gain power based on the player's current water layer — water cards played during deep water exploration have enhanced effects. The tidal rhythm (50 BPM) can be used as a combat cadence — the Pirate's drum sets the tempo.

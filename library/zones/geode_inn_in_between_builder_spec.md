@@ -42,7 +42,7 @@ Shadows are SOLID in the In-Between. Move a light source (glowing stone, 42Hz cr
 Sound echoes visibly — a ring of darker grey expanding from the source. Echo pushes fog, rattles stones, reveals hidden objects (same-grey objects become visible when vibration shakes them). Use echoes to find things, clear fog, trigger vibration-only mechanisms. This is acoustic alchemy's prototype — sound as tool, frequency as force.
 
 ### 6. The Erasure
-The world is dissolving. Walls fade, floors thin. Stay too long and the figure fades too — silhouette lightens, edges blur, dissolves into fog. Must move through erasing areas quickly BUT puzzles here require careful deliberate movement. Tension: the erasure says hurry, the puzzle says be precise. Connects to the Erasure threat stage from Mim's Messes game.
+The world is dissolving. Walls fade, floors thin. Stay too long and the figure fades too — silhouette lightens, edges blur, dissolves into fog. Must move through erasing areas quickly BUT puzzles here require careful deliberate movement. Tension: the erasure says hurry, the puzzle says be precise. Connects to the Erasure threat stage from Brim's Messes game.
 
 ## THE DESCENT — Five Sections
 

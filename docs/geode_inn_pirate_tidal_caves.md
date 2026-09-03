@@ -139,7 +139,7 @@ The tide chart is a physical object in the Pirate's captain's cabin. It is also 
 
 The Pirate's handwritten notes in the margins of the chart are where the character lives. The chart is not just a UI element — it's a document. The Pirate has annotated it with personal notes, observations, and the Patinkin warmth:
 
-- Next to the Drowned Library entry: *"Found a scroll last time. ...Don't know what it says. ...Cthulhu will."*
+- Next to the Drowned Library entry: *"Found a scroll last time. ...Don't know what it says. ...Naut will."*
 - Next to the Mirror Caves entry: *"The second reflection is the hard one. ...The third is harder. ...I stopped going."*
 - Next to the Singing Caves entry: *"The 50 BPM chamber is... [the word 'home' crossed out and replaced with] ...calming."*
 - Next to the Bone Caves entry: *"Charon knows the back door. ...He doesn't charge for the cave route. ...I think he likes the company."*

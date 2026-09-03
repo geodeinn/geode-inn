@@ -39,12 +39,12 @@ The In-Between state is the transitional frequency — half-living (42Hz) and ha
 | 27 | The Cook | Main Floor | https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/1cc5b6883_generated_image.png |
 | 28 | Erik | Norse Realms/Meadery | https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/5316ec6b0_generated_image.png |
 | 29 | Waystone | Camelot | https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/c410f4143_generated_image.png |
-| 30 | Beorn | Norse Realms | https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/334c412cc_generated_image.png |
+| 30 | The Bearsark | Norse Realms | https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/334c412cc_generated_image.png |
 | 31 | Joe (The Miniaturist) | Main Floor | https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/54d2526e3_generated_image.png |
 | 32 | The Siren | Water Zone | https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/757d6a61b_generated_image.png |
 | 33 | The Pirate | Water Zone/Campgrounds | https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/e49cee598_generated_image.png |
 | 34 | Marijke | Meadery | https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/c8fa8d0d7_generated_image.png |
-| 35 | The Keeper (Aughra) | Clockwork Skies | https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/e0eec6187_generated_image.png |
+| 35 | The Keeper (Fibonacci) | Clockwork Skies | https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/e0eec6187_generated_image.png |
 | 36 | The Navigator | Clockwork Skies | https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/e96436a5f_generated_image.png |
 | 37 | The Captain | Clockwork Skies | https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/fc0fc1739_generated_image.png |
 | 38 | The Cartographer | Clockwork Skies | https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/ed11c7050_generated_image.png |
@@ -58,7 +58,7 @@ The In-Between state is the transitional frequency — half-living (42Hz) and ha
 | 46 | The Shifting Man | Catacombs/Undercity | https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/6fc9051dc_generated_image.png |
 | 47 | The One Who Is Awake | Main Floor | https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/a231a8589_generated_image.png |
 | 48 | The Firekeeper | Main Floor/Hearth | https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/a8e8b6945_generated_image.png |
-| 49 | The Gardener (Radagast) | Garden | https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/865d845f0_generated_image.png |
+| 49 | The Gardener (The Greenward) | Garden | https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/865d845f0_generated_image.png |
 | 50 | The Retort (Tesla) | Staircase | https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/1f886d4af_generated_image.png |
 | 51 | Oceanianoir | Water Zone | https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/973f80e4a_generated_image.png |
 | 52 | Zorya (Slavic dusk) | Slavic | https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/a85d2e136_generated_image.png |

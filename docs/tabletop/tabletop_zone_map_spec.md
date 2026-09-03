@@ -68,7 +68,7 @@ A set of 37 illustrated maps for the Tabletop Questline, one for each zone of th
 - Circular seating around the central fire
 - The fireplace (always burning, 50 BPM glow)
 - The notice board (where quests are whispered, not posted)
-- The drinking well (where Mim holds court)
+- The drinking well (where Brim holds court)
 - Monsieur Sentient's pipe smoke drifting in spirals
 - Color: Firelight orange, warm browns, cream
 

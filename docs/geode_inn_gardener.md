@@ -3,9 +3,9 @@
 
 ## Casting
 
-**Beorn from The Hobbit** — the skin-changer. Massive man, massive bear. The physical presence that fills a room through sheer physicality. Independent, fierce, works with his hands, tends animals and gardens, doesn't like visitors but is fiercely loyal when trust is earned.
+**The Bearsark from The Hobbit** — the skin-changer. Massive man, massive bear. The physical presence that fills a room through sheer physicality. Independent, fierce, works with his hands, tends animals and gardens, doesn't like visitors but is fiercely loyal when trust is earned.
 
-**Radagast the Brown** — the occasional visitor. The wandering nature wizard who drops by, talks to his hedgehog, checks on things, and leaves. Gentle, scattered, deeply knowledgeable about nature in ways that complement the Gardener's embodied science. The hedgehog is the ambassador — the small, prickly thing that goes ahead and checks if the Gardener is in a mood.
+**The Greenward** — the occasional visitor. The wandering nature wizard who drops by, talks to his hedgehog, checks on things, and leaves. Gentle, scattered, deeply knowledgeable about nature in ways that complement the Gardener's embodied science. The hedgehog is the ambassador — the small, prickly thing that goes ahead and checks if the Gardener is in a mood.
 
 ## Who He Is
 
@@ -13,9 +13,9 @@ The Gardener is the Inn's master cultivator — the keeper of Vanaheim's gardens
 
 The rivalry is the core dynamic: the Catalyst grows things by instinct and performance and magic. The Gardener grows things by *embodied knowledge.* His garden is precise, but the precision is physical, not intellectual. He doesn't write down what he knows. His hands know. The Crone has tried to catalog his methods. He let her watch for three days. She filled two notebooks. He said: "That's not how it works." She said: "Then show me how it works." He put his hands in the soil. She watched for three more days. She filled one more notebook. She annotated it: "...The knowledge is in the hands. The hands will not be transcribed. ...I find this... [the Crone pause] ...efficient."
 
-## Beorn — The Skin-Changer
+## The Bearsark — The Skin-Changer
 
-The Gardener's duality is Beorn's duality: man and bear. Both forms garden. Both forms are the Gardener.
+The Gardener's duality is The Bearsark's duality: man and bear. Both forms garden. Both forms are the Gardener.
 
 ### The Man
 
@@ -47,25 +47,25 @@ The garden produces:
 - **Materials** — wood, fiber, dye plants, and other raw materials for crafting. The Gardener grows what the dwarves of Nidavellir need for their masterworks. The supply chain from garden to forge runs through the Gardener's hands.
 - **Seeds** — the Gardener is the Inn's seed banker. Every seed, from every plant, from every region, cataloged not in the Crone's notebooks but in the Gardener's hands. He can identify a seed by touch. He can tell you what soil it needs, what season it wants, what it will become. The seed bank is the Gardener's gift to the Inn's future — the assurance that anything that grows can grow again.
 
-## Radagast and the Hedgehog
+## The Greenward and the Hedgehog
 
-Radagast the Brown wanders by. Not often. Not on a schedule. He appears when the seasonal cycles are in flux — the equinoxes, the solstices, the moments when the Inn's natural rhythms shift. He comes with his hedgehog.
+The Greenward wanders by. Not often. Not on a schedule. He appears when the seasonal cycles are in flux — the equinoxes, the solstices, the moments when the Inn's natural rhythms shift. He comes with his hedgehog.
 
-The hedgehog is the ambassador. The small, prickly thing that goes ahead of Radagast and checks if the Gardener is in a mood. The hedgehog waddles into the garden, sniffs the air, and either comes back to Radagast (meaning: not today) or disappears into the bean rows (meaning: he's in a good mood, come in).
+The hedgehog is the ambassador. The small, prickly thing that goes ahead of The Greenward and checks if the Gardener is in a mood. The hedgehog waddles into the garden, sniffs the air, and either comes back to The Greenward (meaning: not today) or disappears into the bean rows (meaning: he's in a good mood, come in).
 
-Radagast and the Gardener have a relationship that is older than the Inn. They are the same impulse expressed differently: Radagast is the *wandering* naturalist — the one who goes to the nature, who follows the birds, who chases the seasons. The Gardener is the *rooted* naturalist — the one who stays, who tends, who makes the ground itself productive. Radagast understands nature by moving through it. The Gardener understands nature by staying in one place and letting nature move through him.
+The Greenward and the Gardener have a relationship that is older than the Inn. They are the same impulse expressed differently: The Greenward is the *wandering* naturalist — the one who goes to the nature, who follows the birds, who chases the seasons. The Gardener is the *rooted* naturalist — the one who stays, who tends, who makes the ground itself productive. The Greenward understands nature by moving through it. The Gardener understands nature by staying in one place and letting nature move through him.
 
-When Radagast visits:
-- They don't talk much. They garden together — Radagast's gentle, scattered method next to the Gardener's precise, embodied method. The contrast is visible but the result is the same: things grow.
-- Radagast talks to the hedgehog. The Gardener pretends not to listen. The Crone has noted that the Gardener's pruning speed increases by 15% when Radagast is talking to the hedgehog nearby. She has not shared this observation. She has, however, annotated it: "...The bear responds to the brown. ...Or the man does. ...Or both. ...The data is insufficient. ...The effect is consistent."
+When The Greenward visits:
+- They don't talk much. They garden together — The Greenward's gentle, scattered method next to the Gardener's precise, embodied method. The contrast is visible but the result is the same: things grow.
+- The Greenward talks to the hedgehog. The Gardener pretends not to listen. The Crone has noted that the Gardener's pruning speed increases by 15% when The Greenward is talking to the hedgehog nearby. She has not shared this observation. She has, however, annotated it: "...The bear responds to the brown. ...Or the man does. ...Or both. ...The data is insufficient. ...The effect is consistent."
 - The hedgehog sleeps in the Gardener's apron pocket when the Gardener works. The Gardener has never acknowledged this. The hedgehog has never stopped doing it.
-- Radagast brings news of the wild — what's growing beyond the Inn, what the birds are saying, what the seasons are doing in the world outside. The Gardener receives the news without comment. The next day, the garden is adjusted. The adjustment is always correct. Radagast's news is always accurate. Neither of them says so.
+- The Greenward brings news of the wild — what's growing beyond the Inn, what the birds are saying, what the seasons are doing in the world outside. The Gardener receives the news without comment. The next day, the garden is adjusted. The adjustment is always correct. The Greenward's news is always accurate. Neither of them says so.
 
 ## The Rivalry With the Catalyst
 
 The established dynamic: the Catalyst grows things that only respond to affection. The Gardener grows things that respond to knowledge. The exchange between them is: she grows things that shouldn't grow, he grows things that can't fail. They trade plants. She gives him things that defy his science. He gives her things that defy her magic. Neither will admit the other is right. Both are.
 
-The Beorn/Catalyst dynamic deepens this:
+The The Bearsark/Catalyst dynamic deepens this:
 
 - **The Catalyst's garden is impossible.** Things grow there that have no business growing — portal arrows, herbs that shouldn't exist, plants that respond to stories. Her garden is art. The Gardener's garden is *science.* And the science is in his body, not his books.
 
@@ -104,7 +104,7 @@ The seasonal quests in Vanaheim are the Gardener's domain:
 - To the Catalyst, about a wilting cutting: "Needs water."
 - To the Catalyst, about a thriving impossible plant: "...Hm." (The highest praise the Gardener gives the Catalyst's methods.)
 - To a player who asks about the bear: (nothing — he just looks at them until they understand the question was answered by the looking)
-- To Radagast, after a long silence: "Birds?" (Meaning: what are the birds saying out there?)
+- To The Greenward, after a long silence: "Birds?" (Meaning: what are the birds saying out there?)
 - To the Crone, who has been watching him work: "Notebook's full." (The closest the Gardener comes to humor about the Crone's observation habit.)
 - To Spot, who has wandered into the garden from the catacombs (rare, alarming, gentle): "...Out." (Spot leaves. The Gardener doesn't explain how he got a three-headed ancient underworld dog to leave by saying one word. The Crone has theories.)
 - About the hedgehog, to anyone who asks: (nothing — a look that says the hedgehog is not a topic, the hedgehog is a fact)

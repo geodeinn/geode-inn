@@ -6,16 +6,16 @@
 
 ## REPLACEMENT CARDS (Names Changed from Batch 1)
 
-### MADAME MIMIC (formerly Madame Mim)
+### MADAME MIMIC (formerly Mim)
 Frequency: SONG (1) + SILENCE (1) — Total cost: 2
 Type: Character — Companion — Trickster
 Presence: 2 | Resonance: 2 | Cadence: Immediate
 Abilities: Mimic
-Special: **"But what if we did the fun wrong version?"** — Once per game, Madame Mimic may target any card in play (including your own) and replace its text with a randomly selected ability from a pool. The replaced card retains its stats. The breaking is: the adequate.
+Special: **"But what if we did the fun wrong version?"** — Once per game, Brimic may target any card in play (including your own) and replace its text with a randomly selected ability from a pool. The replaced card retains its stats. The breaking is: the adequate.
 Flavor text: *"The agent of chaos who rides a pipe that insists it is not a pipe."*
 Rarity: Epic
 
-### THE GREENWARD (formerly Radagast the Brown)
+### THE GREENWARD (formerly The Greenward)
 Frequency: ROOT (2) + FIRE (1) — Total cost: 3
 Type: Character — Guide — Wizard
 Presence: 2 | Resonance: 5 | Cadence: Next Turn
@@ -24,7 +24,7 @@ Special: **Communion** — Once per turn, the Greenward may "ask" a target struc
 Flavor text: *"He grows through communion. He asks the garden."*
 Rarity: Epic
 
-### THE BEARSARK (formerly Beorn)
+### THE BEARSARK (formerly The Bearsark)
 Frequency: FIRE (2) + STONE (1) — Total cost: 3
 Type: Character — NPC — Shifter
 Presence: 4 | Resonance: 5 | Cadence: Immediate
@@ -45,7 +45,7 @@ Special: **The Labyrinth** — When the Ravel enters play, create a "Labyrinth" 
 Flavor text: *"Where the Host welcomes, the Ravel challenges. Prove you want to be here."*
 Rarity: Legendary
 
-### THE WAYFARER (formerly Uhtred)
+### THE WAYFARER (formerly The Wayfarer)
 Frequency: FIRE (2) + SILENCE (1) — Total cost: 3
 Type: Character — Wanderer — Warrior
 Presence: 3 | Resonance: 5 | Cadence: Immediate
@@ -54,7 +54,7 @@ Special: **"Destiny Is All"** — When the Wayfarer enters a lane with two or mo
 Flavor text: *"He sits by a campfire between zones. The Pirate gives him rides to the next nowhere."*
 Rarity: Epic
 
-### THE AUGUR (formerly Aughra)
+### THE AUGUR (formerly Fibonacci)
 Frequency: STONE (2) + SONG (2) — Total cost: 4
 Type: Character — Guide — Seer
 Presence: 2 | Resonance: 6 | Cadence: Delayed
@@ -63,12 +63,12 @@ Special: **One Eye** — The Augur sees what two eyes cannot. Once per turn, nam
 Flavor text: *"The Neutral Platform. The sapling grows. The next cycle's seed."*
 Rarity: Epic
 
-### WEDNESDAY (formerly Wednesday Addams — name only, no surname)
+### WEDNESDAY (formerly Belladonna — name only, no surname)
 Frequency: STONE (1) + SILENCE (2) — Total cost: 3
 Type: Character — Guide — Undercity Host
 Presence: 2 | Resonance: 5 | Cadence: Next Turn
 Abilities: Damp, Gargoyle
-Special: **"These Are My People"** — When Wednesday enters play, all STONE cards in your discard pile gain "Ferry" (return to hand for 1 mana). The dead are: comfortable. The dead are: neighbors. Wednesday is: the bridge between the living's Inn and the dead's city.
+Special: **"These Are My People"** — When Belladonna enters play, all STONE cards in your discard pile gain "Ferry" (return to hand for 1 mana). The dead are: comfortable. The dead are: neighbors. Belladonna is: the bridge between the living's Inn and the dead's city.
 Flavor text: *"The dead sit on benches. They read books. They're perfect."*
 Rarity: Epic
 
@@ -81,7 +81,7 @@ Special: **"Wherever an Owl Is Sighted"** — Noctua is the narrative spine's wa
 Flavor text: *"Wherever an owl is sighted, one of us is near."*
 Rarity: Rare
 
-### THE TINKERING WEEABOO (updated — "Ryuk Form" → "True Form")
+### THE TINKERING WEEABOO (updated — "True Form Form" → "True Form")
 Frequency: SONG (2) + SILENCE (1) — Total cost: 3
 Type: Character — Player Class — Changeling
 Presence: 2 | Resonance: 3 | Cadence: Immediate
@@ -414,7 +414,7 @@ All character names are either:
 - Original title-based names (the Constant, the Crone, the Greenward, the Bearsark, the Ravel, the Wayfarer, the Augur, the Simplifier, etc.)
 - Public domain mythological figures (Nyx, Charon, Kali, Medusa, Hel, Merlin, Arthur, Bastet, the Morrigan, etc.)
 - Public domain historical figures (Socrates, Plato, Aristotle, Einstein, Tesla, Leonardo, the eight composers)
-- Generic/common names (Erik, Wednesday as standalone day-name, Noctua as Latin species name)
+- Generic/common names (Erik, Belladonna as standalone day-name, Noctua as Latin species name)
 
 No character names from copyrighted novels, films, TV shows, manga, or games appear on any card.
 

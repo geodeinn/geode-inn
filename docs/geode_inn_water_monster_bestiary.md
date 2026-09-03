@@ -729,7 +729,7 @@ Players advance Bestiary completion percentages by fulfilling four research tier
 
 ### 15.1 NPC Interactions & Questline Hooks
 The Water Bestiary is deeply interwoven into the Inn's existing NPC roster:
-- **Cthulhu the Scholar:** Offers rare book quests requesting recovery of lost water monster lore pages from Layer 4 and Layer 7. Rewards players with high-Mohs gemstone specimens.
+- **Naut the Scholar:** Offers rare book quests requesting recovery of lost water monster lore pages from Layer 4 and Layer 7. Rewards players with high-Mohs gemstone specimens.
 - **Andra the Siren:** Sings duets with lead instruments of Layer 1 and Layer 2 creatures. Questlines require collecting acoustic stems from the Kelpie, Neck, and Siren of Capri.
 - **Bill the Platypus:** Acts as primary aquatic expedition guide. Bill's bio-electro-receptive bill detects hidden 42Hz puzzle nodes across all seven layers.
 - **The Morrigan:** Appears at Layer 3 and Layer 6 during 84Hz Shadow Mode, testing combat readiness against the Kraken and Iku-Turso.

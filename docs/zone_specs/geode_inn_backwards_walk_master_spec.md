@@ -24,7 +24,7 @@ At each step: what connects (threads written), what's missing (gaps to fill), wh
 | 5 | The Hollow Earth | 11-layer collision mapped. | The narrative sequence written as story scene |
 | 6 | The Cosmology | The Astronomer's mind palace. The Constant. Nyx. The Guest (Death on holiday). The Observatory Quest ("The Question"). | The six-quest chain narrative. Einstein Syndrome scene. |
 | 7 | The Cultural Zones | Egypt (Anubis, Bastet), Greece, Camelot (chess board), Norse, Peru, China, Slavic, India, Mesopotamia, Bayou | Each zone's chapter in the novel. The zone-quest arcs. |
-| 8 | The Main Floor | The Crone, the arcade, the brownies, Mim/Monsieur Sentient, the Reader, the Archive, the marketplace, the music room | The Reader's one line. The staircase appearance. |
+| 8 | The Main Floor | The Crone, the arcade, the brownies, Brim/Monsieur Sentient, the Reader, the Archive, the marketplace, the music room | The Reader's one line. The staircase appearance. |
 | 9 | The Arrival | The traveler walks through the forest, finds the Inn-Tree, crosses the threshold. The Host welcomes. | — (complete) |
 | 10 | The Front Door | "Welcome home" for the first time | — (complete) |
 

@@ -80,7 +80,7 @@ Each Part has a secondary narrator voice that colors the Primary. These are not 
 | The Crone | Ancient, crackling, warm | West Country English | Slow, riddle-paced, laughs often |
 | The Catalyst (Beverley) | Brisk, efficient, kind | Neutral American | Fast, organized, warm underneath |
 | The Brownies (Fizgigs) | Chittering, high, energetic | Unclassifiable | Rapid, overlapping, excited |
-| Mim | Mimicry — shifts to match whoever spoke last | Shifting | Erratic, playful, sometimes alarming |
+| Brim | Mimicry — shifts to match whoever spoke last | Shifting | Erratic, playful, sometimes alarming |
 | The Reader (Quire) | Quiet, precise, archival | Neutral | Measured, pauses before key words |
 | The Composer | Musical speech patterns, hands-oriented | French-inflected | Melodic phrasing, tempo follows mood |
 | The Market Manager (Briar) | Warm, commercial, practical | Irish, light | Conversational, selling-rhythm |
@@ -171,11 +171,11 @@ Each Part has a secondary narrator voice that colors the Primary. These are not 
 **Duration:** ~35 minutes
 **Word Count:** ~5,500 words
 **Room Profile:** Common Room then Market then Archive
-**Cast:** Narrator, Crone, Catalyst (Beverley), Brownies, Mim, Sentient Pipe
+**Cast:** Narrator, Crone, Catalyst (Beverley), Brownies, Brim, Sentient Pipe
 **Audio Architecture:**
 - Crone intro: West Country accent, slow riddle-cadence, room profile shifts to Crone's Nook (very dry, close, intimate — reverb ~0.2s)
 - Beverley's scene: efficient, organized, the Archive's clockwork — room profile shifts to Archive (medium reverb, paper rustle ambient, hurdy-gurdy drone low)
-- Mim scene: voice shifts between Narrator, Beverley, and Crone — the processor tracks the last speaker's profile and Mim inherits it with a 0.5s delay. Startling, funny, slightly uncanny.
+- Brim scene: voice shifts between Narrator, Beverley, and Crone — the processor tracks the last speaker's profile and Brim inherits it with a 0.5s delay. Startling, funny, slightly uncanny.
 - Brownies return: same chittering technique, but this time with individual words surfacing — "oil," "can," "fix," "yes" — the swarm becoming language
 - Stone tones: multiple stones named in market scene — creates a chord progression (F4-G4-A4-B4)
 - Sentient Pipe cameo: whispers its catchphrase, room profile goes briefly Magritte-surreal (reversed reverb tail)
@@ -185,7 +185,7 @@ Each Part has a secondary narrator voice that colors the Primary. These are not 
 - Chapter 8: The Crone — Riddles, the Nook, the first real test
 - Chapter 9: The Catalyst — Beverley, the Archive's engine
 - Chapter 10: The Brownies — The Fizgigs, repair and chaos
-- Chapter 11: Mim and the Pipe — Mimicry, sentience, the question of copies
+- Chapter 11: Brim and the Pipe — Mimicry, sentience, the question of copies
 
 ---
 
@@ -493,7 +493,7 @@ All 74 voice profiles are defined in the Master Audio Direction document. The au
 - **The Crone:** West Country, riddle-paced, warm
 - **Beverley:** Brisk, efficient, neutral American
 - **The Brownies:** Swarm chittering, individual words surfacing
-- **Mim:** Mimicry — inherits last speaker's profile +0.5s delay
+- **Brim:** Mimicry — inherits last speaker's profile +0.5s delay
 - **Quire:** Quiet, archival, measured
 - **The Composer:** Musical speech, French-inflected, tempo follows mood
 - **Briar:** Warm, commercial, Irish

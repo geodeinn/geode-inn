@@ -69,7 +69,7 @@ The sentences connect to the narrative spine's themes: humanity merging with cre
 
 ### 5. The Storyteller's Sentence
 **Speaker:** The Storyteller (Tim Curry, the firekeeper)
-**Trigger:** After the player completes the Aughra quest chain ("The Carrying")
+**Trigger:** After the player completes the Fibonacci quest chain ("The Carrying")
 **Context:** The Storyteller has been weaving the player's details into stories all game. The pipe smoke has formed the player's face. The Storyteller is the Whisper Layer's most trusted presence — and the most dangerous. At this stage, the Storyteller drops the pretense. The Storyteller tells ONE story that is not a story. The Storyteller tells the TRUTH.
 
 **The Sentence:** "Once there was a traveler who came to an Inn, and the Inn was warm, and the fire was real, and the stones sang, and the traveler collected the stones, and the stones collected the traveler, and... and... ___."

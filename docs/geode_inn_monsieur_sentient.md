@@ -1,13 +1,13 @@
 # Geode Inn — The Monsieur Sentient
-## Mim's Broom: A Character Document
+## Brim's Broom: A Character Document
 
 ---
 
 ## WHAT IT IS
 
-The Magritte pipe is Mim's vehicle, companion, and thesis statement. It is a sentient, floating pipe based on René Magritte's 1929 painting "La Trahison des Images" ("The Treachery of Images") — the famous painting of a pipe captioned "Ceci n'est pas une pipe" ("This is not a pipe").
+The Magritte pipe is Brim's vehicle, companion, and thesis statement. It is a sentient, floating pipe based on René Magritte's 1929 painting "La Trahison des Images" ("The Treachery of Images") — the famous painting of a pipe captioned "Ceci n'est pas une pipe" ("This is not a pipe").
 
-A witch rides a broom. Mim rides a pipe.
+A witch rides a broom. Brim rides a pipe.
 
 The pipe is not an accessory. The pipe is not a prop. The pipe is a CHARACTER — with opinions, preferences, a voice, and a sense of humor. Specifically, the pipe finds ITSELF funny. The pipe is the only character in the Inn who finds itself funny. This is the pipe's defining trait: self-awareness as comedy.
 
@@ -15,7 +15,7 @@ The pipe is not an accessory. The pipe is not a prop. The pipe is a CHARACTER �
 
 ## ORIGIN
 
-The pipe appeared the same time Mim did — the first time the player did something "wrong." Took the wrong path, picked up the wrong stone, talked to the wrong NPC. Mim arrived, complimented the wrongness, and decided to stay. The pipe was already there, floating beside Mim, whispering.
+The pipe appeared the same time Brim did — the first time the player did something "wrong." Took the wrong path, picked up the wrong stone, talked to the wrong NPC. Brim arrived, complimented the wrongness, and decided to stay. The pipe was already there, floating beside Brim, whispering.
 
 The pipe did not introduce itself. The pipe does not introduce itself. The pipe is simply present, and then you notice it, and then you can't stop noticing it, and then it whispers something, and then you're not sure you heard it.
 
@@ -32,7 +32,7 @@ The pipe whispers. Low, quiet, the kind of voice that says things you're not sur
 - "...Ceci n'est pas une game." (This is not a game.)
 - "...Ceci n'est pas une inn." (This is not an inn.)
 - "...Ceci n'est pas une pipe." (This is not a pipe. ...The pipe's favorite. The pipe says this at least once a day. The pipe finds it eternally funny. The pipe is the only character in the Inn who finds ITSELF funny.)
-- "...Ceci n'est pas un accident." (This is not an accident. ...Said after Mim's chaos accidentally opens a door the player didn't know existed. Mim shushes the pipe. The pipe is right. Mim knows the pipe is right.)
+- "...Ceci n'est pas un accident." (This is not an accident. ...Said after Brim's chaos accidentally opens a door the player didn't know existed. Brim shushes the pipe. The pipe is right. Brim knows the pipe is right.)
 - "...Ceci n'est pas une formula." (This is not a formula. ...Said near the Vessel, who ignores it. The Vessel does not engage with the pipe. The Vessel pretends the pipe doesn't exist. The pipe finds this funny too.)
 - "...Ceci n'est pas une choice." (This is not a choice. ...Said at the endgame, when the player faces the three options: join the archive, leave knowing what it is, or HIDE. The pipe's whisper here is the deepest the pipe goes: the suggestion that the choice itself may be a representation, not the thing.)
 - "...Ceci n'est pas un ending." (This is not an ending. ...Said at the true end, after the player's choice, when the Inn continues. The Inn doesn't end. The Inn continues. The pipe is still there. The pipe is still whispering.)
@@ -51,23 +51,23 @@ The pipe doesn't laugh out loud. The pipe's laugh is the whisper. Each "Ceci n'e
 
 ## THE PIPE AS MIM'S BROOM
 
-A witch rides a broom. Mim rides a pipe. The parallel is not accidental — Mim is the chaos witch, and the pipe is the chaos broom. But where a broom is a tool (the witch controls it), the pipe is a PARTNER (the pipe has its own opinions about where to go).
+A witch rides a broom. Brim rides a pipe. The parallel is not accidental — Brim is the chaos witch, and the pipe is the chaos broom. But where a broom is a tool (the witch controls it), the pipe is a PARTNER (the pipe has its own opinions about where to go).
 
-Mim and the pipe bicker. Quietly, privately, the way old friends bicker — not because they disagree, but because the bickering IS the relationship. Mim wants to go left. The pipe drifts right. Mim pulls the pipe left. The pipe whispers "...Ceci n'est pas une left." Mim shushes the pipe. The pipe drifts right anyway. Mim follows. The right way was more interesting. The pipe knew. The pipe always knows. The pipe will never say it knew. Mim will never admit the pipe was right. This is the arrangement.
+Brim and the pipe bicker. Quietly, privately, the way old friends bicker — not because they disagree, but because the bickering IS the relationship. Brim wants to go left. The pipe drifts right. Brim pulls the pipe left. The pipe whispers "...Ceci n'est pas une left." Brim shushes the pipe. The pipe drifts right anyway. Brim follows. The right way was more interesting. The pipe knew. The pipe always knows. The pipe will never say it knew. Brim will never admit the pipe was right. This is the arrangement.
 
-The pipe is how Mim MOVES through the Inn. The pipe floats. Mim sits on it sidesaddle — the way a witch rides a broom in the paintings, casual, comfortable, as if the physics of sitting on a floating pipe are not worth questioning. The pipe goes where Mim points, except when it doesn't. When it doesn't, it goes somewhere better.
+The pipe is how Brim MOVES through the Inn. The pipe floats. Brim sits on it sidesaddle — the way a witch rides a broom in the paintings, casual, comfortable, as if the physics of sitting on a floating pipe are not worth questioning. The pipe goes where Brim points, except when it doesn't. When it doesn't, it goes somewhere better.
 
-The pipe is how Mim ESCAPES. From situation to situation, from form to form, from performance to performance. The pipe is the exit strategy. The pipe is the way out. When Mim's chaos goes too far, when the Messes pile up, when the performance gets too heavy — the pipe is there, floating, ready to go, no questions asked. The pipe doesn't judge. The pipe doesn't lecture. The pipe is just... there. And Mim gets on, and they go.
+The pipe is how Brim ESCAPES. From situation to situation, from form to form, from performance to performance. The pipe is the exit strategy. The pipe is the way out. When Brim's chaos goes too far, when the Messes pile up, when the performance gets too heavy — the pipe is there, floating, ready to go, no questions asked. The pipe doesn't judge. The pipe doesn't lecture. The pipe is just... there. And Brim gets on, and they go.
 
-### The Pipe as Mim's Armor
+### The Pipe as Brim's Armor
 
-Mim's chaos is armor. The pipe is part of the armor. The pipe's whispers — the constant "this is not what you think it is" — are Mim's way of keeping the world at arm's length. If everything is a representation, nothing can hurt you. If the pipe says "Ceci n'est pas une game," then the game can't hurt you. If the pipe says "Ceci n'est pas une choice," then the choice can't hurt you. The pipe's philosophy is Mim's defense mechanism: distance through irony.
+Brim's chaos is armor. The pipe is part of the armor. The pipe's whispers — the constant "this is not what you think it is" — are Brim's way of keeping the world at arm's length. If everything is a representation, nothing can hurt you. If the pipe says "Ceci n'est pas une game," then the game can't hurt you. If the pipe says "Ceci n'est pas une choice," then the choice can't hurt you. The pipe's philosophy is Brim's defense mechanism: distance through irony.
 
-This is why the pipe's ABSENCE in the In-Between is so significant. When Mim goes to the In-Between — when the performance drops, when the armor comes off, when Mim becomes the mother — the pipe is not there. The pipe cannot be there. The pipe IS the armor. Without the pipe, Mim is unprotected. Without the pipe, Mim is sincere. The In-Between strips away everything that isn't real, and the pipe — the representation of a representation — is the first thing to go.
+This is why the pipe's ABSENCE in the In-Between is so significant. When Brim goes to the In-Between — when the performance drops, when the armor comes off, when Brim becomes the mother — the pipe is not there. The pipe cannot be there. The pipe IS the armor. Without the pipe, Brim is unprotected. Without the pipe, Brim is sincere. The In-Between strips away everything that isn't real, and the pipe — the representation of a representation — is the first thing to go.
 
 "The pipe is not here. The chaos is not here."
 
-The pipe's absence is the signal. When the pipe is gone, Mim is real.
+The pipe's absence is the signal. When the pipe is gone, Brim is real.
 
 ---
 
@@ -93,9 +93,9 @@ In the Shadow Inn (84Hz), the pipe is petrified. Stone. The Magritte reference c
 
 "Ceci n'est pas une pipe" — the pipe is stone. The pipe that was "not a pipe" is now DEFINITIVELY not a pipe. It is stone. The representation IS the thing, because the thing is now stone, and the stone is permanent. The thesis is proven. The joke landed.
 
-Mim is petrified ON the pipe — still sitting, still sidesaddle, still in the posture of riding. But frozen. Stone. The chaos lady and the chaos broom, both stone, both still. The Shadow Inn's 84Hz frequency doesn't destroy the pipe — it COMPLETES the pipe. The pipe spent the entire Living Inn saying "this is not a pipe." The Shadow Inn says: correct. It is stone. It was never a pipe. It was always a representation. And now the representation is permanent.
+Brim is petrified ON the pipe — still sitting, still sidesaddle, still in the posture of riding. But frozen. Stone. The chaos lady and the chaos broom, both stone, both still. The Shadow Inn's 84Hz frequency doesn't destroy the pipe — it COMPLETES the pipe. The pipe spent the entire Living Inn saying "this is not a pipe." The Shadow Inn says: correct. It is stone. It was never a pipe. It was always a representation. And now the representation is permanent.
 
-Mim's expression in the Shadow Inn: satisfied. The joke landed. The pipe is stone. The thesis is proven. The performance is over. Even in petrification, Mim is performing — the satisfaction IS the final performance. The last variation. The last "but what if we did the fun wrong version?" The wrong version was: what if the joke ended? What if the pipe stopped whispering? What if "Ceci n'est pas une pipe" was finally, permanently, stone-cold TRUE?
+Brim's expression in the Shadow Inn: satisfied. The joke landed. The pipe is stone. The thesis is proven. The performance is over. Even in petrification, Brim is performing — the satisfaction IS the final performance. The last variation. The last "but what if we did the fun wrong version?" The wrong version was: what if the joke ended? What if the pipe stopped whispering? What if "Ceci n'est pas une pipe" was finally, permanently, stone-cold TRUE?
 
 ...The pipe would find this funny. If stone could laugh.
 
@@ -103,8 +103,8 @@ Mim's expression in the Shadow Inn: satisfied. The joke landed. The pipe is ston
 
 ## THE PIPE'S RELATIONSHIPS
 
-### The Pipe and Mim
-Partners. Bickering old friends. The pipe is Mim's broom, Mim's vehicle, Mim's armor, Mim's exit strategy. The pipe is the one thing in the Inn that Mim cannot charm, cannot fool, cannot perform for — because the pipe sees through performance. The pipe IS the thesis that performance is not reality. Mim performing for the pipe would be like a mirror trying to lie to itself. The pipe just whispers, and Mim just shushes, and the pipe just whispers again. This is the arrangement. This is love, in the Inn's vocabulary.
+### The Pipe and Brim
+Partners. Bickering old friends. The pipe is Brim's broom, Brim's vehicle, Brim's armor, Brim's exit strategy. The pipe is the one thing in the Inn that Brim cannot charm, cannot fool, cannot perform for — because the pipe sees through performance. The pipe IS the thesis that performance is not reality. Brim performing for the pipe would be like a mirror trying to lie to itself. The pipe just whispers, and Brim just shushes, and the pipe just whispers again. This is the arrangement. This is love, in the Inn's vocabulary.
 
 ### The Pipe and the Vessel
 The Vessel pretends the pipe doesn't exist. The pipe finds this hilarious. The Vessel holds the formula; the pipe holds the anti-formula ("Ceci n'est pas une formula"). The Vessel ignores every whisper. The pipe whispers louder. The Vessel recites the pellet-with-the-poison. The pipe whispers "...Ceci n'est pas un pellet." The Vessel does not respond. The pipe is satisfied. The silence IS the response. The Vessel's refusal to engage is the Vessel's acknowledgment that the pipe is right — because if the pipe were wrong, the Vessel would argue. The Vessel only ignores things that are true. The Vessel learned this from 128 years of being ignored. The ignored thing that was always there. The pipe is the Vessel's mirror.
@@ -119,12 +119,12 @@ The pipe is the Whisper Layer's philosopher. Not its spy (the Owl), not its stor
 
 ## THE PIPE'S FORM CHANGES
 
-The pipe switches forms when Mim switches vessels. Mim's core ability is the mimic — changing form, changing shape, becoming something else. When Mim transforms, the pipe transforms too:
+The pipe switches forms when Brim switches vessels. Brim's core ability is the mimic — changing form, changing shape, becoming something else. When Brim transforms, the pipe transforms too:
 
-- Mim becomes a raven → the pipe becomes a feather (still whispering, even as a feather)
-- Mim becomes a gargoyle → the pipe becomes a stone shelf (still whispering, even as stone — "...Ceci n'est pas une shelf")
-- Mim becomes a mouse → the pipe becomes a toothpick (still whispering, but very quietly)
-- Mim becomes the In-Between mother → the pipe becomes nothing. The pipe is absent. The form change IS the absence.
+- Brim becomes a raven → the pipe becomes a feather (still whispering, even as a feather)
+- Brim becomes a gargoyle → the pipe becomes a stone shelf (still whispering, even as stone — "...Ceci n'est pas une shelf")
+- Brim becomes a mouse → the pipe becomes a toothpick (still whispering, but very quietly)
+- Brim becomes the In-Between mother → the pipe becomes nothing. The pipe is absent. The form change IS the absence.
 
 The form changes are the pipe's comedy routine. The pipe takes itself seriously enough to whisper in every form, but not seriously enough to whisper the SAME thing. Each form gets its own variation:
 
@@ -142,8 +142,8 @@ The pipe's willingness to make fun of ITSELF — to whisper a bad variation and 
 **Category:** Modern Legends
 **Image:** `magrittes_pipe.png` (production reference, item #6)
 **Type:** Companion / Vehicle / Thesis Statement
-**Carrier:** Mim
-**Location:** Floats near Mim on the main floor; travels with Mim through all Inn zones except the In-Between
+**Carrier:** Brim
+**Location:** Floats near Brim on the main floor; travels with Brim through all Inn zones except the In-Between
 **Shadow Inn Status:** Petrified (stone) — the thesis completed
 **Trade Function:** The pipe can trade items. The pipe trades representations — it will take your map and give you the territory, take your guide and give you the place, take your description and give you the thing. The trades are always fair and always unsettling, because the player realizes, after the trade, that the representation was more useful than the thing. The thing without the representation is just... a thing. The representation without the thing is... a pipe.
 
@@ -151,7 +151,7 @@ The pipe's willingness to make fun of ITSELF — to whisper a bad variation and 
 
 ## THE PIPE'S FINAL WHISPER
 
-At the true end — after the endgame choice, after the Inn continues, after the player has seen everything the Inn has to offer — the pipe whispers one last time. Not to the player. Not to Mim. Not to the Vessel. To itself.
+At the true end — after the endgame choice, after the Inn continues, after the player has seen everything the Inn has to offer — the pipe whispers one last time. Not to the player. Not to Brim. Not to the Vessel. To itself.
 
 "...Ceci n'est pas une ending."
 
@@ -171,14 +171,14 @@ The pipe stops. Not petrified. Not gone. Just... quiet. For the first time. The 
 
 ## CONNECTIONS
 
-- **Mim** — the pipe's carrier, partner, and fellow performer
+- **Brim** — the pipe's carrier, partner, and fellow performer
 - **The Vessel** — the pipe's philosophical opposite (formula vs. anti-formula); the Vessel ignores the pipe; the pipe finds this hilarious
 - **The Reader** — one glance of mutual respect; two characters who understand representation
 - **The Whisper Layer** — the pipe is the Whisper Layer's philosopher (asks "is this real?" while others ask "what is this?")
 - **The Shadow Inn** — the pipe's petrification completes the Magritte joke
-- **The In-Between** — the pipe's absence signals Mim's sincerity
+- **The In-Between** — the pipe's absence signals Brim's sincerity
 - **The Observatory / Planet Chamber** — the orrery is "Ceci n'est pas une pipe" made architecture (the representation IS the thing in the Annunaki's cosmology)
 - **The endgame choice** — the pipe's "Ceci n'est pas une choice" is the deepest whisper in the game
 - **Modern Day Legends** — the pipe is item #6 in the Modern Legends catalog
 - **The Inn-Tree** — Magritte's "The Double Secret" is the Inn's structural reference (solid outside, open inside)
-- **The Festival Questline** — Mim's Messes are Stage 1 of the arcade game; the pipe is present for all of it
+- **The Festival Questline** — Brim's Messes are Stage 1 of the arcade game; the pipe is present for all of it

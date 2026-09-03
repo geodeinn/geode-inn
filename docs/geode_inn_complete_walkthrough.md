@@ -63,7 +63,7 @@ The Inn is structured as a living tree with multiple levels:
     ╔════════════════════════════════════════╗
     ║       THE CATACOMBS                    ║  ← (underground river)
     ║    [Charon] [Morrigan] [Anubis]         ║
-    ║    [Cthulhu] [Persephone/Hades]         ║
+    ║    [Naut] [Persephone/Hades]         ║
     ╚════════════════════════════════════════╝
                 |
     ╔════════════════════════════════════════╗
@@ -141,17 +141,17 @@ A selkie — a seal person who chose the land for the stones. Specifically, a pi
 - **Knows stones well enough to weaponize them** — malachite (copper carbonate) is toxic when ground and ingested. The Artisan Thief makes beautiful things and can also make dangerous things.
 
 ### The Tinkering Weeaboo (Kid's Class)
-A changeling whose true form resembles Ryuk from Death Note — tall, angular, yellow-eyed, too-wide grin, too-long fingers. The shapeshifting is tied to an annoyance meter:
+A changeling whose true form resembles the shinigami archetype: tall, angular, yellow-eyed, too-wide grin, too-long fingers — tall, angular, yellow-eyed, too-wide grin, too-long fingers. The shapeshifting is tied to an annoyance meter:
 
 - **Level 0** — human-passing
 - **Level 1** — subtle changes (slightly angular, eyes slightly yellow)
 - **Level 2** — clearly inhuman (but still compact)
-- **Level 3** — full Ryuk form (taller, more angular, more competent at tinkering, not less)
+- **Level 3** — full True Form (taller, more angular, more competent at tinkering, not less)
 - **Level 4** — form fracture (a form that destroys machines — too much chaos for clockwork)
 
-The changeling eats pomegranates compulsively (underworld fruit, Persephone's binding fruit — ingesting the echo). The weeaboo obsession with Japanese culture is because anime is the mirror — the kid saw Ryuk and recognized herself.
+The changeling eats pomegranates compulsively (underworld fruit, Persephone's binding fruit — ingesting the echo). The weeaboo obsession with Japanese culture is because anime is the mirror — the kid saw True Form and recognized herself.
 
-**The Weeaboo's arc:** She finds her people aboard the Arcana. The captain sees the Ryuk form and doesn't flinch. The captain treats things as competent or incompetent, not as strange or normal. The Weeaboo tinkering with the engineer is competent. "Good hands. The ship needs good hands. Stay." The Weeaboo stays. Not because of love — because of competence. And being good at something is the deepest belonging there is.
+**The Weeaboo's arc:** She finds her people aboard the Arcana. The captain sees the True Form and doesn't flinch. The captain treats things as competent or incompetent, not as strange or normal. The Weeaboo tinkering with the engineer is competent. "Good hands. The ship needs good hands. Stay." The Weeaboo stays. Not because of love — because of competence. And being good at something is the deepest belonging there is.
 
 ### The Duck (Companion)
 A platypus — non-magical, irrepressibly charming thief that steals sparkly stones to build its own stash. Comic relief and guide to finding hidden frequency nodes. Uses electroreception (platypuses have electroreceptors in their bills) to detect the electrical signature of hidden frequency nodes. The Duck doesn't care about the Song. The Duck wants shiny things. The Duck's shiny things happen to be the frequency nodes.
@@ -251,7 +251,7 @@ The bartender. Mrs. Lovett-inspired. Performative chaos masking a deeply grounde
 2. **The Chaos Agent** — the one who grows impossible things, who makes the garden do what the garden shouldn't do
 3. **The Grounded Self** — the private person beneath the performance, the one who grows portal arrows and botanical ingredients, who has a secret expertise in botany and nature
 
-**The Catalyst vs. the Gardener:** The Catalyst grows through WILL (telling the garden what to do). The Gardener (Radagast) grows through COMMUNION (asking the garden what it needs). They trade plants: fast-growers that Radagast settles, slow-growers the Catalyst can't rush. Their rivalry is symbiotic — they need each other.
+**The Catalyst vs. the Gardener:** The Catalyst grows through WILL (telling the garden what to do). The Gardener (The Greenward) grows through COMMUNION (asking the garden what it needs). They trade plants: fast-growers that The Greenward settles, slow-growers the Catalyst can't rush. Their rivalry is symbiotic — they need each other.
 
 **Voice profile:** Helena Bonham Carter's Mrs. Lovett energy — rapid, warm, performative, the voice that fills a room. But when she's alone with a seed (the Examiner's story), the voice drops to a murmur. The Catalyst's true voice is the murmur.
 
@@ -301,15 +301,15 @@ A resident of the main floor who uses a Rosicrucian hum to make inhabitants view
 
 ---
 
-## 3.7 — Mim
+## 3.7 — Brim
 
-Krista's permanent chaos companion — a trickster shoulder angel. Mim is the inner voice that says "but what if we did the fun wrong version?" She connects to Krista's Wednesday Addams identity and the Cozy Gothic aesthetic. Mim doesn't guide the player — Mim TEMPTS the player, playfully, toward the more interesting choice.
+Krista's permanent chaos companion — a trickster shoulder angel. Brim is the inner voice that says "but what if we did the fun wrong version?" She connects to Krista's Belladonna identity and the Cozy Gothic aesthetic. Brim doesn't guide the player — Brim TEMPTS the player, playfully, toward the more interesting choice.
 
 ---
 
-## 3.8 — Cthulhu
+## 3.8 — Naut
 
-A 4-foot squid-headed scholar with spectacles by the fireplace. Hidden quest giver for rare book retrieval. Cthulhu is the Inn's most unexpected character — the terrifying cosmic horror reduced to a mild-mannered academic. Cthulhu rewards the rarest stones in the Inn for retrieving lost books from the archive.
+A 4-foot squid-headed scholar with spectacles by the fireplace. Hidden quest giver for rare book retrieval. Naut is the Inn's most unexpected character — the terrifying cosmic horror reduced to a mild-mannered academic. Naut rewards the rarest stones in the Inn for retrieving lost books from the archive.
 
 ---
 
@@ -479,7 +479,7 @@ The Canopy City has nine platforms, each representing a cultural region with a v
 | **Slavic** | Dushan | Zorya Polunochnaya (Tilda Swinton) | "The First Word" |
 | **Indian** | Priya | Kali (Tabu) | "The Garland" |
 | **Norse** | Erik (Peter Gantzler) | Erik himself | Feast fire welcome |
-| **Mediterranean** | Thalia | The Gardener (Radagast) | Garden communion |
+| **Mediterranean** | Thalia | The Gardener (The Greenward) | Garden communion |
 | **Neutral** | The Keeper | — | Commons, Inn-Tree sapling |
 
 **The economy** is narrative-based: stones for goods, stories for secrets. Cross-cultural crafting combines components from multiple zones.
@@ -594,7 +594,7 @@ The player faces false selves — versions of themselves from their save file (p
 
 **Reward:** Kali's Garland — a wearable item that shows the player their true self (stripped of false identities). The garland connects to the Shifting Man's wardrobe (the additive opposite) and the Inn's reincarnation system.
 
-**The Three Fires connection:** Erik (feast fire/warmth), Kali (cremation fire/transformation), Uhtred (campfire/clarity). Three different fires, three different truths.
+**The Three Fires connection:** Erik (feast fire/warmth), Kali (cremation fire/transformation), The Wayfarer (campfire/clarity). Three different fires, three different truths.
 
 ---
 
@@ -619,7 +619,7 @@ The player descends into the army pit and sees the mercury pool. The reflection 
 
 **Voice profile:** Gantzler's booming-warm, taglharpa (Norse lyre), ~100Hz. The fire is the wound underneath the warmth.
 
-**Uhtred** (Alexander Dreymon) — a wandering NPC, not tied to any zone. He neutralizes NPC conflicts by appearing with a mobile campfire and saying the uncomfortable truth. "Destiny is all" = the argument is already decided, stop wasting energy. The Pirate gives him rides to the next nowhere.
+**The Wayfarer** (Alexander Dreymon) — a wandering NPC, not tied to any zone. He neutralizes NPC conflicts by appearing with a mobile campfire and saying the uncomfortable truth. "Destiny is all" = the argument is already decided, stop wasting energy. The Pirate gives him rides to the next nowhere.
 
 ### Quest: "The Feast Fire"
 Erik welcomes the player to his table. The quest is to SIT — to accept the warmth, to eat, to be welcomed. The player who has been running (questing, exploring, collecting) must learn to STOP. Erik's feast is the Norse zone's nook — the social nook, the nook that is other people.
@@ -645,9 +645,9 @@ The player must help the One Who Tends tend the giant's dream — by walking the
 
 ## 6.9 — The Mediterranean Zone
 
-**The Gardener** (Radagast the Brown, Sylvester McCoy) — resident keeper of the Inn's garden. Grows through communion (asking the garden), opposite of the Catalyst's will (telling the garden). Singing vines connect the garden to the Music Room (vines sing when someone pays attention = the Song in plants). Hedgehogs are the smallest NPCs.
+**The Gardener** (The Greenward, Sylvester McCoy) — resident keeper of the Inn's garden. Grows through communion (asking the garden), opposite of the Catalyst's will (telling the garden). Singing vines connect the garden to the Music Room (vines sing when someone pays attention = the Song in plants). Hedgehogs are the smallest NPCs.
 
-**Beorn** (Mikael Persbrandt) — binary shifter (man/bear), Mediterranean border guardian. Both forms real — Kali can't cut.
+**The Bearsark** (Mikael Persbrandt) — binary shifter (man/bear), Mediterranean border guardian. Both forms real — Kali can't cut.
 
 **Medusa** (Angelica Huston) — the preserver. Petrified the sleeping giants at their request (mineral permanence). Lives in a grotto at the stone edge (olive grove/labyrinth border). Gallery of frozen things = her garden. The biggest connection: she's waiting for the Song to be complete before she looks at the singing vines — the gaze will freeze them at the moment of the complete Song, capturing it in stone forever. The frozen vine = the Inn's final note. When it plays, the giants can wake.
 
@@ -890,9 +890,9 @@ Asterion's path ends when someone brings him a thread — the Queen of Webs' (Ar
 
 ---
 
-## 9.7 — Cthulhu and the Miskatonic Annex
+## 9.7 — Naut and the Miskatonic Annex
 
-Cthulhu sits by the fireplace in the catacombs — a 4-foot squid-headed scholar with spectacles. Hidden quest giver for rare book retrieval. Cthulhu is the Inn's most subversive character: the cosmic horror reduced to a mild-mannered academic who rewards curiosity. The terrifying made gentle. The alien made scholarly.
+Naut sits by the fireplace in the catacombs — a 4-foot squid-headed scholar with spectacles. Hidden quest giver for rare book retrieval. Naut is the Inn's most subversive character: the cosmic horror reduced to a mild-mannered academic who rewards curiosity. The terrifying made gentle. The alien made scholarly.
 
 The Miskatonic Annex (see Part Three, section 3.5) extends into the catacombs — the library's deeper stacks are underground.
 
@@ -952,7 +952,7 @@ The Siren must hear her own song for the first time — through the Queen of Web
 
 ## 10.4 — Atlantis
 
-The underwater zone, connected to Cthulhu. Atlantis is the Inn's DEEPEST archive — the civilization that sank, the knowledge that was submerged. The player accesses Atlantis through the Crystal Core layer, using the Artisan Thief's Dive ability (unique to the selkie class).
+The underwater zone, connected to Naut. Atlantis is the Inn's DEEPEST archive — the civilization that sank, the knowledge that was submerged. The player accesses Atlantis through the Crystal Core layer, using the Artisan Thief's Dive ability (unique to the selkie class).
 
 ---
 
@@ -1088,8 +1088,8 @@ This narrative runs UNDERNEATH all game mechanics. The stones, the map, the Fae 
 | Charon | Anthony Hopkins | Ferryman | Silence, one phrase per crossing |
 | The Thrum | Ben Whishaw | Silhouette-maker, presence over hierarchy | Rosicrucian hum |
 | The Catalyst | Helena Bonham Carter | Bartender, information hub, botanical gifts | Mrs. Lovett energy |
-| Cthulhu | — | Squid-headed scholar, hidden quest giver | Quiet academic |
-| Mim | — | Chaos companion, trickster shoulder angel | Playful chaos |
+| Naut | — | Squid-headed scholar, hidden quest giver | Quiet academic |
+| Brim | — | Chaos companion, trickster shoulder angel | Playful chaos |
 
 ### Canopy City
 | Character | Casting | Role | Voice |
@@ -1156,9 +1156,9 @@ This narrative runs UNDERNEATH all game mechanics. The stones, the map, the Fae 
 | The One Who Is Awake | Will Yun Lee | China | "The Reflection" |
 | Zorya Polunochnaya | Tilda Swinton | Slavic | "The First Word" |
 | Erik | Peter Gantzler | Norse | "The Feast Fire" |
-| Uhtred | Alexander Dreymon | Wandering | Campfire/clarity |
+| The Wayfarer | Alexander Dreymon | Wandering | Campfire/clarity |
 | The Gardener | Sylvester McCoy | Mediterranean | Garden communion |
-| Beorn | Mikael Persbrandt | Mediterranean border | Binary shifter |
+| The Bearsark | Mikael Persbrandt | Mediterranean border | Binary shifter |
 | Medusa | Angelica Huston | Mediterranean | The preserver, waits for the Song |
 | Bastet | Angela Bassett | Egyptian (cats) | Four modes, sistrum, 64Hz |
 

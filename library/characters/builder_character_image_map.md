@@ -20,9 +20,9 @@ All character images have been uploaded to app storage. Below is the COMPLETE ma
 - The Thrum → https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/d93ddab6c_the_thrum.png
 - The Brownies → https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/afaa77bdf_the_brownies.png
 - Story-Born Ents → https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/5bb0d279f_story_born_ents.png
-- Madame Mim → https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/2f8205a71_madame_mim.png
-- Wednesday/Belladonna → https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/12af2d984_wednesday_addams.png
-- Cthulhu the Scholar → https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/3acefc74e_26_the_scholar_cthulhu__ambulatory_patron.png
+- Brim → https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/2f8205a71_madame_mim.png
+- Belladonna/Belladonna → https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/12af2d984_wednesday_addams.png
+- Naut the Scholar → https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/3acefc74e_26_the_scholar_cthulhu__ambulatory_patron.png
 - The Firekeeper (Tim Curry) → https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/7a8464fa7_alt_firekeeper_early_portrait.png
 
 ### Cosmology (Level 1)
@@ -53,7 +53,7 @@ All character images have been uploaded to app storage. Below is the COMPLETE ma
 - Tinkering Weeaboo → https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/c32e52d34_tinkering_weeaboo.png
 - The Cartographer → https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/1526c6505_the_cartographer_v2.png
 - The Examiner → https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/a80807c04_the_examiner_v2.png
-- Aughra → https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/2b51ba401_aughra.png
+- Fibonacci → https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/2b51ba401_aughra.png
 - Seelie King → https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/53cb6d92e_seelie_king_v2.png
 - Seelie Queen → https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/1f0ffe6e5_seelie_queen_v2.png
 
@@ -131,11 +131,11 @@ All character images have been uploaded to app storage. Below is the COMPLETE ma
 - Zorya → https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/4733f631b_zorya_v2.png
 - Loki → https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/f4386df4a_loki.png
 - King Arthur → https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/798b58af0_king_arthur_elder.png
-- Merlin & Archimedes → https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/e90a00897_merlin_archimedes.png
+- Merlin & Noctua → https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/e90a00897_merlin_archimedes.png
 - Erik → https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/6f19d7a41_erik_v2.png
-- Uhtred → https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/999e6d559_uhtred_v2.png
-- Beorn → https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/b91a1e139_beorn.png
-- Radagast → https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/a1a12a317_the_gardener_radagast_v2.png
+- The Wayfarer → https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/999e6d559_uhtred_v2.png
+- The Bearsark → https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/b91a1e139_beorn.png
+- The Greenward → https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/a1a12a317_the_gardener_radagast_v2.png
 - Artisan Thief (Selkie) → https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/f3101ff65_artisan_thief_selkie.png
 - Bard Blowhard → https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/0be6c449a_bard_blowhard.png
 

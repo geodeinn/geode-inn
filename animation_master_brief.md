@@ -4,7 +4,7 @@
 
 ### Linework-as-UI System
 - **Heavy cel-shaded** — tradesmen, craftspeople, working characters (Jay, Dani, Blacksmith, Goldsmith)
-- **Soft flowing** — lore characters, scholars, archive keepers (Crone, Beverley, Cthulhu)
+- **Soft flowing** — lore characters, scholars, archive keepers (Crone, Beverley, Naut)
 - **Sharp/angular** — guardians, warriors, protectors (Gargoyles, Griffin, Morrigan)
 - **No-outline** — cosmological beings, divine entities, the sky gods (Allfather, Freyr, Freyja, Anna, Cosmic Crew)
 - **Fragmented** — characters in crisis, unstable identities (The Shifting Man, characters between states)

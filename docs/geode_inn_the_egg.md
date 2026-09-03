@@ -44,7 +44,7 @@ On the 8th of each month, the Egg hatches. A character created by a player emerg
 
 - **A Player Character:** A new playable class or skin based on a player's comic strip character, library avatar, or forum persona. Comes with a unique ability, a visual style, and a short origin quest (3-5 steps).
 - **An NPC:** A new NPC appears on the main floor or in a zone, offering a limited-time questline (5-10 steps). The NPC has dialogue, a personality, and a reward — a unique stone, charm, or cosmetic.
-- **A Game Mode:** A limited-time game mode or modification to an existing game, based on a player's suggested mechanic or play style. Example: a "chaos mode" where Mim's daily chaos happens every 30 seconds instead of once per day.
+- **A Game Mode:** A limited-time game mode or modification to an existing game, based on a player's suggested mechanic or play style. Example: a "chaos mode" where Brim's daily chaos happens every 30 seconds instead of once per day.
 - **An Event:** A world event — the Inn changes for the month. A zone gets a temporary visual shift. A new area opens. A creature migration passes through. A festival. A weather system. Based on a player's story or suggestion.
 
 **Selection criteria (internal — never publicly stated):**
@@ -83,7 +83,7 @@ But — and this is the key mechanic — players can **petition for the Egg to k
 - If the petition reaches a threshold (determined by community size — starting at 100 signatures for the beta, scaling with player base), the content becomes **permanent.** The NPC moves in. The game mode stays. The event becomes recurring. The character becomes part of the Inn.
 - If the petition doesn't reach the threshold, the content goes to sleep. It may hatch again in a future month — the Egg remembers what it has hatched, and sometimes things come back.
 
-**The Return is not a failure.** Going back to sleep is the natural cycle. Not everything becomes permanent. The egg doesn't decide what hatches, and the community doesn't have to decide what stays. Sometimes the beauty is in the temporary — the character that existed for one month, was played, was loved, and went back to sleep. That's the Inn's version of the death sequence. Mim is quiet during the Return. Mim understands.
+**The Return is not a failure.** Going back to sleep is the natural cycle. Not everything becomes permanent. The egg doesn't decide what hatches, and the community doesn't have to decide what stays. Sometimes the beauty is in the temporary — the character that existed for one month, was played, was loved, and went back to sleep. That's the Inn's version of the death sequence. Brim is quiet during the Return. Brim understands.
 
 ### Integration Points
 

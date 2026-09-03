@@ -199,7 +199,7 @@ The Murlocs appear in five distinct storyline locations across the Inn. They are
 
 ### 5. Oceanianoir's Companion — Squeak
 **Location:** Wherever Oceanianoir is (primary: Atlantis)
-**Role:** Named companion NPC — the smallest named NPC after Radagast's hedgehogs
+**Role:** Named companion NPC — the smallest named NPC after The Greenward's hedgehogs
 **Function:** Emotional weather gauge, MIB sensor, star-language amplifier
 **Origin:** Murloc's Hut of Fish (Festival) OR wandered from the coastal town
 **Key Dynamic:** The squeak — call-and-response with Oceanianoir, silence near MIB
@@ -226,7 +226,7 @@ Oceanianoir connects to:
 - **Medusa** — as the reptile lover who can touch and name the snakes
 - **The Zorya** — as the language maintainer to the star-language writer
 - **The Siren** — as the burlesque performer to the room-filling performer
-- **Radagast** — as the scientist who classifies animals to the whisperer who communes with them
+- **The Greenward** — as the scientist who classifies animals to the whisperer who communes with them
 - **The Guest (Death)** — as the atheist who treats Death as a biological process
 - **Nyx** — as the scientist who measures the silence
 - **The Owl** — through Squeak's daily visit to the lighthouse path

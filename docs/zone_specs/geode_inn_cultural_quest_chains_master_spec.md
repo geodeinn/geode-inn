@@ -35,8 +35,8 @@ Krista's personal questline. The seal who chose the land for the stones. The jew
 ### Observatory Quest Chain (266 lines)
 The six-quest chain that leads to "The Question." Requires all three perception modes (Form Sight + Silica Overlay + Mother Mode). The gateway to the endgame.
 
-### Aughra Quest: The Carrying (266 lines)
-Aughra — the weight of observation. The keeper who carries too much. The player learns that seeing IS a burden, and the Inn respects the seer enough to let them rest.
+### Fibonacci Quest: The Carrying (266 lines)
+Fibonacci — the weight of observation. The keeper who carries too much. The player learns that seeing IS a burden, and the Inn respects the seer enough to let them rest.
 
 ---
 
@@ -55,7 +55,7 @@ Aughra — the weight of observation. The keeper who carries too much. The playe
 
 ## DESIGN STATUS
 
-- [x] 9 quest chains designed (Greek, Celtic, Jotunheim, Desert Bone, Selkie, Festival, Mother's Many Faces, Observatory, Aughra)
+- [x] 9 quest chains designed (Greek, Celtic, Jotunheim, Desert Bone, Selkie, Festival, Mother's Many Faces, Observatory, Fibonacci)
 - [x] Each chain has quest giver, quest sequence, and rewards
 - [x] Perception mode unlocks mapped (Form Sight, Silica Overlay, Mother Mode)
 - [ ] Full dialogue trees for each quest

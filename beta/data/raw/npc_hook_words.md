@@ -11,11 +11,11 @@ that tells you exactly who's talking before the name appears.
 | Beverley | "Obviously." | Anne Robinson cadence, Australian accent | Library | Clipped, dismissive librarian. Two-thirds human height. |
 | Joe | "Delightful." | Tom Ellis Lucifer cadence | Meadery | Smooth, amused, self-aware. Paints dragon kittens. |
 | The Teacher | "Incorrect." | Kathy Bates (3 modes) | Archive | Triggers dread. Warm 90% of the time. Canadian accent. |
-| Mim | "Watch this." | Witchy mischief | Hearth | Transforms things. Paired with Monsieur Sentient. |
+| Brim | "Watch this." | Witchy mischief | Hearth | Transforms things. Paired with Monsieur Sentient. |
 | Monsieur Sentient | "Absurd." | Existential pipe | Hearth | Opinionated. Maintains own agency. Magritte's pipe. |
 | The Wanderer | "Passing through." | Warm traveler | Main floor | Odin in disguise. Chibi thieving ravens. Approachable. |
 | The Owl | "Watching." | Silent presence | Variable | Barn owl. Supernatural watcher. "Wherever an owl is sighted, one of us is near." |
-| Cthulhu | "Fascinating." | Scholarly, quiet | Fireplace | 4-foot squid-headed scholar with spectacles. Hidden quest giver. |
+| Naut | "Fascinating." | Scholarly, quiet | Fireplace | 4-foot squid-headed scholar with spectacles. Hidden quest giver. |
 | The Crone | "Sit." | Unblinking eyes | Undercity | Commands with single words. Canonical unblinking reference. |
 | The Firekeeper | "Tend." | Quiet devotion | Hearth | Goes silent 3 seconds when Beverley passes. |
 | The Catalyst | "What changes?" | Philosophical | Hearth | Cohort to Firekeeper. Also goes silent for Beverley. |

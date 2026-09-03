@@ -18,7 +18,7 @@ Clockwork engineer on a sky pirate ship, covered in gears and oil, tool belt cli
 Sky navigator at a chart table on a clockwork airship, mapping wind patterns with a silver disc device (Tesla-inspired), wind resonance indicator glowing faintly, sky charts showing cloud formations and thermal currents, anime art style, focused and quick, surrounded by instruments, brass and copper, the Canopy City visible through the ship's window below
 
 ### A5. The Tinkering Weeaboo with the Captain
-A tall angular yellow-eyed figure (Ryuk-inspired changeling) tinkering with clockwork gears beside a stoic scarred captain on an airship deck, the captain watching without flinching, anime art style, warm sunset light, the crew working in the background, green-fire lanterns, brass and iron, the moment of "Good hands. Stay."
+A tall angular yellow-eyed figure (True Form-inspired changeling) tinkering with clockwork gears beside a stoic scarred captain on an airship deck, the captain watching without flinching, anime art style, warm sunset light, the crew working in the background, green-fire lanterns, brass and iron, the moment of "Good hands. Stay."
 
 ---
 

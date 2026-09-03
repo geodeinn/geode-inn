@@ -33,7 +33,7 @@ z01-z35: Superstition Mountains, Yellowstone, Appalachian, Colorado Plateau, Sla
 | The Owl | https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/0b60b8460_the_owl.png |
 | Beverley the Librarian | https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/e0cfef846_beverley_librarian.png |
 | The Fixer (Wrought) | https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/4aeeacaad_the_fixer_wrought.png |
-| The Keeper (Aughra) | https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/91552e330_the_keeper_aughra.png |
+| The Keeper (Fibonacci) | https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/91552e330_the_keeper_aughra.png |
 
 Remaining 34 NPC portraits are in docs/gallery/characters/ on GitHub.
 

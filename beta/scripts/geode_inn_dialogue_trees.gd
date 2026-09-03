@@ -505,7 +505,7 @@ static func get_dialogue_trees() -> Dictionary:
 
 	# === BEORN — Forest threshold (minimal, threshold cadence) ===
 	"beorn_001": {
-		"npcName": "Beorn",
+		"npcName": "The Bearsark",
 		"zone": "Forest Edge",
 		"hookWord": "threshold",
 		"voiceProfile": "beorn",
@@ -516,7 +516,7 @@ static func get_dialogue_trees() -> Dictionary:
 		"lines": [
 			"[i]A large figure at the tree line. Still. The kind of still that has [i]weight[/i]. No instrument. No fire. Just presence.[/i]",
 			"Threshold.",
-			"[i]A long pause. Beorn does not fill silence. Silence is the point.[/i]",
+			"[i]A long pause. The Bearsark does not fill silence. Silence is the point.[/i]",
 			"Cross or don't. The forest does not invite. The forest [i]is[/i]. You decide if that includes you.",
 			"I change shape here. Not for you. For the forest. It needs a guardian that knows both sides — the two-legged and the four-legged, the speaking and the silent.",
 			"The Inn is behind you. The wild is ahead. Both are real. Neither is safer."
@@ -528,12 +528,12 @@ static func get_dialogue_trees() -> Dictionary:
 		"setFlags": ["met_beorn"]
 	},
 	"beorn_002": {
-		"npcName": "Beorn",
+		"npcName": "The Bearsark",
 		"zone": "Forest",
 		"hookWord": "threshold",
 		"voiceProfile": "beorn",
 		"lines": [
-			"[i]Beorn nods. Or the shape that was Beorn nods. The figure at the tree line is... different now. Larger. The eyes have moved.[/i]",
+			"[i]The Bearsark nods. Or the shape that was The Bearsark nods. The figure at the tree line is... different now. Larger. The eyes have moved.[/i]",
 			"Welcome to the other side. The rules are: there are no rules. Only consequences.",
 			"The forest will test you. Not with riddles — with [i]honesty[/i]. It will show you what you are. Some people do not want to see that.",
 			"Come back when you are done. Or don't. The threshold is always here."
@@ -542,12 +542,12 @@ static func get_dialogue_trees() -> Dictionary:
 		"setFlags": ["crossed_threshold", "entered_forest"]
 	},
 	"beorn_003": {
-		"npcName": "Beorn",
+		"npcName": "The Bearsark",
 		"zone": "Forest Edge",
 		"hookWord": "threshold",
 		"voiceProfile": "beorn",
 		"lines": [
-			"[i]Beorn does not respond. The silence is the response. The threshold remains.[/i]"
+			"[i]The Bearsark does not respond. The silence is the response. The threshold remains.[/i]"
 		],
 		"responses": [],
 		"setFlags": ["met_beorn"]
@@ -676,7 +676,7 @@ static func get_dialogue_trees() -> Dictionary:
 
 	# === RADAGAST — Garden (communion with growing things) ===
 	"radagast_001": {
-		"npcName": "Radagast",
+		"npcName": "The Greenward",
 		"zone": "Garden",
 		"hookWord": "grow",
 		"voiceProfile": "radagast",
@@ -699,7 +699,7 @@ static func get_dialogue_trees() -> Dictionary:
 		"setFlags": ["met_radagast"]
 	},
 	"radagast_002": {
-		"npcName": "Radagast",
+		"npcName": "The Greenward",
 		"zone": "Garden",
 		"hookWord": "grow",
 		"voiceProfile": "radagast",
@@ -715,7 +715,7 @@ static func get_dialogue_trees() -> Dictionary:
 		"setFlags": []
 	},
 	"radagast_003": {
-		"npcName": "Radagast",
+		"npcName": "The Greenward",
 		"zone": "Garden",
 		"hookWord": "grow",
 		"voiceProfile": "radagast",
@@ -731,7 +731,7 @@ static func get_dialogue_trees() -> Dictionary:
 		"setFlags": ["learned_plant_frequencies"]
 	},
 	"radagast_004": {
-		"npcName": "Radagast",
+		"npcName": "The Greenward",
 		"zone": "Garden",
 		"hookWord": "grow",
 		"voiceProfile": "radagast",
@@ -746,7 +746,7 @@ static func get_dialogue_trees() -> Dictionary:
 
 	# === UHTRED — (verdict cadence, war drum fingers) ===
 	"uhtred_001": {
-		"npcName": "Uhtred",
+		"npcName": "The Wayfarer",
 		"zone": "Campgrounds",
 		"hookWord": "verdict",
 		"voiceProfile": "uhtred",
@@ -770,7 +770,7 @@ static func get_dialogue_trees() -> Dictionary:
 		"setFlags": ["met_uhtred"]
 	},
 	"uhtred_002": {
-		"npcName": "Uhtred",
+		"npcName": "The Wayfarer",
 		"zone": "Campgrounds",
 		"hookWord": "verdict",
 		"voiceProfile": "uhtred",
@@ -783,7 +783,7 @@ static func get_dialogue_trees() -> Dictionary:
 		"setFlags": ["uhtred_test_courage", "catacombs_trial_unlocked"]
 	},
 	"uhtred_003": {
-		"npcName": "Uhtred",
+		"npcName": "The Wayfarer",
 		"zone": "Campgrounds",
 		"hookWord": "verdict",
 		"voiceProfile": "uhtred",
@@ -797,7 +797,7 @@ static func get_dialogue_trees() -> Dictionary:
 		"setFlags": ["uhtred_test_patience", "patience_trial_unlocked"]
 	},
 	"uhtred_004": {
-		"npcName": "Uhtred",
+		"npcName": "The Wayfarer",
 		"zone": "Campgrounds",
 		"hookWord": "verdict",
 		"voiceProfile": "uhtred",
@@ -1278,7 +1278,7 @@ static func get_dialogue_trees() -> Dictionary:
 		"hookWord": "warm",
 		"voiceProfile": "cook",
 		"lines": [
-			"Roots. Stone-ground grain. Herbs from Radagast's garden. And something I am [i]not telling you[/i] — not because it is secret, because it is [i]fun[/i] when people guess.",
+			"Roots. Stone-ground grain. Herbs from The Greenward's garden. And something I am [i]not telling you[/i] — not because it is secret, because it is [i]fun[/i] when people guess.",
 			"The 42Hz in the stew is not added. It is [i]grown[/i]. The ingredients grow in soil tuned to 42Hz. The frequency is in the [i]cell walls[/i].",
 			"You cannot taste frequency. But you can [i]feel[/i] it. Eat slowly."
 		],

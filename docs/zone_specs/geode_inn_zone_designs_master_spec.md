@@ -23,7 +23,7 @@ The detailed design documents for zones that didn't fit into the Nine Levels mas
 | Peruvian Zone | 171+157 | Guo Xi (ink-wash) | The giant's dream. Andes terraces. Cloud movement at geological timescale. |
 | Norse Zone | 148+192 | Rackham | The longhouse. Erik, Earl, Ragnar. The mead hall. |
 | Slavic Zone | 185+148 | Slavic tessellation | Aurora. Fjord. Three-color phases (green/violet/white). |
-| Mediterranean | 167 | Monet | Olive grove. The Gardener. Beorn. Butterfly motion. |
+| Mediterranean | 167 | Monet | Olive grove. The Gardener. The Bearsark. Butterfly motion. |
 | Canopy City Zone | 180+208 | Rackham | Tree-platform hub. 9 cultural platforms. Vendors. |
 | India Zone | 160 | Tagore | Ghats. Saffron. Aum at 42Hz. Incense spirals. |
 | Petra | 145 | Hokusai | Carved city. The Treasury. The carver NPCs. |

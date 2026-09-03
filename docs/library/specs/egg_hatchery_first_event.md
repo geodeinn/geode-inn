@@ -210,7 +210,7 @@ Already deployed. Handles:
 After The Cartographer's Egg hatches, the next egg is laid by a different NPC. Future egg candidates:
 
 1. **The Sentinel's Egg** — laid by Lozen (River's character). A 28-day cycle about what it means to guard something that doesn't want to be guarded.
-2. **The Mim's Egg** — laid by Mim (the potion-maker). A 28-day cycle about transformation — what do you become when you've been everything?
+2. **The Brim's Egg** — laid by Brim (the potion-maker). A 28-day cycle about transformation — what do you become when you've been everything?
 3. **The Naut's Egg** — laid by Naut (the scholar). A 28-day cycle about knowledge — what does the Inn know that it has chosen not to share?
 4. **The Waystone's Egg** — laid by Waystone (the recovery character). A 28-day cycle about healing — can something broken become something new?
 

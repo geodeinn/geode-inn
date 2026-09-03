@@ -70,7 +70,7 @@ These are the files that didn't match keyword filters. Many are major design doc
 - **geode_inn_astronomer.md** (173 lines) — The Astronomer
 - **geode_inn_monsieur_sentient.md** (184 lines) — The sentient pipe
 - **geode_inn_the_smiths.md** (179 lines) — The Smiths
-- **geode_inn_the_keeper_aughra.md** (143 lines) — Aughra
+- **geode_inn_the_keeper_aughra.md** (143 lines) — Fibonacci
 - **geode_inn_medusa.md** (144 lines) — Medusa
 - **geode_inn_charon.md** (169 lines) — Charon
 - **geode_inn_the_laughing_one.md** (169 lines) — The Laughing One
@@ -89,7 +89,7 @@ These are the files that didn't match keyword filters. Many are major design doc
 - **geode_inn_grendel_roots.md** (114 lines) — Grendel
 - **geode_inn_knights.md** (114 lines) — Knights
 - **geode_inn_ceiling_gnome.md** (80 lines) — Gesso the Ceiling Gnome
-- **geode_inn_mim.md** (67 lines) — Mim/Brim
+- **geode_inn_mim.md** (67 lines) — Brim
 - **geode_inn_eileens_kids.md** (108 lines) — Eileen's kids
 - **geode_inn_miracle_max.md** (111 lines) — Miracle Max
 - **geode_inn_mordred.md** (90 lines) — Mordred
@@ -167,7 +167,7 @@ These are the files that didn't match keyword filters. Many are major design doc
 - **geode_inn_retort_bloop_tesla.md** (111 lines) — Retort, Bloop, Tesla
 - **geode_inn_leonardo.md** (105 lines) — Leonardo da Vinci
 - **geode_inn_council_of_thinkers.md** (232 lines) — Council of Thinkers
-- **geode_inn_aughra_lineage.md** (108 lines) — Aughra lineage
+- **geode_inn_aughra_lineage.md** (108 lines) — Fibonacci lineage
 - **geode_inn_the_egg.md** (224 lines) — The Egg
 - **geode_inn_tinkering_weeaboo.md** (156 lines) — Tinkering Weeaboo
 - **geode_inn_shifting_man.md** (99 lines) — Shifting Man

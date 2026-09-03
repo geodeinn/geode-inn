@@ -77,7 +77,7 @@ The most dangerous puzzle type. Parts of the In-Between are being erased — the
 
 The player must move through erasing areas quickly — but not too quickly, because the puzzles in these areas require careful, deliberate movement (pushing a stone into a specific position, pulling a chain at the right time). The tension is: the world is disappearing, and the puzzle requires patience. The erasure says: hurry. The puzzle says: be precise. The both are: the In-Between.
 
-**Connection to the Erasure mechanic:** The Erasure is the third threat stage from the Vampire Survivors-style game ("Mim's Messes" → "Discordance" → "Erasures"). The In-Between is where the Erasure lives. The platformer is the Erasure's home territory — the place where things stop being things. The figure navigating an erasing corridor is the player experiencing the Erasure at personal scale, one step at a time, instead of at combat scale.
+**Connection to the Erasure mechanic:** The Erasure is the third threat stage from the Vampire Survivors-style game ("Brim's Messes" → "Discordance" → "Erasures"). The In-Between is where the Erasure lives. The platformer is the Erasure's home territory — the place where things stop being things. The figure navigating an erasing corridor is the player experiencing the Erasure at personal scale, one step at a time, instead of at combat scale.
 
 ---
 
@@ -155,7 +155,7 @@ The text fades. The fog thins. The 42Hz hum becomes audible. The game ends.
 
 ### Why It Belongs Here
 
-The Undercity is Belladonna's (Wednesday Addams') domain — the sleeping giant's ribcage turned into architecture, where the dead live in cozy gothic comfort. The Undercity is already grey, already quiet, already liminal. The In-Between platformer doesn't need to be adapted for the Undercity — the Undercity is already the In-Between, just with furniture.
+The Undercity is Belladonna's (Belladonna') domain — the sleeping giant's ribcage turned into architecture, where the dead live in cozy gothic comfort. The Undercity is already grey, already quiet, already liminal. The In-Between platformer doesn't need to be adapted for the Undercity — the Undercity is already the In-Between, just with furniture.
 
 The same game, played from the Undercity, becomes a different experience. The descent changes. The puzzles shift. The figure's journey through grey becomes a journey through the dead's territory — not the dead as threat, but the dead as context. The Undercity version is the In-Between platformer with one added layer: everything the figure passes through was once alive.
 
@@ -163,7 +163,7 @@ The same game, played from the Undercity, becomes a different experience. The de
 
 In the Undercity, the In-Between platformer is accessed through **the Rib Joints** — the spaces between the sleeping giant's ribs where the bone thins and the grey shows through. The rib joints are visible as faint grey lines in the Undercity's architecture — the places where the bone structure is thinnest, where the dead's world is closest to the In-Between's weightlessness. The player who steps through a rib joint enters the In-Between from the Undercity's perspective.
 
-Belladonna knows about the rib joints. Belladonna uses them. Belladonna walks through the In-Between the way Wednesday Addams walks through a cemetery — casually, comfortably, without hurrying. The player who follows Belladonna through a rib joint sees the In-Between for the first time from the dead side.
+Belladonna knows about the rib joints. Belladonna uses them. Belladonna walks through the In-Between the way Belladonna walks through a cemetery — casually, comfortably, without hurrying. The player who follows Belladonna through a rib joint sees the In-Between for the first time from the dead side.
 
 ### The Undercity Descent: What Changes
 
@@ -218,7 +218,7 @@ The Bone Note is personal. It is the In-Between's gift from the dead: the acknow
 
 ### The Tuesday Detail
 
-Belladonna goes through the rib joints every Tuesday. This is a small, specific, very Wednesday Addams detail — a routine, a schedule, a commitment to the dead that is both practical and affectionate. Tuesday is the day Belladonna walks the In-Between among the dead, checking on them, being present, witnessing.
+Belladonna goes through the rib joints every Tuesday. This is a small, specific, very Belladonna detail — a routine, a schedule, a commitment to the dead that is both practical and affectionate. Tuesday is the day Belladonna walks the In-Between among the dead, checking on them, being present, witnessing.
 
 The player who visits the Undercity on a Tuesday may find Belladonna missing — a note on the door (handwritten, neat, slightly gothic): "Out. Back by dark. Don't touch the skulls."
 

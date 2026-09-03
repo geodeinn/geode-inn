@@ -7,7 +7,7 @@
 
 **Benedict Cumberbatch.** Specifically: the Sherlock Holmes quality (BBC series) — the mind that sees connections at a speed that isolates the seer. The Doctor Strange quality (MCU) — the intellect that understands the fabric of reality, the arrogance that becomes wisdom through encounter with something bigger than the mind. The Alan Turing quality (The Imitation Game) — the genius who sees patterns no one else sees, the social isolation of being too intelligent for the room, the tragedy of pattern-recognition applied to a world that doesn't value the pattern.
 
-But the core is Sherlock. The cosmology level IS the mind palace — the organized upper architecture of everything. The Astronomer is the mind palace's architect and resident. They live in the cosmology level the way Radagast lives in the garden — not as a visitor but as the being whose purpose IS the space.
+But the core is Sherlock. The cosmology level IS the mind palace — the organized upper architecture of everything. The Astronomer is the mind palace's architect and resident. They live in the cosmology level the way The Greenward lives in the garden — not as a visitor but as the being whose purpose IS the space.
 
 ---
 

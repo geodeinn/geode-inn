@@ -78,12 +78,12 @@ The In-Between is the third state — the grey space. If 42Hz is the Living Inn 
 - **Lost items:** Things that fell between the cracks during frequency shifts. An NPC's dropped notebook. A stone that was being transferred between zones when the shift happened. These items exist in the In-Between, accessible but strange.
 - **Forgotten NPCs:** Characters who were in development but never fully integrated. They exist here — half-formed, waiting. Not dangerous. Just... unfinished.
 - **Grey rooms:** Rooms that exist in the margin between versions. A room that was redesigned between the Living and Shadow Inns exists here in its original form — the version that was replaced.
-- **The In-Between NPC:** Wednesday (Belladonna) — the only character who naturally exists in the In-Between. Not 42Hz, not 84Hz, but the transition itself. Wednesday is the Inn's frequency-shift attendant.
+- **The In-Between NPC:** Belladonna (Belladonna) — the only character who naturally exists in the In-Between. Not 42Hz, not 84Hz, but the transition itself. Belladonna is the Inn's frequency-shift attendant.
 
 ### How to Access the In-Between
 - Through grey doors — patches in walls that appear as slightly wrong-colored stone. If the player touches a grey door, they step into the In-Between.
 - During frequency shifts — the moment between 42Hz and 84Hz, the player briefly passes through the In-Between. If the player has the Octave Mirror and releases it mid-shift (timing window: 0.5 seconds), they drop into the In-Between instead of completing the shift.
-- Through Wednesday — Belladonna can guide the player into the In-Between at will.
+- Through Belladonna — Belladonna can guide the player into the In-Between at will.
 
 ### The In-Between's Rules
 - Time doesn't pass here. The player can stay indefinitely, but the Inn's clock doesn't advance.
@@ -187,7 +187,7 @@ No choice is wrong. The Inn doesn't judge. The Inn hands you a room.
 - [ ] Octave Mirror acquisition quest (Stone Circle Chamber interaction)
 - [ ] Shadow Inn enemy roster (petrified entities and their 84Hz combat profiles)
 - [ ] In-Between room catalog (specific grey rooms and their contents)
-- [ ] Wednesday (Belladonna) character sheet as In-Between attendant
+- [ ] Belladonna (Belladonna) character sheet as In-Between attendant
 - [ ] Tri-mode visual asset list (each zone needs 3 versions: Living, Shadow, In-Between)
 - [ ] Audio assets: 84Hz Shadow Inn soundtrack, In-Between harmonic chord
 

@@ -391,7 +391,7 @@
     },
     {
       "num": 43,
-      "name": "The Keeper (Aughra)",
+      "name": "The Keeper (Fibonacci)",
       "zone": "Clockwork Skies (L2)",
       "tier": "TIER 2: KEY NPCs (Major characters with portraits)",
       "living_url": null,
@@ -436,7 +436,7 @@
     },
     {
       "num": 48,
-      "name": "Archimedes",
+      "name": "Noctua",
       "zone": "Camelot (z20)",
       "tier": "TIER 2: KEY NPCs (Major characters with portraits)",
       "living_url": "https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/64580134e_merlin_archimedes.png",
@@ -481,7 +481,7 @@
     },
     {
       "num": 53,
-      "name": "The Gardener (Radagast)",
+      "name": "The Gardener (The Greenward)",
       "zone": "Garden (z28)",
       "tier": "TIER 2: KEY NPCs (Major characters with portraits)",
       "living_url": "https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/bc4540a8b_the_gardener_radagast.png",
@@ -490,7 +490,7 @@
     },
     {
       "num": 54,
-      "name": "Brim (Madame Mim)",
+      "name": "Brim (Brim)",
       "zone": "Main Floor (L3)",
       "tier": "TIER 2: KEY NPCs (Major characters with portraits)",
       "living_url": null,
@@ -517,7 +517,7 @@
     },
     {
       "num": 57,
-      "name": "Uhtred",
+      "name": "The Wayfarer",
       "zone": "Camelot (z20) / Norse Realms",
       "tier": "TIER 2: KEY NPCs (Major characters with portraits)",
       "living_url": "https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/da62d947d_uhtred.png",
@@ -526,7 +526,7 @@
     },
     {
       "num": 58,
-      "name": "Beorn",
+      "name": "The Bearsark",
       "zone": "Norse Realms (z26)",
       "tier": "TIER 2: KEY NPCs (Major characters with portraits)",
       "living_url": "https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/7a5e8d9fa_beorn.png",
@@ -580,7 +580,7 @@
     },
     {
       "num": 64,
-      "name": "Aughra",
+      "name": "Fibonacci",
       "zone": "Clockwork Skies (L2)",
       "tier": "TIER 2: KEY NPCs (Major characters with portraits)",
       "living_url": "https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/75d0287dd_aughra.png",

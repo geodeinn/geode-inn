@@ -86,7 +86,7 @@ The Geode Inn is structured as a massive ancient tree — the Inn-Tree is a livi
 - The Sacred Trio: Host, Catalyst, Crone (+ the Bard as fourth presence)
 - The Council of Thinkers: Tesla, Da Vinci, Newton, Einstein
 - The Wanderer (Odin's approachable form) with chibi ravens
-- Cthulhu the Scholar by the fireplace
+- Naut the Scholar by the fireplace
 - The Music Room — hollow in the Inn-Tree with the great composers as Song-catchers
 - The baby dragon mascot in the geode cave
 - The Sage gargoyle guards the Modern Legends nook
@@ -127,7 +127,7 @@ The Geode Inn is structured as a massive ancient tree — the Inn-Tree is a livi
 ### The Miskatonic Annex (Grounds)
 - Unassuming brick building — the Inn's research wing
 - Houses the Lost Books Collection
-- Connected to Cthulhu's quest line
+- Connected to Naut's quest line
 - Has an unnamed, ageless librarian
 
 ### Camelot (Celtic Cultural Platform — Main Floor/Canopy)
@@ -135,7 +135,7 @@ The Geode Inn is structured as a massive ancient tree — the Inn-Tree is a livi
 - Arthur in three stages: Bill Skarsgård (the Wart/youth), Alexander Skarsgård (the King/peak), Stellan Skarsgård (the Elder/Avalon passage)
 - Seven Knights mapped to seven classical planets (Lancelot=Venus, Percival=Mercury, Gawain=Mars, Bors=Earth, Bedivere=Saturn, Tristan=Moon, Gareth=Sun)
 - Galahad as the eighth — the fixed sphere, the complication of purity vs. choice
-- Merlin and Archimedes (the backwards wizard and the owl who remembers)
+- Merlin and Noctua (the backwards wizard and the owl who remembers)
 - Mordred — the consequence, the pattern that must repeat
 - The Camelot Catacombs — passage to Newgrange, the oldest portal in the world
 - Camelot's Alchemy — sacred geometry, the Flower of Life, the Bindu
@@ -192,10 +192,10 @@ The Inn does not display art on walls. The Inn's environments ARE the art — ea
 
 ### Vanaheim — "The Green World"
 - **Inn Location:** Upstairs, nature/seasonal wing
-- **Ruling Presence:** The Gardener (Radagast the Brown — Sylvester McCoy). Freyr and Freyja — *to be designed*
+- **Ruling Presence:** The Gardener (The Greenward — Sylvester McCoy). Freyr and Freyja — *to be designed*
 - **Theme:** Fertility, seasons, the cycle of growth and harvest, seidr magic
 - **Quest Type:** Seasonal rituals — planting, harvest, the turning of the year
-- **Connects to:** The druidic seasonal quests, the Sacred Grove's solstice mechanics, Beorn (the binary shifter)
+- **Connects to:** The druidic seasonal quests, the Sacred Grove's solstice mechanics, The Bearsark (the binary shifter)
 
 ### Alfheim — "The Light Realm"
 - **Inn Location:** Fae Kingdom — Seelie Court (Summerlands)
@@ -231,7 +231,7 @@ The Inn does not display art on walls. The Inn's environments ARE the art — ea
 - **Inn Location:** Deepest catacombs
 - **Ruling Presence:** The Sleeping Giants (Apus — ancient geological beings who chose to sleep and became mountain ranges)
 - **Theme:** Primal forces, the geological record, the earth's memory
-- **Connects to:** The Peruvian zone, the Bedrock Fortress, Uhtred (wandering NPC)
+- **Connects to:** The Peruvian zone, the Bedrock Fortress, The Wayfarer (wandering NPC)
 
 ### Niflheim — "The Mist World"
 - **Inn Location:** Frozen catacombs
@@ -261,8 +261,8 @@ The Inn does not display art on walls. The Inn's environments ARE the art — ea
 - **The Caller Gargoyle** — 432Hz. White limestone, head tilted back, calling upward.
 
 ## Vanaheim (Upstairs / Seasonal Wing)
-- **The Gardener (Radagast the Brown — Sylvester McCoy)** — Grows through communion (asking the garden). Singing vines connect the garden to the Music Room. Hedgehogs are the smallest NPCs.
-- **Beorn (Mikael Persbrandt)** — Binary shifter (man/bear), Mediterranean border guardian. Both forms real.
+- **The Gardener (The Greenward — Sylvester McCoy)** — Grows through communion (asking the garden). Singing vines connect the garden to the Music Room. Hedgehogs are the smallest NPCs.
+- **The Bearsark (Mikael Persbrandt)** — Binary shifter (man/bear), Mediterranean border guardian. Both forms real.
 - *Vanir gods (Freyr, Freyja) — to be designed*
 
 ## Alfheim (Fae Kingdom — Seelie Court)
@@ -296,13 +296,13 @@ The Inn does not display art on walls. The Inn's environments ARE the art — ea
 
 ### Main Floor NPCs
 - **The Wanderer (Odin)** — Approachable traveler. Chibi ravens Huginn and Muninn.
-- **Cthulhu the Scholar** — 4-foot squid-headed figure with spectacles. Hidden quest giver. Voice: Gary Oldman / Geoffrey Rush.
+- **Naut the Scholar** — 4-foot squid-headed figure with spectacles. Hidden quest giver. Voice: Gary Oldman / Geoffrey Rush.
 - **The Owl** — Barn owl. Full presence. Bloodline watcher. Also the Lighthouse Keeper.
 - **The Dragon Mascot** — Heraldic dragon, Toothless expression. Geode cave.
 - **The Examiner (Emily Deschanel)** — Dr. Brennan in elf form. Inspects old things. The Cartographer's twin.
 - **The Cartographer (Matthew Gray Gubler)** — Spencer Reid quality. Canopy City loremaster. Temporal maps.
-- **Uhtred (Alexander Dreymon)** — Wandering NPC. Neutralizes conflicts. "Destiny is all."
-- **Mim** — Krista's permanent chaos companion. The trickster shoulder angel.
+- **The Wayfarer (Alexander Dreymon)** — Wandering NPC. Neutralizes conflicts. "Destiny is all."
+- **Brim** — Krista's permanent chaos companion. The trickster shoulder angel.
 
 ### The Dock (Water Layer)
 - **The Siren (Lady Gaga)** — Krista's sister. DUAL cadence: outer (cello, performer) and inner (piano, depth). Lupus = the labyrinth. Quest "The Mirror and the Shore."
@@ -322,7 +322,7 @@ The Inn does not display art on walls. The Inn's environments ARE the art — ea
   5. **Bedivere** — Saturn (Lead/Silver) — Remaining. The line. Returns Excalibur.
   6. **Tristan** — Moon (Silver) — Grief. The crescent. Borrowed light.
   7. **Gareth** — Sun (Gold) — Service. The Seed of Life. Kitchen boy turned knight.
-- **Merlin and Archimedes** — The backwards wizard and the owl who remembers. Archimedes is the bloodline's owl.
+- **Merlin and Noctua** — The backwards wizard and the owl who remembers. Noctua is the bloodline's owl.
 - **The Round Table Room** — The Ouroboros made furniture. The Bindu (empty center = everything). Seven geometries combine into the Flower of Life.
 
 ## Muspelheim (Staircase / Alchemy)
@@ -365,13 +365,13 @@ The Inn does not display art on walls. The Inn's environments ARE the art — ea
 - **The Ceiling Gnome (Gesso)** — Writes backward on the ceiling. Connects to Leonardo's mirror writing and the Annunaki's script.
 - **Charles the Chameleon Druid (Cillian Murphy + Benedict Cumberbatch)** — Krista's husband. High versatility, low endurance (glioblastoma).
 - **Medusa (Angelica Huston)** — The geological petrification mechanism. Froze the sleeping giants at their request. Lithophone. Waiting for the complete Song to freeze the singing vines.
-- **Aughra** — The Dark Crystal lineage. Removed her own eye to see more. Connects to Odin's sacrifice.
+- **Fibonacci** — The Dark Crystal lineage. Removed her own eye to see more. Connects to Odin's sacrifice.
 
 ## Family Character Classes (Starting Classes)
 1. **Artisan Thief (Krista)** — Selkie. Feminine Sandman. High DEX/INT, Low CHA. Dive ability. Jeweler's apron IS selkie skin. "Theft" = redistribution.
 2. **Librarian Crone (Krista's Mom)** — The Word/Measure. "Better." Color psychology.
 3. **Bard Blowhard (Krista's Dad)** — The Fool/Warmth. ADHD-pattern thinker. Room-filler.
-4. **Tinkering Weeaboo (Krista's Kid)** — Changeling. Ryuk form. Annoyance meter (Levels 0-4). Pomegranates (consuming Persephone's echo).
+4. **Tinkering Weeaboo (Krista's Kid)** — Changeling. True Form. Annoyance meter (Levels 0-4). Pomegranates (consuming Persephone's echo).
 5. **Chameleon Druid (Charles/Krista's Husband)** — Cillian Murphy + Benedict Cumberbatch. Low endurance (glioblastoma). Shifts with the changeling at Level 4.
 6. **Siren (Krista's Sister)** — Voice IS power. Dual cadence. Perfection is the wall.
 7. **Pirate (Krista's Sister's Husband)** — Dread Pirate Roberts. Drummer. Harbor Master Effect.
@@ -388,7 +388,7 @@ The Inn does not display art on walls. The Inn's environments ARE the art — ea
 ## Character Totals
 - 7 family character classes
 - 9 Full Presence deities
-- 1 Ambulatory (Cthulhu)
+- 1 Ambulatory (Naut)
 - 9 Music Room composers + Leonard Cohen
 - 3 Greek Philosophers
 - 7 Knights + Arthur (3 stages) + Galahad + Mordred + Merlin
@@ -401,7 +401,7 @@ The Inn does not display art on walls. The Inn's environments ARE the art — ea
 - 32 Water Monsters
 - 6 Gargoyles
 - 4 Story-Born Beings
-- Multiple named NPCs (Charon, Spot, Anubis, Ammit, Brownies, Wisp, Gardener, Beorn, Uhtred, Examiner, Cartographer, Persephone, Hades, Shifting Man, Ceiling Gnome, Mim, Cabbit, Aughra)
+- Multiple named NPCs (Charon, Spot, Anubis, Ammit, Brownies, Wisp, Gardener, The Bearsark, The Wayfarer, Examiner, Cartographer, Persephone, Hades, Shifting Man, Ceiling Gnome, Brim, Cabbit, Fibonacci)
 - **Total: 130+ documented characters**
 
 ---
@@ -421,7 +421,7 @@ Players earn unique, story-specific drinks through storytelling. The Inn's thesi
 7. **The Return:** New cycle begins. Collection lighter by one stone.
 
 ## Living Book System
-Books are alive — they can be talked to. AI powers conversations with book characters. Connected to Cthulhu's quests and the Miskatonic Annex.
+Books are alive — they can be talked to. AI powers conversations with book characters. Connected to Naut's quests and the Miskatonic Annex.
 
 ## Remembrance Vision System
 Visions of past lives. Triggered by stones, locations, or narrative triggers. Connected to the bloodline motif and the Owl.
@@ -504,13 +504,13 @@ Frog transformation: three = suspension.
 - Requires the Fae Kingdom portal
 
 ## Tier 4: The Deep Realms
-- **Jotunheim:** Giant boss encounters. The Sleeping Giants. Uhtred Principle.
+- **Jotunheim:** Giant boss encounters. The Sleeping Giants. The Wayfarer Principle.
 - **Niflheim:** Archaeological preservation quests.
 - **Persephone & Hades Questline:** Follow the pomegranate tree's roots → meet Hades (patient gardener) → read the journal of 4,129 cycles → carry a pomegranate seed to the surface. Reward: Peridot.
 - Require Revered reputation and catacomb exploration
 
 ## Tier 5: The High Realms
-- **Vanaheim:** Seasonal mastery, seidr magic. The Gardener. Beorn.
+- **Vanaheim:** Seasonal mastery, seidr magic. The Gardener. The Bearsark.
 - **Asgard:** Cosmic awareness. The Allfather. The Constant. The Astronomer. Nyx. The Guest.
 - **Avalon:** The Elder Arthur's destination. The Once and Future King.
 - Require Exalted reputation — endgame
@@ -566,18 +566,18 @@ The player who connects all of these finds the Golden Contract. And understands 
 23. The Bosch Shadows ✓
 24. The Queens (Roots, Webs, Words) ✓
 25. Medusa and the petrification mechanism ✓
-26. The Gardener and Beorn ✓
+26. The Gardener and The Bearsark ✓
 27. The Shifting Man ✓
 28. The Greek Philosophers ✓
 29. The Retort and the Cook + Five Smiths ✓
 30. Gargoyle frequencies and the Golden Contract ✓
 31. Music Direction ✓
 32. The Death Sequence ✓
-33. The Miskatonic Annex and Cthulhu ✓
+33. The Miskatonic Annex and Naut ✓
 34. The Fae Kingdom ✓
 35. The Tidal Caves ✓
 36. The Poison Garden + National Parks Veil ✓
-37. Mim ✓
+37. Brim ✓
 
 ## Layers Needing Development (12)
 

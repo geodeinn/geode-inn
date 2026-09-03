@@ -207,7 +207,7 @@
       "dialogueId": "teacher_002"
     },
     {
-      "npcName": "Mim",
+      "npcName": "Brim",
       "zone": "Hearth",
       "voiceProfile": "Witchy mischief \u2014 cackling under the surface",
       "conditionTag": "first_visit",
@@ -237,7 +237,7 @@
       "isWhisperLayer": false,
       "lines": [
         "Absurd.",
-        "That is the word for it. I am a pipe. I am aware that I am a pipe. This is, by any philosophical standard, absurd. Mim thinks it's charming. I think it's a condition. But I can smoke myself, which is more than most pipes can say, and I have opinions, which is more than most people can say. So. Absurd, but not without dignity."
+        "That is the word for it. I am a pipe. I am aware that I am a pipe. This is, by any philosophical standard, absurd. Brim thinks it's charming. I think it's a condition. But I can smoke myself, which is more than most pipes can say, and I have opinions, which is more than most people can say. So. Absurd, but not without dignity."
       ],
       "responses": [
         "What kind of pipe are you?",
@@ -295,7 +295,7 @@
       "dialogueId": "owl_001"
     },
     {
-      "npcName": "Cthulhu",
+      "npcName": "Naut",
       "zone": "Fireplace",
       "voiceProfile": "Scholarly, quiet, genteel \u2014 spectacles and a reading lamp",
       "conditionTag": "first_visit",
@@ -493,7 +493,7 @@
       "dialogueId": "kathy_001"
     },
     {
-      "npcName": "John Myers",
+      "npcName": "Quire",
       "zone": "Archive",
       "voiceProfile": "Lovecraftian scholar \u2014 hushed, careful, always looking over his shoulder",
       "conditionTag": "first_visit",

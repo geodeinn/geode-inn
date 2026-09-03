@@ -40,7 +40,7 @@ The system uses the PlayerProgress entity and a set of tracking fields to build 
 | Preferred zone temperature | Time analysis: warm zones vs cold zones | Temperature preference log | The Host suggests zones the player hasn't tried |
 | Reading pace | Time per Living Book page | Per-page reading time | The Book opens to pages the player read slowly |
 | Music listening behavior | Time spent in the Music Room + which composers | Per-composer listening time | The Crone asks about the player's musical taste |
-| Build patterns | Building system creation analysis | Build preference log | Wednesday comments on the player's architectural style |
+| Build patterns | Building system creation analysis | Build preference log | Belladonna comments on the player's architectural style |
 
 ### Tier 3: Meta-Awareness (Triggered — Whisper Layer Tier 2+)
 

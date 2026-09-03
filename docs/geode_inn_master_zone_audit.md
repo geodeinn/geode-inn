@@ -34,7 +34,7 @@
 | The Garden | Van Gogh | The Gardener, The Catalyst | 42Hz growth | Garden quests | — | Singing vine clippings, Portal arrows | COMPLETE |
 | The Meadery | Picasso | Thorin, Marijke | 42Hz warmth | Meadery quests | — | Celtic mug, drinking horn | COMPLETE |
 | Portrait Gallery | Mapplethorpe | Portrait subjects | 42Hz | — | — | Portrait cards | COMPLETE |
-| Mim's Nook | Magritte | Mim, Monsieur Sentient | 42Hz (pipe frequency) | Mim's questline | — | The Pipe (Sentient), transformation tokens | COMPLETE |
+| Brim's Nook | Magritte | Brim, Monsieur Sentient | 42Hz (pipe frequency) | Brim's questline | — | The Pipe (Sentient), transformation tokens | COMPLETE |
 | The Arcade | SNES gold Celtic | Beverley (librarian) | 42Hz | — | 48 games catalogued | Score Stone, arcade tokens | COMPLETE |
 | The Market | Mucha/Royo | 11 vendors, Dani's Booth | 42Hz commerce | Market quests | Market Day (merchant sim) | MarketItem entity (Soulstice bridge) | COMPLETE |
 | The Music Room | — | The Bard | 42Hz composition | — | Bead Board Battle | Composed pieces, bead shapes | COMPLETE |

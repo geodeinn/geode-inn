@@ -3,7 +3,7 @@
 
 ---
 
-## BELLDONNA (formerly Wednesday → Wednesday Addams)
+## BELLDONNA (formerly Belladonna → Belladonna)
 
 Frequency: STONE (1) + SILENCE (2) — Total cost: 3
 Type: Character — Guide — Undercity Host
@@ -48,13 +48,13 @@ Rarity: Epic
 
 ## IMPACT ON OTHER CARDS
 
-Any card that previously referenced "Wednesday" or "Madame Mimic" in its text is updated:
+Any card that previously referenced "Belladonna" or "Madame Mimic" in its text is updated:
 
 | Card | Previous Reference | Updated Reference |
 |------|-------------------|-----------------|
-| Charon (flavor text) | "Same wood. Different hands." | No change needed — doesn't reference Wednesday |
+| Charon (flavor text) | "Same wood. Different hands." | No change needed — doesn't reference Belladonna |
 | The Ravel (Labyrinth structure) | — | No change needed |
-| Any quest card referencing Wednesday | "Wednesday enters play..." | "Belladonna enters play..." |
+| Any quest card referencing Belladonna | "Belladonna enters play..." | "Belladonna enters play..." |
 | Any quest card referencing Mim | "Madame Mimic's chaos..." | "Madame's chaos..." |
 | Enemy card: Mim's Messes | "Madame Mimic's chaos" | "Madame's chaos" |
 | The Tinkering Weeaboo | "Mimic (unpredictable)" | Keep "Mimic" as a keyword — it's a generic English word, not a character name |
@@ -64,8 +64,8 @@ Any card that previously referenced "Wednesday" or "Madame Mimic" in its text is
 ## IMPACT ON NARRATIVE DOCUMENTS
 
 All narrative documents referencing these characters should be updated:
-- "Wednesday Addams" → "Belladonna" (all instances)
-- "Wednesday" (standalone) → "Belladonna" (all instances)
+- "Belladonna" → "Belladonna" (all instances)
+- "Belladonna" (standalone) → "Belladonna" (all instances)
 - "Madame Mim" → "Madame" (all instances)
 - "Madame Mimic" → "Madame" (all instances)
 - "The Wayfarer" — no changes needed (already correct)

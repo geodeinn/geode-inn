@@ -96,7 +96,7 @@ The Geode Inn repository is 85-90% novel-ready. All major story arcs, character 
 1. Loki — mentioned in Norse zone, needs full profile
 2. Freyr and Freyja — Vanir deities, completely undesigned
 3. Hel — featured in Norse/Catacombs, needs casting/personality/quest mechanics
-4. Radagast (The Gardener) — mentioned as Catalyst's rival, needs full profile
+4. The Greenward (The Gardener) — mentioned as Catalyst's rival, needs full profile
 5. Erik Earl Ragnar — referenced, lacks standardized NPC profile
 6. Miracle Max — staircase alchemy shop NPC, undesigned
 7. Gesso (Ceiling Gnome) — cosmic mural painter, lacks profile doc

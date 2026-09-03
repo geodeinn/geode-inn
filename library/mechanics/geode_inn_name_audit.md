@@ -8,14 +8,14 @@
 | Current Name | Source | Issue | Proposed Replacement |
 |---|---|---|---|
 | **Madame Mim** | T.H. White's "The Sword in the Stone" (1938), Disney (1963) | Named character from copyrighted novel/film | **Madame Mimic** — keeps the "Mim" sound Krista loves, makes it original, and the word "mimic" perfectly describes her function (she mimics, mirrors, and breaks formulas by doing the wrong version) |
-| **Radagast the Brown** | Tolkien, The Hobbit/LOTR | Named character from copyrighted works | **The Greenward** — title-based, fits the Inn's naming convention (the Constant, the Crone, the Host). "Greenward" = green + warden. He wards the green. |
-| **Beorn** | Tolkien, The Hobbit | Named character from copyrighted works | **The Bearsark** — a play on "berserker" (Norse bear-warriors), original compound. He IS the bear-sark: the skin that shifts between man and bear. |
+| **The Greenward** | Tolkien, The Hobbit/LOTR | Named character from copyrighted works | **The Greenward** — title-based, fits the Inn's naming convention (the Constant, the Crone, the Host). "Greenward" = green + warden. He wards the green. |
+| **The Bearsark** | Tolkien, The Hobbit | Named character from copyrighted works | **The Bearsark** — a play on "berserker" (Norse bear-warriors), original compound. He IS the bear-sark: the skin that shifts between man and bear. |
 | **Jareth** | Labyrinth (1986, Lucasfilm/Henson) | Named character from copyrighted film | **The Ravel** — from "unravel/ravel," the one who raveled the labyrinth. Sounds like a name, functions as a title. He IS the tangle. |
-| **Uhtred** | Bernard Cornwell, The Saxon Stories / The Last Kingdom | Named character from copyrighted novels | **The Wayfarer** — title-based, fits the Inn's convention. He walks the roads between zones. "Destiny is all" stays — it's a translation of the Old English concept of wyrd, public domain. |
-| **Aughra** | The Dark Crystal (1982, Henson/Jim Henson Company) | Named character from copyrighted film | **The Augur** — from the Latin "augur" (a Roman diviner/seer). Real word, public domain. Keeps the "Au" sound. She IS the augur: the one who reads the patterns. |
-| **Archimedes** (the owl) | Disney's The Sword in the Stone (1963) | Named owl character from copyrighted film | **Noctua** — Latin for "little owl," the actual species name (Athene noctua) of the owl associated with Athena in Greek mythology. Real word, public domain, mythologically grounded. |
-| **"Ryuk Form"** (Tinkering Weeaboo) | Death Note (Tsugumi Ohba/Takeshi Obata) | Named character from copyrighted manga/anime | **"True Form"** or **"Unmasked"** — the description (tall, angular, yellow-eyed, too-wide grin, too-long fingers) stays as original design. Just don't name it "Ryuk." |
-| **Wednesday Addams** | The Addams Family (Charles Addams, 1938-) | Named character from copyrighted comic/film/TV | **Wednesday** (standalone) — "Wednesday" is a day of the week, not copyrightable. Use ONLY "Wednesday" — never "Addams." The character keeps her identity (deadpan, dark humor, cozy gothic) without the surname. The name "Wednesday" also connects to Odin/Wednesday (public domain mythology). |
+| **The Wayfarer** | Bernard Cornwell, The Saxon Stories / The Last Kingdom | Named character from copyrighted novels | **The Wayfarer** — title-based, fits the Inn's convention. He walks the roads between zones. "Destiny is all" stays — it's a translation of the Old English concept of wyrd, public domain. |
+| **Fibonacci** | The Dark Crystal (1982, Henson/Jim Henson Company) | Named character from copyrighted film | **The Augur** — from the Latin "augur" (a Roman diviner/seer). Real word, public domain. Keeps the "Au" sound. She IS the augur: the one who reads the patterns. |
+| **Noctua** (the owl) | Disney's The Sword in the Stone (1963) | Named owl character from copyrighted film | **Noctua** — Latin for "little owl," the actual species name (Athene noctua) of the owl associated with Athena in Greek mythology. Real word, public domain, mythologically grounded. |
+| **"True Form Form"** (Tinkering Weeaboo) | Death Note (Tsugumi Ohba/Takeshi Obata) | Named character from copyrighted manga/anime | **"True Form"** or **"Unmasked"** — the description (tall, angular, yellow-eyed, too-wide grin, too-long fingers) stays as original design. Just don't name it "True Form." |
+| **Belladonna** | The Addams Family (Charles Addams, 1938-) | Named character from copyrighted comic/film/TV | **Belladonna** (standalone) — "Belladonna" is a day of the week, not copyrightable. Use ONLY "Belladonna" — never "Addams." The character keeps her identity (deadpan, dark humor, cozy gothic) without the surname. The name "Belladonna" also connects to Odin/Belladonna (public domain mythology). |
 
 ## REVIEW (Borderline — Recommend Changing to Be Safe)
 
@@ -54,7 +54,7 @@ Beyond name changes, any DIRECT QUOTES from copyrighted works need to become ori
 
 ## SUMMARY
 
-**Must change:** 9 names (Mim, Radagast, Beorn, Jareth, Uhtred, Aughra, Archimedes owl, Ryuk form, Wednesday Addams → Wednesday)
+**Must change:** 9 names (Mim, The Greenward, The Bearsark, Jareth, The Wayfarer, Fibonacci, Noctua owl, True Form, Belladonna → Belladonna)
 
 **Review:** 2 names (Cabbit, Leonard Cohen)
 

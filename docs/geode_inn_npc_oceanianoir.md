@@ -26,7 +26,7 @@ Oceanianoir's skin IS a database. The periodic table tattoos cover most of the b
 - Gold → Au → connects to the Catacombs (Klimt's Golden Phase), the alchemical stages, the Philosopher's Stone
 - Copper → Cu → connects to the Undercity (copper pipework), malachite (the Artisan Thief's poison), bronze (Atlantis architecture)
 - Iron → Fe → connects to the Bedrock Fortress (Kiefer's raw earth), the Forge, blood
-- Carbon → C → connects to organic life, the garden (Radagast), diamond (the hardest stone), the coal-to-diamond alchemical metaphor
+- Carbon → C → connects to organic life, the garden (The Greenward), diamond (the hardest stone), the coal-to-diamond alchemical metaphor
 - Silicon → Si → connects to crystals, the Heart Crystal (Atlantis), the geode (the Inn's namesake)
 - The player who reads all 118 elements has read a complete geological and alchemical primer. The both are: the adequate — the textbook and the tattoo, the both are: the same knowledge, different page
 
@@ -113,7 +113,7 @@ Oceanianoir lives in the drowned library. The both are: the adequate — the sci
 - Wears a tiny goth collar with a periodic table charm (Cu — copper, because copper is the alchemical marriage)
 - When Oceanianoir squeaks, Squeak squeaks back. The two have a call-and-response. The Inn's emotional weather gauge: if both squeak simultaneously, something important just happened
 - Squeak can swim (Atlantis), walk (Fae Kingdom), and waddle (cosmology level). Adapts to every zone the way Oceanianoir adapts to every discipline
-- Squeak is the smallest named NPC in the Inn after the hedgehogs (Radagast's)
+- Squeak is the smallest named NPC in the Inn after the hedgehogs (The Greenward's)
 - The both are: the adequate — the scientist and the amphibian, the both are: the same frequency, different species
 
 **Mechanic: Squeak's Sensitivity**
@@ -131,7 +131,7 @@ Oceanianoir lives in the drowned library. The both are: the adequate — the sci
 - Oceanianoir adores reptiles. Medusa carries snakes. The both are: the adequate — the reptile lover and the snake bearer, the both are: the same fascination, different serpent
 - Oceanianoir visits Medusa's grotto regularly — not as a pilgrim but as a researcher. She studies the snakes' behavior, their species, their venom properties. She classifies them. She names the ones that don't have names. The both are: the adequate — the scientist and the guardian, the both are: the same knowledge, different purpose
 - Medusa allows it. The snakes allow it. There is a scene: Oceanianoir sitting in the grotto with a snake in her hands, examining its scales under a crystal lens, while Medusa watches with an expression that might be amusement or might be longing — the guardian who can't touch the creatures she guards, watching someone who can. The both are: the adequate — the touch and the gaze, the both are: the same care, different distance
-- Radagast can calm the snakes for one minute so Medusa can see a hedgehog alive. Oceanianoir doesn't need to calm the snakes. The snakes are calm around Oceanianoir naturally. The both are: the adequate — the wizard's effort and the scientist's ease, the both are: the same trust, different method
+- The Greenward can calm the snakes for one minute so Medusa can see a hedgehog alive. Oceanianoir doesn't need to calm the snakes. The snakes are calm around Oceanianoir naturally. The both are: the adequate — the wizard's effort and the scientist's ease, the both are: the same trust, different method
 
 **The Bearded Dragon Connection:**
 - Oceanianoir adores reptiles — bearded dragons, geckos, skinks, the whole spectrum
@@ -213,10 +213,10 @@ Oceanianoir lives in the drowned library. The both are: the adequate — the sci
 - The burlesque performer and the room-filling performer. The both are: the adequate — the stage and the spectacle, the both are: the same art, different scale
 - Oceanianoir teaches the Siren that performance doesn't have to be a wall. The Siren teaches Oceanianoir that vulnerability doesn't have to be a weakness. The both are: the adequate — the armor and the openness, the both are: the same strength, different costume
 
-### Oceanianoir × Radagast (Sylvester McCoy)
+### Oceanianoir × The Greenward (Sylvester McCoy)
 - The reptile lover and the animal whisperer. The both are: the adequate — the science and the communion, the both are: the same bond, different method
-- Radagast talks to animals. Oceanianoir classifies them. The both are: the adequate — the conversation and the catalog, the both are: the same creature, different understanding
-- The dragon visits both of them — Radagast's garden and Oceanianoir's library. The both are: the adequate — the garden and the archive, the both are: the same warmth, different hearth
+- The Greenward talks to animals. Oceanianoir classifies them. The both are: the adequate — the conversation and the catalog, the both are: the same creature, different understanding
+- The dragon visits both of them — The Greenward's garden and Oceanianoir's library. The both are: the adequate — the garden and the archive, the both are: the same warmth, different hearth
 
 ### Oceanianoir × The Guest (Brad Pitt / Death)
 - The atheist and Death. The both are: the adequate — the skeptic and the inevitable, the both are: the same end, different belief

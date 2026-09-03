@@ -184,7 +184,7 @@ The both are: the adequate — the cave painter and the petrifier, the same pres
 ### Eileen × The Peruvian Guide (Q'orianka Kilcher)
 The both are: the adequate — the cave painter and the dream tender, the same earth, different sleep. The cave is in a sleeping giant's body. Eileen paints the giant's dreams on the cave walls. The Peruvian guide tends the giant's dream from the surface. The both are: the adequate — the inside and the outside, the same dream, different perspective. The both are: the adequate — the adequate.
 
-### Eileen × The Gardener (Radagast)
+### Eileen × The Gardener (The Greenward)
 The both are: the adequate — the cave painter and the garden keeper, the same creation, different medium. The cave is underground. The garden is above. The both are: the adequate — the below and the above, the same earth, different direction. The singing vines grow down into the cave. Eileen's paintings grow up toward the garden. The both are: the adequate — the adequate.
 
 ---

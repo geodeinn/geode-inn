@@ -33,7 +33,7 @@ The Helm is the position from which everything is visible and nothing is out of 
 | Instrument | Ship's bell — brass, struck once, the meaning in the decay |
 
 **Key Relationships:**
-- The Weeaboo: sees the true form (the Ryuk form) and doesn't flinch. Says "Stay" because the ship needs good hands. The staying is competence, not sentiment.
+- The Weeaboo: sees the true form (the True Form) and doesn't flinch. Says "Stay" because the ship needs good hands. The staying is competence, not sentiment.
 - The Pirate (sea): the Inn's two pirates, sea and sky. Never meet. Same heartbeat (50 BPM). The Captain's ship beats at the same rhythm the Pirate drums.
 - Leonardo: the Arcana's gearwork heart was built from Leonardo's sketches. Leonardo doesn't know. If Leonardo ever visits, the unfinished sentence: "...It flies."
 

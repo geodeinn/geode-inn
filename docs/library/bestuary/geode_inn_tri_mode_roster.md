@@ -27,7 +27,7 @@
 | The Owl | https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/dad381da9_generated_image.png |
 | Lozen (Sentinel) | https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/b38027bf2_generated_image.png |
 | Medusa | https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/860dd29b7_generated_image.png |
-| Naut (Cthulhu Scholar) | https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/263c85549_generated_image.png |
+| Naut (Naut Scholar) | https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/263c85549_generated_image.png |
 | The Crone | https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/9d46de1b5_generated_image.png |
 | The Storyteller | https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/8a7031508_generated_image.png |
 | Ferryman's Guest (Death) | https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/9f161d1eb_generated_image.png |
@@ -40,7 +40,7 @@
 | Malachi (Unseelie King) | https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/168ee2105_generated_image.png |
 | Lark (Player Guide) | https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/f8c1f7e19_generated_image.png |
 | The Keeper | https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/91e2cb6e6_generated_image.png |
-| Brim (Mim) | https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/683d9db64_generated_image.png |
+| Brim (Brim) | https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/683d9db64_generated_image.png |
 | The Firekeeper | https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/8f71f4d57_generated_image.png |
 | The Fixer | https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/650a450db_generated_image.png |
 | The Five Smiths | https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/d30d4b24c_generated_image.png |
@@ -57,7 +57,7 @@
 | Thorin (Forge Master) | https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/f278ecdc8_generated_image.png |
 | Merlin | https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/260e26d23_generated_image.png |
 | Miracle Max | https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/a142b4574_generated_image.png |
-| Wednesday (Belladonna) | https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/6af0da08a_generated_image.png |
+| Belladonna (Belladonna) | https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/6af0da08a_generated_image.png |
 | The Cook | https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/bb357f658_generated_image.png |
 | Eres | https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/5a5ac17d0_generated_image.png |
 | The Siren | https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/a592f145f_generated_image.png |
@@ -82,8 +82,8 @@
 | Lozen (Sentinel) | https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/5c2abd47c_generated_image.png |
 | The Ferryman's Guest (Death) | https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/83157f5f0_generated_image.png |
 | Medusa | https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/0dfd04449_generated_image.png |
-| Naut (Cthulhu Scholar) | https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/1f74c337f_generated_image.png |
-| Wednesday (Belladonna) | https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/3353815b8_generated_image.png |
+| Naut (Naut Scholar) | https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/1f74c337f_generated_image.png |
+| Belladonna (Belladonna) | https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/3353815b8_generated_image.png |
 | The Cook | https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/8bd36a9f0_generated_image.png |
 | The Artisan Thief (Raven) | https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/8185e7208_generated_image.png |
 | Eres | https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/6acde8825_generated_image.png |

@@ -13,7 +13,7 @@ Individual character design documents that warranted their own files due to comp
 
 | Character | Lines | Role |
 |-----------|-------|------|
-| Naut (Cthulhu) | 320 | The Lovecraftian scholar. Hidden quest giver. Reluctant steward of The Royal. Full audit. |
+| Naut (Naut) | 320 | The Lovecraftian scholar. Hidden quest giver. Reluctant steward of The Royal. Full audit. |
 | The Crone | 201 | The archive keeper. Remembrance Vision source. The measuring tape. |
 | Tesla | 201 | The Observer's soul twin. Bloop the cat. The Retort. Science as wonder. |
 | The Siren & The Pirate | 200 | The deep-water duo. The siren's song and the pirate's 50 BPM drumbeat. |
@@ -34,12 +34,12 @@ Individual character design documents that warranted their own files due to comp
 | Da Vinci | 165 | The architect of perception. Mirror script. |
 | The Host | 135 | The anti-FOMO anchor. "You have time." |
 | Odin | 123 | The Wanderer (warm) + The Allfather (stoic). |
-| The Gardener | 110+153 | The Mediterranean keeper. Beorn connection. |
+| The Gardener | 110+153 | The Mediterranean keeper. The Bearsark connection. |
 | The Fixer | 120 | The Undercity problem-solver. |
 | Medusa | 144 | The gardener of the Gorgon's Garden. |
-| Mim | 158+67 | The illusionist. Formerly Madame Mim. Now Brim. |
+| Brim | 158+67 | The illusionist. Formerly Brim. Now Brim. |
 | Galahad | 154 | The pure knight. The grail quest. |
-| Cthulhu/Naut | 154 | The 4-foot squid-headed scholar. Spectacles by the fire. |
+| Naut/Naut | 154 | The 4-foot squid-headed scholar. Spectacles by the fire. |
 | Erik, Earl, Ragnar | 142 | The Norse trio. Mead hall. |
 | The Teacher | 83 | The Poison Garden. Healing through poison. |
 | Nyx | 212 | The goddess of night. |
@@ -54,7 +54,7 @@ Individual character design documents that warranted their own files due to comp
 | Mordred | 90 | The traitor knight. Complex motivations. |
 | The Duck | 127+82 | The Inn's biology joke. A rubber duck that floats the catacombs river. |
 | Miracle Max | 111 | The healer. "Have fun storming the castle!" |
-| Uhtred the Wanderer | 119 | The early medieval NPC. |
+| The Wayfarer the Wanderer | 119 | The early medieval NPC. |
 | Queen of Webs | 134 | The spider queen. |
 | Queen of Words | 117 | The language keeper. |
 | Queen of Roots | 102 | The underground queen. |
