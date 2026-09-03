@@ -245,7 +245,7 @@ Zee has dual forms — land and water. Zee is the Water Zone's bridge to the sur
 Zee doesn't fit in either world. On land, Zee is too fluid — the land creatures find Zee unsettling, too changeable. In water, Zee is too solid — the water creatures find Zee heavy, too grounded. Zee lives in the Twilight Zone because it's the only place that's neither fully land nor fully water.
 
 **Phase 1: The Player's Perspective**
-The player meets Zee in the Twilight Zone. Zee asks: "Where do you belong?" The player's answer matters — not because Zee grades it, but because Zee is asking the question Zee can't answer. The player who answers "everywhere" (the Adam answer — the chameleon) resonates with Zee. The player who answers "nowhere" (the Reluctant answer) also resonates. The player who answers "I don't know" resonates most.
+The player meets Zee in the Twilight Zone. Zee asks: "Where do you belong?" The player's answer matters — not because Zee grades it, but because Zee is asking the question Zee can't answer. The player who answers "everywhere" (the Speter Adams answer — the chameleon) resonates with Zee. The player who answers "nowhere" (the Reluctant answer) also resonates. The player who answers "I don't know" resonates most.
 
 **Phase 2: The Navigation**
 Zee asks the player to help navigate the 7 layers. Zee can move between layers freely, but Zee doesn't know the layers — Zee passes through them without seeing them. The player, who can't move freely but CAN observe, guides Zee through the layers, describing what's there. The player is Zee's eyes; Zee is the player's legs. Together, they map the 7 layers.

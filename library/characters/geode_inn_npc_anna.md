@@ -4,7 +4,7 @@
 **Real Name:** Anna
 **Age:** TBD
 **Pronouns:** They/them
-**Family:** Eileen's fourth and youngest. Sibling to Adam (22, the Switzerland), Scarlett (17, Undercity), John (15, the family Fezzik).
+**Family:** Eileen's fourth and youngest. Sibling to Speter Adams (22, the Switzerland), Scarlett (17, Undercity), John (15, the family Fezzik).
 
 ---
 
@@ -86,7 +86,7 @@ Not the main observatory floor. A side room. A nook. A space with a window that 
 
 | Child | Age | Strategy | Inn Expression | Zone | Linework |
 |-------|-----|----------|----------------|------|----------|
-| **Adam** | 22 | Chameleon as map | Homes on every level, dolls as vessels | All Zones | Changes by zone |
+| **Speter Adams** | 22 | Chameleon as map | Homes on every level, dolls as vessels | All Zones | Changes by zone |
 | **Anna** | TBD | Seeing as creation | Doodles as the Inn's sonic blueprints | Cosmology | No-outline (always) |
 | **Scarlett** | 17 | Depth as privacy | Manga nook, goth sanctuary | Undercity | Heavy cel-shaded |
 | **John** | 15 | Presence as power | The gentle giant, simply there | TBD | TBD |
@@ -94,7 +94,7 @@ Not the main observatory floor. A side room. A nook. A space with a window that 
 **The Chord:**
 Four notes. Four directions. Four expressions of the same family inheritance.
 
-- **Adam** goes wide — everywhere, everyone, every role. The horizontal note.
+- **Speter Adams** goes wide — everywhere, everyone, every role. The horizontal note.
 - **Anna** goes deep — sees what others can't, creates what others won't, stays silent. The vertical note.
 - **Scarlett** goes down — into the dark, into the private, into the self. The bass note.
 - **John** goes up — tall, enormous, impossible to ignore but impossible to find threatening. The treble note.
@@ -109,7 +109,7 @@ The chord is richer than three notes. The seventh chord. Four children of the sa
 - **The Allfather:** The watcher of the sky and the watcher of the pattern. Co-occupants of the observatory. The Allfather sees the macro. Anna sees the micro. The Allfather never asks Anna to explain the doodles. The Allfather is the one entity vast enough not to need explanation.
 - **The Clockmaker:** The Clockmaker studies Anna's doodles because the doodles show what the gears do. The Clockmaker builds the mechanism. Anna draws the mechanism's soul. Both are quiet. Both are precise. Neither needs to talk.
 - **The Crone:** The Crone measures. Anna sees. The Crone catalogues with numbers and categories. Anna catalogues with lines and patterns. Different archives of the same impulse. The Crone might be the one person who understands that Anna's doodles aren't art — they're *records*. The most accurate records in the Inn.
-- **Adam (sibling):** The Switzerland and the Seer. Adam becomes what the room needs. Anna sees what the room is. Adam is the chameleon. Anna is the camera. Together they're a complete portrait of perception — one adapts, one observes. Both are quiet. Both are always in the corner. They sit together in the silence of siblings who don't need to perform for each other.
+- **Speter Adams (sibling):** The Switzerland and the Seer. Speter Adams becomes what the room needs. Anna sees what the room is. Speter Adams is the chameleon. Anna is the camera. Together they're a complete portrait of perception — one adapts, one observes. Both are quiet. Both are always in the corner. They sit together in the silence of siblings who don't need to perform for each other.
 - **Scarlett (sibling):** The manga nook and the doodle nook. Scarlett reads universes. Anna draws them. Both are introverts in the same family. Scarlett goes into the dark. Anna goes into the vast. Different directions, same impulse: create a world and live in it.
 - **John (sibling):** The gentle giant and the silent seer. John is presence without performance. Anna is perception without presence. John fills a room by being in it. Anna fills a room by seeing it. Together: the two extremes of the chord. The treble and the bass. The one who is simply there and the one who simply sees.
 

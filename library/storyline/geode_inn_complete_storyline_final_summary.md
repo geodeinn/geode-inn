@@ -103,7 +103,7 @@ The Inn's highest point — the canopy, the stars, the gods. The Allfather's Obs
 **Quests:**
 - **"The Eye That Closes to See"** — The Allfather's Quest. Permanent stone sacrifice grants the Allfather's Gaze perception upgrade.
 - **"The Doodles That Hear"** — Anna's Quest. Finding visual frequency maps reconstructs the 42Hz song.
-- **"The War Nobody Won"** — Adam's Interaction. Lore exchange of seiðr and runes between the Vanir and Aesir.
+- **"The War Nobody Won"** — Speter Adams's Interaction. Lore exchange of seiðr and runes between the Vanir and Aesir.
 
 **Game:** The Orrery — 3D puzzle requiring chord-based alignment of zone spheres.
 
@@ -185,7 +185,7 @@ Ascends in musical semitones from main floor to cosmology. Each step = one alche
 - **Gesso** — Grumpy gnome. Mirror script on ceiling plaster. The ceiling artist.
 - **Leonardo da Vinci** — Mirror script = Annunaki runes. Designed the Arcana.
 
-**The Staircase Origin:** The whole Geode Inn grew around a staircase that was a refuge for a child who needed a place between rooms. The chameleon/hypervigilance trait — shared by the Siren (Andra), the Switzerland (Adam), and the Troublemaker — all children of volatile parents who learned to read tone and body language at a very young age. The Staircase is the Inn's central structure because it was the first structure — the refuge.
+**The Staircase Origin:** The whole Geode Inn grew around a staircase that was a refuge for a child who needed a place between rooms. The chameleon/hypervigilance trait — shared by the Siren (Andra), the Switzerland (Speter Adams), and the Troublemaker — all children of volatile parents who learned to read tone and body language at a very young age. The Staircase is the Inn's central structure because it was the first structure — the refuge.
 
 **The Six Resonant Gargoyles** — Architectural sentinels. 6-unit system of 3 pairs, each with an active sentinel and a dormant twin. The dormant twin represents latent potential — mercy, the second voice that hasn't needed to fully wake yet. When both halves of a pair awaken simultaneously, the frequency doubles to full power. Pairs: Watcher/dormant (111Hz sight), Listener/dormant (64Hz hearing), Caller/dormant (432Hz summoning), Sage/dormant (528Hz knowledge), Gatekeeper/dormant (adaptive threshold), Keeper/dormant (adaptive structure).
 
@@ -453,7 +453,7 @@ A browsable interactive catalog of all 166 Geode Inn stones. Each stone plays it
 - **Eileen** — Krista's closest friend. The Hearth. 7.83Hz Schumann resonance. Cave painter. Unconditional love mechanic. The foundation of the Inn.
 - **River** — Krista's daughter. The Sentinel. Tall cat person. Anunnaki heritage. Medical logistics. One son: Jakob (lives in Australia with Alexia).
 - **Andra** — Krista's sister. The Siren. Performance as armor. The spotlight as shield.
-- **Adam** — Eileen's third child (22). Gender fluid, built like a nymph. Skilled performer. The chameleon demonstrated AS the linework system — linework style changes by zone. The ONLY character with a home on EVERY level.
+- **Speter Adams** — Eileen's third child (22). Gender fluid, built like a nymph. Skilled performer. The chameleon demonstrated AS the linework system — linework style changes by zone. The ONLY character with a home on EVERY level.
 - **Scarlett** — Eileen's second youngest (17, goth). Undercity resident. Private sanctuary.
 - **John** — Eileen's youngest son (15, 6'5"). The family Fezzik. Gentle giant.
 - **Anna** — Eileen's youngest. The Inn's seer. Perceives what others can't. Never speaks — described, not voiced.

@@ -6,7 +6,7 @@ Full profiles in docs/drive-recovery/geode_inn_npc_*.md
 
 ---
 
-## 1. Adam — The Chameleon / The Dollkeeper
+## 1. Speter Adams — The Chameleon / The Dollkeeper
 **Eileen's Third Child | Age: 22 | Zone: ALL ZONES (only NPC with a home on every level)**
 
 ### Core Mechanic
@@ -24,7 +24,7 @@ Full profiles in docs/drive-recovery/geode_inn_npc_*.md
 6. Water Zone — The Floating Stage (singing, most unguarded)
 
 ### The Crone Dynamic
-The Crone measures everything. Adam cannot be measured. Adam's charisma makes the Crone hospitable against her nature. Slow-burn quest: the Crone eventually admits Adam is "not unwelcome."
+The Crone measures everything. Speter Adams cannot be measured. Speter Adams's charisma makes the Crone hospitable against her nature. Slow-burn quest: the Crone eventually admits Speter Adams is "not unwelcome."
 
 ---
 
@@ -44,7 +44,7 @@ Amicable silence. Two world-builders side by side. The silence is the deepest fo
 ### The Four-Note Chord (Eileen's Children)
 | Child | Age | Strategy | Zone | Linework |
 |-------|-----|----------|------|----------|
-| Adam | 22 | Chameleon (wide) | All Zones | Changes by zone |
+| Speter Adams | 22 | Chameleon (wide) | All Zones | Changes by zone |
 | Anna | TBD | Seeing (deep) | Cosmology | No-outline (always) |
 | Scarlett | 17 | Depth (down) | Undercity | Heavy cel-shaded |
 | John | 15 | Presence (up) | TBD | TBD |
@@ -119,7 +119,7 @@ Love is structural — a tavern with a chair that's always yours. Calls nonsense
 ## Integration Status
 - All 5 NPCs have Dialogue entity records in the staging database
 - Full profiles archived in docs/drive-recovery/
-- Adam's chameleon linework = technical challenge (per-zone rendering rules)
+- Speter Adams's chameleon linework = technical challenge (per-zone rendering rules)
 - Jay's campgrounds zone connects to MarketItem entity (exterior market stalls)
 - Clockmaker + Blacksmith = the Undercity crafting supply chain
 - The Four-Note Chord completes Eileen's family roster

@@ -15,9 +15,9 @@ One chose visibility. The spotlight as armor. If you're performing, you're contr
 In the Geode Inn: Andra the Siren. The water zone's voice. The performer whose song controls the tide — but the origin of the song is survival. The Siren learned to sing because singing meant the room was listening to the song, not watching for the next eruption.
 
 ### The Switzerland — The Chameleon as Map
-One chose to be everywhere. The neutral one. The Switzerland. If you fit every room, you never have to choose a room. If you become what each space needs, no space rejects you. The chameleon isn't a performance — it's cartography. Adam mapped every room in the house by becoming the person who could safely stand in it.
+One chose to be everywhere. The neutral one. The Switzerland. If you fit every room, you never have to choose a room. If you become what each space needs, no space rejects you. The chameleon isn't a performance — it's cartography. Speter Adams mapped every room in the house by becoming the person who could safely stand in it.
 
-In the Geode Inn: Adam. The Dollkeeper. The only character with a home on every level because Adam learned early that belonging everywhere is the alternative to belonging nowhere. The Crone recognizes this because the Crone is the archive's neutrality — and Adam is the family's.
+In the Geode Inn: Speter Adams. The Dollkeeper. The only character with a home on every level because Speter Adams learned early that belonging everywhere is the alternative to belonging nowhere. The Crone recognizes this because the Crone is the archive's neutrality — and Speter Adams is the family's.
 
 ### The Troublemaker — The Stairs as Vantage
 One chose trouble. Always in trouble. Not because the trouble was fun — because trouble meant being sent away. Being sent away meant the stairs. And the stairs were better than people.
@@ -50,7 +50,7 @@ All three children developed the same core skill: reading tone and body language
 The ability to assess an NPC's mood, intent, and hidden state through environmental cues — posture, tone, the arrangement of objects, the quality of silence. Three characters, three variations of the same skill:
 
 - **The Siren** reads the room through sound. The quality of silence, the pitch of a voice, the rhythm of footsteps. The Siren hears the mood before seeing it.
-- **The Switzerland (Adam)** reads the room through belonging. The chameleon feels what the room needs by sensing what role is missing. The room tells Adam what to become.
+- **The Switzerland (Speter Adams)** reads the room through belonging. The chameleon feels what the room needs by sensing what role is missing. The room tells Speter Adams what to become.
 - **The Troublemaker** reads the room through disruption. The troublemaker has already broken the thing and is watching how everyone reacts. The reaction tells you everything. The trouble is the test.
 
 **The Staircase as Tutorial:**
@@ -78,7 +78,7 @@ Somewhere in the Inn's narrative, the truth surfaces: the staircase wasn't desig
 | Character | Strategy | Inn Expression | Zone |
 |-----------|----------|----------------|------|
 | **The Siren (Andra)** | Spotlight as shield | Song as power, performance as armor | Water Zone |
-| **Adam (The Switzerland)** | Chameleon as map | Homes on every level, dolls as vessels | All Zones |
+| **Speter Adams (The Switzerland)** | Chameleon as map | Homes on every level, dolls as vessels | All Zones |
 | **The Troublemaker** | Exile as vantage | The Staircase as watching place, observation as power | Staircase |
 | **The Parents** | Volatility as forge | The source — the pressure that sharpened all three | (Background) |
 

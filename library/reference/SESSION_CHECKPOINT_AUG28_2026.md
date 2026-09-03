@@ -59,7 +59,7 @@
 - Beverley (Librarian) — tiny, silver hair, Australian accent, brass buttons
 - Cosmic Crew — 8 Futurama-inspired characters (galaxy maintenance staff)
 - Clockwork Skies crew designed
-- Jay, Adam, Anna NPC profiles complete
+- Jay, Speter Adams, Anna NPC profiles complete
 
 ### Aesthetic Decisions Confirmed
 - Klimt + Royo = foundational visual DNA (stillness + movement)

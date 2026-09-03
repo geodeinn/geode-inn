@@ -87,7 +87,7 @@ When the sacrifice is made, the telescope clears. The player sees the narrative 
 
 The twist: the Allfather didn't ask for the sacrifice. The player CHOSE it. The Allfather said "Look" and the player decided that seeing was worth the cost. That IS the quest. The choice to see is the wisdom. The Allfather's eye wasn't taken — it was given. The player's stone wasn't taken — it was given. The same act. The same sacrifice. The same gain.
 
-**Reward:** The Allfather's Gaze — a permanent perception upgrade. The player can now see things in every zone that were previously invisible: hidden connections between zones, secret passages, the narrative spine's threads woven through the architecture. Characters who appear in multiple zones (Adam, the Weeaboo) are now visually highlighted. The Inn's deeper structure becomes visible.
+**Reward:** The Allfather's Gaze — a permanent perception upgrade. The player can now see things in every zone that were previously invisible: hidden connections between zones, secret passages, the narrative spine's threads woven through the architecture. Characters who appear in multiple zones (Speter Adams, the Weeaboo) are now visually highlighted. The Inn's deeper structure becomes visible.
 
 The Allfather's Gaze also reveals the constellation patterns in the Observatory dome — patterns that map to stone families. The player can use the Observatory telescope to discover new stone locations on the world map.
 
@@ -117,7 +117,7 @@ Freyja is the teacher. The one who taught the Allfather everything. The player m
 
 **Interactive Items in the Threshold Chamber:**
 1. **The Threshold Line** — the visible boundary between warm gold and cold silver. The player can stand on the line. Standing on the line changes the audio: the Brísingamen chord shifts between warm (major) and cold (minor). The player can "tune" the threshold by walking along the line — each position creates a different harmonic relationship. This is the Inn's most subtle interactive mechanic: the player composes music by walking.
-2. **The Falcon Cloak** — hanging on a hook near the threshold. The player can examine it. The cloak shifts between falcon plumage and flowing light. If the player has the Allfather's Gaze, examining the cloak reveals its history: every person who has ever worn it, every shape they've taken. The cloak is the origin of the chameleon theme — Adam's zone-shifting, the Weeaboo's transformation. The cloak's lineage is the Inn's shapeshifter family tree.
+2. **The Falcon Cloak** — hanging on a hook near the threshold. The player can examine it. The cloak shifts between falcon plumage and flowing light. If the player has the Allfather's Gaze, examining the cloak reveals its history: every person who has ever worn it, every shape they've taken. The cloak is the origin of the chameleon theme — Speter Adams's zone-shifting, the Weeaboo's transformation. The cloak's lineage is the Inn's shapeshifter family tree.
 3. **The Two Cats** — one gold, one silver. They mirror Freyja's duality. The gold cat sits in the warm half; the silver cat sits in the cold half. If the player brings a cat treat (found in the Campgrounds, from Jay's tavern), both cats approach. When both cats are in the same half of the room, the threshold shifts — the room becomes unified, either all warm or all cold, depending on which half the cats are in. This is how the player accesses the Threshold Chamber's secret: when the room is unified, a hidden drawer opens in the floor, containing the Falcon Cloak's clasp — a charm that grants temporary shapeshifting (the player can briefly appear as an NPC in another zone, observing without being seen).
 4. **Brísingamen** — the four-ring necklace. After completing "The Four Tones" quest, the player has the Brísingamen chord key. The necklace itself remains with Freyja, but the KEY is the player's — the ability to hear the four tones in every zone. When the player stands in the Threshold Chamber with the chord key active, all four tones are audible simultaneously — the only place in the Inn where the complete chord can be heard in full. Every other zone has only fragments. The Threshold Chamber is the chord's home.
 
@@ -158,24 +158,24 @@ Anna's quest connects to the Allfather's quest: the Allfather's Gaze lets the pl
 
 ---
 
-### 5. Adam — "The Chameleon" (Cosmology Interaction)
+### 5. Speter Adams — "The Chameleon" (Cosmology Interaction)
 **Station:** The Dressing Room
 **Archetype:** The One Who Belongs Everywhere
 
-Adam is the only character with a home on every level. In the Cosmology level, Adam's home is a small dressing room off the Observatory — a performer's space, with costumes for each zone hanging on hooks. Each costume is rendered in the linework style of its corresponding zone. Adam's cosmology costume is no-outline — matching the cosmological style.
+Speter Adams is the only character with a home on every level. In the Cosmology level, Speter Adams's home is a small dressing room off the Observatory — a performer's space, with costumes for each zone hanging on hooks. Each costume is rendered in the linework style of its corresponding zone. Speter Adams's cosmology costume is no-outline — matching the cosmological style.
 
-Adam's dolls (the spirit-housing mechanic) are placed throughout the Inn. In the Cosmology level, the dolls house the oldest spirits: the ghosts of the Vanir-Aesir war. The conflict's casualties. The gods' war had collateral damage, and even gods' conflicts leave ghosts. Adam collects these spirits not to use them but to give them homes.
+Speter Adams's dolls (the spirit-housing mechanic) are placed throughout the Inn. In the Cosmology level, the dolls house the oldest spirits: the ghosts of the Vanir-Aesir war. The conflict's casualties. The gods' war had collateral damage, and even gods' conflicts leave ghosts. Speter Adams collects these spirits not to use them but to give them homes.
 
-**Adam's Cosmology Interaction: "The War Nobody Won"**
+**Speter Adams's Cosmology Interaction: "The War Nobody Won"**
 
-Not a quest — an interaction. The player visits Adam's dressing room and examines the dolls. Each doll whispers a fragment of the Vanir-Aesir war — told from the perspective of the spirits caught in it. Not the gods' version. The casualties' version.
+Not a quest — an interaction. The player visits Speter Adams's dressing room and examines the dolls. Each doll whispers a fragment of the Vanir-Aesir war — told from the perspective of the spirits caught in it. Not the gods' version. The casualties' version.
 
 The lore delivered through the dolls:
 - The Vanir-Aesir war was not about territory. It was about KNOWING — two ways of understanding the world (seiðr vs. runes, organic vs. martial, growth vs. observation) that couldn't coexist until they were exchanged.
 - The hostage trade that ended the war was not a surrender. It was a marriage. Each side gave its most precious thing to the other. The Vanir gave Freyja (seiðr). The Aesir gave... something the dolls won't name. The unnamed gift is the Inn's deepest mystery.
 - The peace was real. The exchange was real. But the ghosts remain — because even peaceful exchanges leave behind the people who were the exchange. Freyja was a hostage. Freyja made the best of it. But the dolls remember the leaving.
 
-The player can visit Adam's dolls in any order, in any zone. Each doll in each zone houses a spirit from a different era of the Inn's mythology. The complete collection of doll-spirits, across all zones, tells the Inn's history from the bottom up — not the gods' history, but the people's history.
+The player can visit Speter Adams's dolls in any order, in any zone. Each doll in each zone houses a spirit from a different era of the Inn's mythology. The complete collection of doll-spirits, across all zones, tells the Inn's history from the bottom up — not the gods' history, but the people's history.
 
 **This interaction provides LORE, not gameplay.** But the lore is the narrative spine's foundation. The player who listens to all the dolls understands why the Inn exists: it's the exchange point. The place where different ways of knowing are traded, not conquered. The library is the hostage that was traded. The peace that was bought with that trade is the Inn's foundation.
 
@@ -265,7 +265,7 @@ The theme itself is simple: four notes. The Brísingamen chord, played as a melo
 | Brísingamen | Threshold Chamber | Complete chord audible only here; the chord's home |
 | The Orrery | Observatory | The cosmology game — align zones to reveal connections |
 | Anna's Window Nook | Observatory | Sit and observe the entire Inn from above; find Anna's doodles |
-| Adam's Dressing Room | Observatory (off to side) | Examine dolls; hear the Vanir-Aesir war from the spirits' perspective |
+| Speter Adams's Dressing Room | Observatory (off to side) | Examine dolls; hear the Vanir-Aesir war from the spirits' perspective |
 
 ---
 
@@ -320,9 +320,9 @@ The theme itself is simple: four notes. The Brísingamen chord, played as a melo
 | Character: Freyr | ✅ Complete (station, quest, audio, visual, items) |
 | Character: Freyja | ✅ Complete (station, quest, audio, visual, items) |
 | Character: Anna | ✅ Complete (station, quest, items, connection to Allfather's Gaze) |
-| Character: Adam (interaction) | ✅ Complete (dressing room, doll lore, Vanir-Aesir war) |
+| Character: Speter Adams (interaction) | ✅ Complete (dressing room, doll lore, Vanir-Aesir war) |
 | Game template: The Orrery | ✅ Complete (4 levels, mechanics, rewards, secret ending) |
-| Interactive items | ✅ Complete (12 items across all three stations + Anna's nook + Adam's room) |
+| Interactive items | ✅ Complete (12 items across all three stations + Anna's nook + Speter Adams's room) |
 | Audio profile (zone) | ✅ Complete (ambient layers, zone music = Inn's theme) |
 | Audio profile (Allfather) | ✅ Complete (silence as instrument) |
 | Reward structure | ✅ Complete (7 rewards, progression from charm to meta-vision to secret ending) |

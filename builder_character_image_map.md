@@ -111,7 +111,7 @@ All character images have been uploaded to app storage. Below is the COMPLETE ma
 ### Family Characters
 - Charles (The Constant/Chameleon Druid) → https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/ae64db203_charles_chameleon_druid.png
 - River (The Sentinel) → https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/129959abd_the_sentinel_river.png
-- Adam → https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/beffcd7cd_adam_concept.png
+- Speter Adams → https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/beffcd7cd_adam_concept.png
 - Jakob → https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/efca64282_jakob.png
 - Beverley → https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/187402744_alt_beverley_original_portrait.png
 

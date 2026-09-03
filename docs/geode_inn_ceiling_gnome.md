@@ -11,7 +11,7 @@
 
 **Where he is:** On the scaffolding. Always on the scaffolding. The scaffolding is a wooden structure that spans the Miskatonic Annex's ceiling — a network of planks and ladders and ropes that lets Gesso reach every inch of the Sistine ceiling. The scaffolding is PERMANENT. It was supposed to be temporary (Michelangelo's scaffolding was temporary — he designed it himself, a custom system that didn't touch the floor). Gesso's scaffolding is permanent because Gesso is never done. The scaffolding is Gesso's home. He sleeps on it. He eats on it (the Cook sends up a basket on a rope — Gesso grumbles about the food and eats all of it). He doesn't come down. The floor of the Miskatonic Annex is a foreign country to Gesso. The ceiling is his world.
 
-**What he does:** Adjusts details. Constantly. A brushstroke on God's beard. A shadow on Adam's rib. A highlight on the serpent's apple. A correction on a prophet's robe — the fold was wrong, the fold is ALWAYS wrong, Gesso has corrected this fold seventeen times and it's still not right. The ceiling is FINISHED — it was finished centuries ago. Gesso doesn't care. The ceiling is never finished. There is always a detail. The detail is always wrong. The detail must be adjusted.
+**What he does:** Adjusts details. Constantly. A brushstroke on God's beard. A shadow on Speter Adams's rib. A highlight on the serpent's apple. A correction on a prophet's robe — the fold was wrong, the fold is ALWAYS wrong, Gesso has corrected this fold seventeen times and it's still not right. The ceiling is FINISHED — it was finished centuries ago. Gesso doesn't care. The ceiling is never finished. There is always a detail. The detail is always wrong. The detail must be adjusted.
 
 ---
 

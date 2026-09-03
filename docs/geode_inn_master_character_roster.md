@@ -158,15 +158,15 @@ This is the coinciding master list — every character, creature, and artifact c
 | 111 | Eileen | Character | eileen.png | ✅ Uploaded |
 | 112 | The Figure in Fog | Mysterious shrouded figure | figure_in_fog.png | ✅ npc_remaining |
 
-## 1M. Adam Variants (Zone-specific)
+## 1M. Speter Adams Variants (Zone-specific)
 | # | Variant | Zone | Image | Status |
 |---|---------|------|-------|--------|
-| 113 | Adam (Concept) | Base | adam_concept.png | ✅ |
-| 114 | Adam (Catacombs) | Catacombs | adam_catacombs_watcher.png | ✅ |
-| 115 | Adam (Cosmology) | Cosmology | adam_cosmology_reverent.png | ✅ |
-| 116 | Adam (Staircase) | Staircase | adam_staircase_transformer.png | ✅ |
-| 117 | Adam (Undercity) | Undercity | adam_undercity_sibling.png | ✅ |
-| 118 | Adam (Water) | Water Zone | adam_water_free.png | ✅ |
+| 113 | Speter Adams (Concept) | Base | adam_concept.png | ✅ |
+| 114 | Speter Adams (Catacombs) | Catacombs | adam_catacombs_watcher.png | ✅ |
+| 115 | Speter Adams (Cosmology) | Cosmology | adam_cosmology_reverent.png | ✅ |
+| 116 | Speter Adams (Staircase) | Staircase | adam_staircase_transformer.png | ✅ |
+| 117 | Speter Adams (Undercity) | Undercity | adam_undercity_sibling.png | ✅ |
+| 118 | Speter Adams (Water) | Water Zone | adam_water_free.png | ✅ |
 
 ## 1N. Andra Variants
 | # | Variant | Image | Status |
@@ -274,7 +274,7 @@ Petrified/shadow versions tied to cultural zones. All in library/art.
 |---|-----|------|-------|--------|
 | 180 | S1 | Alchemical Cat | (generated) | ✅ |
 | 181 | S2 | The Retort | the_retort_v2.png | ✅ |
-| 182 | S3 | Adam (Staircase) | adam_staircase_transformer.png | ✅ |
+| 182 | S3 | Speter Adams (Staircase) | adam_staircase_transformer.png | ✅ |
 | 183 | S4 | Clockwork Bird | (generated) | ✅ |
 
 ## 3G. Water Zone (8) — Vampire Hunter D

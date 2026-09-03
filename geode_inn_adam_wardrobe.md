@@ -1,9 +1,9 @@
-# ADAM — The Complete Wardrobe
+# SPETER ADAMS — The Complete Wardrobe
 ## The Chameleon's Six Skins
 
-Adam is the only character in the Geode Inn whose appearance changes by zone. Each outfit is a different self — a different role, posture, voice register, and linework style. The wardrobe IS the character system. The chameleon doesn't just act different — the chameleon LOOKS different. The art style changes because Adam changes.
+Speter Adams is the only character in the Geode Inn whose appearance changes by zone. Each outfit is a different self — a different role, posture, voice register, and linework style. The wardrobe IS the character system. The chameleon doesn't just act different — the chameleon LOOKS different. The art style changes because Speter Adams changes.
 
-**The Tell:** The dolls. No matter the outfit, no matter the zone, at least one doll is always present. The dolls are the one constant — the homes Adam gives are always rendered with care. The doll is how you know it's Adam.
+**The Tell:** The dolls. No matter the outfit, no matter the zone, at least one doll is always present. The dolls are the one constant — the homes Speter Adams gives are always rendered with care. The doll is how you know it's Speter Adams.
 
 ---
 
@@ -11,7 +11,7 @@ Adam is the only character in the Geode Inn whose appearance changes by zone. Ea
 **Image:** adam_concept.png
 **URL:** https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/ffe04ee7c_generated_image.png
 
-**Role:** The Stage. Loud, theatrical, charismatic. The main-role energy. The Adam who fills in for any absent NPC.
+**Role:** The Stage. Loud, theatrical, charismatic. The main-role energy. The Speter Adams who fills in for any absent NPC.
 **Linework:** Heavy cel-shaded — bold inked outlines. The performer's costume demands definition.
 
 **Wardrobe:**
@@ -19,7 +19,7 @@ Adam is the only character in the Geode Inn whose appearance changes by zone. Ea
 - Multiple inner pockets (performer's trunk aesthetic — everything you need for any role)
 - Jewel tones: deep burgundy, emerald, gold
 - Layered — you can see three costumes worth of pieces peeking out
-- The most STRUCTURED Adam — everything tailored, everything deliberate
+- The most STRUCTURED Speter Adams — everything tailored, everything deliberate
 
 **Dolls:** Everywhere — on shelves, in pockets, arranged on surfaces. Each one a different character. The collection of selves on display.
 
@@ -38,7 +38,7 @@ Adam is the only character in the Geode Inn whose appearance changes by zone. Ea
 - Worn dark hoodie over a band t-shirt
 - Comfortable broken-in black jeans
 - Boots — practical, not performative
-- The least costume of any Adam — this is comfort clothing
+- The least costume of any Speter Adams — this is comfort clothing
 - Colors: black, dark crimson, with Klimt gold accents from the Undercity environment
 
 **Dolls:** Manga-style — inked faces, dramatic eyes. Placed on manga shelves among the volumes. The dolls match the manga aesthetic of the Undercity nook.
@@ -51,7 +51,7 @@ Adam is the only character in the Geode Inn whose appearance changes by zone. Ea
 **Image:** adam_staircase_transformer.png
 **URL:** https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/390233464_generated_image.png
 
-**Role:** Mid-transition. The chameleon between skins. This is the vulnerable Adam — the one between performances.
+**Role:** Mid-transition. The chameleon between skins. This is the vulnerable Speter Adams — the one between performances.
 **Linework:** Fragmented — outline breaks apart and reforms. On the theatrical side: bold heavy lines. On the casual side: softer thinner lines. In the middle: fragments and dots, reforming. The linework literally shows the transformation.
 
 **Wardrobe:**
@@ -63,7 +63,7 @@ Adam is the only character in the Geode Inn whose appearance changes by zone. Ea
 
 **Dolls:** In various states of completion — some half-painted, some half-dressed, some just starting. Spirits in progress. The dolls match the transformation.
 
-**Posture:** In motion — one arm reaching, one arm holding. The figure caught mid-change. The most vulnerable Adam — the one without a complete role.
+**Posture:** In motion — one arm reaching, one arm holding. The figure caught mid-change. The most vulnerable Speter Adams — the one without a complete role.
 
 ---
 
@@ -75,14 +75,14 @@ Adam is the only character in the Geode Inn whose appearance changes by zone. Ea
 **Linework:** Sharp angular — aggressive, geometric, like cut crystal. Guardian energy. The Catacombs demand precision.
 
 **Wardrobe:**
-- High-collared dark charcoal coat with brass buttons — echoing Beverley's aesthetic but Adam's version: longer, leaner, less rigid
+- High-collared dark charcoal coat with brass buttons — echoing Beverley's aesthetic but Speter Adams's version: longer, leaner, less rigid
 - Dark fitted clothing underneath — precise, austere
 - The most structured outfit after the main floor, but structured for a different purpose: not performance but caution
 - Colors: charcoal, deep forest green, brass and bronze (archive colors)
 
-**Dolls:** The oldest dolls — ancient faces, worn paint, the spirits that have been waiting the longest. Placed carefully on archive shelves. These are the most respected dolls — Adam handles them with the most care.
+**Dolls:** The oldest dolls — ancient faces, worn paint, the spirits that have been waiting the longest. Placed carefully on archive shelves. These are the most respected dolls — Speter Adams handles them with the most care.
 
-**Posture:** Measured, still, careful. A guest who knows they are in someone else's territory. The most alert Adam — everything observed, nothing shown.
+**Posture:** Measured, still, careful. A guest who knows they are in someone else's territory. The most alert Speter Adams — everything observed, nothing shown.
 
 ---
 
@@ -91,7 +91,7 @@ Adam is the only character in the Geode Inn whose appearance changes by zone. Ea
 **URL:** https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/4dd7ba52b_generated_image.png
 
 **Role:** The quiet one. Not performing, not becoming, just being small under a big sky. The chameleon goes still.
-**Linework:** No-outline — dissolving into starlight. The most reverent rendering. No boundaries between Adam and the cosmos.
+**Linework:** No-outline — dissolving into starlight. The most reverent rendering. No boundaries between Speter Adams and the cosmos.
 
 **Wardrobe:**
 - Simple loose tunic in pale silver and white — the least costume, the most honest garment
@@ -101,7 +101,7 @@ Adam is the only character in the Geode Inn whose appearance changes by zone. Ea
 
 **Dolls:** Dressed as stars — silver thread, glass beads, arranged in constellation patterns on the stone platform. The most beautiful dolls — the ones that are art, not just homes. The spirits here remember the sky before the Inn had walls.
 
-**Posture:** Still. Looking up. The chameleon at rest. The one Adam who isn't becoming anything — just being. The rarest state.
+**Posture:** Still. Looking up. The chameleon at rest. The one Speter Adams who isn't becoming anything — just being. The rarest state.
 
 ---
 
@@ -115,13 +115,13 @@ Adam is the only character in the Geode Inn whose appearance changes by zone. Ea
 **Wardrobe:**
 - Loose flowing water-safe fabric in teal and seafoam — nothing structured, nothing rigid
 - The fabric moves with the water and the voice
-- Bare feet on wet wood — the most physically free Adam
-- The least clothing — not in exposure, but in constraint. Nothing here holds Adam in place.
+- Bare feet on wet wood — the most physically free Speter Adams
+- The least clothing — not in exposure, but in constraint. Nothing here holds Speter Adams in place.
 - Colors: teal, seafoam, bioluminescent blue-green, deep water blue
 
 **Dolls:** Floating — small boats, water-safe figures, water spirits housed in driftwood and shell. The dolls float alongside the raft on tiny lily-pad platforms. The most playful dolls — the ones that chose water as their home.
 
-**Posture:** Arms slightly raised — singing. Not performing singing. Actually singing. The way you sing when you think no one can hear. The most unguarded Adam.
+**Posture:** Arms slightly raised — singing. Not performing singing. Actually singing. The way you sing when you think no one can hear. The most unguarded Speter Adams.
 
 ---
 
@@ -140,9 +140,9 @@ Adam is the only character in the Geode Inn whose appearance changes by zone. Ea
 
 ## THE TELL — The One Constant
 
-Across all six wardrobes, one thing never changes: **the dolls are always rendered with care.** No matter the zone, no matter the linework style, the dolls are always drawn soft, detailed, and loving. The homes Adam gives are the one thing Adam never changes.
+Across all six wardrobes, one thing never changes: **the dolls are always rendered with care.** No matter the zone, no matter the linework style, the dolls are always drawn soft, detailed, and loving. The homes Speter Adams gives are the one thing Speter Adams never changes.
 
-The doll is how the player recognizes Adam. The linework changes, the costume changes, the posture changes — but the doll on the shelf, on the raft, on the stone platform, in the pocket — that's always Adam.
+The doll is how the player recognizes Speter Adams. The linework changes, the costume changes, the posture changes — but the doll on the shelf, on the raft, on the stone platform, in the pocket — that's always Speter Adams.
 
 ---
 
