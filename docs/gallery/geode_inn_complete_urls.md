@@ -6,7 +6,6 @@
 |------|-----|
 | L1 Cosmology (Turner) | https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/5ca104a9a_zone_L1_cosmology_turner.png |
 | L2 Clockwork Skies (Dali) | https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/0e2b465c3_zone_L2_clockwork_dali.png |
-| L2 Clockwork (Kandinsky alt) | https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/bbc0e469d_zone_L2_clockwork_kandinsky.png |
 | L3 Main Floor (Subtle Matisse) | https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/a7067667d_zone_L3_main_floor_matisse_subtle.png |
 | L3 Arcade (Muted Matisse) | https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/acf168e4b_zone_L3_arcade_muted_matisse.png |
 | L4 Campgrounds (Mucha) | https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/2c2dc96c0_zone_L4_campgrounds_mucha.png |

@@ -8,7 +8,6 @@
 |------|-------|-------------|------------|
 | Cosmology | L1 | Turner | https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/5ca104a9a_zone_L1_cosmology_turner.png |
 | Clockwork Skies | L2 | Dalí | https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/0e2b465c3_zone_L2_clockwork_dali.png |
-| Clockwork Skies (alt) | L2 | Kandinsky | https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/bbc0e469d_zone_L2_clockwork_kandinsky.png |
 | Main Floor | L3 | Matisse | https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/66bfb84e1_zone_L3_main_floor_matisse.png |
 | Arcade | L3 | Muted Matisse | https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/acf168e4b_zone_L3_arcade_muted_matisse.png |
 | Campgrounds | L4 | Mucha | https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/2c2dc96c0_zone_L4_campgrounds_mucha.png |

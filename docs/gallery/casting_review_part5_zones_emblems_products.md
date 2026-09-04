@@ -14,9 +14,6 @@ Zone art with its artist casting, the alchemical emblems, and the Soulstice prod
 <code>zone_L2_clockwork_dali.png</code>
 <img src="https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/0e2b465c3_zone_L2_clockwork_dali.png" width="420" alt=""/>
 
-### L2 Clockwork (Kandinsky alt)
-<code>zone_L2_clockwork_kandinsky.png</code>
-<img src="https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/bbc0e469d_zone_L2_clockwork_kandinsky.png" width="420" alt=""/>
 
 ### L3 Main Floor (Subtle Matisse)
 <code>zone_L3_main_floor_matisse_subtle.png</code>
