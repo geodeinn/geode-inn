@@ -1,7 +1,7 @@
-# ANNA — The Seer / The Doodler
+# Bramble — The Seer / The Doodler
 ## Aurallia's Fourth Child — NPC Profile
 
-**Real Name:** Bramble
+**Real Name:** Anna (the real person keeps their own name; Bramble is the chosen NPC name, 2026-09-04)
 **Age:** TBD
 **Pronouns:** They/them
 **Family:** Aurallia's fourth and youngest. Sibling to Speter Adams (22, the Switzerland), Scarlett (17, Undercity), John (15, the family Fezzik).
