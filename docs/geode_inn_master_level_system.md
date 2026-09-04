@@ -28,9 +28,9 @@ The player progresses through the tree by unlocking zones. Each zone unlocked re
 | **Interactive items** | ❌ NOT YET DESIGNED — needs build templates |
 | **Entry requirement** | ❌ NOT YET DEFINED — how does the player reach cosmology? |
 | **Rewards** | ✅ Partial — Golden Hour charm, Brísingamen chord key |
-| **NPCs** | ✅ Anna (the seer, window nook), Speter Adams (has a home here too) |
+| **NPCs** | ✅ Bramble (the seer, window nook), Speter Adams (has a home here too) |
 
-**GAPS:** Game template, interactive items, entry requirement, the Allfather's quest, Anna's quest, Speter Adams's cosmology interaction
+**GAPS:** Game template, interactive items, entry requirement, the Allfather's quest, Bramble's quest, Speter Adams's cosmology interaction
 
 ---
 
@@ -227,7 +227,7 @@ The player progresses through the tree by unlocking zones. Each zone unlocked re
 **Goal:** Complete the top layer — the gods, their quests, their games, their items, their entry requirements.
 
 **What we have:** Characters, stations, audio, 2 quests, Brísingamen chord
-**What we need:** Game template, interactive items, entry requirements, Allfather's quest, Anna's quest, Speter Adams's cosmology interaction, reward structure
+**What we need:** Game template, interactive items, entry requirements, Allfather's quest, Bramble's quest, Speter Adams's cosmology interaction, reward structure
 
 ---
 

@@ -54,7 +54,7 @@ The shelves that line the Staircase walls contain the Inn's alchemical library �
 - **The Gargoyle Manual** — the Clockmaker's reference text on the six gargoyles: their frequencies, their pairs, their dormant twins, and the conditions for awakening. The manual is technical — gear diagrams, frequency charts, maintenance schedules. The Clockmaker has annotated every page.
 - **The Ascending Key Treatise** — a text on the Staircase's music system. Why the key ascends. What each semitone represents. The treatise explains: the ascent is not just musical — it's alchemical. Each semitone is a stage of transformation. The player who climbs the full octave has been transformed through twelve stages — twelve steps of matter becoming spirit.
 - **The Metal Resonance Charts** — the Blacksmith's frequency data, transcribed for the archive. Every metal used in the Inn, its frequency, its harmonic relationships. The charts connect to the Bead Board's metal foundation system.
-- **The Doodle Margin Notes** — Anna's doodles appear in the margins of the alchemical texts. The texts are scholarly; the doodles are intuitive. Anna drew in the margins the way a child draws in the margins of a textbook — not disrespecting the text but complementing it. The doodles show what the texts describe: frequency as geometry, sound as shape, the 42Hz Song as a spiral.
+- **The Doodle Margin Notes** — Bramble's doodles appear in the margins of the alchemical texts. The texts are scholarly; the doodles are intuitive. Bramble drew in the margins the way a child draws in the margins of a textbook — not disrespecting the text but complementing it. The doodles show what the texts describe: frequency as geometry, sound as shape, the 42Hz Song as a spiral.
 
 **Reading Mechanic:** The player can read the texts at any time. Reading a text provides:
 - Lore (the Inn's alchemical knowledge)
@@ -119,7 +119,7 @@ The Sage (active) resonates with the alchemical texts, amplifying their wisdom. 
 
 The mechanic: The player stands before the Questioner. The Questioner poses a question — not from the texts, but from the player's own experience. "Why did the Wanderer walk?" "Why did the Captain choose the sky?" "Why did the Reluctant stay?" The player must answer — not with information from the texts, but with understanding from the player's own journey. The answer is not graded; the answer is WITNESSED. The Questioner opens its eyes when the player speaks from experience, not from scholarship. The recognition of the implicit IS the awakening.
 
-When the Questioner awakens: 528Hz doubles to 1056Hz (full power). The alchemical texts' section glows. The player gains a permanent "Implicit Knowledge" bonus — the player can now read between the lines of the alchemical texts. Margin notes appear that weren't visible before — Anna's doodles become readable as text, revealing the intuitive knowledge that complements the scholarly.
+When the Questioner awakens: 528Hz doubles to 1056Hz (full power). The alchemical texts' section glows. The player gains a permanent "Implicit Knowledge" bonus — the player can now read between the lines of the alchemical texts. Margin notes appear that weren't visible before — Bramble's doodles become readable as text, revealing the intuitive knowledge that complements the scholarly.
 
 **Awakening 5: The Welcomer (Adaptive — the second threshold)**
 The Gatekeeper (active) guards the entry to Cosmology. The Welcomer (dormant) OPENS rather than guards. The Welcomer awakens when the player chooses to cross a threshold they've been standing at — not the Cosmology threshold, but any threshold the player has been hesitating at.
@@ -250,7 +250,7 @@ The sound is the 42Hz Song — but not the hum. The SONG. A melody. Four notes: 
 | The Alchemist's Scale | The Workshop | The alchemy game — combine frequencies for transformations |
 | The Seiðr Codex | Alchemical texts section | Freyja's original seiðr text; the source of acoustic alchemy |
 | The Gargoyle Manual | The Workshop (Clockmaker's reference) | Technical reference on the six gargoyles; annotated by the Clockmaker |
-| The Doodle Margin Notes | In the texts' margins | Anna's doodles; readable as text with the Questioner's awakening bonus |
+| The Doodle Margin Notes | In the texts' margins | Bramble's doodles; readable as text with the Questioner's awakening bonus |
 
 ---
 
@@ -292,7 +292,7 @@ When all six pairs are awakened, the gargoyle chord plays beneath the ascending 
 | **Second Sight** | The Witness awakening | Hidden details visible in upper Staircase + Cosmology |
 | **Second Hearing** | The Echo awakening | Isolate any single frequency in the Inn's sonic system |
 | **Resonant Call** | The Whisperer awakening | Summon any positive-relationship NPC to the Staircase |
-| **Implicit Knowledge** | The Questioner awakening | Read Anna's margin notes as text |
+| **Implicit Knowledge** | The Questioner awakening | Read Bramble's margin notes as text |
 | **Stewardship** | The Builder awakening | Repair damaged mechanisms in any zone |
 | **Scholar's Insight** | Reading alchemical texts | Temporary bonus to alchemy game attempts |
 

@@ -30,7 +30,7 @@ All zone atmosphere prompts in this document adhere strictly to the **Geode Inn 
   - *Idle Loop (12s seamless):* Distant star fields slowly rotate in counter-clockwise motion (0.5 deg/sec). Floating star chart scrolls bob on a subtle vertical sine wave (2s cycle).
   - *Environmental Tells:* Nebular dust drifting across the observatory floor in soft light tendrils. Subtle shimmering glints along the brass telescope barrel every 4 seconds.
 - **Sound Connection:** Resonates with a low, ambient **42Hz Source Tone** hum. Soft celestial resonance plays whenever star constellations align.
-- **Special Notes:** Houses Anna's hidden frequency doodles on the floor tiles. Serves as the visual peak of the vertical axis in the Inn's emotional arc (Refuge → Home → World → Self → Cosmos).
+- **Special Notes:** Houses Bramble's hidden frequency doodles on the floor tiles. Serves as the visual peak of the vertical axis in the Inn's emotional arc (Refuge → Home → World → Self → Cosmos).
 
 ---
 

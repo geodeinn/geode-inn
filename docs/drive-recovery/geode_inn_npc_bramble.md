@@ -1,4 +1,4 @@
-# ANNA — The Seer / The Doodler
+# Bramble — The Seer / The Doodler
 ## Aurallia's Fourth Child — NPC Profile
 
 **Real Name:** Bramble
@@ -63,7 +63,7 @@ Bramble is the one NPC the player character can sit with without a quest, withou
 
 ---
 
-## ANNA'S HOME — The Quiet Corner
+## Bramble'S HOME — The Quiet Corner
 
 Bramble's home is a small space in the **Cosmology zone** — the Allfather's Observatory.
 

@@ -28,7 +28,7 @@ The Crone measures everything. Speter Adams cannot be measured. Speter Adams's c
 
 ---
 
-## 2. Anna — The Seer / The Doodler
+## 2. Bramble — The Seer / The Doodler
 **Aurallia's Fourth Child | Zone: Cosmology (Allfather's Observatory side room)**
 
 ### Core Mechanic
@@ -36,7 +36,7 @@ The Crone measures everything. Speter Adams cannot be measured. Speter Adams's c
 - Doodles = the Inn's sonic architecture rendered as visual geometry
 - Scattered throughout the Inn — scraps, margins, napkins, stone
 - The one NPC you can sit with — no quest, no dialogue tree, no objective
-- Linger in silence → Anna slides a doodle across. Recognition, not reward.
+- Linger in silence → Bramble slides a doodle across. Recognition, not reward.
 
 ### The Bond with Krista
 Amicable silence. Two world-builders side by side. The silence is the deepest form of company. This bond explains why the Inn exists.
@@ -45,7 +45,7 @@ Amicable silence. Two world-builders side by side. The silence is the deepest fo
 | Child | Age | Strategy | Zone | Linework |
 |-------|-----|----------|------|----------|
 | Speter Adams | 22 | Chameleon (wide) | All Zones | Changes by zone |
-| Anna | TBD | Seeing (deep) | Cosmology | No-outline (always) |
+| Bramble | TBD | Seeing (deep) | Cosmology | No-outline (always) |
 | Scarlett | 17 | Depth (down) | Undercity | Heavy cel-shaded |
 | John | 15 | Presence (up) | TBD | TBD |
 
@@ -87,7 +87,7 @@ Love is structural — a tavern with a chair that's always yours. Calls nonsense
 - Makes Element Charm mechanisms (frequency-tuned gear assemblies)
 - Makes Quest Charm housings and Clockwork Skies components
 - Supply chain with the Blacksmith: 4 conversations in 12 years, all about tolerances. The work IS the care.
-- Studies Anna's doodles — they show what the gears actually do.
+- Studies Bramble's doodles — they show what the gears actually do.
 
 ### Voice
 "...Time is not a river. ...Time is a gear. ...It turns, and returns, and turns again."

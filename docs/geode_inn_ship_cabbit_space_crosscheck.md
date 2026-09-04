@@ -97,7 +97,7 @@ The Constant doesn't know the cabbit is the ship's heart. The Constant carries t
 
 The cosmology level is the Inn's SPACE zone — the upstairs, the celestial realm. Four zones:
 
-1. **Allfather's Throne / Observatory** — the dome of crystal-clear material, open to the sky. The Allfather watches. The Astronomer calculates. Anna draws. ✅ Well-documented (Observatory Quest Chain + Astronomer doc + Cosmology level doc).
+1. **Allfather's Throne / Observatory** — the dome of crystal-clear material, open to the sky. The Allfather watches. The Astronomer calculates. Bramble draws. ✅ Well-documented (Observatory Quest Chain + Astronomer doc + Cosmology level doc).
 
 2. **Planet Chamber** — one of the four upstairs zones. Referenced in the master structure, the archaeological sites list, the production reference sheet, and the zone catalog. Has a morphic prompt (`up_planet_chamber.jpg`) and a theme brainstorm note ("Planet Chamber → Anunnaki (Hitchhiker's Guide style)"). ❌ NO DEDICATED DOC. This is a major gap — the Planet Chamber is one of four cosmology zones and has no design document.
 

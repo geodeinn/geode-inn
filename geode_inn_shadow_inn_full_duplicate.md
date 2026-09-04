@@ -54,10 +54,10 @@ Petrified mid-violin-stroke. The bow is on the string. The note is visible — a
 **The Allfather (Shadow):**
 One eye closed. Not the sacrificed eye — the OTHER eye. The Allfather chose to stop seeing. The closed eye reveals what the Allfather was looking at when he chose to close it: a void between stars. Not the void of Nyx (which is full). The void of NOTHING — the space where the next universe hasn't begun. The Allfather saw the ending and chose to stop. The ravens are stone on their perches, beaks open mid-cry. The cry is frozen in gold.
 
-**Anna (Shadow):**
-Petrified mid-doodle. The doodle on Anna's page is COMPLETE — the full 42Hz Song rendered as a geometric pattern. In the Living Inn, Anna's doodles are fragments. In the Shadow Inn, the final doodle is the Inn's blueprint — the complete sonic architecture in a single drawing. The player can study it. The drawing shows where every frequency goes, how every zone connects, what the Inn looks like when it's done.
+**Bramble (Shadow):**
+Petrified mid-doodle. The doodle on Bramble's page is COMPLETE — the full 42Hz Song rendered as a geometric pattern. In the Living Inn, Bramble's doodles are fragments. In the Shadow Inn, the final doodle is the Inn's blueprint — the complete sonic architecture in a single drawing. The player can study it. The drawing shows where every frequency goes, how every zone connects, what the Inn looks like when it's done.
 
-**Anna's Nook (Shadow):**
+**Bramble's Nook (Shadow):**
 The window shows not the Living Inn's sky but the Shadow Inn's sky — a sky with no movement. No clouds. No wind. Stars fixed in position. The stars are the SAME stars, but they've stopped rotating. The cosmic clock is stopped. The nook is the quietest place in the Shadow Inn — the place where the player can sit and hear the 84Hz clearly. The 84hz is not a hum here. It's a TONE. Pure, sustained, the note of completion.
 
 **Nyx (Shadow):**
@@ -87,13 +87,13 @@ Petrified on the Lighthouse parapet, eyes open. The Owl's stone eyes are the onl
 
 **"The Allfather's Closed Eye"** — The player sees what the Allfather saw: the void where the next universe begins. The player can tell the Allfather in the Living Inn: "I saw what you closed your eye for." The Allfather responds: "...Then you understand why I stopped. ...The ending is not sad. The ending is the space before the beginning. ...I closed my eye because the next opening is not mine to watch. It's yours."
 
-**"Anna's Final Doodle"** — The player copies Anna's complete doodle (the full sonic architecture). Bringing it to Anna in the Living Inn causes Anna to smile for the first time. Anna takes the doodle, looks at it, and hands it back: "...That's what it looks like when it's done. ...I've been seeing pieces. ...You've seen the whole. ...Keep it. I'll make another."
+**"Bramble's Final Doodle"** — The player copies Bramble's complete doodle (the full sonic architecture). Bringing it to Bramble in the Living Inn causes Bramble to smile for the first time. Bramble takes the doodle, looks at it, and hands it back: "...That's what it looks like when it's done. ...I've been seeing pieces. ...You've seen the whole. ...Keep it. I'll make another."
 
 **Shadow Cosmology Items:**
 - The Completed Silence (Guest's music box sphere) — portable Nyx silence, full power
 - The Starlight Fossil (Constant's merged crystal) — 41.7Hz fossilized, usable on Bead Board
 - The 44.1Hz Waveform (readable gold pattern) — knowledge item, not a stone
-- The Final Doodle (Anna's complete drawing) — map of the complete Inn
+- The Final Doodle (Bramble's complete drawing) — map of the complete Inn
 - The Closed Eye's Vision (what the Allfather saw) — knowledge of the next universe's void
 - The Self-Playing Lyre (Constant's stone lyre) — plays 84Hz without input, Bead Board companion item
 

@@ -38,7 +38,7 @@ All character images have been uploaded to app storage. Below is the COMPLETE ma
 - Leonardo da Vinci → https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/7f81f5f39_leonardo_da_vinci.png
 - Freyja → https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/5d7af0834_freyja_vanir.png
 - Freyr → https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/4f96e5ff3_freyr_vanir.png
-- Anna → https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/3d02eab72_anna_concept.png
+- Bramble → https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/3d02eab72_anna_concept.png
 
 ### Clockwork Skies (Level 2)
 - The Captain → https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/4008cd061_the_captain_arcana.png

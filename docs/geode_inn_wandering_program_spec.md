@@ -49,7 +49,7 @@ The Wandering Program ensures that the Geode Inn maintains a living, autonomous 
 
 ### 1.3 Strict Voice and Nomenclature Protocol
 In strict compliance with the narrative spine of the Geode Inn, all character descriptions, schedule scripts, dialogue triggers, and technical documentation in this specification adhere to the following rules:
-- **Title and Name Referencing Only:** Characters are identified exclusively by their proper names (e.g., *Beverley*, *Nyx*, *Anna*, *The Wayfarer*, *Jay*, *Solstara*, *Charles*, *Gesso*, *Einstein*) or official titles (e.g., *The Firekeeper*, *The Catalyst*, *The Storyteller*, *The Reader*, *The Cartographer*, *The Crone*, *The Astronomer*, *The Allfather*, *The Wandermaster*, *The Cook*, *The Captain*).
+- **Title and Name Referencing Only:** Characters are identified exclusively by their proper names (e.g., *Beverley*, *Nyx*, *Bramble*, *The Wayfarer*, *Jay*, *Solstara*, *Charles*, *Gesso*, *Einstein*) or official titles (e.g., *The Firekeeper*, *The Catalyst*, *The Storyteller*, *The Reader*, *The Cartographer*, *The Crone*, *The Astronomer*, *The Allfather*, *The Wandermaster*, *The Cook*, *The Captain*).
 - **Absolute Elimination of Gendered Pronouns:** Gendered pronouns (*he*, *him*, *his*, *she*, *her*, *hers*) are strictly prohibited across all documentation, event logic, and dialogue scripts. Only gender-neutral forms (*they*, *them*, *their*, *it*, *its*) or direct names and titles shall be utilized.
 
 ---
@@ -129,11 +129,11 @@ Where:
 - **18:00 – 00:00 (Evening):** Beverley sits in the high-backed archive reading nook. The Crone ascends to the Main Floor Hearth, sitting in the velvet wingback chair to steep herbal tea for weary guests.
 - **00:00 – 06:00 (Night):** Beverley patrols the upper gallery of the archive with a brass lantern, inspecting shadows for frequency leaks. The Crone rests in a private subterranean chamber.
 
-#### 2.5.3 The Astronomer & Anna (Branches / Cosmology)
-- **06:00 – 12:00 (Morning):** The Astronomer cleans astrolabe lenses and aligns celestial mirrors. Anna sits on a velvet cushion in the Observatory nook, sketching frequency lines on parchment.
-- **12:00 – 18:00 (Afternoon):** The Astronomer computes orbital equations in leather notebooks. Anna wanders along the Sky Bridges, leaving chalk doodles of stars and cabbits on stone arches.
-- **18:00 – 00:00 (Evening):** The Astronomer steps onto the stargazing deck, tracking planetary shifts. Anna attends the Main Floor Gallery, hanging completed drawings on wooden pegs.
-- **00:00 – 06:00 (Night):** The Astronomer sleeps in a small observatory alcove beneath a glass dome. Anna sleeps in a hammock tied between celestial arches.
+#### 2.5.3 The Astronomer & Bramble (Branches / Cosmology)
+- **06:00 – 12:00 (Morning):** The Astronomer cleans astrolabe lenses and aligns celestial mirrors. Bramble sits on a velvet cushion in the Observatory nook, sketching frequency lines on parchment.
+- **12:00 – 18:00 (Afternoon):** The Astronomer computes orbital equations in leather notebooks. Bramble wanders along the Sky Bridges, leaving chalk doodles of stars and cabbits on stone arches.
+- **18:00 – 00:00 (Evening):** The Astronomer steps onto the stargazing deck, tracking planetary shifts. Bramble attends the Main Floor Gallery, hanging completed drawings on wooden pegs.
+- **00:00 – 06:00 (Night):** The Astronomer sleeps in a small observatory alcove beneath a glass dome. Bramble sleeps in a hammock tied between celestial arches.
 
 ---
 
@@ -330,7 +330,7 @@ The Allfather maintains a high-altitude monitoring bond with Huginn, Muninn, and
 | **Beverley** | **Firekeeper & Catalyst** | Silence Trigger | 5m radius triggers 3-second absolute silence |
 | **The Storyteller** | **The Reader** | Quiet Friends | Silent companionable reading in Solarium |
 | **The Crone** | **Naut** | Teatime Allies | Solstice tea gathering at Main Floor Hearth |
-| **The Astronomer** | **Anna** | Mentor & Doodler | Anna's chalk drawings annotate celestial math |
+| **The Astronomer** | **Bramble** | Mentor & Doodler | Bramble's chalk drawings annotate celestial math |
 | **The Wayfarer** | **The Bearsark** | Martial Rivals | Avoid shared narrow corridors; duel in courtyard |
 | **The Wandermaster**| **Brownies** | Administrator | Dispatches Brownies to National Park zones |
 
@@ -424,7 +424,7 @@ The player can visit the Cartographer at any time to consult the Master Map:
 | **The Reader** | Trunk (Main Floor) | Solarium Window | Library Alcove | Solarium Reading | Archival Sleep |
 | **The Cartographer**| Trunk (Main Floor) | Map Drafting | Escher Survey | Drafting Nook | Observatory Observation |
 | **The Astronomer** | Branches (Cosmology)| Astrolabe Check | Celestial Math | Stargazing Deck | Observatory Sleep |
-| **Anna** | Branches (Cosmology)| Drawing Nook | Observatory Doodles| Gallery Walk | Rest |
+| **Bramble** | Branches (Cosmology)| Drawing Nook | Observatory Doodles| Gallery Walk | Rest |
 | **The Allfather** | Canopy / Branches | High Balcony Vigil | Canopy Patrol | Great Hall Corner | Celestial Watch |
 | **The Wayfarer** | Nodes (Norse Zone) | Armory Prep | Longhouse Practice | Hearth Stories | Campfire Rest |
 | **The Wandermaster**| Trunk (Main Floor) | Desk Registry | Cryptid Tracking | Archive Logging | Burrow Rest |

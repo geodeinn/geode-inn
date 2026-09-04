@@ -92,7 +92,7 @@ A coinciding list of every created character, critter, creature, and item with v
 | 72 | Solstara | Campgrounds (L4) | ✅ Portrait | Jeweler character |
 | 73 | Speter Adams | Main Floor (L3) | ✅ Portrait | |
 | 74 | Jakob | Main Floor (L3) | ✅ Portrait | |
-| 75 | Anna | Cosmology (L1) | ✅ Portrait | |
+| 75 | Bramble | Cosmology (L1) | ✅ Portrait | |
 | 76 | Leonardo da Vinci | Cosmology (L1) / Staircase | ✅ Portrait | |
 | 77 | Einstein | Cosmology (L1) | ✅ Portrait | |
 | 78 | Miracle Max | Staircase (L5) | ✅ Portrait | Theatrical alchemist |

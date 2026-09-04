@@ -108,7 +108,7 @@ The commercial bridge. The Soulstice Jewelry space plus artisan items plus in-ga
 ### 5. The Library Nook
 The reading room. The warm, quiet corner where the Inn's texts live. This is NOT the Catacombs archive (that's the deep historical collection) — the Library Nook is the Main Floor's accessible collection: reference texts, stone identification guides, the modern religions shelf, and the modern legends shelf.
 
-**The Library of World Religions** — a small, respectful collection of primary religious texts from world traditions, organized by region. No commentary, no interpretation — primary sources only. The library is NEUTRAL. No tradition is privileged. The texts are for reading, not for arguing. The library's design: warm wood shelves, comfortable reading chairs, soft light. The quietest space on the Main Floor (quieter than the bar, louder than Anna's nook in Cosmology).
+**The Library of World Religions** — a small, respectful collection of primary religious texts from world traditions, organized by region. No commentary, no interpretation — primary sources only. The library is NEUTRAL. No tradition is privileged. The texts are for reading, not for arguing. The library's design: warm wood shelves, comfortable reading chairs, soft light. The quietest space on the Main Floor (quieter than the bar, louder than Bramble's nook in Cosmology).
 
 **The Modern Legends Shelf** — the living archive of modern-day stories framed as folklore. Inclusion criteria: "Will this still be worth telling in 2126?" The shelf is a physical bookcase that grows as the player discovers stories throughout the Inn. Each story is written in the tabletop questline narrative voice.
 
@@ -189,7 +189,7 @@ The Wanderer's true name, when walking among the people, is "Guest." Even the Al
 - A permanent relationship bonus with all NPCs (everyone is slightly warmer to a Guest)
 - The rune set as a cipher (the player can write messages using the runes, which other players — in multiplayer — can decode)
 
-The quest is the Wanderer's version of Anna's doodle quest and the Orrery's connection reveal: the Inn's hidden structure, expressed through walking. Anna draws the sound. The Orrery aligns the zones. The Wanderer walks the road. Three ways of mapping the same Inn.
+The quest is the Wanderer's version of Bramble's doodle quest and the Orrery's connection reveal: the Inn's hidden structure, expressed through walking. Bramble draws the sound. The Orrery aligns the zones. The Wanderer walks the road. Three ways of mapping the same Inn.
 
 ---
 
@@ -302,7 +302,7 @@ Not a game per se — the quest system. Daily and story quests posted on the boa
 - **Story quests** (persistent — the character quests designed above)
 - **Delivery quests** (one-time — carry an item from Zone A to Zone B)
 - **Fetch quests** (one-time — find a specific stone or item)
-- **Discovery quests** (one-time — find an Anna doodle, a Wanderer rune, or a modern legend candidate)
+- **Discovery quests** (one-time — find an Bramble doodle, a Wanderer rune, or a modern legend candidate)
 
 ---
 

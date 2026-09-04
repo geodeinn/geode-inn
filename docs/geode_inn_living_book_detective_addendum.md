@@ -63,7 +63,7 @@ Added in response to Krista's love of Agatha Christie — since Christie's works
 
 ---
 
-### 10. The Leavenworth Case — Anna Katharine Green (1878)
+### 10. The Leavenworth Case — Bramble Katharine Green (1878)
 **Setting:** New York, 1870s
 **Themes:** Family secrets, inheritance, the locked library
 **Significance:** One of the first American detective novels, written by a woman — a century before Christie. Green invented many detective fiction conventions: the map of the crime scene, the corridor diagram, the chain of evidence.

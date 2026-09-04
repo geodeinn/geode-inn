@@ -9,7 +9,7 @@
 
 The Observatory Quest Chain is the Geode Inn's saddest and most beautiful arc. It is the story of the one person who CAN finish the Song — who has the knowledge, the calculation, the precision — and who CHOOSES not to. Not from fear. Not from spite. From love of the question itself.
 
-The chain follows the player's relationship with the Astronomer (Benedict Cumberbatch) across the full cosmology level arc: arrival in the mind palace, the locked doors, the violin, the calculation, the refusal, and finally — the last night. The chain weaves through the main storyline's deepest threads: the Allfather's telescope (the narrative spine reveal), Anna's doodles (the Song made visible), Medusa's patient wait, the Cosmic Egg, the Whisper Layer, and the Six Unfinished Sentences.
+The chain follows the player's relationship with the Astronomer (Benedict Cumberbatch) across the full cosmology level arc: arrival in the mind palace, the locked doors, the violin, the calculation, the refusal, and finally — the last night. The chain weaves through the main storyline's deepest threads: the Allfather's telescope (the narrative spine reveal), Bramble's doodles (the Song made visible), Medusa's patient wait, the Cosmic Egg, the Whisper Layer, and the Six Unfinished Sentences.
 
 The chain's thesis: the most important calculation is the one you choose not to complete. The question is more beautiful than the answer. The unfinished Song is more interesting than the completed one. The sky that keeps generating new patterns is more alive than the sky that has been solved.
 
@@ -29,7 +29,7 @@ The chain's tragedy: the Astronomer is right. The question IS more beautiful. Bu
 
 *(The Allfather sits in the dome's upper alcove, silent, ravens perched. The Allfather watches the Astronomer the way the Allfather watches everything — without interference.)*
 
-*(Anna is in the window nook, drawing. Anna doesn't look up.)*
+*(Bramble is in the window nook, drawing. Bramble doesn't look up.)*
 
 **The Allfather speaks (the only time the Allfather speaks first — without being addressed):**
 "...You're here. ...Good. ...He needs someone who isn't me. ...I watch. I don't ask. ...He needs someone who will ask. ...Go to him."
@@ -187,14 +187,14 @@ The Gaze reveals one more thing: the Astronomer's frequency. The Astronomer vibr
 ## Quest 6: "The Last Night"
 
 ### Giver: The Astronomer (appears at the Observatory unbidden, after Quest 5 + the player has reached Whisper Layer Tier 4)
-### Prerequisite: Quest 5 complete + Whisper Layer Tier 4 (The Break) + Medusa's quest chain complete + Anna's doodles quest complete
+### Prerequisite: Quest 5 complete + Whisper Layer Tier 4 (The Break) + Medusa's quest chain complete + Bramble's doodles quest complete
 
 **Quest Text:**
 *(The player enters the Observatory at night. The cosmology level is dark — the golden hour has set. Only starlight. The orreries have stopped. The star charts glow faintly. The 42Hz hum is barely audible.)*
 
 *(The Astronomer is at the telescope — not the Allfather's telescope, but the Astronomer's own, aimed at a specific star. The violin is on the stand. The Astronomer is not playing. The Astronomer is LOOKING.)*
 
-*(The Allfather is gone. The ravens are gone. Anna is gone. The Observatory is empty except for the Astronomer and the player.)*
+*(The Allfather is gone. The ravens are gone. Bramble is gone. The Observatory is empty except for the Astronomer and the player.)*
 
 *"...I've been watching one star. ...[The slowest, quietest the Astronomer has ever been — slower than contemplation, quieter than the locked doors.] ...It's not a star. ...It's the previous universe's crystal. ...The one the Constant carried through the void. ...The one that seeded this universe. ...It's still there. ...Still vibrating. ...41.7Hz. ...[The pause.] ...I've been watching it for... [the word that is the confession] ...company. ...The previous Song. ...Still singing. ...Faint. ...Almost gone. ...But there. ...[The telescope, the eye, the looking.] ...The previous universe's Astronomer — the one who calculated THAT Song — is gone. ...The calculation is gone. ...The mind palace is gone. ...But the Song is still there. ...The question outlived the questioner. ...[The contemplation, the vast stillness, the mind holding one thing: a dying star that is a dead universe's last note, still vibrating, still singing, still asking its question to an empty room.] ...I'm not afraid of the quiet anymore. ...[The violin, picked up. Not played. Held.] ...I'm afraid of being the only one who remembers the question. ...[The pause.] ...You opened the doors. ...You played the 41.7. ...You heard the 0.3. ...You looked through the Allfather's telescope and saw... me. ...[The recognition — the Astronomer knows the player saw the Astronomer in the narrative spine.] ...You know what I am. ...[The word that is the Astronomer's deepest truth, spoken for the first time.] ...I'm the universe trying to understand itself. ...And if I complete the calculation... [the pause that holds the entire cosmos] ...the universe will understand itself. ...And then... [the word that is the fear, the beauty, the grief, the love] ...what? ...What does a universe do after it knows itself? ...[The violin, played — 42Hz, one note, held. The note IS the question. The question IS the frequency. The frequency IS the Song. The Song IS the universe. The universe IS the Astronomer. The Astronomer IS the question.] ...I don't want to find out. ...[The note fades.] ...But I will. ...[The note, again. Held longer.] ...Because the question deserves an answer. ...Even if the answer is... [the word that is the Astronomer's Unfinished Sentence, finally spoken] ...beautiful. ...The question is more beautiful than the answer. ...But the answer exists. ...And I... [the last pause, the longest, the one that holds the entire mind palace, every corridor, every locked door, every connection, every stuck point, every note the violin has ever played] ...am the one who can give it. ...[The violin, put down. The telescope, turned to the player. The Astronomer looks at the player — not at the sky, not at the star charts, at the PLAYER.] ...I'll calculate it. ...For Medusa. ...For the giants. ...For the Inn. ...[The smile — the first smile the Astronomer has ever shown. Small. Sad. Beautiful.] ...And for you. ...Because you asked. ...And the asking was... [the word, the last word, the word that completes the sentence that has been unfinished since the beginning] ...adequate."*
 
@@ -209,7 +209,7 @@ The sky doesn't go quiet. The sky ERUPTS. The stars sing. The 0.3Hz pulse accele
 
 And in the middle of it — the Astronomer, standing in the Observatory, eyes closed, violin in hand, the mind that WAS the universe's self-awareness now... at peace. The calculation is complete. The question is answered. The answer is: the universe was always singing. The calculation was always the Song. The mind that tried to understand the Song WAS the Song understanding itself. The question and the answer were always the same — the Astronomer just needed someone to ask.
 
-The Allfather returns. The ravens return. Anna returns. The Observatory is full again. The Allfather looks at the Astronomer and speaks one word: "...Adequate." The same word the Crone uses. The same word the Reader will use. The Inn's word — the word that means: enough. You are enough. The question was enough. The answer is enough. The Song is enough.
+The Allfather returns. The ravens return. Bramble returns. The Observatory is full again. The Allfather looks at the Astronomer and speaks one word: "...Adequate." The same word the Crone uses. The same word the Reader will use. The Inn's word — the word that means: enough. You are enough. The question was enough. The answer is enough. The Song is enough.
 
 **Reward:** The Completed Calculation — a charm that contains the timing of the Song's completion. The charm is given to Medusa (the player must deliver it — a quest hand-off). Medusa takes the charm, looks at it, and says: "...Now. ...The vines are singing. ...The timing is now. ...Thank you. ...Tell the Astronomer... [the Medusa pause, the ancient patience, the gratitude of a being who has been waiting since the garden was planted] ...the garden is ready."
 
@@ -256,7 +256,7 @@ The sadness is not that the Astronomer dies. The sadness is that the Astronomer'
 - **The Death Sequence** — the Song's completion is the Inn's death and rebirth
 - **The Cosmic Egg** — the completion triggers the Egg's hatching
 - **Medusa's quest chain** — the timing is delivered to Medusa, who freezes the singing vines
-- **Anna's doodles** — the doodles complete the Song's sheet music; the Astronomer's violin plays it
+- **Bramble's doodles** — the doodles complete the Song's sheet music; the Astronomer's violin plays it
 - **The Pulse Line** — the 0.3Hz sub-pulse (from Quest 3) is the Pulse Line's hidden heartbeat
 - **The Allfather** — the watcher who watches the watcher
 - **Nyx** — the silence between the Songs, the space where the next Song gestates

@@ -39,7 +39,7 @@ From the Facets doc — the 14 artists defining each level's visual identity.
 
 | # | Level | Artist | Style Essence | Linework | Key Visual Elements |
 |---|-------|--------|---------------|----------|---------------------|
-| 3 | Level 1: Cosmology (The Canopy) | J.M.W. Turner | Pure light, dissolving forms, the sun as presence not shape | No-outline (cosmological) | Allfather's Observatory (dissolving architecture), Vanir Garden (color splashes), Anna's Nook (watercolor washes), 42Hz Source (spreading radiance) |
+| 3 | Level 1: Cosmology (The Canopy) | J.M.W. Turner | Pure light, dissolving forms, the sun as presence not shape | No-outline (cosmological) | Allfather's Observatory (dissolving architecture), Vanir Garden (color splashes), Bramble's Nook (watercolor washes), 42Hz Source (spreading radiance) |
 | 4 | Level 2: Clockwork Skies (Canopy City) | Wassily Kandinsky | Visual music, geometric abstraction, frequencies made visible | Sharp/angular (guardian) | The Arcana ship (Kandinsky composition), Crew Stations (geometric elements), 50 BPM heartbeat (pulsing composition), Canopy City platforms (circles connected by lines) |
 | 5 | Level 3: Main Floor (The Hearth) | Henri Matisse | Joy, color, flow, the heart of the Inn | Soft flowing (lore) | Arcade (cutout shapes), Market (flowing forms), Baby Dragon's Geode (organic spiral), Wanderer's Table (still life) |
 | 6 | Level 4: Campgrounds (The Exterior) | Alphonse Mucha | Art Nouveau, artisanal, decorative, craft | Soft flowing (lore) | Market stalls (Mucha posters), artisan shops (botanical borders), Jay's tavern, Solstara's bead-configurator |

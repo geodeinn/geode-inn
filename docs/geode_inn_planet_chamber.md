@@ -142,7 +142,7 @@ The orrery is the Inn's cosmic map — the world map's upper register. The world
 
 ## The Annunaki's Final Message
 
-One more element. The Annunaki script on the walls, when fully translated (requires the Allfather's Gaze + the Brísingamen chord key + Anna's doodles quest complete), reveals a final message — not a calculation, not an instruction, but a LETTER. Written by the Annunaki who built the orrery, to whoever would come after. The letter is in mirror script, but the final line is written FORWARD — the only forward line in the entire Annunaki corpus. The Annunaki, who wrote from the inside out, who saw the universe backward, wrote their last line the way the rest of us write — forward — so that we could read it without a mirror.
+One more element. The Annunaki script on the walls, when fully translated (requires the Allfather's Gaze + the Brísingamen chord key + Bramble's doodles quest complete), reveals a final message — not a calculation, not an instruction, but a LETTER. Written by the Annunaki who built the orrery, to whoever would come after. The letter is in mirror script, but the final line is written FORWARD — the only forward line in the entire Annunaki corpus. The Annunaki, who wrote from the inside out, who saw the universe backward, wrote their last line the way the rest of us write — forward — so that we could read it without a mirror.
 
 The letter:
 

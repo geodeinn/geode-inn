@@ -123,22 +123,22 @@ Freyja is the teacher. The one who taught the Allfather everything. The player m
 
 ---
 
-### 4. Anna — "The Seer"
+### 4. Bramble — "The Seer"
 **Station:** The Window Nook
 **Title:** "The One Who Perceives"
 **Archetype:** The Silent Observer
 
-Anna is Aurallia's youngest child. The seer. The one who perceives what others can't. Anna never speaks in dialogue — described, not voiced. Anna's presence is felt through the drawings, not through words.
+Bramble is Aurallia's youngest child. The seer. The one who perceives what others can't. Bramble never speaks in dialogue — described, not voiced. Bramble's presence is felt through the drawings, not through words.
 
-Anna's home is a window nook in the Allfather's Observatory — the quietest space in the Cosmology level, and the quietest space in the Inn. A small alcove with a window looking out at the sky. No furniture except a cushion and drawing materials. No-outline rendering, always — Anna's linework never changes because Anna's nature never changes. Anna is the constant in the variable.
+Bramble's home is a window nook in the Allfather's Observatory — the quietest space in the Cosmology level, and the quietest space in the Inn. A small alcove with a window looking out at the sky. No furniture except a cushion and drawing materials. No-outline rendering, always — Bramble's linework never changes because Bramble's nature never changes. Bramble is the constant in the variable.
 
-Anna's doodles are scattered throughout the Inn — in every zone, hidden in corners, drawn on walls, tucked into books. Each doodle is a visual representation of the sonic system: frequency maps, the 42Hz Song as geometry, crystal patterns. The player has been finding them since the beginning, not knowing what they were.
+Bramble's doodles are scattered throughout the Inn — in every zone, hidden in corners, drawn on walls, tucked into books. Each doodle is a visual representation of the sonic system: frequency maps, the 42Hz Song as geometry, crystal patterns. The player has been finding them since the beginning, not knowing what they were.
 
-**Anna's Quest: "The Doodles That Hear"**
+**Bramble's Quest: "The Doodles That Hear"**
 
-In the Cosmology level, the player finds Anna in the window nook, drawing. Anna doesn't speak. But when the player approaches with the Brísingamen chord key active, the doodles in the nook light up. They begin to resonate. The drawings become sound — each line vibrating at the frequency it represents.
+In the Cosmology level, the player finds Bramble in the window nook, drawing. Bramble doesn't speak. But when the player approaches with the Brísingamen chord key active, the doodles in the nook light up. They begin to resonate. The drawings become sound — each line vibrating at the frequency it represents.
 
-Anna's quest is a COLLECTION quest spanning the entire Inn: find all of Anna's doodles hidden throughout every zone. Each doodle, when found with the chord key active, plays its frequency. The doodles are the sheet music for the 42Hz Song — the full song, not just the foundation tone.
+Bramble's quest is a COLLECTION quest spanning the entire Inn: find all of Bramble's doodles hidden throughout every zone. Each doodle, when found with the chord key active, plays its frequency. The doodles are the sheet music for the 42Hz Song — the full song, not just the foundation tone.
 
 The doodles are hidden:
 - **Main Floor:** behind bookshelves, under tables, in the Firekeeper's hearth stones
@@ -152,9 +152,9 @@ The doodles are hidden:
 
 Finding all doodles completes the 42Hz Song. The song plays — the full composition, every frequency in the Inn layered into one piece. The Inn's heartbeat becomes audible. The song the Inn has been singing all along, heard for the first time.
 
-**Reward:** Anna's Drawing — a charm that makes the 42Hz Song audible everywhere in the Inn. The foundation hum becomes the player's constant soundtrack. In every zone, in every game, the Song is there. The charm also reveals hidden doodles on the minimap — Anna's hand is everywhere.
+**Reward:** Bramble's Drawing — a charm that makes the 42Hz Song audible everywhere in the Inn. The foundation hum becomes the player's constant soundtrack. In every zone, in every game, the Song is there. The charm also reveals hidden doodles on the minimap — Bramble's hand is everywhere.
 
-Anna's quest connects to the Allfather's quest: the Allfather's Gaze lets the player SEE the hidden structure; Anna's doodles let the player HEAR the hidden song. Together, they complete the Inn's sensory upgrade — sight and sound, the two ways the Inn reveals its deepest self.
+Bramble's quest connects to the Allfather's quest: the Allfather's Gaze lets the player SEE the hidden structure; Bramble's doodles let the player HEAR the hidden song. Together, they complete the Inn's sensory upgrade — sight and sound, the two ways the Inn reveals its deepest self.
 
 ---
 
@@ -244,7 +244,7 @@ The overall effect: standing in a cathedral of sound where every frequency in th
 
 ### Zone Music
 
-The Cosmology level's ambient music is the INN'S THEME — the melody that every other zone's music is a variation of. Every zone has its own music, but every zone's music contains a fragment of the cosmology theme. The player who has completed Anna's quest (the 42Hz Song charm) can hear the theme's foundation in every zone.
+The Cosmology level's ambient music is the INN'S THEME — the melody that every other zone's music is a variation of. Every zone has its own music, but every zone's music contains a fragment of the cosmology theme. The player who has completed Bramble's quest (the 42Hz Song charm) can hear the theme's foundation in every zone.
 
 The theme itself is simple: four notes. The Brísingamen chord, played as a melody rather than a chord. 42Hz, ~170Hz, ~158Hz, ~84Hz. Love, beauty, war, death. The four notes that are the Inn's DNA.
 
@@ -264,7 +264,7 @@ The theme itself is simple: four notes. The Brísingamen chord, played as a melo
 | The Two Cats | Threshold Chamber | Feed treats to unify the room; access hidden clasp charm (temporary shapeshifting) |
 | Brísingamen | Threshold Chamber | Complete chord audible only here; the chord's home |
 | The Orrery | Observatory | The cosmology game — align zones to reveal connections |
-| Anna's Window Nook | Observatory | Sit and observe the entire Inn from above; find Anna's doodles |
+| Bramble's Window Nook | Observatory | Sit and observe the entire Inn from above; find Bramble's doodles |
 | Speter Adams's Dressing Room | Observatory (off to side) | Examine dolls; hear the Vanir-Aesir war from the spirits' perspective |
 
 ---
@@ -276,7 +276,7 @@ The theme itself is simple: four notes. The Brísingamen chord, played as a melo
 | **Golden Hour Charm** | Freyr's quest ("The Sword That Fights Itself") | Player's stones glow gold for a duration; the sword returns in the final act |
 | **Brísingamen Chord Key** | Freyja's quest ("The Four Tones") | Hear the four tones in every zone; the chord is the Inn's skeleton |
 | **The Allfather's Gaze** | Allfather's quest ("The Eye That Closes to See") | See hidden connections, secret passages, narrative spine threads; discover stone locations via constellations |
-| **Anna's Drawing Charm** | Anna's quest ("The Doodles That Hear") | 42Hz Song audible everywhere; hidden doodles revealed on minimap |
+| **Bramble's Drawing Charm** | Bramble's quest ("The Doodles That Hear") | 42Hz Song audible everywhere; hidden doodles revealed on minimap |
 | **Falcon Clasp Charm** | Threshold Chamber secret (two cats unified) | Temporary shapeshifting — appear as an NPC in another zone |
 | **The Orrery Charm** | Orrery game (all 4 levels) | See ALL zone connections on world map; complete meta-vision |
 | **The Unnamed Gift** | Orrery Level 4 (secret ending) | The revelation: the Aesir gave the Vanir the runes. The exchange made permanent. The Inn's deepest truth. |
@@ -319,10 +319,10 @@ The theme itself is simple: four notes. The Brísingamen chord, played as a melo
 | Character: The Allfather | ✅ Complete (station, quest, audio, visual, items) |
 | Character: Freyr | ✅ Complete (station, quest, audio, visual, items) |
 | Character: Freyja | ✅ Complete (station, quest, audio, visual, items) |
-| Character: Anna | ✅ Complete (station, quest, items, connection to Allfather's Gaze) |
+| Character: Bramble | ✅ Complete (station, quest, items, connection to Allfather's Gaze) |
 | Character: Speter Adams (interaction) | ✅ Complete (dressing room, doll lore, Vanir-Aesir war) |
 | Game template: The Orrery | ✅ Complete (4 levels, mechanics, rewards, secret ending) |
-| Interactive items | ✅ Complete (12 items across all three stations + Anna's nook + Speter Adams's room) |
+| Interactive items | ✅ Complete (12 items across all three stations + Bramble's nook + Speter Adams's room) |
 | Audio profile (zone) | ✅ Complete (ambient layers, zone music = Inn's theme) |
 | Audio profile (Allfather) | ✅ Complete (silence as instrument) |
 | Reward structure | ✅ Complete (7 rewards, progression from charm to meta-vision to secret ending) |

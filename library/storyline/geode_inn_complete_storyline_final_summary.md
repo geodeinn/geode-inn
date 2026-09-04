@@ -91,18 +91,18 @@ Engine (Hollow Earth) → underground ocean → Source → 7 water layers → su
 **Artist:** J.M.W. Turner — Pure light, dissolving forms, the sun
 **Linework:** No-outline (cosmological) — Everything defined by light, not edges
 
-The Inn's highest point — the canopy, the stars, the gods. The Allfather's Observatory. Anna's window nook. The 42Hz source above.
+The Inn's highest point — the canopy, the stars, the gods. The Allfather's Observatory. Bramble's window nook. The 42Hz source above.
 
 **Key Characters:**
 - **The Allfather (Odin)** — Stoic deity. Silent, perched ravens. The Allfather's Gaze perception upgrade (permanent stone sacrifice).
 - **The Wanderer (Odin)** — Warm, approachable traveler on the main floor. Chibi thieving ravens (Huginn & Muninn). The same god, different face.
-- **Anna** — Aurallia's youngest. The Inn's seer. Perceives what others can't. Never speaks in dialogue — described, not voiced. Anna's doodles are the Inn's sonic architecture rendered visible: frequency maps, the 42Hz Song as geometry, crystal patterns. Scattered throughout the Inn as hidden maps.
+- **Bramble** — Aurallia's youngest. The Inn's seer. Perceives what others can't. Never speaks in dialogue — described, not voiced. Bramble's doodles are the Inn's sonic architecture rendered visible: frequency maps, the 42Hz Song as geometry, crystal patterns. Scattered throughout the Inn as hidden maps.
 - **Freyr & Freyja** — The Vanir gods. Freyja's Brísingamen necklace is the foundational source for the Inn's 42Hz chord logic.
 - **The Owl** — Barn owl. Supernatural watcher connected to the narrative's bloodline magic. "Wherever an owl is sighted one of us is near." Connected to Athena and Odin thematically.
 
 **Quests:**
 - **"The Eye That Closes to See"** — The Allfather's Quest. Permanent stone sacrifice grants the Allfather's Gaze perception upgrade.
-- **"The Doodles That Hear"** — Anna's Quest. Finding visual frequency maps reconstructs the 42Hz song.
+- **"The Doodles That Hear"** — Bramble's Quest. Finding visual frequency maps reconstructs the 42Hz song.
 - **"The War Nobody Won"** — Speter Adams's Interaction. Lore exchange of seiðr and runes between the Vanir and Aesir.
 
 **Game:** The Orrery — 3D puzzle requiring chord-based alignment of zone spheres.
@@ -456,7 +456,7 @@ A browsable interactive catalog of all 166 Geode Inn stones. Each stone plays it
 - **Speter Adams** — Aurallia's third child (22). Gender fluid, built like a nymph. Skilled performer. The chameleon demonstrated AS the linework system — linework style changes by zone. The ONLY character with a home on EVERY level.
 - **Scarlett** — Aurallia's second youngest (17, goth). Undercity resident. Private sanctuary.
 - **John** — Aurallia's youngest son (15, 6'5"). The family Fezzik. Gentle giant.
-- **Anna** — Aurallia's youngest. The Inn's seer. Perceives what others can't. Never speaks — described, not voiced.
+- **Bramble** — Aurallia's youngest. The Inn's seer. Perceives what others can't. Never speaks — described, not voiced.
 - **Beverley** — Alexia's mom. The Librarian. 2/3 human size. Silver hair, spectacles, dark high-collared coat. Clipped Australian accent. Intimidating.
 - **Jakob** — River's son. Tall, wild black hair, burly. Lives in Australia.
 - **Alexia** — Jakob's mom. Slight build, black loosely curly hair, brilliant and elfin.
@@ -479,7 +479,7 @@ Anubis, Persephone and Hades, Morrigan and Mab, Loki, Hel, Arthur + Galahad + Me
 ### Shoulder Companions
 - **Brim (on a pipe)** — The musical principle of improvisation.
 - **The Crested Gecko (The Vessel)** — The musical principle of composition.
-- **The Hearth Tender (Dobby archetype)** — The quiet witness to the Firekeeper. Pairs with Anna as a seer.
+- **The Hearth Tender (Dobby archetype)** — The quiet witness to the Firekeeper. Pairs with Bramble as a seer.
 - **The Tunnel Keeper (Hoggle archetype)** — The physical explorer of the Catacombs.
 
 ### Total Character Count: 95+ with concept art, 164 mineral charm spirits, 60+ fully documented characters in the master roster.
@@ -509,7 +509,7 @@ Anubis, Persephone and Hades, Morrigan and Mab, Loki, Hel, Arthur + Galahad + Me
 ### The Linework-as-UI System
 NPC role and quest-purpose are visually encoded through linework style:
 - **Heavy cel-shaded** — Tradesmen (Blacksmith, Clockmaker, Jay, Solstara)
-- **Soft flowing** — Lore (Catalyst, Thrum, Anna's doodles)
+- **Soft flowing** — Lore (Catalyst, Thrum, Bramble's doodles)
 - **Sharp/angular** — Guardians (Gargoyles, Water Monsters, Fae guards)
 - **No-outline** — Cosmological (Allfather, Vanir, Cosmic Crew)
 - **Fragmented** — Crisis (The Shifting Man, characters in transition)

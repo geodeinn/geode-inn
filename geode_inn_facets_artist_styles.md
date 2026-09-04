@@ -32,7 +32,7 @@ Each facet of the Geode Inn — each floor, each zone — is rendered in the vis
 
 **The Artist:** Turner's late paintings are pure LIGHT. Forms dissolve. The sun is a presence, not a shape. Skies become oceans of luminous color. The boundary between sea and sky, between earth and heaven, between matter and light — erased.
 
-**Why Turner for Cosmology:** The Cosmology level is the Inn's highest point — the canopy, the stars, the gods. The Allfather's Observatory. Anna's window nook. The 42Hz source above. Turner's dissolving forms match the no-outline cosmological linework — everything is defined by light, not by edges. The gods don't have boundaries. The stars don't have outlines. The Cosmology is the level where the player stops seeing shapes and starts seeing LIGHT.
+**Why Turner for Cosmology:** The Cosmology level is the Inn's highest point — the canopy, the stars, the gods. The Allfather's Observatory. Bramble's window nook. The 42Hz source above. Turner's dissolving forms match the no-outline cosmological linework — everything is defined by light, not by edges. The gods don't have boundaries. The stars don't have outlines. The Cosmology is the level where the player stops seeing shapes and starts seeing LIGHT.
 
 **Color Palette:**
 - Turner's late palette: luminous gold (#E5C158), dissolving amber, warm white, deep sunset orange
@@ -42,10 +42,10 @@ Each facet of the Geode Inn — each floor, each zone — is rendered in the vis
 **Key Visual Elements:**
 - **The Allfather's Observatory** — a domed space where the walls are so suffused with light that the architecture dissolves. The player can't tell where the ceiling ends and the sky begins. Turner's "Interior of a Great Hall" energy — vast, luminous, dissolving
 - **The Vanir Garden (Freyr & Freyja)** — Turner's landscapes: flowers that are splashes of color rather than detailed forms. Green that's more FELT than seen. Freyr's golden-hour glow is Turner's late sunlight
-- **Anna's Nook** — the quietest corner. Turner's watercolor washes — a few brushstrokes that suggest a window, a desk, a presence. Anna's nook is the most Turner-like space: minimal, luminous, defined by the quality of light rather than the density of detail
+- **Bramble's Nook** — the quietest corner. Turner's watercolor washes — a few brushstrokes that suggest a window, a desk, a presence. Bramble's nook is the most Turner-like space: minimal, luminous, defined by the quality of light rather than the density of detail
 - **The 42Hz Source** — the Sun visible through the Observatory's lens. Turner's "Sun of Venice" — the sun as a pure, spreading circle of light, not a disk but a radiance. The 42Hz frequency is visible as a Turner light effect: a golden aura that spreads from the sun and touches everything
 
-**Linework:** No-outline (cosmological). Everything is defined by Turner's light. Characters are luminous shapes, not outlined figures. The Allfather is a presence of light, not a drawn form. Anna is a soft glow in a window.
+**Linework:** No-outline (cosmological). Everything is defined by Turner's light. Characters are luminous shapes, not outlined figures. The Allfather is a presence of light, not a drawn form. Bramble is a soft glow in a window.
 
 ---
 

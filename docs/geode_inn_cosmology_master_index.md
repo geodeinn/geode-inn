@@ -9,7 +9,7 @@
 **Doc:** `geode_inn_observatory_quest_chain.md`
 **Supplement:** `geode_inn_observatory_cosmic_weaves.md`
 **NPC:** The Astronomer (Benedict Cumberbatch) — violin, mind palace, the calculation
-**Also present:** The Allfather (silent watcher), Anna (drawing in the nook)
+**Also present:** The Allfather (silent watcher), Bramble (drawing in the nook)
 **Quest Chain:** "The Question" — 6 quests
 **Key frequencies:** 42Hz (the Song), 41.7Hz (the previous Song), 0.3Hz (the heartbeat between Songs), 44Hz (the completed Song)
 **Thesis:** The question is more beautiful than the answer. The unfinished Song is more interesting than the completed one.

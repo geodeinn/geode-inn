@@ -11,7 +11,7 @@ All animation prompts in this document adhere strictly to the **Geode Inn Master
    - **Heavy cel-shaded:** Tradespeople, crew, working characters (Innkeeper, Weeaboo, Navigator, Cool, Protector, Reluctant). Bold black line weights and crisp shadow boundaries.
    - **Soft flowing:** Lore keepers, scholars, gentle spirits (Naut, Pure-Hearted). Smooth contour lines, organic flow, graceful weight transitions.
    - **Sharp/angular:** Guardians, sky navigators, complex thinkers (Captain, Philosopher). Hard angles, geometric geometry, cut-glass edge clarity.
-   - **No-outline:** Cosmological beings, gods, celestial entities (Allfather, Freyr, Freyja, Anna). Form defined strictly through gradient illumination, volumetric rim light, and edge emission; zero inked outlines.
+   - **No-outline:** Cosmological beings, gods, celestial entities (Allfather, Freyr, Freyja, Bramble). Form defined strictly through gradient illumination, volumetric rim light, and edge emission; zero inked outlines.
    - **Fragmented:** Entities in crisis or existing between states (Ryoko). Broken, flickering stroke lines, offset line layers, and micro-tears in vector boundaries.
 
 2. **Celebrity Softening Rule:**
@@ -36,7 +36,7 @@ All animation prompts in this document adhere strictly to the **Geode Inn Master
   - *Idle Loop (12s seamless):* Distant star fields slowly rotate in counter-clockwise motion (0.5 deg/sec). Floating star chart scrolls bob on a subtle vertical sine wave (2s cycle).
   - *Environmental Tells:* Nebular dust drifting across the observatory floor in soft light tendrils. Subtle shimmering glints along the brass telescope barrel every 4 seconds.
 - **Sound Connection:** Resonates with a low, ambient **42Hz Source Tone** hum. Soft celestial resonance plays whenever star constellations align.
-- **Special Notes:** Houses Anna's hidden frequency doodles on the floor tiles. Serves as the visual peak of the vertical axis in the Inn's emotional arc (Refuge → Home → World → Self → Cosmos).
+- **Special Notes:** Houses Bramble's hidden frequency doodles on the floor tiles. Serves as the visual peak of the vertical axis in the Inn's emotional arc (Refuge → Home → World → Self → Cosmos).
 
 ---
 
@@ -115,8 +115,8 @@ All animation prompts in this document adhere strictly to the **Geode Inn Master
 
 ---
 
-#### 4. Anna
-- **Subject Name:** Anna — Aurallia's Youngest Child / The Sonic Architect
+#### 4. Bramble
+- **Subject Name:** Bramble — Aurallia's Youngest Child / The Sonic Architect
 - **Visual Description:** A tall, pale, slender youth with wide, far-seeing silver eyes and dark, unkempt hair tucked behind delicate ears. Dressed in a simple oversized tunic of soft unbleached linen, curled up quietly in a stone window nook of the observatory. In her hand is a luminescent slate stylus, drawing intricate glowing geometric patterns and frequency curves onto stone tiles.
 - **Linework Style:** **No-outline (Cosmological Style)**. Pure soft form defined by edge radiance and shadow depth; zero ink lines.
 - **Color Palette:** Pale moonstone skin (`#F3F4F6`), linen cream (`#E5E7EB`), stylus teal glow (`#14B8A6`), shadow navy (`#1E1B4B`).
@@ -125,7 +125,7 @@ All animation prompts in this document adhere strictly to the **Geode Inn Master
   - *Idle Motion:* Completely absorbed in her art, oblivious to the player. Her hand moves in smooth, continuous fluid arcs, etching 42Hz frequency maps and crystal geometries.
   - *Key Gesture:* Pauses drawing briefly, lifts stylus, blows gently on the glowing floor etchings to reveal a shimmering wave pattern, then immediately resumes drawing.
 - **Sound Connection:** Her stylus creates a faint, pleasant crystal singing bowl resonance (resonating exactly at 42Hz harmonics) as lines are drawn.
-- **Special Notes:** Anna never speaks in dialogue—her presence is described through visuals and sound. Her "doodles" are the Inn's actual visible sonic architecture.
+- **Special Notes:** Bramble never speaks in dialogue—her presence is described through visuals and sound. Her "doodles" are the Inn's actual visible sonic architecture.
 
 ---
 

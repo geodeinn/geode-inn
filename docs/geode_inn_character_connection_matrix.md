@@ -7,7 +7,7 @@
 ## The Cosmology Level Web
 
 ### The Astronomer
-- Connected to: the Allfather (watcher), Anna (drawing), the player (the one who asks), the cabbit (the uncalculable), the Captain (the one who carries the answer), Einstein (the philosopher of observation), Nyx (the silence the Astronomer fears), the Guest (Death, who understands what the Song's completion means)
+- Connected to: the Allfather (watcher), Bramble (drawing), the player (the one who asks), the cabbit (the uncalculable), the Captain (the one who carries the answer), Einstein (the philosopher of observation), Nyx (the silence the Astronomer fears), the Guest (Death, who understands what the Song's completion means)
 - Two modes: deduction (fast notes, corridors extend) and contemplation (slow notes, corridors contract)
 - The violin is the key to the mind palace — the player who reads the violin can navigate
 - The Astronomer's word: "adequate" (echoed by Allfather, Reader, Gesso)
@@ -17,9 +17,9 @@
 - The Allfather's Gaze: reveals hidden connections — full expression at the Ascension Canopy
 - Role: the watcher who doesn't ask. The eye that sees but doesn't intervene.
 
-### Anna
-- Connected to: the Astronomer (Anna's doodles make the Song visible — the frequency lines are Anna's drawings), the player (Anna draws in the Observatory nook)
-- Role: the one who makes the invisible visible. Anna's doodles ARE the frequency lines the player sees.
+### Bramble
+- Connected to: the Astronomer (Bramble's doodles make the Song visible — the frequency lines are Bramble's drawings), the player (Bramble draws in the Observatory nook)
+- Role: the one who makes the invisible visible. Bramble's doodles ARE the frequency lines the player sees.
 
 ### The Cabbit (Eres)
 - Connected to: the Constant (the cabbit IS the Constant's ship's heart), the Arcana (the cabbit transforms into the drive core), the Astronomer ("I can't calculate you"), the Captain ("There she is"), the player (the cabbit's purr is the ground state beneath the mind palace)
