@@ -1,0 +1,84 @@
+{
+  "description": "Geode Inn Stone Census — Phase 3 wiring data. Primary zone residence for all 200 stones, per the Storyline Weave (Vols 1-5). Stones, like guests, may keep second homes; this map records the primary. Live in the Stone entity's zone field as of 2026-09-04.",
+  "counts": {
+    "Cosmology": 18,
+    "Clockwork Skies": 6,
+    "Main Floor": 20,
+    "Campgrounds": 27,
+    "Staircase": 18,
+    "Catacombs": 34,
+    "Fae Kingdom": 13,
+    "Water Zones": 38,
+    "Archive": 13,
+    "Spiral Gallery": 4,
+    "Vault": 8,
+    "Forge": 2
+  },
+  "zones": {
+    "Cosmology": [
+      "Moonstone (Celestial)", "White Moonstone", "Peach Moonstone", "Rainbow Moonstone",
+      "Diamond", "Herkimer Diamond", "Clear Quartz", "Aqua Aura", "Angelite", "Tanzanite",
+      "Octave Stone", "Stillness Stone", "Kunzite", "Morganite", "Black Opal", "Emei Jade",
+      "Kammererite", "Turquoise (Tibetan)"
+    ],
+    "Clockwork Skies": ["Sunstone", "Alexandrite", "Zultanite", "Andalusite", "Iolite", "Clear Topaz"],
+    "Main Floor": [
+      "Rose Quartz", "Carnelian", "Citrine", "Amber", "Smoky Quartz", "Lepidocrocite",
+      "Rutilated Quartz", "Tourmalinated Quartz", "Sard", "Sardonyx", "Bloodstone", "Pounamu",
+      "Unakite", "Gold", "Black Tourmaline", "Bronzite", "Brown Tiger's Eye", "Crazy Lace Agate",
+      "Rubellite Tourmaline", "Agates"
+    ],
+    "Campgrounds": [
+      "Moss Agate", "Tree Agate", "Green Aventurine", "Prehnite", "Chrysoprase", "Flower Agate",
+      "Fire Agate", "Kyanite (Moss)", "Zoisite (with ruby inclusions)", "Epidote", "Green Onyx",
+      "Moukaite", "Picture Jasper", "Septarian", "Aragonite", "Chalcedony (Dendritic)",
+      "Chrome Diopside", "Congo Jasper", "Dendritic Agate", "Desert Jasper", "Kyanite (orange)",
+      "Montana Moss Agate", "Plumed Agate", "Red Aventurine", "Sunset Jasper", "Watermelon Tourmaline",
+      "Green Tourmaline"
+    ],
+    "Staircase": [
+      "Moldavite", "Tektite", "Fire Opal", "Gold Sheen Obsidian", "Rainbow Obsidian",
+      "Snowflake Obsidian", "Charoite", "Nuummite", "Pyrite", "Amethyst", "Shungite", "Copper",
+      "Covellite", "Sugilite", "Ametrine", "Cuprite", "Kyanite (blue)", "Peridot"
+    ],
+    "Catacombs": [
+      "Lapis Lazuli", "Malachite", "Azurite", "Jet", "Rhodochrosite", "Rhodonite",
+      "Grossular Garnet", "Hessonite Garnet", "Mozambique Garnet", "Rhyolite Garnet",
+      "Spessartite Garnet", "Uvarovite", "Hematite", "Tiger Iron", "Pietersite",
+      "Agatized fossil Coprolite (Dinosaur) Coral fossils Opalized Wood Orthoceras", "Fossil Coprolite",
+      "Ammonite", "Ammolite", "Petrified Wood", "Petrified Palm Wood",
+      "Petrified palm wood rainbow petrified wood", "Welsh Slate", "Alpine Granite",
+      "Provence Limestone", "Fossil Agate (turritella)", "Crocodile Stone", "Nile Sapphire",
+      "Eudialyte", "Guatemalan Jade", "Jadeite", "Nephrite Jade", "Red Tiger's Eye",
+      "Turquoise (types found in the Americas)"
+    ],
+    "Fae Kingdom": [
+      "Preseli Blue Stone", "Green Fluorite", "Purple Fluorite", "Rainbow Fluorite",
+      "Green Labradorite", "Staurolite (fairy cross stone)", "Hackmanite", "Chalcedony (Blue)",
+      "Amazonite", "Black Onyx", "Leopardskin Jasper", "Multi - Colored Tourmaline", "Spirit Quartz"
+    ],
+    "Water Zones": [
+      "Aquamarine", "Amazonian Aquamarine", "Larimar", "Blue Opal (Peruvian)", "Water Opal",
+      "Dreamtime Opal", "Australian Boulder Opal", "Boulder Opal", "Sea Glass", "Abalone",
+      "Coral (black)", "Coral (branch)", "Cyprus Coral Stone", "Pearl", "Freshwater Pearl",
+      "River Pearl", "Maldivian Pearl", "Mangrove Pearl", "Coral Pearl", "Blue Hole Calcite",
+      "Lemurian Blue Calcite (Blue Onyx)", "Rhine Quartz", "Vistula Agate", "Tannin Agate",
+      "Aquaprase", "Chrysocolla", "Chrysocolla Azurite", "Ocean Jasper", "Sealite", "Rainstone",
+      "Cosmic Serpent Scale", "River Amber", "River Diamond", "Antarctic Ice Quartz",
+      "Blue Topaz (London)", "Blue Topaz (Swiss)", "Gem Silica"
+    ],
+    "Archive": [
+      "Sodalite", "Sodalite (African)", "Dumortierite", "Chinese Writing Stone", "Hawk's Eye",
+      "Blue Tiger's Eye", "Lepidolite", "Phantom Quartz", "Howick Quartz", "Apatite", "Hypersthene",
+      "White Jade", "Blue Tourmaline"
+    ],
+    "Spiral Gallery": ["Picasso Jasper", "Chrysanthemum Stone", "Bumblebee Jasper", "Solar Quartz"],
+    "Vault": ["Ruby", "Sapphire", "Emerald", "Cat's Eye", "Spinel", "Ruby with kyanite", "Sapphire (Tundra)", "Imperial (Golden) Topaz"],
+    "Forge": ["Frost Iron", "Platinum"]
+  },
+  "notes": [
+    "Second deposits (stones with working jobs vs display cases) are documented in the Storyline Weave volumes: Welsh Slate (Catacombs primary, Fae portal arches secondary), Zultanite (Clockwork Skies primary, Gallery light room secondary), Ammolite (Catacombs primary, Gallery color-theory secondary), Sugilite (Staircase primary, Archive restricted wing secondary), Charoite (Staircase primary, Stone Circle Chamber secondary), Hematite (Catacombs primary, Forge raw case secondary), Copper (Staircase primary, Forge anvil rail secondary), Pyrite (Staircase primary, Forge spark case secondary), Phantom Quartz (Archive primary), Tanzanite (Cosmology primary, Vault deposit secondary).",
+    "Census addenda (stones not in the original census zone lists, placed during Phase 3): Ametrine, Antarctic Ice Quartz, Apatite, Aragonite, Black Onyx, Black Opal, Black Tourmaline, Blue Topaz (London), Blue Topaz (Swiss), Boulder Opal, Bronzite, Brown Tiger's Eye, Chalcedony (Dendritic), Chrome Diopside, Congo Jasper, Crazy Lace Agate, Cuprite, Dendritic Agate, Desert Jasper, Emei Jade, Eudialyte, Gem Silica, Guatemalan Jade, Hypersthene, Imperial (Golden) Topaz, Jadeite, Kammererite, Kyanite (blue), Leopardskin Jasper, Montana Moss Agate, Multi - Colored Tourmaline, Nephrite Jade, Peridot, Platinum, Plumed Agate, Red Aventurine, Red Tiger's Eye, Rubellite Tourmaline, Solar Quartz, Spirit Quartz, Sunset Jasper, Turquoise (Tibetan), Turquoise (types found in the Americas), Watermelon Tourmaline, White Jade, Green Tourmaline, Blue Tourmaline, Clear Topaz, Agates, Kyanite (orange), Sapphire (Tundra), Ruby with kyanite.",
+    "The Song is cross-zone: Octave Stone, Clear Quartz, Nuummite, Blue Hole Calcite, and Stillness Stone are frequency-keepers with primary zones plus Song roles."
+  ]
+}
