@@ -40,12 +40,12 @@ From the Facets doc — the 14 artists defining each level's visual identity.
 | # | Level | Artist | Style Essence | Linework | Key Visual Elements |
 |---|-------|--------|---------------|----------|---------------------|
 | 3 | Level 1: Cosmology (The Canopy) | J.M.W. Turner | Pure light, dissolving forms, the sun as presence not shape | No-outline (cosmological) | Allfather's Observatory (dissolving architecture), Vanir Garden (color splashes), Bramble's Nook (watercolor washes), 42Hz Source (spreading radiance) |
-| 4 | Level 2: Clockwork Skies (Canopy City) | Wassily Kandinsky | Visual music, geometric abstraction, frequencies made visible | Sharp/angular (guardian) | The Arcana ship (Kandinsky composition), Crew Stations (geometric elements), 50 BPM heartbeat (pulsing composition), Canopy City platforms (circles connected by lines) |
+| 4 | Level 2: Clockwork Skies | Salvador Dalí | Melting gearwork, surreal mechanics, the machine that dreams | Sharp/angular (guardian) | The Arcana ship (Dalí time-ship), Crew Stations (soft-watch geometry), 50 BPM heartbeat (time made visible), planet gears (mechanical persistence of memory). NOTE: Canopy City is a separate Rackham zone (see row 39) |
 | 5 | Level 3: Main Floor (The Hearth) | Henri Matisse | Joy, color, flow, the heart of the Inn | Soft flowing (lore) | Arcade (cutout shapes), Market (flowing forms), Baby Dragon's Geode (organic spiral), Wanderer's Table (still life) |
 | 6 | Level 4: Campgrounds (The Exterior) | Alphonse Mucha | Art Nouveau, artisanal, decorative, craft | Soft flowing (lore) | Market stalls (Mucha posters), artisan shops (botanical borders), Jay's tavern, Solstara's bead-configurator |
 | 7 | Level 5: Staircase (The Alchemy Level) | M.C. Escher | Impossible geometry, transformation, tessellation | Sharp/angular (guardian) | Ascending key music, gargoyles (symmetric), Blue Box alcove (impossible space), alchemical transformation visuals |
 | 8 | Level 6: Catacombs (The Archive) | Francisco Goya | Dark, intimate, weight of history, still life drama | Heavy cel-shaded (tradesman) + soft flowing (lore) | The Crone's desk (scarred oak), The Stacks (deep focus), The Deep (84Hz shadow), Beverley's station, Charles's Natural Archive (Goya still life) |
-| 9 | Level 7: Faerie Kingdom (The Roots) | Salvador Dalí | Surreal, dreamlike, metamorphosis, melting time | Soft flowing (Seelie) / sharp/angular (Unseelie) | The Threshold (elongated arches), Summerlands (melting forms), The Hollow (frozen surrealism), Crystal Gardens (hyperdimensional geometry), Stone Circle Chamber (time as medium) |
+| 9 | Level 7: Faerie Kingdom (The Roots) | Arthur Rackham | Ink + watercolor fairy-tale enchantment, trees as threshold, the Roots as living storybook | Soft flowing (Seelie) / sharp/angular (Unseelie) | The Threshold (Rackham arch of grasping trees), Summerlands (Lee's golden mythic illustration), The Hollow (Bauer's cold Nordic folk tale), Crystal Gardens (Lee), Stone Circle Chamber (the deepest ink) |
 | 10 | Level 8: Water Zone (The Deep) | Vampire Hunter D (Gothic Anime) | Dark elegance, bioluminescent shadows, dramatic creatures | Sharp/angular (Lighthouse) / soft flowing (water) | 7-layer descent, Lighthouse (3-tempo system), Monster Lairs (themed mythology), The Trench (frozen borderland), The Source (pure 42Hz light) |
 | 11 | Level 9: Undercity (The Deep Roots) | Gustav Klimt | Gothic stone with Klimt gold — STRUCTURAL STAPLE | Heavy cel-shaded (tradesman) + no-outline (gold patterns) | Vaulted gold ceilings (swirling patterns), gothic stone walls, Scarlett's Room, building crafting system |
 
@@ -53,7 +53,7 @@ From the Facets doc — the 14 artists defining each level's visual identity.
 
 | # | Zone | Artist | Style Essence | Linework |
 |---|------|--------|---------------|----------|
-| 12 | Hollow Earth | Georgia O'Keeffe | Pure form, luminous, stripped to essence, bones-against-sky | No-outline (cosmological) |
+| 12 | Hollow Earth | Georgia O'Keeffe | Pure form, luminous, stripped to essence, bones-against-sky | No-outline (cosmological) | GRAND COLLISION: all 37 artists converge here in layers (11 mapped) — the Hollow Earth is every zone combined; O'Keeffe holds the zone's primary visual key |
 | 13 | World Grid (open world) | Claude Monet | Landscape, light, atmosphere, the same place in changing light | Soft flowing (lore) |
 | 14 | Gorgon's Garden | Aubrey Beardsley | Black and white, ornate, deadly beauty — the ONLY zone with no color | Flat black/white (decorative) |
 
@@ -175,7 +175,7 @@ Each arcade game is assigned to a zone, and inherits that zone's artist style. G
 | Acropolis in Five Lights | Greece | Monet (inherited) | — |
 | Bayou Reclamation | Bayou | Don't Starve (inherited) | — |
 | Cave Painters Quiz | Chauvet | Bosch (inherited) | — |
-| Clockwork Skies | Clockwork | Kandinsky (inherited) | — |
+| Clockwork Skies | Clockwork | Dalí (inherited) | — |
 | Colorado Plateau | Colorado | Dixon (inherited) | — |
 | Dragon Tiles | China/Japan | Mulan ink-wash (inherited) | — |
 | Dragon's Descent | Lost Civ | O'Keeffe (inherited) | — |
@@ -212,7 +212,7 @@ Each arcade game is assigned to a zone, and inherits that zone's artist style. G
 | Wall Defense | China | Hokusai | Bierstadt |
 | Yellowstone Geyser | Yellowstone | Ansel Adams | Bierstadt |
 | The Apothecary's Cure | Staircase | Escher (inherited) | — |
-| The Dream Gardener | Fae Kingdom | Dalí (inherited) | — |
+| The Dream Gardener | Fae Kingdom | Rackham (inherited) | — |
 | The Egg Carrier | Canopy | Rackham (inherited) | — |
 | The Forest Defense | Campgrounds | Mucha (inherited) | — |
 | The Hook | Tidal Caves | Vampire Hunter D (inherited) | — |
@@ -242,14 +242,14 @@ Each arcade game is assigned to a zone, and inherits that zone's artist style. G
 | Saguaro Bloom | Desert | O'Keeffe | Dixon |
 | Stone Circle Defender | Fae/Norse | Book of Kells | Emily Carr |
 | Superstition Mountains | Superstitions | O'Keeffe | Dixon |
-| The Arcana | Clockwork/Cosmology | Kandinsky (inherited) | — |
+| The Arcana | Clockwork/Cosmology | Dalí (inherited) | — |
 | Tidal Caves | Water Zone | Vampire Hunter D (inherited) | — |
 
 ### Tier 4 Games (Major)
 
 | Game | Zone | Primary Artist | Secondary Artist |
 |------|------|---------------|-----------------|
-| Fae Kingdom MMO | Fae Kingdom | Dalí / Lee / Bauer (zone-dependent) | — |
+| Fae Kingdom MMO | Fae Kingdom | Rackham / Lee / Bauer (zone-dependent) | — |
 | Hollow Earth RPG | Hollow Earth | O'Keeffe (inherited) | — |
 | The World Walker | All Zones | Zone-dependent (all artists) | — |
 | Zelda-Style World | All Zones | Zone-dependent (all artists) | — |
@@ -311,11 +311,11 @@ The Facets doc (Inn levels) and the Artist Audit (world map zones) assigned diff
 
 | Level | Facets Doc (Newer) | Artist Audit (Older) | Reconciliation |
 |-------|-------------------|---------------------|----------------|
-| Level 1 (Cosmology) | J.M.W. Turner | Salvador Dalí | Both valid: Turner for the level's overall visual identity (dissolving light, no-outline). Dalí for the Fae Kingdom (Level 7) and as a Project Bible aesthetic guide. The Cosmology's Dalí reference may have been an early assignment superseded by Turner. |
+| Level 1 (Cosmology) | J.M.W. Turner | Salvador Dalí | RESOLVED: Turner owns the Cosmology level identity (dissolving light, no-outline). Dalí owns the Clockwork Skies and the cosmology gearwork (the Observatory, the Arcana, Freyr's Garden) per the zone audit. Dalí no longer holds the Fae Kingdom. |
 | Level 3 (Main Floor) | Henri Matisse | Van Gogh (Garden) + Picasso (Meadery) | Both valid: Matisse for the Main Floor's overall visual identity (joy, color, flow). Van Gogh and Picasso for specific sub-zones WITHIN the Main Floor (The Garden, The Meadery). No conflict — Matisce is the floor, Van Gogh and Picasso are rooms ON the floor. |
 | Level 5 (Staircase) | M.C. Escher | Henri Matisse | Both valid: Escher for the Staircase's impossible geometry and transformation theme. Matisse appears as the Project Bible's aesthetic guide and may have been the original Staircase assignment. Escher supersedes for the level's core identity. Matisse retained for the Music Room (separate zone). |
 | Level 6 (Catacombs) | Francisco Goya | Klimt "Death and Life" | Both valid: Goya for the Catacombs' intimate dark history and still life drama. Klimt for the Undercity (Level 9) and as a cross-zone texture in the deeper Catacombs sections where Klimt gold thins. The Bone Room is explicitly the O'Keeffe × Klimt collision. No true conflict — Goya is the archive's lens, Klimt is the deep roots' lens. |
-| Level 7 (Fae Kingdom) | Salvador Dalí | Alan Lee (Seelie) + John Bauer (Unseelie) | Both valid: Dalí for the Fae Kingdom's overall surreal dream logic. Lee and Bauer for the specific courts within the kingdom. Dalí is the kingdom's identity; Lee and Bauer are the courts' identities. No conflict — Dalí is the level, Lee and Bauer are rooms WITHIN the level. |
+| Level 7 (Fae Kingdom) | Arthur Rackham | Alan Lee (Seelie) + John Bauer (Unseelie) | RESOLVED (2026-09-04): Rackham is the kingdom's identity (matches zone image zone_L7_faerie_rackham.png). Lee and Bauer hold the courts. Dalí retired from the Fae and holds the Clockwork Skies. Kandinsky retired entirely to the Shadow Inn's Archive of Alternate Versions. |
 
 **Resolution:** The "conflicts" are actually LAYERED assignments, not contradictions. The Facets doc assigns the level's overall visual DNA. The Artist Audit assigns specific zones and sub-zones within or beyond the levels. Both systems coexist.
 
@@ -370,7 +370,7 @@ Same desert, different way of seeing. O'Keeffe strips to form. Dixon honors to s
 | 5 | Albert Bierstadt | Superstition Mountains; Andean Run (secondary); Canadian Rockies (secondary); Badlands (primary); Wall Defense (secondary); Yellowstone Geyser (secondary); Victoria Falls (primary) |
 | 6 | Hieronymus Bosch | ALL cave walls (cross-cutting) |
 | 7 | Emily Carr | Redwood Cathedral; Spiral Gallery Chamber 1; Canadian Rockies (primary); Aurora Borealis (primary); Aurora Falls (primary); Coral Reef Rescue (primary); Iceberg Breaker (primary); Bonsai Garden (secondary); Stone Circle Defender (secondary); Giant's Causeway (primary) |
-| 8 | Salvador Dalí | Fae Kingdom (Facets); Cosmology (Audit — earlier); Alchemical Staircase (secondary) |
+| 8 | Salvador Dalí | Clockwork Skies (canon, 2026-09-04); Observatory/Arcana/Freyr's Garden gearwork; Alchemical Staircase (secondary) |
 | 9 | Maynard Dixon | Colorado Plateau; Easter Island Heads (secondary); Saguaro Bloom (secondary); Superstition Mountains (secondary); Mesa Verde (primary) |
 | 10 | Don't Starve / Tim Burton | Bayou / Buried Cities; Tomb Tunnel (secondary); Tumble Run (secondary) |
 | 11 | Gustave Doré | Cave City |
@@ -378,7 +378,7 @@ Same desert, different way of seeing. O'Keeffe strips to form. Dixon honors to s
 | 13 | Francisco Goya | Catacombs (Facets) |
 | 14 | Hokusai | Mesopotamia; Spiral Gallery Chamber 4; Serpent Steps (secondary); Treasury Match (secondary); Wall Defense (primary); Fuji Blossom (primary); Bonsai Garden (primary) |
 | 15 | Guo Xi | Peru (Andes); Stone Forest (primary) |
-| 16 | Wassily Kandinsky | Clockwork Skies; The Arcana (inherited) |
+| 16 | Wassily Kandinsky | RETIRED (2026-09-04) — original Clockwork Skies mapping, superseded by Dalí. Preserved in the Shadow Inn's Archive of Alternate Versions |
 | 17 | Anselm Kiefer | Spiral Gallery Chamber 5 |
 | 18 | Gustav Klimt | FOUNDATIONAL + Undercity; Tomb Tunnel (primary); Alchemical Staircase (primary); Catacomb Labyrinth (secondary); Crystal Catcher (primary); Music Room (secondary); Stone Library Defender (primary); Monster of the Deep (secondary) |
 | 19 | Edward Gorey | Poison Garden; The Mirrors Seven (inherited) |

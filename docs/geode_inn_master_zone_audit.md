@@ -17,7 +17,7 @@
 | Valhalla | Book of Kells | 8 Einherjar | 84Hz (Shadow Inn entry) | Einherjar recruitment | 84Hz raids | Recruitment contracts | COMPLETE |
 | Freyr's Garden | Dalí | Freyr, Gull-in-bloom | 42Hz growth | — | — | Golden hour seeds | COMPLETE |
 | Spiral Gallery | Escher/Rothko/Kiefer/Martin/Hokusai | (6 chambers, rotating) | Per-chamber | — | — | Chamber-specific art items | COMPLETE |
-| Clockwork Skies | Kandinsky | — | Gearwork frequencies | — | All Hands (gear puzzle) | Planet gears | DESIGNED (needs NPCs) |
+| Clockwork Skies | Dalí | — | Gearwork frequencies | — | All Hands (gear puzzle) | Planet gears | DESIGNED (needs NPCs) |
 
 ### LAYER 2: CANOPY (Top of Tree)
 
@@ -193,7 +193,7 @@
 
 1. **National Parks (3 of 6):** Colorado Plateau, Yellowstone, Superstition Mountains have art style + concept but no named NPCs or quest chains. (Appalachians, Petrified Forest, Redwood are complete.)
 2. **Mesopotamia secondary NPCs:** Gilgamesh and Nisaba are strong; the zone could use 2-3 more named characters.
-3. **Clockwork Skies:** Art style (Kandinsky) and game (All Hands) assigned; no NPCs or quest chain.
+3. **Clockwork Skies:** Art style (Dalí — Kandinsky mapping retired 2026-09-04) and game (All Hands) assigned; no NPCs or quest chain.
 4. **Cultural mini-games (186 remaining):** 5 of 191 world map countries have full game specs. The remaining 186 are world map pins with lore but no individual mini-game.
 5. **Hollow Earth item templates:** 9 districts don't have standalone item template files (items are embedded in prose).
 

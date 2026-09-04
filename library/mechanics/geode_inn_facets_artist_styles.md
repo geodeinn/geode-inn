@@ -12,7 +12,7 @@ Each facet of the Geode Inn — each floor, each zone — is rendered in the vis
 | Artist | Zone | Style Essence |
 |---|---|---|
 | J.M.W. Turner | Cosmology (L1) | Pure light, dissolving forms, the sun |
-| Wassily Kandinsky | Clockwork Skies (L2) | Visual music, geometric abstraction |
+| Salvador Dalí | Clockwork Skies (L2) | Melting gearwork, surreal mechanics |
 | Henri Matisse | Main Floor (L3) | Joy, color, flow, the heart |
 | Alphonse Mucha | Campgrounds (L4) | Art Nouveau, artisanal, decorative |
 | M.C. Escher | Staircase (L5) | Impossible geometry, transformation |
@@ -49,7 +49,11 @@ Each facet of the Geode Inn — each floor, each zone — is rendered in the vis
 
 ---
 
-## LEVEL 2: CLOCKWORK SKIES — WASSILY KANDINSKY
+## LEVEL 2: CLOCKWORK SKIES — SALVADOR DALÍ
+
+> **⚠️ STYLE HISTORY (2026-09-04):** The Kandinsky mapping below was the ORIGINAL Clockwork Skies assignment. It has been superseded by Dalí (canon per Krista) and is preserved here as design history — it lives in the Shadow Inn's Archive of Alternate Versions, the record of the paths the Inn didn't take. The section below is the Kandinsky draft, kept for the Archive.
+
+### KANDINSKY DRAFT (RETIRED) — WASSILY KANDINSKY
 
 **The Artist:** Kandinsky painted MUSIC. His abstract compositions are visual symphonies — geometric shapes (circles, triangles, lines) arranged in relationships like notes in a composition. He theorized that colors and forms have inherent musical equivalents. His paintings ARE frequencies made visible.
 
@@ -154,7 +158,11 @@ Each facet of the Geode Inn — each floor, each zone — is rendered in the vis
 
 ---
 
-## LEVEL 7: FAERIE KINGDOM — SALVADOR DALÍ
+## LEVEL 7: FAERIE KINGDOM — ARTHUR RACKHAM
+
+> **⚠️ STYLE HISTORY (2026-09-04):** The Dalí mapping below was the ORIGINAL Faerie Kingdom assignment. The Fae now live in Rackham's ink-and-watercolor (courts: Alan Lee on Seelie, John Bauer on Unseelie), matching the zone image. Dalí moved upstairs to the Clockwork Skies. The Dalí draft below is preserved as design history for the Shadow Inn's Archive of Alternate Versions.
+
+### DALÍ DRAFT (RETIRED) — SALVADOR DALÍ
 
 **The Artist:** Dalí's surrealism — melting forms, dream logic, impossible landscapes, precise technique applied to impossible subjects. "The Persistence of Memory" — clocks melting. "The Elephants" — impossibly long legs. Dalí paints DREAMS with the precision of a realist.
 
@@ -304,12 +312,12 @@ Each facet of the Geode Inn — each floor, each zone — is rendered in the vis
 | Level | Artist | Status |
 |---|---|---|
 | 1. Cosmology | J.M.W. Turner | ✅ Complete — pure light, dissolving forms |
-| 2. Clockwork Skies | Wassily Kandinsky | ✅ Complete — visual music, geometric abstraction |
+| 2. Clockwork Skies | Salvador Dalí | ✅ Complete — melting gearwork, the machine that dreams |
 | 3. Main Floor | Henri Matisse | ✅ Complete — joy, color, flow |
 | 4. Campgrounds | Alphonse Mucha | ✅ Complete — Art Nouveau, artisanal, decorative |
 | 5. Staircase | M.C. Escher | ✅ Complete — impossible geometry, transformation |
 | 6. Catacombs | Francisco Goya | ✅ Complete — dark, intimate, weight of history |
-| 7. Faerie Kingdom | Salvador Dalí | ✅ Complete — surreal, dreamlike, metamorphosis |
+| 7. Faerie Kingdom | Arthur Rackham | ✅ Complete — ink + watercolor fairy-tale enchantment (courts: Lee/Bauer) |
 | 8. Water Zone | Vampire Hunter D (Gothic Anime) | ✅ Complete (existing) — gothic anime, bioluminescent |
 | 9. Undercity | Gustav Klimt | ✅ Complete (existing) — gothic stone with Klimt gold (STRUCTURAL STAPLE) |
 | Hollow Earth | Georgia O'Keeffe | ✅ Complete — pure form, luminous, stripped to essence |

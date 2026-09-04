@@ -95,7 +95,7 @@ There are 9 cultural platforms in the Canopy City. Each is a trading post + lore
 - **The Platform Gate:** The exit point to the World Grid region. Selecting this sends the player to that region's World Grid zone for gathering.
 
 ### Platform Visual Style
-- Each platform is rendered in the Kandinsky aesthetic (Clockwork Skies zone) — geometric compositions with cultural accent colors
+- Each platform is rendered in the Rackham aesthetic (Canopy City zone) — ink + watercolor with cultural accent colors (Kandinsky mapping retired 2026-09-04)
 - Celtic = green/gold geometric knots. Norse = blue/silver angular forms. Egyptian = gold/lapis triangles. Mesopotamian = ochre/brown zigurats. East Asian = jade/red circles. South Asian = saffron/indigo mandalas. Andean = terracotta/green stepped patterns. African = earth-tone woven bands. Oceanic = ochre/red desert spirals.
 - Each platform is a circular landing pad in the Canopy City, connected to others by the Silk Road route lines (golden threads).
 
@@ -132,7 +132,7 @@ There are 9 cultural platforms in the Canopy City. Each is a trading post + lore
 The Canopy City (Clockwork Skies, Level 2). A small observation platform with maps, charts, and instruments.
 
 ### Visual
-Kandinsky-style geometric figure — angular, precise. Carries a compass that's a small crystal on a chain. The Cartographer is rendered in sharp/angular lines (guardian style — a keeper of knowledge, not a trader).
+Rackham-style ink figure — angular, precise pen lines. Carries a compass that's a small crystal on a chain. The Cartographer is rendered in sharp/angular lines (guardian style — a keeper of knowledge, not a trader).
 
 ### Quest: "The Map That Hears"
 - The Cartographer gives the player a stone-compass (a raw crystal item that vibrates near ley lines)
@@ -191,14 +191,14 @@ Add a charge field to either the Stone entity or create a new PlayerStone entity
   - Sacred Site: a deep resonant hum (the node's concentrated energy)
 
 ### The Cartographer's Theme
-- A quiet, precise melody on a music box / celesta — the sound of measurement, calculation, mapping. Kandinsky translated to sound: geometric musical phrases.
+- A quiet, precise melody on a music box / celesta — the sound of measurement, calculation, mapping. Ink lines translated to sound: precise, spare musical phrases.
 
 ---
 
 ## 7. VISUAL STYLE
 
 ### The Canopy City (where platforms live)
-- Kandinsky aesthetic — geometric shapes floating in a sky-blue void. Each platform is a colored circle. Routes between them are golden threads (the ley lines).
+- Rackham aesthetic — living-wood circular platforms floating in watercolor sky. Each platform is a colored glade. Routes between them are golden threads (the ley lines).
 
 ### The Caravan Journey
 - The route is shown as a golden thread on a Monet impressionist landscape. The caravan is a small icon (a figure with a pack animal) moving along the thread. The landscape shifts as the caravan moves through different regions — desert gives way to forest, forest to mountains, mountains to coast.
