@@ -87,6 +87,17 @@ Small, dark beetles that click and chatter in the rafters. Their clicking sounds
 ### M11. Pipe Wisps (Bonus)
 Tiny smoke-creatures that drift from Monsieur Sentient's bowl. They are the pipe's opinions made visible — when Sentient is amused, they form question marks. When displeased, they form thorns. Brim swats them. They reform. They are semi-sentient — they react to the conversation around them, changing shape based on the emotional register of nearby dialogue. The Teacher has tried to classify them. They defy classification. They are smoke that thinks.
 
+### M13. Marginalia (Bonus)
+The only rejected design that ever climbed out of the Shadow Inn's Archive of Alternate Versions. Marginalia began as a portrait prototype of Lozen — one of many drafts passed on and retired to the Archive. It did not stay retired. It walked out of its own sketch, across the Main Floor, and sat down at the nearest table, and nobody has had the heart to file it back.
+
+A cat (roughly), with a boxer's squint and a shadow of the Sentinel's stance — you can see which draft it came from, if you look. It pretends not to notice you looking.
+
+Marginalia never speaks, and never needs to. Its entire communication system is facial expression: the half-lidded judgment, the slow blink of reluctant approval, and the full yogurt stare — first documented during Strip Zero, when it witnessed the Greek Yogurt Accord from the corner of the table and its face became the official record of the proceedings.
+
+It appears in every issue of the Gazette, never acknowledged by the other characters, reacting silently to whatever happens. The comic doesn't explain it. Neither does Marginalia. The monks drew cats in the margins of manuscripts for centuries; Marginalia drew itself. It answers to "Margin" only when in trouble — which is frequently, because it has opinions about everything and a face that cannot lie.
+
+Lozen has seen it. Lozen has said nothing. There is a respect there, between the one who was chosen and the one who chose itself.
+
 ### M12. Garden Snail-Sprites (Bonus)
 Tiny snails with crystalline shells that live in the Catalyst's garden. Their shells grow based on the stories planted nearby — a garden plot with a love story grows snails with heart-shaped shells. A grief plot grows snails with dark, spiraling shells. They are the garden's living record — you can read the garden's emotional history by looking at the snails. The Catalyst never moves them. They are part of the garden's memory, and the garden remembers everything.
 
