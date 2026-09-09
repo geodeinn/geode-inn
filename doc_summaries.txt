@@ -18,7 +18,7 @@ Character Count: 60,626 characters
 Description:
 A structured character directory and roster organized by realm, family starting classes, and spatial layers within Geode Inn. Key contents include:
 - Realm Organization: Asgard (Cosmology), Vanaheim (Seasonal Wing), Alfheim (Seelie Court), Midgard (Main Floor), The Dock (Water Layer), Hel/Helheim (Deep Stone Circle), Svartalfheim (Unseelie Court), Miskatonic Annex (Grounds), Muspelheim, Nidavellir, Jotunheim, and Niflheim.
-- Character Profiles & Quests: Detailed voice profiles, frequency associations (e.g., 432Hz), modes, and quests for figures like Odin, The Caller Gargoyle, The Gardener, Nyx, The Astronomer, The Guest, Madame, Charon, Persephone & Hades, Asterion, Jareth's Labyrinth, The Morrigan, and the Queens of Webs/Roots/Words.
+- Character Profiles & Quests: Detailed voice profiles, frequency associations (e.g., 432Hz), modes, and quests for figures like Odin, The Caller Gargoyle, The Gardener, Nyx, The Astronomer, The Guest, Madame, Charon, Persephone & Hades, Asterion, Malachi's Labyrinth, The Morrigan, and the Queens of Webs/Roots/Words.
 - Family Character Classes: Specifications for player/NPC starting classes.============================================================
 
 Document: Document (1).docx (document_1.txt)

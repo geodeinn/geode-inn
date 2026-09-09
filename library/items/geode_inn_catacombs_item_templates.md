@@ -238,7 +238,7 @@ The earth teaches by weight. The player builds by carving, then preserving.
 
 ## Five-Zone Comparison
 
-| Aspect | Undercity (Scarlett) | Hearth (Firekeeper) | Water (Andra) | Cosmology (Allfather) | Catacombs (Crone) |
+| Aspect | Undercity (Scarlett) | Hearth (Firekeeper) | Water (Katya) | Cosmology (Allfather) | Catacombs (Crone) |
 |--------|---------------------|---------------------|---------------|----------------------|-------------------|
 | **Light** | Crafted (crystal) | Alive (fire) | Living (bio) | Celestial (stars) | Scarce (oil/foxfire) |
 | **Energy** | Private | Communal | Flowing | Vast | Heavy, archival |

@@ -97,7 +97,7 @@ The dream-animals see the dynamic clearly. The animals, who are the forest's qua
 
 ### The Unseelie King's Observation
 
-The brothers' love letters. The Unseelie King (Bowie/Jareth) watches from across the dream world and comments on the King and Queen's dynamic with the theatrical delight of someone who finds other people's romantic tension endlessly entertaining:
+The brothers' love letters. The Unseelie King (Bowie/Malachi) watches from across the dream world and comments on the King and Queen's dynamic with the theatrical delight of someone who finds other people's romantic tension endlessly entertaining:
 
 "...Dearest brother, your weather report mentioned 'the eastern flet is growing again' and I must say — the tone! The restrained irritation! The carefully controlled fury of a man who is watching someone he admires do something he disapproves of and cannot look away. I recognize the symptoms. I built a Labyrinth for similar reasons. You might consider building something. Walls are excellent for feelings you haven't processed. ...Your Queen sounds... magnificent. ...The bark-laugh! You described a bark-laugh! Brother, you are *doomed.* ...I look forward to meeting her. ...Tell the fox I said hello. ...Your weather?"
 

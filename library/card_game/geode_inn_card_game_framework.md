@@ -118,7 +118,7 @@ The Inn's zones and geological features, which generate frequency mana:
 | **Wandering** | The Wayfarer / Parks | This card can move to an adjacent board lane once per turn. |
 | **Threshold** | Persephone / Hades | This card gains power each turn it remains in play. At a threshold count, it transforms into a more powerful version. |
 | **Vessel** | The crested gecko | This card holds a "formula" — at any point, you may reveal the formula to trigger a powerful effect, but the card is then silenced. |
-| **Brim** | Brim | Once per game, you may "break the formula" — ignore all card text on this card and replace it with a random effect. |
+| **Madame Mimm** | Madame Mimm | Once per game, you may "break the formula" — ignore all card text on this card and replace it with a random effect. |
 | **Mirror** | Merlin / Magritte | This card copies the text of a target card. The copy is an illusion — if the opponent targets it, it is revealed as a mirror (the original effect triggers, not the copy). |
 | **Observer** | Einstein | While this card is in play, all hidden information is revealed (both players' hands are visible). |
 | **Ferry** | Charon | Once per turn, move one card from your discard pile to your hand. The cost: pay 1 frequency mana. |
@@ -300,8 +300,8 @@ Rarity: Epic
 Frequency: SONG (1) + SILENCE (1) — Total cost: 2
 Type: Character — Companion — Trickster
 Presence: 2 | Resonance: 2 | Cadence: Immediate
-Abilities: Brim
-Special: **"But what if we did the fun wrong version?"** — Once per game, Brim may target any card in play (including your own) and replace its text with a randomly selected ability from a pool. The replaced card retains its stats. The breaking is: the adequate.
+Abilities: Madame Mimm
+Special: **"But what if we did the fun wrong version?"** — Once per game, Madame Mimm may target any card in play (including your own) and replace its text with a randomly selected ability from a pool. The replaced card retains its stats. The breaking is: the adequate.
 Flavor text: *"The agent of chaos who rides a Magritte-inspired pipe."*
 Rarity: Epic
 
@@ -634,7 +634,7 @@ Rarity: Legendary
 Frequency: SONG (2) + SILENCE (1) — Total cost: 3
 Type: Character — Player Class — Changeling
 Presence: 2 | Resonance: 3 | Cadence: Immediate
-Abilities: Brim, Threshold
+Abilities: Madame Mimm, Threshold
 Special: **Annoyance Meter** — Each time the Weeaboo is targeted by an opponent, place an "Annoyance" counter. At each level:
 - Level 0: Human-passing (no effect)
 - Level 1: +1 Presence

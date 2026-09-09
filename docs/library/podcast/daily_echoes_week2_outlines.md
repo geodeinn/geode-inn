@@ -29,7 +29,7 @@ The episode is about recovery as a heroic act. Waystone doesn't fight. Waystone 
 ## Episode 8: "The Siren and the Autoimmune War"
 **Duration:** 15 minutes | **Zone:** The Siren's Coast (z33) | **Artist:** Waterhouse
 
-Andra — The Siren — lives on the coast where the water meets the stone. Andra's body attacks itself. The immune system, designed to protect, has turned. The Siren's song is not luring sailors to their doom — it's the sound of a body at war with itself, the frequency of self-destruction mistaken for self-preservation.
+Katya — The Siren — lives on the coast where the water meets the stone. Katya's body attacks itself. The immune system, designed to protect, has turned. The Siren's song is not luring sailors to their doom — it's the sound of a body at war with itself, the frequency of self-destruction mistaken for self-preservation.
 
 The episode reframes autoimmune disease as a civil war inside a country that doesn't know it's fighting itself. The Siren doesn't want to sing the destructive song. The Siren's body sings it without permission. The most terrifying part: the defense system is doing exactly what it was designed to do. It just identified the wrong threat.
 
@@ -42,11 +42,11 @@ The episode reframes autoimmune disease as a civil war inside a country that doe
 ## Episode 9: "The Pirate and the Caregiver's Compass"
 **Duration:** 15 minutes | **Zone:** The Campgrounds (z10) | **Artist:** Bierstadt/Carr
 
-Zee — The Pirate — navigates not by stars but by the needs of others. The Pirate's compass doesn't point north; it points toward whoever needs help most. This episode is about caregiving as navigation — the way a caregiver's entire orientation shifts to center on the person they're caring for, and how that shift, while heroic, can also cause the caregiver to lose their own coordinates.
+Zeke — The Pirate — navigates not by stars but by the needs of others. The Pirate's compass doesn't point north; it points toward whoever needs help most. This episode is about caregiving as navigation — the way a caregiver's entire orientation shifts to center on the person they're caring for, and how that shift, while heroic, can also cause the caregiver to lose their own coordinates.
 
-Zee sits by the campfire and talks about the night the compass broke — the moment when the person being cared for was gone and the compass kept spinning, pointing at everything and nothing. The Pirate who could navigate any storm couldn't navigate an empty room.
+Zeke sits by the campfire and talks about the night the compass broke — the moment when the person being cared for was gone and the compass kept spinning, pointing at everything and nothing. The Pirate who could navigate any storm couldn't navigate an empty room.
 
-**Audio:** Campfire sounds. Wind in trees. The compass clicking — a metronomic tick at 50 BPM that becomes erratic when the compass breaks, then slows to silence. When Zee finds a new direction (helping another traveler), the tick returns, steady and sure.
+**Audio:** Campfire sounds. Wind in trees. The compass clicking — a metronomic tick at 50 BPM that becomes erratic when the compass breaks, then slows to silence. When Zeke finds a new direction (helping another traveler), the tick returns, steady and sure.
 
 **Inn Mode DSP:** Room Profile 5 (The Loch) — the water reflection, the sense of looking at yourself through someone else's surface.
 

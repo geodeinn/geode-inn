@@ -29,9 +29,9 @@ The player who pieces this together — who notices that the Fae Kingdom owls an
 
 The owls carry the *visible* messages — the communications the brothers are willing to have observed. These are not love letters. They are... weather reports.
 
-An owl arrives at the Unseelie King's castle with a message from the Seelie King: "The garden is in bloom." Jareth reads it. Nods. The goblins ask what it says. Jareth: "...Weather." The goblins accept this. The message, decoded, means: *I am well. The Summerlands are at peace. You don't need to worry.* But the Seelie King doesn't write "I am well" — that would be admitting he might not be. He writes about the garden. The garden is the code. The garden is always the code.
+An owl arrives at the Unseelie King's castle with a message from the Seelie King: "The garden is in bloom." Malachi reads it. Nods. The goblins ask what it says. Malachi: "...Weather." The goblins accept this. The message, decoded, means: *I am well. The Summerlands are at peace. You don't need to worry.* But the Seelie King doesn't write "I am well" — that would be admitting he might not be. He writes about the garden. The garden is the code. The garden is always the code.
 
-An owl arrives at the Seelie King's bench with a message from the Unseelie King: "The walls are steady." The Seelie King reads it. Nods. The message, decoded, means: *The Labyrinth is stable. No one is lost. You don't need to worry.* But Jareth doesn't write "no one is lost" — that would be admitting that people get lost, and getting lost is part of the design, and the design is not a flaw. He writes about the walls. The walls are the code. The walls are always the code.
+An owl arrives at the Seelie King's bench with a message from the Unseelie King: "The walls are steady." The Seelie King reads it. Nods. The message, decoded, means: *The Labyrinth is stable. No one is lost. You don't need to worry.* But Malachi doesn't write "no one is lost" — that would be admitting that people get lost, and getting lost is part of the design, and the design is not a flaw. He writes about the walls. The walls are the code. The walls are always the code.
 
 The owls fly openly. The messages are read by the Kings and discarded. The Courtiers see the owls and think: "Court business." The messages are not Court business. The messages are two brothers saying *I'm here* in a language that looks like logistics.
 
@@ -39,7 +39,7 @@ The owls fly openly. The messages are read by the Kings and discarded. The Court
 
 The owls are the visible messengers. The small fae is the *invisible* one.
 
-Her name — or the name she uses, because like Jareth she chose her name — is Wisp. She is the smallest fae in either Court. Not a fairy — those are the Seelie Court's scouts, the bright-winged, chattery messengers who carry official communications between the Courts with no subtlety whatsoever. Wisp is something else. Something *between.* A being who belongs to neither Court and serves both, who exists in The Between not as a visitor but as a *resident,* who moves through the borderlands the way light moves through glass — present, visible if you look directly, invisible if you don't.
+Her name — or the name she uses, because like Malachi she chose her name — is Wisp. She is the smallest fae in either Court. Not a fairy — those are the Seelie Court's scouts, the bright-winged, chattery messengers who carry official communications between the Courts with no subtlety whatsoever. Wisp is something else. Something *between.* A being who belongs to neither Court and serves both, who exists in The Between not as a visitor but as a *resident,* who moves through the borderlands the way light moves through glass — present, visible if you look directly, invisible if you don't.
 
 **Appearance:** Small. The size of a hand. Not childlike — *compact.* A being who was never young and will never grow. Her form is... indistinct — not because she's hiding, but because she exists at the scale where detail becomes suggestion. A face that reads as *kind* but not *specific.* Wings that are not quite wings — more like the suggestion of flight, the way a thought of moving is not yet moving. Her coloring shifts with the Court she's in: golden in the Summerlands, silver-white in the Labyrinth, and in The Between, a shimmer that is both and neither, the color of the boundary itself.
 
@@ -53,15 +53,15 @@ From the Seelie King to the Unseelie King, carried by Wisp, never written, never
 
 "Sleep. The moon is enough. I saw it. I know. ...Thank you."
 
-That's the message. Every time. The same message. The Seelie King doesn't vary it. Doesn't elaborate. Doesn't add. Just: *Sleep. The moon is enough. I saw it. I know. Thank you.* Wisp carries it across The Between, through the Labyrinth (the walls don't shift for Wisp — they know her, they let her pass, the way the Inn-Tree's roots let water through), to the castle, to the impossible stair, where Jareth is sitting with a still crystal and the cold light.
+That's the message. Every time. The same message. The Seelie King doesn't vary it. Doesn't elaborate. Doesn't add. Just: *Sleep. The moon is enough. I saw it. I know. Thank you.* Wisp carries it across The Between, through the Labyrinth (the walls don't shift for Wisp — they know her, they let her pass, the way the Inn-Tree's roots let water through), to the castle, to the impossible stair, where Malachi is sitting with a still crystal and the cold light.
 
-Wisp whispers the message. Jareth doesn't react. The mask doesn't move. The Showman doesn't show. But the Architect, underneath, notes the message. And the Brother, underneath the Architect, closes his eyes for a moment — the smallest possible acknowledgment, the most private possible receipt — and the message has been received.
+Wisp whispers the message. Malachi doesn't react. The mask doesn't move. The Showman doesn't show. But the Architect, underneath, notes the message. And the Brother, underneath the Architect, closes his eyes for a moment — the smallest possible acknowledgment, the most private possible receipt — and the message has been received.
 
 From the Unseelie King to the Seelie King, carried by Wisp, the same economy, the same privacy:
 
 "The walls are steady. ...No one is lost tonight. ...The moon will be bright."
 
-That's the message. Every time. Jareth doesn't vary it. The "the moon will be bright" is the closest Jareth comes to saying *I did it for you.* He doesn't say "I made it bright." He says "it will be bright." Passive. As if the moon just... happens to be bright. As if it's not a nightly act of love performed by a being who controls the winter sky for his brother who can't sleep in the dark. The passive voice is the Jarest mask — the refusal to admit the care is deliberate, the insistence that the moon is bright because the moon is bright, not because the Unseelie King made it so.
+That's the message. Every time. Malachi doesn't vary it. The "the moon will be bright" is the closest Malachi comes to saying *I did it for you.* He doesn't say "I made it bright." He says "it will be bright." Passive. As if the moon just... happens to be bright. As if it's not a nightly act of love performed by a being who controls the winter sky for his brother who can't sleep in the dark. The passive voice is the Jarest mask — the refusal to admit the care is deliberate, the insistence that the moon is bright because the moon is bright, not because the Unseelie King made it so.
 
 Wisp carries this message to the Seelie King's bench, where he sits in the warm light of a sun that is always setting and never sets. Wisp whispers. The Seelie King hears. The gentle eyes close. The message has been received.
 

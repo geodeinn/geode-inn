@@ -524,7 +524,7 @@ Everything after the majors: ambient creatures, playable water monsters, compani
 <td><b>Shadow (84Hz)</b><br/><img src="https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/1e74e5b60_generated_image.png" width="190" alt=""/><br/><code>generated_image.png</code></td>
 </tr></table>
 <hr/>
-### River (Lozen)
+### Lozen (Lozen)
 
 *Zone: Player/The Sentinel*
 

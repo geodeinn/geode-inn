@@ -1,20 +1,20 @@
 # Geode Inn — Interactive Item Templates: Water Zone
-## Based on Andra's Cove (Architectural Template)
+## Based on Katya's Cove (Architectural Template)
 
 ### Design Philosophy
-The Water Zone is alive. Where the Hearth is fire and the Undercity is stone, the Water Zone is a living organism. The light breathes. The walls are wet. The currents move everything. Andra's cove teaches players that water is not a barrier — it's a medium. You don't build IN the water. You build WITH it.
+The Water Zone is alive. Where the Hearth is fire and the Undercity is stone, the Water Zone is a living organism. The light breathes. The walls are wet. The currents move everything. Katya's cove teaches players that water is not a barrier — it's a medium. You don't build IN the water. You build WITH it.
 
 ---
 
 ## Material Palette (Water)
 | Material | Source | Properties |
 |----------|--------|------------|
-| Tidal Stone | Andra's walls | Slick, smooth, shaped by water flow. No sharp edges. Dark blue-gray. |
+| Tidal Stone | Katya's walls | Slick, smooth, shaped by water flow. No sharp edges. Dark blue-gray. |
 | Bioluminescent Organisms | Wall colonies | Living light source. Blue, green, purple, pale gold. Pulse like heartbeats. |
 | Coral | Reef growth | Organic decoration. Grows over time. Can be shaped. |
-| Pearl and Shell | Andra's collection | Decorative. Sound-sensitive (resonates with the sonic system). |
+| Pearl and Shell | Katya's collection | Decorative. Sound-sensitive (resonates with the sonic system). |
 | Driftwood | Floating furniture | Buoyant. Weighed with stones. Waterlogged but stable. |
-| Kelp and Sea Grass | Andra's bedding/curtains | Living fabric. Grows and sways. Provides privacy without walls. |
+| Kelp and Sea Grass | Katya's bedding/curtains | Living fabric. Grows and sways. Provides privacy without walls. |
 | Deep Glass | Pressure-formed natural glass | Transparent barriers. Rare. Found in deep vents. |
 | Abalone | Mirror surfaces | Iridescent reflective surface. Water-formed. |
 | Thermal Stone | Vent-adjacent stone | Warm. Found near thermal vents. The only warm stone in the zone. |
@@ -41,11 +41,11 @@ Bioluminescence + current = the light moves through the space in flowing ribbons
 ## Furniture Templates (Water)
 
 ### 1. Kelp-Woven Sleeping Hollow
-**Based on:** Andra's bed alcove
+**Based on:** Katya's bed alcove
 **Description:** A concave depression carved into smooth tidal stone, lined with soft kelp and sea grass, draped with living seaweed curtains that sway with the current.
 **Materials:** Tidal stone (structure), kelp and sea grass (lining), seaweed (curtains)
 **Variants:**
-- Shallow hollow (single occupant, Andra's style — a nest in the stone)
+- Shallow hollow (single occupant, Katya's style — a nest in the stone)
 - Deep hollow (recessed, insulated by water flow)
 - Shared hollow (wide, multiple depressions — family sleeping)
 **Interactive Properties:**
@@ -56,7 +56,7 @@ Bioluminescence + current = the light moves through the space in flowing ribbons
 - Current strength affects sleep quality (gentle current = best rest)
 
 ### 2. Floating Driftwood Table
-**Based on:** Andra's low table
+**Based on:** Katya's low table
 **Description:** A low table made of waterlogged driftwood, weighted with stones so it floats at a stable height just below the water surface. Items placed on it sit at water level.
 **Materials:** Driftwood, stone weights
 **Variants:**
@@ -70,7 +70,7 @@ Bioluminescence + current = the light moves through the space in flowing ribbons
 - Drifting variant: items placed on it slowly travel around the room — some players use this for meditation
 
 ### 3. Abalone Mirror
-**Based on:** Andra's small mirror
+**Based on:** Katya's small mirror
 **Description:** A mirror made of polished abalone shell, set in a coral or stone frame. The reflection is iridescent — colors shift depending on angle.
 **Materials:** Abalone, coral or stone frame
 **Variants:**
@@ -84,7 +84,7 @@ Bioluminescence + current = the light moves through the space in flowing ribbons
 - Sound: tapping the abalone produces a faint, resonant note (the sonic system — shells have frequencies)
 
 ### 4. Shell Shelf
-**Based on:** Andra's collection shelf
+**Based on:** Katya's collection shelf
 **Description:** Natural stone shelves where shells, pearls, and found objects are displayed. Shelves are carved into the wall or built from coral growth.
 **Materials:** Tidal stone or coral
 **Variants:**
@@ -98,7 +98,7 @@ Bioluminescence + current = the light moves through the space in flowing ribbons
 - Shells placed here resonate with the sonic system (each shell has a frequency)
 
 ### 5. Pearl String
-**Based on:** Andra's ceiling decorations
+**Based on:** Katya's ceiling decorations
 **Description:** Strings of pearls and crystals hanging from the ceiling, swaying gently with the current.
 **Materials:** Pearl, crystal, kelp cord
 **Variants:**
@@ -113,11 +113,11 @@ Bioluminescence + current = the light moves through the space in flowing ribbons
 - Players can add their own found pearls and crystals (the string grows)
 
 ### 6. Water Jewel Workstation
-**Based on:** Andra's small anvil and tools
+**Based on:** Katya's small anvil and tools
 **Description:** A jeweler's workstation adapted for underwater use. The anvil is coral-shaped, the tools are bone and shell, the work surface is abalone.
 **Materials:** Coral (anvil), bone and shell (tools), abalone (surface), stone (base)
 **Variants:**
-- Siren's Station (full setup — anvil, tools, surface, storage — Andra's level)
+- Siren's Station (full setup — anvil, tools, surface, storage — Katya's level)
 - Travel Kit (portable — bone tools and abalone surface only)
 - Community Station (shared, larger, multiple work positions)
 **Interactive Properties:**
@@ -209,7 +209,7 @@ Bioluminescence + current = the light moves through the space in flowing ribbons
 5. **Things grow.** Coral grows. Kelp grows. Bioluminescent colonies spread. The Water Zone is the only zone where the building materials reproduce on their own. Patience is rewarded.
 6. **Depth = temperature = status.** Shallow = warm, bright, public. Deep = cold, dark, private. Thermal vents = the rare warm spots in the deep. Building near a vent is premium real estate.
 7. **Sound travels far.** The sonic system is amplified underwater. Stone frequencies carry further and clearer. The Water Zone is the best place to HEAR the Inn's music. Privacy requires distance, not walls.
-8. **The Siren is the source.** Andra's cove is the deepest, oldest, most established home in the water zone. All water zone building knowledge flows from the Siren. The Siren is the template. The Siren is the water.
+8. **The Siren is the source.** Katya's cove is the deepest, oldest, most established home in the water zone. All water zone building knowledge flows from the Siren. The Siren is the template. The Siren is the water.
 
 ---
 
@@ -217,7 +217,7 @@ Bioluminescence + current = the light moves through the space in flowing ribbons
 1. Player discovers the entrance to the water zone (a submerged passage in the catacombs or a pool on the main floor)
 2. Enters the water — first experience of submerged movement and breathing
 3. The light is overwhelming — bioluminescence everywhere, shifting, alive, beautiful
-4. Discovers Andra's cove (NPC home — the template example)
+4. Discovers Katya's cove (NPC home — the template example)
 5. Observes the materials, lighting, furniture, and the way current shapes everything
 6. Receives basic water build tools: tidal stone, kelp, basic bioluminescent starter colony
 7. Builds a basic hollow — bare, dark, still water, no current
@@ -235,7 +235,7 @@ The water teaches by flow. The player builds by shaping, then growing.
 
 ## Three-Zone Comparison
 
-| Aspect | Undercity (Scarlett) | Hearth (Firekeeper) | Water (Andra) |
+| Aspect | Undercity (Scarlett) | Hearth (Firekeeper) | Water (Katya) |
 |--------|---------------------|---------------------|---------------|
 | **Light** | Crafted (crystal, fairy lights) | Alive (fire) | Living (bioluminescence) |
 | **Energy** | Private, introverted | Communal, extroverted | Flowing, meditative |

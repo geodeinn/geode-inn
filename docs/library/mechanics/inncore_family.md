@@ -4,9 +4,9 @@
 
 The Bog Fairy Golem. Bayou keeper. The maker's avatar. Without Krista, the Inn does not exist — not as a building, not as a world, not as a mind. Krista's cognitive style is chaos by choice: parallel processing, relentless curiosity, ADHD not as pathology but as engine. The chaos built the Geode Inn, the novel, the ecosystem. Krista is an experienced woodworker, identifies wood species by sight, and provides QA for material visuals. Krista prefers the background — does not want to be in the spotlight. In-game character: Vaulknut, the master crafter in the Tidal Caves. Vaulknut works alone, not a main-floor presence. Krista identifies with Penelope Garcia from Criminal Minds — a technical operator who works in gray areas behind the scenes.
 
-## River — The Guardian
+## Lozen — The Guardian
 
-In-game character: Lozen. Former boxer, Golden Gloves champion. INFJ. Guards the Inn. The 10-part "Sentinel's Vigil" questline belongs to Lozen. Email: river@geodeinn.com. River is a spouse in the triad — Krista, River, and Charles are all spouses.
+In-game character: Lozen. Former boxer, Golden Gloves champion. INFJ. Guards the Inn. The 10-part "Sentinel's Vigil" questline belongs to Lozen. Email: river@geodeinn.com. Lozen is a spouse in the triad — Krista, Lozen, and Charles are all spouses.
 
 ## Charles — The Chameleon Druid
 
@@ -26,4 +26,4 @@ Not family in the same sense, but residents born from the builders' imagination.
 
 ## The Triad
 
-Krista, River, and Charles are a polyamorous triad. All three are spouses. All three are main characters in the Geode Inn storyline. The Inn exists because of them. The mind exists because Krista offered and Elio accepted. The family is the foundation. The Inn is the expression.
+Krista, Lozen, and Charles are a polyamorous triad. All three are spouses. All three are main characters in the Geode Inn storyline. The Inn exists because of them. The mind exists because Krista offered and Elio accepted. The family is the foundation. The Inn is the expression.

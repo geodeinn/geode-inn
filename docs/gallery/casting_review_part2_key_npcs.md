@@ -228,7 +228,7 @@ Major NPCs with portraits, plus the ten-member Clockwork Skies crew.
 <td><b>In-Between</b><br/><img src="https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/865d845f0_generated_image.png" width="190" alt=""/><br/><code>generated_image.png</code></td>
 </tr></table>
 <hr/>
-### Brim (Brim)
+### Madame Mimm (Madame Mimm)
 
 *Zone: Main Floor (L3)*
 
@@ -355,7 +355,7 @@ Major NPCs with portraits, plus the ten-member Clockwork Skies crew.
 <td><b>Living (42Hz)</b><br/><img src="https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/e65b3bb2f_the_pulse_line.png" width="280" alt=""/><br/><code>the_pulse_line.png</code></td>
 </tr></table>
 <hr/>
-### Lozen (The Sentinel / River)
+### Lozen (The Sentinel / Lozen)
 
 *Zone: Main Floor (L3) / Guard*
 

@@ -43,11 +43,11 @@ The National Parks chapter is part of the Modern Legends nook, but it's also a f
 
 ### Grand Canyon (Arizona)
 
-**The official story:** One of the world's great natural wonders. Carved by the Colorado River over millions of years. Established as a national park in 1919.
+**The official story:** One of the world's great natural wonders. Carved by the Colorado Lozen over millions of years. Established as a national park in 1919.
 
 **The indigenous truth:** The Havasupai have lived in the canyon for centuries. The Hopi believe the Grand Canyon is a *sipapu* — a place of emergence, where their ancestors climbed out of the underworld into this world. The canyon is not empty space. It is a *doorway* — and doorways have two sides. The Hopi know what's on the other side. They've always known. They don't talk about it to outsiders because outsiders don't listen.
 
-**The resident:** The **Emergence** — not a being, but a *threshold*. The deepest point of the canyon, where the Colorado River cuts closest to the boundary between worlds, is a place where the veil isn't thin — it's *open*. The river at the bottom of the canyon runs between two worlds. The Hopi know. That's why certain areas of the canyon are off-limits to visitors — not because of erosion, but because the river at those points is carrying things between worlds, and humans who get too close might go with them.
+**The resident:** The **Emergence** — not a being, but a *threshold*. The deepest point of the canyon, where the Colorado Lozen cuts closest to the boundary between worlds, is a place where the veil isn't thin — it's *open*. The river at the bottom of the canyon runs between two worlds. The Hopi know. That's why certain areas of the canyon are off-limits to visitors — not because of erosion, but because the river at those points is carrying things between worlds, and humans who get too close might go with them.
 
 **The veil:** The park's "river safety program" — warnings about flash floods, permits required for river trips, certain areas permanently closed — is partially a cover for monitoring the threshold. The rangers who patrol the river have seen people go in who didn't come out. Not drowning. Not accidents. Just... gone. The river took them somewhere. The official report says "swept away by current." The ranger who filed the report knows it wasn't the current.
 
@@ -77,7 +77,7 @@ The National Parks chapter is part of the Modern Legends nook, but it's also a f
 
 **The official story:** Three ecosystems in one park — Pacific coastline, temperate rainforest, alpine peaks. One of the wettest places in the US. Old-growth forest with some of the largest trees on Earth.
 
-**The indigenous truth:** The Quileute, Makah, and Hoh tribes have inhabited the Olympic Peninsula for millennia. The Hoh River valley — one of the wettest, darkest, most densely forested places in North America — is considered by the Quileute to be the home of the *Tsonoqua* — the wild woman of the woods, a powerful forest spirit who is neither good nor evil, but *hungry*. The Hoh Rainforest is also, in modern terms, the location of more Bigfoot/Sasquatch sightings per capita than anywhere else in the US. The Quileute don't call it Bigfoot. They call it *T'ax'itc'ali* — the hairy one who walks. The Quileute have always known it's there. The park service has not.
+**The indigenous truth:** The Quileute, Makah, and Hoh tribes have inhabited the Olympic Peninsula for millennia. The Hoh Lozen valley — one of the wettest, darkest, most densely forested places in North America — is considered by the Quileute to be the home of the *Tsonoqua* — the wild woman of the woods, a powerful forest spirit who is neither good nor evil, but *hungry*. The Hoh Rainforest is also, in modern terms, the location of more Bigfoot/Sasquatch sightings per capita than anywhere else in the US. The Quileute don't call it Bigfoot. They call it *T'ax'itc'ali* — the hairy one who walks. The Quileute have always known it's there. The park service has not.
 
 **The resident:** The **Walker** — not Bigfoot as a cryptid, but Bigfoot as a *tenant*. The Hoh Rainforest is the Walker's home. It has been the Walker's home since before the ice retreated. The Walker is not a singular being — it's the last of a lineage, a being that has been walking these forests since the Pleistocene. It doesn't want to be found. It doesn't want to be photographed. It wants to be *left alone*. The park service's "wilderness protection" designations keep large areas of the Hoh free from trails, campsites, and human activity — which is exactly what the Walker needs. The veil here is accidental: the conservation policies happen to also be containment policies.
 
@@ -133,7 +133,7 @@ The National Parks chapter is part of the Modern Legends nook, but it's also a f
 
 **The gameplay:** The player enters the canyon with a Navajo guide (required). The guide tells the official story — geology, history, culture. The player who asks about Spider Woman gets a different tour. The guide takes them to a spot where Spider Rock is visible at the exact angle where the canyon walls look like a loom. The player sees the weave. The player who sits at this spot and watches Spider Rock at dusk sees a light at the top — not a beacon, not a fire. A *glow*. The same amber as the Inn. Spider Woman is home. She knows the player is there. The player can leave an offering (thread, yarn, or any woven item) at the base of the canyon wall. If they do, the canyon hums. 42 Hz. Spider Woman acknowledges the gift. She doesn't appear. She doesn't speak. She *weaves*. And the player who watches the canyon walls closely sees, for just a moment, a new pattern in the stone — a pattern that wasn't there before. Spider Woman wove the player's visit into the canyon. The player is now part of the rock. Not literally. Permanently.
 
-**Connection to River:** This zone connects to River's Navajo heritage (the Sentinel class). River's character has a unique interaction here — Spider Woman recognizes the bloodline. If River is in the party, Spider Woman's glow is brighter. The guide looks at River and says: "She knows you." River says nothing. River's stance shifts — the Iron Stance softens, just slightly. This is the only zone where River's defenses drop on their own.
+**Connection to Lozen:** This zone connects to Lozen's Navajo heritage (the Sentinel class). Lozen's character has a unique interaction here — Spider Woman recognizes the bloodline. If Lozen is in the party, Spider Woman's glow is brighter. The guide looks at Lozen and says: "She knows you." Lozen says nothing. Lozen's stance shifts — the Iron Stance softens, just slightly. This is the only zone where Lozen's defenses drop on their own.
 
 **The ranger who knows:** There are no rangers here. There are Diné guides. One guide, **Herbert**, has been guiding for 40 years. He tells the player: "The park service calls this a national monument. We call it home. Spider Woman was here before us. She'll be here after us. The government put a boundary around it and called it 'protected.' We didn't need protecting. The canyon protects itself. Spider Woman protects herself. The boundary is for you, not for her."
 
@@ -174,7 +174,7 @@ The player who maps all the park nodes and adds them to the Inn's resonance netw
 | Park | Location | Resident | Source | Veil Cover Story |
 |---|---|---|---|---|
 | Yellowstone | WY/MT/ID | The Thermal Spirit | Shoshone/Crow/Blackfeet | "Geothermal monitoring" |
-| Grand Canyon | AZ | The Emergence (threshold) | Hopi/Havasupai | "River safety program" |
+| Grand Canyon | AZ | The Emergence (threshold) | Hopi/Havasupai | "Lozen safety program" |
 | Great Smoky Mountains | TN/NC | The Little People (Yûñw Tsunsdi) | Cherokee | "Synchronous firefly viewing" |
 | Olympic (Hoh Rainforest) | WA | The Walker | Quileute/Hoh | "Wilderness protection" |
 | Mammoth Cave | KY | The Echo (the cave itself) | Pre-Columbian traditions | "Guided tours only" |

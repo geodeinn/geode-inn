@@ -215,14 +215,14 @@ Fae creatures in Alfheim (Summerlands) and Svartalfheim (The Hollow/Labyrinth) b
 |   - Linework: Soft, flowing gradients  |   - Linework: Sharp, angular, geometric|
 |   - Quests: Riddles, songs, crafts     |   - Quests: Combat, tricks, tests      |
 |   - Entities: Ents, Light Mermaids,    |   - Entities: Trolls, Goblins, Orcs,   |
-|     Griffin Boss, Seelie King/Queen    |     Bwca, Unseelie King (Jareth)       |
+|     Griffin Boss, Seelie King/Queen    |     Bwca, Unseelie King (Malachi)       |
 +---------------------------------------------------------------------------------+
 ```
 
 #### Chibi vs. Full Presence Fae Roster
 The Fae Kingdom relies heavily on **Chibi creatures**—compact, highly expressive, stylized encounters that maintain charm even in combat:
 - **Chibi Fae Creatures**: Goblins, Trolls, Orcs, Ents, Dwarves, Mermaid, Bwca.
-- **Full Presence Fae Entities**: The Seelie King, The Unseelie King (Jareth), The Griffin (Crystal Gardens Boss), The Queen of Webs.
+- **Full Presence Fae Entities**: The Seelie King, The Unseelie King (Malachi), The Griffin (Crystal Gardens Boss), The Queen of Webs.
 
 ---
 
@@ -372,7 +372,7 @@ The Bestiary acts as the frontend presentation layer for the Geode Inn’s under
 |   |                                                                             |
 |   +---> Fae Kingdom Roster (Alfheim / Svartalfheim)                             |
 |         +---> Chibi Minions (Goblins, Trolls, Orcs, Ents, Dwarves, Mermaid)     |
-|         +---> Full Presence Bosses (Seelie King, Jareth, The Griffin)           |
+|         +---> Full Presence Bosses (Seelie King, Malachi, The Griffin)           |
 |                                                                                 |
 |   BASE44 PLATFORM 'LORE' ENTITY SCHEMA:                                         |
 |   { country, region, creatures[], waterCreatures[] }                            |
@@ -589,7 +589,7 @@ Below are four complete, fully formatted Bestiary entries demonstrating the spec
 | "An Unseelie troll under a labyrinth bridge is not an obstacle. He is a tax collector with     |
 | poor posture and moss growing out of his nostrils...                                           |
 |                                                                                                |
-| Jareth built the five-zone Labyrinth to test those who walk with too much confidence. The troll|
+| Malachi built the five-zone Labyrinth to test those who walk with too much confidence. The troll|
 | is the exam. He carries a stone club twice his height, but his eyes are surprisingly wide and  |
 | sharp. He doesn't want your gold. He wants a riddle he hasn't heard in two hundred years...    |
 |                                                                                                |

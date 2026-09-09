@@ -8,7 +8,7 @@
 ---
 ## The Character
 ### Name: Joe (working title — Joe may choose an in-game name)
-The Inn's pattern for volunteer NPCs uses real names (Ryan, Katy, Zack, Jaime, Thorin, Marijke). Joe follows the pattern. The both are: the adequate — the real and the game, the both are: the same person, different world.
+The Inn's pattern for volunteer NPCs uses real names (Ryan, Lichenblossom, Zack, Jaime, Thorin, Marijke). Joe follows the pattern. The both are: the adequate — the real and the game, the both are: the same person, different world.
 If Joe chooses an in-game name, the name should evoke: old nobility, the curse, the exile from time, the vampiric/draconic bloodline. The both are: the adequate — the title and the exile, the both are: the same identity, different era.
 ### Role in the Inn: Four Roles
 #### 1. The Miniaturist — The Warhammer Painter
@@ -158,7 +158,7 @@ The miniature painting is the BRIDGE: the grimdark world painted in tiny detail 
 ## The Seven Real People
 Joe is the seventh real person in the Inn:
 1. **Ryan** — the bartender-pirate (Greek origin, campfire energy)
-2. **Katy** — the plant necromancer (Van Gogh room, walking garden)
+2. **Lichenblossom** — the plant necromancer (Van Gogh room, walking garden)
 3. **Zack** — the Astronomer (QA stress tester, Observatory)
 4. **Jaime** — the Living Archive (Atlantis, star-language, tattoos as catalog)
 5. **Thorin** — the hall builder (Viking ship mead hall, rock hound, builder)
@@ -216,7 +216,7 @@ The stowaway connection:
 ---
 ## The Variant System — Unused Concept Art as In-Game Encounters
 ### The Design Principle
-Every NPC concept art variant that is not chosen as the primary image becomes an ALTERNATE ENCOUNTER STATE in the game. The both are: the adequate — the chosen and the unchosen, the both are: the same person, different frame. This applies to ALL volunteer NPCs — Ryan, Katy, Zack, Jaime, Thorin/Marijke, and Joe. The both are: the adequate — the adequate.
+Every NPC concept art variant that is not chosen as the primary image becomes an ALTERNATE ENCOUNTER STATE in the game. The both are: the adequate — the chosen and the unchosen, the both are: the same person, different frame. This applies to ALL volunteer NPCs — Ryan, Lichenblossom, Zack, Jaime, Thorin/Marijke, and Joe. The both are: the adequate — the adequate.
 ### Joe's Two Variants as Encounter States
 **Variant 1: The Studio Scene** — Joe at the desk, the boy beside, the dragon cats swarming. The domestic Joe. The cozy Joe. The both are: the adequate — the gothic and the home, the both are: the same person, different room.
 **Variant 2: The Corridor Portrait** — Joe standing in the Undercity, the Vampire Hunter D silhouette, the mist, the dramatic lone figure. The wandering Joe. The dangerous Joe. The both are: the adequate — the dark and the alone, the both are: the same person, different corridor.

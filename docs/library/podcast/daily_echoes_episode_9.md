@@ -131,7 +131,7 @@ Tomorrow: our second Friday deep dive — "The Shadow Inn." We go to the place t
 - Lozen's footsteps: spatialized — they circle the listener (headphone users hear the patrol pass)
 
 ### Episode Notes
-- Lozen is River's in-game character — former boxer, Golden Gloves champion, INFJ
+- Lozen is Lozen's in-game character — former boxer, Golden Gloves champion, INFJ
 - The Sentinel's Vigil is a 10-part questline — 10 attention trials, not combat trials
 - The tenth trial ("nothing happens") is the Inn's design philosophy crystallized: presence is the point
 - The 84Hz tease at the end sets up Episode 10's Friday deep dive on the Shadow Inn

@@ -215,7 +215,7 @@ Every fully written character in the Inn, sorted by class archetype.
 ### PALADIN
 *The ones who guard by oath.*
 
-#### The Sentinel (River) — Roots / The Three-Note Chord
+#### The Sentinel (Lozen) — Roots / The Three-Note Chord
 - **MIGHT:** 8 | **FINESSE:** 6 | **INSIGHT:** 7 | **PRESENCE:** 9 | **VITALITY:** 10 | **RESONANCE:** 6
 - **Frequency:** STONE / ROOT
 - **Class Notes:** The Paladin who cannot be moved. Rooted Stance — immune to knockback and displacement. Summons Bar Backs to intercept. The Annunaki heritage awakens at Level 10. The tall cat-person who guards the roots of creation and also manages eight chaos agents at a ren faire.
@@ -316,7 +316,7 @@ Every fully written character in the Inn, sorted by class archetype.
 | Druid | The One Who Tends, The Catalyst | 2 |
 | Necromancer | Belladonna, The Guest | 2 |
 | Bard | The Siren, The Bard, Leonard Cohen | 3 |
-| Paladin | The Sentinel (River), The Bearsark | 2 |
+| Paladin | The Sentinel (Lozen), The Bearsark | 2 |
 | Warlock | The Constant (NPC), Nyx, Madame | 3 |
 | Monk | Kali, The Sokushinbutsu Monks | 2 |
 | Ranger | The Wayfarer, Hoggle | 2 |

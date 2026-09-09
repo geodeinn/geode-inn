@@ -21,7 +21,7 @@ Three prisoners. The monster. The architect. The son. The labyrinth holds all th
 
 The Labyrinth of Crete is the Greek cultural zone's primary explorable environment — the way the Round Table room is Camelot's center and the Labyrinth (Unseelie King's five-zone maze) is the Fae Kingdom's center. Three labyrinths in the Inn, each with a different design philosophy:
 
-- **The Unseelie Labyrinth** (Jareth/David Bowie) — a love letter written in walls. Built for connection, designed to keep the beloved close. The architecture is *intentional* — every wall is a declaration. The maze is courtship.
+- **The Unseelie Labyrinth** (Malachi/David Bowie) — a love letter written in walls. Built for connection, designed to keep the beloved close. The architecture is *intentional* — every wall is a declaration. The maze is courtship.
 - **The Round Table** (Arthur) — not a labyrinth, but a *circle.* The anti-maze. The space where everyone can see everyone, where there is no getting lost, where the structure is *openness.* The table is the answer to the labyrinth: the maze replaced by the circle.
 - **The Crete Labyrinth** — a prison built as a mirror. The architecture is *concealment.* Every wall hides something. Every mirror shows a desire that keeps you looking. The maze is punishment.
 

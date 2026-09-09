@@ -37,7 +37,7 @@ The Water Zone is structured as seven descending layers. Each layer is deeper, d
 The water's top. Where the Sunlit Ponds from the Fae Kingdom feed in. Where the mountain streams from the Andean Run empty. The Surface is the Water Zone's WELCOME — the warm, bright, approachable entry.
 
 **The Surface contains:**
-- **Andra's Cove** — a sheltered bay where Andra (the Siren) lives. The cove is warm, shallow, and the water is clear enough to see the bottom. Andra's Cove is the Water Zone's social space — the place where surface creatures gather.
+- **Katya's Cove** — a sheltered bay where Katya (the Siren) lives. The cove is warm, shallow, and the water is clear enough to see the bottom. Katya's Cove is the Water Zone's social space — the place where surface creatures gather.
 - **The Shallows** — gentle, wading-depth water where the player learns the Water Zone's basic mechanics: swimming, diving, holding breath (the stamina system), and the Stone Vibration Touch System (which works differently in water — vibrations travel faster and farther).
 - **The Reef** — a living coral reef that connects to the Crystal Gardens in the Fae Kingdom. The reef's coral is the oceanic version of the Crystal Trees — living stone, growing, resonating.
 
@@ -48,10 +48,10 @@ The water's top. Where the Sunlit Ponds from the Fae Kingdom feed in. Where the 
 **Light:** Dimming, transition, blue-green fade
 **Temperature:** Cooling
 
-The boundary between light and dark. Where Zee's dual nature is most visible — the Twilight Zone is neither fully lit nor fully dark. It's the LIMINAL layer — the water's version of the Staircase.
+The boundary between light and dark. Where Zeke's dual nature is most visible — the Twilight Zone is neither fully lit nor fully dark. It's the LIMINAL layer — the water's version of the Staircase.
 
 **The Twilight Zone contains:**
-- **Zee's Threshold** — a cave at the boundary between light and dark, where Zee lives. The cave has two entrances: one facing up (toward the light) and one facing down (toward the dark). Zee moves between them.
+- **Zeke's Threshold** — a cave at the boundary between light and dark, where Zeke lives. The cave has two entrances: one facing up (toward the light) and one facing down (toward the dark). Zeke moves between them.
 - **The Migration Path** — the route that water creatures take between the Surface and the deep. The player can observe migrations — schools of fish, traveling serpents, the seasonal movements of water monsters. The Migration Path is the Water Zone's clock — the migrations follow a cycle.
 - **The Ghost Reef** — a dead coral reef, white and skeletal. The Ghost Reef is the Twilight Zone's reminder that not everything survives. The reef died when the water warmed — a climate echo, the pre-industrial version of environmental change (volcanic activity, not human industry).
 
@@ -108,7 +108,7 @@ Underground rivers — the water that flows beneath the earth. The Vein is the W
 
 **The Vein contains:**
 - **The Root Springs** — where the great tree's roots tap into the water. The tree drinks from the Vein. The Root Springs are the physical connection between the Water Zone and the Inn's architecture — the tree that houses the Inn is fed by this water.
-- **The Underground River** — a fast-flowing river through underground caverns. The river connects the Vein to the Catacombs — the player can follow the river from the Vein to the archive's deepest section (the Deep). The river is the Water Zone's version of the Staircase — a transitional path between zones.
+- **The Underground Lozen** — a fast-flowing river through underground caverns. The river connects the Vein to the Catacombs — the player can follow the river from the Vein to the archive's deepest section (the Deep). The river is the Water Zone's version of the Staircase — a transitional path between zones.
 - **The Mole's End** — the deepest tunnel of Charles's Mole (from the Catacombs) terminates at the Vein. The Mole dug all the way down to the water. The player who has followed the Mole's tunnels in the Catacombs can emerge here — in the underground river, at the boundary between earth and water.
 
 **Connection:** Catacombs (the Deep) → Vein. Charles's Mole tunnels → Vein. The tree's roots → Vein.
@@ -177,52 +177,52 @@ The Vigil is the Water Zone's management game — the keeper balances the layers
 
 ## Character Roster & Quests
 
-### 1. Andra (The Siren)
-**Station:** Andra's Cove (Layer 1, the Surface)
+### 1. Katya (The Siren)
+**Station:** Katya's Cove (Layer 1, the Surface)
 **Title:** "The Voice"
 
-Andra is the Siren — a water creature with a voice that lures. In the Geode Inn, Andra's siren song is not dangerous — it's HEALING. Andra's voice resonates with the water in the player's body (60% water). Andra's song is the Inn's most intimate sound — it comes from the player's own body, resonating with the water.
+Katya is the Siren — a water creature with a voice that lures. In the Geode Inn, Katya's siren song is not dangerous — it's HEALING. Katya's voice resonates with the water in the player's body (60% water). Katya's song is the Inn's most intimate sound — it comes from the player's own body, resonating with the water.
 
-Andra's backstory: the Siren chose the spotlight as a shield (performance as armor, from the family dynamic — the chameleon/hypervigilance trait). Andra's quest is about performing for the RIGHT reason — not as a shield, but as a gift.
+Katya's backstory: the Siren chose the spotlight as a shield (performance as armor, from the family dynamic — the chameleon/hypervigilance trait). Katya's quest is about performing for the RIGHT reason — not as a shield, but as a gift.
 
 **Audio Profile:**
 
 | Parameter | Value |
 |---|---|
 | Pitch | ~200Hz (high, musical — the siren's voice is the Water Zone's highest frequency) |
-| Text Reveal Speed | ~45ms (fluid — Andra's words flow like water) |
-| Pause | ~600ms (the pause between notes — Andra's silence is musical) |
+| Text Reveal Speed | ~45ms (fluid — Katya's words flow like water) |
+| Pause | ~600ms (the pause between notes — Katya's silence is musical) |
 | Expressiveness | 0.70 (high — the Siren's expressiveness is the performance, and the performance is real) |
-| Instrument | Voice. Andra's instrument is the VOICE ITSELF — the unadorned human voice, singing. No accompaniment. The Siren's song is the only sound in the Inn that needs no instrument, no stone, no metal. Just voice. The Siren's song is the Inn's most beautiful and most dangerous sound — beauty that draws you in can draw you under. |
+| Instrument | Voice. Katya's instrument is the VOICE ITSELF — the unadorned human voice, singing. No accompaniment. The Siren's song is the only sound in the Inn that needs no instrument, no stone, no metal. Just voice. The Siren's song is the Inn's most beautiful and most dangerous sound — beauty that draws you in can draw you under. |
 
 **Visual Design:**
 - Gothic anime (Vampire Hunter D) — dark, elegant, beautiful
-- Andra's form shifts between human and water: in the Cove, mostly human. In deeper water, more fluid. The siren's body is the water's body — the boundary between self and element blurs.
-- Bioluminescent markings that pulse with Andra's voice — the markings ARE the voice, made visible.
+- Katya's form shifts between human and water: in the Cove, mostly human. In deeper water, more fluid. The siren's body is the water's body — the boundary between self and element blurs.
+- Bioluminescent markings that pulse with Katya's voice — the markings ARE the voice, made visible.
 
 **The Quest: "The Voice That Heals"**
 
 **Phase 1: The Performance**
-Andra performs for the player — the siren's song, in Andra's Cove. The song is beautiful. The water resonates. The player's stones vibrate in sympathy. Andra's performance is the Shield — the spotlight that protects the Siren from being seen. The player hears the beauty but senses the armor.
+Katya performs for the player — the siren's song, in Katya's Cove. The song is beautiful. The water resonates. The player's stones vibrate in sympathy. Katya's performance is the Shield — the spotlight that protects the Siren from being seen. The player hears the beauty but senses the armor.
 
 **Phase 2: The Silence**
-Andra stops singing. The Cove goes quiet. Andra says: "I've been performing for so long I don't know what my voice sounds like when it's not for someone." The player must help Andra sing without an audience. The mechanic: the player turns away (literally — the camera turns). Andra sings to the water, not to the player. The song changes — it's rawer, less polished, more honest. The Shield is down. The voice is the Siren's own.
+Katya stops singing. The Cove goes quiet. Katya says: "I've been performing for so long I don't know what my voice sounds like when it's not for someone." The player must help Katya sing without an audience. The mechanic: the player turns away (literally — the camera turns). Katya sings to the water, not to the player. The song changes — it's rawer, less polished, more honest. The Shield is down. The voice is the Siren's own.
 
 **Phase 3: The Gift**
-Andra's unperformed song — the honest song — has a property the performed song didn't: it HEALS. The unperformed song resonates with the Water Zone's deepest layer (the Source) and the Source's 42Hz frequency amplifies the song. The song carried by the water reaches every layer. The water monsters calm. The Currents stabilize. The Vigil becomes easier. Andra's honest voice, carried by the water, does what the performed voice never could: it harmonizes the entire Water Zone.
+Katya's unperformed song — the honest song — has a property the performed song didn't: it HEALS. The unperformed song resonates with the Water Zone's deepest layer (the Source) and the Source's 42Hz frequency amplifies the song. The song carried by the water reaches every layer. The water monsters calm. The Currents stabilize. The Vigil becomes easier. Katya's honest voice, carried by the water, does what the performed voice never could: it harmonizes the entire Water Zone.
 
 **Phase 4: The Choice**
-Andra must choose: keep performing (the Shield, safe, beautiful, controlled) or keep singing honestly (the Gift, vulnerable, powerful, uncontrolled). Andra chooses the Gift. But not always — sometimes the Shield is needed. The Siren's wisdom is knowing which song to sing and when.
+Katya must choose: keep performing (the Shield, safe, beautiful, controlled) or keep singing honestly (the Gift, vulnerable, powerful, uncontrolled). Katya chooses the Gift. But not always — sometimes the Shield is needed. The Siren's wisdom is knowing which song to sing and when.
 
 **Reward:** The Siren's Song — a charm that lets the player "sing" to the water. The player can activate the Siren's Song in any water-adjacent zone to calm creatures, stabilize currents, and reveal hidden paths. The Siren's Song is the Water Zone's KEY — the frequency that opens water. The charm also grants the player a "True Voice" buff: the player's Bead Board designs, when worn, play their melody honestly — without embellishment, without performance. The Wearable Song becomes what it IS, not what it pretends to be.
 
 ---
 
-### 2. Zee (Dual Land/Water)
-**Station:** Zee's Threshold (Layer 2, the Twilight Zone)
+### 2. Zeke (Dual Land/Water)
+**Station:** Zeke's Threshold (Layer 2, the Twilight Zone)
 **Title:** "The Between"
 
-Zee has dual forms — land and water. Zee is the Water Zone's bridge to the surface — the only creature that can move between all layers freely. Zee's Threshold cave has two entrances: one facing up (toward the light) and one facing down (toward the dark).
+Zeke has dual forms — land and water. Zeke is the Water Zone's bridge to the surface — the only creature that can move between all layers freely. Zeke's Threshold cave has two entrances: one facing up (toward the light) and one facing down (toward the dark).
 
 **Audio Profile:**
 
@@ -235,25 +235,25 @@ Zee has dual forms — land and water. Zee is the Water Zone's bridge to the sur
 | Instrument | Stone grinding (the earth form's groundedness) | Water flowing (the water form's fluidity) |
 
 **Visual Design:**
-- Gothic anime — Zee's two forms are visually distinct
+- Gothic anime — Zeke's two forms are visually distinct
 - Land form: solid, earthy, textured — the body of a creature that walks on ground
 - Water form: fluid, translucent, flowing — the body of a creature that swims
-- The transition between forms is visible and unsettling — Zee's body doesn't switch instantly; it MELTS from one form to the other. The melting is Zee's character: the belonging that comes from existing in multiple worlds, and the cost of never being fully one thing.
+- The transition between forms is visible and unsettling — Zeke's body doesn't switch instantly; it MELTS from one form to the other. The melting is Zeke's character: the belonging that comes from existing in multiple worlds, and the cost of never being fully one thing.
 
 **The Quest: "The Form That Belongs"**
 
-Zee doesn't fit in either world. On land, Zee is too fluid — the land creatures find Zee unsettling, too changeable. In water, Zee is too solid — the water creatures find Zee heavy, too grounded. Zee lives in the Twilight Zone because it's the only place that's neither fully land nor fully water.
+Zeke doesn't fit in either world. On land, Zeke is too fluid — the land creatures find Zeke unsettling, too changeable. In water, Zeke is too solid — the water creatures find Zeke heavy, too grounded. Zeke lives in the Twilight Zone because it's the only place that's neither fully land nor fully water.
 
 **Phase 1: The Player's Perspective**
-The player meets Zee in the Twilight Zone. Zee asks: "Where do you belong?" The player's answer matters — not because Zee grades it, but because Zee is asking the question Zee can't answer. The player who answers "everywhere" (the Speter Adams answer — the chameleon) resonates with Zee. The player who answers "nowhere" (the Reluctant answer) also resonates. The player who answers "I don't know" resonates most.
+The player meets Zeke in the Twilight Zone. Zeke asks: "Where do you belong?" The player's answer matters — not because Zeke grades it, but because Zeke is asking the question Zeke can't answer. The player who answers "everywhere" (the Speter Adams answer — the chameleon) resonates with Zeke. The player who answers "nowhere" (the Reluctant answer) also resonates. The player who answers "I don't know" resonates most.
 
 **Phase 2: The Navigation**
-Zee asks the player to help navigate the 7 layers. Zee can move between layers freely, but Zee doesn't know the layers — Zee passes through them without seeing them. The player, who can't move freely but CAN observe, guides Zee through the layers, describing what's there. The player is Zee's eyes; Zee is the player's legs. Together, they map the 7 layers.
+Zeke asks the player to help navigate the 7 layers. Zeke can move between layers freely, but Zeke doesn't know the layers — Zeke passes through them without seeing them. The player, who can't move freely but CAN observe, guides Zeke through the layers, describing what's there. The player is Zeke's eyes; Zeke is the player's legs. Together, they map the 7 layers.
 
 **Phase 3: The Belonging**
-After mapping the layers, Zee understands: the Twilight Zone IS Zee's home. Not because it's the only place Zee can be, but because it's the place where BOTH forms are valid. The Twilight Zone is the layer that accepts both land and water. Zee doesn't have to choose. Zee doesn't have to be one thing. The Twilight Zone is the place between — and Zee is the creature of the between.
+After mapping the layers, Zeke understands: the Twilight Zone IS Zeke's home. Not because it's the only place Zeke can be, but because it's the place where BOTH forms are valid. The Twilight Zone is the layer that accepts both land and water. Zeke doesn't have to choose. Zeke doesn't have to be one thing. The Twilight Zone is the place between — and Zeke is the creature of the between.
 
-**Reward:** Zee's Map — a navigational map of all 7 layers. The player can use Zee's Map to fast-travel between any two layers. Zee's Map also reveals hidden paths between layers — currents, tunnels, and passages that aren't visible without the map. The player who has Zee's Map can reach the Source without descending through every layer — the map shows the shortcut. But the shortcut requires Zee's dual form: the player must be able to exist in both land and water states simultaneously (a temporary transformation, granted by the map).
+**Reward:** Zeke's Map — a navigational map of all 7 layers. The player can use Zeke's Map to fast-travel between any two layers. Zeke's Map also reveals hidden paths between layers — currents, tunnels, and passages that aren't visible without the map. The player who has Zeke's Map can reach the Source without descending through every layer — the map shows the shortcut. But the shortcut requires Zeke's dual form: the player must be able to exist in both land and water states simultaneously (a temporary transformation, granted by the map).
 
 ---
 
@@ -384,7 +384,7 @@ The player descends through all 7 layers, using accumulated skills and charms to
 The player takes a shift at the Lighthouse, monitoring the 7 layers through the Bifocal Gaze. The Vigil is a time-management game: the player must respond to state changes in each layer within a time limit. The Vigil is the Water Zone's most replayable game — the states are procedurally generated, so every shift is different.
 
 ### 4. The Siren's Resonance (Rhythm Game)
-The player matches Andra's frequency to calm water monsters. The Siren's Resonance is a rhythm game — the player must match the timing of Andra's song to the monster's frequency. Successful matching calms the monster; failed matching agitates it. The game uses the same audio-as-gameplay mechanic as "All Hands" — the music IS the game state.
+The player matches Katya's frequency to calm water monsters. The Siren's Resonance is a rhythm game — the player must match the timing of Katya's song to the monster's frequency. Successful matching calms the monster; failed matching agitates it. The game uses the same audio-as-gameplay mechanic as "All Hands" — the music IS the game state.
 
 ---
 
@@ -392,9 +392,9 @@ The player matches Andra's frequency to calm water monsters. The Siren's Resonan
 
 | Item | Location | Function |
 |---|---|---|
-| Andra's Cove | Layer 1 (Surface) | Siren's home; the Water Zone's social space |
+| Katya's Cove | Layer 1 (Surface) | Siren's home; the Water Zone's social space |
 | The Reef | Layer 1 | Living coral; connection to Crystal Gardens |
-| Zee's Threshold | Layer 2 (Twilight) | Dual-form creature's cave; between light and dark |
+| Zeke's Threshold | Layer 2 (Twilight) | Dual-form creature's cave; between light and dark |
 | The Migration Path | Layer 2 | Water creatures' seasonal route; the Water Zone's clock |
 | The Bioluminescent Forest | Layer 3 (Midnight) | Living kelp with stone frequencies; light show |
 | The Lighthouse's Reach | Layer 3 | Deepest point of the Lighthouse's beam |
@@ -406,7 +406,7 @@ The player matches Andra's frequency to calm water monsters. The Siren's Resonan
 | The Ice Worms | Layer 5 | Resonance tunneling; gargoyle frequency connection |
 | The Trench Crossroads | Layer 5 | Stable navigation hub; five-current convergence |
 | The Root Springs | Layer 6 (Vein) | The tree's roots tap the water; Inn-water connection |
-| The Underground River | Layer 6 | Fast river to the Catacombs' Deep |
+| The Underground Lozen | Layer 6 | Fast river to the Catacombs' Deep |
 | The Mole's End | Layer 6 | Charles's Mole's deepest tunnel; Catacombs connection |
 | The Spring | Layer 7 (Source) | The water's origin; 42Hz; the Source |
 | The First Stone | Layer 7 | The mineral the water carries; the Codex's origin |
@@ -452,8 +452,8 @@ Each water monster adds its signature lead instrument over this bass-heavy chord
 
 | Reward | Source | Effect |
 |---|---|---|
-| **The Siren's Song** | Andra's quest | Calm water creatures; stabilize currents; "True Voice" buff for Bead Board |
-| **Zee's Map** | Zee's quest | Fast-travel between layers; hidden paths; dual-form shortcut to the Source |
+| **The Siren's Song** | Katya's quest | Calm water creatures; stabilize currents; "True Voice" buff for Bead Board |
+| **Zeke's Map** | Zeke's quest | Fast-travel between layers; hidden paths; dual-form shortcut to the Source |
 | **Persephone's Tide** | Persephone's quest | Stamina syncs to Tidal Cycle; Cyclic Vision (see state changes before they happen) |
 | **The Pirate's Bodhrán** | Pirate's quest | Drum the 50 BPM heartbeat in any zone; stabilize water + sky; bridge between zones |
 | **Water-Worn Stones** | Water monster encounters | Rare stones, lower frequencies (water-attenuated); 32 unique stones |
@@ -476,7 +476,7 @@ Each water monster adds its signature lead instrument over this bass-heavy chord
 
 **UP to Catacombs (Level 6):**
 - The Sunken Archive (Layer 3) contains submerged archive texts
-- The Vein (Layer 6) connects to the Catacombs' Deep through the Underground River
+- The Vein (Layer 6) connects to the Catacombs' Deep through the Underground Lozen
 - The Mole's End connects to Charles's Mole tunnels
 
 **UP to Staircase (Level 5):**
@@ -505,8 +505,8 @@ Each water monster adds its signature lead instrument over this bass-heavy chord
 | Entry requirement | ✅ Complete — Andean Vessel (Surface entry) or Loch Pool (Lighthouse entry) |
 | 7-Layer Water System | ✅ Complete — all 7 layers with contents, connections, and depth-specific audio |
 | The Lighthouse | ✅ Complete — three-tempo system, Bifocal Gaze, the Vigil mechanic |
-| Character: Andra (Siren) | ✅ Complete — quest (4 phases), audio, visual, reward |
-| Character: Zee (Dual Form) | ✅ Complete — quest (3 phases), dual audio, visual, reward |
+| Character: Katya (Siren) | ✅ Complete — quest (4 phases), audio, visual, reward |
+| Character: Zeke (Dual Form) | ✅ Complete — quest (3 phases), dual audio, visual, reward |
 | Character: Persephone (Keeper) | ✅ Complete — quest (4 phases), tidal audio, visual, reward |
 | Character: The Pirate | ✅ Complete — quest (4 phases), audio, visual, reward; Captain connection |
 | Water Monsters (32) | ✅ Complete — encounter types, lairs, resolution system, stones |

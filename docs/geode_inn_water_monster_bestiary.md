@@ -8,7 +8,7 @@
 ## Section 1: Executive Summary & Design Philosophy
 
 ### 1.1 Overview & Context
-The Water Zone of the Geode Inn represents Level 8 of the Inn's subterranean architecture—a vast, flooded realm known as the **7-Layer Deep**. While thirty-two aquatic entities have been designed within the Inn's primary character art catalog (including Andra the Siren, Bill the Platypus, and the Abyssal Tide Keepers), a comprehensive audit of the Inn's core lore database identified **seventy-eight additional water monster entries** drawn from mythological traditions spanning 191 countries across Midgard. These seventy-eight entities were categorized, mapped, and assigned sonic signatures, but never formally designed into full game specifications—until now.
+The Water Zone of the Geode Inn represents Level 8 of the Inn's subterranean architecture—a vast, flooded realm known as the **7-Layer Deep**. While thirty-two aquatic entities have been designed within the Inn's primary character art catalog (including Katya the Siren, Bill the Platypus, and the Abyssal Tide Keepers), a comprehensive audit of the Inn's core lore database identified **seventy-eight additional water monster entries** drawn from mythological traditions spanning 191 countries across Midgard. These seventy-eight entities were categorized, mapped, and assigned sonic signatures, but never formally designed into full game specifications—until now.
 
 This document serves as the definitive standalone design manual for all seventy-eight un-designed water monsters. It details their spatial distribution across the Water Zone's seven layers, their dual-frequency mechanics, their visual direction, their acoustic instrument overlays, and their integration into the Archive as a primary collectible system.
 
@@ -103,7 +103,7 @@ The following master table lists all seventy-eight water monsters identified fro
 | ID | Creature Name | Origin Mythology & Country | Layer | Signature Lead Instrument | Guarded Stone / Mineral | Primary Frequency |
 |---|---|---|---|---|---|---|
 | W01 | Kelpie | Scottish Highlands | Layer 1: Surface | Celtic Harp | Aquamarine | 42Hz / 84Hz |
-| W02 | Neck (Nekker) | Scandinavian Mythos | Layer 1: Surface | Hardanger Fiddle | River Agate | 42Hz / 84Hz |
+| W02 | Neck (Nekker) | Scandinavian Mythos | Layer 1: Surface | Hardanger Fiddle | Lozen Agate | 42Hz / 84Hz |
 | W03 | Bunyip | Australian First Nations | Layer 1: Surface | Didgeridoo | Mookaite Jasper | 42Hz / 84Hz |
 | W04 | Water Horse (Cabyll-Ushtey) | Celtic / Manx Mythos | Layer 1: Surface | Bodhrán Drum | Blue Lace Agate | 42Hz / 84Hz |
 | W05 | Ahuizotl | Aztec / Mexican Mythos | Layer 1: Surface | Aztec Whistling Vessel | Jadeite | 42Hz / 84Hz |
@@ -209,7 +209,7 @@ Layer 1 is bathed in ambient golden-teal light filtering through the Inn's subte
 - **42Hz Puzzle Behavior (Living Mode):** The Neck plays a weeping violin melody in 42Hz. Listening to microtonal shifts in the tune, the player adjusts three submerged tuning pegs along the riverbed to match the Hardanger fiddle harmony, granting the Neck peace.
 - **84Hz Combat Behavior (Shadow Mode):** In 84Hz, the Neck unleashes screeching sonic shockwaves that disorient the player, creating phantom illusions while firing needle-thin water projectiles in concentric ring patterns.
 - **Signature Lead Instrument:** Hardanger Fiddle (Resonant Sympathetic Strings)
-- **Guarded Stone / Mineral Specimen:** River Agate (Mohs Hardness: 6.5 – 7.0, Acoustic Conductivity: Vibrational Collector)
+- **Guarded Stone / Mineral Specimen:** Lozen Agate (Mohs Hardness: 6.5 – 7.0, Acoustic Conductivity: Vibrational Collector)
 
 #### W03: Bunyip
 - **Origin Mythology & Country:** Australian First Nations Mythos (Australia)
@@ -244,7 +244,7 @@ Below is the complete roster of all monsters inhabiting Layer 1:
 | ID | Name | Mythology | Lead Instrument | Guarded Stone | Frequency State |
 |---|---|---|---|---|---|
 | W01 | Kelpie | Scottish Highlands | Celtic Harp | Aquamarine | 42Hz / 84Hz |
-| W02 | Neck (Nekker) | Scandinavian Mythos | Hardanger Fiddle | River Agate | 42Hz / 84Hz |
+| W02 | Neck (Nekker) | Scandinavian Mythos | Hardanger Fiddle | Lozen Agate | 42Hz / 84Hz |
 | W03 | Bunyip | Australian First Nations | Didgeridoo | Mookaite Jasper | 42Hz / 84Hz |
 | W04 | Water Horse (Cabyll-Ushtey) | Celtic / Manx Mythos | Bodhrán Drum | Blue Lace Agate | 42Hz / 84Hz |
 | W05 | Ahuizotl | Aztec / Mexican Mythos | Aztec Whistling Vessel | Jadeite | 42Hz / 84Hz |
@@ -730,7 +730,7 @@ Players advance Bestiary completion percentages by fulfilling four research tier
 ### 15.1 NPC Interactions & Questline Hooks
 The Water Bestiary is deeply interwoven into the Inn's existing NPC roster:
 - **Naut the Scholar:** Offers rare book quests requesting recovery of lost water monster lore pages from Layer 4 and Layer 7. Rewards players with high-Mohs gemstone specimens.
-- **Andra the Siren:** Sings duets with lead instruments of Layer 1 and Layer 2 creatures. Questlines require collecting acoustic stems from the Kelpie, Neck, and Siren of Capri.
+- **Katya the Siren:** Sings duets with lead instruments of Layer 1 and Layer 2 creatures. Questlines require collecting acoustic stems from the Kelpie, Neck, and Siren of Capri.
 - **Bill the Platypus:** Acts as primary aquatic expedition guide. Bill's bio-electro-receptive bill detects hidden 42Hz puzzle nodes across all seven layers.
 - **The Morrigan:** Appears at Layer 3 and Layer 6 during 84Hz Shadow Mode, testing combat readiness against the Kraken and Iku-Turso.
 - **The Allfather (Odin):** Sends Huginn and Muninn to perch on submerged stone monoliths, watching players catalog cosmic sovereigns of Layer 7.

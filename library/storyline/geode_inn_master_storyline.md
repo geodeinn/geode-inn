@@ -223,7 +223,7 @@ The Inn does not display art on walls. The Inn's environments ARE the art — ea
 
 ### Nidavellir/Svartalfheim — "The Deep Forge"
 - **Inn Location:** Deep workshops + Fae Kingdom — Unseelie Court (The Hollow)
-- **Ruling Presence:** The Unseelie King (David Bowie as Jareth, Labyrinth 1986)
+- **Ruling Presence:** The Unseelie King (David Bowie as Malachi, Labyrinth 1986)
 - **Theme:** Craft, shadow, challenge, the trial
 - **Quest Type:** The Labyrinth — five zones: Outer Walls, Shifting Corridors, Escher Stairs, Masquerade, Castle
 
@@ -302,7 +302,7 @@ The Inn does not display art on walls. The Inn's environments ARE the art — ea
 - **The Examiner (Emily Deschanel)** — Dr. Brennan in elf form. Inspects old things. The Cartographer's twin.
 - **The Cartographer (Matthew Gray Gubler)** — Spencer Reid quality. Canopy City loremaster. Temporal maps.
 - **The Wayfarer (Alexander Dreymon)** — Wandering NPC. Neutralizes conflicts. "Destiny is all."
-- **Brim** — Krista's permanent chaos companion. The trickster shoulder angel.
+- **Madame Mimm** — Krista's permanent chaos companion. The trickster shoulder angel.
 
 ### The Dock (Water Layer)
 - **The Siren (Lady Gaga)** — Krista's sister. DUAL cadence: outer (cello, performer) and inner (piano, depth). Lupus = the labyrinth. Quest "The Mirror and the Shore."
@@ -332,7 +332,7 @@ The Inn does not display art on walls. The Inn's environments ARE the art — ea
 - **The Greek Philosophers** — Socrates (Stephen Fry, Nigredo), Plato (Ralph Fiennes, Albedo), Aristotle (Jeremy Irons, Rubedo). Ancestors of the Council of Thinkers.
 
 ## Nidavellir/Svartalfheim (Deep Workshops / Unseelie Court)
-- **The Unseelie King (David Bowie as Jareth)** — Three acts: Showman, Architect, Brother. Five-zone Labyrinth.
+- **The Unseelie King (David Bowie as Malachi)** — Three acts: Showman, Architect, Brother. Five-zone Labyrinth.
 - **Wisp** — Small fae messenger. Love letters between Courts.
 - **The Gatekeeper Gargoyles** (x2) — Variable frequency. Dark green stone, bioluminescent blue veins.
 
@@ -377,7 +377,7 @@ The Inn does not display art on walls. The Inn's environments ARE the art — ea
 7. **Pirate (Krista's Sister's Husband)** — Dread Pirate Roberts. Drummer. Harbor Master Effect.
 
 ## Other Character Classes
-- **Sentinel (River)** — Iron Stance based on boxing. Presence aura.
+- **Sentinel (Lozen)** — Iron Stance based on boxing. Presence aura.
 
 ## Story-Born Beings (From the Catalyst's Garden)
 - **Wayfarer** — The story of the traveler
@@ -401,7 +401,7 @@ The Inn does not display art on walls. The Inn's environments ARE the art — ea
 - 32 Water Monsters
 - 6 Gargoyles
 - 4 Story-Born Beings
-- Multiple named NPCs (Charon, Spot, Anubis, Ammit, Brownies, Wisp, Gardener, The Bearsark, The Wayfarer, Examiner, Cartographer, Persephone, Hades, Shifting Man, Ceiling Gnome, Brim, Cabbit, Fibonacci)
+- Multiple named NPCs (Charon, Spot, Anubis, Ammit, Brownies, Wisp, Gardener, The Bearsark, The Wayfarer, Examiner, Cartographer, Persephone, Hades, Shifting Man, Ceiling Gnome, Madame Mimm, Cabbit, Fibonacci)
 - **Total: 130+ documented characters**
 
 ---
@@ -414,7 +414,7 @@ Players earn unique, story-specific drinks through storytelling. The Inn's thesi
 ## The Death Sequence
 1. **The Death:** Screen fades to dark blue. Sound recedes.
 2. **The Words:** "Your name is known. Your rest is earned." (Inn-Tree, 42Hz hum)
-3. **The River:** Underground river. Charon waiting.
+3. **The Lozen:** Underground river. Charon waiting.
 4. **The Obol:** Player selects one stone from collection. Stone drops. Passage paid.
 5. **The Crossing:** Silent boat ride.
 6. **The Arrival:** Charon says "...There you are."
@@ -577,7 +577,7 @@ The player who connects all of these finds the Golden Contract. And understands 
 34. The Fae Kingdom ✓
 35. The Tidal Caves ✓
 36. The Poison Garden + National Parks Veil ✓
-37. Brim ✓
+37. Madame Mimm ✓
 
 ## Layers Needing Development (12)
 

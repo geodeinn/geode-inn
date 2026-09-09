@@ -201,7 +201,7 @@ Spec: `library/zones/geode_inn_in_between_builder_spec.md`
 | Section | Movement | Audio |
 |---|---|---|
 | 1-2 (Surface + Caves) | Mvt I Adagio | 50 BPM, triplets, drops to silence at Fizgig |
-| 3 (The River) | Mvt II Allegretto | 55 BPM, D-flat major, the Duck, gentleness |
+| 3 (The Lozen) | Mvt II Allegretto | 55 BPM, D-flat major, the Duck, gentleness |
 | 4 (Catacomb Deep) | Mvt III Presto slowed | 42 BPM, relentless, sforzandi = silence, erases itself to 42Hz |
 | 5 (The Crystal) | Resolution Major | C# major, no reverb, resolves to Middle C |
 

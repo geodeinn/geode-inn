@@ -158,7 +158,7 @@ The mini-game mechanic expanded into a full challenge within a zone's quest:
 | Raven's Angle (Projectile) | 5-min target range | Thread trajectories through all Subtractive architecture zones — 7 levels, each zone's architecture is the puzzle |
 | The Hidden Bloom (Pattern Match) | 5-min matching | Match every Van Gogh flower to every Inn stone — 5 frequency levels, the final match reveals the 42Hz chord |
 | Bastet's Herding (Puzzle) | 5-min herding | Herd cats through all nine cultural zones — each zone's cats require a different strategy |
-| Erasure Defense (Vampire Survivors) | 5-min survival | The full Erasure campaign — three escalating stages (Brim's Messes, Discordance, Erasures) across all zones, the final stand is at the Inn-Tree |
+| Erasure Defense (Vampire Survivors) | 5-min survival | The full Erasure campaign — three escalating stages (Madame Mimm's Messes, Discordance, Erasures) across all zones, the final stand is at the Inn-Tree |
 | Selkie Tetris (Mirror Match) | 5-min vs AI | The full mirror-match campaign — beat the Selkie at each alchemical stage's puzzle, the final match earns the silica thread |
 | Card Game (Strategy) | Quick match | The full card campaign — 9 zone-champions, each champion plays their zone's frequency deck, the final champion is: the Egg |
 

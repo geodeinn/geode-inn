@@ -45,9 +45,9 @@
 | 12 | The Host | Inn host | Main Floor | ✅ v1 + v2 | `the_host.png` |
 | 13 | The Cook (Tesla) | Kitchen/alchemy | Main Floor | ✅ v1 + v2 | `the_cook.png` / `_v2.png` |
 | 14 | The Astronomer (Einstein) | Cosmology thinker | Cosmology | ✅ v1 + v2 | `the_astronomer.png` / `_v2.png` |
-| 15 | The Siren (Andra) | Water zone, singer | Water Zone | ✅ v1 + v2 | `the_siren.png` / `_v2.png` — **NEW WATER VERSION NEEDED** |
+| 15 | The Siren (Katya) | Water zone, singer | Water Zone | ✅ v1 + v2 | `the_siren.png` / `_v2.png` — **NEW WATER VERSION NEEDED** |
 | 16 | The Pirate | Water zone, drummer | Water Zone | ✅ v1 + v2 | `the_pirate.png` / `_v2.png` |
-| 17 | The Sentinel (River) | Guardian, tall cat person | Roots | ✅ v1 | `the_sentinel_river.png` |
+| 17 | The Sentinel (Lozen) | Guardian, tall cat person | Roots | ✅ v1 | `the_sentinel_river.png` |
 | 18 | The Bard | Musician, "inta inta" | Main Floor | ✅ v1 + v2 | `the_bard.png` / `_v2.png` |
 | 19 | The Retort | Alchemy apparatus | Staircase | ✅ v1 + v2 | `the_retort.png` / `_v2.png` |
 | 20 | The Guest (Death) | Catacombs host | Catacombs | ✅ v1 + v2 | `the_guest_death.png` |
@@ -135,14 +135,14 @@
 | 62 | The Hearth (Aurallia) | Krista's friend | Unconditional love | ✅ v1 | `the_one_who_tends.png` / `_v2.png` |
 | 63 | Oceanianoir | Volunteer | NPC | ✅ final | `jaime_concept_art_final.png` |
 | 64 | Ryan | Volunteer | NPC | ❌ NEEDED | Doc exists, no final art |
-| 65 | Katy | Volunteer | NPC | ❌ NEEDED | Doc exists, no final art |
+| 65 | Lichenblossom | Volunteer | NPC | ❌ NEEDED | Doc exists, no final art |
 | 66 | Thorin/Marijke | Meadery owners | Viking great hall | ❌ NEEDED | Doc exists, no final art |
 
 ### Zone Characters
 
 | # | Character | Role | Image | Notes |
 |---|---|---|---|---|
-| 67 | Jareth (Unseelie King) | Labyrinth king | ✅ v1 + v2 + v3 | Bowie-inspired. 3 versions |
+| 67 | Malachi (Unseelie King) | Labyrinth king | ✅ v1 + v2 + v3 | Bowie-inspired. 3 versions |
 | 68 | Seelie King | Seelie Court | ✅ v1 + v2 | |
 | 69 | Seelie Queen | Seelie Court | ✅ v1 + v2 | |
 | 70 | Queen of Roots | Roots zone | ✅ v1 | `queen_of_roots.png` |
@@ -246,11 +246,11 @@
 ### Characters Needing Images
 | # | Character | Status | Notes |
 |---|---|---|---|
-| 1 | **Andra (Siren) — Water/Deep Water version** | ❌ NEEDED | Land version exists (v2). Needs gothic anime water zone version. Amy Winehouse vibe, auburn redhead. |
-| 2 | **Zee — Water/Merman version** | ❌ NEEDED | Land/pirate version exists. Needs goth-scale merman form. Black/deep purple geometric scales, percussion harness, coral drum kit. |
-| 3 | **Zee — Land/Pirate version (updated)** | ❌ NEEDED | Existing pirate may need refresh for the dual-form system |
+| 1 | **Katya (Siren) — Water/Deep Water version** | ❌ NEEDED | Land version exists (v2). Needs gothic anime water zone version. Amy Winehouse vibe, auburn redhead. |
+| 2 | **Zeke — Water/Merman version** | ❌ NEEDED | Land/pirate version exists. Needs goth-scale merman form. Black/deep purple geometric scales, percussion harness, coral drum kit. |
+| 3 | **Zeke — Land/Pirate version (updated)** | ❌ NEEDED | Existing pirate may need refresh for the dual-form system |
 | 4 | **Ryan (Volunteer NPC)** | ❌ NEEDED | Character doc exists, no final concept art |
-| 5 | **Katy (Volunteer NPC)** | ❌ NEEDED | Character doc exists, no final concept art |
+| 5 | **Lichenblossom (Volunteer NPC)** | ❌ NEEDED | Character doc exists, no final concept art |
 | 6 | **Thorin/Marijke (Meadery owners)** | ❌ NEEDED | Viking great hall design doc exists, no character art |
 | 7 | **Newton** | ❌ NEEDED | Vibe doc exists (`geode_inn_newton_character_vibe.md`), no concept art |
 | 8 | **The Laughing One (Story-Born Ent)** | ❌ NEEDED | Design doc complete, no image. Robin Williams quality. |
@@ -261,7 +261,7 @@
 | # | Character | Status | Notes |
 |---|---|---|---|
 | 1 | The Siren (v2 → v3 water version) | 🔄 UPDATE | Needs water/deep-water gothic anime render |
-| 2 | Madame (Brim) | 🔄 UPDATE | Only v1 exists, may need v2 |
+| 2 | Madame (Madame Mimm) | 🔄 UPDATE | Only v1 exists, may need v2 |
 
 ### Game/Zone Art Still Needed
 | # | Asset | Status | Notes |

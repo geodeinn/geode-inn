@@ -21,7 +21,7 @@ The Lighthouse is inhabited by three NPCs who embody three different relationshi
 - **Game Function:** The Owl is the zone's constant. When everything else changes — the tide, the light, the creatures — the Owl is the reference point the player orients against. The Owl charts the tidal cave windows (when it's safe to enter the water zones). The Owl is the strategist.
 
 ### 2. The Pirate — The Rhythm (The Beat)
-- **Role:** The zone's clock. Two drummers (Zee is one of them). 50 BPM — heartbeat tempo.
+- **Role:** The zone's clock. Two drummers (Zeke is one of them). 50 BPM — heartbeat tempo.
 - **Tempo:** IMMEDIATE. The beat is now. The Pirate comes and goes (like a pirate) but always returns to the beat.
 - **Voice:** War drum with fingers. ~120Hz.
 - **IEM Driver:** Dynamic Driver (80–250Hz) — the tone you HEAR and FEEL
@@ -321,7 +321,7 @@ The Lighthouse is the planning hub for the entire water zone system. It's the su
 | Nyx (Cosmology) | The light needs the dark — the Lighthouse is Nyx's proof that darkness gives meaning to light |
 | Guest/Death (Catacombs) | The last light and the last being — the Guest visits the Lighthouse at the end of the final vigil |
 | Pirate's Route | The Pirate gives rides to the next nowhere — the Lighthouse is one of the nowhere stops |
-| Siren/Andra | The light is to the Siren's sound — Andra's voice navigates by the Lighthouse beam |
+| Siren/Katya | The light is to the Siren's sound — Katya's voice navigates by the Lighthouse beam |
 | Mohs Vibration | The foghorn (16-20 Hz) is in the bone conduction range — the deep knowing of the stone vibration system |
 
 ---

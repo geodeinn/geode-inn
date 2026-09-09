@@ -49,7 +49,7 @@ Three toggleable modalities: Audio, Haptic, Visual. Minimal Mode strips all to s
 | Tinkering Weeaboo | Puzzle/caster | Hyperfocused — godlike in affinity zone, mediocre elsewhere |
 | Librarian Crone | Archive/intelligence | Reads every text, highest intelligence, contextually moral |
 | Chameleon Druid (Charles) | Versatility | Adapts to any biome. Low endurance — glioblastoma mirror |
-| The Sentinel (River) | Tank/defense | Iron Stance, faceted defense, answers the Owl's riddles |
+| The Sentinel (Lozen) | Tank/defense | Iron Stance, faceted defense, answers the Owl's riddles |
 
 ---
 

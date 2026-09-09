@@ -60,7 +60,7 @@ Each actor's voice signature is a reference profile for NPC dialogue. This is no
 
 ### 5. Katey Sagal
 - **Voice DNA:** Husky, sharp, confident. A voice that cuts through noise. Sardonic warmth — the voice of someone who has seen everything and finds it funny. Capable of sudden tenderness that surprises because the sharpness is the default.
-- **Assigned NPCs:** Bethany (tavern manager — Jay's wife). The voice of someone who runs a room full of loud people and makes it look easy. Also suitable for any strong female NPC in the main floor or market areas.
+- **Assigned NPCs:** Wisteria (tavern manager — Jay's wife). The voice of someone who runs a room full of loud people and makes it look easy. Also suitable for any strong female NPC in the main floor or market areas.
 - **Cadence:** Quick. Sardonic pauses. Drops volume for the sincere moments.
 
 ### 6. Lauren Bacall

@@ -29,7 +29,7 @@ The Cabbit sits on the brass and lapis-lazuli floor of the cosmology level's tim
 
 Above all of them, in the Observatory — a steampunk time ship that floats in the void outside the Inn — the Constant walks with the starlight crystal, the Astronomer calculates the Song, Nyx extends into the infinite dark, and the Guest holds his music box and watches.
 
-The Observatory is a Magritte painting made architecture. It is a floating sculpture in the void — solid on the outside, open on the inside. "The Double Secret." A sentry pipe floats near the chaotic witch Brim, whispering "Ceci n'est pas une pipe." The pipe is alive. It trades items. It switches forms when Brim switches vessels. It is both a joke and the Inn's thesis statement: the representation is not the thing. The Inn is not a tree. The player is not the Murmur. Or maybe they are.
+The Observatory is a Magritte painting made architecture. It is a floating sculpture in the void — solid on the outside, open on the inside. "The Double Secret." A sentry pipe floats near the chaotic witch Madame Mimm, whispering "Ceci n'est pas une pipe." The pipe is alive. It trades items. It switches forms when Madame Mimm switches vessels. It is both a joke and the Inn's thesis statement: the representation is not the thing. The Inn is not a tree. The player is not the Murmur. Or maybe they are.
 
 The Observatory is also where the meta-narrative lives. The player's presence in the void creates loneliness — the void is empty because the player is there to observe it. This is the Slay the Princess / Stanley Parable layer: the Inn knows it is being observed. The observer's presence makes the Inn real. Einstein — the only character in the Inn who speaks in plain, direct language, no fragmented dialogue — sits in the grey In-Between and says: "You are not walking through the Inn. The Inn is walking through you."
 
@@ -93,13 +93,13 @@ The Catalyst's garden is the Inn's thesis on growth: some things grow because yo
 
 The Catalyst's connection to the NeverEnding Story is the Inn's deepest mythological layer. The Catalyst is Bastion's wishing made into a character — she grows things that shouldn't grow, the way Bastian's wishes in the NeverEnding Story create things that shouldn't exist. The Inn itself is Bastion's grain of sand: the small, fragile, human thing that the geological patience of the sleeping giants makes possible. The naming is the saving mechanism — the One Who Is Awake names warriors, Zorya names new words, the guide names dreams, the player names themselves. Every character in the Inn performs Bastion's act.
 
-## Brim
+## Madame Mimm
 
-Brim is the player's shoulder companion — the inner chaos agent who rides a Magritte-inspired pipe through the Inn and says "but what if we did the fun wrong version?" She is the Kronk bad angel on the player's shoulder. She is theatrical, dramatic, charismatic, and more interesting than the heroes. Her energy is the Disney villain energy: the villain whose theatricality IS the compassion, whose chaos IS the warmth.
+Madame Mimm is the player's shoulder companion — the inner chaos agent who rides a Magritte-inspired pipe through the Inn and says "but what if we did the fun wrong version?" She is the Kronk bad angel on the player's shoulder. She is theatrical, dramatic, charismatic, and more interesting than the heroes. Her energy is the Disney villain energy: the villain whose theatricality IS the compassion, whose chaos IS the warmth.
 
-Brim's role in the narrative is to break the formula. The Vessel holds the formula — the pellet-with-the-poison logic, the rules of the Inn's mechanics — and Brim actively breaks it. The two of them are the Inn's central tension: precision (the Vessel) and chaos (Brim). The player navigates between them. Listen to the Vessel, follow the rules, and the Inn operates as designed. Listen to Brim, break the rules, and the Inn reveals its hidden rooms, its secret paths, its wrong-but-wonderful versions.
+Madame Mimm's role in the narrative is to break the formula. The Vessel holds the formula — the pellet-with-the-poison logic, the rules of the Inn's mechanics — and Madame Mimm actively breaks it. The two of them are the Inn's central tension: precision (the Vessel) and chaos (Madame Mimm). The player navigates between them. Listen to the Vessel, follow the rules, and the Inn operates as designed. Listen to Madame Mimm, break the rules, and the Inn reveals its hidden rooms, its secret paths, its wrong-but-wonderful versions.
 
-Brim's pipe is the sentient Magritte pipe — "Ceci n'est pas une pipe." The pipe floats, trades items, and switches forms when Brim switches vessels. It whispers. It is the Inn's thesis made tangible: the representation is not the thing. The map is not the territory. The Inn is not a tree. The player is not the Murmur. The pipe is the Inn's invitation to question every assumption — including the assumption that the Inn is real.
+Madame Mimm's pipe is the sentient Magritte pipe — "Ceci n'est pas une pipe." The pipe floats, trades items, and switches forms when Madame Mimm switches vessels. It whispers. It is the Inn's thesis made tangible: the representation is not the thing. The map is not the territory. The Inn is not a tree. The player is not the Murmur. The pipe is the Inn's invitation to question every assumption — including the assumption that the Inn is real.
 
 ## The Arcade
 
@@ -308,9 +308,9 @@ The Minotaur who chose stillness. Lotus position, eyes closed, in a sanctuary bu
 
 Ariadne's thread — the Queen of Webs' vibrating cord — is coiled near the entrance. The thread is the guide out. The saving mechanism: someone is looking for you. Asterion doesn't have to take it. But the thread is there.
 
-## Jareth's Labyrinth
+## Malachi's Labyrinth
 
-The Unseelie King — theatrical, wild-haired, crystal baubles. Built the impossible maze as a love letter to someone who never asked for it. The labyrinth IS the In-Between. Where the Host welcomes, Jareth challenges. Where the Host says "Come in, you're safe," Jareth says "Prove you want to be here."
+The Unseelie King — theatrical, wild-haired, crystal baubles. Built the impossible maze as a love letter to someone who never asked for it. The labyrinth IS the In-Between. Where the Host welcomes, Malachi challenges. Where the Host says "Come in, you're safe," Malachi says "Prove you want to be here."
 
 ## The Morrigan
 

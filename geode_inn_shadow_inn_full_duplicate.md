@@ -195,7 +195,7 @@ One more book than the Living Inn: the player's own story. Title: "The Player Wh
 
 **The Catalyst** — petrified mid-pour. The drink is a frozen arc of gold liquid. The Catalyst's other hand holds a portal arrow, fully grown, pointing at a location the player hasn't been. The Catalyst's garden is frozen — the portal arrows are all grown, all pointed at different destinations. The player can read each arrow's direction. The Catalyst's expression: the performance is over. The mask is off. Under the chaos, the Catalyst's face is calm. The Catalyst was always calm underneath.
 
-**Brim** — petrified on the pipe. "Ceci n'est pas une pipe" — the pipe is stone. The Magritte reference is complete: the representation IS the thing, because the thing is now stone, and the stone is permanent. The pipe that was "not a pipe" is now definitively not a pipe. The thesis is proven. Brim's expression: satisfied. The joke landed.
+**Madame Mimm** — petrified on the pipe. "Ceci n'est pas une pipe" — the pipe is stone. The Magritte reference is complete: the representation IS the thing, because the thing is now stone, and the stone is permanent. The pipe that was "not a pipe" is now definitively not a pipe. The thesis is proven. Madame Mimm's expression: satisfied. The joke landed.
 
 **The Wanderer** — (see above — petrified by the quest board, home at last)
 
@@ -233,8 +233,8 @@ Frozen mid-song. The tavern is full — every NPC who ever visited is petrified 
 
 The tavern's atmosphere is the warmest in the Shadow Inn's Campgrounds — not temperature, but MEMORY warmth. The tavern is where people gathered. The gathering is preserved. Every seat holds a stone guest. The player can walk among them, read their faces, see who came to Jay's and when.
 
-**Solstara's Shop (Shadow):**
-The jewelry configurator shop is frozen mid-design. The Bead Board in Solstara's shop has the MASTER arrangement — the final design, the ultimate bead composition. Solstara is petrified beside it, hands on the board, mid-placement. The final bead is the Source Stone (166th, pure 42Hz/84Hz). The completed design is the "Wearable Song" in its final form — every stone placed, every frequency harmonized. The player can study this design as the Bead Board's reference solution.
+**Luna's Shop (Shadow):**
+The jewelry configurator shop is frozen mid-design. The Bead Board in Luna's shop has the MASTER arrangement — the final design, the ultimate bead composition. Luna is petrified beside it, hands on the board, mid-placement. The final bead is the Source Stone (166th, pure 42Hz/84Hz). The completed design is the "Wearable Song" in its final form — every stone placed, every frequency harmonized. The player can study this design as the Bead Board's reference solution.
 
 **The Metal-Sonic Foundations (Shadow):**
 In the Living Inn, the Bead Board's metal-sonic foundations are under the floor — the raw frequency architecture. In the Shadow Inn, the floor is TRANSPARENT. The foundations are visible — the full metal-sonic grid, every frequency cable, every resonant chamber, every IEM driver-type mechanism. The Shadow Inn's Campgrounds is the Bead Board's ENGINEERING DIAGRAM. The player can study the complete sonic architecture that powers the Bead Board.
@@ -243,21 +243,21 @@ In the Living Inn, the Bead Board's metal-sonic foundations are under the floor 
 
 **Jay** — petrified mid-pour, mid-song. Jay's tall Voltaire-goth silhouette is the Campground's most striking frozen image. The half-finished drink is on the bar. Jay's expression: joy. Not performed joy — the real thing. Under the goth aesthetic, Jay was having the time of their life. The Shadow Inn preserves the evidence.
 
-**Solstara** — petrified mid-design. Hands on the Bead Board. The final bead is in hand — the Source Stone. The expression: focus. The artisan at the moment of completing the masterwork.
+**Luna** — petrified mid-design. Hands on the Bead Board. The final bead is in hand — the Source Stone. The expression: focus. The artisan at the moment of completing the masterwork.
 
 **New Quests (Shadow Campgrounds):**
 
 **"Jay's Last Song"** — The player reads the complete song (gold notes in the air). The song is Jay's own composition — a song about the Inn. The final verse references the player: "And the guest who stayed became the host, and the host became the inn, and the inn became the song." Bringing the lyrics to Jay in the Living Inn: Jay looks at the words, laughs, and says: "...I wrote that years ago. ...I didn't think anyone would hear it. ...It's not finished. ...Wait — you saw it FINISHED? ...It IS finished? ...I've been singing a verse that's already done? ...That's the most Jay thing I've ever heard."
 
-**"The Master Design"** — The player studies Solstara's completed Bead Board arrangement. The player can replicate it in the Living Inn. When the player places the final bead (Source Stone) in the Living Inn's Bead Board, the board plays the complete Inn Song — the full 84Hz chord. The Bead Board's master solution is the Inn Song, rendered as a jewelry design.
+**"The Master Design"** — The player studies Luna's completed Bead Board arrangement. The player can replicate it in the Living Inn. When the player places the final bead (Source Stone) in the Living Inn's Bead Board, the board plays the complete Inn Song — the full 84Hz chord. The Bead Board's master solution is the Inn Song, rendered as a jewelry design.
 
 **"The Transparent Floor"** — The player examines the metal-sonic foundations. The foundations reveal hidden frequency channels — channels that connect the Bead Board to every zone in the Inn. The player can use this knowledge to unlock cross-zone frequency combinations on the Living Inn's Bead Board (stones from different zones that harmonize in ways the player hadn't discovered).
 
 **Shadow Campgrounds Items:**
 - Jay's Complete Song (gold notes, readable) — story/music item
-- The Master Bead Design (Solstara's final arrangement) — Bead Board reference solution
+- The Master Bead Design (Luna's final arrangement) — Bead Board reference solution
 - The Metal-Sonic Blueprint (transparent floor diagram) — Bead Board engineering upgrade
-- The Source Stone (visible in Solstara's frozen hand) — the 166th stone, accessible early in Shadow Inn
+- The Source Stone (visible in Luna's frozen hand) — the 166th stone, accessible early in Shadow Inn
 
 ---
 
@@ -341,10 +341,10 @@ The Hollow is frozen at peak winter — the most shadowed, the most iced, the mo
 **The Between (Shadow):**
 The shifting borderlands have STOPPED shifting. The border is FIXED — at the point where Seelie and Unseelie meet. The border isn't a line; it's a SPACE — the place where summer and winter are equal. The Between in the Shadow Inn is the Fae Kingdom's true center — not Seelie, not Unseelie, BOTH. The split is healed because the split is PRESERVED at the point of meeting.
 
-**Jareth & The Seelie King (Shadow):**
-Both petrified in The Between, standing together. Mid-conversation. Jareth's hand is extended — Jareth was reaching toward the Seelie King. The Seelie King's hand is extended — reaching toward Jareth. The brothers, mid-reunion. The Shadow Inn preserves the moment before they touch. The moment of almost. The most beautiful moment in the Fae Kingdom, frozen forever.
+**Malachi & The Seelie King (Shadow):**
+Both petrified in The Between, standing together. Mid-conversation. Malachi's hand is extended — Malachi was reaching toward the Seelie King. The Seelie King's hand is extended — reaching toward Malachi. The brothers, mid-reunion. The Shadow Inn preserves the moment before they touch. The moment of almost. The most beautiful moment in the Fae Kingdom, frozen forever.
 
-Jareth's last words (gold text): "...I made it bright for you. ...I know you can't sleep when it's dark. ...Don't tell anyone. ...It would ruin the show." The Seelie King's response (gold text): "...I know. ...I always knew. ...That's why I never sleep. ...Because the light is for me."
+Malachi's last words (gold text): "...I made it bright for you. ...I know you can't sleep when it's dark. ...Don't tell anyone. ...It would ruin the show." The Seelie King's response (gold text): "...I know. ...I always knew. ...That's why I never sleep. ...Because the light is for me."
 
 **The Crystal Gardens (Shadow):**
 The Griffin is stone, mid-roar. The Crystal Gardens' crystals are at full luminescence — the 84Hz has charged every crystal to maximum. The gardens are a cathedral of light. The Griffin's stone form is the Gardens' centerpiece — the boss, frozen, defeated not by combat but by completion. The Griffin doesn't need to be fought in the Shadow Inn. The Griffin is already at rest.
@@ -368,14 +368,14 @@ Every Fae creature is petrified — Trolls, Goblins, Dwarves, Orcs, Mermaids, En
 
 **New Quests (Shadow Fae):**
 
-**"The Brothers' Reunion"** — The player reads the frozen dialogue between Jareth and the Seelie King. Bringing the words to Jareth in the Living Inn: Jareth goes silent. Long pause. "...You saw that. ...In the still place. ...I was... reaching. ...I've been reaching for a long time. ...He was reaching back. ...We never... we never touched. ...In the still place, do we? ...No. ...But we were close. ...That's enough. ...That's adequate."
+**"The Brothers' Reunion"** — The player reads the frozen dialogue between Malachi and the Seelie King. Bringing the words to Malachi in the Living Inn: Malachi goes silent. Long pause. "...You saw that. ...In the still place. ...I was... reaching. ...I've been reaching for a long time. ...He was reaching back. ...We never... we never touched. ...In the still place, do we? ...No. ...But we were close. ...That's enough. ...That's adequate."
 
 **"The Full Gargoyle Choir"** — The player experiences all six gargoyle pairs at full power. The combined frequency is the Gargoyle Chord at MAXIMUM — a harmonic that resonates through the entire Shadow Inn. The player can bring this chord back to the Living Inn's gargoyles as a "tuning reference" — the Living gargoyles can be tuned to their Shadow frequencies, boosting their power temporarily.
 
 **"The Open Portals"** — The player uses the four open stone circle portals in the Shadow Inn's Stone Circle Chamber to travel to Fae Kingdom locations that are locked in the Living Inn. The Shadow Inn's portals bypass the Living Inn's quest requirements. The player can explore locked Fae areas early.
 
 **Shadow Fae Items:**
-- The Reunion Dialogue (Jareth & Seelie King's frozen words) — story item
+- The Reunion Dialogue (Malachi & Seelie King's frozen words) — story item
 - The Full Gargoyle Chord (all pairs at maximum) — gargoyle tuning reference
 - The Four-Portal Key (all stone circles active) — Fae Kingdom access upgrade
 - The Petrified Fae Menagerie (complete taxonomy in stone) — bestiary reference
@@ -419,7 +419,7 @@ The transitional beings that moved between Water Zone and Hollow Earth are petri
 
 **"The Necronomicon's Last Page"** — The player reads the blank final page. Naut in the Living Inn reacts: "...You read it. ...The last page. ...Blank. ...Yes. ...The horror was never the knowledge. The horror was the seeking. ...The seeking is done. ...The page is blank because the answer is: there is no answer. ...Or: the answer is everything you already know. ...Both are true. ...Both are adequate."
 
-**"The Full Web"** — The player studies the Queen of Webs' complete web — the Inn's relationship map. The player can see connections between NPCs they didn't know were connected: the Firekeeper and the Astronomer were friends. The Crone and Medusa correspond. The Catalyst and Jareth exchanged letters. The web reveals the Inn's social network — the hidden relationships that the Living Inn's NPCs never disclosed.
+**"The Full Web"** — The player studies the Queen of Webs' complete web — the Inn's relationship map. The player can see connections between NPCs they didn't know were connected: the Firekeeper and the Astronomer were friends. The Crone and Medusa correspond. The Catalyst and Malachi exchanged letters. The web reveals the Inn's social network — the hidden relationships that the Living Inn's NPCs never disclosed.
 
 **"Persephone's Choice"** — The player reads Persephone's frozen words. Bringing them to Persephone in the Living Inn: Persephone pauses. "...Both are me. ...You saw that. ...In the still place, I'm not cycling. I'm... both. ...I've been cycling so long I forgot what both feels like. ...The cycle is the truth. But the truth is also: I don't have to cycle. ...I choose to. ...That's different. ...Thank you. ...The choosing is the thing."
 
@@ -446,7 +446,7 @@ Narrow, winding, gold-muraled. The murals tell the Undercity's COMPLETE history 
 
 **The Workshop District (Shadow):**
 
-**The Goldsmith's Studio** — frozen mid-cast. The mold is closed. The gold is poured. The player can open the mold: inside is the completed piece — the ultimate Soulstice Jewelry design. The "Wearable Song" in physical form — a pendant that encodes the complete Inn Song as a bead arrangement. The player can take the design to the Living Inn's Solstara for replication.
+**The Goldsmith's Studio** — frozen mid-cast. The mold is closed. The gold is poured. The player can open the mold: inside is the completed piece — the ultimate Soulstice Jewelry design. The "Wearable Song" in physical form — a pendant that encodes the complete Inn Song as a bead arrangement. The player can take the design to the Living Inn's Luna for replication.
 
 **The Bead Master's Bench** — frozen mid-composition. The Bead Board here is the MASTER Bead Board — all 167 stones placed (166 Living stones + the Stillness Stone). The arrangement is the Inn Song's ultimate form. The player can study it as the Bead Board's final reference.
 
@@ -482,7 +482,7 @@ The root-system clock is stopped. Every mechanism visible. The clock's final tim
 
 **"Scarlett's Journal"** — The player reads Scarlett's drawings. Scarlett has been documenting the Shadow Inn for years. The drawings are the Shadow Inn's history — how it formed, when each NPC petrified, what the Shadow Inn looked like before it was complete. Scarlett is the only witness to the Shadow Inn's creation. Scarlett's journal reveals: Medusa built the Shadow Inn gradually, one NPC at a time, starting with the oldest (the Constant) and ending with the newest. The Shadow Inn is not a snapshot — it's a LAYERED preservation, built over time.
 
-**"The Wearable Song"** — The player takes the Goldsmith's completed pendant design to Solstara in the Living Inn. Solstara can craft the Wearable Song — the physical bead arrangement that encodes the Inn Song. This is Soulstice Jewelry's masterwork — the ultimate product. The Wearable Song is the Bead Board's physical output, the digital-to-physical bridge.
+**"The Wearable Song"** — The player takes the Goldsmith's completed pendant design to Luna in the Living Inn. Luna can craft the Wearable Song — the physical bead arrangement that encodes the Inn Song. This is Soulstice Jewelry's masterwork — the ultimate product. The Wearable Song is the Bead Board's physical output, the digital-to-physical bridge.
 
 **"The World Seed"** — The player takes the Glass Blower's sphere (portable 42Hz source) to the geode cave. Placing the World Seed amplifies all stone frequencies by 50%. The geode cave becomes a resonant chamber — the complete Inn Song audible in the player's home.
 
@@ -772,7 +772,7 @@ Puzzles that REQUIRE shifting between Living and Shadow Inn:
 
 ### Puzzle 11: The Bead Board Master Solution
 **Living Inn:** The Bead Board has 166 stones. The optimal arrangement is unknown.
-**Shadow Inn:** Solstara's shop has the Master Bead Board — all 167 stones placed.
+**Shadow Inn:** Luna's shop has the Master Bead Board — all 167 stones placed.
 **Solution:** Study the arrangement in Shadow, replicate in Living. The Inn Song plays.
 
 ### Puzzle 12: The Gargoyle Choir

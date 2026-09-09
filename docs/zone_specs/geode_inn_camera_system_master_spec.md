@@ -127,7 +127,7 @@ Only for characters with zone-specific behaviors:
 
 | Character | Walk | Idle | SIT | Hands |
 |-----------|------|------|-----|-------|
-| The Sentinel (River) | Grounded, deliberate. Each step plants. | Slight sway. 50 BPM. | Perfect stillness. The vigil. | Strong grip. Eight-bar hands. |
+| The Sentinel (Lozen) | Grounded, deliberate. Each step plants. | Slight sway. 50 BPM. | Perfect stillness. The vigil. | Strong grip. Eight-bar hands. |
 | The Artisan Thief (Krista) | Precise, light. Selkie's step. | Fingers moving. Always working. | Hands rest on lap. Stillness is rare. | Wire-wrapping, stone-setting, grinding, polishing. |
 | The Siren | Flowing. The performer's stride. | Outer: expressive. Inner: still. | Toggles between modes — outer (animated) / inner (still). | Cello hold (outer). Piano touch (inner). |
 | The Pirate | Drum-cadence. Fingers tap on thighs. | The fingers drum. Always. | Leaned back. Easy. The bodhrán rests on the knee. | Drumming. The hands that held the blade now hold the rhythm. |

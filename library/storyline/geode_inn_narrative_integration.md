@@ -1,5 +1,5 @@
 # THE GEODE INN — NARRATIVE INTEGRATION DOCUMENT
-## Character Integration Spine: Charles, River, and the Next Generation
+## Character Integration Spine: Charles, Lozen, and the Next Generation
 ### Compiled August 26, 2026 | Geode Inn Narrative Team
 
 ---
@@ -15,9 +15,9 @@ Dialogue relies on deliberate pauses (`...`) for cadence and breath. Every line 
 
 ### The Three-Note Chord System
 The narrative engine of *The Geode Inn* relies on a triadic chord structure that anchors the living Inn-Tree and the universal frequency (42Hz):
-* **The Roots (Taurus):** Earth, foundation, defense, physical stability, medical/logistical preservation. Represented by **River (The Sentinel)**.
+* **The Roots (Taurus):** Earth, foundation, defense, physical stability, medical/logistical preservation. Represented by **Lozen (The Sentinel)**.
 * **The Trunk (Libra):** Balance, measure, industrial calibration, structural integrity, cosmic carrier. Represented by **Charles (The Constant)**.
-* **The Canopy / Blossoms (The Next Generation):** Propagation, acoustic resonance, future alignment, the continuation of the chord across universal cycles. Represented by **River's Three Daughters**.
+* **The Canopy / Blossoms (The Next Generation):** Propagation, acoustic resonance, future alignment, the continuation of the chord across universal cycles. Represented by **Lozen's Three Daughters**.
 
 ---
 
@@ -114,7 +114,7 @@ CHARLES
 
 ### 3.1 Lineage & Anunnaki Manifestation
 
-River is Krista's daughter and the biological daughter of Charles (The Constant). Because she carries the bloodline of the oldest Annunaki being, her true form in *The Geode Inn* manifests as **The Sentinel**—a tall, feline-humanoid entity inspired by ancient alien lore and Sumerian iconography.
+Lozen is Krista's daughter and the biological daughter of Charles (The Constant). Because she carries the bloodline of the oldest Annunaki being, her true form in *The Geode Inn* manifests as **The Sentinel**—a tall, feline-humanoid entity inspired by ancient alien lore and Sumerian iconography.
 
 ```
                     [CHARLES / THE CONSTANT]
@@ -133,20 +133,20 @@ River is Krista's daughter and the biological daughter of Charles (The Constant)
 #### The Feline-Alien Aesthetic
 * **Height & Posture:** Towering over standard human NPCs (7+ feet tall), with effortless, predatory grace and fluid posture.
 * **Features:** Sleek, dusk-furred feline features, sharp golden slit-pupil eyes that catch the low bioluminescence of the root chambers, and tapered ears tuned to perimeter vibrations.
-* **Inheritance:** Where her father carries the cosmic blueprint in his mind and hands, River inherits the **physical resilience and vigilance** of the Anunnaki—the genetic mandate to protect the Inn's physical perimeter against void-decay and entropic incursions.
+* **Inheritance:** Where her father carries the cosmic blueprint in his mind and hands, Lozen inherits the **physical resilience and vigilance** of the Anunnaki—the genetic mandate to protect the Inn's physical perimeter against void-decay and entropic incursions.
 
 ### 3.2 Medical Logistics as Game Mechanics
 
-In the real world, River works in medical logistics—the precise, life-saving discipline of managing critical supply lines, allocating emergency resources, executing triage during crises, and maintaining defense networks under pressure. 
+In the real world, Lozen works in medical logistics—the precise, life-saving discipline of managing critical supply lines, allocating emergency resources, executing triage during crises, and maintaining defense networks under pressure. 
 
 In *The Geode Inn*, her real-world profession is translated directly into core gameplay mechanics centered in the **Roots & Lower Grounds (Taurus Node)**.
 
 #### Gameplay Mechanic 1: The Inn Defense & Perimeter Grid
-* **The Root Ward Network:** River manages the perimeter barrier surrounding the Inn-Tree. Players consult River to upgrade defense nodes, position gargoyle sentinels, and direct root-conduits to prevent void-corrosion from breaching the lower floors.
+* **The Root Ward Network:** Lozen manages the perimeter barrier surrounding the Inn-Tree. Players consult Lozen to upgrade defense nodes, position gargoyle sentinels, and direct root-conduits to prevent void-corrosion from breaching the lower floors.
 * **Early Warning Radar:** Her feline senses detect incoming structural instability or hostiles long before they reach the Inn, providing the player with tactical warnings and quest alerts.
 
 #### Gameplay Mechanic 2: Medical Logistics & Field Triage UI
-When the Inn comes under attack or suffers environmental collapse during universal frequency shifts, River opens the **Triage Management Interface**:
+When the Inn comes under attack or suffers environmental collapse during universal frequency shifts, Lozen opens the **Triage Management Interface**:
 
 ```
 +-----------------------------------------------------------------------+
@@ -163,18 +163,18 @@ When the Inn comes under attack or suffers environmental collapse during univers
 +-----------------------------------------------------------------------+
 ```
 
-* **Supply Chain Management:** Players gather raw mineral botanicals (peridot, sulfur, clean water, resin) and bring them to River. She synthesizes them into medical supplies, distributing them across the Inn's factions (Brownies, Smiths, Fae, Undercity).
+* **Supply Chain Management:** Players gather raw mineral botanicals (peridot, sulfur, clean water, resin) and bring them to Lozen. She synthesizes them into medical supplies, distributing them across the Inn's factions (Brownies, Smiths, Fae, Undercity).
 * **Resource Decay Prevention:** Her logistical efficiency reduces item decay rates in player storage chests and ensures that Inn vendors remain stocked with essential consumables.
 
 ---
 
-### 3.3 Tabletop Questline Narrative Script — River
+### 3.3 Tabletop Questline Narrative Script — Lozen
 
 > **Location:** The Sentinel's Post / Root Foundation Gate  
-> **Dramatis Personae:** The Player, River (The Sentinel)
+> **Dramatis Personae:** The Player, Lozen (The Sentinel)
 
 ```
-The chamber beneath the Inn's roots smells of damp loam, crushed pine needle, and fresh antiseptic resin. River stands on a raised stone dais overlooking the root tunnels. In the shadows, her form is tall—strikingly tall—her sleek feline ears twitching at sounds three levels above. Her golden eyes reflect the pale blue moss light.
+The chamber beneath the Inn's roots smells of damp loam, crushed pine needle, and fresh antiseptic resin. Lozen stands on a raised stone dais overlooking the root tunnels. In the shadows, her form is tall—strikingly tall—her sleek feline ears twitching at sounds three levels above. Her golden eyes reflect the pale blue moss light.
 
 She is sorting brass supply crates with practiced, rapid efficiency, marking items on a stone slate with a copper stylus.
 
@@ -206,7 +206,7 @@ RIVER (CONT'D)
 ## 4. RIVER'S THREE DAUGHTERS — THE NEXT GENERATION CHORD
 
 ### 4.1 Generational Continuity & Harmonic Propagation
-The three daughters of River represent the **third generation** of the Anunnaki bloodline within *The Geode Inn*. If Charles is the carrier of the original seed (41.7Hz) and River is the guardian of the present foundation (42Hz), the three daughters are the **propagators of the future chord**—the beings who will take the 42Hz frequency and evolve it into the next cosmic cycle.
+The three daughters of Lozen represent the **third generation** of the Anunnaki bloodline within *The Geode Inn*. If Charles is the carrier of the original seed (41.7Hz) and Lozen is the guardian of the present foundation (42Hz), the three daughters are the **propagators of the future chord**—the beings who will take the 42Hz frequency and evolve it into the next cosmic cycle.
 
 ```
 =================================================================================
@@ -240,7 +240,7 @@ They complete the **Three-Note Chord Continuation**: together, they embody **Res
 
 #### Lore & Identity
 * **Title:** The Quartermaster of Souls
-* **Heritage & Archetype:** Granddaughter of the Constant. She inherits River's sharp tactical mind and logistical brilliance, applying medical logistics to spirit-energy and memory preservation.
+* **Heritage & Archetype:** Granddaughter of the Constant. She inherits Lozen's sharp tactical mind and logistical brilliance, applying medical logistics to spirit-energy and memory preservation.
 * **Aspect of the Chord:** **Amplitude / Supply & Structure.**
 
 #### Gameplay Role & Class Mechanics
@@ -270,7 +270,7 @@ They complete the **Three-Note Chord Continuation**: together, they embody **Res
 > **Dramatis Personae:** The Player, Kora, Calla, Lyra
 
 ```
-At the junction where the three giant taproots merge into the main trunk, a light burns—bright cyan, warm amber, and deep violet. Here, River's three daughters sit around a stone table shaped like a three-bladed propeller.
+At the junction where the three giant taproots merge into the main trunk, a light burns—bright cyan, warm amber, and deep violet. Here, Lozen's three daughters sit around a stone table shaped like a three-bladed propeller.
 
 Kora holds a silver tuning fork against the grain of the wood, listening to the chime. Calla is busy tallying crystal ampoules in a iron rack. Lyra sits perched atop the stone railing, swinging her boots over the void, sharpening a dark quartz blade.
 
@@ -309,7 +309,7 @@ They stand together—three distinct shadows casting one unified silhouette agai
 | Character | Real-World Origin | Game Archetype | Chord Node | Alchemical / Cosmic Role | Key Mechanics & Tools |
 |---|---|---|---|---|---|
 | **Charles (The Constant)** | Millwright, micrometer precision, vinyl/chlorine chemical work | The Constant / Chameleon Druid (Annunaki) | **Libra / Trunk** | Carrier of Starlight Crystal (41.7Hz); Alchemical **Rubedo** (Chlorine Explosion / Fire) | Micrometer Calibration, Phase Shift, Starlight Seed Carrier, 'inta inta' Narrative Anchor |
-| **River (The Sentinel)** | Medical logistics, emergency management | The Sentinel (Tall Feline Anunnaki) | **Taurus / Roots** | Guardian of the Root Foundation & Perimeter Vigilance | Triage Management UI, Perimeter Defense Grid, Supply Chain Logistics, Decay Prevention |
+| **Lozen (The Sentinel)** | Medical logistics, emergency management | The Sentinel (Tall Feline Anunnaki) | **Taurus / Roots** | Guardian of the Root Foundation & Perimeter Vigilance | Triage Management UI, Perimeter Defense Grid, Supply Chain Logistics, Decay Prevention |
 | **Kora** | Next Generation (Granddaughter 1) | Acoustic Resonance Specialist | **Pitch / Frequency** | Harmonic Calibration & Vibration Tuning | Equipment Frequency Alignment, Acoustic Pulse Buffs, Mohs Hardness Tuning |
 | **Calla** | Next Generation (Granddaughter 2) | Tactical Quartermaster | **Amplitude / Structure** | Spirit Logistics & Resource Allocation | Resource Exchange, Supply Scarabs, Inventory Preservation, Consumable Synthesis |
 | **Lyra** | Next Generation (Granddaughter 3) | Void Vanguard Scout | **Phase / Spatial** | Pathfinding & Future Cycle Exploration | Void Trail Mapping, Shortcut Unlocks, Evasive Phase Combat, Portal Detection |
@@ -319,7 +319,7 @@ They stand together—three distinct shadows casting one unified silhouette agai
 ## 6. NARRATIVE SUMMARY & FUTURE DEVELOPMENT
 
 1. **Charles's Arc:** Complete integration of real-world industrial precision, chemical transmutation, and personal health struggle into a profound alchemical triumph. The Rubedo explosion transforms pain into cosmic purpose, while the *'inta inta'* moment ensures his deep humanity shines through his divine exterior.
-2. **River's Arc:** Establishes a vital gameplay hub in the Roots, turning real-world medical logistics into an interactive, strategic defense system while realizing her aesthetic vision as the tall feline Sentinel of Anunnaki blood.
+2. **Lozen's Arc:** Establishes a vital gameplay hub in the Roots, turning real-world medical logistics into an interactive, strategic defense system while realizing her aesthetic vision as the tall feline Sentinel of Anunnaki blood.
 3. **The Daughters' Arc:** Expands the narrative spine into the future, providing three distinct playable/interactive classes that guarantee the continuation of the Three-Note Chord across universal cycles.
 
 ---

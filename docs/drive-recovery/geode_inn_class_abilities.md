@@ -38,15 +38,15 @@ In the **Geode Inn**, character identity is grounded in **vibration and frequenc
 
 ---
 
-## 1. The Siren (Andra)
+## 1. The Siren (Katya)
 
 ### 1. Class Name and Identity
-*   **Class Name:** The Siren (Andra)
+*   **Class Name:** The Siren (Katya)
 *   **Identity:** *The Acoustic Sovereign / The Dual Cadence*. Auburn redhead with raw, smoky Amy Winehouse magnetism, effortless vocal authority, and deep emotional resonance. Vibration is her identity: an oscillating dual cadence featuring an outer cello-cadence (fast, sweeping, public performance) and an inner piano-cadence (deliberate, deep, hidden self-recognition).
 *   **Linework UI:** Soft Flowing (Lore), shifting to Fragmented (Crisis) when autoimmune dissonance surfaces.
 
 ### 2. Primary Stat
-*   **Electrostatic Driver (Ethereal Sensing):** Captures ultra-high vocal harmonics, subtle acoustic room reflections, and liquid stone resonance. Allows Andra to perceive hidden soundscapes and water-depth frequencies that bypass ordinary ears.
+*   **Electrostatic Driver (Ethereal Sensing):** Captures ultra-high vocal harmonics, subtle acoustic room reflections, and liquid stone resonance. Allows Katya to perceive hidden soundscapes and water-depth frequencies that bypass ordinary ears.
 
 ### 3. Core Ability Set
 
@@ -82,7 +82,7 @@ In the **Geode Inn**, character identity is grounded in **vibration and frequenc
 *   **Deep Water Layer** (Persephone's 4th Water Layer) & **The Dock / Harbor Coast**. Thrives where open salt water meets living tree bark.
 
 ### 6. Unique Interaction with the Building System
-*   **Acoustic Thatching & Wood Weaving:** When building with **Thatching** and **Wood**, Andra weaves acoustic channels into ceilings and soundboards, converting structures into living resonators (Tier 3 Sacred Buildings). Structures built by Andra amplify party health regeneration by +15% and hum with a 42Hz drone during rainfall.
+*   **Acoustic Thatching & Wood Weaving:** When building with **Thatching** and **Wood**, Katya weaves acoustic channels into ceilings and soundboards, converting structures into living resonators (Tier 3 Sacred Buildings). Structures built by Katya amplify party health regeneration by +15% and hum with a 42Hz drone during rainfall.
 
 ### 7. Unique Interaction with the Fae Kingdom
 *   **Faction Leaning:** Leans toward the **Unseelie Court** (Winter Court / Deep Shadow / The Queen of Webs).
@@ -151,10 +151,10 @@ In the **Geode Inn**, character identity is grounded in **vibration and frequenc
 
 ---
 
-## 3. The Sentinel (River)
+## 3. The Sentinel (Lozen)
 
 ### 1. Class Name and Identity
-*   **Class Name:** The Sentinel (River)
+*   **Class Name:** The Sentinel (Lozen)
 *   **Identity:** *The Grounded Guardian / The Load-Bearing Wall*. Tall cat person of Anunnaki feline lineage, possessing a compact, wide boxing stance and immense spatial presence. Vibration is her identity: a deep, immutable infrasonic hum (64Hz) that anchors space and commands respect without loudness.
 *   **Linework UI:** Sharp / Angular (Guardians), with wide, grounded baseline framing.
 
@@ -165,7 +165,7 @@ In the **Geode Inn**, character identity is grounded in **vibration and frequenc
 
 #### 1. Iron Stance (Boxing Grounding)
 *   **Tabletop Voice:** *"You can hit her with a sledgehammer if you've got the time. Just don't expect her to move."*
-*   **Mechanic:** Roots River to the ground for up to 6 seconds. She becomes completely immune to knockbacks, pulls, and displacement effects. Reduces incoming damage by 50% and stores 30% of absorbed damage to empower her next counter-strike.
+*   **Mechanic:** Roots Lozen to the ground for up to 6 seconds. She becomes completely immune to knockbacks, pulls, and displacement effects. Reduces incoming damage by 50% and stores 30% of absorbed damage to empower her next counter-strike.
 *   **Cooldown:** 12 seconds.
 
 #### 2. Presence Aura (Gravitational Shift)
@@ -185,7 +185,7 @@ In the **Geode Inn**, character identity is grounded in **vibration and frequenc
 
 #### 5. Load-Bearing Wall (Passive)
 *   **Tabletop Voice:** *"If she drops, the room drops with her. So she doesn't drop."*
-*   **Mechanic:** **Passive:** When an ally within 8m takes lethal damage, 50% of that damage is redirected to River's shield/HP pool instead, preventing immediate death.
+*   **Mechanic:** **Passive:** When an ally within 8m takes lethal damage, 50% of that damage is redirected to Lozen's shield/HP pool instead, preventing immediate death.
 
 ### 4. Signature Stone
 *   **Black Tourmaline** (Mohs Hardness: 7.5 / Resonates at 64Hz + 42Hz carrier drone). Dense grounding mineral that absorbs negative frequencies and converts kinetic pressure into piezoelectric stability.
@@ -194,7 +194,7 @@ In the **Geode Inn**, character identity is grounded in **vibration and frequenc
 *   **Deep Roots Zone** (Inn-Tree Catacombs Entrance) & **Earth Gate**.
 
 ### 6. Unique Interaction with the Building System
-*   **Stone & Clay Masonry (Load-Bearing Integrity):** Master of **Stone** and **Clay**. Applying Anunnaki geometry, River's walls, pillars, and foundations feature double structural durability, zero stress fatigue, and can support Tier 4 Mausoleums or heavy vaults without collapsing.
+*   **Stone & Clay Masonry (Load-Bearing Integrity):** Master of **Stone** and **Clay**. Applying Anunnaki geometry, Lozen's walls, pillars, and foundations feature double structural durability, zero stress fatigue, and can support Tier 4 Mausoleums or heavy vaults without collapsing.
 
 ### 7. Unique Interaction with the Fae Kingdom
 *   **Faction Leaning:** Strict Neutrality / Guardian of the Threshold (Bridges Seelie and Unseelie Courts without taking sides).

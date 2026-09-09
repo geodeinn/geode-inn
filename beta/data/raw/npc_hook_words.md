@@ -11,7 +11,7 @@ that tells you exactly who's talking before the name appears.
 | Beverley | "Obviously." | Anne Robinson cadence, Australian accent | Library | Clipped, dismissive librarian. Two-thirds human height. |
 | Joe | "Delightful." | Tom Ellis Lucifer cadence | Meadery | Smooth, amused, self-aware. Paints dragon kittens. |
 | The Teacher | "Incorrect." | Kathy Bates (3 modes) | Archive | Triggers dread. Warm 90% of the time. Canadian accent. |
-| Brim | "Watch this." | Witchy mischief | Hearth | Transforms things. Paired with Monsieur Sentient. |
+| Madame Mimm | "Watch this." | Witchy mischief | Hearth | Transforms things. Paired with Monsieur Sentient. |
 | Monsieur Sentient | "Absurd." | Existential pipe | Hearth | Opinionated. Maintains own agency. Magritte's pipe. |
 | The Wanderer | "Passing through." | Warm traveler | Main floor | Odin in disguise. Chibi thieving ravens. Approachable. |
 | The Owl | "Watching." | Silent presence | Variable | Barn owl. Supernatural watcher. "Wherever an owl is sighted, one of us is near." |
@@ -32,8 +32,8 @@ that tells you exactly who's talking before the name appears.
 
 | NPC | Hook Word(s) | Voice Profile | Zone | Notes |
 |-----|--------------|---------------|------|-------|
-| Bethany | "Kitchen's warm." | Katey Sagal | Tavern | Tavern manager. Heart of the social space. |
-| Jay | "Another round." | Easygoing | Tavern | Bethany's husband. |
+| Wisteria | "Kitchen's warm." | Katey Sagal | Tavern | Tavern manager. Heart of the social space. |
+| Jay | "Another round." | Easygoing | Tavern | Wisteria's husband. |
 | TJ | "Can I touch it?" | Curious child | Tavern | Jay's son. Gets into everything. |
 | Gabby | "I know this one." | Confident child | Tavern | Jay's daughter. Bookish. |
 
@@ -49,7 +49,7 @@ that tells you exactly who's talking before the name appears.
 
 | NPC | Hook Word(s) | Voice Profile | Zone | Notes |
 |-----|--------------|---------------|------|-------|
-| River (The Sentinel) | "Halt." | Guard authority | Entrance | Golden Gloves champion. INFJ. Guards the Inn. |
+| Lozen (The Sentinel) | "Halt." | Guard authority | Entrance | Golden Gloves champion. INFJ. Guards the Inn. |
 | Player Guide | "Ready?" | Jennifer Hale | Tutorial | Welcoming. Guides new players through first steps. |
 | The Bog Fairy Golem | "Grow." | Bayou earth voice | Bayou | played by Krista. Made of swamp. 42Hz Song animated. |
 | Charles (Chameleon Druid) | "What was I?" | Shifting self | Garden/Forest | Shapeshifter. Glioblastoma woven into character. |
@@ -66,13 +66,13 @@ that tells you exactly who's talking before the name appears.
 | NPC | Hook Word(s) | Voice Profile | Zone | Notes |
 |-----|--------------|---------------|------|-------|
 | Will | "Current's shifting." | Ocean-worn | Atlantis | Oceanianoir's partner. Reads the water. |
-| Evan | "Your move." | Chess wizard | Tidal Caves | Dresden Files fan. Potential quest lead. |
+| The Archivist | "Your move." | Chess wizard | Tidal Caves | Dresden Files fan. Potential quest lead. |
 
 ## Animal & Creature NPCs
 
 | NPC | Hook Word(s) | Voice Profile | Zone | Notes |
 |-----|--------------|---------------|------|-------|
-| Stephanie | "I was sleeping." | Sardonic cat | Variable | Talking black cat, green eyes. River's scout. |
+| Stephanie | "I was sleeping." | Sardonic cat | Variable | Talking black cat, green eyes. Lozen's scout. |
 | Tumble | *chime* | Living crystal note | Variable | 4-inch ball of fur. No words — just the Song. Gets stuck in everything. |
 | Brindle | "Where d'it go?" | Frazzled brownie | Variable | Always losing tools. Works for Owls unknowingly. |
 | Cobble | "Right proper, that." | Satisfied brownie | Variable | Proud of finished work. |

@@ -355,7 +355,7 @@ Defines the Inn's unique death ceremony and energy departure mechanics built aro
 The 5-Beat Death Ceremony:
 1. **Beat 1 (The Death):** The world softly fades to dark blue (the color of the underground river). World music recedes slowly rather than cutting off.
 2. **Beat 2 (The Words):** The Inn-Tree / The Morrigan speaks: *"Your name is known."* The Ferryman / Inn-Tree grants permission: *"Your rest is earned."*
-3. **Beat 3 (The River):** The player awakens on the dark blue shore of the subterranean river in the Catacombs, where Charon's boat waits.
+3. **Beat 3 (The Lozen):** The player awakens on the dark blue shore of the subterranean river in the Catacombs, where Charon's boat waits.
 4. **Beat 4 (The Obol):** The player drops one collected stone from their inventory into the water as payment. The stone sinks; the earth reclaims its own.
 5. **Beat 5 (The Crossing & Return):** Charon poles the boat across in silence. Upon arrival at the far bank, Charon speaks two words: *"...There you are."* The player steps out, refreshed, lighter by one stone, and returns to the living world.
 

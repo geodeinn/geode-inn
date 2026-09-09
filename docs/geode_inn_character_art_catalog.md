@@ -82,7 +82,7 @@ Some mythological figures (Anubis, Medusa) are powerful but serve game mechanics
 - Crown of dark antlers and raven skulls
 - One hand holds spear, tip dark with old blood
 - Crows gather at her feet — they are her, extensions of her will
-- River behind her runs dark — she is washing garments of the doomed
+- Lozen behind her runs dark — she is washing garments of the doomed
 - Feeling: ancient dread. Not a creature you fight. A destiny that walks.
 
 **Cultural Source:** Irish mythology — the Badb, the washer at the ford, goddess of war, fate, and death
@@ -617,7 +617,7 @@ Some mythological figures (Anubis, Medusa) are powerful but serve game mechanics
 
 **Cultural Source:** Universal owl folklore — the watcher, the messenger between worlds. Barn owls specifically called "ghost owls" for their silent flight and pale appearance. Connected to Athena (wisdom), the Morrigan (death/prophecy), and the narrative spine's bloodline motif.
 **Why Full Presence:** The Owl is the living symbol of the narrative spine. "Wherever an owl is sighted one of us is near." It is not a game character. It is not a creature you fight or befriend. It watches. Shrinking it would shrink its meaning.
-**Visual Inspiration:** The barn owl from Labyrinth (1986) — the owl that was David Bowie's Jareth the Goblin King in another form. Elegant, otherworldly, magnetic, slightly dangerous. A real bird that is more than a real bird.
+**Visual Inspiration:** The barn owl from Labyrinth (1986) — the owl that was David Bowie's Malachi the Goblin King in another form. Elegant, otherworldly, magnetic, slightly dangerous. A real bird that is more than a real bird.
 **Design Philosophy:** The supernatural element lives in the atmosphere, not the bird. No glowing magical effects, no fantasy embellishments. The power is in the realism and the eyes — the faint amber glow deep within the dark is the only hint that this owl is more than what it appears to be.
 **Narrative Connection:** The Owl represents the unbreakable soul-bond, the bloodline tied to magic and death, and the recurring motif that connects the Geode Inn to Odin's ravens (Huginn and Muninn — thought and memory). The owl watches. The owl remembers. The owl is near.
 
@@ -964,7 +964,7 @@ All 32 creatures are chibi-style playable characters for the "Monster of the Dee
 ### W22. The Wawel Dragon (Smok Wawelski)
 **Image:** https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/eac016152_generated_image.png
 **Region:** Poland | **Vibe:** Permanently hungry, always eating — defeated by sulfur-filled sheep, don't mention it
-**Design:** Stocky red dragon, gold underbelly, small wings, hungry green eyes, always eating, cattle bones scattered, Wawel Hill, Vistula River
+**Design:** Stocky red dragon, gold underbelly, small wings, hungry green eyes, always eating, cattle bones scattered, Wawel Hill, Vistula Lozen
 
 ### W23. Tiddalik the Frog
 **Image:** https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/1a00f3943_generated_image.png
@@ -1004,7 +1004,7 @@ All 32 creatures are chibi-style playable characters for the "Monster of the Dee
 ### W30. The Miengu
 **Image:** https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/437d067bb_generated_image.png
 **Region:** Cameroon | **Vibe:** Gentle, meditative, otherworldly — the kindest water creature, carries spirit-world mail
-**Design:** Dolphin-mermaid spirit, grey-blue skin, dorsal fin, kelp hair with shells, cowrie collar, glowing calabash, purple-silver tail, Wouri River, Mount Cameroon
+**Design:** Dolphin-mermaid spirit, grey-blue skin, dorsal fin, kelp hair with shells, cowrie collar, glowing calabash, purple-silver tail, Wouri Lozen, Mount Cameroon
 
 ### W31. Mount Emei's White Snake (Bai Suzhen)
 **Image:** https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/1287193dc_generated_image.png
@@ -1103,19 +1103,19 @@ All 32 creatures are chibi-style playable characters for the "Monster of the Dee
 **Cultural Roots:** French
 **Design Notes:** Goth scientist/warlock. Glowing periodic table tattoos (metals amber, noble gases signature colors, rare earths shimmer). Wire-rimmed glasses, dark academic coat. Murloc familiar (Squeak) beside. Royo underwater lighting. Gothic anime influence. 118 elements as spellbook.
 
-### 36. Katy (Plant Necromancer)
+### 36. Lichenblossom (Plant Necromancer)
 **Image:** https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/614484658_generated_image.png
 **Location:** The Garden (Van Gogh zone)
 **Role:** Plant necromancer, the Walking Van Gogh
 **Cultural Roots:** Southern Dutch (Brabant)
 **Design Notes:** Van Gogh's world in fantasy. Sunflowers taller than character, bioluminescent irises, vines growing toward sound. Worn apron, soil-stained hands, dead plant un-wilting. Humming a sustained note. Cadmium yellow, cobalt blue, emerald green palette. Soft flowing linework (lore). The necromancy is care.
 
-### 37. Brim & Monsieur Sentient
+### 37. Madame Mimm & Monsieur Sentient
 **Image:** https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/0b18e4b66_generated_image.png
 **Location:** Magritte Zone (surrealist)
 **Role:** Witch, transformation specialist
 **Cultural Roots:** Belgian
-**Design Notes:** Brim: Belgian French energy, playful deadpan surrealist. Dark coat with surreal elements (cloud pocket, starry collar). Floating sentient pipe (Monsieur Sentient) steaming a question mark. Magritte palette: sky blue, cloud white, greens, stone grey. Floating bowler hat, green apple/bird. No-outline linework (cosmological). "Non?"
+**Design Notes:** Madame Mimm: Belgian French energy, playful deadpan surrealist. Dark coat with surreal elements (cloud pocket, starry collar). Floating sentient pipe (Monsieur Sentient) steaming a question mark. Magritte palette: sky blue, cloud white, greens, stone grey. Floating bowler hat, green apple/bird. No-outline linework (cosmological). "Non?"
 
 ### 38. The Fixer (Wrought)
 **Image:** https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/025f930ae_generated_image.png
@@ -1163,7 +1163,7 @@ All 32 creatures are chibi-style playable characters for the "Monster of the Dee
 
 ### Z1. Superstition Mountains (Bierstadt × Royo)
 **Image:** https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/32899911d_generated_image.png
-**Artist:** Albert Bierstadt (Hudson River School sublime) × Royo movement DNA
+**Artist:** Albert Bierstadt (Hudson Lozen School sublime) × Royo movement DNA
 **Zone:** National Parks — volcanic landscape, sleeping giant, Apache cultural layer
 
 ### Z2. Yellowstone (Benton × Royo)
@@ -1230,10 +1230,10 @@ All 32 creatures are chibi-style playable characters for the "Monster of the Dee
 ### 44. Stephanie (The Talking Cat)
 **Image:** https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/c0c835c9d_generated_image.png
 **Location:** Main Floor — Archive shelves
-**Role:** River's girl Friday, intelligence network, black cat with green eyes and white whiskers who talks
+**Role:** Lozen's girl Friday, intelligence network, black cat with green eyes and white whiskers who talks
 **Linework:** Heavy cel-shaded (tradesman)
 
-### 45. Bethany (The Tavern Keeper's Wife)
+### 45. Wisteria (The Tavern Keeper's Wife)
 **Image:** https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/a6f42a70c_generated_image.png
 **Location:** Campgrounds — Huntsman Tavern
 **Role:** Tavern co-manager, the real innkeeper, cookbook questline
@@ -1434,7 +1434,7 @@ All 32 creatures are chibi-style playable characters for the "Monster of the Dee
 **Role:** Joe's wife, druid who became the tree's wisdom, canopy architect, Round Table grower
 **Linework:** Heavy cel-shaded (tradesman) with soft flowing (lore) accents
 
-### 61. River — The Sentinel (In-Game)
+### 61. Lozen — The Sentinel (In-Game)
 **Image:** https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/0c5b7ccc5_generated_image.png
 **Location:** Inn entrance
 **Role:** 6th character class, Golden Gloves champion, INFJ, the Inn's guard

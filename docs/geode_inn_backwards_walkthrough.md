@@ -134,7 +134,7 @@ At each step, we identify:
 ## Below the catacombs. Below everything.
 
 **What connects backwards:**
-- The descent route: Main Floor → Staircase → Catacombs → Underground River → Fae Kingdom (stone circles) → sleeping giant's copper veins → the deepest chamber (the Egg) → the Hollow Earth
+- The descent route: Main Floor → Staircase → Catacombs → Underground Lozen → Fae Kingdom (stone circles) → sleeping giant's copper veins → the deepest chamber (the Egg) → the Hollow Earth
 - The Egg is found in the deepest chamber BEFORE the Grand Collision
 - The traveler carries the Egg through the Grand Collision and up to the Ascension Canopy
 
@@ -250,7 +250,7 @@ At each step, we identify:
 - The Crystal Gardens (neutral, Griffin boss)
 - The Stone Circle Chamber (deepest point, connects to water Layer 7)
 - Oleander: pronounced "Leander," the O is silent, his mother spelled it to be trendy
-- Malachi: the messenger, the labyrinth, Bowie/Jareth energy
+- Malachi: the messenger, the labyrinth, Bowie/Malachi energy
 - The Ties That Bind quest chain (6 parts)
 - The broken tessellation → the imbalance between Seelie and Unseelie chords
 - The brownies' role: unknowing servants of the Owl, become playable class in Shadow Inn
@@ -277,9 +277,9 @@ At each step, we identify:
 
 **What's written:**
 - 7 layers: Surface/Spring → Shallows/Transition → Tidal Caves → Atlantis → Abyssal/The Deep → Underworld Boundary → Roots/Stone Circle Chamber
-- The Siren (Lady Gaga / Andra) — auburn redhead, Amy Winehouse vibe
+- The Siren (Lady Gaga / Katya) — auburn redhead, Amy Winehouse vibe
 - The Pirate (Mandy Patinkin) — 50 BPM bodhrán
-- Zee — drummer from Mexico, dual land/water forms
+- Zeke — drummer from Mexico, dual land/water forms
 - Oceanianoir — goth scientist, periodic table, Murloc familiar Squeak
 - The Selkie — Krista's character, Tidal Caves workshop, three-act crafting quest
 - The Lighthouse — 50 BPM sweep, Bifocal Gaze, 3 tempos (Owl/Pirate/Persephone)
@@ -398,7 +398,7 @@ At each step, we identify:
 - The Host (Patrick Stewart) — "Room's ready." No name asked, no payment required.
 - The Crone (Anthony Hopkins) — measures everything, "Adequate." Learns to listen.
 - The Catalyst (Helena Bonham Carter) — bar/garden, grows portal arrows, Mrs. Lovett energy.
-- Brim — inner chaos agent, rides Monsieur Sentient, breaks formulas.
+- Madame Mimm — inner chaos agent, rides Monsieur Sentient, breaks formulas.
 - The Firekeeper — tells stories by the fire, the main floor's warmth anchor.
 - The Arcade & Score Stone — 7-foot obsidian leaderboard, cultural mini-games.
 - The Thrum (Ben Whishaw) — teaches essence precedes appearance.

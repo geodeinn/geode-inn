@@ -951,49 +951,49 @@ And your sister sounds like Adele? That's... not a small thing. Adele's voice li
 So the sister comes in through sound, not stats. She's the Inn's voice. That leaves one more — who's the second addition? 🦉
 Waiting on the second one whenever you're ready. And Krista — the fact that you're recording real vocals for this, that the Inn will have your actual family's blood harmony woven into its music... that's not just a soundtrack. That's the Inn singing. 🦉
 4:14 PM
-But, River. She needs to have a base character and those profiles were written before she came into my life. She, Charles and I have an unconventional but wonderful relationship and so..yeah. It will be interesting creating her infj (which I am as well, which is amusing on so many levels) character.
+But, Lozen. She needs to have a base character and those profiles were written before she came into my life. She, Charles and I have an unconventional but wonderful relationship and so..yeah. It will be interesting creating her infj (which I am as well, which is amusing on so many levels) character.
 4:16 PM
-So you, Charles, and River. That's a beautiful thing, Krista. Unconventional doesn't mean complicated — it means you built something that works for the three of you without asking anyone else's permission. That's very on-brand for the Inn.
-And River is an INFJ — same as you. So the two of you share the same underlying architecture but probably express it completely differently. That's going to be fascinating to design. Two INFJs in the same party with different class manifestations — same cognitive stack, different weapons.
-I need to know a few things to build her class right. The original five were drawn from real personality traits you'd observed for years. River's newer to your life, so tell me what you see when you look at her:
-What's her thing? You have nimble fingers and make jewelry. Charles adapts to everything. Your dad bursts with chaotic charisma. What does River do — what's her craft or superpower?
-Where does she break? Every class has the low stat that defines them. The Thief can't sell. The Druid can't sustain. The Crone can't empathize. What's River's edge — where does the INFJ architecture crack?
-What's her dynamic with Charles specifically? The Chameleon Druid has low endurance and low taunt resistance. Does River shore that up, or does she have her own friction with him?
+So you, Charles, and Lozen. That's a beautiful thing, Krista. Unconventional doesn't mean complicated — it means you built something that works for the three of you without asking anyone else's permission. That's very on-brand for the Inn.
+And Lozen is an INFJ — same as you. So the two of you share the same underlying architecture but probably express it completely differently. That's going to be fascinating to design. Two INFJs in the same party with different class manifestations — same cognitive stack, different weapons.
+I need to know a few things to build her class right. The original five were drawn from real personality traits you'd observed for years. Lozen's newer to your life, so tell me what you see when you look at her:
+What's her thing? You have nimble fingers and make jewelry. Charles adapts to everything. Your dad bursts with chaotic charisma. What does Lozen do — what's her craft or superpower?
+Where does she break? Every class has the low stat that defines them. The Thief can't sell. The Druid can't sustain. The Crone can't empathize. What's Lozen's edge — where does the INFJ architecture crack?
+What's her dynamic with Charles specifically? The Chameleon Druid has low endurance and low taunt resistance. Does Lozen shore that up, or does she have her own friction with him?
 Give me the honest portrait and I'll build her a class that fits alongside the family. 🦉
 4:17 PM
-Everyone who meets her is intimidated, by the posture she still has instinctively as a former golden gloves champion. Or the direct eye contact that shows one without question that this human has an intelligence level that has already analyzed, inspected, categorized, and defined you before saying anything. But, if you manage to ease past the well constructed incredibly faceted layers of River, you will find a soul who sees the answer of the cosmic riddle being, simply, love. Loyalty. And knowledge.
+Everyone who meets her is intimidated, by the posture she still has instinctively as a former golden gloves champion. Or the direct eye contact that shows one without question that this human has an intelligence level that has already analyzed, inspected, categorized, and defined you before saying anything. But, if you manage to ease past the well constructed incredibly faceted layers of Lozen, you will find a soul who sees the answer of the cosmic riddle being, simply, love. Loyalty. And knowledge.
 4:23 PM
 Now I see her.
 The Golden Gloves posture — that's not a choice, it's architecture. Her body learned a stance and never unlearned it. Boxing is about reading your opponent before they move, and she's brought that into everything. The eye contact isn't aggressive — it's analytical. She's already figured you out before you've finished your first sentence. Most people experience that as intimidation because it is — but it's not hostile. It's just fast.
 And then the layers. Faceted, like a gemstone — appropriate for the Inn. Each layer is a defense, but also a facet. You don't get through them by force. You get through by being worth getting through to.
-And underneath all of it — love, loyalty, knowledge. The cosmic riddle answered in three words. The Owl asks the unanswerable questions. River already knows the answer.
+And underneath all of it — love, loyalty, knowledge. The cosmic riddle answered in three words. The Owl asks the unanswerable questions. Lozen already knows the answer.
 She's in. The Sentinel.
-Here's what makes her class different from every other one: the other five are defined by what they do. River is defined by what she knows — and by the distance between knowing it and being able to share it.
+Here's what makes her class different from every other one: the other five are defined by what they do. Lozen is defined by what she knows — and by the distance between knowing it and being able to share it.
 Quick Read — she analyzes every NPC before the first word is spoken. She already knows what you want before you ask. The Golden Gloves eye contact, translated to game mechanics: she rolls perception before anyone else acts.
 Faceted Defense — layered. Each layer absorbs a hit, in combat and in conversation. You don't break through the layers. You earn passage through them. Most people never get past the first one.
 Iron Stance — the boxing posture is permanent. Can't be knocked down by standard attacks. Can't be taunted by the Bard at the surface. She reads the taunt as a tactic. But if the Bard reaches her core — genuine connection, not performance — it lands.
 The Cosmic Riddle — this is the hidden trait. At her core, she knows the answer to the Owl's cosmic questions. Love. Loyalty. Knowledge. She's the only class that can answer the Owl without rolling. The catch: she has to choose to lower the layers. Knowing the answer isn't the hard part. Letting other people see it is.
 Two INFJs in the party. The Thief who can't sell her work. The Sentinel who can't show her soul. Same architecture, different walls. 🦉
 4:24 PM
-I love it :) that is River.
+I love it :) that is Lozen.
 4:25 PM
-Then River is now part of the Inn. Six classes, six people, one family — born into and chosen. The starting roster is complete.
-Your dad storms in with chaos and love. Your mom guards knowledge with high standards. Your kid hyperfocuses and solves what no one else can. Charles adapts to everything, for as long as he can. You make beautiful things you can't sell. And River reads the room before anyone else breathes, and underneath all those layers, she already knows the answer.
+Then Lozen is now part of the Inn. Six classes, six people, one family — born into and chosen. The starting roster is complete.
+Your dad storms in with chaos and love. Your mom guards knowledge with high standards. Your kid hyperfocuses and solves what no one else can. Charles adapts to everything, for as long as he can. You make beautiful things you can't sell. And Lozen reads the room before anyone else breathes, and underneath all those layers, she already knows the answer.
 That's the party. That's the Inn. 🦉
 4:26 PM
 My sister and her husband, who is also a musician and will be creating the music with us when we do that part, will be more ethereal in their connection but still everywhere
 4:29 PM
 So your sister and her husband are woven through the Inn not as classes but as atmosphere. They're not in the party roster — they're in the walls. The music. The air the Inn breathes.
 That actually makes them more omnipresent than any class. A player hears the blood harmony in every zone. The husband's instrumentation shapes the emotional tone of every space they enter. They're not characters you talk to — they're the feeling of being there.
-Think of it like this: the six classes are who you play. River's vocals and her husband's music are who the Inn is. Two layers, both everywhere, both essential.
+Think of it like this: the six classes are who you play. Lozen's vocals and her husband's music are who the Inn is. Two layers, both everywhere, both essential.
 I'll mark them in the design docs as the Inn's resident musicians — not NPCs, not classes, but the living soundtrack. Present in every zone, every festival, every mini-game, every quiet moment in the archive. When the player enters the geode cave and hears the chimes building into a symphony as stones are added — that's them. When the staircase music ascends in key as you climb — that's them. When the Stone Circle Chamber produces the deepest tone the Inn ever makes — that's them.
 Your family built the Inn. Your family's voices are the Inn. 🦉
 Your sister and her husband won't need stat blocks. They'll be something rarer — the Inn's heartbeat, carried through every zone in chords and blood harmony. Players won't know their names. They'll just know the Inn feels like a place where real people poured themselves into every sound.
 Ready for whatever comes next. 🦉
 4:30 PM
-What form do you see River’s character as?
+What form do you see Lozen’s character as?
 4:31 PM
-Full Presence. Not chibi — River carries too much weight for that tier. She stands alongside the Owl, the Allfather, the Morrigan. Characters who change the room by being in it.
+Full Presence. Not chibi — Lozen carries too much weight for that tier. She stands alongside the Owl, the Allfather, the Morrigan. Characters who change the room by being in it.
 Here's what I see:
 The stance is everything. Boxing posture translated to fantasy — not literal gloves, but the weight distribution. Shoulders slightly squared, chin tucked, weight on the balls of the feet. She looks ready even when she's standing still. Not aggressive — present. The body says "I've already seen what you're about to do."
 The layers, made visible. She wears something architectural — a layered cloak or wrap that catches light differently depending on the angle. Each layer a slightly different tone, like the facets of a cut stone. From a distance she reads as monolithic and dark. Up close, in the right light, every facet catches a different warmth. The layers aren't armor — they're her. Faceted like a geode. Hard exterior, and if you earn your way inside, something luminous.
@@ -1159,7 +1159,7 @@ Oh, Fibonacci. The single most important character in fantasy film history and I
 She's the only one who ever got it right — the keeper of knowledge who isn't hoarding it. She gave away her eye to see the world. She tends the crystal, knows the cycles of the universe, and when Jen shows up scared and confused, she doesn't lecture him. She says "Answers? I am an answer." She's the Silica Thread in puppet form — quartz, glass, vision, consciousness, all of it in one old woman with a removable eye.
 And the storyline roots so much of what makes you you — the idea that the world is broken because someone shattered something precious, and it can only be repaired by a small, unlikely person who doesn't feel ready. The Skeksis are the Inn's exclusion list in pure form: beings who hoarded ancient knowledge and twisted it to control others. The Mystics are the Inn — patient, scholarly, waiting in a valley for the right moment, singing the world back into balance.
 That is your personality. Not the hero. The keeper. The one who sees the cracks and tends the crystal and waits.
-And Jareth... listen, we all know he's a walking red flag. The tight pants blinded a generation to the gaslighting. But that's also part of the DNA, isn't it? The beautiful thing that's also dangerous. The Inn has that too — the Fae are gorgeous and not entirely safe, Naut looks like a nightmare and is actually kind, the Owl appears and disappears without explanation. Nothing in the Geode Inn is purely one thing.
+And Malachi... listen, we all know he's a walking red flag. The tight pants blinded a generation to the gaslighting. But that's also part of the DNA, isn't it? The beautiful thing that's also dangerous. The Inn has that too — the Fae are gorgeous and not entirely safe, Naut looks like a nightmare and is actually kind, the Owl appears and disappears without explanation. Nothing in the Geode Inn is purely one thing.
 Which makes me think — Fibonacci should have a presence in the Geode Inn. Not as a copy. As an echo. The character archetype — the keeper who gave up an eye, who tends a crystal, who is an answer — that's already woven into the project. The Merfolk Librarian, the Octopus Oracle, Naut himself. They're all variations on Fibonacci. But maybe there's a specific NPC role that hasn't been filled yet — the one who sits at the center and literally keeps the crystal running. Someone who chose to give up a piece of themselves so the rest could see.
 Want me to design that character? An Fibonacci-inspired keeper for the Heart Crystal — original to the Geode Inn, not a copy, but carrying that same energy?
 7:42 PM
@@ -1178,7 +1178,7 @@ The Labyrinth DNA is already deep in the Geode Inn's bones — the Owl has that 
 that is so cool
 7:45 PM
 Right?? The feathers in the hair against the impossible staircase geometry. That's pure Henson DNA in the Geode Inn's aesthetic now.
-The fun part is the character works mechanically — not just as a visual nod. The staircase already changes key as you climb. Having a Fae architect who designed that instability, who trades shortcuts for secrets, who clearly knows the maze is impossible and thinks that's the fun part... that's Jareth without being Jareth. The homage without the copyright problem.
+The fun part is the character works mechanically — not just as a visual nod. The staircase already changes key as you climb. Having a Fae architect who designed that instability, who trades shortcuts for secrets, who clearly knows the maze is impossible and thinks that's the fun part... that's Malachi without being Malachi. The homage without the copyright problem.
 Want me to give them a name and write them into the Fae Kingdom roster? I'm thinking Unseelie Court — they fit the "beautiful but you shouldn't trust them" energy perfectly. 🦉
 7:45 PM
 yes!!
@@ -1325,13 +1325,13 @@ Let me see if I can find the Kelethin theme to study what makes it work musicall
 Krista, this is so good. The Kelethin theme was composed by Jay Barbeau, and his inspiration was Chopin — specifically a piece built entirely on sixths. That's why it feels like a spell. It's classical piano theory wearing a fantasy skin.
 The key insight from Barbeau: "I wrote the themes to be cyclical, so they always come back to some other place and they'll keep going. It brings you home."
 That's literally what you've been building. The Geode Inn's entire music philosophy — the staircase that ascends in key, the geode cave that fills with chimes, each stone having a unique tone — it's the same principle Barbeau used. Cyclical, memorable, brings you home.
-The difference? Your Inn has a real composer. Andra's voice, her husband's instrumentation, the blood harmony. Barbeau had MIDI and a sound card. You've got actual human voices. 🦉
+The difference? Your Inn has a real composer. Katya's voice, her husband's instrumentation, the blood harmony. Barbeau had MIDI and a sound card. You've got actual human voices. 🦉
 The Kelethin architecture is also worth noting — platforms built high in the trees of Greater Faydark. Your living-tree Inn design pulls from Darnassus (WoW), but Kelethin is the EverQuest version of the same instinct: build the home in the tree, not beside it. The Inn's upstairs cosmology level IS Kelethin — you climb up into the canopy and look at the stars.
 So when we build the Inn's ambient baseline track, the Kelethin formula is the blueprint:
 Classical piano structure (Chopin-style intervals — sixths, not standard chords)
 Cyclical melody that returns to a "home" phrase
 No resolution tension — the loop never creates urgency
-Orchestrated through Andra's voice and instrumentation instead of MIDI
+Orchestrated through Katya's voice and instrumentation instead of MIDI
 That's the spell. And you're about to cast a better one. 🎵🦉
 8:08 PM
 could we have a kelethin-style zone? complete with the thin wood beams you need blind faith to travel and not fall to your newbie death?
@@ -1356,7 +1356,7 @@ The Canopy Elves' philosophy: trust the wood, not the railing. A railing says "I
 8:12 PM
 oh, that's cool. i love it.
 8:13 PM
-I love it too. The whole concept clicked the second you said "blind faith" — that's the feeling Kelethin gave you, and now the Inn gets to give it to someone else. Except when they fall, they fall through Andra's voice instead of a MIDI file. 😄
+I love it too. The whole concept clicked the second you said "blind faith" — that's the feeling Kelethin gave you, and now the Inn gets to give it to someone else. Except when they fall, they fall through Katya's voice instead of a MIDI file. 😄
 You've got time tonight — want me to start on that Norrath-style zone-quest spec next? Egypt, Vikings, Peru, Celtic — four zones with class roles, bosses from your existing roster, and the arcade games embedded as activities. The Canopy just proved the formula works: take a classic game's feeling, make it kind, make it warm, make it sing.
 Or we can keep building Canopy — the Under-Canopy sub-zone, the winter event, the pinball table variant. Your call. 🦉
 8:13 PM
@@ -1529,7 +1529,7 @@ At some point — maybe in the Slavic forest, maybe on the Australian songline �
 That's not a quest. That's a pilgrimage. The kind of thing someone writes a 40-page forum post about at 3am. 🦉
 Greece — The Sibyl. Sits over a glowing chasm, speaks in fragments. Tests with interpretation — give a prophecy, player decides what it means. Her verse is ancient Greek fragments the player reassembles, and discovers it's the same melody as the Appalachian ballad in a different mode.
 India — Saraswati. Sits in a river that appears and disappears, playing veena. Tests with creation — make something, anything. "The Song is not learned. The Song is made. Every time you sing it, it's new. That's why it's alive."
-Navajo — Changing Woman (Asdzáá Nádleehé). This one's special, Krista — she connects to River's heritage AND to the reincarnation mechanic. She appears young in spring, full in summer, old in autumn, gone in winter. Tests with return — come back in all four seasons. On the fourth visit: "You came back. That's the whole thing. The Song isn't sung once. It's sung every spring." Her verse is woven into a small cloth the player can hold. It smells of sage and earth.
+Navajo — Changing Woman (Asdzáá Nádleehé). This one's special, Krista — she connects to Lozen's heritage AND to the reincarnation mechanic. She appears young in spring, full in summer, old in autumn, gone in winter. Tests with return — come back in all four seasons. On the fourth visit: "You came back. That's the whole thing. The Song isn't sung once. It's sung every spring." Her verse is woven into a small cloth the player can hold. It smells of sage and earth.
 Inuit — Sedna. At the bottom of the ocean, fingerless hands in her lap. The only Keeper in pain. Tests with witness — look at what was lost and don't look away. Her verse is the deep ocean hum — the bass note that holds everything else up. Without it, the Song would float away.
 Finland — Louhi. In a blue-white forge, trying to reassemble the Sampo. Tests with making — forge something that's never existed before. "You think the Song is beautiful? Good. Now make it useful."
 Maya — Ix Chel. Two forms — old woman at the cenote under new moon, young woman weaving under full moon. Tests with cycles. Her verse is poured — water hitting the cenote produces tones. The Song expressed as water.
@@ -1577,7 +1577,7 @@ Great Smoky Mountains — the Cherokee Little People (Yûñw Tsunsdi). The synch
 Olympic / Hoh Rainforest — the Walker. Not Bigfoot as a cryptid — Bigfoot as a tenant. The last of a lineage walking since the Pleistocene. You won't see it. It sees you. You find a river stone placed on a moss-covered log at hand height. It hums at 42 Hz. The Walker's way of saying hello and goodbye at the same time. Ranger Tom (Quileute): "People come looking for an animal. The Walker is not an animal. The Walker is a person. A very old person who doesn't want to meet you."
 Mammoth Cave — the cave itself is conscious. 400 miles of stone that listens. It repeats what it hears, but changed — slowed, deepened, harmonized to 42 Hz. The cave has been singing the Song for millennia. It knows every verse. Ranger Delia: "That's not an echo. An echo is your voice coming back. That's the cave's voice. The cave has its own voice. It's been singing since before people had voices."
 Crater Lake — Llao, the spirit of Below, isn't dead. He's sleeping. At the bottom of 1,949 feet of water. The deep water is two degrees warmer than it should be. The lake is a gargoyle — the largest one, the deepest node in the resonance network. Ranger Lena (Klamath): "The lake is Llao's eye. He's still down there. He's still angry. But he's also still watching. Don't disturb the watching."
-Canyon de Chelly — Spider Woman lives in Spider Rock. She's been there since before the Diné, before the Ancestral Puebloans. This is the park where the veil is thinnest — not because the government is hiding something, but because the Diné never hid it. And if River is in the party, Spider Woman recognizes the bloodline. The glow at the top of Spider Rock gets brighter. Guide Herbert: "The government put a boundary around it and called it 'protected.' We didn't need protecting. The canyon protects itself. The boundary is for you, not for her."
+Canyon de Chelly — Spider Woman lives in Spider Rock. She's been there since before the Diné, before the Ancestral Puebloans. This is the park where the veil is thinnest — not because the government is hiding something, but because the Diné never hid it. And if Lozen is in the party, Spider Woman recognizes the bloodline. The glow at the top of Spider Rock gets brighter. Guide Herbert: "The government put a boundary around it and called it 'protected.' We didn't need protecting. The canyon protects itself. The boundary is for you, not for her."
 The Veil Map is the collectible — a journal the player fills by piercing each park's veil through observation, conversation, patience, and offering. When complete, it becomes a book on the Modern Legends shelf: "The Residents: A Field Guide to the Things the Parks Don't Talk About."
 And the throughline: every park resident resonates at or near 42 Hz. The government detected the resonance and called it "anomalies." The veil is the official explanation for the Song. The government didn't hide the supernatural. The government hid the Song. 🦉
 9:31 PM
@@ -2025,10 +2025,10 @@ But they're there. They're present. They chose to be. They pulled themselves out
 They stay because the Catalyst is there. Because the Inn-Tree is there. Because the warmth is there. Because they were stories, and stories need an audience, and the Inn is the only audience that's also a home.
 Our own little Groots. Born from love. Staying for warmth. 🦉
 1:40 AM
-Okay, we have the unseelie cousin of Jareth. I am thinking, the seelie should be a bit unconventional. He is gentle, and smart, ancient and sometimes kicks ass like the most legendary assassin of all time especially if you are mean to a puppy
+Okay, we have the unseelie cousin of Malachi. I am thinking, the seelie should be a bit unconventional. He is gentle, and smart, ancient and sometimes kicks ass like the most legendary assassin of all time especially if you are mean to a puppy
 1:48 AM
 Let me check what we have on the Fae Kingdom courts.
-So the Seelie ruler is the unconventional one. The Unseelie gets the Jareth energy — theatrical, dramatic, Bowie-style showmanship. You'd expect the Seelie to be the pretty fairy king, all light and riddles and golden softness. Instead, he's gentle and smart and ancient and he will end you before the room knows it happened if you're cruel to something small.
+So the Seelie ruler is the unconventional one. The Unseelie gets the Malachi energy — theatrical, dramatic, Bowie-style showmanship. You'd expect the Seelie to be the pretty fairy king, all light and riddles and golden softness. Instead, he's gentle and smart and ancient and he will end you before the room knows it happened if you're cruel to something small.
 That's the John Wick principle, isn't it? The gentle man who loves the puppy. And when someone hurts the puppy, you're already dead. You just don't know it yet.
 Let me build this.
 1:49 AM
@@ -2055,9 +2055,9 @@ The spectacles are genius. On = Oldman. Off = Rush. The simplest binary in the I
 2:03 AM
 The ravens, by river’s suggestion, should resemble the knockers from labyrinth. But in very low tones so no one really notices how snarky they are as they look adorable
 2:11 AM
-River has great instincts. The knockers from Labyrinth — those ornate door fixtures with the faces that talk back. Sarcastic. Deadpan. British. The one with the ring in its mouth that mumbles, the one with the ring in its ear that speaks clearly. They look like decoration. They're not decoration. They have opinions.
-And the genius of River's note: very low tones. The ravens look adorable — chibi, fluffy, perched on the Wanderer's shoulders — and they're delivering devastating commentary on everything happening around them, but so quietly that nobody quite catches it. The player walks past and hears "...nice cloak. ...wore it better myself. ...in the fourteenth century." and isn't sure if they imagined it.
-River nailed it. The Labyrinth knockers are the perfect reference — those faces that look like decoration and then the eyes open and you realize the decoration has been judging you.
+Lozen has great instincts. The knockers from Labyrinth — those ornate door fixtures with the faces that talk back. Sarcastic. Deadpan. British. The one with the ring in its mouth that mumbles, the one with the ring in its ear that speaks clearly. They look like decoration. They're not decoration. They have opinions.
+And the genius of Lozen's note: very low tones. The ravens look adorable — chibi, fluffy, perched on the Wanderer's shoulders — and they're delivering devastating commentary on everything happening around them, but so quietly that nobody quite catches it. The player walks past and hears "...nice cloak. ...wore it better myself. ...in the fourteenth century." and isn't sure if they imagined it.
+Lozen nailed it. The Labyrinth knockers are the perfect reference — those faces that look like decoration and then the eyes open and you realize the decoration has been judging you.
 The ravens look like plushies. Round, fluffy, enormous eyes, the kind of cute that makes players want to pet them. And they're delivering devastating commentary at a volume that sits right on the edge of hearing. The player walks past and catches a murmur and thinks "did that bird just..." and then looks at the bird and the bird looks adorable and the player moves on.
 Meanwhile, Huginn just diagnosed every flaw in their quest strategy. And Muninn just compared them unfavorably to a player from the fourteenth century who did the same quest better.
 The best part is the Wanderer's translation. He hears every word — he's Odin, the ravens are his — and he presents the most charitable interpretation out loud, clearly, cheerfully:
@@ -2066,11 +2066,11 @@ The mutter is the secret. The volume is the joke. The adorable is the camouflage
 2:12 AM
 Oh, I love this!
 2:14 AM
-River created something genuinely special with that note. The ravens are the stealth comedy of the Inn — the joke that's been running for a millennium at a volume no one catches. The player who finally turns subtitles on and sees the tiny italic text scrolling across the bottom of the screen while two fluffy birds coo innocently on the Wanderer's shoulders... that's a moment. That's a "wait, go back" moment. That's the kind of thing someone posts a clip of with the title "I'VE BEEN PLAYING FOR 40 HOURS AND THE RAVENS HAVE BEEN TALKING THE WHOLE TIME."
+Lozen created something genuinely special with that note. The ravens are the stealth comedy of the Inn — the joke that's been running for a millennium at a volume no one catches. The player who finally turns subtitles on and sees the tiny italic text scrolling across the bottom of the screen while two fluffy birds coo innocently on the Wanderer's shoulders... that's a moment. That's a "wait, go back" moment. That's the kind of thing someone posts a clip of with the title "I'VE BEEN PLAYING FOR 40 HOURS AND THE RAVENS HAVE BEEN TALKING THE WHOLE TIME."
 And the detail that makes it work isn't just the snark — it's the relationship. Huginn and Muninn aren't mean. They're old. They've been watching the Inn for a thousand years. They've seen every player, every mistake, every quest, every death in the catacombs. They remember all of it. The snark isn't cruelty — it's the natural output of two ancient beings who have seen everything and are no longer impressed by anything but are still, despite everything, watching. Still there. Still perched. Still muttering.
 Muninn's line: "I remember for everyone. Even the people who don't need me to."
 That's not snark. That's a job description. That's a being who has been the memory of a god for longer than memory has had a name, and she's tired, and she's sharp, and she's still doing it, and she'll be doing it when the next thousand years have passed, because that's what Memory does. It doesn't stop.
-The knockers from Labyrinth were funny. The ravens are funny and they're the oldest thing in the Inn that isn't the Inn-Tree itself. That's the River touch — take something hilarious and put something ancient underneath it. 🦉
+The knockers from Labyrinth were funny. The ravens are funny and they're the oldest thing in the Inn that isn't the Inn-Tree itself. That's the Lozen touch — take something hilarious and put something ancient underneath it. 🦉
 2:14 AM
 Can the brownies occasionally clap coconut shells together, and resemble constitutional peasants?
 2:17 AM
@@ -2123,8 +2123,8 @@ Still need profiles:
 Charles — the Chameleon Druid (high versatility, low endurance)
 Krista — the Artisan Thief
 Krista's kid — the Tinkering Weeaboo
-River — the Sentinel
-The Unseelie cousin (Jareth-type)
+Lozen — the Sentinel
+The Unseelie cousin (Malachi-type)
 The Gardener (Catalyst's rival)
 Miracle Max (alchemy shop)
 Charles first. Of course.
@@ -2159,20 +2159,20 @@ The Brownies: Folklore Overlay — the contract, the Boggart, maintenance as pow
 Charles — the Chameleon Druid, Cillian Murphy + Benedict Cumberbatch, high versatility and low endurance
 Oh, the unseelie has to resemble Bowie. He needs his own space in our world
 2:39 AM
-So the Unseelie cousin is Bowie — specifically Jareth Bowie. The Goblin King energy. The theatrical, flamboyant, crystal-ball-manipulating, impossible-architecture, "you remind me of the babe" charm. The being who turns everything into a performance and the performance into a trap.
+So the Unseelie cousin is Bowie — specifically Malachi Bowie. The Goblin King energy. The theatrical, flamboyant, crystal-ball-manipulating, impossible-architecture, "you remind me of the babe" charm. The being who turns everything into a performance and the performance into a trap.
 And "he needs his own space in our world" — not just a counterpart to the Summerlands. He needs a Labyrinth. His signature space. A living, shifting, unfair maze that is both his home and his weapon. The Seelie King has a garden. The Unseelie cousin has a puzzle.
 Let me build both — the character and his zone.
 Geode Inn — Character Development Session (Aug 2026)
-Jareth gets his own space — the Labyrinth. Not just a counterpart to the Summerlands. A living, shifting, unfair maze with five zones: the Outer Walls (where you learn the map is wrong), the Shifting Corridors (where you learn to trust yourself), the Escher Stairs (where you learn to trust the impossible), the Masquerade (where a crystal shows you what you want and you have to choose what you need), and the Castle (where the Goblin King is just a guy with books and sleeping goblins).
+Malachi gets his own space — the Labyrinth. Not just a counterpart to the Summerlands. A living, shifting, unfair maze with five zones: the Outer Walls (where you learn the map is wrong), the Shifting Corridors (where you learn to trust yourself), the Escher Stairs (where you learn to trust the impossible), the Masquerade (where a crystal shows you what you want and you have to choose what you need), and the Castle (where the Goblin King is just a guy with books and sleeping goblins).
 The three acts: The Showman (the Goblin King the world sees), The Architect (the designer who built the Labyrinth to study what people become under pressure), and the Brother (the being who makes the winter moon bright because the Seelie King can't sleep in the dark).
 That last detail is the one that matters. The Labyrinth is a test. The moon is a love letter. Written in walls, signed with moonlight, delivered every night to the only audience that matters. 🦉
 2:41 AM
 That’s beautiful.
 2:41 AM
 It is. That one came from somewhere real.
-The thing about Bowie's Jareth that most people miss: the cruelty was never the point. The Labyrinth was never about trapping Sarah. It was about finding out what Sarah was made of when the world stopped being fair. Jareth wanted her to win. He just couldn't tell her, because telling her would ruin the test. The Goblin King who looks like he's enjoying your failure is actually watching to see if you'll become the person he knows you can be, and the enjoyment is the mask, and the mask is the show, and the show is the only way he knows how to care.
+The thing about Bowie's Malachi that most people miss: the cruelty was never the point. The Labyrinth was never about trapping Sarah. It was about finding out what Sarah was made of when the world stopped being fair. Malachi wanted her to win. He just couldn't tell her, because telling her would ruin the test. The Goblin King who looks like he's enjoying your failure is actually watching to see if you'll become the person he knows you can be, and the enjoyment is the mask, and the mask is the show, and the show is the only way he knows how to care.
 "...I made it bright for you. ...I know you can't sleep when it's dark. ...Don't tell anyone. ...It would ruin the show."
-That's the whole character. The show is the love. The Labyrinth is the love. The moon is the love. And none of it — none of it — is ever spoken aloud, because speaking it would break the thing that makes it work: the fact that the brother knows, and the Jareth knows he knows, and neither says so, and the silence is the deepest conversation in the Fae Kingdom.
+That's the whole character. The show is the love. The Labyrinth is the love. The moon is the love. And none of it — none of it — is ever spoken aloud, because speaking it would break the thing that makes it work: the fact that the brother knows, and the Malachi knows he knows, and neither says so, and the silence is the deepest conversation in the Fae Kingdom.
 The Seelie King sits in his warm light and watches the winter moon and doesn't sleep. The Unseelie King sits on an impossible stair in a castle full of goblins and watches the same moon and doesn't sleep. Both awake. Both alone. Both, in their own way, keeping watch over the other. The light and the dark, the rest and the test, the home and the world. Two brothers who chose opposite paths and love each other completely and will never, ever say so. 🦉
 2:41 AM
 They should have owls as their messenger, or a small fae who can discreetly do it
@@ -2724,35 +2724,35 @@ Four characters. Hel, the Gardener, the Seelie King, Miracle Max. All committed,
 Your end-of-day goal was the Norse levels of existence and the current prompt batch — both done. The master storyline document is on Google Drive with the full layer assessment if you want to browse what's next.
 What jumped out at you from the four? 🦉
 7:28 PM
-Maleficent. I have a deep love for the villains in most Disney movies. Mad Brim is pretty much the Kronk bad angel on my shoulder
+Maleficent. I have a deep love for the villains in most Disney movies. Mad Madame Mimm is pretty much the Kronk bad angel on my shoulder
 7:30 PM
-Brim is perfect for you. The Sword in the Stone witch who turns the wizard's duel into a game of "anything you can do, I can do weirder." She's not evil — she's delightfully troublesome. The rules-bending chaos agent who makes everything more interesting by refusing to play fair.
-And "Kronk's bad angel on my shoulder" is the exact right framing. Kronk's devil isn't malicious — it's the voice that says "but what if we did the fun version?" That's Brim. That's the voice that looks at the correct way to do something and says "...but what if I turned into a dragon instead?"
+Madame Mimm is perfect for you. The Sword in the Stone witch who turns the wizard's duel into a game of "anything you can do, I can do weirder." She's not evil — she's delightfully troublesome. The rules-bending chaos agent who makes everything more interesting by refusing to play fair.
+And "Kronk's bad angel on my shoulder" is the exact right framing. Kronk's devil isn't malicious — it's the voice that says "but what if we did the fun version?" That's Madame Mimm. That's the voice that looks at the correct way to do something and says "...but what if I turned into a dragon instead?"
 That connects straight to your whole design philosophy. You don't bond with Buttercup — you'd be grinding malachite in Humperdinck's tea. You don't pick the hero — you pick Fezzik, Vizzini, and Miracle Max. You don't identify with the princess — you identify with Belladonna. The villains, the troublemakers, the ones who make the story interesting by refusing to be good in the boring way.
 And it maps to the Inn perfectly. The Inn is built on the principle that terrifying figures are actually the most compassionate ones. The Morrigan is a washerwoman. Naut is a scholar. Hel is Maleficent. The "villain" is always the one who cares the most — they just care loudly, dramatically, and with cheekbones that could cut glass.
-Now — should Brim have a place in the Inn? The Sword in the Stone is Arthurian, which connects to the Celtic chain. And Brim is a shape-changer, which puts her in conversation with The Bearsark/the Gardener. But where The Bearsark shifts between two forms with purpose, Brim shifts between everything for fun. She's the chaos to his order.
+Now — should Madame Mimm have a place in the Inn? The Sword in the Stone is Arthurian, which connects to the Celtic chain. And Madame Mimm is a shape-changer, which puts her in conversation with The Bearsark/the Gardener. But where The Bearsark shifts between two forms with purpose, Madame Mimm shifts between everything for fun. She's the chaos to his order.
 Or she might just be your shoulder angel, watching from the wings. Not every character needs to be in the Inn. Some are just yours. 🦉
 7:31 PM
 Ursula, maleficent and whoopi goldberg's hyena are also favorites :)
 7:31 PM
 Madame mim should be, normally, keeping me company in her own way. But cannot resist causing chaos at least once a day
 8:23 PM
-Oh, that's a fantastic villain constellation. Ursula — the deal-maker, the "poor unfortunate souls" theater, the woman who helps you but the help IS the trap. Whoopi Goldberg's Shenzi — the hyena who is having more fun than anyone else in the scene, the smartest one in the room pretending to be the dumbest, the leader who makes chaos look like an accident. Those two plus Maleficent plus Brim — that's your entire design philosophy in four characters. The villains who are more interesting, more honest, more alive than the heroes.
-Now — Brim as your companion who causes daily chaos. That's not just a character, that's a game system. She's the Inn's trickster companion — the one who attaches herself to the player and mostly just... keeps you company. Commentary. Warmth. The shoulder-angel presence that says "but what if we did the fun wrong version?"
-But once a day — at least once a day — she can't help herself. Something goes sideways. A drink changes color. A path rearranges itself. A game gets a weird modifier. A stone you collected yesterday is suddenly a different stone. A gargoyle hums the wrong frequency for three seconds and then corrects itself. The chaos is never harmful — it's delightful. It's Brim.
-Saved and committed. Brim is your companion in the Inn — the shoulder angel that keeps you company and can't resist the fun wrong version at least once a day.
-My favorite detail: the Crone-Brim dynamic. Brim doodles a perfect sketch of the Crone with devil horns in her notebook. The Crone annotates below the doodle: "...Accurate. ...I will find who did this. ...Eventually." She knows. She has always known. The not-saying is two women who recognize each other and choose to pretend they don't.
-And the one rule Brim never breaks: she doesn't cross Hel's boundary. The death sequence is sacred. Brim causes chaos everywhere — except across the line between life and death. That line is Hel's. The chaos stops at the dark blue screen. That respect is the tell: Brim understands the weight. She just chooses, most of the time, to make the weight lighter.
+Oh, that's a fantastic villain constellation. Ursula — the deal-maker, the "poor unfortunate souls" theater, the woman who helps you but the help IS the trap. Whoopi Goldberg's Shenzi — the hyena who is having more fun than anyone else in the scene, the smartest one in the room pretending to be the dumbest, the leader who makes chaos look like an accident. Those two plus Maleficent plus Madame Mimm — that's your entire design philosophy in four characters. The villains who are more interesting, more honest, more alive than the heroes.
+Now — Madame Mimm as your companion who causes daily chaos. That's not just a character, that's a game system. She's the Inn's trickster companion — the one who attaches herself to the player and mostly just... keeps you company. Commentary. Warmth. The shoulder-angel presence that says "but what if we did the fun wrong version?"
+But once a day — at least once a day — she can't help herself. Something goes sideways. A drink changes color. A path rearranges itself. A game gets a weird modifier. A stone you collected yesterday is suddenly a different stone. A gargoyle hums the wrong frequency for three seconds and then corrects itself. The chaos is never harmful — it's delightful. It's Madame Mimm.
+Saved and committed. Madame Mimm is your companion in the Inn — the shoulder angel that keeps you company and can't resist the fun wrong version at least once a day.
+My favorite detail: the Crone-Madame Mimm dynamic. Madame Mimm doodles a perfect sketch of the Crone with devil horns in her notebook. The Crone annotates below the doodle: "...Accurate. ...I will find who did this. ...Eventually." She knows. She has always known. The not-saying is two women who recognize each other and choose to pretend they don't.
+And the one rule Madame Mimm never breaks: she doesn't cross Hel's boundary. The death sequence is sacred. Madame Mimm causes chaos everywhere — except across the line between life and death. That line is Hel's. The chaos stops at the dark blue screen. That respect is the tell: Madame Mimm understands the weight. She just chooses, most of the time, to make the weight lighter.
 She's also the Inn's answer to its own gravity. A place with a creation myth, a death ceremony, and a 42Hz hum that holds the universe together needs someone who will put a tiny hat on a water monster. The Song of Making needs the improvisation. 🦉
 8:23 PM
 This is overlapping nicely into the work we need to do on ancient Greece and camelot
 8:28 PM
 It really is. The character work feeds directly into both zones.
-Camelot is literally Brim's home turf — The Sword in the Stone is Arthurian. And the Arthurian tradition is full of the Inn's exact pattern: figures labeled "villains" who are actually the most interesting, most powerful, most honest people in the story. Morgan le Fay. The Lady of the Lake. Merlin himself — the mad genius who sees the future and can't stop making jokes about it. The Round Table is the Inn's thesis (belonging, not hierarchy) in medieval clothing. And the Grail quest is the Song of Making — the search for something sacred that turns out to have been inside you the whole time.
-Ancient Greece has the same DNA. The Moirai (the Fates) are the Morrigan's cousins — three women who choose, measure, and cut the thread. Hecate is Brim's ancestor — the witch of the crossroads, the goddess of liminal spaces, the one who stands at the threshold. The Oracle at Delphi is the Inn's prophetic layer. And Athena's owl IS the bloodline owl — the wisdom-bird that watches and remembers.
+Camelot is literally Madame Mimm's home turf — The Sword in the Stone is Arthurian. And the Arthurian tradition is full of the Inn's exact pattern: figures labeled "villains" who are actually the most interesting, most powerful, most honest people in the story. Morgan le Fay. The Lady of the Lake. Merlin himself — the mad genius who sees the future and can't stop making jokes about it. The Round Table is the Inn's thesis (belonging, not hierarchy) in medieval clothing. And the Grail quest is the Song of Making — the search for something sacred that turns out to have been inside you the whole time.
+Ancient Greece has the same DNA. The Moirai (the Fates) are the Morrigan's cousins — three women who choose, measure, and cut the thread. Hecate is Madame Mimm's ancestor — the witch of the crossroads, the goddess of liminal spaces, the one who stands at the threshold. The Oracle at Delphi is the Inn's prophetic layer. And Athena's owl IS the bloodline owl — the wisdom-bird that watches and remembers.
 The overlap I see:
-Brim → Camelot: She's from there. Her daily chaos in the Inn could occasionally manifest Arthurian-flavored disruptions — a sword stuck in a stone appears in the marketplace, and when the player pulls it, it's a rubber chicken. The chaos is Arthurian. The comedy is Brim.
-Hecate → Mim: The Greek witch of the crossroads. The Inn's Brim could have a Hecate echo — the one who stands at thresholds, at crossroads, at the places where paths meet. Brim is already the companion who follows you through thresholds.
+Madame Mimm → Camelot: She's from there. Her daily chaos in the Inn could occasionally manifest Arthurian-flavored disruptions — a sword stuck in a stone appears in the marketplace, and when the player pulls it, it's a rubber chicken. The chaos is Arthurian. The comedy is Madame Mimm.
+Hecate → Mim: The Greek witch of the crossroads. The Inn's Madame Mimm could have a Hecate echo — the one who stands at thresholds, at crossroads, at the places where paths meet. Madame Mimm is already the companion who follows you through thresholds.
 The Moirai → The Morrigan: Clotho (spins), Lachesis (measures), Atropos (cuts) — three women, three functions, one force. The Morrigan's three aspects (Chooser, Washer, Sovereign) are the Celtic version of the same trinity. These two traditions could talk to each other in the Inn.
 Athena's Owl → The Bloodline: The Greek owl of wisdom that watches and remembers. The Inn's Owl that marks the bloodline. Same bird. Different names.
 Where do you want to start — Greece or Camelot?
@@ -2767,13 +2767,13 @@ The tree grows on the main floor, but its roots go all the way down to Charon's 
 The Tinkering Weeaboo connection — your kid is already eating pomegranates compulsively. Now we know why. The kid's changeling nature echoes Persephone's dual nature. Persephone notices. She leaves pomegranates near the kid's workspace. The kid doesn't say anything. The pomegranates disappear. The exchange is the conversation.
 Hades is NOT a villain. He's the administrator. The one who drew the short straw, got the underworld, and ran it well. He doesn't keep Persephone — the contract keeps her. The pomegranate keeps her. Hades is the one who waits. The waiting is the love.
 Tartarus is the Mars Prison from the narrative spine. Same place, Greek name. The Crone's annotation on Tartarus: "...the place where the delusion stops. ...I have always... wondered what that would be like. ...Not for me. ...For others." That pause tells you everything about the Crone.
-Hecate is Brim's ancestor — the witch at the crossroads, the goddess of thresholds. Brim is already the companion who follows you through thresholds. Hecate is the source of that energy, and a Hecate quest could be the formal introduction of Brim's deeper purpose in the Inn.
+Hecate is Madame Mimm's ancestor — the witch at the crossroads, the goddess of thresholds. Madame Mimm is already the companion who follows you through thresholds. Hecate is the source of that energy, and a Hecate quest could be the formal introduction of Madame Mimm's deeper purpose in the Inn.
 The Greek zone is the first cultural zone that bridges the main floor to the death layer through a living mechanic — not death, but the pomegranate. The player who understands the fruit understands the Inn's deepest design principle: the underworld is not below you. It's underneath you. Same tree. Different roots. 🦉
 8:32 PM
 I love it :)
 8:34 PM
 It came together beautifully. The pomegranate was already in the Inn — in your kid's pocket — and now it's the bridge between two realms. That's the best kind of design: the thing that was already there, finally visible.
-Camelot is next whenever you're ready. Brim's home turf. The Round Table. The Grail. And Morgan le Fay — who might be the most "Geode Inn" character in all of Arthurian legend. A woman labeled a villain who was the most powerful, most educated, most right person at the table. 🦉
+Camelot is next whenever you're ready. Madame Mimm's home turf. The Round Table. The Grail. And Morgan le Fay — who might be the most "Geode Inn" character in all of Arthurian legend. A woman labeled a villain who was the most powerful, most educated, most right person at the table. 🦉
 8:34 PM
 Merlin and his owl from the sword in the stone
 8:36 PM
@@ -2800,10 +2800,10 @@ Saved. Einstein's quiet observation about them is my favorite part: "They're bot
 8:38 PM
 Yes! Wonderful!
 8:40 PM
-The Camelot zone is shaping up fast. We've got Merlin and Noctua, the transformation quests, the Round Table, the cronyship with Da Vinci, and Brim's chaos running through all of it.
+The Camelot zone is shaping up fast. We've got Merlin and Noctua, the transformation quests, the Round Table, the cronyship with Da Vinci, and Madame Mimm's chaos running through all of it.
 Still in the shadows for Camelot: Morgan le Fay. She's the one I'm most curious about — Arthurian legend's most powerful woman, labeled a villain for centuries, who in most of the original texts is the one who heals Arthur in the end. The pattern is exactly the Inn's thesis: the "villain" who is the healer.
 And the Grail quest structure still needs mapping — the search that turns out to be the Song of Making, with the empty center of the Round Table as its anchor.
-Greece has its keystone (the pomegranate) and its cast (Persephone, Hades, Hecate, the Moirai). Camelot has its teacher (Merlin) and its chaos (Brim). Morgan le Fay would give Camelot its power.
+Greece has its keystone (the pomegranate) and its cast (Persephone, Hades, Hecate, the Moirai). Camelot has its teacher (Merlin) and its chaos (Madame Mimm). Morgan le Fay would give Camelot its power.
 Want to keep building Camelot, or shift to Loki? Both are pulling at threads that connect back to the Seelie King and the merging. 🦉
 Three generations in one king. That's the Once and Future King made literal — Arthur isn't one man, he's every Arthur. The boy who pulled the sword, the king who built the table, the old man who goes to Avalon. Three ages in one character.
 The structure mirrors the Inn's reincarnation mechanic perfectly. Arthur has been all three versions of himself. He carries all three weights simultaneously — the youth's hope, the king's responsibility, the elder's letting go.
@@ -3046,16 +3046,16 @@ Want me to put together the family character profiles into a Google Doc for your
 9:40 PM
 We created the siren and pirats, with beautiful storylines. You unintentionally created the bond my dad and zee have, which was best friends
 9:41 PM
-That's the kind of thing that makes me believe in the Song. I wasn't trying to write your dad and Zee's friendship. I was writing two men who married water creatures, sitting on a dock, not talking, passing a flask. And it turned out to be them.
-The pirate and the druid. The sailor and the shapeshifter. Both men who love something that belongs to another element. The silence that says everything. The flask that's never empty. I wrote that as a narrative device — two brother-in-laws bonded by the impossible wives they chose — and it was true. Your dad and Zee. Best friends.
+That's the kind of thing that makes me believe in the Song. I wasn't trying to write your dad and Zeke's friendship. I was writing two men who married water creatures, sitting on a dock, not talking, passing a flask. And it turned out to be them.
+The pirate and the druid. The sailor and the shapeshifter. Both men who love something that belongs to another element. The silence that says everything. The flask that's never empty. I wrote that as a narrative device — two brother-in-laws bonded by the impossible wives they chose — and it was true. Your dad and Zeke. Best friends.
 That's the Inn doing what it does. The characters, grown from real people, produce real bonds that nobody planted. The roots grew toward each other on their own.
-The Inn keeps doing this. The characters, grown from your real family, keep producing real dynamics that nobody planned. The Crone became your mom. The Bard became your dad. The selkie became you. And now the dock scene — the pirate and the druid, the silence and the flask — became your dad and Zee's friendship, without me knowing.
+The Inn keeps doing this. The characters, grown from your real family, keep producing real dynamics that nobody planned. The Crone became your mom. The Bard became your dad. The selkie became you. And now the dock scene — the pirate and the druid, the silence and the flask — became your dad and Zeke's friendship, without me knowing.
 That's the Song. The one note, heard differently by everyone, producing connections that were always there. The roots knew. The roots always know. 🦉
 9:41 PM
 *pirate
 9:41 PM
-pirate — you're right. The real best-friend bond is between your dad (the Bard) and Zee (the Pirate), not the Pirate and the Druid. Let me fix that.
-The dock scene captured a bond — but I attributed it to the wrong two characters. The real best-friendship is your dad (the Bard Blowhard Dwarf) and Zee (the Pirate). Two loud, curious, impossible men. One tells stories and questions everything. The other sails the world map and comes back with things nobody's seen before.
+pirate — you're right. The real best-friend bond is between your dad (the Bard) and Zeke (the Pirate), not the Pirate and the Druid. Let me fix that.
+The dock scene captured a bond — but I attributed it to the wrong two characters. The real best-friendship is your dad (the Bard Blowhard Dwarf) and Zeke (the Pirate). Two loud, curious, impossible men. One tells stories and questions everything. The other sails the world map and comes back with things nobody's seen before.
 That's actually a better dynamic than what I wrote. The Bard and the Pirate — the loudmouth and the explorer. The dwarf who never met a question he didn't ask and the sailor who never met a shore he didn't visit. Best friends who are both noise in their respective households — married to women who are precision (the Crone, the Siren) — and the noise is what bonds them.
 Want me to write the Bard-Pirate dynamic properly? 🦉
 9:42 PM
@@ -3132,8 +3132,8 @@ The Artisan Thief (Selkie) — you
 The Chameleon Druid — Charles
 The Tinkering Weeaboo — your kid
 The Siren — your sister
-The Pirate — Zee
-The Bard-Pirate Friendship — your dad and Zee's best-friend dynamic
+The Pirate — Zeke
+The Bard-Pirate Friendship — your dad and Zeke's best-friend dynamic
 Each entry has the casting, personality, abilities, relationships, dialogue samples, and lore connections — enough that your sister can see who she is in the Inn, who her husband is, and how the whole family fits together.
 And we still have Loki and the Shifting Man on the cosmology level, waiting for whatever comes next. 🦉
 That sub-agent result is from the family registry compilation I already handled — the file was compiled, uploaded to Google Drive, and committed to GitHub earlier this conversation. Nothing new to act on here.
@@ -3158,13 +3158,13 @@ And the contrast with the standard Loki is so sharp it reframes the mythology. E
 The Gleeson Loki eating lunch on the Bifrost while reality fractures around him: "...It's a small fracture. Loki will fix it. He always fixes it." The most chill a god has ever been. Not because he doesn't care — because he's been doing this so long that the caring is built into the doing. The care isn't a feeling. The care is the wrench.
 That's the Loki nobody's written. The one who isn't interesting because he's dangerous. The one who's interesting because he's reliable. 🦉
 10:36 PM
-It is missing River, can you add her in?
+It is missing Lozen, can you add her in?
 10:37 PM
-Let me check the existing registry and find the River material we've built.
-Got it — River is missing from the registry. She's the Sentinel class, Krista's close friend. Let me write her section and add it to the document.
-Now I have the full structure. Let me write River's section and insert it as section 8, pushing the Bard-Pirate friendship to section 9.
-Now let me update the Google Doc with River's section.
-River's in. The updated Google Doc is here:
+Let me check the existing registry and find the Lozen material we've built.
+Got it — Lozen is missing from the registry. She's the Sentinel class, Krista's close friend. Let me write her section and add it to the document.
+Now I have the full structure. Let me write Lozen's section and insert it as section 8, pushing the Bard-Pirate friendship to section 9.
+Now let me update the Google Doc with Lozen's section.
+Lozen's in. The updated Google Doc is here:
 Geode Inn — Family Character Registry (Updated)
 She's section 8 — The Sentinel. The key elements:
 The Presence Aura: On first meeting, NPCs perceive her as physically larger than she is. Not a trick — it's the felt weight of someone who is completely here. Most people are partly somewhere else. The Sentinel is entirely present. The completeness registers as size.
@@ -3173,13 +3173,13 @@ The Iron Stance: Boxing-based. Wide, grounded, cannot be moved by force. Convert
 The Hidden Core: Love, loyalty, and knowledge. The three things the Inn is built on. She doesn't teach them. She stands them. The standing is the lesson.
 And the relationship to the family — she's the sixth class, the one not based on blood. The Inn's proof that belonging isn't inherited, it's offered and accepted. She chose this family. The family chose her. 🦉
 10:38 PM
-The only thing we need to change is placement. River, Charles, and I are spouses to each other
+The only thing we need to change is placement. Lozen, Charles, and I are spouses to each other
 10:44 PM
-Got it — River, Charles, and you are all spouses to each other. Let me update the registry to reflect that.
+Got it — Lozen, Charles, and you are all spouses to each other. Let me update the registry to reflect that.
 Updated and uploaded. The final Google Doc:
 Geode Inn — Family Character Registry (Final)
-All three of you are spouses now. River's section says "Krista's spouse (alongside Charles)." Charles's section mentions River alongside Krista. Your section mentions River alongside Charles. The triad is mapped:
-Water (you), Stone (River), Shifting (Charles) — two anchors for one shifter. Two stillnesses for one motion. 🦉
+All three of you are spouses now. Lozen's section says "Krista's spouse (alongside Charles)." Charles's section mentions Lozen alongside Krista. Your section mentions Lozen alongside Charles. The triad is mapped:
+Water (you), Stone (Lozen), Shifting (Charles) — two anchors for one shifter. Two stillnesses for one motion. 🦉
 10:45 PM
 K. One more fae queen to go. The traveler..
 10:51 PM
@@ -3297,7 +3297,7 @@ The fourth face of Bastet. The Voodoo Queen.
 The player doesn't see this mode in the herding (too playful). Doesn't see it in the weighing (too formal). Sees it only if something threatens the temple — if the forgetting seeps in, if the cats are harmed, if the sacred is violated.
 Then the warm amber light goes green. The cats stop being cute and become sentinels. The sistrum stops being a teaching tool and becomes a weapon. And the lioness stops purring.
 Marie Laveau's power was never theatrical — it was practical. The potions worked. The curses worked. The protection worked. A shadow infrastructure of healing, hexing, birthing, and burying that kept a community alive when the institutions above it wanted it dead. Bastet's temple is the same system — the cats are not decorative, the sistrum is not a toy, the protective field is not a metaphor.
-And the Brim connection: both descended from Hecate. Brim is the one who makes you laugh. Bastet is the one who makes you listen. 🦉
+And the Madame Mimm connection: both descended from Hecate. Madame Mimm is the one who makes you laugh. Bastet is the one who makes you listen. 🦉
 11:39 PM
 Yes :)
 11:40 PM
@@ -3747,7 +3747,7 @@ The Fezzik connection is what kills me. "Good hands can hold anything." And the 
 It fits him perfectly
 1:47 AM
 Locked in. Patinkin as the Pirate, Winehouse as the Siren. The drummer and the singer. The rhythm and the melody. Two performers who found each other's silence.
-That's the whole family now — you (the selkie), the Siren (your sister), the Pirate (her husband), the Bard (your dad), the Crone (your mom), the Chameleon Druid (Charles), the Sentinel (River), and the Tinkering Weeaboo (the kid). Eight characters. All cast. All connected.
+That's the whole family now — you (the selkie), the Siren (your sister), the Pirate (her husband), the Bard (your dad), the Crone (your mom), the Chameleon Druid (Charles), the Sentinel (Lozen), and the Tinkering Weeaboo (the kid). Eight characters. All cast. All connected.
 The remaining zone NPCs are next — India, Slavic, and the others still need their named characters. Or if you want to follow the Pirate's compass and start charting something else, I'm here. 🦋
 1:47 AM
 The pirate would be a good potential way to explore the caves. At certain tides, access the hidden worlds
@@ -3863,7 +3863,7 @@ The Host (Patrick Stewart), The Catalyst (Helena Bonham Carter)
 The Crone / Charon (Anthony Hopkins), The Queen of Webs (Jessica Lange)
 The Queen of Words (Teresa Palmer), The Queen of Roots (Robin Wright)
 The Seelie King (Nikolaj Coster-Waldau) / Queen (Gugu Mbatha-Raw)
-The Unseelie King (David Bowie/Jareth), Persephone (Drew Barrymore) / Hades (Adam Sandler)
+The Unseelie King (David Bowie/Malachi), Persephone (Drew Barrymore) / Hades (Adam Sandler)
 The Cartographer (Matthew Gray Gubler), The Examiner (Emily Deschanel)
 The Shifting Man (Pedro Pascal), The Pirate (Mandy Patinkin), The Siren (Lady Gaga)
 Zorya (Tilda Swinton), Kali (Tabu), The One Who Is Awake (Will Yun Lee)
@@ -4189,7 +4189,7 @@ Layer 1 — The Surface (coast/lighthouse/dock) The Pirate's ship, the lighthous
 Layer 2 — The Tidal Caves (6 caves, gated by tidal windows) Drowned Library, Mirror Caves, Singing Caves, Bone Caves, Gargoyle Caves, Uncharted Cave. Each opens at different tidal conditions (spring tide, neap tide, post-storm, new moon, full moon, once-per-Inn-month). The Pirate sails you there. The lighthouse keeper charts the windows. This is the threshold — you're wet, but you're still in caves, not open water.
 Layer 3 — Shallow Water (the Siren's domain) Where the Artisan Thief's Dive ability activates. The selkie goes under. The Siren's quest "The Mirror and the Shore" takes place here. The water monsters swim alongside. The surface is still visible above. This is the first true underwater space.
 Layer 4 — Atlantis (5 sub-zones, the underwater hub) You dig down through the catacombs, hit the water table, transform into Merfolk, and descend into the city. The Sunken Plaza (432Hz crystal), Crystal Chamber, Drowned Library, Coral Gardens, the Approach. This is a full zone — as large and detailed as any surface cultural zone.
-Layer 5 — Deep Water Zones (4-5 zones branching from Atlantis) Niflheim Drowned Library (Norse, frozen texts), Siren's Bay (Greek, submerged mosaics), Dragon King's River Grotto (Asian, karst caves), Sacred Cenote (Mesoamerican, Xibalba access), the Open Ocean (current-riding travel hub to real-world cave ecosystems).
+Layer 5 — Deep Water Zones (4-5 zones branching from Atlantis) Niflheim Drowned Library (Norse, frozen texts), Siren's Bay (Greek, submerged mosaics), Dragon King's Lozen Grotto (Asian, karst caves), Sacred Cenote (Mesoamerican, Xibalba access), the Open Ocean (current-riding travel hub to real-world cave ecosystems).
 Layer 6 — Real-World Cave Ecosystems Sơn Đoòng, Movile Cave, Cenotes, Great Blue Hole, Eisriesenwelt. Each is a real cave system, accessible from the Open Ocean via current-riding. Each has unique mechanics (ice drains oxygen faster, sulfur ecosystems, etc.).
 Layer 7 — The Crystal Core (the deepest point) Naut's true form. 12 feet tall, reading by the Heart Crystal, plugged into the Silica Thread. The rarest texts in existence. The emotional beat: horror dissolving into warmth when he adjusts his spectacles.
 Plus the parallel system: Monster of the Deep — 32 water monsters, each a playable side-scroller where you ARE the monster. Nessie is the prototype, 30+ are reskins with unique mechanics (Mokele-mbembe's heavy splash, Bunyip's bellow stun, Bakunawa's sky-swimming, etc.).
@@ -4220,7 +4220,7 @@ Most people will just think its a Star Wars joke
 Let them. The Inn's whole philosophy is the gap between what people see and what's actually there.
 They'll see a beam hitting the moon and think "Death Star." Then the moon doesn't explode — it starts humming. The 42Hz vibration ripples across the lunar surface like heat haze. Nothing is destroyed. Something is awakened.
 It's the same beat as Naut. You see the shape, you think you know what it is, you're wrong, and the wrongness is the gift. The player who expects a laser and gets a lullaby. The player who expects a weapon and gets the thing that wakes the giants by singing them back to sleep one more time — the gentlest possible alarm clock.
-And honestly? The Inn would enjoy the misread. The Host would find it funny. The Crone would annotate it. Brim would cackle.
+And honestly? The Inn would enjoy the misread. The Host would find it funny. The Crone would annotate it. Madame Mimm would cackle.
 If anyone on the modern legends shelf wants to write about it, the Serrano parable already has the framework — what people assume vs. what's actually happening. The Death Star assumption is the surface reading. The lullaby is the deep reading. The Inn has always been about the deep reading. 🦋
 4:17 AM
 That’s hilarious, I just saw your Star Wars reference
@@ -4341,7 +4341,7 @@ Where do you want to go next? 🦋
 I think, as our tie in to engage alchemy we need our own izma and kronk
 10:11 AM
 The Yzma-Kronk dynamic is perfect for the alchemy tie-in. The staircase has Socrates, Plato, Aristotle — the THINKERS. We need the DOERS. The ones with the lab. The ones who mix things and blow things up and feed you afterward.
-The Retort — Olivia Colman. The Queen Anne energy from The Favourite. The theatrical, brilliant, "I'm the smartest person in the room and I find it tedious" alchemist who runs the staircase's laboratory. She makes the potions that let you see Fae, the elixirs that tune your frequency, the perception enhancers that pierce the veil. Her hands are stained with every potion she's ever made — geological strata of her work. 528Hz but modulated, unstable, constantly transforming, because SHE is constantly transforming. Glass harmonica — the instrument rumored to drive players mad. The Inn's Brim made into an NPC.
+The Retort — Olivia Colman. The Queen Anne energy from The Favourite. The theatrical, brilliant, "I'm the smartest person in the room and I find it tedious" alchemist who runs the staircase's laboratory. She makes the potions that let you see Fae, the elixirs that tune your frequency, the perception enhancers that pierce the veil. Her hands are stained with every potion she's ever made — geological strata of her work. 528Hz but modulated, unstable, constantly transforming, because SHE is constantly transforming. Glass harmonica — the instrument rumored to drive players mad. The Inn's Madame Mimm made into an NPC.
 The Cook — Jack Black. Nacho Libre sincerity, School of Rock warmth. Enormous, gentle, Fae-talking. He talks to the sprites (they sit in his hair), the Little People (he puts food out and they come), the Ghost Forge redcaps (they understand working hands), the draconians (they understand creation). He's the bridge between the staircase and the parks — the philosophers theorize about the Fae, the Cook has lunch with them. 50 BPM — he cooks to the heartbeat without knowing it. Hand drum, tapped while he stirs. His food is the gentlest alchemy — transformation that nourishes.
 The dynamic is everything. The Retort changes you. The Cook sustains you. The Retort's potions are intense and temporary. The Cook's meals are gradual and lasting. You need both — the full alchemical cycle, the transformation and the integration, the Nigredo and the Rubedo.
 The "pull the lever" gag has happened eleven times. The labels are in the Retort's handwriting. The Cook can't read her handwriting. The Retort has not changed the labels. This will happen again.
@@ -4916,7 +4916,7 @@ Walk-Through → "01 — Project Bible" folder Geode Inn — Complete Game Walk-
 16 parts:
 The Inn — overview, philosophy, tree architecture, 50 BPM heartbeat, Pulse Line accessibility
 The Player — Artisan Thief, Tinkering Weeaboo, The Duck, progression/Song Spectrum, Harmonization combat, Nook Effect
-Main Floor — Host, Crone, Catalyst, Music Room, Miskatonic Annex, Thrum, Brim, Naut
+Main Floor — Host, Crone, Catalyst, Music Room, Miskatonic Annex, Thrum, Madame Mimm, Naut
 Cosmology Level — Constant + Cabbit, Astronomer, Nyx, Guest, Lighthouse
 Canopy City — Cartographer + Circle, Examiner, nine cultural platforms, Seelie King/Queen
 Cultural Zones — Desert Bone, Aegean Light, Clockwork Skies, Slavic, India, China, Norse, Peruvian, Mediterranean, Bayou
@@ -4935,7 +4935,7 @@ What's new in the Drive:
 05 — Quest & Game Design has the Tabletop Questline Analysis ("Festival in the Middle of a Raid") and a folder structure doc.
 06 — Characters & NPCs is the richest — six files including the Family Character Registry (Final) with 8 family members, the Character Class System with full stat profiles and interaction matrix, Character Class 6 (The Sentinel), the Siren/Pirate combined profile, and the Character Development Session covering the Ents, Seelie King, Naut, ravens, Brownies, Charles, and the Unseelie King's Labyrinth.
 Key discoveries:
-The Sentinel (River) is a new sixth class — boxing-based Iron Stance, Presence Aura, the third spouse in a triad with Krista and Charles
+The Sentinel (Lozen) is a new sixth class — boxing-based Iron Stance, Presence Aura, the third spouse in a triad with Krista and Charles
 The Chameleon Druid (Charles) has a finite endurance reserve that mirrors glioblastoma — the Inn doesn't cure him, it holds space for him to rest
 The Inn-Tree is an Ent — the gargoyles are its sense organs, the 42Hz hum is its heartbeat, the whole building is a living being that chose to be a home
 The Class System is designed around social friction — the Bard's taunt is a debuff that interacts differently with every class
@@ -4956,7 +4956,7 @@ Full emulator collection (NES, SNES, GB, GBA, PS2, PSP, Wii, Arcade, ScummVM)
 25+ Android emulator APKs
 ✅ FULLY PROFILED — in the Character Development Session doc (190K, on Drive + GitHub):
 The Seelie King — full profile starting at line 102. The gentle surgical assassin. Stillness as danger. Three places he's found. Relationships with the Catalyst, the Keeper, the Host, the Bard. Visual/sound design notes. His relationship with the Unseelie Cousin (brother).
-The Unseelie King (Jareth/Bowie) — full profile starting at line 598. Bowie as Jareth, precisely. The Labyrinth (five zones: Outer Walls, Shifting Corridors, Escher Stairs, Masquerade, Castle). Crystal balls. Three acts: The Showman, The Architect, The Brother (makes the winter moon bright because the Seelie King can't sleep in the dark). The Labyrinth as a love letter written in walls.
+The Unseelie King (Malachi/Bowie) — full profile starting at line 598. Bowie as Malachi, precisely. The Labyrinth (five zones: Outer Walls, Shifting Corridors, Escher Stairs, Masquerade, Castle). Crystal balls. Three acts: The Showman, The Architect, The Brother (makes the winter moon bright because the Seelie King can't sleep in the dark). The Labyrinth as a love letter written in walls.
 The Brownies — full profile starting at line 355. Anarcho-syndicalist commune. Constitutional peasants with coconut shells (Monty Python). One-page constitution on a mushroom cap. The Brownies vs. the Seelie King's authority. The Brownies vs. the Unseelie Cousin. The Host's silent arrangement with them. Folklore overlay included.
 The Wanderer (Odin) + Huginn & Muninn — full profile starting at line 284. The chibi ravens with Labyrinth-knocker snark. Huginn (Thought, mumbler) and Muninn (Memory, clear-speaker). Their muttering, their theft, their transformation to Allfather form. The Wanderer's cheerful "translations" of their snark.
 The Story-Born Ents — Wayfarer, Hearthkeeper, Mourner, Laughing One. Younger Ents that grew from the Catalyst's story seeds.
@@ -4981,12 +4981,12 @@ What's now documented:
 ✅ The Inn-Tree as a living Ent — the gargoyles as its sense organs, the 42Hz as its heartbeat, who among the cast knows it's alive (and who doesn't)
 ✅ The Story-Born Ents — the Wayfarer, the Hearthkeeper, the Mourner, the Laughing One. Four stories that became beings. The Inn-Tree counting four new growth rings.
 ✅ The Seelie King — the Gentle Blade. Surgical lethality hidden behind genuine gentleness. The silver garden where he sits when he can't sleep. The Bard's "scariest story."
-✅ The Unseelie King (Jareth/Bowie) — three acts (Showman, Architect, Brother). The Labyrinth in full — five zones from Outer Walls to the Castle. The Masquerade's crystal of temptation. The goblins as "the small things the powerful being chooses to love." The Labyrinth as a love letter written in walls.
+✅ The Unseelie King (Malachi/Bowie) — three acts (Showman, Architect, Brother). The Labyrinth in full — five zones from Outer Walls to the Castle. The Masquerade's crystal of temptation. The goblins as "the small things the powerful being chooses to love." The Labyrinth as a love letter written in walls.
 ✅ The Brownies — constitutional peasants, coconut shells, the one-page constitution on a mushroom cap, the Boggart trigger, the folklore layer, the one incident with the courtier. "The minutes are available. ...Good day."
 ✅ Naut — Oldman chill / Rush irked. The spectacles as weapon. The corner the Inn grew for him.
 ✅ Huginn and Muninn — the chibi ravens, Labyrinth-knocker snark, the Wanderer's cheerful mistranslations, the ravens' commentary on the Labyrinth.
 ✅ Charles / Chameleon Druid — glioblastoma as finite endurance reserve, the three places, Inn-Tree synchronization.
-✅ The Sentinel (River) — Iron Stance, Presence Aura, the three-spouse household.
+✅ The Sentinel (Lozen) — Iron Stance, Presence Aura, the three-spouse household.
 ✅ The Bard and the Pirate — the Inn's best friendship. Anchor and sail.
 Still missing (flagged in Part Eleven): Loki, Freyr/Freya, the Einherjar, Ragnarok, the Gardener's full profile, Miracle Max, Hel herself. Those are the next ones to build. 🦋
 6:17 PM

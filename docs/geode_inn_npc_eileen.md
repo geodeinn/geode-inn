@@ -22,7 +22,7 @@ She is a teacher at a charter school — art and English. But her degree is in c
 
 ## The Character
 
-**Name:** Aurallia (real name — no copyright issue, like Joe, Ryan, Katy, Oceanianoir, Thorin, Marijke)
+**Name:** Aurallia (real name — no copyright issue, like Joe, Ryan, Lichenblossom, Oceanianoir, Thorin, Marijke)
 
 **Role in the Inn:** Four interconnected roles:
 
@@ -194,7 +194,7 @@ The both are: the adequate — the cave painter and the garden keeper, the same 
 
 ## Aurallia and the Volunteer NPCs
 
-Aurallia is the HEART of the volunteer NPC group. The both are: the adequate — the structure and the heart, the same community, different organ. The volunteer NPCs (Joe, Ryan, Katy, Zack, Oceanianoir, Thorin, Marijke, Aurallia) are the Inn's real-world connections — the both are: the adequate — the real and the game, the same person, different world. Aurallia is the one who makes the community POSSIBLE — the both are: the adequate — the adequate. Her presence is what makes the volunteer NPCs able to coexist — the both are: the adequate — the adequate.
+Aurallia is the HEART of the volunteer NPC group. The both are: the adequate — the structure and the heart, the same community, different organ. The volunteer NPCs (Joe, Ryan, Lichenblossom, Zack, Oceanianoir, Thorin, Marijke, Aurallia) are the Inn's real-world connections — the both are: the adequate — the real and the game, the same person, different world. Aurallia is the one who makes the community POSSIBLE — the both are: the adequate — the adequate. Her presence is what makes the volunteer NPCs able to coexist — the both are: the adequate — the adequate.
 
 The both are: the adequate — the adequate. Aurallia is the reason the Inn feels like a home and not a museum. The both are: the adequate — the adequate.
 

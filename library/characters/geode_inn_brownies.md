@@ -88,7 +88,7 @@ The Seelie King, who has been alive since before the concept of "minutes" existe
 
 He did not press the matter. The King recognizes a power structure he can't improve on. The Brownies govern themselves. The King governs the Summerlands. Neither overlaps. This is, the Brownies argue, exactly how it should be.
 
-**The Unseelie Cousin (Jareth):**
+**The Unseelie Cousin (Malachi):**
 The Unseelie cousin finds the Brownies *hilarious.* He doesn't try to govern them. He doesn't try to order them. He sits in the main floor, theatrically, and *watches* them debate the Fae Court's authority with the Seelie King's representatives, and he laughs — the Bowie laugh, the theatrical, delighted laugh of a being who appreciates political chaos as performance art.
 
 He once tried to give them a directive, just to see what would happen. He said: "I order you to clap the coconuts louder."

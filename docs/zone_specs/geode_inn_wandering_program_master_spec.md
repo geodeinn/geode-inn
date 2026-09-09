@@ -30,7 +30,7 @@ The Wandering Program is what makes the Inn feel ALIVE. NPCs don't stand in plac
 |----------|--------|
 | NPC Schedules | Each NPC has a daily routine — when they wake, where they go, what they do. Schedules are affected by the time of day and the Inn's frequency state. |
 | Frequency Dynamics | NPC behavior changes between 42Hz (Living — social, warm, interactive) and 84Hz (Shadow — isolated, defensive, combat-ready). Some NPCs only appear in one frequency. |
-| Social Interactions | NPCs interact with each other, not just the player. The brownies argue. The Bard sings to the Crone. Evan plays chess with Joe's pieces. The Inn has its own life. |
+| Social Interactions | NPCs interact with each other, not just the player. The brownies argue. The Bard sings to the Crone. The Archivist plays chess with Joe's pieces. The Inn has its own life. |
 | The Player's Impact | The player's presence affects NPC behavior. NPCs notice the player, react to their reputation, adjust their schedules based on player actions. |
 | The Emergent Social Behavior | The Inn's NPCs form their own groups and behaviors — the fizgigs spontaneously organizing being the canonical example. |
 

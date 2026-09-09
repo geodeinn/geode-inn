@@ -87,7 +87,7 @@ Completing this chain permanently activates the **Primary Ley-Line Conduit** in 
 *Source Document: geode_inn_unseelie_king.md*
 
 ### Core Narrative & DM Framing
-This profile solidifies the Goblin King—unapologetically modeled after David Bowie's Jareth in *Labyrinth* (1986). Moving through rooms like a dancer to music only he hears, the Unseelie King wields crystal balls, sings in theatrical baritones, and resides at the center of a constantly shifting maze. The DM frames him as a master of illusion, seduction, and chaotic freedom. Visuals combine Klimt's golden dreambubble ballrooms with floating gilded clockwork and swirling satin against Royo's high-contrast black leather boots, silver-chrome shoulder guards, and obsidian crystal spheres.
+This profile solidifies the Goblin King—unapologetically modeled after David Bowie's Malachi in *Labyrinth* (1986). Moving through rooms like a dancer to music only he hears, the Unseelie King wields crystal balls, sings in theatrical baritones, and resides at the center of a constantly shifting maze. The DM frames him as a master of illusion, seduction, and chaotic freedom. Visuals combine Klimt's golden dreambubble ballrooms with floating gilded clockwork and swirling satin against Royo's high-contrast black leather boots, silver-chrome shoulder guards, and obsidian crystal spheres.
 
 ### (1) Shadow Inn State (84Hz Inversion)
 In Shadow 84Hz mode, the Unseelie Labyrinth becomes hyper-lethal. Walls shift on every 13th beat, transformed into sliding biomechanical chrome blades. The King's crystal balls refract into 84Hz lasers that create hostile dopplegangers of party members. Players must navigate time loops and pass high-DC charisma and agility checks while resisting the King's seductive counter-offers.
@@ -101,7 +101,7 @@ The Unseelie King holds the **Chaotic Harmonic**—the necessary element of unpr
 - **Sonic Mechanics:** Beating the Labyrinth clock requires stepping only on floor tiles that resonate at 42Hz on the 13th chime.
 
 ### (4) Cross-System Integration
-- **Card Game Framework:** Adds field manipulation card *"Jareth's Crystal"* and spell *"Thirteenth Hour"*.
+- **Card Game Framework:** Adds field manipulation card *"Malachi's Crystal"* and spell *"Thirteenth Hour"*.
 - **Mineral Charm System:** Grants *Star Sapphire* (grants true-sight against illusions) and *Labradorite Charm*.
 - **Living Book / Bestiary:** Full character profile on the Goblin King and his Unseelie Court.
 - **Catalyst Drink Mechanics:** Serves *"Starlight & Thorns"*, sprouting *Labyrinth-Roses* in the garden for charm crafting.

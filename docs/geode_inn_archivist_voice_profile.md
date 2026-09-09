@@ -25,7 +25,7 @@ The Archivist does not raise the voice. Ever. Except once. The "OI!" is not spee
 
 ## Accent
 
-Unspecified — awaiting Evan's input. The Archivist's speech is accent-neutral by default, shaped more by cadence than geography. The short-sentence precision is the accent.
+Unspecified — awaiting The Archivist's input. The Archivist's speech is accent-neutral by default, shaped more by cadence than geography. The short-sentence precision is the accent.
 
 ## Connections
 

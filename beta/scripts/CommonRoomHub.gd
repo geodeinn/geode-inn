@@ -16,7 +16,7 @@ const EXITS := {
 
 # NPCs present in Common Room
 const NPCS := [
-	{"name": "Bethany", "position": Vector2(400, 600), "role": "Tavern Manager"},
+	{"name": "Wisteria", "position": Vector2(400, 600), "role": "Tavern Manager"},
 	{"name": "Joe", "position": Vector2(800, 550), "role": "Fire and dragons"},
 	{"name": "Beverley", "position": Vector2(1200, 400), "role": "Librarian"},
 	{"name": "Brindle", "position": Vector2(600, 700), "role": "Brownie"},

@@ -32,7 +32,7 @@ The linework breathes. The outline dissolves at the edges — forms are defined 
 
 **Visual spec:** Thin (1-2px) outlines that fade in and out — present on focal areas (face, hands), absent on secondary areas (clothing folds, background edges). Soft gradient shading instead of cel-shaded hard edges. Flowing line quality — curves dominate, angles are rare. Watercolor-influenced rendering inside gothic anime structure.
 
-**Applied to:** The Siren (Andra), the Wanderer (Odin), Aurallia (the Hearth), the Crone, any NPC whose quest line is dialogue-driven.
+**Applied to:** The Siren (Katya), the Wanderer (Odin), Aurallia (the Hearth), the Crone, any NPC whose quest line is dialogue-driven.
 
 **Player instinct:** "This person has a story. I should talk."
 
@@ -83,7 +83,7 @@ The linework system interacts with the zone aesthetic:
 
 - **Undercity (Gothic-Klimt):** Heavy outlines dominate. The Undercity is the craft floor — most NPCs are tradesmen. The bold cel-shading works with the dark stone and gold leaf. The Klimt patterns provide the background texture; the character outlines provide the foreground clarity.
 
-- **Water Zones (Gothic Anime / Vampire Hunter D):** Soft flowing lines dominate. Water NPCs are lore-driven — the Siren, Zee, water monsters in their narrative context. The flowing linework matches the fluid environment. Even combat NPCs in the water (the 32 water monsters) use a hybrid: sharp angular lines for the creature, but rendered through the luminous-shadow water aesthetic rather than solid cel-shading.
+- **Water Zones (Gothic Anime / Vampire Hunter D):** Soft flowing lines dominate. Water NPCs are lore-driven — the Siren, Zeke, water monsters in their narrative context. The flowing linework matches the fluid environment. Even combat NPCs in the water (the 32 water monsters) use a hybrid: sharp angular lines for the creature, but rendered through the luminous-shadow water aesthetic rather than solid cel-shading.
 
 - **Cosmology Level:** No outlines. Every being up here is rendered in pure luminous shadow. The absence of outlines creates visual consistency across the entire level — the cosmology floor reads as a different plane of existence through its art style alone.
 

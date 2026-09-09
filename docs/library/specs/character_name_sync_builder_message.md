@@ -12,9 +12,9 @@ The character roster has completed a full naming audit (September 3, 2026). Seve
 |----------|----------|-------|
 | Jaime / Oceananoir | **Oceanianoir** | Spelling correction — always with the i. The Living Archive, walking periodic table, Atlantis resident. Pirate-hacking backstory is IRL-only, NOT game data. |
 | Krista (as character) | **Vaulknut** | In-game name for the Bog Fairy Golem / Artisan Thief / Selkie. Authorship credits and real-world references remain "Krista." |
-| The Sentinel | **Lozen** | River's character. Class title was "The Sentinel"; character name is Lozen. |
-| Jareth | **Malachi** | The Unseelie King. |
-| Mim / Madame Mim | **Brim** | The pipe-smoking chaos agent. (The card game's card is named MADAME — that's the card name only.) |
+| The Sentinel | **Lozen** | Lozen's character. Class title was "The Sentinel"; character name is Lozen. |
+| Malachi | **Malachi** | The Unseelie King. |
+| Mim / Madame Mim | **Madame Mimm** | The pipe-smoking chaos agent. (The card game's card is named MADAME — that's the card name only.) |
 | Cthulhu | **Naut** | The squid-headed scholar. Naut the Scholar, by the fireplace, Archive keeper. |
 | John Myers (NPC) | **Quire** | The Lovecraftian scholar NPC. The real player John Myers keeps their own name. |
 | Radagast | **The Greenward** | The Gardener. Nature keeper. |
@@ -24,7 +24,7 @@ The character roster has completed a full naming audit (September 3, 2026). Seve
 | Wednesday Addams / Wednesday | **Belladonna** | The goth character, Undercity host, Poison Garden matron. One character (roster entries merged). |
 | Archimedes (owl) | **Noctua** | Merlin's owl companion. |
 | Eileen | **Aurallia** | The Hearth — cave painter, art teacher, the warm maternal presence. Mother of the four NPCs: Speter Adams, Bramble (chosen), Scarlett (pending), John (pending). The real person keeps her own name. |
-| Dani | **Solstara** | The zen jeweler, Campgrounds, Jay's counterweight. Flowing fae-rave name (chosen 2026-09-03). The real person keeps their own name. |
+| Dani | **Luna** | The zen jeweler, Campgrounds, Jay's counterweight. Flowing fae-rave name (chosen 2026-09-03). The real person keeps their own name. |
 | Adam | **Speter Adams** | The Chameleon / The Dollkeeper — chosen name (2026-09-03). The doll-with-souls collector, zone-shifting performer. |
 | Anna | **Bramble** | The Seer / The Doodler — chosen name (2026-09-04). The quiet one in the Cosmology nook, drawing the Inn in fragments that turn out to be the whole blueprint. The real person keeps their own name. |
 | "Ryuk form" | **True Form** | The Tinkering Weeaboo's transformation. Never use the copyrighted name — describe as "the shinigami archetype: tall, angular, yellow-eyed, too-wide grin, too-long fingers." |
@@ -39,17 +39,47 @@ The character roster has completed a full naming audit (September 3, 2026). Seve
 
 4. **Image filenames are legacy.** Files in Base44 storage keep their original names (jaime_concept_art.png, the_keeper_aughra.png, uhtred_v2.png, etc.). They are asset references only — display names must use the new character names.
 
-5. **Real players keep real names.** John Myers the player, River the person (Lozen is the character), Krista the builder (Vaulknut is the character).
+5. **Real players keep real names.** John Myers the player, Lozen the person (Lozen is the character), Krista the builder (Vaulknut is the character).
 
 ## WHAT TO UPDATE
 
 - Any NPC name displays on zone pages, character galleries, or profile cards
 - Dialogue system references (npcName fields when dialogue is wired)
-- Card game displays (Brim's card is MADAME; the character elsewhere is Brim)
+- Card game displays (Madame Mimm's card is MADAME; the character elsewhere is Madame Mimm)
 - Quest text, flavor text, and NPC titles
-- The Egg Hatchery egg attributions (Brim's Egg, Naut's Egg, Waystone's Egg)
+- The Egg Hatchery egg attributions (Madame Mimm's Egg, Naut's Egg, Waystone's Egg)
 - Any leaderboard, inventory, or progress references using character names
 
 ## FULL ROSTER REFERENCE
 
 The canonical roster lives in the repo at docs/geode_inn_master_character_roster.md (361 files synced, commit 36effb4). When in doubt, the roster is the source of truth.
+
+---
+
+## UPDATE — 2026-09-09 (supersedes rows above where noted)
+
+New canonical renames applied across all repo text. Full ledger: `docs/characters/character_rename_ledger.md`.
+
+| Old Name | New Name | Notes |
+|----------|----------|-------|
+| Brim | **Madame Mimm** | Supersedes Sept 3 "Mim → Brim." Display name Mimm; full title Madame Mimm. |
+| Solstara | **Luna** | Supersedes Sept 3 "Dani → Solstara." Goes by Luna; true name Taaffeite. She may still choose a different name for her non-storyline character. |
+| Andra | **Katya** | The Siren / water guardian. SPELLING RULE: when Vaulknut addresses her directly in dialogue, spelled "Katija." |
+| Zee | **Zeke** | The Pirate — "the Pirate" remains correct as reference. Full name Zaragoza. Gag: when annoyed, his NPC calmly reveals his full name is actually Ezekiel, as he sails away. |
+| Katy | **Lichenblossom** | Volunteer NPC, artisan. |
+| Bethany | **Wisteria** | Tavern keeper's wife (Jay's campsite tavern). |
+| Jareth | **Malachi** | Residual references swept — Sept 3 row now fully applied. |
+| Evan | **The Archivist** | The chess wizard. Real person keeps "Evan" in real-world contexts. |
+| (unnamed) | **Oleander** | The Seelie King's name. Title "the Seelie King" remains valid as descriptor. |
+| Joe | **The Collector** | Undercity NPC. Wife Siobhan, son Liam. |
+| Starlit Geode | **The Starlight Crystal** | Wherever the name appears. |
+
+**Files renamed:** `river_questline.md` → `lozen_questline.md`; `river_dialogue_entries.json` → `lozen_dialogue_entries.json`.
+
+**Pending — do NOT hardcode yet:** Scarlett, John, Ryan, Marian/Marion, Zack (run-through alt name), Luna's possible self-rename, the Crone's Latvian name (chosen by Krista's mom, pending).
+
+**Characters to create:** TJ (Jay's tavern family, 12, filler name, very smart + quiet about it, really cool kid), Maddi (Zack's wife, future Inn employee, old-school computer fluency, MySpace empire, charismatic double agent — names hers to choose), John Myers the player (NEW character, distinct from the NPC Quire), Greg (Wisteria's brother, Luna's husband, skilled artisan — confirm NPC status).
+
+**Open questions for Krista:**
+1. Madame Mimm vs the Crone — same character or separate? (Egg Hatchery Event 1 + card decks currently tie them; the Crone's new Latvian name is pending, suggesting separate.)
+2. Joe the Miniaturist/Painter — same person as The Collector, or a separate NPC?

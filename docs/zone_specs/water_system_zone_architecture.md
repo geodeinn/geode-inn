@@ -53,13 +53,13 @@ The water zone is NOT seven separate zones with loading screens between them. Th
 - **Gameplay:** Tide-gated exploration. Player checks the Pirate's tide chart, waits for the window, sails to the cave, explores for 20-40 minutes, returns before the tide floods. The tidal rhythm creates the gameplay loop — you can't cave-dive constantly. The ocean gates the access. The waiting is the beat.
 - **Coast Hub (Granite Port):** The tidal layer's city. Three-hearted rhythm (50 BPM) shared by the Lighthouse, the Pirate, and the sea.
 
-### Layer 4: Underground River (Charon's Layer)
+### Layer 4: Underground Lozen (Charon's Layer)
 - **Frequency:** Variable — the dead sing at their own frequency
 - **Temperature:** Cold (the underground, the absence of sun)
 - **Pressure:** Mild (the weight of stone above)
 - **Keeper:** Charon
 - **Visual:** Dark, cold, mineral-heavy. Memory water — water that has passed through so many layers of stone it carries the mineral record of everything it touched.
-- **Gameplay:** River traversal in Charon's boat. The player rides, doesn't swim. Charon talks — the only character who talks more than the Pirate. The river is the catacomb's back entrance and the Bone Caves' exit. The player can travel between deep catacombs and the coast without going through the main floor — the smuggler's route, the dead's highway.
+- **Gameplay:** Lozen traversal in Charon's boat. The player rides, doesn't swim. Charon talks — the only character who talks more than the Pirate. The river is the catacomb's back entrance and the Bone Caves' exit. The player can travel between deep catacombs and the coast without going through the main floor — the smuggler's route, the dead's highway.
 - **Connection to the Guest (Death):** Charon's river is the Guest's threshold — the water the dead must cross. The Guest and Charon are paired: Death and the Ferryman.
 
 ### Layer 5: Deep Water (The Siren's Layer)
@@ -157,7 +157,7 @@ Each layer has its own musical character (all at the Inn's 50 BPM base where app
 | 1. Rain | Variable (weather) | Rain on stone (natural percussion) | Gentle, diffuse, the Song scattered |
 | 2. Surface | 60 BPM (walking pace) | Cello (the Siren's instrument) | Flowing, melodic, invitation |
 | 3. Tidal | 50 BPM (heartbeat) | Bodhrán (the Pirate's drum) | Rhythmic, grounded, pulse |
-| 4. River | 40 BPM (funerary) | Low strings (Charon's boat creak) | Cold, steady, memory |
+| 4. Lozen | 40 BPM (funerary) | Low strings (Charon's boat creak) | Cold, steady, memory |
 | 5. Deep Water | <20 BPM (subsonic) | Sub-bass + cello (Siren's deep voice) | Heavy, physical, pressure |
 | 6. Underworld | Boundary tone | Distant horn + silence | Threshold, crossing |
 | 7. Crystal Core | 42Hz (the Song itself) | Silence — the hum IS the music | The Song before it was music |

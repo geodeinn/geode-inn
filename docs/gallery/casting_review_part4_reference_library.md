@@ -60,7 +60,7 @@ Recovered from library/art (66 images, uploaded 2026-09-04). Filenames are legac
 <code>Leonardo_da_Vinci.png</code> — *casting shorthand; features softened in final art*
 <img src="https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/98adf84f3_Leonardo_da_Vinci.png" width="340" alt=""/>
 <hr/>
-### Brim
+### Madame Mimm
 <code>Madame_Mim.png</code> — *legacy filename*
 <img src="https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/533cc95dd_Madame_Mim.png" width="340" alt=""/>
 <hr/>
@@ -244,11 +244,11 @@ Recovered from library/art (66 images, uploaded 2026-09-04). Filenames are legac
 <code>adam_water_free.png</code> — *legacy filename*
 <img src="https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/acfb17b67_adam_water_free.png" width="340" alt=""/>
 <hr/>
-### Andra — the water guardian, land form
+### Katya — the water guardian, land form
 <code>andra_land.jpg</code>
 <img src="https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/729e80a01_andra_land.jpg" width="340" alt=""/>
 <hr/>
-### Andra — the water guardian, water form
+### Katya — the water guardian, water form
 <code>andra_water.jpg</code>
 <img src="https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/d49394bbe_andra_water.jpg" width="340" alt=""/>
 <hr/>

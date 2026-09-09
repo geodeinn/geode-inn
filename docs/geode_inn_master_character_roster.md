@@ -33,7 +33,7 @@ This is the coinciding master list — every character, creature, and artifact c
 | 26 | The Fixer (Wrought) | Repairs everything | the_fixer_wrought.png | ✅ Uploaded |
 | 27 | The Cook | Kitchen master | the_cook_v2.png | ✅ npc_remaining |
 | 28 | Joe | Miniaturist, paints dragon kittens | joe_miniaturist_ingame.png | ✅ Uploaded |
-| 29 | Brim | Pipe smoker (formerly Mim) | madame_mim.png | ✅ npc_remaining |
+| 29 | Madame Mimm | Pipe smoker (formerly Mim) | madame_mim.png | ✅ npc_remaining |
 | 30 | Monsieur Sentient | Sentient pipe (Magritte) | magrittes_pipe.png | ✅ npc_remaining |
 | 31 | The Weaver | Textiles, tapestries | the_weaver.png | ✅ npc_remaining |
 | 32 | The Examiner | Fragment 849 quest chain | the_examiner_v2.png | ✅ npc_remaining |
@@ -119,7 +119,7 @@ This is the coinciding master list — every character, creature, and artifact c
 | # | Character | Role | Image | Status |
 |---|-----------|------|-------|--------|
 | 86 | Bog Fairy Golem (Vaulknut) | Bayou keeper, maker's avatar | bog_fairy_golem_ingame.png | ✅ Uploaded |
-| 87 | Lozen (River) | Sentinel, former boxer, 10-part questline | river_sentinel_ingame.png | ✅ npc_remaining |
+| 87 | Lozen (Lozen) | Sentinel, former boxer, 10-part questline | river_sentinel_ingame.png | ✅ npc_remaining |
 | 88 | Charles Chameleon Druid | Shapeshifter, garden dweller | charles_chameleon_druid.png | ✅ Uploaded |
 
 ## 1J. Shadow / Whisper Layer Characters
@@ -168,18 +168,18 @@ This is the coinciding master list — every character, creature, and artifact c
 | 117 | Speter Adams (Undercity) | Undercity | adam_undercity_sibling.png | ✅ |
 | 118 | Speter Adams (Water) | Water Zone | adam_water_free.png | ✅ |
 
-## 1N. Andra Variants
+## 1N. Katya Variants
 | # | Variant | Image | Status |
 |---|---------|-------|--------|
-| 119 | Andra (Land) | andra_land.jpg | ✅ |
-| 120 | Andra (Water) | andra_water.jpg | ✅ |
+| 119 | Katya (Land) | andra_land.jpg | ✅ |
+| 120 | Katya (Water) | andra_water.jpg | ✅ |
 
-## 1O. Sentinel Concepts (River/Lozen)
+## 1O. Sentinel Concepts (Lozen/Lozen)
 | # | Variant | Image | Status |
 |---|---------|-------|--------|
 | 121 | Sentinel (Early) | river_sentinel_concept_early.png | ✅ |
 | 122 | Sentinel (Concept) | sentinel_concept.png | ✅ |
-| 123 | The Sentinel (River) | the_sentinel_river.png | ✅ |
+| 123 | The Sentinel (Lozen) | the_sentinel_river.png | ✅ |
 
 ---
 

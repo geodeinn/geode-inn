@@ -142,7 +142,7 @@ Every markdown document in the Geode Inn repository (255 files, ~750k words) has
 89. Eileen
 90. Jaime
 91. Ryan
-92. Katy
+92. Lichenblossom
 93. Family Character Registry
 94. The Tinkering Weeaboo (The Tinker)
 95. The Ceiling Gnome

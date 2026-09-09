@@ -36,7 +36,7 @@ Below the chamber, below the Fae Kingdom, below everything — a small room. War
 The scroll contains two things:
 
 **1. A Song (the top half of the scroll)**
-A melody written in a notation that no modern system can fully transcribe. The notation resembles a river — the notes flow like water, branching and merging, sometimes running parallel, sometimes crossing. A musician (like Andra) could partially sight-read it. The melody, when hummed, matches the frequency of the Singing Tree in the Canopy of Sála when all its leaves are in place. It is the same song. The Singing Tree has been singing a fragment of the Song of Making this entire time.
+A melody written in a notation that no modern system can fully transcribe. The notation resembles a river — the notes flow like water, branching and merging, sometimes running parallel, sometimes crossing. A musician (like Katya) could partially sight-read it. The melody, when hummed, matches the frequency of the Singing Tree in the Canopy of Sála when all its leaves are in place. It is the same song. The Singing Tree has been singing a fragment of the Song of Making this entire time.
 
 **2. A Contract (the bottom half of the scroll)**
 A compact — an agreement — between parties unnamed. The language is archaic and careful. The Crone can translate the intent:

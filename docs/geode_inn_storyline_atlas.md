@@ -457,7 +457,7 @@ The Queen of Webs' quest: weave the player's thread into the Song's fabric. The 
 
 The In-Between: the weightless grey layer. The thread thread's SPATIAL form — the In-Between IS the thread, the connective tissue between zones. The between is: the adequate.
 
-Jareth's Labyrinth: the In-Between's physical form. The labyrinth is: the thread thread's CHALLENGE form — the thread as maze. The maze is: the adequate.
+Malachi's Labyrinth: the In-Between's physical form. The labyrinth is: the thread thread's CHALLENGE form — the thread as maze. The maze is: the adequate.
 
 ### The Main Floor
 

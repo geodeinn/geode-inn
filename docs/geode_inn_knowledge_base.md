@@ -277,7 +277,7 @@ The entire Inn IS a transducer:
 | Beverley | Archive | Master librarian (Anne Robinson, Australian) | Sharp, dry, precise | "Obviously." |
 | Joe | Studio/Meadery | Miniaturist, paints dragon kittens (Tom Ellis/Lucifer) | Charmingly theatrical | "Delightful." |
 | The Teacher | Archive | Educator (Kathy Bates) | Strict, uncompromising | "Incorrect." |
-| Brim (Brim) | Hearth | Witchy hearth NPC | Mischievous, mirrors formulas | "Watch this." |
+| Madame Mimm (Madame Mimm) | Hearth | Witchy hearth NPC | Mischievous, mirrors formulas | "Watch this." |
 | Monsieur Sentient | Hearth | Sentient pipe | Existentialist, dry | "Absurd." |
 | Naut (Naut) | Fireplace/Archive | Scholar, riddle giver (4ft squid-headed) | Scholarly, quiet | "Fascinating." |
 | The Firekeeper | Hearth | Hearth keeper (Tim Curry energy) | Devoted, theatrical | "Tend." |
@@ -285,10 +285,10 @@ The entire Inn IS a transducer:
 | Selkie | Tidal Caves/Market | Master crafter, jewelry artisan | Master crafter confidence | "Make it true." |
 | Briar Nightbloom | Market | Merchant of illusions | Charming, persuasive | "What catches the eye?" |
 | Rachel Kaiser | Studio | Visual artist | Artist intensity | "Hold still." |
-| Bethany | Tavern/Kitchen | Tavern host & cook (Katey Sagal) | Warm, motherly, tough | "Kitchen's warm." |
+| Wisteria | Tavern/Kitchen | Tavern host & cook (Katey Sagal) | Warm, motherly, tough | "Kitchen's warm." |
 | Jay | Tavern/Campgrounds | Easygoing bard | Relaxed, friendly | "Another round." |
 | Quire | Archive | Lovecraftian scholar (formerly John Myers) | Hushed, careful | "In the margins." |
-| Lozen (The Sentinel) | Entrance/Guard | Guard, former boxer (River) | Guard authority | "Halt." |
+| Lozen (The Sentinel) | Entrance/Guard | Guard, former boxer (Lozen) | Guard authority | "Halt." |
 | Lark | Tutorial/Main | Player guide (Jennifer Hale) | Encouraging, capable | "Ready?" |
 | The Constant | Cosmology/Main | Anchoring entity (John Malkovich) | Unflappable, measured | — |
 | The Bard | Meadery | Musical performer | Melodic, storytelling | — |
@@ -336,7 +336,7 @@ Mothman, Bigfoot, Chupacabra, Jersey Devil, Yeti, Mongolian Death Worm, Flatwood
 
 ### Real-World Player Characters (Login, NOT NPCs)
 1. **Krista** — The Bog Fairy Golem (creator avatar)
-2. **River** — Lozen / The Sentinel (former Golden Gloves boxer)
+2. **Lozen** — Lozen / The Sentinel (former Golden Gloves boxer)
 3. **Charles** — Chameleon Druid (glioblastoma woven into character)
 4. **John Myers** — Player logging in as themselves (distinct from NPC Quire)
 
@@ -544,7 +544,7 @@ All entities in Base44 app (ID: 6a60f218b0c6605c92fa35c4):
 
 ### Part Structure
 - **Part 1: The Murmur** (Prologue-7) — Creation myth, Inn arrival, Host, Common Room, first stones
-- **Part 2: The Main Floor** (8-16) — Crone, Catalyst, Brim, Reader, Archive, Music Room, Marketplace, Staircase
+- **Part 2: The Main Floor** (8-16) — Crone, Catalyst, Madame Mimm, Reader, Archive, Music Room, Marketplace, Staircase
 - **Part 3: The Descent** (17-24) — Catacombs, Egypt, Greece, Camelot, Norse, Undercity, Fae Kingdom
 - **Part 4: The Ascent** (25-33) — Staircase, Alchemists, Aristotle, Spiral Gallery, Canopy City, Clockwork Skies, Cosmology, Whisper Layer, Einstein
 - **Part 5: The Egg** (34-40) — Deepest chamber, Grand Collision, Three Choices (STAY/LEAVE/HIDE), Final Room, Epilogue

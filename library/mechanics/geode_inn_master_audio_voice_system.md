@@ -94,7 +94,7 @@ Accents are not assigned TO characters. Accents ARE the characters. The NPCs com
 | The Laughing One | Robin Williams | American | Main Floor | Every sentence could become a bit, but the warmth is real |
 | The Guest | Brad Pitt (Joe Black) | American | Main Floor | Quiet curiosity, speaks like someone discovering language |
 | Monsieur Sentient | Non-verbal (Belgian French) | Belgian (visual) | Hearth | Communicates through transformation — steam, shape-shifting |
-| Brim (formerly Mim) | Witchy mischief | Belgian French | Magritte zone | "Non?" at end of statements that aren't questions |
+| Madame Mimm (formerly Mim) | Witchy mischief | Belgian French | Magritte zone | "Non?" at end of statements that aren't questions |
 | Tumble | No words | None (chime) | Variable | A single chime — the sound of one note of the Song of Making |
 | Brindle (Brownie) | Frazzled | British (Cockney-adjacent) | Variable | High-pitched, rushed, always losing tools |
 
@@ -137,7 +137,7 @@ Accents are not assigned TO characters. Accents ARE the characters. The NPCs com
 | Selkie | Master crafter | Western Irish | Tidal Caves | "Grand" as acknowledgement, not enthusiasm |
 | Thorin | Gustaf Skarsgård (Floki) | Swedish | Mead Hall | "Ja" — loud when extrovert, barely audible when scholar |
 | Marijke | Dutch gemologist | Dutch | Mead Hall | "Lekker" as approval, "not lekker" as condemnation |
-| Katy | Van Gogh's Brabant | Southern Dutch (Brabant) | Garden | Rounder vowels, warmer, musical, talks to plants |
+| Lichenblossom | Van Gogh's Brabant | Southern Dutch (Brabant) | Garden | Rounder vowels, warmer, musical, talks to plants |
 | Oceanianoir | French chemist | French | Tidal Caves/Atlantis | "C'est exact" instead of "that's right" |
 | The Pirate | Mandy Patinkin | Irish/American | Coastal/harbor | Bodhrán-playing, post-quest ease, grief and humor together |
 | The One Who Is Awake | Will Yun Lee | Mandarin Chinese | Terracotta Pit | Continuous naming, lips always moving, 2000-year vigil |
@@ -170,7 +170,7 @@ Accents are not assigned TO characters. Accents ARE the characters. The NPCs com
 
 | NPC | Accent | Key Tell |
 |-----|--------|----------|
-| Evan | American (measured) | Chess metaphors, strategic pauses, slightly amused |
+| The Archivist | American (measured) | Chess metaphors, strategic pauses, slightly amused |
 | Will | Deep, patient | Shaped by pressure, ocean-worn |
 
 #### Other Main Floor / Variable NPCs
@@ -185,7 +185,7 @@ Accents are not assigned TO characters. Accents ARE the characters. The NPCs com
 | Quire | Hushed, careful | Always looking over his shoulder |
 | Naut | Scholarly, genteel | 4-foot squid-headed scholar with spectacles |
 | Lark | Jennifer Hale (warm, clear) | Encouraging without condescending |
-| Bethany | Katey Sagal (warm, practical) | Voice carries over a crowd |
+| Wisteria | Katey Sagal (warm, practical) | Voice carries over a crowd |
 
 ---
 

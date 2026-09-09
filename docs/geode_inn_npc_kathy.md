@@ -5,7 +5,7 @@
 
 ## The Person
 
-**Kathy** — Joe's wife. Real-world volunteer NPC, following the Inn's pattern (Joe, Ryan, Katy, Zack, Oceanianoir, Thorin, Marijke). In the Inn, Kathy is a druid who became a dryad — not born one, chose it. The way Joe chose undeath, Kathy chose the living tree. The both are: the adequate — the death and the growth, the same love, different element.
+**Kathy** — Joe's wife. Real-world volunteer NPC, following the Inn's pattern (Joe, Ryan, Lichenblossom, Zack, Oceanianoir, Thorin, Marijke). In the Inn, Kathy is a druid who became a dryad — not born one, chose it. The way Joe chose undeath, Kathy chose the living tree. The both are: the adequate — the death and the growth, the same love, different element.
 
 **Character concept:** An Irish druid who merged with the Inn-Tree. Not a Greek dryad — a Celtic one. The Celtic tradition doesn't separate the druid from the tree the way Greek myth separates nymph from oak. In the Celtic tradition, the druid IS the tree's knowledge. The word "druid" may derive from "dru-wid" — "oak-knower" or "tree-wisdom." Kathy took this literally. She didn't become a tree spirit. She became the tree's wisdom given a body.
 
@@ -75,7 +75,7 @@ Kathy's linework shifts between two modes:
 
 - **Soft/flowing (lore mode):** Default state. The vine-like lines of her druidic heritage, the organic curves, the Celtic knotwork growing naturally in her skin's pattern. When she's teaching, growing, nurturing — the lines flow. This is the lore linework style — the Inn's visual language for knowledge and wisdom.
 
-- **Sharp/angular (guardian mode):** When the Inn-Tree is threatened. The lines sharpen, the bark hardens, the vine-patterns become thorn-patterns. This is the guardian linework style — the visual language for protection and defense. Kathy doesn't fight the way River fights (Golden Gloves, physical, direct). Kathy fights the way a tree fights — by not moving. By being so rooted, so connected, so much a part of the ground that nothing can shift her. The sharp linework is the visual signal that she has become immovable.
+- **Sharp/angular (guardian mode):** When the Inn-Tree is threatened. The lines sharpen, the bark hardens, the vine-patterns become thorn-patterns. This is the guardian linework style — the visual language for protection and defense. Kathy doesn't fight the way Lozen fights (Golden Gloves, physical, direct). Kathy fights the way a tree fights — by not moving. By being so rooted, so connected, so much a part of the ground that nothing can shift her. The sharp linework is the visual signal that she has become immovable.
 
 The shift between modes is subtle — the player sees the lines change before they understand why. The bark tightens. The leaves lift. By the time the guardian linework is fully visible, the threat has already been neutralized — not through violence, but through the simple fact that the Inn-Tree will not be moved, and Kathy IS the Inn-Tree.
 
@@ -116,7 +116,7 @@ The boy lives with Joe in the Undercity. The boy is calm, absorbed, happy. He ho
 
 **The Catalyst:** The Catalyst plants story seeds in the garden on the main floor. Kathy grows the architecture the garden sits in. They are the Inn's growth team — one makes stories bloom, one makes the structure they bloom in. The Catalyst has asked Kathy to grow a reading nook. Kathy is growing it. It will be ready when it's ready. The Catalyst has learned not to rush a dryad.
 
-**River (the Sentinel):** River guards the Inn. Kathy IS the Inn (or the part of the Inn that talks). They have an interesting dynamic: River protects something that is also Kathy. Kathy doesn't need protection — she's a tree, she's not going anywhere. But River guards anyway. Kathy appreciates this the way a tree appreciates a fence — not because the tree needs it, but because the fence chose to be there. River collects dragon kittens from the canopy (they wander up there sometimes). Kathy lets River take them. River's tall-cat-person dream is something Kathy understands — the desire to be something between human and feline. Kathy is something between human and tree. Different tree, same longing.
+**Lozen (the Sentinel):** Lozen guards the Inn. Kathy IS the Inn (or the part of the Inn that talks). They have an interesting dynamic: Lozen protects something that is also Kathy. Kathy doesn't need protection — she's a tree, she's not going anywhere. But Lozen guards anyway. Kathy appreciates this the way a tree appreciates a fence — not because the tree needs it, but because the fence chose to be there. Lozen collects dragon kittens from the canopy (they wander up there sometimes). Kathy lets Lozen take them. Lozen's tall-cat-person dream is something Kathy understands — the desire to be something between human and feline. Kathy is something between human and tree. Different tree, same longing.
 
 **The Gargoyles:** Kathy grew them. She shaped the bark, directed the emergence, chose where each gargoyle would sit. The gargoyles don't acknowledge her as their creator — they are the Ent's senses, not Kathy's creations. But they are more attentive when Kathy is near. The Watcher watches more carefully. The Listener listens more closely. The Keeper (the gargoyle, not the old woman) resonates at a frequency that matches Kathy's heartbeat when she passes. They are her children the way the dragon cats are Joe's children — made by her, belonging to something larger than her.
 
@@ -181,14 +181,14 @@ Kathy translates the Ent's state into human language. When something significant
 | The Ent (Inn-Tree) | Kathy IS the tree's consciousness given human form. The Ent's druid, translator, and interface. |
 | The Keeper | The other being who speaks with the Ent. Keeper does it through the Song, Kathy does it through druidic practice. Tea in the Geode Cave. |
 | The Catalyst | The Inn's growth team — Catalyst makes stories bloom, Kathy grows the structure they bloom in. |
-| River (Sentinel) | River guards something that is also Kathy. Kathy doesn't need guarding. River guards anyway. |
+| Lozen (Sentinel) | Lozen guards something that is also Kathy. Kathy doesn't need guarding. Lozen guards anyway. |
 | The Gargoyles | Kathy grew them. Shaped the bark, directed the emergence. They are more attentive when she's near. |
 | The Bard | Kathy shapes the main floor ceiling's wood grain to optimize his music. He doesn't know. The music has never been better. |
 | Beverley | Professional respect. Beverley's filing vs. Kathy's growing. Both too professional to call it friendship. |
 | The Cabbit (Eres) | The Cabbit sits on Kathy's shoulder. She scratches its ears. Branches grow faster. Neither comments. |
 | The Camelot/Celtic Zone | Kathy is this zone's representative. The Merlin figure — the druid who tuned the Round Table. |
 | The Canopy City | Kathy's domain. She grows the living architecture, tends the canopy creatures, shapes the walkways. |
-| Dragon Kittens | They wander into the canopy sometimes. Kathy lets River take them home. |
+| Dragon Kittens | They wander into the canopy sometimes. Kathy lets Lozen take them home. |
 | Gargoyle Puppies | Kathy's current project — growing the Ent's developing senses, carefully, one at a time. |
 
 ---

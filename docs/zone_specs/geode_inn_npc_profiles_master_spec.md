@@ -40,7 +40,7 @@ Individual character design documents for key NPCs who warranted their own dedic
 | The Morrigan | 177 | The phantom queen. |
 | Odin | 123 | The Wanderer (warm NPC) + The Allfather (stoic deity). |
 | The Gardener | 110 | The Mediterranean keeper. The Bearsark connection. |
-| Brim (formerly Mim) | 158 | The illusionist. Brim. |
+| Madame Mimm (formerly Mim) | 158 | The illusionist. Madame Mimm. |
 | Monsieur Sentient | 184 | The sentient pipe. Shadow armor mode. |
 | The Smiths | 179 | The Undercity forge masters. |
 | The Fixer | 120 | The Undercity problem-solver. |
@@ -68,7 +68,7 @@ Individual character design documents for key NPCs who warranted their own dedic
 
 - [x] 30+ individual NPC profiles written
 - [x] Key NPCs fully documented (Joe, Thorin/Marijke, Oceanianoir, Einstein, Nyx, the Guest, the Crone, the Host, Mona, Da Vinci, the Astronomer, the Constant)
-- [x] Additional profiles written (Tesla, Naut, the Morrigan, Odin, the Gardener, Brim, Monsieur Sentient, the Smiths, the Fixer, Charon, Medusa, Seelie/Unseelie Kings, the Norns)
+- [x] Additional profiles written (Tesla, Naut, the Morrigan, Odin, the Gardener, Madame Mimm, Monsieur Sentient, the Smiths, the Fixer, Charon, Medusa, Seelie/Unseelie Kings, the Norns)
 
 ---
 

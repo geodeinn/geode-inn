@@ -26,7 +26,7 @@ This eliminates the need for a traditional animation team. The creative pipeline
 **2. Common Room Hub** [INTERACTIVE — Point & Click]
 - 2D hub environment. Player navigates by clicking directions/doors.
 - Exits visible: Garden, Meadery, Archive, Staircase (up), Catacombs (down), Exterior.
-- NPCs present: Bethany (tavern), Joe (fireplace), Beverley (library desk), Brownies (darting around).
+- NPCs present: Wisteria (tavern), Joe (fireplace), Beverley (library desk), Brownies (darting around).
 - First dialogue available with each NPC. Hook words establish character.
 - Player Guide voice (Jennifer Hale cadence) provides orientation.
 

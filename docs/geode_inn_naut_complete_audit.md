@@ -169,7 +169,7 @@ This is the complete audit.
 5. **Stone Library Defender arcade game** — the only arcade appearance
 6. **Cosmology level** — quest sends players there ("The Starlight Crystal" quest involves the Constant)
 7. **Music Room** — quest sends players there ("The Listeners" quest involves listening to silence)
-8. **Labyrinth** — visited once. Told Jareth: "The maze is elegant. The shifts are unnecessary but the architecture is sound."
+8. **Labyrinth** — visited once. Told Malachi: "The maze is elegant. The shifts are unnecessary but the architecture is sound."
 9. **The Deep (general)** — Naut hangs out with Atlantean relatives in the deep ocean beyond Atlantis
 
 ---
@@ -218,7 +218,7 @@ This is the complete audit.
 | The Crone | Calls Naut "the Professor." Mutual academic respect. Borrowed magnifying glass, never returned. Naut never asked. |
 | The Bard | Calls Naut "Squid." Naut finds the Bard genuinely amusing. One of two people who survives Rush (the other is unstated). |
 | The Owl | Private understanding. Owl watches, Naut reads. Owl on desk = Naut reads aloud. Owl visits Naut in the deep too. Neither explains. |
-| Jareth (Labyrinth) | Visited once. "The maze is elegant. The shifts are unnecessary but the architecture is sound." Jareth: "The walls move because I can make them move." Naut: "Fair." |
+| Malachi (Labyrinth) | Visited once. "The maze is elegant. The shifts are unnecessary but the architecture is sound." Malachi: "The walls move because I can make them move." Naut: "Fair." |
 | The Seelie King | Shared trait: both protect small creatures. Neither knows this about the other. |
 | The Astronomer | Connected through quests. Astronomer admits Naut's methods (understanding) exceed his own (calculation). |
 | The Constant | Connected through "The Starlight Crystal" quest — the book is the Constant's journal. |

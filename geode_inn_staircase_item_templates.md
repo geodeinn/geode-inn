@@ -290,7 +290,7 @@ The staircase teaches by transformation. The player builds by processing, then t
 
 ## Six-Zone Comparison
 
-| Aspect | Undercity (Scarlett) | Hearth (Firekeeper) | Water (Andra) | Cosmology (Allfather) | Catacombs (Crone) | Staircase (Clockmaker) |
+| Aspect | Undercity (Scarlett) | Hearth (Firekeeper) | Water (Katya) | Cosmology (Allfather) | Catacombs (Crone) | Staircase (Clockmaker) |
 |------|---------------------|---------------------|---------------|----------------------|-------------------|------------------------|
 | **Light** | Crafted | Alive (fire) | Living (bio) | Celestial | Scarce | EVOLVING (earth→light) |
 | **Energy** | Private | Communal | Flowing | Vast | Heavy | Transformative |

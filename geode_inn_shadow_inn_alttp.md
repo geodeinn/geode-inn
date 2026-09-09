@@ -118,7 +118,7 @@ The Arcana is frozen mid-flight. The Cabbit is stone, mid-purr. The 50 BPM is st
 The hearth fire is frozen mid-flicker — a sculpture of light. The Market stalls are stocked with the final versions of every item. The Arcade games are frozen mid-play — the high scores are set. The player can READ the high scores (they're the player's own future scores — the Shadow Inn knows what the player will achieve). The Modern Day Legends shelf has one more book than the Living Inn — the player's own story, completed.
 
 ### Level 4: Campgrounds (Shadow)
-Jay's tavern is frozen mid-song. The half-finished drink is on the bar. Solstara's shop has the final bead designs — designs the player hasn't created yet. The metal-sonic foundations of the Bead Board are visible in the Shadow Inn — the raw frequency architecture under the wood and stone.
+Jay's tavern is frozen mid-song. The half-finished drink is on the bar. Luna's shop has the final bead designs — designs the player hasn't created yet. The metal-sonic foundations of the Bead Board are visible in the Shadow Inn — the raw frequency architecture under the wood and stone.
 
 ### Level 5: Staircase (Shadow)
 The alchemical texts are frozen mid-transformation. The pages are open to the final stage — the Rubedo, the Red Work, the completed transformation. The Staircase in the Shadow Inn goes all the way down — no locked doors. Every floor is accessible. The Staircase is the Shadow Inn's highway.
@@ -127,7 +127,7 @@ The alchemical texts are frozen mid-transformation. The pages are open to the fi
 The dust is frozen mid-settle. The Visitors' Shelf items are fully revealed — each object's story complete. The Crone's archive is organized, labeled, FINISHED. The Catacombs in the Shadow Inn are the complete record — every book catalogued, every stone filed, every creature documented.
 
 ### Level 7: Faerie Kingdom (Shadow)
-The entire Kingdom is a petrified garden. The Seelie and Unseelie Courts are frozen in the moment of reunification — the split healed. Jareth and the Seelie King are standing together in The Between, mid-conversation. The stone circle portals are all open — every portal active. The Crystal Gardens' Griffin is stone, mid-roar.
+The entire Kingdom is a petrified garden. The Seelie and Unseelie Courts are frozen in the moment of reunification — the split healed. Malachi and the Seelie King are standing together in The Between, mid-conversation. The stone circle portals are all open — every portal active. The Crystal Gardens' Griffin is stone, mid-roar.
 
 ### Level 8: Water Zone (Shadow)
 The water is frozen solid. All 7 layers are walkable ice. The Lighthouse beam is frozen mid-sweep — a solid ray of gold light the player can walk along. The Pirate's drum is stone. Persephone is at the threshold. The frozen water surfaces show the 42Hz circuit as gold lines — the full energy grid visible. The Trifocal Gaze's three lenses are all open — UP, ACROSS, DOWN — simultaneously.

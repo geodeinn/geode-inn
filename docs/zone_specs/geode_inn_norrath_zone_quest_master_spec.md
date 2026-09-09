@@ -46,7 +46,7 @@ This document is DEPRECATED. The Geode Inn now uses native architecture (see Que
 | Tinkering Weeaboo | Wizard/Caster | Puzzle solver, hyperfocused |
 | Librarian Crone | Enchanter/Illusionist | Archive access, highest intelligence |
 | Chameleon Druid | Shapeshifter | Versatility. Adapts to any biome. The glioblastoma mirror. |
-| The Sentinel (River) | Tank/Warrior | Iron Stance. Faceted defense. |
+| The Sentinel (Lozen) | Tank/Warrior | Iron Stance. Faceted defense. |
 
 ---
 

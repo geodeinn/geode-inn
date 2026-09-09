@@ -76,7 +76,7 @@ The Water Zone fully integrates with the Inn's **Stone Vibration Touch System**.
 
 ### 1.5 Core NPCs & Anchor Landmarks
 - **The Lighthouse & The Keeper:** The surface landmark of the Water Zone, perched high above the mist on a weather-beaten granite cliff. The Keeper is rendered in an angular **Hodler architectural aesthetic**—expressive, chiseled geometry, granite-like posture, and eyes weathered by centuries of watching the tides. The Keeper serves as the player's primary guide, operating the lantern light during the descent (Layers 1–3), holding a silent vigil during the trench blackout (Layer 4), and signaling via mirror flares and light pillars during the ascent (Layers 5–7).
-- **Andra the Siren:** A trench-coat-wearing aquatic detective and siren singer who wanders the Water Zone. Andra acts as a field ally, acoustic investigator, and quest giver who translates creature songs into actionable clues.
+- **Katya the Siren:** A trench-coat-wearing aquatic detective and siren singer who wanders the Water Zone. Katya acts as a field ally, acoustic investigator, and quest giver who translates creature songs into actionable clues.
 - **Loch Ness ('Monster of the Deep'):** The Phase 1 entry game attached to the basement docks. Loch Ness acts as the sentinel guardian of Layer 1, testing incoming explorers before granting passage into the deeper subterranean ocean.
 - **Tiamat & Apsu:** The primordial Mesopotamian deities residing in Layer 7. Tiamat (Salt Water / Chaos) and Apsu (Fresh Water / Order) represent the dual ocean from which the 42Hz Song was born.
 
@@ -209,22 +209,22 @@ Each of the 7 layers features a strict 3-quest narrative and mechanical structur
 - **Quest Type:** Introduction to Water Mechanics & Acoustic Touch
 - **Quest Giver:** The Lighthouse Keeper
 - **Locations:** Geode Inn Basement Docks & Shallow Reef
-- **Narrative Description:** The Keeper calls the player to the docks as shallow sea mist gathers around the Inn. Gentle aquatic creatures gather near the shoreline, disturbed by an acoustic imbalance. The Keeper instructs the player to dive into the shallow water, meet Andra the Siren, and learn the basic 42Hz swimming and pitch-tuning mechanics.
+- **Narrative Description:** The Keeper calls the player to the docks as shallow sea mist gathers around the Inn. Gentle aquatic creatures gather near the shoreline, disturbed by an acoustic imbalance. The Keeper instructs the player to dive into the shallow water, meet Katya the Siren, and learn the basic 42Hz swimming and pitch-tuning mechanics.
 - **Objective Steps:**
   1. Speak with the Lighthouse Keeper at the dock railing to receive the *Tuning Pitchfork (42Hz)*.
   2. Submerge into the shallow reefs and align three submerged resonance stones to 42Hz.
-  3. Meet Andra near the kelp forest to record the song of the *Shallow Sea Foam*.
+  3. Meet Katya near the kelp forest to record the song of the *Shallow Sea Foam*.
 - **Puzzle Mechanic:** **42Hz Pitch Alignment** — Strike underwater tuning nodes to align glowing foam bubbles into a stable harmonic standing wave.
 - **Combat Encounter:** 2x *Foam Sprites* (42Hz passive / 84Hz darting melee attacks).
 - **Loot & DM Rewards:** 150 EXP, 50 Gold, *Shallow Water Diving Fin*.
 - **Completion Dialogue:**  
-  *Andra:* "The sea surface is breathing slowly today, but the deeper currents are pulling hard. Listen close to the foam—it carries the first line of the Song."
+  *Katya:* "The sea surface is breathing slowly today, but the deeper currents are pulling hard. Listen close to the foam—it carries the first line of the Song."
 
 #### Quest 1.2: Tuning the Shallows
 - **Quest Type:** Advanced Mechanics & Dual-Frequency Switching
-- **Quest Giver:** Andra the Siren
+- **Quest Giver:** Katya the Siren
 - **Locations:** Coral Atoll & Kelp Caverns
-- **Narrative Description:** Andra alerts the player that wild kelp beasts are agitating the shallow waters. To restore calm, the player must navigate dense kelp forests while toggling between 42Hz (to pass through glowing kelp barriers) and 84Hz (to defeat hostile tide lurkers).
+- **Narrative Description:** Katya alerts the player that wild kelp beasts are agitating the shallow waters. To restore calm, the player must navigate dense kelp forests while toggling between 42Hz (to pass through glowing kelp barriers) and 84Hz (to defeat hostile tide lurkers).
 - **Objective Steps:**
   1. Locate three kelp-bound acoustic gates in the coral atoll.
   2. Shift to 42Hz mode to cause kelp tendrils to uncoil and expose internal mineral nodes.
@@ -253,9 +253,9 @@ Each of the 7 layers features a strict 3-quest narrative and mechanical structur
 
 #### Quest 2.1: Resonance in the Grotto
 - **Quest Type:** Introduction to Tidal Mechanics & Cavern Acoustics
-- **Quest Giver:** Andra the Siren
+- **Quest Giver:** Katya the Siren
 - **Locations:** Submerged Grotto & Echo Chamber
-- **Narrative Description:** Descending past Nessie's gateway, the player enters the claustrophobic stone vaults of the Tidal Caves. Air pockets trap ancient echoes, and fluctuating tides open and close cavern passages. Andra asks the player to investigate the cavern's tidal pulse.
+- **Narrative Description:** Descending past Nessie's gateway, the player enters the claustrophobic stone vaults of the Tidal Caves. Air pockets trap ancient echoes, and fluctuating tides open and close cavern passages. Katya asks the player to investigate the cavern's tidal pulse.
 - **Objective Steps:**
   1. Swim through flooded stone archways during low-tide windows.
   2. Locate three acoustic echo chambers where water hits stone stalactites.
@@ -264,7 +264,7 @@ Each of the 7 layers features a strict 3-quest narrative and mechanical structur
 - **Combat Encounter:** 3x *Cavern Lampreys* and 2x *Grotto Gargoyles*.
 - **Loot & DM Rewards:** 300 EXP, 150 Gold, *Grotto Echo Tuning Fork*.
 - **Completion Dialogue:**  
-  *Andra:* "The walls here remember every drop that ever fell. The tide isn't just water—it's the breathing of the subterranean vault."
+  *Katya:* "The walls here remember every drop that ever fell. The tide isn't just water—it's the breathing of the subterranean vault."
 
 #### Quest 2.2: The Pressure Valve
 - **Quest Type:** Cavern Mechanics & Dual-Frequency Pressure Locks
@@ -284,13 +284,13 @@ Each of the 7 layers features a strict 3-quest narrative and mechanical structur
 
 #### Quest 2.3: The Siren of the Cavern Vaults (Layer 2 Climax)
 - **Quest Type:** Boss Encounter & Layer Master Completion
-- **Quest Giver:** Andra the Siren
+- **Quest Giver:** Katya the Siren
 - **Locations:** The Echoing Cathedral Grotto
 - **Narrative Description:** Deep inside the central cavern cathedral, the ancient ruler of Layer 2—the *Undine Queen (Siren Matriarch)*—guards the descent shaft. The Undine Queen uses cavern acoustics to weaponize echo reflections against intruders.
 - **Boss Encounter: THE UNDINE QUEEN — SIREN MATRIARCH**
   - **Phase 1 (Sonic Echo Barrage):** The Undine Queen sings at 84Hz, creating destructive sonic projectiles that bounce off cavern walls. The player must seek cover behind 42Hz acoustic dampening pillars and strike returning echoes.
   - **Phase 2 (Tidal Surge):** The boss floods the entire cathedral, raising water to the ceiling. The player must navigate vertical tide shafts while avoiding electrified stalactites.
-  - **Phase 3 (Harmonic Duet):** Andra joins the player at the arena edge. The player must synchronize physical acoustic strikes with Andra's song, matching the Undine Queen's 84Hz frequency to shatter the Undine Queen's sonic mantle.
+  - **Phase 3 (Harmonic Duet):** Katya joins the player at the arena edge. The player must synchronize physical acoustic strikes with Katya's song, matching the Undine Queen's 84Hz frequency to shatter the Undine Queen's sonic mantle.
 - **Quest Reward:** **Stone #171: Tidal Chalcedony** (Nullifies current knockback, unlocks Cavern Echo Lock manipulation) & Access to Layer 3 (Deep Current).
 
 ### 4.3 LAYER 3: DEEP CURRENT — THE SUBMERGED DRAG
@@ -299,7 +299,7 @@ Each of the 7 layers features a strict 3-quest narrative and mechanical structur
 
 #### Quest 3.1: Riding the Hydro-Veins
 - **Quest Type:** Introduction to Vector Navigation & High-Speed Water Jets
-- **Quest Giver:** Andra the Siren
+- **Quest Giver:** Katya the Siren
 - **Locations:** The Great Hydro-Vein Junction
 - **Narrative Description:** Past the cavern vaults lies Layer 3, an open oceanic mid-depth dominated by roaring underwater jet streams called Hydro-Veins. Swimming against these currents is impossible; the player must master vector riding and steering.
 - **Objective Steps:**
@@ -310,7 +310,7 @@ Each of the 7 layers features a strict 3-quest narrative and mechanical structur
 - **Combat Encounter:** 4x *Current Skimmers* (high-speed aquatic pursuers).
 - **Loot & DM Rewards:** 500 EXP, 250 Gold, *Hydro-Fins of the Current Rider*.
 - **Completion Dialogue:**  
-  *Andra:* "You're moving with the blood of the ocean now. Remember: do not fight the current; guide its vector."
+  *Katya:* "You're moving with the blood of the ocean now. Remember: do not fight the current; guide its vector."
 
 #### Quest 3.2: Harmonic Navigation
 - **Quest Type:** Complex Current Manipulation & Standing Wave Puzzles
@@ -329,7 +329,7 @@ Each of the 7 layers features a strict 3-quest narrative and mechanical structur
 
 #### Quest 3.3: The Tempest Leviathan (Layer 3 Climax)
 - **Quest Type:** Boss Encounter & Layer Master Completion
-- **Quest Giver:** Andra the Siren
+- **Quest Giver:** Katya the Siren
 - **Locations:** The Charybdis Vortex Basin
 - **Narrative Description:** At the edge of the descent drop lies the Charybdis Vortex, guarded by *Mušmahḫū (The Tempest Leviathan)*—a serpentine sea dragon spawned from ancient current energies.
 - **Boss Encounter: MUŠMAHḪŪ — THE TEMPEST LEVIATHAN**
@@ -344,7 +344,7 @@ Each of the 7 layers features a strict 3-quest narrative and mechanical structur
 
 #### Quest 4.1: Into the Blind Depth
 - **Quest Type:** Introduction to Hadal Survival & Echolocation
-- **Quest Giver:** Self-Initiated / Memory Echo of Andra
+- **Quest Giver:** Self-Initiated / Memory Echo of Katya
 - **Locations:** The Hadal Trench Entrance
 - **Narrative Description:** Passing through the whirlpool funnel, the player plunges into Layer 4—the Abyssal Plain. Ambient light drops to zero percent. Surface signals disappear. The player experiences total isolation, standing at the absolute bottom of Persephone's descent. Survival requires relying entirely on sound and echolocation.
 - **Objective Steps:**
@@ -390,18 +390,18 @@ Each of the 7 layers features a strict 3-quest narrative and mechanical structur
 
 #### Quest 5.1: Boiling Waves
 - **Quest Type:** Introduction to Thermal Thermodynamics & Fire-Water Hybrid Mechanics
-- **Quest Giver:** Andra the Siren (Rejoined via thermal rift)
+- **Quest Giver:** Katya the Siren (Rejoined via thermal rift)
 - **Locations:** The Hydrothermal Chimney Field
 - **Narrative Description:** Leaving the pitch-black Hadal trench, the player enters Layer 5. Here, subterranean magma chambers meet deep ocean water, creating boiling hydrothermal chimneys, superheated mineral plumes, and glowing orange-red waters. Persephone's ascent begins with fire.
 - **Objective Steps:**
-  1. Rejoin Andra at the edge of the hydrothermal chimney field.
+  1. Rejoin Katya at the edge of the hydrothermal chimney field.
   2. Navigate across boiling thermal plumes using cold water currents.
   3. Collect three *Igneous Pyrite Core* crystals from active black smoker vents.
 - **Puzzle Mechanic:** **Thermal Plume Riding** — Superheated vent plumes propel the player upward; players toggle 42Hz cooling aura to pass through boiling water without taking thermal damage.
 - **Combat Encounter:** 4x *Magma Salamanders* and 2x *Steam Elementals*.
 - **Loot & DM Rewards:** 900 EXP, 450 Gold, *Thermal Insulation Suit*.
 - **Completion Dialogue:**  
-  *Andra:* "Feel that heat? That's the heart of the earth waking up. After the cold dark of Layer 4, this fire feels like life returning."
+  *Katya:* "Feel that heat? That's the heart of the earth waking up. After the cold dark of Layer 4, this fire feels like life returning."
 
 #### Quest 5.2: The Hydrothermal Crucible
 - **Quest Type:** Steam Pressure Balancing & Dual-Frequency Crucible Puzzles
@@ -421,7 +421,7 @@ Each of the 7 layers features a strict 3-quest narrative and mechanical structur
 
 #### Quest 5.3: The Vulcan Chimera (Layer 5 Climax)
 - **Quest Type:** Boss Encounter & Layer Master Completion
-- **Quest Giver:** Andra the Siren
+- **Quest Giver:** Katya the Siren
 - **Locations:** The Caldera Void
 - **Narrative Description:** At the center of the hydrothermal caldera dwells *The Hydrothermal Hydra (Vulcan Chimera)*—a massive obsidian-scaled dragon with glowing magma veins and superheated steam breath.
 - **Boss Encounter: THE HYDROTHERMAL HYDRA — VULCAN CHIMERA**
@@ -436,7 +436,7 @@ Each of the 7 layers features a strict 3-quest narrative and mechanical structur
 
 #### Quest 6.1: The Glacial Lattice
 - **Quest Type:** Introduction to Ice Puzzle Mechanics & Acoustic Fracturing
-- **Quest Giver:** Andra the Siren
+- **Quest Giver:** Katya the Siren
 - **Locations:** The Sub-Zero Glacial Vaults
 - **Narrative Description:** Ascending out of the volcanic thermal vents, the temperature violently drops as the player enters Layer 6. The water here is ultra-pure and sub-zero, dominated by towering submerged glaciers, floating ice lattice matrixes, and crystal caverns. Persephone's journey reaches structural purification.
 - **Objective Steps:**
@@ -447,7 +447,7 @@ Each of the 7 layers features a strict 3-quest narrative and mechanical structur
 - **Combat Encounter:** 4x *Frost Phantoms* and 2x *Glacial Sprites*.
 - **Loot & DM Rewards:** 1100 EXP, 550 Gold, *Glacial Resonance Hammer*.
 - **Completion Dialogue:**  
-  *Andra:* "The clarity here is absolute. The water has frozen into pure geometric geometry. One clean note shatters an entire mountain of ice."
+  *Katya:* "The clarity here is absolute. The water has frozen into pure geometric geometry. One clean note shatters an entire mountain of ice."
 
 #### Quest 6.2: Shattering the Frost
 - **Quest Type:** Advanced Glacial Mirror Puzzles & Refraction Beams
@@ -466,7 +466,7 @@ Each of the 7 layers features a strict 3-quest narrative and mechanical structur
 
 #### Quest 6.3: The Frost-Weaver Wyrm (Layer 6 Climax)
 - **Quest Type:** Boss Encounter & Layer Master Completion
-- **Quest Giver:** Andra the Siren
+- **Quest Giver:** Katya the Siren
 - **Locations:** The Frozen Apex Citadel
 - **Narrative Description:** Guarding the crystalline ceiling of Layer 6 is *Ymir's Ice Leviathan (The Frost-Weaver Wyrm)*—an ancient serpentine dragon constructed entirely of compressed sub-zero glacial ice.
 - **Boss Encounter: YMIR'S ICE LEVIATHAN — THE FROST-WEAVER WYRM**
@@ -481,9 +481,9 @@ Each of the 7 layers features a strict 3-quest narrative and mechanical structur
 
 #### Quest 7.1: The Unbroken Wave
 - **Quest Type:** Introduction to Zero-Gravity Cosmic Ether Water
-- **Quest Giver:** Andra the Siren & The Lighthouse Keeper
+- **Quest Giver:** Katya the Siren & The Lighthouse Keeper
 - **Locations:** The Threshold of Genesis
-- **Narrative Description:** Shattering the glacial ceiling of Layer 6, the player ascends into Layer 7—The Source. Here, water transcends ordinary physical matter, becoming weightless liquid cosmic ether suspended under a subterranean star-filled sky. Persephone's cycle reaches ultimate completion. Andra and the Lighthouse Keeper stand together at the entry portal.
+- **Narrative Description:** Shattering the glacial ceiling of Layer 6, the player ascends into Layer 7—The Source. Here, water transcends ordinary physical matter, becoming weightless liquid cosmic ether suspended under a subterranean star-filled sky. Persephone's cycle reaches ultimate completion. Katya and the Lighthouse Keeper stand together at the entry portal.
 - **Objective Steps:**
   1. Step into the weightless ether ocean of Layer 7.
   2. Swim freely in 360-degree cosmic space without oxygen constraints.
@@ -492,7 +492,7 @@ Each of the 7 layers features a strict 3-quest narrative and mechanical structur
 - **Combat Encounter:** 2x *Ether Beings* (non-hostile harmonic trials).
 - **Loot & DM Rewards:** 1500 EXP, 750 Gold, *Genesis Ether Mantle*.
 - **Completion Dialogue:**  
-  *Andra:* "Look around you. This is where every river in the world begins. The water here doesn't just flow—it sings."
+  *Katya:* "Look around you. This is where every river in the world begins. The water here doesn't just flow—it sings."
 
 #### Quest 7.2: The First Vibration
 - **Quest Type:** Mastering the Fundamental 42Hz Song
@@ -557,7 +557,7 @@ The ultimate thematic revelation of the Water Zone questline is that **the water
 Collecting Water Stones #170 through #176 automatically writes seven new graphic novel pages into the **Living Book of Stones** at the front desk:
 - Each page features dynamic gothic anime paneling showing the player's victory over that layer's climax boss.
 - Touching the stone icon on any of pages 170–176 plays that stone's exact acoustic frequency through the Stone Vibration Touch System.
-- Collecting all seven stones completes the **Water Bestiary Archive (78 Monsters)** and unlocks special dialogue trees with Andra, the Lighthouse Keeper, and the Reader at the front desk.
+- Collecting all seven stones completes the **Water Bestiary Archive (78 Monsters)** and unlocks special dialogue trees with Katya, the Lighthouse Keeper, and the Reader at the front desk.
 
 ### 6.3 Comprehensive Master Summary Table
 

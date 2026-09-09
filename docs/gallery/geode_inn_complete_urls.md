@@ -92,7 +92,7 @@
 | Hades | https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/5f2730455_hades_v2.png |
 | Charon | https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/f8cd64464_charon_v2.png |
 | The Guest (Death) | https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/1bbf5d607_the_guest_death_v2.png |
-| Brim (Brim) | https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/3579d1a39_madame_mim.png |
+| Madame Mimm (Madame Mimm) | https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/3579d1a39_madame_mim.png |
 | Merlin/Noctua | https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/a6f168534_merlin_archimedes.png |
 | Thorin | https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/91c858ca2_thorin_v3.png |
 | Marijke | https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/b6f85756a_marijke.png |
@@ -187,7 +187,7 @@ Filenames are legacy per the naming policy; display names are canonical (see cha
 - Leonardo da Vinci — the Council of Thinkers (casting shorthand; features softened in final art)
   - File: `Leonardo_da_Vinci.png`
   - URL: https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/98adf84f3_Leonardo_da_Vinci.png
-- Brim (legacy filename)
+- Madame Mimm (legacy filename)
   - File: `Madame_Mim.png`
   - URL: https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/533cc95dd_Madame_Mim.png
 - Merlin and Noctua (owl's legacy name in filename)
@@ -325,10 +325,10 @@ Filenames are legacy per the naming policy; display names are canonical (see cha
 - Speter Adams — Water, free (legacy filename)
   - File: `adam_water_free.png`
   - URL: https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/acfb17b67_adam_water_free.png
-- Andra — the water guardian, land form
+- Katya — the water guardian, land form
   - File: `andra_land.jpg`
   - URL: https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/729e80a01_andra_land.jpg
-- Andra — the water guardian, water form
+- Katya — the water guardian, water form
   - File: `andra_water.jpg`
   - URL: https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/d49394bbe_andra_water.jpg
 - Bramble — concept (legacy filename)

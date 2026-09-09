@@ -34,9 +34,9 @@
 | The Garden | Van Gogh | The Gardener, The Catalyst | 42Hz growth | Garden quests | — | Singing vine clippings, Portal arrows | COMPLETE |
 | The Meadery | Picasso | Thorin, Marijke | 42Hz warmth | Meadery quests | — | Celtic mug, drinking horn | COMPLETE |
 | Portrait Gallery | Mapplethorpe | Portrait subjects | 42Hz | — | — | Portrait cards | COMPLETE |
-| Brim's Nook | Magritte | Brim, Monsieur Sentient | 42Hz (pipe frequency) | Brim's questline | — | The Pipe (Sentient), transformation tokens | COMPLETE |
+| Madame Mimm's Nook | Magritte | Madame Mimm, Monsieur Sentient | 42Hz (pipe frequency) | Madame Mimm's questline | — | The Pipe (Sentient), transformation tokens | COMPLETE |
 | The Arcade | SNES gold Celtic | Beverley (librarian) | 42Hz | — | 48 games catalogued | Score Stone, arcade tokens | COMPLETE |
-| The Market | Mucha/Royo | 11 vendors, Solstara's Booth | 42Hz commerce | Market quests | Market Day (merchant sim) | MarketItem entity (Soulstice bridge) | COMPLETE |
+| The Market | Mucha/Royo | 11 vendors, Luna's Booth | 42Hz commerce | Market quests | Market Day (merchant sim) | MarketItem entity (Soulstice bridge) | COMPLETE |
 | The Music Room | — | The Bard | 42Hz composition | — | Bead Board Battle | Composed pieces, bead shapes | COMPLETE |
 | The Archive | Klimt gold | Beverley, The Teacher | 42Hz record | Archive quests | The Deep Read (library nav) | Archive cards, ruler | COMPLETE |
 | Modern Day Legends | — | — | 42Hz (outside pre-industrial) | — | — | Serrano Parable, Sync Paradox entries | COMPLETE |
@@ -65,7 +65,7 @@
 |------|--------|-----------|-----------|--------|-------|--------|--------|
 | Egypt / Desert Bone | O'Keeffe | Bastet, Anubis, Ammit, Sphinx, Vulture, Examiner, 7 cats | 64Hz + 42Hz | 7-quest chain + Sphinx's Riddle | Sandfall, Bastet's Herding, Tomb Tunnel | Cat's Eye Chrysoberyl, Lapis, Turquoise, Desert Rose | COMPLETE |
 | Greece / Mediterranean | Monet | Persephone, Hades, Socrates/Plato/Aristotle, Ariadne, Minotaur, Medusa | 528Hz | 7-quest + 5-quest (Gorgon's Garden) | Labyrinth of Crete, Acropolis time-shifting | Aegean Aquamarine, Sapphire, Gorgon's Eye | COMPLETE |
-| Mesopotamia | Hokusai | Nisaba, Gilgamesh | River wave harmonics | 4-tier quest | Cylinder Seal printing, Ziggurat ascent | Lapis Lazuli, Prussian Blue | MOSTLY COMPLETE (secondary NPCs thin) |
+| Mesopotamia | Hokusai | Nisaba, Gilgamesh | Lozen wave harmonics | 4-tier quest | Cylinder Seal printing, Ziggurat ascent | Lapis Lazuli, Prussian Blue | MOSTLY COMPLETE (secondary NPCs thin) |
 | Camelot | Moreau | Arthur (3 ages/Skarsgårds), Morgan le Fay, Merlin, Knights, Mordred | 528/777Hz | 3-quest (Ages of Arthur, Grail, Solstice) | Round Table tuning, Triskele puzzle | 7 planetary cabochons, Avalon Geode | COMPLETE |
 | Peru | Guo Xi | Andean NPCs | Mountain mist frequencies | Quest chain | El Muki's Mine, Andean Run | Andean stones | COMPLETE |
 | China | Mulan ink-wash | Terracotta soldiers, tone-based NPCs | 42Hz (tone language) | Quest chain | Terracotta army mechanics | Chinese jade, cinnabar | COMPLETE |
@@ -90,7 +90,7 @@
 | Area | Artist | Characters | Vibration | Quests | Games | Items | Status |
 |------|--------|-----------|-----------|--------|-------|-------|--------|
 | The Crone's Archive | Klimt gold | The Crone | 42Hz measurement | Crone's quests | Archive Maze (Pac-Man) | 51 catacomb items | COMPLETE |
-| Charon's River | Klimt dark | Charon | 42Hz (underworld) | — | — | Obols, ferry tokens | COMPLETE |
+| Charon's Lozen | Klimt dark | Charon | 42Hz (underworld) | — | — | Obols, ferry tokens | COMPLETE |
 | Underworld Queens | Klimt | Persephone, Hel, Morrigan | 42Hz (death/rebirth) | Pomegranate Bridge | — | Pomegranate seeds | COMPLETE |
 | Bone Room | O'Keeffe×Klimt | The Bone Keeper | 42Hz (bone) | Urd's thread (Norns) | — | Bone fragments | COMPLETE |
 | Modern Day Legends | — | — | Outside 42Hz | — | — | Serrano, Sync Paradox | COMPLETE |

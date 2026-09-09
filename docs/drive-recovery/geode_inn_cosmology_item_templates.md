@@ -235,7 +235,7 @@ The sky teaches by exposure. The player builds by watching, then reflecting.
 
 ## Four-Zone Comparison
 
-| Aspect | Undercity (Scarlett) | Hearth (Firekeeper) | Water (Andra) | Cosmology (Allfather) |
+| Aspect | Undercity (Scarlett) | Hearth (Firekeeper) | Water (Katya) | Cosmology (Allfather) |
 |--------|---------------------|---------------------|---------------|----------------------|
 | **Light** | Crafted (crystal) | Alive (fire) | Living (bioluminescence) | Celestial (stars/moon) |
 | **Energy** | Private, introverted | Communal, extroverted | Flowing, meditative | Vast, observational |

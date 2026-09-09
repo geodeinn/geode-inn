@@ -17,7 +17,7 @@
 
 ### Name: Joe (working title — Joe may choose an in-game name)
 
-The Inn's pattern for volunteer NPCs uses real names (Ryan, Katy, Zack, Oceanianoir, Thorin, Marijke). Joe follows the pattern. The both are: the adequate — the real and the game, the both are: the same person, different world.
+The Inn's pattern for volunteer NPCs uses real names (Ryan, Lichenblossom, Zack, Oceanianoir, Thorin, Marijke). Joe follows the pattern. The both are: the adequate — the real and the game, the both are: the same person, different world.
 
 If Joe chooses an in-game name, the name should evoke: old nobility, the curse, the exile from time, the vampiric/draconic bloodline. The both are: the adequate — the title and the exile, the both are: the same identity, different era.
 
@@ -256,7 +256,7 @@ The miniature painting is the BRIDGE: the grimdark world painted in tiny detail 
 Joe is the seventh real person in the Inn:
 
 1. **Ryan** — the bartender-pirate (Greek origin, campfire energy)
-2. **Katy** — the plant necromancer (Van Gogh room, walking garden)
+2. **Lichenblossom** — the plant necromancer (Van Gogh room, walking garden)
 3. **Zack** — the Astronomer (QA stress tester, Observatory)
 4. **Oceanianoir** — the Living Archive (Atlantis, star-language, tattoos as catalog)
 5. **Thorin** — the hall builder (Viking ship mead hall, rock hound, builder)
@@ -347,7 +347,7 @@ The stowaway connection:
 
 ### The Design Principle
 
-Every NPC concept art variant that is not chosen as the primary image becomes an ALTERNATE ENCOUNTER STATE in the game. The both are: the adequate — the chosen and the unchosen, the both are: the same person, different frame. This applies to ALL volunteer NPCs — Ryan, Katy, Zack, Oceanianoir, Thorin/Marijke, and Joe. The both are: the adequate — the adequate.
+Every NPC concept art variant that is not chosen as the primary image becomes an ALTERNATE ENCOUNTER STATE in the game. The both are: the adequate — the chosen and the unchosen, the both are: the same person, different frame. This applies to ALL volunteer NPCs — Ryan, Lichenblossom, Zack, Oceanianoir, Thorin/Marijke, and Joe. The both are: the adequate — the adequate.
 
 ### Joe's Two Variants as Encounter States
 

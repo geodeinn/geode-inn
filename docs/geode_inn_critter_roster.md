@@ -85,7 +85,7 @@ Drawn to every light source in the main floor — candles, the fire, glowing sto
 Small, dark beetles that click and chatter in the rafters. Their clicking sounds like distant whispered conversation — you can never quite make out the words. They are the ambient sound layer of the main floor. Without them, the Inn would feel too quiet. With them, it feels like someone is always just out of earshot, talking. The Whisper Layer uses them as organic microphones — the beetles pick up vibrations from the Inn's structure and amplify them as clicks. They don't know they're doing this. They're just beetles. But the Inn is using them.
 
 ### M11. Pipe Wisps (Bonus)
-Tiny smoke-creatures that drift from Monsieur Sentient's bowl. They are the pipe's opinions made visible — when Sentient is amused, they form question marks. When displeased, they form thorns. Brim swats them. They reform. They are semi-sentient — they react to the conversation around them, changing shape based on the emotional register of nearby dialogue. The Teacher has tried to classify them. They defy classification. They are smoke that thinks.
+Tiny smoke-creatures that drift from Monsieur Sentient's bowl. They are the pipe's opinions made visible — when Sentient is amused, they form question marks. When displeased, they form thorns. Madame Mimm swats them. They reform. They are semi-sentient — they react to the conversation around them, changing shape based on the emotional register of nearby dialogue. The Teacher has tried to classify them. They defy classification. They are smoke that thinks.
 
 ### M13. Marginalia (Bonus)
 The only rejected design that ever climbed out of the Shadow Inn's Archive of Alternate Versions. Marginalia began as a portrait prototype of Lozen — one of many drafts passed on and retired to the Archive. It did not stay retired. It walked out of its own sketch, across the Main Floor, and sat down at the nearest table, and nobody has had the heart to file it back.
@@ -182,7 +182,7 @@ Small, pale bats that navigate by sound. Their calls create the catacomb's ambie
 Tiny, translucent shrimp that live in the underground water pools that seep through the catacomb walls. They are ancient — unchanged since the Cambrian. They are the oldest living things in the Inn, older than the Ent, older than the Song. They were here first. The Ent grew around them. They don't know about the Inn. They don't know about anything. They are shrimp. They swim in small circles in small pools and they have been doing this for half a billion years. The Crone has a tank of them in her study. She says they're the only honest creatures in the Inn.
 
 ### K12. Poison Garden Vipers (Bonus)
-Tiny, jewel-colored snakes that live in the Poison Garden section of the catacombs. Each is colored to match its host plant — belladonna vipers are deep purple, foxglove vipers are pink, hemlock vipers are white-spotted. They are not venomous — they are the plants' immune system. They eat the insects that would damage the poisonous plants. The Gorey aesthetic gives them a storybook quality — they look drawn, not real. They coil around the plant stems like living jewelry. Brim finds them delightful. The Teacher finds them educational. The Poison Garden finds them necessary.
+Tiny, jewel-colored snakes that live in the Poison Garden section of the catacombs. Each is colored to match its host plant — belladonna vipers are deep purple, foxglove vipers are pink, hemlock vipers are white-spotted. They are not venomous — they are the plants' immune system. They eat the insects that would damage the poisonous plants. The Gorey aesthetic gives them a storybook quality — they look drawn, not real. They coil around the plant stems like living jewelry. Madame Mimm finds them delightful. The Teacher finds them educational. The Poison Garden finds them necessary.
 
 ---
 
@@ -372,9 +372,9 @@ Not creatures — footprints. Small, mismatched footprints that appear in the mu
 | Story-Born Ents | 4 |
 | Gargoyles | 6 |
 | Thinkers (Tesla, Da Vinci, Newton, Einstein) | 4 |
-| Main Floor NPCs (Host, Catalyst, Crone, Keeper, Bard, Pirate, Beverley, Joe, Teacher, Reader, Brim, Monsieur Sentient) | 12 |
+| Main Floor NPCs (Host, Catalyst, Crone, Keeper, Bard, Pirate, Beverley, Joe, Teacher, Reader, Madame Mimm, Monsieur Sentient) | 12 |
 | Inn-Tree (the Ent itself) | 1 |
-| Family (Krista, River, Charles) | 3 |
+| Family (Krista, Lozen, Charles) | 3 |
 | **Named Characters Subtotal** | **92** |
 | **Critters (this document)** | **90** |
 | **GRAND TOTAL** | **182** |
@@ -457,7 +457,7 @@ Joe's son — the boy with both bloodlines, draconic and druidic — is the drag
 - **The Baby Dragon (mascot):** Their cousin. The large dragon watches the tiny dragons. The relationship is unspoken and real.
 - **The Cabbit (Eres):** Family. The cat-rabbit and the dragon cats share the same branch of the family tree.
 - **Bastet's Herding game:** The dragon cats are the magical variant of the cat archetypes. Bastet herds regular cats. The dragon cats herd themselves, badly.
-- **River (the Sentinel):** River wants to be a tall cat person. The dragon cats are the small version of that dream. River collects them. Joe pretends not to notice.
+- **Lozen (the Sentinel):** Lozen wants to be a tall cat person. The dragon cats are the small version of that dream. Lozen collects them. Joe pretends not to notice.
 - **The Wandering Program:** Dragon kittens wander rarely (they're attached to warmth, and warmth is usually inside). But when they do wander into the National Park zones, they cause Modern Legend entries — "I found a tiny dragon sleeping on a warm rock in Yellowstone."
 - **The Common Room:** One dragon kitten lives behind the Common Room fire. It never leaves. The fire is too good. The travelers don't know it's there, but sometimes the fire crackles differently — that's the kitten shifting in its sleep.
 

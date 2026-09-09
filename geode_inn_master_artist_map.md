@@ -42,7 +42,7 @@ From the Facets doc — the 14 artists defining each level's visual identity.
 | 3 | Level 1: Cosmology (The Canopy) | J.M.W. Turner | Pure light, dissolving forms, the sun as presence not shape | No-outline (cosmological) | Allfather's Observatory (dissolving architecture), Vanir Garden (color splashes), Bramble's Nook (watercolor washes), 42Hz Source (spreading radiance) |
 | 4 | Level 2: Clockwork Skies | Salvador Dalí | Melting gearwork, surreal mechanics, the machine that dreams | Sharp/angular (guardian) | The Arcana ship (Dalí time-ship), Crew Stations (soft-watch geometry), 50 BPM heartbeat (time made visible), planet gears (mechanical persistence of memory). NOTE: Canopy City is a separate Rackham zone (see row 39) |
 | 5 | Level 3: Main Floor (The Hearth) | Henri Matisse | Joy, color, flow, the heart of the Inn | Soft flowing (lore) | Arcade (cutout shapes), Market (flowing forms), Baby Dragon's Geode (organic spiral), Wanderer's Table (still life) |
-| 6 | Level 4: Campgrounds (The Exterior) | Alphonse Mucha | Art Nouveau, artisanal, decorative, craft | Soft flowing (lore) | Market stalls (Mucha posters), artisan shops (botanical borders), Jay's tavern, Solstara's bead-configurator |
+| 6 | Level 4: Campgrounds (The Exterior) | Alphonse Mucha | Art Nouveau, artisanal, decorative, craft | Soft flowing (lore) | Market stalls (Mucha posters), artisan shops (botanical borders), Jay's tavern, Luna's bead-configurator |
 | 7 | Level 5: Staircase (The Alchemy Level) | M.C. Escher | Impossible geometry, transformation, tessellation | Sharp/angular (guardian) | Ascending key music, gargoyles (symmetric), Blue Box alcove (impossible space), alchemical transformation visuals |
 | 8 | Level 6: Catacombs (The Archive) | Francisco Goya | Dark, intimate, weight of history, still life drama | Heavy cel-shaded (tradesman) + soft flowing (lore) | The Crone's desk (scarred oak), The Stacks (deep focus), The Deep (84Hz shadow), Beverley's station, Charles's Natural Archive (Goya still life) |
 | 9 | Level 7: Faerie Kingdom (The Roots) | Arthur Rackham | Ink + watercolor fairy-tale enchantment, trees as threshold, the Roots as living storybook | Soft flowing (Seelie) / sharp/angular (Unseelie) | The Threshold (Rackham arch of grasping trees), Summerlands (Lee's golden mythic illustration), The Hollow (Bauer's cold Nordic folk tale), Crystal Gardens (Lee), Stone Circle Chamber (the deepest ink) |
@@ -271,7 +271,7 @@ Each arcade game is assigned to a zone, and inherits that zone's artist style. G
 | 55 | ALL cave shadow silhouettes | Hieronymus Bosch | Frequency-dependent cave wall shadows, ambient ancient texture | geode_inn_bosch_shadows.md |
 | 56 | Naut (Stone Library Defender NPC) | Klimt (inherited from zone) | Gold-on-dark library aesthetic, the archive's visual identity | docs/arcade_build_sheets/tier3_stone_library_defender.md |
 | 57 | The Seelie King | Alan Lee (inherited) | Golden mythic illustration, light Fae majesty | geode_inn_seelie_alan_lee.md |
-| 58 | The Unseelie King (Jareth) | John Bauer (inherited) | Dark Nordic folk tale, cold winter court | geode_inn_embedded_artist_underground_zones.md |
+| 58 | The Unseelie King (Malachi) | John Bauer (inherited) | Dark Nordic folk tale, cold winter court | geode_inn_embedded_artist_underground_zones.md |
 
 ---
 

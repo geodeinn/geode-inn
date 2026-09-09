@@ -236,7 +236,7 @@ This document contains the environmental and background animation prompts for th
 ## Overview & Linework Rules
 This document contains detailed character animation prompts for all characters residing in Zones 7, 8, and 9 of the Geode Inn. Each prompt adheres strictly to the Master Brief schema and linework-as-UI design philosophy:
 - **Heavy cel-shaded:** Artisans, crafters, makers (Scarlett, Goldsmith)
-- **Soft flowing:** Lore characters, aquatic guardians (Zee, Andra)
+- **Soft flowing:** Lore characters, aquatic guardians (Zeke, Katya)
 - **Sharp/angular:** Protectors, warlords, winter Fae (The Morrigan, Unseelie King, Griffin)
 - **No-outline:** Divine/cosmological beings, pure Fae radiance, state-transcending entities (Seelie Queen radiant parts, The Barn Owl, Source Creature)
 - **Fragmented:** Entities in crisis, between states or identities (Persephone, The Shifting Man, Player's Reflection)
@@ -403,8 +403,8 @@ This document contains detailed character animation prompts for all characters r
 
 # Zone 8: Water Zone Characters
 
-### 1. Andra (The Siren)
-- **Subject Name:** Andra (The Siren)
+### 1. Katya (The Siren)
+- **Subject Name:** Katya (The Siren)
 - **Visual Description:** A strikingly beautiful gothic anime performer with long, flowing sea-green hair infused with bioluminescent veins. She wears an elaborate performance dress crafted from iridescent scales and dark velvet. Her posture is guarded yet commanding — using her stage presence as armor.
 - **Linework Style:** Soft flowing lines for her body and hair, combined with sharp/angular linework along her jewel-encrusted corset.
 - **Color Palette:** Deep blue-green, iridescent cyan, seafoam white, and velvet midnight blue.
@@ -415,14 +415,14 @@ This document contains detailed character animation prompts for all characters r
 
 ---
 
-### 2. Zee (The Anchor)
-- **Subject Name:** Zee
-- **Visual Description:** Andra's steady, devoted counterpart. A calm aquatic figure with short dark teal hair, webbed fingers, and practical kelp-woven garments. His expression is serene and unshakeable, radiating grounding stability.
+### 2. Zeke (The Anchor)
+- **Subject Name:** Zeke
+- **Visual Description:** Katya's steady, devoted counterpart. A calm aquatic figure with short dark teal hair, webbed fingers, and practical kelp-woven garments. His expression is serene and unshakeable, radiating grounding stability.
 - **Linework Style:** Soft flowing lines throughout — smooth, anchored, and harmonious.
 - **Color Palette:** Deep teal, kelp green, dark slate blue, and pale abalone shell white.
 - **Lighting / Atmosphere:** Subdued ambient underwater lighting. Golden caustics gently illuminate his shoulders.
-- **Animation Notes:** Idle: Sits quietly on an underwater rock outcrop directly beneath Andra's position, watching her from below with steady gaze, gills pulsing slowly as he breathes water.
-- **Sound Connection:** Deep, low sub-bass water resonance stabilizing Andra's song.
+- **Animation Notes:** Idle: Sits quietly on an underwater rock outcrop directly beneath Katya's position, watching her from below with steady gaze, gills pulsing slowly as he breathes water.
+- **Sound Connection:** Deep, low sub-bass water resonance stabilizing Katya's song.
 - **Special Notes:** The steady anchor who stays when the Siren performs.
 
 ---

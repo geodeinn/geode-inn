@@ -17,7 +17,7 @@
 
 ### India — Saraswati (सरस्वती)
 
-**Source:** Hindu tradition. Saraswati is the goddess of knowledge, music, art, wisdom, and learning. She carries a *veena* (stringed instrument) and a book. She is associated with the Saraswati River — a river that flows underground, appearing and disappearing. She is the flow of knowledge itself — not static, not stored, but *moving*.
+**Source:** Hindu tradition. Saraswati is the goddess of knowledge, music, art, wisdom, and learning. She carries a *veena* (stringed instrument) and a book. She is associated with the Saraswati Lozen — a river that flows underground, appearing and disappearing. She is the flow of knowledge itself — not static, not stored, but *moving*.
 
 **In the Inn:** The Indian region's Keeper sits on a rock in the middle of a river that appears and disappears — sometimes there's water, sometimes there's dry stone, sometimes there's something in between (mist, light, sound). She plays the veena. The music doesn't stop when the river disappears. It flows through the dry stone. The player realizes: the river is the music. When the water is visible, the music is audible. When the water is underground, the music is felt — in the stone, in the air, in the player's feet.
 
@@ -33,7 +33,7 @@
 
 **Source:** Navajo (Diné) tradition. Changing Woman is the holy woman who transforms with the seasons — young in spring, mature in summer, aging in autumn, and reborn in winter. She represents the cycle of life, the power of transformation, and the Navajo principle of *hózhó* (balance, beauty, harmony). She is the mother of the Hero Twins. She is the most sacred figure in Navajo cosmology.
 
-**Note:** This Keeper is especially significant — River (Krista's spouse, the Sentinel class) has Navajo heritage. Changing Woman connects the Navajo zone to the narrative spine's reincarnation mechanic: she is the original being who dies and is reborn, who carries knowledge across lifetimes. She is the Keeper who *understands* the Song's deepest meaning — that it must be carried forward, not preserved. She changes because the Song changes. The Song changes because it is alive.
+**Note:** This Keeper is especially significant — Lozen (Krista's spouse, the Sentinel class) has Navajo heritage. Changing Woman connects the Navajo zone to the narrative spine's reincarnation mechanic: she is the original being who dies and is reborn, who carries knowledge across lifetimes. She is the Keeper who *understands* the Song's deepest meaning — that it must be carried forward, not preserved. She changes because the Song changes. The Song changes because it is alive.
 
 **In the Inn:** The Navajo zone's Keeper appears differently depending on the in-game season. In spring, she is a young woman weaving at a loom, her hands quick and sure. In summer, she stands in the desert at noon, strong and radiant. In autumn, she sits by a fire, older now, slower, but her eyes are sharpest. In winter, she is gone — the loom is empty, the fire is ash. But if the player returns at dawn on the first day of spring, she is there again. Young. Weaving. The same pattern. Different thread. The player who visits in all four seasons sees a life lived in a single year.
 

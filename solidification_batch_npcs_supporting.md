@@ -9,7 +9,7 @@
 2. [Aurallia — The Hearth & Cave Painter](#2-eileen-the-hearth--cave-painter)
 3. [Oceanianoir — The Living Archive & Periodic Table](#3-oceanianoir-the-living-archive--periodic-table)
 4. [Ryan — The Meadery Bartender & Campfire](#4-ryan-the-meadery-bartender--campfire)
-5. [Katy — The Plant Necromancer & Van Gogh Garden](#5-katy-the-plant-necromancer--van-gogh-garden)
+5. [Lichenblossom — The Plant Necromancer & Van Gogh Garden](#5-katy-the-plant-necromancer--van-gogh-garden)
 6. [Family Character Registry — Playable Classes & Lineage](#6-family-character-registry-playable-classes--lineage)
 7. [The Tinkering Weeaboo — The Changeling Who Tinkers](#7-the-tinkering-weeaboo-the-changeling-who-tinkers)
 8. [The Ceiling Gnome — Gesso & The Sistine Scaffolding](#8-the-ceiling-gnome-gesso--the-sistine-scaffolding)
@@ -128,14 +128,14 @@ Ryan’s arcade machine network acts as the distributed computational power grid
 ## 5. KATY — THE PLANT NECROMANCER & VAN GOGH GARDEN
 
 ### Visual DNA & Aesthetic Synthesis
-* **Living Inn (42Hz - Klimt Aesthetic):** Katy walks through the Van Gogh garden as a living tapestry of golden sunflowers, emerald vines, and topaz blossoms that bend and lean toward her as she steps. Her dreadlocks are interwoven with luminous flora and gold leaf threads, her dress swirling in rich floral mosaic patterns.
+* **Living Inn (42Hz - Klimt Aesthetic):** Lichenblossom walks through the Van Gogh garden as a living tapestry of golden sunflowers, emerald vines, and topaz blossoms that bend and lean toward her as she steps. Her dreadlocks are interwoven with luminous flora and gold leaf threads, her dress swirling in rich floral mosaic patterns.
 * **Shadow Inn (84Hz - Royo Aesthetic):** Black nightshade blossoms, thorned obsidian vines, and glowing cyan bioluminescent fungi burst from the ground at her heels. Her dreadlocks become silver tendrils, and her eyes glow violet beneath a hood of dark metallic leaves. She is a gothic plant lich surrounded by floating spectral spores.
 
 ### (1) Shadow Inn State
-In the 84Hz Shadow Inn, Katy manifests as the **Dread Botanical Lich**. She no longer merely tends plants—she resurrects decayed vegetation and commands skeletal flora. She provides players with dark herbal poisons, shadow-root entanglements for combat, and seed capsules that grow hostile plant guardians in player territory.
+In the 84Hz Shadow Inn, Lichenblossom manifests as the **Dread Botanical Lich**. She no longer merely tends plants—she resurrects decayed vegetation and commands skeletal flora. She provides players with dark herbal poisons, shadow-root entanglements for combat, and seed capsules that grow hostile plant guardians in player territory.
 
 ### (2) Endgame Connections
-When the central Inn-Tree suffers corruption during the late-game shadow surge, Katy performs the *Botanical Resurrection Ritual*. Using a cutting from the original World-Tree and her necromantic flora abilities, she binds life and death into a single hybrid graft, ensuring the Inn-Tree survives the 168Hz frequency shock of Convergence.
+When the central Inn-Tree suffers corruption during the late-game shadow surge, Lichenblossom performs the *Botanical Resurrection Ritual*. Using a cutting from the original World-Tree and her necromantic flora abilities, she binds life and death into a single hybrid graft, ensuring the Inn-Tree survives the 168Hz frequency shock of Convergence.
 
 ### (3) Sound Profile
 * **Base Frequency:** 256 Hz floral hum, pulsing with a dual 42Hz/84Hz botanical respiration wave.

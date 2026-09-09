@@ -186,7 +186,7 @@ Ten centered buttons going straight down, each one a level. Each button carries:
 | Beverley | "Obviously." | Anne Robinson, Australian accent | Library |
 | Joe | "Delightful." | Tom Ellis Lucifer cadence | Meadery |
 | The Teacher | "Incorrect." | Kathy Bates (3 modes) | Archive |
-| Brim | "Watch this." | Witchy mischief | Hearth |
+| Madame Mimm | "Watch this." | Witchy mischief | Hearth |
 | Monsieur Sentient | "Absurd." | Existential pipe | Hearth |
 | The Wanderer | "Passing through." | Warm traveler | Main floor |
 | The Owl | "Watching." | Silent presence | Variable |
@@ -207,7 +207,7 @@ Ten centered buttons going straight down, each one a level. Each button carries:
 
 | NPC | Hook Word(s) | Voice Profile | Zone |
 |-----|-------------|---------------|------|
-| Bethany | "Kitchen's warm." | Katey Sagal | Tavern |
+| Wisteria | "Kitchen's warm." | Katey Sagal | Tavern |
 | Jay | "Another round." | Easygoing | Tavern |
 | TJ | "Can I touch it?" | Curious child | Tavern |
 | Gabby | "I know this one." | Confident child | Tavern |
@@ -241,7 +241,7 @@ Ten centered buttons going straight down, each one a level. Each button carries:
 | NPC | Hook Word(s) | Voice Profile | Zone |
 |-----|-------------|---------------|------|
 | Will | "Current's shifting." | Ocean-worn | Atlantis |
-| Evan | "Your move." | Chess wizard | Tidal Caves |
+| The Archivist | "Your move." | Chess wizard | Tidal Caves |
 
 ## 4.8 — Animal & Creature NPCs
 
@@ -580,7 +580,7 @@ Screenshot evidence confirms the live Geode Inn hub and Arcade pages are renderi
 # 12. THE PEOPLE
 
 - **Krista** — The Bog Fairy Golem. The maker's avatar. Email: bogfairygolem@geodeinn.com
-- **River** — In-game: Lozen. Former boxer, Golden Gloves champion, INFJ. Guards the Inn. Email: river@geodeinn.com
+- **Lozen** — In-game: Lozen. Former boxer, Golden Gloves champion, INFJ. Guards the Inn. Email: river@geodeinn.com
 - **Charles** — The Chameleon Druid. Shapeshifter whose body changes (glioblastoma woven into character). Email: river@geodeinn.com (shared)
 - **Quire** — NPC: the Lovecraftian scholar who reads in the margins of restricted Archive texts. NOT the same as Lozen.
 - **Lacey** — Maintains soulsticejeweler.com. In-game: Briar Nightbloom, Market Manager. Will be adding product photos regularly starting Aug 2026.

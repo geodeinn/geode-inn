@@ -34,7 +34,7 @@ Total: 41 portraits found.
 | Hades | hades_v2.png | 2 | ✅
 | Charon | charon_v2.png | 2 | ✅
 | The Guest (Death) | the_guest_death_v2.png | 2 | ✅
-| Brim (Brim) | madame_mim.png | 2 | ✅
+| Madame Mimm (Madame Mimm) | madame_mim.png | 2 | ✅
 | Merlin | merlin_archimedes.png | 2 | ✅
 | Noctua | merlin_archimedes.png | 2 | ✅
 | The Shifting Man | the_shifting_man.png | 2 | ✅

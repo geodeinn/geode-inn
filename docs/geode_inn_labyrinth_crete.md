@@ -13,7 +13,7 @@ The player can enter from either side. The experience is different. The center i
 
 ## The Architect
 
-**The Unseelie King (David Bowie/Jareth)** built the labyrinth. This is known. But the Inn's question is: WHY?
+**The Unseelie King (David Bowie/Malachi)** built the labyrinth. This is known. But the Inn's question is: WHY?
 
 The standard myth says King Minos commissioned Daedalus to build the labyrinth to *imprison* the Minotaur. The labyrinth is a prison. The Minotaur is the monster. The architect is the king's tool.
 
@@ -110,7 +110,7 @@ Asterion stays. Asterion is home. But Asterion is no longer alone.
 
 ## The Unseelie King's Final Act
 
-The Unseelie King (Bowie/Jareth) watches the player connect the thread to Asterion. He is in the Castle — the cozy backstage with books and sleeping goblins, the fifth sub-zone of the Labyrinth. He watches through the labyrinth's walls, which are his walls, which he built.
+The Unseelie King (Bowie/Malachi) watches the player connect the thread to Asterion. He is in the Castle — the cozy backstage with books and sleeping goblins, the fifth sub-zone of the Labyrinth. He watches through the labyrinth's walls, which are his walls, which he built.
 
 He says nothing. He watches. His face does what Bowie's face does — the controlled expression that almost hides the emotion underneath. Almost.
 
@@ -126,7 +126,7 @@ The Unseelie King makes the moon bright. The moon lights the labyrinth. Asterion
 
 | Character | Role in the Labyrinth | Essence Woven |
 |---|---|---|
-| **The Unseelie King (Bowie/Jareth)** | The architect who built the labyrinth as a fortress of love for Asterion. Daedalus is his human name. | The love letter written in walls. The brother who makes the moon bright. |
+| **The Unseelie King (Bowie/Malachi)** | The architect who built the labyrinth as a fortress of love for Asterion. Daedalus is his human name. | The love letter written in walls. The brother who makes the moon bright. |
 | **Asterion (the Minotaur)** | The labyrinth's only resident. Seven hundred years of thought carved into stone. Not a monster — a person. | The outcast the Inn's thesis demands we visit, not slay. The monster who is the neighbor. |
 | **The Queen of Webs (Jessica Lange)** | Ariadne is her human name. She spun the thread that connects — not the thread that kills. | The weaver of the Song of Making. The thread that links three worlds, now linking a fourth: the labyrinth. |
 | **The Cartographer (Gubler)** | Discovered the labyrinth is alive — the Inn-Tree's root system in stone. The labyrinth's shifts are intentional. | The mapper who reads the forest's heartbeat and finds the same heartbeat in stone. |

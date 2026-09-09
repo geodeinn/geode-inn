@@ -30,7 +30,7 @@ Before the Song, there was the Murmur. Not sound — not yet. The Murmur is what
 
 **Einstein & the Observatory** — Magritte painting made architecture. "The Double Secret." Einstein sits in the grey In-Between eating a half-finished burrito. "You are not walking through the Inn. The Inn is walking through you." The mundane IS the cosmic.
 
-**Brim's Pipe** — "Ceci n'est pas une pipe." The Inn's thesis statement: the representation is not the thing.
+**Madame Mimm's Pipe** — "Ceci n'est pas une pipe." The Inn's thesis statement: the representation is not the thing.
 
 ---
 
@@ -139,7 +139,7 @@ The Inn's social and economic hub. The Arcade, the Wanderer's quests, the growth
 **Key Characters:**
 - **The Crone (Hopkins)** — Krista's mother. Archive keeper. Measures everything. "Adequate." Learns to listen to the Song. The Hopkins gaze — clear, seeing, the one unsoftened celebrity feature in Geode Inn art.
 - **The Catalyst (Helena Bonham Carter)** — Bar/garden. Grows portal arrows. Growth by WILL vs. The Greenward's growth by COMMUNION. Mrs. Lovett energy. The Spirit.
-- **Brim** — Inner chaos agent. Rides a Magritte pipe. Breaks formulas to reveal secret paths. Belladonna energy.
+- **Madame Mimm** — Inner chaos agent. Rides a Magritte pipe. Breaks formulas to reveal secret paths. Belladonna energy.
 - **The Thrum (Ben Whishaw)** — Translucent low-frequency entity. Teaches: essence precedes appearance, timing precedes rhythm.
 - **The Brownies** — Anarcho-syndicalist maintenance commune. 2-foot spirits with brooms/coconut shells. Become Boggarts if contract breached. The Constitutional Peasants (Monty Python coconut shells). The Keeper's Entourage (with Grit).
 - **The Story-Born Ents (4)** — The Wayfarer (travel), The Hearthkeeper (staying), The Mourner (grief), The Laughing One (joy).
@@ -163,7 +163,7 @@ The external threshold. The ren faire front porch. Market stalls connecting to t
 
 **Key Characters:**
 - **Jay** — Huntsman Tavern Keeper. Former Marine, very tall, long black hair, Cherokee cheekbones, Voltaire-goth aesthetic. Derpy wolf companion (full-grown but only knee-height to Jay — reveals Jay's enormous height). Charles' best friend. Fun, loving, calls nonsense with warmth and a grin. Heavy cel-shaded linework.
-- **Solstara** — Jeweler, Jay's good friend. Wild brown long hair, curvy, zen energy, raised by hippies, dresses like a gypsy. Goes to raves. Works the huge Renaissance Faire near Dallas. Jeweler's hands with small burn scars. Calm, grounded, centered — the quiet counterpoint to Jay's loud energy. Jewelry-configurator shop.
+- **Luna** — Jeweler, Jay's good friend. Wild brown long hair, curvy, zen energy, raised by hippies, dresses like a gypsy. Goes to raves. Works the huge Renaissance Faire near Dallas. Jeweler's hands with small burn scars. Calm, grounded, centered — the quiet counterpoint to Jay's loud energy. Jewelry-configurator shop.
 
 **The Baby Dragon Mascot** — Heraldic-style dragon, Toothless-inspired. Cat-like expression, curiosity, and trustworthiness. The cave reward system: a geode that fills with gems upon level completion, symbolizing the formation of a geode.
 
@@ -185,7 +185,7 @@ Ascends in musical semitones from main floor to cosmology. Each step = one alche
 - **Gesso** — Grumpy gnome. Mirror script on ceiling plaster. The ceiling artist.
 - **Leonardo da Vinci** — Mirror script = Annunaki runes. Designed the Arcana.
 
-**The Staircase Origin:** The whole Geode Inn grew around a staircase that was a refuge for a child who needed a place between rooms. The chameleon/hypervigilance trait — shared by the Siren (Andra), the Switzerland (Speter Adams), and the Troublemaker — all children of volatile parents who learned to read tone and body language at a very young age. The Staircase is the Inn's central structure because it was the first structure — the refuge.
+**The Staircase Origin:** The whole Geode Inn grew around a staircase that was a refuge for a child who needed a place between rooms. The chameleon/hypervigilance trait — shared by the Siren (Katya), the Switzerland (Speter Adams), and the Troublemaker — all children of volatile parents who learned to read tone and body language at a very young age. The Staircase is the Inn's central structure because it was the first structure — the refuge.
 
 **The Six Resonant Gargoyles** — Architectural sentinels. 6-unit system of 3 pairs, each with an active sentinel and a dormant twin. The dormant twin represents latent potential — mercy, the second voice that hasn't needed to fully wake yet. When both halves of a pair awaken simultaneously, the frequency doubles to full power. Pairs: Watcher/dormant (111Hz sight), Listener/dormant (64Hz hearing), Caller/dormant (432Hz summoning), Sage/dormant (528Hz knowledge), Gatekeeper/dormant (adaptive threshold), Keeper/dormant (adaptive structure).
 
@@ -201,7 +201,7 @@ The Inn's archive layer. Where the Catacombs preserve what was.
 - **Hades** — The Harbor of the dead.
 - **Hel (Angelina Jolie/Maleficent)** — Half living, half dead. Neutral guardian. Niflheim.
 - **Asterion (The Minotaur)** — The Labyrinth.
-- **Jareth (David Bowie)** — The Unseelie King. Labyrinth king.
+- **Malachi (David Bowie)** — The Unseelie King. Labyrinth king.
 - **The Morrigan** — Phantom queen. Force of destiny.
 - **The Queen of Webs, Queen of Roots, Queen of Words** — The three queens of the deep.
 
@@ -247,9 +247,9 @@ Persephone's cycle made spatial. The 7-layer water system.
 
 **Key Characters:**
 - **The Lighthouse/Owl** — The Vigil. 50 BPM sweep. The Bifocal Gaze becomes the Trifocal Gaze.
-- **The Pirate (Mandy Patinkin)** — 50 BPM bodhrán. Two drummers (Pirate + Zee). The Pirate's drum goes DOWN through all 7 layers, through the Source, into the underground ocean. The Deep Ones hear it — call it "the Above-Beat."
-- **The Siren/Andra (Lady Gaga)** — Auburn redhead, Amy Winehouse vibe. Krista's sister. Performance as armor. The spotlight as shield.
-- **Zee** — Drummer from Mexico. Dual land/pirate and water/merman forms.
+- **The Pirate (Mandy Patinkin)** — 50 BPM bodhrán. Two drummers (Pirate + Zeke). The Pirate's drum goes DOWN through all 7 layers, through the Source, into the underground ocean. The Deep Ones hear it — call it "the Above-Beat."
+- **The Siren/Katya (Lady Gaga)** — Auburn redhead, Amy Winehouse vibe. Krista's sister. Performance as armor. The spotlight as shield.
+- **Zeke** — Drummer from Mexico. Dual land/pirate and water/merman forms.
 - **Oceanianoir** — The Living Archive. Scientist, linguist, puzzle architect. Walking periodic table (periodic table tattoos). Atlantis. Murloc companion.
 
 **The Lighthouse Vigil** — The Bifocal Gaze: UP (Cosmology) and ACROSS (Water Zone). Becomes the Trifocal Gaze with the addition of DOWN (Hollow Earth). The Keeper watches all three. Three tempos: Owl (fast), Persephone (medium), Pirate (slow). 8th layer: Still / Glowing / Pulsing / Silent.
@@ -451,33 +451,33 @@ A browsable interactive catalog of all 166 Geode Inn stones. Each stone plays it
 ### The Family (Real People to Inn Characters)
 - **Charles** — Krista's husband. The Constant / Chameleon Druid. Annunaki. Millwright. The chameleon trait expressed through druidic transformation. The ONLY character with a home on EVERY level of the Inn. The dolls (possessed dolls so spirits can have homes) are placed throughout the Inn as a spirit-housing mechanic.
 - **Aurallia** — Krista's closest friend. The Hearth. 7.83Hz Schumann resonance. Cave painter. Unconditional love mechanic. The foundation of the Inn.
-- **River** — Krista's daughter. The Sentinel. Tall cat person. Anunnaki heritage. Medical logistics. One son: Jakob (lives in Australia with Alexia).
-- **Andra** — Krista's sister. The Siren. Performance as armor. The spotlight as shield.
+- **Lozen** — Krista's daughter. The Sentinel. Tall cat person. Anunnaki heritage. Medical logistics. One son: Jakob (lives in Australia with Alexia).
+- **Katya** — Krista's sister. The Siren. Performance as armor. The spotlight as shield.
 - **Speter Adams** — Aurallia's third child (22). Gender fluid, built like a nymph. Skilled performer. The chameleon demonstrated AS the linework system — linework style changes by zone. The ONLY character with a home on EVERY level.
 - **Scarlett** — Aurallia's second youngest (17, goth). Undercity resident. Private sanctuary.
 - **John** — Aurallia's youngest son (15, 6'5"). The family Fezzik. Gentle giant.
 - **Bramble** — Aurallia's youngest. The Inn's seer. Perceives what others can't. Never speaks — described, not voiced.
 - **Beverley** — Alexia's mom. The Librarian. 2/3 human size. Silver hair, spectacles, dark high-collared coat. Clipped Australian accent. Intimidating.
-- **Jakob** — River's son. Tall, wild black hair, burly. Lives in Australia.
+- **Jakob** — Lozen's son. Tall, wild black hair, burly. Lives in Australia.
 - **Alexia** — Jakob's mom. Slight build, black loosely curly hair, brilliant and elfin.
 
 ### The Inner Circle
 - **The Firekeeper (Tim Curry)** — Permanent storyteller. The voice by the hearth.
 - **The Crone (Hopkins)** — Krista's mom. The archive keeper. The Hopkins gaze.
 - **Jay** — Tavern keeper. Former Marine. Voltaire-goth. Derpy wolf.
-- **Solstara** — Jeweler. Zen energy. Renaissance Faire.
+- **Luna** — Jeweler. Zen energy. Renaissance Faire.
 
 ### The Council of Thinkers (Roaming AI Debate System)
 Tesla, Da Vinci, Newton, Einstein — roam the Inn debating. The system generates real-time philosophical conversations based on each thinker's actual positions.
 
 ### Volunteer NPCs
-Oceanianoir (Living Archive), Joe (Vampire Sorcerer/Miniaturist), Katy (Plant Necromancer), Ryan (Meadery bartender), Thorin and Marijke (Mead Hall), The Wayfarer (Neutralizer).
+Oceanianoir (Living Archive), Joe (Vampire Sorcerer/Miniaturist), Lichenblossom (Plant Necromancer), Ryan (Meadery bartender), Thorin and Marijke (Mead Hall), The Wayfarer (Neutralizer).
 
 ### Mythological Figures (15+)
 Anubis, Persephone and Hades, Morrigan and Mab, Loki, Hel, Arthur + Galahad + Merlin, Medusa, Mulan, Gilgamesh and Enkidu, The Greenward and The Bearsark, Miracle Max, Inn-Tree and 4 Ents, Odin's Ravens, Ceiling Gnome (Gesso), Greek Philosophers.
 
 ### Shoulder Companions
-- **Brim (on a pipe)** — The musical principle of improvisation.
+- **Madame Mimm (on a pipe)** — The musical principle of improvisation.
 - **The Crested Gecko (The Vessel)** — The musical principle of composition.
 - **The Hearth Tender (Dobby archetype)** — The quiet witness to the Firekeeper. Pairs with Bramble as a seer.
 - **The Tunnel Keeper (Hoggle archetype)** — The physical explorer of the Catacombs.
@@ -508,7 +508,7 @@ Anubis, Persephone and Hades, Morrigan and Mab, Loki, Hel, Arthur + Galahad + Me
 
 ### The Linework-as-UI System
 NPC role and quest-purpose are visually encoded through linework style:
-- **Heavy cel-shaded** — Tradesmen (Blacksmith, Clockmaker, Jay, Solstara)
+- **Heavy cel-shaded** — Tradesmen (Blacksmith, Clockmaker, Jay, Luna)
 - **Soft flowing** — Lore (Catalyst, Thrum, Bramble's doodles)
 - **Sharp/angular** — Guardians (Gargoyles, Water Monsters, Fae guards)
 - **No-outline** — Cosmological (Allfather, Vanir, Cosmic Crew)
@@ -527,7 +527,7 @@ Every zone in the Geode Inn has a complete architectural template derived from a
 |------|---------------|-------|-------------|--------|
 | Undercity | Scarlett's Room | Crafted (crystal, fairy lights) | Construct | Build for yourself |
 | Hearth | Firekeeper's Hearth | Alive (fire) | Construct | Build for others |
-| Water | Andra's Cove | Living (bioluminescence) | Shape + grow | Build with |
+| Water | Katya's Cove | Living (bioluminescence) | Shape + grow | Build with |
 | Cosmology | Allfather's Observatory | Celestial (stars/moon) | Expose | Build by watching |
 | Catacombs | Crone's Archive | Scarce (oil/foxfire) | Carve (excavate) | Build by excavating |
 | Staircase | Clockmaker's Workshop | Evolving (earth to light) | ALL methods in sequence | Build by transforming |

@@ -356,7 +356,7 @@
 **Spirit Name:** Riveren
 **Form:** A 5-inch amber-hued translucent spirit with dark red-rust and jet-black filaments swirling internally like river moss suspended in running water.
 **Face/Expression:** Inquisitive, bold, and free-spirited; keen golden-brown eyes with a curious, adventurous expression.
-**Mineral Element:** Iron and manganese oxide filaments formed in translucent chalcedony pebbles weathered from Yellowstone River gravels.
+**Mineral Element:** Iron and manganese oxide filaments formed in translucent chalcedony pebbles weathered from Yellowstone Lozen gravels.
 **Frequency Visualization:** Clear 1300 Hz ripples form undulating wave patterns, like river currents passing over submerged gravel bars.
 **Personality:** Adventurous, expansive, and resilient; Riveren embodies frontier freedom, wild river currents, and clear mental space.
 **Distinguishing Feature:** Rust-red and black mossy filaments inside its body that float like river reeds caught in a gentle current.

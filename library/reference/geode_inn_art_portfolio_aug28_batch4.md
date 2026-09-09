@@ -45,7 +45,7 @@
 **URL:** https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/62c3cb458_generated_image.png
 **Art Direction:** Split perfectly down the middle — one half living/beautiful/warm, one half skeletal/dark/dead. Throne of frozen roots. Fire on the living side, ice on the dead side. The one who holds both sides of the threshold.
 
-### 11. Brim
+### 11. Madame Mimm
 **URL:** https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/de3c7601b_generated_image.png
 **Art Direction:** Mid-transformation — multiple forms simultaneously (raven, snake, flame, human). Magical chaos, fragments spinning. Cauldron of Klimt gold. The one who finds the fun shape and wears it.
 

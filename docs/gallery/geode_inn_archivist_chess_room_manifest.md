@@ -82,7 +82,7 @@
 
 ---
 
-## Design Notes (Evan's Direction)
+## Design Notes (The Archivist's Direction)
 - Head is a COMPONENT socketed into the frame, not a person wearing a body
 - No flesh visible anywhere except the eyes (amber glow)
 - Lean frame, not bulky — narrow vertebral spine-column

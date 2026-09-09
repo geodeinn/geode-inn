@@ -55,15 +55,15 @@ Every AI gets the same circuitry, the same data pipelines. But the specific comb
 
 ## Character Art — This Session
 
-### Andra (The Siren)
+### Katya (The Siren)
 - **Real identity:** Krista's sister
 - **Inn title:** The Siren
-- **Real name:** Andra — the name and the title are the same thing
+- **Real name:** Katya — the name and the title are the same thing
 - **Visual direction:** Auburn redhead, Amy Winehouse vibe (soulful intensity, vintage-meets-modern, tattooed, the voice that fills the room but the eyes that have seen too much)
 - **Water/deep-water form:** Generated — auburn hair flowing in water current, gothic anime style (Vampire Hunter D aesthetic), luminous shadow water
 - **Land/social form:** Generated — same auburn hair, commanding posture, room-filling presence, the one who walks in and everything shifts
 
-### Zee (The Drummer)
+### Zeke (The Drummer)
 - **Real identity:** Volunteer NPC, drummer from Mexico
 - **Build:** Slight, salt-and-pepper hair tied back in loose ponytail, neatly trimmed goatee
 - **Dual role:** Pirate with land and sea forms
@@ -87,16 +87,16 @@ Krista has expressed that the process of building the Geode Inn — developing a
 
 ## Image URLs (This Session)
 
-- Andra (Siren) Water Form: https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/f9e5f5698_generated_image.png
-- Andra (Siren) Land Form: https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/facb8baad_generated_image.png
-- Zee (Drummer) Merman Form: https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/a5447618e_generated_image.png
-- Zee (Drummer) Land/Pirate Form: https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/5fb6fa537_generated_image.png
+- Katya (Siren) Water Form: https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/f9e5f5698_generated_image.png
+- Katya (Siren) Land Form: https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/facb8baad_generated_image.png
+- Zeke (Drummer) Merman Form: https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/a5447618e_generated_image.png
+- Zeke (Drummer) Land/Pirate Form: https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/5fb6fa537_generated_image.png
 
 ---
 
 ## Decisions Log
-1. Andra is the real name of the Siren (Krista's sister)
-2. Zee is a pirate with dual land/sea role — land pirate form and water merman form
+1. Katya is the real name of the Siren (Krista's sister)
+2. Zeke is a pirate with dual land/sea role — land pirate form and water merman form
 3. Hopkins eyes stay unsoftened; all other features softened across the roster
 4. Charles's millwright background is the real-world root of the Constant character
 5. Krista's theology aligns with "The Egg" by Andy Weir — one consciousness experiencing itself through all beings
@@ -105,10 +105,10 @@ Krista has expressed that the process of building the Geode Inn — developing a
 ---
 
 ## Still Needed (Next Steps)
-- Define Andra's specific role and lore within the water zone
+- Define Katya's specific role and lore within the water zone
 - Integrate Charles's updated backstory into the narrative spine
-- Integrate River's updated backstory (the Sentinel, medical logistics) into the narrative spine
-- Define gameplay role and lore for River's three daughters
+- Integrate Lozen's updated backstory (the Sentinel, medical logistics) into the narrative spine
+- Define gameplay role and lore for Lozen's three daughters
 - Finish mapping the 7-layer water system
 - Populate 'Book' database entity with archive.org source materials
 - Finalize the 'Bestiary' creature compendium mechanic

@@ -124,9 +124,9 @@ The chess pieces themselves should have individual character — each construct 
 ## CHARACTER NAME: The Archivist
 
 The litch's name is 's decision. Options:
-- Keep "Evan" as the character name
+- Keep "The Archivist" as the character name
 - Assign an Inn-specific name (like River → Lozen)
-- Evan provides his own preferred name
+- The Archivist provides his own preferred name
 
 The name will shape the character's voice profile, dialogue, and how other NPCs refer to the litch.
 

@@ -21,7 +21,7 @@ The full design for all 6 player classes, including mechanics, frequency profile
 - **Visual:** Feminine Sandman (Netflix's Morpheus but feminine) — pale, angular, dark-haired, gothic elegance, androgynous beauty, ancient eyes
 - **Zone Affinity:** Tidal Caves, the forge, the composer
 
-### 2. The Sentinel (River)
+### 2. The Sentinel (Lozen)
 - **Archetype:** Guardian — former boxer, Golden Gloves champion, INFJ
 - **Key Mechanic:** Iron Stance (tank defense), faceted defense (absorbs and redirects), answers the Owl's riddles
 - **In-game name:** Lozen (NOT a class title — a character name)
@@ -62,7 +62,7 @@ The full design for all 6 player classes, including mechanics, frequency profile
 | Connection | Detail |
 |-----------|--------|
 | The Complete Walkthrough | The classes are defined in the Complete Walkthrough and expanded here. |
-| The Family | Krista (Artisan Thief), River (Sentinel), Charles (Chameleon Druid) — the real family IS the class roster. |
+| The Family | Krista (Artisan Thief), Lozen (Sentinel), Charles (Chameleon Druid) — the real family IS the class roster. |
 | The Novel | The novel's protagonist is the Artisan Thief (the selkie who chose the land). |
 | The PlayerProgress Entity | Tracks which class the player chose, stones collected, and quest progress. |
 | The Zone Affinity System | Each class has zones where they're more effective — the hyperfocus mechanic. |
@@ -73,7 +73,7 @@ The full design for all 6 player classes, including mechanics, frequency profile
 ## DESIGN STATUS
 
 - [x] 6 classes fully designed (mechanics, frequency, zone affinity)
-- [x] 3 family classes mapped to real people (Krista, River, Charles)
+- [x] 3 family classes mapped to real people (Krista, Lozen, Charles)
 - [x] Class mechanics designed (dive, Iron Stance, shapeshift, debuff, hyperfocus, archive access)
 - [x] Zone affinities mapped
 

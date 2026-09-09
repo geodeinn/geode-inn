@@ -490,7 +490,7 @@
     },
     {
       "num": 54,
-      "name": "Brim (Brim)",
+      "name": "Madame Mimm (Madame Mimm)",
       "zone": "Main Floor (L3)",
       "tier": "TIER 2: KEY NPCs (Major characters with portraits)",
       "living_url": null,
@@ -616,7 +616,7 @@
     },
     {
       "num": 68,
-      "name": "Lozen (The Sentinel / River)",
+      "name": "Lozen (The Sentinel / Lozen)",
       "zone": "Main Floor (L3) / Guard",
       "tier": "TIER 2: KEY NPCs (Major characters with portraits)",
       "living_url": null,
@@ -1273,7 +1273,7 @@
     },
     {
       "num": 299,
-      "name": "River (Lozen)",
+      "name": "Lozen (Lozen)",
       "zone": "Player/The Sentinel",
       "tier": "TIER 12: REAL-WORLD PLAYER CHARACTERS (Login characters \u2014 NOT NPCs)",
       "living_url": "https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/81da77f4a_river_sentinel_concept_early.png",

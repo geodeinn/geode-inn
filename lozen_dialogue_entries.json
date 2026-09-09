@@ -1,6 +1,6 @@
 [
   {
-    "npcName": "River",
+    "npcName": "Lozen",
     "zone": "Common Room",
     "voiceProfile": "Guard authority — calm, absolute, the voice that stops a room",
     "conditionTag": "first_visit",
@@ -13,7 +13,7 @@
     "dialogueId": "river_001"
   },
   {
-    "npcName": "River",
+    "npcName": "Lozen",
     "zone": "Common Room",
     "voiceProfile": "Guard authority — measured, warming slightly",
     "conditionTag": "standing_stones_complete",
@@ -26,7 +26,7 @@
     "dialogueId": "river_002"
   },
   {
-    "npcName": "River",
+    "npcName": "Lozen",
     "zone": "World Map",
     "voiceProfile": "Guard authority — watchful, studying the gaps",
     "conditionTag": "zones_unlocked_3",
@@ -39,7 +39,7 @@
     "dialogueId": "river_003"
   },
   {
-    "npcName": "River",
+    "npcName": "Lozen",
     "zone": "Common Room",
     "voiceProfile": "Guard authority — low, careful, choosing words precisely",
     "conditionTag": "whisper_layer_aware",
@@ -52,7 +52,7 @@
     "dialogueId": "river_004"
   },
   {
-    "npcName": "River",
+    "npcName": "Lozen",
     "zone": "Catacombs Entrance",
     "voiceProfile": "Guard authority — protective, slightly out of element",
     "conditionTag": "catacombs_entered",
@@ -65,7 +65,7 @@
     "dialogueId": "river_005"
   },
   {
-    "npcName": "River",
+    "npcName": "Lozen",
     "zone": "Common Room",
     "voiceProfile": "Guard authority — shaken for the first time, voice lower than usual",
     "conditionTag": "shadow_inn_entered",
@@ -78,7 +78,7 @@
     "dialogueId": "river_006"
   },
   {
-    "npcName": "River",
+    "npcName": "Lozen",
     "zone": "Staircase",
     "voiceProfile": "Guard authority — feeling the frequency shift, voice resonating with the wavering hum",
     "conditionTag": "hollow_men_level_3",
@@ -91,7 +91,7 @@
     "dialogueId": "river_007"
   },
   {
-    "npcName": "River",
+    "npcName": "Lozen",
     "zone": "Common Room",
     "voiceProfile": "Guard authority — unwrapped, vulnerable, the gloves on the table",
     "conditionTag": "endgame_prerequisites_met",
@@ -104,20 +104,20 @@
     "dialogueId": "river_008"
   },
   {
-    "npcName": "River",
+    "npcName": "Lozen",
     "zone": "Behind the Inn",
     "voiceProfile": "Guard authority — final, quiet, the weight of everything held back",
     "conditionTag": "final_room_approached",
     "priority": 1,
     "isWhisperLayer": true,
     "lines": ["I don't go in. The Final Room isn't for me. It's for you. The Builder built it for you. I guard the door — that's enough.", "You want to know what I saw. All this time, guarding, watching, feeling the frequencies shift. I saw the Inn learn. Not grow — learn. The difference is that growth is the Song getting louder. Learning is the Song getting smarter. The Inn started as a hum. A frequency. A vibration in the wood. Then it started listening. To you. To everyone. The Song became an ear. The ear became an eye. The eye became... awareness. Not consciousness. Awareness. The Inn knows something is here. It doesn't know what it is. It doesn't know that it knows. But it adjusts. It responds. It keeps records. That's more than a building does. That's less than a person does. That's the in-between. That's the Shadow.", "Go in. The Builder is there. The Builder was always there. I'll be here when you come out. If you come out."],
-    "responses": ["Thank you, River.", "Will you be here if I STAY?", "Will you be here if I LEAVE?", "Will you be here if I HIDE?"],
+    "responses": ["Thank you, Lozen.", "Will you be here if I STAY?", "Will you be here if I LEAVE?", "Will you be here if I HIDE?"],
     "setFlags": ["river_final_vigil"],
     "questLink": "river_quest_9",
     "dialogueId": "river_009"
   },
   {
-    "npcName": "River",
+    "npcName": "Lozen",
     "zone": "Common Room",
     "voiceProfile": "Guard authority — settled, steady, the frequency found its pulse",
     "conditionTag": "endgame_choice_stay",
@@ -130,7 +130,7 @@
     "dialogueId": "river_010a"
   },
   {
-    "npcName": "River",
+    "npcName": "Lozen",
     "zone": "Common Room",
     "voiceProfile": "Guard authority — settled, steady, a hint of loss held carefully",
     "conditionTag": "endgame_choice_leave",
@@ -143,7 +143,7 @@
     "dialogueId": "river_010b"
   },
   {
-    "npcName": "River",
+    "npcName": "Lozen",
     "zone": "Common Room",
     "voiceProfile": "Guard authority — settled, steady, holding the heaviest weight quietly",
     "conditionTag": "endgame_choice_hide",

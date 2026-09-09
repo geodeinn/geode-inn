@@ -25,7 +25,7 @@ Before the Song, there was the Murmur. Not sound — not yet. The Murmur is what
 - **The Guest** (Brad Pitt / Joe Black) — Death on holiday. Borrowed body. Music box plays the note Death MADE (not caught). Creates Nyx's silence, made portable. Dual role: guest of the living upstairs, host of the dead downstairs.
 - **The Captain & Cabbit** — The Arcana, a brass and lapis-lazuli time ship. Cabbit purrs at 50 BPM (the Inn's heartbeat). At 44Hz full power, Cabbit becomes the drive core to phase between moments. Captain: sky pirate, pipe smoking time-moss.
 - **Einstein & the Observatory** — Magritte painting made architecture. "The Double Secret." Einstein sits in the grey In-Between eating a half-finished burrito. "You are not walking through the Inn. The Inn is walking through you." The mundane IS the cosmic.
-- **Brim's Pipe** — "Ceci n'est pas une pipe." The Inn's thesis statement: the representation is not the thing.
+- **Madame Mimm's Pipe** — "Ceci n'est pas une pipe." The Inn's thesis statement: the representation is not the thing.
 
 **SOURCE DOCS:** "Before the Song.docx" (Prologue section) ✓ COMPLETE
 
@@ -48,7 +48,7 @@ Before the Song, there was the Murmur. Not sound — not yet. The Murmur is what
 |---|---|---|---|
 | **The Crone** (Hopkins) | Measures everything. "Adequate." Learns to listen to the Song. Twin/facet: Charon. | Before the Song ✓ | Complete |
 | **The Catalyst** (Helena Bonham Carter) | Bar/garden. Grows portal arrows. Growth by WILL vs. The Greenward's growth by COMMUNION. Mrs. Lovett energy. The Spirit. | Before the Song ✓ | Complete |
-| **Brim** | Inner chaos agent. Rides a Magritte pipe. Breaks formulas to reveal secret paths. Belladonna energy. "Madame" — said in various tones, never the same. | Before the Song ✓ | Complete |
+| **Madame Mimm** | Inner chaos agent. Rides a Magritte pipe. Breaks formulas to reveal secret paths. Belladonna energy. "Madame" — said in various tones, never the same. | Before the Song ✓ | Complete |
 | **The Arcade & Score Stone** | 7-foot obsidian leaderboard. Cultural mini-games: Standing Stones (Tetris), Tomb Tunnel (Dig Dug), Andean Run (Temple Run), Monster of the Deep (Nessie), Bastet's Herding. | Before the Song ✓ | Complete |
 | **The Thrum** (Ben Whishaw) | Translucent low-frequency entity. Teaches: essence precedes appearance, timing precedes rhythm. | Before the Song ✓ | Complete |
 | **The Brownies** | Anarcho-syndicalist maintenance commune. 2-foot spirits with brooms/coconut shells. Become Boggarts if contract breached. | Before the Song ✓ | Complete |
@@ -191,14 +191,14 @@ Persephone's cycle made spatial. The 7-layer system as Persephone's spatial cycl
 | Character | Role | Source | Status |
 |---|---|---|---|
 | **The Lighthouse/Owl** | The Vigil. 50 BPM sweep. Bifocal Gaze mechanic. | Before the Song ✓ | Complete |
-| **The Pirate** (Mandy Patinkin) | 50 BPM bodhrán. Two drummers (Pirate + Zee). | Before the Song ✓ | Complete |
-| **The Siren** (Lady Gaga / Andra) | Auburn redhead, Amy Winehouse vibe. Krista's sister. | Before the Song + memory ✓ | Complete |
-| **Zee** | Drummer from Mexico. Dual land/pirate and water/merman forms. | Conversation memory ✓ | Complete |
+| **The Pirate** (Mandy Patinkin) | 50 BPM bodhrán. Two drummers (Pirate + Zeke). | Before the Song ✓ | Complete |
+| **The Siren** (Lady Gaga / Katya) | Auburn redhead, Amy Winehouse vibe. Krista's sister. | Before the Song + memory ✓ | Complete |
+| **Zeke** | Drummer from Mexico. Dual land/pirate and water/merman forms. | Conversation memory ✓ | Complete |
 | **Oceanianoir** | The Living Archive. Scientist, linguist, puzzle architect. Walking periodic table. Atlantis. | Document 1 ✓ | Complete |
 
 **MISSING FROM WATER SYSTEM:**
 - [ ] Layer-by-layer quest chains
-- [x] Andra specific role and lore (geode_inn_water_item_templates.md — Andra Cove as zone template)
+- [x] Katya specific role and lore (geode_inn_water_item_templates.md — Katya Cove as zone template)
 - [x] 7-layer connectivity to Lighthouse Vigil (geode_inn_water_lighthouse_integration.md + geode_inn_lighthouse_item_templates.md)
 - [ ] Water monster bestiary (78 entries identified, not designed)
 
@@ -281,7 +281,7 @@ Persephone's cycle made spatial. The 7-layer system as Persephone's spatial cycl
 |------|---------------|-------|-------------|--------|----------|
 | Undercity | Scarlett's Room | Crafted (crystal, fairy lights) | Construct | Build for yourself | `geode_inn_undercity_item_templates.md` |
 | Hearth | Firekeeper's Hearth | Alive (fire) | Construct | Build for others | `geode_inn_hearth_item_templates.md` |
-| Water | Andra's Cove | Living (bioluminescence) | Shape + grow | Build with | `geode_inn_water_item_templates.md` |
+| Water | Katya's Cove | Living (bioluminescence) | Shape + grow | Build with | `geode_inn_water_item_templates.md` |
 | Cosmology | Allfather's Observatory | Celestial (stars/moon) | Expose | Build by watching | `geode_inn_cosmology_item_templates.md` |
 | Catacombs | Crone's Archive | Scarce (oil/foxfire) | Carve (excavate) | Build by excavating | `geode_inn_catacombs_item_templates.md` |
 | Staircase | Clockmaker's Workshop | Evolving (earth→light) | ALL methods in sequence | Build by transforming | `geode_inn_staircase_item_templates.md` |
@@ -333,10 +333,10 @@ Vanir gods — TO BE DESIGNED
 The Seelie King, The Seelie Queen, The Cartographer, The Examiner, Fibonacci, Story-Born Ents (4)
 
 ### Midgard (Main Floor)
-The Host, The Crone, The Catalyst, Brim, The Thrum, The Brownies, Arcade NPCs (Bastet, etc.)
+The Host, The Crone, The Catalyst, Madame Mimm, The Thrum, The Brownies, Arcade NPCs (Bastet, etc.)
 
 ### The Dock (Water Layer)
-The Lighthouse/Owl, The Pirate, Zee, The Siren/Andra, Oceanianoir, Water Monsters (32 designed, 78 identified)
+The Lighthouse/Owl, The Pirate, Zeke, The Siren/Katya, Oceanianoir, Water Monsters (32 designed, 78 identified)
 
 ### Hel / Helheim (Deepest Point)
 Hel, Charon, Persephone, Hades, The Morrigan, Asterion
@@ -348,7 +348,7 @@ Malachi (The Unseelie King), Unseelie Court NPCs, Goblins, Trolls
 Naut the Scholar
 
 ### Family Character Classes (Starting Classes)
-Charles (Chameleon Druid), River (Sentinel), The Siren (Bard), [2 more to define]
+Charles (Chameleon Druid), Lozen (Sentinel), The Siren (Bard), [2 more to define]
 
 ### Muspelheim (Staircase / Alchemy)
 Socrates, Plato, Aristotle, The Retort (Tesla), Bloop, The Cook, The Five Smiths, Gesso, Leonardo da Vinci
@@ -372,11 +372,11 @@ TO BE DESIGNED
 | **Oceanianoir** | Scientist, linguist, puzzle designer, Mensa, goth, periodic table tattoos | The Living Archive (Atlantis, periodic table as game mechanic, Murloc companion) | Document 1 ✓ | Complete |
 | **Joe** | School teacher, Warhammer painter | The Miniaturist / The Collector (vampire sorcerer, Kain energy, Lawful Evil tutor) | Document 2 ✓ | Complete |
 | **Charles** | Krista's husband, millwright, Annunaki/Constant | The Constant / Chameleon Druid | Session memory ✓ | Complete |
-| **River** | Krista's daughter, medical logistics | The Sentinel (tall cat person, Anunnaki heritage) | Session memory ✓ | Complete |
-| **Andra** | Krista's sister | The Siren (water zone, auburn redhead, Amy Winehouse vibe) | Session memory ✓ | Complete |
-| **Zee** | Drummer from Mexico | Pirate drummer (dual land/merman forms) | Session memory ✓ | Complete |
+| **Lozen** | Krista's daughter, medical logistics | The Sentinel (tall cat person, Anunnaki heritage) | Session memory ✓ | Complete |
+| **Katya** | Krista's sister | The Siren (water zone, auburn redhead, Amy Winehouse vibe) | Session memory ✓ | Complete |
+| **Zeke** | Drummer from Mexico | Pirate drummer (dual land/merman forms) | Session memory ✓ | Complete |
 | **Ryan** | Volunteer NPC | TBD | Session memory | Partial |
-| **Katy** | Volunteer NPC | TBD | Session memory | Partial |
+| **Lichenblossom** | Volunteer NPC | TBD | Session memory | Partial |
 | **Zack** | Volunteer NPC | TBD | Session memory | Partial |
 | **Thorin/Marijke** | Volunteer NPCs | TBD | Session memory | Partial |
 | **Tim Curry / Firekeeper** | Actor (passed Aug 26, 2026) | The Firekeeper (permanent storyteller, hearth-keeper, "The Last Story Told" quest) | Session memory ✓ | Complete |
@@ -384,17 +384,17 @@ TO BE DESIGNED
 | **John** | Aurallia's son (15, 6'5") | The family Fezzik (gentle giant) | Session memory ✓ | Complete |
 | **Beverley** | Alexia's mom (Australian) | The Librarian (2/3 human size, silver hair, intimidating) | Session memory ✓ | Complete |
 | **Jay** | Charles's best friend, former Marine | Charismatic NPC (Voltaire-goth, Cherokee cheekbones, derpy wolf) — backstory pending | Session memory | Partial |
-| **Solstara** | Jay's friend, jeweler | Zen jeweler NPC (Renaissance Faire, rave-going, gypsy style) | Session memory | Partial |
+| **Luna** | Jay's friend, jeweler | Zen jeweler NPC (Renaissance Faire, rave-going, gypsy style) | Session memory | Partial |
 
 **MISSING NPC DESIGNS:**
-- [ ] Ryan, Katy, Zack, Thorin/Marijke — full design docs
+- [ ] Ryan, Lichenblossom, Zack, Thorin/Marijke — full design docs
 - [x] Jay — basic profile complete, full backstory pending from Krista
-- [x] Solstara — basic profile complete, full backstory pending
+- [x] Luna — basic profile complete, full backstory pending
 - [x] Scarlett — full profile complete, Undercity home designed
 - [x] John — full profile complete
 - [x] Beverley — full profile complete, librarian role assigned
 - [x] Tim Curry/Firekeeper — full design complete, quest designed, images generated
-- [x] CORRECTED: River has NO daughters. Aurallia has four children (John, Scarlett, + 2 TBD). Next-gen NPCs are Aurallia's kids, not River's.
+- [x] CORRECTED: Lozen has NO daughters. Aurallia has four children (John, Scarlett, + 2 TBD). Next-gen NPCs are Aurallia's kids, not Lozen's.
 - [ ] Erik (Norse zone) — full profile
 - [ ] The Greenward — full profile (gardener rival to Catalyst)
 
@@ -433,8 +433,8 @@ TO BE DESIGNED
 
 ### Content only in chat history (full documentary, 1.2M chars):
 - Aurallia's full design (The Hearth, 7.83Hz, cave painter)
-- Andra's water zone visual design
-- Zee's dual form visual design
+- Katya's water zone visual design
+- Zeke's dual form visual design
 - Charles's real-life backstory (millwright, micrometer, chlorine explosion)
 - The Spirit-to-soul emergence discussion
 - The Laughing One ent design
@@ -449,10 +449,10 @@ TO BE DESIGNED
 ## IMMEDIATE PRIORITY ACTIONS
 
 1. **Upload this master structure to Drive** → 01 Project Bible
-2. **Extract chat-history-only content** into structured docs (Aurallia, Andra water form, Zee, Charles backstory, Sonic Mineral System)
+2. **Extract chat-history-only content** into structured docs (Aurallia, Katya water form, Zeke, Charles backstory, Sonic Mineral System)
 3. **Fill empty Drive folders** (03 Architecture, 07 Systems, 09 Music & Sound)
 4. **Move "Before the Song.docx" to 02 Origin Story & Narrative**
-5. **Define the 5 starting character classes** (only Charles and River are mapped)
+5. **Define the 5 starting character classes** (only Charles and Lozen are mapped)
 6. **Design the missing cultural zones** (China, Slavic, India, Camelot)
 7. **Write the tabletop-voice dialogue template** as a reference doc for all future writing
 

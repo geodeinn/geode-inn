@@ -5,7 +5,7 @@
 
 ## WHAT THE WATER MONSTER BESTIARY IS
 
-The definitive design manual for all 78 water monsters in the Geode Inn's Water Zone — the 7-Layer Deep. While 32 aquatic entities were already designed in the Inn's primary character catalog (Andra the Siren, Bill the Platypus, the Abyssal Tide Keepers), a lore database audit identified 78 ADDITIONAL water monster entries from mythological traditions spanning 191 countries. These 78 were categorized and mapped but never formally designed — until now.
+The definitive design manual for all 78 water monsters in the Geode Inn's Water Zone — the 7-Layer Deep. While 32 aquatic entities were already designed in the Inn's primary character catalog (Katya the Siren, Bill the Platypus, the Abyssal Tide Keepers), a lore database audit identified 78 ADDITIONAL water monster entries from mythological traditions spanning 191 countries. These 78 were categorized and mapped but never formally designed — until now.
 
 ---
 

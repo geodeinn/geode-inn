@@ -31,7 +31,7 @@ The warmth is not just the fire. It's the Ent's body heat. Living things are war
 | Category | Count | Examples |
 |----------|-------|---------|
 | The Inn-Tree (The Ent) | 1 | The oldest being. The Inn itself. |
-| The Family | 3 | Krista (Artisan Thief / Selkie), River (The Sentinel / Lozen), Charles (Chameleon Druid) |
+| The Family | 3 | Krista (Artisan Thief / Selkie), Lozen (The Sentinel / Lozen), Charles (Chameleon Druid) |
 | The Staff | 8+ | The Host, the Crone, the Catalyst, the Bard, the Reader, Thorin, Marijke |
 | The Gods | 6+ | The Allfather, Freyr, Freyja, the Morrigan, Bastet, Anubis |
 | The Fae | 10+ | Seelie King, Unseelie Queen, the Norns, the Weaver |
@@ -50,7 +50,7 @@ The warmth is not just the fire. It's the Ent's body heat. Living things are war
 | The Master Character Roster | 399 characters total — this compendium is the detailed profiles for the key characters. |
 | The Voice Profile Reference | Every character with a profile here has a corresponding voice profile (74 total). |
 | The Wandering Program | Every NPC here is governed by the Wandering Program's scheduling system. |
-| The Family Character Registry | Krista, River, Charles — the real family woven into the Inn's characters. |
+| The Family Character Registry | Krista, Lozen, Charles — the real family woven into the Inn's characters. |
 | The Novel | Every character here appears in or informs the novel. |
 
 ---
@@ -61,7 +61,7 @@ The warmth is not just the fire. It's the Ent's body heat. Living things are war
 - [x] Character categories established (10+ categories)
 - [x] 399 total characters cataloged in the master roster
 - [x] 74 formal voice profiles created
-- [x] Family characters (Krista, River, Charles) woven in
+- [x] Family characters (Krista, Lozen, Charles) woven in
 
 ---
 

@@ -5,7 +5,7 @@
 
 ## The Person
 
-Ryan is River's best friend at the Sherwood Forest Faire. He manages the bartenders at the faire. His day job is head of a branch of Dell Technology. He is an avid gamer. He is raising three brilliant, entirely too inquisitive daughters. He has the energy of the campfire — the fire that gathers.
+Ryan is Lozen's best friend at the Sherwood Forest Faire. He manages the bartenders at the faire. His day job is head of a branch of Dell Technology. He is an avid gamer. He is raising three brilliant, entirely too inquisitive daughters. He has the energy of the campfire — the fire that gathers.
 
 ## The Character — Visual Identity
 
@@ -63,7 +63,7 @@ Ryan's presence in the Meadery creates a warmth radius — the both are: the ade
 - **Erik (Norse vendor):** Ryan is Erik's fire — the same energy, different person. Erik is the fire's origin (the Viking who was burned and chose to be the fire that welcomes). Ryan is the fire's keeper (the bartender who tends the fire daily). The both are: the adequate.
 - **The Meadery (Picasso):** Ryan lives in the Picasso zone — the zone that shifts through six periods in a day. Ryan is the constant in the shifting hall — the bartender who is the same person at dawn (Blue Period) and midnight (Late Period). The both are: the adequate — the same person in every period, the both are: the same.
 - **The Meadery Owners (real-life family friends):** The meadery owners (the rock hound couple) are the hall's lords. Ryan is the hall's bartender — the one who runs the hall day to day. The both are: the adequate — the owners who built the hall and the keeper who runs it, the both are: the same hall, different role.
-- **River (the Sentinel):** Ryan is River's best friend. In the game, Ryan is the Sentinel's ground-level companion — the person who knows the Sentinel as a person, not as a class. The both are: the adequate.
+- **Lozen (the Sentinel):** Ryan is Lozen's best friend. In the game, Ryan is the Sentinel's ground-level companion — the person who knows the Sentinel as a person, not as a class. The both are: the adequate.
 - **The Three Daughters:** The Inn's curiosity made into three small NPCs. The both are: the adequate — the questions that are the Inn's most honest interaction, the both are: the same curiosity, different child.
 - **The Pirate (Mandy Patinkin):** Ryan's Barbossa coat and the Pirate's drum-rhythm cadence are the Inn's two PIRATE energies — the bartender pirate (Ryan, the campfire) and the wandering pirate (the Pirate, the after). The both are: the adequate — two pirates, two roles, the both are: the same sea, different shore.
 - **Van Helsing / Vampire Hunter Aesthetic:** The Van Helsing hat connects Ryan to the Inn's monster-hunting undercurrent — the both are: the adequate — the bartender who is also equipped for the hunt, the both are: the same person, different mode.

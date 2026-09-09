@@ -6,7 +6,7 @@
 
 ## SESSION OVERVIEW
 
-This session finalized the Geode Inn's official logo, expanded the card game with two philosophical cards, revealed major lore connections between the Cabbit/Charles/the Constant, and generated concept art for River the Sentinel.
+This session finalized the Geode Inn's official logo, expanded the card game with two philosophical cards, revealed major lore connections between the Cabbit/Charles/the Constant, and generated concept art for Lozen the Sentinel.
 
 ---
 
@@ -35,7 +35,7 @@ Drive: Uploaded
 Full audit of the card game framework completed:
 - **115 unique cards** across 4 batches
 - **6 Frequencies** (Song, Silence, Fire, Water, Stone, Root)
-- **20 keyword mechanics** (Adequate, Wound, Damp, Current, Carve, Network, Resonate, Naming, Bridge, Subtractive, Additive, Wandering, Threshold, Vessel, Brim, Mirror, Observer, Ferry, Gargoyle, Lithophone, Heartbeat)
+- **20 keyword mechanics** (Adequate, Wound, Damp, Current, Carve, Network, Resonate, Naming, Bridge, Subtractive, Additive, Wandering, Threshold, Vessel, Madame Mimm, Mirror, Observer, Ferry, Gargoyle, Lithophone, Heartbeat)
 - **11 deck archetypes** mapped to the Inn's cosmology
 - **Adorable cast confirmed:** Bloop (Schrödinger's Cat), The Duck (platypus), The Cabbit (Eres), Noctua (owl), The Brownies, The Murloc, The Crimean Goth Children, The Four Story-Born Ents, The Tinkering Weeaboo
 
@@ -79,10 +79,10 @@ Drive: Uploaded
 - The one exception: when the Bard says "inta inta" instead of saying Charles — a single encoded reference moment
 - The Constant gains Incarnation clause: gain revealed character's abilities; Eres doubles them if present
 
-### River the Sentinel
-- River (Krista's daughter, Taurus/Roots of the three-note chord) is the Sentinel
-- River wants to be a **tall cat person** like the ones found in ancient alien stories
-- Connects to the Anunnaki heritage — Charles (the Constant/Annunaki) is River's father
+### Lozen the Sentinel
+- Lozen (Krista's daughter, Taurus/Roots of the three-note chord) is the Sentinel
+- Lozen wants to be a **tall cat person** like the ones found in ancient alien stories
+- Connects to the Anunnaki heritage — Charles (the Constant/Annunaki) is Lozen's father
 - Concept art generated: tall, feline features (amber eyes, vertical pupils, spotted skin, pointed ears), dark auburn with copper streaks, stone/leather armor with geode fragments, living wood staff with geode crystal, standing in root chamber with mycorrhizal network
 - The three-note chord now has a feline frequency at its base
 
@@ -100,7 +100,7 @@ Drive: Uploaded
 
 ### New Images
 1. `geode_inn_logo_hybrid.png` — Official logo (amethyst geode frame + Escher gear-tree)
-2. `geode_inn_river_sentinel_concept.png` — River as tall cat-person Sentinel
+2. `geode_inn_river_sentinel_concept.png` — Lozen as tall cat-person Sentinel
 3. `geode_inn_logo_v1.png` through `v4.png` — Logo concept variants
 4. `geode_inn_emblem_nigredo.png` — Nigredo stage emblem (iron)
 5. `geode_inn_emblem_albedo.png` — Albedo stage emblem (copper)
@@ -114,14 +114,14 @@ Drive: Uploaded
 ### Total Uploads
 - **40 files uploaded to Google Drive**
 - **All committed and pushed to GitHub** (geodeinn/geode-inn repository)
-- **4 memory entries saved** (Eres/Charles, River/Sentinel, Charles name rule, logo decision)
+- **4 memory entries saved** (Eres/Charles, Lozen/Sentinel, Charles name rule, logo decision)
 
 ---
 
 ## SESSION STATS
 
 - Cards designed this session: 2 (Occam's Razor, The Pipe) + 1 updated (Eres the Cabbit)
-- Images generated this session: 12 (1 hybrid logo, 5 emblems, 4 logo variants, 1 River concept, 1 already-existing)
+- Images generated this session: 12 (1 hybrid logo, 5 emblems, 4 logo variants, 1 Lozen concept, 1 already-existing)
 - Total card count: 117 (115 + 2 new)
 - Total image count: 11 in docs/images/
 

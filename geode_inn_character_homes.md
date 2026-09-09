@@ -23,8 +23,8 @@ The room says: I am safe here. I can be all of myself here. No one comes in unle
 ### The Firekeeper
 **Location (proposed):** The Hearth — the great fireplace on the main floor. The Firekeeper doesn't have a separate room. The hearth IS the home. Always there, always mid-story.
 
-### River
-**Location (proposed):** The Sentinel's Post — a small room near the Inn's main entrance. Taurus doesn't wander. River's home is the gate.
+### Lozen
+**Location (proposed):** The Sentinel's Post — a small room near the Inn's main entrance. Taurus doesn't wander. Lozen's home is the gate.
 
 ### Beverley (The Librarian)
 **Location (proposed):** The Archive — Beverley lives IN the library. A small nested space within the stacks, reachable only by climbing stacked books.
@@ -38,7 +38,7 @@ The room says: I am safe here. I can be all of myself here. No one comes in unle
 ### Jay
 **Location (proposed):** TBD — awaiting backstory from Krista
 
-### Solstara
+### Luna
 **Location (proposed):** TBD — awaiting placement details
 
 ### Charles
@@ -47,7 +47,7 @@ The room says: I am safe here. I can be all of myself here. No one comes in unle
 ### Aurallia
 **Location (proposed):** TBD — the Hearth (mother figure, warmth)
 
-### Andra (The Siren)
+### Katya (The Siren)
 **Location (proposed):** Water zone — the Siren's cove
 
 ---
@@ -80,7 +80,7 @@ Character homes serve as the **architectural templates** for each zone. When int
 - **Player Build Vocabulary:** Hearth-centered layouts, wood and stone construction, communal gathering spaces
 
 ### Zone Templates (Pending)
-- **Water Zone** — template TBD (Andra's cove?)
+- **Water Zone** — template TBD (Katya's cove?)
 - **Cosmology / Upstairs** — template TBD
 - **Catacombs / Downstairs** — template TBD
 - **Fae Kingdom** — template TBD

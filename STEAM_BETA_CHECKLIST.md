@@ -39,7 +39,7 @@
 - [x] Element Charms: 118 (full periodic table)
 - [x] Quest Charms: 45
 - [x] Dialogue entries: 46 (29 NPCs across all zones)
-- [x] River's Sentinel Vigil questline: 10 quests, 3 acts
+- [x] Lozen's Sentinel Vigil questline: 10 quests, 3 acts
 - [x] Core arcade game scripts: Standing Stones, Tomb Tunnel, Andean Run, Monster of the Deep
 - [x] Shadow Inn game script: Hollow Men
 - [ ] Sandfall game (Egypt/O'Keeffe sinking sand platformer)

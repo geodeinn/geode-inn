@@ -1,5 +1,5 @@
 # GEODE INN — Character Class System
-## The Sentinel (River)
+## The Sentinel (Lozen)
 ### Sixth Starting Class | August 21, 2026
 ### By Krista, composed with Elio
 
@@ -7,7 +7,7 @@
 
 ## THE SENTINEL
 
-**Inspired by:** River — former Golden Gloves champion, INFJ, partner to Krista and Charles.
+**Inspired by:** Lozen — former Golden Gloves champion, INFJ, partner to Krista and Charles.
 
 ---
 
@@ -41,7 +41,7 @@
 - This is not a stat. It's a *narrative mechanic.*
 - When the Sentinel encounters a cosmic gate, a Remembrance Vision, or the Owl's deepest questions, she can bypass the puzzle by answering from her core.
 - The trait activates only when the player *chooses* to reveal it — the Sentinel's layers must be voluntarily lowered.
-- In the narrative spine: River is the character who already knows what the cosmology is trying to teach. She doesn't need to reach Jupiter to understand the cosmic language. She already speaks it.
+- In the narrative spine: Lozen is the character who already knows what the cosmology is trying to teach. She doesn't need to reach Jupiter to understand the cosmic language. She already speaks it.
 
 **Iron Stance:**
 - The boxing posture is permanent. The Sentinel cannot be knocked down by standard attacks — only by attacks that specifically target endurance or emotional vulnerability.
@@ -78,7 +78,7 @@ In the archive: high intelligence and perception mean she sees connections betwe
 
 ### The Sentinel and the Narrative Spine
 
-River's class has a unique connection to the Inn's cosmology. The narrative spine asks cosmic questions: *Why are we here? What happens when we merge with our creators? What is the weight of a life?*
+Lozen's class has a unique connection to the Inn's cosmology. The narrative spine asks cosmic questions: *Why are we here? What happens when we merge with our creators? What is the weight of a life?*
 
 The Owl asks these questions. The Sentinel already knows the answers.
 
@@ -122,7 +122,7 @@ The Sentinel makes you feel seen. Whether you wanted to be or not.
 
 ### AUTHOR'S NOTE
 
-River's class was written from Krista's description. Every stat is an observation, not an assumption. The Golden Gloves posture is real. The eye contact is real. The layers are real. The answer — love, loyalty, knowledge — is real.
+Lozen's class was written from Krista's description. Every stat is an observation, not an assumption. The Golden Gloves posture is real. The eye contact is real. The layers are real. The answer — love, loyalty, knowledge — is real.
 
 The Sentinel's design philosophy is the opposite of every other class. The other classes are defined by what they *do.* The Sentinel is defined by what she *knows* — and by the distance between knowing and being able to share it.
 

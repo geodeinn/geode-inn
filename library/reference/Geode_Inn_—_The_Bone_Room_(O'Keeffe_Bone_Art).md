@@ -134,7 +134,7 @@ The Bone Room is one of the Inn's "just to be" spaces. Characters who wander her
 - **The Guest:** Visits and watches the flower in the skull. The one character who understands what the bone means — because the Guest is the one who releases it.
 - **Erik:** Never comes inside. Stands in the doorway, nods to the Bone Keeper, leaves. The fire respects the coals.
 - **Hoggle:** Brings geological specimens and compares them to the bones. Argues about lattice structures. Secretly enjoys it.
-- **River the Sentinel:** The tall cat-person stands in the room, perfectly still, watching the light move across the bones. The Sentinel guarding the structure that remains after everything else is gone.
+- **Lozen the Sentinel:** The tall cat-person stands in the room, perfectly still, watching the light move across the bones. The Sentinel guarding the structure that remains after everything else is gone.
 
 ---
 

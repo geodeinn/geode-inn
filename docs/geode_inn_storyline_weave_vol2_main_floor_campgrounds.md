@@ -76,8 +76,8 @@
 ## CAMPGROUNDS — the zen jeweler, the gardens, the fire circle
 
 ### Moss Agate
-**Lives:** Solstara's workspace, in a bowl worn smooth from handling, in reach of the wheel.
-**Thread:** the garden's stone — life at the scale of a lens. Solstara, the zen jeweler, cuts moss agate thin enough to read like windows, and each one shows the same scene: a forest from a distance, a grove from a step closer, a single moment of green that has been mid-growth for millions of years. The Campgrounds' whole design philosophy — nothing here is finished, nothing here is in a hurry — is moss agate's argument, set in a bowl.
+**Lives:** Luna's workspace, in a bowl worn smooth from handling, in reach of the wheel.
+**Thread:** the garden's stone — life at the scale of a lens. Luna, the zen jeweler, cuts moss agate thin enough to read like windows, and each one shows the same scene: a forest from a distance, a grove from a step closer, a single moment of green that has been mid-growth for millions of years. The Campgrounds' whole design philosophy — nothing here is finished, nothing here is in a hurry — is moss agate's argument, set in a bowl.
 **Song:** the garden layer — the quiet green tone under the campground wind, always in motion, never in a rush.
 
 ### Tree Agate
@@ -102,7 +102,7 @@
 
 ### Flower Agate
 **Lives:** the zen garden, in the raked sand, half-buried, found by guests.
-**Thread:** the blooms inside the stone that never open and never close — plumes of white in clear chalcedony, the gardeners' favorite paradox: a flower that achieved stillness without ever achieving death. Solstara buries flower agate in the zen garden's sand for guests to find with the rake, on the theory that a treasure you rake into existence is a treasure you'll remember. The theory has never been wrong.
+**Thread:** the blooms inside the stone that never open and never close — plumes of white in clear chalcedony, the gardeners' favorite paradox: a flower that achieved stillness without ever achieving death. Luna buries flower agate in the zen garden's sand for guests to find with the rake, on the theory that a treasure you rake into existence is a treasure you'll remember. The theory has never been wrong.
 **Song:** the seed tone — the smallest note the Inn plays, nearly subliminal, present wherever something is about to grow.
 
 ### Fire Agate
@@ -126,8 +126,8 @@
 **Song:** the gain stage — the frequency multiplier. The Song's volume knob, held by a stone that has no opinions about what you play through it.
 
 ### Green Onyx
-**Lives:** Solstara's bench, under the tools, where the hands rest.
-**Thread:** composure, layered — onyx's strict parallel bands with the heart's own color. The zen jeweler's bench stone holds the space between the cutting and the looking: Solstara rests both hands on it when a piece needs to be left alone for a moment. The stone is the bench's senior partner. Every piece Solstara has ever finished has spent some time resting on green onyx, being told, without words, that composure is also a craft.
+**Lives:** Luna's bench, under the tools, where the hands rest.
+**Thread:** composure, layered — onyx's strict parallel bands with the heart's own color. The zen jeweler's bench stone holds the space between the cutting and the looking: Luna rests both hands on it when a piece needs to be left alone for a moment. The stone is the bench's senior partner. Every piece Luna has ever finished has spent some time resting on green onyx, being told, without words, that composure is also a craft.
 **Song:** the rest between cuts — the silence in zen work that is also work. The Campgrounds refuses to score it. The silence is the score.
 
 ### Moukaite
@@ -137,7 +137,7 @@
 
 ### Picture Jasper
 **Lives:** the Campgrounds' map room — a fire circle log, flat-topped, ringed with stumps.
-**Thread:** the landscape stone — every piece a postcard from a place the stone was. The map room has no map. It has picture jasper: guests study the pieces and argue about what the landscapes show, and the arguments are the map room's entire function. The Campgrounds' position is that this is a better map than any drawn one, because drawn maps tell you where things are, and picture jasper tells you what it felt like to be there. Solstara moderates the arguments. Solstara is very good at this and pretends it's a burden.
+**Thread:** the landscape stone — every piece a postcard from a place the stone was. The map room has no map. It has picture jasper: guests study the pieces and argue about what the landscapes show, and the arguments are the map room's entire function. The Campgrounds' position is that this is a better map than any drawn one, because drawn maps tell you where things are, and picture jasper tells you what it felt like to be there. Luna moderates the arguments. Luna is very good at this and pretends it's a burden.
 **Song:** the travelogue — the sequence of tones that plays as each piece is held up to the firelight. A different melody for every jasper. No two alike; the stumps have heard hundreds.
 
 ### Septarian

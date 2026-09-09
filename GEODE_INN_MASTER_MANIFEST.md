@@ -154,9 +154,9 @@ This is the routing document. Every subsystem has its own detailed manifest or d
 
 ### Key NPCs with dialogue:
 - 46 dialogue entries covering 29 NPCs (after merge/fix)
-- Lozen (River): 12 entries (Sentinel's Vigil questline, river_001 through river_010c)
+- Lozen (Lozen): 12 entries (Sentinel's Vigil questline, river_001 through river_010c)
 - Quire: 1 entry (quire_001, Archive zone)
-- All NPC names IP-audited: Brim, Naut, Lozen, Lark (no book/movie references)
+- All NPC names IP-audited: Madame Mimm, Naut, Lozen, Lark (no book/movie references)
 
 ### What needs building:
 - Remaining NPC dialogue trees (18 Godot profiles to code)

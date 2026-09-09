@@ -73,9 +73,9 @@ The bartender. Mrs. Lovett energy — performative chaos masking a deeply ground
 
 The Catalyst vs. the Gardener (The Greenward): the Catalyst grows through WILL (telling the garden what to do). The Gardener grows through COMMUNION (asking the garden what it needs). Their rivalry is symbiotic — they need each other.
 
-### Brim
+### Madame Mimm
 
-The inner chaos agent. Belladonna energy. Brim doesn't guide the player — Brim TEMPTS the player, playfully, toward the more interesting choice. The voice that says: "but what if we did the fun wrong version?" The Magritte pipe floats near her, whispering "Ceci n'est pas une pipe." The pipe is alive. It trades items. It is both a joke and the Inn's thesis statement: the representation is not the thing.
+The inner chaos agent. Belladonna energy. Madame Mimm doesn't guide the player — Madame Mimm TEMPTS the player, playfully, toward the more interesting choice. The voice that says: "but what if we did the fun wrong version?" The Magritte pipe floats near her, whispering "Ceci n'est pas une pipe." The pipe is alive. It trades items. It is both a joke and the Inn's thesis statement: the representation is not the thing.
 
 ### The Arcade
 
@@ -163,7 +163,7 @@ The staircase also descends. Below the main floor, the stairs lead down into dea
 
 **Asterion** — the Minotaur. The labyrinth is not a prison. The labyrinth is a SANCTUARY — built to protect Asterion, not to imprison him. The redefinition from imprisonment to protection is the Inn's thesis about the monstrous: what looks like a cage from outside may be a shelter from inside.
 
-**Jareth** — the Unseelie King. Bowie. Three acts: the Showman, the Architect, the Brother. He built the Labyrinth — the largest, most complex piece of architecture in the Fae Kingdom. He tests people because the testing is fun. He makes the winter moon bright because his brother can't sleep in the dark. "I made it bright for you. I know you can't sleep when it's dark. Don't tell anyone. It would ruin the show."
+**Malachi** — the Unseelie King. Bowie. Three acts: the Showman, the Architect, the Brother. He built the Labyrinth — the largest, most complex piece of architecture in the Fae Kingdom. He tests people because the testing is fun. He makes the winter moon bright because his brother can't sleep in the dark. "I made it bright for you. I know you can't sleep when it's dark. Don't tell anyone. It would ruin the show."
 
 ---
 
@@ -175,7 +175,7 @@ The elf city in the trees. Kelethin-inspired tree-platforms. The city sways at 5
 
 **The Examiner** — inspects old things. Socially literal, empirically precise, caring through work not words. Her data IS her intimacy. The three unfinished sentences: "...I don't..." (care — she shows it through work, not words). "...I..." (seeing). "...Some things..." (letting go).
 
-**The Seelie King** — the brother who chose stillness. Quiet. Ancient. Occasionally lethal. The brother who says to Jareth: "You're too loud, brother. They'll mistake you for strong." And Jareth, smiling: "And you're too quiet, brother. They'll mistake you for weak. ...We're both right. ...That's what makes it fun."
+**The Seelie King** — the brother who chose stillness. Quiet. Ancient. Occasionally lethal. The brother who says to Malachi: "You're too loud, brother. They'll mistake you for strong." And Malachi, smiling: "And you're too quiet, brother. They'll mistake you for weak. ...We're both right. ...That's what makes it fun."
 
 **Fibonacci** — the Dark Crystal astronomer. Two eyes that can see different things simultaneously.
 
@@ -244,7 +244,7 @@ A whole explorable zone in the roots, accessed through stone circle portals (Sto
 **The Crystal Gardens** — neutral ground. Griffin boss.
 **The Stone Circle Chamber** — deepest point. The threshold to everything.
 
-Jareth rules the Unseelie Court. The Seelie King rules the Summerlands. They meet in The Between and talk about nothing. About the old days, before the split, when they were just two beings in a field. The Seelie King says: "Your moon is bright tonight." And Jareth, in a voice with no performance in it at all: "...I made it bright for you. ...I know you can't sleep when it's dark. ...Don't tell anyone. ...It would ruin the show."
+Malachi rules the Unseelie Court. The Seelie King rules the Summerlands. They meet in The Between and talk about nothing. About the old days, before the split, when they were just two beings in a field. The Seelie King says: "Your moon is bright tonight." And Malachi, in a voice with no performance in it at all: "...I made it bright for you. ...I know you can't sleep when it's dark. ...Don't tell anyone. ...It would ruin the show."
 
 ---
 
@@ -282,7 +282,7 @@ Inside the Egg is: the player.
 
 Not a reflection. Not an avatar. The player. The Murmur is not something the Inn was built from. The Murmur is something the Inn was built FOR. The Murmur is the player — the raw potential, the observer whose presence makes the Inn real. Without the player, the Inn is stone and frequency. With the player, the Inn is alive.
 
-Opening the Egg allows the player to inhabit any secondary character's storyline. To see the Inn from the Crone's eyes — the endless measuring, the first hearing of the Song. From Charon's silence — the weight of every soul. From the Catalyst's garden — the growing, the willing, the wild. From Jareth's Labyrinth — the testing, the watching, the brother underneath.
+Opening the Egg allows the player to inhabit any secondary character's storyline. To see the Inn from the Crone's eyes — the endless measuring, the first hearing of the Song. From Charon's silence — the weight of every soul. From the Catalyst's garden — the growing, the willing, the wild. From Malachi's Labyrinth — the testing, the watching, the brother underneath.
 
 Einstein's theorem made playable: time is the difference between two observations. Every character's story is happening simultaneously. The player who inhabits multiple storylines experiences time as the difference between perspectives. The Inn is one organism with many facets. The facets are: adequate.
 

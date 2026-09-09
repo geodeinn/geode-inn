@@ -533,7 +533,7 @@ This document establishes the copyright, trademark, and public domain compliance
 
 **Key Name Shifts & Safeguards:**
 - **MUST CHANGE (Actively Copyrighted):**
-  - *Brim* -> **Old Mother Witch** / Baba Yaga aspect.
+  - *Madame Mimm* -> **Old Mother Witch** / Baba Yaga aspect.
   - *Dobby* -> **Hob** (public domain house-spirit).
   - *Hoggle* -> **Hedley** / Grotto-Gnome.
   - *Naut* -> **The Deep Sleeper** / Eldritch Abyssal.

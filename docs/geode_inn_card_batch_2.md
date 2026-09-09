@@ -36,7 +36,7 @@ Both forms are real. The shift IS the guardian. The border is: the Bearsark.
 Flavor text: *"The binary shifter. The border IS him. Both forms are real."*
 Rarity: Epic
 
-### THE RAVEL (formerly Jareth)
+### THE RAVEL (formerly Malachi)
 Frequency: SILENCE (2) + STONE (1) — Total cost: 3
 Type: Character — Guide — Unseelie King
 Presence: 3 | Resonance: 5 | Cadence: Next Turn

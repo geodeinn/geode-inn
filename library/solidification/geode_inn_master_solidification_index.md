@@ -67,7 +67,7 @@ Every markdown document in the Geode Inn repository (255 files, ~750k words) has
 40. The Bard Blowhard (Dad)
 41. Newton
 42. Hel
-43. Brim
+43. Madame Mimm
 
 ### Batch 6: Zones Batch 1 (`solidification_batch_zones_1.md`)
 44. Atlantis Zone — The Fossilized Leviathan (Acoustic Cavitation)
@@ -126,7 +126,7 @@ Every markdown document in the Geode Inn repository (255 files, ~750k words) has
 89. Aurallia
 90. Oceanianoir
 91. Ryan
-92. Katy
+92. Lichenblossom
 93. Family Character Registry
 94. The Tinkering Weeaboo (The Tinker)
 95. The Ceiling Gnome

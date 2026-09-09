@@ -114,54 +114,54 @@ The third glass is poured from a different bottle — older, the glass dark with
 
 ---
 
-## 3. Katy's Spore-Infused Ale — "The Garden That Remembers"
+## 3. Lichenblossom's Spore-Infused Ale — "The Garden That Remembers"
 
 ### The Setting
 
-The Plant Necromancy Lab smells like wet earth and possibility. Katy's workstation is a moss-covered table lit by the glow of bioluminescent mushrooms. The ale is poured from a ceramic jug that has mycelium growing around the handle — not contaminating it, becoming part of it.
+The Plant Necromancy Lab smells like wet earth and possibility. Lichenblossom's workstation is a moss-covered table lit by the glow of bioluminescent mushrooms. The ale is poured from a ceramic jug that has mycelium growing around the handle — not contaminating it, becoming part of it.
 
-Katy is the Walking Van Gogh — the Plant Necromancer whose necromancy is care. Sunflowers taller than Katy stand behind the workstation, their heads tracking the conversation the way they'd track the sun. The irises at Katy's feet glow softly, bioluminescent blue, pulsing at 42Hz.
+Lichenblossom is the Walking Van Gogh — the Plant Necromancer whose necromancy is care. Sunflowers taller than Lichenblossom stand behind the workstation, their heads tracking the conversation the way they'd track the sun. The irises at Lichenblossom's feet glow softly, bioluminescent blue, pulsing at 42Hz.
 
 ### Tier 1: Acquaintance (1-2 Rounds)
 
-The ale glows. Violet spores drift up from the foam like inverted snowflakes. Katy pushes the mug across the moss with a smile that is exactly the right amount of proud.
+The ale glows. Violet spores drift up from the foam like inverted snowflakes. Lichenblossom pushes the mug across the moss with a smile that is exactly the right amount of proud.
 
-**Katy:** "I know it looks like it's alive. That's because it is. The spores are dormant — they won't grow in you, I promise. They only grow where they're wanted. That's the first rule of plant necromancy: nothing grows where it isn't welcome. People think necromancy is about raising the dead. It's not. It's about making the dead feel like they're still part of the garden. The ale does the same thing for the fungal network. It opens a door between your roots and the Inn's roots."
+**Lichenblossom:** "I know it looks like it's alive. That's because it is. The spores are dormant — they won't grow in you, I promise. They only grow where they're wanted. That's the first rule of plant necromancy: nothing grows where it isn't welcome. People think necromancy is about raising the dead. It's not. It's about making the dead feel like they're still part of the garden. The ale does the same thing for the fungal network. It opens a door between your roots and the Inn's roots."
 
 *A sip. The earthiness hits first, then the cranberry, then a tingling that spreads from the tongue to the chest.*
 
-**Katy:** "The Van Gogh garden — the Catalyst's garden, the wild one — is connected to this lab through the mycorrhizal network. Every plant in the Inn is talking to every other plant, all the time, underground. The Catalyst doesn't know that. The Catalyst grows by instinct. I grow by listening. The ale lets you listen too."
+**Lichenblossom:** "The Van Gogh garden — the Catalyst's garden, the wild one — is connected to this lab through the mycorrhizal network. Every plant in the Inn is talking to every other plant, all the time, underground. The Catalyst doesn't know that. The Catalyst grows by instinct. I grow by listening. The ale lets you listen too."
 
 ### Tier 2: Companion (3-5 Rounds)
 
-The second pour comes with a walk. Katy leads the player from the lab into a tunnel of vines — the singing vines, the ones that spiral in the Van Gogh swirl. The vines don't sing until Katy touches them. Then they hum — a low, sustained note that vibrates in the teeth.
+The second pour comes with a walk. Lichenblossom leads the player from the lab into a tunnel of vines — the singing vines, the ones that spiral in the Van Gogh swirl. The vines don't sing until Lichenblossom touches them. Then they hum — a low, sustained note that vibrates in the teeth.
 
-**Katy:** "The Catalyst's garden is Saint-Rémy. You know what that means? The asylum. The place where Van Gogh's mind, which couldn't hold itself in the world, was held by the growing things. The garden matched his energy. That's what the Catalyst does — grows the garden at the exact level of intensity that heals, not harms. The calibration is the Catalyst's hidden gift. She doesn't know she does it. The garden just... adjusts."
+**Lichenblossom:** "The Catalyst's garden is Saint-Rémy. You know what that means? The asylum. The place where Van Gogh's mind, which couldn't hold itself in the world, was held by the growing things. The garden matched his energy. That's what the Catalyst does — grows the garden at the exact level of intensity that heals, not harms. The calibration is the Catalyst's hidden gift. She doesn't know she does it. The garden just... adjusts."
 
-*Katy touches a vine and it spirals — the Starry Night swirl, living, green, moving.*
+*Lichenblossom touches a vine and it spirals — the Starry Night swirl, living, green, moving.*
 
-**Katy:** "My garden is Auvers. The tended one. The structured one. Same energy, different arrangement. The wildness held in rows. The vibration contained in patterns. I'm not the wild Van Gogh. I'm the Van Gogh who planted the wheat in straight lines and watched it wave anyway. You can't discipline the energy out of growing. You can only give it a path."
+**Lichenblossom:** "My garden is Auvers. The tended one. The structured one. Same energy, different arrangement. The wildness held in rows. The vibration contained in patterns. I'm not the wild Van Gogh. I'm the Van Gogh who planted the wheat in straight lines and watched it wave anyway. You can't discipline the energy out of growing. You can only give it a path."
 
 **Player dialogue branch:**
 - *"What does the fungal network say?"*
 - *"Can you teach me plant necromancy?"*
 - *"Why necromancy? Why not just gardening?"*
 
-**Katy (if "why necromancy"):** "Because gardening assumes the plants are alive. Necromancy acknowledges that some of them aren't. Some of the plants in this Inn are dead. They're still growing. They're still green. They're still singing. But they're dead. The necromancy isn't raising them — it's tending them. It's giving the dead plants the same care as the living ones. The same water. The same attention. The same song. Death doesn't end the garden. It just changes who's in it."
+**Lichenblossom (if "why necromancy"):** "Because gardening assumes the plants are alive. Necromancy acknowledges that some of them aren't. Some of the plants in this Inn are dead. They're still growing. They're still green. They're still singing. But they're dead. The necromancy isn't raising them — it's tending them. It's giving the dead plants the same care as the living ones. The same water. The same attention. The same song. Death doesn't end the garden. It just changes who's in it."
 
 ### Tier 3: Confidant (6-9 Rounds)
 
-The third pour happens at the heart of the network — a chamber where the mycorrhizal threads converge into a single node, pulsing with violet light. Katy kneels beside it like kneeling beside a fire.
+The third pour happens at the heart of the network — a chamber where the mycorrhizal threads converge into a single node, pulsing with violet light. Lichenblossom kneels beside it like kneeling beside a fire.
 
-**Katy:** "The network remembers. Everything. Every conversation that's ever happened in the Inn — the roots were listening. Every drink poured, every song sung, every secret whispered near a plant. The fungal network is the Inn's unconscious. The 42Hz Song travels through it. The roots carry it the way nerves carry thought. When you drink the ale and you feel that tingling in your chest — that's the network saying hello. That's the Inn's roots recognizing yours."
+**Lichenblossom:** "The network remembers. Everything. Every conversation that's ever happened in the Inn — the roots were listening. Every drink poured, every song sung, every secret whispered near a plant. The fungal network is the Inn's unconscious. The 42Hz Song travels through it. The roots carry it the way nerves carry thought. When you drink the ale and you feel that tingling in your chest — that's the network saying hello. That's the Inn's roots recognizing yours."
 
-*Katy places both hands flat on the node. The glow intensifies. The spores in the air align into patterns — spirals, the Van Gogh swirl, made of light.*
+*Lichenblossom places both hands flat on the node. The glow intensifies. The spores in the air align into patterns — spirals, the Van Gogh swirl, made of light.*
 
-**Katy:** "There's something the network has been holding for a long time. A memory. Not a happy one. Not a sad one. A true one. The kind of memory that plants carry because no one else will. I've been waiting for someone who can hear it. The ale opens the door. The door has been locked for a while. Not by me — by the memory itself. Some memories wait for the right listener. The way some seeds wait for the right rain."
+**Lichenblossom:** "There's something the network has been holding for a long time. A memory. Not a happy one. Not a sad one. A true one. The kind of memory that plants carry because no one else will. I've been waiting for someone who can hear it. The ale opens the door. The door has been locked for a while. Not by me — by the memory itself. Some memories wait for the right listener. The way some seeds wait for the right rain."
 
 *A pause. The spores settle. The glow dims to a patient pulse.*
 
-**Katy:** "Drink the rest. Slowly. When the tingling reaches your feet, you'll be standing in the network. Not your body — your attention. Your attention will be in the roots. And the memory will find you. It won't hurt. But it will change the way you hear the Inn. After that, every floorboard will have a pulse. Every wall will have a whisper. Every stone will have a story. The Inn isn't built on stone. It's built on roots. And the roots remember everything."
+**Lichenblossom:** "Drink the rest. Slowly. When the tingling reaches your feet, you'll be standing in the network. Not your body — your attention. Your attention will be in the roots. And the memory will find you. It won't hurt. But it will change the way you hear the Inn. After that, every floorboard will have a pulse. Every wall will have a whisper. Every stone will have a story. The Inn isn't built on stone. It's built on roots. And the roots remember everything."
 
 ---
 

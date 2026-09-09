@@ -88,11 +88,11 @@ Each game maps to an existing zone and rewards a stone consistent with that zone
 
 ### 11. Chess
 - **Inspiration:** Chess (classic)
-- **Zone:** Evan's Chess Hall (connected to the Hearth)
+- **Zone:** The Archivist's Chess Hall (connected to the Hearth)
 - **Genre:** Strategy board game
-- **Mechanic:** Full chess game against Evan the Chess Wizard, or against other players (cross-platform pairing). Evan's AI difficulty scales to the player's skill. Pieces are Geode Inn-themed: the Inn's roster replaces standard pieces (the Crone as the Queen, the Reader as the King, gargoyles as rooks, dragon kittens as knights, brownies as pawns). Evan narrates each move in character.
+- **Mechanic:** Full chess game against The Archivist the Chess Wizard, or against other players (cross-platform pairing). The Archivist's AI difficulty scales to the player's skill. Pieces are Geode Inn-themed: the Inn's roster replaces standard pieces (the Crone as the Queen, the Reader as the King, gargoyles as rooks, dragon kittens as knights, brownies as pawns). The Archivist narrates each move in character.
 - **Reward Stone:** Preseli Blue Stone (the strategic stone — Stonehenge's bluestone)
-- **Unlock:** Meet Evan in the Hearth
+- **Unlock:** Meet The Archivist in the Hearth
 
 ### 12. Coup
 - **Inspiration:** Coup (La Mame Games, 2012)

@@ -27,7 +27,7 @@ At his center, the Bard is an endlessly loyal, encouraging mentor who sees poten
 * **The Artisan Thief (Krista — Daughter):** Father and daughter. He is loud, outgoing, and sells things; she is quiet, internal, and makes things. He loves her across the gap between making and selling.
 * **The Tinkering Weeaboo (Grandchild):** Doting grandfather who uses relentless, warm humor as a protocol to coax the child back during Level 4 True Form meltdowns.
 * **The Chameleon Druid (Charles — Son-in-Law):** Calls him "Charlie" with fond warmth. He loves telling grand, wildly inaccurate stories about Charles's shapeshifting feats.
-* **The Pirate (Zee — Son-in-Law & Best Friend):** His absolute best friend on the dock. The ultimate pairing of theoretical questions and empirical world data.
+* **The Pirate (Zeke — Son-in-Law & Best Friend):** His absolute best friend on the dock. The ultimate pairing of theoretical questions and empirical world data.
 
 ### Notable Dialogue & Voice Samples
 1. *"Right! New territory. Beautiful. I read about this place. Or I heard about it. Or I imagined it. One of those three. The point is: we're here, and wherever here is, we're going to enjoy it. That's not a suggestion. That's a Bard Blowhard guarantee."*
@@ -98,7 +98,7 @@ Her character bridges beauty and danger. The same precise hands that set intrica
 * **The Tinkering Weeaboo (Child):** Mother and child. As two beings who chose their physical forms, they share an unspoken bond. During Level 4 meltdowns, her mother provides a heavy, unchanging stone as a physical grounding anchor.
 * **The Chameleon Druid (Charles — Spouse):** Husband and wife. Grounded in a deep, quiet understanding of physical creation, form-shifting, and endurance.
 * **The Siren (Sister):** Water-creature sisters. The selkie chose the land for stones; the siren stayed in the water for song and later came ashore for love. The selkie struggles at the bench for every piece while the siren sings effortlessly, creating a complex sisterly envy of ease versus struggle.
-* **The Pirate (Zee — Brother-in-Law):** Water-creature bond and commercial partnership; he sails to distant shores to bring back rare minerals, which she crafts at her bench.
+* **The Pirate (Zeke — Brother-in-Law):** Water-creature bond and commercial partnership; he sails to distant shores to bring back rare minerals, which she crafts at her bench.
 
 ### Notable Dialogue & Voice Samples
 1. *"The sea is movement. The sea is change. The sea is the thing that never stops. The stone was the thing that never moves. The stone was still. The stone was there. I came ashore for the stone."*
@@ -205,7 +205,7 @@ She originally stayed in the water because water carries sound frequencies with 
 * **Drown (Truth Overwhelm):** A devastating offensive lullaby that overwhelms hostile entities with the weight of their own unacknowledged truths.
 
 ### Relationships
-* **The Pirate (Zee — Husband):** A completed love story. He survived her song because he had already faced his own dark past, and he was the first person to hear the quiet loneliness inside her voice.
+* **The Pirate (Zeke — Husband):** A completed love story. He survived her song because he had already faced his own dark past, and he was the first person to hear the quiet loneliness inside her voice.
 * **The Artisan Thief (Krista — Sister):** Water-creature sisters. The Siren stayed in the water for song and came ashore for love; the selkie came ashore for stones and craft. They share a subtle envy—the selkie envies the Siren's effortless talent, while the Siren envies the selkie's hard-earned struggle at the bench.
 * **The Bard Blowhard (Father):** Inherited his room-filling presence; he uses boisterous storytelling while she uses effortless song.
 * **The Librarian Crone (Mother):** Mother and daughter precision instruments; the Siren can hear the Crone's quietest library comments from clear across the Inn.
@@ -220,10 +220,10 @@ Resides at the Dock and Shallows (the Inn's harbor threshold). She guides player
 
 ---
 
-## 7. The Pirate (with Dread Pirate Roberts Lore) — Zee (Krista's Brother-in-Law)
+## 7. The Pirate (with Dread Pirate Roberts Lore) — Zeke (Krista's Brother-in-Law)
 
-* **Character Name & Class:** The Pirate / Zee / The Dread Pirate Roberts
-* **Real-World Family Member:** Zee — Krista's Brother-in-Law (Sister's Husband)
+* **Character Name & Class:** The Pirate / Zeke / The Dread Pirate Roberts
+* **Real-World Family Member:** Zeke — Krista's Brother-in-Law (Sister's Husband)
 * **Casting & Actor Inspirations:** A performing musician and drummer with a rich vocal range from tenor to bass; an imposing, magnetic presence carrying the weight of a mysterious past and the *Princess Bride* Dread Pirate Roberts mantle.
 
 ### Core Personality
@@ -237,7 +237,7 @@ In the Inn, he acts as the world map navigator, trader, smuggler, and rhythmic h
 * **Harbor Master Effect:** Local authorities, guards, and port officials automatically defer to his classified registry clearance without conflict.
 * **Ocean Navigation & Uncharted Routes:** Captains ship travel between world map cultural zones and navigates uncharted blank spaces.
 * **Heartbeat Drumming:** Resonates with Inn architecture; can lull the dragon to sleep (50 BPM) or trigger harmonic responses from gargoyles (111Hz, 64Hz, 528Hz) and geode crystals.
-* **Dread Pirate Roberts Succession:** A unique mechanic where players can eventually earn the Roberts mantle by demonstrating the maturity to carry historical weight kindly, allowing Zee to retire peacefully to the dock.
+* **Dread Pirate Roberts Succession:** A unique mechanic where players can eventually earn the Roberts mantle by demonstrating the maturity to carry historical weight kindly, allowing Zeke to retire peacefully to the dock.
 
 ### Relationships
 * **The Siren (Wife):** Married to the Siren. He fell in love with the lonely singer behind the voice, and survived her song through total personal honesty.
@@ -255,10 +255,10 @@ Represents the Dread Pirate Roberts in the Inn's *Princess Bride* constellation 
 
 ---
 
-## 8. The Sentinel — River (Krista's Spouse)
+## 8. The Sentinel — Lozen (Krista's Spouse)
 
 * **Character Name & Class:** The Sentinel / Sentinel (Boxing Stance)
-* **Real-World Inspiration:** River — Krista's spouse (alongside Charles)
+* **Real-World Inspiration:** Lozen — Krista's spouse (alongside Charles)
 * **Casting & Actor Inspirations:** Compact, low center of gravity, with a presence so intense that people remember her as physically larger than she actually is. Not casting a specific actor — the Sentinel's defining quality is the *gap* between her physical size and her felt presence. The body is small. The space she commands is enormous.
 
 ### Core Personality
@@ -296,7 +296,7 @@ The Sentinel is the sixth class in the Inn's Festival questline — one of three
 ## 9. The Bard and the Pirate — The Inn's Best Friendship
 
 ### The Real Bond
-The friendship between the Bard Blowhard (Bart) and the Pirate (Zee) is the real-world best friendship between Krista's dad and her brother-in-law, naturally emerging in the game's lore. They represent the Inn's **Anchor and Sail**: the Bard stays at the Inn, holding down the tavern and asking endless theoretical questions, while the Pirate sails the world map, bringing back physical data, strange artifacts, and new stories.
+The friendship between the Bard Blowhard (Bart) and the Pirate (Zeke) is the real-world best friendship between Krista's dad and her brother-in-law, naturally emerging in the game's lore. They represent the Inn's **Anchor and Sail**: the Bard stays at the Inn, holding down the tavern and asking endless theoretical questions, while the Pirate sails the world map, bringing back physical data, strange artifacts, and new stories.
 
 ### Dynamic & Interplay
 * **The Questions & The Data:** The Bard questioning everything meets the Pirate who has been everywhere. When the Pirate docks, the Bard bombards him with loud questions. The Pirate presents odd discoveries—like a compass that points to the person holding it—and leaves the "why" for the Bard to solve.

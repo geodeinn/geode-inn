@@ -36,7 +36,7 @@ This document maps the structural template of Champions of Norrath and its seque
 | Tinkering Weeaboo | Wizard/Caster | Puzzle solver. Hyperfocused — godlike in their affinity zone, mediocre elsewhere. |
 | Librarian Crone | Enchanter/Illusionist | Archive access. Highest intelligence. Reads every text. Contextually moral. |
 | Chameleon Druid | Shapeshifter | Versatility. Adapts to any biome. Low endurance — the glioblastoma mirror. |
-| The Sentinel (River) | Tank/Warrior | Iron Stance. Faceted defense. The answer to the Owl's cosmic riddles. |
+| The Sentinel (Lozen) | Tank/Warrior | Iron Stance. Faceted defense. The answer to the Owl's cosmic riddles. |
 
 ### Co-Op Design
 - Up to 4 players per party (like Norrath)

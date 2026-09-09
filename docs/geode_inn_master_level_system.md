@@ -84,16 +84,16 @@ The player progresses through the tree by unlocking zones. Each zone unlocked re
 |---|---|
 | **Zone design** | ✅ Partial — Ren Faire vibe, market stalls connecting to MarketItem entity |
 | **Visual language** | ✅ Heavy cel-shaded (tradesmen), Ren Faire aesthetic |
-| **Characters** | ✅ Jay (tavern keeper), Solstara (jeweler) — concept art and profiles done |
-| **Character stations** | ✅ Jay's Tavern (Huntsman Tavern), Solstara's shop (TBD) |
+| **Characters** | ✅ Jay (tavern keeper), Luna (jeweler) — concept art and profiles done |
+| **Character stations** | ✅ Jay's Tavern (Huntsman Tavern), Luna's shop (TBD) |
 | **Quests** | ❌ NOT YET DESIGNED |
 | **Audio profiles** | ❌ NOT YET DESIGNED |
 | **Games** | ❌ NOT YET DESIGNED — possible crafting/trading mini-games |
 | **Interactive items** | ❌ NOT YET DESIGNED |
 | **Entry requirement** | ✅ Exterior of the Inn — accessible from main floor |
-| **Connections** | ✅ Market stalls → MarketItem entity, Jay → Charles (best friend), Solstara → Jay (friend) |
+| **Connections** | ✅ Market stalls → MarketItem entity, Jay → Charles (best friend), Luna → Jay (friend) |
 
-**GAPS:** Solstara's shop design, quests for both Jay and Solstara, audio profiles, game templates, interactive items, additional campground NPCs
+**GAPS:** Luna's shop design, quests for both Jay and Luna, audio profiles, game templates, interactive items, additional campground NPCs
 
 ---
 
@@ -158,22 +158,22 @@ The player progresses through the tree by unlocking zones. Each zone unlocked re
 ---
 
 ### LEVEL 8: WATER ZONE (The Deep)
-**Seven-layer water system. Water monsters. The Lighthouse. Andra's Cove.**
+**Seven-layer water system. Water monsters. The Lighthouse. Katya's Cove.**
 
 | Component | Status |
 |---|---|
 | **Zone design** | ✅ Complete — 7-layer water system, gothic anime (Vampire Hunter D style) |
 | **Visual language** | ✅ Gothic anime, dark water, bioluminescence |
-| **Characters** | ✅ 32 water monsters, Andra (Siren), Zee (dual land/water), Persephone (Lighthouse), the Pirate (sea zone) |
-| **Character stations** | ✅ Andra's Cove, Lighthouse (Keeper's Chamber) |
+| **Characters** | ✅ 32 water monsters, Katya (Siren), Zeke (dual land/water), Persephone (Lighthouse), the Pirate (sea zone) |
+| **Character stations** | ✅ Katya's Cove, Lighthouse (Keeper's Chamber) |
 | **Quests** | ❌ NOT YET DESIGNED — water monster encounters implied |
 | **Audio profiles** | ✅ Partial — each water monster has a signature lead instrument over the same base track |
 | **Games** | ✅ "Monster of the Deep" (Nessie simulation) designed |
-| **Interactive items** | ✅ Partial — zone template designed (Andra's Cove, Water template) |
+| **Interactive items** | ✅ Partial — zone template designed (Katya's Cove, Water template) |
 | **Lighthouse** | ✅ Three-tempo system (Owl/Eternity, Persephone/Tidal, Pirate/50 BPM), Bifocal Gaze mechanic |
 | **Connections** | ✅ Pirate's 50 BPM = Arcana's gearwork heartbeat, Lighthouse sees Water Zone (below) and Cosmology (above) |
 
-**GAPS:** Water monster questlines, Andra's quest, Zee's quest, Persephone's quest, Pirate's quest, 7-layer connectivity to Lighthouse 'Vigil', full game template, interactive items
+**GAPS:** Water monster questlines, Katya's quest, Zeke's quest, Persephone's quest, Pirate's quest, 7-layer connectivity to Lighthouse 'Vigil', full game template, interactive items
 
 ---
 

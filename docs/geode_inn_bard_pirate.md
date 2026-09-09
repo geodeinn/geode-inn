@@ -3,7 +3,7 @@
 
 ## The Real Bond
 
-Krista's dad (the Bard Blowhard Dwarf) and Zee (the Pirate) are best friends. This is not a designed relationship — it's a real one, discovered in the characters after they were built. The Bard was cast from Krista's dad. The Pirate was cast from Zee. The friendship emerged on its own, the way the Song makes connections nobody planted.
+Krista's dad (the Bard Blowhard Dwarf) and Zeke (the Pirate) are best friends. This is not a designed relationship — it's a real one, discovered in the characters after they were built. The Bard was cast from Krista's dad. The Pirate was cast from Zeke. The friendship emerged on its own, the way the Song makes connections nobody planted.
 
 The dock scene was originally written as the Pirate and the Chameleon Druid — two men who married water creatures. That scene captured a bond, but the wrong one. The real best-friendship is the Bard and the Pirate. The loudmouth and the explorer. The one who asks everything and the one who's been everywhere. Two men who are both *noise* in households run by precision.
 
@@ -109,7 +109,7 @@ The Bard is married to the Crone. The Pirate is married to the Siren. Both wives
 
 The Crone and the Siren watch the Bard and the Pirate on the dock. The two women are inside the Inn, watching from different windows, and what they see is the same: their husbands being *themselves.* More themselves than they are at home. More themselves than they are anywhere else. The best-friendship gives both men permission to be the version of themselves that the world doesn't usually get to see.
 
-**The Crone watching:** "...He's louder with Zee. ...The noise doubles. ...I can measure the increase. ...The increase is... [the Crone pause, the one that means she's annoyed and fond and will never admit the fond] ...not unwelcome. ...The pirate makes the Bard... [the smallest handwriting] ...happy. ...I don't measure happy. ...Happy is... [no number, no annotation, just the word] ...enough. ...Better."
+**The Crone watching:** "...He's louder with Zeke. ...The noise doubles. ...I can measure the increase. ...The increase is... [the Crone pause, the one that means she's annoyed and fond and will never admit the fond] ...not unwelcome. ...The pirate makes the Bard... [the smallest handwriting] ...happy. ...I don't measure happy. ...Happy is... [no number, no annotation, just the word] ...enough. ...Better."
 
 **The Siren watching:** She doesn't annotate. The Siren watches the way the Siren watches everything — with the total attention of someone whose magnetism is always on. The Siren sees the Pirate on the dock and sees something she rarely sees: the Pirate *unguarded.* The Harbor Master Effect is off. The mysterious background is paused. The Roberts mantle is hung on the mast. The Pirate is just... a man. Sitting with his best friend. Passing a flask. Being loud. Being *himself.*
 

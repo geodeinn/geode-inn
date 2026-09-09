@@ -206,7 +206,7 @@
     "dialogueId": "teacher_002"
   },
   {
-    "npcName": "Brim",
+    "npcName": "Madame Mimm",
     "zone": "Hearth",
     "voiceProfile": "Witchy mischief \u2014 cackling under the surface",
     "conditionTag": "first_visit",
@@ -236,7 +236,7 @@
     "isWhisperLayer": false,
     "lines": [
       "Absurd.",
-      "That is the word for it. I am a pipe. I am aware that I am a pipe. This is, by any philosophical standard, absurd. Brim thinks it's charming. I think it's a condition. But I can smoke myself, which is more than most pipes can say, and I have opinions, which is more than most people can say. So. Absurd, but not without dignity."
+      "That is the word for it. I am a pipe. I am aware that I am a pipe. This is, by any philosophical standard, absurd. Madame Mimm thinks it's charming. I think it's a condition. But I can smoke myself, which is more than most pipes can say, and I have opinions, which is more than most people can say. So. Absurd, but not without dignity."
     ],
     "responses": [
       "What kind of pipe are you?",
@@ -404,7 +404,7 @@
     "dialogueId": "malachi_001"
   },
   {
-    "npcName": "Bethany",
+    "npcName": "Wisteria",
     "zone": "Tavern",
     "voiceProfile": "Katey Sagal \u2014 warm, practical, the kind of voice that carries over a crowd",
     "conditionTag": "first_visit",
@@ -426,7 +426,7 @@
     "dialogueId": "bethany_001"
   },
   {
-    "npcName": "Evan",
+    "npcName": "The Archivist",
     "zone": "Tidal Caves",
     "voiceProfile": "Chess wizard \u2014 measured, strategic, slightly amused by everything",
     "conditionTag": "first_visit",
@@ -548,7 +548,7 @@
     ],
     "responses": [
       "What do you scout for?",
-      "Are you River's cat?",
+      "Are you Lozen's cat?",
       "Where's the best place to sleep in the Inn?"
     ],
     "setFlags": [
@@ -624,7 +624,7 @@
     "dialogueId": "will_001"
   },
   {
-    "npcName": "River",
+    "npcName": "Lozen",
     "zone": "Entrance",
     "voiceProfile": "Guard authority \u2014 calm, absolute, the voice that stops a room",
     "conditionTag": "first_visit",

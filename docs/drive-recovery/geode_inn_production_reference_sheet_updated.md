@@ -30,7 +30,7 @@
 | NEW-3 | The Laughing One | 4th Story-Born Ent (joy) | Main Floor | Soft flowing (lore) | ✅ Generated |
 | NEW-4 | Newton | Cosmology-level thinker | Cosmology | No-outline (cosmological) | ✅ Generated |
 | NEW-5 | Ryan | Volunteer NPC | Inn corridor | Soft flowing (lore) | ✅ Generated |
-| NEW-6 | Katy | Volunteer NPC, artisan | Market area | Soft flowing (lore) | ✅ Generated |
+| NEW-6 | Lichenblossom | Volunteer NPC, artisan | Market area | Soft flowing (lore) | ✅ Generated |
 | NEW-7 | Thorin & Marijke | Meadery owners, rock hounds | Viking ship great hall | Heavy cel-shaded (tradesman) | ✅ Generated |
 
 ---
@@ -113,7 +113,7 @@ All rendered in gothic anime (Vampire Hunter D) style with sharp angular linewor
 |---|---|---|
 | geode_inn_bestiary_mechanic.md | Bestiary creature compendium | ✅ Drafted |
 | geode_inn_class_abilities.md | 5 playable class ability sets | ✅ Drafted |
-| geode_inn_narrative_integration.md | Charles, River, daughters | ✅ Drafted |
+| geode_inn_narrative_integration.md | Charles, Lozen, daughters | ✅ Drafted |
 | geode_inn_water_lighthouse_integration.md | 7-layer water → Lighthouse Vigil | ✅ Drafted |
 
 ---

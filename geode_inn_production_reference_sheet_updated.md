@@ -30,7 +30,7 @@
 | NEW-3 | The Laughing One | 4th Story-Born Ent (joy) | Main Floor | Soft flowing (lore) | ✅ Generated |
 | NEW-4 | Newton | Cosmology-level thinker | Cosmology | No-outline (cosmological) | ✅ Generated |
 | NEW-5 | Ryan | Volunteer NPC | Inn corridor | Soft flowing (lore) | ✅ Generated |
-| NEW-6 | Katy | Volunteer NPC, artisan | Market area | Soft flowing (lore) | ✅ Generated |
+| NEW-6 | Lichenblossom | Volunteer NPC, artisan | Market area | Soft flowing (lore) | ✅ Generated |
 | NEW-7 | Thorin & Marijke | Meadery owners, rock hounds | Viking ship great hall | Heavy cel-shaded (tradesman) | ✅ Generated |
 
 ---
@@ -113,7 +113,7 @@ All rendered in gothic anime (Vampire Hunter D) style with sharp angular linewor
 |---|---|---|
 | geode_inn_bestiary_mechanic.md | Bestiary creature compendium | ✅ Drafted |
 | geode_inn_class_abilities.md | 5 playable class ability sets | ✅ Drafted |
-| geode_inn_narrative_integration.md | Charles, River, daughters | ✅ Drafted |
+| geode_inn_narrative_integration.md | Charles, Lozen, daughters | ✅ Drafted |
 | geode_inn_water_lighthouse_integration.md | 7-layer water → Lighthouse Vigil | ✅ Drafted |
 
 ---
@@ -128,7 +128,7 @@ These images are the canonical visual references for their respective zones. All
 | Zone | Image | URL | Drive Location | Description |
 |------|-------|-----|----------------|-------------|
 | **Undercity** | Klimt Gold Concept | https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/2b2ac8ac0_undercity_concept.png | 08 — Visual References / undercity_concept_klimt_gold.png | Vaulted deep gold ceilings, swirling Klimt patterns over gothic stone, luminous shadow effect. THE Undercity visual fingerprint. |
-| **Water Zone** | Atlantis / Gothic Anime Underwater | (see Andra/Zee water form images) | 08 — Visual References | Gothic anime (Vampire Hunter D) aesthetic for water zones. Bioluminescent flow, tidal stone, organic growth. THE Water Zone visual fingerprint. |
+| **Water Zone** | Atlantis / Gothic Anime Underwater | (see Katya/Zeke water form images) | 08 — Visual References | Gothic anime (Vampire Hunter D) aesthetic for water zones. Bioluminescent flow, tidal stone, organic growth. THE Water Zone visual fingerprint. |
 
 ### Structural Staple Rules
 - Any new art for a structural staple zone MUST reference the staple image's palette, texture, lighting, and architectural language

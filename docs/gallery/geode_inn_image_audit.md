@@ -224,7 +224,7 @@ Archive the others (don't delete — they may be useful as Shadow or In-Between 
 ### Step 2: Rename Old Character Names
 Update all filenames to current canonical names:
 - Mim → Brim
-- Jareth → Malachi
+- Malachi → Malachi
 - The Wayfarer → Waystone
 - Belladonna → Belladonna
 - The Sentinel / River Sentinel → Lozen

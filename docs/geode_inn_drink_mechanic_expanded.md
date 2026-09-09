@@ -99,7 +99,7 @@ Below is the complete catalog of 32 story-specific beverages distributed across 
 25  Vanir Honey-Dew              Norse / Vanir Glade     Freyr & Freyja      High HP regen; exposes natural spirit & flora nodes.
 26  Clockmaker's Gear Cordial    Undercity               Clockmaker          Exposes hidden lock tumblers & clockwork schematics.
 27  Aurallia's Four-Harmonic Punch Cave Studio             Aurallia & Kids       Harmonizes environment precisely to 42Hz for 5 minutes.
-28  Katy's Spore-Infused Ale     Plant Necromancy Lab    Katy                Reveals subterranean mycorrhizal networks & spore trails.
+28  Lichenblossom's Spore-Infused Ale     Plant Necromancy Lab    Lichenblossom                Reveals subterranean mycorrhizal networks & spore trails.
 29  Joe's Miniaturist Wine       Sorcerer Workshop       Joe                 Exposes micro-engravings & pocket-dimension doors.
 30  Norns' Thread-Dye Spirits    Tapestry Room           The Norns           Highlights fate threads & long-term quest consequences.
 31  Canopy Pine-Needle Tea       Ascension Canopy        The Owl / Arthur    Panoramic vision; exposes all zone perches from apex.
@@ -327,12 +327,12 @@ Below is the complete catalog of 32 story-specific beverages distributed across 
 * **Story Hook**: Brewed by Aurallia’s children for family celebrations in the cave studio. The four distinct syrups represent the four children harmonizing together.
 * **Mechanical Effect**: **Absolute 42Hz Lock**: Instantly tunes the local ambient area and player to pure **42Hz** frequency for 300 seconds, neutralizing all nearby 84Hz Shadow pollution.
 
-#### 28. Katy's Spore-Infused Ale
+#### 28. Lichenblossom's Spore-Infused Ale
 * **Zone / Origin**: Plant Necromancy Lab / Fungal Caverns.
-* **Creator / Provider**: Katy (Plant Necromancer).
+* **Creator / Provider**: Lichenblossom (Plant Necromancer).
 * **Visual & Preparation Ritual**: Brewed with bioluminescent cave mushrooms. Poured into a wide-rimmed pottery mug. Tiny glowing violet spores drift gently upward from the foam.
 * **Flavor Profile**: Earthy mushroom umami, dark roasted malt, tart cranberry, wild moss, and a gentle tingling sensation.
-* **Story Hook**: Katy’s experimental ale designed to open the drinker’s mind to the underground fungal network connecting all plant life in the Inn.
+* **Story Hook**: Lichenblossom’s experimental ale designed to open the drinker’s mind to the underground fungal network connecting all plant life in the Inn.
 * **Mechanical Effect**: **Mycorrhizal Perception Shift**: Illuminates subterranean fungal paths beneath floorboards and exposes hidden spore-chests across Level 7 and Level 9 for 240 seconds.
 
 #### 29. Joe's Miniaturist Wine

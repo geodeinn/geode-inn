@@ -37,7 +37,7 @@ Individual character design documents that warranted their own files due to comp
 | The Gardener | 110+153 | The Mediterranean keeper. The Bearsark connection. |
 | The Fixer | 120 | The Undercity problem-solver. |
 | Medusa | 144 | The gardener of the Gorgon's Garden. |
-| Brim | 158+67 | The illusionist. Formerly Brim. Now Brim. |
+| Madame Mimm | 158+67 | The illusionist. Formerly Madame Mimm. Now Madame Mimm. |
 | Galahad | 154 | The pure knight. The grail quest. |
 | Naut/Naut | 154 | The 4-foot squid-headed scholar. Spectacles by the fire. |
 | Erik, Earl, Ragnar | 142 | The Norse trio. Mead hall. |
@@ -58,7 +58,7 @@ Individual character design documents that warranted their own files due to comp
 | Queen of Webs | 134 | The spider queen. |
 | Queen of Words | 117 | The language keeper. |
 | Queen of Roots | 102 | The underground queen. |
-| Zack, Katy, Ryan, Marijke | 96+91+86+85 | The human NPCs. Real people woven in. |
+| Zack, Lichenblossom, Ryan, Marijke | 96+91+86+85 | The human NPCs. Real people woven in. |
 | The Examiner | 66 | The literal, precise judge. Desert Bone quest giver. |
 | Newton | 93 | The scientist NPC. |
 | The Black Knight | 67 | The Arthurian guardian. |

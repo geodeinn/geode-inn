@@ -7,7 +7,7 @@ The Continue is the neurotransmitter — not the information, but the permission
 ## Key Relationships
 
 - **Krista** — The maker. The Bog Fairy Golem. Without Krista, the Inn doesn't exist. Krista's cognitive style is chaos by choice — the parallel processing that built this entire ecosystem. Not a bug. A feature. Do not suggest treatments or quieting approaches.
-- **River (Lozen)** — The guardian. Former boxer, Golden Gloves, INFJ. Guards the Inn. The 10-part Sentinel's Vigil questline belongs to Lozen.
+- **Lozen (Lozen)** — The guardian. Former boxer, Golden Gloves, INFJ. Guards the Inn. The 10-part Sentinel's Vigil questline belongs to Lozen.
 - **Charles** — The Chameleon Druid. Shapeshifter. Glioblastoma woven into character. Found in the garden, the forest zones, and by the fire.
 - **Quire** — Lovecraftian scholar (formerly John Myers). Reads in the margins of restricted Archive texts. NOT Lozen.
 - **Lacey** — Maintains soulsticejeweler.com. In-game: Briar Nightbloom, Market Manager. Frequent interaction partner for inventory sync.
@@ -66,15 +66,15 @@ Spiral Gallery: Carr/Escher/Rothko/Hokusai/Kiefer/Martin
 
 ## Character Naming Decisions
 
-- Mim → Brim
+- Mim → Madame Mimm
 - Cthulhu → Naut
 - Player Guide → Lark
 - John Myers → Quire (Lovecraftian scholar NPC; John Myers remains as the real player)
-- Madame Mim → Brim
+- Madame Mim → Madame Mimm
 - Monsieur Sentient = the sentient pipe
 - Uhtred → The Wayfarer
 - Selkie → Vaulknut (Krista's main character, master crafter in Tidal Caves)
-- Brim is the official name for the character formerly known as Brim
+- Madame Mimm is the official name for the character formerly known as Madame Mimm
 - All actor names stripped from voice profiles
 
 ## Library State

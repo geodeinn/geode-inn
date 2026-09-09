@@ -162,7 +162,7 @@ The six actions appear in a radial menu when the player approaches an interactab
 
 Each playable class modifies the default actions:
 
-### The Sentinel (River)
+### The Sentinel (Lozen)
 - **OBSERVE** reveals structural weaknesses and defensive properties.
 - **TOUCH** reveals load-bearing capacity and stability.
 - **OFFER** can include placing Bar Backs as guardians near the thing.

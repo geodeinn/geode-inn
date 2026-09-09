@@ -101,7 +101,7 @@
 6. Vesper spirit name duplicate patch
 7. Character work: Jay's backstory, Aurallia's children, Charles & River, Clockwork crew names
 8. Erik (Norse zone), The Greenward full profiles
-9. Ryan, Katy, Zack, Thorin/Marijke NPC design docs
+9. Ryan, Lichenblossom, Zack, Thorin/Marijke NPC design docs
 10. Begin Lateralus physical construction phase
 11. Interactive graphic novel (Soulstice book → panel-based reading)
 12. Wire email addresses into app contact systems

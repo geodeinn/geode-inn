@@ -315,7 +315,7 @@
 | Druid | The One Who Tends, The Catalyst, Persephone | 3 |
 | Necromancer | Belladonna, The Guest, Hel, Anubis, Charon, Hades | 6 |
 | Bard | The Siren, The Bard, Leonard Cohen, Bach, Mozart, Beethoven, Chopin, Vivaldi, Brahms, Tchaikovsky, Schönberg | 11 |
-| Paladin | The Sentinel (River), The Bearsark, The Seelie King | 3 |
+| Paladin | The Sentinel (Lozen), The Bearsark, The Seelie King | 3 |
 | Warlock | The Constant (NPC), Nyx, Madame, Medusa, Odin the Allfather, Odin the Wanderer | 6 |
 | Monk | Kali, The Sokushinbutsu Monks, Socrates, Asterion | 4 |
 | Ranger | The Wayfarer, Hoggle | 2 |

@@ -48,9 +48,9 @@ Every stone in the Inn's cases, placed where it lives in the world. One line eac
 - **Unakite** — the stone of balanced partnerships; green and pink, the two forces agreeing; the Inn's own family stone, quietly.
 - **Gold** — the forge's masterpiece; the Market prices things in it; the Main Floor keeps one raw nugget to remind everyone what money looked like before it was money.
 
-## CAMPGROUNDS (Solstara's zen, the gardens, the living ground)
+## CAMPGROUNDS (Luna's zen, the gardens, the living ground)
 
-- **Moss Agate** — the garden's stone; life at the scale of a lens; Solstara keeps a bowl by the workspace.
+- **Moss Agate** — the garden's stone; life at the scale of a lens; Luna keeps a bowl by the workspace.
 - **Tree Agate** — the forest's ledger; growth rings in white and green; the campground's oldest resident that isn't a tree.
 - **Green Aventurine** — the stone of the good chance taken; the gambler's garden companion.
 - **Prehnite** — the garden keeper's stone; "heal the earth" carved nowhere and understood everywhere.
@@ -117,7 +117,7 @@ Every stone in the Inn's cases, placed where it lives in the world. One line eac
 - **Amazonite** — the gambler's luck, the Fae version; the Summerlands' gaming stones are cut from it, and the house does not always win.
 - **Charoite (second deposit)** — the swirl the Fae claim they taught the staircase.
 
-## WATER ZONES (Tidal Caves, Andra's Cove, Atlantis, the deep water)
+## WATER ZONES (Tidal Caves, Katya's Cove, Atlantis, the deep water)
 
 - **Aquamarine** — the sailor's stone; the calm at the center of the cove; the water zones' keystone.
 - **Amazonian Aquamarine** — the river's version; the jungle water's blue; the cove's southern case.

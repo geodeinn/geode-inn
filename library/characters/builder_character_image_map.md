@@ -20,7 +20,7 @@ All character images have been uploaded to app storage. Below is the COMPLETE ma
 - The Thrum → https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/d93ddab6c_the_thrum.png
 - The Brownies → https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/afaa77bdf_the_brownies.png
 - Story-Born Ents → https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/5bb0d279f_story_born_ents.png
-- Brim → https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/2f8205a71_madame_mim.png
+- Madame Mimm → https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/2f8205a71_madame_mim.png
 - Belladonna/Belladonna → https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/12af2d984_wednesday_addams.png
 - Naut the Scholar → https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/3acefc74e_26_the_scholar_cthulhu__ambulatory_patron.png
 - The Firekeeper (Tim Curry) → https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/7a8464fa7_alt_firekeeper_early_portrait.png
@@ -59,7 +59,7 @@ All character images have been uploaded to app storage. Below is the COMPLETE ma
 
 ### Campgrounds (Level 4)
 - Jay → https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/381e3a68c_jay_voltaire_vibe.png
-- Solstara → https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/13cc2e314_alt_jeweler_early_dani.png
+- Luna → https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/13cc2e314_alt_jeweler_early_dani.png
 - Dragon Mascot → https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/793f72a14_dragon_mascot.png
 
 ### Staircase (Level 5)
@@ -75,7 +75,7 @@ All character images have been uploaded to app storage. Below is the COMPLETE ma
 - Hades → https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/7f899bc13_hades_v2.png
 - Hel → https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/d295ba88c_hel_v2.png
 - Asterion (Minotaur) → https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/ecf04f1f5_asterion.png
-- Jareth (Unseelie King) → https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/923fbceba_jareth_unseelie_king_v3.png
+- Malachi (Unseelie King) → https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/923fbceba_jareth_unseelie_king_v3.png
 - The Morrigan → https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/b9da1e223_3_the_morrigan.png
 - Queen of Webs → https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/5b73e46f2_queen_of_webs_v2.png
 - Queen of Roots → https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/4104e2160_queen_of_roots.png
@@ -94,11 +94,11 @@ All character images have been uploaded to app storage. Below is the COMPLETE ma
 - Anansi → https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/3b4c30bd4_9_anansi_the_trickster.png
 
 ### Water Zone (Level 8)
-- The Siren/Andra (land) → https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/7bd14e80d_the_siren_v2.png
-- The Siren/Andra (water) → https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/1d905589a_andra_siren_land.png
+- The Siren/Katya (land) → https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/7bd14e80d_the_siren_v2.png
+- The Siren/Katya (water) → https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/1d905589a_andra_siren_land.png
 - The Pirate → https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/5f534bd68_the_pirate_v2.png
-- Zee (land/pirate) → https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/00ee0ef69_zee_pirate_land.png
-- Zee (water/merman) → https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/8f28a66bf_zee_merman.png
+- Zeke (land/pirate) → https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/00ee0ef69_zee_pirate_land.png
+- Zeke (water/merman) → https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/8f28a66bf_zee_merman.png
 - Oceanianoir → https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/82447132a_jaime_concept_art_final.png
 - The Architect of Stairs → https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/abea3b800_26_the_architect_of_stairs_unseelie_court__the_maze_maker.png
 
@@ -110,7 +110,7 @@ All character images have been uploaded to app storage. Below is the COMPLETE ma
 
 ### Family Characters
 - Charles (The Constant/Chameleon Druid) → https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/ae64db203_charles_chameleon_druid.png
-- River (The Sentinel) → https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/129959abd_the_sentinel_river.png
+- Lozen (The Sentinel) → https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/129959abd_the_sentinel_river.png
 - Speter Adams → https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/beffcd7cd_adam_concept.png
 - Jakob → https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/efca64282_jakob.png
 - Beverley → https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/187402744_alt_beverley_original_portrait.png

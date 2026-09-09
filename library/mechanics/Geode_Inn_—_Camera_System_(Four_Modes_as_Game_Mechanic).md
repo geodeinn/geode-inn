@@ -345,7 +345,7 @@ Only for characters with zone-specific behaviors:
 
 Brief motion data for each character — the essential movement vocabulary the animation program needs:
 
-### The Sentinel (River)
+### The Sentinel (Lozen)
 - **Walk:** Grounded, deliberate. Each step plants. The roots hold.
 - **Idle:** Slight sway. The tail (cat-person) moves slowly. The 50 BPM sway.
 - **SIT:** Perfect stillness. The Sentinel's sitting is: guarding. The breathing is: the vigil.

@@ -166,7 +166,7 @@
 | 1,882 | geode_inn_song_of_making.md | The Song of Making & Golden Contract |
 | 1,879 | geode_inn_examiner_story.md | The Examiner's Story |
 | 1,846 | geode_inn_hel.md | Hel |
-| 1,707 | geode_inn_madame_mim.md | Brim |
+| 1,707 | geode_inn_madame_mim.md | Madame Mimm |
 | 1,690 | geode_inn_morrigan_mab.md | The Morrigan and Queen Mab |
 | 5,576 | geode_inn_einstein_character_profile.md | Albert Einstein |
 | 5,369 | geode_inn_morrigan.md | The Morrigan |
@@ -202,7 +202,7 @@
 | 5,634 | geode_inn_npc_thorin_marijke.md | NPC: Thorin & Marijke |
 | 3,710 | geode_inn_npc_eileen.md | NPC: Aurallia |
 | 1,482 | geode_inn_npc_ryan.md | NPC: Ryan |
-| 1,398 | geode_inn_npc_katy.md | NPC: Katy |
+| 1,398 | geode_inn_npc_katy.md | NPC: Lichenblossom |
 | 877 | geode_inn_npc_ryan_backstory_base.md | Ryan: Base Backstory |
 | 6,385 | geode_inn_family_character_registry.md | Family Character Registry |
 | 2,386 | geode_inn_bard_blowhard_character_vibe.md | The Bard Blowhard (Dad) |
@@ -235,7 +235,7 @@
 | 2,302 | geode_inn_table_dynamics.md | Round Table Group Dynamics |
 | 2,287 | geode_inn_galahad.md | Galahad |
 | 1,937 | geode_inn_arthur.md | King Arthur |
-| 1,707 | geode_inn_madame_mim.md | Brim |
+| 1,707 | geode_inn_madame_mim.md | Madame Mimm |
 | 3,615 | geode_inn_merlin_archimedes.md | Merlin and Noctua |
 
 ---

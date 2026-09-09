@@ -11,7 +11,7 @@ Zone template system: character homes as architectural templates for player-buil
 4. **Eight complete zone templates built:**
    - Undercity (Scarlett) — crafted light, privacy, stone + Klimt gold
    - Hearth (Firekeeper) — living fire, community, stone + carved wood
-   - Water (Andra) — bioluminescence, flow, tidal stone + coral
+   - Water (Katya) — bioluminescence, flow, tidal stone + coral
    - Cosmology (Allfather) — starlight, vastness, sky stone + void silk
    - Catacombs (Crone) — scarce light, weight, bedrock + bone + clay
    - Staircase (Clockmaker) — evolving light, alchemy, all materials in sequence
@@ -21,7 +21,7 @@ Zone template system: character homes as architectural templates for player-buil
 6. **Three-tempo system for Lighthouse** — Owl/Persephone/Pirate
 7. **Bifocal Gaze mechanic** — Lighthouse bridges Water Zone and Cosmology
 8. **Fae Kingdom faction system** — Seelie/Unseelie/Neutral with reputation mechanics
-9. **New character profiles**: Scarlett, John, Jay, Solstara, Beverley, Firekeeper confirmed
+9. **New character profiles**: Scarlett, John, Jay, Luna, Beverley, Firekeeper confirmed
 10. **Master structure doc updated** with zone template system, new characters, completed items
 
 ### Files Created/Updated
@@ -36,14 +36,14 @@ Zone template system: character homes as architectural templates for player-buil
 - `geode_inn_lighthouse_item_templates.md` — Lighthouse zone template
 - `geode_inn_firekeeper_quest.md` — Firekeeper quest design doc
 - `geode_inn_master_structure.md` — updated with zone template system + new characters
-- `geode_inn_new_npcs_batch2.md` — new NPC profiles (Jay, Solstara, Beverley, Scarlett, John)
+- `geode_inn_new_npcs_batch2.md` — new NPC profiles (Jay, Luna, Beverley, Scarlett, John)
 
 ### Images Generated
 - Firekeeper portrait (refined): https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/409aae878_generated_image.png
 - Firekeeper quest environment: https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/2fefa0e76_generated_image.png
 - Scarlett's Room (Undercity): https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/911dcabea_generated_image.png
 - Firekeeper's Hearth: (described in Hearth template, image embedded)
-- Andra's Cove (Water): https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/5bb742aa3_generated_image.png
+- Katya's Cove (Water): https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/5bb742aa3_generated_image.png
 - Allfather's Observatory (Cosmology): https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/48777a8a6_generated_image.png
 - Crone's Archive (Catacombs): https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/2aa13e3a7_generated_image.png
 - Clockmaker's Staircase: https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/1e289761d_generated_image.png
@@ -53,7 +53,7 @@ Zone template system: character homes as architectural templates for player-buil
 ### Next Steps
 - Jay's backstory (pending from Krista)
 - Aurallia's two older children (pending from Krista)
-- Remaining volunteer NPC designs (Ryan, Katy, Zack, Thorin/Marijke)
+- Remaining volunteer NPC designs (Ryan, Lichenblossom, Zack, Thorin/Marijke)
 - Crystal SVG rendering logic (per-stone color/texture/cut)
 - Populate Book entity with archive.org materials
 - Additional song mappings for bead designs

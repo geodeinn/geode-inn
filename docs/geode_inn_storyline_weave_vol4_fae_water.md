@@ -58,16 +58,16 @@
 
 ---
 
-## THE WATER ZONES — Andra's Cove, the Tidal Caves, Atlantis, the deep water
+## THE WATER ZONES — Katya's Cove, the Tidal Caves, Atlantis, the deep water
 
 ### Aquamarine
 **Lives:** the Cove's keystone case, at the waterline, half in and half out.
-**Thread:** the sailor's stone — the calm at the center of the cove. Andra's Cove is named for the water guardian who keeps it, and aquamarine is Andra's own stone: the beryl of the sea, the color of the water's best mood, kept at the exact line where the tide argues with the land. The case floods twice daily. The stone is calibrated for it. The Cove's guests learn the tide from the case before they learn it from the water, which Andra considers the correct order of education.
+**Thread:** the sailor's stone — the calm at the center of the cove. Katya's Cove is named for the water guardian who keeps it, and aquamarine is Katya's own stone: the beryl of the sea, the color of the water's best mood, kept at the exact line where the tide argues with the land. The case floods twice daily. The stone is calibrated for it. The Cove's guests learn the tide from the case before they learn it from the water, which Katya considers the correct order of education.
 **Song:** the surface tone — the Inn's most-played water frequency, the note that is always in every water zone's mix, the sound of the top of the sea. Every other water stone tunes to this one first.
 
 ### Amazonian Aquamarine
 **Lives:** the Cove's southern case, among the jungle stones.
-**Thread:** the river's version — the same beryl from the river country, blue with green in it, the color of water that has somewhere to be. The Cove keeps it beside the ocean aquamarine as the water zones' gentle geography lesson: the sea and the river are the same stone with different schedules. The southern case was Andra's idea. The river guardian visits it. The two guardians are old friends, and the case is where they stand.
+**Thread:** the river's version — the same beryl from the river country, blue with green in it, the color of water that has somewhere to be. The Cove keeps it beside the ocean aquamarine as the water zones' gentle geography lesson: the sea and the river are the same stone with different schedules. The southern case was Katya's idea. The river guardian visits it. The two guardians are old friends, and the case is where they stand.
 **Song:** the current — a flowing figure, faster than the surface tone, always going somewhere. The Cove's southern music. The river says you can tell where it's headed. The river is right.
 
 ### Larimar
@@ -117,7 +117,7 @@
 
 ### Blue Hole Calcite
 **Lives:** the deep chamber beneath the Cove — the blue hole, the vertical water.
-**Thread:** the deep blue hole, captured — the stone the Cove is named for, the calcite that glows the exact blue of the light at the bottom of a blue hole, the color the water keeps where the sun has mostly given up. The deep chamber is the Cove's vertical mystery: a shaft of still water that no current reaches, and the calcite sits at the bottom of it, glowing faintly, the water's own night-light. Guests are allowed to dive it. Andra goes first, every time. Andra has been going first for as long as the Cove has kept count, which is forever.
+**Thread:** the deep blue hole, captured — the stone the Cove is named for, the calcite that glows the exact blue of the light at the bottom of a blue hole, the color the water keeps where the sun has mostly given up. The deep chamber is the Cove's vertical mystery: a shaft of still water that no current reaches, and the calcite sits at the bottom of it, glowing faintly, the water's own night-light. Guests are allowed to dive it. Katya goes first, every time. Katya has been going first for as long as the Cove has kept count, which is forever.
 **Song:** the held note — the water zones' one truly static frequency, the blue hole's uninterrupted tone, the deepest sustained sound in the Inn's water architecture. It has never stopped. Nobody knows when it started. The composers call it "the calcite's decision."
 
 ### Lemurian Blue Calcite (Blue Onyx)

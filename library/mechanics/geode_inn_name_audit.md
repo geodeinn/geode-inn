@@ -10,7 +10,7 @@
 | **Madame Mim** | T.H. White's "The Sword in the Stone" (1938), Disney (1963) | Named character from copyrighted novel/film | **Madame Mimic** — keeps the "Mim" sound Krista loves, makes it original, and the word "mimic" perfectly describes her function (she mimics, mirrors, and breaks formulas by doing the wrong version) |
 | **The Greenward** | Tolkien, The Hobbit/LOTR | Named character from copyrighted works | **The Greenward** — title-based, fits the Inn's naming convention (the Constant, the Crone, the Host). "Greenward" = green + warden. He wards the green. |
 | **The Bearsark** | Tolkien, The Hobbit | Named character from copyrighted works | **The Bearsark** — a play on "berserker" (Norse bear-warriors), original compound. He IS the bear-sark: the skin that shifts between man and bear. |
-| **Jareth** | Labyrinth (1986, Lucasfilm/Henson) | Named character from copyrighted film | **The Ravel** — from "unravel/ravel," the one who raveled the labyrinth. Sounds like a name, functions as a title. He IS the tangle. |
+| **Malachi** | Labyrinth (1986, Lucasfilm/Henson) | Named character from copyrighted film | **The Ravel** — from "unravel/ravel," the one who raveled the labyrinth. Sounds like a name, functions as a title. He IS the tangle. |
 | **The Wayfarer** | Bernard Cornwell, The Saxon Stories / The Last Kingdom | Named character from copyrighted novels | **The Wayfarer** — title-based, fits the Inn's convention. He walks the roads between zones. "Destiny is all" stays — it's a translation of the Old English concept of wyrd, public domain. |
 | **Fibonacci** | The Dark Crystal (1982, Henson/Jim Henson Company) | Named character from copyrighted film | **The Augur** — from the Latin "augur" (a Roman diviner/seer). Real word, public domain. Keeps the "Au" sound. She IS the augur: the one who reads the patterns. |
 | **Noctua** (the owl) | Disney's The Sword in the Stone (1963) | Named owl character from copyrighted film | **Noctua** — Latin for "little owl," the actual species name (Athene noctua) of the owl associated with Athena in Greek mythology. Real word, public domain, mythologically grounded. |
@@ -54,7 +54,7 @@ Beyond name changes, any DIRECT QUOTES from copyrighted works need to become ori
 
 ## SUMMARY
 
-**Must change:** 9 names (Mim, The Greenward, The Bearsark, Jareth, The Wayfarer, Fibonacci, Noctua owl, True Form, Belladonna → Belladonna)
+**Must change:** 9 names (Mim, The Greenward, The Bearsark, Malachi, The Wayfarer, Fibonacci, Noctua owl, True Form, Belladonna → Belladonna)
 
 **Review:** 2 names (Cabbit, Leonard Cohen)
 

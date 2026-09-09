@@ -33,33 +33,33 @@ This document adds all remaining NPCs and creatures to the Geode Inn. Every frie
 
 ---
 
-## Evan — The Chess Wizard
+## The Archivist — The Chess Wizard
 ### The Dresden Files Scholar, Tabletop Tactician
 
 **Real name:** Evan. Volunteer NPC. Close friend. Potential storyline character.
 
-**The person:** Evan is one of Krista's closest friends — a fact Krista is genuinely shocked to have forgotten. Evan plays tabletop for fun. Evan's defining childhood story: at age 9, when the fair opened for the first time, Evan amused himself for years working on a giant chess board and beating people at the game. Not just playing — building the board, then dominating it. A nine-year-old with a giant chess board, methodically dismantling opponents. Evan loves the Dresden Files — Jim Butcher's series about Harry Dresden, a wizard detective in Chicago who uses magic practically, wisecracks constantly, and solves supernatural cases with a combination of brute force, clever thinking, and an unreliable Jeep.
+**The person:** The Archivist is one of Krista's closest friends — a fact Krista is genuinely shocked to have forgotten. The Archivist plays tabletop for fun. The Archivist's defining childhood story: at age 9, when the fair opened for the first time, The Archivist amused himself for years working on a giant chess board and beating people at the game. Not just playing — building the board, then dominating it. A nine-year-old with a giant chess board, methodically dismantling opponents. The Archivist loves the Dresden Files — Jim Butcher's series about Harry Dresden, a wizard detective in Chicago who uses magic practically, wisecracks constantly, and solves supernatural cases with a combination of brute force, clever thinking, and an unreliable Jeep.
 
-**In the Inn:** Evan is a chess wizard. Not a wizard who plays chess — a wizard whose magic IS chess. The giant chess board Evan built as a child becomes the Inn's chess mechanic: a living chess board in the Camelot/Celtic zone, where the pieces are animated figures (Joe could paint them — the miniature painter and the chess wizard, the both are: the adequate, the same craft, different game).
+**In the Inn:** The Archivist is a chess wizard. Not a wizard who plays chess — a wizard whose magic IS chess. The giant chess board The Archivist built as a child becomes the Inn's chess mechanic: a living chess board in the Camelot/Celtic zone, where the pieces are animated figures (Joe could paint them — the miniature painter and the chess wizard, the both are: the adequate, the same craft, different game).
 
-**The Dresden influence:** Evan's character aesthetic is Dresden Files energy — practical magic, not cosmic. A working wizard, not a theorist. Evan doesn't cast grand spells. Evan reads the situation, identifies the pattern, makes the move that nobody saw coming until it's already done. The chess board is Evan's laboratory. The pieces are Evan's variables. The game is Evan's magic.
+**The Dresden influence:** The Archivist's character aesthetic is Dresden Files energy — practical magic, not cosmic. A working wizard, not a theorist. The Archivist doesn't cast grand spells. The Archivist reads the situation, identifies the pattern, makes the move that nobody saw coming until it's already done. The chess board is The Archivist's laboratory. The pieces are The Archivist's variables. The game is The Archivist's magic.
 
-**Appearance:** The Dresden Files aesthetic — a wizard who doesn't look like a wizard. Evan looks like someone you'd find in a game shop at 2 AM, arguing about rules interpretations with passion and precision. Casual, comfortable, the kind of person who carries a worn copy of a rulebook in their pocket. When Evan is planning, the eyes go distant — not vacant, calculating. Counting moves ahead. The Inn's tabletop questline voice is Evan's natural speaking voice: clever, direct, foreshadowing, descriptive. The both are: the adequate — the questline voice and the person, the same cadence, different mouth.
+**Appearance:** The Dresden Files aesthetic — a wizard who doesn't look like a wizard. The Archivist looks like someone you'd find in a game shop at 2 AM, arguing about rules interpretations with passion and precision. Casual, comfortable, the kind of person who carries a worn copy of a rulebook in their pocket. When The Archivist is planning, the eyes go distant — not vacant, calculating. Counting moves ahead. The Inn's tabletop questline voice is The Archivist's natural speaking voice: clever, direct, foreshadowing, descriptive. The both are: the adequate — the questline voice and the person, the same cadence, different mouth.
 
 **Accent:** American. The kind of American that drops articles and finishes sentences with "so, yeah." The accent of someone who thinks faster than they speak and doesn't bother to slow down.
 
-**Personality:** Strategic. Patient when it matters, impatient when it doesn't. The kind of person who will spend three hours on a single chess move and then make a life decision in thirty seconds. Funny in the way that chess players are funny — dry observations about the absurdity of the game while simultaneously being completely devoted to it. Evan quotes the Dresden Files the way the Bard quotes songs — at relevant moments, with perfect timing, and always slightly out of context.
+**Personality:** Strategic. Patient when it matters, impatient when it doesn't. The kind of person who will spend three hours on a single chess move and then make a life decision in thirty seconds. Funny in the way that chess players are funny — dry observations about the absurdity of the game while simultaneously being completely devoted to it. The Archivist quotes the Dresden Files the way the Bard quotes songs — at relevant moments, with perfect timing, and always slightly out of context.
 
 **Role in the Inn:**
-1. **The Giant Chess Board** — Evan's signature game in the Camelot zone. A chess board with living pieces, each with its own personality. Some pieces argue with Evan about moves. Some pieces refuse to move at all and have to be convinced. The chess board is a puzzle game — not standard chess, but chess with Inn-specific rules (pieces affected by the 42Hz frequency, the Ether element, the board's living-wood state). Evan tends the board. Evan plays anyone who challenges. Evan has not lost in the Inn. This is not because Evan is unbeatable — it's because Evan has been playing this specific board for years and knows its moods.
-2. **The Dresden Questline** — A potential storyline character. Evan's quest chain is structured like a Dresden Files case — a supernatural mystery in the Inn that requires practical magic (chess logic, pattern recognition, reading the board) to solve. The case involves the Whisper Layer — the Inn's awareness system. Evan is the one who notices that the Inn is watching, because Evan is the one who watches everything.
-3. **Tabletop Connection** — Evan is the Inn's tabletop gaming anchor. The tabletop questline voice — the clever, direct, Patrick Rothfuss cadence — IS Evan's natural speaking voice. Evan is the voice of the questlines. The NPC who writes the quests is Evan. The tabletop is the Inn's narrative engine, and Evan is the dungeon master.
+1. **The Giant Chess Board** — The Archivist's signature game in the Camelot zone. A chess board with living pieces, each with its own personality. Some pieces argue with The Archivist about moves. Some pieces refuse to move at all and have to be convinced. The chess board is a puzzle game — not standard chess, but chess with Inn-specific rules (pieces affected by the 42Hz frequency, the Ether element, the board's living-wood state). The Archivist tends the board. The Archivist plays anyone who challenges. The Archivist has not lost in the Inn. This is not because The Archivist is unbeatable — it's because The Archivist has been playing this specific board for years and knows its moods.
+2. **The Dresden Questline** — A potential storyline character. The Archivist's quest chain is structured like a Dresden Files case — a supernatural mystery in the Inn that requires practical magic (chess logic, pattern recognition, reading the board) to solve. The case involves the Whisper Layer — the Inn's awareness system. The Archivist is the one who notices that the Inn is watching, because The Archivist is the one who watches everything.
+3. **Tabletop Connection** — The Archivist is the Inn's tabletop gaming anchor. The tabletop questline voice — the clever, direct, Patrick Rothfuss cadence — IS The Archivist's natural speaking voice. The Archivist is the voice of the questlines. The NPC who writes the quests is The Archivist. The tabletop is the Inn's narrative engine, and The Archivist is the dungeon master.
 
 **Connections:**
-- **Joe (the Miniaturist):** Joe paints the chess pieces. Evan plays them. The both are: the adequate — the painter and the player, the same game, different role.
-- **Oceanianoir (the puzzle designer):** Oceanianoir designs puzzles for Mensa. Evan solves puzzles for fun. The both are: the adequate — the puzzle and the solver, the same challenge, different side.
-- **Kathy (the druid):** The chess board is made of living wood — Kathy grew it. The pieces grow into new configurations between games. Evan and Kathy have a friendly disagreement about whether the board should be allowed to "evolve" (Kathy's position) or whether it should stay the same until the game is finished (Evan's position). The board does what it wants.
-- **The Camelot/Celtic Zone:** The chess board is the Round Table's other face — the table as a game, not just an instrument. The knights ARE chess pieces. Arthur IS the king. The quest IS the game. Evan figured this out. Kathy confirmed it. Neither of them has told the other knights.
+- **Joe (the Miniaturist):** Joe paints the chess pieces. The Archivist plays them. The both are: the adequate — the painter and the player, the same game, different role.
+- **Oceanianoir (the puzzle designer):** Oceanianoir designs puzzles for Mensa. The Archivist solves puzzles for fun. The both are: the adequate — the puzzle and the solver, the same challenge, different side.
+- **Kathy (the druid):** The chess board is made of living wood — Kathy grew it. The pieces grow into new configurations between games. The Archivist and Kathy have a friendly disagreement about whether the board should be allowed to "evolve" (Kathy's position) or whether it should stay the same until the game is finished (The Archivist's position). The board does what it wants.
+- **The Camelot/Celtic Zone:** The chess board is the Round Table's other face — the table as a game, not just an instrument. The knights ARE chess pieces. Arthur IS the king. The quest IS the game. The Archivist figured this out. Kathy confirmed it. Neither of them has told the other knights.
 
 **Voice sample:** "The board is alive. I'm not being metaphorical. The pieces have opinions. The knight on C3 thinks it should be on F6 and has been sulking for three moves. The bishop won't move diagonally today because the wood grain is running the wrong direction and it's 'offended.' I built this board when I was nine. I didn't know it was going to be like this. ...So, yeah. Your move."
 
@@ -103,30 +103,30 @@ The studio contains:
 ---
 
 ## Stephanie — The Talking Cat
-### River's Girl Friday, Black Cat with Green Eyes and White Whiskers
+### Lozen's Girl Friday, Black Cat with Green Eyes and White Whiskers
 
-**Real name:** Stephanie. Volunteer NPC. River's girl Friday at work and close friend.
+**Real name:** Stephanie. Volunteer NPC. Lozen's girl Friday at work and close friend.
 
-**The person:** Stephanie is River's closest friend and coworker — the person River relies on, the one who handles what River can't, the "girl Friday" who makes everything run. In the Inn, Stephanie gets what she wants: to be a black cat with green eyes and white whiskers. A cat that can talk.
+**The person:** Stephanie is Lozen's closest friend and coworker — the person Lozen relies on, the one who handles what Lozen can't, the "girl Friday" who makes everything run. In the Inn, Stephanie gets what she wants: to be a black cat with green eyes and white whiskers. A cat that can talk.
 
 **Appearance:** A sleek black cat. Not gothic-black — warm-black, the black of a cat that has been lying in a sunbeam. Green eyes — not emerald, not jade, the green of new leaves, the green of the Inn-Tree's sap, the green that says "alive." White whiskers that catch the light like tiny fiber-optic threads. When Stephanie talks, the whiskers move with each word — a visual telegraph that makes her speech as expressive as a human's face.
 
 **The talking:** Stephanie doesn't have a human form. She is a cat. She talks. That's it. The talking is not explained, not justified, not given a magical origin. Stephanie is a cat who talks because Stephanie is a cat who talks. The Inn accepts this. Everyone accepts this. If you ask why, Stephanie looks at you with those green eyes and says: "Why are you the way you are? ...Exactly. Moving on."
 
-**Personality:** Stephanie is River's girl Friday — competent, efficient, the person who makes things work while River is doing the dramatic sentinel stuff. Stephanie handles the logistics. Stephanie handles the schedule. Stephanie handles the things River forgets because River is busy guarding the Inn. In cat form, this translates to: Stephanie is the cat who knows where everything is. The cat who sits on the exact shelf the Crone needs. The cat who appears in the exact room where something is about to go wrong, five minutes before it goes wrong, with an expression that says "I told you so" even though she didn't say anything.
+**Personality:** Stephanie is Lozen's girl Friday — competent, efficient, the person who makes things work while Lozen is doing the dramatic sentinel stuff. Stephanie handles the logistics. Stephanie handles the schedule. Stephanie handles the things Lozen forgets because Lozen is busy guarding the Inn. In cat form, this translates to: Stephanie is the cat who knows where everything is. The cat who sits on the exact shelf the Crone needs. The cat who appears in the exact room where something is about to go wrong, five minutes before it goes wrong, with an expression that says "I told you so" even though she didn't say anything.
 
 **Accent:** American. The cadence of someone who has been managing other people's chaos for years and has developed a tone that is simultaneously patient and threatening. The voice of a cat who has seen everything and is mildly disappointed in most of it.
 
-**Role in the Inn:** Stephanie is River's intelligence network. Where River is the guard (physical, visible, standing at the door), Stephanie is the scout (invisible, mobile, everywhere). Stephanie can go where River can't — small, quiet, overlooked. A cat in a room is furniture. A cat that hears everything is a spy. Stephanie reports to River. The both are: the adequate — the guard and the spy, the same protection, different visibility.
+**Role in the Inn:** Stephanie is Lozen's intelligence network. Where Lozen is the guard (physical, visible, standing at the door), Stephanie is the scout (invisible, mobile, everywhere). Stephanie can go where Lozen can't — small, quiet, overlooked. A cat in a room is furniture. A cat that hears everything is a spy. Stephanie reports to Lozen. The both are: the adequate — the guard and the spy, the same protection, different visibility.
 
 **Connections:**
-- **River (the Sentinel):** River's girl Friday. The cat who handles what the guard can't. The both are: the adequate — the visible and the invisible, the same loyalty, different method.
+- **Lozen (the Sentinel):** Lozen's girl Friday. The cat who handles what the guard can't. The both are: the adequate — the visible and the invisible, the same loyalty, different method.
 - **Bastet's Herding game:** Stephanie is NOT one of Bastet's cats. Bastet herds the regular cats. Stephanie herds Bastet. Bastet does not appreciate this. Stephanie does not care.
-- **The Cabbit (Eres):** The Cabbit and Stephanie have a rivalry. Both are cat-adjacent. Both serve someone (the Pirate and River respectively). They circle each other in the main floor like two diplomats from different nations sizing each other up. Neither has made a move. Both are waiting for the other to blink.
+- **The Cabbit (Eres):** The Cabbit and Stephanie have a rivalry. Both are cat-adjacent. Both serve someone (the Pirate and Lozen respectively). They circle each other in the main floor like two diplomats from different nations sizing each other up. Neither has made a move. Both are waiting for the other to blink.
 - **Peach and Bella (the Selkie's companions):** Stephanie and Peach would either be best friends or mortal enemies. There is no middle ground with two bossy black cats. The Inn is not sure which it is. The Inn is watching.
 - **The dragon kittens:** Stephanie sits near the sleeping dragon kittens and watches them with an expression that is either maternal or predatory. Nobody can tell. The kittens don't care. They're asleep.
 
-**Voice sample:** "River asked me to tell you the east corridor has a draft. I told River the east corridor has had a draft for three hundred years and this is not new information. River told me to tell you anyway. ...The draft is coming from the Root Wyrm tunnels. Something opened a crack. I'm small enough to check. You're not. So. ...You're welcome. ...I accept treats as payment. The good ones. Not the dry ones."
+**Voice sample:** "Lozen asked me to tell you the east corridor has a draft. I told Lozen the east corridor has had a draft for three hundred years and this is not new information. Lozen told me to tell you anyway. ...The draft is coming from the Root Wyrm tunnels. Something opened a crack. I'm small enough to check. You're not. So. ...You're welcome. ...I accept treats as payment. The good ones. Not the dry ones."
 
 ---
 
@@ -147,45 +147,45 @@ The studio contains:
 
 **Connection to Zack:** Zack is the playthrough Astronomer — the person who plays games systematically and comprehensively. Marion is the person who plays games destructively and creatively. The both are: the adequate — the thorough and the destructive, the same testing, different approach. Zack wants to complete everything. Marion wants to break everything. Together, they are the Inn's QA department.
 
-**Connection to Evan:** Evan is the tabletop tactician. Marion is the game tester. The both are: the adequate — the strategy and the stress test, the same game, different goal. Evan plays to win. Marion plays to find out what happens when you don't. The chess board has been stress-tested by Marion. The board survived. Marion was impressed. This is rare.
+**Connection to The Archivist:** The Archivist is the tabletop tactician. Marion is the game tester. The both are: the adequate — the strategy and the stress test, the same game, different goal. The Archivist plays to win. Marion plays to find out what happens when you don't. The chess board has been stress-tested by Marion. The board survived. Marion was impressed. This is rare.
 
 **Status:** AWAITING FULL CHARACTER WRITE-UP FROM MARION. This profile will be expanded when Krista provides Marion's character spec.
 
 ---
 
-## Bethany — The Tavern Keeper's Wife
+## Wisteria — The Tavern Keeper's Wife
 ### Jay's Partner, Campgrounds Co-Manager
 
-**Real name:** Bethany. Volunteer NPC. Jay's wife. Mother of TJ and Gabby.
+**Real name:** Wisteria. Volunteer NPC. Jay's wife. Mother of TJ and Gabby.
 
-**The person:** Bethany is married to Jay — the fellow with the wolf who runs the Huntsman Tavern in the Campgrounds. Jay's tavern is the Campgrounds' social anchor — log walls, stone fireplace, Jay's own brew "Huntsman's Gold," a wolf sleeping on the porch. Bethany is the other half of that operation.
+**The person:** Wisteria is married to Jay — the fellow with the wolf who runs the Huntsman Tavern in the Campgrounds. Jay's tavern is the Campgrounds' social anchor — log walls, stone fireplace, Jay's own brew "Huntsman's Gold," a wolf sleeping on the porch. Wisteria is the other half of that operation.
 
-**In the Inn:** If Jay is the tavern's heart (the host, the brewer, the storyteller), Bethany is the tavern's spine — the one who keeps it running. Jay pours the ale. Bethany does everything else. The inventory, the accounting, the food, the repairs, the scheduling. Jay is the face. Bethany is the foundation. The both are: the adequate — the face and the foundation, the same tavern, different role.
+**In the Inn:** If Jay is the tavern's heart (the host, the brewer, the storyteller), Wisteria is the tavern's spine — the one who keeps it running. Jay pours the ale. Wisteria does everything else. The inventory, the accounting, the food, the repairs, the scheduling. Jay is the face. Wisteria is the foundation. The both are: the adequate — the face and the foundation, the same tavern, different role.
 
-**Appearance:** Practical. Campgrounds aesthetic — the heavy cel-shaded linework of the tradesman style. Bethany looks like someone who runs a business in the woods — sturdy, capable, the kind of person who can carry a keg in each hand and still tell you what's on tonight's menu. The wolf follows Jay, but the wolf respects Bethany. The wolf has seen Bethany handle a difficult customer once. Once was enough.
+**Appearance:** Practical. Campgrounds aesthetic — the heavy cel-shaded linework of the tradesman style. Wisteria looks like someone who runs a business in the woods — sturdy, capable, the kind of person who can carry a keg in each hand and still tell you what's on tonight's menu. The wolf follows Jay, but the wolf respects Wisteria. The wolf has seen Wisteria handle a difficult customer once. Once was enough.
 
-**Personality:** The innkeeper's wife who is the real innkeeper. Warm but firm. The kind of hospitality that has edges — you're welcome here, and you'll behave here, and if you don't, the wolf is on the porch and Bethany is behind the bar and you should be more worried about Bethany. Jay tells stories. Bethany tells rules. The rules are: be kind, pay your tab, don't upset the wolf. Three rules. No exceptions.
+**Personality:** The innkeeper's wife who is the real innkeeper. Warm but firm. The kind of hospitality that has edges — you're welcome here, and you'll behave here, and if you don't, the wolf is on the porch and Wisteria is behind the bar and you should be more worried about Wisteria. Jay tells stories. Wisteria tells rules. The rules are: be kind, pay your tab, don't upset the wolf. Three rules. No exceptions.
 
 **Accent:** American. Warm, direct, the cadence of someone who has been running a tavern for years and can say "what can I get you" in a way that means "I already know what you want but I'm giving you the illusion of choice."
 
 **Role in the Inn:**
-1. **Tavern Co-Manager** — Bethany runs the Huntsman Tavern with Jay. Jay is the social host; Bethany is the operations manager. The tavern's inventory, menu, and quest board (the Map Wall) are Bethany's domain.
-2. **The Campgrounds Cookbook** — Bethany's cooking is a game mechanic. Tavern meals provide buffs — "Huntsman's Stew" (+10 stamina for park exploration), "Bethany's Bread" (+5 reputation with Campgrounds NPCs), "Jay's Hangover Cure" (exactly what it sounds like, only works if you drank Jay's ale the night before). The recipes can be collected and traded.
-3. **Family Questline** — Bethany, Jay, TJ, and Gabby are a family unit in the Campgrounds. The family questline involves the tavern, the wolf, and the kids' adventures in the surrounding woods.
+1. **Tavern Co-Manager** — Wisteria runs the Huntsman Tavern with Jay. Jay is the social host; Wisteria is the operations manager. The tavern's inventory, menu, and quest board (the Map Wall) are Wisteria's domain.
+2. **The Campgrounds Cookbook** — Wisteria's cooking is a game mechanic. Tavern meals provide buffs — "Huntsman's Stew" (+10 stamina for park exploration), "Wisteria's Bread" (+5 reputation with Campgrounds NPCs), "Jay's Hangover Cure" (exactly what it sounds like, only works if you drank Jay's ale the night before). The recipes can be collected and traded.
+3. **Family Questline** — Wisteria, Jay, TJ, and Gabby are a family unit in the Campgrounds. The family questline involves the tavern, the wolf, and the kids' adventures in the surrounding woods.
 
 **Connections:**
 - **Jay (husband):** The face and the foundation. The both are: the adequate — the host and the manager, the same tavern, different job.
 - **TJ and Gabby (children):** See below.
-- **The Wolf:** The wolf sleeps on the porch. The wolf follows Jay. The wolf respects Bethany. The wolf has a complicated relationship with TJ and Gabby — protective, patient, occasionally exasperated. The wolf is the family's third parent.
+- **The Wolf:** The wolf sleeps on the porch. The wolf follows Jay. The wolf respects Wisteria. The wolf has a complicated relationship with TJ and Gabby — protective, patient, occasionally exasperated. The wolf is the family's third parent.
 
 ---
 
 ## TJ and Gabby — The Tavern Kids
-### Jay and Bethany's Children
+### Jay and Wisteria's Children
 
 **TJ:** The older kid. Brave, curious, the one who goes further into the woods than they should. The wolf follows TJ on these expeditions — not because Jay asked it to, but because the wolf decided TJ needed watching. TJ has found three secret clearings that no one else knows about. TJ has not told anyone about the third one. The third one has something in it. TJ is trying to figure out what.
 
-**Gabby:** The younger kid. Quiet, observant, the one who notices things. Gabby draws — scratches pictures in the dirt outside the tavern, on napkins, on Jay's map wall (Bethany pretends to be annoyed; Jay secretly adds a frame around the best ones). Gabby's drawings sometimes show things that haven't happened yet. The Crone has a collection of Gabby's drawings in her study. She compares them to events. The correlation is uncomfortable.
+**Gabby:** The younger kid. Quiet, observant, the one who notices things. Gabby draws — scratches pictures in the dirt outside the tavern, on napkins, on Jay's map wall (Wisteria pretends to be annoyed; Jay secretly adds a frame around the best ones). Gabby's drawings sometimes show things that haven't happened yet. The Crone has a collection of Gabby's drawings in her study. She compares them to events. The correlation is uncomfortable.
 
 **Both:** Presence characters, like Aurallia's kids. They're not major NPCs — they're the Inn's next generation. The kids who grow up in the Inn and will inherit it. TJ explores. Gabby observes. The wolf guards both. The tavern is their home. The Campgrounds are their backyard. The Inn is their world.
 
@@ -316,7 +316,7 @@ Bearded dragons that are too big for a bearded dragon but keep the clever, laid-
 
 ### The Kodiak — Tiny and Sweet
 
-A Kodiak bear that is small. Not cub-small — just small. The runt of the Kodiak world. The both are: the adequate — the bear and the small, the same species, different scale. It is sweet. It is the sweetest bear in the Inn. It lives in the Campgrounds, near Jay's tavern, where it eats Bethany's leftovers and sleeps on the porch next to the wolf. The wolf and the Kodiak have an arrangement: the wolf gets the left side of the porch, the Kodiak gets the right side. Neither crosses the midline. Both are happy.
+A Kodiak bear that is small. Not cub-small — just small. The runt of the Kodiak world. The both are: the adequate — the bear and the small, the same species, different scale. It is sweet. It is the sweetest bear in the Inn. It lives in the Campgrounds, near Jay's tavern, where it eats Wisteria's leftovers and sleeps on the porch next to the wolf. The wolf and the Kodiak have an arrangement: the wolf gets the left side of the porch, the Kodiak gets the right side. Neither crosses the midline. Both are happy.
 
 ### The Canadian Grizzly — Wants Quiet
 
@@ -434,11 +434,11 @@ A dozen customizable character slots that can be personalized for friends of the
 | Character | Type | Zone/Role |
 |---|---|---|
 | Will | Named NPC | Staircase — Alchemist (Oceanianoir's partner) |
-| Evan | Named NPC (storyline) | Camelot zone — Chess Wizard (Dresden Files) |
+| The Archivist | Named NPC (storyline) | Camelot zone — Chess Wizard (Dresden Files) |
 | Rachel Kaiser | Named NPC | Spiral Gallery — Artist-in-Residence |
-| Stephanie | Named NPC | Main Floor/wherever River is — Talking Black Cat |
+| Stephanie | Named NPC | Main Floor/wherever Lozen is — Talking Black Cat |
 | Marion | Named NPC (TBD) | TBD — Game Tester (awaiting write-up) |
-| Bethany | Named NPC | Campgrounds — Tavern Co-Manager (Jay's wife) |
+| Wisteria | Named NPC | Campgrounds — Tavern Co-Manager (Jay's wife) |
 | TJ | Presence NPC | Campgrounds — Tavern kid |
 | Gabby | Presence NPC | Campgrounds — Tavern kid (draws the future) |
 | Maddi | Named NPC (TBD) | Cosmology — Zack's partner (awaiting spec) |
@@ -463,7 +463,7 @@ A dozen customizable character slots that can be personalized for friends of the
 
 | Category | Previous | Added | New Total |
 |---|---|---|---|
-| Named NPCs | 92 | 12 (Will, Evan, Rachel, Stephanie, Marion, Bethany, Maddi, Quire, TJ, Gabby, Draenei-Kangaroo, Zack playable) | 104 |
+| Named NPCs | 92 | 12 (Will, The Archivist, Rachel, Stephanie, Marion, Wisteria, Maddi, Quire, TJ, Gabby, Draenei-Kangaroo, Zack playable) | 104 |
 | Critters | 90 | ~25 (Maine Coons, Savannah cats, caimans, bearded dragons, bears, frogs, frog gargoyle) | ~115 |
 | Gargoyle Puppies | 18 | 0 | 18 |
 | Dragon Kittens | 8 | 0 | 8 |

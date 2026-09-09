@@ -87,7 +87,7 @@ His alcove in the Modern Day Legends nook (when he's not at the tavern):
 
 ### The Real Person Beneath the Class
 
-The Bard Blowhard is William R. Barton Jr. — "Bart." Eleven-time All-American. National AAU Champion. World Record holder in butterfly and Individual Medley. Elite diver. Trained dolphins for the Flipper TV show. Knew Johnny Weissmuller. Coached at Florida State, Cornell, Duke, Mississauga Aquatic Club, and founded Coastal Bend Swimming in Corpus Christi. Coached Olympians and National Champions. A Renaissance man — books, art, gadgets. Took equal pride in kids improving as in champions setting records. Wife: Inta. Daughters: Andra and Krista. Grandchild: Liebe. Passed September 28, 2023.
+The Bard Blowhard is William R. Barton Jr. — "Bart." Eleven-time All-American. National AAU Champion. World Record holder in butterfly and Individual Medley. Elite diver. Trained dolphins for the Flipper TV show. Knew Johnny Weissmuller. Coached at Florida State, Cornell, Duke, Mississauga Aquatic Club, and founded Coastal Bend Swimming in Corpus Christi. Coached Olympians and National Champions. A Renaissance man — books, art, gadgets. Took equal pride in kids improving as in champions setting records. Wife: Inta. Daughters: Katya and Krista. Grandchild: Liebe. Passed September 28, 2023.
 
 The Bard Blowhard carries all of this. The coaching instinct. The belief that showing up matters more than winning. The Renaissance-man curiosity. The devotion to one woman for sixty-plus years. The voice that fills every room because it was built to carry across swimming pools.
 

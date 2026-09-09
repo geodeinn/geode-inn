@@ -30,8 +30,8 @@ Base URL prefix: `https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/
 | The Host | `the_host_v2.png` |
 | Death (The Guest) | `the_guest_death_v2.png` |
 | The Pirate (50 BPM heartbeat) | `the_pirate_v2.png` |
-| The Siren (Andra — truth singer) | `the_siren_v2.png` |
-| River Sentinel | `the_sentinel_river.png` (also `c1c911639_sentinel_concept.png`) |
+| The Siren (Katya — truth singer) | `the_siren_v2.png` |
+| Lozen Sentinel | `the_sentinel_river.png` (also `c1c911639_sentinel_concept.png`) |
 | Dragon Mascot (Toothless-inspired heraldic dragon) | `dragon_mascot.png` |
 | Six Gargoyles (6-unit sentinel system) | `six_gargoyles.png` |
 | Huginn & Muninn (Odin's ravens) | `huginn_muninn.png` |
@@ -48,7 +48,7 @@ Base URL prefix: `https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/
 | Unseelie Fae (Winter Court) | `2_unseelie_fae_winter_court.png` |
 | Seelie King | `seelie_king_v2.png` |
 | Seelie Queen | `seelie_queen_v2.png` |
-| Jareth (Unseelie King) | `jareth_unseelie_king_v3.png` |
+| Malachi (Unseelie King) | `jareth_unseelie_king_v3.png` |
 | Goblin Merchant | `c04a8977e_4_goblin_merchant.png` |
 | Troll Gatekeeper | `5d96b3602_5_troll_gatekeeper.png` |
 | Dwarf Blacksmith (Thorin-inspired) | `683caef79_6_dwarf_blacksmith_thorin-inspired.png` |
@@ -114,7 +114,7 @@ Base URL prefix: `https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/
 ---
 
 ## REMAINING UPLOADS (Future Batches)
-- Current session characters: Speter Adams (chameleon), Jay (tavern keeper), Solstara (jeweler), Scarlett, Clockwork Skies crew, Freyr & Freyja, Aurallia, Bramble, and more
+- Current session characters: Speter Adams (chameleon), Jay (tavern keeper), Luna (jeweler), Scarlett, Clockwork Skies crew, Freyr & Freyja, Aurallia, Bramble, and more
 - Zone/environment concept art (460+ images)
 - Celtic bead frame components
 - Stone bead crop images (160 circular PNGs)

@@ -11,7 +11,7 @@ that defines how the character speaks, their rhythm, tone, and emotional registe
 | The Allfather | James Earl Jones | Cosmology | Deep, resonant, each word carries the weight of myth. Speaks in declarations. |
 | Colorado Plateau NPC | Sam Elliott | Colorado Plateau | Desert wisdom. Long pauses. Mustache gravitas. |
 | Peru NPC | Edward James Olmos | Peru | Patient, ancient knowledge. Speaks like stone remembering. |
-| Bethany | Katey Sagal | Tavern | Warm, practical, the kind of voice that carries over a crowd. |
+| Wisteria | Katey Sagal | Tavern | Warm, practical, the kind of voice that carries over a crowd. |
 | Undercity NPC | Lauren Bacall | Undercity | Deep, resonant. Knows what's underneath. |
 | Garden NPC | Audrey Hepburn | Garden | Nurturing, elegant. Everything grows. |
 | Archive NPC | Rex Harrison | Archive | Precise, exasperated by disorder. Filed where? |
@@ -25,7 +25,7 @@ that defines how the character speaks, their rhythm, tone, and emotional registe
 | Beverley | Anne Robinson cadence, Australian accent | Clipped, dismissive librarian. Two-thirds human height. |
 | Joe | Tom Ellis Lucifer cadence | Smooth, amused, self-aware. |
 | The Teacher | Kathy Bates (3 modes) | Warm (FGT), Cold (Misery), Horror (AHS — 3 seconds, rare). Canadian accent. |
-| Brim | Witchy mischief | Cackling under the surface. |
+| Madame Mimm | Witchy mischief | Cackling under the surface. |
 | Monsieur Sentient | Dry French accent, philosophical | Existential pipe. Opinionated. |
 | The Wanderer (Odin) | Warm, weathered traveler | Easy smile, heavy eyes. |
 | The Owl | Silent presence | Speaks rarely, always significant. |
@@ -37,13 +37,13 @@ that defines how the character speaks, their rhythm, tone, and emotional registe
 | Tumble | No words — a single chime | Living crystal note of the Song of Making. |
 | Brindle (Brownie) | Frazzled, high-pitched, rushed | Always losing tools. |
 | Kathy | Irish Druid Dryad | Rooted, ancient, speaks for the trees. |
-| Evan | Chess wizard | Measured, strategic, slightly amused. |
+| The Archivist | Chess wizard | Measured, strategic, slightly amused. |
 | Elora Nightbloom | Illusion-based charm | Warm but always performing slightly. |
 | Stephanie | Sardonic cat | Imperious, lazy, devastatingly observant. |
 | Rachel Kaiser | Artist intensity | Focused, generous, sees the world as potential canvases. |
 | Quire | Lovecraftian scholar | Hushed, careful, always looking over his shoulder. |
 | Zack | Astronomer | Dreamy, precise, speaks in coordinates and wonder. |
 | Will | Ocean-worn | Deep, patient, shaped by pressure. |
-| River (Sentinel) | Guard authority | Calm, absolute, the voice that stops a room. |
+| Lozen (Sentinel) | Guard authority | Calm, absolute, the voice that stops a room. |
 | The Bog Fairy Golem | Bayou earth voice | Low, organic, made of the land itself. |
 | Eres | Cabbie brevity | Economical, warm, three words or fewer. |

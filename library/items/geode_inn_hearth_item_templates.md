@@ -243,7 +243,7 @@ The Hearth teaches by warmth. The player builds for comfort, then for community.
 ---
 
 ## Open Zone Templates (Next Priorities)
-1. **Water Zone** — Andra's cove (gothic anime, dark water, bioluminescence)
+1. **Water Zone** — Katya's cove (gothic anime, dark water, bioluminescence)
 2. **Cosmology / Upstairs** — the sky gods' domain (no-outline, starlight)
 3. **Catacombs / Downstairs** — ancient civilizations (sharp angular, bone and dust)
 4. **Staircase / Alchemy** — the transition space (evolving linework, ascending materials)

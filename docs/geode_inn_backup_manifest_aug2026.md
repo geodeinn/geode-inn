@@ -22,7 +22,7 @@
 3. **57db80a** — Volva spelling fix (no umlaut) + Futurama-style running gag: everyone calls her Volvo, she corrects them every time. The Duck is the only one who never got it wrong
 4. **04b7924** — Marijke fix: Volva is Norse seeress (seidr practitioner), not the car. Removed all car-brand metaphor
 5. **fc8601e** — Marijke redesign: The Volva Valkyrie. Mild-mannered Viking shaman, Brida from Last Kingdom styling, bone reader
-6. **8f67748** — Concept art Batch 2: 10 Inn staff NPCs drawn with regional root voices (Beverley, Teacher, Selkie, Norns, Host, Firekeeper, Catalyst, Reader, Oceanianoir, Katy, Mim, Monsieur Sentient, Fixer, Thorin, Marijke)
+6. **8f67748** — Concept art Batch 2: 10 Inn staff NPCs drawn with regional root voices (Beverley, Teacher, Selkie, Norns, Host, Firekeeper, Catalyst, Reader, Oceanianoir, Lichenblossom, Mim, Monsieur Sentient, Fixer, Thorin, Marijke)
 7. **4458ec6** — Design principle update: NPCs come FROM the 191 world map countries — accents are roots, not assignments
 8. **1c2a343** — Regional Voice Profiles: every NPC mapped to real-world accent of their cultural zone
 9. **966413d** — Idiom Atlas: 13 cultural expressions mapped to Inn characters. Whisper Layer throughline: five idioms form a skeleton key

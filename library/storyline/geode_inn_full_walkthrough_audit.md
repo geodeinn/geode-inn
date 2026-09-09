@@ -271,7 +271,7 @@ The ground level and heart of the Geode Inn. Anti-FOMO sanctuary. The default st
 | **The Crone** | Anthony Hopkins | Measurer and annotator; says "Adequate" (highest compliment) |
 | **The Catalyst** | Helena Bonham Carter | Mrs. Lovett-inspired bartender; grows an impossible garden on the Ent's bark |
 | **The Thrum** | Ben Whishaw | Silhouette-maker; Rosicrucian hum; renders inhabitants as silhouettes to show presence over status |
-| **Brim** | — | Krista's trickster shoulder angel; chaos agent; rides Magritte's pipe |
+| **Madame Mimm** | — | Krista's trickster shoulder angel; chaos agent; rides Magritte's pipe |
 | **Naut** | Gary Oldman / Geoffrey Rush | 4-foot squid-headed scholar; fireplace nook; hidden quest-giver for rare book retrieval |
 | **The Bard** | Krista's Dad (Bart) | Dwarf bard; room-filler; ADHD-pattern thinker; best friend of The Pirate |
 | **The Wanderer (Odin)** | — | Approachable traveler with chibi thieving ravens Huginn & Muninn |
@@ -374,14 +374,14 @@ A living city of the dead inside the sleeping giant's ribcage. Belladonna's doma
 | **Queen of Roots** | Robin Wright | Buttercup inversion; speaks with sleeping mountains via root-growth; keeper of redwoods |
 | **Queen of Words** | Teresa Palmer | Diana Bishop from A Discovery of Witches; scholar-witch; the woman at the desk IS the throne |
 
-### The Labyrinth (David Bowie's Jareth)
+### The Labyrinth (David Bowie's Malachi)
 5 zones: Outer Walls → Shifting Corridors → Escher Stairs → Masquerade → Castle
 - Built by Daedalus as a SANCTUARY (not a prison) for Asterion
-- Jareth is the Unseelie King — brother to the Seelie King; built the Labyrinth as a love letter/worry piece
+- Malachi is the Unseelie King — brother to the Seelie King; built the Labyrinth as a love letter/worry piece
 - The Goblin King who drinks at the Catalyst's bar and relaxes with the Host
 
 ### The Crete Labyrinth
-Daedalus built two labyrinths: one for Asterion (sanctuary), one for Jareth (love letter to his brother). Both are about the act of building something impossible for someone you love.
+Daedalus built two labyrinths: one for Asterion (sanctuary), one for Malachi (love letter to his brother). Both are about the act of building something impossible for someone you love.
 
 ---
 
@@ -463,7 +463,7 @@ The pre-frequency ground state — the raw, unorganized vibration that predates 
 The physical container of the Murmur. Found at the deepest point of the In-Between. When the player gathers all companion voices, the Egg opens to reveal: **the player IS the Murmur**. The observer. The selkie skin / jeweler's apron was the Egg's shell all along.
 
 ### The Einstein Burrito
-After the cosmic revelation, the Crone tries to measure the Egg and delivers her first joke in 42 cycles: "...It was shaped like a burrito." Brim scrambles the formula into beans, the Duck offers a stone side, Einstein's candle laughs. Comedy is a core cosmological pillar.
+After the cosmic revelation, the Crone tries to measure the Egg and delivers her first joke in 42 cycles: "...It was shaped like a burrito." Madame Mimm scrambles the formula into beans, the Duck offers a stone side, Einstein's candle laughs. Comedy is a core cosmological pillar.
 
 ### The Endgame Sequence
 Nyx's Silence → Astronomer's Calculation → Medusa freezes singing vines with gaze → Lithophone plays completed 44Hz Song → Silica resonance projects lullaby into the Moon → Sleeping Giants wake → Cabbit transforms into ship → Constant departs into the Void → New Game Plus (play as any character)
@@ -485,7 +485,7 @@ Every major system beats at 50 BPM. It is the Inn's resting heart rate.
 | **Artisan Thief** | Krista | Selkie (Sandman/Morpheus feminine) | Dive (water traversal); jeweler's apron IS selkie skin; "theft" = redistribution |
 | **Tinkering Weeaboo** | Krista's Kid | Changeling (shinigami archetype) | Annoyance meter (0-4); clockwork tinkering; eats pomegranates |
 | **Chameleon Druid** | Charles (husband) | Cillian Murphy + Cumberbatch | High versatility / low endurance; shifts beside kid during meltdowns |
-| **Sentinel** | River | Boxer physique | Boxing Iron Stance; presence aura; physical anchor |
+| **Sentinel** | Lozen | Boxer physique | Boxing Iron Stance; presence aura; physical anchor |
 | **Siren** | Krista's Sister | Lady Gaga | Voice-based power; dual cadence (outer cello / inner piano) |
 | **Pirate** | Brother-in-Law | Mandy Patinkin / Inigo | Bodhrán drummer; Harbor Master Effect |
 | **Bard** | Krista's Dad | — | Fool/warmth class; room-filler; ADHD-pattern thinker |
@@ -493,7 +493,7 @@ Every major system beats at 50 BPM. It is the Inn's resting heart rate.
 
 ### The Three-Note Chord
 The household's statistical improbability is a core structural element:
-- **River: Taurus / Roots** (the ground)
+- **Lozen: Taurus / Roots** (the ground)
 - **Krista & Charles: Libra / Trunk** (the balance)
 - **The Trio: INFJ / Canopy** (the growth)
 
@@ -577,7 +577,7 @@ The Inn's architecture and music respond to the presence of rare frequencies. Th
 - The Crone and Charon are both Anthony Hopkins — this is intentional ("same wood, different hands")
 - The Constant (Malkovich) and Klimt's aesthetic share the same actor representing cosmic order and geological record — same song, different octave
 - The Owl appears in both the Cosmology Level (as Lighthouse keeper) and the Main Floor (on Naut's desk) — this is consistent; the Owl is a wandering watcher
-- Jareth (David Bowie) is the Unseelie King AND the Labyrinth architect — both roles are consistent; he built the Labyrinth as a love letter to his brother, the Seelie King
+- Malachi (David Bowie) is the Unseelie King AND the Labyrinth architect — both roles are consistent; he built the Labyrinth as a love letter to his brother, the Seelie King
 - The Preseli Blue Stone serves double duty: reward for both Standing Stones (Tetris) and Raven's Angle Zone 7, and key to the Fae portal — this is consistent; both games are paths to the same key
 
 ---

@@ -71,7 +71,7 @@ A coinciding list of every created character, critter, creature, and item with v
 | 51 | Marijke | Meadery (z29) | ✅ Portrait | |
 | 52 | The Pirate | Water Zone (L8) / Campgrounds | ✅ Portrait | |
 | 53 | The Gardener (The Greenward) | Garden (z28) | ✅ Portrait | |
-| 54 | Brim (Brim) | Main Floor (L3) | ✅ Portrait | Formerly Brim |
+| 54 | Madame Mimm (Madame Mimm) | Main Floor (L3) | ✅ Portrait | Formerly Madame Mimm |
 | 55 | The Cook | Main Floor (L3) | ✅ Portrait | |
 | 56 | Erik (Norse Feast Host) | Norse Realms (z26) / Meadery | ✅ Portrait | |
 | 57 | The Wayfarer | Camelot (z20) / Norse Realms | ✅ Portrait | |
@@ -85,11 +85,11 @@ A coinciding list of every created character, critter, creature, and item with v
 | 65 | The Siren | Water Zone (L8) | ✅ Portrait | |
 | 66 | The Thrum (Whisper Layer) | Main Floor (L3) / All zones | ✅ Portrait | Archive-aware, no villain |
 | 67 | The Pulse Line | Main Floor (L3) / All zones | ✅ Portrait | UI element |
-| 68 | Lozen (The Sentinel / River) | Main Floor (L3) / Guard | ✅ Portrait | Former boxer, Golden Gloves, 10-part Sentinel's Vigil questline |
+| 68 | Lozen (The Sentinel / Lozen) | Main Floor (L3) / Guard | ✅ Portrait | Former boxer, Golden Gloves, 10-part Sentinel's Vigil questline |
 | 69 | Quire | Archive | ✅ Portrait | Lovecraftian scholar, restricted texts, hushed/careful |
 | 70 | Lark (Player Guide) | Main Floor (L3) | ✅ Portrait | Formerly Player Guide |
 | 71 | Jay (Voltaire vibe) | Campgrounds (L4) | ✅ Portrait | |
-| 72 | Solstara | Campgrounds (L4) | ✅ Portrait | Jeweler character |
+| 72 | Luna | Campgrounds (L4) | ✅ Portrait | Jeweler character |
 | 73 | Speter Adams | Main Floor (L3) | ✅ Portrait | |
 | 74 | Jakob | Main Floor (L3) | ✅ Portrait | |
 | 75 | Bramble | Cosmology (L1) | ✅ Portrait | |
@@ -357,7 +357,7 @@ Each shadow echo is the 84Hz petrified version of its living counterpart — the
 | # | Name | Type | Notes |
 |---|------|------|-------|
 | 298 | Vaulknut | Player/Bog Fairy Golem | Played by Krista, real-world builder of the Inn |
-| 299 | River (Lozen) | Player/The Sentinel | Real person, boxer/Golden Gloves, 10-part questline |
+| 299 | Lozen (Lozen) | Player/The Sentinel | Real person, boxer/Golden Gloves, 10-part questline |
 | 300 | Charles | Player/Chameleon Druid | Real person, shapeshifter character |
 | 301 | John Myers | Player | Real person, logs in as themselves — NOT the NPC Quire |
 
@@ -397,11 +397,11 @@ Each shadow echo is the 84Hz petrified version of its living counterpart — the
 
 ## NAMING CONVENTIONS (Confirmed Decisions)
 
-- Brim → **Brim**
+- Madame Mimm → **Madame Mimm**
 - Naut → **Naut**
 - Player Guide → **Lark**
 - John Myers → **Quire** (NPC) / John Myers (real player)
-- Brim → **Brim**
+- Madame Mimm → **Madame Mimm**
 - The Scholar → **Naut**
 - The Sentinel → **Lozen** (class title was "The Sentinel," character name is Lozen)
 - Unseelie King → **Malachi**

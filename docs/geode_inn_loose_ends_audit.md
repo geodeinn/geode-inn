@@ -117,7 +117,7 @@ The Geode Inn repository is 85-90% novel-ready. All major story arcs, character 
 20. geode_inn_character_homes.md — placeholder index
 
 ### B21-B23. Missing Voice/Backstory
-21. The Sentinel (River) — lacks regional voice/accent assignment
+21. The Sentinel (Lozen) — lacks regional voice/accent assignment
 22. Dread Pirate Roberts — lacks regional dialect details
 23. Aurallia's Children — family connections need full integration into Aurallia's profile
 

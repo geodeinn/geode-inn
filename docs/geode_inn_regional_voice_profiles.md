@@ -84,11 +84,11 @@ Every NPC whose origin connects to a real-world cultural zone speaks with the ac
 
 ---
 
-### Katy — Dutch (Van Gogh's Brabant)
+### Lichenblossom — Dutch (Van Gogh's Brabant)
 **Zone:** The Garden (Van Gogh layer)
-**Accent:** Southern Dutch — Brabant, specifically. Van Gogh was from Brabant, and Katy is the "Walking Van Gogh" — the plant necromancer whose garden is the Van Gogh zone. The Brabant accent is softer than the Amsterdam Dutch — rounder vowels, warmer, more musical. It's the Dutch that sounds like it's been outside in the sun.
-**Delivery:** Gentle, with the quiet intensity of someone who talks to plants more than people. Katy's voice has a nurturing quality — the "necromancy" in "plant necromancer" is care, not darkness. When Katy talks about dead plants coming back, it's with wonder, not power.
-**Key tell:** Katy hums. Not a melody — a sustained note, like testing the frequency of a plant. The hum is how Katy checks if a plant is alive, dying, or coming back. The Brabant accent sits inside the hum.
+**Accent:** Southern Dutch — Brabant, specifically. Van Gogh was from Brabant, and Lichenblossom is the "Walking Van Gogh" — the plant necromancer whose garden is the Van Gogh zone. The Brabant accent is softer than the Amsterdam Dutch — rounder vowels, warmer, more musical. It's the Dutch that sounds like it's been outside in the sun.
+**Delivery:** Gentle, with the quiet intensity of someone who talks to plants more than people. Lichenblossom's voice has a nurturing quality — the "necromancy" in "plant necromancer" is care, not darkness. When Lichenblossom talks about dead plants coming back, it's with wonder, not power.
+**Key tell:** Lichenblossom hums. Not a melody — a sustained note, like testing the frequency of a plant. The hum is how Lichenblossom checks if a plant is alive, dying, or coming back. The Brabant accent sits inside the hum.
 
 **Dialogue sample:** "[humming a sustained note, hand on a wilted flower] ...She's not dead. ...She's deciding. ...There's a difference, and the difference is patience. ...Watch. ...[the flower bud, impossibly, opens one petal] ...See? ...She decided to stay. ...Lekker. ...Sorry — that's Marijke's word. I've been spending too much time in the Mead Hall."
 
@@ -124,19 +124,19 @@ Every NPC whose origin connects to a real-world cultural zone speaks with the ac
 
 ---
 
-### Brim — Belgian
+### Madame Mimm — Belgian
 **Zone:** Magritte zone (surrealist pipe, transformations)
-**Accent:** Belgian French — not Parisian French, but the softer, slightly rounder French of Brussels. René Magritte was Belgian, and Brim's zone is Magritte-inspired. The Belgian French accent is subtly different from Parisian — less sharp, more understated, with a quality that's hard to place if you're not listening for it. Perfect for a character who is always not quite what she seems.
-**Delivery:** Playful, with the surrealist's deadpan delivery of impossible statements. Brim says things that shouldn't make sense and delivers them as if they're obvious. The Belgian accent makes the surreal feel matter-of-fact.
-**Key tell:** Brim says "non?" at the end of statements that aren't questions. It's not asking for confirmation — it's a challenge. "The pipe is not a pipe, non?" You can't tell if Brim is testing you or entertaining herself. The answer is both.
+**Accent:** Belgian French — not Parisian French, but the softer, slightly rounder French of Brussels. René Magritte was Belgian, and Madame Mimm's zone is Magritte-inspired. The Belgian French accent is subtly different from Parisian — less sharp, more understated, with a quality that's hard to place if you're not listening for it. Perfect for a character who is always not quite what she seems.
+**Delivery:** Playful, with the surrealist's deadpan delivery of impossible statements. Madame Mimm says things that shouldn't make sense and delivers them as if they're obvious. The Belgian accent makes the surreal feel matter-of-fact.
+**Key tell:** Madame Mimm says "non?" at the end of statements that aren't questions. It's not asking for confirmation — it's a challenge. "The pipe is not a pipe, non?" You can't tell if Madame Mimm is testing you or entertaining herself. The answer is both.
 
 **Dialogue sample:** "You're holding the pipe. ...It's not a pipe. ...Non? ...It's a pipe that knows it's not a pipe. ...That's different. ...A pipe that doesn't know is just a pipe. A pipe that knows is a... [gestures vaguely] ...conversation. ...Monsieur Sentient says hello. ...Non, Monsieur Sentient doesn't speak. ...Monsieur Sentient IS the speaking. ...There's a difference. ...Non?"
 
 ---
 
 ### Monsieur Sentient — Belgian French (non-verbal)
-**Zone:** Magritte zone (with Brim)
-**Accent:** None — Monsieur Sentient doesn't speak. Monsieur Sentient IS the speech. The pipe communicates through transformation, through the shapes it takes, through the steam that forms letters and dissolves them. If Monsieur Sentient had a voice, it would be Belgian French — the same soft, understated quality as Brim's. But Monsieur Sentient's "accent" is visual, not vocal. The pipe's "dialogue" is the gap between what it is and what it isn't, rendered in steam.
+**Zone:** Magritte zone (with Madame Mimm)
+**Accent:** None — Monsieur Sentient doesn't speak. Monsieur Sentient IS the speech. The pipe communicates through transformation, through the shapes it takes, through the steam that forms letters and dissolves them. If Monsieur Sentient had a voice, it would be Belgian French — the same soft, understated quality as Madame Mimm's. But Monsieur Sentient's "accent" is visual, not vocal. The pipe's "dialogue" is the gap between what it is and what it isn't, rendered in steam.
 
 **"Dialogue" sample:** *[The pipe sits on the table. You look at it. It is a pipe. You look away. You look back. It is a key. You look away. You look back. It is a pipe again. The steam forms a question mark, then dissolves. You have been answered.]*
 
@@ -208,7 +208,7 @@ The result: a player walking through the Inn hears 191 countries' worth of voice
 
 ## Design Principle: Roots, Not Costumes
 
-These accents are not assigned TO the characters. These accents ARE the characters. The NPCs come from the real-world regions on the world map — they are FROM those countries. The Selkie grew up on the Irish coast. The Cartographer is from the Netherlands. The Norns walked out of Iceland. Brim is from Brussels. Oceanianoir is from Paris. Katy is from Brabant. Aurallia is from the Irish cave country. The Fixer is from Wales. Thorin and Marijke are from Scandinavia and the Low Countries.
+These accents are not assigned TO the characters. These accents ARE the characters. The NPCs come from the real-world regions on the world map — they are FROM those countries. The Selkie grew up on the Irish coast. The Cartographer is from the Netherlands. The Norns walked out of Iceland. Madame Mimm is from Brussels. Oceanianoir is from Paris. Lichenblossom is from Brabant. Aurallia is from the Irish cave country. The Fixer is from Wales. Thorin and Marijke are from Scandinavia and the Low Countries.
 
 The Inn didn't assign them accents. The Inn collected them. The Inn is a gathering place — people came from everywhere, and they brought their voices with them. The 191-country world map isn't just a data layer of mythology pinned to locations. It's a map of where the Inn's residents are FROM. Every world map pin is a homeland. Every NPC walking the Inn's halls carries their homeland in their mouth.
 

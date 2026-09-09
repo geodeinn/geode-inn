@@ -69,7 +69,7 @@ The Pirate has always heard the Moon. Since the first night on the water, the Pi
 
 The Pirate started drumming to match it. 50 beats per minute. The Pirate didn't choose 50 BPM; 50 BPM chose the Pirate. The heartbeat was already there. The Pirate just gave it a voice.
 
-The Pirate never told anyone about the Moon. Not the Captain, not Persephone, not Andra. The Pirate's secret: the heartbeat wasn't the Pirate's. The heartbeat was the Moon's. The Pirate was just the instrument. The Moon was the musician.
+The Pirate never told anyone about the Moon. Not the Captain, not Persephone, not Katya. The Pirate's secret: the heartbeat wasn't the Pirate's. The heartbeat was the Moon's. The Pirate was just the instrument. The Moon was the musician.
 
 The Pirate's quest said: "It's not for me. It's for the sky." The truth: it's not for the sky either. It's for the Moon. The heartbeat rises from the Moon through the water to the Pirate's drum to the Arcana's gearwork to the Captain's bell. The chain: Moon → Water → Pirate → Arcana → Captain. The sea and the sky share a heartbeat because the Moon gives them both the same rhythm.
 

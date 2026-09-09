@@ -89,13 +89,13 @@ The Geode Inn boasts a rich roster of 60+ character designs—spanning chibi com
 | Eres the Cabbit     | Chibi Fae Beast       | Resonant Purr (AoE Wave)         | 50 BPM Heartbeat Aura              |
 | The Tinker          | Deep Inn Mechanic     | 42Hz Frequency Turret            | Overclocked Crafting               |
 | The Owl             | Canopy Sentinel       | Astral Talon & Blink Dash        | Night Vision (Reveals Hidden)      |
-| Bill the Platypus   | River Monotreme       | Venom Spur Strike                | Electroreception Radar             |
+| Bill the Platypus   | Lozen Monotreme       | Venom Spur Strike                | Electroreception Radar             |
 | Ceiling Gnome       | Gesso's Studio Spirit | Pigment Bomb                     | Sticky Palette Traps               |
 | Huginn & Muninn     | Odin's Twin Ravens    | Thought & Memory Projectiles     | Dual Orbital Flight                |
-| Andra the Siren     | Deep Water Entity     | Siren Sonar Wave                 | Amphibious Flow                    |
+| Katya the Siren     | Deep Water Entity     | Siren Sonar Wave                 | Amphibious Flow                    |
 | Jakob the Firekeeper| Hearth Protector      | Amber Ember Shield               | Hearthfire Aura                    |
 | Anubis              | Underworld Steward    | Scales of Judgment               | Weight of the Dead Execution       |
-| Solstara the Jeweler    | Master Artisan        | Prismatic Facet Laser            | Gemstone Refraction                |
+| Luna the Jeweler    | Master Artisan        | Prismatic Facet Laser            | Gemstone Refraction                |
 +---------------------+-----------------------+----------------------------------+------------------------------------+
 ```
 
@@ -148,7 +148,7 @@ ightarrow$ *Gesso's Masterpiece*.
 * **Evolution Catalyst:** Lapis Lazuli $
 ightarrow$ *Odin's Mindscape*.
 
-#### 7. Andra the Siren
+#### 7. Katya the Siren
 * **Description:** A majestic aquatic singer from the 7-Layer Deep Water Zone.
 * **Starting Weapon — Siren Sonar Wave:** Sends out cascading blue sonar arcs that confuse enemies, making them attack each other for 4 seconds.
 * **Passive — Amphibious Flow:** Gains +25% movement speed during 84Hz phases and regenerates health whenever passing through water or slime patches on the arena floor.
@@ -169,7 +169,7 @@ ightarrow$ *Everlasting Hearth Nova*.
 * **Evolution Catalyst:** Obsidian $
 ightarrow$ *Osiris's Absolute Ledger*.
 
-#### 10. Solstara the Jeweler
+#### 10. Luna the Jeweler
 * **Description:** The artisan who cuts and polishes the Inn's 168 cataloged gemstone species.
 * **Starting Weapon — Prismatic Facet Laser:** Fires a focused beam of light that refracts off collected stones, splitting into multi-colored target-seeking lasers.
 * **Passive — Gemstone Refraction:** All stone upgrade stat boosts are amplified by 15%, and chest pickups drop +1 additional stone tier.
@@ -203,7 +203,7 @@ The 30-minute ordeal of *The Long Night* is structured into five distinct 6-minu
 +---------+---------------+-------------------+--------------------+---------------------------------------------------+
 | 00-02   | Catacomb I    | 120 enemies/min   | 84Hz Dominant      | Low fog, torchlight flickering                    |
 | 02-05   | Catacomb II   | 250 enemies/min   | 42Hz Puzzle Shift  | Wall runes ignite, puzzle nodes spawn             |
-| 05:00   | BOSS I        | Charon Spawn      | Locked 84Hz        | River Styx floods arena border                    |
+| 05:00   | BOSS I        | Charon Spawn      | Locked 84Hz        | Lozen Styx floods arena border                    |
 | 05-08   | Water Deep I  | 380 enemies/min   | 84Hz Dominant      | Water level rises, currents push player           |
 | 08-10   | Water Deep II | 520 enemies/min   | 42Hz Puzzle Shift  | Bioluminescent algae illuminates puzzle paths      |
 | 10:00   | BOSS II       | The Morrigan      | Locked 84Hz        | Crow swarm obscures mini-map                      |
@@ -264,7 +264,7 @@ Every 5 waves (at the 5-minute, 10-minute, 15-minute, and 20-minute marks), the 
 +------+--------------------+--------------------------------------+--------------------------------------------------+
 | Wave | Boss Name          | Origin Zone                          | Key Mechanics & Phase Shifts                     |
 +------+--------------------+--------------------------------------+--------------------------------------------------+
-| W5   | Charon             | Catacombs / River Styx               | Obol Scythe Cleave & River Torrent Sweep         |
+| W5   | Charon             | Catacombs / Lozen Styx               | Obol Scythe Cleave & Lozen Torrent Sweep         |
 | W10  | The Morrigan       | Fae Wilds / Battle Canopy            | Phantom Raven Storm & Fate Thread Entrapment     |
 | W15  | The Sleeping Giant | Undercity / Deep Roots               | Tectonic Slam & Quake Frequency Pulses           |
 | W20  | Nyx                | Primordial Void / Night Realm        | Eclipse Spheres & Shadow Inversion Field         |
@@ -437,10 +437,10 @@ The Geode Inn is an adaptive, living environment powered by the **Whisper Layer*
 ### 9.1 Dynamic World Responses
 
 #### 1. Faction Affinity Shifts
-If a player repeatedly survives *The Long Night* using **Bill the Platypus**, the Whisper Layer registers high aquatic affinity. Returning to the main floor causes the Water Zone NPCs (Andra, the Deep Tide Keepers) to offer exclusive quests and refer to the player as *"The Hero of the Abyssal Night."*
+If a player repeatedly survives *The Long Night* using **Bill the Platypus**, the Whisper Layer registers high aquatic affinity. Returning to the main floor causes the Water Zone NPCs (Katya, the Deep Tide Keepers) to offer exclusive quests and refer to the player as *"The Hero of the Abyssal Night."*
 
 #### 2. Mineral Resonance Profile
-A player who consistently picks **Quartz** (Speed) and **Moonstone** (Crit) builds a *Celestial Velocity* profile. The Jeweler (Solstara) will display new dialogue:
+A player who consistently picks **Quartz** (Speed) and **Moonstone** (Crit) builds a *Celestial Velocity* profile. The Jeweler (Luna) will display new dialogue:
 > *"I felt your heartbeat in the arcade cabinet last night... swift as moonbeams on quartz. Here, take this faceted chime—it matches your vibration."*
 
 #### 3. Evolution of the Cosmology Ceiling Mural

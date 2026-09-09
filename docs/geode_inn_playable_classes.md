@@ -18,7 +18,7 @@ The family pets — Eres the Cabbit, the Duck (platypus), the Vessel (crested ge
 ---
 
 ### 1. THE SENTINEL
-**Inspired by:** River (Taurus/Roots, the three-note chord's foundation)
+**Inspired by:** Lozen (Taurus/Roots, the three-note chord's foundation)
 **Frequency:** ROOT (primary), STONE (secondary)
 **Role:** Tank / Protector / Guardian
 **Archetype:** The one who watches. The one who stays.
@@ -240,13 +240,13 @@ The final charm — the same for every class. The Philosopher's Stone is the Egg
 
 In the Inn's multiplayer mode, classes synergize through the household's real dynamics:
 
-- **The Sentinel + The Artisan Thief** (River + Krista): The Sentinel holds the ground while the Artisan Thief redistributes. The roots and the trunk. The Sentinel guards, the Thief crafts. The three-note chord's foundation and center.
+- **The Sentinel + The Artisan Thief** (Lozen + Krista): The Sentinel holds the ground while the Artisan Thief redistributes. The roots and the trunk. The Sentinel guards, the Thief crafts. The three-note chord's foundation and center.
 
 - **The Siren + The Pirate** (Sister + Sister's Husband): The Siren captivates, the Pirate strikes. The voice pins them, the rhythm finishes them. The married couple's combat dynamic — she holds attention, he delivers the blow.
 
 - **The Bard + Anyone** (The Bard + Family): The Bard provides information. Every class benefits from knowing what the opponent has. The Bard is the family member who knows everyone's business and makes everyone better for it.
 
-- **The Sentinel + The Siren** (River + Aunt): The Sentinel guards the Siren while the Siren performs. The autoimmune maze means the Siren needs protection. The Sentinel provides it. The roots guard the voice.
+- **The Sentinel + The Siren** (Lozen + Aunt): The Sentinel guards the Siren while the Siren performs. The autoimmune maze means the Siren needs protection. The Sentinel provides it. The roots guard the voice.
 
 - **The Artisan Thief + The Pirate** (Krista + Brother-in-law): The Thief redistributes, the Pirate moves. The Thief takes from the strong, the Pirate delivers to the weak. The selkie and the Dread Pirate — the wild justice of the sea, together.
 
