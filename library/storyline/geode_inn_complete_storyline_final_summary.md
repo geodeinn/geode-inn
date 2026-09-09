@@ -137,7 +137,7 @@ The Inn's mechanical/rhythmic level. The Arcana ship, the 50 BPM heartbeat, the 
 The Inn's social and economic hub. The Arcade, the Wanderer's quests, the growth-based Baby Dragon companion, the artisan market, the Modern Day Legends shelf.
 
 **Key Characters:**
-- **The Crone (Hopkins)** — Krista's mother. Archive keeper. Measures everything. "Adequate." Learns to listen to the Song. The Hopkins gaze — clear, seeing, the one unsoftened celebrity feature in Geode Inn art.
+- **The Ragana (Hopkins)** — Krista's mother. Archive keeper. Measures everything. "Adequate." Learns to listen to the Song. The Hopkins gaze — clear, seeing, the one unsoftened celebrity feature in Geode Inn art.
 - **The Catalyst (Helena Bonham Carter)** — Bar/garden. Grows portal arrows. Growth by WILL vs. The Greenward's growth by COMMUNION. Mrs. Lovett energy. The Spirit.
 - **Brim** — Inner chaos agent. Rides a Magritte pipe. Breaks formulas to reveal secret paths. Belladonna energy.
 - **The Thrum (Ben Whishaw)** — Translucent low-frequency entity. Teaches: essence precedes appearance, timing precedes rhythm.
@@ -176,7 +176,7 @@ Ascends in musical semitones from main floor to cosmology. Each step = one alche
 **The Three Stages:**
 - **Nigredo (Black)** — Socrates. Dissolution. Socratic questioning. Dissolve false assumptions.
 - **Albedo (White)** — Plato. Purification. Plato's Cave interactive mural. Shadows of archetypes.
-- **Rubedo (Red)** — Aristotle. Conjunction. Categorization. Intellectual reconciliation with the Crone.
+- **Rubedo (Red)** — Aristotle. Conjunction. Categorization. Intellectual reconciliation with the Ragana.
 
 **Staircase Residents:**
 - **The Retort** (Tesla's soul in female form) + **Bloop** (Schrödinger's cat)
@@ -196,7 +196,7 @@ Ascends in musical semitones from main floor to cosmology. Each step = one alche
 The Inn's archive layer. Where the Catacombs preserve what was.
 
 **Key Characters:**
-- **Charon (Hopkins)** — The Ferryman. Silence to the Crone's mind. The Hopkins gaze: stillness, weight. Obol stones for passage.
+- **Charon (Hopkins)** — The Ferryman. Silence to the Ragana's mind. The Hopkins gaze: stillness, weight. Obol stones for passage.
 - **Persephone** — The Tide Queen. Redesigned (no childlike scale). The 7-layer water cycle is Persephone's spatial cycle.
 - **Hades** — The Harbor of the dead.
 - **Hel (Angelina Jolie/Maleficent)** — Half living, half dead. Neutral guardian. Niflheim.
@@ -205,9 +205,9 @@ The Inn's archive layer. Where the Catacombs preserve what was.
 - **The Morrigan** — Phantom queen. Force of destiny.
 - **The Queen of Webs, Queen of Roots, Queen of Words** — The three queens of the deep.
 
-**The Crone's Archive** — The Crone (Krista's mom) with the Hopkins gaze. Precision. Measuring. Oil lamps and foxfire. Scarce light. Build by excavating.
+**The Ragana's Archive** — The Ragana (Krista's mom) with the Hopkins gaze. Precision. Measuring. Oil lamps and foxfire. Scarce light. Build by excavating.
 
-**The Tunnel Keeper** — Hoggle archetype. The physical explorer of the Catacombs. Contrasts with the Crone's archival precision.
+**The Tunnel Keeper** — Hoggle archetype. The physical explorer of the Catacombs. Contrasts with the Ragana's archival precision.
 
 **The Miskatonic Annex** — Naut the Scholar's domain. Rousseau aesthetic. Academic horror as scholarship.
 
@@ -463,7 +463,7 @@ A browsable interactive catalog of all 166 Geode Inn stones. Each stone plays it
 
 ### The Inner Circle
 - **The Firekeeper (Tim Curry)** — Permanent storyteller. The voice by the hearth.
-- **The Crone (Hopkins)** — Krista's mom. The archive keeper. The Hopkins gaze.
+- **The Ragana (Hopkins)** — Krista's mom. The archive keeper. The Hopkins gaze.
 - **Jay** — Tavern keeper. Former Marine. Voltaire-goth. Derpy wolf.
 - **Luna** — Jeweler. Zen energy. Renaissance Faire.
 
@@ -529,7 +529,7 @@ Every zone in the Geode Inn has a complete architectural template derived from a
 | Hearth | Firekeeper's Hearth | Alive (fire) | Construct | Build for others |
 | Water | Katya's Cove | Living (bioluminescence) | Shape + grow | Build with |
 | Cosmology | Allfather's Observatory | Celestial (stars/moon) | Expose | Build by watching |
-| Catacombs | Crone's Archive | Scarce (oil/foxfire) | Carve (excavate) | Build by excavating |
+| Catacombs | Ragana's Archive | Scarce (oil/foxfire) | Carve (excavate) | Build by excavating |
 | Staircase | Clockmaker's Workshop | Evolving (earth to light) | ALL methods in sequence | Build by transforming |
 | Fae Kingdom | The Threshold + Courts | Split (summer/winter) | Grow / Carve / Place | Build by choosing |
 | Lighthouse | Keeper's Chamber | Directed (the beam) | Maintain (the Vigil) | Build by holding |

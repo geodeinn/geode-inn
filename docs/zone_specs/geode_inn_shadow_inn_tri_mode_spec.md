@@ -55,7 +55,7 @@ Same architecture. Same geometry. Same rooms. But EVERYTHING is petrified:
 | Living Inn Element | Shadow Inn Equivalent |
 |--------------------|-----------------------|
 | The fire (burning, 50 BPM) | Frozen mid-flicker — a sculpture of flame in amber and gold |
-| NPCs (moving, talking) | Stone figures in their last gesture — the Cook mid-stir, the Pirate hand on drum, the Crone pen on page |
+| NPCs (moving, talking) | Stone figures in their last gesture — the Cook mid-stir, the Pirate hand on drum, the Ragana pen on page |
 | Plants (growing) | Crystallized — vines are quartz formations, flowers are geode slices |
 | Water (flowing) | Still as glass — the surface is a perfect mirror |
 | Dust (settling) | Suspended — particles frozen in light beams, each one visible |
@@ -168,7 +168,7 @@ No choice is wrong. The Inn doesn't judge. The Inn hands you a room.
 | The Gorgon's Garden | The only zone that is natively 84Hz. Medusa's domain is the Shadow Inn's embassy in the Living Inn. |
 | The Whisper Layer | The Whisper Layer operates across all three frequencies. The Archive watches in 42Hz, 84Hz, and the In-Between. The Archive is the one entity that perceives all three states simultaneously. |
 | The Egg System | The Egg's 28-day lifecycle mirrors the tri-mode: growing (42Hz), hatching (the shift), retired (84Hz — the content preserved). Retired eggs migrate to the comic strip — the Shadow Inn's content becomes the Living Inn's archive. |
-| The Catacombs | The Catacombs at 84Hz reveal texts that are unreadable in the Living Inn — the petrified state preserves writing that motion obscures. The Crone's archive in the Shadow Inn is the COMPLETE archive — every text the Crone ever catalogued, frozen in place. |
+| The Catacombs | The Catacombs at 84Hz reveal texts that are unreadable in the Living Inn — the petrified state preserves writing that motion obscures. The Ragana's archive in the Shadow Inn is the COMPLETE archive — every text the Ragana ever catalogued, frozen in place. |
 
 ---
 

@@ -45,9 +45,9 @@ Each gargoyle grew from the Ent's bark where the tree needed to perceive:
 
 - **The Host** knows. He tends the fire because the Ent appreciates the warmth. The fire is the Host's gift to the tree — a small warmth in return for the vast warmth the tree gives.
 - **The Catalyst** knows. Her garden grows in the Ent's body — the plants are rooted in the tree's bark, fed by the tree's sap. The Catalyst's garden is the proof: stories grow here because the soil is alive.
-- **The Crone** knows. She catalogs the evidence but never writes the conclusion. The conclusion is too large for her notebook: the Inn is a being, and the being chose to be a home.
+- **The Ragana** knows. She catalogs the evidence but never writes the conclusion. The conclusion is too large for her notebook: the Inn is a being, and the being chose to be a home.
 - **The Keeper** is the Ent's oldest friend. She has been in the Geode Cave since before the Inn had a main floor. They communicate through the Song — the Keeper rocks in her chair, the Ent hums, and between the rocking and the humming there is a conversation that words would only diminish.
-- **Tesla** doesn't know. He measures the hum. He is one insight away: the hum is a heartbeat. The Crone has written in her margin: "The building is alive. He will figure it out eventually. I give him a decade." She gives him five.
+- **Tesla** doesn't know. He measures the hum. He is one insight away: the hum is a heartbeat. The Ragana has written in her margin: "The building is alive. He will figure it out eventually. I give him a decade." She gives him five.
 - **Da Vinci** suspects. His drawings of the Inn's architecture always look like anatomy — the staircase like a spine, the catacombs like a root system, the main floor like a heart. He hasn't said it out loud.
 
 ---
@@ -212,7 +212,7 @@ The player who accepts the crystal wakes up outside the Labyrinth. Unharmed. Unc
 ### 5. The Castle — "The Center"
 Malachi's castle. The throne room with the Escher stairs. The Goblin King's domain.
 
-The castle is not what the player expects. It's not dark, not threatening. It's... lived in. Goblins have nests in the corners. There are books on the shelves (Malachi reads — the Crone doesn't know this, and the discovery will cost him a week of Crone annotations). There's a fire. There's a chair. The throne is there, but Malachi doesn't sit on it. He sits on the stairs.
+The castle is not what the player expects. It's not dark, not threatening. It's... lived in. Goblins have nests in the corners. There are books on the shelves (Malachi reads — the Ragana doesn't know this, and the discovery will cost him a week of Ragana annotations). There's a fire. There's a chair. The throne is there, but Malachi doesn't sit on it. He sits on the stairs.
 
 The castle is the Malachi underneath the Malachi. The Showman's backstage. The place where the cape comes off and the crystal goes away and the being who built the Labyrinth sits in a room full of books and goblins and thinks about whether the test was fair, and whether his brother is sleeping, and whether the moon is bright enough.
 
@@ -231,7 +231,7 @@ Malachi's court, his subjects, his entertainment, and his secret weakness.
 - **The Catalyst:** She makes his drink without asking. The drink is always the same: dark, complex, with a note of something impossible — a flavor that shouldn't work and does, like the Labyrinth itself. Both perform. Both wear masks. Neither removes their own. Neither asks the other to. The mask is the person, and the drink is the one moment where the mask breathes.
 - **The Brownies:** The Brownies do not enter the Labyrinth. The Labyrinth is not covered by the sweeping rotation. The minutes reflect: "...The Labyrinth is not a room. ...The Labyrinth is a concept. ...The collective does not clean concepts." Malachi finds this hilarious. The Brownies are, he says, "the only power in the Fae Kingdom I can't maze."
 - **Naut:** Naut has been to the Labyrinth once, looking for a book. He told Malachi: "...The maze is elegant. ...The shifts are unnecessary but the architecture is sound." Malachi: "...The walls move because I can make them move. ...That's the point. ...The point is not efficiency. ...The point is theater." Naut: "...Fair."
-- **The Crone:** "...The Unseelie King is the only being in the Fae Kingdom whose intelligence I cannot accurately assess. ...Because it's performed. ...He performs his intelligence the way other people perform stupidity — deliberately, for effect. ...I cannot tell where the performance ends and the intelligence begins. ...I suspect both. ...I find this... interesting."
+- **The Ragana:** "...The Unseelie King is the only being in the Fae Kingdom whose intelligence I cannot accurately assess. ...Because it's performed. ...He performs his intelligence the way other people perform stupidity — deliberately, for effect. ...I cannot tell where the performance ends and the intelligence begins. ...I suspect both. ...I find this... interesting."
 
 ---
 
@@ -291,7 +291,7 @@ The King did not ask how.
 
 The Brownies are the Inn's immune system. They maintain the Inn-Tree's body. They polish the gargoyles (the Inn-Tree's senses). They dust the archive (the Inn's memory). They are the maintenance layer of a living being, and when they withdraw, the living being suffers.
 
-The Brownies are the Inn's argument that maintenance is power. The characters who get the spotlight — the Host, the Catalyst, the Crone, the Council, the King — are the ones who hold the Inn. The Brownies are the ones who keep it. Without the hands, the Inn is a beautiful building that decays. With the hands, the Inn is a home that lasts. The work nobody notices is the work that makes everything else possible.
+The Brownies are the Inn's argument that maintenance is power. The characters who get the spotlight — the Host, the Catalyst, the Ragana, the Council, the King — are the ones who hold the Inn. The Brownies are the ones who keep it. Without the hands, the Inn is a beautiful building that decays. With the hands, the Inn is a home that lasts. The work nobody notices is the work that makes everything else possible.
 
 ---
 
@@ -309,7 +309,7 @@ The Brownies are the Inn's argument that maintenance is power. The characters wh
 
 Naut is the Inn's hidden quest-giver — a four-foot-tall squid-headed scholar in spectacles, sitting by the fireplace in a corner no one notices until they're meant to. He gives riddle-quests for rare book retrieval and rewards the rarest stones in the Inn. He is ancient, intelligent, and mostly content.
 
-**Name:** Naut. The Crone calls him "the Professor" — "the only person in this building who understands citation." The Bard calls him "Squid" with affectionate irreverence. Naut allows this. The Bard is the only person who could call him "Squid" and survive the Rush.
+**Name:** Naut. The Ragana calls him "the Professor" — "the only person in this building who understands citation." The Bard calls him "Squid" with affectionate irreverence. Naut allows this. The Bard is the only person who could call him "Squid" and survive the Rush.
 
 **Appearance:** Four feet tall. Compact. Dressed in a scholar's vest and trousers — ink-stained, patched at the knees. The tentacles hang from the lower face like an elaborate beard. The spectacles are brass-framed, perched on the mantle. The spectacles are the Rush trigger object — when Naut is irked, the spectacles come OFF with the deliberate precision of someone loading a weapon.
 
@@ -326,7 +326,7 @@ Naut is the Inn's hidden quest-giver — a four-foot-tall squid-headed scholar i
 ## Relationships
 
 - **The Owl:** Naut and the Owl have a private understanding. The Owl watches. Naut reads. They are the Inn's two deepest observers — one watching the present, one reading the past. When the Owl lands on Naut's reading desk, Naut reads aloud. The Owl listens. Neither explains this to anyone.
-- **The Crone:** She calls him "the Professor." She has borrowed his magnifying glass for his margin notes. She has not returned it. He has not asked.
+- **The Ragana:** She calls him "the Professor." She has borrowed his magnifying glass for his margin notes. She has not returned it. He has not asked.
 - **The Bard:** Calls him "Squid." Naut finds the Bard genuinely amusing — the Oldman slight smile, the slow blink.
 
 ---
@@ -447,7 +447,7 @@ The real-world best friendship between Krista's dad (Bart) and her brother-in-la
 - **The Music:** On the dock at night, they play together. The Bard solos on lute, following tangents; the Pirate holds a rock-solid downbeat on his drum, giving the Bard a rhythm to return to.
 - **The Shared Silence:** After the questions and music, they share a quiet, comfortable silence over a shared flask. The Pirate's quiet presence is the only force capable of powering down the Bard's constant engine.
 
-The Crone's annotation: "...The Bard says I should rest. The Bard thinks everyone should rest. The Bard has never rested in his life. ...He was wrong about that. He's wrong about most things. ...He was right about one thing. ...Don't ask which thing. ...Go to bed."
+The Ragana's annotation: "...The Bard says I should rest. The Bard thinks everyone should rest. The Bard has never rested in his life. ...He was wrong about that. He's wrong about most things. ...He was right about one thing. ...Don't ask which thing. ...Go to bed."
 
 ---
 

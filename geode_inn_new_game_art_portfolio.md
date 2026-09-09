@@ -101,7 +101,7 @@ Foundational visual DNA: **Klimt** (stillness, architecture, gold structure) + *
 
 ### Face Cards:
 - Kings: Full Presence characters (Odin Allfather, Seelie Queen, Morrigan, Naut)
-- Queens: Full Presence characters (Unseelie Queen, Freyja, The Crone, Owl)
+- Queens: Full Presence characters (Unseelie Queen, Freyja, The Ragana, Owl)
 - Jacks: Key NPCs (Wanderer Odin, Beverley, Tim Curry Firekeeper, Scarlett)
 - Jokers: The Dragon mascot and the Fizgigs
 

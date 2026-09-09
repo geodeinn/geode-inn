@@ -21,7 +21,7 @@ In the Inn, he is "Charles" — not "the Druid," not "the Chameleon," not a titl
 
 The Bard calls him "Charlie" with the kind of affectionate irreverence that means the Bard has decided Charles is family. Charles allows this. The Murphy economy: allowing a thing costs less than refusing it, and the Bard's warmth is, in its own chaotic way, restful.
 
-The Crone calls him "the Druid" in her Hopkins voice — clinical, precise, the designation of someone she respects but doesn't fully understand. She has annotated his transformations in her notebook. The annotations are the longest entries in the book. She doesn't discuss them. The Druid is the one character the Crone cannot fully catalog, because his nature is change, and change resists cataloging. This frustrates her. She finds the frustration... interesting.
+The Ragana calls him "the Druid" in her Hopkins voice — clinical, precise, the designation of someone she respects but doesn't fully understand. She has annotated his transformations in her notebook. The annotations are the longest entries in the book. She doesn't discuss them. The Druid is the one character the Ragana cannot fully catalog, because his nature is change, and change resists cataloging. This frustrates her. She finds the frustration... interesting.
 
 ### Appearance
 
@@ -105,10 +105,10 @@ The Catalyst brings Charles tea in the garden. She doesn't ask how he is. She re
 
 Charles drinks. The tea is warm. The garden grows. Neither of them discusses what they parallel. The parallel is the discussion. It has always been the discussion.
 
-**The Crone (Charles's mother-in-law, in the Festival questline):**
-The Crone and Charles have a complicated relationship. She is the mother of his wife. He is the man who married her daughter. The Crone — Hopkins precision, MacLaine force — does not easily give her daughter's husband a passing grade. But she has annotated his transformations. She has studied his versatility. She has noted, in the margins, the thing he doesn't say: that the reserve doesn't refill to full anymore.
+**The Ragana (Charles's mother-in-law, in the Festival questline):**
+The Ragana and Charles have a complicated relationship. She is the mother of his wife. He is the man who married her daughter. The Ragana — Hopkins precision, MacLaine force — does not easily give her daughter's husband a passing grade. But she has annotated his transformations. She has studied his versatility. She has noted, in the margins, the thing he doesn't say: that the reserve doesn't refill to full anymore.
 
-The Crone has never said this out loud. She has written it. The writing is in the margin, next to the longest entry in her notebook, in handwriting that is smaller than her usual script — as if she was trying to make the observation small enough to be bearable.
+The Ragana has never said this out loud. She has written it. The writing is in the margin, next to the longest entry in her notebook, in handwriting that is smaller than her usual script — as if she was trying to make the observation small enough to be bearable.
 
 "...The Druid's reserve is not replenishing at standard rate. ...I have noted the decline across three lunar cycles. ...The transformations are as precise as ever. ...The recovery is not. ...He does not discuss it. ...I do not ask. ...We have an arrangement: he transforms, I observe, and neither of us says what we both know. ...This is not avoidance. ...This is respect. ...The man knows what is happening to him. ...He does not need me to confirm it. ...He needs me to keep cataloging his work, so that the work outlives the decline. ...I am good at this. ...It is what I do."
 

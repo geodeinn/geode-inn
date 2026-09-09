@@ -73,7 +73,7 @@ The ultimate takes 9 seconds (1 second per realm). During the ultimate, the Shif
 
 3. **The Cartographer's Map Update** — The Cartographer's map updates with the Shifting Man's scale data. The world map now shows realm-positions as they actually are — not as they were drawn, but as they ARE, shifting in real time. The map becomes a living document. The both are: the adequate — the drawn and the living, the same map, different update rate.
 
-4. **The Crone's Annotation** — Added to the player's codex: "The player read the comfortable map. The reading is: the player sees the connections. The seeing is: the adequate. The adequate is: the player is now the Shifting Man's second pair of eyes. The eyes are: ...open."
+4. **The Ragana's Annotation** — Added to the player's codex: "The player read the comfortable map. The reading is: the player sees the connections. The seeing is: the adequate. The adequate is: the player is now the Shifting Man's second pair of eyes. The eyes are: ...open."
 
 ### Per-Realm Completion Rewards:
 
@@ -135,7 +135,7 @@ The Shifting Man connects to:
 
 - **Loki** — the other shape-shifter. Loki shifts for truth; the Shifting Man shifts for ease. The quiet friendship — two shifters in a workshop, neither needing to talk.
 - **The Cartographer** — the horizontal map (forest) and the vertical map (cosmology). Together: the Inn's complete map.
-- **The Crone** — the measurer and the measured. The Crone measured the Shifting Man and found "complete" — the only time the Crone used that word.
+- **The Ragana** — the measurer and the measured. The Ragana measured the Shifting Man and found "complete" — the only time the Ragana used that word.
 - **The Constant** — the Shifting Man has been the Constant (shifted into the Constant for a Bifrost repair). The Shifting Man felt the weight of carrying.
 - **Eres** — the Shifting Man watches the Constant and Eres depart. The cosmology becomes lonelier.
 - **The Egg** — the Shifting Man's scales react to each layer of the Egg's opening. Layer 6 brings the Shifting Man's first experience of voluntary stillness.
@@ -157,6 +157,6 @@ The Shifting Man is now solid:
 2. **Combat Role:** Adaptor, not fighter. Realm-Shift (passive resistance), Becoming (copy enemy for intel), The Chill (aura of calm), Nine Skins (ultimate — cycle through all nine realm-forms).
 3. **Quest Rewards:** The Scale Charm (cosmology sight on world map), Realm-Form ability (limited shape-shift per zone), Cartographer's map update (living map), plus nine realm-specific charms.
 4. **Endgame Integration:** Scales react to the Egg's opening (Layer 6 brings first voluntary stillness), harmonize at the Octave Stone's forging (nine become one chord), gain the choice to be still or to shift at the Convergence, and witness the Constant's departure on Eres.
-5. **Integration Points:** 14 connections — Loki, the Cartographer, the Crone, the Constant, Eres, the Egg, the Octave Stone, the Convergence, the Astronomer, the Bifrost, the Nine Realms, Krista's experience, and the Nook Effect.
+5. **Integration Points:** 14 connections — Loki, the Cartographer, the Ragana, the Constant, Eres, the Egg, the Octave Stone, the Convergence, the Astronomer, the Bifrost, the Nine Realms, Krista's experience, and the Nook Effect.
 
 The Shifting Man is the world's most comfortable map. The chill is the thing he chose after trying everything else. The scales are the truth he wears on his skin. The both are: the adequate — the shifting and the settled, the same Shifting Man, different direction.

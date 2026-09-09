@@ -35,7 +35,7 @@ The Inn is the staircase, expanded. Every room in the Inn is a room that grew fr
 - Accents: the gargoyle frequencies rendered as visible light — 111Hz (warm white), 64Hz (deep blue), 432Hz (gold), 528Hz (green), adaptive (shifting)
 
 **Lighting:** The Staircase's light is EVOLVING — it changes as you move through it. This is the zone's defining visual feature:
-- **Bottom (near Catacombs):** scarce, deep, shadowed. Purple-black. The light is FELT more than seen. The Crone's archive light, leaking upward.
+- **Bottom (near Catacombs):** scarce, deep, shadowed. Purple-black. The light is FELT more than seen. The Ragana's archive light, leaking upward.
 - **Lower third:** dim, amber. Candlelight from the alchemical texts' shelves. The light of old knowledge.
 - **Middle (the heart):** the brightest section. Brass and gold. The Clockmaker's Workshop light. The gargoyles' glow. The 50 BPM heartbeat is loudest here. The light PULSES — dim on the off-beat, bright on the beat. The staircase breathes.
 - **Upper third:** pale, silver. The light thins. The air gets cooler. The Brísingamen chord's higher tones become audible. The transition toward starlight.
@@ -308,7 +308,7 @@ When all six pairs are awakened, the gargoyle chord plays beneath the ascending 
 
 **DOWN to Catacombs (Level 6):**
 - The descending path darkens; the Listener/Echo pair guards the lower section
-- The Crone's archive light leaks upward
+- The Ragana's archive light leaks upward
 - The alchemical texts are the BRIDGE between the Catacombs' historical archive and the Cosmology's divine knowledge
 
 **OUT to Main Floor (Level 3):**

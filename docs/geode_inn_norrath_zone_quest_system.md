@@ -34,14 +34,14 @@ This document maps the structural template of Champions of Norrath and its seque
 | Artisan Thief | Rogue | Precision tasks, crafting, lockpicking. Can't talk their way out of anything. |
 | Bard Blowhard (Dwarf) | Bard | Debuff specialist. Enrage enemies to make them dangerous but stupid. Chaos agent. |
 | Tinkering Weeaboo | Wizard/Caster | Puzzle solver. Hyperfocused — godlike in their affinity zone, mediocre elsewhere. |
-| Librarian Crone | Enchanter/Illusionist | Archive access. Highest intelligence. Reads every text. Contextually moral. |
+| Librarian Ragana | Enchanter/Illusionist | Archive access. Highest intelligence. Reads every text. Contextually moral. |
 | Chameleon Druid | Shapeshifter | Versatility. Adapts to any biome. Low endurance — the glioblastoma mirror. |
 | The Sentinel (Lozen) | Tank/Warrior | Iron Stance. Faceted defense. The answer to the Owl's cosmic riddles. |
 
 ### Co-Op Design
 - Up to 4 players per party (like Norrath)
 - Each class has **zone-specific utility** — one class shines in each zone while others support
-- Class combinations create emergent gameplay (Bard taunts a boss → Artisan Thief picks the lock while it's enraged → Tinker solves the puzzle behind the door → Crone reads the inscription)
+- Class combinations create emergent gameplay (Bard taunts a boss → Artisan Thief picks the lock while it's enraged → Tinker solves the puzzle behind the door → Ragana reads the inscription)
 - Solo play is always viable — the zone scales and provides NPC companions (like Norrath's mercenary system)
 
 ---
@@ -64,7 +64,7 @@ A sunlit courtyard carved into the catacombs beneath the Inn. The hub is Bastet'
   - Artisan Thief: Best at the herding (nimble fingers, precision)
   - Bard: Can taunt the most stubborn cat into moving (enrage = the cat gets annoyed enough to walk)
   - Tinker: Figures out the sistrum's frequency puzzle fastest (situational alpha)
-  - Crone: Reads the hieroglyphs on the sistrum — access to deeper lore
+  - Ragana: Reads the hieroglyphs on the sistrum — access to deeper lore
   - Druid: Shapeshifts into a cat to lure other cats back (most efficient herding method)
   - Sentinel: Uses Iron Stance to create a calm zone — cats relax and follow her
 - **Reward:** Cat's Eye Chrysoberyl, 50 reputation with Bastet's Temple
@@ -77,7 +77,7 @@ A sunlit courtyard carved into the catacombs beneath the Inn. The hub is Bastet'
   - The Sleeping Cat → Druid (shapeshifts to match, curls up next to it)
   - The Clever Cat → Tinker (puzzle: the cat wants a specific object found first)
   - The Feral Cat → Artisan Thief (precision: must approach slowly, no sudden moves)
-  - The Ancient Cat → Crone (can read the cat's true name on the wall — calling it by name calms it)
+  - The Ancient Cat → Ragana (can read the cat's true name on the wall — calling it by name calms it)
   - The Lost Cat → Any class (it's in the Sirius Passage — a preview of the finale)
 - **Reward:** 7 unique cat tokens, 100 reputation
 
@@ -86,7 +86,7 @@ A sunlit courtyard carved into the catacombs beneath the Inn. The hub is Bastet'
 - **Objective:** Answer 7 questions about Egyptian culture based on what the cats taught you. Not a quiz — a comprehension test. Anubis weighs your understanding against the feather of Ma'at.
 - **Boss Mechanic:** Ammit sits beneath the scales. If your understanding is insufficient, she gets closer. She doesn't attack — she waits. The tension is the scale tipping, not a fight.
 - **Class Roles:**
-  - Crone: Can access the archive during the test (Living Book system — but each lookup costs time, and the scales are watching)
+  - Ragana: Can access the archive during the test (Living Book system — but each lookup costs time, and the scales are watching)
   - Tinker: Identifies patterns in the questions (situational alpha — this is their zone to shine)
   - Bard: Knows the facts (broad intelligence) but struggles under pressure (low situational intelligence — the timer makes them fumble)
   - Artisan Thief: Can't charm Anubis (low charisma) but can read the hieroglyphs on the scales themselves — finding the answer etched into the equipment
@@ -101,7 +101,7 @@ A sunlit courtyard carved into the catacombs beneath the Inn. The hub is Bastet'
   - All classes must work together — the flood requires every skill set simultaneously
   - Sentinel holds the line (literally — she anchors the boat while others work)
   - Tinker calibrates the nilometer (water level measurement)
-  - Crone reads the Sirius alignment
+  - Ragana reads the Sirius alignment
   - Bard keeps spirits up (the only time his charisma sustain matters — during a crisis)
   - Artisan Thief repairs the irrigation channels (nimble fingers)
   - Druid becomes a heron to see the flood path from above
@@ -145,7 +145,7 @@ A cozy timber longhouse harbor village deep inside a dramatic fjord. Snow-blankl
   - Sentinel: Steadies the ship in rough water (Iron Stance = anchor)
   - Bard: Keeps crew morale up during the fog (temporary charisma burst)
   - Artisan Thief: Repairs the rigging (nimble fingers)
-  - Crone: Reads the runic buoy markers
+  - Ragana: Reads the runic buoy markers
   - Druid: Shapeshifts to a seal to scout ahead
 - **Reward:** Norwegian Sunstone (Iolite), 50 reputation with Skálavík
 
@@ -155,7 +155,7 @@ A cozy timber longhouse harbor village deep inside a dramatic fjord. Snow-blankl
 - **Class Roles:**
   - Artisan Thief: Best at the carving (precision work)
   - Tinker: Figures out the rune patterns (puzzle)
-  - Crone: Reads the ancient rune inscriptions (archive access)
+  - Ragana: Reads the ancient rune inscriptions (archive access)
   - Druid: Resists the cold through adaptation (shapeshift to arctic fox)
   - Bard: Can't carve runes (low situational intelligence) but can identify the right vein by ear (broad intelligence — "this sounds like the one Grandpa mentioned")
   - Sentinel: Carries the heaviest loads up the mountain (Iron Stance = endurance)
@@ -168,7 +168,7 @@ A cozy timber longhouse harbor village deep inside a dramatic fjord. Snow-blankl
   - Bard: Can taunt the ravens into returning items (enrage = they get flustered and drop things)
   - Artisan Thief: Can pick the ravens' cache boxes
   - Tinker: Maps the root maze (situational alpha)
-  - Crone: Reads the root inscriptions (the roots have memories — Living Book access)
+  - Ragana: Reads the root inscriptions (the roots have memories — Living Book access)
   - Druid: Shapeshifts to navigate narrow root passages
   - Sentinel: The ravens respect her — they don't steal from the Sentinel. (Her presence aura intimidates them.)
 - **Reward:** Yggdrasil Root Stone, passage to Cosmology level unlocked, 150 reputation
@@ -180,7 +180,7 @@ A cozy timber longhouse harbor village deep inside a dramatic fjord. Snow-blankl
   - Not a combat boss. A riddle contest. Vafthrudnir has challenged gods. He asks questions that test wisdom, not knowledge.
   - The Sentinel can answer the cosmic riddles through intuition — love, loyalty, knowledge. If she lowers her defensive layers, she can answer the one the Owl would answer "42" to.
   - The Bard can taunt Vafthrudnir (enrage = he gets louder and less precise, making his riddles easier)
-  - The Crone can use archive access to research answers — but Vafthrudnir notices and respects the effort, not the shortcut
+  - The Ragana can use archive access to research answers — but Vafthrudnir notices and respects the effort, not the shortcut
 - **Faction Branch:**
   - Answer all riddles correctly → Seelie favor (wisdom path)
   - Refuse the riddles and offer a trade instead → Unseelie favor (cunning path)
@@ -222,7 +222,7 @@ A stone refuge hut high in the Andes, built into a cliff face. Warm interior, gu
   - Tinker: Calculates the optimal pace (situational alpha — physics/biology)
   - Bard: High agility helps on the steep paths
   - Artisan Thief: Nimble on the narrow terrace edges
-  - Crone: Reads the trail markers (Quechua inscriptions — archive access)
+  - Ragana: Reads the trail markers (Quechua inscriptions — archive access)
 - **Reward:** Andean Opal (Peruvian Blue Opal), 50 reputation with the Apu spirits
 
 **Quest 2: "The Chasqui Trail" (Exploration + Arcade)**
@@ -235,7 +235,7 @@ A stone refuge hut high in the Andes, built into a cliff face. Warm interior, gu
   - Bard: High agility = fastest runner (but crashes if he doesn't pace — temporary bursts)
   - Artisan Thief: Best at the obstacle precision sections (nimble fingers for rope bridges)
   - Tinker: Identifies shortcuts (situational alpha — pattern recognition on the trail)
-  - Crone: Reads the quipu (knot records) at each checkpoint — access to bonus lore
+  - Ragana: Reads the quipu (knot records) at each checkpoint — access to bonus lore
   - Druid: Shapeshifts to a condor for aerial shortcuts (limited duration)
   - Sentinel: Slowest runner but never falls (Iron Stance = perfect balance on narrow paths)
 - **Reward:** Peruvianite, 100 reputation, Andean Run unlocked
@@ -247,7 +247,7 @@ A stone refuge hut high in the Andes, built into a cliff face. Warm interior, gu
   - Artisan Thief: Carves the offering stone (precision)
   - Bard: Sings the offering song (charisma burst — the only class that can perform the ritual song)
   - Tinker: Calculates the solar alignment for the offering (situational alpha — archaeoastronomy)
-  - Crone: Knows the ritual from the archive (but must adapt it to context — situational ethics)
+  - Ragana: Knows the ritual from the archive (but must adapt it to context — situational ethics)
   - Druid: Shapeshifts to a condor to reach the summit
   - Sentinel: Carries the offering up (Iron Stance — the weight doesn't faze her)
 - **Reward:** Apu's Blessing Stone, 150 reputation, passage to El Muki's mine opens
@@ -264,7 +264,7 @@ A stone refuge hut high in the Andes, built into a cliff face. Warm interior, gu
   - Bard: Can taunt El Muki (enrage = he gets reckless and reveals the true vein)
   - Tinker: Identifies which stones are real and which are illusions (situational alpha)
   - Artisan Thief: Can sense the cave-in before it happens (nimble fingers feel the vibrations)
-  - Crone: Reads the warning inscriptions (archive access — "the miners who took too much")
+  - Ragana: Reads the warning inscriptions (archive access — "the miners who took too much")
   - Druid: Shapeshifts to a bat to scout the mine's layout
 - **Faction Branch:**
   - Take only what you need → Seelie favor (restraint path)
@@ -303,7 +303,7 @@ A forest clearing with a ring of empty holes where stones once stood. An ancient
 - **Giver:** Elder Cian
 - **Objective:** Find 3 foundation markers in the grove. Listen to the earth at each.
 - **Class Roles:**
-  - Crone: Reads the grove's archive (oldest texts in the Inn — pre-Ogham)
+  - Ragana: Reads the grove's archive (oldest texts in the Inn — pre-Ogham)
   - Druid: Feels the earth's hum through shapeshifting (becomes a tree root)
   - Sentinel: Stands at each marker and feels the vibration (Iron Stance = grounding)
   - Artisan Thief: Finds the hidden markers (precision exploration)
@@ -315,7 +315,7 @@ A forest clearing with a ring of empty holes where stones once stood. An ancient
 - **Giver:** Taliesin the Ogham scholar
 - **Objective:** Learn 5 Ogham letters (Beith/Birch, Luis/Rowan, Fearn/Alder, Saille/Willow, Nion/Ash). Each letter is a tree. Each tree is a sound. Each sound is a power.
 - **Class Roles:**
-  - Crone: Master of the Ogham (highest intelligence — archive access to the oldest scripts)
+  - Ragana: Master of the Ogham (highest intelligence — archive access to the oldest scripts)
   - Tinker: Identifies the tree species (situational alpha — botany)
   - Artisan Thief: Carves the Ogham letters into stones (precision)
   - Druid: Communicates with the trees themselves (shapeshift = the tree tells you its name)
@@ -332,7 +332,7 @@ A forest clearing with a ring of empty holes where stones once stood. An ancient
   - Druid: Asks the earth to release the stones (shapeshift = becomes root to loosen the soil)
   - Tinker: Engineers the lever system (situational alpha — physics)
   - Bard: Keeps the work crew energized (charisma bursts — work songs)
-  - Crone: Reads the matching inscriptions (archive — which stone goes where)
+  - Ragana: Reads the matching inscriptions (archive — which stone goes where)
 - **Reward:** 3 Standing Stones placed, 150 reputation
 
 **Quest 4: "The Star Alignment" (Archaeoastronomy)**
@@ -340,7 +340,7 @@ A forest clearing with a ring of empty holes where stones once stood. An ancient
 - **Objective:** Observe the stars from the hill, align the stones to specific celestial events. The stones must catch the light of specific stars on specific dates.
 - **Class Roles:**
   - Tinker: Calculates the alignments (situational alpha — astronomy)
-  - Crone: Reads the ancient star charts (archive access)
+  - Ragana: Reads the ancient star charts (archive access)
   - Sentinel: Holds the alignment tool steady (Iron Stance = perfect stillness)
   - Druid: Shapeshifts to an owl to see from the stars' perspective (the Owl connection — "wherever an owl is sighted, one of us is near")
   - Bard: Knows the star stories (broad intelligence — oral tradition)
@@ -358,7 +358,7 @@ A forest clearing with a ring of empty holes where stones once stood. An ancient
   - Bard: Can influence the Fae (charisma burst — persuade them toward either court)
   - Sentinel: The Fae respect her (presence aura — they ask her opinion first)
   - Druid: Can sense which alignment is "natural" for this grove (shapeshift = reads the earth's preference)
-  - Crone: Knows the historical consequences of each alignment (situational ethics — she adapts her advice to context)
+  - Ragana: Knows the historical consequences of each alignment (situational ethics — she adapts her advice to context)
   - Artisan Thief: Can sabotage the alignment (steal a crystal to shift the balance — but this has consequences)
   - Tinker: Can fine-tune the alignment (situational alpha — resonance engineering)
 - **Reward:** Seelie or Unseelie Token, 250 reputation, portal activated
@@ -367,7 +367,7 @@ A forest clearing with a ring of empty holes where stones once stood. An ancient
 - **Objective:** The stone circle activates. A portal opens. The player steps through.
 - **Boss: The Threshold Guardian**
   - Not a creature. A test. The portal requires a memory — the player must offer a memory to pass through.
-  - The Crone can choose which memory (she has the most). The Artisan Thief can "steal back" a memory they've forgotten. The Sentinel offers her most precious memory without hesitation — and the portal accepts it, because the Sentinel's strength is that she holds nothing back.
+  - The Ragana can choose which memory (she has the most). The Artisan Thief can "steal back" a memory they've forgotten. The Sentinel offers her most precious memory without hesitation — and the portal accepts it, because the Sentinel's strength is that she holds nothing back.
   - The Owl appears on the portal's rim. Watches. Blinks.
 - **Reward:** Preseli Blue Stone (the stone of Stonehenge itself), 300 reputation, Fae Kingdom unlocked, zone complete
 
@@ -412,7 +412,7 @@ Unlike Norrath's linear chapter progression, the Geode Inn's zones are **open bu
 - Players can join each other's zones at any time (like Norrath's drop-in co-op)
 - Class combinations in co-op create emergent strategies:
   - Bard + Sentinel: The Bard taunts the boss, the Sentinel holds the line while it's enraged
-  - Tinker + Crone: The Tinker solves the puzzle, the Crone reads the instructions in real-time
+  - Tinker + Ragana: The Tinker solves the puzzle, the Ragana reads the instructions in real-time
   - Artisan Thief + Druid: The Thief picks the lock, the Druid shapeshifts to scout what's behind it
   - Full party (4 players): Each class handles a different spoke of the zone simultaneously — the fastest completion requires coordination
 - Solo players get an NPC companion (a Canopy Elf for platforming, a Chibi Fae for puzzles, etc.) — scaled to fill the missing class role

@@ -63,7 +63,7 @@ Stones of the same family must be grouped together. All quartz stones in one qua
 ### Type 3: The Clear Path (The Removal Puzzle)
 The grid starts completely full — every socket has a stone. The player must remove stones to create patterns. The puzzle is: which stones do you remove, and in what order, to reveal the hidden pattern underneath? Removing stones in the wrong order collapses the path — you can't reach the stones you need to remove because the stones you already removed left gaps that the cable can't navigate.
 
-This is the inverse of placement — the game is about subtraction. The grid is a block of stone. The player is the sculptor, removing material to reveal the form inside. The Crone would say: "The adequate is what remains when you remove what doesn't belong."
+This is the inverse of placement — the game is about subtraction. The grid is a block of stone. The player is the sculptor, removing material to reveal the form inside. The Ragana would say: "The adequate is what remains when you remove what doesn't belong."
 
 ### Type 4: The Current (The Flow Puzzle)
 Stones in the grid are channel segments — each one represents a piece of the aqueduct. The player must arrange the stones so that water can flow from the top of the grid (Row 1, Rain) to the bottom (Row 7, Crystal Core) through a continuous path of connected stones. Each stone has a direction — it channels water in a specific way (straight, left turn, right turn, T-junction, cross). The player hooks and places channel stones to build the aqueduct path through the grid.
@@ -322,9 +322,9 @@ They are doing the same thing at different scales. She reads what the water leav
 
 **The Cartographer:** "The both are: the adequate."
 
-**The Examiner:** "...Don't say that. ...That's the Crone's word."
+**The Examiner:** "...Don't say that. ...That's the Ragana's word."
 
-**The Cartographer:** "The Crone doesn't own it. ...The Crone uses it best. ...There's a difference."
+**The Cartographer:** "The Ragana doesn't own it. ...The Ragana uses it best. ...There's a difference."
 
 **The Examiner, after a long pause, returning to the calipers:** "...The both are: the adequate."
 

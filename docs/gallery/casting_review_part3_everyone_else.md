@@ -250,7 +250,7 @@ Everything after the majors: ambient creatures, playable water monsters, compani
 <td><b>In-Between</b><br/><img src="https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/df7cab8af_generated_image.png" width="190" alt=""/><br/><code>generated_image.png</code></td>
 </tr></table>
 <hr/>
-### The Crone's Mirror
+### The Ragana's Mirror
 
 *Zone: Main Floor (L3)*
 
@@ -383,7 +383,7 @@ Everything after the majors: ambient creatures, playable water monsters, compani
 <td><b>In-Between</b><br/><img src="https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/df7cab8af_generated_image.png" width="190" alt=""/><br/><code>generated_image.png</code></td>
 </tr></table>
 <hr/>
-### The Crone's Mirror (Shadow)
+### The Ragana's Mirror (Shadow)
 
 *Zone: ✅ Generated*
 

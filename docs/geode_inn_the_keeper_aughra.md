@@ -94,9 +94,9 @@ The Bard reminds her of the old world — before the archive, before the catalog
 
 The Bard visits the Geode Cave. He brings tea (she pretends not to drink it; the teapot is always full because he refills it). He tells stories. She corrects every factual error. He grins. She rocks. He stays longer than he means to. She doesn't ask him to leave.
 
-With the Bard, the Keeper is at her most Smith — sharp, funny, constantly correcting, constantly performing exasperation. The Bard doesn't notice the Dench underneath — the way her rocking slows when he's there, the way the teapot is always warm, the way she never asks him to leave. The Crone notices. The Crone understands.
+With the Bard, the Keeper is at her most Smith — sharp, funny, constantly correcting, constantly performing exasperation. The Bard doesn't notice the Dench underneath — the way her rocking slows when he's there, the way the teapot is always warm, the way she never asks him to leave. The Ragana notices. The Ragana understands.
 
-The Crone (his wife) knows about the visits. She doesn't object. The Crone understands the Keeper in a way the Bard doesn't — the Crone knows the Keeper is the archive's memory, and the Bard is the archive's *heart*. Both are necessary. The Crone is the bridge.
+The Ragana (his wife) knows about the visits. She doesn't object. The Ragana understands the Keeper in a way the Bard doesn't — the Ragana knows the Keeper is the archive's memory, and the Bard is the archive's *heart*. Both are necessary. The Ragana is the bridge.
 
 ### The Keeper and the Brownies
 
@@ -123,7 +123,7 @@ With Thatch, the Keeper drops entirely to Dench. No wit. No steel. Just warmth. 
 
 ## The Keeper's Backstory (What the Player Can Discover)
 
-The Keeper's history is not given in one piece. It's scattered across the Inn — in archive entries, in the Crone's readings, in the Bard's stories (wrongly told), in Einstein's silences, in the Owl's presence. The player who pieces it together learns:
+The Keeper's history is not given in one piece. It's scattered across the Inn — in archive entries, in the Ragana's readings, in the Bard's stories (wrongly told), in Einstein's silences, in the Owl's presence. The player who pieces it together learns:
 
 1. She was here when the world was sung into being. She doesn't say "created." She says "sung." She was the first being to hear the Song and understand that it was a song, not just a sound.
 2. She gave her eye to see the Song. Not metaphorically — she removed her own eye and replaced it with a crystal lens that could perceive frequency as light. The crystal was a piece of the Singing Tree, before it was a tree, when it was just a crystal in the ground.

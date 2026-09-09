@@ -82,7 +82,7 @@ Each park has:
 ### The Park Ranger
 
 Each park has a Ranger NPC — the park's main character. The Ranger is:
-- The park's equivalent of the zone's main character (like the Crone for the Catacombs, Jay for the Campgrounds)
+- The park's equivalent of the zone's main character (like the Ragana for the Catacombs, Jay for the Campgrounds)
 - A geological and cultural expert — provides information, gives quests, identifies stones
 - Different for each park — each Ranger reflects the park's character (the Yellowstone Ranger is geothermal-obsessed; the Grand Canyon Ranger is a layers-and-time philosopher; the Smokies Ranger is an Appalachian storyteller)
 
@@ -177,7 +177,7 @@ The Grand Canyon is geological time made visible. The canyon's walls are a chron
 - Havasupai mythology: the canyon as home — the people of the blue-green water
 - The concept of "deep time" — geological time scales that dwarf human history
 
-**Ranger:** Ranger Luna — a geologist who sees time in stone. Luna talks about the canyon's layers the way the Crone talks about archive entries: precise, measured, reverent. Luna's quest: "The Descent" — the player descends through the canyon's geological layers (the trail from rim to river), collecting a stone from each layer. Each stone is a chapter; the full collection is the earth's biography.
+**Ranger:** Ranger Luna — a geologist who sees time in stone. Luna talks about the canyon's layers the way the Ragana talks about archive entries: precise, measured, reverent. Luna's quest: "The Descent" — the player descends through the canyon's geological layers (the trail from rim to river), collecting a stone from each layer. Each stone is a chapter; the full collection is the earth's biography.
 
 **Game:** Layer Descent — the player hikes from the rim to the river, collecting a stone at each geological layer. Each layer is a time period; the deeper the player goes, the older the stone. The descent is the Catacombs' "Deep Read" made physical — geological knowledge through the body's descent.
 
@@ -438,7 +438,7 @@ Uluru (Ayers Rock) is a single massive sandstone monolith in the Australian Outb
 
 **Lore:**
 - Anangu mythology: the rock as a creation site — each feature on the rock corresponds to a creation ancestor's action. The rock IS the story. The geology IS the mythology.
-- The concept of "reading the rock" — the Anangu read Uluru the way the Crone reads the archive. The rock is a text; the features are the entries.
+- The concept of "reading the rock" — the Anangu read Uluru the way the Ragana reads the archive. The rock is a text; the features are the entries.
 - Beverley's connection: Beverley is Australian. Uluru connects to Beverley's heritage and to the Catacombs' archive through the principle that the earth itself is an archive.
 
 **Special Mechanic:** Uluru's stones are not collected from the rock — they are collected from the surrounding desert. The rock is SACRED. The park teaches: some stones are not meant to be taken. The player who visits Uluru learns RESPECT — not every stone is for collecting. Some stones are for witnessing. The Uluru expedition is the only one where the player returns with FEWER stones than they arrived with — the player leaves a stone at the rock as an offering. The offering grants a "Respect" buff: the player's stone collection gains a quality bonus — the stones the player already has become slightly more vibrant, more resonant, because the player has demonstrated that they value stones for more than acquisition.

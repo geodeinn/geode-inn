@@ -57,7 +57,7 @@ These are the files that didn't match keyword filters. Many are major design doc
 
 ### Hidden Characters (named by character, not "character" keyword)
 - **geode_inn_catalyst_bartender_complete.md** (294 lines) — The Catalyst full doc
-- **geode_inn_the_crone.md** (201 lines) — The Crone
+- **geode_inn_the_crone.md** (201 lines) — The Ragana
 - **geode_inn_the_guest.md** (208 lines) — The Guest
 - **geode_inn_the_host.md** (135 lines) — The Host
 - **geode_inn_the_constant.md** (170 lines) — The Constant
@@ -294,7 +294,7 @@ These are the files that didn't match keyword filters. Many are major design doc
 
 ### Tier 4 — Hidden Gems (Documents that exist but may not be woven into the world)
 
-11. **184 "OTHER" files** — Major character docs (The Crone, The Guest, The Constant, The Astronomer, Nyx, Loki, The Morrigan, Medusa, Charon, etc.) hiding behind non-standard naming.
+11. **184 "OTHER" files** — Major character docs (The Ragana, The Guest, The Constant, The Astronomer, Nyx, Loki, The Morrigan, Medusa, Charon, etc.) hiding behind non-standard naming.
 12. **Hidden zones** — Bayou, Canopy City, Desert Bone, Superstition Mountains, Badlands, Camelot, Slavic Zone, Stargate Caves — all have docs in OTHER.
 13. **Hidden narrative mechanics** — Trifocal Gaze, Silk Road Ley Lines, Mycorrhizal Network, Pulse Line, The Thrum, The Void, Nook Effect, Dark Side of the Inn, Six Unfinished Sentences.
 14. **Hidden systems** — World Grid, Boot Sequence, Language Family Tree, Sonic Mineral Codex, Stone Capsules & Companions.
@@ -316,7 +316,7 @@ These are the files that didn't match keyword filters. Many are major design doc
 The biggest discovery here is the OTHER category. 184 files, 29,551 lines — and many of them are substantial design documents for characters, zones, and mechanics that we've been building without realizing the docs already existed.
 
 **Characters we forgot we'd fully designed:**
-The Crone (201 lines), The Guest (208 lines), The Constant (170 lines), The Astronomer (173 lines), Nyx (212 lines), Loki (188 lines), The Morrigan (177 lines), Medusa (144 lines), Charon (169 lines), The Laughing One (169 lines), Vanir/Freyr/Freyja (222 lines), Galahad (154 lines), Pirate Inigo (167 lines), Queen of Webs (134 lines), Queen of Words (117 lines), Queen of Roots (102 lines), The Fixer (120 lines), Miracle Max (111 lines), Grendel (114 lines), Ents (163 lines), Hel (82 lines), Arthur (81 lines), Mordred (90 lines), The Duck (82 lines)
+The Ragana (201 lines), The Guest (208 lines), The Constant (170 lines), The Astronomer (173 lines), Nyx (212 lines), Loki (188 lines), The Morrigan (177 lines), Medusa (144 lines), Charon (169 lines), The Laughing One (169 lines), Vanir/Freyr/Freyja (222 lines), Galahad (154 lines), Pirate Inigo (167 lines), Queen of Webs (134 lines), Queen of Words (117 lines), Queen of Roots (102 lines), The Fixer (120 lines), Miracle Max (111 lines), Grendel (114 lines), Ents (163 lines), Hel (82 lines), Arthur (81 lines), Mordred (90 lines), The Duck (82 lines)
 
 **Zones we forgot we'd designed:**
 Bayou (162+162 lines), Canopy City (111+208 lines), Desert Bone (172 lines), Superstition Mountains (174 lines), Badlands (114 lines), Camelot (163+137+100 lines), Slavic Zone (185 lines), Stargate Caves (198 lines), Aegean Light (130 lines), Moon Projection (168 lines), Meadery/Picasso (142 lines), Peru/Guo Xi (157 lines), Lighthouse/Hodler (130 lines)

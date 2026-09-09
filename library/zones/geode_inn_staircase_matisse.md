@@ -61,7 +61,7 @@ The Red Studio is the rubedo made visual. Matisse painted his entire studio red 
 
 The rubedo is the completion. The red stone. The philosopher's gold. The moment when the transformation is done and the result is not what you expected — it's not gold, it's RED, because the completion is not about becoming precious, it's about becoming ALIVE. Gold is inert. Red is the color of blood, of fire, of the living thing. The rubedo says: the transformation doesn't make you gold. It makes you alive.
 
-Aristotle sits here, and the red is his color. He is the classifier, the one who argues with the Crone until they become colleagues and then listeners. He argues with the red itself — categorizing it, naming it, understanding it — until the Crone hears the Song for the first time: "I never listened before. I always measured. It's beautiful." The red is where measurement becomes listening. The red is where the question becomes the answer.
+Aristotle sits here, and the red is his color. He is the classifier, the one who argues with the Ragana until they become colleagues and then listeners. He argues with the red itself — categorizing it, naming it, understanding it — until the Ragana hears the Song for the first time: "I never listened before. I always measured. It's beautiful." The red is where measurement becomes listening. The red is where the question becomes the answer.
 
 The color here is overwhelming. The Red Studio. The room is red. The player is inside the red. The red is the transformation and the transformation is complete and the door to the cosmology level opens, and above is the sky, and the sky is not red — but the red has changed the player's eyes, the way alchemy changes the alchemist, and the sky looks different now. The hum is a chord — the 42Hz plus all its overtones, the Song as it sounds when the staircase has added its frequencies, the harmony that the alchemy produced.
 
@@ -139,7 +139,7 @@ The player climbs through Matisse's entire career in one ascent. The staircase i
 
 ---
 
-## The Crone's Annotation
+## The Ragana's Annotation
 
 "...Matisse said he was a medium. ...Not a source — a conduit. ...The color came through him. ...This is the correct understanding of the alchemical process. ...The alchemist does not create the transformation. ...The alchemist creates the conditions. ...The color was always in the stone. ...Matisse let it out. ...The Retort lets it out. ...The Cook keeps the Retort alive long enough to let it out. ...This is the only useful thing anyone on this staircase has said. ...I am including myself in that assessment. ...Don't tell Aristotle. ...He'll argue. ...He always argues. ...It's exhausting. ...Adequate."
 

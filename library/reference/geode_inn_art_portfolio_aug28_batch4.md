@@ -81,7 +81,7 @@
 **URL:** https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/31d704ec8_generated_image.png
 **Art Direction:** Twin thrones of living wood and golden flowers. King with antler crown of flowering vines. Queen in woven sunlight, butterfly crown of living light. Alan Lee LOTR aesthetic. The summer that chose to be a kingdom.
 
-### 20. The Crone
+### 20. The Ragana
 **URL:** https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/2e3736b07_generated_image.png
 **Art Direction:** Silver hair, Hopkins gaze (the one unsoftened feature). Archive desk with calipers, scales, notebook. Word journey in the margins: Adequate → Better → Complete → True → Always. The one who measures and finally puts down the notebook.
 

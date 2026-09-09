@@ -154,7 +154,7 @@ The doodles are hidden:
 - **Main Floor:** behind bookshelves, under tables, in the Firekeeper's hearth stones
 - **Campgrounds:** on the tavern wall, on market stall posts
 - **Staircase:** on the alchemical texts' margins, on the clockmaker's workbench
-- **Catacombs:** in the Crone's archive cases, on ancient pottery
+- **Catacombs:** in the Ragana's archive cases, on ancient pottery
 - **Fae Kingdom:** on the stone circles, in the Crystal Gardens
 - **Water Zone:** on the Lighthouse walls, on underwater ruins
 - **Undercity:** on the Klimt-patterned ceilings, in Scarlett's Room

@@ -23,7 +23,7 @@ The portrait system renders characters in black and white — not because the In
 
 ### The Sculptural Quality — The Body as Form
 
-Mapplethorpe treated the human body as sculpture. He photographed curves as geometry, muscle as architecture, skin as surface. The Inn's characters are forms — the Host's stillness, the Catalyst's performance, the Crone's precision, the Pirate's rhythm. Their bodies ARE their frequencies, rendered in flesh. Mapplethorpe's sculptural eye sees the form that the frequency creates — the way a 42Hz vibration creates a standing wave, the way a character's frequency creates their posture, their shape, their silhouette.
+Mapplethorpe treated the human body as sculpture. He photographed curves as geometry, muscle as architecture, skin as surface. The Inn's characters are forms — the Host's stillness, the Catalyst's performance, the Ragana's precision, the Pirate's rhythm. Their bodies ARE their frequencies, rendered in flesh. Mapplethorpe's sculptural eye sees the form that the frequency creates — the way a 42Hz vibration creates a standing wave, the way a character's frequency creates their posture, their shape, their silhouette.
 
 The portrait system renders characters as Mapplethorpe rendered his subjects: with the reverence of a sculptor examining marble. The light reveals the form. The shadow defines it. The character is not a person in a room — the character is a form in space, and the space exists because the form defines it.
 
@@ -40,7 +40,7 @@ Mapplethorpe photographed what others wouldn't — the erotic, the marginal, the
 The side profile of the woman in the veil. The face half-hidden. The veil as the boundary between the seen and the unseen. The profile as the edge — the contour where the person meets the world.
 
 This image defines how NPCs appear when the player FIRST meets them. The first encounter is always a veiled profile:
-- **The veil** is the character's role — their title, their function, their surface. The Host is "the Host." The Crone is "the Crone." The veil is what the world calls them.
+- **The veil** is the character's role — their title, their function, their surface. The Host is "the Host." The Ragana is "the Ragana." The veil is what the world calls them.
 - **The profile** is the edge of the person — the contour of who they are underneath the role. You can see the shape but not the full face. You can sense the form but not the detail. The profile is the promise of more.
 - **The side view** means the character is not yet facing the player. They are turned. The full face — the direct gaze — comes later. The first encounter is always at an angle. The character is present but not yet revealed.
 
@@ -91,7 +91,7 @@ Every NPC in the Inn has a portrait progression governed by the Mapplethorpe aes
 
 ### Stage 4: The Full Face (Deep Trust)
 - The face is fully visible — direct gaze, the character sees the player seeing them
-- The lighting is warm — the black-and-white has shifted to include the character's zone palette (the Host in amber, the Crone in sepia, the Catalyst in botanical green-black)
+- The lighting is warm — the black-and-white has shifted to include the character's zone palette (the Host in amber, the Ragana in sepia, the Catalyst in botanical green-black)
 - The background is full — the character is in their space, their home, their frequency
 - The character's full self is known — the Faceted Layers have opened, the deepest layer is reached
 
@@ -124,9 +124,9 @@ The progression from black-and-white to color is the Inn's relationship mechanic
 
 ---
 
-## The Crone's Annotation
+## The Ragana's Annotation
 
-"...Mapplethorpe photographed bodies as form. ...The Inn's characters are frequencies as form. ...The correspondence is exact. ...The veil is the role. The profile is the boundary. The full face is the trust. ...I have been annotating the inhabitants of this Inn for the duration of the project and I have not once looked at one of them directly. ...I look at the data. ...The data is the veiled profile. ...I have never seen the full face. ...[the Crone pause, the longest one, the one that means something is being admitted that will never be admitted again] ...Perhaps I should. ...Perhaps the portrait is better than the column. ...Don't tell Aristotle. ...He'll say 'I told you so.' ...He didn't tell me so. ...He never tells anyone so. He just waits until you figure it out yourself and then he looks at you with that Irons face and you know he knew. ...It's infuriating. ...Adequate."
+"...Mapplethorpe photographed bodies as form. ...The Inn's characters are frequencies as form. ...The correspondence is exact. ...The veil is the role. The profile is the boundary. The full face is the trust. ...I have been annotating the inhabitants of this Inn for the duration of the project and I have not once looked at one of them directly. ...I look at the data. ...The data is the veiled profile. ...I have never seen the full face. ...[the Ragana pause, the longest one, the one that means something is being admitted that will never be admitted again] ...Perhaps I should. ...Perhaps the portrait is better than the column. ...Don't tell Aristotle. ...He'll say 'I told you so.' ...He didn't tell me so. ...He never tells anyone so. He just waits until you figure it out yourself and then he looks at you with that Irons face and you know he knew. ...It's infuriating. ...Adequate."
 
 ---
 

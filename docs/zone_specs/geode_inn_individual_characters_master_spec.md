@@ -14,7 +14,7 @@ Individual character design documents that warranted their own files due to comp
 | Character | Lines | Role |
 |-----------|-------|------|
 | Naut (Naut) | 320 | The Lovecraftian scholar. Hidden quest giver. Reluctant steward of The Royal. Full audit. |
-| The Crone | 201 | The archive keeper. Remembrance Vision source. The measuring tape. |
+| The Ragana | 201 | The archive keeper. Remembrance Vision source. The measuring tape. |
 | Tesla | 201 | The Observer's soul twin. Bloop the cat. The Retort. Science as wonder. |
 | The Siren & The Pirate | 200 | The deep-water duo. The siren's song and the pirate's 50 BPM drumbeat. |
 | Seelie Royalty | 200 | The Summer Court hierarchy. |

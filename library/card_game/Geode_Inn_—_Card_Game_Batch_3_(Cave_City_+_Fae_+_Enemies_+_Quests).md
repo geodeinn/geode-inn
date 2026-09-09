@@ -375,7 +375,7 @@ Rarity: Legendary
 **"ADEQUATE"**
 Cost: STONE (1) — Total cost: 1
 Type: Ability — Instant
-Effect: Target one card in play. That card gains Adequate. If it already has Adequate, it gains +2/+2. The Crone's word. The word that is both measurement and love. The both are: the adequate.
+Effect: Target one card in play. That card gains Adequate. If it already has Adequate, it gains +2/+2. The Ragana's word. The word that is both measurement and love. The both are: the adequate.
 Flavor text: *"Adequate. The adequate is: enough. The enough is: the most adequate thing."*
 Rarity: Common
 

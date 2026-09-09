@@ -46,7 +46,7 @@ This is the coinciding master list — every character, creature, and artifact c
 | # | Character | Role | Image | Status |
 |---|-----------|------|-------|--------|
 | 37 | Beverley the Librarian | Anne Robinson cadence, AU accent | beverley_librarian.png | ✅ Uploaded |
-| 38 | The Crone | Ancient wise woman (canonical gaze) | the_crone_ACCIDENTAL_CANONICAL.png | ✅ npc_remaining |
+| 38 | The Ragana | Ancient wise woman (canonical gaze) | the_crone_ACCIDENTAL_CANONICAL.png | ✅ npc_remaining |
 | 39 | Quire | Lovecraftian scholar (formerly John Myers) | — | ⬜ Needs image |
 | 40 | The Cartographer | Maps shifting layout | the_cartographer_v2.png | ✅ npc_remaining |
 | 41 | The One Who Is Awake | Never sleeps, watches archive | the_one_who_is_awake_v2.png | ✅ npc_remaining |

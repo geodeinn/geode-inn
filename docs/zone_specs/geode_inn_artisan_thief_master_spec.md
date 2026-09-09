@@ -21,7 +21,7 @@ The selkie's skin is her most precious possession. In folklore, if the skin is s
 
 The Artisan Thief's skin is her JEWELER'S APRON. The leather she wears at the bench. The thing she puts on when she works and takes off when she's done. The apron IS the skin — the thing that lets her transform from human-shaped jeweler into something older and wilder. When she ties the apron, the seal slides off and the maker slides on. When she unties it, the maker slides off and the seal slides on.
 
-Nobody touches the apron. Nobody. The Crone once reached for it — to straighten it, motherly instinct — and the selkie's eyes went black and cold and ancient for one second, and the Crone, who is afraid of nothing, took a step back. The Crone never mentioned it. The selkie never apologized. They understand each other. The Crone's glasses are her skin. The apron is the selkie's. Some things are not shared.
+Nobody touches the apron. Nobody. The Ragana once reached for it — to straighten it, motherly instinct — and the selkie's eyes went black and cold and ancient for one second, and the Ragana, who is afraid of nothing, took a step back. The Ragana never mentioned it. The selkie never apologized. They understand each other. The Ragana's glasses are her skin. The apron is the selkie's. Some things are not shared.
 
 ---
 
@@ -42,7 +42,7 @@ The Artisan Thief is the only character who moves between both worlds as natural
 |-----------|--------------|
 | The Host | A woman who is sometimes restless and sometimes calm, and the calm is not peace — it's the calm of something that has chosen to be still. |
 | The Catalyst | A woman who grows things from stone the way the Catalyst grows things from seeds. The parallel is not lost on either of them. |
-| The Crone | A woman who is precise with her hands and imprecise with her words. The Crone respects the precision. The Crone does not respect the imprecision. But the Crone saw the eyes go black, and the Crone understands that some things are not for measuring. |
+| The Ragana | A woman who is precise with her hands and imprecise with her words. The Ragana respects the precision. The Ragana does not respect the imprecision. But the Ragana saw the eyes go black, and the Ragana understands that some things are not for measuring. |
 | The Firekeeper | The Firekeeper sees a woman who makes things instead of tending things. A different kind of keeping. The Firekeeper keeps the fire. The selkie keeps the stone. |
 | Belladonna | Belladonna sees a kindred spirit — the selkie and the Addams both live in the space between worlds. The seal and the dead. The wild and the restful. |
 

@@ -199,7 +199,7 @@ The Geode Inn has 45+ named NPCs. They are not quest dispensers. They are reside
 
 **Key NPCs and How to Play Them:**
 
-**The Crone:** Speaks in riddles that are more direct than they appear. Knows everything but chooses what to share based on what the players have earned. Voice: low, measured, warm but with edges. The Crone's accidental canonical look — straight-on, unblinking eye contact — should unnerve players in-character. The Crone is not a quest giver. The Crone is a mirror.
+**The Ragana:** Speaks in riddles that are more direct than they appear. Knows everything but chooses what to share based on what the players have earned. Voice: low, measured, warm but with edges. The Ragana's accidental canonical look — straight-on, unblinking eye contact — should unnerve players in-character. The Ragana is not a quest giver. The Ragana is a mirror.
 
 **Beverley (The Librarian):** Clipped, precise, dismissive. Anne Robinson energy with an Australian accent. Beverley treats the Archive as personal property and the players as intruders who might, eventually, prove useful. Beverley never gives straight answers — but will point players toward the right shelf. The Archive is Beverley's domain; players who respect it earn Beverley's grudging tolerance.
 
@@ -223,7 +223,7 @@ The Geode Inn has 45+ named NPCs. They are not quest dispensers. They are reside
 
 #### NPC Routines
 
-Give NPCs schedules. Not rigid ones — patterns. Beverley is always in the Archive. Joe is usually in the studio. The Wanderer appears on the Main Floor at different times each session. The Crone is wherever the players least expect. When players look for an NPC and can't find them, that's not a frustration — it's a clue.
+Give NPCs schedules. Not rigid ones — patterns. Beverley is always in the Archive. Joe is usually in the studio. The Wanderer appears on the Main Floor at different times each session. The Ragana is wherever the players least expect. When players look for an NPC and can't find them, that's not a frustration — it's a clue.
 
 ---
 
@@ -323,7 +323,7 @@ Element Charms (118 total) and Quest Charms (45 total) provide additional abilit
 A 10-session introductory campaign for 3-5 players.
 
 **Session 1: The Door**
-The players find the Inn. Lark meets them at the entrance. They choose their Keystones. The Inn greets them — warm, curious, alive. They explore the Main Floor, meet Joe (who has lost a dragon kitten), and encounter the Crone (who says one sentence that none of them can quite remember afterward). Hook: Beverley mentions that a text in the Archive has been "making noise."
+The players find the Inn. Lark meets them at the entrance. They choose their Keystones. The Inn greets them — warm, curious, alive. They explore the Main Floor, meet Joe (who has lost a dragon kitten), and encounter the Ragana (who says one sentence that none of them can quite remember afterward). Hook: Beverley mentions that a text in the Archive has been "making noise."
 
 **Session 2: The Noise**
 The players investigate the Archive. Research reveals the text is an unfinished contract — the Golden Contract — that binds the Inn to its purpose. The contract is missing its final clause. Beverley claims not to care, but her eye twitches. The players begin to explore the Staircase, where the gargoyles test them.
@@ -386,7 +386,7 @@ The last line of the campaign: *The Inn remembers you. It always will.*
 
 | NPC | Zone | Frequency | Resonance | Notes |
 |-----|------|-----------|----------|-------|
-| The Crone | Varies | Adaptive | 6 | Knows everything. Chooses what to share. |
+| The Ragana | Varies | Adaptive | 6 | Knows everything. Chooses what to share. |
 | Beverley | Archive | SENSE | 4 | Librarian. Anne Robinson energy. Australian. |
 | Naut | Main Floor | NULL | 3 | Squid scholar. Spectacles. Hidden quests. |
 | Lozen | Main Floor | STAY | 5 | Boxer. Guard. Vigil questline. |

@@ -4,14 +4,14 @@
 
 ### Linework-as-UI System
 - **Heavy cel-shaded** — tradesmen, craftspeople, working characters (Jay, Luna, Blacksmith, Goldsmith)
-- **Soft flowing** — lore characters, scholars, archive keepers (Crone, Beverley, Naut)
+- **Soft flowing** — lore characters, scholars, archive keepers (Ragana, Beverley, Naut)
 - **Sharp/angular** — guardians, warriors, protectors (Gargoyles, Griffin, Morrigan)
 - **No-outline** — cosmological beings, divine entities, the sky gods (Allfather, Freyr, Freyja, Bramble, Cosmic Crew)
 - **Fragmented** — characters in crisis, unstable identities (The Shifting Man, characters between states)
 
 ### Celebrity Softening Rule
 - ALL celebrity-inspired characters have their facial features softened — evoke presence through posture, costume, gesture, and voice description, NOT through portrait likeness
-- The ONLY exception: Anthony Hopkins' eyes — the clear, seeing gaze (Silence of the Lambs clarity) appears on the Crone, Charon, and the Librarian
+- The ONLY exception: Anthony Hopkins' eyes — the clear, seeing gaze (Silence of the Lambs clarity) appears on the Ragana, Charon, and the Librarian
 
 ### Color Architecture
 - Overall Inn palette: warm amber, gold, cream — "hobbit-hole cozy" base

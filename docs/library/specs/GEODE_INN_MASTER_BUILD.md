@@ -191,7 +191,7 @@ Ten centered buttons going straight down, each one a level. Each button carries:
 | The Wanderer | "Passing through." | Warm traveler | Main floor |
 | The Owl | "Watching." | Silent presence | Variable |
 | Naut | "Fascinating." | Scholarly, quiet | Fireplace |
-| The Crone | "Sit." | Unblinking eyes | Undercity |
+| The Ragana | "Sit." | Unblinking eyes | Undercity |
 | The Firekeeper | "Tend." | Quiet devotion | Hearth |
 | The Catalyst | "What changes?" | Philosophical | Hearth |
 

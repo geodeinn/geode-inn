@@ -28,7 +28,7 @@
 | Lozen (Sentinel) | https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/b38027bf2_generated_image.png |
 | Medusa | https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/860dd29b7_generated_image.png |
 | Naut (Naut Scholar) | https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/263c85549_generated_image.png |
-| The Crone | https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/9d46de1b5_generated_image.png |
+| The Ragana | https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/9d46de1b5_generated_image.png |
 | The Storyteller | https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/8a7031508_generated_image.png |
 | Ferryman's Guest (Death) | https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/9f161d1eb_generated_image.png |
 | Charon | https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/d21857e58_generated_image.png |
@@ -74,7 +74,7 @@
 
 | Character | In-Between URL |
 |-----------|---------------|
-| The Crone | https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/72ed2ed1c_generated_image.png |
+| The Ragana | https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/72ed2ed1c_generated_image.png |
 | The Storyteller | https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/fbe9d53e9_generated_image.png |
 | The Allfather (Odin) | https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/3e4147da4_generated_image.png |
 | The Morrigan | https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/875406225_generated_image.png |

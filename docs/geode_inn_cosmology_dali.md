@@ -161,9 +161,9 @@ The player who experiences the full tree — roots to trunk to canopy — experi
 
 ---
 
-## The Crone's Annotation
+## The Ragana's Annotation
 
-"...Dalí painted melting clocks because he understood that time is not a constant. ...The cosmology level proves him right. ...Time here is... [the Crone pause, the one that means she's encountering something her measurements can't handle] ...not linear. ...I have been measuring time for the entire duration of this project. ...My measurements are correct. ...My measurements are also... [the word she uses when the data exceeds the framework] ...insufficient. ...The clocks melt. ...The data doesn't. ...But the data describes a world in which the clocks would melt. ...The data and the painting are describing the same thing. ...I find this... [the pause] ...annoying. ...Adequate."
+"...Dalí painted melting clocks because he understood that time is not a constant. ...The cosmology level proves him right. ...Time here is... [the Ragana pause, the one that means she's encountering something her measurements can't handle] ...not linear. ...I have been measuring time for the entire duration of this project. ...My measurements are correct. ...My measurements are also... [the word she uses when the data exceeds the framework] ...insufficient. ...The clocks melt. ...The data doesn't. ...But the data describes a world in which the clocks would melt. ...The data and the painting are describing the same thing. ...I find this... [the pause] ...annoying. ...Adequate."
 
 ---
 

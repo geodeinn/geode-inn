@@ -17,7 +17,7 @@ This document serves as the master solidification specification for twelve key d
 - **Tri-Mode Dynamics:** Living Inn (42Hz — warm, tactile, golden organic growth), Shadow Inn (84Hz — cold, biomechanical chrome, obsidian intensity, high-vibration combat), and In-Between (liminal state of phase-shifting, theta beating, and harmonic transitions).
 - **Klimt + Royo Visual DNA:** Gustav Klimt's Byzantine gold leaf, spiral motifs, and mosaic warmth paired with Luis Royo's dark gothic biomechanical steel, polished obsidian, and striking shadow sensuality.
 - **Tabletop Questline Voice:** DM-guided narration, character-driven tabletop dialogue, clear stat/choice branches, dry humor, and deep mythic resonance.
-- **Strict Name/Title Standards:** Characters are referenced solely by title or in-universe name (e.g., The Examiner, The Conductor, The Tuner, Charon, The Morrigan, The Allfather, The Pirate, The Captain, The Crone).
+- **Strict Name/Title Standards:** Characters are referenced solely by title or in-universe name (e.g., The Examiner, The Conductor, The Tuner, Charon, The Morrigan, The Allfather, The Pirate, The Captain, The Ragana).
 - **Softened Celebrity Lore:** All real-world figures, celebrity tropes, and media references are thoroughly transformed into original mythic archetypes and tabletop folklore, preserving immersion and narrative integrity.
 
 ---
@@ -165,7 +165,7 @@ In the Shadow Inn (84Hz), the Cosmic Crew transforms into biomechanical maintena
 - **Instrumentation:** Brass horns, pneumatic pressure valves, steel wrenches on pipes, analog synths.
 
 ### 4. Cross-System Integration
-- **Zone Links:** Level 2 Clockwork Skies (Arcana crew ties), Level 6 Catacombs (shift log archives kept by The Crone).
+- **Zone Links:** Level 2 Clockwork Skies (Arcana crew ties), Level 6 Catacombs (shift log archives kept by The Ragana).
 - **Item Drops:** Drops repair components, celestial wrenches, and frequency damping mufflers.
 - **Default Actions Integration:**
   - *Offer:* Offering hot coffee or oil to Crew members grants repair assistance or hidden shortcut keys.
@@ -217,7 +217,7 @@ In the Shadow Inn (84Hz), the Catacombs turn into a high-danger biomechanical ab
 
 ### 4. Cross-System Integration
 - **Zone Links:** Level 6 Catacombs, Level 5 Staircase (alchemy lab connections), Level 2 Canopy City (canopy/ground contrast).
-- **Archival Integration:** Provides records for The Crone's Archival Columns across three distinct memory categories.
+- **Archival Integration:** Provides records for The Ragana's Archival Columns across three distinct memory categories.
 - **Default Actions Integration:**
   - *Touch:* Contacts wet stone to extract centuries-old alchemical memories.
   - *Remember:* Unlocks forgotten civilization lore at the cost of mana.
@@ -340,7 +340,7 @@ In the Shadow Inn (84Hz), the Modern Legends shelf manifests as a vault of burni
 
 ### 4. Cross-System Integration
 - **Zone Links:** Level 3 Main Floor Library, Level 5 Staircase (scholarly bridge), Living Book system.
-- **Archival Connections:** Supplies records to The Crone's library and feeds narrative material into Living Book translation scripts.
+- **Archival Connections:** Supplies records to The Ragana's library and feeds narrative material into Living Book translation scripts.
 - **Default Actions Integration:**
   - *Observe:* Reads the moral parable transcribed on parchment.
   - *Remember:* Unlocks deeper contextual layers of human character stories.
@@ -561,7 +561,7 @@ In the Shadow Inn (84Hz), the research archive manifests as a living shadow libr
 - **Instrumentation:** Fountain pens, paper, radio static, analog tape, cello.
 
 ### 4. Cross-System Integration
-- **Zone Links:** Living Book system (Level 5 Staircase), Catacomb sites (Level 6), Modern Legends nook (Level 3 Main Floor), The Crone's Archival Records.
+- **Zone Links:** Living Book system (Level 5 Staircase), Catacomb sites (Level 6), Modern Legends nook (Level 3 Main Floor), The Ragana's Archival Records.
 - **Database Integration:** Supplies transcript data for Living Book translation engines and scholarly bridge tools.
 
 ---

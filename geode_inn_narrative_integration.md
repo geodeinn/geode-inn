@@ -40,7 +40,7 @@ Glioblastoma / Cancer Antagonist   ───────>  The Internal Crucible
 #### The Precision of the Millwright
 In the physical world, Charles works with micrometer tolerances—measuring thousandths of an inch, aligning heavy steel gears, balancing turbine shafts, and ensuring that physical machines run without friction or catastrophic shear. 
 
-In the narrative spine, this real-world precision maps directly to the **Crone's (Inta's) intellectual measuring**. Where the Crone measures words, aesthetics, and archival records with razor-sharp analytical scrutiny, Charles measures the physical and gravitational tolerances of the universe itself. As an Annunaki millwright of the cosmos, he ensures the Inn-Tree does not warp under the sheer acoustic pressure of the 42Hz hum.
+In the narrative spine, this real-world precision maps directly to the **Ragana's (Inta's) intellectual measuring**. Where the Ragana measures words, aesthetics, and archival records with razor-sharp analytical scrutiny, Charles measures the physical and gravitational tolerances of the universe itself. As an Annunaki millwright of the cosmos, he ensures the Inn-Tree does not warp under the sheer acoustic pressure of the 42Hz hum.
 
 ### 2.2 Alchemical Transmutation & The Rubedo Moment
 
@@ -68,8 +68,8 @@ During Act Two, when the Bard performs in the Main Floor Tavern, the music drops
 #### The Encoded Subtext
 This moment is the single crack in the cosmic facade of the Constant. 
 * **The Reversal:** For millions of cycles, the Constant is an stoic, unyielding Annunaki deity holding the starlight crystal. But when the Bard speaks *'inta inta'*, the cosmic curtain slips away. 
-* **The Human Heart:** *Inta* is the real name of the Crone—Charles's wife of over 60 years in the foundational lore. The Bard does not address the ancient Annunaki; he addresses the man who eloped six decades ago, who bickers over details versus feelings, and whose entire cosmic journey across the void is driven by love for her.
-* **The Impact:** When the Bard says *'inta inta'*, every clock in the Inn pauses for one beat (1/50th of a minute). The Crone stops annotating her ledger, looks up from the library balcony, and for the first time in the game, her sharp Hopkins cadence softens into complete silence.
+* **The Human Heart:** *Inta* is the real name of the Ragana—Charles's wife of over 60 years in the foundational lore. The Bard does not address the ancient Annunaki; he addresses the man who eloped six decades ago, who bickers over details versus feelings, and whose entire cosmic journey across the void is driven by love for her.
+* **The Impact:** When the Bard says *'inta inta'*, every clock in the Inn pauses for one beat (1/50th of a minute). The Ragana stops annotating her ledger, looks up from the library balcony, and for the first time in the game, her sharp Hopkins cadence softens into complete silence.
 
 ---
 
@@ -99,7 +99,7 @@ CHARLES (CONT'D)
 ...The fire hit the shop back in '78. Bright red blast. Chlorine gas and burning steel. Everyone thought it was an accident. ...I knew what it was. It was the Rubedo. The universe telling me it was time to forge the next crystal. ...It left a mark inside my head. A little growth of starlight. ...Some call it a tumor. I call it the seed.
 
 PLAYER
-Does she know? The Crone?
+Does she know? The Ragana?
 
 Charles stops. His hands—hands that have calibrated gearboxes for half a century—stay perfectly still for three full seconds. Down in the courtyard below, the Bard's song drifts up through the floorboards. The lute notes die away, leaving only a whispered cadence: "...inta... inta..."
 

@@ -32,7 +32,7 @@ Create a `clips/` directory with your reference audio files. Optionally include 
 ```json
 [
     {"file": "stewart.wav", "name": "The Host", "actor": "Patrick Stewart"},
-    {"file": "hopkins.wav", "name": "The Crone", "actor": "Anthony Hopkins"},
+    {"file": "hopkins.wav", "name": "The Ragana", "actor": "Anthony Hopkins"},
     {"file": "carter.wav", "name": "The Catalyst", "actor": "Helena Bonham Carter"},
     {"file": "gubler.wav", "name": "The Cartographer", "actor": "Matthew Gray Gubler"},
     {"file": "deschanel.wav", "name": "The Examiner", "actor": "Emily Deschanel"}

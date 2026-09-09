@@ -32,7 +32,7 @@ The warmth is not just the fire. It's the Ent's body heat. Living things are war
 |----------|-------|---------|
 | The Inn-Tree (The Ent) | 1 | The oldest being. The Inn itself. |
 | The Family | 3 | Krista (Artisan Thief / Selkie), Lozen (The Sentinel / Lozen), Charles (Chameleon Druid) |
-| The Staff | 8+ | The Host, the Crone, the Catalyst, the Bard, the Reader, Thorin, Marijke |
+| The Staff | 8+ | The Host, the Ragana, the Catalyst, the Bard, the Reader, Thorin, Marijke |
 | The Gods | 6+ | The Allfather, Freyr, Freyja, the Morrigan, Bastet, Anubis |
 | The Fae | 10+ | Seelie King, Unseelie Queen, the Norns, the Weaver |
 | The Water Creatures | 32 | Nessie, Undine Queen, Tiamat, the full bestiary |

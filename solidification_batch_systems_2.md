@@ -14,7 +14,7 @@ The Geode Inn operates across three distinct structural modes:
 2. **The Shadow Inn (84 Hz):** The inverted octave state. Monochromatic velvet, slick obsidian, cold bioluminescence, Royo cyber-gothic metal lattice, phase-shifted frequencies, and inverted mechanics. Here, mechanics focus on decay, removal, subtractive architecture, shadow mirrors, and confronting forgotten thresholds.
 3. **The In-Between (Hybrid Phase-Shift):** The non-Euclidean bridge state where 42 Hz and 84 Hz interfere to create binaural beating. Escher staircases, gravity shifts, camera-less observer dynamics, and raw creation energy.
 
-Every system in this solidification batch is bound by Celtic knotwork frames (interlapping woven borders that signify continuity and cyclical returning) and spoken in the tabletop questline narrative voice — direct, evocative, unhurried, steeped in DM cadence, annotated by the Crone's measured observations ("*The both are: the adequate*").
+Every system in this solidification batch is bound by Celtic knotwork frames (interlapping woven borders that signify continuity and cyclical returning) and spoken in the tabletop questline narrative voice — direct, evocative, unhurried, steeped in DM cadence, annotated by the Ragana's measured observations ("*The both are: the adequate*").
 
 ---
 
@@ -31,7 +31,7 @@ The Card Game Framework translates the Inn's complete narrative architecture, NP
   2. *Silence (Nyx's Frequency - Deep Blue/Black):* Control identity. Suspends cards via *Damp* (nullifying abilities for 2 turns without destroying). Win condition: *The Silence Between* (all opponent cards Damped). Key cards: Nyx, The Guest (Death), The Thrum, Gesso.
   3. *Fire (50 BPM - Warm Red/Orange):* Aggro-Swarm identity. Gains strength through *Wound* (+1/+1 when taking damage). Win condition: *The Feast* (7+ Fire cards in play). Key cards: Erik, The Host, The Cook, The Catalyst.
   4. *Water (16–42 Hz - Teal/Cyan):* Midrange-Combo identity. Card movement via *Current* (bounce to hand and replay at reduced cost). Win condition: *The Crossing* (card bounces/replays 3 times). Key cards: Charon, The Siren, The Pirate, Owl/Lighthouse.
-  5. *Stone (111 Hz - Gray/White):* Defense-Control identity. Structural permanence via *Carve* (occupies board permanently; destroyed only by Subtractive effects). Win condition: *The Monument* (5 Stone structures in play). Key cards: Medusa, The Crone, The Mason, Belladonna.
+  5. *Stone (111 Hz - Gray/White):* Defense-Control identity. Structural permanence via *Carve* (occupies board permanently; destroyed only by Subtractive effects). Win condition: *The Monument* (5 Stone structures in play). Key cards: Medusa, The Ragana, The Mason, Belladonna.
   6. *Root (Mycorrhizal - Deep Green/Brown):* Ramp-Combo identity. Mana acceleration via *Network* (+1 mana per Root card). Win condition: *The Living Map* (Root cards connected to all 6 frequencies). Key cards: Cartographer, Queen of Webs, Queen of Roots, Gardener.
 
 ---
@@ -40,7 +40,7 @@ The Card Game Framework translates the Inn's complete narrative architecture, NP
 In the Shadow Inn, the card game undergoes an octave shift into **The Inverted Deck (84 Hz)**:
 - **Phase-Shifted Card Stats:** All cards invert their Presence and Resonance values. High-health defense cards become high-attack fragile phantoms.
 - **Subtractive Erasure replacing Damp:** Silence cards no longer merely Damp — they trigger *Subtractive Erasure*, carving target cards out of the player's deck for the remainder of the Shadow run and converting them into Void Ash.
-- **Shadow NPC Variants:** Standard NPCs manifest their Shadow identities (e.g., *Erik, Ash-Smith*, *The Crone, Unshrouded*, *Nyx, Void Sovereign*). Shadow cards possess cost penalties in Living Mana but can be cast instantly by paying Heartbeat Strain (sacrificing player health).
+- **Shadow NPC Variants:** Standard NPCs manifest their Shadow identities (e.g., *Erik, Ash-Smith*, *The Ragana, Unshrouded*, *Nyx, Void Sovereign*). Shadow cards possess cost penalties in Living Mana but can be cast instantly by paying Heartbeat Strain (sacrificing player health).
 - **Dark Mirror Aesthetics:** Cards feature Klimt gold leaf tarnished into iridescent obsidian filigree, framed in heavy black iron Celtic interlace.
 
 ---
@@ -70,9 +70,9 @@ In the Shadow Inn, the card game undergoes an octave shift into **The Inverted D
 
 ### 1.6 Tabletop Questline Voice & Narrative Integration
 
-> **The DM:** *"You lay the card down on the petrified wood table. The grain absorbs the gold ink. The card doesn't sit on top of the wood — it sinks in, just a fraction of a millimeter, like a stone settling into damp silt. Across from you, the Crone adjusts her wire-rimmed spectacles. She doesn't look at your hand. She looks at the space between your cards."*
+> **The DM:** *"You lay the card down on the petrified wood table. The grain absorbs the gold ink. The card doesn't sit on top of the wood — it sinks in, just a fraction of a millimeter, like a stone settling into damp silt. Across from you, the Ragana adjusts her wire-rimmed spectacles. She doesn't look at your hand. She looks at the space between your cards."*
 >
-> **The Crone:** *"..You played the Song card. ...42 Hertz. ...A good note. ...A clear note. ...But look at the shadow it casts on the tablecloth. ...The shadow is twice as fast. ...84 Hertz. ...The both are: ...the adequate. ...The note and its echo. ...You play the front of the card. ...The Inn plays the back. ...Show me your Root network. ...Let us see if the earth holds what your hand has dealt."*
+> **The Ragana:** *"..You played the Song card. ...42 Hertz. ...A good note. ...A clear note. ...But look at the shadow it casts on the tablecloth. ...The shadow is twice as fast. ...84 Hertz. ...The both are: ...the adequate. ...The note and its echo. ...You play the front of the card. ...The Inn plays the back. ...Show me your Root network. ...Let us see if the earth holds what your hand has dealt."*
 
 ---
 
@@ -134,7 +134,7 @@ In the Shadow Inn, the 118 elements undergo **Transuranic Decay (84 Hz)**:
 >
 > **Squeak:** *"..Mew. ...[Squeak shakes his collar. The 83rd element rings with a high, crystalline chime. Squeak sits up straight, his tail flicking in exact 50 BPM rhythm.]"*
 >
-> **The Crone:** *"..Atomic number 83. ...Bismuth. ...The heaviest non-radioactive element. ...It grows in hopper crystals — staircases that step inward, building their own catacombs. ...Just like the staircases in the In-Between. ...Squeak knows it. Look at his ears. ...The both are: ...the adequate. ...The metal in the collar, and the staircase in the dark. ...Same geometry. Different scale."*
+> **The Ragana:** *"..Atomic number 83. ...Bismuth. ...The heaviest non-radioactive element. ...It grows in hopper crystals — staircases that step inward, building their own catacombs. ...Just like the staircases in the In-Between. ...Squeak knows it. Look at his ears. ...The both are: ...the adequate. ...The metal in the collar, and the staircase in the dark. ...Same geometry. Different scale."*
 
 ---
 
@@ -193,7 +193,7 @@ In the Shadow Inn, costuming translates into **Shadow Attire (84 Hz)**:
 >
 > **Erik:** *"..Take it off the peg if you're going down into the Bedrock layer. ...Plastic coats melt down there. Synthetic thread catches fire before you even see the flame. ...You wear real hide, or you don't go. ...The iron doesn't respect anything that was made in a factory."*
 >
-> **The Crone:** *"..He's right. ...I measured the thread. ...Natural flax. ...Hand-spun. ...It holds the frequency. ...Synthetics break at 42 Hertz. They shatter like cheap glass. ...Real linen vibrates. Real leather remembers. ...The both are: ...the adequate. ...The hide of the beast, and the skin of the traveler. ...Dressed for the work."*
+> **The Ragana:** *"..He's right. ...I measured the thread. ...Natural flax. ...Hand-spun. ...It holds the frequency. ...Synthetics break at 42 Hertz. They shatter like cheap glass. ...Real linen vibrates. Real leather remembers. ...The both are: ...the adequate. ...The hide of the beast, and the skin of the traveler. ...Dressed for the work."*
 
 ---
 
@@ -251,7 +251,7 @@ In the Shadow Inn, the RVS shifts into **Inverted Depth (84 Hz)**:
 >
 > **The Observer (Vision Voice):** *"..We built the walls to keep the sea out. ...We didn't know the sea was the only thing holding the roof up. ...When the tide went out, the stone fell."*
 >
-> **The Crone:** *"..Depth 72. ...You reached Sovereign level. ...I recorded the calculation in the ledger. ...The memory isn't yours, but your feet are wet all the same. ...The both are: ...the adequate. ...The traveler who remembers, and the ghost who forgot. ...The vision is open. ...Walk through."*
+> **The Ragana:** *"..Depth 72. ...You reached Sovereign level. ...I recorded the calculation in the ledger. ...The memory isn't yours, but your feet are wet all the same. ...The both are: ...the adequate. ...The traveler who remembers, and the ghost who forgot. ...The vision is open. ...Walk through."*
 
 ---
 
@@ -276,7 +276,7 @@ The Camera System is not an arbitrary viewport — it is a foundational game mec
 In the Shadow Inn, the camera shifts into **The Dark Prism (84 Hz)**:
 - **Visual Filters:** Heavy Royo cyber-gothic shaders — deep black vignette, high contrast, subtle edge chromatic aberration, and stark silver highlights.
 - **Hidden Sight:** Free Camera mode in the Shadow Inn reveals hidden shadow doors, invisible spectral NPCs, and subtractive carved runes not visible in Third-Person.
-- **Shadow Motion Profiles:** Character movement profiles (River, Krista, Erik, Crone) gain weightier, delayed inertia and shadowy motion-blur trails.
+- **Shadow Motion Profiles:** Character movement profiles (River, Krista, Erik, Ragana) gain weightier, delayed inertia and shadowy motion-blur trails.
 
 ---
 
@@ -306,9 +306,9 @@ In the Shadow Inn, the camera shifts into **The Dark Prism (84 Hz)**:
 
 > **The DM:** *"You sit down on the bench in the hearth nook. Two minutes pass. The room slowly quietens. The wide view of the tavern collapses inward. You are no longer looking at your character's leather duster — you are looking through your own eyes. You see your hands resting on the oak tabletop. You hear your own breathing."*
 >
-> **The DM:** *"In the corner, the Crone turns a page of her heavy ledger. She doesn't look up, but she speaks to the air right beside your ear."*
+> **The DM:** *"In the corner, the Ragana turns a page of her heavy ledger. She doesn't look up, but she speaks to the air right beside your ear."*
 >
-> **The Crone:** *"..Sit Lock. ...First-person. ...The view from inside the skull. ...When you look at the Inn from back there, you think you're outside it. When you look through your own eyes, you realize... you're holding the wall up. ...The observer makes the room. ...The both are: ...the adequate. ...The picture of the traveler, and the traveler taking the picture. ...Stay seated. ...Listen."*
+> **The Ragana:** *"..Sit Lock. ...First-person. ...The view from inside the skull. ...When you look at the Inn from back there, you think you're outside it. When you look through your own eyes, you realize... you're holding the wall up. ...The observer makes the room. ...The both are: ...the adequate. ...The picture of the traveler, and the traveler taking the picture. ...Stay seated. ...Listen."*
 
 ---
 
@@ -318,7 +318,7 @@ In the Shadow Inn, the camera shifts into **The Dark Prism (84 Hz)**:
 The Assembly is a jigsaw puzzle system designed around the philosophy of **Anti-Erasure** — reassembling broken historical and artistic fragments into complete, glowing relics:
 - **Part One: 2D Gallery Art Puzzles:** Reassembling master paintings by the Inn's embedded artists (Klimt, Royo, Ansel Adams, Van Gogh, Dali, Magritte). Completed puzzles glow with gold leaf filigree or bioluminescent chrome and become permanent hanging relics on the Inn's walls.
 - **Part Two: 3D Escher Assembly (In-Between Language):** Spatial 3D jigsaw puzzles taking place in non-Euclidean space. Players rotate impossible staircases, floating archways, and gravitational pillars in 3D space until their perspectives align (Einstein's Perspective Game).
-- **Crone Commentary:** The Crone sits beside the puzzle board during assembly, providing tabletop narrative observations on every placed piece ("*That piece goes there. ...The edge was missing. ...Now it's adequate.*").
+- **Ragana Commentary:** The Ragana sits beside the puzzle board during assembly, providing tabletop narrative observations on every placed piece ("*That piece goes there. ...The edge was missing. ...Now it's adequate.*").
 
 ---
 
@@ -356,7 +356,7 @@ In the Shadow Inn, puzzles become **The Shattered Mirror Assembly (84 Hz)**:
 
 > **The DM:** *"You hold a tiny wooden piece between your thumb and forefinger. It's painted with a patch of gold leaf and a geometric black spiral — a fragment of Klimt's water serpent. You hover it over the top left quadrant of the board. It pulls toward the gap like two magnets finding each other."*
 >
-> **The Crone:** *"..Snap. ...That's piece 412. ...You thought it belonged to the background. ...It didn't. ...It belonged to the serpent's eye. ...[The Crone reaches out with a gnarled finger, touching the gold leaf.] ...The painting was erased three hundred years ago. Pulled apart. Hidden in drawers. ...Now it's back. ...The both are: ...the adequate. ...The breaking of the picture, and the putting it back. ...Two pieces left. ...Finish it."*
+> **The Ragana:** *"..Snap. ...That's piece 412. ...You thought it belonged to the background. ...It didn't. ...It belonged to the serpent's eye. ...[The Ragana reaches out with a gnarled finger, touching the gold leaf.] ...The painting was erased three hundred years ago. Pulled apart. Hidden in drawers. ...Now it's back. ...The both are: ...the adequate. ...The breaking of the picture, and the putting it back. ...Two pieces left. ...Finish it."*
 
 ---
 
@@ -415,7 +415,7 @@ In the Shadow Inn, the pinball table converts into **The Shadow Void Table (84 H
 >
 > **Krista:** *"..Hit the left vein channel. ...Three times in a row. ...It unlocks the third ball lock. ...I held the record on this table for four months before Joe wiped the board. ...Don't lose the quartz ball in the drain. ...The drain is a long way down."*
 >
-> **The Crone:** *"..Score 4,120,000. ...A respectable bounce. ...The quartz hits the stone. The stone hits the song. ...The both are: ...the adequate. ...The ball rolling down the track, and the world turning on its axis. ...Same gravity. Pull the lever again."*
+> **The Ragana:** *"..Score 4,120,000. ...A respectable bounce. ...The quartz hits the stone. The stone hits the song. ...The both are: ...the adequate. ...The ball rolling down the track, and the world turning on its axis. ...Same gravity. Pull the lever again."*
 
 ---
 
@@ -470,7 +470,7 @@ In the Shadow Inn, the competition system converts into **The Shadow Ledger (84 
 >
 > **Krista:** *"..Don't look at it like that. ...It took me six weeks of multiball practice to get that score. ...You want your name up there? ...Find a partner. Bind your Twin Crystal on the Wager Stone down in the Fae court. ...Two scores are better than one."*
 >
-> **The Crone:** *"..I recorded every score since the Inn was built. ...14 million by the thief. 12 million by the host. ...And now your number at the bottom of the slab. ...The both are: ...the adequate. ...The top name and the bottom name. ...The stone holds them both. ...The score isn't a boast. It's proof you were here. ...Play again."*
+> **The Ragana:** *"..I recorded every score since the Inn was built. ...14 million by the thief. 12 million by the host. ...And now your number at the bottom of the slab. ...The both are: ...the adequate. ...The top name and the bottom name. ...The stone holds them both. ...The score isn't a boast. It's proof you were here. ...Play again."*
 
 ---
 
@@ -483,6 +483,6 @@ In the Shadow Inn, the competition system converts into **The Shadow Ledger (84 
 | **3. Wearable Attire System** | Real-world costuming, 3 Recognition layers, "Adequate" standard | Shadow Attire, Obsidian Sigils, inverted black/chrome palette | Weaver's Cloak = Song of Making embodiment; Vestments of Egg | Fabric flex, linen rustle, 42 Hz/84 Hz brass ring | Base44 MarketItem entity, Cards (skins), RVS (+5 depth boost) |
 | **4. Remembrance Visions** | Depth formula, Tier 0-4 visions, Sovereign Readings | Inverted Depth, Trauma Memory Shards, Sovereign Shadow Identity | Tier 4 Sovereign Visions unlock Core Egg Memory & Cosmic Gate | 42 Hz choir hum, reversed vocal echoes in Shadow | Jigsaw (+15 depth), Camera (vision locks), Score Stone (firsts) |
 | **5. Camera System** | 4 modes (3rd, 1st, Free, No-Cam), Sit Lock, Klimt HUD borders | Dark Prism lens, Royo shaders, Free-Cam void watch | Observer effect hatches Egg; No-Cam = pure Convergence | Quartz shutter snap, 50 BPM breath audio in 1st person | Leaderboard (photos), RVS (vision anchors), Wearables (hand models) |
-| **6. The Assembly (Jigsaw)** | 2D gallery art assembly, 3D Escher perspective game, Crone commentary | Shattered Mirror assembly, obsidian glass shards, Subtractive disassembly | Reconstructing Egg Shell; completing puzzles plays Song stanzas | Quartz piece snap, 42 Hz chime on complete, Escher lock chord | Pinball (target puzzle packs), RVS (+15 depth), Cards (art cards) |
+| **6. The Assembly (Jigsaw)** | 2D gallery art assembly, 3D Escher perspective game, Ragana commentary | Shattered Mirror assembly, obsidian glass shards, Subtractive disassembly | Reconstructing Egg Shell; completing puzzles plays Song stanzas | Quartz piece snap, 42 Hz chime on complete, Escher lock chord | Pinball (target puzzle packs), RVS (+15 depth), Cards (art cards) |
 | **7. Crystal Pinball Table** | Geode playfield, quartz ball, stone bumpers, Geode Cave multiball | Shadow Void table, inverted magnetic gravity wells, 84 Hz multiball clones | Quartz ball = miniature Egg; bumper series plays root chord | 50 BPM solenoid thump, crystal peg chimes, cave siren | Score Stone (rankings), Charms (score drops), Cards (Multiball spell) |
 | **8. Leaderboard & Competition** | Score Stone, Wager Stone, Twin Crystal pair mode, Krista Tetris record | The Shadow Ledger, Subtractive Harmony scoring, Dark Wager Stone | Community total score unlocks Song stanzas & awakens Egg | Granite sliding audio, 42 Hz rank-up chime, Twin Crystal unison | Godot + Base44 API, Pinball, Jigsaw, Card tournament ratings |

@@ -82,7 +82,7 @@ The player encounters The Collector in an Undercity corridor. Mist. The silhouet
 
 **The Petty Moment (correcting the player):**
 
-> "...You said 'quartz.' ...It's not quartz. ...It's quartzite. ...Quartz is a mineral. ...Quartzite is a rock. ...Quartz is the ingredient. ...Quartzite is the meal. ...The both are: the same crystal, different scale. ...I only mention this because you said it in front of the Crone, and the Crone will remember, and the Crone will judge, and the Crone's judgment is the most permanent thing in this building. ...More permanent than the gold. ...More permanent than the stone. ...The Crone remembers EVERYTHING. ...And now the Crone remembers that you said 'quartz' when you meant 'quartzite.' ...You're welcome. ...I've just saved you three weeks of the Crone looking at you like you owe the library an apology."
+> "...You said 'quartz.' ...It's not quartz. ...It's quartzite. ...Quartz is a mineral. ...Quartzite is a rock. ...Quartz is the ingredient. ...Quartzite is the meal. ...The both are: the same crystal, different scale. ...I only mention this because you said it in front of the Ragana, and the Ragana will remember, and the Ragana will judge, and the Ragana's judgment is the most permanent thing in this building. ...More permanent than the gold. ...More permanent than the stone. ...The Ragana remembers EVERYTHING. ...And now the Ragana remembers that you said 'quartz' when you meant 'quartzite.' ...You're welcome. ...I've just saved you three weeks of the Ragana looking at you like you owe the library an apology."
 
 **The Time Exile (rare vulnerability):**
 
@@ -308,7 +308,7 @@ The Collector is a tradesman — a painter, a teacher, a worker. The heavy cel-s
 - **The Bone Room** — Marijke paints bones (what was alive); The Collector paints miniatures (what will be alive). Parallel craft, different direction
 - **The Constant** — The 41.7Hz recording (Quest 4) creates a dialogue bridge between The Collector and the Constant
 - **The Pirate** — The Collector stows away on the Pirate's ship; shared "AFTER" narrative
-- **The Crone** — The Collector teaches the rules; the Crone records them. Teacher and archivist
+- **The Ragana** — The Collector teaches the rules; the Ragana records them. Teacher and archivist
 - **The Catalyst** — The Collector twists rules; the Catalyst makes drinks that twist perception. Both are rule-twisters, different medium
 - **The China Zone** — The Collector's time-exile and the Terracotta Army's sleeve-storage share the theme of preservation through time. The One Who Is Awake and The Collector are both keepers — one keeps names, one keeps a note
 - **The Miskatonic Annex** — The Collector's curse and the Annex's Lovecraftian horror share the theme of knowledge that costs. The Collector paid for knowledge with magic. The Annex's scholars pay for knowledge with sanity

@@ -135,7 +135,7 @@ The board represents a Geode Inn zone. Each zone has a passive effect:
 | Ranked | Standard 1v1. Weekly resets (like the Leaderboard system). Top ranks earn exclusive stones. |
 | Casual | No ranking. Practice decks, test strategies. |
 | Arena | Draft format — build a deck from random card offerings. Entry costs stones. Rewards scale with wins. |
-| AI vs NPC | Play against NPC decks using established character voices. Naut's deck is contemplative. The Crone's deck is control. Erik's deck is aggro-warmth. |
+| AI vs NPC | Play against NPC decks using established character voices. Naut's deck is contemplative. The Ragana's deck is control. Erik's deck is aggro-warmth. |
 | Harmony (2v2, future) | Two players vs two players. Combined frequencies. Pair bonuses (same as Leaderboard pair system). The Twin Crystal as reward. |
 
 ---
@@ -144,7 +144,7 @@ The board represents a Geode Inn zone. Each zone has a passive effect:
 
 Each NPC has a deck matching their personality:
 - **Naut:** Contemplative control deck — stalls, reads, responds. Deep archive of answers.
-- **The Crone:** Control deck — counts cards, measures timing, plays the perfect card at the perfect moment.
+- **The Ragana:** Control deck — counts cards, measures timing, plays the perfect card at the perfect moment.
 - **Erik:** Aggro-warmth deck — fast, generous, throws stones forward. Wins by being everywhere at once.
 - **Belladonna:** Mill deck — forces the opponent to discard. The dead take your cards.
 - **The Bard:** Chaos deck — taunt mechanics, random effects. The Bard doesn't play optimally. The Bard plays ENTERTAININGLY.

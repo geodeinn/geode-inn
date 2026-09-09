@@ -19,7 +19,7 @@ The AzerothCore docs were the scaffolding. This is the building.
 [Staircase] — Alchemical transition, philosophy, bridge texts
      |
 [Catacombs] — Memory layer: ancient civilizations, primary sources,
-     |          sealed sections, the Crone's archive, Beverley's navigation
+     |          sealed sections, the Ragana's archive, Beverley's navigation
      |          Charles's Natural Archive, the Deep (Fae Kingdom connection)
      |
 [Undercity] — Invention layer: workshops, Bead Board crafting, Goldsmith,
@@ -74,7 +74,7 @@ The In-Between mode activates during transitions — the staircase descent, the 
 - **Hook:** A foundation marker has appeared in the floor of the Inn — three depressions in the stone, forming a triangle. The Inn is remembering something it was.
 - **Objective:** Find 3 foundation markers in the Main Floor (compass points N, SE, SW). Listen to the earth at each (audio cue — different tone at each, the 64Hz Listener frequency).
 - **42Hz Mode:** Pure exploration. The Inn is warm, inviting. The markers are subtle — the player must pay attention to the floor.
-- **Catacomb Connection:** The markers match foundation patterns in the Catacombs' pre-language section. The Crone has catalogued similar triangles. The player can visit the Catacombs to see the pattern — but the Crone won't explain it. "I catalogue. I don't interpret. That's the Staircase's job."
+- **Catacomb Connection:** The markers match foundation patterns in the Catacombs' pre-language section. The Ragana has catalogued similar triangles. The player can visit the Catacombs to see the pattern — but the Ragana won't explain it. "I catalogue. I don't interpret. That's the Staircase's job."
 - **Reward:** 50 reputation with Druidic Circle, "Grove Walker" title
 
 **Quest 2: "The Language of Trees" (Staircase)**
@@ -133,7 +133,7 @@ The In-Between mode activates during transitions — the staircase descent, the 
   1. The Builders — Neolithic people constructing the original circle
   2. The Ceremony — A solstice ritual with hundreds gathered
   3. The Forgetting — The stones being taken down over centuries
-- **Catacomb Connection:** The visions are the archive's deepest function — the Remembrance System. The Crone's archive doesn't just store texts; it stores experiences. The acorns are archive triggers — the Catacombs remembering through the player.
+- **Catacomb Connection:** The visions are the archive's deepest function — the Remembrance System. The Ragana's archive doesn't just store texts; it stores experiences. The acorns are archive triggers — the Catacombs remembering through the player.
 - **Reward:** 100 reputation, "Memory Keeper" title, lore entry in the archive
 
 ---
@@ -170,7 +170,7 @@ The In-Between mode activates during transitions — the staircase descent, the 
 - **Giver:** Thera — the island's voice, heard through cracked Catacomb walls
 - **Hook:** "I was beautiful before I was fire. The people on my slopes had indoor toilets before the Greeks had writing. They were not prepared. How do you prepare for something that has never happened to you? You don't. You live. And then the mountain remembers what it is."
 - **Objective:** Witness the eruption sequence (30-second cutscene: ash, pumice, the sea pulling back, the tsunami). After the eruption: 30 seconds of absolute silence. No music. No UI. No ambient sound. Just ash particles falling in the Catacombs. The longest silence in the Inn.
-- **84Hz Shadow Mode:** The deepest Shadow mode in the game. The 84Hz frequency is the volcano's frequency — deep, tectonic, unrelenting. The Catacombs shake. The Crone's lamp flickers. Beverley stops moving. The archive itself is experiencing the catastrophe.
+- **84Hz Shadow Mode:** The deepest Shadow mode in the game. The 84Hz frequency is the volcano's frequency — deep, tectonic, unrelenting. The Catacombs shake. The Ragana's lamp flickers. Beverley stops moving. The archive itself is experiencing the catastrophe.
 - **Catacomb Connection:** The eruption is the Catacombs' most dramatic archive event — the Remembrance System at full power. The player doesn't just read about Thera. They experience it. The archive doesn't protect you from the memory. It gives you the memory whole.
 - **Undercity Connection:** After the eruption, the player can take volcanic ash (a physical item from the Catacombs) to the Undercity. The Goldsmith can fuse volcanic ash into glass beads — the Glass Blower's Studio creates Minoan-style glass from the catastrophe's remains. The destruction becomes material. The Undercity's thesis: what falls can be remade.
 - **Reward:** 150 reputation, Volcanic Ash (crafting material), "Witness" title
@@ -200,7 +200,7 @@ The In-Between mode activates during transitions — the staircase descent, the 
   - The Crevasse: a gap too wide to jump. Find a path down and through, not across.
   - The Silence: all sound stops. Walk slowly. Running causes disorientation.
 - **84Hz Shadow Mode:** The entire Jotunheim chain is predominantly 84Hz — this is the Shadow Inn's deepest exploration. The cold, the silence, the weight. But it's not hostile — it's just the frequency of ancient stone. The giants ARE the 84Hz. They are petrification incarnate — not as threat, but as patience.
-- **Catacomb Connection:** The frozen waterfall is in the Catacombs' Norse section — the geological archive of Scandinavia. Charles's Natural Archive has glacial specimens. The ice is real — the archive's temperature control is malfunctioning in this section, and the Crone hasn't fixed it because the ice is supposed to be there.
+- **Catacomb Connection:** The frozen waterfall is in the Catacombs' Norse section — the geological archive of Scandinavia. Charles's Natural Archive has glacial specimens. The ice is real — the archive's temperature control is malfunctioning in this section, and the Ragana hasn't fixed it because the ice is supposed to be there.
 - **Reward:** 50 reputation with Jotunheim, "Frost Walker" title
 
 **Quest 2: "The Riddle of Vafthrudnir" (Catacombs — Deep Section)**
@@ -208,7 +208,7 @@ The In-Between mode activates during transitions — the staircase descent, the 
 - **Hook:** "Odin sat where you sit and barely left with his pride. I will ask you what I asked him, and what he could not answer."
 - **Objective:** Answer 3 riddles. The third is the trap: "What did Odin whisper into Baldur's ear on his funeral pyre?" The correct answer: "No one living knows." Admitting ignorance is the lesson.
 - **84Hz Mode:** The riddle contest is pure Shadow — no combat, no warmth, just the giant's presence and the player's wits. The 84Hz hum is Vafthrudnir's voice. The ice vibrates.
-- **Catacomb Connection:** Vafthrudnir's riddles are drawn from the Vafthrudnismal — an actual Eddic poem in the Catacombs' archive. The Crone has the original text. The player can read it before the encounter if they find it. But the riddles can't be answered by looking them up — the third riddle has no answer. The archive can teach you everything except what nobody knows.
+- **Catacomb Connection:** Vafthrudnir's riddles are drawn from the Vafthrudnismal — an actual Eddic poem in the Catacombs' archive. The Ragana has the original text. The player can read it before the encounter if they find it. But the riddles can't be answered by looking them up — the third riddle has no answer. The archive can teach you everything except what nobody knows.
 - **Undercity Connection:** The Tinker class can use Vafthrudnir's Riddle Book (reward) at the Undercity workbench to craft a Riddle Charm — an item that lets the player trade riddles with any NPC across all zones. The Charm is a social tool, created in the Undercity's workshop from knowledge gained in the Catacombs.
 - **Reward:** 100 reputation, Vafthrudnir's Riddle Book
 
@@ -236,7 +236,7 @@ The In-Between mode activates during transitions — the staircase descent, the 
 - **Hook:** "I have waited since before your world had a name. I am not patient — I am certain. The fire will come. Not today. But it will. Everything you build, I will unmake. Not from malice. From thermodynamics."
 - **Objective:** Sit with Surtr. No combat. No puzzle. The player must simply sit with the knowledge that everything ends. The 84Hz frequency is Surtr's presence — deep, tectonic, inevitable. After sitting long enough, Surtr says: "You sat. Most don't. Most run, or fight, or bargain. You sat. That is the only thing I respect."
 - **84Hz Mode:** Pure Shadow. No warmth. No escape. The longest single moment of 84Hz in the game. The player's reward is the understanding that the Shadow Inn is not the enemy — it's the truth that everything the 42Hz builds, the 84Hz will eventually reclaim. The Inn's answer to this is the archive: we cannot save everything, but we can remember everything.
-- **Catacomb Connection:** Surtr's truth is the Catacombs' truth. The archive exists because civilizations fall. The Crone catalogues the dead because the dead are coming for everything. The archive is not a denial of entropy — it's the Inn's answer to it.
+- **Catacomb Connection:** Surtr's truth is the Catacombs' truth. The archive exists because civilizations fall. The Ragana catalogues the dead because the dead are coming for everything. The archive is not a denial of entropy — it's the Inn's answer to it.
 - **Undercity Connection:** The player can take a flame fragment from Surtr's edge to the Undercity. The Glass Blower can forge Surtr's fire into a bead — a "Necessity Bead" that carries the 84Hz frequency as a wearable reminder. Not a weapon. A truth.
 - **Reward:** 200 reputation, "The One Who Sits With Fire" title, Flame Fragment (crafting material), Muspelheim gateway unlocked
 
@@ -251,22 +251,22 @@ The In-Between mode activates during transitions — the staircase descent, the 
 - **Giver:** Bastet, encountered in the artisan market area
 - **Hook:** Find the sistrum. Learn to use it. Herd 3 cats back to the golden basket.
 - **42Hz Mode:** Pure Living Inn — warm, playful. The embedded Bastet's Herding arcade game.
-- **Class Roles:** Artisan Thief (best herding), Bard (taunts stubborn cats), Druid (shapeshifts to lure), Sentinel (calm zone), Tinker (frequency puzzle), Crone (reads hieroglyphs)
+- **Class Roles:** Artisan Thief (best herding), Bard (taunts stubborn cats), Druid (shapeshifts to lure), Sentinel (calm zone), Tinker (frequency puzzle), Ragana (reads hieroglyphs)
 - **Reward:** Cat's Eye Chrysoberyl, 50 reputation with Bastet's Temple
 
 **Quest 2: "The Seven Cats" (Catacombs — Egyptian Section)**
 - **Giver:** Bastet, who follows the player into the Catacombs
 - **Hook:** 7 cats, each in a different temple area of the Egyptian archive section, each with a unique personality.
 - **42Hz Mode:** Exploration. Each cat responds to a different class approach. The Egyptian section of the Catacombs is warm — golden, sunlit (projected), cat-populated. The archive's Egyptian wing is the warmest Catacomb section.
-- **Catacomb Connection:** The cats are the archive's guardians — they've been here since the Egyptian section was catalogued. They are Beverley's only weakness: Beverley will not admit it, but the cats follow Beverley around when no one is watching. The Crone has catalogued each cat with Hopkins precision: "Specimen 1: Aloof. Specimen 2: Playful. Specimen 3: Dormant..."
+- **Catacomb Connection:** The cats are the archive's guardians — they've been here since the Egyptian section was catalogued. They are Beverley's only weakness: Beverley will not admit it, but the cats follow Beverley around when no one is watching. The Ragana has catalogued each cat with Hopkins precision: "Specimen 1: Aloof. Specimen 2: Playful. Specimen 3: Dormant..."
 - **Reward:** 7 cat tokens, 100 reputation
 
 **Quest 3: "The Weighing of Understanding" (Catacombs — Anubis Chamber)**
 - **Giver:** Anubis (Full Presence), found in a sealed weighing chamber
 - **Hook:** 7 questions about Egyptian culture, based on what the cats taught. Anubis weighs your understanding against the feather of Ma'at.
 - **84Hz Shadow Mode:** Ammit sits beneath the scales. Not a fight — a test. If understanding is insufficient, Ammit gets closer. She doesn't attack. She waits. The 84Hz is Ammit's patience — the heavy, still frequency of something that has all the time in the world.
-- **Catacomb Connection:** The weighing chamber is a sealed section — the Anubis Chamber. The Crone has the key, and the Crone trades it for the player's journal (the same trade as the Brísingamen ring). The archive doesn't give access freely — the player must contribute their own story to access the deeper chambers.
-- **Undercity Connection:** The Crone's Case (storage charm) is upgraded after the weighing — the player can now store frequencies, not just items. The Undercity's workbench can craft frequency-charged beads from stored tones.
+- **Catacomb Connection:** The weighing chamber is a sealed section — the Anubis Chamber. The Ragana has the key, and the Ragana trades it for the player's journal (the same trade as the Brísingamen ring). The archive doesn't give access freely — the player must contribute their own story to access the deeper chambers.
+- **Undercity Connection:** The Ragana's Case (storage charm) is upgraded after the weighing — the player can now store frequencies, not just items. The Undercity's workbench can craft frequency-charged beads from stored tones.
 - **Reward:** Ankh Stone, 150 reputation, passage to the Sirius Chamber
 
 **Quest 4: "The Flood" (Catacombs → Undercity → Fae Kingdom Gate)**
@@ -274,7 +274,7 @@ The In-Between mode activates during transitions — the staircase descent, the 
 - **Objective:** A Remembrance Vision — the player experiences the annual flood. Navigate rising water, reading stars and river together. All classes must work together.
 - **In-Between → 84Hz → 42Hz:** The flood is the In-Between at its most dynamic — the frequency shifts with the water level. The rising flood is 84Hz (heavy, overwhelming). The receding flood returns to 42Hz (warm, fertile, the Inn breathing again).
 - **Boss: Ammit (Full Presence)** — Not a fight. A choice. "Will you be weighed?" Submit (Seelie favor, humility) or refuse (Unseelie favor, autonomy). Either path is valid.
-- **Catacomb Connection:** The flood is the Catacombs' most immersive Remembrance Vision. The archive doesn't just show you the Nile — it floods. The player's feet get wet. The Crone's lamp goes out. The archive is not a museum; it's a time machine.
+- **Catacomb Connection:** The flood is the Catacombs' most immersive Remembrance Vision. The archive doesn't just show you the Nile — it floods. The player's feet get wet. The Ragana's lamp goes out. The archive is not a museum; it's a time machine.
 - **Undercity Connection:** The flood leaves silt in the Catacombs. The player can collect silt and take it to the Undercity. The Glass Blower creates Egyptian faience from the silt — the same material the Egyptians used for amulets and beads. The Undercity transforms the flood's residue into wearable art. The catastrophe and the creation are the same material.
 - **Fae Kingdom Connection:** The flood opens a gateway to Hel — the Norse realm of the dead. The water recedes to reveal a passage. The connection between Egyptian afterlife (the weighing) and Norse afterlife (Hel) is water — the universal boundary between life and death.
 - **Reward:** Nile Jasper, 200 reputation, passage to Hel, zone complete
@@ -300,7 +300,7 @@ The In-Between mode activates during transitions — the staircase descent, the 
 - **Giver:** Killa the Viscacha (companion creature — not speaking, but guiding)
 - **Hook:** Ascend from the Staircase to a high-altitude Andean section. The altitude is a real mechanic — movement slows, vision narrows. Coca leaf mechanic restores stamina (historically accurate).
 - **42Hz → 84Hz Mode:** The higher the player climbs, the thinner the 42Hz gets. At the top, it's nearly pure 84Hz — the air is thin, the warmth is gone, only the stone and the sky. The altitude IS the frequency shift.
-- **Catacomb Connection:** The Andean section is the highest point in the Catacombs — an anomaly. The Catacombs are underground, but this section ASCENDS. The Crone has noted the impossibility: "Shelf 7, row 14, section Peru. Elevation: impossible. Status: catalogued anyway."
+- **Catacomb Connection:** The Andean section is the highest point in the Catacombs — an anomaly. The Catacombs are underground, but this section ASCENDS. The Ragana has noted the impossibility: "Shelf 7, row 14, section Peru. Elevation: impossible. Status: catalogued anyway."
 - **Reward:** Andean Opal, 50 reputation with Apu spirits
 
 **Quest 2: "The Chasqui Trail" (Catacombs → Main Floor arcade)**
@@ -358,7 +358,7 @@ The Catacombs are not optional. Every cultural quest chain passes through them. 
   └── Peruvian: El Muki's Mine → Gateway to the Andean Spirit Realm
 ```
 
-The Deep is the hub. Every culture's deepest layer meets in the same physical space — the lowest point in the Inn. The Crone's archive holds all of them. Beverley can navigate to all of them. The 42Hz rumble is loudest here, and the 84Hz Shadow frequency is born here.
+The Deep is the hub. Every culture's deepest layer meets in the same physical space — the lowest point in the Inn. The Ragana's archive holds all of them. Beverley can navigate to all of them. The 42Hz rumble is loudest here, and the 84Hz Shadow frequency is born here.
 
 ### The Sealed Sections — Unified Access
 
@@ -369,10 +369,10 @@ The Catacombs' sealed sections now gate cultural quest progression:
 | Pre-Language Section | Allfather's Gaze | Celtic (Ogham originals) |
 | Minoan Section | Route to Knossos (Plato's scroll) | Greek (Knossos reconstruction) |
 | Norse Frozen Section | Natural anomaly (the ice) | Norse (Jotunheim trials) |
-| Egyptian Section | Crone's trade (player's journal) | Egyptian (Anubis weighing) |
+| Egyptian Section | Ragana's trade (player's journal) | Egyptian (Anubis weighing) |
 | Andean Section | Altitude tolerance (Quest 1) | Peruvian (El Muki's mine) |
 | Fae Layer | All 6 gargoyle awakenings | All chains (Fae Kingdom access) |
-| Visitors' Section | Crone's permission (Celtic Quest 7) | All chains (previous players' journals) |
+| Visitors' Section | Ragana's permission (Celtic Quest 7) | All chains (previous players' journals) |
 
 ---
 
@@ -447,7 +447,7 @@ Each cultural chain has a class that "shines" — the situational alpha:
 | Chain | Alpha Class | Why |
 |-------|-------------|-----|
 | Celtic | Tinker | Geometry, astronomy, Ogham patterns |
-| Greek | Crone | Archive access, philosophical comprehension |
+| Greek | Ragana | Archive access, philosophical comprehension |
 | Norse | Sentinel | Willpower, stillness, resistance to 84Hz |
 | Egyptian | Druid | Shapeshifting to match each cat's personality |
 | Peruvian | Artisan Thief | Precision carving, narrow paths, mining |
@@ -463,7 +463,7 @@ Every class has a unique Undercity crafting ability:
 | Artisan Thief | Precision carving (Ogham, runes, offering stones) |
 | Bard Blowhard | Composition of "Wearable Songs" (frequency arrangements) |
 | Tinkering Weeaboo | Frequency calibration (tuning beads to specific Hz) |
-| Librarian Crone | Archive-infused crafting (items that carry archive knowledge) |
+| Librarian Ragana | Archive-infused crafting (items that carry archive knowledge) |
 | Chameleon Druid | Adaptive materials (materials that shift properties by zone) |
 | The Sentinel | Structural crafting (stones, findings, architectural elements) |
 

@@ -14,9 +14,9 @@ Cadence: Immediate
 
 **The Razor Cuts Both Ways:**
 - If used on an opponent's card: strip all abilities. The complex becomes simple. The hidden becomes visible. The adequate is: what remains.
-- If used on your own card: strip all abilities, then gain +2/+2. The simplicity IS the power. The fewer the moving parts, the stronger the structure. The Crone would approve.
+- If used on your own card: strip all abilities, then gain +2/+2. The simplicity IS the power. The fewer the moving parts, the stronger the structure. The Ragana would approve.
 
-**Resonance with the Crone:** If the Crone is in play when Occam's Razor is cast, the Crone annotates the stripped card: *"Adequate."* The annotated card cannot gain new abilities for the rest of the game. The measurement is: final.
+**Resonance with the Ragana:** If the Ragana is in play when Occam's Razor is cast, the Ragana annotates the stripped card: *"Adequate."* The annotated card cannot gain new abilities for the rest of the game. The measurement is: final.
 
 **Subtractive Synergy:** Occam's Razor counts as a Subtractive effect for the purposes of removing Carve structures. The razor can cut through permanent stone — because the simplest truth about a wall is that it can be taken down.
 
@@ -24,7 +24,7 @@ Cadence: Immediate
 
 **The Razor's Edge:** When Occam's Razor is played, both players may look at each other's hands for 3 seconds (real time — the Inn's only timed mechanic). The simplest player wins. If only one player has a card of cost 2 or less in hand, that player draws a card. Simplicity is: the advantage.
 
-Flavor text: *"The Crone holds the razor. 'The simplest explanation that accounts for all the data. That is what is adequate. Everything else is decoration.' She pauses. 'Decoration has its place. But not on the table when the measuring is being done.'"*
+Flavor text: *"The Ragana holds the razor. 'The simplest explanation that accounts for all the data. That is what is adequate. Everything else is decoration.' She pauses. 'Decoration has its place. But not on the table when the measuring is being done.'"*
 
 Rarity: Epic
 
@@ -64,7 +64,7 @@ Rarity: Legendary
 
 ### Occam's Razor — Why It Fits
 
-Occam's Razor is the Inn's relationship with complexity. The Inn is elaborate — 115 cards, 6 frequencies, 20 keyword mechanics, 11 deck archetypes. Occam's Razor is the card that says: "What if it was simpler?" And the answer is: sometimes simpler is stronger. The card rewards players who can see through complexity to the essential truth — exactly what the Crone does, exactly what the Examiner does, exactly what the Cartographer does when the mycorrhizal map resolves to a single 42Hz tone.
+Occam's Razor is the Inn's relationship with complexity. The Inn is elaborate — 115 cards, 6 frequencies, 20 keyword mechanics, 11 deck archetypes. Occam's Razor is the card that says: "What if it was simpler?" And the answer is: sometimes simpler is stronger. The card rewards players who can see through complexity to the essential truth — exactly what the Ragana does, exactly what the Examiner does, exactly what the Cartographer does when the mycorrhizal map resolves to a single 42Hz tone.
 
 The card's Subtractive synergy is deliberate — Occam's Razor is a Subtractive tool. It removes. But unlike the Mason's Subtractive (which reveals the design already in the stone), Occam's Razor removes the design to reveal the stone. It's the opposite direction of the same principle. The Mason carves toward the form. The razor carves away from it.
 

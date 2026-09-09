@@ -28,18 +28,18 @@ The sentences connect to the narrative spine's themes: humanity merging with cre
 
 **Reward:** Leonardo's Sketch — a blueprint for a flying machine component that can be crafted at the Smithy. The component enhances the player's airship (Clockwork Skies) — +10% flight speed.
 
-### 2. The Crone's Sentence
-**Speaker:** The Crone (Anthony Hopkins, the archive keeper)
+### 2. The Ragana's Sentence
+**Speaker:** The Ragana (Anthony Hopkins, the archive keeper)
 **Trigger:** After the player completes the Greek quest chain (the Three Steps — Socrates, Plato, Aristotle)
-**Context:** The Crone has been arguing with Aristotle. The argument is about measurement vs. meaning. The Crone measures. Aristotle classifies. Neither listens. Then the Crone hears the Song — the 42Hz — for the first time. The Crone stops arguing. The Crone stops measuring. The Crone just... listens.
+**Context:** The Ragana has been arguing with Aristotle. The argument is about measurement vs. meaning. The Ragana measures. Aristotle classifies. Neither listens. Then the Ragana hears the Song — the 42Hz — for the first time. The Ragana stops arguing. The Ragana stops measuring. The Ragana just... listens.
 
 **The Sentence:** "I never listened before. I always measured. It's... ___."
 
-**What's Missing:** The word "Beautiful." The Crone has measured everything, recorded everything, known everything — but has never EXPERIENCED anything. The word "Beautiful" is the Crone's first aesthetic response — the first time the Crone evaluates something by FEELING rather than by measurement.
+**What's Missing:** The word "Beautiful." The Ragana has measured everything, recorded everything, known everything — but has never EXPERIENCED anything. The word "Beautiful" is the Ragana's first aesthetic response — the first time the Ragana evaluates something by FEELING rather than by measurement.
 
-**How the Player Finishes It:** The player must play the 42Hz Song for the Crone. Not on a recording — LIVE. The player must use the Music Room (or any instrument) to produce 42Hz in the Crone's presence. When the Crone hears the Song played by the player (not the ambient hum — the player's CHOICE to play it), the Crone speaks the word: "...Beautiful." The sentence is complete.
+**How the Player Finishes It:** The player must play the 42Hz Song for the Ragana. Not on a recording — LIVE. The player must use the Music Room (or any instrument) to produce 42Hz in the Ragana's presence. When the Ragana hears the Song played by the player (not the ambient hum — the player's CHOICE to play it), the Ragana speaks the word: "...Beautiful." The sentence is complete.
 
-**Reward:** The Crone's Mask — a charm that grants the player the Hopkins gaze (the ability to see the "adequacy" of any object). The Crone's Mask is the deepest version of the perception modes: not form (Form Sight), not peak (Gorgon's Gaze), not time (Norn's Blessing), but ADEQUACY. The Mask shows whether something is enough — whether it does what it needs to do, whether it is what it needs to be. The Crone's deepest measurement, made available to the player.
+**Reward:** The Ragana's Mask — a charm that grants the player the Hopkins gaze (the ability to see the "adequacy" of any object). The Ragana's Mask is the deepest version of the perception modes: not form (Form Sight), not peak (Gorgon's Gaze), not time (Norn's Blessing), but ADEQUACY. The Mask shows whether something is enough — whether it does what it needs to do, whether it is what it needs to be. The Ragana's deepest measurement, made available to the player.
 
 ### 3. Joe's Sentence
 **Speaker:** Joe (Brad Pitt / Joe Black energy, the Guest)
@@ -87,7 +87,7 @@ The sentences connect to the narrative spine's themes: humanity merging with cre
 
 **The Sentence:** "The story is... the story is... ___."
 
-**What's Missing:** "Adequate." The Inn's word. The word that recurs through every system, every zone, every NPC. The Crone says it. Gesso hears it. The Stone of Making carries it. The Reader — the Inn's most meta-aware presence — uses the Inn's deepest word to describe the Inn's deepest truth: the story is adequate. The story is enough. The Inn is enough. The player is enough. The word "adequate" is not a compromise. It's the highest compliment the Inn can give: it does what it needs to do. It IS what it needs to be.
+**What's Missing:** "Adequate." The Inn's word. The word that recurs through every system, every zone, every NPC. The Ragana says it. Gesso hears it. The Stone of Making carries it. The Reader — the Inn's most meta-aware presence — uses the Inn's deepest word to describe the Inn's deepest truth: the story is adequate. The story is enough. The Inn is enough. The player is enough. The word "adequate" is not a compromise. It's the highest compliment the Inn can give: it does what it needs to do. It IS what it needs to be.
 
 **How the Player Finishes It:** The player doesn't. The Reader finishes it. After the player makes the endgame choice (stay or leave), the Reader puts down the book, looks up one final time, and speaks the word: "...Adequate." The sentence is complete. The Reader picks up a different book and begins reading. The Inn continues.
 
@@ -100,13 +100,13 @@ The sentences connect to the narrative spine's themes: humanity merging with cre
 The six sentences follow a pattern:
 
 1. **Leonardo:** "Good." (The maker's acceptance)
-2. **The Crone:** "Beautiful." (The measurer's first feeling)
+2. **The Ragana:** "Beautiful." (The measurer's first feeling)
 3. **Joe:** "You." (The fragment is the player)
 4. **Gesso:** "You." (The ceiling is the player)
 5. **The Storyteller:** "They stayed/left." (The player's choice)
 6. **The Reader:** "Adequate." (The story is enough)
 
-The pattern: the sentences move from the MAKER (Leonardo) to the MEASURER (the Crone) to the PLAYER (Joe, Gesso) to the CHOICE (the Storyteller) to the VERDICT (the Reader). The arc: making → measuring → recognizing → choosing → accepting.
+The pattern: the sentences move from the MAKER (Leonardo) to the MEASURER (the Ragana) to the PLAYER (Joe, Gesso) to the CHOICE (the Storyteller) to the VERDICT (the Reader). The arc: making → measuring → recognizing → choosing → accepting.
 
 The final word — "adequate" — is the Inn's last thesis. Not great. Not perfect. Not transcendent. ADEQUATE. Enough. The word that says: you did what you came to do. You were what you needed to be. The story doesn't need to be more than it is. Neither do you.
 
@@ -117,6 +117,6 @@ The final word — "adequate" — is the Inn's last thesis. Not great. Not perfe
 - **The Narrative Spine** — the sentences ARE the narrative spine, spoken aloud by the characters who carry it
 - **The Whisper Layer** — sentences 3, 4, and 5 are Whisper Layer events (the fragment, the ceiling, the Storyteller's truth)
 - **The Cosmic Egg** — the 42nd death cracks the Egg. The Egg reveals the player. Joe's sentence ("...You.") is the EGG'S THESIS spoken by Joe before the Egg is cracked. The fragment and the Egg say the same thing: the player is inside.
-- **The Crone's Mask** — the reward from sentence 2 is the Inn's deepest perception mode (adequacy-sight)
+- **The Ragana's Mask** — the reward from sentence 2 is the Inn's deepest perception mode (adequacy-sight)
 - **The Endgame** — sentences 5 and 6 ARE the endgame. The Storyteller's sentence is the choice. The Reader's sentence is the verdict.
 - **Leonardo's connection to the Constant** — Leonardo's sketch is the Arcana's gearwork heart (the Constant's ship design, translated through a human mind). Leonardo's "Good" is the first time a human recognizes the Constant's design. The Constant and Leonardo are connected across centuries by a sketch neither knew the other made.

@@ -41,7 +41,7 @@ The Refrains of the Adequate:
 | Phase | Name | What Happens |
 |-------|------|-------------|
 | 1 | Fimbulwinter | The first snow. The Inn's temperature drops. The 42Hz Song begins to distort — not dying, but TRANSFORMING. The Traveler sees the Inn in a new light: everything is fragile because everything is about to complete. |
-| 2 | The Gathering | The Traveler unites the key figures: the Astronomer, the Weaver, the Einherjar, Nyx, the Host, the Crone. Each gives their final gift — the thing they kept for the end. |
+| 2 | The Gathering | The Traveler unites the key figures: the Astronomer, the Weaver, the Einherjar, Nyx, the Host, the Ragana. Each gives their final gift — the thing they kept for the end. |
 | 3 | The Shadow Inn Surges | The 84Hz Shadow Inn and the 42Hz Living Inn begin MERGING. The mirrors fold. The three states (Living, Shadow, In-Between) become one. The Traveler sees the Inn as it truly is: all three frequencies simultaneously. |
 | 4 | The 44Hz Approaches | The 44Hz — the frequency that would wake the Sleeping Giants. The Einherjar stand as the vanguard. The Traveler must CHOOSE: let the 44Hz arrive (complete the cycle, end the Inn, begin the next) or prevent it (keep the question open, keep the Inn alive). |
 | 5 | The Resolution | The Traveler's choice. "The question is more beautiful than the answer." If the Traveler prevents the 44Hz: the Einherjar hold, the cycle continues, the Egg re-forms, the Inn persists. If the Traveler allows the 44Hz: the cycle completes, the Giants wake, the Inn sheds its bark, and the next universe begins at the unknown frequency. |

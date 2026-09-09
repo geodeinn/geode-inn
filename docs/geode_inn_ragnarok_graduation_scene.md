@@ -216,7 +216,7 @@ All three are: enough.
 
 ## The Afterward
 
-The new Inn's first morning is the same as every Inn's first morning. The Host stands at the door. The fire burns. The Crone measures. The Catalyst plants. The Firekeeper tells the first story — the story of the previous cycle, the story of the traveler, the story of what was.
+The new Inn's first morning is the same as every Inn's first morning. The Host stands at the door. The fire burns. The Ragana measures. The Catalyst plants. The Firekeeper tells the first story — the story of the previous cycle, the story of the traveler, the story of what was.
 
 The Firekeeper's first story in the new cycle is the last story of the old cycle. The end is the beginning. The beginning is the end. Both are: the Song.
 

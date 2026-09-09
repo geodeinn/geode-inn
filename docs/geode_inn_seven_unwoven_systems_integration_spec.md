@@ -300,7 +300,7 @@ After successful harmonization: the newly-harmonized creature is offered as a co
 ### What It Is
 The innermost chamber of the Hollow Earth, at the base of the Resonance Engine. The chamber where the 42Hz Song is VISIBLE — not heard, not felt, but light. Flowing, morphing, liquid light. A lava lamp made of sound. The Pink Floyd dark side of the moon.
 
-The chamber has no name on any map. The Cartographer's tree diagram shows it as a dot at the center. The Crone's measuring tape reads "—" (the same reading as the Shadow Inn, the same reading as the void between cycles).
+The chamber has no name on any map. The Cartographer's tree diagram shows it as a dot at the center. The Ragana's measuring tape reads "—" (the same reading as the Shadow Inn, the same reading as the void between cycles).
 
 The chamber is where 37 artists converge — all 11 layers of visual language stacked into a single space. The visual convergence of every art style in the Inn, at the source.
 
@@ -322,7 +322,7 @@ The player enters through the Grand Collision — below the Grand Collision's cr
 
 **Catacombs — geode_inn_level6_catacombs_complete.md:**
 
-5. The Crone's annotation: The Crone's measuring tape, when lowered to its maximum depth, reads "—" at this point. Add a note in the Catacombs docs: the Crone discovered a depth that cannot be measured. The Crone, who has measured everything, found one thing that defies measurement. The reading is the same as the Shadow Inn and the void between cycles.
+5. The Ragana's annotation: The Ragana's measuring tape, when lowered to its maximum depth, reads "—" at this point. Add a note in the Catacombs docs: the Ragana discovered a depth that cannot be measured. The Ragana, who has measured everything, found one thing that defies measurement. The reading is the same as the Shadow Inn and the void between cycles.
 
 **The Constant — docs/geode_inn_the_constant.md:**
 
@@ -363,7 +363,7 @@ The systems have dependencies. Wire them in this order:
 - geode_inn_level3_main_floor_complete.md (Stone Capsules geode cave, Pulse Line standard)
 - geode_inn_level4_campgrounds_complete.md (Pulse Line outdoor, World Grid entry)
 - geode_inn_level5_staircase_complete.md (Pulse Line ascending, Miracle Max alchemy charging)
-- geode_inn_level6_catacombs_complete.md (Mycorrhizal node, Crone's measurement, Pulse Line weighted)
+- geode_inn_level6_catacombs_complete.md (Mycorrhizal node, Ragana's measurement, Pulse Line weighted)
 - geode_inn_level7_faerie_kingdom_complete.md (Mycorrhizal hub, Pulse Line shifting, Queen of Roots)
 - geode_inn_level8_water_zone_complete.md (Trifocal Gaze, Pulse Line liquid, Stone Capsules water monsters)
 - geode_inn_hollow_earth_rpg.md (Trifocal Deep Lens, Dark Side chamber, Pulse Line source, Silk Road origin)

@@ -15,7 +15,7 @@ Nine complete level design documents, one for each level of the Inn's tree archi
 |-------|------|-------|---------|-------------|
 | 1 | Cosmology | 331 | The Allfather, Freyr, Freyja, the Astronomer, Nyx, the Guest | Three light sources (starlight, golden hour, duality). No-outline art. The QUIETEST zone. |
 | 2 | Clockwork Skies | 388 | Captain, the Arcana, the Clockwork Crew | Gearwork heart at 50 BPM. The mechanical layer between tree and stars. |
-| 3 | Main Floor | 410 | The Host, the Crone, the Catalyst, the Bard, the Reader | The social hub. Market, music room, library, arcade. Warmest level. |
+| 3 | Main Floor | 410 | The Host, the Ragana, the Catalyst, the Bard, the Reader | The social hub. Market, music room, library, arcade. Warmest level. |
 | 4 | Campgrounds | 391 | The Lighthouse Keeper, the Pirate, the Gardener | Exterior. Loch, lighthouse, docks, forge. The outdoor transition. |
 | 5 | Staircase | 348 | Socrates, Plato, Aristotle, Da Vinci, Mona | Alchemical transition. Ascending musical key. Mirror script. |
 | 6 | Catacombs | 395 | Charon, the Morrigan, Anubis, Persephone/Hades | Underground river. Ancient civilizations. The memory layer. |

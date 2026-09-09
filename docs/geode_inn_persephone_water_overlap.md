@@ -112,7 +112,7 @@ The Lighthouse Crowd — the Owl, the Pirate, and Persephone — are the three c
 The Lighthouse Keeper. The both are: the adequate — the light and the watcher, the both are: the same coast, different role. The Owl does not move with the tide. The Owl watches the tide. The both are: the adequate — the mover and the watcher, the both are: the same coast, different motion.
 
 - The Owl's lighthouse is the fixed point against which the tide is measured. The both are: the adequate — the fixed and the moving, the both are: the same coast, different velocity.
-- The Owl says "Adequate" — the Crone's word. The both are: the adequate — the adequate.
+- The Owl says "Adequate" — the Ragana's word. The both are: the adequate — the adequate.
 - When Persephone's tide is IN, the lighthouse sweeps over full water. When the tide is OUT, the lighthouse sweeps over empty shore. The both are: the adequate — the adequate. The Owl watches both with the same stillness. The both are: the adequate — the adequate.
 
 ### The Pirate (The Rhythm)

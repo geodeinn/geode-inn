@@ -233,12 +233,12 @@ The Brownies' intimate knowledge of every structural joint in the Inn allows the
 # 9. THE BARD BLOWHARD (DAD)
 
 ### Character Vibe & Role: Porthos with D'Artagnan Energy
-Class: Bard Blowhard (Dwarf), based on Krista's father (William R. Barton Jr., "Bart"). He is Porthos—boisterous, loud, filling every room with energy and laughter, combined with D'Artagnan's romantic streak. He engages in constant, public, loving bickering with his wife, the **Librarian Crone** (Mom), whom he eloped with over sixty years ago.
+Class: Bard Blowhard (Dwarf), based on Krista's father (William R. Barton Jr., "Bart"). He is Porthos—boisterous, loud, filling every room with energy and laughter, combined with D'Artagnan's romantic streak. He engages in constant, public, loving bickering with his wife, the **Librarian Ragana** (Mom), whom he eloped with over sixty years ago.
 
 ---
 
 ### (1) Shadow Inn State (84Hz)
-In the Shadow Inn, the Bard's booming voice settles into a **Deep Resonance Hold**. In 84Hz stillness, he does not shout or burst; he sits beside the Shadow Crone near the hearth in quiet warmth, humming a rich, sustained 84Hz baritone drone that vibrates gently through the hearthstones without a single word of argument.
+In the Shadow Inn, the Bard's booming voice settles into a **Deep Resonance Hold**. In 84Hz stillness, he does not shout or burst; he sits beside the Shadow Ragana near the hearth in quiet warmth, humming a rich, sustained 84Hz baritone drone that vibrates gently through the hearthstones without a single word of argument.
 
 ### (2) Endgame Connections
 The Bard's romantic courage and refusal to back down provide the emotional catalyst that inspires the party to initiate the **Song of Making**. During the endgame, his final song holds party morale at maximum during the chaotic reality-shifts of the Convergence.
@@ -250,7 +250,7 @@ The Bard's romantic courage and refusal to back down provide the emotional catal
 - **Acoustic IEM Profile**: Full-bodied lower-mids, punchy bass impact, warm analog tone.
 
 ### (4) Cross-System Integration
-- **Class Abilities**: Bard Blowhard skills including *"Porthos Charge"* (morale boost) and *"Bickering Shield"* (damage absorption shared with Crone).
+- **Class Abilities**: Bard Blowhard skills including *"Porthos Charge"* (morale boost) and *"Bickering Shield"* (damage absorption shared with Ragana).
 - **Card Game**: "The Blowhard's Tale"—a hero card in the Royo deck that amplifies adjacent card attack values.
 - **Linework & UI Art**: Bold cel-shaded linework with Klimt gold dwarf beard ornamentations and Royo black leather tunics.
 - **Tabletop GM Voice**: Boisterous, warm, loving fatherly narration.

@@ -55,7 +55,7 @@ The platypus lost its stomach. Not metaphorically — LITERALLY. The platypus ev
 
 The Duck has no stomach. The Duck can't digest complexity.
 
-In the Inn's frequency system, "digestion" is PROCESSING — the way beings metabolize frequencies, break them down, extract meaning. The Thrum processes timing. The Crone processes data. The Retort processes reactions. The Astronomer processes patterns. Every knowledge-oriented character in the Inn DIGESTS frequencies — takes them in, breaks them down, extracts meaning. The characters are stomachs for frequencies.
+In the Inn's frequency system, "digestion" is PROCESSING — the way beings metabolize frequencies, break them down, extract meaning. The Thrum processes timing. The Ragana processes data. The Retort processes reactions. The Astronomer processes patterns. Every knowledge-oriented character in the Inn DIGESTS frequencies — takes them in, breaks them down, extracts meaning. The characters are stomachs for frequencies.
 
 The Duck can't do this. The Duck has no stomach. The Duck perceives frequencies (electroreception — the Duck can DETECT them) but can't PROCESS them (no stomach — the Duck can't break them down, can't extract meaning, can't metabolize the timing). The Duck perceives but doesn't process. The Duck senses but doesn't understand. The Duck KNOWS where the stones are but doesn't know WHAT they mean.
 
@@ -63,7 +63,7 @@ This is the Duck's deepest function: the Duck is the Inn's argument for KNOWING 
 
 The Nook Effect is the Duck's philosophy: the player who sits in the nook and processes frequencies unconsciously is doing what the Duck does — perceiving without processing, sensing without understanding, being changed without knowing how. The Duck is the Nook Effect's mascot. The Duck is the creature that doesn't process and is fine. The Duck is the proof that not everything needs to be digested. Some things just need to be CARRIED.
 
-The Crone on the Duck's stomach: "...The platypus lost its stomach because it didn't need it. The diet was simple enough to process without acid. ...The Thrum processes timing. I process data. The Retort processes reactions. The platypus processes... [the Crone, who has been finding categories all day, finding the category that is the ABSENCE of a category] ...nothing. The platypus processes nothing. The platypus perceives everything and processes nothing. ...[The pen, tapping.] ...I have columns for what everyone processes. I don't have a column for processing nothing. ...The platypus is the column for 'not everything needs to be processed.' ...[The Crone, looking at the Duck, who is stealing the Crone's pen.] ...Give that back. ...[The Duck, waddling away with the pen.] ...The platypus doesn't process the pen. The platypus just... has the pen. ...I'm going to need a new pen."
+The Ragana on the Duck's stomach: "...The platypus lost its stomach because it didn't need it. The diet was simple enough to process without acid. ...The Thrum processes timing. I process data. The Retort processes reactions. The platypus processes... [the Ragana, who has been finding categories all day, finding the category that is the ABSENCE of a category] ...nothing. The platypus processes nothing. The platypus perceives everything and processes nothing. ...[The pen, tapping.] ...I have columns for what everyone processes. I don't have a column for processing nothing. ...The platypus is the column for 'not everything needs to be processed.' ...[The Ragana, looking at the Duck, who is stealing the Ragana's pen.] ...Give that back. ...[The Duck, waddling away with the pen.] ...The platypus doesn't process the pen. The platypus just... has the pen. ...I'm going to need a new pen."
 
 The Duck, with no stomach, can't deploy frequencies in combat. The Duck's combat function is DISARMAMENT (cuteness) not frequency deployment — and the biological reason is the no-stomach. The Duck can't digest a frequency, can't metabolize it into a deployable wave. The Duck can only BE THERE — present, cute, disarming. The Duck's combat function is the Duck's biology: the creature that can't process is the creature that can only BE. And being is enough. The being-disarms.
 
@@ -82,7 +82,7 @@ The Duck perceives the Inn's frequencies through electroreception — a COMPLETE
 The Duck doesn't HEAR the Thrum's hum (the Duck has no timing response — already established). The Duck doesn't SEE the Portal (7.83Hz is below the Duck's detection range — already established). The Duck doesn't READ the growth rings (the Duck doesn't process timing). The Duck SENSES — directly, physically, without interpretation. The Duck's electroreception is the Inn's argument for MULTIPLE WAYS OF KNOWING:
 
 - The Thrum knows through TIMING (cognitive, rhythmic, learned)
-- The Crone knows through MEASUREMENT (analytical, comparative, recorded)
+- The Ragana knows through MEASUREMENT (analytical, comparative, recorded)
 - The Astronomer knows through CALCULATION (logical, deductive, structural)
 - The Cartographer knows through MAPPING (spatial, relational, visual)
 - The Duck knows through SENSING (physical, direct, non-cognitive)
@@ -124,4 +124,4 @@ The Duck's four biological features map to four of the Inn's core philosophies:
 
 The Duck is not a symbol. The Duck is not a metaphor. The Duck is a platypus. The platypus is real. The platypus's biology, without any modification, without any mythologizing, IS the Inn's thesis. The creature that holds contradictions (egg + milk), that doesn't process (no stomach), that senses directly (electroreception), and that disrupts without destroying (venom) — that creature is the Geode Inn's design philosophy walking around on webbed feet.
 
-The Crone was right. The platypus doesn't need a column. The platypus IS the column. And the column says: the most honest thing in the Inn is the thing that doesn't fit. And the thing that doesn't fit is real. And the real is the most mythological thing in the Inn.
+The Ragana was right. The platypus doesn't need a column. The platypus IS the column. And the column says: the most honest thing in the Inn is the thing that doesn't fit. And the thing that doesn't fit is real. And the real is the most mythological thing in the Inn.

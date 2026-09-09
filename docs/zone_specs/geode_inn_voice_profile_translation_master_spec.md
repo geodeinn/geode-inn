@@ -79,13 +79,13 @@ Each character entry provides:
 | AI Prompt | "A figure of infinite dark, Doc Marten boots grounding her in the physical, starlight cloak shimmering with compressed dying universes, two voices layered: one stripping truth bare, one offering peace after the stripping" |
 | Godot | `pitch_purge = 80.0`, `pitch_wisdom = 120.0`, `reveal_speed_purge = 0.03`, `reveal_speed_wisdom = 0.06`, `expressiveness = 0.3` |
 
-### The Crone (The Measurer)
+### The Ragana (The Measurer)
 | Parameter | Value |
 |---------|-------|
 | Pitch | ~180Hz (F#3) — higher than expected for an old woman. Sharp |
-| Text Speed | ~25ms (fast — the Crone doesn't waste time) |
-| Pause | ~50ms (minimal — the Crone has no patience for pauses) |
-| Expressiveness | 0.2 (the lowest of any character — the Crone is PRECISE, not expressive) |
+| Text Speed | ~25ms (fast — the Ragana doesn't waste time) |
+| Pause | ~50ms (minimal — the Ragana has no patience for pauses) |
+| Expressiveness | 0.2 (the lowest of any character — the Ragana is PRECISE, not expressive) |
 | AI Prompt | "An ancient woman with oversized glasses and a notebook, every word measured, annotations in microscopic handwriting, the stillness of someone who has been counting for longer than you've been alive" |
 | Godot | `pitch = 180.0`, `reveal_speed = 0.025`, `pause_duration = 0.05`, `expressiveness = 0.2` |
 
@@ -106,9 +106,9 @@ Each character entry provides:
 | Voice Parameter | Frequency Connection |
 |----------------|--------------------|
 | Pitch Baseline (Hz) | Each character's pitch IS a frequency. Characters from low zones speak low. Characters from the cosmology speak high. |
-| Text Reveal Speed (ms) | The speed = the character's processing frequency. Slow characters (the Pirate, 45ms) think slower. Fast characters (the Crone, 25ms) think faster. |
-| Pause Duration (ms) | The pause = the character's resonance time. Long pauses (Nyx's Wisdom, 500ms) = deep resonance. Short pauses (the Crone, 50ms) = rapid-fire measurement. |
-| Expressiveness (0-1) | The expressiveness = the character's amplitude. High expressiveness (Erik, 0.7) = large gestures. Low expressiveness (the Crone, 0.2) = precise, minimal. |
+| Text Reveal Speed (ms) | The speed = the character's processing frequency. Slow characters (the Pirate, 45ms) think slower. Fast characters (the Ragana, 25ms) think faster. |
+| Pause Duration (ms) | The pause = the character's resonance time. Long pauses (Nyx's Wisdom, 500ms) = deep resonance. Short pauses (the Ragana, 50ms) = rapid-fire measurement. |
+| Expressiveness (0-1) | The expressiveness = the character's amplitude. High expressiveness (Erik, 0.7) = large gestures. Low expressiveness (the Ragana, 0.2) = precise, minimal. |
 
 ---
 
@@ -133,7 +133,7 @@ Each character entry provides:
 - [x] Global parameters (42Hz, 50 BPM, 84Hz, 111Hz, 7.83Hz) documented
 - [x] Zone ambient frequencies mapped (8 zones)
 - [x] Character voice profile format established (pitch, speed, pause, expressiveness + AI prompt + Godot code)
-- [x] 4 sample character profiles translated (Erik, Nyx, the Crone, the Pirate)
+- [x] 4 sample character profiles translated (Erik, Nyx, the Ragana, the Pirate)
 - [x] Frequency system mapped (pitch = freq, speed = processing, pause = resonance, expressiveness = amplitude)
 - [x] 8 connections documented
 - [ ] Full character registry (all 74 voice profiles translated)

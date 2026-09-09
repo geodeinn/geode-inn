@@ -49,7 +49,7 @@ The full design for all 6 player classes, including mechanics, frequency profile
 - **The hyperfocus IS the power** — in the right context, unstoppable. Out of context, barely functional
 - **Zone Affinity:** Clockwork Skies, the Arcana, the Undercity workshop
 
-### 6. The Librarian Crone
+### 6. The Librarian Ragana
 - **Archetype:** Archive/intelligence — reads every text
 - **Key Mechanic:** Highest intelligence. Contextually moral.
 - **Reads every text in the Inn** — has access to all archive content

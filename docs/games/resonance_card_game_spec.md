@@ -84,9 +84,9 @@ Characters from the Inn, each with a unique ability based on their established p
 - Deathrattle: "Reshuffle — Return a random card from your discard pile to your hand."
 - Lore: "The librarian does not tolerate noise."
 
-**The Crone (NPC, Adaptive, 6 HP)**
+**The Ragana (NPC, Adaptive, 6 HP)**
 - Effect: "Mirror — Copy the effect of the last card your opponent played."
-- Lore: "What you see in the Crone is yourself."
+- Lore: "What you see in the Ragana is yourself."
 
 **Naut (NPC, NULL, 3 HP)**
 - Effect: "Restricted Knowledge — Draw 2 cards. Take 1 dissonance damage."
@@ -159,14 +159,14 @@ This is the core differentiator from Hearthstone:
 Each NPC in the Geode Inn can be an AI opponent with their own deck and playstyle:
 
 - **Beverley:** Control deck. Silences player cards, reshuffles discard, wins by attrition.
-- **The Crone:** Mirror deck. Copies player's moves, adapts to their strategy.
+- **The Ragana:** Mirror deck. Copies player's moves, adapts to their strategy.
 - **Naut:** Combo deck. Self-damages to draw cards, wins with explosive combos.
 - **Lozen:** Defense deck. Heavy STAY cards, armored walls, wins by surviving.
 - **Joe:** Swarm deck. Low-cost GROW cards, floods the board, wins with numbers.
 - **The Wanderer:** Balanced deck. Uses all six frequencies, unpredictable.
 - **Medusa:** Lockdown deck. Petrifies player's cards (makes them unable to act), wins by stalling.
 
-Each AI uses the NPC's established voice profile in chat messages during the game. Beverley makes dismissive comments. The Crone speaks in riddles. Joe is warm and encouraging even while winning.
+Each AI uses the NPC's established voice profile in chat messages during the game. Beverley makes dismissive comments. The Ragana speaks in riddles. Joe is warm and encouraging even while winning.
 
 ---
 

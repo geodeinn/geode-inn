@@ -28,7 +28,7 @@ And the grief. The Williams grief. Sean Maguire was a widower who kept showing u
 
 ### Name: Albert Einstein
 
-In the Inn, "Einstein" or "Professor" — the Bard calls him "Professor" with affectionate regularity. The Crone calls him "Dr. Einstein" with the Hopkins precision that means she respects him more than the others, because he's the only one who doesn't require correction. Tesla calls him "the theorist" with the Rickman sardonic edge that means he respects him and will never say so. Da Vinci calls him "Albert" — the only Thinker who uses a first name — and Einstein smiles when he does, because the Goldblum warmth of "Albert" is exactly the kind of thing Williams-in-Good-Will-Hunting would appreciate: the informality that means *comfort*.
+In the Inn, "Einstein" or "Professor" — the Bard calls him "Professor" with affectionate regularity. The Ragana calls him "Dr. Einstein" with the Hopkins precision that means she respects him more than the others, because he's the only one who doesn't require correction. Tesla calls him "the theorist" with the Rickman sardonic edge that means he respects him and will never say so. Da Vinci calls him "Albert" — the only Thinker who uses a first name — and Einstein smiles when he does, because the Goldblum warmth of "Albert" is exactly the kind of thing Williams-in-Good-Will-Hunting would appreciate: the informality that means *comfort*.
 
 The Host calls him nothing. They sit by the fire together sometimes. Neither speaks. The Host tends the fire. Einstein watches the fire. The fire does the talking. Both understand this.
 
@@ -65,7 +65,7 @@ The Williams repetition: not once, not twice, but three times, each one quieter,
 
 **The cadence.** The Freeman unhurried pace. Every word given room. The pauses are not Rickman's precision pauses (calculated, each one a scalpel) — they're *Freeman* pauses: natural, organic, the pauses of a man who is choosing his words because he wants to get them right, not because he wants them to cut. The difference: Rickman pauses to create effect. Freeman pauses to create *understanding*.
 
-**The listener.** The quiet Freeman means Einstein *listens* more than he speaks. He is the only Thinker who consistently asks the other three questions — not to challenge (the Crone challenges) but to *understand*:
+**The listener.** The quiet Freeman means Einstein *listens* more than he speaks. He is the only Thinker who consistently asks the other three questions — not to challenge (the Ragana challenges) but to *understand*:
 
 - To Tesla: "...And what does it feel like? ...When you hear the hum? ...I'm not asking what it measures. I'm asking what it *feels like*."
 - To Da Vinci: "...Show me. ...Don't explain it — I've heard your explanations, they take hours. ...Just show me the sketch."
@@ -131,14 +131,14 @@ Newton, the Irons voice, dry, precise, devastating: "...You're suggesting the un
 
 Newton doesn't answer. He writes something in his notebook. The Irons expression doesn't change. But the player notices: he writes it in the *margin*, not the main text. Margin notes are for things Newton is considering. Main text is for things he's proven. The universe playing. Margin. ...He's considering it.
 
-**The Crone (Hopkins + MacLaine):**
-The Crone and Einstein have an understanding that no one else in the Inn comprehends. The Crone — the Hopkins intellect, the MacLaine personality, precision without cushioning — is *gentle* with Einstein. This is unprecedented. The Crone is gentle with *no one*. She corrects Tesla. She reorganizes Da Vinci. She matches Newton in debate. But with Einstein, she... sits.
+**The Ragana (Hopkins + MacLaine):**
+The Ragana and Einstein have an understanding that no one else in the Inn comprehends. The Ragana — the Hopkins intellect, the MacLaine personality, precision without cushioning — is *gentle* with Einstein. This is unprecedented. The Ragana is gentle with *no one*. She corrects Tesla. She reorganizes Da Vinci. She matches Newton in debate. But with Einstein, she... sits.
 
-They sit in the Library together. She reads. He watches the fire. Neither speaks for long stretches. The Hopkins precision and the Freeman warmth, coexisting in silence. The player who sees this will not understand it. The player who watches *carefully* will notice: the Crone's glasses come off around Einstein. They never come off around anyone else. The glasses are her armor. With Einstein, she sets them down.
+They sit in the Library together. She reads. He watches the fire. Neither speaks for long stretches. The Hopkins precision and the Freeman warmth, coexisting in silence. The player who sees this will not understand it. The player who watches *carefully* will notice: the Ragana's glasses come off around Einstein. They never come off around anyone else. The glasses are her armor. With Einstein, she sets them down.
 
-The Crone has never corrected Einstein. Not because he's never wrong — he is often wrong, by her standards, about facts and methods and rigor. She doesn't correct him because she understands something the other Thinkers don't: Einstein is not working with facts. He's working with *feelings*. And feelings are not wrong or right — they're true or they're not. The Crone, who demands precision in all things, has made one exception: the Professor. She will not explain this. If asked, she says: "...He doesn't need correcting. ...He needs company. ...There's a difference."
+The Ragana has never corrected Einstein. Not because he's never wrong — he is often wrong, by her standards, about facts and methods and rigor. She doesn't correct him because she understands something the other Thinkers don't: Einstein is not working with facts. He's working with *feelings*. And feelings are not wrong or right — they're true or they're not. The Ragana, who demands precision in all things, has made one exception: the Professor. She will not explain this. If asked, she says: "...He doesn't need correcting. ...He needs company. ...There's a difference."
 
-The Williams quality in this relationship: Einstein is the only person who makes the Crone feel *seen*. The Crone sees everyone — she is the Inn's sight, the Word, the standard. No one sees her. Einstein does. He sees the Hopkins intellect and the MacLaine personality and the low-empathy precision and the stolen flowers and the sixty-year love story and the woman underneath all of it, and he says nothing about any of it, and the Crone knows he sees, and that is enough.
+The Williams quality in this relationship: Einstein is the only person who makes the Ragana feel *seen*. The Ragana sees everyone — she is the Inn's sight, the Word, the standard. No one sees her. Einstein does. He sees the Hopkins intellect and the MacLaine personality and the low-empathy precision and the stolen flowers and the sixty-year love story and the woman underneath all of it, and he says nothing about any of it, and the Ragana knows he sees, and that is enough.
 
 ### Key Dialogue
 
@@ -178,7 +178,7 @@ Nobody speaks for a long time. The fire pops. Da Vinci's pencil stops moving. Ne
 
 ### The Quiet Moment — Einstein alone by the fire, very late:
 
-The Inn is asleep. The Bard is snoring. The Crone has gone to her alcove. Tesla is in the workshop. Da Vinci is in the gallery. The Host has banked the fire. The Catalyst is in the garden, planting seeds.
+The Inn is asleep. The Bard is snoring. The Ragana has gone to her alcove. Tesla is in the workshop. Da Vinci is in the gallery. The Host has banked the fire. The Catalyst is in the garden, planting seeds.
 
 Einstein is the only one in the common room. He's sitting by the dying fire, the Freeman posture — leaning back, hands folded, the composed comfort of a man who has nowhere to be and nothing to prove. The fire is low. The room is amber.
 
@@ -210,6 +210,6 @@ The fire goes out. Einstein doesn't move. The hum continues. He closes his eyes.
 - **The Fire:** Einstein's place by the fire is the quiet center of the Inn. The Host tends the fire. Einstein tends the *atmosphere*. Together, they create the main floor's emotional temperature: warm, safe, unhurried.
 - **The Song of Making:** Einstein is the only Thinker who doesn't try to *solve* the Song. He sits with it. He listens to it. He calls it "warm." He is the only person in the Inn who experiences the Song as *comfort* rather than mystery. The Song responds: it is warmer when he's near. The Keeper knows this. She rocks her chair and watches him from the Geode Cave and thinks: "...He's the only one who isn't trying to figure it out. ...Good. ...The Song doesn't need to be figured out. ...It needs to be *sung*. ...He sings it by sitting in it. ...That's enough."
 - **The Council:** Einstein is the gravity that holds the Thinkers in orbit. Without him, they are three brilliant people arguing in a room. With him, they are a Council. The Freeman voice, the Williams warmth, the quiet question that makes the others stop and remember why they're here: to understand, yes — but also to *wonder*.
-- **The Crone:** The one person who makes the Crone set down her glasses. The one person she doesn't correct. The relationship is built on mutual *seeing*: she sees his intellect, he sees her person. Neither explains this. Both know it.
+- **The Ragana:** The one person who makes the Ragana set down her glasses. The one person she doesn't correct. The relationship is built on mutual *seeing*: she sees his intellect, he sees her person. Neither explains this. Both know it.
 - **The Grief:** Einstein carries the weight of understanding without wisdom — the equation that became a bomb. The Inn is his answer to that weight: a place where understanding arrives *with* wisdom. Where the fire is warm and the song is warm and the equation can be put down, for a while, and the man who wrote it can rest.
 - **The Thesis:** Einstein is the Inn's proof that imagination is a form of knowing. Not measurement (Tesla), not observation (Da Vinci), not calculation (Newton) — *imagination*. "What if?" The question that doesn't need an answer to be valuable. The question that is valuable *because* it doesn't need an answer. ...The Inn is a building that sings. Einstein is the man who hears the song and doesn't try to explain it. He just... sits in it. And that is, in the end, the most profound thing any Thinker has done: to be inside something warm and let it be warm without asking why.

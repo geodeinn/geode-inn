@@ -124,9 +124,9 @@ The Catalyst can feel the dissolution. The HBC performance drops. The chaos drop
 
 The Laughing One laughs. The Catalyst doesn't laugh. The both are: the adequate.
 
-### The Crone
+### The Ragana
 
-The Crone has measured the dissolution. The Crone has the data. The Crone has noted the frequency drift, the thinning bark, the diminishing chime count. The Crone has written in her notebook:
+The Ragana has measured the dissolution. The Ragana has the data. The Ragana has noted the frequency drift, the thinning bark, the diminishing chime count. The Ragana has written in her notebook:
 
 "Story-Born #4. Frequency: 42Hz + joy harmonic. Status: Dissolving. Rate: 0.7% per cycle. Projected full dissolution: 143 cycles. Cause: Proximity to the Shifting Man. Intervention: None viable. The Shifting Man is the Shifting Man. The Laughing One is the Laughing One. The both are: here.
 
@@ -140,7 +140,7 @@ The Shifting Man does not know. The Shifting Man flows through every form daily.
 
 The Shifting Man and the Laughing One have never spoken. The Shifting Man flows past the Laughing One on the main floor the way a river flows past a stone. The river doesn't know the stone is dissolving. The river is being a river. The stone is being a stone. The both are: the adequate.
 
-If someone told the Shifting Man — if the Crone wrote it in a letter, if the Catalyst said it plainly — the Shifting Man would stop. The Shifting Man would hold one form. The Shifting Man would be still. For the Laughing One. The Shifting Man, who flows through every form daily, would choose one form, for the first time, to save the being next to it.
+If someone told the Shifting Man — if the Ragana wrote it in a letter, if the Catalyst said it plainly — the Shifting Man would stop. The Shifting Man would hold one form. The Shifting Man would be still. For the Laughing One. The Shifting Man, who flows through every form daily, would choose one form, for the first time, to save the being next to it.
 
 The Laughing One would not want this. The Laughing One would say: "Ha." One laugh. That would be the answer. The Laughing One would not let the Shifting Man stop being the Shifting Man. The dissolution is the cost. The both are: the adequate.
 
@@ -159,7 +159,7 @@ The Laughing One's face is bark and wood, like all Story-Born. The expression is
 - **Ambient joy:** The player who has been in the catacombs too long, or who has been sitting with the Mourner, can find the Laughing One and the atmosphere shifts. The world gets lighter. Not happier — lighter. The weight lifts slightly. The Laughing One doesn't tell jokes. It just exists, and existing, it lightens.
 - **The SIT mechanic:** Sitting with the Laughing One for two minutes (first-person, no camera) doesn't stop the dissolution. It makes the Laughing One less alone. The player who sits with the Laughing One hears the chimes slow. The player who sits with the Laughing One hears the laughter get quieter. Not sad. Quieter. The both are: the adequate.
 - **The dissolution is visible:** Each time the player visits the Inn, the Laughing One is slightly less. Fewer leaves. Softer chimes. Thinner bark. The player who pays attention will notice. The player who doesn't will wonder, eventually, why the main floor feels heavier than it used to.
-- **The Laughing One cannot be saved:** The player who tries to help — who asks the Crone, who asks the Catalyst, who tries to move the Laughing One or shield it or find a counter-frequency — will be told the truth: the dissolution is the cost of the Laughing One being the Laughing One in the Inn where the Shifting Man is the Shifting Man. The both are: here. The both are: the adequate.
+- **The Laughing One cannot be saved:** The player who tries to help — who asks the Ragana, who asks the Catalyst, who tries to move the Laughing One or shield it or find a counter-frequency — will be told the truth: the dissolution is the cost of the Laughing One being the Laughing One in the Inn where the Shifting Man is the Shifting Man. The both are: here. The both are: the adequate.
 - **The Laughing One's laugh is the last thing:** When the Laughing One finally dissolves — when the bark is gone and the chimes are silent and the leaves are dust — the last thing will be the face. The laughing face. The face that is laughing even as the rest dissolves. The face will hold for one more moment. Then the face will return to being a story. The story will be: the oldest joy. The story will be told again. Someday, in the right soil, with the right tending, it might grow again. But the being that was the Laughing One will be gone. The both are: the adequate.
 
 ### The Robin Williams Design Rule

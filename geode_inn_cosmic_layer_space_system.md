@@ -44,7 +44,7 @@ The player who has completed all of these has demonstrated mastery of every Inn 
 - The Brísingamen Nebulae: four nebulae, one per chord tone:
   - 42Hz Nebula: deep blue (the foundation, the galaxy's bass note)
   - 170Hz Nebula: gold (Freyr's frequency, beauty, the golden ratio in space)
-  - 158Hz Nebula: red (war, the Crone's ring, the dissonance that creates tension)
+  - 158Hz Nebula: red (war, the Ragana's ring, the dissonance that creates tension)
   - 84Hz Nebula: purple (death, the octave, the Stone Circle Chamber's frequency in the cosmos)
 
 **Lighting:** The stars are the only light source. Each star emits at its own frequency — the light IS the sound, made visible. The player who has the Allfather's Gaze can see the frequencies; the player without it sees only light. The Cosmic Layer rewards the Gaze's mastery: the more the player sees, the more they understand.
@@ -63,7 +63,7 @@ The Cosmic Layer is structured as a SOLAR SYSTEM — the player's cosmic neighbo
 |---|---|---|---|
 | **The Sun** | 42Hz (the foundation) | The source of all frequencies | Inn Song + Allfather's Gaze |
 | **Jupiter** | 170Hz (Freyr's frequency) | The galaxy language, cosmic wisdom | The Sun (must visit first) |
-| **Mars** | 158Hz (the Crone's ring, war) | The prison planet, the reincarnation school | The Crone's ring (from Catacombs) |
+| **Mars** | 158Hz (the Ragana's ring, war) | The prison planet, the reincarnation school | The Ragana's ring (from Catacombs) |
 | **Pluto's Gate** | 84Hz (the octave, death) | The boundary between life and death | The Octave Key (from Fae Kingdom) |
 | **The Galaxy Core** | 42Hz (the origin) | The 42Hz Song's birthplace | All four locations above |
 
@@ -127,7 +127,7 @@ The player composes a chord that ASKS A QUESTION — a question the player wants
 ---
 
 ### 3. Mars — "The School of Stones"
-**Frequency:** 158Hz (the Crone's ring, war, dissonance)
+**Frequency:** 158Hz (the Ragana's ring, war, dissonance)
 **Theme:** The prison planet, the reincarnation school, conflict as teacher
 
 Mars is the red planet — the planet of war. In the Inn's mythology, Mars is not a prison in the punitive sense. Mars is a SCHOOL — the planet where souls learn through conflict. The reincarnation mechanic's origin: souls are sent to Mars between lives to review, to learn, to prepare for the next life. Mars is the IN-BETWEEN — the place between death and rebirth.

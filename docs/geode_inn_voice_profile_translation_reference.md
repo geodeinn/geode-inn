@@ -529,7 +529,7 @@ These characters have voice descriptions but not the full structured profile. Pa
 
 ---
 
-#### 15. The Crone — Anthony Hopkins
+#### 15. The Ragana — Anthony Hopkins
 | Parameter | Estimated Value |
 |---|---|
 | Pitch Baseline | ~120Hz ( Hopkins' measured, intellectual register) |
@@ -547,7 +547,7 @@ These characters have voice descriptions but not the full structured profile. Pa
 #### 16. Charon — Anthony Hopkins (same actor, different instrument)
 | Parameter | Estimated Value |
 |---|---|
-| Pitch Baseline | ~100Hz (deeper than the Crone — the weight of the river) |
+| Pitch Baseline | ~100Hz (deeper than the Ragana — the weight of the river) |
 | Text Reveal Speed | ~40ms (minimal words, maximum weight) |
 | Pause Between Sentences | ~2000ms (one phrase per crossing — the silence IS the speech) |
 | Expressiveness | ~0.1 (the lowest — below The Bearsark — the stillness IS the expression) |
@@ -555,7 +555,7 @@ These characters have voice descriptions but not the full structured profile. Pa
 | Cadence Pattern | Crossing (one sentence per crossing, then silence) |
 
 **AI Animation Prompt:**
-> "Anthony Hopkins as silence — the same actor as the Crone but a different instrument, the Remains of the Day Stevens devotion to duty as a calling, the Silence of the Lambs eyes that see you, the ferryman's pole as the only sound, the river as the only light, three words per crossing ('...There you are'), the stillness that is below even The Bearsark's stillness, the cloak, the boat, the dog named Spot as the only living companion, the weight of every soul ferried visible in the eyes"
+> "Anthony Hopkins as silence — the same actor as the Ragana but a different instrument, the Remains of the Day Stevens devotion to duty as a calling, the Silence of the Lambs eyes that see you, the ferryman's pole as the only sound, the river as the only light, three words per crossing ('...There you are'), the stillness that is below even The Bearsark's stillness, the cloak, the boat, the dog named Spot as the only living companion, the weight of every soul ferried visible in the eyes"
 
 ---
 
@@ -1065,7 +1065,7 @@ The expressiveness score (0.0-1.0) directly controls facial animation intensity 
 | 0.15 | Minimal | The Bearsark | "Bare minimum facial movement. The body/form IS the expression. The bear communicates." |
 | 0.2 | Very low | One Who Is Awake, Zorya | "Sustained stillness. Expression is in continuity, not variation. The face as constant." |
 | 0.25 | Low | Medusa | "Composed face. Snakes carry the emotion. Voice is stone — unchanging." |
-| 0.3 | Controlled | The Wayfarer, Anubis, Crone | "Level register. No volume escalation. Rare micro-expressions are devastating." |
+| 0.3 | Controlled | The Wayfarer, Anubis, Ragana | "Level register. No volume escalation. Rare micro-expressions are devastating." |
 | 0.35 | Measured | Shifting Man, Peruvian Guide | "Restrained. Emotion in word choice, not delivery. Consistency over expression." |
 | 0.4 | Moderate | Host, Cartographer, Kali | "Warm authority. Intelligence visible. Controlled but present." |
 | 0.5 | Balanced | Pirate | "Exactly what they mean, no more no less. Precision and economy." |
@@ -1083,7 +1083,7 @@ All character pitches mapped to their position in the spectrum:
 100Hz ████ Erik (feast warmth), The Bearsark (bear/man), Charon (river weight)
 105Hz ████ Medusa (stone)
 110Hz ████ One Who Is Awake (naming), Host (calm), Shifting Man (fluid), Anubis (depth)
-120Hz ████ The Wayfarer (level), Crone (measurement)
+120Hz ████ The Wayfarer (level), Ragana (measurement)
 130Hz ████ Pirate (drum warmth), Kali (descending to here)
 150Hz ████ The Greenward (garden)
 155Hz ████ Examiner (data)

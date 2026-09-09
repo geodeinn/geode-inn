@@ -149,7 +149,7 @@ Klimt in the catacombs is not Klimt in a frame. Klimt in the catacombs is Klimt 
 
 ---
 
-## The Crone's Annotation
+## The Ragana's Annotation
 
 "...Klimt painted gold on dark because he understood that the most valuable things are found in the darkest places. ...The catacombs are the darkest place in the Inn. ...They are also the most valuable. ...The gold is not decoration. ...The gold is the geological record of everything the earth has ever known, rendered in the most permanent material the earth produces. ...Klimt knew this. ...He didn't know he knew it. ...But he painted it. ...The catacombs don't imitate Klimt. ...Klimt imitated the catacombs. ...He just had better marketing. ...Adequate."
 

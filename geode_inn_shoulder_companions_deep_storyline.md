@@ -231,7 +231,7 @@ Brim cackles. ...Brim would never admit the cackle is genuine. ...The Vessel wou
 
 *(The player has realized the formula maps to real Inn mechanics. The Vessel's enormous eyes are bright. The Vessel is not making puns.)*
 
-"...You looked. ...You actually looked. ...I've been reciting this for 128 years. ...128 years of the pellet with the poison. ...128 years of the vessel with the pestle. ...Nobody listened. ...The Crone measured it — 'structurally sound, comedically incoherent.' ...The Firekeeper heard it and said: 'That's a very old joke.' ...The Bard tried to sing it. ...It doesn't sing. ...It's not a song. ...It's a formula. ...It's the formula. ...It's the Song's math. ...I kept it because nobody else remembered it. ...I kept it in a joke because jokes survive. ...Serious things get destroyed. ...Funny things get repeated. ...I wanted the formula to survive. ...So I made it funny. ...128 years of funny."
+"...You looked. ...You actually looked. ...I've been reciting this for 128 years. ...128 years of the pellet with the poison. ...128 years of the vessel with the pestle. ...Nobody listened. ...The Ragana measured it — 'structurally sound, comedically incoherent.' ...The Firekeeper heard it and said: 'That's a very old joke.' ...The Bard tried to sing it. ...It doesn't sing. ...It's not a song. ...It's a formula. ...It's the formula. ...It's the Song's math. ...I kept it because nobody else remembered it. ...I kept it in a joke because jokes survive. ...Serious things get destroyed. ...Funny things get repeated. ...I wanted the formula to survive. ...So I made it funny. ...128 years of funny."
 
 *(long pause)*
 
@@ -313,7 +313,7 @@ Brim cackles. ...Brim would never admit the cackle is genuine. ...The Vessel wou
 
 | Character | The Vessel | Brim |
 |---|---|---|
-| **The Crone** | The Crone measured the formula: "structurally sound, comedically incoherent." The Vessel knows. The Vessel considers this the best review the formula ever received. | The Crone and Brim doodle in each other's notebooks. Neither admits this. The Crone's annotation: "...consistent." The not-saying is the dynamic. |
+| **The Ragana** | The Ragana measured the formula: "structurally sound, comedically incoherent." The Vessel knows. The Vessel considers this the best review the formula ever received. | The Ragana and Brim doodle in each other's notebooks. Neither admits this. The Ragana's annotation: "...consistent." The not-saying is the dynamic. |
 | **The Firekeeper** | The Firekeeper heard the formula and said: "That's a very old joke." The Vessel said: "...It's the oldest joke." The Firekeeper understood. | Brim respects the Firekeeper's theatricality. The Firekeeper respects Brim's chaos. Both perform. Neither performs the same way. |
 | **The Bard** | The Bard tried to sing the formula. It doesn't sing. The Vessel wasn't offended. "The formula is spoken. ...The Song is sung. ...They're different instruments." | The Bard and Brim are friends — two storms recognizing each other by wind direction. |
 | **Naut** | The Vessel doesn't go near Naut's books. The formula is oral, not written. Naut has asked to record it. The Vessel said: "...It's not ready to be written. ...It's still being spoken." | Brim doesn't cause chaos in Naut's study. The one space Brim respects. Some things are too old to be chaos'd. |

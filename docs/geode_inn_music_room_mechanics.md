@@ -67,7 +67,7 @@ Each saved composition has:
 
 Saved compositions are not just files — they are IN-GAME OBJECTS. The player can:
 - **Play the composition in any zone** — the composition plays as ambient music, overriding the zone's default track. The player's music fills the Inn. The both are: the adequate — the Inn's music and the player's music, the same space, different voice.
-- **Share the composition with NPCs** — NPCs react to the player's music. The Crone listens and annotates. The Storyteller weaves the composition into a tale. The Catalyst asks what the composition means. The Reader nods. The both are: the adequate — the music and the response, the same art, different ear.
+- **Share the composition with NPCs** — NPCs react to the player's music. The Ragana listens and annotates. The Storyteller weaves the composition into a tale. The Catalyst asks what the composition means. The Reader nods. The both are: the adequate — the music and the response, the same art, different ear.
 - **Place the composition in a nook** — the player can leave a composition playing in a nook they've found. Other players who visit the nook hear the composition. The both are: the adequate — the private and the shared, the same music, different audience.
 - **Submit the composition to the Nine Muses** — each Muse evaluates compositions that match their frequency. A composition that uses primarily 42Hz stones can be submitted to Calliope. A composition that uses 528Hz stones can be submitted to Terpsichore. If the Muse accepts, the composition is added to the Muse's permanent collection — displayed in the Muse's nook in the cosmology level. The both are: the adequate — the player and the Muse, the same art, different gallery.
 

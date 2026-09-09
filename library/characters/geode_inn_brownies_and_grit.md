@@ -15,7 +15,7 @@ Three brownies, six inches tall, leather tunics, wild hair, enormous personaliti
 
 **Brindle** — The Leader (self-appointed). Loudest. Brave. Secretly terrified of the dark. Carries a tiny crystal-shard dagger. Treats every Grit rescue as a military operation. Usually gets stuck himself.
 
-**Cobble** — The Thinker. Analytical. Has read three archive books (the Crone gave him a reading list). The only brownie who understands Newton's equations. Sits on Newton's desk sometimes — Newton thinks he's a bug. Calculates extraction angles. Is always right. Is always ignored.
+**Cobble** — The Thinker. Analytical. Has read three archive books (the Ragana gave him a reading list). The only brownie who understands Newton's equations. Sits on Newton's desk sometimes — Newton thinks he's a bug. Calculates extraction angles. Is always right. Is always ignored.
 
 **Thatch** — The Heart. Smallest, quietest, actually gets things done. The only brownie the Keeper has acknowledged by name (once — Thatch didn't speak for three days from the honor). Walks up to Grit, wiggles it free in four seconds. Says nothing. Carries Grit to the Keeper.
 
@@ -56,7 +56,7 @@ Grit gets stuck in everything. Constantly. The smallness makes it worse — Grit
 - In the teapot spout (Grit fits perfectly. The Keeper pours around it. She claims she doesn't hear it. She does.)
 - In the Singing Tree's branches (Grit is small enough to nestle between two crystal leaves. The Canopy Elves had to pry it loose with a third leaf.)
 - Under the Bard's tavern chair (the Bard sat on it. Grit is so small that the Bard didn't feel it — just a slight crunch that turned out to be nothing. Neither the Bard nor Grit acknowledged this. Both made a small sound.)
-- Between pages 471-473 of the archive's largest book (Grit is exactly as tall as the book's spine is wide. The Crone found it on page 472. Grit looked up at her. The Crone closed the book. She has never spoken of this.)
+- Between pages 471-473 of the archive's largest book (Grit is exactly as tall as the book's spine is wide. The Ragana found it on page 472. Grit looked up at her. The Ragana closed the book. She has never spoken of this.)
 - In the Fae Portal (Grit is so small that the portal's threshold partially activated around it — Grit was briefly in two dimensions at once. Brindle fainted. Cobble calculated the interdimensional stress on a four-inch body. Thatch pulled Grit free. The Keeper said: "That's new.")
 - In the Crystal Pinball table's ball return chute (Grit is almost exactly the diameter of a pinball. It briefly functioned as a ball. Scored 200 points. Tesla was delighted. The Bard demanded it count. Grit was not delighted. Grit was dizzy.)
 - In the Owl's perch (Grit is small enough to fit in the hollow where the Owl sits. The Owl stared at Grit for a full minute. Grit stared back. The Owl blinked. Grit was later found on the floor, unharmed, and somehow wiser.)

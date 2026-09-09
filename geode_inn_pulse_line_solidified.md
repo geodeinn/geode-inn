@@ -121,7 +121,7 @@ The Pulse Line connects to:
 - **The Owl** — "Look" (not "Listen") — the line makes the Song visible for players who can't hear it.
 - **The Nook Effect** — the line simplifies in nooks. The line recedes. The line gives space.
 - **Companion Tuning** — two lines converge. The visual proof of harmonization.
-- **The Crone** — "the primary column. All other columns derive from it." The line as the Inn's fundamental measurement.
+- **The Ragana** — "the primary column. All other columns derive from it." The line as the Inn's fundamental measurement.
 - **The Host** — "The Inn breathes whether you notice or not. That is the point."
 - **Accessibility** — Silent Mode: the entire game navigable through the line alone. No sound required. No touch required. The Inn's commitment to neurodivergent accessibility, made visible.
 
@@ -137,6 +137,6 @@ The Pulse Line is now solid:
 4. **Song of Making:** 42 Hz root made visible. Carriers see the Song as a ghost within the heartbeat.
 5. **Egg:** Seven layers, seven line states — taller, cleaner, structured, dimmed, brightened, stilled, then the player's own heartbeat.
 6. **Eres:** 50 Hz as color harmonic. Rhythm becomes pitch.
-7. **Integration Points:** 13 connections — tri-mode dynamic, Shadow Inn, Convergence, Song of Making, Egg, Eres, the Owl, the Nook Effect, companion tuning, the Crone, the Host, and accessibility.
+7. **Integration Points:** 13 connections — tri-mode dynamic, Shadow Inn, Convergence, Song of Making, Egg, Eres, the Owl, the Nook Effect, companion tuning, the Ragana, the Host, and accessibility.
 
 The Pulse Line is the Inn's vital sign. The Inn breathes whether you notice or not. That is the point. The both are: the adequate — the noticed and the unnoticed, the same heartbeat, different attention.

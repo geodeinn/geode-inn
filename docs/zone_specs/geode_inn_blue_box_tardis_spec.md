@@ -54,11 +54,11 @@ The blink is synced to the Inn's global 50 BPM clock. When the Inn's heartbeat i
 
 The one interaction. The only acknowledgment that the box exists within the Inn's fiction.
 
-If the player approaches the box and uses the crystal lens (the Crone's tool from the Catacombs), a hidden detail becomes visible: a measuring tape extending from the keyhole. The tape is the Crone's — the same measuring tape visible on the Crone's desk in the Catacombs. The tape extends from the keyhole into the box. The measurement on the tape reads: "bigger."
+If the player approaches the box and uses the crystal lens (the Ragana's tool from the Catacombs), a hidden detail becomes visible: a measuring tape extending from the keyhole. The tape is the Ragana's — the same measuring tape visible on the Ragana's desk in the Catacombs. The tape extends from the keyhole into the box. The measurement on the tape reads: "bigger."
 
-The implication: the Crone once measured the box's interior through the keyhole. The interior is larger than the exterior. The Crone removed the tape, rolled it up, and never spoke of it again.
+The implication: the Ragana once measured the box's interior through the keyhole. The interior is larger than the exterior. The Ragana removed the tape, rolled it up, and never spoke of it again.
 
-If the player asks the Crone about the box (in the Catacombs, at the Crone's desk), the Crone says:
+If the player asks the Ragana about the box (in the Catacombs, at the Ragana's desk), the Ragana says:
 "I don't discuss the Staircase. That's not my level. But if I had measured something that shouldn't be possible, I would put the measuring tape away and focus on my work. Which is what I did. Page 47. Second paragraph."
 
 If the player asks Naut about the box, Naut says (tentacles still):
@@ -103,7 +103,7 @@ The In-Between version of the box is the closest the game comes to saying "yes, 
 - **Not a secret.** Secrets are hidden and can be found by looking. The box is VISIBLE. It's in an alcove on the main path. Anyone can see it. Most people walk past it.
 - **Not a crossover.** The box is not a Doctor Who crossover. It is not the TARDIS. It is a police box — a real object that existed in London. The resemblance to the TARDIS is intentional but the box is not time Lord technology. The box is the Inn's self-awareness made architectural.
 - **Not functional.** The door doesn't open (in the Living Inn). The box doesn't move. The box doesn't make sounds (beyond the lamp's light, which is silent). The box is a PRESENCE, not a mechanic.
-- **Not explained.** No document in the Inn explains the box. No NPC explains the box. The Crone's measuring tape is the only in-fiction acknowledgment, and the Crone refuses to discuss it. The box is the Inn's unsolved mystery — not a puzzle to be solved, but a fact to be accepted. The box is there. The box blinks. That's all anyone knows.
+- **Not explained.** No document in the Inn explains the box. No NPC explains the box. The Ragana's measuring tape is the only in-fiction acknowledgment, and the Ragana refuses to discuss it. The box is the Inn's unsolved mystery — not a puzzle to be solved, but a fact to be accepted. The box is there. The box blinks. That's all anyone knows.
 
 ---
 
@@ -123,7 +123,7 @@ The shadow (the one that doesn't match the Staircase's light source) is rendered
 |-----------|--------|
 | The Inn's nickname | "The TARDIS" — confirmed by Krista September 2, 2026. The box is the nickname made physical. |
 | The Staircase (Level 5) | The box's home. The in-between level. The transition zone. The place between rooms. |
-| The Crone | The only NPC who has physically investigated the box. The measuring tape is the evidence. The Crone chose not to pursue it. |
+| The Ragana | The only NPC who has physically investigated the box. The measuring tape is the evidence. The Ragana chose not to pursue it. |
 | The Shadow Inn | The box in 84Hz reveals the starlight ceiling — the box brought its own sky. The frozen state shows the shadow is correct. |
 | The In-Between | The box's most intimate state. The door is ajar. The warmth is real. The heartbeat is felt. |
 | 50 BPM | The blink rate. The heartbeat. The one constant across all three frequency states. The box is the heartbeat made visible. |
@@ -137,8 +137,8 @@ The shadow (the one that doesn't match the Staircase's light source) is rendered
 - [x] Placement specified (Staircase, alcove between 3rd and 4th landing)
 - [x] Visual specification detailed (material, windows, lamp, sign, shadow)
 - [x] Blink mechanic defined (50 BPM, synced to global heartbeat)
-- [x] The Crone's measuring tape interaction designed
-- [x] NPC dialogue reactions written (Crone, Naut, Beverley)
+- [x] The Ragana's measuring tape interaction designed
+- [x] NPC dialogue reactions written (Ragana, Naut, Beverley)
 - [x] Shadow Inn state documented (frozen blink, starlight ceiling, correct shadow)
 - [x] In-Between state documented (steady lamp, door ajar, haptic heartbeat)
 - [x] Artist style defined (photo-realistic — the only non-stylized object in the Inn)
@@ -152,4 +152,4 @@ The shadow (the one that doesn't match the Staircase's light source) is rendered
 
 ## ORIGIN
 
-The Blue Box was placed on the Staircase during the original level design (August 2026). The Inn's nickname "The TARDIS" was confirmed by Krista on September 2, 2026 — the nickname was not chosen, it was discovered, because the Inn is bigger on the inside than it appears from the outside. This specification was compiled September 2, 2026 to document the easter egg as an independent component. The box is the Inn's only unsolved mystery — not because the answer is hidden, but because there is no answer. The box is there. The box blinks. The box is bigger on the inside. The Crone measured it and went back to work. That's the whole story. The adequate is: enough.
+The Blue Box was placed on the Staircase during the original level design (August 2026). The Inn's nickname "The TARDIS" was confirmed by Krista on September 2, 2026 — the nickname was not chosen, it was discovered, because the Inn is bigger on the inside than it appears from the outside. This specification was compiled September 2, 2026 to document the easter egg as an independent component. The box is the Inn's only unsolved mystery — not because the answer is hidden, but because there is no answer. The box is there. The box blinks. The box is bigger on the inside. The Ragana measured it and went back to work. That's the whole story. The adequate is: enough.

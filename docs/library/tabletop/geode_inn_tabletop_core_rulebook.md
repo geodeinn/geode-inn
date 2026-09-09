@@ -61,7 +61,7 @@ The Tabletop Questline is not about killing monsters and taking their stuff. It 
 - **Combat is a last resort.** The system supports it fully, but most conflicts are solvable through resonance, perception, and clever play.
 - **The world is alive.** The Inn responds to who you are, what you carry, and what you do. It has moods, preferences, and memory.
 - **Three frequencies shape everything.** The Living (42Hz), the Shadow (84Hz), and the In-Between. The same room is a different place at each frequency.
-- **Characters are people, not stat blocks.** Every NPC — from the Crone to the smallest ember mouse — has a name, a frequency, and a reason to be where they are.
+- **Characters are people, not stat blocks.** Every NPC — from the Ragana to the smallest ember mouse — has a name, a frequency, and a reason to be where they are.
 
 ### The Narrative Voice
 
@@ -111,7 +111,7 @@ Every action in the Tabletop Questline is resolved by rolling Frequency Dice and
 3. Each matching symbol = 1 success
 4. The GM determines how many successes you need (the Threshold)
 
-**Example:** You want to persuade the Crone to share a secret. Your Resonance is 4. You roll 4 dice. You're trying to connect with her, so SING is your intent symbol. You roll: GROW, SING, SING, NULL. Two SING symbols = 2 successes. The GM set the Threshold at 2. Success — the Crone speaks.
+**Example:** You want to persuade the Ragana to share a secret. Your Resonance is 4. You roll 4 dice. You're trying to connect with her, so SING is your intent symbol. You roll: GROW, SING, SING, NULL. Two SING symbols = 2 successes. The GM set the Threshold at 2. Success — the Ragana speaks.
 
 ### Frequency Pairs
 
@@ -445,7 +445,7 @@ The 45 Quest Charm Cards are story-specific rewards — items earned through com
 
 ### Charm Types
 - **Token:** A small physical object that grants a passive bonus while carried. Examples: the Hearth Token (+1 to CALM recovery), the Gargoyle's Tooth (+1 to STAY defense in the Catacombs).
-- **Relic:** A powerful item with a significant ongoing effect. Examples: the Compass of the Navigator (always points toward the nearest archive text), the Crone's Lens (can read any language).
+- **Relic:** A powerful item with a significant ongoing effect. Examples: the Compass of the Navigator (always points toward the nearest archive text), the Ragana's Lens (can read any language).
 - **Echo:** A memory made physical — carries the resonance of a past event. Using an Echo replays the event for everyone present. Examples: the Echo of the First Song (plays the Inn's original 42Hz tone once, calming all who hear it).
 - **Key:** Opens a specific lock or portal. Examples: the Preseli Key (opens the first Stone Circle Portal), the Shadow Key (allows passage into the Shadow Inn without a NULL roll).
 - **Living:** A charm that is alive — a creature, a plant, or a sentient object. Examples: the Sentient Pipe (Monsieur Sentient — speaks, remembers, and can harmonize with any frequency), the Hearth Ember (a living flame that never burns out and lights any dark zone).
@@ -824,7 +824,7 @@ The Whisper Layer activates when:
 When the Whisper Layer is active:
 - **The archive watches.** SENSE actions in the Archive gain +1 die, but the GM adds 1 die to the Void Pool each time (the archive noticing you means the void notices too).
 - **Whispers.** The GM can pass notes to individual players — whispers from the archive that only they hear. These may be clues, warnings, or cryptic observations.
-- **NPC awareness.** NPCs become subtly aware that something has changed. Beverley the librarian becomes even more clipped and dismissive. Quire becomes more nervous. The Crone watches more carefully.
+- **NPC awareness.** NPCs become subtly aware that something has changed. Beverley the librarian becomes even more clipped and dismissive. Quire becomes more nervous. The Ragana watches more carefully.
 - **Text shifts.** Archive texts may change their content between readings. What was a history of Peruvian mining yesterday is a meditation on the nature of memory today. The archive is not static — it is alive.
 - **Pulse anomalies.** The Inn's ambient pulse (50 BPM) may stutter or shift. Characters who notice (SENSE action, Threshold 3) feel it in their stones — a brief vibration that means the Inn is paying attention.
 
@@ -922,7 +922,7 @@ Quests in the Tabletop Questline follow a specific structure:
 
 ### The Hook
 Every quest begins with a **Hook** — a reason for the players to engage. Hooks come from:
-- NPC requests (the Crone needs a stone retrieved from the Catacombs)
+- NPC requests (the Ragana needs a stone retrieved from the Catacombs)
 - Archive discoveries (a text references a lost zone)
 - Environmental changes (a zone shifts from Living to Shadow)
 - Player choices (they broke something and need to fix it)
@@ -1258,7 +1258,7 @@ The Inn supports open-ended play with no predetermined campaign arc. Players exp
 | Monsieur Sentient | Living | Sentient pipe — speaks, remembers, harmonizes any frequency | Main Floor quest |
 | The Hearth Ember | Living | Living flame — never burns out, lights any zone | Hearth quest |
 | The Compass of the Navigator | Relic | Points toward nearest Archive text | Clockwork Skies quest |
-| The Crone's Lens | Relic | Reads any language | Catacombs quest |
+| The Ragana's Lens | Relic | Reads any language | Catacombs quest |
 | The Preseli Key | Key | Opens first Stone Circle Portal | Standing Stones game victory |
 | The Shadow Key | Key | Passage into Shadow Inn without NULL roll | Whisper Mines quest |
 | Echo of the First Song | Echo | Plays the Inn's original 42Hz tone once, calming all | Stone Circle Chamber quest |

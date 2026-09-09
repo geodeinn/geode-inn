@@ -134,7 +134,7 @@
 ### ZONE 6: CATACOMBS CHARACTERS
 
 #### 9. THE CRONE (INTA) — Keeper of Deep Memory
-1. **Subject Name:** The Crone — Inta (Krista's Mother & Master Archivist)
+1. **Subject Name:** The Ragana — Inta (Krista's Mother & Master Archivist)
 2. **Visual Description:** A small, ancient, upright woman of terrifying intellectual precision and quiet presence. She wears dark bronze and amber robes with high embroidered collar detail. Her most striking feature is her **piercing, crystal-clear, unsoftened gaze** (Silence of the Lambs / Anthony Hopkins clarity)—eyes that look completely through superficial appearances directly into absolute truth.
 3. **Linework Style:** Soft flowing (lore style) — fine 1-2px delicate line work highlighting intricate robe folds, aged skin textures, and sweeping manuscript scrolls, paired with razor-sharp focal precision around her unsoftened eyes.
 4. **Color Palette:** Deep amber, aged bronze, dark obsidian, parchment cream, piercing ice-blue/steel eye color.

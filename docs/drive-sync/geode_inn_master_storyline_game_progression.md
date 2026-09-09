@@ -39,7 +39,7 @@ Main Floor (Trunk — Hub)
 * The artisan market (Soulstice Jewelry + other artisans)
 * The Modern Day Legends nook (living archive of contemporary folklore)
 * A library of world religions (neutral, scholarly)
-* The Sacred Trio: Host, Catalyst, Crone (+ the Bard as fourth presence)
+* The Sacred Trio: Host, Catalyst, Ragana (+ the Bard as fourth presence)
 * The Council of Thinkers: Tesla, Da Vinci, Newton, Einstein
 * The Wanderer (Odin's approachable form) with chibi ravens
 * Naut the Scholar by the fireplace
@@ -151,12 +151,12 @@ Alfheim (Fae Kingdom — Seelie Court)
 Midgard (Main Floor)The Sacred Trio + Fourth
 * The Host — Patrick Stewart energy. The Father/Anchor. Says "come in, you're safe here." Restraint is his power. The welcoming authority.
 * The Catalyst — Helena Bonham Carter / Mrs. Lovett energy. The Spirit/Mover. Bartender with impossible garden. Drink mechanic: stories become drinks. She is the wind to the Host's anchor.
-* The Crone — Anthony Hopkins + Shirley MacLaine. The Word/Measure. Precision without cushioning. "Better" is the Inn's most valuable currency. Designed the neuro-accessible color palette. Secret translator of Tesla's numbers.
-* The Bard Blowhard — Krista's dad. The Fool. Dwarf bard. Loud, warm, romantic, ADHD-pattern thinker. 60+ years of bickering with the Crone. The room-filler.
+* The Ragana — Anthony Hopkins + Shirley MacLaine. The Word/Measure. Precision without cushioning. "Better" is the Inn's most valuable currency. Designed the neuro-accessible color palette. Secret translator of Tesla's numbers.
+* The Bard Blowhard — Krista's dad. The Fool. Dwarf bard. Loud, warm, romantic, ADHD-pattern thinker. 60+ years of bickering with the Ragana. The room-filler.
 The Council of Thinkers
-* Nikola Tesla — Body: Eddie Redmayne (nervous energy). Voice: Alan Rickman (measured, sardonic). Face: Tom Hiddleston (angular, sharp). Measured the 42Hz hum of the Song of Making without knowing it was a song. The Crone is his secret translator.
+* Nikola Tesla — Body: Eddie Redmayne (nervous energy). Voice: Alan Rickman (measured, sardonic). Face: Tom Hiddleston (angular, sharp). Measured the 42Hz hum of the Song of Making without knowing it was a song. The Ragana is his secret translator.
 * Leonardo da Vinci — David Tennant (rapid-fire, physical) + Jeff Goldblum (fascinated, charming eccentric). Sees patterns where Tesla measures frequencies. Contains the Song of Making drawn as visual notation without knowing it.
-* Sir Isaac Newton — Law and calculation. Ally of the Crone. Shared love of precision.
+* Sir Isaac Newton — Law and calculation. Ally of the Ragana. Shared love of precision.
 * Albert Einstein — Personality: Robin Williams in Good Will Hunting (warm, tough, honest). Voice: Quiet Morgan Freeman (Red in Shawshank). The Council's emotional anchor. Carries the grief of E=mc2 becoming a bomb.
 Main Floor NPCs
 * The Wanderer (Odin) — Approachable traveler. Chibi thieving ravens Huginn (Thought, mumbler) and Muninn (Memory, clear-speaker). Labyrinth-knocker style snark, barely audible.
@@ -197,7 +197,7 @@ The Miskatonic Annex (Grounds)
 * Lost books include: Christopher Pike's Season of Passage, The Listeners, The Starlight Crystal. These provide architectural basis for the Mars prison, astral listening, and cyclical reincarnation mechanics.
 Family Character Classes (Starting Classes)
 * Artisan Thief (Vaulknut) — Selkie. Feminine Sandman. High DEX/INT, Low CHA. Dive ability. Jeweler's apron IS selkie skin.
-* Librarian Crone (Krista's Mom) — The Word/Measure. High INT/WIS, Low Empathy. "Better." Color psychology. Anthony Hopkins + Shirley MacLaine.
+* Librarian Ragana (Krista's Mom) — The Word/Measure. High INT/WIS, Low Empathy. "Better." Color psychology. Anthony Hopkins + Shirley MacLaine.
 * Bard Blowhard (Krista's Dad) — The Fool/Warmth. High CHA. ADHD-pattern thinker. Sci-fi lover. Room-filler.
 * Tinkering Weeaboo (Krista's Kid) — Changeling. True Form. Static metamorphosis. Annoyance meter (Levels 0-4). Pomegranates. Bipolar cycle.
 * Chameleon Druid (Charles/Krista's Husband) — Cillian Murphy + Benedict Cumberbatch. High Versatility, Low Endurance (glioblastoma). Shifts with the changeling at Level 4.
@@ -392,13 +392,13 @@ The Pirate's EndgameAt some point during Tier 5-6, a player can earn the title o
 * The Owl's "42" responses reveal 42Hz as a sub-audible frequency
 * The Preseli Blue Stone vibrates at a harmonic of 42Hz
 * The pinball chord contains the Singing Tree's melody
-* A Librarian Crone with maximum archive access finds: "Before the first word, there was the hum."
+* A Librarian Ragana with maximum archive access finds: "Before the first word, there was the hum."
 The player who connects all of these and aligns all six Standing Stones to their true positions finds the Golden Contract. And understands that the entire game was a song.
 ________________
 PART 8: LAYER ASSESSMENT — WHAT NEEDS BUFFING
 Fully Developed Layers (17)
 The Creation Myth — Complete origin story with five parts
-The Sacred Trio — Host, Catalyst, Crone, Bard — fully designed with theological mapping
+The Sacred Trio — Host, Catalyst, Ragana, Bard — fully designed with theological mapping
 The Family Characters — 7 classes with deep personal connections
 The Death Sequence — Full ceremony with 7 beats, obol mechanic, Charon
 The Norse Nine Realms — Architecture mapped, quest tiers defined

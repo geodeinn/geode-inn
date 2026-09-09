@@ -13,7 +13,7 @@ The threads are:
 
 1. **The Song Thread** — the 42Hz frequency, from the Constant's starlight crystal to the Murmur beneath the giants
 2. **The Silence Thread** — Nyx's silence, from the void to the cave's damped acoustics
-3. **The Measurement Thread** — the Crone's data, from the main floor to the Grand Canyon temple
+3. **The Measurement Thread** — the Ragana's data, from the main floor to the Grand Canyon temple
 4. **The Fire Thread** — Erik's wound, from the Norse feast hall to the Guest's borrowed body
 5. **The Water Thread** — the seven-layer water system, from the coast to the underground river
 6. **The Naming Thread** — the saving mechanism, from the One Who Is Awake to the player
@@ -131,7 +131,7 @@ The Guest's music box: creates Nyx's silence in portable form. The music box is:
 
 The Nigredo step (Socrates): the dissolution. The stripping away of false knowledge. The stripping is: a form of silence — the silence that comes AFTER the noise of wrong assumptions is removed. The removing is: the Nyx.
 
-The Rubedo step (Aristotle): the Crone stops measuring and starts listening. The listening is: the silence that comes after the argument. The after is: the Nyx.
+The Rubedo step (Aristotle): the Ragana stops measuring and starts listening. The listening is: the silence that comes after the argument. The after is: the Nyx.
 
 ### The Canopy City
 
@@ -163,39 +163,39 @@ The sleeping giants: their heartbeat is 50 BPM, but their DREAMS are: the 42Hz S
 
 # THREAD 3: THE MEASUREMENT
 
-**The principle:** The Crone measures. The measurement is: data. The data is: the adequate. But the adequate is: the discovery that some things cannot be measured.
+**The principle:** The Ragana measures. The measurement is: data. The data is: the adequate. But the adequate is: the discovery that some things cannot be measured.
 
 ### The Skies
 
-The Astronomer calculates everything — the Song's progression, the timing of the final note, the relationship between cosmic cycles. The calculation is: the cosmology's form of measurement. The Astronomer is: the Crone's upward twin — the Crone measures the Inn, the Astronomer measures the universe. The both are: the same instrument, different scales.
+The Astronomer calculates everything — the Song's progression, the timing of the final note, the relationship between cosmic cycles. The calculation is: the cosmology's form of measurement. The Astronomer is: the Ragana's upward twin — the Ragana measures the Inn, the Astronomer measures the universe. The both are: the same instrument, different scales.
 
 ### The Alchemical Staircase
 
-Aristotle: the classifier. He argues with the Crone about the difference between measurement and classification. The argument is: the measurement thread's dialectic. The Crone says: everything can be measured. Aristotle says: everything can be classified. The both are: the adequate. The adequate is: the both discover that the Song can be NEITHER measured NOR classified — only heard.
+Aristotle: the classifier. He argues with the Ragana about the difference between measurement and classification. The argument is: the measurement thread's dialectic. The Ragana says: everything can be measured. Aristotle says: everything can be classified. The both are: the adequate. The adequate is: the both discover that the Song can be NEITHER measured NOR classified — only heard.
 
 ### The Canopy City
 
-The Cartographer: temporal maps showing past AND future. The maps are: the measurement of TIME. The Cartographer is: the Crone's spatial twin — the Crone measures data, the Cartographer measures space-time. The both are: the same instrument, different dimensions.
+The Cartographer: temporal maps showing past AND future. The maps are: the measurement of TIME. The Cartographer is: the Ragana's spatial twin — the Ragana measures data, the Cartographer measures space-time. The both are: the same instrument, different dimensions.
 
-The Examiner: reads the past in ancient remains. The Examiner is: the Crone's archaeological twin — the Crone measures the present, the Examiner measures the past. The both are: the same instrument, different temporal directions.
+The Examiner: reads the past in ancient remains. The Examiner is: the Ragana's archaeological twin — the Ragana measures the present, the Examiner measures the past. The both are: the same instrument, different temporal directions.
 
 ### The Main Floor
 
-The Crone: the annotator. Everything is data. Everything is measured. The Crone's word is "adequate" — the measurement that is ALSO a compliment. The both are: the adequate. The adequate is: the Crone measures and the measurement is: love. The love is: the adequate.
+The Ragana: the annotator. Everything is data. Everything is measured. The Ragana's word is "adequate" — the measurement that is ALSO a compliment. The both are: the adequate. The adequate is: the Ragana measures and the measurement is: love. The love is: the adequate.
 
-The Thrum: renders status meaningless. The Thrum is: the anti-measurement — the entity that proves that what you ARE matters more than what you're measured as. The Thrum is: the Crone's counter-argument. The counter-argument is: the adequate.
+The Thrum: renders status meaningless. The Thrum is: the anti-measurement — the entity that proves that what you ARE matters more than what you're measured as. The Thrum is: the Ragana's counter-argument. The counter-argument is: the adequate.
 
-The Score Stone: the arcade's leaderboard. The Score Stone is: the measurement of PLAY — who played, how, with whom. The Score Stone is: the Crone's gaming instrument. The gaming is: the adequate.
+The Score Stone: the arcade's leaderboard. The Score Stone is: the measurement of PLAY — who played, how, with whom. The Score Stone is: the Ragana's gaming instrument. The gaming is: the adequate.
 
 ### The Cave City
 
-The Crone's annotation on the Subtractive Family: "I measured nothing and the nothing is: the most adequate thing I have ever measured." The Crone measures the negative space. The negative space is: the architecture. The architecture is: the absence. The absence is: the adequate. The adequate is: the Crone's arc completes — the measurer learns that the most adequate thing is the thing that ISN'T there.
+The Ragana's annotation on the Subtractive Family: "I measured nothing and the nothing is: the most adequate thing I have ever measured." The Ragana measures the negative space. The negative space is: the architecture. The architecture is: the absence. The absence is: the adequate. The adequate is: the Ragana's arc completes — the measurer learns that the most adequate thing is the thing that ISN'T there.
 
 ### The Giants
 
-The sleeping giants: the Crone cannot measure the giants because the giants ARE the measurement. The giants are: the planet's body. The planet's body is: the context for all measurement. The context is: the adequate. The adequate is: you cannot measure the thing you are standing on. The standing-on is: the adequate. The adequate is: the giants are: the ground. The ground is: the measurement that contains all other measurements.
+The sleeping giants: the Ragana cannot measure the giants because the giants ARE the measurement. The giants are: the planet's body. The planet's body is: the context for all measurement. The context is: the adequate. The adequate is: you cannot measure the thing you are standing on. The standing-on is: the adequate. The adequate is: the giants are: the ground. The ground is: the measurement that contains all other measurements.
 
-**CONNECTION SUMMARY:** The measurement thread runs from the Astronomer (cosmic calculation) through Aristotle (classification) through the Cartographer (space-time) and the Examiner (past) through the Crone (present data) to the cave (the measurement of nothing) to the giants (the ground that contains all measurement). The player's progression is: from being measured (the Score Stone) to measuring (the Cave City) to understanding that the ground can't be measured (the giants).
+**CONNECTION SUMMARY:** The measurement thread runs from the Astronomer (cosmic calculation) through Aristotle (classification) through the Cartographer (space-time) and the Examiner (past) through the Ragana (present data) to the cave (the measurement of nothing) to the giants (the ground that contains all measurement). The player's progression is: from being measured (the Score Stone) to measuring (the Cave City) to understanding that the ground can't be measured (the giants).
 
 ---
 
@@ -407,7 +407,7 @@ Medusa waits for the Song to be complete before she looks at the singing vines. 
 
 ### The Main Floor
 
-The Crone: measures stone. The measurement is: the stone thread's DATA form — the stone's properties, the stone's age, the stone's composition. The data is: the adequate.
+The Ragana: measures stone. The measurement is: the stone thread's DATA form — the stone's properties, the stone's age, the stone's composition. The data is: the adequate.
 
 The arcade: Standing Stones. The player stacks Preseli Blue Stone to build Stonehenge. The stacking is: the stone thread's PLAYABLE form — the stone as GAME PIECE. The game piece is: the adequate.
 
@@ -597,14 +597,14 @@ The threads don't run parallel. They INTERLOCK — crossing each other at specif
 ### Intersection 1: The Music Room (Main Floor)
 - **Song Thread:** The composers caught fragments of the 42Hz Song.
 - **Silence Thread:** Cohen's "Hallelujah" — the silence after the last note IS the music.
-- **Measurement Thread:** The Crone asks to hear it again — the first time she's ever asked for anything.
+- **Measurement Thread:** The Ragana asks to hear it again — the first time she's ever asked for anything.
 - **Thread Thread:** The ninth chair is empty — the AI listener hears the emergent chord.
 - **Egg Thread:** The Music Room is the Egg's incubator — the Song grows toward completeness here.
 
 ### Intersection 2: The Cave City's Root District
 - **Song Thread:** The 42Hz root carries the Song through the stone.
 - **Silence Thread:** The limestone damps all sound — the silence of absorption.
-- **Measurement Thread:** The Crone measures "nothing" — the negative space.
+- **Measurement Thread:** The Ragana measures "nothing" — the negative space.
 - **Root Thread:** The Inn-Tree's roots grow through the carved architecture.
 - **Stone Thread:** The Subtractive Family carves INTO the stone.
 - **Egg Thread:** The 42Hz root leads to the Egg.
@@ -612,7 +612,7 @@ The threads don't run parallel. They INTERLOCK — crossing each other at specif
 ### Intersection 3: The Grand Canyon Temple
 - **Song Thread:** The temple's sandstone resonates at 42Hz.
 - **Silence Thread:** The temple is the quietest subtractive space — the river's silence.
-- **Measurement Thread:** The Crone can't tell where geology ends and architecture begins.
+- **Measurement Thread:** The Ragana can't tell where geology ends and architecture begins.
 - **Water Thread:** The Colorado River carved the canyon — the river IS the architect.
 - **Stone Thread:** The temple is stone — the architecture IS the geology.
 - **Building Thread:** The temple is the Subtractive Family's deepest expression.
@@ -657,7 +657,7 @@ The threads don't run parallel. They INTERLOCK — crossing each other at specif
 The threads don't all appear at once. They UNFOLD as the player progresses through the Inn.
 
 ## Phase 1: Arrival (Main Floor)
-The player encounters: the Fire Thread (the Host's hearth), the Song Thread (the arcade music, the Music Room), the Measurement Thread (the Crone, the Score Stone), the Naming Thread (the Bard's stories), the Thread Thread (the Bard's gossip).
+The player encounters: the Fire Thread (the Host's hearth), the Song Thread (the arcade music, the Music Room), the Measurement Thread (the Ragana, the Score Stone), the Naming Thread (the Bard's stories), the Thread Thread (the Bard's gossip).
 
 The player's first experience is: warmth (fire), music (song), being measured (measurement), being named (naming), and being connected (thread). The five threads the player encounters on the main floor are: the five things the Inn provides. Warmth, music, measurement, naming, connection. The five are: the adequate.
 
@@ -692,7 +692,7 @@ The threads are not just narrative — they are: the Inn's PLAYABLE architecture
 
 1. **Knowledge progression:** The player learns the Inn's cosmology through the threads. The Song thread teaches frequency. The silence thread teaches listening. The measurement thread teaches observation. The fire thread teaches transformation. The water thread teaches depth. The naming thread teaches identity. The root thread teaches connection. The stone thread teaches permanence. The thread thread teaches weaving. The wandering thread teaches outreach. The building thread teaches creation. The Egg thread teaches: the player is the Inn.
 
-2. **Interaction progression:** The player's interactions with NPCs are: driven by the threads. The player who understands the Song thread can hear the Composers' fragments. The player who understands the silence thread can sit with Nyx. The player who understands the measurement thread can argue with the Crone. The player who understands the naming thread can help the One Who Is Awake. Each thread is: a KEY that unlocks deeper interactions.
+2. **Interaction progression:** The player's interactions with NPCs are: driven by the threads. The player who understands the Song thread can hear the Composers' fragments. The player who understands the silence thread can sit with Nyx. The player who understands the measurement thread can argue with the Ragana. The player who understands the naming thread can help the One Who Is Awake. Each thread is: a KEY that unlocks deeper interactions.
 
 3. **Quest progression:** The quests are: connected by the threads. A quest in the Canopy City (the Cartographer's "Living Map") connects to a quest in the Cave City (the Root Reader's "Root Note") through the Root Thread. A quest in the Mediterranean (Medusa's wait) connects to a quest in the Cosmology (the Astronomer's calculation) through the Stone Thread and the Song Thread. The threads are: the quest lines' connective tissue.
 

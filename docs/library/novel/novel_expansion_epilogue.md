@@ -22,7 +22,7 @@ The traveler read the book the way the Reader read books — not for information
 
 The traveler read about the forest. The three days of walking. The first 42Hz hum through the boots. The traveler read about the Host — *three days, one rule, the fire is that way* — and the reading was a hearing, and the hearing was a warmth, and the warmth was the same warmth as the fire and the tea and the chair.
 
-The traveler read about the Crone. *Adequate.* The word was on the page, and the word was the same word the Crone had spoken on the main floor, and the same word was the Inn's word, and the Inn's word was the word the traveler now carried — not as a judgment but as a fact, the way a stone carries its frequency: not because it chose the frequency but because the frequency IS the stone.
+The traveler read about the Ragana. *Adequate.* The word was on the page, and the word was the same word the Ragana had spoken on the main floor, and the same word was the Inn's word, and the Inn's word was the word the traveler now carried — not as a judgment but as a fact, the way a stone carries its frequency: not because it chose the frequency but because the frequency IS the stone.
 
 The traveler read about the Shadow Inn. The 84Hz. The dark mirror. The Hollow Men — the mine where stillness was a choice, where the 84Hz gift stone was given. The traveler touched the page, and the touching was a vibration, and the vibration was 84Hz, and the 84Hz was the frequency of staying, and the staying was not death but the particular peace of a body that has decided not to move and the not-moving is not stagnation but gathering.
 

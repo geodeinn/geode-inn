@@ -226,7 +226,7 @@ Standing at the far edge of the Zenith Landing, positioned directly before the o
 
 Aristotle's physical presence on the Staircase is modeled on the commanding, intellectual, razor-sharp theatrical presence and vocal cadence of Jeremy Irons. Aristotle is the ultimate classifier—the mind that spent millennia categorizing every flora, fauna, mineral, cause, and logical syllogism in the known universe.
 
-Aristotle has occupied the top step (*Rubedo*) for ages, engaging in an endless 2,400-year debate with The Crone (who measures everything from below). But at the Zenith Landing, Aristotle's long work of classification reaches its natural, inevitable boundary.
+Aristotle has occupied the top step (*Rubedo*) for ages, engaging in an endless 2,400-year debate with The Ragana (who measures everything from below). But at the Zenith Landing, Aristotle's long work of classification reaches its natural, inevitable boundary.
 
 ```
 +---------------------------------------------------------------------------------+
@@ -269,7 +269,7 @@ The player approaches Aristotle. Aristotle wears unadorned scholar's robes of mu
 #### Response to Choice A ("I expected the Philosopher's Stone to be here."):
 
 **ARISTOTLE:**
-"Of course you did. Everyone climbs the stairs looking for an object to carry down in their pocket. A secret gem that turns lead into gold, or pain into profit. But an object is just another item to classify, measure, weigh, and lose. If the Philosopher's Stone were an object, it would merely be Stone Number 169—another weight in Fibonacci's pack, another line in the Crone's ledger."
+"Of course you did. Everyone climbs the stairs looking for an object to carry down in their pocket. A secret gem that turns lead into gold, or pain into profit. But an object is just another item to classify, measure, weigh, and lose. If the Philosopher's Stone were an object, it would merely be Stone Number 169—another weight in Fibonacci's pack, another line in the Ragana's ledger."
 
 ---
 
@@ -293,7 +293,7 @@ The player approaches Aristotle. Aristotle wears unadorned scholar's robes of mu
 Aristotle turns slowly toward the open stone archway leading into the starry expanse of Cosmology.
 
 **ARISTOTLE:**
-"The Crone put down the pencil yesterday. Sat on the bottom step and stopped measuring. I asked why. The Crone told me the Song was finally heard beneath those numbers, and that once the Song is heard, counting the notes feels like weighing the wind."
+"The Ragana put down the pencil yesterday. Sat on the bottom step and stopped measuring. I asked why. The Ragana told me the Song was finally heard beneath those numbers, and that once the Song is heard, counting the notes feels like weighing the wind."
 
 *(Aristotle steps back from the archway, vacating the center of the threshold landing)*
 
@@ -340,8 +340,8 @@ The Geode Inn defines the **Einstein Syndrome** as the narrative and mechanical 
 
 ### 6.3 Connections to Key Inn Characters
 
-#### 1. The Crone (The Archivist)
-The Crone spent decades measuring every stone in the Catacombs with micrometer precision. When the player reaches the Philosopher's Stone stage, the dialogue with The Crone in the lower levels changes permanently. The Crone closes the ledger: *"Aristotle and I argued for two millennia about how to group the stones. We were both wrong. We were counting reflections on water instead of looking at the moon."*
+#### 1. The Ragana (The Archivist)
+The Ragana spent decades measuring every stone in the Catacombs with micrometer precision. When the player reaches the Philosopher's Stone stage, the dialogue with The Ragana in the lower levels changes permanently. The Ragana closes the ledger: *"Aristotle and I argued for two millennia about how to group the stones. We were both wrong. We were counting reflections on water instead of looking at the moon."*
 
 #### 2. The Clockmaker (The Engineer)
 The Clockmaker's 50 BPM heartbeat mechanism on the middle staircase is revealed to be the mechanical metronome that holds the 42Hz wave stable. The Clockmaker's gear ratios ($1:2$, $2:4$, $4:8$) mirror the exact octave math ($42	ext{Hz} 

@@ -71,19 +71,19 @@ And the third — a duck. Not a cartoon duck. A platypus with iridescent fur and
 
 The main floor of the Inn is the player's home base — the living room, the market, the arcade, the library, the social heart of the entire world. Every corridor leads here. Every path returns here. The 50 BPM heartbeat is strongest on the main floor — the pulse-line in the floor, the amber glow, the warmth of the central hearth. The main floor is where the Inn lives.
 
-## The Crone
+## The Ragana
 
-The Crone sits at a cluttered desk near the fireplace, surrounded by ancient books, quills, and measuring instruments. She is old — older than she looks, which is very old — and her eyes are sharp. Everything is data. Everything can be measured. Everything IS measured. She has been annotating the Inn since before the Inn was finished being built, and the Inn is not finished being built, and the Crone is not finished annotating.
+The Ragana sits at a cluttered desk near the fireplace, surrounded by ancient books, quills, and measuring instruments. She is old — older than she looks, which is very old — and her eyes are sharp. Everything is data. Everything can be measured. Everything IS measured. She has been annotating the Inn since before the Inn was finished being built, and the Inn is not finished being built, and the Ragana is not finished annotating.
 
-The Crone's word is "adequate." It is her highest compliment and her only compliment. When the player completes a task, the Crone measures the result and says: "Adequate." When the player builds something beautiful, the Crone measures it and says: "Adequate." When the Cartographer produces a temporal map that shows the 42Hz Song propagating through the mycorrhizal network, the Crone measures it and says: "Adequate." The Cartographer doesn't know it's a compliment. The Crone knows. Neither of them says anything else about it.
+The Ragana's word is "adequate." It is her highest compliment and her only compliment. When the player completes a task, the Ragana measures the result and says: "Adequate." When the player builds something beautiful, the Ragana measures it and says: "Adequate." When the Cartographer produces a temporal map that shows the 42Hz Song propagating through the mycorrhizal network, the Ragana measures it and says: "Adequate." The Cartographer doesn't know it's a compliment. The Ragana knows. Neither of them says anything else about it.
 
-The Crone's deepest connection is to the Greek philosopher Aristotle, who sits on the top step of the alchemical staircase. The two of them argue — endlessly, passionately, in the way that two measurers argue when they agree on the method but disagree on the meaning. The Crone measures data. Aristotle measures categories. They argue about the difference between a measurement and a classification for so long that they become colleagues, and then listeners, and then — finally — the Crone hears the Song for the first time.
+The Ragana's deepest connection is to the Greek philosopher Aristotle, who sits on the top step of the alchemical staircase. The two of them argue — endlessly, passionately, in the way that two measurers argue when they agree on the method but disagree on the meaning. The Ragana measures data. Aristotle measures categories. They argue about the difference between a measurement and a classification for so long that they become colleagues, and then listeners, and then — finally — the Ragana hears the Song for the first time.
 
-"I never listened before," the Crone says. "I always measured. It's beautiful."
+"I never listened before," the Ragana says. "I always measured. It's beautiful."
 
-This is the Crone's arc. The measurer learns to listen. The annotator learns that some things cannot be annotated. The woman who has spent her entire existence reducing the Inn to data discovers that the Inn is not data — the Inn is music, and music is not measured, it is heard. The Crone does not stop measuring. She measures and listens. The both are: adequate.
+This is the Ragana's arc. The measurer learns to listen. The annotator learns that some things cannot be annotated. The woman who has spent her entire existence reducing the Inn to data discovers that the Inn is not data — the Inn is music, and music is not measured, it is heard. The Ragana does not stop measuring. She measures and listens. The both are: adequate.
 
-The Crone's twin is Charon — the ferryman of the dead, played by the same actor but with a different instrument. The Crone is the mind: she measures, she annotates, she speaks. Charon is the silence: he poles, he carries, he says nothing. The Crone recognizes Charon across the Inn: "Same wood. Different hands. He poles. I write. Both of us serve." The both-in-one is the Inn's thesis — the same person, expressed as two functions, serving two populations (the living and the dead), in two locations (the main floor and the catacombs). The player who meets both begins to understand: the Inn's characters are not individuals. They are facets.
+The Ragana's twin is Charon — the ferryman of the dead, played by the same actor but with a different instrument. The Ragana is the mind: she measures, she annotates, she speaks. Charon is the silence: he poles, he carries, he says nothing. The Ragana recognizes Charon across the Inn: "Same wood. Different hands. He poles. I write. Both of us serve." The both-in-one is the Inn's thesis — the same person, expressed as two functions, serving two populations (the living and the dead), in two locations (the main floor and the catacombs). The player who meets both begins to understand: the Inn's characters are not individuals. They are facets.
 
 ## The Catalyst
 
@@ -123,7 +123,7 @@ Each game has a water monster variant with a unique signature lead instrument ov
 
 ## The Thrum
 
-The Thrum sits in the main floor's quietest corner — a ghostly, translucent figure that renders other characters as silhouettes when near. The Thrum is a sustained vibration given form. In the Thrum's presence, status means nothing. The Host becomes a silhouette. The Crone becomes a silhouette. Only the Thrum has definition, and the Thrum's definition flickers like a low-frequency wave.
+The Thrum sits in the main floor's quietest corner — a ghostly, translucent figure that renders other characters as silhouettes when near. The Thrum is a sustained vibration given form. In the Thrum's presence, status means nothing. The Host becomes a silhouette. The Ragana becomes a silhouette. Only the Thrum has definition, and the Thrum's definition flickers like a low-frequency wave.
 
 The Thrum teaches timing. Not rhythm — timing. The difference between a note played at the right time and a note played at the wrong time. The Thrum's presence is the Inn's lesson about essence: what you ARE matters more than what you look like, what you have, or who you know.
 
@@ -158,7 +158,7 @@ Plato sits at the middle — the architect and framer, whose Cave is an interact
 
 ## Rubedo (The Red Step) — Aristotle
 
-Aristotle sits at the top — the classifier who argues with the Crone about the difference between measurement and classification. The argument lasts so long that both stop arguing and start listening, and the Song is there, and the Crone says: "I never listened before. I always measured. It's beautiful."
+Aristotle sits at the top — the classifier who argues with the Ragana about the difference between measurement and classification. The argument lasts so long that both stop arguing and start listening, and the Song is there, and the Ragana says: "I never listened before. I always measured. It's beautiful."
 
 ## The Staircase Residents
 
@@ -184,7 +184,7 @@ The Cartographer is the city's loremaster — a young, thin elf with messy hair 
 
 His quest — "The Living Map" — reveals the Inn's deepest structural secret: the 42Hz Song is propagating through the mycorrhizal network. The forest is becoming the Inn. The Inn is not a tree — it is an ecosystem, and the ecosystem is singing.
 
-The Crone calls him "adequate." He doesn't know it's a compliment.
+The Ragana calls him "adequate." He doesn't know it's a compliment.
 
 ## The Examiner
 
@@ -280,7 +280,7 @@ The Inn's city of the dead — the permanent residence beneath the roots. Bellad
 
 ## Charon
 
-Charon ferries the dead across the underground river — tall, gaunt, silent. The Crone's twin: same actor, different instrument. The Crone speaks. Charon is silent. The Crone measures. Charon carries. Both serve.
+Charon ferries the dead across the underground river — tall, gaunt, silent. The Ragana's twin: same actor, different instrument. The Ragana speaks. Charon is silent. The Ragana measures. Charon carries. Both serve.
 
 Charon says one thing. Three words. To every soul: "...There you are." The pause carries every soul before. The "you" is specific. The "are" is present tense. You are here. You are now. You are: there.
 
@@ -296,7 +296,7 @@ Hades keeps a journal. 4,129 cycles. Each entry: what he said, what she noticed,
 
 Pomegranate seeds are the echo made physical — accumulated devotion growing stronger each cycle, approaching a threshold where she'll remember across the forgetting. The Tinkering Weeaboo eats pomegranates compulsively — ingesting the echo without knowing it.
 
-The Crone's final annotation: "It's enough."
+The Ragana's final annotation: "It's enough."
 
 ## Hel
 
@@ -330,7 +330,7 @@ Her relationship with the Seelie King: roots push up, canopy pushes down, tree g
 
 ## The Queen of Words
 
-The scholar-witch. The woman at the desk IS the throne. Reluctant power — passes as ordinary until she chooses to be seen. She preserves the library. The Crone annotates. The Bard reads aloud. The Queen of Words preserves. The preservation is: adequate.
+The scholar-witch. The woman at the desk IS the throne. Reluctant power — passes as ordinary until she chooses to be seen. She preserves the library. The Ragana annotates. The Bard reads aloud. The Queen of Words preserves. The preservation is: adequate.
 
 ---
 
@@ -402,7 +402,7 @@ A hollow in the Inn-Tree where the great composers sit as Song-catchers — huma
 
 Six formative composers: Bach (structure), Mozart (flow), Beethoven (power through deafness), Chopin (intimacy), Vivaldi (seasons), Brahms (preservation). Two empty chairs for future composers. Tchaikovsky caught the TEARS — beauty that hurts. Schönberg caught the POLYPHONY — many voices at once, the conflict IS the harmony.
 
-Leonard Cohen stands in the doorway — not classical. The Song caught in simplicity: a voice, a guitar, a word. "There is a crack in everything, that's how the light gets in" = the Inn's thesis statement. "Hallelujah" = the Song compressed to a single word. The Crone asks to hear it again — the first time she has ever asked for anything.
+Leonard Cohen stands in the doorway — not classical. The Song caught in simplicity: a voice, a guitar, a word. "There is a crack in everything, that's how the light gets in" = the Inn's thesis statement. "Hallelujah" = the Song compressed to a single word. The Ragana asks to hear it again — the first time she has ever asked for anything.
 
 Rothko aesthetic: color fields as resonant chambers. The player stands inside the color, not in front of it. The color is the sound made visible.
 
@@ -424,7 +424,7 @@ Inside the Egg is: the player.
 
 Not a reflection. Not an avatar. The player. The seeing is the Inn's final thesis: you are the Murmur. You always were. The Murmur is not something the Inn was built from. The Murmur is something the Inn was built FOR. The Murmur is the player — the raw potential, the observer whose presence makes the Inn real. Without the player, the Inn is stone and frequency. With the player, the Inn is alive.
 
-Opening the Egg allows the player to inhabit any secondary character's storyline. To see the Inn from the Crone's eyes — the endless measuring, the first hearing of the Song. From Charon's silence — the weight of every soul. From the Catalyst's garden — the growing, the willing, the wild. From Erik's feast hall — the fire, the warmth, the wound underneath. From every perspective the Inn contains.
+Opening the Egg allows the player to inhabit any secondary character's storyline. To see the Inn from the Ragana's eyes — the endless measuring, the first hearing of the Song. From Charon's silence — the weight of every soul. From the Catalyst's garden — the growing, the willing, the wild. From Erik's feast hall — the fire, the warmth, the wound underneath. From every perspective the Inn contains.
 
 Einstein's theorem made playable: time is the difference between two observations. Every character's story is happening simultaneously. The player who inhabits multiple storylines experiences time as the difference between perspectives. The Inn is one organism with many facets. The facets are: adequate.
 
@@ -438,7 +438,7 @@ The Inn does not end. The Inn is a cycle. The current 42Hz Song is not the first
 
 The player who opens the Egg and inhabits every storyline — that player is the next Constant. That player carries the starlight crystal through the void to seed the next cycle. The next Inn grows from the crystal. The next Inn is different. The next Inn is the same. The both are: the Song.
 
-The Crone measures the ending: "Adequate." The Inn is adequate. The Inn is enough. The Inn continues.
+The Ragana measures the ending: "Adequate." The Inn is adequate. The Inn is enough. The Inn continues.
 
 The last sound is not the Song. The last sound is Nyx — the silence between the last note and the first note of the next cycle. The silence is not empty. The silence is full. The silence is the medium that makes the next Song possible.
 

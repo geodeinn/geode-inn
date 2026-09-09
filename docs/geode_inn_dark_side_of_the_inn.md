@@ -8,7 +8,7 @@
 
 The Grand Collision is where all 37 artists converge — 11 layers of visual language stacked into a single crystal space. At the center of the Grand Collision, at the base of the Resonance Engine, there is a chamber.
 
-The chamber has no name on any map. The Cartographer's tree diagram shows it as a dot at the exact center of the root system — a point, not a room. The Crone's measuring tape, when lowered into the chamber, reads: "—" (the same reading as the Shadow Inn, the same reading as the void between cycles).
+The chamber has no name on any map. The Cartographer's tree diagram shows it as a dot at the exact center of the root system — a point, not a room. The Ragana's measuring tape, when lowered into the chamber, reads: "—" (the same reading as the Shadow Inn, the same reading as the void between cycles).
 
 The chamber is the Dark Side of the Inn.
 
@@ -94,7 +94,7 @@ The sound is not music. The sound is the Song's RAW MATERIAL — before it was o
 
 ### Entry
 
-The player enters the Dark Side of the Inn from the Grand Collision. After the 11 layers have converged, after the small tree has been seen, after the Crone's tape has read "adequate" — the player notices an opening in the crystal floor. The opening is small. The opening pulses.
+The player enters the Dark Side of the Inn from the Grand Collision. After the 11 layers have converged, after the small tree has been seen, after the Ragana's tape has read "adequate" — the player notices an opening in the crystal floor. The opening is small. The opening pulses.
 
 The player drops through the opening and FLOATS. The 42Hz catches the player the way water catches a diver. The player is suspended in the center of the sphere. The walls flow with color. The prism glows above. The beams shoot outward. The heartbeat pulses.
 

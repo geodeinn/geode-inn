@@ -82,7 +82,7 @@ Five character classes from Krista's original tabletop questline. Each has delib
 
 ---
 
-### 4. The Librarian Crone
+### 4. The Librarian Ragana
 **Stat Profile:**
 - Intelligence: HIGH
 - Empathy: LOW
@@ -95,14 +95,14 @@ Five character classes from Krista's original tabletop questline. Each has delib
 
 **Inn Application:**
 - Primary class for the **archive and library zones** — the scholar who can read every text, decode every cipher, and access every archive entry
-- High intelligence = **access to the Living Book system** at maximum depth — other classes get surface-level interactions, the Crone gets full dialogue
+- High intelligence = **access to the Living Book system** at maximum depth — other classes get surface-level interactions, the Ragana gets full dialogue
 - High situational ethics = **branching dialogue** based on zone context — in a Celtic zone she might side with the villagers, in a Norse zone she might side with the raiders. Not immoral — *contextually moral*
 - High maintenance = a **resource management mechanic** — this class needs to eat, rest, and maintain equipment more often. If neglected, stats drop
 - High capability potential = **late-game powerhouse** — starts weak, grows exponentially. The investment class
 - Vulnerable to enrage = the **Bard's natural counter** — party dynamics create tension when these two share a group
 - This is the class for players who want to **read everything, know everything, and make the hard calls**
 
-**Design Note:** The Librarian Crone is the Inn itself — high intelligence, high ethics, low empathy, high maintenance. The Inn is a place that knows almost everything and cares about preserving it, but doesn't always care about the individual feelings of the people inside it. This class is the Inn's personality in playable form.
+**Design Note:** The Librarian Ragana is the Inn itself — high intelligence, high ethics, low empathy, high maintenance. The Inn is a place that knows almost everything and cares about preserving it, but doesn't always care about the individual feelings of the people inside it. This class is the Inn's personality in playable form.
 
 ---
 
@@ -138,7 +138,7 @@ The classes aren't designed in isolation — they're designed to **interact**, a
 | Source | Target | Effect |
 |--------|--------|--------|
 | Bard Taunt | Enemy | +2 STR, -4 INT, -2 Loyalty (enrage) |
-| Bard Taunt | Librarian Crone | Devastating — Crone has low enrage resistance, loses her primary stat |
+| Bard Taunt | Librarian Ragana | Devastating — Ragana has low enrage resistance, loses her primary stat |
 | Bard Taunt | Chameleon Druid | Disrupts stance — Chameleon loses focus and reverts |
 | Bard Taunt | Artisan Thief | Minimal effect — Thief doesn't rely on intelligence |
 | Bard Taunt | Tinkering Weeaboo | Dangerous — Tinker's high INT drops, but their dex remains |
@@ -147,9 +147,9 @@ The classes aren't designed in isolation — they're designed to **interact**, a
 | Pairing | Dynamic |
 |---------|---------|
 | Artisan Thief + Bard | The Thief does the work, the Bard takes the credit. Classic. |
-| Librarian Crone + Tinkering Weeaboo | Intellectual rivalry. Both think they're the smartest. Different kinds of smart. |
+| Librarian Ragana + Tinkering Weeaboo | Intellectual rivalry. Both think they're the smartest. Different kinds of smart. |
 | Chameleon Druid + anyone | The Druid adapts to whoever they're with. Chameleon personality. |
-| Bard + Librarian Crone | Maximum friction. The Bard's chaos vs. the Crone's control. |
+| Bard + Librarian Ragana | Maximum friction. The Bard's chaos vs. the Ragana's control. |
 | Artisan Thief + Chameleon Druid | The Thief makes things. The Druid copies them. Tension. |
 | Tinkering Weeaboo + Bard | The Tinker hates the Bard's broad-but-shallow knowledge. The Bard doesn't care. |
 
@@ -159,7 +159,7 @@ The classes aren't designed in isolation — they're designed to **interact**, a
 | Artisan Thief | Artisan Market, Workshops | Cosmology (no fine motor work) |
 | Bard Blowhard | Festival zones, Celtic/Norse | Archive (too quiet, too much reading) |
 | Tinkering Weeaboo | Workshop, Egyptian puzzles | Festival zones (too social, no puzzles) |
-| Librarian Crone | Archive, Living Books | Festival zones (too chaotic, too loud) |
+| Librarian Ragana | Archive, Living Books | Festival zones (too chaotic, too loud) |
 | Chameleon Druid | Everywhere (briefly) | Anywhere requiring sustained effort |
 
 ---
@@ -207,7 +207,7 @@ Each class has zones where they shine and zones where they struggle. This create
 The Chameleon's temporary stance switching is the most technically complex mechanic. Build it after the base classes work.
 
 ### Phase 5: Build the Social Dynamics
-Party composition should affect NPC interactions, quest availability, and dialogue options. The Bard's presence changes what quests are available. The Crone's presence changes what archive entries are accessible. The Thief's presence changes what items you can find.
+Party composition should affect NPC interactions, quest availability, and dialogue options. The Bard's presence changes what quests are available. The Ragana's presence changes what archive entries are accessible. The Thief's presence changes what items you can find.
 
 ---
 

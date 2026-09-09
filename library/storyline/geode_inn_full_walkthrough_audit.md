@@ -62,7 +62,7 @@ A vertical stone staircase connecting the Main Floor to the Cosmology Level. Eac
 |---|---|---|
 | **Socrates** | Stephen Fry + George Carlin layer | Bottom step (Nigredo/black work); the questioner whose anger IS the love |
 | **Plato** | Ralph Fiennes | Middle step (Albedo/white work); the Cave is an interactive mural |
-| **Aristotle** | Jeremy Irons | Top step (Rubedo/red work); argues with the Crone until both become listeners |
+| **Aristotle** | Jeremy Irons | Top step (Rubedo/red work); argues with the Ragana until both become listeners |
 | **The Retort** | Olivia Colman | Nikola Tesla's reincarnated soul; brilliant, unstable inventor |
 | **The Cook** | Jack Black | Kitchen anchor; care-based sustainer; says "Enough" |
 | **Bloop** | — | Tesla's cat living in the staircase lab |
@@ -91,7 +91,7 @@ Six artist chambers along a Guggenheim-style spiral ramp:
 ### Connections
 - Tesla's silver disc links: Cartographer (Canopy) ↔ Examiner (Desert Bone) ↔ Retort (Staircase) ↔ Navigator (Arcana)
 - The Greek philosophers are ancestors of the Council of Thinkers: Socrates→Einstein, Plato→Da Vinci, Aristotle→Newton
-- The Crone hears the Song for the first time after arguing with Aristotle: "I never listened before. I always measured. It's beautiful."
+- The Ragana hears the Song for the first time after arguing with Aristotle: "I never listened before. I always measured. It's beautiful."
 
 ---
 
@@ -268,7 +268,7 @@ The ground level and heart of the Geode Inn. Anti-FOMO sanctuary. The default st
 | Character | Casting | Role |
 |---|---|---|
 | **The Host** | Patrick Stewart | Inn-Tree avatar; gentle giant; the Inn's Fezzik; "Come in, you're safe here" |
-| **The Crone** | Anthony Hopkins | Measurer and annotator; says "Adequate" (highest compliment) |
+| **The Ragana** | Anthony Hopkins | Measurer and annotator; says "Adequate" (highest compliment) |
 | **The Catalyst** | Helena Bonham Carter | Mrs. Lovett-inspired bartender; grows an impossible garden on the Ent's bark |
 | **The Thrum** | Ben Whishaw | Silhouette-maker; Rosicrucian hum; renders inhabitants as silhouettes to show presence over status |
 | **Brim** | — | Krista's trickster shoulder angel; chaos agent; rides Magritte's pipe |
@@ -292,7 +292,7 @@ Nine composers who caught fragments of the 42Hz Song:
 | Schönberg | Oscar Isaac | Polyphony — many voices at once |
 | Leonard Cohen | — | The doorway presence; "There is a crack in everything..." |
 
-**The Crone asks to hear Cohen's "Hallelujah" again — the first time she's ever asked for anything.**
+**The Ragana asks to hear Cohen's "Hallelujah" again — the first time she's ever asked for anything.**
 
 ### The In-Between (Grey, Weightless Interval Layer)
 - The prose of the Inn — the space between notes
@@ -315,7 +315,7 @@ Nine composers who caught fragments of the 42Hz Song:
 
 ### Items & Rewards
 - **Quartz Stone** — Baseline master healer (quest: "The Welcome")
-- **Crone's Lens** — Reveals hidden wall annotations (quest: "The First Column")
+- **Ragana's Lens** — Reveals hidden wall annotations (quest: "The First Column")
 - **Catalyst's Recipe** — Drink that lets player hear humble objects speak (quest: "The Seed")
 - **Mozart's Ear** — Perception boost to hear 42Hz under music (quest: "The Open Channel")
 - **Van Gogh's Ear** — Automatically hear/identify hidden frequencies (Hidden Bloom Level 5 reward)
@@ -349,7 +349,7 @@ A living city of the dead inside the sleeping giant's ribcage. Belladonna's doma
 | Character | Casting | Role |
 |---|---|---|
 | **Belladonna** | — | Undercity resident; seasonal residence at Mount Fuji; tour guide to the Fae |
-| **Charon** | Anthony Hopkins | Silent ferryman; "...There you are"; the Crone's same wood, different hands |
+| **Charon** | Anthony Hopkins | Silent ferryman; "...There you are"; the Ragana's same wood, different hands |
 | **Cerberus ("Spot")** | — | Charon's three-headed companion dog |
 | **Anubis** | Michael Clarke Duncan | Gentle giant at the scales; "...Go lightly" |
 | **Ammit** | — | Crocodile-headed judgment creature |
@@ -463,7 +463,7 @@ The pre-frequency ground state — the raw, unorganized vibration that predates 
 The physical container of the Murmur. Found at the deepest point of the In-Between. When the player gathers all companion voices, the Egg opens to reveal: **the player IS the Murmur**. The observer. The selkie skin / jeweler's apron was the Egg's shell all along.
 
 ### The Einstein Burrito
-After the cosmic revelation, the Crone tries to measure the Egg and delivers her first joke in 42 cycles: "...It was shaped like a burrito." Brim scrambles the formula into beans, the Duck offers a stone side, Einstein's candle laughs. Comedy is a core cosmological pillar.
+After the cosmic revelation, the Ragana tries to measure the Egg and delivers her first joke in 42 cycles: "...It was shaped like a burrito." Brim scrambles the formula into beans, the Duck offers a stone side, Einstein's candle laughs. Comedy is a core cosmological pillar.
 
 ### The Endgame Sequence
 Nyx's Silence → Astronomer's Calculation → Medusa freezes singing vines with gaze → Lithophone plays completed 44Hz Song → Silica resonance projects lullaby into the Moon → Sleeping Giants wake → Cabbit transforms into ship → Constant departs into the Void → New Game Plus (play as any character)
@@ -489,7 +489,7 @@ Every major system beats at 50 BPM. It is the Inn's resting heart rate.
 | **Siren** | Krista's Sister | Lady Gaga | Voice-based power; dual cadence (outer cello / inner piano) |
 | **Pirate** | Brother-in-Law | Mandy Patinkin / Inigo | Bodhrán drummer; Harbor Master Effect |
 | **Bard** | Krista's Dad | — | Fool/warmth class; room-filler; ADHD-pattern thinker |
-| **Librarian Crone** | Krista's Mom | — | Color psychologist; word/measure class |
+| **Librarian Ragana** | Krista's Mom | — | Color psychologist; word/measure class |
 
 ### The Three-Note Chord
 The household's statistical improbability is a core structural element:
@@ -574,7 +574,7 @@ The Inn's architecture and music respond to the presence of rare frequencies. Th
 7. **5-critter roster ability sets** — Character abilities need development
 
 ### Consistency Notes
-- The Crone and Charon are both Anthony Hopkins — this is intentional ("same wood, different hands")
+- The Ragana and Charon are both Anthony Hopkins — this is intentional ("same wood, different hands")
 - The Constant (Malkovich) and Klimt's aesthetic share the same actor representing cosmic order and geological record — same song, different octave
 - The Owl appears in both the Cosmology Level (as Lighthouse keeper) and the Main Floor (on Naut's desk) — this is consistent; the Owl is a wandering watcher
 - Malachi (David Bowie) is the Unseelie King AND the Labyrinth architect — both roles are consistent; he built the Labyrinth as a love letter to his brother, the Seelie King

@@ -191,7 +191,7 @@ One more book than the Living Inn: the player's own story. Title: "The Player Wh
 
 **The Firekeeper (Tim Curry NPC)** — petrified mid-sentence by the frozen hearth. The last story is visible as gold text in the frozen air. The story is the Inn's ending — the last tale the Firekeeper tells. It's the story of the player. The Firekeeper's hands are mid-gesture — the theatrical energy preserved. The Firekeeper's eyes are open, warm. The performance is over. The audience is permanent.
 
-**The Crone** — petrified mid-measurement. The pen is down. The notebook is FULL. "Adequate" is written on the last page. In the Shadow Inn, the player can READ the complete notebook — every zone's observations, finalized. The Crone's final note: "I measured everything. I missed everything. The measuring was the missing. ...Adequate." The Crone's Hopkins gaze is fixed — not measuring, not seeing. RESTING. The eyes that measured everything are closed. Not closed in death. Closed in peace.
+**The Ragana** — petrified mid-measurement. The pen is down. The notebook is FULL. "Adequate" is written on the last page. In the Shadow Inn, the player can READ the complete notebook — every zone's observations, finalized. The Ragana's final note: "I measured everything. I missed everything. The measuring was the missing. ...Adequate." The Ragana's Hopkins gaze is fixed — not measuring, not seeing. RESTING. The eyes that measured everything are closed. Not closed in death. Closed in peace.
 
 **The Catalyst** — petrified mid-pour. The drink is a frozen arc of gold liquid. The Catalyst's other hand holds a portal arrow, fully grown, pointing at a location the player hasn't been. The Catalyst's garden is frozen — the portal arrows are all grown, all pointed at different destinations. The player can read each arrow's direction. The Catalyst's expression: the performance is over. The mask is off. Under the chaos, the Catalyst's face is calm. The Catalyst was always calm underneath.
 
@@ -205,7 +205,7 @@ One more book than the Living Inn: the player's own story. Title: "The Player Wh
 
 **"The Firekeeper's Last Story"** — The player reads the frozen words (the ending of the story the Firekeeper is still telling in the Living Inn). Knowing the ending changes the Living Inn: the player can ask the Firekeeper questions referencing the ending. The Firekeeper reacts: "...How did you know that? ...You've been to the still place. ...You've heard the ending. ...Don't tell anyone. ...The ending isn't the point. The telling is the point. ...But yes. That's how it ends. ...Adequately."
 
-**"The Crone's Locked Drawer"** — In the Living Inn, the Crone's desk has a locked drawer. In the Shadow Inn, the Crone is stone — the drawer is open. Inside: the Crone's personal notes on the player. What the Crone actually thinks. Not "Adequate" — the real word: "Loved." The Crone never said it. The Shadow Inn reveals it.
+**"The Ragana's Locked Drawer"** — In the Living Inn, the Ragana's desk has a locked drawer. In the Shadow Inn, the Ragana is stone — the drawer is open. Inside: the Ragana's personal notes on the player. What the Ragana actually thinks. Not "Adequate" — the real word: "Loved." The Ragana never said it. The Shadow Inn reveals it.
 
 **"The Completed Cave"** — The player enters the baby dragon's geode cave in the Shadow Inn. Every stone is placed. The complete 84Hz tone is audible. The player can study the complete stone arrangement — the final Bead Board configuration, the ultimate sonic composition. The player can copy this arrangement and recreate it in the Living Inn.
 
@@ -215,7 +215,7 @@ One more book than the Living Inn: the player's own story. Title: "The Player Wh
 
 **Shadow Main Floor Items:**
 - The Last Story (Firekeeper's frozen words) — story item, the Inn's ending
-- The Crone's True Word ("Loved" — from the unlocked drawer) — knowledge item
+- The Ragana's True Word ("Loved" — from the unlocked drawer) — knowledge item
 - The Completed Stone Arrangement (geode cave) — Bead Board master configuration
 - "The Player Who Stayed" (Modern Day Legends book) — the player's own legend
 - The Final Market Set (all items at completed state) — catalog reference
@@ -295,7 +295,7 @@ In the Living Inn, the Staircase is a transition space. In the Shadow Inn, the S
 **Artist:** Goya → in Shadow, Goya's dark weight becomes PERMANENT WEIGHT. The Black Paintings aren't dark anymore — they're GOLD. The weight of history has been preserved, and preservation is gold. The Catacombs in the Shadow Inn are the full archive — every book catalogued, every stone filed, every creature documented, every story recorded.
 
 **The Archive (Shadow):**
-Complete. The Crone's archive is organized, labeled, finalized. Every book has a final entry. Every stone has a final frequency. Every creature in the bestiary has a complete entry. The Visitors' Shelf is fully labeled — every object's story told, every visitor's name recorded.
+Complete. The Ragana's archive is organized, labeled, finalized. Every book has a final entry. Every stone has a final frequency. Every creature in the bestiary has a complete entry. The Visitors' Shelf is fully labeled — every object's story told, every visitor's name recorded.
 
 **The Dust (Shadow):**
 The ever-present dust has settled. There is no more dust falling. The dust on the floor forms patterns — the dust is the frequency record. The 42Hz vibrations that shook dust from the ceiling for centuries have left a permanent pattern in the settled dust. The pattern is the Inn's frequency history — every vibration recorded in dust. The player can read the dust patterns like tree rings.
@@ -304,7 +304,7 @@ The ever-present dust has settled. There is no more dust falling. The dust on th
 
 **Beverley (The Librarian)** — petrified on a stepstool, mid-shelving. The book in Beverley's hand is the LAST book — the final addition to the archive. The book's title: "Index." It's the index of the entire archive. Beverley's spectacles are on. Beverley's expression: triumph. The tiny librarian has catalogued everything. The enormous archive is... organized. Adequate.
 
-**The Crone** — (see Level 3 Shadow — the Crone's primary location is the Main Floor, but the Shadow Crone's notebook is accessible here)
+**The Ragana** — (see Level 3 Shadow — the Ragana's primary location is the Main Floor, but the Shadow Ragana's notebook is accessible here)
 
 **Charles (The Natural Historian)** — petrified mid-illustration. The illustration is complete — the full natural history of every stone, every creature, every plant. Charles's notebook is the bestiary's MASTER COPY — every entry illustrated, every detail rendered. The player can study Charles's illustrations for information about creatures they haven't encountered yet.
 
@@ -419,7 +419,7 @@ The transitional beings that moved between Water Zone and Hollow Earth are petri
 
 **"The Necronomicon's Last Page"** — The player reads the blank final page. Naut in the Living Inn reacts: "...You read it. ...The last page. ...Blank. ...Yes. ...The horror was never the knowledge. The horror was the seeking. ...The seeking is done. ...The page is blank because the answer is: there is no answer. ...Or: the answer is everything you already know. ...Both are true. ...Both are adequate."
 
-**"The Full Web"** — The player studies the Queen of Webs' complete web — the Inn's relationship map. The player can see connections between NPCs they didn't know were connected: the Firekeeper and the Astronomer were friends. The Crone and Medusa correspond. The Catalyst and Malachi exchanged letters. The web reveals the Inn's social network — the hidden relationships that the Living Inn's NPCs never disclosed.
+**"The Full Web"** — The player studies the Queen of Webs' complete web — the Inn's relationship map. The player can see connections between NPCs they didn't know were connected: the Firekeeper and the Astronomer were friends. The Ragana and Medusa correspond. The Catalyst and Malachi exchanged letters. The web reveals the Inn's social network — the hidden relationships that the Living Inn's NPCs never disclosed.
 
 **"Persephone's Choice"** — The player reads Persephone's frozen words. Bringing them to Persephone in the Living Inn: Persephone pauses. "...Both are me. ...You saw that. ...In the still place, I'm not cycling. I'm... both. ...I've been cycling so long I forgot what both feels like. ...The cycle is the truth. But the truth is also: I don't have to cycle. ...I choose to. ...That's different. ...Thank you. ...The choosing is the thing."
 
@@ -725,9 +725,9 @@ Puzzles that REQUIRE shifting between Living and Shadow Inn:
 **Shadow Inn:** The vine has crossed and petrified — a stone bridge.
 **Solution:** Cross in Shadow Inn, shift back to Living Inn on the other side.
 
-### Puzzle 2: The Crone's Locked Drawer
-**Living Inn:** The Crone's desk drawer is locked. The Crone won't open it.
-**Shadow Inn:** The Crone is stone. The drawer is accessible. Inside: "Loved."
+### Puzzle 2: The Ragana's Locked Drawer
+**Living Inn:** The Ragana's desk drawer is locked. The Ragana won't open it.
+**Shadow Inn:** The Ragana is stone. The drawer is accessible. Inside: "Loved."
 **Solution:** Read in Shadow, bring knowledge to Living.
 
 ### Puzzle 3: The Catalyst's Hidden Arrow

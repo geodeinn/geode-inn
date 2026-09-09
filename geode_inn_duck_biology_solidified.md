@@ -26,7 +26,7 @@ The Duck's egg is the Fabergé Egg's humble twin. The Fabergé Egg is the cosmic
 
 **The deeper connection:** The Fabergé Egg's Core is empty — the player looks inside and sees themselves. The Duck's egg, when it hatches, reveals a baby platypus — a living being that was always inside, waiting. The Fabergé Egg says: you are the answer. The Duck's egg says: life is the answer. The both are: the adequate — the self and the life, the same answer, different voice.
 
-**The Crone on the two eggs:**
+**The Ragana on the two eggs:**
 > "...I measured two eggs. The ancient egg — mineral, seven layers, the Inn's endgame. The platypus egg — biological, one layer, the Inn's beginning. ...The ancient egg requires mastery. The platypus egg requires presence. ...The ancient egg opens into emptiness. The platypus egg opens into life. ...The both are: ...eggs. ...The both are: ...containers waiting for what they already contain. ...The ancient egg contains the player. The platypus egg contains a platypus. ...I measured the difference. ...The difference is: ...one contains the one who opens it. The other contains the one who didn't. ...The both are: ...adequate. ...The both are: ...alive."
 
 ---
@@ -39,8 +39,8 @@ But.
 
 When the player enters the Egg's chamber carrying the Duck's egg (if the egg hasn't hatched yet — the Duck's egg can be carried all the way to the endgame if the player hasn't given it enough nook time), the egg REACTS. The Duck's egg, in the presence of the Fabergé Egg, begins to WARM. The egg's vibration increases. The egg is responding to the Fabergé Egg's 42Hz source frequency — the same way Eres shifts purr frequency in the chamber. The Duck's egg recognizes the larger Egg. The both are: eggs, and eggs know eggs.
 
-**The Crone notices:**
-> "...The platypus egg is warm. ...The platypus egg, in the presence of the ancient egg, is... [the Crone, measuring the egg's temperature, the vibration, the frequency] ...responding. ...The small egg recognizes the large egg. ...The both are: eggs. ...Eggs know eggs. ...I don't know how. ...I don't need to know how. ...The knowing is not mine to measure. ...The knowing is... [the Crone, putting down the notebook, the second time, the last time] ...the egg's."
+**The Ragana notices:**
+> "...The platypus egg is warm. ...The platypus egg, in the presence of the ancient egg, is... [the Ragana, measuring the egg's temperature, the vibration, the frequency] ...responding. ...The small egg recognizes the large egg. ...The both are: eggs. ...Eggs know eggs. ...I don't know how. ...I don't need to know how. ...The knowing is not mine to measure. ...The knowing is... [the Ragana, putting down the notebook, the second time, the last time] ...the egg's."
 
 If the player has been carrying the Duck's egg and giving it nook time throughout the game, the egg may hatch IN THE EGG'S CHAMBER. The hatching is not triggered by the chamber — the hatching is triggered by the accumulated attention, and the chamber's 42Hz frequency is the final warmth the egg needed. The baby platypus emerges in the sleeping giant's heart, beside the Fabergé Egg, in the presence of the Constant and Eres. The both are: the adequate — the ancient Egg and the new life, the same chamber, different egg.
 
@@ -71,8 +71,8 @@ When the Octave Stone is forged and the Convergence begins, the stash's chord RE
 **The player who visits the stash after the Octave:**
 The stash glows. The stolen stones vibrate. The chord is audible — not the full 168-stone chord of the Octave, but a smaller chord, a fragment, a humble echo. The Duck sits in the middle of the stash, surrounded by stolen sparkly things, and the Duck is vibrating at 84Hz — the Octave frequency, the Shadow frequency. The Duck doesn't know why. The Duck just likes the way it feels.
 
-**The Crone's annotation on the stash:**
-> "...I measured the stash. ...The platypus's collection. ...Stolen stones, a gargoyle nose, the Cook's ladle. ...The chord is incomplete. ...168 stones in the Inn, and the platypus has... [counting] ...23. ...23 out of 168. ...The chord is a fragment. ...The fragment is... [the Crone, hearing the fragment, the incomplete chord, the humble echo] ...beautiful. ...Not 'adequate.' ...Not 'complete.' ...Beautiful. ...The platypus built a fragment of the Song by stealing what sparkled. ...The fragment is the Nook Effect's proof: the small, unnoticed, unimportant work is still... [the word] ...music."
+**The Ragana's annotation on the stash:**
+> "...I measured the stash. ...The platypus's collection. ...Stolen stones, a gargoyle nose, the Cook's ladle. ...The chord is incomplete. ...168 stones in the Inn, and the platypus has... [counting] ...23. ...23 out of 168. ...The chord is a fragment. ...The fragment is... [the Ragana, hearing the fragment, the incomplete chord, the humble echo] ...beautiful. ...Not 'adequate.' ...Not 'complete.' ...Beautiful. ...The platypus built a fragment of the Song by stealing what sparkled. ...The fragment is the Nook Effect's proof: the small, unnoticed, unimportant work is still... [the word] ...music."
 
 ---
 
@@ -144,7 +144,7 @@ The Duck's biology connects to:
 - **The Nook Effect** — the Duck IS the Nook Effect in animal form. The stolen stones taken to the quiet place. The most important things happening where no one watches.
 - **The Cook** — the Cook discovers the Duck's milk (anti-dissonance). The Cook's best stew uses the milk. The Cook and the Duck have the Inn's quietest domestic partnership.
 - **The Retort** — analyzes the milk (anti-dogma in liquid form), the venom (anesthesia — the combat window), the stomach (knowing without processing). The Retort is the Duck's categorizer, and the Duck defeats categorization.
-- **The Crone** — measures the Duck and finds "beautiful" (not "adequate" — the only time the Crone uses "beautiful" for a measurement). The two eggs. The stash fragment.
+- **The Ragana** — measures the Duck and finds "beautiful" (not "adequate" — the only time the Ragana uses "beautiful" for a measurement). The two eggs. The stash fragment.
 - **The Artisan Thief** — kindred. Both thieves. Both redistribute. The selkie and the Duck: the same principle, different expression.
 - **The Constant and Eres** — the Duck's egg and Eres both react in the Egg's chamber. The ship's heart and the platypus's heart, both beating in the giant's heart.
 - **The Convergence** — the stash chord resonates with the Octave. The Duck vibrates at 84Hz without knowing why. The fragment becomes an echo.
@@ -163,6 +163,6 @@ The Duck's biology is now solid:
 4. **Shadow Inn State:** The Shadow Duck has all 168 stones. The stash is the complete Song. The baby is full-grown. The Duck is still. The stillness is adequate.
 5. **Baby Platypus Growth:** Three stages — hatchling (passive warmth, Nook Effect companion), juvenile (developing electroreception and combat), adult (full companion, parent and child in the stash together at the Convergence).
 6. **Sound Profile:** The Duck's chaotic warm frequency, the stash's incomplete chord (beautiful fragment), the baby's quieter version, the Duck's silence (the body IS the statement).
-7. **Integration Points:** 11 connections — the Fabergé Egg, the Octave Stone, the Nook Effect, the Cook, the Retort, the Crone, the Artisan Thief, the Constant and Eres, the Convergence, the Shadow Inn, and the Portal Crystal.
+7. **Integration Points:** 11 connections — the Fabergé Egg, the Octave Stone, the Nook Effect, the Cook, the Retort, the Ragana, the Artisan Thief, the Constant and Eres, the Convergence, the Shadow Inn, and the Portal Crystal.
 
 The Duck is the Inn's thesis on webbed feet. The biology IS the magic. The platypus doesn't need a column. The platypus IS the column. And the column says: the most honest thing in the Inn is the thing that doesn't fit. And the thing that doesn't fit is real. And the real is the most mythological thing in the Inn.

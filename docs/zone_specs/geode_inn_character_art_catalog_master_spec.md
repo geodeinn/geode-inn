@@ -63,7 +63,7 @@ The canonical reference for every character's visual design in the Geode Inn —
 - The Host (Patrick Stewart energy) — The anti-FOMO anchor. Warm. "Take your time"
 - The Bard — Shares everything at stage 1. No filter. Musical instrument
 - The Pirate — 50 BPM bodhrán. The heartbeat anchor. Long coat. Dock at midnight
-- The Crone — Oversized glasses. Notebook. Precise, not expressive
+- The Ragana — Oversized glasses. Notebook. Precise, not expressive
 - Erik — Norse vendor. Firelit. Scar on forearm. Mead barrel. Warm
 - The Cartographer — Parchment, brass dividers, pendulum levels. Maps Escher corridors
 - The Clockmaker — Undercity. Crucibles. Silicon wafers. Technical
@@ -114,7 +114,7 @@ Categories: Lake monsters (Nessie, Champ, Ogopogo), Sea serpents (Kraken, Jormun
 - [x] 3 Full Presence characters from original catalog (Seelie, Unseelie, Morrigan)
 - [x] 10 Chibi characters from original catalog (Goblin through Medusa)
 - [x] Additional Full Presence characters designed (Nyx, Constant, Astronomer, Guest, Weaver, Owl, Queen of Roots)
-- [x] Additional Chibi characters designed (Wanderer, Allfather, Host, Bard, Pirate, Crone, Erik, Cartographer, Clockmaker, Lark, Briar)
+- [x] Additional Chibi characters designed (Wanderer, Allfather, Host, Bard, Pirate, Ragana, Erik, Cartographer, Clockmaker, Lark, Briar)
 - [x] 32 water monsters with full tri-mode assets
 - [x] 399 total character/critter/cryptid entries cataloged
 - [ ] Remaining character portraits to generate (130+ needing generation per the master assignment document)

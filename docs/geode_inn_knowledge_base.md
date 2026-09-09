@@ -255,7 +255,7 @@ The entire Inn IS a transducer:
 | Hel | Norse/Catacombs | Ruler of Helheim | Half-warm, half-ice | 84Hz |
 | Charon | Catacombs | Ferryman of the dead | Low rasp, unhurried; Anthony Hopkins eyes | 84Hz |
 | The Guest (Death) | Cosmology/Final Room | Cosmic entity by the fire | Quiet, comforting, absolute peace | 528Hz |
-| The Crone | Main Floor/Undercity | Ancient seer | "Sit." Straight-on, unblinking | 42Hz/84Hz |
+| The Ragana | Main Floor/Undercity | Ancient seer | "Sit." Straight-on, unblinking | 42Hz/84Hz |
 | Nyx | Cosmology | Primordial deity of night | Velvety, cosmic whisper | 42Hz |
 | Bastet | Egypt | Sistrum puzzle master | Feline purr, sharp, graceful | 42Hz |
 | Kali | India | Deity of transformation | Thunderous, fierce | 84Hz |
@@ -418,7 +418,7 @@ Mothman, Bigfoot, Chupacabra, Jersey Devil, Yeti, Mongolian Death Worm, Flatwood
 1. **Artisan Thief** — High DEX, Low CHA (Krista's self-insert)
 2. **Bard Blowhard** — High temporary CHA, Low situational INT
 3. **Tinkering Weeaboo** — High DEX/INT, Low CHA (situational alpha)
-4. **Librarian Crone** — High INT, Low empathy, glass-cannon intellect
+4. **Librarian Ragana** — High INT, Low empathy, glass-cannon intellect
 5. **Chameleon Druid** — High versatility, stance-switching
 
 ### Movement System (207 Animated Elements)
@@ -544,7 +544,7 @@ All entities in Base44 app (ID: 6a60f218b0c6605c92fa35c4):
 
 ### Part Structure
 - **Part 1: The Murmur** (Prologue-7) — Creation myth, Inn arrival, Host, Common Room, first stones
-- **Part 2: The Main Floor** (8-16) — Crone, Catalyst, Brim, Reader, Archive, Music Room, Marketplace, Staircase
+- **Part 2: The Main Floor** (8-16) — Ragana, Catalyst, Brim, Reader, Archive, Music Room, Marketplace, Staircase
 - **Part 3: The Descent** (17-24) — Catacombs, Egypt, Greece, Camelot, Norse, Undercity, Fae Kingdom
 - **Part 4: The Ascent** (25-33) — Staircase, Alchemists, Aristotle, Spiral Gallery, Canopy City, Clockwork Skies, Cosmology, Whisper Layer, Einstein
 - **Part 5: The Egg** (34-40) — Deepest chamber, Grand Collision, Three Choices (STAY/LEAVE/HIDE), Final Room, Epilogue
@@ -613,7 +613,7 @@ All game text, NPC dialogue, and zone descriptions must adhere to the **six-writ
 | The Monad Arc | The Mona/Egg creation myth told through 38 artistic styles (12,168 words) |
 | Living Book | Interactive literature module; playable books in the Archive |
 | Tri-mode | The three frequency states: Living (42Hz), Shadow (84Hz), In-Between |
-| Adequate | The Crone's word; means "enough" — you are enough, the carrying is enough |
+| Adequate | The Ragana's word; means "enough" — you are enough, the carrying is enough |
 | The Hollow Men | T.S. Eliot's poem made playable; deepest layer of the Undercity/Shadow Inn |
 | Gorgon's Garden | The 84Hz "stay/petrify" inverse of 42Hz "grow/Inn" |
 | Nigredo → Rubedo | Alchemical progression stages for charm bracelet chains |

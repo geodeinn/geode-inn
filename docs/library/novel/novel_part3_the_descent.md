@@ -73,7 +73,7 @@ The traveler placed the seven stones on the scale. Each stone rang its note. The
 
 The tuning fork measured. Anubis listened. The scale balanced.
 
-"Adequate," Anubis said — and the word was the Crone's word, and the Crone's word in Egypt was the same as the Crone's word on the main floor, and the traveler understood, for the first time, that the Inn's characters were not individuals but facets, the same way a geode's crystals were not individual stones but facets of the same mineral, the same growth, the same Song.
+"Adequate," Anubis said — and the word was the Ragana's word, and the Ragana's word in Egypt was the same as the Ragana's word on the main floor, and the traveler understood, for the first time, that the Inn's characters were not individuals but facets, the same way a geode's crystals were not individual stones but facets of the same mineral, the same growth, the same Song.
 
 The final gate opened. The Egyptian zone gave the traveler a stone — lapis lazuli, deep blue, the stone of the pharaohs, the stone of the sky carved into the earth. The lapis hummed at a frequency the traveler hadn't heard before: 64Hz, the Listener's frequency, the frequency of the deep places that hear everything.
 
@@ -99,7 +99,7 @@ The Gardener looked up. The eyes were kind in the specific way that only someone
 
 "Like the Astronomer," the traveler said.
 
-The Gardener smiled. "Exactly like the Astronomer. The Astronomer is Greece's child — the inheritor of the philosophical tradition, the one who calculates the Song because the Greeks taught us that the world can be understood, that the world is logical, that the beauty of a theorem is the same as the beauty of an olive grove. The Astronomer got that from Greece. The Crone got measurement from Greece. Aristotle, who sits on the top step of the staircase — Aristotle got categories from Greece. Greece is the zone where the Inn learned to think."
+The Gardener smiled. "Exactly like the Astronomer. The Astronomer is Greece's child — the inheritor of the philosophical tradition, the one who calculates the Song because the Greeks taught us that the world can be understood, that the world is logical, that the beauty of a theorem is the same as the beauty of an olive grove. The Astronomer got that from Greece. The Ragana got measurement from Greece. Aristotle, who sits on the top step of the staircase — Aristotle got categories from Greece. Greece is the zone where the Inn learned to think."
 
 The olive grove was the zone's heart. The trees were old — not as old as the Inn-Tree, but old in the way that olive trees are old, which is ancient and twisted and beautiful in the specific way that things are beautiful when they have been alive for a very long time and have survived drought and storm and war and are still producing fruit. The olives were the zone's gift: each olive was a small, dense, frequency-rich stone that could be placed in the Inn's walls, and the olive's note was the note of patience, of slow growth, of things that take time and are worth the time.
 
@@ -185,7 +185,7 @@ Below the civilizations, below the bones, below the oldest stone — the Inn-Tre
 
 Charon was there.
 
-Charon was the Crone's twin. The traveler saw it immediately — not the face (Charon had no face, or rather Charon's face was a hood, a shadow, a space where a face would be if faces were needed, and they were not) — but the energy. The same precision, the same economy, the same sense of someone who has been doing one thing for so long that the doing is indistinguishable from being. The Crone measured; Charon ferried. The Crone spoke; Charon was silent. The Crone was the mind; Charon was the silence. Both served. Both were: adequate.
+Charon was the Ragana's twin. The traveler saw it immediately — not the face (Charon had no face, or rather Charon's face was a hood, a shadow, a space where a face would be if faces were needed, and they were not) — but the energy. The same precision, the same economy, the same sense of someone who has been doing one thing for so long that the doing is indistinguishable from being. The Ragana measured; Charon ferried. The Ragana spoke; Charon was silent. The Ragana was the mind; Charon was the silence. Both served. Both were: adequate.
 
 Charon's boat was a root — a hollow root, split and shaped, floating on a river that was not water but shadow, a dark current that flowed through the deepest part of the Inn-Tree's root system. The river was the boundary between the living zones and the dead zones, and the boundary was Charon's domain, and Charon's domain was absolute.
 

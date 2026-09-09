@@ -383,7 +383,7 @@ Each NPC has three types of abilities:
 ### NPC Voice
 During the game, NPCs speak in chat using their established voice profiles:
 - Beverley: Clipped, dismissive, Australian accent. "I fail to see how that was necessary."
-- The Crone: Cryptic, riddle-like. "What you seek is what you fear."
+- The Ragana: Cryptic, riddle-like. "What you seek is what you fear."
 - Naut: Hushed, careful. "I found something in the restricted section. You didn't see me."
 - Lozen: Direct, protective. "The Inn holds. I hold the Inn."
 - Joe: Warm, encouraging. "Oh, that was lovely! Try again!"
@@ -546,7 +546,7 @@ Each NPC in the Geode Inn can be an AI opponent with their own deck and playstyl
 | NPC | Deck Type | Playstyle | Difficulty |
 |-----|-----------|-----------|------------|
 | Beverley | Control | Silences player cards, reshuffles discard, wins by attrition | Medium |
-| The Crone | Mirror | Copies player's moves, adapts to their strategy | Hard |
+| The Ragana | Mirror | Copies player's moves, adapts to their strategy | Hard |
 | Naut | Combo | Self-damages to draw cards, wins with explosive combos | Medium |
 | Lozen | Defense | Heavy STAY cards, armored walls, wins by surviving | Medium |
 | Joe | Aggro/Swarm | Low-cost GROW cards, floods the board, wins with numbers | Easy |
@@ -776,7 +776,7 @@ Quest Charms are NOT in card packs. They are earned by:
 ### Emotes
 - Each NPC has a set of emotes that can be used during games
 - Beverley: *rolls eyes*, *shushes*, *reshuffles dismissively*
-- The Crone: *winks*, *speaks in riddle*, *vanishes*
+- The Ragana: *winks*, *speaks in riddle*, *vanishes*
 - Lozen: *stands ground*, *guards*, *nods respectfully*
 - Joe: *waves enthusiastically*, *shows off creation*, *offers tea*
 - No emote spam — 3-second cooldown between emotes to prevent harassment

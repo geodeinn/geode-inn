@@ -60,9 +60,9 @@ Plato's Cave (already established on the alchemical staircase — the interactiv
 
 ---
 
-## The Crone's Annotation
+## The Ragana's Annotation
 
-"...The shadows on the cave walls are imprints. ...Fossil data. ...The mineral stores the shape of what passed through. ...The Song makes the stored shape visible. ...This is not art. ...This is geology. ...[the Crone pause, the one that means she's about to say something she considers obvious but that no one else has said] ...The difference between art and geology is that geology doesn't know it's art. ...Bosch knew. ...The cave walls don't. ...They're doing the same thing. ...One of them is aware. ...I find the unaware one more honest. ...Adequate."
+"...The shadows on the cave walls are imprints. ...Fossil data. ...The mineral stores the shape of what passed through. ...The Song makes the stored shape visible. ...This is not art. ...This is geology. ...[the Ragana pause, the one that means she's about to say something she considers obvious but that no one else has said] ...The difference between art and geology is that geology doesn't know it's art. ...Bosch knew. ...The cave walls don't. ...They're doing the same thing. ...One of them is aware. ...I find the unaware one more honest. ...Adequate."
 
 ---
 

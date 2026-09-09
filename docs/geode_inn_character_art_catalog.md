@@ -1446,7 +1446,7 @@ All 32 creatures are chibi-style playable characters for the "Monster of the Dee
 **Role:** Vaulknut, the swamp's keeper, 42Hz Murmur made into a body
 **Linework:** Heavy cel-shaded (tradesman) with soft flowing (lore) at edges
 
-### 63. The Crone — Full Presence (In-Game)
+### 63. The Ragana — Full Presence (In-Game)
 **Image:** https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/4afafe1b5_generated_image.png
 **Location:** Archive — desk
 **Role:** The Inn's intellectual authority, Hopkins intellect + MacLaine personality, the standard

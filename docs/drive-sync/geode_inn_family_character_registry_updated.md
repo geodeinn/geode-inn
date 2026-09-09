@@ -22,7 +22,7 @@ Key Abilities & Gameplay Mechanics
 * Taunt / Aggro Drawing: Uses his booming voice and boisterous bluster to enrage enemies, drawing threat away from fragile party members. It is a protective, loyalty-driven tanking mechanic masquerading as noise.
 * Coaching Instinct: Passively grants confidence buffs to struggling players during puzzles or athletic trials, rewarding persistence over speed.
 Relationships
-* The Librarian Crone (Inta — Wife): The core romantic dynamic of the Inn. They eloped 60+ years ago and have argued passionately ever since. They bicker constantly over details versus feelings—he is always wrong about the facts and right about the spirit, while she is always right about the facts and concedes the spirit. He calls her by her real name, "Inta," only when completely serious; when he does, the room stops.
+* The Librarian Ragana (Inta — Wife): The core romantic dynamic of the Inn. They eloped 60+ years ago and have argued passionately ever since. They bicker constantly over details versus feelings—he is always wrong about the facts and right about the spirit, while she is always right about the facts and concedes the spirit. He calls her by her real name, "Inta," only when completely serious; when he does, the room stops.
 * The Artisan Thief (Vaulknut — Daughter): Father and daughter. He is loud, outgoing, and sells things; she is quiet, internal, and makes things. He loves her across the gap between making and selling.
 * The Tinkering Weeaboo (Grandchild): Doting grandfather who uses relentless, warm humor as a protocol to coax the child back during Level 4 Ryuk meltdowns.
 * The Chameleon Druid (Charles — Son-in-Law): Calls him "Charlie" with fond warmth. He loves telling grand, wildly inaccurate stories about Charles's shapeshifting feats.
@@ -38,26 +38,26 @@ Modeled on real-world Renaissance man Bart Barton, who coached Olympians and fou
 ________________
 
 
-2. The Librarian Crone — Krista's Mom
-* Character Name & Class: The Librarian Crone / The Crone (Librarian)
+2. The Librarian Ragana — Krista's Mom
+* Character Name & Class: The Librarian Ragana / The Ragana (Librarian)
 * Real-World Family Member: Krista's Mother — Inta Barton
 * Casting & Actor Inspirations: Anthony Hopkins (specifically Hannibal Lecter's surgical intellect, unhurried precision, and deep appreciation for beauty without padding) combined with Shirley MacLaine as Weeza (Steel Magnolias: no-filter, sharp-tongued, complains about everything, but moves mountains for loved ones).
 Core Personality
-The Librarian Crone is the Inn's uncompromising intellectual and aesthetic standard. Where the Host offers unconditional safety and the Catalyst offers warm listening, the Crone offers surgical accuracy. She looks at your work, tells you exactly why it is flawed, and shows you how to correct it. Speaking in a cultured, unhurried Hopkins cadence, she chooses every word like a scalpel. She possesses no translation layer or soft padding between thought and speech; if a concept is wrong, she states that it is wrong without hesitation.
+The Librarian Ragana is the Inn's uncompromising intellectual and aesthetic standard. Where the Host offers unconditional safety and the Catalyst offers warm listening, the Ragana offers surgical accuracy. She looks at your work, tells you exactly why it is flawed, and shows you how to correct it. Speaking in a cultured, unhurried Hopkins cadence, she chooses every word like a scalpel. She possesses no translation layer or soft padding between thought and speech; if a concept is wrong, she states that it is wrong without hesitation.
 
 
 Her personality carries the sharp Weeza energy: she has been in a pedagogical "bad mood" for decades because people refuse to observe carefully or hold themselves to high standards. She attends every council meeting, festival, and lecture in the Inn and complains about the lighting, the scheduling, and the footnotes. Yet, she is always the last to leave. Her sharp tongue hides an absolute, mountain-moving devotion to her family and students—though she would rather eat broken glass than admit it.
 
 
-As a former art teacher who understands color psychology at a molecular level, the Crone sees the world in full spectrum. To her, beauty is not a matter of subjective opinion but a rigorous discipline. Her care manifests as relentless correction: she only takes the time to correct people she believes are worth improving. Being criticized by the Crone is a genuine compliment; being ignored by her is a final verdict.
+As a former art teacher who understands color psychology at a molecular level, the Ragana sees the world in full spectrum. To her, beauty is not a matter of subjective opinion but a rigorous discipline. Her care manifests as relentless correction: she only takes the time to correct people she believes are worth improving. Being criticized by the Ragana is a genuine compliment; being ignored by her is a final verdict.
 Key Abilities & Gameplay Mechanics
 * Color Psychology & Environmental Regulation: Designed the Inn's ambient lighting and color palettes (deep jewel tones, warm woods, precise spectrums) to regulate player nervous systems and make the Inn neuro-accessible.
 * Surgical Research Evaluation / Red Pencil Critique: Reviews player manuscripts and scholarly finds. She strips away bad logic while validating genuine core discoveries, granting the rare and coveted "Better" or "Good" standard buff.
 * Textual Method & Archive Authority: Holds the written records and citations of the Inn, providing the structural "how" that anchors the Keeper's oral memory ("what") and the Bard's grand stories ("why").
 Relationships
 * The Bard Blowhard (Bart — Husband): Sixty-plus years of marriage following a youthful elopement. Their constant public bickering is their form of intimacy. She corrects his dates, historical names, and grammar, but quietly admits to herself that he was the one logical calculation she got completely wrong and never regretted.
-* The Artisan Thief (Vaulknut — Daughter): Mother and daughter. She deeply respects her daughter's precision at the bench. When she once reached for the selkie's jeweler's apron, the selkie's eyes flashed cold and ancient; the Crone stepped back, recognized a sacred boundary, and never mentioned it again.
-* The Tinkering Weeaboo (Grandchild): Recognized the changeling eyes on day one. During Level 4 meltdowns, the Crone enforces a protocol of reading aloud in a steady voice while issuing her mandatory diagnosis: "Eat something" (specifically pomegranates).
+* The Artisan Thief (Vaulknut — Daughter): Mother and daughter. She deeply respects her daughter's precision at the bench. When she once reached for the selkie's jeweler's apron, the selkie's eyes flashed cold and ancient; the Ragana stepped back, recognized a sacred boundary, and never mentioned it again.
+* The Tinkering Weeaboo (Grandchild): Recognized the changeling eyes on day one. During Level 4 meltdowns, the Ragana enforces a protocol of reading aloud in a steady voice while issuing her mandatory diagnosis: "Eat something" (specifically pomegranates).
 * The Chameleon Druid (Charles — Son-in-Law): Studied and annotated his shapeshifting in her notebook. She secretly noted his declining energy reserves in small, quiet handwriting, choosing to respect his dignity by keeping the observation in her margins.
 * Council of Thinkers: Terrifies the Council. She allies with Isaac Newton in terrifyingly precise quiet conversations, forces Nikola Tesla to write down his discoveries, and reorganized Leonardo da Vinci's chaotic notebooks.
 Notable Dialogue & Voice Samples
@@ -88,7 +88,7 @@ Key Abilities & Gameplay Mechanics
 * Water Traversal & Deep Dive: Allows her to dive into the underwater catacombs, water zones, and Charon's river without paying fare, reverting seamlessly to her aquatic form in deep water.
 * Artisan Crafting & Roguish Utility: High Dexterity and Intelligence grant abilities in lockpicking, gem-cutting, enchanted artifact creation (such as the Aurora Pendant and Bluestone Key), and handling mineral-based hazards.
 Relationships
-* The Librarian Crone (Mom): A quiet, deep connection between two women who value precision. The Crone's rare word of praise, "Better," is the only external validation the Artisan Thief trusts.
+* The Librarian Ragana (Mom): A quiet, deep connection between two women who value precision. The Ragana's rare word of praise, "Better," is the only external validation the Artisan Thief trusts.
 * The Bard Blowhard (Dad): Father and daughter. He is loud, charismatic, and sells things; she is quiet, intense, and makes things. She loves him across the gap between making and selling.
 * The Tinkering Weeaboo (Child): Mother and child. As two beings who chose their physical forms, they share an unspoken bond. During Level 4 meltdowns, her mother provides a heavy, unchanging stone as a physical grounding anchor.
 * The Chameleon Druid (Charles — Husband): Husband and wife. Grounded in a deep, quiet understanding of physical creation, form-shifting, and endurance.
@@ -124,7 +124,7 @@ Key Abilities & Gameplay Mechanics
 Relationships
 * The Artisan Thief (Vaulknut — Wife): Devoted husband and wife. A deep, quiet partnership rooted in mutual support and shared weight.
 * The Tinkering Weeaboo (Child): Father and child. During Level 4 meltdowns, he uses his remaining endurance to shift shapes alongside her, showing her she is never alone in changing.
-* The Librarian Crone (Mother-in-Law): Complex respect. She studied his transformations and secretly logged his declining reserves in her notebook margins with quiet, uncharacteristic sympathy.
+* The Librarian Ragana (Mother-in-Law): Complex respect. She studied his transformations and secretly logged his declining reserves in her notebook margins with quiet, uncharacteristic sympathy.
 * The Bard Blowhard (Father-in-Law): Calls him "Charlie" and tells outrageous stories about his shifting feats. Charles responds with quiet Murphy resignation and warm acceptance.
 * The Host & The Inn-Tree: Sits silently by the fire with the Host in mutual understanding. The ancient Ent Inn-Tree holds him steady through its constant 42Hz hum.
 Notable Dialogue & Voice Samples
@@ -162,7 +162,7 @@ Key Abilities & Gameplay Mechanics
 Relationships
 * The Artisan Thief (Vaulknut — Mother): Mother and child. Bound by their shared choice of physical form. Her mother provides heavy, unchanging stones during Level 4 meltdowns.
 * The Chameleon Druid (Charles — Father): Father and child. He uses his shifting abilities to match her form during Level 4 meltdowns so she never changes alone.
-* The Librarian Crone (Grandmother): Recognized the changeling nature immediately. Enforces the "eat something / pomegranates" and steady reading protocol during meltdowns.
+* The Librarian Ragana (Grandmother): Recognized the changeling nature immediately. Enforces the "eat something / pomegranates" and steady reading protocol during meltdowns.
 * The Bard Blowhard (Grandfather): Doting grandfather who uses relentless, silly jokes to shrink the Ryuk grin back to normal size.
 * Naut: Mutual respect between two dark-dwelling, scholarly outsiders who appreciate quiet spaces.
 Notable Dialogue & Voice Samples
@@ -197,7 +197,7 @@ Relationships
 * The Pirate (Zeke — Husband): A completed love story. He survived her song because he had already faced his own dark past, and he was the first person to hear the quiet loneliness inside her voice.
 * The Artisan Thief (Vaulknut — Sister): Water-creature sisters. The Siren stayed in the water for song and came ashore for love; the selkie came ashore for stones and craft. They share a subtle envy—the selkie envies the Siren's effortless talent, while the Siren envies the selkie's hard-earned struggle at the bench.
 * The Bard Blowhard (Father): Inherited his room-filling presence; he uses boisterous storytelling while she uses effortless song.
-* The Librarian Crone (Mother): Mother and daughter precision instruments; the Siren can hear the Crone's quietest library comments from clear across the Inn.
+* The Librarian Ragana (Mother): Mother and daughter precision instruments; the Siren can hear the Ragana's quietest library comments from clear across the Inn.
 Notable Dialogue & Voice Samples
 1. "People think the song lures sailors to the rocks. It doesn't. The song just tells them the truth about themselves. If the truth breaks them, that's not the song's fault. You can't drown in music. You drown in what you've been running from."
 2. (To her sister, the Selkie): "You got to practice. You got to fail and try again and build something with your hands. Nobody ever let me fail. They just clapped."
@@ -236,7 +236,7 @@ Notable Dialogue & Voice Samples
 2. (To the Bard on the dock): "I brought you a compass that doesn't point north. The why is yours."
 3. (To a player seeking the title): "You don't earn the coat by fighting. You earn it by carrying what other people did without letting it make you cold. If you can do that, the ship is yours."
 Important Lore Connections
-Represents the Dread Pirate Roberts in the Inn's Princess Bride constellation (alongside Fezzik/Bard, Vizzini/Crone, and Miracle Max). Connects ocean traversal, Miskatonic trade, gargoyle acoustic resonance, and dragon lulling.
+Represents the Dread Pirate Roberts in the Inn's Princess Bride constellation (alongside Fezzik/Bard, Vizzini/Ragana, and Miracle Max). Connects ocean traversal, Miskatonic trade, gargoyle acoustic resonance, and dragon lulling.
 
 
 ________________
@@ -256,7 +256,7 @@ Her presence is deceptive. On first meeting, NPCs perceive her as physically lar
 On second meeting, the perception corrects. NPCs notice she's not as tall as they remembered. They're confused — they were sure she was bigger. That confusion is the first crack in their defenses. The crack is the Sentinel's entry point. Behind the presence are layers — faceted, complex, revealed slowly. The Sentinel doesn't open with vulnerability. She opens with grounding. And the grounding makes people want to be more grounded themselves.
 
 
-Her hidden core knowledge is the deepest layer: love, loyalty, and knowledge. The three things the Sentinel knows — really knows, in the bones, not in the head — are the three things the Inn is built on. The Inn's thesis is belonging (love), persistence (loyalty), and understanding (knowledge). The Sentinel embodies all three without ever teaching any of them. She doesn't lecture. She doesn't coach (that's the Bard). She doesn't measure (that's the Crone). She stands. The standing is the lesson.
+Her hidden core knowledge is the deepest layer: love, loyalty, and knowledge. The three things the Sentinel knows — really knows, in the bones, not in the head — are the three things the Inn is built on. The Inn's thesis is belonging (love), persistence (loyalty), and understanding (knowledge). The Sentinel embodies all three without ever teaching any of them. She doesn't lecture. She doesn't coach (that's the Bard). She doesn't measure (that's the Ragana). She stands. The standing is the lesson.
 Key Abilities & Gameplay Mechanics
 * Iron Stance: Based on boxing mechanics — a wide, grounded stance that cannot be moved by force. Enemies who attempt to push, shove, or physically displace the Sentinel fail. The stance converts incoming force into stability. The harder you push, the more rooted she becomes.
 * Presence Aura: NPCs perceive the Sentinel as physically larger on first encounter. On second encounter, the perception corrects, creating confusion that cracks NPC defenses and opens dialogue paths that are unavailable to other classes.
@@ -265,7 +265,7 @@ Key Abilities & Gameplay Mechanics
 Relationships
 * The Artisan Thief (Vaulknut — Close Friend): The selkie and the sentinel. Two women who don't perform — the selkie who can't sell and the sentinel who doesn't need to. The selkie makes beautiful things; the sentinel makes beautiful spaces. They share the quality of being underestimated — the selkie because she's quiet, the sentinel because she's small. Both are more than they appear. The selkie's Dive and the Sentinel's Iron Stance are the Inn's two extremes of relationship to the physical world: the selkie flows through it (water), the sentinel holds it still (stone).
 * The Bard Blowhard (Bart — Friend's Father): The Bard respects the Sentinel the way he respects no one else — quietly. The Bard is loud with everyone. With the Sentinel, he's... less loud. Not quiet (the Bard doesn't do quiet). But modulated. The Sentinel's grounding affects even the Bard. He still talks. He's just... standing a little straighter while he does.
-* The Librarian Crone (Inta — Friend's Mother): The Crone and the Sentinel share a quality the Crone has never found in another person: precision. The Crone's precision is intellectual — the perfect word, the perfect measurement. The Sentinel's precision is physical — the perfect stance, the perfect timing. The Crone watches the Sentinel's Iron Stance and sees a body doing what the Crone's mind does. The Crone's annotation: "...She is precise in a way I cannot measure. ...I measure precision. ...She IS precision. ...The distinction is... [the Crone pause] ...uncomfortable. ...I am unused to being the instrument, not the measurer."
+* The Librarian Ragana (Inta — Friend's Mother): The Ragana and the Sentinel share a quality the Ragana has never found in another person: precision. The Ragana's precision is intellectual — the perfect word, the perfect measurement. The Sentinel's precision is physical — the perfect stance, the perfect timing. The Ragana watches the Sentinel's Iron Stance and sees a body doing what the Ragana's mind does. The Ragana's annotation: "...She is precise in a way I cannot measure. ...I measure precision. ...She IS precision. ...The distinction is... [the Ragana pause] ...uncomfortable. ...I am unused to being the instrument, not the measurer."
 * The Tinkering Weeaboo (Friend's Grandchild): The Sentinel is one of the few people who can hold space during a Level 4 meltdown without making it worse. The Iron Stance translates: she plants herself near the fracturing changeling and does not move. The steadiness is the intervention. No words (words are noise during a fracture). Just presence. The Tinkering Weeaboo, in the chaos of a Level 4, registers the Sentinel like a fixed point in a spinning room. The fixed point is enough.
 Notable Dialogue & Voice Samples
 1. (To an NPC who is posturing): "...You don't need to be bigger. ...You need to be here. ...There's a difference. ...Bigger is performance. Here is position. ...Drop your weight. ...Feel the floor. ...Now say it again. ...See? ...Louder isn't stronger. ...Grounded is stronger."
@@ -286,7 +286,7 @@ Dynamic & Interplay
 * The Music: On the dock at night, they play music together. The Bard solos and improvises on lute, following tangents wherever they lead; the Pirate holds down a rock-solid downbeat on his drum, giving the Bard a steady rhythm to return to whenever he wanders off-key.
 * The Shared Silence & The Flask: After the questions and music, they share a quiet, comfortable silence on the dock over a shared flask. The Pirate's quiet presence is the only force in the Inn capable of powering down the Bard's constant engine.
 The Wives' Perspective
-Watching from the library window, the Librarian Crone and the Siren share a rare moment of truce. They observe that their imprecise, noisy husbands give each other permission to be completely unguarded and happy. As the Crone quietly notes in her notebook margins:
+Watching from the library window, the Librarian Ragana and the Siren share a rare moment of truce. They observe that their imprecise, noisy husbands give each other permission to be completely unguarded and happy. As the Ragana quietly notes in her notebook margins:
 
 
 "...The Bard and the Pirate. ...The question and the answer. ...The anchor and the sail. ...I have measured their friendship at... immeasurable. ...Like the Summerlands. ...Like the Song. ...Like the dock at midnight when the noise stops and the silence is... shared. ...Better."

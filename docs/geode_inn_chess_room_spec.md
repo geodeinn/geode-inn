@@ -95,7 +95,7 @@ The Bone Chess Room is in the Undercity, but it doesn't behave like the rest of 
 ### Connection to Other Characters
 - **Lozen (River's character):** The relationship is combative but fond. Lozen guards the Inn. The litch preserves the dead inside it. These are not compatible worldviews. The "OI!" is the litch's only break in composure, and Lozen is the only one who triggers it. There is respect underneath the friction. Lozen fights for the living. The litch fights for the dead. Both are fighting against loss. Neither would say so to the other.
 
-- **The Crone:** The Crone has opinions about the litch. The Crone's notebook contains annotations about the bone constructs — observations about their craftsmanship, questions about their autonomy. The Crone is fascinated but careful. The litch is the only person in the Inn who might understand the Crone's obsession with preserving knowledge — both are keepers. Different materials, same instinct.
+- **The Ragana:** The Ragana has opinions about the litch. The Ragana's notebook contains annotations about the bone constructs — observations about their craftsmanship, questions about their autonomy. The Ragana is fascinated but careful. The litch is the only person in the Inn who might understand the Ragana's obsession with preserving knowledge — both are keepers. Different materials, same instinct.
 
 - **Quire (the Archive scholar):** Quire would be terrified of this room and would never admit it. Quire researches in the margins of restricted texts. The litch works in the margins of life and death. Quire sees a mirror and flinches.
 
@@ -137,7 +137,7 @@ The name will shape the character's voice profile, dialogue, and how other NPCs 
 - [x] Character concept (litch bone-crafter, MTG stitcher archetype)
 - [x] Chess game mechanics (5 Inn-modified rules)
 - [x] Zone placement (Undercity — warm anomaly)
-- [x] Character connections (Lozen, Crone, Quire)
+- [x] Character connections (Lozen, Ragana, Quire)
 - [x] Storyline potential
 - [x] Audio profile
 - [x] Art style direction

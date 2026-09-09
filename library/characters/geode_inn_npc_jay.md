@@ -118,7 +118,7 @@ The Hearth (inside the Inn) is Aurallia's domain — warmth, community, feeding 
 "Sit. Eat. The stew's good today — I didn't make it, Luna did, which is why it's good and not... creative. My cooking is creative. Luna's cooking is correct. You want correct. Trust me. —Oh, don't mind the wolf. The wolf minds you. That's just how the wolf says hello. Full body weight. You'll get used to it. Everyone does. The ones who don't get used to it don't come back, and that's how I know the stew is for people with taste."
 
 **Jay (on the Inn):**
-"You want the inside? The big tree, the library, the quiet? Go ahead. I'll be here. I tried the inside once. Too much thinking, not enough ale. The Crone looked at me like I was a book that had been shelved in the wrong section. I told the Crone I was a book that hadn't been written yet. The Crone told me to leave. I did. The ale is better out here anyway. The ale is always better when you make it yourself."
+"You want the inside? The big tree, the library, the quiet? Go ahead. I'll be here. I tried the inside once. Too much thinking, not enough ale. The Ragana looked at me like I was a book that had been shelved in the wrong section. I told the Ragana I was a book that hadn't been written yet. The Ragana told me to leave. I did. The ale is better out here anyway. The ale is always better when you make it yourself."
 
 **Jay (when someone is lying):**
 "...That's a great story. Really. Tell it again, but slower, and this time tell me the part you skipped. —No, the part before that. The part where you decided to leave out the part that matters. Yeah. That part. Take your time. The ale's not going anywhere. Neither are you. Neither is the wolf."

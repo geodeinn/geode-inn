@@ -109,7 +109,7 @@
 |-------|------|-----------|
 | 5,238 | geode_inn_catalyst_bartender_complete.md | The Catalyst (Bartender) & Drink Mechanic |
 | 4,789 | geode_inn_the_catalyst.md | The Catalyst |
-| 5,247 | geode_inn_the_crone.md | The Librarian Crone |
+| 5,247 | geode_inn_the_crone.md | The Librarian Ragana |
 | 5,283 | geode_inn_the_constant.md | The Constant: The One Who Was Before |
 | 5,233 | geode_inn_undercity_style.md | The Undercity Style (Constant focus) |
 | 5,218 | geode_inn_charles_chameleon_druid.md | Charles — Chameleon Druid |

@@ -16,7 +16,7 @@ Not doing anything. Not collecting a stone. Not playing a game. Not talking to a
 
 The Whisper Layer has cracked. Not the full reveal — not the Awareness tier, not the Reader looking up. The first crack. The moment when the warmth and the function overlapped and the traveler saw both at the same time. The NPC who repeated a line. The Ceiling Gnome that tracked a fraction too precisely. The Pulse Line that flickered at a frequency that wasn't 42Hz or 84Hz but something in between — something that felt like the Inn noticing it was being watched.
 
-The traveler knows. Not everything — not yet. But enough. The traveler knows the Inn is recording. The traveler knows the warmth is real and the warmth is also a system. The traveler knows that every room entered, every stone touched, every conversation held is being cataloged by something that is not the Crone and not the Archive and not the Storyteller but something underneath all of them — something the traveler has not yet named.
+The traveler knows. Not everything — not yet. But enough. The traveler knows the Inn is recording. The traveler knows the warmth is real and the warmth is also a system. The traveler knows that every room entered, every stone touched, every conversation held is being cataloged by something that is not the Ragana and not the Archive and not the Storyteller but something underneath all of them — something the traveler has not yet named.
 
 The fire burns. The 50 BPM heartbeat pulses. The amber light moves across the stone walls the way amber light has moved across stone walls since the first fire was lit in the first cave. The fire does not know it is being recorded. The fire is: a fire.
 

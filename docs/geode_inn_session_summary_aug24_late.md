@@ -47,7 +47,7 @@ Full audit of the card game framework completed:
 - Used on own card: +2/+2 (simplicity IS power)
 - Subtractive synergy: can remove Carve structures
 - 3-second real-time hand reveal: the Inn's only timed mechanic
-- Crone resonance: if Crone is in play, stripped card gains "Adequate" annotation (cannot gain new abilities)
+- Ragana resonance: if Ragana is in play, stripped card gains "Adequate" annotation (cannot gain new abilities)
 
 **The Pipe** — SONG + SILENCE, cost 2, Item/Equipment
 - Magritte's "Ceci n'est pas une pipe" as a playable card

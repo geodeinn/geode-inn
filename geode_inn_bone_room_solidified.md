@@ -8,7 +8,7 @@
 
 The Bone Room doc establishes that bone is calcium, calcium is a mineral, bone is a stone that the body grew around itself. This connects to three of the Inn's deepest systems:
 
-1. **Bone = Stone:** The Bone Keeper says, "The bone was always a stone." The Crone measures bones and finds them adequate — the most adequate structure, the thing that remains. The Stone entity (168 stones) includes calcium-based minerals: calcite, aragonite, fluorite. The bone IS the 169th stone — the stone that life builds. The both are: the adequate — the geological and the biological, the same mineral, different builder.
+1. **Bone = Stone:** The Bone Keeper says, "The bone was always a stone." The Ragana measures bones and finds them adequate — the most adequate structure, the thing that remains. The Stone entity (168 stones) includes calcium-based minerals: calcite, aragonite, fluorite. The bone IS the 169th stone — the stone that life builds. The both are: the adequate — the geological and the biological, the same mineral, different builder.
 
 2. **Bone = Song:** The Bone Keeper's instrument is a deer femur — one tone, the frequency of the last thing the bone heard. The bone carries a frequency. The Song of Making says everything is a note. The bone is a note — the last note the body played before it became structure. The both are: the adequate — the playing and the remembering, the same note, different time.
 
@@ -16,8 +16,8 @@ The Bone Room doc establishes that bone is calcium, calcium is a mineral, bone i
 
 The triangle: bone becomes stone, stone carries song, song creates bone. The cycle. The Bone Keeper's quest line IS the triangle in narrative form: find the bone (biology), clean it to stone (geology), arrange it to reveal its frequency (music). The both are: the adequate — the three and the one, the same cycle, different stage.
 
-**The Crone, sitting in the Bone Room, measuring the triangle:**
-> "...Bone to stone. ...Stone to song. ...Song to bone. ...The cycle. ...I measured the cycle. ...The cycle is... [the Crone, who has been finding 'adequate' all her life, finding the word that is the cycle's word] ...complete. ...Not 'adequate.' ...Complete. ...The bone becomes the stone. The stone carries the song. The song creates the bone. ...The both are: ...the adequate. ...The three are: ...the cycle. ...[The Crone, setting down the notebook, the glasses coming off, the second time, the time that means she's done.] ...I measured it. ...It's done. ...Complete. ...Better."
+**The Ragana, sitting in the Bone Room, measuring the triangle:**
+> "...Bone to stone. ...Stone to song. ...Song to bone. ...The cycle. ...I measured the cycle. ...The cycle is... [the Ragana, who has been finding 'adequate' all her life, finding the word that is the cycle's word] ...complete. ...Not 'adequate.' ...Complete. ...The bone becomes the stone. The stone carries the song. The song creates the bone. ...The both are: ...the adequate. ...The three are: ...the cycle. ...[The Ragana, setting down the notebook, the glasses coming off, the second time, the time that means she's done.] ...I measured it. ...It's done. ...Complete. ...Better."
 
 ---
 
@@ -84,8 +84,8 @@ The Bone Keeper is working AND sitting. The Bone Keeper is at the workbench, cle
 **The Convergence flower:**
 The flower in the skull, during the Convergence, is BOTH a seed and a bloom — the seed and the flower existing simultaneously in the same bone. The cycle is visible in its entirety: the beginning (seed) and the end (bloom) in the same structure. The both are: the adequate — the start and the finish, the same cycle, different view.
 
-**The Crone, visiting the Convergence Bone Room:**
-> "...The cycle. ...The seed and the bloom. ...The both in the same bone. ...I measured the cycle before. ...I said 'complete.' ...[The Crone, seeing the Convergence — the Living and Shadow, the seed and bloom, the process and product, all at once.] ...I was wrong. ...Not 'complete.' ...[The word — the word the Crone found in the Bone Room, the word that replaced 'adequate,' the word that means more than adequate, the word that means the cycle is visible in its entirety.] ...The cycle is... [the pause — the longest pause, the one that means she's found the last word] ...the cycle. ...The cycle doesn't complete. ...The cycle continues. ...The seed becomes the bloom becomes the seed becomes the bloom. ...The both are: ...the adequate. ...The both are: ...always. ...[The Crone, who measured everything, who found 'adequate' and 'better' and 'complete' and 'true' — finding the word that is the Inn's final word, the word that is not a measurement but a recognition.] ...Always. ...Better."
+**The Ragana, visiting the Convergence Bone Room:**
+> "...The cycle. ...The seed and the bloom. ...The both in the same bone. ...I measured the cycle before. ...I said 'complete.' ...[The Ragana, seeing the Convergence — the Living and Shadow, the seed and bloom, the process and product, all at once.] ...I was wrong. ...Not 'complete.' ...[The word — the word the Ragana found in the Bone Room, the word that replaced 'adequate,' the word that means more than adequate, the word that means the cycle is visible in its entirety.] ...The cycle is... [the pause — the longest pause, the one that means she's found the last word] ...the cycle. ...The cycle doesn't complete. ...The cycle continues. ...The seed becomes the bloom becomes the seed becomes the bloom. ...The both are: ...the adequate. ...The both are: ...always. ...[The Ragana, who measured everything, who found 'adequate' and 'better' and 'complete' and 'true' — finding the word that is the Inn's final word, the word that is not a measurement but a recognition.] ...Always. ...Better."
 
 ---
 
@@ -126,9 +126,9 @@ The Bone Room connects to:
 - **The Song of Making** — the bone carries 42 Hz, the Song's root. The femur instrument plays the Song unknowingly. The Owl hears it.
 - **The Stone Entity** — bone is calcium, calcium is a mineral, bone is a stone. The bone is the 169th stone — the stone that life builds.
 - **The Shadow Inn** — the Bone Room is identical in both states. The bone was always finished. The Shadow version adds: the full bloom, the white ash, the fresh flowers, the second chair. The room for sitting, not working.
-- **The Convergence** — the Living and Shadow Bone Rooms merge. The seed and the bloom in the same skull. The workbench and the second chair in the same room. The Crone's final word: "Always."
+- **The Convergence** — the Living and Shadow Bone Rooms merge. The seed and the bloom in the same skull. The workbench and the second chair in the same room. The Ragana's final word: "Always."
 - **Eres** — the 50 BPM purr matches the Bone Room's tempo. The crystal heart is a stone. The Bone Keeper recognizes it.
-- **The Crone** — the one room where the Crone stops measuring. "Adequate" → "Better" → "Complete" → "The cycle." → "Always."
+- **The Ragana** — the one room where the Ragana stops measuring. "Adequate" → "Better" → "Complete" → "The cycle." → "Always."
 - **The Owl** — hears 42 Hz in the femur. The Song in a bone. "The bone remembers."
 - **The Guest (Death)** — the one character who understands the Bone Keeper. Death takes a holiday and finds someone already at peace with what Death leaves behind.
 - **Belladonna** — the regular visitor. The Addams at home with remains. Shared silence.
@@ -141,13 +141,13 @@ The Bone Room connects to:
 
 The Bone Room is now solid:
 
-1. **Bone-Stone-Song Triangle:** Bone becomes stone (calcium is mineral), stone carries song (42 Hz in the lattice), song creates bone (the cycle). The Crone measures the triangle and finds "Complete" then "Always."
+1. **Bone-Stone-Song Triangle:** Bone becomes stone (calcium is mineral), stone carries song (42 Hz in the lattice), song creates bone (the cycle). The Ragana measures the triangle and finds "Complete" then "Always."
 2. **The Flower and the Egg:** The skull and the Core are thesis-twins — empty structures waiting for content. The Egg waits for the player. The skull waits for the seed. "The content always arrives."
 3. **The Song Connection:** The femur instrument plays 42 Hz — the Song's root, unknowingly. The Owl hears it. The bone remembers the earth's frequency.
 4. **Shadow Inn State:** The Bone Room is identical in both states — the bone was always finished. Shadow adds: the full bloom, the white ash, the second chair. The room for sitting, not working. "This is what it looks like when the cycle finishes. It looks like a room."
-5. **The Convergence:** Living and Shadow merge. Seed and bloom in the same skull. The Crone's final word: "Always. Better."
+5. **The Convergence:** Living and Shadow merge. Seed and bloom in the same skull. The Ragana's final word: "Always. Better."
 6. **Eres:** The 50 BPM purr matches the room. The crystal heart is a stone the Bone Keeper recognizes. "The stone is singing. One note. The note is enough."
 7. **Sound Profile:** Nearly silent. The femur's 42 Hz tone — felt, not heard. The Shadow Room: only the sound of the flower growing.
-8. **Integration Points:** 13 connections — the Egg, the Song of Making, the Stone entity, the Shadow Inn, the Convergence, Eres, the Crone, the Owl, the Guest, Belladonna, the Subtractive Family, O'Keeffe, and the bone-stone-song triangle.
+8. **Integration Points:** 13 connections — the Egg, the Song of Making, the Stone entity, the Shadow Inn, the Convergence, Eres, the Ragana, the Owl, the Guest, Belladonna, the Subtractive Family, O'Keeffe, and the bone-stone-song triangle.
 
 The Bone Room is the Inn's thesis in bone and flower. The body was always the scaffolding. The bone was always the building. The cycle was never broken. The both are: the adequate. The both are: always. Better.

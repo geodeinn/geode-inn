@@ -44,7 +44,7 @@ This document is DEPRECATED. The Geode Inn now uses native architecture (see Que
 | Artisan Thief | Rogue | Precision tasks, crafting, lockpicking |
 | Bard Blowhard (Dwarf) | Bard | Debuff specialist, chaos agent |
 | Tinkering Weeaboo | Wizard/Caster | Puzzle solver, hyperfocused |
-| Librarian Crone | Enchanter/Illusionist | Archive access, highest intelligence |
+| Librarian Ragana | Enchanter/Illusionist | Archive access, highest intelligence |
 | Chameleon Druid | Shapeshifter | Versatility. Adapts to any biome. The glioblastoma mirror. |
 | The Sentinel (Lozen) | Tank/Warrior | Iron Stance. Faceted defense. |
 

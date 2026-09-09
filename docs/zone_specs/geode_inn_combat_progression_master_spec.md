@@ -26,7 +26,7 @@ The Geode Inn's combat and progression system. Built on the tri-mode frequency p
 |-----------|--------|
 | Non-Lethal | You don't die, you forget. Losing a fight dims the screen and drops you back. No game-over. |
 | Frequency-Based Damage | Stones deal damage at their Solfeggio frequency. Matching the board's frequency amplifies damage. |
-| Class Synergy | Each class has a combat role: Sentinel (tank), Artisan Thief (mobility), Chameleon Druid (adaptation), Bard (debuff), Tinkering Weeaboo (burst), Librarian Crone (intelligence). |
+| Class Synergy | Each class has a combat role: Sentinel (tank), Artisan Thief (mobility), Chameleon Druid (adaptation), Bard (debuff), Tinkering Weeaboo (burst), Librarian Ragana (intelligence). |
 | Shadow Inn = 84Hz | Combat happens in Shadow mode. The shift from 42Hz to 84Hz IS the combat trigger. |
 | The Bard's Debuff | Enrage makes enemies dangerous but stupid — chaos as a strategy. |
 | The Sentinel's Iron Stance | Faceted defense: absorbs and redirects. Tank mechanic. |

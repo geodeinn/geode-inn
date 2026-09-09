@@ -19,7 +19,7 @@ The novel is the SPINE. Everything else hangs from it. It tells the story of a t
 | The Observatory | Prologue | Magritte steampunk ship, sentry pipe |
 | The Inn-Tree | Throughout | Sentient tree architecture |
 | The Host | Ch. 3 | Patrick Stewart cadence, anti-FOMO, "the fire is that way" |
-| The Crone | Ch. 8 | "Adequate," precise, librarian, Maggie Smith/Judi Dench energy |
+| The Ragana | Ch. 8 | "Adequate," precise, librarian, Maggie Smith/Judi Dench energy |
 | The Catalyst | Ch. 9 | Mrs. Lovett energy, botanical genius, foil to Host |
 | Brownies (Brindle, Cobble, Thatch) | Ch. 10 | Maintenance, comedy, Grit the Fizzgig |
 | Brim and the Pipe | Ch. 11 | Sentient pipe, Ceci n'est pas une pipe |
@@ -123,7 +123,7 @@ These are threads that are part of the narrative spine but aren't woven into the
 
 | Element | Why Tabletop | Notes |
 |---------|-------------|-------|
-| Character classes (Sentinel, Tinker, Bard, Crone) | Player choices, not narrative characters | RPG system |
+| Character classes (Sentinel, Tinker, Bard, Ragana) | Player choices, not narrative characters | RPG system |
 | Frequency Dice system | D6 with frequency symbols | Core mechanic |
 | 198 stone cards + 118 element charms + 45 quest charms | Physical game components | Card layouts |
 | 37 zone map set | Game board | Physical maps |

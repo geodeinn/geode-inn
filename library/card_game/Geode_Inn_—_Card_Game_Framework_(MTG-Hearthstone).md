@@ -53,7 +53,7 @@ In MTG, there are five colors (White, Blue, Black, Red, Green). In the Geode Inn
 **Playstyle:** Defense-Control. Stone cards are expensive, durable, and create permanent structures. Stone decks win by building an unassailable board state — walls, monuments, and crypts that the opponent cannot break through.
 **Card mechanic:** "Carve" — this card occupies a board slot permanently. It cannot be destroyed by normal means — only by Subtractive effects (removal that specifically targets permanent structures).
 **Win condition:** The Monument — having 5 Stone structure cards in play simultaneously.
-**Key characters:** Medusa, the Crone, the Mason, the Mourner, Belladonna
+**Key characters:** Medusa, the Ragana, the Mason, the Mourner, Belladonna
 
 ### 6. ROOT (Mycorrhizal / The Network) — The Frequency of Connection
 **Color identity:** Deep Green/Brown
@@ -80,7 +80,7 @@ The Inn's NPCs translated to creature cards. Each character card has:
 One-time effects based on character abilities. These represent the Inn's quests, interactions, and moments:
 - **Quest cards** — ongoing effects that complete when conditions are met
 - **Moment cards** — instant effects triggered by narrative moments
-- **Annotation cards** — the Crone's measurements, which reveal information or modify stats
+- **Annotation cards** — the Ragana's measurements, which reveal information or modify stats
 
 ### 3. Structures (Artifacts/Enchantments)
 Permanent board effects based on the building system:
@@ -104,7 +104,7 @@ The Inn's zones and geological features, which generate frequency mana:
 
 | Keyword | Source | Effect |
 |---------|--------|--------|
-| **Adequate** | The Crone | When this card enters play, measure the board. If conditions are "adequate" (3+ cards sharing a frequency), trigger an additional effect. |
+| **Adequate** | The Ragana | When this card enters play, measure the board. If conditions are "adequate" (3+ cards sharing a frequency), trigger an additional effect. |
 | **Wound** | Erik | When this card takes damage, gain +1/+1. The wound becomes the warmth. |
 | **Damp** | Nyx / Limestone | Target card's abilities are nullified for 2 turns. The card remains but cannot act. |
 | **Current** | Water system | Once per turn, return this card to hand and replay at reduced cost. |
@@ -231,8 +231,8 @@ Frequency: STONE (2) + ROOT (1) — Total cost: 3
 Type: Character — Guide — Philosopher
 Presence: 3 | Resonance: 5 | Cadence: Next Turn
 Abilities: Adequate (if 3+ Stone cards in play, trigger additional effect)
-Special: **Rubedo** — When Aristotle and the Crone are both in play, they "argue." Each turn, you may choose one: measure (look at opponent's hand) or classify (name a card type — opponent reveals if they have one). After 3 turns of arguing, both transform: the Crone gains Resonate, Aristotle gains Adequate permanently. The argument becomes the listening.
-Flavor text: *"He argues with the Crone until both become listeners."*
+Special: **Rubedo** — When Aristotle and the Ragana are both in play, they "argue." Each turn, you may choose one: measure (look at opponent's hand) or classify (name a card type — opponent reveals if they have one). After 3 turns of arguing, both transform: the Ragana gains Resonate, Aristotle gains Adequate permanently. The argument becomes the listening.
+Flavor text: *"He argues with the Ragana until both become listeners."*
 Rarity: Epic
 
 ---
@@ -279,7 +279,7 @@ Frequency: STONE (2) + SILENCE (1) — Total cost: 3
 Type: Character — Guide — Annotator
 Presence: 1 | Resonance: 5 | Cadence: Delayed
 Abilities: Adequate
-Special: **Annotation** — Once per turn, the Crone "measures" any card in play. Reveal that card's full text to both players. If the card's Resonance is equal to or less than the Crone's Presence, the Crone annotates it: the card gains "Adequate." If the Crone annotates herself: "Adequate."
+Special: **Annotation** — Once per turn, the Ragana "measures" any card in play. Reveal that card's full text to both players. If the card's Resonance is equal to or less than the Ragana's Presence, the Ragana annotates it: the card gains "Adequate." If the Ragana annotates herself: "Adequate."
 Flavor text: *"I never listened before. I always measured. It's beautiful."*
 Rarity: Legendary
 
@@ -338,7 +338,7 @@ Frequency: ROOT (2) + SONG (1) — Total cost: 3
 Type: Character — Guide — Loremaster
 Presence: 2 | Resonance: 4 | Cadence: Next Turn
 Abilities: Network, Resonate
-Special: **Temporal Map** — Once per turn, look at the top 2 cards of your deck. Keep one, put the other on the bottom. The Cartographer maps the future. The Crone calls him "adequate." He doesn't know it's a compliment.
+Special: **Temporal Map** — Once per turn, look at the top 2 cards of your deck. Keep one, put the other on the bottom. The Cartographer maps the future. The Ragana calls him "adequate." He doesn't know it's a compliment.
 Flavor text: *"His mind runs too fast to rest."*
 Rarity: Legendary
 
@@ -536,7 +536,7 @@ Abilities: Ferry, Threshold
 Special: **Three Aspects** — Each turn, the Morrigan shifts between three forms:
 - **Maiden** (odd turns): Presence 5, Resonance 3. Aggressive. Gains Wandering.
 - **Mother** (even turns): Presence 3, Resonance 7. Defensive. Gains Gargoyle.
-- **Crone** (every 3rd turn): Presence 2, Resonance 5. Gains Ferry (cost 0). She determines who returns and who stays.
+- **Ragana** (every 3rd turn): Presence 2, Resonance 5. Gains Ferry (cost 0). She determines who returns and who stays.
 Flavor text: *"The engine of reincarnation cycles."*
 Rarity: Legendary
 
@@ -570,7 +570,7 @@ Type: Character — Guide — Scholar-Witch
 Presence: 2 | Resonance: 5 | Cadence: Delayed
 Abilities: Naming, Resonate, Mirror
 Special: **Preservation** — Once per turn, the Queen of Words may "preserve" a card in your discard pile. That card cannot be targeted by Ferry effects (neither yours nor your opponent's). The preservation is: the adequate. The woman at the desk IS the throne.
-Flavor text: *"She preserves the library. The Crone annotates. The Bard reads aloud."*
+Flavor text: *"She preserves the library. The Ragana annotates. The Bard reads aloud."*
 Rarity: Epic
 
 ---
@@ -747,7 +747,7 @@ Win condition: Complete lockdown. Every opponent card is silenced. Not destroyed
 
 ### 7. "The Subtractive Path" (Stone/Silence Hybrid)
 Win condition: Win by SUBTRACTION — remove your own cards to trigger powerful effects, until the board is empty and only your last Subtractive card remains.
-Key cards: Kali, Medusa, the Mason, Asterion, the Crone
+Key cards: Kali, Medusa, the Mason, Asterion, the Ragana
 Playstyle: Self-sacrifice. You WIN by removing your own cards. Each removal triggers an effect. The endgame is: the board with one card left. The one card is: the adequate.
 
 ### 8. "The After" (Wanderer Combo)
@@ -799,7 +799,7 @@ Instead of MTG's land-based mana, the Geode Inn uses FREQUENCY mana:
 - **Common** — Basic NPCs, companions, simple zone cards
 - **Rare** — Named NPCs with specific abilities (the Bard, the Cook, the Retort, the Thrum)
 - **Epic** — Zone guides with significant special abilities (the Captain, the Seelie King/Queen, The Greenward, Hel, the Examiner)
-- **Legendary** — The Inn's principal characters with game-changing abilities (the Constant, Nyx, the Guest, the Crone, the Host, Erik, Kali, Medusa, Charon, the Morrigan, the Queen of Webs, the Queen of Roots, the Pirate, the Siren, the One Who Is Awake, Zorya)
+- **Legendary** — The Inn's principal characters with game-changing abilities (the Constant, Nyx, the Guest, the Ragana, the Host, Erik, Kali, Medusa, Charon, the Morrigan, the Queen of Webs, the Queen of Roots, the Pirate, the Siren, the One Who Is Awake, Zorya)
 
 ---
 

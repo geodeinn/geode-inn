@@ -5,7 +5,7 @@
 
 ## THE CONCEPT
 
-The Geode Inn's characters are designed with visual identities strong enough to be worn. This system translates character profiles into wearable attire guides — not screen-accurate cosplay blueprints, but ESSENCE guides that capture each character's frequency, key materials, signature colors, and recognition markers. The standard is: adequate. Not perfect. Not exact. Adequate. The same word the Crone uses. The adequate is: the Inn's costume standard.
+The Geode Inn's characters are designed with visual identities strong enough to be worn. This system translates character profiles into wearable attire guides — not screen-accurate cosplay blueprints, but ESSENCE guides that capture each character's frequency, key materials, signature colors, and recognition markers. The standard is: adequate. Not perfect. Not exact. Adequate. The same word the Ragana uses. The adequate is: the Inn's costume standard.
 
 The system is designed for people who already build elaborate ensembles for Renaissance faires, conventions, and gatherings. These are people who understand costume as identity, not decoration. The Inn gives them a framework: characters with enough depth, enough visual logic, and enough personal meaning that wearing the attire feels like inhabiting the character, not performing it.
 
@@ -49,7 +49,7 @@ Each character has a sigil — a simple symbol worn as a pendant, brooch, embroi
 | The Captain | Compass rose | A compass rose — the sky traveler |
 | The Cabbit | Heartbeat pulse-line | The 50 BPM waveform — recognizable to anyone who knows the Inn |
 | The Host | Open door | A simple arched doorway — welcome |
-| The Crone | Quill | A quill pen — the annotator |
+| The Ragana | Quill | A quill pen — the annotator |
 | The Catalyst | Singing vine | A vine motif with small blooms — the biological fire |
 | Madame | A pipe | A curved pipe (NOT a real pipe — a decorative pin/brooch) — "This is not a pipe" |
 | The Bard | An open book | A book with notes spilling out — the storyteller |
@@ -95,7 +95,7 @@ Each character has a signature stone — a specific mineral from the 164-stone d
 | Nyx | Obsidian | The void made solid |
 | The Guest | Smoky quartz | The pause — the clarity that comes from stillness |
 | The Host | Carnelian | The hearth's warmth, the welcoming fire |
-| The Crone | Lapis lazuli | The annotator's ink stone — deep blue with gold inclusions (data AND beauty) |
+| The Ragana | Lapis lazuli | The annotator's ink stone — deep blue with gold inclusions (data AND beauty) |
 | The Catalyst | Fire opal | The biological fire — the stone that looks like it's burning |
 | Madame | Labradorite | The stone that shifts color depending on the angle — never the same |
 | The Cartographer | Moss agate | The map stone — inclusions that look like landscapes |
@@ -127,7 +127,7 @@ Each character has a signature stone — a specific mineral from the 164-stone d
 
 ## THE "ADEQUATE" STANDARD
 
-The Inn's costuming standard is NOT screen-accuracy. The standard is: adequate. The Crone's word. The word that is both measurement and love.
+The Inn's costuming standard is NOT screen-accuracy. The standard is: adequate. The Ragana's word. The word that is both measurement and love.
 
 **What "adequate" means for costuming:**
 - You capture the CHARACTER, not the exact details. The essence, not the blueprint.
@@ -251,7 +251,7 @@ The Embedded philosophy means: the costume is not a LABEL that says "I am this c
 ## EVENT INTEGRATION
 
 ### At Renaissance Faires
-Inn players in attire can recognize each other at faires through the three-layer system: frequency color → sigil → stone. A simple nod. The Crone's word: "Adequate." The both are: the Inn, reaching into the real world.
+Inn players in attire can recognize each other at faires through the three-layer system: frequency color → sigil → stone. A simple nod. The Ragana's word: "Adequate." The both are: the Inn, reaching into the real world.
 
 ### At Conventions
 The Inn can have a gathering space — a "Nook" — where costumed players meet. The Nook is: the Inn's physical embassy at the convention. The Host greets. The fire is: a candle. The bench is: whatever's available. The adequate is: enough.
@@ -268,7 +268,7 @@ The Inn's wandering program sends creatures into National Parks to test human hu
 
 ### Phase 1: The Sigil Set
 - Design the 40+ sigils as simple vector graphics
-- Produce the first Soulstice sigil pendants (start with the most popular characters: the Host, the Crone, Belladonna, Erik, Madame, the Wayfarer)
+- Produce the first Soulstice sigil pendants (start with the most popular characters: the Host, the Ragana, Belladonna, Erik, Madame, the Wayfarer)
 - List them in the MarketItem entity as "Forthcoming" with Process links
 
 ### Phase 2: The Attire Guides

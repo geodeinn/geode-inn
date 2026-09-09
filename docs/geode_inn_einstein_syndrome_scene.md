@@ -40,7 +40,7 @@ The traveler does not speak. The traveler does not need to. The traveler is carr
 
 The traveler looks up.
 
-"...It has a name?" The traveler does not say this. The traveler does not need to. The question is in the looking up. Einstein reads the looking up the way the Crone reads a ledger — with precision, with patience, with the certainty of someone who has been reading this particular page for a very long time.
+"...It has a name?" The traveler does not say this. The traveler does not need to. The question is in the looking up. Einstein reads the looking up the way the Ragana reads a ledger — with precision, with patience, with the certainty of someone who has been reading this particular page for a very long time.
 
 "...Einstein Syndrome."
 

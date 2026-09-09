@@ -13,7 +13,7 @@ Zone template system: character homes as architectural templates for player-buil
    - Hearth (Firekeeper) — living fire, community, stone + carved wood
    - Water (Katya) — bioluminescence, flow, tidal stone + coral
    - Cosmology (Allfather) — starlight, vastness, sky stone + void silk
-   - Catacombs (Crone) — scarce light, weight, bedrock + bone + clay
+   - Catacombs (Ragana) — scarce light, weight, bedrock + bone + clay
    - Staircase (Clockmaker) — evolving light, alchemy, all materials in sequence
    - Fae Kingdom (Courts) — split light, duality, living/dead/crystal
    - Lighthouse (Keeper) — directed light, isolation, sea stone + brass + crystal
@@ -45,7 +45,7 @@ Zone template system: character homes as architectural templates for player-buil
 - Firekeeper's Hearth: (described in Hearth template, image embedded)
 - Katya's Cove (Water): https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/5bb742aa3_generated_image.png
 - Allfather's Observatory (Cosmology): https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/48777a8a6_generated_image.png
-- Crone's Archive (Catacombs): https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/2aa13e3a7_generated_image.png
+- Ragana's Archive (Catacombs): https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/2aa13e3a7_generated_image.png
 - Clockmaker's Staircase: https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/1e289761d_generated_image.png
 - Fae Kingdom Threshold: https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/52c16f051_generated_image.png
 - Lighthouse / The Vigil: https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/4ee20e225_generated_image.png

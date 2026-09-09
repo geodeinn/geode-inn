@@ -106,7 +106,7 @@
 | Queen of Roots | https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/7a950cd2a_queen_of_roots.png |
 | Queen of Words | https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/00207b3f0_queen_of_words.png |
 | Council of Thinkers | https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/4f83ff168_council_of_thinkers.png |
-| The Crone | https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/80a5c3686_the_crone.png |
+| The Ragana | https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/80a5c3686_the_crone.png |
 | The Siren | https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/07ccdc821_the_siren.png |
 | The Brownies | https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/54c77a0c2_the_brownies.png |
 | Charles Chameleon Druid | https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/44c5e1ea0_charles_chameleon_druid.png |
@@ -226,7 +226,7 @@ Filenames are legacy per the naming policy; display names are canonical (see cha
 - The Cosmic Crew — Clockwork Skies ensemble
   - File: `The_Cosmic_Crew.png`
   - URL: https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/ccd736301_The_Cosmic_Crew.png
-- The Crone
+- The Ragana
   - File: `The_Crone.png`
   - URL: https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/90c696565_The_Crone.png
 - The Drowned Cathedral — Water Zone, Shadow mode

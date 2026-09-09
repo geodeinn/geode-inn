@@ -22,7 +22,7 @@ Individual character design documents for key NPCs who warranted their own dedic
 | Einstein | 215 | The In-Between's resident. The anomaly. | The Mirror Systems, the Einstein Syndrome. |
 | Nyx | 212 | The goddess of night. | The Cosmology Level. |
 | The Guest | 208 | Death on holiday. | The Cosmology Level, the endgame. |
-| The Crone | 201 | The archive keeper. | The Catacombs, the Remembrance Vision. |
+| The Ragana | 201 | The archive keeper. | The Catacombs, the Remembrance Vision. |
 | The Host | 135 | The anti-FOMO anchor. | The Main Floor. |
 | Mona | 110 | The 42Hz mother creation principle. | The Staircase, the Master Thread. |
 | The Astronomer | 173 | The calculator. | The Observatory quest, the endgame. |
@@ -67,7 +67,7 @@ Individual character design documents for key NPCs who warranted their own dedic
 ## DESIGN STATUS
 
 - [x] 30+ individual NPC profiles written
-- [x] Key NPCs fully documented (Joe, Thorin/Marijke, Oceanianoir, Einstein, Nyx, the Guest, the Crone, the Host, Mona, Da Vinci, the Astronomer, the Constant)
+- [x] Key NPCs fully documented (Joe, Thorin/Marijke, Oceanianoir, Einstein, Nyx, the Guest, the Ragana, the Host, Mona, Da Vinci, the Astronomer, the Constant)
 - [x] Additional profiles written (Tesla, Naut, the Morrigan, Odin, the Gardener, Brim, Monsieur Sentient, the Smiths, the Fixer, Charon, Medusa, Seelie/Unseelie Kings, the Norns)
 
 ---

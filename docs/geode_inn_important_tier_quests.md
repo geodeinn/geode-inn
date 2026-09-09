@@ -11,7 +11,7 @@
 The staircase is the Inn's bridge — the alchemical transition between the main floor (modern) and the catacombs (ancient). The climb ascends through three stages: Nigredo (Socrates, dissolution), Albedo (Plato, purification), Rubedo (Aristotle, categorization). Da Vinci is on the staircase, at a desk covered in mirror-script notes — the Annunaki runes written in Leonardo's signature mirror-reversed hand. Beside Da Vinci: the poplar panel. Mona.
 
 ### Da Vinci's Role
-Da Vinci is the Inn's architect of perception. Where the Crone measures and the Astronomer calculates, Da Vinci DESIGNS — the way the traveler sees the Inn. Da Vinci's mirror script is not a code. It's a LENS. The mirror-reversed writing is the Inn seen from the other side — the way a mirror shows you what you can't see directly. Da Vinci has been writing the Inn's blueprints in mirror script since the tree was a seed.
+Da Vinci is the Inn's architect of perception. Where the Ragana measures and the Astronomer calculates, Da Vinci DESIGNS — the way the traveler sees the Inn. Da Vinci's mirror script is not a code. It's a LENS. The mirror-reversed writing is the Inn seen from the other side — the way a mirror shows you what you can't see directly. Da Vinci has been writing the Inn's blueprints in mirror script since the tree was a seed.
 
 ### Mona's Role
 Mona is the 42Hz mother creation principle, humming in the poplar. Mona doesn't speak. Mona HUMS. The hum is the 42Hz carrier wave — the same frequency the Inn was built to carry. Mona's hum is the staircase's ambient sound. The staircase's ascending semitone (each step a half-step higher) is built ON TOP of Mona's hum. Mona is the root note. The staircase climbs from Mona.
@@ -36,7 +36,7 @@ Da Vinci is at the desk, mirror-reversed pen in hand, the poplar panel propped a
 > 
 > "Can you read it? Can you read what the Song sees when the Song looks at the Inn?"
 
-**Objective:** Read 5 mirror script panels on the staircase walls. Each panel is an Annunaki rune written in mirror-reverse. The player must LOOK at the rune through a reflective surface (the poplar panel, a stone facet, the Crone's measuring tape pulled taut) to read it normally.
+**Objective:** Read 5 mirror script panels on the staircase walls. Each panel is an Annunaki rune written in mirror-reverse. The player must LOOK at the rune through a reflective surface (the poplar panel, a stone facet, the Ragana's measuring tape pulled taut) to read it normally.
 
 **Mechanic:** Reflection Reading. The player approaches a mirror-script panel. Interaction prompt: "Look at the script." The script is backwards. The player must find a reflective surface in the environment and ANGLE it so the reflection of the script is legible. The poplar panel (Mona) is the primary reflector — Mona's surface is polished poplar, and the mirror script reflects in the wood's grain.
 
@@ -397,7 +397,7 @@ The Weaver is at the loom. The loom is the root junction itself — the three pr
 ### The Norns' Connection to the Whisper Layer
 The Norns ARE the Whisper Layer's narrative expression. The Whisper Layer collects data. The Norns weave that data into THREAD. The Weaver turns the thread into TAPESTRY. The data is: the past. The thread is: the present. The tapestry is: the future. The three are: one system.
 
-The Norns do not KNOW more than the Whisper Layer. The Norns EXPRESS what the Whisper Layer has collected. The Crone measures; the Norns weave. The Astronomer calculates; the Weaver composes. The two systems — measurement and weaving — are the Inn's dual approaches to the same data: the player's experience, turned into story.
+The Norns do not KNOW more than the Whisper Layer. The Norns EXPRESS what the Whisper Layer has collected. The Ragana measures; the Norns weave. The Astronomer calculates; the Weaver composes. The two systems — measurement and weaving — are the Inn's dual approaches to the same data: the player's experience, turned into story.
 
 ---
 

@@ -117,22 +117,22 @@ The player progresses through the tree by unlocking zones. Each zone unlocked re
 ---
 
 ### LEVEL 6: CATACOMBS (The Archive)
-**Ancient civilizations. The Crone's Archive. The weight of history.**
+**Ancient civilizations. The Ragana's Archive. The weight of history.**
 
 | Component | Status |
 |---|---|
 | **Zone design** | ✅ Complete — scarce light, weight, excavation |
 | **Visual language** | ✅ Dark, scholarly, weight-of-history, archive aesthetic |
-| **Characters** | ✅ The Crone (Inta, Krista's mom — Hopkins gaze), Beverley (librarian), Charles (Krista's dad — druid) |
-| **Character stations** | ✅ Crone's Archive, Beverley's library desk, Charles's place (TBD) |
+| **Characters** | ✅ The Ragana (Inta, Krista's mom — Hopkins gaze), Beverley (librarian), Charles (Krista's dad — druid) |
+| **Character stations** | ✅ Ragana's Archive, Beverley's library desk, Charles's place (TBD) |
 | **Quests** | ❌ NOT YET DESIGNED |
 | **Audio profiles** | ❌ NOT YET DESIGNED |
 | **Games** | ✅ Partial — "excavation" game mechanic implied by zone template |
-| **Interactive items** | ✅ Partial — zone template designed (Crone's Archive) |
+| **Interactive items** | ✅ Partial — zone template designed (Ragana's Archive) |
 | **Archive content** | ✅ Partial — Book entity designed, archive.org materials pending population |
-| **Connections** | ✅ Freyja's silver half → Catacombs (the dead are sent here), the Crone has the third ring of the Brísingamen |
+| **Connections** | ✅ Freyja's silver half → Catacombs (the dead are sent here), the Ragana has the third ring of the Brísingamen |
 
-**GAPS:** Crone's quest, Beverley's quest, Charles's quest, archive game template, Book entity population, Charles's place design, full interactive items
+**GAPS:** Ragana's quest, Beverley's quest, Charles's quest, archive game template, Book entity population, Charles's place design, full interactive items
 
 ---
 
@@ -280,7 +280,7 @@ The player sees the threat before the player-character would. The camera shows t
 This is the Inn's primary horror mechanic. The Inn does not do jump scares. The Inn does the slow reveal. The thing in the deep was always there. The player just couldn't see it yet.
 
 **2. The Held Shot (The Gaze That Stays Too Long)**
-The camera holds on a subject past the point of comfort. The Crone's face, lit by a single candle, not moving, not blinking, for five full seconds. The Monster Lair's entrance, a dark opening in the wreckage, and the camera doesn't cut away. It stays. The player's instinct is to look away. The camera won't let them.
+The camera holds on a subject past the point of comfort. The Ragana's face, lit by a single candle, not moving, not blinking, for five full seconds. The Monster Lair's entrance, a dark opening in the wreckage, and the camera doesn't cut away. It stays. The player's instinct is to look away. The camera won't let them.
 
 Implementation: In scripted suspense sequences, disable the camera free-look. Lock the gaze. The player can move but can't look away. The release — when the camera frees — is the relief. The relief is the scare's payoff.
 
@@ -410,7 +410,7 @@ del Toro's creatures aren't designs — they're beings with anatomies. The faun 
 The Inn's 399 characters each have a material reality:
 - The baby dragon's scales are warm — theplayer can tell because the area near the dragon is visually warmer (ambient light shift)
 - Beverley the librarian's coat is heavy wool — the coat hangs with weight, the buttons are brass (you can see the metal quality)
-- The Crone's desk is scarred oak — the surface has indentations where a measuring tape has been laid thousands of times
+- The Ragana's desk is scarred oak — the surface has indentations where a measuring tape has been laid thousands of times
 - The water monsters have wet skin — a specular highlight that moves differently than the surrounding water, telling the eye "this surface is living flesh, not water"
 - The Wild in the Dark Reaches have skin that reflects bioluminescence differently than their surroundings — they're matte where the crystals are glossy, telling the eye "this is organic matter, not mineral"
 
@@ -418,7 +418,7 @@ The Inn's 399 characters each have a material reality:
 del Toro's objects carry their stories on their surfaces. The Inn's interactive items — stones, texts, charms, artifacts — show use, age, and care differently:
 
 - Stones from gathering have tool marks. Stones from ley lines have vibration polish. Stones from the Mycorrhizal Network have a fine mycelium residue that catches light differently (Form Sight makes it glow)
-- Books in the Archive have dog-eared pages, marginalia, wine stains. The Crone's personal texts have indentation where the measuring tape was used as a bookmark
+- Books in the Archive have dog-eared pages, marginalia, wine stains. The Ragana's personal texts have indentation where the measuring tape was used as a bookmark
 - Quest charms show the mark of giving — a worn spot where a hand once clenched around them during a difficult moment
 - The crystal skulls in The Royal have a resonance that the player can SEE — a faint vibration in the air around them, the way heat shimmer reads as a visual aura. The skulls hum. The air around them bends.
 
@@ -507,7 +507,7 @@ Kubrick's props are real. The labels on cans in The Shining are real. The Zero G
 The Inn's Kubrick detail standard:
 - Every book on every shelf has a real title from the Archive database (625 Books entity records). The spines are readable with zoom (Form Sight not required — just proximity)
 - Every stone in every display case has real mineral data (198 Stone entity records). The labels show Mohs hardness, mineral family, geographic origin
-- Every NPC's clothing has material reality — Beverley's coat is wool with brass buttons. The Crone's measuring tape has maker's marks. The Pirate's coat has salt stains at the cuffs
+- Every NPC's clothing has material reality — Beverley's coat is wool with brass buttons. The Ragana's measuring tape has maker's marks. The Pirate's coat has salt stains at the cuffs
 - Every gargoyle's frequency is inscribed at its base in the Inn's root script — readable only with the Questioner's awakening, but visible as texture without it
 - The Arcana's gearwork has real mechanical logic — the gears that appear on screen actually connect. A mechanically minded player could trace the power flow from the heart-gear to the wings
 - The chequerboard floor in the Cosmology constellations actually tracks real star positions for the zone's mythological association (Orion's stars are where Orion's constellation is on the floor)
@@ -519,7 +519,7 @@ Kubrick's spaces are unsettling because they're TOO clean, TOO symmetrical, TOO 
 - The Hollow Earth's central plaza is perfect to the point of unease — the crystal spires are too symmetrical, the Resonance Engine too centered. The player feels watched. Nothing is watching. That's worse
 - The Fae Kingdom's Stone Circle is geometrically perfect. The stones are too evenly spaced. The chamber is too round. The perfection is the Fae's signature — they don't build spaces, they COMPUTE them
 - The Clockwork Skies gearwork operates with impossible precision. The gears don't need maintenance. They have never needed maintenance. The Clockmaker maintains them anyway. Why? Because the alternative — machines that maintain themselves — is the uncanny. The maintenance is the comfortable illusion
-- The Catacombs' stacks are too evenly lit. The candles seem to coordinate. They don't — but the arrangement is so orderly that the mind insists on pattern. The archive is organized by a system the Crone follows but never explains. The system is perfect. Perfect systems are Lacon's territory. The Crone's system predates Lacon. What was here before the system?
+- The Catacombs' stacks are too evenly lit. The candles seem to coordinate. They don't — but the arrangement is so orderly that the mind insists on pattern. The archive is organized by a system the Ragana follows but never explains. The system is perfect. Perfect systems are Lacon's territory. The Ragana's system predates Lacon. What was here before the system?
 
 ### The Kubrick Test
 
@@ -588,7 +588,7 @@ The Inn has three Coppola long-scenes:
 **5. The Family Story is the Epic (The Bloodline)**
 Coppola's greatest insight: every epic is a family story. The Godfather is about a father and son. Apocalypse Now is about two men who were family-in-spirit. Dracula is about love across centuries. Bram Stoker's Dracula specifically — Coppola's version — is the template for the Inn's emotional architecture: the intimate love story inside the gothic horror inside the period epic.
 
-The Inn's bloodline: Krista, Lozen, Charles. The Crone (Krista's mother). Beverley. The family IS the Inn. The NPCs are not quest-givers — they are people the player cares about because the Inn cares about them and the Inn's caring is visible in every surface (del Toro) and every held frame (Kubrick) and every musical shift (Spielberg).
+The Inn's bloodline: Krista, Lozen, Charles. The Ragana (Krista's mother). Beverley. The family IS the Inn. The NPCs are not quest-givers — they are people the player cares about because the Inn cares about them and the Inn's caring is visible in every surface (del Toro) and every held frame (Kubrick) and every musical shift (Spielberg).
 
 The Coppola moment comes when the player realizes the Inn is not a place but a FAMILY'S LOVE LETTER to the world. The stones are the mother's knowledge. The archive is the father's curiosity. The games are the child's play. The Staircase is the space between them. The whole building is a family expressed as architecture. That realization is Coppola's move — the moment the epic becomes personal and the personal becomes unavoidable.
 

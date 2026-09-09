@@ -40,7 +40,7 @@
 | # | Character | Role | Zone | Image | Notes |
 |---|---|---|---|---|---|
 | 9 | The Constant (Malkovich) | Annunaki, cosmology | Cosmology | ✅ v1 + v2 | `the_constant.png` / `_v2.png` |
-| 10 | The Crone (Hopkins) | Precision/measuring | Catacombs | ✅ v1 + v2 | Hopkins eyes unsoftened |
+| 10 | The Ragana (Hopkins) | Precision/measuring | Catacombs | ✅ v1 + v2 | Hopkins eyes unsoftened |
 | 11 | The Catalyst | Bartender, story seeds | Main Floor | ✅ v1 + v2 | `the_catalyst.png` |
 | 12 | The Host | Inn host | Main Floor | ✅ v1 + v2 | `the_host.png` |
 | 13 | The Cook (Tesla) | Kitchen/alchemy | Main Floor | ✅ v1 + v2 | `the_cook.png` / `_v2.png` |

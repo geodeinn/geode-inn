@@ -25,7 +25,7 @@ Kathy is a dryad, but not the Greek kind — not a pale, slender nymph in a whit
 
 **Skin:** Bark-textured, but not uniformly. The bark follows the Celtic druidic patterns that the boy inherited — vine-like lines flowing across her forearms and temples, organic and deliberate. In places, the bark is smooth (the living wood, the green layer just under the surface). In places, it's rough and cracked (the old wood, the weathered side). The pattern matches the Inn-Tree's bark — because it IS the Inn-Tree's bark. She grew from the tree, or the tree grew from her, or they grew together. The distinction stopped mattering.
 
-**Hair:** Long, dark, woven with living vines and small leaves that change with the season. In the Inn's perpetual spring, the leaves are young green. When the Inn-Tree shifts (which it does rarely, subtly), her leaves shift too. She is the Inn's seasonal indicator — you can read the tree's mood by looking at her hair. The Crone has noted this. The Crone has a chart.
+**Hair:** Long, dark, woven with living vines and small leaves that change with the season. In the Inn's perpetual spring, the leaves are young green. When the Inn-Tree shifts (which it does rarely, subtly), her leaves shift too. She is the Inn's seasonal indicator — you can read the tree's mood by looking at her hair. The Ragana has noted this. The Ragana has a chart.
 
 **Eyes:** Deep green. Not emerald — forest green, the green of canopy light filtered through leaves. When she uses her druidic sight (Form Sight — the perception mode that sees the underlying structure of living things), her eyes shift to amber, the same amber as the Ent's sap. When she looks at the Inn-Tree with amber eyes, she sees herself.
 

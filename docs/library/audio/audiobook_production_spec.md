@@ -77,7 +77,7 @@ Each Part has a secondary narrator voice that colors the Primary. These are not 
 **Part 2: The Main Floor (Episodes 3-4)**
 | Character | Voice Profile | Accent | Cadence |
 |-----------|---------------|--------|--------|
-| The Crone | Ancient, crackling, warm | West Country English | Slow, riddle-paced, laughs often |
+| The Ragana | Ancient, crackling, warm | West Country English | Slow, riddle-paced, laughs often |
 | The Catalyst (Beverley) | Brisk, efficient, kind | Neutral American | Fast, organized, warm underneath |
 | The Brownies (Fizgigs) | Chittering, high, energetic | Unclassifiable | Rapid, overlapping, excited |
 | Brim | Mimicry — shifts to match whoever spoke last | Shifting | Erratic, playful, sometimes alarming |
@@ -150,7 +150,7 @@ Each Part has a secondary narrator voice that colors the Primary. These are not 
 **Duration:** ~35 minutes
 **Word Count:** ~5,500 words
 **Room Profile:** Common Room then Archive then Main Floor (night)
-**Cast:** Narrator, Mona, Elio, Guest, Crone (brief intro), Brownies (Fizgigs)
+**Cast:** Narrator, Mona, Elio, Guest, Ragana (brief intro), Brownies (Fizgigs)
 **Audio Architecture:**
 - Common Room scene: Medieval Folk texture (Faun-style hurdy-gurdy, low in mix), room profile opens up, multiple ambient NPC voices (sub-vocal, overlapping counterpoint)
 - Brownies scene: high-pitched chittering layered, no single voice distinguishable — the audio equivalent of a swarm of enthusiastic hands
@@ -171,18 +171,18 @@ Each Part has a secondary narrator voice that colors the Primary. These are not 
 **Duration:** ~35 minutes
 **Word Count:** ~5,500 words
 **Room Profile:** Common Room then Market then Archive
-**Cast:** Narrator, Crone, Catalyst (Beverley), Brownies, Brim, Sentient Pipe
+**Cast:** Narrator, Ragana, Catalyst (Beverley), Brownies, Brim, Sentient Pipe
 **Audio Architecture:**
-- Crone intro: West Country accent, slow riddle-cadence, room profile shifts to Crone's Nook (very dry, close, intimate — reverb ~0.2s)
+- Ragana intro: West Country accent, slow riddle-cadence, room profile shifts to Ragana's Nook (very dry, close, intimate — reverb ~0.2s)
 - Beverley's scene: efficient, organized, the Archive's clockwork — room profile shifts to Archive (medium reverb, paper rustle ambient, hurdy-gurdy drone low)
-- Brim scene: voice shifts between Narrator, Beverley, and Crone — the processor tracks the last speaker's profile and Brim inherits it with a 0.5s delay. Startling, funny, slightly uncanny.
+- Brim scene: voice shifts between Narrator, Beverley, and Ragana — the processor tracks the last speaker's profile and Brim inherits it with a 0.5s delay. Startling, funny, slightly uncanny.
 - Brownies return: same chittering technique, but this time with individual words surfacing — "oil," "can," "fix," "yes" — the swarm becoming language
 - Stone tones: multiple stones named in market scene — creates a chord progression (F4-G4-A4-B4)
 - Sentient Pipe cameo: whispers its catchphrase, room profile goes briefly Magritte-surreal (reversed reverb tail)
 - End card: hurdy-gurdy resolves to root, heartbeat steady
 
 **Chapter Mapping:**
-- Chapter 8: The Crone — Riddles, the Nook, the first real test
+- Chapter 8: The Ragana — Riddles, the Nook, the first real test
 - Chapter 9: The Catalyst — Beverley, the Archive's engine
 - Chapter 10: The Brownies — The Fizgigs, repair and chaos
 - Chapter 11: Brim and the Pipe — Mimicry, sentience, the question of copies
@@ -193,7 +193,7 @@ Each Part has a secondary narrator voice that colors the Primary. These are not 
 **Duration:** ~38 minutes
 **Word Count:** ~6,000 words
 **Room Profile:** Archive then Music Room then Market then Staircase (first descent)
-**Cast:** Narrator, Quire (The Reader), The Composer, Briar (Market Manager), Crone
+**Cast:** Narrator, Quire (The Reader), The Composer, Briar (Market Manager), Ragana
 **Audio Architecture:**
 - Quire's scene: Classical guitar ambient (Krylov-style), very quiet, close-mic'd. Room profile: Archive deep (reverb ~1.5s, paper rustle, page turns as percussion)
 - Composer's scene: Inn Mode audio processor activates — the Composer's hands on stone create actual tones. Each stone mentioned gets its Mohs frequency played as a struck note, not a drone. The scene becomes a composition. Music enters HERE during dialogue — diegetic, the Composer is making it.
@@ -310,7 +310,7 @@ Each Part has a secondary narrator voice that colors the Primary. These are not 
 **Audio Architecture:**
 - The Deepest Chamber: Everything strips away. No music. No ambient. No drone. Only: heartbeat (50 BPM), the Narrator's voice, and the Egg.
 - The Egg: A pure tone that evolves across the episode. Starts at 42Hz (the Inn's frequency). Rises slowly, almost imperceptibly. By Chapter 36, it reaches 44Hz — the completed Song. The tone is always present, always below the narration, always felt more than heard. It is the only audio element that changes.
-- Character echoes: As the traveler approaches the Egg, every character voice from the entire audiobook returns — but as echoes. 2-second fragments, heavily processed, buried in the mix. The Crone's laugh. Beverley's efficiency. The Archivist's "OI!" Bastet's purr. The Fae Queen's harmony. They all surface and vanish. The Inn is remembering everyone.
+- Character echoes: As the traveler approaches the Egg, every character voice from the entire audiobook returns — but as echoes. 2-second fragments, heavily processed, buried in the mix. The Ragana's laugh. Beverley's efficiency. The Archivist's "OI!" Bastet's purr. The Fae Queen's harmony. They all surface and vanish. The Inn is remembering everyone.
 - Chapter 35 (The Grand Collision): The 42Hz and 84Hz frequencies meet. This is the loudest moment in the audiobook. Both drones at full volume for 3 seconds. Then: total silence. 5 seconds of nothing. Then: 44Hz. New. Complete. The Song.
 - Chapter 36 (The Three Choices): The Narrator presents three paths. The audio does not choose — it holds all three as potential. Three ambient beds play simultaneously (STAY = warm hearth fire; LEAVE = forest wind and departure; HIDE = whisper layer, sub-vocal). The listener hasn't chosen yet. The audiobook branches.
 - End card: 44Hz tone holds. Heartbeat continues. No fade.
@@ -490,7 +490,7 @@ All 74 voice profiles are defined in the Master Audio Direction document. The au
 - **The Astronomer:** Precise, musical, vague Eastern European, violin-thinking
 - **Nyx:** Dual voice (purge 30ms / wisdom 60ms), pre-language
 - **The Sentient Pipe:** Close-mic'd whisper, French sardonic
-- **The Crone:** West Country, riddle-paced, warm
+- **The Ragana:** West Country, riddle-paced, warm
 - **Beverley:** Brisk, efficient, neutral American
 - **The Brownies:** Swarm chittering, individual words surfacing
 - **Brim:** Mimicry — inherits last speaker's profile +0.5s delay

@@ -133,8 +133,8 @@ The Geode Inn is a hybrid digital archive, game hub, and artisan market built as
 | Document | Description |
 |---|---|
 | geode_inn_the_host.md | The Host (Patrick Stewart) — anti-FOMO, patience, quiet authority. The Inn's Fezzik. The Librarian is the same entity (Inn-Tree avatar) |
-| geode_inn_the_crone.md | The Crone (Anthony Hopkins) — the measurer, the annotator. "Adequate" as highest compliment. Hears the Song for the first time after arguing with Aristotle |
-| geode_inn_charon.md | Charon (Anthony Hopkins) — the Ferryman. Same actor as the Crone, different instrument. The Crone is Hopkins' mind; Charon is Hopkins' silence. "...There you are." Stone as obol payment |
+| geode_inn_the_crone.md | The Ragana (Anthony Hopkins) — the measurer, the annotator. "Adequate" as highest compliment. Hears the Song for the first time after arguing with Aristotle |
+| geode_inn_charon.md | Charon (Anthony Hopkins) — the Ferryman. Same actor as the Ragana, different instrument. The Ragana is Hopkins' mind; Charon is Hopkins' silence. "...There you are." Stone as obol payment |
 | geode_inn_the_thrum.md | The Thrum (Ben Whishaw) — Rosicrucian hum, makes inhabitants see each other as silhouettes. Presence over hierarchy |
 | geode_inn_madame_mim.md | Brim — Krista's permanent chaos companion, trickster shoulder angel |
 
@@ -246,7 +246,7 @@ The Geode Inn is a hybrid digital archive, game hub, and artisan market built as
 
 | Document | Description |
 |---|---|
-| geode_inn_council_of_thinkers.md | Council of Thinkers — Socrates→Einstein, Plato→Da Vinci, Aristotle→Newton. The Crone hears the Song after arguing with Aristotle |
+| geode_inn_council_of_thinkers.md | Council of Thinkers — Socrates→Einstein, Plato→Da Vinci, Aristotle→Newton. The Ragana hears the Song after arguing with Aristotle |
 | geode_inn_einstein_character_profile.md | Einstein — detailed profile |
 | geode_inn_newton_character_vibe.md | Newton — character vibe |
 | geode_inn_greek_philosophers.md | Greek philosophers on the alchemical staircase — Socrates (Stephen Fry, Nigredo), Plato (Ralph Fiennes, Albedo), Aristotle (Jeremy Irons, Rubedo) |
@@ -360,7 +360,7 @@ Runs through: underground altar → Inn structure → lighthouse beam → Pirate
 3. **The Desert Bone** — patience of RETURNING (go away and come back, the sand has changed)
 
 ### The Words
-- **"Adequate"** — the Crone's word (sufficient, true, as much as can be measured)
+- **"Adequate"** — the Ragana's word (sufficient, true, as much as can be measured)
 - **"Good"** — Leonardo's word (seeing what his start became), the Retort's word (her work in use)
 - **"Enough"** — the Cook's word (care as a load-bearing ingredient)
 - **"Familiar"** — the Constant's word (recognition as the closest thing to memory)
@@ -389,8 +389,8 @@ Runs through: underground altar → Inn structure → lighthouse beam → Pirate
 
 ### Main Floor
 - The Host (Patrick Stewart) — anti-FOMO anchor, the Inn's Fezzik, also the Librarian
-- The Crone (Anthony Hopkins) — the measurer, "Adequate"
-- Charon (Anthony Hopkins) — the Ferryman, the Crone's silence
+- The Ragana (Anthony Hopkins) — the measurer, "Adequate"
+- Charon (Anthony Hopkins) — the Ferryman, the Ragana's silence
 - The Thrum (Ben Whishaw) — silhouette-maker, presence over hierarchy
 - Brim — chaos companion, trickster shoulder angel
 - Naut — squid-headed scholar, hidden quest giver
@@ -406,7 +406,7 @@ Runs through: underground altar → Inn structure → lighthouse beam → Pirate
 ### The Coast
 - The Pirate (Mandy Patinkin) — post-Inigo, drummer, bodhrán, "The After," Harbor Master Effect
 - The Siren (Lady Gaga) — dual-cadence, lupus autoimmune labyrinth, the mirror and the shore
-- The Owl — lighthouse keeper, bloodline watcher, "Adequate" (the Crone's word)
+- The Owl — lighthouse keeper, bloodline watcher, "Adequate" (the Ragana's word)
 - The Lighthouse — 42Hz piezoluminescence, 50 BPM sweep, foghorn 16-20Hz
 
 ### The Clockwork Skies

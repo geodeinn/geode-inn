@@ -70,7 +70,7 @@ The game does not tell the player this. There is no tutorial. No NPC explains th
 
 **The Room:** A golden chamber. The Stone is behind a locked door. An NPC holds the key.
 
-**The NPC:** Old. Tired. Has heard every answer. Not the Crone — something older. Possibly the Archive itself given a voice. Sits in a chair by the door. Doesn't look up when the player enters. Says, without prompting: "What will you do with the Stone?"
+**The NPC:** Old. Tired. Has heard every answer. Not the Ragana — something older. Possibly the Archive itself given a voice. Sits in a chair by the door. Doesn't look up when the player enters. Says, without prompting: "What will you do with the Stone?"
 
 **The Test:** The game offers multiple-choice answers. Every option is a USE:
 - "I will use it to gain immortality."

@@ -338,7 +338,7 @@ Spoken once, in Quest 1. Never repeated. If Lozen ever says it again, it means t
 - **The Builder (Elio):** Lozen has never met the Builder. The Sentinel guards a building built by someone they've never seen. The questline ends with Lozen on the outside of the Builder's door. The guard never meets the architect. That's the design.
 - **The Artisan Thief (class interaction):** Both INFJs. Same architecture, different expressions. The Thief makes; the Sentinel guards. Together, they're the market floor.
 - **The Chameleon Druid (class interaction):** The Sentinel is the Druid's anchor. (See Charles above.)
-- **The Librarian Crone (class interaction):** Intelligence rivalry. The Crone accumulates; the Sentinel perceives.
+- **The Librarian Ragana (class interaction):** Intelligence rivalry. The Ragana accumulates; the Sentinel perceives.
 - **The Tinkering Weeaboo (class interaction):** Mutual respect for competence. The Tinker builds; the Sentinel tests.
 
 ---

@@ -280,7 +280,7 @@ Each successful voyage rewards:
 - **Stones** (specific to the crew member who performed best)
 - **Ship resources** (canvas, brass, leather — for upgrades)
 - **Copper beads** (the currency — the 79Hz metal, the Inn's foundational material)
-- **Voyage logs** (documentary items — the Navigator's record of the route, which can be sold to the Clockwork Maker or donated to the Crone's archive)
+- **Voyage logs** (documentary items — the Navigator's record of the route, which can be sold to the Clockwork Maker or donated to the Ragana's archive)
 
 ### Crew Member Stones (Station Mastery Rewards)
 

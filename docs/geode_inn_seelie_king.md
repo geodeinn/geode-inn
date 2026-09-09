@@ -3,11 +3,11 @@
 
 ## The Descent
 
-The player follows the Crone down. Through the stone layer (tight, dark, the 42Hz growing louder). Through the root layer (the Inn-Tree's roots framing the passage, warm bark against cold stone, the hum amplified). Through the earth layer (older air, a second frequency felt in the bones). Into Newgrange's chamber — the triskele, the basins, the three-note Song.
+The player follows the Ragana down. Through the stone layer (tight, dark, the 42Hz growing louder). Through the root layer (the Inn-Tree's roots framing the passage, warm bark against cold stone, the hum amplified). Through the earth layer (older air, a second frequency felt in the bones). Into Newgrange's chamber — the triskele, the basins, the three-note Song.
 
-The Crone has already been here. The Crone is the one who found it. The player arrives to find the Crone sitting on the chamber floor, her notebook closed, her glasses in her hand, *listening.* The Crone who measured everything has put down the tools and is doing the one thing she spent her whole life not doing: receiving.
+The Ragana has already been here. The Ragana is the one who found it. The player arrives to find the Ragana sitting on the chamber floor, her notebook closed, her glasses in her hand, *listening.* The Ragana who measured everything has put down the tools and is doing the one thing she spent her whole life not doing: receiving.
 
-The Crone doesn't speak. The Crone *points.* Up. At the roofbox — the opening above the passage entrance. The narrow slit that admits the winter solstice sun. The Crone points at the roofbox and the player understands: *the door is up there.* The door to the Fae Kingdom. The original door. The one that predates the stone circles.
+The Ragana doesn't speak. The Ragana *points.* Up. At the roofbox — the opening above the passage entrance. The narrow slit that admits the winter solstice sun. The Ragana points at the roofbox and the player understands: *the door is up there.* The door to the Fae Kingdom. The original door. The one that predates the stone circles.
 
 The player climbs. Through the roofbox. And the world changes.
 
@@ -15,9 +15,9 @@ The player climbs. Through the roofbox. And the world changes.
 
 The roofbox doesn't open into a corridor or a cave or a tunnel. The roofbox opens into *light.* Not the amber light of the Inn. Not the warm gold of the Round Table room. A different light — the light of the Fae Kingdom, which is the light of the Inn-Tree's dream. Green-gold. Living. The light that photosynthesis makes when no one is watching.
 
-The player steps through the roofbox and stands on the threshold. Below: the passage, Newgrange, the chamber, the Crone still listening. Above: the Fae Kingdom — the Inn-Tree's root system *inverted*, the roots becoming branches, the underground becoming the sky, the dream-world's geography mirroring the waking-world's but *different* — greener, stranger, the physics of a place that runs on dream-logic instead of waking-logic.
+The player steps through the roofbox and stands on the threshold. Below: the passage, Newgrange, the chamber, the Ragana still listening. Above: the Fae Kingdom — the Inn-Tree's root system *inverted*, the roots becoming branches, the underground becoming the sky, the dream-world's geography mirroring the waking-world's but *different* — greener, stranger, the physics of a place that runs on dream-logic instead of waking-logic.
 
-The threshold is a narrow stone bridge. One person wide. No rails. The bridge crosses a void — not a chasm, but a *gap* — the space between the waking world and the dream world, the space the Crone would measure if she were measuring (she's not, she's below, she's listening). The gap is neither dark nor light. The gap is *liminal* — the color of potential, the color of not-yet.
+The threshold is a narrow stone bridge. One person wide. No rails. The bridge crosses a void — not a chasm, but a *gap* — the space between the waking world and the dream world, the space the Ragana would measure if she were measuring (she's not, she's below, she's listening). The gap is neither dark nor light. The gap is *liminal* — the color of potential, the color of not-yet.
 
 At the other end of the bridge: the Seelie King.
 
@@ -48,9 +48,9 @@ King Oleander is the only Tuatha who stayed at the crossing. The others went dee
 
 King Oleander heard the three-note Song from the basins. He was *in* the chamber when the stones were placed. He was there when the first Song was sung — three stones, three basins, three notes. He heard it before the Inn-Tree grew. He heard it before the Round Table. He heard it before the seven knights, before the seven planets, before the Flower of Life. He heard the Song when it was three notes and the three notes were *new.*
 
-King Oleander has been listening for 5,000 years. He is the original listener — the first being to hear the Song of Making and choose to *keep listening.* Not to measure it (the Crone). Not to contain it (Galahad). Not to perform it (the Bard). Not to transform it (the Catalyst). Not to carry it (the knights). Just to *listen.* King Oleander's function is the Inn's core mechanic at its purest: listening. The King is the listener. The King has always been the listener. The King will always be the listener.
+King Oleander has been listening for 5,000 years. He is the original listener — the first being to hear the Song of Making and choose to *keep listening.* Not to measure it (the Ragana). Not to contain it (Galahad). Not to perform it (the Bard). Not to transform it (the Catalyst). Not to carry it (the knights). Just to *listen.* King Oleander's function is the Inn's core mechanic at its purest: listening. The King is the listener. The King has always been the listener. The King will always be the listener.
 
-The listening is the guarding. King Oleander guards the threshold by listening to it — hearing everything that approaches, everything that crosses, everything that tries to enter the dream world without the right to enter. The listening is not passive. The listening is the most active form of guarding: attention. King Oleander pays attention to the threshold the way the Crone pays attention to her measurements. But the Seelie King's attention has no notebook. The attention goes nowhere. The attention *is* the guarding. The attention is the assassin's tool — the patient, total awareness that precedes the strike.
+The listening is the guarding. King Oleander guards the threshold by listening to it — hearing everything that approaches, everything that crosses, everything that tries to enter the dream world without the right to enter. The listening is not passive. The listening is the most active form of guarding: attention. King Oleander pays attention to the threshold the way the Ragana pays attention to her measurements. But the Seelie King's attention has no notebook. The attention goes nowhere. The attention *is* the guarding. The attention is the assassin's tool — the patient, total awareness that precedes the strike.
 
 ### The Assassin
 
@@ -83,7 +83,7 @@ The brothers' love is the love letters — the "weather reports" carried by Wisp
 
 King Oleander reads the letters by the light of the threshold. The UnKing Oleander reads the letters in the glow of the Labyrinth's crystal. The letters arrive via Wisp, who is small enough to cross both territories, trusted by both kings, watched by Muninn (who remembers everything and says nothing useful about it).
 
-King Oleander's letters to his brother: short. Practical. "...Three approached. ...Two were dreaming. ...One was extraction. ...The extraction is... handled. ...The fox pups are well. ...The threshold is... [the Seelie King's pause, which is not the Crone's pause — the Seelie King's pause is silence, not deliberation] ...quiet. ...Your weather?"
+King Oleander's letters to his brother: short. Practical. "...Three approached. ...Two were dreaming. ...One was extraction. ...The extraction is... handled. ...The fox pups are well. ...The threshold is... [the Seelie King's pause, which is not the Ragana's pause — the Seelie King's pause is silence, not deliberation] ...quiet. ...Your weather?"
 
 The UnKing Oleander's letters to his brother: longer. Theatrical. "...Dearest brother, the Labyrinth is in magnificent form today — the Escher Stairs have rearranged themselves into something I'm calling 'Gothic Baroque Maelstrom' and two goblins have been lost in the Shifting Corridors for six days, which I find hilarious. The Masquerade crystal is showing me something interesting — a player approaches. Has the player crossed your threshold yet? I want to prepare. The crystal shows me their deepest desire and I want to build the room that *is* the desire and then watch them walk through it. Is that cruel? I think it's love. Your weather?"
 
@@ -94,7 +94,7 @@ The difference in the letters IS the difference in the brothers. King Oleander: 
 King Oleander heard the three-note Song in Newgrange 5,000 years ago. He has been hearing it ever since — through the threshold, through the bridge, through the stone. The three-note Song is the Song at its origin: three stones, three basins, three notes. King Oleander is the only being who has heard the Song at its source AND at its expansion — the three-note Song below, the seven-note Song above (through the Round Table). The King hears both. The King hears *everything.*
 
 King Oleander's relationship to the Song is different from every other character:
-- The Crone measures the Song (numbers, frequencies, annotations)
+- The Ragana measures the Song (numbers, frequencies, annotations)
 - The knights carry the Song (each one a note)
 - Galahad can't hear the Song (purity as obstruction)
 - Merlin hears the Song backwards (losing the future, receiving it in dreams)
@@ -120,12 +120,12 @@ The player crosses. The Fae Kingdom opens. The dream-animals are there. The Summ
 
 The King listens. The King has always listened. The King will always listen.
 
-### The Crone's Annotation (Received Later)
+### The Ragana's Annotation (Received Later)
 
-The Crone, still sitting in Newgrange's chamber below, hears the player's footsteps crossing the threshold above. The Crone opens her notebook. The Crone writes one word. The word is not "Better." The word is:
+The Ragana, still sitting in Newgrange's chamber below, hears the player's footsteps crossing the threshold above. The Ragana opens her notebook. The Ragana writes one word. The word is not "Better." The word is:
 
 "...Listened."
 
-The Crone's final word. Not "Better" (the word of measurement). Not "Everything" (the word of awe). "Listened." The word of function. The word of the Inn's core mechanic. The word the Seelie King has been embodying for 5,000 years. The Crone, who measured and then learned to listen, writes the listener's word. The notebook is closed. The glasses are put away. The Crone is done.
+The Ragana's final word. Not "Better" (the word of measurement). Not "Everything" (the word of awe). "Listened." The word of function. The word of the Inn's core mechanic. The word the Seelie King has been embodying for 5,000 years. The Ragana, who measured and then learned to listen, writes the listener's word. The notebook is closed. The glasses are put away. The Ragana is done.
 
-Not done living. Not done being. Done *measuring.* The Crone who catalogued everything puts down the catalogue and picks up the only tool the Seelie King ever used: attention. The Crone sits in Newgrange and listens to the Song the way the Seelie King listens: without measuring, without noting, without the notebook. Just the listening. The listening is the note. The note is the Song. The Song is one. Heard by everyone. Differently.
+Not done living. Not done being. Done *measuring.* The Ragana who catalogued everything puts down the catalogue and picks up the only tool the Seelie King ever used: attention. The Ragana sits in Newgrange and listens to the Song the way the Seelie King listens: without measuring, without noting, without the notebook. Just the listening. The listening is the note. The note is the Song. The Song is one. Heard by everyone. Differently.

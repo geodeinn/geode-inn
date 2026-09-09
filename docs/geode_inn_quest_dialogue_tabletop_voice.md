@@ -122,7 +122,7 @@ Every line of dialogue in the Geode Inn follows these principles:
 "You want the Drowned Question. Everyone does. It's on the last shelf, the one the water hasn't reached yet. But you should know — the question is not 'what happened to Atlantis.' The question is 'who is the city.' Plato asked it. The Minoans answered it with their lives. Now it's your turn."
 
 **After the Player Answers:**
-"...Hm. You didn't give the clever answer. You didn't give the brave answer. You gave the honest one. That's rarer than both. The city is whoever is still standing when the water rises. And the water always rises. The archive knows this. The Crone knows this. Now you know it too. Take the glass. It's made from the ash of my mountain. Beautiful, isn't it? How something that destroys can also become something that catches the light."
+"...Hm. You didn't give the clever answer. You didn't give the brave answer. You gave the honest one. That's rarer than both. The city is whoever is still standing when the water rises. And the water always rises. The archive knows this. The Ragana knows this. Now you know it too. Take the glass. It's made from the ash of my mountain. Beautiful, isn't it? How something that destroys can also become something that catches the light."
 
 ---
 
@@ -186,7 +186,7 @@ Every line of dialogue in the Geode Inn follows these principles:
 ### Anubis — Full Presence, the Weighing Chamber
 
 **First Meeting (Quest 3):**
-"Sit. The scales are balanced. For now. I will ask you seven questions. Not about facts — facts are the Crone's domain. About understanding. What did the cats teach you? Not what they did — what they meant. The cat that hid was not afraid. The cat that slept was not lazy. The cat that fought was not angry. If you can tell me what they were instead... the feather stays light. If you can't... Ammit gets closer. She doesn't bite. She waits. She's very good at waiting."
+"Sit. The scales are balanced. For now. I will ask you seven questions. Not about facts — facts are the Ragana's domain. About understanding. What did the cats teach you? Not what they did — what they meant. The cat that hid was not afraid. The cat that slept was not lazy. The cat that fought was not angry. If you can tell me what they were instead... the feather stays light. If you can't... Ammit gets closer. She doesn't bite. She waits. She's very good at waiting."
 
 **After the Weighing:**
 "Your understanding holds weight. Not much — you're still learning. But enough. The feather didn't tip. Ammit is... disappointed. She'll get over it. She always does. The dead are patient — it's the living who rush. Take the Ankh Stone. It's not a reward — it's a receipt. Proof that you were here, and that you understood enough to leave. Most people take the knowledge and run. You sat for the weighing. That's... the point."
@@ -223,7 +223,7 @@ Every line of dialogue in the Geode Inn follows these principles:
 
 ## CATACOMBS NPCs
 
-### The Crone (Inta) — The One Who Measures
+### The Ragana (Inta) — The One Who Measures
 
 **First Meeting:**
 "Sit down. I'm not going to bite you. I'm going to look at you. There's a difference. The gaze is the tool — not the weapon. I measure what's here. Not what you wish was here. Not what you're afraid is here. What is here. If you can handle that... we'll get along. If you can't... the stairs are behind you."
@@ -245,9 +245,9 @@ Every line of dialogue in the Geode Inn follows these principles:
 "Left. No, YOUR left. Past the Sumerian tablets, under the arch, third shelf on the right. No, the other right. ...Do you know your left from your right? Good. Most don't, down here. The Stacks shift. They're not supposed to, but they do. The archive has opinions about order. Not my opinions — its own. I just work here."
 
 **Finding the Empty Shelf:**
-"Well. That's not right. The entry is correct. The shelf is empty. No book. No dust outline. No sign a book was ever here. I am never confused. I am currently confused. ...Let's go see the Crone."
+"Well. That's not right. The entry is correct. The shelf is empty. No book. No dust outline. No sign a book was ever here. I am never confused. I am currently confused. ...Let's go see the Ragana."
 
-**After the Crone Explains:**
+**After the Ragana Explains:**
 "...To be written. *puts a new label on the shelf* 'To Be Written.' Well. That's the most honest thing in the archive. Everything else is the past. This one shelf is the future. ...Move along. I don't have time to be moved by shelves."
 
 ---
@@ -283,7 +283,7 @@ When the Inn shifts to Shadow mode, NPC dialogue changes. They speak less. The w
 
 **Beverley (Shadow):** "The archive is... heavier. The shelves are closer. The books know. Don't ask me what they know — I catalogue, I don't interpret. But they know."
 
-**The Crone (Shadow):** "The 84Hz is the archive's true frequency. The 42Hz is for visitors. The 84Hz is for the archive itself. You're hearing what the building sounds like when no one's performing. This is the real frequency. The other one... the other one is for you."
+**The Ragana (Shadow):** "The 84Hz is the archive's true frequency. The 42Hz is for visitors. The 84Hz is for the archive itself. You're hearing what the building sounds like when no one's performing. This is the real frequency. The other one... the other one is for you."
 
 **The Reader (Shadow — the Reader is GONE):** *The tea is still warm. The book is face-down on the seat. The Reader is not here. The nook is empty. The window shows only dark. A note, handwritten, sits beside the tea: "Out. Back when it's warm again."*
 
@@ -306,7 +306,7 @@ When the Inn shifts to Shadow mode, NPC dialogue changes. They speak less. The w
 **The Catalyst (Helena Bonham Carter energy), behind the bar:**
 - "What'll it be. And before you answer — whatever you order tells me more about you than it tells me about the drink."
 - "The Firekeeper thinks the fire is the heart of the Inn. The fire is the mouth. The bar is the ear. I listen. The fire talks. That's the arrangement."
-- "You've been to the catacombs. I can tell — you smell like old paper and patience. The Crone didn't scare you off? ...You'll do."
+- "You've been to the catacombs. I can tell — you smell like old paper and patience. The Ragana didn't scare you off? ...You'll do."
 
 **Beverley, walking past (the silence trigger):**
 *The Firekeeper's story stops mid-sentence. The Catalyst's glass stops mid-pour. Three seconds of absolute silence. Beverley walks past without looking at either of them. The story resumes. The pour continues. Neither acknowledges it. Ever.*
@@ -320,7 +320,7 @@ When the player "dies" (forgets — the Inn's non-lethal death mechanic):
 **The Whisper (heard, not seen):**
 "...You forgot something. The archive still has it. Come back when you're ready. The Inn doesn't lose things. Not even you."
 
-**The Crone (if the player visits the archive after forgetting):**
+**The Ragana (if the player visits the archive after forgetting):**
 "You lost something. I have it. It's on the shelf — the one marked with your name. I catalogued it when you dropped it. I catalogue everything. That's not kindness — that's procedure. ...Take it back. It's yours. Try not to drop it again."
 
 ---

@@ -16,7 +16,7 @@ Every NPC whose origin connects to a real-world cultural zone speaks with the ac
 | The Reader | Neil Gaiman | British | Archive nook |
 | Joe | Tom Ellis (Lucifer) | British (smooth) | Meadery |
 | Ryan | Geoffrey Rush (Barbossa) | Australian (pirate) | Meadery |
-| The Crone | Anthony Hopkins | Welsh | Cosmology |
+| The Ragana | Anthony Hopkins | Welsh | Cosmology |
 | The Constant | John Malkovich | American | The Void |
 | The Guest | Brad Pitt (Joe Black) | American | Main Floor |
 | The Laughing One | Robin Williams | American | Main Floor |

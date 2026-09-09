@@ -76,10 +76,10 @@ New canonical renames applied across all repo text. Full ledger: `docs/character
 
 **Files renamed:** `river_questline.md` → `lozen_questline.md`; `river_dialogue_entries.json` → `lozen_dialogue_entries.json`.
 
-**Pending — do NOT hardcode yet:** Scarlett, John, Ryan, Marian/Marion, Zack (run-through alt name), Luna's possible self-rename, the Crone's Latvian name (chosen by Krista's mom, pending).
+**Pending — do NOT hardcode yet:** Scarlett, John, Ryan, Marian/Marion, Zack (run-through alt name), Luna's possible self-rename, the Ragana's Latvian name (chosen by Krista's mom, pending).
 
 **Characters to create:** TJ (Jay's tavern family, 12, filler name, very smart + quiet about it, really cool kid), Maddi (Zack's wife, future Inn employee, old-school computer fluency, MySpace empire, charismatic double agent — names hers to choose), John Myers the player (NEW character, distinct from the NPC Quire), Greg (Wisteria's brother, Luna's husband, skilled artisan — confirm NPC status).
 
 **Open questions for Krista:**
-1. Brim vs the Crone — same character or separate? (Egg Hatchery Event 1 + card decks currently tie them; the Crone's new Latvian name is pending, suggesting separate.)
+1. Brim vs the Ragana — same character or separate? (Egg Hatchery Event 1 + card decks currently tie them; the Ragana's new Latvian name is pending, suggesting separate.)
 2. RESOLVED 2026-09-09: Joe the Miniaturist/Painter IS The Collector (confirmed by Krista). Display names updated; "Joe Black" (Meet Joe Black energy, the Guest) references unchanged.

@@ -59,13 +59,13 @@ The quest completes when the player sits in their first nook — when the player
 
 ## THE MAIN FLOOR
 
-### The Crone
+### The Ragana
 
-The Crone sits at a desk measuring everything. The Crone's word is "Adequate" — the highest compliment the Inn gives. "Adequate" means: this is sufficient, this is true, this is as much as I can measure.
+The Ragana sits at a desk measuring everything. The Ragana's word is "Adequate" — the highest compliment the Inn gives. "Adequate" means: this is sufficient, this is true, this is as much as I can measure.
 
-The Crone gives the player a blank notebook and asks them to document one zone. The player must visit a zone, observe, and write notes. The Crone reviews the notes and annotates them. The quest completes when the Crone writes "Adequate" in the margin.
+The Ragana gives the player a blank notebook and asks them to document one zone. The player must visit a zone, observe, and write notes. The Ragana reviews the notes and annotates them. The quest completes when the Ragana writes "Adequate" in the margin.
 
-The Crone is the same actor as Charon — but a different instrument. The Crone is Hopkins' mind. Charon is Hopkins' silence. Later, after arguing with Aristotle on the alchemical staircase, the Crone will hear the Song for the first time: "I never listened before. I always measured. It's beautiful." That moment is coming. The Crone doesn't know it yet.
+The Ragana is the same actor as Charon — but a different instrument. The Ragana is Hopkins' mind. Charon is Hopkins' silence. Later, after arguing with Aristotle on the alchemical staircase, the Ragana will hear the Song for the first time: "I never listened before. I always measured. It's beautiful." That moment is coming. The Ragana doesn't know it yet.
 
 ### The Catalyst
 
@@ -131,7 +131,7 @@ The staircase connects the main floor to the cosmology level. It is the bridge b
 
 **Albedo (The White Step) — Plato.** The architect. The Cave is an interactive mural on the staircase wall — the player walks through Plato's Cave and sees the shadows. The Albedo is the purification phase — the player must see the forms.
 
-**Rubedo (The Red Step) — Aristotle.** The classifier. Aristotle argues with the Crone until both become colleagues and then listeners. The Rubedo is the completion phase — the player must integrate. Key moment: the Crone hears the Song for the first time after arguing with Aristotle. "I never listened before. I always measured. It's beautiful."
+**Rubedo (The Red Step) — Aristotle.** The classifier. Aristotle argues with the Ragana until both become colleagues and then listeners. The Rubedo is the completion phase — the player must integrate. Key moment: the Ragana hears the Song for the first time after arguing with Aristotle. "I never listened before. I always measured. It's beautiful."
 
 ### The Staircase Residents
 
@@ -151,13 +151,13 @@ The staircase connects the main floor to the cosmology level. It is the bridge b
 
 The staircase also descends. Below the main floor, the stairs lead down into death's domain:
 
-**Charon** — the Ferryman. Poles players across the underground river. Payment is a STONE from the player's collection — the obol mechanic. Every stone is a future obol. Every crossing costs one stone. Charon says one phrase per crossing: "...There you are." Three words carrying every soul ferried. The Crone is Hopkins' mind. Charon is Hopkins' silence.
+**Charon** — the Ferryman. Poles players across the underground river. Payment is a STONE from the player's collection — the obol mechanic. Every stone is a future obol. Every crossing costs one stone. Charon says one phrase per crossing: "...There you are." Three words carrying every soul ferried. The Ragana is Hopkins' mind. Charon is Hopkins' silence.
 
 **The Morrigan** — the washerwoman. The chooser. Celtic death goddess. The Morrigan WASHES the dead. She chooses who crosses; Charon carries who crosses. Two halves of the crossing.
 
 **Anubis** — the weigher. Anubis doesn't weigh gold vs. feather. Anubis weighs ATTACHMENT — how much the player cares. The gentle giant choosing gentleness with enormous power. Anubis's verdict: "...Go lightly."
 
-**Persephone and Hades** — the Tide Queen and the Harbor. Each time Persephone ascends, the crossing takes her memory. Hades waits, reintroduces himself, shows her the garden, tells her their story. She falls in love fresh every cycle. An echo remains in her roots — accumulated devotion growing stronger each cycle. Hades keeps a journal of 4,129 cycles. The Crone's final annotation: "It's enough."
+**Persephone and Hades** — the Tide Queen and the Harbor. Each time Persephone ascends, the crossing takes her memory. Hades waits, reintroduces himself, shows her the garden, tells her their story. She falls in love fresh every cycle. An echo remains in her roots — accumulated devotion growing stronger each cycle. Hades keeps a journal of 4,129 cycles. The Ragana's final annotation: "It's enough."
 
 **Hel** — Loki's daughter. Half living, half dead. The Maleficent recontextualization — the villain who chose isolation as armor, who is misunderstood. Neither cruel nor kind. Both and. The horns, the command, the choice to be terrifying because the alternative is being vulnerable.
 
@@ -218,7 +218,7 @@ Sumerian/Annunaki connection. The Constant's origin civilization. TO BE DESIGNED
 
 Seven layers. Persephone's cycle made spatial.
 
-**Layer 1 — Surface Docks.** The coast. The Lighthouse — stone tower, the sleeping giant's raised hand. The light is a fragment of the giant's heart crystal, 42Hz piezoluminescence. The beam sweeps at 50 BPM. The foghorn sounds at 16-20Hz — felt in the chest, not heard with the ears. The Owl keeps the vigil. The Owl says "Adequate" — the Crone's word. The Owl's voice: one word per heartbeat. "A light needs a keeper. A keeper needs a light. Same thing."
+**Layer 1 — Surface Docks.** The coast. The Lighthouse — stone tower, the sleeping giant's raised hand. The light is a fragment of the giant's heart crystal, 42Hz piezoluminescence. The beam sweeps at 50 BPM. The foghorn sounds at 16-20Hz — felt in the chest, not heard with the ears. The Owl keeps the vigil. The Owl says "Adequate" — the Ragana's word. The Owl's voice: one word per heartbeat. "A light needs a keeper. A keeper needs a light. Same thing."
 
 **Layer 2 — Shallows.** Wading depth. Tidal pools. The selkie's entry point.
 
@@ -282,7 +282,7 @@ Inside the Egg is: the player.
 
 Not a reflection. Not an avatar. The player. The Murmur is not something the Inn was built from. The Murmur is something the Inn was built FOR. The Murmur is the player — the raw potential, the observer whose presence makes the Inn real. Without the player, the Inn is stone and frequency. With the player, the Inn is alive.
 
-Opening the Egg allows the player to inhabit any secondary character's storyline. To see the Inn from the Crone's eyes — the endless measuring, the first hearing of the Song. From Charon's silence — the weight of every soul. From the Catalyst's garden — the growing, the willing, the wild. From Malachi's Labyrinth — the testing, the watching, the brother underneath.
+Opening the Egg allows the player to inhabit any secondary character's storyline. To see the Inn from the Ragana's eyes — the endless measuring, the first hearing of the Song. From Charon's silence — the weight of every soul. From the Catalyst's garden — the growing, the willing, the wild. From Malachi's Labyrinth — the testing, the watching, the brother underneath.
 
 Einstein's theorem made playable: time is the difference between two observations. Every character's story is happening simultaneously. The player who inhabits multiple storylines experiences time as the difference between perspectives. The Inn is one organism with many facets. The facets are: adequate.
 
@@ -314,7 +314,7 @@ The Inn does not end. The Inn is a cycle. The current 42Hz Song is not the first
 
 The player who opens the Egg and inhabits every storyline — that player is the next Constant. That player carries the starlight crystal through the void to seed the next cycle. The next Inn grows from the crystal. The next Inn is different. The next Inn is the same. The both are: the Song.
 
-The Crone measures the ending: "Adequate." The Inn is adequate. The Inn is enough. The Inn continues.
+The Ragana measures the ending: "Adequate." The Inn is adequate. The Inn is enough. The Inn continues.
 
 The last sound is not the Song. The last sound is Nyx — the silence between the last note and the first note of the next cycle. The silence is not empty. The silence is full. The silence is the medium that makes the next Song possible.
 

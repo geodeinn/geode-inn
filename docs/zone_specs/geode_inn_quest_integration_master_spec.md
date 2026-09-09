@@ -17,7 +17,7 @@ The AzerothCore docs were the scaffolding. This is the building.
 |-------|-------------|
 | Main Floor | Hub, market, NPC introductions, arcade games |
 | Staircase | Alchemical transition, philosophy, bridge texts |
-| Catacombs | Memory layer: ancient civilizations, primary sources, the Crone's archive, Beverley's navigation, Charles's Natural Archive, the Deep (Fae Kingdom connection) |
+| Catacombs | Memory layer: ancient civilizations, primary sources, the Ragana's archive, Beverley's navigation, Charles's Natural Archive, the Deep (Fae Kingdom connection) |
 | Undercity | Invention layer: workshop, invention, the forge, the Smiths, Monsieur Sentient |
 | Fae Kingdom | The deep: Seelie/Unseelie courts, the Golden Contract, the stone circles |
 

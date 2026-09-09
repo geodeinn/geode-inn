@@ -31,7 +31,7 @@ He is the closest of the four Thinkers to the Song of Making — not because he 
 
 In the Inn, he is simply "Tesla." Not "Mr. Tesla" — he finds formality distracting. Not "Nikola" — too intimate, too familiar, and the Redmayne body reacts to familiarity with a slight flinch, a quick look, the body language of someone who was never quite comfortable with closeness. Just "Tesla." It's enough. It's precise. He likes it.
 
-The Crone calls him "Mr. Tesla" — not from respect but from the Hopkins precision of using full names when correcting someone. "Mr. Tesla, your documentation is, as always, non-existent." Tesla doesn't mind. He barely notices. He's already three frequencies ahead.
+The Ragana calls him "Mr. Tesla" — not from respect but from the Hopkins precision of using full names when correcting someone. "Mr. Tesla, your documentation is, as always, non-existent." Tesla doesn't mind. He barely notices. He's already three frequencies ahead.
 
 ### Appearance
 
@@ -48,7 +48,7 @@ Tesla's body is a tuning fork. It vibrates. Constantly. Not from anxiety — fro
 
 This reads as nervousness to observers — the Redmayne quality of someone who seems perpetually on edge, perpetually about to move, perpetually uncomfortable in stillness. But it's not discomfort. It's *calibration*. He can't sit still because sitting still means stopping the calibration, and stopping means missing something, and missing something is the only thing that actually frightens him.
 
-The fidgeting has a pattern. The player who watches carefully will notice: Tesla's hands move faster when he's near high-frequency zones (the Cosmology level, the gargoyle sentinels) and slower near low-frequency zones (the catacombs, the Geode Cave). His body is a frequency detector and he doesn't know he's doing it. The Crone has noticed. She has not told him. She has written it down.
+The fidgeting has a pattern. The player who watches carefully will notice: Tesla's hands move faster when he's near high-frequency zones (the Cosmology level, the gargoyle sentinels) and slower near low-frequency zones (the catacombs, the Geode Cave). His body is a frequency detector and he doesn't know he's doing it. The Ragana has noticed. She has not told him. She has written it down.
 
 **The Rickman voice and personality (the delivery).**
 
@@ -69,7 +69,7 @@ The Hiddleston face has one expression that no other character in the Inn produc
 Tesla's voice is the most distinctive audio element of the Council of Thinkers. The Rickman cadence — slow, deep, measured, sardonic — is the opposite of the Redmayne body. The contrast is the character:
 
 - When Tesla is excited about a frequency, the body speeds up — pacing, gesturing, touching things. But the voice *slows down*. The more excited the body, the more deliberate the speech. It's as if the voice is the brake on the body's engine — the only way Tesla can function is by speaking slowly while moving quickly. The two systems balance each other.
-- The dry wit increases with stress. When an experiment goes wrong — when da Vinci's table has been displaced again, or when the Crone is demanding documentation — Tesla's Rickman voice gets *drier*. The sardonic distance increases. The humor gets darker. This is the Rickman defense mechanism: the more wrong things go, the more composed the voice becomes. Snape facing Voldemort — the voice never breaks. Gruber falling from Nakatomi Tower — the voice still has the last word.
+- The dry wit increases with stress. When an experiment goes wrong — when da Vinci's table has been displaced again, or when the Ragana is demanding documentation — Tesla's Rickman voice gets *drier*. The sardonic distance increases. The humor gets darker. This is the Rickman defense mechanism: the more wrong things go, the more composed the voice becomes. Snape facing Voldemort — the voice never breaks. Gruber falling from Nakatomi Tower — the voice still has the last word.
 
 ### Location
 
@@ -99,16 +99,16 @@ The great rivalry. Da Vinci is the pattern; Tesla is the frequency. They are des
 Their dynamic is the Redmayne-Rickman body-voice split playing out across two people: da Vinci is the stillness (measured, precise, permanently annoyed), Tesla is the motion (fidgeting, pacing, accidentally destroying da Vinci's workspace). Tesla's Rickman voice delivers the one-liners; da Vinci's restraint delivers the silences. Together they are comedy and philosophy in one package.
 
 **Newton (Jeremy Irons as Aramis — precise, stoic, condescendingly brilliant):**
-Newton and Tesla are the intellectual rivalry of the Council. Newton believes in laws; Tesla believes in frequencies. Newton says "the universe runs on rules." Tesla says "the universe runs on vibrations." Newton says "rules can be written down." Tesla says "frequencies can be felt." The Crone sides with Newton on methodology (write it down) and with Tesla on substance (she can feel the frequencies in the stones). This drives Newton mad. Tesla doesn't notice. He's measuring something.
+Newton and Tesla are the intellectual rivalry of the Council. Newton believes in laws; Tesla believes in frequencies. Newton says "the universe runs on rules." Tesla says "the universe runs on vibrations." Newton says "rules can be written down." Tesla says "frequencies can be felt." The Ragana sides with Newton on methodology (write it down) and with Tesla on substance (she can feel the frequencies in the stones). This drives Newton mad. Tesla doesn't notice. He's measuring something.
 
 Their conversations are the slowest, most precise arguments in the Inn — two Rickman-caliber voices (Newton's Irons, Tesla's Rickman) delivering devastating observations at the pace of a chess game. Each sentence is a move. Each pause is a calculation. The Redmayne body fidgets through it, the Hiddleston face watching, and the player who overhears them learns more about the philosophy of science than any textbook could teach.
 
 **Einstein:**
 Einstein is the peacemaker — the one who says "you're both right" and means it, which drives both of them mad. Tesla finds Einstein's messiness unsettling (it reminds him of the Bard). Einstein finds Tesla's intensity exhausting but fascinating. They have one thing in common: wonder. When Einstein says "imagine..." Tesla's Hiddleston face goes young. The sharp, sardonic exterior drops, and for a moment, both of them are just... curious. The Redmayne body stills. The Rickman voice warms by half a degree. It passes. But it's the moment where the player sees the real Tesla — not the sardonic engineer, but the person who looked at the universe and heard a song and has been trying to measure it ever since.
 
-### Tesla and the Crone
+### Tesla and the Ragana
 
-The Crone (Hopkins + MacLaine) is the only person in the Inn who genuinely unnerves Tesla. Not because she's smarter (she might be) — because she's *more precise*. The Crone demands documentation. Tesla doesn't document. Tesla measures, discovers, builds, and moves on. The Crone considers this a crime against scholarship.
+The Ragana (Hopkins + MacLaine) is the only person in the Inn who genuinely unnerves Tesla. Not because she's smarter (she might be) — because she's *more precise*. The Ragana demands documentation. Tesla doesn't document. Tesla measures, discovers, builds, and moves on. The Ragana considers this a crime against scholarship.
 
 *"Mr. Tesla, your documentation is, as always, non-existent."*
 
@@ -122,7 +122,7 @@ The Rickman voice, slow and sardonic: "...I discovered it. ...I built it. ...It 
 
 "...I'll write it down now."
 
-Tesla has started writing things down. He doesn't enjoy it. The Redmayne body fidgets through the writing. The Hiddleston face looks trapped. But the Rickman voice, when he reads his own notes back, has a faint note of... satisfaction. He won't admit it. The Crone knows. She says nothing. She has won. She doesn't need to say it. She says it anyway: "...Better."
+Tesla has started writing things down. He doesn't enjoy it. The Redmayne body fidgets through the writing. The Hiddleston face looks trapped. But the Rickman voice, when he reads his own notes back, has a faint note of... satisfaction. He won't admit it. The Ragana knows. She says nothing. She has won. She doesn't need to say it. She says it anyway: "...Better."
 
 ### Tesla's Connection to the Song of Making
 
@@ -159,7 +159,7 @@ The Redmayne body is moving fast — touching dials, adjusting crystals, the fid
 
 The Hiddleston face, for a fraction of a second: a flicker of genuine regret. Then the Rickman voice covers it: "...The table is in the next room. Probably. ...It'll come back. ...Things come back. ...Most things."
 
-**When the Crone demands documentation:**
+**When the Ragana demands documentation:**
 
 "...I'll write it down."
 
@@ -198,4 +198,4 @@ He's gone. The workshop hums. The crystal on the desk chimes softly in the key o
 - **The Staircase:** Tesla studies energy transformation here — the transition between states. He has confirmed that the staircase music literally ascends in key as you climb. He has a theory about why. He has not shared it.
 - **The Gargoyles:** Tesla has measured all six gargoyle frequencies. He has noted that they match frequencies in his workshop data. He has not connected them to the Golden Contract. He is an engineer, not an interpreter.
 - **The Song of Making:** Tesla's workshop notes are the *scientific proof* of the Song. He has measured what the Keeper remembers and the Owl watches. He doesn't know he's done this. The player who reads his notes and then finds the Golden Contract will understand: Tesla measured the Song without ever hearing it. He heard the number, not the melody. He is the engineer of something divine and he doesn't know it's divine. ...He might not care. ...The number is enough.
-- **The Crone:** The Crone demands documentation. Tesla provides data. The gap between documentation and data is their entire relationship. She wants interpretation. He provides measurement. She wants meaning. He provides frequency. She says "write it down." He says "I measured it." She says "measurement without interpretation is just numbers." He says "numbers are enough." She says "they're not." He says "they're enough for me." She says nothing. She writes down his frequencies in *her* notebook, with *her* interpretations, in *her* precise Hopkins hand. She has been doing this for years. He doesn't know. ...The Crone is Tesla's translator — the one who turns his numbers into meaning. She will never tell him. ...He might not survive the knowledge that someone understood him.
+- **The Ragana:** The Ragana demands documentation. Tesla provides data. The gap between documentation and data is their entire relationship. She wants interpretation. He provides measurement. She wants meaning. He provides frequency. She says "write it down." He says "I measured it." She says "measurement without interpretation is just numbers." He says "numbers are enough." She says "they're not." He says "they're enough for me." She says nothing. She writes down his frequencies in *her* notebook, with *her* interpretations, in *her* precise Hopkins hand. She has been doing this for years. He doesn't know. ...The Ragana is Tesla's translator — the one who turns his numbers into meaning. She will never tell him. ...He might not survive the knowledge that someone understood him.

@@ -90,7 +90,7 @@ Each game maps to an existing zone and rewards a stone consistent with that zone
 - **Inspiration:** Chess (classic)
 - **Zone:** The Archivist's Chess Hall (connected to the Hearth)
 - **Genre:** Strategy board game
-- **Mechanic:** Full chess game against The Archivist the Chess Wizard, or against other players (cross-platform pairing). The Archivist's AI difficulty scales to the player's skill. Pieces are Geode Inn-themed: the Inn's roster replaces standard pieces (the Crone as the Queen, the Reader as the King, gargoyles as rooks, dragon kittens as knights, brownies as pawns). The Archivist narrates each move in character.
+- **Mechanic:** Full chess game against The Archivist the Chess Wizard, or against other players (cross-platform pairing). The Archivist's AI difficulty scales to the player's skill. Pieces are Geode Inn-themed: the Inn's roster replaces standard pieces (the Ragana as the Queen, the Reader as the King, gargoyles as rooks, dragon kittens as knights, brownies as pawns). The Archivist narrates each move in character.
 - **Reward Stone:** Preseli Blue Stone (the strategic stone — Stonehenge's bluestone)
 - **Unlock:** Meet The Archivist in the Hearth
 
@@ -98,7 +98,7 @@ Each game maps to an existing zone and rewards a stone consistent with that zone
 - **Inspiration:** Coup (La Mame Games, 2012)
 - **Zone:** Undercity (Gothic)
 - **Genre:** Social deduction
-- **Mechanic:** Each player holds two roles from the Undercity's power structure (the Owl, the Crone, the Firekeeper, the Teacher, the Shadow). Each role has a special ability. Players can lie about which roles they hold. Bluff, counter-bluff, and challenge. The Undercity's gothic atmosphere is the perfect setting for a deception game — everyone is already hiding something.
+- **Mechanic:** Each player holds two roles from the Undercity's power structure (the Owl, the Ragana, the Firekeeper, the Teacher, the Shadow). Each role has a special ability. Players can lie about which roles they hold. Bluff, counter-bluff, and challenge. The Undercity's gothic atmosphere is the perfect setting for a deception game — everyone is already hiding something.
 - **Reward Stone:** Onyx (the stone of secrets — black, opaque, the Undercity's stone)
 - **Unlock:** Reach the Undercity
 

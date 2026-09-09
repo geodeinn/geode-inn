@@ -22,7 +22,7 @@ Naut describes a Sumerian bowl — "not the one in the archive, the OTHER one" �
 The bowl is in The Deep. Buried in the unsorted. The player digs for it (using the Catacombs' digging mechanic). The bowl is ordinary-looking — clay, cracked, no inscription. But when held, it hums. 42Hz. The same frequency as the Stacks' humming shelves.
 
 **Return:**
-The player brings the bowl to Naut. Naut takes it without ceremony, examines it, and sets it behind the chair. "Good. Don't tell the Crone I have this."
+The player brings the bowl to Naut. Naut takes it without ceremony, examines it, and sets it behind the chair. "Good. Don't tell the Ragana I have this."
 
 **Reward:** A minor stone (carnelian, "a stone for keeping secrets" — connected to carnelian's metaphysical property of protecting against theft).
 
@@ -72,7 +72,7 @@ The player realizes Naut has been borrowing items from the archive and storing t
 **Return to Beverley:**
 The player can tell Beverley where the items are, or not.
 
-- If the player tells Beverley: Beverley is furious. "That's unrestricted access to uncatalogued material. I don't care if he's a professor. There are RULES." Beverley demands the player tell the Crone.
+- If the player tells Beverley: Beverley is furious. "That's unrestricted access to uncatalogued material. I don't care if he's a professor. There are RULES." Beverley demands the player tell the Ragana.
 - If the player doesn't tell Beverley: Beverley marks the items as "lost" and moves on. But Beverley now trusts the player slightly more, because the player didn't snitch.
 
 **Return to Naut:**
@@ -87,10 +87,10 @@ The key opens Naut's passage from the Main Floor to The Royal's Sorting Floor. T
 ## QUEST 4: "The Sticky Note War"
 
 **Trigger:** After Quest 3, if the player visits The Royal via Naut's passage and explores Section 4 (the Cross-Contamination Zone). The player finds a sticky note that is NOT in Naut's handwriting. It's in Beverley's:
-"Return these items or I'm telling the Crone. I KNOW it's you. I've always known. — B"
+"Return these items or I'm telling the Ragana. I KNOW it's you. I've always known. — B"
 
 And beneath, in Naut's handwriting:
-"The Crone already knows. The Crone has always known. Ask the Crone why the archive was built ON TOP of this instead of INSIDE it. — N"
+"The Ragana already knows. The Ragana has always known. Ask the Ragana why the archive was built ON TOP of this instead of INSIDE it. — N"
 
 And beneath, in a third handwriting — angular, old, possibly carved with a stylus rather than written with ink:
 "Because what's below doesn't belong to the archive. It belongs to the ground. — [illegible]"
@@ -99,12 +99,12 @@ And beneath, in a third handwriting — angular, old, possibly carved with a sty
 The player has stumbled into a bureaucratic turf war between the Inn's three catalogue-keepers: Naut (who borrows), Beverley (who catalogues), and whoever wrote the third note (who guards the ground itself). The third note is Bait's.
 
 The player must:
-1. Ask the Crone about the note. The Crone's response: "The archive is the SORTED version. What's below is the RAW version. I don't sort raw. That's not my job. Whose job is it? Ask the one with the key."
+1. Ask the Ragana about the note. The Ragana's response: "The archive is the SORTED version. What's below is the RAW version. I don't sort raw. That's not my job. Whose job is it? Ask the one with the key."
 2. Ask Naut about the third note. Naut's response (after a long pause — tentacles still): "That's not mine. That's older than me. Older than the Inn. That's the previous tenant."
 3. Return to The Royal and examine the third note more carefully. The illegible signature resolves under the crystal lens: it reads "BAIT."
 
 **The Discovery:**
-Bait has been in The Royal longer than Naut, longer than the Crone, longer than the Inn itself. The sticky notes are the communication system between three different eras of stewardship: Bait (the oldest), the Crone (the middle), and Naut (the current). They argue through sticky notes because they exist in different times — Bait's notes are carved, the Crone's are inked, Naut's are written on whatever is available.
+Bait has been in The Royal longer than Naut, longer than the Ragana, longer than the Inn itself. The sticky notes are the communication system between three different eras of stewardship: Bait (the oldest), the Ragana (the middle), and Naut (the current). They argue through sticky notes because they exist in different times — Bait's notes are carved, the Ragana's are inked, Naut's are written on whatever is available.
 
 **Reward:** The player unlocks "The Borrower's Ledger" — a dialogue branch where Naut explains the three-keeper system. Naut also reveals that the player can now leave their OWN sticky notes in The Royal. Notes left by the player appear in other zones — sometimes as references in Quire's margin readings, sometimes as items NPCs mention having "found in a back room." The player's notes become part of The Royal's archive.
 
@@ -123,10 +123,10 @@ Bait is not what the player expects. Bait is not a monster, not an ancient being
 **The Conversation:**
 Bait speaks for the first time. Bait's voice is... ordinary. Not deep, not ancient, not resonant. A voice like someone who has been talking to themselves for a very long time and has forgotten how to perform for an audience. Bait says:
 
-"You're the first one who counted. Naut borrows. Beverley catalogues. The Crone sorts. You're the first one who noticed they're three parts of the same system. That's interesting. Nobody finds this interesting. I find it very interesting."
+"You're the first one who counted. Naut borrows. Beverley catalogues. The Ragana sorts. You're the first one who noticed they're three parts of the same system. That's interesting. Nobody finds this interesting. I find it very interesting."
 
 Bait explains:
-- The Royal has always been here. The Inn was built on top of it. The Crone's archive is the organized version. The Royal is what the archive was BUILT FROM — the raw material, the ground.
+- The Royal has always been here. The Inn was built on top of it. The Ragana's archive is the organized version. The Royal is what the archive was BUILT FROM — the raw material, the ground.
 - Bait doesn't guard The Royal. Bait MAINTAINS it. The difference: a guard stops people from entering. A maintainer keeps the place standing. Bait keeps the shelves from collapsing, the artifacts from degrading, the sticky notes from fading. Bait has been doing this for longer than the Inn has existed.
 - Bait doesn't know who built The Royal. "It was here when I got here. I was here when the Inn was built on top. I didn't stop them. It seemed rude."
 
@@ -182,7 +182,7 @@ Bait hands the player a small object — a stone. Plain. Unimpressive. Warm. The
 - [x] Full 5-quest chain designed (this document)
 - [x] Naut's character arc (from hiding to honest)
 - [x] Beverley's involvement (bureaucratic investigation)
-- [x] The Crone's involvement (the non-answer answer)
+- [x] The Ragana's involvement (the non-answer answer)
 - [x] Bait's introduction and character voice
 - [x] The Foundation Stone reward designed
 - [x] Sticky note war mechanic documented

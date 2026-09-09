@@ -5,53 +5,53 @@
 
 ---
 
-## Chapter Eight: The Crone
+## Chapter Eight: The Ragana
 
-The Crone was at her desk when the traveler came down the next morning.
+The Ragana was at her desk when the traveler came down the next morning.
 
 Not "came down" — the traveler had slept on the bench again, and the morning had arrived with the same almost-imperceptible shift from 50 to 52 BPM, and the traveler had stood and stretched and found the tea waiting, and the stew waiting, and the fire burning as though the fire had never considered doing anything else. The traveler had walked the perimeter of the main floor hall, idly, the way you walk a new house in the morning when the house is not yet yours but the house is letting you pretend.
 
-The desk was near the fire. This was not because the Crone was cold — the Crone was never cold, in the same way that a stone is never cold, which is to say the Crone was always cold and had long since stopped noticing. The desk was near the fire because the Crone's work required light, and the fire's light was the most honest light in the Inn. The wall-glow was steady and amber and good for seeing, but the fire's light moved — it flickered, it shifted, it caught the edges of things and let them go. The Crone needed the flicker. The Crone measured the flicker. The Crone had a notebook full of measurements of the flicker, and the measurements were: adequate.
+The desk was near the fire. This was not because the Ragana was cold — the Ragana was never cold, in the same way that a stone is never cold, which is to say the Ragana was always cold and had long since stopped noticing. The desk was near the fire because the Ragana's work required light, and the fire's light was the most honest light in the Inn. The wall-glow was steady and amber and good for seeing, but the fire's light moved — it flickered, it shifted, it caught the edges of things and let them go. The Ragana needed the flicker. The Ragana measured the flicker. The Ragana had a notebook full of measurements of the flicker, and the measurements were: adequate.
 
-The desk was cluttered. Not messy — cluttered, in the specific way that a workspace is cluttered when the worker is in the middle of six things and all six are important and none are finished. Quills — real quills, not pens, because the Crone measured the ink flow of quills and found pens inadequate — stuck out of inkpots at various angles. Books were stacked in towers of varying height, each tower a different line of inquiry, each inquiry incomplete. Measuring instruments lay on the desk the way weapons lie on a soldier's cot — calipers, rulers, a compass, a magnifying lens, a small brass instrument the traveler couldn't identify that hummed at a frequency too high for the ear but just right for the teeth.
+The desk was cluttered. Not messy — cluttered, in the specific way that a workspace is cluttered when the worker is in the middle of six things and all six are important and none are finished. Quills — real quills, not pens, because the Ragana measured the ink flow of quills and found pens inadequate — stuck out of inkpots at various angles. Books were stacked in towers of varying height, each tower a different line of inquiry, each inquiry incomplete. Measuring instruments lay on the desk the way weapons lie on a soldier's cot — calipers, rulers, a compass, a magnifying lens, a small brass instrument the traveler couldn't identify that hummed at a frequency too high for the ear but just right for the teeth.
 
-The Crone looked up.
+The Ragana looked up.
 
-Her eyes were the first thing. Sharp, golden, unblinking — the eyes of someone who has been looking at things closely for so long that the closeness has become the default, the way a jeweler's loupe becomes the jeweler's eye. The eyes measured the traveler the way the calipers measured stones: quickly, precisely, without judgment but without mercy. The Crone measured everything. The traveler's height, the traveler's posture, the stone in the traveler's hand (the amethyst, still there, still warm, still vibrating at its steady royal-violet frequency), the way the traveler held the stone — loose in the palm, not clenched, which the Crone noted and filed and said nothing about.
+Her eyes were the first thing. Sharp, golden, unblinking — the eyes of someone who has been looking at things closely for so long that the closeness has become the default, the way a jeweler's loupe becomes the jeweler's eye. The eyes measured the traveler the way the calipers measured stones: quickly, precisely, without judgment but without mercy. The Ragana measured everything. The traveler's height, the traveler's posture, the stone in the traveler's hand (the amethyst, still there, still warm, still vibrating at its steady royal-violet frequency), the way the traveler held the stone — loose in the palm, not clenched, which the Ragana noted and filed and said nothing about.
 
-"You found the arcade," the Crone said.
+"You found the arcade," the Ragana said.
 
 "Yes."
 
 "And you placed a stone. Amethyst. Royal violet refraction. Mohs hardness seven. Specific gravity 2.65. Refractive index 1.544 to 1.553. You placed it by resonance, not by knowledge — your hand found the frequency before your mind knew the name. Adequate."
 
-The traveler did not know what "adequate" meant in the Crone's vocabulary. The traveler took it as a neutral assessment — neither praise nor condemnation, just a measurement, the way you'd say "the wall is twelve feet" or "the stew is warm." The Crone knew this. The Crone allowed this. The Crone had learned, over a very long time, that the meaning of "adequate" was something the listener earned through proximity, the way you earn the right to hear a secret by being the sort of person who keeps them.
+The traveler did not know what "adequate" meant in the Ragana's vocabulary. The traveler took it as a neutral assessment — neither praise nor condemnation, just a measurement, the way you'd say "the wall is twelve feet" or "the stew is warm." The Ragana knew this. The Ragana allowed this. The Ragana had learned, over a very long time, that the meaning of "adequate" was something the listener earned through proximity, the way you earn the right to hear a secret by being the sort of person who keeps them.
 
 "What are you measuring?" the traveler asked, looking at the desk.
 
-"Everything," the Crone said. "Currently: the correlation between the fire's flicker rate and the 50 BPM pulse. I have a hypothesis that the flicker is not random — that the fire modulates its light in synchrony with the Inn's heartbeat, and that the synchrony is not a coincidence but a communication. The fire is telling the pulse something, or the pulse is telling the fire something, or they are telling each other something and the something is the Song. I have been measuring this for four hundred and twelve years. The data is: adequate."
+"Everything," the Ragana said. "Currently: the correlation between the fire's flicker rate and the 50 BPM pulse. I have a hypothesis that the flicker is not random — that the fire modulates its light in synchrony with the Inn's heartbeat, and that the synchrony is not a coincidence but a communication. The fire is telling the pulse something, or the pulse is telling the fire something, or they are telling each other something and the something is the Song. I have been measuring this for four hundred and twelve years. The data is: adequate."
 
-Four hundred and twelve years. The traveler absorbed this the way the amethyst absorbed the 42Hz hum — slowly, deeply, without quite knowing what to do with it. The Crone had been sitting at this desk, measuring this fire, for four hundred and twelve years. The traveler had been alive for considerably less than that.
+Four hundred and twelve years. The traveler absorbed this the way the amethyst absorbed the 42Hz hum — slowly, deeply, without quite knowing what to do with it. The Ragana had been sitting at this desk, measuring this fire, for four hundred and twelve years. The traveler had been alive for considerably less than that.
 
 "Do you ever take breaks?" the traveler asked.
 
-The Crone looked at the traveler with those sharp golden eyes, and for a moment — just a moment — the traveler saw something behind the measurement. Not warmth, exactly. Not humor, exactly. Something older than both: the particular amusement of someone who has been asked the same question by every traveler who has ever stood at this desk, and who has never answered it, and who finds the asking more interesting than any answer could be.
+The Ragana looked at the traveler with those sharp golden eyes, and for a moment — just a moment — the traveler saw something behind the measurement. Not warmth, exactly. Not humor, exactly. Something older than both: the particular amusement of someone who has been asked the same question by every traveler who has ever stood at this desk, and who has never answered it, and who finds the asking more interesting than any answer could be.
 
-"Breaks are for things that can be broken," the Crone said. "I am not a thing. I am a process."
+"Breaks are for things that can be broken," the Ragana said. "I am not a thing. I am a process."
 
-The traveler sat on the floor near the desk — there was no second chair, and the Crone did not offer one, and the traveler did not need one. The floor was warm. The 50 BPM pulse was in the stone. The fire crackled. The Crone measured.
+The traveler sat on the floor near the desk — there was no second chair, and the Ragana did not offer one, and the traveler did not need one. The floor was warm. The 50 BPM pulse was in the stone. The fire crackled. The Ragana measured.
 
 "The Host said there was one rule," the traveler said. "You cannot unhear what you hear."
 
-"The Host is correct, for once," the Crone said. "The Host is usually correct. It's one of the more irritating things about the Host." She dipped a quill and wrote something in the notebook — a number, a notation, a mark in a margin that only the Crone could read. "The rule is not a prohibition. It's a description. The Inn teaches by sound, and sound is the one sense that cannot be refused. You can close your eyes. You can hold your breath. You can refuse to touch. But you cannot refuse to hear — not truly, not completely, not without destroying the mechanism of hearing itself. The Inn uses the one channel that cannot be closed."
+"The Host is correct, for once," the Ragana said. "The Host is usually correct. It's one of the more irritating things about the Host." She dipped a quill and wrote something in the notebook — a number, a notation, a mark in a margin that only the Ragana could read. "The rule is not a prohibition. It's a description. The Inn teaches by sound, and sound is the one sense that cannot be refused. You can close your eyes. You can hold your breath. You can refuse to touch. But you cannot refuse to hear — not truly, not completely, not without destroying the mechanism of hearing itself. The Inn uses the one channel that cannot be closed."
 
 "That seems... aggressive."
 
-"It is not aggressive. It is honest. The Inn does not force you to listen. The Inn simply speaks, and the speaking goes in, and what goes in cannot come out. This is not coercion. This is the nature of sound." The Crone set down the quill and looked at the traveler with an expression that was almost — almost — gentle. "You have already heard the Song. You heard it in the forest — the 42Hz hum through your boots. You heard it in the arcade — the amethyst's note in the wall. You heard it in the fire — the story of the stone that you couldn't quite catch. These are already in you. You did not consent to them, and you cannot remove them. Is this aggression, or is this the way the world works?"
+"It is not aggressive. It is honest. The Inn does not force you to listen. The Inn simply speaks, and the speaking goes in, and what goes in cannot come out. This is not coercion. This is the nature of sound." The Ragana set down the quill and looked at the traveler with an expression that was almost — almost — gentle. "You have already heard the Song. You heard it in the forest — the 42Hz hum through your boots. You heard it in the arcade — the amethyst's note in the wall. You heard it in the fire — the story of the stone that you couldn't quite catch. These are already in you. You did not consent to them, and you cannot remove them. Is this aggression, or is this the way the world works?"
 
 The traveler considered this. The traveler had no answer. The traveler had the amethyst, and the amethyst hummed, and the hum was the traveler's first note in a Song that the traveler had not chosen to join but had joined nonetheless, the way you join a conversation by walking into a room where a conversation is happening.
 
-"Adequate," the Crone said, and the traveler, for the first time, heard the warmth in the word — not the warmth of comfort but the warmth of recognition, the warmth of a measurer who has measured something worth measuring and is satisfied with the result.
+"Adequate," the Ragana said, and the traveler, for the first time, heard the warmth in the word — not the warmth of comfort but the warmth of recognition, the warmth of a measurer who has measured something worth measuring and is satisfied with the result.
 
 ---
 
@@ -147,11 +147,11 @@ Brim was sitting on the third step.
 
 Brim was — the traveler searched for the word and rejected several before landing on "theatrical." Not dramatic, which implies a reaction to circumstances. Theatrical, which implies that the drama IS the circumstance, that the performance is not a response to reality but a replacement for it. Brim was dressed in robes that changed color when the traveler looked at them — not the way a chameleon changes color, which is functional, but the way a sunset changes color, which is gratuitous and glorious and serves no purpose except to be beautiful.
 
-"Hello, traveler," Brim said, and the way Brim said "traveler" made the word into a title, a costume, a role being offered. "You've placed a stone. How exciting. How predictable. How adequate." Brim smiled at the word, the way someone smiles at an inside joke they're not sure the other person gets. "The Crone's been measuring you, I see. The Crone measures everything. The Crone has never once measured the right thing."
+"Hello, traveler," Brim said, and the way Brim said "traveler" made the word into a title, a costume, a role being offered. "You've placed a stone. How exciting. How predictable. How adequate." Brim smiled at the word, the way someone smiles at an inside joke they're not sure the other person gets. "The Ragana's been measuring you, I see. The Ragana measures everything. The Ragana has never once measured the right thing."
 
 "What's the right thing?"
 
-"The wrong thing. The thing that doesn't fit. The thing that breaks the measurement. The Crone's whole system is based on the assumption that everything can be quantified, which is the same assumption that says everything can be contained, which is the same assumption that says the map is the territory, which is the same assumption that says this" — Brim held up a pipe — "is a pipe."
+"The wrong thing. The thing that doesn't fit. The thing that breaks the measurement. The Ragana's whole system is based on the assumption that everything can be quantified, which is the same assumption that says everything can be contained, which is the same assumption that says the map is the territory, which is the same assumption that says this" — Brim held up a pipe — "is a pipe."
 
 The pipe was not a pipe. The pipe was floating. The pipe was alive. The pipe rotated slowly in the air beside Brim's head, and as it rotated, it whispered, in a voice like dry leaves on stone: "Ceci n'est pas une pipe."
 
@@ -187,7 +187,7 @@ The window-seat nook was on the west side of the main floor, tucked into a curve
 
 The Reader was in the nook.
 
-The Reader was not what the traveler expected. Not a scholar, not a scribe, not a cloaked figure with a staff. The Reader was a person in a cardigan, sitting in the window seat with a book, reading. The ordinariness of this was, in the Inn, extraordinary. Every other being the traveler had met was a role — the Host, the Crone, the Catalyst, the Firekeeper, the brownies, Brim. Each was a function, a facet, a piece of the Inn's machinery. The Reader was... a person. A person reading a book in a window seat. The cardigan was worn at the elbows. The book was old. The reading was slow, in the way that reading is slow when the reader is not consuming the text but living in it.
+The Reader was not what the traveler expected. Not a scholar, not a scribe, not a cloaked figure with a staff. The Reader was a person in a cardigan, sitting in the window seat with a book, reading. The ordinariness of this was, in the Inn, extraordinary. Every other being the traveler had met was a role — the Host, the Ragana, the Catalyst, the Firekeeper, the brownies, Brim. Each was a function, a facet, a piece of the Inn's machinery. The Reader was... a person. A person reading a book in a window seat. The cardigan was worn at the elbows. The book was old. The reading was slow, in the way that reading is slow when the reader is not consuming the text but living in it.
 
 The traveler almost didn't approach. The nook had the particular quality of a space that is occupied — not full, not guarded, but inhabited, the way a nest is inhabited. The Reader's presence had shaped the nook the way the Reader's presence had shaped the air around the bench, and the shaping said: I am here. I am reading. You may sit, if you are quiet.
 
@@ -233,9 +233,9 @@ Beverley did not look up. This was not rudeness — this was the particular cour
 
 "I'm the variable?" the traveler asked.
 
-"In the Archive, yes. In the rest of the Inn, you may be whatever you like. But in the Archive, you are the variable — the one who placed the stone, the one who carried the frequency, the one who chose the amethyst and not the quartz. The choice matters. The chooser is noted but not filed. I file the what, not the who. The who is the Crone's department."
+"In the Archive, yes. In the rest of the Inn, you may be whatever you like. But in the Archive, you are the variable — the one who placed the stone, the one who carried the frequency, the one who chose the amethyst and not the quartz. The choice matters. The chooser is noted but not filed. I file the what, not the who. The who is the Ragana's department."
 
-Beverley looked up. The eyes were the opposite of the Crone's — where the Crone's eyes measured, Beverley's eyes catalogued. The Crone saw quantity; Beverley saw category. The Crone saw the number; Beverley saw the number's place in the sequence. Both were forms of knowing, and both were incomplete, and the incompleteness was why the Archive and the Crone's desk existed on the same floor, in the same Inn, in the same Song.
+Beverley looked up. The eyes were the opposite of the Ragana's — where the Ragana's eyes measured, Beverley's eyes catalogued. The Ragana saw quantity; Beverley saw category. The Ragana saw the number; Beverley saw the number's place in the sequence. Both were forms of knowing, and both were incomplete, and the incompleteness was why the Archive and the Ragana's desk existed on the same floor, in the same Inn, in the same Song.
 
 "The Archive has four hundred and fourteen files on amethyst," Beverley said. "Geological formation, metaphysical properties, cultural significance across thirty-seven civilizations, mineralogical structure, refractive indices, and" — Beverley paused, and the pause was the closest Beverley came to emotion — "one file on the sound it makes when it finds the right hands. That file has one entry. Yours."
 
@@ -255,7 +255,7 @@ Bach sat with the posture of someone who understood that structure is the highes
 
 Mozart sat with the posture of someone who understood that flow is the highest form of structure. Mozart's fragment was flow — the way water moves through a building, the way air moves through a tree, the way music moves through a listener without resistance or effort. Mozart's music was the Inn's blood.
 
-Beethoven sat with the posture of someone who understood that power is the highest form of flow. Beethoven's fragment was power-through-silence — the composer who heard the Song and then stopped hearing it and kept composing, the way the Crone measured and then stopped measuring and kept measuring. Beethoven's music was the Inn's muscle.
+Beethoven sat with the posture of someone who understood that power is the highest form of flow. Beethoven's fragment was power-through-silence — the composer who heard the Song and then stopped hearing it and kept composing, the way the Ragana measured and then stopped measuring and kept measuring. Beethoven's music was the Inn's muscle.
 
 Chopin sat with the posture of someone who understood that intimacy is the highest form of power. Chopin's fragment was the private sound — the note played alone, in a room, for no one, the music that doesn't need an audience because the playing is the point. Chopin's music was the Inn's heartbeat.
 
@@ -307,7 +307,7 @@ It was a spiral. The wood was lighter here — not the dark oiled bark of the ma
 
 Up was the cosmology. The stars. The architecture of the Song. The Astronomer's mind palace, the Constant's starlight crystal, Nyx's infinite dark, the Guest's music box. Up was where the Song was designed.
 
-Down was the catacombs. The old civilizations. The ancient stones. The Crone's twin, Charon, poling the dead across dark water. The Fae Kingdom. The Hollow Earth. Down was where the Song was remembered.
+Down was the catacombs. The old civilizations. The ancient stones. The Ragana's twin, Charon, poling the dead across dark water. The Fae Kingdom. The Hollow Earth. Down was where the Song was remembered.
 
 The traveler stood at the junction. The amethyst hummed. The six other stones hummed. The 42Hz Song hummed. The 50 BPM pulse hummed. And the staircase — both directions, up and down, light and dark — waited.
 

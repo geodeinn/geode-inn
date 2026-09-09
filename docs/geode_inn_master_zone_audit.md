@@ -30,7 +30,7 @@
 
 | Sub-Area | Artist | Characters | Vibration | Quests | Games | Items | Status |
 |----------|--------|-----------|-----------|--------|-------|-------|--------|
-| The Hearth/Fire | Klimt+Royo | The Host, The Firekeeper, The Crone, Tumble, Brownies (Brindle/Cobble/Thatch) | 42Hz + 50 BPM | Firekeeper's quests | Stone Popper (Bust-a-Move) | Hearth Amber, Ash Shovel, Kettle Sigil | COMPLETE |
+| The Hearth/Fire | Klimt+Royo | The Host, The Firekeeper, The Ragana, Tumble, Brownies (Brindle/Cobble/Thatch) | 42Hz + 50 BPM | Firekeeper's quests | Stone Popper (Bust-a-Move) | Hearth Amber, Ash Shovel, Kettle Sigil | COMPLETE |
 | The Garden | Van Gogh | The Gardener, The Catalyst | 42Hz growth | Garden quests | — | Singing vine clippings, Portal arrows | COMPLETE |
 | The Meadery | Picasso | Thorin, Marijke | 42Hz warmth | Meadery quests | — | Celtic mug, drinking horn | COMPLETE |
 | Portrait Gallery | Mapplethorpe | Portrait subjects | 42Hz | — | — | Portrait cards | COMPLETE |
@@ -89,7 +89,7 @@
 
 | Area | Artist | Characters | Vibration | Quests | Games | Items | Status |
 |------|--------|-----------|-----------|--------|-------|-------|--------|
-| The Crone's Archive | Klimt gold | The Crone | 42Hz measurement | Crone's quests | Archive Maze (Pac-Man) | 51 catacomb items | COMPLETE |
+| The Ragana's Archive | Klimt gold | The Ragana | 42Hz measurement | Ragana's quests | Archive Maze (Pac-Man) | 51 catacomb items | COMPLETE |
 | Charon's Lozen | Klimt dark | Charon | 42Hz (underworld) | — | — | Obols, ferry tokens | COMPLETE |
 | Underworld Queens | Klimt | Persephone, Hel, Morrigan | 42Hz (death/rebirth) | Pomegranate Bridge | — | Pomegranate seeds | COMPLETE |
 | Bone Room | O'Keeffe×Klimt | The Bone Keeper | 42Hz (bone) | Urd's thread (Norns) | — | Bone fragments | COMPLETE |

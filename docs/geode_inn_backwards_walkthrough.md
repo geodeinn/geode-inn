@@ -337,14 +337,14 @@ At each step, we identify:
 **What's written:**
 - Nigredo (Socrates — dissolution, Socratic questioning)
 - Albedo (Plato — purification, Plato's Cave mural)
-- Rubedo (Aristotle — conjunction, categorization with the Crone)
+- Rubedo (Aristotle — conjunction, categorization with the Ragana)
 - The Retort (Tesla's soul twin) + Bloop (Schrödinger's cat)
 - The Cook (Jack Black — alchemical cooking, "Enough" as ultimate value)
 - The Five Smiths (Iron, Bronze, Silver, Gold, Copper forges)
 - Gesso (grumpy gnome, mirror script)
 - Leonardo da Vinci (mirror script = Annunaki runes, designed the Arcana)
 - Gargoyles (6 sentinels, 3 pairs, dual-state, frequency-keyed)
-- Charon (the Ferryman — silence to the Crone's mind)
+- Charon (the Ferryman — silence to the Ragana's mind)
 - Persephone/Hades, Hel, Asterion, the Morrigan, the Queens
 
 **What connects forwards:**
@@ -396,7 +396,7 @@ At each step, we identify:
 
 **What's written:**
 - The Host (Patrick Stewart) — "Room's ready." No name asked, no payment required.
-- The Crone (Anthony Hopkins) — measures everything, "Adequate." Learns to listen.
+- The Ragana (Anthony Hopkins) — measures everything, "Adequate." Learns to listen.
 - The Catalyst (Helena Bonham Carter) — bar/garden, grows portal arrows, Mrs. Lovett energy.
 - Brim — inner chaos agent, rides Monsieur Sentient, breaks formulas.
 - The Firekeeper — tells stories by the fire, the main floor's warmth anchor.
@@ -416,7 +416,7 @@ At each step, we identify:
 
 **What connects forwards:**
 - The Host → "welcome home" (first and last words the traveler hears)
-- The Crone → "adequate" (the word that echoes through the entire endgame)
+- The Ragana → "adequate" (the word that echoes through the entire endgame)
 - The Firekeeper → tells the first story of the new cycle in Ragnarok's Afterward
 - The brownies → go still in Fimbulwinter, their awakening completes the Owl's circuit
 - Tumble → curls inward in Fimbulwinter, conserving the note of innocence
@@ -475,7 +475,7 @@ Front door → Fae Kingdom (Oleander and Malachi) → The broken Escher bridge (
 ## Thread 6: The Reader
 Front door → Main floor (window-seat nook, one line per visit) → Whisper Layer (looks up for the first time) → STAY (writes "They stayed") → LEAVE (writes "They left") → HIDE (writes "They hid. And the Inn did not find them. And the Inn was glad.") → Final Room (writes "They sat by the fire. The builder was there. They were home.")
 
-## Thread 7: The Crone's Measurement
+## Thread 7: The Ragana's Measurement
 Front door → Main floor (measures everything, "adequate") → Staircase (Rubedo — categorization) → Grand Collision (the tape reads "adequate") → Endgame (the tape reads "adequate") → Final Room (the measurement is complete, the tape goes slack)
 
 ## Thread 8: The Fire

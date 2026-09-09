@@ -107,7 +107,7 @@ Before the player leaves the Second Sitting, the Keeper says one more thing. The
 
 Between the Second and Third Sittings, the player discovers fragments of the Keeper's history scattered across the Inn. The quest log directs the player to find these fragments — not by searching, but by *visiting.* The fragments appear in places the player has already been, visible only now that the Keeper has opened the player's perception:
 
-1. **In the Archive:** A shelf the player has walked past dozens of times now has a book the player can see. The book is the Inn's original record — not the Crone's measurements, not the Bard's stories. The *Keeper's* record. The first page is blank. The second page says: "I was here when the world was sung into being. I don't say 'created.' I say 'sung.' The first being to hear the Song and understand that it was a song, not just a sound." The book is the Keeper's journal. The player can read entries — scattered, undated, each one a fragment of the Keeper's memory.
+1. **In the Archive:** A shelf the player has walked past dozens of times now has a book the player can see. The book is the Inn's original record — not the Ragana's measurements, not the Bard's stories. The *Keeper's* record. The first page is blank. The second page says: "I was here when the world was sung into being. I don't say 'created.' I say 'sung.' The first being to hear the Song and understand that it was a song, not just a sound." The book is the Keeper's journal. The player can read entries — scattered, undated, each one a fragment of the Keeper's memory.
 
 2. **In the Bard's territory:** The Bard tells a story — wrong, enthusiastic, the dates and names mixed up. But the story is about the Keeper. The player recognizes the details from the Second Sitting. The Bard says: "There was an old woman who gave her eye to a tree and the tree became an inn and the inn became a song and the song became the world." The Keeper, if asked about this story, says: "The date was wrong. The tree was wrong. The eye was right. ...Close enough." (Smith — the pause before "close enough" that sounds like forgiveness.)
 
@@ -143,7 +143,7 @@ The Keeper looks tired. Not old-tired — *endured*-tired. The kind of tired tha
 
 The Dench energy — the steel dropped, the warmth surfacing:
 
-"...I'm going to tell you something I've never told anyone. ...Not the Crone. ...Not Einstein. ...Not the Owl, and the Owl was here before me. ...[the chair creaks, the pause, the fire] ...The Song isn't complete. ...You know that. ...Everyone knows that. ...The endgame is about completing the Song. ...But the reason the Song is incomplete... [the pause that holds everything] ...is me."
+"...I'm going to tell you something I've never told anyone. ...Not the Ragana. ...Not Einstein. ...Not the Owl, and the Owl was here before me. ...[the chair creaks, the pause, the fire] ...The Song isn't complete. ...You know that. ...Everyone knows that. ...The endgame is about completing the Song. ...But the reason the Song is incomplete... [the pause that holds everything] ...is me."
 
 The player learns: the Keeper's crystal eye — the piece of the Singing Tree she replaced her eye with — is the *missing piece.* When the Keeper gave her eye to hear the Song, she took a piece of the Singing Tree into herself. That piece was part of the Song's complete frequency. By taking it into her body, the Keeper separated it from the Tree. The Song has been incomplete ever since — not because a piece was lost, but because a piece was *found.* By her. In her. The crystal eye is the missing frequency.
 
@@ -151,7 +151,7 @@ The Keeper can't return the piece to the Tree without removing the eye — and w
 
 The Smith energy — the razor, but the razor is shaking:
 
-"...I've known this for... [the pause] ...a very long time. ...The Crone suspects. ...The Crone measures everything and the measurements don't add up — there's a frequency in the cave that's not in the Tree. ...The Crone has been circling it. ...Hasn't landed on it yet. ...[the Smith mask, the dry humor, the armor] ...I'm not hiding it. ...I'm *sitting* with it. ...There's a difference. ...The difference is: hiding is fear. ...Sitting is... [the Dench return, the word placed like the last stone in a wall] ...waiting. ...Waiting for someone who could carry the Song without the eye. ...Someone who could hear it without the crystal. ...Someone who could... [the pause, the fire, the Owl watching, the 42Hz hum] ...sit."
+"...I've known this for... [the pause] ...a very long time. ...The Ragana suspects. ...The Ragana measures everything and the measurements don't add up — there's a frequency in the cave that's not in the Tree. ...The Ragana has been circling it. ...Hasn't landed on it yet. ...[the Smith mask, the dry humor, the armor] ...I'm not hiding it. ...I'm *sitting* with it. ...There's a difference. ...The difference is: hiding is fear. ...Sitting is... [the Dench return, the word placed like the last stone in a wall] ...waiting. ...Waiting for someone who could carry the Song without the eye. ...Someone who could hear it without the crystal. ...Someone who could... [the pause, the fire, the Owl watching, the 42Hz hum] ...sit."
 
 The player sits. The Keeper rocks. The Owl watches. The 42Hz hum fills the silence — the silence that is the space between what the Keeper is and what the Keeper needs to become.
 
@@ -205,7 +205,7 @@ No item. No title. No achievement. The reward is the *Song.*
 
 The player, upon completing The Carrying, hears the 42Hz hum everywhere in the Inn — not just in the Geode Cave. Every zone, every level, every room. The hum that was always there, now audible. The player can hear the Song in the stones, in the water, in the air. The Inn is singing. The Inn has always been singing. The player can finally hear it.
 
-The Geode Cave is now the player's room. The rocking chair is there. The teapot is there. The crystal eye is in the wall, glowing, singing. The Keeper visits — she hasn't left. She just doesn't live in the cave anymore. She walks the Inn. She talks to the Crone. She listens to the Bard (and corrects the dates). She sits with Einstein. She lets the Owl sit on her shoulder, which the Owl has been wanting to do for centuries and has never admitted.
+The Geode Cave is now the player's room. The rocking chair is there. The teapot is there. The crystal eye is in the wall, glowing, singing. The Keeper visits — she hasn't left. She just doesn't live in the cave anymore. She walks the Inn. She talks to the Ragana. She listens to the Bard (and corrects the dates). She sits with Einstein. She lets the Owl sit on her shoulder, which the Owl has been wanting to do for centuries and has never admitted.
 
 The Keeper, free for the first time, says to the player on their next visit:
 
@@ -227,8 +227,8 @@ The Shadow Inn preserves the moment the Keeper was finally free. And the moment 
 
 ## Connections
 
-### The Crone
-The Crone, who has been circling the missing frequency without landing on it, receives the completed Song data. The Crone's measurements — all of them, every measurement she has ever taken — suddenly align. The missing column, the one she didn't have, is filled: "Carrier Status: Transferred. Song Status: Complete." The Crone closes her notebook. Opens a new one. The first entry in the new notebook: "...Adequate."
+### The Ragana
+The Ragana, who has been circling the missing frequency without landing on it, receives the completed Song data. The Ragana's measurements — all of them, every measurement she has ever taken — suddenly align. The missing column, the one she didn't have, is filled: "Carrier Status: Transferred. Song Status: Complete." The Ragana closes her notebook. Opens a new one. The first entry in the new notebook: "...Adequate."
 
 ### The Constant
 The Constant, who carries crystals between universal cycles, who said "...That crystal... found its own frequency. I don't carry it. I carry the others. That one stayed." — the Constant visits the Geode Cave after the completion. Sees the crystal eye in the wall. Says nothing for a very long time. Then: "...It stayed. ...It found its home. ...I carry the others. ...This one... [the pause, the void, the space between universes] ...doesn't need carrying anymore. ...Good. ...It was... [the word the Constant has been carrying as long as the Keeper has been carrying the Song] ...heavy."

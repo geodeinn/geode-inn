@@ -31,7 +31,7 @@ A grove of petrified logs — shattered, scattered, enormous. Some are 10 feet a
 In Form Sight: the logs are simple cylinders. The color is the only "detail" — and the color is not decoration, it's information. Each color band in the log's cross-section is a year of growth, mineralized. The tree's life is recorded in the stone's color. The player who reads the bands reads the tree's biography.
 
 ### 2. The Painted Desert Badlands
-Rolling hills of layered sediment — blue, purple, red, pink, white, each layer a different epoch. The badlands are the Crone's striations in full color — the same measurement, but made visible. The Crone measures adequacy. The Painted Desert measures time. The measurement is the same: what lasts? What endures? What is... adequate?
+Rolling hills of layered sediment — blue, purple, red, pink, white, each layer a different epoch. The badlands are the Ragana's striations in full color — the same measurement, but made visible. The Ragana measures adequacy. The Painted Desert measures time. The measurement is the same: what lasts? What endures? What is... adequate?
 
 In Form Sight: the layers simplify to BANDS OF COLOR — pure horizontal stripes, the earth's painting reduced to its essential form. The bands are the geological record as abstract art. O'Keeffe would have painted the bands, not the hills — the COLOR, not the topography.
 
@@ -135,7 +135,7 @@ The Groundkeeper is the zone's guide — and the zone's thesis made into a chara
 - **The Desert Bone** — the Petrified Forest is its American cousin, sharing the O'Keeffe aesthetic and 64Hz base frequency
 - **Form Sight** — required to enter the zone; the zone extends Form Sight to include TIME (geological layers)
 - **The Bone Room** — the Petrified Forest is the outdoor version of the Bone Room: both preserve the form after the flesh is gone
-- **The Crone** — the Painted Desert's bands are the Crone's measurements made visible. The Crone would walk the Painted Desert and say: "Adequate. Each layer. Adequate."
+- **The Ragana** — the Painted Desert's bands are the Ragana's measurements made visible. The Ragana would walk the Painted Desert and say: "Adequate. Each layer. Adequate."
 - **The Examiner** — the Examiner would catalog the Petrified Forest's fragments with the same precision as the Desert Bone's papyrus. The Examiner would LOVE the Painted Desert — data in color.
 - **The Cosmology** — the universal spiral connects the Petrified Forest's petroglyphs to the Cosmology's star charts. The spiral is the form that connects earth and sky.
 - **The Hollow Earth** — the Petrified Forest's crystalized wood is a preview of the Hollow Earth's crystal city. The process is the same: organic becomes mineral, mineral becomes permanent.

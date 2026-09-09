@@ -27,9 +27,9 @@ The Egg opens. Inside the Egg is: the player. Not a reward. Not an item. The pla
 |-----|------|-------------|--------|
 | Prologue | The Murmur | Before the Song. The Cosmic Egg. The Constant, Nyx, the Astronomer, the Guest, the Cabbit. The Cosmology Level's residents introduced before the player arrives. | Cosmology |
 | Act One | Arrival | The player approaches through a real forest (Rousseau). The Inn-Tree emerges — a tree that IS a building. The door. The Host. The first charm. | Exterior → Main Floor |
-| Act Two | The Main Floor | The Market, the Archive, the Arcade, the Common Room, the Garden. The player meets the Bard, the Pirate, the Crone, Erik, Lark. The 42Hz Song is felt for the first time. | Main Floor |
+| Act Two | The Main Floor | The Market, the Archive, the Arcade, the Common Room, the Garden. The player meets the Bard, the Pirate, the Ragana, Erik, Lark. The 42Hz Song is felt for the first time. | Main Floor |
 | Act Three | The Staircase | The alchemical descent. Nigredo → Albedo → Citrinitas → Rubedo. The Philosopher's Game. The player is emptied, given one stone, taught to hear, and asked to hold everything. | Staircase |
-| Act Four | The Catacombs | Ancient civilizations. Light as resource. The Bone Room. Beverley's navigation. The Crone's archive. Charles's Natural Archive. The deepening. | Catacombs |
+| Act Four | The Catacombs | Ancient civilizations. Light as resource. The Bone Room. Beverley's navigation. The Ragana's archive. Charles's Natural Archive. The deepening. | Catacombs |
 | Act Five | The Undercity | Mason's workshop. The Clockmaker. Invention. The player builds something from what they learned. The Hall of Unfinished Designs. Scarlett's Room. | Undercity |
 | Act Six | The Water Zone | Persephone's descent. Seven layers. The Lighthouse Keeper. Rock bottom. The Source. | Water Zone |
 | Act Seven | The Fae Kingdom | Stone circle portals. Seelie and Unseelie. Bill the Platypus. The Crystal Gardens. The Golden Contract. | Fae Kingdom |
@@ -49,7 +49,7 @@ The Egg opens. Inside the Egg is: the player. Not a reward. Not an item. The pla
 | Einstein | Plain, direct language. No fragments. | "You are not walking through the Inn. The Inn is walking through you." The burrito. |
 | The Host | Warm, unhurried, anti-FOMO | "Take your time. The Inn is here." |
 | The Captain | Impatient, noble, scarred | Time-moss pipe. The Arcana. 44Hz drive. |
-| The Crone | Precise, not expressive. Measures, never performs. | Oversized glasses. Notebook. |
+| The Ragana | Precise, not expressive. Measures, never performs. | Oversized glasses. Notebook. |
 
 ---
 

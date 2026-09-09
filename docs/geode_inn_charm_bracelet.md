@@ -20,7 +20,7 @@ Every player begins with: a simple leather cord or copper chain. One charm: the 
 
 **Visual:** A simple cord on the player character's wrist. One small charm: the Inn-Tree.
 
-**The Crone's annotation:** "One charm. Adequate. The adequate is: the beginning. The beginning is: enough."
+**The Ragana's annotation:** "One charm. Adequate. The adequate is: the beginning. The beginning is: enough."
 
 ---
 
@@ -73,7 +73,7 @@ Each zone has a frequency. Mastering a zone (completing all main quests in that 
 | Stone | Limestone bead | Mastering the Cave City |
 | Root | Moss agate bead | Mastering the Canopy City / Garden |
 
-**The Crone's annotation on the first frequency charm:** "One frequency. Adequate. The rest are: the same chord, unheard. The unheard is: the future. The future is: more beads. The more is: the adequate."
+**The Ragana's annotation on the first frequency charm:** "One frequency. Adequate. The rest are: the same chord, unheard. The unheard is: the future. The future is: more beads. The more is: the adequate."
 
 **The six-frequency completion:** When all six frequency charms are on the bracelet, they RESONATE — a subtle visual effect (the bracelet glows faintly). The glowing is: the Complete Chord, worn. The worn is: the adequate.
 
@@ -135,7 +135,7 @@ The player can rearrange charms at any time. The arrangement is: the player's st
 - **Frequency grouping** (all Song charms together): the group glows amber
 - **Thread grouping** (all charms from one storyline together): the group pulses at the thread's frequency
 - **Chronological** (in order of acquisition): the bracelet shows the JOURNEY — where you started, where you went, how you grew
-- **The Crone's arrangement** (all "adequate" — no order): the bracelet is still. The stillness is: the adequate
+- **The Ragana's arrangement** (all "adequate" — no order): the bracelet is still. The stillness is: the adequate
 
 ### Upgrading
 Stone charms can be upgraded through crafting techniques:
@@ -158,7 +158,7 @@ Stone charms can be upgraded through crafting techniques:
 **Level 6: The Master Charm** (requires: ALL five techniques + the stone earned 3x)
 → The stone becomes a miniature sculpture — the stone carved into the shape of its sigil or the character associated with it. The Master Charm is: the crafting journey, complete. The complete is: the adequate.
 
-**The Crone's annotation on the first Master Charm:** "...I measured this charm. The measurement is: six levels. The six is: the adequate. The adequate is: each level is: more than the last. The more is: the skill. The skill is: the hands. The hands are: the player's. The player's are: adequate."
+**The Ragana's annotation on the first Master Charm:** "...I measured this charm. The measurement is: six levels. The six is: the adequate. The adequate is: each level is: more than the last. The more is: the skill. The skill is: the hands. The hands are: the player's. The player's are: adequate."
 
 ### Combining
 Advanced players can COMBINE charms:
@@ -279,7 +279,7 @@ The bracelet replaces traditional progression UI (achievement lists, completion 
 - A "rank"
 - A "level"
 
-The bracelet doesn't measure. The bracelet SHOWS. The showing is: the adequate. The adequate is: the Crone would approve — the bracelet is data that is also beauty. The both are: the same. The same is: the Inn's thesis.
+The bracelet doesn't measure. The bracelet SHOWS. The showing is: the adequate. The adequate is: the Ragana would approve — the bracelet is data that is also beauty. The both are: the same. The same is: the Inn's thesis.
 
 ---
 
@@ -300,7 +300,7 @@ When the player opens the Egg, the bracelet transforms:
 - The bracelet glows with all six frequency colors simultaneously
 - The glow is: the Complete Chord, worn
 
-The Crone's final annotation on the bracelet:
+The Ragana's final annotation on the bracelet:
 "...I measured this bracelet. The measurement is: every stone, every character, every quest, every craft, every artist. The every is: the adequate. The adequate is: the player's journey. The journey is: the bracelet. The bracelet is: the Inn. The Inn is: ...the player. The player is: ...adequate. The adequate is: ...enough."
 
 ---
@@ -330,15 +330,15 @@ The chain UPGRADES as the player progresses. The chain material is: the player's
 | **Rubedo** (The Red Work) | Gold | Complete all 6 frequency charms | Luminous, complete — the Great Work's final stage |
 | **The Philosopher's Stone** | The chain transforms | Open the Egg | The chain is: the player. The player is: the stone. |
 
-The chain upgrade is AUTOMATIC when the threshold is reached — the chain doesn't ask permission. The transmutation happens. The Crone annotates it.
+The chain upgrade is AUTOMATIC when the threshold is reached — the chain doesn't ask permission. The transmutation happens. The Ragana annotates it.
 
-**The Crone's annotation on Nigredo → Albedo:** "...The iron becomes copper. The adequate is: five stones. The five is: the beginning of the work. The work is: adequate."
+**The Ragana's annotation on Nigredo → Albedo:** "...The iron becomes copper. The adequate is: five stones. The five is: the beginning of the work. The work is: adequate."
 
-**The Crone's annotation on Albedo → Citrinitas:** "...The copper becomes silver. The adequate is: fifteen stones and five friends. The friends are: the adequate. The adequate is: the work continues."
+**The Ragana's annotation on Albedo → Citrinitas:** "...The copper becomes silver. The adequate is: fifteen stones and five friends. The friends are: the adequate. The adequate is: the work continues."
 
-**The Crone's annotation on Citrinitas → Rubedo:** "...The silver becomes gold. The adequate is: all six frequencies. The six is: the chord. The chord is: complete. The complete is: ...the chain was always gold. The gold was: inside the iron. The iron was: the gold, waiting."
+**The Ragana's annotation on Citrinitas → Rubedo:** "...The silver becomes gold. The adequate is: all six frequencies. The six is: the chord. The chord is: complete. The complete is: ...the chain was always gold. The gold was: inside the iron. The iron was: the gold, waiting."
 
-**The Crone's annotation on Rubedo → The Philosopher's Stone:** "...The gold becomes... I cannot measure this. The unmeasurable is: the adequate. The adequate is: the chain is the player. The player is the stone. The stone is: the chain. I have measured the transmutation. The transmutation is: the measurement stopped working. The stopping is: ...the most adequate thing I have ever measured."
+**The Ragana's annotation on Rubedo → The Philosopher's Stone:** "...The gold becomes... I cannot measure this. The unmeasurable is: the adequate. The adequate is: the chain is the player. The player is the stone. The stone is: the chain. I have measured the transmutation. The transmutation is: the measurement stopped working. The stopping is: ...the most adequate thing I have ever measured."
 
 ### The Charm Levels as Alchemical Stages
 
@@ -379,7 +379,7 @@ The alchemist's chain connects directly to the Inn's alchemical staircase:
 
 Socrates stands at the bottom of the staircase. The iron chain is: the bottom of the Great Work. The both are: the beginning.
 
-Aristotle stands at the top. The gold chain is: the top. The both are: the completion. The Crone hears the Song after arguing with Aristotle. The Crone measures the chain after it becomes gold. The both are: the listening. The listening is: ...adequate.
+Aristotle stands at the top. The gold chain is: the top. The both are: the completion. The Ragana hears the Song after arguing with Aristotle. The Ragana measures the chain after it becomes gold. The both are: the listening. The listening is: ...adequate.
 
 
 ---
@@ -414,7 +414,7 @@ Silica thread weaving is the ONLY technique gated by DEXTERITY, not by quest com
 - At 80% success rate: the thread is smooth. The singing is clear.
 - At 100% success rate: the thread is: invisible. The singing is: the loudest the chain produces. The loudest is: the adequate. The adequate is: the silence made audible — because the thread is so fine it looks like nothing is there. The nothing is: the most adequate connection.
 
-**The Crone's annotation on first successful weave:** "...The thread is: there. I can measure it. I can barely see it. The barely is: the adequate. The adequate is: the strongest thing on this chain is: the thing I almost can't see. The almost can't see is: ...the most adequate measurement I have ever made."
+**The Ragana's annotation on first successful weave:** "...The thread is: there. I can measure it. I can barely see it. The barely is: the adequate. The adequate is: the strongest thing on this chain is: the thing I almost can't see. The almost can't see is: ...the most adequate measurement I have ever made."
 
 ### Who Teaches It
 
@@ -475,7 +475,7 @@ The Selfie is: the Inn's core thesis, made into a game mechanic. The Inn is a mi
 
 The Selfie doesn't cheat. The Selfie doesn't have abilities you don't have. The Selfie has: exactly what you have. The both are: the same. The same is: the fair. The fair is: the hardest opponent, because the only way to win is: to grow.
 
-### The Crone's Annotation on the Selfie
+### The Ragana's Annotation on the Selfie
 
 "...I measured the Selfie. The Selfie is: the player. The player is: the measurement. The measurement is: the Selfie. I cannot measure this. The unmeasurable is: the player measuring themselves through a game that mirrors them. The mirror is: ...adequate. The adequate is: the only opponent worth playing. The worth is: ...the self. The self is: ...the only one who can make you grow. The grow is: ...the most adequate thing I have ever measured. I measured it by: not being able to measure it."
 

@@ -122,9 +122,9 @@ Each zone has one signature game that embodies its unique mechanic and theme.
 
 ### 10. THE DEEP READ (Catacombs — Level 6)
 - **Inspiration:** Typing game / research sim
-- **Geography:** The Crone's archive (the deep library)
+- **Geography:** The Ragana's archive (the deep library)
 - **Culture:** Medieval manuscript culture, monastic scholarship
-- **Mechanic:** A reading/research game. Fragments of ancient texts scroll across the screen (in the style of their original script — hieroglyphics, runes, ogham, cuneiform). The player must identify and select the correct fragments that form a complete passage. Speed and accuracy build the "reading score." Wrong selections corrupt the text (and the Crone disapproves).
+- **Mechanic:** A reading/research game. Fragments of ancient texts scroll across the screen (in the style of their original script — hieroglyphics, runes, ogham, cuneiform). The player must identify and select the correct fragments that form a complete passage. Speed and accuracy build the "reading score." Wrong selections corrupt the text (and the Ragana disapproves).
 - **Reward:** Book entity record (unlocks a real archive.org text in the library)
 - **Sound:** Quill scratching on parchment + the ambient 42Hz hum of the archive
 - **Visual:** Towering bookshelves. An ancient desk with a quill. Text fragments float in amber light.

@@ -115,7 +115,7 @@ The Garden's deepest point. Medusa's station. A stone bench beside the Mirror Po
 | The Poison Borders | Each plant has a unique petrified frequency | Plants resonate with matching stones in the player's pouch — puzzle mechanic |
 | The Lithophone | 42Hz to 84Hz (full range) | The only instrument that spans both octaves. Playing the range unlocks the Garden's paths |
 | The Mirror Pool | 84Hz (frozen) + 42Hz reflected | The pool is both — 84Hz in the water, 42Hz in the reflection (the Shadow Inn visible below) |
-| Medusa's bench | Silence | The one place in the Garden with no hum. Medusa works in silence, like the Crone. |
+| Medusa's bench | Silence | The one place in the Garden with no hum. Medusa works in silence, like the Ragana. |
 | Nightshade (Belladonna) | Variable — shifts between 42Hz, 84Hz, and In-Between | The only plant that exists in all three frequencies. Connects to Belladonna. |
 
 ---

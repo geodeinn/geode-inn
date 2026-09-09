@@ -45,7 +45,7 @@ The central room. The hub. All paths lead through here. The great hall is:
 - The social center (NPCs gather, the player meets characters here)
 - The navigation hub (doorways and passages to every other zone branch off from the hall)
 
-**The Innkeeper's List** — a board on the wall near the entrance. The Wanderer posts daily quests here — requests from NPCs across all zones. "The Crone needs a specific book." "Jay needs fresh supplies." "The Navigator needs a weather reading." The player picks up quests from the board and delivers them. This is the Inn's QUEST SYSTEM — the mechanical framework connecting all levels through errands. Quests on the board rotate daily, with some persistent (story quests) and some one-time (delivery, fetch, find).
+**The Innkeeper's List** — a board on the wall near the entrance. The Wanderer posts daily quests here — requests from NPCs across all zones. "The Ragana needs a specific book." "Jay needs fresh supplies." "The Navigator needs a weather reading." The player picks up quests from the board and delivers them. This is the Inn's QUEST SYSTEM — the mechanical framework connecting all levels through errands. Quests on the board rotate daily, with some persistent (story quests) and some one-time (delivery, fetch, find).
 
 ### 2. The Bar (The Weeaboo's Social Space)
 The Weeaboo's Main Floor domain. A warm, well-lit counter with stools. Bottles of improbable colors. The social glue of the Inn — where NPCs come to talk, trade gossip, and rest.
@@ -58,7 +58,7 @@ The bar is where the player:
 
 **Bar NPCs who visit:**
 - The Cool (Clockwork Skies) — drinks alone, but not sadly. Sometimes the player can sit with the Cool and share a drink. The Cool says three words. They're the right three words.
-- The Crone (Catacombs) — comes upstairs for a single drink, once a week. Orders something very specific. The Weeaboo always has it ready. The Crone never thanks the Weeaboo. The Weeaboo never expects thanks.
+- The Ragana (Catacombs) — comes upstairs for a single drink, once a week. Orders something very specific. The Weeaboo always has it ready. The Ragana never thanks the Weeaboo. The Weeaboo never expects thanks.
 - Jay (Campgrounds) — brings ale from the tavern. Trades recipes with the Weeaboo. Laughs loudly.
 - Luna (Campgrounds) — comes for the quiet. Sits in the corner, draws bead designs on napkins. Leaves the napkins. The Weeaboo keeps them.
 
@@ -215,7 +215,7 @@ The runes are hidden in each zone:
 - **Main Floor:** under the bar counter (the Weeaboo knows it's there, doesn't know what it means)
 - **Campgrounds:** on the underside of Jay's tavern table
 - **Staircase:** on the back of a clock face
-- **Catacombs:** inside a book the Crone has catalogued (the Crone noticed the rune and filed it as "graffiti, ancient, significance unknown")
+- **Catacombs:** inside a book the Ragana has catalogued (the Ragana noticed the rune and filed it as "graffiti, ancient, significance unknown")
 - **Fae Kingdom:** on the underside of a Stone Circle (visible only at the Seelie/Unseelie boundary)
 - **Water Zone:** on the Lighthouse's lantern room floor
 - **Undercity:** on the ceiling — Scarlett shows the player, having found it while staring upward

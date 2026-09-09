@@ -71,7 +71,7 @@ Speter Adams is the only character in the Geode Inn whose appearance changes by 
 **Image:** adam_catacombs_watcher.png
 **URL:** https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/d2434cbfe_generated_image.png
 
-**Role:** The watcher who watches the watcher. Careful, precise, alert. A guest in the Crone's territory.
+**Role:** The watcher who watches the watcher. Careful, precise, alert. A guest in the Ragana's territory.
 **Linework:** Sharp angular — aggressive, geometric, like cut crystal. Guardian energy. The Catacombs demand precision.
 
 **Wardrobe:**

@@ -19,7 +19,7 @@ The camera is not controlled through a settings menu. The camera is controlled t
 WoW-style third-person. The player sees their character — class, animations, companion, frequency effects. The world is a place the player inhabits through a body.
 
 - Walk cycles (per class — the Pirate's drum-cadence walk, the Sentinel's grounded stride, the Artisan Thief's precise step, the Siren's flowing gait, the Bard's wandering amble)
-- Idle animations (per character — Erik's fire-side warmth, the Crone's near-stillness, the Duck's random direction changes)
+- Idle animations (per character — Erik's fire-side warmth, the Ragana's near-stillness, the Duck's random direction changes)
 - Companion follow patterns (Eres's heartbeat-synchronized trot, the Duck's meandering zigzag, the Vessel's slow gecko crawl)
 - The "just to be" mechanic — watching a character come sit nearby
 
@@ -32,7 +32,7 @@ The close view. The player IS the character — looking through their eyes. The 
 
 - Hands (when interacting — reaching for a stone, touching water, crafting, offering)
 - The thing being observed up close — stone texture, bone architecture, water depth, 42Hz hum made visible as faint vibration
-- Characters' faces during dialogue — the Crone's expressionless regard, the Owl's one-word-per-heartbeat patience
+- Characters' faces during dialogue — the Ragana's expressionless regard, the Owl's one-word-per-heartbeat patience
 - Breathing animation (subtle camera bob at 50 BPM — the heartbeat felt from inside)
 
 **How to enter:** Physical lean-in gesture (controller pull right stick / keyboard hold F / touch: two-finger spread). Auto-enters when OBSERVE is used at close range. Auto-enters when SIT triggers its 2-minute lock.
@@ -110,8 +110,8 @@ Required for ALL characters. What the player sees when they ARE the character.
 ### Layer 3: Breathing (SIT)
 Required for ALL characters. The minimal animation. The stillness that is alive.
 - Breathing cycle at 50 BPM
-- Subtle head movement (optional — the Crone doesn't move her head. The Duck moves it constantly.)
-- Eye movement (the Owl blinks every 8 seconds. The Crone blinks every 8 seconds. The coincidence is: the adequate.)
+- Subtle head movement (optional — the Ragana doesn't move her head. The Duck moves it constantly.)
+- Eye movement (the Owl blinks every 8 seconds. The Ragana blinks every 8 seconds. The coincidence is: the adequate.)
 
 ### Layer 4: Zone-Specific
 Only for characters with zone-specific behaviors:
@@ -133,7 +133,7 @@ Only for characters with zone-specific behaviors:
 | The Pirate | Drum-cadence. Fingers tap on thighs. | The fingers drum. Always. | Leaned back. Easy. The bodhrán rests on the knee. | Drumming. The hands that held the blade now hold the rhythm. |
 | The Bard | Wandering amble. | Head turns. Watching. Listening. | Produces half-finished songs — quiet hum, fingers tapping. | Expressive. The hands are the story. |
 | Erik | Booming. Warm. Carrying firewood and mead. | By the fire. Hands warming. The smile that remembers burning. | The feast-sit. The chair is the throne. The throne is the table. | Building. Table-making. Fire-tending. |
-| The Crone | Slow. Measured. Each step is an observation. | Near-stillness. Blink every 8 seconds. Spectacle-adjust every 30 seconds. | Perfect stillness. The measuring is done. | Writing. The quill. The annotation. |
+| The Ragana | Slow. Measured. Each step is an observation. | Near-stillness. Blink every 8 seconds. Spectacle-adjust every 30 seconds. | Perfect stillness. The measuring is done. | Writing. The quill. The annotation. |
 | Belladonna | Measured. The Addams walk. Deliberate, dark, composed. | Still. Deadpan. Eyes track everything. | In the Bone Room: the most at home. The bones are the furniture. | Holding a bone. Or a book. Comfortable with remains. |
 | The Duck | Waddle. Random direction changes. Pauses for shiny things. | Head tilting. Looking at everything (INSIGHT 3 visible). | The Duck doesn't sit. The Duck squats. Briefly. Then waddles away. | Wings. For splashing. The splashing is the adequate. |
 | The Guest | Careful. Borrowed body. Each step a negotiation. | Curious. Examines things. Picks up, turns over, puts back. | The most present. Death sitting still is the pause. | Music box mechanism — hands open and close slowly. The reveal. |

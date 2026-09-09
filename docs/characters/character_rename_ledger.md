@@ -16,7 +16,8 @@
 | **Lozen** | River (class title: The Sentinel) | All character references updated. Literal rivers in world lore are untouched. |
 | **Charles** | — | The Chameleon Druid. Already canonical throughout the storyline. |
 | **Eres** | — | The Cabbit. Already canonical. |
-| **Brim** | Madame Mim, Mim, Mimm | Pipe-smoking chaos agent, Magritte pipe companion. Krista 2026-09-09: "Mimm or Brim, whichever fits best" — **Brim chosen**: already canonical since Sept 3, original (keeps distance from the Disney witch of Sword in the Stone per the copyright shield), and it fits her — brimstone, brimming over, the hat brim over knowing eyes. OPEN QUESTION (still open): card decks + Egg Hatchery Event 1 tie Brim to "the Crone" — same character, or separate from the Crone (Krista's mom, Latvian name pending)? |
+| **Brim** | Madame Mim, Mim, Mimm | Pipe-smoking chaos agent, Magritte pipe companion. Krista 2026-09-09: "Mimm or Brim, whichever fits best" — **Brim chosen**: already canonical since Sept 3, original (keeps distance from the Disney witch of Sword in the Stone per the copyright shield), and it fits her — brimstone, brimming over, the hat brim over knowing eyes. RESOLVED by Krista 2026-09-09: SEPARATE — the Crone is now Ragana. Brim is a sidekick character, alongside the Vessel (the family's crested gecko). PENDING RULING: Egg Hatchery Event 1 + card deck rows credit "Brim, the Crone" — whose event/card is it, Brim's or Ragana's? |
+| **Ragana** | the Crone | Krista's mom (Inta Barton) — the archive keeper, the Hopkins gaze, the one who measures. Name chosen by her: Latvian for "witch" (Krista called it 2026-09-09). Swept across 527+ files; lowercase "crone" archetype references (Morrigan triple-face, Brownies line) and legacy image filenames (crone.png) untouched. |
 | **Oleander** | (the Seelie King, unnamed) | The Seelie King. The title "the Seelie King" remains valid as a descriptor/reference; the character's name is Oleander. |
 | **Malachi** | Malachi | The Unseelie King, the goblin king. Bowie/Labyrinth remains as craft/casting reference only. |
 | **Wisteria** | Wisteria | The tavern keeper's wife (Jay's campsite tavern family). |
@@ -52,7 +53,7 @@
 2. Lovecraft mythos references keep "Cthulhu" as literary source; only the NPC is Naut.
 3. Historical commit/audit manifests preserve past names as history.
 4. Non-storyline characters tied to real people may rename on request.
-5. The Crone's chosen name (Latvian for 'witch') is pending from Krista's mom.
+5. RESOLVED 2026-09-09: the Crone is now Ragana (chosen by Krista's mom).
 
 ---
 

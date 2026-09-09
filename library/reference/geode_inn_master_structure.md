@@ -46,7 +46,7 @@ Before the Song, there was the Murmur. Not sound — not yet. The Murmur is what
 
 | Character/Element | Description | Source Doc | Status |
 |---|---|---|---|
-| **The Crone** (Hopkins) | Measures everything. "Adequate." Learns to listen to the Song. Twin/facet: Charon. | Before the Song ✓ | Complete |
+| **The Ragana** (Hopkins) | Measures everything. "Adequate." Learns to listen to the Song. Twin/facet: Charon. | Before the Song ✓ | Complete |
 | **The Catalyst** (Helena Bonham Carter) | Bar/garden. Grows portal arrows. Growth by WILL vs. The Greenward's growth by COMMUNION. Mrs. Lovett energy. The Spirit. | Before the Song ✓ | Complete |
 | **Brim** | Inner chaos agent. Rides a Magritte pipe. Breaks formulas to reveal secret paths. Belladonna energy. "Madame" — said in various tones, never the same. | Before the Song ✓ | Complete |
 | **The Arcade & Score Stone** | 7-foot obsidian leaderboard. Cultural mini-games: Standing Stones (Tetris), Tomb Tunnel (Dig Dug), Andean Run (Temple Run), Monster of the Deep (Nessie), Bastet's Herding. | Before the Song ✓ | Complete |
@@ -70,7 +70,7 @@ Ascends in musical semitones from main floor to cosmology. Each step = one alche
 |---|---|---|---|---|---|
 | **Nigredo** (Black) | Socrates | Dissolution | Socratic questioning, dissolve false assumptions | Before the Song ✓ | Complete |
 | **Albedo** (White) | Plato | Purification | Plato's Cave interactive mural, shadows of archetypes | Before the Song ✓ | Complete |
-| **Rubedo** (Red) | Aristotle | Conjunction | Categorization, intellectual reconciliation with the Crone | Before the Song ✓ | Complete |
+| **Rubedo** (Red) | Aristotle | Conjunction | Categorization, intellectual reconciliation with the Ragana | Before the Song ✓ | Complete |
 
 **Staircase Residents:**
 - The Retort (Tesla's soul in female form) + Bloop (Schrödinger's cat)
@@ -80,7 +80,7 @@ Ascends in musical semitones from main floor to cosmology. Each step = one alche
 - Leonardo da Vinci (mirror script = Annunaki runes, designed the Arcana)
 
 **ALSO ON THE STAIRCASE (from Bestiary):**
-- Charon (Hopkins) — the Ferryman. Silence to the Crone's mind.
+- Charon (Hopkins) — the Ferryman. Silence to the Ragana's mind.
 - Persephone and Hades — the Tide Queen and the Harbor
 - Hel (Angelina Jolie/Maleficent) — half living, half dead. Neutral guardian.
 - Asterion — the Minotaur
@@ -269,7 +269,7 @@ Persephone's cycle made spatial. The 7-layer system as Persephone's spatial cycl
 | Hearth | Firekeeper's Hearth | Alive (fire) | Construct | Build for others | `geode_inn_hearth_item_templates.md` |
 | Water | Katya's Cove | Living (bioluminescence) | Shape + grow | Build with | `geode_inn_water_item_templates.md` |
 | Cosmology | Allfather's Observatory | Celestial (stars/moon) | Expose | Build by watching | `geode_inn_cosmology_item_templates.md` |
-| Catacombs | Crone's Archive | Scarce (oil/foxfire) | Carve (excavate) | Build by excavating | `geode_inn_catacombs_item_templates.md` |
+| Catacombs | Ragana's Archive | Scarce (oil/foxfire) | Carve (excavate) | Build by excavating | `geode_inn_catacombs_item_templates.md` |
 | Staircase | Clockmaker's Workshop | Evolving (earth→light) | ALL methods in sequence | Build by transforming | `geode_inn_staircase_item_templates.md` |
 | Fae Kingdom | The Threshold + Courts | Split (summer/winter) | Grow / Carve / Place | Build by choosing | `geode_inn_fae_kingdom_item_templates.md` |
 | Lighthouse | Keeper's Chamber | Directed (the beam) | Maintain (the Vigil) | Build by holding | `geode_inn_lighthouse_item_templates.md` |
@@ -319,7 +319,7 @@ Vanir gods — TO BE DESIGNED
 The Seelie King, The Seelie Queen, The Cartographer, The Examiner, Fibonacci, Story-Born Ents (4)
 
 ### Midgard (Main Floor)
-The Host, The Crone, The Catalyst, Brim, The Thrum, The Brownies, Arcade NPCs (Bastet, etc.)
+The Host, The Ragana, The Catalyst, Brim, The Thrum, The Brownies, Arcade NPCs (Bastet, etc.)
 
 ### The Dock (Water Layer)
 The Lighthouse/Owl, The Pirate, Zeke, The Siren/Katya, Oceanianoir, Water Monsters (32 designed, 78 identified)

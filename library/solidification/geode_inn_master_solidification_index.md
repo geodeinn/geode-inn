@@ -191,7 +191,7 @@ Every markdown document in the Geode Inn repository (255 files, ~750k words) has
 145. The Song of Making — 50Hz = Eres's crystal heart, Golden Contract
 146. The Mirror — Anti-Contract, Camelot's Erised
 147. The Pulse Line — Tri-mode integration, neurodivergent accessibility
-148. The Bone Room — Bone-stone-song triangle, Crone's word journey
+148. The Bone Room — Bone-stone-song triangle, Ragana's word journey
 149. The Living Book System — Entity reconciliation, Stone Book as onboarding
 150. Shadow Inn Combat Engine — 8 zone instances, role system, boss mechanics
 

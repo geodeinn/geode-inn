@@ -28,7 +28,7 @@ Below the chamber, below the Fae Kingdom, below everything — a small room. War
 - Covered in writing that is not Ogham, not hieroglyphs, not runes — a script that predates all of them
 - The script glows faintly amber, like the Inn's signature light
 - When the player picks it up, the scroll unrolls itself — slowly, gently, like a flower opening
-- The text is in the ancient script, but the Librarian Crone can read it (the only class that can — this is the reward for highest intelligence + archive access)
+- The text is in the ancient script, but the Librarian Ragana can read it (the only class that can — this is the reward for highest intelligence + archive access)
 - Other classes see the golden scroll and feel warmth, but cannot read it. The Owl, if present, simply says: *"Listen."*
 
 ### The Text
@@ -39,7 +39,7 @@ The scroll contains two things:
 A melody written in a notation that no modern system can fully transcribe. The notation resembles a river — the notes flow like water, branching and merging, sometimes running parallel, sometimes crossing. A musician (like Katya) could partially sight-read it. The melody, when hummed, matches the frequency of the Singing Tree in the Canopy of Sála when all its leaves are in place. It is the same song. The Singing Tree has been singing a fragment of the Song of Making this entire time.
 
 **2. A Contract (the bottom half of the scroll)**
-A compact — an agreement — between parties unnamed. The language is archaic and careful. The Crone can translate the intent:
+A compact — an agreement — between parties unnamed. The language is archaic and careful. The Ragana can translate the intent:
 
 > *The undersigned agree: that the Song shall not be silenced. That all who learn it shall be bound to sing it forward. That the Song is not owned — it is carried. That to carry the Song is to be made of it. That to be made of it is to be responsible for every note you add.*
 >
@@ -47,7 +47,7 @@ A compact — an agreement — between parties unnamed. The language is archaic 
 
 The signatures at the bottom are not names. They are **frequencies** — each party signed with their own resonant tone. One of the frequencies is 111 Hz (the Watcher gargoyle's tone). Another is 432 Hz (the Caller). Another is 528 Hz (the Sage). The gargoyle frequencies are signatures on the Song of Making.
 
-There is one more signature — a frequency no living being in the Inn produces. It is not listed in any archive entry. The Crone cannot identify it. If the player checks the Singing Tree after reading the contract, they will notice the tree has one crystal leaf that produces a tone matching this unknown frequency. It has been there the whole time. It was always there.
+There is one more signature — a frequency no living being in the Inn produces. It is not listed in any archive entry. The Ragana cannot identify it. If the player checks the Singing Tree after reading the contract, they will notice the tree has one crystal leaf that produces a tone matching this unknown frequency. It has been there the whole time. It was always there.
 
 ## What It Means (For Those Who Connect the Dots)
 
@@ -77,7 +77,7 @@ The clues are there, but they're ambient:
 - The Owl's "42" responses, if cataloged, reveal that 42 Hz is a sub-audible frequency
 - The Preseli Blue Stone (Stonehenge's stone) vibrates at a frequency that, when measured, is a harmonic of 42 Hz
 - The crystal pinball table's bumpers, when all three are resonating simultaneously, produce a chord that contains the Singing Tree's melody
-- A Librarian Crone with maximum archive access will find, in the deepest text in the library, a single line: *"Before the first word, there was the hum."*
+- A Librarian Ragana with maximum archive access will find, in the deepest text in the library, a single line: *"Before the first word, there was the hum."*
 
 The player who connects all of these — the Singing Tree, the gargoyles, the Owl's 42, the Preseli Blue Stone, the pinball chord, the archive line — and then goes to the Stone Circle Chamber with all six stones aligned to the true position... finds the Golden Contract.
 

@@ -98,7 +98,7 @@ The Shadow Inn is the Living Inn's mirror. Every zone in the Living Inn has a Sh
 #### 1. Main Floor (Shadow) — The Hearth That Went Out
 - **The fire:** Dead. Grey ash. The 50 BPM heartbeat is absent.
 - **The Host:** Not present. The Host's chair is empty. The Host only exists at 42Hz.
-- **The Crone:** Petrified. Standing at the measuring wall, tape frozen mid-pull. The tape reads: "—"
+- **The Ragana:** Petrified. Standing at the measuring wall, tape frozen mid-pull. The tape reads: "—"
 - **The Catalyst:** The garden is stone. The portal arrows are fossilized — vines turned to mineral, still growing in shape but not in life.
 - **The Firekeeper:** Sitting by the dead fire. Still. The Firekeeper is the one NPC who is NOT petrified in the Shadow Inn — because the Firekeeper's role is to KEEP the fire, and keeping is 84Hz. The Firekeeper is the Shadow Inn's anchor NPC.
 - **The Reader:** Gone. The window-seat nook is empty. The book is face down. The tea is cold. (The Reader does not exist at 84Hz. The Reader is a story, and stories require the Living frequency.)
@@ -111,7 +111,7 @@ The Shadow Inn is the Living Inn's mirror. Every zone in the Living Inn has a Sh
 
 #### 2. The Staircase (Shadow) — The Reversed Climb
 - **The Staircase in Shadow runs DOWN, not up.** The player enters at the top (Rubedo) and descends.
-- **Rubedo (Aristotle):** Petrified at the categorization table. The Crone's measuring tape is on the table, frozen.
+- **Rubedo (Aristotle):** Petrified at the categorization table. The Ragana's measuring tape is on the table, frozen.
 - **Albedo (Plato):** Petrified in front of the Cave mural. The mural is dark — the shadows on the wall are gone. Plato's Cave, in the Shadow Inn, has no shadows. The shadows were the 42Hz's work.
 - **Nigredo (Socrates):** The only conscious NPC on the Staircase. Socrates is sitting at the bottom, waiting. Socrates' questioning IS the Shadow frequency — the dissolution, the unmaking, the dissolution of certainty. Socrates is at home in the Shadow Inn.
 - **The Gargoyles:** All six petrified. They were already stone — in the Shadow Inn, they are stone that has stopped resonating. The frequencies they carried (111Hz, 64Hz, 528Hz, 432Hz) are silent.
@@ -121,7 +121,7 @@ The Shadow Inn is the Living Inn's mirror. Every zone in the Living Inn has a Sh
 
 #### 3. The Catacombs (Shadow) — The Archive That Stopped Recording
 - **The catacombs in Shadow are the Whisper Layer's BACK ROOM.** This is where the data goes when it's recorded. In the Shadow Inn, the recording has stopped. The catacombs are full of records that are no longer being updated.
-- **The Crone's archive:** Frozen. The measuring tape is slack. The cards are stone tablets — every measurement the Crone ever made, petrified at the moment of recording.
+- **The Ragana's archive:** Frozen. The measuring tape is slack. The cards are stone tablets — every measurement the Ragana ever made, petrified at the moment of recording.
 - **Charon's ferry:** The silver river is frozen. The boat is stuck mid-crossing. Charon is petrified at the pole. The obols are frozen on the water's surface.
 - **The Underworld Queens:** All petrified. Persephone, Hel, the Morrigan — each in their chamber, each frozen mid-gesture.
 - **The Modern Day Legends shelf:** The only shelf in the catacombs that is NOT petrified. The Modern Day Legends are stories from THIS century — they exist outside the 42Hz Song. They are the Inn's pre-industrial exclusion zone's mirror: the things that happened AFTER the archive's cutoff date. The Sync Paradox entry glows faintly — the loophole, the gap, the thing the system couldn't record. In the Shadow Inn, the Sync Paradox is the ONLY text that's still legible.
@@ -184,9 +184,9 @@ The Firekeeper sits by the dead fire. The Firekeeper has been keeping the fire f
 > 
 > "...Waits."
 
-**Objective:** The Firekeeper asks the player to find the EMBER — the one piece of the fire that might still be alive. The Ember is in the catacombs, in the Crone's archive. The Crone measured the fire's temperature every cycle, and the last measurement — the one taken the moment the Shadow Inn activated — recorded a single ember at 0.3Hz. The Void Heartbeat's frequency. The ember is the fire's seed, surviving at the silence frequency.
+**Objective:** The Firekeeper asks the player to find the EMBER — the one piece of the fire that might still be alive. The Ember is in the catacombs, in the Ragana's archive. The Ragana measured the fire's temperature every cycle, and the last measurement — the one taken the moment the Shadow Inn activated — recorded a single ember at 0.3Hz. The Void Heartbeat's frequency. The ember is the fire's seed, surviving at the silence frequency.
 
-**Mechanic:** Navigate the Shadow catacombs (petrified, no 42Hz guidance, no minimap — the Whisper Layer is offline). Find the Crone's last measurement card. The card has the ember's location: the deepest archive drawer, labeled "Cycle [current] — Final Temperature."
+**Mechanic:** Navigate the Shadow catacombs (petrified, no 42Hz guidance, no minimap — the Whisper Layer is offline). Find the Ragana's last measurement card. The card has the ember's location: the deepest archive drawer, labeled "Cycle [current] — Final Temperature."
 
 **Reward:** The Ember (key item). The Ember pulses at 0.3Hz. The Ember is the warmest thing in the Shadow Inn — warmer than the Egg in the Living Inn, because the Ember is the fire's CORE, stripped of everything except the smallest possible heat.
 
@@ -380,8 +380,8 @@ The LEAVE choice has the player descend the staircase in reverse: Rubedo → Alb
 ### The Reversed Stages
 
 #### Rubedo (Reversed) — The Uncategorization
-**Original:** The Crone and Aristotle categorize everything the player has collected. Stones are sorted, frequencies are classified, the Song is organized.
-**Reversed:** The categories DISSOLVE. The stones in the player's body return to their unsorted state. The 42Hz chord separates into individual notes. The organized Song becomes: a collection of sounds. The Crone's measuring tape retracts. The tape reads: "—" (the same reading as the Shadow Inn).
+**Original:** The Ragana and Aristotle categorize everything the player has collected. Stones are sorted, frequencies are classified, the Song is organized.
+**Reversed:** The categories DISSOLVE. The stones in the player's body return to their unsorted state. The 42Hz chord separates into individual notes. The organized Song becomes: a collection of sounds. The Ragana's measuring tape retracts. The tape reads: "—" (the same reading as the Shadow Inn).
 
 **Mechanic:** The player walks DOWN the Rubedo stairs. Each step removes one layer of categorization. The stones' frequencies, which have been harmonized, separate. The Pulse Line, which has been a unified amber chord, begins to show individual frequencies — each stone's note, distinct, unharmonized. After 10 steps, the stones are: individual. The Song is: unassembled.
 

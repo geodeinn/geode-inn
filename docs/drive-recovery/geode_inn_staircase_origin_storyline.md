@@ -17,7 +17,7 @@ In the Geode Inn: Katya the Siren. The water zone's voice. The performer whose s
 ### The Switzerland — The Chameleon as Map
 One chose to be everywhere. The neutral one. The Switzerland. If you fit every room, you never have to choose a room. If you become what each space needs, no space rejects you. The chameleon isn't a performance — it's cartography. Speter Adams mapped every room in the house by becoming the person who could safely stand in it.
 
-In the Geode Inn: Speter Adams. The Dollkeeper. The only character with a home on every level because Speter Adams learned early that belonging everywhere is the alternative to belonging nowhere. The Crone recognizes this because the Crone is the archive's neutrality — and Speter Adams is the family's.
+In the Geode Inn: Speter Adams. The Dollkeeper. The only character with a home on every level because Speter Adams learned early that belonging everywhere is the alternative to belonging nowhere. The Ragana recognizes this because the Ragana is the archive's neutrality — and Speter Adams is the family's.
 
 ### The Troublemaker — The Stairs as Vantage
 One chose trouble. Always in trouble. Not because the trouble was fun — because trouble meant being sent away. Being sent away meant the stairs. And the stairs were better than people.
@@ -86,7 +86,7 @@ Somewhere in the Inn's narrative, the truth surfaces: the staircase wasn't desig
 
 ## TABLETOP NARRATIVE VOICE — The Staircase Confession
 
-*The Firekeeper's fire is low. The Inn is quiet. The Crone is in the archive, measuring. The Clockmaker is on the stairs, adjusting a gear that doesn't need adjusting.*
+*The Firekeeper's fire is low. The Inn is quiet. The Ragana is in the archive, measuring. The Clockmaker is on the stairs, adjusting a gear that doesn't need adjusting.*
 
 *The player sits with the Firekeeper, who speaks in that velvety, theatrical cadence — but softer now. The performance is down. The voice is just a voice.*
 

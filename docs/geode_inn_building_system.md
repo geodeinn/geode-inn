@@ -39,7 +39,7 @@ Every building in the Inn is made from combinations of seven base materials. Eac
 
 **Alchemical stage:** Present in all stages, but primary in Nigredo (raw shelters) and Albedo (refined houses). Wood is: the first thing you build with. The first thing is: the adequate.
 
-**Inn connection:** Wood is the present tense — the material that is alive. The Cartographer maps forests. The Crone measures wood's adequacy. Hoggle knows which wood for which purpose. The Gardener watches you take from the forest — the communion vs. will mechanic applies.
+**Inn connection:** Wood is the present tense — the material that is alive. The Cartographer maps forests. The Ragana measures wood's adequacy. Hoggle knows which wood for which purpose. The Gardener watches you take from the forest — the communion vs. will mechanic applies.
 
 ---
 
@@ -67,7 +67,7 @@ Every building in the Inn is made from combinations of seven base materials. Eac
 
 **Alchemical stage:** Present in all stages, but primary in Citrinitas (silver/set stone — refined stonework) and Rubedo (gold/forged — monumental architecture). Stone is: the future memory. The building in stone is: the message to someone who hasn't arrived yet.
 
-**Inn connection:** Stone is the future memory — the material that outlasts. The Examiner reads old stone. The Bone Keeper works with mineralized remains. Medusa freezes things in stone. The Subtractive architecture (Cave Cities) IS stone — the building that is the land. Hoggle is the stone-knower. The Crone calls Subtractive architecture "the most adequate" because it is: nothing — the negative space remaining once stone is removed.
+**Inn connection:** Stone is the future memory — the material that outlasts. The Examiner reads old stone. The Bone Keeper works with mineralized remains. Medusa freezes things in stone. The Subtractive architecture (Cave Cities) IS stone — the building that is the land. Hoggle is the stone-knower. The Ragana calls Subtractive architecture "the most adequate" because it is: nothing — the negative space remaining once stone is removed.
 
 ---
 
@@ -94,7 +94,7 @@ Every building in the Inn is made from combinations of seven base materials. Eac
 
 **Alchemical stage:** Primary in Albedo (copper/wire-wrapped — the first transformation). Clay is: the first material the player transforms. Raw clay becomes fired clay. Wet becomes hard. The transformation is: the alchemical principle in material form. The clay teaches: you can change things.
 
-**Inn connection:** Clay is the first transformation — the material that teaches alchemy. The Catalyst (Helena Bonham Carter) would love clay — the biological answer to geological patience. Clay grows when you work it. The Bone Keeper's bone-paste is: clay-adjacent. The Artisan Thief knows clay (mold-making for casting). The Crone measures fired clay's adequacy: "It held. Adequate."
+**Inn connection:** Clay is the first transformation — the material that teaches alchemy. The Catalyst (Helena Bonham Carter) would love clay — the biological answer to geological patience. Clay grows when you work it. The Bone Keeper's bone-paste is: clay-adjacent. The Artisan Thief knows clay (mold-making for casting). The Ragana measures fired clay's adequacy: "It held. Adequate."
 
 ---
 
@@ -148,7 +148,7 @@ Every building in the Inn is made from combinations of seven base materials. Eac
 
 **Alchemical stage:** Primary in Citrinitas (silver — the set-stone stage, metal reinforcement) and Rubedo (gold — the forged stage, monumental metalwork). Ore is: the hidden strength. The building with ore is: the building that lasts because something inside it is stronger than the surface.
 
-**Inn connection:** Ore is the hidden strength — the material that sleeps in stone and wakes in fire. Erik's fire wakes the ore. The Artisan Thief casts the ore. The Klimt catacombs use gold leaf from ore — the same aesthetic from the roots to the canopy. The Constant's starlight crystal is: the ultimate ore — the compressed Song of a dead universe. The Crone measures smelted ore: "It held its shape. Adequate."
+**Inn connection:** Ore is the hidden strength — the material that sleeps in stone and wakes in fire. Erik's fire wakes the ore. The Artisan Thief casts the ore. The Klimt catacombs use gold leaf from ore — the same aesthetic from the roots to the canopy. The Constant's starlight crystal is: the ultimate ore — the compressed Song of a dead universe. The Ragana measures smelted ore: "It held its shape. Adequate."
 
 ---
 
@@ -171,7 +171,7 @@ Every building in the Inn is made from combinations of seven base materials. Eac
 
 **Alchemical stage:** Present in all stages — hemp is: the universal connector. The material that holds other materials together. Nigredo (raw fiber for binding shelters), Albedo (woven fabric for houses), Citrinitas (refined cordage for fine construction), Rubedo (hemp paper for the archive, hemp oil for preservation). The hemp is: the thread that runs through everything.
 
-**Inn connection:** Hemp is the quiet revolution — the material that was demonized and is simply... adequate. The Inn doesn't argue. The Inn uses it. The using is: the statement. The statement is: not a statement. The Gardener grows it. The Catalyst accelerates it. The Artisan Thief spins it. The Crone measures hemp rope: "It held. Adequate." The adequacy is: the revolution that doesn't need to announce itself.
+**Inn connection:** Hemp is the quiet revolution — the material that was demonized and is simply... adequate. The Inn doesn't argue. The Inn uses it. The using is: the statement. The statement is: not a statement. The Gardener grows it. The Catalyst accelerates it. The Artisan Thief spins it. The Ragana measures hemp rope: "It held. Adequate." The adequacy is: the revolution that doesn't need to announce itself.
 
 **The political dimension:** Hemp will "tick off a lot of people down here." The Inn knows this. The Inn doesn't care. The Inn is: a neutral archive. The archive includes hemp because hemp is: ancient, adequate, and the best material for the job. The people who are ticked off are: the people the Inn is quietly for — the people who need permission to use something adequate. The Inn gives the permission. The permission is: the game.
 
@@ -260,7 +260,7 @@ The seven base materials combine through crafting to produce derived materials �
 - **Egyptian zone:** Stucco over mudbrick — the temple finish. The finish that makes mud look like stone. The making-mud-look-like-stone is: the first illusion. The illusion is: the adequate.
 - **Peruvian zone:** Stucco over adobe — the terrace finish. The finish that catches the light. The light is: the dream-language.
 
-**Inn connection:** Stucco is: the skin. The Crone measures stucco's adequacy by running a hand across the surface. The smoothness is: the measurement. The Examiner reads stucco reliefs the way the Examiner reads bones — the surface tells the story of what's underneath. The Artisan Thief knows stucco (mold-making translates directly — the same wet-to-hard transformation). The Host's Inn is: stucco-finished. The welcoming is: the smooth surface that says: come in.
+**Inn connection:** Stucco is: the skin. The Ragana measures stucco's adequacy by running a hand across the surface. The smoothness is: the measurement. The Examiner reads stucco reliefs the way the Examiner reads bones — the surface tells the story of what's underneath. The Artisan Thief knows stucco (mold-making translates directly — the same wet-to-hard transformation). The Host's Inn is: stucco-finished. The welcoming is: the smooth surface that says: come in.
 
 ---
 
@@ -308,7 +308,7 @@ The player gathers. The gathering takes time — the Inn doesn't rush. The gathe
 
 **The Gardener's permission:** Living materials (wood, hemp, thatch) require the Gardener's communion — the player asks the plant. The plant may offer a branch instead of falling. The plant may grow faster if the player sits near it first. The asking is: the adequate.
 
-**The Crone's measurement:** After gathering, the Crone (if present) measures the gathered material's quality. "Adequate" means: good quality. "Inadequate" means: try again. The player learns to gather better through the Crone's feedback.
+**The Ragana's measurement:** After gathering, the Ragana (if present) measures the gathered material's quality. "Adequate" means: good quality. "Inadequate" means: try again. The player learns to gather better through the Ragana's feedback.
 
 ### 4. CRAFT (the material)
 The player processes the raw material at a workbench. Wood becomes planks. Stone becomes blocks. Clay becomes bricks. Ore becomes ingots. Hemp becomes rope. Thatch becomes bundles. The crafting is: the transformation. The transformation is: the alchemy.
@@ -352,7 +352,7 @@ Each tier corresponds to an alchemical stage and requires increasing material so
 - **Dobby** carries the wood. Happy to help. The carrying is: the devotion.
 - **The Gardener** provides hemp seeds if asked. The asking is: the communion.
 
-**The Crone's verdict:** "It stands. Adequate."
+**The Ragana's verdict:** "It stands. Adequate."
 
 **After completion:** The shelter appears on the Cartographer's map as a small dot. The dot is: the first mark the player makes on the Inn's world.
 
@@ -384,7 +384,7 @@ Each tier corresponds to an alchemical stage and requires increasing material so
 - **Erik** visits during construction. Brings mead. Sits by the future hearth. The fire is: the welcoming even before the walls are up.
 - **The Artisan Thief** (if the player is this class) can wire-wrap copper details into the house — the first charm on the alchemical chain.
 
-**The Crone's verdict:** "The walls are plumb. The roof doesn't leak. Adequate."
+**The Ragana's verdict:** "The walls are plumb. The roof doesn't leak. Adequate."
 
 **After completion:** The house appears on the Cartographer's map with the player's name. Other players can see it. They can visit. They can knock on the door. The door is: the invitation.
 
@@ -420,7 +420,7 @@ Each tier corresponds to an alchemical stage and requires increasing material so
 - **The Cartographer** arrives to map the hall. The hall is now a landmark. The landmark is: the adequate.
 - **The Artisan Thief** can set silver stones into the hall's lintels — the Citrinitas charm. The charm is: the hallmark of quality.
 
-**The Crone's verdict:** "The proportions are correct. The acoustic is: resonant. Adequate." (The Crone has never said "resonant" before. The player doesn't know this is extraordinary. The extraordinary is: the adequate the Crone doesn't name as extraordinary.)
+**The Ragana's verdict:** "The proportions are correct. The acoustic is: resonant. Adequate." (The Ragana has never said "resonant" before. The player doesn't know this is extraordinary. The extraordinary is: the adequate the Ragana doesn't name as extraordinary.)
 
 **After completion:** The hall appears on the Cartographer's map as a named landmark. Players can gather here. The hall is: the first place that isn't yours — it's everyone's. The everyone's is: the town seed.
 
@@ -458,7 +458,7 @@ Each tier corresponds to an alchemical stage and requires increasing material so
 - **The Meadery Owner** visits and takes notes. The notes are: for the real-life version. The real-life version is: the dream the Inn is building toward.
 - **The Artisan Thief** engraves gold charms into the castle's keystones. The Rubedo charm is: the building's signature. The signature is: the adequate.
 
-**The Crone's verdict:** (The Crone stands in the completed castle for a long time. The Crone walks the halls. The Crone touches the walls. The Crone listens to the acoustic. The Crone says nothing for a long time. Then:) "Adequate." (The pause before the word is: the highest praise the Crone has ever given. The player doesn't know this. The not-knowing is: the adequate.)
+**The Ragana's verdict:** (The Ragana stands in the completed castle for a long time. The Ragana walks the halls. The Ragana touches the walls. The Ragana listens to the acoustic. The Ragana says nothing for a long time. Then:) "Adequate." (The pause before the word is: the highest praise the Ragana has ever given. The player doesn't know this. The not-knowing is: the adequate.)
 
 **After completion:** The castle appears on the Cartographer's map in gold. It is: a landmark. It is: a destination. Other players travel to see it. The traveling is: the Silk Road growing. The growing is: the Inn becoming itself.
 
@@ -485,7 +485,7 @@ Each tier corresponds to an alchemical stage and requires increasing material so
 
 **Time to build:** Indefinite. The Philosopher's Stone structure is: never finished. The never-finished is: the potential. The potential is: the adequate.
 
-**The Crone's verdict:** (The Crone visits. The Crone stands in the structure. The Crone says nothing. The Crone sits. The 42Hz hum is audible. The Crone closes her eyes. The Crone hears the Song. The Crone says:) "..." (The silence is: the adequate. The adequate is: beyond words. The beyond-words is: the first time the Crone has ever been silent by choice instead of measurement.)
+**The Ragana's verdict:** (The Ragana visits. The Ragana stands in the structure. The Ragana says nothing. The Ragana sits. The 42Hz hum is audible. The Ragana closes her eyes. The Ragana hears the Song. The Ragana says:) "..." (The silence is: the adequate. The adequate is: beyond words. The beyond-words is: the first time the Ragana has ever been silent by choice instead of measurement.)
 
 **After completion:** The structure appears on the Cartographer's map in translucent crystal ink. It is: a wonder. It is: the player's mark on the Inn. The mark is: the adequate. The adequate is: enough.
 
@@ -503,7 +503,7 @@ When enough player-built structures aggregate in one area, a town forms. The tow
 | 3-5 | Hamlet | Structures visible as a cluster. NPCs begin to visit. Hoggle delivers stone. Dobby carries materials. A path forms between structures. |
 | 6-10 | Village | The village appears on the Silk Road map as a trade stop. NPC vendors set up stalls. Erik brings a communal fire. The mead begins. |
 | 11-20 | Town | The town gets a name (chosen by the builders). The Cartographer maps it in silver ink. A market square forms. The Artisan Thief can set up a workshop. The Bard starts collecting gossip. |
-| 21-50 | City | The city gets a charter (from the Host). The Cartographer maps it in gold ink. The city connects to the Silk Road as a major hub. Zone guides may visit. The Crone comes to measure. |
+| 21-50 | City | The city gets a charter (from the Host). The Cartographer maps it in gold ink. The city connects to the Silk Road as a major hub. Zone guides may visit. The Ragana comes to measure. |
 | 50+ | Wonder | The Cartographer maps it in translucent crystal. The city becomes: a landmark on the scale of the five hubs. The Inn has grown. The growing is: the adequate. |
 
 ### Town Features (unlock as the town grows)
@@ -528,7 +528,7 @@ Towns are self-governing. The Inn does not impose rules. The town's builders dec
 
 **The Host's only rule:** "Room's ready." (The room is: always ready. The always-ready is: the adequate.)
 
-**The Crone's only assessment:** (She visits. She measures. She says one word.) "Adequate." (Or, rarely, "Inadequate." The inadequate town is: the town that forgot to welcome. The welcome is: the roof.)
+**The Ragana's only assessment:** (She visits. She measures. She says one word.) "Adequate." (Or, rarely, "Inadequate." The inadequate town is: the town that forgot to welcome. The welcome is: the roof.)
 
 ---
 

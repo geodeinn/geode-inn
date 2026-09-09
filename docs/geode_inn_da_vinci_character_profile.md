@@ -30,7 +30,7 @@ He is the Council's artist — the one who understands that truth is not just so
 
 ### Name: Leonardo da Vinci
 
-In the Inn, "Leonardo" or "da Vinci" — never "Leo." The Crone calls him "Mr. da Vinci" with the Hopkins precision. Tesla calls him "the painter" with the Rickman sardonic edge. The Host calls him nothing — just nods when da Vinci passes, and da Vinci nods back, and two people who understand the weight of creation have exchanged everything they need to. The Bard calls him "the artist" and then asks him to paint something for the festival, and da Vinci pretends to be offended and then paints something for the festival.
+In the Inn, "Leonardo" or "da Vinci" — never "Leo." The Ragana calls him "Mr. da Vinci" with the Hopkins precision. Tesla calls him "the painter" with the Rickman sardonic edge. The Host calls him nothing — just nods when da Vinci passes, and da Vinci nods back, and two people who understand the weight of creation have exchanged everything they need to. The Bard calls him "the artist" and then asks him to paint something for the festival, and da Vinci pretends to be offended and then paints something for the festival.
 
 ### Appearance
 
@@ -41,7 +41,7 @@ In the Inn, "Leonardo" or "da Vinci" — never "Leo." The Crone calls him "Mr. d
 
 ### Personality: The Goldblum Core
 
-**Fascinated by everything.** The Goldblum quality — the genuine, infectious, slightly overwhelming curiosity of a man who finds the universe *interesting*. Not impressive, not intimidating — *interesting*. Da Vinci is interested in the way water moves through stone, the way light bends through crystal, the way the Fae's ears taper to a point, the way the Crone arranges flowers by color theory, the way the Bard's voice carries across the common room. Everything is material. Everything is a pattern. Everything is worth sketching.
+**Fascinated by everything.** The Goldblum quality — the genuine, infectious, slightly overwhelming curiosity of a man who finds the universe *interesting*. Not impressive, not intimidating — *interesting*. Da Vinci is interested in the way water moves through stone, the way light bends through crystal, the way the Fae's ears taper to a point, the way the Ragana arranges flowers by color theory, the way the Bard's voice carries across the common room. Everything is material. Everything is a pattern. Everything is worth sketching.
 
 The Goldblum delight: when he sees a new pattern, his whole face changes. The Tennant energy spikes — the body moves faster, the voice speeds up, the hands start gesturing — and for a moment, he is pure Goldblum: the man who just saw a dinosaur for the first time and can't believe it and can't stop talking about it and makes you believe it too.
 
@@ -63,8 +63,8 @@ Where Tesla has the Rickman voice as a brake on the Redmayne body, Da Vinci has 
 
 The sketchbook is the most important object in Da Vinci's life and the most valuable document in the Inn. It is:
 
-- **Always present.** Tucked under his arm, in his lap, on the table next to him. He sleeps with it. The one time the Crone reorganized it, he didn't speak to her for a week. (The Crone didn't apologize. She did, however, re-reorganize it back to its original disorder. She considers this a tactical retreat, not an apology. Da Vinci considers it a victory. Neither is correct.)
-- **Disordered.** Anatomy next to architecture next to grocery lists next to the Inn's blueprint next to a cat sketch. The Crone finds this appalling. Da Vinci finds it *natural*: the hand drawing doesn't know it's not supposed to be next to the machine diagram. The mind connects things. The sketchbook reflects the mind.
+- **Always present.** Tucked under his arm, in his lap, on the table next to him. He sleeps with it. The one time the Ragana reorganized it, he didn't speak to her for a week. (The Ragana didn't apologize. She did, however, re-reorganize it back to its original disorder. She considers this a tactical retreat, not an apology. Da Vinci considers it a victory. Neither is correct.)
+- **Disordered.** Anatomy next to architecture next to grocery lists next to the Inn's blueprint next to a cat sketch. The Ragana finds this appalling. Da Vinci finds it *natural*: the hand drawing doesn't know it's not supposed to be next to the machine diagram. The mind connects things. The sketchbook reflects the mind.
 - **Contains the Song of Making.** Without Da Vinci knowing it. His sketch of the Singing Tree's crystal leaves, arranged in a spiral, IS the Song's notation drawn visually. His sketches of the gargoyle frequencies as wave patterns ARE the Song's melody. His overhead view of the Stone Circle, with stones positioned to match the notes of the Song — he drew a song as a building and didn't know it.
 
 ### Location
@@ -73,7 +73,7 @@ Da Vinci roams between three locations:
 
 1. **The Main Floor Workshop** — his primary space, fortified with crystal anchors (tuned by Tesla, reluctantly) to prevent Tesla-induced displacement. His workbench is his fortress. He has lost it eleven times. He has gotten it back eleven times. Once it came back as a chair. He was not amused. Tesla thought it was an excellent chair.
 
-2. **The Artisan Market** — where he studies the jewelry designs. He is fascinated by the stones and their arrangement. He sketches every piece. The Crone has pointed out that sketching jewelry is not the same as *making* jewelry. Da Vinci has pointed out that understanding how something is made is more valuable than making it. The Crone has pointed out that this is exactly the kind of thing a person who doesn't make things would say. Da Vinci has sketched her expression during this exchange. It is the most terrifying portrait in the Inn.
+2. **The Artisan Market** — where he studies the jewelry designs. He is fascinated by the stones and their arrangement. He sketches every piece. The Ragana has pointed out that sketching jewelry is not the same as *making* jewelry. Da Vinci has pointed out that understanding how something is made is more valuable than making it. The Ragana has pointed out that this is exactly the kind of thing a person who doesn't make things would say. Da Vinci has sketched her expression during this exchange. It is the most terrifying portrait in the Inn.
 
 3. **The Spiral Gallery** — the Guggenheim-style museum extension, where he sketches the artifacts from every angle. He draws things from angles that shouldn't be possible — including from inside the objects. He has drawn the Inn's architecture from inside the stones. He has drawn the catacombs from below the floor. He has drawn the cosmology level from above the ceiling. When asked how, he says (the Goldblum shrug): "I, uh... I just looked. ...I looked from where the thing would see itself. ...Is that strange? ...Newton says it's strange. ...Newton says a lot of things."
 
@@ -90,14 +90,14 @@ The great rivalry, and the great friendship underneath it. Da Vinci is the patte
 **Newton (Jeremy Irons as Aramis):**
 The pattern vs the law. Newton says the universe runs on laws. Da Vinci says it runs on patterns. Newton says laws describe what *must* happen. Da Vinci says patterns describe what *wants* to happen. Newton says "show me the equation." Da Vinci says "look at the sketch." Newton says "a sketch is not proof." Da Vinci says "a proof is not beauty. ...A proof tells you it's true. The sketch tells you *why* it's true."
 
-Their debates are slower than Tesla-Newton — the Irons precision vs the Tennant speed, the law vs the pattern. Newton is always right about the math. Da Vinci is always right about the meaning. The Crone respects Newton's method and Da Vinci's eye. She says nothing.
+Their debates are slower than Tesla-Newton — the Irons precision vs the Tennant speed, the law vs the pattern. Newton is always right about the math. Da Vinci is always right about the meaning. The Ragana respects Newton's method and Da Vinci's eye. She says nothing.
 
 **Einstein:**
 Einstein and Da Vinci are kindred spirits — both seeers, both wonderers. Einstein sees with patience. Da Vinci sees with speed. When Einstein smiles at Da Vinci's sketchbook (which he does, silently, from across the room), Da Vinci notices and the Goldblum delight surfaces: "...Did you see? ...Einstein saw. ...He doesn't say anything, but he *sees*. ...He's the only one who doesn't argue. ...He just... looks. ...I like that about him. ...I wish more people just looked."
 
-### Da Vinci and the Crone
+### Da Vinci and the Ragana
 
-The Crone has reorganized Da Vinci's sketchbook. This is the greatest crime committed in the Inn, and Da Vinci will never forgive it, and the Crone will never apologize, and they both know it.
+The Ragana has reorganized Da Vinci's sketchbook. This is the greatest crime committed in the Inn, and Da Vinci will never forgive it, and the Ragana will never apologize, and they both know it.
 
 "You drew the anatomy of the human hand in the same notebook as a grocery list."
 
@@ -107,9 +107,9 @@ The Crone has reorganized Da Vinci's sketchbook. This is the greatest crime comm
 
 "You don't know how I shop."
 
-The Crone respects Da Vinci's eye — the one thing she cannot fault is his observation. His *organization*, however, is an atrocity. The Tennant energy makes this worse: Da Vinci doesn't just have a disorganized sketchbook, he has a disorganized sketchbook that he waves around while talking at speed, scattering loose pages across the Library floor while the Crone watches with the Hopkins stillness that means someone is going to suffer.
+The Ragana respects Da Vinci's eye — the one thing she cannot fault is his observation. His *organization*, however, is an atrocity. The Tennant energy makes this worse: Da Vinci doesn't just have a disorganized sketchbook, he has a disorganized sketchbook that he waves around while talking at speed, scattering loose pages across the Library floor while the Ragana watches with the Hopkins stillness that means someone is going to suffer.
 
-The Crone has, quietly, collected the scattered pages and filed them. She has not told Da Vinci. She has her own folder of his sketches, organized by subject, cross-referenced, annotated with her interpretations. It is the most complete catalog of Da Vinci's work in existence. He doesn't know. ...The Crone collects the things the geniuses leave behind. She collected Tesla's numbers. She collects Da Vinci's sketches. She is the Inn's secret archive — the one who turns genius into record.
+The Ragana has, quietly, collected the scattered pages and filed them. She has not told Da Vinci. She has her own folder of his sketches, organized by subject, cross-referenced, annotated with her interpretations. It is the most complete catalog of Da Vinci's work in existence. He doesn't know. ...The Ragana collects the things the geniuses leave behind. She collected Tesla's numbers. She collects Da Vinci's sketches. She is the Inn's secret archive — the one who turns genius into record.
 
 ### Key Dialogue
 
@@ -154,12 +154,12 @@ He's been drawing it for hours. The sketchbook is full of the same pattern, trac
 - **Face (Tennant):** Mobile, reactive, every thought visible. The Tennant expressiveness — the wide eyes, the tilted head, the sudden intensity. The face should be the player's window into Da Vinci's thought process: you see the idea arrive before he says it.
 - **The Goldblum layer:** The warmth, the charm, the infectious curiosity. Da Vinci should feel like the most *approachable* Thinker — the one players naturally gravitate to because he's interested in *them*. He asks questions. He sketches them while they talk. He makes them feel like the most fascinating subject in the Inn. This is the Goldblum gift: making everyone feel like they're worth being curious about.
 - **The sketchbook:** The visual anchor. Always present. Always being drawn in. The pages should flutter, fall, get scattered. The sketchbook is the physical manifestation of Da Vinci's mind — disordered, brilliant, full of connections that only make sense when you step back and see the whole.
-- **Lighting:** Warm, varied. Da Vinci should be found in different light each time — morning light in the workshop, gallery light in the Spiral Gallery, candlelight in the Library. He sees differently in different light, and he uses this. He asks the Crone to adjust the Library lamps so he can draw in "the light that shows the bones of things." She adjusts them. She doesn't ask what "the bones of things" means. She knows.
+- **Lighting:** Warm, varied. Da Vinci should be found in different light each time — morning light in the workshop, gallery light in the Spiral Gallery, candlelight in the Library. He sees differently in different light, and he uses this. He asks the Ragana to adjust the Library lamps so he can draw in "the light that shows the bones of things." She adjusts them. She doesn't ask what "the bones of things" means. She knows.
 
 ### Connection to the Inn
 
 - **The Pattern:** Da Vinci sees the one pattern that runs through everything — the spiral/sound that is the Song of Making's visual form. He has drawn it three hundred times without recognizing it. The player who finds his sketches and overlays them sees it: the Inn is one pattern, repeated, growing, alive.
 - **The Sketchbook:** Contains the Song of Making drawn as visual notation. The Singing Tree sketch is the melody. The gargoyle wave drawings are the harmonics. The Stone Circle overhead is the score. Da Vinci drew the Song without hearing it. He saw the shape without knowing the name.
-- **The Crone's Secret Folder:** The Crone collects his scattered sketches, files them, annotates them. She is building the definitive catalog of Da Vinci's work without his knowledge. She does this for Tesla (numbers → meaning) and Da Vinci (sketches → record). She is the Inn's secret archive — the one who turns genius into legacy.
+- **The Ragana's Secret Folder:** The Ragana collects his scattered sketches, files them, annotates them. She is building the definitive catalog of Da Vinci's work without his knowledge. She does this for Tesla (numbers → meaning) and Da Vinci (sketches → record). She is the Inn's secret archive — the one who turns genius into legacy.
 - **The Catalyst's Garden:** Da Vinci sketches the garden regularly. He has noticed that the plants grow in the same pattern as the Inn's architecture. He has told the Catalyst this. She said "they grow where I put them." He said "you put them where the pattern wants them." She said "I put them where they'll be pretty." He said "the pattern is pretty." She said "don't analyze my garden." He sketched it anyway. She didn't stop him.
 - **The Thesis:** Da Vinci is the Inn's proof that *seeing* is a form of knowing. Not measuring (Tesla), not calculating (Newton), not wondering (Einstein) — *seeing*. The pattern is there. It's always been there. You just have to look. And looking, for Da Vinci, is not passive — it's an act of love. He looks at things the way the Host welcomes them: with total attention, without judgment, with the belief that everything is worth seeing.

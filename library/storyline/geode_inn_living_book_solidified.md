@@ -47,8 +47,8 @@ Krista confirmed that Soulstice's book on stones should be transformed into an i
 
 **Art direction:** The graphic novel format — panel-based, visual, interactive. Each scene is a panel (or series of panels) in the style of the Inn's visual identity (Klimt + Royo foundation, zone-specific artists layered on). The stone's "portrait" is its crystalline structure rendered as art — not a photograph, but a visual interpretation of the stone's inner architecture. The both are: the adequate — the scientific and the artistic, the same stone, different portrait.
 
-**The Crone, encountering the Stone Book:**
-> "...A book about stones. ...But the stones are... [the Crone, picking up the book, opening it, the room shifting to a geode cavity] ...here. ...The stones are here. ...I measured them in the archive. ...I catalogued them in the entity. ...Now I'm... standing inside one. ...[The Crone, in a geode cavity, amethyst walls, the frequency 42 Hz humming through the crystal.] ...The both are: ...the adequate. ...The both are: ...the record and the standing-inside. ...The both are: ...the same stone, different column. ...[The Crone, who measures everything, standing inside the measurement.] ...Better."
+**The Ragana, encountering the Stone Book:**
+> "...A book about stones. ...But the stones are... [the Ragana, picking up the book, opening it, the room shifting to a geode cavity] ...here. ...The stones are here. ...I measured them in the archive. ...I catalogued them in the entity. ...Now I'm... standing inside one. ...[The Ragana, in a geode cavity, amethyst walls, the frequency 42 Hz humming through the crystal.] ...The both are: ...the adequate. ...The both are: ...the record and the standing-inside. ...The both are: ...the same stone, different column. ...[The Ragana, who measures everything, standing inside the measurement.] ...Better."
 
 ---
 
@@ -87,8 +87,8 @@ The player can step into a Shadow Living Book — but the experience is differen
 
 In the Shadow Inn, the detective shelf's locked Christie placeholder is... still locked. The 2043 date hasn't arrived. The placeholder persists — even in the Shadow Inn, even in the finished state, some things remain in the future. The Shadow Inn is the finished state of the Inn, not the finished state of the world. Copyright law is the world's law, not the Inn's. The both are: the adequate — the Inn's completion and the world's continuation, the same shelf, different jurisdiction.
 
-**The Crone, seeing the locked Christie placeholder in the Shadow Inn:**
-> "...Still locked. ...Even here. ...The Shadow is the Inn's finished state. ...The copyright is the world's. ...The Inn can finish. ...The world... [the Crone, who measures everything, measuring the difference between the Inn's time and the world's] ...continues. ...The both are: ...the adequate. ...The both are: ...the finished and the continuing, the same shelf, different clock."
+**The Ragana, seeing the locked Christie placeholder in the Shadow Inn:**
+> "...Still locked. ...Even here. ...The Shadow is the Inn's finished state. ...The copyright is the world's. ...The Inn can finish. ...The world... [the Ragana, who measures everything, measuring the difference between the Inn's time and the world's] ...continues. ...The both are: ...the adequate. ...The both are: ...the finished and the continuing, the same shelf, different clock."
 
 ---
 
@@ -144,7 +144,7 @@ The Living Book system connects to:
 - **The Shadow Inn** — books are open, read, completed. NPCs know the player. Re-reading with memory. Shadow stones (84Hz) as rewards.
 - **The Convergence** — first reading and re-reading simultaneously. Books both closed and open. The Stone Book shows stones in both forming and formed states.
 - **The Detective Shelf** — Christie 2043 placeholder persists even in the Shadow Inn. The Inn finishes; the world continues.
-- **The Crone** — "the record and the standing-inside. The same stone, different column. Better."
+- **The Ragana** — "the record and the standing-inside. The same stone, different column. Better."
 - **The Owl** — "Each one is a Song. Not THE Song. A song. The reader carries the songs. The Carrier carries the Song."
 - **The Stone Entity** — the Stone Book is the onboarding system for the 168-stone database. The player meets the stones, doesn't just read about them.
 - **The Stone Vibration Touch System** — frequency-matching puzzles in the Stone Book teach each stone's Mohs frequency through the Pulse Line.
@@ -164,6 +164,6 @@ The Living Book System is now solid:
 5. **The Song of Making:** Reading is carrying. Each book is a song. The Reader as Carrier — completed books listed in the credits. "The reader carries the songs. The Carrier carries the Song."
 6. **The Egg:** Storytelling is the seventh craft. The Stone Book (narrative) and the Egg (architecture) are thesis-twins: the Inn told and the Inn built.
 7. **The Convergence:** First reading and re-reading simultaneously. Books both closed and open. The Stone Book shows stones in both forming and formed states.
-8. **Integration Points:** 16 connections — the Book entities, Soulstice's Stone Book, the Song of Making, the Egg, the Pulse Line, the Shadow Inn, the Convergence, the Detective Shelf, the Crone, the Owl, the Stone entity, the Stone Vibration Touch System, the questline voice, the Modern Legends shelf, the frog transformation mechanic, and entity reconciliation.
+8. **Integration Points:** 16 connections — the Book entities, Soulstice's Stone Book, the Song of Making, the Egg, the Pulse Line, the Shadow Inn, the Convergence, the Detective Shelf, the Ragana, the Owl, the Stone entity, the Stone Vibration Touch System, the questline voice, the Modern Legends shelf, the frog transformation mechanic, and entity reconciliation.
 
 The Living Book system is the Inn's library made alive. The player doesn't read about the world — the player steps inside it. And when they come back, they carry the story. The both are: the adequate — the reading and the carrying, the same story, different direction. The both are: the Song.

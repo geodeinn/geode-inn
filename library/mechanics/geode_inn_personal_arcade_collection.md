@@ -416,7 +416,7 @@ Climb through the Shadow Inn's frozen Water Zone. All 7 layers, frozen solid. Br
 Navigate the Catacombs' archive corridors. Collect knowledge fragments (pellets). The bestiary's creatures patrol the stacks. Power stones make the creatures vulnerable — briefly.
 
 **Design:**
-- The maze is the Catacombs' archive layout — bookshelf corridors, narrow passages, the Crone's reading nooks
+- The maze is the Catacombs' archive layout — bookshelf corridors, narrow passages, the Ragana's reading nooks
 - The "pellets" are knowledge fragments — small glowing dots in every corridor. Collecting them fills the archive's index (the completion meter)
 - The "power pellets" are Resonant stones placed at corridor junctions. Collecting one makes all creatures vulnerable for 5 seconds. The creatures turn gold (Klimt gold) and can be "absorbed" (collected into the bestiary)
 - The four "ghosts" are bestiary creatures with different AI:

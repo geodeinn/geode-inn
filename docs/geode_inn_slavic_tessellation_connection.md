@@ -57,7 +57,7 @@ The Aurora Reader writes down all three trajectories. She labels them. She close
 
 ## The Aurora Reader's Response
 
-The Aurora Reader doesn't leave the fjord. She doesn't travel to the Fae Kingdom. She doesn't seek out the Shifting Man or the Cartographer or the Crone. She does what she always does — she reads, and she writes it down.
+The Aurora Reader doesn't leave the fjord. She doesn't travel to the Fae Kingdom. She doesn't seek out the Shifting Man or the Cartographer or the Ragana. She does what she always does — she reads, and she writes it down.
 
 But something changes in her readings. She starts reading *differently.*
 
@@ -119,13 +119,13 @@ She doesn't sleep that night either. But this time, she doesn't sleep because th
 
 ---
 
-## The Crone's Second Annotation
+## The Ragana's Second Annotation
 
-The Crone, who has measured the tessellation break from the Inn's side, receives the Aurora Reader's transcription. She reads "The First Silence." She reads the three trajectories. She reads "The First Word."
+The Ragana, who has measured the tessellation break from the Inn's side, receives the Aurora Reader's transcription. She reads "The First Silence." She reads the three trajectories. She reads "The First Word."
 
 She writes:
 
-"...The ice reader found it. ...The first crack. ...Not a wall. ...Not a drain. ...A silence. ...The space between two words that were never spoken. ...The tessellation broke the way a river freezes — not from force, from stillness. ...The water didn't stop flowing because the dam was built. ...The dam was built because the water stopped flowing. ...The silence came first. ...The walls came after. ...The drain came after. ...The moon came after. ...All of it... the architecture of protection... built on the foundation of a silence. ...And the silence was not Malachi's. ...And the silence was not the King's. ...The silence was *both.* ...The same silence. ...Two brothers, each waiting for the other to speak first. ...Each protecting the other by not speaking. ...Each breaking the bridge by not crossing it. ...The first word is not spoken. ...The first word is *reached for.* ...The ice reader knows this — she reads the space between stars. ...The space between brothers is the same space. ...The negative space that holds the language. ...The negative space that holds the love. ...The negative space that, when filled... [the Crone, who has measured everything, stops measuring] ...is the only thing... that was ever worth measuring."
+"...The ice reader found it. ...The first crack. ...Not a wall. ...Not a drain. ...A silence. ...The space between two words that were never spoken. ...The tessellation broke the way a river freezes — not from force, from stillness. ...The water didn't stop flowing because the dam was built. ...The dam was built because the water stopped flowing. ...The silence came first. ...The walls came after. ...The drain came after. ...The moon came after. ...All of it... the architecture of protection... built on the foundation of a silence. ...And the silence was not Malachi's. ...And the silence was not the King's. ...The silence was *both.* ...The same silence. ...Two brothers, each waiting for the other to speak first. ...Each protecting the other by not speaking. ...Each breaking the bridge by not crossing it. ...The first word is not spoken. ...The first word is *reached for.* ...The ice reader knows this — she reads the space between stars. ...The space between brothers is the same space. ...The negative space that holds the language. ...The negative space that holds the love. ...The negative space that, when filled... [the Ragana, who has measured everything, stops measuring] ...is the only thing... that was ever worth measuring."
 
 ---
 

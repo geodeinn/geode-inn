@@ -55,7 +55,7 @@ This section defines the environmental, atmospheric, and background animation pr
 4. **Color Palette:** Rust orange (#EA580C), burnt Sienna (#9A3412), spectral silver (#E2E8F0), obsidian black (#0F172A), ethereal soul blue (#38BDF8).
 5. **Lighting/Atmosphere:** Harsh reddish ambient daylight filtered through fine atmospheric dust haze, with blinding glints of white light bouncing off shifting mirror edges.
 6. **Animation Notes:** Fine iron-dust winds drift softly across desert dunes; floating mirror fragments tilt slowly on invisible axes, catching spectral reflections of alternate soul forms that flicker into view for a brief second.
-7. **Sound Connection:** Dissonant 158Hz tension tone (the Crone's ring frequency) slowly resolving into quiet, lingering echo reverberations.
+7. **Sound Connection:** Dissonant 158Hz tension tone (the Ragana's ring frequency) slowly resolving into quiet, lingering echo reverberations.
 8. **Special Notes:** Contains the Arena, the Reincarnation School, the Mirror Prison, and the resting place of the 165th stone (The Soulstone).
 
 ---

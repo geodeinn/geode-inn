@@ -155,7 +155,7 @@ The player who accepts the crystal... wakes up outside the Labyrinth. Unharmed. 
 
 Malachi's castle. The throne room with the Escher stairs. The Goblin King's domain. The center of the Labyrinth, the heart of the Unseelie Court, the place where Malachi *lives* when he's not performing.
 
-The castle is not what the player expects. It's not dark, not threatening, not a villain's lair. It's... *lived in.* The goblins have nests in the corners. There are books on the shelves (Malachi reads — the Crone doesn't know this, and the discovery will cost him a week of Crone annotations). There's a fire. There's a chair. The throne is there, but Malachi doesn't sit on it. He sits on the stairs.
+The castle is not what the player expects. It's not dark, not threatening, not a villain's lair. It's... *lived in.* The goblins have nests in the corners. There are books on the shelves (Malachi reads — the Ragana doesn't know this, and the discovery will cost him a week of Ragana annotations). There's a fire. There's a chair. The throne is there, but Malachi doesn't sit on it. He sits on the stairs.
 
 The castle is the Malachi underneath the Malachi. The Showman's backstage. The place where the cape comes off and the crystal goes away and the being who built the Labyrinth sits in a room full of books and goblins and thinks about whether the test was fair, and whether fair matters, and whether his brother is sleeping, and whether the moon is bright enough.
 
@@ -198,8 +198,8 @@ Muninn: ...the reason is his brother. ...he built the labyrinth so his brother w
 Huginn: ...that's...
 Muninn: ...i know. ...i remember when it started. ...you don't. ...you're thought. ...you don't remember things. ...i do. ...i remember everything. ...even the things i'd rather forget.
 
-**The Crone:**
-The Crone has opinions about Malachi. The opinions are... complicated. The Hopkins voice, the clinical precision: "...The Unseelie King is the only being in the Fae Kingdom whose intelligence I cannot accurately assess. ...Not because it's too high — I can assess high. ...Not because it's hidden — I can find hidden. ...Because it's *performed.* ...He performs his intelligence the way other people perform stupidity — deliberately, for effect. ...I cannot tell where the performance ends and the intelligence begins. ...This is either the mark of a genius or the mark of a being who has been pretending so long he's forgotten the difference. ...I suspect both. ...I find this... [the Crone pause, the one that means she's admitting something she'd rather not] ...interesting."
+**The Ragana:**
+The Ragana has opinions about Malachi. The opinions are... complicated. The Hopkins voice, the clinical precision: "...The Unseelie King is the only being in the Fae Kingdom whose intelligence I cannot accurately assess. ...Not because it's too high — I can assess high. ...Not because it's hidden — I can find hidden. ...Because it's *performed.* ...He performs his intelligence the way other people perform stupidity — deliberately, for effect. ...I cannot tell where the performance ends and the intelligence begins. ...This is either the mark of a genius or the mark of a being who has been pretending so long he's forgotten the difference. ...I suspect both. ...I find this... [the Ragana pause, the one that means she's admitting something she'd rather not] ...interesting."
 
 ### Visual Direction
 

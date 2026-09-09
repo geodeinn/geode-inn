@@ -117,22 +117,22 @@ The player progresses through the tree by unlocking zones. Each zone unlocked re
 ---
 
 ### LEVEL 6: CATACOMBS (The Archive)
-**Ancient civilizations. The Crone's Archive. The weight of history.**
+**Ancient civilizations. The Ragana's Archive. The weight of history.**
 
 | Component | Status |
 |---|---|
 | **Zone design** | ✅ Complete — scarce light, weight, excavation |
 | **Visual language** | ✅ Dark, scholarly, weight-of-history, archive aesthetic |
-| **Characters** | ✅ The Crone (Inta, Krista's mom — Hopkins gaze), Beverley (librarian), Charles (Krista's dad — druid) |
-| **Character stations** | ✅ Crone's Archive, Beverley's library desk, Charles's place (TBD) |
+| **Characters** | ✅ The Ragana (Inta, Krista's mom — Hopkins gaze), Beverley (librarian), Charles (Krista's dad — druid) |
+| **Character stations** | ✅ Ragana's Archive, Beverley's library desk, Charles's place (TBD) |
 | **Quests** | ❌ NOT YET DESIGNED |
 | **Audio profiles** | ❌ NOT YET DESIGNED |
 | **Games** | ✅ Partial — "excavation" game mechanic implied by zone template |
-| **Interactive items** | ✅ Partial — zone template designed (Crone's Archive) |
+| **Interactive items** | ✅ Partial — zone template designed (Ragana's Archive) |
 | **Archive content** | ✅ Partial — Book entity designed, archive.org materials pending population |
-| **Connections** | ✅ Freyja's silver half → Catacombs (the dead are sent here), the Crone has the third ring of the Brísingamen |
+| **Connections** | ✅ Freyja's silver half → Catacombs (the dead are sent here), the Ragana has the third ring of the Brísingamen |
 
-**GAPS:** Crone's quest, Beverley's quest, Charles's quest, archive game template, Book entity population, Charles's place design, full interactive items
+**GAPS:** Ragana's quest, Beverley's quest, Charles's quest, archive game template, Book entity population, Charles's place design, full interactive items
 
 ---
 

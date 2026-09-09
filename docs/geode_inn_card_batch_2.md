@@ -354,7 +354,7 @@ Frequency: SONG (3) + SILENCE (1) — Total cost: 4
 Type: Character — NPC — Song-Catcher
 Presence: 1 | Resonance: 6 | Cadence: Delayed
 Abilities: Resonate, Adequate
-Special: **The Single Word** — The Simplifier caught the Song in simplicity. Once per game, play "The Single Word" — all cards in play (yours and opponent's) are reduced to their base stats (all abilities removed, all modifiers reset). The Song compressed to one word. The unassuming made profound. The Crone asks to hear it again — first time she's ever asked for anything.
+Special: **The Single Word** — The Simplifier caught the Song in simplicity. Once per game, play "The Single Word" — all cards in play (yours and opponent's) are reduced to their base stats (all abilities removed, all modifiers reset). The Song compressed to one word. The unassuming made profound. The Ragana asks to hear it again — first time she's ever asked for anything.
 Flavor text: *"The crack is where the light finds its way in. The Song compressed to a single word."*
 Rarity: Legendary
 
@@ -411,7 +411,7 @@ Rarity: Legendary
 | **Total Unique Cards** | **76+** |
 
 All character names are either:
-- Original title-based names (the Constant, the Crone, the Greenward, the Bearsark, the Ravel, the Wayfarer, the Augur, the Simplifier, etc.)
+- Original title-based names (the Constant, the Ragana, the Greenward, the Bearsark, the Ravel, the Wayfarer, the Augur, the Simplifier, etc.)
 - Public domain mythological figures (Nyx, Charon, Kali, Medusa, Hel, Merlin, Arthur, Bastet, the Morrigan, etc.)
 - Public domain historical figures (Socrates, Plato, Aristotle, Einstein, Tesla, Leonardo, the eight composers)
 - Generic/common names (Erik, Belladonna as standalone day-name, Noctua as Latin species name)

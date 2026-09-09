@@ -242,7 +242,7 @@ One run per day. Fixed seed — every player gets the same obstacle pattern. The
 - 4 new obstacles (skull, sarcophagus lid, ancient scroll, bone pile)
 - Catacombs environment (default, not unlock)
 - "Scared Tumble" skin (wide eyes, shaking)
-- 2 new encounters (the MIB appear briefly, the Crone's candle flickers)
+- 2 new encounters (the MIB appear briefly, the Ragana's candle flickers)
 - Catacombs leaderboard
 
 **DLC 2: The Cosmology Run**

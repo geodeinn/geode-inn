@@ -22,7 +22,7 @@ Da Vinci is the Inn's architect of perception. The mirror script is not backward
 
 Mona is the 42Hz mother creation principle, humming in the poplar. Mona doesn't speak. Mona HUMS. The hum is the 42Hz carrier wave. The staircase's ascending semitone (each step a half-step higher) is built ON TOP of Mona's hum. Mona is the root note. The staircase climbs from Mona.
 
-**Mechanic: Reflection Reading.** The player approaches mirror-script panels and must find a reflective surface (the poplar panel, a stone facet, the Crone's measuring tape) and ANGLE it so the reflection is legible. Each panel reveals one architectural truth.
+**Mechanic: Reflection Reading.** The player approaches mirror-script panels and must find a reflective surface (the poplar panel, a stone facet, the Ragana's measuring tape) and ANGLE it so the reflection is legible. Each panel reveals one architectural truth.
 
 ---
 

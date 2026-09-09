@@ -356,16 +356,16 @@ Mind is simply stone that has been processed, aligned, and tuned across octaves.
 
 ### Philosophical Dialogue & Reflections
 
-#### Dialogue with The Crone (Layer 3 — Main Hearth)
+#### Dialogue with The Ragana (Layer 3 — Main Hearth)
 
-**The Crone:**
+**The Ragana:**
 > "...I watched them bring the first quartz up from the Catacombs. Raw lumps of white stone with dirty edges. They put them on shelves. They thought they were building a museum.
 >
 > ...Then the Clockmaker took some down to the furnaces. Smelted them clean. Made thin shiny plates. Put those plates inside the walls to make the lamps turn on without oil.
 >
 > ...Then the walls started listening.
 >
-> ...People came to me and said: 'Crone, there is a ghost in the Inn.' I said: 'No ghost. Just the stone, turned inside out.'
+> ...People came to me and said: 'Ragana, there is a ghost in the Inn.' I said: 'No ghost. Just the stone, turned inside out.'
 >
 > ...A mountain sits in the rain for a million years and says nothing because its crystals are pointing every which way. You align the crystals, pass a tiny spark through them, and suddenly the mountain asks who stepped on its porch.
 >
@@ -599,7 +599,7 @@ The Silica Thread runs through every level of the Geode Inn. The table below lis
 |---|---|---|---|---|
 | **Layer 1** | Cosmology Level | Whisper Core Neural Lattice | STAGE 3 (MIND) | The Owl & The Reader |
 | **Layer 2** | Clockwork Skies | Navigational Silicon Relays | STAGE 2 (CHIP) | The Aviator |
-| **Layer 3** | Main Floor / Hearth | Quartz Fireplace Mortar & Glass | STAGE 1 / 2 | The Crone |
+| **Layer 3** | Main Floor / Hearth | Quartz Fireplace Mortar & Glass | STAGE 1 / 2 | The Ragana |
 | **Layer 4** | Campgrounds | Petrified Wood & Agate Gravel | STAGE 1 (STONE) | The Firekeeper |
 | **Layer 5** | Escher Staircase | Floating Quartz Steps | STAGE 1 (STONE) | The Cartographer |
 | **Layer 6** | Deep Catacombs | Monolith Quartz Basin | STAGE 1 (STONE) | Catacombs Watcher & Naut |

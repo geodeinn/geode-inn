@@ -83,7 +83,7 @@ The Geode Inn is structured as a massive ancient tree — the Inn-Tree is a livi
 - The artisan market (Soulstice Jewelry + other artisans)
 - The Modern Day Legends nook (living archive of contemporary folklore)
 - A library of world religions (neutral, scholarly)
-- The Sacred Trio: Host, Catalyst, Crone (+ the Bard as fourth presence)
+- The Sacred Trio: Host, Catalyst, Ragana (+ the Bard as fourth presence)
 - The Council of Thinkers: Tesla, Da Vinci, Newton, Einstein
 - The Wanderer (Odin's approachable form) with chibi ravens
 - Naut the Scholar by the fireplace
@@ -274,13 +274,13 @@ The Inn does not display art on walls. The Inn's environments ARE the art — ea
 ### The Sacred Trio + Fourth
 - **The Host (Patrick Stewart)** — The Father/Anchor. "Come in, you're safe here." The Inn's Fezzik.
 - **The Catalyst (Helena Bonham Carter)** — The Spirit/Mover. Bartender with impossible garden. She is Bastion's wishing made into a character.
-- **The Crone (Anthony Hopkins + Shirley MacLaine)** — The Word/Measure. "Better." Secret translator of Tesla's numbers.
+- **The Ragana (Anthony Hopkins + Shirley MacLaine)** — The Word/Measure. "Better." Secret translator of Tesla's numbers.
 - **The Bard Blowhard** — Krista's dad. The Fool. Dwarf bard. ADHD-pattern thinker. Room-filler.
 
 ### The Council of Thinkers
 - **Nikola Tesla** — Body: Eddie Redmayne. Voice: Alan Rickman. Face: Tom Hiddleston. Measured the 42Hz hum.
 - **Leonardo da Vinci** — David Tennant + Jeff Goldblum. Mirror writing = the Annunaki's script. Sketched the Arcana's gearwork mechanism 500 years before it was built.
-- **Sir Isaac Newton** — Law and calculation. Ally of the Crone.
+- **Sir Isaac Newton** — Law and calculation. Ally of the Ragana.
 - **Albert Einstein** — Robin Williams energy. Morgan Freeman voice. Carries the grief of E=mc2.
 
 ### The Music Room
@@ -346,7 +346,7 @@ The Inn does not display art on walls. The Inn's environments ARE the art — ea
 
 ## Hel / Helheim (Deepest Point / Stone Circle Chamber)
 - **Hel (Angelina Jolie's Maleficent)** — Half living, half dead. Loki's daughter. The villain who was wronged, who chose isolation as armor.
-- **Charon (Anthony Hopkins)** — Same actor as the Crone, different instrument. Silence. "...There you are."
+- **Charon (Anthony Hopkins)** — Same actor as the Ragana, different instrument. Silence. "...There you are."
 - **Cerberus / Spot** — Three-headed dog. Charon's companion.
 - **Anubis (Michael Clarke Duncan)** — John Coffey energy. "...Go lightly."
 - **Ammit** — Crocodile judgment creature. A function, not a villain.
@@ -369,7 +369,7 @@ The Inn does not display art on walls. The Inn's environments ARE the art — ea
 
 ## Family Character Classes (Starting Classes)
 1. **Artisan Thief (Krista)** — Selkie. Feminine Sandman. High DEX/INT, Low CHA. Dive ability. Jeweler's apron IS selkie skin. "Theft" = redistribution.
-2. **Librarian Crone (Krista's Mom)** — The Word/Measure. "Better." Color psychology.
+2. **Librarian Ragana (Krista's Mom)** — The Word/Measure. "Better." Color psychology.
 3. **Bard Blowhard (Krista's Dad)** — The Fool/Warmth. ADHD-pattern thinker. Room-filler.
 4. **Tinkering Weeaboo (Krista's Kid)** — Changeling. True Form. Annoyance meter (Levels 0-4). Pomegranates (consuming Persephone's echo).
 5. **Chameleon Druid (Charles/Krista's Husband)** — Cillian Murphy + Benedict Cumberbatch. Low endurance (glioblastoma). Shifts with the changeling at Level 4.

@@ -7,7 +7,7 @@
 
 The Geode Inn's characters are designed with visual identities strong enough to be WORN. This system translates character profiles into wearable attire guides — not screen-accurate cosplay blueprints, but ESSENCE guides that capture each character's frequency, key materials, signature colors, and recognition markers.
 
-The standard is: ADEQUATE. Not perfect. Not exact. Adequate. The same word the Crone uses. The adequate is the Inn's costume standard.
+The standard is: ADEQUATE. Not perfect. Not exact. Adequate. The same word the Ragana uses. The adequate is the Inn's costume standard.
 
 The system is designed for people who already build elaborate ensembles for Renaissance faires, conventions, and gatherings — people who understand costume as identity, not decoration. The Inn gives them a framework: characters with enough depth, enough visual logic, and enough personal meaning that wearing the attire feels like INHABITING the character, not performing it.
 
@@ -47,7 +47,7 @@ Each character has a sigil — a simple, recognizable symbol:
 | Character | Sigil | Description |
 |-----------|-------|-------------|
 | The Constant | Starlight crystal | A small crystal pendant — the compressed Song |
-| The Crone | A quill | The annotator |
+| The Ragana | A quill | The annotator |
 | The Host | An open door | Welcome |
 | Erik | A taglharpa | A Nordic lyre shape — the fire that welcomes |
 | Belladonna | A bench | A tiny carved bench — the dead's furniture |
@@ -139,7 +139,7 @@ The costume is not a LABEL that says "I am this character." The costume is a WOR
 
 | Event Type | How the Wearable System Works |
 |-----------|-------------------------------|
-| Renaissance Faires | Inn players recognize each other through the 3-layer system. A simple nod. The Crone's word: "Adequate." The Inn reaching into the real world. |
+| Renaissance Faires | Inn players recognize each other through the 3-layer system. A simple nod. The Ragana's word: "Adequate." The Inn reaching into the real world. |
 | Conventions | The Inn hosts a "Nook" — a gathering space where costumed players meet. The Host greets. The fire is a candle. The bench is whatever's available. The adequate is enough. |
 | Geode Inn's Own Events | Panel discussions, stone exhibitions, game tournaments. Attendees don't just attend — they ARRIVE as someone. The arriving-as is the adequate. |
 | The Wandering Program (inverse) | The Inn sends creatures into National Parks to test human humility. The wearable system is the INVERSE: humans wandering into the real world as Inn characters. The human is the Inn creature. The Inn creature is the human. |
@@ -150,7 +150,7 @@ The costume is not a LABEL that says "I am this character." The costume is a WOR
 
 | Phase | What | When |
 |-------|------|------|
-| 1 | Design 40+ sigils as vector graphics. Produce first Soulstice sigil pendants (Host, Crone, Belladonna, Erik, Madame, Wayfarer). List as "Forthcoming" with Process links. | Launch + 3 months |
+| 1 | Design 40+ sigils as vector graphics. Produce first Soulstice sigil pendants (Host, Ragana, Belladonna, Erik, Madame, Wayfarer). List as "Forthcoming" with Process links. | Launch + 3 months |
 | 2 | Write full attire guides for 10 most popular characters. Publish as open-source documents. Include accessibility notes (neuro-accessible fabrics, sensory-friendly choices). | Launch + 6 months |
 | 3 | Build community recognition space. Visual guide for event recognition. The "Adequate" standard means: everyone's version is valid. | Launch + 9 months |
 | 4 | Full Soulstice jewelry line — all 40+ sigils. Six Frequency Collections. QR codes on card game cards linking to attire guides and Soulstice pieces. | Year 2 |

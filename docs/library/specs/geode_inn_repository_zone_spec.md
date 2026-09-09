@@ -107,7 +107,7 @@ The ROM taught Krista that knowledge is locked away by people who decide you're 
 | The Catacombs (Level 6) | The Vestibule is adjacent to or within the Catacombs' outer ring — the organized archive leads to the accessible repository. |
 | The Royal | The Vestibule is the CURATED counterpoint to The Royal's RAW archive. The Royal is archaeological (you dig for knowledge). The Vestibule is accessible (you walk in and touch it). Both give you the object without intermediation. They're two approaches to the same thesis: trust the visitor. |
 | The Silica Thread | The Vestibule holds physical objects — silica in cultural form. Bead fragments. Stone amulets. Quartz tools. The thread's three strands (nature, technology, culture) converge in the objects on these shelves. |
-| The Crone | The Crone runs the Catacombs' archive. The Crone does NOT run the Vestibule. The Vestibule has no one running it. It's self-maintaining — objects return to their shelves when set down (a subtle mechanic, never explained). The Crone might know about the Vestibule but considers it someone else's responsibility. |
+| The Ragana | The Ragana runs the Catacombs' archive. The Ragana does NOT run the Vestibule. The Vestibule has no one running it. It's self-maintaining — objects return to their shelves when set down (a subtle mechanic, never explained). The Ragana might know about the Vestibule but considers it someone else's responsibility. |
 | The ROM | Named for Krista's childhood museum. The Vestibule exists because a child stood in Toronto and looked at things behind glass and thought: "I want to touch that." The Inn gave the child a room. |
 
 ---

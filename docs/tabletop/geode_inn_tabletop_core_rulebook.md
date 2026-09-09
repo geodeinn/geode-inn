@@ -52,7 +52,7 @@ Every action in the Tabletop Questline is resolved by rolling Frequency Dice and
 3. Each matching symbol = 1 success
 4. The GM determines how many successes you need (the Threshold)
 
-**Example:** You want to persuade the Crone to share a secret. Your Resonance is 4. You roll 4 dice. You're trying to connect with her, so SING is your intent symbol. You roll: GROW, SING, SING, NULL. Two SING symbols = 2 successes. The GM set the Threshold at 2. Success — the Crone speaks.
+**Example:** You want to persuade the Ragana to share a secret. Your Resonance is 4. You roll 4 dice. You're trying to connect with her, so SING is your intent symbol. You roll: GROW, SING, SING, NULL. Two SING symbols = 2 successes. The GM set the Threshold at 2. Success — the Ragana speaks.
 
 #### Frequency Pairs
 
@@ -302,7 +302,7 @@ Quests in the Tabletop Questline follow a specific structure:
 
 #### The Hook
 Every quest begins with a **Hook** — a reason for the players to engage. Hooks come from:
-- NPC requests (the Crone needs a stone retrieved from the Catacombs)
+- NPC requests (the Ragana needs a stone retrieved from the Catacombs)
 - Archive discoveries (a text references a lost zone)
 - Environmental changes (a zone shifts from Living to Shadow)
 - Player choices (they broke something and need to fix it)

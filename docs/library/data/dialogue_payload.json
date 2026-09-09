@@ -317,7 +317,7 @@
       "dialogueId": "cthulhu_001"
     },
     {
-      "npcName": "The Crone",
+      "npcName": "The Ragana",
       "zone": "Undercity",
       "voiceProfile": "Ancient, low, unhurried \u2014 eyes that don't blink",
       "conditionTag": "first_visit",

@@ -28,7 +28,7 @@ A coinciding list of every created character, critter, creature, and item with v
 | 15 | Hel | Catacombs (L6) / Norse Realms (z26) | ✅ Portrait | |
 | 16 | Charon | Catacombs (L6) | ✅ Portrait | Hopkins eyes — the one unsoftened celebrity feature |
 | 17 | The Guest (Death) | Cosmology (L1) / Catacombs | ✅ Portrait | Sits by the fire in the Final Room |
-| 18 | The Crone | Main Floor (L3) | ✅ Portrait | Canonical: straight-on, unblinking eye contact (Hopkins gaze) |
+| 18 | The Ragana | Main Floor (L3) | ✅ Portrait | Canonical: straight-on, unblinking eye contact (Hopkins gaze) |
 | 19 | Nyx (Primordial Night) | Cosmology (L1) | ✅ Portrait | |
 | 20 | Bastet | Desert Bone Egypt (z12) | ✅ Portrait | Sistrum puzzle game |
 | 21 | Kali | India (z06) | ✅ Portrait | |
@@ -306,7 +306,7 @@ Each shadow echo is the 84Hz petrified version of its living counterpart — the
 | 266 | The Dragon's Egg | Main Floor (L3) / Nest | ✅ Portrait | |
 | 267 | The Book of No Author | Final Room | ✅ Portrait | Has no author — belongs to the Geode Inn |
 | 268 | The Sistrum of Bastet | Desert Bone Egypt (z12) | ✅ Portrait | |
-| 269 | The Crone's Mirror | Main Floor (L3) | ✅ Portrait | |
+| 269 | The Ragana's Mirror | Main Floor (L3) | ✅ Portrait | |
 | 270 | The World Map | Main Floor (L3) | ✅ Portrait | Stone pins, two data layers (stones + lore) |
 | 271 | The Alchemist's Key | Staircase (L5) | ✅ Portrait | |
 | 272 | The Stone Circle Activator | Fae Kingdom threshold | ✅ Portrait | Portal system |
@@ -327,7 +327,7 @@ Each shadow echo is the 84Hz petrified version of its living counterpart — the
 | 280 | Monsieur Sentient Pipe (Shadow) | ✅ Generated | Smoke frozen as shadow, bowl cracked |
 | 281 | The Book of No Author (Shadow) | ✅ Generated | Pages turned to shadow, cover cracked |
 | 282 | The Sistrum of Bastet (Shadow) | ✅ Generated | Jingles frozen silent |
-| 283 | The Crone's Mirror (Shadow) | ✅ Generated | Reflection turned to shadow void |
+| 283 | The Ragana's Mirror (Shadow) | ✅ Generated | Reflection turned to shadow void |
 | 284 | The World Map (Shadow) | ✅ Generated | Pins to shadow, water to void |
 | 285 | The Alchemist's Key (Shadow) | ✅ Generated | Glow extinguished, teeth cracked |
 | 286 | The Stone Circle Activator (Shadow) | ✅ Generated | Runes extinguished, monoliths cracked |

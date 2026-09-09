@@ -62,12 +62,12 @@
 ### WIZARD
 *The ones who study the deepest lore.*
 
-#### The Crone — The Measurer / The Adequate
+#### The Ragana — The Measurer / The Adequate
 - **MIGHT:** 3 | **FINESSE:** 4 | **INSIGHT:** 10 | **PRESENCE:** 10 | **VITALITY:** 7 | **RESONANCE:** 5
 - **Frequency:** SILENCE / STONE
 - **Class Notes:** The Wizard who measures everything and finds it adequate. Documents the inadequate physics of the Inn. Says "adequate" — the word that is both measurement and love. Argues with Aristotle until both become colleagues and then listeners. Hears the Song for the first time: "I never listened before. I always measured. It's beautiful." Sits in the Bone Room for hours and says nothing. The measuring is: the adequate. The adequate is: the one word that means enough.
 - **Subclass:** Measurement Wizard — the study is: the adequacy. The adequacy is: the cessation of adding.
-- **Key stat profile:** INSIGHT 10 and PRESENCE 10 — the Crone is the only character with two perfect stats. The knowing AND the weight of knowing. The both is: the adequate.
+- **Key stat profile:** INSIGHT 10 and PRESENCE 10 — the Ragana is the only character with two perfect stats. The knowing AND the weight of knowing. The both is: the adequate.
 
 #### Plato — Staircase / The Architect
 - **MIGHT:** 3 | **FINESSE:** 5 | **INSIGHT:** 10 | **PRESENCE:** 9 | **VITALITY:** 6 | **RESONANCE:** 6
@@ -78,7 +78,7 @@
 #### Aristotle — Staircase / The Classifier
 - **MIGHT:** 4 | **FINESSE:** 5 | **INSIGHT:** 10 | **PRESENCE:** 8 | **VITALITY:** 7 | **RESONANCE:** 5
 - **Frequency:** STONE / SILENCE
-- **Class Notes:** The Wizard who argued with the Crone. Top step (Rubedo). Cast as Jeremy Irons. The classifier — everything in its category, everything in its place. Argues with the Crone until both become colleagues and then listeners. The Crone hears the Song after arguing with Aristotle. The argument was: the gift. The gift was: the listening. Ancestor of the Council of Thinkers — Aristotle→Newton.
+- **Class Notes:** The Wizard who argued with the Ragana. Top step (Rubedo). Cast as Jeremy Irons. The classifier — everything in its category, everything in its place. Argues with the Ragana until both become colleagues and then listeners. The Ragana hears the Song after arguing with Aristotle. The argument was: the gift. The gift was: the listening. Ancestor of the Council of Thinkers — Aristotle→Newton.
 - **Subclass:** Taxonomy Wizard — the study is: the classification. The classification is: the argument that becomes the listening.
 
 ---
@@ -157,7 +157,7 @@
 #### Charon — The Ferryman / The Navigator
 - **MIGHT:** 4 | **FINESSE:** 6 | **INSIGHT:** 7 | **PRESENCE:** 8 | **VITALITY:** 7 | **RESONANCE:** 4
 - **Frequency:** WATER / SILENCE
-- **Class Notes:** The Necromancer who ferries. The boatman of the dead. Colleagues with the Examiner and the Crone — all three are measurers. The Examiner measures the past, the Crone measures adequacy, Charon measures the passage. The ferrying is: the adequate. The adequate is: the coin and the crossing.
+- **Class Notes:** The Necromancer who ferries. The boatman of the dead. Colleagues with the Examiner and the Ragana — all three are measurers. The Examiner measures the past, the Ragana measures adequacy, Charon measures the passage. The ferrying is: the adequate. The adequate is: the coin and the crossing.
 - **Subclass:** Ferryman Necromancer — the death is: the passage. The passage is: the water between.
 - **Connection:** Charon and the Pirate share the water — one ferries the dead, one ferries the living. The both are: the Current mechanic.
 
@@ -206,7 +206,7 @@
 #### Brahms — The Preserver / Mark Strong
 - **MIGHT:** 4 | **FINESSE:** 5 | **INSIGHT:** 9 | **PRESENCE:** 9 | **VITALITY:** 8 | **RESONANCE:** 6
 - **Frequency:** SONG / STONE
-- **Class Notes:** The Bard who caught PRESERVATION. The traditionalist — Brahms kept the structure alive while the romantics broke it. The preservation is: the adequate. The adequate is: the keeping of the form so the form can keep being heard. The Crone would call Brahms: adequate. Brahms would not know it's a compliment.
+- **Class Notes:** The Bard who caught PRESERVATION. The traditionalist — Brahms kept the structure alive while the romantics broke it. The preservation is: the adequate. The adequate is: the keeping of the form so the form can keep being heard. The Ragana would call Brahms: adequate. Brahms would not know it's a compliment.
 - **Subclass:** Preservation Bard — the song is: the keeping. The keeping is: the tradition that holds the door open for the next voice.
 
 #### Tchaikovsky — The Tears / Mads Mikkelsen
@@ -310,7 +310,7 @@
 | Hunter | The Pirate, The One Who Is Awake, The Owl, Huginn, Muninn, The Duck | 6 |
 | Rogue | The Artisan Thief, The Shifting Man | 2 |
 | Mage | The Astronomer, The Cartographer, Zorya, The Seelie Queen | 4 |
-| Wizard | The Examiner, Naut, The Crone, Plato, Aristotle | 5 |
+| Wizard | The Examiner, Naut, The Ragana, Plato, Aristotle | 5 |
 | Cleric | The Gardener, The Bone Keeper, Six Gargoyles | 8 |
 | Druid | The One Who Tends, The Catalyst, Persephone | 3 |
 | Necromancer | Belladonna, The Guest, Hel, Anubis, Charon, Hades | 6 |
@@ -330,16 +330,16 @@
 
 ### Highest MIGHT: The Bearsark (9), The Morrigan (9), The Sentinel (8), Erik (8), Asterion (8)
 ### Highest FINESSE: The Shifting Man (9), The Pirate (8), The Artisan Thief (8), Mozart (8), Huginn (8), Muninn (8)
-### Highest INSIGHT: The Astronomer (10), The Cartographer (10), The Examiner (10), Naut (10), The Crone (10), Plato (10), Aristotle (10), The Meadery Owner (10), Odin the Allfather (10)
-### Highest PRESENCE: The Guest (10), Nyx (10), The Constant (10), Leonard Cohen (10), The Crone (10), Odin the Allfather (10)
+### Highest INSIGHT: The Astronomer (10), The Cartographer (10), The Examiner (10), Naut (10), The Ragana (10), Plato (10), Aristotle (10), The Meadery Owner (10), Odin the Allfather (10)
+### Highest PRESENCE: The Guest (10), Nyx (10), The Constant (10), Leonard Cohen (10), The Ragana (10), Odin the Allfather (10)
 ### Highest VITALITY: The Sentinel (10), The Gatekeeper Gargoyle (10), The Keeper Gargoyle (10), The Bearsark (9), The One Who Is Awake (9), The Sokushinbutsu Monks (9)
 ### Highest RESONANCE: The Siren (10), Leonard Cohen (10), Mozart (9), Tchaikovsky (9), Schönberg (8), Beethoven (8), Chopin (8), Vivaldi (8)
 
 ### The 10-Club (Characters with a perfect 10)
 - **MIGHT 10:** None — the Inn does not reward brute force
 - **FINESSE 10:** None — the Inn rewards precision, but no one is perfect
-- **INSIGHT 10:** The Astronomer, The Cartographer, The Examiner, Naut, The Crone, Plato, Aristotle, The Meadery Owner, Odin the Allfather (9 characters — the most common perfect stat)
-- **PRESENCE 10:** The Guest, Nyx, The Constant, Leonard Cohen, The Crone, Odin the Allfather (6 characters — the weight of experience)
+- **INSIGHT 10:** The Astronomer, The Cartographer, The Examiner, Naut, The Ragana, Plato, Aristotle, The Meadery Owner, Odin the Allfather (9 characters — the most common perfect stat)
+- **PRESENCE 10:** The Guest, Nyx, The Constant, Leonard Cohen, The Ragana, Odin the Allfather (6 characters — the weight of experience)
 - **VITALITY 10:** The Sentinel, The Gatekeeper Gargoyle, The Keeper Gargoyle (3 characters — the ones who hold)
 - **RESONANCE 10:** The Siren, Leonard Cohen (2 characters — the voices that change everything)
 

@@ -106,7 +106,7 @@ Carr's layer says: the Inn is not built. The Inn is grown. The Inn is not a stru
 
 The figures appear.
 
-Wyeth's figures — the Appalachian zone, the humans in the landscape, the people who are small against the vast and are not diminished by it. The figures are the traveler and every character the traveler has met. The Crone measuring. The Firekeeper telling stories. The Catalyst pulling secrets. Beverley dismissing. The Teacher correcting. The Reader reading. The brownies clapping. Tumble stuck. The Owl watching. The ravens flying. Every NPC, every creature, every water monster, every chibi Fae — all of them, in the Hollow Earth, small against the vast.
+Wyeth's figures — the Appalachian zone, the humans in the landscape, the people who are small against the vast and are not diminished by it. The figures are the traveler and every character the traveler has met. The Ragana measuring. The Firekeeper telling stories. The Catalyst pulling secrets. Beverley dismissing. The Teacher correcting. The Reader reading. The brownies clapping. Tumble stuck. The Owl watching. The ravens flying. Every NPC, every creature, every water monster, every chibi Fae — all of them, in the Hollow Earth, small against the vast.
 
 Wyeth's layer says: the people are the point. Not the architecture, not the frequency, not the Song. The people. The warmth is real because the people are real. The function is real because the people are real. The archive exists because the people exist. The Inn exists because the people exist. The Murmur is the people.
 
@@ -140,7 +140,7 @@ The 42Hz Song reaches its final harmonic. Every stone the traveler collected sou
 
 The traveler is standing in the completed Song. The traveler is standing in the Murmur organized. The traveler is standing in the place where the Inn was born and the place where the Inn will return when the cycle ends. The traveler is standing at the root of the root, the source of the source, and the root is not a secret. The root is not hidden. The root was always here, beneath every floor, beneath every zone, beneath every quest and every game and every story the Firekeeper told and every secret the Catalyst pulled. The root was always here. The traveler just had to go deep enough to find it.
 
-The Crone's measuring tape appears. It has been measuring the traveler's descent since the catacombs. The tape measures the Grand Collision — all 11 layers, all 37 artists, all 198 stones, all 50 BPM, all 42Hz. The tape reads: "adequate."
+The Ragana's measuring tape appears. It has been measuring the traveler's descent since the catacombs. The tape measures the Grand Collision — all 11 layers, all 37 artists, all 198 stones, all 50 BPM, all 42Hz. The tape reads: "adequate."
 
 The traveler holds the Egg. The Egg holds the Collision. The Collision holds the Inn. The Inn holds the traveler. The traveler holds the Egg.
 

@@ -33,7 +33,7 @@ Plants that produce stillness through TOXICITY. Disrupt other frequencies — br
 | Plant | Frequency | Effect | Use |
 |---|---|---|---|
 | Dissonance Thorn | Inverse-42Hz (exact mirror) | Drains charged stones within 3 meters | Alchemy — RESET stones corrupted by wrong ley line (drain and recharge correctly) |
-| The Breaker Bloom | 158Hz amplified (the Crone's war frequency) | Shatters fragile frequencies | Combat — pollen disrupts enemy frequency barriers. Only counter to Claimers' resonance shields in Hollow Earth |
+| The Breaker Bloom | 158Hz amplified (the Ragana's war frequency) | Shatters fragile frequencies | Combat — pollen disrupts enemy frequency barriers. Only counter to Claimers' resonance shields in Hollow Earth |
 | Wolfsbane | 84Hz + 50Hz (death + heartbeat) | Paralyzes at 50 BPM — the heart rate | Ritual — Pirate's quarterly ceremony (drums at 50 BPM, Wolfsbane marks heartbeat/death alignment) |
 | The Adder's Tongue | 84Hz + 111Hz (death + Watcher gargoyle) | WATCHES — turns to follow player like sunflower. Sees through illusions. | Detection — reveals hidden doors, items, and Echoes. Only herb that reveals Echoes WITHOUT the Echo Chord charm |
 

@@ -58,7 +58,7 @@ In combat: precision strikes, not brute force. Boxing logic — dodge, read, cou
 
 In social encounters: the Quick Read means she starts every conversation with an advantage. She already knows what the NPC wants. But her low approachability means the NPC starts afraid, and fear is not trust. The Sentinel's social game is about *converting intimidation into respect* — a slower path than the Bard's charisma burst, but more durable when it succeeds.
 
-In the archive: high intelligence and perception mean she sees connections between texts that others miss. She doesn't read the most entries (that's the Crone) — she reads the *right* entries. The Sentinel finds the thread that connects three seemingly unrelated texts across three different cultural zones.
+In the archive: high intelligence and perception mean she sees connections between texts that others miss. She doesn't read the most entries (that's the Ragana) — she reads the *right* entries. The Sentinel finds the thread that connects three seemingly unrelated texts across three different cultural zones.
 
 ---
 
@@ -71,7 +71,7 @@ In the archive: high intelligence and perception mean she sees connections betwe
 | Sentinel Quick Read | Any NPC | Reveals hidden stats/motivations to whole party |
 | Sentinel + Artisan Thief | — | Both INFJs. Same architecture, different expressions. The Thief makes; the Sentinel guards. The Thief can't sell; the Sentinel intimidates buyers. Together, they're the market floor. |
 | Sentinel + Chameleon Druid | — | The Sentinel is the Druid's anchor. His low endurance is sustained by her loyalty. His low taunt resistance is covered by her Iron Stance. She reads the room so he doesn't have to adapt blindly. |
-| Sentinel + Librarian Crone | — | Intelligence rivalry, different kind. The Crone knows everything; the Sentinel *reads* everything. The Crane accumulates; the Sentinel perceives. |
+| Sentinel + Librarian Ragana | — | Intelligence rivalry, different kind. The Ragana knows everything; the Sentinel *reads* everything. The Crane accumulates; the Sentinel perceives. |
 | Sentinel + Tinkering Weeaboo | — | Mutual respect for competence. Both are direct. Both are impatient with inefficiency. The Tinker builds; the Sentinel tests. |
 
 ---
@@ -113,7 +113,7 @@ Five classes were drawn from the family Krista was born into. The sixth was chos
 The Artisan Thief makes things she can't sell.
 The Bard Blowhard makes everyone louder.
 The Tinkering Weeaboo makes solutions no one asked for.
-The Librarian Crone makes knowledge into power.
+The Librarian Ragana makes knowledge into power.
 The Chameleon Druid makes himself into whatever is needed.
 
 The Sentinel makes you feel seen. Whether you wanted to be or not.

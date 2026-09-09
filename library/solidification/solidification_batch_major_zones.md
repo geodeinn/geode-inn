@@ -43,7 +43,7 @@ Extending from the Pit House philosophy is the **Native Materials Building Syste
   - *Card:* `Redwood Monarch` (Cost: 6 Ether | Class: Druid/Builder | HP: 12 | Atk: 4). *Ability:* "Root Vault" — Restores 3 HP to all friendly structures each turn; grants +2 defense in forest biomes.
 - **Building System:** Acts as the primary unlocks hub for all 5 Building Tiers (Pit House -> Native Materials -> Castle Tier -> Sacred Architecture -> Subtractive Rock-Cutting). Unlocks Hedley and Hob as companion builders.
 - **Charm Bracelet:** `Heartwood Ring Charm` — Equipping grants immunity to fall damage and doubles wood harvesting speed.
-- **Living Book (Detective Addendum):** Unlocks entry *"The 2,000-Year Growth Ring Record"*, detailing how the tree witnessed the arrival of the Crone.
+- **Living Book (Detective Addendum):** Unlocks entry *"The 2,000-Year Growth Ring Record"*, detailing how the tree witnessed the arrival of the Ragana.
 - **Class Mapping:** Primary training ground for Druids, Rangers, and Master Architects.
 - **Entity Schemas:** `redwood_building_node`, `pit_house_structure`, `native_material_inventory`.
 
@@ -269,10 +269,10 @@ The Music Room houses the **Song-Catchers**—composers who heard fragments of t
 ### Core Overview & Solidification
 The Prism is a deep-earth sanctuary located beneath the catacombs, inspired by World of Warcraft's Shattrath City and A'dal. At its center floats a massive prismatic crystal over a void portal displaying shifting reflections of all realms and timelines.
 
-It serves as a neutral sanctuary where factions co-exist in peaceful harmony (Shifting Man, Thrum, Retort, Crone meet here). Accessing the Prism requires completing a quest chain aligning seven colored mineral stones. The central portal secret: it reflects the player's true endgame choice.
+It serves as a neutral sanctuary where factions co-exist in peaceful harmony (Shifting Man, Thrum, Retort, Ragana meet here). Accessing the Prism requires completing a quest chain aligning seven colored mineral stones. The central portal secret: it reflects the player's true endgame choice.
 
 > **The DM Voice (Tabletop Questline):**
-> *"You descend the spiral stairwell into the Prism. All conflict drops away—a sanctuary field prevents weapons from being drawn. In the center of the cavern, floating forty feet above a boundless void pit, a giant multi-faceted crystal radiates a pure, comforting warmth. Light refracts through its facets into seven vibrant beams, painting the cavern walls in shifting stained-glass patterns. Below the crystal, the Shifting Man stands alongside the Crone, both gazing down into the portal pool. 'Look inside,' the Crone says without turning. 'The mirror doesn't show where you've been. It shows what you'll leave behind.'"*
+> *"You descend the spiral stairwell into the Prism. All conflict drops away—a sanctuary field prevents weapons from being drawn. In the center of the cavern, floating forty feet above a boundless void pit, a giant multi-faceted crystal radiates a pure, comforting warmth. Light refracts through its facets into seven vibrant beams, painting the cavern walls in shifting stained-glass patterns. Below the crystal, the Shifting Man stands alongside the Ragana, both gazing down into the portal pool. 'Look inside,' the Ragana says without turning. 'The mirror doesn't show where you've been. It shows what you'll leave behind.'"*
 
 ### (1) Shadow Inn State (84Hz Octave Resonance)
 - **Visuals:** The white-gold crystal transforms into an obsidian Black Diamond emitting 84Hz ultraviolet rays. Royo chrome filigree crawls across the cavern ceiling.
@@ -447,7 +447,7 @@ This document updates the Siren's casting from Lady Gaga to **Amy Winehouse**. T
 - **Vocal Resonance:** Soul-jazz vocals shift into a raw 84Hz emotional wave that shatters void crystal barriers.
 
 ### (2) Endgame Connections
-- **Veil Shattering:** The Siren's raw emotional honesty breaks the final veil of illusion guarding the Crone's secret memory in Act III.
+- **Veil Shattering:** The Siren's raw emotional honesty breaks the final veil of illusion guarding the Ragana's secret memory in Act III.
 
 ### (3) Sound Profile & Haptic Architecture
 - **Vocal Loop:** Vinyl crackle over upright bass slides at 42Hz, raspy soul-jazz brass mutes, and 84Hz vocal overtone reverb.
@@ -509,7 +509,7 @@ Includes three secret entrances (**The Bookshelf of Origins**, **The Clockwork P
 - **Occult Research:** Unlocks forbidden nether spells and dark alchemical formulas.
 
 ### (2) Endgame Connections
-- **Origin of the Tree:** The Ancient Altar is where the first seed of the Inn-Tree was planted by the Crone; unlocking its hearth reveals the Inn's foundational secret in Act III.
+- **Origin of the Tree:** The Ancient Altar is where the first seed of the Inn-Tree was planted by the Ragana; unlocking its hearth reveals the Inn's foundational secret in Act III.
 
 ### (3) Sound Profile & Haptic Architecture
 - **Heartbeat Pulse:** Deep physical 50 BPM haptic pulse (1.2s interval).
@@ -549,7 +549,7 @@ This document establishes the copyright, trademark, and public domain compliance
   - Van Gogh, Hodler, Klimt, Bach, Beethoven, Cohen, Charon, Arthurian & Norse mythic roots.
 
 > **The DM Voice (Tabletop Questline):**
-> *"The Crone looks over the parchment audit, dipping her quill in black ink. 'Names are binding spells, traveler,' she says dryly, crossing out a word. 'Call a creature by a trademarked title, and lawyers from another realm manifest to claim your tavern. Call it by its True Name—Old Mother Witch, The Deep Sleeper, the Hob—and the old magic stays yours.'"*
+> *"The Ragana looks over the parchment audit, dipping her quill in black ink. 'Names are binding spells, traveler,' she says dryly, crossing out a word. 'Call a creature by a trademarked title, and lawyers from another realm manifest to claim your tavern. Call it by its True Name—Old Mother Witch, The Deep Sleeper, the Hob—and the old magic stays yours.'"*
 
 ### (1) Shadow Inn State (84Hz Octave Resonance)
 - **True Name Grid:** In the 84Hz Shadow State, all commercial name wrappers dissolve, revealing true 84Hz elemental runes that grant absolute command over entities.

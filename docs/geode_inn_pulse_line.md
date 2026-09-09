@@ -49,7 +49,7 @@ The Inn is alive. The Inn has a heartbeat (50 BPM, from the underground altar wh
 
 The player who watches the line is watching the Inn's vital signs. The line is the Inn saying: I am alive. I am beating. I am here. The line is the most diegetic UI element possible — it's not a game interface, it's a MEDICAL INSTRUMENT, reading the Inn's pulse, displayed at the bottom of the player's view the way a hospital monitor is displayed at the bottom of a patient's bed.
 
-The Crone would approve. The Crone, who measures everything, would see the line as the Inn's most fundamental measurement — the one that underlies all others. The Crone's annotation: "...The line is the primary column. ...All other columns derive from it. ...[The pen, tapping once.] ...If the line stops, everything stops. ...[The pause.] ...The line will not stop. ...[The pen, set down.] ...Adequate."
+The Ragana would approve. The Ragana, who measures everything, would see the line as the Inn's most fundamental measurement — the one that underlies all others. The Ragana's annotation: "...The line is the primary column. ...All other columns derive from it. ...[The pen, tapping once.] ...If the line stops, everything stops. ...[The pause.] ...The line will not stop. ...[The pen, set down.] ...Adequate."
 
 ---
 

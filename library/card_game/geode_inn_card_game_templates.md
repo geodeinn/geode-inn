@@ -111,13 +111,13 @@ All four games use the same custom deck: 54 cards, Luis Royo dark fantasy art, f
 - Opponent can lay off cards on knocker's melds
 
 **Inn Theming:**
-- Opponent is an Inn scholar character (Beverley the Librarian, or The Crone) — thoughtful, deliberate pace
+- Opponent is an Inn scholar character (Beverley the Librarian, or The Ragana) — thoughtful, deliberate pace
 - Melds glow gold when completed (Klimt gold)
 - "Going Gin" triggers a special animation: all 10 cards align into a perfect golden grid, the 42Hz chord plays
 - Deadwood cards appear dimmer/darker — unmelded, unresolved
 - Stock pile is a stack of face-down cards with the Royo gargoyle back
 - Discard pile spreads cards in a fan so both players can see what's been dropped
-- Background: a study or archive room — dark wood, brass lamps, old books, the Crone's territory
+- Background: a study or archive room — dark wood, brass lamps, old books, the Ragana's territory
 
 **Drag-and-Drop:**
 - Drag from stock or discard pile to hand

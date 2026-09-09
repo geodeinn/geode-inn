@@ -61,15 +61,15 @@ The heart of the Annex is a reading room. Not a grand library — a *reading roo
 
 ### The Librarian
 
-The Annex has a librarian. Not the Crone — the Crone is the Inn's librarian, the Keeper of the main archive, the annotator of genius. The Annex's librarian is different.
+The Annex has a librarian. Not the Ragana — the Ragana is the Inn's librarian, the Keeper of the main archive, the annotator of genius. The Annex's librarian is different.
 
-The Annex librarian is *quiet.* Not Crone-quiet (which is precision and judgment and the devastating one-word "Better"). Annex-quiet is *actual* quiet. The librarian barely speaks. The librarian is an older man — uncast, unnamed, deliberately anonymous — who exists in the reading room the way a reference book exists on a shelf: always there, always available, never intrusive.
+The Annex librarian is *quiet.* Not Ragana-quiet (which is precision and judgment and the devastating one-word "Better"). Annex-quiet is *actual* quiet. The librarian barely speaks. The librarian is an older man — uncast, unnamed, deliberately anonymous — who exists in the reading room the way a reference book exists on a shelf: always there, always available, never intrusive.
 
 If you ask him a question, he will find you the book. He won't tell you what's in it. He won't interpret it. He won't offer opinion or analysis. He will find the book, set it on the table, and return to his desk. The finding is the service. The reading is yours.
 
-The librarian has been there longer than anyone can remember. He was not hired. He was not appointed. He was *there* when the Annex was built, and he has been there since. The Crone has theories about him. She has not shared them. She has, however, annotated his behavior in her notebook — a separate section, smaller than the Charles section, in handwriting that is her normal size, as if this observation doesn't need to be made small to be bearable. It just needs to be *noted.*
+The librarian has been there longer than anyone can remember. He was not hired. He was not appointed. He was *there* when the Annex was built, and he has been there since. The Ragana has theories about him. She has not shared them. She has, however, annotated his behavior in her notebook — a separate section, smaller than the Charles section, in handwriting that is her normal size, as if this observation doesn't need to be made small to be bearable. It just needs to be *noted.*
 
-The Crone's annotation: "...The Annex librarian does not age. ...He does not eat. ...He does not sleep. ...He has never left the building. ...I have asked him his name. ...He said: 'I'm the librarian.' ...I said: 'That is a function, not a name.' ...He said: 'Yes.' ...And returned to his desk. ...I find his commitment to anonymity... [the Crone pause, the one that means she's impressed and won't say so] ...efficient."
+The Ragana's annotation: "...The Annex librarian does not age. ...He does not eat. ...He does not sleep. ...He has never left the building. ...I have asked him his name. ...He said: 'I'm the librarian.' ...I said: 'That is a function, not a name.' ...He said: 'Yes.' ...And returned to his desk. ...I find his commitment to anonymity... [the Ragana pause, the one that means she's impressed and won't say so] ...efficient."
 
 ### The Connection to the Inn
 
@@ -83,7 +83,7 @@ The connection is the door. The Annex's door opens to the Inn's grounds. The Inn
 
 The Inn-Tree's roots pass *under* the Annex. The 42Hz hum is faintly audible in the reading room — not as a sound, but as a *feeling.* The scholars who work in the reading room describe it as "the sense that the building is alive, even though it's brick." The Annex is not alive — the Inn-Tree's roots pass through the foundation, and the hum travels up through the stone, and the scholars feel it, and the feeling makes them work *better.* Not faster. Not harder. *Better.* The 42Hz hum, in the Annex, doesn't sing — it *focuses.* It is the frequency of concentration. It is the frequency of *study.*
 
-Tesla has been to the Annex. He measured the hum in the reading room. It is 42Hz — the same frequency as the Inn-Tree, the same frequency as the Song of Making. But in the Annex, the hum has a different quality. In the Inn, the hum is warm, welcoming, the frequency of home. In the Annex, the same hum is... precise. Clear. The frequency that cuts through distraction. Tesla's annotation (in his own notebook, the one the Crone secretly reads and translates): "The frequency is identical. The *effect* differs. The tree is one note played in two rooms. The room shapes the note. The note does not shape the room. ...Fascinating. ...I mean: useful."
+Tesla has been to the Annex. He measured the hum in the reading room. It is 42Hz — the same frequency as the Inn-Tree, the same frequency as the Song of Making. But in the Annex, the hum has a different quality. In the Inn, the hum is warm, welcoming, the frequency of home. In the Annex, the same hum is... precise. Clear. The frequency that cuts through distraction. Tesla's annotation (in his own notebook, the one the Ragana secretly reads and translates): "The frequency is identical. The *effect* differs. The tree is one note played in two rooms. The room shapes the note. The note does not shape the room. ...Fascinating. ...I mean: useful."
 
 ### The Connection to Naut
 
@@ -93,7 +93,7 @@ Naut sends players to retrieve rare books. The books, once retrieved, go to the 
 
 Naut and the Annex librarian have a relationship that no one has witnessed, because it happens after hours, when the Inn is asleep and the fire is banked and the Fae Kingdom is quiet. Naut — the four-foot squid-headed scholar — walks across the grounds to the Annex, enters without knocking, and sits at the oak table across from the librarian. They don't speak. Naut reads. The librarian... exists. The two beings, one ancient beyond measurement and the other ageless beyond explanation, sit in the reading room and do not speak, and the not-speaking is the most productive scholarly relationship in the Inn.
 
-The Crone would be furious if she knew. Not because Naut is reading in the Annex (the Crone approves of reading everywhere). Because Naut is reading books *she hasn't annotated yet.* The Crone considers all books in the Inn's extended collection to be *her* domain. Naut reading unannotated texts in the Annex is, in the Crone's framework, *unsanctioned scholarship.* The Crone does not use the word "unsanctioned." She uses a word that is worse and more precise, which no one has ever heard because she only uses it in the privacy of her own notebook, in handwriting that is very small.
+The Ragana would be furious if she knew. Not because Naut is reading in the Annex (the Ragana approves of reading everywhere). Because Naut is reading books *she hasn't annotated yet.* The Ragana considers all books in the Inn's extended collection to be *her* domain. Naut reading unannotated texts in the Annex is, in the Ragana's framework, *unsanctioned scholarship.* The Ragana does not use the word "unsanctioned." She uses a word that is worse and more precise, which no one has ever heard because she only uses it in the privacy of her own notebook, in handwriting that is very small.
 
 ### The Connection to the Modern Day Legends Nook
 

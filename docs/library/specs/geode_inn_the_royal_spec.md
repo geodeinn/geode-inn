@@ -9,7 +9,7 @@ The Royal is a hidden zone located behind the Catacombs (Level 6). It mirrors th
 
 The Royal is a non-curated, non-gatekept archive of global mythology. There is no admission fee. There is no NPC gatekeeper standing at a door asking for credentials. The price of entry is physical — you dig through stone to reach it. The stone IS the gate. The digging IS the ticket.
 
-What you find inside is not organized like a library. It is organized like an archaeological site — layers, strata, cross-contamination from different eras, things that don't belong together found in the same shelf. The Royal is what the Inn's Archive (Level 6) looks before the Crone sorts it. Raw. Unfiltered. Still in the ground.
+What you find inside is not organized like a library. It is organized like an archaeological site — layers, strata, cross-contamination from different eras, things that don't belong together found in the same shelf. The Royal is what the Inn's Archive (Level 6) looks before the Ragana sorts it. Raw. Unfiltered. Still in the ground.
 
 ---
 
@@ -39,7 +39,7 @@ The Vatican Necropolis was excavated beneath St. Peter's Basilica — a layered 
 
 The entry to The Royal is seeded by a specific narrative moment:
 
-A minion — a worker in the Catacombs, a fizgig in overalls with a pickaxe — is digging a new shelf extension for the Crone's archive. The pickaxe breaks through a wall that shouldn't be there. Behind the wall is a chamber. In the chamber is a figure wearing a papal tiara — a pope hat on a skeleton that predates any known papacy.
+A minion — a worker in the Catacombs, a fizgig in overalls with a pickaxe — is digging a new shelf extension for the Ragana's archive. The pickaxe breaks through a wall that shouldn't be there. Behind the wall is a chamber. In the chamber is a figure wearing a papal tiara — a pope hat on a skeleton that predates any known papacy.
 
 The minion in the pope hat accidentally uncovering sacred ground. The joke is that the hat doesn't belong to the religion — the religion belongs to the ground. The ground was sacred before the hat existed. The hat is just what the last person was wearing when they were buried there.
 
@@ -85,7 +85,7 @@ The Royal is organized as an archaeological site, not a library:
 The hole the minion made. Wooden shoring beams (fizgig-crafted, slightly crooked). A ladder going down. The first sticky note is here: "Heads up. — Management (ca. 2,400 BCE)"
 
 ### Section 2: The Sorting Floor
-The first chamber. Not sorted by the Crone's system — sorted by ACCRETION. Things that were found together stay together. Artifacts are grouped by STRATUM, not category. A Sumerian tablet sits next to a Celtic knot pin because they were buried in the same geological layer. The grouping is geological, not cultural.
+The first chamber. Not sorted by the Ragana's system — sorted by ACCRETION. Things that were found together stay together. Artifacts are grouped by STRATUM, not category. A Sumerian tablet sits next to a Celtic knot pin because they were buried in the same geological layer. The grouping is geological, not cultural.
 
 ### Section 3: The Deep Stacks
 Shelves carved directly into stone. No wood. No metal. Just rock with things placed in carved niches. The deeper you go, the older the strata. The deepest niches hold things that predate writing — neolithic carvings, shaped stones, objects that might be tools or might be art and the distinction hadn't been invented yet.
@@ -137,7 +137,7 @@ The deepest chamber. Bait's domain. A single room, circular, with one chair, one
 
 | Connection | Detail |
 |-----------|--------|
-| The Catacombs (Level 6) | The Royal is beneath the Catacombs. The Crone's archive is the SORTED version. The Royal is the RAW version. The Crone knows about The Royal but doesn't go down there — the Crone sorts what comes UP. |
+| The Catacombs (Level 6) | The Royal is beneath the Catacombs. The Ragana's archive is the SORTED version. The Royal is the RAW version. The Ragana knows about The Royal but doesn't go down there — the Ragana sorts what comes UP. |
 | The Silica Thread | The Royal is the Silica Thread's deepest physical point. The Vault hums at 42Hz at its purest. The thread's raw source. |
 | The ROM-inspired Repository Zone | Separate zone, designed separately. The ROM zone is accessible, curated knowledge (the counter-thesis to the ROM's gatekeeping). The Royal is inaccessible-to-the-lazy, raw knowledge (the counter-thesis to ALL gatekeeping). They are the Inn's two archive philosophies — one organized, one archaeological. |
 | Naut (fireplace NPC) | Naut is the bridge. The player who quests for Naut eventually learns about The Royal. |

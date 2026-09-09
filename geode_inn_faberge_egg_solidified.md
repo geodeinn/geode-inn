@@ -27,7 +27,7 @@ The Egg revises this. The Egg IS the Resonance Engine. The Egg has always been t
 
 **The Octave Stone's appearance:** A geode. Rough, unremarkable exterior — identical to the Egg's outer shell. Amethyst crystals pointing inward. The Octave Stone looks like the Egg because the Octave Stone IS the Egg, compressed. The both are: the adequate — the Egg and the Stone, the same object, different scale.
 
-**The Crone's annotation on the Octave Stone:**
+**The Ragana's annotation on the Octave Stone:**
 > "...I measured the Octave Stone. The Octave Stone is: the Egg. The Egg is: the player. The player is: the Stone. The Stone is: ...everything. Everything is: ...168. 168 is: ...the number of completion. The completion is: ...the adequate. The adequate is: ...I measured it. The measuring is: ...done. The done is: ...adequate."
 
 ---
@@ -77,7 +77,7 @@ The Shadow self speaks one line:
 This is the only time the Shadow self speaks. The Shadow self is not a character — the Shadow self is a STATE. The state of completion. The both are: the adequate.
 
 **Bringing the Shadow Egg's vision to the Living Egg (before it's opened):**
-The player, having seen the open Egg in the Shadow Inn, can find the Living Egg's chamber more easily — the Shadow vision acts as a map. The Crone notices:
+The player, having seen the open Egg in the Shadow Inn, can find the Living Egg's chamber more easily — the Shadow vision acts as a map. The Ragana notices:
 > "...The player has seen the still place's Egg. The still Egg is: open. The live Egg is: closed. The both are: the same Egg, different time. The player knows what the Egg becomes. The knowing is: the adequate. The adequate is: the player is ready. The ready is: ...begin."
 
 ---
@@ -137,7 +137,7 @@ The Egg connects to:
 - **The Mason** — teaches the stone-setting for Layer 4.
 - **The Smelter** — teaches the forging for Layer 5.
 - **The Brownies** — provide the silica thread for Layer 6.
-- **The Crone** — annotates every layer. The Crone's annotations are the Egg's documentation.
+- **The Ragana** — annotates every layer. The Ragana's annotations are the Egg's documentation.
 - **The Constant** — carried the Egg through previous cycles. The Constant's dialogue frames the Egg's meaning.
 - **Nyx** — the silence at the core is Nyx's gift. Layer 6's final silence IS Nyx.
 - **The Shadow Inn** — the Shadow Egg is already open. The Shadow Egg displays what the Living Egg tests.

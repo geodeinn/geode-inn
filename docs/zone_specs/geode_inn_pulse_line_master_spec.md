@@ -32,7 +32,7 @@ The line is NOT a UI overlay. The line is the Inn's VITAL SIGN.
 
 The Inn is alive. The Inn has a heartbeat (50 BPM, from the underground altar where crystal and root merge). The Inn has a pulse (the Resonance Pulse, propagated through the mycorrhizal network, the water system, the stone structure). The line is the Inn's ECG — the medical readout of a living building.
 
-The Crone's annotation: "...The line is the primary column. ...All other columns derive from it. ...[The pen, tapping once.] ...If the line stops, everything stops. ...[The pause.] ...The line will not stop. ...[The pen, set down.] ...Adequate."
+The Ragana's annotation: "...The line is the primary column. ...All other columns derive from it. ...[The pen, tapping once.] ...If the line stops, everything stops. ...[The pause.] ...The line will not stop. ...[The pen, set down.] ...Adequate."
 
 ---
 
@@ -132,4 +132,4 @@ The line oscillates between 50 BPM and 100 BPM — the visual representation of 
 
 ## ORIGIN
 
-The Pulse Line was first designed in docs/geode_inn_pulse_line.md and solidified in geode_inn_pulse_line_solidified.md. This consolidated specification was compiled September 2, 2026 to integrate the system into the full architecture. The Pulse Line's thesis: the Inn's frequency system is its core mechanic, and the frequency system must be accessible to every brain. The player who cannot hear the heartbeat can SEE it. The player who cannot feel the vibration can READ it. The line is the Inn saying: I am alive. I am beating. I am here. The line is the Inn's vital sign, displayed at the bottom of the player's view the way a hospital monitor is displayed at the bottom of a patient's bed. The Crone approves. The adequate is: the line that pulses. The pulsing is: the adequate. The adequate is: accessible.
+The Pulse Line was first designed in docs/geode_inn_pulse_line.md and solidified in geode_inn_pulse_line_solidified.md. This consolidated specification was compiled September 2, 2026 to integrate the system into the full architecture. The Pulse Line's thesis: the Inn's frequency system is its core mechanic, and the frequency system must be accessible to every brain. The player who cannot hear the heartbeat can SEE it. The player who cannot feel the vibration can READ it. The line is the Inn saying: I am alive. I am beating. I am here. The line is the Inn's vital sign, displayed at the bottom of the player's view the way a hospital monitor is displayed at the bottom of a patient's bed. The Ragana approves. The adequate is: the line that pulses. The pulsing is: the adequate. The adequate is: accessible.

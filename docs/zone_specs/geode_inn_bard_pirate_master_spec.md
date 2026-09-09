@@ -5,7 +5,7 @@
 
 ## WHAT THE BARD-PIRATE DYNAMIC IS
 
-The Bard and the Pirate are the Inn's extrovert pair — the two characters whose energy is outward, whose function is movement, who fill rooms and sail oceans and ask questions and bring back answers. They are the Inn's daytime energy — the opposite of the Seelie King's listening, the Crone's measuring, the Host's stillness.
+The Bard and the Pirate are the Inn's extrovert pair — the two characters whose energy is outward, whose function is movement, who fill rooms and sail oceans and ask questions and bring back answers. They are the Inn's daytime energy — the opposite of the Seelie King's listening, the Ragana's measuring, the Host's stillness.
 
 The Inn needs the noise. The Inn is a warm, scholarly, gothic space — a library with games. Libraries can become too quiet. Scholars can become too still. The Inn's thesis is belonging, and belonging requires warmth, and warmth requires noise. The Bard and the Pirate ARE the warmth.
 
@@ -38,7 +38,7 @@ The sessions happen on the dock, at night, after cargo is unloaded and stories a
 
 The finding-the-way-back IS the friendship. The Bard flies. The Pirate anchors. The return IS the music. The music IS the friendship.
 
-The Crone, listening from the library: "...He's off-key again. The pirate is covering for him. The pirate has been covering for him for... thirty years. The covering is... [the smallest handwriting] ...love. ...I measure love at... [no number. The Crone, for once, doesn't assign a value. She just listens.] ...increased. ...Better."
+The Ragana, listening from the library: "...He's off-key again. The pirate is covering for him. The pirate has been covering for him for... thirty years. The covering is... [the smallest handwriting] ...love. ...I measure love at... [no number. The Ragana, for once, doesn't assign a value. She just listens.] ...increased. ...Better."
 
 ---
 
@@ -56,18 +56,18 @@ The silence doesn't last. The Bard breaks it — always, inevitably — with a q
 
 ## THE WIVES
 
-The Bard is married to the Crone. The Pirate is married to the Siren. Both wives are precision instruments — the Crone measures, the Siren commands. Both wives love their impossible, noisy husbands. Both wives would never admit it.
+The Bard is married to the Ragana. The Pirate is married to the Siren. Both wives are precision instruments — the Ragana measures, the Siren commands. Both wives love their impossible, noisy husbands. Both wives would never admit it.
 
-The Crone and the Siren watch from the same window (its own kind of truce — two precision women watching their imprecise husbands):
+The Ragana and the Siren watch from the same window (its own kind of truce — two precision women watching their imprecise husbands):
 
 The Siren: "...He's happy."
-The Crone: "...I said that too."
+The Ragana: "...I said that too."
 The Siren: "...I know. I heard you from the library."
-The Crone: "...You heard me from the library?"
+The Ragana: "...You heard me from the library?"
 The Siren: "...I hear everything. It's the magnetism. I can't turn it off."
-The Crone: [The look of one precision instrument acknowledging another.] "...I measure everything. I can't turn it off either."
+The Ragana: [The look of one precision instrument acknowledging another.] "...I measure everything. I can't turn it off either."
 The Siren: "...We're the same problem."
-The Crone: "...Different instruments. Same problem. The problem is... we married the noise."
+The Ragana: "...Different instruments. Same problem. The problem is... we married the noise."
 The Siren: "...We married the noise."
 
 The watching is its own kind of love — the love that sees the other person clearly and stays. Not anyway. BECAUSE. Because the noise is the music. Because the questions are the love. Because the flask is never empty. Because the silence, when it comes, is shared.
@@ -93,7 +93,7 @@ The watching is its own kind of love — the love that sees the other person cle
 | The Character Class System | The Bard is the Bard Blowhard class (high charisma bursts, taunt/enrage). The Pirate is a separate NPC — not a starting class, but the Bard's counterpart. |
 | The Wandering Program | The Bard and the Pirate's dock sessions are scheduled events in the Wandering Program — nighttime quadrant, dock location. |
 | The Nook Effect | The dock IS a nook for these two — the outdoor nook, the friendship nook. The silence IS the deep work. |
-| The Crone | The Bard's wife. The Crone measures everything — including the Bard's noise. The Crone's notebook entries on the Bard are the most detailed in the Inn. |
+| The Ragana | The Bard's wife. The Ragana measures everything — including the Bard's noise. The Ragana's notebook entries on the Bard are the most detailed in the Inn. |
 | The Siren | The Pirate's wife. The Siren's magnetism is the Pirate's opposite — the Pirate is quiet, the Siren is magnetic. The opposites work. |
 | The Pulse Line | The Pirate's 50 BPM bodhrán IS the Pulse Line's audio source. The Pirate is the Inn's heartbeat, made into a character. |
 | The Stone Capsules | The Pirate brings stones from his voyages — each one a new capsule for the pouch. The Pirate is the primary source of rare, exotic stones from distant cultural zones. |
@@ -109,13 +109,13 @@ The watching is its own kind of love — the love that sees the other person cle
 - [x] The compass example exchange documented
 - [x] The music sessions (Bard solos, Pirate anchors) designed
 - [x] The shared silence documented (the flask, the dock, the night)
-- [x] The wives (Crone + Siren watching from the window) written
+- [x] The wives (Ragana + Siren watching from the window) written
 - [x] Frequency system mapped
 - [x] 10 connections to major systems documented
 - [ ] Dock environment (night, water, the two figures, the sound carrying to the library)
 - [ ] Bard-Pirate music system (improvisation + 50 BPM baseline)
 - [ ] The compass quest (the non-north-pointing compass as a recurring mystery)
-- [ ] The wives' window scene (Crone + Siren truce)
+- [ ] The wives' window scene (Ragana + Siren truce)
 - [ ] Dock session scheduling in the Wandering Program
 
 ---

@@ -117,7 +117,7 @@ The Undercity's outdoor space — but "outdoor" in the Undercity means "under th
 
 Scarlett is Aurallia's second youngest child. 17 years old. Chose the name Scarlett for herself (birth name Grace). The one who joined Krista on the bench at their first meeting — has called Krista "Aunt Krista" ever since. Very goth. Built like Marilyn Monroe — curvy, hourglass figure. Exceptionally beautiful. Huge introvert. Loves manga. Incredibly intelligent. Hair: tousled locks with streaks of scarlet over deep black. Incredibly pale, heart-shaped face, huge blue eyes lined with kohl-style eyeliner.
 
-Scarlett is the Undercity's keeper — not the way the Crone keeps the archive or the Clockmaker keeps the Staircase, but the way a teenager keeps their room. Scarlett's room is the zone's heart. Scarlett doesn't MANAGE the Undercity; Scarlett INHABITS it. The zone is alive because Scarlett is alive in it.
+Scarlett is the Undercity's keeper — not the way the Ragana keeps the archive or the Clockmaker keeps the Staircase, but the way a teenager keeps their room. Scarlett's room is the zone's heart. Scarlett doesn't MANAGE the Undercity; Scarlett INHABITS it. The zone is alive because Scarlett is alive in it.
 
 **Audio Profile:**
 
@@ -125,14 +125,14 @@ Scarlett is the Undercity's keeper — not the way the Crone keeps the archive o
 |---|---|
 | Pitch | ~110Hz (low for apparent age — Scarlett's voice is deeper than expected, the voice of someone who doesn't perform) |
 | Text Reveal Speed | ~90ms (slow — Scarlett doesn't rush words; each one is chosen) |
-| Pause | ~1800ms (very long — Scarlett's silence is not assessment (the Crone) or observation (the Allfather); it's SELECTIVITY. Scarlett speaks only when it matters) |
+| Pause | ~1800ms (very long — Scarlett's silence is not assessment (the Ragana) or observation (the Allfather); it's SELECTIVITY. Scarlett speaks only when it matters) |
 | Expressiveness | 0.30 (moderate-low — the emotion is in the choice to speak, not in the delivery) |
-| Instrument | A pen on paper — the scratching of Scarlett's drawing. Not the Crone's cataloguing scratch (precise, organized) but a DRAWING scratch (creative, flowing, personal). Scarlett's instrument is the SOUND OF CREATION — the most private sound in the Inn. |
+| Instrument | A pen on paper — the scratching of Scarlett's drawing. Not the Ragana's cataloguing scratch (precise, organized) but a DRAWING scratch (creative, flowing, personal). Scarlett's instrument is the SOUND OF CREATION — the most private sound in the Inn. |
 
 **Visual Design:**
 - Heavy cel-shaded (tradesman style) — Scarlett is a maker, even if what she makes is private
 - The scarlet streaks are the ONLY red in the Undercity's gold-and-stone palette — Scarlett's hair is the zone's accent color, the personal mark on the public space
-- The kohl eyeliner is precise — the one part of Scarlett's appearance that is CRAFTED (the rest is natural). The kohl is Scarlett's version of the Crone's Hopkins gaze: the one sharpened element, the one deliberate mark
+- The kohl eyeliner is precise — the one part of Scarlett's appearance that is CRAFTED (the rest is natural). The kohl is Scarlett's version of the Ragana's Hopkins gaze: the one sharpened element, the one deliberate mark
 - The string lights reflect in Scarlett's huge blue eyes — the eyes are the room's second light source
 
 **The Quest: "The Room That's Yours"**
@@ -218,7 +218,7 @@ The Archivist of the Unmade is a ghost — not the Archive Ghosts of the Catacom
 | Text Reveal Speed | ~70ms (gentle — the Archivist handles unfinished things carefully) |
 | Pause | ~900ms (the pause of someone who always hopes today is the day a design is finished) |
 | Expressiveness | 0.35 (moderate — the Archivist's hope is quiet but constant) |
-| Instrument | A sketchbook page turning — the sound of a design being reviewed. Not the Crone's index card (cataloguing) but a sketchbook (imagining). The Archivist's instrument is the SOUND OF POSSIBILITY. |
+| Instrument | A sketchbook page turning — the sound of a design being reviewed. Not the Ragana's index card (cataloguing) but a sketchbook (imagining). The Archivist's instrument is the SOUND OF POSSIBILITY. |
 
 **The Quest: "The Design That Waits"**
 
@@ -287,7 +287,7 @@ The Master's Bench's ultimate creation: the "Inn Song" — a design that incorpo
 | Main Floor | 637Hz | Clear Quartz (the reference tone) |
 | Campgrounds | 79Hz | Copper (the Blacksmith's chord root) |
 | Staircase | 111Hz | The Watcher's frequency |
-| Catacombs | 158Hz | The Crone's ring (war/dissonance) |
+| Catacombs | 158Hz | The Ragana's ring (war/dissonance) |
 | Fae Kingdom | 84Hz | The Stone Circle Chamber (the octave) |
 | Water Zone | 42Hz | The Source (water's own frequency) |
 | Undercity | 170Hz | The Goldsmith's gold (Freyr's frequency) |
@@ -375,7 +375,7 @@ The music is QUIET — the Undercity doesn't broadcast. The music is for the pla
 **UP to Catacombs (Level 6):**
 - The passage from the Fae Layer (the Deep) to the Undercity
 - The Hall of the Unmade is the counterpart to the Catacombs' archive — possibility instead of history
-- The Archivist of the Unmade is the counterpart to the Crone — the keeper of what might have been vs. the keeper of what was
+- The Archivist of the Unmade is the counterpart to the Ragana — the keeper of what might have been vs. the keeper of what was
 
 **UP to Faerie Kingdom (Level 7):**
 - The Octave Key (84Hz) opens the passage to the Undercity — the Fae Kingdom's deepest point connects to the Undercity's entry

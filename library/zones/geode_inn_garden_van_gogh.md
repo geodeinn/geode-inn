@@ -221,9 +221,9 @@ Van Gogh's last words, reportedly: "The sadness will last forever." The garden's
 
 *The Greenward knows. The Greenward has always known. The hedgehog knows. The sunflower knows.*
 
-*The Crone has annotated it: "...Tuesday. ...The sunflower near the border. ...It lifts when the wizard passes. ...I have observed this for fourteen seasons. ...The lift is consistent. ...The wizard does not touch the sunflower. ...The wizard does not look at the sunflower. ...The wizard walks past. ...The sunflower lifts. ...I have no explanation. ...I have the data. ...The data is: presence is sufficient. ...I find this... [the Crone pause, the one that means something moved her] ...adequate."*
+*The Ragana has annotated it: "...Tuesday. ...The sunflower near the border. ...It lifts when the wizard passes. ...I have observed this for fourteen seasons. ...The lift is consistent. ...The wizard does not touch the sunflower. ...The wizard does not look at the sunflower. ...The wizard walks past. ...The sunflower lifts. ...I have no explanation. ...I have the data. ...The data is: presence is sufficient. ...I find this... [the Ragana pause, the one that means something moved her] ...adequate."*
 
-*"Adequate." The Crone's highest compliment. The word she gives to things that work without explanation. The sunflower doesn't need an explanation. The sunflower needs a hedgehog and a gentle fellow and a Tuesday.*
+*"Adequate." The Ragana's highest compliment. The word she gives to things that work without explanation. The sunflower doesn't need an explanation. The sunflower needs a hedgehog and a gentle fellow and a Tuesday.*
 
 *The sadness will last forever. And the growing will last forever. And sometimes, on a Tuesday, a wilting sunflower lifts slightly, because someone walked past without trying to fix it, and the walking past was enough.*
 
@@ -281,4 +281,4 @@ The cypress moment is the Starry Night garden's thesis: the beauty is not the So
 
 But the hum doesn't need the listener. The hum was there before the listener. The hum will be there after. The hum doesn't know you're listening.
 
-The Crone's annotation, in the smallest handwriting she has: "...The Song does not know I am listening."
+The Ragana's annotation, in the smallest handwriting she has: "...The Song does not know I am listening."

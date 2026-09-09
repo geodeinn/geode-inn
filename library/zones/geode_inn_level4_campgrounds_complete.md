@@ -52,7 +52,7 @@ The open center of the Campgrounds. Stalls arranged in a loose semicircle. The M
 - **Stone Vendor** — sells raw stones for the Bead Board. Stones here are unpolished — the player buys rough material and must process it (a crafting step) before use. Cheaper than the Main Floor market, but requires effort.
 - **Tool Vendor** — sells jeweler's tools, crafting implements, Bead Board accessories (tray materials, bead findings, wire).
 - **The General Store** — potions, rations, travel supplies. The items the player needs for zone expeditions (torch oil for the Catacombs, rope for the Canopy City, cold-weather gear for the Water Zone).
-- **The Bookmark Stall** — a small stall selling... bookmarks. Decorative bookmarks for the Inn's library system. The vendor is an eccentric who claims the bookmarks are enchanted. They're not. But they're beautiful, and the Crone collects them.
+- **The Bookmark Stall** — a small stall selling... bookmarks. Decorative bookmarks for the Inn's library system. The vendor is an eccentric who claims the bookmarks are enchanted. They're not. But they're beautiful, and the Ragana collects them.
 
 ### 2. The Huntsman Tavern
 Jay's domain. The social anchor of the Campgrounds. The tavern is a proper building — log walls, stone fireplace, brass bell over the door, a bar made from a single felled oak. The wolf sleeps on the porch.
@@ -214,7 +214,7 @@ Example reading (holding a Preseli Blue Stone): "I hear standing stones. I hear 
 
 The Fortune Teller costs 5 copper beads per reading. The Fortune Teller is the Inn's HINT SYSTEM — disguised as a character. The player who is lost can visit the Fortune Teller for direction, but the direction is poetic, not mechanical. The player still has to interpret.
 
-**The Fortune Teller's Secret:** The Fortune Teller is the Crone's daughter. The Crone (archive keeper, Hopkins gaze) sent the Fortune Teller to the Campgrounds to watch the arrivals — to read the people who come to the Inn before they enter. The Crone knows who's coming because the Fortune Teller reads their stones. The Fortune Teller reports to the Crone through the stone readings — each reading is also a message to the archive. The player who discovers this (through the Allfather's Gaze or the Wanderer's quest) understands: the Inn has been watching them since before they entered.
+**The Fortune Teller's Secret:** The Fortune Teller is the Ragana's daughter. The Ragana (archive keeper, Hopkins gaze) sent the Fortune Teller to the Campgrounds to watch the arrivals — to read the people who come to the Inn before they enter. The Ragana knows who's coming because the Fortune Teller reads their stones. The Fortune Teller reports to the Ragana through the stone readings — each reading is also a message to the archive. The player who discovers this (through the Allfather's Gaze or the Wanderer's quest) understands: the Inn has been watching them since before they entered.
 
 ---
 
@@ -360,7 +360,7 @@ The Campgrounds music is the most HUMAN music in the Inn — no ethereal chords,
 - The General Store sells expedition supplies for Catacombs exploration
 
 **UP to Cosmology (Level 1):**
-- The Fortune Teller is the Crone's daughter — the Crone watches arrivals from the Catacombs through the Fortune Teller's readings
+- The Fortune Teller is the Ragana's daughter — the Ragana watches arrivals from the Catacombs through the Fortune Teller's readings
 - The Wanderer's rune for the Campgrounds is on the underside of Jay's tavern table (the Wanderer's quest)
 
 ---
@@ -380,7 +380,7 @@ The Campgrounds music is the most HUMAN music in the Inn — no ethereal chords,
 | Character: Jay | ✅ Complete — quest (3 phases), audio, items, reward |
 | Character: Luna | ✅ Complete — quest (3 phases), audio, items, reward, real-world bridge |
 | Character: The Blacksmith | ✅ Complete — quest, audio, crafting service, reward |
-| Character: The Fortune Teller | ✅ Complete — interaction/service, hint system, secret connection to the Crone |
+| Character: The Fortune Teller | ✅ Complete — interaction/service, hint system, secret connection to the Ragana |
 | Character: The Fire Dancers | ✅ Complete — interaction, lore, fire-as-art, Catacombs teaser |
 | Game templates | ✅ Complete — Market Day (economy) + Wolf's Hunt (exploration) |
 | Interactive items | ✅ Complete — 16 items across all spaces |

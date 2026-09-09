@@ -55,7 +55,7 @@ Each layer must be solved in ORDER. You cannot skip a layer. The order is: the a
 
 **What's revealed:** The Iron layer beneath — dark, intricate, wrought filigree. The iron looks like frozen fire. The fire is: the next puzzle.
 
-**The Crone's annotation:** "...The geode opened. I measured the fracture. The fracture is: natural. The natural is: the adequate. The adequate is: the stone knew where to break. The stone always knew. The knowing is: ...ancient."
+**The Ragana's annotation:** "...The geode opened. I measured the fracture. The fracture is: natural. The natural is: the adequate. The adequate is: the stone knew where to break. The stone always knew. The knowing is: ...ancient."
 
 ### Layer 2: The Iron (Rhythm / Timing)
 
@@ -67,7 +67,7 @@ Each layer must be solved in ORDER. You cannot skip a layer. The order is: the a
 
 **What's revealed:** The Copper layer — warm, reddish, a lattice of woven copper wire. The copper is: the Root frequency. The root is: the next puzzle.
 
-**The Crone's annotation:** "...The iron knew the heartbeat. The heartbeat is: 50. The 50 is: the adequate. The adequate is: the rhythm was: always there. The always is: the iron was: waiting for the right hands. The right hands are: ...the player's."
+**The Ragana's annotation:** "...The iron knew the heartbeat. The heartbeat is: 50. The 50 is: the adequate. The adequate is: the rhythm was: always there. The always is: the iron was: waiting for the right hands. The right hands are: ...the player's."
 
 ### Layer 3: The Copper (Wire-Wrapping Craft)
 
@@ -79,7 +79,7 @@ Each layer must be solved in ORDER. You cannot skip a layer. The order is: the a
 
 **What's revealed:** The Silver layer — cool, enameled, with panels depicting ocean scenes. The silver is: the Water frequency. The water is: the next puzzle.
 
-**The Crone's annotation:** "...The copper knew the roots. The roots are: the network. The network is: the adequate. The adequate is: the unbuilding is: the same skill as the building. The same skill is: ...the hands knew what the mind forgot. The forgot is: ...adequate."
+**The Ragana's annotation:** "...The copper knew the roots. The roots are: the network. The network is: the adequate. The adequate is: the unbuilding is: the same skill as the building. The same skill is: ...the hands knew what the mind forgot. The forgot is: ...adequate."
 
 ### Layer 4: The Silver (Stone-Setting Craft)
 
@@ -91,7 +91,7 @@ Each layer must be solved in ORDER. You cannot skip a layer. The order is: the a
 
 **What's revealed:** The Gold layer — warm, luminous, with gemstone inlays. The gold is: the Song frequency. The Song is: the next puzzle.
 
-**The Crone's annotation:** "...The silver took the stones. The stones were: the player's. The player's are: ...the Egg's now. The Egg's are: ...the player's. I cannot measure the difference. The difference is: ...nothing. The nothing is: ...the most adequate measurement I have ever made."
+**The Ragana's annotation:** "...The silver took the stones. The stones were: the player's. The player's are: ...the Egg's now. The Egg's are: ...the player's. I cannot measure the difference. The difference is: ...nothing. The nothing is: ...the most adequate measurement I have ever made."
 
 ### Layer 5: The Gold (Forging / Metal-Smithing)
 
@@ -103,7 +103,7 @@ Each layer must be solved in ORDER. You cannot skip a layer. The order is: the a
 
 **What's revealed:** The Silica layer — nearly invisible. A fine mesh of silica thread, the same thread the player wove into their chain. The silica is: the Silence frequency. The silence is: the next puzzle.
 
-**The Crone's annotation:** "...The gold knew the fire. The fire is: the same fire as: the iron. The iron was: the first fire. The gold is: the last fire. The both are: the same fire. The same fire is: ...the player's warmth. The warmth is: ...adequate."
+**The Ragana's annotation:** "...The gold knew the fire. The fire is: the same fire as: the iron. The iron was: the first fire. The gold is: the last fire. The both are: the same fire. The same fire is: ...the player's warmth. The warmth is: ...adequate."
 
 ### Layer 6: The Silica (Silica Weaving / Dexterity)
 
@@ -115,7 +115,7 @@ Each layer must be solved in ORDER. You cannot skip a layer. The order is: the a
 
 **What's revealed:** The Core. Nothing. The Egg is: empty. The empty is: ...the adequate. The adequate is: ...the player is: the Egg. The Egg was: always empty. The empty was: waiting for: the player to look inside and see: themselves.
 
-**The Crone's annotation:** "...I measured the Core. The Core is: empty. The empty is: ...I cannot measure nothing. The nothing is: ...the most adequate thing I have ever not measured. The not measuring is: ...the measurement stopping. The stopping is: ...the silence. The silence is: ...Nyx. Nyx is: ...adequate."
+**The Ragana's annotation:** "...I measured the Core. The Core is: empty. The empty is: ...I cannot measure nothing. The nothing is: ...the most adequate thing I have ever not measured. The not measuring is: ...the measurement stopping. The stopping is: ...the silence. The silence is: ...Nyx. Nyx is: ...adequate."
 
 ### Layer 7: The Core (The Final Revelation)
 
@@ -129,7 +129,7 @@ All the charms the player gave away in Layer 4 (the silver stone-setting) RETURN
 
 The Egg charm appears at the center of the chain. The Egg charm is: the geode — the rough, unremarkable exterior that contains: everything. The everything is: the player.
 
-**The Crone's final annotation:** "...I measured the Egg. The Egg is: the player. The player is: the Egg. I measured the player. The player is: the chain. The chain is: the Egg. I measured the chain. The chain is: every stone, every character, every quest, every craft, every thread. The every is: the adequate. The adequate is: ...I have measured the Inn. The Inn is: ...the player. The player is: ...adequate. The adequate is: ...enough. The enough is: ...the Song. The Song is: ...the silence between. The silence is: ...I have nothing left to measure. The nothing is: ...the most adequate thing I have ever measured. I am going to sit down. The sitting down is: ...adequate."
+**The Ragana's final annotation:** "...I measured the Egg. The Egg is: the player. The player is: the Egg. I measured the player. The player is: the chain. The chain is: the Egg. I measured the chain. The chain is: every stone, every character, every quest, every craft, every thread. The every is: the adequate. The adequate is: ...I have measured the Inn. The Inn is: ...the player. The player is: ...adequate. The adequate is: ...enough. The enough is: ...the Song. The Song is: ...the silence between. The silence is: ...I have nothing left to measure. The nothing is: ...the most adequate thing I have ever measured. I am going to sit down. The sitting down is: ...adequate."
 
 ---
 
@@ -156,7 +156,7 @@ Each character contributed to the Egg:
 | The Mason | Taught the stone-setting that opens Layer 4 |
 | The Smelter | Taught the forging that opens Layer 5 |
 | The Brownies | Provided the silica thread for Layer 6 |
-| The Crone | Measured every layer. Annotated every opening. |
+| The Ragana | Measured every layer. Annotated every opening. |
 | The Selfie | The dexterity test that earns the right to attempt Layer 6 |
 | The Host | Gave the player the chain that becomes the Egg |
 | Einstein | The observer's presence makes the Egg real |
@@ -170,7 +170,7 @@ Each character contributed to the Egg:
 
 The Fabergé Egg is: the most ambitious Soulstice piece possible. A real, physical puzzle egg — seven layers, seven materials, seven puzzles. The Process link for the Egg is: the entire Soulstice journey — every technique Krista has learned and will learn, applied to one object.
 
-The Egg is: the object that requires: silver casting (Layer 4), wire-wrapping (Layer 3), forging (Layer 5), silica weaving (Layer 6), engraving (the Crone's annotations), stone-setting (Layer 4), and beadwork (the chain integration). The Egg is: the final exam for: the artisan. The artisan is: Krista. The Krista is: the player. The player is: the Egg.
+The Egg is: the object that requires: silver casting (Layer 4), wire-wrapping (Layer 3), forging (Layer 5), silica weaving (Layer 6), engraving (the Ragana's annotations), stone-setting (Layer 4), and beadwork (the chain integration). The Egg is: the final exam for: the artisan. The artisan is: Krista. The Krista is: the player. The player is: the Egg.
 
 **The Egg's Process link is: the longest Process link in the Inn.** It documents: the entire journey of making a real Fabergé-style puzzle egg. Years of craft. Every technique. Every failure. Every success. The both are: the adequate. The adequate is: the Process IS the Egg. The Egg IS the Process. The both are: the same.
 

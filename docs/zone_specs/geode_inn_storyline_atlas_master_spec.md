@@ -17,7 +17,7 @@ Each storyline is a VERTICAL THREAD — it runs through multiple layers of the I
 |---|--------|-----------|----------|
 | 1 | The Song Thread | The 42Hz frequency | The Constant's starlight crystal → the Murmur beneath the giants |
 | 2 | The Silence Thread | Nyx's silence | The void → the cave's damped acoustics |
-| 3 | The Measurement Thread | The Crone's data | The main floor → the Grand Canyon temple |
+| 3 | The Measurement Thread | The Ragana's data | The main floor → the Grand Canyon temple |
 | 4 | The Fire Thread | Erik's wound | The Norse feast hall → the Guest's borrowed body |
 | 5 | The Water Thread | The seven-layer water system | The coast → the underground river |
 | 6 | The Naming Thread | The saving mechanism | The One Who Is Awake → the player |
@@ -62,7 +62,7 @@ The Campaign Narrative moves through all 10 levels of the Inn, weaving the 13 th
 |--------|------------------|-------------------|
 | The Song Thread | 42Hz | Everywhere — the Inn's base frequency |
 | The Silence Thread | Silence (Nyx's domain) | The cosmology level, damped cave acoustics |
-| The Measurement Thread | 72Hz (Clio's frequency) | The Crone's notebook, the Grand Canyon |
+| The Measurement Thread | 72Hz (Clio's frequency) | The Ragana's notebook, the Grand Canyon |
 | The Fire Thread | Variable (fire has no fixed frequency) | Erik's hearth, the Norse feast hall, the Guest's music box |
 | The Water Thread | 40-80Hz (the water layers' range) | The coast, the 7-layer water system, Charon's river |
 | The Root Thread | 42Hz through the mycorrhizal network | Canopy City, the Inn-Tree, the roots, the Egg |

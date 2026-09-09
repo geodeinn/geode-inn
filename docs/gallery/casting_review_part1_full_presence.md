@@ -175,7 +175,7 @@ Deity-level and ancient forces, all frequency states. Verify each image matches 
 <td><b>In-Between</b><br/><img src="https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/e2f85a884_generated_image.png" width="190" alt=""/><br/><code>generated_image.png</code></td>
 </tr></table>
 <hr/>
-### The Crone
+### The Ragana
 
 *Zone: Main Floor (L3)*
 

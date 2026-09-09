@@ -170,7 +170,7 @@ In the Shadow state, the unassuming exterior wall collapses outward into a tower
 * **Card Catalog UI:** Functions as a global cross-reference system for item templates and mineral charm properties.
 * **Voynich Room & Naut:** Companion Naut provides cipher decoding buffs when brought into the Annex.
 * **Gargoyle Sage (528 Hz):** Deployed to accelerate research decoding speeds during archival quests.
-* **Tabletop DM Walkthrough:** Reads Crone annotations and catalog notes verbatim during exploration.
+* **Tabletop DM Walkthrough:** Reads Ragana annotations and catalog notes verbatim during exploration.
 
 ---
 

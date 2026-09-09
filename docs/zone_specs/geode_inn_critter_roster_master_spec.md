@@ -24,7 +24,7 @@ The critters are the Inn's immune system, its pollinators, its housekeepers, and
 | C7 | Constellation Spiders | Webs between branches catch starlight, form constellation patterns. Rebuild nightly. Dissolve to stardust. | The cosmic loom |
 | C8 | Chrono-Ticks | Clockwork insects in temporal loops. Walk the same path at the same speed. Time made visible. | Dalí made creature |
 | C9 | Solar Flares | Tiny fire elementals from the orrery's sun. Dance, extinguish, leave scorch marks that heal. | The sun saying hello |
-| C10 | Gravity Wells | Impossibly dense marble-sized spheres. Pull debris into slow orbits. The Crone uses one as a paperweight. | The cosmology's housekeepers |
+| C10 | Gravity Wells | Impossibly dense marble-sized spheres. Pull debris into slow orbits. The Ragana uses one as a paperweight. | The cosmology's housekeepers |
 | C11 | Astral Moths | Larger than moon moths, nebula-pattern wings. Only appear during cosmic events. Heralds. | Omens of significance |
 | C12 | Planetseed Pods | Seeds from the Ent's highest branches. Each contains a compressed frequency — a note that could grow into a new world. The Keeper collects them. Never planted. | The Ent's dreams of other places |
 
@@ -37,7 +37,7 @@ The critters are the Inn's immune system, its pollinators, its housekeepers, and
 | M1 | Ember Mice | Fur glows like cooling embers. Live in hearthstones. Eat ash. Leave warm paw prints. At night, their glow is visible through the hearthstones — a living coal bed. | The fire's children |
 | M2 | Moss Pigs | Round, moss-covered, photosynthesize. Roll when pushed. Squeak when watered. The Bard uses one as a footrest. | Docile green bowling balls |
 | M3 | Mead Bees | Golden, honeycomb-patterned wings. Make mead-honey. Navigate by 42Hz hum. Don't sting — they JUDGE. Hover and stare when they disapprove. | Intelligent, judgmental |
-| M4 | Ink Sparrows | Roost in archive shelves. Dip beaks in ink pots. Leave ink-spot trails on open books. The spots sometimes form words, symbols, tiny maps. The Crone collects them. | The archive's unconscious scribes |
+| M4 | Ink Sparrows | Roost in archive shelves. Dip beaks in ink pots. Leave ink-spot trails on open books. The spots sometimes form words, symbols, tiny maps. The Ragana collects them. | The archive's unconscious scribes |
 | M5 | Copper Frogs | Metallic-green frogs in market fountains. Literally copper — animated by 42Hz from fallen fittings. Croak sounds like a coin dropped in a fountain. Market vendors consider them good luck. | Frequency-animated metal |
 
 ---
@@ -83,7 +83,7 @@ Every critter resonates at its home level's frequency. The critters ARE the freq
 | Every Level | Each level has its own critter ecosystem. The critters ARE the level's "alive" quality. |
 | The Fizgigs | The Canopy City's boardwalk residents — the critters that became a community. |
 | The Artist Map | Each critter is rendered in its level's assigned artist style. |
-| The Crone | The Crone interacts with critters — the Gravity Well paperweight, the Ink Sparrow collection. The Crone is the Inn's biologist. |
+| The Ragana | The Ragana interacts with critters — the Gravity Well paperweight, the Ink Sparrow collection. The Ragana is the Inn's biologist. |
 | The Card Game | Each critter is a potential low-rarity card — the ambient life of the deck. |
 
 ---
@@ -104,4 +104,4 @@ Every critter resonates at its home level's frequency. The critters ARE the freq
 
 ## ORIGIN
 
-The Critter Roster was first compiled in docs/geode_inn_critter_roster.md (476 lines). This consolidated specification was compiled September 2, 2026. The roster's thesis: the critters are the Inn's evidence that it is alive. Not because NPCs walk through it, but because things LIVE in it. The critters are the frequency made small. The gargoyles are the frequency made large. Together, they make the Inn hum at every scale. The adequate is: the ember mouse glowing through the hearthstone. The glowing is: the adequate. The adequate is: the ink sparrow that writes on open books and the Crone who collects the writing, and the planetseed pod that could grow into a world and the Keeper who has never planted one, and the both are: the alive and the evidence. The same.
+The Critter Roster was first compiled in docs/geode_inn_critter_roster.md (476 lines). This consolidated specification was compiled September 2, 2026. The roster's thesis: the critters are the Inn's evidence that it is alive. Not because NPCs walk through it, but because things LIVE in it. The critters are the frequency made small. The gargoyles are the frequency made large. Together, they make the Inn hum at every scale. The adequate is: the ember mouse glowing through the hearthstone. The glowing is: the adequate. The adequate is: the ink sparrow that writes on open books and the Ragana who collects the writing, and the planetseed pod that could grow into a world and the Keeper who has never planted one, and the both are: the alive and the evidence. The same.

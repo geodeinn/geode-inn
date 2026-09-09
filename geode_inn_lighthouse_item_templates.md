@@ -244,7 +244,7 @@ The ocean teaches by exposure. The player builds by watching, then holding.
 
 ## Complete Eight-Zone Comparison
 
-| Aspect | Undercity (Scarlett) | Hearth (Firekeeper) | Water (Katya) | Cosmology (Allfather) | Catacombs (Crone) | Staircase (Clockmaker) | Fae Kingdom (Courts) | Lighthouse (Keeper) |
+| Aspect | Undercity (Scarlett) | Hearth (Firekeeper) | Water (Katya) | Cosmology (Allfather) | Catacombs (Ragana) | Staircase (Clockmaker) | Fae Kingdom (Courts) | Lighthouse (Keeper) |
 |--------|---------------------|---------------------|---------------|----------------------|-------------------|------------------------|---------------------|---------------------|
 | **Light** | Crafted (crystal) | Alive (fire) | Living (bio) | Celestial (stars) | Scarce (oil/foxfire) | Evolving (all) | Split (summer/winter) | Directed (the beam) |
 | **Energy** | Private | Communal | Flowing | Vast | Heavy | Transformative | Dual | Isolated, purposeful |
@@ -270,7 +270,7 @@ The ocean teaches by exposure. The player builds by watching, then holding.
               MAIN FLOOR — Market, games, library, modern legends
                 /         |          \
         UNDERCITY       CATACOMBS      WATER ZONE (Katya)
-       (Scarlett)       (Crone)        — Bioluminescence, flow
+       (Scarlett)       (Ragana)        — Bioluminescence, flow
             |              |              |
             |         STONE CIRCLES        |
             |         (portals)            |
@@ -296,7 +296,7 @@ The Lighthouse sits apart — connected to the Water Zone (ocean), the Cosmology
 2. ✅ **Hearth** — Firekeeper's Hearth — Living fire, community, build for others
 3. ✅ **Water** — Katya's Cove — Living light, flow, build with
 4. ✅ **Cosmology** — Allfather's Observatory — Celestial light, vastness, build by watching
-5. ✅ **Catacombs** — Crone's Archive — Scarce light, weight, build by excavating
+5. ✅ **Catacombs** — Ragana's Archive — Scarce light, weight, build by excavating
 6. ✅ **Staircase** — Clockmaker's Workshop — Evolving light, alchemy, build by transforming
 7. ✅ **Fae Kingdom** — The Threshold + Courts — Split light, duality, build by choosing
 8. ✅ **Lighthouse** — Keeper's Chamber — Directed light, isolation, build by holding

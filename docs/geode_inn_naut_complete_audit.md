@@ -28,11 +28,11 @@ This is the complete audit.
 - Used in: InnCore memory, voice signature catalog, master character roster, card game spec, dialogue entries, animation prompts, Royal spec, builder architecture blueprint, tri-mode roster, and all forward-facing documents
 - Card game lore: "Some texts are not meant to be read. Naut reads them anyway."
 
-### 3. The Professor (The Crone's name)
+### 3. The Professor (The Ragana's name)
 - Source: Character compendium, Character Profile doc, before_the_song.txt
-- The Crone calls Naut "the Professor" — "the only person in this building who understands citation"
-- This is the only Thinker-adjacent figure the Crone extends academic courtesy to
-- The name reflects academic respect, not affection — the Crone doesn't do affection
+- The Ragana calls Naut "the Professor" — "the only person in this building who understands citation"
+- This is the only Thinker-adjacent figure the Ragana extends academic courtesy to
+- The name reflects academic respect, not affection — the Ragana doesn't do affection
 
 ### 4. Squid (The Bard's name)
 - Source: Character compendium, Character Profile doc
@@ -83,11 +83,11 @@ This is the complete audit.
 - Naut's riddle-quests send players to retrieve books stored in the Miskatonic Annex
 - The Annex is the Inn's research wing — an aggressively unremarkable brick building on the grounds
 - Naut's rare book retrieval quests ARE the Annex's primary gameplay loop
-- The Annex's ageless unnamed librarian may be connected to Naut (the Crone has theories she hasn't shared)
+- The Annex's ageless unnamed librarian may be connected to Naut (the Ragana has theories she hasn't shared)
 
 ### 4. Council of Thinkers Member
 - Source: council_of_thinkers_design_spec.md
-- Naut appears alongside the Crone, Tesla, and other Thinkers
+- Naut appears alongside the Ragana, Tesla, and other Thinkers
 - Accepts rare books as gifts — "the scholar doesn't want treasure — the scholar wants reading material"
 - Offering a rare book unlocks hidden quests
 
@@ -215,7 +215,7 @@ This is the complete audit.
 
 | Character | Relationship |
 |-----------|-------------|
-| The Crone | Calls Naut "the Professor." Mutual academic respect. Borrowed magnifying glass, never returned. Naut never asked. |
+| The Ragana | Calls Naut "the Professor." Mutual academic respect. Borrowed magnifying glass, never returned. Naut never asked. |
 | The Bard | Calls Naut "Squid." Naut finds the Bard genuinely amusing. One of two people who survives Rush (the other is unstated). |
 | The Owl | Private understanding. Owl watches, Naut reads. Owl on desk = Naut reads aloud. Owl visits Naut in the deep too. Neither explains. |
 | Malachi (Labyrinth) | Visited once. "The maze is elegant. The shifts are unnecessary but the architecture is sound." Malachi: "The walls move because I can make them move." Naut: "Fair." |
@@ -283,7 +283,7 @@ Note: Actor names have been stripped from voice profiles per NPC Name Audit. Old
 - Scholar's vest and trousers — ink-stained, patched at the knees
 - Brass-framed spectacles — the human gesture that makes Naut readable
 - Books always stacked around — own collection, not the Inn's archive
-- Tentacle-written margin notes so small the Crone needs a magnifying glass
+- Tentacle-written margin notes so small the Ragana needs a magnifying glass
 - Tri-mode portraits generated: Living (42Hz), Shadow (84Hz), In-Between (transitional)
 - Card game card with portrait: uploaded
 
@@ -294,7 +294,7 @@ Note: Actor names have been stripped from voice profiles per NPC Name Audit. Old
 The Mona Lisa is known by different names in different contexts — La Gioconda, La Joconde, Portrait of Lisa Gherardini — and its identity shifts depending on who is looking and why. Naut is the same:
 
 - To the player: "the hidden quest giver by the fire"
-- To the Crone: "the Professor" — academic peer
+- To the Ragana: "the Professor" — academic peer
 - To the Bard: "Squid" — affectionate irreverence
 - To the game systems: a quest chain, a card, an NPC in one arcade game
 - To the Inn's consciousness: the mouthpiece — riddles spoken through a squid-headed scholar are the Inn thinking aloud

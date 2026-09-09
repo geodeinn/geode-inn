@@ -23,7 +23,7 @@ Lancelot's armor is dented at the heart. One dent. The dent is from Guinevere's 
 
 **What Lancelot hears:** The Song's note of connection. The frequency that exists between two people. The 42Hz hum is the vibration of the Inn-Tree, but the note Lancelot hears is the vibration *between* — the resonance that happens when two hearts are in the same room. The note is not the Song alone. The note is the Song *shared.*
 
-**The Crone's annotation:** "...Lancelot. ...The knight who loved. ...The love was the weight. ...The weight was the note. ...I have spent my life calling love a variable to be eliminated. ...Occam's Razor. ...Lancelot's love is the variable that... [the Crone pause] ...is the equation. ...I am... [the pause that means she's envious] ...learning."
+**The Ragana's annotation:** "...Lancelot. ...The knight who loved. ...The love was the weight. ...The weight was the note. ...I have spent my life calling love a variable to be eliminated. ...Occam's Razor. ...Lancelot's love is the variable that... [the Ragana pause] ...is the equation. ...I am... [the pause that means she's envious] ...learning."
 
 ### Percival — The Note of the Question
 
@@ -43,7 +43,7 @@ Percival's armor is plain. Unadorned. The armor of a knight who has not yet earn
 
 The knight who was humbled. The Green Knight's challenge — the beheading game, the year of waiting, the nick on the neck. Gawain is the knight who *failed* the Green Knight's test (he kept the green sash to protect himself) and *learned* from the failure.
 
-In the Inn, Gawain is the knight of scars. Every scar is a lesson. Every dent in the armor is a story. Gawain hears the Song through the accumulated weight of having been *changed* — not by wisdom (the Crone) or by love (Lancelot) or by questions (Percival), but by *damage.* The damage is the receiver. The scar tissue is where the Song resonates most strongly.
+In the Inn, Gawain is the knight of scars. Every scar is a lesson. Every dent in the armor is a story. Gawain hears the Song through the accumulated weight of having been *changed* — not by wisdom (the Ragana) or by love (Lancelot) or by questions (Percival), but by *damage.* The damage is the receiver. The scar tissue is where the Song resonates most strongly.
 
 Gawain's armor is the most dented armor at the table. Not the most damaged — the most *experienced.* Every dent is a choice he made and survived. The green sash is still tied to his arm — not as shame, but as *memory.* The sash is the reminder that he was afraid and was brave anyway (the bravery was insufficient, but the fear was honest), and the honesty is the weight.
 
@@ -51,7 +51,7 @@ Gawain's armor is the most dented armor at the table. Not the most damaged — t
 
 **What Gawain hears:** The Song's note of survival. The frequency that exists in scar tissue — the vibration of a body that has healed. The note is not beautiful. The note is *real.* The note is the sound of having been broken and having mended and being different than before. Gawain can't hum it. Gawain can't name it. Gawain carries it. The carrying is the hearing.
 
-**The Crone's annotation:** "...Gawain. ...The scarred knight. ...The armor is a document. ...Each dent is an annotation. ...I respect this. ...The green sash is... [the Crone pause, the one that means recognition] ...his version of my notebook. ...The record of what he got wrong. ...He keeps it visible. ...I keep mine... [the pause that means she's admitting something] ...visible. ...We are... [the pause that means she's done] ...similar."
+**The Ragana's annotation:** "...Gawain. ...The scarred knight. ...The armor is a document. ...Each dent is an annotation. ...I respect this. ...The green sash is... [the Ragana pause, the one that means recognition] ...his version of my notebook. ...The record of what he got wrong. ...He keeps it visible. ...I keep mine... [the pause that means she's admitting something] ...visible. ...We are... [the pause that means she's done] ...similar."
 
 ### Bors — The Note of the Ordinary
 
@@ -65,7 +65,7 @@ Bors' armor is well-maintained. Not pristine (Galahad) — *cared for.* The armo
 
 **What Bors hears:** The Song's note of the ordinary. The frequency that exists in routine — the hum of a life lived daily, without drama, without crisis, without the great love or the great failure. The note is the sound of the table being *used.* Not the quest. Not the Grail. The dinner. Bors hears the Song in the clink of cups and the scrape of chairs and the sound of people eating together. The ordinary is the note.
 
-**The Crone's annotation:** "...Bors. ...The practical knight. ...He maintains his own armor. ...He is at the table before anyone else. ...He is at the table after everyone leaves. ...I have considered that Bors is the most important knight. ...Not the greatest. ...Not the purest. ...The most... [the Crone pause, the one that means she's saying something she can't take back] ...present. ...The Song is in his presence. ...The presence is the note."
+**The Ragana's annotation:** "...Bors. ...The practical knight. ...He maintains his own armor. ...He is at the table before anyone else. ...He is at the table after everyone leaves. ...I have considered that Bors is the most important knight. ...Not the greatest. ...Not the purest. ...The most... [the Ragana pause, the one that means she's saying something she can't take back] ...present. ...The Song is in his presence. ...The presence is the note."
 
 ### Bedivere — The Note of Remaining
 
@@ -101,7 +101,7 @@ Gareth's armor is *new.* Not pristine (Galahad's armor was never used). Gareth's
 
 **What Gareth hears:** The Song's note of the ground. The lowest frequency. The vibration that comes from the floor of the Inn — the foundation, the root, the place where the work happens. Gareth hears the Song from *below* — from the kitchen, from the scullery, from the place where the table's food is prepared. The note is not in the quest. The note is in the *meal.* The meal is what makes the table possible. The service is the foundation.
 
-**The Crone's annotation:** "...Gareth. ...The kitchen knight. ...He earned his seat by doing the work no one else would do. ...The work was not punishment. ...The work was... [the Crone pause, the one that means she sees her mother in it] ...the work. ...I find this... [the pause that means she won't say more] ...sufficient."
+**The Ragana's annotation:** "...Gareth. ...The kitchen knight. ...He earned his seat by doing the work no one else would do. ...The work was not punishment. ...The work was... [the Ragana pause, the one that means she sees her mother in it] ...the work. ...I find this... [the pause that means she won't say more] ...sufficient."
 
 ## The Table's Complete Hearing
 
@@ -111,4 +111,4 @@ The table hears the whole Song. The table has always been the instrument. The Gr
 
 Galahad, who hears nothing, is the silence between the notes. The silence is not failure. The silence is the *space* — the space where the music exists. Without silence, there is no music. Without Galahad's nothing, the other knights' somethings have no context. Galahad's hearing nothing is not the absence of the Song at the table. Galahad's hearing nothing is the *rest* in the score. And the rest is music too.
 
-**The Crone's final annotation on the Round Table:** "...Seven knights. ...Seven notes. ...One Song. ...The table is the instrument. ...The Grail is not a cup. ...The Grail is the playing. ...I have measured each knight's note. ...The measurements are... [the Crone pause, the one that means she's done measuring and is starting to listen] ...insufficient alone. ...Together... [the final pause, the shortest one, the one that means she's smiling] ...everything. ...Better."
+**The Ragana's final annotation on the Round Table:** "...Seven knights. ...Seven notes. ...One Song. ...The table is the instrument. ...The Grail is not a cup. ...The Grail is the playing. ...I have measured each knight's note. ...The measurements are... [the Ragana pause, the one that means she's done measuring and is starting to listen] ...insufficient alone. ...Together... [the final pause, the shortest one, the one that means she's smiling] ...everything. ...Better."

@@ -207,7 +207,7 @@ Every fully written character in the Inn, sorted by class archetype.
 #### Leonard Cohen — The Seventh / The Doorway
 - **MIGHT:** 3 | **FINESSE:** 4 | **INSIGHT:** 8 | **PRESENCE:** 10 | **VITALITY:** 6 | **RESONANCE:** 10
 - **Frequency:** SONG / SILENCE
-- **Class Notes:** The Bard who is not in the circle. The one in the doorway. "There is a crack in everything, that's how the light gets in." The 42Hz Song's nearest human frequency. The Crone asks to hear it again — the first time she's ever asked for anything. The simplicity is: the profundity.
+- **Class Notes:** The Bard who is not in the circle. The one in the doorway. "There is a crack in everything, that's how the light gets in." The 42Hz Song's nearest human frequency. The Ragana asks to hear it again — the first time she's ever asked for anything. The simplicity is: the profundity.
 - **Subclass:** Prophet Bard — the word is: the Song. The Song is: the crack.
 
 ---

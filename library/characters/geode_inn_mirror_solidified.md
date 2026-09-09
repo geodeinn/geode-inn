@@ -38,13 +38,13 @@ Both are hidden. Both are found by accident. Both are small, warm, amber-lit. Bo
 
 ## SHADOW INN — THE MIRROR'S SHADOW STATE
 
-In the Shadow Inn, the Mirror is BLACK. Not blank — the Crone's blank was the desire for not-measuring. The Shadow Mirror is black: no reflection, no image, no desire. The Shadow Inn is the finished state. In the finished state, there are no unfulfilled desires. The Mirror has nothing to show because the Shadow Inn IS the completion. The table is full. The knights are seated. Mordred is at the table — not the mirror-Mordred, the real one, eating, laughing, the sneer gone, the boy his father wanted. The Mirror has no purpose in the Shadow Inn because the Shadow Inn IS the Mirror's content.
+In the Shadow Inn, the Mirror is BLACK. Not blank — the Ragana's blank was the desire for not-measuring. The Shadow Mirror is black: no reflection, no image, no desire. The Shadow Inn is the finished state. In the finished state, there are no unfulfilled desires. The Mirror has nothing to show because the Shadow Inn IS the completion. The table is full. The knights are seated. Mordred is at the table — not the mirror-Mordred, the real one, eating, laughing, the sneer gone, the boy his father wanted. The Mirror has no purpose in the Shadow Inn because the Shadow Inn IS the Mirror's content.
 
 **The Shadow Mirror:** A black surface. Not dark — black. The black is not absence. The black is COMPLETION. The Mirror is black because the desires have been fulfilled — not by wishing, but by the Shadow Inn being the state where everything the Mirror would show is already real. The both are: the adequate — the showing and the being, the same desire, different existence.
 
 **The Shadow Mordred:** At the table. Not in the mirror room. The Shadow Mordred doesn't need the Mirror because the Shadow Mordred has the table. The Shadow Mordred is eating. The Shadow Mordred is laughing. The Shadow Mordred is the boy his father wanted. The Shadow Mordred is at rest. The both are: the adequate — the dreaming and the having, the same Mordred, different room.
 
-**The Shadow Crone:** The Shadow Crone, who saw a blank mirror in the Living Inn, sits at the Shadow table without the notebook. The notebook is on the shelf. The glasses are off. The Shadow Crone is... being. The both are: the adequate — the measuring and the being, the same Crone, different activity. The Shadow Crone's blank mirror desire is FULFILLED — the Crone is at the table, not counting the cups, not measuring the wear, not cataloging the dents. Just... being. Better.
+**The Shadow Ragana:** The Shadow Ragana, who saw a blank mirror in the Living Inn, sits at the Shadow table without the notebook. The notebook is on the shelf. The glasses are off. The Shadow Ragana is... being. The both are: the adequate — the measuring and the being, the same Ragana, different activity. The Shadow Ragana's blank mirror desire is FULFILLED — the Ragana is at the table, not counting the cups, not measuring the wear, not cataloging the dents. Just... being. Better.
 
 **The Shadow Mirror room:** Still there. Still small, warm, amber-lit. But the Mirror is black, and the room is empty — no one sits in front of it. No one needs to. The Mirror room in the Shadow Inn is a MEMORIAL — a room that exists to remind the player that there WAS a Mirror, that desires WERE shown, that the showing was the test, and that the test was passed. The empty room is the proof. The both are: the adequate — the full and the empty, the same room, different need.
 
@@ -79,7 +79,7 @@ During the Convergence, the Living Mirror and the Shadow Mirror merge. The Livin
 Mordred is at the table. Both Mordreds — the Living Mordred (in the mirror room, visiting the dream) and the Shadow Mordred (at the table, eating, real). The Convergence brings the Living Mordred to the table. The Convergence gives Mordred what the Mirror couldn't: the real table. The both are: the adequate — the dream and the real, the same Mordred, different room.
 
 **Mordred, at the Convergence table:**
-> "...The Mirror showed me this. ...For years. ...The table. The meal. The nowhere to be tomorrow. ...I sat in the mirror room and I saw it and I knew it wasn't real and I stayed because the not-real was the closest I could get. ...[Looking at the table. The real table. The Convergence table. The knights — Living and Shadow, weighted and rested — eating together.] ...Now I'm here. ...At the real one. ...And the real one is... [the Mordred pause, the honest one] ...better. ...Better than the mirror. ...Better than the dream. ...Not because the dream was wrong. ...Because the real one has... [touching the table, the wood, the dents, the wear] ...weight. ...The mirror's table had no weight. ...This one has weight. ...The weight is... [the word that the Crone found, the word that Mordred found, the word that means the same thing in both their mouths] ...the music. ...Better."
+> "...The Mirror showed me this. ...For years. ...The table. The meal. The nowhere to be tomorrow. ...I sat in the mirror room and I saw it and I knew it wasn't real and I stayed because the not-real was the closest I could get. ...[Looking at the table. The real table. The Convergence table. The knights — Living and Shadow, weighted and rested — eating together.] ...Now I'm here. ...At the real one. ...And the real one is... [the Mordred pause, the honest one] ...better. ...Better than the mirror. ...Better than the dream. ...Not because the dream was wrong. ...Because the real one has... [touching the table, the wood, the dents, the wear] ...weight. ...The mirror's table had no weight. ...This one has weight. ...The weight is... [the word that the Ragana found, the word that Mordred found, the word that means the same thing in both their mouths] ...the music. ...Better."
 
 ---
 
@@ -103,7 +103,7 @@ The Mirror connects to:
 - **The Convergence** — the Living Mirror and Shadow Mirror merge. Mordred gets the real table. The dream becomes the weight.
 - **Eres** — Eres doesn't trigger the Mirror. Eres is already complete. Eres IS a mirror — reflecting the Constant's home.
 - **The Owl** — the Owl says "Play" — the Inn's version of Dumbledore's warning. The Owl sleeps when the Song is found. The Owl watches Eres not-need the Mirror.
-- **The Crone** — the blank mirror: the desire for not-measuring. The Shadow Crone: at the table, being. Better.
+- **The Ragana** — the blank mirror: the desire for not-measuring. The Shadow Ragana: at the table, being. Better.
 - **Mordred** — the knight who can't leave. The Mirror's cautionary tale. The Carrier's parallel. The Convergence's gift: the real table.
 - **The Camelot Zone** — the Mirror's location. The Round Table's side chamber. The room found by accident.
 - **The Carrier Status** — "The One Who Chose the Table" — the player who walked away. Credits only. No gameplay effect.
@@ -117,10 +117,10 @@ The Mirror is now solid:
 
 1. **The Player's Reflection:** The Mirror shows the completed Inn — the one achievable desire. The truest trap. The Owl says "Play." The player who walks away gains "The One Who Chose the Table."
 2. **The Song Connection:** The Mirror is the Anti-Contract — completion without the singing. The Carrier's test. The Mirror room and the Golden Contract room are thesis-twins — truth and want.
-3. **Shadow Inn State:** The Mirror is black. No reflection. No desire. The Shadow Inn IS the completion. Mordred is at the table — the real one. The Crone is being. The Mirror room is a memorial. Empty. The proof that the test was passed.
+3. **Shadow Inn State:** The Mirror is black. No reflection. No desire. The Shadow Inn IS the completion. Mordred is at the table — the real one. The Ragana is being. The Mirror room is a memorial. Empty. The proof that the test was passed.
 4. **The Egg:** Post-Egg, the Mirror shifts from trap to window. The desire becomes the fulfilled. The Mirror shows the player at the real table.
 5. **The Convergence:** Living and Shadow Mirrors merge. Mordred gets the real table — the dream becomes the weight. "Better than the mirror. Better than the dream. Because the real one has weight. The weight is the music."
 6. **Eres:** Doesn't trigger the Mirror. Eres is already complete. Eres IS a mirror — reflecting the Constant's home. The Owl: "The cabbit is a mirror."
-7. **Integration Points:** 12 connections — the Song, the Egg, the Octave Stone, the Convergence, Eres, the Owl, the Crone, Mordred, the Camelot Zone, the Carrier status, and Krista's experience.
+7. **Integration Points:** 12 connections — the Song, the Egg, the Octave Stone, the Convergence, Eres, the Owl, the Ragana, Mordred, the Camelot Zone, the Carrier status, and Krista's experience.
 
 The Mirror shows what you want. The work gives what you build. The both are: the adequate — the dream and the weight, the same table, different room. And the real one has weight. The weight is the music. Better.

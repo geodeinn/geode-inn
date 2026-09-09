@@ -16,7 +16,7 @@
 9. [The Ents — The Inn-Tree & Story-Born Architecture](#9-the-ents-the-inn-tree--story-born-architecture)
 10. [Keepers of Every World (Part 1) — Appalachia, China, Norse](#10-keepers-of-every-world-part-1-appalachia-china-norse)
 11. [Keepers of Every World (Part 2) — Greece, India, Navajo, Inuit, Finland, Maya](#11-keepers-of-every-world-part-2-greece-india-navajo-inuit-finland-maya)
-12. [The Sacred Trio — The Host, The Catalyst, The Crone](#12-the-sacred-trio-the-host-the-catalyst-the-crone)
+12. [The Sacred Trio — The Host, The Catalyst, The Ragana](#12-the-sacred-trio-the-host-the-catalyst-the-crone)
 13. [The Retort & The Cook — Alchemical Laboratory & Kitchen](#13-the-retort--the-cook-alchemical-laboratory--kitchen)
 14. [The Retort's Two Frustrations — The Bloop & Tesla](#14-the-retorts-two-frustrations-the-bloop--tesla)
 15. [The Gardener & The Bearsark — The Greenward & The Wild Guardian](#15-the-gardener--beorn-radagast--the-wild-guardian)
@@ -152,19 +152,19 @@ When the central Inn-Tree suffers corruption during the late-game shadow surge, 
 ## 6. FAMILY CHARACTER REGISTRY — PLAYABLE CLASSES & LINEAGE
 
 ### Visual DNA & Aesthetic Synthesis
-* **Living Inn (42Hz - Klimt Aesthetic):** A magnificent golden family crest tapestry hanging above the main floor fireplace. Each character class—Bard Blowhard (Dwarf), Librarian Crone, Chameleon Druid, Artisan Thief, Tinkering Weeaboo—is depicted in rich Klimt gold leaf, wearing ornate gilded armor, mosaic robes, and holding radiant ancestral relics.
+* **Living Inn (42Hz - Klimt Aesthetic):** A magnificent golden family crest tapestry hanging above the main floor fireplace. Each character class—Bard Blowhard (Dwarf), Librarian Ragana, Chameleon Druid, Artisan Thief, Tinkering Weeaboo—is depicted in rich Klimt gold leaf, wearing ornate gilded armor, mosaic robes, and holding radiant ancestral relics.
 * **Shadow Inn (84Hz - Royo Aesthetic):** The tapestry darkens into an iron-and-obsidian relief carving. The family members appear as dark metallic knights, phantom scholars, and shadow shapeshifters clad in dark biomechanical plating, translucent shadow silk, and glowing violet weapons under an 84Hz moon.
 
 ### (1) Shadow Inn State
 In the 84Hz Shadow Inn, the playable family classes switch to their **Shadow Vanguard** skill trees:
 * *Bard Blowhard:* Vocal Roar flips to *Spectral Resonance Nova* (stuns shadow beasts).
-* *Librarian Crone:* Measurement flips to *Void Audit* (strips shadow enemy buffs).
+* *Librarian Ragana:* Measurement flips to *Void Audit* (strips shadow enemy buffs).
 * *Chameleon Druid:* Shifts into biomechanical shadow beasts.
 * *Artisan Thief:* Uses shadow-step and dark mineral gem setting.
 * *Tinkering Weeaboo:* Shifts into full True Form static form.
 
 ### (2) Endgame Connections
-The combined lineage activates the ancestral *Family Crest Seal* on the Staircase. Each class must contribute their unique archetype mastery item (e.g., Bard's Horn, Crone's Ledger, Thief's Apron) to the central altar to open the seal leading to Level 9 Undercity and the Egg Chamber.
+The combined lineage activates the ancestral *Family Crest Seal* on the Staircase. Each class must contribute their unique archetype mastery item (e.g., Bard's Horn, Ragana's Ledger, Thief's Apron) to the central altar to open the seal leading to Level 9 Undercity and the Egg Chamber.
 
 ### (3) Sound Profile
 * **Base Frequency:** 42 Hz pipe organ foundation doubling to an 84 Hz octave choir.
@@ -301,24 +301,24 @@ Completing the quest chains for all six of these Keepers yields the remaining si
 ## 12. THE SACRED TRIO — THE HOST, THE CATALYST, THE CRONE
 
 ### Visual DNA & Aesthetic Synthesis
-* **Living Inn (42Hz - Klimt Aesthetic):** The central theological triad of the Main Floor. The Host stands in majestic, welcoming authority doused in warm amber Klimt sunlight. The Catalyst swirls in a cyclone of golden flower petals and story sparks. The Crone sits at her desk, illuminated by white parchment and gold filigree ink, measuring reality with silver calipers. Golden mosaic triangles link their three positions on the floor.
-* **Shadow Inn (84Hz - Royo Aesthetic):** The trio transforms into the **Shadow Tribunal**. The Host wears velvet-and-obsidian armor with a dark mantle. The Catalyst becomes a storm of dark shadow butterflies and violet ether flames. The Crone sits at an obsidian ledger desk under an ultraviolet 84Hz spotlight, her silver glasses catching dark starlight.
+* **Living Inn (42Hz - Klimt Aesthetic):** The central theological triad of the Main Floor. The Host stands in majestic, welcoming authority doused in warm amber Klimt sunlight. The Catalyst swirls in a cyclone of golden flower petals and story sparks. The Ragana sits at her desk, illuminated by white parchment and gold filigree ink, measuring reality with silver calipers. Golden mosaic triangles link their three positions on the floor.
+* **Shadow Inn (84Hz - Royo Aesthetic):** The trio transforms into the **Shadow Tribunal**. The Host wears velvet-and-obsidian armor with a dark mantle. The Catalyst becomes a storm of dark shadow butterflies and violet ether flames. The Ragana sits at an obsidian ledger desk under an ultraviolet 84Hz spotlight, her silver glasses catching dark starlight.
 
 ### (1) Shadow Inn State
 In the 84Hz Shadow Inn, the Sacred Trio acts as the final gatekeepers of the Deep Inn. They evaluate the player's character, choices, and collected frequencies through the *Shadow Audit*. If the player passes, they grant entry to Level 9 Undercity and the Egg Chamber; if not, they assign trial quests to cleanse lingering corruption.
 
 ### (2) Endgame Connections
-The Sacred Trio embodies the fundamental theological equation: Host (Father / 42Hz) + Catalyst (Spirit / 84Hz) + Crone (Word / 126Hz). During the forging of the Octave Stone, they combine their three individual resonant fields into the single, unified 168Hz wave that powers the entire endgame transformation.
+The Sacred Trio embodies the fundamental theological equation: Host (Father / 42Hz) + Catalyst (Spirit / 84Hz) + Ragana (Word / 126Hz). During the forging of the Octave Stone, they combine their three individual resonant fields into the single, unified 168Hz wave that powers the entire endgame transformation.
 
 ### (3) Sound Profile
-* **Base Frequency:** Tri-tonal chord (42 Hz Host base, 84 Hz Catalyst mid, 126 Hz Crone high).
+* **Base Frequency:** Tri-tonal chord (42 Hz Host base, 84 Hz Catalyst mid, 126 Hz Ragana high).
 * **Acoustic Layer:** Resonant theatrical voice of Patrick Stewart energy (140 Hz), Helena Bonham Carter story laughter (450 Hz), Maggie Smith paper rustle & caliper click (1760 Hz).
 * **Audio Texture:** Divine, sacred, perfectly balanced trinitarian harmony.
 
 ### (4) Cross-System Integration
 * **Main Floor Hub:** Serves as the primary sanctuary, quest center, and resting zone.
 * **Staircase Mechanics:** Directly links to the Alchemical Staircase stages (Nigredo, Albedo, Rubedo).
-* **Living Book System:** The Crone writes, the Catalyst inspires, and the Host anchors all entries.
+* **Living Book System:** The Ragana writes, the Catalyst inspires, and the Host anchors all entries.
 
 ---
 

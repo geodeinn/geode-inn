@@ -21,7 +21,7 @@ Each major NPC is a hero class with a unique hero power based on their establish
 | Hero | Class Name | Hero Power | Cost | Zone | Artist Style |
 |------|-----------|-------------|------|------|-------------|
 | The Host (Patrick Stewart) | The Welcomer | "Open Door" — Summon a 1/1 Visitor minion | 2 | Main Floor | Van Gogh |
-| The Crone (Anthony Hopkins) | The Measurer | "Adequate" — Measure any minion (reveal its stats and effects) | 1 | Archive | Mapplethorpe |
+| The Ragana (Anthony Hopkins) | The Measurer | "Adequate" — Measure any minion (reveal its stats and effects) | 1 | Archive | Mapplethorpe |
 | The Firekeeper (Tim Curry) | The Storyteller | "Tale" — Deal 1 damage to all enemy minions (the fire crackles) | 2 | Main Floor Hearth | Picasso |
 | The Catalyst (HBC) | The Gardener | "Seed" — Plant a seed on a friendly minion (grows +1/+1 each turn) | 2 | Main Floor Garden | Van Gogh |
 | The Astronomer (Cumberbatch) | The Calculator | "Deduction" — Look at the top 3 cards of your deck, rearrange them | 2 | Cosmology | Dali |
@@ -37,7 +37,7 @@ Each major NPC is a hero class with a unique hero power based on their establish
 
 | Hero | Class Name | Hero Power | Zone | Unlock |
 |------|-----------|-------------|------|--------|
-| Beverley | The Archivist | "Dismiss" — Return an enemy minion to its owner's hand | Archive | Win 10 games as The Crone |
+| Beverley | The Archivist | "Dismiss" — Return an enemy minion to its owner's hand | Archive | Win 10 games as The Ragana |
 | The Teacher (Kathy Bates) | The Corrector | "Red Pen" — Silence a minion (remove its text) | Main Floor | Complete the Teacher's quest chain |
 | The Cartographer | The Mapper | "Chart" — Reveal the opponent's next draw | Canopy City | Complete the Cartographer's quest chain |
 | The Examiner (Deschanel) | The Analyst | "Examine" — Reveal all Secrets (hidden cards) | Canopy City | Complete the Examiner's quest chain |

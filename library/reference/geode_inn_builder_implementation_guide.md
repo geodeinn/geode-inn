@@ -435,7 +435,7 @@ The Geode Inn main floor page needs the following HTML structure:
        data-geode-preset="seated">
   </div>
   
-  <!-- The Crone -->
+  <!-- The Ragana -->
   <div class="npc-crone"
        data-geode-sprite="/sprites/crone.png"
        data-geode-preset="seated">

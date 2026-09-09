@@ -190,7 +190,7 @@ The GBA game's most underappreciated mechanic: every new spell retroactively ope
 Every zone has content that's only accessible with specific stone frequencies — frequencies the player won't have on the first visit.
 
 **Example — The Catacombs (First Visit):**
-The player enters the Catacombs with basic stones. The archive is browsable. The Crone is accessible. But:
+The player enters the Catacombs with basic stones. The archive is browsable. The Ragana is accessible. But:
 - Dark corridors are impassable (need selenite — Light stone)
 - Hidden texts on the shelves are invisible (need kyanite — Harmonic stone to read the frequency-impressed writing)
 - A sealed door at the back radiates a dense frequency (need hematite — Dense stone to ground the lock)
@@ -323,7 +323,7 @@ The Death Sequence (reincarnation mechanic) is the GBC's card-burning consequenc
 ### The New Game+ (The Create Run)
 - The Octave Stone is forged. All stones at Tria. All charms restored. Shadow Inn accessible from the start.
 - The player can go ANYWHERE immediately. Every zone is open. Every frequency is mastered.
-- NG+ is about DEPTH. Without the grind, the player can focus on: the lore (every NPC's full dialogue tree), the puzzles (every cross-world Shadow Inn puzzle), the story (the Firekeeper's complete tale, the Crone's notebook, the player's own book), and the composition (the Bead Board's master arrangement, the complete Inn Song).
+- NG+ is about DEPTH. Without the grind, the player can focus on: the lore (every NPC's full dialogue tree), the puzzles (every cross-world Shadow Inn puzzle), the story (the Firekeeper's complete tale, the Ragana's notebook, the player's own book), and the composition (the Bead Board's master arrangement, the complete Inn Song).
 - NG+ has new content: the "Echo" quests — NPCs who remember the first playthrough and have new dialogue. The Archive of Alternate Versions is fully accessible. The 14th Record (player's frequency) is playable in the Hollow Earth.
 - NG+ is the Full Enchantment's promise: the game without the choosing. The world without the tension. The Inn without the grind. Just the being.
 

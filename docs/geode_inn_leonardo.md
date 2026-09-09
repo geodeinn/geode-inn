@@ -40,7 +40,7 @@ The mirror writing is a puzzle mechanic:
 
 The mirror writing is also Leonardo's THESIS: knowledge is reflected, not direct. You can't read Leonardo head-on. You can't understand Leonardo directly. You need a MIRROR — a different perspective, a reversed view, the thing that shows you what you're looking at by showing you its OPPOSITE. The Messenger Principle says: timing is the language. Leonardo says: REFLECTION is the language. The message is in the mirror. The truth is in the reversal.
 
-The Crone on Leonardo's mirror writing: "...He writes backward. I read forward. The notes are perfect. They're just... [the Crone, who reads everything, encountering text that requires a different KIND of reading] ...reversed. ...I need a mirror to read him. ...[The pause. The realization.] ...I need to CHANGE to read him. ...Not change the text. Change ME. ...[The Crone, who measures everything, encountering a measurement that requires the measurer to adjust.] ...The mirror doesn't change the writing. The mirror changes the READER. ...[The pen, still. The glasses, removed.] ...That's... [the rarest expression] ...clever."
+The Ragana on Leonardo's mirror writing: "...He writes backward. I read forward. The notes are perfect. They're just... [the Ragana, who reads everything, encountering text that requires a different KIND of reading] ...reversed. ...I need a mirror to read him. ...[The pause. The realization.] ...I need to CHANGE to read him. ...Not change the text. Change ME. ...[The Ragana, who measures everything, encountering a measurement that requires the measurer to adjust.] ...The mirror doesn't change the writing. The mirror changes the READER. ...[The pen, still. The glasses, removed.] ...That's... [the rarest expression] ...clever."
 
 ---
 

@@ -280,7 +280,7 @@ There are 144 characters in the Inn. Each one has up to 3 portrait versions:
 | The Storyteller / The Host | Main Floor | Tells stories by the hearth |
 | Aurallia (The One Who Tends) | Main Floor | Tends the Inn |
 | The Bard | Meadery | Music and songs |
-| The Crone | Main Floor | Wisdom, mirrors |
+| The Ragana | Main Floor | Wisdom, mirrors |
 | Medusa | Gorgon's Garden | Petrification mechanic |
 | Hades & Persephone | Catacombs | Underworld rulers |
 | The Allfather (Odin) | Cosmology | Sky god, full presence |

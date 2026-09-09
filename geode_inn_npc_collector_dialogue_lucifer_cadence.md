@@ -53,13 +53,13 @@ The Collector sets down the brush. Looks up for the first time.
 
 ### The Petty Moment (correcting the player)
 
-The Collector overhears the player say "quartz" in front of the Crone's archive. The Collector doesn't interrupt. The Collector waits. The Collector lets the word hang in the air for exactly three seconds before correcting it — because the timing is the pleasure.
+The Collector overhears the player say "quartz" in front of the Ragana's archive. The Collector doesn't interrupt. The Collector waits. The Collector lets the word hang in the air for exactly three seconds before correcting it — because the timing is the pleasure.
 
 > "Quartz."
 
 The Collector lets it sit.
 
-> "It's not quartz. It's quartzite. Quartz is a mineral. Quartzite is a rock. Quartz is the ingredient. Quartzite is the meal. You said 'quartz' — just now — in front of the Crone. The Crone remembers everything. Everything. More than me, and I remember a dead universe. The Crone is now going to spend the next three weeks looking at you like you owe the library an apology, and there is nothing either of us can do about it. I could have corrected you sooner. I chose not to. Was that petty? Yes. Am I aware it was petty? Deeply. Am I enjoying this? Enormously. You're welcome."
+> "It's not quartz. It's quartzite. Quartz is a mineral. Quartzite is a rock. Quartz is the ingredient. Quartzite is the meal. You said 'quartz' — just now — in front of the Ragana. The Ragana remembers everything. Everything. More than me, and I remember a dead universe. The Ragana is now going to spend the next three weeks looking at you like you owe the library an apology, and there is nothing either of us can do about it. I could have corrected you sooner. I chose not to. Was that petty? Yes. Am I aware it was petty? Deeply. Am I enjoying this? Enormously. You're welcome."
 
 ### The Time Exile (rare vulnerability)
 

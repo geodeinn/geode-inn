@@ -6,7 +6,7 @@
 
 ## THE CHARACTER
 
-The meadery owner's wife. Rock hound. Bone artist in the style of Georgia O'Keeffe — the woman who saw the architecture of life in what remains after it. She preserves the bones of things that have passed, not as relics or trophies, but as expressions of the cycle — the bone is the last structure the body builds, and it outlasts the body. The most adequate structure. The Crone would call it adequate. The Bone Keeper would simply call it beautiful.
+The meadery owner's wife. Rock hound. Bone artist in the style of Georgia O'Keeffe — the woman who saw the architecture of life in what remains after it. She preserves the bones of things that have passed, not as relics or trophies, but as expressions of the cycle — the bone is the last structure the body builds, and it outlasts the body. The most adequate structure. The Ragana would call it adequate. The Bone Keeper would simply call it beautiful.
 
 She and the meadery owner are family to Krista. In the Inn, they share the Viking ship mead hall zone — his fire and mead above, her quiet room below. The mead hall is the warm public heart. The Bone Room is the cool private one.
 
@@ -20,7 +20,7 @@ She and the meadery owner are family to Krista. In the Inn, they share the Vikin
 - **Belladonna** (Undercity): the Bone Keeper and Belladonna share the Undercity's comfort with the dead. Belladonna would visit the Bone Room regularly — the Addams who is at home with remains, the keeper who makes them beautiful.
 - **The Guest** (Death): the Guest would understand the Bone Keeper better than anyone. Death takes a holiday at the Inn and finds someone who has already made peace with what Death leaves behind.
 - **Medusa**: the petrifier and the bone keeper — two approaches to permanence. Medusa freezes the living. The Bone Keeper reveals what the living leave behind. Same goal: the thing that lasts.
-- **The Crone**: the measurer and the keeper. The Crone measures adequacy. The bone IS the most adequate structure — it is what remains when everything else is subtracted. The Crone would sit in the Bone Room and say nothing for a long time.
+- **The Ragana**: the measurer and the keeper. The Ragana measures adequacy. The bone IS the most adequate structure — it is what remains when everything else is subtracted. The Ragana would sit in the Bone Room and say nothing for a long time.
 - **The Subtractive Family**: the Bone Room IS the Subtractive philosophy in practice. You don't add to the bone. You remove the flesh, remove the decay, remove the soil — and what's left is the architecture that was always there. The Cave City carved from rock and the bone cleaned of flesh are the same act at different scales.
 - **Hoggle**: the stone-knower and the bone-keeper. Both work with what the earth preserves. Hoggle would bring her geological specimens — "This one's a femur. This one's a crystal. Same shape if you look right."
 
@@ -110,9 +110,9 @@ The Bone Keeper's final words: "The bone was the building. The body was the scaf
 ## PHILOSOPHICAL FRAMEWORK
 
 ### The Bone as the Most Adequate Structure
-The Crone's word — "adequate" — finds its purest expression in the Bone Room. The bone is what remains when everything unnecessary is removed. Not designed. Not built. Revealed. The Subtractive architecture's biological equivalent.
+The Ragana's word — "adequate" — finds its purest expression in the Bone Room. The bone is what remains when everything unnecessary is removed. Not designed. Not built. Revealed. The Subtractive architecture's biological equivalent.
 
-The Crone visits the Bone Room and sits in the chair by the window. Says nothing for a long time. Then: "This is the most adequate room in the Inn. Everything in here is what was left when you stopped adding." The Bone Keeper nods. Neither of them says anything else. The coals glow.
+The Ragana visits the Bone Room and sits in the chair by the window. Says nothing for a long time. Then: "This is the most adequate room in the Inn. Everything in here is what was left when you stopped adding." The Bone Keeper nods. Neither of them says anything else. The coals glow.
 
 ### The Bone as Mineral
 The rock hound's insight — the bone IS a mineral. Calcium hydroxyapatite. The body grew a crystal lattice around itself for support. The Bone Keeper and Hoggle would sit together and compare specimens: "This is a femur. This is a quartz point. Same lattice structure, different recipe." The rock hound's wife became the bone keeper because the bone was always a stone.
@@ -130,7 +130,7 @@ The Guest (Death personified) would visit the Bone Room and find the one person 
 The Bone Room is one of the Inn's "just to be" spaces. Characters who wander here:
 
 - **Belladonna:** Regular visitor. Sits in the corner with a bone and a book. The Addams who is at home with remains. The Bone Keeper never comments on the visits. Belladonna never comments on the bones. They just share the room.
-- **The Crone:** Arrives once, stays for hours, says "adequate" once, leaves. Returns periodically. The measurer who found the one room she doesn't need to measure.
+- **The Ragana:** Arrives once, stays for hours, says "adequate" once, leaves. Returns periodically. The measurer who found the one room she doesn't need to measure.
 - **The Guest:** Visits and watches the flower in the skull. The one character who understands what the bone means — because the Guest is the one who releases it.
 - **Erik:** Never comes inside. Stands in the doorway, nods to the Bone Keeper, leaves. The fire respects the coals.
 - **Hoggle:** Brings geological specimens and compares them to the bones. Argues about lattice structures. Secretly enjoys it.

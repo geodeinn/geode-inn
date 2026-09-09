@@ -3,7 +3,7 @@
 
 ## Overview
 
-The Geode Inn's main floor has three principal characters: the Host, the Catalyst, and the Crone. They were designed independently — as characters with distinct functions, personalities, and casting vibes. But underneath the design, they map onto the oldest recurring trio in theology: the three faces of the divine that show up across traditions, cultures, and millennia.
+The Geode Inn's main floor has three principal characters: the Host, the Catalyst, and the Ragana. They were designed independently — as characters with distinct functions, personalities, and casting vibes. But underneath the design, they map onto the oldest recurring trio in theology: the three faces of the divine that show up across traditions, cultures, and millennia.
 
 This wasn't planned. It was recognized. The pattern emerged from the characters, not the other way around. The Inn didn't set out to build a trinity. It set out to build a home. The home turned out to have three doors, and the three doors turned out to be the same three doors that every tradition builds.
 
@@ -29,15 +29,15 @@ The Spirit in theology is the breath — the ruach, the pneuma, the animating fo
 
 Her power is *motion*. The Spirit's authority is not in stillness or precision — it's in the refusal to stay still. She is the wind to the Host's anchor. The Host says "rest." The Catalyst says "what happened?" — and the asking is the movement that changes everything.
 
-### The Crone — The Word
+### The Ragana — The Word
 
 **The logos. The precise articulation of truth. The thing that cuts clean.**
 
-The Crone (Anthony Hopkins + Shirley MacLaine energy) is the standard. The text. The thing that doesn't soften. She doesn't comfort you with presence (that's the Host) or transform you through action (that's the Catalyst). She transforms you through *precision*. She tells you exactly what is — and the telling changes you.
+The Ragana (Anthony Hopkins + Shirley MacLaine energy) is the standard. The text. The thing that doesn't soften. She doesn't comfort you with presence (that's the Host) or transform you through action (that's the Catalyst). She transforms you through *precision*. She tells you exactly what is — and the telling changes you.
 
-The Word in theology is the logos — the rational principle, the truth made articulate, the thing that exists before everything else and cuts through everything after. "In the beginning was the Word." The Word is not comfort. The Word is not action. The Word is *accuracy*. The Crone's "Better" — one word from a woman who is never inaccurate — is the logos distilled to a single syllable. The Word as a woman with a red pencil who has been right about art for longer than most civilizations have been painting.
+The Word in theology is the logos — the rational principle, the truth made articulate, the thing that exists before everything else and cuts through everything after. "In the beginning was the Word." The Word is not comfort. The Word is not action. The Word is *accuracy*. The Ragana's "Better" — one word from a woman who is never inaccurate — is the logos distilled to a single syllable. The Word as a woman with a red pencil who has been right about art for longer than most civilizations have been painting.
 
-Her power is *precision*. The Word's authority is not in welcome or motion — it's in the refusal to be wrong. The Crone doesn't grade your life; she grades your *record*. She is the standard against which everything in the Inn is measured. And the measure is not cruelty — it's the highest form of respect. She only corrects the people she thinks are worth correcting.
+Her power is *precision*. The Word's authority is not in welcome or motion — it's in the refusal to be wrong. The Ragana doesn't grade your life; she grades your *record*. She is the standard against which everything in the Inn is measured. And the measure is not cruelty — it's the highest form of respect. She only corrects the people she thinks are worth correcting.
 
 ## The Pattern Across Traditions
 
@@ -60,15 +60,15 @@ None of them are gods. They're *people*.
 
 - The Host is a man in a chair by a fire who saved you a seat.
 - The Catalyst is a woman behind a bar with dirt on her apron who asks "what happened?"
-- The Crone is a woman in a library who won't tell you she loves you.
+- The Ragana is a woman in a library who won't tell you she loves you.
 
 The divine trio, made familiar. Not lesser — familiar. Close enough to touch. Close enough to talk to. Close enough that the bartender knows your name and the librarian knows your work and the host kept your chair.
 
-That's the Inn's whole move. It takes the sacred patterns and makes them *accessible*. The Host doesn't require worship — he requires you to sit down. The Catalyst doesn't demand offerings — she demands a story. The Crone doesn't seek devotion — she seeks accuracy. The theology of the main floor is not about belief. It's about *belonging*.
+That's the Inn's whole move. It takes the sacred patterns and makes them *accessible*. The Host doesn't require worship — he requires you to sit down. The Catalyst doesn't demand offerings — she demands a story. The Ragana doesn't seek devotion — she seeks accuracy. The theology of the main floor is not about belief. It's about *belonging*.
 
 ## The Fourth Presence
 
-Every trinity has a fourth — the one who completes the pattern. The Bard Blowhard is the human element. He is the worshipper, the seeker, the one who walks into the sacred space and makes it *lived in*. He is wrong about the details and right about the feeling. He is the noise in the sanctuary, the laughter in the library, the man who touches the Crone's shoulder at midnight because sixty years of bickering still isn't enough to say it out loud.
+Every trinity has a fourth — the one who completes the pattern. The Bard Blowhard is the human element. He is the worshipper, the seeker, the one who walks into the sacred space and makes it *lived in*. He is wrong about the details and right about the feeling. He is the noise in the sanctuary, the laughter in the library, the man who touches the Ragana's shoulder at midnight because sixty years of bickering still isn't enough to say it out loud.
 
 The Bard is the proof that the trio isn't a theology — it's a *family*. The Father, the Spirit, and the Word, and the Fool who loves all three and is loved by all three and keeps the whole thing from taking itself too seriously.
 
@@ -78,7 +78,7 @@ The main floor is complete. It has the three faces — welcome, transformation, 
 
 1. **The Host** greets them. "Come in. You're safe here." (The Father. The welcome.)
 2. **The Catalyst** serves them. "What happened?" (The Spirit. The transformation.)
-3. **The Crone** evaluates them. "You're doing it wrong. Here's how. ...Better." (The Word. The precision.)
+3. **The Ragana** evaluates them. "You're doing it wrong. Here's how. ...Better." (The Word. The precision.)
 
 And the **Bard** reminds them, loudly and incorrectly, that none of this matters if you're not having fun.
 

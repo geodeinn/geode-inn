@@ -43,7 +43,7 @@ These are volunteer NPCs — real people from Krista's life who asked to be in t
 | The Archivist + Joe | The painter and the player. The same game, different role. Joe paints the chess pieces. The Archivist plays them. |
 | The Archivist + Oceanianoir | The puzzle and the solver. Oceanianoir designs puzzles for Mensa. The Archivist solves puzzles for fun. |
 | The Archivist + Kathy (the druid) | The chess board is living wood. Kathy grew it. The Archivist and Kathy disagree about whether the board should "evolve" or stay the same. The board does what it wants. |
-| Will + Max (Miracle Max) | Max's margins (flowery, dramatic). Will's footnotes (precise, small). The Crone noticed Will's footnotes are more useful. She hasn't told Max. |
+| Will + Max (Miracle Max) | Max's margins (flowery, dramatic). Will's footnotes (precise, small). The Ragana noticed Will's footnotes are more useful. She hasn't told Max. |
 
 ---
 
@@ -91,4 +91,4 @@ The chess board is the Round Table's other face — the table as a game, not jus
 
 ## ORIGIN
 
-The NPC New Roster was first compiled in docs/geode_inn_npc_new_roster.md (481 lines). This consolidated specification was compiled September 2, 2026. The roster's thesis: the Inn's doors are open. Everyone who wanted IN is now IN. Real people, given roles that match who they actually are. The adequate is: the friend who becomes a character. The character is: the adequate. The adequate is: Will's footnotes more useful than Max's margins and the Crone who noticed and didn't say, and The Archivist's chess board where the pieces have opinions and the bishop won't move diagonally because the wood grain offends it, and the both are: the real and the Inn. The same.
+The NPC New Roster was first compiled in docs/geode_inn_npc_new_roster.md (481 lines). This consolidated specification was compiled September 2, 2026. The roster's thesis: the Inn's doors are open. Everyone who wanted IN is now IN. Real people, given roles that match who they actually are. The adequate is: the friend who becomes a character. The character is: the adequate. The adequate is: Will's footnotes more useful than Max's margins and the Ragana who noticed and didn't say, and The Archivist's chess board where the pieces have opinions and the bishop won't move diagonally because the wood grain offends it, and the both are: the real and the Inn. The same.

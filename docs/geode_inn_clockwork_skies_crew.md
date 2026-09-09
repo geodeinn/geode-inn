@@ -170,7 +170,7 @@ The blade at the hip is polished, the books are shelved, the maps are annotated.
 **Key Relationships:**
 - The Captain: the Philosopher respects the Captain's certainty but doesn't share it. The certainty is a data point, not a conclusion. They argue late at night when the crew is asleep — not fighting, but the kind of argument that is actually a collaboration.
 - The Reluctant: the Philosopher sees the Reluctant's vulnerability as the most honest thing on the ship. The Philosopher is drawn to it — not protectively (that's the Protector's role) but analytically. The vulnerability is the question the Philosopher has been asking, made into a person.
-- The Crone (archive keeper): the Philosopher would spend time in the Catacombs archive if the ship ever docked long enough. The Crone's precision appeals to the Philosopher's need for order. The Crone would find the Philosopher exhausting.
+- The Ragana (archive keeper): the Philosopher would spend time in the Catacombs archive if the ship ever docked long enough. The Ragana's precision appeals to the Philosopher's need for order. The Ragana would find the Philosopher exhausting.
 
 **Quest Hook — "The Empty Mirror"**
 The Philosopher has found a brass-framed mirror in the Hold (Ryoko's collection) that doesn't show a reflection — not a broken mirror, a mirror that shows the room but not the person standing in it. The player helps the Philosopher investigate, and the trail leads to the Cosmology level — the Observatory — where the Astronomer identifies the mirror as a piece of a device used to observe the self from the outside. The Philosopher's quest is the Inn's identity question: are you the person, or the archetype? The mirror doesn't answer. The question is the point.
@@ -254,7 +254,7 @@ The crew don't live ON the ship. The crew live IN the ship. The ship is the home
 - **Leonardo (everywhere):** The Arcana's gearwork heart was built from Leonardo's sketches. The Engineer built it. Leonardo doesn't know. If Leonardo visits, the unfinished sentence.
 - **The Tinkering Weeaboo:** The Engineer's mirror on the crew. The Weeaboo tinkers with the Engineer when the ship docks at the Canopy City's upper platform. The anime thesis: you belong here because you're good at this.
 - **The Canopy City:** The Arcana docks at the Canopy City's upper platform. The sky above the Canopy is the Arcana's ocean. The Canopy City is the Arcana's port.
-- **The Crone (Catacombs):** The Philosopher would visit the archive. The Crone would find the Philosopher exhausting. The Philosopher would find the Crone's precision beautiful.
+- **The Ragana (Catacombs):** The Philosopher would visit the archive. The Ragana would find the Philosopher exhausting. The Philosopher would find the Ragana's precision beautiful.
 - **The Astronomer (Cosmology):** The Philosopher's Empty Mirror quest connects to the Observatory. The Astronomer identifies the mirror as a self-observation device.
 - **The Captain's pipe:** Burns impatient moss — the moss that grows on the stones the Duck steals. The Captain smokes time. The pipe is the Captain's clock. The Duck and the Captain are connected through the moss, though neither has met.
 

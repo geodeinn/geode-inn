@@ -347,7 +347,7 @@ The portal potion is craftable — the Tinkering Weeaboo class can craft portal 
 - **The Bard Blowhard (Dwarf) class** — the dwarf basketball encounter is the Bard's home turf
 - **The Artisan Thief class** — the pixie catching and chicken catching encounters favor high dexterity
 - **The Tinkering Weeaboo class** — the portal arrow crafting is the Tinker's unique ability
-- **The Librarian Crone class** — the limerick challenges and the MIB dialogue favor high intelligence
+- **The Librarian Ragana class** — the limerick challenges and the MIB dialogue favor high intelligence
 - **The Mini MIB** — the catacomb pursuit / memory erasure mechanic, woven into three encounters
 - **The Portal Arrow mechanic** — reusable across the Inn for boss fights, escapes, and quest triggers
 - **The Fae Kingdom** — the Elf Hot Tub encounter is Seelie Court territory

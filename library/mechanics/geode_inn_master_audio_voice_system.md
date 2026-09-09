@@ -113,7 +113,7 @@ Accents are not assigned TO characters. Accents ARE the characters. The NPCs com
 | NPC | Actor/Cadence Reference | Accent | Zone | Key Tell |
 |-----|------------------------|--------|------|----------|
 | The Allfather | James Earl Jones | American (deep) | Cosmology | Silence is part of the delivery, declarations not sentences |
-| The Crone | Anthony Hopkins | Welsh | Cosmology/Undercity | Commands with single words, eyes that don't blink |
+| The Ragana | Anthony Hopkins | Welsh | Cosmology/Undercity | Commands with single words, eyes that don't blink |
 | The Constant | John Malkovich | American | The Void | Flat affect, every statement lands like it was already true |
 | Eres | Cabbie brevity | Mediterranean | Cosmology | Three words or fewer, economical warmth |
 | Zack | Astronomer | American | Cosmology | Speaks in coordinates and wonder, dreamy precision |

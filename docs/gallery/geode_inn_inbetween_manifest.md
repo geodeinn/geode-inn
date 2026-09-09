@@ -10,7 +10,7 @@ The In-Between state is the transitional frequency — half-living (42Hz) and ha
 
 | # | Character | Zone | URL |
 |---|-----------|------|-----|
-| 1 | The Crone | Main Floor | https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/13cfa6636_generated_image.png |
+| 1 | The Ragana | Main Floor | https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/13cfa6636_generated_image.png |
 | 2 | Charon | Catacombs | https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/a6fec9dd0_generated_image.png |
 | 3 | Medusa | Gorgon's Garden | https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/20dc6a974_generated_image.png |
 | 4 | The Morrigan | Catacombs/Fae Kingdom | https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/23fa92b6b_generated_image.png |
@@ -112,7 +112,7 @@ The In-Between state is the transitional frequency — half-living (42Hz) and ha
 | 86 | Monsieur Sentient Pipe | Main Floor | https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/12d65936b_generated_image.png |
 | 87 | The Book of No Author | Final Room | https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/f1e53f287_generated_image.png |
 | 88 | The Sistrum of Bastet | Desert Bone Egypt | https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/df7cab8af_generated_image.png |
-| 89 | The Crone's Mirror | Main Floor | https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/3c02edc8a_generated_image.png |
+| 89 | The Ragana's Mirror | Main Floor | https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/3c02edc8a_generated_image.png |
 | 90 | The World Map | Main Floor | https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/02a52dd9b_generated_image.png |
 | 91 | The Alchemist's Key | Staircase | https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/2bf25eae8_generated_image.png |
 | 92 | The Stone Circle Activator | Fae Kingdom | https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/5c203c2f5_generated_image.png |

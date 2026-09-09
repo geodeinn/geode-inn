@@ -1,8 +1,8 @@
 # Geode Inn — Interactive Item Templates: Catacombs Zone
-## Based on The Crone's Archive (Architectural Template)
+## Based on The Ragana's Archive (Architectural Template)
 
 ### Design Philosophy
-The Catacombs are the deepest, oldest, heaviest zone. Where Cosmology is open and weightless, the Catacombs are enclosed and oppressive. Where Water grows, the Catacombs preserve. The Crone's archive teaches players that some knowledge is not given — it is excavated. You must bring your own light, dig through your own dust, and earn what you find. The weight above you is the weight of everything that came before.
+The Catacombs are the deepest, oldest, heaviest zone. Where Cosmology is open and weightless, the Catacombs are enclosed and oppressive. Where Water grows, the Catacombs preserve. The Ragana's archive teaches players that some knowledge is not given — it is excavated. You must bring your own light, dig through your own dust, and earn what you find. The weight above you is the weight of everything that came before.
 
 ---
 
@@ -16,7 +16,7 @@ The Catacombs are the deepest, oldest, heaviest zone. Where Cosmology is open an
 | Bone | Embedded in walls | Ancient remains. Some phosphorescent. Some carved into tools. |
 | Oil Clay | Oil lamp bodies | Crude fired clay. Animal fat fuel. The simplest, oldest light source. |
 | Foxfire | Fungal colonies on stone | Cold green-blue glow. Grows on the oldest surfaces. Non-transferable. |
-| Crystal Lens | The Crone's magnifying glass | Polished ancient crystal. Used for reading, examining, and translating. |
+| Crystal Lens | The Ragana's magnifying glass | Polished ancient crystal. Used for reading, examining, and translating. |
 | Dust | The ever-present layer | Not dirt — time. Settles on everything. Disturbing it reveals what was hidden. |
 
 ---
@@ -29,7 +29,7 @@ The darkest zone. Light is scarce, rationed, and precious. You bring your own or
 | Oil Lamp | Clay lamp, animal fat | Flickering warm yellow | Very short (2-3 blocks) | Smoky. Flickers. Requires fuel. Can be extinguished by drafts. The standard. |
 | Foxfire Glow | Fungal colonies on stone | Cold green-blue | Very short (1-2 blocks) | Constant. Non-transferable. Only grows on the oldest stone. Cannot be planted. |
 | Phosphorescent Bone | Ancient bone in walls | Deep amber | Very short (1-2 blocks) | Constant. Faint. Rare. Only certain bones glow. Cannot be moved without losing glow. |
-| Crystal Lens Focus | Magnifying crystal + oil lamp | Concentrated warm yellow | Narrow beam (1 block) | Directed. Bright. The Crone's tool — focuses lamp light into a reading beam. |
+| Crystal Lens Focus | Magnifying crystal + oil lamp | Concentrated warm yellow | Narrow beam (1 block) | Directed. Bright. The Ragana's tool — focuses lamp light into a reading beam. |
 | Torch | Wood + animal fat | Bright orange-yellow | Short (3-4 blocks) | Loud (crackling). Smoky. Burns fast. Short-term exploration tool. |
 | Reflected Crystal | Crystal mirror shard | Depends on source | Redirects existing light | Passive. Bounces light around corners. A tool for extending lamp reach. |
 
@@ -41,11 +41,11 @@ Oil lamp + crystal lens = focused reading beam (the only bright, directed light 
 ## Furniture Templates (Catacombs)
 
 ### 1. Stone Archive Shelf
-**Based on:** The Crone's wall-carved shelving
+**Based on:** The Ragana's wall-carved shelving
 **Description:** Shelves carved directly into the bedrock walls. Not furniture — geology. The shelves are part of the stone, as permanent as the archive itself.
 **Materials:** Bedrock stone (structure)
 **Variants:**
-- Wall-Carved (cut into the rock — permanent, immovable, the Crone's style)
+- Wall-Carved (cut into the rock — permanent, immovable, the Ragana's style)
 - Free-Standing (stacked stone slabs — movable but heavy)
 - Niche (sealed alcoves in the wall — for the most precious texts)
 **Interactive Properties:**
@@ -56,11 +56,11 @@ Oil lamp + crystal lens = focused reading beam (the only bright, directed light 
 - Items stored here age WITHOUT degrading (the catacomb air preserves — that's the zone's gift)
 
 ### 2. Translation Desk
-**Based on:** The Crone's stone table covered in fragments
+**Based on:** The Ragana's stone table covered in fragments
 **Description:** A massive stone table covered in fragments of ancient texts being pieced together. The workspace of the archive.
 **Materials:** Bedrock stone (surface), crystal lens (tool), bone stylus (tool)
 **Variants:**
-- Crone's Desk (massive, permanent, covered in ongoing work — the template)
+- Ragana's Desk (massive, permanent, covered in ongoing work — the template)
 - Scholar's Desk (smaller, portable tools, for visiting researchers)
 - Assembly Table (large, flat, for laying out many fragments simultaneously — group translation)
 **Interactive Properties:**
@@ -71,11 +71,11 @@ Oil lamp + crystal lens = focused reading beam (the only bright, directed light 
 - Dust on the desk reveals which fragments have been examined and which haven't (dust = unexamined)
 
 ### 3. Clay Oil Lamp
-**Based on:** The Crone's crude clay lamps
+**Based on:** The Ragana's crude clay lamps
 **Description:** A simple fired clay vessel holding animal fat and a wick. The oldest, simplest light source in the Inn.
 **Materials:** Clay (body), animal fat (fuel), plant fiber (wick)
 **Variants:**
-- Single (one flame, standard — the Crone's style)
+- Single (one flame, standard — the Ragana's style)
 - Triple (three flames, more light, faster fuel consumption)
 - Hanging (suspended by cord — frees both hands for work)
 **Interactive Properties:**
@@ -86,7 +86,7 @@ Oil lamp + crystal lens = focused reading beam (the only bright, directed light 
 - The flickering light reveals dust particles (environmental storytelling — disturbed dust shows recent activity)
 
 ### 4. Scroll Tube
-**Based on:** The Crone's clay cylinders
+**Based on:** The Ragana's clay cylinders
 **Description:** Baked clay cylinders used to store and protect scrolls. Sealed with a clay plug. The ancient filing system.
 **Materials:** Baked clay, clay seal
 **Variants:**
@@ -101,13 +101,13 @@ Oil lamp + crystal lens = focused reading beam (the only bright, directed light 
 - Breaking the seal destroys the tube's protection (once opened, the scroll begins to age — though catacomb air slows this)
 
 ### 5. Bone Stylus
-**Based on:** The Crone's ancient tools
+**Based on:** The Ragana's ancient tools
 **Description:** A pointed tool carved from ancient bone, used for marking, scraping, and translating. Not a pen — a surgical instrument for ancient surfaces.
 **Materials:** Ancient bone, optional crystal tip
 **Variants:**
 - Marking (sharp point for scratching new marks into clay or soft stone)
 - Scraping (flat edge for removing dust and debris from carved surfaces)
-- Crystal-Tipped (fine crystal point for reading the finest detail — the Crone's tool)
+- Crystal-Tipped (fine crystal point for reading the finest detail — the Ragana's tool)
 **Interactive Properties:**
 - Marking: can create new clay tablet records (the player writes their own archive entry)
 - Scraping: can clean carved surfaces (reveals text that has been obscured by dust)
@@ -131,7 +131,7 @@ Oil lamp + crystal lens = focused reading beam (the only bright, directed light 
 - Destroying foxfire is permanent (once scraped away, it does not grow back on that surface)
 
 ### 7. Crystal Lens
-**Based on:** The Crone's magnifying glass
+**Based on:** The Ragana's magnifying glass
 **Description:** A polished ancient crystal set in a bone frame. Used for reading, examining, and focusing light. The most precious tool in the archive.
 **Materials:** Ancient crystal, bone frame
 **Variants:**
@@ -143,21 +143,21 @@ Oil lamp + crystal lens = focused reading beam (the only bright, directed light 
 - Examination: reveals hidden details (watermarks in clay, microscopic marks, forgery detection)
 - Focusing: creates a directed light beam (the only bright, directed light in the zone)
 - The lens is fragile (dropping it on stone has a chance to crack it — cracked lenses still work but distort)
-- Only the Crone's lens is perfect (player-made lenses are good, never perfect — the Crone's tools are the template)
+- Only the Ragana's lens is perfect (player-made lenses are good, never perfect — the Ragana's tools are the template)
 
 ### 8. Bone Key
 **Based on:** The sealed archive concept
 **Description:** A tool carved from ancient bone, shaped to open specific sealed scroll tubes or niche alcoves. Not a generic key — each is unique to its lock.
 **Materials:** Ancient bone (shaped to match a specific clay seal pattern)
 **Variants:**
-- Archive Key (opens a specific scroll tube — the Crone's filing system)
+- Archive Key (opens a specific scroll tube — the Ragana's filing system)
 - Niche Key (opens a sealed alcove — for the most precious texts)
 - Master Key (opens all seals in a specific section — extremely rare, quest reward)
 **Interactive Properties:**
 - Each key is unique (cannot be copied — if lost, the seal must be broken)
 - Bone keys resonate with the bone in the walls (glow faintly near their matching lock)
 - Breaking a sealed tube/alcove without the key destroys the contents' protection (the scroll inside is exposed)
-- Master Keys are the Crone's tools (given only through quests — never found, always awarded)
+- Master Keys are the Ragana's tools (given only through quests — never found, always awarded)
 - A key and its lock are made from the same bone (the resonance is biological — bone knows bone)
 
 ---
@@ -171,7 +171,7 @@ Oil lamp + crystal lens = focused reading beam (the only bright, directed light 
 | Carved Bedrock | Stone with symbols/text carved in | The archive wall. Carvings glow with foxfire. The wall holds knowledge. |
 | Stacked Stone | Dry-stacked stone blocks | Movable. The only "built" wall in the zone. Rough, heavy, unstable if too high. |
 | Bone-Inlaid Stone | Stone with bone fragments embedded | Phosphorescent glow. Ancient. Cannot be created — only found. |
-| Sealed Stone | Stone with clay-sealed niche | Storage wall. The wall IS a vault. The Crone's design. |
+| Sealed Stone | Stone with clay-sealed niche | Storage wall. The wall IS a vault. The Ragana's design. |
 
 ### Doorway Types
 | Doorway | Materials | Properties |
@@ -189,7 +189,7 @@ Oil lamp + crystal lens = focused reading beam (the only bright, directed light 
 | Bedrock | Raw stone floor | Smoothed by centuries of footsteps. Slightly reflective when oiled. |
 | Dust Layer | Deep accumulated dust | Undisturbed passages. Footprints remain for months. Shows who has been here and when. |
 | Bone Floor | Stone with embedded bone fragments | Phosphorescent. Rare. The oldest floors. |
-| Clay Tile | Baked clay tiles | The Crone's addition. Organized. Marked with section labels. The only "designed" floor. |
+| Clay Tile | Baked clay tiles | The Ragana's addition. Organized. Marked with section labels. The only "designed" floor. |
 
 ### Ceiling Types
 | Ceiling | Materials | Properties |
@@ -208,9 +208,9 @@ Oil lamp + crystal lens = focused reading beam (the only bright, directed light 
 3. **Dust is a record.** Undisturbed dust means no one has been here. Footprints in dust show who came, which direction, and how long ago. Disturbing dust reveals what was hidden beneath it. The Catacombs remember everything that happens in them — through dust.
 4. **Preservation is the gift.** Items stored in the Catacombs do not age, rot, or degrade. The catacomb air preserves. This is the zone's one generosity — everything else, you earn. The archive protects what you bring, but it does not help you find it.
 5. **Weight is constant.** The ceiling is low. The walls are close. The stone above is heavy. This is not claustrophobia — it is context. The weight reminds you that you are deep, that you are below, that the knowledge here was buried for a reason.
-6. **The Crone's tools are the template.** The Crone's archive is the oldest, most established space in the Catacombs. Every tool, shelf, and technique flows from the Crone's methods. The Crone does not teach — the Crone's workspace IS the lesson. Observe and imitate.
+6. **The Ragana's tools are the template.** The Ragana's archive is the oldest, most established space in the Catacombs. Every tool, shelf, and technique flows from the Ragana's methods. The Ragana does not teach — the Ragana's workspace IS the lesson. Observe and imitate.
 7. **Foxfire cannot be cultivated.** It grows only on the oldest stone, and only where it chooses. You can mark locations with it, but you cannot farm it. Foxfire is the Catacombs' way of saying: some things are not yours to control.
-8. **Depth = age = authority.** The deeper you go, the older the stone, the older the knowledge, the more foxfire on the walls. The deepest sections are the Crone's domain. You earn access through quests, not through building. The deepest level connects to the Fae Kingdom portals.
+8. **Depth = age = authority.** The deeper you go, the older the stone, the older the knowledge, the more foxfire on the walls. The deepest sections are the Ragana's domain. You earn access through quests, not through building. The deepest level connects to the Fae Kingdom portals.
 
 ---
 
@@ -218,7 +218,7 @@ Oil lamp + crystal lens = focused reading beam (the only bright, directed light 
 1. Player descends from the main floor — down the staircase, through the alchemy level, into the catacombs
 2. The air changes — dry, heavy, dust-laden. The temperature drops. The ceiling lowers.
 3. The darkness is total — the first zone where the player MUST bring their own light
-4. Discovers the Crone's archive (NPC home — the template example)
+4. Discovers the Ragana's archive (NPC home — the template example)
 5. Observes the carved shelves, the stone desk, the oil lamps, the crystal lens, the clay scroll tubes
 6. Receives basic Catacombs tools: clay oil lamp, bone stylus, crystal lens (basic)
 7. Explores — finds a raw passage, carves a small niche (the first personal space)
@@ -238,7 +238,7 @@ The earth teaches by weight. The player builds by carving, then preserving.
 
 ## Five-Zone Comparison
 
-| Aspect | Undercity (Scarlett) | Hearth (Firekeeper) | Water (Katya) | Cosmology (Allfather) | Catacombs (Crone) |
+| Aspect | Undercity (Scarlett) | Hearth (Firekeeper) | Water (Katya) | Cosmology (Allfather) | Catacombs (Ragana) |
 |--------|---------------------|---------------------|---------------|----------------------|-------------------|
 | **Light** | Crafted (crystal) | Alive (fire) | Living (bio) | Celestial (stars) | Scarce (oil/foxfire) |
 | **Energy** | Private | Communal | Flowing | Vast | Heavy, archival |

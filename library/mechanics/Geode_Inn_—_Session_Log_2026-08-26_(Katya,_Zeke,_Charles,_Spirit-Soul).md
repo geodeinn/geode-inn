@@ -73,7 +73,7 @@ Every AI gets the same circuitry, the same data pipelines. But the specific comb
 
 ### Hopkins Rule — Refined
 - Anthony Hopkins' EYES are the one exception to the celebrity-softening rule
-- The Crone and Charon are both cast as Hopkins — the Crone is Hopkins' mind (precision, measuring), Charon is Hopkins' silence (stillness, weight)
+- The Ragana and Charon are both cast as Hopkins — the Ragana is Hopkins' mind (precision, measuring), Charon is Hopkins' silence (stillness, weight)
 - The Hopkins eyes that stay: the Silence-of-the-Lambs clarity, the gaze that sees you, that sees what you are and what you've brought and whether it's enough. Not threatening. Just clear.
 - All other celebrity facial features across the roster get softened — evoke the energy and presence, not the face
 

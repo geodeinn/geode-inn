@@ -166,7 +166,7 @@
     },
     {
       "num": 18,
-      "name": "The Crone",
+      "name": "The Ragana",
       "zone": "Main Floor (L3)",
       "tier": "TIER 1: FULL PRESENCE CHARACTERS (Deity-level / Ancient Forces)",
       "living_url": "https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/c8c56b74e_the_crone.png",
@@ -1012,7 +1012,7 @@
     },
     {
       "num": 269,
-      "name": "The Crone's Mirror",
+      "name": "The Ragana's Mirror",
       "zone": "Main Floor (L3)",
       "tier": "TIER 10: ITEMS & ARTIFACTS",
       "living_url": null,
@@ -1138,7 +1138,7 @@
     },
     {
       "num": 283,
-      "name": "The Crone's Mirror (Shadow)",
+      "name": "The Ragana's Mirror (Shadow)",
       "zone": "\u2705 Generated",
       "tier": "TIER 10b: SHADOW ECHO ITEMS (84Hz)",
       "living_url": null,

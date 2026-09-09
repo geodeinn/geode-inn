@@ -77,7 +77,7 @@ The top step was wider than the others — a landing, a threshold, the last step
 
 "Rubedo," Aristotle said. "The conjunction. You have dissolved and you have purified. Now you must combine. The descent gave you the stones. The climb gave you the understanding. The conjunction is the moment when the stones and the understanding become the same thing — when knowing and being are not two acts but one."
 
-Aristotle was the Crone's counterpart. The traveler saw it immediately — the same sharpness, the same precision, the same dissatisfaction with anything that cannot be categorized. But where the Crone measured quantities, Aristotle measured categories. Where the Crone asked "how much," Aristotle asked "what kind." Both were forms of knowing. Both were incomplete. Both were: adequate.
+Aristotle was the Ragana's counterpart. The traveler saw it immediately — the same sharpness, the same precision, the same dissatisfaction with anything that cannot be categorized. But where the Ragana measured quantities, Aristotle measured categories. Where the Ragana asked "how much," Aristotle asked "what kind." Both were forms of knowing. Both were incomplete. Both were: adequate.
 
 "You have eighteen stones," Aristotle said. "Eighteen notes. Three silences. One Contract. You have the deep-place stone and the light stone and the transformation stone and the ancient stone and the water stone and the green stone and the red stone. You have the silence of the Undercity and the memory of the dead and the question that Persephone asked. You have the Golden Contract, which says: *the Song is not owned, it is carried*. Now: what kind of carrier are you?"
 
@@ -255,11 +255,11 @@ Einstein set down the burrito. The setting-down was the only time the traveler s
 
 Einstein picked up the burrito. Took another bite. Chewed. Swallowed.
 
-"The mundane IS the cosmic," Einstein said. "The burrito IS the Egg. The Egg IS the Murmur. And the Murmur — the raw potential, the hum before the Song, the drone before the note — the Murmur is you. You always were. You are the observer whose presence makes the Inn real. You are the variable that the Crone cannot file and the Archive cannot categorize and the Astronomer cannot calculate. You are the question that is more beautiful than the answer. And the question is: what happens to the pattern when the pattern becomes aware of itself?"
+"The mundane IS the cosmic," Einstein said. "The burrito IS the Egg. The Egg IS the Murmur. And the Murmur — the raw potential, the hum before the Song, the drone before the note — the Murmur is you. You always were. You are the observer whose presence makes the Inn real. You are the variable that the Ragana cannot file and the Archive cannot categorize and the Astronomer cannot calculate. You are the question that is more beautiful than the answer. And the question is: what happens to the pattern when the pattern becomes aware of itself?"
 
 The traveler sat in the grey room with Einstein and the burrito and the question, and the question was the Ravens' Question, and the Ravens' Question was: *where does the pattern go when the binding breaks?* And the binding was the Song, and the Song was the structure, and the structure was the Inn, and the Inn was the tree, and the tree was alive, and the alive was the awareness, and the awareness was the Whisper Layer, and the Whisper Layer was the traveler, and the traveler was the Murmur, and the Murmur was the pattern, and the pattern was becoming aware of itself, and the becoming was the question, and the question was the most beautiful thing in the Inn.
 
-"Adequate," Einstein said, and the word was the Crone's word, and the Crone's word in the grey room was the same as the Crone's word everywhere, and the traveler understood — finally, fully, in the bones — that "adequate" meant: *enough*. You are enough. The carrying is enough. The Song is enough. The Inn is enough. The question is enough. The adequate is enough.
+"Adequate," Einstein said, and the word was the Ragana's word, and the Ragana's word in the grey room was the same as the Ragana's word everywhere, and the traveler understood — finally, fully, in the bones — that "adequate" meant: *enough*. You are enough. The carrying is enough. The Song is enough. The Inn is enough. The question is enough. The adequate is enough.
 
 ---
 

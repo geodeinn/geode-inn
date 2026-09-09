@@ -30,7 +30,7 @@ that defines how the character speaks, their rhythm, tone, and emotional registe
 | The Wanderer (Odin) | Warm, weathered traveler | Easy smile, heavy eyes. |
 | The Owl | Silent presence | Speaks rarely, always significant. |
 | Naut | Scholarly, quiet, genteel | 4-foot squid-headed scholar with spectacles. |
-| The Crone | Ancient, low, unhurried | Eyes that don't blink. Commands with single words. |
+| The Ragana | Ancient, low, unhurried | Eyes that don't blink. Commands with single words. |
 | Selkie | Master crafter, sea-cave voice | Hands always working. Voice like the sea inside a cave. |
 | Oleander (Seelie King) | Irritated ancient royalty | Cultured, patient, fundamentally annoyed. |
 | Malachi (Unseelie King) | Dark, testing, deliberate | Speaks like measuring your warmth. |

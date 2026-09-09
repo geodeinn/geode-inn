@@ -19,7 +19,7 @@ The interruption annoyance scales:
 
 **Always analyzing and recording.** Newton's notebook is never closed. He writes constantly — not frantically, not obsessively, but with the steady rhythm of a man who believes that any observation not recorded is an observation wasted. He writes during conversations. He writes while others are speaking. He writes while Tesla's experiments are causing chaos. The sound of his pen is the metronome of the Council — while Newton is writing, the Inn is still functioning.
 
-He records everything: frequencies, movements, temperatures, the exact time each workbench incident occurs (he has a log — Tesla doesn't know about it). He has cataloged the entire Inn's stone collection by hardness, color, resonance, and what he calls "composure" — a personal measurement he invented that he has never explained to anyone. His notebook, if the Crone ever got hold of it, would contain the most complete scientific description of the Song of Making ever written. Newton doesn't know this. He just writes what he observes.
+He records everything: frequencies, movements, temperatures, the exact time each workbench incident occurs (he has a log — Tesla doesn't know about it). He has cataloged the entire Inn's stone collection by hardness, color, resonance, and what he calls "composure" — a personal measurement he invented that he has never explained to anyone. His notebook, if the Ragana ever got hold of it, would contain the most complete scientific description of the Song of Making ever written. Newton doesn't know this. He just writes what he observes.
 
 **A tad condescending.** Not cruel. Not dismissive. Just the natural gravity of a man who has been the smartest person in every room for 300 years and has stopped pretending this isn't the case. His condescension is structural — it's in the pacing of his sentences, the way he defines terms you already know, the slight pause before he responds that says "I am giving you a moment to reconsider whether you really want to ask that."
 
@@ -71,7 +71,7 @@ When Newton finally does move — when he walks to the window, when he closes hi
 
 Newton's notebook is his most important possession — more than the compass, more than the orrery, more than the apple. It is a dense, meticulous record of every observation he has made in the Inn. Pages of measurements, frequency logs, astronomical calculations, and — in the margins, in smaller, tighter handwriting — questions. Questions he doesn't ask out loud. Questions that aren't ready to be equations yet.
 
-The notebook is always within arm's reach. He sleeps with it. (Does Newton sleep? The others aren't sure. His alcove light is always on. His pen is always moving.) He has never let anyone read it. The Crone has tried. Newton told her: *"When my observations are complete, they will be published. Until then, they are drafts. You do not read a man's drafts."* The Crone said that was the most human thing he'd ever said. Newton wrote that down.
+The notebook is always within arm's reach. He sleeps with it. (Does Newton sleep? The others aren't sure. His alcove light is always on. His pen is always moving.) He has never let anyone read it. The Ragana has tried. Newton told her: *"When my observations are complete, they will be published. Until then, they are drafts. You do not read a man's drafts."* The Ragana said that was the most human thing he'd ever said. Newton wrote that down.
 
 ### Newton's Alcove
 

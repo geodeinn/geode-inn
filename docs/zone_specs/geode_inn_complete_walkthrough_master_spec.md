@@ -47,7 +47,7 @@ Three toggleable modalities: Audio, Haptic, Visual. Minimal Mode strips all to s
 | Artisan Thief (Krista) | Precision/crafting | Selkie — dive ability (unique underwater access), redistribution (theft = justice), jeweler's apron IS selkie skin |
 | Bard Blowhard (Dwarf) | Debuff/chaos | Enrage enemies to make them dangerous but stupid |
 | Tinkering Weeaboo | Puzzle/caster | Hyperfocused — godlike in affinity zone, mediocre elsewhere |
-| Librarian Crone | Archive/intelligence | Reads every text, highest intelligence, contextually moral |
+| Librarian Ragana | Archive/intelligence | Reads every text, highest intelligence, contextually moral |
 | Chameleon Druid (Charles) | Versatility | Adapts to any biome. Low endurance — glioblastoma mirror |
 | The Sentinel (Lozen) | Tank/defense | Iron Stance, faceted defense, answers the Owl's riddles |
 
@@ -61,7 +61,7 @@ Three toggleable modalities: Audio, Haptic, Visual. Minimal Mode strips all to s
 | 8 | Clockwork Skies | Captain, Arcana, gearwork, 50 BPM gear heart |
 | 7 | Canopy City | Tree-platform hub, 9 cultural platform zones, vendors |
 | 6 | Staircase | Alchemical transition, Socrates/Plato/Aristotle, Da Vinci/Mona |
-| 5 | Main Floor | Market, music, library, Host, Crone, Catalyst, arcade |
+| 5 | Main Floor | Market, music, library, Host, Ragana, Catalyst, arcade |
 | 4 | Campgrounds | Exterior, loch, lighthouse, pirate, dock |
 | 3 | Catacombs | Underground river, Charon, Morrigan, Anubis, Undercity |
 | 2 | Bedrock Fortress | Stone Guard, defense layer |

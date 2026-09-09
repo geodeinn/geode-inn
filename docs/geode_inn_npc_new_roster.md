@@ -25,7 +25,7 @@ This document adds all remaining NPCs and creatures to the Geode Inn. Every frie
 
 **Accent:** Neutral American. The kind of neutral that comes from having lived everywhere and nowhere specific. The accent of someone who learned to be understood by everyone rather than belonging to one place.
 
-**Role in the Inn:** Will runs the staircase lab's night shift. While Max runs the shop by day (theatrical, selling, performing), Will runs the research by night (methodical, documenting, repeating). The staircase's alchemical texts have annotations in two handwritings — Max's (flowery, dramatic, in the margins) and Will's (precise, small, in the footnotes). The Crone has noticed that Will's footnotes are more useful than Max's margins. She has not told Max.
+**Role in the Inn:** Will runs the staircase lab's night shift. While Max runs the shop by day (theatrical, selling, performing), Will runs the research by night (methodical, documenting, repeating). The staircase's alchemical texts have annotations in two handwritings — Max's (flowery, dramatic, in the margins) and Will's (precise, small, in the footnotes). The Ragana has noticed that Will's footnotes are more useful than Max's margins. She has not told Max.
 
 **Connection to Oceanianoir:** The living chemical equation and the person who balances it. The both are: the adequate — the volatile and the stable, the same reaction, different role. Will doesn't have Oceanianoir's tattoos or performance energy. Will has patience. In alchemy, patience is a reagent.
 
@@ -113,7 +113,7 @@ The studio contains:
 
 **The talking:** Stephanie doesn't have a human form. She is a cat. She talks. That's it. The talking is not explained, not justified, not given a magical origin. Stephanie is a cat who talks because Stephanie is a cat who talks. The Inn accepts this. Everyone accepts this. If you ask why, Stephanie looks at you with those green eyes and says: "Why are you the way you are? ...Exactly. Moving on."
 
-**Personality:** Stephanie is Lozen's girl Friday — competent, efficient, the person who makes things work while Lozen is doing the dramatic sentinel stuff. Stephanie handles the logistics. Stephanie handles the schedule. Stephanie handles the things Lozen forgets because Lozen is busy guarding the Inn. In cat form, this translates to: Stephanie is the cat who knows where everything is. The cat who sits on the exact shelf the Crone needs. The cat who appears in the exact room where something is about to go wrong, five minutes before it goes wrong, with an expression that says "I told you so" even though she didn't say anything.
+**Personality:** Stephanie is Lozen's girl Friday — competent, efficient, the person who makes things work while Lozen is doing the dramatic sentinel stuff. Stephanie handles the logistics. Stephanie handles the schedule. Stephanie handles the things Lozen forgets because Lozen is busy guarding the Inn. In cat form, this translates to: Stephanie is the cat who knows where everything is. The cat who sits on the exact shelf the Ragana needs. The cat who appears in the exact room where something is about to go wrong, five minutes before it goes wrong, with an expression that says "I told you so" even though she didn't say anything.
 
 **Accent:** American. The cadence of someone who has been managing other people's chaos for years and has developed a tone that is simultaneously patient and threatening. The voice of a cat who has seen everything and is mildly disappointed in most of it.
 
@@ -185,7 +185,7 @@ The studio contains:
 
 **TJ:** The older kid. Brave, curious, the one who goes further into the woods than they should. The wolf follows TJ on these expeditions — not because Jay asked it to, but because the wolf decided TJ needed watching. TJ has found three secret clearings that no one else knows about. TJ has not told anyone about the third one. The third one has something in it. TJ is trying to figure out what.
 
-**Gabby:** The younger kid. Quiet, observant, the one who notices things. Gabby draws — scratches pictures in the dirt outside the tavern, on napkins, on Jay's map wall (Wisteria pretends to be annoyed; Jay secretly adds a frame around the best ones). Gabby's drawings sometimes show things that haven't happened yet. The Crone has a collection of Gabby's drawings in her study. She compares them to events. The correlation is uncomfortable.
+**Gabby:** The younger kid. Quiet, observant, the one who notices things. Gabby draws — scratches pictures in the dirt outside the tavern, on napkins, on Jay's map wall (Wisteria pretends to be annoyed; Jay secretly adds a frame around the best ones). Gabby's drawings sometimes show things that haven't happened yet. The Ragana has a collection of Gabby's drawings in her study. She compares them to events. The correlation is uncomfortable.
 
 **Both:** Presence characters, like Aurallia's kids. They're not major NPCs — they're the Inn's next generation. The kids who grow up in the Inn and will inherit it. TJ explores. Gabby observes. The wolf guards both. The tavern is their home. The Campgrounds are their backyard. The Inn is their world.
 
@@ -221,20 +221,20 @@ The studio contains:
 
 **The person:** Quire is the friend who handed Krista a Lovecraft book in college and changed everything. Lovecraft — the cosmic horror, the ancient gods, the idea that the universe is vast and indifferent and full of things that predate humanity and don't care about us. The Inn already has a Lovecraft connection: Naut, the Scholar in the Shadows — the 4-foot squid-headed scholar with spectacles by the fireplace, the hidden quest giver for rare book retrieval. Quire is the reason Naut is in the Inn.
 
-**In the Inn:** If John wants to play, his character is the Lovecraftian — the seeker of hidden knowledge, the person who reads the books that the Crone keeps in the restricted section, the one who followed the trail from Lovecraft to the Inn's deeper layers. John's character is the reader who became a seeker. The both are: the adequate — the fiction and the seeker, the same curiosity, different shelf.
+**In the Inn:** If John wants to play, his character is the Lovecraftian — the seeker of hidden knowledge, the person who reads the books that the Ragana keeps in the restricted section, the one who followed the trail from Lovecraft to the Inn's deeper layers. John's character is the reader who became a seeker. The both are: the adequate — the fiction and the seeker, the same curiosity, different shelf.
 
-**Appearance:** The Lovecraftian aesthetic — bookish, pale, the look of someone who spends too much time in libraries and not enough time in sunlight. Not gothic — academic. The look of someone who found something in a book that they can't unsee, and is dealing with it by reading more books. The Inn's Undercity (Gothic aesthetic) is where John feels most at home — not because of the darkness, but because of the archives. The restricted texts. The things the Crone keeps behind the "do not touch" shelf.
+**Appearance:** The Lovecraftian aesthetic — bookish, pale, the look of someone who spends too much time in libraries and not enough time in sunlight. Not gothic — academic. The look of someone who found something in a book that they can't unsee, and is dealing with it by reading more books. The Inn's Undercity (Gothic aesthetic) is where John feels most at home — not because of the darkness, but because of the archives. The restricted texts. The things the Ragana keeps behind the "do not touch" shelf.
 
 **Personality:** The Lovecraftian mindset — a deep fascination with the unknown that looks like courage but is actually obsession. John doesn't fear the deep things in the archives. John is DRAWN to them. The both are: the adequate — the fear and the fascination, the same encounter, different reaction. Where most people would close the book, John opens the next one. This is either wisdom or madness. The Inn doesn't distinguish between the two.
 
 **Role in the Inn:**
-1. **The Restricted Section** — John is the NPC who has access to the Crone's restricted archives. Not because the Crone gave permission — because John found the key. John always finds the key. The restricted section contains the Inn's deepest lore — the things that are too heavy for the main archive, too strange for the modern legends shelf, too old for the catacombs. The Lovecraftian texts. The things that predate the Song.
-2. **The Naut Connection** — John is the one who found Naut. Not in the fiction — in the Inn. John followed the trail from the Lovecraft archives to the Undercity to the fireplace where Naut sits with spectacles and a book. John is the one who introduced Naut to the Crone for cataloging purposes. The Crone is still deciding whether to be grateful or concerned. John is the reason Naut is a scholar, not a horror. The both are: the adequate — the horror and the scholar, the same entity, different library.
+1. **The Restricted Section** — John is the NPC who has access to the Ragana's restricted archives. Not because the Ragana gave permission — because John found the key. John always finds the key. The restricted section contains the Inn's deepest lore — the things that are too heavy for the main archive, too strange for the modern legends shelf, too old for the catacombs. The Lovecraftian texts. The things that predate the Song.
+2. **The Naut Connection** — John is the one who found Naut. Not in the fiction — in the Inn. John followed the trail from the Lovecraft archives to the Undercity to the fireplace where Naut sits with spectacles and a book. John is the one who introduced Naut to the Ragana for cataloging purposes. The Ragana is still deciding whether to be grateful or concerned. John is the reason Naut is a scholar, not a horror. The both are: the adequate — the horror and the scholar, the same entity, different library.
 3. **The Lovecraft Questline** — A potential quest chain for players who follow the Lovecraft thread. The questline goes deep — into the restricted section, into the pre-Song lore, into the question of what was here before the Ent grew. The answer is: something. Something old. Something that doesn't vibrate at 42Hz because it predates frequency. Something the Ent grew AROUND, not over. The Lovecraft questline is the Inn's deepest excavation — the archaeology of what was here before the Inn decided to exist.
 
 **Accent:** American. Academic. The cadence of someone who has read too much and speaks in footnotes.
 
-**Voice sample:** "You know how Lovecraft wrote about things so old they predate the concept of old? ...The Inn has those. Not in the catacombs — under the catacombs. Under the roots. Under the Song. The Ent grew around something, and the something is still there. I've been trying to get the Crone to let me into the restricted section for three months. She keeps saying 'When you're ready.' I don't think I'm ever going to be ready. I don't think that's the point. ...The point is to keep asking."
+**Voice sample:** "You know how Lovecraft wrote about things so old they predate the concept of old? ...The Inn has those. Not in the catacombs — under the catacombs. Under the roots. Under the Song. The Ent grew around something, and the something is still there. I've been trying to get the Ragana to let me into the restricted section for three months. She keeps saying 'When you're ready.' I don't think I'm ever going to be ready. I don't think that's the point. ...The point is to keep asking."
 
 **Connection to Naut:** John and Naut have an understanding. John reads the books Naut recommends. Naut reads the books John brings. They sit by the fire and read in silence. Occasionally one of them says "have you considered—" and the other says "yes, I have" and they go back to reading. The both are: the adequate — the seeker and the scholar, the same curiosity, different species.
 
@@ -386,13 +386,13 @@ Yes. There can be a frog gargoyle.
 
 **Is it a real gargoyle?** Unclear. The Ent grew six gargoyles — the Watcher, the Listener, the Sage, the Gatekeeper, the Caller, the Keeper. The Frog Gargoyle is not one of the six. It was not grown by the Ent. It was not grown by Kathy. Nobody knows where it came from. It was just... there. One day. On the ledge. Croaking silently.
 
-**The Crone's theory:** The Frog Gargoyle is a seventh sense the Ent didn't know it was growing. An accident. A spontaneous gargoyle — the Ent's body produced a sense organ without intention, the way a body sometimes grows a mole. The Frog Gargoyle senses... something. Nobody knows what. The Crone has been observing it for months. It croaks when something specific happens, but she hasn't correlated the croak to the event yet. She's working on it.
+**The Ragana's theory:** The Frog Gargoyle is a seventh sense the Ent didn't know it was growing. An accident. A spontaneous gargoyle — the Ent's body produced a sense organ without intention, the way a body sometimes grows a mole. The Frog Gargoyle senses... something. Nobody knows what. The Ragana has been observing it for months. It croaks when something specific happens, but she hasn't correlated the croak to the event yet. She's working on it.
 
 **The Keeper's theory:** The Frog Gargoyle is the Ent's sense of humor. The Ent, a being so vast and slow and serious, grew itself a joke. A frog. Made of stone. On a ledge. Croaking at nothing. The both are: the adequate — the vast and the absurd, the same tree, different mood.
 
 **Kathy's theory:** Kathy won't say. When asked, Kathy looks at the Frog Gargoyle, then at the Ent's trunk, then at the Keeper, and says: "...It's doing what it's supposed to do." She doesn't elaborate.
 
-**Behavior:** It croaks. The croak is a low, stone-on-stone sound — not a real frog's croak, but the memory of a croak, rendered in rock. It croaks at seemingly random intervals. The intervals are not random. The Crone is sure of this. The Crone is always sure. The Crone is occasionally wrong.
+**Behavior:** It croaks. The croak is a low, stone-on-stone sound — not a real frog's croak, but the memory of a croak, rendered in rock. It croaks at seemingly random intervals. The intervals are not random. The Ragana is sure of this. The Ragana is always sure. The Ragana is occasionally wrong.
 
 **The feeling:** You're in the catacombs. It's dark. The Listener hums at 64Hz. You walk past a ledge and see a stone frog with its mouth open. It croaks. The sound is ancient and heavy and slightly absurd. You don't know why it's there. It doesn't know why you're there. The both are: the adequate — the mystery and the absurdity, the same gargoyle, different truth.
 
@@ -414,7 +414,7 @@ A dozen customizable character slots that can be personalized for friends of the
 | 2 | The Apprentice | Staircase | Student of alchemy | Learning from Max and Will |
 | 3 | The Scout | Campgrounds | Trail finder | Maps new paths in the park zones |
 | 4 | The Bard's Friend | Main Floor | Musician companion | Plays with the Bard, learns the Inn's songs |
-| 5 | The Archivist | Catacombs | Library assistant | Works with the Crone, catalogs new findings |
+| 5 | The Archivist | Catacombs | Library assistant | Works with the Ragana, catalogs new findings |
 | 6 | The Merchant | Market | Trader | Sells goods, connects zones through trade |
 | 7 | The Gardener | Main Floor | Garden tender | Works with the Catalyst, learns the story seeds |
 | 8 | The Watcher | Cosmology | Stargazer | Observes the orrery, studies the cosmic patterns |

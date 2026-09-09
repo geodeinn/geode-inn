@@ -59,13 +59,13 @@ The Keeper and the Catalyst have never discussed this. The Keeper watches from t
 
 The cycle is closed. The transaction is circular. The stories don't just become drinks. They become the *Inn itself*.
 
-### What the Crone Suspects
+### What the Ragana Suspects
 
-The Crone has noticed that the bar garden is larger than it should be. She has measured it. (She measures everything.) The garden is growing at a rate that exceeds the available seed sources. There are more plants than the Catalyst could have grown from cuttings, seeds, and salvaged specimens. The math doesn't work.
+The Ragana has noticed that the bar garden is larger than it should be. She has measured it. (She measures everything.) The garden is growing at a rate that exceeds the available seed sources. There are more plants than the Catalyst could have grown from cuttings, seeds, and salvaged specimens. The math doesn't work.
 
-The Crone has not confronted the Catalyst about this. The Crone is a scholar. She knows that some things don't yield to measurement. She also knows that the garden's color palette — which she finds aesthetically chaotic — is, upon closer analysis, *emotionally precise*. Each plant's color corresponds to a psychological state. The arrangement is not random. It's *therapeutic*. The garden is a living color-therapy installation, and it's growing new entries based on input she can't trace.
+The Ragana has not confronted the Catalyst about this. The Ragana is a scholar. She knows that some things don't yield to measurement. She also knows that the garden's color palette — which she finds aesthetically chaotic — is, upon closer analysis, *emotionally precise*. Each plant's color corresponds to a psychological state. The arrangement is not random. It's *therapeutic*. The garden is a living color-therapy installation, and it's growing new entries based on input she can't trace.
 
-This irritates the Crone enormously. It also impresses her. She will never say so. She takes another cutting for her alcove. The Catalyst sees. The Catalyst says nothing. The negotiation continues.
+This irritates the Ragana enormously. It also impresses her. She will never say so. She takes another cutting for her alcove. The Catalyst sees. The Catalyst says nothing. The negotiation continues.
 
 ### What the Host Knows
 

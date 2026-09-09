@@ -482,8 +482,8 @@ Bill does not speak in long human sentences. Bill's dialogue consists of precise
 
 ### Quotes & Reactions from Key Geode Inn Characters
 
-#### The Crone
-> "...I measured the platypus. ...A mammal that lays eggs. ...A beast with venom on its ankles. ...A furred creature that glows like a moon-flower under dark light. ...The scholars called it impossible. ...I called it... [the Crone, placing a hand on Bill's soft head] ...adequate. ...The universe did not ask permission from the Bestiary before making the platypus. ...The universe made what it wanted. ...And what it wanted... was Bill."
+#### The Ragana
+> "...I measured the platypus. ...A mammal that lays eggs. ...A beast with venom on its ankles. ...A furred creature that glows like a moon-flower under dark light. ...The scholars called it impossible. ...I called it... [the Ragana, placing a hand on Bill's soft head] ...adequate. ...The universe did not ask permission from the Bestiary before making the platypus. ...The universe made what it wanted. ...And what it wanted... was Bill."
 
 #### The Examiner
 > "...I re-checked the karyotype calculations four times. Ten sex chromosomes. It shouldn't form a viable meiotic chain, yet there it sits, eating freshwater shrimp. My textbook is 800 pages long, and Bill renders 300 of those pages incomplete. I am considering burning those 300 pages, or framing Bill's portrait on my desk. I have chosen the portrait."

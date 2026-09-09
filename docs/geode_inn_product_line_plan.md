@@ -96,7 +96,7 @@ The taxonomy is named. The narrative scene — Einstein watching, the grief and 
 - First stones. First games. First night by the fire.
 
 ### Part 2: The Main Floor (The Hub) ~25k words
-- The Crone measures. The Catalyst pulls stories. The Firekeeper tells them.
+- The Ragana measures. The Catalyst pulls stories. The Firekeeper tells them.
 - The arcade — first games, first stones collected
 - The brownies — Brindle, Cobble, Thatch. Tumble getting stuck.
 - Brim and Monsieur Sentient. The Magritte paradox.
@@ -400,7 +400,7 @@ The voice placement infrastructure is complete:
 
 - **The Characters (full cast):** Each NPC voiced in their established accent and cadence:
   - The Host: Patrick Stewart energy — warm, authoritative welcome
-  - The Crone: measured, ancient, the weight of centuries
+  - The Ragana: measured, ancient, the weight of centuries
   - The Firekeeper: Tim Curry theatrical grandeur
   - The Catalyst: Helena Bonham Carter intimate, pulling
   - Beverley: Anne Robinson clipped precision, Australian accent
@@ -611,7 +611,7 @@ A collectible card game where every NPC is a card, every zone is a board, every 
 Full spec: geode_inn_card_game_spec.md
 
 ## Key Features
-- 12 base heroes (The Host, The Crone, The Firekeeper, The Catalyst, The Astronomer, The Constant, Brim, The Selkie, The Pirate, The Siren, The Morrigan, The Allfather) + 12 unlockable expansion heroes
+- 12 base heroes (The Host, The Ragana, The Firekeeper, The Catalyst, The Astronomer, The Constant, Brim, The Selkie, The Pirate, The Siren, The Morrigan, The Allfather) + 12 unlockable expansion heroes
 - 6 card types: Stone cards (198), Minion cards (all NPCs), Spell cards (frequency-based), Charm cards (118 element charms), Gargoyle cards (6 persistent board effects), Pet cards (Tumble, the Duck, the Cabbit, Bloop, Huginn/Muninn)
 - 37 zone-based boards, each with its artist style and ambient audio
 - The frequency system as core mechanic: 42Hz (growth), 84Hz (petrify), 111Hz (scry), In-Between (shift)

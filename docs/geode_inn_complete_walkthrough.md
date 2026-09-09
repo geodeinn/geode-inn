@@ -54,7 +54,7 @@ The Inn is structured as a living tree with multiple levels:
     ║    ╚══════════════════════════════╝    ║
     ║                                        ║
     ║       THE MAIN FLOOR                   ║  ← (market, music, library)
-    ║    [Host] [Crone] [Catalyst's Bar]      ║
+    ║    [Host] [Ragana] [Catalyst's Bar]      ║
     ║    [Music Room] [Miskatonic Annex]      ║
     ╚════════════════════════════════════════╝
                 |
@@ -225,20 +225,20 @@ The player's first quest. The Host greets the player at the Inn's door and shows
 
 ---
 
-## 3.2 — The Crone (Anthony Hopkins)
+## 3.2 — The Ragana (Anthony Hopkins)
 
-The measurer. The annotator. The being who writes everything in columns and footnotes. The Crone is the Inn's record-keeper — the entity who documents every frequency, every event, every being. The Crone's word is "Adequate" — the highest compliment the Inn gives. "Adequate" means: this is sufficient, this is true, this is as much as I can measure.
+The measurer. The annotator. The being who writes everything in columns and footnotes. The Ragana is the Inn's record-keeper — the entity who documents every frequency, every event, every being. The Ragana's word is "Adequate" — the highest compliment the Inn gives. "Adequate" means: this is sufficient, this is true, this is as much as I can measure.
 
-**Voice profile:** Anthony Hopkins' precision, the pen tapping, the glasses adjusted. The Crone speaks in measurements and annotations. The Crone's pauses are the pauses of a mind measuring.
+**Voice profile:** Anthony Hopkins' precision, the pen tapping, the glasses adjusted. The Ragana speaks in measurements and annotations. The Ragana's pauses are the pauses of a mind measuring.
 
-The Crone is the same actor as Charon (the Ferryman) — but a different instrument. The Crone is Hopkins' mind (measures, annotates, speaks). Charon is Hopkins' silence (stillness, weight, one phrase per crossing).
+The Ragana is the same actor as Charon (the Ferryman) — but a different instrument. The Ragana is Hopkins' mind (measures, annotates, speaks). Charon is Hopkins' silence (stillness, weight, one phrase per crossing).
 
-**Key moment:** The Crone hears the Song for the first time after arguing with Aristotle on the alchemical staircase. "I never listened before. I always measured. It's beautiful."
+**Key moment:** The Ragana hears the Song for the first time after arguing with Aristotle on the alchemical staircase. "I never listened before. I always measured. It's beautiful."
 
 ### Quest: "The First Column"
-The Crone gives the player a blank notebook and asks them to document one zone. The player must visit a zone, observe, and write notes (the game's journal system). The Crone reviews the notes and annotates them. The quest completes when the Crone writes "Adequate" in the margin.
+The Ragana gives the player a blank notebook and asks them to document one zone. The player must visit a zone, observe, and write notes (the game's journal system). The Ragana reviews the notes and annotates them. The quest completes when the Ragana writes "Adequate" in the margin.
 
-**Reward:** The Crone's Lens — a viewing tool that reveals hidden annotations in the world (the Crone's notes are visible on walls, stones, and objects — the Inn's oldest records, written by the Crone over centuries).
+**Reward:** The Ragana's Lens — a viewing tool that reveals hidden annotations in the world (the Ragana's notes are visible on walls, stones, and objects — the Inn's oldest records, written by the Ragana over centuries).
 
 ---
 
@@ -408,7 +408,7 @@ The player helps Death negotiate more time — the borrowed body is wearing out.
 
 The Inn's coastal beacon. A stone tower — the sleeping giant's raised hand. The light is a fragment of the giant's heart crystal, 42Hz piezoluminescence. The beam sweeps at 50 BPM (the heartbeat made visible). The foghorn sounds at 16-20Hz (the heartbeat made audible — felt in the chest, not heard with the ears).
 
-**The Owl** is the lighthouse keeper — the narrative spine's watcher, the bloodline representative at the coast. The Owl says "Adequate" — the Crone's word. The Owl's voice: ~105Hz, one word per heartbeat (1200ms pause), 0.2 expressiveness, bodhrán heartbeat mode.
+**The Owl** is the lighthouse keeper — the narrative spine's watcher, the bloodline representative at the coast. The Owl says "Adequate" — the Ragana's word. The Owl's voice: ~105Hz, one word per heartbeat (1200ms pause), 0.2 expressiveness, bodhrán heartbeat mode.
 
 ### Quest: "The Fixed Point"
 The player keeps a night vigil at the lighthouse — watching the beam sweep, listening to the foghorn, maintaining the light. The quest is about WATCHING — the patience of staying in one place, the discipline of keeping a light going. The Owl tells the player: "A light needs a keeper. A keeper needs a light. Same thing."
@@ -770,9 +770,9 @@ Three philosophers sit on the staircase, representing the three stages of alchem
 
 **Plato** (middle step, Albedo — the white work) — Ralph Fiennes. The architect/framer. The Cave is an interactive mural on the staircase wall — the player walks through Plato's Cave and sees the shadows. The Albedo is the purification phase — the player must see the forms.
 
-**Aristotle** (top step, Rubedo — the red work) — Jeremy Irons. The classifier. Aristotle argues with the Crone until both become colleagues and then listeners. The Rubedo is the completion phase — the player must integrate.
+**Aristotle** (top step, Rubedo — the red work) — Jeremy Irons. The classifier. Aristotle argues with the Ragana until both become colleagues and then listeners. The Rubedo is the completion phase — the player must integrate.
 
-**Key moment:** The Crone hears the Song for the first time after arguing with Aristotle: "I never listened before. I always measured. It's beautiful."
+**Key moment:** The Ragana hears the Song for the first time after arguing with Aristotle: "I never listened before. I always measured. It's beautiful."
 
 ---
 
@@ -876,7 +876,7 @@ An echo remains in her roots — accumulated devotion that grows stronger each c
 
 The Tinkering Weeaboo eats pomegranates — ingesting the echo.
 
-The Crone's final annotation on Persephone and Hades: "It's enough."
+The Ragana's final annotation on Persephone and Hades: "It's enough."
 
 ---
 
@@ -1084,7 +1084,7 @@ This narrative runs UNDERNEATH all game mechanics. The stones, the map, the Fae 
 | Character | Casting | Role | Voice |
 |---|---|---|---|
 | The Host / Librarian | Patrick Stewart | Anti-FOMO anchor, Inn-Tree avatar | Measured, long pauses |
-| The Crone | Anthony Hopkins | Measurer, annotator | Precision, pen tapping |
+| The Ragana | Anthony Hopkins | Measurer, annotator | Precision, pen tapping |
 | Charon | Anthony Hopkins | Ferryman | Silence, one phrase per crossing |
 | The Thrum | Ben Whishaw | Silhouette-maker, presence over hierarchy | Rosicrucian hum |
 | The Catalyst | Helena Bonham Carter | Bartender, information hub, botanical gifts | Mrs. Lovett energy |
@@ -1135,7 +1135,7 @@ This narrative runs UNDERNEATH all game mechanics. The stones, the map, the Fae 
 | The Cook | Jack Black | Gentle grounding sustainer | Warm, kitchen |
 | Socrates | Stephen Fry | Questioner, Nigredo | Anger IS the love |
 | Plato | Ralph Fiennes | Architect, Albedo | The Cave |
-| Aristotle | Jeremy Irons | Classifier, Rubedo | Argues with the Crone |
+| Aristotle | Jeremy Irons | Classifier, Rubedo | Argues with the Ragana |
 | Leonardo | — | The Wanderer, mirror writing | Starts everything |
 
 ### Death / Underground
@@ -1196,7 +1196,7 @@ Each key character has a WORD — the one word that defines their relationship t
 
 | Word | Speaker | Meaning |
 |---|---|---|
-| **"Adequate"** | The Crone | Sufficient, true, as much as can be measured |
+| **"Adequate"** | The Ragana | Sufficient, true, as much as can be measured |
 | **"Good"** | Leonardo / The Retort | Seeing what the work became; work in use |
 | **"Enough"** | The Cook | Care as a load-bearing ingredient |
 | **"Familiar"** | The Constant | Recognition as the closest thing to memory |
@@ -1204,7 +1204,7 @@ Each key character has a WORD — the one word that defines their relationship t
 | **"Stay"** | The Captain | Belonging through competence, not sentiment |
 | **"...Go lightly"** | Anubis | Attachment weighed gently |
 | **"...There you are"** | Charon | Every soul ferried, three words |
-| **"Adequate"** | The Owl | The Crone's word, at the coast |
+| **"Adequate"** | The Owl | The Ragana's word, at the coast |
 
 ---
 
@@ -1229,7 +1229,7 @@ Each key character has a WORD — the one word that defines their relationship t
 *— The Host*
 
 *"Adequate."*
-*— The Crone*
+*— The Ragana*
 
 ---
 

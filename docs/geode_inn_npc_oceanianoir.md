@@ -252,7 +252,7 @@ Oceanianoir lives in the drowned library. The both are: the adequate — the sci
 
 ## Voice Design
 
-- **Pitch:** ~135Hz — the pitch of precision, not performance. Lower than the Siren (performance), higher than the Crone (authority). The pitch of someone who KNOWS and is comfortable knowing
+- **Pitch:** ~135Hz — the pitch of precision, not performance. Lower than the Siren (performance), higher than the Ragana (authority). The pitch of someone who KNOWS and is comfortable knowing
 - **Cadence:** Variable. Precise and rapid when discussing data (deduction mode — the programmer, the scientist). Squeaky and halting when discussing feelings (the Murloc tell). The both are: the adequate — the data voice and the squeak voice, the both are: the same person, different frequency
 - **Instrument:** Ondes Martenot — the electronic instrument that produces ethereal, wavering tones. It's scientific and otherworldly simultaneously. It's the instrument that sounds like measurement made audible. The both are: the adequate — the data and the music, the both are: the same frequency, different expression
 - **Expressiveness:** 0.6 default, drops to 0.1 when reciting data, spikes to 0.9 when squeaking. The dynamic range IS the character — the scientist who goes flat when presenting and explosive when surprised. The both are: the adequate — the precision and the squeak, the both are: the same person, different volume
@@ -275,7 +275,7 @@ Oceanianoir lives in the drowned library. The both are: the adequate — the sci
 
 ### Quest 3: "The Typo" (Hidden Quest)
 - Somewhere in the Fae Kingdom puzzles, Oceanianoir left a deliberate error — a single logic flaw in a Seelie riddle that makes it solvable through a shortcut. The both are: the adequate — the genius club and the typo, the both are: the same puzzle, different mistake
-- The player who finds the typo earns Oceanianoir's respect (the hardest reputation gain in the Inn — harder than the Crone's "adequate," harder than the Astronomer's calculation)
+- The player who finds the typo earns Oceanianoir's respect (the hardest reputation gain in the Inn — harder than the Ragana's "adequate," harder than the Astronomer's calculation)
 - Reward: Oceanianoir names a snake after the player. In Medusa's grotto. The player's name carried on a serpent in the guardian's garden. The both are: the adequate — the typo and the naming, the both are: the same honor, different word
 
 ---

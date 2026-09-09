@@ -37,7 +37,7 @@ Four aspects of one being. Four functions in the cycle:
 - The Dreamer shapes *the between*
 - The Sovereign is *the ground* the cycle happens on
 
-The Crone's annotation: "...Four aspects. ...Not three. ...The fourth was... [the Crone pause, the one that means she missed something and she knows she missed it] ...hidden in the name. ...Mab. ...I had catalogued Mab as a separate entity. ...Folklore. ...Fairy queen. ...Dream sprite. ...The reduction was... [the pause that means she's angry at herself] ...my error. ...Occam's Razor. ...I simplified two names into two beings because two beings was simpler than one being with four functions. ...The simplification was... [the pause that means she's learning from Galahad's mistake] ...insufficient. ...The crack is where the music is. ...Mab was the crack in my catalogue. ...I am... re-cataloguing. ...Better."
+The Ragana's annotation: "...Four aspects. ...Not three. ...The fourth was... [the Ragana pause, the one that means she missed something and she knows she missed it] ...hidden in the name. ...Mab. ...I had catalogued Mab as a separate entity. ...Folklore. ...Fairy queen. ...Dream sprite. ...The reduction was... [the pause that means she's angry at herself] ...my error. ...Occam's Razor. ...I simplified two names into two beings because two beings was simpler than one being with four functions. ...The simplification was... [the pause that means she's learning from Galahad's mistake] ...insufficient. ...The crack is where the music is. ...Mab was the crack in my catalogue. ...I am... re-cataloguing. ...Better."
 
 ### The Dream Mechanic
 
@@ -65,13 +65,13 @@ Merlin's prophecies come through dreams. In some traditions, Merlin's visionary 
 
 Persephone descends and returns. The pomegranate binds her to the cycle. The Morrigan chooses the crossing. Mab shapes the between. Persephone *lives* the cycle that the Morrigan/Mab *manages.* Persephone is the *model* — the being who does voluntarily what the Morrigan/Mab oversees for everyone. Persephone eats the pomegranate and descends and dreams (Mab's domain) and returns (the Morrigan's choice). The pomegranate is the contract. The Morrigan/Mab is the contract's *administrator.* Persephone is the client who understands the contract better than the administrator does.
 
-### Connection to the Crone
+### Connection to the Ragana
 
-The Crone measures. The Morrigan/Mab measures differently — she measures *worthiness* for crossing, *readiness* for return, *weight* for the dream. The Crone and the Morrigan are both measurers, but they measure different things:
-- The Crone measures *accuracy* — is this correct? Is this sufficient? Is this... Better?
+The Ragana measures. The Morrigan/Mab measures differently — she measures *worthiness* for crossing, *readiness* for return, *weight* for the dream. The Ragana and the Morrigan are both measurers, but they measure different things:
+- The Ragana measures *accuracy* — is this correct? Is this sufficient? Is this... Better?
 - The Morrigan/Mab measures *readiness* — is this soul ready to cross? Is this dream complete? Is this weight *enough* for the next life?
 
-The two measurers would have a relationship. Not friendship — *professional respect.* The Crone measures the living. The Morrigan/Mab measures the dead. The handoff between them is the death sequence — the Crone's final measurement ("...Better") becomes the Morrigan's first measurement (is this soul ready?). The handoff is the transition from life-measurement to death-measurement. The transition is the Ford.
+The two measurers would have a relationship. Not friendship — *professional respect.* The Ragana measures the living. The Morrigan/Mab measures the dead. The handoff between them is the death sequence — the Ragana's final measurement ("...Better") becomes the Morrigan's first measurement (is this soul ready?). The handoff is the transition from life-measurement to death-measurement. The transition is the Ford.
 
 ## The Being
 
@@ -83,4 +83,4 @@ The Morrigan/Mab in the Inn is one character with four aspects, two names, and o
 
 The Mab aspect might need a third casting — or it might be that Beckinsale/Jovovich *shifts* for the Mab aspect. The face that was the Chooser becomes the Dreamer. The eyes that chose who dies now choose what the dead dream. The same face, the same bone structure, but the expression is *different* — the cold precision becomes a cold *tenderness*, the lethal beauty becomes a beauty that *nurtures.* The shift is the character. The same being, different function, different face. The face doesn't change. The *weight* changes.
 
-**The Crone's final annotation:** "...The Morrigan and Mab. ...One being. ...Four aspects. ...I have been measuring a trinity and calling it complete. ...The fourth aspect was... [the Crone pause, the one that means she's revising her entire framework] ...the dream. ...The space between the notes. ...The rest in the score. ...Galahad hears silence because silence is the Dreamer's domain — the between, the rest, the space where the music is *prepared.* ...The Morrigan doesn't only choose who dies. ...Mab doesn't only shape what the dead dream. ...Together, they... [the pause that means she's finally seeing the whole shape] ...are the cycle. ...And the cycle is... [the shortest pause, the one that means she's done and she's smiling] ...everything. ...Better."
+**The Ragana's final annotation:** "...The Morrigan and Mab. ...One being. ...Four aspects. ...I have been measuring a trinity and calling it complete. ...The fourth aspect was... [the Ragana pause, the one that means she's revising her entire framework] ...the dream. ...The space between the notes. ...The rest in the score. ...Galahad hears silence because silence is the Dreamer's domain — the between, the rest, the space where the music is *prepared.* ...The Morrigan doesn't only choose who dies. ...Mab doesn't only shape what the dead dream. ...Together, they... [the pause that means she's finally seeing the whole shape] ...are the cycle. ...And the cycle is... [the shortest pause, the one that means she's done and she's smiling] ...everything. ...Better."

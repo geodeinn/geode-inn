@@ -104,10 +104,10 @@ The player returns to Oceanianoir with the frequency, the atomic weight, and the
 Somewhere in the Fae Kingdom puzzles, Oceanianoir left a deliberate error — a single logic flaw in a Seelie riddle that makes it solvable through a shortcut. The error is not a bug. It's a test. The both are: the adequate — the genius club and the typo, the both are: the same puzzle, different mistake.
 
 **The Discovery:**
-The player who finds the typo must report it to Oceanianoir (not to Beverley, not to the Crone — to Oceanianoir, the puzzle's architect). The player who finds the shortcut AND reports it (rather than exploiting it silently) earns Oceanianoir's respect.
+The player who finds the typo must report it to Oceanianoir (not to Beverley, not to the Ragana — to Oceanianoir, the puzzle's architect). The player who finds the shortcut AND reports it (rather than exploiting it silently) earns Oceanianoir's respect.
 
 **The Reward:**
-Oceanianoir names a snake after the player. In Medusa's grotto. The player's name carried on a serpent in the guardian's garden. This is the hardest reputation gain in the Inn — harder than the Crone's "adequate," harder than the Astronomer's calculation. The both are: the adequate — the typo and the naming, the both are: the same honor, different word.
+Oceanianoir names a snake after the player. In Medusa's grotto. The player's name carried on a serpent in the guardian's garden. This is the hardest reputation gain in the Inn — harder than the Ragana's "adequate," harder than the Astronomer's calculation. The both are: the adequate — the typo and the naming, the both are: the same honor, different word.
 
 **Additional Effect:** Oceanianoir's respect unlocks a dialogue path where Oceanianoir admits the typo was not a test — it was a genuine mistake. The Mensa reflex. Even in the Inn, the proclaimed genius club has typos. The both are: the adequate — the genius and the error, the both are: the same mind, different page.
 

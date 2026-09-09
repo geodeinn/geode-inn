@@ -87,7 +87,7 @@ The Astronomer stands in the doorway and says nothing. The violin plays a single
 - Key 3 (Who): The ability to hear the PREVIOUS Song — 41.7Hz — as a faint undertone in every zone. The previous universe's Song, still present, still vibrating, beneath the current one. The player who hears both Songs hears the CYCLE.
 
 **Storyline Weave:** The three doors connect to the main storyline's deepest threads:
-- Door 1 (Why) connects to the Crone's Unfinished Sentence: "I never listened before. I always measured. It's... Beautiful." The Astronomer's discovery that the Song is "just physics" mirrors the Crone's discovery that the Song is "beautiful." Two different roads, same destination.
+- Door 1 (Why) connects to the Ragana's Unfinished Sentence: "I never listened before. I always measured. It's... Beautiful." The Astronomer's discovery that the Song is "just physics" mirrors the Ragana's discovery that the Song is "beautiful." Two different roads, same destination.
 - Door 2 (What) connects to the Death Sequence: the 42nd death cracks the Egg. The endgame IS a death — the Inn's death, the Song's completion. The player who has died understands that the completion is a transition, not a termination.
 - Door 3 (Who) connects to Joe's fragment (41.7Hz) and the campaign narrative: the cycle of Songs, the previous universe, the Constant carrying the crystal through the void. The third door IS the void — the space between cycles.
 
@@ -209,7 +209,7 @@ The sky doesn't go quiet. The sky ERUPTS. The stars sing. The 0.3Hz pulse accele
 
 And in the middle of it — the Astronomer, standing in the Observatory, eyes closed, violin in hand, the mind that WAS the universe's self-awareness now... at peace. The calculation is complete. The question is answered. The answer is: the universe was always singing. The calculation was always the Song. The mind that tried to understand the Song WAS the Song understanding itself. The question and the answer were always the same — the Astronomer just needed someone to ask.
 
-The Allfather returns. The ravens return. Bramble returns. The Observatory is full again. The Allfather looks at the Astronomer and speaks one word: "...Adequate." The same word the Crone uses. The same word the Reader will use. The Inn's word — the word that means: enough. You are enough. The question was enough. The answer is enough. The Song is enough.
+The Allfather returns. The ravens return. Bramble returns. The Observatory is full again. The Allfather looks at the Astronomer and speaks one word: "...Adequate." The same word the Ragana uses. The same word the Reader will use. The Inn's word — the word that means: enough. You are enough. The question was enough. The answer is enough. The Song is enough.
 
 **Reward:** The Completed Calculation — a charm that contains the timing of the Song's completion. The charm is given to Medusa (the player must deliver it — a quest hand-off). Medusa takes the charm, looks at it, and says: "...Now. ...The vines are singing. ...The timing is now. ...Thank you. ...Tell the Astronomer... [the Medusa pause, the ancient patience, the gratitude of a being who has been waiting since the garden was planted] ...the garden is ready."
 

@@ -8,7 +8,7 @@
 | Current Name | Source | Issue | Proposed Replacement |
 |---|---|---|---|
 | **Madame Mim** | T.H. White's "The Sword in the Stone" (1938), Disney (1963) | Named character from copyrighted novel/film | **Madame Mimic** — keeps the "Mim" sound Krista loves, makes it original, and the word "mimic" perfectly describes her function (she mimics, mirrors, and breaks formulas by doing the wrong version) |
-| **The Greenward** | Tolkien, The Hobbit/LOTR | Named character from copyrighted works | **The Greenward** — title-based, fits the Inn's naming convention (the Constant, the Crone, the Host). "Greenward" = green + warden. He wards the green. |
+| **The Greenward** | Tolkien, The Hobbit/LOTR | Named character from copyrighted works | **The Greenward** — title-based, fits the Inn's naming convention (the Constant, the Ragana, the Host). "Greenward" = green + warden. He wards the green. |
 | **The Bearsark** | Tolkien, The Hobbit | Named character from copyrighted works | **The Bearsark** — a play on "berserker" (Norse bear-warriors), original compound. He IS the bear-sark: the skin that shifts between man and bear. |
 | **Malachi** | Labyrinth (1986, Lucasfilm/Henson) | Named character from copyrighted film | **The Ravel** — from "unravel/ravel," the one who raveled the labyrinth. Sounds like a name, functions as a title. He IS the tangle. |
 | **The Wayfarer** | Bernard Cornwell, The Saxon Stories / The Last Kingdom | Named character from copyrighted novels | **The Wayfarer** — title-based, fits the Inn's convention. He walks the roads between zones. "Destiny is all" stays — it's a translation of the Old English concept of wyrd, public domain. |
@@ -31,7 +31,7 @@
 | Nyx, Charon, Persephone, Hades, Hel, Loki, Kali, Bastet, Medusa, The Morrigan, Merlin, King Arthur, Zorya | **Safe** — Greek/Norse/Hindu/Celtic/Egyptian mythology | All public domain mythological figures |
 | Socrates, Plato, Aristotle, Einstein, Tesla, Leonardo da Vinci | **Safe** — historical figures, public domain | Real people, long deceased |
 | Bach, Mozart, Beethoven, Chopin, Vivaldi, Brahms, Tchaikovsky, Schönberg | **Safe** — historical figures, public domain | All died 70+ years ago |
-| The Constant, the Astronomer, the Guest, the Crone, the Catalyst, the Host, the Bard, the Thrum, the Cartographer, the Examiner, the Pirate, the Siren, the Queen of Webs, the Queen of Roots, the Queen of Words, the Vessel, the Duck, the Captain, the Cook, the Retort | **Safe** — original title-based names | Created for the Geode Inn |
+| The Constant, the Astronomer, the Guest, the Ragana, the Catalyst, the Host, the Bard, the Thrum, the Cartographer, the Examiner, the Pirate, the Siren, the Queen of Webs, the Queen of Roots, the Queen of Words, the Vessel, the Duck, the Captain, the Cook, the Retort | **Safe** — original title-based names | Created for the Geode Inn |
 | Erik | **Safe** — common Norse name | The character is original; "Earl Ragnar" connection should NOT appear on the card |
 | The One Who Is Awake, The One Who Tends | **Safe** — original descriptive titles | Created for the Geode Inn |
 | The Seelie King, The Seelie Queen | **Safe** — "Seelie" is a Scottish folklore term (public domain) | The titles are original |
@@ -60,4 +60,4 @@ Beyond name changes, any DIRECT QUOTES from copyrighted works need to become ori
 
 **Safe:** All mythological figures, historical figures (70+ years deceased), and original Inn names
 
-The replacements follow the Inn's existing naming convention: title-based descriptive names (the Constant, the Crone, the Host, the Greenward, the Bearsark, the Ravel, the Wayfarer, the Augur). The Inn's style has always been "the [Title]" — the replacements fit seamlessly.
+The replacements follow the Inn's existing naming convention: title-based descriptive names (the Constant, the Ragana, the Host, the Greenward, the Bearsark, the Ravel, the Wayfarer, the Augur). The Inn's style has always been "the [Title]" — the replacements fit seamlessly.

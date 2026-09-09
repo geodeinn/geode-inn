@@ -16,7 +16,7 @@ The Lighthouse is inhabited by three NPCs who embody three different relationshi
 - **Role:** Lighthouse keeper. The watcher. Bloodline representative at the coast.
 - **Tempo:** ETERNAL. The Owl doesn't change. The Owl doesn't leave. The Owl watches.
 - **Voice:** ~105Hz, one word per heartbeat (1200ms pause), 0.2 expressiveness, bodhrán heartbeat mode
-- **Key word:** "Adequate" (the Crone's word — the word of someone who has seen everything and is not impressed, but is not dismissive either. The word of measurement, not judgment.)
+- **Key word:** "Adequate" (the Ragana's word — the word of someone who has seen everything and is not impressed, but is not dismissive either. The word of measurement, not judgment.)
 - **IEM Driver:** Balanced Armature (250Hz–2kHz) — the voice you HEAR clearly, like a voice in a quiet room
 - **Game Function:** The Owl is the zone's constant. When everything else changes — the tide, the light, the creatures — the Owl is the reference point the player orients against. The Owl charts the tidal cave windows (when it's safe to enter the water zones). The Owl is the strategist.
 

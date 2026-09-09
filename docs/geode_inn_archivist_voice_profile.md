@@ -30,6 +30,6 @@ Unspecified — awaiting The Archivist's input. The Archivist's speech is accent
 ## Connections
 
 - **Lozen:** Mutual irritation disguised as respect. Lozen is the only person who triggers the "OI!" The Archivist would never admit this means anything.
-- **The Crone:** The only person in the Inn the Archivist considers a peer. Both keepers. Different materials, same instinct. They have never spoken directly. They don't need to.
+- **The Ragana:** The only person in the Inn the Archivist considers a peer. Both keepers. Different materials, same instinct. They have never spoken directly. They don't need to.
 - **Quire:** The Archivist is aware of Quire. Quire is aware of the Archivist. Neither has made contact. The Archivist finds this polite.
 - **The Inn (42Hz):** The Archivist is researching the 42Hz Song. The chess game is the experiment. The Archivist wants to know what the living feel that the preserved don't. This is not academic. This is personal.

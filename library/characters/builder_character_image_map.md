@@ -7,13 +7,13 @@ All character images have been uploaded to app storage. Below is the COMPLETE ma
 2. Each portrait goes image-left, text-right (already established layout)
 3. Frame each portrait with the Celtic bead-frame component
 4. The Allfather portrait must retain its imposing, one-eyed character aesthetic — NOT chibi, NOT generic spirit
-5. The Crone portrait must have the Hopkins gaze — clear, seeing, the one unsoftened celebrity feature
+5. The Ragana portrait must have the Hopkins gaze — clear, seeing, the one unsoftened celebrity feature
 
 ## CHARACTER → IMAGE URL MAPPING
 
 ### Main Floor (Level 3)
 - The Host → https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/1525dcee0_the_host_v2.png
-- The Crone (Krista's mom) → https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/149231fd1_the_crone_v2.png
+- The Ragana (Krista's mom) → https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/149231fd1_the_crone_v2.png
 - The Catalyst → https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/595c5fa3e_the_catalyst_v2.png
 - The Cook → https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/e3b147d88_the_cook_v2.png
 - The Bard → https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/948605b83_the_bard_v2.png

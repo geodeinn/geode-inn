@@ -184,7 +184,7 @@ The Grand Collision is primarily a SPECTACLE — the player watches the 11 layer
 
 4. **The Convergence:** After all 11 layers, the layers converge simultaneously. The player MUST hold the Egg. The Egg absorbs all 11 layers. The screen goes white (the Murmur's light).
 
-5. **The Tree:** The small tree growing from the crack. The player sees it. The Crone's measuring tape appears and reads "adequate." Cutscene.
+5. **The Tree:** The small tree growing from the crack. The player sees it. The Ragana's measuring tape appears and reads "adequate." Cutscene.
 
 6. **Post-Collision:** The Egg now contains the Grand Collision. The Egg is warmer. The Egg's 42Hz hum has all 11 layers' frequencies embedded.
 

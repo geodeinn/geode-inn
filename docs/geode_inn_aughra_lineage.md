@@ -52,7 +52,7 @@ Fibonacci's one eye sees both — transformation AND connection, becoming AND re
 
 ### The Fibonacci Question
 
-With the Fibonacci connection established, a question opens in the Inn's mythology that the Crone has been circling without landing on:
+With the Fibonacci connection established, a question opens in the Inn's mythology that the Ragana has been circling without landing on:
 
 **Was the crystal ever cracked?**
 
@@ -67,7 +67,7 @@ The evidence FOR a crack in the crystal's history:
 The evidence AGAINST a crack:
 
 - The Constant. The Constant has been carrying crystals between universal cycles for billions of years. The Constant says the previous cycle's frequency was 41.7Hz and the current cycle's is 42Hz. The 2Hz gap (40Hz to 42Hz) might not be a crack — it might be the natural difference between the planet's baseline (40Hz, the Rememberers, the ocean) and the current cycle's Song (42Hz, the crystal, the Inn). The 2Hz gap might be evolution, not damage.
-- The Crone's measurement. The Crone has measured the crystal and found no crack. The Crone's measurement is... the Crone's measurement. If the crack was subtle enough — a frequency shift rather than a physical break — the Crone might not have a column for it. (The Crone has been making new columns all day. The crack might need another one.)
+- The Ragana's measurement. The Ragana has measured the crystal and found no crack. The Ragana's measurement is... the Ragana's measurement. If the crack was subtle enough — a frequency shift rather than a physical break — the Ragana might not have a column for it. (The Ragana has been making new columns all day. The crack might need another one.)
 
 ### The Open Question
 

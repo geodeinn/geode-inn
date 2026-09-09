@@ -182,9 +182,9 @@ The Mohs hardness scale (1-10) is a real geological tool. In the Inn, it's a min
 - The cataloger and the inspector. The both are: the adequate — the record and the analysis, the both are: the same data, different voice.
 - The Examiner reads old things and reports data. Marijke records new things and organizes data. The both are: the adequate — the ancient and the recent, the both are: the same archive, different time.
 
-### Marijke × The Crone
+### Marijke × The Ragana
 - The cataloger and the measurer. The both are: the adequate — the registry and the ruler, the both are: the same precision, different instrument.
-- The Crone measures with the VOG. Marijke measures with the registry. The both are: the adequate — the voice and the page, the both are: the same measurement, different medium.
+- The Ragana measures with the VOG. Marijke measures with the registry. The both are: the adequate — the voice and the page, the both are: the same measurement, different medium.
 
 ### The Both of Them × Ryan
 - The mead hall owners and the bartender-pirate. The both are: the adequate — the hall and the bar, the both are: the same drink, different counter.

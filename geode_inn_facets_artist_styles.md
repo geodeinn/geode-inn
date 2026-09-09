@@ -141,7 +141,7 @@ Each facet of the Geode Inn — each floor, each zone — is rendered in the vis
 
 **The Artist:** Goya's Black Paintings — painted directly on the walls of his house, dark, intimate, haunted. "Saturn Devouring His Son." "The Witches' Sabbath." Goya's late work is the art of someone who has seen too much and can't unsee it. Dark grounds, thick paint, figures emerging from shadow. But also: Goya's etchings — "Los Caprichos" — precise, satirical, layered with meaning.
 
-**Why Goya for the Catacombs:** The Catacombs are the Inn's archive — ancient, deep, the weight of accumulated knowledge. The Crone's measuring. Beverley's library. Charles's natural history. The Visitors' Shelf. The Catacombs are the level where the Inn's history is HEAVIEST — where the weight of everything the Inn knows becomes physical. Goya's Black Paintings are the aesthetic of weight: dark, intimate, powerful. The Catacombs are the Inn's Goya room.
+**Why Goya for the Catacombs:** The Catacombs are the Inn's archive — ancient, deep, the weight of accumulated knowledge. The Ragana's measuring. Beverley's library. Charles's natural history. The Visitors' Shelf. The Catacombs are the level where the Inn's history is HEAVIEST — where the weight of everything the Inn knows becomes physical. Goya's Black Paintings are the aesthetic of weight: dark, intimate, powerful. The Catacombs are the Inn's Goya room.
 
 **Color Palette:**
 - Goya's Black Paintings palette: deep brown-black, ochre, earth red, charcoal, cream-white highlights
@@ -149,12 +149,12 @@ Each facet of the Geode Inn — each floor, each zone — is rendered in the vis
 - Candlelight: warm amber highlights against the dark ground — the only light source. The Catacombs are lit by candles and oil lamps, and the light is Goya's light: a small warm circle in a vast darkness
 
 **Key Visual Elements:**
-- **The Crone's Archive** — Goya's "Saturn" energy. The Crone is a Goya figure — emerging from the dark, measuring, weighing, preserving. The Crone's Hopkins gaze is a Goya detail: the eyes are the brightest thing in the painting, the one element that catches the light
+- **The Ragana's Archive** — Goya's "Saturn" energy. The Ragana is a Goya figure — emerging from the dark, measuring, weighing, preserving. The Ragana's Hopkins gaze is a Goya detail: the eyes are the brightest thing in the painting, the one element that catches the light
 - **Beverley's Library** — Goya's etching style. The library is a Goya etching: precise, detailed, layered. The shelves are dense with detail — each book a small element in a complex composition. Beverley is a Goya figure: small, precise, intimidating
 - **Charles's Natural Archive** — Goya's "Still Life" energy. Charles's specimens — stones, crystals, minerals — are arranged like Goya's still lifes: dark grounds, dramatic lighting, objects that carry weight. Charles's collection is the Catacombs' Goya still life
 - **The Visitors' Shelf** — Goya's "Witches' Sabbath" energy, but softer. The shelf holds the belongings of visitors who came to the Inn and left something behind. The objects are arranged in a Goya composition — emerging from shadow, each with a story, each with a weight
 
-**Linework:** Heavy cel-shaded (tradesman style) for the objects and shelves — the archive is solid, real, heavy. Soft flowing (lore style) for the Crone's measuring — the work of archiving is gentle, careful. The contrast: solid objects in a flowing space.
+**Linework:** Heavy cel-shaded (tradesman style) for the objects and shelves — the archive is solid, real, heavy. Soft flowing (lore style) for the Ragana's measuring — the work of archiving is gentle, careful. The contrast: solid objects in a flowing space.
 
 ---
 

@@ -20,7 +20,7 @@ Every player begins with: a simple leather cord or copper chain. One charm: the 
 
 **Visual:** A simple cord on the player character's wrist. One small charm: the Inn-Tree.
 
-**The Crone's annotation:** "One charm. Adequate. The adequate is: the beginning. The beginning is: enough."
+**The Ragana's annotation:** "One charm. Adequate. The adequate is: the beginning. The beginning is: enough."
 
 ---
 
@@ -73,7 +73,7 @@ Each zone has a frequency. Mastering a zone (completing all main quests in that 
 | Stone | Limestone bead | Mastering the Cave City |
 | Root | Moss agate bead | Mastering the Canopy City / Garden |
 
-**The Crone's annotation on the first frequency charm:** "One frequency. Adequate. The rest are: the same chord, unheard. The unheard is: the future. The future is: more beads. The more is: the adequate."
+**The Ragana's annotation on the first frequency charm:** "One frequency. Adequate. The rest are: the same chord, unheard. The unheard is: the future. The future is: more beads. The more is: the adequate."
 
 **The six-frequency completion:** When all six frequency charms are on the bracelet, they RESONATE — a subtle visual effect (the bracelet glows faintly). The glowing is: the Complete Chord, worn. The worn is: the adequate.
 
@@ -135,7 +135,7 @@ The player can rearrange charms at any time. The arrangement is: the player's st
 - **Frequency grouping** (all Song charms together): the group glows amber
 - **Thread grouping** (all charms from one storyline together): the group pulses at the thread's frequency
 - **Chronological** (in order of acquisition): the bracelet shows the JOURNEY — where you started, where you went, how you grew
-- **The Crone's arrangement** (all "adequate" — no order): the bracelet is still. The stillness is: the adequate
+- **The Ragana's arrangement** (all "adequate" — no order): the bracelet is still. The stillness is: the adequate
 
 ### Upgrading
 Stone charms can be upgraded through crafting techniques:
@@ -158,7 +158,7 @@ Stone charms can be upgraded through crafting techniques:
 **Level 6: The Master Charm** (requires: ALL five techniques + the stone earned 3x)
 → The stone becomes a miniature sculpture — the stone carved into the shape of its sigil or the character associated with it. The Master Charm is: the crafting journey, complete. The complete is: the adequate.
 
-**The Crone's annotation on the first Master Charm:** "...I measured this charm. The measurement is: six levels. The six is: the adequate. The adequate is: each level is: more than the last. The more is: the skill. The skill is: the hands. The hands are: the player's. The player's are: adequate."
+**The Ragana's annotation on the first Master Charm:** "...I measured this charm. The measurement is: six levels. The six is: the adequate. The adequate is: each level is: more than the last. The more is: the skill. The skill is: the hands. The hands are: the player's. The player's are: adequate."
 
 ### Combining
 Advanced players can COMBINE charms:
@@ -279,7 +279,7 @@ The bracelet replaces traditional progression UI (achievement lists, completion 
 - A "rank"
 - A "level"
 
-The bracelet doesn't measure. The bracelet SHOWS. The showing is: the adequate. The adequate is: the Crone would approve — the bracelet is data that is also beauty. The both are: the same. The same is: the Inn's thesis.
+The bracelet doesn't measure. The bracelet SHOWS. The showing is: the adequate. The adequate is: the Ragana would approve — the bracelet is data that is also beauty. The both are: the same. The same is: the Inn's thesis.
 
 ---
 
@@ -300,7 +300,7 @@ When the player opens the Egg, the bracelet transforms:
 - The bracelet glows with all six frequency colors simultaneously
 - The glow is: the Complete Chord, worn
 
-The Crone's final annotation on the bracelet:
+The Ragana's final annotation on the bracelet:
 "...I measured this bracelet. The measurement is: every stone, every character, every quest, every craft, every artist. The every is: the adequate. The adequate is: the player's journey. The journey is: the bracelet. The bracelet is: the Inn. The Inn is: ...the player. The player is: ...adequate. The adequate is: ...enough."
 
 ---

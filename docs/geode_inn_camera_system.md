@@ -35,7 +35,7 @@ The default view. WoW-style third-person. The player sees their character — th
 
 **Animation pipeline needs (third-person):**
 - Walk cycles (per class — the Pirate's drum-cadence walk, the Sentinel's grounded stride, the Artisan Thief's precise step, the Siren's flowing gait, the Bard's wandering amble)
-- Idle animations (per character — Erik's fire-side warmth, the Crone's near-stillness, the Duck's random direction changes)
+- Idle animations (per character — Erik's fire-side warmth, the Ragana's near-stillness, the Duck's random direction changes)
 - Gesture sets (waving, offering, naming, listening posture)
 - Companion follow patterns (Eres's heartbeat-synchronized trot, the Duck's meandering zigzag, the Vessel's slow gecko crawl)
 - Class-specific combat stances (for card game and mini-game transitions)
@@ -55,7 +55,7 @@ The close view. The player IS the character — looking through their eyes. The 
 - The thing being observed up close — stone texture, bone architecture, water depth, the 42Hz hum made visible as a faint vibration in the air
 - No character model — the player IS the character
 - Narrower field of view — the world is what's directly in front of you
-- Characters' faces during dialogue — the Crone's expressionless regard, the Guest's borrowed-body curiosity, the Owl's one-word-per-heartbeat patience
+- Characters' faces during dialogue — the Ragana's expressionless regard, the Guest's borrowed-body curiosity, the Owl's one-word-per-heartbeat patience
 
 **When it's active:**
 - OBSERVE action (auto-zoom to first-person when examining closely)
@@ -328,8 +328,8 @@ Required for ALL characters. The minimal animation. The stillness that is alive.
 
 Per character:
 - Breathing cycle at 50 BPM (the Inn's heartbeat)
-- Subtle head movement (optional — the Crone doesn't move her head. The Duck moves it constantly.)
-- Eye movement (if applicable — the Owl blinks every 8 seconds. The Crone blinks every 8 seconds. The coincidence is: the adequate.)
+- Subtle head movement (optional — the Ragana doesn't move her head. The Duck moves it constantly.)
+- Eye movement (if applicable — the Owl blinks every 8 seconds. The Ragana blinks every 8 seconds. The coincidence is: the adequate.)
 
 ### Layer 4: Zone-Specific (Not Always Needed)
 Only for characters with zone-specific behaviors:
@@ -382,10 +382,10 @@ Brief motion data for each character — the essential movement vocabulary the a
 - **SIT:** The feast-sit. Comfortable. The chair is: the throne. The throne is: the table.
 - **Hands:** Building. Table-making. Fire-tending. The hands that build, not walls.
 
-### The Crone
+### The Ragana
 - **Walk:** Slow. Measured. Each step is: an observation.
 - **Idle:** Near-stillness. The only movement: a blink every 8 seconds. One hand adjusts spectacles every 30 seconds.
-- **SIT:** The Crone's SIT is: the most adequate. Perfect stillness. The measuring is: done. The done is: the adequate.
+- **SIT:** The Ragana's SIT is: the most adequate. Perfect stillness. The measuring is: done. The done is: the adequate.
 - **Hands:** Writing. The quill. The annotation. The hands are: the measuring instruments.
 
 ### Belladonna

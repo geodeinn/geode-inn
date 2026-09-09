@@ -447,7 +447,7 @@ Foundational: Klimt + Royo | Main Floor: Van Gogh, Picasso, Mapplethorpe, Magrit
 - ⬜ Upload remaining 22 product photos
 
 ### Additional Session 8 Deliverables
-- ✅ Egg Hatchery Month 1 event design: "The Crone's Casting" — 3 eggs (The Old Smith, The Silent Bard, The Sixth Gargoyle), 28-day lifecycle, community voting system, echo migration, 3-month future teaser roadmap. Pushed to GitHub (docs/egg_hatchery/).
+- ✅ Egg Hatchery Month 1 event design: "The Ragana's Casting" — 3 eggs (The Old Smith, The Silent Bard, The Sixth Gargoyle), 28-day lifecycle, community voting system, echo migration, 3-month future teaser roadmap. Pushed to GitHub (docs/egg_hatchery/).
 - ✅ Audiobook Chapter 1 narration script: "The First Frequency" — full-cast (Narrator, Mona, Elio), 50 BPM heartbeat layer, 42Hz drone, room profile shifts, Inn Mode integration. Pushed to GitHub (docs/audiobook/).
 - ✅ Resonance card game: 4 starter decks (The Maker 42Hz, The Scholar 111Hz, The Guardian 84Hz, The Alchemist 432Hz) — 120 total cards with abilities, balance matrix, rarity distribution. Pushed to GitHub (docs/card_game/).
 

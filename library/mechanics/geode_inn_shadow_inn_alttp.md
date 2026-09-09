@@ -64,14 +64,14 @@ When the player steps through a Threshold, they physically enter the Shadow Inn.
 | **Color** | Full palette per zone (Matisse, Mucha, etc.) | Desaturated toward gold and stone. Klimt gold patterns become dominant — every surface has the gold-vein treatment. Colors aren't gone — they're FROZEN at peak saturation. A red tapestry is still red, but the red is the red of a photograph, not a living thing |
 | **Movement** | Everything moves — NPCs walk, fire flickers, water flows, wind moves leaves | Everything is still. Fire is frozen light. Water is frozen surface. Leaves are mid-fall, suspended. The only movement is the player |
 | **Linework** | Zone-specific linework system (cel-shaded, flowing, angular, etc.) | All linework becomes Klimt gold — the universal Shadow Inn aesthetic. The gold patterns that were decorative in the Living Inn become STRUCTURAL in the Shadow Inn. The gold IS the architecture |
-| **NPCs** | Living, moving, talking | Stone. Petrified at their last gesture. Not statues — PRESERVED. The detail is exact: the Catalyst's hand mid-pour, the Crone's pen mid-measurement, the Firekeeper mid-story |
+| **NPCs** | Living, moving, talking | Stone. Petrified at their last gesture. Not statues — PRESERVED. The detail is exact: the Catalyst's hand mid-pour, the Ragana's pen mid-measurement, the Firekeeper mid-story |
 
 ### NPC States in the Shadow Inn
 
 Each NPC is frozen at the moment of the Song's completion — their final, most meaningful gesture:
 
 - **The Firekeeper (Tim Curry NPC)** — frozen mid-sentence by the hearth. The last story. The player can read the words on the frozen air (gold text in the stone). The story is the Inn's ending — the last tale the Firekeeper tells. In the Living Inn, this story hasn't been told yet.
-- **The Crone** — frozen mid-measurement. The pen is down. The notebook is full. "Adequate" is written on the last page. In the Shadow Inn, the player can READ the completed notebook — every zone's observations, finalized. The Crone's full record of the Inn.
+- **The Ragana** — frozen mid-measurement. The pen is down. The notebook is full. "Adequate" is written on the last page. In the Shadow Inn, the player can READ the completed notebook — every zone's observations, finalized. The Ragana's full record of the Inn.
 - **The Catalyst** — frozen mid-pour. The drink is half-fallen — a frozen arc of liquid gold. The Catalyst's other hand holds a portal arrow, fully grown, pointed at... somewhere the player hasn't been. The arrow's direction is a clue to a location not yet found in the Living Inn.
 - **The Host** — frozen with arms open. The welcome. The same gesture as the beginning — "Room's ready" — but now it's the final welcome. The Host's expression is the one from the end: satisfied. The work is done.
 - **The Allfather** — frozen with one eye closed. Not sacrificed — CLOSED. The Allfather chose to stop seeing. The rest is for the player. The ravens are stone on the perches, beaks open mid-cry. The sound is frozen in the gold.
@@ -88,7 +88,7 @@ Each NPC is frozen at the moment of the Song's completion — their final, most 
 
 1. **The Frozen Vine Bridge** — In the Living Inn, a chasm blocks the path between two Undercity districts. In the Shadow Inn, the singing vine from the Catalyst's garden has grown across the chasm and been petrified by Medusa — a stone bridge. The player crosses in the Shadow Inn, then shifts back to the Living Inn on the other side.
 
-2. **The Crone's Locked Drawer** — In the Living Inn, the Crone's desk has a locked drawer. The Crone won't open it. In the Shadow Inn, the Crone is stone — the drawer is accessible. Inside: the Crone's personal notes on the player. What the Crone actually thinks. Not "Adequate" — the real word, the word the Crone never said.
+2. **The Ragana's Locked Drawer** — In the Living Inn, the Ragana's desk has a locked drawer. The Ragana won't open it. In the Shadow Inn, the Ragana is stone — the drawer is accessible. Inside: the Ragana's personal notes on the player. What the Ragana actually thinks. Not "Adequate" — the real word, the word the Ragana never said.
 
 3. **The Catalyst's Hidden Arrow** — In the Shadow Inn, the Catalyst's frozen portal arrow points toward a location the player hasn't discovered. The player notes the direction, returns to the Living Inn, and travels that way to find a new zone or secret area.
 
@@ -124,7 +124,7 @@ Jay's tavern is frozen mid-song. The half-finished drink is on the bar. Luna's s
 The alchemical texts are frozen mid-transformation. The pages are open to the final stage — the Rubedo, the Red Work, the completed transformation. The Staircase in the Shadow Inn goes all the way down — no locked doors. Every floor is accessible. The Staircase is the Shadow Inn's highway.
 
 ### Level 6: Catacombs (Shadow)
-The dust is frozen mid-settle. The Visitors' Shelf items are fully revealed — each object's story complete. The Crone's archive is organized, labeled, FINISHED. The Catacombs in the Shadow Inn are the complete record — every book catalogued, every stone filed, every creature documented.
+The dust is frozen mid-settle. The Visitors' Shelf items are fully revealed — each object's story complete. The Ragana's archive is organized, labeled, FINISHED. The Catacombs in the Shadow Inn are the complete record — every book catalogued, every stone filed, every creature documented.
 
 ### Level 7: Faerie Kingdom (Shadow)
 The entire Kingdom is a petrified garden. The Seelie and Unseelie Courts are frozen in the moment of reunification — the split healed. Malachi and the Seelie King are standing together in The Between, mid-conversation. The stone circle portals are all open — every portal active. The Crystal Gardens' Griffin is stone, mid-roar.
@@ -153,7 +153,7 @@ The emotional arc of the Shadow Inn:
 
 **First visit:** Wonder. The Inn is beautiful frozen. But eerie. The silence. The stillness. The absence of the heartbeat.
 
-**Second visit:** Discovery. The Shadow Inn has information the Living Inn doesn't. The completed paintings, the finished stories, the Crone's real notes. The player starts using the Shadow Inn as a tool — a place to find answers.
+**Second visit:** Discovery. The Shadow Inn has information the Living Inn doesn't. The completed paintings, the finished stories, the Ragana's real notes. The player starts using the Shadow Inn as a tool — a place to find answers.
 
 **Third visit:** Unease. The NPCs are stone. The Firekeeper's last story is readable. The Host's arms are open. The welcome is permanent — but so is the goodbye. The player realizes: the Shadow Inn is what happens when everything ends. The completion is also the ending.
 

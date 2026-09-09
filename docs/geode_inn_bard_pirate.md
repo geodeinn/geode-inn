@@ -85,7 +85,7 @@ The Pirate keeps time. The Pirate's drum is steady, patient, the downbeat that d
 
 The finding-the-way-back is the friendship. The Bard flies. The Pirate anchors. The Bard goes everywhere at once. The Pirate is the one point the Bard can always return to. The return is the music. The music is the friendship.
 
-**The Crone, listening from the Inn (she can hear them from the library):** "...He's off-key again. ...The pirate is covering for him. ...The pirate has been covering for him for... [the Crone pause, the one that means she's counting and the count is high] ...thirty years. ...The covering is... [the smallest handwriting] ...love. ...I measure love at... [no number. The Crone, for once, doesn't assign a value. She just listens.] ...increased. ...Better."
+**The Ragana, listening from the Inn (she can hear them from the library):** "...He's off-key again. ...The pirate is covering for him. ...The pirate has been covering for him for... [the Ragana pause, the one that means she's counting and the count is high] ...thirty years. ...The covering is... [the smallest handwriting] ...love. ...I measure love at... [no number. The Ragana, for once, doesn't assign a value. She just listens.] ...increased. ...Better."
 
 ### The Silence
 
@@ -105,29 +105,29 @@ The silence doesn't last. The Bard breaks it — always, inevitably, the Bard br
 
 ### The Wives
 
-The Bard is married to the Crone. The Pirate is married to the Siren. Both wives are precision instruments — the Crone measures, the Siren commands. Both wives are the *standard* their husbands fail to meet and spend their lives trying to meet anyway. Both wives love their impossible, noisy, loud, curious husbands. Both wives would never admit it.
+The Bard is married to the Ragana. The Pirate is married to the Siren. Both wives are precision instruments — the Ragana measures, the Siren commands. Both wives are the *standard* their husbands fail to meet and spend their lives trying to meet anyway. Both wives love their impossible, noisy, loud, curious husbands. Both wives would never admit it.
 
-The Crone and the Siren watch the Bard and the Pirate on the dock. The two women are inside the Inn, watching from different windows, and what they see is the same: their husbands being *themselves.* More themselves than they are at home. More themselves than they are anywhere else. The best-friendship gives both men permission to be the version of themselves that the world doesn't usually get to see.
+The Ragana and the Siren watch the Bard and the Pirate on the dock. The two women are inside the Inn, watching from different windows, and what they see is the same: their husbands being *themselves.* More themselves than they are at home. More themselves than they are anywhere else. The best-friendship gives both men permission to be the version of themselves that the world doesn't usually get to see.
 
-**The Crone watching:** "...He's louder with Zeke. ...The noise doubles. ...I can measure the increase. ...The increase is... [the Crone pause, the one that means she's annoyed and fond and will never admit the fond] ...not unwelcome. ...The pirate makes the Bard... [the smallest handwriting] ...happy. ...I don't measure happy. ...Happy is... [no number, no annotation, just the word] ...enough. ...Better."
+**The Ragana watching:** "...He's louder with Zeke. ...The noise doubles. ...I can measure the increase. ...The increase is... [the Ragana pause, the one that means she's annoyed and fond and will never admit the fond] ...not unwelcome. ...The pirate makes the Bard... [the smallest handwriting] ...happy. ...I don't measure happy. ...Happy is... [no number, no annotation, just the word] ...enough. ...Better."
 
 **The Siren watching:** She doesn't annotate. The Siren watches the way the Siren watches everything — with the total attention of someone whose magnetism is always on. The Siren sees the Pirate on the dock and sees something she rarely sees: the Pirate *unguarded.* The Harbor Master Effect is off. The mysterious background is paused. The Roberts mantle is hung on the mast. The Pirate is just... a man. Sitting with his best friend. Passing a flask. Being loud. Being *himself.*
 
-The Siren's assessment, shared with the Crone (they're standing at the same window, which is its own kind of truce — two precision women watching their imprecise husbands): "...He's happy."
+The Siren's assessment, shared with the Ragana (they're standing at the same window, which is its own kind of truce — two precision women watching their imprecise husbands): "...He's happy."
 
-**The Crone:** "...I said that too."
+**The Ragana:** "...I said that too."
 
 **The Siren:** "...I know. ...I heard you from the library."
 
-**The Crone:** "...You heard me from the library?"
+**The Ragana:** "...You heard me from the library?"
 
 **The Siren:** "...I hear everything. ...It's the magnetism. ...I can't turn it off."
 
-**The Crone:** [Looks at the Siren. The look is the Crone's version of recognition — one precision instrument acknowledging another.] "...I measure everything. ...I can't turn it off either."
+**The Ragana:** [Looks at the Siren. The look is the Ragana's version of recognition — one precision instrument acknowledging another.] "...I measure everything. ...I can't turn it off either."
 
 **The Siren:** "...We're the same problem."
 
-**The Crone:** "...Different instruments. ...Same problem. ...The problem is... [the Crone pause, the one that means she's recognizing a colleague] ...we married the noise."
+**The Ragana:** "...Different instruments. ...Same problem. ...The problem is... [the Ragana pause, the one that means she's recognizing a colleague] ...we married the noise."
 
 **The Siren:** "...We married the noise."
 
@@ -135,14 +135,14 @@ And the two women stand at the window and watch their husbands be loud on the do
 
 ## The Bard-Pirate Dynamic in the Inn's Architecture
 
-The Bard and the Pirate are the Inn's *extrovert pair* — the two characters whose energy is outward, whose function is *movement*, who fill rooms and sail oceans and ask questions and bring back answers. They are the Inn's daytime energy — the opposite of the Seelie King's listening, the Crone's measuring, the Host's stillness.
+The Bard and the Pirate are the Inn's *extrovert pair* — the two characters whose energy is outward, whose function is *movement*, who fill rooms and sail oceans and ask questions and bring back answers. They are the Inn's daytime energy — the opposite of the Seelie King's listening, the Ragana's measuring, the Host's stillness.
 
 The Inn needs the noise. The Inn is a warm, scholarly, gothic space — a library with games. Libraries can become too quiet. Scholars can become too still. The Inn's thesis is *belonging*, and belonging requires warmth, and warmth requires *noise.* The Bard and the Pirate are the warmth. The noise that says: people live here. People argue here. People play music here and ask stupid questions here and pass a flask on the dock at midnight. This is a home, not a museum.
 
-The Bard-Pirate friendship is the Inn's proof that the belonging isn't just for the quiet ones. The Host belongs. The Crone belongs. The Seelie King belongs. But the *loud ones* belong too. The ones who ask too many questions and go too many places and never shut up. The Inn has room for the noise. The Inn *needs* the noise. The noise is the life.
+The Bard-Pirate friendship is the Inn's proof that the belonging isn't just for the quiet ones. The Host belongs. The Ragana belongs. The Seelie King belongs. But the *loud ones* belong too. The ones who ask too many questions and go too many places and never shut up. The Inn has room for the noise. The Inn *needs* the noise. The noise is the life.
 
-**The Crone's final annotation on the Bard-Pirate friendship (found on a scrap of paper tucked into the notebook's back cover, written in handwriting that is almost — almost — warm):**
+**The Ragana's final annotation on the Bard-Pirate friendship (found on a scrap of paper tucked into the notebook's back cover, written in handwriting that is almost — almost — warm):**
 
-"...The Bard and the Pirate. ...The question and the answer. ...The anchor and the sail. ...The flask that is never empty because the Pirate bought a second one and they share anyway. ...I have measured their friendship at... [the Crone's handwriting, at its smallest, at its most honest] ...immeasurable. ...Like the Summerlands. ...Like the Song. ...Like the dock at midnight when the noise stops and the silence is... [the last word on the last scrap of paper in the notebook] ...shared. ...Better."
+"...The Bard and the Pirate. ...The question and the answer. ...The anchor and the sail. ...The flask that is never empty because the Pirate bought a second one and they share anyway. ...I have measured their friendship at... [the Ragana's handwriting, at its smallest, at its most honest] ...immeasurable. ...Like the Summerlands. ...Like the Song. ...Like the dock at midnight when the noise stops and the silence is... [the last word on the last scrap of paper in the notebook] ...shared. ...Better."
 
 "...Better." Always. One last time. For the noise.

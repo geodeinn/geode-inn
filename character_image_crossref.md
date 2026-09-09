@@ -24,7 +24,7 @@ Base URL prefix: `https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/
 
 | Character | Image File |
 |---|---|
-| The Crone (Inta — archive keeper, Hopkins gaze) | `the_crone_v2.png` (and `the_crone.png` alt) |
+| The Ragana (Inta — archive keeper, Hopkins gaze) | `the_crone_v2.png` (and `the_crone.png` alt) |
 | Charon | `charon_v2.png` |
 | The Catalyst | `the_catalyst_v2.png` |
 | The Host | `the_host_v2.png` |

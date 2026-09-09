@@ -19,12 +19,12 @@ Full profiles in docs/drive-recovery/geode_inn_npc_*.md
 1. Main Floor — The Stage (dressing room behind arcade)
 2. Undercity — The Manga Nook (shared silence with Scarlett)
 3. Staircase — The Changing Room (transformation alcove)
-4. Catacombs — The Crone's Discomfort (appeared uninvited)
+4. Catacombs — The Ragana's Discomfort (appeared uninvited)
 5. Cosmology — The Constellation (dolls as stars, reverent)
 6. Water Zone — The Floating Stage (singing, most unguarded)
 
-### The Crone Dynamic
-The Crone measures everything. Speter Adams cannot be measured. Speter Adams's charisma makes the Crone hospitable against her nature. Slow-burn quest: the Crone eventually admits Speter Adams is "not unwelcome."
+### The Ragana Dynamic
+The Ragana measures everything. Speter Adams cannot be measured. Speter Adams's charisma makes the Ragana hospitable against her nature. Slow-burn quest: the Ragana eventually admits Speter Adams is "not unwelcome."
 
 ---
 

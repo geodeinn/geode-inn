@@ -62,7 +62,7 @@ The Weaver experiences 42Hz not as audio hum or spectral light, but as continuou
 | The Whisper Layer | The Weaver is the Whisper Layer's visual processor — the Whisper records the words; the Weaver records the image. |
 | The Novel | The Weaver appears in the novel as the being who shows the protagonist their tapestry at the end. "The Storyteller tells the story. The Weaver shows it." |
 | The Norns | The three Fates (Urd/Verdandi/Skuld) provide the harmonic undertone for the Weaver's work — past, present, future. |
-| The Crone | The Crone measures; the Weaver shows. The Crone's data becomes the Weaver's pattern. |
+| The Ragana | The Ragana measures; the Weaver shows. The Ragana's data becomes the Weaver's pattern. |
 | The Cosmic Egg | The Weaver's Loom is directly above the Egg. The Egg's potential flows UP through the Loom. The Weaver weaves what the Egg dreams. |
 
 ---

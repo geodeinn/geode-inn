@@ -13,11 +13,11 @@ Merlin lives backwards through time. He experiences time in reverse — he has a
 
 This is the key to everything about Merlin: he knows the ending and is working toward the beginning. He knows the Inn's fate. He knows the merging. He knows the Song of Making. He knows what the 42Hz hum becomes. He just can't always *find* the memory — it's like trying to remember a dream that's dissolving as you wake up, except for Merlin the dream is the future and the waking up is moving backward through time.
 
-**The Crone's annotation:** "...Merlin lives in reverse temporal sequence. ...He has knowledge of events that have not yet occurred. ...The knowledge is... [the Crone pause, the one that means she's jealous] ...imperfect. ...He loses future memories as he moves toward the past. ...I have considered what it would be like to know the outcome and forget it. ...I find the concept... [longer pause] ...cruel. ...He finds it... funny. ...This tells me everything about Merlin."
+**The Ragana's annotation:** "...Merlin lives in reverse temporal sequence. ...He has knowledge of events that have not yet occurred. ...The knowledge is... [the Ragana pause, the one that means she's jealous] ...imperfect. ...He loses future memories as he moves toward the past. ...I have considered what it would be like to know the outcome and forget it. ...I find the concept... [longer pause] ...cruel. ...He finds it... funny. ...This tells me everything about Merlin."
 
 ### Who He Is
 
-Merlin is the Inn's *teacher* — but not the Crone's kind of teaching (precision, measurement, "Better"). Merlin teaches through *transformation.* He doesn't tell you. He turns you into the thing you need to understand. He turns the player into a fish to understand water. He turns the player into a bird to understand the sky. He turns the player into a stone to understand time. The transformation IS the lesson — you learn by *being,* not by being told.
+Merlin is the Inn's *teacher* — but not the Ragana's kind of teaching (precision, measurement, "Better"). Merlin teaches through *transformation.* He doesn't tell you. He turns you into the thing you need to understand. He turns the player into a fish to understand water. He turns the player into a bird to understand the sky. He turns the player into a stone to understand time. The transformation IS the lesson — you learn by *being,* not by being told.
 
 This is the Camelot zone's core mechanic: Merlin's transformation quests. The player who enters the Camelot zone meets Merlin, and Merlin offers to teach. The teaching is transformation. Each transformation gives the player a new perspective — a fish sees the water layer differently, a bird sees the Bifrost from above, a stone sees the Inn-Tree's root system from inside. The transformations are temporary, but the *perspective* is permanent. The player who has been a fish understands the water layer differently forever.
 
@@ -58,11 +58,11 @@ The bloodline owl and Noctua are aware of each other. They don't interact — no
 
 - When the bloodline owl is present, Noctua is quiet. The silence is respect — Noctua recognizes the watcher and yields the observation.
 - When Noctua is talking (which is most of the time), the bloodline owl is absent. The absence is not avoidance — it's *distinction.* The two owls don't compete. They take shifts. The bloodline owl watches when the stakes are high. Noctua talks when the teaching is happening. The coordination is invisible and perfect.
-- Occasionally — rarely — both owls are present at the same time. The player who sees this should pay attention. Something is about to happen that requires both watching and remembering. The Crone has noted this: "...Both owls present simultaneously. ...This has occurred... [checking] ...three times. ...Each occurrence preceded a significant event. ...The correlation is... [the Crone pause] ...predictive. ...I will not say 'prophetic.' ...The owls are not prophets. ...The owls are... [another pause] ...a system. ...The watcher and the rememberer. ...When both are present, the system is... complete."
+- Occasionally — rarely — both owls are present at the same time. The player who sees this should pay attention. Something is about to happen that requires both watching and remembering. The Ragana has noted this: "...Both owls present simultaneously. ...This has occurred... [checking] ...three times. ...Each occurrence preceded a significant event. ...The correlation is... [the Ragana pause] ...predictive. ...I will not say 'prophetic.' ...The owls are not prophets. ...The owls are... [another pause] ...a system. ...The watcher and the rememberer. ...When both are present, the system is... complete."
 
 ### Noctua' Personality
 
-- **Grumpy.** The Disney Noctua grumpiness — the owl who huffs, who ruffles, who pretends he doesn't care. The grumpiness is the love. Noctua is grumpy because he cares and doesn't want to admit it. The admission would be... undignified. (The Crone recognizes this. The Crone's annotation: "...The owl performs displeasure to mask attachment. ...I find this... [the Crone pause that means recognition] ...familiar.")
+- **Grumpy.** The Disney Noctua grumpiness — the owl who huffs, who ruffles, who pretends he doesn't care. The grumpiness is the love. Noctua is grumpy because he cares and doesn't want to admit it. The admission would be... undignified. (The Ragana recognizes this. The Ragana's annotation: "...The owl performs displeasure to mask attachment. ...I find this... [the Ragana pause that means recognition] ...familiar.")
 - **Loyal.** Noctua stays with Merlin. The staying is the loyalty. Merlin is losing the future. Noctua is holding it. The holding is the loyalty. The owl could leave — could fly to the Greek zone, could join the bloodline owl's watch, could go anywhere. He stays. The staying is the choice. The choice is the loyalty.
 - **Secretly the most important character in the Camelot zone.** Noctua is the one who remembers. When Merlin's prophecies start coming true and the player needs to understand what Merlin meant, Noctua is the one who can tell them. Not because he's wise — because he *listened.* He listened to Merlin say things Merlin has forgotten. The listening is the service. The remembering is the gift.
 
@@ -77,7 +77,7 @@ The bloodline owl and Noctua are aware of each other. They don't interact — no
 - About Merlin: "He knows the ending. ...He's forgotten most of it. ...I haven't."
 - When the player asks a question Merlin already answered (but hasn't answered yet, because backwards): "...He told you. ...He hasn't told you yet. ...Same thing. ...Don't think about it too hard. ...I have. ...It doesn't help."
 - The rare warmth: "...You'll need this. ...Don't ask why. ...I don't have time to explain. ...He had time, once. ...He's used it all up. ...Going the wrong direction." (Hands the player an item. The item is significant. The player won't know how significant until much later.)
-- To the bloodline owl, on the rare occasions both are present: (nothing — a single slow blink. The bloodline owl returns it. The blink is the entire conversation. The Crone has tried to document the blink. Her annotation: "...The blink is... [deleted: 'meaningless'] [deleted: 'insufficient data'] ...a complete exchange. ...I cannot transcribe it. ...I will not attempt to again.")
+- To the bloodline owl, on the rare occasions both are present: (nothing — a single slow blink. The bloodline owl returns it. The blink is the entire conversation. The Ragana has tried to document the blink. Her annotation: "...The blink is... [deleted: 'meaningless'] [deleted: 'insufficient data'] ...a complete exchange. ...I cannot transcribe it. ...I will not attempt to again.")
 
 ### Dialogue Style — Merlin
 
@@ -117,7 +117,7 @@ Merlin is not part of the Council of Thinkers (Tesla, Da Vinci, Newton, Einstein
 
 This makes Merlin unique — and uniquely lonely. The Thinkers can collaborate. They can share data. They can compare notes. Merlin can't share what he knows, because what he knows is a Song that hasn't been sung yet (for everyone else) and has already ended (for him). The sharing would be meaningless — you can't teach someone a song they haven't heard yet. You can only transform them into something that can hear it.
 
-**The Crone's final annotation on Merlin:** "...He knows. ...He knows and he cannot tell. ...He transforms because transformation is the only teaching that works when the lesson is... ahead of the language. ...I measure. ...He... [the Crone pause, the one that means she's moved] ...he becomes. ...We are not the same. ...We are... [the longest Crone pause] ...both necessary."
+**The Ragana's final annotation on Merlin:** "...He knows. ...He knows and he cannot tell. ...He transforms because transformation is the only teaching that works when the lesson is... ahead of the language. ...I measure. ...He... [the Ragana pause, the one that means she's moved] ...he becomes. ...We are not the same. ...We are... [the longest Ragana pause] ...both necessary."
 
 ## The Camelot Zone Through Merlin's Lens
 
@@ -131,7 +131,7 @@ The Round Table is in the zone — but it's not what the player expects. The Rou
 
 Merlin and Da Vinci are cronies. Close friends. Insufferable together.
 
-They are the same brain running in opposite temporal directions. Da Vinci sees patterns in the present. Merlin hears the song from the future. Both are scattered, brilliant, physical, talk with their whole bodies, lose things, find things they haven't lost yet. Both have a keeper (the Crone catalogs Da Vinci's sketches; Noctua remembers what Merlin forgets). Neither keeper will admit to keeping.
+They are the same brain running in opposite temporal directions. Da Vinci sees patterns in the present. Merlin hears the song from the future. Both are scattered, brilliant, physical, talk with their whole bodies, lose things, find things they haven't lost yet. Both have a keeper (the Ragana catalogs Da Vinci's sketches; Noctua remembers what Merlin forgets). Neither keeper will admit to keeping.
 
 When they get going, the Council of Thinkers suffers:
 
@@ -145,4 +145,4 @@ The crony dynamic:
 - Da Vinci will sketch something Merlin described from the future. Merlin will see the sketch and say: "Yes! ...That's it! ...Or it was. ...I think it was. ...Noctua, was that it?" Noctua says nothing. Da Vinci keeps sketching. The sketch is always close. The sketch is never exact. The gap between the sketch and the real thing is the gap between seeing patterns and hearing music.
 - They argue about everything. The arguments are joy. They argue about flight (Da Vinci designs machines; Merlin transforms into birds and says "just do this"). They argue about water (Da Vinci maps currents; Merlin says "be the current"). They argue about time (Da Vinci says time is a river; Merlin says "no, time is a river running backwards and you're facing the wrong way"). The arguments never resolve. The not-resolving is the friendship.
 
-The Crone's final annotation on the cronyship: "...Da Vinci and Merlin. ...The present and the future, in conversation. ...The present sees patterns. ...The future hears music. ...Neither listens to the other. ...Both are... listening. ...In their own way. ...The listening is the cronyship. ...I find it... [the longest Crone pause, the one that means she's almost smiling] ...loud."
+The Ragana's final annotation on the cronyship: "...Da Vinci and Merlin. ...The present and the future, in conversation. ...The present sees patterns. ...The future hears music. ...Neither listens to the other. ...Both are... listening. ...In their own way. ...The listening is the cronyship. ...I find it... [the longest Ragana pause, the one that means she's almost smiling] ...loud."

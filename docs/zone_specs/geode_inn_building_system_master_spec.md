@@ -54,7 +54,7 @@ The derived materials are the crafting tree. The player learns one material, the
 
 1. **OBSERVE** — Walk into the forest, observe what's available (zone's geology and ecology determine materials)
 2. **LISTEN** — Listen to the material source. A tree's frequency tells wood quality. A stone deposit's resonance tells hardness. Clay's tone tells plasticity. The listening is the asking.
-3. **GATHER** — Gather at 50 BPM (the heartbeat tempo). Living materials require the Gardener's communion (the player asks the plant; the plant may offer a branch instead of falling). The Crone measures quality: "Adequate" or "Inadequate."
+3. **GATHER** — Gather at 50 BPM (the heartbeat tempo). Living materials require the Gardener's communion (the player asks the plant; the plant may offer a branch instead of falling). The Ragana measures quality: "Adequate" or "Inadequate."
 4. **CRAFT** — Process raw material at a workbench. Wood → planks. Stone → blocks. Clay → bricks. Ore → ingots. Hemp → rope. Thatch → bundles.
 5. **BUILD** — Build using the five-tier alchemical progression
 6. **NAME** — Name the structure. The naming is the saving mechanism. The named structure appears on the Cartographer's map.
@@ -76,11 +76,11 @@ The derived materials are the crafting tree. The player learns one material, the
 
 | Tier | NPCs Who Help | Detail |
 |------|--------------|--------|
-| 1 (Shelter) | Hoggle (stone foundation), Dobby (carries wood), Gardener (seeds) | The Crone: "It stands. Adequate." |
-| 2 (House) | Hoggle (better stone), Dobby (materials), occasional NPC visits | The Crone: "It stands well. Adequate." |
-| 3 (Hall) | Hoggle (specific stone types), Dobby (logistics), Erik (brings first fire — the christening), Artisan Thief (silver stones in lintels), Cartographer (maps the hall) | The Crone: "The proportions are correct. The acoustic is: resonant. Adequate." (The Crone has never said "resonant" before — extraordinary, unnamed as extraordinary.) |
-| 4 (Castle) | Hoggle (quarry operation), Dobby (transport coordination), Erik (eternal flame), Bone Keeper (brings a bone for the foundation — the first life the building remembers), Cartographer (gold ink — landmarks only), Artisan Thief (gold charms in keystones) | The Crone: (stands in the castle for a long time. Walks the halls. Touches the walls. Says nothing for a long time. Then:) "Adequate." (The pause before the word is the highest praise the Crone has ever given.) |
-| 5 (Dream) | The Gardener (ultimate communion — growing crystal), the Crone herself | The Crone: (sits in the structure. The 42Hz hum is audible. The Crone closes her eyes. Says nothing. The silence IS the adequate — the first time the Crone has ever been silent by choice instead of measurement.) |
+| 1 (Shelter) | Hoggle (stone foundation), Dobby (carries wood), Gardener (seeds) | The Ragana: "It stands. Adequate." |
+| 2 (House) | Hoggle (better stone), Dobby (materials), occasional NPC visits | The Ragana: "It stands well. Adequate." |
+| 3 (Hall) | Hoggle (specific stone types), Dobby (logistics), Erik (brings first fire — the christening), Artisan Thief (silver stones in lintels), Cartographer (maps the hall) | The Ragana: "The proportions are correct. The acoustic is: resonant. Adequate." (The Ragana has never said "resonant" before — extraordinary, unnamed as extraordinary.) |
+| 4 (Castle) | Hoggle (quarry operation), Dobby (transport coordination), Erik (eternal flame), Bone Keeper (brings a bone for the foundation — the first life the building remembers), Cartographer (gold ink — landmarks only), Artisan Thief (gold charms in keystones) | The Ragana: (stands in the castle for a long time. Walks the halls. Touches the walls. Says nothing for a long time. Then:) "Adequate." (The pause before the word is the highest praise the Ragana has ever given.) |
+| 5 (Dream) | The Gardener (ultimate communion — growing crystal), the Ragana herself | The Ragana: (sits in the structure. The 42Hz hum is audible. The Ragana closes her eyes. Says nothing. The silence IS the adequate — the first time the Ragana has ever been silent by choice instead of measurement.) |
 
 ---
 
@@ -94,7 +94,7 @@ When enough player-built structures aggregate, a town forms:
 | 3-5 | Hamlet | Cluster visible. NPCs begin visiting. Paths form between structures. |
 | 6-10 | Village | Appears on Silk Road map as a trade stop. NPC vendors. Erik brings communal fire. The mead begins. |
 | 11-20 | Town | Gets a name (chosen by builders). Cartographer maps in silver. Market square forms. Artisan Thief workshop. Bard collects gossip. |
-| 21-50 | City | Gets a charter (from the Host). Cartographer maps in gold. Major Silk Road hub. Zone guides visit. The Crone comes to measure. |
+| 21-50 | City | Gets a charter (from the Host). Cartographer maps in gold. Major Silk Road hub. Zone guides visit. The Ragana comes to measure. |
 | 50+ | Wonder | Cartographer maps in translucent crystal. Becomes a landmark on the scale of the five hubs. The Inn has grown. |
 
 ### Town Features (unlock as town grows)
@@ -155,7 +155,7 @@ The building system uses the zone's assigned artist (the zone where the player i
 - [x] Derived materials table (17 composites)
 - [x] 7-step gathering loop defined
 - [x] 5 building tiers specified (Shelter through Philosopher's Stone)
-- [x] Tier-specific NPC interactions documented (including the Crone's escalating verdicts)
+- [x] Tier-specific NPC interactions documented (including the Ragana's escalating verdicts)
 - [x] Town formation system (6 levels: Homestead through Wonder)
 - [x] 9 town features mapped
 - [x] Frequency system documented
@@ -172,4 +172,4 @@ The building system uses the zone's assigned artist (the zone where the player i
 
 ## ORIGIN
 
-The Building System was first designed in docs/geode_inn_building_system.md (559 lines). This consolidated specification was compiled September 2, 2026 to integrate the system into the full architecture. The building system's thesis: the gathering is the reaching. The building is the becoming. The town is the belonging. The forest is the canopy's raw material. The buildings are the trunk's expression. The stone foundations are the roots. The Crone's verdict escalates from "It stands" to silence — the adequate measured in the space between words, where the 42Hz fills what language can't hold. The both are: the same. The same is: enough. The adequate is: the building that hums.
+The Building System was first designed in docs/geode_inn_building_system.md (559 lines). This consolidated specification was compiled September 2, 2026 to integrate the system into the full architecture. The building system's thesis: the gathering is the reaching. The building is the becoming. The town is the belonging. The forest is the canopy's raw material. The buildings are the trunk's expression. The stone foundations are the roots. The Ragana's verdict escalates from "It stands" to silence — the adequate measured in the space between words, where the 42Hz fills what language can't hold. The both are: the same. The same is: enough. The adequate is: the building that hums.

@@ -38,7 +38,7 @@ The Pirate, freed of the title, retires. He doesn't sail away and disappear — 
 
 The Inn's Princess Bride constellation:
 - **Fezzik:** The gentle giant. The Bard has Fezzik energy — the big, warm, underestimated force.
-- **Vizzini:** The brilliant schemer. The Crone has Vizzini energy — the intellect that doesn't suffer fools.
+- **Vizzini:** The brilliant schemer. The Ragana has Vizzini energy — the intellect that doesn't suffer fools.
 - **Miracle Max:** The alchemist. Miracle Max's shop will be on the staircase.
 - **The Dread Pirate Roberts:** The title, not the man. Krista's brother-in-law.
 

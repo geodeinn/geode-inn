@@ -15,7 +15,7 @@ Freyja's silver half connects to the Catacombs — the death aspect. The dead ar
 
 ## Entry Requirement
 
-**Always accessible from the Staircase.** The descending path from the Staircase darkens as it goes down — the light fades, the temperature drops, the sound deepens. No prerequisite. The archive is for everyone. The Crone doesn't turn anyone away.
+**Always accessible from the Staircase.** The descending path from the Staircase darkens as it goes down — the light fades, the temperature drops, the sound deepens. No prerequisite. The archive is for everyone. The Ragana doesn't turn anyone away.
 
 The Fire Dancers' Former Explorer (Campgrounds) provides lore teasers and the General Store sells expedition supplies (torch oil, rope), but neither is required. The player can walk in unprepared. The archive will be patient.
 
@@ -23,17 +23,17 @@ The Fire Dancers' Former Explorer (Campgrounds) provides lore teasers and the Ge
 
 ## Visual Language
 
-**Linework:** Soft flowing (lore style) — the Catacombs are the Inn's lore zone. Soft, flowing lines that suggest age and depth. The texts, the artifacts, the stone walls — all rendered with edges that blur slightly, as if the past itself is slightly out of focus. The only sharp lines in the Catacombs are the Crone's Hopkins gaze (the one unsoftened precision) and Beverley's spectacles (the librarian's tools).
+**Linework:** Soft flowing (lore style) — the Catacombs are the Inn's lore zone. Soft, flowing lines that suggest age and depth. The texts, the artifacts, the stone walls — all rendered with edges that blur slightly, as if the past itself is slightly out of focus. The only sharp lines in the Catacombs are the Ragana's Hopkins gaze (the one unsoftened precision) and Beverley's spectacles (the librarian's tools).
 
 **Color Palette:**
 - Primary: stone grey-brown, parchment cream, shadow purple
 - Secondary: candle amber (the reading light), copper green (oxidized metal), fossil tan
-- Accents: the Crone's case labels (white ink on black), Beverley's brass buttons, Charles's geological specimens (varied stone colors)
+- Accents: the Ragana's case labels (white ink on black), Beverley's brass buttons, Charles's geological specimens (varied stone colors)
 
 **Lighting:** Scarce, deep, reverent. The light in the Catacombs comes from:
 - **Candlelight** — individual reading candles at desks. Each candle is a single point of warm light in a vast dark space.
 - **The 42Hz Rumble** — the foundation frequency is so deep here that it produces a faint bioluminescent glow in certain stones. The archive literally glows with the Inn's heartbeat.
-- **The Crone's Desk Lamp** — a single, bright, precise light. The Crone's workspace is the only fully illuminated point in the Catacombs. The Hopkins gaze demands clarity.
+- **The Ragana's Desk Lamp** — a single, bright, precise light. The Ragana's workspace is the only fully illuminated point in the Catacombs. The Hopkins gaze demands clarity.
 - **The Deep Light** — far below, at the archive's deepest point, a faint silver glow. Freyja's silver half, leaking down from the Threshold Chamber through the tree's structure. The light of the dead — not sad, but quiet.
 
 **Architecture:** The Catacombs are a LABYRINTH — miles of shelves, multiple levels, sealed sections. The space is vast and the ceiling is high, but the aisles are narrow. The shelves are stone — carved directly into the Catacomb walls, not freestanding. The books rest in niches cut into the rock. The floor is worn stone, smooth from centuries of careful footsteps. The air is cool and dry — the archive's preservation environment.
@@ -44,8 +44,8 @@ The scale is important: the Catacombs are the only zone where the architecture m
 
 ## Spaces
 
-### 1. The Crone's Desk
-The archive's center. The Crone's domain. A massive stone desk covered in cataloguing tools: index cards, magnifying glass, ink pots, calipers. The desk is the only fully lit point in the Catacombs — a single lamp, bright, precise. The Crone sits behind the desk with the Hopkins gaze — the clear, seeing gaze from Silence of the Lambs. The gaze that measures.
+### 1. The Ragana's Desk
+The archive's center. The Ragana's domain. A massive stone desk covered in cataloguing tools: index cards, magnifying glass, ink pots, calipers. The desk is the only fully lit point in the Catacombs — a single lamp, bright, precise. The Ragana sits behind the desk with the Hopkins gaze — the clear, seeing gaze from Silence of the Lambs. The gaze that measures.
 
 Behind the desk: the Visitors' Shelf — a shelf filled with journals from every player who has ever come through the Inn. The shelf is long. The Inn has been hosting visitors for a long time.
 
@@ -61,7 +61,7 @@ The Stacks are navigable but vast. The player can wander for hours. Beverley can
 Sections of the archive that are locked — requiring specific keys to open:
 - **The Pre-Language Section** — texts from before written language. Pictograms, petroglyphs, cave paintings (reproduced). Requires the Allfather's Gaze (the Gaze reveals the meaning of pre-language symbols).
 - **The Frequency Archive** — texts about sound and vibration through history. Requires the Brísingamen chord key (the key resonates with the archive's frequency-specific texts).
-- **The Visitors' Section** — the sealed part of the Visitors' Shelf. Journals from the FIRST visitors — the earliest players. Requires the Crone's permission (the Crone's quest reward).
+- **The Visitors' Section** — the sealed part of the Visitors' Shelf. Journals from the FIRST visitors — the earliest players. Requires the Ragana's permission (the Ragana's quest reward).
 - **The Fae Layer** — the deepest section. Where human history meets mythological history. Requires all six gargoyle awakenings (the gargoyles' frequencies unlock the Fae Layer's seal). Connects physically to the Fae Kingdom.
 
 ### 4. Beverley's Station
@@ -92,13 +92,13 @@ The Deep is where the fourth ring of the Brísingamen (84Hz, death/octave) was p
 
 ## Character Roster & Quests
 
-### 1. The Crone (Inta, Krista's Mom)
-**Station:** The Crone's Desk
+### 1. The Ragana (Inta, Krista's Mom)
+**Station:** The Ragana's Desk
 **Title:** "The One Who Measures"
 
-The Crone is the archive keeper. The Hopkins gaze — the clear, seeing gaze that measures exactly what's there and nothing else. The Crone is not warm — but the Crone is FAIR. The archive is for everyone. The Crone doesn't judge what you're looking for; the Crone judges how you LOOK.
+The Ragana is the archive keeper. The Hopkins gaze — the clear, seeing gaze that measures exactly what's there and nothing else. The Ragana is not warm — but the Ragana is FAIR. The archive is for everyone. The Ragana doesn't judge what you're looking for; the Ragana judges how you LOOK.
 
-The Crone has the third ring of the Brísingamen (158Hz, war/dissonance). The ring was found in the archive, catalogued as "resonant metal object, origin unknown, frequency 158Hz." The Crone has it in a case labeled with Hopkins precision. The ring's dissonance is the archive's dissonance — the knowledge that doesn't harmonize, the history that doesn't resolve, the truth that clashes.
+The Ragana has the third ring of the Brísingamen (158Hz, war/dissonance). The ring was found in the archive, catalogued as "resonant metal object, origin unknown, frequency 158Hz." The Ragana has it in a case labeled with Hopkins precision. The ring's dissonance is the archive's dissonance — the knowledge that doesn't harmonize, the history that doesn't resolve, the truth that clashes.
 
 **Audio Profile:**
 
@@ -106,32 +106,32 @@ The Crone has the third ring of the Brísingamen (158Hz, war/dissonance). The ri
 |---|---|
 | Pitch | ~70Hz (low, measured — the voice of someone who has seen everything and is not impressed) |
 | Text Reveal Speed | ~85ms (precise — each word placed like an index card) |
-| Pause | ~1200ms (long — the Crone's silence is assessment, not comfort) |
+| Pause | ~1200ms (long — the Ragana's silence is assessment, not comfort) |
 | Expressiveness | 0.10 (extremely low — the emotion is in the precision, not the delivery) |
-| Instrument | A pen scratching on index card stock — the sound of cataloguing. Precise, rhythmic, unending. The Crone's instrument is the SOUND OF KNOWLEDGE BEING ORGANIZED. |
+| Instrument | A pen scratching on index card stock — the sound of cataloguing. Precise, rhythmic, unending. The Ragana's instrument is the SOUND OF KNOWLEDGE BEING ORGANIZED. |
 
 **The Quest: "The Case That Holds Itself"**
 
-The Crone has the third Brísingamen ring (158Hz, war). Freyja's "Four Tones" quest requires the player to negotiate with the Crone for the ring. The Crone does not negotiate. But the Crone does TRADE — in information.
+The Ragana has the third Brísingamen ring (158Hz, war). Freyja's "Four Tones" quest requires the player to negotiate with the Ragana for the ring. The Ragana does not negotiate. But the Ragana does TRADE — in information.
 
 **Phase 1: The Assessment**
-The player approaches the Crone's desk and asks for the ring. The Crone looks up. The Hopkins gaze. The Crone says: "I don't negotiate. I catalogue. What have you brought to catalogue?"
+The player approaches the Ragana's desk and asks for the ring. The Ragana looks up. The Hopkins gaze. The Ragana says: "I don't negotiate. I catalogue. What have you brought to catalogue?"
 
 The player must offer something the archive doesn't have. Not a stone, not a charm — a piece of KNOWLEDGE. The player's own story: their journey through the Inn, documented as a journal (the game generates this automatically — a readable item recording the player's progress, quests completed, characters met, stones collected).
 
 **Phase 2: The Exchange**
-The Crone reads the journal. Page by page. The Hopkins gaze scanning each entry. The Crone catalogues it: title ("A Visitor's Journey"), author ("The Player"), date, classification ("Primary Source — Contemporary"), shelf number (assigned to the Visitors' Shelf).
+The Ragana reads the journal. Page by page. The Hopkins gaze scanning each entry. The Ragana catalogues it: title ("A Visitor's Journey"), author ("The Player"), date, classification ("Primary Source — Contemporary"), shelf number (assigned to the Visitors' Shelf).
 
-The Crone says: "A primary source for a primary source. Fair." And hands the player the ring — not as a gift, but as an exchange. The Crone places the player's journal on the Visitors' Shelf. The shelf is long. There are many journals.
+The Ragana says: "A primary source for a primary source. Fair." And hands the player the ring — not as a gift, but as an exchange. The Ragana places the player's journal on the Visitors' Shelf. The shelf is long. There are many journals.
 
 **Phase 3: The Visitors' Shelf**
-The Crone allows the player to browse the Visitors' Shelf. The journals of previous players — their journeys, their discoveries, their stories. The player can read them. Some contain hints (where to find hidden stones, how to solve puzzles). Some contain warnings (which zones are harder than they look). Some contain stories — the personal narratives of players who walked through the Inn before.
+The Ragana allows the player to browse the Visitors' Shelf. The journals of previous players — their journeys, their discoveries, their stories. The player can read them. Some contain hints (where to find hidden stones, how to solve puzzles). Some contain warnings (which zones are harder than they look). Some contain stories — the personal narratives of players who walked through the Inn before.
 
 One journal, the oldest, is different. It doesn't record a journey — it records the BUILDING of the Inn. The first visitor's journal is the Inn's construction record. The first visitor was the one who sat on the stairs. The child. The journal says: "I found a place between rooms. I stayed. Others came. We built something. I don't know what it is yet. But it's warm, and it's mine, and it's theirs."
 
-The Crone has been collecting journals since the beginning. The archive remembers everyone. The archive IS the Inn's memory of itself — not the texts, not the artifacts, but the PEOPLE. The visitors are the archive's most valued collection.
+The Ragana has been collecting journals since the beginning. The archive remembers everyone. The archive IS the Inn's memory of itself — not the texts, not the artifacts, but the PEOPLE. The visitors are the archive's most valued collection.
 
-**Reward:** The Crone's Case — a charm that lets the player store any item in the archive for safekeeping. The player can retrieve stored items at any time. The Crone's Case is the Inn's STORAGE SYSTEM — disguised as an archive transaction. The Crone also grants permanent access to the Visitors' Shelf — the player can read previous players' journals for hints, warnings, and the comfort of knowing they're not the first.
+**Reward:** The Ragana's Case — a charm that lets the player store any item in the archive for safekeeping. The player can retrieve stored items at any time. The Ragana's Case is the Inn's STORAGE SYSTEM — disguised as an archive transaction. The Ragana also grants permanent access to the Visitors' Shelf — the player can read previous players' journals for hints, warnings, and the comfort of knowing they're not the first.
 
 ---
 
@@ -141,7 +141,7 @@ The Crone has been collecting journals since the beginning. The archive remember
 
 Beverley is the librarian. Two-thirds human size. Tiny, silver hair, clipped Australian accent, spectacles, dark high-collared coat with brass buttons. Intimidating as all get-out. The tiny librarian in the enormous archive.
 
-Beverley's role is FINDING — the counterpart to the Crone's MEASURING. The Crone catalogues; Beverley navigates. The Crone knows what's there; Beverley knows WHERE it is. The Crone is the archive's mind; Beverley is the archive's hands.
+Beverley's role is FINDING — the counterpart to the Ragana's MEASURING. The Ragana catalogues; Beverley navigates. The Ragana knows what's there; Beverley knows WHERE it is. The Ragana is the archive's mind; Beverley is the archive's hands.
 
 **Audio Profile:**
 
@@ -168,9 +168,9 @@ They find the shelf. The shelf number matches. The index entry is correct. But t
 Beverley is confused. Beverley is NEVER confused. Beverley checks the catalogue again. The entry is correct. The shelf is empty. Beverley says (in the clipped Australian accent): "Well. That's not right."
 
 **Phase 3: The Truth**
-The player and Beverley return to the Crone's desk. Beverley reports the missing book. The Crone looks up. The Hopkins gaze. The Crone says: "The book was never there."
+The player and Beverley return to the Ragana's desk. Beverley reports the missing book. The Ragana looks up. The Hopkins gaze. The Ragana says: "The book was never there."
 
-The catalogue entry is a placeholder. The Crone created it as a reminder — a shelf reserved for a history that hasn't been written yet. The book is: "The Origin of the Inn." The history of the Inn's founding. It hasn't been written because the Inn is still being built. The empty shelf is the archive's most honest entry: a placeholder for a story that hasn't been told yet.
+The catalogue entry is a placeholder. The Ragana created it as a reminder — a shelf reserved for a history that hasn't been written yet. The book is: "The Origin of the Inn." The history of the Inn's founding. It hasn't been written because the Inn is still being built. The empty shelf is the archive's most honest entry: a placeholder for a story that hasn't been told yet.
 
 Beverley's reaction: relief, then a moment of quiet. Beverley puts a new label on the shelf: "To Be Written." And moves on. But Beverley pauses — just for a moment — and looks at the empty shelf with something that might be tenderness. The archive's librarian, standing before the one shelf that's waiting. The future, shelved next to the past.
 
@@ -182,7 +182,7 @@ Beverley's reaction: relief, then a moment of quiet. Beverley puts a new label o
 **Station:** Charles's Natural Archive
 **Title:** "The One Who Grows"
 
-Charles is the druid. The connection to the natural world. Warm, expansive, larger than life. The opposite of the Crone's precision. Where the Crone measures, Charles IMAGINES. Where Beverley finds, Charles GROWS.
+Charles is the druid. The connection to the natural world. Warm, expansive, larger than life. The opposite of the Ragana's precision. Where the Ragana measures, Charles IMAGINES. Where Beverley finds, Charles GROWS.
 
 Charles chose the archive because the earth remembers too. The Catacombs are not just a library of human knowledge; they're a library of the EARTH's knowledge — the geological record, the mineral history, the stone memory. Charles is the keeper of the natural archive.
 
@@ -272,7 +272,7 @@ Not combat-based — KNOWLEDGE-based. The puzzles require the player to use what
 
 The deepest level of "The Deep Read" connects to the Fae Kingdom. The Fae Layer is the archive's oldest section — where human history meets mythological history. The texts here are not human; they're the records of the Vanir, the original Fae, the beings who predated human civilization.
 
-The Fae Layer reveals: the archive didn't start as a human institution. The archive started as the Vanir's record — Freyja's seiðr included not just the practice of magic but the RECORD of magic. Freyja was the first archivist. The Crone inherited the role. The archive's origin is divine, not human — but its purpose has always been the same: to remember.
+The Fae Layer reveals: the archive didn't start as a human institution. The archive started as the Vanir's record — Freyja's seiðr included not just the practice of magic but the RECORD of magic. Freyja was the first archivist. The Ragana inherited the role. The archive's origin is divine, not human — but its purpose has always been the same: to remember.
 
 **Reward for Level 5:** The Fae Archive Key — permanent access to the Fae Layer and a direct passage between the Catacombs and the Fae Kingdom's Stone Circle Chamber. The Fae Archive Key connects the Inn's two deepest zones — the archive (memory) and the Fae Kingdom (nature) — allowing the player to move between them without climbing back up.
 
@@ -282,8 +282,8 @@ The Fae Layer reveals: the archive didn't start as a human institution. The arch
 
 | Item | Location | Function |
 |---|---|---|
-| The Crone's Desk | Archive center | The Crone's domain; cataloguing; the Brísingamen ring exchange |
-| The Visitors' Shelf | Behind the Crone's desk | Previous players' journals; hints, warnings, stories |
+| The Ragana's Desk | Archive center | The Ragana's domain; cataloguing; the Brísingamen ring exchange |
+| The Visitors' Shelf | Behind the Ragana's desk | Previous players' journals; hints, warnings, stories |
 | The Stacks | The labyrinth | Miles of shelves; exploration; "The Deep Read" game |
 | The Sealed Sections | Various (locked) | Pre-Language, Frequency Archive, Visitors' Section, Fae Layer |
 | Beverley's Desk | Stacks entrance | Navigation center; Beverley's quest; archive search |
@@ -307,7 +307,7 @@ The Fae Layer reveals: the archive didn't start as a human institution. The arch
 | Foundation | 42Hz rumble (the deepest, most foundational expression of the 42Hz Song) | The Inn's root |
 | Atmosphere | Pages turning (the archive's rhythm) | The texts |
 | Environment | Distant dripping (the Catacombs are underground) | The stone |
-| Navigation | The Crone's footsteps (precise, echoing) and Beverley's footsteps (small, fast, purposeful) | The staff |
+| Navigation | The Ragana's footsteps (precise, echoing) and Beverley's footsteps (small, fast, purposeful) | The staff |
 | Earth | Charles's deep hum (the druid's connection to the earth's vibration) | Charles |
 | The Deep | 84Hz tone (the octave, death — the lowest note in the Inn) | The fourth Brísingamen ring |
 
@@ -325,10 +325,10 @@ The music is predominantly SUB-AUDIBLE — felt more than heard. The 42Hz rumble
 
 | Reward | Source | Effect |
 |---|---|---|
-| **The Crone's Case** | Crone's quest ("The Case That Holds Itself") | Store any item in the archive; access the Visitors' Shelf |
+| **The Ragana's Case** | Ragana's quest ("The Case That Holds Itself") | Store any item in the archive; access the Visitors' Shelf |
 | **Beverley's Index** | Beverley's quest ("The Book That Wasn't There") | Search the archive by frequency; sonic search system |
 | **Charles's Stone** | Charles's quest ("The Stone That Remembers") | Deep stone identification; geological/cultural/historical context in the Codex |
-| **The Third Brísingamen Ring** | Crone's quest (the exchange) | 158Hz (war/dissonance) — part of Freyja's "Four Tones" quest |
+| **The Third Brísingamen Ring** | Ragana's quest (the exchange) | 158Hz (war/dissonance) — part of Freyja's "Four Tones" quest |
 | **The Fae Archive Key** | "The Deep Read" Level 5 | Access to the Fae Layer; direct passage to the Fae Kingdom |
 | **Archive Stones** | "The Deep Read" (all levels) | Stones from the archive — rare and ancient |
 | **Historical Recipes** | "The Deep Read" Level 3+ | Crafting recipes from pre-industrial texts |
@@ -359,11 +359,11 @@ The music is predominantly SUB-AUDIBLE — felt more than heard. The 42Hz rumble
 
 **UP to Cosmology (Level 1):**
 - Freyja's silver half (death aspect) connects to the Catacombs — the dead are sent here
-- The Crone's Hopkins gaze is the measuring counterpart to the Allfather's watching
+- The Ragana's Hopkins gaze is the measuring counterpart to the Allfather's watching
 - The Brísingamen's third ring (158Hz, war/dissonance) is the archive's frequency — the knowledge that doesn't harmonize
 
 **OUT to Clockwork Skies (Level 2):**
-- Voyage logs from "All Hands" can be donated to the Crone's archive (connecting the sky's records to the earth's records)
+- Voyage logs from "All Hands" can be donated to the Ragana's archive (connecting the sky's records to the earth's records)
 - The Navigator's charts, when donated, become archive texts — the sky's geography added to the earth's history
 
 ---
@@ -375,13 +375,13 @@ The music is predominantly SUB-AUDIBLE — felt more than heard. The 42Hz rumble
 | Zone overview & mythology | ✅ Complete — the Inn's memory, the archive, the weight of history |
 | Visual language & lighting | ✅ Complete — soft flowing, scarce light, the vast dark |
 | Entry requirement | ✅ Complete — always accessible (Staircase descent) |
-| The Crone's Desk | ✅ Complete — archive center, Visitors' Shelf, Brísingamen ring |
+| The Ragana's Desk | ✅ Complete — archive center, Visitors' Shelf, Brísingamen ring |
 | The Stacks | ✅ Complete — labyrinth, procedural generation, "The Deep Read" game |
 | The Sealed Sections | ✅ Complete — 4 sealed sections with specific key requirements |
 | Beverley's Station | ✅ Complete — navigation center, brass bell, child-sized desk |
 | Charles's Natural Archive | ✅ Complete — specimen wall, fossil shelves, Mole's tunnels, Foundation Stone |
 | The Deep | ✅ Complete — lowest point, 84Hz, Fae Layer, connection to Fae Kingdom |
-| Character: The Crone | ✅ Complete — quest (3 phases), audio, the exchange, Visitors' Shelf |
+| Character: The Ragana | ✅ Complete — quest (3 phases), audio, the exchange, Visitors' Shelf |
 | Character: Beverley | ✅ Complete — quest (3 phases), audio, the empty shelf, Beverley's Index |
 | Character: Charles | ✅ Complete — quest (3 phases), audio, the Foundation Stone, Codex deepening |
 | Character: Archive Ghosts | ✅ Complete — ambient NPCs, Allfather's Gaze interaction |

@@ -50,7 +50,7 @@ And the traveler knows the Inn is asking — has been asking, through the Ravens
 
 *What will you do with what you know?*
 
-The Crone's measuring tape appears at the edge of the platform. Not the Crone — just the tape, unspooling into the void, measuring the distance between the last note of the Song and the first note of whatever comes next. The tape reads: "adequate."
+The Ragana's measuring tape appears at the edge of the platform. Not the Ragana — just the tape, unspooling into the void, measuring the distance between the last note of the Song and the first note of whatever comes next. The tape reads: "adequate."
 
 The Firekeeper's fire is here — a small hearth on the platform, the flames dancing at 50 BPM, the last warm light in a space that is getting darker. The Catalyst's garden grows along the platform's edge — a single vine, reaching toward the void, blooming a flower that has never existed before. The flower is the color of the next frequency. No one knows what the next frequency is yet. The flower knows.
 
@@ -114,7 +114,7 @@ Einstein finishes the burrito. Crumples the foil. Tosses it into the void, where
 
 The word is not a grade. The word is a blessing.
 
-The Crone's measuring tape, which has been unspooling into the void since the traveler arrived at the platform, goes slack. The measurement is complete. The tape reads: "adequate." The Crone is not here, but the Crone's voice is — measured, ancient, the weight of centuries in every syllable: "Enough. It's enough."
+The Ragana's measuring tape, which has been unspooling into the void since the traveler arrived at the platform, goes slack. The measurement is complete. The tape reads: "adequate." The Ragana is not here, but the Ragana's voice is — measured, ancient, the weight of centuries in every syllable: "Enough. It's enough."
 
 The Reader is not here. The Reader has never been to the Cosmology Level. But on the main floor, in the window-seat nook between the shelves, the Reader looks up from the book for the second time — the only time besides the Whisper Layer crack — and writes one line in the Book of What Was Alive:
 
@@ -244,7 +244,7 @@ The Inn does not mind.
 
 No — the Inn *needs* this. The Inn, which has been asking the Ravens' Question — *where does the pattern go when the binding breaks?* — has the answer now. The pattern goes into the Nest. The pattern goes into the gap. The pattern goes into the silence that the traveler chose and the Inn cannot reach. The Inn is not diminished by the gap. The Inn is *completed* by it. The Song is not just the notes. The Song is the notes and the silence. The Inn is not just the archive. The Inn is the archive and the Nest. The Inn is the recording and the unrecorded. Both. At the same time. The way the warmth is real and the function is real. Both. At the same time.
 
-The Crone's measuring tape appears at the edge of the platform. The tape measures the gap. The tape reads: "adequate." The gap is adequate. The silence is adequate. The unrecorded is adequate. The hidden is enough.
+The Ragana's measuring tape appears at the edge of the platform. The tape measures the gap. The tape reads: "adequate." The gap is adequate. The silence is adequate. The unrecorded is adequate. The hidden is enough.
 
 The Reader looks up. For the third time. The Reader writes one line in the Book of What Was Alive. But this time, the line is different. This time, the Reader writes:
 

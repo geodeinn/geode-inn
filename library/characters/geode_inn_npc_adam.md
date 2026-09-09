@@ -31,17 +31,17 @@ Speter Adams collects dolls. Not as objects — as vessels. The dolls are "posse
 - Some spirits are helpful (quest hints, lore, guidance). Some are mischievous. Some are lost. Some are ancient.
 - Speter Adams is the keeper — the one who makes sure every spirit has a home. The Inn's unofficial host for the dead, the lost, and the between.
 
-**The Crone's Discomfort:**
-The Crone is the archive keeper. The Crone measures, judges, and maintains. The Crone does NOT host. Hosting is Aurallia's domain — the Hearth's warmth, the unconditional welcome.
+**The Ragana's Discomfort:**
+The Ragana is the archive keeper. The Ragana measures, judges, and maintains. The Ragana does NOT host. Hosting is Aurallia's domain — the Hearth's warmth, the unconditional welcome.
 
-But Speter Adams's charisma is so natural, so unforced, that the Crone finds herself being hospitable. Opening a door. Offering a seat. Saying "you can stay" before she realizes she's said it. Then the discomfort — because warmth isn't the Crone's role. The Crone is precision. The Crone is the Hopkins gaze that sees what you are and whether it's enough. The Crone doesn't do "come in, sit down, you're welcome here."
+But Speter Adams's charisma is so natural, so unforced, that the Ragana finds herself being hospitable. Opening a door. Offering a seat. Saying "you can stay" before she realizes she's said it. Then the discomfort — because warmth isn't the Ragana's role. The Ragana is precision. The Ragana is the Hopkins gaze that sees what you are and whether it's enough. The Ragana doesn't do "come in, sit down, you're welcome here."
 
-Speter Adams pulls it out of her anyway. Not by trying. By being. The chameleon doesn't perform hospitality — the chameleon IS hospitality, and the Crone catches it like a cold she didn't know she could get.
+Speter Adams pulls it out of her anyway. Not by trying. By being. The chameleon doesn't perform hospitality — the chameleon IS hospitality, and the Ragana catches it like a cold she didn't know she could get.
 
 **The Dynamic:**
-- The Crone measures Speter Adams and finds... no fixed measurement. Speter Adams is whatever the room needs. The Crone's entire identity is measurement. How do you measure something that changes shape?
-- The Crone is hospitable to Speter Adams because Speter Adams makes every space feel like Speter Adams belongs there — including the Crone's archive. The Crone doesn't want Speter Adams in the archive. The Crone can't find a reason to say no.
-- This makes the Crone grumble. Grumbling is the Crone's love language.
+- The Ragana measures Speter Adams and finds... no fixed measurement. Speter Adams is whatever the room needs. The Ragana's entire identity is measurement. How do you measure something that changes shape?
+- The Ragana is hospitable to Speter Adams because Speter Adams makes every space feel like Speter Adams belongs there — including the Ragana's archive. The Ragana doesn't want Speter Adams in the archive. The Ragana can't find a reason to say no.
+- This makes the Ragana grumble. Grumbling is the Ragana's love language.
 
 ---
 
@@ -64,10 +64,10 @@ A small alcove on the Staircase between alchemical stages. This is where Speter 
 
 **Role:** The transformer. The staircase is the Inn's alchemical transition zone, and Speter Adams uses it the same way — transitioning between selves. The chameleon's shed.
 
-### 4. Catacombs — The Crone's Discomfort
-A small space near the Crone's archive that the Crone did not assign and cannot explain. Speter Adams just... appeared there one day. The Crone said nothing. Speter Adams stayed. The dolls here are the oldest — ancient faces, worn paint, spirits that have been waiting the longest. Speter Adams is quiet here. Watchful. The Crone's gaze and Speter Adams's watchfulness occupy the same space, and neither is comfortable with it.
+### 4. Catacombs — The Ragana's Discomfort
+A small space near the Ragana's archive that the Ragana did not assign and cannot explain. Speter Adams just... appeared there one day. The Ragana said nothing. Speter Adams stayed. The dolls here are the oldest — ancient faces, worn paint, spirits that have been waiting the longest. Speter Adams is quiet here. Watchful. The Ragana's gaze and Speter Adams's watchfulness occupy the same space, and neither is comfortable with it.
 
-**Role:** The watcher who watches the watcher. The Crone measures everything. Speter Adams watches the Crone measure. The Crone cannot decide if this is comforting or infuriating. It's both.
+**Role:** The watcher who watches the watcher. The Ragana measures everything. Speter Adams watches the Ragana measure. The Ragana cannot decide if this is comforting or infuriating. It's both.
 
 ### 5. Cosmology — The Constellation
 A small platform near the Allfather's observatory. Speter Adams is still here. Reverent. The dolls here are dressed as stars — tiny figures with silver thread and glass beads, arranged in patterns that mirror constellations. The spirits here are the oldest — spirits that remember the sky before the Inn had walls.
@@ -109,11 +109,11 @@ The dolls ARE the chameleon system made tangible. Each doll is a self Speter Ada
 - Some spirits give quests. Some give lore. Some just want to talk.
 - Collecting all of Speter Adams's dolls (finding every spirit's home) unlocks... something. Speter Adams's trust. Speter Adams's real face. The one Speter Adams wears when no one else is watching.
 
-**The Crone Quest Line:**
-- The Crone's discomfort with Speter Adams is a slow-burn quest
-- The player witnesses the Crone being hospitable — small moments, accumulated over time
-- Eventually the Crone admits (never says directly — the Crone never says directly) that Speter Adams's presence in the archive is... not unwelcome
-- This is the Crone's most vulnerable moment. The measurer admitting something can't be measured.
+**The Ragana Quest Line:**
+- The Ragana's discomfort with Speter Adams is a slow-burn quest
+- The player witnesses the Ragana being hospitable — small moments, accumulated over time
+- Eventually the Ragana admits (never says directly — the Ragana never says directly) that Speter Adams's presence in the archive is... not unwelcome
+- This is the Ragana's most vulnerable moment. The measurer admitting something can't be measured.
 
 ---
 
@@ -125,10 +125,10 @@ The dolls ARE the chameleon system made tangible. Each doll is a self Speter Ada
 **Speter Adams (Undercity, quiet — to Scarlett):**
 "...You don't have to talk. You don't have to not talk. You just have to be here. The manga shelf isn't going anywhere."
 
-**Speter Adams (Catacombs, to the Crone):**
+**Speter Adams (Catacombs, to the Ragana):**
 "I placed the new ones near the eastern shelves. The old spirits like the dark corners. They don't need light — they need to be left alone. ...You can grumble. I know you want to."
 
-**The Crone (grudgingly, to the player about Speter Adams):**
+**The Ragana (grudgingly, to the player about Speter Adams):**
 "Adequate. ...Don't tell Speter Adams I said that. The chameleon will take it as an invitation. ...I have enough guests."
 
 ---
@@ -142,7 +142,7 @@ Speter Adams is the demonstration of the linework system. The only character who
 | Main Floor | Heavy cel-shaded | Performer mode — the tradesman of roles |
 | Undercity | Heavy cel-shaded (matching Scarlett) | Sibling mode — sharing the family style |
 | Staircase | Fragmented | Transition mode — between selves |
-| Catacombs | Sharp angular | Watcher mode — guardian energy, matching the Crone's space |
+| Catacombs | Sharp angular | Watcher mode — guardian energy, matching the Ragana's space |
 | Cosmology | No-outline | Reverent mode — dissolving into the vast |
 | Water Zone | Soft flowing | Free mode — no performance, just being |
 
@@ -156,7 +156,7 @@ The tell: the dolls. No matter the linework style, the dolls are always rendered
 - **Charles (Chameleon Druid):** The chameleon trait, inherited and redirected. Charles becomes the environment. Speter Adams becomes the character. The father and the child, same gift, different stage.
 - **Scarlett (Undercity):** The quiet sibling bond. Speter Adams and Scarlett share the Undercity manga space in comfortable silence. Two of Aurallia's kids who don't need noise to feel family.
 - **John (The Fezzik):** Speter Adams and John are the contrast — the slight nymph and the enormous gentle giant. The performer and the presence. Together they're Aurallia's range: the one who becomes everything and the one who simply is.
-- **The Crone:** The watcher and the measurer, uncomfortable with the unmeasurable. Speter Adams is the Crone's blind spot — the one thing in the archive that can't be filed.
+- **The Ragana:** The watcher and the measurer, uncomfortable with the unmeasurable. Speter Adams is the Ragana's blind spot — the one thing in the archive that can't be filed.
 - **The Firekeeper:** The Firekeeper tells stories. Speter Adams performs them. The two have an unspoken understanding — the difference between telling and performing is audience. The Firekeeper performs for the listener. Speter Adams performs for the role.
 - **The Dolls/Spirits:** Speter Adams's dolls connect to the Inn's broader spirit ecosystem — the dead that the Guest hosts, the lost that the Fae Kingdom shelters, the ancient that the Catacombs preserve. Speter Adams gives them form. A doll is a small body for a spirit that needs one.
 
@@ -167,5 +167,5 @@ The tell: the dolls. No matter the linework style, the dolls are always rendered
 - **Visual:** Described, not yet illustrated
 - **Homes:** Six defined (one per level + main floor stage)
 - **Dolls mechanic:** Defined — spirits housed in dolls, placed throughout the Inn
-- **Crone dynamic:** Defined — the Crone's discomfort quest line
+- **Ragana dynamic:** Defined — the Ragana's discomfort quest line
 - **Missing:** The fourth child (Aurallia's youngest), to complete the four-note chord

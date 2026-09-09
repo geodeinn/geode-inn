@@ -21,7 +21,7 @@ The selkie's skin is her most precious possession. In folklore, if the skin is s
 
 The Artisan Thief's skin is her *jeweler's apron.* The leather she wears at the bench. The thing she puts on when she works and takes off when she's done. The apron is the skin — the thing that lets her transform from human-shaped jeweler into something older and wilder. When she ties the apron, the seal slides off and the maker slides on. When she unties it, the maker slides off and the seal slides on.
 
-Nobody touches the apron. Nobody. The Crone once reached for it — to straighten it, motherly instinct — and the selkie's eyes went black and cold and ancient for one second, and the Crone, who is afraid of nothing, took a step back. The Crone never mentioned it. The selkie never apologized. They understand each other. The Crone's glasses are her skin. The apron is the selkie's. Some things are not shared.
+Nobody touches the apron. Nobody. The Ragana once reached for it — to straighten it, motherly instinct — and the selkie's eyes went black and cold and ancient for one second, and the Ragana, who is afraid of nothing, took a step back. The Ragana never mentioned it. The selkie never apologized. They understand each other. The Ragana's glasses are her skin. The apron is the selkie's. Some things are not shared.
 
 ### The Dual World
 
@@ -31,7 +31,7 @@ The selkie belongs to two worlds:
 
 This connects directly to the Inn's architecture: the main floor (land, market, making) and the catacombs/water layers (sea, freedom, wildness). The Artisan Thief is the only character who moves between both worlds as naturally as breathing. She walks the market in human form, hands working, stones shaping. She dives into the catacombs and the underwater zones and the seal slides on and the water remembers her.
 
-The other characters see this. The Host sees a woman who is sometimes restless and sometimes calm and the calm is not peace — it's the calm of something that has chosen to be still. The Catalyst sees a woman who grows things from stone the way the Catalyst grows things from seeds and the parallel is not lost on either of them. The Crone sees a woman who is precise with her hands and wild in her eyes and the combination is the Crone's favorite kind of person — dangerous and careful at the same time.
+The other characters see this. The Host sees a woman who is sometimes restless and sometimes calm and the calm is not peace — it's the calm of something that has chosen to be still. The Catalyst sees a woman who grows things from stone the way the Catalyst grows things from seeds and the parallel is not lost on either of them. The Ragana sees a woman who is precise with her hands and wild in her eyes and the combination is the Ragana's favorite kind of person — dangerous and careful at the same time.
 
 ## The Human Form — Feminine Sandman
 
@@ -89,7 +89,7 @@ The Artisan Thief is the only class that makes *beautiful things* and *dangerous
 
 ### The Special Abilities
 
-**Appraise:** The Artisan Thief can read any item in the marketplace. Other players see the game description. The Artisan Thief sees the game description AND the real description AND the stone composition AND the maker's technique AND the flaws. She sees what the item *is,* not just what it says it is. The Crone taught her to read this way. The Crone is the only person the selkie respects without reservation.
+**Appraise:** The Artisan Thief can read any item in the marketplace. Other players see the game description. The Artisan Thief sees the game description AND the real description AND the stone composition AND the maker's technique AND the flaws. She sees what the item *is,* not just what it says it is. The Ragana taught her to read this way. The Ragana is the only person the selkie respects without reservation.
 
 **Identify:** The Artisan Thief can identify stones by touch. Blindfolded. In the dark. In the water. The weight, the temperature, the texture — every stone has a fingerprint and she reads it. This is the selkie's sea-sense applied to land-things. The sea reads through current and pressure and temperature. The Artisan Thief reads through her hands.
 
@@ -99,8 +99,8 @@ The Artisan Thief is the only class that makes *beautiful things* and *dangerous
 
 ## The Character Relationships
 
-### The Crone (Krista's Mom)
-The Artisan Thief respects the Crone without reservation. The Crone taught her to appraise. The Crone taught her precision. The Crone's one-word praise — "Better" — is the only external validation the selkie trusts. The Crone sees the selkie's wildness and does not flinch. The Crone reached for the apron once and saw the black eyes and stepped back and never mentioned it. The Crone understands that some things are not shared. The Crone is land. The selkie is sea. They love each other across the element.
+### The Ragana (Krista's Mom)
+The Artisan Thief respects the Ragana without reservation. The Ragana taught her to appraise. The Ragana taught her precision. The Ragana's one-word praise — "Better" — is the only external validation the selkie trusts. The Ragana sees the selkie's wildness and does not flinch. The Ragana reached for the apron once and saw the black eyes and stepped back and never mentioned it. The Ragana understands that some things are not shared. The Ragana is land. The selkie is sea. They love each other across the element.
 
 ### The Bard (Krista's Dad)
 The Bard is the selkie's father. He is loud, warm, romantic — everything the selkie is not. He sells things. He charms people. He does the thing the selkie cannot do. The selkie watches him perform and feels the gap between making and selling and the gap is the space where her father lives and she does not. She loves him across the gap. She never crosses it.

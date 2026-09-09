@@ -112,7 +112,7 @@ Recovered from library/art (66 images, uploaded 2026-09-04). Filenames are legac
 <code>The_Cosmic_Crew.png</code>
 <img src="https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/ccd736301_The_Cosmic_Crew.png" width="340" alt=""/>
 <hr/>
-### The Crone
+### The Ragana
 <code>The_Crone.png</code>
 <img src="https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/90c696565_The_Crone.png" width="340" alt=""/>
 <hr/>

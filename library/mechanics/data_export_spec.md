@@ -83,7 +83,7 @@ The game checks the manifest version on startup. If a data patch is applied (Ste
     "Catacombs": [
       {
         "dialogueId": "crone_first_visit_001",
-        "npcName": "The Crone",
+        "npcName": "The Ragana",
         "zone": "Catacombs",
         "conditionTag": "!met_crone",
         "priority": 100,
@@ -217,7 +217,7 @@ Whisper Layer observations render differently — no speaker name, no portrait, 
       "id": "...",
       "name": "Stone Archive Shelf",
       "zone": "Catacombs",
-      "basedOn": "The Crone's wall-carved shelving",
+      "basedOn": "The Ragana's wall-carved shelving",
       "description": "...",
       "materials": ["Bedrock Stone"],
       "variants": ["Wall-Carved", "Free-Standing", "Niche"],

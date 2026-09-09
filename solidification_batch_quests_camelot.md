@@ -128,7 +128,7 @@ The Seelie Royalty bestow the **Listener's Mandate**. Having held the crown for 
 ### (4) Cross-System Integration
 - **Card Game Framework:** Adds legendary cards *"Crown of Summer"* and *"Crown of Duty"*.
 - **Mineral Charm System:** Provides *Sunstone* (+15% Light Spell Power) and *Moonstone Charm* pair.
-- **Living Book / Bestiary:** Detailed lore on Seelie monarchy and the private journal entries recorded by the Crone.
+- **Living Book / Bestiary:** Detailed lore on Seelie monarchy and the private journal entries recorded by the Ragana.
 - **Catalyst Drink Mechanics:** Brews *"Crown-Weaver Ale"*, planting *Golden Mallorn Seeds* in the hidden garden.
 
 ----------------------------------------
@@ -137,7 +137,7 @@ The Seelie Royalty bestow the **Listener's Mandate**. Having held the crown for 
 *Source Document: geode_inn_fae_queens_recorder.md*
 
 ### Core Narrative & DM Framing
-While the Seelie King listens at the center, governance is handled by three Co-Ruler Queens: the Queen of Roots (the Grower), the Queen of Leaves (the Weaver), and the Queen of Fruit (the Harvester). Beside them sits The Recorder—the Crone who logs every detail in her endless notebook. DM narration emphasizes memory, cycle, and structural balance. Visuals combine Klimt's gold-leaf forest canopy and jewel-encrusted dresses with Royo's obsidian quills, biomechanical ink-spools, and dark velvet ink-veins.
+While the Seelie King listens at the center, governance is handled by three Co-Ruler Queens: the Queen of Roots (the Grower), the Queen of Leaves (the Weaver), and the Queen of Fruit (the Harvester). Beside them sits The Recorder—the Ragana who logs every detail in her endless notebook. DM narration emphasizes memory, cycle, and structural balance. Visuals combine Klimt's gold-leaf forest canopy and jewel-encrusted dresses with Royo's obsidian quills, biomechanical ink-spools, and dark velvet ink-veins.
 
 ### (1) Shadow Inn State (84Hz Inversion)
 During Shadow 84Hz mode, the Archive of Memory inverts into void-erasure. Forgotten dream-pages manifest as hostile, flying ink-shards; the three Queens turn into aggressive biomechanical guardians defending corrupted historical ledgers. Players must collect lost ink-drifts and stabilize the Recorder's desk before history is rewritten.
@@ -285,7 +285,7 @@ Arthur activates **The King's Accord**. Unifying his three ages rallies the full
 ### (4) Cross-System Integration
 - **Card Game Framework:** Adds legendary hero card *"Once and Future King"*.
 - **Mineral Charm System:** Grants *Sovereign Ruby* (+20% Party Morale and Attack).
-- **Living Book / Bestiary:** Tri-generational lineage catalog entry by the Crone.
+- **Living Book / Bestiary:** Tri-generational lineage catalog entry by the Ragana.
 - **Catalyst Drink Mechanics:** Serves *"King's Vintage"*, planting *Dragon-Oak Seeds* in the hidden garden.
 
 ----------------------------------------

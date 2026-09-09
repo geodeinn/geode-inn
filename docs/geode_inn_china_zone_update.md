@@ -33,7 +33,7 @@ The One Who Is Awake is the one who did not volunteer to sleep. He was asked to 
 
 He stayed because someone had to. That's it. That's the whole answer. The Shifting Man stays because he loves every form. The Sokushinbutsu monk stays because he seeks enlightenment through cessation. The One Who Is Awake stays because *someone had to say the names.* If no one says the names, the warriors forget themselves. If the warriors forget themselves, they can't be activated when the war comes. The names are the thread between the sleeping consciousness and the sleeping body. The One Who Is Awake is the thread.
 
-He doesn't stay out of heroism. He doesn't stay out of duty. He stays because the names need saying, and the names need saying *continuously,* and he is the one who can say them, so he says them. The simplicity is the point. The Inn's most patient characters are not philosophers. They are *workers.* Charon poles the river. The Crone annotates. The One Who Is Awake says names. The work IS the philosophy. The repetition IS the meaning.
+He doesn't stay out of heroism. He doesn't stay out of duty. He stays because the names need saying, and the names need saying *continuously,* and he is the one who can say them, so he says them. The simplicity is the point. The Inn's most patient characters are not philosophers. They are *workers.* Charon poles the river. The Ragana annotates. The One Who Is Awake says names. The work IS the philosophy. The repetition IS the meaning.
 
 ### The Reflection Quest (Updated)
 
