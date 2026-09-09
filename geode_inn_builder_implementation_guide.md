@@ -713,7 +713,7 @@ The Geode Inn main floor page needs the following HTML structure:
 
 ```html
 <div class="geode-camelot">
-  <!-- Madame Mimm (mid-transformation) -->
+  <!-- Brim (mid-transformation) -->
   <div class="npc-madame-mim"
        data-geode-sprite="/sprites/madame_mim.png"
        data-geode-preset="standing">

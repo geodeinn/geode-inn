@@ -20,7 +20,7 @@ All character images have been uploaded to app storage. Below is the COMPLETE ma
 - The Thrum → https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/d93ddab6c_the_thrum.png
 - The Brownies → https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/afaa77bdf_the_brownies.png
 - Story-Born Ents → https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/5bb0d279f_story_born_ents.png
-- Madame Mimm → https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/2f8205a71_madame_mim.png
+- Brim → https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/2f8205a71_madame_mim.png
 - Belladonna/Belladonna → https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/12af2d984_wednesday_addams.png
 - Naut the Scholar → https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/3acefc74e_26_the_scholar_cthulhu__ambulatory_patron.png
 - The Firekeeper (Tim Curry) → https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/7a8464fa7_alt_firekeeper_early_portrait.png

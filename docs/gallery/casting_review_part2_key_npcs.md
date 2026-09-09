@@ -74,7 +74,7 @@ Major NPCs with portraits, plus the ten-member Clockwork Skies crew.
 <td><b>Shadow (84Hz)</b><br/><img src="https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/8185e7208_generated_image.png" width="190" alt=""/><br/><code>generated_image.png</code></td>
 </tr></table>
 <hr/>
-### Joe (The Miniaturist)
+### The Collector (The Miniaturist)
 
 *Zone: Main Floor (L3) / Studio*
 
@@ -228,7 +228,7 @@ Major NPCs with portraits, plus the ten-member Clockwork Skies crew.
 <td><b>In-Between</b><br/><img src="https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/865d845f0_generated_image.png" width="190" alt=""/><br/><code>generated_image.png</code></td>
 </tr></table>
 <hr/>
-### Madame Mimm (Madame Mimm)
+### Brim (Brim)
 
 *Zone: Main Floor (L3)*
 

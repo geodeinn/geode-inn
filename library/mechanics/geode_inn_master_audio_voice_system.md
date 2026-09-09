@@ -94,7 +94,7 @@ Accents are not assigned TO characters. Accents ARE the characters. The NPCs com
 | The Laughing One | Robin Williams | American | Main Floor | Every sentence could become a bit, but the warmth is real |
 | The Guest | Brad Pitt (Joe Black) | American | Main Floor | Quiet curiosity, speaks like someone discovering language |
 | Monsieur Sentient | Non-verbal (Belgian French) | Belgian (visual) | Hearth | Communicates through transformation — steam, shape-shifting |
-| Madame Mimm (formerly Mim) | Witchy mischief | Belgian French | Magritte zone | "Non?" at end of statements that aren't questions |
+| Brim (formerly Mim) | Witchy mischief | Belgian French | Magritte zone | "Non?" at end of statements that aren't questions |
 | Tumble | No words | None (chime) | Variable | A single chime — the sound of one note of the Song of Making |
 | Brindle (Brownie) | Frazzled | British (Cockney-adjacent) | Variable | High-pitched, rushed, always losing tools |
 

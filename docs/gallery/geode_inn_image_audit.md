@@ -200,7 +200,7 @@ Clockwork Skies crew has inconsistent naming:
 - `ryan.png` → real person? Which character?
 - `mason.png` → real person? Which character?
 - `scarlett_standing_profile.png` → real person? Which character?
-- `joe.png` → Joe the Miniaturist (confirmed NPC)
+- `joe.png` → The Collector the Miniaturist (confirmed NPC)
 
 ### E. Items vs Characters (files that could be confused)
 - `dragon_mascot.png` → is this Tumble? Same as `tumble_ingame.png`?

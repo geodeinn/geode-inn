@@ -45,7 +45,7 @@ These are characters with dialogue, quests, services, or narrative function. Eac
 | NPC-024 | Hades | Greek underworld zone | Underworld lord | Sits on obsidian throne, counts coins, Cerberus at feet | Seated. Flips coins. Cerberus (three-headed dog) sleeps at feet — one head always awake. |
 | NPC-025 | Charon | Underground river crossing | Ferryman, transition guardian | Poles boat across underground river, collects coins | Standing in boat. Slow poling motion. Boat rocks gently. Extends hand for coin. |
 | NPC-026 | The Guest (Death) | Thresholds and doorways | Death, transition guide | Stands in doorways, waits, watches, extends hand | Never enters — always at thresholds. Stillness. Only hand moves, extended in invitation. Robes drift despite no wind. |
-| NPC-027 | Madame Mimm | Camelot zone | Transformation sorceress | Shifts between forms — raven, snake, flame, human | Mid-transformation constant. Fragments of forms spin. Eyes are the constant. Cauldron bubbles. |
+| NPC-027 | Brim | Camelot zone | Transformation sorceress | Shifts between forms — raven, snake, flame, human | Mid-transformation constant. Fragments of forms spin. Eyes are the constant. Cauldron bubbles. |
 | NPC-028 | Merlin | Camelot zone | Wizard, scholar | Reads spell books, beard moves independently, stars orbit staff | Seated at desk. Beard has own animation cycle. Small stars orbit staff tip. Occasional: levitates briefly. |
 | NPC-029 | Noctua (Merlin's owl) | Camelot zone | Merlin's companion | Perches on Merlin's chair, preens, hoots, disapproves | Perched. Head swivels. Ruffles feathers when player approaches. Occasionally flies to bookshelf and back. |
 | NPC-030 | The Shifting Man | Crossroads, nine-path intersection | Nine-realm quest giver | Shifts between nine forms at the crossroads, each form dominant for 3 seconds | Standing at crossroads center. Form morphs every 3 seconds. Nine paths glow beneath feet. Cloak of nine skins flutters. |
@@ -287,7 +287,7 @@ Non-living elements that move. These create the Inn's atmosphere through animati
 | ENV-034 | The Pulse Line | Bottom of screen (all zones) | CSS waveform | The 42Hz/84Hz frequency indicator. Always present. Shifts between modes. Visual heartbeat of the Inn. |
 | ENV-035 | Floating Books | Library | CSS levitation | Occasional book floats from shelf to reading table. Pages flutter. Lands gently. |
 | ENV-036 | Sparkles | Crystal areas, magic zones | Particle system | Tiny light points. Appear and fade. Concentrate near magical NPCs. |
-| ENV-037 | Smoke from Cauldron | Madame Mimm's area | Particle system | Cauldron bubbles. Smoke rises in shapes. Purple and green. Transforming. |
+| ENV-037 | Smoke from Cauldron | Brim's area | Particle system | Cauldron bubbles. Smoke rises in shapes. Purple and green. Transforming. |
 | ENV-038 | Frost Crystals | Unseelie Court, Norse zone | CSS form | Frost patterns form on surfaces. Spread from Unseelie King's throne. |
 | ENV-039 | Sand Particles | Egypt zone, desert areas | Particle system | Fine sand drifts. Settles on surfaces. Disturbed by movement. |
 | ENV-040 | Ember Rise | Forge, hearth, any fire | Particle system | Embers rise from fire sources. Glow, dim, fade. Spiral upward on heat currents. |

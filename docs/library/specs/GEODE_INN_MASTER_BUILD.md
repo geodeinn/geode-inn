@@ -186,7 +186,7 @@ Ten centered buttons going straight down, each one a level. Each button carries:
 | Beverley | "Obviously." | Anne Robinson, Australian accent | Library |
 | Joe | "Delightful." | Tom Ellis Lucifer cadence | Meadery |
 | The Teacher | "Incorrect." | Kathy Bates (3 modes) | Archive |
-| Madame Mimm | "Watch this." | Witchy mischief | Hearth |
+| Brim | "Watch this." | Witchy mischief | Hearth |
 | Monsieur Sentient | "Absurd." | Existential pipe | Hearth |
 | The Wanderer | "Passing through." | Warm traveler | Main floor |
 | The Owl | "Watching." | Silent presence | Variable |

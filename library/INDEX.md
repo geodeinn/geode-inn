@@ -13,7 +13,7 @@
 - Voice profiles and dialogue trees
 - `creature_additions_3_critters.md` — Axolotl, Mantis Shrimp, African Rain Frog
 - `npc_lacey_elora_nightbloom.md` — Market Manager profile
-- `geode_inn_npc_joe_solidified.md` — Joe's complete character doc
+- `geode_inn_npc_collector_solidified.md` — Joe's complete character doc
 - `geode_inn_bestiary_mechanic.md` — Full creature catalog (200 creatures)
 - `builder_character_image_map.md` — Character-to-image cross-reference
 

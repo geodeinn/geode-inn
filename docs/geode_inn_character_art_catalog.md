@@ -1110,12 +1110,12 @@ All 32 creatures are chibi-style playable characters for the "Monster of the Dee
 **Cultural Roots:** Southern Dutch (Brabant)
 **Design Notes:** Van Gogh's world in fantasy. Sunflowers taller than character, bioluminescent irises, vines growing toward sound. Worn apron, soil-stained hands, dead plant un-wilting. Humming a sustained note. Cadmium yellow, cobalt blue, emerald green palette. Soft flowing linework (lore). The necromancy is care.
 
-### 37. Madame Mimm & Monsieur Sentient
+### 37. Brim & Monsieur Sentient
 **Image:** https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/0b18e4b66_generated_image.png
 **Location:** Magritte Zone (surrealist)
 **Role:** Witch, transformation specialist
 **Cultural Roots:** Belgian
-**Design Notes:** Madame Mimm: Belgian French energy, playful deadpan surrealist. Dark coat with surreal elements (cloud pocket, starry collar). Floating sentient pipe (Monsieur Sentient) steaming a question mark. Magritte palette: sky blue, cloud white, greens, stone grey. Floating bowler hat, green apple/bird. No-outline linework (cosmological). "Non?"
+**Design Notes:** Brim: Belgian French energy, playful deadpan surrealist. Dark coat with surreal elements (cloud pocket, starry collar). Floating sentient pipe (Monsieur Sentient) steaming a question mark. Magritte palette: sky blue, cloud white, greens, stone grey. Floating bowler hat, green apple/bird. No-outline linework (cosmological). "Non?"
 
 ### 38. The Fixer (Wrought)
 **Image:** https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/025f930ae_generated_image.png

@@ -31,7 +31,7 @@ The In-Between state is the transitional frequency — half-living (42Hz) and ha
 | 19 | The Queen of Webs | Catacombs/Undercity | https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/52f760c4b_generated_image.png |
 | 20 | The Queen of Roots | Fae Kingdom | https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/625f54adc_generated_image.png |
 | 21 | Beverley | Archive | https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/2a7f6dd6f_generated_image.png |
-| 22 | Madame Mimm | Main Floor | https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/d60c16144_generated_image.png |
+| 22 | Brim | Main Floor | https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/d60c16144_generated_image.png |
 | 23 | The Host | Main Floor | https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/39a0021d0_generated_image.png |
 | 24 | The Catalyst | Main Floor | https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/4292671e7_generated_image.png |
 | 25 | The Constant | Cosmology/Main Floor | https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/faca27190_generated_image.png |
@@ -40,7 +40,7 @@ The In-Between state is the transitional frequency — half-living (42Hz) and ha
 | 28 | Erik | Norse Realms/Meadery | https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/5316ec6b0_generated_image.png |
 | 29 | Waystone | Camelot | https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/c410f4143_generated_image.png |
 | 30 | The Bearsark | Norse Realms | https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/334c412cc_generated_image.png |
-| 31 | Joe (The Miniaturist) | Main Floor | https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/54d2526e3_generated_image.png |
+| 31 | The Collector (The Miniaturist) | Main Floor | https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/54d2526e3_generated_image.png |
 | 32 | The Siren | Water Zone | https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/757d6a61b_generated_image.png |
 | 33 | The Pirate | Water Zone/Campgrounds | https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/e49cee598_generated_image.png |
 | 34 | Marijke | Meadery | https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/c8fa8d0d7_generated_image.png |

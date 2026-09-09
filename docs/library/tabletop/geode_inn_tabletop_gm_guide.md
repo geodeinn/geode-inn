@@ -213,7 +213,7 @@ The Geode Inn has 45+ named NPCs. They are not quest dispensers. They are reside
 
 **The Allfather (Odin):** Odin's cosmology-level presence. Silent, stoic, with perched ravens. The Allfather speaks rarely, but when He does, it changes the campaign. Do not use the Allfather until at least session 6.
 
-**Madame Mimm (The Pipe-Smoker):** Holds court in the Common Room. Monsieur Sentient (the sentient pipe) is always nearby. Madame Mimm knows the Inn's social dynamics better than anyone. Play Madame Mimm as the friend who knows everyone's secrets and would never betray them — but will hint.
+**Brim (The Pipe-Smoker):** Holds court in the Common Room. Monsieur Sentient (the sentient pipe) is always nearby. Brim knows the Inn's social dynamics better than anyone. Play Brim as the friend who knows everyone's secrets and would never betray them — but will hint.
 
 **Quire (The Lovecraftian Scholar):** Reads in the margins of restricted Archive texts. Hushed, careful, always looking over the shoulder. Quire is not Naut — Quire is a separate character who studies what should perhaps not be studied. Quire is a source of dangerous knowledge. Players who seek Quire are already on a Shadow path.
 
@@ -393,7 +393,7 @@ The last line of the campaign: *The Inn remembers you. It always will.*
 | Joe | Studio | GROW | 3 | Miniaturist. Dragon kittens. Tom Ellis energy. |
 | The Wanderer | Main Floor | CALM | 4 | Odin walking. Chibi ravens. Tests everyone. |
 | The Allfather | Cosmology | SENSE | 6 | Odin seated. Silent. Campaign-changing. |
-| Madame Mimm | Common Room | SING | 4 | Pipe-smoker. Knows secrets. |
+| Brim | Common Room | SING | 4 | Pipe-smoker. Knows secrets. |
 | Quire | Archive (restricted) | NULL | 4 | Dangerous scholar. Shadow path. |
 | Lark | Entrance | SING | 2 | Player guide. Doorman. Becomes a friend. |
 | Briar Nightbloom | Marketplace | SING | 4 | Market manager. Knows every stone. |

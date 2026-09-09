@@ -398,7 +398,7 @@ At each step, we identify:
 - The Host (Patrick Stewart) — "Room's ready." No name asked, no payment required.
 - The Crone (Anthony Hopkins) — measures everything, "Adequate." Learns to listen.
 - The Catalyst (Helena Bonham Carter) — bar/garden, grows portal arrows, Mrs. Lovett energy.
-- Madame Mimm — inner chaos agent, rides Monsieur Sentient, breaks formulas.
+- Brim — inner chaos agent, rides Monsieur Sentient, breaks formulas.
 - The Firekeeper — tells stories by the fire, the main floor's warmth anchor.
 - The Arcade & Score Stone — 7-foot obsidian leaderboard, cultural mini-games.
 - The Thrum (Ben Whishaw) — teaches essence precedes appearance.

@@ -14,7 +14,7 @@ The character roster has completed a full naming audit (September 3, 2026). Seve
 | Krista (as character) | **Vaulknut** | In-game name for the Bog Fairy Golem / Artisan Thief / Selkie. Authorship credits and real-world references remain "Krista." |
 | The Sentinel | **Lozen** | Lozen's character. Class title was "The Sentinel"; character name is Lozen. |
 | Malachi | **Malachi** | The Unseelie King. |
-| Mim / Madame Mim | **Madame Mimm** | The pipe-smoking chaos agent. (The card game's card is named MADAME — that's the card name only.) |
+| Mim / Madame Mim | **Brim** | The pipe-smoking chaos agent. (The card game's card is named MADAME — that's the card name only.) |
 | Cthulhu | **Naut** | The squid-headed scholar. Naut the Scholar, by the fireplace, Archive keeper. |
 | John Myers (NPC) | **Quire** | The Lovecraftian scholar NPC. The real player John Myers keeps their own name. |
 | Radagast | **The Greenward** | The Gardener. Nature keeper. |
@@ -45,9 +45,9 @@ The character roster has completed a full naming audit (September 3, 2026). Seve
 
 - Any NPC name displays on zone pages, character galleries, or profile cards
 - Dialogue system references (npcName fields when dialogue is wired)
-- Card game displays (Madame Mimm's card is MADAME; the character elsewhere is Madame Mimm)
+- Card game displays (Brim's card is MADAME; the character elsewhere is Brim)
 - Quest text, flavor text, and NPC titles
-- The Egg Hatchery egg attributions (Madame Mimm's Egg, Naut's Egg, Waystone's Egg)
+- The Egg Hatchery egg attributions (Brim's Egg, Naut's Egg, Waystone's Egg)
 - Any leaderboard, inventory, or progress references using character names
 
 ## FULL ROSTER REFERENCE
@@ -62,7 +62,7 @@ New canonical renames applied across all repo text. Full ledger: `docs/character
 
 | Old Name | New Name | Notes |
 |----------|----------|-------|
-| Brim | **Madame Mimm** | Supersedes Sept 3 "Mim → Brim." Display name Mimm; full title Madame Mimm. |
+| Madame Mim / Mim / Mimm | **Brim** | Sept 3 choice stands, confirmed by Krista 2026-09-09 ("whichever fits best" — Brim chosen: original, avoids the Disney witch name, fits the brimstone chaos-agent energy). |
 | Solstara | **Luna** | Supersedes Sept 3 "Dani → Solstara." Goes by Luna; true name Taaffeite. She may still choose a different name for her non-storyline character. |
 | Andra | **Katya** | The Siren / water guardian. SPELLING RULE: when Vaulknut addresses her directly in dialogue, spelled "Katija." |
 | Zee | **Zeke** | The Pirate — "the Pirate" remains correct as reference. Full name Zaragoza. Gag: when annoyed, his NPC calmly reveals his full name is actually Ezekiel, as he sails away. |
@@ -81,5 +81,5 @@ New canonical renames applied across all repo text. Full ledger: `docs/character
 **Characters to create:** TJ (Jay's tavern family, 12, filler name, very smart + quiet about it, really cool kid), Maddi (Zack's wife, future Inn employee, old-school computer fluency, MySpace empire, charismatic double agent — names hers to choose), John Myers the player (NEW character, distinct from the NPC Quire), Greg (Wisteria's brother, Luna's husband, skilled artisan — confirm NPC status).
 
 **Open questions for Krista:**
-1. Madame Mimm vs the Crone — same character or separate? (Egg Hatchery Event 1 + card decks currently tie them; the Crone's new Latvian name is pending, suggesting separate.)
-2. Joe the Miniaturist/Painter — same person as The Collector, or a separate NPC?
+1. Brim vs the Crone — same character or separate? (Egg Hatchery Event 1 + card decks currently tie them; the Crone's new Latvian name is pending, suggesting separate.)
+2. RESOLVED 2026-09-09: Joe the Miniaturist/Painter IS The Collector (confirmed by Krista). Display names updated; "Joe Black" (Meet Joe Black energy, the Guest) references unchanged.

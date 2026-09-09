@@ -166,7 +166,7 @@
 | 1,882 | geode_inn_song_of_making.md | The Song of Making & Golden Contract |
 | 1,879 | geode_inn_examiner_story.md | The Examiner's Story |
 | 1,846 | geode_inn_hel.md | Hel |
-| 1,707 | geode_inn_madame_mim.md | Madame Mimm |
+| 1,707 | geode_inn_madame_mim.md | Brim |
 | 1,690 | geode_inn_morrigan_mab.md | The Morrigan and Queen Mab |
 | 5,576 | geode_inn_einstein_character_profile.md | Albert Einstein |
 | 5,369 | geode_inn_morrigan.md | The Morrigan |
@@ -197,7 +197,7 @@
 
 | Words | File | Character |
 |-------|------|-----------|
-| 9,779 | geode_inn_npc_joe.md | NPC: Joe (the biggest NPC doc!) |
+| 9,779 | geode_inn_npc_collector.md | NPC: Joe (the biggest NPC doc!) |
 | 4,806 | geode_inn_npc_oceanianoir.md | NPC: Oceanianoir |
 | 5,634 | geode_inn_npc_thorin_marijke.md | NPC: Thorin & Marijke |
 | 3,710 | geode_inn_npc_eileen.md | NPC: Aurallia |
@@ -235,7 +235,7 @@
 | 2,302 | geode_inn_table_dynamics.md | Round Table Group Dynamics |
 | 2,287 | geode_inn_galahad.md | Galahad |
 | 1,937 | geode_inn_arthur.md | King Arthur |
-| 1,707 | geode_inn_madame_mim.md | Madame Mimm |
+| 1,707 | geode_inn_madame_mim.md | Brim |
 | 3,615 | geode_inn_merlin_archimedes.md | Merlin and Noctua |
 
 ---

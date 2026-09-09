@@ -67,7 +67,7 @@ Every markdown document in the Geode Inn repository (255 files, ~750k words) has
 40. The Bard Blowhard (Dad)
 41. Newton
 42. Hel
-43. Madame Mimm
+43. Brim
 
 ### Batch 6: Zones Batch 1 (`solidification_batch_zones_1.md`)
 44. Atlantis Zone — The Fossilized Leviathan (Acoustic Cavitation)

@@ -195,7 +195,7 @@ One more book than the Living Inn: the player's own story. Title: "The Player Wh
 
 **The Catalyst** — petrified mid-pour. The drink is a frozen arc of gold liquid. The Catalyst's other hand holds a portal arrow, fully grown, pointing at a location the player hasn't been. The Catalyst's garden is frozen — the portal arrows are all grown, all pointed at different destinations. The player can read each arrow's direction. The Catalyst's expression: the performance is over. The mask is off. Under the chaos, the Catalyst's face is calm. The Catalyst was always calm underneath.
 
-**Madame Mimm** — petrified on the pipe. "Ceci n'est pas une pipe" — the pipe is stone. The Magritte reference is complete: the representation IS the thing, because the thing is now stone, and the stone is permanent. The pipe that was "not a pipe" is now definitively not a pipe. The thesis is proven. Madame Mimm's expression: satisfied. The joke landed.
+**Brim** — petrified on the pipe. "Ceci n'est pas une pipe" — the pipe is stone. The Magritte reference is complete: the representation IS the thing, because the thing is now stone, and the stone is permanent. The pipe that was "not a pipe" is now definitively not a pipe. The thesis is proven. Brim's expression: satisfied. The joke landed.
 
 **The Wanderer** — (see above — petrified by the quest board, home at last)
 

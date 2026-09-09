@@ -23,7 +23,7 @@ The 42Hz Song is the answer. The universe's punchline. Douglas Adams hid the ans
 |-------|-------|--------|---------------|
 | Cosmology | Asgard | Complete | The Constant, Nyx, the Astronomer, the Guest, the Captain, the Cabbit, the Cosmic Crew |
 | Canopy City | Vanaheim | Complete | The Cartographer, the Examiner, the Seelie Royalty, Fibonacci, the Fizgigs |
-| Main Floor | Midgard | Complete | The Host, the Bard, the Pirate, the Crone, Erik, Lark, Madame Mimm, the Market |
+| Main Floor | Midgard | Complete | The Host, the Bard, the Pirate, the Crone, Erik, Lark, Brim, the Market |
 | Campgrounds | Jotunheim | Complete | Fire pit, outdoor gathering |
 | Staircase | Bifrost | Complete | Nigredo (Socrates), Albedo (Plato), Rubedo (Aristotle), the Retort, the Cook, the Five Smiths, Gesso, da Vinci, Charon, Persephone, Hades, Hel, Asterion, Malachi, the Morrigan |
 | Catacombs | Niflheim | Complete | Beverley (navigation), Charles (Natural Archive), the Crone (archive) |

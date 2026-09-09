@@ -261,7 +261,7 @@
 | # | Character | Status | Notes |
 |---|---|---|---|
 | 1 | The Siren (v2 → v3 water version) | 🔄 UPDATE | Needs water/deep-water gothic anime render |
-| 2 | Madame (Madame Mimm) | 🔄 UPDATE | Only v1 exists, may need v2 |
+| 2 | Madame (Brim) | 🔄 UPDATE | Only v1 exists, may need v2 |
 
 ### Game/Zone Art Still Needed
 | # | Asset | Status | Notes |

@@ -40,7 +40,7 @@ This document adds all remaining NPCs and creatures to the Geode Inn. Every frie
 
 **The person:** The Archivist is one of Krista's closest friends — a fact Krista is genuinely shocked to have forgotten. The Archivist plays tabletop for fun. The Archivist's defining childhood story: at age 9, when the fair opened for the first time, The Archivist amused himself for years working on a giant chess board and beating people at the game. Not just playing — building the board, then dominating it. A nine-year-old with a giant chess board, methodically dismantling opponents. The Archivist loves the Dresden Files — Jim Butcher's series about Harry Dresden, a wizard detective in Chicago who uses magic practically, wisecracks constantly, and solves supernatural cases with a combination of brute force, clever thinking, and an unreliable Jeep.
 
-**In the Inn:** The Archivist is a chess wizard. Not a wizard who plays chess — a wizard whose magic IS chess. The giant chess board The Archivist built as a child becomes the Inn's chess mechanic: a living chess board in the Camelot/Celtic zone, where the pieces are animated figures (Joe could paint them — the miniature painter and the chess wizard, the both are: the adequate, the same craft, different game).
+**In the Inn:** The Archivist is a chess wizard. Not a wizard who plays chess — a wizard whose magic IS chess. The giant chess board The Archivist built as a child becomes the Inn's chess mechanic: a living chess board in the Camelot/Celtic zone, where the pieces are animated figures (The Collector could paint them — the miniature painter and the chess wizard, the both are: the adequate, the same craft, different game).
 
 **The Dresden influence:** The Archivist's character aesthetic is Dresden Files energy — practical magic, not cosmic. A working wizard, not a theorist. The Archivist doesn't cast grand spells. The Archivist reads the situation, identifies the pattern, makes the move that nobody saw coming until it's already done. The chess board is The Archivist's laboratory. The pieces are The Archivist's variables. The game is The Archivist's magic.
 
@@ -56,7 +56,7 @@ This document adds all remaining NPCs and creatures to the Geode Inn. Every frie
 3. **Tabletop Connection** — The Archivist is the Inn's tabletop gaming anchor. The tabletop questline voice — the clever, direct, Patrick Rothfuss cadence — IS The Archivist's natural speaking voice. The Archivist is the voice of the questlines. The NPC who writes the quests is The Archivist. The tabletop is the Inn's narrative engine, and The Archivist is the dungeon master.
 
 **Connections:**
-- **Joe (the Miniaturist):** Joe paints the chess pieces. The Archivist plays them. The both are: the adequate — the painter and the player, the same game, different role.
+- **The Collector (the Miniaturist):** The Collector paints the chess pieces. The Archivist plays them. The both are: the adequate — the painter and the player, the same game, different role.
 - **Oceanianoir (the puzzle designer):** Oceanianoir designs puzzles for Mensa. The Archivist solves puzzles for fun. The both are: the adequate — the puzzle and the solver, the same challenge, different side.
 - **Kathy (the druid):** The chess board is made of living wood — Kathy grew it. The pieces grow into new configurations between games. The Archivist and Kathy have a friendly disagreement about whether the board should be allowed to "evolve" (Kathy's position) or whether it should stay the same until the game is finished (The Archivist's position). The board does what it wants.
 - **The Camelot/Celtic Zone:** The chess board is the Round Table's other face — the table as a game, not just an instrument. The knights ARE chess pieces. Arthur IS the king. The quest IS the game. The Archivist figured this out. Kathy confirmed it. Neither of them has told the other knights.
@@ -82,7 +82,7 @@ The studio contains:
 - A large worktable covered in Prismacolor pencils and Bristol paper (Rachel's real-world mural design process — drawn out on Bristol paper with Prismacolor pencils, the old-school way)
 - A ceramic tile kiln (connected to the Inn's crafting system — Rachel's tiles can be earned as decorative items)
 - Woodcarving tools (Rachel carves wood — in the Inn, she carves the Inn-Tree's shed bark, giving fallen wood a second life as sculpture)
-- A welding setup (Rachel welds — in the Inn, she welds copper fixtures for the Undercity, connecting her to Joe's copper pipework)
+- A welding setup (Rachel welds — in the Inn, she welds copper fixtures for the Undercity, connecting her to The Collector's copper pipework)
 - A laptop running Stardew Valley (always. Always Stardew Valley. The farm is always in a different season. The NPCs in Stardew Valley are Rachel's version of the Inn's NPCs — she has opinions about all of them. She has married Sebastian in every save file. The both are: the adequate — the real game and the game-within-a-game, the same farming, different world.)
 
 **Rachel's Murals:** Rachel's murals appear throughout the Inn — large-scale paintings on the Spiral Gallery walls, ceramic tile installations in the Common Room, carved wood panels in the main floor. Her art style is inspired by nature and harmony, which in the Inn means: the 42Hz Song made visible in pigment and clay. Her murals are the Inn's visual soul — not concept art, not decoration, but the Inn expressing itself through someone who has been making art for 30 years and knows exactly what she's doing.
@@ -143,7 +143,7 @@ The studio contains:
 
 **Personality:** TBD from write-up. Placeholder: the game tester's instinct — methodical, thorough, skeptical of "it works fine" claims, delighted by edge cases. The kind of person who says "what happens if I do this" and everyone else says "don't" and they do it anyway and something breaks and they say "see, that's a bug" with satisfaction.
 
-**Role in the Inn:** Marion is the Inn's stress tester — the NPC who tests every game, every puzzle, every mechanic before it goes live. The character who finds the exploits, the loopholes, the "actually, if you combine this charm with this frequency while standing on this tile..." combos. Marion is the reason the Inn's games are balanced. Marion is also the reason Joe and Oceanianoir have jobs — Joe builds, Oceanianoir puzzles, Marion breaks, and then the cycle repeats.
+**Role in the Inn:** Marion is the Inn's stress tester — the NPC who tests every game, every puzzle, every mechanic before it goes live. The character who finds the exploits, the loopholes, the "actually, if you combine this charm with this frequency while standing on this tile..." combos. Marion is the reason the Inn's games are balanced. Marion is also the reason The Collector and Oceanianoir have jobs — The Collector builds, Oceanianoir puzzles, Marion breaks, and then the cycle repeats.
 
 **Connection to Zack:** Zack is the playthrough Astronomer — the person who plays games systematically and comprehensively. Marion is the person who plays games destructively and creatively. The both are: the adequate — the thorough and the destructive, the same testing, different approach. Zack wants to complete everything. Marion wants to break everything. Together, they are the Inn's QA department.
 
@@ -280,7 +280,7 @@ Savannah cats are a real breed — a hybrid of domestic cat and serval, with spo
 
 **Appearance:** Tall, lean, spotted. The look of a small cheetah crossed with a dragon — the spots could be scales at a glance, the ears are oversized and bat-like, the tail is long and whiplike. They are the Inn's most exotic-looking cats. When they sit still in firelight, the spots shift and the scales theory becomes plausible.
 
-**Where they live:** The warm zones — the main floor hearth, the Undercity (Joe's studio has a Savannah cat that watches the miniatures come to life with an expression of territorial superiority), the Campgrounds tavern (Jay's "Huntsman's Gold" attracts them — they like the warmth of the fermentation).
+**Where they live:** The warm zones — the main floor hearth, the Undercity (The Collector's studio has a Savannah cat that watches the miniatures come to life with an expression of territorial superiority), the Campgrounds tavern (Jay's "Huntsman's Gold" attracts them — they like the warmth of the fermentation).
 
 **Connection to dragon kittens:** The Savannah cats and the dragon kittens have an understanding. The Savannah cats are the dragon kittens' bigger, wilder cousins. They don't interact much, but when they do, there is a recognition — the draconic bloodline in the Savannah cats' wild ancestry resonates with the draconic magic in the dragon kittens' paint. The both are: the adequate — the wild and the painted, the same dragon, different origin.
 
@@ -304,9 +304,9 @@ Bearded dragons that are too big for a bearded dragon but keep the clever, laid-
 
 **Appearance:** Full-sized bearded dragon proportions but scaled up — the size of a medium dog. Spiky-looking but soft to the touch (the spikes are for show, the personality is for real). The "beard" (the throat pouch) puffs when they're content, not when they're threatened. In the Inn, a puffed beard means happiness. This is backwards from real bearded dragons. The Inn's bearded dragons have evolved.
 
-**Behavior:** They bask. On warm stones, on copper pipes (Joe's Undercity pipework has a bearded dragon on every third pipe), on the Ent's exposed roots. They are the Undercity's ambient warmth — the living heating system. They are completely docile. They can be picked up. They will sit on your lap. They will fall asleep. They are the Inn's most accessible reptile — the gateway lizard.
+**Behavior:** They bask. On warm stones, on copper pipes (The Collector's Undercity pipework has a bearded dragon on every third pipe), on the Ent's exposed roots. They are the Undercity's ambient warmth — the living heating system. They are completely docile. They can be picked up. They will sit on your lap. They will fall asleep. They are the Inn's most accessible reptile — the gateway lizard.
 
-**Connection to Joe:** Joe adores reptiles (Oceanianoir does too — the both are: the adequate). The bearded dragons in Joe's studio are his breaks — when the painting is too precise and the curse is too heavy, Joe puts down the brush and holds a bearded dragon. The both are: the adequate — the vampire and the lizard, the same warmth, different metabolism.
+**Connection to The Collector:** The Collector adores reptiles (Oceanianoir does too — the both are: the adequate). The bearded dragons in The Collector's studio are his breaks — when the painting is too precise and the curse is too heavy, The Collector puts down the brush and holds a bearded dragon. The both are: the adequate — the vampire and the lizard, the same warmth, different metabolism.
 
 **Connection to Oceanianoir:** Oceanianoir's real-world love of reptiles is expressed in the Inn through the bearded dragons. They are the Inn's tribute to Oceanianoir's passion — the reptiles that are sweet enough for anyone to love, even people who are afraid of scales.
 
@@ -472,7 +472,7 @@ A dozen customizable character slots that can be personalized for friends of the
 | Customizable Dozen | 0 | 12 | 12 |
 | **GRAND TOTAL** | **200** | **~51** | **~251** |
 
-Every door in the Inn has someone behind it. Every warm corner has a cat. Every cold ledge has a frog. The Inn is full and the Inn is still growing, because Kathy is still growing it and Joe is still painting it and the both are: the adequate — the full and the growing, the same Inn, different day.
+Every door in the Inn has someone behind it. Every warm corner has a cat. Every cold ledge has a frog. The Inn is full and the Inn is still growing, because Kathy is still growing it and The Collector is still painting it and the both are: the adequate — the full and the growing, the same Inn, different day.
 
 ---
 

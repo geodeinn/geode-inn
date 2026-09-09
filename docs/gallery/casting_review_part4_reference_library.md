@@ -60,7 +60,7 @@ Recovered from library/art (66 images, uploaded 2026-09-04). Filenames are legac
 <code>Leonardo_da_Vinci.png</code> — *casting shorthand; features softened in final art*
 <img src="https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/98adf84f3_Leonardo_da_Vinci.png" width="340" alt=""/>
 <hr/>
-### Madame Mimm
+### Brim
 <code>Madame_Mim.png</code> — *legacy filename*
 <img src="https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/533cc95dd_Madame_Mim.png" width="340" alt=""/>
 <hr/>

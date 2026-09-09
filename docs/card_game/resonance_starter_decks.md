@@ -47,7 +47,7 @@
 | # | Name | Role | Ability |
 |---|------|------|---------|
 | 1 | Mona | The Maker | Once per game: rearrange all stones on your board freely |
-| 2 | Joe | The Painter | Once per game: copy any opponent's stone card |
+| 2 | The Collector | The Painter | Once per game: copy any opponent's stone card |
 | 3 | Briar Nightbloom | Market Manager | Once per game: swap one of your stones for one from the deck |
 | 4 | Beverley | The Librarian | Once per game: see opponent's hand, take one card |
 | 5 | Elio | The Innkeeper | Passive: all stones on your board match at +1 frequency level |
@@ -147,7 +147,7 @@
 | 1 | Lozen | The Sentinel | Once per game: challenge one opponent stone — higher resonance wins, loser is removed |
 | 2 | The Gatekeeper Gargoyle | Sentinel | Passive: opponent must pay 1 action to play stones in your zone |
 | 3 | The Watcher Gargoyle | Sentinel | Once per game: freeze one zone — no stones can be played there for 2 turns |
-| 4 | Madame Mimm | The Crone | Once per game: transform one stone into any frequency |
+| 4 | Brim | The Crone | Once per game: transform one stone into any frequency |
 | 5 | The Keeper Gargoyle | Sentinel | Passive: your stones with resonance 2 or lower cannot be removed |
 
 ---
@@ -194,7 +194,7 @@
 | # | Name | Role | Ability |
 |---|------|------|---------|
 | 1 | Mona | The Maker | Once per game: transform the entire board to one frequency |
-| 2 | Madame Mimm | The Crone | Once per game: reverse all frequency assignments (42↔84, 111↔432) |
+| 2 | Brim | The Crone | Once per game: reverse all frequency assignments (42↔84, 111↔432) |
 | 3 | The Caller Gargoyle | Sentinel | Once per game: call back one removed stone from your discard |
 | 4 | Charles | The Chameleon Druid | Passive: each turn, your stones may shift frequency by 1 level |
 | 5 | Elio | The Innkeeper | Once per game: the In-Between frequency activates — all stones match all frequencies for 1 turn |

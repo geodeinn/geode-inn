@@ -77,7 +77,7 @@
 | Aurallia | https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/2cde472c8_eileen.png |
 | The Smiths | https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/416a46918_five_smiths.png |
 | The Artisan Thief | https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/e68edde2f_artisan_thief_selkie.png |
-| Joe | https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/3e40c69a2_joe_miniaturist_ingame.png |
+| The Collector | https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/3e40c69a2_joe_miniaturist_ingame.png |
 | Odin the Wanderer | https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/f2d6975dd_odin_wanderer.png |
 | Odin the Allfather | https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/748c2a91f_odin_allfather.png |
 | The Fixer (Wrought) | https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/4aeeacaad_the_fixer_wrought.png |
@@ -92,7 +92,7 @@
 | Hades | https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/5f2730455_hades_v2.png |
 | Charon | https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/f8cd64464_charon_v2.png |
 | The Guest (Death) | https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/1bbf5d607_the_guest_death_v2.png |
-| Madame Mimm (Madame Mimm) | https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/3579d1a39_madame_mim.png |
+| Brim (Brim) | https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/3579d1a39_madame_mim.png |
 | Merlin/Noctua | https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/a6f168534_merlin_archimedes.png |
 | Thorin | https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/91c858ca2_thorin_v3.png |
 | Marijke | https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/b6f85756a_marijke.png |
@@ -187,7 +187,7 @@ Filenames are legacy per the naming policy; display names are canonical (see cha
 - Leonardo da Vinci — the Council of Thinkers (casting shorthand; features softened in final art)
   - File: `Leonardo_da_Vinci.png`
   - URL: https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/98adf84f3_Leonardo_da_Vinci.png
-- Madame Mimm (legacy filename)
+- Brim (legacy filename)
   - File: `Madame_Mim.png`
   - URL: https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/533cc95dd_Madame_Mim.png
 - Merlin and Noctua (owl's legacy name in filename)

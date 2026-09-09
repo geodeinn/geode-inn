@@ -30,7 +30,7 @@ Before the Song, there was the Murmur. Not sound — not yet. The Murmur is what
 
 **Einstein & the Observatory** — Magritte painting made architecture. "The Double Secret." Einstein sits in the grey In-Between eating a half-finished burrito. "You are not walking through the Inn. The Inn is walking through you." The mundane IS the cosmic.
 
-**Madame Mimm's Pipe** — "Ceci n'est pas une pipe." The Inn's thesis statement: the representation is not the thing.
+**Brim's Pipe** — "Ceci n'est pas une pipe." The Inn's thesis statement: the representation is not the thing.
 
 ---
 
@@ -139,7 +139,7 @@ The Inn's social and economic hub. The Arcade, the Wanderer's quests, the growth
 **Key Characters:**
 - **The Crone (Hopkins)** — Krista's mother. Archive keeper. Measures everything. "Adequate." Learns to listen to the Song. The Hopkins gaze — clear, seeing, the one unsoftened celebrity feature in Geode Inn art.
 - **The Catalyst (Helena Bonham Carter)** — Bar/garden. Grows portal arrows. Growth by WILL vs. The Greenward's growth by COMMUNION. Mrs. Lovett energy. The Spirit.
-- **Madame Mimm** — Inner chaos agent. Rides a Magritte pipe. Breaks formulas to reveal secret paths. Belladonna energy.
+- **Brim** — Inner chaos agent. Rides a Magritte pipe. Breaks formulas to reveal secret paths. Belladonna energy.
 - **The Thrum (Ben Whishaw)** — Translucent low-frequency entity. Teaches: essence precedes appearance, timing precedes rhythm.
 - **The Brownies** — Anarcho-syndicalist maintenance commune. 2-foot spirits with brooms/coconut shells. Become Boggarts if contract breached. The Constitutional Peasants (Monty Python coconut shells). The Keeper's Entourage (with Grit).
 - **The Story-Born Ents (4)** — The Wayfarer (travel), The Hearthkeeper (staying), The Mourner (grief), The Laughing One (joy).
@@ -477,7 +477,7 @@ Oceanianoir (Living Archive), Joe (Vampire Sorcerer/Miniaturist), Lichenblossom 
 Anubis, Persephone and Hades, Morrigan and Mab, Loki, Hel, Arthur + Galahad + Merlin, Medusa, Mulan, Gilgamesh and Enkidu, The Greenward and The Bearsark, Miracle Max, Inn-Tree and 4 Ents, Odin's Ravens, Ceiling Gnome (Gesso), Greek Philosophers.
 
 ### Shoulder Companions
-- **Madame Mimm (on a pipe)** — The musical principle of improvisation.
+- **Brim (on a pipe)** — The musical principle of improvisation.
 - **The Crested Gecko (The Vessel)** — The musical principle of composition.
 - **The Hearth Tender (Dobby archetype)** — The quiet witness to the Firekeeper. Pairs with Bramble as a seer.
 - **The Tunnel Keeper (Hoggle archetype)** — The physical explorer of the Catacombs.

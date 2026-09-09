@@ -55,7 +55,7 @@ A coinciding list of every created character, critter, creature, and item with v
 | 35 | Aurallia (The One Who Tends) | Main Floor (L3) | ✅ Portrait | Hearth keeper |
 | 36 | The Smiths (Five Smiths) | Staircase (L5) | ✅ Portrait | |
 | 37 | The Artisan Thief (Selkie) | Main Floor (L3) / Market | ✅ Portrait | |
-| 38 | Joe (The Miniaturist) | Main Floor (L3) / Studio | ✅ Portrait | Paints dragon kittens, Tom Ellis Lucifer cadence |
+| 38 | The Collector (The Miniaturist) | Main Floor (L3) / Studio | ✅ Portrait | Paints dragon kittens, Tom Ellis Lucifer cadence |
 | 39 | The Fixer (Wrought) | Staircase (L5) | ✅ Portrait | |
 | 40 | The Ceiling Gnome (Gesso) | Staircase (L5) / Ceiling | ✅ Portrait | Whisper Layer positioning |
 | 41 | Naut (The Scholar) | Main Floor (L3) / Archive | ✅ Portrait | Formerly Naut, 4-foot squid-headed scholar by fireplace |
@@ -71,7 +71,7 @@ A coinciding list of every created character, critter, creature, and item with v
 | 51 | Marijke | Meadery (z29) | ✅ Portrait | |
 | 52 | The Pirate | Water Zone (L8) / Campgrounds | ✅ Portrait | |
 | 53 | The Gardener (The Greenward) | Garden (z28) | ✅ Portrait | |
-| 54 | Madame Mimm (Madame Mimm) | Main Floor (L3) | ✅ Portrait | Formerly Madame Mimm |
+| 54 | Brim (Brim) | Main Floor (L3) | ✅ Portrait | Formerly Brim |
 | 55 | The Cook | Main Floor (L3) | ✅ Portrait | |
 | 56 | Erik (Norse Feast Host) | Norse Realms (z26) / Meadery | ✅ Portrait | |
 | 57 | The Wayfarer | Camelot (z20) / Norse Realms | ✅ Portrait | |
@@ -397,11 +397,11 @@ Each shadow echo is the 84Hz petrified version of its living counterpart — the
 
 ## NAMING CONVENTIONS (Confirmed Decisions)
 
-- Madame Mimm → **Madame Mimm**
+- Brim → **Brim**
 - Naut → **Naut**
 - Player Guide → **Lark**
 - John Myers → **Quire** (NPC) / John Myers (real player)
-- Madame Mimm → **Madame Mimm**
+- Brim → **Brim**
 - The Scholar → **Naut**
 - The Sentinel → **Lozen** (class title was "The Sentinel," character name is Lozen)
 - Unseelie King → **Malachi**

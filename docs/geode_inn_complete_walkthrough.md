@@ -301,9 +301,9 @@ A resident of the main floor who uses a Rosicrucian hum to make inhabitants view
 
 ---
 
-## 3.7 — Madame Mimm
+## 3.7 — Brim
 
-Krista's permanent chaos companion — a trickster shoulder angel. Madame Mimm is the inner voice that says "but what if we did the fun wrong version?" She connects to Krista's Belladonna identity and the Cozy Gothic aesthetic. Madame Mimm doesn't guide the player — Madame Mimm TEMPTS the player, playfully, toward the more interesting choice.
+Krista's permanent chaos companion — a trickster shoulder angel. Brim is the inner voice that says "but what if we did the fun wrong version?" She connects to Krista's Belladonna identity and the Cozy Gothic aesthetic. Brim doesn't guide the player — Brim TEMPTS the player, playfully, toward the more interesting choice.
 
 ---
 
@@ -1089,7 +1089,7 @@ This narrative runs UNDERNEATH all game mechanics. The stones, the map, the Fae 
 | The Thrum | Ben Whishaw | Silhouette-maker, presence over hierarchy | Rosicrucian hum |
 | The Catalyst | Helena Bonham Carter | Bartender, information hub, botanical gifts | Mrs. Lovett energy |
 | Naut | — | Squid-headed scholar, hidden quest giver | Quiet academic |
-| Madame Mimm | — | Chaos companion, trickster shoulder angel | Playful chaos |
+| Brim | — | Chaos companion, trickster shoulder angel | Playful chaos |
 
 ### Canopy City
 | Character | Casting | Role | Voice |

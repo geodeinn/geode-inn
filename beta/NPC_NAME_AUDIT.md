@@ -4,7 +4,7 @@
 
 ### NPC renames (book/movie character names → original):
 1. **Lark → Lark** — Was a title, not a name. Songbird, fits the Inn's music/sound theme.
-2. **Madame Mimm → Madame Mimm** — Originated from "Madame Madame Mimm" (T.H. White, Sword in the Stone, 1938). "Madame Mimm" = brimstone, brim of a hat. Witchy without being derivative.
+2. **Brim → Brim** — Originated from "Madame Brim" (T.H. White, Sword in the Stone, 1938). "Brim" = brimstone, brim of a hat. Witchy without being derivative.
 3. **Naut → Naut** — Lovecraft character. "Naut" = from nautilus (cephalopod), scholarly, short and memorable. "Naut, the Deep Scholar."
 
 ### Name corrected (not a movie reference — real friend):
@@ -23,7 +23,7 @@ All real actor names removed from voice profiles. Now purely descriptive cadence
 - WorldMap Peru artist corrected from "Olmos × Royo" (actor) to "Guo Xi × Royo" (correct visual artist).
 
 ## Confirmed clean (29 unique NPC names, all original or public domain):
-Wisteria, Beverley, Bog Fairy Golem (The), Madame Mimm, Brindle, Crone (The), Briar Nightbloom, Eres, Evan, Joe, Lozen (visiting friend), Kathy, Lark, Malachi, Monsieur Sentient, Naut, Oleander, Owl (The), Rachel Kaiser, Reader (The), River, Selkie, Stephanie, Teacher (The), Tumble, Wanderer (The), Will, Zack, Allfather (The)
+Wisteria, Beverley, Bog Fairy Golem (The), Brim, Brindle, Crone (The), Briar Nightbloom, Eres, Evan, Joe, Lozen (visiting friend), Kathy, Lark, Malachi, Monsieur Sentient, Naut, Oleander, Owl (The), Rachel Kaiser, Reader (The), River, Selkie, Stephanie, Teacher (The), Tumble, Wanderer (The), Will, Zack, Allfather (The)
 
 ## Kept as production direction (not NPC names):
 - Anthony Hopkins' eyes — confirmed design decision for The Reader's eye rendering. Lives in PROMPT_SCRIPTS.md only.

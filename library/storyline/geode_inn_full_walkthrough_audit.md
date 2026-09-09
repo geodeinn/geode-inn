@@ -271,7 +271,7 @@ The ground level and heart of the Geode Inn. Anti-FOMO sanctuary. The default st
 | **The Crone** | Anthony Hopkins | Measurer and annotator; says "Adequate" (highest compliment) |
 | **The Catalyst** | Helena Bonham Carter | Mrs. Lovett-inspired bartender; grows an impossible garden on the Ent's bark |
 | **The Thrum** | Ben Whishaw | Silhouette-maker; Rosicrucian hum; renders inhabitants as silhouettes to show presence over status |
-| **Madame Mimm** | — | Krista's trickster shoulder angel; chaos agent; rides Magritte's pipe |
+| **Brim** | — | Krista's trickster shoulder angel; chaos agent; rides Magritte's pipe |
 | **Naut** | Gary Oldman / Geoffrey Rush | 4-foot squid-headed scholar; fireplace nook; hidden quest-giver for rare book retrieval |
 | **The Bard** | Krista's Dad (Bart) | Dwarf bard; room-filler; ADHD-pattern thinker; best friend of The Pirate |
 | **The Wanderer (Odin)** | — | Approachable traveler with chibi thieving ravens Huginn & Muninn |
@@ -463,7 +463,7 @@ The pre-frequency ground state — the raw, unorganized vibration that predates 
 The physical container of the Murmur. Found at the deepest point of the In-Between. When the player gathers all companion voices, the Egg opens to reveal: **the player IS the Murmur**. The observer. The selkie skin / jeweler's apron was the Egg's shell all along.
 
 ### The Einstein Burrito
-After the cosmic revelation, the Crone tries to measure the Egg and delivers her first joke in 42 cycles: "...It was shaped like a burrito." Madame Mimm scrambles the formula into beans, the Duck offers a stone side, Einstein's candle laughs. Comedy is a core cosmological pillar.
+After the cosmic revelation, the Crone tries to measure the Egg and delivers her first joke in 42 cycles: "...It was shaped like a burrito." Brim scrambles the formula into beans, the Duck offers a stone side, Einstein's candle laughs. Comedy is a core cosmological pillar.
 
 ### The Endgame Sequence
 Nyx's Silence → Astronomer's Calculation → Medusa freezes singing vines with gaze → Lithophone plays completed 44Hz Song → Silica resonance projects lullaby into the Moon → Sleeping Giants wake → Cabbit transforms into ship → Constant departs into the Void → New Game Plus (play as any character)

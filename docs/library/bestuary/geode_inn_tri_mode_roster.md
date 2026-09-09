@@ -40,7 +40,7 @@
 | Malachi (Unseelie King) | https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/168ee2105_generated_image.png |
 | Lark (Player Guide) | https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/f8c1f7e19_generated_image.png |
 | The Keeper | https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/91e2cb6e6_generated_image.png |
-| Madame Mimm (Madame Mimm) | https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/683d9db64_generated_image.png |
+| Brim (Brim) | https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/683d9db64_generated_image.png |
 | The Firekeeper | https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/8f71f4d57_generated_image.png |
 | The Fixer | https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/650a450db_generated_image.png |
 | The Five Smiths | https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/d30d4b24c_generated_image.png |

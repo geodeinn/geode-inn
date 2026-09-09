@@ -77,7 +77,7 @@ The most dangerous puzzle type. Parts of the In-Between are being erased — the
 
 The player must move through erasing areas quickly — but not too quickly, because the puzzles in these areas require careful, deliberate movement (pushing a stone into a specific position, pulling a chain at the right time). The tension is: the world is disappearing, and the puzzle requires patience. The erasure says: hurry. The puzzle says: be precise. The both are: the In-Between.
 
-**Connection to the Erasure mechanic:** The Erasure is the third threat stage from the Vampire Survivors-style game ("Madame Mimm's Messes" → "Discordance" → "Erasures"). The In-Between is where the Erasure lives. The platformer is the Erasure's home territory — the place where things stop being things. The figure navigating an erasing corridor is the player experiencing the Erasure at personal scale, one step at a time, instead of at combat scale.
+**Connection to the Erasure mechanic:** The Erasure is the third threat stage from the Vampire Survivors-style game ("Brim's Messes" → "Discordance" → "Erasures"). The In-Between is where the Erasure lives. The platformer is the Erasure's home territory — the place where things stop being things. The figure navigating an erasing corridor is the player experiencing the Erasure at personal scale, one step at a time, instead of at combat scale.
 
 ---
 

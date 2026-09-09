@@ -33,7 +33,7 @@ This is the coinciding master list — every character, creature, and artifact c
 | 26 | The Fixer (Wrought) | Repairs everything | the_fixer_wrought.png | ✅ Uploaded |
 | 27 | The Cook | Kitchen master | the_cook_v2.png | ✅ npc_remaining |
 | 28 | Joe | Miniaturist, paints dragon kittens | joe_miniaturist_ingame.png | ✅ Uploaded |
-| 29 | Madame Mimm | Pipe smoker (formerly Mim) | madame_mim.png | ✅ npc_remaining |
+| 29 | Brim | Pipe smoker (formerly Mim) | madame_mim.png | ✅ npc_remaining |
 | 30 | Monsieur Sentient | Sentient pipe (Magritte) | magrittes_pipe.png | ✅ npc_remaining |
 | 31 | The Weaver | Textiles, tapestries | the_weaver.png | ✅ npc_remaining |
 | 32 | The Examiner | Fragment 849 quest chain | the_examiner_v2.png | ✅ npc_remaining |

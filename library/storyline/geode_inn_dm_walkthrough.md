@@ -73,9 +73,9 @@ The bartender. Mrs. Lovett energy — performative chaos masking a deeply ground
 
 The Catalyst vs. the Gardener (The Greenward): the Catalyst grows through WILL (telling the garden what to do). The Gardener grows through COMMUNION (asking the garden what it needs). Their rivalry is symbiotic — they need each other.
 
-### Madame Mimm
+### Brim
 
-The inner chaos agent. Belladonna energy. Madame Mimm doesn't guide the player — Madame Mimm TEMPTS the player, playfully, toward the more interesting choice. The voice that says: "but what if we did the fun wrong version?" The Magritte pipe floats near her, whispering "Ceci n'est pas une pipe." The pipe is alive. It trades items. It is both a joke and the Inn's thesis statement: the representation is not the thing.
+The inner chaos agent. Belladonna energy. Brim doesn't guide the player — Brim TEMPTS the player, playfully, toward the more interesting choice. The voice that says: "but what if we did the fun wrong version?" The Magritte pipe floats near her, whispering "Ceci n'est pas une pipe." The pipe is alive. It trades items. It is both a joke and the Inn's thesis statement: the representation is not the thing.
 
 ### The Arcade
 

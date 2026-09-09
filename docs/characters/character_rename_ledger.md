@@ -16,7 +16,7 @@
 | **Lozen** | River (class title: The Sentinel) | All character references updated. Literal rivers in world lore are untouched. |
 | **Charles** | — | The Chameleon Druid. Already canonical throughout the storyline. |
 | **Eres** | — | The Cabbit. Already canonical. |
-| **Madame Mimm** | Madame Mimm (earlier: Madame Mim, Mim) | Display name **Mimm**; full title **Madame Mimm**. OPEN QUESTION for Krista: card game + Egg Hatchery Event 1 currently associate this character with "the Crone" — are Madame Mimm and the Crone the same character or separate? (The Crone is Krista's mom, whose chosen Latvian name is pending.) |
+| **Brim** | Madame Mim, Mim, Mimm | Pipe-smoking chaos agent, Magritte pipe companion. Krista 2026-09-09: "Mimm or Brim, whichever fits best" — **Brim chosen**: already canonical since Sept 3, original (keeps distance from the Disney witch of Sword in the Stone per the copyright shield), and it fits her — brimstone, brimming over, the hat brim over knowing eyes. OPEN QUESTION (still open): card decks + Egg Hatchery Event 1 tie Brim to "the Crone" — same character, or separate from the Crone (Krista's mom, Latvian name pending)? |
 | **Oleander** | (the Seelie King, unnamed) | The Seelie King. The title "the Seelie King" remains valid as a descriptor/reference; the character's name is Oleander. |
 | **Malachi** | Malachi | The Unseelie King, the goblin king. Bowie/Labyrinth remains as craft/casting reference only. |
 | **Wisteria** | Wisteria | The tavern keeper's wife (Jay's campsite tavern family). |
@@ -24,7 +24,7 @@
 | **Vaulknut** | Krista (as player character) | In-game name for the Bog Fairy Golem / Artisan Thief / Selkie. Authorship credits and real-world references remain "Krista." |
 | **Zeke** | Zeke | The Pirate. "The Pirate" remains correct in reference contexts (not direct address). The real person asked for this name — it's what people call him in real life (he tries to just be Zeke). Full name: Zaragoza — "the lesser of two evils." RUNNING GAG: when someone annoys his NPC enough, he informs them his full name is actually Ezekiel. Very calmly. As he sails away. |
 | **Katya** | Katya | The Siren / water guardian. In-world: Vaulknut's sister. SPELLING RULE: when Vaulknut (and only Vaulknut) says her name directly in dialogue, it is spelled **Katija** — the way she actually wants it, indulged only in defiance of their mother's wrath. (Nod to grandmother Velta — fluent in Russian and Latvian by age two, rumored Russian royal lineage, died before Krista was born.) |
-| **The Collector** | Joe | Undercity NPC. Wife: **Siobhan**. Son: **Liam**. OPEN QUESTION for Krista: docs also list "Joe the Miniaturist/Painter" (paints the Camelot chess pieces) — same person as The Collector, or a separate NPC? |
+| **The Collector** | Joe | Undercity NPC; also the Miniaturist/Painter who paints the Camelot chess pieces (same person — confirmed by Krista 2026-09-09). Wife: **Siobhan**. Son: **Liam**. Real person keeps "Joe" in real-world contexts. |
 | **The Archivist** | Evan | The chess wizard of the Camelot/Celtic zone (giant living chess board; Dresden Files energy). Real person keeps the name Evan in real-world contexts. |
 | **Oceanianoir** | Jaime | Always with the i. The Living Archive. Non-storyline character: she may name it whatever she chooses; if she gets drawn into the world good and proper, offer her the option of modifying her character to see what she comes up with. |
 | **Aurallia** | Eileen | The Hearth. Real person keeps her own name. |

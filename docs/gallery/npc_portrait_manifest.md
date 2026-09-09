@@ -13,7 +13,7 @@ Total: 41 portraits found.
 | Aurallia | eileen.png | 1 | ✅
 | The Smiths | five_smiths.png | 1 | ✅
 | The Artisan Thief | artisan_thief_selkie.png | 1 | ✅
-| Joe | joe_miniaturist_ingame.png | 1 | ✅
+| The Collector | joe_miniaturist_ingame.png | 1 | ✅
 | Odin the Wanderer | odin_wanderer.png | 1 | ✅
 | The Fixer | the_fixer_wrought.png | 1 | ✅
 | The Ceiling Gnome | the_ceiling_gnome.png | 1 | ✅
@@ -34,7 +34,7 @@ Total: 41 portraits found.
 | Hades | hades_v2.png | 2 | ✅
 | Charon | charon_v2.png | 2 | ✅
 | The Guest (Death) | the_guest_death_v2.png | 2 | ✅
-| Madame Mimm (Madame Mimm) | madame_mim.png | 2 | ✅
+| Brim (Brim) | madame_mim.png | 2 | ✅
 | Merlin | merlin_archimedes.png | 2 | ✅
 | Noctua | merlin_archimedes.png | 2 | ✅
 | The Shifting Man | the_shifting_man.png | 2 | ✅

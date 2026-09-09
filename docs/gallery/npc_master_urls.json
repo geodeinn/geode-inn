@@ -346,7 +346,7 @@
     },
     {
       "num": 38,
-      "name": "Joe (The Miniaturist)",
+      "name": "The Collector (The Miniaturist)",
       "zone": "Main Floor (L3) / Studio",
       "tier": "TIER 2: KEY NPCs (Major characters with portraits)",
       "living_url": "https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/0e5486f77_joe.png",
@@ -490,7 +490,7 @@
     },
     {
       "num": 54,
-      "name": "Madame Mimm (Madame Mimm)",
+      "name": "Brim (Brim)",
       "zone": "Main Floor (L3)",
       "tier": "TIER 2: KEY NPCs (Major characters with portraits)",
       "living_url": null,

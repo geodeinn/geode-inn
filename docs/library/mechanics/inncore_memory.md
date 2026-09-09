@@ -66,15 +66,15 @@ Spiral Gallery: Carr/Escher/Rothko/Hokusai/Kiefer/Martin
 
 ## Character Naming Decisions
 
-- Mim → Madame Mimm
+- Mim → Brim
 - Cthulhu → Naut
 - Player Guide → Lark
 - John Myers → Quire (Lovecraftian scholar NPC; John Myers remains as the real player)
-- Madame Mim → Madame Mimm
+- Madame Mim → Brim
 - Monsieur Sentient = the sentient pipe
 - Uhtred → The Wayfarer
 - Selkie → Vaulknut (Krista's main character, master crafter in Tidal Caves)
-- Madame Mimm is the official name for the character formerly known as Madame Mimm
+- Brim is the official name for the character formerly known as Brim
 - All actor names stripped from voice profiles
 
 ## Library State

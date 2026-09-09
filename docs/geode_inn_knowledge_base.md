@@ -277,7 +277,7 @@ The entire Inn IS a transducer:
 | Beverley | Archive | Master librarian (Anne Robinson, Australian) | Sharp, dry, precise | "Obviously." |
 | Joe | Studio/Meadery | Miniaturist, paints dragon kittens (Tom Ellis/Lucifer) | Charmingly theatrical | "Delightful." |
 | The Teacher | Archive | Educator (Kathy Bates) | Strict, uncompromising | "Incorrect." |
-| Madame Mimm (Madame Mimm) | Hearth | Witchy hearth NPC | Mischievous, mirrors formulas | "Watch this." |
+| Brim (Brim) | Hearth | Witchy hearth NPC | Mischievous, mirrors formulas | "Watch this." |
 | Monsieur Sentient | Hearth | Sentient pipe | Existentialist, dry | "Absurd." |
 | Naut (Naut) | Fireplace/Archive | Scholar, riddle giver (4ft squid-headed) | Scholarly, quiet | "Fascinating." |
 | The Firekeeper | Hearth | Hearth keeper (Tim Curry energy) | Devoted, theatrical | "Tend." |
@@ -544,7 +544,7 @@ All entities in Base44 app (ID: 6a60f218b0c6605c92fa35c4):
 
 ### Part Structure
 - **Part 1: The Murmur** (Prologue-7) — Creation myth, Inn arrival, Host, Common Room, first stones
-- **Part 2: The Main Floor** (8-16) — Crone, Catalyst, Madame Mimm, Reader, Archive, Music Room, Marketplace, Staircase
+- **Part 2: The Main Floor** (8-16) — Crone, Catalyst, Brim, Reader, Archive, Music Room, Marketplace, Staircase
 - **Part 3: The Descent** (17-24) — Catacombs, Egypt, Greece, Camelot, Norse, Undercity, Fae Kingdom
 - **Part 4: The Ascent** (25-33) — Staircase, Alchemists, Aristotle, Spiral Gallery, Canopy City, Clockwork Skies, Cosmology, Whisper Layer, Einstein
 - **Part 5: The Egg** (34-40) — Deepest chamber, Grand Collision, Three Choices (STAY/LEAVE/HIDE), Final Room, Epilogue

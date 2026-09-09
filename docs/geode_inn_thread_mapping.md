@@ -22,7 +22,7 @@ The novel is the SPINE. Everything else hangs from it. It tells the story of a t
 | The Crone | Ch. 8 | "Adequate," precise, librarian, Maggie Smith/Judi Dench energy |
 | The Catalyst | Ch. 9 | Mrs. Lovett energy, botanical genius, foil to Host |
 | Brownies (Brindle, Cobble, Thatch) | Ch. 10 | Maintenance, comedy, Grit the Fizzgig |
-| Madame Mimm and the Pipe | Ch. 11 | Sentient pipe, Ceci n'est pas une pipe |
+| Brim and the Pipe | Ch. 11 | Sentient pipe, Ceci n'est pas une pipe |
 | The Reader (Quire) | Ch. 12 | Window-seat nook, looks up twice (Whisper Layer moment) |
 | The Archive | Ch. 13 | Library, Beverley the librarian |
 | The Music Room | Ch. 14 | Stone tones, Mohs-to-frequency |

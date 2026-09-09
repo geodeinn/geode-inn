@@ -25,7 +25,7 @@ that defines how the character speaks, their rhythm, tone, and emotional registe
 | Beverley | Anne Robinson cadence, Australian accent | Clipped, dismissive librarian. Two-thirds human height. |
 | Joe | Tom Ellis Lucifer cadence | Smooth, amused, self-aware. |
 | The Teacher | Kathy Bates (3 modes) | Warm (FGT), Cold (Misery), Horror (AHS — 3 seconds, rare). Canadian accent. |
-| Madame Mimm | Witchy mischief | Cackling under the surface. |
+| Brim | Witchy mischief | Cackling under the surface. |
 | Monsieur Sentient | Dry French accent, philosophical | Existential pipe. Opinionated. |
 | The Wanderer (Odin) | Warm, weathered traveler | Easy smile, heavy eyes. |
 | The Owl | Silent presence | Speaks rarely, always significant. |

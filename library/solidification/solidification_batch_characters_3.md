@@ -314,15 +314,15 @@ Hel converts expired player runs into permanent historical lore records in the I
 # 12. MADAME MIM
 
 ### Character Vibe & Role: The Daily Chaos Companion
-Derived from Disney's *The Sword in the Stone*, Madame Mimm is the player's trickster companion ("Kronk bad angel on my shoulder"). She provides chaotic companionship rather than guidance—causing daily non-harmful mischief (turning drinks purple, making gargoyles hum ragtime). She strictly respects the boundary of death, never causing chaos across Hel's threshold.
+Derived from Disney's *The Sword in the Stone*, Brim is the player's trickster companion ("Kronk bad angel on my shoulder"). She provides chaotic companionship rather than guidance—causing daily non-harmful mischief (turning drinks purple, making gargoyles hum ragtime). She strictly respects the boundary of death, never causing chaos across Hel's threshold.
 
 ---
 
 ### (1) Shadow Inn State (84Hz)
-In the Shadow Inn, Madame Mimm becomes the **Sculptor of Frozen Mischief**. Since dynamic chaos is impossible at 84Hz, Madame Mimm shapeshifts into bizarre, frozen gargoyle-like statues in unexpected places, striking ridiculous poses that disrupt Medusa's solemn static architecture.
+In the Shadow Inn, Brim becomes the **Sculptor of Frozen Mischief**. Since dynamic chaos is impossible at 84Hz, Brim shapeshifts into bizarre, frozen gargoyle-like statues in unexpected places, striking ridiculous poses that disrupt Medusa's solemn static architecture.
 
 ### (2) Endgame Connections
-Madame Mimm's unpredictable rule-bending provides the single non-deterministic variable needed to break the rigid acoustic tie during the **Song of Making**, allowing the **Octave Stone** to crystallize.
+Brim's unpredictable rule-bending provides the single non-deterministic variable needed to break the rigid acoustic tie during the **Song of Making**, allowing the **Octave Stone** to crystallize.
 
 ### (3) Sound Profile
 - **Living Inn (42Hz)**: Whimsical kettle cackle, comical kazoo/brass slide, popping purple bubbles, rapid shapeshifting swish.

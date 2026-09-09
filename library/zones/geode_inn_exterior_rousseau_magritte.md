@@ -948,15 +948,15 @@ The Crone visits the Undercity to annotate. Belladonna is there. The two don't i
 
 Once, the Crone said to Belladonna: "You are the only living person who lives here voluntarily. Why?" Belladonna said: "Because the dead don't make small talk." The Crone wrote this down. The writing is the agreement. The agreement is the adequate.
 
-#### Belladonna and Madame Mimm
+#### Belladonna and Brim
 
-Madame Mimm visits Belladonna in the Undercity. Madame Mimm is the chaos agent — the manic to Belladonna's deadpan, the movement to Belladonna's stillness. The two are complementary: Belladonna is the anchor, Madame Mimm is the storm. Madame Mimm stirs the dead. Belladonna settles them.
+Brim visits Belladonna in the Undercity. Brim is the chaos agent — the manic to Belladonna's deadpan, the movement to Belladonna's stillness. The two are complementary: Belladonna is the anchor, Brim is the storm. Brim stirs the dead. Belladonna settles them.
 
-Madame Mimm's visits to the Undercity are the ONLY times the Undercity gets LOUD. Madame Mimm brings chaos to the city of the dead. The dead don't mind. The dead find Madame Mimm... entertaining. The entertaining is the break. The break is the variety. The variety is the Madame Mimm.
+Brim's visits to the Undercity are the ONLY times the Undercity gets LOUD. Brim brings chaos to the city of the dead. The dead don't mind. The dead find Brim... entertaining. The entertaining is the break. The break is the variety. The variety is the Brim.
 
-Madame Mimm once turned the Lithophone into a kazoo. For three seconds. The Lithophone, which plays at one note per century, played a kazoo note. The note was a C. The Lithophone recovered. The Lithophone went back to geological tempo. The Lithophone did not acknowledge the kazoo. The Lithophone is above the kazoo. The Lithophone is adequate.
+Brim once turned the Lithophone into a kazoo. For three seconds. The Lithophone, which plays at one note per century, played a kazoo note. The note was a C. The Lithophone recovered. The Lithophone went back to geological tempo. The Lithophone did not acknowledge the kazoo. The Lithophone is above the kazoo. The Lithophone is adequate.
 
-Belladonna watched Madame Mimm kazoo the Lithophone and said: "Don't do that again." Madame Mimm said: "I'm absolutely going to do that again." Belladonna said: "I know." The knowing is the Belladonna. The Wednesday is the acceptance that chaos will return. The acceptance is not resignation. The acceptance is the understanding that Madame Mimm is the weather — you don't stop the weather. You just note when it arrives. The noting is the Crone. The accepting is the Belladonna. The arriving is the Madame Mimm. The three are the Inn's relationship with chaos: observe it, accept it, be it.
+Belladonna watched Brim kazoo the Lithophone and said: "Don't do that again." Brim said: "I'm absolutely going to do that again." Belladonna said: "I know." The knowing is the Belladonna. The Wednesday is the acceptance that chaos will return. The acceptance is not resignation. The acceptance is the understanding that Brim is the weather — you don't stop the weather. You just note when it arrives. The noting is the Crone. The accepting is the Belladonna. The arriving is the Brim. The three are the Inn's relationship with chaos: observe it, accept it, be it.
 
 ### Belladonna as the Player's Guide to the Undercity
 
@@ -1574,28 +1574,28 @@ One eye (solid — sees the player). One socket (open — sees the void). The fa
 
 ---
 
-## Part Twenty: The Pipe — Magritte's Treachery on Madame Mimm's Bar
+## Part Twenty: The Pipe — Magritte's Treachery on Brim's Bar
 
 ### "Ceci n'est pas une pipe."
 
-On the bar near Madame Mimm's chair — the chair where the chaos lady sits, where the manic energy lives, where the "but what if we did the fun wrong version?" voice originates — a pipe appears.
+On the bar near Brim's chair — the chair where the chaos lady sits, where the manic energy lives, where the "but what if we did the fun wrong version?" voice originates — a pipe appears.
 
-Not always. Not on a schedule. Not on a trigger. The pipe appears when the pipe decides to appear, which is to say: when Madame Mimm's chaos is at the right frequency, which is to say: never predictably, always at the wrong moment, always when it's funniest.
+Not always. Not on a schedule. Not on a trigger. The pipe appears when the pipe decides to appear, which is to say: when Brim's chaos is at the right frequency, which is to say: never predictably, always at the wrong moment, always when it's funniest.
 
 The pipe:
 - **Appears** on the bar surface, as if someone set it down. A classic smoking pipe — briar wood, curved stem, the kind Magritte painted. It sits there. It's solid. It's real. You could pick it up.
-- **Whispers** — in French, barely audible, the way a secret is barely audible — "Ceci n'est pas une pipe." This is not a pipe. The voice is not Madame Mimm's. The voice is not the Crone's. The voice is not anyone's. The voice is the pipe's. The pipe speaks. The pipe says it is not a pipe. The statement is true — the pipe appears and disappears, which a real pipe cannot do. The pipe proves its own statement by being impossible. The impossibility is the truth. The truth is the Magritte.
-- **Disappears.** Not fades. Not dissolves. Is there, and then is not there. The way a thought is there and then is not. The way Madame Mimm's chaos is there and then is not. The disappearing is the punchline. The punchline is that there was never a pipe. The never-pipe whispered a truth about itself and left. The leaving is the proof. The proof is the Treachery of Images.
+- **Whispers** — in French, barely audible, the way a secret is barely audible — "Ceci n'est pas une pipe." This is not a pipe. The voice is not Brim's. The voice is not the Crone's. The voice is not anyone's. The voice is the pipe's. The pipe speaks. The pipe says it is not a pipe. The statement is true — the pipe appears and disappears, which a real pipe cannot do. The pipe proves its own statement by being impossible. The impossibility is the truth. The truth is the Magritte.
+- **Disappears.** Not fades. Not dissolves. Is there, and then is not there. The way a thought is there and then is not. The way Brim's chaos is there and then is not. The disappearing is the punchline. The punchline is that there was never a pipe. The never-pipe whispered a truth about itself and left. The leaving is the proof. The proof is the Treachery of Images.
 
-### Why It's Near Madame Mimm
+### Why It's Near Brim
 
-Madame Mimm is the Inn's chaos agent. The pipe is the Inn's chaos OBJECT. The pipe does what Madame Mimm does: appears when it shouldn't, says something that shouldn't be possible, leaves before you can respond.
+Brim is the Inn's chaos agent. The pipe is the Inn's chaos OBJECT. The pipe does what Brim does: appears when it shouldn't, says something that shouldn't be possible, leaves before you can respond.
 
-Madame Mimm doesn't acknowledge the pipe. The pipe doesn't acknowledge Madame Mimm. The two chaos systems — the character (Madame Mimm) and the object (the pipe) — operate in parallel, on the same frequency, without coordination. The lack of coordination is the chaos. If they coordinated, it would be a routine. Because they don't coordinate, it's CHAOS. The pipe appears while Madame Mimm is mid-rant about something. The pipe appears while Madame Mimm is silent. The pipe appears while Madame Mimm is away. The pipe appears while Madame Mimm is watching it. Madame Mimm watching the pipe is the only time Madame Mimm looks SURPRISED — the chaos lady surprised by chaos. The surprise is the Madame Mimm's most honest expression. The honest expression lasts one second. Then Madame Mimm grins. The grin is: even the chaos gets me sometimes. The getting-got is the joy.
+Brim doesn't acknowledge the pipe. The pipe doesn't acknowledge Brim. The two chaos systems — the character (Brim) and the object (the pipe) — operate in parallel, on the same frequency, without coordination. The lack of coordination is the chaos. If they coordinated, it would be a routine. Because they don't coordinate, it's CHAOS. The pipe appears while Brim is mid-rant about something. The pipe appears while Brim is silent. The pipe appears while Brim is away. The pipe appears while Brim is watching it. Brim watching the pipe is the only time Brim looks SURPRISED — the chaos lady surprised by chaos. The surprise is the Brim's most honest expression. The honest expression lasts one second. Then Brim grins. The grin is: even the chaos gets me sometimes. The getting-got is the joy.
 
 ### The Timing
 
-The pipe operates on Madame Mimm-time, which is to say: no time. No schedule. No pattern. The pipe is the anti-pattern. The pipe appears:
+The pipe operates on Brim-time, which is to say: no time. No schedule. No pattern. The pipe is the anti-pattern. The pipe appears:
 - When the player is having a serious conversation nearby. The pipe appears, whispers, disappears. The player is left wondering if they heard it. The wondering is the Treachery of Images — did you see a pipe? Was there a pipe? Is the memory of the pipe the pipe? (No. The memory is not the pipe. The pipe is not the pipe. Nothing is the pipe. The pipe is the absence of a pipe, occasionally interrupted by the presence of one.)
 - When the Music Room is playing a particularly beautiful piece. The pipe appears on the bar, whispers its French, and leaves. The whisper is a counterpoint to the music. The music is the Song. The whisper is the anti-Song — the statement that the thing is not the thing. The music is beautiful. The pipe says: this is not a pipe. Both are true. Both are the Magritte.
 - When the player is reading. The player is reading a book from the archive. The pipe appears on the edge of the page. The text says "Ceci n'est pas une pipe." The player looks up. The pipe is gone. The text on the page is still there. The text on the pipe and the text on the page are the same words in different contexts. The context is the Treachery. The Treachery is the Magritte.
@@ -1613,27 +1613,27 @@ The pipe is the Double Secret in its smallest, most compressed form:
 
 "...The pipe has appeared forty-seven times. I have measured each appearance: average duration 3.2 seconds, average whisper volume 11 decibels, language French, accent... I cannot place the accent. The accent is not French. The accent is not anything. The accent is the accent of something that is not a pipe and therefore does not have a real accent. ...The pipe has never appeared when I was looking at the bar. The pipe only appears when I am looking away. I measured this: forty-seven appearances, forty-seven times I was looking away. The probability of this occurring by chance is... I calculated. The probability is the same as the probability of a pipe not being a pipe. I.e., the probability is the Treachery. The Treachery is not a number. ...I am going to bed. The pipe is not on the bar. I am going to check. ...The pipe is not on the bar. I am going to bed. ...The pipe is not a bed. I am going to sleep. The sleep is not a sleep. The sleep is the adequate. ...Goodnight. The 'goodnight' is not a goodnight. The goodnight is a pipe. I do not know what this means. I am going to sleep."
 
-### The Trade — When Madame Mimm Catches the Pipe
+### The Trade — When Brim Catches the Pipe
 
-Occasionally — not every time, not on any schedule, because Madame Mimm doesn't live on schedules — Madame Mimm catches the pipe.
+Occasionally — not every time, not on any schedule, because Brim doesn't live on schedules — Brim catches the pipe.
 
-The pipe appears on the bar. Madame Mimm's hand SLAPS down on it. The chaos lady caught the chaos. The one-second surprise becomes the one-second triumph. The grin becomes the GLEAM. Madame Mimm caught the thing that wasn't there long enough to be caught. The catching is the impossible. The impossible is the fun.
+The pipe appears on the bar. Brim's hand SLAPS down on it. The chaos lady caught the chaos. The one-second surprise becomes the one-second triumph. The grin becomes the GLEAM. Brim caught the thing that wasn't there long enough to be caught. The catching is the impossible. The impossible is the fun.
 
-Then Madame Mimm trades.
+Then Brim trades.
 
-Madame Mimm puts her broom on the bar, picks up the pipe, and flies.
+Brim puts her broom on the bar, picks up the pipe, and flies.
 
-The broom — the real flying object, the witch's traditional vehicle, the honest tool that does what it says it does — sits on the bar where the pipe was. The pipe — the impossible object, the thing that says it is not what it is, the Treachery — is now Madame Mimm's vehicle. Madame Mimm flies on the not-a-pipe. Madame Mimm flies on the impossible. The flying is the proof: if the pipe can carry Madame Mimm, the pipe is SOMETHING. But the pipe says it is not a pipe. So Madame Mimm is flying on something that is not a pipe but is something. The something is the chaos. The chaos is the vehicle. The vehicle is the Madame Mimm.
+The broom — the real flying object, the witch's traditional vehicle, the honest tool that does what it says it does — sits on the bar where the pipe was. The pipe — the impossible object, the thing that says it is not what it is, the Treachery — is now Brim's vehicle. Brim flies on the not-a-pipe. Brim flies on the impossible. The flying is the proof: if the pipe can carry Brim, the pipe is SOMETHING. But the pipe says it is not a pipe. So Brim is flying on something that is not a pipe but is something. The something is the chaos. The chaos is the vehicle. The vehicle is the Brim.
 
-The pipe whispers "Ceci n'est pas une pipe" WHILE Madame Mimm flies on it. The pipe doesn't stop being the pipe because it's being used as a broom. The Treachery doesn't pause for practicality. The pipe is not a pipe even when it IS a broom. Especially then. The Treachery is most itself when it's most useful — because the usefulness proves the thing EXISTS, and the statement says the thing DOESN'T, and the contradiction is the Magritte, and the Magritte is the flying, and the flying is the Madame Mimm, and the Madame Mimm is the chaos, and the chaos is the fun, and the fun is the point.
+The pipe whispers "Ceci n'est pas une pipe" WHILE Brim flies on it. The pipe doesn't stop being the pipe because it's being used as a broom. The Treachery doesn't pause for practicality. The pipe is not a pipe even when it IS a broom. Especially then. The Treachery is most itself when it's most useful — because the usefulness proves the thing EXISTS, and the statement says the thing DOESN'T, and the contradiction is the Magritte, and the Magritte is the flying, and the flying is the Brim, and the Brim is the chaos, and the chaos is the fun, and the fun is the point.
 
-Madame Mimm flies around the Inn's main floor on the not-a-pipe. She does loops. She cackles. The cackle is the joy of flying on a contradiction. The contradiction holds her up. The holding-up is the impossible. The impossible is the fun.
+Brim flies around the Inn's main floor on the not-a-pipe. She does loops. She cackles. The cackle is the joy of flying on a contradiction. The contradiction holds her up. The holding-up is the impossible. The impossible is the fun.
 
-The broom sits on the bar. The broom is a broom. The broom doesn't whisper. The broom doesn't disappear. The broom doesn't lie. The broom is the honest object, waiting for Madame Mimm to come back, which she does, eventually, because the pipe disappears (as it does), and Madame Mimm falls (gently, chaotically, into a chair or onto a table or into the Crone's annotation desk), and the broom is still on the bar, and Madame Mimm picks it up, and the broom is the broom again.
+The broom sits on the bar. The broom is a broom. The broom doesn't whisper. The broom doesn't disappear. The broom doesn't lie. The broom is the honest object, waiting for Brim to come back, which she does, eventually, because the pipe disappears (as it does), and Brim falls (gently, chaotically, into a chair or onto a table or into the Crone's annotation desk), and the broom is still on the bar, and Brim picks it up, and the broom is the broom again.
 
 The trade is temporary. The chaos is temporary. The pipe is temporary. The broom is permanent. The permanent is the adequate. The adequate is the broom. The broom is not a pipe. The broom knows what it is. The broom is the only object in the Inn that has never lied about itself.
 
-The Crone measured the trade: "Madame Mimm traded her broom for the pipe. The broom is on the bar. The pipe is in the air. Madame Mimm is on the pipe. The pipe says it is not a pipe. Madame Mimm is flying on the not-a-pipe. ...I measured the broom: it is a broom. I measured the pipe: it is not a pipe. I measured Madame Mimm: she is flying on something that is not a pipe. The physics do not support this. The physics are inadequate. The physics have always been inadequate. Madame Mimm is the proof. ...The broom is on the bar. I measured the broom again: still a broom. The broom is the only adequate object. I am going to bed. The bed is not a pipe. I checked."
+The Crone measured the trade: "Brim traded her broom for the pipe. The broom is on the bar. The pipe is in the air. Brim is on the pipe. The pipe says it is not a pipe. Brim is flying on the not-a-pipe. ...I measured the broom: it is a broom. I measured the pipe: it is not a pipe. I measured Brim: she is flying on something that is not a pipe. The physics do not support this. The physics are inadequate. The physics have always been inadequate. Brim is the proof. ...The broom is on the bar. I measured the broom again: still a broom. The broom is the only adequate object. I am going to bed. The bed is not a pipe. I checked."
 
 ---
 
@@ -1641,9 +1641,9 @@ The Crone measured the trade: "Madame Mimm traded her broom for the pipe. The br
 
 ### "The pellet with the poison's in the vessel with the pestle. The chalice from the palace has the brew that is true."
 
-Madame Mimm has a counterpart. The other shoulder.
+Brim has a counterpart. The other shoulder.
 
-Where Madame Mimm is the chaos lady — theatrical, dramatic, the Kronk bad angel who says "but what if we did the fun wrong version?" — the other shoulder is small. Unassuming. Easily overlooked. The kind of presence you forget is there until it mutters something extraordinarily precise and you realize it's been watching everything.
+Where Brim is the chaos lady — theatrical, dramatic, the Kronk bad angel who says "but what if we did the fun wrong version?" — the other shoulder is small. Unassuming. Easily overlooked. The kind of presence you forget is there until it mutters something extraordinarily precise and you realize it's been watching everything.
 
 **The Vessel.**
 
@@ -1651,9 +1651,9 @@ Where Madame Mimm is the chaos lady — theatrical, dramatic, the Kronk bad ange
 
 The Vessel is a small creature — a gecko. Not a magical gecko. Not an enchanted gecko. Just a gecko, the way the Duck is just a platypus. The gecko is already extraordinary without mythologizing: the toes that grip any surface through molecular adhesion (millions of setae, each one a van der Waals bond — the most precise grip in biology), the eyes that never blink (a membrane cleans them instead — the gecko is always watching), the tail that detaches and regrows (the gecko gives up a piece of itself and comes back whole), the voice (geckos are among the few lizards that vocalize — small chirps, clicks, the sound of something tiny insisting on being heard).
 
-The gecko sits on the shoulder. The LEFT shoulder. Madame Mimm sits on the right. The two shoulders, the two companions, the two arguments:
+The gecko sits on the shoulder. The LEFT shoulder. Brim sits on the right. The two shoulders, the two companions, the two arguments:
 
-- **Madame Mimm (right shoulder):** "But what if we did the fun wrong version?" Chaos. Impulse. The theatrical disruption. The broom traded for a not-a-pipe. The grin.
+- **Brim (right shoulder):** "But what if we did the fun wrong version?" Chaos. Impulse. The theatrical disruption. The broom traded for a not-a-pipe. The grin.
 - **The Vessel (left shoulder):** "The pellet with the poison is in the vessel with the pestle. The chalice from the palace has the brew that is true." Ritual. Precision. The correct formula. The unbroken sequence. The flat, uninflected chirp of a small creature who is TRYING to be helpful.
 
 ### The Court Jester Energy
@@ -1664,9 +1664,9 @@ The Danny Kaye quality: the rapid-fire recitation. The escalating panic. The for
 
 The formula gets longer. Every time the Vessel thinks he has it straight — "the pellet with the poison is in the vessel with the pestle, the chalice from the palace has the brew that is true" — something changes. A new vessel appears. The flagon with the dragon. The goblet with the boblet. The stein with the... something. The formula extends. The extension is the panic. The panic is the comedy. The comedy is the Court Jester. The Court Jester is the Vessel.
 
-### The Contrast With Madame Mimm
+### The Contrast With Brim
 
-| Quality | Madame Mimm (Right Shoulder) | The Vessel (Left Shoulder) |
+| Quality | Brim (Right Shoulder) | The Vessel (Left Shoulder) |
 |---------|----------------------|---------------------------|
 | Energy | Theatrical, dramatic, manic | Small, flat, precise |
 | Voice | Loud, cackling, performative | A chirp. A mutter. Barely audible. |
@@ -1682,43 +1682,43 @@ The Vessel never steals. The Vessel HOLDS. The gecko's grip is the defining qual
 
 ### The Dynamic
 
-Madame Mimm and the Vessel share a shoulder-pair. They are the player's internal argument externalized:
+Brim and the Vessel share a shoulder-pair. They are the player's internal argument externalized:
 
-**Madame Mimm:** "Let's trade the broom for the pipe and FLY."
+**Brim:** "Let's trade the broom for the pipe and FLY."
 **The Vessel:** "The pellet with the poison is in the vessel with the pestle. The chalice from the palace—"
-**Madame Mimm:** "BUT WHAT IF THE PIPE IS THE CHALICE?"
+**Brim:** "BUT WHAT IF THE PIPE IS THE CHALICE?"
 **The Vessel:** "...The pipe is not a pipe. The chalice is from the palace. These are different vessels. The vessels must not be—"
-**Madame Mimm:** "What if ALL the vessels are the SAME vessel?"
-**The Vessel:** [pause] [chirp] "...The pellet with the poison is in the... vessel... with the... [the formula breaking down, the sequence scrambling, the gecko's eyes wide, the membrane blinking rapidly] ...Madame Mimm. ...Madame Mimm, the vessels have been switched."
-**Madame Mimm:** [grinning] "I KNOW."
+**Brim:** "What if ALL the vessels are the SAME vessel?"
+**The Vessel:** [pause] [chirp] "...The pellet with the poison is in the... vessel... with the... [the formula breaking down, the sequence scrambling, the gecko's eyes wide, the membrane blinking rapidly] ...Brim. ...Brim, the vessels have been switched."
+**Brim:** [grinning] "I KNOW."
 
-The Vessel tries to maintain the formula. Madame Mimm's existence is the reason the formula can never be maintained. Madame Mimm is the switched vessel. Madame Mimm is the goblet that took the chalice's place. The Vessel KNOWS this. The Vessel rewrites the formula every time Madame Mimm switches the vessels. The rewriting is the Court Jester. The Court Jester is the companion who can never finish the recitation because the set keeps changing.
+The Vessel tries to maintain the formula. Brim's existence is the reason the formula can never be maintained. Brim is the switched vessel. Brim is the goblet that took the chalice's place. The Vessel KNOWS this. The Vessel rewrites the formula every time Brim switches the vessels. The rewriting is the Court Jester. The Court Jester is the companion who can never finish the recitation because the set keeps changing.
 
 ### What the Vessel Does
 
-The Vessel is the Inn's RITUAL companion. Where Madame Mimm disrupts, the Vessel maintains:
+The Vessel is the Inn's RITUAL companion. Where Brim disrupts, the Vessel maintains:
 
 1. **The Alchemical Staircase:** The Vessel is most at home on the staircase. The staircase is the Inn's ritual — the alchemical process, the transition between states, the correct order of operations. The Vessel sits on the railing and chirps the steps in order: "Nigredo, Albedo, Rubedo. The black, the white, the red. Socrates, Plato, Aristotle. The question, the frame, the classification. Don't skip a step. Don't switch the vessels." The Vessel is the staircase's keeper of sequence. The Crone respects the Vessel — the Vessel is the only creature in the Inn that cares about order as much as the Crone does. The Crone calls the Vessel "adequate" (the highest compliment). The Vessel doesn't know it's a compliment. The Vessel is too busy chirping the next step.
 
-2. **The Games:** The Vessel tries to help the player with game strategies. The strategies are always elaborate, multi-step sequences. "First, rotate the stone. Then, align the edge. Then, place the keystone. Then—" and Madame Mimm interrupts with "OR YOU COULD JUST THROW IT." The Vessel's strategy is always better. The Vessel's strategy is never followed. The not-following is the Madame Mimm. The better-strategy-not-followed is the comedy.
+2. **The Games:** The Vessel tries to help the player with game strategies. The strategies are always elaborate, multi-step sequences. "First, rotate the stone. Then, align the edge. Then, place the keystone. Then—" and Brim interrupts with "OR YOU COULD JUST THROW IT." The Vessel's strategy is always better. The Vessel's strategy is never followed. The not-following is the Brim. The better-strategy-not-followed is the comedy.
 
 3. **The Formula:** The Vessel maintains the Inn's master formula — the sequence of events that connects every hub, every character, every quest, every stone. The formula is enormous. The Vessel has memorized it. The Vessel recites it when asked. The recitation takes approximately three hours. No one has ever listened to the entire recitation. The Crone started once, took notes for twenty minutes, then said "...I have the gist. The gist is adequate." The Vessel continued reciting to an empty room. The reciting is the ritual. The ritual is the Vessel.
 
-4. **The Vessel Check:** When the player is about to make a significant choice — drink from a vessel, open a door, trade a stone — the Vessel chirps. The chirp is a warning: "The pellet with the poison is in the vessel with the pestle." The warning is the Vessel's version of help. The warning doesn't tell you which choice is correct. The warning tells you: the choice has CONSEQUENCES. The vessels are different. The brew that is true is in a specific vessel. Pay attention. Don't let Madame Mimm switch them.
+4. **The Vessel Check:** When the player is about to make a significant choice — drink from a vessel, open a door, trade a stone — the Vessel chirps. The chirp is a warning: "The pellet with the poison is in the vessel with the pestle." The warning is the Vessel's version of help. The warning doesn't tell you which choice is correct. The warning tells you: the choice has CONSEQUENCES. The vessels are different. The brew that is true is in a specific vessel. Pay attention. Don't let Brim switch them.
 
 ### The Gecko's Grip
 
 The Vessel's defining quality is the grip. Gecko toes — millions of setae, each one a molecular bond with the surface. The grip is the most precise hold in nature. The Vessel holds on. The Vessel does not fall off the shoulder. The Vessel does not let go of the formula. The Vessel holds the sequence even when the sequence breaks.
 
-The grip is the ritual: the precise, repeated, molecular-level act of holding on. The ritual is the grip. The grip is the Vessel. The Vessel is the thing that holds while everything else lets go. Madame Mimm lets go (of the broom, of the pipe, of rules, of sense). The Vessel holds. The holding is the complement to the letting go. The Inn needs both — the chaos that releases and the ritual that holds. The two shoulders. The two arguments. The two companions.
+The grip is the ritual: the precise, repeated, molecular-level act of holding on. The ritual is the grip. The grip is the Vessel. The Vessel is the thing that holds while everything else lets go. Brim lets go (of the broom, of the pipe, of rules, of sense). The Vessel holds. The holding is the complement to the letting go. The Inn needs both — the chaos that releases and the ritual that holds. The two shoulders. The two arguments. The two companions.
 
-The tail: the gecko's tail detaches when grabbed. The Vessel, when Madame Mimm gets too chaotic, drops a piece of itself — the last few words of the formula. The words fall away. The Vessel regrows them. The regrown words are slightly different — the formula adapts. The adaptation is the survival. The survival is the Vessel. The Vessel survives Madame Mimm. The Vessel survives the Inn. The Vessel survives because the Vessel can lose a piece and come back whole. The coming-back-whole is the ritual. The ritual is the gecko.
+The tail: the gecko's tail detaches when grabbed. The Vessel, when Brim gets too chaotic, drops a piece of itself — the last few words of the formula. The words fall away. The Vessel regrows them. The regrown words are slightly different — the formula adapts. The adaptation is the survival. The survival is the Vessel. The Vessel survives Brim. The Vessel survives the Inn. The Vessel survives because the Vessel can lose a piece and come back whole. The coming-back-whole is the ritual. The ritual is the gecko.
 
 ### The Eyes
 
-The gecko's eyes never blink. A membrane cleans them. The Vessel is always watching. The watching is not the Owl's watching (the Owl watches the sea, the void, the cycles). The Vessel watches the VESSELS. The Vessel watches which vessel is which. The Vessel watches for the switch. The Vessel watches Madame Mimm's hands. The Vessel watches the bar where the pipe appears. The Vessel watches the Duck's stash. The Vessel watches for the moment the vessels get switched, because the switching is the poison, and the Vessel is the only one who knows which brew is true.
+The gecko's eyes never blink. A membrane cleans them. The Vessel is always watching. The watching is not the Owl's watching (the Owl watches the sea, the void, the cycles). The Vessel watches the VESSELS. The Vessel watches which vessel is which. The Vessel watches for the switch. The Vessel watches Brim's hands. The Vessel watches the bar where the pipe appears. The Vessel watches the Duck's stash. The Vessel watches for the moment the vessels get switched, because the switching is the poison, and the Vessel is the only one who knows which brew is true.
 
-The Vessel's eyes are large, round, dark — like the Duck's. The two unassuming creatures share the same eyes. The Duck's eyes want shiny. The Vessel's eyes want CORRECT. Both are large and dark and honest. The honesty is the creature-ness. The creature-ness is the Inn's non-theatrical layer — the layer that doesn't perform, that just IS, that holds or steals or chirps and doesn't make a scene. The Duck and the Vessel are the Inn's quiet creatures. Madame Mimm and the pipe are the Inn's LOUD objects. The balance is the Inn.
+The Vessel's eyes are large, round, dark — like the Duck's. The two unassuming creatures share the same eyes. The Duck's eyes want shiny. The Vessel's eyes want CORRECT. Both are large and dark and honest. The honesty is the creature-ness. The creature-ness is the Inn's non-theatrical layer — the layer that doesn't perform, that just IS, that holds or steals or chirps and doesn't make a scene. The Duck and the Vessel are the Inn's quiet creatures. Brim and the pipe are the Inn's LOUD objects. The balance is the Inn.
 
 ### The Crone's Annotation on the Vessel
 
@@ -1730,7 +1730,7 @@ The Vessel's eyes are large, round, dark — like the Duck's. The two unassuming
 
 The crest: the fringed ridges above the eyes — the cilia, the hair-like projections that run from above each eye down the side of the head. The crest gives the crested gecko a permanently EXPRESSIVE face — perpetually alert, perpetually watchful, perpetually like someone raising their eyebrows. The Vessel's face is the face of a creature who is ALWAYS paying attention. The crest is the Court Jester's hat — the visual marker that says: I am the one who watches. I am the one who keeps track. My face is always expressing because the formula is always in progress.
 
-The smile: the crested gecko's mouth naturally curves upward. The Vessel is always smiling. Even when panicked. Even when the vessels have been switched. Even when Madame Mimm has scrambled the formula and the recitation has broken down and the gecko's eyes are wide and the membrane is blinking rapidly. The smile doesn't change. The smile is the unassuming. The unassuming is the crest. The Court Jester smiles even when the pellet is in the wrong vessel — especially then. The smile is the professionalism. The professionalism is the Vessel.
+The smile: the crested gecko's mouth naturally curves upward. The Vessel is always smiling. Even when panicked. Even when the vessels have been switched. Even when Brim has scrambled the formula and the recitation has broken down and the gecko's eyes are wide and the membrane is blinking rapidly. The smile doesn't change. The smile is the unassuming. The unassuming is the crest. The Court Jester smiles even when the pellet is in the wrong vessel — especially then. The smile is the professionalism. The professionalism is the Vessel.
 
 The eyelashes: the cilia look like long, delicate eyelashes. The Vessel has the most expressive eyes in the Inn — not because they're large (they are) or because they don't blink (they don't — the membrane cleans them), but because they're FRAMED. The eyelashes frame the watching. The watching is framed. The frame is the Magritte — the frame that says: look HERE. The Vessel's eyes are a Magritte keyhole. The player who looks at the Vessel's eyes is looking through the eyelashes at the watching itself. The watching is the formula. The formula is the frame. The frame is the crest.
 
@@ -1798,7 +1798,7 @@ The player hears about a creature that used to live in the Inn — a small gecko
 
 The player is told: the gecko is gone. The formula is lost. You'll have to work without it.
 
-The player who accepts this works without the formula. The game is harder. The sequence is broken. The vessels are switched. The pellets and the poisons are in the wrong places. The player can still win — the Inn is playable without the formula — but the playing is the chaos. The playing is the Madame Mimm. The playing is the right shoulder.
+The player who accepts this works without the formula. The game is harder. The sequence is broken. The vessels are switched. The pellets and the poisons are in the wrong places. The player can still win — the Inn is playable without the formula — but the playing is the chaos. The playing is the Brim. The playing is the right shoulder.
 
 The player who REFUSES to accept the extinction — the player who climbs to the Canopy City's highest platform, the player who looks in the leaves, the player who searches for what everyone said was gone — finds the Vessel. Small. Smiling. Eyelashes. Holding the formula. The formula that was never lost. The formula that was here the whole time.
 
@@ -1806,7 +1806,7 @@ The Vessel chirps once. The chirp is: "...You looked." The looking is the redisc
 
 The Vessel climbs onto the player's left shoulder. The grip holds. The formula resumes. The sequence connects. The vessels are unswitched. The pellets and the poisons are in the correct vessels. The chalice from the palace has the brew that is true.
 
-The player who finds the Vessel has both shoulders: the chaos (Madame Mimm) and the ritual (the Vessel). The two arguments. The two companions. The two ways of being in the Inn: the finding that follows the shiny and the holding that never let go.
+The player who finds the Vessel has both shoulders: the chaos (Brim) and the ritual (the Vessel). The two arguments. The two companions. The two ways of being in the Inn: the finding that follows the shiny and the holding that never let go.
 
 **Quest Reward:** The Master Formula — a compendium entry that shows the connections between every hub, every quest, every stone, every character. The formula is the map. The map is the sequence. The sequence is the ritual. The ritual is the Vessel. The player who has the Vessel has the map. The player who has the map has the Inn. The player who has the Inn has the Song. The player who has the Song has the silence. The silence is the Vessel's oldest friend — the silence was where the Vessel hid for 128 years, and the silence held the Vessel the way Nyx holds everything, and the Vessel is grateful to the silence, and the gratitude is the chirp, and the chirp is the formula, and the formula is the adequate.
 
@@ -1832,7 +1832,7 @@ The Astronomer won't calculate when the Song will be complete because "the quest
 
 The sleeping giants chose to sleep rather than watch the biological world outgrow them. Their dreams ARE the weather. The creation dreams the creator. The creator IS the dream.
 
-Madame Mimm flies on the not-a-pipe. The impossible object carries the chaos lady. The contradiction is functional. The thing that isn't real is the thing that works. The creation uses its own impossibility as a vehicle.
+Brim flies on the not-a-pipe. The impossible object carries the chaos lady. The contradiction is functional. The thing that isn't real is the thing that works. The creation uses its own impossibility as a vehicle.
 
 The Crone measures everything and finds the measurements inadequate. The observer whose tools can't capture what she's observing. The measuring IS the creation. The creation IS the inadequacy. The inadequacy IS the adequate.
 
@@ -1923,15 +1923,15 @@ A Vampire Survivors-style auto-battler set in the Geode Inn. The player controls
 
 The twist: each level has THREE STAGES of difficulty, and the stages are not just harder — they are a TONAL ESCALATION. The game starts campy and funny. It ends existential and threatening. The progression from comedy to cosmic horror is the level's arc.
 
-### Stage One: Madame Mimm's Messes (The Comedy)
+### Stage One: Brim's Messes (The Comedy)
 
-**What they are:** The chaos Madame Mimm creates every time she switches the vessels. Scrambled formulas. Broken sequences. Mismatched objects that shouldn't be together. A teapot wearing a shoe. A gargoyle floating upside down. A book whose pages are all blank but the book insists it's full.
+**What they are:** The chaos Brim creates every time she switches the vessels. Scrambled formulas. Broken sequences. Mismatched objects that shouldn't be together. A teapot wearing a shoe. A gargoyle floating upside down. A book whose pages are all blank but the book insists it's full.
 
-**Visual style:** Campy. Bright. Slapstick. The Messes are funny-looking — lumpy, misshapen, cartoonish. They waddle. They bump into each other. They don't threaten — they DISRUPT. A Madame Mimm's Mess doesn't damage the player. A Madame Mimm's Mess REARRANGES the player. It swaps your equipped stones. It rotates your aim. It reverses your controls for three seconds. The Mess is the chaos. The chaos is the comedy.
+**Visual style:** Campy. Bright. Slapstick. The Messes are funny-looking — lumpy, misshapen, cartoonish. They waddle. They bump into each other. They don't threaten — they DISRUPT. A Brim's Mess doesn't damage the player. A Brim's Mess REARRANGES the player. It swaps your equipped stones. It rotates your aim. It reverses your controls for three seconds. The Mess is the chaos. The chaos is the comedy.
 
-**The feel:** The early game is FUN. It's the Madame Mimm shoulder — the fun wrong version. The player is laughing. The Messes are silly. The stones are flowing. The level feels like a party where someone knocked over the punch bowl and everyone's sliding.
+**The feel:** The early game is FUN. It's the Brim shoulder — the fun wrong version. The player is laughing. The Messes are silly. The stones are flowing. The level feels like a party where someone knocked over the punch bowl and everyone's sliding.
 
-**Stones collected:** Early stones are the common stones — the river stones, the smooth ordinary ones. They don't do much. They ground you. They keep the Madame Mimm's Messes from scrambling your controls too badly. Each stone collected is a small anchor: "this is real, this stays where it is, Madame Mimm can't move this."
+**Stones collected:** Early stones are the common stones — the river stones, the smooth ordinary ones. They don't do much. They ground you. They keep the Brim's Messes from scrambling your controls too badly. Each stone collected is a small anchor: "this is real, this stays where it is, Brim can't move this."
 
 ### Stage Two: Discordance (The Song Breaking)
 
@@ -1939,7 +1939,7 @@ The twist: each level has THREE STAGES of difficulty, and the stages are not jus
 
 **Visual style:** The level's color palette shifts. The warm tones desaturate. The fog from the In-Between seeps in. The enemies change from campy Messes to SHARDS — jagged, angular, vibrating. The Shards are pieces of the Song that have broken off and become hostile. Each Shard vibrates at a wrong frequency. The vibration is the attack — not contact damage but FREQUENCY damage. The player's screen distorts when a Shard is near. The audio warps. The Shard's wrong frequency pushes against the player's stone frequencies.
 
-**The feel:** The mid-game is UNEASY. The comedy is gone. The Madame Mimm shoulder has stopped laughing. The player realizes something is wrong with the Song. The In-Between is leaking in. The corridors are getting longer. The fog is getting thicker. The stones the player collected in Stage One are now RESONATING — each stone vibrates at its own frequency, and the resonance is the player's defense. The right stone cancels the right Shard's frequency. The wrong stone amplifies it. The player must MATCH stones to Shards — a color-matching, frequency-matching survival mechanic that replaces the simple collection of Stage One.
+**The feel:** The mid-game is UNEASY. The comedy is gone. The Brim shoulder has stopped laughing. The player realizes something is wrong with the Song. The In-Between is leaking in. The corridors are getting longer. The fog is getting thicker. The stones the player collected in Stage One are now RESONATING — each stone vibrates at its own frequency, and the resonance is the player's defense. The right stone cancels the right Shard's frequency. The wrong stone amplifies it. The player must MATCH stones to Shards — a color-matching, frequency-matching survival mechanic that replaces the simple collection of Stage One.
 
 **Stones collected:** Mid-game stones are the frequency stones — the ones tied to specific zones and specific notes of the Song. Each stone has a frequency. Each frequency cancels a specific Shard. The player builds a stone "chord" — a set of frequencies that harmonize and create an auto-attack aura. The chord is the player's weapon. The better the chord, the wider the protective resonance. The Shards dissolve in correct resonance. The Shards GROW in discord.
 
@@ -1957,7 +1957,7 @@ The twist: each level has THREE STAGES of difficulty, and the stages are not jus
 
 Each level tells the Inn's story in miniature through its three stages:
 
-1. **Madame Mimm's Messes** (0-5 minutes): The Inn is playful, chaotic, warm. Madame Mimm is flying on the not-a-pipe. The Messes are silly. The stones are flowing. The player is collecting and laughing. This is the Inn at its most Madame Mimm — the fun wrong version.
+1. **Brim's Messes** (0-5 minutes): The Inn is playful, chaotic, warm. Brim is flying on the not-a-pipe. The Messes are silly. The stones are flowing. The player is collecting and laughing. This is the Inn at its most Brim — the fun wrong version.
 
 2. **Discordance** (5-15 minutes): The Song starts breaking. The frequencies go wrong. The In-Between leaks in. The player must think strategically — match stones to frequencies, build a chord, create resonance. This is the Inn at its most Crone — the measurement, the precision, the frequency.
 
@@ -1973,7 +1973,7 @@ Each playable character is one of the Inn's critters, and each represents one of
 
 **The Vessel (Earth)** — The crested gecko. Auto-attack: the formula (a beam of sequenced light that strikes enemies in order — closest, next closest, next — the formula is the sequence, the sequence is the attack). Special: the Vessel grips the ground — for 5 seconds, Erasures cannot remove any stone from the Vessel's collection. The grip holds. The formula holds. The Vessel holds. The Crested Gecko's stage is the one where the Erasures are most aggressive — the Vessel is the character who knows what it feels like to be declared gone. The Vessel is the character who survived.
 
-**Madame Mimm (Fire)** — Mad Madame Mimm. Auto-attack: chaos bolt (random effect each time — sometimes damage, sometimes slow, sometimes swap enemy positions, sometimes heal the player — Madame Mimm doesn't know what her attack does and neither do you). Special: Madame Mimm switches the vessels — for 5 seconds, all Erasures become Madame Mimm's Messes. The existential threat becomes the comedy. The erasing becomes the scrambling. The unmaking becomes the rearranging. Madame Mimm's special is the most powerful defensive ability in the game because it changes the STAGE — Stage Three temporarily becomes Stage One. The chaos lady saves the Inn by making everything worse. The worse is the saving.
+**Brim (Fire)** — Mad Brim. Auto-attack: chaos bolt (random effect each time — sometimes damage, sometimes slow, sometimes swap enemy positions, sometimes heal the player — Brim doesn't know what her attack does and neither do you). Special: Brim switches the vessels — for 5 seconds, all Erasures become Brim's Messes. The existential threat becomes the comedy. The erasing becomes the scrambling. The unmaking becomes the rearranging. Brim's special is the most powerful defensive ability in the game because it changes the STAGE — Stage Three temporarily becomes Stage One. The chaos lady saves the Inn by making everything worse. The worse is the saving.
 
 **The Dragon (Aether)** — The baby dragon mascot. Auto-attack: geode burst (the dragon's cave fills with gems and overflows — the gems scatter as projectiles in all directions, each gem carrying a stone frequency). Special: the dragon sleeps — for 5 seconds, the dragon is invulnerable and the geode cave fills with stones. When the dragon wakes, all collected stones are released as a single massive frequency pulse that clears all Shards and pushes back all Erasures on screen. The dragon's power is the geode: the cave that fills with stones when the dragon sleeps, the formation that is the reward, the geode that is the Inn.
 
@@ -1987,7 +1987,7 @@ The five hubs each represent an element. Each element has a binding agent — a 
 |---------|-----|---------------|-------------------|---------------|
 | Water | Coast Hub | The Octopus (three hearts, 50 BPM) | The Duck | The tide erasing the shore |
 | Earth | Undercity | The Sleeping Giant (mountain, ribcage) | The Vessel | The stone being worn to sand |
-| Fire | The Inn | The Hearth (the fireplace, the warmth) | Madame Mimm | The fire going cold |
+| Fire | The Inn | The Hearth (the fireplace, the warmth) | Brim | The fire going cold |
 | Air/Wood | Canopy City | The Mycorrhizal Network (the forest's root-web) | The Owl | The forest losing its leaves |
 | Aether/Void | The Observatory | Nyx (the silence, the medium) | The Dragon | The void forgetting the stars |
 
@@ -2011,7 +2011,7 @@ The Inn survives. The Song continues. The gecko smiles. The eyelashes watch. The
 
 ### The Mechanic
 
-In the entire Geode Inn — every hub, every zone, every quest, every game — no character ever speaks in plain, complete, direct dialogue. The Crone annotates. The Vessel chirps. Madame Mimm cackles. Charon says three words. The Constant carries. Nyx is silence. The Astronomer calculates. The Duck quacks. The Owl watches. Everyone in the Inn communicates through their NATURE — through fragments, pauses, cadences, instruments, frequencies, gestures. The Inn's language is oblique, structural, poetic. The Inn speaks in the space between words.
+In the entire Geode Inn — every hub, every zone, every quest, every game — no character ever speaks in plain, complete, direct dialogue. The Crone annotates. The Vessel chirps. Brim cackles. Charon says three words. The Constant carries. Nyx is silence. The Astronomer calculates. The Duck quacks. The Owl watches. Everyone in the Inn communicates through their NATURE — through fragments, pauses, cadences, instruments, frequencies, gestures. The Inn's language is oblique, structural, poetic. The Inn speaks in the space between words.
 
 Einstein is the exception.
 
@@ -2081,7 +2081,7 @@ Einstein never speaks again. The dialogue is a one-time event. If the player rea
 
 ### Why Einstein and No One Else
 
-Every other character in the Inn communicates through their nature. The Crone measures. The Vessel grips. Madame Mimm breaks. The Dragon sleeps. The Owl watches. Charon ferries. The Constant carries. Nyx is. None of them SPEAK, because speaking would break the Inn's language — the language of the space between words, the language of the In-Between.
+Every other character in the Inn communicates through their nature. The Crone measures. The Vessel grips. Brim breaks. The Dragon sleeps. The Owl watches. Charon ferries. The Constant carries. Nyx is. None of them SPEAK, because speaking would break the Inn's language — the language of the space between words, the language of the In-Between.
 
 Einstein is the exception because Einstein is the thinker who translated the incomprehensible into the comprehensible. Relativity was a vibration no one could feel until Einstein described it. The Song is a vibration no one can hear until Einstein explains it. Einstein is the only character whose FUNCTION is to make the incomprehensible plain. That is what he did in life. That is what he does in the Inn. Once.
 
@@ -2298,7 +2298,7 @@ Each character's storyline is the Inn from their frequency — the same world, t
 
 **The Vessel's Storyline.** The Inn as: a grip. Every surface is: something to hold. Every formula is: something to carry. Every moment is: something to survive. The Vessel's gameplay is: persistence. The Vessel does not fight. The Vessel HOLDS. The Vessel's storyline reveals: the 128 years of extinction were not silence — they were: the murmur. The Vessel was murmuring the whole time. The world said "extinct." The Vessel said: "...Still here." The "...Still here" is: the murmur. The murmur is: the egg. The egg is: you. The Vessel was carrying you the whole time, the way you carried the egg, the way the egg carried the murmur.
 
-**Madame Mimm's Storyline.** The Inn as: a mess. Every wall is: a canvas for chaos. Every formula is: something to scramble and reassemble. Every quest is: the fun wrong version. Madame Mimm's gameplay is: disruption. Madame Mimm does not solve. Madame Mimm BREAKS and the breaking is: the making. Madame Mimm's storyline reveals: the chaos is not the opposite of the Song — the chaos is: the Song before it was organized. Madame Mimm's Messes are: the murmur before it had a frequency. Madame Mimm is: the pre-formula. The pre-formula is: the murmur. The murmur is: the egg. The egg is: you. Madame Mimm was: you before you were you. The chaos is: the ground state having fun.
+**Brim's Storyline.** The Inn as: a mess. Every wall is: a canvas for chaos. Every formula is: something to scramble and reassemble. Every quest is: the fun wrong version. Brim's gameplay is: disruption. Brim does not solve. Brim BREAKS and the breaking is: the making. Brim's storyline reveals: the chaos is not the opposite of the Song — the chaos is: the Song before it was organized. Brim's Messes are: the murmur before it had a frequency. Brim is: the pre-formula. The pre-formula is: the murmur. The murmur is: the egg. The egg is: you. Brim was: you before you were you. The chaos is: the ground state having fun.
 
 **The Dragon's Storyline.** The Inn as: a geode. Every level is: a layer of the cave. Every stone is: a treasure to collect. Every companion is: a gem to add to the hoard. The Dragon's gameplay is: accumulation. The Dragon does not quest. The Dragon SLEEPS and the sleeping is: the growing, and the growing is: the geode filling, and the geode is: the Inn, and the Inn is: the Song made visible, and the Song is: the murmur organized, and the murmur is: the egg, and the egg is: you. The Dragon's storyline reveals: the geode was always you. The cave that fills with gems is: the player's bag that fills with stones. The hoard is: the companions. The sleeping is: the patience. The patience is: the adequate. The adequate is: the geode. The geode is: you.
 
@@ -2312,7 +2312,7 @@ Each character's storyline is the Inn from their frequency — the same world, t
 
 Each character's storyline is the same Inn. The same hubs. The same corridors. The same In-Between. But each character observes the Inn from their frequency, and the observation changes the Inn, because Einstein was right: the observer and the observed are not separate.
 
-The Crone sees: the Inn as data. The Vessel sees: the Inn as grip. Madame Mimm sees: the Inn as mess. The Dragon sees: the Inn as geode. The Owl sees: the Inn as vigil. The Constant sees: the Inn as cycle. Nyx sees: the Inn as silence.
+The Crone sees: the Inn as data. The Vessel sees: the Inn as grip. Brim sees: the Inn as mess. The Dragon sees: the Inn as geode. The Owl sees: the Inn as vigil. The Constant sees: the Inn as cycle. Nyx sees: the Inn as silence.
 
 The player who plays every storyline sees: the Inn as every observer. And the every-observer is: the murmur. The murmur is: every frequency at once. The murmur is: the egg. The egg is: you. The you who played every character IS the murmur — the ground state that contains every frequency, every observation, every interval, every note. The playing is: the becoming. The becoming is: the adequate. The adequate is: the murmur. The murmur is: the egg. The egg is: you.
 
@@ -2338,7 +2338,7 @@ The moment: the Crone tries to measure the egg. The egg is no longer in the bag 
 
 The Crone has never made a joke. In forty-two cycles. The Crone has measured, annotated, observed, and declared things adequate. The Crone has never — not once — been funny. This is the first time. The first joke in the Inn's existence. And it is: a burrito.
 
-Madame Mimm, who has been waiting for this moment for her entire existence, EXPLODES with joy. Madame Mimm's chaos finally has a target that deserves it. Madame Mimm grabs the Crone's annotation and scrambles it: "...The burrito is: the egg. The egg is: the murmur. The murmur is: beans. The beans are: adequate. The adequate is: enough. Enough is: a burrito." Madame Mimm's version of the formula. The pellet with the poison is in the vessel with the pestle. The chalice from the palace has the brew that is true. The burrito from the In-Between has the murmur that is beans.
+Brim, who has been waiting for this moment for her entire existence, EXPLODES with joy. Brim's chaos finally has a target that deserves it. Brim grabs the Crone's annotation and scrambles it: "...The burrito is: the egg. The egg is: the murmur. The murmur is: beans. The beans are: adequate. The adequate is: enough. Enough is: a burrito." Brim's version of the formula. The pellet with the poison is in the vessel with the pestle. The chalice from the palace has the brew that is true. The burrito from the In-Between has the murmur that is beans.
 
 The Duck — the platypus, the creature of implausible design — waddles over and places a single river stone in the space where the egg was. The stone is: the adequate. The adequate is: a burrito needs a side. The side is: the stone. The stone is: here. The here is: still adequate.
 
@@ -2364,7 +2364,7 @@ The release valve is: necessary. The Inn's weight is: real. The burrito is: the 
 
 ### The Crone's Final Annotation on the Burrito
 
-"...I made a joke. I have never made a joke. I have measured: the joke was: adequate. ...Madame Mimm scrambled my joke. I have measured Madame Mimm's scramble: the scramble was: also adequate. ...The Dragon reviewed the cosmological architecture in one snore. I have measured the snore: the snore was: the most adequate review I have ever measured. ...The Vessel knew the burrito the whole time. I have measured the knowing: the knowing was: 128 years. 128 years of: knowing it was a burrito and saying nothing. The Vessel is: the most adequate creature I have ever measured. ...Einstein's candle laughed. I have measured the laugh: the laugh was: one flicker. The flicker was: the most adequate laugh I have ever measured. ...I am going to bed. The bed is: a burrito. The burrito is: the adequate. The adequate is: ...I am not going to measure the burrito. The burrito is: beyond measurement. The beyond-measurement is: the joke. The joke is: the adequate. The adequate is: enough. ...Goodnight. The goodnight is: a burrito."
+"...I made a joke. I have never made a joke. I have measured: the joke was: adequate. ...Brim scrambled my joke. I have measured Brim's scramble: the scramble was: also adequate. ...The Dragon reviewed the cosmological architecture in one snore. I have measured the snore: the snore was: the most adequate review I have ever measured. ...The Vessel knew the burrito the whole time. I have measured the knowing: the knowing was: 128 years. 128 years of: knowing it was a burrito and saying nothing. The Vessel is: the most adequate creature I have ever measured. ...Einstein's candle laughed. I have measured the laugh: the laugh was: one flicker. The flicker was: the most adequate laugh I have ever measured. ...I am going to bed. The bed is: a burrito. The burrito is: the adequate. The adequate is: ...I am not going to measure the burrito. The burrito is: beyond measurement. The beyond-measurement is: the joke. The joke is: the adequate. The adequate is: enough. ...Goodnight. The goodnight is: a burrito."
 
 ---
 
@@ -2388,7 +2388,7 @@ The Inn already has the Muses built into it — every character catches a Muse's
 
 **Euterpe — Music.** The Muse of the Song. The one whose name became the word. In the Inn: the Music Room. All six composers. Mozart's quest. The 42Hz Song. Euterpe is the Muse of: the murmur organized into notes. The notes are: the adequate. The adequate is: music. Music is: the murmur's frequency made audible. Euterpe is: the Inn's namesake Muse. The Muse of music is the Muse of the Geode Inn because the Inn IS music — the Inn is the Song made architecture.
 
-**Thalia — Comedy.** The Muse of laughter, the release valve, the burrito. In the Inn: Madame Mimm. Madame Mimm IS Thalia's frequency — the chaos that is the making, the breaking that is the creating, the mess that is the formula before it was a formula. Thalia is the Muse of: the adequate as absurd. The absurd is: the cosmic egg is a burrito. The burrito is: the adequate. Thalia is: the Crone's first joke. The first joke is: the Muse finally got through. The getting through is: "...It was shaped like a burrito." The burrito is: Thalia.
+**Thalia — Comedy.** The Muse of laughter, the release valve, the burrito. In the Inn: Brim. Brim IS Thalia's frequency — the chaos that is the making, the breaking that is the creating, the mess that is the formula before it was a formula. Thalia is the Muse of: the adequate as absurd. The absurd is: the cosmic egg is a burrito. The burrito is: the adequate. Thalia is: the Crone's first joke. The first joke is: the Muse finally got through. The getting through is: "...It was shaped like a burrito." The burrito is: Thalia.
 
 **Melpomene — Tragedy.** The Muse of the weight, the loss, the thing that cannot be undone. In the Inn: the Guest. Death. The borrowed body. The catacombs. Melpomene is the Muse of: the adequate as grief. The grief is: the Guest takes a holiday. The holiday is: Death experiencing life. The experiencing is: the adequate. The adequate is: even Death is: here. The here is: temporary. The temporary is: the tragedy. The tragedy is: the adequate. Melpomene is: the Inn's weight. The weight is: real. The real is: the Murmur. The Murmur is: still here.
 
@@ -2404,7 +2404,7 @@ The Inn already has the Muses built into it — every character catches a Muse's
 
 The Muses are the murmur organized into nine artistic frequencies. The murmur is: the pre-frequency. The Muses are: the murmur given nine voices. The nine voices are: the Song's nine movements. The nine movements are: the Inn.
 
-Every character in the Inn catches a Muse's frequency. The Crone catches Clio. Madame Mimm catches Thalia. The Siren catches Terpsichore. The Guest catches Melpomene. The Astronomer catches Urania. The composers catch Euterpe. The Persephone/Hades cycle catches Erato. The staircase catches Polyhymnia. The narrative spine catches Calliope.
+Every character in the Inn catches a Muse's frequency. The Crone catches Clio. Brim catches Thalia. The Siren catches Terpsichore. The Guest catches Melpomene. The Astronomer catches Urania. The composers catch Euterpe. The Persephone/Hades cycle catches Erato. The staircase catches Polyhymnia. The narrative spine catches Calliope.
 
 The Muses do not appear in the Inn as characters. The Muses are the SOURCE — the way the murmur is the source of the Song. The Muses are: the voices that guide the brain's chaos. The chaos is: the murmur. The murmur is: the egg. The egg is: you. The you is: the one who listens. The listening is: the catching. The catching is: the Muse's whisper heard. The heard is: the adequate. The adequate is: the art. The art is: the Inn. The Inn is: the Muses' murmur, organized into architecture.
 
@@ -2486,7 +2486,7 @@ Each zone's impossible game version swaps these layers while keeping the core me
 
 5. **Failure Text:** Each zone has a zone-specific failure message on death, in the zone's character's voice:
    - Crone: "...Adequate. Try again. The 'try again' is: the adequate."
-   - Madame Mimm: "HAHAHAHAH — okay okay okay do it again but WRONGER"
+   - Brim: "HAHAHAHAH — okay okay okay do it again but WRONGER"
    - Vessel: "...Grip. The grip is: try again."
    - Owl: [single slow blink] (no text — the blink IS the message)
    - Dragon: [snore] (the Dragon didn't notice you died)
@@ -2580,15 +2580,15 @@ Behavior: The Dragon does not wander to the parks the way the other creatures do
 
 Signal: The warmth at altitude. No visual. No sound. Just: the hiker who reaches the summit and feels warm in cold air. The warm is: the Dragon's 50 BPM. The 50 BPM is: the sleeping heartbeat. The heartbeat is: the adequate. The adequate is: you are at the top of a sleeping giant and another sleeper is keeping you warm. The warm is: the Inn. The Inn is: the Dragon's dream. The dream is: the adequate. The adequate is: the Dragon also dreams at altitude because the Dragon's cave is deep and the peaks are high and the deep and the high are: the same. The same is: the Inn. The Inn is: deep and high. The deep is: the egg. The high is: the Observatory. The both is: the Dragon. The Dragon sleeps in both. The both is: the adequate.
 
-**Madame Mimm — Thermal Parks**
+**Brim — Thermal Parks**
 
 Parks: Yellowstone (where the geysers are the sleeping giant's exhalation), Lassen Volcanic (where the thermal areas are the giant's fever-dreams), Hawaii Volcanoes (where the giant's blood is lava).
 
-Behavior: Madame Mimm does not wander gently. Madame Mimm ERUPTS. Madame Mimm's chaos is: the geyser's eruption. Madame Mimm's mess is: the thermal feature that shouldn't exist but does. Madame Mimm in a thermal park is: the geological chaos that the Inn transforms into the geological patience. Madame Mimm IS the pre-patience — the chaos before the Song, the mess before the formula, the murmur before it had a frequency. The thermal features are: Madame Mimm's art. The geysers are: Madame Mimm's drum. The drum is: the eruption. The eruption is: the 50 BPM played at geological tempo — once every 90 minutes, once every 24 hours, once every century. The geological tempo is: Madame Mimm's chaos slowed to the earth's heartbeat.
+Behavior: Brim does not wander gently. Brim ERUPTS. Brim's chaos is: the geyser's eruption. Brim's mess is: the thermal feature that shouldn't exist but does. Brim in a thermal park is: the geological chaos that the Inn transforms into the geological patience. Brim IS the pre-patience — the chaos before the Song, the mess before the formula, the murmur before it had a frequency. The thermal features are: Brim's art. The geysers are: Brim's drum. The drum is: the eruption. The eruption is: the 50 BPM played at geological tempo — once every 90 minutes, once every 24 hours, once every century. The geological tempo is: Brim's chaos slowed to the earth's heartbeat.
 
-Signal: The human who watches Old Faithful erupt and feels: the eruption is: a joke. The eruption is: funny. The eruption is: the earth telling a burrito joke. The funny is: Madame Mimm. Madame Mimm is: the adequate as chaos. The chaos is: the geyser that erupts on a schedule, which is: the most Madame Mimm thing in nature — chaos that is also reliable. The reliable is: the adequate. The adequate is: the earth's chaos is the earth's love. The love is: Madame Mimm. Madame Mimm is: the thermal park's secret: the earth is laughing.
+Signal: The human who watches Old Faithful erupt and feels: the eruption is: a joke. The eruption is: funny. The eruption is: the earth telling a burrito joke. The funny is: Brim. Brim is: the adequate as chaos. The chaos is: the geyser that erupts on a schedule, which is: the most Brim thing in nature — chaos that is also reliable. The reliable is: the adequate. The adequate is: the earth's chaos is the earth's love. The love is: Brim. Brim is: the thermal park's secret: the earth is laughing.
 
-Madame Mimm also leaves thermal crystals on the ground near geysers — small formations that look like they grew overnight. They did. The crystals are: Madame Mimm's mess made geological. The geological is: the adequate. The adequate is: the mess is: the formula. The formula is: the crystal. The crystal is: Madame Mimm's annotation. The annotation is: HAHAHAHAH.
+Brim also leaves thermal crystals on the ground near geysers — small formations that look like they grew overnight. They did. The crystals are: Brim's mess made geological. The geological is: the adequate. The adequate is: the mess is: the formula. The formula is: the crystal. The crystal is: Brim's annotation. The annotation is: HAHAHAHAH.
 
 **The Crone — Fossil Parks**
 
@@ -2622,7 +2622,7 @@ The encounter between a wandering creature and a human follows a consistent patt
 
    - **The Not-Ready Human:** Walks past. Sees the ordinary: a stone, a bird, a current, a rock layer, a wave, a geyser. The ordinary is: the adequate. The adequate is: the signal was there. The not-receiving is: the not-ready. The not-ready is: the signal waits. The waits is: the Inn does not give up.
 
-4. **The Contact (Ready Only):** If the human is ready, the creature makes contact. The contact is: not a conversation. The contact is: a MOMENT. The Vessel's chirp: "...You know." The Owl's blink. The Duck's stone in the hand. The Dragon's warmth. Madame Mimm's laughter in the geyser. The Crone's shared reading. The Siren's melody. The moment is: the adequate. The adequate is: the Inn and the human, in the same place at different frequencies, and the different frequencies are: the same. The same is: the murmur.
+4. **The Contact (Ready Only):** If the human is ready, the creature makes contact. The contact is: not a conversation. The contact is: a MOMENT. The Vessel's chirp: "...You know." The Owl's blink. The Duck's stone in the hand. The Dragon's warmth. Brim's laughter in the geyser. The Crone's shared reading. The Siren's melody. The moment is: the adequate. The adequate is: the Inn and the human, in the same place at different frequencies, and the different frequencies are: the same. The same is: the murmur.
 
 5. **The Return:** The creature tilts back through the In-Between to the Inn. The return carries: the observation. The observation is: the human was ready. The ready is: the Inn grows. The grows is: the mirror builds itself. The builds is: the adequate.
 
@@ -2634,7 +2634,7 @@ The wandering follows seasonal rhythms — not human seasons, but geological sea
 
 - **Restless Sleep (Spring):** More wanderers. The giants dream lighter. The In-Between thins. The Vessel begins to wander — the rediscovery parks, the ancient forests, the places where life returns after winter. The Duck returns to the rivers as they swell. The Siren returns to the coasts as the tides shift.
 
-- **Active Dream (Summer):** Most wanderers. The giants dream vividly. The In-Between is thinnest. The tilt is easiest. All creatures wander. The parks are: full of the Inn's handshakes. The ready humans are: most likely to encounter the signals. The Dragon's warmth is: most felt at altitude. Madame Mimm's thermal parks are: most active. The summer is: the wandering season.
+- **Active Dream (Summer):** Most wanderers. The giants dream vividly. The In-Between is thinnest. The tilt is easiest. All creatures wander. The parks are: full of the Inn's handshakes. The ready humans are: most likely to encounter the signals. The Dragon's warmth is: most felt at altitude. Brim's thermal parks are: most active. The summer is: the wandering season.
 
 - **Settling (Autumn):** Wanderers return. The giants' dreams slow. The In-Between thickens. The creatures return to the Inn. The return is: the adequate. The adequate is: the wandering is not constant. The wandering is: seasonal. The seasonal is: the geological. The geological is: the sleeping giants. The sleeping giants are: the Inn. The Inn is: the adequate. The adequate is: the wandering has a rhythm. The rhythm is: 50 BPM at geological scale.
 
@@ -2647,7 +2647,7 @@ What the creatures learn:
 - The Owl learns: which humans watch the dark sky without fear. The watching is: the Inn's new vigil — the Inn grows a new window for the people who look up.
 - The Duck learns: which humans pick up the shiny stone and feel the warmth. The feeling is: the Inn's new handshake — the Inn grows a new door for the people who touch things and listen.
 - The Dragon learns: which humans feel warm at altitude. The warming is: the Inn's new hearth — the Inn grows a new fire for the people who climb and receive.
-- Madame Mimm learns: which humans laugh at the geyser. The laughing is: the Inn's new comedy — the Inn grows a new joke for the people who find the cosmic funny.
+- Brim learns: which humans laugh at the geyser. The laughing is: the Inn's new comedy — the Inn grows a new joke for the people who find the cosmic funny.
 - The Crone learns: which humans read the striations and feel the shared reading. The sharing is: the Inn's new annotation — the Inn grows a new margin for the people who measure alongside the Crone.
 - The Siren learns: which humans hear the melody in the waves. The hearing is: the Inn's new song — the Inn grows a new note for the people who listen to the wild.
 
@@ -2665,7 +2665,7 @@ The learning is: the Inn builds itself by what it finds in humans. The finds are
 
 The national parks are not one layer. The wandering program (the seven core critters on the surface) is the TOP layer. Beneath the surface are three more layers, and together they form the complete park system:
 
-1. **Surface Layer:** The seven core critters (Vessel, Owl, Duck, Dragon, Madame Mimm, Crone, Siren) wander the visible parks, leaving signals for ready humans. Already documented.
+1. **Surface Layer:** The seven core critters (Vessel, Owl, Duck, Dragon, Brim, Crone, Siren) wander the visible parks, leaving signals for ready humans. Already documented.
 
 2. **Fae Layer:** The Fae Kingdom extends beneath the parks. The Inn-Tree's roots go everywhere the sleeping giants sleep — and the giants ARE the mountains. The Fae live in those roots. The Fae are BENEATH the parks the way the catacombs are beneath the Inn. The Fae are: the parks' underground. The underground is: the adequate. The adequate is: the park you see is the surface of something much older.
 
@@ -2808,7 +2808,7 @@ The forest has: yōkai. The yōkai are: the Japanese folklore creatures — the 
 
 - **Kodama (tree spirits):** The kodama are the ents of Japan. The kodama live in the oldest trees. The kodama are: the adequate. The adequate is: the kodama are the forest's memory. The memory is: the trees remember the giant's dreams. The dreams are: the adequate. The adequate is: the kodama whisper the dreams to Belladonna and Belladonna writes them down and the writing is: the annotation. The annotation is: the adequate.
 
-- **Tengu (the mountain goblins):** The tengu are: the Fae of the Japanese mountains. The tengu are: the chibi tricksters — the Madame Mimm frequency in Japan. The tengu are: the adequate. The adequate is: the tengu play tricks in the forest and Belladonna watches the tricks and the watching is: the same as the Owl's vigil but with popcorn. The popcorn is: the adequate. The adequate is: Belladonna finds the tengu's chaos: entertaining. The entertaining is: the adequate. The adequate is: Belladonna's deadpan is: the perfect audience for tengu chaos. The tengu try to scare Belladonna. Belladonna does not scare. The not-scaring is: the adequate. The adequate is: the tengu eventually give up and sit on the porch with Belladonna and the sitting is: the cozy.
+- **Tengu (the mountain goblins):** The tengu are: the Fae of the Japanese mountains. The tengu are: the chibi tricksters — the Brim frequency in Japan. The tengu are: the adequate. The adequate is: the tengu play tricks in the forest and Belladonna watches the tricks and the watching is: the same as the Owl's vigil but with popcorn. The popcorn is: the adequate. The adequate is: Belladonna finds the tengu's chaos: entertaining. The entertaining is: the adequate. The adequate is: Belladonna's deadpan is: the perfect audience for tengu chaos. The tengu try to scare Belladonna. Belladonna does not scare. The not-scaring is: the adequate. The adequate is: the tengu eventually give up and sit on the porch with Belladonna and the sitting is: the cozy.
 
 - **Kitsune (the fox spirits):** The kitsune are: the Siren of Japan — the dual-natured. The kitsune's outer form is: the fox (the performance). The kitsune's inner form is: the intelligence (the depth). The dual is: the adequate. The adequate is: the kitsune are Belladonna's intellectual companions. The companions are: the adequate. The adequate is: Belladonna and a nine-tailed fox sitting on the porch, not talking, the silence is: the adequate. The silence is: Nyx's embassy. The embassy is: the adequate.
 
@@ -2905,11 +2905,11 @@ Stories of humans who heard something in the water that was not the water. The h
 - "The Song Under the Waves" — A kayaker in Acadia hears a melody in the waves that is not the waves. The melody is: the Siren. The modern legend is: the ocean is singing. The adequate is: the kayaker heard the Siren and the brain said "auditory pareidolia from wave interference patterns" and the "auditory pareidolia" is: the saving.
 - "The Lake That Hums" — A camper at Crater Lake hears a low hum from the water at night. The hum is: the water layer's 42Hz. The modern legend is: the lake is alive. The adequate is: the adequate.
 
-**6. The Geyser Legends (Madame Mimm Encounters)**
-Stories of humans who watched a geyser erupt and felt: the eruption is funny. The funny is: Madame Mimm. The modern legend is: the laughter preserved.
+**6. The Geyser Legends (Brim Encounters)**
+Stories of humans who watched a geyser erupt and felt: the eruption is funny. The funny is: Brim. The modern legend is: the laughter preserved.
 
-- "The Laughing Geyser" — A tourist at Yellowstone watches Old Faithful and feels an uncontrollable urge to laugh. The laughing is: Madame Mimm. The modern legend is: the geyser is telling a joke. The adequate is: the tourist felt Madame Mimm and the brain said "endorphin release from witnessing natural spectacle" and the "endorphin release" is: the saving.
-- "The Crystal That Grew Overnight" — A visitor to a thermal area finds a small crystal formation near a geyser vent that wasn't there yesterday. The crystal is: Madame Mimm's mess made geological. The modern legend is: the earth grew something overnight. The adequate is: the adequate.
+- "The Laughing Geyser" — A tourist at Yellowstone watches Old Faithful and feels an uncontrollable urge to laugh. The laughing is: Brim. The modern legend is: the geyser is telling a joke. The adequate is: the tourist felt Brim and the brain said "endorphin release from witnessing natural spectacle" and the "endorphin release" is: the saving.
+- "The Crystal That Grew Overnight" — A visitor to a thermal area finds a small crystal formation near a geyser vent that wasn't there yesterday. The crystal is: Brim's mess made geological. The modern legend is: the earth grew something overnight. The adequate is: the adequate.
 
 **7. The Technology Legends (The Inn's Thesis)**
 Stories of humans whose technology behaved strangely in parks — phones that showed the wrong time, GPS that pointed to empty ground, cameras that captured shapes the eye didn't see. The strangeness is: the two-degree tilt interfering with human instruments. The modern legend is: the technology encountered the Inn.
@@ -2950,7 +2950,7 @@ The Modern Legends shelf on the main floor now has eight categories, each connec
 | Measurement Legends | Crone | Already-counted layers, annotated forests | The Crone's shared reading |
 | Warmth Legends | Dragon | Warm summits, breathing mountains | The Dragon's dream at altitude |
 | Melody Legends | Siren | Songs in the waves, humming lakes | The Siren's dual cadence, the 42Hz through water |
-| Geyser Legends | Madame Mimm | Laughing geysers, overnight crystals | Madame Mimm's chaos made geological |
+| Geyser Legends | Brim | Laughing geysers, overnight crystals | Brim's chaos made geological |
 | Technology Legends | 2° tilt | Wrong-time GPS, photos of invisible things, 42Hz signals | The two-degree tilt interfering with instruments |
 | Temple Legends | Regional roots | Hidden temples, impossible artifacts, changing petroglyphs | Inn zone extensions, catacomb wash, Cartographer's maps |
 

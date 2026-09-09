@@ -156,7 +156,7 @@ This is the routing document. Every subsystem has its own detailed manifest or d
 - 46 dialogue entries covering 29 NPCs (after merge/fix)
 - Lozen (Lozen): 12 entries (Sentinel's Vigil questline, river_001 through river_010c)
 - Quire: 1 entry (quire_001, Archive zone)
-- All NPC names IP-audited: Madame Mimm, Naut, Lozen, Lark (no book/movie references)
+- All NPC names IP-audited: Brim, Naut, Lozen, Lark (no book/movie references)
 
 ### What needs building:
 - Remaining NPC dialogue trees (18 Godot profiles to code)
@@ -244,7 +244,7 @@ See "For you" note for the complete artist-to-zone assignment map (Klimt, Royo, 
 - `geode_inn_bestiary_mechanic.md` — Bestiary system
 - `geode_inn_brownies.md` — Brownie system (Brindle/Cobble/Thatch)
 - `geode_inn_cosmic_crew.md` — Cosmic Crew (Futurama-inspired)
-- `geode_inn_npc_joe_solidified.md` — Joe (Lucifer cadence)
+- `geode_inn_npc_collector_solidified.md` — Joe (Lucifer cadence)
 - `geode_inn_character_classes.md` — Full class list
 - `geode_inn_class_abilities.md` — Class abilities
 - `geode_inn_character_homes.md` — Character housing

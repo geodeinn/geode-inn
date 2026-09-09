@@ -15,5 +15,5 @@ GitHub tip: click any file below and the images render right in the page — no 
 
 **Flags for Krista:**
 - `erik_v2` — Erik has no canonical rename on record; confirm current roster status.
-- Part 4 contains alternate/earlier versions of some already-rostered portraits (Aurallia, Madame Mimm, Naut, Fibonacci, The Greenward, etc.) — good for comparing which version is canonical.
+- Part 4 contains alternate/earlier versions of some already-rostered portraits (Aurallia, Brim, Naut, Fibonacci, The Greenward, etc.) — good for comparing which version is canonical.
 - The 16 Shadow-mode zone pieces in Part 4 are new to the roster — a nearly complete Shadow set for the tri-mode.
