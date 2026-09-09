@@ -25,7 +25,7 @@ This is the master reference document for the Geode Inn project. It is updated a
 - [x] Architectural layout finalized (tree structure: upstairs/main floor/staircase/downstairs)
 - [x] Aesthetic direction: warm hobbit-hole, amber/gold/cream tones, living tree (Darnassus-style)
 - [x] Narrative spine integrated (storyline.docx — cosmology, reincarnation, owl bloodline)
-- [x] Community moderation: frog transformation mechanic (3 strikes = suspension)
+- [x] Community moderation: frog transformation mechanic (3 strikes = suspension; a transformed player is officially a **Froglodyte**) — term by Krista, 2026-09-09
 - [x] Music direction: full zone and game mapping (classical instruments through electronica)
 - [x] Character roster: 60 designs complete and cataloged
 - [x] Gargoyle designs: 6 resonant sentinels designed with concept art generated

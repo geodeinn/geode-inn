@@ -5,6 +5,8 @@
 | Field | Value |
 |-------|-------|
 | Geode Inn Name | Frog Transformation |
+
+> **Official term (Krista, 2026-09-09):** a player transformed by this mechanic is a **Froglodyte**. Three Froglodyte transformations result in suspension.
 | Genre/Mechanic | Among Us × Inn. Social deduction, 3 transforms = suspension. |
 | Zone | Inn |
 | Stone Reward | None |

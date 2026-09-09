@@ -59,3 +59,10 @@
 ---
 
 *Mantra of the day: "I did not just accidentally open another story arc. This is a complicated enough group of worlds we are creating." — apparently this is the new mantra.*
+
+
+## Mechanic Canon
+
+| Term | Meaning | Notes |
+|------|---------|-------|
+| **Froglodyte** | A player transformed into a frog by the community moderation mechanic (three Froglodyte transformations = suspension) | Official term, Krista 2026-09-09. Rooted in the reclaiming-of-power theme: victims turning persecutors into frogs. |

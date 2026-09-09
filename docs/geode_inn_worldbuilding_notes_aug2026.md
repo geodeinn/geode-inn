@@ -210,7 +210,7 @@ The foundational myth of the Geode Inn, authored by Krista. This narrative runs 
 2. **Reincarnation as Game Mechanic:** Relive lives, accountable for all ripples. Mastery unlocks cosmic awareness — Jupiter, galaxy-language, Mars prison, Pluto's gate.
 3. **The Unbreakable Bond:** A connection between two existences — sometimes chosen, sometimes not a choice.
 4. **The Bloodline:** Dark, tied to magic and death, and owls. "Wherever an owl is sighted, one of us is near." The owl connects to Athena (wisdom) and Odin's ravens (thought and memory).
-5. **Frog Transformation:** Community moderation mechanic. Victims of historical persecution reclaim power by turning aggressors into frogs. Three transformations = suspension. Ties into the theme of reclaiming power.
+5. **Frog Transformation:** Community moderation mechanic. Victims of historical persecution reclaim power by turning aggressors into frogs. Three transformations = suspension. Ties into the theme of reclaiming power. **Official term:** a transformed player is a **Froglodyte** (Krista, 2026-09-09).
 
 ## Cosmology Map
 - **Jupiter:** A level of cosmic awareness, storms and power
