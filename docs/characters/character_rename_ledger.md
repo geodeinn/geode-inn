@@ -21,6 +21,7 @@
 | **Oleander** | (the Seelie King, unnamed) | The Seelie King. The title "the Seelie King" remains valid as a descriptor/reference; the character's name is Oleander. |
 | **Malachi** | Malachi | The Unseelie King, the goblin king. Bowie/Labyrinth remains as craft/casting reference only. |
 | **Wisteria** | Wisteria | The tavern keeper's wife (Jay's campsite tavern family). |
+| **Luna** | Dani, Solstara | Goes by Luna; true name **Taaffeite** — fully intentional (Krista considered an anagram, kept the original). Taaffeite is one of the rarest gemstones on Earth: the rarest stone in the Inn, wearing a person's face, and she hates being seen. The mechanic mirrors the person. Non-storyline name still hers to change. Husband: Greg. |
 | **Lichenblossom** | Lichenblossom | Volunteer NPC, artisan, Market area. |
 | **Vaulknut** | Krista (as player character) | In-game name for the Bog Fairy Golem / Artisan Thief / Selkie. Authorship credits and real-world references remain "Krista." |
 | **Zeke** | Zeke | The Pirate. "The Pirate" remains correct in reference contexts (not direct address). The real person asked for this name — it's what people call him in real life (he tries to just be Zeke). Full name: Zaragoza — "the lesser of two evils." RUNNING GAG: when someone annoys his NPC enough, he informs them his full name is actually Ezekiel. Very calmly. As he sails away. |
