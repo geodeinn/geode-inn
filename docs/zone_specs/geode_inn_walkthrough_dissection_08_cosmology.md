@@ -41,6 +41,16 @@ The Astronomer's arc ends the level's inquiry: pen down, ledger closed, violin p
 - **The Orrery (Rubik's-class):** the planet-gear puzzle — the system's orbits solved by hand.
 - **Resonance Break (Arkanoid-class):** starlight bricks, harmonic rebounds.
 
+### 2B. THE SIGNAL DOCK — the DDLC-adapted meta-narrative game (game #7)
+The small craft at the top of the Cosmology — the highest dockable point of the Inn. The console flickers on when the player approaches; someone left it warm and lived-in. **THE SIGNAL** is the Inn's most psychologically daring game: a spacecraft exploration adventure (5-6 hours, one playthrough, no loop — it escalates once) that breaks its own fourth wall. The game knows the player is playing it. The characters know the player is there — as a separate entity from the avatar.
+
+- **The design template:** Doki Doki Literature Club — not jumpscare horror; the horror of being SEEN. In every other zone the Inn's awareness is ambient (the Whisper Layer, the pulse anomalies, the feeling of being watched). In The Signal, the awareness becomes DIRECT. The Archive stops watching and starts talking.
+- **THE WATCHER THREAD'S PAYOFF:** this is where "the Inn always watching" (the Owl, the Masquerade, the Whisper Layer, Memory's Illusion's trusting river) stops being foreshadowing and becomes address. The player is no longer watched. The player is KNOWN.
+- **The loadout law:** the player's Bead Board composition IS the ship's frequency loadout — each equipped stone becomes a ship system (navigation, shielding, communication, scanning). The collection was always the equipment.
+- **The five acts:** the Launch (comfortable space game, faint anomalies — a star blinking in morse, a log that says "Welcome back") → the Crew (beings of frequency and light, older than the Fae) → the escalation: the game's awareness climbs act by act, ending in direct address.
+- **Entry requirements:** Cosmology unlocked + 30+ stones + 3 zone frequencies attuned on the Bead Board.
+- **Full spec:** docs/library/specs/the_signal_ddlc_spacecrafts_spec.md (complete). Roster: standalone product #7, meta-narrative category.
+
 ### 3. THE ARCANA — the time ship, 50 BPM gearwork heart
 Dalí's flagship: the time ship docked at the level's edge, the Captain aboard, Eres the cabbit purring at 50 BPM — and transforming into the void ship at 44Hz (the cabbit is the shuttle; canon). The Pipe and chronological smoke; the 50 BPM gearwork heart that the whole Clockwork Skies region beats from (see 7 — the Arcana is the heart's ship).
 
@@ -100,3 +110,4 @@ And the level's law lands where the Inn's whole thesis lives: the answer to WHEN
 3. **The Void/Abyss unification** — Nyx's downward extension = water system Layer 7's Abyss; the Void is one room with two doors. Confirm.
 4. **Freyr's design home** — Freyr's Garden upstairs is where Freyr lives; the Norse zone borrows from here (resolving the audit's "Freyr & Freja undesigned" flag from the Norse side). Freja's seat: flag for the Norse pass or the Vanaheim seasonal wing.
 5. **The Fibonacci overlay renders in the Spiral Gallery** — Naut's quest payoff visible upstairs. Confirm.
+6. **The Signal seated in D08** — the DDLC meta-narrative game (#7, spec complete) as the Cosmology's spacecraft dock; the Watcher Thread's direct-address payoff; Bead Board = ship loadout. Confirm its placement in the walkthrough (post-Six-Questions, pre-Ascension — the player must be SEEN before they choose).
