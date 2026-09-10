@@ -1,5 +1,5 @@
 # THE GARDEN (VAN GOGH) QUEST CHAIN: "THE VISIBLE GROWING"
-## The garden's story — drafted 2026-09-10 for Krista's review (DRAFT until ruled)
+## The garden's story — drafted 2026-09-10 for Krista's review (PASSED by Krista 2026-09-10 (CANON — Van Gogh is great))
 
 ---
 
