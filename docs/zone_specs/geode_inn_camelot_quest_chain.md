@@ -1,5 +1,5 @@
 # THE CAMELOT QUEST CHAIN: "THE TABLE REMAINS"
-## The court's chain — drafted 2026-09-10 for Krista's review (DRAFT until ruled)
+## The court's chain — PASSED by Krista 2026-09-10 (CANON)
 > CANON SOURCES: the Arthur master spec (the Three Arthurs — Artair, the King, the Old King: one king at three ages, the Inn's first multi-age character), the faery Camelot consolidated spec (the six-layer system: Ether, Alchemy, Catacombs, Moreau, the Round Table Room, the knight roster), Moreau aesthetic (mythology not as story but as revelation). NAME FLAG: Artair is played by the Bill Skarsgård energy — distinct from BILL THE BARD (Krista's father); in-game Artair is always "Artair," never "Bill," to keep the two kin names separate.
 
 ---

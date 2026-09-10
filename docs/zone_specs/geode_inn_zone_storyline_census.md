@@ -39,7 +39,7 @@
 |------|------------------|-------------------|
 | z23 Redwood Cathedral | THE SLOWEST FREQUENCY — the climb through all three queens' spaces, PASSED 2026-09-10 (canon) |
 | z10 Poison Garden | THE CURE GROWS BESIDE + the Little Alchemy overlay (the Combination Still), PASSED 2026-09-10 (canon) |
-| z20 Camelot | Arthur spec, Three Arthurs painted | The court's chain |
+| z20 Camelot | ✅ CHAIN PASSED 2026-09-10 — 'The Table Remains,' seven quests: the trying, the test, the being (the shift arc: Artair's merlin / Artorios's earned berserk bear / the Elder's chosen Arctur form), the wound, the seat, the stillness, and the Avalon passage (the retort — 'Build it again') |
 | z32 Trovant Garden | — | The living stones of Romania — patient motion made visible |
 | z21 Peru/Andes | Andean Run game, Inca lore loaded | The mountain lore chain |
 | z34 Bosch Shadows | Bosch layer canon (frequency shadows) | The shadow's own story |
@@ -63,6 +63,5 @@
 3. ~~Poison Garden~~ ✅ PASSED 2026-09-10 — THE CURE GROWS BESIDE + the Little Alchemy overlay
 4. ~~Cave City~~ ✅ FOUND COMPLETE — THE LAST LIGHT (already written, recovered library)
 5. ~~Mesopotamia~~ ✅ FOUND COMPLETE — THE FIRST WRITING (already written, recovered library)
-6. Camelot (the Arthur spec is deep enough to chain from)
-7. ~~Van Gogh Garden~~ ✅ DRAFTED 2026-09-10 — THE VISIBLE GROWING (awaiting pass; Sorrel named)
-8. Then the unwritten: Trovants → Peru → Bosch Shadows → Petrified Forest → Meadery → Tidal Caves → Spiral Gallery → Terracotta → India → Canopy City
+6. ~~Van Gogh Garden~~ ✅ DRAFTED 2026-09-10 — THE VISIBLE GROWING (awaiting pass; Sorrel named)
+7. Then the unwritten: Trovants → Peru → Bosch Shadows → Petrified Forest → Meadery → Tidal Caves → Spiral Gallery → Terracotta → India → Canopy City
