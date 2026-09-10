@@ -9,7 +9,7 @@ Covered by Drive: The Host, The Bartender, The Cartographer, The Examiner, The O
 ## True Generation Gaps (11) — order of work
 | # | Character | Zone | Status |
 |---|-----------|------|--------|
-| 1 | The Exile | Main Floor | lore identity check → prompt → generate |
+| 1 | The Exile | Main Floor | ✅ RESOLVED (Krista 2026-09-09): Joe's Collector holds the title ('the exile from time'); Ryan's bartender carries the exiled-assassin (Ezio) root — Ryan final art GENERATED |
 | 2 | The Librarian | Staircase | ✅ ALREADY EXISTS — Beverley the Librarian = the Catalyst (bartender portrait uploaded Wave 1) |
 | 3 | The Alchemist | Staircase | ✅ RESOLVED = The Retort (Tesla-cast), living + in-between existed; shadow state GENERATED |
 | 4 | Merfolk | Water Zone | ✅ GENERATED (living)
@@ -58,3 +58,5 @@ Named faces get a lore-first prompt pass (six-writer voice, zone style bible, ce
 - REMAINING GAPS (need Krista's one-line identity sketches before painting): The Exile (Main Floor), The Alchemist (Staircase), The First (Hollow Earth), Echo faction leader, Lost faction leader, The Watcher (Cosmology)
 
 - The Alchemist resolved (Krista, 2026-09-09): the Retort, the Tesla twin (Clockwork Skies crew holds the other casting). Shadow state generated to complete the 3-state set. Remaining gaps: The Exile, The First, Echo faction leader, Lost faction leader, The Watcher (Cosmology).
+
+- The Exile resolved: Joe's Collector (title holder) + Ryan's Meadery bartender painted (Ezio/Barbossa/Van Helsing identity per NPC doc). Remaining gaps: The First, Echo faction leader, Lost faction leader, The Watcher (Cosmology).

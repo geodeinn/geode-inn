@@ -430,3 +430,11 @@ ALSO: Unseelie Queen raven-feather cape confirmed as permanent canon design elem
 | The Retort shadow state (84Hz dark mirror of the Tesla-cast alchemist) | https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/cd3331a7c_generated_image.png |
 
 The Retort's 3-state set is now complete: living (the_retort.png, existing), in-between (existing), shadow (new above). The Retort = the fizgigs' "The Alchemist" — same character, staircase L5, Tesla casting (features softened; twin casting lives in Clockwork Skies crew as Nikola_Tesla.png).
+
+## Ryan — The Meadery Bartender, Final Concept Art (2026-09-09)
+
+| Piece | URL |
+|---|---|
+| Ryan, the Meadery's bartender — living state (final art, per NPC doc visual identity) | https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/ef410d18c_generated_image.png |
+
+Visual identity per docs/geode_inn_npc_ryan.md: Ezio stance (the exiled noble assassin), Barbossa's navy coat, Van Helsing hat, campfire keeper. Production sheet previously listed Ryan as "doc exists, no final art" — gap now closed. The Exile title (Main Floor slot): Krista confirms Joe's Collector connection ("the title and the exile, same identity, different era"); Ryan's Ezio root also carries the exiled-assassin identity — both faces share the exile theme.
