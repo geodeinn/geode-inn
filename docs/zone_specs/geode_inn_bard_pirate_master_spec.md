@@ -146,6 +146,7 @@ The Pirate's wife, seated properly. The Siren has two names and the whole Inn kn
 - The magnetism: she hears everything and can't turn it off (the window scene — "We married the noise" — she heard Ragana from the library)
 - Two precision women, watching their noisy husbands from the same window: Katya and Ragana are the Inn's other great pairing — sister-in-law to sister-in-law, the truce of identical problems
 - The portraits exist and are canon: land form (`andra_land.jpg`) and water form (`andra_water.jpg`) in the gallery manifest
+- VISUAL CANON (Krista, 2026-09-10): the portraits are beautiful — curled dark red hair in both forms; on land, the water guardian; underwater, the Siren's tentacles unfurl. The red curls are the constant, the tentacles are the depth. Every future rendering of Katya keeps the dark red curled hair
 - Dialogue record live in the entity: `katya_main` (Water Zone, guardian quests)
 - Best friend's wife to the Bard — the dock supper that Zeke makes port for is what the flask is to the friendship: the proof
 
