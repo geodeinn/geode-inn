@@ -1,5 +1,5 @@
 # THE SPIRAL GALLERY QUEST CHAIN: "THE LONG HANDPRINT"
-## The museum's story — drafted 2026-09-10 for Krista's review (DRAFT until ruled)
+## The museum's story — PASSED by Krista 2026-09-10 (CANON)
 > CANON SOURCES: the census line z35 ("the museum's chain — prehistoric → preindustrial"); the architecture blueprint (the Spiral Gallery: z38, the chronological spiral ramp, artists Carr / Escher / Rothko — sent to builder); the Nine Muses spec (each Muse's nook holds an acoustic portal to a corresponding Spiral Gallery chamber — nine chambers, each in assigned artist style); the Mason NPC spec (the Mason: adjacent to the Bone Room, at the lower terminus of the ramp); the archive's neutrality law (pre-industrial only — the last two centuries excluded BY DESIGN).
 
 ---
@@ -62,4 +62,4 @@ The top of the spiral, the pre-industrial terminus — and the chain's ending th
 ## TONE LAW
 Bradbury holds the whole ramp (the museums of the mind, the walking as remembering). Gaiman holds the ochre hands (the first magic, thirty thousand years old, still working). Weir holds the pigments (the materials science, the blown ochre, the gold-leaf breath — all real, all load-bearing). Rothfuss holds the Mason (the builder's plainness, the small words for the long shelf). Pratchett waits downstairs with the coffee — the gallery is the one zone that doesn't joke, and the chain knows it. No one is educated. Someone is walked through the species' single sentence, and the walking teaches itself.
 
-*Draft for Krista's review — no flags; the chain loads on pass.*
+*PASSED (Krista, 2026-09-10) — canon ('he'll love it' — the Bard's chamber is Bill's). The chain loads as the museum's story.*

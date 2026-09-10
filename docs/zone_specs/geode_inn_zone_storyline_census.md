@@ -47,7 +47,7 @@
 | z28 Van Gogh Garden | Aesthetic doc only (recovered library) | The garden that paints itself |
 | z29 Meadery | Drink mechanic spec | The mead chain |
 | z33 Tidal Caves | — | The breathing stone chain |
-| z35 Spiral Gallery | — | The museum's chain (prehistoric → preindustrial) |
+| z35 Spiral Gallery | ✅ CHAIN PASSED 2026-09-10 — 'The Long Handprint' (the ochre hands as the imprint economy's birth, the nine Muse doors, the Escher turning, the Bard's gold chamber, the unfinished last room — the neutrality law made visible) |
 | z24 China Terracotta | Thin (Mulan aesthetic note) | The clay army's watch |
 | z06 India | — | Lore loaded, chain owed |
 | z07 Canopy City | Own Rackham zone, Tumble Run ties | The canopy chain |
@@ -64,4 +64,4 @@
 4. ~~Cave City~~ ✅ FOUND COMPLETE — THE LAST LIGHT (already written, recovered library)
 5. ~~Mesopotamia~~ ✅ FOUND COMPLETE — THE FIRST WRITING (already written, recovered library)
 6. ~~Van Gogh Garden~~ ✅ DRAFTED 2026-09-10 — THE VISIBLE GROWING (awaiting pass; Sorrel named)
-7. Then the unwritten: Meadery → Tidal Caves → Spiral Gallery → Terracotta → India → Canopy City
+7. Then the unwritten: Meadery (drafted, awaiting pass) → Tidal Caves (drafted, 3 flags awaiting ruling) → Terracotta → India → Canopy City
