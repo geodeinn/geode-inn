@@ -134,7 +134,7 @@ At each step, we identify:
 ## Below the catacombs. Below everything.
 
 **What connects backwards:**
-- The descent route: Main Floor → Staircase → Catacombs → Underground Lozen → Fae Kingdom (stone circles) → sleeping giant's copper veins → the deepest chamber (the Egg) → the Hollow Earth
+- The descent route: Main Floor → Staircase → Catacombs → Memory's Illusion → Fae Kingdom (stone circles) → sleeping giant's copper veins → the deepest chamber (the Egg) → the Hollow Earth
 - The Egg is found in the deepest chamber BEFORE the Grand Collision
 - The traveler carries the Egg through the Grand Collision and up to the Ascension Canopy
 

@@ -66,3 +66,7 @@
 | Term | Meaning | Notes |
 |------|---------|-------|
 | **Froglodyte** | A player transformed into a frog by the community moderation mechanic (three Froglodyte transformations = suspension) | Official term, Krista 2026-09-09. Rooted in the reclaiming-of-power theme: victims turning persecutors into frogs. |
+
+## ZONE-NAME COLLISION RESOLVED (2026-09-10)
+
+**Memory's Illusion (Charon's river layer, Water Zone Layer 4's lower face)** — On 2026-09-09 the water architecture doc accidentally used the character name "Lozen" (the Underground Lozen / Charon's Lozen) for Charon's underground river layer. The name propagated into 10+ documents without any documented reason. Krista's ruling (2026-09-10): the zone's public name is **Memory's Illusion**; after all water-system quests are complete, Charon reveals the river's true name: **Lozen** — the zone carries the Sentinel's name by design, as the reveal (the river named itself for the first living soul it trusts). All zone references swept to "Memory's Illusion." The character Lozen (River's character, the Sentinel, "Halt." / "Oi.") is untouched and remains exclusively a character.

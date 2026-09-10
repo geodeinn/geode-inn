@@ -84,7 +84,7 @@ The game style per zone is the template for the animation panels: each zone's ga
 |------|--------------|------------------|
 | The Ragana's Archive | Maze | Archive Maze (Pac-Man-class) |
 | Catacombs proper | Maze + pipe platformer | Catacomb Labyrinth (#48, Pac-Man/Lolo), The Pipe Descent (#53, Super Mario Bros) |
-| Charon's Lozen / Underworld Queens / Bone Room | (open — gap scan flags; the Queens = the juiciest emotional core) | — |
+| Memory's Illusion / Underworld Queens / Bone Room | (open — gap scan flags; the Queens = the juiciest emotional core) | — |
 
 ### LAYER 8: UNDERCITY (The Roots)
 | Zone | Game Style(s) | Games (template) |

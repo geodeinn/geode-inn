@@ -414,7 +414,7 @@ Players earn unique, story-specific drinks through storytelling. The Inn's thesi
 ## The Death Sequence
 1. **The Death:** Screen fades to dark blue. Sound recedes.
 2. **The Words:** "Your name is known. Your rest is earned." (Inn-Tree, 42Hz hum)
-3. **The Lozen:** Underground river. Charon waiting.
+3. **Memory's Illusion:** Underground river. Charon waiting.
 4. **The Obol:** Player selects one stone from collection. Stone drops. Passage paid.
 5. **The Crossing:** Silent boat ride.
 6. **The Arrival:** Charon says "...There you are."

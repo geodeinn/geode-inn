@@ -90,7 +90,7 @@
 | Area | Artist | Characters | Vibration | Quests | Games | Items | Status |
 |------|--------|-----------|-----------|--------|-------|-------|--------|
 | The Ragana's Archive | Klimt gold | The Ragana | 42Hz measurement | Ragana's quests | Archive Maze (Pac-Man) | 51 catacomb items | COMPLETE |
-| Charon's Lozen | Klimt dark | Charon | 42Hz (underworld) | — | — | Obols, ferry tokens | COMPLETE |
+| Memory's Illusion | Klimt dark | Charon | 42Hz (underworld) | — | — | Obols, ferry tokens | COMPLETE |
 | Underworld Queens | Klimt | Persephone, Hel, Morrigan | 42Hz (death/rebirth) | Pomegranate Bridge | — | Pomegranate seeds | COMPLETE |
 | Bone Room | O'Keeffe×Klimt | The Bone Keeper | 42Hz (bone) | Urd's thread (Norns) | — | Bone fragments | COMPLETE |
 | Modern Day Legends | — | — | Outside 42Hz | — | — | Serrano, Sync Paradox | COMPLETE |

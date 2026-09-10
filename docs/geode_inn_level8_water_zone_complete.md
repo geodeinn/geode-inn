@@ -108,7 +108,7 @@ Underground rivers — the water that flows beneath the earth. The Vein is the W
 
 **The Vein contains:**
 - **The Root Springs** — where the great tree's roots tap into the water. The tree drinks from the Vein. The Root Springs are the physical connection between the Water Zone and the Inn's architecture — the tree that houses the Inn is fed by this water.
-- **The Underground Lozen** — a fast-flowing river through underground caverns. The river connects the Vein to the Catacombs — the player can follow the river from the Vein to the archive's deepest section (the Deep). The river is the Water Zone's version of the Staircase — a transitional path between zones.
+- **The Memory's Illusion** — a fast-flowing river through underground caverns. The river connects the Vein to the Catacombs — the player can follow the river from the Vein to the archive's deepest section (the Deep). The river is the Water Zone's version of the Staircase — a transitional path between zones.
 - **The Mole's End** — the deepest tunnel of Charles's Mole (from the Catacombs) terminates at the Vein. The Mole dug all the way down to the water. The player who has followed the Mole's tunnels in the Catacombs can emerge here — in the underground river, at the boundary between earth and water.
 
 **Connection:** Catacombs (the Deep) → Vein. Charles's Mole tunnels → Vein. The tree's roots → Vein.
@@ -406,7 +406,7 @@ The player matches Katya's frequency to calm water monsters. The Siren's Resonan
 | The Ice Worms | Layer 5 | Resonance tunneling; gargoyle frequency connection |
 | The Trench Crossroads | Layer 5 | Stable navigation hub; five-current convergence |
 | The Root Springs | Layer 6 (Vein) | The tree's roots tap the water; Inn-water connection |
-| The Underground Lozen | Layer 6 | Fast river to the Catacombs' Deep |
+| The Memory's Illusion | Layer 6 | Fast river to the Catacombs' Deep |
 | The Mole's End | Layer 6 | Charles's Mole's deepest tunnel; Catacombs connection |
 | The Spring | Layer 7 (Source) | The water's origin; 42Hz; the Source |
 | The First Stone | Layer 7 | The mineral the water carries; the Codex's origin |
@@ -476,7 +476,7 @@ Each water monster adds its signature lead instrument over this bass-heavy chord
 
 **UP to Catacombs (Level 6):**
 - The Sunken Archive (Layer 3) contains submerged archive texts
-- The Vein (Layer 6) connects to the Catacombs' Deep through the Underground Lozen
+- The Vein (Layer 6) connects to the Catacombs' Deep through the Memory's Illusion
 - The Mole's End connects to Charles's Mole tunnels
 
 **UP to Staircase (Level 5):**

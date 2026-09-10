@@ -103,7 +103,7 @@ Storyline tie: the Ragana and the Owl share a blink, and no one in the Inn will 
 The moss-lipped root-pipe, breathing faint cold air. The Pipe Descent game lives here (SMB-class) — the player's first view of the Catacombs' weird retro underlayer. The Pipe Stone is the key (portal registry). The player can play now or pass; the pipe waits. (Anti-FOMO law: unfound doors don't go away. Neither do unprompted ones.)
 
 ### DESCENT LANDING 4 — THE RIVER
-Charon's Lozen — the underground river's sound arrives before its light. The ferryman is audible. The player who descends this far on the FIRST descent has outpaced the Host's expectations, and the Host knows it, and says nothing, and the knowing is the respect.
+Memory's Illusion — the underground river's sound arrives before its light. The ferryman is audible. The player who descends this far on the FIRST descent has outpaced the Host's expectations, and the Host knows it, and says nothing, and the knowing is the respect.
 
 This is the natural base of Dissection 03 — the Catacombs proper, the Underworld Queens, Charon's crossing are the next dissection's depth, and the thread mapping (15 loose threads) ties them.
 

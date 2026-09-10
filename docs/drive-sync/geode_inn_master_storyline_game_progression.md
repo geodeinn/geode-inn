@@ -227,7 +227,7 @@ ________________
 PART 6: GAME SYSTEMS and MECHANICSThe Drink Mechanic (Catalyst's Bar)Players earn unique, story-specific drinks through storytelling. Hybrid interface: dialogue tree (free) or AI-powered natural language conversation (premium). Stories logged in a Drink Journal — a biographical record, not a score. The drink mechanic shifts the game loop from transactional to narrative. The Inn's thesis: listening is the core mechanic, acceptance is the reward.The Death Sequence
 * The Death: Screen fades to dark blue. Sound recedes, doesn't cut off.
 * The Words: "Your name is known. Your rest is earned." (Spoken by the Inn-Tree, in 42Hz hum)
-* The Lozen: Underground river. Charon waiting with the boat.
+* Memory's Illusion: Underground river. Charon waiting with the boat.
 * The Obol: Player selects one stone from collection. Stone drops into the water. Sinks. The passage is paid.
 * The Crossing: Silent boat ride. The pole in the water. The slow approach of the other shore.
 * The Arrival: Charon says "...There you are."

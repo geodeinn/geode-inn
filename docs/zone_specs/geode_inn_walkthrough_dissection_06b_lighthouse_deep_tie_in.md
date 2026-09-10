@@ -9,19 +9,23 @@
 
 The two master water documents name the seven layers differently — and BOTH are right, because they name two different truths:
 
-**EVERY LAYER HAS A PLACE-NAME AND A KEEPER-NAME.** The place-name is what the map calls it (Spring, Shallows, Tidal Caves, Atlantis, the Deep, Underworld Boundary, the Source). The keeper-name is what the water calls it (Rain, Surface, Tidal, the Lozen, the Siren's Layer, Hades' Harbor, the Roots). Players learn the places first; the keepers' names surface with depth — the way a town's name gives way to its people's names the longer you live there.
+**EVERY LAYER HAS A PLACE-NAME AND A KEEPER-NAME.** The place-name is what the map calls it (Spring, Shallows, Tidal Caves, Atlantis, the Deep, Underworld Boundary, the Source). The keeper-name is what the water calls it (Rain, Surface, Tidal, Memory's Illusion, the Siren's Layer, Hades' Harbor, the Roots). Players learn the places first; the keepers' names surface with depth — the way a town's name gives way to its people's names the longer you live there.
 
 | # | Place-name | Keeper-name | Keeper | Artist |
 |---|-----------|-------------|--------|--------|
 | 1 | Surface / Spring | Rain (the Trovant Layer) | No one — rain belongs to the sky | Monet (rain) |
 | 2 | Shallows / the Coast Hub | Surface (the Aegean Layer) | The Siren (from the dock) / Poe's coast | Poe's New England Gothic |
 | 3 | Tidal Caves | Tidal (the Pirate's Layer) | The Pirate, the Selkie | Wyndham Lewis (Vorticist) |
-| 4 | Atlantis / the Lozen | Charon's Layer | Charon (beneath) + Oceanianoir (above) | Luis Royo (biomechanical ruin) |
+| 4 | Atlantis / Memory's Illusion (revealed: Lozen) | Charon's Layer | Charon (beneath) + Oceanianoir (above) | Luis Royo (biomechanical ruin) |
 | 5 | Abyssal / The Deep | The Siren's Layer | The Siren (from below) | Gothic anime (Vampire Hunter D) |
 | 6 | Underworld Boundary | Hades' Harbor | Hades (harbor master) + Charon (anchorage) | Gothic |
 | 7 | Roots / Stone Circle | The Source | The Inn-Tree's root | Lee (12 megaliths) |
 
-**LAYER 4'S TWO FACES (the deep unification):** Atlantis and Charon's Underground Lozen are ONE LAYER with two faces — the drowned city above, the dead's highway beneath it. Atlantis sits ON the river: Royo's biomechanical spires rooted in Charon's memory-water, the smuggler's route running under the living city. The player who takes Charon's boat from the catacombs (Dissection 04) surfaces THROUGH Atlantis — arriving in the drowned city from below, wet, having traveled the dead's highway to reach the living ruin. (The water system and the catacomb system were always one architecture. The Bone Caves are the seam.)
+**LAYER 4'S TWO FACES (the deep unification):** Atlantis and Charon's Memory's Illusion are ONE LAYER with two faces — the drowned city above, the dead's highway beneath it. Atlantis sits ON the river: Royo's biomechanical spires rooted in Charon's memory-water, the smuggler's route running under the living city. The player who takes Charon's boat from the catacombs (Dissection 04) surfaces THROUGH Atlantis — arriving in the drowned city from below, wet, having traveled the dead's highway to reach the living ruin. (The water system and the catacomb system were always one architecture. The Bone Caves are the seam.)
+
+
+**THE NAMING REVEAL LAW (Krista's ruling, 2026-09-10):** The river layer's public name is **MEMORY'S ILLUSION** — the map's name, the NPCs' name, Charon's own name for the water. And it is not the river's name. When EVERY quest in the water system is complete, the player rides Charon's boat one final time, and the ferryman gives the river its true name: **LOZEN.** The zone has been carrying the Sentinel's name the whole game — and now the player knows why the water always let them pass. (The Sentinel holds the Inn's front door and knows the water door — the one guard who can walk between deep catacombs and the coast without the main floor. The river named itself for the first living soul it trusted.) The reveal is the water system's 100% completion trophy: the player's MAP ITSELF updates — "Memory's Illusion" dissolves into "Lozen" — the only zone in the Inn that changes its name for the player who finished everything. Charon's last line of the ride: "The water remembers everything. Including who it lets pass."
+
 
 ---
 
@@ -99,7 +103,8 @@ The Lighthouse area is the Inn's densest single architecture, and the tie-in sho
 
 ## WHAT THIS DISSECTION ASKS KRISTA TO RULE ON
 
-1. **The Layer Law** — place-names and keeper-names both canon; Layer 4 unified (Atlantis above, Charon's Lozen beneath — the drowned city on the dead's highway). Confirm.
+1. **The Layer Law** — place-names and keeper-names both canon; Layer 4 unified (Atlantis above, Memory's Illusion beneath — the drowned city on the dead's highway). Confirm.
 2. **The Gargoyle Caves origin law** — the six gargoyles carved by the tide in Layer 3, their frequencies the caves' own notes; the Contract's signatures born in the water. Confirm.
 3. **Naut's answer law** — the nautilus spiral as the Fibonacci proof of 42Hz; Naut's rare-book quest retrieval = the spiral's explanation, unlocking the Fibonacci overlay. Confirm.
 4. **The Beacon/witness law** — ocean tenants move in only after a previous occupant's memory is lit and witnessed; Poe's haunted house inverted into kindness. Confirm.
+5. **The Naming Reveal Law** — the river layer is publicly "Memory's Illusion"; after all water-system quests, Charon reveals the true name: Lozen, for the Sentinel who guards both doors. The player's map updates as the completion trophy. Confirm the reveal reason (the river names itself for the first living soul it trusts).

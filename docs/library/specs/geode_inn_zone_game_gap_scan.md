@@ -31,7 +31,7 @@ Method: full zone list (master zone audit, all layers) cross-referenced against 
 16. **The Cartographer** — Tree Map, Form Sight, Escher Bridge (3 quests, no game).
 
 ### Catacombs
-17. **Charon's Lozen** — the ferry, obols, ferry tokens. No game.
+17. **Memory's Illusion** — the ferry, obols, ferry tokens. No game.
 18. **Underworld Queens** — Persephone, Hel, the Morrigan; the Pomegranate Bridge is a quest, not a game.
 19. **Bone Room** — the Bone Keeper, Urd's thread. No game.
 

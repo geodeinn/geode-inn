@@ -1,7 +1,7 @@
 # THE GEODE INN — Walkthrough Dissection 04: The Catacombs
 ## The crossing. The Queens. The bones. The deepest archive.
 ### Series: level-by-level storyline tie-in dissection, Part 4. CYOA law intact: every available option covered before continuing.
-### Written 2026-09-10. Canon sources: novel Part 3 (Charon, the three gifts, Persephone — voice verbatim skeleton), camera spec (Belladonna, Bone Keeper), portal registry (Charon's Lozen, Pomegranate Bridge, Forge Elevator), thread mapping.
+### Written 2026-09-10. Canon sources: novel Part 3 (Charon, the three gifts, Persephone — voice verbatim skeleton), camera spec (Belladonna, Bone Keeper), portal registry (Memory's Illusion, Pomegranate Bridge, Forge Elevator), thread mapping.
 
 ---
 
@@ -24,7 +24,7 @@ The Catacombs present five options. All live, all forever.
 
 ---
 
-### OPTION 1 — YOU BOARD THE BOAT (Charon's Lozen)
+### OPTION 1 — YOU BOARD THE BOAT (Memory's Illusion)
 
 Charon is the Ragana's twin. Not the face — Charon's face is a hood, a shadow, a space where a face would be if faces were needed, and they are not — but the energy: the same precision, the same economy of someone who has done one thing so long that the doing is indistinguishable from being. The Ragana measured; Charon ferries. The Ragana was the mind; Charon was the silence. Both served. Both were: adequate.
 
