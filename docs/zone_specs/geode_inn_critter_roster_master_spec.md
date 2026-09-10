@@ -82,6 +82,7 @@ Every critter resonates at its home level's frequency. The critters ARE the freq
 | The Movement System | The 207 animated elements (45 NPCs, 82 critters, 80 environmental) — the critters are the bulk of the movement system's ambient life. |
 | Every Level | Each level has its own critter ecosystem. The critters ARE the level's "alive" quality. |
 | The Fizgigs | The Canopy City's boardwalk residents — the critters that became a community. |
+| THE NAMED CRITTERS (NEW) | The animal main cast — the Duck, the fizgigs, the brownies (Brindle/Cobble/Thatch), Eres the Cabbit, the ravens (Huginn/Muninn), the Owls (the bloodline Owl + the real ones), the Vessel (the crested gecko) — live in geode_inn_named_critters_master_spec.md. THE BOUNDARY LAW: this roster holds the ambient life; the named spec holds the story-carriers. The Duck, the Vessel, and the Owl are NOT ambient entries. |
 | The Artist Map | Each critter is rendered in its level's assigned artist style. |
 | The Ragana | The Ragana interacts with critters — the Gravity Well paperweight, the Ink Sparrow collection. The Ragana is the Inn's biologist. |
 | The Card Game | Each critter is a potential low-rarity card — the ambient life of the deck. |

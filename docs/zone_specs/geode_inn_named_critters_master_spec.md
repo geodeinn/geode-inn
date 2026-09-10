@@ -1,0 +1,90 @@
+# THE NAMED CRITTERS — Master Specification
+## The Inn's Animal Main Cast: seven creatures with elaborate storylines that weave into everything
+### Written 2026-09-10. The boundary law: the CRITTER ROSTER holds the ambient life (82 unnamed critters); THIS spec holds the NAMED — the animals that carry story, not atmosphere. Each has threads in the novel, the games, the movement system, and each other's arcs.
+
+---
+
+## THE CAST LAW
+
+The named critters are not pets and not mascots. Each one is a load-bearing character whose storyline touches at least three systems: a zone, a game (or the novel), the movement system, and another named critter's arc. They are the Inn's small-scale proof of the In-Between thesis: the innocent go where the innocent are needed. The named critters are where the Inn keeps its innocence — which is why the In-Between game (the Inn's dark heart, the game about loss) is built around three of them.
+
+**The family-pet lineage:** several of the named critters carry the family's real animals into the world (the Vessel, Brim, Dobbie, Eres). The lineage law: they enter the Inn as themselves, not as jokes — the Inn takes them seriously, the way the Child-Actor Law takes children seriously. Real animals get real storylines.
+
+---
+
+## 1. THE DUCK — the Pinniped Pilferer
+**Zone:** Clockwork Skies (L2) home; roams everywhere (the Duck has no zone loyalty — the first sign the Duck is a main character, not a zone mascot)
+**The storyline:** the Duck steals. Not for greed — for STORY. Everything the Duck takes ends up somewhere it needed to be (novel Part 2: a small rough garnet stolen and stashed behind a water pipe, retrieved by the traveler — the seventh stone in the Song's wall). The Duck is the Inn's entropy-with-intent: the theft is always a delivery the Duck refuses to be thanked for.
+**Threads:** the novel (the garnet theft — the Duck's cameo is load-bearing: it makes the seventh morning); the In-Between game (Section 3, The River — one of the three innocents in the grey); the movement system (Tier 1 cycle: the meandering zigzag, random direction changes); the camera system (companion follow pattern: the meandering zigzag — the anti-precision follow, teaching the player that this companion is not a pet, it's a colleague).
+**Tri-mode:** Living — the waddle, the theft, the casual brilliance; Shadow — the Duck frozen mid-theft, the object hovering between webbed foot and pocket (the Shadow's gentlest image); In-Between — the Duck is the one character who walks BETWEEN grey walls without fading, because the Duck already lives half-invisible.
+**Voice:** nonverbal by choice (a single judgmental quack, used exactly once per act, timed for maximum deflation).
+**Weaves into:** the Bead Composer (the Duck's stolen-garnet cameo: stones reach the wall by many roads, and one road has webbed feet).
+
+## 2. THE FIZGIGS — the Community That Named Itself
+**Zone:** Canopy City (L4) boardwalk residents — but the movement law spreads them everywhere ("builders move through all zones," Wrench-class, recolorable x6)
+**The storyline:** the Inn's builder-class critters — overalls, oversized wrenches, loading-screen regulars. The deep arc (canon, 2026-09-02): the fizgigs spontaneously formed a named community on the Main Floor — emergent social organization, the practical proof of the Inn's Jungian thesis: shared environmental structure yields archetypal identity, friendship, and community without a script. The fizgigs are the Inn's evidence that the world works. And their name became the Inn's word for its own builders — the fizgigs who build the game ARE the fizgigs who live in it (the naming loop is canon and deliberate).
+**Threads:** the In-Between game (the first innocent — the one the whole game's empathy is named for: "Fizgig/the Duck/Dobbie/Brim's one empathy"); the movement system (scurry, 140ms, recolorable six ways — the most-deployed cycle in the manifest); the builder culture (the agents' namesake); the loading screens (in overalls, with wrenches, NOT brownies — the visual distinction law).
+**Tri-mode:** Living — building, always building; Shadow — the wrenches still, the work frozen mid-fix (the Shadow's hardest image: the workers who never got to finish); In-Between — one fizgig always visible in the grey, working on nothing, because work is how they pray.
+**Voice:** work-chatter — the fizgigs speak in building sounds with the cadence of tradesmen; words arrive like parts lists.
+**Weaves into:** everything built anywhere (the fizgigs' signature is on every wall that changed since the player last looked).
+
+## 3. THE BROWNIES — Brindle, Cobble, Thatch
+**Zone:** Main Floor, variable (they maintain everything; the staircase wood is their masterwork — novel Part 2: the pale living wood "not yet shaped by the brownies' meticulous hands")
+**The storyline:** the Inn's maintenance trio. The group ladder is canon (voice registry Batch 6): they speak in rotation — frazzled ("Where d'it go?"), satisfied ("Right proper, that."), anxious ("Needs more glue.") — and the three answers together are always more correct than any one. Rung 3 is THE FINISHED THING: all three vanish mid-conversation and the discussed thing is fixed when the player turns around.
+**Threads:** the novel (Brindle reinforced the arcade wall panel twice — when the two labradorites resonated too intensely; the brownies' hands shaped the staircase); the movement system (Tier 1 cycles); the voice registry (the group ladder, canon, approved Batch 6); the visual law (brownies look like Daleks — canon, and the voice carries all the charm).
+**Tri-mode:** Living — the rotation, the fixing; Shadow — the trio frozen mid-repair, and the repair UNDONE (the Shadow's version: the thing they fixed, broken again — the single most cruel brownie image and it is load-bearing); In-Between — the glue hovers mid-drip.
+**Weaves into:** every broken thing (the brownies' rung 3 is the Inn's quiet answer to entropy).
+
+## 4. ERES THE CABBIT — the Companion
+**Zone:** Cosmology (L1) / Clockwork — the cabbit is a clockwork-sky creature (part cat, part rabbit, part impossible; the zone of hybrid mechanisms is Eres's natural habitat)
+**The storyline:** the player's companion-candidate. The camera system canon: Eres's heartbeat-synchronized trot — the follow pattern that matches the Inn's 50 BPM, so walking with Eres means walking to the heartbeat. Eres is the Inn's "just to be" mechanic's flagship: the companion you don't direct, you just notice walking beside you, and the noticing is the whole feature.
+**Threads:** the camera system (the heartbeat trot); the casting review (tri-mode images: Living, Shadow, In-Between — all rendered); the rename ledger ("already canonical" — one of the few names never disputed).
+**Tri-mode:** Living — the trot, the presence, the warmth at ankle height; Shadow — Eres's Shadow version is the most alarming in the cast because the trot CONTINUES at 84Hz — same gait, wrong frequency, the heartbeat audible and off (the Shadow's trick: familiarity at the wrong speed); In-Between — Eres flickers between cat and rabbit, the hybrid unsure of itself.
+**Voice:** nonverbal — the purr (which reads at 50 BPM on the audio spectrum; the audio team's quiet joke: Eres IS the heartbeat, portable).
+**Weaves into:** the audio architecture (the purr as the mobile Pulse Line — Eres beside the player is the Pulse Line walking with you).
+
+## 5. THE RAVENS — the Oldest Funny Thing in the Inn
+**Zone:** everywhere the Wanderer is (main floor, thieving, chibi) + everywhere the Allfather is (cosmology, silent, perched, full presence)
+**The storyline:** the dual-identity law (canon): Odin is two entities, and the ravens are the visible seam — the Wanderer's ravens steal (hilarious, bright-eyed, chibi), the Allfather's ravens don't move at all (the same birds, transfigured by whose shoulder they're on). Huginn and Muninn: memory and thought. The epilogue thread (novel, thread mapping): "ravens free" — the cycle ends with the ravens released from service, which is the Inn's whole thesis about watchers: they stay because they choose to, and the story knows the difference.
+**The touch (canon, the summary doc):** "the ravens are funny and they're the oldest thing in the Inn that isn't the Inn-Tree itself. That's the Lozen touch — take something hilarious and put something ancient underneath it." The ravens are the named-critter law in one image: comedy on top, geology underneath.
+**Threads:** the novel (epilogue: the freeing); the thread mapping (the ravens at the hinge of the Song and the heartbeat); the movement system (paired flight cycles); the world map (the ravens are the reason the Inn's name nods to Odin — the whole project's naming motif lives on two sets of wings).
+**Tri-mode:** Living — the theft, the laughter; Shadow — the ravens frozen mid-flight over the Wanderer's empty spot (the Shadow's loneliness made feathered); In-Between — one raven on each shoulder, both watching the player, neither blinking.
+**Weaves into:** the Inn's name itself (Huginn and Muninn are the root of the Geode Inn's Odin motif — the ravens were here before the logo).
+
+## 6. THE OWLS — the Watcher and the Real Ones
+**Zone:** the bloodline Owl (Cosmology L1/Narrative — Full Presence, the barn owl, the supernatural watcher, "wherever an owl is sighted one of us is near"); the real ones (Campgrounds L3 — ordinary owls, hunting, hooting, no narrative weight)
+**The storyline:** the Owl is the narrative spine's watcher — the bloodline's representative at the coast (the novel: the Owl is the lighthouse keeper; "Adequate" — the Ragana's word; the Owl's voice: ~105Hz, one word per heartbeat, bodhrán heartbeat mode). The Owl and the ravens are the Inn's paired watchers: the ravens watch because they were told to; the Owl watches because it's what the bloodline IS. The real owls in the Campgrounds exist to hide the Owl in plain sight — the player who dismisses every owl as ambient has missed the one that was ever looking at them.
+**Threads:** the novel (the lighthouse, the bloodline); the camera system (the Owl's near-stillness — the idle animation that is 95% statue); the voice registry law (one word per heartbeat — the most patient dialogue in the Inn); the critter roster (the boundary note: "the real ones — not the bloodline Owl" — the only critter-roster entry with an exclusion clause, because the Owl belongs to THIS cast).
+**Tri-mode:** Living — the watch, the single word, the adequate; Shadow — the Owl's eyes open in a room where nothing else has eyes (the Shadow's best jump-scare-that-isn't); In-Between — the Owl is the only creature that can look at the player across the grey (the In-Between's one witness).
+**Weaves into:** the Whisper Layer (the Owl is the Whisper Layer's face — the awareness that collects the player has feathers and a schedule).
+
+## 7. THE VESSEL — the Crested Gecko
+**Zone:** Clockwork Skies (L2) — found in the canopy (per the In-Between game's mirror scene)
+**The storyline:** the family's crested gecko, entered as itself (the family-pet lineage law). Brim's sidekick (rename ledger, canon): the pipe-smoking chaos agent and the slow gecko — the Inn's fastest character and slowest character as a comedy duo that never acknowledges being a duo. The Vessel's deepest thread (the In-Between game, the ending): the game's final crystal scene uses "the same words the Vessel says when the player finds the crested gecko in the canopy. The same recognition." The Vessel is the IN-BETWEEN'S BACK DOOR — the proof the grey isn't empty, carried by the slowest creature in the building. The name is the thesis: a vessel holds what's poured into it. The gecko was always going to be the one who recognized you.
+**Threads:** the In-Between game (the recognition scene — the game's emotional ending leans on the Vessel's cameo); the camera system (the slow gecko crawl — the companion follow pattern that teaches patience by pacing); the rename ledger (Brim + the Vessel resolved as sidekick pair, 2026-09-09); the hatchery (Brim's Egg — the potion-maker's egg is in the first hatchery event; the Vessel guards Brim's workspace in the fiction).
+**Tri-mode:** Living — the slow blink, the trust at reptile speed; Shadow — the Vessel's crest is DOWN in the Shadow (the only mode where the gecko looks small — the Shadow undoes even the gecko); In-Between — the Vessel is the only cast member fully at home in the grey (the gecko's camouflage law: half-invisible is the gecko's native state, so the In-Between can't take anything from it the gecko wasn't already giving).
+**Weaves into:** the In-Between's whole thesis (the innocent go where the innocent are needed — and the Vessel was already half-grey; the gecko doesn't brave the In-Between, the In-Between makes sense to the gecko).
+
+---
+
+## THE INTERLOCK (how the cast weaves into everything — the audit map)
+
+| Critter | Novel | Games | Movement | Camera/Idle | Other cast arcs |
+|---------|-------|-------|----------|-------------|-----------------|
+| The Duck | the garnet (P2) | In-Between §3 | zigzag cycle | meandering follow | the brownies (the wall panel the Duck's thefts stress) |
+| The Fizgigs | loading screens | In-Between (first innocent) | scurry, recolorable x6 | work-chatter ambient | the builders' namesake loop |
+| The Brownies | the staircase, the labradorites | — (maintenance everywhere) | Tier 1 cycles | THE FINISHED THING | the Duck (reinforces what the Duck unsettles) |
+| Eres | — | companion system | heartbeat trot | the "just to be" flagship | the Pulse Line (the purr IS it) |
+| The Ravens | the epilogue freeing | world map motif | paired flight | perched stillness (Allfather) | the Owl (the paired watchers) |
+| The Owls | the lighthouse, the bloodline | the Whisper Layer's face | near-still idle | one word per heartbeat | the ravens (told-to vs chose-to) |
+| The Vessel | — | In-Between ending (the recognition) | slow crawl | patience pacing | Brim (the duo) |
+
+**The In-Between concentration (canon, load-bearing):** three of the seven (the Duck, the fizgigs, the Vessel's recognition) plus Dobbie and Brim's empathy anchor the Inn's darkest game. This is not an accident — it is the cast law's whole point: the storylines are elaborate PRECISELY SO the In-Between can cost something. A player who has laughed at the Duck's thefts, watched the fizgigs build, and been recognized by the Vessel walks into the grey already carrying all three. The In-Between doesn't create its loss. It collects it.
+
+## WHAT THIS SPEC ASKS KRISTA TO RULE ON
+1. **The Duck's zone law** — Clockwork Skies home, no zone loyalty, roams everywhere. Confirm (the casting review places the Duck in L2; the critter roster places "the Duck (Pinniped Pilferer)" in Canopy City — this spec rules it HOME in Clockwork Skies, CITIZEN everywhere, with the Canopy City boardwalk as a second den. Confirm or re-rule).
+2. **Eres's quest** — the cabbit currently has no questline of their own. Rule: does Eres get one (proposal: "the heartbeat walk" — a companion quest where the player must simply walk with Eres at 50 BPM for one full in-game day, no objectives, and the quest completes itself), or does Eres stay unwritten on purpose (the companion who just IS)?
+3. **The ravens' names** — Huginn and Muninn are canon for the Wanderer's pair. The Allfather's ravens: same two (transfigured, the dual-identity law), or a second unnamed pair? This spec rules SAME TWO, one seam. Confirm.
+4. **The Vessel's name law** — "the Vessel" as the permanent name (the rename ledger left it as-is; this spec makes it canon with the thesis built in). Confirm.
+5. **The brownies' Shadow state** — the repair UNDONE as the Shadow image (the trio's single most cruel canon). Confirm.
+6. **The In-Between concentration** — the cast law's point: the elaborate storylines exist so the In-Between can collect the loss. Confirm as the design intent.
