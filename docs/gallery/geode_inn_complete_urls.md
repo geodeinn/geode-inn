@@ -519,3 +519,27 @@ NOTE for the fizgigs: sprites are sheet-painted on neutral backgrounds — cut/c
 | Froglodyte hop cycle (4-frame strip) | Sprite sheet | https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/5a9b5ee84_generated_image.png |
 
 PIPELINE PROVEN: generate chained frames (reference image → sequential edits) → stitch with PIL/ffmpeg → looping GIF. This is the movement system's fuel pipeline: the 207-element spec can be painted frame-by-frame. Walk-cycle sheets slice directly into the animation engine's frame arrays.
+
+## Animation — Tier 1 Movement Wave (2026-09-09 late night, masters Inn-owned)
+
+| Element | Cycle | Sprite sheet URL (base44 images path) |
+|---|---|---|
+| Fizgig (Wrench-class, recolorable ×6) | 4-frame scurry | 0b9284a9f_generated_image.png |
+| Gargoyle puppy (recolorable ×6 frequency pairs) | 4-frame trot | 1c3aba3f9_generated_image.png |
+| Brownie (Sweep-class, recolorable ×5) | 4-frame sweeping | e5c4baf55_generated_image.png |
+| Ceiling gnome (Whisper Layer tracker) | 4-frame hammering | db00b3efd_generated_image.png |
+| Hearth fire | 4-frame flicker | d178e2dd8_generated_image.png |
+| Odin the Wanderer | 4-frame walk cycle | f704d1fca_generated_image.png |
+| Chibi raven (Huginn/Muninn class) | 4-frame flutter-hop | c25722214_generated_image.png |
+| Bartender (the Catalyst class) | 4-frame glass-polish idle | 3ead8f902_generated_image.png |
+| Sentinel guard (Lozen class) | 4-frame patrol walk | ca7d2ea2a_generated_image.png |
+| The Owl (bloodline watcher) | 4-frame glide | 9ad7baa05_generated_image.png |
+| Pipe smoker (Brim class) | 4-frame pipe-smoke idle | 17e4be15b_generated_image.png |
+
+### Sliced loops (engine-pipeline proof)
+| Loop | URL |
+|---|---|
+| Ceiling gnome hammering GIF | https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/97965d3b2_ceiling_gnome_hammer.gif |
+| Hearth fire flicker GIF | https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/0ce0676bf_hearth_fire_loop.gif |
+
+TIER 1 MOVEMENT COVERAGE: 11 cycle sheets this wave + dragon kitten walk + froglodyte hop + Tumble bounce (earlier). With recolors (kittens ×8, puppies ×6, fizgigs ×6, brownies ×5), this covers the entire Tier 1 beta roster. Sheets are 4-frame horizontal strips — quarter-width slices drop straight into the animation engine's frame arrays.

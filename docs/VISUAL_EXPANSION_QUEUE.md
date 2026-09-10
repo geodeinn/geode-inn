@@ -83,3 +83,9 @@ Named faces get a lore-first prompt pass (six-writer voice, zone style bible, ce
 - FLIP BOOK PIPELINE PROVEN: Tumble bounce GIF (4 frames) + Inn tri-mode flip GIF (3 frames, oscillating) stitched with PIL — real, looping, Inn-owned.
 - Walk-cycle sprite sheets: dragon kitten (4-frame walk) + froglodyte (4-frame hop) — engine-ready animation strips.
 - Next: the remaining ~50 Tier 1 movement elements can now be produced the same way. GIF URLs live in the gallery manifest.
+
+## Movement Wave 2 Complete (2026-09-09 latest night)
+- TIER 1 MOVEMENT ROSTER PAINTED: 11 new cycle sheets (fizgig scurry, gargoyle puppy trot, brownie sweeping, ceiling gnome hammering, hearth flicker, Odin walk, raven flutter, bartender idle, sentinel patrol, owl glide, Brim pipe idle) + earlier dragon kitten, froglodyte, Tumble bounce.
+- Recolor math: one sheet per creature CLASS covers all named individuals (8 kittens, 6 puppies, 6 fizgigs, 5 brownies).
+- Engine-pipeline proof: gnome hammering + hearth fire GIFs sliced directly from sheets with PIL. Sheet → quarter-width frames → 13-line script → loop.
+- NEXT: Gazette strip #001 (The Great Renaming) panel art — the night's finale.
