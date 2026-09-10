@@ -31,7 +31,7 @@
 | Territory | Spec'd | Visual assets exist | Status |
 |---|---|---|---|
 | Inn core zones (L1–L9) | 110 zone master specs total | 10 hosted zone_L images + 54 zone image files (z01–z35 + specials) | PARTIAL — panoramas exist; tri-mode done for 8 majors; per-zone prop/ENV fill varies |
-| World-map cultural zones (z01–z35: Superstition Mtns, Yellowstone, Appalachian, Egypt, Atlantis, Camelot, Norse, China, Silk Road...) | included in the 110 | z01–z35 numbered images exist | MAJOR — Silk Road: ALL 5 ROUTE SCREENS COMPLETE + tri-mode hub, caravan, ley map, shrine, Gorey bandits (all with canon Echo states) 2026-09-10. Owed: the 5 cultural platform pieces (O'Keeffe Egypt, Celtic, Andean, SE Asian, Mesoamerican platforms w/ market stalls) |
+| World-map cultural zones (z01–z35: Superstition Mtns, Yellowstone, Appalachian, Egypt, Atlantis, Camelot, Norse, China, Silk Road...) | included in the 110 | z01–z35 numbered images exist | SILK ROAD ART COMPLETE 2026-09-10: 5 routes + 5 platforms (Celtic/Alan Lee, Egyptian/O'Keeffe, Andean/Bierstadt, SE Asian/Hokusai, Mesoamerican/Rackham frame) + tri-mode hub, caravan, ley map, shrine, Gorey bandits — every piece with canon Echo state. The flagship corridor's full visual set is painted. |
 | Characters | 45-core NPC manifest + master roster | 168 portrait/concept files (tri-mode + v2/v3 iterations + 13 artifacts) | PARTIAL — core 45 nearly covered; tri-mode uneven; 18 canonical renames applied |
 | Arcade games (80 build sheets, 61 shoppable) | 80/80 define VISUAL ASSETS NEEDED; 34 have exact sprite counts | 1 game has engine sprites (Tomb Tunnel pilot) | OWED — the big one. See section 5 |
 | Movement cycles (Tier 1/2/3) | movement spec: 207 animated elements | 14 cycle classes painted ≈ full Tier 1 beta roster via recolors | DONE Tier 1 / OWED Tier 2-3 |
@@ -83,7 +83,7 @@ Loop proofs: ceiling gnome hammering, hearth fire (PIL-sliced from sheets).
 ## 8. THE OWED LIST — ranked by dependency
 
 1. DONE 2026-09-10 — Tomb Tunnel full tri-mode cast (28 sprites: 14 living + 14 shadow via scripted 84Hz spectral shift — the recolor-class principle proven on its first shift). NEW #1: Silk Road zone art
-2. NEAR-COMPLETE 2026-09-10 (wave 3) — Silk Road: ALL 5 ROUTES painted (Amber, Salt, Spice, Jade, Obsidian — each with Echo state), tri-mode hub, caravan, ley map, shrine, bandits. The caravan has traveled every road. Owed: 5 cultural platform pieces, then Silk Road art is DONE
+2. DONE 2026-09-10 (wave 4) — SILK ROAD FULLY PAINTED: 5 routes, 5 platforms, tri-mode hub, caravan, ley map, shrine, bandits — all with Echo states. Flagship corridor complete in one day. NEW #2: Web-beta wire-up of Silk Road set (zone page + caravan screen)
 3. OWED — Tier 2 movement cycles (critters + ambient NPCs for beta density)
 4. OWED — Gazette display page on web beta + daily generation workflow
 5. OWED — Tri-mode completion for remaining cultural zones

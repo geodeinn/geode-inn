@@ -620,3 +620,28 @@ The caravan has traveled every road. Route network tri-mode complete.
 - The Obsidian Road — Echo state
   - File: `silk_road/obsidian_road_echo.png`
   - URL: https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/fa6adc37f_obsidian_road_echo.png
+
+## SILK ROAD — Fourth Wave: THE FIVE PLATFORMS (2026-09-10)
+
+Every route now has its destination painted. Each platform: market stalls, rare stone vendor, caravan master with route map, ley node shrine — all in its zone's artist hand.
+
+- Platform: Celtic (Alan Lee megalithic moor, Preseli stones, spiral shrine)
+  - File: `silk_road/platform_celtic.png` | Echo: `silk_road/platform_celtic_echo.png`
+  - URL: https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/1b54be385_platform_celtic.png
+  - Echo URL: https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/56f31e9d4_platform_celtic_echo.png
+- Platform: Egyptian (O'Keeffe bone-forms at Giza, lapis stall, 111Hz shrine)
+  - File: `silk_road/platform_egyptian.png` | Echo: `silk_road/platform_egyptian_echo.png`
+  - URL: https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/21272b91b_platform_egyptian.png
+  - Echo URL: https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/f14041dea_platform_egyptian_echo.png
+- Platform: Andean (Bierstadt luminist terraces, alpaca, quartz stall)
+  - File: `silk_road/platform_andean.png` | Echo: `silk_road/platform_andean_echo.png`
+  - URL: https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/34f63cb0a_platform_andean.png
+  - Echo URL: https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/bdf4f8478_platform_andean_echo.png
+- Platform: Southeast Asian (Hokusai floating market beneath Angkor faces, jade)
+  - File: `silk_road/platform_se_asian.png` | Echo: `silk_road/platform_se_asian_echo.png`
+  - URL: https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/a505acffe_platform_se_asian.png
+  - Echo URL: https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/a5c2b5d51_platform_se_asian_echo.png
+- Platform: Mesoamerican (Rackham frame, Chichen Itza serpent pyramid, obsidian mirrors)
+  - File: `silk_road/platform_mesoamerican.png` | Echo: `silk_road/platform_mesoamerican_echo.png`
+  - URL: https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/902d015b0_platform_mesoamerican.png
+  - Echo URL: https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/2121ef974_platform_mesoamerican_echo.png
