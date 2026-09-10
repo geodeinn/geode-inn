@@ -31,7 +31,7 @@
 | Selkie / Festival / Mother's Many Faces / Observatory | Chains per the cultural chains master spec |
 | z09 Cave City | THE LAST LIGHT — full design doc in the recovered library (the Crimean Goths, six districts, the Gatekeeper's three admissions, the Root Note's 42Hz listen, the Subtractive Eye; the emergence choice is the Goths' own) |
 | z19 Mesopotamia | THE FIRST WRITING — the Ziggurat chain (the Bifrost's first step lights on completion; Inanna's chosen descent unlocks the voluntary descent — the death system's will-side, paired with Persephone's taken-side) |
-| z27 Miskatonic (partial) | The Annex doc holds the Hungry Lion quest (now Naut's Borrower's Ledger per the rename sweep) — Quire's shelf stays Krista's to rule on |
+| z27 Miskatonic | MASTER WORLD SPEC PASSED 2026-09-10 — the Critter Law + the Borrower's Ledger chain + the three deep archives (Drowned Library / Niflheim Archive / Sacred Cenote); both gates ruled (scholars never acknowledge; the window never explained) |
 
 ## THE REMAINING SWEEP — zones still waiting for a story (12)
 
@@ -64,4 +64,5 @@
 4. ~~Cave City~~ ✅ FOUND COMPLETE — THE LAST LIGHT (already written, recovered library)
 5. ~~Mesopotamia~~ ✅ FOUND COMPLETE — THE FIRST WRITING (already written, recovered library)
 6. Camelot (the Arthur spec is deep enough to chain from)
-7. Then the unwritten: Trovants → Peru → Bosch Shadows → Petrified Forest → Van Gogh Garden → Meadery → Tidal Caves → Spiral Gallery → Terracotta → India → Canopy City
+7. ~~Van Gogh Garden~~ ✅ DRAFTED 2026-09-10 — THE VISIBLE GROWING (awaiting pass; Sorrel named)
+8. Then the unwritten: Trovants → Peru → Bosch Shadows → Petrified Forest → Meadery → Tidal Caves → Spiral Gallery → Terracotta → India → Canopy City

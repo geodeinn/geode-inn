@@ -1,5 +1,5 @@
 # THE MISKATONIC ANNEX — MASTER WORLD SPEC
-## The world it houses — drafted 2026-09-10 for Krista's review (DRAFT until ruled)
+## The world it houses — PASSED by Krista 2026-09-10 (CANON — both gates ruled: the scholars never acknowledge; the window is never explained)
 > PROVENANCE: the recovered aesthetic bible (library/zones/Geode_Inn_—_Miskatonic_Annex_(Rousseau).txt) is the zone's canon aesthetic — Rousseau's impossible clarity. This spec builds the world that bible was pointing at. The aesthetic doc is hereby PROMOTED with it.
 
 ---
@@ -17,7 +17,7 @@ The Annex has outgrown the reading nook it was drawn as. It is not a room with s
 ## THE WORLD IT HOUSES
 
 ### The Study — "The Dream"
-Naut's armchair, the fireplace, the spectacles, the window. The domestic and the cosmic in the same frame, equally sharp, refusing to choose. The study is the Annex's only fixed room — the anchor around which the rest grows. THE WINDOW is the study's one unsettling inheritance: through it is not any zone of the Inn — a flat blue sky, shapes that might be mountains, a world without perspective. The gap in the Inn's architecture where something else looks in. Or where Naut looks out. The window is never explained. (Canon gate: the window's world — leave it unexplained, or rule it. My recommendation: never explain it. The Sleeping Gypsy's moon was never explained either.)
+Naut's armchair, the fireplace, the spectacles, the window. The domestic and the cosmic in the same frame, equally sharp, refusing to choose. The study is the Annex's only fixed room — the anchor around which the rest grows. THE WINDOW is the study's one unsettling inheritance: through it is not any zone of the Inn — a flat blue sky, shapes that might be mountains, a world without perspective. The gap in the Inn's architecture where something else looks in. Or where Naut looks out. The window is never explained. **RULED (Krista, 2026-09-10): the window stays unexplained — the Sleeping Gypsy's moon law.**
 
 ### The Three Deep Archives — the retrieval worlds of the Borrower's Ledger
 The Annex houses three archives that are not rooms but WORLDS — the deepest libraries of the Inn's other systems, each reachable through the Annex's back shelves, each its own mini-zone:
@@ -28,8 +28,8 @@ The Annex houses three archives that are not rooms but WORLDS — the deepest li
 
 **3. THE SACRED CENOTE** (the well archive) — the Maya archive: a sunken limestone well, the books of the surface world delivered to the water below by ritual and care, preserved by the chemistry of limestone and stillness. The cenote's law: some knowledge is given to the well ON PURPOSE — the archive as offering, not storage. Real archaeology echo: the actual sacred cenotes held what was given, not lost — the deposits were deliberate, the library was always a library. Tie: the Peruvian/Maya zone lineage, the Sacrifice-keeper's jurisdiction.
 
-### The Restricted Shelf — QUIRE'S MARGIN (FLAGGED — KRISTA'S RULING)
-The Annex's deepest growing edge: the shelf of texts the jungle grows AROUND, never over — the restricted Archive texts Quire reads in the margins of, hushed, always looking over his shoulder. This shelf is Quire's territory inside the Annex, distinct from Naut's study — two scholars, one jungle, different shelves, never sharing a fire. **Held for Krista's ruling:** how Quire and Naut relate in this shared space (my recommendation: they never acknowledge each other. The two scholars pass like the books pass — in silence, in margins, each certain the other is the more dangerous reader).
+### The Restricted Shelf — QUIRE'S MARGIN (RULED 2026-09-10)
+The Annex's deepest growing edge: the shelf of texts the jungle grows AROUND, never over — the restricted Archive texts Quire reads in the margins of, hushed, always looking over his shoulder. This shelf is Quire's territory inside the Annex, distinct from Naut's study — two scholars, one jungle, different shelves, never sharing a fire. **RULED (Krista, 2026-09-10): the scholars never acknowledge each other.** The two pass like the books pass — in silence, in margins, each certain the other is the more dangerous reader.
 
 ### The Borrowers
 The Ledger's names: the books checked out and never returned, by borrowers whose names are shapes, not words. The Borrowers are the Annex's cryptid population — glimpsed between shelves, never twice the same shape, each carrying a book somewhere into the green. Not villains. Patrons. The Annex lets them borrow because the Annex knows where every book is, always, the way the jungle knows where every leaf is. The final ledger quest is about ONE book that even the Annex cannot find.
@@ -79,4 +79,4 @@ The Drowned Library's keeper (water-voiced, patient), the Niflheim hold-guard (h
 ## TONE LAW
 No shadows, no fog, no lurking dread — the dread is CLARITY, played warm and played straight. Gaiman's hush without Gaiman's dark. Weir's precision for the preservation science (bogs, ice cores, cenote chemistry — all real, all load-bearing). Rothfuss for the shifting green. And the whole zone passes through Naut's single word — "Fascinating." — which in this Inn is not fear. It is welcome.
 
-*Draft for Krista's review. Canon gates flagged: (1) Quire's relation to Naut in the shared space — my recommendation stands (never acknowledge, both certain the other is the more dangerous reader); (2) the window — my recommendation: never explain it. On approval: the Critter Law is canon, the chain loads, the three deep archives join the builder queue as the Annex's inner worlds.*
+*PASSED (Krista, 2026-09-10) — canon. The Critter Law holds, the chain loads as the zone's story, and the three deep archives join the builder queue as the Annex's inner worlds.*
