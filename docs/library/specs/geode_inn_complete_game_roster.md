@@ -125,3 +125,15 @@ Tetris, Dig Dug, Temple Run, Reverse Jaws, Geometry Dash, Vampire Survivors, DDL
 
 ## MONETIZATION
 All 61 games are individually purchasable as standalone products — both on Steam and on the Geode Inn shop. Each game is a separate SKU with its own store page, pricing, and platform packaging. Bundle options: Arcade Pass (all 61), Zone Packs (by category), or individual purchase.
+
+---
+
+### CATEGORY 11: NEW SPECS (2026-09-10 — spec'd, not yet built)
+| # | Game Name | Type | Inspiration Template | Zone | Reward Stone |
+|---|-----------|------|---------------------|------|-------------|
+| 62 | The Thread | Labyrinth Inside-View | Original (thread mechanic) | Labyrinth of Crete (Greece) | — |
+| 63 | The Between | Margin-Walk | Original (kindness-keyed) | The Between (Fae borderland) | — |
+| 64 | The In-Between | Grey Platformer | Limbo | The In-Between (the grey interval) | — |
+| 65 | The Rest | Stillness Puzzle | Original (measured silence) | The Void (Cosmology, 0Hz) | Stillness Stone |
+
+**Roster count: 65** (61 shoppable + 4 new specs). All homes assigned — see geode_inn_zone_game_style_master_list.md.
