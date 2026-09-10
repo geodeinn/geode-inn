@@ -702,3 +702,16 @@ Five cycle sheets, all with canonical 84Hz shadow variants. Krista-approved: "Pr
   SHADOW: https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/e4493aee6_wild_raven_shadow.png
 - CYCLE-MIRROR-CARP LIVING (silver-gold, shows the truest reflection; Water Zone ambient roster now COMPLETE): https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/01d57c5cd_mirror_carp.png
   SHADOW: https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/2ddf5c5c3_mirror_carp_shadow.png
+
+## TIER 2 MOVEMENT CYCLES — GROUND CREW (wave 4, 2026-09-10) — TIER 2 COMPLETE
+
+Four final cycle sheets, all with canonical 84Hz shadow variants. With this wave, the Tier 2 ambient critter roster is COMPLETE: 25 sheets total across four waves, 50 uploaded assets (25 living + 25 shadow).
+
+- CYCLE-MOSS-HEDGEHOG LIVING (wildflowers in the moss): https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/91b95505f_moss_hedgehog.png
+  SHADOW: https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/ecd9f1649_moss_hedgehog_shadow.png
+- CYCLE-RUNE-BEETLE LIVING (Archive custodian, glowing runic carapace): https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/ab09163a1_rune_beetle.png
+  SHADOW: https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/e59e8d959_rune_beetle_shadow.png
+- CYCLE-MOSS-TURTLE LIVING (two tiny shelf mushrooms, the garden's slowest resident): https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/f1f65a11c_moss_turtle.png
+  SHADOW: https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/b0f32e731_moss_turtle_shadow.png
+- CYCLE-CRYSTAL-LIZARD LIVING (smoky quartz scales, mineral spine-light): https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/5e83f97a0_crystal_lizard.png
+  SHADOW: https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/62553a544_crystal_lizard_shadow.png
