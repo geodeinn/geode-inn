@@ -25,10 +25,10 @@
 | Hollow Earth (Crystal Tunnels, 9-district Crystal City, Grand Collision) | narrative integration doc, 11-artist layer map | layer definitions per district, item templates (9 districts lack standalone templates — audit flag) | **3** |
 | The In-Between (all 8 states) | tri-mode tectonic specs, game #62/#63 | layer definitions — each state is a "layer" needing the full treatment | **4 — DONE (D11, 2026-09-10: geode_inn_walkthrough_dissection_11_in_between_shadow_inn.md — 8 states, each with room-for-room 84Hz mirror, the laws, the residents, the game layer)** |
 | Shadow Inn (84Hz mirror) | tri-mode spec, dark_side spec | layer definitions matching the living Inn room-for-room | **5** |
-| Canopy City (+ Canopy Shadow) | master spec | layer definitions + dissection (Tumble's native zone; queens' ladder feeds here) | **6** |
+| Canopy City (+ Canopy Shadow) | master spec | layer definitions + dissection (Tumble's native zone; queens' ladder feeds here) | **6 — DONE (D12, 2026-09-10: geode_inn_walkthrough_dissection_12_canopy_redwood.md — boardwalk, marketplace, nine platforms, the Mingle, the Calm, Tumble's chime)** |
 | Main Floor sub-areas (Hearth, Garden, Meadery, Portrait Gallery, Brim's Nook, Arcade, Market, Music Room, Archive, Hatchery, Reader's Nook, Owl's Branch) | audit rows complete, D01/02 partial | per-sub-area layer definitions — 17 rooms, each needs its own layer pass | **7** |
 | Camelot | master spec + 3-quest chain | layer definitions (Three Arthurs painted; healing hall, Round Table tuning, Grail quest need the water-grade treatment) | **8** |
-| Redwood Cathedral | master spec + queens' spaces (D07B) | climbing route layer definitions (root → hollow → heartwood → bough chapters) | **9** |
+| Redwood Cathedral | master spec + queens' spaces (D07B) | climbing route layer definitions (root → hollow → heartwood → bough chapters) | **9 — DONE (D12, 2026-09-10: five climbing layers + Mona's three queens' spaces; game #45's full climb ruled as the three-chapter ascent; the sitting law)** |
 | Egypt / Desert Bone | 7-doc spec suite (COMPLETE zone build) | layer definitions consolidating the 7 docs into dissection grade | **10** |
 | Greece / Mediterranean | master specs, Labyrinth of Crete, Gorgon's Garden | layer definitions + the labyrinth/Masquerade duality pass | **11** |
 | Bayou | 7-quest chain, Mama Coumine, survival game | layer definitions (3 buried cities = 3 layers) | **12** |
