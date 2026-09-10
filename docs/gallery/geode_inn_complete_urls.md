@@ -343,3 +343,10 @@ Filenames are legacy per the naming policy; display names are canonical (see cha
 - Erik — v2 portrait
   - File: `erik_v2.png`
   - URL: https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/88aa209aa_erik_v2.png
+## World Map Section Screen (2026-09-09)
+
+- **World map zone screen (official):** https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/89905029a_parchment_candidate_1.jpg
+  - Source: frame extracted from "parchment world 1.mp4" (Drive → Zones → zones), final-reveal frame, metadata stripped before upload (sovereignty protocol)
+  - Krista's pick: "the parchment one that resembles the introductory credits for The Last Kingdom"
+  - Status: official zone image for the world map section — flagged for builder as the /world-map header image
+  - Alternates (kept in archive): two earlier frames from same flythrough
