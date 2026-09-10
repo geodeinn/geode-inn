@@ -1,5 +1,5 @@
 # THE PETRIFIED FOREST QUEST CHAIN: "THE PATIENT REPLACEMENT"
-## The forest's story — drafted 2026-09-10 for Krista's review (DRAFT until ruled)
+## The forest's story — PASSED by Krista 2026-09-10 (CANON — as is)
 > CANON SOURCES: the census line z22 ("wood turned stone — the transformation teaching layer"); the world map (artist: Adams × Royo); the recipe generator's petrified wood/agate builds with their real Indigenous toolmaking notes; before_the_song.txt's Medusa canon (the preserver: petrifies at the being's REQUEST, mineral permanence; the Frozen Garden; the Lithophone — the stone xylophone playing the Song captured in stone) and the Hel canon (half living, half dead; the staff half living wood, half petrified stone; the misunderstood isolator).
 
 ---
@@ -63,4 +63,4 @@ The finale: the Lithophone — Medusa's stone xylophone, the Song captured in st
 ## TONE LAW
 Weir holds the geology (permineralization, Chinle ash, the state fossil — all real, all load-bearing). Bradbury holds the ringing forest (the tone in the stone, the instrument 225 million years in the tuning). Gaiman holds Medusa (the myth corrected at walking pace). Rothfuss holds the cell-by-cell (the longest story told in the smallest words). And Hel's quest belongs to nobody — the between-being's quest is written in the gaps, the way the staff is half wood. No one is petrified. Someone is translated, and the translation keeps everything that mattered.
 
-*Draft for Krista's review — no flags; the chain loads on pass.*
+*PASSED (Krista, 2026-09-10) — canon, as is. The chain loads as the forest's story.*

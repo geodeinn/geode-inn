@@ -43,7 +43,7 @@
 | z32 Trovant Garden | ✅ CHAIN PASSED 2026-09-10 — 'The Stone That Answered' (Grit's homecoming, the naming, the music-composed wings, the Flower of Life in the periphery, the Ring Law; Stanca/7.83Hz/Tiffany approved) |
 | z21 Peru/Andes | ✅ CHAIN PASSED 2026-09-10 — 'What the Mountain Remembers' (the giving law, the Apus' weather-faces, Chullachaqui's tell, El Tunche's counter-hum, El Muki's vein-right, the player's own named Apu; 12Hz + GIFT-key approved) |
 | z34 Bosch Shadows | ✅ CHAIN PASSED 2026-09-10 — 'The Shadow's Own Story' (the reading journey: the four states, the imprint, the acorn, the inversion, the final wall; 84Hz = the silhouettes turn away) |
-| z22 Petrified Forest | — | Wood turned stone — the transformation teaching layer |
+| z22 Petrified Forest | ✅ CHAIN PASSED 2026-09-10 — 'The Patient Replacement' (translation not destruction; Medusa the preserver's request-only law; Hel's between-witness; the Lithophone finale; the kept tone) |
 | z28 Van Gogh Garden | Aesthetic doc only (recovered library) | The garden that paints itself |
 | z29 Meadery | Drink mechanic spec | The mead chain |
 | z33 Tidal Caves | — | The breathing stone chain |
@@ -64,4 +64,4 @@
 4. ~~Cave City~~ ✅ FOUND COMPLETE — THE LAST LIGHT (already written, recovered library)
 5. ~~Mesopotamia~~ ✅ FOUND COMPLETE — THE FIRST WRITING (already written, recovered library)
 6. ~~Van Gogh Garden~~ ✅ DRAFTED 2026-09-10 — THE VISIBLE GROWING (awaiting pass; Sorrel named)
-7. Then the unwritten: Petrified Forest → Meadery → Tidal Caves → Spiral Gallery → Terracotta → India → Canopy City
+7. Then the unwritten: Meadery → Tidal Caves → Spiral Gallery → Terracotta → India → Canopy City
