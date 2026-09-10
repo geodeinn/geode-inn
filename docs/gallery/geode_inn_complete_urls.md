@@ -645,3 +645,26 @@ Every route now has its destination painted. Each platform: market stalls, rare 
   - File: `silk_road/platform_mesoamerican.png` | Echo: `silk_road/platform_mesoamerican_echo.png`
   - URL: https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/902d015b0_platform_mesoamerican.png
   - Echo URL: https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/2121ef974_platform_mesoamerican_echo.png
+
+## TIER 2 MOVEMENT CYCLES — CRITTER BATCH (2026-09-10)
+
+Nine ambient critter cycle sheets, Rackham storybook watercolor, 6-frame horizontal loops on dark warm brown. Each has a canonical 84Hz shadow variant produced by docs/library/sprites/tools/spectral_shift_84hz.py (the tool is now a saved repo asset — the recolor principle is a production line, not a session trick).
+
+- CYCLE-HEARTH-PIXIE LIVING: https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/b183c4747_hearth_pixie.png
+  SHADOW: https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/38fcde583_hearth_pixie_shadow.png
+- CYCLE-DUST-MOTE LIVING: https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/19f610caa_dust_mote.png
+  SHADOW: https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/5472faea8_dust_mote_shadow.png
+- CYCLE-HEARTH-SALAMANDER LIVING: https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/1d28ddd87_hearth_salamander.png
+  SHADOW: https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/5116c741c_hearth_salamander_shadow.png
+- CYCLE-CANDLE-SALAMANDER LIVING: https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/9fdfb806a_candle_salamander.png
+  SHADOW: https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/c77a987a2_candle_salamander_shadow.png
+- CYCLE-BOOKWORM LIVING (Krista-approved 2026-09-10: "the bookworm is precious"): https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/4f7b0260e_bookworm.png
+  SHADOW: https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/0db2cb9dc_bookworm_shadow.png
+- CYCLE-STONE-MOUSE LIVING: https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/b6c2285f6_stone_mouse.png
+  SHADOW: https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/e0beed4ed_stone_mouse_shadow.png
+- CYCLE-GLOWWORM LIVING: https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/9d7946c2f_glowworm.png
+  SHADOW: https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/739c44475_glowworm_shadow.png
+- CYCLE-STONE-SNAIL LIVING (geode-shell canon: amethyst points): https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/bdf8432a7_stone_snail.png
+  SHADOW: https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/ef50fa5c3_stone_snail_shadow.png
+- CYCLE-DEW-SPRITE LIVING: https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/3831ed635_dew_sprite.png
+  SHADOW: https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/0e26d33fa_dew_sprite_shadow.png
