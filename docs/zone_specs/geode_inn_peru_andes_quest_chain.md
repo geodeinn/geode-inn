@@ -1,5 +1,5 @@
 # THE PERU/ANDES QUEST CHAIN: "WHAT THE MOUNTAIN REMEMBERS"
-## The mountain lore chain — drafted 2026-09-10 for Krista's review (DRAFT until ruled)
+## The mountain lore chain — PASSED by Krista 2026-09-10 (CANON — all four flags approved)
 > CANON SOURCES: the Peru lore record (Viracocha, Manco Capac & Mama Ocllo, Pachamama, the Apus, Chullachaqui, El Tunche, El Muki — loaded in the Lore entity); the Andean Run arcade game (the zone's arcade surface); the census line z21. ARTIST: Bierstadt holds the Andes (ruled — the Silk Road's Andes platform set the mountain light).
 
 ---
@@ -69,4 +69,4 @@ The finale at Lake Titicaca — the highest navigable lake on earth, and the cre
 ## TONE LAW
 Weir holds the geology (subduction, Titicaca's navigable record, the mimicry tells — all real, all load-bearing). Gaiman holds the watched mountains (mythic-made-personal, a face in the weather). Rothfuss holds Pachamama's voice (the deep patience in short words). Bradbury holds the whistle (the beauty is the danger, and the carried hum is the small warm thing that saves you). Pratchett is benched for this chain — the Andes don't joke, and the chain respects it. No one conquers the mountain. Someone gives to it, and the height is the receipt.
 
-*Draft for Krista's review — the four flagged questions (12Hz, the GIFT-key, the persisting Apu, Jarjacha archive-only) await her ruling; the chain loads on pass.*
+*PASSED (Krista, 2026-09-10) — canon, all four flags approved: 12Hz (felt before heard), the GIFT-key, the persisting Apu (the mountain's memory is the point), Jarjacha archive-only. The chain loads as the range's story.*

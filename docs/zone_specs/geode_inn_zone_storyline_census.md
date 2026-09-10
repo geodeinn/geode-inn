@@ -41,7 +41,7 @@
 | z10 Poison Garden | THE CURE GROWS BESIDE + the Little Alchemy overlay (the Combination Still), PASSED 2026-09-10 (canon) |
 | z20 Camelot | ✅ CHAIN PASSED 2026-09-10 — 'The Table Remains,' seven quests: the trying, the test, the being (the shift arc: Artair's merlin / Artorios's earned berserk bear / the Elder's chosen Arctur form), the wound, the seat, the stillness, and the Avalon passage (the retort — 'Build it again') |
 | z32 Trovant Garden | ✅ CHAIN PASSED 2026-09-10 — 'The Stone That Answered' (Grit's homecoming, the naming, the music-composed wings, the Flower of Life in the periphery, the Ring Law; Stanca/7.83Hz/Tiffany approved) |
-| z21 Peru/Andes | Andean Run game, Inca lore loaded | The mountain lore chain |
+| z21 Peru/Andes | ✅ CHAIN PASSED 2026-09-10 — 'What the Mountain Remembers' (the giving law, the Apus' weather-faces, Chullachaqui's tell, El Tunche's counter-hum, El Muki's vein-right, the player's own named Apu; 12Hz + GIFT-key approved) |
 | z34 Bosch Shadows | Bosch layer canon (frequency shadows) | The shadow's own story |
 | z22 Petrified Forest | — | Wood turned stone — the transformation teaching layer |
 | z28 Van Gogh Garden | Aesthetic doc only (recovered library) | The garden that paints itself |
@@ -64,4 +64,4 @@
 4. ~~Cave City~~ ✅ FOUND COMPLETE — THE LAST LIGHT (already written, recovered library)
 5. ~~Mesopotamia~~ ✅ FOUND COMPLETE — THE FIRST WRITING (already written, recovered library)
 6. ~~Van Gogh Garden~~ ✅ DRAFTED 2026-09-10 — THE VISIBLE GROWING (awaiting pass; Sorrel named)
-7. Then the unwritten: Peru → Bosch Shadows → Petrified Forest → Meadery → Tidal Caves → Spiral Gallery → Terracotta → India → Canopy City
+7. Then the unwritten: Bosch Shadows → Petrified Forest → Meadery → Tidal Caves → Spiral Gallery → Terracotta → India → Canopy City
