@@ -17,6 +17,24 @@ The chain's watch: the army was built to guard the 41.7Hz crystal — the fragme
 
 ---
 
+## THE HIDDEN GUEST — Persephone in the pit (Krista's ruling, 2026-09-10: "Was Persephone hiding in them?" — YES)
+
+She was. And the pit is the perfect shelter, because of what the pit IS: the only place in the Inn where sleeping is a DUTY, not an exile. Persephone's whole law is the cycle — the descent and the return, the below-months and the above-months — and every winter needs a place where the sleep is guarded, kept, and honored. The army holds 0Hz the way a lockstep holds a border. She winters in the watch.
+
+**The hiding place:** THE PAINTED WARRIOR (Quest 3). The one soldier whose colors the player restores is the one soldier whose colors CAN be restored — because someone is home, dreaming them. The pigments hold because a sleeper holds them: pomegranate red in the lacquer (the tell, the seed's own color, the myth's signature), the dreams in color because the dreamer is present. The restoration quest's hidden seasonality: the paint can only be completed in winter. In summer, the lacquer won't take — the soldier dreams monochrome, the colors gone with the guest.
+
+**The second tell (Quest 2's hidden line):** the stamped-names roll call finds one figure among the 8,000 with NO MAKER'S MARK — the only unstamped soldier in the pit. The census of hands always ends one figure short: 8,000 soldiers, ~700 maker-hands, and one face that no guild made. The player's roll call finds her ABSENCE before the paint quest finds her presence — the nested mystery: the unstamped one, then the un-fading one.
+
+**The Awakened One's second secret:** the watch has always kept TWO things — the crystal and her sleep. The 42Hz line is the pit's lullaby as much as its defense: the frequency held steady so the winter guest's sleep stays sweet. "I was not waiting to be relieved. I was waiting to be answered" gains its second floor: the watcher kept the line so that someone else could sleep through the whole of it. The watch was never lonely. The watch was a lullaby with a duty.
+
+**The spring:** when the Water Zone's cycle turns and Persephone rises (the return, the above-months), the painted warrior's colors fade with her — the only soldier in the pit whose paint is SEASONAL. The player who visits in winter finds the colors fresh; the player who visits in summer finds the ink-wash and the faintest red under the lacquer's edge, like a seed under the frost. The Awakened One, asked where the painted one went, says only: "Visiting family. She'll be back. She always comes back."
+
+**The finale's gained voice:** when the army answers (Quest 6's chorus — 8,000 sleepers humming back), one voice in the chord is not a warrior's. It's the guest's — faint, from inside a dream, the below-world's own frequency joining the pit's answer. The answering theme's deepest instance: the Inn's smallest note (Grit), its slowest stone (the trovant), and now its winter goddess, all answering in their sleep.
+
+**The wiring:** Persephone's Water Zone cycle (the 7-layer descent, the Lighthouse) is untouched — the pit is the winter STATION of the cycle, not its replacement; the Catacombs' level-6 Persephone/Hades quarter remains her summer household's below-address; the pomegranate seed pays the winter rent; the Mesopotamian Inanna-descent (the older template) reads the pit correctly from its own zone: the oldest story of going below and coming back, honored by the newest.
+
+---
+
 ## THE CHAIN
 
 ### Quest 1 — "The Watch"
