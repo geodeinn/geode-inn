@@ -410,3 +410,15 @@ NOTES: Watcher (Cosmology) and Pirate Captain (Water Zone) NOT uploaded — no c
 | Admiral Byrd (softened historical figure, polar explorer) | 1 | https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/2f95c87eb_generated_image.png |
 
 TIER 2 STATUS: COMPLETE — all roadmap zone panoramas generated (Main Floor, Staircase, Catacombs, Cosmology, Seelie Court, Unseelie Court, Water Zone, Shadow Inn).
+
+## Hatchery Egg Designs — All Four Tiers (2026-09-09, masters Inn-owned)
+
+| Egg | Tier | URL |
+|---|---|---|
+| Stone Tier egg (river stone, knotwork, moss) | 1 | https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/e02fa7bff_generated_image.png |
+| Iron Tier egg (forged, runes, ember glow) | 2 | https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/e02c449a6_generated_image.png |
+| Gold Tier egg (Fabergé lattice, gemstone cabochons) | 3 | https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/e898d81ac_generated_image.png |
+| Geode Tier egg (cut crystal cathedral, amethyst glow) | 4 | https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/b0456e745_generated_image.png |
+| Egg set study (group shot, decorative) | — | https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/5eb98478e_generated_image.png |
+
+ALSO: Unseelie Queen raven-feather cape confirmed as permanent canon design element by Krista (2026-09-09).
