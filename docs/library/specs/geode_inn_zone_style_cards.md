@@ -182,6 +182,15 @@
 3. Tri-mode completeness is a ledger requirement — the card tells you what all three states LOOK like before you render.
 4. Every card's anomaly is exactly ONE. If you find yourself adding a second, you have misunderstood the anomaly's job: the 2% is the door the player walks through into loving the zone.
 
+## 21. THE MOON — the Pirate's drum
+**Artists:** none assigned — the Moon is rendered by EARTHSHINE (the Earth reflected in the lunar sky, four times larger than the Moon appears from Earth — the light of home). No atmosphere, no scattering: the blackest sky in the game, silver-grey regolith, and exactly one warm color: the gold of the Pirate's bodhrán (2).
+**Anti-canon:** no structures, no architecture — the craters ARE the architecture (each one a resonance chamber, a natural drum body; the largest is the main drum, a basin kilometers wide, the surface taut and resonant).
+**Palette:** silver-grey regolith + deep lunar black (90), earthshine blue-white (8), anomaly: the bodhrán's warm gold — the only color the Moon didn't make (2).
+**Linework:** none — earthshine separates by light alone (the no-outline mode at its most absolute).
+**Tri-mode:** the phases are the tri-mode's mirror (canon): New Moon = Shadow Inn, Full Moon = Living, crescent = In-Between. The Moon is the only zone whose states the player can see from ANOTHER zone, just by looking up.
+**Wear map + anomaly:** no wear — the Moon's footprints last forever; the anomaly is the drum settling into the dust (quest: "The Drum That Plays Itself"). The Moon plays the bodhrán; the vibration crosses the crater through the lunar surface, not through air. The drum that plays itself, and the drum's keeper who never gets told.
+**Ruling tension:** Kubrick — the Moon is his shot (the monolith, the plain, the silence); Del Toro — the warmth budget lives in one carried drum in a landscape that has never been warm.
+
 ## OWED CARDS (not yet written; thin zones + niche spaces)
 - Egypt / Desert Bone (7-doc suite exists; consolidate)
 - Camelot (Three Arthurs painted; heal-hall/Round Table/Grail passes pending)

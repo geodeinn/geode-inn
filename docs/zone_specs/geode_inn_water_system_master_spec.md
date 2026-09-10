@@ -68,6 +68,7 @@ The Water Zone's standing artist assignment: Gothic anime for water zones (stand
 | The Trifocal Gaze | The third lens sees DOWN through the Source into Hollow Earth. |
 | Persephone | The Water Zone IS Persephone's Seasonal Cycle. |
 | The Lighthouse | The lighthouse beam sweeps at 50 BPM — the heartbeat made visible. |
+| THE MOON (the water's full voice law) | The Source gives the water its TONE (42Hz); the Moon gives the water its RHYTHM (50Hz, the tidal frequency). The Water Zone's complete sonic identity: 42 tone + 50 rhythm = the water sings AND beats. The Moon is the Lighthouse's lighthouse — the Lighthouse's upward gaze (the Bifocal) is actually looking at the Moon, the silver drum keeping time for the keeper below. Persephone's Tidal Cycle was chosen by the Moon, not by Persephone. Canon: geode_inn_cosmic_layer_the_moon.md — see also the Drum Law in the cosmic layer master spec. |
 | The 78 Water Monsters | The complete bestiary lives across these 7 layers. |
 | The 7 New Stones | Stones #170-176 are unique to the Water System. |
 | Monster of the Deep | The arcade game IS the Water Zone's surface layer. |

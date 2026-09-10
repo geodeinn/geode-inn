@@ -19,6 +19,8 @@ The galaxy maintenance crew. The beings who keep the stars turning, the planets 
 
 The Moon is the great mirror. The Moon reflects the Inn in its phases. The New Moon is the shadow Inn. The Full Moon is the living Inn. The crescent Moon is the In-Between. The Moon projection system shows the player the Inn from outside — from the cosmic perspective.
 
+**THE DRUM LAW (canon — geode_inn_cosmic_layer_the_moon.md):** the Moon is also the Inn's great DRUM. The craters are resonance chambers; the largest is the main drum, a basin kilometers wide. Entry requires the Pirate's Bodhrán (the one cosmic destination that needs no Inn Song — the drum is the key, the Pirate's gift). Quest: "The Drum That Plays Itself" — the player places the bodhrán in the crater's center and the MOON plays it. The reveal, told through sound alone: 50 BPM was never the Pirate's heartbeat. The Moon pulses at 50Hz; the Pirate heard it through the water since the first night at sea and gave it a voice. The Moon plays the Pirate; the Pirate is the instrument. The chain: Moon → water → Pirate → Arcana → Captain. And the endgame closes the loop: the Moon Projection (the Inn's lullaby beam) is the Inn playing the Moon — the drum that plays itself, finally played BY everyone at once. The lullaby needed a drum. The Moon was always it.
+
 ---
 
 ## THE ARCANA

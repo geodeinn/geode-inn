@@ -99,6 +99,7 @@ The watching is its own kind of love — the love that sees the other person cle
 | The Stone Capsules | The Pirate brings stones from his voyages — each one a new capsule for the pouch. The Pirate is the primary source of rare, exotic stones from distant cultural zones. |
 | The Silk Road | The Pirate's ship is the Silk Road's maritime equivalent. The Pirate brings the world's goods and stories to the Inn's dock. |
 | The Trifocal Gaze | The Pirate's drumbeat reaches the Hollow Earth through the water. The Deep Ones call it "the Above-Beat." |
+| THE MOON | The Pirate's deepest secret: the heartbeat was never the Pirate's. 50 BPM is the Moon's pulse, heard through the water since the first night at sea — the Pirate just gave it a voice. The Moon plays the Pirate; the Pirate is the instrument. The secret is revealed at the Moon itself (quest: "The Drum That Plays Itself") — told through sound, never told to anyone in life. Not the Captain, not Persephone, not Katya. Canon: geode_inn_cosmic_layer_the_moon.md. |
 | Krista's Autobiography | The Bard-Pirate dynamic reflects Krista's experience of the ADHD/noise pattern (the Bard) anchored by a steady presence (the Pirate). The dynamic honors both halves of the brain. |
 
 ---
