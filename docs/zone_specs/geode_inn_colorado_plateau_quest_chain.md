@@ -82,7 +82,7 @@ The Plateau does not stir at the skip-beat. The reclining one is already awake; 
 ## WHAT THIS SPEC ASKS KRISTA TO RULE ON
 
 1. The Thought-key chain's shape (reading, not waking — the zone's quest is literacy).
-2. The baby dragon's family visit (keep or cut the cameo).
-3. The altar's one skipped beat (the giant's single acknowledgment — confirm or hold).
+2. ~~The baby dragon's family visit~~ — **RULED (Krista, 2026-09-10): KEPT.** The cameo stands — the mascot's family visit builds as written.
+3. ~~The altar's one skipped beat~~ — **RULED (Krista, 2026-09-10): CONFIRMED.** The one skipped beat is canon — the giant's single acknowledgment, built as written.
 4. Petrified wood as the reward stone.
 5. The strata reader's unfinished-sentence voice (the zone's cadence law).

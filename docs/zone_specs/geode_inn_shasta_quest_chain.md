@@ -67,8 +67,8 @@ Shasta takes no force seat and stirs no giant — but the zone functions as the 
 
 ## WHAT THIS SPEC ASKS KRISTA TO RULE ON
 
-1. The Wait-key's grammar (the one forbidden act is the hunt; the phenomena are earned by presence — the quest marker never appears in this zone).
-2. The drum circle at 50 BPM (the sensers drum the sleeping heartbeat without knowing why — right about everything, even the tempo).
-3. The single beat of silence at the shard (the Constant's ONLY acknowledgment in the whole game — confirm the exception).
-4. The Elder's name ("Cedar," pending) and the final line ("Don't tell anyone. They'll come looking.").
-5. The footprints' sync (one beat at 84Hz, brushed in the player's own chest — the frequency where the Annunaki lives).
+1. The Wait-key's grammar (the one forbidden act is the hunt; the phenomena are earned by presence — the quest marker never appears in this zone). — **RULED (Krista, 2026-09-10): CONFIRMED.**
+2. The drum circle at 50 BPM (the sensers drum the sleeping heartbeat without knowing why — right about everything, even the tempo). — **RULED (Krista, 2026-09-10): CONFIRMED.**
+3. ~~The single beat of silence~~ — **RULED (Krista, 2026-09-10): CONFIRMED.** The exception is canon — the Constant's only acknowledgment in the whole game.
+4. ~~The Elder's name~~ — **RULED (Krista, 2026-09-10): CEDAR CONFIRMED** (renameable by Krista anytime). The final line confirmed: "Don't tell anyone. They'll come looking."
+5. The footprints' sync (one beat at 84Hz, brushed in the player's own chest — the frequency where the Annunaki lives). — **RULED (Krista, 2026-09-10): CONFIRMED.**

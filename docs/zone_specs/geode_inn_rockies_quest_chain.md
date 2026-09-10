@@ -68,5 +68,5 @@ SHADOW=REPORT. The Unseelie feel the stir first, in the snowpack — the shadow 
 1. The Pull-key's grammar (stop climbing — everything the player needs is at the bottom, where gravity brought it).
 2. Glacier's mute (the system's only silent zone; the serenity quest's mechanic is holding the silence).
 3. The Fallen Things Ledger (the altar: the lake receives the gossip trail, one reflection at a time).
-4. Smoky quartz as the reward stone; amazonite flagged as a new-stone candidate for the Stone entity.
+4. ~~Smoky quartz; amazonite~~ — **RULED (Krista, 2026-09-10): CONFIRMED + CREATED.** Smoky quartz confirmed as the reward stone; amazonite approved as a new Stone entity record (loaded 2026-09-10, zone: The Rockies).
 5. Tomás's unfinished stories (the Rockies' one gossip who doesn't finish — confirm the echo of the Dutchman is deliberate, not a collision: the Dutchman ends early to keep; Tomás ends early to KNOW better).

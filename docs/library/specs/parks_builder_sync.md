@@ -78,12 +78,12 @@ Each zone needs the standard tectonic set (Living 42Hz / Shadow 84Hz / In-Betwee
 - ROCKIES In-Between: everything the range ever dropped, mid-fall, one frame.
 - SHASTA Shadow: the zone's TRUE state — phenomena readable; the drum circle's tempo suddenly "reasonable." In-Between: the lens — the unnamed galaxy through the peak, one frame, never a door.
 
-## WHAT NOT TO BUILD YET (flagged rulings — Krista gates these)
+## ~~WHAT NOT TO BUILD YET~~ — ALL FIVE GATES RULED UNLOCKED BY KRISTA (2026-09-10)
 
-- The baby dragon's Plateau cameo (keep-or-cut flag)
-- The Plateau altar's one skipped beat
-- The Shasta shard's single beat of silence (the Constant's only acknowledgment — confirm before wiring)
-- The Elder's name ("Cedar" is pending — records carry the placeholder)
-- Amazonite as a new Stone entity record
+- ✅ The baby dragon's Plateau cameo — KEPT, build as written
+- ✅ The Plateau altar's one skipped beat — CONFIRMED
+- ✅ The Shasta shard's single beat of silence — CONFIRMED (the Constant's only acknowledgment, canon)
+- ✅ The Elder's name — CEDAR confirmed (renameable by Krista anytime)
+- ✅ Amazonite — APPROVED and LOADED into the Stone entity (zone: The Rockies; build its Rockies wiring)
 
-Everything else in the six specs is buildable as written. The specs are the canon; when in doubt, the spec wins until Krista rules.
+Everything in the six specs is now buildable as written. The specs are the canon.
