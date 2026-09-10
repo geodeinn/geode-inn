@@ -103,6 +103,8 @@
 | Seelie King | https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/f4ad9f2b8_seelie_king_v2.png |
 | Seelie Queen | https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/070736c14_seelie_queen_v2.png |
 | Seelie King (Oleander) | https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/330d17e73_generated_image.png |
+| Oleander — Shadow state (84Hz) | https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/0f0734dd8_generated_image.png |
+| Oleander — In-Between state | https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/b8af1df42_generated_image.png |
 | Unseelie King (Malachi) | https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/f92fb08ca_jareth_unseelie_king_v3.png |
 | Queen of Roots | https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/7a950cd2a_queen_of_roots.png |
 | Queen of Words | https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/00207b3f0_queen_of_words.png |
