@@ -385,3 +385,14 @@ Filenames are legacy per the naming policy; display names are canonical (see cha
 | The Gardener | Gorgon's Garden | living | https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/804df7eaa_tier1_the_gardener.jpg |
 
 NOTES: Watcher (Cosmology) and Pirate Captain (Water Zone) NOT uploaded — no confirmed living portraits in Drive (the catacombs watcher file is a Speter Adams variant; the sky pirate file is an anon reference). Both moved to the lore-first generation queue. Unseelie Queen living state still a generation gap — only the in-between state existed in Drive.
+
+## Visual Expansion Wave 2 — Generated Zone Panoramas + Creatures (2026-09-09, masters Inn-owned)
+
+| Piece | Tier | URL |
+|---|---|---|
+| Staircase panorama (Escher alchemy spiral) | 2 | https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/0987b7498_generated_image.png |
+| Shadow Inn panorama (84Hz dark mirror of Main Floor) | 2 | https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/8c80fbfd4_generated_image.png |
+| Catacombs panorama (bone-lined tunnels, Klimt/Royo) | 2 | https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/4d4296636_generated_image.png |
+| Merfolk portrait (Water Zone, living) | 1 | https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/a1ab9b497_generated_image.png |
+| Tide-pool spirits portrait (Water Zone, living) | 1 | https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/6fcedf3af_generated_image.png |
+| Frozen vine creatures portrait (Gorgon's Garden, living) | 1 | https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/ea631a025_generated_image.png |

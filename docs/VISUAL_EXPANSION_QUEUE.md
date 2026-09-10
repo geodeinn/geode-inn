@@ -12,9 +12,9 @@ Covered by Drive: The Host, The Bartender, The Cartographer, The Examiner, The O
 | 1 | The Exile | Main Floor | lore identity check → prompt → generate |
 | 2 | The Librarian | Staircase | lore identity check → prompt → generate |
 | 3 | The Alchemist | Staircase | lore identity check → prompt → generate |
-| 4 | Merfolk | Water Zone | generating tonight |
-| 5 | Tide-pool spirits | Water Zone | generating tonight |
-| 6 | Frozen vine creatures | Gorgon's Garden | generating tonight |
+| 4 | Merfolk | Water Zone | ✅ GENERATED (living)
+| 5 | Tide-pool spirits | Water Zone | ✅ GENERATED (living)
+| 6 | Frozen vine creatures | Gorgon's Garden | ✅ GENERATED (living)
 | 7 | The First | Hollow Earth | lore identity check |
 | 8 | Admiral Byrd | Hollow Earth | historical figure — softening rule applies |
 | 9 | Echo faction leader | Hollow Earth | lore identity check |
@@ -25,12 +25,12 @@ Named faces get a lore-first prompt pass (six-writer voice, zone style bible, ce
 
 ## Zone Backgrounds (Tier 2) — generation order
 1. ✅ **Main Floor panorama** — GENERATED (URL logged in gallery manifest)
-2. Staircase (ascending spiral, Escher flavor) — GENERATING TONIGHT
-3. Catacombs (bone-lined tunnels, Klimt/Royo weight)
+2. ✅ Staircase panorama — GENERATED
+3. ✅ Catacombs panorama — GENERATED
 4. Cosmology (observatory interior, no-outline cosmological linework)
 5. Faerie Kingdom courts (Rackham: Seelie summer glow / Unseelie frozen winter)
 6. Water Zone / Tidal Caves
-7. Shadow Inn (84Hz dark mirror — hard-cut counterpart to the Main Floor panorama) — GENERATING TONIGHT
+7. ✅ Shadow Inn panorama — GENERATED (tectonic pair complete with Main Floor)
 
 ## Sequencer Notes for the Fizgigs
 - The ZoneSequencer design is approved as written — the phase→audio mapping (drone → heartbeat → stone tones → NPC voices) is the fusion doctrine, correctly built.
@@ -45,3 +45,8 @@ Named faces get a lore-first prompt pass (six-writer voice, zone style bible, ce
 ## Intake Status (2026-09-09 late)
 - 22 Tier 1 portraits + states uploaded with clean masters (Wave 1 complete)
 - 13 true generation gaps remain (11 + Watcher + Pirate Captain + Unseelie Queen living state)
+
+## Wave 2 Complete (2026-09-09 late)
+- 3 zone panoramas generated: Staircase, Shadow Inn, Catacombs (Main Floor pair complete for the tectonic shift)
+- 3 creature portraits generated: Merfolk, Tide-pool spirits, Frozen vine creatures
+- Remaining gaps: 10 named characters (lore-first pass needed) + Cosmology/Fae/Water zone panoramas + Tier 3 game sprites + Tier 4 supporting media
