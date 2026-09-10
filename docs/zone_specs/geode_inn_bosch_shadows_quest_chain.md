@@ -1,5 +1,5 @@
 # THE BOSCH SHADOWS QUEST CHAIN: "THE SHADOW'S OWN STORY"
-## The shadow's chain — drafted 2026-09-10 for Krista's review (DRAFT until ruled)
+## The shadow's chain — PASSED by Krista 2026-09-10 (CANON — the 84Hz shadow-state ruled: the silhouettes turn away)
 > CANON SOURCES: the Bosch Shadows reference (library/reference/geode_inn_bosch_shadows.md — the texture, the frequency states, the imprint thesis, the Story-Born acorn, the Plato inversion, the Ragana annotation); the art visual master spec (the shadow layer canon); the mirror systems spec (frequency-dependent silhouettes). KEY LAW FROM THE DOC: Bosch doesn't get a zone — Bosch gets a TEXTURE. This chain is the texture's story: a cross-zone reading journey through every cave the Inn has.
 
 ---
@@ -63,4 +63,4 @@ The finale, in the deepest place the chain goes: the Prism's approach, where the
 ## TONE LAW
 Gaiman holds the almost-there (the shapes the mind fills in — every player's Bosch is their own). Weir holds the mineral mechanics (the frequency-responsive crystal, the imprint storage — all load-bearing). Asimov holds the inversion (Plato's data problem, stated clean). Rothfuss holds the acorn line (the seed, the tree, the thousand-year patience). Bradbury lights nothing — the walls light themselves, and the light is sound. No one is haunted. Someone is read, and the reading is the haunting the walls never meant.
 
-*Draft for Krista's review — one flag: the 84Hz shadow-state (the silhouettes turn away). The chain loads on pass.*
+*PASSED (Krista, 2026-09-10) — canon. The 84Hz shadow-state ruled: at 84Hz the silhouettes turn away — the shadow-state of shadows, the blank wall that remembers being full. The chain loads as the texture's story.*
