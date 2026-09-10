@@ -219,6 +219,9 @@ The crew's ladders ARE their gags. Repetition is how the crew lives — they've 
 ## PART 10: BATCH 6 — THE GAP CAST (DRAFT — flagged for Krista's ruling before canon)
 *The registry's last open slots: the children, the Einherjar, the regional placeholders, the tradesmen masters, the brownie trio, Tumble. The child-actor law and the Einherjar group law are new standing laws; all blocks below follow the repeat-line law.*
 
+### THE PARENTAL GATE (standing law — Krista 2026-09-10)
+TJ and Gabby are real-family kids (Jay and Bethany's). Their NPCs are GATED: they do not go live, appear, or play in-game until BOTH parents give the go-ahead. TJ is way too smart to not need double verification. Gabby is ~8, nothing but absolute trouble. And brilliant. Both need parental supervision. The blocks below are DRAFT and stay dormant until the gate opens.
+
 ### THE CHILD-ACTOR LAW (standing law, all children)
 Children in the Inn are never cute-ified. The Inn takes children seriously the way good teachers do: as short people with working minds. A child NPC gets the same block standard as an adult — real dialect, real tell, real ladder — with two adjustments: the vocabulary is honest-to-age (no professor-children), and the earnestness is load-bearing (a child's full attention is the most serious thing in the room; play it straight and the warmth arrives by itself). The kill test: if a line would work with a laugh track, cut the line.
 
