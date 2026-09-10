@@ -129,3 +129,21 @@ Phase 4: Programming — TombTunnel.gd written, needs controller + Steam + Frequ
 Phase 5: Testing — 7 acceptance criteria
 Phase 6: Packaging — Steam build
 Phase 7: Acceptance Check — all 7 boxes
+
+## SECTION 4: CAST-REPLACEMENT PILOT — COMPLETE (2026-09-09 night)
+
+The flip book pipeline is the sprite production line. Proof executed and committed:
+
+**Pipeline (the crunch):** painted 1024px cycle sheets → auto-slice frames → auto-crop to content → quantize to 32 colors → 64×64 engine sprites. All in one PIL script, repeatable for any game in the shop.
+
+**Produced this session (engine-ready, docs/library/sprites/tomb_tunnel/):**
+- froglodyte_dig_0/1.png — 2-frame dig cycle (player avatar, the excavator: stalactite-skinned cave frog-person, pharaoh's headscarf, bronze pickaxe)
+- froglodyte_pump_0/1.png — 2-frame sand-pump attack cycle (reed sand-pipe harpoon + blast)
+- scarab_swarmer_0/1/2.png — 3-frame enemy set (idle, burrowing, inflated/balloon)
+- tomb_tunnel_atlas_64.png — Godot-ready atlas, 6 columns of 64px frames
+
+**Masters (painted, full res, Inn-owned):** fd13e85e4 (dig), c8a21eafc (pump), a629185db (scarab) on base44 images.
+
+**Remaining for the full 26-sprite sheet:** froglodyte idle (1), Isis Priestess (portrait + manifesting), Cobra Warden (idle/venom/inflated), Shadow-frequency variants of everything. The pipeline is proven; remaining sprites are production, not invention.
+
+**Godot wiring:** frames drop into TombTunnel.gd's sprite arrays at 64px; the animation engine slices atlas columns directly.

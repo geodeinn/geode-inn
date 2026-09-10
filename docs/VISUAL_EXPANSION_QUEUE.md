@@ -94,3 +94,9 @@ Named faces get a lore-first prompt pass (six-writer voice, zone style bible, ce
 - "The Great Renaming" — 4 panels painted (Ragana's ledger, Lozen's attendance, Brim + The Collector, the taaffeite hook), lettered with PIL, stitched 2048px strip.
 - Delivered to Krista via iMessage + published to ComicStrip entity (strip #1) + repo master copy.
 - PRODUCT #10 (The Comic Strip) IS LIVE. Remaining for Gazette: web display page + daily generation workflow.
+
+## CAST-REPLACEMENT PILOT — TOMB TUNNEL (2026-09-09 finale)
+- Krista's idea: the flip book technique IS the cast-replacement technique for the shop's emulated games.
+- PROVEN END-TO-END: froglodyte dig cycle + sand-pump cycle + Scarab Swarmer 3-frame set painted, crunched to 64px/32-color engine sprites, atlas built. Crunch proof image sent to Krista.
+- The painted master survives at full res; every game gets its crunched variant. One character, many resolutions — the Inn's painterly style crunches beautifully.
+- NEXT: finish Tomb Tunnel's 26-sprite sheet (idle, Isis Priestess, Cobra Warden, Shadow variants), then replicate per game in the shop.
