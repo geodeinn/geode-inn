@@ -104,6 +104,7 @@ The Cosmology is where every prior dissection was secretly aimed: D03's octave i
 And the level's law lands where the Inn's whole thesis lives: the answer to WHEN is now — and now is adequate. The Cosmology doesn't tell the player the meaning of the Song. It hands the player a violin.
 
 ## WHAT THIS DISSECTION ASKS KRISTA TO RULE ON
+> **RULING: ALL CONFIRMED — Krista, 2026-09-10.** Every item in this section is canon.
 
 1. **Clockwork Skies folded in as the Cosmology's gearwork layer, the cosmic crew seated as its residents** (resolving the audit's THIN flag). Confirm.
 2. **The "All Hands" quest chain proposal** — the slipped gear, hands-on repair as crew recruitment, the Archivist finally consulted as the finale. Confirm or reshape.

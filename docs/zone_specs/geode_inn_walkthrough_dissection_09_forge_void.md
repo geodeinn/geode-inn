@@ -119,6 +119,7 @@ The player now carries the Void's stillness in their EchoMemory — the one mate
 Dissection 10: THE ASCENT — the long climb back through every level, now changed in the player's eyes (the CYOA rewalk: what each level says when the player carries the Void's stillness), ending at the Ascension Canopy — and the three endings: STAY, LEAVE, HIDE. The walkthrough's final dissection.
 
 ## WHAT THIS DISSECTION ASKS KRISTA TO RULE ON
+> **RULING: ALL CONFIRMED — Krista, 2026-09-10.** Every item in this section is canon.
 
 1. **The Cold Night law** — the forge rests once a year (launch-anniversary date); the Void's door is visible only during the first Cold Night, findable always after. Confirm or reshape the date's meaning.
 2. **The temperature-as-story descent** — the Cooling Stair; 42Hz hands off to shaped silence rather than fading. Confirm.

@@ -64,6 +64,7 @@ Personality canon (Krista): the two main Lannister brothers — Jaime's silent f
 **The appearance:** broad-shouldered and lean; warm, weathered face with a faint knowing half-smile (Tyrion's wit living in the mouth) and kind, quick eyes; golden-brown hair worn loose; a crown of living oak leaves and laurel (summer that GROWS, not forged gold — the Seelie anti-ice answer to the Unseelie crown); tunic of woven summer light, bark-brown leather, and SCARRED KNUCKLES — the warrior who fought for outcasts, unhidden, unashamed (Jaime's loyalty worn on the hands). And the tell of the Wick-trait: critters, always — a dragon kitten asleep on the shoulder, sprites at the feet, the fierce king the small things trust. First portrait rendered in Alan Lee linework (Seelie court canon), living state, 42Hz golden-green light. Shadow and In-Between states to follow at the tri-mode pass.
 
 ## WHAT THIS DISSECTION ASKS KRISTA TO RULE ON
+> **RULING: ALL CONFIRMED — Krista, 2026-09-10.** Every item in this section is canon.
 
 1. **The Queens' Law** — the brothers split, the queens never did; Mona's three layers as the three queens' spaces. Confirm.
 2. **The Heartwood's dual chord** — the Queen of Roots' court as the second room where 42Hz and 84Hz are one (the Stone Circle Chamber's twin). Confirm.

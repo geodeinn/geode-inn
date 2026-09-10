@@ -81,6 +81,7 @@ Rock bottom, in the Inn, is not the bottom. It is the heartwood. The deepest ton
 Next dissection: the FAE KINGDOM — through the Far Door. Seelie and Unseelie, the Stone Circles, the Between, the Golden Contract, Malachi's court. Dissection 07.
 
 ## WHAT THIS DISSECTION ASKS KRISTA TO RULE ON
+> **RULING: ALL CONFIRMED — Krista, 2026-09-10.** Every item in this section is canon.
 
 1. **The Obol law** — the Source's gate takes a coin that is found or earned, never bought. The one thing money cannot reach. Confirm.
 2. **The Siren's Lupus presentation** — navigated by singing, no cure-framing, no shame; the way through is the song. Confirm.

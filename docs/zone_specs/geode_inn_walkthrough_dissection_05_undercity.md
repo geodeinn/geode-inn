@@ -72,6 +72,7 @@ And the three gifts hold: the streets are lit by memory, the Long Dark is surviv
 The next door down: PERSEPHONE'S DESCENT — the Water Zone's seven layers, the Lighthouse Keeper, the Source. Dissection 06.
 
 ## WHAT THIS DISSECTION ASKS KRISTA TO RULE ON
+> **RULING: ALL CONFIRMED — Krista, 2026-09-10.** Every item in this section is canon.
 
 1. **The Build** — the Clockmaker's Act Five mechanic: the player's artifact is grown from their real EchoMemory, no two players can build the same thing. (The Design entity table already exists in the live app.) Confirm.
 2. **The memory-lamp streets** — walkable memories, city brightness driven by live community activity. Confirm.

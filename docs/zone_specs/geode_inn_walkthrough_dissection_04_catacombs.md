@@ -95,6 +95,7 @@ However the catacombs were walked, the player leaves with the same three additio
 The next door down: the FORGE ELEVATOR — the Blacksmith's hammer-scored lift, the Living Hammer its key — into the Undercity proper, where Charon's river runs beneath the streets and the Long Dark waits. That is Dissection 05.
 
 ## WHAT THIS DISSECTION ASKS KRISTA TO RULE ON
+> **RULING: ALL CONFIRMED — Krista, 2026-09-10.** Every item in this section is canon.
 
 1. **The fare shapes the crossing** — the offered note changes what the river shows; the shell-shard note gets the hidden crossing. Confirm.
 2. **The scale weighs burdens, not sins** — verdicts: "Enough," "Too much," "Lighter than you think." Confirm.

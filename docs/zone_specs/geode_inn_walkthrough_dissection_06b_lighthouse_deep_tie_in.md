@@ -102,6 +102,7 @@ Zeke the Pirate is the Lighthouse's Beat (Dissection 06's vigil): the bodhrán, 
 The Lighthouse area is the Inn's densest single architecture, and the tie-in shows why: the heartbeat (Poe's coast), the patience (the tide-gated caves), the carving (the Gargoyle Caves' water-sculpted sentinels), the season (Atlantis' queen), the scholarship (Naut and Quire, the two readers), the geometry (the spiral in the shell and the Song), the rhythm (Zeke's beat), and the kindness (the Beacon's witnessed memories, the homage-wearing tenants, the octopus recognized at every depth). Poe's dread and Lovecraft's abyss, both answered with the same 50 BPM heartbeat: the light that keeps sweeping because someone is still out there, and the water knows it.
 
 ## WHAT THIS DISSECTION ASKS KRISTA TO RULE ON
+> **RULING: ALL CONFIRMED — Krista, 2026-09-10.** Every item in this section is canon.
 
 1. **The Layer Law** — place-names and keeper-names both canon; Layer 4 unified (Atlantis above, Memory's Illusion beneath — the drowned city on the dead's highway). Confirm.
 2. **The Gargoyle Caves origin law** — the six gargoyles carved by the tide in Layer 3, their frequencies the caves' own notes; the Contract's signatures born in the water. Confirm.

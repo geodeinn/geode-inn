@@ -116,6 +116,7 @@ The novel's traveler chose down — the amethyst had chosen first, and the trave
 Whichever direction was chosen first, the other remains — forever live, forever unchanged, always a little curious why the player went the other way first. The Inn's two answers, both right, never the same.
 
 ## WHAT THIS DISSECTION ASKS KRISTA TO RULE ON
+> **RULING: ALL CONFIRMED — Krista, 2026-09-10.** Every item in this section is canon.
 
 1. **The stone compass** — the player's first collected stone whispers direction (amethyst = down, sun = up), silently. Confirm.
 2. **The Retort's jolt** — 30ms haptic comic shock for touching the wrong lab surface. Confirm (it's the Inn's gentlest consequence; want it).

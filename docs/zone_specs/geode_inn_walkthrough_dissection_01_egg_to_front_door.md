@@ -147,6 +147,7 @@ The Hearth. Firelight. Acoustic warmth — guitar, lute, the Inn's ambience arri
 ---
 
 ## WHAT THIS DISSECTION ASKS KRISTA TO RULE ON
+> **RULING: ALL CONFIRMED — Krista, 2026-09-10.** Every item in this section is canon.
 
 1. **The Ascent** — the player rises through all layers as a spark, seeing each zone's two-second signature. This is the game's only non-interactive cinematic. I believe it's the right place to spend it. Confirm, or should the ascent stop at the Catacombs (simpler, leaves the tree a mystery)?
 2. **The shell shard** — the first stone in the geode cave is the player's own shell. Confirm. (It also quietly answers "why does collecting stones feel right" — you started as one.)

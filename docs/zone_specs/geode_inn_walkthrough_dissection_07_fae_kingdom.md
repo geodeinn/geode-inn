@@ -78,6 +78,7 @@ And the brothers' split — Ragnarok's Breaking, when the one root finally split
 Next dissection: the COSMOLOGY — the Observatory, Valhalla, the Void, Nyx, the Astronomer's calculation, the Guest's music box, and the chamber beneath the Contract, where the three choices wait. Dissection 08 — the top of the tree and the bottom of the silence.
 
 ## WHAT THIS DISSECTION ASKS KRISTA TO RULE ON
+> **RULING: ALL CONFIRMED — Krista, 2026-09-10.** Every item in this section is canon.
 
 1. **The brothers' chains** — The Ties That Bind (Oleander: the player learns to be listened to) + The Cost of the Crown (Malachi: the player learns the cost of being heard), both ending in the other brother's request: "Go to the brother." Confirm.
 2. **The delivery order mechanic** — the tessellation picture delivered to either king first, either order valid, texture differs. Confirm.

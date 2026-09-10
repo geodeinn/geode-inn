@@ -73,6 +73,7 @@ The player answers — not from a dialogue tree, but by PLAYING: a single compos
 The one-page first storyline promised four perspectives for mastery: Jupiter, the galaxy language, Mars, Pluto's Gate. D08B builds all four — and each one turns out to have been foreshadowed by an existing system: the galaxy language was the stone vibration dictionary all along; the Jupiter Gate was the Bead Board's final exam; Mars was the geode cave's origin story (the Soulstone completes it); Pluto's Gate was the Astronomer's philosophy made into a door. The first page of the Inn was always the blueprint's first page. It just took the whole Inn to build it.
 
 ## WHAT THIS DISSECTION ASKS KRISTA TO RULE ON
+> **RULING: ALL CONFIRMED — Krista, 2026-09-10.** Every item in this section is canon.
 
 1. **The placement arc** — Six Questions → galaxy language (cumulative fluency) → Jupiter Gate → Mars → Pluto's Gate → Ascension Canopy. Confirm.
 2. **The Jupiter Gate's no-correct-answer law** — the storm opens in the shape of the player's own reply; two players never cross the same door. Confirm.
