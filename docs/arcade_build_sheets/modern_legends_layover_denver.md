@@ -9,7 +9,7 @@
 | Field | Value |
 |-------|-------|
 | Original Game (IN) | Chutes and Ladders (Snakes and Ladders — ancient public-domain board game) |
-| Geode Inn Name (OUT) | LAYOVER (proposal — the game you play when your connection is the MIB) |
+| Geode Inn Name (OUT) | LAYOVER (CONFIRMED by Krista, 2026-09-10 — the game you play when your connection is the MIB) |
 | Genre/Mechanic | Vertical board-chase arcade — a giant chutes-and-ladders board played from INSIDE, with a pursuit AI |
 | Zone | Main Floor — the Modern Legends Nook (the Rockies' gossip belt, per the geological sleep master spec Part 4C) |
 | Stone Reward | Ammolite (the Rockies' stone — the opalized refusal-to-end; the game is set in the range's gossip belt, the reward is the range's treasure) |
@@ -64,4 +64,4 @@
 
 ## DESIGN STATUS
 
-Draft — awaiting Krista's ruling on: the name (LAYOVER proposed), the price, the canister run's difficulty, and whether the horse's witness moment should also appear in the Modern Legends Nook itself (the horse as the Nook's resident statue).
+Name CONFIRMED (LAYOVER, Krista 2026-09-10). Draft — awaiting Krista's ruling on: the price, the canister run's difficulty, and whether the horse's witness moment should also appear in the Modern Legends Nook itself (the horse as the Nook's resident statue).
