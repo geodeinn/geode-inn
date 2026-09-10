@@ -72,7 +72,7 @@ Special: **"These Are My People"** — When Belladonna enters play, all STONE ca
 Flavor text: *"The dead sit on benches. They read books. They're perfect."*
 Rarity: Epic
 
-### NOCTUA (formerly Archimedes the owl)
+### NOCTUA (formerly Noctua the owl)
 Frequency: SONG (1) + SILENCE (1) — Total cost: 2
 Type: Character — Companion — Owl
 Presence: 1 | Resonance: 3 | Cadence: Immediate

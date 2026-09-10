@@ -24,7 +24,7 @@ The character roster has completed a full naming audit (September 3, 2026). Seve
 | Uhtred | **The Wayfarer** | The Saxon warrior, walks between zones, the pressure release valve. |
 | Aughra | **Fibonacci** | The Keeper who collects planetseed pods and reads the spiral patterns. |
 | Wednesday Addams / Wednesday | **Belladonna** | The goth character, Undercity host, Poison Garden matron. One character (roster entries merged). |
-| Archimedes (owl) | **Noctua** | Merlin's owl companion. |
+| Noctua (owl) | **Noctua** | Merlin's owl companion. |
 | Eileen | **Aurallia** | The Hearth — cave painter, art teacher, the warm maternal presence. Mother of the four NPCs: Speter Adams, Bramble (chosen), Scarlett (pending), John (pending). The real person keeps her own name. |
 | Dani | **Luna** | The zen jeweler, Campgrounds, Jay's counterweight. Flowing fae-rave name (chosen 2026-09-03). The real person keeps their own name. |
 | Adam | **Speter Adams** | The Chameleon / The Dollkeeper — chosen name (2026-09-03). The doll-with-souls collector, zone-shifting performer. |

@@ -3,7 +3,7 @@
 
 ## Source
 
-Merlin and Archimedes from Disney's The Sword in the Stone (1963), based on T.H. White's "The Once and Future King." Merlin is the eccentric wizard who lives backwards through time — he knows the future because he's already been there. Archimedes is his owl companion — grumpy, loyal, secretly caring, the one who remembers what Merlin forgets.
+Merlin and Noctua from Disney's The Sword in the Stone (1963), based on T.H. White's "The Once and Future King." Merlin is the eccentric wizard who lives backwards through time — he knows the future because he's already been there. Noctua is his owl companion — grumpy, loyal, secretly caring, the one who remembers what Merlin forgets.
 
 ## Merlin
 

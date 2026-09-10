@@ -156,7 +156,7 @@
 
 - Batch 1: 16 (8 Shadow Inn instances + 8 Goldmine systems)
 - Batch 2: 16 (8 zone Shadow instances + 8 key characters/systems)
-- Batch 3: 12 (Charon, Astronomer, Tesla, Da Vinci, Medusa, Keeper, Thrum, Vanir, Persephone/Hades, Merlin/Archimedes, Queen of Words, Fixer)
+- Batch 3: 12 (Charon, Astronomer, Tesla, Da Vinci, Medusa, Keeper, Thrum, Vanir, Persephone/Hades, Merlin/Noctua, Queen of Words, Fixer)
 - Batch 4: 28 (28 character concepts — all listed above)
 
 

@@ -13,7 +13,7 @@
 | **Malachi** | Labyrinth (1986, Lucasfilm/Henson) | Named character from copyrighted film | **The Ravel** — from "unravel/ravel," the one who raveled the labyrinth. Sounds like a name, functions as a title. He IS the tangle. |
 | **Uhtred** | Bernard Cornwell, The Saxon Stories / The Last Kingdom | Named character from copyrighted novels | **The Wayfarer** — title-based, fits the Inn's convention. He walks the roads between zones. "Destiny is all" stays — it's a translation of the Old English concept of wyrd, public domain. |
 | **Aughra** | The Dark Crystal (1982, Henson/Jim Henson Company) | Named character from copyrighted film | **Fibonacci** (CONFIRMED by Krista 2026-09-03) — the mathematician who described the spiral pattern that defines Aughra's Keeper role and the Inn's golden-ratio architecture. Historical figure (died 1250), public domain. The name IS the pattern. |
-| **Archimedes** (the owl) | Disney's The Sword in the Stone (1963) | Named owl character from copyrighted film | **Noctua** — Latin for "little owl," the actual species name (Athene noctua) of the owl associated with Athena in Greek mythology. Real word, public domain, mythologically grounded. |
+| **Noctua** (the owl) | Disney's The Sword in the Stone (1963) | Named owl character from copyrighted film | **Noctua** — Latin for "little owl," the actual species name (Athene noctua) of the owl associated with Athena in Greek mythology. Real word, public domain, mythologically grounded. |
 | **"Ryuk Form"** (Tinkering Weeaboo) | Death Note (Tsugumi Ohba/Takeshi Obata) | Named character from copyrighted manga/anime | **"True Form"** or **"Unmasked"** — the description (tall, angular, yellow-eyed, too-wide grin, too-long fingers) stays as original design. Just don't name it "Ryuk." |
 | **Wednesday Addams** | The Addams Family (Charles Addams, 1938-) | Named character from copyrighted comic/film/TV | **Belladonna** (CONFIRMED by Krista 2026-09-03) — deadly nightshade, Italian for "beautiful lady." Public domain. The name carries the gothic, cozy-but-dangerous energy without referencing any copyrighted property. |
 
@@ -54,7 +54,7 @@ Beyond name changes, any DIRECT QUOTES from copyrighted works need to become ori
 
 ## SUMMARY
 
-**Must change:** 9 names (Mim → Brim, Sorrel → The Greenward, Beorn → The Bearsark, Malachi → Malachi, Uhtred → The Wayfarer, Aughra → Fibonacci, Archimedes owl → Noctua, Ryuk form → True Form, Wednesday Addams → Belladonna) — ALL CONFIRMED by Krista 2026-09-03
+**Must change:** 9 names (Mim → Brim, Sorrel → The Greenward, Beorn → The Bearsark, Malachi → Malachi, Uhtred → The Wayfarer, Aughra → Fibonacci, Noctua owl → Noctua, Ryuk form → True Form, Wednesday Addams → Belladonna) — ALL CONFIRMED by Krista 2026-09-03
 
 **Review:** 2 names (Cabbit, Leonard Cohen)
 

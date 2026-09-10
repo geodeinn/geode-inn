@@ -146,8 +146,8 @@ Document
 	Galahad — character profile
 	geode_inn_mordred.md
 	Mordred — character profile
-	geode_inn_merlin_archimedes.md
-	Merlin and Archimedes — character connection
+	geode_inn_merlin_noctua.md
+	Merlin and Noctua — character connection
 	geode_inn_loki.md
 	Loki — character profile
 	geode_inn_hel.md

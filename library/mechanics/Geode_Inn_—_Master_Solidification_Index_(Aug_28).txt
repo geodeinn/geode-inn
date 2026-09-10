@@ -71,7 +71,7 @@ Every markdown document in the Geode Inn repository (255 files, ~750k words) has
 33. Albert Einstein
 34. The Morrigan
 35. Persephone & Hades
-36. Merlin and Archimedes
+36. Merlin and Noctua
 37. The Messenger Principle
 38. The Messengers
 39. The Brownies
