@@ -11,7 +11,7 @@ King Arthur, the Camelot zone, and the Gustave Moreau aesthetic form an integrat
 
 ## THE THREE ARTHURS
 
-### Bill Skarsgård — The Youth (The Wart)
+### Bill Skarsgård — The Youth (Artair)
 The boy before the crown. The awkward, long-limbed, hasn't-grown-into-himself-yet Arthur from The Sword in the Stone.
 
 Bill's quality: the ability to look simultaneously young and ancient. The Pennywise eyes — depth behind innocence. Vulnerable and unsettling in the same frame. The boy who pulls the sword not because he's destined but because he's the one who TRIES. The trying is the boy.
@@ -21,7 +21,7 @@ Bill's quality: the ability to look simultaneously young and ancient. The Pennyw
 | Energy | Clumsy. Not weak — UNFINISHED. The body that will become Alexander's but hasn't. The hands that will hold a crown but currently hold a broom. |
 | Curiosity | The Merlin student. The boy who lets Merlin turn him into a fish and a bird and a squirrel because he wants to UNDERSTAND. The curiosity IS the leadership — the king who understands because he has BEEN everything he will later rule. |
 | Uncertainty | The boy doesn't trust himself. Doesn't know he's Arthur. Just knows he pulled a sword and everyone is looking at him. The not-understanding is the purity. |
-| In the Inn | The player's contemporary — the peer, not the authority. The Wart doesn't teach. The Wart LEARNS ALONGSIDE the player. Shared learning = the bonding that becomes the Round Table. |
+| In the Inn | The player's contemporary — the peer, not the authority. Artair doesn't teach. Artair LEARNS ALONGSIDE the player. Shared learning = the bonding that becomes the Round Table. |
 
 ### Alexander Skarsgård — The King (The Warlord)
 The victorious Celtic warlord. The King Arthur at his peak. The man who built the Round Table.
@@ -30,8 +30,8 @@ The victorious Celtic warlord. The King Arthur at his peak. The man who built th
 |-------|--------|
 | Energy | The body is finished. The voice commands. The presence is undeniable. The Eric Northman charisma — But the crown has made him PURPOSEFUL. The playfulness is still there, but it's aimed. |
 | Leadership | The Round Table is the king's thesis: equals. Arthur doesn't rule FROM above. Arthur rules AS one of. The table is round because the king is one of the knights. |
-| The wound | Arthur remembers being the Wart. The king who remembers being the boy who didn't know, and rules with that memory. The not-knowing is the compassion. |
-| In the Inn | The zone's quest-giver at peak. The player meets Alexander's Arthur after meeting Bill's Wart — the player sees the transformation. The boy became the king. The player wonders: will I become something too? |
+| The wound | Arthur remembers being Artair. The king who remembers being the boy who didn't know, and rules with that memory. The not-knowing is the compassion. |
+| In the Inn | The zone's quest-giver at peak. The player meets Alexander's Arthur after meeting Bill's Artair — the player sees the transformation. The boy became the king. The player wonders: will I become something too? |
 
 ### Stellan Skarsgård — The Old King
 The post-crusade Arthur. The old king who carries the weight of everything he built and everything that broke.
@@ -41,7 +41,7 @@ The post-crusade Arthur. The old king who carries the weight of everything he bu
 | Energy | The body is still large but slower. The voice is deeper, quieter. The presence is HEAVY — not commanding, not awkward, but WEIGHED. |
 | The wound | The crusade broke something. The Round Table broke. Lancelot. Guinevere. Mordred. The king who built the table of equals and watched it fracture. |
 | The wisdom | The king who knows that building is harder than fighting. The warlord learned to build. The builder learned that buildings break. The broken builder is the wisest person in Camelot. |
-| In the Inn | The zone's endgame NPC. The player meets Stellan's Arthur last — after the Wart (the peer), after the King (the leader), the Old King (the lesson). The Old King gives the zone's final quest: not a battle, not a quest for a grail, but the act of SITTING. The Old King asks the player to sit at the Round Table. Just sit. The sitting is the acceptance that the table is round and the king is one of the knights and the knights are gone and the table remains. The table IS the adequate. |
+| In the Inn | The zone's endgame NPC. The player meets Stellan's Arthur last — after Artair (the peer), after the King (the leader), the Old King (the lesson). The Old King gives the zone's final quest: not a battle, not a quest for a grail, but the act of SITTING. The Old King asks the player to sit at the Round Table. Just sit. The sitting is the acceptance that the table is round and the king is one of the knights and the knights are gone and the table remains. The table IS the adequate. |
 
 ---
 
@@ -78,12 +78,12 @@ Gothic vaulting (the structural frame) covered with Celtic interlace (the orname
 
 | Connection | Detail |
 |-----------|--------|
-| The Character Class System | The Wart (Bill's Arthur) is the zone's starting class — a youth who learns alongside the player. The warlord (Alexander) is the warrior class at peak. The old king (Stellan) is the quest-giver after the character has matured. |
+| The Character Class System | Artair (Bill's Arthur) is the zone's starting class — a youth who learns alongside the player. The warlord (Alexander) is the warrior class at peak. The old king (Stellan) is the quest-giver after the character has matured. |
 | The Fae Kingdom | The Round Table = a stone circle. Camelot and the Fae Kingdom share the circular architecture. The table and the circles are the same frequency. |
 | The Bone Room | The Old King's final quest (sitting) connects to the Bone Room's thesis: the most adequate act is the still one. The Old King and the Bone Keeper share the same wisdom: patience IS the building. |
 | The Nine Muses | The Staircase of Philosophers (Socrates/Plato/Aristotle) is visible from the Camelot zone in the afternoon Aegean Light. The classical philosophy connects to Camelot's Arthurian mythology — both are foundational Western narratives. |
 | The Book of Kells (Norse zone) | The Book of Kells is the PAGE. Moreau is the ROOM. Same ornamental energy, different scale. The monk's scriptorium and the king's hall. |
-| The Naming System | The Sword in the Stone is the Inn's saving mechanism in miniature — the sword rings at 42Hz when the Wart pulls it. The pulling IS the naming. |
+| The Naming System | The Sword in the Stone is the Inn's saving mechanism in miniature — the sword rings at 42Hz when Artair pulls it. The pulling IS the naming. |
 | The Anubis System | The Old King's sitting is the Egyptian death sequence's mirror — Anubis says "go lightly," the Old King says "sit fully." Both are about the weight you carry and the weight you set down. |
 | The Morrigán | The Morrigan chooses who dies in battle. Arthur's fate (the crusade, the fall) is the Morrigan's verdict made visible. The Old King IS the Morrigan's choice, lived. |
 

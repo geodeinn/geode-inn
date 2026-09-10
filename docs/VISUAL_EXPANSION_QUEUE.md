@@ -64,7 +64,7 @@ Named faces get a lore-first prompt pass (six-writer voice, zone style bible, ce
 ## Wave 4 Complete (2026-09-09 night)
 - TIER 1 FULLY COMPLETE: Wayfarer, Echo leader, Lost leader, Watcher (111Hz gargoyle — compendium says staircase, fizgigs' list said cosmology; flag for their ledger correction)
 - BONUS: The Four Story-Born fully painted (Wayfarer, Hearthkeeper, Mourner, Laughing One) — all grown from the compendium's full descriptions
-- NOTE: Krista reports ~80k additional art credits from plan expansion (2026-09-09). Next major targets: Skarsgård-based character set (Wart/King/Elder), comic strip #001 panels, tri-mode in-between zone states.
+- NOTE: Krista reports ~80k additional art credits from plan expansion (2026-09-09). Next major targets: Skarsgård-based character set (Artair/King/Elder), comic strip #001 panels, tri-mode in-between zone states.
 
 ## Wave 5 Complete (2026-09-09 night, Krista present)
 - TRI-MODE SYSTEM VISUALLY COMPLETE: all 8 in-between zone panoramas generated (Main Floor, Staircase, Catacombs, Cosmology, Seelie, Unseelie, Water, the Whole Inn mid-flip). Living + shadow + in-between = full tectonic triple-set for every major zone.

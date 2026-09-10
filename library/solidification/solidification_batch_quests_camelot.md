@@ -269,7 +269,7 @@ Galahad supplies **The Crack in Perfection**. His conscious choice to embrace fl
 *Source Document: geode_inn_arthur.md*
 
 ### Core Narrative & DM Framing
-King Arthur is unified through three generations of Skarsgård casting: Bill Skarsgård as the learning youth (The Wart), Alexander Skarsgård as the peak Celtic warlord, and Stellan Skarsgård as the post-crusade old king. The DM frames Arthur as one soul carrying three ages of weight. Visuals combine Klimt's golden royal crown, mosaic cloak of dragons, and shimmering Excalibur with Royo's ancient battered plate armor, biomechanical dragon-scale plating, and worn obsidian scabbards.
+King Arthur is unified through three generations of Skarsgård casting: Bill Skarsgård as the learning youth (Artair), Alexander Skarsgård as the peak Celtic warlord, and Stellan Skarsgård as the post-crusade old king. The DM frames Arthur as one soul carrying three ages of weight. Visuals combine Klimt's golden royal crown, mosaic cloak of dragons, and shimmering Excalibur with Royo's ancient battered plate armor, biomechanical dragon-scale plating, and worn obsidian scabbards.
 
 ### (1) Shadow Inn State (84Hz Inversion)
 In Shadow 84Hz mode, a temporal rift splits Arthur into his three ages simultaneously. The Youth, Warlord, and Old King manifest as 84Hz shadow bosses that fight out of sync. Players must balance their attention across all three timelines, aligning their attacks to synchronize the three generations back into a single 42Hz entity.

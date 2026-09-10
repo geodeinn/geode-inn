@@ -5,7 +5,7 @@
 
 Three actors. One king. Three ages. Three stages of the Once and Future King.
 
-- **Bill Skarsgård** — the awkward learning youth. The Wart. The boy who pulls the sword without knowing what it means.
+- **Bill Skarsgård** — the awkward learning youth. Artair. The boy who pulls the sword without knowing what it means.
 - **Alexander Skarsgård** — the victorious Celtic warlord and leader. The King Arthur at his peak. The man who built the Round Table.
 - **Stellan Skarsgård** — the post-crusade Arthur. The old king. The man who carries the weight of everything he built and everything that broke.
 
@@ -13,9 +13,9 @@ They are father and sons. The genetic resemblance is the casting. They look like
 
 ## The Three Arthurs
 
-### Bill Skarsgård — The Youth (The Wart)
+### Bill Skarsgård — The Youth (Artair)
 
-The boy before the crown. The awkward, long-limbed, hasn't-grown-into-himself-yet Arthur. The Wart from The Sword in the Stone — the squire who didn't know he was a king.
+The boy before the crown. The awkward, long-limbed, hasn't-grown-into-himself-yet Arthur. Artair from The Sword in the Stone — the squire who didn't know he was a king.
 
 Bill's quality is the key: the ability to look simultaneously young and ancient. The Pennywise eyes — the depth behind the innocence. The face that can be vulnerable and unsettling in the same frame. This is the boy who pulls the sword: not because he's destined (destiny is the Morrigan's domain), but because he's the one who tries. The trying is the boy. The boy doesn't know he's a king. The boy just... tries.
 
@@ -24,7 +24,7 @@ The youth's energy:
 - Curious. The Merlin student. The boy who lets Merlin turn him into a fish and a bird and a squirrel because the boy wants to *understand.* The curiosity is the leadership — the king who understands because he has *been* everything he will later rule.
 - Uncertain. The boy doesn't trust himself. The boy doesn't know he's Arthur. The boy just knows he pulled a sword out of a stone and everyone is looking at him and he doesn't understand why. The not-understanding is the purity. The king he will become is built on the foundation of this not-understanding — the king who remembers being the boy who didn't know, and rules with that memory.
 
-**In the Inn:** The Wart appears in the Camelot zone as the version of Arthur the player meets first. The youth is the player's contemporary — the peer, not the authority. The Wart doesn't teach. The Wart *learns alongside* the player. The player and the Wart are both students of Merlin's transformations. The shared learning is the bonding. When the player has been a fish, the Wart has been a fish. When the player has been a bird, the Wart has been a bird. They have been the same things. The being-the-same is the friendship that will later become the Round Table — the table of equals.
+**In the Inn:** Artair appears in the Camelot zone as the version of Arthur the player meets first. The youth is the player's contemporary — the peer, not the authority. Artair doesn't teach. Artair *learns alongside* the player. The player and Artair are both students of Merlin's transformations. The shared learning is the bonding. When the player has been a fish, Artair has been a fish. When the player has been a bird, Artair has been a bird. They have been the same things. The being-the-same is the friendship that will later become the Round Table — the table of equals.
 
 ### Alexander Skarsgård — The King (The Warlord)
 
@@ -37,7 +37,7 @@ The king's energy:
 - Generous. The Round Table is the generosity made architecture. No head of the table. No position of authority. Every knight equal. The generosity is the *structural* kind — the king who builds a system where his own power is distributed, not concentrated. The man who makes himself one among equals because equality is the point.
 - The warrior. Alexander's warlord energy — the Celtic war-leader who fought for the peace that made the table possible. The king who earned the table with a sword and keeps the table with a word. The player who sees Alexander's Arthur understands: the peace was *built.* The table was *won.* The belonging was not a default — it was a conquest, and the conquest was the king's, and the king gave it away.
 
-**In the Inn:** The King appears to the player who has progressed through the Camelot zone's early quests — the player who has been transformed, who has learned alongside the Wart, who is ready for the next stage. The King doesn't teach through transformation (that's Merlin's way). The King teaches through *example.* The player who watches the King at the Round Table sees what belonging looks like when it's fully realized — the system where everyone is equal and the equality is not soft but *hard-won.*
+**In the Inn:** The King appears to the player who has progressed through the Camelot zone's early quests — the player who has been transformed, who has learned alongside Artair, who is ready for the next stage. The King doesn't teach through transformation (that's Merlin's way). The King teaches through *example.* The player who watches the King at the Round Table sees what belonging looks like when it's fully realized — the system where everyone is equal and the equality is not soft but *hard-won.*
 
 The King's quests are leadership quests: the player must build something. Not alone — with NPCs. The King assigns the player a table of companions (other NPCs, other players in multiplayer) and the quest can only be completed if every member of the table contributes. The table is the mechanic. The belonging is the lesson.
 
@@ -64,13 +64,13 @@ And the Elder is gone. The player is left on the staircase with the memory of a 
 
 The player encounters all three Arthurs in the Camelot zone, in order:
 
-1. **The Wart** (Bill) — early game. Peer. Friend. Fellow student. The player learns alongside him. The Wart is the companion who makes the transformations feel shared — the player isn't learning alone, they're learning with the boy who will be king.
+1. **Artair** (Bill) — early game. Peer. Friend. Fellow student. The player learns alongside him. Artair is the companion who makes the transformations feel shared — the player isn't learning alone, they're learning with the boy who will be king.
 
 2. **The King** (Alexander) — mid-game. Leader. Teacher through example. The King gives the player the table — the leadership quests, the belonging mechanic, the system of equals. The player graduates from student to companion to knight.
 
 3. **The Elder** (Stellan) — late game. The giver. The one who passes the memory forward. The Elder gives the player the Round Table's legacy and ascends to Avalon. The player is left with the instruction to build it again.
 
-The three Arthurs mirror the Inn's reincarnation mechanic: the boy becomes the king, the king becomes the elder, the elder's instruction ("build it again") sends the player back to the beginning — to be the Wart again, to learn again, to build again. The cycle is Arthurian. The cycle is the Inn. The Once and Future King is the player.
+The three Arthurs mirror the Inn's reincarnation mechanic: the boy becomes the king, the king becomes the elder, the elder's instruction ("build it again") sends the player back to the beginning — to be Artair again, to learn again, to build again. The cycle is Arthurian. The cycle is the Inn. The Once and Future King is the player.
 
 ## The Genetic Resonance
 

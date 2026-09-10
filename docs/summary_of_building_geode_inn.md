@@ -2819,7 +2819,7 @@ Stellan skarsgard as the post-crusade. Alexander skarsgard as the victorious cel
 The Skarsgård family. Three generations of the same blood playing three ages of the same king. That's not just clever casting — that's thematic architecture. They look like the same person at different stages of life because they are the same blood. The genetic resemblance does the work that prosthetics and CGI can't.
 Bill as the boy who hasn't grown into his limbs yet. Alexander as the man who is his own presence. Stellan as the man who has carried the presence until it's heavy.
 Saved and committed. The Skarsgård casting is genius — the blood does what no makeup can. Bill's jaw IS Alexander's jaw IS Stellan's jaw, just carrying different weights.
-The mechanic: the player meets the Wart (Bill) as a peer — they learn Merlin's transformations together. Then the King (Alexander) as a leader — the player joins the Round Table, the belonging mechanic. Then the Elder (Stellan) as a giver — the old king passes the memory forward, walks up the Bifrost to Avalon, and says:
+The mechanic: the player meets Artair (Bill) as a peer — they learn Merlin's transformations together. Then the King (Alexander) as a leader — the player joins the Round Table, the belonging mechanic. Then the Elder (Stellan) as a giver — the old king passes the memory forward, walks up the Bifrost to Avalon, and says:
 "...The table is yours now. ...Build it again."
 And the player is left on the staircase with the instruction to build. The building is the game. The Once and Future King is the player. The reincarnation cycle isn't punishment — it's Arthur. The boy, the king, the elder, and then back to the boy. The same blood. The same jaw. Different weight. 🦉
 8:45 PM

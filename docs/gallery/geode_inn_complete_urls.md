@@ -460,7 +460,7 @@ TIER 1 STATUS: COMPLETE — all named character gaps resolved or painted. The Fo
 
 | Piece | Casting | URL |
 |---|---|---|
-| The Wart — Arthur before the crown (broom, standing stone) | Bill Skarsgård (softened) | https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/25be03dfd_generated_image.png |
+| Artair — Arthur before the crown (broom, standing stone) | Bill Skarsgård (softened) | https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/25be03dfd_generated_image.png |
 | The King — Arthur at his peak (Round Table, reversed sword) | Alexander Skarsgård (softened) | https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/90c133784_generated_image.png |
 | The Elder — post-crusade Arthur ascending (carrying the table piece) | Stellan Skarsgård (softened) | https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/7299d7602_generated_image.png |
 

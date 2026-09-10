@@ -132,7 +132,7 @@ The Geode Inn is structured as a massive ancient tree — the Inn-Tree is a livi
 
 ### Camelot (Celtic Cultural Platform — Main Floor/Canopy)
 - The Round Table Room — sacred geometry made social, the Ouroboros made furniture
-- Arthur in three stages: Bill Skarsgård (the Wart/youth), Alexander Skarsgård (the King/peak), Stellan Skarsgård (the Elder/Avalon passage)
+- Arthur in three stages: Bill Skarsgård (Artair/youth), Alexander Skarsgård (the King/peak), Stellan Skarsgård (the Elder/Avalon passage)
 - Seven Knights mapped to seven classical planets (Lancelot=Venus, Percival=Mercury, Gawain=Mars, Bors=Earth, Bedivere=Saturn, Tristan=Moon, Gareth=Sun)
 - Galahad as the eighth — the fixed sphere, the complication of purity vs. choice
 - Merlin and Noctua (the backwards wizard and the owl who remembers)
@@ -311,7 +311,7 @@ The Inn does not display art on walls. The Inn's environments ARE the art — ea
 - **Brownies** — Constitutional peasants. Sacred legal contract for Inn upkeep.
 
 ### Camelot (Celtic Cultural Platform)
-- **King Arthur** — Three generations of Skarsgård. Bill (the Wart), Alexander (the King), Stellan (the Elder). The Elder ascends to Avalon (cosmology level): "...The table is yours now. ...Build it again."
+- **King Arthur** — Three generations of Skarsgård. Bill (Artair), Alexander (the King), Stellan (the Elder). The Elder ascends to Avalon (cosmology level): "...The table is yours now. ...Build it again."
 - **Galahad** — The Complication. The pure knight. The eighth sphere. Purity is obedience — the new magic wants choice. The crack in his armor is the planet beginning to orbit.
 - **Mordred** — The Consequence. The pattern that must repeat. Not a villain — the necessary break.
 - **The Seven Knights** — Seven classical planets, seven metals, seven geometric forms:
@@ -491,7 +491,7 @@ Frog transformation: three = suspension.
 - Player builds reputation with cultural factions
 - Core arcade games (Phase 1-4)
 - Unlocks access to the staircase/Bifrost
-- **Camelot Quest Chain:** Meet the Wart (Bill Skarsgård) → learn alongside Merlin → transform → meet the King (Alexander) → Round Table leadership quests → meet the Elder (Stellan) → Avalon passage (ascent to cosmology level)
+- **Camelot Quest Chain:** Meet Artair (Bill Skarsgård) → learn alongside Merlin → transform → meet the King (Alexander) → Round Table leadership quests → meet the Elder (Stellan) → Avalon passage (ascent to cosmology level)
 
 ## Tier 2: The Bridge Realms
 - **Muspelheim:** Crafting mastery. Miracle Max's shop. The Retort and the Cook. The Five Smiths. The Greek Philosophers on the three steps.
