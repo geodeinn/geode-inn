@@ -715,3 +715,6 @@ Four final cycle sheets, all with canonical 84Hz shadow variants. With this wave
   SHADOW: https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/b0f32e731_moss_turtle_shadow.png
 - CYCLE-CRYSTAL-LIZARD LIVING (smoky quartz scales, mineral spine-light): https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/5e83f97a0_crystal_lizard.png
   SHADOW: https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/62553a544_crystal_lizard_shadow.png
+
+## The Thread — Labyrinth of Crete (2026-09-10)
+- `masquerade_hall_cover` — The Masquerade hall: the traveler, the golden thread, reflections out of step, the moon-bright threshold. Master (metadata-stripped) at docs/gallery/the_thread/masquerade_hall_cover.png — https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/de77e4cec_thread_masquerade_hall_clean.png

@@ -15,6 +15,10 @@
 | Development Status | spec |
 | Roster | Proposed #62 (awaiting Krista's approval before MarketItem creation) |
 
+![Cover — the Masquerade hall](../gallery/the_thread/masquerade_hall_cover.png)
+
+Master: docs/gallery/the_thread/masquerade_hall_cover.png | CDN: https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/de77e4cec_thread_masquerade_hall_clean.png — the traveler, the golden thread, reflections out of step, the moon-bright threshold.
+
 Tone references (NOT emulated classics — wholly original mechanics): Ico (the held-hand journey), Journey (arrival as the point). Legal basis: original mechanics, original assets, original music. The Inn builds originals; the classics are reference blueprints only.
 
 ## SECTION 2: STORYLINE ADAPTATION
