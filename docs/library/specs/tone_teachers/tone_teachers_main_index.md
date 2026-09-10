@@ -17,7 +17,7 @@ The six-writer voice (Rothfuss, Pratchett, Gaiman, Asimov, Bradbury, Weir) remai
 
 ---
 
-## The Thirteen Tone Teachers — Complete Index
+## The Fifteen Tone Teachers — Complete Index
 
 Each tone teacher has a dedicated complete index file in this folder. Each one teaches a different structural layer of the Inn, from a different direction, hidden behind a different cover.
 
