@@ -23,7 +23,7 @@
 | Cosmology (Void, Observatory, Arcana, Ascension Canopy, Valhalla, Freyr's Garden, Spiral Gallery) | audit rows, master structure, endgame specs | the full layer dissection (D08) — endgame assembly, Six Questions chain, the three choices | **1 — DONE (D08, 2026-09-10)** |
 | Clockwork Skies | artist (Dalí), game (All Hands) | NPCs, quest chain, layer definitions — flagged THIN since audit | **DONE — folded into D08: cosmic crew seated, All Hands chain proposed** |
 | Hollow Earth (Crystal Tunnels, 9-district Crystal City, Grand Collision) | narrative integration doc, 11-artist layer map | layer definitions per district, item templates (9 districts lack standalone templates — audit flag) | **3** |
-| The In-Between (all 8 states) | tri-mode tectonic specs, game #62/#63 | layer definitions — each state is a "layer" needing the full treatment | **4** |
+| The In-Between (all 8 states) | tri-mode tectonic specs, game #62/#63 | layer definitions — each state is a "layer" needing the full treatment | **4 — DONE (D11, 2026-09-10: geode_inn_walkthrough_dissection_11_in_between_shadow_inn.md — 8 states, each with room-for-room 84Hz mirror, the laws, the residents, the game layer)** |
 | Shadow Inn (84Hz mirror) | tri-mode spec, dark_side spec | layer definitions matching the living Inn room-for-room | **5** |
 | Canopy City (+ Canopy Shadow) | master spec | layer definitions + dissection (Tumble's native zone; queens' ladder feeds here) | **6** |
 | Main Floor sub-areas (Hearth, Garden, Meadery, Portrait Gallery, Brim's Nook, Arcade, Market, Music Room, Archive, Hatchery, Reader's Nook, Owl's Branch) | audit rows complete, D01/02 partial | per-sub-area layer definitions — 17 rooms, each needs its own layer pass | **7** |
