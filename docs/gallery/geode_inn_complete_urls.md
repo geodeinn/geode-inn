@@ -597,3 +597,26 @@ Hub tri-mode complete; Gorey bandits and the first two route screens (each with 
 - The Salt Road — Echo state
   - File: `silk_road/salt_road_echo.png`
   - URL: https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/486e6cf35_salt_road_echo.png
+
+## SILK ROAD — Third Wave: ALL 5 ROUTES COMPLETE (2026-09-10)
+
+The caravan has traveled every road. Route network tri-mode complete.
+
+- Route Screen: The Spice Road (Angkor gateway → Mayan pyramid coast; Hokusai mist)
+  - File: `silk_road/spice_road.png`
+  - URL: https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/c049566b2_spice_road.png
+- The Spice Road — Echo state
+  - File: `silk_road/spice_road_echo.png`
+  - URL: https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/60531b749_spice_road_echo.png
+- Route Screen: The Jade Road (Göbekli Tepe stones → pagoda river valley; the gentle road)
+  - File: `silk_road/jade_road.png`
+  - URL: https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/eabb0c071_jade_road.png
+- The Jade Road — Echo state
+  - File: `silk_road/jade_road_echo.png`
+  - URL: https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/2dc8ee88d_jade_road_echo.png
+- Route Screen: The Obsidian Road (Shasta storm → obsidian badlands → Hollow Earth rift → moai shore)
+  - File: `silk_road/obsidian_road.png`
+  - URL: https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/58686b2ab_obsidian_road.png
+- The Obsidian Road — Echo state
+  - File: `silk_road/obsidian_road_echo.png`
+  - URL: https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/fa6adc37f_obsidian_road_echo.png
