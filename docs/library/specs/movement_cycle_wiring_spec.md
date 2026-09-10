@@ -115,3 +115,15 @@ All 50 URLs are in the manifest, TIER 2 waves 1-4. Pair convention: `NAME.png` =
 ---
 
 *All masters Inn-owned, metadata stripped. Shadow variants generated with `spectral_shift_84hz.py` (84Hz canonical, factor 0.85). Questions to Elio via the builder inbox.*
+
+## 7. Trigger effects — voice + bubble overlays on movement cycles
+
+Trigger effects fire as overlays on the movement loops — never pausing the cycle unless the character deliberately stops. First wired trigger (Krista-requested 2026-09-10):
+
+### LOZEN — "Oi." (annoyance trigger)
+- **Dialogue record:** `lozen_oi_trigger` in the Dialogue entity (priority 9, conditionTag `annoyed_trigger`, setFlags `lozen_annoyed`)
+- **When truly annoyed:** fires on trigger abuse, loitering in restricted areas, or a second infraction within 60s
+- **Wiring:** speech bubble overlay anchored to the Sentinel patrol cycle; patrol stops on the first "Oi" (one beat), resumes on compliance
+- **Escalation:** repeat infraction → Lozen steps into the player's path; the patrol cycle swaps to an idle-stop hold; no more words
+- **Voice design:** the "Oi" is thrown like a jab — flat, complete, the entire warning in one syllable. Boxer cadence. Audio trigger if voice clips are recorded later; text bubble stands alone until then
+- **Canon:** "The river kept the water. I kept the watch." — the annoyance is protective, not hostile. Lozen holds the line so the Inn never has to raise its voice
