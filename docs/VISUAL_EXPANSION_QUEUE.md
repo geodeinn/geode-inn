@@ -74,3 +74,7 @@ Named faces get a lore-first prompt pass (six-writer voice, zone style bible, ce
 ## Tier 3 Wave 1 Complete (2026-09-09 night)
 - All 4 LIVE GAMES fully sprite'd + background'd: Standing Stones (bluestone tetrominoes + trilithon dusk bg), Tomb Tunnel (digger + scarabs + tiles + tomb cutaway bg), Andean Run (runner + terraces + obstacles + dawn bg), Monster of the Deep (6 creatures + 3-band loch bg).
 - Tier 3 remaining: Tumble Run, Bead Board, Stone Memory/Solitaire/Dominance, Murloc's Remedy, Jigsaw Relics, World Games, The Caravan.
+
+## Tier 3 Wave 2 Complete (2026-09-09 late night, Krista present)
+- ALL 11 ARCADE GAMES NOW SPRITE'D: Tumble Run (Tumble 4 poses + brownies + resonance nodes + heartwood bg), Bead Board (12 stone beads), card trio (card backs + gemstone faces), Murloc's Remedy (river-healer + potions), Jigsaw Relics (buried/drift/watching), World Games (Sphinx, Kappa, Minotaur, El Muki, Nidhogg), The Caravan (camel cart + charms + route tiles + Petra bg).
+- TIER 3 COMPLETE. Only Tier 4 remains: stone bead crops, market item images, Gazette comic panels, podcast covers, spirit manifestations, Steam capsules (egg tiers already done).

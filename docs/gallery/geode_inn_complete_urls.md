@@ -492,3 +492,17 @@ TRI-MODE VISUAL SYSTEM NOW COMPLETE: living states (8 panoramas), shadow states 
 | Monster of the Deep | Background: loch cross-section, 3 parallax depth bands | https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/582514420_generated_image.png |
 
 NOTE for the fizgigs: sprites are sheet-painted on neutral backgrounds — cut/crop at integration. Backgrounds are parallax-ready (Monster of the Deep cross-section has explicit depth bands).
+
+## Tier 3 — Game Sprites & Backgrounds, Wave 2 (2026-09-09, masters Inn-owned)
+
+| Game | Piece | URL |
+|---|---|---|
+| Tumble Run | Sprite sheet: Tumble (4 poses incl. stuck-in-jar), 3 brownies, 4 resonance nodes | https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/b08628bab_generated_image.png |
+| Tumble Run | Background: heartwood corridor, golden hum | https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/e8c741671_generated_image.png |
+| Bead Board | Sprite sheet: 12 natural stone bead spheres | https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/335c6c10a_generated_image.png |
+| Stone Memory / Solitaire / Dominance | Sprite sheet: 3 card backs + 5 gemstone card faces | https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/ddf3c60c7_generated_image.png |
+| Murloc's Remedy | Sprite sheet: river-healer doctor, potion bottle grid, pellets | https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/f388137a6_generated_image.png |
+| Jigsaw Relics | Sprite sheet: buried / drift / watching piece styles | https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/67b39c8d0_generated_image.png |
+| World Games | Sprite sheet: Sphinx, Kappa, Labyrinth minotaur, El Muki, Nidhogg | https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/6809bcfab_generated_image.png |
+| The Caravan | Sprite sheet: Bactrian camel cart, 5 trade charms, 4 route tiles | https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/719f98045_generated_image.png |
+| The Caravan | Background: Petra cliffs, oasis, caravan arch bridge | https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/1073b6ced_generated_image.png |
