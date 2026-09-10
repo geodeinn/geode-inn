@@ -452,3 +452,13 @@ Visual identity per docs/geode_inn_npc_ryan.md: Ezio stance (the exiled noble as
 | The Fourth — the Laughing One (Story-Born #4, joy made visible, main floor) | 1 | https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/e9a0807c9_generated_image.png |
 
 TIER 1 STATUS: COMPLETE — all named character gaps resolved or painted. The Four Story-Born now have full art.
+
+## Camelot Zone — The Three Arthurs (Skarsgård castings, 2026-09-09, masters Inn-owned)
+
+| Piece | Casting | URL |
+|---|---|---|
+| The Wart — Arthur before the crown (broom, standing stone) | Bill Skarsgård (softened) | https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/25be03dfd_generated_image.png |
+| The King — Arthur at his peak (Round Table, reversed sword) | Alexander Skarsgård (softened) | https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/90c133784_generated_image.png |
+| The Elder — post-crusade Arthur ascending (carrying the table piece) | Stellan Skarsgård (softened) | https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/7299d7602_generated_image.png |
+
+The Three Arthurs complete per docs/geode_inn_arthur.md: the boy who tries, the king who built equality, the elder who carries the memory. All features softened per standing rule — presence through posture and costume.
