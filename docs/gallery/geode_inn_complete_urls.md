@@ -543,3 +543,11 @@ PIPELINE PROVEN: generate chained frames (reference image → sequential edits) 
 | Hearth fire flicker GIF | https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/0ce0676bf_hearth_fire_loop.gif |
 
 TIER 1 MOVEMENT COVERAGE: 11 cycle sheets this wave + dragon kitten walk + froglodyte hop + Tumble bounce (earlier). With recolors (kittens ×8, puppies ×6, fizgigs ×6, brownies ×5), this covers the entire Tier 1 beta roster. Sheets are 4-frame horizontal strips — quarter-width slices drop straight into the animation engine's frame arrays.
+
+## THE GEODE INN GAZETTE — Strip #001 (2026-09-09, masters Inn-owned)
+
+| Strip | Title | Panel masters | Published strip |
+|---|---|---|---|
+| #001 | The Great Renaming | 310c364ed / 08f7d52cb / b5906ae45 / 31d010669 (base44 images) | https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/366fa3895_gazette_strip_001.png |
+
+Strip #001 record live in ComicStrip entity (staging): stripNumber 1, "The Great Renaming" — Ragana takes attendance as the roster adopts canonical names: Lozen ("The river kept the water. I kept the watch."), Brim ("One syllable. Efficient."), The Collector ("Joe collects the mail."), and the taaffeite hook ("Some names you don't hand out at roll call"). PRODUCT #10 LAUNCHED. Panel art repo copy: docs/gallery/gazette/strip_001_the_great_renaming.png

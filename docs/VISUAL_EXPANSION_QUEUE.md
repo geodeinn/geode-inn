@@ -89,3 +89,8 @@ Named faces get a lore-first prompt pass (six-writer voice, zone style bible, ce
 - Recolor math: one sheet per creature CLASS covers all named individuals (8 kittens, 6 puppies, 6 fizgigs, 5 brownies).
 - Engine-pipeline proof: gnome hammering + hearth fire GIFs sliced directly from sheets with PIL. Sheet → quarter-width frames → 13-line script → loop.
 - NEXT: Gazette strip #001 (The Great Renaming) panel art — the night's finale.
+
+## GAZETTE STRIP #001 PUBLISHED (2026-09-09 night finale)
+- "The Great Renaming" — 4 panels painted (Ragana's ledger, Lozen's attendance, Brim + The Collector, the taaffeite hook), lettered with PIL, stitched 2048px strip.
+- Delivered to Krista via iMessage + published to ComicStrip entity (strip #1) + repo master copy.
+- PRODUCT #10 (The Comic Strip) IS LIVE. Remaining for Gazette: web display page + daily generation workflow.
