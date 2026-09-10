@@ -32,3 +32,17 @@ The fizgigs read this file first. All specs are in the `docs/` folder.
 | `docs/geode_inn_ceiling_gnome_spec.md` | Gnome UI element spec |
 | `docs/geode_inn_unified_control_spec.md` | Switch 2 + keyboard/mouse control mapping for all games |
 | `docs/geode_inn_knowledge_base.md` | Full project knowledge base (35KB) |
+
+## DIRECTORY MAP (updated 2026-09-10 — check these subfolders before asking where a spec lives)
+
+| Folder | What's in it |
+|--------|-------------|
+| `docs/zone_specs/` | ALL world/zone/character master specs — quest chains, voice registry, named critters, zone canons. This is where new canon lands first. |
+| `docs/library/specs/` | Builder-facing sync specs + product specs (the wiring messages awaiting/approved by Krista — start with `parks_builder_sync.md`) |
+| `docs/library/data/` | Data manifests (game rosters JSON, stone zone maps) |
+| `docs/gallery/` | Image URL manifests + logo files |
+| `docs/legal/` | The paperwork matrix (the launch gate) |
+
+## NEW: THE PARKS SYSTEM (read after current batch)
+
+The parks sweep is spec-complete and awaiting wiring — full instructions: `docs/library/specs/parks_builder_sync.md`. The five quest chains + the Shasta hinge zone specs live in `docs/zone_specs/` (files prefixed `geode_inn_*_quest_chain.md` and `geode_inn_mt_shasta_master_spec.md`). Krista's ruling gates are listed INSIDE the sync spec — build everything else as written.
