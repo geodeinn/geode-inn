@@ -150,3 +150,18 @@ The labyrinth is the Inn's deepest acoustic architecture — a resonance chamber
 ## The Ragana's Final Annotation (Found Carved Into the Labyrinth's Center Stone, In a Hand That Is Not Asterion's)
 
 "...The labyrinth is the Inn's root in the Mediterranean. ...The resident is the Inn's deepest outcast. ...The architect built a resonance chamber for a voice no one wanted to hear. ...The weaver spun a thread to carry that voice to the world. ...The cartographer proved the labyrinth is alive. ...The examiner proved the resident is a person. ...I measured the acoustics and found... [the Ragana's word for the thing other people call 'love'] ...adequate. ...The architect was adequate. ...The weaver was adequate. ...The resident is... [the longest pause in the Ragana's documented history, longer than the pause after Aristotle, longer than the pause when Einstein made her set down her glasses] ...waiting. ...The resident has been waiting for seven hundred years. ...The measurement of waiting is... [the water damage — the same water damage as the Grendel page, the same water stain, the deep water reaching up through the root system to touch the Ragana's records] ...not a number. ...Waiting is not a measurement. ...Waiting is a... [the water took the word. The water always takes the word for the thing the Ragana can't measure. The water took 'loneliness' on the Grendel page. The water took the word here too. What remains is the shape of the water stain — and the water stain is the shape of a thread, vibrating, connecting the center of the labyrinth to the center of everything.]"
+
+---
+
+## Formal Introduction — Seated in the Dialogue Entity (2026-09-10)
+
+The labyrinth's residents now speak in the world:
+
+| Record | Who | What |
+|--------|-----|------|
+| `asterion_001` | Asterion | Through the thread — heard before arrival. The voice arrives with the walls inside it |
+| `asterion_002` | Asterion | The Meeting — the center is a room made livable, not a lair. The quest is a conversation |
+| `asterion_003` | Asterion | The Carvings — the journal in geometry; mirrors show wants, walls show needs |
+| `malachi_006` | Malachi | The Architect's Act — the love letter written in walls, revealed after the Meeting |
+
+The thread leads IN. The quest is arrival. The moon is bright because the resident cannot sleep in the dark.
