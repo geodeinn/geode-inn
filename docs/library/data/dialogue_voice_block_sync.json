@@ -1,0 +1,1550 @@
+[
+ {
+  "dialogueId": "the_reader_repeat_rung2",
+  "lines": [
+   "\"Noticed.\""
+  ],
+  "responses": [],
+  "setFlags": [],
+  "questLink": "",
+  "conditionTag": "repeat_rung2",
+  "priority": 9,
+  "isWhisperLayer": false,
+  "voiceProfile": "reader",
+  "npcName": "The Reader",
+  "zone": "Archive Nook",
+  "hookWord": "Noticed."
+ },
+ {
+  "dialogueId": "\"You already know where it is. That's why you came back.\"",
+  "lines": [
+   "The Reader marks the page for you and keeps reading nearby."
+  ],
+  "responses": [],
+  "setFlags": [
+   "reader_repeat"
+  ],
+  "questLink": "",
+  "conditionTag": "repeat_rung3",
+  "priority": 10,
+  "isWhisperLayer": false,
+  "voiceProfile": "reader",
+  "npcName": "The Reader",
+  "zone": "Archive Nook",
+  "hookWord": "Noticed."
+ },
+ {
+  "dialogueId": "beverley_repeat_rung2",
+  "lines": [
+   "\"Obviously. ...And you knew that.\""
+  ],
+  "responses": [],
+  "setFlags": [],
+  "questLink": "",
+  "conditionTag": "repeat_rung2",
+  "priority": 9,
+  "isWhisperLayer": false,
+  "voiceProfile": "beverley",
+  "npcName": "Beverley",
+  "zone": "Library",
+  "hookWord": "Obviously."
+ },
+ {
+  "dialogueId": null,
+  "lines": [
+   "Beverley answers correctly, one eyebrow raised."
+  ],
+  "responses": [],
+  "setFlags": [
+   "beverley_repeat"
+  ],
+  "questLink": "",
+  "conditionTag": "repeat_rung3",
+  "priority": 10,
+  "isWhisperLayer": false,
+  "voiceProfile": "beverley",
+  "npcName": "Beverley",
+  "zone": "Library",
+  "hookWord": "Obviously."
+ },
+ {
+  "dialogueId": "joe_the_collector_repeat_rung2",
+  "lines": [
+   "\"Delightful.\""
+  ],
+  "responses": [],
+  "setFlags": [],
+  "questLink": "",
+  "conditionTag": "repeat_rung2",
+  "priority": 9,
+  "isWhisperLayer": false,
+  "voiceProfile": "joe",
+  "npcName": "Joe (the Collector)",
+  "zone": "Meadery",
+  "hookWord": "Delightful."
+ },
+ {
+  "dialogueId": null,
+  "lines": [
+   "Joe shows you the item's shelf instead of speaking."
+  ],
+  "responses": [],
+  "setFlags": [
+   "joe_repeat"
+  ],
+  "questLink": "",
+  "conditionTag": "repeat_rung3",
+  "priority": 10,
+  "isWhisperLayer": false,
+  "voiceProfile": "joe",
+  "npcName": "Joe (the Collector)",
+  "zone": "Meadery",
+  "hookWord": "Delightful."
+ },
+ {
+  "dialogueId": "the_teacher_repeat_rung2",
+  "lines": [
+   "\"Incorrect.\" (one degree colder)"
+  ],
+  "responses": [],
+  "setFlags": [],
+  "questLink": "",
+  "conditionTag": "repeat_rung2",
+  "priority": 9,
+  "isWhisperLayer": false,
+  "voiceProfile": "teacher",
+  "npcName": "The Teacher",
+  "zone": "Archive",
+  "hookWord": "Incorrect."
+ },
+ {
+  "dialogueId": null,
+  "lines": [
+   "The Teacher says nothing and points to where the answer was. Once."
+  ],
+  "responses": [],
+  "setFlags": [
+   "teacher_repeat"
+  ],
+  "questLink": "",
+  "conditionTag": "repeat_rung3",
+  "priority": 10,
+  "isWhisperLayer": false,
+  "voiceProfile": "teacher",
+  "npcName": "The Teacher",
+  "zone": "Archive",
+  "hookWord": "Incorrect."
+ },
+ {
+  "dialogueId": "brim_repeat_rung2",
+  "lines": [
+   "Brim repeats your last words back in your own cadence."
+  ],
+  "responses": [],
+  "setFlags": [],
+  "questLink": "",
+  "conditionTag": "repeat_rung2",
+  "priority": 9,
+  "isWhisperLayer": false,
+  "voiceProfile": "brim",
+  "npcName": "Brim",
+  "zone": "Hearth",
+  "hookWord": "Watch this."
+ },
+ {
+  "dialogueId": null,
+  "lines": [
+   "Brim does a perfect impression of you clicking Brim."
+  ],
+  "responses": [],
+  "setFlags": [
+   "brim_repeat"
+  ],
+  "questLink": "",
+  "conditionTag": "repeat_rung3",
+  "priority": 10,
+  "isWhisperLayer": false,
+  "voiceProfile": "brim",
+  "npcName": "Brim",
+  "zone": "Hearth",
+  "hookWord": "Watch this."
+ },
+ {
+  "dialogueId": "monsieur_sentient_repeat_rung2",
+  "lines": [
+   "\"Absurd.\""
+  ],
+  "responses": [],
+  "setFlags": [],
+  "questLink": "",
+  "conditionTag": "repeat_rung2",
+  "priority": 9,
+  "isWhisperLayer": false,
+  "voiceProfile": "sentient_pipe",
+  "npcName": "Monsieur Sentient",
+  "zone": "Hearth",
+  "hookWord": "Absurd."
+ },
+ {
+  "dialogueId": null,
+  "lines": [
+   "The pipe forms a question mark in steam, dissolves it, and has answered."
+  ],
+  "responses": [],
+  "setFlags": [
+   "sentient_repeat"
+  ],
+  "questLink": "",
+  "conditionTag": "repeat_rung3",
+  "priority": 10,
+  "isWhisperLayer": false,
+  "voiceProfile": "sentient_pipe",
+  "npcName": "Monsieur Sentient",
+  "zone": "Hearth",
+  "hookWord": "Absurd."
+ },
+ {
+  "dialogueId": "the_wanderer_repeat_rung2",
+  "lines": [
+   "\"Passing through.\""
+  ],
+  "responses": [],
+  "setFlags": [],
+  "questLink": "",
+  "conditionTag": "repeat_rung2",
+  "priority": 9,
+  "isWhisperLayer": false,
+  "voiceProfile": "wanderer",
+  "npcName": "The Wanderer",
+  "zone": "Main Floor",
+  "hookWord": "Passing through."
+ },
+ {
+  "dialogueId": null,
+  "lines": [
+   "\"Passing. Still.\""
+  ],
+  "responses": [],
+  "setFlags": [
+   "wanderer_repeat"
+  ],
+  "questLink": "",
+  "conditionTag": "repeat_rung3",
+  "priority": 10,
+  "isWhisperLayer": false,
+  "voiceProfile": "wanderer",
+  "npcName": "The Wanderer",
+  "zone": "Main Floor",
+  "hookWord": "Passing through."
+ },
+ {
+  "dialogueId": "the_owl_repeat_rung2",
+  "lines": [
+   "\"Watching.\" (unchanged, 50 BPM)"
+  ],
+  "responses": [],
+  "setFlags": [],
+  "questLink": "",
+  "conditionTag": "repeat_rung2",
+  "priority": 9,
+  "isWhisperLayer": false,
+  "voiceProfile": "owl",
+  "npcName": "The Owl",
+  "zone": "Variable",
+  "hookWord": "Watching."
+ },
+ {
+  "dialogueId": null,
+  "lines": [
+   "\"Watching.\" (the word does not change)"
+  ],
+  "responses": [],
+  "setFlags": [
+   "owl_constant"
+  ],
+  "questLink": "",
+  "conditionTag": "repeat_rung3",
+  "priority": 10,
+  "isWhisperLayer": false,
+  "voiceProfile": "owl",
+  "npcName": "The Owl",
+  "zone": "Variable",
+  "hookWord": "Watching."
+ },
+ {
+  "dialogueId": "naut_repeat_rung2",
+  "lines": [
+   "\"Fascinating.\""
+  ],
+  "responses": [],
+  "setFlags": [],
+  "questLink": "",
+  "conditionTag": "repeat_rung2",
+  "priority": 9,
+  "isWhisperLayer": false,
+  "voiceProfile": "naut",
+  "npcName": "Naut",
+  "zone": "Fireplace",
+  "hookWord": "Fascinating."
+ },
+ {
+  "dialogueId": null,
+  "lines": [
+   "The tentacles rest. The spectacles stay on. Naut returns to reading."
+  ],
+  "responses": [],
+  "setFlags": [
+   "naut_repeat"
+  ],
+  "questLink": "",
+  "conditionTag": "repeat_rung3",
+  "priority": 10,
+  "isWhisperLayer": false,
+  "voiceProfile": "naut",
+  "npcName": "Naut",
+  "zone": "Fireplace",
+  "hookWord": "Fascinating."
+ },
+ {
+  "dialogueId": "the_ragana_repeat_rung2",
+  "lines": [
+   "\"Sit.\""
+  ],
+  "responses": [],
+  "setFlags": [],
+  "questLink": "",
+  "conditionTag": "repeat_rung2",
+  "priority": 9,
+  "isWhisperLayer": false,
+  "voiceProfile": "ragana",
+  "npcName": "The Ragana",
+  "zone": "Undercity",
+  "hookWord": "Sit."
+ },
+ {
+  "dialogueId": null,
+  "lines": [
+   "\"Sit. Still.\" \u2014 and the tea arrives anyway."
+  ],
+  "responses": [],
+  "setFlags": [
+   "ragana_repeat"
+  ],
+  "questLink": "",
+  "conditionTag": "repeat_rung3",
+  "priority": 10,
+  "isWhisperLayer": false,
+  "voiceProfile": "ragana",
+  "npcName": "The Ragana",
+  "zone": "Undercity",
+  "hookWord": "Sit."
+ },
+ {
+  "dialogueId": "the_firekeeper_repeat_rung2",
+  "lines": [
+   "\"Tend.\""
+  ],
+  "responses": [],
+  "setFlags": [],
+  "questLink": "",
+  "conditionTag": "repeat_rung2",
+  "priority": 9,
+  "isWhisperLayer": false,
+  "voiceProfile": "firekeeper",
+  "npcName": "The Firekeeper",
+  "zone": "Hearth",
+  "hookWord": "Tend."
+ },
+ {
+  "dialogueId": null,
+  "lines": [
+   "\"Tend. Still.\""
+  ],
+  "responses": [],
+  "setFlags": [
+   "firekeeper_repeat"
+  ],
+  "questLink": "",
+  "conditionTag": "repeat_rung3",
+  "priority": 10,
+  "isWhisperLayer": false,
+  "voiceProfile": "firekeeper",
+  "npcName": "The Firekeeper",
+  "zone": "Hearth",
+  "hookWord": "Tend."
+ },
+ {
+  "dialogueId": "the_catalyst_repeat_rung2",
+  "lines": [
+   "The Catalyst returns your question to you."
+  ],
+  "responses": [],
+  "setFlags": [],
+  "questLink": "",
+  "conditionTag": "repeat_rung2",
+  "priority": 9,
+  "isWhisperLayer": false,
+  "voiceProfile": "catalyst",
+  "npcName": "The Catalyst",
+  "zone": "Hearth",
+  "hookWord": "What changes?"
+ },
+ {
+  "dialogueId": null,
+  "lines": [
+   "The Catalyst asks the question of herself, softly, and the bar hears it."
+  ],
+  "responses": [],
+  "setFlags": [
+   "catalyst_repeat"
+  ],
+  "questLink": "",
+  "conditionTag": "repeat_rung3",
+  "priority": 10,
+  "isWhisperLayer": false,
+  "voiceProfile": "catalyst",
+  "npcName": "The Catalyst",
+  "zone": "Hearth",
+  "hookWord": "What changes?"
+ },
+ {
+  "dialogueId": "katya_repeat_rung2",
+  "lines": [
+   "\"Depth.\""
+  ],
+  "responses": [],
+  "setFlags": [],
+  "questLink": "",
+  "conditionTag": "repeat_rung2",
+  "priority": 9,
+  "isWhisperLayer": false,
+  "voiceProfile": "katya",
+  "npcName": "Katya",
+  "zone": "Water Zone",
+  "hookWord": "Depth."
+ },
+ {
+  "dialogueId": "katya_guard",
+  "lines": [
+   "The water behind you goes still."
+  ],
+  "responses": [],
+  "setFlags": [
+   "katya_still_water"
+  ],
+  "questLink": "",
+  "conditionTag": "repeat_rung3",
+  "priority": 10,
+  "isWhisperLayer": false,
+  "voiceProfile": "katya",
+  "npcName": "Katya",
+  "zone": "Water Zone",
+  "hookWord": "Depth."
+ },
+ {
+  "dialogueId": "the_gatekeeper_goth_repeat_rung2",
+  "lines": [
+   "\"Speak.\""
+  ],
+  "responses": [],
+  "setFlags": [],
+  "questLink": "",
+  "conditionTag": "repeat_rung2",
+  "priority": 9,
+  "isWhisperLayer": false,
+  "voiceProfile": "gatekeeper_goth",
+  "npcName": "The Gatekeeper Goth",
+  "zone": "Cave City",
+  "hookWord": "Speak."
+ },
+ {
+  "dialogueId": null,
+  "lines": [
+   "The Gatekeeper doesn't move. The presence IS the gate."
+  ],
+  "responses": [],
+  "setFlags": [
+   "goth_gate"
+  ],
+  "questLink": "",
+  "conditionTag": "repeat_rung3",
+  "priority": 10,
+  "isWhisperLayer": false,
+  "voiceProfile": "gatekeeper_goth",
+  "npcName": "The Gatekeeper Goth",
+  "zone": "Cave City",
+  "hookWord": "Speak."
+ },
+ {
+  "dialogueId": "the_griffin_repeat_rung2",
+  "lines": [
+   "(the bell-note, once)"
+  ],
+  "responses": [],
+  "setFlags": [],
+  "questLink": "",
+  "conditionTag": "repeat_rung2",
+  "priority": 9,
+  "isWhisperLayer": false,
+  "voiceProfile": "griffin",
+  "npcName": "The Griffin",
+  "zone": "Crystal Gardens",
+  "hookWord": "(one flat bell-note)"
+ },
+ {
+  "dialogueId": null,
+  "lines": [
+   "The Griffin lands. The crystals go quiet."
+  ],
+  "responses": [],
+  "setFlags": [
+   "griffin_lands"
+  ],
+  "questLink": "",
+  "conditionTag": "repeat_rung3",
+  "priority": 10,
+  "isWhisperLayer": false,
+  "voiceProfile": "griffin",
+  "npcName": "The Griffin",
+  "zone": "Crystal Gardens",
+  "hookWord": "(one flat bell-note)"
+ },
+ {
+  "dialogueId": "the_selkie_repeat_rung2",
+  "lines": [
+   "\"Make it true.\""
+  ],
+  "responses": [],
+  "setFlags": [],
+  "questLink": "",
+  "conditionTag": "repeat_rung2",
+  "priority": 9,
+  "isWhisperLayer": false,
+  "voiceProfile": "selkie",
+  "npcName": "The Selkie",
+  "zone": "Tidal Caves",
+  "hookWord": "Make it true."
+ },
+ {
+  "dialogueId": null,
+  "lines": [
+   "The Selkie sets the stone in your hand, adjusts the grip once, and returns to the wheel."
+  ],
+  "responses": [],
+  "setFlags": [
+   "selkie_repeat"
+  ],
+  "questLink": "",
+  "conditionTag": "repeat_rung3",
+  "priority": 10,
+  "isWhisperLayer": false,
+  "voiceProfile": "selkie",
+  "npcName": "The Selkie",
+  "zone": "Tidal Caves",
+  "hookWord": "Make it true."
+ },
+ {
+  "dialogueId": "thorin_repeat_rung2",
+  "lines": [
+   "\"...ja.\" (the scholar answers this time)"
+  ],
+  "responses": [],
+  "setFlags": [],
+  "questLink": "",
+  "conditionTag": "repeat_rung2",
+  "priority": 9,
+  "isWhisperLayer": false,
+  "voiceProfile": "thorin",
+  "npcName": "Thorin",
+  "zone": "Mead Hall",
+  "hookWord": "Ja."
+ },
+ {
+  "dialogueId": null,
+  "lines": [
+   "Thorin turns the stone to the light, says nothing, and slides a drink over."
+  ],
+  "responses": [],
+  "setFlags": [
+   "thorin_repeat"
+  ],
+  "questLink": "",
+  "conditionTag": "repeat_rung3",
+  "priority": 10,
+  "isWhisperLayer": false,
+  "voiceProfile": "thorin",
+  "npcName": "Thorin",
+  "zone": "Mead Hall",
+  "hookWord": "Ja."
+ },
+ {
+  "dialogueId": "marijke_repeat_rung2",
+  "lines": [
+   "\"Lekker.\" or: \"Not lekker.\""
+  ],
+  "responses": [],
+  "setFlags": [],
+  "questLink": "",
+  "conditionTag": "repeat_rung2",
+  "priority": 9,
+  "isWhisperLayer": false,
+  "voiceProfile": "marijke",
+  "npcName": "Marijke",
+  "zone": "Mead Hall",
+  "hookWord": "Lekker."
+ },
+ {
+  "dialogueId": null,
+  "lines": [
+   "Marijke names the stone's twin instead \u2014 the one you should have brought."
+  ],
+  "responses": [],
+  "setFlags": [
+   "marijke_repeat"
+  ],
+  "questLink": "",
+  "conditionTag": "repeat_rung3",
+  "priority": 10,
+  "isWhisperLayer": false,
+  "voiceProfile": "marijke",
+  "npcName": "Marijke",
+  "zone": "Mead Hall",
+  "hookWord": "Lekker."
+ },
+ {
+  "dialogueId": "lichenblossom_repeat_rung2",
+  "lines": [
+   "(the hum \u2014 one phrase of the Brabant lullaby)"
+  ],
+  "responses": [],
+  "setFlags": [],
+  "questLink": "",
+  "conditionTag": "repeat_rung2",
+  "priority": 9,
+  "isWhisperLayer": false,
+  "voiceProfile": "lichenblossom",
+  "npcName": "Lichenblossom",
+  "zone": "The Garden",
+  "hookWord": "Everything grows."
+ },
+ {
+  "dialogueId": null,
+  "lines": [
+   "Lichenblossom hands you a seedling and returns to the soil."
+  ],
+  "responses": [],
+  "setFlags": [
+   "lichen_repeat"
+  ],
+  "questLink": "",
+  "conditionTag": "repeat_rung3",
+  "priority": 10,
+  "isWhisperLayer": false,
+  "voiceProfile": "lichenblossom",
+  "npcName": "Lichenblossom",
+  "zone": "The Garden",
+  "hookWord": "Everything grows."
+ },
+ {
+  "dialogueId": "the_cartographer_repeat_rung2",
+  "lines": [
+   "\"Exactly.\""
+  ],
+  "responses": [],
+  "setFlags": [],
+  "questLink": "",
+  "conditionTag": "repeat_rung2",
+  "priority": 9,
+  "isWhisperLayer": false,
+  "voiceProfile": "cartographer",
+  "npcName": "The Cartographer",
+  "zone": "Escher Architecture",
+  "hookWord": "Exactly."
+ },
+ {
+  "dialogueId": null,
+  "lines": [
+   "The Cartographer draws the corridor you're standing in, dated tomorrow."
+  ],
+  "responses": [],
+  "setFlags": [
+   "cartographer_repeat"
+  ],
+  "questLink": "",
+  "conditionTag": "repeat_rung3",
+  "priority": 10,
+  "isWhisperLayer": false,
+  "voiceProfile": "cartographer",
+  "npcName": "The Cartographer",
+  "zone": "Escher Architecture",
+  "hookWord": "Exactly."
+ },
+ {
+  "dialogueId": "urd_repeat_rung2",
+  "lines": [
+   "(corrects your tense)"
+  ],
+  "responses": [],
+  "setFlags": [],
+  "questLink": "",
+  "conditionTag": "repeat_rung2",
+  "priority": 9,
+  "isWhisperLayer": false,
+  "voiceProfile": "urd",
+  "npcName": "Urd",
+  "zone": "Bone Room",
+  "hookWord": "Already happened."
+ },
+ {
+  "dialogueId": null,
+  "lines": [
+   "Urd shows you the thread already in the tapestry."
+  ],
+  "responses": [],
+  "setFlags": [
+   "urd_repeat"
+  ],
+  "questLink": "",
+  "conditionTag": "repeat_rung3",
+  "priority": 10,
+  "isWhisperLayer": false,
+  "voiceProfile": "urd",
+  "npcName": "Urd",
+  "zone": "Bone Room",
+  "hookWord": "Already happened."
+ },
+ {
+  "dialogueId": "verdandi_repeat_rung2",
+  "lines": [
+   "(the one-word update)"
+  ],
+  "responses": [],
+  "setFlags": [],
+  "questLink": "",
+  "conditionTag": "repeat_rung2",
+  "priority": 9,
+  "isWhisperLayer": false,
+  "voiceProfile": "verdandi",
+  "npcName": "Verdandi",
+  "zone": "Main Floor",
+  "hookWord": "\u2014well, now it's\u2026"
+ },
+ {
+  "dialogueId": null,
+  "lines": [
+   "Verdandi just watches with you. Right now, the present is enough."
+  ],
+  "responses": [],
+  "setFlags": [
+   "verdandi_repeat"
+  ],
+  "questLink": "",
+  "conditionTag": "repeat_rung3",
+  "priority": 10,
+  "isWhisperLayer": false,
+  "voiceProfile": "verdandi",
+  "npcName": "Verdandi",
+  "zone": "Main Floor",
+  "hookWord": "\u2014well, now it's\u2026"
+ },
+ {
+  "dialogueId": "skuld_repeat_rung2",
+  "lines": [
+   "\"It will do.\""
+  ],
+  "responses": [],
+  "setFlags": [],
+  "questLink": "",
+  "conditionTag": "repeat_rung2",
+  "priority": 9,
+  "isWhisperLayer": false,
+  "voiceProfile": "skuld",
+  "npcName": "Skuld",
+  "zone": "Cosmology",
+  "hookWord": "It will do."
+ },
+ {
+  "dialogueId": null,
+  "lines": [
+   "Skuld says the same sentence again, unchanged. It was true the first time."
+  ],
+  "responses": [],
+  "setFlags": [
+   "skuld_repeat"
+  ],
+  "questLink": "",
+  "conditionTag": "repeat_rung3",
+  "priority": 10,
+  "isWhisperLayer": false,
+  "voiceProfile": "skuld",
+  "npcName": "Skuld",
+  "zone": "Cosmology",
+  "hookWord": "It will do."
+ },
+ {
+  "dialogueId": "oleander_repeat_rung2",
+  "lines": [
+   "\"It's Leander.\" (gentler)"
+  ],
+  "responses": [],
+  "setFlags": [],
+  "questLink": "",
+  "conditionTag": "repeat_rung2",
+  "priority": 9,
+  "isWhisperLayer": false,
+  "voiceProfile": "oleander",
+  "npcName": "Oleander",
+  "zone": "Seelie Court",
+  "hookWord": "It's Leander."
+ },
+ {
+  "dialogueId": null,
+  "lines": [
+   "Oleander says nothing. The dragon kitten on the shoulder looks at you for him."
+  ],
+  "responses": [],
+  "setFlags": [
+   "oleander_repeat"
+  ],
+  "questLink": "",
+  "conditionTag": "repeat_rung3",
+  "priority": 10,
+  "isWhisperLayer": false,
+  "voiceProfile": "oleander",
+  "npcName": "Oleander",
+  "zone": "Seelie Court",
+  "hookWord": "It's Leander."
+ },
+ {
+  "dialogueId": "malachi_repeat_rung2",
+  "lines": [
+   "\"Cold enough?\""
+  ],
+  "responses": [],
+  "setFlags": [],
+  "questLink": "",
+  "conditionTag": "repeat_rung2",
+  "priority": 9,
+  "isWhisperLayer": false,
+  "voiceProfile": "malachi",
+  "npcName": "Malachi",
+  "zone": "Unseelie Court",
+  "hookWord": "Cold enough?"
+ },
+ {
+  "dialogueId": null,
+  "lines": [
+   "Malachi walks. You follow. The Labyrinth answers instead."
+  ],
+  "responses": [],
+  "setFlags": [
+   "malachi_repeat"
+  ],
+  "questLink": "",
+  "conditionTag": "repeat_rung3",
+  "priority": 10,
+  "isWhisperLayer": false,
+  "voiceProfile": "malachi",
+  "npcName": "Malachi",
+  "zone": "Unseelie Court",
+  "hookWord": "Cold enough?"
+ },
+ {
+  "dialogueId": "the_seelie_queen_repeat_rung2",
+  "lines": [
+   "\"Ask better.\""
+  ],
+  "responses": [],
+  "setFlags": [],
+  "questLink": "",
+  "conditionTag": "repeat_rung2",
+  "priority": 9,
+  "isWhisperLayer": false,
+  "voiceProfile": "seelie_queen",
+  "npcName": "The Seelie Queen",
+  "zone": "Seelie Bower",
+  "hookWord": "Ask better."
+ },
+ {
+  "dialogueId": null,
+  "lines": [
+   "The Queen lets you sit at court and simply watch. The answer arrives by experience."
+  ],
+  "responses": [],
+  "setFlags": [
+   "seelie_quiet"
+  ],
+  "questLink": "",
+  "conditionTag": "repeat_rung3",
+  "priority": 10,
+  "isWhisperLayer": false,
+  "voiceProfile": "seelie_queen",
+  "npcName": "The Seelie Queen",
+  "zone": "Seelie Bower",
+  "hookWord": "Ask better."
+ },
+ {
+  "dialogueId": "the_unseelie_queen_repeat_rung2",
+  "lines": [
+   "\"And what will you give?\""
+  ],
+  "responses": [],
+  "setFlags": [],
+  "questLink": "",
+  "conditionTag": "repeat_rung2",
+  "priority": 9,
+  "isWhisperLayer": false,
+  "voiceProfile": "unseelie_queen",
+  "npcName": "The Unseelie Queen",
+  "zone": "Winter Hall",
+  "hookWord": "And what will you give?"
+ },
+ {
+  "dialogueId": null,
+  "lines": [
+   "The raven-feather cape settles. The bargain stands as made. The room gets colder by exactly one truth."
+  ],
+  "responses": [],
+  "setFlags": [
+   "unseelie_cape"
+  ],
+  "questLink": "",
+  "conditionTag": "repeat_rung3",
+  "priority": 10,
+  "isWhisperLayer": false,
+  "voiceProfile": "unseelie_queen",
+  "npcName": "The Unseelie Queen",
+  "zone": "Winter Hall",
+  "hookWord": "And what will you give?"
+ },
+ {
+  "dialogueId": "the_queen_of_roots_repeat_rung2",
+  "lines": [
+   "\"One trunk.\""
+  ],
+  "responses": [],
+  "setFlags": [],
+  "questLink": "",
+  "conditionTag": "repeat_rung2",
+  "priority": 9,
+  "isWhisperLayer": false,
+  "voiceProfile": "queen_of_roots",
+  "npcName": "The Queen of Roots",
+  "zone": "Heartwood Court",
+  "hookWord": "One trunk."
+ },
+ {
+  "dialogueId": null,
+  "lines": [
+   "The Queen says the same sentence, one ring wider."
+  ],
+  "responses": [],
+  "setFlags": [
+   "roots_ring"
+  ],
+  "questLink": "",
+  "conditionTag": "repeat_rung3",
+  "priority": 10,
+  "isWhisperLayer": false,
+  "voiceProfile": "queen_of_roots",
+  "npcName": "The Queen of Roots",
+  "zone": "Heartwood Court",
+  "hookWord": "One trunk."
+ },
+ {
+  "dialogueId": "the_conductor_repeat_rung2",
+  "lines": [
+   "\"Magnificent, isn't it?\""
+  ],
+  "responses": [],
+  "setFlags": [],
+  "questLink": "",
+  "conditionTag": "repeat_rung2",
+  "priority": 9,
+  "isWhisperLayer": false,
+  "voiceProfile": "conductor",
+  "npcName": "The Conductor",
+  "zone": "Clockwork Skies",
+  "hookWord": "Magnificent, isn't it?"
+ },
+ {
+  "dialogueId": null,
+  "lines": [
+   "The Conductor beams at the silence the Tuner just made beautiful."
+  ],
+  "responses": [],
+  "setFlags": [
+   "conductor_beams"
+  ],
+  "questLink": "",
+  "conditionTag": "repeat_rung3",
+  "priority": 10,
+  "isWhisperLayer": false,
+  "voiceProfile": "conductor",
+  "npcName": "The Conductor",
+  "zone": "Clockwork Skies",
+  "hookWord": "Magnificent, isn't it?"
+ },
+ {
+  "dialogueId": "the_tuner_repeat_rung2",
+  "lines": [
+   "\"One moment.\""
+  ],
+  "responses": [],
+  "setFlags": [],
+  "questLink": "",
+  "conditionTag": "repeat_rung2",
+  "priority": 9,
+  "isWhisperLayer": false,
+  "voiceProfile": "tuner",
+  "npcName": "The Tuner",
+  "zone": "Clockwork Skies",
+  "hookWord": "One moment."
+ },
+ {
+  "dialogueId": null,
+  "lines": [
+   "The Tuner adjusts your frequency one degree. The question resolves itself mid-ask."
+  ],
+  "responses": [],
+  "setFlags": [
+   "tuner_adjusts"
+  ],
+  "questLink": "",
+  "conditionTag": "repeat_rung3",
+  "priority": 10,
+  "isWhisperLayer": false,
+  "voiceProfile": "tuner",
+  "npcName": "The Tuner",
+  "zone": "Clockwork Skies",
+  "hookWord": "One moment."
+ },
+ {
+  "dialogueId": "the_static_repeat_rung2",
+  "lines": [
+   "\"What?\" (innocent \u2014 the Static heard fine)"
+  ],
+  "responses": [],
+  "setFlags": [],
+  "questLink": "",
+  "conditionTag": "repeat_rung2",
+  "priority": 9,
+  "isWhisperLayer": false,
+  "voiceProfile": "static",
+  "npcName": "The Static",
+  "zone": "Clockwork Skies",
+  "hookWord": "What?"
+ },
+ {
+  "dialogueId": null,
+  "lines": [
+   "The Static answers perfectly, straight, once. It will never happen again."
+  ],
+  "responses": [],
+  "setFlags": [
+   "static_once"
+  ],
+  "questLink": "",
+  "conditionTag": "repeat_rung3",
+  "priority": 10,
+  "isWhisperLayer": false,
+  "voiceProfile": "static",
+  "npcName": "The Static",
+  "zone": "Clockwork Skies",
+  "hookWord": "What?"
+ },
+ {
+  "dialogueId": "the_metronome_repeat_rung2",
+  "lines": [
+   "\"Not at tempo.\""
+  ],
+  "responses": [],
+  "setFlags": [],
+  "questLink": "",
+  "conditionTag": "repeat_rung2",
+  "priority": 9,
+  "isWhisperLayer": false,
+  "voiceProfile": "metronome",
+  "npcName": "The Metronome",
+  "zone": "Clockwork Skies",
+  "hookWord": "Not at tempo."
+ },
+ {
+  "dialogueId": null,
+  "lines": [
+   "The Metronome counts aloud at 50 BPM until you stop. It has never lost this contest."
+  ],
+  "responses": [],
+  "setFlags": [
+   "metronome_counts"
+  ],
+  "questLink": "",
+  "conditionTag": "repeat_rung3",
+  "priority": 10,
+  "isWhisperLayer": false,
+  "voiceProfile": "metronome",
+  "npcName": "The Metronome",
+  "zone": "Clockwork Skies",
+  "hookWord": "Not at tempo."
+ },
+ {
+  "dialogueId": "the_echo_repeat_rung2",
+  "lines": [
+   "(your question, harmonized)"
+  ],
+  "responses": [],
+  "setFlags": [],
+  "questLink": "",
+  "conditionTag": "repeat_rung2",
+  "priority": 9,
+  "isWhisperLayer": false,
+  "voiceProfile": "echo",
+  "npcName": "The Echo",
+  "zone": "Clockwork Skies",
+  "hookWord": "(your words, gently)"
+ },
+ {
+  "dialogueId": null,
+  "lines": [
+   "The Static drifts over and sits nearby, buzzing faintly. For once, the interference is comforting."
+  ],
+  "responses": [],
+  "setFlags": [
+   "echo_comforted"
+  ],
+  "questLink": "",
+  "conditionTag": "repeat_rung3",
+  "priority": 10,
+  "isWhisperLayer": false,
+  "voiceProfile": "echo",
+  "npcName": "The Echo",
+  "zone": "Clockwork Skies",
+  "hookWord": "(your words, gently)"
+ },
+ {
+  "dialogueId": "the_moonwatch_repeat_rung2",
+  "lines": [
+   "\"Oh! Yes\u2014 hold on\u2014\""
+  ],
+  "responses": [],
+  "setFlags": [],
+  "questLink": "",
+  "conditionTag": "repeat_rung2",
+  "priority": 9,
+  "isWhisperLayer": false,
+  "voiceProfile": "moonwatch",
+  "npcName": "The Moonwatch",
+  "zone": "Clockwork Skies",
+  "hookWord": "Oh! Yes\u2014 hold on\u2014"
+ },
+ {
+  "dialogueId": null,
+  "lines": [
+   "The Moonwatch shows you the tide chart instead of speaking."
+  ],
+  "responses": [],
+  "setFlags": [
+   "moonwatch_chart"
+  ],
+  "questLink": "",
+  "conditionTag": "repeat_rung3",
+  "priority": 10,
+  "isWhisperLayer": false,
+  "voiceProfile": "moonwatch",
+  "npcName": "The Moonwatch",
+  "zone": "Clockwork Skies",
+  "hookWord": "Oh! Yes\u2014 hold on\u2014"
+ },
+ {
+  "dialogueId": "the_archivist_repeat_rung2",
+  "lines": [
+   "\"I have that here.\""
+  ],
+  "responses": [],
+  "setFlags": [],
+  "questLink": "",
+  "conditionTag": "repeat_rung2",
+  "priority": 9,
+  "isWhisperLayer": false,
+  "voiceProfile": "archivist_crew",
+  "npcName": "The Archivist",
+  "zone": "Clockwork Skies",
+  "hookWord": "I have that here."
+ },
+ {
+  "dialogueId": null,
+  "lines": [
+   "The Archivist silently hands over the file. Twice in one lifetime is too much joy to speak through."
+  ],
+  "responses": [],
+  "setFlags": [
+   "archivist_hands"
+  ],
+  "questLink": "",
+  "conditionTag": "repeat_rung3",
+  "priority": 10,
+  "isWhisperLayer": false,
+  "voiceProfile": "archivist_crew",
+  "npcName": "The Archivist",
+  "zone": "Clockwork Skies",
+  "hookWord": "I have that here."
+ },
+ {
+  "dialogueId": "the_repairman_repeat_rung2",
+  "lines": [
+   "\"It's the [part].\""
+  ],
+  "responses": [],
+  "setFlags": [],
+  "questLink": "",
+  "conditionTag": "repeat_rung2",
+  "priority": 9,
+  "isWhisperLayer": false,
+  "voiceProfile": "repairman",
+  "npcName": "The Repairman",
+  "zone": "Clockwork Skies",
+  "hookWord": "It's the [part]."
+ },
+ {
+  "dialogueId": null,
+  "lines": [
+   "(No rung 3 \u2014 the Repairman fixed the thing that caused the question the first time.)"
+  ],
+  "responses": [],
+  "setFlags": [
+   "repairman_fixed"
+  ],
+  "questLink": "",
+  "conditionTag": "repeat_rung3",
+  "priority": 10,
+  "isWhisperLayer": false,
+  "voiceProfile": "repairman",
+  "npcName": "The Repairman",
+  "zone": "Clockwork Skies",
+  "hookWord": "It's the [part]."
+ },
+ {
+  "dialogueId": "the_astronomer_repeat_rung2",
+  "lines": [
+   "\"Calculable.\""
+  ],
+  "responses": [],
+  "setFlags": [],
+  "questLink": "",
+  "conditionTag": "repeat_rung2",
+  "priority": 9,
+  "isWhisperLayer": false,
+  "voiceProfile": "astronomer",
+  "npcName": "The Astronomer",
+  "zone": "Cosmology",
+  "hookWord": "Calculable."
+ },
+ {
+  "dialogueId": null,
+  "lines": [
+   "Pen down. Violin up. The Astronomer plays the answer instead of speaking it."
+  ],
+  "responses": [],
+  "setFlags": [
+   "astronomer_violin"
+  ],
+  "questLink": "",
+  "conditionTag": "repeat_rung3",
+  "priority": 10,
+  "isWhisperLayer": false,
+  "voiceProfile": "astronomer",
+  "npcName": "The Astronomer",
+  "zone": "Cosmology",
+  "hookWord": "Calculable."
+ },
+ {
+  "dialogueId": "the_guest_repeat_rung2",
+  "lines": [
+   "\"In time.\""
+  ],
+  "responses": [],
+  "setFlags": [],
+  "questLink": "",
+  "conditionTag": "repeat_rung2",
+  "priority": 9,
+  "isWhisperLayer": false,
+  "voiceProfile": "guest",
+  "npcName": "The Guest",
+  "zone": "Main Floor",
+  "hookWord": "In time."
+ },
+ {
+  "dialogueId": null,
+  "lines": [
+   "The Guest opens the music box. The one note plays. You already knew it."
+  ],
+  "responses": [],
+  "setFlags": [
+   "guest_note"
+  ],
+  "questLink": "",
+  "conditionTag": "repeat_rung3",
+  "priority": 10,
+  "isWhisperLayer": false,
+  "voiceProfile": "guest",
+  "npcName": "The Guest",
+  "zone": "Main Floor",
+  "hookWord": "In time."
+ },
+ {
+  "dialogueId": "nyx_repeat_rung2",
+  "lines": [
+   "(the wisdom voice, one word)"
+  ],
+  "responses": [],
+  "setFlags": [],
+  "questLink": "",
+  "conditionTag": "repeat_rung2",
+  "priority": 9,
+  "isWhisperLayer": false,
+  "voiceProfile": "nyx",
+  "npcName": "Nyx",
+  "zone": "The Void",
+  "hookWord": "(the pause)"
+ },
+ {
+  "dialogueId": null,
+  "lines": [
+   "Nyx says nothing, and the dark between your repeated words becomes audible."
+  ],
+  "responses": [],
+  "setFlags": [
+   "nyx_silence"
+  ],
+  "questLink": "",
+  "conditionTag": "repeat_rung3",
+  "priority": 10,
+  "isWhisperLayer": false,
+  "voiceProfile": "nyx",
+  "npcName": "Nyx",
+  "zone": "The Void",
+  "hookWord": "(the pause)"
+ },
+ {
+  "dialogueId": "the_constant_repeat_rung2",
+  "lines": [
+   "\"Again.\""
+  ],
+  "responses": [],
+  "setFlags": [],
+  "questLink": "",
+  "conditionTag": "repeat_rung2",
+  "priority": 9,
+  "isWhisperLayer": false,
+  "voiceProfile": "constant",
+  "npcName": "The Constant",
+  "zone": "The Void",
+  "hookWord": "Again."
+ },
+ {
+  "dialogueId": null,
+  "lines": [
+   "The Constant simply continues existing at you, patiently, at geological tempo."
+  ],
+  "responses": [],
+  "setFlags": [
+   "constant_waits"
+  ],
+  "questLink": "",
+  "conditionTag": "repeat_rung3",
+  "priority": 10,
+  "isWhisperLayer": false,
+  "voiceProfile": "constant",
+  "npcName": "The Constant",
+  "zone": "The Void",
+  "hookWord": "Again."
+ },
+ {
+  "dialogueId": "eres_repeat_rung2",
+  "lines": [
+   "\"Where to?\""
+  ],
+  "responses": [],
+  "setFlags": [],
+  "questLink": "",
+  "conditionTag": "repeat_rung2",
+  "priority": 9,
+  "isWhisperLayer": false,
+  "voiceProfile": "eres",
+  "npcName": "Eres",
+  "zone": "Cosmology",
+  "hookWord": "Where to?"
+ },
+ {
+  "dialogueId": null,
+  "lines": [
+   "The words stop. The purr continues. The cabbit has already decided."
+  ],
+  "responses": [],
+  "setFlags": [
+   "eres_purr"
+  ],
+  "questLink": "",
+  "conditionTag": "repeat_rung3",
+  "priority": 10,
+  "isWhisperLayer": false,
+  "voiceProfile": "eres",
+  "npcName": "Eres",
+  "zone": "Cosmology",
+  "hookWord": "Where to?"
+ },
+ {
+  "dialogueId": "vaulknut_repeat_rung2",
+  "lines": [
+   "\"What if...\""
+  ],
+  "responses": [],
+  "setFlags": [],
+  "questLink": "",
+  "conditionTag": "repeat_rung2",
+  "priority": 9,
+  "isWhisperLayer": false,
+  "voiceProfile": "vaulknut",
+  "npcName": "Vaulknut",
+  "zone": "Bayou",
+  "hookWord": "What if..."
+ },
+ {
+  "dialogueId": null,
+  "lines": [
+   "Vaulknut stops offering options and simply makes one true."
+  ],
+  "responses": [],
+  "setFlags": [
+   "vaulknut_makes"
+  ],
+  "questLink": "",
+  "conditionTag": "repeat_rung3",
+  "priority": 10,
+  "isWhisperLayer": false,
+  "voiceProfile": "vaulknut",
+  "npcName": "Vaulknut",
+  "zone": "Bayou",
+  "hookWord": "What if..."
+ },
+ {
+  "dialogueId": "charles_repeat_rung2",
+  "lines": [
+   "\"What was I?\""
+  ],
+  "responses": [],
+  "setFlags": [],
+  "questLink": "",
+  "conditionTag": "repeat_rung2",
+  "priority": 9,
+  "isWhisperLayer": false,
+  "voiceProfile": "charles",
+  "npcName": "Charles",
+  "zone": "Garden",
+  "hookWord": "What was I?"
+ },
+ {
+  "dialogueId": null,
+  "lines": [
+   "The current shape settles, and the druid greets it. Every shape gets greeted."
+  ],
+  "responses": [],
+  "setFlags": [
+   "charles_greets"
+  ],
+  "questLink": "",
+  "conditionTag": "repeat_rung3",
+  "priority": 10,
+  "isWhisperLayer": false,
+  "voiceProfile": "charles",
+  "npcName": "Charles",
+  "zone": "Garden",
+  "hookWord": "What was I?"
+ },
+ {
+  "dialogueId": "the_bard_repeat_rung2",
+  "lines": [
+   "\"Listen\u2014\""
+  ],
+  "responses": [],
+  "setFlags": [],
+  "questLink": "",
+  "conditionTag": "repeat_rung2",
+  "priority": 9,
+  "isWhisperLayer": false,
+  "voiceProfile": "bard",
+  "npcName": "The Bard",
+  "zone": "The Dock",
+  "hookWord": "Listen\u2014"
+ },
+ {
+  "dialogueId": null,
+  "lines": [
+   "The Bard plays instead of speaking. The question answers itself in the key of the dock."
+  ],
+  "responses": [],
+  "setFlags": [
+   "bard_plays"
+  ],
+  "questLink": "",
+  "conditionTag": "repeat_rung3",
+  "priority": 10,
+  "isWhisperLayer": false,
+  "voiceProfile": "bard",
+  "npcName": "The Bard",
+  "zone": "The Dock",
+  "hookWord": "Listen\u2014"
+ },
+ {
+  "dialogueId": "zeke_repeat_rung2",
+  "lines": [
+   "\"Where's the need?\""
+  ],
+  "responses": [],
+  "setFlags": [],
+  "questLink": "",
+  "conditionTag": "repeat_rung2",
+  "priority": 9,
+  "isWhisperLayer": false,
+  "voiceProfile": "zeke",
+  "npcName": "Zeke",
+  "zone": "The Dock",
+  "hookWord": "Where's the need?"
+ },
+ {
+  "dialogueId": null,
+  "lines": [
+   "Zeke calmly reveals his full name is actually Ezekiel, and is already sailing away."
+  ],
+  "responses": [],
+  "setFlags": [
+   "zeke_ezekiel"
+  ],
+  "questLink": "",
+  "conditionTag": "repeat_rung3",
+  "priority": 10,
+  "isWhisperLayer": false,
+  "voiceProfile": "zeke",
+  "npcName": "Zeke",
+  "zone": "The Dock",
+  "hookWord": "Where's the need?"
+ },
+ {
+  "dialogueId": "lozen_repeat_rung3",
+  "lines": [
+   "No more words. Lozen steps into the path."
+  ],
+  "responses": [],
+  "setFlags": [
+   "lozen_path"
+  ],
+  "questLink": "",
+  "conditionTag": "repeat_rung3",
+  "priority": 10,
+  "isWhisperLayer": false,
+  "voiceProfile": "lozen",
+  "npcName": "Lozen",
+  "zone": "Entrance",
+  "hookWord": "Halt."
+ }
+]
