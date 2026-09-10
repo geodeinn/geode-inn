@@ -1,4 +1,6 @@
-# THE ZONE STORYLINE CENSUS (v2 — corrected 2026-09-10)
+# THE ZONE STORYLINE CENSUS (v3 — corrected again 2026-09-10)
+
+> v3: the recovered library (library/zones/) held more — the Cave City's full design doc with its complete quest line 'THE LAST LIGHT' (the Crimean Goths, the Gatekeeper's three admissions, the Root Note, the Subtractive Eye) and the Mesopotamian Platform's 'THE FIRST WRITING' chain (the Ziggurat, the Bifrost's first step, Inanna's chosen descent). Both zones leave the remaining sweep. The unwritten list is now 12.
 ## The map of what every zone says — and which zones are still waiting for their story
 
 > v1 undercounted: the archive already holds the cultural chains (Greek, Celtic, Jotunheim, Desert Bone, Selkie Crafting, Festival, Mother's Many Faces, Observatory, the Fibonacci Carrying), the Appalachian Long Wearing, Aughra, Naut's Borrower's Ledger, the Bayou's Door in the Basement, the Bone Room's Architecture of What Remains, and the Badlands Ether's Frame. v2 is the corrected tally.
@@ -27,21 +29,22 @@
 | Staircase/Catacombs/Undercity/Cosmology/Forge/Void/Ascent/In-Between/Fae | The 13 dissections (D01–D11) — the spine is mapped |
 | Silk Road | The caravan loop + routes + platforms (flagship corridor) |
 | Selkie / Festival / Mother's Many Faces / Observatory | Chains per the cultural chains master spec |
+| z09 Cave City | THE LAST LIGHT — full design doc in the recovered library (the Crimean Goths, six districts, the Gatekeeper's three admissions, the Root Note's 42Hz listen, the Subtractive Eye; the emergence choice is the Goths' own) |
+| z19 Mesopotamia | THE FIRST WRITING — the Ziggurat chain (the Bifrost's first step lights on completion; Inanna's chosen descent unlocks the voluntary descent — the death system's will-side, paired with Persephone's taken-side) |
+| z27 Miskatonic (partial) | The Annex doc holds the Hungry Lion quest (now Naut's Borrower's Ledger per the rename sweep) — Quire's shelf stays Krista's to rule on |
 
-## THE REMAINING SWEEP — zones still waiting for a story (17)
+## THE REMAINING SWEEP — zones still waiting for a story (12)
 
 | Zone | What's There Now | The Natural Chain |
 |------|------------------|-------------------|
 | z23 Redwood Cathedral | THE SLOWEST FREQUENCY — the climb through all three queens' spaces, PASSED 2026-09-10 (canon) |
 | z10 Poison Garden | THE CURE GROWS BESIDE + the Little Alchemy overlay (the Combination Still), PASSED 2026-09-10 (canon) |
 | z20 Camelot | Arthur spec, Three Arthurs painted | The court's chain |
-| z09 Cave City | — | Mammoth geology as teaching layer (Earth-teacher candidate) |
 | z32 Trovant Garden | — | The living stones of Romania — patient motion made visible |
 | z21 Peru/Andes | Andean Run game, Inca lore loaded | The mountain lore chain |
-| z19 Mesopotamia | Annunaki runes (novel canon), Göbekli Tepe node | The oldest-written chain |
 | z34 Bosch Shadows | Bosch layer canon (frequency shadows) | The shadow's own story |
 | z22 Petrified Forest | — | Wood turned stone — the transformation teaching layer |
-| z28 Van Gogh Garden | — | The garden that paints itself |
+| z28 Van Gogh Garden | Aesthetic doc only (recovered library) | The garden that paints itself |
 | z29 Meadery | Drink mechanic spec | The mead chain |
 | z33 Tidal Caves | — | The breathing stone chain |
 | z35 Spiral Gallery | — | The museum's chain (prehistoric → preindustrial) |
@@ -55,7 +58,10 @@
 - z01's Dutchman is done; the Bayou's family threads stay hers
 
 ## THE WORK ORDER
-1. ~~Atlantis's explicit thread~~ ✅ PASSED 2026-09-10 — THE CITY THAT CHOSE THE DEEP
-2. ~~Redwood's spine~~ ✅ PASSED 2026-09-10 — THE SLOWEST FREQUENCY
+1. ~~Atlantis~~ ✅ PASSED 2026-09-10 — THE CITY THAT CHOSE THE DEEP
+2. ~~Redwood~~ ✅ PASSED 2026-09-10 — THE SLOWEST FREQUENCY
 3. ~~Poison Garden~~ ✅ PASSED 2026-09-10 — THE CURE GROWS BESIDE + the Little Alchemy overlay
-4. Then the unwritten: Cave City → Trovants → Peru → Mesopotamia, and on down the list.
+4. ~~Cave City~~ ✅ FOUND COMPLETE — THE LAST LIGHT (already written, recovered library)
+5. ~~Mesopotamia~~ ✅ FOUND COMPLETE — THE FIRST WRITING (already written, recovered library)
+6. Camelot (the Arthur spec is deep enough to chain from)
+7. Then the unwritten: Trovants → Peru → Bosch Shadows → Petrified Forest → Van Gogh Garden → Meadery → Tidal Caves → Spiral Gallery → Terracotta → India → Canopy City
