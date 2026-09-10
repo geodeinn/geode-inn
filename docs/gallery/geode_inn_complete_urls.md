@@ -571,3 +571,29 @@ The flagship corridor's first images. Rackham primary (canopy road, caravan, shr
 - Roadside Ley Shrine — Rackham woodland shrine with Klimt-gold offerings
   - File: `silk_road/shrine.png`
   - URL: https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/993972958_shrine.png
+
+## SILK ROAD — Second Wave (2026-09-10)
+
+Hub tri-mode complete; Gorey bandits and the first two route screens (each with canon Echo state).
+
+- The Silk Road Hub — SHADOW state (frost Rackham, 84Hz, glyphs gone ice-blue)
+  - File: `silk_road/hub_shadow.png`
+  - URL: https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/d58b4eb4e_hub_shadow.png
+- Bandit Ambush (Gorey gothic highwaymen, absurd not threatening)
+  - File: `silk_road/bandit.png`
+  - URL: https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/ccf4c9659_bandit.png
+- Bandit Ambush — Echo state
+  - File: `silk_road/bandit_echo.png`
+  - URL: https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/51291e228_bandit_echo.png
+- Route Screen: The Amber Road (Celtic standing stones → Egyptian dunes; Rackham road)
+  - File: `silk_road/amber_road.png`
+  - URL: https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/5070aec3c_amber_road.png
+- The Amber Road — Echo state
+  - File: `silk_road/amber_road_echo.png`
+  - URL: https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/1398a03c5_amber_road_echo.png
+- Route Screen: The Salt Road (Egyptian obelisk halves in salt flat → Andean peaks; O'Keeffe bone-forms)
+  - File: `silk_road/salt_road.png`
+  - URL: https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/fec6c2e98_salt_road.png
+- The Salt Road — Echo state
+  - File: `silk_road/salt_road_echo.png`
+  - URL: https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/486e6cf35_salt_road_echo.png
