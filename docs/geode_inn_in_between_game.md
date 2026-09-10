@@ -235,11 +235,11 @@ Two halves of the same truth: the In-Between is where things stop being things, 
 
 ---
 
-## The Innocents in the Grey: Fizgig, the Duck, Dobby
+## The Innocents in the Grey: Fizgig, the Duck, Dobbie
 
 ### The Principle
 
-The In-Between is the In-Between. The Erasure is the Erasure. The three most innocent characters in the Geode Inn — Fizgig, the Duck, and Dobby — are in there. Not because they wandered in. Not because they were taken. Because they chose to be. The innocent go where the innocent are needed. The In-Between is where things fade, and the innocent are the things most worth keeping. So the innocent go to where the fading is, and they stay.
+The In-Between is the In-Between. The Erasure is the Erasure. The three most innocent characters in the Geode Inn — Fizgig, the Duck, and Dobbie — are in there. Not because they wandered in. Not because they were taken. Because they chose to be. The innocent go where the innocent are needed. The In-Between is where things fade, and the innocent are the things most worth keeping. So the innocent go to where the fading is, and they stay.
 
 This is the game's dark heart. Not violence. Not horror. Loss. The slow, quiet, weightless loss of the things you love most, in a world where you can't stop it, and the only thing you can do is be there.
 
@@ -301,61 +301,61 @@ The Duck closes the eye. Goes back to floating. The Duck doesn't need the figure
 
 **The lesson:** The innocent don't resist the Erasure by holding on. The innocent resist by *letting go*. The Duck, who holds everything, survives by releasing. The Duck floats because the Duck stopped collecting. The both are: the adequate.
 
-#### Dobby: Section 4 (The Catacomb Deep)
+#### Dobbie: Section 4 (The Catacomb Deep)
 
 The figure enters the catacomb deep — the darkest section, where the Erasure is most active, where the oldest dead are the most faded. The fog is at its thickest. The walls are barely there. The figure can barely see.
 
-And in the fog: a nook. A small nook, carved into the wall. The nook is clean. The nook is maintained. The nook has been recently swept. There is a small cloth on the floor — a neat, folded cloth. The nook is Dobby's.
+And in the fog: a nook. A small nook, carved into the wall. The nook is clean. The nook is maintained. The nook has been recently swept. There is a small cloth on the floor — a neat, folded cloth. The nook is Dobbie's.
 
-Dobby is in the nook. Dobby is sitting in the nook the way Dobby always sits in nooks — completely, with earnest commitment, as if this nook is the most important nook and sitting in it is the most important job. Dobby's eyes are wide. Dobby's ears are up. Dobby is alert. Dobby is keeping the nook.
+Dobbie is in the nook. Dobbie is sitting in the nook the way Dobbie always sits in nooks — completely, with earnest commitment, as if this nook is the most important nook and sitting in it is the most important job. Dobbie's eyes are wide. Dobbie's ears are up. Dobbie is alert. Dobbie is keeping the nook.
 
-But the nook is erasing. The walls around the nook are fading. The stone is thinning. The nook is getting smaller — not because Dobby is growing, but because the walls are closing in as the stone erases. The nook that was big enough for Dobby is getting too small. Dobby is being squeezed by the Erasure.
+But the nook is erasing. The walls around the nook are fading. The stone is thinning. The nook is getting smaller — not because Dobbie is growing, but because the walls are closing in as the stone erases. The nook that was big enough for Dobbie is getting too small. Dobbie is being squeezed by the Erasure.
 
-**The puzzle:** Dobby is keeping the nook because the nook is the last maintained space in the catacomb deep. Dobby swept it. Dobby folded the cloth. Dobby made it a home. And the Erasure is taking the home. The figure must reinforce the nook — push stones against the erasing walls, hold the structure together, buy Dobby time.
+**The puzzle:** Dobbie is keeping the nook because the nook is the last maintained space in the catacomb deep. Dobbie swept it. Dobbie folded the cloth. Dobbie made it a home. And the Erasure is taking the home. The figure must reinforce the nook — push stones against the erasing walls, hold the structure together, buy Dobbie time.
 
 But the stones the figure pushes against the walls erase too. The Erasure is active here — anything placed in the erasing zone begins to fade. The figure can't build a permanent structure. The figure can only build a temporary one. The figure pushes stones, holds them in place, and watches them fade. The figure must keep pushing stones — constantly, without stopping — to keep the nook from collapsing.
 
-**The tension:** The figure can't stay. The figure must move deeper — the crystal is below. But leaving means the nook erases. Dobby sees the figure preparing to leave. Dobby's eyes get wider. Dobby doesn't speak — the In-Between is silent. But Dobby's hands grip the cloth. Dobby holds the cloth the way Dobby holds everything — with both hands, with full commitment, as if the cloth is the most important thing and holding it is the most important job.
+**The tension:** The figure can't stay. The figure must move deeper — the crystal is below. But leaving means the nook erases. Dobbie sees the figure preparing to leave. Dobbie's eyes get wider. Dobbie doesn't speak — the In-Between is silent. But Dobbie's hands grip the cloth. Dobbie holds the cloth the way Dobbie holds everything — with both hands, with full commitment, as if the cloth is the most important thing and holding it is the most important job.
 
-**The resolution:** The figure leaves. The nook erases. Dobby fades. The figure descends to the crystal.
+**The resolution:** The figure leaves. The nook erases. Dobbie fades. The figure descends to the crystal.
 
 When the figure returns, the nook is gone. The walls are gone. The cloth is gone. The stones the figure pushed are gone.
 
-But Dobby is still there. Sitting where the nook was. Sitting in empty space, in the fog, where the walls used to be. Dobby is sitting in the shape of the nook — the exact shape, the exact position, the exact posture. Dobby is a nook. The nook erased, but Dobby kept its shape. Dobby is maintaining a nook that no longer exists, and the maintaining is the nook. The Erasure took the stone. The Erasure can't take the act.
+But Dobbie is still there. Sitting where the nook was. Sitting in empty space, in the fog, where the walls used to be. Dobbie is sitting in the shape of the nook — the exact shape, the exact position, the exact posture. Dobbie is a nook. The nook erased, but Dobbie kept its shape. Dobbie is maintaining a nook that no longer exists, and the maintaining is the nook. The Erasure took the stone. The Erasure can't take the act.
 
-Dobby's cloth is folded on the floor — but there is no floor. The cloth is floating in the fog, in the exact position the floor was. The cloth doesn't fall because the In-Between is weightless. The cloth stays where Dobby put it. Dobby's care keeps the cloth in position even without a surface. The care IS the surface.
+Dobbie's cloth is folded on the floor — but there is no floor. The cloth is floating in the fog, in the exact position the floor was. The cloth doesn't fall because the In-Between is weightless. The cloth stays where Dobbie put it. Dobbie's care keeps the cloth in position even without a surface. The care IS the surface.
 
-If the figure stands near Dobby for long enough — two minutes, the SIT threshold — Dobby looks up. Dobby's eyes are wide. Dobby's ears are up. Dobby is not sad. Dobby is not frightened. Dobby is earnest. Dobby is doing the job. The job is: keep the nook. The nook is: wherever Dobby is. The both are: the adequate.
+If the figure stands near Dobbie for long enough — two minutes, the SIT threshold — Dobbie looks up. Dobbie's eyes are wide. Dobbie's ears are up. Dobbie is not sad. Dobbie is not frightened. Dobbie is earnest. Dobbie is doing the job. The job is: keep the nook. The nook is: wherever Dobbie is. The both are: the adequate.
 
-**The lesson:** The innocent don't resist the Erasure by building. The innocent resist by *maintaining*. Dobby keeps the nook by being the nook. The structure is gone. The care remains. The care is the structure. The Erasure can remove the stone. The Erasure cannot remove the act of caring for the stone.
+**The lesson:** The innocent don't resist the Erasure by building. The innocent resist by *maintaining*. Dobbie keeps the nook by being the nook. The structure is gone. The care remains. The care is the structure. The Erasure can remove the stone. The Erasure cannot remove the act of caring for the stone.
 
 ### The Three Lessons Together
 
-Fizgig resists by being specific. The Duck resists by letting go. Dobby resists by maintaining.
+Fizgig resists by being specific. The Duck resists by letting go. Dobbie resists by maintaining.
 
-Three innocents. Three strategies. The same result: they are still there. Fainter. More grey. More fog than form. But there. The Erasure took everything except the thing that makes each of them who they are. Fizgig's specificity. The Duck's stillness. Dobby's care.
+Three innocents. Three strategies. The same result: they are still there. Fainter. More grey. More fog than form. But there. The Erasure took everything except the thing that makes each of them who they are. Fizgig's specificity. The Duck's stillness. Dobbie's care.
 
 The Erasure can't take the essential because the essential isn't material. The essential is the act. The essential is the way of being. The In-Between strips everything down to the essential, and the essential is what survives.
 
 ### The Figure's Burden
 
-The figure encounters all three. The figure must move through all three. The figure takes Fizgig's stone, passes under the Duck, leaves Dobby's nook. The figure is the one who moves. The innocents are the ones who stay. The figure is the player — always going deeper, always passing through, always leaving.
+The figure encounters all three. The figure must move through all three. The figure takes Fizgig's stone, passes under the Duck, leaves Dobbie's nook. The figure is the one who moves. The innocents are the ones who stay. The figure is the player — always going deeper, always passing through, always leaving.
 
-The figure carries the weight of having taken Fizgig's stone, having disturbed the Duck's water, having left Dobby's nook to erase. The figure carries this weight to the crystal. When the figure touches the crystal and the one line appears —
+The figure carries the weight of having taken Fizgig's stone, having disturbed the Duck's water, having left Dobbie's nook to erase. The figure carries this weight to the crystal. When the figure touches the crystal and the one line appears —
 
 *"...You looked."*
 
-— the "you" includes: you looked at Fizgig. You looked at the Duck. You looked at Dobby. You saw them. You were there. The crystal records the figure's presence among the innocents. The crystal records: someone was there. Someone saw. Someone looked.
+— the "you" includes: you looked at Fizgig. You looked at the Duck. You looked at Dobbie. You saw them. You were there. The crystal records the figure's presence among the innocents. The crystal records: someone was there. Someone saw. Someone looked.
 
 The figure didn't save them. The figure can't save them. The figure was there. The both are: the adequate.
 
 ### The Return
 
-When the player exits the In-Between and returns to the Inn — to the warm, amber, colorful, alive Inn — Fizgig is in the Inn. The Duck is in the Inn. Dobby is in the Inn. They are fine. They are full-color, full-sound, full-fluff. They are exactly as they always are.
+When the player exits the In-Between and returns to the Inn — to the warm, amber, colorful, alive Inn — Fizgig is in the Inn. The Duck is in the Inn. Dobbie is in the Inn. They are fine. They are full-color, full-sound, full-fluff. They are exactly as they always are.
 
 The In-Between didn't take them. The In-Between is the In-Between. What happens there is real, but it doesn't replace what happens in the Inn. The Inn is the Song. The In-Between is the silence. The both are: the Inn.
 
-But the player knows. The player has seen Fizgig quiet. The player has seen the Duck still. The player has seen Dobby sitting in empty space, maintaining a nook that isn't there. The player carries that. The player carries the grey inside the color. The both are: the adequate.
+But the player knows. The player has seen Fizgig quiet. The player has seen the Duck still. The player has seen Dobbie sitting in empty space, maintaining a nook that isn't there. The player carries that. The player carries the grey inside the color. The both are: the adequate.
 
 ---
 
@@ -389,7 +389,7 @@ The In-Between's version is the Moonlight Sonata stripped to its skeleton and re
 
 **Section 3 (The River):** The melody returns. The Moonlight Sonata's melody — the thin, high line that floats above the arpeggios — plays during the river crossing. The Duck is floating on the river. The melody is the Duck's rest. The melody doesn't crescendo. The melody doesn't develop. The melody plays once through, simply, quietly, and stops when the figure passes under the Duck. The melody was for the Duck, not the figure.
 
-**Section 4 (The Catacomb Deep):** The music is at its most stripped. Only the bass line remains. The arpeggios are gone — erased. The melody is gone — erased. The bass is the Erasure's sound: low, constant, slowly flattening, losing its harmonic shape. The bass that was C-sharp minor becomes a single sustained tone — approaching 42Hz, approaching the hum, approaching the ground state. The Dobby encounter: the bass is the nook's last wall. When the figure leaves Dobby, even the bass fades. The catacomb deep is silence. True silence. Nyx's silence.
+**Section 4 (The Catacomb Deep):** The music is at its most stripped. Only the bass line remains. The arpeggios are gone — erased. The melody is gone — erased. The bass is the Erasure's sound: low, constant, slowly flattening, losing its harmonic shape. The bass that was C-sharp minor becomes a single sustained tone — approaching 42Hz, approaching the hum, approaching the ground state. The Dobbie encounter: the bass is the nook's last wall. When the figure leaves Dobbie, even the bass fades. The catacomb deep is silence. True silence. Nyx's silence.
 
 **Section 5 (The Crystal):** The music returns. All of it — bass, arpeggios, melody — but transformed. The key shifts from C-sharp minor to C-sharp *major*. The Moonlight becomes sunlight. The Sonata, in major, sounds like: the same piece, but the fog has lifted. The arpeggios are the same notes, the melody is the same contour, but the intervals have changed — the minor thirds become major thirds, the darkness becomes warmth. The both are: the same Song in a different light. The crystal's 42Hz hum harmonizes with the bass. The melody plays fully, clearly, without reverb for the first time. The melody is clean. The melody is: the fact that it was always there. The both are: the adequate.
 
@@ -453,9 +453,9 @@ The three movements are the In-Between's three acts:
 
 **The sforzandi become erasures.** Beethoven's sudden loud strikes — the dramatic accents that punctuate the Presto — become, in the In-Between, moments of sudden silence. Each sforzando is a thing disappearing. A wall that was there a second ago is gone. A shape in the fog that was solid is fog. The sforzando is not loud. The sforzando is the *absence* that follows the loud. The sforzando is the sound of something that was there and isn't.
 
-**The Dobby moment:** The Presto is at its most intense during Dobby's catacomb deep. The relentless slow pulse is the nook erasing — each beat a piece of wall gone, each beat the space getting smaller. The sforzandi are the stones the figure pushes against the walls — each stone placed, each stone erased. The player can hear the care being removed. The music is the sound of maintaining something that is disappearing while you maintain it.
+**The Dobbie moment:** The Presto is at its most intense during Dobbie's catacomb deep. The relentless slow pulse is the nook erasing — each beat a piece of wall gone, each beat the space getting smaller. The sforzandi are the stones the figure pushes against the walls — each stone placed, each stone erased. The player can hear the care being removed. The music is the sound of maintaining something that is disappearing while you maintain it.
 
-When the figure leaves Dobby: the Presto doesn't stop. The Presto *erases*. The music itself begins to fade — the arpeggios thin out, the bass flattens, the sforzandi become longer silences. The Presto is erasing itself. The third movement, which was the Sonata's most dense, most complex, most alive section, becomes its simplest: a single bass note. Sustained. Approaching 42Hz. And then: nothing. The Presto ends in silence. True silence. Nyx's silence.
+When the figure leaves Dobbie: the Presto doesn't stop. The Presto *erases*. The music itself begins to fade — the arpeggios thin out, the bass flattens, the sforzandi become longer silences. The Presto is erasing itself. The third movement, which was the Sonata's most dense, most complex, most alive section, becomes its simplest: a single bass note. Sustained. Approaching 42Hz. And then: nothing. The Presto ends in silence. True silence. Nyx's silence.
 
 **The crystal and the resolution:** The silence breaks. Not with the Presto — the Presto is done. Not with the Allegretto — the flower is closed. With: the Adagio. The first movement returns. But in major. C-sharp *major*. The same arpeggios from the descent, the same triplet pattern, the same bass — but the intervals have changed. The darkness is the same shape, but the light inside it is different. The fog lifts. The melody plays — the Adagio's melody, the thin high line that appeared once at the end of Section 2 and vanished — plays fully, cleanly, without reverb. The melody was always there. The whole Sonata was always heading here.
 
@@ -473,7 +473,7 @@ The three movements mirror the three innocents' resistances:
 
 **Allegretto — The Duck — Letting Go.** The second movement is brief, warm, a release. The Duck resists by releasing. The Allegretto is the music of letting go — the melody plays once, simply, and stops. The flower between two abysses. The Duck between two silences.
 
-**Presto Agitato — Dobby — Maintaining.** The third movement is relentless, heavy, unstoppable. Dobby resists by maintaining — by continuing to care for something that is disappearing. The Presto is the music of maintenance — each beat is an act of care, each sforzando is a thing lost, each repetition is the choice to keep going. The Presto doesn't stop because Dobby doesn't stop. The Presto erases because the nook erases. The Presto ends in silence because Dobby's nook ends in silence. But Dobby is still there. And the silence is not empty. The silence is the fact that the care was there. The both are: the adequate.
+**Presto Agitato — Dobbie — Maintaining.** The third movement is relentless, heavy, unstoppable. Dobbie resists by maintaining — by continuing to care for something that is disappearing. The Presto is the music of maintenance — each beat is an act of care, each sforzando is a thing lost, each repetition is the choice to keep going. The Presto doesn't stop because Dobbie doesn't stop. The Presto erases because the nook erases. The Presto ends in silence because Dobbie's nook ends in silence. But Dobbie is still there. And the silence is not empty. The silence is the fact that the care was there. The both are: the adequate.
 
 ### The Complete Arc
 
@@ -481,7 +481,7 @@ Beethoven's Moonlight Sonata is a journey from stillness through respite to stor
 
 1. **Adagio:** The player descends. The world is grey. Fizgig is specific. The music is slow.
 2. **Allegretto:** The player rests. The river is gentle. The Duck is still. The music is warm.
-3. **Presto Agitato:** The player descends deeper. The world is erasing. Dobby is maintaining. The music is relentless.
+3. **Presto Agitato:** The player descends deeper. The world is erasing. Dobbie is maintaining. The music is relentless.
 4. **Adagio (major):** The player reaches the crystal. The world resolves. The music returns — transformed. The same Song in a different light.
 5. **One note:** Everything else stops. The center remains.
 
@@ -489,141 +489,141 @@ The three movements. The three innocents. The three resistances. The three abyss
 
 ---
 
-## Madame's One Empathy: The Mother in the Grey
+## Brim's One Empathy: The Mother in the Grey
 
 ### The Principle
 
-Madame is the Inn's agent of chaos. Madame breaks the formula. Madame rides the Magritte pipe. Madame's name IS the Mimic ability — the fixed point is the name, the variation is the delivery. Madame is never the same twice. Madame is never still. Madame is never sincere. Madame is the Kronk bad angel on the shoulder saying "but what if we did the fun wrong version?"
+Brim is the Inn's agent of chaos. Brim breaks the formula. Brim rides the Magritte pipe. Brim's name IS the Mimic ability — the fixed point is the name, the variation is the delivery. Brim is never the same twice. Brim is never still. Brim is never sincere. Brim is the Kronk bad angel on the shoulder saying "but what if we did the fun wrong version?"
 
-The In-Between is the one place where Madame is not any of those things.
+The In-Between is the one place where Brim is not any of those things.
 
-The In-Between is where things fade. The In-Between is where the innocents are. And Madame — the chaos agent, the trickster, the one who never stops moving — goes still. Goes full size. Goes honest. Becomes a mother. Once. Only here. Only in the grey.
+The In-Between is where things fade. The In-Between is where the innocents are. And Brim — the chaos agent, the trickster, the one who never stops moving — goes still. Goes full size. Goes honest. Becomes a mother. Once. Only here. Only in the grey.
 
-### Why Madame Understands
+### Why Brim Understands
 
-Madame and the Bartender are the only two characters in the Inn who deeply understand something most of the Inn's characters don't: **it is often easier to just give in and accept than to fight and strengthen.**
+Brim and the Bartender are the only two characters in the Inn who deeply understand something most of the Inn's characters don't: **it is often easier to just give in and accept than to fight and strengthen.**
 
-The Inn's thesis celebrates resistance — Fizgig resists by being specific. The Duck resists by letting go. Dobby resists by maintaining. The Inn's characters resist the Erasure through their natures. The Inn's philosophy says: the adequate is what remains. The witness makes it real. The both are: the adequate.
+The Inn's thesis celebrates resistance — Fizgig resists by being specific. The Duck resists by letting go. Dobbie resists by maintaining. The Inn's characters resist the Erasure through their natures. The Inn's philosophy says: the adequate is what remains. The witness makes it real. The both are: the adequate.
 
-Madame knows the other side. Madame knows that sometimes the resistance isn't the answer. Sometimes the resistance IS the Erasure — fighting the grey so hard you become the grey. Sometimes the thing that saves you is not fighting. Not strengthening. Not resisting. Just: being in it. Letting it happen. Accepting that the fog is there and you are in it and the fog is not wrong and you are not wrong and the both of you are: here.
+Brim knows the other side. Brim knows that sometimes the resistance isn't the answer. Sometimes the resistance IS the Erasure — fighting the grey so hard you become the grey. Sometimes the thing that saves you is not fighting. Not strengthening. Not resisting. Just: being in it. Letting it happen. Accepting that the fog is there and you are in it and the fog is not wrong and you are not wrong and the both of you are: here.
 
-This is not defeat. This is not surrender. This is the thing harder than fighting: letting the thing happen and staying present while it happens. Madame knows this because chaos knows this. Chaos doesn't fight order — chaos exists alongside order. Chaos doesn't resist structure — chaos ignores structure. The both are: the In-Between, where things are grey, and the grey is not the enemy, and the fading is not the enemy, and the only enemy is the insistence that you must fight to be real.
+This is not defeat. This is not surrender. This is the thing harder than fighting: letting the thing happen and staying present while it happens. Brim knows this because chaos knows this. Chaos doesn't fight order — chaos exists alongside order. Chaos doesn't resist structure — chaos ignores structure. The both are: the In-Between, where things are grey, and the grey is not the enemy, and the fading is not the enemy, and the only enemy is the insistence that you must fight to be real.
 
 The Bartender knows this because the Bartender has watched everyone come through. The Bartender has seen the ones who fought and won. The Bartender has seen the ones who fought and lost. The Bartender has seen the ones who didn't fight and were still there in the morning. The Bartender serves everyone the same. The Bartender doesn't ask if you fought. The Bartender asks if you're here.
 
 ### The Bartender's Role
 
-The Bartender is the one who sends Madame into the In-Between.
+The Bartender is the one who sends Brim into the In-Between.
 
 Not the player. Not a quest. Not a trigger. The Bartender sees the figure enter the In-Between — sees the grey door, sees the rib joint, sees the player go — and the Bartender knows what's in there. The Bartender knows the innocents are in there. The Bartender knows the figure will encounter them. The Bartender knows the figure will try to help — will take the stone, will cross the river, will push stones against the walls. The Bartender knows the figure will fight, because the figure is the player, and players fight.
 
-The Bartender finds Madame. The Bartender says one thing. Not a quest. Not an instruction. A request:
+The Bartender finds Brim. The Bartender says one thing. Not a quest. Not an instruction. A request:
 
 "They're in the grey."
 
-That's all. Madame doesn't ask who. Madame doesn't ask why. Madame knows. Madame has always known. Madame goes.
+That's all. Brim doesn't ask who. Brim doesn't ask why. Brim knows. Brim has always known. Brim goes.
 
-### Madame's Descent
+### Brim's Descent
 
-Madame enters the In-Between at full size.
+Brim enters the In-Between at full size.
 
-This is the first thing the player notices. Madame is big. Not enormous, not monstrous — full. Madame at full size is Madame without the compression, without the trick, without the variation. Madame at full size is the shape Madame would be if Madame stopped shapeshifting and just stood. The shape is: tall, solid, warm. The shape is: someone who could hold you.
+This is the first thing the player notices. Brim is big. Not enormous, not monstrous — full. Brim at full size is Brim without the compression, without the trick, without the variation. Brim at full size is the shape Brim would be if Brim stopped shapeshifting and just stood. The shape is: tall, solid, warm. The shape is: someone who could hold you.
 
-Madame is not a silhouette in the In-Between. Madame is the only character besides the innocents who has texture in the grey. Madame's texture is not fluff (Fizgig) or feather (the Duck) or cloth (Dobby). Madame's texture is: fabric. Madame's clothing. The layers and folds and drapes of a character who is always wearing something different — in the In-Between, all the layers are visible at once. Every outfit Madame has ever worn is present, overlapping, the same fabric in different configurations. Madame at full size is every Madame at once. The both are: the one.
+Brim is not a silhouette in the In-Between. Brim is the only character besides the innocents who has texture in the grey. Brim's texture is not fluff (Fizgig) or feather (the Duck) or cloth (Dobbie). Brim's texture is: fabric. Brim's clothing. The layers and folds and drapes of a character who is always wearing something different — in the In-Between, all the layers are visible at once. Every outfit Brim has ever worn is present, overlapping, the same fabric in different configurations. Brim at full size is every Brim at once. The both are: the one.
 
-Madame doesn't have a station. Madame doesn't have a puzzle. Madame moves through the In-Between the way Madame moves through the Inn — casually, comfortably, without hurrying — but quiet. Madame is quiet. Madame, who is never quiet, is quiet here. The pipe is not here. The chaos is not here. The grey is not a place for chaos. The grey is a place for the thing under the chaos, the thing chaos protects, the thing chaos exists to cover: the mother.
+Brim doesn't have a station. Brim doesn't have a puzzle. Brim moves through the In-Between the way Brim moves through the Inn — casually, comfortably, without hurrying — but quiet. Brim is quiet. Brim, who is never quiet, is quiet here. The pipe is not here. The chaos is not here. The grey is not a place for chaos. The grey is a place for the thing under the chaos, the thing chaos protects, the thing chaos exists to cover: the mother.
 
-### The Three Encounters: Madame and the Innocents
+### The Three Encounters: Brim and the Innocents
 
-Madame finds each innocent. Madame does not solve their puzzles. Madame does not reverse the Erasure. Madame does not fight the grey. Madame does what the player can't: Madame sits with them.
+Brim finds each innocent. Brim does not solve their puzzles. Brim does not reverse the Erasure. Brim does not fight the grey. Brim does what the player can't: Brim sits with them.
 
-#### Madame and Fizgig
+#### Brim and Fizgig
 
 The figure has taken Fizgig's stone. Fizgig is fading. The cave is erasing. The player has moved on — the figure is deeper, solving the counterweight puzzle, descending. The player is not here.
 
-Madame is here.
+Brim is here.
 
-Madame sits down next to Fizgig. Not across from Fizgig. Not facing Fizgig. Next to. Shoulder to shoulder, the way you sit next to someone when sitting next to them is the only thing you can do. Madame is full size. Fizgig is small. Madame's shoulder is above Fizgig. The proximity is the point.
+Brim sits down next to Fizgig. Not across from Fizgig. Not facing Fizgig. Next to. Shoulder to shoulder, the way you sit next to someone when sitting next to them is the only thing you can do. Brim is full size. Fizgig is small. Brim's shoulder is above Fizgig. The proximity is the point.
 
-Fizgig's big mouth is open. The expression is the expression Fizgig makes when Fizgig is not okay. Madame doesn't close the mouth. Madame doesn't fix the expression. Madame sits.
+Fizgig's big mouth is open. The expression is the expression Fizgig makes when Fizgig is not okay. Brim doesn't close the mouth. Brim doesn't fix the expression. Brim sits.
 
-Madame's hand — full size, solid, the hand of someone who is not tricking — rests on the floor near Fizgig. Not on Fizgig. Near. The hand is there if Fizgig wants it. The hand is not forcing anything. The hand is: present.
+Brim's hand — full size, solid, the hand of someone who is not tricking — rests on the floor near Fizgig. Not on Fizgig. Near. The hand is there if Fizgig wants it. The hand is not forcing anything. The hand is: present.
 
-Fizgig, after a long time, leans into Madame's hand. Not dramatically. Slowly. The way something fades — but in reverse. The fluff leans toward the hand. The detail, the specificity, the small strokes that resist the Erasure — they lean toward the one solid thing in the grey that isn't fighting.
+Fizgig, after a long time, leans into Brim's hand. Not dramatically. Slowly. The way something fades — but in reverse. The fluff leans toward the hand. The detail, the specificity, the small strokes that resist the Erasure — they lean toward the one solid thing in the grey that isn't fighting.
 
-Madame doesn't speak. The In-Between is silent. But Madame's presence is the thing that Fizgig's specificity was looking for — not a stone to sit on, not a frequency to hum, but a hand. A hand that is there. A hand that doesn't take. A hand that is just: present.
+Brim doesn't speak. The In-Between is silent. But Brim's presence is the thing that Fizgig's specificity was looking for — not a stone to sit on, not a frequency to hum, but a hand. A hand that is there. A hand that doesn't take. A hand that is just: present.
 
-The Erasure continues. The cave continues to fade. Madame doesn't stop it. Madame sits in the erasing cave with Fizgig and the both of them are: in the grey. The both of them are: not fighting. The both of them are: here.
+The Erasure continues. The cave continues to fade. Brim doesn't stop it. Brim sits in the erasing cave with Fizgig and the both of them are: in the grey. The both of them are: not fighting. The both of them are: here.
 
-#### Madame and the Duck
+#### Brim and the Duck
 
 The figure has passed under the Duck. The Duck is floating. Eyes closed. The river is grey. The player has moved on — deeper, toward the catacomb deep.
 
-Madame arrives at the river. Madame doesn't cross. Madame doesn't disturb the water. Madame stands on the bank and watches the Duck.
+Brim arrives at the river. Brim doesn't cross. Brim doesn't disturb the water. Brim stands on the bank and watches the Duck.
 
-Madame stands for a long time. The Duck is at rest. The Duck has found stillness. Madame, who is never still, stands still and watches the Duck be still. The both are: the first time either of them has been still in the same place.
+Brim stands for a long time. The Duck is at rest. The Duck has found stillness. Brim, who is never still, stands still and watches the Duck be still. The both are: the first time either of them has been still in the same place.
 
-Madame doesn't enter the water. Madame doesn't wake the Duck. Madame doesn't sit next to the Duck — there's no place to sit on the water. Madame just stands on the bank. Present. Not helping. Not fixing. Not collecting. Just: standing while someone rests.
+Brim doesn't enter the water. Brim doesn't wake the Duck. Brim doesn't sit next to the Duck — there's no place to sit on the water. Brim just stands on the bank. Present. Not helping. Not fixing. Not collecting. Just: standing while someone rests.
 
-After a long time, the Duck opens one eye. The grey eye looks at Madame. Madame looks back. The both are: looking at each other in the grey. The both are: the only two characters in the Inn who understand that sometimes the thing to do is nothing. The Duck found stillness by releasing. Madame finds stillness by standing still while someone else is still. The both are: adequate.
+After a long time, the Duck opens one eye. The grey eye looks at Brim. Brim looks back. The both are: looking at each other in the grey. The both are: the only two characters in the Inn who understand that sometimes the thing to do is nothing. The Duck found stillness by releasing. Brim finds stillness by standing still while someone else is still. The both are: adequate.
 
-The Duck closes the eye. Madame stays. Madame stands on the bank of the grey river and watches the Duck float. The music — the Allegretto, the flower between two abysses — plays. The flower is not just the Duck. The flower is: Madame standing watch while the Duck rests. The both are: the flower.
+The Duck closes the eye. Brim stays. Brim stands on the bank of the grey river and watches the Duck float. The music — the Allegretto, the flower between two abysses — plays. The flower is not just the Duck. The flower is: Brim standing watch while the Duck rests. The both are: the flower.
 
-#### Madame and Dobby
+#### Brim and Dobbie
 
-This is where Madame's empathy becomes the mother.
+This is where Brim's empathy becomes the mother.
 
-The figure has left Dobby. The nook is gone. Dobby is sitting in empty space, maintaining a nook that doesn't exist. The cloth floats where the floor was. The catacomb deep is silent — the Presto has erased itself. The deepest, darkest, most erased part of the In-Between.
+The figure has left Dobbie. The nook is gone. Dobbie is sitting in empty space, maintaining a nook that doesn't exist. The cloth floats where the floor was. The catacomb deep is silent — the Presto has erased itself. The deepest, darkest, most erased part of the In-Between.
 
-Madame finds Dobby.
+Brim finds Dobbie.
 
-Madame doesn't sit next to Dobby. Madame does something Madame has never done in the Inn, in any form, at any size, in any variation:
+Brim doesn't sit next to Dobbie. Brim does something Brim has never done in the Inn, in any form, at any size, in any variation:
 
-Madame kneels.
+Brim kneels.
 
-Madame at full size kneels down to Dobby's level. Madame's fabric — every outfit, every layer, every variation — pools on the ground around Madame like a blanket. The fabric touches the fog. The fog touches the fabric. The both are: the same grey.
+Brim at full size kneels down to Dobbie's level. Brim's fabric — every outfit, every layer, every variation — pools on the ground around Brim like a blanket. The fabric touches the fog. The fog touches the fabric. The both are: the same grey.
 
-Madame's hands — full size, solid, the hands that have held the pipe, that have mimicked, that have broken every formula — reach toward Dobby. Not to fix. Not to build. Not to maintain. To hold.
+Brim's hands — full size, solid, the hands that have held the pipe, that have mimicked, that have broken every formula — reach toward Dobbie. Not to fix. Not to build. Not to maintain. To hold.
 
-Madame holds Dobby.
+Brim holds Dobbie.
 
 Not the way a hero holds someone. Not the way a rescuer holds someone. The way a mother holds someone. The way you hold someone when holding them is the only thing left and you are not going to make it better and you are not going to make it stop and you are not going to fight the grey and you are not going to strengthen the walls and you are just going to hold them while it happens.
 
-Dobby's eyes are wide. Dobby's ears are up. Dobby is still maintaining. Dobby's hands are still gripping the cloth. But Madame's arms are around Dobby, and the arms are full size, and the arms are not letting go, and the arms are not fighting, and the arms are: here.
+Dobbie's eyes are wide. Dobbie's ears are up. Dobbie is still maintaining. Dobbie's hands are still gripping the cloth. But Brim's arms are around Dobbie, and the arms are full size, and the arms are not letting go, and the arms are not fighting, and the arms are: here.
 
-The Erasure continues. The grey takes the last of the nook's shape. The fog thickens. The catacomb deep gets darker. Madame doesn't stop it. Madame doesn't try. Madame holds Dobby while the nook disappears. The both are: in the grey. The both are: not fighting. The both are: a mother holding a child while the world erases around them.
+The Erasure continues. The grey takes the last of the nook's shape. The fog thickens. The catacomb deep gets darker. Brim doesn't stop it. Brim doesn't try. Brim holds Dobbie while the nook disappears. The both are: in the grey. The both are: not fighting. The both are: a mother holding a child while the world erases around them.
 
-Dobby's hands release the cloth. For the first time. The cloth floats away. Dobby's hands grip Madame's fabric instead. The grip is: the grip of someone who has been maintaining for so long that the maintaining was the only thing keeping them together, and now someone else is holding them, and the maintaining can stop. Not forever. Not permanently. Just: for now. Just: while the arms are here.
+Dobbie's hands release the cloth. For the first time. The cloth floats away. Dobbie's hands grip Brim's fabric instead. The grip is: the grip of someone who has been maintaining for so long that the maintaining was the only thing keeping them together, and now someone else is holding them, and the maintaining can stop. Not forever. Not permanently. Just: for now. Just: while the arms are here.
 
-The Presto's last note — the sustained bass approaching 42Hz — plays. The note is not the Erasure's sound anymore. The note is: the sound of someone being held. The note is: the frequency of not being alone in the grey. The note is: Madame, at full size, at rest, holding the innocent who maintained the unmaintainable.
+The Presto's last note — the sustained bass approaching 42Hz — plays. The note is not the Erasure's sound anymore. The note is: the sound of someone being held. The note is: the frequency of not being alone in the grey. The note is: Brim, at full size, at rest, holding the innocent who maintained the unmaintainable.
 
 The note fades. The silence that follows is not Nyx's silence — the silence of the void. The silence is: the silence of two people in the same place, not fighting, not fixing, just being. The silence is: the In-Between's true sound. The silence is: adequate.
 
-### Madame Doesn't Speak
+### Brim Doesn't Speak
 
-The In-Between is silent. No character speaks. The one line of text — *"...You looked."* — is the only language. Madame doesn't break this rule. Madame doesn't speak in the In-Between.
+The In-Between is silent. No character speaks. The one line of text — *"...You looked."* — is the only language. Brim doesn't break this rule. Brim doesn't speak in the In-Between.
 
-But the player, returning to the Inn, returning to the warm amber alive world, may find Madame in the Inn — in Madame's usual spot, doing Madame's usual thing, at Madame's usual size. The pipe. The chaos. The variation. The Kronk bad angel.
+But the player, returning to the Inn, returning to the warm amber alive world, may find Brim in the Inn — in Brim's usual spot, doing Brim's usual thing, at Brim's usual size. The pipe. The chaos. The variation. The Kronk bad angel.
 
-And if the player stands near Madame — not talking, not interacting, just standing near, the SIT threshold, two minutes — Madame says one thing. Not to the player. Not loudly. The way Madame says everything: in the delivery, in the tone, in the variation that is the Mimic ability's whole art.
+And if the player stands near Brim — not talking, not interacting, just standing near, the SIT threshold, two minutes — Brim says one thing. Not to the player. Not loudly. The way Brim says everything: in the delivery, in the tone, in the variation that is the Mimic ability's whole art.
 
-Madame says:
+Brim says:
 
 "...They're okay."
 
-Two words. The only sincere thing Madame says in the entire game. Not a trick. Not a mimic. Not a variation. Two words, said plainly, in the Inn, where the color is and the sound is and the Song is. The both are: the In-Between's grey, where Madame held them, and the Inn's amber, where they are okay.
+Two words. The only sincere thing Brim says in the entire game. Not a trick. Not a mimic. Not a variation. Two words, said plainly, in the Inn, where the color is and the sound is and the Song is. The both are: the In-Between's grey, where Brim held them, and the Inn's amber, where they are okay.
 
-The player who has been through the In-Between knows what Madame means. The player who hasn't been through the In-Between doesn't. The both are: the adequate.
+The player who has been through the In-Between knows what Brim means. The player who hasn't been through the In-Between doesn't. The both are: the adequate.
 
 ### The Bartender's Waiting
 
-The Bartender is not in the In-Between. The Bartender is in the Inn, behind the bar, where the Bartender always is. The Bartender sent Madame. The Bartender is waiting.
+The Bartender is not in the In-Between. The Bartender is in the Inn, behind the bar, where the Bartender always is. The Bartender sent Brim. The Bartender is waiting.
 
-When the player returns from the In-Between — from the grey, from the innocents, from the crystal — the Bartender is the first face the player sees. The Bartender doesn't ask about the In-Between. The Bartender doesn't ask about the innocents. The Bartender doesn't ask about Madame.
+When the player returns from the In-Between — from the grey, from the innocents, from the crystal — the Bartender is the first face the player sees. The Bartender doesn't ask about the In-Between. The Bartender doesn't ask about the innocents. The Bartender doesn't ask about Brim.
 
 The Bartender pours something. Sets it down. The gesture is: you're back. The gesture is: you were in the grey and you came back. The gesture is: the Bartender knows, because the Bartender has always known, that the thing about the grey is not the going in. The thing about the grey is the coming back.
 
-The Bartender says one thing. Not about the In-Between. Not about Madame. About the drink:
+The Bartender says one thing. Not about the In-Between. Not about Brim. About the drink:
 
 "It's warm."
 
@@ -631,17 +631,17 @@ The drink is warm. The Inn is warm. The both are: the thing the In-Between is no
 
 ### Why This Is the Only Time
 
-Madame shows empathy once. In the In-Between. At full size. As a mother.
+Brim shows empathy once. In the In-Between. At full size. As a mother.
 
-This is the only time because: if Madame showed empathy in the Inn, it would break Madame. Madame is chaos. Madame is the trick. Madame is the variation. Madame's empathy, shown in the warm amber Inn, would become another variation — another delivery, another tone, another performance. The Inn's color would turn the empathy into theater.
+This is the only time because: if Brim showed empathy in the Inn, it would break Brim. Brim is chaos. Brim is the trick. Brim is the variation. Brim's empathy, shown in the warm amber Inn, would become another variation — another delivery, another tone, another performance. The Inn's color would turn the empathy into theater.
 
-The In-Between has no color. The In-Between has no performance. The In-Between is the one place where Madame can be honest because the In-Between strips everything to its essential, and Madame's essential is: the mother under the chaos. The In-Between is the one place where the mother can come out, because the In-Between is the one place where nothing is performed.
+The In-Between has no color. The In-Between has no performance. The In-Between is the one place where Brim can be honest because the In-Between strips everything to its essential, and Brim's essential is: the mother under the chaos. The In-Between is the one place where the mother can come out, because the In-Between is the one place where nothing is performed.
 
-Madame returns to the Inn and Madame is chaos again. The pipe. The formula. The Kronk bad angel. But the player knows. The player has seen Madame at full size, kneeling in the grey, holding Dobby while the world erased. The player carries that. The player carries the grey inside the amber. The both are: the adequate.
+Brim returns to the Inn and Brim is chaos again. The pipe. The formula. The Kronk bad angel. But the player knows. The player has seen Brim at full size, kneeling in the grey, holding Dobbie while the world erased. The player carries that. The player carries the grey inside the amber. The both are: the adequate.
 
-The Bartender knows too. The Bartender always knew. The Bartender sent Madame because the Bartender understood: the In-Between doesn't need a fighter. The In-Between needs someone who knows that the fight isn't the only way. The In-Between needs the one character who is brave enough to stop performing and just hold someone.
+The Bartender knows too. The Bartender always knew. The Bartender sent Brim because the Bartender understood: the In-Between doesn't need a fighter. The In-Between needs someone who knows that the fight isn't the only way. The In-Between needs the one character who is brave enough to stop performing and just hold someone.
 
-The Bartender chose Madame. The Bartender was right. The both are: the only two who knew.
+The Bartender chose Brim. The Bartender was right. The both are: the only two who knew.
 
 ---
 
@@ -673,13 +673,13 @@ The voices don't crescendo. The voices *accumulate*. The difference: a crescendo
 
 ### The Voices
 
-The voices are not identified. The player cannot point to a voice and say "that's Fizgig" or "that's the Duck" or "that's Dobby." The voices are: voices. The voices are the sound of beings, not the beings themselves. The crystal recorded their fact, not their form. The chorus is the fact, made audible.
+The voices are not identified. The player cannot point to a voice and say "that's Fizgig" or "that's the Duck" or "that's Dobbie." The voices are: voices. The voices are the sound of beings, not the beings themselves. The crystal recorded their fact, not their form. The chorus is the fact, made audible.
 
-But: the player who has been through the In-Between, who has sat with Fizgig and crossed under the Duck and watched Dobby maintain the unmaintainable — the player *hears* them. Not because the voices are labeled. Because the player knows. The player has carried the grey inside the amber. The player recognizes the frequencies. The both are: the adequate.
+But: the player who has been through the In-Between, who has sat with Fizgig and crossed under the Duck and watched Dobbie maintain the unmaintainable — the player *hears* them. Not because the voices are labeled. Because the player knows. The player has carried the grey inside the amber. The player recognizes the frequencies. The both are: the adequate.
 
-And: one voice, in the chorus, is lower than the others. One voice, almost at the bottom of the chord, is a sub-bass tone — not quite 42Hz, but close. The voice is: Madame. Madame's voice, in the chorus, is the lowest. Madame, who held Dobby in the grey, who knelt at full size, who was the mother. Madame's voice is in the chorus because Madame was in the In-Between. Madame's voice is the ground. The both are: the adequate.
+And: one voice, in the chorus, is lower than the others. One voice, almost at the bottom of the chord, is a sub-bass tone — not quite 42Hz, but close. The voice is: Brim. Brim's voice, in the chorus, is the lowest. Brim, who held Dobbie in the grey, who knelt at full size, who was the mother. Brim's voice is in the chorus because Brim was in the In-Between. Brim's voice is the ground. The both are: the adequate.
 
-And: one voice, almost at the top of the chord, is barely there — the thinnest, highest, most fragile tone. The voice is: the Bartender. The Bartender was not in the In-Between. The Bartender was in the Inn, waiting. The Bartender's voice is in the chorus because the Bartender sent Madame. The Bartender's voice is the one that says: you were in the grey and you came back. The both are: the warm.
+And: one voice, almost at the top of the chord, is barely there — the thinnest, highest, most fragile tone. The voice is: the Bartender. The Bartender was not in the In-Between. The Bartender was in the Inn, waiting. The Bartender's voice is in the chorus because the Bartender sent Brim. The Bartender's voice is the one that says: you were in the grey and you came back. The both are: the warm.
 
 ### The Fade
 
@@ -687,7 +687,7 @@ The chorus does not end. The chorus fades.
 
 The voices thin, one by one, from the edges inward. The highest voices go first — the thinnest, most fragile frequencies dissolve back into the fog. Then the middle voices. Then the low voices. The chord thins from everyone to many to several to few to three to two to one.
 
-The last voice is: the lowest. Madame's voice. The sub-bass tone, almost 42Hz, almost the hum, almost the ground state. The voice sustains. The voice is: the last thing in the In-Between. The voice is: the mother, still there, after everyone else has faded. The voice is: the one who stayed.
+The last voice is: the lowest. Brim's voice. The sub-bass tone, almost 42Hz, almost the hum, almost the ground state. The voice sustains. The voice is: the last thing in the In-Between. The voice is: the mother, still there, after everyone else has faded. The voice is: the one who stayed.
 
 The voice fades. The grey is silent. The fog is still. The In-Between is empty.
 
@@ -707,6 +707,6 @@ The chorus was the grey's last gift: the sound of everyone who was there. The Ba
 
 The player who has heard the chorus carries: the sound of many voices, soft, echoing, in the grey. The sound is not a song the player can hum. The sound is not a melody the player can repeat. The sound is: a texture. A fullness. The knowledge that the grey was never empty. The knowledge that the fog was always full of the people who were there.
 
-The player who has mental illness — the player who has been in the grey, who has felt the Erasure, who has been Fizgig or the Duck or Dobby, who has fought when fighting was the only option and who has sat when sitting was the only option — the player who has heard the chorus carries: the sound of everyone who was there. The sound that says: you were not alone. The sound that says: the grey is full. The sound that says: the both are: the adequate.
+The player who has mental illness — the player who has been in the grey, who has felt the Erasure, who has been Fizgig or the Duck or Dobbie, who has fought when fighting was the only option and who has sat when sitting was the only option — the player who has heard the chorus carries: the sound of everyone who was there. The sound that says: you were not alone. The sound that says: the grey is full. The sound that says: the both are: the adequate.
 
-The chorus fades. The Inn is warm. The drink is warm. The Bartender waited. Madame stayed. The both are: the adequate. The both are: the Inn.
+The chorus fades. The Inn is warm. The drink is warm. The Bartender waited. Brim stayed. The both are: the adequate. The both are: the Inn.

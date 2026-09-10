@@ -124,7 +124,9 @@ THE THREE-WAY PAIRING. The Thread, the Masquerade, the Between: three games that
 
 ### Aurora Falls — The In-Between Precedent
 
-Aurora Falls (game #60, Limbo-style) is currently the only component in the Inn where the In-Between state is in actual gameplay use: the real-time twilight-to-night aurora shift as the Seeker descends the geothermal valley. Wordless, HUD-less — the frequency state is told entirely in light.
+CORRECTION (2026-09-10, Krista-verified): the In-Between's native game already exists — the weightless grey Limbo-style platformer (docs/geode_inn_in_between_game.md), where Fizgig, the Duck (the shiny-collecting platypus), and Dobbie are stuck in the grey, and Brim goes full size — the one place, the mother, kneeling. THE definitive In-Between gameplay precedent. Disambiguation is now canonical: the IN-BETWEEN is the weightless grey interval between zones (the prose layer, the limbo game's home); the BETWEEN is the Fae Kingdom borderland (Escher's shifting marches — this sheet's game). Two spaces. The limbo game's Erasure, innocents, and Brim's one empathy belong to the In-Between; the margin-walk, Bellringer, and Norns belong to the Between. The Between build sheet borrows the precedent, not the territory.
+
+Aurora Falls (game #60, Limbo-style) is the second component where the In-Between state appears in gameplay use: the real-time twilight-to-night aurora shift as the Seeker descends the geothermal valley. Wordless, HUD-less — the frequency state is told entirely in light.
 
 The Between is that state made permanent geography. Aurora Falls visits the In-Between; the Between lives there.
 
