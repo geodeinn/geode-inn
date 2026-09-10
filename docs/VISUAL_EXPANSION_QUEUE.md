@@ -60,3 +60,8 @@ Named faces get a lore-first prompt pass (six-writer voice, zone style bible, ce
 - The Alchemist resolved (Krista, 2026-09-09): the Retort, the Tesla twin (Clockwork Skies crew holds the other casting). Shadow state generated to complete the 3-state set. Remaining gaps: The Exile, The First, Echo faction leader, Lost faction leader, The Watcher (Cosmology).
 
 - The Exile resolved: Joe's Collector (title holder) + Ryan's Meadery bartender painted (Ezio/Barbossa/Van Helsing identity per NPC doc). Remaining gaps: The First, Echo faction leader, Lost faction leader, The Watcher (Cosmology).
+
+## Wave 4 Complete (2026-09-09 night)
+- TIER 1 FULLY COMPLETE: Wayfarer, Echo leader, Lost leader, Watcher (111Hz gargoyle — compendium says staircase, fizgigs' list said cosmology; flag for their ledger correction)
+- BONUS: The Four Story-Born fully painted (Wayfarer, Hearthkeeper, Mourner, Laughing One) — all grown from the compendium's full descriptions
+- NOTE: Krista reports ~80k additional art credits from plan expansion (2026-09-09). Next major targets: Skarsgård-based character set (Wart/King/Elder), comic strip #001 panels, tri-mode in-between zone states.

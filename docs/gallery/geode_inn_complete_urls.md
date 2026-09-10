@@ -438,3 +438,17 @@ The Retort's 3-state set is now complete: living (the_retort.png, existing), in-
 | Ryan, the Meadery's bartender — living state (final art, per NPC doc visual identity) | https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/ef410d18c_generated_image.png |
 
 Visual identity per docs/geode_inn_npc_ryan.md: Ezio stance (the exiled noble assassin), Barbossa's navy coat, Van Helsing hat, campfire keeper. Production sheet previously listed Ryan as "doc exists, no final art" — gap now closed. The Exile title (Main Floor slot): Krista confirms Joe's Collector connection ("the title and the exile, same identity, different era"); Ryan's Ezio root also carries the exiled-assassin identity — both faces share the exile theme.
+
+## Wave 4 — Final Tier 1 Gaps + The Four Story-Born (2026-09-09 night, masters Inn-owned)
+
+| Piece | Tier | URL |
+|---|---|---|
+| The First — the Wayfarer (Story-Born #1, main floor door) | 1 | https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/4a8928cb0_generated_image.png |
+| Echo faction leader (Hollow Earth, memory-ghost preserver) | 1 | https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/f60ec84d2_generated_image.png |
+| Lost faction leader (Hollow Earth, settled claimant) | 1 | https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/2e387c6a9_generated_image.png |
+| The Watcher (111Hz gargoyle, staircase door, the Ent's awareness) | 1 | https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/81bcaff06_generated_image.png |
+| The Second — the Hearthkeeper (Story-Born #2, eternal heartwood fire) | 1 | https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/ef1bb6731_generated_image.png |
+| The Third — the Mourner (Story-Born #3, grief given a body, catacombs) | 1 | https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/94bea7da3_generated_image.png |
+| The Fourth — the Laughing One (Story-Born #4, joy made visible, main floor) | 1 | https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/e9a0807c9_generated_image.png |
+
+TIER 1 STATUS: COMPLETE — all named character gaps resolved or painted. The Four Story-Born now have full art.
