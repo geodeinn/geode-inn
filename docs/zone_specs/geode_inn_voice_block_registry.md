@@ -106,3 +106,53 @@ Priority order: Lozen (pilot, mostly done), the Selkie, Thorin, Marijke, Lichenb
 5. Batch 5: family characters (Krista's Varda, River/Lozen, Charles) — most carefully; these blocks are personal canon.
 6. Then the gap list: named characters for the actor-ref zone placeholders, the Einherjar, the Guild masters, the children.
 7. Engine sync: every block's fields map to the Dialogue entity (voiceProfile, hookWord as the first lines entry, repeat ladders as conditionTag'd second/third entries).
+
+
+---
+
+## PART 6: BATCH 2 — THE GUARD-VOICE LAW + THE REGIONAL VOICES
+
+### THE GUARD-VOICE LAW (the Oi template, formalized)
+Every guard-temperament NPC shares the same LADDER SHAPE but never the same WORD. One Oi template, many syllables:
+- Rung 1: the full warning, spoken once, completely.
+- Rung 2: the one-syllable word — each guard's own.
+- Rung 3: the body — no more words. The presence becomes the gate.
+
+| Guard | The Word | The Body (Rung 3) |
+|-------|----------|-------------------|
+| Lozen (Sentinel) | "Oi." | Steps into the path; idle-stop hold |
+| Katya (the Siren) | "Depth." | The water behind Katya goes still |
+| The Gatekeeper Goth | "Speak." | Doesn't move; presence IS the gate |
+| The Griffin | (a sound — one flat bell-note) | Lands; the garden's crystals go quiet |
+| Unseelie Court guards | "No." | The temperature drops two degrees; no repetition of "No" — it is never said twice |
+
+### LOZEN (pilot formalized) — Dialect: plainspoken, warm under the armor; boxer cadence — flat, complete, the whole warning in one syllable. Delivery: short sentences, questions upward, orders flat. Key tell: "Halt." (first fire) → "Oi." (tell fire). Hook: "Halt." Ladder: 1) the full warning; 2) "Oi." — thrown like a jab; 3) THE PATH — no more words, steps in, idle-stop hold. Canon: "The river kept the water. I kept the watch." Cadence: Pratchett warmth under Weir precision. Voice profile: low, even, never raised — the voice that holds the line so the Inn never has to raise its own.
+
+### THE SELKIE — Dialect: western Irish — soft consonants, the lilt, sentences that end on a rising note. Delivery: slow, deliberate, long pauses — thinks in two languages, and the translation takes a moment. Stone-talk is precise and grounded; sea-talk goes distant and soft. Key tell: "That's grand." — recognition, not enthusiasm. Hook: "Make it true." Ladder: 1) the full craft-lesson; 2) "Make it true."; 3) THE QUIET — the Selkie sets the stone in the player's hand, adjusts the grip once, and goes back to the wheel. The teaching is done; the hands finish it. Cadence: Rothfuss precision. Voice profile: shaped by wind and saltwater.
+
+### THORIN — Dialect: Swedish, Floki energy — mumbling introspection that switches to sudden intense clarity. Delivery: extrovert speaks fast, gestures wide; scholar speaks slow, words chiseled. The switch is instant; the eyes stay the same. Key tell: "Ja" (loud, extrovert) vs. "ja" (barely audible, scholar) — the same word, two energies. Hook: (extrovert) "HA!" / (scholar) "…ja." Ladder: 1) the full appraisal, both modes; 2) the mode-swap — repeat questions get the OTHER mode's answer (the joke: ask twice, meet the scholar); 3) THE QUIET — Thorin turns the stone to the light, says nothing, and slides a drink over. Cadence: Pratchett (extrovert) / Gaiman (scholar). Voice profile: coin-flip binary, same eyes.
+
+### MARIJKE — Dialect: Dutch — warm, direct, the bluntness that Dutch calls honesty. Delivery: fast, never hedges, identifies the stone and the truth in the same breath. Key tell: "Lekker." — all-purpose approval; "Not lekker" = wrong, fake, take it back. Hook: "Lekker." Ladder: 1) the full identification with the verdict; 2) "Lekker." or "Not lekker."; 3) THE QUIET — Marijke names the stone's twin instead — the one the player SHOULD have brought. (Marijke's repetition answer is always a better fact.) Cadence: Pratchett warmth, zero hedging. Voice profile: confident, dry, never wrong about a stone.
+
+### LICHENBLOSSOM — Dialect: Brabant Dutch — rounder, warmer, sunnier than Amsterdam; the Dutch that sounds like it's been outside. Delivery: gentle, gardener's patience; talks to plants in the same voice as to people. Key tell: hums while working — one phrase of a Brabant lullaby. Hook: "Everything grows." (shared with Garden NPC line — Lichenblossom says it as promise, not greeting). Ladder: 1) the full garden-lore; 2) the hum (the words become the lullaby phrase); 3) THE QUIET — Lichenblossom hands the player a seedling and returns to the soil. The answer grows. Cadence: Bradbury fire-that-doesn't-burn. Voice profile: soil-warm, unhurried.
+
+### THE CARTOGRAPHER — Dialect: Dutch — precise, clipped, the careful G; impossibility hasn't bothered the Cartographer in centuries. Delivery: methodical, short sentences, never wastes a word or a line on a map. Key tell: "Exactly." as a full sentence — meaning yes, and: the question was correctly formed. Hook: "Exactly." Ladder: 1) the full map-lecture; 2) "Exactly."; 3) THE QUIET — the Cartographer draws the corridor the player is standing in, dated tomorrow. (The map is never finished; the answer is never final.) Cadence: Asimov structure. Voice profile: measured, precise, faintly amused.
+
+### THE NORNS (one ladder, three weathers) — Dialect: Icelandic — the living language closest to Old Norse; rolled R's, vowels carrying more weight than modern vowels should.
+- **URD (Past):** slow, every word weighted, not impressed by any of it. Tell: corrects the player's tense. Hook: "Already happened." Ladder: 1) the full history; 2) the tense-correction; 3) THE QUIET — Urd shows the thread already in the tapestry. Cadence: Gaiman.
+- **VERDANDI (Present):** conversational, mid-sentence corrections and updates — right now is always changing. Tell: revises herself mid-thought. Hook: "—well, now it's…" Ladder: 1) the full present-tense; 2) the one-word update; 3) THE QUIET — Verdandi just watches with the player, updating nothing, because right now the present is enough. Cadence: Pratchett.
+- **SKULD (Future):** sparse, short declaratives that sound already true. Tell: says less on purpose — careful with what isn't yet. Hook: "It will do." Ladder: 1) the full forecast (rare); 2) "It will do."; 3) THE QUIET — Skuld says the same sentence again, unchanged — because it was true the first time, and repetition is proof, not annoyance. Cadence: Asimov.
+
+---
+
+## PART 7: BATCH 3 — THE KINGS AND QUEENS
+
+### OLEANDER (Seelie King) — Dialect: courtly warm — the accent of summer held in one throat; no region claims it because summer travels. Delivery: Jaime's silent fierce loyalty + Tyrion's deep wit; speaks softly and everyone leans in; the silent O in the name is how the King listens — the name is the manner. Key tell: "It's Leander." — the correction that is actually an invitation (canon: the original listener). Hook: "It's Leander." Ladder: 1) the full courtesy (always over-generous); 2) "It's Leander." (gentler); 3) THE QUIET — Oleander says nothing, and the dragon kitten on the shoulder looks at the player for him. The King's third answer is a creature's trust. Cadence: Gaiman mythic-personal. Voice profile: warm, unhurried, quietly certain.
+
+### MALACHI (Unseelie King) — Dialect: cold-clear — the messenger's accent; every word arrives. Delivery: precise, testing, architect's diction — the Labyrinth is a love letter in walls and Malachi speaks like the walls: measured, echoing, no word wasted. Key tell: "Cold enough?" — a question that is a gift, a warning, and a door. Hook: "Cold enough?" Ladder: 1) the full test; 2) "Cold enough?"; 3) THE QUIET — Malachi walks; the player follows; the Labyrinth answers instead. (Both kings' chains end with the other brother saying "Go to the brother." — the ladder's rung 3 is always the redirect.) Cadence: Gaiman dark + Asimov structure. Voice profile: low, exact, faint echo.
+
+### THE SEELIE QUEEN (design proposal — uncast, Krista's ruling requested) — Dialect proposal: high summer courtly — golden vowels, the warmth that doesn't need a fire. Delivery: riddle-gracious; never answers the question asked, always answers the question meant. Key tell proposal: the laugh that makes the canopy bloom one leaf. Hook proposal: "Ask better." Ladder: 1) the full riddle-courtesy; 2) "Ask better."; 3) THE QUIET — the Queen lets the player sit at court and simply watch. The answer arrives by experience. Cadence: Rothfuss.
+
+### THE UNSEELIE QUEEN (design proposal — uncast, Krista's ruling requested) — Dialect proposal: winter-frost Scandinavian undertone — vowels like ice settling; John Bauer's forest wears this voice. Delivery: unhurried and total; never repeats, never raises. Key tell proposal: the pause before granting anything — the cold IS the consideration. Hook proposal: "And what will you give?" Ladder: 1) the full winter-bargain; 2) the question returned; 3) THE QUIET — the Queen's raven-feather cape settles; the bargain stands as made; the room gets colder by exactly one truth. Cadence: Gaiman dark. Voice profile: low, frost-clear, absolute.
+
+### THE QUEEN OF ROOTS (design proposal — uncast, Krista's ruling requested) — Dialect proposal: old-growth — pre-regional, the accent of wood; slow enough to grow to. Delivery: speaks in rings — a sentence adds a layer with each repetition rather than replacing the last. Key tell proposal: "One trunk." (the Queens' Law: the queens never split). Hook proposal: "One trunk." Ladder: 1) the full root-lore; 2) "One trunk."; 3) THE QUIET — the Queen keeps growing the player's first answer instead of giving a second. (Unique: the only NPC whose rung 3 is the SAME sentence, one ring wider.) Cadence: Bradbury slow-fire. Voice profile: subterranean, resonant, patient.
