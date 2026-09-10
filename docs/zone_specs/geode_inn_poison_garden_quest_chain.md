@@ -1,5 +1,5 @@
 # THE POISON GARDEN QUEST CHAIN: "THE CURE GROWS BESIDE"
-## The garden's story — drafted 2026-09-10 for Krista's review (DRAFT until ruled)
+## The garden's story — PASSED by Krista 2026-09-10 (CANON — the zone's story, with the Little Alchemy overlay)
 
 ---
 
@@ -45,6 +45,21 @@ The garden's thesis, said once, plainly: THE DOSE MAKES THE POISON. THE DOSE MAK
 
 ---
 
+
+## THE LITTLE ALCHEMY OVERLAY — "THE COMBINATION STILL"
+(Krista's addition, 2026-09-10: the garden gets Little Alchemy's combination-joy as its overlay system.)
+
+Once Quest 2 unlocks the measure, the still room becomes a combination bench. The mechanic is Little Alchemy's loop wearing the Inn's realism: TWO HERBS + ONE MEASURED DOSE = a compound attempt. The player drags foxglove to belladonna, doses the union, and the still room answers.
+
+**The rules:**
+- Combinations are LOGICAL, not arbitrary. The pharmacopoeia is real: every successful combo is a plausible compound (a tincture, a salve, a syrup, an antidote), and the player who knows the plants can PREDICT what a pairing will make. Discovery through knowledge, not random poking.
+- Every discovery loads a new record into the garden's pharmacopoeia (the PoisonHerb entity grows by player discovery — the beds and the books fill together).
+- Failures are lessons, not punishments. A wrong pairing produces the Apothecary's dry verdict ("No.") and a hint of WHY — the same teaching the drop-scale gave, at the speed of combination.
+- The encyclopedic joy is the point: like Little Alchemy's tree of elements, the garden's compounds branch (herb + herb → compound; compound + herb → deeper compound), and the completionist player watches their pharmacopoeia fill like a sticker book with teeth.
+- The recipe book is the player's own: discovered combos stay discovered, and the book can be reread — the library instinct, honored in a still room.
+
+**The wiring:** the overlay is the staircase's alchemy made playable — Paracelsus's arithmetic with Little Alchemy's hands. The dose is still the law: a discovered compound given at the wrong dose is still a poison (Quest 6's finale holds). The Apothecary's line on the overlay: "Combine freely. Measure always."
+
 ## THE WIRING
 
 | Connection | The Thread |
@@ -55,10 +70,11 @@ The garden's thesis, said once, plainly: THE DOSE MAKES THE POISON. THE DOSE MAK
 | The staircase (alchemy) | The measure unlocks the practical leg of the acoustic/alchemy texts — Paracelsus's own line, "the dose makes the poison," is the staircase made botany |
 | The parks law | The science is the lesson: real toxicology (digitalis, atropine, willow bark) delivered through story — the teaching layer continues |
 | The Redwood Cathedral | The sibling zone of restraint: Redwood teaches sitting (presence without doing), the Poison Garden teaches not-touching (presence without taking) |
+| THE LITTLE ALCHEMY OVERLAY | The Combination Still: two herbs + one dose = discovery; the pharmacopoeia grows by player combinations; the recipe book is rereadable |
 | The Meadery (z29) | The dose mechanics reach the drink system when the mead chain is drafted — the same arithmetic, a cheerier vessel |
 | The Apothecary | A new NPC for the roster — voice block owed to the registry's next batch (rung 1: "Gloves." / rung 2: "You know the arithmetic." / rung 3: "The plant did not choose. The dose chose. The reader chose.") |
 
 ## TONE LAW
 Played straight, never sinister. The garden is not a trap and the beauty is not a lie — the Apothecary's warmth lives in the precision, Pratchett's dry kindness without cute-ification. Weir's engineer clarity carries the pharmacology (every dose is real arithmetic the player can check). Gaiman's hush for the hedge, the berries, the small dying thing. The chain trusts the player with a life at the end because the whole zone has been teaching them, carefully, exactly how to hold one.
 
-*Draft for Krista's review — the pharmacology is real (digitalis, atropine, willow bark all verified), the games' canon is honored, and nothing introduces a new gate. On approval, the chain loads as the zone's story and the Apothecary joins the voice registry queue.*
+*PASSED (Krista, 2026-09-10) — canon. The chain loads as the zone's story; the Apothecary joins the voice registry queue. THE LITTLE ALCHEMY OVERLAY added on Krista's direction the same day.*
