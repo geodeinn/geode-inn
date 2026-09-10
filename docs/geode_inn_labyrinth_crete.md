@@ -163,5 +163,7 @@ The labyrinth's residents now speak in the world:
 | `asterion_002` | Asterion | The Meeting — the center is a room made livable, not a lair. The quest is a conversation |
 | `asterion_003` | Asterion | The Carvings — the journal in geometry; mirrors show wants, walls show needs |
 | `malachi_006` | Malachi | The Architect's Act — the love letter written in walls, revealed after the Meeting |
+| `masquerade_001` | The Masquerade | The hall speaks — the labyrinth's self-awareness, the one voice permitted to speak about the player instead of to them |
+| `masquerade_002` | The Masquerade | The read-back at the threshold — wants/needs ratio, returned as introduction, not judgment |
 
 The thread leads IN. The quest is arrival. The moon is bright because the resident cannot sleep in the dark.

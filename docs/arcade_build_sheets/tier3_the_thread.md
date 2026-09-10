@@ -91,7 +91,7 @@ Steam Integration:
 
 Base44 API: On completion, POST to PlayerProgress — add Rainbow Moonstone, increment gamesCompleted, set flag `met_asterion` (cross-links the Dialogue records for the zone layer)
 
-Dialogue hooks: `asterion_001` (thread), `asterion_002` (meeting), `asterion_003` (carvings), `malachi_006` (architect's act) — all seated in the Dialogue entity 2026-09-10
+Dialogue hooks: `asterion_001` (thread), `asterion_002` (meeting), `asterion_003` (carvings), `malachi_006` (architect's act), `masquerade_001` (the hall speaks — entering), `masquerade_002` (the read-back at the threshold) — all seated in the Dialogue entity 2026-09-10
 
 ## SECTION 6: WALKTHROUGH
 
