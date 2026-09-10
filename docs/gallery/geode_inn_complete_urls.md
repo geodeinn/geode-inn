@@ -668,3 +668,22 @@ Nine ambient critter cycle sheets, Rackham storybook watercolor, 6-frame horizon
   SHADOW: https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/ef50fa5c3_stone_snail_shadow.png
 - CYCLE-DEW-SPRITE LIVING: https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/3831ed635_dew_sprite.png
   SHADOW: https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/0e26d33fa_dew_sprite_shadow.png
+
+## TIER 2 MOVEMENT CYCLES — WATER ZONE BATCH (wave 2, 2026-09-10)
+
+Seven water-ambient cycle sheets, all with canonical 84Hz shadow variants (spectral_shift_84hz.py). The octopi honor the seven-layer water system's Octopus Intelligence Gradient (docs/drive-recovery/geode_inn_seven_layer_water_system.md): tidal = the accessible ones the player meets first; deep = the alien ones that inspired Cthulhu, but gentle.
+
+- CYCLE-GLOW-FISH LIVING: https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/cc6332f4c_glow_fish.png
+  SHADOW: https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/6cee127af_glow_fish_shadow.png
+- CYCLE-LANTERN-JELLYFISH LIVING: https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/cc47e1f6c_lantern_jellyfish.png
+  SHADOW: https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/865ab3429_lantern_jellyfish_shadow.png
+- CYCLE-PEARL-CRAB LIVING: https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/b3ba4cd35_pearl_crab.png
+  SHADOW: https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/3b55a91df_pearl_crab_shadow.png
+- CYCLE-REED-FROG LIVING (42Hz croak canon): https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/03ded2958_reed_frog.png
+  SHADOW: https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/f1bcf099b_reed_frog_shadow.png
+- CYCLE-WATER-STRIDER LIVING: https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/7108a3eba_water_strider.png
+  SHADOW: https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/41ce03600_water_strider_shadow.png
+- CYCLE-TIDAL-OCTOPUS LIVING (Monet light-on-water skin, color-shifting per frame): https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/f9122d76b_tidal_octopus.png
+  SHADOW: https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/e4efa3b88_tidal_octopus_shadow.png
+- CYCLE-DEEP-OCTOPUS LIVING (translucent, star-photophores, the gentle alien): https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/5a2529a9c_deep_octopus.png
+  SHADOW: https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/4d44b87f2_deep_octopus_shadow.png
