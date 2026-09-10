@@ -30,6 +30,7 @@ Krista's instinct confirmed: a BUNCH of the parks already carry storylines — s
 | **Colorado Plateau** (thin 21) | The reclining zen giant (conscious-but-horizontal), the two fae types / two forces of the canyon country, the canyons as the giant that chose to be open, Dixon art | NPCs, quest chain (the THOUGHT-key: accept what the carved-open shows), layer definitions |
 | **Superstition Mountains** (thin 23) | The roguelike (build sheet), the Lost Dutchman (the tulip law), the thunderbirds (the sky staff), the Void seat, turquoise reward | Quest chain (the GAP-key: the mine found by NOT filling the gap), layer definitions |
 | **Canadian Rockies** | The Rememberers, trolls (stone consciousness), ammolite's home ground, Blackfoot legends, Glacier's serenity (the portrait's north end) | Zone spec compile, quest chain |
+| **Mount Shasta** (FOUND HIDING, 2026-09-10) | THE ANNUNAKI'S HIDING PLACE — the 84Hz Silk Road node where the never-seen one passes through; the cloud cap, the tuned crystals, the 41.7Hz shard, the hippie law (the sensers who are right about everything except the identity) | Zone spec NOW WRITTEN (geode_inn_mt_shasta_master_spec.md); quest chain + the CRYSTAL HUNT game remain |
 | **Grand Canyon** | Hopi origins, Havasupai lore, redcap wall-maintenance | Folds INTO the Plateau build (same giant, same country) |
 
 ## TIER C — LORE-ONLY (the long tail)
