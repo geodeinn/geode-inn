@@ -10,15 +10,15 @@ Covered by Drive: The Host, The Bartender, The Cartographer, The Examiner, The O
 | # | Character | Zone | Status |
 |---|-----------|------|--------|
 | 1 | The Exile | Main Floor | lore identity check → prompt → generate |
-| 2 | The Librarian | Staircase | lore identity check → prompt → generate |
+| 2 | The Librarian | Staircase | ✅ ALREADY EXISTS — Beverley the Librarian = the Catalyst (bartender portrait uploaded Wave 1) |
 | 3 | The Alchemist | Staircase | lore identity check → prompt → generate |
 | 4 | Merfolk | Water Zone | ✅ GENERATED (living)
 | 5 | Tide-pool spirits | Water Zone | ✅ GENERATED (living)
 | 6 | Frozen vine creatures | Gorgon's Garden | ✅ GENERATED (living)
 | 7 | The First | Hollow Earth | lore identity check |
-| 8 | Admiral Byrd | Hollow Earth | historical figure — softening rule applies |
+| 8 | Admiral Byrd | Hollow Earth | ✅ GENERATED (softened) |
 | 9 | Echo faction leader | Hollow Earth | lore identity check |
-| 10 | Deep One faction leader | Hollow Earth | lore identity check |
+| 10 | Deep One faction leader | Hollow Earth | ✅ GENERATED (Doré style per Grand Collision spec) |
 | 11 | Lost faction leader | Hollow Earth | lore identity check |
 
 Named faces get a lore-first prompt pass (six-writer voice, zone style bible, celebrity softening where applicable) before generation — no invented canon faces.
@@ -27,9 +27,9 @@ Named faces get a lore-first prompt pass (six-writer voice, zone style bible, ce
 1. ✅ **Main Floor panorama** — GENERATED (URL logged in gallery manifest)
 2. ✅ Staircase panorama — GENERATED
 3. ✅ Catacombs panorama — GENERATED
-4. Cosmology (observatory interior, no-outline cosmological linework)
-5. Faerie Kingdom courts (Rackham: Seelie summer glow / Unseelie frozen winter)
-6. Water Zone / Tidal Caves
+4. ✅ Cosmology panorama — GENERATED
+5. ✅ Faerie Kingdom courts — GENERATED (Seelie Alan Lee / Unseelie John Bauer)
+6. ✅ Water Zone / Tidal Caves panorama — GENERATED
 7. ✅ Shadow Inn panorama — GENERATED (tectonic pair complete with Main Floor)
 
 ## Sequencer Notes for the Fizgigs
@@ -50,3 +50,9 @@ Named faces get a lore-first prompt pass (six-writer voice, zone style bible, ce
 - 3 zone panoramas generated: Staircase, Shadow Inn, Catacombs (Main Floor pair complete for the tectonic shift)
 - 3 creature portraits generated: Merfolk, Tide-pool spirits, Frozen vine creatures
 - Remaining gaps: 10 named characters (lore-first pass needed) + Cosmology/Fae/Water zone panoramas + Tier 3 game sprites + Tier 4 supporting media
+
+## Wave 3 Complete (2026-09-09 night, Krista present)
+- TIER 2 FULLY COMPLETE: all 8 zone panoramas generated (Main Floor, Staircase, Catacombs, Cosmology, Seelie Court, Unseelie Court, Water Zone, Shadow Inn)
+- 3 more portraits generated: Unseelie Queen living state (John Bauer), Deep One faction leader (Doré), Admiral Byrd (softened)
+- The Librarian removed from gap list — Beverley = the Catalyst, portrait already uploaded in Wave 1
+- REMAINING GAPS (need Krista's one-line identity sketches before painting): The Exile (Main Floor), The Alchemist (Staircase), The First (Hollow Earth), Echo faction leader, Lost faction leader, The Watcher (Cosmology)

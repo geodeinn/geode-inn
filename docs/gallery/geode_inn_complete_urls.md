@@ -396,3 +396,17 @@ NOTES: Watcher (Cosmology) and Pirate Captain (Water Zone) NOT uploaded — no c
 | Merfolk portrait (Water Zone, living) | 1 | https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/a1ab9b497_generated_image.png |
 | Tide-pool spirits portrait (Water Zone, living) | 1 | https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/6fcedf3af_generated_image.png |
 | Frozen vine creatures portrait (Gorgon's Garden, living) | 1 | https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/ea631a025_generated_image.png |
+
+## Visual Expansion Wave 3 — Tier 2 Complete + Lore-First Portraits (2026-09-09, masters Inn-owned)
+
+| Piece | Tier | URL |
+|---|---|---|
+| Cosmology panorama (orrery observatory, no-outline linework) | 2 | https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/c53422583_generated_image.png |
+| Seelie Court panorama (Alan Lee golden summer) | 2 | https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/f061699a7_generated_image.png |
+| Unseelie Court panorama (John Bauer frozen winter) | 2 | https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/00cd9732d_generated_image.png |
+| Water Zone / Tidal Caves panorama (six water environments) | 2 | https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/0d440c6f5_generated_image.png |
+| Unseelie Queen — LIVING state (John Bauer) | 1 | https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/06892251b_generated_image.png |
+| Deep One faction leader (Doré engraving style) | 1 | https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/9852b476f_generated_image.png |
+| Admiral Byrd (softened historical figure, polar explorer) | 1 | https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/2f95c87eb_generated_image.png |
+
+TIER 2 STATUS: COMPLETE — all roadmap zone panoramas generated (Main Floor, Staircase, Catacombs, Cosmology, Seelie Court, Unseelie Court, Water Zone, Shadow Inn).
