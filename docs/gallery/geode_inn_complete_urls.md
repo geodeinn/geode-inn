@@ -350,3 +350,9 @@ Filenames are legacy per the naming policy; display names are canonical (see cha
   - Krista's pick: "the parchment one that resembles the introductory credits for The Last Kingdom"
   - Status: official zone image for the world map section — flagged for builder as the /world-map header image
   - Alternates (kept in archive): two earlier frames from same flythrough
+
+## Visual Expansion Wave 1 (2026-09-09)
+
+- **Main Floor panorama (Tier 2 flagship):** https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/a908b7b20_generated_image.png
+  - For: Main Floor wide panoramic background (1920x800 target), parallax-scroll ready
+  - Style: muted Matisse room flavor on Klimt foundation, soft flowing lore linework, amber/gold/cream hobbit-cozy
