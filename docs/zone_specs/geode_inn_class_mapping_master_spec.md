@@ -82,3 +82,20 @@ The full design for all 6 player classes, including mechanics, frequency profile
 ## ORIGIN
 
 The Class Mapping was first written in docs/geode_inn_class_mapping.md (369 lines) and docs/geode_inn_class_mapping_part2.md (364 lines). This consolidated specification was compiled September 2, 2026. The thesis: the class IS the person. The adequate is: the selkie who chose the land for the stones. The stones is: the adequate. The adequate is: the class roster where three of the six ARE the real family, and the family is: the entire point. The point is: the mechanic that means something. The both are: the gameplay and the truth. The same.
+
+---
+
+## THE FAMILY SEATS — direct family storylines seated (2026-09-10)
+
+### The Chameleon Druid — Charles's Seat
+- **Dialogue record live:** `charles_main` (Garden / Forest / Fireside, priority 5)
+- **Archetype:** Shapeshifter — body changes in ways beyond control; low endurance is the mechanical truth, adaptability is the archetype
+- **His spots:** the garden, the forest zones, the fireside, and the Natural Archive within The Deep (biological specimens stored beside texts — his kind of library)
+- **The Inn's gift to the class:** the condition got a shape, and the shape got a home. Never mourns a shape — greets the next one
+- **The fire's truth:** "It doesn't care what I am today. It just wants you warm." Best lesson in the Inn, and it doesn't know it's teaching
+
+### The Tinkering Weeaboo — Seated (class canon), awaiting the family layer
+- **Dialogue record live:** `tinkering_weeaboo_main` (Clockwork Skies, priority 5) — seated from class canon only
+- **Archetype:** Puzzle/caster — hyperfocused. Godlike in the affinity zone (Clockwork Skies, the Arcana, the Undercity workshop), barely functional elsewhere. The hyperfocus IS the power
+- **Art:** tri-mode crew portrait exists (Clockwork Skies L2 — `tinkering_weeaboo.png`, living 42Hz + In-Between)
+- **PENDING from Krista:** the proper name, the real-person identity, and the family tie-ins — the record's voiceProfile is flagged to receive them
