@@ -687,3 +687,18 @@ Seven water-ambient cycle sheets, all with canonical 84Hz shadow variants (spect
   SHADOW: https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/e4efa3b88_tidal_octopus_shadow.png
 - CYCLE-DEEP-OCTOPUS LIVING (translucent, star-photophores, the gentle alien): https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/5a2529a9c_deep_octopus.png
   SHADOW: https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/4d44b87f2_deep_octopus_shadow.png
+
+## TIER 2 MOVEMENT CYCLES — FLYING CREW + MIRROR CARP (wave 3, 2026-09-10)
+
+Five cycle sheets, all with canonical 84Hz shadow variants. Krista-approved: "Pretty critters." Mirror carp completes the Water Zone ambient roster.
+
+- CYCLE-RAFTERS-BAT LIVING: https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/c195c6755_rafters_bat.png
+  SHADOW: https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/0c4d9763f_rafters_bat_shadow.png
+- CYCLE-CANDLE-MOTH LIVING (the Inn's most doomed and beloved ambient creature): https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/fea9ce3ee_candle_moth.png
+  SHADOW: https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/08a616f39_candle_moth_shadow.png
+- CYCLE-POND-DRAGONFLY LIVING: https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/2f62879e3_pond_dragonfly.png
+  SHADOW: https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/2431b2dc4_pond_dragonfly_shadow.png
+- CYCLE-WILD-RAVEN LIVING (wild cousin of Huginn and Muninn, glint of stolen gold): https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/f9f763241_wild_raven.png
+  SHADOW: https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/e4493aee6_wild_raven_shadow.png
+- CYCLE-MIRROR-CARP LIVING (silver-gold, shows the truest reflection; Water Zone ambient roster now COMPLETE): https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/01d57c5cd_mirror_carp.png
+  SHADOW: https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/2ddf5c5c3_mirror_carp_shadow.png
