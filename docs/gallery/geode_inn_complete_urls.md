@@ -422,3 +422,11 @@ TIER 2 STATUS: COMPLETE — all roadmap zone panoramas generated (Main Floor, St
 | Egg set study (group shot, decorative) | — | https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/5eb98478e_generated_image.png |
 
 ALSO: Unseelie Queen raven-feather cape confirmed as permanent canon design element by Krista (2026-09-09).
+
+## The Retort — Shadow State (2026-09-09)
+
+| Piece | URL |
+|---|---|
+| The Retort shadow state (84Hz dark mirror of the Tesla-cast alchemist) | https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/cd3331a7c_generated_image.png |
+
+The Retort's 3-state set is now complete: living (the_retort.png, existing), in-between (existing), shadow (new above). The Retort = the fizgigs' "The Alchemist" — same character, staircase L5, Tesla casting (features softened; twin casting lives in Clockwork Skies crew as Nikola_Tesla.png).

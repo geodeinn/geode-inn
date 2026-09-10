@@ -11,7 +11,7 @@ Covered by Drive: The Host, The Bartender, The Cartographer, The Examiner, The O
 |---|-----------|------|--------|
 | 1 | The Exile | Main Floor | lore identity check → prompt → generate |
 | 2 | The Librarian | Staircase | ✅ ALREADY EXISTS — Beverley the Librarian = the Catalyst (bartender portrait uploaded Wave 1) |
-| 3 | The Alchemist | Staircase | lore identity check → prompt → generate |
+| 3 | The Alchemist | Staircase | ✅ RESOLVED = The Retort (Tesla-cast), living + in-between existed; shadow state GENERATED |
 | 4 | Merfolk | Water Zone | ✅ GENERATED (living)
 | 5 | Tide-pool spirits | Water Zone | ✅ GENERATED (living)
 | 6 | Frozen vine creatures | Gorgon's Garden | ✅ GENERATED (living)
@@ -56,3 +56,5 @@ Named faces get a lore-first prompt pass (six-writer voice, zone style bible, ce
 - 3 more portraits generated: Unseelie Queen living state (John Bauer), Deep One faction leader (Doré), Admiral Byrd (softened)
 - The Librarian removed from gap list — Beverley = the Catalyst, portrait already uploaded in Wave 1
 - REMAINING GAPS (need Krista's one-line identity sketches before painting): The Exile (Main Floor), The Alchemist (Staircase), The First (Hollow Earth), Echo faction leader, Lost faction leader, The Watcher (Cosmology)
+
+- The Alchemist resolved (Krista, 2026-09-09): the Retort, the Tesla twin (Clockwork Skies crew holds the other casting). Shadow state generated to complete the 3-state set. Remaining gaps: The Exile, The First, Echo faction leader, Lost faction leader, The Watcher (Cosmology).
