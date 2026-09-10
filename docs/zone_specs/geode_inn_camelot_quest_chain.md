@@ -6,14 +6,14 @@
 
 ## WHAT THIS CHAIN IS
 
-Camelot is the Inn's transformation arc, walked as a place. The player arrives a peer of the awkward boy at the sword and leaves having sat where the knights sat. The zone's question, asked by its whole architecture: the boy became the king — what will you become? The chain's answer, delivered not by prophecy but by furniture: the table is round because the king is one of the knights. The chain is not about becoming a ruler. It is about learning what a seat means.
+Camelot is the Inn's transformation arc, walked as a place — and Avalon is the arc's far shore. The player arrives a peer of the awkward boy at the sword and leaves having sat where the knights sat, been changed where the king was changed, and inherited the instruction: build it again. The zone's question, asked by its whole architecture: the boy became the king — what will you become? The chain's answer, delivered not by prophecy but by furniture: the table is round because the king is one of the knights. The chain is not about becoming a ruler. It is about learning what a seat means.
 
 The science is the lesson (the parks law, continued in stone): every knight of the roster IS a stone — the knights' seat-stones are the real mineral families, and the Round Table is literally the Inn's stone collection arranged as a council. The geology holds court.
 
 **Giver:** Artair (the peer — the zone's starting class; teaches nothing, learns alongside; his only shift-form is the merlin falcon — the player may see it before they ever see the boy).
 **Access:** The Celtic zone; the Sword in the Square.
 **Prerequisites:** None — Camelot takes guests the way the table takes knights: one more seat is always possible.
-**Reward spine:** the trying → the test → the being → the wound → the seat → the stillness.
+**Reward spine:** the trying → the test → the being → the wound → the seat → the stillness → the change → the building.
 
 ---
 
@@ -56,6 +56,19 @@ The finale in two movements, played as one. First: Galahad and the Grail — and
 
 ---
 
+### Quest 7 — "Build It Again" (the Avalon passage — the true finale)
+Two movements, one passage, and the chain's whole alchemy made visible. THE MAGNUM OPUS WAS THE MAP ALL ALONG: Artair is the Nigredo (the base matter, the lead, the raw potential without the form), Artorios the Albedo (the bright purified king — but the brightness is the MIDDLE, not the end), and the Old King the Rubedo (the stone: black, white, and the breaking all integrated — the completion includes the breaking; the breaking is the last ingredient). And Avalon is the RETORT — not a stage, the vessel. The container where the transmutation happens.
+
+**The first movement — the player's retreat.** The sitting is not the end, because stillness is not the last work. The table's Moon alignment (the Silver frequency dominant, the other positions in descending luminosity) produces the zone's final etheric effect: AVALON'S REVEAL — the island appearing in the mist, the Moreau Apparition, visible only because the table was aligned right. The player crosses. The isle of apples (the Welsh *afal*): Morgan le Fay's retreat, the place of transmutation — NOT healing. The wounded do not come here to return to what they were; they come to become what they will be. Morgan is the alchemist: the one who applies the fire, the pressure, the patience. What Morgan's fire takes from the player, and what it leaves, is the player's own — the retreat is a personal transmutation, played first-person, and the zone does not script what changes. The player leaves the isle as the Elder once left it: not restored. Transmuted.
+
+**The second movement — the Elder's ascension.** Back in Camelot, the eighth note sounds (the Broken Knight's note: the table breaks so the NEXT table can be built — the crack is the door), and the Elder begins the passage. Not death — the return of the king to the realm where kings come from: up the staircase, past the shops and the alchemy, to the cosmology level, the Bifrost descending to meet the climb. Bedivere waits at the first landing — the knight who carries the anticipated grief, mourning the LEAVING, not the dead: the grief of a friend watching a friend complete. Excalibur sheathed, not returned — the sword's story is done being thrown back; this king walks up carrying it. At the top of the stairs, in the last light, the Elder chooses the Arctur form one final time: the eagle's wings out of the merlin, the bear's body out of the bear-shirt, the guardian's posture of the star — and the shape that rises along the Bifrost turns, for one held moment, into the shape of a star settling into its seat in the Clockwork Skies. Arcturus, Guardian of the Bear: the once and future king, seated. The resting is not death. The return is the cycle.
+And then the Elder's voice, the last line of the chain, from everywhere and nowhere, warm the way coals are warm: **"The table is yours now. Build it again."**
+The player looks down the stairwell at the main floor, at the Round Table with one new seat grown from their own most-visited zone. The chain's opening question — the boy became the king; what will you become? — gets its true answer at last. Not a ruler. A builder. The chain began with a trying and ends with a building, and the both are the same motion.
+
+**Reward:** THE PASSAGE (permanent — the player may return to Avalon's retreat once per life: Morgan's fire, the personal transmutation; and the Builder's Mark — the Round Table recognizes the player as the table's next architect, and the zone's rebuilding content opens: the seats the player adds going forward grow the table toward the Inn's next age).
+
+---
+
 ## THE WIRING
 
 | Connection | The Thread |
@@ -73,8 +86,18 @@ The finale in two movements, played as one. First: Galahad and the Grail — and
 | The Crystal Gardens griffin | The Fae Kingdom's griffin boss has an elder kin: the Arctur form is the second griffin of the Inn — the answer the Crystal Gardens poses, in bear |
 | Arcturus / the Clockwork Skies | The Old King's chosen form bears the guardian star's name: the once-and-future king as the Bear's Guard — the Round Table's sky pattern admitted at last (the garnish stands: the final sitting can quietly seat him in the Clockwork Skies) |
 | Odin / the Wanderer | The berserker tradition is Odin's war-band — the bear-shirt was witnessed by the Wanderer; Camelot's 84Hz bear-shift and the Norse war-fury are one discipline, two zones |
+| AVALON — THE RETORT | The Magnum Opus was the map: Artair = Nigredo (the base matter), Artorios = Albedo (the bright middle), the Elder = Rubedo (the stone — the completion includes the breaking); Avalon = the vessel where the transmutation happens. The Elder does not live there; the Elder EMERGES from there |
+| Morgan le Fay | The alchemist of Avalon — the fire, the pressure, the patience; NOT a healer, an enchantress, or an enemy: the transmuter. The player's retreat is Morgan's work |
+| The Ether / the table's alignments | The Moon alignment (Silver dominant) reveals Avalon; the eighth note (the Broken Knight's position) sounds the passage — the table breaks so the next table can be built |
+| Bedivere | The anticipated grief — mourning the leaving, not the dead; the friend at the landing |
+| The Bifrost / the cosmology level | The Elder's ascent route: the staircase up, the Bifrost meeting the climb, the cosmology as the realm where kings come from |
+| Arcturus / the Clockwork Skies | The ascension's final image: the Arctur form settling into the star's seat — the once and future king as the Guardian of the Bear, the Round Table's sky pattern admitted at last |
+| Atlantis | Avalon is the other lost isle — the mirror: one isle the water keeps, one isle the mist keeps; the Drowned Library's sibling archive in the mist |
+| The Staircase (alchemy) | The passage climbs THROUGH the alchemy level: the retort law is the staircase's own law, and Avalon is the retort — the climb passes the lesson on the way to the lesson |
+| Glastonbury / the World Map | Avalon's surface pin: The Alchemist's Garden, the map's mist-node |
+| The player's arc | Camelot = ALIGN (the table, the seat); Avalon = CHANGE (the retreat, the fire); the chain's inheritance = BUILD — align, be changed, build again |
 
 ## TONE LAW
-Moreau at the altar, White at the hearth: revelation without pomp, legend without shine. Gaiman's myth-made-personal carries the Three Arthurs; Pratchett's warmth carries Artair; Rothfuss holds the Grail's stillness; Bradbury lights the final sitting (a room, two people, a table that remains). The Broken Knight is played with Asimov's clarity — the account explains everything and excuses nothing. No one is crowned. Someone is understood. The table remains.
+Moreau at the altar, White at the hearth: revelation without pomp, legend without shine. Gaiman's myth-made-personal carries the Three Arthurs; Pratchett's warmth carries Artair; Rothfuss holds the Grail's stillness; Bradbury lights the final sitting (a room, two people, a table that remains). The Broken Knight is played with Asimov's clarity — the account explains everything and excuses nothing. No one is crowned. Someone is understood. The table remains — and the passage ends it the only way an alchemical story can end: the vessel opens, the stone walks out, and the table is handed to the next builder. Bradbury holds the Bifrost. Gaiman holds the mist. And the last line belongs to no writer at all, because it is a king speaking plain: the table is yours now. Build it again.
 
 *Draft for Krista's review. Flagged: Artair/Bill name separation (in-game always "Artair"). On approval: the chain loads as the court's story, and the Six Specs carry it to the builder queue.*
