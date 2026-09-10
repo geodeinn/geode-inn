@@ -356,3 +356,32 @@ Filenames are legacy per the naming policy; display names are canonical (see cha
 - **Main Floor panorama (Tier 2 flagship):** https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/a908b7b20_generated_image.png
   - For: Main Floor wide panoramic background (1920x800 target), parallax-scroll ready
   - Style: muted Matisse room flavor on Klimt foundation, soft flowing lore linework, amber/gold/cream hobbit-cozy
+
+## Tier 1 Portrait Intake — Wave 1 (2026-09-09, Drive jpegs folder, metadata-stripped, all masters Inn-owned)
+
+| Character | Zone | State | URL |
+|---|---|---|---|
+| The Host | Main Floor | living | https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/54ea04ad5_tier1_the_host.jpg |
+| The Bartender (Catalyst) | Main Floor | living | https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/c1ec6a0ba_tier1_the_bartender_catalyst.jpg |
+| The Cartographer | Main Floor | living | https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/3ac82c65e_tier1_the_cartographer.jpg |
+| The Examiner | Staircase | living | https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/a7eb34e38_tier1_the_examiner.jpg |
+| The One Who Tends | Staircase | living | https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/4ecac1047_tier1_the_one_who_tends.jpg |
+| The One Who Is Awake | Staircase | living | https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/2e6c7b6b2_tier1_the_one_who_is_awake.jpg |
+| The Queen of Webs | Catacombs | living | https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/5c85be793_tier1_queen_of_webs.jpg |
+| The Constant | Catacombs | living | https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/746d69dc6_tier1_the_constant.jpg |
+| The Guest (Death) | Catacombs | living | https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/3d9f5d4cc_tier1_the_guest_death.jpg |
+| The Blacksmith | Catacombs | living | https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/47be984ee_tier1_the_blacksmith.jpg |
+| Thorin | Catacombs | living | https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/60d34d8ac_tier1_thorin.jpg |
+| Einstein | Cosmology | living | https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/e25a02b69_tier1_einstein.jpg |
+| Jakob | Cosmology | living | https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/c7a7a29f3_tier1_jakob.jpg |
+| The Weaver | Cosmology | living | https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/8f0b110be_tier1_the_weaver.jpg |
+| Seelie Queen | Fae Kingdom | living | https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/5222de984_tier1_seelie_queen.jpg |
+| Unseelie Queen | Fae Kingdom | in-between | https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/0886bdf69_tier1_unseelie_queen_inbetween.jpg |
+| Seelie Court Fae | Fae Kingdom | living | https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/e89d5cbee_tier1_seelie_summer_court.jpg |
+| Seelie Court Fae | Fae Kingdom | shadow | https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/c86f15e0c_tier1_seelie_summer_court_shadow.jpg |
+| Seelie Court Fae | Fae Kingdom | in-between | https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/e2e87fd25_tier1_seelie_summer_court_inbetween.jpg |
+| Unseelie Court Fae | Fae Kingdom | living (winter) | https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/f62f970ce_tier1_unseelie_winter_court.jpg |
+| Medusa | Gorgon's Garden | living | https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/60b81ac1e_tier1_medusa.jpg |
+| The Gardener | Gorgon's Garden | living | https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/804df7eaa_tier1_the_gardener.jpg |
+
+NOTES: Watcher (Cosmology) and Pirate Captain (Water Zone) NOT uploaded — no confirmed living portraits in Drive (the catacombs watcher file is a Speter Adams variant; the sky pirate file is an anon reference). Both moved to the lore-first generation queue. Unseelie Queen living state still a generation gap — only the in-between state existed in Drive.
