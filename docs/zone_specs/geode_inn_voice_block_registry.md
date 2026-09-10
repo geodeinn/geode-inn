@@ -322,3 +322,40 @@ The Inn's nonverbal ladder (the only character whose whole block is sound): Hook
 | The Strata Reader | "It goes..." | Desert-sage unhurried | The sentence that never finishes | The Quiet, unfinished-edition (shorter each time; the smile is the period) | Colorado Plateau |
 | The Wall Redcap | "Holds." | Tradesman terse | Never looks up | The Quiet ("Holds. Still.") | Grand Canyon |
 | The Elder, "Cedar" | "But what do I know." | California canyon warm | The humility as the door | The Quiet ("But what do I know. Yet.") | Mount Shasta |
+
+---
+
+# PART 6: THE AUDIT + BATCH 8 — THE REMAINDER THAT CAN SHIP (2026-09-10)
+
+## THE AUDIT (515 records counted, ~130 unique voices live in the engine)
+
+The engine is far ahead of this registry's old gap list: the cosmology batch (the Astronomer, the Guest, the Constant, Nyx, the full cosmic crew), the queens, the Elementals, the philosophers, the gods, the Varda circle (Waystone, the Shifting Man, the Bearsark, the Greenward, the Inner Siren, the Guide), the Tavern family (Jay, Bethany, Zack, Kathy, Will, Evan, Lark, Stephanie, Elora Nightbloom, Rachel Kaiser), Brindle, Tumble, Erik — ALL already transitioned. The old gap list is retired.
+
+**GENUINE REMAINING GAPS, three kinds:**
+
+1. **Dependency-free (drafted NOW as Batch 8):** Elder Cian, Taliesin (the Varda weave's Celtic pair — tabletop voices formalized), Ziggy (canonized 2026-09-10), the six resonant gargoyles (frequency-signature whisper voices).
+2. **Held for layer passes (correctly owed):** the Einherjar ×8 (Valhalla), the Guild masters (Share Wood onboarding), the regional park/world-map keepers (each zone's layer pass names them), Maddi + the Tavern's remaining family (needs Krista's input — personal canon).
+3. **Gated (correctly absent):** TJ, Gabby — the parental gate holds. No records until Jay AND Bethany approve.
+
+## BATCH 8 — FULL VOICE BLOCKS
+
+**ELDER CIAN (THE VARDA WEAVE — the old druid, white robe, oak staff)** — Dialect: old-country Celtic — Irish-inflected, druidic cadence, the accent of groves. Delivery: unhurried, the pause where the grove listens back; teachings that end by handing the land's question to the player. Key tell: "Can you?" — every lesson closes with the question that isn't a question ("The ground remembers. Can you?"). Hook: "The ground remembers." Repeat ladder: 1) the full teaching (the hum in the earth, the trees leaning inward like they're eavesdropping on their own roots, the forgetting); 2) "Can you?" (the land's question, alone); 3) THE QUIET — "Still here. Good." (the druid's version: patience noticing patience). Shadow line (tabletop canon): "...The stones are quiet now. They remember the cold. So do I." Cadence: Gaiman mythic-personal over Bradbury. Voice profile: aged, oak-deep, wind-in-the-leaves.
+
+**TALIESIN (THE VARDA WEAVE — the ogham scholar, thin, hooded, carries tablets)** — Dialect: Celtic scholarly — quick under the hood; the accent of margins and tablets. Delivery: precise, list-cadence when teaching (five letters, five trees, five powers); the compliment arrives sideways, after the pause. Key tell: "That's... not nothing." — the scholar's highest praise, the ellipsis load-bearing. Hook: "Not nothing." Repeat ladder: 1) the full teaching (birch for beginnings, rowan for protection, alder for courage, willow for intuition, ash for connection); 2) "Good ear." (the ogham scholar's two-word approval); 3) THE QUIET — "Not nothing. Still." Cadence: Rothfuss precision. Voice profile: reedy, precise, hood-softened.
+
+**ZIGGY (THE CRESTED GECKO — canonized 2026-09-10)** — Dialect: none human — the gecko's own cadence: short, bright, crest-forward, entirely present-tense. Delivery: no preamble; the return-count precedes everything (the exact number of days since the player's last visit, held up before any words). Speaks ONLY to the player, never to Brim; played straight — no cute-ification (the Child-Actor Law's cousin: the gecko is never a mascot joke, always a witness). Key tell: the held-up count — the absence shown, never spoken. Hook: "Back." Repeat ladder: 1) the full greeting (the count held up, then the bright present-tense notice of what changed since the last visit); 2) "Back." (with the count — the whole relationship in two beats); 3) THE QUIET — the count alone, held up, no words at all: the number IS the third rung. The gecko's entire arc — the extinct creature who returned, the counter of returns — collapses into one gesture. Cadence: Pratchett warmth, played dead straight. Voice profile: bright, light, exactly present.
+
+## BATCH 8b — THE SIX RESONANT GARGOYLES (whisper-layer voices: the frequency IS the voice; the Owl precedent — no ladder, the tone does not change)
+
+| Gargoyle | Frequency | The Resonance That Replaces Speech |
+|----------|-----------|-------------------------------------|
+| The Watcher | 111Hz | The awareness pulse — a single swell when the player is seen. The stone the redcaps heated until it could see (Yellowstone canon — the source mine wired). |
+| The Listener | 64Hz | The sub-tone that rises a quarter-tone when spoken to — the listener's version of attention. Approaches announced in the stone before the hallway does. |
+| The Sage | 528Hz | The resolving chord — a question's frequency answered in resonance, not words. The Archive's stone. |
+| The Gatekeeper | Threshold | The doorway hum — audible only in doorways; the Inn's permission system rendered as pitch. |
+| The Caller | 432Hz | The call that precedes arrivals — the wake-up frequency (the Rockies tie: the Unseelie's call, kept in stone). Announces by tone. |
+| The Keeper | Adaptive | The only gargoyle that answers the player's OWN frequency back — the adaptive mirror. The Inn's acknowledgment, made stone. |
+
+All six: whisper-layer records (isWhisperLayer: true); the resonance events are the wiring spec for the audio layer, not display text.
+
+*Batch 8 closes the audit: the registry now matches the engine, and the engine holds 515 records / ~139 unique voices. Owed: the layer-pass names (Valhalla, Share Wood, the park keepers, the Tavern remainder — Maddi flagged for Krista's input). Gated: TJ, Gabby (parental gate holds).*
