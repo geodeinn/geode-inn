@@ -31,7 +31,7 @@
 | Territory | Spec'd | Visual assets exist | Status |
 |---|---|---|---|
 | Inn core zones (L1–L9) | 110 zone master specs total | 10 hosted zone_L images + 54 zone image files (z01–z35 + specials) | PARTIAL — panoramas exist; tri-mode done for 8 majors; per-zone prop/ENV fill varies |
-| World-map cultural zones (z01–z35: Superstition Mtns, Yellowstone, Appalachian, Egypt, Atlantis, Camelot, Norse, China, Silk Road...) | included in the 110 | z01–z35 numbered images exist | PARTIAL — Silk Road: spec exists (docs/zone_specs/geode_inn_silk_road_master_spec.md), ZERO images. Flagship OWED |
+| World-map cultural zones (z01–z35: Superstition Mtns, Yellowstone, Appalachian, Egypt, Atlantis, Camelot, Norse, China, Silk Road...) | included in the 110 | z01–z35 numbered images exist | PARTIAL — Silk Road first paint wave LIVE 2026-09-10: hub living + echo, caravan, Monet ley map, shrine. Shadow hub owed; 5 route travel screens owed |
 | Characters | 45-core NPC manifest + master roster | 168 portrait/concept files (tri-mode + v2/v3 iterations + 13 artifacts) | PARTIAL — core 45 nearly covered; tri-mode uneven; 18 canonical renames applied |
 | Arcade games (80 build sheets, 61 shoppable) | 80/80 define VISUAL ASSETS NEEDED; 34 have exact sprite counts | 1 game has engine sprites (Tomb Tunnel pilot) | OWED — the big one. See section 5 |
 | Movement cycles (Tier 1/2/3) | movement spec: 207 animated elements | 14 cycle classes painted ≈ full Tier 1 beta roster via recolors | DONE Tier 1 / OWED Tier 2-3 |
@@ -83,7 +83,7 @@ Loop proofs: ceiling gnome hammering, hearth fire (PIL-sliced from sheets).
 ## 8. THE OWED LIST — ranked by dependency
 
 1. DONE 2026-09-10 — Tomb Tunnel full tri-mode cast (28 sprites: 14 living + 14 shadow via scripted 84Hz spectral shift — the recolor-class principle proven on its first shift). NEW #1: Silk Road zone art
-2. OWED — Silk Road zone art — spec exists, zero images; flagship cultural corridor
+2. IN PROGRESS 2026-09-10 — Silk Road first paint wave committed: hub panorama (living + echo), caravan prop, Ley Line Vision map, roadside shrine. Owed next: hub SHADOW state, 5 route travel screens (Amber/Salt/Spice/Jade/Obsidian), Gorey bandit, zone-artist platforms
 3. OWED — Tier 2 movement cycles (critters + ambient NPCs for beta density)
 4. OWED — Gazette display page on web beta + daily generation workflow
 5. OWED — Tri-mode completion for remaining cultural zones
