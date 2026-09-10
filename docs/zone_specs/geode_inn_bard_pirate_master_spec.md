@@ -123,3 +123,11 @@ The watching is its own kind of love — the love that sees the other person cle
 ## ORIGIN
 
 The Bard-Pirate Dynamic was first designed in docs/geode_inn_bard_pirate.md (148 lines). This consolidated specification was compiled September 2, 2026. The dynamic's thesis: the Inn needs the noise. The Bard and the Pirate are the warmth — the noise that says people live here, people argue here, people play music here and ask stupid questions here and pass a flask on the dock at midnight. The Pirate brings the world. The Bard makes it make questions. The questions are the love. The flask is never empty. The silence, when it comes, is shared. The adequate is: the noise that is the music. The music is: the friendship. The friendship is: the adequate. The adequate is: "We married the noise." The noise is: the adequate. The both are: the same.
+
+---
+
+## THE ELOPING (canon confirmed by Krista, 2026-09-10)
+
+The Bard and the Ragana have been deeply in love for sixty years. They eloped. On a whim. No announcement, no ceremony planning, no measuring — the Ragana measured nothing that day, which is how you know it mattered. Sixty years later they are still the Inn's proof that the noise and the measuring belong together.
+
+(Backstory note, keeper's eyes only: the Bard's real person is Krista's dad — the printmaker who taught her Book of Kells capitals as a child. The Ragana is her mother. The dock friendship with Zeke the Pirate portraits a real best-friendship. The flask is never empty in either world.)
