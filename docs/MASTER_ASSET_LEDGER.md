@@ -56,7 +56,7 @@
 
 | Game | Sprites | Status |
 |---|---|---|
-| Tomb Tunnel (Dig Dug-class) | froglodyte dig/pump + Scarab Swarmer → 64px atlas | DONE as pilot; ~20 sprites owed to finish 26-sprite sheet |
+| Tomb Tunnel (Dig Dug-class) | FULL 28-sprite tri-mode cast: froglodyte dig/pump/idle, Isis Priestess, Cobra Warden, Scarab Swarmer — living 42Hz + shadow 84Hz, 64px atlas complete | DONE 2026-09-10 — first game fully cast |
 | All other 79 | none yet | OWED |
 
 **The line (proven):** paint cycle sheet 1024px → auto-slice → auto-crop → quantize 32 colors → 64px frames → atlas → Godot. One character class per enemy archetype; recolor where the sheet allows. Masters stay full-res in the gallery; games consume crunched derivatives.
@@ -82,7 +82,7 @@ Loop proofs: ceiling gnome hammering, hearth fire (PIL-sliced from sheets).
 
 ## 8. THE OWED LIST — ranked by dependency
 
-1. OWED — Tomb Tunnel full 26-sprite sheet (froglodyte idle, Isis Priestess x4, Cobra Warden x6, Shadow variants) — finishes the pilot, unlocks the per-game line
+1. DONE 2026-09-10 — Tomb Tunnel full tri-mode cast (28 sprites: 14 living + 14 shadow via scripted 84Hz spectral shift — the recolor-class principle proven on its first shift). NEW #1: Silk Road zone art
 2. OWED — Silk Road zone art — spec exists, zero images; flagship cultural corridor
 3. OWED — Tier 2 movement cycles (critters + ambient NPCs for beta density)
 4. OWED — Gazette display page on web beta + daily generation workflow
