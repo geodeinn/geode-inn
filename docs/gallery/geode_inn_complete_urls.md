@@ -102,6 +102,7 @@
 | Hel | https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/ca65ce3c9_hel_v2.png |
 | Seelie King | https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/f4ad9f2b8_seelie_king_v2.png |
 | Seelie Queen | https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/070736c14_seelie_queen_v2.png |
+| Seelie King (Oleander) | https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/330d17e73_generated_image.png |
 | Unseelie King (Malachi) | https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/f92fb08ca_jareth_unseelie_king_v3.png |
 | Queen of Roots | https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/7a950cd2a_queen_of_roots.png |
 | Queen of Words | https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/00207b3f0_queen_of_words.png |
