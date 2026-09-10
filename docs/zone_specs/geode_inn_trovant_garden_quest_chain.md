@@ -1,5 +1,5 @@
 # THE TROVANT GARDEN QUEST CHAIN: "THE STONE THAT ANSWERED"
-## The garden's story — drafted 2026-09-10 for Krista's review (DRAFT until ruled)
+## The garden's story — PASSED by Krista 2026-09-10 (CANON — all recommendations approved)
 > CANON SOURCES: the recovered Trovants doc (library/reference/Geode_Inn_—_Trovants_(Living_Stones_of_Romania).md — the naming mechanic, the music transformation game, the Flower of Life hidden game, the Grit system, the rain multiplication, the alchemical stages, the rings-as-memory law). This chain weaves the doc's systems into the zone's story and answers its open questions (recommendations flagged for ruling).
 
 ---
@@ -75,4 +75,4 @@ The finale, and the homecoming. The wings complete — Rubedo: crystalline, symm
 ## TONE LAW
 Rothfuss holds the patience (the thousand-year sentences in short words). Gaiman holds the almost-awake (the stone was always the creature). Weir holds the geology (4-5 centimeters per thousand years, the rings, the Schumann heartbeat — all real, all load-bearing). Pratchett holds the brownies (the siege that wasn't). And the homecoming is Bradbury's: the small note that spent years getting stuck in teapots and orreries, finally answered. No one is taught patience. Someone is slowed, and the slowing is the gift.
 
-*Draft for Krista's review — the recommendations (Stanca, 7.83Hz, Tiffany, the Chrysalis Shard, 50 BPM dry-pulse) each await her ruling; the chain itself loads on pass.*
+*PASSED (Krista, 2026-09-10) — canon, all recommendations approved: Stanca the Ring-Reader, 7.83Hz Schumann, Tiffany, the Chrysalis Shard, the 50 BPM dry-pulse. The chain loads as the garden's story.*
