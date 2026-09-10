@@ -16,9 +16,10 @@ The character roster has completed a full naming audit (September 3, 2026). Seve
 | Malachi | **Malachi** | The Unseelie King. |
 | Mim / Madame Mim | **Brim** | The pipe-smoking chaos agent. (The card game's card is named MADAME — that's the card name only.) |
 | Cthulhu | **Naut** | The squid-headed scholar. Naut the Scholar, by the fireplace, Archive keeper. |
+| Radagast (the Gardener) | **SORREL (the Greenward)** | Ruled by Krista 2026-09-10: a flowing name for a mellow little guy — the rhythm of a name defines how a person sees them (Krista's law). Sorrel is the soft garden green AND the old word for warm reddish-brown: the Gardener's green and the Catalyst's red held in one word, the complementary pair that IS their friendship. Swept 2026-09-10: all references renamed, the Sylvester McCoy casting retired (original face, the Oleander precedent). |
 | John Myers (NPC) | **Quire** | The Lovecraftian scholar NPC. |
 | John Myers (player slot) | **FOLIO — the First Reader** | Reserved player slot for Krista's real-life friend John Myers — the one who found Lovecraft for her. Named of Quire's ilk: a quire is the folded stack of sheets, a folio is made of quires — kin terms in the bookmaker's craft. Slot saved in staging (playerId: player_slot_folio). Ruled by Krista 2026-09-10. |
-| Radagast | **The Greenward** | The Gardener. Nature keeper. |
+| Sorrel | **The Greenward** | The Gardener. Nature keeper. |
 | Beorn | **The Bearsark** | The skin-changer. |
 | Uhtred | **The Wayfarer** | The Saxon warrior, walks between zones, the pressure release valve. |
 | Aughra | **Fibonacci** | The Keeper who collects planetseed pods and reads the spiral patterns. |

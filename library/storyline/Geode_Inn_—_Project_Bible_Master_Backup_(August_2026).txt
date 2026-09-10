@@ -71,9 +71,9 @@ Document
 	geode_inn_greece_zone.md
 	Greece zone — reimagined in Monet's style (predecessor to the Aegean Light document)
 	geode_inn_gardener.md
-	The Gardener — Radagast the Brown (Sylvester McCoy), Mediterranean zone keeper, communion with the garden
+	The Gardener — Sorrel the Brown, Mediterranean zone keeper, communion with the garden
 	geode_inn_gardener_and_beorn.md
-	Radagast and Beorn (Mikael Persbrandt) — binary shifter, Mediterranean border guardian. Singing vines, hedgehogs
+	Sorrel and Beorn (Mikael Persbrandt) — binary shifter, Mediterranean border guardian. Singing vines, hedgehogs
 	geode_inn_medusa.md
 	Medusa (Angelica Huston) — the preserver. Petrified the giants at their request. Lithophone. Waiting for the complete Song to freeze the singing vines
 	geode_inn_poison_garden.md
@@ -553,7 +553,7 @@ Regional Guides
 * Erik (Peter Gantzler) — Norse, warm Viking, feast fire
 * Uhtred (Alexander Dreymon) — wandering neutralizer, campfire/clarity
 * The One Who Tends (Q'orianka Kilcher) — Peruvian, sleeping giants
-* The Gardener/Radagast (Sylvester McCoy) — Mediterranean, communion with garden
+* The Gardener/Sorrel — Mediterranean, communion with garden
 * Beorn (Mikael Persbrandt) — Mediterranean border guardian
 * Medusa (Angelica Huston) — the preserver, waiting for the complete Song
 * Bastet (Angela Bassett) — four modes, sistrum, 64Hz purr

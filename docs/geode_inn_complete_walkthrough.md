@@ -645,7 +645,7 @@ The player must help the One Who Tends tend the giant's dream — by walking the
 
 ## 6.9 — The Mediterranean Zone
 
-**The Gardener** (The Greenward, Sylvester McCoy) — resident keeper of the Inn's garden. Grows through communion (asking the garden), opposite of the Catalyst's will (telling the garden). Singing vines connect the garden to the Music Room (vines sing when someone pays attention = the Song in plants). Hedgehogs are the smallest NPCs.
+**The Gardener** (The Greenward) — resident keeper of the Inn's garden. Grows through communion (asking the garden), opposite of the Catalyst's will (telling the garden). Singing vines connect the garden to the Music Room (vines sing when someone pays attention = the Song in plants). Hedgehogs are the smallest NPCs.
 
 **The Bearsark** (Mikael Persbrandt) — binary shifter (man/bear), Mediterranean border guardian. Both forms real — Kali can't cut.
 
@@ -1157,7 +1157,7 @@ This narrative runs UNDERNEATH all game mechanics. The stones, the map, the Fae 
 | Zorya Polunochnaya | Tilda Swinton | Slavic | "The First Word" |
 | Erik | Peter Gantzler | Norse | "The Feast Fire" |
 | The Wayfarer | Alexander Dreymon | Wandering | Campfire/clarity |
-| The Gardener | Sylvester McCoy | Mediterranean | Garden communion |
+| The Gardener | original face (casting retired, the Oleander precedent) | Mediterranean | Garden communion |
 | The Bearsark | Mikael Persbrandt | Mediterranean border | Binary shifter |
 | Medusa | Angelica Huston | Mediterranean | The preserver, waits for the Song |
 | Bastet | Angela Bassett | Egyptian (cats) | Four modes, sistrum, 64Hz |

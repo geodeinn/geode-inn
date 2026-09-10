@@ -28,7 +28,7 @@ Detailed NPC design document for 'Jaime' — 'The Living Archive'.
 - Character Concept: Scientist, linguist, puzzle architect, and walking periodic table. Real-world inspired NPC who published a teaching language for STEM/programming, designs Mensa puzzles, and adores reptiles/goth culture.
 - Game Mechanics: Periodic Skin (tattoos as puzzle interfaces), Expansion Tattoos, Star-Language living dictionary, and reading systems.
 - Locations & Companions: Placed primarily in Atlantis (Luis Royo style library) with a Murloc companion and reptile theme.
-- Dynamic Connections: Detailed relationship mechanics with the Astronomer, Librarian, Medusa, Zorya, Siren, Radagast, The Guest, and Nyx, as well as the 'Squeak Protocol' when nervous.============================================================
+- Dynamic Connections: Detailed relationship mechanics with the Astronomer, Librarian, Medusa, Zorya, Siren, Sorrel, The Guest, and Nyx, as well as the 'Squeak Protocol' when nervous.============================================================
 
 Document: Document (2).docx (document_2.txt)
 Character Count: 56,710 characters

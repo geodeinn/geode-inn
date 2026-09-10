@@ -145,8 +145,8 @@ Recovered from library/art (66 images, uploaded 2026-09-04). Filenames are legac
 <img src="https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/65fb699cb_The_Frozen_Court_Fae_Kingdom_Shadow.png" width="340" alt=""/>
 <hr/>
 ### The Greenward, the Gardener
-<code>The_Gardener_Radagast.png</code> — *legacy filename*
-<img src="https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/aa895fe33_The_Gardener_Radagast.png" width="340" alt=""/>
+<code>The_Gardener_Sorrel.png</code> — *legacy filename*
+<img src="https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/aa895fe33_The_Gardener_Sorrel.png" width="340" alt=""/>
 <hr/>
 ### The Gold City — Undercity (Shadow mode)
 <code>The_Gold_City_Undercity_Shadow.png</code> — *zone Shadow art*

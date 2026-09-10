@@ -386,7 +386,7 @@ peruvian_guide_profile = {
 ---
 
 #### 10. The Greenward (The Gardener) — Mediterranean Zone Resident
-**Actor:** Sylvester McCoy | **Zone:** The Garden, Mediterranean
+**Actor:** original face (casting retired) | **Zone:** The Garden, Mediterranean
 
 | Parameter | Value |
 |---|---|
@@ -402,7 +402,7 @@ peruvian_guide_profile = {
 
 **Godot Parameters:**
 ```gdscript
-radagast_profile = {
+sorrel_profile = {
     "pitch_hz": 150.0,
     "reveal_speed_ms": 60,
     "pause_ms": 500,
@@ -838,7 +838,7 @@ static func get_profile(character_id: String) -> Dictionary:
             "special": {"weather_emotional_link": true, "condor_companion": true}
         },
         
-        "radagast": {
+        "sorrel": {
             "pitch_hz": 150.0,
             "pitch_end_hz": 150.0,
             "reveal_speed_ms": 60,

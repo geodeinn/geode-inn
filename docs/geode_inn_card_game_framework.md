@@ -447,7 +447,7 @@ Rarity: Legendary
 
 ---
 
-**RADAGAST (The Gardener)**
+**SORREL (The Gardener)**
 Frequency: ROOT (2) + FIRE (1) — Total cost: 3
 Type: Character — Guide — Wizard
 Presence: 2 | Resonance: 5 | Cadence: Next Turn

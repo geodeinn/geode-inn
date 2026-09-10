@@ -444,7 +444,7 @@ Direct Items: 39
       Modified: 2026-08-25T04:41:34.391Z
       File ID: 1N0i0CnTZ6Tw06OPOq0S22wJKlCfA2q9v
 
-  [30] Name: the_gardener_radagast_v2.png
+  [30] Name: the_gardener_sorrel_v2.png
       Type: JPEG Image (image/jpeg)
       Size: 268.25 KB (274,693 bytes)
       Modified: 2026-08-25T04:41:35.710Z

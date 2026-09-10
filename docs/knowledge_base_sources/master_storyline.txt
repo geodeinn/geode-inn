@@ -180,7 +180,7 @@ Asgard — "The High Place"
 * Residents: The Allfather, The Constant (Annunaki), The Astronomer, Nyx, The Guest (Death), The Lighthouse/Owl
 Vanaheim — "The Green World"
 * Inn Location: Upstairs, nature/seasonal wing
-* Ruling Presence: The Gardener (Radagast the Brown — Sylvester McCoy). Freyr and Freyja — to be designed
+* Ruling Presence: The Gardener (Sorrel the Brown). Freyr and Freyja — to be designed
 * Theme: Fertility, seasons, the cycle of growth and harvest, seidr magic
 * Quest Type: Seasonal rituals — planting, harvest, the turning of the year
 * Connects to: The druidic seasonal quests, the Sacred Grove's solstice mechanics, Beorn (the binary shifter)
@@ -240,7 +240,7 @@ Asgard (Upstairs / Cosmology)
 * The Lighthouse — Stone tower (sleeping giant's raised hand). Light: 42Hz piezoluminescence. Sweeps at 50 BPM. Keeper: THE OWL. Quest "The Fixed Point."
 * The Caller Gargoyle — 432Hz. White limestone, head tilted back, calling upward.
 Vanaheim (Upstairs / Seasonal Wing)
-* The Gardener (Radagast the Brown — Sylvester McCoy) — Grows through communion (asking the garden). Singing vines connect the garden to the Music Room. Hedgehogs are the smallest NPCs.
+* The Gardener (Sorrel the Brown) — Grows through communion (asking the garden). Singing vines connect the garden to the Music Room. Hedgehogs are the smallest NPCs.
 * Beorn (Mikael Persbrandt) — Binary shifter (man/bear), Mediterranean border guardian. Both forms real.
 * Vanir gods (Freyr, Freyja) — to be designed
 Alfheim (Fae Kingdom — Seelie Court)

@@ -19,7 +19,7 @@
 12. [The Sacred Trio — The Host, The Catalyst, The Ragana](#12-the-sacred-trio-the-host-the-catalyst-the-crone)
 13. [The Retort & The Cook — Alchemical Laboratory & Kitchen](#13-the-retort--the-cook-alchemical-laboratory--kitchen)
 14. [The Retort's Two Frustrations — The Bloop & Tesla](#14-the-retorts-two-frustrations-the-bloop--tesla)
-15. [The Gardener & The Bearsark — The Greenward & The Wild Guardian](#15-the-gardener--beorn-radagast--the-wild-guardian)
+15. [The Gardener & The Bearsark — The Greenward & The Wild Guardian](#15-the-gardener--beorn-sorrel--the-wild-guardian)
 16. [The Bard & The Pirate — Anchor, Sail, & Deep Friendship](#16-the-bard--the-pirate-anchor-sail--deep-friendship)
 17. [The Dread Pirate Roberts — Succession, Mask, & Legacy](#17-the-dread-pirate-roberts-succession-mask--legacy)
 18. [The Pirate & The Tidal Caves — Coastal Gateways & Hidden Worlds](#18-the-pirate--the-tidal-caves-coastal-gateways--hidden-worlds)
@@ -370,7 +370,7 @@ The deep ocean combustion frequency of the Bloop (19Hz) and Tesla's high-voltage
 
 ---
 
-## 15. THE GARDENER & BEORN — RADAGAST & THE WILD GUARDIAN
+## 15. THE GARDENER & BEORN — SORREL & THE WILD GUARDIAN
 
 ### Visual DNA & Aesthetic Synthesis
 * **Living Inn (42Hz - Klimt Aesthetic):** The Greenward lives in an overgrown cottage completely consumed by golden sunflower vines, nests, and moss. Honeycomb beehives glitter like gold leaf in warm sunlight. The Bearsark sits on a massive timber porch—an enormous, gentle man illuminated by warm golden light, surrounded by giant golden honeybees and sleeping hedgehogs.

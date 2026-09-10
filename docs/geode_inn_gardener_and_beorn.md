@@ -86,7 +86,7 @@ The Mediterranean zone is the *threshold* between the surface world (the olive g
 
 | Parameter | Value |
 |---|---|
-| **Reference Actor** | Sylvester McCoy (The Hobbit films) |
+| **Reference Actor** | original face (casting retired) (The Hobbit films) |
 | **Cadence** | Distracted-wandering — sentences that start one direction and drift another, the speech of someone whose attention is genuinely divided between the conversation and the six other living things he's aware of at any moment. The sentence doesn't lose its way — it takes the scenic route. The destination is reached, but the path includes a bird, a root, and a hedgehog. |
 | **Text Reveal Speed** | ~60ms per character (slow — The Greenward doesn't rush. The words come when they come. The garden doesn't rush either. The pace of the sentence is the pace of growth — not slow because it's lazy, slow because it's *thorough*) |
 | **Pause Between Sentences** | ~500ms (the pause where The Greenward checks on something — a plant, a creature, the soil. The pause is not empty. The pause is *full of attention directed elsewhere.* The player can hear the garden in the pause — the ambient life, the growth, the hum) |

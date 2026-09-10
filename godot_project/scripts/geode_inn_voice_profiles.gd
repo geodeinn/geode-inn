@@ -196,7 +196,7 @@ static func get_profile(character_id: String) -> Dictionary:
 			"special": {"weather_emotional_link": true, "condor_companion": true}
 		},
 		
-		"radagast": {
+		"sorrel": {
 			"pitch_hz": 150.0,
 			"pitch_end_hz": 150.0,
 			"reveal_speed_ms": 60,
@@ -1359,7 +1359,7 @@ static func get_all_character_ids() -> Array:
 		"siren_inner",
 		"shifting_man",
 		"peruvian_guide",
-		"radagast",
+		"sorrel",
 		"beorn",
 		"medusa",
 		"host",

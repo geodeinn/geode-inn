@@ -8,7 +8,7 @@
 | Current Name | Source | Issue | Proposed Replacement |
 |---|---|---|---|
 | **Mim** | T.H. White's "The Sword in the Stone" (1938), Disney (1963) | Named character from copyrighted novel/film | **Mimic** — keeps the "Mim" sound Krista loves, makes it original, and the word "mimic" perfectly describes her function (she mimics, mirrors, and breaks formulas by doing the wrong version) |
-| **Radagast the Brown** | Tolkien, The Hobbit/LOTR | Named character from copyrighted works | **The Greenward** — title-based, fits the Inn's naming convention (the Constant, the Ragana, the Host). "Greenward" = green + warden. He wards the green. |
+| **Sorrel the Brown** | Tolkien, The Hobbit/LOTR | Named character from copyrighted works | **The Greenward** — title-based, fits the Inn's naming convention (the Constant, the Ragana, the Host). "Greenward" = green + warden. He wards the green. |
 | **Beorn** | Tolkien, The Hobbit | Named character from copyrighted works | **The Bearsark** — a play on "berserker" (Norse bear-warriors), original compound. He IS the bear-sark: the skin that shifts between man and bear. |
 | **Malachi** | Labyrinth (1986, Lucasfilm/Henson) | Named character from copyrighted film | **The Ravel** — from "unravel/ravel," the one who raveled the labyrinth. Sounds like a name, functions as a title. He IS the tangle. |
 | **Uhtred** | Bernard Cornwell, The Saxon Stories / The Last Kingdom | Named character from copyrighted novels | **The Wayfarer** — title-based, fits the Inn's convention. He walks the roads between zones. "Destiny is all" stays — it's a translation of the Old English concept of wyrd, public domain. |
@@ -54,7 +54,7 @@ Beyond name changes, any DIRECT QUOTES from copyrighted works need to become ori
 
 ## SUMMARY
 
-**Must change:** 9 names (Mim → Brim, Radagast → The Greenward, Beorn → The Bearsark, Malachi → Malachi, Uhtred → The Wayfarer, Aughra → Fibonacci, Archimedes owl → Noctua, Ryuk form → True Form, Wednesday Addams → Belladonna) — ALL CONFIRMED by Krista 2026-09-03
+**Must change:** 9 names (Mim → Brim, Sorrel → The Greenward, Beorn → The Bearsark, Malachi → Malachi, Uhtred → The Wayfarer, Aughra → Fibonacci, Archimedes owl → Noctua, Ryuk form → True Form, Wednesday Addams → Belladonna) — ALL CONFIRMED by Krista 2026-09-03
 
 **Review:** 2 names (Cabbit, Leonard Cohen)
 

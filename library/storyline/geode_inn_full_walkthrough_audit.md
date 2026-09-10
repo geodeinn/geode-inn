@@ -211,7 +211,7 @@ Each platform has a vendor and connects to a cultural zone:
 - **Theme:** Inca terraces = dream-language visible (geological star-language); Apus are ancient geological beings who chose to sleep
 
 ### 5.8 — The Mediterranean Zone (Garden / Labyrinth Border)
-- **Guides:** The Gardener / The Greenward (Sylvester McCoy); The Bearsark (Mikael Persbrandt)
+- **Guides:** The Gardener / The Greenward; The Bearsark (Mikael Persbrandt)
 - **Key NPC:** Medusa (Angelica Huston) — geological petrification; lithophone
 - **Quest:** "The Gorgon's Garden" — Medusa's lithophone plays the Song captured in stone
 - **Items:** Medusa's Lithophone; hedgehogs (smallest NPCs)

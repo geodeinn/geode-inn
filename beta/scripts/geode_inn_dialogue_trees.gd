@@ -674,12 +674,12 @@ static func get_dialogue_trees() -> Dictionary:
 		"setFlags": ["met_inner_siren", "tidal_caves_visited"]
 	},
 
-	# === RADAGAST — Garden (communion with growing things) ===
-	"radagast_001": {
+	# === SORREL — Garden (communion with growing things) ===
+	"sorrel_001": {
 		"npcName": "The Greenward",
 		"zone": "Garden",
 		"hookWord": "grow",
-		"voiceProfile": "radagast",
+		"voiceProfile": "sorrel",
 		"questLink": "",
 		"conditionTag": "",
 		"priority": 1,
@@ -692,33 +692,33 @@ static func get_dialogue_trees() -> Dictionary:
 			"The hedgehog is named Reginald. Reginald does not respond to frequency. Reginald responds to mealworms."
 		],
 		"responses": [
-			{"text": "What does the garden grow?", "next": "radagast_002"},
-			{"text": "Can you teach me about frequency and plants?", "next": "radagast_003"},
-			{"text": "Hello, Reginald.", "next": "radagast_004"}
+			{"text": "What does the garden grow?", "next": "sorrel_002"},
+			{"text": "Can you teach me about frequency and plants?", "next": "sorrel_003"},
+			{"text": "Hello, Reginald.", "next": "sorrel_004"}
 		],
-		"setFlags": ["met_radagast"]
+		"setFlags": ["met_sorrel"]
 	},
-	"radagast_002": {
+	"sorrel_002": {
 		"npcName": "The Greenward",
 		"zone": "Garden",
 		"hookWord": "grow",
-		"voiceProfile": "radagast",
+		"voiceProfile": "sorrel",
 		"lines": [
 			"Medicinal herbs. Mineral-rich roots. Flowering plants that only bloom when specific frequencies are played.",
 			"The Luminwood tree — you've heard of it? Only grows in Fae light. I've been trying to grow one [i]here[/i] for... well. It hasn't worked yet. The Fae light is specific.",
 			"The Bog Fairy Golem has better luck in the Bayou. Different soil. Different intention. Growing things is [i]local[/i]."
 		],
 		"responses": [
-			{"text": "Can you teach me about frequency and plants?", "next": "radagast_003"},
-			{"text": "Hello, Reginald.", "next": "radagast_004"}
+			{"text": "Can you teach me about frequency and plants?", "next": "sorrel_003"},
+			{"text": "Hello, Reginald.", "next": "sorrel_004"}
 		],
 		"setFlags": []
 	},
-	"radagast_003": {
+	"sorrel_003": {
 		"npcName": "The Greenward",
 		"zone": "Garden",
 		"hookWord": "grow",
-		"voiceProfile": "radagast",
+		"voiceProfile": "sorrel",
 		"lines": [
 			"Plants hear through their roots. Not metaphor — [i]mechanoreception[/i]. The root tips sense vibration in the soil.",
 			"42Hz makes roots grow deeper. 111Hz makes them branch wider. 528Hz — the repair frequency — helps damaged plants heal.",
@@ -726,22 +726,22 @@ static func get_dialogue_trees() -> Dictionary:
 			"[i]Reginald snores.[/i]"
 		],
 		"responses": [
-			{"text": "Hello, Reginald.", "next": "radagast_004"}
+			{"text": "Hello, Reginald.", "next": "sorrel_004"}
 		],
 		"setFlags": ["learned_plant_frequencies"]
 	},
-	"radagast_004": {
+	"sorrel_004": {
 		"npcName": "The Greenward",
 		"zone": "Garden",
 		"hookWord": "grow",
-		"voiceProfile": "radagast",
+		"voiceProfile": "sorrel",
 		"lines": [
 			"[i]Reginald opens one eye. Closes it. The hedgehog equivalent of a nod.[/i]",
 			"He likes you. He doesn't like everyone. The hedgehog is an excellent judge of character.",
 			"Come back when you want to learn more about growing things. Or when you find a new frequency. I collect those. Like some people collect stones."
 		],
 		"responses": [],
-		"setFlags": ["met_radagast", "garden_visited", "reginald_approval"]
+		"setFlags": ["met_sorrel", "garden_visited", "reginald_approval"]
 	},
 
 	# === UHTRED — (verdict cadence, war drum fingers) ===

@@ -657,23 +657,23 @@
     "hookWord": "listen"
   },
   {
-    "dialogueId": "radagast_001",
+    "dialogueId": "sorrel_001",
     "lines": [],
     "responses": [],
     "setFlags": [
-      "met_radagast"
+      "met_sorrel"
     ],
     "questLink": "",
     "conditionTag": "",
     "priority": 1,
     "isWhisperLayer": false,
-    "voiceProfile": "radagast",
+    "voiceProfile": "sorrel",
     "npcName": "The Greenward",
     "zone": "Garden",
     "hookWord": "grow"
   },
   {
-    "dialogueId": "radagast_002",
+    "dialogueId": "sorrel_002",
     "lines": [
       "Medicinal herbs. Mineral-rich roots. Flowering plants that only bloom when specific frequencies are played."
     ],
@@ -683,13 +683,13 @@
     "conditionTag": "",
     "priority": 1,
     "isWhisperLayer": false,
-    "voiceProfile": "radagast",
+    "voiceProfile": "sorrel",
     "npcName": "The Greenward",
     "zone": "Garden",
     "hookWord": "grow"
   },
   {
-    "dialogueId": "radagast_003",
+    "dialogueId": "sorrel_003",
     "lines": [],
     "responses": [],
     "setFlags": [
@@ -699,17 +699,17 @@
     "conditionTag": "",
     "priority": 1,
     "isWhisperLayer": false,
-    "voiceProfile": "radagast",
+    "voiceProfile": "sorrel",
     "npcName": "The Greenward",
     "zone": "Garden",
     "hookWord": "grow"
   },
   {
-    "dialogueId": "radagast_004",
+    "dialogueId": "sorrel_004",
     "lines": [],
     "responses": [],
     "setFlags": [
-      "met_radagast",
+      "met_sorrel",
       "garden_visited",
       "reginald_approval"
     ],
@@ -717,7 +717,7 @@
     "conditionTag": "",
     "priority": 1,
     "isWhisperLayer": false,
-    "voiceProfile": "radagast",
+    "voiceProfile": "sorrel",
     "npcName": "The Greenward",
     "zone": "Garden",
     "hookWord": "grow"

@@ -135,7 +135,7 @@ All character images have been uploaded to app storage. Below is the COMPLETE ma
 - Erik → https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/6f19d7a41_erik_v2.png
 - The Wayfarer → https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/999e6d559_uhtred_v2.png
 - The Bearsark → https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/b91a1e139_beorn.png
-- The Greenward → https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/a1a12a317_the_gardener_radagast_v2.png
+- The Greenward → https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/a1a12a317_the_gardener_sorrel_v2.png
 - Artisan Thief (Selkie) → https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/f3101ff65_artisan_thief_selkie.png
 - Bard Blowhard → https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/0be6c449a_bard_blowhard.png
 

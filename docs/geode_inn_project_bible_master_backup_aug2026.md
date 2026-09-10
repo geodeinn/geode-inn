@@ -52,7 +52,7 @@ The Geode Inn is a hybrid digital archive, game hub, and artisan market built as
 | geode_inn_slavic_zone.md | Slavic zone — The Fjord of Stars. Aurora borealis star-language, three phases (green/violet/white). Zorya Polunochnaya (Tilda Swinton). "The First Word" quest |
 | geode_inn_peruvian_zone.md | Peruvian zone — The Sleeping Giants. Apus as ancient geological beings, Inca terraces as dream-language. The One Who Tends (Q'orianka Kilcher) |
 | geode_inn_greece_zone.md | Greece zone — reimagined in Monet's style (predecessor to the Aegean Light document) |
-| geode_inn_gardener.md | The Gardener — The Greenward (Sylvester McCoy), Mediterranean zone keeper, communion with the garden |
+| geode_inn_gardener.md | The Gardener — The Greenward, Mediterranean zone keeper, communion with the garden |
 | geode_inn_gardener_and_beorn.md | The Greenward and The Bearsark (Mikael Persbrandt) — binary shifter, Mediterranean border guardian. Singing vines, hedgehogs |
 | geode_inn_medusa.md | Medusa (Angelica Huston) — the preserver. Petrified the giants at their request. Lithophone. Waiting for the complete Song to freeze the singing vines |
 | geode_inn_poison_garden.md | The Poison Garden — design document |
@@ -449,7 +449,7 @@ Runs through: underground altar → Inn structure → lighthouse beam → Pirate
 - Erik (Peter Gantzler) — Norse, warm Viking, feast fire
 - The Wayfarer (Alexander Dreymon) — wandering neutralizer, campfire/clarity
 - The One Who Tends (Q'orianka Kilcher) — Peruvian, sleeping giants
-- The Gardener/The Greenward (Sylvester McCoy) — Mediterranean, communion with garden
+- The Gardener/The Greenward — Mediterranean, communion with garden
 - The Bearsark (Mikael Persbrandt) — Mediterranean border guardian
 - Medusa (Angelica Huston) — the preserver, waiting for the complete Song
 - Bastet (Angela Bassett) — four modes, sistrum, 64Hz purr

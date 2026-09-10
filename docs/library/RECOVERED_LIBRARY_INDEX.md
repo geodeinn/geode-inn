@@ -77,7 +77,7 @@
 - The_Fallen_Pantheon_Greece_Shadow.png — → gallery/assets
 - The_Fixer_Wrought.png — → gallery/assets
 - The_Frozen_Court_Fae_Kingdom_Shadow.png — → gallery/assets
-- The_Gardener_Radagast.png — → gallery/assets
+- The_Gardener_Sorrel.png — → gallery/assets
 - The_Gold_City_Undercity_Shadow.png — → zone_specs (promote if complete)
 - The_Guest_Death.png — → gallery/assets
 - The_Keeper_Aughra.png — → gallery/assets

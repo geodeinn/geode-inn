@@ -124,7 +124,7 @@
     "questName": "The Awakening",
     "appearance": "A hedgehog charm \u2014 a tiny rolled creature that uncurls when the player is still for 2 minutes",
     "description": "The Greenward's sigil. Awarded for calming Medusa's snakes for one minute so she could see a hedgehog alive. The smallest NPC becomes the largest reward.",
-    "earnedFrom": "The Greenward (Sylvester McCoy)",
+    "earnedFrom": "The Greenward",
     "npcConnection": "The Gardener",
     "storyThread": "The Root",
     "zone": "Garden",

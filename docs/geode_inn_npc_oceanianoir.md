@@ -213,7 +213,7 @@ Oceanianoir lives in the drowned library. The both are: the adequate — the sci
 - The burlesque performer and the room-filling performer. The both are: the adequate — the stage and the spectacle, the both are: the same art, different scale
 - Oceanianoir teaches the Siren that performance doesn't have to be a wall. The Siren teaches Oceanianoir that vulnerability doesn't have to be a weakness. The both are: the adequate — the armor and the openness, the both are: the same strength, different costume
 
-### Oceanianoir × The Greenward (Sylvester McCoy)
+### Oceanianoir × The Greenward
 - The reptile lover and the animal whisperer. The both are: the adequate — the science and the communion, the both are: the same bond, different method
 - The Greenward talks to animals. Oceanianoir classifies them. The both are: the adequate — the conversation and the catalog, the both are: the same creature, different understanding
 - The dragon visits both of them — The Greenward's garden and Oceanianoir's library. The both are: the adequate — the garden and the archive, the both are: the same warmth, different hearth

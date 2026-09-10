@@ -97,7 +97,7 @@
 | Thorin | https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/91c858ca2_thorin_v3.png |
 | Marijke | https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/b6f85756a_marijke.png |
 | The Pirate | https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/7b2ab100f_the_pirate_v2.png |
-| The Gardener (The Greenward) | https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/f45453707_the_gardener_radagast_v2.png |
+| The Gardener (The Greenward) | https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/f45453707_the_gardener_sorrel_v2.png |
 | The Astronomer | https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/f67ee3759_the_astronomer_v2.png |
 | Hel | https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/ca65ce3c9_hel_v2.png |
 | Seelie King | https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/f4ad9f2b8_seelie_king_v2.png |
@@ -254,8 +254,8 @@ Filenames are legacy per the naming policy; display names are canonical (see cha
   - File: `The_Frozen_Court_Fae_Kingdom_Shadow.png`
   - URL: https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/65fb699cb_The_Frozen_Court_Fae_Kingdom_Shadow.png
 - The Greenward, the Gardener (legacy filename)
-  - File: `The_Gardener_Radagast.png`
-  - URL: https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/aa895fe33_The_Gardener_Radagast.png
+  - File: `The_Gardener_Sorrel.png`
+  - URL: https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/aa895fe33_The_Gardener_Sorrel.png
 - The Gold City — Undercity, Shadow mode
   - File: `The_Gold_City_Undercity_Shadow.png`
   - URL: https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/4bfca521c_The_Gold_City_Undercity_Shadow.png

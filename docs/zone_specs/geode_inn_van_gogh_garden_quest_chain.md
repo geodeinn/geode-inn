@@ -9,7 +9,7 @@ The Garden's aesthetic bible already exists in the recovered library (library/zo
 
 The science is the lesson (the parks law, continued): young sunflowers track the sun on a real circadian rhythm, companion planting is real horticulture, olive trees really do take decades to fruit, and a real time-lapse of any vine proves the swirl isn't metaphor — plants MOVE. Van Gogh saw it a century before cameras could show it to everyone else. The garden is his vindication, grown green.
 
-**Giver:** The Catalyst (red — fire, will, performance; the wild garden's grower, the bar's botanist). The Gardener (Radagast, green — patience, knowledge, hands) takes over at the tended field.
+**Giver:** The Catalyst (red — fire, will, performance; the wild garden's grower, the bar's botanist). The Gardener (Sorrel, green — patience, knowledge, hands) takes over at the tended field.
 **Access:** The Catalyst's garden: behind the bar, the impossible door (the garden that shouldn't fit in the Inn's architecture and does, because the Catalyst grew it there). The Gardener's garden: Vanaheim.
 **Prerequisite:** None. The garden takes guests the way gardens take sun — everyone, evenly.
 **Reward spine:** the attention → the sunflowers' why → the seeds → the story → the plot of one's own.
@@ -31,7 +31,7 @@ The sunflowers. The science first, played straight: the young blooms track the s
 **Reward:** A sunflower head, heavy with seed (the first entry in the seed pouch — see Quest 4).
 
 ### Quest 4 — "The Seed-Saver"
-The Gardener's garden in Vanaheim — Auvers in rows: the wildness held in structure, alive differently, the energy pressing outward and the structure strong enough to hold it. Radagast teaches the companion rows (roses and herbs, pomegranate and sage — the real horticulture of plants that protect each other), the olive trees that take decades to fruit ("the waiting is the growing"), and the season's law: the garden does not avoid the ending. The garden INCLUDES the ending — the wheat harvested, the crows arriving, the season closing. And the seeds saved. The player walks the harvest, meets the crows (who are not villains — they are the season's punctual guests), and saves seed from what ended. The saving is the carrying. The carrying is the kindness.
+The Gardener's garden in Vanaheim — Auvers in rows: the wildness held in structure, alive differently, the energy pressing outward and the structure strong enough to hold it. Sorrel teaches the companion rows (roses and herbs, pomegranate and sage — the real horticulture of plants that protect each other), the olive trees that take decades to fruit ("the waiting is the growing"), and the season's law: the garden does not avoid the ending. The garden INCLUDES the ending — the wheat harvested, the crows arriving, the season closing. And the seeds saved. The player walks the harvest, meets the crows (who are not villains — they are the season's punctual guests), and saves seed from what ended. The saving is the carrying. The carrying is the kindness.
 **Reward:** The seed pouch (persists across reincarnations, the pit-house precedent gone green — the player's carried seeds plant themselves wherever the player settles, and the ruins of old lives bloom).
 
 ### Quest 5 — "The Story-Born"
@@ -50,7 +50,7 @@ The finale plays the Saint-Rémy law gently and straight: golden hour in the Cat
 |-----------|-----------|
 | The aesthetic bible | The recovered doc (impasto/complementary pairs/the swirl/the two gardens) is the chain's canon source — promoted to docs/ with the recovered library index |
 | The Catalyst | Red — the red/green complementary pair with the Gardener IS their friendship, vibrating like their palette |
-| Radagast (the Gardener) | The Auvers side; the olive tree edge shared with the Mediterranean platform ties this chain to the Greek chain's gardener |
+| Sorrel (the Gardener) | The Auvers side; the olive tree edge shared with the Mediterranean platform ties this chain to the Greek chain's gardener |
 | The Poison Garden (z10) | The sibling law: the Poison Garden teaches presence WITHOUT contact; this garden teaches presence AS contact — the two gardens are the Inn's two hands |
 | The Redwood Cathedral (z23) | The patience lineage: the olive tree's decades, the redwood's millennia, the mountain's eras — the same lesson at three speeds |
 | EchoMemory | Quest 5's story-telling draws real moments — the fifth Story-Born is grown from actual player history |

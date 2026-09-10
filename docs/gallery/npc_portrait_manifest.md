@@ -41,7 +41,7 @@ Total: 41 portraits found.
 | Thorin | thorin_v3.png | 2 | ✅
 | Marijke | marijke.png | 2 | ✅
 | The Pirate | the_pirate_v2.png | 2 | ✅
-| The Gardener | the_gardener_radagast_v2.png | 2 | ✅
+| The Gardener | the_gardener_sorrel_v2.png | 2 | ✅
 | The Astronomer | the_astronomer_v2.png | 2 | ✅
 | Council of Thinkers | council_of_thinkers.png | 2 | ✅
 | The Thrum | the_thrum.png | 2 | ✅

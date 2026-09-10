@@ -192,7 +192,7 @@ The Inn does not display art on walls. The Inn's environments ARE the art — ea
 
 ### Vanaheim — "The Green World"
 - **Inn Location:** Upstairs, nature/seasonal wing
-- **Ruling Presence:** The Gardener (The Greenward — Sylvester McCoy). Freyr and Freyja — *to be designed*
+- **Ruling Presence:** The Gardener(The Greenward). Freyr and Freyja — *to be designed*
 - **Theme:** Fertility, seasons, the cycle of growth and harvest, seidr magic
 - **Quest Type:** Seasonal rituals — planting, harvest, the turning of the year
 - **Connects to:** The druidic seasonal quests, the Sacred Grove's solstice mechanics, The Bearsark (the binary shifter)
@@ -261,7 +261,7 @@ The Inn does not display art on walls. The Inn's environments ARE the art — ea
 - **The Caller Gargoyle** — 432Hz. White limestone, head tilted back, calling upward.
 
 ## Vanaheim (Upstairs / Seasonal Wing)
-- **The Gardener (The Greenward — Sylvester McCoy)** — Grows through communion (asking the garden). Singing vines connect the garden to the Music Room. Hedgehogs are the smallest NPCs.
+- **The Gardener(The Greenward)** — Grows through communion (asking the garden). Singing vines connect the garden to the Music Room. Hedgehogs are the smallest NPCs.
 - **The Bearsark (Mikael Persbrandt)** — Binary shifter (man/bear), Mediterranean border guardian. Both forms real.
 - *Vanir gods (Freyr, Freyja) — to be designed*
 

@@ -380,7 +380,7 @@ Three-layer persona:
 3. The Grounded Self — the private person beneath the performance, the one who grows portal arrows and botanical ingredients, who has a secret expertise in botany and nature
 
 
-The Catalyst vs. the Gardener: The Catalyst grows through WILL (telling the garden what to do). The Gardener (Radagast) grows through COMMUNION (asking the garden what it needs). They trade plants: fast-growers that Radagast settles, slow-growers the Catalyst can't rush. Their rivalry is symbiotic — they need each other.
+The Catalyst vs. the Gardener: The Catalyst grows through WILL (telling the garden what to do). The Gardener (Sorrel) grows through COMMUNION (asking the garden what it needs). They trade plants: fast-growers that Sorrel settles, slow-growers the Catalyst can't rush. Their rivalry is symbiotic — they need each other.
 
 
 Voice profile: Helena Bonham Carter's Mrs. Lovett energy — rapid, warm, performative, the voice that fills a room. But when she's alone with a seed (the Examiner's story), the voice drops to a murmur. The Catalyst's true voice is the murmur.
@@ -678,7 +678,7 @@ Platform
 	Feast fire welcome
 	Mediterranean
 	Thalia
-	The Gardener (Radagast)
+	The Gardener (Sorrel)
 	Garden communion
 	Neutral
 	The Keeper
@@ -880,7 +880,7 @@ ________________
 
 
 6.9 — The Mediterranean Zone
-The Gardener (Radagast the Brown, Sylvester McCoy) — resident keeper of the Inn's garden. Grows through communion (asking the garden), opposite of the Catalyst's will (telling the garden). Singing vines connect the garden to the Music Room (vines sing when someone pays attention = the Song in plants). Hedgehogs are the smallest NPCs.
+The Gardener (Sorrel the Brown) — resident keeper of the Inn's garden. Grows through communion (asking the garden), opposite of the Catalyst's will (telling the garden). Singing vines connect the garden to the Music Room (vines sing when someone pays attention = the Song in plants). Hedgehogs are the smallest NPCs.
 
 
 Beorn (Mikael Persbrandt) — binary shifter (man/bear), Mediterranean border guardian. Both forms real — Kali can't cut.
@@ -1685,7 +1685,7 @@ Guide
 	Wandering
 	Campfire/clarity
 	The Gardener
-	Sylvester McCoy
+	original face (casting retired)
 	Mediterranean
 	Garden communion
 	Beorn

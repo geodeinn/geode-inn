@@ -223,7 +223,7 @@ Major NPCs with portraits, plus the ten-member Clockwork Skies crew.
 *Zone: Garden (z28)*
 
 <table><tr>
-<td><b>Living (42Hz)</b><br/><img src="https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/bc4540a8b_the_gardener_radagast.png" width="280" alt=""/><br/><code>the_gardener_radagast.png</code></td>
+<td><b>Living (42Hz)</b><br/><img src="https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/bc4540a8b_the_gardener_sorrel.png" width="280" alt=""/><br/><code>the_gardener_sorrel.png</code></td>
 <td><b>Shadow (84Hz)</b><br/><img src="https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/90decd727_generated_image.png" width="190" alt=""/><br/><code>generated_image.png</code></td>
 <td><b>In-Between</b><br/><img src="https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/865d845f0_generated_image.png" width="190" alt=""/><br/><code>generated_image.png</code></td>
 </tr></table>

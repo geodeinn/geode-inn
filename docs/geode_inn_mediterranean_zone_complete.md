@@ -40,7 +40,7 @@ The zone's edge — where the Mediterranean meets the external zones (National P
 
 | NPC | Role | Design |
 |-----|------|--------|
-| **The Gardener** (Sylvester McCoy) | Zone guide — The Greenward energy, communion with plants | Chibi NPC — eccentric, earthy, speaks to birds |
+| **The Gardener** | Zone guide — The Greenward energy, communion with plants | Chibi NPC — eccentric, earthy, speaks to birds |
 | **Medusa** (Angelica Huston) | The Preserver — gorgon, keeper of frozen things | Full Presence — ancient, regal, the gaze is a gift |
 | **The Bearsark** (Mikael Persbrandt) | Border guardian — binary shifter (man/bear) | Full Presence — both forms real, Kali can't cut |
 | **The Olive Dryads** | Tree spirits — the olive grove's residents | Ambient — visible in Form Sight as silver-green forms |
@@ -50,7 +50,7 @@ The zone's edge — where the Mediterranean meets the external zones (National P
 
 ## The Gardener — Full Character
 
-The Gardener is The Greenward energy — Sylvester McCoy's eccentric, earthy, bird-speaking wizard. The Gardener grows through COMMUNION: asking the garden what it wants, not telling it. This is the opposite of the Catalyst (Helena Bonham Carter on the main floor), who shapes through WILL. The two are the zone's philosophical pair: the Gardener asks, the Catalyst commands. Both produce beauty. The method is the difference.
+The Gardener is The Greenward energy's eccentric, earthy, bird-speaking wizard. The Gardener grows through COMMUNION: asking the garden what it wants, not telling it. This is the opposite of the Catalyst (Helena Bonham Carter on the main floor), who shapes through WILL. The two are the zone's philosophical pair: the Gardener asks, the Catalyst commands. Both produce beauty. The method is the difference.
 
 **Voice:** McCoy's breathy, wandering, slightly distracted cadence. The Gardener talks to plants mid-sentence. The plants talk back (the player can't hear them — the Gardener can). The Gardener's dialogue is interrupted by bird sounds, leaf rustling, and the occasional hedgehog squeak.
 

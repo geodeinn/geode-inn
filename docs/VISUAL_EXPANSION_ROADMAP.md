@@ -63,7 +63,7 @@ From the portrait ledger, many NPCs have only shadow/in-between states but **no 
 
 #### Gorgon's Garden
 - Medusa
-- The Gardener (Radagast)
+- The Gardener (Sorrel)
 - Frozen vine creatures
 
 #### Hollow Earth

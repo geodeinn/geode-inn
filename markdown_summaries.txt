@@ -95,7 +95,7 @@ The Campaign Narrative is structured into 15 major sections spanning the cosmolo
 
 ### THE MAIN FLOOR
 * **The Crone:** Sits at a desk measuring everything. Her sole compliment is *"Adequate."* Through endless debates with Aristotle on measurement vs. classification, she learns to listen to the Song for the first time (*"I never listened before. I always measured. It's beautiful."*). Her twin/facet is Charon (mind vs. silence).
-* **The Catalyst:** Tends a bar/garden built into living bark. Grows things by biological WILL (forcing growth), contrasting with Radagast the Gardener who grows by COMMUNION. Linked to *The NeverEnding Story* (Bastian's wishing; the Inn as the grain of sand).
+* **The Catalyst:** Tends a bar/garden built into living bark. Grows things by biological WILL (forcing growth), contrasting with Sorrel the Gardener who grows by COMMUNION. Linked to *The NeverEnding Story* (Bastian's wishing; the Inn as the grain of sand).
 * **Madame Mim:** Shoulder companion and inner chaos agent riding a Magritte pipe. Breaks the rules/formulas held by the Vessel to reveal secret paths.
 * **The Arcade & Score Stone:** A physical wing with a 7-foot obsidian Score Stone leaderboard. Features cultural mini-games: *Standing Stones* (Tetris/Stonehenge -> Bluestone Key), *Tomb Tunnel* (Dig Dug/Egypt -> Obol Stones for Charon), *Andean Run* (Peridot/Inca), *Monster of the Deep* (Nessie empathy), and *Bastet's Herding* (Sistrum puzzle).
 * **The Thrum:** Translucent, flickering low-frequency entity that turns surrounding NPCs into silhouettes. Teaches that essence precedes appearance and timing precedes rhythm.
@@ -127,7 +127,7 @@ The Campaign Narrative is structured into 15 major sections spanning the cosmolo
 * **Slavic Zone (Fjord of Stars):** Fjord under three-phase aurora borealis. *Zorya Polunochnaya* plays a glass harp. Reading negative space reveals the new *Star-Glyph*.
 * **Indian Zone (Ghats of Kali):** Ganges riverbank. Kali cuts away false selves; final test requires stopping destruction (*"Enough"*).
 * **Norse Zone (Feast Hall):** Book of Kells aesthetic. *Erik* (warm hearth vendor who died by fire) welcomes outcasts. *Loki* stands on the frost/fire border. *Uhtred* neutralizes conflicts with campfires.
-* **Mediterranean Zone (Garden):** *Radagast* (communion gardening), *Beorn* (bear/man binary shifter), and *Medusa* (plays a lithophone; waiting for the completed Song to freeze singing vines into stone).
+* **Mediterranean Zone (Garden):** *Sorrel* (communion gardening), *Beorn* (bear/man binary shifter), and *Medusa* (plays a lithophone; waiting for the completed Song to freeze singing vines into stone).
 * **Camelot Platform & Egyptian Catacombs:** Complete the cultural perimeter.
 
 ### THE UNDERCITY
@@ -322,7 +322,7 @@ Characters are rated 1–10 across six primary stats:
 * **Aristotle** — Staircase / The Classifier (M:4, F:6, I:10, P:8, V:8, R:6)
 
 ### 6. CLERIC
-* **The Gardener** — Radagast / The Communion (M:4, F:6, I:8, P:7, V:8, R:8)
+* **The Gardener** — Sorrel / The Communion (M:4, F:6, I:8, P:7, V:8, R:8)
 * **The Bone Keeper** — Meadery / O'Keeffe Bone Art (M:5, F:7, I:8, P:6, V:8, R:6)
 * **The 6 Resonant Gargoyles:**
   * *Watcher* (111Hz Sentinel - V:9, R:8)

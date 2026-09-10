@@ -147,7 +147,7 @@ Accents are not assigned TO characters. Accents ARE the characters. The NPCs com
 | Erik | Norse elder | Norse (deep) | Norse zone | Feast-fire energy, expansive openness |
 | The Wayfarer | Alexander Dreymon | British/Norse | All (wandering) | War-drum fingers, level volume regardless of emotion |
 | The Bearsark | Mikael Persbrandt | Nordic | Mediterranean border | Body IS the instrument, bear always in the shoulders |
-| The Greenward (Gardener) | Sylvester McCoy | British (Scottish) | Mediterranean/Garden | Distracted cadence, sentences that branch mid-stream |
+| The Greenward (Gardener) | original face (casting retired, the Oleander precedent) | British (Scottish) | Mediterranean/Garden | Distracted cadence, sentences that branch mid-stream |
 
 #### Fae Court NPCs
 
@@ -268,7 +268,7 @@ character_profile = {
 
 ### Characters with Full Godot Profiles (in geode_inn_voice_profiles.gd)
 74 profiles now coded (all characters):
-erik, uhtred, one_who_is_awake, zorya, kali, pirate, siren (dual), shifting_man, peruvian_guide, radagast, beorn, medusa + all main floor NPCs from the voice signature catalog
+erik, uhtred, one_who_is_awake, zorya, kali, pirate, siren (dual), shifting_man, peruvian_guide, sorrel, beorn, medusa + all main floor NPCs from the voice signature catalog
 
 ### Characters with Godot Profiles — COMPLETE (74 profiles)
 All characters now have full Godot voice profiles including pitch, reveal speed, pause, expressiveness, instrument, cadence, facial intensity, gesture data, idle animations, light sources, and special mechanics.

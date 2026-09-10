@@ -90,9 +90,9 @@ These characters have 2+ image files. During placement review, you'll need to de
   - the_examiner.png
   - the_examiner_v2.png → revision
 
-**the_gardener_radagast** (2 versions):
-  - the_gardener_radagast.png
-  - the_gardener_radagast_v2.png → revision
+**the_gardener_sorrel** (2 versions):
+  - the_gardener_sorrel.png
+  - the_gardener_sorrel_v2.png → revision
 
 **the_guest_death** (2 versions):
   - the_guest_death.png

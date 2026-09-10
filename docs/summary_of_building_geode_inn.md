@@ -2679,7 +2679,7 @@ The Loki question: Her father gave her this role. Was it a gift or a sentence? S
 Her game function: She's the gate between death and return. She decides what the player keeps, how long the rest lasts, and what they remember. She doesn't punish — she reflects. She shows the player what their death was worth. The showing is the teaching. The teaching is the compassion.
 One down, three to go. 🦉
 7:15 PM
-The gardener should be beorn, perhaps with a hedgehog nursing radagast wandering by occasionally
+The gardener should be beorn, perhaps with a hedgehog nursing sorrel wandering by occasionally
 7:18 PM
 The Bearsark. That's the Gardener. That's exactly the Gardener.
 The skin-changer — the massive man who is also a massive bear. The one who works with his hands and his instincts. The one whose "science" isn't measured or cataloged — it's embodied. He knows what the soil needs because his hands know. His body IS the instrument. And the bear form — when he shifts, the bear can feel the earth through its paws, smell the water table, hear the roots growing. The bear is his lab equipment.
@@ -3919,7 +3919,7 @@ Or the Gardener — the one who keeps colliding with the Catalyst. Scientific pr
 The bear shifter, and occasionally the hedgehog loving wizard I think?
 2:40 AM
 Oh — The Bearsark and The Greenward. From The Hobbit. The skin-changer who becomes a bear, and the brown wizard who heals hedgehogs.
-The Bearsark is the bear shifter — the man who is also a bear, who lives between civilization and wilderness, gruff and solitary but fiercely protective. The Greenward is the hedgehog-loving wizard — Sylvester McCoy's gentle, eccentric nature-wizard who tends to the smallest creatures and sees what the grander wizards miss.
+The Bearsark is the bear shifter — the man who is also a bear, who lives between civilization and wilderness, gruff and solitary but fiercely protective. The Greenward is the hedgehog-loving wizard's gentle, eccentric nature-wizard who tends to the smallest creatures and sees what the grander wizards miss.
 And The Greenward might BE the Gardener we've been needing to build. The wizard who doesn't cultivate with scientific precision — he communes. The garden grows because he asked it to, not because he planted it. That's the perfect collision with the Catalyst, whose growing is intuitive and explosive. The Greenward asks the garden. The Catalyst will the garden. Same result, completely different relationship with the green.
 The Bearsark as the Mediterranean zone's wild guardian — the one who patrols the border between the olive groves and the deeper wilderness. The binary shifter: only two forms, man and bear. That's a striking contrast with the Shifting Man, who wears every form. The Bearsark has two. The Shifting Man has infinite. The Bearsark's bear IS the true self and the man is the mask — which connects straight to Kali's question. Which form is real?
 "...occasionally" — so The Greenward is a wanderer, not a resident? He passes through the Mediterranean zone the way he passes through every forest? 🦋

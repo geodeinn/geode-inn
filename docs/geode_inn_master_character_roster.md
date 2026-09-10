@@ -147,7 +147,7 @@ This is the coinciding master list — every character, creature, and artifact c
 | 100 | The Vessel (Gecko) | Living vessel, carries resonance | the_vessel_gecko.png | ✅ npc_remaining |
 | 101 | The Captain (Arcana) | Tarot-connected | the_captain_arcana.png | ✅ npc_remaining |
 | 102 | The Pirate (Inigo) | After-quest pirate | the_pirate_v2.png | ✅ Uploaded |
-| 103 | The Gardener (The Greenward, formerly Radagast) | Nature keeper | the_gardener_radagast_v2.png | ✅ Uploaded |
+| 103 | The Gardener (The Greenward, formerly Sorrel) | Nature keeper | the_gardener_sorrel_v2.png | ✅ Uploaded |
 | 104 | The Keeper (Fibonacci, formerly Aughra) | Collects planetseed pods, reads the spiral patterns | the_keeper_aughra.png | ✅ Uploaded |
 | 105 | The Siren | Water zone singer | the_siren_v2.png | ✅ npc_remaining |
 | 106 | The Retort | Alchemical figure | the_retort_v2.png | ✅ npc_remaining |
