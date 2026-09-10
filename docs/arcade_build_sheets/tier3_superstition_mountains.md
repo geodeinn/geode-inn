@@ -18,6 +18,7 @@
 
 Original Characters Being Replaced:
 - Spelunky's spelunker -> A Lost Dutchman prospector (searching for the legendary Lost Dutchman's Gold Mine)
+  - CANON NOTE (Krista, 2026-09-10): the player is the LATEST SEEKER, not the Dutchman. THE original Lost Dutchman exists as a resident NPC (see the geological sleep master spec, Part 4B — the tulip law: the only thing suggesting he is a Dutchman is a tulip). The two never meet in the same room; the player finds evidence of him first (the tulip pressed under glass in a deep cabin), then finds him. Hook word (draft): "Not lost."
 - Spelunky's shopkeeper -> A Desert Trader (a coyote-skinned figure who sets up shops in impossible places)
 - Spelunky's damsel -> A Phantom Guide (a ghostly apparition that appears in deep levels — offers directions for a price)
 - Spelunky's enemies -> Rattlesnakes, gila monsters, scorpions, tarantulas, cave bats, chupacabra (ties to cryptid bestiary)
