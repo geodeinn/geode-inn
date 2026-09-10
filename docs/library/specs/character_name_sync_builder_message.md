@@ -16,7 +16,8 @@ The character roster has completed a full naming audit (September 3, 2026). Seve
 | Malachi | **Malachi** | The Unseelie King. |
 | Mim / Madame Mim | **Brim** | The pipe-smoking chaos agent. (The card game's card is named MADAME — that's the card name only.) |
 | Cthulhu | **Naut** | The squid-headed scholar. Naut the Scholar, by the fireplace, Archive keeper. |
-| John Myers (NPC) | **Quire** | The Lovecraftian scholar NPC. The real player John Myers keeps their own name. |
+| John Myers (NPC) | **Quire** | The Lovecraftian scholar NPC. |
+| John Myers (player slot) | **FOLIO — the First Reader** | Reserved player slot for Krista's real-life friend John Myers — the one who found Lovecraft for her. Named of Quire's ilk: a quire is the folded stack of sheets, a folio is made of quires — kin terms in the bookmaker's craft. Slot saved in staging (playerId: player_slot_folio). Ruled by Krista 2026-09-10. |
 | Radagast | **The Greenward** | The Gardener. Nature keeper. |
 | Beorn | **The Bearsark** | The skin-changer. |
 | Uhtred | **The Wayfarer** | The Saxon warrior, walks between zones, the pressure release valve. |
@@ -78,7 +79,7 @@ New canonical renames applied across all repo text. Full ledger: `docs/character
 
 **Pending — do NOT hardcode yet:** Scarlett, John, Ryan, Marian/Marion, Zack (run-through alt name), Luna's possible self-rename, the Ragana's Latvian name (chosen by Krista's mom, pending).
 
-**Characters to create:** TJ (Jay's tavern family, 12, filler name, very smart + quiet about it, really cool kid), Maddi (Zack's wife, future Inn employee, old-school computer fluency, MySpace empire, charismatic double agent — names hers to choose), John Myers the player (NEW character, distinct from the NPC Quire), Greg (Wisteria's brother, Luna's husband, skilled artisan — confirm NPC status).
+**Characters to create:** TJ (Jay's tavern family, 12, filler name, very smart + quiet about it, really cool kid), Maddi (Zack's wife, future Inn employee, old-school computer fluency, MySpace empire, charismatic double agent — names hers to choose), Folio the First Reader (the player slot for the real John Myers — CREATED 2026-09-10, distinct from the NPC Quire), Greg (Wisteria's brother, Luna's husband, skilled artisan — confirm NPC status).
 
 **Open questions for Krista:**
 1. Brim vs the Ragana — same character or separate? (Egg Hatchery Event 1 + card decks currently tie them; the Ragana's new Latvian name is pending, suggesting separate.)
