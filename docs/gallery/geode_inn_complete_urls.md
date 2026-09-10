@@ -506,3 +506,16 @@ NOTE for the fizgigs: sprites are sheet-painted on neutral backgrounds — cut/c
 | World Games | Sprite sheet: Sphinx, Kappa, Labyrinth minotaur, El Muki, Nidhogg | https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/6809bcfab_generated_image.png |
 | The Caravan | Sprite sheet: Bactrian camel cart, 5 trade charms, 4 route tiles | https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/719f98045_generated_image.png |
 | The Caravan | Background: Petra cliffs, oasis, caravan arch bridge | https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/1073b6ced_generated_image.png |
+
+## Animation — Flip Book Wave 1 (2026-09-09 night, masters Inn-owned)
+
+| Piece | Type | URL |
+|---|---|---|
+| Tumble bounce loop (4 frames stitched, 160ms) | Animated GIF | https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/8f4e83c3b_tumble_bounce.gif |
+| Inn tri-mode tectonic flip (living→shadow oscillation, 450ms) | Animated GIF | https://base44.app/api/apps/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/d37a646a3_inn_trimode_flip.gif |
+| Tumble frames (apex/descend/squash/rebound) | 4 stills | 18a838720 / 526bf9aa8 / 9f54d5376 / cdab09484 (base44 images) |
+| Inn flip frames (mostly-living / mid / mostly-shadow) | 3 stills | fdd3782f0 / 4f6f57db5 / 9626c07af (base44 images) |
+| Dragon kitten walk cycle (4-frame strip) | Sprite sheet | https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/d8997592b_generated_image.png |
+| Froglodyte hop cycle (4-frame strip) | Sprite sheet | https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/5a9b5ee84_generated_image.png |
+
+PIPELINE PROVEN: generate chained frames (reference image → sequential edits) → stitch with PIL/ffmpeg → looping GIF. This is the movement system's fuel pipeline: the 207-element spec can be painted frame-by-frame. Walk-cycle sheets slice directly into the animation engine's frame arrays.

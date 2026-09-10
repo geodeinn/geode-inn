@@ -78,3 +78,8 @@ Named faces get a lore-first prompt pass (six-writer voice, zone style bible, ce
 ## Tier 3 Wave 2 Complete (2026-09-09 late night, Krista present)
 - ALL 11 ARCADE GAMES NOW SPRITE'D: Tumble Run (Tumble 4 poses + brownies + resonance nodes + heartwood bg), Bead Board (12 stone beads), card trio (card backs + gemstone faces), Murloc's Remedy (river-healer + potions), Jigsaw Relics (buried/drift/watching), World Games (Sphinx, Kappa, Minotaur, El Muki, Nidhogg), The Caravan (camel cart + charms + route tiles + Petra bg).
 - TIER 3 COMPLETE. Only Tier 4 remains: stone bead crops, market item images, Gazette comic panels, podcast covers, spirit manifestations, Steam capsules (egg tiers already done).
+
+## Animation Wave 1 Complete (2026-09-09 late night)
+- FLIP BOOK PIPELINE PROVEN: Tumble bounce GIF (4 frames) + Inn tri-mode flip GIF (3 frames, oscillating) stitched with PIL — real, looping, Inn-owned.
+- Walk-cycle sprite sheets: dragon kitten (4-frame walk) + froglodyte (4-frame hop) — engine-ready animation strips.
+- Next: the remaining ~50 Tier 1 movement elements can now be produced the same way. GIF URLs live in the gallery manifest.
