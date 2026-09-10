@@ -477,3 +477,18 @@ The Three Arthurs complete per docs/geode_inn_arthur.md: the boy who tries, the 
 | The Whole Inn (the flip itself, geode heart split) | https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/4f6f57db5_generated_image.png |
 
 TRI-MODE VISUAL SYSTEM NOW COMPLETE: living states (8 panoramas), shadow states (16 zone pieces from Drive intake), in-between states (8 panoramas above). Every major zone now has its full tectonic triple-set.
+
+## Tier 3 — Game Sprites & Backgrounds, Live Games Wave (2026-09-09, masters Inn-owned)
+
+| Game | Piece | URL |
+|---|---|---|
+| Standing Stones | Tetromino sprite sheet (Preseli bluestone, 7 shapes) | https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/4b7550653_generated_image.png |
+| Standing Stones | Background: trilithon circle at dusk, spirals glowing | https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/e41f829e5_generated_image.png |
+| Tomb Tunnel | Sprite sheet: digger (2 poses), 3 scarabs, tomb tile set | https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/cd0462a1b_generated_image.png |
+| Tomb Tunnel | Background: buried tomb corridors cutaway | https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/da8c300f9_generated_image.png |
+| Andean Run | Sprite sheet: Andean runner (2 poses), terrace tiles, 3 obstacles | https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/b0361fbc5_generated_image.png |
+| Andean Run | Background: Inca terraces at dawn | https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/bb4457236_generated_image.png |
+| Monster of the Deep | Sprite sheet: 6 loch creatures | https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/318b25387_generated_image.png |
+| Monster of the Deep | Background: loch cross-section, 3 parallax depth bands | https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/582514420_generated_image.png |
+
+NOTE for the fizgigs: sprites are sheet-painted on neutral backgrounds — cut/crop at integration. Backgrounds are parallax-ready (Monster of the Deep cross-section has explicit depth bands).

@@ -70,3 +70,7 @@ Named faces get a lore-first prompt pass (six-writer voice, zone style bible, ce
 - TRI-MODE SYSTEM VISUALLY COMPLETE: all 8 in-between zone panoramas generated (Main Floor, Staircase, Catacombs, Cosmology, Seelie, Unseelie, Water, the Whole Inn mid-flip). Living + shadow + in-between = full tectonic triple-set for every major zone.
 - Earlier tonight: Tier 1 portraits complete, Tier 2 zone panoramas complete, Four Story-Born painted, Three Arthurs painted, Hatchery egg set complete.
 - Next candidates: comic strip #001 panels, Whisper Layer event visuals, Tier 3 game sprites.
+
+## Tier 3 Wave 1 Complete (2026-09-09 night)
+- All 4 LIVE GAMES fully sprite'd + background'd: Standing Stones (bluestone tetrominoes + trilithon dusk bg), Tomb Tunnel (digger + scarabs + tiles + tomb cutaway bg), Andean Run (runner + terraces + obstacles + dawn bg), Monster of the Deep (6 creatures + 3-band loch bg).
+- Tier 3 remaining: Tumble Run, Bead Board, Stone Memory/Solitaire/Dominance, Murloc's Remedy, Jigsaw Relics, World Games, The Caravan.
