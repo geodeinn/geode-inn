@@ -32,7 +32,7 @@
 
 | Zone | What's There Now | The Natural Chain |
 |------|------------------|-------------------|
-| z23 Redwood Cathedral | Mona's three layers RULED (Queens' Law), game #45 climb | The climb's story spine — IN PROGRESS |
+| z23 Redwood Cathedral | THE SLOWEST FREQUENCY — the climb through all three queens' spaces, PASSED 2026-09-10 (canon) |
 | z10 Poison Garden | PoisonHerb entity LIVE, garden mechanics | The garden's story |
 | z20 Camelot | Arthur spec, Three Arthurs painted | The court's chain |
 | z09 Cave City | — | Mammoth geology as teaching layer (Earth-teacher candidate) |
@@ -56,6 +56,6 @@
 
 ## THE WORK ORDER
 1. ~~Atlantis's explicit thread~~ ✅ PASSED 2026-09-10 — THE CITY THAT CHOSE THE DEEP
-2. Redwood's spine (the Queens' Law is ruled — the climb needs its story) — IN PROGRESS
-3. Poison Garden (live mechanics waiting for meaning)
+2. ~~Redwood's spine~~ ✅ PASSED 2026-09-10 — THE SLOWEST FREQUENCY
+3. Poison Garden (live mechanics waiting for meaning) — IN PROGRESS
 4. Then the unwritten: Cave City → Trovants → Peru → Mesopotamia, and on down the list.

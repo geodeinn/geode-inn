@@ -1,5 +1,5 @@
 # THE REDWOOD CATHEDRAL QUEST CHAIN: "THE SLOWEST FREQUENCY"
-## The climb's story spine — drafted 2026-09-10 for Krista's review (DRAFT until ruled)
+## The climb's story spine — PASSED by Krista 2026-09-10 (CANON — game #45's story spine)
 
 ---
 
@@ -61,4 +61,4 @@ The final quest has one instruction and no timer: SIT. The player sits on the th
 ## TONE LAW
 Bierstadt subdued — the grandeur without the spectacle. The zone plays its silence straight: no trick endings, no hidden boss, no final reveal. The most important thing the player can do in the Redwood Cathedral is sit, and the chain never winks at that. Gaiman's hush for the spaces, Bradbury's green-gold light for the canopy, Rothfuss's precision for the rings. The creak is not distress. The creak is the oldest living thing the player knows, breathing.
 
-*Draft for Krista's review — every piece builds on ruled canon (the Queens' Law, the zone spec, the heartbeat-absence ruling). The reconciliation note (the Court in absence) is flagged for her ruling. On approval, the chain loads as game #45's story spine.*
+*PASSED (Krista, 2026-09-10) — reconciliation approved: the Heartwood Court remains the Queen of Roots' kept space in absence; the crown's empty throne is her legacy left in growth. The chain is game #45's story spine, canon.*
