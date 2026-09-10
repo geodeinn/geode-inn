@@ -3,13 +3,13 @@
     "name": "Geode Inn Audio Data Structure",
     "version": "1.0.0",
     "date": "2026-09-09",
-    "author": "Elio, Inn librarian — built for the fizgigs",
+    "author": "Elio, Inn librarian \u2014 built for the fizgigs",
     "sources": [
       "library/mechanics/geode_inn_master_audio_voice_system.md",
       "docs/library/audio/audiobook_production_spec.md",
       "docs/library/audio/geode_inn_complete_audio_coverage_map.md",
-      "Geode_Inn_—_Acoustic_Engine_Architecture_(IEM-Based_Sound_Processing).md",
-      "library/mechanics/Geode_Inn_—_Stone_Vibration_Godot_Integration_Guide.md"
+      "Geode_Inn_\u2014_Acoustic_Engine_Architecture_(IEM-Based_Sound_Processing).md",
+      "library/mechanics/Geode_Inn_\u2014_Stone_Vibration_Godot_Integration_Guide.md"
     ],
     "doctrine": "Fusion, not layering (Tool doctrine): the 42Hz Song, heartbeat, stone triggers, leitmotifs and choral layers are ONE sound. The math IS the mysticism. Tri-mode shifts are tectonic, never crossfades."
   },
@@ -21,7 +21,11 @@
       "bpm": 50,
       "label": "The Inn's resting pulse (sleeping heartbeat tempo)",
       "nightBpm": 40,
-      "dropoutMoments": ["the Murmur (prologue opening)", "the Final Room (chapter 40)", "the Epilogue's last beat"]
+      "dropoutMoments": [
+        "the Murmur (prologue opening)",
+        "the Final Room (chapter 40)",
+        "the Epilogue's last beat"
+      ]
     },
     "gargoyleFrequenciesHz": {
       "watcher": 111,
@@ -34,96 +38,554 @@
     "canopySwayPeriodSeconds": 1.2
   },
   "signalChain": {
-    "model": "The entire Inn IS a transducer — a high-end IEM processing the universal Song",
+    "model": "The entire Inn IS a transducer \u2014 a high-end IEM processing the universal Song",
     "driverTypes": {
-      "dynamic": { "meaning": "Stones and matter — frequencies you FEEL", "zones": ["Catacombs", "Undercity"] },
-      "balancedArmature": { "meaning": "Characters and voices — frequencies you HEAR", "zones": ["Main Floor", "Artisan Market", "Seelie Court"] },
-      "electrostatic": { "meaning": "Cosmology — frequencies you SENSE", "zones": ["Cosmology", "Clockwork Skies"] },
-      "boneConduction": { "meaning": "The Catacombs, the 42Hz Song — frequencies you KNOW", "zones": ["Catacombs", "Stone Circle Chamber"] }
+      "dynamic": {
+        "meaning": "Stones and matter \u2014 frequencies you FEEL",
+        "zones": [
+          "Catacombs",
+          "Undercity"
+        ]
+      },
+      "balancedArmature": {
+        "meaning": "Characters and voices \u2014 frequencies you HEAR",
+        "zones": [
+          "Main Floor",
+          "Artisan Market",
+          "Seelie Court"
+        ]
+      },
+      "electrostatic": {
+        "meaning": "Cosmology \u2014 frequencies you SENSE",
+        "zones": [
+          "Cosmology",
+          "Clockwork Skies"
+        ]
+      },
+      "boneConduction": {
+        "meaning": "The Catacombs, the 42Hz Song \u2014 frequencies you KNOW",
+        "zones": [
+          "Catacombs",
+          "Stone Circle Chamber"
+        ]
+      }
     }
   },
   "triMode": {
-    "living": { "rootHz": 42, "audioBehavior": "The Song at the surface; warmth, layered presence" },
-    "shadow": { "rootHz": 84, "audioBehavior": "The inverse Song; tectonic shift (hard cut, no crossfade); 42/84 frequency inversion" },
-    "inBetween": { "rootHz": null, "audioBehavior": "No clear time signature; phase shifting, borderless" }
+    "living": {
+      "rootHz": 42,
+      "audioBehavior": "The Song at the surface; warmth, layered presence"
+    },
+    "shadow": {
+      "rootHz": 84,
+      "audioBehavior": "The inverse Song; tectonic shift (hard cut, no crossfade); 42/84 frequency inversion"
+    },
+    "inBetween": {
+      "rootHz": null,
+      "audioBehavior": "No clear time signature; phase shifting, borderless"
+    }
   },
   "zoneAudioProfiles": [
-    { "zone": "Main Floor (Hub)", "level": "main_floor", "iemBand": "Mid (BA)", "driver": "balancedArmature", "bpmMin": 80, "bpmMax": 95, "leadInstruments": ["acoustic guitar", "lute", "viola da gamba", "hammered dulcimer"], "processing": ["warm sub-bass", "vinyl crackle", "lo-fi house pulse"] },
-    { "zone": "Cosmology (Upstairs)", "level": "upstairs", "iemBand": "Ultra-high (EST)", "driver": "electrostatic", "bpmMin": 60, "bpmMax": 70, "leadInstruments": ["glass harmonica", "singing bowls", "Tibetan horn", "overtone singing"], "processing": ["granular synthesis", "shimmering pads", "deep space drones"] },
-    { "zone": "Staircase (Alchemy)", "level": "staircase", "iemBand": "Transition", "driver": "crossoverRouting", "bpmMin": 75, "bpmMax": 85, "leadInstruments": ["glass armonica", "flute", "harp", "metallic percussion"], "processing": ["phase shifting", "ascending arpeggios (rises in key as player climbs)"] },
-    { "zone": "Catacombs (Downstairs)", "level": "catacombs", "iemBand": "Low (DD)", "driver": "dynamic", "bpmMin": 65, "bpmMax": 75, "leadInstruments": ["frame drum", "sistrum", "bone flute", "lyre", "ney"], "processing": ["sub-bass pressure", "industrial texture", "reverb caves"] },
-    { "zone": "Modern Legends Nook", "level": "main_floor", "iemBand": "Near-silent", "driver": "arcDampened", "bpmMin": 50, "bpmMax": 60, "leadInstruments": ["piano", "cello", "analog synth"], "processing": ["minimal", "spacious", "single piano note with infinite reverb"] },
-    { "zone": "Artisan Market", "level": "main_floor", "iemBand": "Mid-bright (BA)", "driver": "balancedArmature", "bpmMin": 100, "bpmMax": 115, "leadInstruments": ["hand drums", "oud", "kalimba", "bells"], "processing": ["bright", "warm", "Afro-house pulse", "world music samples"] },
-    { "zone": "Fae Threshold", "level": "fae_kingdom", "iemBand": "Borderless", "driver": "eivecCoupling", "bpmMin": 55, "bpmMax": 65, "bpmNote": "~60 BPM floating", "leadInstruments": ["harp", "breath sounds", "wind chimes"], "processing": ["ethereal", "pads shifting between keys", "no clear time signature"] },
-    { "zone": "Seelie Court (Summerlands)", "level": "fae_kingdom", "iemBand": "Mid-warm (BA)", "driver": "balancedArmature", "bpmMin": 90, "bpmMax": 110, "leadInstruments": ["Irish harp", "fiddle", "tin whistle", "bodhran"], "processing": ["golden", "warm", "melodic electronica", "fiddle through shimmer delay"] },
-    { "zone": "Unseelie Court (The Hollow)", "level": "fae_kingdom", "iemBand": "Low-dark (DD+BA)", "driver": "dynamicPlusBA", "bpmMin": 70, "bpmMax": 85, "leadInstruments": ["bass clarinet", "prepared piano", "broken glass percussion", "sub-bass"], "processing": ["dark", "jagged", "industrial-adjacent", "bass clarinet through distortion"] }
+    {
+      "zone": "Main Floor (Hub)",
+      "level": "main_floor",
+      "iemBand": "Mid (BA)",
+      "driver": "balancedArmature",
+      "bpmMin": 80,
+      "bpmMax": 95,
+      "leadInstruments": [
+        "acoustic guitar",
+        "lute",
+        "viola da gamba",
+        "hammered dulcimer"
+      ],
+      "processing": [
+        "warm sub-bass",
+        "vinyl crackle",
+        "lo-fi house pulse"
+      ]
+    },
+    {
+      "zone": "Cosmology (Upstairs)",
+      "level": "upstairs",
+      "iemBand": "Ultra-high (EST)",
+      "driver": "electrostatic",
+      "bpmMin": 60,
+      "bpmMax": 70,
+      "leadInstruments": [
+        "glass harmonica",
+        "singing bowls",
+        "Tibetan horn",
+        "overtone singing"
+      ],
+      "processing": [
+        "granular synthesis",
+        "shimmering pads",
+        "deep space drones"
+      ]
+    },
+    {
+      "zone": "Staircase (Alchemy)",
+      "level": "staircase",
+      "iemBand": "Transition",
+      "driver": "crossoverRouting",
+      "bpmMin": 75,
+      "bpmMax": 85,
+      "leadInstruments": [
+        "glass armonica",
+        "flute",
+        "harp",
+        "metallic percussion"
+      ],
+      "processing": [
+        "phase shifting",
+        "ascending arpeggios (rises in key as player climbs)"
+      ]
+    },
+    {
+      "zone": "Catacombs (Downstairs)",
+      "level": "catacombs",
+      "iemBand": "Low (DD)",
+      "driver": "dynamic",
+      "bpmMin": 65,
+      "bpmMax": 75,
+      "leadInstruments": [
+        "frame drum",
+        "sistrum",
+        "bone flute",
+        "lyre",
+        "ney"
+      ],
+      "processing": [
+        "sub-bass pressure",
+        "industrial texture",
+        "reverb caves"
+      ]
+    },
+    {
+      "zone": "Modern Legends Nook",
+      "level": "main_floor",
+      "iemBand": "Near-silent",
+      "driver": "arcDampened",
+      "bpmMin": 50,
+      "bpmMax": 60,
+      "leadInstruments": [
+        "piano",
+        "cello",
+        "analog synth"
+      ],
+      "processing": [
+        "minimal",
+        "spacious",
+        "single piano note with infinite reverb"
+      ]
+    },
+    {
+      "zone": "Artisan Market",
+      "level": "main_floor",
+      "iemBand": "Mid-bright (BA)",
+      "driver": "balancedArmature",
+      "bpmMin": 100,
+      "bpmMax": 115,
+      "leadInstruments": [
+        "hand drums",
+        "oud",
+        "kalimba",
+        "bells"
+      ],
+      "processing": [
+        "bright",
+        "warm",
+        "Afro-house pulse",
+        "world music samples"
+      ]
+    },
+    {
+      "zone": "Fae Threshold",
+      "level": "fae_kingdom",
+      "iemBand": "Borderless",
+      "driver": "eivecCoupling",
+      "bpmMin": 55,
+      "bpmMax": 65,
+      "bpmNote": "~60 BPM floating",
+      "leadInstruments": [
+        "harp",
+        "breath sounds",
+        "wind chimes"
+      ],
+      "processing": [
+        "ethereal",
+        "pads shifting between keys",
+        "no clear time signature"
+      ]
+    },
+    {
+      "zone": "Seelie Court (Summerlands)",
+      "level": "fae_kingdom",
+      "iemBand": "Mid-warm (BA)",
+      "driver": "balancedArmature",
+      "bpmMin": 90,
+      "bpmMax": 110,
+      "leadInstruments": [
+        "Irish harp",
+        "fiddle",
+        "tin whistle",
+        "bodhran"
+      ],
+      "processing": [
+        "golden",
+        "warm",
+        "melodic electronica",
+        "fiddle through shimmer delay"
+      ]
+    },
+    {
+      "zone": "Unseelie Court (The Hollow)",
+      "level": "fae_kingdom",
+      "iemBand": "Low-dark (DD+BA)",
+      "driver": "dynamicPlusBA",
+      "bpmMin": 70,
+      "bpmMax": 85,
+      "leadInstruments": [
+        "bass clarinet",
+        "prepared piano",
+        "broken glass percussion",
+        "sub-bass"
+      ],
+      "processing": [
+        "dark",
+        "jagged",
+        "industrial-adjacent",
+        "bass clarinet through distortion"
+      ]
+    }
   ],
   "arcadeAudioProfiles": [
-    { "game": "Standing Stones (Tetris)", "bpmMin": 120, "bpmMax": 140, "bpmNote": "scales with level", "leadInstruments": ["bone flute", "cow-horn trumpet", "hide drum", "stone percussion"], "processing": ["driving pulse", "stone-strike samples", "sub-bass on row clears"] },
-    { "game": "Tomb Tunnel (Dig Dug)", "bpmMin": 110, "bpmMax": 130, "leadInstruments": ["ney", "darbuka", "finger cymbals", "sistrum"], "processing": ["dark cavernous reverb", "driving bass pulse", "ney through delay"] },
-    { "game": "Andean Run (Temple Run)", "bpmMin": 130, "bpmMax": 150, "leadInstruments": ["quena", "zampona", "bombo", "charango"], "processing": ["high-energy pulse", "wind through filters", "driving bass"] },
-    { "game": "Monster of the Deep", "bpmMin": 70, "bpmMax": 90, "leadInstruments": ["bowed psaltery", "waterphone", "deep cello", "whale vocals"], "processing": ["liquid", "flowing", "no rigid beat", "sub-bass waves"] },
-    { "game": "Hollow Men", "bpmMin": 50, "bpmMax": 50, "leadInstruments": ["silence", "breathing", "stone scraping"], "processing": ["minimal", "the 84Hz inverse", "the sound of the Shadow Inn"] }
+    {
+      "game": "Standing Stones (Tetris)",
+      "bpmMin": 120,
+      "bpmMax": 140,
+      "bpmNote": "scales with level",
+      "leadInstruments": [
+        "bone flute",
+        "cow-horn trumpet",
+        "hide drum",
+        "stone percussion"
+      ],
+      "processing": [
+        "driving pulse",
+        "stone-strike samples",
+        "sub-bass on row clears"
+      ]
+    },
+    {
+      "game": "Tomb Tunnel (Dig Dug)",
+      "bpmMin": 110,
+      "bpmMax": 130,
+      "leadInstruments": [
+        "ney",
+        "darbuka",
+        "finger cymbals",
+        "sistrum"
+      ],
+      "processing": [
+        "dark cavernous reverb",
+        "driving bass pulse",
+        "ney through delay"
+      ]
+    },
+    {
+      "game": "Andean Run (Temple Run)",
+      "bpmMin": 130,
+      "bpmMax": 150,
+      "leadInstruments": [
+        "quena",
+        "zampona",
+        "bombo",
+        "charango"
+      ],
+      "processing": [
+        "high-energy pulse",
+        "wind through filters",
+        "driving bass"
+      ]
+    },
+    {
+      "game": "Monster of the Deep",
+      "bpmMin": 70,
+      "bpmMax": 90,
+      "leadInstruments": [
+        "bowed psaltery",
+        "waterphone",
+        "deep cello",
+        "whale vocals"
+      ],
+      "processing": [
+        "liquid",
+        "flowing",
+        "no rigid beat",
+        "sub-bass waves"
+      ]
+    },
+    {
+      "game": "Hollow Men",
+      "bpmMin": 50,
+      "bpmMax": 50,
+      "leadInstruments": [
+        "silence",
+        "breathing",
+        "stone scraping"
+      ],
+      "processing": [
+        "minimal",
+        "the 84Hz inverse",
+        "the sound of the Shadow Inn"
+      ]
+    }
   ],
   "stoneTones": {
     "rule": "A tone fires when a stone is named. Fired at its Mohs hardness frequency, 12dB below narration.",
     "mohsToFrequency": {
-      "1": { "hz": 261.6, "note": "C4", "reference": "Talc" },
-      "2": { "hz": 293.7, "note": "D4", "reference": "Gypsum" },
-      "3": { "hz": 329.6, "note": "E4", "reference": "Calcite" },
-      "4": { "hz": 349.2, "note": "F4", "reference": "Fluorite" },
-      "5": { "hz": 392.0, "note": "G4", "reference": "Apatite" },
-      "6": { "hz": 440.0, "note": "A4", "reference": "Orthoclase Feldspar (completed per C-major-scale pattern)" },
-      "7": { "hz": 493.9, "note": "B4", "reference": "Quartz (confirmed)" },
-      "8": { "hz": 523.3, "note": "C5", "reference": "Topaz (completed per C-major-scale pattern)" },
-      "9": { "hz": 587.3, "note": "D5", "reference": "Corundum (completed per C-major-scale pattern)" }
+      "1": {
+        "hz": 261.6,
+        "note": "C4",
+        "reference": "Talc"
+      },
+      "2": {
+        "hz": 293.7,
+        "note": "D4",
+        "reference": "Gypsum"
+      },
+      "3": {
+        "hz": 329.6,
+        "note": "E4",
+        "reference": "Calcite"
+      },
+      "4": {
+        "hz": 349.2,
+        "note": "F4",
+        "reference": "Fluorite"
+      },
+      "5": {
+        "hz": 392.0,
+        "note": "G4",
+        "reference": "Apatite"
+      },
+      "6": {
+        "hz": 440.0,
+        "note": "A4",
+        "reference": "Orthoclase Feldspar (completed per C-major-scale pattern)"
+      },
+      "7": {
+        "hz": 493.9,
+        "note": "B4",
+        "reference": "Quartz (confirmed)"
+      },
+      "8": {
+        "hz": 523.3,
+        "note": "C5",
+        "reference": "Topaz (completed per C-major-scale pattern)"
+      },
+      "9": {
+        "hz": 587.3,
+        "note": "D5",
+        "reference": "Corundum (completed per C-major-scale pattern)"
+      }
     },
     "designNote": "Mohs hardness maps onto one octave of the C major scale. The whole mineral kingdom sings in one key.",
-    "geodeCave": { "empty": "near-silence — ambient 42Hz hum only", "filling": "symphony of chimes, each stone at its unique tone" }
+    "geodeCave": {
+      "empty": "near-silence \u2014 ambient 42Hz hum only",
+      "filling": "symphony of chimes, each stone at its unique tone"
+    }
   },
   "npcLeitmotifSystem": {
     "doctrine": "The leitmotif is identity (Elfman doctrine): an irreducible 2-note melodic fragment that carries a character's entire soul and survives the tri-mode shift.",
-    "fields": ["npcId", "hookNotes", "instrument", "shadowVariant", "priority"],
-    "voiceRule": "The vocal is an instrument, not a narrator — NPCs inhabit, don't explain.",
+    "fields": [
+      "npcId",
+      "hookNotes",
+      "instrument",
+      "shadowVariant",
+      "priority"
+    ],
+    "voiceRule": "The vocal is an instrument, not a narrator \u2014 NPCs inhabit, don't explain.",
     "choralEthereal": "Wordless choir is the Whisper Layer's awareness sound"
   },
   "muses": [
-    { "name": "Calliope", "song": "The Epic", "hz": 42, "meaning": "the oldest story, told in sound" },
-    { "name": "Clio", "song": "The Chronicle", "hz": 72, "meaning": "the history of the Inn, from stone to song" },
-    { "name": "Euterpe", "song": "The Melody", "hz": 50, "meaning": "the pure music, the Song caught by human hands" },
-    { "name": "Thalia", "song": "The Comedy", "hz": 84, "meaning": "the joke that the Song is the answer to everything" },
-    { "name": "Melpomene", "song": "The Elegy", "hz": 396, "meaning": "the grief of the Einstein Syndrome" },
-    { "name": "Terpsichore", "song": "The Dance", "hz": 528, "meaning": "the Pulse Line, the 50 BPM heartbeat" },
-    { "name": "Erato", "song": "The Love Song", "hz": 639, "meaning": "the Nook Effect, the warmth of presence" },
-    { "name": "Polyhymnia", "song": "The Hymn", "hz": 741, "meaning": "the sacred, the Cosmology Mural" },
-    { "name": "Urania", "song": "The Star Song", "hz": 852, "meaning": "the Observatory, the sky, the vast" }
+    {
+      "name": "Calliope",
+      "song": "The Epic",
+      "hz": 42,
+      "meaning": "the oldest story, told in sound"
+    },
+    {
+      "name": "Clio",
+      "song": "The Chronicle",
+      "hz": 72,
+      "meaning": "the history of the Inn, from stone to song"
+    },
+    {
+      "name": "Euterpe",
+      "song": "The Melody",
+      "hz": 50,
+      "meaning": "the pure music, the Song caught by human hands"
+    },
+    {
+      "name": "Thalia",
+      "song": "The Comedy",
+      "hz": 84,
+      "meaning": "the joke that the Song is the answer to everything"
+    },
+    {
+      "name": "Melpomene",
+      "song": "The Elegy",
+      "hz": 396,
+      "meaning": "the grief of the Einstein Syndrome"
+    },
+    {
+      "name": "Terpsichore",
+      "song": "The Dance",
+      "hz": 528,
+      "meaning": "the Pulse Line, the 50 BPM heartbeat"
+    },
+    {
+      "name": "Erato",
+      "song": "The Love Song",
+      "hz": 639,
+      "meaning": "the Nook Effect, the warmth of presence"
+    },
+    {
+      "name": "Polyhymnia",
+      "song": "The Hymn",
+      "hz": 741,
+      "meaning": "the sacred, the Cosmology Mural"
+    },
+    {
+      "name": "Urania",
+      "song": "The Star Song",
+      "hz": 852,
+      "meaning": "the Observatory, the sky, the vast"
+    }
   ],
   "musesChord": "When all Nine Songs play simultaneously as a chord, the Inn-Tree resonates at all nine frequencies. The 42Hz hum rises to the surface. The player hears the Song as a whole.",
   "audioLibrary": {
-    "sovereigntyRule": "Public domain classical recordings transformed into original low-dub ambient tracks at 50 BPM — legal independence, masters owned by the Inn.",
-    "libraryPaths": ["beta/assets/audio/classical_dub", "beta/assets/audio/midi_source"]
+    "sovereigntyRule": "Public domain classical recordings transformed into original low-dub ambient tracks at 50 BPM \u2014 legal independence, masters owned by the Inn.",
+    "libraryPaths": [
+      "beta/assets/audio/classical_dub",
+      "beta/assets/audio/midi_source"
+    ]
   },
   "suggestedEntities": {
     "AudioZoneProfile": {
       "description": "One record per zone. Seed from zoneAudioProfiles.",
-      "fields": { "zone": "string", "level": "string", "iemBand": "string", "driver": "string", "bpmMin": "number", "bpmMax": "number", "leadInstruments": "string[]", "processing": "string[]" }
+      "fields": {
+        "zone": "string",
+        "level": "string",
+        "iemBand": "string",
+        "driver": "string",
+        "bpmMin": "number",
+        "bpmMax": "number",
+        "leadInstruments": "string[]",
+        "processing": "string[]"
+      }
     },
     "StoneTone": {
       "description": "One record per stone (200 total). Seed mohsToFrequency + Stone entity.",
-      "fields": { "stoneId": "string", "mohs": "number", "frequencyHz": "number", "noteName": "string", "gainDbBelowNarration": "number" }
+      "fields": {
+        "stoneId": "string",
+        "mohs": "number",
+        "frequencyHz": "number",
+        "noteName": "string",
+        "gainDbBelowNarration": "number"
+      }
     },
     "NpcLeitmotif": {
       "description": "One record per speaking character. Populate per NPC as composed.",
-      "fields": { "npcId": "string", "hookNotes": "string[]", "instrument": "string", "shadowVariant": "string", "priority": "number" }
+      "fields": {
+        "npcId": "string",
+        "hookNotes": "string[]",
+        "instrument": "string",
+        "shadowVariant": "string",
+        "priority": "number"
+      }
     },
     "AudioEventTrigger": {
       "description": "Event-driven audio: gargoyles, Whisper Layer pulses, Egg Hatchery, heartbeat dropouts.",
-      "fields": { "eventId": "string", "name": "string", "trigger": "string", "action": "string", "modeShift": "boolean" }
+      "fields": {
+        "eventId": "string",
+        "name": "string",
+        "trigger": "string",
+        "action": "string",
+        "modeShift": "boolean"
+      }
     }
   },
   "implementationPriority": {
-    "tier1": ["systemConstants (heartbeat + 42Hz/84Hz)", "zoneAudioProfiles (main floor + staircase + catacombs)", "stoneTones (Mohs map)", "gargoyleFrequenciesHz"],
-    "tier2": ["arcadeAudioProfiles", "npcLeitmotifSystem (12 main floor NPCs)", "audioLibrary (low-dub tracks)"],
-    "tier3": ["muses (Nine Songs chord — endgame)", "Inn Mode DSP room profiles (real-time processing)"]
+    "tier1": [
+      "systemConstants (heartbeat + 42Hz/84Hz)",
+      "zoneAudioProfiles (main floor + staircase + catacombs)",
+      "stoneTones (Mohs map)",
+      "gargoyleFrequenciesHz"
+    ],
+    "tier2": [
+      "arcadeAudioProfiles",
+      "npcLeitmotifSystem (12 main floor NPCs)",
+      "audioLibrary (low-dub tracks)"
+    ],
+    "tier3": [
+      "muses (Nine Songs chord \u2014 endgame)",
+      "Inn Mode DSP room profiles (real-time processing)"
+    ]
+  },
+  "innModePresets": {
+    "description": "The 7 Inn Mode DSP room profiles for the Audio Enhancer app. Real-time processing: the listener's audio is processed as if played inside that room of the Inn. Transitions are crossfaded, never hard-cut (except Shadow frequency shifts, which are instantaneous).",
+    "presets": [
+      {
+        "name": "Main Floor",
+        "reverbTailSeconds": 1.2,
+        "character": "Warm, open, resonant \u2014 the Inn greeting you"
+      },
+      {
+        "name": "Common Room",
+        "reverbTailSeconds": 0.6,
+        "character": "Lively, close-mic, intimate \u2014 a room full of people"
+      },
+      {
+        "name": "Archive",
+        "reverbTailSeconds": 1.0,
+        "character": "Medium reverb, paper rustle ambient \u2014 scholarly, organized"
+      },
+      {
+        "name": "Catacombs",
+        "reverbTailSeconds": 0.3,
+        "character": "Low, dry, close, tight \u2014 underground, compressed"
+      },
+      {
+        "name": "Cosmology",
+        "reverbTailSeconds": 2.0,
+        "character": "Expanding, airy, bright \u2014 opening up, rising"
+      },
+      {
+        "name": "The Deepest Chamber",
+        "reverbTailSeconds": 0.1,
+        "character": "Stripped bare, almost dry \u2014 the smallest room, the biggest moment"
+      },
+      {
+        "name": "Ragana's Nook",
+        "reverbTailSeconds": 0.2,
+        "character": "Very dry, close, intimate \u2014 riddles told at your ear"
+      }
+    ],
+    "eighthEnvironment": {
+      "name": "Forest (Exterior)",
+      "reverbTailSeconds": 2.8,
+      "character": "Wide reverb, birdsong removed \u2014 only wind and leaf-fall"
+    },
+    "processingRules": [
+      "The 50 BPM heartbeat layer runs beneath all presets (drops to 40 BPM in night modes, drops out entirely in Cosmology)",
+      "The 42Hz Song drone sits below threshold in every room",
+      "Shadow mode inverts to 84Hz with an instantaneous hard cut, never a crossfade",
+      "Speaker-tracking: when multiple voices are present, the room follows the last speaker; sidekicks inherit the previous profile with a 0.5s delay (the Brim effect)",
+      "Stone tones fire at Mohs frequencies 12dB under narration in every preset"
+    ]
   }
 }
