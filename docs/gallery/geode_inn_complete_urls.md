@@ -614,7 +614,7 @@ The caravan has traveled every road. Route network tri-mode complete.
 - The Jade Road — Echo state
   - File: `silk_road/jade_road_echo.png`
   - URL: https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/2dc8ee88d_jade_road_echo.png
-- Route Screen: The Obsidian Road (Shasta storm → obsidian badlands → Hollow Earth rift → moai shore)
+- Route Screen: The Obsidian Road (KRISTA-APPROVED 2026-09-10: "that mount doom looking one is gorgeous" — storm-rift-crystal-glow recipe is now the standard for Very Hard routes) (Shasta storm → obsidian badlands → Hollow Earth rift → moai shore)
   - File: `silk_road/obsidian_road.png`
   - URL: https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/58686b2ab_obsidian_road.png
 - The Obsidian Road — Echo state
