@@ -16,7 +16,7 @@
   "hookWord": "Noticed."
  },
  {
-  "dialogueId": "\"You already know where it is. That's why you came back.\"",
+  "dialogueId": "the_reader_repeat_rung3",
   "lines": [
    "The Reader marks the page for you and keeps reading nearby."
   ],
@@ -50,7 +50,7 @@
   "hookWord": "Obviously."
  },
  {
-  "dialogueId": null,
+  "dialogueId": "beverley_repeat_rung3",
   "lines": [
    "Beverley answers correctly, one eyebrow raised."
   ],
@@ -68,7 +68,7 @@
   "hookWord": "Obviously."
  },
  {
-  "dialogueId": "joe_the_collector_repeat_rung2",
+  "dialogueId": "joe_repeat_rung2",
   "lines": [
    "\"Delightful.\""
   ],
@@ -79,12 +79,12 @@
   "priority": 9,
   "isWhisperLayer": false,
   "voiceProfile": "joe",
-  "npcName": "Joe (the Collector)",
+  "npcName": "Joe",
   "zone": "Meadery",
   "hookWord": "Delightful."
  },
  {
-  "dialogueId": null,
+  "dialogueId": "joe_repeat_rung3",
   "lines": [
    "Joe shows you the item's shelf instead of speaking."
   ],
@@ -97,7 +97,7 @@
   "priority": 10,
   "isWhisperLayer": false,
   "voiceProfile": "joe",
-  "npcName": "Joe (the Collector)",
+  "npcName": "Joe",
   "zone": "Meadery",
   "hookWord": "Delightful."
  },
@@ -118,7 +118,7 @@
   "hookWord": "Incorrect."
  },
  {
-  "dialogueId": null,
+  "dialogueId": "the_teacher_repeat_rung3",
   "lines": [
    "The Teacher says nothing and points to where the answer was. Once."
   ],
@@ -152,7 +152,7 @@
   "hookWord": "Watch this."
  },
  {
-  "dialogueId": null,
+  "dialogueId": "brim_repeat_rung3",
   "lines": [
    "Brim does a perfect impression of you clicking Brim."
   ],
@@ -186,7 +186,7 @@
   "hookWord": "Absurd."
  },
  {
-  "dialogueId": null,
+  "dialogueId": "monsieur_sentient_repeat_rung3",
   "lines": [
    "The pipe forms a question mark in steam, dissolves it, and has answered."
   ],
@@ -220,7 +220,7 @@
   "hookWord": "Passing through."
  },
  {
-  "dialogueId": null,
+  "dialogueId": "the_wanderer_repeat_rung3",
   "lines": [
    "\"Passing. Still.\""
   ],
@@ -254,7 +254,7 @@
   "hookWord": "Watching."
  },
  {
-  "dialogueId": null,
+  "dialogueId": "the_owl_repeat_rung3",
   "lines": [
    "\"Watching.\" (the word does not change)"
   ],
@@ -288,7 +288,7 @@
   "hookWord": "Fascinating."
  },
  {
-  "dialogueId": null,
+  "dialogueId": "naut_repeat_rung3",
   "lines": [
    "The tentacles rest. The spectacles stay on. Naut returns to reading."
   ],
@@ -322,7 +322,7 @@
   "hookWord": "Sit."
  },
  {
-  "dialogueId": null,
+  "dialogueId": "the_ragana_repeat_rung3",
   "lines": [
    "\"Sit. Still.\" \u2014 and the tea arrives anyway."
   ],
@@ -356,7 +356,7 @@
   "hookWord": "Tend."
  },
  {
-  "dialogueId": null,
+  "dialogueId": "the_firekeeper_repeat_rung3",
   "lines": [
    "\"Tend. Still.\""
   ],
@@ -390,7 +390,7 @@
   "hookWord": "What changes?"
  },
  {
-  "dialogueId": null,
+  "dialogueId": "the_catalyst_repeat_rung3",
   "lines": [
    "The Catalyst asks the question of herself, softly, and the bar hears it."
   ],
@@ -424,7 +424,7 @@
   "hookWord": "Depth."
  },
  {
-  "dialogueId": "katya_guard",
+  "dialogueId": "katya_repeat_rung3",
   "lines": [
    "The water behind you goes still."
   ],
@@ -458,7 +458,7 @@
   "hookWord": "Speak."
  },
  {
-  "dialogueId": null,
+  "dialogueId": "the_gatekeeper_goth_repeat_rung3",
   "lines": [
    "The Gatekeeper doesn't move. The presence IS the gate."
   ],
@@ -492,7 +492,7 @@
   "hookWord": "(one flat bell-note)"
  },
  {
-  "dialogueId": null,
+  "dialogueId": "the_griffin_repeat_rung3",
   "lines": [
    "The Griffin lands. The crystals go quiet."
   ],
@@ -526,7 +526,7 @@
   "hookWord": "Make it true."
  },
  {
-  "dialogueId": null,
+  "dialogueId": "the_selkie_repeat_rung3",
   "lines": [
    "The Selkie sets the stone in your hand, adjusts the grip once, and returns to the wheel."
   ],
@@ -560,7 +560,7 @@
   "hookWord": "Ja."
  },
  {
-  "dialogueId": null,
+  "dialogueId": "thorin_repeat_rung3",
   "lines": [
    "Thorin turns the stone to the light, says nothing, and slides a drink over."
   ],
@@ -594,7 +594,7 @@
   "hookWord": "Lekker."
  },
  {
-  "dialogueId": null,
+  "dialogueId": "marijke_repeat_rung3",
   "lines": [
    "Marijke names the stone's twin instead \u2014 the one you should have brought."
   ],
@@ -628,7 +628,7 @@
   "hookWord": "Everything grows."
  },
  {
-  "dialogueId": null,
+  "dialogueId": "lichenblossom_repeat_rung3",
   "lines": [
    "Lichenblossom hands you a seedling and returns to the soil."
   ],
@@ -662,7 +662,7 @@
   "hookWord": "Exactly."
  },
  {
-  "dialogueId": null,
+  "dialogueId": "the_cartographer_repeat_rung3",
   "lines": [
    "The Cartographer draws the corridor you're standing in, dated tomorrow."
   ],
@@ -696,7 +696,7 @@
   "hookWord": "Already happened."
  },
  {
-  "dialogueId": null,
+  "dialogueId": "urd_repeat_rung3",
   "lines": [
    "Urd shows you the thread already in the tapestry."
   ],
@@ -730,7 +730,7 @@
   "hookWord": "\u2014well, now it's\u2026"
  },
  {
-  "dialogueId": null,
+  "dialogueId": "verdandi_repeat_rung3",
   "lines": [
    "Verdandi just watches with you. Right now, the present is enough."
   ],
@@ -764,7 +764,7 @@
   "hookWord": "It will do."
  },
  {
-  "dialogueId": null,
+  "dialogueId": "skuld_repeat_rung3",
   "lines": [
    "Skuld says the same sentence again, unchanged. It was true the first time."
   ],
@@ -798,7 +798,7 @@
   "hookWord": "It's Leander."
  },
  {
-  "dialogueId": null,
+  "dialogueId": "oleander_repeat_rung3",
   "lines": [
    "Oleander says nothing. The dragon kitten on the shoulder looks at you for him."
   ],
@@ -832,7 +832,7 @@
   "hookWord": "Cold enough?"
  },
  {
-  "dialogueId": null,
+  "dialogueId": "malachi_repeat_rung3",
   "lines": [
    "Malachi walks. You follow. The Labyrinth answers instead."
   ],
@@ -866,7 +866,7 @@
   "hookWord": "Ask better."
  },
  {
-  "dialogueId": null,
+  "dialogueId": "the_seelie_queen_repeat_rung3",
   "lines": [
    "The Queen lets you sit at court and simply watch. The answer arrives by experience."
   ],
@@ -900,7 +900,7 @@
   "hookWord": "And what will you give?"
  },
  {
-  "dialogueId": null,
+  "dialogueId": "the_unseelie_queen_repeat_rung3",
   "lines": [
    "The raven-feather cape settles. The bargain stands as made. The room gets colder by exactly one truth."
   ],
@@ -934,7 +934,7 @@
   "hookWord": "One trunk."
  },
  {
-  "dialogueId": null,
+  "dialogueId": "the_queen_of_roots_repeat_rung3",
   "lines": [
    "The Queen says the same sentence, one ring wider."
   ],
@@ -968,7 +968,7 @@
   "hookWord": "Magnificent, isn't it?"
  },
  {
-  "dialogueId": null,
+  "dialogueId": "the_conductor_repeat_rung3",
   "lines": [
    "The Conductor beams at the silence the Tuner just made beautiful."
   ],
@@ -1002,7 +1002,7 @@
   "hookWord": "One moment."
  },
  {
-  "dialogueId": null,
+  "dialogueId": "the_tuner_repeat_rung3",
   "lines": [
    "The Tuner adjusts your frequency one degree. The question resolves itself mid-ask."
   ],
@@ -1036,7 +1036,7 @@
   "hookWord": "What?"
  },
  {
-  "dialogueId": null,
+  "dialogueId": "the_static_repeat_rung3",
   "lines": [
    "The Static answers perfectly, straight, once. It will never happen again."
   ],
@@ -1070,7 +1070,7 @@
   "hookWord": "Not at tempo."
  },
  {
-  "dialogueId": null,
+  "dialogueId": "the_metronome_repeat_rung3",
   "lines": [
    "The Metronome counts aloud at 50 BPM until you stop. It has never lost this contest."
   ],
@@ -1104,7 +1104,7 @@
   "hookWord": "(your words, gently)"
  },
  {
-  "dialogueId": null,
+  "dialogueId": "the_echo_repeat_rung3",
   "lines": [
    "The Static drifts over and sits nearby, buzzing faintly. For once, the interference is comforting."
   ],
@@ -1138,7 +1138,7 @@
   "hookWord": "Oh! Yes\u2014 hold on\u2014"
  },
  {
-  "dialogueId": null,
+  "dialogueId": "the_moonwatch_repeat_rung3",
   "lines": [
    "The Moonwatch shows you the tide chart instead of speaking."
   ],
@@ -1172,7 +1172,7 @@
   "hookWord": "I have that here."
  },
  {
-  "dialogueId": null,
+  "dialogueId": "the_archivist_repeat_rung3",
   "lines": [
    "The Archivist silently hands over the file. Twice in one lifetime is too much joy to speak through."
   ],
@@ -1206,9 +1206,9 @@
   "hookWord": "It's the [part]."
  },
  {
-  "dialogueId": null,
+  "dialogueId": "the_repairman_repeat_rung3",
   "lines": [
-   "(No rung 3 \u2014 the Repairman fixed the thing that caused the question the first time.)"
+   "No rung 3 \u2014 the Repairman fixed the thing that caused the question the first time."
   ],
   "responses": [],
   "setFlags": [
@@ -1240,7 +1240,7 @@
   "hookWord": "Calculable."
  },
  {
-  "dialogueId": null,
+  "dialogueId": "the_astronomer_repeat_rung3",
   "lines": [
    "Pen down. Violin up. The Astronomer plays the answer instead of speaking it."
   ],
@@ -1274,7 +1274,7 @@
   "hookWord": "In time."
  },
  {
-  "dialogueId": null,
+  "dialogueId": "the_guest_repeat_rung3",
   "lines": [
    "The Guest opens the music box. The one note plays. You already knew it."
   ],
@@ -1308,7 +1308,7 @@
   "hookWord": "(the pause)"
  },
  {
-  "dialogueId": null,
+  "dialogueId": "nyx_repeat_rung3",
   "lines": [
    "Nyx says nothing, and the dark between your repeated words becomes audible."
   ],
@@ -1342,7 +1342,7 @@
   "hookWord": "Again."
  },
  {
-  "dialogueId": null,
+  "dialogueId": "the_constant_repeat_rung3",
   "lines": [
    "The Constant simply continues existing at you, patiently, at geological tempo."
   ],
@@ -1376,7 +1376,7 @@
   "hookWord": "Where to?"
  },
  {
-  "dialogueId": null,
+  "dialogueId": "eres_repeat_rung3",
   "lines": [
    "The words stop. The purr continues. The cabbit has already decided."
   ],
@@ -1410,7 +1410,7 @@
   "hookWord": "What if..."
  },
  {
-  "dialogueId": null,
+  "dialogueId": "vaulknut_repeat_rung3",
   "lines": [
    "Vaulknut stops offering options and simply makes one true."
   ],
@@ -1444,7 +1444,7 @@
   "hookWord": "What was I?"
  },
  {
-  "dialogueId": null,
+  "dialogueId": "charles_repeat_rung3",
   "lines": [
    "The current shape settles, and the druid greets it. Every shape gets greeted."
   ],
@@ -1478,7 +1478,7 @@
   "hookWord": "Listen\u2014"
  },
  {
-  "dialogueId": null,
+  "dialogueId": "the_bard_repeat_rung3",
   "lines": [
    "The Bard plays instead of speaking. The question answers itself in the key of the dock."
   ],
@@ -1512,7 +1512,7 @@
   "hookWord": "Where's the need?"
  },
  {
-  "dialogueId": null,
+  "dialogueId": "zeke_repeat_rung3",
   "lines": [
    "Zeke calmly reveals his full name is actually Ezekiel, and is already sailing away."
   ],
@@ -1528,23 +1528,5 @@
   "npcName": "Zeke",
   "zone": "The Dock",
   "hookWord": "Where's the need?"
- },
- {
-  "dialogueId": "lozen_repeat_rung3",
-  "lines": [
-   "No more words. Lozen steps into the path."
-  ],
-  "responses": [],
-  "setFlags": [
-   "lozen_path"
-  ],
-  "questLink": "",
-  "conditionTag": "repeat_rung3",
-  "priority": 10,
-  "isWhisperLayer": false,
-  "voiceProfile": "lozen",
-  "npcName": "Lozen",
-  "zone": "Entrance",
-  "hookWord": "Halt."
  }
 ]
