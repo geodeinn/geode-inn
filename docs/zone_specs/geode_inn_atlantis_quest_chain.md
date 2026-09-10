@@ -1,5 +1,5 @@
 # THE ATLANTIS QUEST CHAIN: "THE CITY THAT CHOSE THE DEEP"
-## The explicit thread — drafted 2026-09-10 for Krista's review (DRAFT until ruled)
+## The explicit thread — PASSED by Krista 2026-09-10 (CANON — the water system's named questline)
 
 ---
 
@@ -58,4 +58,4 @@ The chain ends at the Crystal Core's door, pointing down. The rest belongs to th
 ## TONE LAW
 The city is not a tragedy. The chain plays the choice straight — the six-writer voice holds the awe without the mourning: what looks like a sinking from above is a decision from below. Weir's engineer clarity for the crystal mechanics, Gaiman's mythic-personal for the Librarian's touch-language, Rothfuss's precision for the water's patience. The drift, not the drowning. The held breath, not the gasp.
 
-*Draft for Krista's review — every piece builds on ruled canon; nothing here introduces a new gate. On approval, the chain loads as the water system's named questline and joins the builder queue.*
+*PASSED (Krista, 2026-09-10). The chain is canon — the water system's named questline. Joins the builder queue behind the parks + Silk Road sync messages.*

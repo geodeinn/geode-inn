@@ -23,6 +23,7 @@
 | Aughra/Fibonacci | THE CARRYING (the Fibonacci overlay) |
 | Naut | The Borrower's Ledger (the rare-book retrieval, the spiral proof) |
 | Water system (z14 + Lighthouse) | D06/D06b + Charon + Memory's Illusion → LOZEN reveal |
+| z14 ATLANTIS | THE CITY THAT CHOSE THE DEEP — six quests, PASSED 2026-09-10 (canon) |
 | Staircase/Catacombs/Undercity/Cosmology/Forge/Void/Ascent/In-Between/Fae | The 13 dissections (D01–D11) — the spine is mapped |
 | Silk Road | The caravan loop + routes + platforms (flagship corridor) |
 | Selkie / Festival / Mother's Many Faces / Observatory | Chains per the cultural chains master spec |
@@ -31,8 +32,7 @@
 
 | Zone | What's There Now | The Natural Chain |
 |------|------------------|-------------------|
-| z14 Atlantis | Full architecture, chain implicit | The explicit thread — the fastest win on this list |
-| z23 Redwood Cathedral | Mona's three layers RULED (Queens' Law), game #45 climb | The climb's story spine |
+| z23 Redwood Cathedral | Mona's three layers RULED (Queens' Law), game #45 climb | The climb's story spine — IN PROGRESS |
 | z10 Poison Garden | PoisonHerb entity LIVE, garden mechanics | The garden's story |
 | z20 Camelot | Arthur spec, Three Arthurs painted | The court's chain |
 | z09 Cave City | — | Mammoth geology as teaching layer (Earth-teacher candidate) |
@@ -55,7 +55,7 @@
 - z01's Dutchman is done; the Bayou's family threads stay hers
 
 ## THE WORK ORDER
-1. Atlantis's explicit thread (structure exists — quickest completion)
-2. Redwood's spine (the Queens' Law is ruled — the climb needs its story)
+1. ~~Atlantis's explicit thread~~ ✅ PASSED 2026-09-10 — THE CITY THAT CHOSE THE DEEP
+2. Redwood's spine (the Queens' Law is ruled — the climb needs its story) — IN PROGRESS
 3. Poison Garden (live mechanics waiting for meaning)
 4. Then the unwritten: Cave City → Trovants → Peru → Mesopotamia, and on down the list.
