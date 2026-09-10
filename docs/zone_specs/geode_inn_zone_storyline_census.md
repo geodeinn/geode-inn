@@ -45,8 +45,8 @@
 | z34 Bosch Shadows | ✅ CHAIN PASSED 2026-09-10 — 'The Shadow's Own Story' (the reading journey: the four states, the imprint, the acorn, the inversion, the final wall; 84Hz = the silhouettes turn away) |
 | z22 Petrified Forest | ✅ CHAIN PASSED 2026-09-10 — 'The Patient Replacement' (translation not destruction; Medusa the preserver's request-only law; Hel's between-witness; the Lithophone finale; the kept tone) |
 | z28 Van Gogh Garden | Aesthetic doc only (recovered library) | The garden that paints itself |
-| z29 Meadery | Drink mechanic spec | The mead chain |
-| z33 Tidal Caves | — | The breathing stone chain |
+| z29 Meadery | ✅ CHAIN PASSED 2026-09-10 — 'The Mead of Poetry' (the communion chain; Thorin's stone-tuned brewing; the Nook Effect; the keel line) |
+| z33 Tidal Caves | ✅ CHAIN PASSED 2026-09-10 — 'The Breathing Stone' (the moon's reach; the littoral law; the lag-sight; Vaulknut witnessed; the moon-mark) |
 | z35 Spiral Gallery | ✅ CHAIN PASSED 2026-09-10 — 'The Long Handprint' (the ochre hands as the imprint economy's birth, the nine Muse doors, the Escher turning, the Bard's gold chamber, the unfinished last room — the neutrality law made visible) |
 | z24 China Terracotta | Thin (Mulan aesthetic note) | The clay army's watch |
 | z06 India | — | Lore loaded, chain owed |
@@ -64,4 +64,4 @@
 4. ~~Cave City~~ ✅ FOUND COMPLETE — THE LAST LIGHT (already written, recovered library)
 5. ~~Mesopotamia~~ ✅ FOUND COMPLETE — THE FIRST WRITING (already written, recovered library)
 6. ~~Van Gogh Garden~~ ✅ DRAFTED 2026-09-10 — THE VISIBLE GROWING (awaiting pass; Sorrel named)
-7. Then the unwritten: Meadery (drafted, awaiting pass) → Tidal Caves (drafted, 3 flags awaiting ruling) → Terracotta → India → Canopy City
+7. Then the unwritten: Terracotta → India → Canopy City

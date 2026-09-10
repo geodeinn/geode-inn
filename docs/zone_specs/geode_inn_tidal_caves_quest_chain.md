@@ -1,5 +1,5 @@
 # THE TIDAL CAVES QUEST CHAIN: "THE BREATHING STONE"
-## The caves' story — drafted 2026-09-10 for Krista's review (DRAFT until ruled)
+## The caves' story — PASSED by Krista 2026-09-10 (CANON — all three flags approved as written)
 > CANON SOURCES: the census line z33 ("the breathing stone chain"); the portal registry (THE TIDE GATE — sea level, the Tidal Caves mouth, sea-level gating, the 7-Layer Deep one layer at a time); the Bosch Shadows doc (the tidal flooding wore the cave walls smooth — the smooth stone holds shadow the way calm water holds reflection); the artisan thief spec (Vaulknut — the master crafter who works alone in the Tidal Caves); the class mapping (zone affinity: the caves, the forge, the composer); the art visual spec (Wyndham Lewis — Vorticist geometry). PERSONAL-CANON NOTE: Vaulknut is Krista's own character — the workshop scene is written as an encounter, witnessed, not directed, and is flagged for Krista's personal review.
 
 ---
@@ -68,4 +68,4 @@ The finale at the spring tide — the deepest breath of the month, the flood tha
 ## TONE LAW
 Weir holds the tidal science (the moon's reach, the littoral swings, the 12.4-hour truth under whatever compression the Inn chooses — all real, all load-bearing). Gaiman holds the breathing stone (the mythic made personal: a cave that inhales). Rothfuss holds the timing (the rhythm learned in short beats). Bradbury holds the moon (the oldest touch, the outstretched hand, four billion years of the same gesture). Pratchett holds the pools (the barnacles that farm with their feet — the truth so strange it needs no invention). No one conquers the water. Someone learns its breathing, and the breathing lets them in.
 
-*Draft for Krista's review — three flags (the compressed tide, the Vaulknut scene, the Moon's door). The chain loads on pass.*
+*PASSED (Krista, 2026-09-10) — canon, all three flags approved as written: the compressed tide (42 minutes each way — the Song and the rest), the Vaulknut scene (witnessed only, never directed), and the Moon's door (shown once, closed — the water system's Lozen reveal untouched). The chain loads as the caves' story.*

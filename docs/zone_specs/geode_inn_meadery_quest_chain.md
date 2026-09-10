@@ -1,5 +1,5 @@
 # THE MEADERY QUEST CHAIN: "THE MEAD OF POETRY"
-## The mead hall's story — drafted 2026-09-10 for Krista's review (DRAFT until ruled)
+## The mead hall's story — PASSED by Krista 2026-09-10 (CANON — 'all of these are lovely ones')
 > CANON SOURCES: the drink mechanic master spec (Thorin's Meadery — the overturned Norse longship; liquid acoustic catalysts; the First Drink Ritual; the Drink Journal; multi-stage camaraderie; the Nook Effect; zone beverage stalls; the Wandering Program); the NPC profiles (Thorin the master brewer and stone cataloger; Marijke the logistician and registry keeper); the Norse canon (the Wanderer and the Allfather). THE MYTH LAYER: the Old Norse Mead of Poetry — public domain, the drink that makes whoever drinks it a poet.
 
 ---
@@ -64,4 +64,4 @@ The line is carved into the keel — invisibly, in the rune tracery every drink 
 ## TONE LAW
 Pratchett holds the hall (the laughter at the tables, the comedy that never mocks the warmth). Weir holds the fermentation (yeast, the immortal honey, the tomb-honey — all real, all poured). Rothfuss holds Thorin (the brewer's patience, the tuning, the masterwork in small words). Gaiman holds the myth (the Mead of Poetry walked into the Inn and made itself at home). And Bradbury holds the toast: one line, whatever's true, carved in the spine of a ship that stays afloat because it remembers every honest word. No one gets drunk. Someone gets heard, and the hearing is the pour.
 
-*Draft for Krista's review — no flags; the chain loads on pass.*
+*PASSED (Krista, 2026-09-10) — canon. The chain loads as the hall's story.*
