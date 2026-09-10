@@ -98,4 +98,4 @@ The Class Mapping was first written in docs/geode_inn_class_mapping.md (369 line
 - **Dialogue record live:** `tinkering_weeaboo_main` (Clockwork Skies, priority 5) — seated from class canon only
 - **Archetype:** Puzzle/caster — hyperfocused. Godlike in the affinity zone (Clockwork Skies, the Arcana, the Undercity workshop), barely functional elsewhere. The hyperfocus IS the power
 - **Art:** tri-mode crew portrait exists (Clockwork Skies L2 — `tinkering_weeaboo.png`, living 42Hz + In-Between)
-- **PENDING from Krista:** the proper name, the real-person identity, and the family tie-ins — the record's voiceProfile is flagged to receive them
+- **FAMILY DECISION (2026-09-10):** the record keeps the class canon as-is. If the character ever plays the game and wants to change it, it changes then — that door stays hers. No real-world layer is written into any public canon; the raw story lives with the keeper only
