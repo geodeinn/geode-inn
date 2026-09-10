@@ -131,3 +131,22 @@ The Bard-Pirate Dynamic was first designed in docs/geode_inn_bard_pirate.md (148
 The Bard and the Ragana have been deeply in love for sixty years. They eloped. On a whim. No announcement, no ceremony planning, no measuring — the Ragana measured nothing that day, which is how you know it mattered. Sixty years later they are still the Inn's proof that the noise and the measuring belong together.
 
 (Backstory note, keeper's eyes only: the Bard's real person is Krista's dad — the printmaker who taught her Book of Kells capitals as a child. The Ragana is her mother. The dock friendship with Zeke the Pirate portraits a real best-friendship. The flask is never empty in either world.)
+
+---
+
+## THE SIREN — Katya's Spot (canon seated 2026-09-10, Krista-requested)
+
+The Pirate's wife, seated properly. The Siren has two names and the whole Inn knows exactly one of them is hers.
+
+**Two names, one rule:** She is **Katya** — water guardian of the 7-Layer Deep, command voice of the Water Zone. But when Vaulknut, and only Vaulknut, addresses her directly, she is **Katija** — the way she actually wants it, indulged in quiet defiance of their mother's wrath. (The name carries grandmother Velta: fluent in Russian and Latvian by age two, rumored Russian royal lineage.) Strip #001, Panel 4 is the rule in four frames: the whisper, the glow, and Ragana's narrowed eye — "I heard that."
+
+**Her spot:** The Water Zone's guardian and doorkeeper. The dock is her front porch — Zeke's home port is her domain the way the library is Ragana's. She holds the keys to the deeper layers; her verdict on whether a player is ready is final.
+
+**The tie-ins:**
+- The magnetism: she hears everything and can't turn it off (the window scene — "We married the noise" — she heard Ragana from the library)
+- Two precision women, watching their noisy husbands from the same window: Katya and Ragana are the Inn's other great pairing — sister-in-law to sister-in-law, the truce of identical problems
+- The portraits exist and are canon: land form (`andra_land.jpg`) and water form (`andra_water.jpg`) in the gallery manifest
+- Dialogue record live in the entity: `katya_main` (Water Zone, guardian quests)
+- Best friend's wife to the Bard — the dock supper that Zeke makes port for is what the flask is to the friendship: the proof
+
+*(Keeper's note: Katya's real person is Krista's sister. The two names honor their grandmother Velta, who died before Krista was born. The magnetism is not invented.)*
