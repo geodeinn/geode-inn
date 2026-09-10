@@ -462,3 +462,18 @@ TIER 1 STATUS: COMPLETE — all named character gaps resolved or painted. The Fo
 | The Elder — post-crusade Arthur ascending (carrying the table piece) | Stellan Skarsgård (softened) | https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/7299d7602_generated_image.png |
 
 The Three Arthurs complete per docs/geode_inn_arthur.md: the boy who tries, the king who built equality, the elder who carries the memory. All features softened per standing rule — presence through posture and costume.
+
+## Tri-Mode In-Between Zone States — The Tectonic Set (2026-09-09, masters Inn-owned)
+
+| Zone | In-Between (mid-shift) URL |
+|---|---|
+| Main Floor (split hall, tectonic seam) | https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/005eea41b_generated_image.png |
+| Staircase (spiral split, mirrored alembics) | https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/d80607a1a_generated_image.png |
+| Catacombs (doubled passages, cold candles) | https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/e0db36018_generated_image.png |
+| Cosmology (two skies through one oculus) | https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/7781f4ba4_generated_image.png |
+| Seelie Court (summer vs. ice-flower frost) | https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/c29d41bbc_generated_image.png |
+| Unseelie Court (deep winter meeting the thaw) | https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/af96d71f5_generated_image.png |
+| Water Zone (two seas, frozen mid-motion) | https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/929bb1dd9_generated_image.png |
+| The Whole Inn (the flip itself, geode heart split) | https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/4f6f57db5_generated_image.png |
+
+TRI-MODE VISUAL SYSTEM NOW COMPLETE: living states (8 panoramas), shadow states (16 zone pieces from Drive intake), in-between states (8 panoramas above). Every major zone now has its full tectonic triple-set.
