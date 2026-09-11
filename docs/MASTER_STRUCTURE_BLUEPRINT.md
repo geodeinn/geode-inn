@@ -12,6 +12,18 @@ Every room in the Inn needs the same base kit, plus additions for what lives in 
 **KIT-G (a game room):** add the game's sprite census (per the 80 build sheets; Tomb Tunnel is the pilot: 28 sprites + shadow variants).
 **THE REC LAW:** paint once per CLASS, recolor per individual (the Tier 1 proof). The kit counts MASTERS, not variants.
 
+
+### 1a. THE ZONE IMAGE SESSION CANON (Krista's ruling, 2026-09-11)
+Every zone image session runs on the kit  the kit IS the session format:
+
+1. A session opens by naming the zone and reading its kit row (what the room owes per KIT-Z/N/G).
+2. The session paints toward the FULL KIT in parcels  wide + both frequency states (tri-mode/in-between) + option views + PROP set + ENV fill, plus portrait/cycle for inhabited rooms, sprite census for game rooms  never one-off panels.
+3. A session closes with one Ledger entry: the panels painted, the kit slots filled, and the remaining kit slots NAMED (so the next session inherits a checklist, not a puzzle).
+4. No zone leaves a session half-kitted silently  remaining slots are always logged in the Blueprint table and the Ledger.
+5. THE REC LAW holds inside sessions: masters first, recolors after (variants are not kit progress).
+
+This is how the Fae interior catch-up already ran (five parcels, same kit shape each time  it worked). The canon makes every future zone session legible, comparable, and half-finished-proof. The fourteenth/fifteenth-paint problem (stale tables) is prevented by rule 4: the Blueprint row updates at every session close.
+
 **Panel math:** ~100 rooms below. KIT-Z average ~15 panels/room (with option views + props + ENV). Inhabited rooms ~+6. Game rooms ~+20-40. **First-pass total: ~1,800-2,400 masters. Already painted: ~450 (54 zone images + 168 portraits + Silk Road 28 + Tomb Tunnel 28 + cycles + props/emblems). The mountain is measured; the queue is below.**
 
 ---
