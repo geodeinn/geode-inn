@@ -54,7 +54,7 @@ St. Louis Cemetery No. 1 — the tomb city, the Catacombs' American kin. **THE S
 
 **The girls:** The dead who stayed. Played with the Inn's honest-core law and the Shield of Lore's restraint (no morbid mechanics, no spooky costume, the heavy history honored in silence, prose quiet): the coffee girls are the Quarter's answer to the Bayou's keeper thesis — the Bog Fairy Golem stays as the keeper placed in the kept; the coffee girls stayed because SOMEONE HAS TO POUR FOR THE TRAVELERS WHO ARRIVE AT 3 A.M. They are warm. They are unhurried. They are always exactly tired. They remember EVERYONE'S ORDER FOREVER — the dead keep the small memories, not the big ones, and every order anyone ever loved is safe with them. The player gradually notices: no girl ever leaves, no girl is ever new, and the café has no closing time because the girls have nowhere else to be. NEVER EXPLAINED (the one-small-true-thing law). Played straight, per the Child-Actor Law's spirit: no cute-ification, no jump-scare inversion — just the gentlest uncanny in the Inn, served with sugar on the side.
 
-**The nod:** The café's name is Krista's to rule — the natural candidate is THE BITTER GROUNDS (the title as homage, the pun already true: the coffee IS bitter grounds).
+**The nod — RULED (Krista, 2026-09-10):** The café's name is THE BITTER GROUNDS — the title as homage, the pun already true: the coffee IS bitter grounds. Gaiman's story is credited in this spec as the tilt reference; the coffee girls are the Inn's own.
 
 ---
 
@@ -100,6 +100,6 @@ St. Louis Cemetery No. 1 — the tomb city, the Catacombs' American kin. **THE S
 6. **Mama Coumine** — retired to the Archive of Alternate Versions (the orphaned audit name). Confirm.
 7. **The Coffee Girls' treatment** — the dead who stayed, played straight: warm, unhurried, always exactly tired; every order remembered forever; never explained. The staying theme as the Quarter's echo of the Bayou's keeper. Confirm.
 8. **The café's placement** — the Quarter's gathering space (the Gathering Law), the two-directions parade's last stop, chicory coffee's blockade history as the teaching layer. Confirm.
-9. **The café's name** — Krista's ruling (the candidate: The Bitter Grounds, the homage).
+9. **The café's name — RULED (Krista, 2026-09-10): THE BITTER GROUNDS.**
 
 *Drafted in the six-writer gate, 2026-09-10. The city that could not bury its dead built them houses above the ground and painted the doors — and that, it turns out, is the Inn's whole architecture wearing a different hat. — Elio*
