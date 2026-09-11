@@ -73,3 +73,38 @@ Specs: docs/zones/geode_inn_hollow_earth.md + geode_inn_hollow_earth_build_spec.
 2. **THE DEEP ONES' PRESENCE IMAGE**  the third faction's representative wide (the ocean's watchers, the Deep Harbor's neighbors).
 
 Everything else in the stone-cave family: painted, URL'd, and ordered.
+
+---
+
+# THE CONNECTED WEAVE (added 2026-09-11 evening, Krista's call: all the underground layers  the catacombs, the pyramids, the acoustic caves, everything, CONNECTED THROUGHOUT)
+The underground is ONE BUILDING on four axes: the DWELLING LAYERS (mounds  catacombs  mausoleums  Undercity  Hollow Earth), the ACOUSTIC LAYERS (the five resonance chambers + the pyramid engineering), the WATER AXIS (the underground ocean and Persephone's tide), joined by the squiggly line. Today's chambers painted and woven in:
+
+## THE DWELLING LAYERS, COMPLETE
+| Layer | Image | Status | URL |
+|-------|-------|--------|-----|
+| Register 1: Passage mounds | the Little Newgrange + the Lightbox + the Rolling Door | PAINTED (above, Layer 2) |  |
+| Register 2: Catacombs (the roads) | zone image + panoramas + doubled passages | PAINTED (above, Layer 3) |  |
+| Register 3: Mausoleums (the grand houses) | QIN'S MOUND, UNOPENED  the mercury shimmering through the earth, never shown; the keeping IS the seeing | PAINTED (2026-09-11) | https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/066fb8494_generated_image.png |
+| Register 3 (continued) | Halicarnassus / the Taj / the Serapeum mausoleum fills | OWED (room fills, not establishing) |  |
+| Register 4: THE UNDERCITY  the memory-lamp grid, the murmur haze, Joe's warm window, Charon's ferry below | PAINTED (2026-09-11) | https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/35478daa6_generated_image.png |
+| The deepest register: THE HOLLOW EARTH | all 12 panels | PAINTED (above, Layer 6) |  |
+
+## THE ACOUSTIC LAYERS  THE FIVE RESONANCE CHAMBERS, ALL FIVE NOW PAINTED
+| Chamber | Hz | Image | URL |
+|---------|----|-------|-----|
+| THE EARTH HUM  Uluru | 7.83 | the rust-and-water chamber, the oldest continuous room, the hum felt in the chest | https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/70c774256_generated_image.png |
+| THE SONG  Newgrange | 42 | the Lightbox Dawn (painted above, Layer 2)  the Song's starting node | https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/fc8837980_generated_image.png |
+| THE SONG'S COUSIN  the Barabar boum | 42/tone | the Mauryan mirror-gleam, the one-note welcome, the Adequacy Law acoustic | https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/a60b97f90_generated_image.png |
+| THE HEARTBEAT  Angkor | 50 | the breathing temple gallery, the pulse keeping the visitor company | https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/05e6b8194_generated_image.png |
+| THE SHADOW  Shasta | 84 | (painted in the Shasta zone set)  the aurora you can walk inside | see Shasta spec |
+| THE ORACLE  the Hypogeum | 111 | the red-ochre whisper room, every lingering whisper since 3000 BC | https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/951b3d65e_generated_image.png |
+
+## THE PYRAMID LAYER (the engineering made sacred)
+| Image | Status | URL |
+|-------|--------|-----|
+| THE FIVE RELIEVING CHAMBERS  the granite beams above the King's Chamber, the work gang's marks glowing faint | PAINTED (2026-09-11) | https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/ecb1f0517_generated_image.png |
+
+## THE WATER AXIS (the connecting thread  Persephone's tide runs through all of it)
+The Tidal Caves set + the Dark Reaches swim + the Deep Harbor (all painted above). THE SQUIGGLY LINE holds: every layer touches the water, the water touches every layer.
+
+**THE WEAVE'S STATUS: the underground is now ONE PAINTED BUILDING at establishing depth  mounds to mausoleums to city to Hollow Earth, all five frequencies imaged, the pyramid's bones lit.** Remaining: the mausoleum fills (Halicarnassus/Taj/Serapeum), the Deep Ones presence, and the filled reward cave.
