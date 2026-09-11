@@ -104,6 +104,7 @@ Below is the complete catalog of 32 story-specific beverages distributed across 
 30  Norns' Thread-Dye Spirits    Tapestry Room           The Norns           Highlights fate threads & long-term quest consequences.
 31  Canopy Pine-Needle Tea       Ascension Canopy        The Owl / Arthur    Panoramic vision; exposes all zone perches from apex.
 32  The 42Hz Resonant Vintage    Prime Crystal Core      Inn Heart / Host    Simultaneous maximum perception on all layers for 60s.
+33  Mensinthe                    Main Floor Bar         Ryan (the bar)   Once per glass: reveals the load-bearing flaw in any ornate cage of reasoning. THE SUGAR-STEAL LAW: dawdle and a raven or platypus takes the cube  the theft IS the timer.
 ========================================================================================================================
 ```
 
@@ -609,3 +610,25 @@ The 42Hz Resonant Vintage   Prime Crystal Nook        "The Completed Song"     T
 | **Documentation** | Tabletop Questline Narrative Voice & Full Data Schemas | **COMPLETE** |
 
 *Document authored for the Geode Inn Master Design Collection.*
+
+
+---
+
+#### 33. Mensinthe  "It Means Table"
+
+**Zone:** Main Floor bar (the wall-built bar, Ryan's counter).
+**Served by:** Ryan  the Mellow Instigator pours it, mellow about it.
+
+**THE NAME (the dig, canon):** Mensa + absinthe. Mensa is Latin for TABLE  the genius club named itself "table." The wormwood brew's whole hook: "It means table. You can't argue with it. You can only sit at it." The serving ritual embodies Krista's Mensa sentence  the sugar cube on the slotted spoon is optional: take it or skip it, either way you've chosen. Skipping the sugar is your sugar of choice.
+
+**Preparation Ritual:** The full absinthe rite  emerald pour, ice water dripped slow, the sugar cube resting on the perforated spoon, the louche turning jade. The cube sits there as the visible choice.
+
+**THE SUGAR-STEAL LAW (Krista, 2026-09-11):** A raven or platypus may steal the sugar cube if the player keeps it waiting too long.
+- THE THIEVES: a chibi thieving raven (the Wanderer's ravens' kin  the klepto lineage is already canon) or a platypus (the animal science swore was a hoax: egg-laying, venomous, duck-billed, un-filable  the platypus never passed a taxonomy entrance exam, and thrived anyway. The anti-club animal, at the bar named "table").
+- NO TIMER (the Steady Light family): "too long" is never a countdown  no Skinner-clock, no blinking warning. The theft IS the timer. The cube vanishes when the player has been talking, wandering, or admiring the bar long enough that the choice quietly stopped being the player's.
+- THE RESULT: the drink is taken unsweetened. No stat penalty, no fail state  the wormwood simply bites harder. The cube was a choice; the theft is a sentence: the world will choose for you if you leave the choice on the spoon too long.
+- THE THEFT IS A GIFT WRAPPED AS A PRANK: losing the cube logs the bar story beat "chose, eventually"  Ryan slides the empty spoon into the wash without comment, visibly amused.
+
+**Flavor Profile:** Sharp wormwood bite, anise, fennel, a bitter finish that arrives like the last word of an argument you didn't realize you'd already won.
+
+**Mechanic (liquid acoustic catalyst #33):** Once per glass: reveals the load-bearing flaw in an elaborate cage  one look at any ornate reasoning (an NPC's sales pitch, a puzzle's elegant trap, a paradox dressed as a theorem) and the single unarguable sentence underneath lights up. Intelligence builds elaborate cages; the wormwood shows the door.

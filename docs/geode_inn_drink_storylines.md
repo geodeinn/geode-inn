@@ -255,6 +255,18 @@ The third bowl is the last in the kettle. Fibonacci scrapes the bottom. The liqu
 
 ---
 
+## 6. Mensinthe  "It Means Table"
+
+*The Main Floor bar. Ryan sets down the glass, the perforated spoon, the sugar cube. The emerald louche settles. The cube sits there white and patient.*
+
+**Ryan:** "Table. That's all it means. The cleverest club in the world named itself after furniture. You can't argue with it. You can only sit at it. The sugar's optional  that's the whole ceremony. Take it or don't. Either way you've chosen. Not choosing is just choosing slower."
+
+*If the player lingers  deep in conversation, watching the fire, admiring the woven bottles  a raven lands on the bar rail. Or sometimes it's the platypus, surfacing from the water feature by the garden door with the specific dignity of an animal nobody can file anywhere. Either way: the cube is gone between blinks.*
+
+**Ryan:** (not looking up from the tap) "Theft's a choice too. The house calls it sweetening the thief."
+
+*The drink is taken unsweetened. The wormwood bites harder. Somewhere in the room, a very smart person is explaining why they're not at the bar. They're usually explaining it at the bar.*
+
 ## System Notes: Camaraderie Architecture
 
 ### The Three-Tier Progression
