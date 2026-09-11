@@ -50,7 +50,7 @@
 | z35 Spiral Gallery | ✅ CHAIN PASSED 2026-09-10 — 'The Long Handprint' (the ochre hands as the imprint economy's birth, the nine Muse doors, the Escher turning, the Bard's gold chamber, the unfinished last room — the neutrality law made visible) |
 | z24 China Terracotta | ✅ CHAIN PASSED 2026-09-10 — 'The Clay Army's Watch' (the stamped names, the painted warrior, the 41.7Hz origin guarded, the relief — and PERSEPHONE hiding in the pit: the winter station, pomegranate red in the lacquer, the unstamped figure, the guest's voice in the answering chorus) |
 | z06 India | ✅ CHAIN PASSED 2026-09-10 — 'The Many Faces' (the visible cycle, the aum as the Song's original form, the garland, the both-banks law, the lamp — the sixth personal permanence, and the tongue's grace: 'enough') |
-| z07 Canopy City | Own Rackham zone, Tumble Run ties | The canopy chain |
+| z07 Canopy City | ✅ CHAIN PASSED 2026-09-10 — 'The City in the Branches' (the other economy, the living atlas, the home bough — the seventh permanence, the grey visit) |
 
 ## FLAGGED FOR KRISTA (personal canon — will not draft without her)
 - z05 Slavic — Vaulknut's territory
@@ -64,4 +64,4 @@
 4. ~~Cave City~~ ✅ FOUND COMPLETE — THE LAST LIGHT (already written, recovered library)
 5. ~~Mesopotamia~~ ✅ FOUND COMPLETE — THE FIRST WRITING (already written, recovered library)
 6. ~~Van Gogh Garden~~ ✅ DRAFTED 2026-09-10 — THE VISIBLE GROWING (awaiting pass; Sorrel named)
-7. Then the unwritten: Canopy City (the last)
+7. ~~Canopy City~~ ✅ PASSED 2026-09-10 — THE CENSUS IS COMPLETE. Every zone in the Inn holds its story.

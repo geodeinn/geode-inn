@@ -1,5 +1,5 @@
 # THE CANOPY CITY QUEST CHAIN: "THE CITY IN THE BRANCHES"
-## The canopy's story — drafted 2026-09-10 for Krista's review (DRAFT until ruled)
+## The canopy's story — PASSED by Krista 2026-09-10 (CANON — the DLC tone confirmed; the census is COMPLETE)
 > CANON SOURCES: the census line z07 (own Rackham zone, Tumble Run ties — the canopy chain); the master structure (CANOPY CITY = VANAHEIM — complete: the Cartographer, the Examiner, the Seelie Royalty, Fibonacci, the Fizgigs); the Treetop Marketplace master spec (2026-09-10 canon: the OTHER economy — nothing costs money, everything costs frequency — stones, songs, favors, seeds, secrets, time; the 9 cultural platforms; the mycorrhizal network — the Inn's underground internet; Canopy City Trading, roster #25; 42Hz canopy hum + 50 BPM sway); the arcade canon (TUMBLE RUN: the side-scrolling runner set in Canopy City, the Canopy City Evil Version DLC, the fizgigs in overalls as the loading screen characters); the Eres canon (the cabbit found in the canopy, at home in the grey — the In-Between recognition scene); the art canon (Canopy City is its own separate Rackham zone, not part of Clockwork Skies).
 
 ---
@@ -63,4 +63,4 @@ The finale, quiet and strange: the canopy's grey morning — the state between t
 ## TONE LAW
 Gaiman holds the city in the branches (the strange made neighborly). Weir holds the science (the fungal web, the spirals — all real, all load-bearing). Pratchett finally gets the fizgigs (the comedy critters' home game — overalls, lanterns, the delivery-day chase: the warmth at full speed). Bradbury holds the ascent (the light through leaves, the climb as remembering). Rothfuss holds the Cartographer (the unfinished map's keeper, the small words for the growing city). No one conquers the canopy. Someone climbs it, trades fairly, is given a bough, and learns the city's one rule: the currency is the connection, and everyone here is rich.
 
-*Draft for Krista's review — one flag: the Evil Version DLC's 84Hz shadow canopy is staged as the home team's weather (the dread owned by the ones who live there) — confirm the tone sits right for the DLC's canon. The chain loads on pass — and with it, the census is COMPLETE.*
+*PASSED (Krista, 2026-09-10) — canon. The DLC tone confirmed ('fits nicely'): the 84Hz shadow canopy is the home team's weather. The chain loads as the canopy's story: the ascent, the living atlas, the other economy, the spiral, the home bough, and the grey visit. THE ZONE STORYLINE CENSUS IS COMPLETE.*
