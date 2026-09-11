@@ -154,7 +154,7 @@ This is how the Fae interior catch-up already ran (five parcels, same kit shape 
 ### THE WORLD MAP (the 37 pins  the audit's family, specced tonight)
 | Zone | Spec | Chain | Art status |
 |------|------|-------|-----------|
-| The Celtic Highlands + the Book of Kells (the Moorlands) | done (TONIGHT) | the Missing Folio (gates) | IN PROGRESS (wide + the Bard's bench done 2026-09-11; portrait + kit fills owed) |
+| The Celtic Highlands + the Book of Kells (the Moorlands) | done (TONIGHT) | the Missing Folio (gates) | CAUGHT UP (full KIT-Z + KIT-C closed 2026-09-11 night session: wide, shadow, in-between, scriptorium + bench views, props, ENV, the six-critter census; the Bard's class portrait stands from the Main Floor census per the REC law) |
 | The Transylvanian Forest | done (TONIGHT) | the Owl Watch (gates; Friedrich gate) | IN PROGRESS (wide done 2026-09-11; kit fills + frequency pairs owed) |
 | The Norse Coast | done (TONIGHT) | the knarr run, the aurora (gates) | IN PROGRESS (showcase wide done 2026-09-11; the aurora's deeper panels owed) |
 | The Stone Circles | done (TONIGHT) | the Lithophone (gates) | IN PROGRESS (wide done 2026-09-11; the instrument panels owed) |

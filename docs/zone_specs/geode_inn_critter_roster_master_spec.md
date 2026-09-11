@@ -57,6 +57,25 @@ The full roster extends through every level:
 
 ---
 
+
+---
+
+## THE WORLD-MAP ZONES (new census section, opened 2026-09-11)
+The world-map family's zones gain their KIT-C census. Per the Species Law, each zone's critters ARE its Gemstone Egg pool.
+
+### THE CELTIC HIGHLANDS (the Moorlands | 50 BPM quill-scratch | the Insular hand)
+
+| # | Critter | What It Does | Vibe |
+|---|---------|-------------|------|
+| H1 | Heather Hare | The moor's early-warning system: interlace-patterned ears, stillness by default, one straight-up box-jump when startled (never a dash  the moor does not do flight, it does attention). | The moor's quickness, kept calm |
+| H2 | Bog Wisp | Peat-smoke motes carrying a gentle gold-leaf glow; the mist's own fauna. Drift the paths at dusk, present, never insistent. | The mist made small |
+| H3 | Ink-Starling | The sky's scribes: murmurations that form knotwork patterns before roost. The flock never repeats a figure (the ornament is improvised, like the margins). | The margin's ornament, airborne |
+| H4 | Bog-Oak Beetle | Glossy bog-oak-black shells with a single gold pin of light; roll peat beads along the paths (Sisyphus family, relaxed branch). The manuscript's black made creature. | Patience in the peat |
+| H5 | Mist Sheep | Fleece like a small gold-leaf cloud; the moor's lawnmowers  their grazing keeps the walking paths open through the heather. The zone's keepers, unbothered by everything. | The moor tends itself |
+| H6 | The Limner's Wren | A tiny wren with one ink-drop chest feather; follows the ink smell before dawn; the only evidence the Limner ever leaves. Perches on quills. Never explained. | The page-keeper's shadow |
+
+**Celtic Highlands egg pool (per the Species Law):** all six hatch from the zone's games; the Limner's Wren is the pool's rarest (hatches only for players who have completed the Missing Folio  the evidence follows the ones who stayed for the page).
+
 ## DESIGN PRINCIPLES
 
 | Principle | Detail |
