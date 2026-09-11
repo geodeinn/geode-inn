@@ -274,3 +274,45 @@ When something is wrong, the music should know before the player does. The trito
 | geode_inn_master_audio_voice_system.md | IEM architecture detail, 74 voice profiles, frequency constants |
 
 This document supersedes and consolidates the style target information from all sessions. The original music_direction.md remains valid for zone-specific instrument mappings. This document adds the artist style targets, cinematic references, compositional techniques, low-dub pipeline, karaoke system, and complete zone-to-sonic mapping.
+
+---
+
+## IX. THE KARAOKE REPERTOIRE & TREATMENT LAW (2026-09-11, complete)
+### The Campfire Catalog, Grown — Every Song Rendered Through the Analyzed Source List
+
+The karaoke system's settings were written (Section VI). What was missing: the REPERTOIRE beyond the founding seven, and the TREATMENT — the law that makes each backing track an Inn track and not a karaoke-machine preset. The treatment draws from the already-analyzed artists (the sonic source list): Tool (the accumulation build), 30 Seconds to Mars (the cathedral scale), Depeche Mode (electronica with soul), Danny Elfman (the hook that carries a soul), Trent Reznor (the sedimentary layer), Serj Tankian (the mutation between zones). The method is stolen, never the melody — every backing track an original low-dub arrangement of a public-domain song.
+
+### THE EXPANDED CATALOG (all public domain, each with difficulty, zone home, treatment, and the NPC join-in cast)
+
+| Song | Origin | Difficulty | Zone Home | Treatment (the analyzed source) | The Join-In Cast |
+|------|--------|-----------|-----------|--------------------------------|------------------|
+| My Mother Told Me | Sea shanty | Easy | Campfire, water zones | Depeche Mode — the drone carries longing under the row-rhythm | Zeke leads from the dock rail; the murloc gargle finds the low end (the gargle can never be overdone) |
+| Hoist the Colors | Pirate shanty | Easy | Water zones | Tool — verse layers accumulate one instrument per repeat; the last chorus is the full crew | Zeke; the dock's whole roster by the second chorus |
+| Drunken Sailor | Sea shanty | Easy | Campfire | Trent — the question-and-answer verse sediments; the fire brightens with each answered verse | Ryan's Idle Tap starts it; the brownies' shell-claps keep the work-rhythm |
+| The Wellerman | 19th-c. whaling shanty | Easy | Campfire, water zones | Tool — the long build; the "soon may the Wellerman come" refrain lands like the arriving layer | The whole circle, the murlocs included, by canon |
+| South Australia | Sea shanty | Easy | Water zones | Depeche Mode — baritone-forward, the synth under the haul | Zeke and the Bard together (the dock best-friendship, sung) |
+| The Parting Glass | Irish traditional | Medium | Campfire, evening | Elfman — one held hook note through every verse; the room goes quiet-full as it lands (Tchaikovsky's law borrowed) | The Firekeeper tells one fire story between verses; nobody sings the last verse alone |
+| Whiskey in the Jar | Irish traditional | Medium | Tavern mode | Depeche Mode — tavern-electronica, the bar's own register | Ryan's Idle Tap; the sugar-stealing raven visible on the beam |
+| The Foggy Dew | Irish traditional | Medium | Campfire, Seelie | Elfman — the modulation off-kilter just enough to feel otherworldly | The Seelie court's distant harmony (they know this one) |
+| Step It Out Mary | Scottish traditional | Medium | Campfire, Fae Kingdom | Serj — the chorus mutates key each time, the dance tempo | Lozen's footfall keeps the step |
+| The Wild Rover | Irish traditional | Medium | Tavern mode | 30STM — the "no, never, no more" chorus builds cathedral-scale | The whole tavern; the Flesh Wound Knight hops the tempo |
+| The Water Is Wide | Anglo-Scots traditional | Hard | Water zones, quiet hours | Depeche Mode — longing at 40 BPM (the night law) | Katya's "Depth." hum under the bridge verse — the only time the escort voice sings |
+| Siúil a Rún | Irish traditional | Hard | Campfire, evening | Elfman — the hook is the goodbye itself | Vaulknut hums it at the bench (the selkie's own song, unexplained) |
+| The Rattlin' Bog | Irish traditional | Easy (word game) | Campfire | Serj — each verse accumulates AND mutates (the bog grows; so does the mix) | Pluck first always (canon); the children's tier owns this one |
+| Scarborough Fair | English traditional | Hard | Archive, Main Floor | Trent — the modal verse layers until the question verse arrives | Beverley from the stacks, one verse, then silence |
+| Carol of the Bells | Ukrainian traditional | Hard | Cosmology, winter events | 30STM — cathedral scale; the ostinato IS the heartbeat at winter tempo | The gargoyles hum their key (111Hz); the chimes answer |
+| Danny Boy | Irish traditional | Hard | Lighthouse, evening | Elfman — the hook carries the whole song; one modulation, held | The Owl does not sing. The Owl watches. That is the arrangement. |
+| Loch Lomond | Scottish traditional | Medium | Highlands, evening | 30STM — "you take the high road" as the cathedral build | The Bearsark's low hum from the border (the both-real law, sung) |
+| Shenandoah | American traditional | Medium | Water zones, quiet hours | Depeche Mode — the wide-water longing, baritone register | Charon's river carries the low verse (a working song, honestly kept) |
+| Auld Lang Syne | Scottish traditional | Easy | New Year, the last night of events | Tool — the known melody arrives as the final accumulated layer of the evening | Everyone. The whole Inn. (The only song with no treatment but the truth.) |
+
+### THE TREATMENT LAWS (the settings behind the settings)
+
+1. **THE LOW-DUB REGISTER STANDS** — every backing track runs the existing low-dub pipeline (50 BPM base, sub-bass enhanced, reverb-drenched) before its song-specific treatment.
+2. **THE RESONANCE MECHANIC STANDS** (Section VI): singing in the baritone sweet spot brightens the fire, reveals stones, and triggers the NPC join-in — the join-in cast IS the reward system.
+3. **THE NIGHT LAW** — after-hours karaoke drops to 40 BPM with the drone thinned: the after-cannon hour's quiet register (canon).
+4. **NO SHAME, EVER** — the Anti-Skinner Law is absolute at the mic: pitch scoring is opt-in and the default screen shows no score, only the fire. The Stage's Polish Law (the shower-singer effect, engineered) governs the campfire mic as it governs the Stage.
+5. **THE ONE-TIME SONG** — one slot in the catalog is reserved and always unlisted: "Hallelujah" is NOT karaoke. It belongs to the Ragana's one-time ask in the Music Room. The door between karaoke and the Song stays shut.
+6. **COPYRIGHT LAW** — every catalog entry is public domain; every treatment is an original arrangement; the analyzed artists are the method-teachers, never the source of a playable melody.
+
+*(Repertoire: 19 songs + the founding 7's treatments above = 26 arranged; join-in casts wired to canon NPCs; ~14 hours of production at 30-45 min per arrangement.)*
