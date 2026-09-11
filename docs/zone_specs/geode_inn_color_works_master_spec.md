@@ -60,6 +60,30 @@ Color in the Inn is not decoration. IT IS CHEMISTRY WITH A RECIPE CARD. Every co
 
 ---
 
+## PART THREE — THE GLASS HOUSE (the Glassblower; added 2026-09-10)
+
+**The craft:** glassblowing — the gather, the marver, the blow. GLASS IS BREATH MADE PERMANENT: the pipe's breath shapes the gather, and the shape holds the breath forever. The craft's whole discipline is breath control — the Inn's oldest mechanic (the breath phase) becomes a craft here (the player's exhale length and steadiness shape the piece; the tell is true — the wobble in the breath is the wobble in the glass).
+
+**THE COLOR EQUATIONS ARE SACRED — the Equation Law:** the glassblower's color formulas are EARNED ONE AT A TIME, never sold, never told. Historically true (the Murano guild kept color formulas as state secrets — masters who left the island were hunted; the color was the state's treasure), and the Inn's version strips it to the honest core: the equations aren't hoarded from greed, they're EARNED BY OBSERVATION — THE DISASSEMBLY METHOD APPLIED TO COLOR (the architecture law's sibling: disassemble the building to learn what to gather; hold the known glass to the unknown and read the difference). The player recovers each equation by comparison — a red that's ruby-like beside one that's rust-like teaches the gold. The glassblower never tells; the glassblower shows.
+
+**The equation set (the honest chemistry, the sacred ladder):**
+| Equation | The chemistry | The status |
+|----------|--------------|-----------|
+| Cobalt blue | The deep blue — the constant, the first equation earned | The apprentice's first |
+| Manganese clear | THE GLASSMAKER'S SOAP — the decolorizer: the secret isn't coloring the glass, it's making the sand's own rust disappear | The counterintuitive lesson |
+| Copper aventurine | The sparkle caught in the body — copper crystals grown slow in the cool | The patience equation |
+| Iron green | The sand's own color, owned | The local equation |
+| SANG DE BOEUF (the ox-blood red) | Copper red in the REDUCTION fire — THE SAME SECRET AS THE RAKU LINE: the same copper, the same starved flame, two crafts, one truth. The Kiln Keeper and the Glassblower share one secret and teach it twice | The shared equation |
+| GOLD RUBY | Colloidal gold — the color that costs a fortune per ounce and was guarded like a throne; the master's equation, the most guarded color in the history of the craft | THE SACRED ONE — the colorist's master certificate |
+
+**The raw glass (the gathering ties):** SEA GLASS (the Tidal Caves' tumbled cullet — the recycled glass of the sea, the studio's beloved remelt) and DESERT GLASS (the Egyptian gift — the lightning-made raw). The glassblower is the Inn's great recycler: the broken piece is never waste, it's the next gather (the staying theme again).
+
+**THE TWO-FIRE SECRET (the law):** copper red in reduction belongs to both the kiln and the furnace — the raku pot and the sang de boeuf vase are the same chemistry at two temperatures, and the zone teaches them as one lesson learned twice. THE CHEMISTRY TIES THE CRAFTS (the One Grammar, fire branch: forge, kiln, furnace — the fire family's three rooms, one flame).
+
+**The Glassblower (the resident):** the Furnace's keeper — proposed as THE FIRE FAMILY'S THIRD KEEPER (the Forge, the Kiln, the Furnace), voice block a Batch 10 candidate. Temperament: speaks in partial recipes ("A little more. Not that much."), the discipline of the breath (never hurried, never wasting a gather), the guardian who shows rather than tells, and the one craftsperson in the Inn who is completely at peace with secrets — the equations are sacred BECAUSE they're earned, and the earning is the gift. Name: Krista's ruling.
+
+---
+
 ## THE STUDIO (where it lives)
 
 **THE COLOR WORKS** — the dye garden and the kiln yard as one studio: vats on one side (the ferment breathing), the kiln on the other (the fire waiting). Placement proposal: the Campgrounds' craft row (the homestead's own dye plot — the player-grown madder is the player's own red) with the kiln yard by the Forge's border (the fire family stays together). The studio satisfies the Gathering Law (the wheel is taught in company — dye days and raku nights are social events: the vat is stirred in turns, the raku reveal is witnessed or it didn't happen).
@@ -83,8 +107,12 @@ Color in the Inn is not decoration. IT IS CHEMISTRY WITH A RECIPE CARD. Every co
 - [ ] The glaze material records (Cobalt, Kaolin, Tin, Manganese as Material records — the mineral batch)
 - [ ] The recipe data pass (BuildingRecipe/wheel recipes — the twelve dye recipes + glaze blends as craftable records)
 - [ ] The raku game design (the pull-plunge-reveal loop — the one-button drama)
+- [x] THE GLASS HOUSE added (2026-09-10): the Glassblower, the Equation Law, the six-equation sacred ladder, the Two-Fire Secret, breath-as-mechanic
+- [ ] The Glassblower's voice block (Batch 10 candidate — the Furnace's keeper)
+- [ ] Glass materials batch (Sand as a Material record; the cullet sources are Sea Glass + Desert Glass, both already live)
 
 ## WHAT THIS SPEC ASKS KRISTA TO RULE ON
+0. **THE GLASSBLOWER** — the fire family's third keeper (the Forge, the Kiln, the Furnace): breath made permanent as the craft, THE EQUATION LAW (colors earned by observation-disassembly, never told — the Murano honesty), the equation ladder (cobalt → the soap → aventurine → iron → the shared ox-blood → GOLD RUBY, the sacred one), the Two-Fire Secret (copper red in reduction = raku = sang de boeuf), sea glass and desert glass as the cullet sources (the great recycler). And the name — Krista's ruling.
 1. **The wheel's material set** — madder, weld, indigo/woad + the mordant law (the color is only as permanent as its hold). Confirm.
 2. **The glaze chemistry** — the six mineral colorants, oxidation vs reduction (the same copper, two answers), the blend line (dye lessons transfer, then the fire edits). Confirm.
 3. **RAKU as the game's showcase craft** — the pull-plunge-reveal loop, the simple process that can't be industrialized, every pot original. Confirm.
