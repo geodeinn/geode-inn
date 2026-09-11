@@ -144,3 +144,10 @@ The five emblems of alchemy as the Staircase's flight markers, each in its Matis
 | The Stone | 5 — resolving C | Cut-outs: the gold circle with rays on midnight blue — the simplest and most precious image possible | https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/da2b538d3_generated_image.png |
 
 Class: EMBLEM · Zone home: The Staircase (one per flight, Nigredo at the bottom, the Stone at the top) · Product home: Geode Inn web beta + the Turning chain · Source: original generation (Matisse style reference only, per the legal basis on every build sheet) · Paired with the Turning track's five flights (the emblem IS the key change made visible).
+
+### THE PRISM PANELS  FIRST PAINT (2026-09-11, the icon room begins)
+| Panel | Subject | URL |
+|-------|---------|-----|
+| Prism establishing wide (the icon panel) | the chapel-sized crystal, the Inn built around it, no-outline mode | https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/ef038d7f6_generated_image.png |
+| The Reflection (the game's frame shot) | the traveler's face in the Prism, the doorway-of-light showing | https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/0e2576621_generated_image.png |
+| The Gate of the Stone Guard | the Gatekeeper, the bench, the sharp/angular guardian linework | https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/d1a82100a_generated_image.png |

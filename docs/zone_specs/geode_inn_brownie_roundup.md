@@ -30,6 +30,19 @@ Sweep-class critter (200s loop, hearth perimeter + main floor, patrol AI, 5 reco
 
 ---
 
+## THE THREAD-TO-THREAD TIE (added 2026-09-11, Krista's ruling: the threads tie into the whole dark-world storyline, the Silica overlay, and the coconut shells)
+
+### 5. THE SILICA THREAD TIE (the wiring IS the Thread)
+The brownies' unwitting infrastructure is not a parallel system  **it IS the Silica Thread's culture-strand, made physical.** The Thread's three strands (quartz  nature, silicon  technology, culture  the Inn as growth medium) are ALL present in the brownies' work: they wire quartz (the crystal points), silicon (the connections), through the Inn (the medium). Every solder point the brownies complete is one bead on the Thread. **The Thread's 5-point traversal (Cosmology  Main Floor  Staircase  Catacombs  Undercity) is the player walking the brownies' own network**  and the DARK SIDE ACCESS CONDITION "Silica Thread traced" (one of six) means THE BROWNIES' WIRES ARE LOAD-BEARING FOR THE INN'S DEEPEST REWARD ROOM. The comedy built the way in. The brownies still don't know.
+
+### 6. THE DARK WORLD TIE (the brownies' arc IS the Shadow storyline, told through workers)
+The Awakening Chain is the Shadow Inn's thesis in miniature: unaware light (the comedy)  the flicker (The Pause)  full knowledge (the circuit)  **and the choice to keep working anyway.** That last beat is the Shadow state's whole law: seeing the true state and choosing to stay. The trio's arc carries the dark world from room to room: the comedy that turns out to be infrastructure (light), the repair-UNDOING (D11's cruelest image), the 84Hz playable class (the shadow you can PLAY  aware, skilled, conflicted), the circuit going live (the dark world's arrival), and the coconut silence (the shadow's first note is a stop). **The brownies are the dark world's ground-floor proof: the Inn does not have a dark mode bolted on  it has workers who found out what the building was for.**
+
+### 7. THE COCONUT SHELLS (canon confirmed  the sound law)
+The coconut-shell polyrhythm IS the sound of the work (novel canon, Ch. 10: the line resumes and the polyrhythm picks up where it left off). **The clapping is not accompaniment to the work  the clapping IS the work.** The shells are the brownies' heartbeat  the work-rhythm joins the parent-frequency family (the tide, the forge's triplets, the second-line's 50 BPM: all the parent hum's children, and the coconut polyrhythm the smallest, busiest child). At 84Hz (the Shadow class), the polyrhythm is the war drum. And the deepest beat in the entire game is the one the shells DON'T play: **when the circuit completes, the coconut shells go silent  the first full stop  then one brownie picks up a wrench and the rhythm returns.** The game's whole argument in one restart of a rhythm.
+
+---
+
 ## THE WEAVE LEDGER (what's in, what was dangling, what's now wired)
 | Thread | Was it woven? | Now |
 |--------|---------------|-----|
@@ -39,6 +52,9 @@ Sweep-class critter (200s loop, hearth perimeter + main floor, patrol AI, 5 reco
 | The Contract/Boggart (constitution = contract, The List) | DANGLING (overlay doc only) | IN THE ROUNDUP; moderation-canon cross-ref owed |
 | The Revelation chain (The Pause, the circuit, the silence) | DANGLING (revelation doc only; NOT in the whisper layer spec) | WIRED: The Pause added to the whisper layer tracking spec as Tier 3 event; the circuit-completion scene OWED to the cosmology/Ascension dissection |
 | The Shadow Brownie class | DANGLING (revelation doc only) | IN THE ROUNDUP; D11 class spec owed |
+| THE SILICA THREAD TIE (wiring = the Thread's culture strand; Dark Side access load-bearing) | NOT DRAWN (the two systems never met) | WIRED (Thread 5, above); builder note owed: the Thread's traversal route follows the brownies' wire paths |
+| THE DARK WORLD ARC (the Awakening Chain as the Shadow thesis) | PARTIAL (D11 image only) | WIRED (Thread 6, above); the cosmology circuit-completion scene still owed |
+| THE COCONUT SHELL SOUND LAW (polyrhythm = the work; the silence; the war drum) | PARTIAL (novel + revelation docs) | WIRED (Thread 7, above); audio spec note owed (the polyrhythm joins the parent-frequency family) |
 | Project Bible | ZERO mentions | WIRED (entry added, below) |
 
 ## THE PROJECT BIBLE ENTRY (added 2026-09-11)
