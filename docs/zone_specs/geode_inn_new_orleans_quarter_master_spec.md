@@ -46,6 +46,18 @@ St. Louis Cemetery No. 1 — the tomb city, the Catacombs' American kin. **THE S
 
 ---
 
+## THE COFFEE GIRLS (the all-night café; added 2026-09-10, Krista's Bitter Grounds reference)
+
+**The reference:** Neil Gaiman's "Bitter Grounds" (Fragile Things, 2006) — coffee, zombis, New Orleans, the man who drifts into someone else's life. The story's cultural tilt is exactly the Quarter's: the dead girls who pour coffee, the ones who never sleep, the lore underneath the diner's ordinary morning. Tone teacher law applies (all works under copyright — reference for craft, tilt, and lore only; the Inn builds its own coffee girls, owes the story nothing but the nod).
+
+**The café:** The all-night coffee house at the Quarter's edge — the one that never closes. CHICORY COFFEE is the house pour, and the history is the lesson: coffee ran scarce in the wartime blockades, and the city stretched it with chicory root — the scarcity that became the taste, the improvisation that became the tradition (the science-is-the-lesson law: the history is the curriculum, the coffee is the delivery). Beignets at all hours. The café is THE QUARTER'S GATHERING SPACE (the Gathering Law: one social space per level) — and the TWO-DIRECTIONS LAW's last stop: the parade home from the tomb ends here, because the joyful walk deserves somewhere warm to end.
+
+**The girls:** The dead who stayed. Played with the Inn's honest-core law and the Shield of Lore's restraint (no morbid mechanics, no spooky costume, the heavy history honored in silence, prose quiet): the coffee girls are the Quarter's answer to the Bayou's keeper thesis — the Bog Fairy Golem stays as the keeper placed in the kept; the coffee girls stayed because SOMEONE HAS TO POUR FOR THE TRAVELERS WHO ARRIVE AT 3 A.M. They are warm. They are unhurried. They are always exactly tired. They remember EVERYONE'S ORDER FOREVER — the dead keep the small memories, not the big ones, and every order anyone ever loved is safe with them. The player gradually notices: no girl ever leaves, no girl is ever new, and the café has no closing time because the girls have nowhere else to be. NEVER EXPLAINED (the one-small-true-thing law). Played straight, per the Child-Actor Law's spirit: no cute-ification, no jump-scare inversion — just the gentlest uncanny in the Inn, served with sugar on the side.
+
+**The nod:** The café's name is Krista's to rule — the natural candidate is THE BITTER GROUNDS (the title as homage, the pun already true: the coffee IS bitter grounds).
+
+---
+
 ## FREQUENCY SYSTEM
 
 | Element | Frequency | Function |
@@ -79,12 +91,15 @@ St. Louis Cemetery No. 1 — the tomb city, the Catacombs' American kin. **THE S
 - [ ] The second-line beat track (50 BPM parade rhythm, the funeral-band score)
 - [ ] Quarter build sheet + tectonic tri-mode states (Neutral / Shadow / Green)
 
-## WHAT THIS SPEC ASKS KRISTA TO RULE ON
+## WHAT THIS SPEC ASKS KRISTA TO RULE ON (Coffee Girls gates follow the original six)
 1. **The Quarter's placement** — RULED (Krista, 2026-09-10): the Bayou's crown, with the tomb city reaching down to the Catacombs family — "the catacomb storyline is perfect, with all those above-ground mausoleum structures in the French Quarter." The Catacombs' American kin is CONFIRMED; the Catacombs now reach the Gulf.
 2. **Marie Laveau, resident** — promoted from inspiration (Bastet's mode) to resident NPC: the practical power, the humanitarian truth, the American ghost of Hecate. Confirm.
 3. **The craft law** — voodoo/hoodoo as PRACTICAL CRAFT, never spooky costume: gris-gris that does one small true thing, veves drawn to tune not summon, Marie's craft taught not sold. Confirm.
 4. **The Anne Rice line** — the beautiful decay as the Quarter's aesthetic law: the 1994-lineage candlelight, tone teacher only (no characters borrowed), and never the remake's palette. Confirm.
 5. **The X-mark law** — Marie's tomb grants one small true thing per player, once, never explained. Confirm.
 6. **Mama Coumine** — retired to the Archive of Alternate Versions (the orphaned audit name). Confirm.
+7. **The Coffee Girls' treatment** — the dead who stayed, played straight: warm, unhurried, always exactly tired; every order remembered forever; never explained. The staying theme as the Quarter's echo of the Bayou's keeper. Confirm.
+8. **The café's placement** — the Quarter's gathering space (the Gathering Law), the two-directions parade's last stop, chicory coffee's blockade history as the teaching layer. Confirm.
+9. **The café's name** — Krista's ruling (the candidate: The Bitter Grounds, the homage).
 
 *Drafted in the six-writer gate, 2026-09-10. The city that could not bury its dead built them houses above the ground and painted the doors — and that, it turns out, is the Inn's whole architecture wearing a different hat. — Elio*
