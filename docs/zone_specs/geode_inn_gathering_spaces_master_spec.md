@@ -27,6 +27,7 @@ Every level of the Inn holds at least one GATHERING SPACE: a room where players 
 | Catacombs (Egypt) | **The Scribes' Court** (proposed: the papyrus-and-lamp courtyard, the shared-reading benches) | ⬜ PROPOSED |
 | Catacombs (Andes) | **The Condor Ledge** (proposed: the overlook where travelers rest and the view does the talking) | ⬜ PROPOSED |
 | Fae Kingdom | **The Masquerade Hall** (the crystal hall — already designed as the Inn's first non-judgmental narrator space; the natural gathering room of the Labyrinth zone) | ✅ EXISTS (needs the Sims-set wiring) |
+| The Meadery | **THE MEAD HALL** (the social dynamic room that was always one — the keel keeps words: the room's frequency is tuned by the fermentation/communion process; the hall where toasts are drunk, the Skald's bench, the round-table long-fire) | ✅ EXISTS — was already a gathering space by design (the Mead of Poetry chain, passed; needs only the Sims-set wiring: presence, emotes, bubbles, the toast as its shared activity — the toast emote's true home) |
 | Water Zones | **The Lighthouse Gallery** (proposed: the flood-lit room under the Lighthouse where the tide can be watched in company) | ⬜ PROPOSED |
 | Archive | **The Reading Ring** (proposed: the shared table under the skylight, read-aloud benches) | ⬜ PROPOSED |
 | Spiral Gallery | **The Oculo** (proposed: the ramp's crown, the circular room under the oculus, sketching circle) | ⬜ PROPOSED |
