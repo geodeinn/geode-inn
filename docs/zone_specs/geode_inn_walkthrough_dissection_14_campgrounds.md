@@ -17,6 +17,7 @@ The Campgrounds present six options. All live, all forever.
 **If you approach the Forge, go to OPTION 4.**
 **If you follow the wolf into the Woods, go to OPTION 5.**
 **If you walk down to the shore — the loch, the dock, the lighthouse light — go to OPTION 6.**
+**If you claim a plot of your own — the homestead — go to OPTION 7.**
 (If you go back inside, the front door is where you left it — and the Campgrounds' whole point is that the door is easier to approach from out here. The Inn's doors go both ways.)
 
 ---
@@ -71,11 +72,21 @@ PERSEPHONE IS THE TIDE (canon, the tie-in): the surface caves breathe with the s
 - Audio: the loch's lap, the dock's hollow knock underfoot, the bodhrán somewhere out on the water keeping 50 BPM, and the tide breathing beneath everything — the shore is the water system's overture
 - Seed: all classes — the shore belongs to everyone; the Artisan Thief (the selkie) feels the water call and answers differently than the others (the selkie's dive and return); the Sentinel watches the horizon the way the wolf watches the sea
 
+### OPTION 7 — YOU CLAIM A PLOT OF YOUR OWN (THE HOMESTEAD)
+The Campgrounds' outermost ring and deepest offer: the player stops being a guest and becomes a BUILDER. THE SIM DYNAMIC (the building system master spec, the village & community system): the Inn is the seed of a player-built world — the Inn is the permanent center, and everything around it is the players'. Plots are organized in concentric rings: closer to the Inn = more expensive, more prestigious. The faire's edge is the first ring a new player can afford — and that is deliberate (the welcome before the door extends to the welcome before the building).
+**THE DON'T STARVE GATHERING LOOP** (7 base materials — wood, stone, clay, sand, ore, hemp, thatching — plus 17 derived composites): the player gathers at the Inn's own pace. GATHERING TEMPO IS 50 BPM — the player works at the heartbeat's speed; the pace is adequate. The gathering zones are the corridors themselves (the Bayou's Don't Starve aesthetic is the style's home: cypress, bog moss, bog oak, Spanish moss).
+**THE FIVE BUILDING TIERS** (the alchemical progression): Lean-to (basic shelter) → Cottage (a real home) → Workshop Home (home + crafting station) → Estate (a grand home) → Ancestral Hall (a legacy home that persists across sessions). The Ragana's verdicts escalate with the tiers ("Adequate" is the ceiling, and the ceiling is the point).
+**TOWN FORMATION — the Inn grows because the players grew it:** Homestead (1 — the Cartographer notes it) → Hamlet (3-5 — ERIK BRINGS THE COMMUNAL FIRE, the gathering point) → Village (6-10 — appears on the Silk Road map as a trade stop; market square forms; the mead begins) → Town (11-20 — gets a name chosen by the builders; the Host visits: "Room's ready.") → City (21-50 — gets a CHARTER FROM THE HOST; the Ragana comes to measure; a gargoyle takes residence, 111Hz protection) → WONDER (50+ — mapped in translucent crystal; a landmark on the scale of the five hubs; THE INN HAS GROWN).
+**THE NOOK LAW:** sitting in a finished building triggers the nook effect — the building IS a nook the player made, and it hums at 42Hz (the Song, audible only when the player sits still inside something they built).
+- Camera: the homestead in time-lapse orbit shots (Kubrick's symmetries assembling at the Inn's pace); Erik's communal fire in one held Spielberg wide (the first shared hearth is always the widest shot)
+- Audio: the building hum at 42Hz in finished structures; the gathering sounds as the zone's work-song (felling, quarrying, digging, panning, smelting, spinning, thatching — the seven gathers, one rhythm)
+- Seed: all classes — the homestead is everyone's endgame and no one's requirement (anti-FOMO: the plot never expires, the rings never close); the Artisan Thief builds the Estate the way the selkie builds anything — slowly, ashore, by hand; the Tinkering Weeaboo's Workshop Home is the nook the whole class was named for
+
 ---
 
 ## THE CONVERGENCE — THE HANDS
 However the Campgrounds are walked, the player leaves with the same additions: an economy that grows with them, a welcome that meets them before the door, a craft chain from rough stone to wearable song, a companion who knows the woods, and a clock — the first clock, the tide, kept by a pirate who is also the drum. The Campgrounds are the Inn's HANDS: the part that reaches outward, touches the world, makes things and welcomes the people the door hasn't met yet.
-The next doors: inside, the MAIN FLOOR (the hearth) · up the coast path, the LIGHTHOUSE and the surface caves · out on the water, the DOCK quests and the 7-LAYER DEEP · down, the ANNEX ALTAR — or stay at the fire pit. The fire dancers come out at night, and the faire's best hour is the one with the sky in it.
+The next doors: inside, the MAIN FLOOR (the hearth) · outward and forever, THE HOMESTEAD (the plot never expires; the rings never close) · up the coast path, the LIGHTHOUSE and the surface caves · out on the water, the DOCK quests and the 7-LAYER DEEP · down, the ANNEX ALTAR — or stay at the fire pit. The fire dancers come out at night, and the faire's best hour is the one with the sky in it.
 
 ## WHAT THIS DISSECTION ASKS KRISTA TO RULE ON
 1. **The Welcome Before the Door (Option 2)** — the stepping-stone law: the Campgrounds are deliberately easier to enter than the Inn, and Jay's tavern is the middle step between the world and the door. Some players camp before they enter; the Campgrounds exist for them first. Confirm.
@@ -84,5 +95,6 @@ The next doors: inside, the MAIN FLOOR (the hearth) · up the coast path, the LI
 4. **The Wolf's Two Loyalties (Options 2 + 6)** — the wolf's blanket at the tavern + the treeline stares toward the sea ("the wolf has a friend out there"): the wolf belongs to Jay AND to the shore's mystery. The Wolf's Whistle makes the wolf the player's outdoor companion. Confirm.
 5. **The Fortune Teller's Stone Readings (Option 5)** — the readings are RECOGNITIONS, not predictions: the stones answer from the player's own EchoMemory, and the tent sits farthest from the Inn on purpose. Confirm.
 6. **The Copper Economy + Stall Rotation (Option 1)** — the Market Field is the working economy (rough stone → craft chain → wearable song), and stalls appear as zones unlock — the field grows with the player forever. Confirm.
+7. **The Homestead Layer (Option 7, ruled by Krista's memory 2026-09-10)** — the building system IS the Campgrounds' outer ring: the player-directed, Don't Starve-gathered, Sims-grown communities and campgrounds around the Inn. Town formation's canon milestones (Erik's communal fire at Hamlet, the Host's charter at City, the Ragana's measuring, the gargoyle's residence, the Wonder's crystal map) are the Inn's cast meeting the player's world halfway. Confirm the Campgrounds as the building system's home zone — the first plot ring lives at the faire's edge.
 
 *Drafted in the six-writer gate, 2026-09-10. The Inn's hands are calloused on purpose — everything the door will ever welcome was carried here first. — Elio*
