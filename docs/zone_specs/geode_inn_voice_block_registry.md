@@ -404,3 +404,22 @@ The Layer Sweep's first voice pass closes the registry's oldest hold. Eight bloc
 | The Flame (50 BPM wound) | "Brighter." | The low roar; the heartbeat as the fire's floor — pain converted, not answered |
 
 *Remaining voice holds: Share Wood guild masters (need design — the guild concept has no doc yet; the layer pass will design them), the regional park/world-map keepers, the Tavern remainder (Maddi stays flagged for Krista). Gated: TJ, Gabby. Next: the audit's NEXT PASSES list governs the order.*
+
+---
+
+# PART 9: BATCH 11 — THE COUNCIL OF THINKERS (the wandering scientists, 2026-09-10, drafted and loaded)
+
+Krista's prompt: "let's track down these wandering NPCs — Da Vinci and Tesla are constantly bickering." The project bible holds the design (roaming NPCs, debate concepts across the Inn) — the engine held ZERO records for them. Now six: four three-rung blocks + TWO ambient bicker loops (whisper-layer, proximity-triggered speech bubbles).
+
+**THE BICKER LAW (Krista-confirmed canon):** Da Vinci and Tesla bicker CONSTANTLY — and the bicker is LOVE in the Inn's grammar: the eye and the number, the two halves of knowing that refuse to merge because the argument IS the method. The loop never resolves; the player who approaches gets adopted into the argument as the joint lesson.
+
+**THE GRAVITY PAIR:** Newton and Einstein wander as the fond argument — slower, politer, two thinkers who owe each other everything and argue only about who owes more. Resolves into the violin, always.
+
+| Thinker | Hook | The Quiet (Rung 3) |
+|---------|------|--------------------|
+| Da Vinci (the visualizer, Plato's descendant) | "See?" | The page handed over — the drawing does the answering |
+| Tesla (the descendant of all three; the 42Hz proof) | "Almost." | The coil allowed to sing — Tesla yields to the hum |
+| Newton (the calculator, Aristotle's descendant) | "It follows." | The apple set down — the demonstration that is also lunch |
+| Einstein (the relativizer, the fond corrector) | "But imagine..." | The violin's two notes — the argument ends in music |
+
+Wires: Tesla holds residence in the Modern Legends nook (per the project bible). All four attach to The Turning Quest 4 ("The Conversation Continues"). Roaming = the whole Inn — the Council's movement layer lives in the wander-AI spec (the two pairs wander as units; pairs split only to address the player individually).
