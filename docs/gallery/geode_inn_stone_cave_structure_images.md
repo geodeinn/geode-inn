@@ -8,7 +8,7 @@
 |-------|--------|-----|
 | The Geode Corner (the mascot asleep in the amethyst, the Whisper Layer above) | PAINTED (2026-09-11, D13 tail parcel) | https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/36c73c00b_generated_image.png |
 | The Geode Tier egg (the hatchery's cut-crystal cathedral) | PAINTED | https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/b0456e745_generated_image.png |
-| The reward cave interior FILLED with gems (the geode forming, the collection's proof) | OWED  the one gap in this layer |  |
+| The reward cave interior FILLED with gems (the geode forming, the collection's proof  the dragon asleep on the softest stones) | PAINTED (2026-09-11, closing parcel) | https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/80cb8af8a_generated_image.png |
 
 ## LAYER 2  THE PASSAGE MOUNDS (the little Newgranges, the Campgrounds' shallow depth)
 | Image | Status | URL |
@@ -64,7 +64,7 @@ Specs: docs/zones/geode_inn_hollow_earth.md + geode_inn_hollow_earth_build_spec.
 |-------|--------|-----|
 | Echo faction leader (the memory-ghost preserver) | PAINTED | https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/f60ec84d2_generated_image.png |
 | Lost faction leader (the settled claimant) | PAINTED | https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/2e387c6a9_generated_image.png |
-| Deep Ones faction presence | OWED  the third faction has no faction-wide presence image |  |
+| Deep Ones faction presence (the watchers at the Deep Harbor quay, the chin on the stone like an old neighbor at a fence) | PAINTED (2026-09-11, closing parcel) | https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/2bd33661f_generated_image.png |
 
 ---
 
@@ -85,7 +85,9 @@ The underground is ONE BUILDING on four axes: the DWELLING LAYERS (mounds  catac
 | Register 1: Passage mounds | the Little Newgrange + the Lightbox + the Rolling Door | PAINTED (above, Layer 2) |  |
 | Register 2: Catacombs (the roads) | zone image + panoramas + doubled passages | PAINTED (above, Layer 3) |  |
 | Register 3: Mausoleums (the grand houses) | QIN'S MOUND, UNOPENED  the mercury shimmering through the earth, never shown; the keeping IS the seeing | PAINTED (2026-09-11) | https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/066fb8494_generated_image.png |
-| Register 3 (continued) | Halicarnassus / the Taj / the Serapeum mausoleum fills | OWED (room fills, not establishing) |  |
+| Register 3 (continued) | THE HALICARNASSUS interior (the translucent marble, the horse friezes) | PAINTED (2026-09-11) | https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/4de63a680_generated_image.png |
+| Register 3 (continued) | THE TAJ-LIKE MAUSOLEUM interior (the pietra dura inlay, the jali light patterns) | PAINTED (2026-09-11) | https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/f664e25a1_generated_image.png |
+| Register 3 (continued) | THE SERAPEUM GALLERY (the ninety-ton granite sarcophagi, hands moved these) | PAINTED (2026-09-11) | https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/4f550f5d4_generated_image.png |
 | Register 4: THE UNDERCITY  the memory-lamp grid, the murmur haze, Joe's warm window, Charon's ferry below | PAINTED (2026-09-11) | https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/35478daa6_generated_image.png |
 | The deepest register: THE HOLLOW EARTH | all 12 panels | PAINTED (above, Layer 6) |  |
 
@@ -107,4 +109,4 @@ The underground is ONE BUILDING on four axes: the DWELLING LAYERS (mounds  catac
 ## THE WATER AXIS (the connecting thread  Persephone's tide runs through all of it)
 The Tidal Caves set + the Dark Reaches swim + the Deep Harbor (all painted above). THE SQUIGGLY LINE holds: every layer touches the water, the water touches every layer.
 
-**THE WEAVE'S STATUS: the underground is now ONE PAINTED BUILDING at establishing depth  mounds to mausoleums to city to Hollow Earth, all five frequencies imaged, the pyramid's bones lit.** Remaining: the mausoleum fills (Halicarnassus/Taj/Serapeum), the Deep Ones presence, and the filled reward cave.
+**THE WEAVE'S STATUS (CLOSED 2026-09-11, the closing parcel): the underground is now ONE PAINTED BUILDING, COMPLETE at establishing depth  mounds to mausoleums to city to Hollow Earth, all five frequencies imaged, the pyramid's bones lit, the reward cave filled, the Deep Ones at the quay. NO GAPS REMAIN in the stone-cave manifest.**
