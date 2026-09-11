@@ -238,3 +238,13 @@ Class: ENV/PRESENCE masters (the new panel class  the characters LIVING in their
 
 Class: ENV/ZONE masters (the Bedrock Fortress + the Prism's deep kit, D16)  Zone home: the Bedrock Fortress, the true bottom  Product home: the web beta's deepest level + the Prism's icon screens  Source: original generation (THE KUBRICK-HENSON PROTOCOL held: geometry meets soul, every panel; the Steady Light Law held: the aurora a slow sine, the mercy clause kept  the One Showing's light deliberately abstract, showing nothing; the Dark Side Sphere braided with the Norse Coast's Aurora Thesis). THE PRISM'S KIT NOW STANDS AT SEVEN (wide shot, reflection, gate of the Stone Guard, bench, showing, sphere, water door). Next per the ledger: queue #4  the craft row (the Glassblower's shop + the Color Works' dye plots).
 
+
+**THE CRAFT ROW (2026-09-11, ninth paint  QUEUE #4 COMPLETE: the Glass House + the Color Works):**
+| Panel | Subject | URL |
+|-------|---------|-----|
+| THE GLASS HOUSE (ENV wide) | the steampunk shop: brass and glass, the furnace's pipes made architecture, the blowpipe rack like an organ, the spectator gallery | https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/83a5606b0_generated_image.png |
+| THE GLASSBLOWER AT THE FURNACE (presence panel) | the grumpy artist mid-blow: the ruby gather, the puffed cheeks, the fierce concentration, the spectators at warm distance | https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/6c2af749e_generated_image.png |
+| THE COLOR WORKS (ENV wide) | the dye garden and kiln yard as one studio: woad and madder plots, the fermenting vats, the drying skeins, the iron-gall ink table | https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/79c1664d8_generated_image.png |
+| RAKU NIGHT (presence/social panel) | the reveal witnessed or it didn't happen: the circle, the kiln, the sang de boeuf copper-red mid-reveal, the Kiln Keeper with crossed arms and bright eyes | https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/896dbd536_generated_image.png |
+
+Class: ENV/PRESENCE masters  Zone home: the Campgrounds craft row (the Glass House shop site + the Color Works dye/kiln yard, kiln side by the Forge border)  Product home: the web beta's Campgrounds craft row screens + the craft curriculum's hub art  Source: original generation (the Two-Fire Secret braided into both: the Glassblower's ruby and the raku copper painted as the same secret, two crafts; heavy cel-shaded tradesman linework per the Linework-as-UI law; Steady Light held; the Gathering Law held  both panels built for company; the Glassblower's face soft per the celebrity law, presence through posture). QUEUE #4 COMPLETE. Next: queue #5  the Bearsark model sheet.
