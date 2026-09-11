@@ -1,5 +1,5 @@
 # THE INDIA QUEST CHAIN: "THE MANY FACES"
-## The ghats' story — drafted 2026-09-10 for Krista's review (DRAFT until ruled)
+## The ghats' story — PASSED by Krista 2026-09-10 (CANON — the Meeting of the Archives confirmed, witnessed staging)
 > CANON SOURCES: the India zone master doc (THE GHATS OF KALI: the Ganges as the visible cycle; the four elements in one frame — earth, water, fire, air; THE AUM as the 42Hz Song's Indian expression — water is A, fire is U, air is M, stone is the silence; KALI the compassionate destroyer — the garland of severed heads as the reductive archive, the tongue as the stopping point; casting: Tabu — confirmed by Krista); the arcade build sheet (GHATS OF KALI, Patapon × India, river festival rhythm, Ruby reward — development status: live); the quest integration master (the India chain: "The Many Faces" — owed); the drink mechanic (India: spiced milk, saffron tea); the census line z06 ("lore loaded, chain owed").
 
 ---
@@ -62,4 +62,4 @@ The finale, and the zone's central mechanic: the stopping point. Kali's final te
 ## TONE LAW
 Gaiman holds the ghats (the cycle as gentle weather, the visible forever). Rothfuss holds Kali's hands (the cut that is care, the steady mother). Weir holds the elements (the aum assembled by real listening — water, fire, air, stone: all real, all load-bearing). Bradbury holds the lamps (a thousand small lights on the water, each one someone). Pratchett holds the tongue — carefully, warmly, because the tongue is funny AND the tongue is everything: the most powerful force in the zone, embarrassed at itself, and the embarrassment is the grace. And Asimov holds Quest 4's structure (the two archives as one theorem, the proof in two notations). No one is destroyed here. Something is cut, and the cutting is the mercy, and the mercy has a stopping point.
 
-*Draft for Krista's review — one flag: the Meeting of the Archives (Quest 4) stages the Shifting Man across the water, undirected — confirm the witnessed staging sits right, given family canon. The chain loads on pass.*
+*PASSED (Krista, 2026-09-10) — canon. The Meeting of the Archives confirmed: the Shifting Man witnessed across the water, undirected — the family-canon staging stands. The chain loads as the ghats' story: the steps, the aum, the garland, the both-banks, the lamp, and the tongue.*
