@@ -37,3 +37,22 @@ The Terracotta Army is already canon (the garrison; Persephone's winter station 
 | **The Cave City's Mausoleum District** | The district | Already canon: the silence law, the Crimean Goths' crypts, the dead's shortest cut to the surface ("Don't mind them. They're polite.") |
 
 **GATES FOR KRISTA:** (1) the roster's cut (the documentary library will surface more); (2) the silence's edge (fade or stop at the mausoleum threshold); (3) the Bone Room's weave role  does Saker's archaeology source finds from the world's scattered sites (the Bone Keeper's collection becomes the weave's home museum?); (4) the water tombs' register  the sunken tombs (Heracleion's drowned houses have their dead too); does the dwelling layer reach the water axis, and how gently?
+
+---
+
+## PART TWO: THE UNDERCITY (found and woven 2026-09-11, Krista: "we actually created the entire world of the undercity and it has a classic Addams family/beetlejuice vibe. Where it is hiding, I am not sure.")
+
+### WHERE IT'S HIDING (the geography, answered)
+Level 3, the Catacombs' deepest register: BELOW the catacombs themselves, entered by THE FORGE ELEVATOR through the root-rock (the Blacksmith's hammer-scored lift; the Living Hammer is the key  carried, not inserted, and the elevator reads the hammer's frequency). Charon's river runs beneath its streets (84Hz  audible everywhere, visible nowhere). Belladonna winters there (the Japan canon: Undercity in cold months, Fuji's summit in summer  the resident most at home among the dead keeps a summer home on the mountain of passage). The Undercity is the dwelling geography's DEEPEST CITY  the town center of the whole underground axis, with only the Bedrock Fortress and the Prism below it.
+
+### THE FOURTH REGISTER (the city)
+The dwelling layer's family tree completes:
+1. **The passage mounds**  the small houses
+2. **The catacombs**  the shared roads
+3. **The mausoleums**  the grand houses
+4. **THE UNDERCITY  THE CITY**  where the dead are not merely housed but EMPLOYED: the memory-lamps run on the departed's memories (the city's power grid; the brightest streets are the ones the players light themselves), the Blacksmith's hammer remembers each technique's original owner and tells the player (the telling keeps the dead employed), the Clockmaker repairs the lamps, Scarlett stitches the city's clothes, Joe keeps a tab that never comes due. The Undercity is the weaving-made-social: the whole dwelling layer's main street, greasy spoon and all.
+
+### THE WHIMSICAL-MACABRE LAW (the Addams/Beetlejuice vibe, named as the register's law)
+The cozy gothic canon holds (hobbit-hole meets Addams Family meets ancient library  not horror, not cartoon), and the Undercity is its PUREST EXPRESSION: **the macabre played WARM.** The dead are good neighbors who enjoy being neighbors. Nothing is spooky; everything is strange and homey at once  the greasy spoon at the bottom of the world, the seamstress who charges stories, the city that grows brighter every time the living community lives. THE LAW, written for the whole dwelling layer: no dread at the dead's address. The dark is not the opposite of the lovely  the dark is the lovely, wearing its other dress. (The Beetlejuice register  the neither-world, the waiting room  the Inn's version: the neither-world done KINDLY. The memory of everyone who was ever in the Inn, kept by someone who considers the keeping a privilege. Not sad. Patient.)
+
+**The weave's acoustic split, completed:** the Undercity has a HUM (84Hz, the river beneath the streets) but the hum is the CITY'S OWN  not the resonance chambers' Song, not the mausoleums' silence. Three acoustic registers underground: the chambers sing, the mausoleums listen, and the Undercity MURMURS  the city-noise of the kept dead, the lamps' gears, the far-off hammer, the river. (GATE: does the murmur count as a resonance-chamber-adjacent tone for the songbook, or is the city's murmur unloggable  the one sound the Inn keeps but the player cannot carry?)
