@@ -48,7 +48,7 @@ The coconut-shell polyrhythm IS the sound of the work (novel canon, Ch. 10: the 
 |--------|---------------|-----|
 | Ambient/sprites/movement/audiobook | WOVEN (art + wiring specs + audio spec) | unchanged |
 | D11's cruelest image (repair undone) | WOVEN | unchanged |
-| The Entourage (Grit, formation, the Keeper's pace) | DANGLING (character doc only) | IN THE ROUNDUP; roster census wiring owed |
+| The Entourage (Grit, formation, the Keeper's pace) | DANGLING (character doc only) | IN THE ROUNDUP; census wiring PAID (Grit canonized as named-critter #8, 2026-09-11; the trio cross-referenced) |
 | The Contract/Boggart (constitution = contract, The List) | DANGLING (overlay doc only) | IN THE ROUNDUP; moderation-canon cross-ref owed |
 | The Revelation chain (The Pause, the circuit, the silence) | DANGLING (revelation doc only; NOT in the whisper layer spec) | WIRED: The Pause added to the whisper layer tracking spec as Tier 3 event; the circuit-completion scene OWED to the cosmology/Ascension dissection |
 | The Shadow Brownie class | DANGLING (revelation doc only) | IN THE ROUNDUP; D11 class spec owed |
