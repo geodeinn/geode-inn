@@ -454,3 +454,17 @@ Krista's prompt: "Very early on, a group of smiths claimed a home within the int
 | Verdigris | copper (the chemical clock) | time / patience | "Green today." | The patina shown, not explained — the metal's diary, speaking in its own time |
 
 The Five-Smith pouch note preserved: the companion system's pouch is the smiths' COLLABORATIVE work — five metals, five smiths, one object (Forge's iron hooks, Alloy's bronze settings, Current's silver contacts, Endure's gold clasps, Verdigris's copper chain — the pouch's ambient hum is their joint signature).
+
+---
+
+# PART 12: BATCH 14 — THE TURNING'S LAST THREE (the Clockmaker, the Retort, the Cook, 2026-09-10, drafted and loaded — THE STAIRCASE CAST IS COMPLETE)
+
+| Resident | Hook | The Quiet (Rung 3) |
+|----------|------|--------------------|
+| The Clockmaker (the turning point) | "One moment." | The tick alone, slowed to the heartbeat — a steady beat under someone else's decision |
+| The Retort (the mind) | "Reduce." | The condensation falling drop by drop — the answer distilled, arriving at exactly the rate understanding arrives |
+| The Cook (the heart) | "Stir." | The spoon held out across the pot — the third rung is participation; the taste offered, not described |
+
+Plus the ambient MIND-AND-HEART LOOP (the Staircase's own bicker pair, but the KIND bicker): the Retort and the Cook disagreeing about what the work is for, for six hundred years — the argument always ends the same way: rigor requested, seconds served, both of which mean love. Their leitmotif (per the track spec): glass and wood FUSED — one sound, two materials.
+
+**THE STAIRCASE'S VOICE LAYER IS COMPLETE: 19 records.** Five smiths (Batch 13), four scientists + two loops (Batch 11), three philosophers + the Three-Step loop (Batch 12), the Clockmaker, the Retort, the Cook, and the Mind-and-Heart loop (Batch 14). Remaining Staircase layers: ART (the five emblems live as assets; tri-mode states per the ledger). Music: SPEC'D (the Turning track brief filed — composition owed to the pipeline).
