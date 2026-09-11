@@ -44,7 +44,7 @@ All sites predate or sit at the Inn's pre-industrial cutoff (pre-1850s).
 - **Description:** Above-ground tomb city — not underground catacombs, but vaulted mausoleum streets built above ground due to the high water table. Row after row of elaborate stone tombs, family vaults, and society crypts.
 - **Notable:** Oldest extant cemetery in New Orleans. Tomb of Marie Laveau (Voodoo queen). The above-ground design was mandated after bodies in ground graves were found to be the cause of an 1830 epidemic. Spanish colonial architectural influence.
 - **World Map Pin:** New Orleans, LA
-- **Inn Connection:** Unique American variant of catacomb architecture. Marie Laveau's tomb connects to the modern legends nook and the Inn's folklore framework. The water-table-forced design is a natural-world constraint shaping human architecture.
+- **Inn Connection:** RULED (Krista, 2026-09-10) — the Catacombs' AMERICAN KIN, confirmed: "the catacomb storyline is perfect, with all those above-ground mausoleum structures in the French Quarter." The tomb city is the Catacombs' surface expression at the waterline (the ground refuses; the dead get houses, not holes). Marie Laveau's tomb connects to the modern legends nook and the Inn's folklore framework. The water-table-forced design is a natural-world constraint shaping human architecture.
 
 ### 5. Unitarian Church Cemetery — Charleston, SC
 - **Established:** 1772 (construction began), 1787 (first used)

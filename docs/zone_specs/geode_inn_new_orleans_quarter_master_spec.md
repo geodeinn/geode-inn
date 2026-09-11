@@ -80,7 +80,7 @@ St. Louis Cemetery No. 1 — the tomb city, the Catacombs' American kin. **THE S
 - [ ] Quarter build sheet + tectonic tri-mode states (Neutral / Shadow / Green)
 
 ## WHAT THIS SPEC ASKS KRISTA TO RULE ON
-1. **The Quarter's placement** — the Bayou's crown (Option 6 on the dissection), with the tomb city reaching down to the Catacombs family. Confirm.
+1. **The Quarter's placement** — RULED (Krista, 2026-09-10): the Bayou's crown, with the tomb city reaching down to the Catacombs family — "the catacomb storyline is perfect, with all those above-ground mausoleum structures in the French Quarter." The Catacombs' American kin is CONFIRMED; the Catacombs now reach the Gulf.
 2. **Marie Laveau, resident** — promoted from inspiration (Bastet's mode) to resident NPC: the practical power, the humanitarian truth, the American ghost of Hecate. Confirm.
 3. **The craft law** — voodoo/hoodoo as PRACTICAL CRAFT, never spooky costume: gris-gris that does one small true thing, veves drawn to tune not summon, Marie's craft taught not sold. Confirm.
 4. **The Anne Rice line** — the beautiful decay as the Quarter's aesthetic law: the 1994-lineage candlelight, tone teacher only (no characters borrowed), and never the remake's palette. Confirm.
