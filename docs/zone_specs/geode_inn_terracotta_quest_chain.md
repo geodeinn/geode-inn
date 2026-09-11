@@ -1,5 +1,5 @@
 # THE CHINA TERRACOTTA QUEST CHAIN: "THE CLAY ARMY'S WATCH"
-## The clay army's story — drafted 2026-09-10 for Krista's review (DRAFT until ruled)
+## The clay army's story — PASSED by Krista 2026-09-10 (CANON — with the Hidden Guest: Persephone in the pit)
 > CANON SOURCES: the China zone master spec (the Mulan ink-wash aesthetic; the Army Pit — 8,000 warriors each face unique, sleeping at 0Hz, THE ONE WHO IS AWAKE sustaining 42Hz alone; the Mercury Ocean — shanshui's water, liquid calligraphy, the ocean mirrors whatever the player carries; the 41.7Hz ORIGIN — the Constant's starlight crystal, guarded by the army; access through the Catacombs); the Shasta canon (the 41.7Hz shard — one per player, never explained); the census line z24 ("the clay army's watch").
 
 ---
@@ -80,4 +80,4 @@ The finale, and the chain's quiet revolution: the relief of the watch. The playe
 ## TONE LAW
 Weir holds the history (the stamped makers, the mercury soil, the polychrome loss — all real, all load-bearing). Gaiman holds the watch (two thousand years of one held gaze, and the held gaze is the guard). Bradbury holds the ink-wash (the amber light, the dreams that went monochrome to save the colors). Rothfuss holds the Awakened One's voice (the watcher's arithmetic, the plain words for the long time). Pratchett stays respectfully at the pit's edge — 8,000 unique faces are the joke's opposite, and the chain knows it. No one wakes the army. Someone answers it, and the answering is the relief.
 
-*Draft for Krista's review — no flags; the chain loads on pass.*
+*PASSED (Krista, 2026-09-10) — canon, with the Persephone write-in approved ('it's great'). The chain loads as the army's story: the watch, the names, the painted guest, the origin, the relief, and the answering chorus with her voice in it.*
