@@ -46,13 +46,13 @@ When a circle holds a shared groove long enough to be worth naming, any particip
 - **THE BROWNIES**  the coconut shells join from wherever they are (the polyrhythm canon: the clapping is the work  the circle is the work's night off, which sounds identical, which is the joke).
 - **THE GARGOYLE PUPPIES**  the yips, on the bell's decay, roughly in tune, entirely sincere.
 - **THE MURLOCS**  the gargle as the bass line (RULED by Krista, 2026-09-11: "murloc gargles can never be overdone :)"). The nameless collective's ONE SOCIAL HABIT: they come to circles. Nobody invites them; nobody counts them; they gargle at the low end and somehow it holds. The gargle doesn't lock to the grid (nothing does  the No-Quantize Rule stands); it finds the low end and stays there, the warm amphibian floor under the whole human mess above it. The Adequacy Law's own proverb, now canon: THE GARGLE CAN NEVER BE OVERDONE. When the circle ends, the murlocs are somehow already gone, and nobody remembers them leaving  only that the bass felt held.
-- **RYAN**  at the Meadery's fire, once: the scripted first spark (THE IDLE TAP  the origin story performed in-world). GATE for Krista: Ryan's already woven in; this is his story from the real house party, offered gently. Ruling hers.
+- **RYAN**  RULED (2026-09-11, with love): the scripted Idle Tap is canon  the first spark, performed in-world at the Meadery's fire. THE MELLOW INSTIGATOR law holds: he taps, turns back to the bar, and the circle was his idea all along. He instigates the interaction and then doesn't have to be the center of it  which is, per Krista, exactly how he'd want it. (Full personality canon: the NPC doc's Mellow Instigator section.)
 - **THE TRAMP**  never at circles. Walks past, taps twice on a fence post in passing, and is gone  the lesson without the class.
 
 ---
 
 ## GATES FOR KRISTA
 1. The Circle Grounds' placement in D14's map (the walk  her call).
-2. Ryan's Idle Tap as the scripted first spark (his story, his ruling).
+2. ~~Ryan's Idle Tap~~  RULED (2026-09-11): canon. The Mellow Instigator instigates.
 3. ~~The murloc bass line~~  RULED (2026-09-11): the murlocs come to circles. The gargle is the bass. It can never be overdone.
 4. The instrument roster (the pegs' list  what hangs at the standing circle).

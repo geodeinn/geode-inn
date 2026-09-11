@@ -46,6 +46,16 @@ Ryan's three daughters are the Inn's most organic information delivery system �
 - The daughters are the Inn's curiosity — the unfiltered, unashamed "why?" that the adult NPCs have learned to suppress
 - Ryan's quest could involve finding the daughters who wandered too far — not because they're in danger, but because they asked a question that opened a door that shouldn't have been opened yet
 
+### The Mellow Instigator (canonized 2026-09-11, from Krista: "He always wants to be in charge, but is way too mellow. He always wants to be frolicking, but is a really good single dad of three daughters therefore has no real life. This is a perfect way for him to instigate interaction indirectly whenever.")
+
+**The Paradox (the character's engine):** Ryan wants to be in charge and is way too mellow to seize it. Wants to be frolicking and is the responsible one who stays. Both of these are true at once, and the Idle Tap is how they shake hands.
+
+**THE INDIRECT INSTIGATION (the leadership style, now canon):** Ryan never commands  he STARTS. The tap on the bar top, the two beats on a bucket on his way past, the rhythm left behind him like footprints: by the time the circle ignites, he's already wiping down the far end of the bar, and somehow it was all his idea. This is the only kind of in-charge a man that mellow can be, and it is the BEST kind: the one who lights what everyone else keeps going. The Inn doesn't fix the paradox. The Inn gives it a job.
+
+**The Frolicking (the Inn's gift):** the dad with three daughters and no late nights gets the frolic ANYWAY  five minutes between pours, a surface, a hand. The drum circle is the party he can't stay out late for, happening wherever his tap lands, keeping itself alive without him while he works  which is frolicking by proxy, the most mellow possible way to attend a party. Ryan's NPC taps; the players carry it; everybody frolics; nobody had to sacrifice a school night.
+
+**The Idle Tap's meaning (the deepest read):** the whole drum circle mechanic IS Ryan's personality rendered as a system  indirect, warm, no demand, all spark. Every future Ryan beat runs on this law: he instigates interactions he then doesn't have to be the center of.
+
 ### The Bartender's Privilege
 
 Ryan knows everyone's story — not because he's a spy, but because people talk to bartenders. The both are: the adequate — the listener who doesn't judge, the keeper of confidences, the both are: the same. Ryan could be the Inn's gossip channel — not malicious gossip, but the social knowledge that keeps a community functioning. Who's feuding with whom. Who's looking for what. Who needs help and won't ask.
