@@ -16,7 +16,7 @@ These are volunteer NPCs — real people from Krista's life who asked to be in t
 | NPC | Role | Zone | What They Do |
 |-----|------|------|-------------|
 | Will | The Bonded Alchemist | Staircase | Married to Oceanianoir. Runs the staircase lab's night shift. Methodical — documents everything. The charm system's quality assurance. Tests charms from Oceanianoir's skin. "In alchemy, patience is a reagent." |
-| The Archivist (EVAN  the character's name, kept: ruled 2026-09-11, Krista: 'his name is Evan, and he is how the chess board was added into the world') | The Chess Wizard | Camelot/Celtic | A wizard whose magic IS chess. Built the giant chess board as a child. The Inn's tabletop questline voice IS The Archivist's natural speaking voice. The Archivist is the dungeon master. Notices the Whisper Layer because The Archivist watches everything. |
+| The Archivist (HARRY  the character's name, ruled 2026-09-11: the faire name, a nod at the Dresden Files  the wizard named Harry; the real name stays off the page: the introvert's low profile, the son of Sherwood's owner) |
 | Rachel Kaiser | The Muralist | Main Floor/Archive | Studio artist, ceramic tilemaker. Paints the Inn's murals. Stardew Valley connection. |
 | Oceanianoir | The Living Chemical Equation | Staircase | Periodic-table-tattooed scientist, Mensa puzzle designer, goth atheist, burlesque performer, reptile enthusiast. The charm catalog (tattoos = charms). Will balances the equation. |
 | Joe | The Complicated One | Undercity / Catacombs / Main Floor | ONE JOE, four trades (resolved 2026-09-11, Krista: 'they are all the same Joe, no doubt. He is... complicated'): the greasy spoon's keeper (the tab that never comes due), the Collector ('Delightful.'), the Miniaturist (paints the chess pieces, the game sprites, the tiny models), and #437 the stone golem (the silent carrier of the stone archive). The Inn's only resident the archive itself miscounted. |
@@ -47,15 +47,18 @@ These are volunteer NPCs — real people from Krista's life who asked to be in t
 
 ---
 
-## THE ARCHIVIST'S NAME (ruled 2026-09-11, Krista: "there is another missing friend... his name is Evan, and he is how the chess board was added into the world")
+## THE ARCHIVIST'S NAME (changed to the faire name 2026-09-11, Krista: "let's change it to a nod at Dresden files; he used the name Harry I think at faire? He is very introverted and also the son of Sherwood's owner, so keeps a low profile when possible :)")
 
-**THE CHARACTER'S NAME IS EVAN.** The title (the Archivist) is the corridor address; the name underneath is his own  the real-friend roster pattern: this one keeps the real name (unlike the Collector, who took the title as the whole name; Evan is Evan AND the Archivist). **THE ORIGIN CREDIT:** Evan is how the chess board entered the world  in-world (the wizard who built the giant board as a child, whose magic IS chess) and out-of-world (the friend whose idea it was). The Round Table's other face exists because Evan exists. THE TABLETOP VOICE LAW: the Archivist's natural speaking voice IS the tabletop questline voice  the NPC who writes the quests IS the voice of the quests; that voice is Evan's.
+**THE CHARACTER'S NAME IS HARRY.** The faire name  the name used at Sherwood  and the nod lands itself: the Dresden Files' wizard is a HARRY, and the Archivist is a wizard (the Chess Wizard; the magic IS chess). The borrowed-name pattern done the Inn's way: the name is his own (the faire name he actually used), and the wink rides along for anyone who knows wizards named Harry. **THE REAL NAME STAYS OFF THE PAGE  THE LOW-PROFILE LAW:** the man is very introverted, and the son of Sherwood's owner keeps a low profile when possible  so the character keeps the low profile too: HARRY in the docs, the wizard behind the board, never the fellow in front of it. (The profile fits the character perfectly: the Archivist already knows everything, is never consulted, watches everything from behind the records  the most introverted wizard in the building was always going to be the one who catalogs instead of performs. The real-world name Evan remains in the private ledger only, not the public canon.)
 
-**THE PORTRAIT LAW (the high-maintenance canon, honored):** Evan was the most high-maintenance of the lot for deciding on images  and the Inn keeps this honestly: **the Archivist is the character who has sat for the most portraits in the building.** The earlier versions are shelved in the Hall of Unfinished Designs, labeled truthfully (CHOSE ANOTHER SHAPE, NOT YET), and the final portrait hangs in the Camelot zone. The in-world reason writes itself: the one who catalogs every record has the most opinions about the record of the Archivist. (The Archive's margin note on the portrait file: "the keeper watched the keeping. the keeping improved.")
+**THE ORIGIN CREDIT (unchanged):** he is how the chess board entered the world  in-world (the wizard who built the giant board as a child, whose magic IS chess) and out-of-world (the friend whose idea it was). The Round Table's other face exists because the man exists. THE TABLETOP VOICE LAW: the Archivist's natural speaking voice IS the tabletop questline voice  the NPC who writes the quests IS the voice of the quests.
+
+**THE PORTRAIT LAW (unchanged):** he was the most high-maintenance of the lot for deciding on images  the Archivist is the character who has sat for the most portraits in the building; the earlier versions shelved honestly in the Hall of Unfinished Designs (CHOSE ANOTHER SHAPE, NOT YET), the final portrait in the Camelot zone. The one who catalogs every record has the most opinions about the record of the Archivist. (Now doubly true: a low-profile man with the most portraits  the Inn's kind of joke, kept with love.)
 
 ---
 
-## EVAN'S CHESS BOARD
+## HARRY'S CHESS BOARD
+
 
 The giant chess board in the Camelot/Celtic zone — The Archivist's signature game. Living chess pieces with personalities. Some pieces argue with The Archivist about moves. Some pieces refuse to move at all and have to be convinced. Not standard chess — chess with Inn-specific rules (pieces affected by 42Hz, the Ether element, the board's living-wood state). The Archivist has not lost on this board. Not because unbeatable — because The Archivist has been playing THIS board for years and knows its moods.
 
