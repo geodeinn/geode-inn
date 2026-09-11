@@ -170,3 +170,11 @@ The deepest chamber. Bait's domain. A single room, circular, with one chair, one
 ## ORIGIN
 
 The Royal was designed in conversation between Krista and Elio on September 2, 2026. It emerged from the Vatican Necropolis excavation story, the Warehouse 13 comedy model, and the Inn's thesis about gatekeeping vs. access. The name "The Royal" evokes both royalty (the layers of power that buried things) and the Royal Ontario Museum (Krista's formative experience with gatekept knowledge). The Royal is the ground beneath the gate. You can't gatekeep the ground. You can only dig.
+
+---
+
+## THE RESIDENT: BOB, AND THE BOB LAW (ruled by Krista, 2026-09-11)
+
+**The pope-hat fizgig is BOB**  the digger who broke through the wall that shouldn't have been there, inheritor of the tiara found on the skeleton (the seed law: the hat doesn't belong to the religion, the religion belongs to the ground). The intern problem made flesh: the Royal's only current staff, slightly overwhelmed, keeping the sticky notes current.
+
+**THE BOB LAW: ALL THE INTERNS DOWN THERE ARE ALWAYS NAMED BOB.** Every caretaker in the Royal's millennia of sticky notes is signed Bob. Incident report 2,847 BCE: Bob. The note about the singing bowl: Bob. The one about the door that likes D: Bob. Whether "Bob" is a title, a tradition, or the ground's idea of a uniform is NEVER explained (the Adequacy Law holds). The archive doesn't remember individuals; it remembers BOB  and every Bob has a story about The First Week. The current Bob (the tiara one) is simply the latest: overalls, pickaxe, pope hat, sticky notes  the intern problem, eternal, named.

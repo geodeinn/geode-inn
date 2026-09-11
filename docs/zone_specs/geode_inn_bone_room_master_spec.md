@@ -143,6 +143,6 @@ The Bone Room was first designed in docs/geode_inn_bone_room.md (168 lines). Thi
 
 **The law it lives:** The Adequacy Law's rung  it is there to BE. No quest, no collection, no lore gate. Its respect is earned by simply being nearby  the only creature in the Inn whose whole relationship with the player is proximity and tempo.
 
-**Name:** pending Krista  the family names its own. ("The fossil rat" holds until the ruling comes.)
+**Name (ruled by Krista, 2026-09-11): PLUCK.** The chicken dancer is Pluck  the name holds both truths: the spunk of a creature that danced through a million years, and the music word (a pluck is how a string is played  the Beat Line's smallest keeper now carries a player's name).
 
 **Wiring:** Tier 1 movement roster candidate (idle sway / tempo-sync animation cycle). No dialogue records owed  it never speaks (the Adequacy Law again). Voice block: none, ever. The dance IS the voice.
