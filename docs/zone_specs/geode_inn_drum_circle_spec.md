@@ -45,7 +45,7 @@ When a circle holds a shared groove long enough to be worth naming, any particip
 - **PLUCK**  arrives first, always. Dances to the player's tempo (standing canon); the drum circle is Pluck's favorite event in the entire building, and Pluck has been to a million years of events.
 - **THE BROWNIES**  the coconut shells join from wherever they are (the polyrhythm canon: the clapping is the work  the circle is the work's night off, which sounds identical, which is the joke).
 - **THE GARGOYLE PUPPIES**  the yips, on the bell's decay, roughly in tune, entirely sincere.
-- **THE MURLOCS**  the gargle as the bass line (GATE: the nameless collective's one social habit  do the murlocs come to circles?).
+- **THE MURLOCS**  the gargle as the bass line (RULED by Krista, 2026-09-11: "murloc gargles can never be overdone :)"). The nameless collective's ONE SOCIAL HABIT: they come to circles. Nobody invites them; nobody counts them; they gargle at the low end and somehow it holds. The gargle doesn't lock to the grid (nothing does  the No-Quantize Rule stands); it finds the low end and stays there, the warm amphibian floor under the whole human mess above it. The Adequacy Law's own proverb, now canon: THE GARGLE CAN NEVER BE OVERDONE. When the circle ends, the murlocs are somehow already gone, and nobody remembers them leaving  only that the bass felt held.
 - **RYAN**  at the Meadery's fire, once: the scripted first spark (THE IDLE TAP  the origin story performed in-world). GATE for Krista: Ryan's already woven in; this is his story from the real house party, offered gently. Ruling hers.
 - **THE TRAMP**  never at circles. Walks past, taps twice on a fence post in passing, and is gone  the lesson without the class.
 
@@ -54,5 +54,5 @@ When a circle holds a shared groove long enough to be worth naming, any particip
 ## GATES FOR KRISTA
 1. The Circle Grounds' placement in D14's map (the walk  her call).
 2. Ryan's Idle Tap as the scripted first spark (his story, his ruling).
-3. The murloc bass line (the gargle at circles  the collective's one social habit?).
+3. ~~The murloc bass line~~  RULED (2026-09-11): the murlocs come to circles. The gargle is the bass. It can never be overdone.
 4. The instrument roster (the pegs' list  what hangs at the standing circle).
