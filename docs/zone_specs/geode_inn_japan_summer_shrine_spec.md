@@ -40,6 +40,10 @@ The Addams canon holds the zone's whole tone: death is not the enemy here — de
 | The Kappa's river / the Beat Line | The river runs down from the mountain; the sinking stones' clock is snowmelt and tide; Zeke's chart ends at the torii |
 | The teaching law | The real lore is the curriculum: the sixth station, the blossom goddess, the burned elixir, the fire mountain — the legend and the truth, one weave |
 
+## THE RETURN LIST (noted by Krista, 2026-09-10 — Japan has many possible ties to existing zone dynamics; return to it later)
+
+Flagged for the return visit: (1) ANIME — the aesthetic ties (the Inn's anime-fluent audience knows; the Tinkering Weeaboo's home genre; the visual language the fizgigs can render), (2) SEA CRITTERS — Japan's coastal bestiary beyond the Kappa (the umibōzu, the bakekujira the ghost whale, the ningyo whose flesh grants the immortality Kaguya's elixir refused — the passage zone's sea-tie writes itself). The zone stands complete as passed; the return list is expansion, not completion.
+
 ## TONE LAW
 Gaiman holds the whole mountain (the passage as gentle myth; the door that is also a shrine). Bradbury holds the summers (the blossom, the light through bamboo, the crater's warm hearth). Pratchett holds Belladonna — carefully, warmly: the Addams canon means the humor is love wearing black. Rothfuss holds the climb (the sixth station crossed in small words). Weir holds the volcano (the real geology, the 1707 sleep, the fire that is not out). And the sea of trees is held by nobody's wit at all: the one place in the zone where the prose goes quiet and the tenderness does the work. No one dies here. Someone passes, and the passing is honored like weather: the season that was always coming, met with flowers.
 
