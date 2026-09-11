@@ -152,3 +152,13 @@ Class: EMBLEM · Zone home: The Staircase (one per flight, Nigredo at the bottom
 | Prism establishing wide (the icon panel) | the chapel-sized crystal, the Inn built around it, no-outline mode | https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/ef038d7f6_generated_image.png |
 | The Reflection (the game's frame shot) | the traveler's face in the Prism, the doorway-of-light showing | https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/0e2576621_generated_image.png |
 | The Gate of the Stone Guard | the Gatekeeper, the bench, the sharp/angular guardian linework | https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/d1a82100a_generated_image.png |
+
+**THE PRISM'S TRI-MODE COMPLETE + THE DEEP ROOMS (2026-09-11, second paint  the icon room's kit core lands; credit-burn queue opened at Krista's 80k news):**
+| Panel | Subject | URL |
+|-------|---------|-----|
+| THE WATER DOOR (wide) | the tide gate transposed to bedrock, the mirror and the flood on one floor | https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/e1d3763cd_generated_image.png |
+| THE DARK SIDE SPHERE (the lava lamp chamber) | the Song made visible: flowing liquid color on crystal walls, one blob-cycle per pulse, the floating figure held by the sound | https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/581cc94f3_generated_image.png |
+| THE PRISM  SHADOW (84Hz) | the crystal gone opaque: the perfect black-glass mirror, one far hearth-light reflected | https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/c98e13e29_generated_image.png |
+| THE PRISM  IN-BETWEEN | half-glow half-opaque, the tide-edge transition, dawn through stone | https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/0e4900255_generated_image.png |
+
+Class: ZONE/ENV masters  Zone home: The Bedrock Fortress, D16-O4/O5/O6  Product home: the web beta's deepest screens + the Prism chain  Source: original generation (Kubrick geometry / Henson soul per the HENSON LAW; Steady Light Law held: sine-soft amber glows throughout)  The Prism's tri-mode is COMPLETE (living/shadow/in-between + the two deep rooms' wides). Remaining for the Prism's full KIT-Z: option views (the four doors' CYOA angles), the PROP set (the Gatekeeper's bench, the 7.83Hz key, the eighth permanence), ENV fill.
