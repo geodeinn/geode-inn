@@ -124,3 +124,14 @@ The named critters are not pets and not mascots. Each one is a load-bearing char
 **Voice:** stone-small  the yip has a ring to it (each pup's yip is its own frequency, a puppy's pitch with a bell's decay).
 **Weaves into:** the whole frequency architecture made pettable. The player doesn't need to know what 111Hz does; the player just notices where the pup naps  and the Inn's deepest science arrives as a warm stone that wags.
 **Names:** pending Krista (six pups, one per sentinel  the family names its own).
+
+### THE CONDUCTION LESSON (added 2026-09-11, Krista's rulings: "copper is a sensational conductor and that becomes an adorable science lesson" + "tie in Tesla... a proper conduction lesson")
+
+**THE SCIENCE (the parks law holds: the science is the lesson):** COPPER IS A SENSATIONAL CONDUCTOR  of BOTH kinds of warmth. Thermal: the Forge's copper vent-pipe carries the furnace's heat the way the Inn's hearths carry fire. Vibratory: copper carries the hum  the Inn's frequencies travel the metal runs like a nervous system (second only to silver; the Inn wires its singing in copper because silver belongs to the Moon and copper belongs to the forge).
+
+**WHY THE PUPS CHEW (the chew law, explained by physics without ever losing the affection):** the pups nap against the vent-pipe because warm metal carries the strongest signal. The chew marks are a puppy's MAP of the best reception  a six-century survey of where the hum lives, filed in teeth. The pups are the Inn's cutest sensors: frequency-keyed stone + the building's best conductor = the living frequency map made physical.
+
+**THE TESLA TIE (the proper conduction lesson):** Tesla (the Observer's soul twin, the coil allowed to sing) holds the demonstration at the Forge  THE COPPER CLASS. The player watches Tesla arrive with a copper rod (the coil's cousin), touch it to the vent-pipe, and the hum arrives at the other end  the same hum the pup is napping on. "Almost."  the pupil has been doing the experiment for centuries; the master is only now catching up.
+
+**THE BICKER RESOLVED (the lesson's heart, the Bicker Law's payoff):** Da Vinci claims the pups nap where the WARMTH is. Tesla claims they nap where the HUM is. The pups  to the visible distress of both  are napping in the SAME SPOTS, and copper carries both, and neither scholar yields, and both are right. THE BOTH-AT-ONCE LAW, demonstrated in chewed plumbing: the argument IS the method, the pups are the proof, and the lesson ends with the two of them arguing about who was more correct while a pup sleeps on Tesla's shoe.
+**The takeaway (the adorable science):** heat and sound both travel by conduction; copper is the best singer of the common metals; and the Inn's warmth and the Inn's hum were never two things to begin with. Filed beside the parks chains as the smallest teaching moment in the building  and the only one with teeth marks on the curriculum.
