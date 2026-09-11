@@ -97,6 +97,10 @@ Loop proofs: ceiling gnome hammering, hearth fire (PIL-sliced from sheets).
 
 ---
 
+## 8.5 THE DARK SIDE OF THE INN — build sheet filed (2026-09-10, Krista-approved)
+
+The lava lamp sphere is NOT lost — the consolidated spec was complete since 2026-09-02; what it was owed was the BUILD SHEET, now filed: docs/library/specs/dark_side_build_sheet.md. Ten tasks (sphere shader, float physics, prism sound-to-light, 6 wall data views, 84Hz frequency portrait, In-Between silence state, raw 42Hz audio + haptics, Source Frequency access trigger, Pulse Line integration, lava lamp idle). Class: ZONE/ROOM. Frequencies: 42Hz living / 84Hz opal / In-Between silence. Build order: vertical slice first (sphere + float + prism), built LAST of the deep rooms, built PERFECTLY — it is the reward at the bottom of every alignment system.
+
 ## 9. THE SUPPLY REGISTRY — v1.1 extension (2026-09-10, per Krista's intake inventory)
 
 Krista reports 80,000+ usable image supplies on hand. The class system absorbs them — every new supply type becomes a class the moment it's named. New classes and their canonical homes:
