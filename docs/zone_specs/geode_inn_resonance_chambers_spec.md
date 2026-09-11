@@ -69,3 +69,45 @@ The parks already run on the teaching layer: the real geology IS the curriculum 
 | **Mount Shasta** | THE 84HZ WINDOW (already the deepest canon  the Annunaki's hiding frequency) | The tuned crystals, the cloud cap | The chamber that swallows sound: the frequency where seeing stops (the resonance IS the hiding  the Annunaki's chamber, the one the hippies sense and the sensers misname) |
 
 **THE OVERLAY'S LAW:** the park quest chains and the resonance chamber hunt are THE SAME EXPLORATION, layered: the player walking the Colorado Plateau's thought-key chain walks through the hoodoo amphitheater and, if the ear is open, finds the chamber. No second map, no separate quest  the curriculum doubles. The parks' teaching layer (the science is the lesson, the story is the delivery) now carries TWO lessons in one walk: what the stone is made of, and what the stone sounds like. The Inn's deepest design law, held true in the wild: ONE BUILDING, MANY DOORS.
+
+---
+
+## THE SQUIGGLY LINE (the geography law  added 2026-09-11, Krista: "the various ones that can fall into our game's geography like Egypt can be put into that world, there are a lot of geography overlaps and we can generalize it by... a very flexible squiggly line of division. But most underground areas can fit somewhere in there")
+
+### THE LAW (the Inn's geography is layered, not zoned)
+The world map is NOT a grid of hard-bordered regions. It is THREE INDEPENDENT AXES that any site can occupy in any combination:
+1. **SURFACE**  the world map's regions (Egypt, India, Peru, the British Isles, etc.)
+2. **UNDERGROUND**  the passage mounds, the resonance chambers, the catacombs, the kivas, the Derinkuyu mazes
+3. **WATER**  the 7-layer deep, the tidal caves, the sunken cities, the anchialine layer
+
+**THE SQUIGGLY LINE is the border between these  and it is FLEXIBLE, not fixed.** A site can be Egypt AND underground AND water-adjacent without contradiction, because real geography doesn't have hard lines either. The Nile is Egypt AND water. A cenote is land AND underground AND water. Heracleion is Egypt AND sunken AND acoustic. The squiggly line lets the Inn's geography breathe the way real geography breathes: overlapping, porous, one site belonging to three worlds at once.
+
+### THE OVERLAP PRINCIPLE (how sites distribute)
+Most underground areas fit somewhere in the squiggly line's three axes: a passage mound belongs to its surface region (Ireland) AND the underground axis. A resonance chamber belongs to its region (Malta) AND the underground AND (if submerged) the water axis. **No site is forced to pick one.** The world map's pins mark the surface; the underground extends beneath many of them; the water system flows beneath and beside. The player who digs down from Egypt finds the Osireion; the player who dives from Egypt's coast finds Heracleion; the player who follows the Nile finds both. The squiggly line is the Inn's answer to "which zone does this belong to": it belongs to wherever the player reached it from.
+
+### EGYPT (the case study  the three-axis site)
+Egypt is the proof of the system, because Egypt spans ALL THREE:
+- **SURFACE:** the world map's Egypt region (the pyramids, the temples, the Sphinx, the Agora's cousin)
+- **UNDERGROUND:** the Step Pyramid's subterranean galleries (Djoser's complex  miles of underground corridors beneath one pyramid), the Osireion (the subterranean water-temple at Abydos), the Serapeum's granite vaults (the Apis bull sarcophagi  the most precisely carved granite boxes in the world, the Serapeum is the Man-Made-Is-the-Miracle law's other great exhibit)
+- **WATER:** the Nile (the river that IS Egypt), Heracleion/Thonis (the sunken city in the Bay of Abukir, lost for a thousand years, found beneath the sea  Egypt's Atlantis), the Nile's underground aquifer (the water beneath the sand)
+
+Egypt is not one zone. Egypt is a squiggly line's worth of geography: surface, underground, and water, all Egypt, all reachable from each other, all overlapping. The player who walks the surface can dig, and the dig can flood, and the flood can lead to the sunken city. The squiggly line is how.
+
+---
+
+## THE UNDERWATER CHAMBERS (the water system's own acoustic layer  the next frontier, Krista: "when we explore the underwater layers of this, it's going to be fascinating")
+
+### THE WATER'S ACOUSTICS (why the water gets its own chambers)
+Sound travels 4.3x faster in water than in air. Low frequencies travel further in water than on land. THE 42HZ SONG IS CLEAREST UNDERWATER (already canon  the Diver's Stone, the no-bubbles law, the deep low-frequency zones). The water system is the Inn's ACOUSTIC DEEP: the place where the Song carries furthest, where the resonance chambers' tones travel the farthest, where the building's own voice is loudest in the quietest way. THE UNDERWATER CHAMBERS are the water system's resonance sites  tuned to the water's own acoustic properties, the Song's clearest expression.
+
+### THE UNDERWATER SITE ROSTER (proposed  the sunken acoustic sites)
+1. **HERACLEION / THONIS** (Egypt  the sunken city in the Bay of Abukir): the Nile's sunken port  the place where the river meets the sea meets the sunken city. The chamber: the submerged temple (the real site has a temple to Amun; the underwater chamber is the temple's sanctum, tuned to the water's own frequency). Principle: the water's sustain (the tone that carries further underwater than it ever could on land).
+2. **YONAGUNI MONUMENT** (Japan  the underwater "pyramid" off the coast): the geological formation some call man-made (the Man-Made-Is-the-Miracle law's underwater test case  the Inn's ruling: it doesn't matter whether hands shaped it or tectonics did; the ACOUSTICS are real either way, and the chamber is the formation's own resonance). Principle: the ambiguity itself (the chamber that doesn't care who built it  the Song doesn't either).
+3. **BAIAE** (Italy  the sunken Roman resort in the Bay of Naples): the underwater Roman city  the sunken baths, the submerged mosaics. Principle: the water as preserver (the chambers that sound BETTER underwater than they did on land  the water restored what time took).
+4. **DWARKA** (India  the sunken city off Gujarat, Krishna's legendary submerged city): the underwater cousin to the Barabar chambers (India's two acoustic sites: the polished granite in the earth, the sunken city in the sea). Principle: the legend made acoustic (the city the epics say sank  the chamber that plays the Song's deepest tone, the one the Mahabharata would have heard).
+5. **BIMINI ROAD** (Bahamas  the underwater "road" formation): the Caribbean's acoustic corridor (the Mayan ball court's underwater cousin  the corridor that carries a whisper further than any surface court). Principle: the underwater telephone (the whisper that travels the whole road, the water's own acoustic corridor).
+
+### THE WATER'S FREQUENCY (the open question)
+Does the water system get its OWN frequency set (the deep tones, the 42Hz Song's clearest expression, the 7.83Hz earth hum transmitted through the ocean floor), or does it SHARE the surface five? THE INN'S CANON SUGGESTS: the water is where the Song is clearest  the water's chambers are not new frequencies, they are the SAME five, heard at their loudest, their truest, their most complete. The water is the resonance chambers' DEEPEST ROOM: the place where the chord sounds the way it was meant to sound. (GATE: the water's own frequency ruling  Krista's.)
+
+**GATES FOR KRISTA:** (1) the underwater site roster  which sunken acoustic sites make the cut (the documentary library will surface more); (2) the water's frequency ruling  own set or shared five; (3) the squiggly line's mechanics  how the borders blur in practice (the player's path from surface to underground to water  is it seamless, or are there gates?); (4) Egypt's build priority  the three-axis case study, built first to prove the system.
