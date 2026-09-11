@@ -53,6 +53,7 @@ Every room in the Inn needs the same base kit, plus additions for what lives in 
 | Alembic Window | done | the Turning | D03 | KIT-Z OWED |
 | Transformation Chamber | done | the Turning (Clockmaker/Retort/Cook) | D03 | KIT-N partial (cast portraits live) |
 | The Five Emblems hall | done | Nigredo-Stone arc | Staircase chain | DONE (5 emblems painted) |
+| The Blue Box alcove | done (geode_inn_blue_box_tardis_spec.md) | The box is its own law (the Ragana's tape is the only thread) | Staircase axis; the unmarked alcove between alchemical stages | DONE (2026-09-11, re-boarded after the Dalek raid — panel painted + logged; blinks at 50 BPM) |
 
 ### LEVEL 5  THE MAIN FLOOR (the heart; D13 = the room kit's model)
 | Room | Spec | Chain | Dis | Art status |

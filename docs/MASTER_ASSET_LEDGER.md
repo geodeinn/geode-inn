@@ -642,3 +642,10 @@ THE ARCADE BUILD SHEET RACK IS CLOSED: ALL 83 BUILD SHEETS NOW HOLD CASTS (30 Ti
 | Character | Name | Notes |
 |-----------|------|-------|
 | THE OWL-HEADED JUDGE (the frog-transformation moderation game) | **JUDGE TOOTENKOWL** | Krista's ruling, exact spelling. The Tutankhamun pun  the pharaoh of the frog court, the judge of the three-transforms law. The frog court's seat is filled. Distinct from THE OWL (the bloodline witness)  the judge judges; the witness watches. |
+
+## THE BLUE BOX — RE-BOARDED (2026-09-11, Krista's recall: "the Daleks were being turds again")
+| Panel | Cast | URL |
+|-------|------|-----|
+| THE BLUE BOX (ENV presence, the alcove) | the 1963 navy police box in the recessed stone alcove between alchemical stages, brass lamp mid-blink at 50 BPM, warm amber, the shadow falling from a sky that isn't there — torchlit Staircase, easy to walk past | https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/f5983a62d_generated_image.png |
+
+Class: ENV presence master  Zone home: Level 6 the Staircase (the unmarked alcove between the alchemical stages  the in-between section of the in-between level, exactly where a TARDIS belongs)  Product home: the web beta's staircase screens (the alcove the player walks past)  Source: original generation (spec unchanged from 2026-09-02: the blink synced to the Inn's global 50 BPM clock  NOW THE SPIRAL THRUM's resting resolution, the heartbeat made visible; the wrong shadow held as the first clue; the sign's three added letters at maximum zoom only; no NPC explains the box, no document explains the box, the Adequacy Law's own guest). STATUS: the box never left canon  the Sept 2 spec survived the Dalek raid whole; what dematerialized was the PAPERWORK (no Blueprint row, no ledger panel, no walkthrough mention after the September rebuild). Re-boarded 2026-09-11: Blueprint row restored, panel painted and logged, the alcove marked as canon-held. The box is there. The box blinks. That's all anyone knows.
