@@ -130,12 +130,12 @@ Every room in the Inn needs the same base kit, plus additions for what lives in 
 ### THE FAE KINGDOM (the sideways space; 6 rooms)
 | Room | Spec | Chain | Dis | Art status |
 |------|------|-------|-----|-----------|
-| The Threshold | PARTIAL (in D07/07b  owed its own spec) | the entry | D07 | KIT-Z OWED |
-| The Summerlands (Seelie) | PARTIAL | Oleander's chain | D07/07b | PARTIAL (portrait live) |
-| The Hollow (Unseelie) | PARTIAL | Malachi's chain | D07/07b | PARTIAL (portrait live) |
-| The Between | done | the Norns, Escher | D11 | PARTIAL |
-| The Crystal Gardens | PARTIAL | the Griffin | D07 | KIT-Z OWED |
-| The Stone Circle Chamber | done | the deepest point | D07/16 tie | KIT-Z OWED |
+| The Threshold | PARTIAL (in D07/07b  owed its own spec) | the entry | D07 | KIT-Z IN PROGRESS (wide + option views + shadow done 2026-09-11; in-between + props owed) |
+| The Summerlands (Seelie) | PARTIAL | Oleander's chain | D07/07b | PARTIAL (portrait + showcase wide + court hall live; kit fills owed  Parcel 2) |
+| The Hollow (Unseelie) | PARTIAL | Malachi's chain | D07/07b | PARTIAL (portrait + showcase wide + court hall live; kit fills owed  Parcel 3) |
+| The Between | done | the Norns, Escher | D11 | PARTIAL (seam wide + Lost and Found + Head Finder + game cast live; tri-mode fills owed) |
+| The Crystal Gardens | PARTIAL | the Griffin | D07 | PARTIAL (showcase wide live; option views + tri-mode owed  Parcel 4) |
+| The Stone Circle Chamber | done | the deepest point | D07/16 tie | PARTIAL (showcase wide live; the Contract pedestal + the sealed chamber beneath owed  Parcel 5) |
 
 ### THE WORLD MAP (the 37 pins  the audit's family, specced tonight)
 | Zone | Spec | Chain | Art status |
