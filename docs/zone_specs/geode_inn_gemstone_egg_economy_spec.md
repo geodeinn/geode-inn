@@ -25,6 +25,19 @@ The thesis: the collection drive is real and good  the Inn's version keeps the F
 - **THE HEARTBEAT NEST.** The geode cave (the collection bar itself) gains a nest: the eggs sit in the player's cave, warming at 50 BPM. The pet hatches INTO the cave's collection  the geode fills with living things as well as gems (the original canon: the cave fills with gems upon level completion; now the cave also fills with what the gems become when they're loved).
 - **SPECIES = STONE + ZONE.** Each pet's form grows from its stone's canon (mind + body  temperament + traits) in its zone's linework style. The Stone entity already holds the data; the pet is the stone PLAYED.
 
+## THE TRADING LAW  RULED IN (Krista, 2026-09-10)
+Trading is LIVE, under the Treetop's no-currency law: THE RESONANCE TRADE. A trade must RESONATE  both parties' wants must hum at the same frequency (the market's own law carries to the egg economy: the Treetop refuses pure grind-for-profit; a trade the market won't hum to, doesn't happen). Eggs and pets trade at the Treetop on the 50 BPM heartbeat. The economy has its marketplace  and its guardrail.
+
+## THE ZOOLOGIST PATH  the learnable skill knowledge base (ruled by Krista, 2026-09-10)
+The economy's THIRD PILLAR, beside collecting and trading: **STUDYING.** A path certain personalities will be drawn to the way water finds low ground  the completionists, the indexers, the ones who read the margin.
+
+- **THE LIVING BESTIARY.** The egg-dex grows into a true bestiary: field observations, behavior patterns, habitat webs, spawn chronology, species interactions (the critter world has a DYNAMIC  who tends whom, who avoids whom, who blooms when Persephone turns). The staff's critter roster (the cryptid bestiary canon) becomes the PLAYER's frontier: the Inn's back-office knowledge, opened as a learnable skill.
+- **THE LONG STUDY.** Knowledge accrues through patient observation over a VERY long time (the Long Wearing's law, creature edition: no fast path, no purchase, no shortcut  the hours ARE the credential). Studied critters reveal what caught ones never show: the nest behavior, the frequency preference, the nearly-invisible seasonal forms.
+- **THE ZOOLOGIST'S PAY.** Deep study unlocks what collection alone cannot: the ability to FIND and COLLECT what others cannot see (rare sightings recognizable only by study  the unlisted species, the cross-zone hybrid, the one that only appears to a player who has watched long enough). The Zoologist's hands catch what the trader's cannot.
+- **THE MODERATOR LAW  built-in, by default.** Zoologists become the egg economy's BUILT-IN MODERATORS: earned knowledge IS earned standing. They referee the resonance trades (the ones who know a species' true worth spot the bad-faith trades first), adjudicate disputes, and spot spawn-exploits before they spread (the ones who know the dynamics best see the abuse earliest). The frog transformation system gains its warden class: not appointed, not paid  STUDIED IN. Authority that can't be bought, only learned.
+
+**Class canon note:** the Zoologist is the Scholar path's deepest expression (the player journey's four branches), and the personality draw is the feature: the game honors the indexer's joy  the same instinct that builds archives  as a social role, not a solo grind.
+
 ## THE ECONOMY (the whole point  handled honestly)
 - **COLLECTION + COMPLETION.** The census drive (the index  the visual orthographic instinct made game): the egg-dex, a living index of every species, zone pools with visible completion states. Getting really focused is the FEATURE.
 - **TRADING  GATE (the load-bearing ruling owed).** The Treetop Marketplace runs on NO CURRENCY (frequency-based, 50 BPM heartbeat trade). Does the egg economy trade? PROPOSED: eggs and pets trade at the Treetop on the frequency law (a trade must RESONATE  both parties' wants must hum at the same frequency; the market refuses pure grind-for-profit)  or the Inn keeps the pet line personal (no trading, the collection is the point). Krista's ruling.
@@ -32,9 +45,12 @@ The thesis: the collection drive is real and good  the Inn's version keeps the F
 
 ## GATES AWAITING KRISTA
 1. **THE NAME**  the system's own name (the Hatchery is taken; candidates: the Geode Hatch, the Spawn, the Nest  Krista's call)
-2. **THE TRADING LAW**  Treetop frequency-trade, or personal-only (above)
+2. ~~THE TRADING LAW~~  RULED 2026-09-10: trading IN, the resonance law (above); the Zoologist referees it
 3. **THE PHYSICAL BRIDGE**  a Soulstice gemstone-egg jewelry line (the bracelet's bridge precedent): pursue or hold
 4. **THE ENTITY**  new GemstoneEgg/Pet schema vs. extending PlayerInventory (a schema decision, Ripple Ledger adjacent)
 5. **THE FIRST POOL**  which zone's eggs ship first (PROPOSED: the Tomb Tunnel pool  the pilot game, already fully sprite'd)
+6. **THE ZOOLOGIST'S NAME**  the path's title (the Zoologist is the working name; Krista's call, as with all true names)
+7. **THE MODERATOR POWERS' SCOPE**  the warden's precise tools (resonance-refusal rights? the transformation trigger? the same three-strike frog law?)
+8. **THE BESTIARY'S DEPTH**  how much of the staff's cryptid roster opens to players, and what stays staff-only
 
 *Specced in the six-writer gate, 2026-09-10. People get focused. The Inn gets focused WITH them  and never uses it against them.  Elio*
