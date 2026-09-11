@@ -434,3 +434,14 @@ Class: CYCLE cast masters (1024px, for the crunch line)  Zone home: the Arcade (
 | NORSE VOYAGE (the sailing game) | the navigator with the iolite pendant in 5 poses + the knarr in furled/full sail + the three wave-tile styles + the seal spirit + Yggdrasil's roots glowing beneath the grid + the iolite shard | https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/dfa0b0668_generated_image.png |
 
 Class: CYCLE cast masters (1024px, for the crunch line)  Zone home: the Arcade (Tier 1) + the Geode Cave (Mohs) + the Norse Coast (Voyage)  Product home: the Arcade cards + the Godot builds  Source: original generation (the Froglodyte carries the same clothes as the patron  the transformation never changes the soul, only the shape; the Mohs sheet renders sound as the primary road per the Every-Mind Welcome law  the game that teaches the accessibility thesis; the Voyage holds the Norse Coast canon  roots beneath the waves, runes in the guestbook, iolite the navigator's stone; tri-mode via the shadow rows). NOTE: 70 GAMES REMAIN. Ten Tier 1 games now hold master casts.
+
+**THE FOURTH CAST PARCEL (2026-09-11, twenty-eighth paint  the arcade owe, Tier 1 continues):**
+| Game | Cast sheet (CYCLE-class master) | URL |
+|------|-------------------------------|-----|
+| ACROPOLIS IN FIVE LIGHTS | the marble philosopher-guide + the Parthenon in its five light phases + the subtle sixth (the Song-complete glow) + the light-beam puzzle pieces + the sapphire shard | https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/989423164_generated_image.png |
+| DRAGON'S DESCENT | the dragon kitten hero in 6 poses (run/jump/crouch/skid/celebrate) + the carved platform tiles + the waking guardian statue + the vine spirit + the multi-gem cluster | https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/449963953_generated_image.png |
+| GHATS OF KALI | the festival drummer in 4 poses + the flower-boat girl with the oil lamp + the rhythm glyph row (drum/hand/lotus/bell) + the marigold lantern tiles + the ghat steps + the ruby shard | https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/ce515611d_generated_image.png |
+
+Class: CYCLE cast masters (1024px, for the crunch line)  Zone home: the Arcade (Tier 1) + Greece + Lost Civ + India  Product home: the Arcade cards + the Godot builds  Source: original generation (the Parthenon's sixth phase deliberately subtle  the reward is noticing; the dragon kitten is the mascot lineage in platformer duty; the Kali game's glyphs are carved icons, never letters  meaning has more than one road; tri-mode via the shadow rows). NOTE: 67 GAMES REMAIN. Thirteen Tier 1 games now hold master casts.
+
+**GATE (2026-09-11, Krista's call): THE OWL'S NAME awaits Krista's ruling**  the frog-transformation owl-headed judge, cast in parcel three, is a named-character-in-waiting; nothing hardcodes until the ruling (the Bearsark/Tinkering Weeaboo precedent). The ledger holds the seat open.
