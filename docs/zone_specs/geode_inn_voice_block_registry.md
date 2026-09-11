@@ -423,3 +423,18 @@ Krista's prompt: "let's track down these wandering NPCs — Da Vinci and Tesla a
 | Einstein (the relativizer, the fond corrector) | "But imagine..." | The violin's two notes — the argument ends in music |
 
 Wires: Tesla holds residence in the Modern Legends nook (per the project bible). All four attach to The Turning Quest 4 ("The Conversation Continues"). Roaming = the whole Inn — the Council's movement layer lives in the wander-AI spec (the two pairs wander as units; pairs split only to address the player individually).
+
+
+---
+
+# PART 10: BATCH 12 — THE THREE STEPS (the philosophers, 2026-09-10, drafted and loaded)
+
+**CASTING RULED (Krista, 2026-09-10): the original casting KEPT — the Fry, Fiennes, and Irons voices stay** (the music-directive precedent extended; features softened in all art per the standing law).
+
+| Philosopher | Step | Hook | The Quiet (Rung 3) |
+|-------------|------|------|--------------------|
+| Socrates | the bottom step | "And what do you mean by THAT, exactly?" | The silence after the player's answer — the silence IS the teaching |
+| Plato | the middle step | "Consider the Form." | The cup beside its shadow, nothing said — which one were you talking to? |
+| Aristotle | the top step | "Of what kind?" | The answer filed with one nod — the nod IS the praise |
+
+Plus the ambient THREE-STEP LOOP (whisper-layer): the argument across the flights, one line per step as the player climbs — running since the staircase was built, never once gotten loud.
