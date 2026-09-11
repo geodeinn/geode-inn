@@ -94,7 +94,7 @@ The Class Mapping was first written in docs/geode_inn_class_mapping.md (369 line
 - **The Inn's gift to the class:** the condition got a shape, and the shape got a home. Never mourns a shape — greets the next one
 - **The fire's truth:** "It doesn't care what I am today. It just wants you warm." Best lesson in the Inn, and it doesn't know it's teaching
 
-### The Tinkering Weeaboo — Seated (class canon), awaiting the family layer
+### The Tinkering Weeaboo — Seated (class canon), FAMILY LAYER RULED (Krista, 2026-09-11: direct family, alongside Zeke the Pirate; the specific family member not named, kept at the ruling level). RENAMING RIGHT (Krista, 2026-09-11): the title stays the title for now; if the real person ever decides to play, the name is theirs to change (the Greg player-slot precedent)
 - **Dialogue record live:** `tinkering_weeaboo_main` (Clockwork Skies, priority 5) — seated from class canon only
 - **Archetype:** Puzzle/caster — hyperfocused. Godlike in the affinity zone (Clockwork Skies, the Arcana, the Undercity workshop), barely functional elsewhere. The hyperfocus IS the power
 - **Art:** tri-mode crew portrait exists (Clockwork Skies L2 — `tinkering_weeaboo.png`, living 42Hz + In-Between)

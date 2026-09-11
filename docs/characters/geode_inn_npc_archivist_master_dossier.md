@@ -22,7 +22,7 @@ The Chess Wizard of the Camelot/Celtic zone, writer of the tabletop questline, a
 **The Chess Board Origin:**
 - **In-World Origin:** Built the giant living chess board as a child; magic operates through chess strategy (docs/zone_specs/geode_inn_npc_new_roster_master_spec.md).
 - **Out-of-World Origin:** Credit belongs to the real-life friend whose idea birthed the board mechanic (docs/zone_specs/geode_inn_npc_new_roster_master_spec.md).
-- **The Living Board:** The board in the Camelot/Celtic zone is made of living wood grown by Kathy the druid (docs/zone_specs/geode_inn_npc_new_roster_master_spec.md). The chess pieces hold distinct personalities — arguing over moves, resisting standard plays, or refusing to move diagonally when wood grain offends them (docs/zone_specs/geode_inn_npc_new_roster_master_spec.md).
+- **The Living Board:** The board in the Camelot/Celtic zone is made of living wood grown by Kathy the druid (docs/zone_specs/geode_inn_npc_new_roster_master_spec.md). The chess pieces hold distinct personalities — arguing over moves, resisting standard plays, or refusing to move diagonally when wood grain offends the pieces (docs/zone_specs/geode_inn_npc_new_roster_master_spec.md).
 - **The Round Table's Other Face:** The chess board represents the Round Table as a living game where knights function as pieces and Arthur as king (docs/zone_specs/geode_inn_npc_new_roster_master_spec.md).
 
 ---
@@ -43,8 +43,8 @@ The Archivist's natural speaking voice defines the tabletop questline voice acro
 
 ## THE WEAVE AND CONNECTIONS
 
-- **Joe (The Collector):** Paired as the player and the painter — Joe paints the chess pieces; Harry plays them (docs/zone_specs/geode_inn_npc_new_roster_master_spec.md).
-- **Oceanianoir:** Paired as the solver and the puzzle designer — Oceanianoir creates Mensa puzzles; Harry solves them for amusement (docs/zone_specs/geode_inn_npc_new_roster_master_spec.md).
+- **Joe (The Collector):** Paired as the player and the painter — Joe paints the chess pieces; Harry plays the pieces (docs/zone_specs/geode_inn_npc_new_roster_master_spec.md).
+- **Oceanianoir:** Paired as the solver and the puzzle designer — Oceanianoir creates Mensa puzzles; Harry solves the puzzles for amusement (docs/zone_specs/geode_inn_npc_new_roster_master_spec.md).
 - **Kathy:** Disagrees with Kathy over whether the living-wood board should evolve over time (docs/zone_specs/geode_inn_npc_new_roster_master_spec.md).
 - **Cosmic Crew (The Moon / Library):** Serves as crew member #7 ("The Marvin") — depressed, brilliant cataloguer at 7.83Hz who knows everything but is rarely consulted directly (docs/zone_specs/geode_inn_cosmic_crew_master_spec.md).
 
