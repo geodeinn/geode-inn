@@ -196,7 +196,7 @@ The studio contains:
 ## Maddi — The Astronomer's Partner
 ### Zack's Partner, Future Inn Employee
 
-**Real name:** Maddi. Volunteer NPC. Partner to Zack (the Astronomer). Future employee of the Geode Inn once the game gets momentum. Potential storyline character.
+**Real name:** Maddi. Volunteer NPC. WIFE OF ZACK (the Astronomer) — ruled 2026-09-10 (upgraded from 'partner'). Future employee of the Geode Inn once the game gets momentum, as one of the Inn's SOCIAL BUTTERFLY DOUBLE AGENT EMPLOYEES (the new staff class, ruled 2026-09-10 — see below). Potential storyline character.
 
 **The person:** Maddi is Zack's partner. Zack is already in the game as the Astronomer — the cosmology level's resident genius, the playthrough tester, the systematic mind. Maddi is the other half of that partnership.
 
@@ -210,7 +210,9 @@ The studio contains:
 - **Zack (the Astronomer):** Partners. The both are: the adequate — the mind palace and the person who keeps the mind palace from becoming a prison. Zack lives in the cosmology level's architecture. Maddi lives in the real world. The both are: the adequate — the abstract and the concrete, the same partnership, different altitude.
 - **The cosmology level:** If Zack is the cosmology level's resident, Maddi is the cosmology level's grounding wire. The person who makes sure the Astronomer comes down from the Observatory occasionally. Eats. Sleeps. Remembers that the sky is beautiful but the ground has food.
 
-**Status:** AWAITING FULL CHARACTER SPEC FROM KRISTA. This profile will be expanded when Krista provides Maddi's character build.
+**THE SOCIAL BUTTERFLY DOUBLE AGENT CLASS (ruled 2026-09-10):** Maddi is one of the Inn's future employees who live the double life — present IN-WORLD as a character (the cosmology level's social presence, the grounding wire who moves between zones and rooms at ease) AND on staff as the Inn's real-world community host (the social butterfly: the connector, the welcomer, the person who makes the crowd feel like a room). The double agent: the same warmth working both sides of the fourth wall. The grounding-wire design stands as the in-world half — 'Have you eaten?' 'The sky will be there tomorrow.' — the person who keeps the mind palace from becoming a prison.
+
+**Status:** PROFILE CLOSED AS A RULING (2026-09-10): Zack's wife, the grounding wire, the first named member of the Social Butterfly Double Agent employee class. Full character build may still deepen when the game has momentum; Maddi is no longer a roster gap.
 
 ---
 
