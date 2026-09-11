@@ -15,7 +15,7 @@ The core thesis: **Reality does not need mythology to be strange. Reality IS myt
 
 ---
 
-## BILL vs. THE DUCK
+## BILL vs. THE DUCK  [MERGE RULING, Krista, 2026-09-11: "they could both just merge as Bill the Duck. Which is a pun and cute."  ONE BEING: BILL THE DUCK, the platypus everyone calls a duck (the mis-file gag doubled: "Pinniped Pilferer" was always wrong on purpose; the In-Between build sheet that called the Duck "the shiny-collecting platypus" was the TRUE FILE all along). The comparison table below is preserved as the setup to the joke  the one character seen twice:]
 
 | Attribute | The Duck (Pinniped Pilferer) | Bill (The Living Paradox) |
 |-----------|---------------------------|--------------------------|
