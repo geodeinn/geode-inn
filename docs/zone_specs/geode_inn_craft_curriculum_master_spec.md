@@ -78,8 +78,9 @@ The dialects live in their home zones and teach each other: THE QUARTER'S CRAFT 
 - [x] Pillar Three: the property dialect (seven ritual woods, property → ritual → home corridor)
 - [x] The synthesis law (the gris-gris as the capstone craft; the anti-gatekeeping law)
 - [ ] The full pattern set (beyond the six — each zone's own patterns, one per zone over time)
-- [ ] The full herb materia (the Material entity's herb records, each with chemistry/pairing/climate fields — data pass)
-- [ ] The full wood registry (the seven + the rest, each with property/ritual/corridor fields — data pass)
+- [x] THE CRAFT DATA PASS — CORE SET LIVE (2026-09-10): the Material entity's schema extended with the craft fields (craftPillar, craftProperty, ritualRole, climateCycle, craftPairing). The seven ritual woods populated (Cypress the Crossing, Bog Oak the Memory, Willow the Grief + bark bridge, Oak the Threshold, English Oak the Oath, Cedar the Keeping, Ash the Connection) + Rowan the Protection (created — the seventh's missing member, zone: Appalachian/Fae borders) + the herb set populated (Nightshade the dose law, Ginseng the frost-made, Spanish Moss the Catcher) + Thyme the guard and Rose the comforter created (the Garden Path's mourning-tea trio complete with Willow)
+- [ ] The full herb materia (the remaining herb records, each with chemistry/pairing/climate fields — continuation pass)
+- [ ] The full wood registry (the remaining woods, each with property/ritual/corridor fields — continuation pass)
 - [ ] The crafting UI grammar (pattern selection + component stacks — the maker's bench overlay)
 
 ## WHAT THIS SPEC ASKS KRISTA TO RULE ON
