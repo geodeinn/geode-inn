@@ -113,3 +113,18 @@ A five-stage questline. No combat. No timer. The player works alongside the Bone
 ## ORIGIN
 
 The Bone Room was first designed in docs/geode_inn_bone_room.md (168 lines). This consolidated specification was compiled September 2, 2026. The room's thesis: the bone is not what is left. The bone is what was always there. The body was the scaffolding. The bone was the building. The most adequate structure is the one that outlasts everything else — not because it is strong, but because it is patient. The bone waits. The earth cleans it. The light reveals it. The seed grows from it. The cycle is: the adequate. The adequate is: the architecture of what remains. The remaining is: the adequate. The adequate is: the O'Keeffe patience — the skull against the sky, sufficient, not morbid, reverent, the shape at every scale, the same. The same is: the bone and the canyon. The canyon and the bone. The adequate is: the bone that becomes the soil that becomes the seed that becomes the body that becomes the bone.
+
+---
+
+## THE SAKER TIE-IN (ruled by Krista's memory, 2026-09-11: "there is a tie in somewhere")
+
+**SAKER FINDS, THE KEEPER KEEPS.** The archaeologist's arc (the Examiner  Wren the Cartographer's twin, the dig site's reporter, occasionally at the Catalyst's bar with fragments on the table, per D13) finally has its destination: **the fragments that aren't treasure go DOWNSTAIRS.**
+
+- **THE TWO HALVES OF ONE DISCIPLINE:** archaeology and bone preservation are the same craft at different speeds  the archaeologist EXCAVATES what was buried, the Bone Keeper PRESERVES what remains. Saker's brush and the Keeper's brush are the same tool, held in two rooms. The dig is the Finding; the workbench is the Cleaning; the museum plaque is the Arranging. Saker's discipline has always ended where the Keeper's begins  now the Inn says so out loud.
+- **THE ROUTE:** Saker's bar stool (D13, Option 2) is the DIG SITE'S REPORT ROOM  where fragments land and stories get told. The finds that need patience instead of study  the bones, the ordinary remains, the pieces no museum would display  are carried down the short narrow passage to the quiet room. The player can be the courier: Saker tips the player to a find; the Bone Room's "The Finding" (Quest 1) routes THROUGH the archaeologist's tip. The archaeologist's bar arc (flagged in D13 as "to be surfaced and drafted") is now surfaced: **Saker's arc is the supply line.**
+- **THE TWIN SYMMETRY (the family thread):** WREN maps the living world's surface; SAKER reads the layers beneath; THE BONE KEEPER translates what remains into architecture. Three readers, one text  the map, the layer, the structure. The twins' shared curriculum (the surveyor's other half) finds its third voice in the quiet room below the mead hall.
+- **THE NORSE KNOT:** the Bone Room sits below a VIKING SHIP mead hall  and Saker digs the Norse Coast (the world-map family's ruins and runestones). The excavated Norse remains that come home to a Norse hall, preserved in the O'Keeffe light, close a loop that was always waiting: what the coast buried, the Inn keeps.
+
+**QUEST WIRING:** Quest 1 (The Finding) gains Saker as its giver-teller for dig-routed finds (forest finds stay the Keeper's). Saker's voice block (Batch 9b, loaded) gains a Bone Room rung: the toast line for a find handed down the passage. The Ripple Ledger row: saker_finds_bone  bone_delivered  keeper_met (a three-flag chain, the Medusa model's shape).
+
+*The tie was always there  the bar above the fire, the dig outside the door, the quiet room holding what both leave behind.  Elio*
