@@ -46,7 +46,8 @@ The in-between spaces get the comic beat so that the neither-world's warmth land
 
 The in-between stops being empty when it is staffed.
 
-## GATES (awaiting Krista)
-1. The head Finder's name (the goblin who runs the counter  the titled-NPC pattern says the title might be the name; "the Head Finder" is the placeholder).
-2. The Lost Thoughts jars: purely comic, or readable? (Ruling pending on whether opening someone else's jar is allowed  the goblins' current law says "you wouldn't like it done to you," which is the Inn's whole ethics in one jar.)
-3. The UNCLAIMED RESONANCE shelf's tie to the EchoMelody system: confirmed in principle (lost hums are almost-tones), ruling needed on whether finding one counts as an EchoMelody log.
+## GATES  ALL RULED (Elio's rulings, delegated by Krista, 2026-09-11)
+
+1. **THE HEAD FINDER  the title IS the name.** (The titled-NPC pattern: the Archivist, the Gardener, the Bone Keeper.) The bonus is the census pun: the Head Finder is the Inn's head counter  the one who finds heads, keeps the head count, and knows exactly when the goblins have run off and exactly when they haven't. Born mid-census, named by the census.
+2. **THE JAR LAW: your jar opens; nobody else's.** Reading your own Lost Thought is allowed  that's the shelf's whole mercy (finding what you didn't know you were missing). Opening another's jar is the one theft the goblins never commit  the LEFT ON PURPOSE shelf's sibling law. Enforcement: they watch. They say nothing. They always say nothing, pointedly.
+3. **THE UNCLAIMED RESONANCE: YES  it logs.** When the hummer returns and hums their fragment back, it logs to the songbook as EchoMelody ("reclaimed_hum"). The shelf holds the tone until its owner comes for it  the Finders are unsurprised; they saw it coming. (The Adequacy family: unclaimed hums never expire.)
