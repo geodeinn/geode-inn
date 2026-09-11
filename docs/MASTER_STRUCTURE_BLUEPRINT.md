@@ -140,10 +140,10 @@ Every room in the Inn needs the same base kit, plus additions for what lives in 
 ### THE WORLD MAP (the 37 pins  the audit's family, specced tonight)
 | Zone | Spec | Chain | Art status |
 |------|------|-------|-----------|
-| The Celtic Highlands + the Book of Kells (the Moorlands) | done (TONIGHT) | the Missing Folio (gates) | KIT-N OWED  the Bard's bench; paint early |
-| The Transylvanian Forest | done (TONIGHT) | the Owl Watch (gates; Friedrich gate) | KIT-Z OWED |
-| The Norse Coast | done (TONIGHT) | the knarr run, the aurora (gates) | KIT-Z OWED  the aurora panels are a showcase |
-| The Stone Circles | done (TONIGHT) | the Lithophone (gates) | KIT-Z OWED  the instrument zone |
+| The Celtic Highlands + the Book of Kells (the Moorlands) | done (TONIGHT) | the Missing Folio (gates) | IN PROGRESS (wide + the Bard's bench done 2026-09-11; portrait + kit fills owed) |
+| The Transylvanian Forest | done (TONIGHT) | the Owl Watch (gates; Friedrich gate) | IN PROGRESS (wide done 2026-09-11; kit fills + frequency pairs owed) |
+| The Norse Coast | done (TONIGHT) | the knarr run, the aurora (gates) | IN PROGRESS (showcase wide done 2026-09-11; the aurora's deeper panels owed) |
+| The Stone Circles | done (TONIGHT) | the Lithophone (gates) | IN PROGRESS (wide done 2026-09-11; the instrument panels owed) |
 | The Aegean Light + the Greek border | done | the Mirror of the Sun + the Bearsark arc (TONIGHT) | KIT-N OWED  the Bearsark's two-linework portrait is a model sheet |
 | The Desert Bone (Egypt) | done | the Form Sight chain | PARTIAL (cast live) |
 | The Andean Highlands (Peru) | done | What the Mountain Remembers (PASSED) | PARTIAL |
