@@ -1,5 +1,5 @@
 # THE TIDE SYSTEM TIE-IN: "THE BEAT AND THE FERRY"
-## Two loose ends, one tide — drafted 2026-09-10 for Krista's review (DRAFT until ruled)
+## Two loose ends, one tide — PASSED by Krista 2026-09-10 (CANON — the full eight-quest line confirmed; the below-court keeps itself, as it has for eons)
 > LOOSE END 1 (Krista): the timing game system linked to the tide and Zeke — a long quest line. LOOSE END 2 (Krista): Persephone is tied in with the tides in the cave system, especially the underground one with the specially adapted critters. CANON SOURCES: dissection 06 (PERSEPHONE — THE TIDE: the cycle, seasonal, the state-shifter for all seven layers; Zeke on the dock); dissection 06b (ZEKE'S LAW — the Beat: 50 BPM, WHEN to act; the tide chart — the whole water system's clock on one skin of parchment; the marriage of Zeke and Katya: the beat and the song); the Bard-Pirate spec (the Moon's secret: "The Drum That Plays Itself" — 50 BPM is the Moon's pulse, the Pirate is the instrument, told through sound, never in life); the Japan minigame (the precision timing game: the sinking stones); the Tidal Caves chain (PASSED — the compressed tide, the spring tide finale); the Terracotta chain (PASSED — Persephone's winter station, the Hidden Guest).
 
 ---
@@ -64,4 +64,4 @@ AUTUMN: the underground tide rises — the salt pushing up through the channels,
 ## TONE LAW
 Weir holds the anchialine science (the halocline, the stranded lineages — all real, all load-bearing). Bradbury holds the below-court (the pale slow congregation, the dark that keeps its own time). Rothfuss holds Zeke's quiet (the Beat in few words). Gaiman holds the ferry (the season riding the water home). And Pratchett is allowed exactly one beat: the Kappa, bowing back. No one times the underground tide. Someone lives in it, and the living is the keeping.
 
-*Draft for Krista's review — two flags: (1) the Beat Line's eight-quest length (the long line, as ruled — confirm the count or trim); (2) the below-court's freedom from a keeper NPC (the critters keep themselves — no guardian added below; Katya's surface greeting is the only escort voice). The tie-in loads on pass.*
+*PASSED (Krista, 2026-09-10) — canon. Both flags ruled: the FULL eight-quest Beat Line stands as written, and the below-court keeps itself quite fine down there — no guardian added below; it has managed for eons. Katya's 'Depth.' remains the only escort voice. The tie-in loads: the timing games are one system, and Persephone is the tide.*
