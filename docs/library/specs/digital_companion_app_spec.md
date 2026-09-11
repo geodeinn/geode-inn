@@ -140,7 +140,7 @@ The app displays the current frequency state of the game world:
 The GM can trigger a frequency shift in the app, which:
 1. Changes the visual theme on all connected devices
 2. Logs the shift in the session record
-3. Notifies players with a haptic pulse (mobile) or visual flash (web)
+3. Notifies players with a haptic pulse (mobile) or a sine-clamped amber glow (web)  the Steady Light Law: no hard flash ever
 4. Updates available encounters and NPC behaviors
 
 ### Frequency Attunement Tracking
@@ -155,7 +155,7 @@ The app tracks this and provides reminders:
 
 ### The Schumann Calibration
 Once per session, the GM can trigger a Schumann Calibration (7.83Hz) — a moment where all frequency effects reset to neutral. The app:
-1. Flashes white on all devices
+1. Glows sine-clamped amber on all devices (the founding epilepsy-safe law  Project Bible Design Principle #8; never a hard flash)
 2. Resets all temporary frequency modifiers
 3. Logs the calibration in the session record
 4. Plays the 7.83Hz calibration tone (through connected speakers)

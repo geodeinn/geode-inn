@@ -49,6 +49,9 @@ The Prism's mercy clause, generalized: the existential material (the Question, t
 
 ---
 
+### 12. THE STEADY LIGHT LAW (the founding rule, found and named  Project Bible, Design Principle #8, written before the building had walls)
+"Sine-clamped lighting, non-assertive transitions, gentle sensory experience  the Inn is a sanctuary, not a stimulation loop." Every light change in the Inn is a smooth curve, never a hard cut  the founding photo-safety law, now named in the charter it always belonged to. THE FLICKER TAXONOMY (the law's clarifying clause): the Inn's flickers are CANDLELIGHT-CLASS  slow, warm, irregular, procedural (the oil lamp's 2-3 block radius, the hearth's noise-function fire, no two visits the same)  and candlelight-class flicker is not a violation, it IS the aesthetic (sanctuary light behaves like fire). STROBE-CLASS  hard on/off cuts, high-contrast flashes  never enters the building. THE COMPANION PRINCIPLE (#9, folded in): amber wavelengths, 590-620nm, the firelight spectrum that says "safe, rest, explore"  the deliberate opposite of compulsion-loop design. The hub's knotwork pulses slow; the Pulse Line breathes rather than blinks; every glow in the building is a sine wave wearing amber. (Audit catch, corrected this pass: the digital companion app spec's "flashes white on all devices" now reads "sine-clamped amber glow"  the founding law wins all ties.)
+
 ## THE WELCOME LAW (the charter's spine)
 
 Access features live ON THE BUILDING, in the Inn's own language, not in a clinical settings menu  the Title Card Law's principle at charter scale: captions as intertitles, quiet rooms as calm doors, sign language as curriculum, haptics as hardness. The accommodation IS the aesthetic. If the Inn ever needs a word like "accommodation," it has failed its own law: nothing here is a concession, because every way of thinking was always going to be the point.
