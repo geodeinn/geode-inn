@@ -23,12 +23,12 @@ The foundation of the Geode Inn is built upon a polyamorous triad—Krista, Loze
 
 ### Vaulknut (The Artisan Thief / Bog Fairy Golem / Krista)
 - **Source Seed:** Krista herself, the maker and architect of the Inn (, ).
-- **Narrative Role & Mechanics:** Artisan Thief class. A selkie who chose the land. Vaulknut shed seal skin, picked up jeweler's tools, and stayed on land to make truer things (). Vaulknut's leather jeweler's apron functions as selkie skin—untouchable by others. Works alone in the Tidal Caves, utilizing the ocean tide itself as a lathe. Wears a raven plague-doctor mask as a visual register (). Operates behind the scenes like Penelope Garcia from *Criminal Minds*, preferring work in gray areas rather than main-floor spotlight ().
+- **Narrative Role & Mechanics:** Artisan Thief class. A selkie who chose the land. Vaulknut shed seal skin, picked up jeweler's tools, and stayed on land to make truer things (). Vaulknut's leather jeweler's apron functions as selkie skin—untouchable by others. Works alone in the Tidal Caves, utilizing the ocean tide itself as a lathe. Wears a raven plague-doctor mask as a visual register (). Operates behind the scenes like Penelope Garcia from Criminal Minds, preferring work in gray areas rather than main-floor spotlight ().
 - **Document References:** , , .
 
 ### Lozen (The Sentinel / River)
 - **Source Seed:** Lozen / River, spouse in the triad (, ).
-- **Narrative Role & Mechanics:** Sentinel class. Former Golden Gloves champion boxer, INFJ (). Guards the Inn through the 10-part "Sentinel's Vigil" questline (). Operates from a grounded boxing stance ("Iron Stance") that resists physical forces. Possesses a Presence Aura: perceived as taller and larger on first meeting, correcting on second meeting (). Iconic vocal tells: "Halt." and "Oi."
+- **Narrative Role & Mechanics:** Sentinel class. Former Golden Gloves champion boxer, INFJ (). Guards the Inn through the 10-part Sentinel's Vigil questline (). Operates from a grounded boxing stance (Iron Stance) that resists physical forces. Possesses a Presence Aura: perceived as taller and larger on first meeting, correcting on second meeting (). Iconic vocal tells: Halt. and Oi.
 - **Document References:** , , .
 
 ### Charles (The Chameleon Druid)
@@ -42,21 +42,21 @@ The foundation of the Geode Inn is built upon a polyamorous triad—Krista, Loze
 
 The parents' layer establishes the foundational romantic and intellectual tensions of the Inn through sixty years of shared history (, ).
 
-### The Bard Blowhard (Bill / William R. Barton Jr. "Bart")
-- **Source Seed:** Krista's father, William R. Barton Jr. ("Bart") ().
-- **Real-World Background:** 11-time All-American swimmer, National AAU Champion, World Record holder, dolphin trainer for *Flipper*, legendary swim coach, and printmaker who taught Krista Book of Kells capital letters in childhood (, ).
+### The Bard Blowhard (Bill / William R. Barton Jr. / Bart)
+- **Source Seed:** Krista's father, William R. Barton Jr. (Bart) ().
+- **Real-World Background:** 11-time All-American swimmer, National AAU Champion, World Record holder, dolphin trainer for Flipper, legendary swim coach, and printmaker who taught Krista Book of Kells capital letters in childhood (, ).
 - **Narrative Role & Mechanics:** Dwarf Bard Blowhard class. Porthos/D'Artagnan personality blend—booming voice, room-filling warmth, romantic bravery (). Burst Charisma mechanic boosts ally morale before entering cooldown. Solos and improvises on lute during nighttime dock music sessions with Zeke the Pirate ().
 - **Document References:** , , .
 
 ### The Librarian Ragana (Inta Barton)
 - **Source Seed:** Krista's mother, Inta Barton (, ).
-- **Real-World Background:** Named "Ragana" (Latvian for "witch"), chosen personally by Inta Barton ().
+- **Real-World Background:** Named Ragana (Latvian for witch), chosen personally by Inta Barton ().
 - **Narrative Role & Mechanics:** Librarian class. Casting register draws from Anthony Hopkins (Lecter precision intellect) (). Measures all physical and structural phenomena. Spectacles function as skin—untouchable. Designed the Inn's ambient lighting and color palettes (). Performs surgical red-pencil critiques on text and research. Terrifies the Council of Thinkers ().
 - **Document References:** , , .
 
 ### Parent Storylines & Marriage Dynamics
 - **The 60-Year Elopement:** The Bard and the Ragana eloped on a whim sixty years ago without planning or measurement (). The marriage stands as proof that boisterous noise and analytical precision belong together.
-- **The Window Scene:** The Ragana and Katya the Siren watch their husbands (the Bard and the Pirate) from the library window during dock sessions, sharing a truce of identical problems: "We married the noise" ().
+- **The Window Scene:** The Ragana and Katya the Siren watch their husbands (the Bard and the Pirate) from the library window during dock sessions, sharing a truce of identical problems: We married the noise ().
 
 ---
 
@@ -66,9 +66,9 @@ The sister layer anchors the water zones and the dual-world concept (, ).
 
 ### Katya the Siren / Katija (Andra)
 - **Source Seed:** Krista's sister, Andra (, ).
-- **Narrative Role & Mechanics:** Siren class. Water guardian of the 7-Layer Deep and command voice of the Water Zone (). Possesses room-filling magnetism and electric vocal presence; hears all ambient frequencies ("I hear everything. It's the magnetism. I can't turn it off") (). Dark red curled hair is a constant trait across land and water forms (). Married to Zeke the Pirate ().
+- **Narrative Role & Mechanics:** Siren class. Water guardian of the 7-Layer Deep and command voice of the Water Zone (). Possesses room-filling magnetism and electric vocal presence; hears all ambient frequencies (I hear everything. It's the magnetism. I can't turn it off) (). Dark red curled hair is a constant trait across land and water forms (). Married to Zeke the Pirate ().
 - **The Dual World System:** Vaulknut and Katya embody the Dual World made family: Vaulknut chose the land for stonecraft, while Katya kept the sea for song (). Two sisters guarding one water system.
-- **The Spelling Law:** When Vaulknut addresses Katya directly, the name is spelled **Katija** in quiet defiance of their mother's wrath (, ). The name honors grandmother Velta (fluent in Russian and Latvian by age two, rumored Russian royal lineage) ().
+- **The Spelling Law:** When Vaulknut addresses Katya directly, the name is spelled Katija in quiet defiance of their mother's wrath (, ). The name honors grandmother Velta (fluent in Russian and Latvian by age two, rumored Russian royal lineage) ().
 - **Document References:** , , .
 
 ---
@@ -88,7 +88,7 @@ Every real-person-linked character adds a specific layer of craft, technology, l
 - **Document References:** , , .
 
 ### Oceanianoir (Jaime)
-- **Source Seed:** Jaime (spelled with an 'i'), Mensa puzzle designer, periodic-table-tattooed scientist, burlesque performer, goth atheist, reptile enthusiast (, ).
+- **Source Seed:** Jaime (spelled with an i), Mensa puzzle designer, periodic-table-tattooed scientist, burlesque performer, goth atheist, reptile enthusiast (, ).
 - **Lore & Mechanics:** The Living Archive (). Married to Will the alchemist. Represents a living chemical equation.
 - **Document References:** , .
 
@@ -111,7 +111,7 @@ Every real-person-linked character adds a specific layer of craft, technology, l
 
 ### Maddi
 - **Source Seed:** Maddi, wife of Zack (the Astronomer) (, ).
-- **Lore & Mechanics:** Grounding wire for the cosmology level ("Have you eaten?" messages) (). Computer-fluent MySpace veteran. First named member of the Social Butterfly Double Agent Employee Class—living in-world as a character and serving on staff as a community host ().
+- **Lore & Mechanics:** Grounding wire for the cosmology level (Have you eaten? messages) (). Computer-fluent MySpace veteran. First named member of the Social Butterfly Double Agent Employee Class—living in-world as a character and serving on staff as a community host ().
 - **Document References:** , .
 
 ### Zack (The Astronomer)
@@ -126,7 +126,7 @@ Every real-person-linked character adds a specific layer of craft, technology, l
 
 ### Luna / Taaffeite (Dani)
 - **Source Seed:** Dani, real-world jeweler (, ).
-- **Lore & Mechanics:** Zen jeweler of the Campgrounds bead shop. True identity is **Taaffeite**—one of the rarest gemstones on Earth (). Married to Greg.
+- **Lore & Mechanics:** Zen jeweler of the Campgrounds bead shop. True identity is Taaffeite—one of the rarest gemstones on Earth (). Married to Greg.
 - **Document References:** , .
 
 ### TJ and Gabby
@@ -142,7 +142,7 @@ Every real-person-linked character adds a specific layer of craft, technology, l
 
 ### Saker
 - **Source Seed:** Archaeologist connected to real-world excavation discipline (, ).
-- **Lore & Mechanics:** Dig site reporter and archaeologist twin to Wren the Cartographer (). Sources non-treasure bone and artifact fragments across global sites for the Bone Room museum ("Saker finds, the Keeper keeps") ().
+- **Lore & Mechanics:** Dig site reporter and archaeologist twin to Wren the Cartographer (). Sources non-treasure bone and artifact fragments across global sites for the Bone Room museum (Saker finds, the Keeper keeps) ().
 - **Document References:** , .
 
 ### The Collector (Joe)
@@ -152,12 +152,12 @@ Every real-person-linked character adds a specific layer of craft, technology, l
 
 ### The Firekeeper
 - **Source Seed:** Tim Curry casting archetype / hearth storytelling tradition (, ).
-- **Lore & Mechanics:** Permanent storyteller seated at the Storyteller's Corner (). Speaks with soft, quiet devotion ("Tend. Still.") (). Serves as the active 84Hz anchor NPC in the Shadow Inn ().
+- **Lore & Mechanics:** Permanent storyteller seated at the Storyteller's Corner (). Speaks with soft, quiet devotion (Tend. Still.) (). Serves as the active 84Hz anchor NPC in the Shadow Inn ().
 - **Document References:** , , .
 
 ### Ryan
 - **Source Seed:** Ryan, real-world gamer ().
-- **Lore & Mechanics:** Bartender at the Meadery with a Dell technology background (). Serves as the tech bridge between ancient hall aesthetics and modern plumbing/infrastructure. Built an Ezio / *Assassin's Creed* avatar ().
+- **Lore & Mechanics:** Bartender at the Meadery with a Dell technology background (). Serves as the tech bridge between ancient hall aesthetics and modern plumbing/infrastructure. Built an Ezio / Assassin's Creed avatar ().
 - **Document References:** .
 
 ### Zeke (The Pirate / Dread Pirate Roberts)
@@ -168,7 +168,7 @@ Every real-person-linked character adds a specific layer of craft, technology, l
 ### Additional Real-Person Linked Characters
 - **Brim:** Madame Mim / pipe-smoking chaos agent inspired by Magritte pipe motifs (). Sidekick to Ziggy.
 - **Ziggy:** Family crested gecko (). Shoulder counterweight to Brim; counts player returns.
-- **Eres:** The Cabbit / The Vessel ("vessel that purrs") (). Void-ship of the Annunaki arc.
+- **Eres:** The Cabbit / The Vessel (vessel that purrs) (). Void-ship of the Annunaki arc.
 - **Quire:** Real-world college friend who introduced Krista to Lovecraft (, ). Formerly named John Myers; distinct from player John Myers. Lovecraftian scholar reading in restricted Archive margins ().
 - **Erik:** Earl Ragnar casting (, ). Warm Norse ship-builder in Canopy City feast hall; fire survivor; opens mead stall at dusk.
 - **Rachel Kaiser:** Real studio artist, muralist, ceramic tilemaker, welder, Stardew Valley farmer (). Studio located in Spiral Gallery; morning face makeup process represents artistic canvas transformation.
@@ -206,7 +206,7 @@ Characters generated through pure invention, mythic archetype, or institutional 
 | Character | Source Seed / Real Person | Narrative Growth & Storylines Seeded | Document References |
 | :--- | :--- | :--- | :--- |
 | **Vaulknut** | Krista (Maker) | Selkie who chose land; jeweler apron skin; Tidal Caves tide lathe; 40Hz ocean memory; behind-the-scenes operator | ,  |
-| **Lozen** | River (Spouse) | Former Golden Gloves boxer; Sentinel class; 10-part Sentinel's Vigil; Iron Stance; Presence Aura; "Halt." | ,  |
+| **Lozen** | River (Spouse) | Former Golden Gloves boxer; Sentinel class; 10-part Sentinel's Vigil; Iron Stance; Presence Aura; Halt. | ,  |
 | **Charles** | Charles (Spouse) | Chameleon Druid; Cillian Murphy vibe; glioblastoma narrative integration; 42Hz Inn-Tree sync in garden | ,  |
 | **The Bard** | Bart / William Barton Jr. (Dad) | Dwarf Bard Blowhard; 11-time All-American swimmer; Kells capitals teacher; Porthos energy; 50 BPM dock sessions; 60-year elopement | ,  |
 | **The Ragana** | Inta Barton (Mom) | Librarian class; Latvian witch name; Hopkins Lecter gaze; measures all things; spectacle skin; color palettes; window truce | ,  |
@@ -219,19 +219,19 @@ Characters generated through pure invention, mythic archetype, or institutional 
 | **Aurallia** | Eileen (Friend) | The Hearth; cave studio painter; sleeping dragon 7.83Hz frequency sync | ,  |
 | **John (19)** | Eileen's oldest child | Cave studio apprentice; bridge between generations; studio door greeter | ,  |
 | **Scarlett (16)** | Eileen's daughter | Shy daughter; dragon companion in cave studio; drawing that reveals dragon's true name | ,  |
-| **Maddi** | Maddi (Zack's Wife) | Cosmology grounding wire ("Have you eaten?"); MySpace veteran; Social Butterfly Double Agent Employee | ,  |
+| **Maddi** | Maddi (Zack's Wife) | Cosmology grounding wire (Have you eaten?); MySpace veteran; Social Butterfly Double Agent Employee | ,  |
 | **Zack** | Zack (Husband of Maddi) | The Astronomer; cosmology level genius; systematic mind and playthrough tester | ,  |
 | **Greg** | Greg (Luna's Husband) | Artisan; reserved player slot (FOLIO precedent) | ,  |
 | **Luna / Taaffeite** | Dani (Friend) | Zen jeweler in Campgrounds; Taaffeite rarest stone identity; married to Greg | ,  |
 | **TJ & Gabby** | Jay & Bethany's kids | TJ (12) quiet explorer; Gabby (~8) brilliant napkin artist; subject to Parental Gate | ,  |
 | **Jay, Bethany, Wisteria** | Tavern Family | Huntsman Tavern in Campgrounds; wolf companion; tavern management and logistics | ,  |
-| **Saker** | Archaeologist discipline | Bone Room archaeology finder ("Saker finds, the Keeper keeps"); dig site reporter | ,  |
+| **Saker** | Archaeologist discipline | Bone Room archaeology finder (Saker finds, the Keeper keeps); dig site reporter | ,  |
 | **The Collector** | Joe (Friend) | Undercity NPC; miniature painter of Camelot chess pieces; Lucifer cadence; married to Siobhan | ,  |
-| **The Firekeeper** | Tim Curry archetype | Seated at Storyteller's Corner; soft devotion ("Tend. Still."); 84Hz Shadow Inn anchor | ,  |
-| **Ryan** | Ryan (Gamer) | Meadery bartender; Dell technology background; Ezio *Assassin's Creed* avatar |  |
+| **The Firekeeper** | Tim Curry archetype | Seated at Storyteller's Corner; soft devotion (Tend. Still.); 84Hz Shadow Inn anchor | ,  |
+| **Ryan** | Ryan (Gamer) | Meadery bartender; Dell technology background; Ezio Assassin's Creed avatar |  |
 | **Brim** | Magritte / Mim motif | Pipe-smoking chaos agent; hat brim; sidekick with Ziggy |  |
 | **Ziggy** | Family crested gecko | Brim's shoulder counterweight; counts player returns |  |
-| **Eres** | Cabbit | The Vessel ("vessel that purrs"); void-ship of Annunaki arc |  |
+| **Eres** | Cabbit | The Vessel (vessel that purrs); void-ship of Annunaki arc |  |
 | **Quire** | College friend | Lovecraftian scholar in Archive margins; distinct from player John Myers | ,  |
 | **Erik** | Earl Ragnar casting | Warm Norse ship-builder in Canopy City; fire survivor; mead stall at dusk | ,  |
 | **Rachel Kaiser** | Rachel Kaiser (Artist) | Studio artist in Spiral Gallery; muralist; tilemaker; morning makeup studio transformation |  |
