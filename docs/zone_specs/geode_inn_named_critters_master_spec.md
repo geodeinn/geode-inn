@@ -111,3 +111,16 @@ The named critters are not pets and not mascots. Each one is a load-bearing char
 **Tri-mode:** Living  lodged and complaining (the muffled mrrp from inside the vase); Shadow  Grit's empty stuck-places, the vase with nothing wedged in it, the jug with its throat clear (the Shadow's quiet is never louder); In-Between  Grit stuck in a grey wall, half-visible, still round.
 **Voice:** nonverbal by physics (muffled, from inside things). The mrrp. Once per finding.
 **Weaves into:** the Inn's whole thesis in one critter: you don't have to go anywhere or do anything to be loved  you just have to be where you are, loudly enough to be found.
+
+---
+
+## 9. THE GARGOYLE PUPPIES  the Six Resonant Sentinels' Apprentices (canonized 2026-09-11, Krista's call: "beyond cute and will definitely wander")
+**Zone:** everywhere stone is warm and sound is strong (Staircase landings, main floor corners, the Forge)  the pack has no home because the posts are the home
+**The storyline:** SIX pups, one for each of the six resonant gargoyles' frequency pairs  each pup is the pupil of its sentinel (the Watcher's pup, the Listener's pup, the Sage's pup, the Gatekeeper's pup, the Caller's pup, the Keeper's pup). THE APPRENTICESHIP: someday each pup will take a post of its own  the sentinels were pups once (stone grows the way the Inn grows: slowly, in place). For now they trot.
+**THE PROWL (the wander law  the Migration class's sibling): where the dragon kittens follow WARMTH, the puppies follow SOUND. Each pup naps wherever its own frequency sounds strongest that day  a living frequency map (find the 111Hz pup and you have found where the transformation hum lives today; the Keeper's pup naps wherever the player's own note is loudest  the pup that finds YOU). THE PACK TROT: at dawn and dusk the six trot the building together, post to post  the rarest cute sighting in the Inn (all six at once; no explanation; the Adequacy Law holds).
+**THE CHEW LAW (canon, standing): the chew marks on the Forge's copper vent-pipe are AFFECTION, not damage (stone puppies love the forge the way real puppies love hearths  warm metal is a chew toy that chews back). The Forge's ambient companion: watchers who sit past a few minutes get a pup asleep against the warm anvil-base.
+**Threads:** the six resonant gargoyles (the apprenticeship  the acoustic alchemy's next generation); the movement system (Tier 1 trot cycle painted, recolor x6  the frequency pairs are the palette shifts); the Forge (the chew law, the anvil-base naps); the Whisper Layer (a pup's ears are the first to prick  stone hears); the comedy troupe (the physical school's heaviest members: the trot, the chew, the stone-light nap).
+**Tri-mode:** Living  the trot, the tail-wag that scuffs; Shadow  the pups frozen mid-trot on their posts, already gargoyles (the Shadow's promise kept as a threat); In-Between  a pup napping in a grey doorway, half-stone, still warm.
+**Voice:** stone-small  the yip has a ring to it (each pup's yip is its own frequency, a puppy's pitch with a bell's decay).
+**Weaves into:** the whole frequency architecture made pettable. The player doesn't need to know what 111Hz does; the player just notices where the pup naps  and the Inn's deepest science arrives as a warm stone that wags.
+**Names:** pending Krista (six pups, one per sentinel  the family names its own).
