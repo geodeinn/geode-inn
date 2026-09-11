@@ -342,3 +342,27 @@ The karaoke system's settings were written (Section VI). What was missing: the R
 | Molly Malone | Irish traditional | Medium | Main Floor, market day | Depeche Mode — the market drone under the ballad | The murlocs gargle "alive, alive, oh" — the collective's one chorus, canon forever |
 
 *(Catalog now stands at 44 arranged songs. Same six treatment laws; same PD/copyright law — method stolen, never melody. ~11 more production hours. The pub sing at faire was always the Inn's karaoke in rehearsal — now the rehearsal is written down.)*
+
+### THE THIRD ADDITION — Krista's Direct List (2026-09-11 evening)
+*(Named from memory. Same law holds: PD songs sing, copyrighted songs teach.)*
+
+**ALREADY IN THE CATALOG:** Greensleeves, Health to the Company, The Parting Glass, Wild Mountain Thyme, The Wild Rover, Step It Out Mary (Krista's variant title "Step It Up Mary" noted — the traditional's both names welcome).
+
+**NEW TO THE CATALOG (public domain):**
+
+| Song | Origin | Difficulty | Zone Home | Treatment (the analyzed source) | The Join-In Cast |
+|------|--------|-----------|-----------|--------------------------------|------------------|
+| Black Jack David | Appalachian/Child ballad family (trad.) | Medium | World map roads, Threshold | Elfman — the taking-hook; the ballad's pull is the melody's pull, one held note under the whole road | The Dutchman hums from the hatband; the last verse hums back from the Fae Threshold (the taking is the Threshold's oldest story — never explained, only kept) |
+| Johnny Jump Up | Irish traditional (cider song) | Medium | Meadery, comedy hour | Serj — the comedy mutates verse by verse: each cider victim staggers the key a little further, the song walks home sideways and arrives anyway | Ryan pours on the beat; the brownies' shell-claps keep time; VIVALDI takes the priest's verse (the priest who caught the seasons, singing the cider — the Music Room's own crossover) |
+
+**JOINED THE TREATMENT SOURCE LIST (copyrighted — they teach, they do not play. Method stolen, never melody):**
+
+| Song | The Lesson It Teaches |
+|------|----------------------|
+| The Mariner's Revenge Song (The Decemberists) | THE REVENGE BALLAD REGISTER — the long narrative build, the accordion-creep, the whale of a finale; the Inn's quest-ballads (the Bard's fire songs) learn from this shape. A future original ballad in this register belongs to the sea zones |
+| Ride On (Jimmy McCarthy / Christy Moore) | THE LEAVE-TAKING REGISTER — the gentle goodbye at walking pace; teaches the Inn's farewell arrangements (dock departures, the LEAVE ending's leitmotif family) how to be warm without resolving |
+| Falling Slowly (Once) | THE DUET LAW — two voices pulling each other up; teaches the karaoke DUET mechanic (the only song-shape that needs two players); an original duet in this register belongs to the campfire's quiet tier |
+| The Blood of Cu Chulainn | THE HERO-CYCLE REGISTER — the Ulster epic as instrumental weight; the Celtic zones' battle-and-myth arrangements learn from this pulse (pending origin verification — modern recording, copyrighted; the myth it carries is PD) |
+| Cashmere/Kashmir (pending Krista's ruling on which piece) | PENDING — awaiting the ruling before it joins |
+
+*(Catalog: 46 arranged songs. The modern five join Tool, the trinity, Elfman, Trent, and Serj on the teacher list — the same shelf, the same law: the method is public domain, the melody is ours.)*
