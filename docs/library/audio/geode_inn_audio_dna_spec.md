@@ -405,3 +405,21 @@ If it doesn't pass, it doesn't ship. The mantra: Get it fully completed and sent
 ## SUMMARY: THE INN'S AUDIO DNA IN ONE PARAGRAPH
 
 The Inn's audio is one organism (Tool), built on sacred mathematics (Tool, Pickover), rooted in the earth (Hearne, 42Hz Song), breathing at a sleeping heartbeat (50 BPM), and expressed through high-end IEM engineering (Empire Ears). Every character has an irreducible melodic signature (Elfman) that survives the tectonic tri-mode shift (Tool + Elfman). Every zone accumulates texture as the player experiences it (Trent) and mutates into the next zone without crossfading (Serj). The descent is a waltz-macabre (Elfman) that builds through accumulation, not escalation (Tool + 30STM), until the Final Room holds every layer at once — contradictory emotions, unresolved key, the choir about to sing and choosing not to (Elfman's emotional surprise). The darkness is never cold (Depeche Mode). The humor shares instruments with the horror (Elfman's carnival-dark). The math is the mysticism (Tool). The vocal is an instrument (Tool). The Inn is one piece with movements, not a collection of rooms with soundtracks (Tool). And the whole thing is felt before it's heard, because the Inn's design philosophy is the lightest possible touch — when you do things right, people won't be sure you've done anything at all (Futurama).
+
+---
+
+## THE SPIRAL HEARTBEAT — The Lateralus Thrum (Krista's ruling, 2026-09-11 evening)
+
+**THE CLAIM (Krista, and it's musically true):** Lateralus is already a heartbeat song structure. The main riff cycles 9/8 + 8/8 + 7/8 — twenty-four eighth notes, exactly three bars of steady 4/4. It is a spiral that resolves into a pulse: a heartbeat that breathes. The Fibonacci syllables (1, 1, 2, 3, 5, 8) approach the golden ratio and never arrive — the same way a heartbeat's systole and diastole never quite repeat identically. The body adjusts before the mind does (the canon Tool law).
+
+**THE RULING — the heartbeat's internal structure, upgraded:** the 50 BPM heartbeat is NOT a metronome click. It is a THRUM built on the Lateralus cycle — 9-8-7 resolving into the steady 24, contraction and expansion, felt before heard.
+
+- **AT REST (default, all zones):** the spiral is invisible. The cycle resolves so cleanly into the steady 24 that the player hears a resting pulse and feels the breathing under it — the body knows the spiral is there before the mind does (Tool's tectonic law, held as a pulse).
+- **IN FLOW STATES (the Geode Cave, the Resonance Chambers, the Stone Circle Chamber, the deep):** the thrum OPENS. The 9-8-7 cycle becomes perceptible — the heartbeat breathing, the spiral turning — and always resolves home to the steady 24. The player's nervous system entrains to a spiral, not a tick. "Spiral out, keep going" is the 42Hz Song's own instruction ("grow"), made a pulse.
+- **NIGHT LAW (40 BPM):** the spiral contracts, not stops — the cycle stretches, the resolution slower, the sleeping breath of the building (the dragon's cave canon, kept).
+- **THE THREE SILENCES STAND:** the thrum drops out with the heartbeat at the Murmur, the Final Room, and the Epilogue's last beat. When the heartbeat stops, the spiral stops. The rest between spirals is the deepest rest.
+- **THE MATH IS ALREADY HOME:** Fibonacci is the Geode Cave's Keeper (canon). The heartbeat's spiral is the same spiral as Newgrange's triple spiral, the triskele tokens, the descending key of the Staircase unwound. The Inn's oldest shape, made a pulse — the spiral at rest.
+
+**JSON wiring:** the heartbeat constant gains a `structure` field: `"spiral-thrum"` (the Lateralus law: 9-8-7 cycle resolving to 24, expansion felt in flow states). One file, both systems — the Sync Law holds.
+
+*(The teacher list does its work: the band that taught the fusion doctrine now shapes the pulse it fuses everything to. The heartbeat was always Tool's — tonight it learned the spiral.)*
