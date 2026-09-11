@@ -201,3 +201,17 @@ Class: CHAR/ENV masters  Zone home: Main Floor (D13  O1, O2, O3)  Product home: 
 | THE STORYTELLER'S DESK (PROP master) | the Gazette's desk: quill, pipe smoke, tomorrow's strip waiting | https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/ee58b86bd_generated_image.png |
 
 Class: CHAR/ENV/PROP masters  Zone home: Main Floor (D13  O5, O6, O8 + the Host at the door)  Product home: the web beta's front-door rooms  Source: original generation (the Steady Light Law held; the celebrity softening law held throughout). THE STORYTELLER'S SEAT, ANSWERED: the Firekeeper sits at THE STORYTELLER'S CORNER  the permanent corner at the Firekeeper's Hearth (Option 6), the one chair that belongs to the Firekeeper alone (the Bard's instrument is the crowd; the corner is the tale's). The chair faces the semicircle of equal seats; the peach moonstone sits on the side table; the Storyteller's Desk holds the Gazette hours. QUEUE #2 IS CLOSED. Next: queue #3  the world-map family's showcase panels (the Kells scriptorium, the aurora, the lithophones, the owl).
+
+**THE WORLD-MAP FAMILY'S SHOWCASE PANELS (2026-09-11, sixth paint  the credit-burn run, queue #3 complete):**
+| Panel | Subject | URL |
+|-------|---------|-----|
+| THE KELLS SCRIPTORIUM (wide) | the Bard's bench: the horn cups of pigment, the steady candles, the masterpiece in progress | https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/c15f87d2c_generated_image.png |
+| THE KELLS PAGE (showcase) | the illuminated interlace: iron-gall black, gold leaf, the one corner left unfinished on purpose | https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/6b37f79fa_generated_image.png |
+| THE TRANSYLVANIAN FOREST (wide) | Friedrich's mist: the sublime stillness, the far amber window, the keeping-itself place | https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/e589bed65_generated_image.png |
+| THE OWL (showcase portrait) | the barn owl on the standing stone: the watcher, full presence, the eyes meeting yours | https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/4411b5caa_generated_image.png |
+| THE AURORA CHAMBER (wide) | the aurora you can walk inside: ribbons of gentle light, the standing stones, the tide pools | https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/ceabc71ee_generated_image.png |
+| THE RUNES AS GUESTBOOK (showcase) | the carved boulder: every mark kept patiently, new and weathered together | https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/82c9fcd22_generated_image.png |
+| THE LITHOPHONE STONES (wide) | the instrument zone: soft golden ring-waves, the mallet, the worn striking patches | https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/0d88603df_generated_image.png |
+| THE VALHALLA DOOR (showcase) | rendered unopened: the keeping is the seeing, the honored lantern | https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/533464192_generated_image.png |
+
+Class: ZONE/ENV showcase masters  Zone home: Celtic Highlands/Book of Kells, Transylvanian Forest, Norse Coast, Stone Circles (the world-map family, all four)  Product home: the web beta's world map + the four zones' hub screens  Source: original generation (Insular-manuscript tradition honored as style reference only; Friedrich and Munch as atmosphere teachers; the Steady Light Law held: every aurora a slow sine, every glow amber-soft; the moonlight kept gentle). QUEUE #3 COMPLETE. Next: queue #4  the craft row (the Glassblower's shop + the Color Works' dye plots).
