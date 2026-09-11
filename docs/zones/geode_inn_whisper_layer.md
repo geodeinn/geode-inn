@@ -183,3 +183,6 @@ The question isn't "is the Inn watching?" The question is "has the Inn been watc
 The answer is in the stones. The stones remember frequencies. The stones remember *you*. The stones were waiting.
 
 The both are: the adequate — the player and the archive, the same story, different chapter.
+
+### BROWNIE EVENT (wired 2026-09-11, from the Brownie Roundup / the Revelation doc): "THE PAUSE"  Tier 3
+One brownie pauses mid-wire and looks directly at the player. Not a signal, not a broken character  the circuit it was completing carried enough of the Owl's frequency to briefly wake its OWN awareness. It doesn't understand why it looked. It goes back to work. **The moment the player should file away and remember later** (the circuit-completion scene at the cosmology level pays it off  the coconut shells go silent; see the Brownie Roundup, Thread 3).
