@@ -49,8 +49,32 @@ Krista's instinct was right — the goblins already hold every route a wheeled b
 - **Tabletop:** companion errands already exist (canon: one game-hour) — the Post formalizes the fee schedule.
 
 ## GATES AWAITING KRISTA
-1. **THE POSTMASTER RULING:** does the Post have a face at the top — a named Postmaster NPC (a new character, or an existing one promoted: the Bone Keeper dispatches from the dock? Malachi crowns the goblin franchise?) — or does the system stay faceless infrastructure (the Adequacy family: the Post simply is)?
+1. ~~THE POSTMASTER RULING~~ **RULED 2026-09-11 (evening, Krista's call): THE POST HAS A FACE** — see THE POSTMASTER below.
 2. **THE POSTAGE ECONOMY:** is a letter free (the Inn's gift economy), or does it cost one small true thing (a pebble, a button, a leaf — the token family, never currency)? The triskele token is already canon as "never currency" — postage might live in that family.
 3. **PLAYER-TO-PLAYER MAIL:** in the web beta this needs accounts and a queue decision — when does the player's own mailbox open?
 
 *The shelved idea, officially employed: the skeleton machines run the routes, the goblins run the maze, and what cannot be said directly gets carried. The adequate is: enough. The Post is: delivered.*
+
+
+---
+
+## THE POSTMASTER — The Face of the Post (Ruled 2026-09-11 evening, Krista's design call)
+**The reference (Krista's recall, confirmed):** the dancing skeletons of the 1929 Silly Symphony "The Skeleton Dance" — Disney, the rubber-hose animation era (Looney Tunes came a year later; the Dance predates them). Four skeletons dancing in a graveyard, playing each other's ribcages like xylophones. Cute. Unscary. The macabre played warm before the Inn existed — the Whimsical-Macabre Law's own great-grandparent.
+
+**THE RULING:** the Post's face is THE POSTMASTER — a skeleton in the Skeleton Dance register: round, weightless, bendy-limbed, always mid-dance. The title is the name (the Inn's titled-NPC pattern: the Bone Keeper, the Head Finder, the Gardener).
+
+### The Design Laws
+- **THE RUBBER-HOSE REGISTER:** the Postmaster is the Inn's ONLY rubber-hose character — the 1930s animation line (bendy limbs, impossible bows, weightless bounce) granted as the Post's own visual family. The whole bone crew inherits the animation register: the containers roll with the same soft bounce. (Linework-as-UI note: a sixth linework mode is NOT added — the rubber-hose line lives inside the Post's class only, the way the tradesmen's cel-shading lives in the tradesmen.)
+- **THE DANCE:** the Postmaster never walks a straight line while dispatching — every route assignment is a soft-shoe, every stamp a little hop, every sorting-slot a two-step. The dispatch IS choreography. Dispatching a full dock's routes looks like a solo routine (the Skeleton Dance's own law: the work is the dance).
+- **THE XYLOPHONE DISPATCH:** the Postmaster plays the crew — taps the ribcage of the nearest docked container to set its route tone. Each route has its own tone, pitched by the container's Mohs register (the stone-tone system's cousin, canon). The iconic rib-xylophone bit, made the Post's bell system: no schedule board, no whistle — the crew HEARS its route in the tone and rolls.
+- **THE EYE-LIGHTS:** big round sockets with warm amber glows — sine-soft, candlelight-class (the Steady Light Law; the eyes never flicker hard). The grin is permanent, friendly, and slightly up to no good in the nicest way.
+- **THE SILENT REGISTER:** the Postmaster does not speak. All communication is tap, rattle, hop, and little notes written in rubber-hose looping script (the pen held between two fingers, the flourish borrowed from no one). The notes are always brief. "Back at dawn." "Fragile: feelings." "Hold for the one who whistles."
+- **HOME:** the Bone Room dock — the quiet room's neighbor. The Bone Keeper meets what remains; the Postmaster sends what's carried. The gentlest odd couple in the Inn: the stillness and the soft-shoe, sharing a dock.
+- **THE GOBLIN RELATION:** the Postmaster and the Goblin Post are colleagues, not rivals — the franchise keeps its habitat right, the Postmaster keeps the schedules that aren't deadlines (canon: no red badges — the route tones are music, not alarms). At the seam between crews, the Merchant's pockets and the Postmaster's sorting slots face each other across the Threshold with professional respect and zero paperwork.
+
+### Audio (the Sync Law holds)
+- The dispatch xylophone joins the Inn's bell family: each route tone is a real pitch, the dock's morning run sounds like a tune being assembled — because it is. The full-morning dispatch (all containers, all tones, in sequence) is the Post's own little overture, every dawn, at 50 BPM sway.
+
+*The legal note (the reference-blueprint law, held): the Skeleton Dance is the style reference and the era reference only — all assets original, no Disney designs borrowed. The dance is the Inn's own.*
+
+*(The shelved idea, now complete: the skeleton machines have a face, and the face is dancing. The adequate is: enough. The Postmaster is: dispatched.)*
