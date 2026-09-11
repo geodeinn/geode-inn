@@ -146,6 +146,7 @@ The five emblems of alchemy as the Staircase's flight markers, each in its Matis
 Class: EMBLEM · Zone home: The Staircase (one per flight, Nigredo at the bottom, the Stone at the top) · Product home: Geode Inn web beta + the Turning chain · Source: original generation (Matisse style reference only, per the legal basis on every build sheet) · Paired with the Turning track's five flights (the emblem IS the key change made visible).
 
 ### THE PRISM PANELS  FIRST PAINT (2026-09-11, the icon room begins)
+**THE HENSON LAW (ruled by Krista, 2026-09-11: the wide is "totally the Dark Crystal's cousin"  and the cousin-hood is REAL):** the Prism's visual register keeps the Henson/Froud warmth  the crystal as creature-adjacent, ALIVE, the crystal the world is built around (Thra's cousin in quartz). The Dark Crystal is already Inn family (Grit's source worn openly; Aughra beside Naut as the spiral-readers), so the wide's resonance is not accident  it's the room acknowledging its kin. ALL FUTURE PRISM RENDERINGS hold this register: mineral weight, yes, but the warmth of a made thing  Henson craft-cosmos, never cold Kubrick alone (Kubrick holds the geometry; Henson holds the soul).
 | Panel | Subject | URL |
 |-------|---------|-----|
 | Prism establishing wide (the icon panel) | the chapel-sized crystal, the Inn built around it, no-outline mode | https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/ef038d7f6_generated_image.png |
