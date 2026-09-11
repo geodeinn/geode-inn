@@ -49,6 +49,7 @@
 - **Canonical names are law:** Ragana (the Crone), Brim, The Collector (Joe, the Exile, the Miniaturist), Lozen (River), Katija (only when Vaulknut addresses the siren), Luna = Taaffeite (secret identity, never named at roll call).
 - **Standing portrait rules:** soften celebrity faces (posture/costume carries presence) except Anthony Hopkins' eyes; raven-feather cape permanent on the Unseelie Queen.
 - **Gaps (updated 2026-09-10, Krista's ruling):** ERIK CLOSED — not a friend-name placeholder at all; Erik is a full NPC (Earl Ragnar casting, the warm Norse ship-builder of the Canopy City feast hall; the fire survivor; the mead stall that opens at dusk; docs/geode_inn_erik_earl_ragnar.md). EVAN CLOSED — already placed in-game as the Archivist (the chess wizard of the Camelot/Celtic zone; real person keeps 'Evan' in real-world contexts only). STILL PENDING: TJ (parental gate — Jay AND Bethany), Maddi (flagged for Krista's personal-canon input), Quire, Scarlett + the unnamed critter groups.
+- **QUIRE CLOSED (Krista, 2026-09-10):** not a placeholder — a full NPC in the Architecture Blueprint (Archive | Lovecraftian scholar). QUIRE is the former 'John Myers' NPC: when the real friend John's slot was reserved as the player FOLIO, the NPC kept a life of his own under a new name — Quire, the scholar who reads in the margins of the restricted Archive texts. Hushed, careful, always looking over his shoulder; never Lozen (different character, standing anti-collision note). Portrait/voice block may still be owed as art, but the character is not a gap — he's canon.
 - **GREG CLOSED (Krista, 2026-09-10):** Luna's husband (Luna the zen jeweler of the Campgrounds shop — real person Dani's in-game name; the bead workshop is hers). Greg is a RESERVED PLAYER SLOT (the FOLIO precedent): he creates his own character in-game if and when he wants to — no NPC built for him, no placeholder design. Possible future ARTISAN in the storefront (the Artisan entity / MarketItem path exists and waits), but that's future, not build queue. Nothing owed on Greg except patience.
 
 ## 5. GAMES — sprite coverage (the production line)
@@ -89,7 +90,7 @@ Loop proofs: ceiling gnome hammering, hearth fire (PIL-sliced from sheets).
 4. OWED — Gazette display page on web beta + daily generation workflow
 5. OWED — Tri-mode completion for remaining cultural zones
 6. OWED — Game sprite production across the shop (79 games, ranked by build-sheet tier)
-7. OWED — Final character list from Krista → close portrait gaps (TJ, Maddi, Quire, Scarlett + critter groups — ERIK, EVAN, and GREG closed 2026-09-10: Erik a full NPC all along, Evan already the Archivist, Greg a reserved player slot — Luna's husband, his character is his to make)
+7. OWED — Final character list from Krista → close portrait gaps (TJ, Maddi, Scarlett + critter groups — ERIK, EVAN, GREG, and QUIRE closed 2026-09-10: Erik a full NPC all along, Evan already the Archivist, Greg a reserved player slot, Quire a full NPC — the former John Myers, now his own character with the friend's slot reserved as FOLIO)
 8. OWED — Tier 4 marketing/event visuals (launch materials, store pages)
 
 ---
