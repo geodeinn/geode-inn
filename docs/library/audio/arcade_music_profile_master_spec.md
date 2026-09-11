@@ -134,3 +134,98 @@ The mechanic the Music Room was always pointing at, now stated:
 ---
 
 *The composers waited two centuries to be heard again. They can wait for the composer's next session — but not longer than that. The fragment most worth catching is the one someone almost forgot.*
+
+---
+
+# THE TREATMENT LAYER — Which Analyzed Method Builds Each Game
+## Krista's Ruling (2026-09-11 evening): audio stays in sync with all other aspects — the single most important layer of the world
+**THE SYNC LAW (canon, this night):** audio is the master layer. Every other discipline — art, narrative, mechanics — ships in sync with the audio spec, and any change that touches sound changes in the canonical JSON FIRST, then propagates outward. The audio data structure is the production master clock. If it doesn't pass the ear, it doesn't ship.
+
+The composer now gets not just WHAT each game sounds like, but WHICH analyzed method builds it. One PRIMARY teacher per game (the fusion doctrine still holds: the heartbeat under everything is Tool's foundation, the tri-mode cut is Tool's tectonic — those two run under ALL 83; the primary teacher below is the game's own build method).
+
+| Game | Built With (primary) | Why |
+|------|---------------------|-----|
+| Standing Stones | TOOL | The grid IS the math — geometric placement as composition |
+| Andean Run | TRENT | The run sediments — terrain layers accumulate with the quena |
+| Bastet's Herding | ELFMAN | The sistrum hook; feline carnival, mischief scored |
+| Bayou Reclamation | DEPECHE MODE | Soul electronics in the delta murk |
+| Cave Painter's Quiz | TRENT | Hand-clap echoes layer like pigment on stone |
+| Clockwork Skies | TOOL | The mechanism IS the rhythm IS the math (the zone flagship) |
+| Colorado Plateau | TRENT | Geological strata as sediment layers |
+| Dragon Tiles | ELFMAN | The placement hook — one chime that carries the game |
+| Dragon's Descent | 30STM | The descent builds cathedral pressure as you fall |
+| Egyptian Gates | ELFMAN | The fanfare hook — ancient grandeur in one phrase |
+| Fjord of Stars | DEPECHE MODE | Cold longing, baritone under the aurora |
+| Frog Transformation | ELFMAN | The waltz-macabre — comedy with full dignity |
+| Ghats of Kali | TOOL | The devotional drone — math as mysticism |
+| Inca Terrace Lullaby | DEPECHE MODE | Longing at night-law tempo — the quiet register |
+| Mediterranean Trade | SERJ | Each port mutates the theme — the trade route as genre shift |
+| Mohs Vibration | TOOL | The purest Tool law in the building: the system IS the music |
+| Moji Maker | SERJ | Creation mutates — every pop a small genre shift |
+| Monster of the Deep | 30STM | Depth as cathedral scale — the monster grows, the walls expand |
+| Norse Voyage | TOOL | The crossing as the long build — one voyage, one organism |
+| Oracle's Riddles | ELFMAN | The question motif; the off-kilter modulation of prophecy |
+| Pinball | ELFMAN | Arcade bells — the carnival hook at its most honest |
+| Redwood Cathedral | 30STM | The register is literal: the cathedral IS the zone |
+| Rune Hunt | TOOL | The hunt as tectonic build (ritual instrumentation per zone targets) |
+| Sacred Scramble | ELFMAN | Tin-whistle carnival — the scramble scored |
+| Spiral Gallery Tour | TRENT | Each gallery floor layers — the spiral as sediment in ascent |
+| Terracotta Army Builder | TRENT | Each soldier a layer — the army assembles as strata |
+| The Crystal Paddle | ELFMAN | The crystal gliss hook — choral-ethereal on contact |
+| Tomb Tunnel | TOOL | The dig is the pulse; the tunnel is the long build |
+| Tumble Run | TOOL | The physics roll — rhythm IS the physics |
+| Whisper Layer Discovery | ELFMAN | The choral-ethereal is canon: the Whisper Layer's sound IS this law |
+| Alchemical Staircase | TOOL | The grind IS the beat; the ascending key is math made audible |
+| Canadian Rockies | DEPECHE MODE | The mountain's electronic hush — cold wind longing |
+| Catacomb Labyrinth | TRENT | The drone darkens with depth — sediment downward |
+| Crystal Catcher | ELFMAN | The ping hook — crystal chimes as the catch's soul |
+| Music Room Composer | THE SONG-CATCHERS | The fragments ARE the treatment — the chairs' arrangement laws |
+| Poison Garden | DEPECHE MODE | Electronic darkness — the Shadow Inn register (84Hz) |
+| Serpent Steps | TOOL | The rattle builds the tempo — danger as mathematics |
+| Temple of the Naga | ELFMAN | The bansuri hook; mesmer scored as off-kilter modulation |
+| The Apothecary's Cure | ELFMAN | The vial clink hook — the medicinal waltz |
+| The Dream Gardener | DEPECHE MODE | Liquid electronica with soul — the dream-state register |
+| The Egg Carrier | TRENT | The hatch accumulates — delicate layers, the 28-day build |
+| The Forest Defense | 30STM | The horn call builds — defense as anthem |
+| The Hook | TOOL | The grid alignment IS the Song resolving — math as the win state |
+| The Long Dark | TRENT | The dark sediments; the wolf howl is the farthest layer |
+| The Mirror's Seven | SERJ | Seven mutations of one theme — the mirrors' law |
+| The Noob Siege | ELFMAN | The playful alarm — fizzgig carnival defense |
+| The Pipe Descent | TRENT | Metallic descent layers |
+| The Reclamation | DEPECHE MODE | Reclaiming the murk — soul under the restoration |
+| The Signal | TRENT | Radio static as sediment — signals layering toward the hello |
+| Treasury Match | ELFMAN | The match chime — pitched bells carrying the win |
+| Wall Defense | TOOL | The shield-bash tectonic — the wall's shifts are earthquakes |
+| Yellowstone Geyser | SERJ | The eruption is mutation — quiet to blast, the timing IS the music |
+| Appalachian Trail | TRENT | The trail sediments — dulcimer strata underfoot |
+| Aurora Borealis | 30STM | The growth to overwhelming — the aurora as light-cathedral |
+| Aurora Falls | DEPECHE MODE | Melancholy at walking pace — the silhouette register |
+| Badlands Fossil Dig | TRENT | Digging through time's strata — the primary law |
+| Bonsai Garden | ELFMAN | The koto pluck hook; the garden's quiet modulation |
+| Canopy City Trading | SERJ | Each platform a culture — mutation by altitude |
+| Coral Reef Rescue | SERJ | The reef mutates toward vitality — color as genre |
+| Easter Island Heads | TOOL | The waddle IS the beat — deadpan mathematics |
+| Fuji Blossom | ELFMAN | The hanafuda season hooks; the nightshade winter register |
+| Himalayan Echo | TOOL | Four shapes, four voices, one organism — the quartet law |
+| Iceberg Breaker | ELFMAN | The ice chime hook — crystalline at collision |
+| Mesa Verde | TOOL | The contraption IS the composer — the chain as accumulation build |
+| Saguaro Bloom | TRENT | The seasons sediment — dry to monsoon to bloom |
+| Stone Circle Defender | TOOL | The lithophones sing their own true tones — math as music, defense as tectonic |
+| Stone Library Defender | TRENT | Hushed layers — the archive sediments in whisper |
+| Superstition Mountains | DEPECHE MODE | The lonely coyote — desert longing, the void register |
+| The Arcana | TOOL | Scored silence — the QUIET test is fusion restraint |
+| The Between | SERJ | The threshold mutations — key change at every door |
+| The Philosopher's Game | ELFMAN | The hook law in its purest form: one theme, withheld entirely |
+| The Rest | NONE — THE OUTRANKING | The one game that outranks the source list: no treatment, the heartbeat alone — silence is the piece |
+| The Thread | 30STM | The arrival builds — the cello motif to the greeting, intimate to overwhelming at the resolution |
+| Tidal Caves | DEPECHE MODE | Liquid electronics — the tide's soul |
+| Fae Kingdom MMO | THE FULL PALETTE | The courts split the source list — Seelie's golden cathedral (30STM) against Unseelie's electronic dark (Depeche Mode), with the court border as the only sanctioned crossfade |
+| Giant's Causeway | TOOL | The board IS the instrument — the player composes the level |
+| Hollow Earth RPG | TRENT | The descent sediments — orchestral depth by district |
+| Nazca Lines | TOOL | The trace IS the beat — the geoglyphs as composition |
+| Stone Forest | TRENT | Strata octaves — the descent audible, breath as the mix |
+| The World Walker | KASHMIR | THE TRAVEL-OSTINATO — the new teacher's walking piece: drone, cycle, the descending line; the roads' music found its walker the same night the register was born |
+| Victoria Falls | TOOL | The merge ladder is harmonic math — each tier a fifth |
+| Zelda-Style World | TOOL | The tri-mode tectonic flagship — the hard cut IS the build |
+
+**THE CLOSING OF THE CIRCLE:** the World Walker's assignment completes the night's work — the travel-ostinato was born from the Circa Paleo story, assigned to the World Map roads, and now the walker walks to it. The teachers teach, the methods travel, and the road carries them home.
