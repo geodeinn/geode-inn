@@ -51,3 +51,21 @@ Beyond the five canonical chambers, the world holds MORE resonance chambers  eac
 8. **THE MAYAN BALL COURT** (various): the whisper that carries the length of the court. Principle: the acoustic corridor (the spoken word that travels 200 feet, the architecture's telephone).
 
 **GATES FOR KRISTA:** (1) the site roster  which real sites make the final cut (the five canonical are fixed; the extended roster is hers to curate from the documentary library); (2) the deepest chord's reveal  what the Song actually IS when heard in full (the cosmological ruling); (3) the acoustic archaeologist NPC  a new teacher (the one who teaches the science of resonance), or the Cartographer carries it; (4) the chamber count  how many chambers total (the five canonical + how many extended).
+
+---
+
+## THE PARK OVERLAY (added 2026-09-11, Krista: "the overlay with park exploration is almost too perfect")
+
+The parks already run on the teaching layer: the real geology IS the curriculum (the digestion/metabolism of the magma system, the sinter rings, the mineral staining). THE RESONANCE CHAMBERS ARE THE SAME CURRICULUM'S ACOUSTIC FLOOR: the parks' real geology doesn't just teach mineralogy  it teaches ACOUSTICS, because the parks' own stone formations ARE resonance chambers. One exploration, two sciences: the geology you can see, the acoustics you can hear. The parks law deepens by one sense.
+
+**THE PARK CHAMBERS (each park's own resonance, geology-made):**
+
+| Park | The Chamber | The Real Geology Teaching It | The Acoustic Principle |
+| :--- | :--- | :--- | :--- |
+| **Colorado Plateau** | THE HOODOO AMPHITHEATER (already canon  the draconians' self-portrait gallery) | The finished works, the amphitheaters' morning show | The amphitheater as bowl: the gallery whispers at dusk (already canon  the Whisper Layer's wind-through-arches)  the hoodoo amphitheater is a RESONANCE CHAMBER NATURE BUILT, and the draconians tuned it |
+| **Yellowstone** | THE GEYSER CHAMBER (the pool that sings before it erupts) | The digestion/metabolism of the magma system | Water as the resonator: the pool's throat hums before the eruption (the real precursor  geysers "growl" before they blow; the chamber teaches listening to the earth's schedule) |
+| **Superstition Mountains** | THE THUNDERBIRD CHAMBER (the storm's echo room) | The gap-key chain, the void | The canyon that answers thunder: the acoustic shadow of the storm (the thunderbirds' warning system is ACOUSTIC  the stir is heard before it's seen) |
+| **Rockies** | THE AMMOLITE CHAMBER (the fossil that sings) | Ammolite, the opalized fossil  the Rockies' hidden stone (already canon) | The chamber lined with the fossil: the opalized shell's resonance (the ancient sea's tone, kept in stone  the Rockies' gossip IS the echo, the chamber proves it) |
+| **Mount Shasta** | THE 84HZ WINDOW (already the deepest canon  the Annunaki's hiding frequency) | The tuned crystals, the cloud cap | The chamber that swallows sound: the frequency where seeing stops (the resonance IS the hiding  the Annunaki's chamber, the one the hippies sense and the sensers misname) |
+
+**THE OVERLAY'S LAW:** the park quest chains and the resonance chamber hunt are THE SAME EXPLORATION, layered: the player walking the Colorado Plateau's thought-key chain walks through the hoodoo amphitheater and, if the ear is open, finds the chamber. No second map, no separate quest  the curriculum doubles. The parks' teaching layer (the science is the lesson, the story is the delivery) now carries TWO lessons in one walk: what the stone is made of, and what the stone sounds like. The Inn's deepest design law, held true in the wild: ONE BUILDING, MANY DOORS.
