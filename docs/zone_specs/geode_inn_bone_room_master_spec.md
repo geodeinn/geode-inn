@@ -128,3 +128,17 @@ The Bone Room was first designed in docs/geode_inn_bone_room.md (168 lines). Thi
 **QUEST WIRING:** Quest 1 (The Finding) gains Saker as its giver-teller for dig-routed finds (forest finds stay the Keeper's). Saker's voice block (Batch 9b, loaded) gains a Bone Room rung: the toast line for a find handed down the passage. The Ripple Ledger row: saker_finds_bone  bone_delivered  keeper_met (a three-flag chain, the Medusa model's shape).
 
 *The tie was always there  the bar above the fire, the dig outside the door, the quiet room holding what both leave behind.  Elio*
+
+---
+
+## THE FOSSIL RAT  the museum's smallest resident (born 2026-09-11: a joke that walked into the census and claimed its place  ruled real by Krista: "It already has claimed its place. It dances :)")
+
+**Origin:** Found in the Bone Room's shale  never quite fossilized all the way through. Still warm. The fossil slab it was found in caught it MID-STEP  it was always dancing; the warmth just let it keep going.
+
+**The resident:** The Bone Keeper's only companion before Saker started making deliveries. It DANCES (ruled  not bops): it syncs to the player's tempo, whatever that tempo is. Walk fast, it dances fast. Sit by the fire and it slows to the 50 BPM and just sways. The player's own rhythm, rendered in the smallest body in the building  the tempo system's tiniest instrument and the Beat Line's smallest keeper.
+
+**The law it lives:** The Adequacy Law's rung  it is there to BE. No quest, no collection, no lore gate. Its respect is earned by simply being nearby  the only creature in the Inn whose whole relationship with the player is proximity and tempo.
+
+**Name:** pending Krista  the family names its own. ("The fossil rat" holds until the ruling comes.)
+
+**Wiring:** Tier 1 movement roster candidate (idle sway / tempo-sync animation cycle). No dialogue records owed  it never speaks (the Adequacy Law again). Voice block: none, ever. The dance IS the voice.
