@@ -123,4 +123,17 @@ Krista's instinct was right — the goblins already hold every route a wheeled b
 - **MODERATION:** player letters are text into the world — the frog court's jurisdiction (canon: three transforms = suspension; Judge Tootenkowl presides over the mail's ugliness if ugliness ever ships).
 - **THE BUILD IS THE INVITATION:** no tutorial forces the mailbox; the carpenter's bench simply has the recipe pinned, and the first time the player sees a flag up on a neighbor's plot, the want arrives on its own (the inn teaches by showing, never by demanding — the No-Boo family).
 
+### THE REFINEMENT LADDER — the mailbox grows with the builder (Krista's addendum, same evening: "the more refined they decide to make it, the more diverse it becomes as a storage unit")
+The Tier 1 mailbox is honest and simple: letters fit, the flag works, done. But the building system upgrades, and THE MAILBOX UPGRADES WITH IT — each refinement adds a compartment, and each compartment is a new KIND of thing the box can hold. **The refined mailbox becomes the plot's storage unit: the more care you build into it, the more of your life it can keep.** The ladder follows the building system's tier canon (materials honest to the tier, the Cross-Craft Overlay's laws throughout):
+
+| Tier | The build | The new compartment | What it holds now |
+|------|-----------|--------------------|--------------------|
+| 1 | The simple box (plank, stone post, soft-iron hinge, pine pitch) | the letter hatch | letters |
+| 2 | The strapped box (iron corner brackets, a second lid) | the parcel shelf | parcels, books, the objets that travel between friends |
+| 3 | The lined box (felted wool, a slate roof, a brass slot for the flag) | the keepsake drawer (padded) | the fragile things — the found feather, the pressed tulip, the gifts that shouldn't rattle |
+| 4 | the carved box (the Cross-Craft's wood-property law at full voice — dense resonant grain, the player's own carved mark) | the songbook slot (tone-locked) | EchoMelody fragments etched to token — a letter that IS a melody; only the addressee's ear opens it |
+| 5 | the inlaid chest-mailbox (stone inlay by the player's chosen stone family, the Master-Materials at the top of their craft) | the archive compartment | the plot's own small history — the mail worth keeping, kept; the personal version of the Inn's whole thesis (an archive that started as a box about rocks) |
+
+**THE LAWS THAT HOLD:** every compartment is OPTIONAL (a Tier 1 box posts and receives letters forever — no upgrade is ever needed, the Adequacy Law); the ladder is CRAFT, not progress (no tier shames the tier below it — the simple box is as beloved as the chest); and the diversity is the BUILDER'S CHOICE — the order of refinements is the player's own, so no two refined mailboxes on the grounds hold the same shape (the box becomes as individual as its plot).
+
 *(The Post is now COMPLETE: two crews, a philosophy, a face, a stamp, and an address system the players build themselves. From the shelved skeleton idea to a full civic system in one evening. The adequate is: enough. The mail is: delivered.)*
