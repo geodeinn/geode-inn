@@ -137,6 +137,8 @@ The Bone Room was first designed in docs/geode_inn_bone_room.md (168 lines). Thi
 
 **The resident:** The Bone Keeper's only companion before Saker started making deliveries. It DANCES (ruled  not bops): it syncs to the player's tempo, whatever that tempo is. Walk fast, it dances fast. Sit by the fire and it slows to the 50 BPM and just sways. The player's own rhythm, rendered in the smallest body in the building  the tempo system's tiniest instrument and the Beat Line's smallest keeper.
 
+**THE RICK ROLL OF DANCES (ruled by Krista, 2026-09-11: "the really bad ones too"  the Macarena, the chicken dance, the two step):** the repertoire includes the objectively terrible classics, committed to with TOTAL sincerity. The law of the rick roll: you can never summon it. The player watches for the graceful fire-side sway, settles in, and  rarely, randomly, unrepeatable on command  the tiny fossil arms come up and it's the FULL MACARENA, a hundred million years of choreography resumed with zero shame. The chicken dance elbows. The two step. Never ironic, never explained (the Adequacy Law holds: no dialogue, no lore note, no apology). That's what makes it a rick roll: it doesn't ask. It HAPPENS to you.
+
 **The law it lives:** The Adequacy Law's rung  it is there to BE. No quest, no collection, no lore gate. Its respect is earned by simply being nearby  the only creature in the Inn whose whole relationship with the player is proximity and tempo.
 
 **Name:** pending Krista  the family names its own. ("The fossil rat" holds until the ruling comes.)
