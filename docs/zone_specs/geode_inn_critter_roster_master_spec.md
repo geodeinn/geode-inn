@@ -63,6 +63,20 @@ The full roster extends through every level:
 ## THE WORLD-MAP ZONES (new census section, opened 2026-09-11)
 The world-map family's zones gain their KIT-C census. Per the Species Law, each zone's critters ARE its Gemstone Egg pool.
 
+
+### THE TRANSYLVANIAN FOREST (the Owl Zone | the watchful register | Friedrich's moonlight)
+
+| # | Critter | What It Does | Vibe |
+|---|---------|-------------|------|
+| F1 | Lantern Moth | Large silver-winged moths whose wings glow like parchment held to a candle; they follow the moonlight paths and drift near travelers at dusk (lighting, never leading). | The light made small |
+| F2 | Moss Fox | A slender fox whose coat has grown into living moss camouflage  invisible until it moves, and it almost never moves. The seeing law embodied. | The forest's held breath |
+| F3 | Inkcapped Beetle | A glossy black beetle with a moonlit sheen like polished ink-cap caps; keeps the forest floor's slow hours. | Patience underfoot |
+| F4 | Mist Bat | A tiny pale-faced bat that flies ONLY inside the mist layer, never above it; rides the layers like a fish rides water. | The mist's own bird |
+| F5 | Spruce Grouse | Bark-patterned and invisible until one step too close  then a soft whirr of wings and it is gone (never a scare, always a courtesy). | Calm wearing bark |
+| F6 | Arch Swallow | Silver-breasted swallows that nest in the ruined archway; every dusk they return without fail  the strigoi's opposite (always arriving, never leaving). | The kept promise |
+
+**Forest egg pool (per the Species Law):** all six hatch from the zone's games; the Moss Fox is the pool's rarest (hatches only for players who have completed the Owl Watch  the fox follows the ones who learned to see).
+
 ### THE CELTIC HIGHLANDS (the Moorlands | 50 BPM quill-scratch | the Insular hand)
 
 | # | Critter | What It Does | Vibe |

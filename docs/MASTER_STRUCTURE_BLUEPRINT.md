@@ -155,7 +155,7 @@ This is how the Fae interior catch-up already ran (five parcels, same kit shape 
 | Zone | Spec | Chain | Art status |
 |------|------|-------|-----------|
 | The Celtic Highlands + the Book of Kells (the Moorlands) | done (TONIGHT) | the Missing Folio (gates) | CAUGHT UP (full KIT-Z + KIT-C closed 2026-09-11 night session: wide, shadow, in-between, scriptorium + bench views, props, ENV, the six-critter census; the Bard's class portrait stands from the Main Floor census per the REC law) |
-| The Transylvanian Forest | done (TONIGHT) | the Owl Watch (gates; Friedrich gate) | IN PROGRESS (wide done 2026-09-11; kit fills + frequency pairs owed) |
+| The Transylvanian Forest | done (TONIGHT) | the Owl Watch (gates; Friedrich gate) | CAUGHT UP (full KIT-Z + KIT-C closed 2026-09-11 night session: wide, shadow, in-between, the ruined arch + the Owl's Perch views, props, ENV, the six-critter census; the Owl's class portrait stands from the character census; ONE NAMED REMAINDER: the strigoi's portrait) |
 | The Norse Coast | done (TONIGHT) | the knarr run, the aurora (gates) | IN PROGRESS (showcase wide done 2026-09-11; the aurora's deeper panels owed) |
 | The Stone Circles | done (TONIGHT) | the Lithophone (gates) | IN PROGRESS (wide done 2026-09-11; the instrument panels owed) |
 | The Aegean Light + the Greek border | done | the Mirror of the Sun + the Bearsark arc (TONIGHT) | KIT-N OWED  the Bearsark's two-linework portrait is a model sheet |
