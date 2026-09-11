@@ -19,7 +19,7 @@ These are volunteer NPCs — real people from Krista's life who asked to be in t
 | The Archivist | The Chess Wizard | Camelot/Celtic | A wizard whose magic IS chess. Built the giant chess board as a child. The Inn's tabletop questline voice IS The Archivist's natural speaking voice. The Archivist is the dungeon master. Notices the Whisper Layer because The Archivist watches everything. |
 | Rachel Kaiser | The Muralist | Main Floor/Archive | Studio artist, ceramic tilemaker. Paints the Inn's murals. Stardew Valley connection. |
 | Oceanianoir | The Living Chemical Equation | Staircase | Periodic-table-tattooed scientist, Mensa puzzle designer, goth atheist, burlesque performer, reptile enthusiast. The charm catalog (tattoos = charms). Will balances the equation. |
-| Joe | The Miniaturist | Undercity | Miniature painter. Paints the chess pieces, the game sprites, the tiny models. The Inn's visual craftsperson. |
+| Joe | The Complicated One | Undercity / Catacombs / Main Floor | ONE JOE, four trades (resolved 2026-09-11, Krista: 'they are all the same Joe, no doubt. He is... complicated'): the greasy spoon's keeper (the tab that never comes due), the Collector ('Delightful.'), the Miniaturist (paints the chess pieces, the game sprites, the tiny models), and #437 the stone golem (the silent carrier of the stone archive). The Inn's only resident the archive itself miscounted. |
 
 ---
 
@@ -66,7 +66,9 @@ The chess board is the Round Table's other face — the table as a game, not jus
 | The Whisper Layer | The Archivist is the one who notices the Inn is watching — because The Archivist watches everything. |
 | The Charm Bracelet | Oceanianoir's tattoos = charm designs. Will's verification = charm quality. |
 | The Master Character Roster | These NPCs join the 399-entry roster. |
-| Joe (the Miniaturist) | Paints chess pieces, game sprites, tiny models. The visual craftsperson. |
+| Joe (The Complicated One) | Four trades, one fellow: the spoon-keeper, the Collector, the Miniaturist, the golem. Nobody explains Joe. |
+| Joe's wife | RESERVED  awaiting name + design (the family's to give; waiting patiently at Joe's table) |
+| Joe's son | RESERVED  awaiting name + design (the family's to give; waiting patiently at Joe's table) |
 
 ---
 
@@ -76,7 +78,9 @@ The chess board is the Round Table's other face — the table as a game, not jus
 - [x] The Archivist fully designed (the Chess Wizard, questline voice, chess board, Dresden questline)
 - [x] Rachel Kaiser designed (the Muralist)
 - [x] Oceanianoir designed (the Living Chemical Equation)
-- [x] Joe designed (the Miniaturist)
+- [x] Joe designed (the Miniaturist)  [RESOLVED 2026-09-11: all four Joe entries are ONE JOE (the spoon-keeper, the Collector, the Miniaturist, golem #437)  'He is... complicated']
+- [ ] Joe's wife: reserved slot, awaiting name + design
+- [ ] Joe's son: reserved slot, awaiting name + design
 - [x] Key relationships documented (5 pairs)
 - [x] The Archivist's chess board mechanic designed
 - [x] 8 connections documented

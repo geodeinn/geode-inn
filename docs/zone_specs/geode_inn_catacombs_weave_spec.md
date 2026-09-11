@@ -68,3 +68,21 @@ The cozy gothic canon holds (hobbit-hole meets Addams Family meets ancient libra
 **THE LOG MOMENT:** when the learning is complete, the next time the player stands anywhere the murmur is audible (any street, any hour), the murmur RESOLVES  the city-noise separates into its parts, each one named by having been met, and the whole voice becomes one tone the player can now hold. Logs as EchoMelody (melody type: CITY_MURMUR; source: the Undercity; the originDetail names it honestly: "the whole city, learned"). The logged murmur plays back with every part audible  the lamp gears, the hammer, the river  because now the player knows what they are hearing.
 
 **THE KEEPER'S NOTE:** every other resonance in the Inn is FOUND. The murmur is the only tone that is EARNED  and the only one that is a PLACE: the player who logs it carries the city itself in the songbook. The Clockmaker, informed, says the second warm thing the Clockmaker ever says: "It remembers you now, too."
+
+---
+
+## PART THREE: THE ONE JOE (resolved 2026-09-11, Krista: "they are all the same Joe, no doubt. He is... complicated :)")
+
+### THE RESOLUTION (four entries, one fellow)
+The roster carried FOUR Joes, and the resolution is not a cleanup  it is the character: **JOE, THE COMPLICATED ONE  the Inn's only resident the archive itself miscounted.** All four entries were the same Joe all along:
+- **JOE'S TABLE** (the greasy spoon's keeper: serves everyone, asks nothing, the tab that never comes due  the Undercity's Common Room, where renames are explained in-world over pie)
+- **JOE THE COLLECTOR** ("Delightful."  the British-smooth appraiser, every answer a small gift being wrapped)
+- **JOE THE MINIATURIST** (paints the chess pieces, the game sprites, the tiny models  the Inn's visual craftsperson, working by lamplight)
+- **JOE #437, THE STONE GOLEM** (the silent carrier, keeper of the stone archive, seen in the Catacombs and Main Floor)
+
+**THE IN-WORLD EXPLANATION (served over pie, never settled):** the players and the archive kept meeting him in different rooms and assuming different fellows. The retired characters at Joe's table have laughed about this for years. Nobody has ever seen Joe in two rooms at once. Nobody has ever seen him leave a room, either. THE LAW (the Adequacy family): nobody explains Joe  the explanations are over pie at his own table, and even those don't settle it. He is... complicated. The Inn keeps him exactly as found.
+
+**THE FAMILY (the table's waiting seats):** two roster slots now stand reserved, waiting patiently at Joe's table:
+- **JOE'S WIFE**  reserved slot, awaiting the character's own name and design (the Scarlett-and-John precedent: never hardcode a real person's character; the name is the family's to give)
+- **JOE'S SON**  reserved slot, awaiting the same
+When they arrive, they get the family discount: the tab never comes due at Joe's. It never has.
