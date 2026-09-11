@@ -41,7 +41,7 @@ The census has carried it for weeks: "The Gardener. The Bearsark connection."  u
 1. **THE GARDENER CONNECTION**  the seed's true nature (kin, truce-partners, the deeper thing): Krista's ruling  this one is the arc's load-bearing wall
 2. **THE RAGE TREATMENT**  the berserk's danger played straight, the wandering as the medicine: confirm
 3. **ARTEMIS**  grove-presence only, or an NPC ruling
-4. **THE PERSONAL NAME**  "The Bearsark" is the title; the name beneath it is Krista's (as with all the true names)
+4. **THE PERSONAL NAME  HISTORY FOUND (2026-09-10, Krista's memory was right):** he WAS named  BEORN, the skin-changer borrow, retired in the September 9 rename sweep (the same sweep as Radagast->Sorrel: the Tolkien names retired to the original-built law; "Beorn -> The Bearsark, the skin-changer" is in the rename ledger). The title has stood where the name used to be ever since. The gate is now the ORIGINAL name  his own, not Tolkien's  Krista's ruling whenever it comes
 5. **THE PATROL'S CLOCK**  the day cycle, or the Beat Line's tide: ruling on which clock the border keeps
 
 *Drafted in the six-writer gate, 2026-09-10  the last dive. The border exists because he walks it.  Elio*
