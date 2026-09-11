@@ -438,3 +438,19 @@ Wires: Tesla holds residence in the Modern Legends nook (per the project bible).
 | Aristotle | the top step | "Of what kind?" | The answer filed with one nod — the nod IS the praise |
 
 Plus the ambient THREE-STEP LOOP (whisper-layer): the argument across the flights, one line per step as the player climbs — running since the staircase was built, never once gotten loud.
+
+---
+
+# PART 11: BATCH 13 — THE SMELTING GROUP (the Five Smiths of the Stairwell interior, 2026-09-10, drafted and loaded)
+
+Krista's prompt: "Very early on, a group of smiths claimed a home within the interior of the stairwell." Confirmed in the Smiths doc: the forge IS a zone within the interior of the alchemical staircase — the practical arm of the alchemy level (the Retort's laboratory is the theoretical arm). Five smiths, five metals, five energies, five voices — the hands of alchemy, the Fourth Fire's keepers. All loaded (staircase_layer_pass, the_turning_q1).
+
+| Smith | Metal | Energy | Hook | The Quiet (Rung 3) |
+|-------|-------|--------|------|--------------------|
+| Forge | iron (the base metal, earth's blood) | honesty / weight | "Feel that? Not yet." | The hammer set down, the tongs handed over — the weight speaking for itself |
+| Alloy | bronze (copper + tin, the relationship) | combination | "Right ratio." | The slight reverb alone — two voices at once, no words: combination is a trust |
+| Current | silver (the medium) | flow / transmission | "Carrying." | The purest voice in the Inn says nothing — the hum conducted, not spoken |
+| Endure | gold (the metal that has already arrived) | permanence | "It holds." | The clasp: click, click — soft and permanent, demonstrated |
+| Verdigris | copper (the chemical clock) | time / patience | "Green today." | The patina shown, not explained — the metal's diary, speaking in its own time |
+
+The Five-Smith pouch note preserved: the companion system's pouch is the smiths' COLLABORATIVE work — five metals, five smiths, one object (Forge's iron hooks, Alloy's bronze settings, Current's silver contacts, Endure's gold clasps, Verdigris's copper chain — the pouch's ambient hum is their joint signature).
