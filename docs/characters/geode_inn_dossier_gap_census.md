@@ -168,3 +168,28 @@ Several existing master dossiers require immediate expansion or consolidation to
 
 ---
 *End of Dossier Gap Census.*
+
+---
+
+## ADDENDUM: THE RETIRED-NAME LOADS (Krista's hunch, confirmed 2026-09-11)
+
+Krista flagged it: "The Katya thing might be because of earlier name changes. We should do a search for all the original names  i know bard has a ton of data under bill barton." CONFIRMED: the census's grep-load ranking UNDERCOUNTS every renamed character, because material sits under both names. Word-boundary counts across the whole archive, retired name first, current name after the arrow:
+
+- Cthulhu: 16 files -> NAUT (the Scholar)
+- Wednesday: 11 files -> BELLADONNA
+- Eileen: 9 files -> AURALLIA
+- Aughra: 15 files -> FIBONACCI
+- John Myers: 12 files -> QUIRE (NPC) + FOLIO (player slot)
+- Evan: 10 files -> THE ARCHIVIST / HARRY
+- William R. Barton / Barton: 7-10 files -> THE BARD's real-person layer (the printmaker, the swimmer, the Kells teacher)
+- Beorn: 5 files -> THE BEARSARK (the Wandering Guard arc's origin)
+- Uhtred: 5 files -> THE WAYFARER
+- Madame Mim: 5 files -> BRIM
+- Dani: 7 files -> LUNA
+- Andra: 3 files -> KATYA (real-person layer only; the archetype data lives under the current name)
+- KATIJA: 10 files -> the Vaulknut-addressed spelling; THE THICKENING SOURCE for the Katya dossier's flagged gap (the dialogue trees exist across these files and are owed to the dossier)
+- Radagast: 4 files -> SORREL / THE GREENWARD
+- The Sentinel: 69 files -> LOZEN's old class title (class-title material, distinct from character material  counted separately, not merged)
+- Erik: 121 files -> a CURRENT name, and a genuine miss: Erik (the Earl Ragnar NPC) is a high-load character (between the Gardener at 134 and Brim at 117) absent from the census's candidate list. Added to the ranked gap candidates.
+
+RULE FOR ALL FUTURE DOSSIER BUILDS: every renamed character's dossier must pull from BOTH names  the retired name's files are not dead data, they are the character's earlier layers. The Bard's dossier already does this; the pattern is now law.
