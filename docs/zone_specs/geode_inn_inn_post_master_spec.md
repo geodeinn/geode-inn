@@ -50,7 +50,7 @@ Krista's instinct was right — the goblins already hold every route a wheeled b
 
 ## GATES AWAITING KRISTA
 1. ~~THE POSTMASTER RULING~~ **RULED 2026-09-11 (evening, Krista's call): THE POST HAS A FACE** — see THE POSTMASTER below.
-2. **THE POSTAGE ECONOMY:** is a letter free (the Inn's gift economy), or does it cost one small true thing (a pebble, a button, a leaf — the token family, never currency)? The triskele token is already canon as "never currency" — postage might live in that family.
+2. ~~THE POSTAGE ECONOMY~~ **RULED 2026-09-11 (evening, Krista's call): THE POSTAGE IS A QUICK PUZZLE** — see THE PUZZLE STAMP below.
 3. **PLAYER-TO-PLAYER MAIL:** in the web beta this needs accounts and a queue decision — when does the player's own mailbox open?
 
 *The shelved idea, officially employed: the skeleton machines run the routes, the goblins run the maze, and what cannot be said directly gets carried. The adequate is: enough. The Post is: delivered.*
@@ -78,3 +78,26 @@ Krista's instinct was right — the goblins already hold every route a wheeled b
 *The legal note (the reference-blueprint law, held): the Skeleton Dance is the style reference and the era reference only — all assets original, no Disney designs borrowed. The dance is the Inn's own.*
 
 *(The shelved idea, now complete: the skeleton machines have a face, and the face is dancing. The adequate is: enough. The Postmaster is: dispatched.)*
+
+---
+
+## THE PUZZLE STAMP — The Postage Economy (Ruled 2026-09-11 evening, Krista's call: "the post costs.. a quick puzzle")
+
+**THE RULING:** a letter's postage is a quick puzzle. Not coins, not tokens — PLAY. The Inn's economy has always been attention: the postage law joins the family (the stones are earned by playing; the mail is earned by playing; nothing in the Inn costs money or shame).
+
+**THE STAMP MECHANIC:** handing a letter to the Post (slot, dock, or pocket) opens a small puzzle — solve it and the letter is stamped and on its way. The stamp itself is the solved puzzle's shape: each puzzle type leaves its own little postmark glyph (the rotating cast of stamp-glyphs becomes collectible stationery for the player's own letters — a tiny collection, the reward is prettier mail, nothing more).
+
+**THE PUZZLE FAMILY (quick — ten to thirty seconds each, drawn from the Inn's own mechanics, the systems teaching themselves):**
+- **THE ROUTE TONE MATCH** (the Postmaster's own): listen to a route tone, tap the zone it belongs to — the xylophone dispatch made playable.
+- **THE THREE PARCELS SORT:** three parcels, three weights — order them by their rattle (the tone-pitch logic from Mohs, the ear already taught).
+- **THE ADDRESS FOLD:** a letter-sized fold puzzle — one fold, creased right, the origami family's smallest member.
+- **THE LOOPING SCRIPT READ:** decipher a two-word note in the Postmaster's rubber-hose script (the silent register made a game; the answers are always the Post's own small vocabulary: "back at dawn," "hold," "fragile: feelings").
+
+**THE LAWS THAT HOLD:**
+- **NO-FAIL LOOP (canon):** approximate is enough. A wrong answer is a gentle rattle and a re-offered puzzle — the Postmaster never sighs, the queue never judges.
+- **NO STREAKS (Anti-Skinner):** no daily puzzles, no streak bonuses, no "you've missed 3 days of mail." A letter costs one puzzle, every time, forever, nothing compounds.
+- **NO TIMER:** the puzzle waits. The Post has no overdue; the postage has no countdown.
+- **THE SKIP HONESTY:** the player who has solved a puzzle type many times may see it come up rare — variety, not difficulty (the Adequacy family: the postage never becomes a chore; it stays a small pleasure).
+- **THE FINDER'S EXEMPTION:** letters to lost things (the Finders' crossover) post free — delivery is the finding; the puzzle would be asking twice (the Lost and Found's own law, held at the seam).
+
+**THE DEEP ROUTES:** the Goblin Post honors the stamp but prices its own runs its own way (a riddle at the pocket, a button for the tube — goblin rates, goblin rules); the Bone Crew honors the stamp absolutely: no stamp, no route tone, no roll. The Two Kings' missions (Wisp's carries) need no stamp at all — the brothers' mail was posting itself before the Inn had a dock (canon: carried for eons; the oldest route in the building rides free).
