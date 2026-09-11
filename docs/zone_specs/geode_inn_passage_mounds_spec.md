@@ -59,3 +59,19 @@ E.M. Forster modeled the Marabar Caves in A PASSAGE TO INDIA on Barabar: the ech
 1. The chambers' real frequencies (the measured resonance of the polished rooms  researcher ruling, like the gargoyles' pairs).
 2. The India region's placement (wiring to "The Many Faces" chain  the tongue's grace finds its echo here).
 3. The Ajivika archive piece (does the Inn carry an Ajivika-shelf: the extinct voices the archive honors?).
+
+---
+
+## PART FIVE: THE AJIVIKA SHELF (gates resolved 2026-09-11, Krista: "yes, absolutely")
+
+The archive's shelf for the voices that left no books. Named for the Ajivikas  the sect Ashoka built the Barabar chambers for, whose entire textual tradition is lost: no canon, no sutras, no survivors. What remains of them is stone, inscription, and the boum.
+
+**THE SHELF'S LAW (the kept gap):** where every other shelf in the archive fills, THE AJIVIKA SHELF HOLDS ITS GAPS ON PURPOSE. The extant fragments sit in their places (the inscriptions, the carved words, the borrowed mentions in rivals' texts  the Ajivikas survive mostly in their opponents' footnotes, which the shelf notes with the archive's driest caption). The empty spaces are not waiting to be filled; they are the memorial. (The distinction from the Anti-Skinner law, written plainly: the commercial collection never shows empty slots to shame the gatherer; THE SACRED SHELF shows empty slots to honor the gone. The Valhalla door's law family  things honored by staying unopened  now has a shelf.)
+
+**THE SHELF'S SCOPE (the neighbors):** the Ajivikas keep company: the Maya codices burned by heat and zeal; the shelves of Alexandria; the kept-gaps of every tradition whose texts time took. The shelf holds fragments, mentions, and open space  the archive's way of saying SOMEONE WAS HERE, AND THE PAPER IS GONE, AND THE STONE REMEMBERED.
+
+**THE WIRE TO THE CHAMBERS:** the shelf's companion piece is the boum itself: the player who has visited the Barabar chambers and heard the polished resonance can play the held hum at the shelf (the echo carried out of the earth, into the archive  the only voice of the Ajivikas the Inn can still play, kept two thousand years bright).
+
+**Placement:** the Restricted Archive's neighbor nook (Quire's territory  the scholar in the margins is the natural keeper of the shelf's margins; the whisper-layer wire holds: some whispers are signed, some shelves hum).
+
+**Remaining build-time task (not a gate):** the chambers' real measured frequencies  researcher work at build (the polished rooms have not, to the Inn's knowledge, been formally measured; if the literature holds a figure it goes in wearing its source; if not, the chambers tune by ear at the build, and the spec says so honestly).
