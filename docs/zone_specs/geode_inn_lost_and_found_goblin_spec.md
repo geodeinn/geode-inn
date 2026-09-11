@@ -33,6 +33,10 @@ THE GOBLIN CREW (and their proper goblin-ing):
 
 THE COMIC LAW (named for this spec): goblins are funny because they are completely correct in a way nobody can argue with. The goblin logic loop is the Inn's oldest joke shape: impeccable reasoning, unimpeachable sincerity, wrong answer, correct somehow. (The Mensinthe family of jokes: you can't argue with it. You can only pay for the socks.)
 
+## TWO-AND-A-HALF. THE FOUNDING POPULATION (Krista's correction, 2026-09-11)
+
+The Labyrinth goblins were written in WAY BACK  under the Jareth era, before the rename to Malachi (the Unseelie King, the goblin king; Bowie/Labyrinth survives as craft/casting reference only). THE LABYRINTH GOBLINS ARE THE FOUNDING POPULATION: every goblin in the Inn descends from the crowd around the castle  the hallway crew, the Merchant's apron, the Muki's mine, the Steam Goblin's pipes, the Court's scheduled pranks. ONE FAMILY OF GOBLINS, MANY GOBLIN-INGS: the Lost and Found's Finders are the Labyrinth goblins on hallway shift. They were hanging around the labyrinth before the Inn had a main floor; the Inn grew up around them. (The goblins remember when the hallways were labyrinth. Some of the hallways still are, on their say-so.)
+
 ## THREE. THE RELATABILITY LAYER (Krista's ruling)
 
 The in-between spaces get the comic beat so that the neither-world's warmth lands as LAUGHTER, not just gentleness. Every in-between space should carry at least one goblin-kept beat:
