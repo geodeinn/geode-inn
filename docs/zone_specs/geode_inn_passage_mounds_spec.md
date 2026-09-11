@@ -38,3 +38,24 @@ Small grassy mounds  a carved kerbstone at the entrance, a short stone passage, 
 6. **THE SUN LODGE KIVA (Chaco Canyon  on the master list, #26):** the kiva with the sipapu, the small hole in the floor marking the place of emergence  the Inn's upstairs/downstairs cosmology in one small room: the hole that is a door.
 
 **GATES FOR KRISTA:** (1) the amphitheater's ruling  Ear of Dionysius, or another site she saw; (2) the lightbox schedule  does each mound get a real calendar day (solstices, equinoxes, cross-quarter days), or a rotating secret hour; (3) the spiral token's availability  found, crafted, or gifted; (4) the order of build  the Campgrounds' mound and Maeshowe first (the two ends of the family: the new signature and the oldest guestbook).
+
+---
+
+## PART FOUR: THE BARABAR CHAMBERS (Bihar, India  named and claimed 2026-09-11, Krista: "Ah... they are so perfect that the PhD folk have labeled them as man-made. They are called the Barabar Caves in Bihar, India."  resolving the "perfect resonance in five chambers beneath the earth" mystery)
+
+### The Real Site (the sources, worn openly)
+The Barabar Caves: four granite caves carved from a single hill in Bihar (Lomas Rishi, Sudama, Karan Chaupar, Vishwa Zopri), with three more in the sister Nagarjuni group nearby  Mauryan, ~250 BC, dedicated by Ashoka himself to the Ajivikas, an ascetic sect whose texts are lost (only inscriptions remain  an archive story if ever there was one: caves built for voices that left no books). THE TWO WONDERS: (1) THE MAURYAN POLISH  the interior granite surfaces polished to a mirror gleam, a technique no one can reproduce, glass-bright after two thousand years; (2) THE RESONANCE  the polished chambers hold sound the way the Hypogeum does (the Sudama cave's paired chambers, circular and rectangular, are the acoustic heart). And THE CHAITYA ARCH  the Lomas Rishi faade: the earliest surviving stone carving of a wooden building's arch, the stone building remembering being a tree.
+
+### THE MAN-MADE IS THE MIRACLE LAW (the Inn's answer to the whole genre)
+The documentary's joke is Krista's joke: SO PERFECT THAT THE PHD FOLK HAVE LABELED THEM MAN-MADE. The Inn sides with the PhD folk  and that is the miracle: HANDS DID THIS. Granite (one of the hardest stones the Inn keeps records of, Mohs 6-7) carved and polished to a mirror by people with hand tools, two thousand years ago, so well that modern eyes assume it must have been someone else. THE LAW, written for every ancient-aliens-flavored story the archive ever tells: when the hands of ancestors did something impossible, the Inn's wonder INCREASES, not decreases. The alien did it is the small story. The human did it is the vast one. (The parks law, extended from geology to craft: the science is the lesson, the story is the delivery  and here the lesson is what hands can do.)
+
+### The Chambers at the Inn (the design  the India member of the passage mound family)
+A granite hill in the India region: four chambers cut from one stone (the family's rule holds: small, explorable, honest). The interiors carry THE MAURYAN GLEAM  the one place in the Inn where stone surfaces shine like water (the visual: polished granite that reads wet; the lighting law holds: the gleam is steady, the only mirror-bright zone lighting in the building). Each chamber holds its tone.
+
+### THE BOUM (the resonance, the Forster wire  the deepest thread in the family)
+E.M. Forster modeled the Marabar Caves in A PASSAGE TO INDIA on Barabar: the echo that turns every spoken word into the same sound  "boum"  every language, every sentence, every voice becoming one tone. Forster heard it as terrifying (the equality of sound as the void). **THE INN INVERTS IT:** the chamber where every voice becomes one tone is not the void  it is the WELCOME. Every voice the same boum is the Adequacy Law made acoustic: no word worth more than another, no language louder than another, every player's voice joining the same held hum (the 42Hz Song's chamber cousin: the hum that all voices become). The whisper layer wire: spoken words in the polished chamber decay into the tone; the player who speaks hears their own voice join the building. THE KEEPER'S NOTE (the archive angle): the Ajivikas left no texts, only their caves. The boum is what remains of every voice  the Inn keeps it, polished, two thousand years bright.
+
+### Gates for Krista
+1. The chambers' real frequencies (the measured resonance of the polished rooms  researcher ruling, like the gargoyles' pairs).
+2. The India region's placement (wiring to "The Many Faces" chain  the tongue's grace finds its echo here).
+3. The Ajivika archive piece (does the Inn carry an Ajivika-shelf: the extinct voices the archive honors?).
