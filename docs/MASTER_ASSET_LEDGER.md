@@ -48,7 +48,7 @@
 - **Portrait library:** docs/gallery/characters/ — 168 files. Includes _v2/_v3 refinements, _ingame renders (11), role duality (Odin Wanderer/Allfather, Seelie King/Unseelie King), and 13 artifact images (PROP by class).
 - **Canonical names are law:** Ragana (the Crone), Brim, The Collector (Joe, the Exile, the Miniaturist), Lozen (River), Katija (only when Vaulknut addresses the siren), Luna = Taaffeite (secret identity, never named at roll call).
 - **Standing portrait rules:** soften celebrity faces (posture/costume carries presence) except Anthony Hopkins' eyes; raven-feather cape permanent on the Unseelie Queen.
-- **Gaps:** pending roster additions (TJ, Maddi, Greg, Quire, Scarlett, Erik) + unnamed critter groups await Krista's final list.
+- **Gaps (updated 2026-09-10, Krista's ruling):** ERIK CLOSED — not a friend-name placeholder at all; Erik is a full NPC (Earl Ragnar casting, the warm Norse ship-builder of the Canopy City feast hall; the fire survivor; the mead stall that opens at dusk; docs/geode_inn_erik_earl_ragnar.md). EVAN CLOSED — already placed in-game as the Archivist (the chess wizard of the Camelot/Celtic zone; real person keeps 'Evan' in real-world contexts only). STILL PENDING: TJ (parental gate — Jay AND Bethany), Maddi (flagged for Krista's personal-canon input), Greg, Quire, Scarlett + the unnamed critter groups.
 
 ## 5. GAMES — sprite coverage (the production line)
 
@@ -88,7 +88,7 @@ Loop proofs: ceiling gnome hammering, hearth fire (PIL-sliced from sheets).
 4. OWED — Gazette display page on web beta + daily generation workflow
 5. OWED — Tri-mode completion for remaining cultural zones
 6. OWED — Game sprite production across the shop (79 games, ranked by build-sheet tier)
-7. OWED — Final character list from Krista → close portrait gaps (TJ, Maddi, Greg, Quire, Scarlett, Erik + critter groups)
+7. OWED — Final character list from Krista → close portrait gaps (TJ, Maddi, Greg, Quire, Scarlett + critter groups — ERIK and EVAN closed 2026-09-10: Erik was a full NPC all along, Evan is already the Archivist)
 8. OWED — Tier 4 marketing/event visuals (launch materials, store pages)
 
 ---
