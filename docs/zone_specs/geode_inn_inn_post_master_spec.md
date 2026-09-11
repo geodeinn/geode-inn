@@ -51,7 +51,7 @@ Krista's instinct was right — the goblins already hold every route a wheeled b
 ## GATES AWAITING KRISTA
 1. ~~THE POSTMASTER RULING~~ **RULED 2026-09-11 (evening, Krista's call): THE POST HAS A FACE** — see THE POSTMASTER below.
 2. ~~THE POSTAGE ECONOMY~~ **RULED 2026-09-11 (evening, Krista's call): THE POSTAGE IS A QUICK PUZZLE** — see THE PUZZLE STAMP below.
-3. **PLAYER-TO-PLAYER MAIL:** in the web beta this needs accounts and a queue decision — when does the player's own mailbox open?
+3. ~~PLAYER-TO-PLAYER MAIL~~ **RULED 2026-09-11 (evening, Krista's ruling): THE PLAYERS BUILD THEIR OWN MAILBOXES** — see THE BUILT BOX below.
 
 *The shelved idea, officially employed: the skeleton machines run the routes, the goblins run the maze, and what cannot be said directly gets carried. The adequate is: enough. The Post is: delivered.*
 
@@ -101,3 +101,26 @@ Krista's instinct was right — the goblins already hold every route a wheeled b
 - **THE FINDER'S EXEMPTION:** letters to lost things (the Finders' crossover) post free — delivery is the finding; the puzzle would be asking twice (the Lost and Found's own law, held at the seam).
 
 **THE DEEP ROUTES:** the Goblin Post honors the stamp but prices its own runs its own way (a riddle at the pocket, a button for the tube — goblin rates, goblin rules); the Bone Crew honors the stamp absolutely: no stamp, no route tone, no roll. The Two Kings' missions (Wisp's carries) need no stamp at all — the brothers' mail was posting itself before the Inn had a dock (canon: carried for eons; the oldest route in the building rides free).
+
+
+---
+
+## THE BUILT BOX — Player-to-Player Mail (Ruled 2026-09-11 evening, Krista's ruling: "the players can build their own mailboxes")
+
+**THE RULING:** a mailbox is not given — it is BUILT. The player's mailbox is a recipe in the Don't-Starve-style building system (the Campgrounds' home craft, canon): a small, early-tier build, the kind of first project a camper makes because they want to. Mail service in the Inn is earned the same way everything is earned: by making something with your hands.
+
+**THE RECIPE (Tier 1, the carpenter's bench):** simple honest materials from the Campgrounds' own ground — a plank of the right wood (the Cross-Craft Overlay's wood-property law applies: a dense, resonant wood so the lid knocks warm), a stone for the post (the player's chosen stone, always their own), a hinge of soft iron, and one shellac of pine pitch. Nothing rare. A mailbox is a first build, not a trophy.
+
+**THE PLACEMENT:** the player's own plot in the Campgrounds (the building system's home ground). When the last nail is set, THE FLAG goes up: the little tin flag on the side, raised when mail is waiting — the flag is a bell (the "for you" knock joins the Inn's bell family; the flag's tiny up-clang is pitched to the plot's own tone, so a player can hear, from across the grounds, whether THEIR box is up).
+
+**THE ADDRESS:** the mailbox IS the address. No player strings, no account numbers — a letter is addressed to the plot's name, and the plot is named by its builder at the build (the building system's naming moment). The Post reads addresses in looping script, but it delivers to FLAGS.
+
+**HOW MAIL FLOWS BETWEEN PLAYERS:** sender writes at any slot or dock -> Puzzle Stamp -> the crews carry -> the flag goes up. The crews honor the plot: wheeled containers reach the Campgrounds road, and the last fifty feet are the Finders' shift (goblin last-mile, canon) — a letter arrives in the hand, on the porch, or tucked into the hatch with a tooth-stamp flourish, whichever the route tone says.
+
+**THE LAWS THAT HOLD:**
+- **NO RED BADGES:** the flag is up or the flag is down; there is no unread-count, no badge, no guilt. Mail is a pleasure, never an obligation (Anti-Skinner).
+- **THE COMMONS RULE:** every plot can have a mailbox; nobody NEEDS one. The player who never builds one simply never receives paper — the world withholds nothing from them (the Adequacy Law).
+- **MODERATION:** player letters are text into the world — the frog court's jurisdiction (canon: three transforms = suspension; Judge Tootenkowl presides over the mail's ugliness if ugliness ever ships).
+- **THE BUILD IS THE INVITATION:** no tutorial forces the mailbox; the carpenter's bench simply has the recipe pinned, and the first time the player sees a flag up on a neighbor's plot, the want arrives on its own (the inn teaches by showing, never by demanding — the No-Boo family).
+
+*(The Post is now COMPLETE: two crews, a philosophy, a face, a stamp, and an address system the players build themselves. From the shelved skeleton idea to a full civic system in one evening. The adequate is: enough. The mail is: delivered.)*
