@@ -10,6 +10,7 @@ Every room in the Inn needs the same base kit, plus additions for what lives in 
 **KIT-Z (any room):** 1 establishing wide in LIVING state + 1 SHADOW (84Hz) variant + 1 IN-BETWEEN state + 2-4 CYOA option views (the doors the room offers) + a PROP set (the room's objects, 3-8) + ENV fill (the room's ambient elements, 4-12).
 **KIT-N (an inhabited room):** add the NPC's portrait (tri-mode where canon) + voice block wired (records live in the engine) + CYCLE sheet if the NPC moves.
 **KIT-G (a game room):** add the game's sprite census (per the 80 build sheets; Tomb Tunnel is the pilot: 28 sprites + shadow variants).
+**KIT-C (the critter line, every zone):** add the zone's CRITTER CENSUS from the Critter Roster master spec (docs/zone_specs/geode_inn_critter_roster_master_spec.md)  one CLASS MASTER per critter species, painted per the REC LAW (paint the class once; individuals are recolors). Named-collective residents (murlocs, brownies, fizgigs, goblins, the bone crew) follow the same class-master route  check the Ledger first: the classes already painted (murloc census, brownie roundup, fizgigs, goblins, bone crew) count as DONE and are never re-painted. A zone is not caught up until its residents are painted  the room without its critters is a stage set, not a home.
 **THE REC LAW:** paint once per CLASS, recolor per individual (the Tier 1 proof). The kit counts MASTERS, not variants.
 
 
@@ -21,6 +22,7 @@ Every zone image session runs on the kit  the kit IS the session format:
 3. A session closes with one Ledger entry: the panels painted, the kit slots filled, and the remaining kit slots NAMED (so the next session inherits a checklist, not a puzzle).
 4. No zone leaves a session half-kitted silently  remaining slots are always logged in the Blueprint table and the Ledger.
 5. THE REC LAW holds inside sessions: masters first, recolors after (variants are not kit progress).
+6. THE CRITTER LINE CLOSES THE SESSION: the zone's KIT-C census is checked at every close  painted classes logged, owed classes named  no zone is called caught up with its residents unpainted.
 
 This is how the Fae interior catch-up already ran (five parcels, same kit shape each time  it worked). The canon makes every future zone session legible, comparable, and half-finished-proof. The fourteenth/fifteenth-paint problem (stale tables) is prevented by rule 4: the Blueprint row updates at every session close.
 
