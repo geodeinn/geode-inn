@@ -162,3 +162,15 @@ Class: EMBLEM · Zone home: The Staircase (one per flight, Nigredo at the bottom
 | THE PRISM  IN-BETWEEN | half-glow half-opaque, the tide-edge transition, dawn through stone | https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/0e4900255_generated_image.png |
 
 Class: ZONE/ENV masters  Zone home: The Bedrock Fortress, D16-O4/O5/O6  Product home: the web beta's deepest screens + the Prism chain  Source: original generation (Kubrick geometry / Henson soul per the HENSON LAW; Steady Light Law held: sine-soft amber glows throughout)  The Prism's tri-mode is COMPLETE (living/shadow/in-between + the two deep rooms' wides). Remaining for the Prism's full KIT-Z: option views (the four doors' CYOA angles), the PROP set (the Gatekeeper's bench, the 7.83Hz key, the eighth permanence), ENV fill.
+
+**THE PRISM'S KIT COMPLETES + THE MAIN FLOOR'S GAPS BEGIN (2026-09-11, third paint  the credit-burn run, queue #1 closing into #2):**
+| Panel | Subject | URL |
+|-------|---------|-----|
+| THE GATEKEEPER'S BENCH (PROP) | the basalt bench worn smooth by waiting, set at the respectful distance; the door opens when you stop knocking | https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/7021058be_generated_image.png |
+| THE 7.83HZ KEY (PROP  the eighth permanence) | the golden standing-wave key beneath seven small standing stones | https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/6e064f80a_generated_image.png |
+| THE ASCENT BEGINS (option view, D16-O7) | the long stair up, the descent image inverted, the way out glowing like a hearth | https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/cd0b2e0f0_generated_image.png |
+| THE FIREKEEPER (portrait, D13  queue #2 opens) | the hearth's storyteller: presence through posture, coat, and firelit hands (celebrity law held: features softened) | https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/7553ee949_generated_image.png |
+| THE WALL-BUILT BAR (ENV wide, D13) | the bar grown from masonry, the woven-bottle cradles like hanging nests | https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/ebcb8fa91_generated_image.png |
+| THE MUSIC ROOM (ENV wide, D13  with the Score Stone glowing) | instruments at rest incl. the lithophone and the stone sphere on its pedestal | https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/7212c2a3e_generated_image.png |
+
+Class: PROP/ZONE masters  Zone home: Bedrock Fortress (Prism kit) + Main Floor (D13 gaps)  Product home: the web beta (the deepest screens + the front-door rooms)  Source: original generation (Kubrick geometry / Henson soul; the Steady Light Law held; the celebrity softening law held on the Firekeeper). The Prism's KIT-Z core is COMPLETE (tri-mode + wides + props + the ascent view). The Main Floor's gap paint is OPEN: next  the Bar's three keepers, the garden ENV fill, the Arcade's hub cards.
