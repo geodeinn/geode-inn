@@ -16,7 +16,7 @@ These are volunteer NPCs — real people from Krista's life who asked to be in t
 | NPC | Role | Zone | What They Do |
 |-----|------|------|-------------|
 | Will | The Bonded Alchemist | Staircase | Married to Oceanianoir. Runs the staircase lab's night shift. Methodical — documents everything. The charm system's quality assurance. Tests charms from Oceanianoir's skin. "In alchemy, patience is a reagent." |
-| The Archivist | The Chess Wizard | Camelot/Celtic | A wizard whose magic IS chess. Built the giant chess board as a child. The Inn's tabletop questline voice IS The Archivist's natural speaking voice. The Archivist is the dungeon master. Notices the Whisper Layer because The Archivist watches everything. |
+| The Archivist (EVAN  the character's name, kept: ruled 2026-09-11, Krista: 'his name is Evan, and he is how the chess board was added into the world') | The Chess Wizard | Camelot/Celtic | A wizard whose magic IS chess. Built the giant chess board as a child. The Inn's tabletop questline voice IS The Archivist's natural speaking voice. The Archivist is the dungeon master. Notices the Whisper Layer because The Archivist watches everything. |
 | Rachel Kaiser | The Muralist | Main Floor/Archive | Studio artist, ceramic tilemaker. Paints the Inn's murals. Stardew Valley connection. |
 | Oceanianoir | The Living Chemical Equation | Staircase | Periodic-table-tattooed scientist, Mensa puzzle designer, goth atheist, burlesque performer, reptile enthusiast. The charm catalog (tattoos = charms). Will balances the equation. |
 | Joe | The Complicated One | Undercity / Catacombs / Main Floor | ONE JOE, four trades (resolved 2026-09-11, Krista: 'they are all the same Joe, no doubt. He is... complicated'): the greasy spoon's keeper (the tab that never comes due), the Collector ('Delightful.'), the Miniaturist (paints the chess pieces, the game sprites, the tiny models), and #437 the stone golem (the silent carrier of the stone archive). The Inn's only resident the archive itself miscounted. |
@@ -44,6 +44,14 @@ These are volunteer NPCs — real people from Krista's life who asked to be in t
 | The Archivist + Oceanianoir | The puzzle and the solver. Oceanianoir designs puzzles for Mensa. The Archivist solves puzzles for fun. |
 | The Archivist + Kathy (the druid) | The chess board is living wood. Kathy grew it. The Archivist and Kathy disagree about whether the board should "evolve" or stay the same. The board does what it wants. |
 | Will + Max (Miracle Max) | Max's margins (flowery, dramatic). Will's footnotes (precise, small). The Ragana noticed Will's footnotes are more useful. She hasn't told Max. |
+
+---
+
+## THE ARCHIVIST'S NAME (ruled 2026-09-11, Krista: "there is another missing friend... his name is Evan, and he is how the chess board was added into the world")
+
+**THE CHARACTER'S NAME IS EVAN.** The title (the Archivist) is the corridor address; the name underneath is his own  the real-friend roster pattern: this one keeps the real name (unlike the Collector, who took the title as the whole name; Evan is Evan AND the Archivist). **THE ORIGIN CREDIT:** Evan is how the chess board entered the world  in-world (the wizard who built the giant board as a child, whose magic IS chess) and out-of-world (the friend whose idea it was). The Round Table's other face exists because Evan exists. THE TABLETOP VOICE LAW: the Archivist's natural speaking voice IS the tabletop questline voice  the NPC who writes the quests IS the voice of the quests; that voice is Evan's.
+
+**THE PORTRAIT LAW (the high-maintenance canon, honored):** Evan was the most high-maintenance of the lot for deciding on images  and the Inn keeps this honestly: **the Archivist is the character who has sat for the most portraits in the building.** The earlier versions are shelved in the Hall of Unfinished Designs, labeled truthfully (CHOSE ANOTHER SHAPE, NOT YET), and the final portrait hangs in the Camelot zone. The in-world reason writes itself: the one who catalogs every record has the most opinions about the record of the Archivist. (The Archive's margin note on the portrait file: "the keeper watched the keeping. the keeping improved.")
 
 ---
 
