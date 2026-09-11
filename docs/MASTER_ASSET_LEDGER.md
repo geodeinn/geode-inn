@@ -445,3 +445,12 @@ Class: CYCLE cast masters (1024px, for the crunch line)  Zone home: the Arcade (
 Class: CYCLE cast masters (1024px, for the crunch line)  Zone home: the Arcade (Tier 1) + Greece + Lost Civ + India  Product home: the Arcade cards + the Godot builds  Source: original generation (the Parthenon's sixth phase deliberately subtle  the reward is noticing; the dragon kitten is the mascot lineage in platformer duty; the Kali game's glyphs are carved icons, never letters  meaning has more than one road; tri-mode via the shadow rows). NOTE: 67 GAMES REMAIN. Thirteen Tier 1 games now hold master casts.
 
 **GATE (2026-09-11, Krista's call): THE OWL'S NAME awaits Krista's ruling**  the frog-transformation owl-headed judge, cast in parcel three, is a named-character-in-waiting; nothing hardcodes until the ruling (the Bearsark/Tinkering Weeaboo precedent). The ledger holds the seat open.
+
+**THE FIFTH CAST PARCEL (2026-09-11, twenty-ninth paint  the arcade owe, Tier 1 continues):**
+| Game | Cast sheet (CYCLE-class master) | URL |
+|------|-------------------------------|-----|
+| BAYOU RECLAMATION | the bayou keeper in 4 poses + the resource row (moss, reeds, cypress knee, firefly jar, crawfish trap, plank) + the gator spirit + the will-o-wisp guide + the turf block + the swamp agate shard | https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/949cfacd3_generated_image.png |
+| CAVE PAINTER'S QUIZ | the cave painter spirit in 3 poses + the torch + the six Chauvet panel tiles (horses, lion, rhino, aurochs, owl, hand prints  authentic charcoal-and-ochre style) + the aragonite cluster | https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/5c76d719f_generated_image.png |
+| CLOCKWORK SKIES | the clockwork aviator in 3 poses + the brass gull craft (straight/bank/roll) + the finch drone + the kite raider + the gear debris tiles + the star iron shard | https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/6b47deae2_generated_image.png |
+
+Class: CYCLE cast masters (1024px, for the crunch line)  Zone home: the Arcade (Tier 1) + the Bayou + Chauvet + Clockwork Skies  Product home: the Arcade cards + the Godot builds  Source: original generation (the Chauvet panels painted faithful to the real cave's charcoal-and-ochre style  the oldest art in the Inn honored accurately; the aviator's craft follows the Inn's clockwork canon; the gator spirit is a shy neighbor, never a threat; tri-mode via the shadow rows). NOTE: 64 GAMES REMAIN. Sixteen Tier 1 games now hold master casts.
