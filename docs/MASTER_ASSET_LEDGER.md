@@ -174,3 +174,15 @@ Class: ZONE/ENV masters  Zone home: The Bedrock Fortress, D16-O4/O5/O6  Product 
 | THE MUSIC ROOM (ENV wide, D13  with the Score Stone glowing) | instruments at rest incl. the lithophone and the stone sphere on its pedestal | https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/7212c2a3e_generated_image.png |
 
 Class: PROP/ZONE masters  Zone home: Bedrock Fortress (Prism kit) + Main Floor (D13 gaps)  Product home: the web beta (the deepest screens + the front-door rooms)  Source: original generation (Kubrick geometry / Henson soul; the Steady Light Law held; the celebrity softening law held on the Firekeeper). The Prism's KIT-Z core is COMPLETE (tri-mode + wides + props + the ascent view). The Main Floor's gap paint is OPEN: next  the Bar's three keepers, the garden ENV fill, the Arcade's hub cards.
+
+**THE MAIN FLOOR'S GAPS CLOSE + THE GREAT HALL (2026-09-11, fourth paint  the credit-burn run, queue #2's core lands):**
+| Panel | Subject | URL |
+|-------|---------|-----|
+| THE CATALYST (portrait) | the bartender of the impossible garden: Lovett warmth, none of the menace; the phosphorescent peas on the bark | https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/fdb2d7ebc_generated_image.png |
+| LICHENBLOSSOM (portrait) | the plant necromancer: the dread-antenna, the Van Gogh swirl, reanimate-not-resurrect | https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/ed56bc1cb_generated_image.png |
+| THE GREENWARD (portrait) | the mellow little keeper: wildness held in structure, green as patience, original design | https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/3fb41d42e_generated_image.png |
+| THE IMPOSSIBLE GARDEN (ENV wide) | the Ent's bark terraces: tended rows on one side, Van Gogh swirl on the other | https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/acfc1a84c_generated_image.png |
+| THE SCORE STONE (ENV wide, D13 Arcade) | the 7-foot obsidian monolith: the skyline, not a ranking; the cabinet glow behind | https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/cbf09c10f_generated_image.png |
+| THE GREAT HALL (ENV wide, D13) | the one axis: front door, hearth, staircase  the room that recognizes you | https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/04e6f6d0f_generated_image.png |
+
+Class: CHAR/ENV masters  Zone home: Main Floor (D13  O1, O2, O3)  Product home: the web beta's front-door rooms (the rooms every player walks first)  Source: original generation (the three keepers all original designs, no celebrity faces; the Steady Light Law held throughout). THE MAIN FLOOR'S CORE GAPS ARE CLOSED: tri-keepers portraited, the bar, the garden, the Score Stone, the Great Hall, the Firekeeper, the Music Room. Remaining in queue #2's tail: the Library Nook + Naut's corner, the Geode Corner + the Whisper Layer ceiling, the Host. Then queue #3: the world-map family's showcase panels (the Kells scriptorium, the aurora, the lithophones, the owl).
