@@ -96,6 +96,17 @@ Every room in the Inn needs the same base kit, plus additions for what lives in 
 | The Undercity: the Turning, memory-lamp streets, the Inventor's Atelier, Scarlett's stall, the Long Dark | builder sync drafted | the Clockmaker's turning | D05 | KIT-Z/N OWED (Clockmaker portrait live) |
 | Medusa's Garden (the Gorgon build sheet) | done | Medusa's records live | census | PARTIAL (Medusa portrait live) |
 
+### LEVEL 3B  THE ROYAL (FORMALLY ADDED TO THE ROSTER 2026-09-11, Krista's catch: the Warehouse 13 zone never made the census  the spec has existed since Sept 2)
+| Room | Spec | Chain | Dis | Art status |
+|------|------|-------|-----|-----------|
+| THE ROYAL (the hidden archive behind the Catacombs) | DONE (docs/library/specs/geode_inn_the_royal_spec.md  the Vatican-Necropolis inverted dig, the stone IS the gate, no gatekeeper, the digging IS the ticket) | The Royal Excavation (the Coppola long scene, 20-30 min, D06) | D06 | KIT-Z OWED |
+| The Breach's far side (the dig arrives) | done | the intern problem | D06 | KIT-Z OWED |
+| The Strata Shelves (cross-contaminated eras, sticky notes millennia old) | done | the sticky-note ledger | D06 | KIT-Z OWED |
+| The Deepest Artifact (the one that changes what the player thought the Inn was) | done | The Conversation | D06 | KIT-Z OWED  PRIORITY |
+| THE POPE-HAT FIZGIG's chamber (the resident's post  see census note) | done (seed art hatched 2026-09-09/10 wave) | the tiara's residency | held | SEED ART LIVE |
+
+**THE ROYAL'S RESIDENT (census addendum, 2026-09-11): THE POPE-HAT FIZGIG**  the digger who broke through the wall that shouldn't have been there and found the tiara on the skeleton (the seed: the hat doesn't belong to the religion, the religion belongs to the ground). The goblin-like critter in the overalls and the papal tiara  the intern problem made flesh, the Royal's only staff, slightly overwhelmed by the scope of what it unearths, keeping the sticky notes current. Name pending Krista (the family names its own). Census status: the museum's second joke-born resident (after the fossil rat  the Adequacy Law's deeper sibling: some residents are born from punchlines that turn out to be true).
+
 ### LEVEL 2  THE BEDROCK FORTRESS (D16, drafted tonight)
 | Room | Spec | Chain | Dis | Art status |
 |------|------|-------|-----|-----------|
