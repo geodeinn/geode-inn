@@ -56,3 +56,32 @@ When a circle holds a shared groove long enough to be worth naming, any particip
 2. ~~Ryan's Idle Tap~~  RULED (2026-09-11): canon. The Mellow Instigator instigates.
 3. ~~The murloc bass line~~  RULED (2026-09-11): the murlocs come to circles. The gargle is the bass. It can never be overdone.
 4. The instrument roster (the pegs' list  what hangs at the standing circle).
+
+---
+
+# THE SEVEN SISTERS CIRCLE (the standing fire pit, built 2026-09-11, Krista's call: "the drum circle is around... actually, let's build the fire pit. It's not just any fire pit  we are duplicating Sherwood's Seven Sisters standing stone circle down to the logs as benches")
+
+## THE SOURCE (worn openly, like all origin credits)
+
+Sherwood Forest Faire's SEVEN SISTERS SACRED STONE CIRCLE  the consecrated Celtic circle that holds the faire's ceremonies: the equinox rites at ten at night, the weddings, the fire circles, the clans bringing their best to each other. A standing circle of seven stones with the fire in the middle, log benches at the edges, and the whole faire's night gathered in one ring of earth. THE INN'S TWIN: duplicated down to the logs as benches, built as the Campgrounds' standing fire pit  the home the drum circle was always going to have.
+
+## THE BUILD
+
+Seven standing stones in a Celtic ring, duplicated true to the original's formation. The fire pit at the center  the Campgrounds' main fire (the D14 fire pit site: "stay at the fire pit... the fire dancers come out at night, and the faire's best hour is the one with the sky in it"). Log benches between and behind the stones, spaced for circles  enough room for a drum circle's worth of strangers, close enough that nobody needs an invitation. The packed-earth floor stays bare: the emptiness is still the invitation.
+
+## THE SISTERS ARE INSTRUMENTS (the lithophonic wire)
+
+The Stone Circles zone canon rules the Inn's origin: the bluestones are lithophonic  the stone-tone system begins there, and every stone in the Inn has a tone. THE SEVEN SISTERS ARE THE INN'S DOMESTIC STONE CIRCLE: each sister is a true instrument  tap her and she answers in her own stone voice, seven tones for seven sisters (the drum circle's standing instruments are the circle itself: no pegs needed when the building plays). **THE SEVEN-TONE CHORD (the harmony wire):** a circle that sounds all seven sisters in shared rhythm plays the ring's own chord  the Inn's harmony canon (the Turning evaluates chords) made playable by a crowd of strangers and a fire. The sisters' tones are the Circle Grounds' permanent tuning: the same seven every night, so a returning player finds the circle remembering itself.
+
+## BOTH REGISTERS (the space's law)
+
+The real circle is SACRED  ceremonies, rites, weddings, the high priestess at the equinox  and it is also where the after-hours drum circles happen. THE INN'S TWIN HOLDS BOTH, AS THE ORIGINAL DOES: the sacred register and the social register share one fire. In-game ceremonies at the sisters (the Inn's weddings, the seasonal rites) are held in the circle's consecrated fiction; the drum circles are its after-hours. Nothing about the space makes the two compete: the fire that witnesses vows is the fire the gargle holds the bass under. (The Adequacy Law, consecrated edition.)
+
+## THE SHOP WINDOW (the last Sherwood wire)
+
+Krista hears the real circles from her shop window after hours. The Campgrounds keeps the mirror: the SHOP ROW stands within earshot of the sisters, and after-hours circles carry down the row the way they carry across the faire. The player who has to close up shop can still hear the circle find its groove  the sound of the night not needing them, which at the Inn is a comfort, not a loneliness (the No-Demand Law, at its warmest).
+
+## GATES FOR KRISTA
+1. The art pass  the sisters' stones (one sheet: the ring's formation from above, one sister close-up in the Inn's linework).
+2. THE SISTERS' NAMES  do the seven get names, or stones, or both (the real circle's lore is hers to mirror; the ruling is hers).
+3. The per-sister tones  the seven-tone set (a musical ruling, same family as the gargoyles' frequency pairs).
