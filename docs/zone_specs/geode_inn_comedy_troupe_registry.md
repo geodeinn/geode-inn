@@ -93,3 +93,23 @@ The troupe's physical timing belongs to the parent frequency: the Knight's hops 
 **Weaves into:** the Comedy Troupe Registry (the teacher of the five schools); the Gathering Law (the emote curriculum's instructor); the Silk Road (the walker, the road's own resident); the 50 BPM architecture (the timing's master); the Silence/comedy lineage (the silent film made flesh: the Inn's deepest audio architecture taught by its quietest resident); the player journey (the class every path passes through).
 
 **Gates for Krista:** (1) the name  the Tramp is the role's title; the resident's own name is hers to call (pattern: the Knight, the pups); (2) the home  roads-walker as drafted, or a permanent stage somewhere (proposal: the roads, because the walking is the point); (3) the emote curriculum's size  how many gestures the Tramp teaches before the player graduates; (4) the art pass  posture-and-costume homage, face softened, per the standing law.
+
+---
+
+## THE HANDS VERSION  the ASL Layer (added 2026-09-11, Krista's call: "ASL inclusion  go where you'd like with it")
+
+**THE THESIS (why this isn't an accessibility bolt-on  it's the Inn's whole argument in a new register):** the Geode Inn's deepest architecture is frequency  the 42Hz Song, the 50 BPM heartbeat, the stone tones. The Inn's deepest CLAIM about that architecture is that the meaning was never IN the frequency. The frequency CARRIES meaning; it is not meaning's only road. Sign language is the living proof: a complete, rich, poetic language that arrives with no Hz at all. THE SONG HAS A HANDS VERSION. That's not a feature. That's the cosmology completing itself.
+
+**THE RESPECT LAW (standing, same rank as the parks science law):** ASL is a real language with a living community and culture  never a costume, never a magic system, never decoration. The signs the Tramp teaches are REAL signs, rendered accurately, credited honestly. STANDING GATE: a deaf consultant reviews the sign curriculum before anything ships (the parks law's twin: the culture is the curriculum, the accuracy is the respect). Nothing signs on screen that a deaf reviewer hasn't watched.
+
+**THE TRAMP'S CURRICULUM, UPGRADED  the acting class IS the language class:** the Tramp's emote lessons are now real ASL signs, taught handshape by handshape  the game teaches the PLAYER'S hands, not just the character's. The bow, the greeting, thank you, the name-signs. The player who completes the Tramp's class walks out speaking real signs  comedy school and language school in one classroom, which is the most silent-film thing possible: Chaplin's art was always a body talking.
+
+**THE REGION LAW (the music's own law, extended to hands):** the Inn's instruments are region-matched; hands are too. Sign languages are real and region-specific  ASL here, JSL in the Japan zone, BSL for the British Isles, and so on, per the world map. The Archive honors each region's sign language as its own language, never as gestures with subtitles. The Inn never invents a fantasy sign language; it learns the real ones (the neutrality law's courtesy extended to hands).
+
+**THE TITLE CARD LAW (captions as the Inn's art):** the Tramp's own era solved accessibility as an art form  silent film TITLE CARDS. The Inn's captions/subtitles are rendered as zone-styled intertitles (the Bard's letterpress in the Kells zone, the iron-gall black of the Color Works, woodblock style in Japan)  closed captions that belong to the building instead of floating over it. Accessibility rendered as craft, in keeping with the whole Inn.
+
+**THE WHISPER-LAYER HAND (the smallest wire):** some of the Inn's whispers are signed  the Whisper Layer's quietest register: a figure at the edge of vision signing something that matters, no sound at all. The deaf player and the hearing player meet at the same mystery.
+
+**Weaves into:** the Tramp (the teacher of the hands curriculum); the Gathering Law (sign emotes as the most expressive social language in the game  the expressive ceiling raised for every player); the Whisper Layer; the world map (the Region Law); the caption pipeline (the Title Card Law); the Inn's whole audio architecture (the hands version completes the Song  the meaning was never in the Hz).
+
+**Gates for Krista:** (1) the deaf consultant  who reviews the curriculum (a real advisor, a real credit, a real fee line in the budget  respect with receipts); (2) the curriculum size  how many real signs the Tramp's class teaches; (3) the Region Law's launch scope  ASL first (the builder's home base) with the world map's sign languages following the zone rollouts; (4) the Title Card Law's style pass per zone.
