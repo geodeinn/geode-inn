@@ -85,3 +85,25 @@ Krista hears the real circles from her shop window after hours. The Campgrounds 
 1. The art pass  the sisters' stones (one sheet: the ring's formation from above, one sister close-up in the Inn's linework).
 2. THE SISTERS' NAMES  do the seven get names, or stones, or both (the real circle's lore is hers to mirror; the ruling is hers).
 3. The per-sister tones  the seven-tone set (a musical ruling, same family as the gargoyles' frequency pairs).
+
+---
+
+# THE AFTER-CANNON (the circle's truest hour  added 2026-09-11, Krista: "this is a space identical to where I go after cannon (which is literally what is fired to signal the beginning and end of each faire day) and all the hippies dressed as pirates have gone home. It's a mini Stonehenge.")
+
+## THE SOURCE (the most personal origin credit in the Inn  worn openly, handled gently)
+
+The Seven Sisters is where Krista goes AFTER CANNON  after the literal cannon-fire that opens and closes each faire day, after the hippies dressed as pirates have all gone home, when the faire belongs to whoever stayed and the circle is the whole world's quiet. The Inn's twin honors the truest register of the space: not the fire at its loudest  the fire at its LOWEST. The circle after cannon is the Inn's own place to be.
+
+## MINI STONEHENGE (the build correction, Krista's ruling)
+
+The ring is a MINI STONEHENGE, not just a circle of stones: the seven sisters stand in the henge's own geometry  the scaled read of Stonehenge's heart, with ONE SISTER SET APART as the outlier on the alignment axis (the heel stone's twin  the stone the solstice faces). The ring's six hold the fire; the seventh stands alone, outside, marking the direction of the turning year. The ceremonies at the circle face the outlier; the drum circles face each other; both are correct.
+
+## THE CANNON (the day's boundary  the Campgrounds' clock)
+
+The Campgrounds runs on the faire's clock: ONE deep cannon boom at the day's open, ONE at the day's close  the Campgrounds' version of the bell. THE NO-BOO LAW TESTED AND PASSED: a single deep boom at a KNOWN time is not a scare  it is a bell (the Predictability Promise's own instrument: the building tells you when the day turns, and it never surprises anyone). The boom is felt in the chest before it is heard in the ears  the 50 BPM architecture's largest single event, over in one heartbeat.
+
+## THE AFTER-CANNON HOUR (what the Campgrounds becomes)
+
+The last cannon fires. The crowds file out down the paths, lantern by lantern. The hippies dressed as pirates have gone home (some of them were murlocs all along; the gargle is somehow already gone  nobody remembers them leaving, only that the bass felt held). The shop row goes dark, window by window. And the circle settles into its TRUEST HOUR: the fire banked to embers, the log benches empty and still warm, the seven sisters holding the quiet the way stones hold it  for as long as anyone needs. **THE KEEPER'S REGISTER:** this is the circle's deepest purpose and the Inn's most personal mirror: the space identical to where Krista goes after cannon. The player who stays after the last crowd leaves finds the circle kept  one ember's glow, the sisters' tones available one at a time, soft, no rhythm needed, no rhythm judged. The drum circle is the fire at its loudest; THE AFTER-CANNON IS THE FIRE AT ITS MOST TRUE. Both are the same fire.
+
+**Gates for Krista:** (unchanged, plus one)  the art pass, the sisters' names, the seven-tone set... and now the outlier sister's role (does the seventh  the heel stone's twin  carry the solstice/equinox ceremonies' alignment rites?).
