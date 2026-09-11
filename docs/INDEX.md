@@ -1511,3 +1511,4 @@ AGENTS: search THIS file first. Ctrl-F the name or topic, then open the path.
 - `web_games/BUILD_ALL_PLATFORMS.md` — Geode Inn — All-Platform Build System
 - `web_games/PRICING_STRATEGY.md` — Geode Inn — Individual Game Monetization
 - `web_games/README.md` — Geode Inn — Standalone Web Games
+- `docs/characters/geode_inn_npc_vaulknut_master_dossier.md`  Geode Inn  Vaulknut: The Master Dossier (the selkie who chose the bench  every thread, one page)
