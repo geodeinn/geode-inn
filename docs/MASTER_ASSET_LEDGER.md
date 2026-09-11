@@ -429,7 +429,7 @@ Class: CYCLE cast masters (1024px, for the crunch line)  Zone home: the Arcade (
 **THE THIRD CAST PARCEL (2026-09-11, twenty-seventh paint  the arcade owe, Tier 1 continues):**
 | Game | Cast sheet (CYCLE-class master) | URL |
 |------|-------------------------------|-----|
-| FROG TRANSFORMATION (the moderation game) | the Inn patron base + the FROGLODYTE (the same soul in frog form: hopping, guilty slouch, balloon-inflated) + the owl-headed judge + the lily pad shield  three transforms = suspension, held with humor | https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/ecc52b0a3_generated_image.png |
+| FROG TRANSFORMATION (the moderation game) | the Inn patron base + the FROGLODYTE (the same soul in frog form: hopping, guilty slouch, balloon-inflated) + the owl-headed judge JUDGE TOOTENKOWL (Krista-ruled, 2026-09-11) + the lily pad shield  three transforms = suspension, held with humor | https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/ecc52b0a3_generated_image.png |
 | THE MOHS VIBRATION (the blind cave, the accessibility showcase) | Fibonacci the Keeper + the six stones rendered twice  once solid, once as their pure vibration ring-pattern  VIBRATION IS IDENTITY made visible; the clear quartz teaching shard | https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/fa2fd2250_generated_image.png |
 | NORSE VOYAGE (the sailing game) | the navigator with the iolite pendant in 5 poses + the knarr in furled/full sail + the three wave-tile styles + the seal spirit + Yggdrasil's roots glowing beneath the grid + the iolite shard | https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/dfa0b0668_generated_image.png |
 
@@ -444,7 +444,7 @@ Class: CYCLE cast masters (1024px, for the crunch line)  Zone home: the Arcade (
 
 Class: CYCLE cast masters (1024px, for the crunch line)  Zone home: the Arcade (Tier 1) + Greece + Lost Civ + India  Product home: the Arcade cards + the Godot builds  Source: original generation (the Parthenon's sixth phase deliberately subtle  the reward is noticing; the dragon kitten is the mascot lineage in platformer duty; the Kali game's glyphs are carved icons, never letters  meaning has more than one road; tri-mode via the shadow rows). NOTE: 67 GAMES REMAIN. Thirteen Tier 1 games now hold master casts.
 
-**GATE (2026-09-11, Krista's call): THE OWL'S NAME awaits Krista's ruling**  the frog-transformation owl-headed judge, cast in parcel three, is a named-character-in-waiting; nothing hardcodes until the ruling (the Bearsark/Tinkering Weeaboo precedent). The ledger holds the seat open.
+**GATE CLOSED (2026-09-11, Krista's ruling): THE OWL-JUDGE IS NAMED  JUDGE TOOTENKOWL** (Krista's exact spelling; the Tutankhamun pun  the pharaoh-judge of the frog court). The frog-transformation game's owl-headed judge, cast in parcel three, now holds the name. NOTE: Judge Tootenkowl is the FROG COURT's judge (the moderation game's seat)  distinct from THE OWL, the bloodline witness of the lighthouse and the Owls spec (the witness, not the judge  the distinction is the canon).
 
 **THE FIFTH CAST PARCEL (2026-09-11, twenty-ninth paint  the arcade owe, Tier 1 continues):**
 | Game | Cast sheet (CYCLE-class master) | URL |
@@ -493,7 +493,7 @@ Class: CYCLE cast masters (1024px, for the crunch line)  Zone home: the Arcade (
 
 Class: CYCLE cast masters (1024px, for the crunch line)  Zone home: the Arcade (Tier 1) + Spiral Gallery + China + Crystal Gardens + ALL ZONES (the Whisper)  Product home: the Arcade cards + the Godot builds  Source: original generation (the whisper vignettes are the Inn noticing, made warm, never spooky  the Whisper Layer spec's five events on tiles; the terracotta ranks faithful to the real army's types with pigment traces  the science is the lesson; the paddle's hexagonal grain = real beryl crystallography; tri-mode via the shadow rows).
 
-TIER 1 COMPLETE: ALL 30 TIER 1 GAMES NOW HOLD MASTER CASTS (30/30). The arcade owes 50 games (Tiers 2-4 next, per the build-sheet ranking). The Owl's name gate stands open.
+TIER 1 COMPLETE: ALL 30 TIER 1 GAMES NOW HOLD MASTER CASTS (30/30). The arcade owes 50 games (Tiers 2-4 next, per the build-sheet ranking). The Owl-judge's name gate stands open (later closed: Judge Tootenkowl, 2026-09-11).
 
 **THE TENTH CAST PARCEL (2026-09-11, thirty-fourth paint  TIER 2 BEGINS, four-game parcel):**
 | Game | Cast sheet (CYCLE-class master) | URL |
@@ -554,7 +554,7 @@ Class: CYCLE cast masters (1024px, for the crunch line)  Zone home: the Arcade (
 
 Class: CYCLE cast masters (1024px, for the crunch line)  Zone home: the Arcade (Tier 2) + Canopy + Great Wall + Yellowstone  Product home: the Arcade cards + the Godot builds  Source: original generation (the crossbow is the real repeating crossbow  the science is the lesson, the story is the delivery; the Yellowstone sinter tiles carry the geology accurately  geyserite cones, mudpots, the hot spring's stone ring; the lantern spirits pop into paper scraps  never violent; tri-mode via the shadow rows).
 
-TIER 2 COMPLETE: ALL 23 TIER 2 GAMES NOW HOLD MASTER CASTS (23/23). TIERS 1 AND 2 BOTH CLOSED. The arcade owes 27 games (Tiers 3-4). The Owl's name gate stands open.
+TIER 2 COMPLETE: ALL 23 TIER 2 GAMES NOW HOLD MASTER CASTS (23/23). TIERS 1 AND 2 BOTH CLOSED. The arcade owes 27 games (Tiers 3-4). The Owl-judge's name gate stands open (later closed: Judge Tootenkowl, 2026-09-11).
 
 **THE SIXTEENTH CAST PARCEL (2026-09-11, fortieth paint  TIER 3 BEGINS, four-game parcel):**
 | Game | Cast sheet (CYCLE-class master) | URL |
@@ -614,7 +614,7 @@ Class: CYCLE cast masters (1024px, for the crunch line)  Zone home: the Arcade (
 
 Class: CYCLE cast masters (1024px, for the crunch line)  Zone home: the Arcade (Tier 3) + Labyrinth of Crete + the Tidal Caves  Product home: the Arcade cards + the Godot builds  Source: original generation (THE ARRIVAL LAW HELD IN THE ART  Asterion's greeting pose IS the win state; the dead end gets a bench, arrival is the quest; the Crafter wears the apron-as-skin canon  the seal-skin sheen subtle, never literal; the moonlight inscriptions pair with The Between's seam-sight; tri-mode via the shadow rows).
 
-TIER 3 COMPLETE: ALL 22 TIER 3 GAMES NOW HOLD MASTER CASTS (22/22). TIERS 1, 2, AND 3 ALL CLOSED. The arcade owes 5 games (Tier 4). The Owl's name gate stands open.
+TIER 3 COMPLETE: ALL 22 TIER 3 GAMES NOW HOLD MASTER CASTS (22/22). TIERS 1, 2, AND 3 ALL CLOSED. The arcade owes 5 games (Tier 4). The Owl-judge's name gate stands open (later closed: Judge Tootenkowl, 2026-09-11).
 
 **THE TWENTY-SECOND CAST PARCEL (2026-09-11, forty-sixth paint  TIER 4 BEGINS, four-game parcel):**
 | Game | Cast sheet (CYCLE-class master) | URL |
@@ -636,4 +636,9 @@ Class: CYCLE cast masters (1024px, for the crunch line)  Zone home: the Arcade (
 
 Class: CYCLE cast masters (1024px) — THE THREE LEGENDARIES ARE FOUNDING CASTS, not finished productions: each world (the Fae Kingdom's six realms, Hollow Earth's nine districts, the frequency world's every-zone map) is a world-scale production that grows from these tone masters. The World Walker's cast is complete.  Zone home: the Arcade (Tier 4) + all zones  Product home: the Arcade cards + the Godot builds + the three world productions  Source: original generation (the frequency law painted into the Open World sheet  same forms, two moods, never harsh; the courts cast warm and courteous on both sides of the light; tri-mode via the shadow rows). 
 
-THE ARCADE BUILD SHEET RACK IS CLOSED: ALL 83 BUILD SHEETS NOW HOLD CASTS (30 Tier 1 + 23 Tier 2 + 22 Tier 3 + 8 Tier 4). The arcade owes NO uncast games. The three Legendary worlds continue as world-scale productions (the Fae Kingdom's deeper room art was already the queued next front). The Owl's name gate stands open.
+THE ARCADE BUILD SHEET RACK IS CLOSED: ALL 83 BUILD SHEETS NOW HOLD CASTS (30 Tier 1 + 23 Tier 2 + 22 Tier 3 + 8 Tier 4). The arcade owes NO uncast games. The three Legendary worlds continue as world-scale productions (the Fae Kingdom's deeper room art was already the queued next front). THE OWL-JUDGE'S NAME GATE IS CLOSED: Judge Tootenkowl (Krista, 2026-09-11).
+
+**THE NAMING RULING (2026-09-11, Krista  the last open arcade gate, closed):**
+| Character | Name | Notes |
+|-----------|------|-------|
+| THE OWL-HEADED JUDGE (the frog-transformation moderation game) | **JUDGE TOOTENKOWL** | Krista's ruling, exact spelling. The Tutankhamun pun  the pharaoh of the frog court, the judge of the three-transforms law. The frog court's seat is filled. Distinct from THE OWL (the bloodline witness)  the judge judges; the witness watches. |
