@@ -24,7 +24,7 @@ Every ripple is one row: **CHOICE  FLAGS SET  NEAR EFFECT (the zone)  FAR EFFECT
 ## 3. THE EIGHT RAILS (the global consequence currencies)
 | Rail | What feeds it | What it affects | Status |
 |------|--------------|-----------------|--------|
-| EchoMemory | upper-Inn engagement (the memory-lamps' fuel) | the Turning (guest  maker), the Undercity copy set, the Clockmaker's rungs | **SCHEMA GAP  add the field** |
+| EchoMemory | **RULED (Krista, 2026-09-11): THE MELODIES COLLECTED toward the Song of Making**  each genuine moment kept becomes a melody (a stone's tone, a voice's phrase, a zone's hum); EchoMemory is the player's songbook, not a counter | the Turning (guest  maker): the Clockmaker doesn't count the melodies  LISTENS for whether they hold together (the threshold is harmony, not a number); the Undercity memory-lamps burn on real entries | **ITS OWN ENTITY  the songbook (a melody collection, each entry a kept tone with its origin); schema Krista's** |
 | faeReputation | Fae quests, the brothers' chains, the queens' spaces | portal access, court reactions, faction prices | live in PlayerProgress  readers owed |
 | stonesCollected | all games, quests, the Silica Thread | the geode cave symphony, collection tiers, the Prism's showing | live  readers strong |
 | The Permanences (7 + the hidden 8th) | imprint, tone, toast, handprint, capital, lamp, home bough + the 7.83Hz key | the endings' heaviest feeders; carried, never displayed | spec'd  field owed (PlayerProgress or its own entity) |
@@ -59,7 +59,7 @@ Every ripple is one row: **CHOICE  FLAGS SET  NEAR EFFECT (the zone)  FAR EFFECT
 STAY / LEAVE / HIDE are fed by: the permanences held (the heaviest weights), EchoMemory at the Turning, faeReputation (the courts' pull on STAY), the class key arcs, the Prism's one showing (what the mirror showed colors all three), and the reincarnation spine's law (accountable for all ripples  the endings read the LEDGER, not just the moment). The final weighting pass happens here once the rails all have readers.
 
 ## 6. THE FIX QUEUE (ranked)
-1. **EchoMemory field**  the Turning's fuel (schema update, PlayerProgress or its own entity)
+1. **THE ECHO SONGBOOK  RULED 2026-09-11 (Krista: "the amount of melodies collected toward the actual Song of Making")**: EchoMemory is a melody collection, not a counter. Each genuine moment kept (a stone's unique tone heard, an NPC's phrase learned, a zone's hum sat inside) becomes a named melody in the player's songbook. The Clockmaker's Turning doesn't count  it LISTENS: enough melodies that hold together, and the guest turns maker (the threshold is harmony). The memory-lamps burn on real entries. Needs its own entity (PlayerProgress can't hold a songbook); schema ruling owed
 2. **The flag-reader pass**  the 115 orphans: give each a real reader or consciously retire it (the Ripple Ledger becomes the reviewer: every flag must name the line that reads it)
 3. **questLink population**  wire the 118 flags' records to their chains
 4. **The met_beorn migration**  paired rename, never a blind swap
