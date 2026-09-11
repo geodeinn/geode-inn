@@ -366,3 +366,14 @@ The karaoke system's settings were written (Section VI). What was missing: the R
 | Cashmere/Kashmir (pending Krista's ruling on which piece) | PENDING — awaiting the ruling before it joins |
 
 *(Catalog: 46 arranged songs. The modern five join Tool, the trinity, Elfman, Trent, and Serj on the teacher list — the same shelf, the same law: the method is public domain, the melody is ours.)*
+
+### THE CASHMERE RULING — Resolved (2026-09-11, Krista's recall)
+*(The pending teacher-list seat, filled — with the story that earned it.)*
+
+**THE RULING:** Cashmere = KASHMIR (Led Zeppelin, 1975). It joins the TREATMENT SOURCE LIST as THE TRAVEL-OSTINATO REGISTER — the drone + the descending cycle, the walking pace that covers continents.
+
+**THE CIRCA PALEO NOTE (the proof of the old form):** Krista asked the members of Circa Paleo — the Texas world-folk quartet from the faire circuit, whose acoustic instrumental Kashmir cover (Jenny O'Connor's violin carrying the line) proved the point on stage — how they could play it, and the answer was: "it's actually a very old melody." The answer is musically true in the way that matters: the skeleton beneath the 1975 production — a drone, an ostinato cycle, a long descending line — is one of the oldest forms in folk music, the traveling form, the shape that Middle Eastern, Balkan, and Byzantine traditional music all share. That is why a world-folk quartet can play it acoustically at a Renaissance festival and it sounds like it always belonged there: the form is ancient; only the 1975 arrangement is young. (The composition itself remains copyrighted — Page/Plant/Jones — so it teaches, it does not play. THE INN'S OWN LAW, applied exactly: the METHOD is ancient and public domain; the melody is theirs; the form is ours to walk in.)
+
+**THE ORIGINAL WALKING PIECE (the teacher's lesson, made Inn music):** an original travel-ostinato composition in the ancient form — drone, cycle, the descending line over the walking tempo — belongs to THE WORLD MAP ROADS (the World Walker's walking music, the roads between zones). Circa Paleo's arrangement is the reference for its register: strings that breach region and era, percussion that walks.
+
+**THE OPEN SEAT (the faire honor, held gently):** one of the members of Circa Paleo has passed. The Inn keeps a seat for that musician — in the roads-band's founding credit, unnamed until Krista rules whether the name belongs in the canon (the Scarlett-and-John precedent: never hardcode the family's to give). The faire's musicians are the Inn's ancestors in this craft; the tribute is proposed and awaits its name.
