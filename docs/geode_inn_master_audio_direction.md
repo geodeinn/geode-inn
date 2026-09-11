@@ -316,3 +316,29 @@ The karaoke system's settings were written (Section VI). What was missing: the R
 6. **COPYRIGHT LAW** — every catalog entry is public domain; every treatment is an original arrangement; the analyzed artists are the method-teachers, never the source of a playable melody.
 
 *(Repertoire: 19 songs + the founding 7's treatments above = 26 arranged; join-in casts wired to canon NPCs; ~14 hours of production at 30-45 min per arrangement.)*
+
+### THE FAIRE BATCH — The Second Addition (2026-09-11, from Krista's daily diet)
+*(The pub-sing staples, added at Krista's call — the songs she works around at faire. All public domain; treatments from the analyzed source list; join-in casts wired to canon.)*
+
+| Song | Origin | Difficulty | Zone Home | Treatment (the analyzed source) | The Join-In Cast |
+|------|--------|-----------|-----------|--------------------------------|------------------|
+| Greensleeves | English traditional | Hard | Main Floor, evening | Elfman — the hook IS the haunting; one modulation, Tudor register | The Bard leads (the Inn's Tudor heart); Lozen harmonizes on the turn |
+| Health to the Company | English traditional | Easy | Tavern mode, event close | 30STM — the toast builds cathedral-scale to the last "landlord" | The whole tavern; the Host holds the final note (the welcome, sung) |
+| Pastime with Good Company | Henry VIII (attrib.) | Medium | Staircase, the Alchemist's hour | Trent — the court layers sediment; each verse adds one period instrument | The Retort and the Staircase cast; Gesso hums along upside-down from the rafters |
+| Summer Is Icumen In | Medieval rota (c. 1250) | Hard | Campgrounds, midsummer | Serj — the rota IS the mutation: voices enter as the round builds (Schönberg's polyphony, medieval edition) | The brownies hold the ground bass (the work-rhythm, canon); whoever wanders in takes a voice |
+| Drink to Me Only With Thine Eyes | Ben Jonson (1616) | Medium | Archive, quiet hours | Depeche Mode — longing in the baritone register, the toast as devotion | Quire sings one verse from the margins of the stacks, then goes quiet (the scholar's one offering) |
+| The Mermaid | English shanty | Medium | Water zones | Tool — the verses accumulate like waves; the doomed crew arrives layer by layer | Katya sings the mermaid's verse — the siren singing the siren's part, and the whole dock goes still |
+| A-Roving | English shanty | Easy | Tavern mode | Serj — the "no more roving" chorus mutates key each time | Lozen leads the leave-taking verses (the guard knows about going) |
+| Fathom the Bowl | English shanty | Medium | Water zones, the river | Trent — sediment layers under a straight haul | Charon takes the low verse (a working song, honestly kept) |
+| Leave Her Johnny | Sea shanty | Medium | Dock, last call | Trent — the farewell THINS: instruments leave the mix verse by verse like sailors leaving the deck | Zeke's last call of the night; after this one the murlocs are already gone |
+| The Old Maid in the Garret | Irish traditional | Medium | Tavern mode, comedy hour | Elfman — the waltz-macabre, the joke sung with full dignity | Judge Tootenkowl bangs the gavel on the downbeat (the frog court attends the pub sing) |
+| Johnny Has Gone for a Soldier | American traditional | Medium | Highlands, evening | Depeche Mode — 40 BPM night law; the leave-taking in the electronic-darkness register | Persephone harmonizes (the tide knows about leaving and returning) |
+| Wild Mountain Thyme | Scottish traditional | Medium | Campgrounds, high summer | 30STM — the meadow builds cathedral; the refrain arrives like the ridge at sunset | The Gardener leads — the thyme is the Gardener's own; the whole meadow by the second refrain |
+| All Around My Hat | English traditional | Medium | World map roads | Elfman — the hat-sign hook travels with the player | The Wanderer hums from under the brim (the hat IS the sign; the ravens keep time on the shoulder) |
+| The Gypsy Rover | Irish/Scots traditional | Medium | World map roads | Depeche Mode — the road-song longing, ever moving | The Dutchman offers no verses, only company — the hum from the hatband tulip |
+| Green Grow the Rushes-O | English traditional | Medium | Campgrounds, the counting tier | Tool — each verse accumulates a symbol AND a layer (the counting song as the long build) | The children's tier with Pluck first always; the fizgigs take the echoes |
+| Donkey Riding | Sea shanty | Easy | Dock, morning | Trent — bright sediment, the work-day layering | Ryan's Idle Tap starts it; the dock's whole roster by the second "way hey" |
+| Bring Us In Good Ale | Medieval carol | Medium | Meadery, event open | Trent — the round-table layers; the pour is the percussion | Ryan pours on the beat (the Mellow Instigator's own opener) |
+| Molly Malone | Irish traditional | Medium | Main Floor, market day | Depeche Mode — the market drone under the ballad | The murlocs gargle "alive, alive, oh" — the collective's one chorus, canon forever |
+
+*(Catalog now stands at 44 arranged songs. Same six treatment laws; same PD/copyright law — method stolen, never melody. ~11 more production hours. The pub sing at faire was always the Inn's karaoke in rehearsal — now the rehearsal is written down.)*
