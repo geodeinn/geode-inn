@@ -179,7 +179,8 @@ Class: PROP/ZONE masters  Zone home: Bedrock Fortress (Prism kit) + Main Floor (
 | Panel | Subject | URL |
 |-------|---------|-----|
 | THE CATALYST (portrait) | the bartender of the impossible garden: Lovett warmth, none of the menace; the phosphorescent peas on the bark | https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/fdb2d7ebc_generated_image.png |
-| LICHENBLOSSOM (portrait) | the plant necromancer: the dread-antenna, the Van Gogh swirl, reanimate-not-resurrect | https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/ed56bc1cb_generated_image.png |
+| LICHENBLOSSOM (portrait  THE NPC MASTER, ruled 2026-09-11) | the plant necromancer: the dread-antenna, the Van Gogh swirl, reanimate-not-resurrect | https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/ed56bc1cb_generated_image.png |
+| LICHENBLOSSOM  KATY'S OWN (the player-character portrait, KEPT  she loves this one) | the original with the Van Gogh style background  the one Katy actually plays; kept forever as the player's own | https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/edd1856dd_katy.png |
 | THE GREENWARD (portrait) | the mellow little keeper: wildness held in structure, green as patience, original design | https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/3fb41d42e_generated_image.png |
 | THE IMPOSSIBLE GARDEN (ENV wide) | the Ent's bark terraces: tended rows on one side, Van Gogh swirl on the other | https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/acfc1a84c_generated_image.png |
 | THE SCORE STONE (ENV wide, D13 Arcade) | the 7-foot obsidian monolith: the skyline, not a ranking; the cabinet glow behind | https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/cbf09c10f_generated_image.png |
