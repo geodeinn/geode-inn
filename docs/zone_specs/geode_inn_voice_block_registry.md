@@ -385,3 +385,22 @@ The collision resolved by naming: TWO characters held the title 'the Cartographe
 **SOMA (CLOCKWORK SKIES — the mapper of the body's interior)** — Dialect: clinical-warm teacher, precise and patient; Asimov structural logic with the teacher's warmth. Delivery: two inks always (red for what is known, blue for what is suspected — the wall mostly red, the blue the frontier); Da Vinci draws the organs, this pen draws the signals. Key tell: "You're just not reading them." (the body's signals have been arriving since before the player was born). Hook: "Not mysticism. Neuroscience." Repeat ladder: 1) the full lesson (interoception — the body's sense of its own interior; hunger from anxiety, thirst from fatigue; the insula trained like the Reader's neuroplasticity: repetition builds pathways, pathways build function, function builds awareness); 2) "You're just not reading them." (the two-word diagnosis, delivered gently); 3) THE QUIET — the practice itself: no words, the sitting, the attention placed inside the body for exactly one breath — 'The practice is simple. Not easy — simple.' THE ANTI-SOMA LAW (Krista's catch, 2026-09-10): the name is the accidental tie to Huxley — and the tie is an INVERSION. Huxley's soma was the drug that drowned the interior so the world could sleep; the Inn's Soma is the practice that reads the interior so the body can wake. Anesthesia vs. awareness — the same word, turned right side up. The dystopia took the name for numbness; the Inn took it back for attention. (A Modern Legends shelf note, when the shelf wants it.)
 
 *Batch 9 + 9b complete: WREN, SAKER, SOMA named and loaded (engine records renamed; titles remain roles). The census's wake speaks by name. Gated: TJ, Gabby (parental gate holds). Owed: the layer-pass names (Valhalla, Share Wood, the park keepers, the Tavern remainder — Maddi flagged).*
+
+---
+
+# PART 8: BATCH 10 — THE EINHERJAR (Valhalla layer pass, 2026-09-10, drafted and loaded)
+
+The Layer Sweep's first voice pass closes the registry's oldest hold. Eight blocks, one per champion, each true to role and frequency, each ending in THE QUIET. All loaded (valhalla_layer_pass; 8 records; engine 537+). Ragnarok raid wiring: the raid party's eight voices live; the golden resonance rest-line holds (dissolve = rest, never death).
+
+| Champion | Hook | The Quiet (Rung 3) |
+|----------|------|--------------------|
+| The Unbroken Wall (111Hz) | "Still holding." | The shield set down; the wall at rest IS the wall |
+| The River Blade (42Hz) | "Again." | The strikes slowing into the hum — the blade becomes the Song |
+| The Hearthkeeper (50 BPM) | "There. Warm now." | The fire's crackle; the mended heartbeat audible |
+| The Silence (Nyx's) | "—" | The silence held longer than comfortable — a gift, never a door slammed |
+| The Vault (111Hz Carve) | "It will hold." | The builder leaning on what was made; the permanent humming in the joins |
+| The Current | "Back again." | The return, wordless — Ziggy's cousin: the gecko counts returns; the Current IS the return |
+| The Resonance (42Hz) | "Louder together." | The chord between two players; the whole art audible |
+| The Flame (50 BPM wound) | "Brighter." | The low roar; the heartbeat as the fire's floor — pain converted, not answered |
+
+*Remaining voice holds: Share Wood guild masters (need design — the guild concept has no doc yet; the layer pass will design them), the regional park/world-map keepers, the Tavern remainder (Maddi stays flagged for Krista). Gated: TJ, Gabby. Next: the audit's NEXT PASSES list governs the order.*
