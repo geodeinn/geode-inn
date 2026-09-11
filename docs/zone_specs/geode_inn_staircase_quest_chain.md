@@ -1,5 +1,5 @@
 # THE STAIRCASE QUEST CHAIN: "THE TURNING"
-## The assembled ascent — drafted 2026-09-10 for Krista's review (DRAFT until ruled)
+## The assembled ascent — PASSED by Krista 2026-09-10 (CANON — 'The Turning' confirmed; all three gates resolved)
 
 > CANON SOURCES: the level 5 complete doc (the Clockmaker's "The Gear That Remembers," Reinforce/Bridge/Accept), the Smiths doc (the Fourth Fire, embodied knowing, the fourth way of knowing after Thrum/Ragana/Duck), the Greek philosophers doc (the three steps, the Council of Thinkers lineage), the Philosopher's Stone stage, the Matisse aesthetic doc, the storyline weave Vol 3 + Vol 5, Dissection 03 (the Staircase) and Dissection 09 (the Forge/Void), the five alchemical emblems (Nigredo → the Stone, assets live). Nothing new is invented here — the chain ASSEMBLES what was designed and never braided.
 
@@ -44,7 +44,7 @@ The top of the ascent: the stage. The five emblems' journey completes — Nigred
 
 ## FLAGS FOR KRISTA (three gates)
 
-1. **THE CHAIN NAME + TURN-KEY**: "The Turning" and the Turn-key (the fifth key — the only key that acts on the player). Rule or rename.
+1. ~~THE CHAIN NAME + TURN-KEY~~ — **RULED (Krista, 2026-09-10): "THE TURNING" CONFIRMED**, Turn-key with it (the fifth key — the only key that acts on the player). All three gates resolved. THE CHAIN IS CANON.
 2. ~~THE PHILOSOPHERS' CASTING~~ — **RULED (Krista, 2026-09-10): ORIGINAL CASTING KEPT.** The Fry, Fiennes, and Irons voices stay — the music-directive precedent extended. Features softened in all art per the standing law. Voice blocks loaded (staircase_layer_pass): Socrates ('And what do you mean by THAT, exactly?' — the silence IS the teaching), Plato ('Consider the Form.' — the shadow demonstration), Aristotle ('Of what kind?' — the nod IS the praise), plus the ambient THREE-STEP LOOP (the argument across the flights that never once gotten loud).
 3. ~~THE STAGE~~ — **RULED (Krista, 2026-09-10): COMMUNITY VENUE.** The Stage is the open mic at the top of the ascent — and the ruling extends: THE GATHERING LAW, at least one gathering space per level, Sims-style interaction (presence, emotes, speech bubbles, one shared activity). Master spec filed: docs/zone_specs/geode_inn_gathering_spaces_master_spec.md — the Campfire is the model; the Stage is the Staircase's commons; 8 more spaces mapped (4 exist, 9 proposed).
 
