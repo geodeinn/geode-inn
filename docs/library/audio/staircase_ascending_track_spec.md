@@ -24,6 +24,8 @@
 
 **THE STAGE RULE (the Gathering Law's audio side):** the resolving chord holds open — the top of the track is a ROOM. When a player performs at the Stage's open mic, the track dips to the heartbeat floor (50 BPM alone) and yields. The Inn gets out of the player's way. When the performance ends, the Stone's chord rises to welcome the next.
 
+**THE POLISH LAW (Krista, 2026-09-10):** the open-mic feed runs through the Inn's own DSP — the Stage is the Inn Mode processor's showroom. Every voice at the mic arrives already inside the room's profile: warm tube saturation on the front end, the 1.8s stairwell IR (the room's own tail), the smart-harmony bed (the Stone's resolving chord pitched to FOLLOW the performer's key — the room harmonizes with whoever dares), and the 50 BPM heartbeat as the floor beneath the voice. THE PRINCIPLE: nobody sounds alone at the top of the ascent, and nobody sounds flat — the room adds polish, not perfection (the shower-singer effect, engineered). The Stage does not make you a singer. It makes you sound like the version of you that was always worth hearing. Failure is impossible enough to try. This is the open mic's whole draw for the web beta: EVERY player a polished performer — the Stage is the first karaoke room in the world that respects its singers.
+
 **THE ASCENT LAW:** the key changes are HARD CUTS on flight boundaries (tectonic, never crossfaded) and they are EARNED — the player standing on the Albedo flight hears F major only because the Smiths' lesson is done. An incomplete chain leaves the music below — the ascent's honest progress bar.
 
 ---
