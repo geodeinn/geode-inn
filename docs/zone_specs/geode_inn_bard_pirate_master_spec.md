@@ -131,7 +131,7 @@ The Bard-Pirate Dynamic was first designed in docs/geode_inn_bard_pirate.md (148
 
 The Bard and the Ragana have been deeply in love for sixty years. They eloped. On a whim. No announcement, no ceremony planning, no measuring — the Ragana measured nothing that day, which is how you know it mattered. Sixty years later they are still the Inn's proof that the noise and the measuring belong together.
 
-(Backstory note, keeper's eyes only: the Bard's real person is Krista's dad — the printmaker who taught her Book of Kells capitals as a child. The Ragana is her mother. The dock friendship with Zeke the Pirate portraits a real best-friendship. The flask is never empty in either world.)
+(Backstory note, keeper's eyes only: the Bard's real person is Krista's dad — the printmaker who taught her Book of Kells capitals as a child. The Ragana is her mother. The dock friendship with Zeke the Pirate portraits a real best-friendship  and Zeke's real person is DIRECT FAMILY as well (Krista's ruling, 2026-09-11, named alongside the Tinkering Weeaboo). The flask is never empty in either world.)
 
 ---
 
