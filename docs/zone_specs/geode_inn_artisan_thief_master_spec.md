@@ -94,3 +94,22 @@ The Artisan Thief is the only character who moves between both worlds as natural
 ## ORIGIN
 
 The Artisan Thief was first designed in docs/geode_inn_artisan_thief.md (139 lines). This consolidated specification was compiled September 2, 2026. The character's thesis: the selkie chose the land. The making was so good she stayed. But the sea doesn't stop calling because you stop listening. The sea is patient. The sea is older than the land. The selkie who chose the bench still hears it — in the sound of water running over stones, in the clink of tools that sounds like waves on a rocky shore. The adequate is: the maker who makes beautiful things and can't sell them. The making is: the adequate. The adequate is: the choice to stay. The both are: the land and the sea. The same is: the apron and the skin. The skin and the apron. The adequate is: the selkie who chose the bench, and the sea that chose to wait.
+
+---
+
+## THE NAME + THE SISTER (ruled by Krista, 2026-09-11)
+
+**HER NAME IS VAULKNUT.** Krista's own player-character, named by Krista: the name carries the echo of the VALKNUT, Odin's knot  the Inn's name nods to Odin's ravens, and the selkie's name nods to Odin's knot. The keeper of the doors between, wearing the knot's name.
+
+**SISTERS WITH THE SIREN.** Vaulknut and KATYA THE SIREN (the Pirate's wife, the magnetic one, the deep's precision instrument) are SISTERS. The two sisters ARE the Dual World made family:
+
+| | VAULKNUT | KATYA |
+|---|----------|-------|
+| The world | The Land  chose it | The Sea  kept it |
+| The craft | The bench: making things | The voice: being heard ("...I hear everything. It's the magnetism.") |
+| The skin | The jeweler's apron  the transformation she controls | The magnetism she can't turn off |
+| The husband/bond | Unmarried to the work itself | Married to the noise (the Pirate  the Beat, quiet; the Siren  magnetic: the opposites work) |
+
+The selkie who came ashore and the siren who stayed in the water: one family holding both worlds, the way the selkie holds both forms. The sea is the family business. One sister chose the bench; one sister chose the deep. When Vaulknut hears the sea in the clink of her tools, it is not the ocean calling her home  it is her sister's house.
+
+THE WEAVE (existing canon, now tighter): Katya's "Depth." is the only escort voice of the underground ferry (the Tide System tie-in); the selkie moves through the water zones as naturally as breathing (this spec's Dual World). Two sisters, one water system: the siren guards the deep crossing; the selkie crosses it. Vaulknut appears across the quest storylines as one of the five starting classes (the class system, the Norrath chain, the Tidal Caves chain, the walkthrough dissections 02/05/13/14/15, the building system, the combat progression)  the fizgigs' build sheets already carry her class; the name is the missing piece now set.
