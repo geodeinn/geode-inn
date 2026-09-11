@@ -28,6 +28,8 @@
 
 **THE TERRIBLE CLAUSE (Krista, 2026-09-10 — 'Or really really terrible'):** the polish is OFFERED, never forced. The mic holds two settings: the polished feed and the RAW feed — and the raw feed is equally honored. A player may belt at full heart, gloriously, catastrophically, without the DSP's help — heard exactly as they are, by choice, and the audience's applause is IDENTICAL either way. The Stage respects the singer, not the sound. The Inn's most-loved performances will be the terrible ones — the courage is the show; the room knows it; and the polished singers will envy the joy. (The applauding crowd never knows which feed they heard. Only the singer knows what they chose. That's the whole game.)
 
+**THE FIDELITY LAW (Krista's riff, 2026-09-10):** raw does NOT mean degraded. The raw feed runs the same hi-fi signal path as the polished one — full Inn Mode clarity, zero repair. The Inn never degrades a signal; it just declines to fix you. And the backing track is ALWAYS note-perfect (the fizgigs' reference-blueprint quality) — so the contrast is maximal: a flawlessly played instrumental beneath a voice that has chosen, at ear-splitting clarity, to be exactly what it is. Every heroic wrong note rendered in loving detail. The Stage's most honest marketing: somewhere upstairs, right now, it's happening.
+
 **THE ASCENT LAW:** the key changes are HARD CUTS on flight boundaries (tectonic, never crossfaded) and they are EARNED — the player standing on the Albedo flight hears F major only because the Smiths' lesson is done. An incomplete chain leaves the music below — the ascent's honest progress bar.
 
 ---
