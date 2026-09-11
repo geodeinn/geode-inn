@@ -130,12 +130,12 @@ Every room in the Inn needs the same base kit, plus additions for what lives in 
 ### THE FAE KINGDOM (the sideways space; 6 rooms)
 | Room | Spec | Chain | Dis | Art status |
 |------|------|-------|-----|-----------|
-| The Threshold | PARTIAL (in D07/07b  owed its own spec) | the entry | D07 | KIT-Z IN PROGRESS (wide + option views + shadow done 2026-09-11; in-between + props owed) |
-| The Summerlands (Seelie) | PARTIAL | Oleander's chain | D07/07b | PARTIAL (portrait + showcase wide + court hall live; kit fills owed  Parcel 2) |
-| The Hollow (Unseelie) | PARTIAL | Malachi's chain | D07/07b | PARTIAL (portrait + showcase wide + court hall live; kit fills owed  Parcel 3) |
-| The Between | done | the Norns, Escher | D11 | PARTIAL (seam wide + Lost and Found + Head Finder + game cast live; tri-mode fills owed) |
-| The Crystal Gardens | PARTIAL | the Griffin | D07 | PARTIAL (showcase wide live; option views + tri-mode owed  Parcel 4) |
-| The Stone Circle Chamber | done | the deepest point | D07/16 tie | PARTIAL (showcase wide live; the Contract pedestal + the sealed chamber beneath owed  Parcel 5) |
+| The Threshold | PARTIAL (in D07/07b  owed its own spec) | the entry | D07 | CAUGHT UP (wide + option views + shadow + ENV  2026-09-11) |
+| The Summerlands (Seelie) | PARTIAL | Oleander's chain | D07/07b | CAUGHT UP (portrait + wide + hall + doors + shadow  2026-09-11) |
+| The Hollow (Unseelie) | PARTIAL | Malachi's chain | D07/07b | CAUGHT UP (portrait + wide + hall + doors + gold state  2026-09-11) |
+| The Between | done | the Norns, Escher | D11 | CAUGHT UP (seam wide + Lost and Found + Head Finder + game cast + the Between's own tri-mode family  2026-09-11) |
+| The Crystal Gardens | PARTIAL | the Griffin | D07 | CAUGHT UP (wide + perch + paddle court + roots + in-between state  2026-09-11) |
+| The Stone Circle Chamber | done | the deepest point | D07/16 tie | CAUGHT UP (wide + the Preseli circle, the Contract, the sealed chamber, the Braided Tone  2026-09-11) |
 
 ### THE WORLD MAP (the 37 pins  the audit's family, specced tonight)
 | Zone | Spec | Chain | Art status |
