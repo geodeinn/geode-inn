@@ -30,6 +30,8 @@
 
 **THE FIDELITY LAW (Krista's riff, 2026-09-10):** raw does NOT mean degraded. The raw feed runs the same hi-fi signal path as the polished one — full Inn Mode clarity, zero repair. The Inn never degrades a signal; it just declines to fix you. And the backing track is ALWAYS note-perfect (the fizgigs' reference-blueprint quality) — so the contrast is maximal: a flawlessly played instrumental beneath a voice that has chosen, at ear-splitting clarity, to be exactly what it is. Every heroic wrong note rendered in loving detail. The Stage's most honest marketing: somewhere upstairs, right now, it's happening.
 
+**THE CAP (Krista, 2026-09-10):** clarity unlimited, loudness governed. The Stage's master bus carries a hard output cap — the room's loudness curve is mastered like the Inn Mode presets (the high-end IEM engineering canon: safe listening is architecture, not an afterthought). The terrible arrives at full resolution and capped volume: every heroic wrong note IN loving detail, never in pain. THE HOSPITALITY LAW: the mic may be terrible, but the room never hurts you — every seat is safe, no griefing-by-volume possible (the raw feed cannot be weaponized; the cap holds for polished and raw alike). The singer may choose how they sound. Nobody chooses how loud.
+
 **THE ASCENT LAW:** the key changes are HARD CUTS on flight boundaries (tectonic, never crossfaded) and they are EARNED — the player standing on the Albedo flight hears F major only because the Smiths' lesson is done. An incomplete chain leaves the music below — the ascent's honest progress bar.
 
 ---
