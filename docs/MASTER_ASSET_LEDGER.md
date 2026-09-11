@@ -124,3 +124,19 @@ Krista reports 80,000+ usable image supplies on hand. The class system absorbs t
 - Rooms and their styles → ROOM (above)
 
 **Standing rule for the 80k:** no image enters the registry without a class, a canonical name, a zone/product home, and a sovereignty check (metadata stripped, master Inn-owned). Intake batches get swept into the ledger the session they arrive — the Drive intake pipeline (drive_zones_intake_manifest.md) is the pattern.
+
+---
+
+## EMBLEM — THE TURNING'S FIVE FLIGHT MARKERS (2026-09-10, painted and logged — the Staircase's art layer complete except tri-mode)
+
+The five emblems of alchemy as the Staircase's flight markers, each in its Matisse phase per the Turning's visual canon (Fauvist wild → Red Studio → the cut-outs — the color of transformation):
+
+| Emblem | Flight | Matisse phase | Asset |
+|--------|--------|---------------|-------|
+| Nigredo (the blackening) | 1 — D minor | Fauvist wild: the crow dissolving, the shattered crucible, chaos before order | https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/448539b5a_generated_image.png |
+| Albedo (the whitening) | 2 — F major | Fauvist cooled: the swan over still water, the first clearing | https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/14e459442_generated_image.png |
+| Citrinitas (the yellowing) | 3 — G major | Red Studio: the dawn-yellow interior, the workbench, the glass vessels | https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/94a7e0891_generated_image.png |
+| Rubedo (the reddening) | 4 — A major | Red Studio full: the heart-red sun, the glowing flask, warmth at full arrival | https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/396badaa4_generated_image.png |
+| The Stone | 5 — resolving C | Cut-outs: the gold circle with rays on midnight blue — the simplest and most precious image possible | https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/da2b538d3_generated_image.png |
+
+Class: EMBLEM · Zone home: The Staircase (one per flight, Nigredo at the bottom, the Stone at the top) · Product home: Geode Inn web beta + the Turning chain · Source: original generation (Matisse style reference only, per the legal basis on every build sheet) · Paired with the Turning track's five flights (the emblem IS the key change made visible).
