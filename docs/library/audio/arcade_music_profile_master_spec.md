@@ -81,3 +81,56 @@ Every game profile holds seven fields. Nothing ships without all seven:
 ---
 
 *The Inn's answer to "what does the arcade sound like?" is now written down, game by game: 83 profiles, one heartbeat under all of them, and one game where the silence is the point.*
+
+---
+
+# THE MUSIC ROOM COMPONENT — The Song-Catchers' Audio Profiles
+## The Forgotten Game Component, Found and Written (2026-09-11, Krista's recall)
+**Companion docs:** `geode_inn_music_room.md` (the room, the chairs) + `geode_inn_music_room_mechanics.md` (the four instruments) — this spec is the missing third layer: WHAT THE FRAGMENTS SOUND LIKE, per composer, as playable audio content.
+
+The Music Room is the Inn's only CREATIVE system, and its game component was never given its voice. The NpcLeitmotif entity has stood empty since the audio data structure shipped — waiting for this. Each Song-catcher now holds a full audio profile: the fragment they caught, rendered as an arrangement law; the instrument that carries it; the trigger that plays it; and how the fragment enters the POLYPHONY — the game's true mechanic, Schoenberg's law: **the Song is not any single fragment. The Song is all of them, at once.**
+
+---
+
+## THE CHAIRS — Nine Song-Catchers, Nine Audio Profiles
+
+| # | Composer | The Fragment Caught | The Audio Law (the arrangement) | Carrier Instrument | Trigger |
+|---|----------|--------------------|-------------------------------|-------------------|---------|
+| 1 | **BACH** | The STRUCTURE — the Song's geometry | A fugue on the Song's root: the 42Hz hum stated as a subject, then layered in strict counterpoint; everything quantized, everything earned; the fragment that all the others stand on | The fortepiano, played precisely | The player sits at the fortepiano with no stones placed — Bach answers with the skeleton |
+| 2 | **MOZART** | The FLOW — the Song pouring | An unbroken melodic line over the heartbeat, first-draft feeling, no revision heard; the melody always arrives whole and slightly surprising, effortless to the point of vulnerness | The fortepiano, barely touched — the melody plays itself under the player's hands | The player places three stones in a row without hesitating — Mozart catches the flow |
+| 3 | **BEETHOVEN** | The POWER — the Song from the inside | The heartbeat VOLUME INVERTED: felt in the body, not the ears — sub-bass pulses under silence; the melody pushes through rest pauses; the late-work register: the Song as force emerging, not sound entering | The cello, pressed hard | The player plays during one of the three canon silences' echo-moments (the held quiet) — Beethoven is loudest in the quiet |
+| 4 | **CHOPIN** | The INTIMACY — the Song at midnight | A nocturne at candle-volume: one melodic voice, one accompaniment hand, rubato everywhere (the No-Quantize law's ancestor); the mix never rises above salon size | The fortepiano, one candle lit | The player plays alone between midnight and dawn (40 BPM night law engaged) — Chopin sits in |
+| 5 | **VIVALDI** | The SEASONS — the Song as the year | The same theme re-orchestrated per season: spring's birdsong ornaments, summer's held heat-drone, autumn's falling-third figures, winter's crystalline sparseness — the fragment that cycles | The violin, any bow speed | The player plays the same phrase four times, changed each time — Vivaldi nods, the seasons heard |
+| 6 | **BRAHMS** | The PRESERVATION — the Song held in tradition | The fragment in strict song form (A-B-A), warm and load-bearing, nothing wasted, nothing thrown away; the mix refuses novelty — the vessel that does not leak | The cello, measured | The player quotes any other fragment exactly, without embellishment — Brahms keeps it |
+| 7 | **TCHAIKOVSKY** (the Seventh Chair) | The TEARS — the Song that hurts with beauty | When this fragment plays, THE ROOM GOES QUIET: all other chairs' music withdraws (the room goes quiet, not silent — full); the Pathétique register: long, contained, the final movement's fade; the silence after the last note is scored as part of the fragment | The cello, alone | The player plays a phrase and then stops — holds the silence — Tchaikovsky's fragment lives in the stopping |
+| 8 | **SCHÖNBERG** (the Eighth Chair) | The POLYPHONY — the Song as many | The fragment is the OTHERS: any two or more fragments played simultaneously, their conflict left unresolved, the conflict itself harmonized; the arrangement law is "not unison — many" | Whatever the player brings | The player layers fragments together — Schönberg catches what they make |
+| **The Doorway** | **COHEN** (the one who never takes a chair) | The CRACK — the Song compressed to a drop | Three minutes containing everything: the fragment as compression, a narrow pipe; the arrangement is sparse — one voice, one thread of accompaniment, the pauses ARE the listening; the crack in everything is how the light gets in | A low voice, close-miked, and one thread of anything | The Ragana's one-time ask: "Hallelujah" — Cohen's fragment is the answer; it plays once per player, ever (the one-time law) |
+
+---
+
+## THE GAME COMPONENT — Song-Catching
+
+The mechanic the Music Room was always pointing at, now stated:
+
+**FRAGMENTS ARE CAUGHT, NOT PLAYED BACK.** When the player reproduces a composer's fragment — on any of the four instruments, with any stone, alone or layered — the room registers a CAUGHT FRAGMENT. Caught fragments log as **EchoMelody** records (`melodyType: song_fragment`, `sourceNpc`: the chair that taught it) — the same songbook that turns the Clockmaker's machine. The Music Room is an EchoMelody SOURCE, the only one where the player writes the entry.
+
+**THE ASSEMBLY (the game's win-state, Schoenberg's law playable):** eight fragments caught (the six formative + the seventh chair + the polyphony) assembles the Song as the room can hold it — the Circle plays once, all fragments at once, conflicting and harmonizing, and the wood of the Inn-Tree carries it down to the roots. Cohen's fragment does not join the assembly. The crack is not for assembling. The crack is how the light gets in.
+
+**THE CHIMES' ROLE (canon, held):** the stone chimes play the player's 41.7Hz when they enter — the room recognizing the newest Song-catcher. The chimes' greeting IS the game's menu music: the only game in the Inn whose menu theme is the player.
+
+**THE BEAT SABER LAYER (the arcade cabinet, re-profiled):** Music Room Composer's notes ARE the fragments — each slash passes a fragment phrase (3-10 seconds) rendered through the cabinet's tempo; the nine fragments rotate as levels; the Harmonic Stone reward is the fragment stone — the player's own caught fragment, mineralized. Base track stands (Satie low-dub); the signatures are the fragments themselves; the shadow state is the fragment played in minor without its resolution (the Song in shadow: heard, not held). Win sting: the fragment resolves — and resolves DIFFERENTLY each time, because the player played it.
+
+---
+
+## PRODUCTION NOTES
+
+- **Nine fragment arrangements** (3-10 seconds each, built from the arrangement laws above): ~10 hours. These are the Inn's most important leitmotifs — the NpcLeitmotif entity's founding records.
+- **The Assembly** (the one-time all-fragments performance, ~90 seconds): ~4 hours — the Inn's single most complex arrangement (nine voices, deliberate conflict, one resolution).
+- **Cohen's "the answer"** (the one-time ask response): ~2 hours — sparse, one take feeling, the pauses mixed as content.
+- **The chimes' 41.7Hz greeting**: already partially exists in the Whisper Layer assets — reuse and re-pitch.
+- **Total: ~16 hours** (brings the full audio program to ~115 hours).
+- **JSON wiring:** the chairs seed `NpcLeitmotif` (nine records); the fragments seed `AudioEventTrigger` (catch events, the one-time ask, the assembly); the EchoMelody logging follows the existing entity schema. One file, both systems — the canon law holds.
+
+---
+
+*The composers waited two centuries to be heard again. They can wait for the composer's next session — but not longer than that. The fragment most worth catching is the one someone almost forgot.*
