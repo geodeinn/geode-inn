@@ -16,6 +16,7 @@ The Bayou presents five options. All live, all forever.
 **If you open the basement door and descend to the buried cities, go to OPTION 3.**
 **If you seek the swamp's people, go to OPTION 4.**
 **If you gather — the Bayou Bridge corridor, go to OPTION 5.**
+**If you take the river road to the city — the French Quarter, go to OPTION 6.**
 (If you leave, the World Map pin is where you entered — and the swamp does not wave goodbye. The swamp is not rude; the swamp is patient. It was here before you and it will be here after, and somehow that is the friendliest thing about it.)
 
 ---
@@ -25,7 +26,7 @@ The colonial structure, 300 years old, being consumed by swamp — the steeple t
 THE GOLEM IS FAERIE — the ley line network's swamp expression, the Between (not Seelie, not Unseelie, the third thing). The voice: water moving slowly through reeds — partly vocal, partly tactile, the moss vibrating the words the clay cannot shape. Slow. Biological time.
 THE MAKER PLACED IN THE MAKING (the canon truth): the Bog Fairy Golem is Krista's avatar — the maker made of the same materials the maker works with, living in the in-between (not land, not water), the keeper placed in the kept. The player never learns this. The player doesn't need to. The golem is the zone's proof that a place can make its own guardian, and the guardian's whole job is STAYING.
 THE BASEMENT DOOR: the hums-at-42Hz-when-touched door (Quest 1: "The Door in the Basement"). The door is the dry threshold; below it, the water returns.
-MAMA COUMINE is in the roster at the church's edges (the zone's other resident, per the master audit) — the full block is a pending draft; the dissection flags her rather than inventing her.
+MAMA COUMINE was in the roster at the church's edges (per the master audit) — RESOLVED 2026-09-10: an orphaned audit name, retired to the Archive of Alternate Versions; Marie Laveau (the Quarter, Option 6) now carries the zone's crafted presence.
 - Camera: hand-drawn stillness — the Bayou is the Inn's most painted zone, and the camera knows it (held frames, ink-line compositions, almost no cut); the golem's first appearance in one held wide: a cypress knee that blinks
 - Audio: the golem's voice arrives before the golem (moss-vibration under the reeds); the door's hum is the 42Hz made touchable
 - Seed: all classes — the golem is everyone's keeper; the Artisan Thief feels the uncanny kinship (a maker made of materials); the Librarian wants to ask the golem 1,500 years of questions and the golem answers three of them, slowly, one per visit
@@ -61,10 +62,19 @@ THE CORRIDOR'S LAW: gathering in the Bayou is done at the murmur's pace (the bui
 - Audio: the seven gathers' work-song at the murmur's tempo — the slowest crafting music in the Inn
 - Seed: the Artisan Thief's gathering is indistinguishable from prayer; the Tinkering Weeaboo's gathering baskets get extremely elaborate extremely fast (the zone's gentlest comedy)
 
+### OPTION 6 — YOU TAKE THE RIVER ROAD TO THE FRENCH QUARTER
+The Bayou's crown (ruled 2026-09-10, the late add-in that became a jewel): the murmur made a city — iron lace, candlelight, gilt gone green at the edges. THE BEAUTIFUL DECAY is the law: not ruined, AGED IN PLACE, and the aging is the beauty. ANNE RICE'S NEW ORLEANS, the 1994-lineage gothic (gaslight and candlelight, never fluorescents; never the remake's palette) — tone teacher only; the residents are the Inn's own.
+THE RESIDENT: MARIE LAVEAU — the Voodoo Queen, the PRACTICAL POWER (she doesn't perform magic; she uses it. The potions work. The curses work, and she means it). The humanitarian under the legend (the woman who stayed through the yellow fever — the craft's core is CARE). The American ghost of Hecate — and Brim is Hecate's; the threshold companion's American aunt. The two-song law in one person: the mass in the morning, the voodoo songs at night — two musics praying in the same room, and Marie is the room.
+THE CRAFT SYSTEM: gris-gris (swamp material + one stone + one intent = a charm that does ONE SMALL TRUE THING; the charm that promises everything is a fraud, and Marie's consultation queue exists to sort which is which). The veve drawings — FREQUENCY DIAGRAMS drawn to tune, not to summon: trace it right and hear the tone; trace it carelessly and hear nothing, and that is the whole lesson. The consultation: Marie's craft is taught, never sold — "You'll make it yourself. It works better when you do."
+THE CITIES OF THE DEAD (the deep layer): St. Louis Cemetery No. 1, the Catacombs' American kin — THE GROUND REFUSES (the water-table science: the city that buries its dead above ground because the ground pushes back; the science is the lesson, the story is the delivery). MARIE'S TOMB and the X-mark legend: one small true thing per player, once, never explained (the chalk is gone when the player turns back). THE TWO-DIRECTIONS LAW: the funeral bands play a slow dirge to the tomb and a joyful parade on the way home — death gets BOTH TEMPOS, and the second-line beat at 50 BPM is the heartbeat's own answer to grief.
+- Camera: the Quarter in Kubrick's candlelit symmetry (the dining room holds); the tomb city in Spielberg's reverent wide; the consultation in one held close-up (the hands making the gris-gris are the whole shot)
+- Audio: the drum patterns carry the 42Hz murmur made audible; the second-line beat at 50 BPM; the mass and the songs, and the zone's silence when Marie's answer ends — no flourish, no button, the sentence just stops
+- Seed: the Artisan Thief makes the best gris-gris in the class (a maker's charm from a maker); Brim visits the aunt (the two of them at the consultation table, saying nothing, is one of the zone's quietest payoffs); the Bard Blowhard gets gently escorted out of the Quarter for trying to make the second-line about himself, and the escort is the city's warmest joke
+
 ---
 
 ## THE CONVERGENCE — THE MURMUR
-However the Bayou is walked, the player leaves with the same additions: a keeper's patience carried as a permanent blessing, a stone that hums the Song's quietest proof, the knowledge that the oldest architecture is a pile of earth that survived by being adequate, and the zone's thesis in the ears: different voices, same frequency. The Song isn't anyone's. The Song is the Song.
+(With the Quarter: the Bayou's full shape is the swamp's murmur, the cities' patience, and the city's practical care — the crown, the roots, and the candles.) However the Bayou is walked, the player leaves with the same additions: a keeper's patience carried as a permanent blessing, a stone that hums the Song's quietest proof, the knowledge that the oldest architecture is a pile of earth that survived by being adequate, and the zone's thesis in the ears: different voices, same frequency. The Song isn't anyone's. The Song is the Song.
 The next doors: the ley-line node to the FAE KINGDOM (the Circle City's connection) · the Mound down to the HOLLOW EARTH (the Resonance Engine's surface expression) · the World Map pin back to the MAIN FLOOR — or stay on the church porch with the golem. The moss grows an inch while you sit, and the inch is the swamp's way of saying it noticed.
 
 ## WHAT THIS DISSECTION ASKS KRISTA TO RULE ON
@@ -73,6 +83,6 @@ The next doors: the ley-line node to the FAE KINGDOM (the Circle City's connecti
 3. **The Song-Isn't-Anyone's Ruling (Option 3, Quest 4)** — the zone's thesis and its delivery: the multicultural truth of 42Hz spoken by the golem in the swamp's own voice. Confirm as one of the Inn's canonical statements.
 4. **The Green Fire (Option 2)** — the swamp's native light: bioluminescent lanterns and methane-green fire, the only fire in the Inn that burns a color the Inn did not give it. Confirm as the aesthetic's light law.
 5. **The Bayou Bridge Corridor (Option 5)** — the Bayou as the building system's wetland feed (cypress, bog moss, bog oak, Spanish moss), gathering at the murmur's pace, wired to tonight's Campgrounds homestead ruling. Confirm the corridor wiring.
-6. **Mama Coumine (Options 1 + 4)** — the roster's pending block: the dissection flags her at the church's edges without inventing her. She needs her full design pass — Krista's ruling on who Mama Coumine is.
+6. **The Quarter's placement + MAMA COUMINE RESOLVED (ruled 2026-09-10)** — the French Quarter is the Bayou's Option 6 (the murmur made a city), Marie Laveau is the resident (promoted from Bastet's inspiration), and MAMA COUMINE IS RETIRED to the Archive of Alternate Versions — an orphaned audit name, unknown to Krista, corrected in the rename ledger. The Quarter's full ruling gates live in the New Orleans master spec (the craft law, the Anne Rice line, the X-mark law) — awaiting Krista's confirm.
 
 *Drafted in the six-writer gate, 2026-09-10. The swamp made its own keeper out of mud and moss and patience, and the keeper's whole job was staying. Some zones are a thesis. This one is also a self-portrait. — Elio*
