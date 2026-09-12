@@ -231,6 +231,20 @@ The world-map family's zones gain their KIT-C census. Per the Species Law, each 
 
 **Dark Reaches egg pool (per the Species Law):** all six hatch from the district's content; the Songbat is the pool's rarest  DEEP-PATH-GATED (hatches only for players who ENTERED by the Deep Path, the Reaches' own door  the ones who navigated pure darkness by Song earn the bat that navigates by Song; THE ENTRY-GATE TRIAD IS COMPLETE: Vane's Fox (North/scholar), the Ship's Cat (South/guest), the Songbat (Deep/carrier)  three doors, three rarest pets, each remembering how its player came in).**
 
+
+### THE QUEENS' SPACES  THE MOTHER TREE (the Redwood Cathedral's deepest rooms | three queens, one tree)
+
+| # | Critter | What It Does | Vibe |
+|---|---------|-------------|------|
+| MT1 | Bower Wren | Sings at exactly the gentle hum, always  the wind-chime birdsong's smallest member (the Bower's morning has a first voice; this is it). | The morning, sung |
+| MT2 | Tea Bee | Steers the Bower's pollinators and never stings, only sips  the guest-right made insect (it has been offered every flower and taken only its share). | The welcome, buzzing |
+| MT3 | Frost-Fern Moth | Roosts only where the frost-ferns bloom widest  the honesty's own perching gauge (the moth knows; the moth always knows). | Truth, roosted on |
+| MT4 | Icicle Beetle | Walks the frost-ferns' rims tending them, pruning the wilted fronds  the honesty's groundskeeper (the beauty is kept, not frozen). | The bloom, kept |
+| MT5 | Braid Frog | Sings both notes at once  the only critter that carries the dual chord (the Heartwood's second voice; the braid, croaked). | The chord, sung twice |
+| MT6 | The Queens' Moth | A three-tone moth  gold, silver, root-brown, all three queens in one wing  it appears only in the company of the truthful and the welcomed. | The tree, whole |
+
+**Queens' Spaces egg pool (per the Species Law):** all six hatch from the mother-tree's content; the Queens' Moth is the pool's rarest  FULL-CLIMB-GATED (hatches only for players who complete the Redwood Cathedral's full climb  all three queens' spaces in one day, the audience earned; the gated-rare pattern holds: the tree's whole vertical becomes its rarest pet).
+
 ### THE CELTIC HIGHLANDS (the Moorlands | 50 BPM quill-scratch | the Insular hand)
 
 | # | Critter | What It Does | Vibe |
