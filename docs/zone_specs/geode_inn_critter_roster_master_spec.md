@@ -203,6 +203,20 @@ The world-map family's zones gain their KIT-C census. Per the Species Law, each 
 
 **Harbor egg pool (per the Species Law):** all six hatch from the district's content; the Ship's Cat is the pool's rarest  SOUTH-PATH-GATED (hatches only for players who arrived by the guest's door  the polite knock made companionable; the entry-gated pair is now complete with Vane's Fox (North), and the Dark Reaches owes the Deep Path's own).
 
+
+### HOLLOW EARTH  DISTRICT 8: THE RESONANCE ENGINE (the heart, the source | 42Hz GENERATED | the Song's origin)
+
+| # | Critter | What It Does | Vibe |
+|---|---------|-------------|------|
+| HE43 | Tone Moth | Its wings beat at exactly the Song's frequency in flight  the source's smallest singer; it cannot hover off-key (physically impossible, canonically true). | The hum, winged |
+| HE44 | Still Axolotl | Floats in the Moon Pool listening, perfectly still, for the Song's return  the pool's keeper (real cave science's smiling cousin; it has been listening since before the Projection). | The waiting, soft |
+| HE45 | Fork Beetle | Taps its pronged antennae against the spire's facets to check pitch  the Enginekeeper's smallest apprentice; it has never found the Engine out of tune, and checks anyway (the checking is the devotion). | The tuning, small |
+| HE46 | Pitch Mice | The only creatures that answer the source: a small colony that sings the Engine's overtones back at it  the first congregation (the hum is not a monologue here). | The answer, tiny |
+| HE47 | Amber Firefly | Its soft amber light pulses in sine-smooth time with the hum  the chamber's visible metronome (the Steady Light law's smallest citizen). | The beat, glowing |
+| HE48 | The Moon Tadpole | Born in the Moon Pool the moment the Engine answers  the city's first new citizen since the creators left (the newest creature in a city of Echoes). | The answer, alive |
+
+**Engine egg pool (per the Species Law):** all six hatch from the district's content; the Moon Tadpole is the pool's rarest  SONG-RETURNS-GATED (hatches only when THE SONG RETURNS is complete  the main quest's completion begets the city's first new life; the gated-rare pattern holds: the game's deepest achievement becomes the game's newest pet).
+
 ### THE CELTIC HIGHLANDS (the Moorlands | 50 BPM quill-scratch | the Insular hand)
 
 | # | Critter | What It Does | Vibe |
