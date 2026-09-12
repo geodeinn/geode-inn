@@ -189,6 +189,20 @@ The world-map family's zones gain their KIT-C census. Per the Species Law, each 
 
 **Stillwater Shore egg pool (per the Species Law):** all six hatch from the district's content; the Lantern Squid is the pool's rarest  DEEP-PEARL-GATED (hatches only for players carrying the Deep Pearl  the Deep Ones' gift begets the Deep Ones' companion; the gated-rare pattern holds: the ocean's trust becomes its rarest pet).
 
+
+### HOLLOW EARTH  DISTRICT 7: THE HARBOR (the water door | 42Hz arriving | the guest's door)
+
+| # | Critter | What It Does | Vibe |
+|---|---------|-------------|------|
+| HE37 | Keel Fish | Follows every arriving boat in through the geode's mouth, nibbling the crystal growth off the hulls  the harbor's welcome wagon (the first face most guests see is a small shiny fish). | The arrival, attended |
+| HE38 | Mooring Mussel | The dock posts' clusters that thread loose lines down with their anchor-silk  the harbor's smallest stevedores; no boat drifts on their watch. | The moor, kept |
+| HE39 | Dockhand Rat | The crews' smallest stevedore  carries corks, untangles lines, never steals (it has been offered payment and declined, twice; the decline is the tip). | The helping, unpaid |
+| HE40 | Bilge Frog | Sings from the boats' bilge at exactly the deep hum  the harbor's smallest choir member (the Song's smallest carrier; it rides every boat at least once). | The hum, aboard |
+| HE41 | Harbor Porpoise | Escorts every arrival through the geode's mouth, always  the welcome made animal (what the Gate Echoes rehearse in crystal, the porpoise does in flesh, every single time, unasked). | The greeting, alive |
+| HE42 | The Ship's Cat | Has lived aboard every boat in the harbor at least once; boards politely, inspects the mooring, then stays  the guest's own greeter. | The door, kept warm |
+
+**Harbor egg pool (per the Species Law):** all six hatch from the district's content; the Ship's Cat is the pool's rarest  SOUTH-PATH-GATED (hatches only for players who arrived by the guest's door  the polite knock made companionable; the entry-gated pair is now complete with Vane's Fox (North), and the Dark Reaches owes the Deep Path's own).
+
 ### THE CELTIC HIGHLANDS (the Moorlands | 50 BPM quill-scratch | the Insular hand)
 
 | # | Critter | What It Does | Vibe |
