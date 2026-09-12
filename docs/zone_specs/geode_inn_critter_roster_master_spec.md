@@ -91,6 +91,20 @@ The world-map family's zones gain their KIT-C census. Per the Species Law, each 
 
 **Norse Coast egg pool (per the Species Law):** all six hatch from the zone's games; the Glacier Mouse is the pool's rarest  aurora-season spawn window only (the seasonal law's first living example).
 
+
+### THE STONE CIRCLES (the Instrument Zone | the lithophonic plain | the tone system's birthplace)
+
+| # | Critter | What It Does | Vibe |
+|---|---------|-------------|------|
+| S1 | Stonechat | The plain's timekeeper: a small dark-headed songbird whose call clicks like stone on stone  the zone's metronome (no quantize; it keeps human time). | The keep-beat bird |
+| S2 | Ripple Mouse | Rides the standing tones: when a stone rings, the mouse surfs the golden ripple like a wave. It is not harmed; it is DELIGHTED. | Joy in the sound |
+| S3 | Moss-Harp Beetle | Its mossy shell carries fine strung ridges like a tiny lyre; hums along with the circle's chord, adding its one soft harmonic. | The chord's smallest voice |
+| S4 | Echo Lark | Hovers at the circle's center and sings the chord back  the plain's only answering voice (the instrument's one reply). | The answer |
+| S5 | Litho-Toad | Sits in the bluestone's hollow and resonates, throat puffed in time with the tone  the stone's passenger resonator. | Living resonance |
+| S6 | Standstill Moth | A large pale silver moth, faint moon-marks on its wings, seen only in standstill years (the 18.6-year cycle's own creature). | The rarest appointment |
+
+**Stone Circles egg pool (per the Species Law):** all six hatch from the zone's games; the Standstill Moth is the pool's rarest  18.6-year spawn window only (the no-FOMO law at its deepest: a hatch most players never see, and that is its beauty).
+
 ### THE CELTIC HIGHLANDS (the Moorlands | 50 BPM quill-scratch | the Insular hand)
 
 | # | Critter | What It Does | Vibe |
