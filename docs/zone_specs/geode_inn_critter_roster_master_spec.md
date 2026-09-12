@@ -147,6 +147,20 @@ The world-map family's zones gain their KIT-C census. Per the Species Law, each 
 
 **Archive egg pool (per the Species Law):** all six hatch from the district's content; the Last Glowworm is the pool's rarest  TWELFTH-SHARD-GATED (hatches only for players carrying the Twelfth Shard Cast  the portable hope gets its own small companion; the gated-rare pattern holds: the district's deepest reward becomes its rarest pet).
 
+
+### HOLLOW EARTH  DISTRICT 4: THE CRYSTAL GROVES (the cathedral forests | 42Hz resonating through growth | the only living district)
+
+| # | Critter | What It Does | Vibe |
+|---|---------|-------------|------|
+| HE19 | Polish Beetle | Iridescent beetles that buff the fresh facets of new growth  the groves' ground crew; they cannot help it, and the crystal cannot grow without them. | Care, buffed bright |
+| HE20 | Grove Shrew | A velvet shrew that inspects every trunk's base for hairline cracks, all night, every night  the grove's night inspector (it reports to no one; the knowing is the job). | The rounds, kept |
+| HE21 | Chord Newt | Sings the note the young crystal cannot hold yet  the growth's singing teacher (the held chord's missing voices, provided). | The harmony, lent |
+| HE22 | Chime Weasel | Slides down the crystal trunks trailing soft chime-sparks  the grove's wind, embodied (it has never once climbed up; the sliding is the living). | Joy, descending |
+| HE23 | Ember Mole | Lives at the Wild's campfire edges, drawn to the warmth  the Wild's half-tame neighbor (tame enough to share the fire's ring, wild enough to keep its own hours). | The edge, kept warm |
+| HE24 | The Chronicle Snail | Its translucent crystal shell grows one faint ring per player visit  the grove's own guestbook, carried on a back (the only pet that gets bigger between visits, mirroring the Grove Chime). | Time, made visible |
+
+**Groves egg pool (per the Species Law):** all six hatch from the district's content; the Chronicle Snail is the pool's rarest  GROVE-CHIME-GATED (hatches only for players whose geode cave's Grove Chime has taken root  the item and the pet grow on the same clock; the gated-rare pattern holds: the district's slowest reward becomes its rarest pet).
+
 ### THE CELTIC HIGHLANDS (the Moorlands | 50 BPM quill-scratch | the Insular hand)
 
 | # | Critter | What It Does | Vibe |
