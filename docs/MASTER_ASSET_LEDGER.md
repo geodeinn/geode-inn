@@ -417,6 +417,19 @@ Class: ZONE/ENV masters  Zone home: the reward cave (the Main Floor mascot arc) 
 
 Class: CYCLE cast masters (1024px, for the crunch line: auto-slice  quantize 32 colors  64px frames  atlas)  Zone home: the Arcade (Phase 1 row)  Product home: the Arcade cards + the Godot builds  Source: original generation (the Tomb Tunnel line extended to its three flagship siblings; tri-mode held via the shadow rows  the 84Hz recolor class; the Andean cast matches its build sheet count exactly; MotD's rivals deliberately not repainted  the bestiary already holds them; consistent design language per game, clean silhouette legibility for the crunch). NOTE: 76 GAMES REMAIN after this parcel (Tier 1 first, per the build-sheet tier ranking). Files staged for the crunch line in docs/library/sprites/phase1/.
 
+### KIT-CAM: THE ANGLE-SET EXTENSION (class code CYCLE-CAM, canon 2026-09-12)
+
+The Camera Coverage Kit (docs/zone_specs/geode_inn_camera_coverage_kit.md) extends every CYCLE master with an ANGLE SET column. Angles belong to the class master; recolors inherit. Status below marks the angle set owed or held per subject class until painted:
+
+| Subject | Angle set owed | Status |
+|---------|----------------|--------|
+| The player character | 4-angle compass (back 3/4 first + best, true side, front, back) + the hand set (first-person overlays) | OWED (priority ruling: back-3/4 idle + walk first) |
+| High-traffic NPC residents (campfire cast, tavern, quest-givers) | 3-angle resident cut (front, front-3/4, side) | OWED |
+| The walkers (Postmaster, Bone Crew, door-keepers) | resident cut + back (route angle) | OWED |
+| The Griffin | distant only (3 poses)  never near | HELD (distance ruling) |
+
+The sprite crunch and all future extraction reference the Coverage Kit before cutting sheets.
+
 **THE SECOND CAST PARCEL (2026-09-11, twenty-sixth paint  the arcade owe, Tier 1 continues):**
 | Game | Cast sheet (CYCLE-class master) | URL |
 |------|-------------------------------|-----|
