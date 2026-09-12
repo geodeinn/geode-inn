@@ -77,6 +77,20 @@ The world-map family's zones gain their KIT-C census. Per the Species Law, each 
 
 **Forest egg pool (per the Species Law):** all six hatch from the zone's games; the Moss Fox is the pool's rarest (hatches only for players who have completed the Owl Watch  the fox follows the ones who learned to see).
 
+
+### THE NORSE COAST (the Aurora Thesis | the year as clock | Munch's pale nordic light)
+
+| # | Critter | What It Does | Vibe |
+|---|---------|-------------|------|
+| N1 | Lantern Eider | Eider ducks whose breast feathers hold a faint warm glow  the down that keeps nests warm, made visible. They winter on the fjord's quiet bays. | The warm thing on cold water |
+| N2 | Tide Otter | A sleek otter that stacks rune-marked pebbles into neat little cairns along the shore  the guestbook's keeper (the stones' marks are partly its work; the zone never says whose). | The shore's small librarian |
+| N3 | Sky-Smelt | Silver fish that leap during aurora displays, catching green light on their scales like sparks  they jump AT the light, never for food (the display feeds them too). | Applause made fish |
+| N4 | Glacier Mouse | A perfectly round moss ball that migrates slowly across the ice in herds (real glacier-mouse science: unexplained, gentle). Never explained in-game either. | The mystery that minds its business |
+| N5 | Herald Puffin | The shore's greeter: stands on the landing rock with one wing raised to arriving knarrs. Greets everyone the same  no rank on this shore. | Welcome with a beak |
+| N6 | Listener Seal | A smooth round seal that lies in the shallows with eyes closed, listening to the water's tone (the 42Hz family's shore observer). Never performative  it just listens. | The deep's ear at the surface |
+
+**Norse Coast egg pool (per the Species Law):** all six hatch from the zone's games; the Glacier Mouse is the pool's rarest  aurora-season spawn window only (the seasonal law's first living example).
+
 ### THE CELTIC HIGHLANDS (the Moorlands | 50 BPM quill-scratch | the Insular hand)
 
 | # | Critter | What It Does | Vibe |
