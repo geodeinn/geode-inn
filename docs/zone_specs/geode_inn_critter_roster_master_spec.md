@@ -119,6 +119,20 @@ The world-map family's zones gain their KIT-C census. Per the Species Law, each 
 
 **Crystal Approach egg pool (per the Species Law):** all six hatch from the district's content; Vane's Fox is the pool's rarest  NORTH PATH ENTRY-GATED (hatches only for players who arrived by the scholar's door  the entry law made pet-shaped; the South and Deep paths have their own rarities owed in their districts).
 
+
+### HOLLOW EARTH  DISTRICT 2: THE MARKET OF ECHOES (the settled city | 42Hz as infrastructure | the Song in the walls)
+
+| # | Critter | What It Does | Vibe |
+|---|---------|-------------|------|
+| HE7 | Tally Sparrow | Pecks stray tokens into neat rows on the counters  the market's accountant, and it will NOT stop until the rows are straight. Never steals. | The honest ledger |
+| HE8 | Barter Mouse | Trades shiny buttons for crumbs in the aisles' shadows  the market's smallest merchant (commerce was already old when the mice learned it, and they learned it anyway). | The smallest bargain |
+| HE9 | Crumb Beetle | Rolls perfect spheres of crumb home through the stalls (the Sisyphus family's relaxed market branch  same joke, smaller boulder). | Determination, roundly |
+| HE10 | Scale-Checker Frog | Sits in one pan of a balance and refuses to budge until both sides level  the fair-trade frog (the pond's law family: even the city's commerce answers to the court that croaks). | The level head |
+| HE11 | Hush Moth | Settles on the loudest frozen argument like punctuation  the Settled's mid-argument is held forever, and the moth holds the pause. | The quiet, kept |
+| HE12 | The Lost Magpie | A sleek magpie that collects the lost  and returns it. The Finders' own bird, deep-cousin by trade. | The found, brought back |
+
+**Market egg pool (per the Species Law):** all six hatch from the district's content; the Lost Magpie is the pool's rarest  LOST-CHAIN-GATED (hatches only for players who have finished the Lost faction's chain  the finder's reward for the ones who found them all).
+
 ### THE CELTIC HIGHLANDS (the Moorlands | 50 BPM quill-scratch | the Insular hand)
 
 | # | Critter | What It Does | Vibe |
