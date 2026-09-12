@@ -11,6 +11,7 @@
 4. [Salt's Craft Roles Across the Pillars](#4-salts-craft-roles-across-the-pillars)
 5. [The Alchemical Salt & The Staircase](#5-the-alchemical-salt--the-staircase)
 6. [Ritual, Language & Cultural Memory](#6-ritual-language--cultural-memory)
+6.5. [The Himalayan Thread: The Fossil Sea, Medicine, and Cleansing](#65-the-himalayan-thread-the-fossil-sea-medicine-and-cleansing)
 7. [Game Hooks & System Seeds](#7-game-hooks--system-seeds)
 8. [Summary: Why Salt is the Ultimate Cross-Craft Material](#8-summary-why-salt-is-the-ultimate-cross-craft-material)
 
@@ -90,6 +91,24 @@ Salt's physical indispensability etched it into ancient spiritual practices and 
 * **Salt Cellars as Status Objects**: Intricate metalwork masterpieces like Benvenuto Cellini's *Saliera* (1543) for Francis I displayed supreme royal wealth, authority, and artistic power at state banquets.
 
 ---
+
+---
+
+## 6.5 The Himalayan Thread: The Fossil Sea, Medicine, and Cleansing
+
+*(Added from Krista's thread, 2026-09-12 — the medicine-and-cleansing chapter of the salt story.)*
+
+**The true address.** "Himalayan" pink salt is the marketing name; the salt itself is mined at **Khewra** in Pakistan's **Salt Range** — the world's second-largest salt mine. The name is brand; the Salt Range is the place. The Range's deposits are evaporites: the salt of an ancient sea — the **Tethys** — that evaporated and was buried, then lifted into mountains. The pink is trace iron oxide: the fossil sea kept a blush of rust.
+
+**The fossil sea.** The lore gift: an ocean that dried hundreds of millions of years ago, turned to stone, and became a mountain range you can hold in your hand. The water zones' memory made mineral — the sea that stayed. Kin to the diatomaceous-earth thread (see the Hidden Materials dossier): both are ancient oceans you can buy by the bag.
+
+**Medicine and cleansing — the neutrality law's sort.**
+- **CLAIMS (modern wellness marketing, not archive cures):** salt lamps' health benefits; halotherapy (salt-cave spas) as treatment — unsupported by scientific evidence. The Inn cites them as modern legends of commerce, never as cures.
+- **MECHANISMS (real chemistry, the honest medicine):** **osmosis — salt draws water.** One law, many remedies: it preserves food by dehydrating bacteria; it draws infection in traditional poultices; it backs **saline nasal irrigation** (the neti pot descends from Ayurveda's *jala neti*); it is why a warm saltwater gargle soothes swollen tissue. The drawing principle. The folk use survives because the chemistry is real.
+
+**The sacred-room law strikes again.** Inside Khewra, miners built the **Badshahi Masjid** — a mosque of multi-colored salt brick inside the mining tunnels (a modern build, roughly fifty years old; the young cousin of Wieliczka's salt chapel) — plus the **Sheesh Mahal**, a "Palace of Mirrors" of pale-pink crystal, and **Pul-Saraat**, a salt bridge with no pillars over a deep brine pond. Give people any material and enough time, and they will make a sanctuary of it.
+
+**Game hooks (seed, not spec):** the fossil sea as a world-map lore node (a stone that was an ocean — the tide canon's mineral memory); the pink salt as a land-palette entry (trace iron = the blush); the salt-cellar as a PROP; a *jala neti*-style cleansing ritual as a pure-water craft entry; the CLAIMS list as a Modern Legends shelf candidate ("the lamp that promised").
 
 ## 7. Game Hooks & System Seeds
 
