@@ -161,6 +161,20 @@ The world-map family's zones gain their KIT-C census. Per the Species Law, each 
 
 **Groves egg pool (per the Species Law):** all six hatch from the district's content; the Chronicle Snail is the pool's rarest  GROVE-CHIME-GATED (hatches only for players whose geode cave's Grove Chime has taken root  the item and the pet grow on the same clock; the gated-rare pattern holds: the district's slowest reward becomes its rarest pet).
 
+
+### HOLLOW EARTH  DISTRICT 5: THE ROOTHOLD (the living architecture | 42Hz in WOOD | the Keeper's ground)
+
+| # | Critter | What It Does | Vibe |
+|---|---------|-------------|------|
+| HE25 | Ring-Turn Worm | Reads the roots' growth rings like a scholar reads pages  it has read every year the wood remembers, twice. | Time, read slowly |
+| HE26 | Knot Serpent | A tiny harmless snake that coils itself into the roots' elbow joints like fitted joinery  the living wood's own woodwork. | Joinery, alive |
+| HE27 | Trellis Bat | Hangs beneath the living root-trellises with wings wrapped like leaves  it thinks it is foliage (nobody corrects it). | The leaf that hangs |
+| HE28 | Sweetwater Mouse | Drinks the beads of rising sap at the root-flares  the district's connoisseur; follows the sweet grain like a sommelier follows a vineyard. | The vintage, sipped |
+| HE29 | Silver-Wood Beetle | Lives only in the shadow-state's silver-grey wood, tending it  the frozen wood has its own caretaker (the pause has a keeper; nothing here is abandoned). | The pause, kept |
+| HE30 | The Warden's Sprout | A tiny walking root-sapling that follows whom the Rootwarden tolerates  the Wild's trust, made pet-shaped (what the Warden allows, the sprout accompanies). | Trust, sprouting |
+
+**Roothold egg pool (per the Species Law):** all six hatch from the district's content; the Warden's Sprout is the pool's rarest  ROOTWARDEN-GATED (hatches only for players the Rootwarden has tolerated  the Lost chain's key made companionable; the gated-rare pattern holds: the district's deepest trust becomes its rarest pet).
+
 ### THE CELTIC HIGHLANDS (the Moorlands | 50 BPM quill-scratch | the Insular hand)
 
 | # | Critter | What It Does | Vibe |
