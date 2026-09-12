@@ -105,6 +105,20 @@ The world-map family's zones gain their KIT-C census. Per the Species Law, each 
 
 **Stone Circles egg pool (per the Species Law):** all six hatch from the zone's games; the Standstill Moth is the pool's rarest  18.6-year spawn window only (the no-FOMO law at its deepest: a hatch most players never see, and that is its beauty).
 
+
+### HOLLOW EARTH  DISTRICT 1: THE CRYSTAL APPROACH (the northern gate | 42Hz as rumor | the scholar's door)
+
+| # | Critter | What It Does | Vibe |
+|---|---------|-------------|------|
+| HE1 | Hum Mite | Crystal-dust motes that ride the 42Hz hum in the tunnel walls; they gather where the Song is loudest  the first life the player ever sees underground (the Song's confetti). | The hum made visible |
+| HE2 | Chime Spider | Delicate spiders whose webs are strung with crystal shards  each web is a tiny wind chime played by the gate's draft. They never leave their webs. | Patience with a soundtrack |
+| HE3 | Lamp Moth | Pale frost-white moths that followed the expedition lanterns' warmth the whole way down  the breadcrumbs' companions (Byrd's trail still walks itself, softly). | The trail's shadow |
+| HE4 | Glass Snail | Fully transparent snails with grown-crystal shells; you can watch the slow path of their thinking. They carry their own windows. | The unhurried |
+| HE5 | Rehearsal Mouse | Small grey mice that live among the Gate Echoes' feet and re-enact the welcome in miniature  the city's smallest rehearsers (they have kept the gesture alive at ground level). | The welcome, practiced small |
+| HE6 | Vane's Fox | The lean white arctic fox that followed the expedition down and never left  the only surface-born creature in the city, the scout's companion. | The door's own memory |
+
+**Crystal Approach egg pool (per the Species Law):** all six hatch from the district's content; Vane's Fox is the pool's rarest  NORTH PATH ENTRY-GATED (hatches only for players who arrived by the scholar's door  the entry law made pet-shaped; the South and Deep paths have their own rarities owed in their districts).
+
 ### THE CELTIC HIGHLANDS (the Moorlands | 50 BPM quill-scratch | the Insular hand)
 
 | # | Critter | What It Does | Vibe |
