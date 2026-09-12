@@ -133,6 +133,20 @@ The world-map family's zones gain their KIT-C census. Per the Species Law, each 
 
 **Market egg pool (per the Species Law):** all six hatch from the district's content; the Lost Magpie is the pool's rarest  LOST-CHAIN-GATED (hatches only for players who have finished the Lost faction's chain  the finder's reward for the ones who found them all).
 
+
+### HOLLOW EARTH  DISTRICT 3: THE ARCHIVE DISTRICT (the twelve records | 42Hz as TEXT | the only legible frequency)
+
+| # | Critter | What It Does | Vibe |
+|---|---------|-------------|------|
+| HE13 | Reading Moth | A soft moth whose wings carry faint script-like patterns; it lands on the shard you are reading and follows along (the archive's reading companion  it has heard every record twice). | The listener, winged |
+| HE14 | Chirp Cricket | A pale cave cricket that chirps exactly once when a record finishes playing  the archive's end-of-side marker (it is never early, never late). | The kept time |
+| HE15 | Shelf Salamander | An eyeless white cave salamander (real cave science, the stygobite family) that glides the shelf edges at night, straightening what leans  the quiet custodian; never disturbs a playing record. | Care without eyes |
+| HE16 | Springtail | Tiny pale jumpers that hop between shelf edges, always landing at the last-read shard  the living bookmark (the archive remembers where you stopped; the springtails ARE where you stopped). | The place you left |
+| HE17 | Archive Dove | The deep's only bird: a pale dove that carries single shards between rooms in its beak  the filing dove; the Echoes trust it absolutely. | The gentle courier |
+| HE18 | The Last Glowworm | A single small glowworm whose steady amber light never dims  the one light that stays on after the hall settles. The twelfth record's hearth. | Hope, kept lit |
+
+**Archive egg pool (per the Species Law):** all six hatch from the district's content; the Last Glowworm is the pool's rarest  TWELFTH-SHARD-GATED (hatches only for players carrying the Twelfth Shard Cast  the portable hope gets its own small companion; the gated-rare pattern holds: the district's deepest reward becomes its rarest pet).
+
 ### THE CELTIC HIGHLANDS (the Moorlands | 50 BPM quill-scratch | the Insular hand)
 
 | # | Critter | What It Does | Vibe |
