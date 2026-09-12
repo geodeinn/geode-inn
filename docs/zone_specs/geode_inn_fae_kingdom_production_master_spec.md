@@ -114,7 +114,14 @@ The Kingdom's screens to the web beta: hub, six realms, the queens' spaces, the 
 
 ---
 
-## WHAT THIS PLAN ASKS KRISTA TO RULE ON
+## THE RULINGS (all five RULED, Krista, 2026-09-11 night)
+1. **The parcel order**  RULED CONFIRMED: residents -> UI -> scenes -> reveal.
+2. **The quest-scene cut**  RULED CONFIRMED: the 8 flagship moments stand.
+3. **The Griffin's distance**  RULED CONFIRMED: 3 distant poses, never near.
+4. **The UI's reputation bar**  RULED CONFIRMED: one bar, two directions.
+5. **First session**  RULED CONFIRMED: Parcel 1 opened same night.
+
+## WHAT THIS PLAN ORIGINALLY ASKED KRISTA TO RULE ON
 
 1. **The parcel order** — residents -> UI -> scenes -> reveal. Confirm or reorder.
 2. **The quest-scene cut** — the 8 flagship moments proposed (the "only if called" ruling, called by plan). Confirm the list or trim it.
