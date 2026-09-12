@@ -49,7 +49,7 @@ The ComicStrip entity already exists in the database. The system uses it as foll
   ]
   ```
 - `characters`: array of all characters appearing in the strip
-- `playerAdventures`: boolean — whether this strip is based on a real player event
+- `playerAdventures`: string — text describing the player event that inspired the strip; `None — NPC feature (<name>)` for pure-NPC strips (LIVE SCHEMA RULING, 2026-09-12: the live Geode Inn app validates this and `panelImageUrl` as STRINGS — `panelImageUrl` holds the panel URLs comma-separated; matched to the builder/page specs)
 - `zone`: the primary zone of the strip
 - `artStyle`: the primary art style
 - `imageUrl`: the rendered comic strip image
