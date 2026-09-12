@@ -217,6 +217,20 @@ The world-map family's zones gain their KIT-C census. Per the Species Law, each 
 
 **Engine egg pool (per the Species Law):** all six hatch from the district's content; the Moon Tadpole is the pool's rarest  SONG-RETURNS-GATED (hatches only when THE SONG RETURNS is complete  the main quest's completion begets the city's first new life; the gated-rare pattern holds: the game's deepest achievement becomes the game's newest pet).
 
+
+### HOLLOW EARTH  DISTRICT 9: THE DARK REACHES (the underbelly | 42Hz's shadow-side | the overtones)
+
+| # | Critter | What It Does | Vibe |
+|---|---------|-------------|------|
+| HE49 | Beat Beetle | Its carapace carries the shifting moiré of the interference patterns  it lives only where the overtones collide (real wave science: where tones cross, the beetle is; the shadow-side's cartographer). | The crossing, worn |
+| HE50 | Harmonic Cricket | A blind pale cricket that navigates the Reaches by the overtones alone  the Deep Path's way made creature (it has never seen the threshold it crosses daily). | The path, unlit |
+| HE51 | Pale Darter | The eyeless, pigmentless fish of the outcasts' pools (real troglomorphic science)  it lives where light is finished, and thrives (the dark was never the problem; the light was the guest). | The dark, inhabited |
+| HE52 | Vigil Rat | Sits with the petrified figures one by one, through the nights, so that none of them is alone  the keeping made animal (the rounds are walked; the company is the care). | The company, kept |
+| HE53 | Gap Frog | Sings only in the silences BETWEEN the Engine's tones  the overtones' own musician (the Reaches' native sound: the shadow-side, sung). | The gap, sung |
+| HE54 | The Songbat | A small pale blind bat with enormous ears that SEES the Song  the Deep Path's own companion; it navigates total darkness by frequency, perfectly, and it is not afraid. | The dark, sung through |
+
+**Dark Reaches egg pool (per the Species Law):** all six hatch from the district's content; the Songbat is the pool's rarest  DEEP-PATH-GATED (hatches only for players who ENTERED by the Deep Path, the Reaches' own door  the ones who navigated pure darkness by Song earn the bat that navigates by Song; THE ENTRY-GATE TRIAD IS COMPLETE: Vane's Fox (North/scholar), the Ship's Cat (South/guest), the Songbat (Deep/carrier)  three doors, three rarest pets, each remembering how its player came in).**
+
 ### THE CELTIC HIGHLANDS (the Moorlands | 50 BPM quill-scratch | the Insular hand)
 
 | # | Critter | What It Does | Vibe |
