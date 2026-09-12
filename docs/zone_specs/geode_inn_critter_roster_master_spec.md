@@ -175,6 +175,20 @@ The world-map family's zones gain their KIT-C census. Per the Species Law, each 
 
 **Roothold egg pool (per the Species Law):** all six hatch from the district's content; the Warden's Sprout is the pool's rarest  ROOTWARDEN-GATED (hatches only for players the Rootwarden has tolerated  the Lost chain's key made companionable; the gated-rare pattern holds: the district's deepest trust becomes its rarest pet).
 
+
+### HOLLOW EARTH  DISTRICT 6: THE STILLWATER SHORE (the underground ocean's edge | 42Hz in WATER | the Monet and Dor layers)
+
+| # | Critter | What It Does | Vibe |
+|---|---------|-------------|------|
+| HE31 | Stygobite Shrimp | The transparent eyeless shrimp of the shallows (real anchialine science, the Below-Court's smallest member)  it senses the water's every meaning without eyes; it has never needed them. | Knowing, unseeing |
+| HE32 | Pale Crab | Molts exactly on the tide's cycle  its old shell lifts at each turning (the cycle's calendar, worn on the body; Persephone's family, adapted). | The calendar, molting |
+| HE33 | Bell Medusa | Its slow pulse IS the tide's breathing  the underwater heartbeat, visible and gentle (when the tide hangs mid-turn, the medusa hangs too). | The water, breathing |
+| HE34 | Glass Minnow | Fully transparent  you see the water's shimmer THROUGH its body (the water's way of showing you itself, in miniature). | The shimmer, embodied |
+| HE35 | Pilgrim Eel | The long traveler that arrives at the shore at every turning, raises its head, and goes back down  the tide's returning pilgrim; nobody knows where it goes. The arriving is the visit. | The returning |
+| HE36 | Lantern Squid | A tiny squid carrying a soft steady amber light that never dims in dark water  the companion the ocean sends with the ones it trusts. | Trust, lit |
+
+**Stillwater Shore egg pool (per the Species Law):** all six hatch from the district's content; the Lantern Squid is the pool's rarest  DEEP-PEARL-GATED (hatches only for players carrying the Deep Pearl  the Deep Ones' gift begets the Deep Ones' companion; the gated-rare pattern holds: the ocean's trust becomes its rarest pet).
+
 ### THE CELTIC HIGHLANDS (the Moorlands | 50 BPM quill-scratch | the Insular hand)
 
 | # | Critter | What It Does | Vibe |
