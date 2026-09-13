@@ -3,6 +3,12 @@
 **Source:** Google Drive → Geode Inn → Zones → zones (121 files) + jpegs (212 files)
 **Compiled:** 2026-09-09 by Elio | **Total: 333 files — 295 images, 38 videos**
 
+## RECLASSIFICATION (2026-09-12 night, Krista's ruling)
+
+**THE ZONES BATCH (295 zone images + 38 videos) = THE HISTORICAL REFERENCE ARCHIVE, not game art.** These are the renders from the earlier animation program (pre-Undercity, pre-rename sweep) — the zones have changed names and gained new masters since. They do NOT upload as canonical zone art; they stay in Drive untouched, logged as architectural history (the Hall of Unfinished Designs' motion wing). The walkthrough videos' camera routes remain reference for the Coverage Kit's camera modes. The five collaborative-review rulings of 2026-09-12 (summerlands, alembic, throne, cosmology, catacombs) stand as each set's ARCHIVE REPRESENTATIVE stills.
+
+**THE LIVE UPLOAD QUEUE = the character JPEGs + the 36 unidentified files (sorting with Krista, in progress).**
+
 ## Status Summary
 
 - Name-matching: DONE for all named files (canonical map below)
