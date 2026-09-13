@@ -32,7 +32,7 @@
 
 - fae set: RULED 2026-09-12 (Krista, collaborative review) — canonical = "zone_fae_summerlands.jpg" (the more in-depth render). "fae summerlands.jpg" / "summerlands.jpg" / "fae_summerlands_mid.jpg" = byte-identical copies (md5 3797c44), NOT uploaded as canonical; originals remain safe in Drive. Video "summerlands 1.mp4" queued as-is.
 - staircase set: RULED 2026-09-12 (Krista, collaborative review) — canonical = "st_alembic_window.jpg" (same image at a lower camera height with more detail of the copper tool; the zone_ variant is the same scene from higher, less detail — not uploaded as canonical; originals remain in Drive). Video "staircase - alembic window 1.mp4" queued as-is. NOTE: Krista ruled both frames are the same image at different camera heights; the byte-different copies of the keeper (alembic window.jpg / st_alembic_window_mid.jpg) are identical bytes to the canonical and stay in Drive, unuploaded.
-- allfather set: "zone_up_allfathers_throne.jpg" / "up_allfathers_throne.jpg" / "allfathers throne.jpg" / "allfather's throne 1.mp4"
+- allfather set: RULED 2026-09-12 (Krista, collaborative review) — canonical = "zone_up_allfathers_throne.jpg" (B, third 'more detail' ruling in a row — the pattern is now the rule of thumb: the richer frame is canonical). The "up_allfathers_throne / _mid / allfathers throne" byte-identical copies stay in Drive, unuploaded. Video "allfather's throne 1.mp4" queued as-is.
 - cosmology set: "up_cosmology_mural.jpg" / "cosmology mural.jpg" / "cosmology ceiling mural 1.mp4"
 - catacombs set: "catacombs 1.jpg"–"catacombs 8.jpg" + "Catacombs 1-1.mp4"–"catacombs 8-1.mp4" (numbered walkthrough, jpegs pair with videos)
 
