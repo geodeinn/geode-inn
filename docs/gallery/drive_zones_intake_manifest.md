@@ -401,7 +401,7 @@
 ## SHEET 4 CLAIMED — THE MYSTERY36 INTAKE IS FULLY SORTED (2026-09-12 night)
 - S37 — Evan image → https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/d771093a7_evan_image_13.jpg
 - S38 — Evan image → https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/57c24c717_evan_image_14.jpg
-- S39 — KRISTA'S FAVORITE: the Evan image where a skeleton grabs his butt and he goes 'OI!' → https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/57b198437_evan_favorite_skeleton_oi.jpg — the Bone Crew's finest candid. Flagged as the favorite in the ledger.
+- S39 — KRISTA'S FAVORITE + THE FROGLODYTE POSTER (ruling, 2026-09-12): the Evan image where a skeleton grabs his butt and he goes 'OI!' → https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/57b198437_evan_favorite_skeleton_oi.jpg — DESIGNATED as the art for the Inn's community-moderation PSA: the "DON'T BE A FROGLODYTE" poster. The reading: unwanted contact gets the 'oi!', three ois get the frog court, Judge Tootenkowl presides. The PSA law holds — the poster never scolds, it makes the player laugh while teaching the boundary (Whimsical-Macabre + Anti-Skinner in one frame; the moderation system's only instructional art that is also a family in-joke). Placement: campfire commons + Campgrounds notice boards + the frog court's own wall.
 - S40 — BABY DRAGON COMIC #4 → https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/9dc7458d1_baby_dragon_comic_04.jpg
 - S41 — Evan image → https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/427defde0_evan_image_15.jpg
 
