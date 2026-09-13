@@ -363,7 +363,16 @@
 - S10 — a sad sprite (Krista's claim) → Uploaded: https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/706d80f53_sad_sprite.jpg — placement pending (which sprite's sad day?)
 - S11 — a comic panel (Krista's claim) → Uploaded: https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/9249f2e4b_comic_panel_unplaced.jpg — which strip/moment, Krista's call
 - S12 — BAST (Krista's claim) → the sistrum's own gets a portrait (Bastet's Herding canon). Uploaded: https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/fbbc6a6e3_bast_character.jpg — canonical candidate
-- S08, S13–S41 — awaiting Krista's eyes (sheets 2-4)
+- S13 — THE CEILING GNOME (Krista's claim) → Uploaded: https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/a74c7a8f7_ceiling_gnome.jpg — canonical candidate
+- S14, S16, S19, S22, S23, S24 — EVAN'S IMAGES for zones and characters (Krista's claim) → Uploaded:
+  - S14: https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/6b4ef7045_evan_zone_character_art_01.jpg
+  - S16: https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/835010bbb_evan_zone_character_art_02.jpg
+  - S19: https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/db9c72bf3_evan_zone_character_art_03.jpg
+  - S22: https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/28fc28d8a_evan_zone_character_art_04.jpg
+  - S23: https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/f3aec8792_evan_zone_character_art_05.jpg
+  - S24: https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/4d4e0cf82_evan_zone_character_art_06.jpg
+  - Placement: historical side (zones changed since Evan's batch — same family as the animation-program archive) unless Krista flags a current keeper; character images may still be live — flag any
+- S08, S15, S17, S18, S20, S21, S25–S41 — awaiting Krista's eyes (sheets 2-4)
 
 ## ORIGINAL UNIDENTIFIED (superseded count)
 
