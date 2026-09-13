@@ -74,6 +74,20 @@ Gothic vaulting (the structural frame) covered with Celtic interlace (the orname
 
 ---
 
+## THE GRAIL'S GUARDIANS — The Templar Thread (CANON, Krista's ruling 2026-09-13: "not just essential but a great thread")
+
+The poets already ruled this, centuries before we did: Wolfram von Eschenbach's Parzival (c. 1210) names the Grail castle's guardians "Templeise" — Templars. The medieval writers looked at the order and reached the same conclusion the Witan just did: that is exactly who you put in charge of the thing the story cannot let the crown have. The Inn adopts the poets' ruling as canon.
+
+**The history the thread carries:** a transnational order with its own courts, exempt from taxes, loyal to a rule rather than any crown, and creditor to kings — the rival-jurisdiction problem in a white mantle. Philip IV of France, owing them more than France could repay, dissolved them instead on Friday, October 13th, 1307 (arguably the origin of the whole unlucky-13 superstition). Never kill your lender unless you're the king. The order that DID survive — the Hospitallers — still exists as the Order of Malta: sovereign, passport-issuing, never having overthrown anyone, having simply outlasted everyone. One became a speed bump; the other became the story's hospital.
+
+**The Inn's image:** the Grail in the final room is a cup nobody has touched in a very long time — and now the zone knows WHY. Its guardians were dissolved, not defeated. The cup waits. The stillness is not abandonment; it is the discipline of an order that ended on a Friday and never stopped keeping the thing it was given to keep. The quest for stillness is unchanged — the player who stops looking still wins — but the history under the cup is now load-bearing.
+
+**The Moldavite bridge:** the Czech Grail-stone legend (the green stone said to have fallen from the sky) lives at Moldavite's Perch in Cosmology. One Grail, two addresses: the cup that rests (Camelot's table) and the stone that fell (the Perch). The fallen stone is the Grail of the sky; the untouched cup is the Grail of the table. The two zones are now linked by legend — the perch and the final room tell each other's story across the whole tree.
+
+**The law that rides along (Krista's observation, 2026-09-13):** the cultures with truly distinct traits — Roma, Jewish, and now the armored case, the Templars — are the ones that carry the target: governments whose goal is to separate freedom of thought from its carriers. The Grail thread is Camelot's chapter of that law: the order destroyed for being a jurisdiction the crown couldn't tax, holding the story the crown couldn't own.
+
+**Open gates for the Witan:** (1) whether a guardian echo ever appears in the final room — a dissolved order's last presence, never named; (2) the in-game carrier of the Grail-stone legend between the Perch and the final room (a door, a song, the Wanderer's telling).
+
 ## CONNECTIONS
 
 | Connection | Detail |
