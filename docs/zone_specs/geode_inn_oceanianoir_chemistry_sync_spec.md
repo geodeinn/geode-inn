@@ -70,8 +70,8 @@ The chemistry section is where the Inn stops treating matter as scenery: every e
 ## RULINGS NEEDED (the gates)
 
 1. THE SPINE RULING: ✅ RULED YES (Krista, 2026-09-12: "Everything branches from the periodic tables. It makes sense for her section to become the spine.") — THE SPINE LAW is canon: Oceanianoir's chemistry section is the curricular spine of all material threads. Every Hidden Materials dossier, firing technique, instrument build, pigment reading, and elemental sprite routes through the bench. The spec's one-sentence thesis enters the Project Bible. All eight gaps in this spec are now live canon.
-2. THE 32,768 QUESTION: does quartz's oscillator frequency enter the Inn's frequency canon formally, or stay a teaching example in the horology wing?
+2. THE 32,768 QUESTION: ✅ RULED (Krista, 2026-09-12: "the quartz should stay at its own beat") — 32,768 Hz does NOT enter the formal frequency canon. It remains a teaching example in the Clockmaker's horology wing, humming at its own beat: the world's silent standard, a guest in the building, not family. The canon (7.83 / 42 / 50 / 84 / 111 / 432) keeps its organic membership; the one pure power-of-two stays outside, keeping its own time — which is, itself, the lesson: quartz doesn't need to join anything to be exact.
 3. THE CHAIN AMENDMENT: the three crossing points between the Atlantis chain and her questline (as drafted in Gap 1) — do they pass as written?
 4. THE SPRITE PASS: the per-element identities of the six sprites stay parked until the section's own design session (this spec does not rule them).
 
-**Status: THE SPINE LAW RULED CANON (2026-09-12) — all eight gap-wirings live. Remaining open gates: 2 (the 32,768 question), 3 (the chain crossing points), 4 (the sprite pass — parked by design).**
+**Status: THE SPINE LAW RULED CANON (2026-09-12) — all eight gap-wirings live. Gate 2 ruled same night: the quartz keeps its own beat (teaching example only, no canon seat). Remaining open gates: 3 (the chain crossing points), 4 (the sprite pass — parked by design).**
