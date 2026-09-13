@@ -3,7 +3,7 @@
 <head>
 <meta charset="utf-8"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>The Geode Inn — Inner Tree Blueprint (Draft v0.1)</title>
+<title>The Geode Inn — Inner Tree, The Progress Space (v0.2)</title>
 <style>
   body { margin:0; background:#140d07; color:#d8b36a; font-family: Georgia, 'Times New Roman', serif; overflow:hidden; }
   #panel { position:fixed; top:12px; left:12px; background:rgba(20,13,7,.88); border:1px solid #7a5a2e; border-radius:10px; padding:14px 18px; max-width:250px; }
@@ -19,9 +19,11 @@
 <body>
 <div id="panel">
   <h1>The Geode Inn — Inner Tree</h1>
-  <div class="note">Draft blueprint v0.1 · the cylinder is the Silo shaft · the spiral is the West Staircase · the spokes are the roads out · every room position is a draft, awaiting the Witan.</div>
+  <div class="note">The Progress Space — v0.2 · the cylinder is the Silo shaft · the spiral is the West Staircase · the spokes are the roads out · every room position is a draft, awaiting the Witan.</div>
   <div id="layers"></div>
+  <div id="tally" style="margin-top:8px;font-size:11px;color:#a08350;border-top:1px solid #4a3620;padding-top:6px;"></div>
 </div>
+<div id="legend" style="position:fixed;bottom:10px;left:12px;font-size:11px;color:#8a6d3f;line-height:1.5;"></div>
 <div id="tip"></div>
 <div id="hint">drag to orbit &nbsp;·&nbsp; scroll to zoom &nbsp;·&nbsp; hover a room for its name</div>
 <div id="err"></div>
@@ -49,42 +51,42 @@ const TREE = {
   levels: [
     { id:'cosmology', name:'Cosmology (Upstairs)', y: 21,
       spokes:[
-        { angle: 30,  len: 12, rooms:[{ name:"The Allfather's Perch", size:5 }]},
-        { angle: 205, len: 10, rooms:[{ name:'The Lighthouse (The Owl)', size:4 }]}
+        { angle: 30,  len: 12, rooms:[{ name:"The Allfather's Perch", size:5, status:'draft' }]},
+        { angle: 205, len: 10, rooms:[{ name:'The Lighthouse (The Owl)', size:4, status:'draft' }]}
       ]},
     { id:'clockwork', name:'Clockwork Skies', y: 14,
       spokes:[
-        { angle: 95,  len: 11, rooms:[{ name:'The Workshop', size:4.5 }]},
-        { angle: 250, len: 9,  rooms:[{ name:'The Blue Box Alcove', size:3 }]}
+        { angle: 95,  len: 11, rooms:[{ name:'The Workshop', size:4.5, status:'draft' }]},
+        { angle: 250, len: 9,  rooms:[{ name:'The Blue Box Alcove', size:3, status:'spec' }]}
       ]},
     { id:'campgrounds', name:'Campgrounds', y: 7,
       spokes:[
-        { angle: 0,   len: 13, rooms:[{ name:'The Campfire Commons', size:5 }]},
-        { angle: 140, len: 12, rooms:[{ name:'The Player Plots', size:6 }]},
-        { angle: 265, len: 11, rooms:[{ name:'The Drum Circle (Seven Sisters)', size:4.5 }]}
+        { angle: 0,   len: 13, rooms:[{ name:'The Campfire Commons', size:5, status:'spec' }]},
+        { angle: 140, len: 12, rooms:[{ name:'The Player Plots', size:6, status:'draft' }]},
+        { angle: 265, len: 11, rooms:[{ name:'The Drum Circle (Seven Sisters)', size:4.5, status:'draft' }]}
       ]},
     { id:'mainfloor', name:'Main Floor', y: 0,
       spokes:[
-        { angle: 60,  len: 12, rooms:[{ name:'The Artisan Market', size:5 }]},
-        { angle: 130, len: 13, rooms:[{ name:'The Arcade', size:6 }]},
-        { angle: 200, len: 11, rooms:[{ name:'The Bar (#33 Mensinthe)', size:4 }]},
-        { angle: 300, len: 12, rooms:[{ name:'The Archive Stacks', size:5 }]},
-        { angle: 340, len: 10, rooms:[{ name:"Joe's Table", size:4 }]}
+        { angle: 60,  len: 12, rooms:[{ name:'The Artisan Market', size:5, status:'spec' }]},
+        { angle: 130, len: 13, rooms:[{ name:'The Arcade', size:6, status:'live' }]},
+        { angle: 200, len: 11, rooms:[{ name:'The Bar (#33 Mensinthe)', size:4, status:'spec' }]},
+        { angle: 300, len: 12, rooms:[{ name:'The Archive Stacks', size:5, status:'spec' }]},
+        { angle: 340, len: 10, rooms:[{ name:"Joe's Table", size:4, status:'draft' }]}
       ]},
     { id:'catacombs', name:'The Catacombs', y: -9,
       spokes:[
-        { angle: 30,  len: 11, rooms:[{ name:'The Bone Room', size:4.5 }]},
-        { angle: 170, len: 12, rooms:[{ name:'The Catacomb Roads', size:5 }]},
-        { angle: 305, len: 10, rooms:[{ name:'Mausoleum Row', size:4 }]}
+        { angle: 30,  len: 11, rooms:[{ name:'The Bone Room', size:4.5, status:'spec' }]},
+        { angle: 170, len: 12, rooms:[{ name:'The Catacomb Roads', size:5, status:'spec' }]},
+        { angle: 305, len: 10, rooms:[{ name:'Mausoleum Row', size:4, status:'draft' }]}
       ]},
     { id:'undercity', name:'The Undercity', y: -18,
       spokes:[
-        { angle: 100, len: 12, rooms:[{ name:"The Clockmaker's Shop", size:4 }]},
-        { angle: 230, len: 13, rooms:[{ name:"Charon's Crossing (84Hz)", size:5 }]}
+        { angle: 100, len: 12, rooms:[{ name:"The Clockmaker's Shop", size:4, status:'draft' }]},
+        { angle: 230, len: 13, rooms:[{ name:"Charon's Crossing (84Hz)", size:5, status:'draft' }]}
       ]},
     { id:'bedrock', name:'Bedrock Fortress', y: -26,
       spokes:[
-        { angle: 315, len: 10, rooms:[{ name:'The Bedrock Fortress', size:5 }]}
+        { angle: 315, len: 10, rooms:[{ name:'The Bedrock Fortress', size:5, status:'spec' }]}
       ]}
   ]
 };
@@ -108,6 +110,11 @@ controls.dampingFactor = 0.06;
 controls.target.set(0, -2, 0);
 
 const GOLD = 0xd4a04c, DIM = 0x7a5a2e, EMBER = 0xe9c87e, FAINT = 0x4a3620;
+const STATUS = {
+  live:  { color: EMBER,    edge: 1.0, fill: .16, label: 'LIVE — built, in the web beta' },
+  spec:  { color: GOLD,     edge: .8,  fill: .09, label: 'SPEC — paperwork done, awaiting builders' },
+  draft: { color: 0x6b4f28, edge: .55, fill: .05, label: 'DRAFT — concept only, awaiting spec' }
+};
 
 /* ---------- label sprites ---------- */
 function makeLabel(text, scale=1){
@@ -203,10 +210,12 @@ for (const level of TREE.levels){
       const rg = new THREE.BoxGeometry(s, s*0.8, s);
       const rm = new THREE.Mesh(rg, new THREE.MeshBasicMaterial({ color:GOLD, transparent:true, opacity:.09 }));
       rm.position.set(dir.x*(R + spoke.len + s/2 + 0.5), 0, dir.z*(R + spoke.len + s/2 + 0.5));
-      rm.userData = { name: room.name, level: level.name };
+      rm.userData = { name: room.name, level: level.name, status: (STATUS[room.status]||STATUS.draft).label };
       lg.add(rm);
       roomMeshes.push(rm);
-      const rl = new THREE.LineSegments(new THREE.EdgesGeometry(rg), new THREE.LineBasicMaterial({ color:EMBER, transparent:true, opacity:.9 }));
+      const st = STATUS[room.status] || STATUS.draft;
+      rm.material.opacity = st.fill;
+      const rl = new THREE.LineSegments(new THREE.EdgesGeometry(rg), new THREE.LineBasicMaterial({ color:st.color, transparent:true, opacity:st.edge }));
       rl.position.copy(rm.position);
       lg.add(rl);
       const lbl = makeLabel(room.name, .8);
@@ -259,9 +268,20 @@ addEventListener('pointermove', (e) => {
     tip.style.display = 'block';
     tip.style.left = (e.clientX + 14) + 'px';
     tip.style.top = (e.clientY + 14) + 'px';
-    tip.textContent = d.name + '  ·  ' + d.level;
+    tip.textContent = d.name + '  ·  ' + d.level + '  ·  ' + d.status;
   } else tip.style.display = 'none';
 });
+
+/* ---------- legend + tally ---------- */
+{
+  const legend = document.getElementById('legend');
+  let html = '';
+  for (const k of ['live','spec','draft']){ html += '<span style="color:#' + STATUS[k].color.toString(16).padStart(6,'0') + '">' + String.fromCharCode(9632) + '</span> ' + STATUS[k].label + '<br/>'; }
+  legend.innerHTML = html;
+  let live=0, spec=0, draft=0;
+  for (const lv of TREE.levels) for (const sp of lv.spokes) for (const r of sp.rooms){ if(r.status==='live')live++; else if(r.status==='spec')spec++; else draft++; }
+  document.getElementById('tally').textContent = 'The count: ' + live + ' live \u00b7 ' + spec + ' spec\u2019d \u00b7 ' + draft + ' draft \u2014 of the seeded rooms (the full roster still to come)';
+}
 
 /* ---------- the heartbeat: a slow sine, 50 BPM, Steady Light ---------- */
 const clock = new THREE.Clock();
