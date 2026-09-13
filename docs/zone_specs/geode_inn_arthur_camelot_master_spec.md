@@ -88,6 +88,17 @@ The poets already ruled this, centuries before we did: Wolfram von Eschenbach's 
 
 **Open gates for the Witan:** (1) whether a guardian echo ever appears in the final room — a dissolved order's last presence, never named; (2) the in-game carrier of the Grail-stone legend between the Perch and the final room (a door, a song, the Wanderer's telling).
 
+## THE CELTIC WEB UNDER CAMELOT — One Grail, Two Bloodlines (CANON, Krista's ruling 2026-09-13: "Let's write this web in, good and proper")
+
+The web Krista spotted: Camelot was furnished from the inside by Celts who then got written off the guest list. The web is now load-bearing:
+
+- **THE GRAIL'S FIRST BLOODLINE — THE DAGDA'S CAULDRON.** The Grail's oldest ancestor is the Tuatha vessel: the Dagda's cauldron, the never-empty bowl from which no one leaves unsatisfied. The poets took a Celtic pot, plated it in legend (and in Wolfram, gave it Templar guards) — and the Grail canonized this morning stands on a foundation nobody in Camelot ever names. One Grail, two bloodlines: the cauldron that never empties (the Tuatha's) and the cup that never empties (the quest's). The Inn holds both and lets them recognize each other.
+- **AVALON IS AN OTHERWORLD ADDRESS.** The isle Arthur is carried to for healing is the same water-crossed country as Annwn — the Wild Hunt's home ground, the sídhe's neighborhood. Camelot's ending and the Fae Kingdom's geography share a shoreline. Where does the boat go? Ask the hounds that stayed.
+- **ARTAIR'S TONGUE.** Already canon in the quest chain: the boy speaks Scottish Gaelic before the crown Latinizes him. The web's reading: Arthur's story is a Celtic boy whose story got retold in conquerors' languages — the name changes when the crown completes it (Artair → Artorios → "Arthur," the name legends wear). The Celtic Highlands and Camelot point at each other across the tree.
+- **THE SNEAKY LITTLE CELTS (Krista's phrase, kept).** The pattern the web reveals: the Celts built Camelot from the inside — the vessel, the isle, the boy's tongue, the solstice mounds under half its chapels — and were then edited out of the record by later tellers. The Inn's neutrality law does what it always does: the Archive holds BOTH tellings, and the web between them is the lesson. Camelot is not lessened by its Celtic foundation; it is the Grail question again — the story outlived everyone who tried to own it, and the quietest hands that carried it were the ones nobody credited.
+
+**Ties:** the Dagda (Celtic depth seed — his cauldron and his harp both made the crossing into Camelot's furniture); Annwn and the Wild Hunt (the Hearth-Hound legend — the hound that stayed guards the door to the same isle); Newgrange's roofbox (the original portal — the same Otherworld the boat crosses to); the Templar thread (the armored guardians of a vessel older than their order by three thousand years).
+
 ## CONNECTIONS
 
 | Connection | Detail |
