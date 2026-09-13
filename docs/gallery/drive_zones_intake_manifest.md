@@ -394,7 +394,7 @@
 
 **NOTES ON THE BATCH:**
 - THE BABY DRAGON COMICS (S25, S27, S35, S40): four strips — the mascot has a comic run (predating the Gazette's first strip). KRISTA'S RULING (2026-09-12): full blessing, "whatever direction they go" — the run is canon with its direction left open. Titles may come in their own time (the mascot names its own strips, like everything else here).
-- THE SPRITE SET now numbers six (S15, S17, S18, S20, S26, S34): placement question pending for the set.
+- THE SPRITE SET (S15, S17, S18, S20, S26, S34) — PLACEMENT RULED (Krista, 2026-09-12): these are NOT one-game assets. They are the GAME CAST'S walking forms — sprites of the arcade cast, appearing ALL OVER THE BOARD (every game the cast walks through, the hub, wherever the cast goes). The set's address is the whole board, not a room. Remaining question per sprite is identity (whose walking form), not placement — and per the REC law the class serves both ambient and gameplay rendering.
 - EVAN'S COLLECTION grows to twelve images (S01, S04, S06, S07, S09 + S08, S28, S29, S32, S33, S36 + the S14 comic). The Archivist's art library is real and it's big.
 - BAST holds two portraits (S12 full + S30 kitty) and MEDUSA has card art (S31) — both canonical candidates.
 
