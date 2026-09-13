@@ -359,7 +359,8 @@
 - S07 — Archivist prototype, bone critter #4 → Hall of Unfinished Designs. Uploaded: https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/2f2562416_archivist_prototype_bone_critter_04.jpg
 - S09 — Archivist prototype, bone critter #5 → Hall of Unfinished Designs. Uploaded: https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/857643ac8_archivist_prototype_bone_critter_05.jpg
 - S03 — the escaped critter popping out of the floor in a STOLEN POPE HAT (Krista's ID complete) → Uploaded: https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/87229b70d_escaped_critter_stolen_pope_hat.jpg — canonical status pending (which critter is it? the hat's owner untraced)
-- S05, S08, S10–S41 — awaiting Krista's eyes (sheets 2-4)
+- S05 — a really lovely ENT character (Krista's claim) → the Fae Kingdom roster's ent gets its portrait. Uploaded: https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/a6aacc79d_fae_ent_character.jpg — canonical candidate (class master vs. named resident: Krista's call)
+- S08, S10–S41 — awaiting Krista's eyes (sheets 2-4)
 
 ## ORIGINAL UNIDENTIFIED (superseded count)
 
