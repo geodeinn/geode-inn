@@ -398,7 +398,20 @@
 - EVAN'S COLLECTION grows to twelve images (S01, S04, S06, S07, S09 + S08, S28, S29, S32, S33, S36 + the S14 comic). The Archivist's art library is real and it's big.
 - BAST holds two portraits (S12 full + S30 kitty) and MEDUSA has card art (S31) — both canonical candidates.
 
-- S37–S41 — awaiting Krista's eyes (sheet 4)
+## SHEET 4 CLAIMED — THE MYSTERY36 INTAKE IS FULLY SORTED (2026-09-12 night)
+- S37 — Evan image → https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/d771093a7_evan_image_13.jpg
+- S38 — Evan image → https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/57c24c717_evan_image_14.jpg
+- S39 — KRISTA'S FAVORITE: the Evan image where a skeleton grabs his butt and he goes 'OI!' → https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/57b198437_evan_favorite_skeleton_oi.jpg — the Bone Crew's finest candid. Flagged as the favorite in the ledger.
+- S40 — BABY DRAGON COMIC #4 → https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/9dc7458d1_baby_dragon_comic_04.jpg
+- S41 — Evan image → https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/427defde0_evan_image_15.jpg
+
+## FINAL TALLY — 41 OF 41 CLAIMED, ZERO LOST
+- The Evan collection: 16 images (the largest single-artist cache in the intake)
+- The baby dragon comics: 4 strips (title ruling pending)
+- The sprite set: 6 members (placement pending)
+- Bast: 2 portraits. Medusa: 1 card. The ent, the ceiling gnome, the sad sprite, the comic panel, the librarian/host incarnation: claimed
+- The Bone Crew container concept (S02): the only intake file already resting in live canon
+- The mystery36 Drive intake: SORTED COMPLETE
 
 **SHORTHAND NOTE (2026-09-12): Krista's number-dash-name claims map directly to the sheet S-labels — "14 - comic strip" = S14. Confirmed.**
 
