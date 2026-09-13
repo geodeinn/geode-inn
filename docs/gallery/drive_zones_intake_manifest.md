@@ -349,7 +349,19 @@
 | zeke, land version.jpg | zeke, land version | name already canonical — verify at upload |
 | zorya.jpg | zorya | name already canonical — verify at upload |
 
-## UNIDENTIFIED — 36 files named "image.jpeg" (need Krista's eyes)
+## UNIDENTIFIED — 41 files named "image.jpeg" (sorting WITH Krista, 2026-09-12 night)
+
+**CLAIMED SO FAR:**
+- S01 — Archivist portrait OPTION (offered to Evan) → Hall of Unfinished Designs. Uploaded: https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/37c77692b_archivist_portrait_option_hud.jpg
+- S02 — the BONE CONTAINERS concept (really cute; the Bone Mail Crew's wheeled freight line) → canonical Bone Crew art candidate. Uploaded: https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/495266018_bone_crew_containers_concept.jpg
+- S04 — Archivist prototype, bone critter #2 → Hall of Unfinished Designs. Uploaded: https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/226d4a770_archivist_prototype_bone_critter_02.jpg
+- S06 — Archivist prototype, bone critter #3 → Hall of Unfinished Designs. Uploaded: https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/56b9972c9_archivist_prototype_bone_critter_03.jpg
+- S07 — Archivist prototype, bone critter #4 → Hall of Unfinished Designs. Uploaded: https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/2f2562416_archivist_prototype_bone_critter_04.jpg
+- S09 — Archivist prototype, bone critter #5 → Hall of Unfinished Designs. Uploaded: https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/857643ac8_archivist_prototype_bone_critter_05.jpg
+- S03 — the escaped critter popping out of the floor (Krista's ID in progress — description cut off mid-word)
+- S05, S08, S10–S41 — awaiting Krista's eyes (sheets 2-4)
+
+## ORIGINAL UNIDENTIFIED (superseded count)
 
 Art saved from conversations but not yet categorized. Krista will recognize them instantly; they get claimed, named, and folded into the pipeline.
 
