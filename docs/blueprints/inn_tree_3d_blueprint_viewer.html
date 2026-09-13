@@ -1,0 +1,286 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"/>
+<meta name="viewport" content="width=device-width, initial-scale=1"/>
+<title>The Geode Inn — Inner Tree Blueprint (Draft v0.1)</title>
+<style>
+  body { margin:0; background:#140d07; color:#d8b36a; font-family: Georgia, 'Times New Roman', serif; overflow:hidden; }
+  #panel { position:fixed; top:12px; left:12px; background:rgba(20,13,7,.88); border:1px solid #7a5a2e; border-radius:10px; padding:14px 18px; max-width:250px; }
+  #panel h1 { font-size:15px; margin:0 0 4px; letter-spacing:.5px; color:#e9c87e; font-weight:normal; }
+  #panel .note { font-size:11px; color:#a08350; line-height:1.45; margin-bottom:8px; }
+  #panel label { display:block; font-size:12.5px; margin:3px 0; cursor:pointer; color:#d8b36a; }
+  #panel label:hover { color:#e9c87e; }
+  #tip { position:fixed; display:none; background:rgba(20,13,7,.94); border:1px solid #7a5a2e; padding:7px 11px; border-radius:7px; font-size:13px; color:#e9c87e; pointer-events:none; z-index:10; max-width:260px; }
+  #hint { position:fixed; bottom:10px; left:50%; transform:translateX(-50%); font-size:11px; color:#8a6d3f; font-style:italic; }
+  #err { position:fixed; top:10px; right:12px; font-size:11px; color:#b06a4a; max-width:40%; text-align:right; }
+</style>
+</head>
+<body>
+<div id="panel">
+  <h1>The Geode Inn — Inner Tree</h1>
+  <div class="note">Draft blueprint v0.1 · the cylinder is the Silo shaft · the spiral is the West Staircase · the spokes are the roads out · every room position is a draft, awaiting the Witan.</div>
+  <div id="layers"></div>
+</div>
+<div id="tip"></div>
+<div id="hint">drag to orbit &nbsp;·&nbsp; scroll to zoom &nbsp;·&nbsp; hover a room for its name</div>
+<div id="err"></div>
+
+<script type="importmap">
+{ "imports": {
+  "three": "https://cdn.jsdelivr.net/npm/three@0.160.0/build/three.module.js",
+  "three/addons/": "https://cdn.jsdelivr.net/npm/three@0.160.0/examples/jsm/"
+}}
+</script>
+
+<script>
+window.onerror = function(msg){ document.getElementById('err').textContent = 'error: ' + msg; };
+</script>
+
+<script type="module">
+import * as THREE from 'three';
+import { OrbitControls } from 'three/addons/controls/OrbitControls.js';
+
+/* ================= THE TREE (canonical draft data — edit this and only this) ================= */
+const TREE = {
+  cylinder: { radius: 10, height: 56 },           // the Silo shaft: -30 (Prism floor) to +26 (cosmology cap)
+  prismY: -30,                                     // the sound-to-light transformer at the bottom point
+  helix: { turns: 4, radius: 11.4 },               // the West Staircase (the crest's west charge)
+  levels: [
+    { id:'cosmology', name:'Cosmology (Upstairs)', y: 21,
+      spokes:[
+        { angle: 30,  len: 12, rooms:[{ name:"The Allfather's Perch", size:5 }]},
+        { angle: 205, len: 10, rooms:[{ name:'The Lighthouse (The Owl)', size:4 }]}
+      ]},
+    { id:'clockwork', name:'Clockwork Skies', y: 14,
+      spokes:[
+        { angle: 95,  len: 11, rooms:[{ name:'The Workshop', size:4.5 }]},
+        { angle: 250, len: 9,  rooms:[{ name:'The Blue Box Alcove', size:3 }]}
+      ]},
+    { id:'campgrounds', name:'Campgrounds', y: 7,
+      spokes:[
+        { angle: 0,   len: 13, rooms:[{ name:'The Campfire Commons', size:5 }]},
+        { angle: 140, len: 12, rooms:[{ name:'The Player Plots', size:6 }]},
+        { angle: 265, len: 11, rooms:[{ name:'The Drum Circle (Seven Sisters)', size:4.5 }]}
+      ]},
+    { id:'mainfloor', name:'Main Floor', y: 0,
+      spokes:[
+        { angle: 60,  len: 12, rooms:[{ name:'The Artisan Market', size:5 }]},
+        { angle: 130, len: 13, rooms:[{ name:'The Arcade', size:6 }]},
+        { angle: 200, len: 11, rooms:[{ name:'The Bar (#33 Mensinthe)', size:4 }]},
+        { angle: 300, len: 12, rooms:[{ name:'The Archive Stacks', size:5 }]},
+        { angle: 340, len: 10, rooms:[{ name:"Joe's Table", size:4 }]}
+      ]},
+    { id:'catacombs', name:'The Catacombs', y: -9,
+      spokes:[
+        { angle: 30,  len: 11, rooms:[{ name:'The Bone Room', size:4.5 }]},
+        { angle: 170, len: 12, rooms:[{ name:'The Catacomb Roads', size:5 }]},
+        { angle: 305, len: 10, rooms:[{ name:'Mausoleum Row', size:4 }]}
+      ]},
+    { id:'undercity', name:'The Undercity', y: -18,
+      spokes:[
+        { angle: 100, len: 12, rooms:[{ name:"The Clockmaker's Shop", size:4 }]},
+        { angle: 230, len: 13, rooms:[{ name:"Charon's Crossing (84Hz)", size:5 }]}
+      ]},
+    { id:'bedrock', name:'Bedrock Fortress', y: -26,
+      spokes:[
+        { angle: 315, len: 10, rooms:[{ name:'The Bedrock Fortress', size:5 }]}
+      ]}
+  ]
+};
+/* =============================================================================================== */
+
+const scene = new THREE.Scene();
+scene.background = new THREE.Color(0x140d07);
+scene.fog = new THREE.Fog(0x140d07, 90, 240);
+
+const camera = new THREE.PerspectiveCamera(50, innerWidth/innerHeight, .1, 600);
+camera.position.set(52, 26, 52);
+
+const renderer = new THREE.WebGLRenderer({ antialias:true });
+renderer.setSize(innerWidth, innerHeight);
+renderer.setPixelRatio(Math.min(devicePixelRatio, 2));
+document.body.appendChild(renderer.domElement);
+
+const controls = new OrbitControls(camera, renderer.domElement);
+controls.enableDamping = true;
+controls.dampingFactor = 0.06;
+controls.target.set(0, -2, 0);
+
+const GOLD = 0xd4a04c, DIM = 0x7a5a2e, EMBER = 0xe9c87e, FAINT = 0x4a3620;
+
+/* ---------- label sprites ---------- */
+function makeLabel(text, scale=1){
+  const c = document.createElement('canvas'); c.width = 512; c.height = 96;
+  const g = c.getContext('2d');
+  g.font = '30px Georgia, serif';
+  g.fillStyle = '#e9c87e'; g.textAlign = 'center'; g.textBaseline = 'middle';
+  g.shadowColor = 'rgba(0,0,0,.9)'; g.shadowBlur = 6;
+  g.fillText(text, 256, 48);
+  const tex = new THREE.CanvasTexture(c);
+  const mat = new THREE.SpriteMaterial({ map:tex, transparent:true, depthWrite:false });
+  const sp = new THREE.Sprite(mat);
+  sp.scale.set(9*scale, 1.7*scale, 1);
+  return sp;
+}
+
+const group = new THREE.Group(); scene.add(group);
+const layerGroups = {};
+const roomMeshes = [];
+
+const R = TREE.cylinder.radius;
+
+/* ---------- the shaft ---------- */
+const cylGeom = new THREE.CylinderGeometry(R, R, TREE.cylinder.height, 24, 1, true);
+const shaft = new THREE.Mesh(cylGeom, new THREE.MeshBasicMaterial({ color:GOLD, transparent:true, opacity:.045, side:THREE.DoubleSide }));
+shaft.position.y = (TREE.prismY + TREE.prismY + TREE.cylinder.height) / 2;
+group.add(shaft);
+const shaftLines = new THREE.LineSegments(new THREE.EdgesGeometry(cylGeom, 1),
+  new THREE.LineBasicMaterial({ color:DIM, transparent:true, opacity:.5 }));
+shaftLines.position.copy(shaft.position);
+group.add(shaftLines);
+
+/* ---------- the west staircase (helix) ---------- */
+{
+  const pts = [];
+  const turns = TREE.helix.turns, hr = TREE.helix.radius;
+  const yTop = TREE.prismY + TREE.cylinder.height, yBot = TREE.prismY;
+  for (let i = 0; i <= 400; i++){
+    const t = i/400;
+    const a = t * Math.PI * 2 * turns;
+    pts.push(new THREE.Vector3(Math.cos(a)*hr, yTop - t*(yTop-yBot), Math.sin(a)*hr));
+  }
+  const helix = new THREE.Line(new THREE.BufferGeometry().setFromPoints(pts),
+    new THREE.LineBasicMaterial({ color:EMBER, transparent:true, opacity:.75 }));
+  group.add(helix);
+  const lbl = makeLabel('The Staircase (Alchemy)');
+  lbl.position.set(hr, (yTop+yBot)/2 + 2, 0);
+  group.add(lbl);
+}
+
+/* ---------- level discs + spokes + rooms ---------- */
+for (const level of TREE.levels){
+  const lg = new THREE.Group();
+  lg.position.y = level.y;
+  layerGroups[level.id] = lg;
+  group.add(lg);
+
+  // the round "page" — two rings + faint radial ticks (blueprint feel)
+  for (const rr of [R, R*0.5]){
+    const pts = [];
+    for (let i = 0; i <= 96; i++){
+      const a = i/96 * Math.PI * 2;
+      pts.push(new THREE.Vector3(Math.cos(a)*rr, 0, Math.sin(a)*rr));
+    }
+    lg.add(new THREE.Line(new THREE.BufferGeometry().setFromPoints(pts),
+      new THREE.LineBasicMaterial({ color: rr === R ? GOLD : FAINT, transparent:true, opacity: rr === R ? .8 : .5 })));
+  }
+  for (let i = 0; i < 12; i++){
+    const a = i/12 * Math.PI * 2;
+    const pts = [new THREE.Vector3(Math.cos(a)*R*0.5, 0, Math.sin(a)*R*0.5),
+                 new THREE.Vector3(Math.cos(a)*R, 0, Math.sin(a)*R)];
+    lg.add(new THREE.Line(new THREE.BufferGeometry().setFromPoints(pts),
+      new THREE.LineBasicMaterial({ color: FAINT, transparent:true, opacity:.45 })));
+  }
+
+  // spokes + rooms
+  for (const spoke of level.spokes){
+    const a = THREE.MathUtils.degToRad(spoke.angle);
+    const dir = new THREE.Vector3(Math.cos(a), 0, Math.sin(a));
+
+    const corr = new THREE.BoxGeometry(spoke.len, 2.6, 3.6);
+    const cm = new THREE.Mesh(corr, new THREE.MeshBasicMaterial({ color:GOLD, transparent:true, opacity:.07 }));
+    const cl = new THREE.LineSegments(new THREE.EdgesGeometry(corr), new THREE.LineBasicMaterial({ color:DIM, transparent:true, opacity:.7 }));
+    const mid = R + spoke.len/2;
+    for (const m of [cm, cl]){
+      m.position.set(dir.x*mid, 0, dir.z*mid);
+      m.rotation.y = -a;
+      lg.add(m);
+    }
+
+    for (const room of spoke.rooms){
+      const s = room.size;
+      const rg = new THREE.BoxGeometry(s, s*0.8, s);
+      const rm = new THREE.Mesh(rg, new THREE.MeshBasicMaterial({ color:GOLD, transparent:true, opacity:.09 }));
+      rm.position.set(dir.x*(R + spoke.len + s/2 + 0.5), 0, dir.z*(R + spoke.len + s/2 + 0.5));
+      rm.userData = { name: room.name, level: level.name };
+      lg.add(rm);
+      roomMeshes.push(rm);
+      const rl = new THREE.LineSegments(new THREE.EdgesGeometry(rg), new THREE.LineBasicMaterial({ color:EMBER, transparent:true, opacity:.9 }));
+      rl.position.copy(rm.position);
+      lg.add(rl);
+      const lbl = makeLabel(room.name, .8);
+      lbl.position.set(rm.position.x, s*0.8/2 + 1.6, rm.position.z);
+      lg.add(lbl);
+    }
+  }
+}
+
+/* ---------- the Prism at the bottom point ---------- */
+const prism = new THREE.Mesh(new THREE.OctahedronGeometry(1.6),
+  new THREE.MeshBasicMaterial({ color:EMBER, transparent:true, opacity:.5 }));
+prism.position.set(0, TREE.prismY, 0);
+group.add(prism);
+const prismLbl = makeLabel('The Prism', .7);
+prismLbl.position.set(0, TREE.prismY - 2.6, 0);
+group.add(prismLbl);
+
+/* ---------- the ground: a faint polar grid ---------- */
+{
+  const polar = new THREE.PolarGridHelper(42, 12, 6, 64, DIM, FAINT);
+  polar.position.y = TREE.prismY - 0.4;
+  polar.material.transparent = true; polar.material.opacity = .22;
+  group.add(polar);
+}
+
+/* ---------- layer toggles ---------- */
+const panel = document.getElementById('layers');
+for (const level of TREE.levels){
+  const label = document.createElement('label');
+  const cb = document.createElement('input');
+  cb.type = 'checkbox'; cb.checked = true;
+  cb.addEventListener('change', () => { layerGroups[level.id].visible = cb.checked; });
+  label.appendChild(cb);
+  label.appendChild(document.createTextNode(' ' + level.name));
+  panel.appendChild(label);
+}
+
+/* ---------- hover tooltip ---------- */
+const raycaster = new THREE.Raycaster();
+const mouse = new THREE.Vector2();
+const tip = document.getElementById('tip');
+addEventListener('pointermove', (e) => {
+  mouse.x = (e.clientX / innerWidth) * 2 - 1;
+  mouse.y = -(e.clientY / innerHeight) * 2 + 1;
+  raycaster.setFromCamera(mouse, camera);
+  const hits = raycaster.intersectObjects(roomMeshes, false);
+  if (hits.length){
+    const d = hits[0].object.userData;
+    tip.style.display = 'block';
+    tip.style.left = (e.clientX + 14) + 'px';
+    tip.style.top = (e.clientY + 14) + 'px';
+    tip.textContent = d.name + '  ·  ' + d.level;
+  } else tip.style.display = 'none';
+});
+
+/* ---------- the heartbeat: a slow sine, 50 BPM, Steady Light ---------- */
+const clock = new THREE.Clock();
+function animate(){
+  requestAnimationFrame(animate);
+  const t = clock.getElapsedTime();
+  const beat = 0.5 + 0.14 * Math.sin(t * Math.PI / 1.2);   // 50 BPM sine, never a flash
+  prism.material.opacity = beat;
+  prism.rotation.y = t * 0.15;
+  controls.update();
+  renderer.render(scene, camera);
+}
+animate();
+
+addEventListener('resize', () => {
+  camera.aspect = innerWidth / innerHeight;
+  camera.updateProjectionMatrix();
+  renderer.setSize(innerWidth, innerHeight);
+});
+</script>
+</body>
+</html>
