@@ -32,6 +32,8 @@ Five lives of one formula. The Glass Kingdoms are not a new invention — they a
 | 4 | **The Crystal Struck by Lightning** | Fulgurite | Sand fused into glass roots by a lightning strike — the ground's own wiring | The witness station. A lightning-shaped glass ROOT under the tree — the dream's own image, made geology. The player follows the root down. |
 | 5 | **The Crystal Taught to Think** | The Chip | The same furnace-and-slice craft at nanometer scale — doping as the bronze-age pinch; the smallest forge ever built | The awe station. The Forge-to-Fab Ladder made playable: the player helps grow the crystal, slice it thin as a thin section (30 microns — so thin the stone turns transparent), and see light flood through. The chip as the silica thread's latest leaf. |
 
+**The sky-born sibling:** MOLDAVITE — impact glass, the Czech tektite born 15 million years ago when a meteor landed (the Ries crater). Where fulgurite is silica interrupted by LIGHTNING, moldavite is silica interrupted by a METEOR. The same station-4 law, written in the sky. Moldavite's Perch now stands in Cosmology (the blueprint); its own design session and its exact tie to this thread are Witan gates.
+
 **Arc shape:** the Wandering Guard pattern — five stations, each ending with a greeting rather than a victory. Not "silica mastered" — silica MET, in all five of its lives. The pattern law underneath: stone, nerve, tree, chip — one branching grammar (the dream's mirror, the dendritic arbor, Leonardo's rule, the transistor forest).
 
 ---
