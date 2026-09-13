@@ -30,7 +30,7 @@
 
 ## Known Duplicate Zone Sets (same zone, multiple naming styles — dedupe at upload)
 
-- fae set: "fae summerlands.jpg" / "zone_fae_summerlands.jpg" / "summerlands.jpg" / "summerlands 1.mp4"
+- fae set: RULED 2026-09-12 (Krista, collaborative review) — canonical = "zone_fae_summerlands.jpg" (the more in-depth render). "fae summerlands.jpg" / "summerlands.jpg" / "fae_summerlands_mid.jpg" = byte-identical copies (md5 3797c44), NOT uploaded as canonical; originals remain safe in Drive. Video "summerlands 1.mp4" queued as-is.
 - staircase set: "st_alembic_window.jpg" / "zone_st_alembic_window.jpg" / "alembic window.jpg" / "staircase - alembic window 1.mp4"
 - allfather set: "zone_up_allfathers_throne.jpg" / "up_allfathers_throne.jpg" / "allfathers throne.jpg" / "allfather's throne 1.mp4"
 - cosmology set: "up_cosmology_mural.jpg" / "cosmology mural.jpg" / "cosmology ceiling mural 1.mp4"
