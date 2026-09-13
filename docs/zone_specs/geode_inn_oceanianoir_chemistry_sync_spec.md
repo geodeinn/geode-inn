@@ -69,9 +69,9 @@ The chemistry section is where the Inn stops treating matter as scenery: every e
 
 ## RULINGS NEEDED (the gates)
 
-1. THE SPINE RULING: does the chemistry section become the curricular spine of all material threads, as drafted above? (This is the big one — it makes her section the hub of the Hidden Materials, firing, instruments, pigments, and sprites.)
+1. THE SPINE RULING: ✅ RULED YES (Krista, 2026-09-12: "Everything branches from the periodic tables. It makes sense for her section to become the spine.") — THE SPINE LAW is canon: Oceanianoir's chemistry section is the curricular spine of all material threads. Every Hidden Materials dossier, firing technique, instrument build, pigment reading, and elemental sprite routes through the bench. The spec's one-sentence thesis enters the Project Bible. All eight gaps in this spec are now live canon.
 2. THE 32,768 QUESTION: does quartz's oscillator frequency enter the Inn's frequency canon formally, or stay a teaching example in the horology wing?
 3. THE CHAIN AMENDMENT: the three crossing points between the Atlantis chain and her questline (as drafted in Gap 1) — do they pass as written?
 4. THE SPRITE PASS: the per-element identities of the six sprites stay parked until the section's own design session (this spec does not rule them).
 
-**Status: DRAFT — awaiting Krista's ruling. Nothing here enters canon until the gates pass.**
+**Status: THE SPINE LAW RULED CANON (2026-09-12) — all eight gap-wirings live. Remaining open gates: 2 (the 32,768 question), 3 (the chain crossing points), 4 (the sprite pass — parked by design).**
