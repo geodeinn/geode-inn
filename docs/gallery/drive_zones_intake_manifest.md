@@ -376,7 +376,29 @@
 - S17 — a sprite (with S15 & S20, the sprite set per Krista; placement pending — whose sprite?) → Uploaded: https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/18901c7b8_sprite_unplaced.jpg
 - S20 — a sprite (typo correction: "2nd" was "20" — the third of the sprite set) → Uploaded: https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/b35b7450e_sprite_unplaced_02.jpg
 - S21 — THE BABY DRAGON walking past gargoyles (Krista's claim) → the mascot in transit past the sentinels (staircase/catacomb guard family). Uploaded: https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/43d6a36f4_baby_dragon_gargoyle_walk.jpg — canonical candidate
-- S08, S18, S25–S41 — awaiting Krista's eyes (sheets 3-4)
+## SHEET 3 BATCH CLAIMED (2026-09-12 night, Krista's shorthand pass)
+- S08 — Evan image → https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/f36263a6c_evan_image_12.jpg (historical default, keeper flags welcome)
+- S18 — sprite (the sprite set grows: S15, S17, S18, S20, S26, S34) → https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/12de73d7f_sprite_unplaced_05.jpg
+- S25 — BABY DRAGON COMIC #1 → https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/111eef315_baby_dragon_comic_01.jpg
+- S26 — sprite → https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/92caa48cf_sprite_unplaced_03.jpg
+- S27 — BABY DRAGON COMIC #2 → https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/90e8e5e6c_baby_dragon_comic_02.jpg
+- S28 — Evan image → https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/bb0b73e88_evan_image_07.jpg
+- S29 — Evan image → https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/15f5f7d46_evan_image_08.jpg
+- S30 — BAST AS A KITTY (Bast's second portrait — the small register) → https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/2f43ec8f4_bast_kitty.jpg — canonical candidate (companion piece to S12)
+- S31 — MEDUSA CARD → https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/6a9a71bdd_medusa_card.jpg — canonical candidate (the garden's card art?)
+- S32 — Evan image → https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/c57dcf280_evan_image_09.jpg
+- S33 — Evan image → https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/8f4a55031_evan_image_10.jpg
+- S34 — sprite → https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/bddab6367_sprite_unplaced_04.jpg
+- S35 — BABY DRAGON COMIC #3 → https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/c666bf904_baby_dragon_comic_03.jpg
+- S36 — Evan image → https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/6feb22008_evan_image_11.jpg
+
+**NOTES ON THE BATCH:**
+- THE BABY DRAGON COMICS (S25, S27, S35): three strips — the mascot has a comic run. Do these predate the Gazette? A title ruling wanted.
+- THE SPRITE SET now numbers six (S15, S17, S18, S20, S26, S34): placement question pending for the set.
+- EVAN'S COLLECTION grows to twelve images (S01, S04, S06, S07, S09 + S08, S28, S29, S32, S33, S36 + the S14 comic). The Archivist's art library is real and it's big.
+- BAST holds two portraits (S12 full + S30 kitty) and MEDUSA has card art (S31) — both canonical candidates.
+
+- S37–S41 — awaiting Krista's eyes (sheet 4)
 
 **SHORTHAND NOTE (2026-09-12): Krista's number-dash-name claims map directly to the sheet S-labels — "14 - comic strip" = S14. Confirmed.**
 
