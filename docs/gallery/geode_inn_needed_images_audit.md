@@ -1,5 +1,7 @@
 # Geode Inn — Needed Images Audit & Prioritized Work Queue
-**Generated:** 2026-09-12 | **Scope:** Repository Audit (/app/geode-inn-work)
+**Generated:** 2026-09-12 | **Corrected:** 2026-09-12 evening (Fae MMO assets + Griffin strikes — painted 2026-09-11 night, missed by the original compile) | **Scope:** Repository Audit (/app/geode-inn-work)
+
+**CORRECTION LOG (2026-09-12 evening):** The original compile did not cross-reference the previous night's four Fae Kingdom MMO painting parcels. All of former Section 1A (the Antikythera UI kit, the 8 quest cinematics, the labradorite bloom) plus the Fae resident cycles and the Griffin's 3 distant poses were ALREADY PAINTED and are stricken from the queue. The sprite/camera work remaining on these fronts is EXTRACTION (builder-side, the proven flip-book pipeline), not painting.
 
 This audit establishes the definitive 'really needed' image list for the Geode Inn project. It cross-references the Master Asset Ledger (), Camera Coverage Kit (), Fae Kingdom MMO Production Spec (), Drive Intake Manifest (), Asset Manifest (), NPC Portrait Manifest (), and local gallery storage ().
 
@@ -8,7 +10,9 @@ This audit establishes the definitive 'really needed' image list for the Geode I
 ## 1. REFERENCED BUT MISSING
 *Images referenced across game specs, manifests, or lore documents that currently have NO hosted URL in  and NO local file in  subfolders.*
 
-### A. Fae Kingdom MMO Web Sync Assets (15 Items)
+### A. Fae Kingdom MMO Web Sync Assets (15 Items) — ✅ PAINTED 2026-09-11 NIGHT, AUDIT CORRECTED 2026-09-12 EVENING
+**The original audit missed the four Fae Kingdom MMO painting parcels completed the night before it was compiled. All 15 items below ARE painted (commits 83ce196, 9b29eb9, 791dad8, fb3efe8):** the Antikythera UI kit (6 masters), the 8 flagship quest cinematics, and the labradorite reveal set (6 frames). The Griffin's 3 distant poses also painted (83ce196). These are stricken from the work queue. The remaining builder-side work is EXTRACTION, not painting: the sprite crunch (Parcel 5, in the Fizgigs' hands) pulls the 64px engine sheets from the painted CYCLE masters through the proven flip-book pipeline.
+*(Original stale entries preserved below for the record:)**
 - **Antikythera UI Kit (6 UI-Class Masters):**
   1. World Map Screen (6 realms + portal network, hub-and-spoke layout)
   2. Dual Reputation Bar (Seelie/Unseelie court alignment UI)
@@ -106,17 +110,17 @@ Per , every CYCLE class master requires an angle set:
 *Ranked for a single ~5-hour work session today. Yardstick: Highest build impact for the web beta and Fizgigs' active parcels.*
 
 1. **Player Character Back 3/4 Angle (Idle + Walk):** Over-the-shoulder default camera angle (highest build impact across entire game).
-2. **Antikythera HUD & UI Kit (6 Masters):** Unlocks Fae Kingdom MMO web beta interface (map, reputation, quest log, inventory, portals, reveal frame).
-3. **Labradorite Bloom Animation Set (4 Frames):** Fae web sync requirement (dormant → gathering → full flash → settling).
-4. **Fae Kingdom Quest Cinematics (8 Flagship Moments):** Key story panels for Fae web beta release.
+2. ~~**Antikythera HUD & UI Kit (6 Masters)**~~ ✅ PAINTED 2026-09-11 (Parcel 2).
+3. ~~**Labradorite Bloom Animation Set**~~ ✅ PAINTED 2026-09-11 (Parcel 4, 6 frames).
+4. ~~**Fae Kingdom Quest Cinematics**~~ ✅ PAINTED 2026-09-11 (Parcel 3).
 5. **Player Character Front Angle (Idle + Dialogue):** Conversation default for third-person camera mode.
 6. **First-Person Hand Set Overlays (4 Overlays):** Tea-cup, stone-touching, card-dealing, and mail-folding hands wearing attire.
 7. **High-Traffic NPC Resident Cut (3 Angles):** Front, front 3/4, side for core cast (Storyteller, Catalyst, Constant, Bard, Fixer).
 8. **Walkers' Back Route Angles:** Back route angle for Postmaster and Bone Mail Crew.
 9. **Missing Critter Art (Axolotl, Mantis Shrimp, Rain Frog):** Complete 42Hz, 84Hz, and In-Between art for missing critters.
 10. **Drive Intake Zone Set Deduplication & Upload:** Collapse and host the 5 duplicate zone sets (Fae, Staircase, Allfather, Cosmology, Catacombs).
-11. **Fae Kingdom Named Resident Cycles (10 Masters):** Oleander, Malachi, Queens, Head Finder, Door-keepers.
-12. **Griffin Boss Distant Poses (3 Poses):** Distant angle set for Crystal Gardens boss.
+11. ~~**Fae Kingdom Named Resident Cycles (10 Masters)**~~ ✅ PAINTED 2026-09-11 (Parcel 1, with shadow rows).
+12. ~~**Griffin Boss Distant Poses (3 Poses)**~~ ✅ PAINTED 2026-09-11 (Parcel 1, distance held).
 13. **Drive Intake 36 Unidentified JPEGs Sorting:** Categorize and tag mystery files with Krista.
 14. **High-Priority Arcade Game Sprites (Batch 1 - Top 10 Games):** Engine sprites for Tomb Tunnel and top 9 build-sheet games.
 15. **NPC In-Between State Batch 1 (Tier 1 Cast - 12 NPCs):** In-Between portraits for core Tier 1 NPCs.
