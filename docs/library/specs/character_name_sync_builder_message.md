@@ -10,7 +10,7 @@ The character roster has completed a full naming audit (September 3, 2026). Seve
 
 | Old Name | New Name | Notes |
 |----------|----------|-------|
-| Jaime / Oceananoir | **Oceanianoir** | Spelling correction — always with the i. The Living Archive, walking periodic table, Atlantis resident. Pirate-hacking backstory is IRL-only, NOT game data. |
+| Jaime / Oceananoir | **Oceanianoir** (title) + **Jaime** (personal name) | RULING (Krista, 2026-09-12): RUN BOTH NAMES — the titled-NPC dual-name pattern (the Wanderer/Odin precedent). Oceanianoir is the title (always with the i — the Living Archive, walking periodic table, Atlantis resident + the Staircase lab's night shift with Will); Jaime is the personal name beneath it, usable in personal/family registers. Pirate-hacking backstory is IRL-only, NOT game data. |
 | Krista (as character) | **Vaulknut** | In-game name for the Bog Fairy Golem / Artisan Thief / Selkie. Authorship credits and real-world references remain "Krista." |
 | The Sentinel | **Lozen** | Lozen's character. Class title was "The Sentinel"; character name is Lozen. |
 | Malachi | **Malachi** | The Unseelie King. |
