@@ -375,7 +375,8 @@
 - S15 — an INCARNATION OF THE HOST OR LIBRARIAN, very welcoming (Krista's belief; the sprite form) → Uploaded: https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/6ccdd10b7_sprite_host_librarian_incarnation.jpg
 - S17 — a sprite (with S15 & S20, the sprite set per Krista; placement pending — whose sprite?) → Uploaded: https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/18901c7b8_sprite_unplaced.jpg
 - S20 — a sprite (typo correction: "2nd" was "20" — the third of the sprite set) → Uploaded: https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/b35b7450e_sprite_unplaced_02.jpg
-- S08, S18, S21, S25–S41 — awaiting Krista's eyes (sheets 2-4)
+- S21 — THE BABY DRAGON walking past gargoyles (Krista's claim) → the mascot in transit past the sentinels (staircase/catacomb guard family). Uploaded: https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/43d6a36f4_baby_dragon_gargoyle_walk.jpg — canonical candidate
+- S08, S18, S25–S41 — awaiting Krista's eyes (sheets 3-4)
 
 **SHORTHAND NOTE (2026-09-12): Krista's number-dash-name claims map directly to the sheet S-labels — "14 - comic strip" = S14. Confirmed.**
 
