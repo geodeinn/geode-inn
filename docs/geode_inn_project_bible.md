@@ -176,7 +176,7 @@ Authored by Krista. Runs underneath all game mechanics.
 5. Warm aesthetic: hobbit-hole cozy, amber/gold/cream, not dark or sterile
 6. Geode Inn name: nod to Odin (Geo = earth), ravens Huginn/Muninn (thought/memory)
 7. Sound as force: not decorative — structural, transformative, alchemical
-8. THE SPINE LAW (Krista, 2026-09-12): everything branches from the periodic table — Oceanianoir's chemistry section is the curricular spine of all material threads (Hidden Materials, firing, instruments, pigments, sprites; spec: geode_inn_oceanianoir_chemistry_sync_spec.md). The chemistry section is where the Inn stops treating matter as scenery: every element, material, pigment, instrument, and stone passes through one bench where the world is read for what it IS — and the reading is always honest, sometimes tender, and never finished.
+8. THE SPINE LAW (Krista, 2026-09-12): everything branches from the periodic table — and the design number is a sideways infinity symbol: a finite table (118), an infinite branching (Krista: "that's just poetic") — Oceanianoir's chemistry section is the curricular spine of all material threads (Hidden Materials, firing, instruments, pigments, sprites; spec: geode_inn_oceanianoir_chemistry_sync_spec.md). The chemistry section is where the Inn stops treating matter as scenery: every element, material, pigment, instrument, and stone passes through one bench where the world is read for what it IS — and the reading is always honest, sometimes tender, and never finished.
 
 ---
 
