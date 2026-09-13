@@ -49,6 +49,14 @@ The Inn inverts the usual game grammar. Conventional design says red = danger, w
 
 ---
 
+## THE PASSIVE CENSUS (Krista's ruling, 2026-09-13 evening)
+
+The rainbow carries weight no other light in human history carries: covenant, hope, pride, the whole spectrum in one band. The Prism wears it mechanically — light split into its full truth — and the Tier 4 spiral wears it in miniature. That universality is not incidental to the design; it IS the design. The rainbow mark does double duty as the Inn's most peaceful bouncer.
+
+**The mechanism:** the mark never antagonizes, never argues, never names anyone — it simply SHINES (Steady Light; the spiral turns, it never flashes). Those who are made uncomfortable by a rainbow of light cannot help announcing themselves; the Inn does not police thought, it only keeps score of behavior. The reaction IS the tell. The frog court's docket fills itself: the froglodytes of the lot hop into the light on their own, three transformations = suspension, and the Whimsical-Macabre Law keeps the whole proceeding warm and funny rather than grim. Judge Tootenkowl presides as ever.
+
+**The law under it:** the Inn never moderates belief; it moderates conduct. The most beautiful light in the building doubles as the most effective filter — not by excluding anyone, but by letting everyone reveal themselves first. The harder the ask, the lovelier the light; the lovelier the light, the louder the ugly reveal themselves. The Prism's quietest job.
+
 ## STATUS
 
 CANON — ruled by Krista, 2026-09-13. No open gates; the register's exact hue assignments per game belong to each game's own spec session.
