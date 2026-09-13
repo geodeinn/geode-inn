@@ -360,7 +360,10 @@
 - S09 — Archivist prototype, bone critter #5 → Hall of Unfinished Designs. Uploaded: https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/857643ac8_archivist_prototype_bone_critter_05.jpg
 - S03 — the escaped critter popping out of the floor in a STOLEN POPE HAT (Krista's ID complete) → Uploaded: https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/87229b70d_escaped_critter_stolen_pope_hat.jpg — canonical status pending (which critter is it? the hat's owner untraced)
 - S05 — a really lovely ENT character (Krista's claim) → the Fae Kingdom roster's ent gets its portrait. Uploaded: https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/a6aacc79d_fae_ent_character.jpg — canonical candidate (class master vs. named resident: Krista's call)
-- S08, S10–S41 — awaiting Krista's eyes (sheets 2-4)
+- S10 — a sad sprite (Krista's claim) → Uploaded: https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/706d80f53_sad_sprite.jpg — placement pending (which sprite's sad day?)
+- S11 — a comic panel (Krista's claim) → Uploaded: https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/9249f2e4b_comic_panel_unplaced.jpg — which strip/moment, Krista's call
+- S12 — BAST (Krista's claim) → the sistrum's own gets a portrait (Bastet's Herding canon). Uploaded: https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/fbbc6a6e3_bast_character.jpg — canonical candidate
+- S08, S13–S41 — awaiting Krista's eyes (sheets 2-4)
 
 ## ORIGINAL UNIDENTIFIED (superseded count)
 
