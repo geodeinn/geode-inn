@@ -57,6 +57,18 @@
               "status": "draft"
             }
           ]
+        },
+        {
+          "angle": 120,
+          "len": 11,
+          "rooms": [
+            {
+              "name": "Moldavite's Perch",
+              "size": 4,
+              "y": 0,
+              "status": "draft"
+            }
+          ]
         }
       ]
     },
