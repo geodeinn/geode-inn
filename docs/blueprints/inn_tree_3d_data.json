@@ -1,59 +1,282 @@
 {
   "meta": {
     "name": "The Geode Inn - Inner Tree 3D Blueprint",
-    "version": "0.1-draft",
+    "version": "0.2-progress",
     "ruled": "2026-09-12 (craft-project spec from Krista)",
     "description": "The paper sculpture made spatial: a central cylinder (the Silo shaft) with round page-floors, rectangular spokes branching like Ironforge, rooms at the spoke ends. All positions are drafts awaiting the Witan.",
-    "laws": ["Steady Light (no strobe; the Prism pulses on a 50 BPM sine)", "Anti-Skinner (no timer, no leash - a blueprint you wander)"],
+    "laws": [
+      "Steady Light (no strobe; the Prism pulses on a 50 BPM sine)",
+      "Anti-Skinner (no timer, no leash - a blueprint you wander)"
+    ],
     "landmarks": {
       "cylinder": "the Silo shaft",
       "helix": "the West Staircase (the crest's west charge) - alchemy's landing",
       "prismY": "the sound-to-light transformer at the shaft's bottom point",
       "spokes": "the roads out (Ironforge branch model)"
-    }
+    },
+    "statusLegend": {
+      "live": "built and visible in the web beta",
+      "spec": "paperwork done (spec/log/ledger), awaiting the builders",
+      "draft": "concept only, awaiting its spec"
+    },
+    "purpose": "The live progress space: the Witan opens this to see how the world is advancing, room by room. Statuses sync by hand from the Master Structure Blueprint until the builders wire it."
   },
-  "cylinder": { "radius": 10, "height": 56 },
+  "cylinder": {
+    "radius": 10,
+    "height": 56
+  },
   "prismY": -30,
-  "helix": { "turns": 4, "radius": 11.4 },
+  "helix": {
+    "turns": 4,
+    "radius": 11.4
+  },
   "levels": [
-    { "id": "cosmology", "name": "Cosmology (Upstairs)", "y": 21,
+    {
+      "id": "cosmology",
+      "name": "Cosmology (Upstairs)",
+      "y": 21,
       "spokes": [
-        { "angle": 30, "len": 12, "rooms": [ { "name": "The Allfather's Perch", "size": 5 } ] },
-        { "angle": 205, "len": 10, "rooms": [ { "name": "The Lighthouse (The Owl)", "size": 4 } ] }
-      ] },
-    { "id": "clockwork", "name": "Clockwork Skies", "y": 14,
+        {
+          "angle": 30,
+          "len": 12,
+          "rooms": [
+            {
+              "name": "The Allfather's Perch",
+              "size": 5,
+              "status": "draft"
+            }
+          ]
+        },
+        {
+          "angle": 205,
+          "len": 10,
+          "rooms": [
+            {
+              "name": "The Lighthouse (The Owl)",
+              "size": 4,
+              "status": "draft"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "clockwork",
+      "name": "Clockwork Skies",
+      "y": 14,
       "spokes": [
-        { "angle": 95, "len": 11, "rooms": [ { "name": "The Workshop", "size": 4.5 } ] },
-        { "angle": 250, "len": 9, "rooms": [ { "name": "The Blue Box Alcove", "size": 3 } ] }
-      ] },
-    { "id": "campgrounds", "name": "Campgrounds", "y": 7,
+        {
+          "angle": 95,
+          "len": 11,
+          "rooms": [
+            {
+              "name": "The Workshop",
+              "size": 4.5,
+              "status": "draft"
+            }
+          ]
+        },
+        {
+          "angle": 250,
+          "len": 9,
+          "rooms": [
+            {
+              "name": "The Blue Box Alcove",
+              "size": 3,
+              "status": "spec"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "campgrounds",
+      "name": "Campgrounds",
+      "y": 7,
       "spokes": [
-        { "angle": 0, "len": 13, "rooms": [ { "name": "The Campfire Commons", "size": 5 } ] },
-        { "angle": 140, "len": 12, "rooms": [ { "name": "The Player Plots", "size": 6 } ] },
-        { "angle": 265, "len": 11, "rooms": [ { "name": "The Drum Circle (Seven Sisters)", "size": 4.5 } ] }
-      ] },
-    { "id": "mainfloor", "name": "Main Floor", "y": 0,
+        {
+          "angle": 0,
+          "len": 13,
+          "rooms": [
+            {
+              "name": "The Campfire Commons",
+              "size": 5,
+              "status": "spec"
+            }
+          ]
+        },
+        {
+          "angle": 140,
+          "len": 12,
+          "rooms": [
+            {
+              "name": "The Player Plots",
+              "size": 6,
+              "status": "draft"
+            }
+          ]
+        },
+        {
+          "angle": 265,
+          "len": 11,
+          "rooms": [
+            {
+              "name": "The Drum Circle (Seven Sisters)",
+              "size": 4.5,
+              "status": "draft"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mainfloor",
+      "name": "Main Floor",
+      "y": 0,
       "spokes": [
-        { "angle": 60, "len": 12, "rooms": [ { "name": "The Artisan Market", "size": 5 } ] },
-        { "angle": 130, "len": 13, "rooms": [ { "name": "The Arcade", "size": 6 } ] },
-        { "angle": 200, "len": 11, "rooms": [ { "name": "The Bar (#33 Mensinthe)", "size": 4 } ] },
-        { "angle": 300, "len": 12, "rooms": [ { "name": "The Archive Stacks", "size": 5 } ] },
-        { "angle": 340, "len": 10, "rooms": [ { "name": "Joe's Table", "size": 4 } ] }
-      ] },
-    { "id": "catacombs", "name": "The Catacombs", "y": -9,
+        {
+          "angle": 60,
+          "len": 12,
+          "rooms": [
+            {
+              "name": "The Artisan Market",
+              "size": 5,
+              "status": "spec"
+            }
+          ]
+        },
+        {
+          "angle": 130,
+          "len": 13,
+          "rooms": [
+            {
+              "name": "The Arcade",
+              "size": 6,
+              "status": "live"
+            }
+          ]
+        },
+        {
+          "angle": 200,
+          "len": 11,
+          "rooms": [
+            {
+              "name": "The Bar (#33 Mensinthe)",
+              "size": 4,
+              "status": "spec"
+            }
+          ]
+        },
+        {
+          "angle": 300,
+          "len": 12,
+          "rooms": [
+            {
+              "name": "The Archive Stacks",
+              "size": 5,
+              "status": "spec"
+            }
+          ]
+        },
+        {
+          "angle": 340,
+          "len": 10,
+          "rooms": [
+            {
+              "name": "Joe's Table",
+              "size": 4,
+              "status": "spec"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "catacombs",
+      "name": "The Catacombs",
+      "y": -9,
       "spokes": [
-        { "angle": 30, "len": 11, "rooms": [ { "name": "The Bone Room", "size": 4.5 } ] },
-        { "angle": 170, "len": 12, "rooms": [ { "name": "The Catacomb Roads", "size": 5 } ] },
-        { "angle": 305, "len": 10, "rooms": [ { "name": "Mausoleum Row", "size": 4 } ] }
-      ] },
-    { "id": "undercity", "name": "The Undercity", "y": -18,
+        {
+          "angle": 30,
+          "len": 11,
+          "rooms": [
+            {
+              "name": "The Bone Room",
+              "size": 4.5,
+              "status": "spec"
+            }
+          ]
+        },
+        {
+          "angle": 170,
+          "len": 12,
+          "rooms": [
+            {
+              "name": "The Catacomb Roads",
+              "size": 5,
+              "status": "spec"
+            }
+          ]
+        },
+        {
+          "angle": 305,
+          "len": 10,
+          "rooms": [
+            {
+              "name": "Mausoleum Row",
+              "size": 4,
+              "status": "draft"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "undercity",
+      "name": "The Undercity",
+      "y": -18,
       "spokes": [
-        { "angle": 100, "len": 12, "rooms": [ { "name": "The Clockmaker's Shop", "size": 4 } ] },
-        { "angle": 230, "len": 13, "rooms": [ { "name": "Charon's Crossing (84Hz)", "size": 5 } ] }
-      ] },
-    { "id": "bedrock", "name": "Bedrock Fortress", "y": -26,
+        {
+          "angle": 100,
+          "len": 12,
+          "rooms": [
+            {
+              "name": "The Clockmaker's Shop",
+              "size": 4,
+              "status": "spec"
+            }
+          ]
+        },
+        {
+          "angle": 230,
+          "len": 13,
+          "rooms": [
+            {
+              "name": "Charon's Crossing (84Hz)",
+              "size": 5,
+              "status": "spec"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bedrock",
+      "name": "Bedrock Fortress",
+      "y": -26,
       "spokes": [
-        { "angle": 315, "len": 10, "rooms": [ { "name": "The Bedrock Fortress", "size": 5 } ] }
-      ] }
+        {
+          "angle": 315,
+          "len": 10,
+          "rooms": [
+            {
+              "name": "The Bedrock Fortress",
+              "size": 5,
+              "status": "spec"
+            }
+          ]
+        }
+      ]
+    }
   ]
 }
