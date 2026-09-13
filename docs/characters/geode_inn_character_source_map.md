@@ -87,8 +87,10 @@ Every real-person-linked character adds a specific layer of craft, technology, l
 - **Lore & Mechanics:** Chess wizard of the Camelot/Celtic zone (, ). Built a giant chess board at age nine. Uses Dresden Files aesthetic (Harry Dresden practical magic style) ().
 - **Document References:** , , .
 
-### Oceanianoir (Jaime)
-- **Source Seed:** Jaime (spelled with an i), Mensa puzzle designer, periodic-table-tattooed scientist, burlesque performer, goth atheist, reptile enthusiast (, ).
+### Oceanianoir
+
+(The real name is redacted per the player's explicit request — it is in no way tied in. Oceanianoir is the only name.)
+- **Source Seed:** (name redacted per the player's explicit privacy request — in no way tied in) — Mensa puzzle designer, periodic-table-tattooed scientist, burlesque performer, goth atheist, reptile enthusiast.
 - **Lore & Mechanics:** The Living Archive (). Married to Will the alchemist. Represents a living chemical equation.
 - **Document References:** , .
 
@@ -214,8 +216,8 @@ Characters generated through pure invention, mythic archetype, or institutional 
 | **Zeke / The Pirate** | Zeke (Brother-in-Law) | Drummer; 50 BPM bodhrán heartbeat; dock music sessions; flask sharing; Dread Pirate Roberts mantle; Zaragoza full name | ,  |
 | **Lichenblossom** | Katy (Friend / Player) | Plant necromancer; dread-antenna; Van Gogh swirl; Lichenblossom precedent anchor | ,  |
 | **The Archivist** | Evan (Friend) | Chess wizard in Camelot/Celtic zone; Dresden Files practical magic; giant living chess board | ,  |
-| **Oceanianoir** | Jaime (Friend) | The Living Archive; periodic-table tattoos; Mensa puzzle designer; goth atheist; burlesque performer | ,  |
-| **Will** | Will (Husband of Jaime) | Methodical alchemist in staircase lab; balances Oceanianoir's intensity through lab documentation |  |
+| **Oceanianoir** | (name redacted — Friend) | The Living Archive; periodic-table tattoos; Mensa puzzle designer; goth atheist; burlesque performer |  |
+| **Will** | Will (Oceanianoir's spouse) | Methodical alchemist in staircase lab; balances Oceanianoir's intensity through lab documentation |  |
 | **Aurallia** | Eileen (Friend) | The Hearth; cave studio painter; sleeping dragon 7.83Hz frequency sync | ,  |
 | **John (19)** | Eileen's oldest child | Cave studio apprentice; bridge between generations; studio door greeter | ,  |
 | **Scarlett (16)** | Eileen's daughter | Shy daughter; dragon companion in cave studio; drawing that reveals dragon's true name | ,  |
@@ -257,4 +259,4 @@ Certain characters and slots remain gated, pending, or reserved under project la
 - **Player John Myers:** Reserved player slot (FOLIO) for real-world friend John Myers (). Distinct from the NPC Quire (formerly named John Myers), who remains a separate Lovecraftian scholar in the Archive ().
 
 ### Optional Renaming Rights
-- **Ryan, Marion, Oceanianoir (Jaime):** Real-person linked characters maintain standing options to adjust in-game names or character details upon request ().
+- **Ryan, Marion, Oceanianoir:** Real-person linked characters maintain standing options to adjust in-game names or character details upon request. Oceanianoir additionally holds a standing privacy ruling (2026-09-12): the player's real name is in no way tied into the game — public canon, docs, and asset filenames all use Oceanianoir only.

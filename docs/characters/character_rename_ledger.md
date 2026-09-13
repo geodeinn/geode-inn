@@ -29,7 +29,7 @@
 | **Katya** | Katya | The Siren / water guardian. In-world: Vaulknut's sister. SPELLING RULE: when Vaulknut (and only Vaulknut) says her name directly in dialogue, it is spelled **Katija** — the way she actually wants it, indulged only in defiance of their mother's wrath. (Nod to grandmother Velta — fluent in Russian and Latvian by age two, rumored Russian royal lineage, died before Krista was born.) |
 | **The Collector** | Joe | Undercity NPC; also the Miniaturist/Painter who paints the Camelot chess pieces (same person — confirmed by Krista 2026-09-09). Wife: **Siobhan**. Son: **Liam**. Real person keeps "Joe" in real-world contexts. |
 | **The Archivist** | Evan | The chess wizard of the Camelot/Celtic zone (giant living chess board; Dresden Files energy). Real person keeps the name Evan in real-world contexts. |
-| **Oceanianoir** | Jaime | Always with the i. The Living Archive. Non-storyline character: she may name it whatever she chooses; if she gets drawn into the world good and proper, offer her the option of modifying her character to see what she comes up with. |
+| **Oceanianoir** | (redacted per explicit request) | Always with the i. The Living Archive. PRIVACY LAW (2026-09-12): the player asked for her real name to in no way be tied in — the real name never appears in canon, docs, or ledgers. Non-storyline character: she may name it whatever she chooses; if she gets drawn into the world good and proper, offer her the option of modifying her character to see what she comes up with. |
 | **Aurallia** | Eileen | The Hearth. Real person keeps her own name. |
 | **Bramble** | Anna | The Seer / The Doodler. Real person keeps her own name. |
 | **Speter Adams** | Adam | The Chameleon / The Dollkeeper. |

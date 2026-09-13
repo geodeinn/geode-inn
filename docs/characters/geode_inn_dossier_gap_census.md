@@ -78,7 +78,7 @@ The following table lists characters currently missing a canonical  file, ranked
 | **24** | **Hades** | Catacombs (L6) / Underworld Ruler | **73 files** | ,  |
 | **25** | **Jay** | Campgrounds (L8) / Tavern Family Head | **66 files** |  (13KB profile exists) |
 | **26** | **Luna (Taaffeite)** | Share Wood / Rare Gemstone Artisan | **63 files** | ,  |
-| **27** | **Oceanianoir (Jaime)** | Archive / Living Archive Real Seed | **57 files** | ,  |
+| **27** | **Oceanianoir** | Archive / Living Archive Real Seed (name redacted per the player's privacy request) | **57 files** |  |
 | **28** | **The Bone Keeper** | Catacombs (L6) / Ossuary Keeper | **46 files** | ,  |
 | **29** | **Bramble (Anna)** | Upper Inn / The Seer & Doodler | **45 files** |  (13KB profile exists) |
 | **30** | **Adam (Speter Adams)** | Upper Inn / Chameleon & Dollkeeper | **41 files** |  (16KB profile exists) |
@@ -125,7 +125,7 @@ To maximize development velocity and clear the narrative bottlenecks, missing ma
 15. **Belladonna** (**77 files**) & **The Greenward** (**76 files**) — Poison Garden herbalist and forest warden.
 16. **The Clockmaker** (**84 files**) — Clockwork Skies crew and timekeeper.
 17. **Luna (Taaffeite)** (**63 files**) — Rare gemstone artisan in Share Wood; Greg's wife.
-18. **Oceanianoir (Jaime)** (**57 files**) — The Living Archive real-world seed.
+18. **Oceanianoir** (**57 files**) — The Living Archive real-world seed (name redacted per the player's privacy request).
 19. **Ryan** (**32 files**) & **Zack** (**23 files**) — Family layer and astronomer roots.
 
 ### BATCH 4: STANDALONE PROFILE CONVERSIONS & SUPPORTING CAST

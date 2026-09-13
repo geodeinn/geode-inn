@@ -155,9 +155,7 @@
 - Geode_Inn_—_Eileen_(The_Hearth).txt — → needs review
 - Geode_Inn_—_Family_Character_Registry_(Final).txt — → roster/registry
 - Geode_Inn_—_Family_Character_Registry_(Updated).txt — → roster/registry
-- Geode_Inn_—_Jaime_(The_Living_Archive).txt — → needs review
-- Geode_Inn_—_Jaime_Concept_Art_(Final) — → gallery/assets
-- Geode_Inn_—_Jaime_Concept_Art_(Final).txt — → gallery/assets
+- (three legacy Drive files for Oceanianoir, original filenames carry a redacted personal name per the player's privacy request — treat as oceanianoir_(The_Living_Archive), oceanianoir_concept_art_(Final) and its .txt — needs review → gallery/assets)
 - Geode_Inn_—_Joe's_Character_(Story_+_Picture_Options).txt — → roster/registry
 - Geode_Inn_—_Joe_(The_Miniaturist)_+_Water_Zone_Aesthetic.txt — → zone_specs (promote if complete)
 - Geode_Inn_—_Persephone_Water_Overlap.txt — → needs review

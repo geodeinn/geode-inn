@@ -10,7 +10,7 @@ The character roster has completed a full naming audit (September 3, 2026). Seve
 
 | Old Name | New Name | Notes |
 |----------|----------|-------|
-| Jaime / Oceananoir | **Oceanianoir** (title) + **Jaime** (personal name) | RULING (Krista, 2026-09-12): RUN BOTH NAMES — the titled-NPC dual-name pattern (the Wanderer/Odin precedent). Oceanianoir is the title (always with the i — the Living Archive, walking periodic table, Atlantis resident + the Staircase lab's night shift with Will); Jaime is the personal name beneath it, usable in personal/family registers. Pirate-hacking backstory is IRL-only, NOT game data. |
+| (redacted) / Oceananoir | **Oceanianoir** | RULING (Krista, 2026-09-12, superseding the same day's dual-name draft): the player behind Oceanianoir asked for her real name to IN NO WAY be tied into the game — the name stays out of all public canon, docs, and display names, permanently (the strongest form of the privacy precedent: an explicit personal request). Oceanianoir is the only name, always with the i — the Living Archive, walking periodic table, Atlantis resident + the Staircase lab's night shift with Will. Pirate-hacking backstory is IRL-only, NOT game data. |
 | Krista (as character) | **Vaulknut** | In-game name for the Bog Fairy Golem / Artisan Thief / Selkie. Authorship credits and real-world references remain "Krista." |
 | The Sentinel | **Lozen** | Lozen's character. Class title was "The Sentinel"; character name is Lozen. |
 | Malachi | **Malachi** | The Unseelie King. |
@@ -39,7 +39,7 @@ The character roster has completed a full naming audit (September 3, 2026). Seve
 
 3. **Lovecraft mythos references stay.** Text about "Lovecraft's Cthulhu" or "the Cthulhu mythos" as literary source material keeps the original word. Only the Inn's NPC is Naut.
 
-4. **Image filenames are legacy.** Files in Base44 storage keep their original names (jaime_concept_art.png, the_keeper_aughra.png, uhtred_v2.png, etc.). They are asset references only — display names must use the new character names.
+4. **Image filenames are legacy.** Legacy-named files are being re-hosted under neutral names wherever the filename carries a redacted personal name (Oceanianoir's set was re-hosted 2026-09-12 per the player's explicit privacy request). Other legacy names (the_keeper_aughra.png, uhtred_v2.png, etc.) remain asset references only — display names must use the new character names.
 
 5. **Real players keep real names.** John Myers the player, Lozen the person (Lozen is the character), Krista the builder (Vaulknut is the character).
 

@@ -38,9 +38,9 @@ These characters have 2+ image files. During placement review, you'll need to de
   - hel.png
   - hel_v2.png → revision
 
-**jaime** (2 versions):
-  - jaime_concept_art.png → concept art
-  - jaime_concept_art_v2.png → revision
+**oceanianoir** (2 versions — re-hosted under neutral names 2026-09-12 per the player's privacy request):
+  - oceanianoir_concept_art.png → concept art
+  - oceanianoir_concept_art_v2.png → revision
 
 **kali** (2 versions):
   - kali.png
@@ -195,7 +195,7 @@ Clockwork Skies crew has inconsistent naming:
 - `tinkering_weeaboo.png` → is this one of the crew?
 
 ### D. Real People vs Characters
-- `jaime_concept_art*.png` (3 files) → Oceanianoir is a real person? Which character?
+- Oceanianoir's concept art (3 files, re-hosted under neutral names) → the real-person character; the real name is redacted per the player's explicit request
 - `katy.png` / `kathy_druid_dryad_ingame.png` → same person? Different characters?
 - `ryan.png` → real person? Which character?
 - `mason.png` → real person? Which character?

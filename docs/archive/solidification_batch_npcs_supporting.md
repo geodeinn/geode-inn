@@ -77,7 +77,9 @@ Aurallia’s cave wall mural contains the final missing panel of the Inn’s cyc
 
 ---
 
-## 3. JAIME — THE LIVING ARCHIVE & PERIODIC TABLE
+## 3. OCEANIANOIR — THE LIVING ARCHIVE & PERIODIC TABLE
+
+(Name redacted per the player's explicit request: the real name is in no way tied in. Any references below to the former name should be read as legacy drafting labels only, superseded by this ruling.)
 
 ### Visual DNA & Aesthetic Synthesis
 * **Living Inn (42Hz - Klimt Aesthetic):** Oceanianoir’s skin is a living, shimmering canvas: 118 chemical symbols, star-runes, and programming syntax etched in gold leaf and lapis lazuli ink across his arms and neck. Parchment rolls and brass astrolabes surround him in a sunlit alcove filled with Klimt-style geometric patterns.
