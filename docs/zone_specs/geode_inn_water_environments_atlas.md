@@ -60,3 +60,41 @@ Steady Light in every register (water light is already sine-soft — the sea's o
 ## STATUS
 
 SEEDED AS WORKING ATLAS (ruled in, 2026-09-13). Twelve environments mapped to standing zones; four gates open for the Witan.
+
+---
+
+## THE HUNT CENSUS — Stones to Find, Critters to Adopt (ruled in by Krista, 2026-09-13 afternoon)
+
+Every environment's kit gains two more fields: the STONE CENSUS (what players hunt for there — every stone real, every one found in that environment in the actual world) and the ADOPTABLE CENSUS (per the Species Law: the ambient life IS the pet line — the critter seen swimming in the environment is the critter that can come home with the player).
+
+| # | Environment | Stones to hunt (real) | Adoptable critters (real) |
+|---|-------------|----------------------|---------------------------|
+| 1 | THE ESTUARY | Agatized coral + tumbled agates from the gravel bars (the meeting-place polishes what both waters bring down) | Fiddler crabs (the mudflats' marching wavers — one big claw, all swagger); the diamondback terrapin (the brackish specialist — the only turtle that lives where the waters argue) |
+| 2 | THE BLACKWATER | Petrified palm wood + river agates from the Southern gravel bars (the tea-water's tumbled finds) | The spotted gar (the living fossil — a dinosaur in minnow's clothing); crayfish (the pinchy local); fireflies over the dark mirror at dusk (the surface's own stars) |
+| 3 | THE HYPERSALINE | Halite cubes (salt that grows itself into geometry); pink halite from the brine pools; OOLITIC SAND — the "egg stones," tiny calcite spheres the lake lays (ties the Gemstone Egg Economy); selenite blades from the evaporite flats | Brine shrimp (the sea monkey — the pink lake's whole citizenry); the flamingo (pink BECAUSE of what it eats there — the color is the diet, the diet is the census) |
+| 4 | THE DEEP LAKE | THE LAKE SUPERIOR AGATE (the flagship — hunted on the beaches by real people for a century; banded, lake-polished) + Scottish smoky quartz ("cairngorm") from the Great Glen country | The lake sturgeon (whiskered, ancient, gentle — the bottom's patient grandparent); the lake monster's little cousin (the long dark shape that is ALWAYS a log — until once) |
+| 5 | THE ALTITUDE LAKE | Andean blue opal (already in the Stone entity's Peru canon); the hammered-metal pebbles of the shore (the lake's own mirror-stones) | THE TITICACA WATER FROG (the giant folded-skin frog — real, the world's largest fully aquatic frog; the folds are lungs worn on the outside) |
+| 6 | THE GLACIAL TARN | Smoky quartz (the Rockies' canon reward) + THE GLACIAL ERRATIC — the migrant stone, carried by ice from a mountain range away and dropped here, far from home (the hunt's teaching: the stranger in the circle of locals; amazonite (Pikes Peak's blue-green) rides as the already-flagged candidate) | The American dipper (the songbird that WALKS UNDERWATER — the tarn's little diver, blinking through the blue) |
+| 7 | THE FROZEN LAKE | LARVIKITE (the Norwegian moonstone — blue flash in grey stone, Norway's own) + thulite (the pink of the winter coast) | The Arctic char (the fish that lives under the roof, unhurried in the cold — the lake's keeper on the inside) |
+| 8 | THE KARST | CAVE PEARLS (pisoliths — real: stone eggs formed in cave pools by patient dripping water; the karst's own egg economy) | THE OLM (the blind white salamander of the underground rivers — real, lives a century, never leaves the dark; the water table's resident ghost); the cave-adapted white catfish of the cenotes |
+| 9 | THE SUNKEN CITY | SEA GLASS (the human stone — glass the harbor tumbled into gems; the city keeps making treasure out of loss) + Baltic amber from the sea floor (the gold the north sea still pays out) | The den octopus (the drowned streets' cleverest resident — moves house every few days, knows the back doors); the damselfish traffic on the columns (the striped commuters of the avenues) |
+| 10 | THE ANOXIC LAYER | THE INVERSION: the keeping water yields only what it already kept — BOG OAK (the black wood, preserved centuries, dark as jet; the water's own lapidary gift). The hunt here is not taking: the log moment is the SEEING (the field note is the treasure; the diver's log fills, the pocket stays empty — the only water whose gift is the record) | THE EMPTY CENSUS: nothing lives below the boundary — and the empty census IS the lesson (the one environment with no pets to adopt is the one whose whole law is keeping). The adoptable lives at the EDGE: the sturgeon (the ancient patrol, cruising the oxic boundary above the keeping dark, never below) |
+| 11 | THE LOTIC | River jade (nephrite cobbles found IN the current — Wyoming/California hunters wade for these); the tumbled agates and jaspers of every gravel bar (the river sorts its own shop) | The river otter (the current's ambassador — play as a profession); the dobsonfly larva/hellgrammite (the water-graded creek's badge of honest clean water) |
+| 12 | THE HADAL | MANGANESE NODULES (the slowest stone on Earth — one centimeter per million years; the anti-Skinner made mineral; the hunt's teaching: some treasures cannot be rushed because they ARE time) | The dumbo octopus (the deep's gentle flap-flap); the anglerfish's lure re-ruled candle-class (the lamp is a living amber — Steady Light's deepest citizen, the only light that deep water makes) |
+
+### LAWS THAT HOLD IN THE HUNT
+
+- **No-Fail / honest-failure:** a dive that finds nothing is a dive that SAW the water — the field note fills instead of the pocket
+- **Anti-Skinner:** no respawn timers, no scarcity tickers; the nodule is the curriculum's own mascot (the stone that takes a million years to grow a centimeter cannot be farmed)
+- **The Species Law holds:** every adoptable is the same class master as the ambient — the gar swimming past is the gar that can come home; one paint line, two jobs
+- **The keeping law holds:** the anoxic hunt takes nothing; the water keeps, and the player learns the keeping by leaving it
+- **The hunt verbs per environment** (the atlas's verb field): MEET (estuary), LISTEN (blackwater), CRYSTALLIZE (hypersaline), BEACHCOMB (deep lake), REFLECT (altitude), TRACE (tarn — the erratic's story), WAIT (frozen), REACH (karst), SALVAGE RESPECTFULLY (sunken), WITNESS (anoxic), SORT (lotic), WITHSTAND (hadal)
+
+### OPEN GATES (added)
+
+5. Which hunt stones enter the Stone entity proper (candidates: larvikite, thulite, Lake Superior agate, oolite, cave pearl, bog oak as materials?) — the entity sync pass
+6. The adoptables' tri-mode art pass (each critter above needs its class master + cycle, per the critter roster pipeline)
+
+## STATUS (updated)
+
+SEEDED AS WORKING ATLAS (ruled in, 2026-09-13). Twelve environments mapped; hunt + adoptable censuses ruled in same day. Six gates open for the Witan.
