@@ -94,3 +94,19 @@ Krista's ruling (2026-09-12): "This is an acknowledgment; of things labeled as h
 ---
 
 *The dossier for the Quiet Load-Bearers shelf. Every entry pre-industrial. Every label removed.*
+
+---
+
+## THE LIVING LINE — the pattern never died (Krista's addition, 2026-09-12 evening)
+
+"You do realize this is how things like the owl statue guys of California and the founders of Burning Man — the list is a lot longer — formed, just in a new era?"
+
+Correct, and the thesis absorbs it: the assembly-pattern did not end at the industrial cutoff. It kept FORMING in every era, wearing whatever clothes the century left on the chair. Not archive content (the cutoff holds for the stacks) — this is the thesis's modern echo, Modern-Day-Legends territory, and the design philosophy of the Inn itself:
+
+- **The Bohemian Club / Bohemian Grove (California, 1872—)**: the "owl statue guys" — a private club that built a 40-foot concrete owl shrine at its annual summer gathering, complete with theatrical ritual (the Cremation of Care). A modern mystery-cult assembly formed exactly the old way: a place, a totem, a season, a rite, a roster. Steady Light note: the conspiracy industry around it belongs to the Modern Day Legends shelf, told with the same neutrality law as everything else. And note the totem honestly: an assembly of powerful men chose the OWL — the watcher, the witness, the one whose sighting means someone is near. Assemblies keep adopting the same totems. The owl did not need the conspiracy to be significant; Athena chose it first.
+- **Burning Man (Baker Beach 1986, Black Rock Desert 1990—)**: a festival-assembly that became a temporary city with its own written laws (the Ten Principles), a temple, a calendrical rite (the Burn), and a distributed governance of camps and regionals. A modern feis, complete with the fire.
+- **The list is longer, and the Inn already sits on it**: the Chautauqua assemblies (tents, lectures, ritual — "the most American thing about America"), the lyceum circuit, the salons, the lodges — and closest to home, THE RENAISSANCE FAIRE CIRCUIT: a modern assembly formed on the old pattern — guilds, grounds, customs, a seasonal calendar, a participants' society. The Inn's own faire network (FaireVenue, the artisan subscriptions) is a LIVING member of the lineage. The Inn did not archive the pattern. The Inn IS the pattern's newest formation.
+
+**The design-philosophy consequence:** when the Hearth-Feis convenes every third festival, the Inn is not re-enacting the feis of Tara. It is doing what Bohemian Grove and Black Rock City and the faire circuit all did — forming a real assembly around a real place in a new era, with the one difference the Inn is proud of: the doors are open, the laws are spoken aloud to everyone, and the owl is a witness, not a bouncer.
+
+*The Heathen Acknowledgment, extended: the pattern survived the labels, survived the centuries, and is still forming. You are reading this inside its newest building.*
