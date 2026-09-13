@@ -3,7 +3,7 @@
 <head>
 <meta charset="utf-8"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>The Geode Inn — Inner Tree, The Progress Space (v0.2)</title>
+<title>The Geode Inn — Inner Tree, The Progress Space (v0.3 — walkable)</title>
 <style>
   body { margin:0; background:#140d07; color:#d8b36a; font-family: Georgia, 'Times New Roman', serif; overflow:hidden; }
   #panel { position:fixed; top:12px; left:12px; background:rgba(20,13,7,.88); border:1px solid #7a5a2e; border-radius:10px; padding:14px 18px; max-width:250px; }
@@ -19,8 +19,9 @@
 <body>
 <div id="panel">
   <h1>The Geode Inn — Inner Tree</h1>
-  <div class="note">The Progress Space — v0.2 · the cylinder is the Silo shaft · the spiral is the West Staircase · the spokes are the roads out · every room position is a draft, awaiting the Witan.</div>
+  <div class="note">The Progress Space — v0.3 · the cylinder is the Silo shaft · the spiral is the West Staircase · the spokes are the roads out · every room position is a draft, awaiting the Witan.</div>
   <div id="layers"></div>
+  <button id="walkBtn" style="margin-top:8px;width:100%;background:#3a2a14;color:#e9c87e;border:1px solid #7a5a2e;border-radius:6px;padding:6px 0;font-family:Georgia,serif;font-size:12.5px;cursor:pointer;">WALK THE INN</button>
   <div id="tally" style="margin-top:8px;font-size:11px;color:#a08350;border-top:1px solid #4a3620;padding-top:6px;"></div>
 </div>
 <div id="legend" style="position:fixed;bottom:10px;left:12px;font-size:11px;color:#8a6d3f;line-height:1.5;"></div>
@@ -272,6 +273,50 @@ addEventListener('pointermove', (e) => {
   } else tip.style.display = 'none';
 });
 
+/* ---------- walk mode: enter the blueprint as a player would ---------- */
+let walk = false, yaw = 0, pitch = 0, drag = null, autofwd = false;
+const key = {};
+addEventListener('keydown', e => { key[e.code] = true; });
+addEventListener('keyup',   e => { key[e.code] = false; });
+camera.rotation.order = 'YXZ';
+const walkBtn = document.getElementById('walkBtn');
+const hintEl = document.getElementById('hint');
+const orbitHint = hintEl.textContent;
+const walkHint = 'W/A/S/D or arrows to walk \u00b7 Q down / E up \u00b7 drag to look \u00b7 Shift to hurry \u00b7 tap to start or stop walking';
+walkBtn.addEventListener('click', () => {
+  walk = !walk;
+  controls.enabled = !walk;
+  autofwd = false;
+  if (walk){
+    camera.position.set(15, 1.8, 15);          // the front step, Main Floor
+    yaw = Math.PI/4; pitch = 0;                // facing the shaft
+    walkBtn.textContent = 'BACK TO ORBIT';
+    hintEl.textContent = walkHint;
+  } else {
+    camera.position.set(52, 26, 52);
+    yaw = 0; pitch = 0;
+    controls.target.set(0, -2, 0);
+    walkBtn.textContent = 'WALK THE INN';
+    hintEl.textContent = orbitHint;
+  }
+});
+renderer.domElement.addEventListener('pointerdown', e => {
+  if (!walk) return;
+  drag = { x: e.clientX, y: e.clientY, t: performance.now(), moved: 0 };
+});
+addEventListener('pointermove', e => {
+  if (!walk || !drag) return;
+  const dx = e.clientX - drag.x, dy = e.clientY - drag.y;
+  drag.moved += Math.abs(dx) + Math.abs(dy);
+  yaw -= dx * 0.005;
+  pitch = Math.max(-1.2, Math.min(1.2, pitch - dy * 0.005));
+  drag.x = e.clientX; drag.y = e.clientY;
+});
+addEventListener('pointerup', () => {
+  if (walk && drag && drag.moved < 12 && performance.now() - drag.t < 300) autofwd = !autofwd;
+  drag = null;
+});
+
 /* ---------- legend + tally ---------- */
 {
   const legend = document.getElementById('legend');
@@ -287,10 +332,24 @@ addEventListener('pointermove', (e) => {
 const clock = new THREE.Clock();
 function animate(){
   requestAnimationFrame(animate);
+  const dt = Math.min(clock.getDelta(), .05);
   const t = clock.getElapsedTime();
   const beat = 0.5 + 0.14 * Math.sin(t * Math.PI / 1.2);   // 50 BPM sine, never a flash
   prism.material.opacity = beat;
   prism.rotation.y = t * 0.15;
+  if (walk){
+    const spd = ((key['ShiftLeft']||key['ShiftRight']) ? 14 : 6) * dt;
+    const fwd = new THREE.Vector3(); camera.getWorldDirection(fwd); fwd.y = 0; fwd.normalize();
+    const side = new THREE.Vector3().crossVectors(fwd, new THREE.Vector3(0,1,0));
+    if (key['KeyW']||key['ArrowUp']||autofwd)   camera.position.addScaledVector(fwd,  spd);
+    if (key['KeyS']||key['ArrowDown'])          camera.position.addScaledVector(fwd, -spd);
+    if (key['KeyA']||key['ArrowLeft'])          camera.position.addScaledVector(side, -spd);
+    if (key['KeyD']||key['ArrowRight'])         camera.position.addScaledVector(side, spd);
+    if (key['KeyE']) camera.position.y += spd * .8;
+    if (key['KeyQ']) camera.position.y -= spd * .8;
+    camera.position.y = Math.max(TREE.prismY + 1, Math.min(28, camera.position.y));
+    camera.rotation.set(pitch, yaw, 0, 'YXZ');
+  }
   controls.update();
   renderer.render(scene, camera);
 }
