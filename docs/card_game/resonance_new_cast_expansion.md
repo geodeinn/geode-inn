@@ -25,12 +25,12 @@ Each card follows the master anatomy: Active ability + Passive + Deathrattle, pl
 - **Voice:** Dry pharaoh-cadence courtroom humor. Three strikes and the gavel falls.
 - **Lore:** "The court is in session. The court is always in session."
 
-### The Build-Scholar — SENSE, 4 HP
+### Frank Wright — SENSE, 4 HP
 - **Passive:** Load Paths — your stones flanked by two or more stones gain +1 armor (the weight goes somewhere honest).
 - **Active:** Once per game, review an opponent's build: name their strongest stone, and its charm falls off (hubris found in the load path).
 - **Voice:** Academic puns delivered with total sincerity. A triangle is the only shape that can't gossip.
 - **Lore:** "Every structure is an argument about gravity. Some of them lose."
-- **NOTE:** Card prints as "The Build-Scholar" until the name ruling; the printing updates with a patch, never a fuss.
+- **NAMING:** FRANK WRIGHT (ruled, Krista 2026-09-14 — "Frank or Lloyd... maybe Wright"). The etymology is the job description: FRANK = candid (the honest consultant, the review that tells you true) + WRIGHT = the builder (wheelwright, shipwright, playwright — the Old English trade-word for one who makes). The architect pun survives at exactly the Inn's legal strength: two of three words, the borrow honored without the name lifted whole (the Radagast→Sorrel precedent). The Build-Scholar would deliver that pun deadpan and then cite the etymology. Card prints as "Frank Wright"; the title The Build-Scholar rides as the role line.
 
 ### The Examiner — SENSE, 4 HP
 - **Passive:** The Site Is Never Closed — the first charm you lose this game returns to your hand.
@@ -187,7 +187,7 @@ The existing table (The Wanderer, The Firekeeper, The Morrigan, Jay) gains four 
 - **Lozen — the no-tell terror.** Nothing to read because there's no gap: no performance, no bluff theater, just calm that is actually calm. Never bluffs because never needs to. Plays a patient counter-punch game. On Inn Master difficulty, Lozen is the final table. (Born of the September 14 kitchen-table ruling: the most dangerous poker face is no performance at all.)
 - **The Collector — the charm offensive.** Chatty, warm, bluffs with elegance, buys in endlessly and never tilts ("Delightful." on every bad beat, which is somehow worse than anger). The tab never comes due, and neither does the tilt.
 - **The Postmaster — the silent one.** Zero table talk. One tell exists: bets placed in soft rib-xylophone rhythm, pitch by Mohs. Players who listen can read the rhythm; players who don't, lose politely.
-- **The Build-Scholar — the structural reader.** Counts your chip stacks like load paths, folds early when the hand is overbuilt, punishes hubris on the river. The only opponent who thanks you for the lesson when beaten.
+- **Frank Wright — the structural reader.** Counts your chip stacks like load paths, folds early when the hand is overbuilt, punishes hubris on the river. The only opponent who thanks you for the lesson when beaten.
 
 **Back-room law carried:** the pot is a circle of stone chips; the 42Hz chord on a royal flush; the gold-frame felt edge. Steady Light holds — even the serious table is candle-class.
 
@@ -197,7 +197,7 @@ The existing table (The Wanderer, The Firekeeper, The Morrigan, Jay) gains four 
 1. ✅ The face-card canon (Part 2) — RULED as seated: Squeak/Beverley/Joe (Hearts), Postmaster/Morrigan/Naut (Spades), Oleander/Ragana/Seelie King (Clubs), Vaulknut/Mona/Collector (Diamonds).
 2. ✅ The Joker ruling — Ziggy + Brim as the printed pair, the formula split across both card backs. CANON.
 3. ✅ The 22 NPC cards — approved as drafted. The September Wave is carded.
-4. ⬜ The Build-Scholar card name — prints as "The Build-Scholar" until the naming ruling (the one remaining gate, outside this approval's scope).
+4. ✅ The Build-Scholar card name — RULED (Krista 2026-09-14): FRANK WRIGHT. The card prints the name; The Build-Scholar rides as the role line. ALL GATES IN THE SEPTEMBER WAVE ARE NOW CLOSED.
 5. ✅ Lozen is the Inn Master final table — River's the boss fight of the back room. RULED.
 
 ## OWED ART (from the rulings)
