@@ -121,3 +121,19 @@ The comic strip is the Inn's daily proof that it is alive. The Inn does not wait
 The comic is also the Inn's MUNINN — the memory that stays with the Inn. The Living Book is the Inn's library (stored for the player). The Comic Strip is the Inn's journal (stored for the Inn). The comic is the first system where the Inn writes about ITSELF, not about the player.
 
 The ravens fly because the ravens fly. The comic writes because the comic writes. The nest is: the daily strip, the archive of strips, the Storyteller's notes. The Inn's own record of its own life.
+
+---
+
+## FROM THE BENCH — the Commission Ledger (ruled, Krista, 2026-09-14)
+
+The Gazette gains a seasonal column: real custom orders from the maker's actual bench, adapted as Vaulknut's commissions — the Artisan Thief's strip material (the selkie IS the maker's player-character; the real shop's orders become the bench's stories). Season-one source confirmed: faire season, with customers' explicit blessings — "my returning customers seem to like bringing new challenges."
+
+**THE BLESSINGS PROTOCOL (load-bearing, per the privacy precedent):** commissions enter the strip ONLY with the customer's blessing; names never appear without explicit consent (anonymized by default — the Oceanianoir law rides along). The blessing itself is the punchline's ticket.
+
+**THE FOUNDING FOUR (queued strip seeds, from the real bench):**
+1. **THE TRI-CANID WEAVE** — a fellow asked for the teeth of a horse, a wolf, and a dog woven together. Three mouths, one braid; the engineering of wildly different shapes made uniform (the classic bench challenge — nature does not standardize).
+2. **THE KEEPING MEDALLION** — a father's compressed ashes wrapped like a pirate's medallion so it could become part of his garb. Pure Inn theology in one order: the keeping is a privilege; the dead carried, not cleared. The pirate's-medallion form points at Zeke's dock before a single panel is drawn (the customer Krista knows would be tickled — the blessing is already half-given).
+3. **THE AMMOLITE TRIO** — three abstract-shaped ammolite cabochons woven together as one uniform design. The Ammonite already lives in the Default Tray Registry; ammolite is the ammonite's own shell turned jewel — the fossil thread and the tray registry meet at the bench.
+4. **THE DAGGER COLLAR** — a woven leather collar able to hold a full cast-iron dagger with NO visible means of holding it. The Build-Scholar's future favorite panel: the load path hidden in the weave, nothing visible, everything held. The both-real register may wink (is it the weave? is it magic? the strip never confirms — the perhaps principle).
+
+**Standing rule:** every commission is a four-panel structure already — the ask (panel 1), the maker's face (panel 2), the attempt (panel 3), the wearable result (panel 4). The customer's blessing appears as the button, every time.
