@@ -18,6 +18,13 @@ The mode is consent, not skill: switching is free, unlogged, and never shamed. T
 ## CLIMBABLE TREES THROUGHOUT THE WORLDS (RULED, Krista 2026-09-12 night)
 The climbing mechanic is zone-universal: climbable trees appear throughout the zones (local height access, the ground-to-crown curriculum). The Dew Circuit's crown platform is the apex instance; every zone's trees are practice branches. The winged form upgrades any climbed height into a launch point.
 
+## THE TREETOP GATHERING SCREEN (Krista, 2026-09-14 — the Castlevania-style grammar)
+The treetop addition's gathering screen is a Castlevania-class side-scrolling grammar — the Undercity Knight precedent (a different control grammar ships as its own game system entered from inside its zone, not the zone rebuilt around it). THE WALL IS INVISIBLE: the room-grammar web beta holds the crown platform (the Inhabited Wide); the gathering screen loads from the platform like an arcade cabinet — same ENV masters (the Background Law's parallax panorama + tileable strips drawn from the crown platform's paint), same entities through the hub (stones, materials, progress all flow home). The player never feels the seam between place and play.
+
+THE TWO MODES (ruled, confirmed as the Dew Circuit's own DUAL MODE law applied to the gathering screen): the player CHOOSES —
+- **THE DEW-CRYSTAL MODE:** just for the fun of flying. Dew Mode's law carried whole: nothing logged, nothing counted, the wings exist for this first.
+- **THE CRYSTAL-GATHERING MODE:** applies to the crystal gathering level system — Stones Mode's recorded register: the progression, the level system, the ledger. The mode is consent, not skill; Anti-Skinner holds in both.
+
 ## Parked gates
 - The name ruling (Dew Circuit vs Krista's own).
 - Dew-gems as the catch (implied by name approval) vs. real stones — final call.
