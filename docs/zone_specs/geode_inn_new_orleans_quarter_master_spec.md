@@ -151,6 +151,15 @@ The name chose better than the mother knew (three layers, all load-bearing):
 
 **Name law:** CIAN on the card, "cayenne" out loud. The spelling keeps the mother's ambition; the saying keeps the Cook's.
 
+### THE TOURIST — the misplaced Canadian (added 2026-09-14, Krista's ruling; the dialect comedy)
+The Quarter's recurring visitor: a Canadian tourist who appears OCCASIONALLY, unannounced, to lovingly correct the local dialect — and nobody realizes the character is the maker poking fun at a misplaced Canuck's own experience, except those who know the maker personally. That's the whole engine: the private joke in plain sight, and thelocals take it at face value forever.
+
+- **The corrections (the running bits):** "It's CRAYFISH, actually — sorry — no, sorry, you're fine — it's just, the dictionary says crayfish, eh?" And the pronunciation tutorials: "house" as "hoose," "about" as "aboot," delivered with total pedagogical sincerity while standing in 95% humidity in a full winter parka. THE ONE-TIME PRINTED BIT (happens once, becomes local legend, never repeated): teases the locals about their use of y'all — and ends the very sentence with "eh?" Nobody points it out. The knitting circle discusses it for a decade.
+- **The appearance — every stereotype at once:** the parka in August (heat-immune, everyone else melting), the hockey jersey (not a team — THE team, Leafs, worn like vestments), the toque, the camera, the fanny pack, a Tim's cup carried from home (refilled with chicory, the cup never replaced), and the reflexive "sorry" when SOMEONE ELSE bumps into the Tourist.
+- **The frequency law (Anti-Skinner):** appears occasionally, never scheduled, never counted. Each appearance delivers exactly ONE correction, then the Tourist leaves for no reason. The player cannot farm the Tourist; the Tourist farms nothing. Ambient comedy, not a quest line — the world's most reliable unreliable event.
+- **The locals' law (the Coexistence Register's far edge):** the Quarter never corrects the Tourist back. Never once. The community that feeds its werewolf and pours for its dead simply absorbs one more neighbor whose deal nobody questions. Cian's standing order: one plate of poutine beignets, on the house, whenever the Tourist appears — a peace offering nobody explains, because no war was declared. The knitting circle once knitted a lighter scarf. The Tourist wore it OVER the parka.
+- **Voice:** over-the-top polite, the pedantry of someone whose dictionary has never met a bayou. Endearments deployed as punctuation. Ends most sentences with "eh?" and corrects everyone else's grammar while doing it.
+
 ### OPEN GATES (ruled by the Witan)
 1. The Knitting Circle's residents — named originals or anonymous circle first?
 2. The Rougarou — one cursed-at-a-time (the 101-day relay) or a standing family line?
@@ -158,3 +167,5 @@ The name chose better than the mother knew (three layers, all load-bearing):
 4. The Knitting Circle as a poker-table roster seed — the porch's convoluted grudges translate beautifully to Stone Poker AI opponents (the circle knits, bluffs in patterns, and telegraphs everything — the anti-Lozen table).
 5. ✅ THE COOK'S NAME — RULED (Krista, 2026-09-14): CIAN, pronounced "cayenne." Gate closed — see the naming block above.
 6. The Cook's roster of trades — as specced (cook, tailor, braider, supply route) or amended; the multiskill ceiling is Krista's to set.
+7. THE TOURIST'S NAME — gate open, the maker's own (the Cian precedent). Note: a running bit is available — the Tourist is always introduced and always interrupted before the name lands.
+8. The Tourist's appearance roster — as specced (parka, jersey, toque, camera, fanny pack, Tim's cup) or amended; the stereotype ceiling is the maker's to set.
