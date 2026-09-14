@@ -22,7 +22,7 @@ The player who LISTENS wins. Not the player with the most powerful cards — the
 | Stone Cards | 198 | The backbone — go in 5 stone slots, do the fighting |
 | Element Charm Cards | 118 | Attach to stones — modify and enhance |
 | Quest Charm Cards | 45 | Story-specific, earned through quests, not packs. Always Legendary/Mythic |
-| NPC Cards | 45+ | One at a time per player. Powerful but vulnerable |
+| NPC Cards | 45+ (+22 in the September Wave expansion) | One at a time per player. Powerful but vulnerable |
 
 ---
 
@@ -139,6 +139,9 @@ The board represents a Geode Inn zone. Each zone has a passive effect:
 | Harmony (2v2, future) | Two players vs two players. Combined frequencies. Pair bonuses (same as Leaderboard pair system). The Twin Crystal as reward. |
 
 ---
+
+## THE SEPTEMBER WAVE EXPANSION (2026-09-14)
+22 new NPC cards (the September cast wave: the Postmaster, Judge Tootenkowl, the Build-Scholar, the Examiner, Vaulknut, Harry, Lichenblossom, Ziggy, Tumble, Squeak, the Distracted Sprite, Oceanianoir, Will, the Hearth-Hound, the Wandering Guard, the Lady of the Lake, the Limner, the Clockmaker, the Bone Keeper, the Flute-Keeper, Katya, the Tinkering Weeaboo) + the Royo deck face-card canon + four new Stone Poker opponents. Full draft: docs/card_game/resonance_new_cast_expansion.md — awaiting Krista's rulings on the open gates.
 
 ## NPC AI OPPONENTS
 
