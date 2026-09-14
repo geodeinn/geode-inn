@@ -1,0 +1,2 @@
+card_id,character_name,zone_arcana,card_title,version_type,portrait_master_path,in_game_render_path,living_state_path,shadow_state_path,in_between_state_path,cycle_sheet_path,version_notes
+CARD-001,EXAMPLE — The Bard,Celtic Highlands,The Bard,portrait master,images/bard/bard_portrait_master.png,,,,,,,,The sett's first wearer — kilt ruling 2026-09-14
