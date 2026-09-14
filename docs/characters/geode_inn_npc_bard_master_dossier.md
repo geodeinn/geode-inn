@@ -80,6 +80,12 @@ Roles across the Main Floor must be kept distinct (/app/geode-inn-work/docs/zone
 
 ---
 
+## THE KILT AND THE PIPES (ruled, Krista, 2026-09-14: "I think our Bard needs to be in a kilt. With bagpipes occasionally")
+
+- **THE KILT — the sett's first wearer.** The Bard wears the Inn's own tartan (the sett woven on the Irish-Welsh-Scottish line, per the Weave spec, 2026-09-14). The ruling closes its own loop: the tartan's ground IS the Bard's family line, so the Bard was always the sett's first resident — the kilt simply makes it visible. Worn properly, without commentary; the Kells master-class instructor dressed in the building's woven identity is the Celtic Highlands' whole thesis walking around. THE FEATHER: one feather in the cap, earned not inherited (the story of which is the Bard's to tell, which means it becomes more elaborate every telling).
+- **THE PIPES — the occasional register.** The Bard plays the bagpipes OCCASIONALLY: never scheduled, never announced (Anti-Skinner — the pipes arrive when the day deserves them). TWO LAWS under them: (1) THE DRONE IS THE CALL — pipes are the Gathering Law's own instrument; the drone is the Inn's held note made loud, the one voice that carries across every floor and out over the grounds, so the pipes are how the Inn summons without a bell (the campfire assembly, the festival opening, the welcome home). The drone is a frequency instrument — the frequency canon's festival register. (2) THE OUTDOOR LAW — the pipes play outside; the Inn is a sanctuary, and the announcing voice never plays indoors (the dock, the grounds, the steps). Inside, the Bard returns to the soft instruments.
+- **The dock sessions gain a register:** the occasional full-pipe sendoff for Zeke's ship, heard from the water long after the sails drop. The Gazette will draw this within a week of the pipes' first appearance; it is inevitable and should not be fought.
+
 ## THE WEAVE
 
 - **Class System:** Bard Blowhard starting class (/app/geode-inn-work/docs/geode_inn_character_classes.md).

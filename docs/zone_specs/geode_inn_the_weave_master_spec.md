@@ -54,7 +54,7 @@ THE CHAIN: Kells -> wire -> Ashley -> Soulstice -> the Inn. The ecosystem that g
 
 ## GATES (the Witan's)
 
-1. THE DESIGN SESSION — the actual sett: thread counts, band widths, zone order, the sett registered properly (the Scottish way: written down like a deed).
+1. THE DESIGN SESSION — the actual sett: thread counts, band widths, zone order, the sett registered properly (the Scottish way: written down like a deed). FIRST WEARER RULED (2026-09-14): THE BARD — the sett's first resident in kilt form ("the Bard needs to be in a kilt. With bagpipes occasionally" — Krista). The loop closes itself: the tartan's ground is the Bard's family line; the first wearer was never in question. The pipes join as the Gathering Law's call instrument (the drone is the held note made loud; the Outdoor Law holds — the announcing voice plays outside).
 2. THE TARTAN'S NAME — the maker's (the naming precedent: it travels better said out loud).
 3. THE WEAVER — does the Inn gain a Weaver resident at the Norns' Loom, or do the Norns' threads weave alone? (The Hearth-Feis already seats a Bard; the Loom may want its hands.)
 4. THE DYE VAT'S ADDRESS — Oceanianoir's textile wing, the Color Works, or both (the one-shelf law needs its shelf).
