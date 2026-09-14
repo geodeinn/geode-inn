@@ -173,7 +173,7 @@ The Quarter's recurring visitor: a Canadian tourist who appears OCCASIONALLY, un
 4. The Knitting Circle as a poker-table roster seed — the porch's convoluted grudges translate beautifully to Stone Poker AI opponents (the circle knits, bluffs in patterns, and telegraphs everything — the anti-Lozen table).
 5. ✅ THE COOK'S NAME — RULED (Krista, 2026-09-14): CIAN, pronounced "cayenne." Gate closed — see the naming block above.
 6. The Cook's roster of trades — as specced (cook, tailor, braider, supply route, network keeper) or amended; the multiskill ceiling is Krista's to set.
-9. The hacker layer's depth — ambient wink only (never explained) or a hidden quest line for the players who notice the glow under the counter?
+9. THE HACKER LAYER'S DEPTH — RULED "PERHAPS" (Krista, 2026-09-14): the maybe IS the ruling. Never confirmed as a quest line, never denied as a wink — the layer keeps its perhaps, per the never-explained law. The players who notice the glow under the counter get exactly the answer the glow gives: perhaps.
 10. The Cook's handle — the network keeper has a handle; the naming is the maker's (the Cian precedent).
 7. ✅ THE TOURIST'S NAME — RULED (Krista, 2026-09-14): "The Tourist is all the title this character will ever need." Title-is-name, the Inn's oldest NPC pattern (the Collector, the Bone Keeper, the Postmaster, the Gardener). No personal name, no interruption bit — the Tourist is simply and forever THE TOURIST. Gate closed.
 8. The Tourist's appearance roster — as specced (parka, jersey, toque, camera, fanny pack, Tim's cup) or amended; the stereotype ceiling is the maker's to set.
