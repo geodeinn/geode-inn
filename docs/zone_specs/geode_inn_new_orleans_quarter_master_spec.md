@@ -130,8 +130,20 @@ The Cajun werewolf of real folklore — the bayou's answer to the Wandering Guar
 ### THE CASETTE GIRLS — the legend pin (the archive layer)
 The real legend of the filles à la cassette (1728): the girls who arrived from France with their little casket-chests of belongings, and the two centuries of folklore that decided the caskets held something else. THE ARCHIVE TELLS IT TRUE: the chests held dowries and dresses — the legend is the lesson (fear of the newcomer, folded into a coffin story). And the Inn's one-wink law: in the Quarter's museum case, the caskets are displayed open, empty, with a plaque reading "They held clothes." — and every night at closing, the curator finds them LATCHED. NEVER EXPLAINED. (Pre-revolution history: squarely in the Archive's scope; the legend layer rides the Modern Legends framing for its later chapters.)
 
+### THE COOK — Lafayette energy (added 2026-09-14, Krista's ruling: "a character with Lafayette energy... that would be incredible")
+THE BITTER GROUNDS' kitchen has its master: the short-order genius with runway swagger, the truth-teller who loves everybody and excuses nobody. The reference is a TONE REGISTER ONLY (copyright law: the character is the Inn's own original — the energy is honored, nothing borrowed): the flamboyant-cook archetype of the coexistence register — sass as the delivery system for total honesty, fierceness as the armor over a gold-plated heart, the survivor who chose JOY as the flex.
+
+- **Station:** the flat-top and the beignet station, nights. THE CAFÉ'S ONE LIVING HEARTBEAT — the coffee girls never leave; the cook always does, and comes back every night. Staying as a choice made nightly. Clocks out at dawn, sleeps through the second-line, back before the lamps warm.
+- **The multiskill law (the Cross-Craft Overlay's kitchen chapter — Lugh the Many-Skilled's small-hours cousin):** cooks, tailors (the embroidered aprons the knitting circle keeps trying to out-do), braids hair on the gallery between rushes, and runs the LEGAL side of the gris-gris supply route — Marie's materials desk sends everyone here for the honest goods. "Baby, I don't sell magic. I sell the good candles. What you do with 'em is your business with the Queen."
+- **The truth law:** reads every customer's story by their second sip and TELLS them their own plot like reading a ticket. Never cruel. Never successfully lied to. The frog court's favorite character witness, and everyone knows it.
+- **The protective law:** the one who walks the 3 A.M. regulars home past the third crypt. The covered-dish law's field general — the Rougarou's Thursday plate is cooked HERE, and the circle doesn't discuss it, they just return the casserole dish washed.
+- **Voice:** direct address, endearments with teeth ("sugar," "honey," deployed like rank), sentences that end where they end (the Inn's clipped-kindness register), and the truth always served hotter than the chicory.
+- **Poker seed:** the anti-Lozen of the Stone Poker back room — reads everyone instantly AND tells them their tells out loud. Somehow still wins.
+
 ### OPEN GATES (ruled by the Witan)
 1. The Knitting Circle's residents — named originals or anonymous circle first?
 2. The Rougarou — one cursed-at-a-time (the 101-day relay) or a standing family line?
 3. The covered-dish economy — a real crafting contribution loop (players cook for the Rougarou)?
 4. The Knitting Circle as a poker-table roster seed — the porch's convoluted grudges translate beautifully to Stone Poker AI opponents (the circle knits, bluffs in patterns, and telegraphs everything — the anti-Lozen table).
+5. THE COOK'S NAME — the one gate Krista's own (the Frank Wright precedent: the naming is the maker's). Energy specced; the name waits for the maker's word.
+6. The Cook's roster of trades — as specced (cook, tailor, braider, supply route) or amended; the multiskill ceiling is Krista's to set.
