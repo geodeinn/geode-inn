@@ -45,4 +45,4 @@ Every science-bearing quest-giver in the Inn gains a CRITTER SIDEKICK — a smal
 1. The roster scope — the five proposed first, or Krista's own order.
 2. The names — each sidekick's name is the maker's ruling.
 3. The Overhear Law's register — full eavesdrop mechanic (dialogue written to the sidekick) vs. ambient flavor (the sidekick demonstrates, the NPC narrates without direct address)?
-4. The Sprite Census crossover — do the six lab sprites gain names as part of this wave, or does the lab stay the unnamed crew (their charm IS the anonymity)?
+4. ✅ THE SPRITES' ANONYMITY — RULED (Krista, 2026-09-14): "The crew keeps its anonymity. They will probably get named by the players." The lab sprites stay unnamed BY THE MAKERS — the naming right passes to the community. THE FOLKLORE RULE: whatever the players come to call them IS their name (the emergent-naming precedent, per the folk-history canon: resident-led records are the primary representation). If a player-given name sticks hard enough, the Witan may canonize it — but the crew is born free of paperwork, and the building's only residents named by nobody official. The anonymity IS the charm.
