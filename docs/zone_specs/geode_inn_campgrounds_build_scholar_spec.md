@@ -66,7 +66,7 @@ Ties: the Historical Master NPCs at the campfire (a builder-scholar would host t
 ## GATES (open, for the Witan)
 
 1. **THE NAME.** Krista's to rule. (Title-is-name precedent would suggest a trade title — the Foreman, the Master Builder, the Site Scholar — or a personal name; the character keeps Xander's everyman warmth either way.)
-2. **THE PAST.** The Alfred precedent means the character HAS one — a former-something before the Campgrounds, hinted never told. What it was (and how much the Inn knows) is Krista's to rule. Standing suggestion: the past stays permanently undisclosed — the hints are the character, the reveal would shrink him.
+2. **THE PAST.** The Alfred precedent means the character HAS one — a former-something before the Campgrounds, hinted never told. What it was (and how much the Inn knows) is Krista's to rule. REFERENCE REGISTER: the Pennyworth series (Krista's endorsement, 2026-09-14: "highly underrated") — the young-former-agent canon; if the past is ever glimpsed, its REGISTER looks like that show's register: competent, cold-eyed when needed, choosing service anyway. Standing suggestion: the past stays permanently undisclosed — the hints are the character, the reveal would shrink him.
 2. **THE ZEPPO LAW'S SPREAD.** Whether the law seats unpowered hearts in Camelot, the Fae Kingdom, and Cosmology, or stays a Campgrounds principle alone.
 3. **THE ART.** Portrait master + build-poses + cycle sheet; the hands matter (Xander's carpenter hands; chalk on the fingers). Filed into the Master Asset Ledger when the audit lands.
 4. **THE QUEST CHAIN.** Whether the five-tier build progression gains a companion quest line ("the Survey") or stays outline-only (No-Fail, information not a gate).
