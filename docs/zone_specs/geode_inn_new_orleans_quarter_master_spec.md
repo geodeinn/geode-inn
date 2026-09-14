@@ -151,7 +151,7 @@ The name chose better than the mother knew (three layers, all load-bearing):
 
 **Name law:** CIAN on the card, "cayenne" out loud. The spelling keeps the mother's ambition; the saying keeps the Cook's.
 
-### THE TOURIST — the misplaced Canadian (added 2026-09-14, Krista's ruling; the dialect comedy)
+### THE TOURIST — the misplaced Canadian (added 2026-09-14, Krista's ruling; the dialect comedy) — NAME RULED: title-is-name (2026-09-14)
 The Quarter's recurring visitor: a Canadian tourist who appears OCCASIONALLY, unannounced, to lovingly correct the local dialect — and nobody realizes the character is the maker poking fun at a misplaced Canuck's own experience, except those who know the maker personally. That's the whole engine: the private joke in plain sight, and thelocals take it at face value forever.
 
 - **The corrections (the running bits):** "It's CRAYFISH, actually — sorry — no, sorry, you're fine — it's just, the dictionary says crayfish, eh?" And the pronunciation tutorials: "house" as "hoose," "about" as "aboot," delivered with total pedagogical sincerity while standing in 95% humidity in a full winter parka. THE ONE-TIME PRINTED BIT (happens once, becomes local legend, never repeated): teases the locals about their use of y'all — and ends the very sentence with "eh?" Nobody points it out. The knitting circle discusses it for a decade.
@@ -167,5 +167,5 @@ The Quarter's recurring visitor: a Canadian tourist who appears OCCASIONALLY, un
 4. The Knitting Circle as a poker-table roster seed — the porch's convoluted grudges translate beautifully to Stone Poker AI opponents (the circle knits, bluffs in patterns, and telegraphs everything — the anti-Lozen table).
 5. ✅ THE COOK'S NAME — RULED (Krista, 2026-09-14): CIAN, pronounced "cayenne." Gate closed — see the naming block above.
 6. The Cook's roster of trades — as specced (cook, tailor, braider, supply route) or amended; the multiskill ceiling is Krista's to set.
-7. THE TOURIST'S NAME — gate open, the maker's own (the Cian precedent). Note: a running bit is available — the Tourist is always introduced and always interrupted before the name lands.
+7. ✅ THE TOURIST'S NAME — RULED (Krista, 2026-09-14): "The Tourist is all the title this character will ever need." Title-is-name, the Inn's oldest NPC pattern (the Collector, the Bone Keeper, the Postmaster, the Gardener). No personal name, no interruption bit — the Tourist is simply and forever THE TOURIST. Gate closed.
 8. The Tourist's appearance roster — as specced (parka, jersey, toque, camera, fanny pack, Tim's cup) or amended; the stereotype ceiling is the maker's to set.
