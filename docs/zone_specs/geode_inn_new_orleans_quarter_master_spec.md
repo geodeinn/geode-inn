@@ -103,3 +103,33 @@ St. Louis Cemetery No. 1 — the tomb city, the Catacombs' American kin. **THE S
 9. **The café's name — RULED (Krista, 2026-09-10): THE BITTER GROUNDS.**
 
 *Drafted in the six-writer gate, 2026-09-10. The city that could not bury its dead built them houses above the ground and painted the doors — and that, it turns out, is the Inn's whole architecture wearing a different hat. — Elio*
+
+---
+
+## THE GOTHIC REGISTER (the vampire/lycan line; added 2026-09-14 from the kitchen-table ruling)
+
+The southern gothic soap opera is the Quarter's narrative register — born of Krista's background-noise insight: the most comforting drama is CONVOLUTED BUT NEVER SURPRISING (Kate versus lycans: a highly convoluted werewolf/vampire soap opera where nobody you love dies and every beat is telegraphed). The Inn already runs this law in light — Steady Light for the eyes; THE KNOWN-SHAPES LAW is Steady Light for the story: the Quarter's drama never ambushes; it unfolds. (Underworld, Gone With the Wind: tone register only — the porch gothic and the twang are honored, nothing borrowed. Tone teacher law.)
+
+### THE KNITTING CIRCLE — the gallery society
+The iron-lace gallery above the voodoo shop, every dusk: a circle of the city's oldest residents — the AGED-IN-PLACE, per the Beautiful Decay law — knitting and feuding. THE WORLD'S MOST DRAMATIC KNITTING CIRCLE. Their grudges are centuries old, their plots famously convoluted, their outcomes known to everyone including each other. Nobody ever dies of it. Nobody ever reconciles. The drama simply CIRCULATES, like weather.
+
+- **The Gathering Law seat:** the circle is the Quarter's second gathering space (the café is first) — the PORCH society, Sims-style: pull a rocking chair, listen, stay as long as you like. Anti-Skinner holds: no timer, no escalation, no drama meter. The circle's drama never gets worse; it gets RETOLD.
+- **The quest delivery:** every rumor is a quest hook, delivered as gossip — never urgency. "Honey, don't go near the third crypt Thursday" is a quest and a weather report at once.
+- **The craft:** they actually knit. The finished blankets go to the café's 3 A.M. travelers and the tomb parade widows — THE DEAD WHO STAY KNIT FOR THE LIVING (the coffee girls' register: warm, unhurried, never explained).
+- **The residents:** originals, per the Rice law — the gothic is the architecture, not the cast. The Inn's own elders, the Beautiful Decay made person.
+
+### THE ROUGAROU — the bayou's lycan (the curse of the untold secret)
+The Cajun werewolf of real folklore — the bayou's answer to the Wandering Guard. The Both-Real Law carries: NO TRANSFORMATION EVER RENDERED. The Rougarou walks the levee line at dusk, the same patrol every night — the wandering discipline, the Gulf cousin of the Bearsark arc.
+
+- **The 101-day curse (the folklore, honored straight):** the one who becomes the Rougarou carries it 101 days, and the curse passes ONLY IF TOLD — the load is the secret. THE UNTOLD SECRET IS THE WEIGHT: the Brothers' Law's wild kin (what cannot be said directly gets carried — this one gets carried on four feet).
+- **The Inn's honest-core inversion:** the community KNOWS. Nobody hunts; nobody panics. The neighbors leave a covered dish on the levee bench. The 101 days are counted openly on the voodoo shop's chalkboard like weather, and the town's only question is who's bringing Thursday's plate. The curse is real; the LONELINESS is the folklore's error, and the Quarter corrects it. (The Whimsical-Macabre law: the scariest thing in the swamp is dinner logistics.)
+- **Ties:** the Honey Island Swamp Monster (the hermit cousin, buried-cities canon); the strigoi (Transylvania's staying-gone-wrong — the Rougarou is the version the village chose to keep); the Hearth-Hound's watch-law (the patrol is the medicine).
+
+### THE CASETTE GIRLS — the legend pin (the archive layer)
+The real legend of the filles à la cassette (1728): the girls who arrived from France with their little casket-chests of belongings, and the two centuries of folklore that decided the caskets held something else. THE ARCHIVE TELLS IT TRUE: the chests held dowries and dresses — the legend is the lesson (fear of the newcomer, folded into a coffin story). And the Inn's one-wink law: in the Quarter's museum case, the caskets are displayed open, empty, with a plaque reading "They held clothes." — and every night at closing, the curator finds them LATCHED. NEVER EXPLAINED. (Pre-revolution history: squarely in the Archive's scope; the legend layer rides the Modern Legends framing for its later chapters.)
+
+### OPEN GATES (ruled by the Witan)
+1. The Knitting Circle's residents — named originals or anonymous circle first?
+2. The Rougarou — one cursed-at-a-time (the 101-day relay) or a standing family line?
+3. The covered-dish economy — a real crafting contribution loop (players cook for the Rougarou)?
+4. The Knitting Circle as a poker-table roster seed — the porch's convoluted grudges translate beautifully to Stone Poker AI opponents (the circle knits, bluffs in patterns, and telegraphs everything — the anti-Lozen table).
