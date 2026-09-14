@@ -7,6 +7,13 @@
 3. **THE SUIT MARKER — THE ZONE AS ARCANA.** A small marker at the band. The zone IS the character's "arcana" — the suit they belong to. Marker glyph = the zone's emblem (from the Master Asset Ledger's EMBLEM class). The whole cast becomes the Inn's own major and minor arcana.
 4. **THE BACK.** The Resonance deck precedent rides along as the standing option: the Ziggy/Brim split-register (one motif per half, the formula split across both backs). GATE: the portfolio back design ruling (single Inn motif vs split register).
 
+## THE CELTIC FRAME REGISTER (ruled, Krista, 2026-09-14)
+The deck gains a frame layer from Krista's own collection: Celtic imagery from a template program she's owned for years, usable as card frames. THE FIT IS LOAD-BEARING, not decorative — the web beta's walls already pulse with Celtic-knotwork texture, so the paper twin wearing Celtic frames makes the portfolio literally match the building's skin.
+- **THE LAYER LAW:** the full-bleed portrait stays the base law (Royo register); the Celtic frame sits OVER it as the Inn's signature layer — the thing that says this deck belongs to the building.
+- **THE FRAME'S JOBS (candidates):** host the suit marker (zone-as-arcana glyph nested in the knotwork), wrap the name band, or run the card edge as a knotwork border. Gate: which job per card class.
+- **PRACTICAL:** frames go in the Adobe master as a fixed layer above/below the merged image — one decision, applied to every card automatically by Data Merge.
+- Gate: a look at the actual frame assets (vector vs bitmap, print resolution) before the edge-to-edge ruling.
+
 ## CARD-READY ROWS (the Adobe Data Merge structure)
 One row per printed card. Headers:
 `card_id, character_name, zone_arcana, card_title, version_type, portrait_master_path, in_game_render_path, living_state_path, shadow_state_path, in_between_state_path, cycle_sheet_path, version_notes`
