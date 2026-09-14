@@ -141,10 +141,20 @@ THE BITTER GROUNDS' kitchen has its master: the short-order genius with runway s
 - **Poker seed:** the anti-Lozen of the Stone Poker back room — reads everyone instantly AND tells them their tells out loud. Somehow still wins.
 - **THE SURVIVOR'S LAW (ruled with the energy, 2026-09-14):** the reference's own history is the law — in the books, the character dies early; on screen, the adaptation REFUSED the outline and kept the character for season after season, because the character had become load-bearing (the performance made the character un-killable; the story was revised to match). THE COOK carries that law forward: never killed for plot convenience, never written out for tidiness. The Inn's retirement law was already this (retirement is an honor, the community votes, the Hatchery keeps the door open — the Archive of Alternate Versions holds the versions, not the funeral). The Lafayette Precedent, named: WHEN THE LIVING STORY LOVES A CHARACTER MORE THAN THE OUTLINE DOES, THE OUTLINE LOSES. Krista's ruling on the reference: "my favorite of that whole series."
 
+### THE COOK'S NAME — CIAN, PRONOUNCED LIKE CAYENNE (ruled, Krista, 2026-09-14)
+The mother wanted to be all exotic, so the Cook got a Celtic name: **CIAN.** The Cook wears it flat on purpose, pronounced like the pepper: **cayenne.** The name's whole biography in one syllable shift — the fancy origin carried into the kitchen and handed back hotter.
+
+The name chose better than the mother knew (three layers, all load-bearing):
+1. **The meaning:** Cian is Irish for ANCIENT, ENDURING, LONG-LIVED — THE NAME IS THE SURVIVOR'S LAW. The character who is never killed for plot convenience is literally named "endures." The outline never stood a chance.
+2. **The myth:** in the Tuatha lore, CIAN IS LUGH'S FATHER — and this spec had already ruled the Cook "Lugh the Many-Skilled's small-hours cousin." The multiskill chapter was already the family trade. The Celtic depth thread (the Tuatha presence) runs straight through the Bitter Grounds' kitchen, and nobody planned it until the name arrived.
+3. **The pronunciation:** cayenne — the heat, the kitchen, the local flattening of the exotic. New Orleans does this to everything and calls it flavor. The one who says it properly (KEE-un) gets read their plot by their second sip, gently, once.
+
+**Name law:** CIAN on the card, "cayenne" out loud. The spelling keeps the mother's ambition; the saying keeps the Cook's.
+
 ### OPEN GATES (ruled by the Witan)
 1. The Knitting Circle's residents — named originals or anonymous circle first?
 2. The Rougarou — one cursed-at-a-time (the 101-day relay) or a standing family line?
 3. The covered-dish economy — a real crafting contribution loop (players cook for the Rougarou)?
 4. The Knitting Circle as a poker-table roster seed — the porch's convoluted grudges translate beautifully to Stone Poker AI opponents (the circle knits, bluffs in patterns, and telegraphs everything — the anti-Lozen table).
-5. THE COOK'S NAME — the one gate Krista's own (the Frank Wright precedent: the naming is the maker's). Energy specced; the name waits for the maker's word.
+5. ✅ THE COOK'S NAME — RULED (Krista, 2026-09-14): CIAN, pronounced "cayenne." Gate closed — see the naming block above.
 6. The Cook's roster of trades — as specced (cook, tailor, braider, supply route) or amended; the multiskill ceiling is Krista's to set.
