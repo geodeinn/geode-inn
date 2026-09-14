@@ -46,6 +46,12 @@ Home: the Norns' Loom (Cosmology, level 10) — the thread-creatures already in 
 
 ---
 
+## THE MAKER'S THREAD (the weave's own genealogy — ruled by living, 2026-09-14)
+
+The Inn's textile law was not discovered in a design session. It was lived, years before the building existed: the LOTR films (elf kingdom and dwarf patterning) primed the eye; during the Mayo trip in Minnesota, Krista and her dad passed time at the Mall of America; a tiny Celtic store; elf-style earrings; and then — floored by knotwork, the pattern that had hidden in a lifetime of art books as background, finally standing as architecture. She taught herself a whole style of WIRE WORK to duplicate a Kells image, then found Clifford Ashley's "Ashley Book of Knots" (1944, the knot encyclopedia — the Archive of knots) as her reference text.
+
+THE CHAIN: Kells -> wire -> Ashley -> Soulstice -> the Inn. The ecosystem that grew from "a book about rocks" is built on a wire technique developed to copy a Kells page. THE INN IS CELTIC KNOTWORK SCALED UP INTO A BUILDING — the maker was weaving before the loom was noticed, same as the tartan's ground was held before the loom was noticed. The Maker's Bench and the Kells carpet pages are the same family reunion. The discovery was made with her dad — the man whose Irish, Welsh, and Scottish line is the sett's ground. The Weave was never a new system; it was the maker's own craft, finally seen from the inside.
+
 ## GATES (the Witan's)
 
 1. THE DESIGN SESSION — the actual sett: thread counts, band widths, zone order, the sett registered properly (the Scottish way: written down like a deed).
