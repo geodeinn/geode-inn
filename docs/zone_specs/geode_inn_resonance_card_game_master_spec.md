@@ -141,7 +141,7 @@ The board represents a Geode Inn zone. Each zone has a passive effect:
 ---
 
 ## THE SEPTEMBER WAVE EXPANSION (2026-09-14)
-22 new NPC cards (the September cast wave: the Postmaster, Judge Tootenkowl, the Build-Scholar, the Examiner, Vaulknut, Harry, Lichenblossom, Ziggy, Tumble, Squeak, the Distracted Sprite, Oceanianoir, Will, the Hearth-Hound, the Wandering Guard, the Lady of the Lake, the Limner, the Clockmaker, the Bone Keeper, the Flute-Keeper, Katya, the Tinkering Weeaboo) + the Royo deck face-card canon + four new Stone Poker opponents. Full draft: docs/card_game/resonance_new_cast_expansion.md — awaiting Krista's rulings on the open gates.
+22 new NPC cards (the September cast wave: the Postmaster, Judge Tootenkowl, the Build-Scholar, the Examiner, Vaulknut, Harry, Lichenblossom, Ziggy, Tumble, Squeak, the Distracted Sprite, Oceanianoir, Will, the Hearth-Hound, the Wandering Guard, the Lady of the Lake, the Limner, the Clockmaker, the Bone Keeper, the Flute-Keeper, Katya, the Tinkering Weeaboo) + the Royo deck face-card canon + four new Stone Poker opponents. Full draft: docs/card_game/resonance_new_cast_expansion.md — RULED CANON ("Yes, to all," 2026-09-14): the 22 NPC cards, the Royo face-card canon, the Ziggy+Brim joker pair, and Lozen as the Stone Poker Inn Master final table.
 
 ## NPC AI OPPONENTS
 

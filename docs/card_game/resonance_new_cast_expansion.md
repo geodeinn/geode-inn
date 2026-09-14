@@ -1,5 +1,5 @@
 # RESONANCE + THE ROYO DECK — The New Cast Expansion
-## The September Wave (drafted 2026-09-14, awaiting Krista's rulings)
+## The September Wave (RULED — Krista, 2026-09-14: "Yes, to all")
 
 The card canon was written before the September cast wave moved in. Since then the building gained a judge, a postman, a scholar, a hound, a lady, a lake's worth of lore, and the Inn's only permanent smile. This expansion cards them all.
 
@@ -147,7 +147,7 @@ Each card follows the master anatomy: Active ability + Passive + Deathrattle, pl
 
 ---
 
-## PART 2 — THE ROYO 54-CARD DECK: THE FACE-CARD CANON (PROPOSED, AWAITING RULING)
+## PART 2 — THE ROYO 54-CARD DECK: THE FACE-CARD CANON (RULED, Krista 2026-09-14)
 
 The deck's four suits are already law: Hearts/hearth, Spades/depths, Clubs/wild/fae, Diamonds/earth/artisan. The face cards become the cast — the whole building playable in twelve portraits and two wild cards, Royo-side.
 
@@ -171,7 +171,7 @@ The deck's four suits are already law: Hearts/hearth, Spades/depths, Clubs/wild/
 - **Queen — Mona** (the Maker's own hands)
 - **King — The Collector** ("Delightful." — the most complicated crown in the deck)
 
-### The Two Jokers — THE JESTER RULING (proposed)
+### The Two Jokers — THE JESTER RULING (RULED, Krista 2026-09-14)
 - **Joker One — Ziggy.** The Court Jester in miniature. The joker IS the jester; the pun is load-bearing. The card is always smiling, even facedown.
 - **Joker Two — Brim.** The switched vessel. Where Ziggy goes, the tangle follows; the two jokers are printed as a pair, the formula split across both card backs, complete only when both are showing.
 - Wild in Stone Poker, as already ruled. Together they are the Inn's oldest running joke and its most serious warning.
@@ -193,9 +193,13 @@ The existing table (The Wanderer, The Firekeeper, The Morrigan, Jay) gains four 
 
 ---
 
-## OPEN GATES (Krista's rulings awaited)
-1. The face-card canon (Part 2) — every assignment is a proposal; the deck is yours to reseat.
-2. The Joker ruling — Ziggy + Brim as the printed pair, formula split across the backs.
-3. The 22 NPC cards — approve, amend, or retire any; each is drafted to established voice law.
-4. The Build-Scholar card name — placeholder until the naming ruling.
-5. Lozen as the Inn Master final table — approve or reseat.
+## GATES RULED (Krista, 2026-09-14: "Yes, to all")
+1. ✅ The face-card canon (Part 2) — RULED as seated: Squeak/Beverley/Joe (Hearts), Postmaster/Morrigan/Naut (Spades), Oleander/Ragana/Seelie King (Clubs), Vaulknut/Mona/Collector (Diamonds).
+2. ✅ The Joker ruling — Ziggy + Brim as the printed pair, the formula split across both card backs. CANON.
+3. ✅ The 22 NPC cards — approved as drafted. The September Wave is carded.
+4. ⬜ The Build-Scholar card name — prints as "The Build-Scholar" until the naming ruling (the one remaining gate, outside this approval's scope).
+5. ✅ Lozen is the Inn Master final table — River's the boss fight of the back room. RULED.
+
+## OWED ART (from the rulings)
+- 12 Royo court-card portraits + the Ziggy/Brim joker pair (the formula split across the backs) — also the natural next set for the printed portfolio's tarot template.
+- 22 NPC card portraits, tri-mode (Living/Shadow/In-Between), per the class law.
