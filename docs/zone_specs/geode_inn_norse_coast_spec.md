@@ -25,6 +25,20 @@ The Norse Coast is the zone where THE YEAR replaces the day as the clock. The po
 ## THE MECHANICS
 **THE KNARR RUN (the sailing game):** wind + tide, the freight crossing (cod out, woad in  the world map's trade wires crossing zones). **THE RUNE-CARVING (the guestbook):** the player carves a rune line that STAYS  the persistence mechanic (the Inn's oldest guestbook; carve honestly, the runes are read by whoever winters next). **THE AURORA WATCH (the patience game):** the lights cannot be summoned. The sky decides. The waiting is the game (the Gap-key family, sky edition  the anti-FOMO law: the aurora is never a quest reward; it is a PRIVILEGE of presence). **THE COD RUN (the seasonal fishery):** the Beat Line's winter run  timing, patience, the harvest window.
 
+## THE TROLL CITIZEN LAW (ruled by Krista, 2026-09-14: "We absolutely have to invite in the trolls")
+The Norse Coast's trolls hold FULL LEGAL STANDING at the law-rock. The real-world basis, kept honest: Norway's first national law code (the Landslova of 1276, and its 11th-12th-century Christian-law predecessors) treated "having contact with trolls" as a serious legal offense — the law acknowledged troll jurisdiction while prohibiting it, which is citizenship with a restraining order. Iceland's modern register does the same in daylight: a 1990 conservation clause protects sites of supernatural significance (if the association is 100+ years old), roads bend around elf-churches, house numbers skip plots for invisible neighbors, the Road Administration holds boilerplate about pausing construction "while the elves living there have supposedly moved on." THE INN'S INVERSION: the law-rock writes them IN. The trolls are citizens. The statutes accommodate them, not protect everyone FROM them.
+
+**THE ACCOMMODATION STATUTES (the real laws, inverted with love):**
+- THE ROAD-BEND LAW: no path on the coast runs through a troll's stone. The road bends. The stone was there first; the paperwork agrees.
+- THE HUNDRED-YEAR CLAUSE: any site the trolls have kept for a century is protected ground — precedent has weight here, the same weight Iceland's conservation clause gives.
+- THE MOVED-ON PAUSE: construction pauses, officially, "while the neighbors move on." Nobody confirms the neighbors exist. The pause works anyway. THE PLAUSIBLE-DENIAL POSTURE: the coast's official position is a wink — the law functions entirely around citizens the administration never confirms. No-Fail tone: the wink is warm, never smug.
+- THE SUNRISE DOCKET: the thing at the law-rock holds its sessions at night, because the citizenry includes those who cannot attend a sunrise. Legal business is scheduled around a biological fact, not a belief.
+- THE STONE-CITIZEN MEMORIALS: every troll-stone on the coast is a caught-by-dawn citizen, kept and named — the Whimsical-Macabre law at architectural scale (the keeping is a privilege; the statues are the census).
+
+**THE CITIZENSHIP REGISTER:** the runes-as-guestbook doubles as the citizenship roll — the trolls' names are carved among the travelers', in the same hand, in the same stone. No separate ledger. One guestbook, one coast.
+
+**NO NEW PAINT LINE:** the trolls already live in the cast; the Law needs no new art. This is pure law — the zone's own dialect (the thing/law-rock is this coast's governance lineage per the Council Histories dossier).
+
 ## THE HELD DOOR
 The Einherjar hall's door stands in the coast's cliff  RENDERED, UNOPENED (the Valhalla layer pass stays held, per canon; the held door is this zone's long-game: the zone's own patience mechanic, at architectural scale).
 
@@ -34,3 +48,6 @@ The Einherjar hall's door stands in the coast's cliff  RENDERED, UNOPENED (the V
 3. **THE GUESTBOOK RUNES**  persistent player-carved runes: confirm the persistence mechanic
 4. **THE KEEPER NPC**  the coast's resident is UNASSIGNED (the Cod-Mother? the rune-wright? hold for Krista's ruling)
 5. **THE VALHALLA HOLD**  door rendered, unopened until the layer pass: confirm
+6. **THE TROLL SEAT**  does a troll sit at the Hearth-Feis (the in-game law assembly), or is the Feis humans-only with trolls as represented citizens? (the Both-Real register may apply)
+7. **THE CITIZENSHIP CEREMONY**  how a troll becomes legal: the rune signature at the guestbook? a night-session at the law-rock? hold for ruling
+8. **THE KEEPER OVERLAP**  is the coast's unassigned resident Keeper (gate 4) one of the troll citizens? hold for ruling
