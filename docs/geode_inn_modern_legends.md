@@ -54,7 +54,19 @@ A man who had the most legitimate reason to need accommodation refused to let hi
 
 ---
 
-## Entry 2: [Reserved]
+## Entry 2: The Séance That Knew
+**Recorded:** September 2026
+**Origin:** Portsmouth and London, England, 1941-1944
+**Classification:** Parable of Knowledge and Power (the state prosecuting accuracy)
+**Status:** Confirmed (Old Bailey trial record; R v Duncan [1944] KB 713; repeal of the Witchcraft Act 1735 in 1951)
+
+In the middle of the Second World War, a Scottish medium named Helen Duncan held séances for grieving families. In one sitting, she spoke with a sailor whose ship — HMS Barham, sunk with over 800 men — the Admiralty had not yet announced. The information was true, and the truth itself became the offense: unable to prove espionage, the state prosecuted her under the Witchcraft Act of 1735, a law passed two centuries earlier that had declared magic unreal and made pretending to practice it a crime. She offered to demonstrate her powers in court; the judge declined. Nine months in Holloway Prison, in wartime, for "pretending to conjure spirits."
+
+The legend does not turn on whether Helen Duncan was genuine. It turns on what the state did when a person knew too much: reached for the oldest law on the shelf — the one written for something the modern world said did not exist. The séance that knew a ship was dead before the Navy did, punished not for being wrong but for being right.
+
+**The moral, as the Inn records it:** when power cannot explain how the truth got out, it will reach for whatever law silences the truth-teller — even a law about ghosts. The statute was repealed in 1951. The woman was never pardoned.
+
+**Ties:** THE STATUTE-BOOK OF THE UNCONFIRMED (docs/library/ — the prosecution register's centerpiece); the Whimsical-Macabre law (the dead given voice at the table); the honest-label law (both tellings kept: fraud per the court record, accuracy per the Admiralty's fear).
 *The modern day legends shelf is a living archive. New entries will be added as the world continues to produce them.*
 
 ### Candidates for Future Inclusion
