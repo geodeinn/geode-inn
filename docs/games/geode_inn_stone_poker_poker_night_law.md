@@ -54,7 +54,7 @@ And the same layout law BONUS-LIFTS to the GAZETTE (secondary, not the mechanic)
 
 Base: the coconut percussion + the 50 BPM heartbeat underneath (the table is calm even when Molly is raising). Signature: the 42Hz chord on the royal flush (existing back-room law, carried). The dealer's voice is the lead instrument; the table talk is the melody line over the coconut beat.
 
-## THE JOINING LAW — HOW A PLAYER WEAVES INTO THE ROUND (drafted 2026-09-16, awaiting ruling)
+## THE JOINING LAW — HOW A PLAYER WEAVES INTO THE ROUND (RULED AS DRAFTED — Krista, 2026-09-16)
 
 The join is not a menu click. The join is a small story with a door in it, and the door has been open the whole time.
 
@@ -76,4 +76,4 @@ The join is not a menu click. The join is a small story with a door in it, and t
 3. THE STAKES REGISTER: what do the tricksters actually play for, if not score? (Stories? Side bets? The coin's custody?) — ties the coin's one-second law.
 4. THE BROWNIE SHIFT LAW: does the coconut rotation follow the kitchen canon's shift structure?
 
-**Status: DRAFT — awaiting Krista's ruling on the gates. Nothing enters canon until the gates pass. Stone Poker is game #39; this law is its soul layer.**
+**Status: The Poker Night Law, the Brownie Percussion, the Dealer's Chair, and the Joining Law are CANON (Krista, 2026-09-16). Stone Poker is game #39; this law is its soul layer. Remaining gates: the flagship roster, the stakes register, the brownie shift law.**
