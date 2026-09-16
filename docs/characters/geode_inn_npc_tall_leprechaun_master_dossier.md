@@ -28,6 +28,16 @@ Every good crowd has one, and the Inn's crowd is very good. The Tall Leprechaun 
 - NO SHOEMAKER'S APRON. He is offended by the question. "Six foot of me, and ye want shoes?"
 - LINWORK-AS-UI: heavy cel-shaded tradesman register — he is staff of the crowd, not cosmology.
 
+## THE NAME — RULED: MOLLY (Krista's ruling, 2026-09-16)
+
+His name is Molly. Yes, that Molly. And the name is not decoration — it is MECHANICS.
+
+- THE TRUE-NAME LAW (real folklore, honest-label held): knowing a fairy's true name gives you power over it — the summoning leash. THIS leprechaun is one of the kind that can be SUMMONED BY NAME. And his name is Molly.
+- THE DECADES OF TROUBLE: a certain Irish-flavored band's popularity has had him materializing in pubs, basements, and festival fields for the last few decades, accidentally summoned every time someone says the name out loud in good cheer. He has appeared at more house parties than he can count, been asked for gold by confused revelers, and left without his coat twice. Every tour announcement is a weather warning.
+- THE ASHLEY REGISTER: it is, as Krista ruled, about as masculine a name as Ashley — which on a six-foot brawler in a tilted cap is not emasculating, it is DISARMING, which is the most dangerous thing an instigator can be. Nobody fights the man named Molly until it is far too late.
+- NOBODY AT THE INN IS ALLOWED TO KNOW WHY HE FLINCHES AT LIVE MUSIC. The Catalyst knows, of course. The Catalyst, who grows things, has been known to summon him BY NAME for bar chores: "Molly, love — the kegs." THAT is the bickering's true root. She holds the leash; she uses it for kegs; he cannot prove she enjoys it, but the grin on the Napkin-thrower is admissible evidence.
+- The name on the card is MOLLY. Out loud, he introduces himself with variations that never once are the truth ("call me whatever ye like, so long as ye don't call me late to me own funeral").
+
 ## THE TIES (the web already waiting)
 
 - THE TRICKSTER BENCH: Anansi is the clever one; the Tall Leprechaun is the instigating one. The Sky-Story Run's fairy gets heckled in his register — he is the Arcade's other professional trouble-starter, and he respects the spider's work like one tradesman respects another.
@@ -52,7 +62,7 @@ One class master: the Tall Leprechaun full-sheet (front, three-quarter, the cap-
 
 ## GATES (the rulings this draft awaits)
 
-1. THE NAME: the Inn's naming is Krista's. Register hint per the Frank Wright precedent: an Irish name that is its own, worn flat — the borrow without the lift. (The Suibhne register is honored in the tall-fairy truth, not in the name.)
+1. THE NAME: RULED (Krista, 2026-09-16) — MOLLY. The true-name summoning law made load-bearing; see the name section above.
 2. THE HOME: RULED (Krista, 2026-09-16) — tavern regular, the bar his home corner (the Bickering Pair with the Catalyst), with roaming rights to the Arcade to heckle beside the quest marks.
 3. THE COIN: does the borrowed-gold-coin habit carry a real quest hook, or does it stay a lovely mystery forever (the Del Toro "never explained" register is available)?
 4. THE BRAWL LAW: confirm the friendly-brawl texture — declared contests only, no contact, the flesh-wound knight never invited.
