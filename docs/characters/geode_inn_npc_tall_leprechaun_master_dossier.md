@@ -60,11 +60,22 @@ And the pairing is load-bearing, because the bar already HAS a wind: THE CATALYS
 
 One class master: the Tall Leprechaun full-sheet (front, three-quarter, the cap-tilt gesture, the coin-turn gesture, the dares-you lean). Cycle sheets through the flip-book pipeline when the roster paints. Shadow rows extracted per the proven route. He is CHIBI-ADJACENT BY SCALE, NOT REGISTER — he renders in the tradesman line at full height, not chibi class (a six-foot chibi is a different joke and not this one).
 
+## THE COIN — RULED: THE PLATYPUS REGISTER (Krista's ruling, 2026-09-16)
+
+"The borrowed gold coin always reappears with the platypus, and only for a second."
+
+The coin's mystery is RULED PERMANENT — the Del Toro "never explained" register, the Limner precedent: no quest, no reveal, no answer ever. But the ruling adds the texture, and the texture changes everything, because the platypus was already canon: BILL THE DUCK, the shiny-collecting platypus, the Pinniped Pilferer's true file (docs/zone_specs/geode_inn_the_platypus_master_spec.md). The coin never left the building. The building's professional thief has been holding the building's professional borrower's collateral this whole time.
+
+- THE ONE-SECOND LAW: whenever the coin comes back to Molly, Bill is there — surfacing, waddling through, crossing the bar's end — for exactly one second, coin visible in (or near) the bill, and then both are gone. Nobody can say whether they just watched the coin RETURN or LEAVE AGAIN. The direction of the transaction is unresolvable by design. Molly cannot prove Bill takes it; Bill cannot prove Molly owes it. The perfect closed loop between the Inn's two honest criminals.
+- THE REGISTER HOLDS BECAUSE BOTH ARE HONEST-LABEL CHARACTERS: a platypus that collects shiny things is real biology adjacent (bowerbird logic); a leprechaun with a borrowed coin is real folklore adjacent. The mystery isn't magic — it's two true behaviors orbiting each other forever.
+- THE BICKERING PAIR BONUS: the Catalyst's tavern sees the one-second pass-bys. She has started saying "evening, Bill" to apparently empty air, which Molly finds genuinely unsettling. He would rather be summoned for kegs.
+- NO QUEST, EVER. A player who asks about the coin gets the runaround from both parties (Molly: "borrowed." Bill: a soft bill-platypus vocalization). The Archive's file on the coin reads, in full: "It reappears. Briefly. With the platypus." Filed and closed.
+
 ## GATES (the rulings this draft awaits)
 
 1. THE NAME: RULED (Krista, 2026-09-16) — MOLLY. The true-name summoning law made load-bearing; see the name section above.
 2. THE HOME: RULED (Krista, 2026-09-16) — tavern regular, the bar his home corner (the Bickering Pair with the Catalyst), with roaming rights to the Arcade to heckle beside the quest marks.
-3. THE COIN: does the borrowed-gold-coin habit carry a real quest hook, or does it stay a lovely mystery forever (the Del Toro "never explained" register is available)?
+3. THE COIN: RULED (Krista, 2026-09-16) — mystery forever, the platypus register; see the coin section above.
 4. THE BRAWL LAW: confirm the friendly-brawl texture — declared contests only, no contact, the flesh-wound knight never invited.
 
 **Status: DRAFT — awaiting Krista's ruling on the gates. Nothing enters canon until the gates pass.**

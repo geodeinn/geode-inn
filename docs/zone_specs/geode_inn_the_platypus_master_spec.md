@@ -30,6 +30,10 @@ Bill is NOT The Duck. The naming of Bill is one of the Inn's quiet jokes: "Becau
 
 ---
 
+## THE COIN (cross-canon, Krista's ruling 2026-09-16)
+
+Molly the Instigating Leprechaun's borrowed gold coin always reappears with Bill — and only for a second. The direction of the transaction is unresolvable by design: nobody can prove Bill takes the coin or returns it. The one-second pass-by is now part of the tavern's furniture (full ruling in Molly's dossier: docs/characters/geode_inn_npc_tall_leprechaun_master_dossier.md). No quest, no explanation, ever — the shiny-collecting platypus and the professional borrower, orbiting.
+
 ## BILL'S BIOLOGY AS GAME MECHANICS
 
 | Real Trait | Game Mechanic |
