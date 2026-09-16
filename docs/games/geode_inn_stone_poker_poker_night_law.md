@@ -54,6 +54,21 @@ And the same layout law BONUS-LIFTS to the GAZETTE (secondary, not the mechanic)
 
 Base: the coconut percussion + the 50 BPM heartbeat underneath (the table is calm even when Molly is raising). Signature: the 42Hz chord on the royal flush (existing back-room law, carried). The dealer's voice is the lead instrument; the table talk is the melody line over the coconut beat.
 
+## THE JOINING LAW — HOW A PLAYER WEAVES INTO THE ROUND (drafted 2026-09-16, awaiting ruling)
+
+The join is not a menu click. The join is a small story with a door in it, and the door has been open the whole time.
+
+- **THE EMPTY CHAIR:** the table always keeps one seat empty. Never marked "join," never blinking, never (per Anti-Skinner) asking to be used. The chair is furniture; the player notices it the way you notice the open chair at a good table in a real pub. The pull is the table itself — the banter is audible from across the room, and the idle layer is doing the recruiting: the best trailer for the game is the game.
+- **THE THRESHOLD MOMENT (the Quest Mark Law's cousin):** approaching the chair triggers a scene beat, not a UI. The table notices the player IN CHARACTER before the player sits — the dealer calls the proceedings ("a new party enters the court"), Anansi looks the player over like a story that just walked in, Molly offers a side bet on the player's first hand before it's dealt, Duck is unbothered (Duck is always unbothered). The player is greeted as a character, because at this table they are one.
+- **TWO WAYS TO CROSS THE THRESHOLD:**
+  1. **SIT** — buy in with stone chips (the stone collection as the felt currency; the buy-in is small and gentle, one pebble-class stone, never punishing).
+  2. **WATCH** — a spectator rail exists: the player can stand at the rail and watch a full hand, idle banter running, learning the table's voices before committing anything. Watching is content, not a paywall tease — the table plays a real hand with real stakes between its own members while the player observes. When the watched hand ends, the empty chair is mentioned once, warmly, by whoever lost: "the chair's na getting any warmer." Then never again (Anti-Skinner: one invitation, zero pressure).
+- **THE FIRST HAND IS CEREMONY:** the player's opening hand is dealt with the full table's attention — Tootenkowl swears the player in ("the court recognizes the new party; the accused may bet"), the brownies give the coconuts four ceremonial clacks (the table's only standing ovation, delivered to a chair), and whatever the player does — fold instantly, raise stupid, win, lose — the table reacts in character. A first-hand fold is not a fail state; it is the table's favorite kind of new player ("a wise one. We hate those." — the Bard).
+- **THE STAND-UP (leaving):** stand up whenever, mid-hand even (the hand folds the player out with no penalty). The goodbye is in character — the dealer dismisses the case, the table waves the player off in each of their voices, and the chair stays empty for the next wanderer. Returning players are REMEMBERED: the banter banks carry callbacks ("back so soon? the chair kept your warmth" — the Dealer, whoever holds the chair).
+- **THE ROGUES' GALLERY ADDENDUM:** joining the trickster bench has one extra weave — Molly's side bet. On sitting, Molly always offers the player a napkin-side-bet on their own first hand (win: Molly pays a story from Anansi's pile... which raises questions Anansi pretends not to hear; lose: the player owes Molly one coin-shaped favor of no specified value). Declining the side bet is completely fine and Molly respects it gravely, which somehow feels like losing.
+
+**The whole law in one line:** the table never recruits — it lives, loudly and warmly, next to an empty chair.
+
 ## GATES (the rulings this draft awaits)
 
 1. THE DEALER: RULED (Krista, 2026-09-16) — the rotating chair: Tootenkowl the regular, the Bard the bluster seat, Lozen the occasional with the OI law.
