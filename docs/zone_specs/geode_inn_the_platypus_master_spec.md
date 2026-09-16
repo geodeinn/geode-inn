@@ -30,6 +30,20 @@ Bill is NOT The Duck. The naming of Bill is one of the Inn's quiet jokes: "Becau
 
 ---
 
+## THE DUCK REGISTER + THE QUESTION FILE (Krista's confirmation, 2026-09-16)
+
+The platypus is also simply known as DUCK — canon since the merge ruling ("BILL THE DUCK, the platypus everyone calls a duck"), now formalized as the character's dual naming law: BILL on the official files (the Archive's, the Fae Kingdom's — both of them, the dual taxonomy holds), DUCK out loud. Nobody at the Inn uses the official name in conversation. Bill answers to Duck. Duck answers to Bill. Neither naming is wrong, and the character has never once clarified, because the clarification is not in the character.
+
+And there is a bunch of questions tied to him. THE QUESTION FILE (kept open forever, the honest-label law's proudest shelf — the Inn holds the question without forcing the answer):
+
+1. Is his name Bill or Duck? (Yes.)
+2. Is he a platypus or a duck? (The Fae file says chimera; the Archive file says monotreme. Both files are correct. That is the whole thesis of the character.)
+3. Is Molly's coin returning or leaving? (Only for a second. Nobody can resolve the direction.)
+4. Why does the shiny-collecting register point at one specific coin? (See question 3. See also: no.)
+5. What does a being with 60,000 electroreceptors think about all day? (A soft bill-platypus vocalization.)
+
+THE TIE TO THE QUESTION (the Inn's own philosophical root): the question is worth the wait — and Duck is the building's resident living question. Reality does not need mythology to be strange; reality does not need answers to be complete. The character is the thesis. Filed open.
+
 ## THE COIN (cross-canon, Krista's ruling 2026-09-16)
 
 Molly the Instigating Leprechaun's borrowed gold coin always reappears with Bill — and only for a second. The direction of the transaction is unresolvable by design: nobody can prove Bill takes the coin or returns it. The one-second pass-by is now part of the tavern's furniture (full ruling in Molly's dossier: docs/characters/geode_inn_npc_tall_leprechaun_master_dossier.md). No quest, no explanation, ever — the shiny-collecting platypus and the professional borrower, orbiting.
