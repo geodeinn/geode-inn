@@ -30,16 +30,24 @@ Poker Night's dealer is a sassy robot; ours is one of the Inn's own comic voices
 
 The brownies rotate shifts as the table's percussion section, clapping coconuts — the soft shell-on-shell clack as the felt's own metronome (the Monty Python register, worn warm, never explained). Shift rotation per the brownie canon; the coconut claps mark the beats (a raise gets two clacks, a fold gets one, a royal flush gets the full 42Hz chord UNDER a brownie coconut roll — the house's biggest sound, still candle-class per Steady Light). The brownies never speak. The coconuts say plenty.
 
-## THE ROGUES' GALLERY TABLE (the flagship demonstration — filed Sept 16, Krista agreed the crew shares a page)
+## THE ROGUES' GALLERY TABLE (RULED AN ACTUAL PLAYABLE TABLE — Krista's clarification, 2026-09-16: "an actual game mechanic in the inn")
 
-The Poker Night law's showcase table: THE TRICKSTER BENCH TAKES SEATS. Proposed roster (gate):
+Not a strip, not a showcase — a REAL TABLE the player sits down at. The Poker Night mechanic IS the point: the player joins the trickster bench for a genuine hand of Stone Poker and the banter engine runs on them. The player's plays trigger the table's voices: raise into Anansi and get a tale; fold to Duck and hear the coconuts judge you; win a pot off Molly and he demands a side bet on the next one. THIS IS THE GAME. The chips are the excuse; the table is the content. Proposed roster (gate):
 
 - **ANANSI** — bluffs in story form; every hand comes with a tale, and by the river you cannot tell which cards are real (the best bluffer in the building, obviously).
 - **MOLLY** — instigates side bets constantly (the napkin economy), plays loose, cheerful, absolutely cannot remember whose chips were whose at the start.
 - **DUCK** — sits on a pile of stone chips. Plays? Does not play? Nobody knows. Duck's stack changes size between hands and nobody sees it change (the one-second register, applied to chips). Duck is either the worst player alive or winning.
 - **THE STRAIGHT CHAIR (candidate): FRANK WRIGHT** — the structural reader trapped at a table with three uncountable objects, patiently asking the questions the player is thinking ("I have counted the chips four times. The totals disagree. I have decided this is the Inn.").
 
-And the same layout law doubles for the GAZETTE: the rogues' gallery strip (already a standing gag-candidate, commit c95ffb2) now has its layout — one real hand, panel by panel, banter underneath, brownie coconuts in the margins. The strip is a hand; the hand is a strip.
+And the same layout law BONUS-LIFTS to the GAZETTE (secondary, not the mechanic): the rogues' gallery strip (standing gag-candidate, commit c95ffb2) can render a real hand, panel by panel, banter underneath, brownie coconuts in the margins — the strip drawn FROM the playable table, not instead of it.
+
+## THE MECHANIC (how it plays — the layer made concrete)
+
+- THE TABLE IS A ROOM: sitting down at the rogues' gallery table is entering a small scene, not launching a menu (the Quest Mark Law's cousin: talk to the faces, not the felt).
+- THE BANTER ENGINE: each opponent carries a dialogue bank keyed to game events (deal / bet / raise / fold / win / lose / idle), written in their own voice. The idle layer fires between hands and when the player dawdles — the table keeps living whether or not the player is acting (the Inhabited Wide law, applied to a card room: the table never scrolls; the people perform).
+- THE PLAYER IS A CHARACTER: the player's own actions are the other trigger — the table talks ABOUT the player's plays, to the player, over the player's head. Being roasted warmly is the reward loop.
+- THE SESSION SHAPE (Anti-Skinner): no tournament pressure, no entry stakes that punish — sit down, play one hand or ten, stand up whenever. The table says goodbye in character. The trickster bench never guilt-trips; Molly would, but the brownies confiscate his material.
+- REC LAW: one class master per seated character (all canon cast); the table felt, the stone chip pots, the coconut brownies follow the one-class-master route. No new paint line for the back room.
 
 ## THE SOUND (per the Arcade Music Profile master spec)
 
