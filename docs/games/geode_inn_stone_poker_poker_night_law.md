@@ -17,14 +17,15 @@ The round is REAL. A genuine hand of Stone Poker, dealt and played by the rules 
 - **HONEST FAILURE, HECKLER INCLUDED:** losing a hand is never a red X — it is a warm roasting from the table (the fairy-heckling register, distributed across the whole cast). The No-Fail law holds; the chips are stone, the mockery is love.
 - **ANTI-SKINNER:** the banter is the retention loop, not the stakes. No streaks, no pressure lines — nobody at the table ever says "don't leave now." The table is fun to LOSE at. That is the whole design.
 
-## THE DEALER (the comical staff seat — GATE)
+## THE DEALER — RULED: THE ROTATING CHAIR (Krista's ruling, 2026-09-16)
 
-Poker Night's dealer is a sassy robot; ours is one of the Inn's own comic voices — the chair that runs the patter, calls the bets, referees the side bets, and delivers the catchphrases. CANDIDATES (the gate awaits Krista):
+Poker Night's dealer is a sassy robot; ours is a rotating chair of the Inn's own comic voices. THE RULING:
 
-1. **JUDGE TOOTENKOWL** — an owl-headed judge dealing cards is the perfect authority parody: "Order in the pot. The accused raises."
-2. **SQUEAK** — one squeak, pitched by situation; the table translates; nobody agrees on the translation.
-3. **THE BARD** — deals each card as a stanza; the game becomes literature whether anyone wanted it or not.
-4. **A ROTATING DEALER'S CHAIR** — the staff takes shifts (matches the brownie rotation energy); the dealer changes and the table adapts.
+1. **JUDGE TOOTENKOWL — THE REGULAR ("the judge would be a fabulous dealer").** The owl-headed judge dealing cards is the perfect authority parody, and the default chair: "Order in the pot. The accused raises." Every ruling comes with a gavel-tap on the felt; a folded hand is "case dismissed."
+2. **THE BARD — THE BLUSTER SEAT ("the bluster of Bard is great for this dynamic as well").** Deals each card as a stanza, narrates the hand as literature whether anyone wanted it or not, and is physically incapable of calling a bet without a flourish. The table's volume rises with the Bard at the chair, which is not a bug — it is the setup for seat three.
+3. **LOZEN — THE OCCASIONAL ("every once in a while Lozen becomes the dealer").** The no-tell terror takes the chair without announcement. No patter. No flourishes. Deals in silence, and as the players become rowdy, simply goes "OI!" — one syllable, and the room goes quiet mid-sentence. THE OI LAW: the most powerful word in the building is the shortest. The Bard's bluster built the noise; Lozen's "oi" collects it. (The Sentinel's Vigil energy applied to a card room — the calm that is actually calm, enforced.) After the "oi," Lozen deals on as if nothing happened, because to Lozen nothing did.
+
+CHAIR ROTATION LAW: Tootenkowl is the regular; the Bard rotates in (energy shifts up); Lozen appears rarely and without warning (energy snaps flat). The table reads the dealer the way sailors read weather. Brownie coconut shifts coordinate around the chair — the coconuts are the only percussion allowed to continue after an "oi," at half clack.
 
 ## THE BROWNIE PERCUSSION (ruled in with the ruling)
 
@@ -55,7 +56,7 @@ Base: the coconut percussion + the 50 BPM heartbeat underneath (the table is cal
 
 ## GATES (the rulings this draft awaits)
 
-1. THE DEALER: Tootenkowl, Squeak, the Bard, or the rotating chair?
+1. THE DEALER: RULED (Krista, 2026-09-16) — the rotating chair: Tootenkowl the regular, the Bard the bluster seat, Lozen the occasional with the OI law.
 2. THE FLAGSHIP ROSTER: Anansi + Molly + Duck confirmed? The straight chair's occupant (Frank Wright proposed)?
 3. THE STAKES REGISTER: what do the tricksters actually play for, if not score? (Stories? Side bets? The coin's custody?) — ties the coin's one-second law.
 4. THE BROWNIE SHIFT LAW: does the coconut rotation follow the kitchen canon's shift structure?
