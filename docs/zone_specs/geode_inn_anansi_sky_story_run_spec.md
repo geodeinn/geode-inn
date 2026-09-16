@@ -52,10 +52,47 @@ Base track: the drum circle — West African percussion registers, the Inn's own
 
 The game tells the Ashanti tale as the Ashanti told it — sourced, cited, taught warm, nothing invented past the playable translation. RIVER'S CULTURAL REVIEW GATE APPLIES (the Standing Grove precedent: appreciation without appropriation) before art production locks. The four tricks are the canon; the jokes around them are the Inn's, and they know the difference.
 
+## THE FRAME — NYAME'S DIALOGUE (Krista's ruling, 2026-09-16: the sky god appears as the NPC frame-storyteller)
+
+Nyame bookends all four levels from the sky court — not the aloof god of the myths-as-taught, but the register the tale actually supports: a sky father who set a high price because he wanted the stories FREE, and was quietly hoping all along that somebody would pay it. Vast, warm, unhurried. The voice is the drum circle's deep head carried into speech.
+
+**THE OPENING (first approach, the price):**
+"Little weaver. You climb to my court asking for the box.
+Hear me, then, and hear me once: the stories were never hidden because they are cheap. They were kept because the keeping was easy and the giving was not.
+I will not give them away. But I will sell them — and the price is four things that cannot be caught.
+Bring me the hornets, who sting the sky. Bring me the python, who is longer than patience. Bring me the leopard, who is faster than fear. And bring me the fairy, who is angrier than all three together.
+Pay it, weaver, and the stories belong to the world. Fail, and the webs stay strung — come back when you're cleverer. The court keeps no ledgers."
+
+**AFTER THE HORNETS' RAIN:**
+"The hornets sleep in your gourd, thanking you for rain that never fell. That is the trick, little weaver — cleverness worn as a kindness. Three remain."
+
+**AFTER THE PYTHON'S POLE:**
+"You measured a lie against a snake, and the snake chose to believe you. He is still boasting, you know. Mid-air. Two remain."
+
+**AFTER THE LEOPARD'S PIT:**
+"The fastest thing in the forest sits in a hole, wondering where the ground went. You dig well, weaver. One remains — and she bites."
+
+**AFTER THE FAIRY AND THE GUM-BABY:**
+"She hangs there, mid-tantrum, and she will be furious for a hundred years. It is the happiest I have ever seen her.
+Come up, then. The court is open. You have paid."
+
+**THE HANDOVER (the ending):**
+"This box was never mine to keep — only mine to price. I set the price high so the world would know what these stories cost.
+Take them down, weaver. Tell them warm. Tell them crooked if you must, but tell them.
+From tonight, whoever tells a story owes a little of the telling to a spider — and the spider owes it to the world. That is the whole law of the box. Go on, now. It's yours."
+
+**THE RETURN (replay, Anti-Skinner-compliant):**
+"Back again? The webs missed your weight. Rain, pole, pit, doll — whichever you like, whenever you like. The tales don't wear out. That's how you know they're true."
+
+**THE DECLINE (if the player walks away mid-frame):**
+"Grand." — no, that is not Nyame's line; that is the leprechaun's, and he is not invited into the frame. Nyame simply: "The webs stay strung. The court keeps no ledgers. Come back when the sky amuses you."
+
+**PRODUCTION NOTE:** Nyame is a Full Presence-class frame NPC (no roaming); one class master, the sky-court throne pose plus the handover gesture (the box lowered on an amber sine bloom — Steady Light law holds; the god never flashes). The dialogue is written to be read warm over the drum-circle base track, 50 BPM throughout — the price is spoken like a lullaby, because it was always meant to be paid by someone small.
+
 ## GATES (the rulings this draft awaits)
 
 1. THE NAME: "The Sky-Story Run" is the working title — the Inn's naming is Krista's.
-2. NYAME'S PRESENCE: does the sky god appear as an NPC frame-storyteller (bookending the four levels), or stay off-screen as the voice of the price?
+2. NYAME'S PRESENCE: RULED (Krista, 2026-09-16) — NPC frame-storyteller bookending the four levels; frame dialogue drafted in this spec.
 3. THE SKY-VILLAGE ENV ROW: the Background Law needs the game's home ENV master — a new kit row (sky court, web architecture, day and frequency states).
 4. RIVER'S CULTURAL REVIEW: the Ashanti canon passes the gate before the paint.
 5. THE QUEST MARK TIER: proposed Tier 2 — awaiting the Witan's glow ruling.

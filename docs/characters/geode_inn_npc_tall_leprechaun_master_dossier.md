@@ -35,6 +35,17 @@ Every good crowd has one, and the Inn's crowd is very good. The Tall Leprechaun 
 - THE CELTIC HIGHLANDS + NORSE COAST: the brogue makes him at home wherever the Celtic wave laps. The Hearth-Feis knows him (he starts the singing contests; he loses them on purpose, gravely).
 - THE GAZETTE: inevitable "From the Bench" energy — a character who starts things will end up in strips.
 
+## THE BICKERING PAIR (Krista's ruling, 2026-09-16: "I can actually see him bickering with the bartender")
+
+THE HOME GATE IS RULED: he is a TAVERN REGULAR — the bar is his home corner, with roaming rights to the Arcade to heckle beside the quest marks (the nudge stays).
+
+And the pairing is load-bearing, because the bar already HAS a wind: THE CATALYST. She is the hurricane; he is the storm that walks in wearing a tilted cap. Two forces of the same weather, arguing about the forecast.
+
+- THE FRICTION IS PHILOSOPHICAL, WHICH MAKES IT FUNNY: she starts things by GROWING them (a seed, a drink, an arrow, a person coaxed along); he starts things by DARING them. She thinks daring is rude. He think growing is slow. She calls him "the Napkin" (he throws the first one, every time). He calls her "the Farmer" (worst insult he has, which is to say none at all — he respects the garden and would fight anyone who touched it).
+- THE RUNNING Duet: their bickering is the tavern's working friendship — the old-married-couple register worn by two people who met last week and will never admit they're best friends. The crowd tunes into it like a radio serial: regulars know the beats (the cap, the coin, the "who moved my stool" — it was her). NOBODY has ever seen them actually angry at each other, and if a guest tries to stir real trouble between them, they close ranks instantly and the guest regrets it warmly.
+- THE INSTIGATION LOOP: his dares and her arrows are the same service in two accents — get the player moving. When they bicker about a player's next move, they are literally running the Inn's funnel as a comedy bit. He dares the player toward the game; she grows the arrow that gets them there. The player leaves with a laugh and a direction. (Anti-Skinner holds: the bickering never pressures the player — it happens AROUND them, like weather.)
+- GAZETTE INEVITABILITY: the Bickering Pair is a strip engine. "From the Bench" will find them. Filed as a standing gag-candidate, no ruling needed yet.
+
 ## THE REC LAW (production)
 
 One class master: the Tall Leprechaun full-sheet (front, three-quarter, the cap-tilt gesture, the coin-turn gesture, the dares-you lean). Cycle sheets through the flip-book pipeline when the roster paints. Shadow rows extracted per the proven route. He is CHIBI-ADJACENT BY SCALE, NOT REGISTER — he renders in the tradesman line at full height, not chibi class (a six-foot chibi is a different joke and not this one).
@@ -42,7 +53,7 @@ One class master: the Tall Leprechaun full-sheet (front, three-quarter, the cap-
 ## GATES (the rulings this draft awaits)
 
 1. THE NAME: the Inn's naming is Krista's. Register hint per the Frank Wright precedent: an Irish name that is its own, worn flat — the borrow without the lift. (The Suibhne register is honored in the tall-fairy truth, not in the name.)
-2. THE HOME: Arcade heckler-in-residence, tavern regular, or both (the Inn's doors are all one building)?
+2. THE HOME: RULED (Krista, 2026-09-16) — tavern regular, the bar his home corner (the Bickering Pair with the Catalyst), with roaming rights to the Arcade to heckle beside the quest marks.
 3. THE COIN: does the borrowed-gold-coin habit carry a real quest hook, or does it stay a lovely mystery forever (the Del Toro "never explained" register is available)?
 4. THE BRAWL LAW: confirm the friendly-brawl texture — declared contests only, no contact, the flesh-wound knight never invited.
 
