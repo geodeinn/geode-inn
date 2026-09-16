@@ -55,6 +55,7 @@ And the pairing is load-bearing, because the bar already HAS a wind: THE CATALYS
 - THE RUNNING Duet: their bickering is the tavern's working friendship — the old-married-couple register worn by two people who met last week and will never admit they're best friends. The crowd tunes into it like a radio serial: regulars know the beats (the cap, the coin, the "who moved my stool" — it was her). NOBODY has ever seen them actually angry at each other, and if a guest tries to stir real trouble between them, they close ranks instantly and the guest regrets it warmly.
 - THE INSTIGATION LOOP: his dares and her arrows are the same service in two accents — get the player moving. When they bicker about a player's next move, they are literally running the Inn's funnel as a comedy bit. He dares the player toward the game; she grows the arrow that gets them there. The player leaves with a laugh and a direction. (Anti-Skinner holds: the bickering never pressures the player — it happens AROUND them, like weather.)
 - GAZETTE INEVITABILITY: the Bickering Pair is a strip engine. "From the Bench" will find them. Filed as a standing gag-candidate, no ruling needed yet.
+- THE FULL ROGUES' GALLERY STRIP (Krista agreed, 2026-09-16): the trickster bench in one page — Anansi (the clever), Molly (the borrower), Duck (the one-second question). Three flavors of "technically not stealing." The Gazette might need a bigger page. Filed for the day it happens; no date, no pressure.
 
 ## THE REC LAW (production)
 
