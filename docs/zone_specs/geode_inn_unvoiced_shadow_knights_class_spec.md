@@ -1,4 +1,5 @@
-# THE UNVOICED — Frequency-Feeder Class (working title) — Master Specification
+# THE UNVOICED — Frequency-Feeder Class — Master Specification
+**CLASS NAME RULED (Krista, 2026-09-17): The Unvoiced. The Shadow Knights remain the order's name.**
 ## The Rogue Path's Advanced Class — "Shadow Knights" (name gate open)
 **Ruled by Krista, 2026-09-17. Advanced class unlocked from the ROGUE path (the Artisan Thief) at level-up.**
 
@@ -79,7 +80,7 @@ Borrow is homage without the lift (the Frank Wright law). Nightcrawler was alway
 
 ## GATES (open, for Krista's ruling)
 
-1. **THE CLASS NAME** — "The Unvoiced" proposed; "Shadow Knights" is the order, the class name may be separate (working title stands until ruled)
+1. **THE CLASS NAME — RULED (2026-09-17):** "The Unvoiced" ("a powerfully vague title" — Krista). CLOSED.
 2. **THE DUO'S NAMES** — the Tuner and the Daywalker need true names (the Greg/player-slot precedent may apply if the class is ever anyone's)
 3. **THE ROOST** — where the order lives (the rafters of the tree? a zone of their own?)
 4. **THE ROGUE NAME** — what the parasite register is called in-world
