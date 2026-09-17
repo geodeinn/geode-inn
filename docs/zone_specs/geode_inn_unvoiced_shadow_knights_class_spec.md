@@ -86,3 +86,9 @@ Borrow is homage without the lift (the Frank Wright law). Nightcrawler was alway
 5. **THE POUF WORD** — the chime-word, every teleport's bamf
 6. **THE GARGOYLE TREATY** — the Listener detects overfeeding; do the knights and the gargoyles coordinate, or is there an ancient accord? (the Gatekeeper gargoyle is the natural signatory)
 7. **THE UNLOCK THRESHOLD** — the exact level/moment the rogue path opens into this class (craft-flavored, not power-flavored, per the Red-Headed Giants precedent)
+
+---
+
+## GAME LAYER PROPOSAL — RESONANCE FLIP CARDS (floated by Krista, 2026-09-17, gate open)
+
+The Unvoiced as a FLIPPABLE setting in the MTG-style game (Resonance): double-faced cards that flip between the class's two registers — the parasite face and the pollinator face. The flip condition should be acoustic, not stat-based (proposal): the card flips when the tone-larder runs empty or fills — fed face / hungry face, with the fed face always the stronger art (the inversion holds: the lovelier state is the fed-and-giving one, per the glow register's cousin law). The duo as the set's showcase flip cards: the Tuner (flips between Larder Full / Larder Spent) and the Daywalker (never flips — the only static face in the set, the card that walks through silence). Awaits Krista's ruling before entering the Resonance spec proper.
