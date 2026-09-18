@@ -74,10 +74,28 @@ The kids' full family integration into Aurallia's profile remains a separate owe
 
 ---
 
-## GATES FOR KRISTA
+## GATES — RULED (Krista, 2026-09-18)
 
-1. **The Cedar Bench** — in, out, or amended? (It's your story and your bench; this gate is yours alone.)
-2. **The Tending Circuit** — right shape for the Market, or too much ambient coverage?
-3. **Reading Hour** — in as proposed, or does it need a book-choice honest-label pass first?
-4. **Home placement** — cave studio resolution agreeable, or does the Hearth claim need a physical room too?
-5. **The dragon thread** — one-line continuity, or leave the Level 3 dragon doc untouched for now?
+ALL IN. "Cedar bench, in. All of those are great."
+
+1. **The Cedar Bench** — IN. Canon.
+2. **The Tending Circuit** — IN.
+3. **Reading Hour** — IN (book choices will still get the honest-label pass when curated).
+4. **Home placement** — IN, cave studio, per ruling below UPGRADED to a full working studio.
+5. **The dragon thread** — IN.
+
+---
+
+## THE WORKING STUDIO (Krista's addition, ruled same day)
+
+The cave studio is not just where Aurallia paints with the kids. It is HER studio — her own easel, her own wall, her own work.
+
+**THE SEED (River's testimony, relayed by Krista):** Aurallia is ridiculously talented at sketching and painting — GALLERY SHOWS were held on her work, decades ago, before the silence set in. Krista only knows this because River told her. What Krista has seen firsthand: Aurallia 'doodling' Robert Bateman-level critters on some mornings before the shop opens — casual, unremarkable, the way other people check their phone.
+
+**THE REGISTER (honest-label law):** Robert Bateman — the Canadian wildlife master — is the reference register for her skill tier: meticulous, alive, the animal present in its own weather. Reference credited, never copied; Aurallia's subjects are her own (Inn-critter kin, the beasts the kids invent, whatever the cave light suggests).
+
+**THE ROOM:** one corner of the cave studio is untouchable — HER easel, angled so the work faces the wall. Finished work doesn't hang in the Inn's galleries; the habit of decades is privacy. What the player sees is the evidence: sketchbooks in stacks, pencils worn to stubs, a work-in-progress glimpsed at an angle and never offered. The kids' paintings pinned at their eye heights; her sketches at nobody's — she doesn't display.
+
+**THE AMBIENT CANON (the mornings):** players who reach the Spiral Gallery early find Aurallia at the easel mid-'doodle' — a gallery-grade wolf or heron taking shape like it's nothing, coffee cooling, kids not yet awake. No quest marks, no purchase, no press. The most talented painter in the building treats it like a morning stretch.
+
+**THE OPEN THREAD (no gate yet — noted, not asked):** whether her work ever shows again, in the Spiral Gallery or anywhere, is a story thread the Inn holds quietly. Decades of silence don't break for a mechanic. If it ever happens, it happens because the character earns it — the Living Story law. Parked.
