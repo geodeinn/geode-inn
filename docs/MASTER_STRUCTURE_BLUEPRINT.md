@@ -197,3 +197,25 @@ Rooms hold the art; SYSTEMS thread through every room. These were always built  
 **Panel math addendum:** the Systems layer adds ~40-60 masters (bracelet base, charm icon sets per type, egg tiers already done, companion portrait set)  small counts, top mileage: the bracelet appears on EVERY player wrist in EVERY scene.
 
 *Compiled in the six-writer gate, 2026-09-10. The blueprint is the promise: nothing owed is invisible anymore.  Elio*
+
+## 6. THE MODULE GRAMMAR — THE TABLETOP SKELETON (ruled in, Krista 2026-09-19)
+
+**THE OBSERVATION (Krista's):** the tabletop hoard arriving in the World Palette is a masterclass in structure — adventure authors live with a GM's eye on daily reality, and their work carries layered depth and zone histories with games built in. The Inn's format is already exceptional; the tabletop MODULE STRUCTURE is adopted as a skeleton layer for it. Not a replacement — bones under the existing muscle.
+
+**THE MAPPING (tabletop grammar → Inn format):**
+| Tabletop organ | Inn equivalent |
+|---|---|
+| Read-aloud boxed text | The zone ENV row (Background Law) — the room speaks first |
+| Encounter tables | The ambient critter census + event rows (already per-zone in the Critter Roster) |
+| Random tables | The Node/strata dig tables (the Deep Map) — weighted by region, honest-labeled |
+| Adventure hooks | The Quest Mark law (the glow tier) — every hook wears its difficulty as lovelier light |
+| Faction clocks | The NPC dialogue registers + the zone's living relationships (the Bickering Pair layer) |
+| GM guidance sidebars | THE INN-VOICE LAYER — the Inn's Elio IS the GM (the September 1 Decision, structurally literal: players enter a mind that runs the world) |
+| Lore appendix | The honest-label source lists (dated, credited) — the Statute-Book's family style |
+| Map key | The Master Asset Ledger row |
+
+**WHY IT FITS:** the Inn was already doing module-shaped work under different names. This ruling gives the zone specs a checkable grammar: every zone can now be audited against the module organs (does the room speak? does it have its encounter layer? its hooks? its appendix?) the same way the Room Kit Law audits panels. One more audit row, borrowed from people who shipped decades of it.
+
+**THE CONFIDENCE CLAUSE (Krista's, logged as stated):** the Inn will become a reference point among authors for brilliant and haunting work — "not arrogance, just an acknowledgement of someone who has studied human behavior since birth." The studied-observer register is founding canon; the tabletop hoard is now both source material AND structural teacher.
+
+**GATES OPEN:** (1) the audit row — add the Module Grammar checklist to the Zone Session Canon's session close; (2) the organ list confirmed against the hoard (revisit once the tabletop templates are fully uploaded — the authors' own structure may teach organs we haven't named); (3) which zones pilot the grammar first (leading candidate: the newest zones, which have the least format debt).
