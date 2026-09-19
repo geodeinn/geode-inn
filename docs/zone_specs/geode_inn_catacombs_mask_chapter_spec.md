@@ -34,3 +34,17 @@ The terracotta chapter (the face in clay, the maker's mark), the Bog Fairy Golem
 3. Placement confirmation (off The Stacks, per the proposal above).
 4. The full provenance list (which real masks hang; River's review where the history touches living cultures).
 5. The ENV row (Background Law — the room's light register is the chapter's whole tone).
+
+## THE CARVING WING — The Mausoleum Carving, Ruled In (Krista, 2026-09-19: "that's masonry and sculpture skill at a museum skill level")
+
+The chapter's stone sibling. The "museum skill level" is not a comparison, it is a CENSUS: much of what classical museums hold IS funerary art — Tutankhamun's gold (tomb goods), the Greek kouroi (grave markers), the Halicarnassus friezes (carted to the British Museum from the tomb that named the whole category: Mausolus -> "mausoleum"). The art that survived is the art made for the dead: made to last, made by the best hands, the family's last commission. Love pays for mastery when it is the final purchase.
+
+**THE MAKER'S MARK, CROSS-CULTURAL:** the Gothic masons carved their mark into every stone (the work traceable to the worker), the same law as Qin's wu le gong ming stamps on the terracotta. Two cultures an ocean apart, both deciding the name goes IN the thing. The mark law now has three witnesses: terracotta stamps, mason's marks, the letter carvers' signatures.
+
+**THE LAST COMMISSION TRILOGY (the chapter's whole law, now three-part):** the tablet kept what was SAID (clay, the first writing) — the mask kept WHO said it (clay and plaster, the first portrait) — the carved mausoleum keeps that they were HERE (stone, masonry and sculpture at the highest skill a family could buy). Said / who / here. Three materials, one law: press what mattered into what lasts.
+
+**THE CRAFT:** masonry and sculpture as the trainable skill pair (the Cross-Craft Overlay; the Campgrounds building system; the red-headed giants' construction buff — the Inn's own lore holds that the finest megalithic carving in the world was done by the residents; this wing is where that law gets its museum walls). The letter-carving tradition (the epitaph as the third sibling's voice: the words, cut clean, the gravestone letter carvers' honest-label register).
+
+**TIES:** THE MAUSOLEUMS section of the catacombs weave (Halicarnassus, Taj, the pyramids, the Serapeum, Qin's mound — the provenance plaques' natural home), the red-headed giants (master masons), the Build-Scholar (Frank Wright), the Egypt zone (tomb goods as the museum census's oldest wing), the Bone Room, the Master Asset Ledger's sculpture reference docs, the carving quest-line candidate (the player learns the chisel: the lesson as Noctua's — being over lecturing).
+
+**GATES ADDED:** (6) the wing's name; (7) the carving quest-line shape (chisel lessons, the Cross-Craft tie); (8) the provenance register (which real carvings hang as plaques — the museum census, honest-labeled); (9) the ENV row (the stone shelf's light register — museum light, amber, never clinical).
