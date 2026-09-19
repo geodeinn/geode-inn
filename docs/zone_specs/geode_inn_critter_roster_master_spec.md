@@ -324,3 +324,20 @@ The Critter Roster was first compiled in docs/geode_inn_critter_roster.md (476 l
 5. Egg-economy tie (Species Law: if adopted, this species joins the zone's hatchable pool).
 
 **UPDATE (2026-09-19, Krista's catch): THEY ACTUALLY EXIST AND HAVE A NAME — THE QUIMBAYA GOLDEN FLYERS.** The real artifacts: the Quimbaya culture's gold pendants, Colombia, ~300–1000 CE — small golden figures with swept wings and an upright crest that look, in Krista's read, exactly like "a wild night out's result of a celtic Druid and a scarab" (the hooded head and antler-crest over an insect body; mainstream archaeology reads them as stylized flying fish/insects; the ancient-aircraft reading is the famous fringe version). The critters are the Quimbaya flyers rendered ALIVE — the Inn's standing move: the artifact becomes the species. HONEST-LABEL DUAL-LAYER LAW APPLIES (the red-haired giants precedent): the artifacts, culture, and date are real and credited (Quimbaya, Colombia, ~300–1000 CE); the "they flew machines" ancient-astronaut reading files under Modern Day Legends, never as history. RIVER'S CULTURAL REVIEW: now grounded in a real living descendant question (Quimbaya heritage), not a generic "pre-Columbian" register — the review gate matters MORE, not less, with a real culture named. Home-zone gate now has its leading candidate: an Andean/Colombian world-map register beside the Faire's vendor geography.
+
+### THE CUB LAYER — THE HIDDEN YOUNG (ruled in, Krista 2026-09-19: "they have been hiding")
+
+**THE LAW:** every mythological species already in the game as characters — centaurs, dryads, griffins, and the rest of the roster's established species — has a CUB form, and the cubs have been in the building the whole time. They hide. That's not a bug, that's their whole register: the Inn's mythological adults live openly; their young stay in the woodwork until they decide about you.
+
+**THE REGISTER:** shy, curious, slightly fumbling — the enormous future rendered small and round. A centaur foal still finding all four legs; a dryad sapling whose leaves turn toward whoever it watches; a griffin cub whose wings are all feet and enthusiasm. The comedy is the baby-animal law (proportions wrong on purpose); the charm is that these are the community's next generation, and the community is softest where they're concerned.
+
+**THE MECHANIC (proposed):** cub-spotting as the discovery layer — cubs are spotted by patience, never chased (the Anti-Skinner cousin: the reward for being calm in a zone is meeting its youngest resident). A cub that chooses to be seen by a player once is more likely to appear again — trust as a mechanic, the Sanctuary law expressed in wildlife.
+
+**TIES:**
+- The parent species wherever they live (the Crystal Gardens' Griffin gets a cub; the Camelot/Fae centaurs and dryads likewise — each zone with an established species gains its cubs).
+- Species Law / egg economy: the cubs are the LIVING young; the egg pool remains the hatchable pet line. Two different doors to the same species (the wild cub met by patience; the hatched companion raised from an egg) — one census, both jobs, no second paint line.
+- REC law: one cub class master per species (the adult master's smaller sibling — same line language, cub proportions).
+- The Ragana's biology register (the Inn's biologist has opinions about the young of everything).
+- The Modern Day Gallery / For-you register: cub sightings as candidate Gazette material ("The One Who Was Almost Seen").
+
+**GATES OPEN:** (1) the census — full list of established mythological species with hiding cubs; (2) the hide-spots law (where cubs hide per zone — woodwork, eaves, hedgerows); (3) the trust mechanic's exact shape (craft-flavored, not stat-flavored, per Anti-Skinner); (4) the first cub master paint (leading candidate: the Crystal Gardens' griffin cub — the parent is already caught up in the Ledger).
