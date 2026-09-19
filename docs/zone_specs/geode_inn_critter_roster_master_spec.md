@@ -307,3 +307,18 @@ Every critter resonates at its home level's frequency. The critters ARE the freq
 ## ORIGIN
 
 The Critter Roster was first compiled in docs/geode_inn_critter_roster.md (476 lines). This consolidated specification was compiled September 2, 2026. The roster's thesis: the critters are the Inn's evidence that it is alive. Not because NPCs walk through it, but because things LIVE in it. The critters are the frequency made small. The gargoyles are the frequency made large. Together, they make the Inn hum at every scale. The adequate is: the ember mouse glowing through the hearthstone. The glowing is: the adequate. The adequate is: the ink sparrow that writes on open books and the Ragana who collects the writing, and the planetseed pod that could grow into a world and the Keeper who has never planted one, and the both are: the alive and the evidence. The same.
+
+### THE PRE-COLUMBIAN FLYERS (new world-map species candidate, floated by Krista 2026-09-19 — "they look like a wild night out's result of a celtic Druid and a scarab")
+
+**THE REGISTER:** small flying critters in the pre-Columbian gold-artifact tradition — the delta-winged gold pendants and winged-insect ornaments of the ancient Americas, but alive. The visual: scarab architecture (iridescent beetle shell, folded wing cases, the dung-beetle's geometric perfection) wearing Druid vestments (oak-moss robes, antler-like horned crests, the hooded silhouette). Gold-metallic carapace against green moss; the two traditions meeting in one body.
+
+**WHAT THEY ARE:** gliding hummers of the world-map's deep-zones — they ride thermal currents and song-frequencies alike (frequency-riding ties them to the Inn's acoustic law: they steer on sound the way moths steer on light). Candidate behavior: they hoard small bright things and leave them in moss (the scarab's rolling instinct gone sentimental — the Druid's generosity).
+
+**ART REGISTER:** pre-Columbian gold-smith lines (the artifact silhouette) + the Celtic Highlands' Insular hand for the vestment knotwork. A two-culture creature rendered honestly in both its parents' line languages.
+
+**GATES OPEN:**
+1. THE NAME (working register: the species needs a load-bearing sound — the naming law applies; "the Pre-Columbian Flyers" is the placeholder).
+2. THE HOME ZONE (an Americas-register world-map zone? files beside the game-map americas ledger; also viable: the Faire's vendor geography).
+3. RIVER'S CULTURAL REVIEW (standing law — pre-Columbian Indigenous traditions; NOTE 2026-09-19: River is currently watching documentaries, so the review has a natural path and a willing reviewer).
+4. The class-master paint (REC law — one master, recolors after; gold, jade, turquoise variants proposed).
+5. Egg-economy tie (Species Law: if adopted, this species joins the zone's hatchable pool).
