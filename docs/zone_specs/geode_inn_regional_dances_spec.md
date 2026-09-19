@@ -57,3 +57,22 @@ River's cultural review gate applies per dance (Standing Grove precedent — app
 5. Sprite parcels: dancer cycle sheets per tradition (one class master per dance style, REC law — recolors for player characters).
 6. The Bard's hosting role (floated: the Bard as MC frame — gate open).
 7. ENV row: the dance floor room (Background Law pass needed).
+
+---
+
+## THE MYTHOLOGY TIE — RITUAL DANCES (Krista's ruling, 2026-09-19)
+
+The dances aren't only arcade challenges — the oldest ones are LOAD-BEARING. Dancing around a stone circle in the light of a full moon is the traditional way to summon the fey, and the Dance Halls is where that law gets played.
+
+### THE SUMMONING TIER
+- **Stone-circle dances:** performed in the Stone Circles zone (the giants' portal stones), under the Inn's moon phase. A full-moon dance done clean opens the threshold — the fey answer. Honest failure law holds: a botched circle dance doesn't summon something angry, it just doesn't open the door (the fairy heckles from the wrong side of it).
+- **Moon-phase gating:** the summoning dances only open under the right moon — the Inn's sky becomes a mechanic, not wallpaper. Ties the sky-clock law.
+- **Fae reputation ties:** a clean circle dance earns fae reputation (the fae appreciate a dancer); the Faire/zone events get their opening ceremonies from this tier.
+
+### THE SEASONAL WHEEL — THE "HEATHEN" DANCES
+- The old seasonal dances (maypole for Beltane, harvest-circle, solstice rounds, wassail processions) as the calendar layer: each season's dance turns the Inn's year. The Wheel of the Year as a rhythm-game campaign structure.
+- **Honest-label law with warmth:** these are the living traditions actually called "heathen" by outsiders — the Inn teaches them warm and credited, the way it teaches everything old. The word "heathen" itself gets the honest-label treatment: what the labelers called it vs. what the dancers were doing.
+- River's cultural review gate applies to the seasonal wheel per tradition (living practice, not reconstruction).
+
+### TIES
+- Stone Circles zone (ENV row + portal law), the moon/sky clock, fae reputation, EchoMelody (each ritual dance carries its tradition's tune), the Wandering Musicians chapter, the Faire's seasonal events (opening ceremony dances).
