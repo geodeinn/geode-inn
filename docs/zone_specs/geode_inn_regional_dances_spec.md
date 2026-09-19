@@ -76,3 +76,9 @@ The dances aren't only arcade challenges — the oldest ones are LOAD-BEARING. D
 
 ### TIES
 - Stone Circles zone (ENV row + portal law), the moon/sky clock, fae reputation, EchoMelody (each ritual dance carries its tradition's tune), the Wandering Musicians chapter, the Faire's seasonal events (opening ceremony dances).
+
+### THE POPE-HAT CRITTER (ruled in, Krista, 2026-09-19)
+- The little pope-hat-wearing critter hops in once in a while during the ritual and seasonal dances. No dialogue, no explanation — it arrives, watches, maybe claims a ribbon off the maypole, and hops out (Del Toro register: never explained).
+- The register is both registers at once: funny (a tiny critter in a enormous mitre) and haunting (why is it here? because it always is). The comedy is the delivery; the haunting is the message.
+- THE MESSAGE (load-bearing, no lecture): the church's constant nabbing of old traditions — the mitre arriving at the maypole is the whole history lesson. Nothing is said; everything is understood. The player who knows, knows; the player who doesn't, laughs at the hat and learns the rest from the Archive's honest-label shelves later.
+- REC law: one class master for the critter (design gate: which KIT-C census species wears the mitre — gate open).
