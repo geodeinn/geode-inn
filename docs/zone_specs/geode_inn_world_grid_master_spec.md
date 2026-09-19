@@ -140,3 +140,21 @@ The World Grid uses the WORLD MAP artist assignments (the 37-zone artist map alr
 ## ORIGIN
 
 The World Grid was first designed in geode_inn_world_grid_build_spec.md as one of the seven unwoven systems. This consolidated specification was compiled September 2, 2026 to integrate the World Grid into the full architecture — connecting it to the Silk Road (the travel system), the Trifocal Gaze (the Outer Ring's Deep Lens connection), the Mycorrhizal Network (the root system beneath), and the Hollow Earth (the ceiling beneath the ocean). The World Grid's thesis: the Inn is a building, but the building sits on the Earth, and the Earth is part of the frequency. You can stay inside the Inn your whole playthrough and never leave. But if you walk out, the Earth is there, and the Earth hums. The 42Hz isn't in the Inn. The 42Hz is in the ground. The Inn is built on the ground. The building just makes the frequency audible. The grid makes it walkable.
+
+---
+
+## THE DEEP MAP — THE HISTORICAL RELEVANCE OVERLAY (floated by Krista 2026-09-19: "some geographies are so layered — their ley line signature is a favorite melody for some creators")
+
+**THE IDEA, AS RULED IN:** the ley line grid gets a second, statistical layer. Not all ley lines are equal — some geographies carry CENTURIES of accumulated human story (the Celtic Highlands, the Fjords, the Monsoon Coast's temple rivers; places where the real world kept returning to the same ground to dream). The overlay renders each region's HISTORICAL DENSITY as a graph — a topographic read of the grid where the tall peaks are the geographies humanity kept singing about.
+
+**THE VISUAL (Linework-as-UI):** a translucent strata-contour layer over the world map — density rendered like geological contour lines, the layered regions reading as deep river-cut valleys of story. One line language: the Archive District's legible-frequency hand (the only zone where 42Hz is TEXT — the Deep Map borrows that register: history made readable as terrain).
+
+**THE MECHANIC — HOW DEEP DOES IT GO:** at any node, the player can "dig the strata" — an exploratory reading of how deep that geography's history actually runs, layer by layer (the real folklore, the real events, the honest-label register: dated, sourced, credited). Dense nodes run DEEP — a player at a Celtic node could keep finding older layers under older layers. Sparse nodes are shallow, and that's taught warm, not as poverty — the Inn does not rank cultures by depth (the honest-label cousin: every line on the overlay is credited to where it came from).
+
+**"THAT WE KNOW OF" — THE HONEST EDGE:** the overlay's deepest labeled stratum at every node ends with the same marker: the point where the record stops. Below the last documented layer, the contour lines keep going — but they fade to the unknown, never to invention (the historical strata are only what WE know; the fade is the honest label made visual). The player who digs to the bottom of anywhere finds the same sentence the Archive teaches: here the record ends, and the not-knowing is load-bearing.
+
+**WHY IT'S INN:** the mechanic is Anti-Skinner-clean (digging reveals story, never stats or grind), No-Fail (a shallow node disappoints nobody; a wrong dig reveals a footnote), and Sanctuary-law (the reward for curiosity is always more history, never pressure).
+
+**TIES:** the ley line charging system (dense nodes could hum richer — the "favorite melody" made mechanical: a dense node's ambient tone carries more voices), the Archive District (the overlay IS the Archive's map view), the Zoologist's Long Study, the Mycorrhizal Network (roots as the underground mirror of the strata), the Faire's real-world vendor geography (real places, real density).
+
+**GATES OPEN:** (1) THE NAME (naming law applies — "The Deep Map" is the working title); (2) the density ledger (the actual per-region scoring — real folklore/history density, honest-label sourced, River's review where cultures are measured); (3) the strata format (how a layer reads — card, verse, Archive plaque); (4) the ENV row (Background Law); (5) the UI register confirmation (contour-line proposal awaits Krista's eye).
