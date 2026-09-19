@@ -989,3 +989,15 @@ Class: ZONE-class quest-scene panels (moments, not rooms  single-state per the p
 | THE LABRADORITE REVEAL (CYCLE, 6 frames) | dormant  first shimmer  gathering  THE BLOOM (the blue-gold fire at peak, sine-wave halos)  settling  KEPT (the quiet glow held forever) | https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/2e7afd5dc_generated_image.png |
 
 Class: CYCLE animation cast sheet (the stone-unlock sequence)  Zone home: the Fae Kingdom (completion reward)  Product home: the Fae Kingdom MMO + the web beta + the Arcade card  Source: original generation (the Steady Light law held in the animation itself: the flash is a bloom, sine-in sine-out, no hard edges, candle-class halos only  the frequency between frequencies revealed as a breath, not a bang; the KEPT frame as the Inn's philosophy  the reward is a glow you keep, not a flash you watch). NOTE: PARCEL 4 OF 4  THE FAE KINGDOM MMO'S PAINTED PRODUCTION IS COMPLETE. All four painting parcels closed in one night (the resident cycles + the UI kit + the quest scenes + the reveal). Remaining: the builder-side streams  Parcel 5 (the sprite crunch, fed by the CYCLE masters) + Parcel 6 (the web beta sync).
+
+## THE VIKING KING — THREE GENERATIONS, ONE BLOOD (painted 2026-09-19, Krista's commission: "everything else is all your artist interpretation")
+
+Type law (kept, per Krista): the original Skarsgard-bloodline speck — three ages of the same blood, the awkward youth / the victorious warlord-leader / the post-crusade elder. Celebrity features softened per standing law; presence carried by posture and costume, never likeness. Full presence tier.
+
+| Master | What it holds | URL |
+|---|---|---|
+| THE VIKING KING — THE YOUTH | the lanky king-to-be at the knarr's prow, borrowed sealskin, first voyage, the awkwardness before greatness | https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/387eccbc7_generated_image.png |
+| THE VIKING KING — THE PRIME | the feast-giver at the head of the table, wolf mantle, raised horn, warmth as command | https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/2727aef32_generated_image.png |
+| THE VIKING KING — THE ELDER | the wintered king on the carved bench before the unopened Valhalla door, seam-light, sword across the knees, the patience mechanic painted | https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/f9c9ac0a5_generated_image.png |
+
+Notes: elder panel holds the unopened-door law (the keeping is the seeing). Munch-extended palette, Steady Light aurora (sine-soft, never strobe), guardian linework. The blood does what no makeup can: same jaw, same brow, three ages. Gates open: the king's name, the king's relation to the Einherjar eight (vanguard? the one they carried?), and whether the three ages appear as one NPC across the cycle (the reincarnation mirror) or three presences in the hall.
