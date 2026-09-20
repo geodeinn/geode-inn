@@ -41,3 +41,21 @@ Rock and Roll Part 2 (the "Hey!" chant — HONEST LABEL WITH GRAVITY: the tempo 
 
 ## OBSERVATION (Wave Three)
 The stadium layer is THE TAP at civilization scale: songs engineered so a crowd answers in rhythm before the vocalist returns. Sweet Caroline and Kernkraft 400 don't just have iconic bars — they have BUILT-IN CROWD ANSWERS, which is antiphony wearing face paint. The Tap Bar's design question for build week: which census rows carry a crowd-answer part the room performs (the tap-tap-CLAP family) vs. which are pure listening tempos.
+
+## WAVE FOUR (Krista's ruling, 2026-09-20: THE PROTOTYPE LAYERS — Ziggy Stardust and KISS type tempo sets; reliable, clean-label crowd canon)
+THE ZIGGY SET (Bowie — persona-as-prototype, honest label: Ziggy is a character, the character is the point)
+Ziggy Stardust (the opening riff — announces itself in one bar)
+Rebel Rebel (the opening guitar figure — arguably Bowie's most recognizable bar)
+Suffragette City (the "wham bam thank you ma'am" stomp)
+Starman, Space Oddity (the opening chords — quiet iconic, the rare one that whispers and is still known), Heroes (the building pulse), Fame, Let's Dance (the opening), Young Americans, Modern Love
+Under Pressure (Bowie + Queen — ICE-ICE BABY borrowed the bassline, but the bassline itself is the census's purest bridge: today's Freddie thread and today's Bowie thread meeting in one opening bar)
+
+THE KISS SET (persona-band-as-prototype — the makeup is the honest label; crowd engineering as craft)
+Detroit Rock City (the engine-sound intro into the riff — arena-entrance tempo)
+Rock and Roll All Nite (the gang-chorus prototype — a chorus built for rooms to shout in unison)
+I Was Made for Lovin' You (the disco-rock pulse — the "reliable tempo" specimen: hard rock band, four-on-the-floor, stadiums answered anyway)
+Shout It Out Loud (the "shout it out loud" call-and-answer), Love Gun, Calling Dr. Love, God of Thunder
+"You wanted the best... you got the best!" (the KISS live intro — a pure antiphonic crowdbar, no music needed; The Tap's family tree in one sentence)
+
+## OBSERVATION (Wave Four)
+Both prototype sets are PERSONA-ENGINEERED TEMPOS: Ziggy is a character built to be chanted at, KISS is a band built as a logo. Neither hides the engineering, which is the honest-label charm of both. The census's clean-label roster now has its backbone: glam's reliability over glam's scandal (the census's first pulled row, by contrast, proves the vetting works).
