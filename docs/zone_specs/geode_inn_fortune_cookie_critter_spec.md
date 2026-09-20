@@ -24,6 +24,20 @@ THE VASE LAW (the critter's one load-bearing question, straight from the Oracle'
 - **Molly:** collects them. The tall leprechaun keeps a jar of the cookie's advice slips, which is both hoarding and scripture, and Molly does not see the contradiction.
 - **The cookie on the cookie:** dematerializes before it can be asked. Come again.
 
+## THE LOST AND FOUND TIE (ruled in, Krista, 2026-09-20: "we have a game world strand of jars and messages we built, where slips of paper roll and go in as a thought")
+
+**THE COOKIE IS THE INN'S SMALLEST JAR.** A fortune cookie is a folded wrapper holding exactly one slip of paper — the Lost and Found's thought-jar in miniature: container, courier, and slip folded into one pastry. The wrapper IS its label (the Quest Mark inverted — the wrapper is the mark, and you can never quite read the slip until it lets you).
+
+**THE COURIER THEORY (the load-bearing tie):** where does the cookie get its advice slips? Some of them — the goblins neither confirm nor deny which — are LOST THOUGHTS, taken from the warehouse on unauthorized walks. "Most people don't recognize theirs" is goblin canon already; now the mechanism arrives: THE COOKIE HANDS YOU YOUR OWN LOST THOUGHT, BADLY EDITED, and it reads as accidental profound advice. THE VASE LAW DEEPENS WITHOUT RESOLVING: would the outcome have happened without the advice? Maybe the advice WAS you. The Adult Swim question (did the nonsense save the Inn, or did believing it?) gets its third option and it is the worst one: some of the advice keeps working because it was yours before you lost it.
+
+**THE JAR LAW HOLDS AT COOKIE SCALE:** the cookie only ever delivers YOURS — it has never once handed anyone another person's thought. That is the one theft it never commits (the goblins' own law, obeyed by a pastry). And the one shelf it never touches is LEFT ON PURPOSE — the respected shelf stays respected; the cookie's whole warm-weird ethic is that anything truly left on purpose stays left.
+
+**THE LIGHT ROAD REGISTER:** the dematerialization is Light Road grammar — in this building, memory is light, and the cookie arrives as light wearing a wrapper. The Paper Road runs both directions now: thoughts curl INTO jars at the goblin counter, and one jar learned to float.
+
+**MOLLY'S JAR, ANSWERED (gate 5 closed):** Molly's scripture jar is a LOST AND FOUND JAR — how it left the warehouse is a question the Head Finder answers with total silence (they watch; they say nothing; they always say nothing, pointedly — the goblins have never once caught the cookie in the warehouse either, and the two silences may be the same silence). THE ONE COMMUNAL JAR: the Jar Law says nobody else's jar opens — but the cookie's slips are unaddressed, so Molly's jar is nobody's and everybody's, the exception that proves the law. The archive becomes canon as an in-game readable: the Inn's only public-domain thought-jar.
+
+**THE GOBLIN FILING NOTE:** the Finders file things by what they were DOING when they got lost. The cookie's slips are filed as THOUGHTS THAT WERE ALMOST HEARD. Nobody knows why the row works. It works because goblins believe in it.
+
 ## THE LAWS IT KEEPS
 
 Anti-Skinner (the advice is never a mechanic, never a buff, never a quest-giver — it CANNOT be farmed, dematerialization is the anti-loop), No-Fail (you cannot miss an appointment you were never granted), the Sanctuary law (the cookie is warm-weird, never spooky — the Whisper Layer's law; the wrongness is the serene kind), Steady Light (its glow is the amber catch-light on a wrapper, candle-class), the REC law (one class master; the cookie is its own class), the True-Name Law's cousin (it has no name — it is THE FORTUNE COOKIE, the title-is-name law like the Tourist), Honest Label (the Oracle and Adult Swim credited above; the real fortune quoted is the register's founding specimen).
@@ -38,5 +52,5 @@ The critter census (KIT-C — the ambient-life roster's new weirdest resident; t
 2. THE CENSUS ROW (ambient critter roster vs. Named Critters spec — the office scenes argue story-carrier).
 3. THE GAZETTE CAMEO (the Bard's song attempt, "The Meter of the Cookie," strip candidate for the next Gazette day).
 4. THE RAGANA HISTORY (the crone's unexplained dislike — a thread nobody has written; leave it unexplained for now? the Del Toro margin-note law candidate: "She saw. The page turns anyway" cousin).
-5. THE ADVICE SLIP ARCHIVE (Molly's jar: does the collection become canon as an in-game readable? the fortune slips as collectible-but-not-collectible, Anti-Skinner check).
+5. THE ADVICE SLIP ARCHIVE — CLOSED (2026-09-20): Molly's jar IS a Lost and Found jar, canon as an in-game readable, the one communal jar. Anti-Skinner holds: the slips are readable, never farmable.
 6. THE CLASS MASTER (the sprite: one cookie, one glow state, one dematerialize; the office desk and tea as the one optional-view set).
