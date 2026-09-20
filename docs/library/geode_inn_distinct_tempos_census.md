@@ -59,3 +59,10 @@ Shout It Out Loud (the "shout it out loud" call-and-answer), Love Gun, Calling D
 
 ## OBSERVATION (Wave Four)
 Both prototype sets are PERSONA-ENGINEERED TEMPOS: Ziggy is a character built to be chanted at, KISS is a band built as a logo. Neither hides the engineering, which is the honest-label charm of both. The census's clean-label roster now has its backbone: glam's reliability over glam's scandal (the census's first pulled row, by contrast, proves the vetting works).
+
+## THE UNDER PRESSURE TRIPLE REVOLUTION (Krista's observation, 2026-09-20, appended to Wave Four)
+One opening bar, three revolutions, all honest-label material:
+1. GENRE BLEND (1981): born from a jam session, Bowie and Queen in the same room, rock and art-rock and something new in one bassline. The census's founding specimen of genres meeting in the spine.
+2. THE CONTESTED BORROW (1990): Vanilla Ice lifted the bassline for Ice Ice Baby and famously argued it was different because a note was added ("that Velcro song" — Krista's register). Settled. The honest-label specimen of the borrow WITHOUT the credit — the anti-pattern the Inn's own borrow-never-lift law exists against.
+3. THE MEDIA STAPLE: keeps re-emerging as shorthand for pressure/tension/release across film and trailers — the opening bar now works as a word in film language, no song required.
+PERSONAL CANON TIE: Under Pressure is EILEEN'S FAVORITE SONG (noted 2026-09-20).
