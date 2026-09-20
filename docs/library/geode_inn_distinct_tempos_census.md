@@ -21,3 +21,23 @@ Andro (Faun — German pagan-folk; the drum-led entry), Ringworm (Tartanic — C
 2. The jukebox arrangements: which tempos get Inn arrangements first (Build Week with the Fizgigs).
 3. EchoMelody review for the two public-domain rows.
 4. THE TAP tie: which census entries are tappable in bars (the two-tap answers, the stomp-clap answers).
+
+## WAVE THREE (Krista's ruling, 2026-09-20: THE CROWD UNIFICATION LAYER — event/stadium songs)
+Centuries (Fall Out Boy — the football-games amper; the "remember me" chant built ON the stadium chant register itself)
+My Songs Know What You Did in the Dark / Light Em Up (Fall Out Boy)
+Sweet Caroline (Neil Diamond — the "bah bah bah," New England law: the crowd answers before the song resumes)
+Don't Stop Believin' (Journey — the piano pulse)
+Livin' on a Prayer (Bon Jovi — the talk-box hook)
+Kernkraft 400 (Zombie Nation — the actual stadium "oh-oh-oh"; honest label: sampled from a 1984 video game tune)
+Sandstorm (Darude)
+Jump Around (House of Pain)
+Cotton Eye Joe (Rednex — folkSong remixed, River's review gate on the folk register)
+I'm Shipping Up to Boston (Dropkick Murphys — the Celtic-punk pulse)
+Welcome to the Jungle (GN'R)
+Sirius / the Bulls intro (the Alan Parsons instrumental — arena-tempo with no words at all, pure Convention Engine)
+Thunder (Imagine Dragons — the modern stadium default)
+Thunderstruck (already in, Wave One — now recognized as the AC/DC stadium-unification patriarch too)
+Rock and Roll Part 2 (the "Hey!" chant — HONEST LABEL WITH GRAVITY: the tempo is the most famous crowd-answer in stadium history, but Gary Glitter is a convicted offender; the Inn's prosecution-register handling applies. Ruling gate: skip it, or teach the tempo's history honestly with the man never named. Krista's call.)
+
+## OBSERVATION (Wave Three)
+The stadium layer is THE TAP at civilization scale: songs engineered so a crowd answers in rhythm before the vocalist returns. Sweet Caroline and Kernkraft 400 don't just have iconic bars — they have BUILT-IN CROWD ANSWERS, which is antiphony wearing face paint. The Tap Bar's design question for build week: which census rows carry a crowd-answer part the room performs (the tap-tap-CLAP family) vs. which are pure listening tempos.
