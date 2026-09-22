@@ -43,7 +43,7 @@ These are volunteer NPCs — real people from Krista's life who asked to be in t
 | The Archivist + Joe | The painter and the player. The same game, different role. Joe paints the chess pieces. The Archivist plays them. |
 | The Archivist + Oceanianoir | The puzzle and the solver. Oceanianoir designs puzzles for Mensa. The Archivist solves puzzles for fun. |
 | The Archivist + Kathy (the druid) | The chess board is living wood. Kathy grew it. The Archivist and Kathy disagree about whether the board should "evolve" or stay the same. The board does what it wants. |
-| Will + Max (Miracle Max) | Max's margins (flowery, dramatic). Will's footnotes (precise, small). The Ragana noticed Will's footnotes are more useful. She hasn't told Max. |
+| Will + Calder | Calder's margins (flowery, dramatic). Will's footnotes (precise, small). The Ragana noticed Will's footnotes are more useful. She hasn't told Calder. |
 
 ---
 

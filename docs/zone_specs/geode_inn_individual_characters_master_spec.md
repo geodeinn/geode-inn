@@ -53,7 +53,7 @@ Individual character design documents that warranted their own files due to comp
 | Hel | 82 | The Norse underworld goddess. |
 | Mordred | 90 | The traitor knight. Complex motivations. |
 | The Duck | 127+82 | The Inn's biology joke. A rubber duck that floats the catacombs river. |
-| Miracle Max | 111 | The healer. "Have fun storming the castle!" |
+| Calder | 111 | The healer. "Have fun storming the castle!" |
 | The Wayfarer the Wanderer | 119 | The early medieval NPC. |
 | Queen of Webs | 134 | The spider queen. |
 | Queen of Words | 117 | The language keeper. |

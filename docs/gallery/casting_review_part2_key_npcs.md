@@ -410,7 +410,7 @@ Major NPCs with portraits, plus the ten-member Clockwork Skies crew.
 <td><b>Living (42Hz)</b><br/><img src="https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/2a778098b_einstein.png" width="280" alt=""/><br/><code>einstein.png</code></td>
 </tr></table>
 <hr/>
-### Miracle Max
+### Calder
 
 *Zone: Staircase (L5)*
 

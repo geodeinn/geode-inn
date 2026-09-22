@@ -217,7 +217,7 @@ The Inn does not display art on walls. The Inn's environments ARE the art — ea
 - **Ruling Presence:** The Retort and the Cook (alchemical apparatus as characters)
 - **Theme:** Fire, transformation, alchemy — the bridge between matter and divine
 - **Quest Type:** Crafting mastery — the Five Smiths teach forging. The Greek Philosophers teach on the three steps.
-- **Connects to:** The staircase music ascending in key, the Bifrost, Miracle Max's shop
+- **Connects to:** The staircase music ascending in key, the Bifrost, Calder's shop
 
 ## Lower Realms (Downstairs / Catacombs / Fae Kingdom Roots)
 
@@ -328,7 +328,7 @@ The Inn does not display art on walls. The Inn's environments ARE the art — ea
 ## Muspelheim (Staircase / Alchemy)
 - **The Retort and the Cook** — Alchemical apparatus as characters. Bloop (Tesla's cat).
 - **The Five Smiths** — Copper, Iron, Silver, Gold, Quicksilver.
-- **Miracle Max** — From The Princess Bride. Alchemy shop. *To be fully designed.*
+- **Calder** — Original Inn alchemist, with *The Princess Bride*'s Miracle Max credited as a performance reference. Alchemy shop. *To be fully designed.*
 - **The Greek Philosophers** — Socrates (Stephen Fry, Nigredo), Plato (Ralph Fiennes, Albedo), Aristotle (Jeremy Irons, Rubedo). Ancestors of the Council of Thinkers.
 
 ## Nidavellir/Svartalfheim (Deep Workshops / Unseelie Court)
@@ -494,7 +494,7 @@ Frog transformation: three = suspension.
 - **Camelot Quest Chain:** Meet Artair (Bill Skarsgård) → learn alongside Merlin → transform → meet the King (Alexander) → Round Table leadership quests → meet the Elder (Stellan) → Avalon passage (ascent to cosmology level)
 
 ## Tier 2: The Bridge Realms
-- **Muspelheim:** Crafting mastery. Miracle Max's shop. The Retort and the Cook. The Five Smiths. The Greek Philosophers on the three steps.
+- **Muspelheim:** Crafting mastery. Calder's shop. The Retort and the Cook. The Five Smiths. The Greek Philosophers on the three steps.
 - **Nidavellir:** Advanced construction (dwarf techniques)
 - Both require Friendly reputation with at least 2 cultural factions
 
@@ -583,7 +583,7 @@ The player who connects all of these finds the Golden Contract. And understands 
 
 1. **The Annunaki Platform** — The Constant is Annunaki but the Mesopotamian cultural platform in the Canopy City is not yet designed. The cradle of civilization needs a platform with its own vendor, guide, quest, and ziggurat aesthetic. (HIGH)
 2. **Vanaheim (The Green World)** — The Gardener is designed but Freyr and Freyja are not. Seidr magic mechanics not detailed. (HIGH)
-3. **Miracle Max's Alchemy Shop** — Confirmed for the staircase but shop mechanics, items, and full character profile needed. (HIGH)
+3. **Calder's Alchemy Shop** — Confirmed for the staircase but shop mechanics, items, and full character profile needed. (HIGH)
 4. **Niflheim Content** — Realm defined but specific quests, NPCs, and discoveries not detailed. (MEDIUM)
 5. **Svartalfheim beyond the Labyrinth** — The Hollow needs expansion. (MEDIUM)
 6. **Jotunheim Specifics** — The Sleeping Giants are designed but individual giant NPCs not detailed. (MEDIUM)
@@ -604,7 +604,7 @@ The player who connects all of these finds the Golden Contract. And understands 
 ## Recommended Priority Order
 
 1. **The Annunaki Platform** — The Constant's cultural ground (HIGH)
-2. **Miracle Max's Alchemy Shop** — Staircase completion (HIGH)
+2. **Calder's Alchemy Shop** — Staircase completion (HIGH)
 3. **Vanaheim content** — Freyr, Freyja, seidr (MEDIUM)
 4. **Asgard content** — Endgame quests (MEDIUM)
 5. **Niflheim content** — Archaeological discoveries (MEDIUM)

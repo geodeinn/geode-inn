@@ -469,7 +469,7 @@ These characters are flagged in the Master Storyline's layer assessment as compl
 
 **Needing Full Profiles (HIGH priority from Master Storyline):**
 - **The Gardener (The Greenward)** — Mentioned as rivalry with the Catalyst but no full profile in the Character Development Session.
-- **Miracle Max's Alchemy Shop** — Confirmed for the staircase but not designed.
+- **Calder's Alchemy Shop** — Confirmed for the staircase but not designed.
 - **Hel (the being)** — Loki's daughter, half living, half dead. Needs casting, personality, dialogue, quest mechanics.
 - **The Seelie King full profile** — NOW COMPLETED in this compendium.
 

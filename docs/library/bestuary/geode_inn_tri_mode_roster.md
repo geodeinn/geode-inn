@@ -56,7 +56,7 @@
 | The Pirate | https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/9aaee1e0f_generated_image.png |
 | Thorin (Forge Master) | https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/f278ecdc8_generated_image.png |
 | Merlin | https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/260e26d23_generated_image.png |
-| Miracle Max | https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/a142b4574_generated_image.png |
+| Calder | https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/a142b4574_generated_image.png |
 | Belladonna (Belladonna) | https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/6af0da08a_generated_image.png |
 | The Cook | https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/bb357f658_generated_image.png |
 | Eres | https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/5a5ac17d0_generated_image.png |
@@ -89,7 +89,7 @@
 | Eres | https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/6acde8825_generated_image.png |
 | Thorin (Forge Master) | https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/d4c806ee3_generated_image.png |
 | Merlin | https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/9f6cb1b4f_generated_image.png |
-| Miracle Max | https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/f77ae197b_generated_image.png |
+| Calder | https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/f77ae197b_generated_image.png |
 
 ---
 

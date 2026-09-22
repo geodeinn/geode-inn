@@ -95,7 +95,7 @@ A coinciding list of every created character, critter, creature, and item with v
 | 75 | Bramble | Cosmology (L1) | ✅ Portrait | |
 | 76 | Leonardo da Vinci | Cosmology (L1) / Staircase | ✅ Portrait | |
 | 77 | Einstein | Cosmology (L1) | ✅ Portrait | |
-| 78 | Miracle Max | Staircase (L5) | ✅ Portrait | Theatrical alchemist |
+| 78 | Calder | Staircase (L5) | ✅ Portrait | Theatrical alchemist |
 | 79 | Belladonna / Belladonna | Main Floor (L3) | ✅ Portrait | Addams-inspired |
 | 80 | The Firekeeper (Tim Curry) | Main Floor (L3) / Hearth | ✅ Portrait | |
 

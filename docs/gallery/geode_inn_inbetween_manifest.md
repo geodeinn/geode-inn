@@ -86,7 +86,7 @@ The In-Between state is the transitional frequency — half-living (42Hz) and ha
 | 74 | Thorin | Fae Kingdom/Meadery | https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/158712ba5_generated_image.png |
 | 75 | The Smiths (Five Smiths) | Staircase | https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/0e432d1fe_generated_image.png |
 | 76 | The Fixer (Wrought) | Staircase | https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/8d42341b3_generated_image.png |
-| 77 | Miracle Max | Staircase | https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/777a22e37_generated_image.png |
+| 77 | Calder | Staircase | https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/777a22e37_generated_image.png |
 | 78 | The Ceiling Gnome (Gesso) | Staircase/Ceiling | https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/be7a1215a_generated_image.png |
 | 79 | Naut (The Scholar) | Main Floor/Archive | https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/71db8fd88_generated_image.png |
 | 80 | Briar Nightbloom | Market | https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/a97712dc9_generated_image.png |

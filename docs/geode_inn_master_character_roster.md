@@ -96,7 +96,7 @@ This is the coinciding master list — every character, creature, and artifact c
 | 69 | Belladonna (formerly Wednesday Addams) | Undercity host, Poison Garden matron, city-of-the-dead guide | belladonna_v2.png | ✅ npc_remaining |
 | 70 | Marijke | Bone Room keeper | marijke.png | ✅ npc_remaining |
 | 71 | Mason | Stoneworker, cave builder | mason.png | ✅ npc_remaining |
-| 72 | Miracle Max | Healer | miracle_max_ingame.png | ✅ npc_remaining |
+| 72 | Calder | Healer | miracle_max_ingame.png | ✅ npc_remaining |
 | 73 | Bill Platypus | Inn's resident platypus | bill_platypus.png | ✅ npc_remaining |
 | 74 | The Duck | Grey water duck | duck_on_grey_water.png | ✅ npc_remaining |
 | 75 | Tumble | Baby dragon mascot | tumble_ingame.png | ✅ npc_remaining |

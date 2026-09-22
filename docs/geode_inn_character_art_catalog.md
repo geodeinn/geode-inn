@@ -1483,7 +1483,7 @@ All 32 creatures are chibi-style playable characters for the "Monster of the Dee
 **Role:** Carries the starlight crystal through the void between dying and nascent universes
 **Linework:** No-outline (cosmological)
 
-### 69. Miracle Max — Theatrical Alchemist (In-Game)
+### 69. Calder — Theatrical Alchemist (In-Game)
 **Image:** https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/3eb6cfcb3_generated_image.png
 **Location:** Alchemical Staircase — lab counter
 **Role:** Day-shift alchemist, shopkeeper, performer, seller. Opposite of Will (night-shift methodical).

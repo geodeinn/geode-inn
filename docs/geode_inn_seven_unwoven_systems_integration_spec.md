@@ -362,7 +362,7 @@ The systems have dependencies. Wire them in this order:
 - geode_inn_level2_clockwork_skies_complete.md (Silk Road hub, World Grid hub, Cartographer quest, Pulse Line mechanical)
 - geode_inn_level3_main_floor_complete.md (Stone Capsules geode cave, Pulse Line standard)
 - geode_inn_level4_campgrounds_complete.md (Pulse Line outdoor, World Grid entry)
-- geode_inn_level5_staircase_complete.md (Pulse Line ascending, Miracle Max alchemy charging)
+- geode_inn_level5_staircase_complete.md (Pulse Line ascending, Calder alchemy charging)
 - geode_inn_level6_catacombs_complete.md (Mycorrhizal node, Ragana's measurement, Pulse Line weighted)
 - geode_inn_level7_faerie_kingdom_complete.md (Mycorrhizal hub, Pulse Line shifting, Queen of Roots)
 - geode_inn_level8_water_zone_complete.md (Trifocal Gaze, Pulse Line liquid, Stone Capsules water monsters)

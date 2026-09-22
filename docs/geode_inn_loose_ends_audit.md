@@ -98,7 +98,7 @@ The Geode Inn repository is 85-90% novel-ready. All major story arcs, character 
 3. Hel — featured in Norse/Catacombs, needs casting/personality/quest mechanics
 4. The Greenward (The Gardener) — mentioned as Catalyst's rival, needs full profile
 5. Erik Earl Ragnar — referenced, lacks standardized NPC profile
-6. Miracle Max — staircase alchemy shop NPC, undesigned
+6. Calder — staircase alchemy shop NPC, undesigned
 7. Gesso (Ceiling Gnome) — cosmic mural painter, lacks profile doc
 8. The Reader — catalog #34, no profile doc exists
 9. Clockwork Skies Crew — roles defined, individual named profiles uncreated

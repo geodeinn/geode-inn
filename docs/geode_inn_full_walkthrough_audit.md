@@ -67,7 +67,7 @@ A vertical stone staircase connecting the Main Floor to the Cosmology Level. Eac
 | **The Cook** | Jack Black | Kitchen anchor; care-based sustainer; says "Enough" |
 | **Bloop** | — | Tesla's cat living in the staircase lab |
 | **The Five Smiths** | — | Forge (Iron), Alloy (Bronze), Current (Silver), Endure (Gold), Verdigris (Copper) |
-| **Miracle Max** | Princess Bride archetype | Alchemy shop keeper |
+| **Calder** | Princess Bride archetype | Alchemy shop keeper |
 | **Gesso** | — | Grumpy ceiling gnome restorer; writes in mirror script like Da Vinci |
 | **Wrought** | — | Invisible Celtic mason; structural fixer |
 
