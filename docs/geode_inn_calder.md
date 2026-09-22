@@ -51,7 +51,7 @@ The staircase — Muspelheim, the Fire Realm. The shop is carved into the side o
 
 ### Unless, the eldest flask newt
 
-Unless is the oldest of the staircase's alchemical newts and Calder's chosen companion, not a reagent to be used up. The little newt keeps station among the flasks beside Calder's bench, watching each experiment with the grave patience of someone who has already seen the exception. Calder may pause at that unblinking look and check a step twice. Unless does not solve recipes for the player. Bloop remains the Retort's cat; Unless belongs to Calder's particular brand of patient, improbable craft.
+Unless is the oldest of the staircase's alchemical newts and Calder's chosen companion, not a reagent to be used up. The little newt keeps station among the flasks beside Calder's bench, watching each experiment with the grave patience of someone who has already seen the exception. Calder may pause at that unblinking look and check a step twice. Unless also has an independent NPC role, like Eres the Cabbit as The Constant's companion. Players can approach Unless directly; Unless may meet an offered stone with a curious turn, greet a familiar visitor at the flask rim, or withdraw when left alone. Those choices belong to Unless, not Calder. Unless does not solve recipes for the player or become an inventory pet. Bloop remains the Retort's cat; Unless belongs to Calder's particular brand of patient, improbable craft.
 
 ### What Calder Does
 
