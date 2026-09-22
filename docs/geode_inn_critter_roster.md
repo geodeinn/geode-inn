@@ -111,6 +111,8 @@ The trunk of the Ent. The music ascends in key as you climb. Alchemical texts li
 ### S1. Alchemical Newts
 Small salamanders that live in the beakers and flasks lining the staircase walls. They swim in the liquids — each newt adapts to its container. A newt in a red solution turns red. A newt in a mercury bath becomes silver. They are the staircase's living reagents — Calder uses their shed skins in preparations. They are immune to every alchemical substance. Calder has tried to explain why. The reason remains unknown. The newts just are. They stare at him with ancient, knowing eyes. They've been in those flasks longer than Calder has kept the shop.
 
+The eldest flask newt is Unless, Calder's companion at the alchemy bench. Unless watches each recipe like an ancient skeptic acquainted with every exception. The quiet stare may send Calder back to check the next step, but it does not reveal an answer to the player. Unless is not a consumable; only naturally shed skins can enter Calder's preparations. Bloop remains the Retort's cat.
+
 ### S2. Prism Mantises
 Translucent, crystalline insects that refract light into rainbows on the staircase walls. They stand perfectly still for hours, then strike at dust motes with blinding speed. Their bodies are living prisms — the staircase's light is filtered through them. The effect is that the walls shimmer with shifting color as you climb. The ascending key of the staircase music is partly their doing — their refractive patterns change the light frequency, which changes the perceived pitch. Tesla has measured this. He is excited and disturbed in equal measure.
 

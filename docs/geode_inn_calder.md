@@ -49,6 +49,10 @@ The staircase — Muspelheim, the Fire Realm. The shop is carved into the side o
 - The counter is the only clear surface. The counter is where the work happens. The counter is sacred. Players do not touch the counter. Calder doesn't say this. The counter says this. The energy of the counter says this. The Ragana has annotated: "...The counter is the only clean surface in the shop. ...The alchemist cleans nothing else. ...The counter is the altar. ...I understand this."
 - A small chair for visitors. One chair. No cushion. The chair is not comfortable because Calder doesn't want you comfortable — comfort is not the work. The work is transformation, and transformation is not comfortable. The chair is there because Calder is kind, and the kindness is the chair, and the lack of cushion is the honesty.
 
+### Unless, the eldest flask newt
+
+Unless is the oldest of the staircase's alchemical newts and Calder's chosen companion, not a reagent to be used up. The little newt keeps station among the flasks beside Calder's bench, watching each experiment with the grave patience of someone who has already seen the exception. Calder may pause at that unblinking look and check a step twice. Unless does not solve recipes for the player. Bloop remains the Retort's cat; Unless belongs to Calder's particular brand of patient, improbable craft.
+
 ### What Calder Does
 
 Calder is the Inn's alchemist — the master of transformation through fire, compound, and catalyst. His shop serves three functions:
