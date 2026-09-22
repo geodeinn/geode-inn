@@ -1,0 +1,1146 @@
+---
+title: character assignment v4
+source: Drive trove harvest 2026-09-21 ('all building components for game')
+provenance: recovered verbatim from Drive — pre-repo era doc; treat as source material, not current canon
+---
+
+Geode Inn — Master Character Assignment
+
+Version 3.0 — September 1, 2026
+
+Every character, critter, creature, and item with visual assets in the Geode Inn ecosystem. Characters with uploaded portraits show thumbnails. Water monsters, critters, and shadow echoes were uploaded in prior sessions (see GitHub manifests).
+
+TIER 1: FULL PRESENCE CHARACTERS (Deity-level / Ancient Forces)
+
+#1 The Allfather (Odin)  — Cosmology (L1)
+Authoritative form, one-eyed, imposing
+
+✅ Available at: https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/19e4f1e43_odin_allfather.png
+
+#2 The Wanderer (Odin)  — Main Floor (L3) / Cosmology
+Approachable traveler form, chibi ravens
+
+✅ ✅ Portrait (prior session upload)
+
+#3 Huginn & Muninn  — Cosmology (L1)
+Odin's ravens — silent when perched (Allfather), thieving when wandering
+
+✅ Uploaded: https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/dfd85a01f_huginn_muninn.png
+
+#4 The Morrigan  — Catacombs (L6) / Fae Kingdom
+Washer at the ford, fate/death, crow form
+
+#5 The Owl  — Cosmology (L1) / Narrative
+Barn owl, supernatural watcher, bloodline motif
+
+✅ ✅ Portrait (prior session upload)
+
+#6 The Seelie Fae (Summer Court)  — Fae Kingdom (L7) — Seelie Court (z30)
+Full presence, ancient Gentry
+
+✅ Uploaded: https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/4a1f3b2ae_jareth_unseelie_king.png
+
+#7 The Unseelie Fae (Winter Court)  — Fae Kingdom (L7) — Unseelie Court (z08)
+Full presence, the Sluagh
+
+#8 Seelie King  — Oleander)
+Awaiting proper identity arrival
+
+#9 Seelie Queen  — Seelie Court (z30)
+
+#10 Unseelie King (Malachi)  — Unseelie Court (z08)
+Named Malachi
+
+✅ Uploaded: https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/4a1f3b2ae_jareth_unseelie_king.png
+
+#11 The Queen of Roots  — Fae Kingdom (L7)
+
+✅ Uploaded: https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/ad391cee1_queen_of_roots.png
+
+#12 Medusa  — Gorgon's Garden
+Gorgon's Garden: 84Hz inverse of 42Hz
+
+✅ Uploaded: https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/ec6552bba_medusa_lithophone.png
+
+#13 Persephone  — Catacombs (L6)
+
+✅ Uploaded: https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/2bbb62694_persephone.png
+
+#14 Hades  — Catacombs (L6)
+
+✅ Uploaded: https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/697613fda_hades.png
+
+#15 Hel  — Catacombs (L6) / Norse Realms (z26)
+
+✅ Uploaded: https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/628cba374_hel.png
+
+#16 Charon  — Catacombs (L6)
+Hopkins eyes — the one unsoftened celebrity feature
+
+✅ Uploaded: https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/fdc4c5070_charon.png
+
+#17 The Guest (Death)  — Cosmology (L1) / Catacombs
+Sits by the fire in the Final Room
+
+✅ Uploaded: https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/1698ca344_the_guest_death.png
+
+#18 The Crone  — Main Floor (L3)
+Canonical: straight-on, unblinking eye contact (Hopkins gaze)
+
+✅ Uploaded: https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/d18b03371_crone_full_presence_ingame.png
+
+#19 Nyx (Primordial Night)  — Cosmology (L1)
+
+✅ Uploaded: https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/e5b653a84_nyx.png
+
+#20 Bastet  — Desert Bone Egypt (z12)
+Sistrum puzzle game
+
+✅ Uploaded: https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/33f8413f5_bastet_v2.png
+
+#21 Kali  — India (z06)
+
+✅ Uploaded: https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/63877b733_kali.png
+
+#22 Zorya  — Slavic (z05)
+
+✅ Uploaded: https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/7dc52ed7c_zorya_polunochnaya.png
+
+#23 Freyja  — Norse Realms (z26)
+
+✅ Uploaded: https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/bb3dbe9d4_freyja_vanir.png
+
+#24 Freyr  — Norse Realms (z26)
+
+✅ Uploaded: https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/df2aa102a_freyr_vanir.png
+
+#25 Loki  — Norse Realms (z26)
+
+✅ Uploaded: https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/2fea95d97_loki.png
+
+#26 King Arthur  — Camelot (z20)
+Elder king form
+
+✅ Uploaded: https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/333d56400_king_arthur_elder.png
+
+#27 Anubis (Full Presence, in-game)  — Desert Bone Egypt (z12)
+In-game full presence version
+
+✅ Uploaded: https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/b838d9d6a_anubis_full_presence.png
+
+#28 The Bog Fairy Golem (Krista)  — Bayou (z25) / Main Floor
+Krista's avatar, the maker
+
+✅ Uploaded: https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/98c222357_bog_fairy_golem_ingame.png
+
+#29 Charles (Chameleon Druid)  — Garden (z28) / Forest zones
+Shapeshifter, glioblastoma woven into character
+
+✅ Uploaded: https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/82fee4de7_charles_chameleon_druid.png
+
+#30 The Queen of Webs  — Catacombs (L6) / Undercity
+
+✅ Uploaded: https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/d8d6ea62c_queen_of_webs.png
+
+TIER 2: KEY NPCs (Major characters with portraits)
+
+#31 The Storyteller / The Host  — Main Floor (L3)
+
+✅ ✅ Portrait (prior session upload)
+
+#32 The Catalyst  — Main Floor (L3)
+
+✅ Uploaded: https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/c8a9f005c_the_catalyst.png
+
+#33 The Constant  — Cosmology (L1) / Main Floor
+Malkovich-inspired
+
+✅ Uploaded: https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/f42111fa8_the_constant.png
+
+#34 The Bard  — Main Floor (L3) / Meadery (z29)
+
+✅ Uploaded: https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/77a2a8b2b_bard_blowhard.png
+
+#35 Eileen (The One Who Tends)  — Main Floor (L3)
+Hearth keeper
+
+✅ Uploaded: https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/6d43997bc_eileen.png
+
+#36 The Smiths (Five Smiths)  — Staircase (L5)
+
+✅ Uploaded: https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/94699f58c_five_smiths.png
+
+#37 The Artisan Thief (Vaulknut)  — Main Floor (L3) / Market
+
+✅ Uploaded: https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/a3d815d57_artisan_thief_selkie.png
+
+#38 Joe (The Miniaturist)  — Main Floor (L3) / Studio
+Paints dragon kittens, Tom Ellis Lucifer cadence
+
+✅ Uploaded: https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/0e5486f77_joe.png
+
+#39 The Fixer (Wrought)  — Staircase (L5)
+
+✅ ✅ Portrait (prior session upload)
+
+#40 The Ceiling Gnome (Gesso)  — Staircase (L5) / Ceiling
+Whisper Layer positioning
+
+✅ Uploaded: https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/eb7eeaf3f_gesso_ceiling_gnome.png
+
+#41 Naut (The Scholar)  — Main Floor (L3) / Archive
+Formerly Cthulhu, 4-foot squid-headed scholar by fireplace
+
+✅ ✅ Portrait (prior session upload)
+
+#42 Beverley the Librarian  — Archive
+Anne Robinson cadence, Australian accent
+
+✅ ✅ Portrait (prior session upload)
+
+#43 The Keeper (Aughra)  — Clockwork Skies (L2)
+
+✅ ✅ Portrait (prior session upload)
+
+#44 The Queen of Words  — Archive / Main Floor
+
+✅ Uploaded: https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/ce90323e7_queen_of_words.png
+
+#45 The Council of Thinkers  — Staircase (L5) / Archive
+Greek Philosophers trio
+
+✅ Available at: https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/6c63f7afe_council_of_thinkers.png
+
+#46 The Astronomer  — Cosmology (L1)
+Einstein/Cumberbatch inspired
+
+✅ Uploaded: https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/3953aa0b3_the_astronomer.png
+
+#47 Merlin  — Camelot (z20)
+With Archimedes (owl)
+
+✅ Uploaded: https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/64580134e_merlin_archimedes.png
+
+#48 Archimedes  — Camelot (z20)
+Shared image with Merlin
+
+✅ Uploaded: https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/64580134e_merlin_archimedes.png
+
+#49 The Shifting Man  — Catacombs (L6) / Undercity
+
+✅ Uploaded: https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/44eb8253d_the_shifting_man.png
+
+#50 Thorin  — Meadery (z29) / Norse Realms
+
+✅ Uploaded: https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/badf7db56_thorin_v2.png
+
+#51 Marijke  — Meadery (z29)
+
+✅ Uploaded: https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/8fef47d41_marijke.png
+
+#52 The Pirate  — Water Zone (L8) / Campgrounds
+
+✅ Uploaded: https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/9352d3a7f_pirate_cabbit_ingame.png
+
+#53 The Gardener (Radagast)  — Garden (z28)
+
+✅ Uploaded: https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/bc4540a8b_the_gardener_radagast.png
+
+#54 Brim (Madame Mim)  — Main Floor (L3)
+Formerly Madame Mim
+
+✅ ✅ Portrait (prior session upload)
+
+#55 The Cook  — Main Floor (L3)
+
+✅ Uploaded: https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/15e28cc2c_the_cook.png
+
+#56 Erik (Norse Feast Host)  — Norse Realms (z26) / Meadery
+
+✅ Uploaded: https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/a0606baf3_erik_earl_ragnar.png
+
+#57 Uhtred  — Camelot (z20) / Norse Realms
+
+✅ Uploaded: https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/da62d947d_uhtred.png
+
+#58 Beorn  — Norse Realms (z26)
+
+✅ Uploaded: https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/7a5e8d9fa_beorn.png
+
+#59 The Retort (Tesla)  — Staircase (L5)
+
+✅ Uploaded: https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/c5eb19ec7_the_retort.png
+
+#60 The Captain  — Clockwork Skies (L2)
+
+✅ Uploaded: https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/96db20079_the_captain_arcana.png
+
+#61 The Navigator  — Clockwork Skies (L2)
+
+✅ Uploaded: https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/a615d9535_weeaboo_partner_navigator.png
+
+#62 The Cartographer  — Clockwork Skies (L2)
+
+✅ Uploaded: https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/d16357841_the_cartographer.png
+
+#63 The Examiner  — Clockwork Skies (L2)
+
+✅ Uploaded: https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/63d7656cc_the_examiner.png
+
+#64 Aughra  — Clockwork Skies (L2)
+
+✅ Uploaded: https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/75d0287dd_aughra.png
+
+#65 The Siren  — Water Zone (L8)
+
+✅ Uploaded: https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/aaf9ee81b_the_siren.png
+
+#66 The Thrum (Whisper Layer)  — Main Floor (L3) / All zones
+Archive-aware, no villain
+
+✅ Uploaded: https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/e1c7575b3_the_thrum.png
+
+#67 The Pulse Line  — Main Floor (L3) / All zones
+UI element
+
+✅ Available at: https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/e65b3bb2f_the_pulse_line.png
+
+#68 Lozen (The Sentinel / River)  — Main Floor (L3) / Guard
+Former boxer, Golden Gloves, 10-part Sentinel's Vigil questline
+
+✅ ✅ Portrait (prior session upload)
+
+#69 Quire  — Archive
+Lovecraftian scholar, restricted texts, hushed/careful
+
+✅ ✅ Portrait (prior session upload)
+
+#70 Lark (Player Guide)  — Main Floor (L3)
+Formerly Player Guide
+
+✅ ✅ Portrait (prior session upload)
+
+#71 Jay (Voltaire vibe)  — Campgrounds (L4)
+
+✅ ✅ Portrait (prior session upload)
+
+#72 Dani  — Campgrounds (L4)
+Jeweler character
+
+✅ ✅ Portrait (prior session upload)
+
+#73 Adam  — Main Floor (L3)
+
+✅ Uploaded: https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/46ad3382c_madame_holding_dobby.png
+
+#74 Jakob  — Main Floor (L3)
+
+✅ ✅ Portrait (prior session upload)
+
+#75 Anna  — Cosmology (L1)
+
+✅ ✅ Portrait (prior session upload)
+
+#76 Leonardo da Vinci  — Cosmology (L1) / Staircase
+
+✅ Uploaded: https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/9e6cc1695_leonardo_da_vinci.png
+
+#77 Einstein  — Cosmology (L1)
+
+✅ Uploaded: https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/2a778098b_einstein.png
+
+#78 Miracle Max  — Staircase (L5)
+Theatrical alchemist
+
+✅ Uploaded: https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/9122a750c_miracle_max_ingame.png
+
+#79 Wednesday / Belladonna  — Main Floor (L3)
+Addams-inspired
+
+✅ ✅ Portrait (prior session upload)
+
+#80 The Firekeeper (Tim Curry)  — Main Floor (L3) / Hearth
+
+✅ ✅ Portrait (prior session upload)
+
+TIER 3: CLOCKWORK SKIES CREW (Level 2 — 10 crew members)
+
+#81 The Cool  — Clockwork Skies (L2)
+
+✅ Uploaded: https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/a6de2dabe_crew_cool_v2.png
+
+#82 The Philosopher  — Clockwork Skies (L2)
+
+✅ Uploaded: https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/c6da90e17_crew_philosopher_v2.png
+
+#83 The Protector  — Clockwork Skies (L2)
+
+✅ Uploaded: https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/5704b037a_crew_protector_v2.png
+
+#84 The Pure-Hearted  — Clockwork Skies (L2)
+
+✅ ✅ Portrait (prior session upload)
+
+#85 The Reluctant  — Clockwork Skies (L2)
+
+✅ Uploaded: https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/2e47c7e40_crew_reluctant_v2.png
+
+#86 Ryoko  — Clockwork Skies (L2)
+
+✅ Uploaded: https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/51886eee9_crew_ryoko.png
+
+#87 Tinkering Weeaboo  — Clockwork Skies (L2)
+
+✅ Uploaded: https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/c2687cdfe_tinkering_weeaboo.png
+
+#88 Eres the Cabbit  — Cosmology (L1) / Clockwork
+Cat-rabbit, pirate's vessel
+
+✅ ✅ Portrait (prior session upload)
+
+#89 The Vessel (Gecko)  — Clockwork Skies (L2)
+
+✅ Uploaded: https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/1cc6b70a0_the_vessel_gecko.png
+
+#90 The Duck  — Clockwork Skies (L2)
+
+✅ Uploaded: https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/34ccea16f_duck_on_grey_water.png
+
+TIER 4: CHIBI — FAERIE KINGDOM NPCs (8 characters)
+
+#91 Goblin Merchant  — Fae Kingdom — The Threshold
+Ruined faerie market
+
+✅ ✅ Portrait (prior session upload)
+
+#92 Troll Gatekeeper  — Fae Kingdom — The Threshold
+
+✅ ✅ Portrait (prior session upload)
+
+#93 Dwarf Blacksmith  — Fae Kingdom — The Threshold
+Thorin-inspired
+
+✅ ✅ Portrait (prior session upload)
+
+#94 Ent Guardian  — Fae Kingdom — The Between
+
+✅ ✅ Portrait (prior session upload)
+
+#95 Anansi the Trickster  — Fae Kingdom / Main Floor
+Chibi, spider trickster
+
+✅ ✅ Portrait (prior session upload)
+
+#96 Mermaid NPC  — Fae Kingdom — Crystal Gardens
+
+✅ ✅ Portrait (prior session upload)
+
+#97 Orc Guard  — Fae Kingdom — The Hollow
+
+✅ ✅ Portrait (prior session upload)
+
+#98 Griffin Boss  — Fae Kingdom — Crystal Gardens
+Neutral zone boss
+
+✅ ✅ Portrait (prior session upload)
+
+TIER 5: CHIBI — ARCADE & CULTURAL ZONE NPCs
+
+#99 Ammit the Devourer  — Desert Bone Egypt (z12)
+Chibi, puzzle enemy
+
+✅ ✅ Portrait (prior session upload)
+
+#100 Anubis the Guide  — Desert Bone Egypt (z12)
+Chibi with dignity
+
+✅ ✅ Portrait (prior session upload)
+
+#101 El Muki  — Peru/Andes (z21)
+Chibi, Peru folklore
+
+✅ ✅ Portrait (prior session upload)
+
+#102 Quetzalcoatl  — Peru/Andes (z21) / Mesoamerica
+
+✅ ✅ Portrait (prior session upload)
+
+#103 Djinn  — Mesopotamia (z19)
+
+✅ ✅ Portrait (prior session upload)
+
+#104 Kitsune  — Japan / China (z24)
+
+✅ ✅ Portrait (prior session upload)
+
+#105 Naga  — India (z06)
+
+✅ ✅ Portrait (prior session upload)
+
+#106 Moai Spirit  — Easter Island / Hollow Earth
+
+✅ ✅ Portrait (prior session upload)
+
+#107 Chullachaqui  — Peru/Amazon (z21)
+
+✅ ✅ Portrait (prior session upload)
+
+#108 The Brownies  — Main Floor (L3)
+NOT fizgigs (rejected — looked like Daleks)
+
+✅ Uploaded: https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/9181132e8_the_brownies.png
+
+#109 Fizgig  — Loading Screens
+CANONICAL loading screen — small creatures in overalls with wrenches
+
+✅ Uploaded: https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/a9308e10c_fizgig_in_grey.png
+
+#110 Tumble (Dragon Mascot)  — Arcade (L3) / All zones
+Baby dragon, Toothless-inspired cat-like expression
+
+✅ Uploaded: https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/ae4951532_tumble_ingame.png
+
+TIER 6: WATER MONSTERS (32 — playable characters for Monster of the Deep)
+
+#111 Nessie (Loch Ness Monster)  — Scotland
+W1
+
+✅ ✅ Portrait (prior session upload)
+
+#112 Kelpie  — Scotland
+W2
+
+✅ ✅ Portrait (prior session upload)
+
+#113 The Bunyip  — Australia
+W3
+
+✅ ✅ Portrait (prior session upload)
+
+#114 Bakunawa  — Philippines
+W4
+
+✅ ✅ Portrait (prior session upload)
+
+#115 Taniwha  — New Zealand (Maori)
+W5
+
+✅ ✅ Portrait (prior session upload)
+
+#116 Adaro  — Solomon Islands
+W6
+
+✅ ✅ Portrait (prior session upload)
+
+#117 Grootslang  — South Africa
+W7
+
+✅ ✅ Portrait (prior session upload)
+
+#118 Iara  — Brazil
+W8
+
+✅ ✅ Portrait (prior session upload)
+
+#119 Blue Men of the Minch  — Scotland
+W9
+
+✅ ✅ Portrait (prior session upload)
+
+#120 Selkie  — Scotland/Ireland
+W10
+
+✅ Uploaded: https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/a3d815d57_artisan_thief_selkie.png
+
+#121 Afanc  — Wales
+W11
+
+✅ ✅ Portrait (prior session upload)
+
+#122 Mokele-Mbembe  — Congo
+W12
+
+✅ ✅ Portrait (prior session upload)
+
+#123 Ninki Nanka  — Gambia
+W13
+
+✅ ✅ Portrait (prior session upload)
+
+#124 Inkanyamba  — South Africa
+W14
+
+✅ ✅ Portrait (prior session upload)
+
+#125 Arwe the Serpent  — Ethiopia
+W15
+
+✅ ✅ Portrait (prior session upload)
+
+#126 The Ningen  — Japan/Antarctic
+W16
+
+✅ ✅ Portrait (prior session upload)
+
+#127 Rusalka  — Slavic (z05)
+W17
+
+✅ ✅ Portrait (prior session upload)
+
+#128 The Lorelei  — Germany
+W18
+
+✅ ✅ Portrait (prior session upload)
+
+#129 Draugen  — Norse (z26)
+W19
+
+✅ ✅ Portrait (prior session upload)
+
+#130 The Tarasque  — France
+W20
+
+✅ ✅ Portrait (prior session upload)
+
+#131 The Lindwurm of Klagenfurt  — Austria
+W21
+
+✅ ✅ Portrait (prior session upload)
+
+#132 The Wawel Dragon (Smok Wawelski)  — Poland
+W22
+
+✅ ✅ Portrait (prior session upload)
+
+#133 Tiddalik the Frog  — Australia
+W23
+
+✅ ✅ Portrait (prior session upload)
+
+#134 The Rainbow Serpent  — Australia
+W24
+
+✅ ✅ Portrait (prior session upload)
+
+#135 Tompondrano  — Madagascar
+W25
+
+✅ ✅ Portrait (prior session upload)
+
+#136 Rannamaari  — Maldives
+W26
+
+✅ ✅ Portrait (prior session upload)
+
+#137 Altamaha-Ha  — Georgia, USA
+W27
+
+✅ ✅ Portrait (prior session upload)
+
+#138 Aido-Hwedo  — Dahomey/Benin
+W28
+
+✅ ✅ Portrait (prior session upload)
+
+#139 Lusca  — Caribbean (Bahamas)
+W29
+
+✅ ✅ Portrait (prior session upload)
+
+#140 Miengu  — Cameroon
+W30
+
+✅ ✅ Portrait (prior session upload)
+
+#141 Bai Suzhen (Mount Emeis White Snake)  — China (z24)
+W31
+
+✅ ✅ Portrait (prior session upload)
+
+#142 Ayia Napa Sea Serpent  — Cyprus
+W32
+
+✅ ✅ Portrait (prior session upload)
+
+TIER 7: SHADOW ECHO MONSTERS (84Hz — Shadow Inn versions of water monsters)
+
+#143 Loch Ness Monster (Shadow)  — ✅ Generated
+
+⬜ 84Hz petrified
+
+#144 Kraken (Shadow)  — ✅ Generated
+
+⬜ 84Hz petrified
+
+#145 Leviathan (Shadow)  — ✅ Generated
+
+⬜ 84Hz petrified
+
+#146 Jormungandr (Shadow)  — ✅ Generated
+
+⬜ 84Hz petrified — World Serpent biting tail
+
+#147 Charybdis (Shadow)  — ✅ Generated
+
+⬜ 84Hz petrified whirlpool
+
+#148 Scylla (Shadow)  — ✅ Generated
+
+⬜ 84Hz petrified multi-headed
+
+#149 Hydra (Shadow)  — ✅ Generated
+
+⬜ 84Hz petrified
+
+#150 Tiamat (Shadow)  — ✅ Generated
+
+⬜ 84Hz petrified — 5-headed chaos dragon
+
+#151 Cipactli (Shadow)  — ✅ Generated
+
+⬜ 84Hz petrified — Aztec sea monster
+
+#152 Abaasy (Shadow)  — ✅ Generated
+
+⬜ 84Hz petrified — Siberian water demon
+
+#153 Akkorokamui (Shadow)  — ✅ Generated
+
+⬜ 84Hz petrified — giant Japanese octopus
+
+#154 Afanc (Shadow)  — ✅ Generated
+
+⬜ 84Hz petrified — Welsh lake monster
+
+#155 Bunyip (Shadow)  — ✅ Generated
+
+⬜ 84Hz petrified
+
+#156 Each-uisge (Shadow)  — ✅ Generated
+
+⬜ 84Hz petrified — Scottish water horse
+
+#157 Kelpie (Shadow)  — ✅ Generated
+
+⬜ 84Hz petrified
+
+#158 Nessie alt form (Shadow)  — ✅ Generated
+
+⬜ 84Hz petrified — serpentine form
+
+#159 Taniwha (Shadow)  — ✅ Generated
+
+⬜ 84Hz petrified — Maori water guardian
+
+#160 Lusca (Shadow)  — ✅ Generated
+
+⬜ 84Hz petrified — octopus-shark
+
+#161 Mokele-mbembe (Shadow)  — ✅ Generated
+
+⬜ 84Hz petrified — Congo dinosaur
+
+#162 Ogopogo (Shadow)  — ✅ Generated
+
+⬜ 84Hz petrified — Canadian lake monster
+
+#163 Selma (Shadow)  — ✅ Generated
+
+⬜ 84Hz petrified — Seljord serpent
+
+#164 Storsjöodjuret (Shadow)  — ✅ Generated
+
+⬜ 84Hz petrified — Swedish lake monster
+
+#165 Champ (Shadow)  — ✅ Generated
+
+⬜ 84Hz petrified — Lake Champlain
+
+#166 Morag (Shadow)  — ✅ Generated
+
+⬜ 84Hz petrified — Scottish lake monster
+
+#167 Naiad (Shadow)  — ✅ Generated
+
+⬜ 84Hz petrified — water nymph
+
+#168 Umibozu (Shadow)  — ✅ Generated
+
+⬜ 84Hz petrified — Japanese sea giant
+
+#169 Ningen (Shadow)  — ✅ Generated
+
+⬜ 84Hz petrified — Antarctic sea creature
+
+#170 Qalupalik (Shadow)  — ✅ Generated
+
+⬜ 84Hz petrified — Inuit sea creature
+
+#171 Hafgufa (Shadow)  — ✅ Generated
+
+⬜ 84Hz petrified — Norse sea giant
+
+#172 Ziphius (Shadow)  — ✅ Generated
+
+⬜ 84Hz petrified — medieval sea beast
+
+#173 Aspidochelone (Shadow)  — ✅ Generated
+
+⬜ 84Hz petrified — giant turtle island
+
+#174 Mixcoatl Serpent (Shadow)  — ✅ Generated
+
+⬜ 84Hz petrified — cloud serpent
+
+#175 Mictlan Serpent (Shadow)  — ✅ Generated
+
+⬜ 84Hz petrified — underworld serpent
+
+TIER 8: CRITTERS (Ambient creatures — non-combat, non-quest)
+
+#176 Ember Mouse  — Main Floor (L3) — Hearth
+Tiny, warm, lives near hearthstones
+
+✅ ✅ Generated (prior session upload)
+
+#177 Mead Bee  — Meadery (z29)
+Pollinates the Inn's honeyflowers
+
+✅ ✅ Generated (prior session upload)
+
+#178 Moss Pig  — Garden (z28) / Forest zones
+Root-dwelling, gentle
+
+✅ ✅ Generated (prior session upload)
+
+#179 Glowworm  — Catacombs (L6) / Tidal Caves
+Bioluminescent clusters
+
+✅ ✅ Generated (prior session upload)
+
+#180 Bats  — Catacombs (L6) / Ceiling
+Small colony, ceiling rafters
+
+✅ ✅ Generated (prior session upload)
+
+#181 Pearl Crab  — Water Zone (L8) / Tidal Caves (z33)
+Carries tiny shadow pearls
+
+✅ ✅ Generated (prior session upload)
+
+#182 Crystal Spider  — Cosmology (L1) / Staircase
+Spins crystal webs in high places
+
+✅ ✅ Generated (prior session upload)
+
+#183 Quartz Lizard  — Staircase (L5)
+Climbs stone walls, basks in light
+
+✅ ✅ Generated (prior session upload)
+
+#184 Shadow Owl (critter)  — Rafters / Catacombs
+Distinct from The Owl (NPC)
+
+✅ ✅ Generated (prior session upload)
+
+#185 Frost Salamander  — Catacombs (L6)
+Cold-adapted, ice crystals on skin
+
+✅ ✅ Generated (prior session upload)
+
+#186 Lode Beetle  — Staircase (L5)
+Magnetic, drawn to metal veins
+
+✅ ✅ Generated (prior session upload)
+
+#187 Gargoyle Gecko  — Staircase (L5) / Catacombs
+Clings to stone faces, mimics gargoyles
+
+✅ ✅ Generated (prior session upload)
+
+#188 Axolotl  — Tidal Caves (z33)
+Permanently neotenic, never transforms, 42Hz grow without changing
+
+✅ ✅ Spec'd (prior session upload)
+
+#189 Gentle Mantis Shrimp  — Atlantis (z14)
+Sees 16 colors, living frequency-to-color translator
+
+✅ ✅ Spec'd (prior session upload)
+
+#190 African Rain Frog  — Bayou (z25)
+Grumpy puffball, weather prophet, 42Hz emerge / 84Hz burrow
+
+✅ ✅ Spec'd (prior session upload)
+
+#191 Tumble (Dragon Mascot)  — All zones
+Baby dragon mascot, separate from critter tier
+
+✅ Uploaded: https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/ae4951532_tumble_ingame.png
+
+TIER 8b: SHADOW ECHO CRITTERS (84Hz versions)
+
+#192 Ember Mouse (Shadow)  — ✅ Generated
+
+⬜ 84Hz — ember extinguished, dark stone
+
+#193 Mead Bee (Shadow)  — ✅ Generated
+
+⬜ 84Hz — wings frozen, dark stone
+
+#194 Moss Pig (Shadow)  — ✅ Generated
+
+⬜ 84Hz — moss black, dark stone
+
+#195 Glowworm (Shadow)  — ✅ Generated
+
+⬜ 84Hz — glow extinguished, dark clusters
+
+#196 Bats (Shadow)  — ✅ Generated
+
+⬜ 84Hz — wings cracked slate, frozen swarm
+
+#197 Pearl Crab (Shadow)  — ✅ Generated
+
+⬜ 84Hz — pearl turned to shadow
+
+#198 Crystal Spider (Shadow)  — ✅ Generated
+
+⬜ 84Hz — crystal web to shadow threads
+
+#199 Quartz Lizard (Shadow)  — ✅ Generated
+
+⬜ 84Hz — quartz scales to shadow crystal
+
+#200 Shadow Owl (Shadow)  — ✅ Generated
+
+⬜ 84Hz — eyes dark hollows
+
+#201 Frost Salamander (Shadow)  — ✅ Generated
+
+⬜ 84Hz — frost to shadow ice
+
+#202 Lode Beetle (Shadow)  — ✅ Generated
+
+⬜ 84Hz — magnetic shell to shadow metal
+
+#203 Gargoyle Gecko (Shadow)  — ✅ Generated
+
+⬜ 84Hz — gargoyle features cracked
+
+#204 Tumble (Shadow)  — ✅ Generated
+
+✅ Uploaded: https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/ae4951532_tumble_ingame.png
+
+TIER 10: ITEMS & ARTIFACTS
+
+#253 Ariadne's Thread  — Catacombs (L6)
+
+✅ Uploaded: https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/4f8ecf504_ariadnes_thread.png
+
+#254 Bull Lyre of Ur  — Mesopotamia (z19)
+
+✅ Uploaded: https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/03a947afe_bull_lyre_of_ur.png
+
+#255 Cosmic Egg  — Cosmology (L1)
+
+✅ Uploaded: https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/4a0b7ec8e_cosmic_egg.png
+
+#256 Death's Music Box  — Catacombs (L6)
+
+✅ Uploaded: https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/45109e110_deaths_music_box.png
+
+#257 Geode Cave  — All zones (reward system)
+Fills with gems on level completion
+
+✅ Uploaded: https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/23d9ea2de_geode_cave.png
+
+#258 Magritte's Pipe (Monsieur Sentient)  — Main Floor (L3)
+The sentient pipe
+
+✅ Uploaded: https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/bfe9659fb_magrittes_pipe.png
+
+#259 Medusa's Lithophone  — Gorgon's Garden
+Stone instruments
+
+✅ ✅ Portrait (prior session upload)
+
+#260 Starlight Crystal  — Cosmology (L1)
+
+✅ Uploaded: https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/fc475b24d_starlight_crystal.png
+
+#261 Tesla's Silver Disc  — Staircase (L5)
+
+✅ Uploaded: https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/85f36a058_teslas_silver_disc.png
+
+#262 The Beacon  — Cosmology (L1)
+
+✅ Uploaded: https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/04f1f9eb6_the_beacon.png
+
+#263 The Golden Contract  — Fae Kingdom (L7) / Archive
+Found in Part 3 of the novel
+
+✅ Uploaded: https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/5aa65d0cb_the_golden_contract.png
+
+#264 The Score Stone  — Staircase (L5)
+
+✅ Uploaded: https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/b5ab5f24b_the_score_stone.png
+
+#265 The Star Glyph  — Cosmology (L1)
+
+✅ Uploaded: https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/e72873686_the_star_glyph.png
+
+#266 The Dragon's Egg  — Main Floor (L3) / Nest
+
+✅ ✅ Portrait (prior session upload)
+
+#267 The Book of No Author  — Final Room
+Has no author — belongs to the Geode Inn
+
+✅ ✅ Portrait (prior session upload)
+
+#268 The Sistrum of Bastet  — Desert Bone Egypt (z12)
+
+✅ ✅ Portrait (prior session upload)
+
+#269 The Crone's Mirror  — Main Floor (L3)
+
+✅ ✅ Portrait (prior session upload)
+
+#270 The World Map  — Main Floor (L3)
+Stone pins, two data layers (stones + lore)
+
+✅ ✅ Portrait (prior session upload)
+
+#271 The Alchemist's Key  — Staircase (L5)
+
+✅ ✅ Portrait (prior session upload)
+
+#272 The Stone Circle Activator  — Fae Kingdom threshold
+Portal system
+
+✅ ✅ Portrait (prior session upload)
+
+#273 The Gorgon's Eye  — Gorgon's Garden
+84Hz petrification
+
+✅ ✅ Portrait (prior session upload)
+
+#274 The Composer's Bead Set  — Bead Composer
+Jewelry making tools
+
+✅ ✅ Portrait (prior session upload)
+
+#275 The Inn's Bell  — Entrance
+
+✅ ✅ Portrait (prior session upload)
+
+#276 The Guardian's Shield  — Catacombs (L6) / Armory
+
+✅ ✅ Portrait (prior session upload)
+
+#277 The Bard's Lyre  — Meadery (z29)
+
+✅ ✅ Portrait (prior session upload)
+
+TIER 10b: SHADOW ECHO ITEMS (84Hz)
+
+#278 The Golden Contract (Shadow)  — ✅ Generated
+
+✅ Uploaded: https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/5aa65d0cb_the_golden_contract.png
+
+#279 The Dragon's Egg (Shadow)  — ✅ Generated
+
+⬜ Shell cracked, inner glow extinguished
+
+#280 Monsieur Sentient Pipe (Shadow)  — ✅ Generated
+
+⬜ Smoke frozen as shadow, bowl cracked
+
+#281 The Book of No Author (Shadow)  — ✅ Generated
+
+⬜ Pages turned to shadow, cover cracked
+
+#282 The Sistrum of Bastet (Shadow)  — ✅ Generated
+
+⬜ Jingles frozen silent
+
+#283 The Crone's Mirror (Shadow)  — ✅ Generated
+
+⬜ Reflection turned to shadow void
+
+#284 The World Map (Shadow)  — ✅ Generated
+
+⬜ Pins to shadow, water to void
+
+#285 The Alchemist's Key (Shadow)  — ✅ Generated
+
+⬜ Glow extinguished, teeth cracked
+
+#286 The Stone Circle Activator (Shadow)  — ✅ Generated
+
+⬜ Runes extinguished, monoliths cracked
+
+#287 The Gorgon's Eye (Shadow)  — ✅ Generated
+
+⬜ Gaze frozen in shadow
+
+#288 The Composer's Bead Set (Shadow)  — ✅ Generated
+
+⬜ Beads as shadow spheres, wire cracked
+
+#289 The Inn's Bell (Shadow)  — ✅ Generated
+
+⬜ Resonance frozen, crack through bell
+
+#290 The Guardian's Shield (Shadow)  — ✅ Generated
+
+⬜ Crest to shadow, cracks through face
+
+#291 The Bard's Lyre (Shadow)  — ✅ Generated
+
+⬜ Strings to shadow, body cracked, music frozen
+
+TIER 11: COMPANIONS & SPECIAL
+
+#292 Story-Born Ents  — Main Floor (L3) / Garden
+
+✅ ✅ Portrait (prior session upload)
+
+#293 The Laughing One (Ent)  — Garden (z28)
+
+✅ Uploaded: https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/2986b285c_the_laughing_one.png
+
+#294 The One Who Is Awake  — Main Floor (L3)
+
+✅ Uploaded: https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/8ca105e73_the_one_who_is_awake.png
+
+#295 Madame holding Dobby  — Main Floor (L3)
+
+✅ Uploaded: https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/46ad3382c_madame_holding_dobby.png
+
+#296 Dobby in Erasing Nook  — Main Floor (L3)
+
+✅ Uploaded: https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/219c42bbf_dobby_in_erasing_nook.png
+
+#297 Ending Chorus  — Final Room
+
+✅ Uploaded: https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/95fe894df_ending_chorus.png
+
+TIER 12: REAL-WORLD PLAYER CHARACTERS (Login characters — NOT NPCs)
+
+#298 Krista  — Player/Bog Fairy Golem
+
+⬜ Real person, plays as avatar in-game
+
+#299 River (Lozen)  — Player/The Sentinel
+
+✅ Uploaded: https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/81da77f4a_river_sentinel_concept_early.png
+
+#300 Charles  — Player/Chameleon Druid
+
+✅ Uploaded: https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/82fee4de7_charles_chameleon_druid.png
+
+#301 John Myers  — Player
+
+⬜ Real person, logs in as themselves — NOT the NPC Quire
