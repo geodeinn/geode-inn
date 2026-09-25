@@ -679,6 +679,8 @@ The transition from remote to controller is a NARRATIVE EVENT, not a menu:
 3. **Steam Deck** — Native, controller-ready (bypasses Valkyrie Shift)
 4. **Roku** — Deferred (needs BrightScript rewrite)
 
+Full spec: `docs/library/specs/geode_inn_tv_deployment_spec.md` — the Valkyrie Shift scene (42Hz → 84Hz), platform tiers, controller mapping, and 10-foot UI rules.
+
 ---
 
 ## 19. STEAM INTEGRATION
