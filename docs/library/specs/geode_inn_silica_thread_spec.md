@@ -56,8 +56,8 @@ The thread connects the top of the tree (Cosmology) to the roots (Undercity) thr
 | Person | Role on the Thread | Strand |
 |--------|-------------------|--------|
 | Krista | The maker. The person whose biography IS the thread. Every place, every person, every event on the thread passed through Krista. | All three |
-| Maurice Thonin | The technologist. The 1985 computer. The silicon. Possibly an intelligence asset — the thread's connection to secret knowledge. | Technology |
-| Maureen Thonin | The observer. The one who watched. Possibly Maurice's partner in intelligence work. The thread's silent witness. | Technology |
+| Maurice Thonin | The technologist. The 1985 computer. The silicon. Possibly an intelligence asset — the thread's connection to secret knowledge. SURROGATE FATHER (ruled 2026-09-24): with Maureen, raised Krista from about age four to early twenties — the source of her manners, her pool game, and her respect for Belgian hardware. | Technology |
+| Maureen Thonin | The observer. The one who watched. Possibly Maurice's partner in intelligence work. The thread's silent witness. SURROGATE MOTHER (ruled 2026-09-24): half of the parenting pair that raised Krista from about age four to early twenties. | Technology |
 | Buck Dawson | The guide. Camp Ak-o-Mak. The natural domain — quartz, lake, physical Canada. The thread's origin point in nature. | Nature |
 | Bill Barton | The nomad. The moves. Each new location was a new crystal growing on the same thread — same process, different geography. | All three (pattern) |
 
