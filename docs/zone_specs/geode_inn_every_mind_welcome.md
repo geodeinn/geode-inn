@@ -65,6 +65,8 @@ Access features live ON THE BUILDING, in the Inn's own language, not in a clinic
 3. The dyslexia-friendly letterform choice  to be designed within the letterpress styles (a type test plate for the Kells zone and the Main Floor).
 4. The census-missed check (the Grit law, again)  the charter's own audit: what did this pass miss.
 
+RESOLVED 2026-09-25 (the first finding): the census-missed road was MOTOR  and the road's first crossing is the spoken word. See `docs/library/specs/geode_inn_speaking_to_the_building_spec.md` (the Spoken Road: voice-to-action, the Voice Constancy Law, and the Host's guest handbook). The motor road is not closed by it; walking, switch-access, and one-handed rulings remain open gates.
+
 ---
 
 # PART TWO: THE COMB-THROUGH (2026-09-11, Krista's call: "let's comb through what we know about neurodivergence and the ways it can be affected, so all potential quirks people have can relax at our Inn")

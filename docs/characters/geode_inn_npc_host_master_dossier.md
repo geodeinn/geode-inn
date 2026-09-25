@@ -59,6 +59,7 @@ The Host is the front-door greeter, anti-FOMO anchor, and gathering law authorit
 - **The Cave City Goths:** When the subterranean Goths emerge from the caves into the Inn, the Host greets the Goths at the Main Floor with: "Room's ready." (docs/zone_specs/geode_inn_cave_city_master_spec.md).
 - **Anubis:** Parallel welcoming guide (docs/zone_specs/geode_inn_anubis_master_spec.md). The Host welcomes the living, while Anubis guides the dead; the Host's welcoming nod upon a traveler's return serves as the visible proof of Anubis's favorable verdict (docs/zone_specs/geode_inn_anubis_master_spec.md).
 - **Charon:** Cross-realm colleague (docs/geode_inn_charon.md). The Host once walked down to the 84Hz catacomb river bank and offered Charon a warm cup of tea in silent respect (docs/geode_inn_charon.md).
+- **The Guest Handbook:** The Host authors "Speaking to the Building: A Short Guide for Guests" (docs/library/specs/geode_inn_speaking_to_the_building_spec.md, ruled 2026-09-25)  the drawer-book that teaches the Inn's spoken commands, per the Voice Constancy Law: the welcomer's voice, the welcomer's book.
 - **The Firekeeper:** Complementary hearth partner; the Host maintains the welcoming room while the Firekeeper narrates stories beside the hearth fire (docs/MASTER_ASSET_LEDGER.md).
 
 ---
