@@ -24,7 +24,7 @@ Standing rule for every future surface (dialogue entities' voiceProfile field, c
 
 1. **INTENT, NOT SYNTAX.** There is no command grammar to learn. "I'd like to see the library," "library," and "take me to the books" all land the same. The building listens for meaning, like a good innkeeper who has heard every possible way of asking for a room.
 2. **THE NO-FAIL MISHEAR.** A mishear is never an error state (the No-Fail law). It is the call-and-response register, the Siren's grammar: the building tilts its head and asks, kindly, once — "The garden, or the Gallery?" A wrong guess is a conversation, not a beep.
-3. **THE PAUSE WORD.** One spoken phrase stops whatever the building is doing, instantly, without comment. The one command the building must always obey faster than any other. (Word pending Krista's ruling — Gate 1 below.)
+3. **THE PAUSE WORD — RULED: "ENOUGH FOR NOW."** One spoken phrase stops whatever the building is doing, instantly, without comment. The one command the building must always obey faster than any other. Ruled by Krista, 2026-09-25: the phrase is a very specific grouping of syllables — phonetically distinctive enough that ordinary speech never false-triggers it. The word obeys faster than everything else and reads warmly, not clinically.
 4. **NAMES SUMMON.** True names already do; voice makes the summon audible. Some come quickly. Some come eventually. The Postmaster comes only once.
 5. **"I DON'T KNOW" IS A RESPECTABLE ANSWER.** The player may say it freely; the building never punishes it and offers what it can.
 6. **SILENCE IS DEFAULT.** The building listens only when spoken to (a wake posture per platform: button on remote, mic toggle, or open channel per player setting). The Anti-Skinner law: no ambient listening, no unprompted speech, no building that starts conversations to prove it can.
@@ -57,7 +57,7 @@ A few words the building always hears:
 
 **"Again, please."** Anything said, played, or shown may be repeated. As many times as you need. The building does not count. Counting is not what this place is for.
 
-**"Enough for now."** The building stops what it is doing at once, and quietly. You need never explain. [word pending the Innkeeper's final choice]
+**"Enough for now."** The building stops what it is doing at once, and quietly. You need never explain.
 
 **A name.** Any name of anyone who lives here. Say it, and they will know you called. Some of them come quickly. Some of them come eventually. The Postmaster comes only once, and you will know why when it happens.
 
@@ -84,7 +84,7 @@ Take your time. The Inn is here.
 
 ## GATES FOR KRISTA
 
-1. **The pause word.** The handbook's working draft says "Enough for now." Alternatives welcome. It must obey faster than everything else and read warmly, not clinically.
+1. **The pause word — RESOLVED.** Ruled "Enough for now" (Krista, 2026-09-25): the syllable grouping is distinctive enough that no ordinary phrase triggers it. The standby law: obey instantly, without comment, and never explain after.
 2. **Wake posture per platform.** Push-to-talk button on TV remote, open channel on handhelds per player setting, mic toggle on web. Which ships first?
 3. **Launch scope.** Does the building listen everywhere from day one, or does the road open by zone (Main Floor first, the Host's own ground)?
 4. **The command census count.** The draft holds seven heard-words. Keep it at seven, or trim?
