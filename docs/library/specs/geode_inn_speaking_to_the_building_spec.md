@@ -34,7 +34,7 @@ Standing rule for every future surface (dialogue entities' voiceProfile field, c
 
 ## THE HANDBOOK (the in-world artifact)
 
-**Delivery:** not a settings screen. A small book in the bedside drawer of the player's room — the Inn's version of the little hotel Bible. Found, not handed. Styled in the zone's own letterpress (Title Card Law: the accommodation rendered as craft). Also fully Heard-Text compliant: the book can be read aloud in the Host's voice, by the Host's own canon voice profile (74-voice audiobook pipeline).
+**Delivery (launch ruling, 2026-09-25):** active in every zone from day one — a full game overlay, not a zone feature. **Presentation:** not a settings screen. A small book in the bedside drawer of the player's room — the Inn's version of the little hotel Bible. Found, not handed. Styled in the zone's own letterpress (Title Card Law: the accommodation rendered as craft). Also fully Heard-Text compliant: the book can be read aloud in the Host's voice, by the Host's own canon voice profile (74-voice audiobook pipeline).
 
 **Byline: THE HOST.** Ruled by Krista, 2026-09-25: the Host authors the guest handbook, per the Voice Constancy Law — the welcomer's voice, the welcomer's book. Host cadence: warm, unhurried, authoritative without sentimentality (Patrick Stewart energy; hook line canon). The text below is the handbook's standing draft.
 
@@ -124,6 +124,6 @@ The frog court's jurisdiction extends to the spoken road. No new tribunal, no se
 
 1. **The pause word — RESOLVED.** Ruled "Enough for now" (Krista, 2026-09-25): the syllable grouping is distinctive enough that no ordinary phrase triggers it. The standby law: obey instantly, without comment, and never explain after.
 2. **Wake posture — RESOLVED.** Standby default everywhere; "Innkeeper" opens the ear; the amber listening lamp confirms the state; "Enough for now" snuffs it. Push-to-talk remains an available option per platform for players who prefer a button, but it is never required — the word is the road.
-3. **Launch scope.** Does the building listen everywhere from day one, or does the road open by zone (Main Floor first, the Host's own ground)?
+3. **Launch scope — RESOLVED.** FULL GAME OVERLAY FROM LAUNCH (Krista, 2026-09-25): the spoken road ships building-wide on day one — every zone, same posture, same census. No zone-by-zone rollout, no switchboard. The ruling's reasoning: once the game has traction, players are loading from saved zones while new players enter at the front door — a per-zone ear would mean the building behaves differently depending on where you stand, and a moderation/parity burden that grows with the player count forever. The ear comes with the building, the same way the 50 BPM heartbeat does: it is a property of the Inn, not a feature of a room. The Host's ground is simply where the drawer book is found first.
 4. **The command census count — RESOLVED.** Fixed at seven heard-words plus the knock. New heard-words only by founding a genuinely missing meaning. Growth lives in the layer system, not the census.
 5. **The heard-captions mirror.** When the building answers by voice, the answer renders as the Host's zone-styled intertitle (Title Card Law). Confirm the pairing: spoken answer + intertitle, always both, never one road alone (charter law 7, two roads per meaning).
