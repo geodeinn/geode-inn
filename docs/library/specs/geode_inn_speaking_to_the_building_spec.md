@@ -93,6 +93,22 @@ The deep end, and it lives outside the drawer: the Inn publishes its command gra
 
 ---
 
+## THE FROG COURT'S EAR (moderation on the spoken road — woven at Krista's call, 2026-09-25: "trolls live everywhere and grab any opportunity to be themselves")
+
+The frog court's jurisdiction extends to the spoken road. No new tribunal, no separate rules: abuse shouted through the microphone is the same offense as abuse typed in the Common Room, feeds the same Froglodyte counter, and lands before the same Judge Tootenkowl. THE COURT DOES NOT CARE WHICH ROAD THE OFFENSE TRAVELED. The ois count the same (the PSA poster's law: three ois, the frog court).
+
+**THE MEANING LAW (privacy's twin — the court hears meaning, never voice):** the building stores what it UNDERSTOOD, never the audio itself. No recordings exist anywhere in the Inn, ever — not for the court, not for training, not for replay. The court's evidence is the building's understanding, and nothing else. A troll on trial cannot demand the tape; there is no tape. (The Closed Ear Law's full extension: nothing is heard before the knock, nothing is kept after the meaning.)
+
+**THE FLOOD LAW (the building's own response to spam — not punishment, departure):** command-flooding and shouted nonsense get no reaction at all, because the building has none to give (the No-Demand Law inverted: the Inn is not needy of you). The lamp dims on its own; the knock needs a pause before it answers again. The building does not scold, does not warn, does not engage — it simply goes back to its work, the way a real innkeeper stops refilling the glass of the guest who is loudly rude about it. Spam earns absence. If the conduct crosses into abuse of residents, the frog court takes it from there.
+
+**THE ACCESSIBILITY SHIELD (the most important clause — repetition is never rebellion):** the building does not count repeats. A player saying "Again, please" a hundred times an hour is using the road exactly as designed, and the court never sees it. Repetition, slowness, slurred or unusual speech, wrong words, "I don't know" all day — none of it is evidence of anything except a guest being a guest. The distinction the court draws is the Quest Mark law's own: BEHAVIOR, not thought — abuse aimed AT residents counts; struggle aimed at the road never does. No accessibility pattern may ever feed the froglodyte counter. Written as law, so no future moderation pass can accidentally break it.
+
+**THE FROG FORM KEEPS ITS VOICE:** the transformation never changes the soul, only the shape — a Froglodyte's census words still work, because the moderation mechanic is transformation and (eventually) suspension, never silencing. The Inn does not mute its guests; it frogs them.
+
+**THE PROXIMITY WINK (the household guard):** the knock and "Enough for now" obey the player whose session is open — the lamp knows whose ear it is. A sibling shouting from the couch cannot open or close another player's channel. The building listens to its guest, not its room.
+
+---
+
 ## WEAVES INTO
 
 - **The Every-Mind Welcome charter** (Gate 4's census-missed road): the spoken road completes the motor gap's first crossing. Cross-reference added in the charter.
