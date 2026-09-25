@@ -27,7 +27,7 @@ Standing rule for every future surface (dialogue entities' voiceProfile field, c
 3. **THE PAUSE WORD — RULED: "ENOUGH FOR NOW."** One spoken phrase stops whatever the building is doing, instantly, without comment. The one command the building must always obey faster than any other. Ruled by Krista, 2026-09-25: the phrase is a very specific grouping of syllables — phonetically distinctive enough that ordinary speech never false-triggers it. The word obeys faster than everything else and reads warmly, not clinically.
 4. **NAMES SUMMON.** True names already do; voice makes the summon audible. Some come quickly. Some come eventually. The Postmaster comes only once.
 5. **"I DON'T KNOW" IS A RESPECTABLE ANSWER.** The player may say it freely; the building never punishes it and offers what it can.
-6. **SILENCE IS DEFAULT.** The building listens only when spoken to (a wake posture per platform: button on remote, mic toggle, or open channel per player setting). The Anti-Skinner law: no ambient listening, no unprompted speech, no building that starts conversations to prove it can.
+6. **THE WAKE POSTURE — RULED: THE INNKEEPER KNOCK.** The mic is NOT constantly on (Krista's ruling, 2026-09-25: a constantly-live mic makes people as a whole uncomfortable). Standby is the default state: the device listens locally for the wake word only — nothing is heard, kept, or sent until it fires. THE WAKE WORD: "Innkeeper." Ruled for three reasons: (1) the syllable grouping is unique — nobody says it by accident mid-conversation; (2) the word IS the act — calling the front desk, the Host's own identity, so it fits the handbook's byline; (3) eraless and warm in any register, never a clinical trigger word. THE LISTENING LAMP: when the ear opens, a small amber lamp lights — sine-clamped glow, never a hard flash (the Steady Light law). The lamp on means the building hears; the lamp off means it doesn't; "Enough for now" snuffs it instantly. No guessing, ever. THE CLOSED EAR LAW: the building never initiates, never reacts to anything but meaning, and no ambient listening ever (the Anti-Skinner law: no building that starts conversations to prove it can).
 7. **COMMANDS ARE CENSUS, NOT CURRICULUM.** The starter set below is the whole required vocabulary. Everything beyond it, the building teaches as the player goes, the way one learns a friend's house.
 
 ---
@@ -47,7 +47,9 @@ You have found this book, which means you have found your room. Good. Both are y
 
 You need not read further. Nothing in this Inn requires your voice. Every room can be reached by hand, every door by foot, every secret by patience. Speaking to the building is simply one more road in — and this book exists only so that the road is never a surprise to you.
 
-A few words the building always hears:
+A few words the building always hears. But first, the knock:
+
+**"Innkeeper."** The building's ear is not open all the time — a good innkeeper does not linger at doors. Say this word, and the amber lamp lights, and the building is listening. It hears nothing until you knock.
 
 **"Where am I."** Ask at any hour, as many times as you like. The building will tell you where you stand and how to find your way back to the fire. It is not embarrassed that you asked. It will not remember that you did.
 
@@ -85,7 +87,7 @@ Take your time. The Inn is here.
 ## GATES FOR KRISTA
 
 1. **The pause word — RESOLVED.** Ruled "Enough for now" (Krista, 2026-09-25): the syllable grouping is distinctive enough that no ordinary phrase triggers it. The standby law: obey instantly, without comment, and never explain after.
-2. **Wake posture per platform.** Push-to-talk button on TV remote, open channel on handhelds per player setting, mic toggle on web. Which ships first?
+2. **Wake posture — RESOLVED.** Standby default everywhere; "Innkeeper" opens the ear; the amber listening lamp confirms the state; "Enough for now" snuffs it. Push-to-talk remains an available option per platform for players who prefer a button, but it is never required — the word is the road.
 3. **Launch scope.** Does the building listen everywhere from day one, or does the road open by zone (Main Floor first, the Host's own ground)?
 4. **The command census count.** The draft holds seven heard-words. Keep it at seven, or trim?
 5. **The heard-captions mirror.** When the building answers by voice, the answer renders as the Host's zone-styled intertitle (Title Card Law). Confirm the pairing: spoken answer + intertitle, always both, never one road alone (charter law 7, two roads per meaning).
