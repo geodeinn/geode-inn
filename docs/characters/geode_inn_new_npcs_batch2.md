@@ -14,6 +14,7 @@
 
 ### 2. Alexia — Jakob's Mom
 - **Relationship:** Jakob's mother, connected to Lozen
+- **THE CONNECTION, RULED (Krista, 2026-09-24):** family to one another — the earned kind. Alexia is one of the few people River loves without question. Since 2010 (the move to Australia) the bond has run as a parenting dynamic: River mothers Alexia across the distance, which makes Jakob the weave's next generation — the Sentinel's son not by blood but by the earned kind of family that doesn't ask for papers. One of the only people who can maneuver the INFJ land mines consistently (the Beverley inheritance). Alexia's husband: an atheist fellow who drives River nuts — NPC candidate, name and Inn role ungated.
 - **Visual:** Slight build, black loosely curly hair, brilliant and elfin features — sharp elegant face, high cheekbones, large intelligent eyes
 - **Lineework:** Soft flowing (lore character)
 - **Art:** https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/96ba00b4a_generated_image.png
@@ -58,7 +59,7 @@
 ```
 
 ## OPEN QUESTIONS
-- How does Lozen connect to Alexia? (Co-parent? Partner? Family?)
+- ~~How does Lozen connect to Alexia?~~ RULED 2026-09-24: family, the earned kind — parenting dynamic since 2010; River loves Alexia without question.
 - What is Jakob's Inn role — the Sentinel's child far from home?
 - Does Beverley get the librarian role or does someone else?
 - What is Jay's backstory that he wants to contribute?
