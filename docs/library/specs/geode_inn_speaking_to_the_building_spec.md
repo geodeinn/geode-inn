@@ -73,6 +73,26 @@ Take your time. The Inn is here.
 
 ---
 
+## THE FOUR LAYERS (the complexity ladder — ruled by delegation, 2026-09-25)
+
+**Krista's call: "This is all on you for figuring out the complexity levels." The ruling: four layers, and the player only ever sees the one they're standing in.** The WoW precedent is the design donor: players sync template settings, import strings, share whole setups — power for those who want it, invisible to those who don't. The Inn's version keeps the same power but makes every layer an in-world object, never a settings screen (the Welcome Law). Progressive disclosure is the overwhelm protection: each layer is discovered only when the player reaches for it (the Picture Path law — curiosity is a valid route; the Gentle-Depth law — depth is offered, never forced). No tutorial ever mentions layers two through four. Nothing demands configuration. The building works completely at layer one, forever, and that is a permanent state, not a starting state.
+
+### LAYER 1 — THE CENSUS (default; the drawer book's seven)
+The heard-words plus the knock: Innkeeper, Where am I, Quieter, Warmer, Again please, Enough for now, a name, I don't know. Fixed at seven plus the knock (Gate 4 RESOLVED): new heard-words are only ever added by founding a meaning the set genuinely lacks, never for convenience. Every player gets the same census. It is the Inn's common tongue.
+
+### LAYER 2 — THE GUEST'S OWN WORDS (personal aliases, taught not configured)
+The player can teach the building their own phrasing for any existing meaning. "I'm ready for bed" lands the same as returning to the room. The onboarding is the building itself: say something your own way twice, and the building asks, warmly, "Shall I remember it that way?" — the no-fail mishear register becomes the discovery moment, so layer two is learned by being comfortable, not by being taught. House rules, kept in the room. Never a menu; the phrasebook lives in the bedside drawer beside the Host's book, and it reads like a guest's marginalia in the same binding.
+
+### LAYER 3 — THE PHRASEBOOK (shareable; the WoW template sync, Inn-made)
+A guest's own words can be written up as a small book and given away or received — the template import string, but the string is a book and the sync is a gift. The Herbalist's Phrasebook teaches the words a gathering player actually uses; the Scribe's Phrasebook for Archive readers; the Faire-goer's for market rounds. Author credited by the author's choice, named or anonymous (the artisan-credit precedent). Importing someone's phrasebook is reading it aloud — and it never overwrites the census, only extends it. Phrasebooks are collectible, tradeable, Gazette-able.
+
+### LAYER 4 — THE TRADESMAN'S ENTRANCE (the power-user door; external tools)
+The deep end, and it lives outside the drawer: the Inn publishes its command grammar as a documented interface, so players who already run accessibility tooling (VoiceAttack, Talon, eyetracker rigs, switch arrays) can map their existing setups to the building's meanings. Nothing in-game grows more complex for it — it is a door, not a menu. Named for what it is: the entrance the tradesmen use, where the professionals bring their own tools. This is also the future home of controller remapping and switch-access rulings (the motor road's remaining crossings), so the ladder already stands when those roads open.
+
+**THE STANDING GUARD (all layers):** the census never breaks (layer two and three extend, never replace); "Enough for now" and the knock outrank every custom word; custom words follow the same laws as canon ones (intent-not-syntax, no-fail mishear); and no layer ever adds a command that gates content — nothing in the Inn is locked behind a spoken word, because the voice road is a road, never a requirement (charter law 7, two roads per meaning).
+
+---
+
 ## WEAVES INTO
 
 - **The Every-Mind Welcome charter** (Gate 4's census-missed road): the spoken road completes the motor gap's first crossing. Cross-reference added in the charter.
@@ -89,5 +109,5 @@ Take your time. The Inn is here.
 1. **The pause word — RESOLVED.** Ruled "Enough for now" (Krista, 2026-09-25): the syllable grouping is distinctive enough that no ordinary phrase triggers it. The standby law: obey instantly, without comment, and never explain after.
 2. **Wake posture — RESOLVED.** Standby default everywhere; "Innkeeper" opens the ear; the amber listening lamp confirms the state; "Enough for now" snuffs it. Push-to-talk remains an available option per platform for players who prefer a button, but it is never required — the word is the road.
 3. **Launch scope.** Does the building listen everywhere from day one, or does the road open by zone (Main Floor first, the Host's own ground)?
-4. **The command census count.** The draft holds seven heard-words. Keep it at seven, or trim?
+4. **The command census count — RESOLVED.** Fixed at seven heard-words plus the knock. New heard-words only by founding a genuinely missing meaning. Growth lives in the layer system, not the census.
 5. **The heard-captions mirror.** When the building answers by voice, the answer renders as the Host's zone-styled intertitle (Title Card Law). Confirm the pairing: spoken answer + intertitle, always both, never one road alone (charter law 7, two roads per meaning).
