@@ -39,7 +39,8 @@ Current honest count: **19 rooms — 1 live · 11 spec · 7 draft.** The dim set
 
 ## WALK THE INN (TRYING THE PIECE ON)
 
-- **WALK THE INN** button drops you from jewelers' loupe view to eye height on the Main Floor step — from inspecting the piece to wearing it.
+- **Tap any room** (in orbit view) and you are standing at its door — from inspecting the piece to wearing it, at whichever setting you choose.
+- **WALK THE INN** button drops you from jewelers' loupe view to eye height on the Main Floor step — the default front door.
 - **W / arrow up** — step forward. **S / arrow down** — step back.
 - **A / D or left/right arrows** — sidestep.
 - **Q / E** — move between levels (downstairs, upstairs).

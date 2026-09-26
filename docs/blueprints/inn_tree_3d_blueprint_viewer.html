@@ -26,7 +26,7 @@
 </div>
 <div id="legend" style="position:fixed;bottom:10px;left:12px;font-size:11px;color:#8a6d3f;line-height:1.5;"></div>
 <div id="tip"></div>
-<div id="hint">drag to orbit &nbsp;·&nbsp; scroll to zoom &nbsp;·&nbsp; hover a room for its name</div>
+<div id="hint">drag to orbit &nbsp;·&nbsp; scroll to zoom &nbsp;·&nbsp; hover a room for its name &nbsp;·&nbsp; tap a room to stand at its door</div>
 <div id="err"></div>
 
 <script type="importmap">
@@ -212,7 +212,7 @@ for (const level of TREE.levels){
       const rg = new THREE.BoxGeometry(s, s*0.8, s);
       const rm = new THREE.Mesh(rg, new THREE.MeshBasicMaterial({ color:GOLD, transparent:true, opacity:.09 }));
       rm.position.set(dir.x*(R + spoke.len + s/2 + 0.5), 0, dir.z*(R + spoke.len + s/2 + 0.5));
-      rm.userData = { name: room.name, level: level.name, status: (STATUS[room.status]||STATUS.draft).label };
+      rm.userData = { name: room.name, level: level.name, status: (STATUS[room.status]||STATUS.draft).label, size: s };
       lg.add(rm);
       roomMeshes.push(rm);
       const st = STATUS[room.status] || STATUS.draft;
@@ -316,6 +316,44 @@ addEventListener('pointermove', e => {
 addEventListener('pointerup', () => {
   if (walk && drag && drag.moved < 12 && performance.now() - drag.t < 300) autofwd = !autofwd;
   drag = null;
+});
+
+/* ---------- orbit mode: tap a room to stand at its door ---------- */
+let orbitTap = null;
+renderer.domElement.addEventListener('pointerdown', e => {
+  if (walk) return;
+  orbitTap = { x: e.clientX, y: e.clientY, t: performance.now(), moved: 0 };
+});
+addEventListener('pointermove', e => {
+  if (!orbitTap) return;
+  orbitTap.moved += Math.abs(e.clientX - orbitTap.x) + Math.abs(e.clientY - orbitTap.y);
+  orbitTap.x = e.clientX; orbitTap.y = e.clientY;
+});
+addEventListener('pointerup', e => {
+  if (!orbitTap) return;
+  const quick = orbitTap.moved < 12 && performance.now() - orbitTap.t < 400;
+  orbitTap = null;
+  if (walk || !quick) return;
+  mouse.x = (e.clientX / innerWidth) * 2 - 1;
+  mouse.y = -(e.clientY / innerHeight) * 2 + 1;
+  raycaster.setFromCamera(mouse, camera);
+  const hits = raycaster.intersectObjects(roomMeshes, false).filter(h => h.object.parent.visible);
+  if (!hits.length) return;
+  const rm = hits[0].object;
+  const p = new THREE.Vector3(); rm.getWorldPosition(p);
+  const out = new THREE.Vector3(p.x, 0, p.z);
+  if (out.lengthSq() < 0.01) out.set(1, 0, 0);
+  out.normalize();
+  const d = (rm.userData.size || 4) / 2 + 5;
+  camera.position.set(p.x + out.x * d, p.y + 1.8, p.z + out.z * d);
+  const face = new THREE.Vector3(p.x - camera.position.x, 0, p.z - camera.position.z).normalize();
+  yaw = Math.atan2(-face.x, -face.z); pitch = 0;
+  walk = true; autofwd = false; controls.enabled = false;
+  walkBtn.textContent = 'BACK TO ORBIT';
+  hintEl.textContent = walkHint;
+  tip.textContent = 'standing at the door of ' + rm.userData.name + '  \u00b7  ' + rm.userData.level + '  \u00b7  ' + rm.userData.status;
+  tip.style.display = 'block';
+  setTimeout(() => { if (!walk) tip.style.display = 'none'; }, 3500);
 });
 
 /* ---------- legend + tally ---------- */
