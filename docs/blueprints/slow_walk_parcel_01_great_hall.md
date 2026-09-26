@@ -33,6 +33,9 @@ The Inn's spine: the front door, the hearth's glow ahead, the staircase rising b
 | The room's light | HELD by the Matisse main floor image | Walkthrough 13 canon line |
 | The Host | Character art tier status: TO CONFIRM against the ledger | The Host is the room's greeting — the room's only load-bearing NPC |
 
+| The Wanderer | LIVE portrait | the walking stick leans at the bar |
+| The Host's portrait | LIVE (confirm final vs. early version against the ledger) | at the door, the welcome |
+
 **Kit census: the Great Hall is the most furnishable room in the project.** The movement roster alone stocks the room's proof of life.
 
 ---
@@ -42,11 +45,15 @@ The Inn's spine: the front door, the hearth's glow ahead, the staircase rising b
 1. **The Host's presence.** The room's single load-bearing NPC. Confirm the Host's character art status against the Master Asset Ledger; if ungoverned, this is the room's one true commission.
 2. **The front door itself.** The arrival shot's first frame: the door that knows you. Environment asset status to confirm (the tectonic tri-mode may already hold it).
 3. **The Pulse Line's visual run.** The amber-gold baseline rendered as the room's lighting law (Steady Light: sine-clamped, candle-class flicker only).
-4. **The staircase.** The axis's third point; rises to the Turning. Backs onto the Silo blueprint's spiral — the two documents must agree on where the stairs land.
+5. **The Innkeeper's List** (quest board). GameItem: NONE, no image.
+6. **The Wanderer's Walking Stick.** GameItem: NONE, no image.
+7. **Chibi Ravens + stash mechanic.** GameItem: NONE, no image.
+8. **The Climbing Passage to Clockwork.** GameItem: NONE, no image.
+5. **The staircase.** The axis's third point; rises to the Turning. Backs onto the Silo blueprint's spiral — the two documents must agree on where the stairs land.
 
 ---
 
-## THE RULING SESSION (what the Witan decides, one evening, one room)
+## THE RULING SESSION (merged staging: two sessions staged this parcel independently — both versions reconciled here) (what the Witan decides, one evening, one room)
 
 1. The Great Hall marked **LIVE** in `inn_tree_3d_data.json` — the blueprint's first placed room.
 2. The room's position on the Main Floor level (the hub's center point; the Silo's spoke geometry waits on it).
