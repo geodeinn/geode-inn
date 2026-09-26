@@ -1,7 +1,7 @@
 # Geode Inn — The Crystal Canticle
 ## Quest Chain: Crystal-Energy Devices, Ancient to Modern
 
-> STATUS: SPEC (awaiting Krista's ruling on name + host NPC)
+> STATUS: SPEC (host RULED: Leonardo, confirmed by the Witan 2026-09-26; name pending)
 > Foundation layer: Mohs-frequency vibration base (all games) + the Singing Stones facet (2026-09-26)
 
 ### Overview
@@ -16,7 +16,7 @@ This is the Singing Stones facet made playable. The base law it stands on: hardn
 
 ---
 
-## Host NPC (ruling pending)
+## Host NPC (RULED — Leonardo)
 
 **Recommended host: Leonardo (z02 Clockwork Skies).** The engineer born four centuries too early, presiding over the one zone already dedicated to mechanisms of the sky. The chain gives Leonardo the arc he never got to live: each gate the player brings him a device more impossible than the last, and the chain ends with the master witnessing a sliver of stone keeping time to the second, forever. His reaction is the emotional payload of the quest.
 
@@ -144,7 +144,7 @@ The player builds a final oscillator from a grown-Garden blank, tuned not to any
 
 ## Open rulings for the Witan
 1. Chain name: "The Crystal Canticle" (working) — Krista's call
-2. Host: Leonardo recommended — Krista's call
+2. ~~Host: Leonardo~~ RULED YES (2026-09-26)
 3. Gate 3 toll (donating the Gate 1 sphere to the Archive) — confirm or replace
 4. Gate 6 seed-stone toll (own-collection stone, purchased stones don't take) — confirm or replace
 5. Witness line for Leonardo at Gate 7 — draft for Krista's edit
