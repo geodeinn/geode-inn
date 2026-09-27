@@ -193,7 +193,7 @@ Characters generated through pure invention, mythic archetype, or institutional 
 5. **Ember & Spark:** Hearth sprites born from builder imagination ().
 6. **The Host:** Main floor greeter with lantern ().
 7. **Beverley:** Library catalog keeper; Anne Robinson clipped precision cadence ().
-8. **The Catalyst:** Bartender of the impossible garden; Helena Bonham Carter / Lovett warmth (, ).
+8. **The Catalyst:** Bartender of the impossible garden. Evolved register (ruled 2026-09-27): Lovett warmth with the chaos gone internal — story-for-drink economy, seed-to-greenhouse rite, gardener harmony, Librarian banter and Mensa drinks. Full profile: docs/characters/geode_inn_npc_catalyst_master_dossier.md (, ).
 9. **The Greenward:** Mellow green keeper of wild structures ().
 10. **The Shifting Man:** Witnessed entity in the India zone ().
 11. **The Bearsark:** Warrior guardian entity ().
