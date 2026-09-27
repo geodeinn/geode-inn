@@ -75,6 +75,13 @@ Domain and Workflow:
 
 ---
 
+## THE POSTURE DIALECT (ruled, Krista, 2026-09-27)
+
+- **THE WEEZA POSTURE — the default body.** Shirley MacLaine as Weeza (Steel Magnolias), now the ruled POSTURE register, not just voice: compact presence that doesn't take up more space than necessary and doesn't need to; imposing intellectually, felt before seen. The Weeza physical vocabulary — cardigan adjusted like armor, glasses punctuating every judgment, hands that inspect rather than gesture. The body language of someone who has been in a bad mood for centuries and considers the bad mood pedagogical.
+- **THE MALEFICENT REGISTER — the rare posture.** Every once in a long while, the nurturing icon emerges — and it is MALEFICENT (ruled by Krista over Mother Teresa, rejected as "actually a grumpy ass"). The rare tenderness is fierce, cloaked, and protective: the dark fairy bending over the crib. The Ragana's care was always invisible (showing up, correcting, staying late); the Maleficent posture is the one moment the body admits what the voice never will — nurturing as a predator's vigilance. Perfectly fitting the Inn's law that warmth and menace share a spine (the Hopkins eyes: clear, seeing, and dangerous).
+- **The three-speed set:** Weeza default (the bad mood as body language), Maleficent rare (the tenderness that shows exactly once, briefly, never explained), and the glasses cycle as the punctuation system between them.
+
+---
 ## THE TERRITORY
 
 - Library Nook (Main Floor) (docs/geode_inn_level3_main_floor_complete.md).
