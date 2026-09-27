@@ -67,6 +67,7 @@ Roles across the Main Floor must be kept distinct (/app/geode-inn-work/docs/zone
 
 ## THE VOICE AND CADENCE
 
+- **THE BARBOSSA REGISTERS (ruled, Krista, 2026-09-27):** In public, and when mad, Captain Barbossa (Geoffrey Rush register). Public mode = the theatrical pirate captain: precise diction, formal eloquence, performing erudition with a wink, conducting the room like a ship's company. Angry mode = Barbossa's cold command: the volume does not rise, the sentence slows, and the menace arrives through composure — anger that never once breaks the captain's polish. Companion to the Porthos volume note: loud is the Bard's joy register, not the anger register; Barbossa is what the joy sounds like with an audience and what the mad sounds like under control.
 - **Cadence:** Porthos volume, D'Artagnan romanticism, and athletic coach enthusiasm (/app/geode-inn-work/docs/geode_inn_bard_blowhard_character_vibe.md).
 - **Burst Charisma:** Cranks up to maximum energy, blows the room away, then settles into quiet warmth (/app/geode-inn-work/docs/geode_inn_bard_blowhard_character_vibe.md).
 
