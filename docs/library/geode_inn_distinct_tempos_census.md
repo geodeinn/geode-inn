@@ -75,3 +75,15 @@ In the Air Tonight (Phil Collins, 1981, from Face Value)
 - THE WIRE NOTE (2026-09-21): the low drone and the fill live in the bass register the VNS wire testifies to — a song engineered to be felt in the throat, forty years before we knew why that mattered.
 - Culture: the Cadbury gorilla ad (2007) turned the fill into pure shorthand (no song required, just the wait); Miami Vice's pilot rode it into legend.
 - GATES: clean label (no artist flags — the scandal here belongs to the legend, not the man). Remaining gate: arrangement choice for The Tap, and whether the coiled-bar register gets a second entry or stays a singleton.
+
+## WAVE SIX (ruled by Krista, 2026-09-27: THE DUEL BAR — the conversation as tempo)
+Flagship: "A Little Priest" (Sondheim, Sweeney Todd, 1979)
+- THE REGISTER: waltz chassis (3/4, the most sing-along meter humans ever built — the oom-pah-pah pendulum) carrying a SHUTTLECOCK VOLLEY: one thread, two registers, traded phrase by phrase. The harmony lives BETWEEN phrases, not stacked on top of them — his low phrase, her high answer, each ending on a pun.
+- THE PUN-CADENCE LAW: every phrase closes on a joke, and jokes are sing-along bait — the mouth wants to deliver the rimshot. Rapid volleys with a reward every four bars. The Coiled Bar's structural inverse: no suspension, just answers.
+- THE SOLO-SINGER TRAP (the register's design proof): a duet a lone person sings BOTH halves of, involuntarily. You don't mimic two harmonizing singers — you play badminton with one racket, bouncing between registers because the phrases never give you a moment to choose a side. Evidence entered by the Witan's own librarian's owner, mid-typing, 9:15 PM: "What Mr. Todd, what Mr. Todd, what is that sound?" (Krista's exhibit, 2026-09-27.)
+- THE NAME-SUMMONING HOOK: the chorus calls the character by name into the call itself ("What Mr. Todd") — the song cannot play without summoning him. The census's first hook where the title character IS the crowd-answer.
+- HONEST LABEL: Sondheim 1979; the recording never enters, the census law holds — the Inn's jukebox arranges its own duel. Clean label; the register's scandal is none, the register's trick is all.
+
+Companion exhibit — THE FOUR-BAR RECOGNITION (Wonderwall, Oasis, 1995): four seconds of guitar and the whole room knows the song before a word lands. The census's pulse-alone law in its purest radio form.
+- HONEST LABEL + RULING CONTEXT (the Witan's soapbox, 2026-09-27): Oasis was branded a knock-off of the Beatles; the owner's canon rejects the halo ranking — compositions ranked by craft, not legend. Of the entire Beatles catalog the owner keeps exactly ONE song (Eleanor Rigby — the string octet, the closed character study, the least-Beatles song the Beatles wrote, Sondheim-adjacent); Wonderwall stands in the canon at "ten times" the rest. The gatekeeping was costume-talk; the wall of sound is the craft.
+- THE FOUR-BAR LAW, stated: the census's core proof is recognition before melody — Wonderwall's intro is the modern radio specimen: the room commits before the first word, which is the body committing before the brain, which is the whole census's thesis in one intro.
