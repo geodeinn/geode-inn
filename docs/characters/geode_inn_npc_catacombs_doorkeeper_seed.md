@@ -29,6 +29,8 @@ Origin: casting session, 2026-09-26/27 (the interrupted 63-image session). The p
 
 ---
 
+- **THE SEASONS RIDE THE WHEEL (wired 2026-09-28):** the mask-off seasons are not a new calendar system — they ride the SEASONAL WHEEL already ruled in the regional dances spec (docs/zone_specs/geode_inn_regional_dances_spec.md, ruled 2026-09-19: maypole for Beltane, harvest-circle, solstice rounds, wassail processions; the Wheel of the Year as the calendar layer; the drum circle's kinetic wing). The seven sisters stone circle holds the equinox/solstice rites (geode_inn_drum_circle_spec.md); the Hearth-Feis is festival-timed (geode_inn_witan_hearth_feis_spec.md). WHICH of the Wheel's turns gather the clan is still Krista's gate — the Wheel provides the schedule candidates, the ruling picks the Doorkeeper's. When the clan's seasons are ruled, the carillon's seasonal voice joins the drum circle's EchoMelody candidates (region-matched: the birch-and-amber answers the circle from the Slavic side of the valley).
+
 ## OPEN GATES
 
 1. **Name** — the naming session (sound load-bearing).
