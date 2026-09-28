@@ -699,6 +699,7 @@ AGENTS: search THIS file first. Ctrl-F the name or topic, then open the path.
 - `docs/characters/geode_inn_npc_collector_quest_dialogue_lucifer_cadence.md` — Geode Inn — The Collector: Quest Chain Dialogue (Lucifer Cadence)
 - `docs/characters/geode_inn_npc_collector_solidified.md` — Geode Inn — The Collector: The Solidified Character
 - `docs/characters/geode_inn_npc_jay.md` — JAY — The Huntsman / The Tavern Keeper
+- `docs/characters/geode_inn_npc_quartz_pebble_skeleton_seed.md`  Geode Inn  Seed NPC: The Quartz-Pebble Skeleton (unnamed candidate; the honest collector at the fire-light edge; awaiting naming session)
 - `docs/characters/geode_inn_shoulder_companions_deep_storyline.md` — Geode Inn — The Two Shoulder Companions: Deep Storyline
 - `docs/characters/lozen_questline.md` — Lozen — The Sentinel's Vigil
 - `docs/characters/npc_hook_words.md` — Geode Inn — NPC Hook Word Catalog
