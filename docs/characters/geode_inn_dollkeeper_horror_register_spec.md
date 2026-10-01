@@ -68,4 +68,11 @@ If ruled: the Catacombs shelf's Facing goes seasonal — in winter the oldest do
 6. The census inversion — RULED IN: doll marks stamp residents.
 7. The winter accent — RULED IN.
 
-Remaining open (from the register's own list): the Now-They-Know quest payoff, the Facing's spread per zone, doll names (naming session owed), the parked Quire thread.
+Remaining open (from the register's own list): the Now-They-Know quest payoff, the Facing's spread per zone, the parked Quire thread.
+
+## DOLL NAMES — RULED (Krista, 2026-10-01: "Their names will not be very creative. Creepy little bob 1, creepy little bob 2, and so forth")
+The dolls are named Creepy Little Bob, numbered. All of them. The register is now closed on names.
+
+The law this quietly proves: personhood needs no creative name. The census inversion already ruled that a doll's mark stamps its RESIDENT, not its maker — and a resident's identity is the story, not the label. Eight thousand soldiers in the pit each carry a unique name; the Kept all carry the same one, and every one of them is still somebody. The anti-faceless law's final exam: a shelf of identically-named Bobs, and the player never once confuses one for another, because the FACE is unique and the home is unique and the name never mattered. The pit teaches the name; the shelf teaches the namelessness.
+
+Bob Doctrine kinship (workshop law): all tools start as Bob and earn true names. The dolls are the Inn's residents of the same law — and Speter Adams, notably, does not promote them. They stay Bob. Whether a doll could ever EARN its true name (a resident whose story is fully learned, perhaps) is an ungated thread, parked for a future session.
