@@ -69,6 +69,30 @@ The legend does not turn on whether Helen Duncan was genuine. It turns on what t
 **Ties:** THE STATUTE-BOOK OF THE UNCONFIRMED (docs/library/ — the prosecution register's centerpiece); the Whimsical-Macabre law (the dead given voice at the table); the honest-label law (both tellings kept: fraud per the court record, accuracy per the Admiralty's fear).
 *The modern day legends shelf is a living archive. New entries will be added as the world continues to produce them.*
 
+---
+
+## Entry 3: The Minister Who Never Ran
+**Recorded:** September 2026
+**Origin:** Tirana, Albania (born of the internet's rumor mill, reported worldwide)
+**Classification:** Parable of Borrowed Faces and Objectivity
+**Status:** Confirmed, with the honest label attached — the legend says "elected"; the record says "appointed"
+
+### The Tale
+
+In September 2025, the prime minister of Albania, Edi Rama, introduced a new minister to his cabinet. The minister was not a person. Diella — the female form of the Albanian word for sun — was a virtual entity, an AI-generated face and voice created by a government agency to hold the portfolio of public procurement: the tendering of contracts, the reviewing of bids, the very place where corruption feeds. The prime minister promised Diella would help the country leapfrog its bigger neighbors, that an incorruptible arbiter would balance the government's decisions the way other nations balance theirs with courts.
+
+The world told the story widely, and the story grew a detail in the telling: that the machine had been elected. It had not. No ballot carried her name. She was appointed by decree — a minister with no voters, chosen by the same government she was meant to watch.
+
+And then the fingerprints surfaced. The agency that built her came under investigation for large-scale corruption — rigged tenders among the charges — so the anti-corruption minister was constructed by hands under suspicion of the very crime she was built to refuse. The face was borrowed: an actor named Anila Bisha, whose image and voice had been collected for government services, sued to have them stripped from the avatar, saying no one asked her to become the face of objectivity. A year on, reporters performing the reality check found the ministry of the sun had achieved little that anyone could hold.
+
+### The Moral
+
+The legend does not turn on whether a machine can be objective. It turns on what surrounded the promise: the machine was built by the accused, wore a face taken without asking, and was called "elected" by a world that did not check. Objectivity was the product; the fingerprints were on every surface.
+
+**The moral, as the Inn records it:** an arbiter inherits the hands that built it. A balancer who owes its seat to appointment cannot check the one who appointed — no matter what it is made of. The flesh is gone; the fingerprints remain.
+
+**Ties:** the honest-label law (both tellings kept: "elected" per the legend, "appointed" per the record); the anti-Skinner law (the promise of incorruptibility used as the lure); the same register as the drowning legend of "In the Air Tonight" — a famous story whose most famous detail is the false one. Recorded the same week the Navier-Stokes proof raised the question of who gets credit when everyone had hands in it.
+
 ### Candidates for Future Inclusion
 - Stories of technology revealing human character (AI, automation, social media)
 - Stories of ordinary people performing extraordinary acts that resonate beyond their context
