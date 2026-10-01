@@ -39,3 +39,31 @@ First doll concept painted 2026-10-01 (Catacombs shelf, candlelight, the Facing)
 2. How far The Facing goes (all zones, or strongest flavors only in Catacombs + Water)?
 3. Doll names, if any — naming session owed (hers, always).
 4. The Quire thread — open the gate, or keep it parked?
+
+
+## THE WOVEN THREAD — The Clay Army and the Kept (PROPOSAL, drafted for Krista's ruling, 2026-10-01)
+
+The Terracotta chain ("The Clay Army's Watch," canon 2026-09-10) and the doll canon turn out to be the same law at two scales, and the Catacombs is the hinge that holds them.
+
+### 1. The Door (the load-bearing image)
+Canon: the pit is accessed THROUGH the Catacombs — found from below, the way archaeology finds it. Canon (this spec): the oldest dolls on the Ragana's Discomfort shelf all face the great door. WEAVE: that great door is the way down to the pit. The oldest Kept in the house are facing the oldest watchers in the house. The dolls face the door; the door opens toward 8,000 warriors facing the crystal. Two hosts of the faithful, turned toward each other across the dark — the unhoused spirits facing the most-housed sleepers in the Inn. The shelf's creep now has a load-bearing reason: the Kept wait at the door because that is where the deepest watch in the house lives.
+
+### 2. The Posture Register — the watch and the welcome
+The army's law (Quest 5, canon): "It was built to FACE. Eight thousand faces, all toward one thing." The dolls' law (this spec): they turn toward whoever just arrived. SAME posture, two duties: the army faces the guarded thing (the watch); the dolls face the arriving guest (the welcome). The Posture Register gains its two deepest entries — facing-as-keeping and facing-as-greeting — and they live one door apart.
+
+### 3. Persephone — the hinge guest (canon already holds her)
+The Hidden Guest ruling (2026-09-10): Persephone winters in the pit as the painted warrior — a spirit at home in a made body, the colors holding because someone is home dreaming them, seasonal, unstamped, the tell the pomegranate red under the lacquer. READ: the painted warrior is the doll canon at goddess scale — the Inn's first Kept, wintering. The doll register's oldest proof was already in the ground 2,200 years before Speter Adams gave the law its shelf form. Persephone's web (The Crossing, Spring, The Giver, the Weeaboo's pomegranates, the pit) now has its third strand tonight — she is the archetype both wings share: the spirit who takes a made body when the season calls for one.
+
+### 4. The census inversion (the teaching layer)
+The pit stamps MAKERS: every body traceable to its maker's hands (Quest 2, the anti-faceless law at 8,000 scale). Speter's dolls stamp RESIDENTS: the proposed mark is the spirit's, not the maker's — the doll's provenance is who lives there, because the bodies are found objects (half-painted, worn, inherited) and the identity is the guest. Inverse stamps, same school: the player who learned the roll call in the pit — reading hands, matching thumbprints in the brow — arrives at the Catacombs shelf already fluent in reading a body's story. The two quests are the same discipline taught twice: no one in this house is a faceless member of a mass. The pit teaches it from the makers' side; the dolls teach it from the residents' side.
+
+### 5. The lullaby colleagues
+The Awakened One keeps 42Hz so 8,000 can sleep — "the watch was a lullaby with a duty." The dolls hold stillness so the unhoused have somewhere to rest. The Awakened One and the Dollkeeper are the Inn's two keepers of other people's sleep, and neither of them calls it loneliness. If they ever appear in the same frame, the dialogue writes itself: the watcher and the homemaker, comparing notes on the work nobody thanks you for.
+
+### 6. The winter accent (optional, parked)
+If ruled: the Catacombs shelf's Facing goes seasonal — in winter the oldest dolls turn a few degrees more eastward, toward the pit, as if listening for the chorus (Quest 6's finale, when the army answers and the guest's voice joins from inside a dream). In summer they turn back. The players who notice will never trust the shelf again, in the best way.
+
+## Open rulings added for Krista
+5. The Door weave — is the great door the pit's door?
+6. The census inversion (doll marks stamp residents) — hers to rule.
+7. The winter accent — too far, or just far enough?
