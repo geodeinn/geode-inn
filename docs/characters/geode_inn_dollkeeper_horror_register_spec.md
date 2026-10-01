@@ -41,7 +41,7 @@ First doll concept painted 2026-10-01 (Catacombs shelf, candlelight, the Facing)
 4. The Quire thread — open the gate, or keep it parked?
 
 
-## THE WOVEN THREAD — The Clay Army and the Kept (PROPOSAL, drafted for Krista's ruling, 2026-10-01)
+## THE WOVEN THREAD — The Clay Army and the Kept (CANON — Krista approved 2026-10-01: "Yes, this all sounds amazing")
 
 The Terracotta chain ("The Clay Army's Watch," canon 2026-09-10) and the doll canon turn out to be the same law at two scales, and the Catacombs is the hinge that holds them.
 
@@ -60,10 +60,12 @@ The pit stamps MAKERS: every body traceable to its maker's hands (Quest 2, the a
 ### 5. The lullaby colleagues
 The Awakened One keeps 42Hz so 8,000 can sleep — "the watch was a lullaby with a duty." The dolls hold stillness so the unhoused have somewhere to rest. The Awakened One and the Dollkeeper are the Inn's two keepers of other people's sleep, and neither of them calls it loneliness. If they ever appear in the same frame, the dialogue writes itself: the watcher and the homemaker, comparing notes on the work nobody thanks you for.
 
-### 6. The winter accent (optional, parked)
+### 6. The winter accent (RULED IN with the weave, Krista 2026-10-01)
 If ruled: the Catacombs shelf's Facing goes seasonal — in winter the oldest dolls turn a few degrees more eastward, toward the pit, as if listening for the chorus (Quest 6's finale, when the army answers and the guest's voice joins from inside a dream). In summer they turn back. The players who notice will never trust the shelf again, in the best way.
 
-## Open rulings added for Krista
-5. The Door weave — is the great door the pit's door?
-6. The census inversion (doll marks stamp residents) — hers to rule.
-7. The winter accent — too far, or just far enough?
+## Rulings settled 2026-10-01 (Krista, "Yes, this all sounds amazing")
+5. The Door weave — RULED IN: the great door is the pit's door.
+6. The census inversion — RULED IN: doll marks stamp residents.
+7. The winter accent — RULED IN.
+
+Remaining open (from the register's own list): the Now-They-Know quest payoff, the Facing's spread per zone, doll names (naming session owed), the parked Quire thread.
