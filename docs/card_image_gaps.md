@@ -50,3 +50,6 @@ Sanctioned resonance threads for the facet's design notes:
 - **The lonely weight.** Both keepers are isolated BY the holding — the gift that blesses the many is carried alone by the one.
 
 Design note: resonance, not retelling. The facet stays pure Persephone; Lowry sits beside it on the shelf as the archetype's modern keeper, the way the carillon sits beside the organ.
+
+## DOLLKEEPER HORROR REGISTER — concept art (2026-10-01)
+- Speter Adams doll concept (Catacombs shelf, the Facing, candlelight): https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/f7a8c04f7_generated_image.png — first paint of the creepy canon, delivered on creative license. Spec: docs/characters/geode_inn_dollkeeper_horror_register_spec.md (PROPOSAL, rulings owed).
