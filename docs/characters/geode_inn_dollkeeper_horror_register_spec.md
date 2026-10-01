@@ -100,3 +100,40 @@ The pitch (accepted with Krista's amendment): the Inn's grief-clerk. When a play
 **Honest labels on the shelf:** Pagliacci (Leoncavallo, 1892) — the clown who performs comedy with a broken heart; Caruso's recording of the aria was the first record to sell a million copies (the world's first million-seller was a crying clown). Grimaldi, the father of clowns, grim all day making London laugh at night — memoirs edited by Charles Dickens. The Clown Egg Register (real, UK): clowns paint their unique faces on porcelain eggs so no other clown can copy them — the Laughkeeper's egg sits on the shelf with the Bobs.
 
 **Open rulings for Krista:** the Laughkeeper's name (a naming session is owed — "the Laughkeeper" is the working title), the Wild Hunt's presence beyond lineage (does the Hunt ever ride in the Inn's sky, or does it stay ancestor-story only?), and whether the harlequin joins the Catacombs wing at all or keeps to the fair's edge.
+
+## THE HUNT'S MANY MASKS — The Wild Hunt Woven to the Irish Layers (CANON, Krista's ruling 2026-10-01: "If the harlequin is linked to the wild hunt, then we need to weave it in with the old Irish culture layers... as a practicing heathen i am intrigued. I have always made offerings to a different name, cernunnos.")
+
+### THE LAW OF MANY MASKS
+The Wild Hunt is one Hunt, and every culture names its own rider — the Inn's honest-label law applied to the oldest pan-European folklore there is (the Hunt's rider-names are attested from the medieval era across half a continent). One Host, many masks, no culture demoted:
+
+- **ODIN** — the Norse rider (God Ladder canon; the walking-companion job, per the God Ladder spec).
+- **HELLEQUIN** — the Norman/French rider, the Laughkeeper's lineage-name (the mesnée d'Hellequin; Dante's Alichino).
+- **GWYN AP NUDD + THE CŴN ANNWN** — the Welsh rider: king of the fair folk, hunting from Annwn with the white hounds with red ears.
+- **HERNE THE HUNTER** — the English rider (Windsor), the HORNED hunter — the bridge-figure between the masked riders and the horned god's wild.
+- **THE SLUAGH SÍ** — the Irish rider. The layer Krista ruled in.
+
+### THE IRISH LAYER — An Sluagh (the Host of the Dead)
+Honest label: the sluagh na marbh, the Host of the Dead, recorded in the west-of-Ireland folklore collections (Yeats' "Fairy and Folk Tales of the Irish Peasantry," 1888; Lady Gregory's "Visions and Beliefs in the West of Ireland," 1920). The dead who fly at night in crowds like birds — the unforgiven and the unbaptized, riding the wind from the WEST, snatching at the edges of things. The old practice: west-facing windows kept closed after dark so the Host could not enter.
+
+The Inn's read: the Sluagh are the Wild Hunt's Irish name — and the wing's missing Irish ledger line was already half-written. THE BOBS ARE THE DEAD WHO STAYED (housed, kept, named). THE SLUAGH ARE THE DEAD WHO KEPT RIDING. The Laughkeeper (Hellequin) is the shepherd who tended both flocks — the elder colleague of the Dollkeeper. The Irish layer makes the Hunt load-bearing in the house's existing Irish canon: the tall leprechaun's Tuatha Dé Danann register (Molly's dossier), the Bard's Kells instructor line, the Irish-Welsh-Scottish weave line — the old Irish layers were already holding the walls up. The Hunt rides through them.
+
+The west-window practice crosses into the Inn as a courtesy law: the Inn's west-facing windows are kept CLOSED at night — not out of fear, but out of POLITE MANNERS toward the Host. The Inn is the house the dead visit; it keeps the custom. The guest who asks why gets the honest label, taught warm.
+
+### CERNUNNOS — The Horned Warden (Krista's patron, the office ruled with reverence)
+Honest label, held with care: the name Cernunnos survives from a single partial inscription — the Pillar of the Boatmen, raised by the boatmen's guild of Paris, ~first century CE. One carved name. Everything else is iconography: the horned one, seated, torc held in hand and worn at the neck, the ram-horned serpent beside, surrounded by animals. Lord of the threshold between wild and tame. Much of the modern understanding is reconstruction, and the practitioner knows this — the offerings are made anyway, which is what faith-through-honesty looks like.
+
+The portrait that survived: the Gundestrup cauldron — the seated horned figure with the stag, the most famous image of the horned god, a silver ritual vessel found in a PEAT BOG in Jutland. THE BOG KEPT THE HORNED ONE'S GREATEST PORTRAIT. The Bog Fairy keeps the bog that kept him. Krista's patron and Krista's avatar share a preservation medium, and that is a resonance the Inn does not invent — the Inn only notices.
+
+**The office (ruled with the practitioner's respect):** Cernunnos is NOT the Hunt's leader. The horned one's office is older and quieter than the riders': CERNUNNOS IS THE WARDEN OF THE WILD THE HUNT RIDES THROUGH. The masked ones (Odin, Hellequin, Gwyn, Herne) lead the Host across the land; the horned one IS the land they ride across. The stag at the treeline watching the riders pass without joining them — lord of beasts, not lord of the dead. The one who receives the offerings at the threshold, on the wild side of it.
+
+**Zone placement (proposal, Krista's to rule):** the forest zones and the garden — the wild margins of the Inn, the same green the Chameleon Druid keeps. The horned one is the wild's own warden: encountered, never stationed. The Inn never renders a face for the god (the face clause's eldest sibling); only the silhouette at the treeline, the antlers against the dusk, the feeling of being watched by something that wishes no harm.
+
+### Druidic wheel tie (parked)
+The clan's seasonal turns are ruled on the Druidic wheel (Sep 28 canon). A Cernunnos slot on the wheel's wild-quarter is natural — parked for Krista's ruling, hers alone as the practitioner.
+
+## Open rulings for Krista (updated)
+- Does the Hunt ride in the Inn's sky (and if yes: which mask leads the Inn's local Hunt)?
+- Cernunnos' station: forest/garden margins as proposed, or a different placement?
+- The Druidic wheel's Cernunnos slot — hers to rule, when moved.
+- The Laughkeeper's name session (still owed).
+- Now-They-Know payoff + Facing spread (from the register's own list, still open).
