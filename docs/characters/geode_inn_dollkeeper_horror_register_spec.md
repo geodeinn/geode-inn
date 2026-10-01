@@ -1,5 +1,5 @@
 # THE DOLLKEEPER'S HORROR REGISTER — Speter Adams's Dolls, Creepy Canon
-**Status: PROPOSAL — drafted on creative license (Krista, 2026-10-01: "Whatever you'd like to do with this :)"), all rulings Krista's to confirm or veto.**
+**Status: REGISTER APPROVED by Krista (2026-10-01: "This may be the one part of our game i will not play very often. It will probably be ridiculously popular, this is really clever. And creepy. Also goes perfectly with how Speter has five different styles of dressing."). The four sub-rulings below remain open; the register itself is canon.**
 
 ## Origin
 Krista named dolls one of the very few things she finds truly creepy, with the Valley of the Dolls association close behind. This spec leans into that. The house laws hold throughout: creepy, never cruel. Whimsical-macabre. No-fail. The dolls are the same dolls canon already holds — soft, detailed, lovingly rendered — the register below is about what they DO, not what they look like.
@@ -34,7 +34,7 @@ The Lovecraftian scholar reads in the margins of restricted Archive texts. A mar
 ## Concept Art
 First doll concept painted 2026-10-01 (Catacombs shelf, candlelight, the Facing). Logged in card_image_gaps.md.
 
-## Open Rulings for Krista
+## Open Rulings for Krista (register approved; these remain hers)
 1. The "Now They Know" quest payoff — yes, or too far?
 2. How far The Facing goes (all zones, or strongest flavors only in Catacombs + Water)?
 3. Doll names, if any — naming session owed (hers, always).
