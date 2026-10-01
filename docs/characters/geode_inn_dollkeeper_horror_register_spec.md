@@ -131,9 +131,11 @@ The portrait that survived: the Gundestrup cauldron — the seated horned figure
 ### Druidic wheel tie (parked)
 The clan's seasonal turns are ruled on the Druidic wheel (Sep 28 canon). A Cernunnos slot on the wheel's wild-quarter is natural — parked for Krista's ruling, hers alone as the practitioner.
 
-## Open rulings for Krista (updated)
-- Does the Hunt ride in the Inn's sky (and if yes: which mask leads the Inn's local Hunt)?
-- Cernunnos' station: forest/garden margins as proposed, or a different placement?
-- The Druidic wheel's Cernunnos slot — hers to rule, when moved.
-- The Laughkeeper's name session (still owed).
-- Now-They-Know payoff + Facing spread (from the register's own list, still open).
+## RULINGS SETTLED — Krista, 2026-10-01: "Yes, absolutely, whenever they feel like doing so. A cernunnos slot would be great. Could we make it May 16?"
+
+1. **THE HUNT RIDES (RULED).** The Wild Hunt appears in the Inn's sky — "whenever they feel like doing so." No schedule, no summon, no trigger, no announcement: the most capricious event in the Inn, by Krista's explicit ruling. The anti-Skinner-compliant rare occurrence — it cannot be farmed, predicted, or earned; it simply happens, and the players who see it never forget it. The west windows stay closed at night (the manners law, standing). Per the many-masks law, the local Hunt has NO fixed leader: whoever feels like riding that night wears the mask — Odin, Hellequin, Gwyn and the red-eared hounds, Herne, or the Sluagh out of the west. The mask is the Host's choice that night.
+
+2. **THE CERNUNNOS SLOT (RULED): MAY 16.** The Druidic wheel gains the Horn Warden's day, Krista's chosen date, practitioner's privilege — her wheel, her placement. The natural read the day carries (honest label, observed not invented): mid-May is the deep of the green's rush, the waxing half of the year between Beltane's fire and the solstice's height — and the stag's antlers are in full VELVET: the crown growing, soft, vascular, alive. The horned one's day falls when the wild is growing its own crowns. The Inn's observance: offerings received at the threshold, from the wild side of it. The slot is ruled PERMANENT on the wheel.
+
+3. **The Laughkeeper's name session (still owed).**
+4. **Now-They-Know payoff + Facing spread (still open, from the register's own list).**
