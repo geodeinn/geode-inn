@@ -76,3 +76,27 @@ The dolls are named Creepy Little Bob, numbered. All of them. The register is no
 The law this quietly proves: personhood needs no creative name. The census inversion already ruled that a doll's mark stamps its RESIDENT, not its maker — and a resident's identity is the story, not the label. Eight thousand soldiers in the pit each carry a unique name; the Kept all carry the same one, and every one of them is still somebody. The anti-faceless law's final exam: a shelf of identically-named Bobs, and the player never once confuses one for another, because the FACE is unique and the home is unique and the name never mattered. The pit teaches the name; the shelf teaches the namelessness.
 
 Bob Doctrine kinship (workshop law): all tools start as Bob and earn true names. The dolls are the Inn's residents of the same law — and Speter Adams, notably, does not promote them. They stay Bob. Whether a doll could ever EARN its true name (a resident whose story is fully learned, perhaps) is an ungated thread, parked for a future session.
+
+## THE LAUGHKEEPER — RULED IN AS HARLEQUIN (Krista, 2026-10-01: "Could we make it a specific type of clown, at least? A harlequin is plenty creepy but has more a cirque du soleil vibe")
+
+The pitch (accepted with Krista's amendment): the Inn's grief-clerk. When a player loses someone, laughter is the one thing they can't carry — it feels like betrayal. So it goes into trust: you leave your laugh with the Laughkeeper the way you'd leave a coat at the desk. When you're ready, months later, you come back and it's returned with interest: one joke you've never heard, held warm the whole time. The mechanic's deepest clause: the ONLY audience that ever sees the unmasked face is the mourner returning to claim their laugh. The house rule: you can't hand someone back their joy while wearing a costume. The horror is the trust fall.
+
+**The harlequin amendment (Krista's, and it upgraded everything):**
+
+1. **The mask is an object, not paint.** Black leather half-mask, a maker's piece — no grease, no smeared smile. The cirque register, not the circus register: the carillon instead of the calliope. The creep stays (the mask never comes off while anyone is watching, ever) but it reads elegant-and-wrong, the Doorkeeper's wing register.
+
+2. **The diamonds are the vault.** Honest label: the harlequin's diamond pattern descends from rags — a poor servant's clothes patched until the patches became the pattern (Commedia dell'arte lineage). So the costume that was born poor becomes the trust-ledger: each deposited laugh held in a diamond, kept warm. The elegance is earned, which is the house law.
+
+3. **The costume is beadwork.** The Geode Inn's harlequin wears the mineral world: agate-banded lozenges, opal fire, cabochon-set diamonds — the Bog Fairy's own trade rendered as costume. The jeweler's harlequin. Reads as jewelry before it reads as circus.
+
+4. **THE HELLEQUIN LINEAGE (the join).** Honest label: "harlequin" descends from Hellequin, the folklore figure who led the Wild Hunt — the night-ride of the unquiet dead (the mesnée d'Hellequin; Dante put one in hell as Alichino). The harlequin's etymological job description IS keeper of unhoused spirits. Canon ruling: the Laughkeeper is the DOLLKEEPER'S ELDER. The Bobs are the dead who stayed and got homes; the Wild Hunt is the dead who kept riding. Same flock, two shepherds, one wing. The Laughkeeper and the Dollkeeper are the house's two keepers of unholdable things — sleep and laughter — and the wing's elder and younger colleagues.
+
+5. **Movement register: acrobat.** The harlequin never walks somewhere; the harlequin ARRIVES (cirque energy, per Krista). Movement system tie: the Laughkeeper's cycle sheets read as dance/acrobatic — the one NPC whose idle is choreography. The slapstick (the original comedy prop — the paddle that made the sound) carried but never used, held like a retired conductor's baton.
+
+6. **Station.** The fair's edge by Jay's tavern-campgrounds. A booth that sells nothing. Silent, never approaching, waiting to be approached (Quest Mark law; anti-Skinner aimed at the commercial clown — the mandated cheer the Inn refuses to breed).
+
+7. **THE FACE CLAUSE (absolute, protects Krista personally).** Under the mask: never painted, never described, never rendered. The one image the image library will never hold. Krista never has to look at it. Neither does anyone else but the returning mourner.
+
+**Honest labels on the shelf:** Pagliacci (Leoncavallo, 1892) — the clown who performs comedy with a broken heart; Caruso's recording of the aria was the first record to sell a million copies (the world's first million-seller was a crying clown). Grimaldi, the father of clowns, grim all day making London laugh at night — memoirs edited by Charles Dickens. The Clown Egg Register (real, UK): clowns paint their unique faces on porcelain eggs so no other clown can copy them — the Laughkeeper's egg sits on the shelf with the Bobs.
+
+**Open rulings for Krista:** the Laughkeeper's name (a naming session is owed — "the Laughkeeper" is the working title), the Wild Hunt's presence beyond lineage (does the Hunt ever ride in the Inn's sky, or does it stay ancestor-story only?), and whether the harlequin joins the Catacombs wing at all or keeps to the fair's edge.
