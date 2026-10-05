@@ -164,7 +164,7 @@ Only for characters with zone-specific behaviors:
 | The Shadow Inn (84Hz) | In the Shadow Inn, camera modes are FROZEN — third-person is static, first-person is a fixed gaze, free camera is locked, no-camera is permanent. The Shadow is stillness. The camera is still. |
 | The Remembrance Vision | Uses cinematic camera (not one of the four modes) — a fifth, scripted camera that flies through memories. |
 | The Movement System (207 elements) | The camera system defines what motion data the animation pipeline needs. Every character's animation vocabulary is defined HERE. |
-| The 5-Director Protocols | Hitchcock: the SIT lock's slow narrowing (suspense). Spielberg: the "You Looked" achievement's perspective shift (awe). Del Toro: the hand textures per material (tactile reality). Kubrick: the Observatory's symmetrical compositions. Coppola: the montage of a character approaching during SIT (belonging). |
+| The 6-Director Protocols | Hitchcock: the SIT lock's slow narrowing (suspense). Spielberg: the "You Looked" achievement's perspective shift (awe). Del Toro: the hand textures per material (tactile reality). Kubrick: the Observatory's symmetrical compositions. Coppola: the montage of a character approaching during SIT (belonging). Cameron: the engine room's scale-through-contrast — the wide processional dolly against the macro valve study, the machine photographed as heartbeat (weight). Cited register: The Terminator (1984), Aliens (1986), The Abyss (1989), Titanic (1997). Avatar (2009): credited honestly, ruled OFF the cited roster (Krista, 2026-10-05: "it annoys me on a bunch of levels"). |
 
 ---
 

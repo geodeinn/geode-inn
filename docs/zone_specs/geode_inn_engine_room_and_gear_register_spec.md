@@ -53,7 +53,7 @@ Ruled by Krista, 2026-10-05: "Gears are quite possibly the most versatile compon
 
 1. **Placement ruling:** Catacombs annex, Water Wing annex, or both (the seam door descends from the Catacombs; the engines sit under the water zone). Witan ruling owed.
 2. **Name:** the engine room earns a name (naming law, sound load-bearing). "The Heart" is a placeholder shape, not a ruling.
-3. **Cameron's seat:** sixth director in the rotation, or standing guest? Krista's ruling. He keeps arriving at the table.
+3. **Cameron's seat — RULED (Krista, 2026-10-05): SEATED.** The rotation is officially SIX: Hitchcock, Spielberg, Del Toro, Kubrick, Coppola, Cameron. Cited register: The Terminator (1984), Aliens (1986), The Abyss (1989), Titanic (1997). Avatar (2009) honestly credited but ruled off the cited roster. The engine room is Cameron's flagship protocol specimen in the Inn.
 4. **Art owed:** the engine hall wide shot (Cameron register), the macro valve study, the gear-register comparison sheet (five finishes, one component).
 5. **The stokers:** does anyone tend the fires? NPC question — open, ungated.
 
