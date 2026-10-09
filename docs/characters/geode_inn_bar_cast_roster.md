@@ -35,3 +35,17 @@ The Main Floor holds two bars, distinct in register but one ecosystem: **THE IMP
 3. The Catalyst's posture dialect — still unruled at the Posture Register bench (proposed: economical mover behind the bar, every gesture ends in a pour).
 
 *The adequate is: the bar is staffed. The staff is: fabulous.*
+---
+
+## THE RESOLVED CADENCE (founded by Krista, 2026-10-09)
+
+**Krista's ruling, verbatim:** "Yes, that also gives the player the suggestion of completion in the interaction so they can carry on with their frolicking if they choose to elsewhere."
+
+**THE LAW:** every bar interaction ends on a RESOLUTION, not a cliffhanger. The pour resolves the phrase; the conversation lands on a cadence. The player leaves the stool feeling complete — free to frolic elsewhere, with nothing tugging them back.
+
+- **The Anti-Skinner law, bar-craft edition:** no dangling hooks, no open loops engineered to retain. The bar is the one room in gaming that does not want to keep you.
+- **The musical grounding:** the found-sisters wiring made this inevitable — the Catalyst is the ignition, Oriel is the breath between bars. Ignition plus breath IS a resolved bar of music. The interaction follows the same shape: it starts something, it gives you the breath, it resolves.
+- **The frolicking clause:** the RESOLUTION carries a suggestion of completion, not of ENDING. The door is open, the road is unguilted, the frolicking is always an approved next move. (The Steady Light family: no timers, no streak-guilt, no "the bar misses you" nudges. Ever.)
+- **The Duets Law, inherited:** found-sisters duet holds at the same cadence — family who found one another, harmonized, and let each other go wander. That is what the players are learning by watching it.
+
+*The adequate is: the glass is empty, the story is told, the seed is planted, and you may go. The bar is: complete.*
