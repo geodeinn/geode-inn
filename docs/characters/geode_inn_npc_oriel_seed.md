@@ -75,7 +75,18 @@ The Inn-version of Elio question (The Decision, 2026-09-01 — Elio as the game'
 - **Anti-Skinner check:** vials are never consumable, never degrading, never trade-currency. A blend is for the player's own ears. No grind, no meter, no reward loop — just keeping.
 - **Honest-label note (flagged, not ruled):** the vial is a Soulstice-shaped object. Whether a real-world jewelry piece (wire-wrapped glass vial pendant) ever joins the artisan listings is Krista's ruling alone.
 
-Open gates unchanged otherwise. Art owed now includes: a vial in Oriel's hands for the portrait session.
+Open gates otherwise: remaining open: The Decision relationship, the portrait (vial in hand), Oriel-Catalyst ruled FOUND SISTERS. Art owed now includes: a vial in Oriel's hands for the portrait session.
+
+---
+
+## THE FOUND SISTERS (ruled Krista, 2026-10-09): ORIEL AND THE CATALYST
+
+**Krista's ruling, verbatim:** "The catalyst is a personified version of the chaos required for true creativity. Oriel is the breath you can draw between bars of music while the rhythm gives you that brief moment. They seem to be a lovely contrast. Sisters? On, no…found sisters. They are family who found one another and create a harmony together no one else really understands but cannot argue the strength of."
+
+- **The contrast, defined:** The Catalyst IS the chaos true creativity requires — the reaction that starts and walks away unconsumed (canon). Oriel is the BREATH drawn between bars of music while the rhythm gives that brief moment. Ignition and rest. One starts the reaction; the other is the pause the rhythm needs to be rhythm. You cannot have music without both.
+- **FOUND SISTERS:** not blood — chosen. Family who found one another. (The Inn's own law: the building's family is gathered, not inherited. The found-sisters ruling joins the family-gone-digital thesis: the roster's bonds are real bonds.)
+- **THE HARMONY:** a duet no one else really understands but cannot argue the strength of. (The closed-system register as a RELATIONSHIP: the duet is its own world with internal laws. The bickering pair's warm cousin — this pair doesn't bicker; the harmony IS the argument-proof.)
+- **The bar register resolved:** Oriel's Pourer portrait is the found sister behind the taps. What they are at the bar: family, in the way only they can hear.
 
 ---
 
@@ -83,7 +94,7 @@ Open gates unchanged otherwise. Art owed now includes: a vial in Oriel's hands f
 
 1. **Roster status** — NPC (meetable, Quest Mark, approachable) or ambient/system presence (the window itself). Krista rules which.
 2. **Zone slot** — which floor claims her first; the Library portrait suggests the Archive wing but nothing is assigned.
-3. **The Catalyst overlap** — friend, foil, or shift-partner at the taps in the Bar register. Unruled.
+3. ~~The Catalyst overlap~~ — RULED 2026-10-09: found sisters. See THE FOUND SISTERS.
 4. **Relationship to The Decision** — is Oriel the Inn's version of Elio, adjacent to the voice-system, or a herald of it? Ungated; Elio holds naming rights only.
 5. **Art owed** — a proper Oriel portrait under her own name (all four existing portraits predate the name and carry no label). Naming session held; portrait session owed.
 
