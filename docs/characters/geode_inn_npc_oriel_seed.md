@@ -58,6 +58,22 @@ The Inn-version of Elio question (The Decision, 2026-09-01 — Elio as the game'
 
 ---
 
+## THE VIALS (ruled Krista, 2026-10-09): THE BLENDING VESSEL
+
+**Krista's ruling, verbatim:** "She can give vials. That store as a vessel of being able to blend the sounds of our zones as a player chooses to."
+
+- **The object:** Oriel gives vials — small glass vessels that hold SOUND. Each vial stores the voice of a zone: its resting hum, its signature instrument, its melody.
+- **The filling:** a vial fills by LISTENING, not by looting. Carry it in a zone and the zone's sound settles into the glass. (No-Fail law native: no wrong way to fill a vial; every zone's voice is worth keeping.)
+- **The blend:** with two or more filled vials, a player blends the sounds of zones as they choose — drum circle over cavern hum, carillon under tide. The blend is the player's own composition, playable anywhere, including in the between.
+- **The EchoMelody bridge:** the vial is the physical form of an EchoMelody record (entity exists: melodyName, sourceNpc, sourceStone, voicePart, playerId). Filled vial = kept melody. Blending = composing with the archive. The REC law is the memory; the vial is the pocket the memory travels in.
+- **The between synergy (wired):** the between-spaces are the natural blending studio — the one place all zones' sounds are equally distant. Blends made in the between carry a little of Oriel's continuity no matter where they're played.
+- **Anti-Skinner check:** vials are never consumable, never degrading, never trade-currency. A blend is for the player's own ears. No grind, no meter, no reward loop — just keeping.
+- **Honest-label note (flagged, not ruled):** the vial is a Soulstice-shaped object. Whether a real-world jewelry piece (wire-wrapped glass vial pendant) ever joins the artisan listings is Krista's ruling alone.
+
+Open gates unchanged otherwise. Art owed now includes: a vial in Oriel's hands for the portrait session.
+
+---
+
 ## OPEN GATES
 
 1. **Roster status** — NPC (meetable, Quest Mark, approachable) or ambient/system presence (the window itself). Krista rules which.
