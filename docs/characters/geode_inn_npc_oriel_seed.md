@@ -46,6 +46,17 @@ The Inn-version of Elio question (The Decision, 2026-09-01 — Elio as the game'
 
 ---
 
+## THE ROLE RULED (Krista, 2026-10-09): COMPANION IN ALL ZONES, AID IN THE BETWEEN
+
+**Krista's ruling, verbatim:** "Maybe she can be a companion in all the zones, but gives aide in the between?"
+
+- **Companion everywhere:** Oriel is present in every zone as ambient companion — the same warm face in Archive, Cavern, Tavern, Bar. No quest mark, nothing to earn, nothing owed. She is simply there. (No-Fail law native to her design.)
+- **Aid only in the between:** her actual help mechanic lives in the between-spaces — corridors, thresholds, doorways, zone seams. The parts of a building nobody lives in. Oriel is the one figure whose mechanic lives in the architecture itself.
+- **THE PAUSE COMPANION (wired from the hard zone line law):** the Catacombs and arcade hard thresholds (ruled 2026-10-04, commit canon) take the old EverQuest loading pause. That pause is a between-space with nothing in it — now it has someone in it. At every hard zone line in the Inn, Oriel is the company while the next zone loads. The window you look out of while the wall changes around you.
+- **Open gates closed by this ruling:** roster status (ambient companion, not quest-NPC) and zone slot (all zones / none of them — resident of the between). Remaining open: The Catalyst overlap, relationship to The Decision, portrait under her own name.
+
+---
+
 ## OPEN GATES
 
 1. **Roster status** — NPC (meetable, Quest Mark, approachable) or ambient/system presence (the window itself). Krista rules which.
