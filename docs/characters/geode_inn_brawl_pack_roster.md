@@ -32,6 +32,13 @@ All three crews run on the same rule: **things that refuse to stay where they we
 
 **The terrifying concept, complete:** a leprechaun army with tiny Viking allies, armed with wood that grows expecting trouble, backed by iron oxide goblin smiths. Witnessed from the shelf by the skeleton ducks; narrated by Bill the Duck.
 
+### THE TIGER IRON RITE (the armor upgrade, ruled Krista 2026-10-09)
+- **The rite:** when the hematite armor needs to be stronger, the redcaps infuse it with tiger's eye — hematite + tiger's eye + red jasper banded = TIGER IRON. The transformation is mineralogically honest: that is literally what banded iron formation is (~2 billion years old, ocean-rust layers). The layering IS the strength (the laminate principle, nature's pattern-welded steel).
+- **Honest label on "the glass of tiger's eye":** not glass — crocidolite fibers replaced by quartz, a stone ghost of fibers. The glassy band is CHATOYANCE, light moving across silk. (Unoxidized blue stage = hawk's eye, already in the stone roster.)
+- **The supply chain (canon, standing):** tiger's eye is the Victoria Falls reward stone — "a transformation stone, like the merging mechanic itself" (arcade tier4 build sheet). Earned when the player creates a Diamond tile. The upgrade route runs Zambezi to Yellowstone: a real import across zones, an economy hook, honest-label sourced.
+- **The bench mirror (cross-wire, standing):** hematite is the one stone that won't stay stable in Krista's hands; tiger iron is her bench workaround. The redcaps' rite is the SAME solution — pure hematite cracks, banded hematite holds. The forge law and the bench law agree: when the mineral fights, give it a family to hold.
+- **The watching armor (visual note):** the chatoyant band gives the tiger iron armor a moving "eye" — armor that appears to watch. Right for a brawl-pack that guards. Light is the bezel (the rainbow garnet family law).
+
 **Standing products:** mini-Inn guard rotation; Gazette strip candidate ("The Leprechaun Arsenal" / "The Helmets Are Honest" sequel); the brownie-gnome cold war escalation frame.
 
-*The adequate is: the brawl-pack is filed. The chaos side is: fed.*
+*The adequate is: the brawl-pack is filed. The armor is: banded. The chaos side is: fed.*
