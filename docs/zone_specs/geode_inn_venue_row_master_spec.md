@@ -27,7 +27,7 @@
 
 **Franchise row (distributed brands, no fixed address):**
 - **Duckee's** — the liminal 4am gas station franchise; the platypus mascot corporate insists is a beaver
-- **Brim Horton's** — "Tim Horton's except owned by our own Brim"; dual-logo: witch-on-the-pipe true form badge (main sign), black cat badge (COFFEE line), plump lavender-grey cat badge (PASTRIES line), and every new menu item earns a new Brim form; Brimbits packaging carries the cat-form badge
+- **Brim Horton's** — "Tim Horton's except owned by our own Brim." RULING (Krista, 2026-10-14): Brim Horton's is not a venue seat and needs no address — it is the OVERALL BRAND for drinks and baked to-go food across the Inn. If it's a drink, or to-go and baked, it wears the Brim Horton's badge. Dual-logo canon: witch-on-the-pipe true form badge (main sign), black cat badge (COFFEE line), plump lavender-grey cat badge (PASTRIES line); every new menu item earns a new Brim form; Brimbits packaging carries the cat-form badge
 
 ---
 
@@ -56,7 +56,6 @@ The row as a whole: a philosophy shelf you can eat at. The honest-label law in c
 
 ## OPEN GATES
 
-1. **Brim Horton's address** — not yet pinned (candidates: the Standing Grove/Tkaronto cookhouse neighborhood or the Main Floor)
 2. **Bitter Grounds counting question** — does the Bitter Grounds cafe count as a food/drink venue in its own right, or is it already standing?
 3. **Level deck formalization** — the level staffing decks (one per venue zone) need assembling from the character roster for the card draws
 4. **Menu depth** — each venue's menu is a spec stub (Sagan's riddle prices, Occam's single pot, Chesterton's recipe archive) awaiting its own pass

@@ -206,7 +206,7 @@ The player progresses through the tree by unlocking zones. Each zone unlocked re
 - **Its game:** the In-Between platformer — system-level, playable from every zone's flip (per the walkthrough audit ruling).
 - **Naming law note:** LEVEL ½ is honest — between 42 and 84, between every floor and every floor.
 
-*The same courtesy question remains open for THE VOID (the silence zone) — flagged, not ruled.*
+**THE VOID — half-level ruling (Krista, 2026-10-14, same night):** the courtesy is granted. THE VOID (the silence zone) holds its own half-level designation, sibling to the In-Between — a structural component, never a numbered floor. Where the In-Between is the space the building passes through, the Void is the silence the building is built around. The tree's rings grow around what they hold still.
 
 ## CROSS-LEVEL SYSTEMS
 
