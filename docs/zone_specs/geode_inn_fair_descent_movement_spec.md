@@ -35,5 +35,5 @@ The movement system (this is the vertical roster's official entry — the walk/w
 1. **The Goblin Landing Crew** — names, guild assignment, and whether the startle is rehearsed or genuine (naming session owed).
 2. **The blue box's true name** (naming law — the borrowed tardis label is the placeholder; the box should be named at a naming session).
 3. **The slide's wood** — bench decision (regional wood law: which region gets to claim the slide).
-4. **The arrival sounds** (REC law — the box's chime and the tubes' whoosh need per-level register entries).
+4. ~~The arrival sounds~~ **RESOLVED (2026-10-14):** every vertical option's arrival sound is the FIRST FEW NOTES of that floor's own music (Krista's ruling). The blue box becomes a literal music box — it plays the floor's opening motif before the door opens, so the building announces place in melody, never in signage. The tubes' whoosh resolves into the same few notes (the tube IS the trip; the notes ARE the floor — Convention Engine both ways). Accessibility bonus, honest-labeled: audible floor identity means low-vision players always know which floor they're on, and every rider learns the Inn's music map by ear.
 5. **The tube network map** — which levels get tube stops first (build order decision).
