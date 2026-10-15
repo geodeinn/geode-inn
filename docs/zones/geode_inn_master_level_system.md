@@ -196,6 +196,18 @@ The player progresses through the tree by unlocking zones. Each zone unlocked re
 
 ---
 
+### LEVEL ½: THE IN-BETWEEN (The Half-Level)
+
+**Ruled in (Krista, 2026-10-14):** the In-Between joins the main structure's level list as LEVEL ½ — the half-level. It is a structural component of the main building, listed, but never a numbered floor: the nine levels are layers of the living tree, and the In-Between is the space the building passes through between layers. Its whole identity is "not an address," so its designation cannot be mistaken for one (nobody builds half a floor).
+
+- **What it is:** the threshold state between Living (42Hz) and Shadow (84Hz) — grey, weightless, the transitional frequency state. Einstein is the resident.
+- **Access:** through the Other Door behind the Archive (charcoal stone, no handle, 84Hz); via Pulse Line shifts in tri-mode zones; all Fair Descent options pass through it.
+- **The Blue Box there:** retains its navy color in the grey; door slightly ajar, warm light, the 50 BPM heartbeat felt through the crack.
+- **Its game:** the In-Between platformer — system-level, playable from every zone's flip (per the walkthrough audit ruling).
+- **Naming law note:** LEVEL ½ is honest — between 42 and 84, between every floor and every floor.
+
+*The same courtesy question remains open for THE VOID (the silence zone) — flagged, not ruled.*
+
 ## CROSS-LEVEL SYSTEMS
 
 ### Systems That Span All Levels
