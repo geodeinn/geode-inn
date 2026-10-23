@@ -31,6 +31,7 @@ var _save_timer := 0.0
 var _people_count := -1
 var _chat_typing := false
 
+const FALL_LIMIT := -15.0   # below this the player has left the world
 const SETTLE_WOOD := Color(0.3, 0.19, 0.12)
 static var CUSHION := _cushion()
 
@@ -312,6 +313,7 @@ func _process(delta: float) -> void:
 	_update_npcs(delta)
 	_update_circles(delta)
 	_update_flames()
+	_catch_fall()
 	_save_timer += delta
 	if _save_timer > 60.0:
 		_save_timer = 0.0
@@ -340,6 +342,19 @@ func _update_focus() -> void:
 		hud.show_prompt(focus.prompt if plain_prompts else "[E] " + focus.prompt)
 	else:
 		hud.show_prompt("")
+
+
+## Nobody falls out of the world. If the player ever ends up below every floor,
+## they're set back at the zone's way in.
+func _catch_fall() -> void:
+	if player.global_position.y > FALL_LIMIT:
+		return
+	var spawn: Array = spawns.get("default", [Vector3.ZERO, 0.0])
+	player.sitting = false
+	player.velocity = Vector3.ZERO
+	player.global_position = spawn[0]
+	player.set_view(float(spawn[1]))
+	hud.toast("The Inn finds you again.")
 
 
 ## Fires flicker: uneven, never the same twice.

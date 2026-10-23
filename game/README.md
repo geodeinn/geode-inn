@@ -62,7 +62,7 @@ E / A use, C / Y sit, Space / X tap, G geode, J journal, T talk, Esc menu.
 ## Tests
 
 ```
-powershell -File tools\run_tests.ps1      # 117 headless tests: data, canon rules, systems, quests, zones, gameplay, art, release
+powershell -File tools\run_tests.ps1      # 120 headless tests: data, canon rules, systems, quests, zones, gameplay, art, release
 powershell -File tools\run_net_test.ps1   # dedicated server + 2 clients: presence, chat, Song, taps, plots, frogs, faire save
 godot --headless --path . res://tools/check_scripts.tscn                   # every script parses
 godot --path . --rendering-driver opengl3_angle res://tools/capture.tscn   # screenshots to test_output/shots (add -- 05_ 12_ to pick shots)

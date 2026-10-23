@@ -28,6 +28,9 @@ func build_world() -> void:
 	Builder.skin(Color(0.4, 0.28, 0.18), "boards", false)    # the stage
 	Builder.skin(Color(0.5, 0.2, 0.14), "tiles", false)      # the pub roof
 	Builder.box(self, Vector3(70, 0.2, 70), Vector3(0, -0.1, 0), Color(0.36, 0.44, 0.22), true, "Ground")
+	# The field's edge: walls you can't see, just inside the ground's edge.
+	for edge in [[Vector3(70, 8, 1), Vector3(0, 4, -34.5)], [Vector3(70, 8, 1), Vector3(0, 4, 34.5)], [Vector3(1, 8, 70), Vector3(-34.5, 4, 0)], [Vector3(1, 8, 70), Vector3(34.5, 4, 0)]]:
+		Builder.solid(self, edge[0], edge[1]).name = "Edge"
 	var layout: Dictionary = GameData.faire["layouts"].get(String(config.get("layout", "ring")), GameData.faire["layouts"]["ring"])
 	var palette: Array = GameData.faire["palettes"].get(String(config.get("palette", "royal")), ["#6b2a3a", "#d4a64a"])
 	var main_col := Builder.color(String(palette[0]))
