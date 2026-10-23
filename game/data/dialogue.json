@@ -1,0 +1,157 @@
+{
+  "_source": "First release dialogue. Canon lines are copied from the client's geode-inn/dialogue_entries.json (Naut, the Wanderer, the Owl, Wisteria, Brindle; long paragraphs split at sentence breaks, one pronoun edit in Wisteria's line) and from walkthrough dissections 13 and 14 (the Host's first line, Jay's welcome, Luna's question, the Ragana's Adequate). The rest is written to those docs' character notes. Entries are checked top to bottom; the first whose conditions pass is used. Conditions: quest_not_started, quest_active, quest_step (quest:step), quest_done, flag, not_flag, has_stone (tone learned), carries_stone (a physical one in the pouch), visits_at_least, visit_after (a later visit than the one stored in that flag), unlocked. Actions: start_quest, complete_step (quest:step), set_flag (with optional value), mark_visit, give_stone, take_stone, give_material, unlock, open. An entry can end in choices, each with its own reply lines and actions. dynamic names a reading the game writes from the player's own history.",
+  "dialogue": {
+    "host": [
+      { "when": { "quest_not_started": "the_welcome" },
+        "lines": ["Come in, you're safe here.", "This is the Geode Inn. It grows out of a sleeping giant, so it keeps a slow pulse.", "That thin line at the bottom of everything is the Inn breathing. Fifty beats a minute.", "That's my first gift. You can see it.", "There is no hurry here. The Inn is here. Explore.", "When you're ready, the Dragon's Geode Corner is by the hearth. Then find a nook and sit a while."],
+        "actions": [{ "start_quest": "the_welcome" }, { "complete_step": "the_welcome:meet_host" }, { "mark_visit": "host_gift_1" }] },
+      { "when": { "flag": "host_gift_1", "not_flag": "host_gift_2", "visit_after": "host_gift_1" },
+        "lines": ["There you are.", "Second gift. Close your eyes a moment. Under everything else, you can hear it too."],
+        "actions": [{ "mark_visit": "host_gift_2" }] },
+      { "when": { "flag": "host_gift_2", "not_flag": "host_gift_3", "visit_after": "host_gift_2" },
+        "lines": ["There you are.", "Third gift, and the last. Rest a hand on something solid. You can feel it.", "Keep whichever ones suit you. Any of the three, all of them, none. The settings know them all."],
+        "actions": [{ "mark_visit": "host_gift_3" }] },
+      { "when": { "quest_active": "the_welcome" },
+        "lines": ["No hurry. The Geode Corner first, then a nook. The cushions by the hearth are good ones."] },
+      { "when": { "quest_done": "the_welcome", "quest_not_started": "unstrung_echo" },
+        "lines": ["Something in your geode has been restless since you came in. Not a danger. A voice that lost its note.", "Go and listen to it. That clear quartz of yours rings the note it's missing."],
+        "actions": [{ "start_quest": "unstrung_echo" }] },
+      { "when": { "quest_active": "unstrung_echo" },
+        "lines": ["Listen for the two lines at the bottom. When they agree, so will it."] },
+      { "when": { "visits_at_least": 10 },
+        "lines": ["There you are. The lamps were lit before you got here."] },
+      { "lines": ["The Inn will be here when you're ready. That is the point."] }
+    ],
+    "firekeeper": [
+      { "when": { "not_flag": "met_firekeeper" },
+        "lines": ["Ah! A listener. Sit, sit. The fire's been waiting for someone to tell it something.", "Every story the Inn tells starts at first light, and this fire has never once gone out. Somebody chose to tend it. Somebody always does.", "Come back when you've got the evening. The good ones take a while."],
+        "actions": [{ "set_flag": "met_firekeeper" }] },
+      { "lines": ["The fire remembers every story told in front of it. It just never repeats them. Discretion. Very rare in a fire."] }
+    ],
+    "catalyst": [
+      { "when": { "quest_not_started": "the_seed" },
+        "lines": ["Water first. Always water first, before anybody orders.", "Now. House rule. I trade seeds for stories. Any story. True or not, I'll know which, and I won't say.", "Go on, then. What kind of story have you got?"],
+        "choices": [
+          { "text": "A story about doing the scary thing anyway.",
+            "lines": ["Huh. That one's got a spine.", "Here. Plant it out back, in the garden behind the bar."],
+            "actions": [{ "start_quest": "the_seed" }, { "set_flag": "seed_shape", "value": "brave" }, { "complete_step": "the_seed:tell" }] },
+          { "text": "A story that goes wrong in the funniest way.",
+            "lines": ["Ha! That's a terrible story. I love it.", "Here. Plant it out back. Mind the peas."],
+            "actions": [{ "start_quest": "the_seed" }, { "set_flag": "seed_shape", "value": "funny" }, { "complete_step": "the_seed:tell" }] },
+          { "text": "A story about someone you miss.",
+            "lines": ["...", "Thank you for telling me that one.", "Here. Plant it out back, on the warm side, near the fire."],
+            "actions": [{ "start_quest": "the_seed" }, { "set_flag": "seed_shape", "value": "quiet" }, { "complete_step": "the_seed:tell" }] }
+        ] },
+      { "when": { "quest_step": "the_seed:plant" },
+        "lines": ["The garden's behind the bar. Any open bed. It knows what to do."] },
+      { "when": { "quest_step": "the_seed:grow" },
+        "lines": ["Patience. Things grow here that can't grow anywhere else.", "So can you."] },
+      { "lines": ["Water's free. Stories are the currency. Seeds are the change."] }
+    ],
+    "ragana": [
+      { "when": { "quest_done": "the_welcome", "quest_not_started": "the_first_column" },
+        "lines": ["You. Yes. You've sat in a nook, so you can sit still. Good.", "A blank notebook. Go out to the Campgrounds and write down three things. Not what you feel. What is there.", "Bring it back. I'll annotate."],
+        "actions": [{ "start_quest": "the_first_column" }, { "complete_step": "the_first_column:take_book" }] },
+      { "when": { "quest_step": "the_first_column:observe" },
+        "lines": ["Three observations. The Campgrounds. Out the front door. Use your journal."] },
+      { "when": { "quest_step": "the_first_column:return" },
+        "lines": ["Let me see.", "Hm. Column one, legible. Column two, accurate. Column three...", "Adequate.", "Take my lens. You'll see my notes on the walls now. I've been writing them for a very long time."],
+        "actions": [{ "complete_step": "the_first_column:return" }] },
+      { "when": { "quest_done": "the_first_column" },
+        "lines": ["Still measuring? Good. Measuring is a kind of listening, if you do it slowly."] },
+      { "lines": ["Not now. I'm in the middle of a column."] }
+    ],
+    "naut": [
+      { "when": { "not_flag": "met_naut" },
+        "lines": ["Fascinating.", "No, not you — the text. This passage. The translation drift between Akkadian and Sumerian is... forgive me. I don't get visitors.", "Most people find me visually off-putting, which I find visually off-putting about them. I'm a scholar. I read. I catalog. I occasionally recommend books to people who haven't screamed and left yet.", "You haven't screamed and left yet. Would you like a recommendation?"],
+        "actions": [{ "set_flag": "met_naut" }] },
+      { "lines": ["Fascinating. You came back. Most people only come back for the books."] }
+    ],
+    "wanderer": [
+      { "lines": ["Passing through.", "Always passing through. That's the thing about wandering — you're never not doing it. Sit a while. The Inn's a good place to rest your feet. I should know. I've rested mine everywhere.", "...Don't mind the ravens. They steal. They'll give it back eventually. Probably."] }
+    ],
+    "brindle": [
+      { "lines": ["Where d'it go?", "The wrench. The wrench is gone. It was HERE. I just had it. Cobble, did you take the wrench? Thatch, did you GLUE the wrench to something again?", "...Oh. It's in my hat. The wrench was in my hat. This happens. Welcome to the Inn. Don't leave your tools unattended."] }
+    ],
+    "jay": [
+      { "when": { "quest_not_started": "the_wolf_and_the_welcome" },
+        "lines": ["Hey! New face. Welcome to the Huntsman.", "First round's on the house. Huntsman's Gold. Second round, you tell me a story.", "Do me a favor? The wolf's been acting strange at the treeline all morning. Won't come in, won't eat. Go take a look."],
+        "actions": [{ "start_quest": "the_wolf_and_the_welcome" }] },
+      { "when": { "quest_step": "the_wolf_and_the_welcome:treeline" },
+        "lines": ["Treeline, past the forge. Wolf'll keep you company. Useless, but cheerful."] },
+      { "when": { "quest_step": "the_wolf_and_the_welcome:tracks" },
+        "lines": ["Tracks going into the woods? Follow 'em. The woods aren't dangerous. Just unknown. Different thing."] },
+      { "when": { "quest_step": "the_wolf_and_the_welcome:clearing" },
+        "lines": ["Keep going. Wherever that wolf's headed, it's headed there on purpose."] },
+      { "when": { "quest_step": "the_wolf_and_the_welcome:return" },
+        "lines": ["Folks sitting out at the clearing, huh? Scared of the big door. Happens to everybody.", "I'll walk out and say hi.", "The door's open. The ale's cold. The wolf doesn't bite.", "[the wolf sneezes]", "Much.", "Here. Bone whistle. Blow it anywhere outdoors and the wolf comes running. And take the ale recipe. Don't tell Wisteria."],
+        "actions": [{ "complete_step": "the_wolf_and_the_welcome:return" }] },
+      { "lines": ["First round's on the house. Second round you tell me a story.", "And no, I don't know why I keep the pickled eggs. Nobody eats 'em. They stay."] }
+    ],
+    "wisteria": [
+      { "lines": ["Kitchen's warm.", "That's all that matters most days. Come in, sit down. The stew's good, the bread's better, and if Jay tells you about the fishing trip, Jay's lying about the size.", "What can I get you? And don't say 'just water' — this is a tavern, not a well."] }
+    ],
+    "luna": [
+      { "when": { "carries_stone": "dendritic_agate", "quest_not_started": "the_hands_that_remember" },
+        "lines": ["...", "Where did you find that?", "There's a commission in my book. Years old. Dendritic agate, the kind with the little trees inside. I never found the right one.", "That's the right one."],
+        "actions": [{ "start_quest": "the_hands_that_remember" }, { "complete_step": "the_hands_that_remember:recognized" }],
+        "choices": [
+          { "text": "Give it to Luna.",
+            "lines": ["Thank you.", "I'll finish it tonight. It'll be on the board when you come back."],
+            "actions": [{ "take_stone": "dendritic_agate" }, { "complete_step": "the_hands_that_remember:give" }] },
+          { "text": "Keep it for now.",
+            "lines": ["That's all right. It found you first."] }
+        ] },
+      { "when": { "quest_step": "the_hands_that_remember:give", "carries_stone": "dendritic_agate" },
+        "lines": ["Still carrying it. It suits you."],
+        "choices": [
+          { "text": "Give it to Luna.",
+            "lines": ["Thank you.", "I'll finish it tonight. It'll be on the board when you come back."],
+            "actions": [{ "take_stone": "dendritic_agate" }, { "complete_step": "the_hands_that_remember:give" }] },
+          { "text": "Not yet.",
+            "lines": ["..."] }
+        ] },
+      { "when": { "quest_done": "the_hands_that_remember" },
+        "lines": ["It's on the board. It sings a little. You'll hear it if you sit."] },
+      { "lines": ["...", "Sit if you like. I don't mind being watched. It's quieter that way."] }
+    ],
+    "blacksmith": [
+      { "when": { "quest_not_started": "the_metal_that_sings" },
+        "lines": ["Mind the sparks.", "This fire's for working. The one inside is for stories. Two fires, one heartbeat under both.", "Want to learn to hear metal? Strike the anvil. Listen."],
+        "actions": [{ "start_quest": "the_metal_that_sings" }] },
+      { "when": { "quest_step": "the_metal_that_sings:chord" },
+        "lines": ["Strike it. Go on. It rings three at once."] },
+      { "when": { "quest_step": "the_metal_that_sings:tune" },
+        "lines": ["Now a finding. Clasp, spacer, whatever you like. Tune it to a stone you carry, at the anvil.", "You'll know when it matches. It sings."] },
+      { "when": { "quest_done": "the_metal_that_sings" },
+        "lines": ["Metal sings when it matches. Told you."] },
+      { "lines": ["Mind the sparks."] }
+    ],
+    "fortune": [
+      { "dynamic": "fortune_reading",
+        "lines": ["Not palms. Stones.", "Let me hear what you carry."],
+        "after": ["That isn't your future. That's you.", "The stones only ever tell people who they already are."] }
+    ],
+    "zeke": [
+      { "when": { "not_flag": "met_zeke" },
+        "lines": ["You hear that? Under everything. Fifty a minute.", "That's the tide. Not the sound of it. The time of it. The tide's a clock, and I keep it.", "Have a look at the chart. High water, low water, all of it on the beat. Every game out on the water runs on this."],
+        "actions": [{ "set_flag": "met_zeke" }] },
+      { "lines": ["Good hands can hold anything. Even a beat."] }
+    ],
+    "owl": [
+      { "when": { "not_flag": "met_owl" },
+        "lines": ["Watching.", "Not the Inn. You. The Inn watches everyone — I watch the ones who notice. Wherever an owl is sighted, one of us is near.", "Remember that. Or don't. The watching doesn't require your memory to continue."],
+        "actions": [{ "set_flag": "met_owl" }] },
+      { "lines": ["Watching."] }
+    ],
+    "faire_herald": [
+      { "lines": ["Huzzah and welcome! The lanes are open, the booths are full, and the joust runs on the hour.", "Every piece in these booths has a twin that travels beyond the door. Browse all you like."] }
+    ]
+  },
+  "humble_objects": {
+    "_source": "The Catalyst's Recipe (dissection 13, option 2): the drink that lets the player hear humble objects speak, the stool's long memory and the broom's opinions. These lines are first drafts.",
+    "stool":    ["Forty years of the same three regulars. I could tell you things. I won't. Stools have ethics."],
+    "broom":    ["Everybody tracks mud in. Nobody tracks it out. Think about that."],
+    "doorstop": ["I hold the door open. That's it. That's the whole job.", "It's a good job."]
+  }
+}

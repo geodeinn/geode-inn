@@ -1,0 +1,74 @@
+{
+  "_source": "The homestead (walkthrough dissection 14, option 7, ruled Sep 10 2026) built from the client's building system doc (docs/geode_inn_building_system.md): the seven base materials, the workbench step (wood to planks, stone to blocks, clay to bricks, ore to ingots, hemp to rope, thatch to bundles), the fire recipes, and the five tiers with the doc's own material counts and the Ragana's verdicts. Tier names follow dissection 14. Gathering runs at the heartbeat: one unit per beat.",
+  "materials": [
+    { "id": "wood",    "name": "Wood",    "group": "base", "work": "felling" },
+    { "id": "stone",   "name": "Stone",   "group": "base", "work": "quarrying" },
+    { "id": "clay",    "name": "Clay",    "group": "base", "work": "digging" },
+    { "id": "sand",    "name": "Sand",    "group": "base", "work": "panning" },
+    { "id": "ore",     "name": "Ore",     "group": "base", "work": "smelting" },
+    { "id": "hemp",    "name": "Hemp",    "group": "base", "work": "spinning" },
+    { "id": "thatch",  "name": "Thatch",  "group": "base", "work": "thatching" },
+    { "id": "plank",   "name": "Planks",          "group": "worked" },
+    { "id": "block",   "name": "Stone Blocks",    "group": "worked" },
+    { "id": "rope",    "name": "Hemp Rope",       "group": "worked" },
+    { "id": "bundle",  "name": "Thatch Bundles",  "group": "worked" },
+    { "id": "mortar",  "name": "Mortar",          "group": "worked" },
+    { "id": "wattle",  "name": "Wattle-and-Daub", "group": "worked" },
+    { "id": "brick",   "name": "Fired Brick",     "group": "fired" },
+    { "id": "ingot",   "name": "Metal Ingots",    "group": "fired" },
+    { "id": "glass",   "name": "Glass",           "group": "fired" }
+  ],
+  "groups": { "base": "Gathered", "worked": "From the workbench", "fired": "From the forge" },
+  "recipes": [
+    { "id": "plank",  "station": "workbench", "needs": { "wood": 1 },              "makes": "plank",  "doc": "Wood becomes planks." },
+    { "id": "block",  "station": "workbench", "needs": { "stone": 1 },             "makes": "block",  "doc": "Stone becomes blocks." },
+    { "id": "rope",   "station": "workbench", "needs": { "hemp": 1 },              "makes": "rope",   "doc": "Hemp becomes rope." },
+    { "id": "bundle", "station": "workbench", "needs": { "thatch": 1 },            "makes": "bundle", "doc": "Thatch becomes bundles." },
+    { "id": "mortar", "station": "workbench", "needs": { "sand": 1, "clay": 1 },   "makes": "mortar", "doc": "Mortar: sand + clay + water." },
+    { "id": "wattle", "station": "workbench", "needs": { "wood": 1, "clay": 1 },   "makes": "wattle", "doc": "Wood + clay = wattle-and-daub wall." },
+    { "id": "brick",  "station": "forge",     "needs": { "clay": 1 },              "makes": "brick",  "doc": "Clay + fire = fired brick." },
+    { "id": "ingot",  "station": "forge",     "needs": { "ore": 1 },               "makes": "ingot",  "doc": "Ore + fire = smelted metal." },
+    { "id": "glass",  "station": "forge",     "needs": { "sand": 1 },              "makes": "glass",  "doc": "Sand + fire = glass." }
+  ],
+  "tiers": [
+    { "tier": 1, "id": "lean_to", "name": "Lean-to", "stage": "Nigredo", "description": "Basic shelter. The first roof. The first home.",
+      "requires": { "wood": 10, "rope": 20, "bundle": 15 },
+      "doc_counts": "Wood (frame, 10 logs), hemp (cordage, 20 bundles), thatch (roof, 15 bundles).",
+      "verdict": ["It stands. Adequate."] },
+    { "tier": 2, "id": "cottage", "name": "Cottage", "stage": "Albedo", "description": "A real home. The walls. The door that closes.",
+      "requires": { "block": 30, "plank": 25, "brick": 40, "mortar": 20, "rope": 30, "bundle": 25, "ingot": 10 },
+      "doc_counts": "Stone 30 blocks, wood 25 planks, clay 40 bricks, sand 20 (mortar), hemp 30 bundles, thatch 25 bundles, ore 10 ingots.",
+      "verdict": ["The walls are plumb. The roof doesn't leak. Adequate."] },
+    { "tier": 3, "id": "workshop_home", "name": "Workshop Home", "stage": "Citrinitas", "description": "Home and crafting station. The room big enough for others.",
+      "requires": { "block": 80, "plank": 60, "brick": 100, "mortar": 50, "glass": 10, "ingot": 30, "rope": 50, "bundle": 50 },
+      "doc_counts": "Stone 80 blocks, wood 60 planks, clay 100 units, sand 60 (mortar and early glass), ore 30 ingots, hemp 50 bundles, thatch 50 bundles.",
+      "verdict": ["The proportions are correct.", "The acoustic is: resonant.", "Adequate."] },
+    { "tier": 4, "id": "estate", "name": "Estate", "stage": "Rubedo", "description": "A grand home. The thing the Cartographer puts on the map in gold.",
+      "requires": { "block": 200, "plank": 150, "brick": 200, "mortar": 120, "glass": 30, "ingot": 100, "rope": 100, "bundle": 100 },
+      "doc_counts": "Stone 200+ blocks, wood 150+ planks, clay 200+ units, sand 150+ (mortar, glass windows, concrete), ore 100+ ingots, hemp 100+ bundles, thatch 100+ units.",
+      "verdict": ["...", "...", "Adequate."] },
+    { "tier": 5, "id": "ancestral_hall", "name": "Ancestral Hall", "stage": "Philosopher's Stone", "description": "A legacy home. The material no longer limits the form.",
+      "requires": { "block": 1, "plank": 1, "brick": 1, "mortar": 1, "glass": 1, "ingot": 1, "rope": 1, "bundle": 1 },
+      "requires_unlocks": ["philosophers_stone", "silica_thread"],
+      "doc_counts": "All seven materials in quantities the player decides, plus the Philosopher's Stone charm (level 40) and the Silica Thread (beat the Selkie at Tetris). Neither is in the first release, so this tier shows but can't be built yet.",
+      "verdict": ["..."] }
+  ],
+  "gather_nodes": [
+    { "id": "tree",     "name": "Old Tree",       "gives": "wood",   "capacity": 6, "respawn_s": 45 },
+    { "id": "outcrop",  "name": "Stone Outcrop",  "gives": "stone",  "capacity": 6, "respawn_s": 45, "stone_chance": 0.12 },
+    { "id": "clay_bank","name": "Clay Bank",      "gives": "clay",   "capacity": 6, "respawn_s": 45 },
+    { "id": "shore",    "name": "Sandy Shore",    "gives": "sand",   "capacity": 6, "respawn_s": 45 },
+    { "id": "ore_seam", "name": "Ore Seam",       "gives": "ore",    "capacity": 4, "respawn_s": 60, "stone_chance": 0.15 },
+    { "id": "hemp",     "name": "Hemp Patch",     "gives": "hemp",   "capacity": 6, "respawn_s": 45 },
+    { "id": "reeds",    "name": "Reed Bed",       "gives": "thatch", "capacity": 6, "respawn_s": 45 }
+  ],
+  "starting_materials": {},
+  "plots": {
+    "_note": "The first ring of homestead plots, at the faire's edge (dissection 14: plots in concentric rings, the outer ring is the one a new player can afford). Each is x, z; the front faces the field. Online, the game server keeps who owns which plot.",
+    "ring_1": [
+      [-33.0, -26.0], [-37.0, -17.0], [-39.5, -7.0], [-40.0, 3.0],
+      [-38.5, 13.0], [-28.0, -33.0], [32.0, -26.0], [37.0, -17.0],
+      [39.5, -7.0], [40.0, 3.0], [-2.0, 31.0], [8.0, 33.0]
+    ]
+  }
+}

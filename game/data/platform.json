@@ -1,0 +1,24 @@
+{
+  "_source": "Platform wiring. Fill these in when the client's accounts exist; everything falls back to offline behavior while they are empty.",
+  "steam": {
+    "app_id": 0,
+    "_note": "The client's Steamworks App ID. 0 means Steam is off. For local testing with the Steam client running, 480 (Valve's Spacewar test app) works with GodotSteam."
+  },
+  "base44": {
+    "app_id": "6a53cbfe78c5827e0055fffa",
+    "_app_id_note": "The repo's docs name 6a60f218b0c6605c92fa35c4 as the live app; this one is the app the client built Elio in. The client picks which one the game talks to.",
+    "functions_base_url": "",
+    "market_function": "gameMarketItems",
+    "link_function": "gameLinkAccount",
+    "_note": "The site's entities need a logged-in session (public reads return 403), so the game talks to two small Base44 backend functions the client adds: gameMarketItems (returns MarketItem rows) and gameLinkAccount (turns a one-time code from the site into an account id). Empty functions_base_url = use data/market_sample.json and offline accounts. No service token ever goes in the game build."
+  },
+  "market": {
+    "allow_shop_links": false,
+    "_note": "The canon client is offline-first with no links out, and the market's phrasing law never names the site in-world. Set true to show a quiet 'where it travels' button on PC builds; consoles never show it."
+  },
+  "server": {
+    "default_port": 24770,
+    "max_players": 64,
+    "snapshot_hz": 10
+  }
+}

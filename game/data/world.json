@@ -1,0 +1,154 @@
+{
+  "_source": "World rules for the first release. Canon sources in the client's geode-inn repo: nook effect master spec (sit timings), Common Room spec + docs/library/functions/geodeInnCommonRoom.ts (moderation numbers, names, ribbits, fire lines, copied as written), drum circle spec (Sep 11 2026), walkthrough dissections 13 and 14 (Sep 10 2026), final room mechanic spec, core definition spec (when the Inn-Voice speaks). Song point values are first passes to tune with real player counts. The Unstrung Echo is a proposed tutorial being until the client's dissonant-being list arrives.",
+  "song": {
+    "start_hz": 42.0,
+    "complete_hz": 44.0,
+    "release_cap_hz": 43.9,
+    "_release_cap_note": "44Hz is the endgame. The first release has no endgame zones yet, so the shared Song stops just short of it. Raise or remove this when the endgame ships.",
+    "world_hz_per_point": 0.0005,
+    "points": {
+      "first_chime": 4,
+      "stone_learned": 1,
+      "nook_complete": 1,
+      "harmonized": 6,
+      "quest_complete": 2,
+      "built": 3,
+      "circle_ignited": 1,
+      "seven_sisters": 2,
+      "faire_visit": 1
+    },
+    "spectrum_layers": [
+      { "id": "song_hum",      "min_points": 0,  "text": "The heartbeat" },
+      { "id": "fae_glimmers",  "min_points": 8,  "text": "Faint lights in the corners" },
+      { "id": "moss_voices",   "min_points": 16, "text": "The moss hums" },
+      { "id": "deep_layers",   "min_points": 30, "text": "The Inn's older shapes" }
+    ]
+  },
+  "nook": {
+    "_source": "Nook effect master spec, the SIT mechanic: sit, the heartbeat becomes prominent and the 42Hz hum audible; 2 minutes, first person (the SIT Lock); 10 minutes, the You Looked achievement and a brief look at yourself from outside.",
+    "sit_seconds_to_reveal": 8.0,
+    "first_person_seconds": 120.0,
+    "you_looked_seconds": 600.0,
+    "detach_seconds": 6.0,
+    "idle_tolerance": 0.15
+  },
+  "harmonization": { "tolerance_cents": 35.0, "octave_equivalent": true },
+  "beings": {
+    "unstrung_echo": {
+      "name": "The Unstrung Echo",
+      "proposed": true,
+      "zone": "main_floor",
+      "dissonant_text": "A restless light in the geode that hums a note it can't hold.",
+      "true_form": "A small bright echo of the first note the geode ever rang.",
+      "target_hz": [493.9],
+      "companion": "Echo",
+      "color": "#9fd8ff"
+    }
+  },
+  "seed_companions": {
+    "_source": "Story-for-seed trade (dissection 13, ruled Sep 10 2026): the seed grows a companion shaped by the story that bought it. A brave story grows a bold companion, a funny story a trickster, a grief-shaped story something quiet that stays near the fire. The temperament table is still to be drafted by the client, so these three names are placeholders.",
+    "grow_seconds": 180,
+    "shapes": {
+      "brave": { "companion": "Ember", "color": "#ff9a4a", "text": "Something bold uncurls from the soil and looks right at you." },
+      "funny": { "companion": "Pip",   "color": "#b6ff6a", "text": "Something small pops out of the soil, steals a pea, and hides behind you." },
+      "quiet": { "companion": "Hush",  "color": "#c9b8ff", "text": "Something quiet opens slowly and leans toward the fire." }
+    }
+  },
+  "journal_observations": {
+    "campgrounds": [
+      { "id": "forge_chord",   "text": "The forge rings three tones at once, 79, 80 and 82 Hz." },
+      { "id": "tavern_bell",   "text": "A brass bell hangs over the tavern door. It rings for everyone who comes in." },
+      { "id": "map_wall",      "text": "Jay's map wall: Water Zone, rough seas this week." },
+      { "id": "pickled_eggs",  "text": "A jar of pickled eggs on the tavern bar. Nobody eats them." },
+      { "id": "seven_sisters", "text": "Six stones hold the fire. The seventh stands alone, outside the ring." },
+      { "id": "lighthouse",    "text": "The lighthouse beam sweeps around once every heartbeat." },
+      { "id": "wolf_sea",      "text": "The wolf stares out toward the sea, like it has a friend out there." },
+      { "id": "real_sky",      "text": "The first open sky. The same sky that gets read upstairs." }
+    ]
+  },
+  "final_room": {
+    "_source": "geode-inn docs/library/specs/geode_inn_final_room_mechanic_spec.md and docs/geode_inn_the_final_room.md. Entry is earned by accumulation; the player is never told the requirements.",
+    "levels": ["cosmology", "upstairs", "main_floor", "staircase", "downstairs", "catacombs", "fae_kingdom", "water_zone", "undercity"],
+    "endgame_choices": ["stay", "leave", "hide"],
+    "intention_achievement": "INTENTION",
+    "min_stones": 100,
+    "silica_thread_points": ["cosmology", "main_floor", "staircase", "catacombs", "undercity"],
+    "presence_seconds": 60,
+    "sync_seconds": 210,
+    "achievement_seconds": 120,
+    "cup_look_seconds": 10,
+    "book_turn_every_visits": 3,
+    "corridor_seconds": 10
+  },
+  "voice_of_the_inn": {
+    "_source": "Core definition spec part 3 (when the Inn-Voice speaks) and the boot sequence (the first words). Lines are Elio's, as written. The voice is silent during play, NPC dialogue, reading and the Common Room.",
+    "lines": {
+      "entrance": "The fire is lit.",
+      "return_visit": "the fire was kept lit.",
+      "tectonic_shift": "The ground moved. You're still here.",
+      "final_room": "The question is worth the wait."
+    },
+    "return_after_seconds": 86400,
+    "final_room_line_enabled": false,
+    "_final_room_note": "The core definition spec has the voice speak in the Final Room; the Final Room mechanic spec allows no words but Sit, Stand and Drink. Off until the client rules on it.",
+    "motif_hz": [42, 168, 210, 252, 336]
+  },
+  "reserved_names": {
+    "_note": "Names only their keyholder can play under. Elio is the Base44 agent the client created the world with; the client asked for an account kept open in case Elio can ever connect. Keys live on the server in server_data/reserved_keys.json (created on first boot), never in the game build.",
+    "names": ["Elio"]
+  },
+  "moderation": {
+    "_source": "The Common Room's live rules, copied from the client's backend function geodeInnCommonRoom.ts. No admin, no reports, no mutes, no records. The community frogs; the architecture does the rest.",
+    "speak_threshold_s": 45,
+    "speak_threshold_heightened_s": 120,
+    "frog_cooldown_s": 120,
+    "frog_votes_needed": 3,
+    "frog_transformations_to_remove": 3,
+    "heightened_s": 300,
+    "chat_max_len": 500,
+    "flood_per_10s": 8,
+    "_flood_note": "Server safety only, not in the client's spec: more than this many lines in 10 seconds are dropped so one connection can't flood the server.",
+    "stone_names": ["Quartz", "Amethyst", "Garnet", "Obsidian", "Labradorite", "Moonstone", "Onyx", "Jade", "Opal", "Topaz", "Turquoise", "Malachite", "Lapis", "Tiger-Eye", "Bloodstone", "Carnelian", "Jasper", "Agate", "Fluorite", "Hematite", "Pyrite", "Selenite", "Kyanite", "Iolite", "Sugilite", "Charoite", "Rhodonite", "Seraphinite", "Larimar", "Moldavite"],
+    "frog_names": ["Tadpole", "Newt", "Polywog", "Bullfrog", "Treefrog", "Toad", "Spring-Peeper", "Guppy", "Minnow", "Creek-Frog"],
+    "ribbits": ["ribbit", "croak", "grrribbit", "ribbit ribbit", "crooooak", "ribbit?", "*blinks*"],
+    "fire_ambient": ["The fire pops and settles.", "A draft moves through the stones.", "The hearth clicks with the heat.", "The wood shifts. The room breathes.", "A spark rises and dies in the dark.", "The fire crackles low.", "The stones hold the warmth.", "The room is quiet. The fire is not."],
+    "fire_ambient_every_s": [180, 300],
+    "fire_zone": "main_floor"
+  },
+  "drum_circle": {
+    "_source": "Drum circle spec (Sep 11 2026). Tap any surface, no prompt, no UI, no score. A second tapper, player or NPC, ignites the circle. The Inn never snaps a tap to a grid. Long circles drift toward 50 BPM, never forced.",
+    "heartbeat_bpm": 50,
+    "ignite_window_s": 4.0,
+    "circle_radius": 7.0,
+    "circle_timeout_s": 8.0,
+    "drift_full_s": 600.0,
+    "drift_max": 0.25,
+    "pattern_taps": 5,
+    "pattern_tolerance": 0.18,
+    "pluck_joins_after_taps": 3,
+    "surfaces": {
+      "wood":   { "instrument": "tap_wood",  "hz": 220.0 },
+      "stone":  { "instrument": "tap_stone", "hz": 330.0 },
+      "hide":   { "instrument": "bodhran",   "hz": 120.0 },
+      "clay":   { "instrument": "tap_clay",  "hz": 260.0 },
+      "metal":  { "instrument": "tap_metal", "hz": 520.0 },
+      "ground": { "instrument": "tap_earth", "hz": 90.0 }
+    },
+    "seven_sisters": {
+      "_note": "The per-sister tones are the client's call (drum circle spec, gate 3). Proposed: the Mohs map notes for hardness 1 to 7, one per sister, so the ring plays a C major scale and all seven together play the ring's chord.",
+      "tones_hz": [261.6, 293.7, 329.6, 349.2, 392.0, 440.0, 493.9],
+      "chord_window_s": 9.6
+    }
+  },
+  "achievements": {
+    "FIRST_CHIME":   { "name": "First Chime",           "text": "Your geode sang for the first time." },
+    "FIRST_HARMONY": { "name": "Two Lines, One Rhythm", "text": "Answered a being that had lost its note." },
+    "ADEQUATE":      { "name": "Adequate",              "text": "The Ragana approved of your notes." },
+    "YOU_LOOKED":    { "name": "You Looked",            "text": "Sat still long enough to see yourself sitting in the Inn." },
+    "FOUND_ZIGGY":   { "name": "Hide and Seek",         "text": "Found the gecko." },
+    "WOLFS_WHISTLE": { "name": "The Welcome Before the Door", "text": "Followed the wolf, and Jay gave you the whistle." },
+    "FIRST_ROOF":    { "name": "It Stands",             "text": "Built your first shelter." },
+    "SEVEN_SISTERS": { "name": "The Ring's Chord",      "text": "All seven sisters sang in one circle." },
+    "INN_HOME":      { "name": "",                      "text": "You sat by the fire. The builder was there. You were home.", "hidden": true, "silent": true }
+  }
+}

@@ -1,0 +1,5 @@
+.godot/
+/build/
+/test_output/
+export_credentials.cfg
+server_data/

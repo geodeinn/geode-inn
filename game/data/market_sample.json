@@ -1,0 +1,406 @@
+{
+ "_source": "Soulstice products from the client's live MarketItem snapshot (core-files/entities/geode_inn_live_market_manifest.json, Sep 1 2026), via tools/convert_client_data.py. Duplicate listings removed. In-world text follows the phrasing law: the real piece is 'the one that travels', never a website.",
+ "shop_url": "https://soulsticejeweler.com",
+ "items": [
+  {
+   "id": "soulstice_preseli_bluestone_pendant",
+   "title": "Preseli Bluestone Pendant",
+   "stones": "Preseli Blue Stone",
+   "price_usd": null,
+   "price_range_usd": [
+    50.0,
+    100.0
+   ],
+   "artisan": "Soulstice",
+   "category": "Artifacts",
+   "url": "https://soulsticejeweler.com",
+   "canon_name": "The Bluestone Key",
+   "lore": "Preseli blue stone. The Fae portal's key."
+  },
+  {
+   "id": "soulstice_malachite_ring_in_copper",
+   "title": "Malachite Ring in Copper",
+   "stones": "Malachite",
+   "price_usd": null,
+   "price_range_usd": [
+    50.0,
+    100.0
+   ],
+   "artisan": "Soulstice",
+   "category": "Artifacts",
+   "url": "https://soulsticejeweler.com",
+   "canon_name": "The Truth-Teller's Ring",
+   "lore": "Malachite. Shows when someone isn't being straight with you."
+  },
+  {
+   "id": "soulstice_labradorite_pendant_sterling_silver",
+   "title": "Labradorite Pendant Sterling Silver",
+   "stones": "Labradorite",
+   "price_usd": null,
+   "price_range_usd": [
+    100.0,
+    250.0
+   ],
+   "artisan": "Soulstice",
+   "category": "Artifacts",
+   "url": "https://soulsticejeweler.com",
+   "canon_name": "The Aurora Pendant",
+   "lore": "Labradorite. Shows the hidden Fae paths."
+  },
+  {
+   "id": "soulstice_cats_eye_chrysoberyl_pendant",
+   "title": "Cat's Eye Chrysoberyl Pendant",
+   "stones": "Cat's Eye Chrysoberyl",
+   "price_usd": null,
+   "price_range_usd": [
+    250.0,
+    500.0
+   ],
+   "artisan": "Soulstice",
+   "category": "Artifacts",
+   "url": "https://soulsticejeweler.com",
+   "canon_name": "The Cat's Eye of Bastet",
+   "lore": "Chrysoberyl. Opens the way to Egypt's secret cats."
+  },
+  {
+   "id": "soulstice_sunstone_garnet_and_london_blue_topaz_drops",
+   "title": "Sunstone, garnet, and London blue topaz drops",
+   "stones": "Sunstone, Garnet, London Blue Topaz",
+   "price_usd": 120.0,
+   "price_range_usd": null,
+   "artisan": "Soulstice",
+   "category": "Gemstone Earrings",
+   "url": "https://soulsticejeweler.com/shop"
+  },
+  {
+   "id": "soulstice_celtic_love_weaving_in_black",
+   "title": "Celtic love weaving in black",
+   "stones": "Leather",
+   "price_usd": 90.0,
+   "price_range_usd": null,
+   "artisan": "Soulstice",
+   "category": "Celtic Leatherwork",
+   "url": "https://soulsticejeweler.com/shop"
+  },
+  {
+   "id": "soulstice_handmade_celtic_leatherwork_in_gray_green_and_black",
+   "title": "Handmade Celtic leatherwork in gray, green, and black",
+   "stones": "Leather",
+   "price_usd": 250.0,
+   "price_range_usd": null,
+   "artisan": "Soulstice",
+   "category": "Celtic Leatherwork",
+   "url": "https://soulsticejeweler.com/shop"
+  },
+  {
+   "id": "soulstice_leather_and_skulls",
+   "title": "Leather and skulls",
+   "stones": "Leather",
+   "price_usd": 120.0,
+   "price_range_usd": null,
+   "artisan": "Soulstice",
+   "category": "Celtic Leatherwork",
+   "url": "https://soulsticejeweler.com/shop"
+  },
+  {
+   "id": "soulstice_celtic_leather_in_green_and_black",
+   "title": "Celtic leather in green and black",
+   "stones": "Leather",
+   "price_usd": 80.0,
+   "price_range_usd": null,
+   "artisan": "Soulstice",
+   "category": "Celtic Leatherwork",
+   "url": "https://soulsticejeweler.com/shop"
+  },
+  {
+   "id": "soulstice_peridot_amber_and_amethyst_earrings",
+   "title": "Peridot, amber and amethyst earrings",
+   "stones": "Peridot, Amber, Amethyst",
+   "price_usd": 110.0,
+   "price_range_usd": null,
+   "artisan": "Soulstice",
+   "category": "Gemstone Earrings",
+   "url": "https://soulsticejeweler.com/shop"
+  },
+  {
+   "id": "soulstice_celtic_leather_love_knot_bracelet_in_green",
+   "title": "Celtic leather love knot bracelet in green",
+   "stones": "Leather",
+   "price_usd": 40.0,
+   "price_range_usd": null,
+   "artisan": "Soulstice",
+   "category": "Celtic Leatherwork",
+   "url": "https://soulsticejeweler.com/shop"
+  },
+  {
+   "id": "soulstice_celtic_leather_bracelet_in_black_and_green",
+   "title": "Celtic leather bracelet in black and green",
+   "stones": "Leather",
+   "price_usd": 40.0,
+   "price_range_usd": null,
+   "artisan": "Soulstice",
+   "category": "Celtic Leatherwork",
+   "url": "https://soulsticejeweler.com/shop"
+  },
+  {
+   "id": "soulstice_celtic_leather_in_black_and_browns",
+   "title": "Celtic leather in black and browns",
+   "stones": "Leather",
+   "price_usd": 80.0,
+   "price_range_usd": null,
+   "artisan": "Soulstice",
+   "category": "Celtic Leatherwork",
+   "url": "https://soulsticejeweler.com/shop"
+  },
+  {
+   "id": "soulstice_celtic_leather_in_black_and_green",
+   "title": "Celtic leather in black and green",
+   "stones": "Leather",
+   "price_usd": 160.0,
+   "price_range_usd": null,
+   "artisan": "Soulstice",
+   "category": "Celtic Leatherwork",
+   "url": "https://soulsticejeweler.com/shop"
+  },
+  {
+   "id": "soulstice_leather_celtic_bracelet_in_blacks_blues_and_browns",
+   "title": "Leather Celtic bracelet in blacks, blues, and browns",
+   "stones": "Leather",
+   "price_usd": 120.0,
+   "price_range_usd": null,
+   "artisan": "Soulstice",
+   "category": "Celtic Leatherwork",
+   "url": "https://soulsticejeweler.com/shop"
+  },
+  {
+   "id": "soulstice_leather_celtic_necklace_in_blacks_blues_and_browns",
+   "title": "Leather Celtic necklace in blacks, blues, and browns",
+   "stones": "Leather",
+   "price_usd": 250.0,
+   "price_range_usd": null,
+   "artisan": "Soulstice",
+   "category": "Celtic Leatherwork",
+   "url": "https://soulsticejeweler.com/shop"
+  },
+  {
+   "id": "soulstice_celtic_leather_in_brown_black_and_green",
+   "title": "Celtic leather in brown, black, and green",
+   "stones": "Leather",
+   "price_usd": 80.0,
+   "price_range_usd": null,
+   "artisan": "Soulstice",
+   "category": "Celtic Leatherwork",
+   "url": "https://soulsticejeweler.com/shop"
+  },
+  {
+   "id": "soulstice_celtic_leather_bracelet_in_brown",
+   "title": "Celtic leather bracelet in brown",
+   "stones": "Leather",
+   "price_usd": 40.0,
+   "price_range_usd": null,
+   "artisan": "Soulstice",
+   "category": "Celtic Leatherwork",
+   "url": "https://soulsticejeweler.com/shop"
+  },
+  {
+   "id": "soulstice_celtic_leather_bracelet_in_gray_and_brown",
+   "title": "Celtic leather bracelet in gray and brown",
+   "stones": "Leather",
+   "price_usd": 40.0,
+   "price_range_usd": null,
+   "artisan": "Soulstice",
+   "category": "Celtic Leatherwork",
+   "url": "https://soulsticejeweler.com/shop"
+  },
+  {
+   "id": "soulstice_aquamarine_carnelian_and_onyx",
+   "title": "Aquamarine, Carnelian and Onyx",
+   "stones": "Aquamarine, Carnelian, Onyx",
+   "price_usd": 140.0,
+   "price_range_usd": null,
+   "artisan": "Soulstice",
+   "category": "Gemstone Earrings",
+   "url": "https://soulsticejeweler.com/shop"
+  },
+  {
+   "id": "soulstice_celtic_leather_love_knot_in_green_and_brown",
+   "title": "Celtic leather love knot in green and brown",
+   "stones": "Leather",
+   "price_usd": 80.0,
+   "price_range_usd": null,
+   "artisan": "Soulstice",
+   "category": "Celtic Leatherwork",
+   "url": "https://soulsticejeweler.com/shop"
+  },
+  {
+   "id": "soulstice_celtic_leather_bracelet_in_green",
+   "title": "Celtic leather bracelet in green",
+   "stones": "Leather",
+   "price_usd": 40.0,
+   "price_range_usd": null,
+   "artisan": "Soulstice",
+   "category": "Celtic Leatherwork",
+   "url": "https://soulsticejeweler.com/shop"
+  },
+  {
+   "id": "soulstice_bloodlust",
+   "title": "Bloodlust",
+   "stones": "Garnet, Hematite",
+   "price_usd": 180.0,
+   "price_range_usd": null,
+   "artisan": "Soulstice",
+   "category": "Gemstone Jewelry",
+   "url": "https://soulsticejeweler.com/shop"
+  },
+  {
+   "id": "soulstice_celtic_leather_in_light_brown",
+   "title": "Celtic leather in light brown",
+   "stones": "Leather",
+   "price_usd": 80.0,
+   "price_range_usd": null,
+   "artisan": "Soulstice",
+   "category": "Celtic Leatherwork",
+   "url": "https://soulsticejeweler.com/shop"
+  },
+  {
+   "id": "soulstice_silver_black_onyx_and_pietersite_earrings",
+   "title": "Silver, black onyx, and pietersite earrings",
+   "stones": "Silver, Black Onyx, Pietersite",
+   "price_usd": 120.0,
+   "price_range_usd": null,
+   "artisan": "Soulstice",
+   "category": "Gemstone Earrings",
+   "url": "https://soulsticejeweler.com/shop"
+  },
+  {
+   "id": "soulstice_celtic_woven_leather_in_black",
+   "title": "Celtic woven leather in black",
+   "stones": "Leather",
+   "price_usd": 80.0,
+   "price_range_usd": null,
+   "artisan": "Soulstice",
+   "category": "Celtic Leatherwork",
+   "url": "https://soulsticejeweler.com/shop"
+  },
+  {
+   "id": "soulstice_celtic_leather_in_gray_and_brown",
+   "title": "Celtic leather in gray and brown",
+   "stones": "Leather",
+   "price_usd": 80.0,
+   "price_range_usd": null,
+   "artisan": "Soulstice",
+   "category": "Celtic Leatherwork",
+   "url": "https://soulsticejeweler.com/shop"
+  },
+  {
+   "id": "soulstice_triple_moon_with_smoky_quartz_agate_and_garnet_on_a_silk_ribbon",
+   "title": "Triple moon with smoky quartz, agate, and garnet on a silk ribbon",
+   "stones": "Smoky Quartz, Agate, Garnet",
+   "price_usd": 60.0,
+   "price_range_usd": null,
+   "artisan": "Soulstice",
+   "category": "Gemstone Jewelry",
+   "url": "https://soulsticejeweler.com/shop"
+  },
+  {
+   "id": "soulstice_tiny_sunstone_necklace",
+   "title": "Tiny sunstone necklace",
+   "stones": "Sunstone",
+   "price_usd": 60.0,
+   "price_range_usd": null,
+   "artisan": "Soulstice",
+   "category": "Gemstone Jewelry",
+   "url": "https://soulsticejeweler.com/shop"
+  },
+  {
+   "id": "soulstice_shield_pendant",
+   "title": "Shield pendant",
+   "stones": "Mixed Metals",
+   "price_usd": 80.0,
+   "price_range_usd": null,
+   "artisan": "Soulstice",
+   "category": "Gemstone Jewelry",
+   "url": "https://soulsticejeweler.com/shop"
+  },
+  {
+   "id": "soulstice_thistle_necklace",
+   "title": "Thistle necklace",
+   "stones": "Silver",
+   "price_usd": 90.0,
+   "price_range_usd": null,
+   "artisan": "Soulstice",
+   "category": "Gemstone Jewelry",
+   "url": "https://soulsticejeweler.com/shop"
+  },
+  {
+   "id": "soulstice_star_pendant",
+   "title": "Star pendant",
+   "stones": "Silver",
+   "price_usd": 80.0,
+   "price_range_usd": null,
+   "artisan": "Soulstice",
+   "category": "Gemstone Jewelry",
+   "url": "https://soulsticejeweler.com/shop"
+  },
+  {
+   "id": "soulstice_trinity_pendant",
+   "title": "Trinity pendant",
+   "stones": "Silver",
+   "price_usd": 80.0,
+   "price_range_usd": null,
+   "artisan": "Soulstice",
+   "category": "Gemstone Jewelry",
+   "url": "https://soulsticejeweler.com/shop"
+  },
+  {
+   "id": "soulstice_garnet_gold_and_spinel_earrings",
+   "title": "Garnet, gold and spinel earrings",
+   "stones": "Garnet, Gold, Spinel",
+   "price_usd": 90.0,
+   "price_range_usd": null,
+   "artisan": "Soulstice",
+   "category": "Gemstone Earrings",
+   "url": "https://soulsticejeweler.com/shop"
+  },
+  {
+   "id": "soulstice_viking_earrings",
+   "title": "Viking earrings",
+   "stones": "Silver",
+   "price_usd": 160.0,
+   "price_range_usd": null,
+   "artisan": "Soulstice",
+   "category": "Gemstone Earrings",
+   "url": "https://soulsticejeweler.com/shop"
+  },
+  {
+   "id": "soulstice_baltic_amber_amethyst_and_silver_earrings_2",
+   "title": "Baltic amber, amethyst and silver earrings",
+   "stones": "Baltic Amber, Amethyst",
+   "price_usd": 90.0,
+   "price_range_usd": null,
+   "artisan": "Soulstice",
+   "category": "Gemstone Earrings",
+   "url": "https://soulsticejeweler.com/shop"
+  },
+  {
+   "id": "soulstice_celtic_leather_in_grays_and_browns",
+   "title": "Celtic leather in grays and browns",
+   "stones": "Leather",
+   "price_usd": 250.0,
+   "price_range_usd": null,
+   "artisan": "Soulstice",
+   "category": "Celtic Leatherwork",
+   "url": "https://soulsticejeweler.com/shop"
+  },
+  {
+   "id": "soulstice_limited_edition_5_strand_gemstone_necklace",
+   "title": "LIMITED EDITION 5 Strand Gemstone Necklace",
+   "stones": "Mixed Gemstones",
+   "price_usd": 510.0,
+   "price_range_usd": null,
+   "artisan": "Soulstice",
+   "category": "Gemstone Jewelry",
+   "url": "https://soulsticejeweler.com/shop"
+  }
+ ]
+}

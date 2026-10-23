@@ -1,0 +1,61 @@
+{
+  "_source": "Ported 1:1 from the geodeinn.com audio engine (public bundle, Oct 22 2026). Keep in sync with the site so stones sound the same everywhere.",
+  "system": {
+    "song_hz": 42,
+    "shadow_inverse_hz": 84,
+    "schumann_hz": 7.83,
+    "heartbeat_bpm": 50,
+    "night_bpm": 40,
+    "canopy_sway_period": 1.2,
+    "gargoyle_frequencies_hz": { "watcher": 111, "listener": 64, "sage": 528, "caller": 432 }
+  },
+  "driver_profiles": {
+    "dynamic":          { "meaning": "Stones and matter, frequencies you FEEL",   "osc": "sine",     "filter": { "type": "lowpass",  "freq": 800,  "q": 0.7 }, "gain": 0.22, "sub_bass": true,  "shimmer": false },
+    "balancedArmature": { "meaning": "Characters and voices, frequencies you HEAR", "osc": "triangle", "filter": { "type": "bandpass", "freq": 1600, "q": 1.2 }, "gain": 0.18, "sub_bass": false, "shimmer": false },
+    "electrostatic":    { "meaning": "Cosmology, frequencies you SENSE",          "osc": "sine",     "filter": { "type": "highpass", "freq": 1200, "q": 0.5 }, "gain": 0.14, "sub_bass": false, "shimmer": true },
+    "boneConduction":   { "meaning": "The 42Hz Song, frequencies you KNOW",       "osc": "sine",     "filter": { "type": "lowpass",  "freq": 220,  "q": 2.0 }, "gain": 0.28, "sub_bass": true,  "shimmer": false },
+    "crossoverRouting": { "meaning": "Transition, ascending crossover",           "osc": "triangle", "filter": { "type": "allpass",  "freq": 1000, "q": 1.0 }, "gain": 0.18, "sub_bass": false, "shimmer": false },
+    "arcDampened":      { "meaning": "Near-silent, single note, infinite reverb", "osc": "sine",     "filter": { "type": "lowpass",  "freq": 400,  "q": 0.4 }, "gain": 0.08, "sub_bass": false, "shimmer": false },
+    "eivecCoupling":    { "meaning": "Borderless, ethereal coupling",             "osc": "sine",     "filter": { "type": "peaking",  "freq": 2000, "q": 0.8 }, "gain": 0.12, "sub_bass": false, "shimmer": true }
+  },
+  "zone_profiles": [
+    { "zone": "Main Floor (Hub)",       "level": "main_floor",  "band": "Mid (BA)",         "driver": "balancedArmature", "bpm_min": 80,  "bpm_max": 95,  "lead_instruments": ["acoustic guitar", "lute", "viola da gamba", "hammered dulcimer"] },
+    { "zone": "Cosmology (Upstairs)",   "level": "upstairs",    "band": "Ultra-high (EST)", "driver": "electrostatic",    "bpm_min": 60,  "bpm_max": 70,  "lead_instruments": ["glass harmonica", "singing bowls", "Tibetan horn", "overtone singing"] },
+    { "zone": "Staircase (Alchemy)",    "level": "staircase",   "band": "Transition",       "driver": "crossoverRouting", "bpm_min": 75,  "bpm_max": 85,  "lead_instruments": ["glass armonica", "flute", "harp", "metallic percussion"] },
+    { "zone": "Catacombs (Downstairs)", "level": "catacombs",   "band": "Low (DD)",         "driver": "dynamic",          "bpm_min": 65,  "bpm_max": 75,  "lead_instruments": ["frame drum", "sistrum", "bone flute", "lyre", "ney"] },
+    { "zone": "Modern Legends Nook",    "level": "main_floor",  "band": "Near-silent",      "driver": "arcDampened",      "bpm_min": 50,  "bpm_max": 60,  "lead_instruments": ["piano", "cello", "analog synth"] },
+    { "zone": "Artisan Market",         "level": "main_floor",  "band": "Mid-bright (BA)",  "driver": "balancedArmature", "bpm_min": 100, "bpm_max": 115, "lead_instruments": ["hand drums", "oud", "kalimba", "bells"] },
+    { "zone": "Fae Threshold",          "level": "fae_kingdom", "band": "Borderless",       "driver": "eivecCoupling",    "bpm_min": 55,  "bpm_max": 65,  "lead_instruments": ["harp", "breath sounds", "wind chimes"] }
+  ],
+  "room_drivers": { "Main Floor": "balancedArmature", "Archive": "arcDampened", "Staircase": "crossoverRouting", "Catacombs": "dynamic", "Cosmology": "electrostatic", "Market": "balancedArmature", "Common Room": "boneConduction", "Campgrounds": "dynamic", "Faire": "balancedArmature" },
+  "room_bpm": { "Main Floor": 87, "Archive": 55, "Staircase": 80, "Catacombs": 70, "Cosmology": 65, "Market": 107, "Common Room": 50, "Campgrounds": 50, "Faire": 107 },
+  "mohs_map": {
+    "1": { "hz": 261.6, "note": "C4", "reference": "Talc" },
+    "2": { "hz": 293.7, "note": "D4", "reference": "Gypsum" },
+    "3": { "hz": 329.6, "note": "E4", "reference": "Calcite" },
+    "4": { "hz": 349.2, "note": "F4", "reference": "Fluorite" },
+    "5": { "hz": 392.0, "note": "G4", "reference": "Apatite" },
+    "6": { "hz": 440.0, "note": "A4", "reference": "Orthoclase" },
+    "7": { "hz": 493.9, "note": "B4", "reference": "Quartz" },
+    "8": { "hz": 523.3, "note": "C5", "reference": "Topaz" },
+    "9": { "hz": 587.3, "note": "D5", "reference": "Corundum" }
+  },
+  "default_stone_hz": 440.0,
+  "tri_mode": {
+    "living":    { "root_hz": 42, "behavior": "The Song at the surface; warmth, layered presence" },
+    "shadow":    { "root_hz": 84, "behavior": "The inverse Song; tectonic shift (hard cut, no crossfade)" },
+    "inBetween": { "root_hz": null, "behavior": "No clear time signature; phase shifting, borderless" }
+  },
+  "muses": [
+    { "name": "Calliope",    "song": "The Epic",       "hz": 42 },
+    { "name": "Clio",        "song": "The Chronicle",  "hz": 72 },
+    { "name": "Euterpe",     "song": "The Melody",     "hz": 50 },
+    { "name": "Thalia",      "song": "The Comedy",     "hz": 84 },
+    { "name": "Melpomene",   "song": "The Elegy",      "hz": 396 },
+    { "name": "Terpsichore", "song": "The Dance",      "hz": 528 },
+    { "name": "Erato",       "song": "The Love Song",  "hz": 639 },
+    { "name": "Polyhymnia",  "song": "The Hymn",       "hz": 741 },
+    { "name": "Urania",      "song": "The Star Song",  "hz": 852 }
+  ],
+  "metal_chord_hz": { "copper": 79, "silver": 80, "gold": 82 }
+}

@@ -1,0 +1,25 @@
+{
+  "_source": "Timbres for character voice blips and drums. harmonics are relative amplitudes of overtones 1, 2, 3...; attack and decay in seconds; noise mixes in a short breath or hit. The tap_ timbres are the drum circle's surfaces and the gathering work-song: wood knocks, stone clicks, clay is dull, metal rings long, earth thuds.",
+  "instruments": {
+    "cello":       { "harmonics": [1.0, 0.6, 0.45, 0.3, 0.2, 0.12], "attack": 0.03,  "decay": 0.16, "noise": 0.02, "vibrato": 5.0 },
+    "violin":      { "harmonics": [1.0, 0.7, 0.5, 0.4, 0.3, 0.2],   "attack": 0.02,  "decay": 0.12, "noise": 0.02, "vibrato": 6.0 },
+    "harpsichord": { "harmonics": [1.0, 0.8, 0.6, 0.5, 0.4, 0.3, 0.2], "attack": 0.002, "decay": 0.10, "noise": 0.0, "vibrato": 0.0 },
+    "lute":        { "harmonics": [1.0, 0.5, 0.3, 0.15, 0.08],      "attack": 0.003, "decay": 0.14, "noise": 0.01, "vibrato": 0.0 },
+    "lyre":        { "harmonics": [1.0, 0.45, 0.2, 0.1],            "attack": 0.004, "decay": 0.22, "noise": 0.0,  "vibrato": 0.0 },
+    "kalimba":     { "harmonics": [1.0, 0.0, 0.0, 0.25, 0.0, 0.08], "attack": 0.002, "decay": 0.18, "noise": 0.0,  "vibrato": 0.0 },
+    "flute":       { "harmonics": [1.0, 0.2, 0.08],                 "attack": 0.03,  "decay": 0.12, "noise": 0.06, "vibrato": 4.5 },
+    "music_box":   { "harmonics": [1.0, 0.0, 0.3, 0.0, 0.15],       "attack": 0.001, "decay": 0.20, "noise": 0.0,  "vibrato": 0.0 },
+    "glass_harp":  { "harmonics": [1.0, 0.1, 0.05],                 "attack": 0.04,  "decay": 0.30, "noise": 0.0,  "vibrato": 2.0 },
+    "bodhran":     { "harmonics": [1.0, 0.3],                       "attack": 0.001, "decay": 0.12, "noise": 0.35, "vibrato": 0.0, "pitch_drop": 0.4 },
+    "ships_bell":  { "harmonics": [1.0, 0.0, 0.6, 0.0, 0.0, 0.4],   "attack": 0.001, "decay": 0.50, "noise": 0.0,  "vibrato": 0.0 },
+    "harmonica":   { "harmonics": [1.0, 0.8, 0.5, 0.3],             "attack": 0.02,  "decay": 0.10, "noise": 0.05, "vibrato": 3.0 },
+    "piano":       { "harmonics": [1.0, 0.5, 0.25, 0.12, 0.06],     "attack": 0.002, "decay": 0.25, "noise": 0.0,  "vibrato": 0.0 },
+    "chime":       { "harmonics": [1.0, 0.0, 0.0, 0.3, 0.0, 0.0, 0.1], "attack": 0.001, "decay": 0.60, "noise": 0.0, "vibrato": 0.0 },
+    "tap_wood":    { "harmonics": [1.0, 0.0, 0.35, 0.0, 0.12],      "attack": 0.001, "decay": 0.06, "noise": 0.25, "vibrato": 0.0, "pitch_drop": 0.15 },
+    "tap_stone":   { "harmonics": [1.0, 0.0, 0.0, 0.45, 0.0, 0.0, 0.25], "attack": 0.001, "decay": 0.09, "noise": 0.30, "vibrato": 0.0 },
+    "tap_clay":    { "harmonics": [1.0, 0.25],                      "attack": 0.001, "decay": 0.05, "noise": 0.20, "vibrato": 0.0, "pitch_drop": 0.25 },
+    "tap_metal":   { "harmonics": [1.0, 0.0, 0.55, 0.0, 0.0, 0.45, 0.0, 0.3], "attack": 0.001, "decay": 0.35, "noise": 0.10, "vibrato": 0.0 },
+    "tap_earth":   { "harmonics": [1.0, 0.4],                       "attack": 0.002, "decay": 0.07, "noise": 0.45, "vibrato": 0.0, "pitch_drop": 0.5 },
+    "tap_soft":    { "harmonics": [1.0, 0.2],                       "attack": 0.004, "decay": 0.05, "noise": 0.55, "vibrato": 0.0 }
+  }
+}

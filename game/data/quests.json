@@ -1,0 +1,90 @@
+{
+  "_source": "First-release quests. Names and beats follow the client's canon: The Welcome and The First Column (Aug 2026 walkthrough + dissection 13), The Seed (story-for-seed trade, ruled Sep 10), The Wolf and the Welcome, The Hands That Remember, The Metal That Sings (dissection 14). The Unstrung Echo is a proposed harmonization tutorial until the client's dissonant-being list arrives (marked proposed). Step text is plain and short; no quest markers in the world.",
+  "quests": {
+    "the_welcome": {
+      "name": "The Welcome",
+      "giver": "host",
+      "zone": "main_floor",
+      "summary": "The Host shows you the Inn's pace.",
+      "steps": [
+        { "id": "meet_host",  "text": "The Host is by the door." },
+        { "id": "see_corner", "text": "The Dragon's Geode Corner, by the hearth.", "event": "visit:geode_corner" },
+        { "id": "first_nook", "text": "Find a nook. Sit a while.", "event": "nook_complete" }
+      ],
+      "reward": { "stones": ["clear_quartz"], "song_points": 4, "achievement": "FIRST_CHIME", "chronicle": "Sat in a nook for the first time. The geode chimed." }
+    },
+    "unstrung_echo": {
+      "name": "The Unstrung Echo",
+      "proposed": true,
+      "giver": "host",
+      "zone": "main_floor",
+      "requires": ["the_welcome"],
+      "summary": "Something in the geode hums a note it can't hold. It isn't an enemy.",
+      "steps": [
+        { "id": "find",      "text": "The restless light in the Geode Corner.", "event": "visit:geode_corner" },
+        { "id": "harmonize", "text": "Answer its note with a stone.", "event": "harmonized:unstrung_echo" }
+      ],
+      "reward": { "song_points": 6, "achievement": "FIRST_HARMONY", "chronicle": "Answered the Unstrung Echo. It stays close now." }
+    },
+    "the_first_column": {
+      "name": "The First Column",
+      "giver": "ragana",
+      "zone": "main_floor",
+      "requires": ["the_welcome"],
+      "summary": "The Ragana hands you a blank notebook.",
+      "steps": [
+        { "id": "take_book", "text": "The Ragana's reading table, in the Library Nook." },
+        { "id": "observe",   "text": "Three things noticed at the Campgrounds, written down.", "event": "journal:campgrounds:3" },
+        { "id": "return",    "text": "The notebook goes back to the Ragana." }
+      ],
+      "reward": { "unlock": "ragana_lens", "song_points": 4, "achievement": "ADEQUATE", "chronicle": "The Ragana wrote Adequate in the margin." }
+    },
+    "the_seed": {
+      "name": "The Seed",
+      "giver": "catalyst",
+      "zone": "main_floor",
+      "summary": "A seed for a story. Any story.",
+      "steps": [
+        { "id": "tell",  "text": "A story told at the bar." },
+        { "id": "plant", "text": "The seed goes in the garden behind the bar.", "event": "seed:planted" },
+        { "id": "grow",  "text": "Patience. The garden grows things that can't grow anywhere else.", "event": "seed:grown" }
+      ],
+      "reward": { "unlock": "catalysts_recipe", "song_points": 4, "chronicle": "A story became a seed, and the seed became a friend." }
+    },
+    "the_wolf_and_the_welcome": {
+      "name": "The Wolf and the Welcome",
+      "giver": "jay",
+      "zone": "campgrounds",
+      "summary": "The wolf is acting strangely at the treeline.",
+      "steps": [
+        { "id": "treeline", "text": "The wolf, at the treeline.", "event": "visit:treeline" },
+        { "id": "tracks",   "text": "Tracks into the woods.", "event": "tracks:3" },
+        { "id": "clearing", "text": "Wherever the tracks lead.", "event": "visit:travelers_clearing" },
+        { "id": "return",   "text": "Jay, back at the tavern." }
+      ],
+      "reward": { "unlocks": ["wolfs_whistle", "jays_ale_recipe"], "song_points": 4, "achievement": "WOLFS_WHISTLE", "chronicle": "The travelers tried the tavern, not the Inn. The wolf came along." }
+    },
+    "the_hands_that_remember": {
+      "name": "The Hands That Remember",
+      "giver": "luna",
+      "zone": "campgrounds",
+      "summary": "Luna recognizes a stone you carry.",
+      "steps": [
+        { "id": "recognized", "text": "Luna's bench." },
+        { "id": "give",       "text": "The stone, if you choose to give it." }
+      ],
+      "reward": { "song_points": 5, "chronicle": "A commission years old, finished by a stranger's find." }
+    },
+    "the_metal_that_sings": {
+      "name": "The Metal That Sings",
+      "giver": "blacksmith",
+      "zone": "campgrounds",
+      "summary": "The Blacksmith teaches you to hear metal ring true.",
+      "steps": [
+        { "id": "chord", "text": "The anvil, struck.", "event": "forge:chord" },
+        { "id": "tune",  "text": "A finding tuned to a stone, at the anvil.", "event": "forge:tuned" }
+      ],
+      "reward": { "unlock": "metal_findings", "song_points": 4, "chronicle": "The metal sang when it matched." }
+    }
+  }
+}

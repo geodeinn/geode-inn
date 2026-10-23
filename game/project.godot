@@ -1,0 +1,44 @@
+; Engine configuration file.
+; Godot 4.7.2 stable. Edit in the editor or by hand; keep keys sorted by section.
+
+config_version=5
+
+[application]
+
+config/name="The Geode Inn"
+config/description="A cozy, music-driven exploration MMO set inside a living tree."
+config/version="0.2.1"
+run/main_scene="res://scenes/main_menu.tscn"
+config/features=PackedStringArray("4.7", "GL Compatibility")
+config/icon="res://icon.svg"
+
+[autoload]
+
+EventBus="*res://scripts/autoload/event_bus.gd"
+GameData="*res://scripts/autoload/game_data.gd"
+Settings="*res://scripts/autoload/settings.gd"
+AudioDirector="*res://scripts/autoload/audio_director.gd"
+PlayerState="*res://scripts/autoload/player_state.gd"
+SongState="*res://scripts/autoload/song_state.gd"
+QuestManager="*res://scripts/autoload/quest_manager.gd"
+Services="*res://scripts/autoload/services.gd"
+Net="*res://scripts/autoload/net.gd"
+SceneRouter="*res://scripts/autoload/scene_router.gd"
+
+[display]
+
+window/size/viewport_width=1280
+window/size/viewport_height=720
+window/stretch/mode="canvas_items"
+window/stretch/aspect="expand"
+
+[physics]
+
+common/physics_ticks_per_second=60
+
+[rendering]
+
+renderer/rendering_method="gl_compatibility"
+renderer/rendering_method.mobile="gl_compatibility"
+textures/vram_compression/import_etc2_astc=true
+environment/defaults/default_clear_color=Color(0.07, 0.055, 0.04, 1)

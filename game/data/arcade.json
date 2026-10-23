@@ -1,0 +1,372 @@
+{
+ "_source": "The 61 arcade titles from the client's live MarketItem snapshot (core-files/entities/market_items_all_61_games.json), via tools/convert_client_data.py. The cabinets stand on the Main Floor; the games themselves are the client's web beta games and get ported later.",
+ "corner_of_honor": "game_standing_stones",
+ "games": [
+  {
+   "id": "game_andean_run",
+   "title": "Andean Run",
+   "zone": "Peru",
+   "stones": "Blue Opal"
+  },
+  {
+   "id": "game_monster_of_the_deep",
+   "title": "Monster of the Deep",
+   "zone": "Water",
+   "stones": "Freshwater Pearl"
+  },
+  {
+   "id": "game_standing_stones",
+   "title": "Standing Stones",
+   "zone": "Stonehenge",
+   "stones": "Preseli Blue Stone"
+  },
+  {
+   "id": "game_tomb_tunnel",
+   "title": "Tomb Tunnel",
+   "zone": "Egypt",
+   "stones": "Lapis Lazuli"
+  },
+  {
+   "id": "game_the_long_dark",
+   "title": "The Long Dark",
+   "zone": "Undercity",
+   "stones": "Shadow Quartz"
+  },
+  {
+   "id": "game_the_reclamation",
+   "title": "The Reclamation",
+   "zone": "Bayou",
+   "stones": "Swamp Agate"
+  },
+  {
+   "id": "game_the_signal",
+   "title": "The Signal",
+   "zone": "Cosmology",
+   "stones": "Moldavite"
+  },
+  {
+   "id": "game_tumble_run",
+   "title": "Tumble Run",
+   "zone": "Canopy",
+   "stones": "Random Stone"
+  },
+  {
+   "id": "game_bastets_herding",
+   "title": "Bastet's Herding",
+   "zone": "Egypt",
+   "stones": "Cat's Eye Chrysoberyl"
+  },
+  {
+   "id": "game_moji_maker",
+   "title": "Moji Maker",
+   "zone": "Easter Island",
+   "stones": "Obsidian"
+  },
+  {
+   "id": "game_oracles_riddles",
+   "title": "Oracle's Riddles",
+   "zone": "Parthenon",
+   "stones": "Sapphire"
+  },
+  {
+   "id": "game_rune_hunt",
+   "title": "Rune Hunt",
+   "zone": "Norse",
+   "stones": "Iolite"
+  },
+  {
+   "id": "game_sacred_scramble",
+   "title": "Sacred Scramble",
+   "zone": "Taj Mahal",
+   "stones": "Ruby"
+  },
+  {
+   "id": "game_crystal_catcher",
+   "title": "Crystal Catcher",
+   "zone": "Caverns",
+   "stones": "Tourmaline"
+  },
+  {
+   "id": "game_dragons_descent",
+   "title": "Dragon's Descent",
+   "zone": "Lost Civ",
+   "stones": "Multi-gems"
+  },
+  {
+   "id": "game_pinball",
+   "title": "Pinball",
+   "zone": "Geode Inn",
+   "stones": ""
+  },
+  {
+   "id": "game_serpent_steps",
+   "title": "Serpent Steps",
+   "zone": "Chichen Itza",
+   "stones": "Fire Opal"
+  },
+  {
+   "id": "game_treasury_match",
+   "title": "Treasury Match",
+   "zone": "Petra",
+   "stones": "Banded Agate"
+  },
+  {
+   "id": "game_wall_defense",
+   "title": "Wall Defense",
+   "zone": "Great Wall",
+   "stones": "Jade"
+  },
+  {
+   "id": "game_cave_painters_quiz",
+   "title": "Cave Painter's Quiz",
+   "zone": "Chauvet",
+   "stones": "Aragonite"
+  },
+  {
+   "id": "game_dragon_tiles",
+   "title": "Dragon Tiles",
+   "zone": "China/Japan",
+   "stones": "Jade"
+  },
+  {
+   "id": "game_temple_of_the_naga",
+   "title": "Temple of the Naga",
+   "zone": "Angkor Wat",
+   "stones": "Zircon"
+  },
+  {
+   "id": "game_canopy_city_trading",
+   "title": "Canopy City Trading",
+   "zone": "Canopy City",
+   "stones": "Luminwood"
+  },
+  {
+   "id": "game_fae_kingdom_mmo",
+   "title": "Fae Kingdom MMO",
+   "zone": "Fae Kingdom",
+   "stones": "Labradorite"
+  },
+  {
+   "id": "game_hollow_earth_rpg",
+   "title": "Hollow Earth RPG",
+   "zone": "Hollow Earth",
+   "stones": "Source Stone"
+  },
+  {
+   "id": "game_the_arcana",
+   "title": "The Arcana",
+   "zone": "Cosmology",
+   "stones": "Moldavite"
+  },
+  {
+   "id": "game_tidal_caves",
+   "title": "Tidal Caves",
+   "zone": "Water Zone",
+   "stones": "Pearl"
+  },
+  {
+   "id": "game_zelda_style_world",
+   "title": "Zelda-Style World",
+   "zone": "All Zones",
+   "stones": "Multi-gems"
+  },
+  {
+   "id": "game_acropolis_in_five_lights",
+   "title": "Acropolis in Five Lights",
+   "zone": "Greece",
+   "stones": "Sapphire"
+  },
+  {
+   "id": "game_bayou_reclamation",
+   "title": "Bayou Reclamation",
+   "zone": "Bayou",
+   "stones": "Swamp Agate"
+  },
+  {
+   "id": "game_clockwork_skies",
+   "title": "Clockwork Skies",
+   "zone": "Clockwork",
+   "stones": "Star Iron"
+  },
+  {
+   "id": "game_egyptian_gates",
+   "title": "Egyptian Gates",
+   "zone": "Egypt",
+   "stones": "Carnelian"
+  },
+  {
+   "id": "game_fjord_of_stars",
+   "title": "Fjord of Stars",
+   "zone": "Slavic",
+   "stones": "Iolite"
+  },
+  {
+   "id": "game_ghats_of_kali",
+   "title": "Ghats of Kali",
+   "zone": "India",
+   "stones": "Ruby"
+  },
+  {
+   "id": "game_inca_terrace_lullaby",
+   "title": "Inca Terrace Lullaby",
+   "zone": "Peru",
+   "stones": "Blue Opal"
+  },
+  {
+   "id": "game_mediterranean_trade",
+   "title": "Mediterranean Trade",
+   "zone": "Mediterranean",
+   "stones": "Coral"
+  },
+  {
+   "id": "game_norse_voyage",
+   "title": "Norse Voyage",
+   "zone": "Norse",
+   "stones": "Iolite"
+  },
+  {
+   "id": "game_terracotta_army_builder",
+   "title": "Terracotta Army Builder",
+   "zone": "China",
+   "stones": "Jade"
+  },
+  {
+   "id": "game_appalachian_trail",
+   "title": "Appalachian Trail",
+   "zone": "Appalachian",
+   "stones": "Quartz"
+  },
+  {
+   "id": "game_badlands_fossil_dig",
+   "title": "Badlands Fossil Dig",
+   "zone": "Badlands",
+   "stones": "Fossil Agate"
+  },
+  {
+   "id": "game_canadian_rockies",
+   "title": "Canadian Rockies",
+   "zone": "Canadian Rockies",
+   "stones": "Jade"
+  },
+  {
+   "id": "game_colorado_plateau",
+   "title": "Colorado Plateau",
+   "zone": "Colorado",
+   "stones": "Turquoise"
+  },
+  {
+   "id": "game_redwood_cathedral",
+   "title": "Redwood Cathedral",
+   "zone": "Redwood",
+   "stones": "Petrified Wood"
+  },
+  {
+   "id": "game_superstition_mountains",
+   "title": "Superstition Mountains",
+   "zone": "Superstition",
+   "stones": "Gold"
+  },
+  {
+   "id": "game_yellowstone_geyser",
+   "title": "Yellowstone Geyser",
+   "zone": "Yellowstone",
+   "stones": "Obsidian"
+  },
+  {
+   "id": "game_alchemical_staircase",
+   "title": "Alchemical Staircase",
+   "zone": "Staircase",
+   "stones": "Philosopher's Stone"
+  },
+  {
+   "id": "game_catacomb_labyrinth",
+   "title": "Catacomb Labyrinth",
+   "zone": "Catacombs",
+   "stones": "Charon Token"
+  },
+  {
+   "id": "game_music_room_composer",
+   "title": "Music Room Composer",
+   "zone": "Music Room",
+   "stones": "Harmonic Stone"
+  },
+  {
+   "id": "game_poison_garden",
+   "title": "Poison Garden",
+   "zone": "Poison Garden",
+   "stones": "Antidote Orchid"
+  },
+  {
+   "id": "game_spiral_gallery_tour",
+   "title": "Spiral Gallery Tour",
+   "zone": "Spiral Gallery",
+   "stones": ""
+  },
+  {
+   "id": "game_frog_transformation",
+   "title": "Frog Transformation",
+   "zone": "Inn",
+   "stones": ""
+  },
+  {
+   "id": "game_whisper_layer_discovery",
+   "title": "Whisper Layer Discovery",
+   "zone": "All Zones",
+   "stones": "Echo Stone"
+  },
+  {
+   "id": "game_the_apothecarys_cure",
+   "title": "The Apothecary's Cure",
+   "zone": "Staircase",
+   "stones": "Malachite"
+  },
+  {
+   "id": "game_the_crystal_paddle",
+   "title": "The Crystal Paddle",
+   "zone": "Crystal Gardens",
+   "stones": "Beryl"
+  },
+  {
+   "id": "game_the_dream_gardener",
+   "title": "The Dream Gardener",
+   "zone": "Fae Kingdom",
+   "stones": "Dream Quartz"
+  },
+  {
+   "id": "game_the_egg_carrier",
+   "title": "The Egg Carrier",
+   "zone": "Canopy",
+   "stones": "Fire Agate"
+  },
+  {
+   "id": "game_the_forest_defense",
+   "title": "The Forest Defense",
+   "zone": "Campgrounds",
+   "stones": "Moss Agate"
+  },
+  {
+   "id": "game_the_mirrors_seven",
+   "title": "The Mirror's Seven",
+   "zone": "Poison Garden",
+   "stones": "Snowflake Obsidian"
+  },
+  {
+   "id": "game_the_noob_siege",
+   "title": "The Noob Siege",
+   "zone": "Wire Nook",
+   "stones": "Lodestone"
+  },
+  {
+   "id": "game_the_pipe_descent",
+   "title": "The Pipe Descent",
+   "zone": "Catacombs",
+   "stones": "Pipe Stone"
+  },
+  {
+   "id": "game_the_world_walker",
+   "title": "The World Walker",
+   "zone": "All Zones",
+   "stones": "Rainbow Stone"
+  }
+ ]
+}

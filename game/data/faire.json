@@ -1,0 +1,47 @@
+{
+  "_source": "Faire rental template. One template, many faires: each owner picks a layout and fills the booths, signs and colors. Live faire configs are stored by the game server (server_data/world.json); sample_faires is only for solo play, the demo and tests.",
+  "layouts": {
+    "crossroads": {
+      "name": "Crossroads",
+      "description": "Two lanes crossing at the stage. Good for big faires.",
+      "booths": [[-12, -6], [-6, -6], [6, -6], [12, -6], [-12, 6], [-6, 6], [6, 6], [12, 6]],
+      "stage": [0, 0], "pub": [-16, 0], "joust": [18, 0]
+    },
+    "lane": {
+      "name": "Market Lane",
+      "description": "One long lane of booths on both sides, stage at the far end.",
+      "booths": [[-5, -16], [5, -16], [-5, -10], [5, -10], [-5, -4], [5, -4], [-5, 2], [5, 2], [-5, 8], [5, 8]],
+      "stage": [0, -24], "pub": [-12, 6], "joust": [16, -8]
+    },
+    "ring": {
+      "name": "The Ring",
+      "description": "Booths in a circle around the stage. Cozy, for small faires.",
+      "booths": [[0, -11], [9.5, -5.5], [9.5, 5.5], [0, 11], [-9.5, 5.5], [-9.5, -5.5]],
+      "stage": [0, 0], "pub": [-17, -10], "joust": [18, 10]
+    }
+  },
+  "limits": { "faire_name_max": 48, "sign_max": 32, "owner_max": 48, "max_items_per_booth": 6, "performers_max": 8 },
+  "palettes": {
+    "royal":   ["#6b2a3a", "#d4a64a"],
+    "forest":  ["#2f4a2a", "#c9b26a"],
+    "sea":     ["#23404f", "#cfd8c4"],
+    "harvest": ["#7a4a1e", "#e0b860"]
+  },
+  "sample_faires": [
+    {
+      "id": "thistlewood_demo",
+      "faire_name": "Thistlewood Faire (demo)",
+      "owner": "Demo Owner",
+      "layout": "crossroads",
+      "palette": "forest",
+      "active_until": "2099-12-31",
+      "performers": ["The Drum Circle", "Lute in the Lane", "The Mud Show"],
+      "booths": [
+        { "sign": "Soulstice Jewelry",  "artisan": "Soulstice", "items": ["soulstice_viking_earrings", "soulstice_thistle_necklace", "soulstice_triple_moon_with_smoky_quartz_agate_and_garnet_on_a_silk_ribbon", "soulstice_limited_edition_5_strand_gemstone_necklace"] },
+        { "sign": "Stones and Bones",   "artisan": "Demo",      "items": [] },
+        { "sign": "The Mead Cart",      "artisan": "Demo",      "items": [] },
+        { "sign": "Leather and Lace",   "artisan": "Demo",      "items": [] }
+      ]
+    }
+  ]
+}

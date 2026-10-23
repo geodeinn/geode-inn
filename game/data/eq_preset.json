@@ -1,0 +1,7 @@
+{
+  "_source": "The client's EQ curve goes here (their Spotify/iTunes add-on tuning). Until they send it, every band is 0 dB so nothing is colored. Bands match Godot's 10-band EQ.",
+  "name": "Soulstice tuning (waiting for client's curve)",
+  "enabled": true,
+  "bands_hz": [31, 62, 125, 250, 500, 1000, 2000, 4000, 8000, 16000],
+  "gain_db":  [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+}
