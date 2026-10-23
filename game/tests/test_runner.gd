@@ -26,6 +26,8 @@ func _ready() -> void:
 				continue
 			_reset_state()
 			_current = "%s.%s" % [f.get_basename(), method]
+			if OS.has_environment("TEST_TRACE"):
+				print("> ", _current)
 			var suite: Object = script.new()
 			var before := failures.size()
 			if suite.has_method("setup"):
@@ -40,6 +42,8 @@ func _ready() -> void:
 		print("FAIL " + f)
 	Builder.clear_cache()
 	UITheme.clear_cache()
+	CharacterModel.clear_cache()
+	Creatures.clear_cache()
 	await get_tree().process_frame
 	get_tree().quit(0 if failures.is_empty() else 1)
 

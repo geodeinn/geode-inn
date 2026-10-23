@@ -12,6 +12,7 @@ const GRASS := Color(0.34, 0.42, 0.22)
 const DIRT := Color(0.45, 0.36, 0.24)
 const TIMBER := Color(0.38, 0.26, 0.16)
 const CANVAS := Color(0.78, 0.7, 0.55)
+const LOG := Color(0.3, 0.21, 0.13)
 const SISTERS := Vector3(0, 0, 8)
 const TREELINE := Vector3(14, 0, 12)
 const CLEARING := Vector3(33, 0, 30)
@@ -45,7 +46,23 @@ func build_world() -> void:
 	sun.rotation = Vector3(deg_to_rad(-50), deg_to_rad(35), 0)
 	sun.light_energy = 1.25
 	sun.light_color = Color(1.0, 0.93, 0.8)
+	sun.shadow_enabled = not Settings.low_detail()
+	sun.directional_shadow_max_distance = 45.0
 	add_child(sun)
+	Builder.skin(GRASS, "grass")
+	Builder.skin(DIRT, "forest")
+	Builder.skin(TIMBER, "planks")
+	Builder.skin(LOG, "bark", false)
+	Builder.skin(Color(0.3, 0.22, 0.14), "bark", false)       # the Inn-Tree
+	Builder.skin(Color(0.62, 0.55, 0.41), "sand", false)
+	Builder.skin(Color(0.72, 0.6, 0.32), "thatch", false)
+	Builder.skin(Color(0.55, 0.53, 0.5), "cobble")             # homestead stone
+	Builder.skin(Color(0.86, 0.8, 0.68), "plaster", false)
+	Builder.skin(Color(0.86, 0.84, 0.8), "plaster", false)     # the lighthouse
+	Builder.skin(Color(0.52, 0.5, 0.46), "rock")               # the Seven Sisters
+	Builder.skin(Color(0.42, 0.4, 0.37), "cobble", false)     # the tavern fireplace
+	Builder.skin(Color(0.35, 0.22, 0.18), "brick", false)      # the forge
+	Builder.skin(Color(0.5, 0.2, 0.15), "tiles", false)        # the tavern roof
 	Builder.box(self, Vector3(130, 0.2, 130), Vector3(0, -0.1, 0), GRASS, true, "Ground")
 	for edge in [[Vector3(130, 6, 1), Vector3(0, 3, -62)], [Vector3(130, 6, 1), Vector3(0, 3, 62)], [Vector3(1, 6, 130), Vector3(-62, 3, 0)], [Vector3(1, 6, 130), Vector3(62, 3, 0)]]:
 		_invisible_wall(edge[0], edge[1])
@@ -67,6 +84,7 @@ func build_world() -> void:
 	_gather_spots()
 	_observations()
 	_trees()
+	_dress_campgrounds()
 	for cid in ["jay", "wisteria", "luna", "blacksmith", "fortune", "zeke", "owl"]:
 		add_npc(cid)
 	_pluck = add_npc("pluck")
@@ -113,12 +131,15 @@ func _market_field() -> void:
 		stall.position = p
 		add_child(stall)
 		stall.look_at(center, Vector3.UP)
-		Builder.box(stall, Vector3(2.6, 0.9, 1.0), Vector3(0, 0.45, 0), TIMBER, true)
-		Builder.box(stall, Vector3(3.0, 0.1, 2.0), Vector3(0, 2.6, 0.3), stalls[i][1], false)
-		for x in [-1.3, 1.3]:
-			Builder.box(stall, Vector3(0.1, 2.6, 0.1), Vector3(x, 1.3, 1.1), TIMBER, false)
-		for k in 5:
-			Builder.sphere(stall, 0.07, Vector3(-1.0 + k * 0.5, 1.0, 0), Color.from_hsv(0.13 * k + i * 0.21, 0.4, 0.85), 0.8)
+		var counter := Builder.box(stall, Vector3(2.6, 0.9, 1.0), Vector3(0, 0.45, 0), TIMBER, true)
+		if Builder.dress(counter, "Stall_Cart_Empty", Vector3(0.55, -0.45, 0), PI) != null:
+			_cart_goods(stall, i)
+		else:
+			Builder.box(stall, Vector3(3.0, 0.1, 2.0), Vector3(0, 2.6, 0.3), stalls[i][1], false)
+			for x in [-1.3, 1.3]:
+				Builder.box(stall, Vector3(0.1, 2.6, 0.1), Vector3(x, 1.3, 1.1), TIMBER, false)
+			for k in 5:
+				Builder.sphere(stall, 0.07, Vector3(-1.0 + k * 0.5, 1.0, 0), Color.from_hsv(0.13 * k + i * 0.21, 0.4, 0.85), 0.8)
 		var l := Builder.label(stall, String(stalls[i][0]), Vector3(0, 3.0, 0), 36)
 		l.billboard = BaseMaterial3D.BILLBOARD_FIXED_Y
 		Interactable.make(stall, "vendor", "vendor_%d" % i, Vector3(0, 0, -1.2), "Look over the " + String(stalls[i][0]), 1.8, { "text": stalls[i][2] })
@@ -140,6 +161,7 @@ func _tavern() -> void:
 	Builder.box(self, Vector3(0.3, 1.0, 1.6), Vector3(-16, 2.9, -9), wall, true)
 	var roof := Builder.box(self, Vector3(9.0, 0.3, 7.0), Vector3(-20, 3.55, -9), Color(0.5, 0.2, 0.15), false)
 	roof.rotation.z = 0.06
+	Builder.box(self, Vector3(8.0, 0.05, 6.0), Vector3(-20, 3.38, -9), TIMBER.darkened(0.15), false, "TavernCeiling")
 	Builder.box(self, Vector3(2.4, 0.9, 0.12), Vector3(-15.75, 3.8, -9), Color(0.2, 0.13, 0.08), false)
 	var sign := Builder.label(self, "The Huntsman", Vector3(-15.65, 3.8, -9), 40, Color(0.95, 0.85, 0.6), false)
 	sign.rotation.y = PI / 2.0
@@ -156,15 +178,20 @@ func _tavern() -> void:
 	var jar := Builder.cylinder(self, 0.12, 0.3, Vector3(-18.0, 1.15, -10.6), Color(0.85, 0.88, 0.7, 0.6), false)
 	add_tap_surface(jar, "clay")
 	var keg := Builder.cylinder(self, 0.3, 0.6, Vector3(-20.0, 1.3, -10.6), Color(0.45, 0.3, 0.18), false)
+	Builder.dress(keg, "Barrel", Vector3(0, -0.3, 0), 0.0, 0.68)
 	add_tap_surface(keg, "wood")
 	# One long communal table: no private booths, you sit next to whoever's there.
 	var table := Builder.box(self, Vector3(3.6, 0.08, 1.0), Vector3(-19.4, 0.78, -7.6), TIMBER.lightened(0.15), true)
 	add_tap_surface(table, "wood")
-	for x in [-20.9, -17.9]:
-		Builder.box(self, Vector3(0.12, 0.74, 0.12), Vector3(x, 0.37, -7.6), TIMBER, false)
+	if Builder.dress(table, "Table_Large", Vector3(0, -0.78, 0)) == null:
+		for x in [-20.9, -17.9]:
+			Builder.box(self, Vector3(0.12, 0.74, 0.12), Vector3(x, 0.37, -7.6), TIMBER, false)
+	for z in [-8.25, -6.95]:
+		Builder.prop(self, "Bench", Vector3(-19.4, 0, z))
 	for i in 3:
 		var mug := Builder.cylinder(self, 0.06, 0.12, Vector3(-20.4 + i * 0.8, 0.88, -7.5), Color(0.62, 0.46, 0.32), false)
 		add_tap_surface(mug, "clay")
+		Builder.dress(mug, "Mug", Vector3(0, -0.06, 0), i * 1.7)
 	# The map wall: Jay's zone map, kept up to date with traveler reports.
 	Builder.box(self, Vector3(2.2, 1.4, 0.05), Vector3(-21.9, 1.9, -11.8), Color(0.82, 0.74, 0.55), false, "MapWall")
 	Builder.label(self, "Water Zone: rough seas this week.\nFae Kingdom: Seelie court in session.", Vector3(-21.9, 1.95, -11.75), 18, Color(0.25, 0.18, 0.1), false)
@@ -174,15 +201,18 @@ func _tavern() -> void:
 	_wolf_home = Node3D.new()
 	_wolf_home.name = "JaysWolf"
 	add_child(_wolf_home)
-	Builder.box(_wolf_home, Vector3(0.45, 0.45, 0.9), Vector3(0, 0.35, 0), Color(0.5, 0.5, 0.52), true)
-	Builder.sphere(_wolf_home, 0.22, Vector3(0, 0.65, -0.55), Color(0.55, 0.55, 0.57))
-	Builder.label(_wolf_home, "The Wolf", Vector3(0, 1.3, 0), 30)
+	Creatures.wolf(_wolf_home)
+	Builder.label(_wolf_home, "The Wolf", Vector3(0, 1.35, 0), 30)
 	# The travelers who wait at the clearing come to the tavern once Jay has said hi.
 	for i in 2:
 		var t := Node3D.new()
 		add_child(t)
-		Builder.cylinder(t, 0.3, 1.1, Vector3(0, 0.55, 0), Color(0.42 + i * 0.1, 0.38, 0.33), true, "", 0.24)
-		Builder.sphere(t, 0.2, Vector3(0, 1.32, 0), Color(0.8, 0.7, 0.6))
+		if CharacterModel.available():
+			CharacterModel.make(t, CharacterModel.PLAYER_LOOKS[5 + i])
+			_npc_body(t, 0.3, 1.75)
+		else:
+			Builder.cylinder(t, 0.3, 1.1, Vector3(0, 0.55, 0), Color(0.42 + i * 0.1, 0.38, 0.33), true, "", 0.24)
+			Builder.sphere(t, 0.2, Vector3(0, 1.32, 0), Color(0.8, 0.7, 0.6))
 		_travelers.append(t)
 
 
@@ -202,6 +232,12 @@ func _luna_tent() -> void:
 		rolled.rotation.z = PI / 2.0
 	var bench := Builder.box(self, Vector3(2.0, 0.9, 0.8), c + Vector3(0, 0.45, 0), TIMBER.lightened(0.1), true, "LunaBench")
 	add_tap_surface(bench, "wood")
+	if Builder.dress(bench, "Workbench", Vector3(0, -0.45, 0), PI) != null:
+		Builder.prop(bench, "CandleStick", Vector3(-0.7, 0.43, 0.1), 0.5)
+		Builder.prop(bench, "Coin_Pile_2", Vector3(-0.2, 0.43, 0.05), 0.9)
+		Builder.prop(bench, "Potion_1", Vector3(0.25, 0.43, -0.15))
+		for k in 3:
+			Builder.gem(bench, 0.04, Vector3(0.1 + k * 0.14, 0.47, 0.12), Color.from_hsv(0.55 + k * 0.12, 0.45, 0.95), 0.4)
 	Builder.cylinder(self, 0.15, 0.15, c + Vector3(0.6, 0.98, 0), Color(0.55, 0.5, 0.45), false)
 	# The Stone Library, by Mohs hardness.
 	Builder.box(self, Vector3(0.5, 2.0, 2.6), c + Vector3(2.7, 1.0, -0.6), TIMBER, true, "StoneLibrary")
@@ -212,10 +248,12 @@ func _luna_tent() -> void:
 	Builder.box(self, Vector3(1.8, 1.4, 0.1), c + Vector3(-2.4, 1.4, -1.6), Color(0.3, 0.22, 0.28), false, "DisplayBoard")
 	for k in 5:
 		Builder.sphere(self, 0.06, c + Vector3(-3.0 + k * 0.3, 1.5 + (k % 2) * 0.2, -1.52), Color.from_hsv(0.6 + k * 0.08, 0.5, 0.9), 2.0)
-	_commission_piece = Builder.sphere(self, 0.1, c + Vector3(-2.4, 1.0, -1.5), Color(0.55, 0.85, 0.6), 4.0, "CommissionPiece")
+	_commission_piece = Builder.gem(self, 0.09, c + Vector3(-2.4, 1.0, -1.5), Color(0.55, 0.85, 0.6), 1.2)
+	_commission_piece.name = "CommissionPiece"
 	Builder.label(self, "Wearable Songs", c + Vector3(-2.4, 2.4, -1.6), 22)
-	Builder.box(self, Vector3(0.5, 1.0, 0.4), c + Vector3(-2.2, 0.5, 1.4), TIMBER, true, "CommissionStand")
-	Builder.box(self, Vector3(0.4, 0.06, 0.3), c + Vector3(-2.2, 1.03, 1.4), Color(0.6, 0.2, 0.2), false)
+	var stand := Builder.box(self, Vector3(0.5, 1.0, 0.4), c + Vector3(-2.2, 0.5, 1.4), TIMBER, true, "CommissionStand")
+	if Builder.dress(stand, "BookStand", Vector3(0, -0.5, 0), PI) == null:
+		Builder.box(self, Vector3(0.4, 0.06, 0.3), c + Vector3(-2.2, 1.03, 1.4), Color(0.6, 0.2, 0.2), false)
 	Interactable.make(self, "observe_book", "commission_book", c + Vector3(-2.2, 0, 2.0), "Read the Commission Book", 1.3)
 	Builder.label(self, "Luna's Tent", c + Vector3(0, 3.8, 0), 40)
 	add_nook("luna_watch", c + Vector3(0, 0, 2.2), 0.0, "Sit and watch Luna work")
@@ -229,11 +267,18 @@ func _forge() -> void:
 	var c := Vector3(22, 0, 0)
 	Builder.box(self, Vector3(3, 2.2, 2.4), c + Vector3(1.2, 1.1, 1.4), Color(0.35, 0.22, 0.18), true, "Forge")
 	Builder.flame(self, c + Vector3(1.2, 0.8, 0.05), 0.24)
-	var fl := Builder.omni(self, c + Vector3(1.2, 1.6, -0.6), Color(1.0, 0.5, 0.2), 2.0, 7.0)
+	var fl := Builder.omni(self, c + Vector3(1.2, 1.6, -0.6), Color(1.0, 0.5, 0.2), 1.2, 6.0)
 	fl.add_to_group("circle_dim")
 	var anvil := Builder.box(self, Vector3(0.9, 0.5, 0.4), c + Vector3(-0.8, 0.75, 0.6), Color(0.25, 0.25, 0.28), true, "Anvil")
 	add_tap_surface(anvil, "metal")
-	Builder.box(self, Vector3(0.4, 0.5, 0.3), c + Vector3(-0.8, 0.25, 0.6), TIMBER, false)
+	if Builder.dress(anvil, "Anvil_Log", Vector3(0, -0.75, 0)) == null:
+		Builder.box(self, Vector3(0.4, 0.5, 0.3), c + Vector3(-0.8, 0.25, 0.6), TIMBER, false)
+	Builder.prop(self, "WeaponStand", c + Vector3(-2.4, 0, 2.2), 0.3)
+	Builder.prop(self, "Whetstone", c + Vector3(0.0, 0, 3.4), PI)
+	Builder.prop(self, "Barrel", c + Vector3(3.0, 0, 2.9), 0.2)
+	Builder.prop(self, "Bucket_Metal", c + Vector3(-1.7, 0, 1.1))
+	Builder.prop(self, "Chain_Coil", c + Vector3(2.7, 0, 0.2), 1.0)
+	Builder.prop(self, "Crate_Metal", c + Vector3(3.1, 0, 4.0), 0.4)
 	Interactable.make(self, "anvil", "anvil", c + Vector3(-0.8, 0, -0.4), "Strike the anvil", 1.4)
 	Interactable.make(self, "workbench", "forge_fire", c + Vector3(1.2, 0, -0.9), "Fire something in the forge", 1.4, { "station": "forge" })
 	# The Metal Library: every metal in the jewelry system, with its frequency.
@@ -263,7 +308,7 @@ func _woods() -> void:
 	cl.add_to_group("circle_dim")
 	for i in 4:
 		var ang := i * TAU / 4.0 + 0.4
-		var log := Builder.cylinder(self, 0.22, 1.6, CLEARING + Vector3(cos(ang) * 2.2, 0.22, sin(ang) * 2.2), TIMBER.darkened(0.1), true)
+		var log := Builder.cylinder(self, 0.22, 1.6, CLEARING + Vector3(cos(ang) * 2.2, 0.22, sin(ang) * 2.2), LOG, true)
 		log.rotation = Vector3(0, -ang, PI / 2.0)
 		add_tap_surface(log, "wood")
 	Builder.label(self, "The Traveler's Clearing", CLEARING + Vector3(0, 2.4, 0), 34)
@@ -280,8 +325,14 @@ func _woods() -> void:
 ## The loch, the dock, the lighthouse light: the first sky meets the first
 ## tide. Zeke's tide chart is the player's first clock.
 func _shore() -> void:
-	Builder.box(self, Vector3(60, 0.04, 8), Vector3(-40, 0.02, 16), Color(0.78, 0.7, 0.5), false, "Sand")
+	Builder.box(self, Vector3(60, 0.04, 8), Vector3(-40, 0.02, 16), Color(0.62, 0.55, 0.41), false, "Sand")
 	_water = Builder.box(self, Vector3(60, 0.06, 50), Vector3(-40, 0.04, 45), Color(0.16, 0.32, 0.42, 0.85), false, "Loch")
+	var water := StandardMaterial3D.new()
+	water.albedo_color = Color(0.08, 0.2, 0.25, 0.9)
+	water.transparency = BaseMaterial3D.TRANSPARENCY_ALPHA
+	water.roughness = 0.08
+	water.metallic_specular = 0.6
+	(_water as MeshInstance3D).material_override = water
 	# The water's edge holds the shore; the dock is the way out over it.
 	_invisible_wall(Vector3(44.6, 3, 0.4), Vector3(-37.7, 1.5, 20.2))
 	_invisible_wall(Vector3(2.6, 3, 0.4), Vector3(-11.3, 1.5, 20.2))
@@ -334,20 +385,23 @@ func _seven_sisters() -> void:
 		var stone := Builder.box(self, Vector3(0.9, 2.5 + (i % 2) * 0.4, 0.55), c + Vector3(cos(ang) * 4.5, 1.3, sin(ang) * 4.5), Color(0.52, 0.5, 0.46), true, "Sister%d" % i)
 		stone.rotation.y = -ang
 		add_tap_surface(stone, "stone", float(tones[i]) if i < tones.size() else 330.0, i)
+		_standing_stone(stone, 2.5 + (i % 2) * 0.4, i)
 	var outlier := Builder.box(self, Vector3(1.0, 2.9, 0.7), c + Vector3(0, 1.45, 9.5), Color(0.5, 0.48, 0.43), true, "Sister6")
 	outlier.rotation.z = -0.06
 	add_tap_surface(outlier, "stone", float(tones[6]) if tones.size() > 6 else 494.0, 6)
+	_standing_stone(outlier, 2.9, 6)
 	for i in 6:
 		var ang := i * TAU / 6.0
-		var log := Builder.cylinder(self, 0.24, 1.8, c + Vector3(cos(ang) * 6.3, 0.24, sin(ang) * 6.3), TIMBER.darkened(0.05), true)
+		var log := Builder.cylinder(self, 0.24, 1.8, c + Vector3(cos(ang) * 6.3, 0.24, sin(ang) * 6.3), LOG, true)
 		log.rotation = Vector3(0, -ang + PI / 2.0, PI / 2.0)
 		add_tap_surface(log, "wood")
 	# A few things to play, left by the fire: the bongo, a washtub, spoons, mugs, the brownies' coconut shells.
 	var bongo := Builder.cylinder(self, 0.18, 0.35, c + Vector3(2.4, 0.18, 3.2), Color(0.62, 0.46, 0.3), false, "Bongo")
 	add_tap_surface(bongo, "hide")
 	var tub := Builder.cylinder(self, 0.4, 0.4, c + Vector3(-2.6, 0.2, 3.4), Color(0.6, 0.62, 0.64), false, "Washtub", 0.45)
+	Builder.dress(tub, "Bucket_Metal", Vector3(0, -0.2, 0), 0.0, 1.7)
 	add_tap_surface(tub, "metal")
-	var stump := Builder.cylinder(self, 0.3, 0.5, c + Vector3(-3.6, 0.25, -1.6), TIMBER.lightened(0.05), true, "Stump")
+	var stump := Builder.cylinder(self, 0.3, 0.5, c + Vector3(-3.6, 0.25, -1.6), LOG, true, "Stump")
 	add_tap_surface(stump, "wood")
 	var spoons := Builder.box(self, Vector3(0.2, 0.02, 0.05), c + Vector3(-3.6, 0.52, -1.6), Color(0.75, 0.75, 0.78), false)
 	add_tap_surface(spoons, "metal")
@@ -359,10 +413,17 @@ func _seven_sisters() -> void:
 		var ang := i * TAU / 4.0 + 0.8
 		var post := c + Vector3(cos(ang) * 8.2, 0, sin(ang) * 8.2)
 		Builder.box(self, Vector3(0.12, 2.2, 0.12), post + Vector3(0, 1.1, 0), TIMBER, false)
-		var lantern := Builder.omni(self, post + Vector3(0, 2.3, 0), Color(1.0, 0.75, 0.45), 0.9, 6.0)
+		var lantern := Builder.lantern(self, post + Vector3(0, 2.15, 0), atan2(c.x - post.x, c.z - post.z), Color(1.0, 0.75, 0.45), 0.9, 6.0)
 		lantern.add_to_group("circle_dim")
-		Builder.sphere(self, 0.1, post + Vector3(0, 2.3, 0), Color(1.0, 0.8, 0.5), 4.0)
 	Builder.label(self, "The Seven Sisters", c + Vector3(0, 3.8, 0), 40)
+
+
+## Dresses a Sister in one of the kit's rocks, stood on end and weathered.
+func _standing_stone(stone: Node3D, height: float, i: int) -> void:
+	var rock := Builder.dress(stone, "Rock_Medium_%d" % (1 + i % 3), Vector3(0, -height * 0.5, 0), i * 0.7)
+	if rock != null:
+		rock.scale = Vector3(0.3, height / 2.2, 0.2)
+		Creatures._tint_all(rock, Color(0.82, 0.82, 0.8))
 
 
 # ---------------------------------------------------------------- homestead plots
@@ -388,6 +449,14 @@ func _plots() -> void:
 	for spec in [[Vector3(-31.0, 0, -3.0), "WestBench"], [Vector3(31.5, 0, -12.0), "EastBench"]]:
 		var bench := Builder.box(self, Vector3(2.2, 0.9, 1.0), spec[0] + Vector3(0, 0.45, 0), TIMBER.lightened(0.15), true, String(spec[1]))
 		add_tap_surface(bench, "wood")
+		if Builder.dress(bench, "Workbench", Vector3(0, -0.45, 0), PI) != null:
+			Builder.prop(bench, "Workbench_Drawers", Vector3(0, -0.45, 0), PI)
+			Builder.prop(bench, "Axe_Bronze", Vector3(0.6, 0.47, 0.1), 1.4)
+			Builder.prop(bench, "Rope_1", Vector3(-0.5, 0.45, 0.0), 0.3, 0.7)
+		if Builder.dress(bench, "Workbench", Vector3(0, -0.45, 0), PI) != null:
+			Builder.prop(bench, "Workbench_Drawers", Vector3(0, -0.45, 0), PI)
+			Builder.prop(bench, "Axe_Bronze", Vector3(0.6, 0.47, 0.1), 1.4)
+			Builder.prop(bench, "Rope_1", Vector3(-0.5, 0.45, 0.0), 0.3, 0.7)
 		Builder.label(self, "Workbench", spec[0] + Vector3(0, 1.6, 0), 32)
 		Interactable.make(self, "workbench", String(spec[1]).to_lower(), spec[0] + Vector3(0, 0, 0.9), "Use the workbench", 1.6, { "station": "workbench" })
 
@@ -510,6 +579,8 @@ func _gather_spots() -> void:
 
 
 func _gather_look(it: Node3D, node_id: String) -> void:
+	if Builder.has_props() and _gather_prop(it, node_id):
+		return
 	match node_id:
 		"tree":
 			Builder.cylinder(it, 0.32, 3.2, Vector3(0, 1.6, 0), Color(0.32, 0.22, 0.13), false)
@@ -520,7 +591,7 @@ func _gather_look(it: Node3D, node_id: String) -> void:
 		"clay_bank":
 			Builder.box(it, Vector3(1.6, 0.35, 1.0), Vector3(0, 0.17, 0), Color(0.68, 0.45, 0.32), false)
 		"shore":
-			Builder.box(it, Vector3(1.8, 0.1, 1.2), Vector3(0, 0.05, 0), Color(0.9, 0.82, 0.6), false)
+			Builder.box(it, Vector3(1.8, 0.1, 1.2), Vector3(0, 0.05, 0), Color(0.62, 0.55, 0.41).darkened(0.12), false)
 		"ore_seam":
 			var seam := Builder.sphere(it, 0.6, Vector3(0, 0.3, 0), Color(0.3, 0.28, 0.32))
 			seam.scale = Vector3(1.2, 0.8, 1.0)
@@ -531,6 +602,31 @@ func _gather_look(it: Node3D, node_id: String) -> void:
 		"reeds":
 			for k in 7:
 				Builder.cylinder(it, 0.03, 1.6, Vector3(-0.6 + k * 0.2, 0.8, sin(k) * 0.3), Color(0.62, 0.6, 0.35), false)
+
+
+## The kit's plants and rocks for a gathering spot. False if there's nothing for it.
+func _gather_prop(it: Node3D, node_id: String) -> bool:
+	var turn := randf() * TAU
+	match node_id:
+		"tree":
+			Builder.prop(it, "CommonTree_%d" % (1 + absi(int(it.position.x)) % 5), Vector3.ZERO, turn, 0.62)
+		"outcrop":
+			Builder.prop(it, "Rock_Medium_%d" % (1 + absi(int(it.position.z)) % 3), Vector3.ZERO, turn, 0.42)
+		"ore_seam":
+			var rock := Builder.prop(it, "Rock_Medium_2", Vector3.ZERO, turn, 0.4)
+			Creatures._tint_all(rock, Color(0.62, 0.58, 0.66))
+			for k in 3:
+				Builder.gem(it, 0.06, Vector3(-0.3 + k * 0.3, 0.45 + (k % 2) * 0.12, -0.25), Color(0.85, 0.55, 0.28), 0.6)
+		"hemp":
+			for k in 3:
+				Builder.prop(it, "Grass_Wispy_Tall", Vector3(-0.5 + k * 0.5, 0, (k % 2) * 0.4 - 0.2), turn + k, 0.8)
+			Builder.prop(it, "Plant_1", Vector3(0.1, 0, 0.3), turn, 0.7)
+		"reeds":
+			for k in 4:
+				Builder.prop(it, "Grass_Common_Tall", Vector3(-0.6 + k * 0.4, 0, sin(k) * 0.3), turn + k, 0.9)
+		_:
+			return false
+	return true
 
 
 func gather_stone_zone() -> String:
@@ -550,7 +646,7 @@ func _observations() -> void:
 		texts[o["id"]] = o["text"]
 	for id in spots.keys():
 		var it := Interactable.make(self, "observe", id, spots[id], "Look closely", 1.4, { "text": texts.get(id, "") })
-		Builder.sphere(it, 0.07, Vector3(0, 1.6, 0), Color(1.0, 0.9, 0.6), 3.0)
+		Builder.wisp(it, 0.12, Vector3(0, 1.6, 0), Color(1.0, 0.85, 0.5))   # something worth a closer look
 
 
 func _trees() -> void:
@@ -559,6 +655,11 @@ func _trees() -> void:
 		var r := 54.0 + (i % 3) * 3.0
 		var p := Vector3(cos(ang) * r, 0, sin(ang) * r)
 		if p.x < -10.0 and p.z > 18.0:
+			continue
+		if Builder.has_props():
+			var kind := "Pine_%d" % (1 + i % 5) if i % 2 == 0 else "CommonTree_%d" % (1 + (i / 2) % 5)
+			Builder.prop(self, kind, p, i * 2.3, 1.05 + (i % 3) * 0.15)
+			Builder.solid(self, Vector3(0.8, 4.0, 0.8), p + Vector3(0, 2, 0))
 			continue
 		Builder.cylinder(self, 0.4, 4.0, p + Vector3(0, 2, 0), Color(0.3, 0.22, 0.14), true)
 		Builder.sphere(self, 2.2, p + Vector3(0, 5.0, 0), Color(0.2, 0.34, 0.16).lightened((i % 4) * 0.05))
@@ -573,8 +674,123 @@ func _trees() -> void:
 				blocked = true
 		if blocked:
 			continue
+		if Builder.has_props():
+			var kind := "TwistedTree_%d" % (1 + i % 5) if i % 3 != 2 else "CommonTree_%d" % (1 + i % 5)
+			Builder.prop(self, kind, p, i * 1.9, 0.42 if kind.begins_with("Twisted") else 0.8)
+			Builder.solid(self, Vector3(0.7, 4.0, 0.7), p + Vector3(0, 2, 0))
+			continue
 		Builder.cylinder(self, 0.35, 4.6, p + Vector3(0, 2.3, 0), Color(0.28, 0.2, 0.12), true)
 		Builder.sphere(self, 2.0, p + Vector3(0, 5.4, 0), Color(0.18, 0.3, 0.15).lightened((i % 5) * 0.04))
+
+
+# ---------------------------------------------------------------- dressing
+
+## What each cart in the Market Field has out (counter top at 0.82 m).
+func _cart_goods(stall: Node3D, i: int) -> void:
+	var top := 0.82
+	match i:
+		0:   # Stone Vendor: rough stones in crates
+			Builder.prop(stall, "FarmCrate_Empty", Vector3(-0.5, top, 0.0), 0.1)
+			for k in 5:
+				Builder.prop(stall, "Pebble_Round_%d" % (1 + k), Vector3(-0.7 + (k % 3) * 0.2, top + 0.08, -0.08 + (k / 3) * 0.15), k * 1.3, 0.35)
+			Builder.prop(stall, "Bucket_Wooden_1", Vector3(0.5, top, 0.0), 0.5)
+		1:   # Tool Vendor
+			Builder.prop(stall, "Pickaxe_Bronze", Vector3(-0.6, top + 0.05, 0.0), 0.0, 0.6).rotation.z = PI / 2.0
+			Builder.prop(stall, "Axe_Bronze", Vector3(0.1, top + 0.03, 0.0), 0.0, 0.8).rotation.z = PI / 2.0
+			Builder.prop(stall, "Key_Metal", Vector3(0.6, top, 0.05), 0.6)
+			Builder.prop(stall, "Whetstone", Vector3(1.6, 0, 0.9), 0.4, 0.6)
+		2:   # General Store
+			Builder.prop(stall, "Rope_2", Vector3(-0.6, top, 0.0), 0.2, 0.6)
+			Builder.prop(stall, "Bag", Vector3(0.1, top, 0.0), 0.8, 0.5)
+			Builder.prop(stall, "Candle_2", Vector3(0.55, top, -0.05))
+			Builder.prop(stall, "FarmCrate_Apple", Vector3(1.7, 0, 0.8), 0.3)
+		3:   # Bookmark Stall
+			Builder.prop(stall, "Book_Stack_1", Vector3(-0.6, top, 0.0), 0.3)
+			Builder.prop(stall, "Scroll_1", Vector3(-0.1, top, 0.05), 1.2)
+			Builder.prop(stall, "Book_Stack_2", Vector3(0.4, top, -0.05), 2.0)
+			Builder.prop(stall, "BookGroup_Small_3", Vector3(0.8, top, 0.0), PI)
+
+
+const PLANT_SCALE := {
+	"Bush_Common": 0.6, "Bush_Common_Flowers": 0.6, "Grass_Common_Short": 0.42, "Grass_Wispy_Short": 0.5,
+	"Flower_3_Group": 0.32, "Flower_4_Group": 0.28, "Fern_1": 0.55, "Clover_2": 0.38, "Mushroom_Common": 0.7, "Plant_7_Big": 0.9,
+}
+
+
+## Plants, stones and life around the field: bushes and flowers at the edges,
+## grass and ferns in the woods, pebbles on the paths, barrels and crates where
+## people work, lanterns by the Inn's door.
+func _dress_campgrounds() -> void:
+	if not Builder.has_props():
+		return
+	var rng := RandomNumberGenerator.new()
+	rng.seed = 4242
+	var keep_clear := [Vector3(0, 0, -19), SISTERS, Vector3(-20, 0, -9), Vector3(14, 0, -12), Vector3(22, 0, 0), CLEARING, Vector3(41.6, 0, 40.2), Vector3(-14, 0, 24), Vector3(-30, 0, 15)]
+	var free := func(p: Vector3, r: float) -> bool:
+		for c in keep_clear:
+			if Vector2(p.x - c.x, p.z - c.z).length() < r + 6.0:
+				return false
+		for i in GameData.crafting.get("plots", {}).get("ring_1", []).size():
+			if p.distance_to(plot_position(i)) < r + 4.5:
+				return false
+		if absf(p.x) < 3.0 and p.z < 10.0:
+			return false   # the main path
+		if p.x < -8.0 and p.z > 18.0:
+			return false   # the loch
+		return true
+	var picks := { "Bush_Common": [], "Bush_Common_Flowers": [], "Grass_Common_Short": [], "Grass_Wispy_Short": [], "Flower_3_Group": [],
+			"Flower_4_Group": [], "Fern_1": [], "Clover_2": [], "Mushroom_Common": [], "Plant_7_Big": [] }
+	var weights := ["Grass_Common_Short", "Grass_Common_Short", "Grass_Wispy_Short", "Grass_Common_Short", "Clover_2", "Flower_3_Group",
+			"Flower_4_Group", "Bush_Common", "Bush_Common_Flowers", "Plant_7_Big"]
+	for n in 420:
+		var p := Vector3(rng.randf_range(-52, 52), 0, rng.randf_range(-52, 52))
+		var kind: String = weights[rng.randi() % weights.size()]
+		var in_woods := p.x > 16.0 and p.z > 10.0
+		if in_woods:
+			kind = ["Fern_1", "Fern_1", "Mushroom_Common", "Grass_Wispy_Short", "Bush_Common", "Plant_7_Big"][rng.randi() % 6]
+		if not free.call(p, 0.5):
+			continue
+		var s := rng.randf_range(0.7, 1.0) * float(PLANT_SCALE.get(kind, 0.5))
+		picks[kind].append(Transform3D(Basis(Vector3.UP, rng.randf() * TAU).scaled(Vector3.ONE * s), p))
+	for kind in picks:
+		Builder.scatter(self, kind, picks[kind], 45.0)
+	# Stepping stones on the paths.
+	var stones := []
+	for k in 26:
+		var z := -24.0 + k * 1.3
+		if z > 8.0:
+			break
+		stones.append(Transform3D(Basis(Vector3.UP, rng.randf() * TAU).scaled(Vector3.ONE * 0.8), Vector3(rng.randf_range(-1.2, 1.2), 0.0, z)))
+	Builder.scatter(self, "RockPath_Round_Small_%d" % 1, stones, 50.0)
+	# Pebbles on the shore.
+	var pebbles := []
+	for k in 40:
+		pebbles.append(Transform3D(Basis(Vector3.UP, rng.randf() * TAU), Vector3(rng.randf_range(-58, -12), 0.03, rng.randf_range(12.5, 19.5))))
+	Builder.scatter(self, "Pebble_Round_2", pebbles, 40.0)
+	# The Inn's front: lanterns either side of the door, barrels on the porch, ivy on the bark.
+	for x in [-2.4, 2.4]:
+		Builder.lantern(self, Vector3(x, 3.0, -26.45), 0.0, Color(1.0, 0.7, 0.4), 1.0, 8.0)
+	Builder.prop(self, "Barrel", Vector3(-3.3, 0.3, -24.0), 0.4)
+	Builder.prop(self, "Barrel_Apples", Vector3(-3.4, 0.3, -23.1), 1.2)
+	Builder.prop(self, "Crate_Wooden", Vector3(3.4, 0.3, -23.8), 0.3)
+	for x in [-11.0, -6.0, 6.5, 11.5]:
+		Builder.prop(self, "Prop_Vine%d" % (1 if x < 0 else 2), Vector3(x, 6.0, -26.48), 0.0, 1.4)
+	# The tavern: lanterns, bottles behind the bar, barrels in the corner.
+	Builder.lantern(self, Vector3(-16.18, 2.6, -11.0), -PI / 2.0, Color(1.0, 0.7, 0.4), 0.8, 6.0)
+	Builder.lantern(self, Vector3(-23.8, 2.6, -11.0), PI / 2.0, Color(1.0, 0.7, 0.4), 0.7, 6.0)
+	Builder.prop(self, "Shelf_Small_Bottles", Vector3(-19.0, 1.5, -11.84))
+	Builder.prop(self, "Barrel", Vector3(-23.3, 0.15, -11.3), 0.5)
+	Builder.prop(self, "Barrel", Vector3(-22.6, 0.15, -11.45), 1.5)
+	Builder.prop(self, "CandleStick_Triple", Vector3(-19.4, 0.82, -7.6), 0.0)
+	# The dock: Zeke's crates, rope and a barrel.
+	Builder.prop(self, "Crate_Wooden", Vector3(-13.3, 0.3, 30.5), 0.3, 0.8)
+	Builder.prop(self, "Barrel", Vector3(-14.7, 0.3, 31.6), 0.0)
+	Builder.prop(self, "Rope_3", Vector3(-14.4, 0.3, 28.4), 0.7, 0.8)
+	Builder.prop(self, "Chain_Coil", Vector3(-13.6, 0.3, 23.0), 1.4, 0.7)
+	# The forge yard's cart, the Seven Sisters' wood pile, Luna's lantern.
+	Builder.prop(self, "Prop_Wagon", Vector3(26.5, 0, 6.5), 2.6)
+	Builder.prop(self, "Barrel_Holder", SISTERS + Vector3(-6.8, 0, -4.5), 0.9)
+	Builder.lantern(self, Vector3(16.9, 2.7, -14.4), -PI / 2.0, Color(1.0, 0.75, 0.45), 0.8, 7.0)
 
 
 # ---------------------------------------------------------------- live behavior
@@ -631,10 +847,18 @@ func _place_wolf_and_travelers() -> void:
 	_wolf_home.visible = not has_wolf()
 	var welcomed := QuestManager.is_done("the_wolf_and_the_welcome")
 	for i in _travelers.size():
+		var person := _travelers[i].get_node_or_null("Model") as CharacterModel
 		if welcomed:
-			_travelers[i].position = Vector3(-20.4 + i * 1.6, 0.15, -8.7)
+			# On the bench at Jay's long table, talking.
+			_travelers[i].position = Vector3(-20.4 + i * 1.6, 0.15, -8.45)
+			_travelers[i].rotation.y = PI
 		else:
 			_travelers[i].position = CLEARING + Vector3(1.6 + i * 1.0, 0, 1.4 - i * 2.2)
+			var to_fire := CLEARING - _travelers[i].position
+			_travelers[i].rotation.y = atan2(-to_fire.x, -to_fire.z)
+		if person != null:
+			person.idle_anim = "Sitting_Talking" if welcomed else "Idle"
+			person.play(person.idle_anim, 0.0)
 
 
 func whistle() -> void:

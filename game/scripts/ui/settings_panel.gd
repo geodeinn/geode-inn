@@ -29,6 +29,7 @@ func refresh() -> void:
 	_slider("Text speed", Settings.text_speed / 2.0, func(v: float) -> void: Settings.text_speed = maxf(v * 2.0, 0.2))
 	_slider("Mouse look", Settings.mouse_sensitivity, func(v: float) -> void: Settings.mouse_sensitivity = maxf(v, 0.05))
 	_toggle("Fullscreen", Settings.fullscreen, func(v: bool) -> void: Settings.fullscreen = v)
+	_toggle("Lighter graphics (for computers without a graphics card; applies to the next room)", Settings.low_detail(), func(v: bool) -> void: Settings.graphics_quality = "low" if v else "high")
 
 
 func _toggle(label_text: String, value: bool, setter: Callable) -> void:

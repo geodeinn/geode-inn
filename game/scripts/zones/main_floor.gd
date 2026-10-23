@@ -41,6 +41,10 @@ func build_world() -> void:
 		"faire_grounds": [Vector3(14.4, 0.2, 5.5), PI / 2.0],
 	}
 	Builder.environment(self, false)
+	Builder.skin(WOOD, "floor")
+	Builder.skin(DARK_WOOD, "dark_planks")
+	Builder.skin(STONE, "brick")
+	Builder.skin(BARK, "bark")
 	_room()
 	_hearth_and_staircase()
 	_bar_and_garden()
@@ -52,6 +56,7 @@ func build_world() -> void:
 	_small_door_place()
 	_ziggy_place()
 	_humble_objects()
+	_furnish()
 	for cid in ["host", "firekeeper", "catalyst", "ragana", "naut", "wanderer", "brindle", "charles"]:
 		add_npc(cid)
 	add_nook("window", Vector3(-10.7, 0, 8.4), -PI / 2.0)
@@ -90,9 +95,10 @@ func _room() -> void:
 	Builder.label(self, "The Campgrounds", Vector3(0, 3.4, 10.4), 40)
 	for x in [-6.0, 0.0, 6.0]:
 		Builder.box(self, Vector3(0.35, 0.35, 23.2), Vector3(x, 4.8, -0.75), DARK_WOOD, false)
-	for p in [Vector3(-9, 3.2, -11.8), Vector3(9, 3.2, -11.8), Vector3(-11.8, 3.0, 2), Vector3(11.8, 3.0, -1), Vector3(-6, 3.0, 10.3), Vector3(6, 3.0, 10.3)]:
-		Builder.sphere(self, 0.08, p, Color(1.0, 0.75, 0.4), 4.0)
-		Builder.omni(self, p, Color(1.0, 0.68, 0.38), 1.1, 9.0)
+	# Lanterns on the walls, each turned to face into the room.
+	for spec in [[Vector3(-9, 3.2, -11.9), 0.0], [Vector3(9, 3.2, -11.9), 0.0], [Vector3(-11.9, 3.0, 2), PI / 2.0],
+			[Vector3(11.9, 3.0, -1), -PI / 2.0], [Vector3(-6, 3.0, 10.4), PI], [Vector3(6, 3.0, 10.4), PI]]:
+		Builder.lantern(self, spec[0], spec[1])
 	# Leaded windows beside the nooks.
 	for x in [-10.6, 10.6]:
 		Builder.box(self, Vector3(1.4, 1.2, 0.08), Vector3(x, 1.9, 10.5), Color(0.25, 0.35, 0.5), false)
@@ -111,7 +117,7 @@ func _hearth_and_staircase() -> void:
 		var p := Vector3(cos(a) * 3.6, 0, -5.4 + sin(a) * 2.6)
 		if absf(p.x) > 2.6:
 			continue
-		Builder.cylinder(self, 0.35, 0.4, p + Vector3(0, 0.2, 0), Color(0.5, 0.2, 0.16), true)
+		Builder.dress(Builder.cylinder(self, 0.35, 0.4, p + Vector3(0, 0.2, 0), Color(0.5, 0.2, 0.16), true), "Stool", Vector3(0, -0.2, 0), a, 1.1)
 	Builder.label(self, "The Common Room", Vector3(0, 2.6, -3.2), 28, Color(0.85, 0.72, 0.5))
 	# The staircase rises behind the hearth in two flights to a gallery.
 	for side in [-1.0, 1.0]:
@@ -138,14 +144,20 @@ func _bar_and_garden() -> void:
 	# like the wall grew a shelf for them.
 	Builder.box(self, Vector3(4.0, 1.1, 0.8), Vector3(-6.8, 0.55, -9.2), DARK_WOOD, true, "Bar")
 	Builder.box(self, Vector3(4.2, 0.08, 1.0), Vector3(-6.8, 1.12, -9.2), WOOD.lightened(0.15), false)
-	for i in 21:
-		var c: Color = [Color(0.3, 0.55, 0.3), Color(0.55, 0.2, 0.2), Color(0.7, 0.55, 0.2), Color(0.35, 0.3, 0.6)][i % 4]
-		Builder.cylinder(self, 0.07, 0.3, Vector3(-8.6 + (i % 7) * 0.6, 1.5 + (i / 7) * 0.75, -11.92), c, false)
-		if i % 3 == 0:
-			Builder.sphere(self, 0.03, Vector3(-8.6 + (i % 7) * 0.6, 1.72 + (i / 7) * 0.75, -11.9), c.lightened(0.4), 3.0)
+	if Builder.has_props():
+		for x in [-7.9, -5.7]:
+			for y in [1.35, 2.25]:
+				Builder.prop(self, "Shelf_Small_Bottles", Vector3(x, y, -11.98))
+	else:
+		for i in 21:
+			var c: Color = [Color(0.3, 0.55, 0.3), Color(0.55, 0.2, 0.2), Color(0.7, 0.55, 0.2), Color(0.35, 0.3, 0.6)][i % 4]
+			Builder.cylinder(self, 0.07, 0.3, Vector3(-8.6 + (i % 7) * 0.6, 1.5 + (i / 7) * 0.75, -11.92), c, false)
 	Builder.label(self, "The Catalyst's Bar", Vector3(-6.8, 2.6, -9.4), 36)
 	for x in [-8.2, -6.8, -5.4]:
-		Builder.cylinder(self, 0.25, 0.75, Vector3(x, 0.38, -8.3), WOOD, true)
+		Builder.dress(Builder.cylinder(self, 0.25, 0.75, Vector3(x, 0.38, -8.3), WOOD, true), "Stool", Vector3(0, -0.38, 0), x, 1.25)
+	for spec in [["Mug", Vector3(-7.6, 1.16, -9.1)], ["Mug", Vector3(-6.1, 1.16, -9.3)], ["Bottle_1", Vector3(-5.3, 1.16, -9.35)], ["Chalice", Vector3(-8.3, 1.16, -9.3)]]:
+		Builder.prop(self, spec[0], spec[1], randf() * TAU)
+	Builder.prop(self, "Barrel_Holder", Vector3(-5.4, 0, -11.55))
 	# The impossible garden, behind the bar, on the Inn-Tree's bark. The way in
 	# is past the end of the bar; the beds line the far wall.
 	Builder.box(self, Vector3(0.3, 3.4, 3.8), Vector3(-9.3, 1.7, -10.3), BARK, true, "GardenWall")
@@ -222,10 +234,13 @@ func _market() -> void:
 		stall.position = p
 		add_child(stall)
 		stall.look_at(TRUNK + Vector3(cos(ang) * 6.0, 0, sin(ang) * 6.0), Vector3.UP)
-		Builder.box(stall, Vector3(1.8, 0.85, 0.7), Vector3(0, 0.42, 0), DARK_WOOD.lightened(0.1), true)
-		Builder.box(stall, Vector3(2.0, 0.08, 1.2), Vector3(0, 2.3, 0.2), stalls[i][2], false)
-		for k in 4:
-			Builder.sphere(stall, 0.07, Vector3(-0.6 + k * 0.4, 0.93, 0), Color.from_hsv(0.1 * k + i * 0.2, 0.5, 0.9), 1.5)
+		var counter := Builder.box(stall, Vector3(1.8, 0.85, 0.7), Vector3(0, 0.42, 0), DARK_WOOD.lightened(0.1), true)
+		if Builder.dress(counter, "Stall_Empty", Vector3(0, -0.42, 0), PI) != null:
+			_stall_goods(stall, i)
+		else:
+			Builder.box(stall, Vector3(2.0, 0.08, 1.2), Vector3(0, 2.3, 0.2), stalls[i][2], false)
+			for k in 4:
+				Builder.sphere(stall, 0.07, Vector3(-0.6 + k * 0.4, 0.93, 0), Color.from_hsv(0.1 * k + i * 0.2, 0.5, 0.9), 1.5)
 		var sign := Builder.label(stall, String(stalls[i][0]), Vector3(0, 2.7, -0.2), 28)
 		sign.billboard = BaseMaterial3D.BILLBOARD_FIXED_Y
 		Interactable.make(stall, "booth", "stall_%d" % i, Vector3(0, 0, -1.0), "Browse " + String(stalls[i][0]), 1.6, { "sign": stalls[i][0], "category": stalls[i][1], "items": [] })
@@ -243,21 +258,28 @@ func _market() -> void:
 		stand.position = pc[0]
 		add_child(stand)
 		Builder.cylinder(stand, 0.25, 1.0, Vector3(0, 0.5, 0), DARK_WOOD, true)
-		Builder.sphere(stand, 0.09, Vector3(0, 1.1, 0), Color(0.75, 0.85, 1.0), 2.0)
+		Builder.gem(stand, 0.08, Vector3(0, 1.1, 0), Color.from_hsv(fmod(float(String(pc[1]).hash() % 1000) / 1000.0, 1.0), 0.45, 0.95))
 		var title := String(item.get("canon_name", item.get("title", "A piece")))
 		Interactable.make(stand, "booth", "piece_" + String(pc[1]), Vector3.ZERO, "Look at " + title, 1.4, { "sign": title, "items": [String(pc[1])] })
 
 
 func _library_nook() -> void:
 	Builder.box(self, Vector3(0.3, 3.4, 5.0), Vector3(8.0, 1.7, -9.7), DARK_WOOD, true, "LibraryWall")
-	for z in [-7.4, -5.6]:
-		Builder.box(self, Vector3(0.5, 3.2, 1.7), Vector3(11.7, 1.6, z), DARK_WOOD, true)
-		for shelf in 4:
-			for b in 5:
-				var c := Color.from_hsv(fmod(z * 0.13 + b * 0.17 + shelf * 0.31, 1.0), 0.45, 0.45)
-				Builder.box(self, Vector3(0.22, 0.55, 0.26), Vector3(11.35, 0.5 + shelf * 0.75, z - 0.6 + b * 0.3), c, false)
-	for x in [8.9, 10.2]:
-		Builder.box(self, Vector3(1.2, 3.2, 0.5), Vector3(x, 1.6, -11.7), DARK_WOOD, true)
+	if Builder.has_props():
+		# Bookcases full of books along the east wall and the north wall.
+		for z in [-7.4, -5.6]:
+			_bookcase(Vector3(11.76, 0, z), -PI / 2.0)
+		for x in [8.9, 10.4]:
+			_bookcase(Vector3(x, 0, -11.76), 0.0)
+	else:
+		for z in [-7.4, -5.6]:
+			Builder.box(self, Vector3(0.5, 3.2, 1.7), Vector3(11.7, 1.6, z), DARK_WOOD, true)
+			for shelf in 4:
+				for b in 5:
+					var c := Color.from_hsv(fmod(z * 0.13 + b * 0.17 + shelf * 0.31, 1.0), 0.45, 0.45)
+					Builder.box(self, Vector3(0.22, 0.55, 0.26), Vector3(11.35, 0.5 + shelf * 0.75, z - 0.6 + b * 0.3), c, false)
+		for x in [8.9, 10.2]:
+			Builder.box(self, Vector3(1.2, 3.2, 0.5), Vector3(x, 1.6, -11.7), DARK_WOOD, true)
 	# Naut's fireplace corner.
 	Builder.box(self, Vector3(0.5, 1.5, 1.4), Vector3(11.7, 0.75, -10.0), Color(0.3, 0.26, 0.24), true, "NautFire")
 	Builder.flame(self, Vector3(11.3, 0.0, -10.0), 0.15)
@@ -266,6 +288,13 @@ func _library_nook() -> void:
 	Builder.box(self, Vector3(1.4, 0.06, 0.9), Vector3(9.6, 0.78, -5.4), WOOD.lightened(0.1), true)
 	Builder.box(self, Vector3(0.1, 0.76, 0.1), Vector3(9.6, 0.38, -5.4), DARK_WOOD, false)
 	Builder.box(self, Vector3(0.35, 0.05, 0.25), Vector3(9.4, 0.83, -5.4), Color(0.85, 0.8, 0.68), false)
+	Builder.prop(self, "CandleStick", Vector3(10.05, 0.81, -5.6), 0.4)
+	Builder.prop(self, "Book_Stack_1", Vector3(9.95, 0.81, -5.15), 0.2)
+	Builder.prop(self, "Scroll_2", Vector3(9.2, 0.81, -5.1), 1.2)
+	Builder.prop(self, "Chair_1", Vector3(9.6, 0, -4.55), PI)
+	Builder.prop(self, "BookStand", Vector3(8.6, 0, -7.6), PI / 2.0)
+	Builder.prop(self, "Chair_1", Vector3(10.6, 0, -8.9), -2.2)
+	Builder.prop(self, "BookGroup_Small_2", Vector3(11.75, 1.5, -10.0), -PI / 2.0)
 	Builder.label(self, "The Library Nook", Vector3(10.0, 3.6, -6.5), 34)
 
 
@@ -289,31 +318,24 @@ func _geode_corner() -> void:
 	for i in MAX_GEMS:
 		var ang := float(i) * 2.399
 		var r := 0.25 + 0.65 * sqrt(float(i) / MAX_GEMS)
-		var gem := Builder.sphere(self, 0.05, c + Vector3(cos(ang) * r, 0.55 + 0.05 * sin(i), sin(ang) * r * 0.75), Color.from_hsv(fmod(i * 0.137, 1.0), 0.55, 1.0), 3.0)
+		var gem := Builder.gem(self, 0.06, c + Vector3(cos(ang) * r, 0.58 + 0.05 * sin(i), sin(ang) * r * 0.75), Color.from_hsv(fmod(i * 0.137, 1.0), 0.55, 1.0), 0.9)
+		gem.rotation = Vector3(randf() * 0.6, randf() * TAU, randf() * 0.6)
 		gem.visible = false
 		_gems.append(gem)
 	# The baby dragon, asleep in it, breathing at the hearth's tempo.
 	_dragon = Node3D.new()
 	_dragon.name = "BabyDragon"
-	_dragon.position = c + Vector3(0, 0.66, 0.1)
-	_dragon.scale = Vector3.ONE * 1.5
+	_dragon.position = c + Vector3(0, 0.5, 0.1)
+	_dragon.rotation.y = 0.5
 	add_child(_dragon)
-	var green := Color(0.5, 0.66, 0.4)
-	var body := Builder.sphere(_dragon, 0.32, Vector3.ZERO, green)
-	body.scale = Vector3(1.4, 0.7, 0.9)
-	Builder.sphere(_dragon, 0.17, Vector3(0.42, 0.04, 0.18), green.lightened(0.1))
-	var tail := Builder.cylinder(_dragon, 0.07, 0.8, Vector3(-0.45, -0.05, -0.2), green.darkened(0.1), false, "", 0.02)
-	tail.rotation = Vector3(0, 0.6, PI / 2.0)
-	for side in [-1.0, 1.0]:
-		var wing := Builder.box(_dragon, Vector3(0.5, 0.03, 0.28), Vector3(0.0, 0.22, side * 0.18), green.darkened(0.25), false)
-		wing.rotation.x = side * 0.5
-	Builder.label(_dragon, "zzz", Vector3(0.5, 0.5, 0.2), 22, Color(0.85, 0.85, 1.0))
+	Creatures.dragon_asleep(_dragon)
+	Builder.label(_dragon, "zzz", Vector3(0.35, 1.1, -0.3), 22, Color(0.85, 0.85, 1.0))
 	Builder.omni(self, c + Vector3(0, 1.6, 0.6), Color(0.7, 0.55, 1.0), 1.6, 7.0)
 	Builder.cylinder(self, 0.26, 0.7, Vector3(7.05, 0.35, -9.25), Color(0.4, 0.36, 0.42), true, "Pedestal")
 	Interactable.make(self, "cave", "pedestal", Vector3(6.0, 0, -9.3), "Ring your stones", 1.5)
 	Interactable.make(self, "trigger", "corner_entry", Vector3(6.0, 0, -9.4), "", 1.5, { "event": "visit:geode_corner" })
 	# The Unstrung Echo (proposed): a restless light that hums a note it can't hold.
-	_echo = Builder.sphere(self, 0.26, c + Vector3(-1.0, 1.4, -0.4), Builder.color("#6fc4ff"), 1.4, "UnstrungEcho")
+	_echo = Builder.wisp(self, 0.3, c + Vector3(-1.0, 1.4, -0.4), Builder.color("#6fc4ff"), "UnstrungEcho")
 	_echo.add_to_group("being_unstrung_echo")
 	_echo.add_to_group("frequency_node")
 	var it := Interactable.make(_echo, "being", "unstrung_echo", Vector3.ZERO, "Listen to the restless light", 2.6)
@@ -366,15 +388,9 @@ func _ziggy_place() -> void:
 	_ziggy.name = "Ziggy"
 	add_child(_ziggy)
 	var col := Builder.color(String(GameData.character("ziggy").get("color", "#c98a3a")))
-	var body := Builder.box(_ziggy, Vector3(0.09, 0.06, 0.22), Vector3(0, 0.03, 0), col, false)
-	body.rotation.y = 0.0
-	Builder.sphere(_ziggy, 0.055, Vector3(0, 0.05, -0.14), col.lightened(0.1))
-	Builder.box(_ziggy, Vector3(0.015, 0.03, 0.2), Vector3(0, 0.08, 0.0), col.darkened(0.2), false)
-	var tail := Builder.cylinder(_ziggy, 0.02, 0.2, Vector3(0, 0.02, 0.2), col.darkened(0.1), false, "", 0.005)
-	tail.rotation.x = PI / 2.0
-	for side in [-1.0, 1.0]:
-		var eye := Builder.sphere(_ziggy, 0.016, Vector3(side * 0.035, 0.075, -0.17), Color(0.1, 0.08, 0.05))
-		_ziggy_eyes.append(eye)
+	var gecko := Creatures.gecko(_ziggy, col)
+	for eye in gecko.find_children("Eye*", "", false, false):
+		_ziggy_eyes.append(eye as Node3D)
 	_ziggy_it = Interactable.make(_ziggy, "ziggy", "ziggy", Vector3.ZERO, "Look closer", 1.0)
 
 
@@ -424,6 +440,94 @@ func _hidden_layers() -> void:
 		var p := Vector3(randf_range(-11, 11), randf_range(0.5, 4.2), randf_range(-11, 9.5))
 		var mote := Builder.sphere(self, 0.04, p, Color(1.0, 0.85, 0.5), 5.0)
 		mote.add_to_group("nook_reveal")
+
+
+# ---------------------------------------------------------------- furnishings
+
+const BOOKCASE_SHELVES := [0.76, 1.16, 1.54, 1.92]   # shelf tops of the kit's Bookcase_2
+
+
+## A bookcase with every shelf filled (the kit's case comes empty).
+func _bookcase(pos: Vector3, yaw: float) -> void:
+	var holder := Node3D.new()
+	holder.position = pos
+	holder.rotation.y = yaw
+	add_child(holder)
+	Builder.prop(holder, "Bookcase_2", Vector3.ZERO)
+	Builder.solid(holder, Vector3(1.46, 2.5, 0.43), Vector3(0, 1.25, 0))
+	var groups := ["BookGroup_Medium_1", "BookGroup_Medium_2", "BookGroup_Medium_3"]
+	var seed := absi(int(pos.x * 7.0 + pos.z * 13.0))
+	for k in BOOKCASE_SHELVES.size():
+		Builder.prop(holder, groups[(seed + k) % 3], Vector3(0.1 * ((k % 2) * 2 - 1), BOOKCASE_SHELVES[k], 0.02))
+	Builder.prop(holder, "BookGroup_Small_1", Vector3(-0.5, 0.14, 0.04))
+
+
+## What each market stall has out on its counter.
+func _stall_goods(stall: Node3D, i: int) -> void:
+	var top := 0.82
+	match i:
+		0:   # Artifacts
+			Builder.prop(stall, "Vase_4", Vector3(-0.55, top, 0.05), 0.0, 0.45)
+			Builder.prop(stall, "Chalice", Vector3(-0.15, top, -0.05))
+			Builder.prop(stall, "Scroll_1", Vector3(0.25, top, 0.0), 0.6)
+			Builder.prop(stall, "Key_Gold", Vector3(0.55, top, -0.1), 0.4)
+		1, 2:   # Gemstone jewelry and earrings
+			Builder.prop(stall, "Coin_Pile" if i == 1 else "Coin_Pile_2", Vector3(-0.5, top, 0.0), 0.3)
+			for k in 3:
+				Builder.gem(stall, 0.05, Vector3(-0.1 + k * 0.28, top + 0.06, -0.05 + (k % 2) * 0.1), Color.from_hsv(0.12 + k * 0.27 + i * 0.4, 0.5, 0.95), 0.5)
+			Builder.prop(stall, "Pouch_Large", Vector3(0.65, top, 0.05), 2.4)
+		3:   # Celtic leatherwork
+			Builder.prop(stall, "Pouch_Large", Vector3(-0.5, top, 0.0), 0.3)
+			Builder.prop(stall, "Bag", Vector3(0.05, top, 0.0), 1.0, 0.45)
+			Builder.prop(stall, "Book_5", Vector3(0.55, top, 0.0), 0.2)
+
+
+## The Inn lived in: a long table with benches, chandeliers from the beams,
+## barrels by the door, banners over the arcade, the garden's plants, wood by
+## the hearth.
+func _furnish() -> void:
+	if not Builder.has_props():
+		return
+	# A long table down the west side of the hall, benches either side.
+	Builder.prop(self, "Table_Large", Vector3(-4.6, 0, 1.6), PI / 2.0)
+	Builder.solid(self, Vector3(1.1, 0.8, 2.85), Vector3(-4.6, 0.4, 1.6))
+	for x in [-5.3, -3.9]:
+		Builder.prop(self, "Bench", Vector3(x, 0, 1.6), PI / 2.0)
+	for spec in [["Mug", Vector3(-4.75, 0.82, 0.8)], ["Mug", Vector3(-4.4, 0.82, 2.2)], ["Table_Plate", Vector3(-4.7, 0.82, 1.5)],
+			["CandleStick_Triple", Vector3(-4.6, 0.82, 1.9)], ["Bottle_1", Vector3(-4.45, 0.82, 0.6)]]:
+		Builder.prop(self, spec[0], spec[1], randf() * TAU if spec[0] != "CandleStick_Triple" else PI / 2.0)
+	# Chandeliers hung from the beams, candles lit.
+	for p in [Vector3(0, 4.62, 4.2), Vector3(-6, 4.62, -1.0), Vector3(6, 4.62, 7.2)]:
+		Builder.prop(self, "Chandelier", p, randf() * TAU)
+		var glow := Builder.omni(self, p + Vector3(0, -1.2, 0), Color(1.0, 0.72, 0.42), 1.3, 10.0)
+		glow.add_to_group("circle_dim")
+	# Barrels and a crate by the front door, a chest under the west window.
+	Builder.prop(self, "Barrel", Vector3(-5.0, 0, 9.95), 0.3)
+	Builder.prop(self, "Barrel_Apples", Vector3(-5.8, 0, 9.85), 1.1)
+	Builder.solid(self, Vector3(1.6, 0.9, 0.8), Vector3(-5.4, 0.45, 9.9))
+	Builder.prop(self, "Crate_Wooden", Vector3(-11.3, 0, -5.2), 0.2)
+	Builder.solid(self, Vector3(0.9, 0.9, 0.9), Vector3(-11.3, 0.45, -5.2))
+	Builder.prop(self, "Chest_Wood", Vector3(8.2, 0, 9.8), PI)
+	Builder.solid(self, Vector3(1.3, 0.7, 0.8), Vector3(8.2, 0.35, 9.8))
+	# Banners over the arcade.
+	Builder.prop(self, "Banner_1", Vector3(-11.95, 4.0, -1.8), PI / 2.0)
+	Builder.prop(self, "Banner_2", Vector3(-11.95, 4.0, 2.6), PI / 2.0)
+	# Wood stacked by the hearth, a pot on the hob.
+	for k in 4:
+		var log := Builder.cylinder(self, 0.11, 0.9, Vector3(2.55 + (k % 2) * 0.24, 0.11 + (k / 2) * 0.2, -5.55 + (k / 2) * 0.1), BARK, false)
+		log.rotation.x = PI / 2.0
+	Builder.prop(self, "Pot_1_Lid", Vector3(-1.6, 0, -5.55), 0.4)
+	Builder.prop(self, "Bucket_Wooden_1", Vector3(-2.3, 0, -5.4), 1.0)
+	# The impossible garden: real plants in the beds, mushrooms in the corner.
+	for bed in _beds:
+		Builder.prop(bed, "Plant_7", Vector3(0.0, 0.35, 0.1), randf() * TAU, 0.6)
+		Builder.prop(bed, "Clover_1", Vector3(-0.35, 0.35, -0.3), randf() * TAU, 0.45)
+		Builder.prop(bed, "Fern_1", Vector3(0.35, 0.35, 0.35), randf() * TAU, 0.22)
+	Builder.prop(self, "Mushroom_Common", Vector3(-9.8, 0, -11.5), 0.5, 0.6)
+	Builder.prop(self, "Mushroom_Laetiporus", Vector3(-9.12, 1.2, -8.6), PI / 2.0, 0.35)
+	# A rack of mugs over the bar, a cabinet on the east wall.
+	Builder.prop(self, "Peg_Rack", Vector3(-6.8, 3.35, -11.98))
+	Builder.prop(self, "Cabinet", Vector3(11.8, 0, 1.6), -PI / 2.0)
 
 
 # ---------------------------------------------------------------- live behavior
@@ -561,8 +665,8 @@ func _blink(times: int) -> void:
 func on_beat(_index: int) -> void:
 	# The dragon sleeps at the hearth's tempo.
 	var tw := create_tween()
-	tw.tween_property(_dragon, "scale", Vector3(1.5, 1.59, 1.5), 0.45)
-	tw.tween_property(_dragon, "scale", Vector3.ONE * 1.5, 0.6)
+	tw.tween_property(_dragon, "scale", Vector3(1.0, 1.05, 1.02), 0.45)
+	tw.tween_property(_dragon, "scale", Vector3.ONE, 0.6)
 
 
 func _process(delta: float) -> void:

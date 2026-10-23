@@ -31,9 +31,20 @@ var _save_timer := 0.0
 var _people_count := -1
 var _chat_typing := false
 
+const SETTLE_WOOD := Color(0.3, 0.19, 0.12)
+static var CUSHION := _cushion()
+
+
+static func _cushion() -> StandardMaterial3D:
+	var m := StandardMaterial3D.new()
+	m.albedo_color = Color(0.36, 0.09, 0.08)
+	m.roughness = 0.95
+	return m
+
 
 func _ready() -> void:
 	judge = BeatJudge.new(GameData.heartbeat_bpm())
+	Builder.clear_skins()   # each zone names its own surfaces
 	build_world()
 	PlayerState.set_flag("visited_level:" + zone_id)
 	_spawn_player()
@@ -65,6 +76,17 @@ func _ready() -> void:
 	Input.mouse_mode = Input.MOUSE_MODE_VISIBLE
 	update_layers()
 	_refresh_companions()
+	if Settings.low_detail():
+		Builder.simplify_materials(self)
+		if not outdoor:
+			# One soft light from above for the people (lamps only light the room).
+			var fill := DirectionalLight3D.new()
+			fill.name = "PeopleFill"
+			fill.rotation = Vector3(deg_to_rad(-55), deg_to_rad(30), 0)
+			fill.light_color = Color(1.0, 0.78, 0.55)
+			fill.light_energy = 0.55
+			fill.light_cull_mask = Builder.PEOPLE_LAYER
+			add_child(fill)
 	if Net.is_online() and not single_player:
 		Net.register_self(PlayerState.profile.get("name", "Traveler"), zone_id)
 	on_zone_ready()
@@ -107,15 +129,31 @@ func add_npc(cid: String, pos_override := Vector3.INF) -> Node3D:
 	var root := Node3D.new()
 	root.name = "NPC_" + cid
 	root.position = pos
+	root.rotation.y = float(ch.get("yaw", 0.0))
 	add_child(root)
 	var col := Builder.color(String(ch.get("color", "#806040")))
+	var label_y := 2.0
 	var model := Builder.load_model(root, String(ch.get("model", "")))
+	var creature := String(ch.get("creature", ""))
 	if model != null:
 		Builder.play_anim(model, "idle")
+	elif not creature.is_empty() and Creatures.build(creature, root, col) != null:
+		label_y = float({ "wolf": 1.35, "owl": 0.8, "fossil_rat": 0.65, "gecko": 0.4, "dragon": 1.4 }.get(creature, 1.2))
+	elif ch.has("look") and CharacterModel.available():
+		var look: Dictionary = ch["look"]
+		var person := CharacterModel.make(root, look)
+		person.update_every = 0.1 if Settings.low_detail() else 0.0
+		Creatures.dress(cid, person)
+		var h := float(look.get("height", 1.0))
+		label_y = 1.85 * h + 0.32
+		_npc_body(root, 0.3 * maxf(h, 0.5), 1.75 * h)
+		root.add_to_group("npc_person")
+		root.set_meta("cid", cid)
+		root.set_meta("home_yaw", root.rotation.y)
 	else:
 		Builder.cylinder(root, 0.34, 1.15, Vector3(0, 0.58, 0), col, true, "", 0.27)
 		Builder.sphere(root, 0.23, Vector3(0, 1.42, 0), col.lightened(0.45))
-	Builder.label(root, String(ch.get("name", cid)), Vector3(0, 2.0, 0), 34)
+	Builder.name_tag(root, String(ch.get("name", cid)), Vector3(0, label_y, 0))
 	var portrait := String(ch.get("portrait", ""))
 	if not portrait.is_empty() and ResourceLoader.exists(portrait):
 		# A small card of the client's concept art, seen from a few steps away,
@@ -123,7 +161,7 @@ func add_npc(cid: String, pos_override := Vector3.INF) -> Node3D:
 		var card := Sprite3D.new()
 		card.texture = load(portrait)
 		card.pixel_size = 0.00042
-		card.position = Vector3(0, 2.55, 0)
+		card.position = Vector3(0, label_y + 0.55, 0)
 		card.billboard = BaseMaterial3D.BILLBOARD_FIXED_Y
 		card.visibility_range_begin = 3.2
 		card.visibility_range_end = 20.0
@@ -133,14 +171,64 @@ func add_npc(cid: String, pos_override := Vector3.INF) -> Node3D:
 	return root
 
 
+
+## A person stands in the way like a person does.
+func _npc_body(root: Node3D, radius: float, height: float) -> void:
+	var body := StaticBody3D.new()
+	body.name = "Body"
+	var cs := CollisionShape3D.new()
+	var cap := CapsuleShape3D.new()
+	cap.radius = radius
+	cap.height = maxf(height, radius * 2.0)
+	cs.shape = cap
+	cs.position.y = cap.height * 0.5
+	body.add_child(cs)
+	root.add_child(body)
+
+
+## People look at whoever comes close, and talk with their hands while they talk.
+func _update_npcs(delta: float) -> void:
+	var talking := hud.dialogue.character_id if hud.dialogue.visible else ""
+	for n in get_tree().get_nodes_in_group("npc_person"):
+		var root := n as Node3D
+		if not is_ancestor_of(root):
+			continue
+		var person := root.get_node_or_null("Model") as CharacterModel
+		if person == null:
+			continue
+		var is_talking := String(root.get_meta("cid", "")) == talking
+		var to := player.global_position - root.global_position
+		var dist := Vector2(to.x, to.z).length()
+		var near := dist < 3.2
+		if Settings.low_detail():
+			# Far away, a person holds still (posed once); near, they move again.
+			if person.frozen and (dist < 6.0 or is_talking):
+				person.set_frozen(false)
+			elif not person.frozen and dist > 7.0 and not is_talking:
+				person.set_frozen(true)
+		var yaw := float(root.get_meta("home_yaw", 0.0))
+		if is_talking or near:
+			yaw = atan2(-to.x, -to.z)
+		root.rotation.y = lerp_angle(root.rotation.y, yaw, clampf(delta * 3.0, 0.0, 1.0))
+		person.play("Idle_Talking" if is_talking else person.idle_anim)
+
+
 func add_nook(nook_id: String, pos: Vector3, yaw := 0.0, prompt := "Sit in the nook") -> Interactable:
 	var seat := Node3D.new()
 	seat.position = pos
 	seat.rotation.y = yaw
 	add_child(seat)
-	Builder.box(seat, Vector3(1.4, 0.35, 1.0), Vector3(0, 0.17, 0), Color(0.42, 0.18, 0.16), true)
-	Builder.box(seat, Vector3(1.4, 0.7, 0.2), Vector3(0, 0.5, 0.45), Color(0.36, 0.15, 0.13), true)
-	Builder.omni(seat, Vector3(0, 1.4, 0), Color(1.0, 0.7, 0.4), 0.6, 3.0)
+	# A wooden settle with a red cushion and a cushioned back.
+	Builder.box(seat, Vector3(1.4, 0.3, 1.0), Vector3(0, 0.15, 0), SETTLE_WOOD, true)
+	Builder.box(seat, Vector3(1.5, 0.95, 0.16), Vector3(0, 0.47, 0.5), SETTLE_WOOD, true)
+	for x in [-0.72, 0.72]:
+		Builder.box(seat, Vector3(0.08, 0.55, 1.0), Vector3(x, 0.42, 0), SETTLE_WOOD, false)
+	var cushion := Builder.box(seat, Vector3(1.32, 0.1, 0.9), Vector3(0, 0.35, -0.02), Color(0.46, 0.13, 0.12), false)
+	(cushion as MeshInstance3D).material_override = CUSHION
+	var back := Builder.box(seat, Vector3(1.32, 0.5, 0.08), Vector3(0, 0.66, 0.39), Color(0.46, 0.13, 0.12), false)
+	(back as MeshInstance3D).material_override = CUSHION
+	if not Settings.low_detail():
+		Builder.omni(seat, Vector3(0, 1.4, 0), Color(1.0, 0.7, 0.4), 0.6, 3.0)
 	return Interactable.make(seat, "nook", nook_id, Vector3.ZERO, prompt, 1.8)
 
 
@@ -209,6 +297,7 @@ func _process(delta: float) -> void:
 	_update_gathering()
 	_update_warmth()
 	_update_companions(delta)
+	_update_npcs(delta)
 	_update_circles(delta)
 	_update_flames()
 	_save_timer += delta
@@ -295,7 +384,10 @@ func _update_nook(delta: float) -> void:
 
 func _sit_in(nook: Interactable) -> void:
 	_stop_gathering()
-	player.sitting = true
+	if nook.get_parent() is Node3D and nook.get_parent() != self:
+		player.sit_on(nook.get_parent() as Node3D)
+	else:
+		player.sitting = true
 	_nook = nook
 	_nook_time = 0.0
 	_looked_this_sit = false
@@ -694,7 +786,7 @@ func _refresh_companions() -> void:
 	_companions.clear()
 	var i := 0
 	for name_id in PlayerState.profile["companions"]:
-		var orb := Builder.sphere(self, 0.13, player.global_position + Vector3(0.8, 1.6, 0), _companion_color(String(name_id)), 1.2, "Companion_" + String(name_id))
+		var orb := Builder.wisp(self, 0.16, player.global_position + Vector3(0.8, 1.6, 0), _companion_color(String(name_id)), "Companion_" + String(name_id))
 		orb.set_meta("slot", i)
 		_companions.append(orb)
 		i += 1
@@ -714,8 +806,7 @@ func whistle() -> void:
 	_wolf.name = "WhistledWolf"
 	add_child(_wolf)
 	_wolf.global_position = player.global_position + Vector3(6, 0, 6)
-	Builder.box(_wolf, Vector3(0.45, 0.45, 0.9), Vector3(0, 0.35, 0), Color(0.5, 0.5, 0.52), false)
-	Builder.sphere(_wolf, 0.22, Vector3(0, 0.65, -0.55), Color(0.55, 0.55, 0.57))
+	Creatures.wolf(_wolf)
 	hud.toast("The wolf comes running.")
 
 
@@ -736,7 +827,11 @@ func _update_companions(delta: float) -> void:
 			var next := _wolf.global_position.lerp(to, clampf(delta * 2.5, 0.0, 1.0))
 			if next.distance_to(_wolf.global_position) > 0.001:
 				_wolf.look_at(Vector3(to.x, _wolf.global_position.y, to.z), Vector3.UP)
+			var pace := next.distance_to(_wolf.global_position) / maxf(delta, 0.001)
 			_wolf.global_position = next
+			Creatures.play(_wolf, "Walking", clampf(pace / 1.5, 0.6, 2.2))
+		else:
+			Creatures.play(_wolf, "Idle")
 
 
 # ---------------------------------------------------------------- other players
@@ -751,6 +846,8 @@ func _on_snapshot(_list: Array) -> void:
 			add_child(rp)
 			rp.setup(int(id), String(entry.get("name", "?")))
 			rp.position = entry.get("pos", Vector3.ZERO)
+			if Settings.low_detail():
+				Builder.simplify_materials(rp)
 			remote_nodes[id] = rp
 		(remote_nodes[id] as RemotePlayer).apply(entry)
 	for id in remote_nodes.keys():

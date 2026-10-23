@@ -4,3 +4,7 @@
 *.wav binary
 *.ogg binary
 *.glb binary
+*.gltf binary
+*.bin binary
+*.fbx binary
+*.hdr binary

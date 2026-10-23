@@ -37,9 +37,14 @@ a number or a line, the game uses it as written.
 | Steam | Achievements and cloud saves through GodotSteam when it's installed and an App ID is set; safe no-ops otherwise |
 | Saves | Local JSON (and Steam Cloud when on), with migration for older saves |
 
-Placeholders: every model is simple shapes built in code until the in-game art
-exists. Characters show the client's concept portraits in dialogue and above
-their heads.
+Art: since 0.3 the world uses free CC0 art (Quaternius, Poly Haven; one CC-BY
+model, the barn owl). Every cast member is a dressed, animated person with
+their own look; the wolf, the sleeping baby dragon and the owl are real models;
+walls, floors, roofs and ground are textured; the zones are furnished and
+planted. Details and how to swap in the client's own art: `docs/ART_PIPELINE.md`.
+Licenses and credits: `CREDITS.md`. The client's concept portraits still show in
+dialogue and above heads. Settings has "Lighter graphics" (fewer plants, no sun
+shadows, 3D at 75%); it turns itself on for computers without a graphics card.
 
 ## Run it
 
@@ -55,10 +60,11 @@ E / A use, C / Y sit, Space / X tap, G geode, J journal, T talk, Esc menu.
 ## Tests
 
 ```
-powershell -File tools\run_tests.ps1      # 104 headless tests: data, canon rules, systems, quests, zones, gameplay
+powershell -File tools\run_tests.ps1      # 112 headless tests: data, canon rules, systems, quests, zones, gameplay, art
 powershell -File tools\run_net_test.ps1   # dedicated server + 2 clients: presence, chat, Song, taps, plots, frogs, faire save
 godot --headless --path . res://tools/check_scripts.tscn                   # every script parses
-godot --path . --rendering-driver opengl3_angle res://tools/capture.tscn   # screenshots to test_output/shots
+godot --path . --rendering-driver opengl3_angle res://tools/capture.tscn   # screenshots to test_output/shots (add -- 05_ 12_ to pick shots)
+godot --path . --rendering-driver opengl3_angle res://tools/model_preview.tscn -- all   # the cast and creatures to test_output/models
 godot --path . --rendering-driver opengl3_angle --write-movie test_output/audio/frame.png --fixed-fps 30 --quit-after 300 res://tools/audio_check.tscn
 python tools/analyze_audio.py test_output/audio/frame.wav               # checks the recorded pitches
 python -I tools/convert_client_data.py ../client-extract                # rebuilds stones, market and arcade data from the client's repo
@@ -82,7 +88,7 @@ The exported Windows build also runs as a server: `GeodeInn.exe --headless -- --
 |---|---|---|
 | Stone list | `data/stones.json` | Built from the repo by `tools/convert_client_data.py`. The game uses frequency_hz first, exactly like the site |
 | EQ curve | `data/eq_preset.json` | 10 bands (31 Hz to 16 kHz), gain in dB |
-| In-game models | `Builder.model_or_box()` | Put .glb files under `assets/models/`, add a "model" path in data; placeholders are replaced without code changes |
+| In-game models | `Builder.model_or_box()`, `Builder.prop()` | Put .glb files under `assets/models/`, add a "model" path in data; the CC0 stand-ins are replaced without code changes |
 | Character art | `data/characters.json` "portrait" | Wired for the concept images |
 | Dialogue and quests | `data/dialogue.json`, `data/quests.json` | Plain JSON, conditions, actions and choices documented at the top of each file |
 | Dissonant beings | `data/world.json` "beings" | name, zone, target_hz, companion. One proposed being for now |
@@ -103,17 +109,21 @@ scripts/autoload/   EventBus, GameData, Settings, AudioDirector, PlayerState,
                     SongState, QuestManager, Services, Net, SceneRouter
 scripts/systems/    pure rules: Harmonizer, Crafting (homestead), DrumCircle, BeatJudge,
                     Moderation (Common Room), FaireRegistry, InnCore, FinalRoomRules
-scripts/world/      Builder, Player, Interactable, RemotePlayer
+scripts/world/      Builder (surfaces, props, fire, lanterns), CharacterModel, Creatures,
+                    Player, Interactable, RemotePlayer
 scripts/ui/         HUD, PulseLine, DialogueBox, VoiceOfTheInn and the panels
 scripts/zones/      ZoneBase + Main Floor, Campgrounds, Faire, Final Room
 tests/       headless tests and the multiplayer test client
-tools/       test/build/capture/data scripts
+tools/       test/build/capture/data scripts, art import and preview tools
+assets/      CC0 characters, creatures, props, plants, textures, sky (CREDITS.md)
 ```
 
 ## Known limits
 
 - The Staircase, the Music Room's hollow, the Whisper Layer and every zone past the Campgrounds are for later releases; the arcade cabinets stand but their games (the client's web games) aren't ported yet.
 - Software-rendered screenshots only on the dev machine (no GPU); performance on real hardware not profiled yet.
+- The art is free CC0 stand-in art in one consistent style; the client's own models replace it piece by piece (see docs/ART_PIPELINE.md).
 - GodotSteam not bundled (needs the client's App ID and the GDExtension binaries); calls are wired and no-op without it.
 - Console ports need Sony/Nintendo developer access and a Godot porting partner.
-- A harmless "ObjectDB instances leaked at exit" warning prints after the test run.
+- A harmless "ObjectDB instances leaked at exit" warning prints after the test run (synthesized audio streams).
+- Without a graphics card (Windows' software renderer) the dressed world runs at a few frames a second even with Lighter graphics; any machine with a GPU is the target.

@@ -11,9 +11,18 @@ signal tap_pressed
 
 const SPEED := 4.2
 const TURN_SPEED := 10.0
+const SIT_OFFSET := Vector3(0, 0, 0.12)   # where the feet go, from the seat's centre
 
 var input_locked := false
-var sitting := false
+## Sitting on a seat puts the player on it; standing up steps them off the front.
+var sitting := false:
+	set(v):
+		if sitting and not v and _seat != null and is_instance_valid(_seat) and is_inside_tree():
+			global_position = _seat.global_transform * Vector3(0, 0, -0.9)
+		if not v:
+			_seat = null
+		sitting = v
+var _seat: Node3D
 var is_frog := false
 var speed_multiplier := 1.0
 var net_enabled := true   # off in single-player spaces like the Final Room
@@ -58,23 +67,28 @@ func _ready() -> void:
 
 
 var _model: Node3D
+var _person: CharacterModel
 
 
 func _build_body() -> void:
 	for c in _body.get_children():
 		c.queue_free()
 	_model = null
-	if not is_frog:
-		# The client's player model, when it exists: player_<class>.glb.
-		var cls := String(PlayerState.profile.get("class", "artisan_thief"))
-		_model = Builder.load_model(_body, "res://assets/models/characters/player_%s.glb" % cls)
-		if _model != null:
-			Builder.play_anim(_model, "idle")
-			return
+	_person = null
 	if is_frog:
-		Builder.sphere(_body, 0.35, Vector3(0, 0.3, 0), Color(0.35, 0.6, 0.25))
-		Builder.sphere(_body, 0.09, Vector3(-0.15, 0.6, -0.22), Color(0.95, 0.9, 0.5), 0.5)
-		Builder.sphere(_body, 0.09, Vector3(0.15, 0.6, -0.22), Color(0.95, 0.9, 0.5), 0.5)
+		Creatures.frog(_body)
+		return
+	# The client's player model, when it exists: player_<class>.glb.
+	var cls := String(PlayerState.profile.get("class", "artisan_thief"))
+	_model = Builder.load_model(_body, "res://assets/models/characters/player_%s.glb" % cls)
+	if _model != null:
+		Builder.play_anim(_model, "idle")
+		return
+	if CharacterModel.available():
+		var look: Dictionary = PlayerState.profile.get("look", {})
+		if look.is_empty():
+			look = CharacterModel.player_look(String(PlayerState.profile.get("name", "Traveler")))
+		_person = CharacterModel.make(_body, look)
 		return
 	# Selkie jeweler: dark clothes, the leather apron, a labradorite glint.
 	Builder.cylinder(_body, 0.32, 1.1, Vector3(0, 0.55, 0), Color(0.16, 0.14, 0.15), false, "", 0.26)
@@ -82,6 +96,15 @@ func _build_body() -> void:
 	Builder.sphere(_body, 0.22, Vector3(0, 1.38, 0), Color(0.86, 0.82, 0.8))
 	Builder.box(_body, Vector3(0.5, 0.18, 0.46), Vector3(0, 1.55, 0.04), Color(0.06, 0.06, 0.08), false)
 	Builder.sphere(_body, 0.05, Vector3(0.12, 0.85, -0.34), Color(0.3, 0.8, 0.85), 2.5)
+
+
+## Sits down on a seat (a nook's bench): on it, facing out the front.
+func sit_on(seat: Node3D) -> void:
+	sitting = true
+	_seat = seat
+	velocity = Vector3.ZERO
+	global_position = seat.global_transform * SIT_OFFSET
+	_body.rotation.y = seat.global_rotation.y
 
 
 func set_frog(on: bool) -> void:
@@ -167,15 +190,23 @@ func _physics_process(delta: float) -> void:
 	var speed := SPEED * (0.55 if is_frog else 1.0) * speed_multiplier
 	velocity.x = dir.x * speed
 	velocity.z = dir.z * speed
-	if not is_on_floor():
-		velocity.y -= _gravity * delta
+	if _seat != null:
+		velocity = Vector3.ZERO   # on the bench; the bench's own collision would push us off
 	else:
-		velocity.y = -0.1
-	move_and_slide()
+		if not is_on_floor():
+			velocity.y -= _gravity * delta
+		else:
+			velocity.y = -0.1
+		move_and_slide()
 	_still_time = (_still_time + delta) if dir == Vector3.ZERO else 0.0
-	_body.position.y = -0.35 if sitting and _model == null else 0.0
+	_body.position.y = -0.35 if sitting and _model == null and _person == null else 0.0
 	if _model != null:
 		Builder.play_anim(_model, "sit" if sitting else ("walk" if dir != Vector3.ZERO else "idle"))
+	elif _person != null:
+		if sitting:
+			_person.play("Sitting_Idle")
+		else:
+			_person.move_speed(Vector2(velocity.x, velocity.z).length())
 	_net_timer += delta
 	if net_enabled and _net_timer >= 0.1:
 		_net_timer = 0.0

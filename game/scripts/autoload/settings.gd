@@ -18,6 +18,9 @@ var effects_volume := 0.9
 var text_speed := 1.0          # multiplier on each character's reveal speed
 var mouse_sensitivity := 0.25
 var fullscreen := false
+## "auto" picks lighter graphics on computers without a graphics card;
+## "high" or "low" when the player chooses.
+var graphics_quality := "auto"
 var player_name := ""
 var server_address := "127.0.0.1"
 
@@ -44,6 +47,7 @@ func load_settings() -> void:
 	text_speed = cfg.get_value("game", "text_speed", text_speed)
 	mouse_sensitivity = cfg.get_value("game", "mouse_sensitivity", mouse_sensitivity)
 	fullscreen = cfg.get_value("video", "fullscreen", fullscreen)
+	graphics_quality = cfg.get_value("video", "quality", graphics_quality)
 	player_name = cfg.get_value("online", "player_name", player_name)
 	server_address = cfg.get_value("online", "server_address", server_address)
 
@@ -62,6 +66,7 @@ func save_settings() -> void:
 	cfg.set_value("game", "text_speed", text_speed)
 	cfg.set_value("game", "mouse_sensitivity", mouse_sensitivity)
 	cfg.set_value("video", "fullscreen", fullscreen)
+	cfg.set_value("video", "quality", graphics_quality)
 	cfg.set_value("online", "player_name", player_name)
 	cfg.set_value("online", "server_address", server_address)
 	cfg.save(PATH)
@@ -90,6 +95,15 @@ func effective_pulse_visual() -> bool:
 	return pulse_visual or silent_mode
 
 
+## Lighter graphics: fewer plants, no sun shadows, the 3D drawn at 75% and
+## scaled up. For computers that draw in software (no graphics card).
+func low_detail() -> bool:
+	if graphics_quality == "auto":
+		var adapter := RenderingServer.get_video_adapter_name().to_lower()
+		return "basic render" in adapter or "llvmpipe" in adapter or "swiftshader" in adapter or "software" in adapter
+	return graphics_quality == "low"
+
+
 func apply() -> void:
 	if not is_inside_tree():
 		return
@@ -97,6 +111,8 @@ func apply() -> void:
 		var mode := DisplayServer.WINDOW_MODE_FULLSCREEN if fullscreen else DisplayServer.WINDOW_MODE_WINDOWED
 		if DisplayServer.window_get_mode() != mode:
 			DisplayServer.window_set_mode(mode)
+		get_tree().root.scaling_3d_scale = 0.75 if low_detail() else 1.0
+		get_tree().root.mesh_lod_threshold = 8.0 if low_detail() else 1.0
 	EventBus.settings_changed.emit()
 
 

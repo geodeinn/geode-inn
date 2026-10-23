@@ -46,6 +46,10 @@ func build_world() -> void:
 	env.environment.ambient_light_energy = 0.12
 	env.environment.background_color = Color(0.02, 0.015, 0.01)
 	_noise.seed = randi()
+	Builder.skin(STONE_WARM, "cobble")
+	Builder.skin(Color(0.33, 0.21, 0.12), "floor")
+	Builder.skin(Color(0.42, 0.28, 0.16), "floor")
+	Builder.skin(Color(0.38, 0.24, 0.13), "planks")
 	_noise.frequency = 1.7
 	_corridor()
 	_room()
@@ -106,7 +110,9 @@ func _fireplace() -> void:
 		var log := Builder.cylinder(self, 0.06, 0.7, Vector3(-0.15 + i * 0.15, y + 0.1, z + 0.18), Color(0.25, 0.15, 0.08), false)
 		log.rotation.z = PI / 2.0
 		log.rotation.y = 0.3 * (i - 1)
-	_fire_core = Builder.sphere(self, 0.13, Vector3(0, y + 0.28, z + 0.2), Color(1.0, 0.48, 0.12), 2.2, "Fire")
+	_fire_core = Builder.sphere(self, 0.13, Vector3(0, y + 0.16, z + 0.2), Color(0.9, 0.3, 0.07), 1.3, "Fire")
+	_fire_core.scale = Vector3(1.4, 0.45, 1.0)   # embers; the flames rise off them
+	Builder.flames(self, Vector3(0, y + 0.2, z + 0.2), 0.22)
 	# The only light.
 	_fire_light = Builder.omni(self, Vector3(0, y + 0.55, z + 0.55), Color(1.0, 0.58, 0.26), 0.9, 5.0)
 
@@ -251,7 +257,7 @@ func _process(delta: float) -> void:
 	var n := _noise.get_noise_1d(_time * 3.0)
 	var m := _noise.get_noise_1d(_time * 7.3 + 100.0)
 	_fire_light.light_energy = 0.85 + n * 0.25 + m * 0.08
-	_fire_core.scale = Vector3(1.0, 1.6, 1.0) * (1.0 + n * 0.18)
+	_fire_core.scale = Vector3(1.4, 0.45, 1.0) * (1.0 + n * 0.18)   # the embers breathe
 	_fire_core.position.x = m * 0.03
 	_crackle_wait -= delta
 	if _crackle_wait <= 0.0:

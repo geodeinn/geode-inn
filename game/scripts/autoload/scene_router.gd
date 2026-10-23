@@ -52,7 +52,15 @@ func run_smoke_test() -> void:
 		await get_tree().create_timer(2.5).timeout
 		var scene := get_tree().current_scene
 		var ok := scene != null and scene.get("player") != null
-		print("[smoke] %s %s" % [zone, "OK" if ok else "FAILED"])
+		# The art made it into the build: dressed people and the kits' props, not stand-in shapes.
+		var people := scene.find_children("*", "CharacterModel", true, false).size() if scene else 0
+		var props := 0
+		if scene:
+			for n in scene.find_children("*", "Node3D", true, false):
+				if not String(n.scene_file_path).is_empty() and String(n.scene_file_path).begins_with("res://assets/"):
+					props += 1
+		ok = ok and people >= 1 and (props >= 5 or zone == "final_room")
+		print("[smoke] %s %s (%d people, %d models)" % [zone, "OK" if ok else "FAILED", people, props])
 		if not ok:
 			get_tree().quit(1)
 			return

@@ -8,6 +8,8 @@ var target_yaw := 0.0
 var is_frog := false
 var _body: Node3D
 var _label: Label3D
+var _person: CharacterModel
+var _look_name := ""
 
 
 func setup(id: int, display_name: String) -> void:
@@ -15,7 +17,8 @@ func setup(id: int, display_name: String) -> void:
 	name = "Remote_%d" % id
 	_body = Node3D.new()
 	add_child(_body)
-	_label = Builder.label(self, display_name, Vector3(0, 2.15, 0), 40, Color(0.85, 0.92, 1.0))
+	_label = Builder.name_tag(self, display_name, Vector3(0, 2.15, 0), Color(0.85, 0.92, 1.0))
+	_look_name = display_name
 	_rebuild()
 
 
@@ -32,13 +35,22 @@ func apply(entry: Dictionary) -> void:
 func _rebuild() -> void:
 	for c in _body.get_children():
 		c.queue_free()
+	_person = null
 	if is_frog:
-		Builder.sphere(_body, 0.35, Vector3(0, 0.3, 0), Color(0.35, 0.6, 0.25))
+		Creatures.frog(_body)
+		return
+	if CharacterModel.available():
+		_person = CharacterModel.make(_body, CharacterModel.player_look(_look_name))
+		_person.update_every = 0.1 if Settings.low_detail() else 0.0
 		return
 	Builder.cylinder(_body, 0.32, 1.1, Vector3(0, 0.55, 0), Color(0.22, 0.24, 0.3), false, "", 0.26)
 	Builder.sphere(_body, 0.22, Vector3(0, 1.38, 0), Color(0.82, 0.76, 0.7))
 
 
 func _process(delta: float) -> void:
+	var before := position
 	position = position.lerp(target_pos, clampf(delta * 10.0, 0.0, 1.0))
 	_body.rotation.y = lerp_angle(_body.rotation.y, target_yaw, clampf(delta * 10.0, 0.0, 1.0))
+	if _person != null:
+		var moved := Vector2(position.x - before.x, position.z - before.z).length()
+		_person.move_speed(moved / maxf(delta, 0.001))

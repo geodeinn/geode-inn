@@ -15,6 +15,8 @@ func _ready() -> void:
 	DirAccess.make_dir_recursive_absolute(ProjectSettings.globalize_path(OUT))
 	var win := get_window()
 	win.unfocusable = true
+	# Screenshots show the full detail, unless asked for the lighter look (-- low).
+	Settings.graphics_quality = "low" if "low" in OS.get_cmdline_user_args() else "high"
 	win.mouse_passthrough = true
 	win.size = Vector2i(96, 64)
 	win.position = Vector2i(0, 0)
@@ -151,6 +153,11 @@ func _ready() -> void:
 	await _shot_zone("main_floor", "door", "30_the_hearth_fire", func(z: Node) -> void:
 		z.player.global_position = Vector3(0.0, 0.2, -1.6)
 		z.player.set_view(0.0, -0.2))
+	await _shot_zone("main_floor", "door", "31_sitting_by_the_fire", func(z: Node) -> void:
+		for it in z.get_tree().get_nodes_in_group("interactable"):
+			if it.kind == "nook" and it.id == "hearth_w":
+				z.handle_interaction(it)
+		z.player.set_view(PI * 0.75, -0.32))
 	print("[capture] done")
 	get_tree().quit(0)
 
@@ -162,6 +169,12 @@ func _shot_zone(zone: String, spawn: String, file_name: String, setup: Callable,
 
 
 func _shot_scene(path: String, file_name: String, setup: Callable, frames := 40, seconds := 0.0) -> void:
+	# Optional filter: capture.tscn -- 05_ 09_ shoots only the matching shots.
+	var only := OS.get_cmdline_user_args()
+	only = only.duplicate()
+	only.erase("low")
+	if not only.is_empty() and not Array(only).any(func(s: String) -> bool: return file_name.contains(s)):
+		return
 	var scene: PackedScene = load(path)
 	var node: Node = scene.instantiate()
 	_vp.add_child(node)
