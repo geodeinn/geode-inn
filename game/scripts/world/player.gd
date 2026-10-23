@@ -85,10 +85,7 @@ func _build_body() -> void:
 		Builder.play_anim(_model, "idle")
 		return
 	if CharacterModel.available():
-		var look: Dictionary = PlayerState.profile.get("look", {})
-		if look.is_empty():
-			look = CharacterModel.player_look(String(PlayerState.profile.get("name", "Traveler")))
-		_person = CharacterModel.make(_body, look)
+		_person = CharacterModel.make(_body, CharacterModel.look_of(PlayerState.profile))
 		return
 	# Selkie jeweler: dark clothes, the leather apron, a labradorite glint.
 	Builder.cylinder(_body, 0.32, 1.1, Vector3(0, 0.55, 0), Color(0.16, 0.14, 0.15), false, "", 0.26)
@@ -105,6 +102,11 @@ func sit_on(seat: Node3D) -> void:
 	velocity = Vector3.ZERO
 	global_position = seat.global_transform * SIT_OFFSET
 	_body.rotation.y = seat.global_rotation.y
+
+
+## Rebuilds the body after the player changes their look in the creator.
+func refresh_look() -> void:
+	_build_body()
 
 
 func set_frog(on: bool) -> void:

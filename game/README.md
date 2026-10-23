@@ -36,6 +36,8 @@ a number or a line, the game uses it as written.
 | Audio | Ported 1:1 from the site's audio engine: seven driver profiles, room drivers, Mohs map, 42 Hz root, 50 BPM heartbeat. Client's EQ curve on its own bus. Every sound is synthesized |
 | Steam | Achievements and cloud saves through GodotSteam when it's installed and an App ID is set; safe no-ops otherwise |
 | Saves | Local JSON (and Steam Cloud when on), with migration for older saves |
+| Your look | A character creator from New story and the pause menu: body, clothes and their colour, skin, hair and its colour, hood, beard, with a turning preview. Everyone online sees the look you chose |
+| Credits | Credits and licenses in the game (title screen and pause menu): the art's sources, the owl's CC-BY line, and Godot's license with every component it carries |
 
 Art: since 0.3 the world uses free CC0 art (Quaternius, Poly Haven; one CC-BY
 model, the barn owl). Every cast member is a dressed, animated person with
@@ -60,7 +62,7 @@ E / A use, C / Y sit, Space / X tap, G geode, J journal, T talk, Esc menu.
 ## Tests
 
 ```
-powershell -File tools\run_tests.ps1      # 112 headless tests: data, canon rules, systems, quests, zones, gameplay, art
+powershell -File tools\run_tests.ps1      # 117 headless tests: data, canon rules, systems, quests, zones, gameplay, art, release
 powershell -File tools\run_net_test.ps1   # dedicated server + 2 clients: presence, chat, Song, taps, plots, frogs, faire save
 godot --headless --path . res://tools/check_scripts.tscn                   # every script parses
 godot --path . --rendering-driver opengl3_angle res://tools/capture.tscn   # screenshots to test_output/shots (add -- 05_ 12_ to pick shots)
@@ -99,7 +101,7 @@ The exported Windows build also runs as a server: `GeodeInn.exe --headless -- --
 | Faire rentals | `server_data/rentals.json` on the server | Rows `{ key, faire_id, active_until, owner }`, picked up every 30 s |
 | Elio's nature files | `server_data/inncore/` on the server | Never in the game build |
 
-More: `docs/SERVER.md`, `docs/BASE44_FUNCTIONS.md`, `docs/ART_PIPELINE.md`.
+More: `docs/SERVER.md` (with a one-command installer, `tools/server/`), `docs/STEAM.md` (Steamworks setup, achievements, upload script `tools/steam/`), `docs/BASE44_FUNCTIONS.md`, `docs/ART_PIPELINE.md`.
 
 ## Layout
 

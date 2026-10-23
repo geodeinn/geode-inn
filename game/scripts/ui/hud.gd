@@ -19,6 +19,8 @@ var faire_editor: FaireEditorPanel
 var market: MarketPanel
 var settings: SettingsPanel
 var pause: PausePanel
+var look: LookPanel
+var credits: CreditsPanel
 var _prompt: Label
 var _song: Label
 var _quest: Label
@@ -85,10 +87,16 @@ func _ready() -> void:
 	market = _add_panel(MarketPanel.new()) as MarketPanel
 	settings = _add_panel(SettingsPanel.new()) as SettingsPanel
 	pause = _add_panel(PausePanel.new()) as PausePanel
+	look = _add_panel(LookPanel.new()) as LookPanel
+	credits = _add_panel(CreditsPanel.new()) as CreditsPanel
 	voice = VoiceOfTheInn.new()
 	root.add_child(voice)
 	pause.journal_requested.connect(func() -> void: open_panel(journal))
 	pause.settings_requested.connect(func() -> void: open_panel(settings))
+	pause.credits_requested.connect(func() -> void: open_panel(credits))
+	pause.look_requested.connect(func() -> void:
+		look.look = CharacterModel.look_of(PlayerState.profile)
+		open_panel(look))
 	faires.setup_requested.connect(func() -> void: open_panel(faire_editor))
 	EventBus.toast.connect(toast)
 	EventBus.song_changed.connect(func(_w: float, _p: float) -> void: _refresh_song())

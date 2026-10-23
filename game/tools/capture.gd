@@ -158,6 +158,12 @@ func _ready() -> void:
 			if it.kind == "nook" and it.id == "hearth_w":
 				z.handle_interaction(it)
 		z.player.set_view(PI * 0.75, -0.32))
+	await _shot_scene("res://scenes/main_menu.tscn", "32_character_creator", func(m: Node) -> void:
+		m.call("_skip_boot")
+		(m.get("_look_panel") as LookPanel).edit(CharacterModel.PLAYER_LOOKS[2]), 30, 1.0)
+	await _shot_scene("res://scenes/main_menu.tscn", "33_credits", func(m: Node) -> void:
+		m.call("_skip_boot")
+		(m.get("_credits") as CreditsPanel).open())
 	print("[capture] done")
 	get_tree().quit(0)
 

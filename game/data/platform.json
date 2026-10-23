@@ -2,6 +2,7 @@
   "_source": "Platform wiring. Fill these in when the client's accounts exist; everything falls back to offline behavior while they are empty.",
   "steam": {
     "app_id": 0,
+    "depot_windows": 0,
     "_note": "The client's Steamworks App ID. 0 means Steam is off. For local testing with the Steam client running, 480 (Valve's Spacewar test app) works with GodotSteam."
   },
   "base44": {

@@ -4,10 +4,12 @@ extends GamePanel
 
 signal journal_requested
 signal settings_requested
+signal look_requested
+signal credits_requested
 
 
 func _init() -> void:
-	super._init("The Inn waits", Vector2(420, 420))
+	super._init("The Inn waits", Vector2(420, 500))
 
 
 func refresh() -> void:
@@ -15,7 +17,9 @@ func refresh() -> void:
 	body.add_child(UITheme.text("No hurry. The Inn will be here when you're ready.", 16, UITheme.MUTED))
 	body.add_child(UITheme.button("Back to the Inn", close))
 	body.add_child(UITheme.button("Journal", func() -> void: journal_requested.emit()))
+	body.add_child(UITheme.button("Your look", func() -> void: look_requested.emit()))
 	body.add_child(UITheme.button("Settings", func() -> void: settings_requested.emit()))
+	body.add_child(UITheme.button("Credits", func() -> void: credits_requested.emit()))
 	body.add_child(UITheme.button("Save", func() -> void:
 		PlayerState.save_profile()
 		EventBus.toast.emit("Saved.")))

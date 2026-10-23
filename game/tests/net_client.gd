@@ -20,6 +20,9 @@ var _my_plot := -99
 var _plots: Array = []
 
 
+const A_LOOK := "female|ranger|teal|buns|7a3020|c89a78|0|1"
+
+
 func _ready() -> void:
 	var args := OS.get_cmdline_user_args()
 	var i := args.find("--role")
@@ -29,7 +32,8 @@ func _ready() -> void:
 	PlayerState.slot = "net_test_" + role
 	PlayerState.new_profile("Tester" + role)
 	Net.connected.connect(func() -> void:
-		Net.register_self("Tester" + role, "campgrounds")
+		# A comes dressed as a hooded ranger in teal; B must see exactly that.
+		Net.register_self("Tester" + role, "campgrounds", "", A_LOOK if role == "A" else "")
 		_pass("connected"))
 	Net.connection_failed.connect(func() -> void: _fail("connection failed"))
 	EventBus.chat_received.connect(_on_chat)
@@ -66,6 +70,8 @@ func _process(_delta: float) -> void:
 			if Net.remote_players.size() >= 1:
 				_other_id = int(Net.remote_players.keys()[0])
 				_pass("sees the other player")
+				if role == "B" and String(Net.remote_players[_other_id].get("look", "")) == A_LOOK:
+					_pass("sees the look A chose")
 				_phase = 1
 				Net.claim_plot(0)
 				if role == "A":
@@ -146,7 +152,7 @@ func _finish() -> void:
 	if role == "A":
 		want.append_array(["frogged", "plot"])
 	else:
-		want.append_array(["got A's chat", "heard A's tap", "frog chat arrives as a ribbit", "faire owner saved a faire online"])
+		want.append_array(["got A's chat", "heard A's tap", "frog chat arrives as a ribbit", "faire owner saved a faire online", "sees the look A chose"])
 	var ok := true
 	for w in want:
 		if not checks.has(w):

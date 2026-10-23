@@ -28,13 +28,13 @@ const HAIR := { "long": "Hair_Long", "buns": "Hair_Buns", "parted": "Hair_Simple
 ## Players' looks until there's a character creator: picked by name, so every
 ## client draws the same person for the same name.
 const PLAYER_LOOKS := [
-	{ "body": "female", "outfit": "peasant", "cloth_variant": "indigo", "hair": "long", "hair_color": "#1e1814" },
-	{ "body": "male", "outfit": "ranger", "cloth_variant": "2", "hair": "parted", "beard": true, "hair_color": "#3a2618" },
-	{ "body": "female", "outfit": "ranger", "cloth_variant": "teal", "hair": "buns", "hair_color": "#5a2c1c" },
+	{ "body": "female", "outfit": "peasant", "cloth_variant": "indigo", "hair": "long", "hair_color": "#141210" },
+	{ "body": "male", "outfit": "ranger", "cloth_variant": "2", "hair": "parted", "beard": true, "hair_color": "#4a3020" },
+	{ "body": "female", "outfit": "ranger", "cloth_variant": "teal", "hair": "buns", "hair_color": "#7a3020" },
 	{ "body": "male", "outfit": "peasant", "cloth_variant": "wine", "hair": "buzzed", "hair_color": "#141210", "skin": "#a87858" },
 	{ "body": "female", "outfit": "peasant", "cloth_variant": "moss", "hair": "buns", "hair_color": "#9a7a48" },
 	{ "body": "male", "outfit": "ranger", "cloth_variant": "slate", "hair": "long", "hair_color": "#4a3020" },
-	{ "body": "female", "outfit": "ranger", "cloth_variant": "crimson", "hair": "long", "hair_color": "#241a14", "skin": "#c89a78" },
+	{ "body": "female", "outfit": "ranger", "cloth_variant": "crimson", "hair": "long", "hair_color": "#2e2622", "skin": "#c89a78" },
 	{ "body": "male", "outfit": "peasant", "cloth_variant": "saffron", "hair": "parted", "beard": true, "hair_color": "#6e4a32" },
 ]
 
@@ -74,6 +74,69 @@ static func make(parent: Node, look_dict: Dictionary, node_name := "Model") -> C
 
 static func player_look(player_name: String) -> Dictionary:
 	return PLAYER_LOOKS[absi(player_name.strip_edges().to_lower().hash()) % PLAYER_LOOKS.size()]
+
+
+## What a player can choose in the character creator. Colours are the hex
+## tints the look uses (hair colours as they show; skin tints over the kit's
+## skin). Display colours are for the creator's swatches.
+const CLOTH_VARIANTS := {
+	"peasant": ["", "2", "wine", "saffron", "lavender", "indigo", "crimson", "moss"],
+	"ranger": ["", "2", "slate", "indigo", "plum", "teal", "crimson"],
+}
+const CLOTH_SWATCH := {
+	"peasant": ["#cbb88c", "#6b5a40", "#8c3446", "#d9a640", "#a68ccc", "#404c8c", "#992626", "#738c4d"],
+	"ranger": ["#40732f", "#735938", "#738099", "#404580", "#734080", "#267373", "#801f26"],
+}
+const SKIN_TINTS := ["#ffffff", "#f4e2d4", "#e0bea0", "#c89a78", "#a87858", "#7a5038"]
+const HAIR_STYLES := ["", "buzzed", "parted", "long", "buns"]
+const HAIR_COLORS := ["#141210", "#2e2622", "#4a3020", "#6e4a32", "#9a7a48", "#7a3020", "#b8b2aa", "#e6e0da"]
+
+
+## A look as a short line (for saves and the network):
+## body|outfit|cloth|hair|hair colour|skin|beard|hood
+static func encode_look(look: Dictionary) -> String:
+	var clean := sanitize_look(look)
+	return "|".join(PackedStringArray([clean["body"], clean["outfit"], clean["cloth_variant"], clean["hair"],
+		String(clean["hair_color"]).trim_prefix("#"), String(clean["skin"]).trim_prefix("#"),
+		"1" if clean["beard"] else "0", "1" if clean["hood"] else "0"]))
+
+
+## Reads a line back. Anything unknown falls back to a safe default, so a
+## hand-edited save or a crafted network message can't break a character.
+static func decode_look(code: String) -> Dictionary:
+	var f := code.substr(0, 96).split("|")
+	if f.size() < 8:
+		return {}
+	return sanitize_look({ "body": f[0], "outfit": f[1], "cloth_variant": f[2], "hair": f[3], "hair_color": "#" + f[4],
+		"skin": "#" + f[5], "beard": f[6] == "1", "hood": f[7] == "1" })
+
+
+static func sanitize_look(look: Dictionary) -> Dictionary:
+	var body := "female" if String(look.get("body", "male")) == "female" else "male"
+	var outfit := "ranger" if String(look.get("outfit", "peasant")) == "ranger" else "peasant"
+	var cloth := String(look.get("cloth_variant", ""))
+	if not cloth in CLOTH_VARIANTS[outfit]:
+		cloth = ""
+	var hair := String(look.get("hair", ""))
+	if not hair in HAIR_STYLES:
+		hair = ""
+	var hair_color := String(look.get("hair_color", HAIR_COLORS[2]))
+	if not hair_color in HAIR_COLORS:
+		hair_color = HAIR_COLORS[2]
+	var skin := String(look.get("skin", SKIN_TINTS[0]))
+	if not skin in SKIN_TINTS:
+		skin = SKIN_TINTS[0]
+	return { "body": body, "outfit": outfit, "cloth_variant": cloth, "hair": hair, "hair_color": hair_color,
+		"skin": skin, "beard": bool(look.get("beard", false)) and body == "male",
+		"hood": bool(look.get("hood", false)) and outfit == "ranger" }
+
+
+## The player's own look: the one they chose, or one picked from their name.
+static func look_of(profile: Dictionary) -> Dictionary:
+	var chosen: Variant = profile.get("look", {})
+	if typeof(chosen) == TYPE_DICTIONARY and not (chosen as Dictionary).is_empty():
+		return sanitize_look(chosen)
+	return sanitize_look(player_look(String(profile.get("name", "Traveler"))))
 
 
 ## True when the kit is in the project (tests and builds without the art

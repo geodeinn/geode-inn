@@ -172,10 +172,17 @@ func _process(delta: float) -> void:
 
 # ---------------------------------------------------------------- client API
 
-## account_key is only needed for reserved names (like Elio).
-func register_self(display_name: String, zone: String, account_key := "") -> void:
+## account_key is only needed for reserved names (like Elio). look is the
+## player's look line (CharacterModel.encode_look), so others see who they chose to be.
+func register_self(display_name: String, zone: String, account_key := "", look := "") -> void:
 	local_zone = zone
-	_to_server("rpc_register", [display_name, zone, account_key])
+	_to_server("rpc_register", [display_name, zone, account_key, look])
+
+
+## The player changed their look in the creator.
+func send_look(look: String) -> void:
+	if is_online():
+		_to_server("rpc_look", [look])
 
 
 func send_state(zone: String, pos: Vector3, rot_y: float) -> void:
@@ -360,7 +367,7 @@ func import_rentals() -> int:
 
 
 func _new_player_record() -> Dictionary:
-	return { "name": "", "zone": "", "pos": Vector3.ZERO, "rot_y": 0.0, "zone_since": Time.get_unix_time_from_system(), "points": 0.0 }
+	return { "name": "", "zone": "", "pos": Vector3.ZERO, "rot_y": 0.0, "zone_since": Time.get_unix_time_from_system(), "points": 0.0, "look": "" }
 
 
 func _on_peer_connected(peer: int) -> void:
@@ -380,11 +387,12 @@ func _on_peer_disconnected(peer: int) -> void:
 
 
 @rpc("any_peer", "call_remote", "reliable")
-func rpc_register(display_name: String, zone: String, account_key := "") -> void:
+func rpc_register(display_name: String, zone: String, account_key := "", look := "") -> void:
 	if not is_server():
 		return
 	var peer := _sender()
 	var rec: Dictionary = players.get(peer, _new_player_record())
+	rec["look"] = clean_look(look)
 	var now := Time.get_unix_time_from_system()
 	if not moderation.has(peer):
 		moderation.join(peer, allowed_name(display_name, account_key, reserved_keys), now)
@@ -392,6 +400,22 @@ func rpc_register(display_name: String, zone: String, account_key := "") -> void
 	players[peer] = rec
 	_send_to(peer, "rpc_welcome", [peer, SongState.world_points, rec["name"], moderation.speak_wait(peer, now), moderation.frog_wait(peer, now)])
 	_enter_zone(peer, zone)
+
+
+## A look line from a player, checked and rewritten (unknown values become
+## defaults; nothing else gets through).
+static func clean_look(look: String) -> String:
+	var parsed := CharacterModel.decode_look(look)
+	return "" if parsed.is_empty() else CharacterModel.encode_look(parsed)
+
+
+@rpc("any_peer", "call_remote", "reliable")
+func rpc_look(look: String) -> void:
+	if not is_server():
+		return
+	var peer := _sender()
+	if players.has(peer):
+		players[peer]["look"] = clean_look(look)
 
 
 func _enter_zone(peer: int, zone: String) -> void:
@@ -603,7 +627,7 @@ func _broadcast_snapshots() -> void:
 			continue
 		if not by_zone.has(z):
 			by_zone[z] = []
-		by_zone[z].append({ "id": int(p), "name": moderation.display_name(int(p)), "pos": rec["pos"], "rot_y": rec["rot_y"], "frog": moderation.is_frog(int(p)), "points": rec["points"] })
+		by_zone[z].append({ "id": int(p), "name": moderation.display_name(int(p)), "pos": rec["pos"], "rot_y": rec["rot_y"], "frog": moderation.is_frog(int(p)), "points": rec["points"], "look": rec.get("look", "") })
 	for z in by_zone.keys():
 		for p in _peers_in_zone(z):
 			_send_to(p, "rpc_snapshot", [by_zone[z], SongState.world_points])
@@ -715,6 +739,13 @@ func load_server_data() -> void:
 				homesteads[int(k)] = hs[k]
 	if faires.faires.is_empty():
 		faires.load_samples()
+
+
+## A server told to stop (Ctrl+C, systemctl stop, closing the window) keeps
+## the world it had, not just the last 30-second save.
+func _notification(what: int) -> void:
+	if (what == NOTIFICATION_WM_CLOSE_REQUEST or what == NOTIFICATION_EXIT_TREE) and is_server():
+		save_server_data()
 
 
 func save_server_data() -> void:

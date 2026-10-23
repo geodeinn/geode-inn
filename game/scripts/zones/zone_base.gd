@@ -60,6 +60,7 @@ func _ready() -> void:
 		hud.close_panels()
 		SceneRouter.goto("faire", "entrance", cfg))
 	hud.chat.typing_changed.connect(func(v: bool) -> void: _chat_typing = v)
+	hud.look.look_chosen.connect(_on_look_chosen)
 	hud.pulse.beat.connect(_on_beat)
 	player.interact_pressed.connect(_on_interact)
 	player.sit_pressed.connect(_on_sit)
@@ -88,7 +89,7 @@ func _ready() -> void:
 			fill.light_cull_mask = Builder.PEOPLE_LAYER
 			add_child(fill)
 	if Net.is_online() and not single_player:
-		Net.register_self(PlayerState.profile.get("name", "Traveler"), zone_id)
+		Net.register_self(PlayerState.profile.get("name", "Traveler"), zone_id, "", CharacterModel.encode_look(CharacterModel.look_of(PlayerState.profile)))
 	on_zone_ready()
 	# The voice of the Inn, when the moment calls for it (the return visit).
 	if not SceneRouter.pending_voice.is_empty():
@@ -97,6 +98,17 @@ func _ready() -> void:
 		get_tree().create_timer(1.4).timeout.connect(func() -> void:
 			if is_instance_valid(hud):
 				hud.voice.speak(line))
+
+
+## The creator's choice: saved, worn at once, and shown to everyone online.
+func _on_look_chosen(look: Dictionary) -> void:
+	PlayerState.profile["look"] = CharacterModel.sanitize_look(look)
+	PlayerState.save_profile()
+	player.refresh_look()
+	if Settings.low_detail():
+		Builder.simplify_materials(player)
+	Net.send_look(CharacterModel.encode_look(PlayerState.profile["look"]))
+	hud.toast("You look like yourself.")
 
 
 ## Override: build geometry, NPCs, interactables, spawns.

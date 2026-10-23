@@ -29,6 +29,10 @@ var _address: LineEdit
 var _new_box: VBoxContainer
 var _online_box: VBoxContainer
 var _settings: SettingsPanel
+var _look_panel: LookPanel
+var _credits: CreditsPanel
+var _chosen_look: Dictionary = {}
+var _look_note: Label
 var _pulse: PulseLine
 var _menu: Control
 var _boot_layer: Control
@@ -102,6 +106,12 @@ func _build_menu() -> void:
 	_class.add_item("The Tinkering Weeaboo (a changeling who fixes things)")
 	_class.set_item_metadata(1, "tinkering_weeaboo")
 	_new_box.add_child(_class)
+	var look_row := HBoxContainer.new()
+	_new_box.add_child(look_row)
+	look_row.add_child(UITheme.button("Your look", func() -> void:
+		_look_panel.edit(_chosen_look if not _chosen_look.is_empty() else CharacterModel.player_look(_name.text))))
+	_look_note = UITheme.text("  (one is picked for you if you skip this)", 14, UITheme.MUTED)
+	look_row.add_child(_look_note)
 	_new_box.add_child(UITheme.button("Enter the Inn", _new_story))
 	col.add_child(UITheme.button("Play together", func() -> void:
 		_online_box.visible = not _online_box.visible
@@ -118,12 +128,24 @@ func _build_menu() -> void:
 	row.add_child(UITheme.button("Join", _join))
 	row.add_child(UITheme.button("Host for friends", _host))
 	col.add_child(UITheme.button("Settings", func() -> void: _settings.open()))
+	col.add_child(UITheme.button("Credits", func() -> void: _credits.open()))
 	col.add_child(UITheme.button("Quit", func() -> void: get_tree().quit()))
 	_status = UITheme.text("", 16, UITheme.AMBER)
 	_status.horizontal_alignment = HORIZONTAL_ALIGNMENT_CENTER
 	col.add_child(_status)
 	_settings = SettingsPanel.new()
 	add_child(_settings)
+	_look_panel = LookPanel.new()
+	add_child(_look_panel)
+	_look_panel.look_chosen.connect(func(look: Dictionary) -> void:
+		_chosen_look = look
+		_look_note.text = "  (chosen)")
+	_credits = CreditsPanel.new()
+	add_child(_credits)
+	# While a window is open the title menu steps back, so the two never overlap.
+	for p in [_settings, _look_panel, _credits]:
+		(p as GamePanel).visibility_changed.connect(func() -> void:
+			_menu.visible = not (_settings.visible or _look_panel.visible or _credits.visible))
 
 
 # ---------------------------------------------------------------- the boot sequence
@@ -258,6 +280,8 @@ func _new_story() -> void:
 	Settings.player_name = player_name
 	Settings.save_settings()
 	PlayerState.new_profile(player_name, String(_class.get_item_metadata(_class.selected)))
+	if not _chosen_look.is_empty():
+		PlayerState.profile["look"] = CharacterModel.sanitize_look(_chosen_look)
 	PlayerState.add_chronicle("Arrived at the Geode Inn.", "start")
 	_begin_visit()
 	PlayerState.save_profile()

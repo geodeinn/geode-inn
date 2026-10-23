@@ -4,7 +4,26 @@ One server holds the shared world: the Song total, the Common Room's chat and
 frogs, faire configs and who owns which homestead plot. Small to start: a 1-2
 vCPU Linux VPS is plenty for the first release.
 
-## Start
+## Quick install (Ubuntu or Debian)
+
+Rent the smallest Linux server any host offers, copy the two files from the
+server zip onto it, then:
+
+```
+chmod +x install_server.sh
+sudo ./install_server.sh ./geode-inn-server.x86_64
+```
+
+It creates a `geodeinn` user, installs the server to `/opt/geode-inn`, runs it
+as a service that starts on boot and restarts if it stops, and opens UDP
+24770 in the firewall if `ufw` is on. If the host has its own firewall in its
+web panel, open UDP 24770 there too. To update, run the same command with the
+new binary; the world is kept. Players join with the server's address in
+"Play together".
+
+Or with Docker: `tools/server/Dockerfile` (instructions at its top).
+
+## Start by hand
 
 ```
 ./geode-inn-server.x86_64 --headless -- --server --port 24770
@@ -12,25 +31,12 @@ vCPU Linux VPS is plenty for the first release.
 
 - UDP port 24770 must be open (ENet uses UDP).
 - Data lives in the user data folder, `server_data/world.json`
-  (Linux: `~/.local/share/godot/app_userdata/The Geode Inn/server_data/`).
-  It saves every 30 seconds and when the server stops cleanly.
-- Run it under systemd (or similar) with Restart=always.
-
-Example unit:
-
-```
-[Unit]
-Description=The Geode Inn server
-After=network.target
-
-[Service]
-ExecStart=/opt/geode-inn/geode-inn-server.x86_64 --headless -- --server --port 24770
-Restart=always
-User=geodeinn
-
-[Install]
-WantedBy=multi-user.target
-```
+  (Linux: `~/.local/share/godot/app_userdata/The Geode Inn/server_data/`;
+  with the installer, under `/var/lib/geode-inn/`).
+  It saves every 30 seconds and on every plot, homestead and faire change,
+  so stopping it loses at most the last half minute of Song points (it also
+  tries to save as it shuts down).
+- Status and logs: `systemctl status geode-inn`, `journalctl -u geode-inn -f`.
 
 ## Faire rentals
 

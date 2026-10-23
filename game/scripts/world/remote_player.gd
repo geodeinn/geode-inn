@@ -10,6 +10,7 @@ var _body: Node3D
 var _label: Label3D
 var _person: CharacterModel
 var _look_name := ""
+var _look_code := ""   # the look they chose (CharacterModel.encode_look); empty = picked from the name
 
 
 func setup(id: int, display_name: String) -> void:
@@ -27,8 +28,10 @@ func apply(entry: Dictionary) -> void:
 	target_yaw = float(entry.get("rot_y", target_yaw))
 	_label.text = String(entry.get("name", _label.text))
 	var frog := bool(entry.get("frog", false))
-	if frog != is_frog:
+	var code := String(entry.get("look", ""))
+	if frog != is_frog or code != _look_code:
 		is_frog = frog
+		_look_code = code
 		_rebuild()
 
 
@@ -40,7 +43,8 @@ func _rebuild() -> void:
 		Creatures.frog(_body)
 		return
 	if CharacterModel.available():
-		_person = CharacterModel.make(_body, CharacterModel.player_look(_look_name))
+		var chosen := CharacterModel.decode_look(_look_code)
+		_person = CharacterModel.make(_body, chosen if not chosen.is_empty() else CharacterModel.player_look(_look_name))
 		_person.update_every = 0.1 if Settings.low_detail() else 0.0
 		return
 	Builder.cylinder(_body, 0.32, 1.1, Vector3(0, 0.55, 0), Color(0.22, 0.24, 0.3), false, "", 0.26)
