@@ -1,0 +1,853 @@
+# Folder map
+
+Every folder in the Drive folder Geode Inn-master build, with what's directly inside it.
+
+- all building components for game
+  - data on countries
+    - countries
+      - afghanistan
+        - lore: 1 doc
+      - albania
+        - lore: 1 doc
+      - algeria
+        - lore: 1 doc
+      - andorra
+        - lore: 1 doc
+      - angola
+        - lore: 1 doc
+      - antarctica
+        - lore: 1 doc
+      - antigua and barbuda
+        - lore: 1 doc
+      - argentina
+        - lore: 1 doc
+      - armenia
+        - lore: 1 doc
+      - australia
+        - lore: 1 doc
+      - austria
+        - lore: 1 doc
+      - azerbaijan
+        - lore: 1 doc
+      - bahamas
+        - lore: 1 doc
+      - bahrain
+        - lore: 1 doc
+      - bangladesh
+        - lore: 1 doc
+      - barbados
+        - lore: 1 doc
+      - belarus
+        - lore: 1 doc
+      - belgium
+        - lore: 1 doc
+      - belize
+        - lore: 1 doc
+      - benin
+        - lore: 1 doc
+      - bhutan
+        - lore: 1 doc
+      - bolivia
+        - lore: 1 doc
+      - bosnia and herzegovina
+        - lore: 1 doc
+      - botswana
+        - lore: 1 doc
+      - brazil
+        - lore: 1 doc
+      - brunei
+        - lore: 1 doc
+      - bulgaria
+        - lore: 1 doc
+      - burkina faso
+        - lore: 1 doc
+      - burundi
+        - lore: 1 doc
+      - cabo verde
+        - lore: 1 doc
+      - cambodia
+        - lore: 1 doc
+      - cameroon
+        - lore: 1 doc
+      - canada
+        - alberta - ammolite - badlands lore: 1 doc
+        - baffin bay: 1 doc
+        - british columbia - jade -: 1 doc
+        - labrador - labradorite: 1 doc
+        - manitoba -: 1 doc
+        - new brunswick: 1 doc
+        - newfoundland: 1 doc
+        - northwest territories: 1 doc
+        - nova scotia: 1 doc
+        - nunavut: 1 doc
+        - ontario: 1 doc
+        - prince edward island: 1 doc
+        - quebec: 1 doc
+        - saskatchewan: 1 doc
+        - yukon territories: 1 doc
+      - central african republic
+        - lore: 1 doc
+      - chad
+        - lore: 1 doc
+      - chile
+        - lore: 1 doc
+      - china
+        - lore
+          - anhui: 1 doc
+          - fujian: 1 doc
+          - gansu: 1 doc
+          - guangdong: 1 doc
+          - guizhou: 1 doc
+          - hainan: 1 doc
+          - hebei: 1 doc
+          - heilongjiang: 1 doc
+          - henan: 1 doc
+          - hubei: 1 doc
+          - hunan: 1 doc
+          - jiangsu: 1 doc
+          - jiangxi: 1 doc
+          - jilin: 1 doc
+          - liaoning: 1 doc
+          - qinghai: 1 doc
+          - shaanxi: 1 doc
+          - shandong: 1 doc
+          - shanxi: 1 doc
+          - sichuan: 1 doc
+          - yunnan: 1 doc
+          - zhejiang: 1 doc
+      - colombia
+        - lore: 1 doc
+      - comoros
+        - lore: 1 doc
+      - congo (congo-brazzaville)
+        - lore: 1 doc
+      - costa rica
+        - lore: 1 doc
+      - croatia
+        - lore: 1 doc
+      - cuba
+        - lore: 1 doc
+      - cyprus
+        - lore: 1 doc
+      - czechia (czech republic)
+        - lore: 1 doc
+      - democratic republic of the congo
+        - lore: 1 doc
+      - denmark
+        - lore: 1 doc
+      - djibouti
+        - lore: 1 doc
+      - dominica
+        - lore: 1 doc
+      - dominican republic
+        - lore: 1 doc
+      - easter island
+        - lore: 1 doc
+      - ecuador
+        - lore: 1 doc
+      - egypt
+        - lore: 1 doc
+      - el salvador
+        - lore: 1 doc
+      - england
+        - lore: 1 doc
+      - equatorial guinea
+        - lore: 1 doc
+      - eritrea
+        - lore: 1 doc
+      - estonia
+        - lore: 1 doc
+      - eswatini
+        - lore: 1 doc
+      - ethiopia
+        - lore: 1 doc
+      - fiji
+        - lore: 1 doc
+      - finland
+        - lore: 1 doc
+      - france
+        - lore: 1 doc
+      - gabon
+        - lore: 1 doc
+      - gambia
+        - lore: 1 doc
+      - georgia
+        - lore: 1 doc
+      - germany
+        - lore: 1 doc
+      - ghana
+        - lore: 1 doc
+      - greece
+        - lore: 1 doc
+      - greenland
+        - lore: 1 doc
+      - grenada
+        - lore: 1 doc
+      - guatemala
+        - lore: 1 doc
+      - guinea
+        - lore: 1 doc
+      - guinea-bissau
+        - lore: 1 doc
+      - guyana
+        - lore: 1 doc
+      - haiti
+        - lore: 1 doc
+      - holy see
+        - lore: 1 doc
+      - honduras
+        - lore: 1 doc
+      - hungary
+        - lore: 1 doc
+      - iceland
+        - lore: 1 doc
+      - india
+        - lore: 1 doc
+      - indonesia
+        - lore: 1 doc
+      - iran
+        - lore: 1 doc
+      - iraq
+        - lore: 1 doc
+      - ireland
+        - lore: 1 doc
+      - isle of man
+        - lore: 1 doc
+      - israel
+        - lore: 1 doc
+      - italy
+        - lore: 1 doc
+      - ivory coast
+        - lore: 1 doc
+      - jamaica
+        - lore: 1 doc
+      - japan
+        - lore: 1 doc
+      - jordan
+        - lore: 1 doc
+      - kazakhstan
+        - lore: 1 doc
+      - kenya
+        - lore: 1 doc
+      - kiribati
+        - lore: 1 doc
+      - kuwait
+        - lore: 1 doc
+      - kyrgyzstan
+        - lore: 1 doc
+      - laos
+        - lore: 1 doc
+      - latvia
+        - lore: 1 doc
+      - lebanon
+        - lore: 1 doc
+      - lesotho
+        - lore: 1 doc
+      - liberia
+        - lore: 1 doc
+      - libya
+        - lore: 1 doc
+      - liechtenstein
+        - lore: 1 doc
+      - lithuania
+        - lore: 1 doc
+      - luxembourg
+        - lore: 1 doc
+      - madagascar
+        - lore: 1 doc
+      - malawi
+        - lore: 1 doc
+      - malaysia
+        - lore: 1 doc
+      - maldives
+        - lore: 1 doc
+      - mali
+        - lore: 1 doc
+      - malta
+        - lore: 1 doc
+      - marshall islands
+        - lore: 1 doc
+      - mauritania
+        - lore: 1 doc
+      - mauritius
+        - lore: 1 doc
+      - mexico
+        - lore: 1 doc
+      - micronesia
+        - lore: 1 doc
+      - moldova
+        - lore: 1 doc
+      - monaco
+        - lore: 1 doc
+      - mongolia
+        - lore: 1 doc
+      - montenegro
+        - lore: 1 doc
+      - morocco
+        - lore: 1 doc
+      - mozambique
+        - lore: 1 doc
+      - myanmar
+        - lore: 1 doc
+      - namibia
+        - lore: 1 doc
+      - nauru
+        - lore: 1 doc
+      - nepal
+        - lore: 1 doc
+      - netherlands
+        - lore: 1 doc
+      - new zealand
+        - lore: 1 doc
+      - nicaragua
+        - lore: 1 doc
+      - niger
+        - lore: 1 doc
+      - nigeria
+        - lore: 1 doc
+      - north korea
+        - lore: 1 doc
+      - north macedonia
+        - lore: 1 doc
+      - norway
+        - lore: 1 doc
+      - oman
+        - lore: 1 doc
+      - pakistan
+        - lore: 1 doc
+      - palau
+        - lore: 1 doc
+      - palestine state
+        - lore: 1 doc
+      - panama
+        - lore: 1 doc
+      - papua new guinea
+        - lore: 1 doc
+      - paraguay
+        - lore: 1 doc
+      - peru
+        - lore: 1 doc
+      - philippines
+        - lore: 1 doc
+      - poland
+        - lore: 1 doc
+      - portugal
+        - lore: 1 doc
+      - qatar
+        - lore: 1 doc
+      - romania
+        - lore: 1 doc
+      - russia
+        - lore: 1 doc
+      - rwanda
+        - lore: 1 doc
+      - saint kitts and nevis
+        - lore: 1 doc
+      - saint lucia
+        - lore: 1 doc
+      - saint vincent and the grenadines
+        - lore: 1 doc
+      - samoa
+        - lore: 1 doc
+      - san marino
+        - lore: 1 doc
+      - sao tome and principe
+        - lore: 1 doc
+      - saudi arabia
+        - lore: 1 doc
+      - scotland
+        - lore: 1 doc
+      - senegal
+        - lore: 1 doc
+      - serbia
+        - lore: 1 doc
+      - seychelles
+        - lore: 1 doc
+      - siberia
+        - lore: 1 doc
+      - sicily
+        - lore: 1 doc
+      - sierra leone
+        - lore: 1 doc
+      - singapore
+        - lore: 1 doc
+      - slovakia
+        - lore: 1 doc
+      - slovenia
+        - lore: 1 doc
+      - solomon islands
+        - lore: 1 doc
+      - somalia
+        - lore: 1 doc
+      - south africa
+        - lore: 1 doc
+      - south korea
+        - lore: 1 doc
+      - south sudan
+        - lore: 1 doc
+      - spain
+        - lore: 1 doc
+      - sri lanka
+        - lore: 1 doc
+      - sudan
+        - lore
+          - sudan lore: 1 doc
+      - suriname
+        - lore: 1 doc
+      - sweden
+        - lore: 1 doc
+      - switzerland
+        - lore: 1 doc
+      - syria
+        - lore: 1 doc
+      - tajikistan
+        - lore: 1 doc
+      - tanzania
+        - lore: 1 doc
+      - thailand
+        - lore: 1 doc
+      - timor-leste
+        - lore: 1 doc
+      - togo
+        - lore: 1 doc
+      - tonga
+        - lore: 1 doc
+      - turkmenistan
+        - lore: 1 doc
+      - tuvalu
+        - lore: 1 doc
+      - uganda
+        - lore: 1 doc
+      - ukraine
+        - lore: 1 doc
+      - united arab emirates
+        - lore: 1 doc
+      - united kingdom
+        - lore: 1 doc
+      - united states
+        - alabama
+          - folklore: 1 doc
+        - alaska: 1 doc
+        - arizona
+          - arizona lore: 1 doc
+        - arkansas
+          - arkansas lore: 1 doc
+        - california
+          - crystals, portal: 1 doc
+        - colorado
+          - colorado lore: 1 doc
+        - connecticut
+          - connecticut lore: 1 doc
+        - delaware
+          - delaware lore
+        - florida
+          - florida lore: 1 doc
+        - georgia
+          - georgia lore: 1 doc
+        - hawaii
+          - hawaii lore: 1 doc
+        - idaho
+          - idaho lore: 1 doc
+        - illinois
+          - illinois lore: 1 doc
+        - indiana
+          - indiana lore: 1 doc
+        - iowa
+          - iowa lore: 1 doc
+        - kansas
+          - kansas lore: 1 doc
+        - kentucky
+          - kentucky lore: 1 doc
+        - louisiana - opal - bog witch
+          - louisiana lore: 1 doc
+        - maine - ghosts
+          - folklore: 1 doc
+        - massachussets
+          - massachussets lore: 1 doc
+        - michigan
+          - michigan lore: 1 doc
+        - minnesota
+          - minnesota lore: 1 doc
+        - mississippi
+          - mississippi lore: 1 doc
+        - missouri
+          - missouri lore: 1 doc
+        - montana
+          - montana lore: 1 doc
+        - nebraska
+          - nebraska lore: 1 doc
+        - nevada- aliens - ore
+          - nevada lore: 1 doc
+        - new hampshire
+          - new hampshire lore: 1 doc
+        - new jersey
+          - new jersey lore: 1 doc
+        - new mexico -
+          - new mexico lore: 1 doc
+        - new york - catacombs
+          - new york lore: 1 doc
+        - north carolina
+          - north carolina lore: 1 doc
+        - north dakota
+          - north dakota lore: 1 doc
+        - ohio
+          - ohio lore: 1 doc
+        - oklahoma
+          - oklahoma lore: 1 doc
+        - oregon wizard island pietersite
+          - oregon lore: 1 doc
+        - pennsylvania
+          - pennsylvania lore: 1 doc
+        - rhode island
+          - rhode island lore: 1 doc
+        - south carolina
+          - south carolina lore: 1 doc
+        - south dakota
+          - south dakota lore: 1 doc
+        - tennessee
+          - tennessee lore: 1 doc
+        - texas
+          - texas lore: 1 doc
+        - utah
+          - utah lore: 1 doc
+        - vermont
+          - vermont lore: 1 doc
+        - washington state
+          - washington lore: 1 doc
+        - west virginia
+          - west virginia lore: 1 doc
+        - wisconsin
+          - wisconsin lore: 1 doc
+        - wyoming - yellowstone
+          - wyoming lore: 1 doc
+      - uruguay
+        - lore: 1 doc
+      - uzbekistan
+        - lore: 1 doc
+      - vanuatu
+        - lore: 1 doc
+      - venezuela
+        - lore: 1 doc
+      - vietnam
+        - lore: 1 doc
+      - wales
+        - lore: 1 doc
+      - yemen
+        - lore: 1 doc
+      - yugoslavia
+        - lore: 1 doc
+      - zambia
+        - lore: 1 doc
+      - zimbabwe
+        - lore: 1 doc
+  - first batch of game data
+    - acrobat files: 169 docs
+    - artifacts etc: 23 images
+    - complete game image library for concepts: 3 images, 4 pdfs
+      - A4_2480x3508px: 60 images
+      - Acid Wash: 56 images
+      - adorable elemental critters
+        - 112x112: 10 images
+        - 28x28: 10 images
+        - 300x300: 10 images
+        - 56x56: 10 images
+      - Autumn style imagery, paper: 107 images
+      - Cats: 102 images
+        - yoga cats: 38 images
+      - Celtic backgrounds: 146 images
+      - corners borders bundle
+        - corners border bundle
+          - DXF
+          - EPS: 15 others
+          - JPG: 12 images, 1 other
+          - PNG: 12 images
+          - SVG: 12 images
+        - numbered border patterns
+          - pattern 1 dxf eps: 2 others
+          - patterns 1-2: 4 images
+          - patterns 3-4: 4 images
+          - patterns 5-6: 4 images
+          - patterns 7-8: 1 image
+          - patterns 9-10: 1 image
+      - cryptid tarot cards: 1 doc, 2 pdfs
+        - Cryptid-Tarot-Cards: 23 images
+      - Dark Fantasy TCG Card Templates
+        - 2: 175 images, 51 pdfs
+      - dressmaker scrapbook: 90 images
+      - Enchanted Forest: 565 images, 1 pdf
+        - Enchanted-Fairies-Ephemera: 46 images
+        - Enchanted-Fairies-Fairy-Plates: 30 images
+        - Enchanted-Fairies-Journal-Pages: 13 images
+        - Enchanted-Fairies-Labels: 21 images
+        - Enchanted-Fairies-Papers: 10 images
+        - Fairy-Post-Stamps: 20 images
+      - frames, wood: 50 images
+      - Full game tabletop thingy: 2 docs
+        - 1
+          - Back: 6 images
+          - Frame: 6 images
+          - icons: 24 images
+          - images: 10 images
+          - panels: 12 images
+        - Adventures: 43 images, 43 pdfs, 18 archives
+        - Ancient ruins: 353 images
+        - Ancient temples: 59 images
+        - Astral space: 9 images
+        - Backgrounds: 1256 images, 3 pdfs
+        - Battle maps: 529 images
+        - Campsites: 4 images
+        - Canalisation and Sewers: 259 images
+        - Catacombs layer components: 498 images
+        - Caves and caverns: 616 images
+        - Characters: 3793 images, 2 videos, 9 pdfs
+        - Churches and cathedrals: 33 images
+        - Coasts and shores (1): 11 images
+        - Desert villages: 10 images, 2 pdfs
+        - Deserts and dunes: 35 images
+        - Dungeons and crypts: 15 images
+        - Dwarven ruins: 509 images
+        - Elven villages: 19 images
+        - Fantastic villagesxand towns: 17 images
+        - Fields: 83 images
+        - Forests and swamps: 622 images
+        - Harbors and docks: 323 images
+        - Haunted Places: 612 images
+        - Iced worlds: 119 images
+        - Jails and cells: 28 images
+        - Magical gardens: 23 images
+        - Magical libraries: 30 images
+        - Meadows and hills: 410 images
+        - Monsters: 1 pdf, 1 archive
+        - Printables
+          - Bounty and Quest Posters: 26 pdfs
+        - Ritual Places: 636 images
+        - Royal castles: 545 images
+        - Schools of magic: 21 images
+        - Stores and shops: 220 images
+        - Taverns and inns: 280 images
+        - Tokens
+          - Character Tokens: 4232 images
+          - Condition and Spell Effect Tokens: 45 images
+          - Monster and NPC Tokens: 5 images
+          - Token Border Frames
+        - tropical: 737 images
+        - Underground Cities: 118 images
+        - underground zones: 613 images
+        - Underwater realms: 30 images
+        - Vampire castles: 619 images
+        - Volcanic terrain: 626 images
+        - Wizard Towers: 207 images
+        - World and Regional: 102 images
+      - Garden imagery: 120 images
+      - Grumbles: 48 images, 1 pdf
+      - Horror Fantasy Templates
+        - Horror Fantasy
+          - Back
+          - Frame
+          - Icons
+          - Images: 14 images
+          - Panels
+      - japanese style backgrounds: 461 images
+      - junk journal: 375 images, 1 pdf
+      - Medieval: 326 images
+      - Nordic style art: 89 images
+      - Planets and Gems: 106 images
+      - poison papers: 35 images, 1 pdf
+      - sacred geometry: 90 images
+      - Scandinavian style art: 80 images
+      - scottish art style imagery: 512 images
+      - Sea creatures: 234 images
+      - tattered folk: 63 images, 1 pdf
+      - Victorian Dresses: 109 images
+      - victorian goth art: 442 images
+      - winter images: 109 images
+      - zombie kids: 133 images
+    - documents: 50 docs, 17 images, 2 pdfs, 46 others
+    - Game Images
+      - full presence characters: 173 images
+      - images for the canon
+        - canon: 10 images
+          - jpeg pics
+            - characters
+              - critters including chibis: 50 images
+              - friends & family's playable characters: 18 images
+              - storyline characters with quests: 153 images
+              - unassigned character images: 12 images
+            - items: 10 images
+            - zones: 90 images
+      - Uncategorized images: 4 docs, 50 images
+    - MD type files: 230 docs, 2 others
+    - Zones
+      - 01 Cosmology: 3 docs
+      - 0101.01  The Egg: 1 doc
+      - 02 Upstairs: 2 docs
+      - 03 Main Floor: 1 doc
+      - 03.2 Campgrounds: 1 doc
+      - 04 Staircase
+      - 05 Downstairs
+      - 06 Catacombs: 1 doc
+      - 07 Fae Kingdom
+        - Seelie: 1 doc
+        - Unseelie: 1 doc
+      - 08 Water Zone: 1 doc
+      - 09 Undercity: 1 doc
+      - 10 Spiral Gallery: 1 doc
+      - Alchemical Staircase: 1 doc
+      - Bayou: 1 doc
+      - Camelot: 1 doc
+      - Egypt: 1 doc
+      - Geode Inn Entrance: 1 doc
+      - Grand Canyon: 1 doc
+      - Heart of the Inn: 1 doc
+      - Introduction: 1 doc
+      - Lighthouse: 1 doc
+      - Malachi's Labyrinth: 1 doc
+      - Medusa's Garden: 1 doc
+      - Mesopotamia: 1 doc
+      - Miskatonic Annex: 1 doc
+      - Peruvian Steps: 1 doc
+      - Petrified Forest: 1 doc
+      - Poison Garden: 1 doc
+      - Redwood Canopy: 1 doc
+      - Superstition Mountains: 1 doc
+      - Terra Cotta Army: 1 doc
+      - The Cave System: 1 doc
+      - The Garden: 1 doc
+      - The Hearth: 1 doc
+      - The In-Between: 1 doc
+      - Thorin's Meadery: 1 doc
+      - Transylvanian Mountains: 1 doc
+      - Yellowstone: 1 doc
+      - zones: 83 images, 38 videos
+  - Full game tabletop thingy: 2 docs
+    - 1
+      - Back: 6 images
+      - Frame: 6 images
+      - icons: 24 images
+      - images: 10 images
+      - panels: 12 images
+    - Adventures: 69 images, 61 pdfs, 18 archives
+    - Ancient ruins: 611 images
+    - Ancient temples: 608 images
+    - Astral space: 636 images
+    - Backgrounds: 2266 images, 3 pdfs
+    - Battle maps: 529 images
+    - Campsites: 632 images
+    - Canalisation and Sewers: 613 images
+    - Catacombs layer components: 498 images
+    - Caves and caverns: 616 images
+    - Characters: 5489 images, 2 videos, 9 pdfs
+    - Churches and cathedrals: 649 images
+    - Coasts and shores: 621 images
+    - Coasts and shores: 621 images
+    - Desert villages: 659 images, 2 pdfs
+    - Deserts and dunes: 871 images
+    - Dungeons and crypts: 634 images
+    - Dwarven ruins: 1260 images
+    - Elven villages: 645 images
+    - Fantastic villagesxand towns: 639 images
+    - Fields: 668 images
+    - Forests and swamps: 622 images
+    - GM Supplies
+    - Harbors and docks: 620 images
+    - Haunted Places: 1224 images
+    - Iced worlds: 485 images
+    - Jails and cells: 98 images
+    - Magical gardens: 636 images
+    - Magical libraries: 554 images
+    - Meadows and hills: 515 images
+    - Monsters: 1 pdf, 1 archive
+    - Printables
+      - Bounty and Quest Posters: 24 images, 29 pdfs, 6 archives
+      - Floor Plans
+      - Standees
+    - Ritual Places: 636 images
+    - Royal castles: 653 images
+    - Schools of magic: 651 images
+    - Stores and shops: 212 images
+    - Taverns and inns: 618 images
+    - Tokens
+      - Character Tokens: 5443 images
+      - Condition and Spell Effect Tokens: 45 images, 3 pdfs
+      - Monster and NPC Tokens: 4835 images
+      - Token Border Frames: 1 video
+      - Token Border Frames - Freebie
+      - Tokens Freebie
+    - tropical: 1638 images
+    - Underground Cities: 775 images
+    - underground zones: 613 images
+    - Underwater realms: 644 images
+    - Vampire castles: 629 images
+    - Volcanic terrain: 627 images
+    - Wizard Towers: 631 images
+    - World and Regional: 508 images
+  - Printable cards 1: 1 doc, 601 images, 52 pdfs
+    - 01_Printable_Sheets
+      - Homebrew
+        - A4: 1 doc, 36 images
+        - US_Letter: 1 doc
+      - SRD
+        - A4
+          - 01_SRD_2024: 1 pdf
+          - 02_SRD_2014: 92 images, 46 pdfs
+        - US_LETTER
+          - 01_SRD_2024: 5 pdfs
+          - 02_SRD_2014: 91 images, 46 pdfs
+    - 02_Individual_Cards
+      - Homebrew
+        - 01_Fronts: 9 images
+        - 02_Backs: 2 images
+      - SRD
+        - 01_SRD_2024
+          - 01_Fronts: 8 images
+    - 03_Documentation: 14 docs, 4 others
+      - Homebrew_510_Production: 7 docs
+    - Magic Item Reference Manual - 92 SRD Items: 2 docs, 1 pdf
+      - Promotional Visuals: 5 images
+        - Editor Polish: 2 images
+        - Main Heroes - 8: 9 images
+        - Main Heroes - 8 - 5 Cards: 9 images
+  - World Architecture: 4 images, 47 pdfs, 7 archives, 1 other
+    - adorable elemental critters
+      - 112x112: 10 images
+      - 28x28: 10 images
+      - 300x300: 10 images
+      - 56x56: 10 images
+    - corners borders bundle
+      - corners border bundle
+        - DXF: 2 others
+        - EPS: 15 others
+        - JPG: 12 images, 1 other
+        - PNG: 12 images
+        - SVG: 12 images
+      - numbered border patterns
+        - pattern 1 dxf eps: 2 others
+        - patterns 1-2: 4 images
+        - patterns 3-4: 4 images
+        - patterns 5-6: 4 images
+        - patterns 7-8: 4 images
+        - patterns 9-10: 5 images
+    - Dark Fantasy TCG Card Templates
+      - 2: 175 images, 51 pdfs
+    - dressmaker scrapbook: 90 images
+    - frames, wood: 50 images
+    - Horror Fantasy Templates
+      - Horror Fantasy
+        - Back: 1 image
+        - Frame: 3 images
+        - Icons: 13 images
+        - Images: 9 images
+        - Panels: 4 images
+    - Printable item cards bundle: 19 images, 1 pdf
+      - Magic Item Reference Manual - 92 SRD Items: 2 docs, 1 pdf
+        - PNG Pages: 300 images, 44 pdfs
+        - Promotional Visuals: 5 images
+          - Editor Polish: 2 images
+          - Main Heroes - 8: 9 images
+          - Main Heroes - 8 - 5 Cards: 9 images
+    - Steampunk full tabletop
+      - DIGITAL ASSETS
+      - MAP MAKING ASSETS
+      - OTHER_index_
+      - PRINTABLES
+    - yoga cats: 38 images

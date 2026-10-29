@@ -1,0 +1,9 @@
+> From the Geode Inn Drive folder: [data on countries/countries/canada/nova scotia/nova scotia lore.docx](https://drive.google.com/file/d/19DprnNH7xobyBHZmpLa7AxI973QlVAiS/view?usp=drive_web). Copied 2026-10-29.
+
+First Nations traditions form the bedrock of local storytelling, largely centered around the cultural hero Glooscap, who is credited with shaping the local geography. For example, the Five Islands in the Minas Basin were supposedly formed when Glooscap fought and killed a giant beaver, throwing pieces of broken rock into the water. Other mythological beings include the Chenoo (a fearsome, ice-hearted monster akin to a Wendigo), Wiklamuj (mischievous little people), and the Sabawaelnu (local mermaids).
+
+Scottish, Irish, and Acadian immigrants brought their own preternatural beliefs across the Atlantic. Fairies are deeply ingrained in the landscape, specifically on Cape Breton Island. The name of the town Inverness derives from a Gaelic word meaning "house of the fairies". Kejimkujik National Park in southwestern Nova Scotia contains "Fairy Bay," where petroglyphs of little people can be found, as the area translates to the "land where fairies abound" in the Mi'kmaq language.
+
+Because of its rich maritime history, the province is famous for its nautical myths. The most famous is the Ghost Ship of the Northumberland Strait, often referred to as the Phantom Ship or the Carroll A. Deering. Historically, blazing colonial ships and glowing ghost vessels were said to appear in the Gulf of St. Lawrence, serving as a death omen or a warning of violent incoming storms.
+
+Stories of buried pirate gold are ubiquitous, particularly along the coast of Mahone Bay and on Oak Island, which has spawned centuries of ongoing treasure hunts. Additionally, the interior villages of the Maritimes feature strong traditions of witchcraft and folklore "cures".
