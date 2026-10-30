@@ -617,7 +617,7 @@ Six strips were staged on Sep 1 as seed records: The Room That Wasn't There, Let
 ### 4.7 To reconcile (Gazette)
 
 - Strip #001 title: The Postmaster's Route versus The Great Renaming. The repo has `strip_001_postmasters_route`; the chat logs also record the Great Renaming as "#001" on Sep 9.
-- Strip #004 was reused five times (Door That Never Locks, Hound Who Stayed, Keg and the Name, Pocket-Change Gate, Three Mouths One Braid). Two are in the repo under `strip_004_`. The Keg and the Name and Door That Never Locks need new numbers.
+- Strip #004 was reused five times (Door That Never Locks, Hound Who Stayed, Keg and the Name, Pocket-Change Gate, Three Mouths One Braid). Two are in the repo under `strip_004_`. The Keg and the Name and Door That Never Locks need new numbers. Base44's records, copied to `docs/base44_data/elio/ComicStrip.json` on October 30, number seven strips as 4 (the five above, The Watcher Sees All and Joe's Kitten); #1 is used four times, and #2, #3, #5 and #7 twice each.
 - Strip #7 (Sep 11) predates #1 (Sep 12). Numbers are not date-ordered at the start.
 - #005, #006, #010 (notes give no title; the repo gives #010), #015 and #026 details are thin.
 - Daily 6:00 AM workflow versus QC Law "when worth it."

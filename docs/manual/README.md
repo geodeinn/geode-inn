@@ -38,15 +38,16 @@ The GitHub history was checked on October 29 (main, last commit October 15).
 
 These are the things from all eight parts that matter most. The details and the full lists are in the parts named.
 
-### 1. Work that only lives in Base44
+### 1. Work that lived only in Base44
 
-A lot of what Elio made exists only inside Base44, in Elio's staging app, the live app or Base44's file storage, and not in GitHub. If Base44 lost it, nothing else would hold a copy.
+A lot of what Elio made existed only inside Base44, in Elio's staging app, the live app or Base44's file storage, and not in GitHub. If Base44 lost it, nothing else would hold a copy.
 
-- About 20 documents and code files named in the chat are not in the repo or the Drive, among them the Character Assignment v4, the Canon Image Library document, the zone image inventory of Sep 25, the campgrounds stock list of Sep 22 and the grain writing prototypes. (Part 8)
-- Many records called "live" in the chat were only in Elio's staging app. For example, the live Gazette archive holds strips #1 to #3, while later strips exist only in staging. (Parts 1, 6 and 8)
+- **Copied to GitHub on October 30:** the game content stored as records in both apps, in `docs/base44_data/` (stones, materials, building recipes, comic strips, Steam titles, podcast episodes and the rest), plus the pictures of the comic strips that had no folder and the live site's 22 generated pictures. `docs/base44_data/missing.md` lists every record whose text was nowhere else in GitHub; most of the materials, building recipes and stone texts were in that group. Elio's 557 dialogue records (384 of them nowhere else in GitHub) and two strips are copied too, but held back from the repo until it's private, because they carry personal details in places. (Part 8, 1.1)
+- **Still only in Base44:** Elio's own file storage, the documents and pictures Elio saved while working. It can't be listed from outside, so it waits for Elio or Base44. About 20 documents and code files named in the chat are there and not in the repo or the Drive, among them the Character Assignment v4, the Canon Image Library document, the zone image inventory of Sep 25, the campgrounds stock list of Sep 22 and the grain writing prototypes. (Part 8)
+- Many records called "live" in the chat were only in Elio's staging app. For example, the live Gazette archive holds strips #1 to #3, while later strips were only in staging; their records are now in `docs/base44_data/elio/ComicStrip.json`. (Parts 1, 6 and 8)
 - Most pictures you uploaded in the chat are only in Base44 storage. The canon pictures are now safe: you saved them as 343 JPEGs in the Drive, and they are set up for GitHub too. (Part 3, 1.8)
 - Most music rulings from September 26 to October 15 never reached the repo: the zone music list (Lateralus for the Staircase, Heilung for the Catacombs, the baroque Seelie court and the rest), the Anthems register and the classical companion register. The repo's master audio document still has the older choices. (Part 5)
-- The 80 commit codes the chat names were checked against GitHub on October 29: 76 are there, and three of the other four pieces of work reached GitHub in a different commit. Strip #004 "The Pocket-Change Gate" and a Sep 1 "board update" never reached GitHub. (Part 8)
+- The 80 commit codes the chat names were checked against GitHub on October 29: 76 are there, and three of the other four pieces of work reached GitHub in a different commit. Strip #004 "The Pocket-Change Gate" and a Sep 1 "board update" never reached GitHub; the strip was copied in on October 30 with the Base44 data. (Part 8)
 
 ### 2. Decisions that conflict
 
@@ -74,7 +75,7 @@ The full list, with where each value comes from, is in Part 8.
 Anyone can read `geodeinn/geode-inn`, not only the builders. That matters for three things:
 
 - The early chat logs are in it (`full_documentary.txt` and `docs/summary_of_building_geode_inn.md`), and they include personal conversations, not only design work. Part of `before_the_song.txt` (the origin story's sixth part) is personal too. If that isn't meant to be public, the repo can be made private, as long as Elio and the builders keep access. Deleting the files would hide them from the current version but not from the repo's history.
-- On October 29 you asked for GitHub to hold all of it: this manual, the canon pictures and the Drive index. They are set up together on one branch, `inn-library`, which main doesn't see until it's merged. While the repo is public, anyone can read this manual too, audit and legal-check list included, so the friends and family pictures are kept out until the repo is private.
+- On October 29 you asked for GitHub to hold all of it: this manual, the canon pictures and the Drive index. They are set up together on one branch, `inn-library`, which main doesn't see until it's merged. The Base44 data joined them on October 30. While the repo is public, anyone can read this manual too, audit and legal-check list included, so the friends and family pictures are kept out until the repo is private.
 - The Drive index in the repo links only to the Inn's own documents and canon images, never to folders, the bought packs or the chat logs, because a link to the shared Drive folder would open all of it to anyone. The full index with every link is a separate file for you.
 
 ### 5. The repo's own guides are out of date
@@ -88,3 +89,9 @@ Anyone can read `geodeinn/geode-inn`, not only the builders. That matters for th
 
 - Part 3, 1.8 matches the unassigned pictures to characters (12 matches, 2 left open) and lists the characters that still have no picture.
 - Part 7, 1.23 has title ideas for the games, starting with the ones that use another company's name.
+
+### 7. Elio has been down since October 15
+
+- Every scheduled job of Elio's has failed since October 15, and Elio's chat replies fail to send, in new conversations too. The paused-job emails come from this.
+- The run logs show why. Base44 keeps a copy of each app's own files for its jobs to work from, and the copy for Elio's app is missing a piece ("Could not read f35a088a..."). Every run from October 2 on worked until five stalled from the afternoon of October 14. The last job that worked ran on October 15 at 15:22 UTC, and from 17:24 UTC on none of the 50 runs worked: 47 failed at their first step with that error and 3 stalled. Only Base44 can repair it, so a support ticket with the error and times was written for you on October 30.
+- Nothing about Elio's identity depends on that copy: the "Voice of the Geode Inn" record is in `docs/library/mechanics/`, and the records Elio made are copied (in `docs/base44_data/`, apart from the held-back dialogue and strips).

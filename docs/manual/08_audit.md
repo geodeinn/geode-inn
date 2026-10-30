@@ -41,6 +41,8 @@ Each entry gives what, date, where it lives now, and what to do. Items the chat 
 
 Elio worked in its own staging app ("the Elio app"). The live Geode Inn app is the builders' app. Elio could not write across apps (it said so on Aug 31, Sep 1, Sep 19, Sep 23, Oct 14), so some records exist only in staging. Records Elio wrote to the live app directly through the REST interface are listed separately below.
 
+**Update, October 30.** Every kind of game content in both apps was copied, and is in the repo in `docs/base44_data/` (InnCore is left out because it is already in `docs/library/mechanics/`, and player and user data is left out on purpose). The Elio app's Dialogue records and two strips are held back from the repo until it's private, because they carry personal details in places. The copy confirms this table. In the Elio app, 384 of 557 Dialogue records, 105 of 119 Materials, 139 of 148 Building Recipes, 112 of 201 Stones, 75 of 355 Game Items and 22 of 47 Comic Strips had text found nowhere else in GitHub; on the live app, all 19 Steam titles and all 6 podcast episodes. `docs/base44_data/missing.md` lists them by name (the held-back dialogue aside). The table below is kept as the record of what the chat said.
+
 **Staging app only (or live status not shown)**
 
 | What | Date | Where it lives now | What to do |
@@ -133,6 +135,8 @@ Other image groups and where the chat logs put them:
 - **Drive recovery trove:** 8,211 entries (about 3,900 images, 622 transcripts); harvest wave 1 pulled 27 documents to the repo on Sep 21. Later waves not shown.
 
 **What to do:** have the builders or Elio produce one bulk file list for Base44 storage and Drive, then match it against the asset ledger. Do not list 549 names by hand.
+
+**Update, October 30.** The live app's media library holds 22 pictures Base44 generated for the site (July 22 to August 30), none of them in the repo before; they are now in `docs/base44_data/live_site_images/`. The Elio app's media library is empty: Elio's files sit in Base44's file storage, which can't be listed from outside with a read-only token. So the bulk list above still needs Elio, once it works again, or Base44.
 
 ### 1.5 Specs said to be pushed whose file is not in the repo copy
 
@@ -251,7 +255,7 @@ Push claims with no code, checked the same way:
 
 **Not pushed or push failed:**
 
-- Strip #004 "The Pocket-Change Gate" (Sep 30): push blocked by a broken `git-lfs-s3` adapter. Checked Oct 29: no file or commit in GitHub mentions it, so it is still only in Base44 and the S3 copy.
+- Strip #004 "The Pocket-Change Gate" (Sep 30): push blocked by a broken `git-lfs-s3` adapter. Checked Oct 29: no file or commit in GitHub mentions it, so it is still only in Base44 and the S3 copy. Copied Oct 30: its record is in `docs/base44_data/elio/ComicStrip.json` and its picture in `docs/base44_data/comic_strips/strip_004_the_pocket_change_gate.jpg`.
 - Branch `mohs-vibration-system` (Sep 2, "push held"): checked Oct 29, the branch is in GitHub and is already part of main.
 - Strip #011 and #014 (Sep 19 and Sep 23), #033 (Oct 14): repo yes, live app no.
 - Sep 2 Whisper Layer spec and the 17-rename builder sync message: in the repo, not approved in the builder UI when last seen.
@@ -563,6 +567,7 @@ Each row gives both values and the source. "Latest wins" is applied where dates 
 | Strip #1 | "The Postmaster's Route" (Sep 12, live ComicStrip #001); script strip #001 painted `gazette_strip_001.png` (Sep 9); Strip Zero "The Greek Yogurt Accord" (Sep 4) filed as zero; repo comics file `strip_001_the_great_renaming.md` and gallery folder `strip_001_postmasters_route` | Sep 4-9, Sep 12-13, repo |
 | Strip #2 | "The Oldest Cold Case" (Sep 12). Earlier Sep 1 note says six ComicStrip records already existed. | Sep 12-13, Sep 1 |
 | Strip #004 reused | "The Keg and the Name" (Sep 17, called #004); "The Pocket-Change Gate" (Sep 30, Vaulknut, "strip #4"); "Three Mouths, One Braid" (Oct 7, "Strip #4", Vaulknut); repo has folders `strip_004_the_hound_who_stayed` and `strip_004_three_mouths_one_braid`, and `comics/strip_004_the_keg_and_the_name.md` | Sep 14-17, Sep 30 to Oct 8, repo |
+| Base44 numbering | In the Elio app's ComicStrip records (47, copied Oct 30), #4 is used seven times, #1 four times, and #2, #3, #5 and #7 twice each. | Base44 records |
 | #8 | "Molly and the Bill" (Sep 16, live isPublished true) | Sep 14-17 |
 | #9 to #14 | #009 What the Traveler Carried (Sep 18); #011 Three Skins (Sep 19/20); #012 Throat of the Building (Sep 21); #013 Silence Is the Road (Sep 22); #014 City Where Nothing Bites (Sep 23) | Sep 18-21, Sep 22-24 |
 | #10 | Repo has `strip_010_the_easel_that_faces_the_wall`; notes never name it | repo |
