@@ -1,0 +1,23 @@
+[
+  {
+    "artStyleId": null,
+    "featured": true,
+    "portraitUrl": null,
+    "shopName": "Soulstice Jeweler",
+    "bio": "The Inn's founding jeweler — the hands behind the Soulstice signature line. Beads cut from the Inn's own stone ledger, set in copper, silver, and gold.",
+    "displaySlots": 20,
+    "shopUrl": "https://soulsticejeweler.com",
+    "zones": [
+      "Main Floor Market",
+      "Desert Bone",
+      "Atlantis"
+    ],
+    "approvedDate": "2026-09-01",
+    "tier": "Kingdom",
+    "artisanName": "Soulstice Jewelry",
+    "status": "active",
+    "id": "6a97237299889943e38d8445",
+    "created_date": "2026-09-01T19:11:46.359000",
+    "updated_date": "2026-09-01T19:11:46.359000"
+  }
+]

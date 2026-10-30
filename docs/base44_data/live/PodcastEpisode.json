@@ -1,0 +1,80 @@
+[
+  {
+    "duration": "15 min",
+    "audioUrl": "",
+    "zone": "Main Floor",
+    "publishDate": "2026-08-25T09:00:00Z",
+    "description": "A cold open in the Main Floor: a single uncut stone hums at 42Hz, and Elio traces why the Inn was built around it.",
+    "isFriday": false,
+    "title": "The First Stone",
+    "episodeNumber": 1,
+    "id": "6a95636dc0e795125420db5e",
+    "created_date": "2026-08-31T11:20:13.259000",
+    "updated_date": "2026-08-31T11:20:13.259000"
+  },
+  {
+    "duration": "15 min",
+    "audioUrl": "",
+    "zone": "Common Room",
+    "publishDate": "2026-08-26T09:00:00Z",
+    "description": "From the Common Room hearth — what the fire says when no one is listening, and the threshold that keeps the door.",
+    "isFriday": false,
+    "title": "Cold Open: The Fire Speaks",
+    "episodeNumber": 2,
+    "id": "6a95636dc0e795125420db5f",
+    "created_date": "2026-08-31T11:20:13.259000",
+    "updated_date": "2026-08-31T11:20:13.259000"
+  },
+  {
+    "duration": "15 min",
+    "audioUrl": "",
+    "zone": "Staircase",
+    "publishDate": "2026-08-27T09:00:00Z",
+    "description": "A descent one flight down. The acoustics change, and so do the stories the steps remember.",
+    "isFriday": false,
+    "title": "Beneath the Staircase",
+    "episodeNumber": 3,
+    "id": "6a95636dc0e795125420db60",
+    "created_date": "2026-08-31T11:20:13.259000",
+    "updated_date": "2026-08-31T11:20:13.259000"
+  },
+  {
+    "duration": "45 min",
+    "audioUrl": "",
+    "zone": "Cosmology",
+    "publishDate": "2026-08-28T09:00:00Z",
+    "description": "The long episode. Elio assembles the Inn's resonance engine, stone by stone, until the song is complete. Forty-five minutes, no edits.",
+    "isFriday": true,
+    "title": "Friday Edition: The Inn Song",
+    "episodeNumber": 4,
+    "id": "6a95636dc0e795125420db61",
+    "created_date": "2026-08-31T11:20:13.259000",
+    "updated_date": "2026-08-31T11:20:13.259000"
+  },
+  {
+    "duration": "15 min",
+    "audioUrl": "",
+    "zone": "Market",
+    "publishDate": "2026-08-29T09:00:00Z",
+    "description": "Inside the Market — a tour of the Inn's curated artist styles, and why no faire may bring its own.",
+    "isFriday": false,
+    "title": "Catalog of 37 Styles",
+    "episodeNumber": 5,
+    "id": "6a95636dc0e795125420db62",
+    "created_date": "2026-08-31T11:20:13.259000",
+    "updated_date": "2026-08-31T11:20:13.259000"
+  },
+  {
+    "duration": "15 min",
+    "audioUrl": "",
+    "zone": "Archive",
+    "publishDate": "2026-08-30T09:00:00Z",
+    "description": "Beverley's stacks at dusk. A few lines read aloud from a book older than the country, and what the translation leaves behind.",
+    "isFriday": false,
+    "title": "Archive Voices",
+    "episodeNumber": 6,
+    "id": "6a95636dc0e795125420db63",
+    "created_date": "2026-08-31T11:20:13.259000",
+    "updated_date": "2026-08-31T11:20:13.259000"
+  }
+]

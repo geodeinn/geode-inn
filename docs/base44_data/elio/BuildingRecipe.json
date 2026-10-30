@@ -1,0 +1,3140 @@
+[
+  {
+    "quantities": [
+      15,
+      20,
+      10
+    ],
+    "resultName": "Acadian Palmetto & Cypress Shelter",
+    "buildingTier": 1,
+    "description": "A primitive frontier cabin of split cypress logs, woven reed thatch, and bog moss chinking.",
+    "craftingStation": "Workshop",
+    "materials": [
+      "Cypress",
+      "Reed",
+      "Bog Moss"
+    ],
+    "resultType": "Structure",
+    "id": "6a94589b446f806755b35637",
+    "created_date": "2026-08-30T16:21:47.470000",
+    "updated_date": "2026-08-30T16:21:47.470000"
+  },
+  {
+    "quantities": [
+      12,
+      6
+    ],
+    "resultName": "Agate Flaking Shrine",
+    "buildingTier": 1,
+    "description": "A small stone altar of stacked petrified wood blocks surrounding a polished agate anvil stone for flintknapping.",
+    "craftingStation": "Workshop",
+    "materials": [
+      "Petrified Wood",
+      "Agate"
+    ],
+    "resultType": "Structure",
+    "id": "6a9458a1d87ea6c1bd545334",
+    "created_date": "2026-08-30T16:21:53.413000",
+    "updated_date": "2026-08-30T16:21:53.413000"
+  },
+  {
+    "quantities": [
+      10,
+      15
+    ],
+    "resultName": "Ancestral Pit House",
+    "buildingTier": 1,
+    "description": "A semi-subterranean shelter with excavated floor, sandstone retaining walls, and juniper post roof.",
+    "craftingStation": "Workshop",
+    "materials": [
+      "Sandstone",
+      "Juniper"
+    ],
+    "resultType": "Structure",
+    "id": "6a94589c81750dcb174ee52d",
+    "created_date": "2026-08-30T16:21:48.892000",
+    "updated_date": "2026-08-30T16:21:48.892000"
+  },
+  {
+    "quantities": [
+      105,
+      38,
+      30
+    ],
+    "resultName": "Ancient Fossilized Lodge",
+    "buildingTier": 4,
+    "description": "A substantial dwelling of heavy petrified wood trunks with agate-inlaid doorways and translucent chalcedony windows.",
+    "craftingStation": "Forge",
+    "materials": [
+      "Petrified Wood",
+      "Agate",
+      "Chalcedony"
+    ],
+    "resultType": "Structure",
+    "id": "6a9458a2ab49bbaea620b0ad",
+    "created_date": "2026-08-30T16:21:54.123000",
+    "updated_date": "2026-08-30T16:21:54.123000"
+  },
+  {
+    "quantities": [
+      80,
+      50,
+      40,
+      20
+    ],
+    "resultName": "Ancient Greek Stone Theater",
+    "buildingTier": 4,
+    "description": "A hillside semi-circular theater with tiered limestone seating and marble orchestra floor.",
+    "craftingStation": "Forge",
+    "materials": [
+      "Limestone",
+      "Marble",
+      "Sandstone",
+      "Olive Wood"
+    ],
+    "resultType": "Structure",
+    "id": "6a94589342eb8f134067234d",
+    "created_date": "2026-08-30T16:21:39.231000",
+    "updated_date": "2026-08-30T16:21:39.231000"
+  },
+  {
+    "quantities": [
+      40,
+      20,
+      10
+    ],
+    "resultName": "Andenes Agricultural Terrace",
+    "buildingTier": 3,
+    "description": "A multi-layered agricultural terrace with dry-stone retaining walls and gravel drainage layers.",
+    "craftingStation": "Workshop",
+    "materials": [
+      "Andesite",
+      "Limestone",
+      "Andean Alder"
+    ],
+    "resultType": "Structure",
+    "id": "6a94589aea740c9abd96f01c",
+    "created_date": "2026-08-30T16:21:46.734000",
+    "updated_date": "2026-08-30T16:21:46.734000"
+  },
+  {
+    "quantities": [
+      190,
+      80,
+      45
+    ],
+    "resultName": "Apache Leap Stronghold",
+    "buildingTier": 5,
+    "description": "An imposing mountain fortress with granite masonry towers, heavy ironwood gates, and multi-level saguaro colonnades.",
+    "craftingStation": "Crystal Chamber",
+    "materials": [
+      "Granite",
+      "Desert Ironwood",
+      "Saguaro"
+    ],
+    "resultType": "Structure",
+    "id": "6a9458a005e47a375f33992e",
+    "created_date": "2026-08-30T16:21:52.087000",
+    "updated_date": "2026-08-30T16:21:52.087000"
+  },
+  {
+    "quantities": [
+      55,
+      32,
+      10
+    ],
+    "resultName": "Appalachian Notch Cabin",
+    "buildingTier": 3,
+    "description": "A classic pioneer log cabin of hand-hewn chestnut timbers joined with dovetail corner notches.",
+    "craftingStation": "Workshop",
+    "materials": [
+      "Chestnut",
+      "Oak",
+      "Ginseng"
+    ],
+    "resultType": "Structure",
+    "id": "6a9458a04501927b1e2b94a1",
+    "created_date": "2026-08-30T16:21:52.804000",
+    "updated_date": "2026-08-30T16:21:52.804000"
+  },
+  {
+    "quantities": [
+      130,
+      75,
+      35,
+      15,
+      8
+    ],
+    "resultName": "Arthurian Limestone Keep & Castle",
+    "buildingTier": 5,
+    "description": "A monumental stone stronghold with limestone curtain walls, iron-sheathed oak portcullises, and amber-inlaid throne room.",
+    "craftingStation": "Crystal Chamber",
+    "materials": [
+      "Limestone",
+      "English Oak",
+      "Bog Iron",
+      "Bronze",
+      "Amber"
+    ],
+    "resultType": "Structure",
+    "id": "6a945894acc330b28a3190bf",
+    "created_date": "2026-08-30T16:21:40.732000",
+    "updated_date": "2026-08-30T16:21:40.732000"
+  },
+  {
+    "quantities": [
+      60,
+      35,
+      20,
+      5
+    ],
+    "resultName": "Arthurian Timber Mead Hall",
+    "buildingTier": 3,
+    "description": "A grand chieftain's hall with heavy oak posts, thatched roof, iron hearth fixtures, and carved amber finials.",
+    "craftingStation": "Workshop",
+    "materials": [
+      "English Oak",
+      "Reed",
+      "Bog Iron",
+      "Amber"
+    ],
+    "resultType": "Structure",
+    "id": "6a945894f4bcef61a0497ede",
+    "created_date": "2026-08-30T16:21:40.305000",
+    "updated_date": "2026-08-30T16:21:40.305000"
+  },
+  {
+    "quantities": [
+      6,
+      2
+    ],
+    "resultName": "Bamboo Screen",
+    "buildingTier": 1,
+    "description": "A folding bamboo screen. Divides space, lets light through.",
+    "craftingStation": "Workshop",
+    "materials": [
+      "Bamboo",
+      "Reed"
+    ],
+    "resultType": "Structure",
+    "id": "6a945608d3ed4fa9575da29b",
+    "created_date": "2026-08-30T16:10:48.083000",
+    "updated_date": "2026-08-30T16:10:48.083000"
+  },
+  {
+    "quantities": [
+      25,
+      10,
+      15,
+      5
+    ],
+    "resultName": "Bayou Smokehouse & Potager",
+    "buildingTier": 2,
+    "description": "A cypress timber outbuilding with bog-iron hinges and clay-moss lining for curing meats, paired with a kitchen garden.",
+    "craftingStation": "Workshop",
+    "materials": [
+      "Cypress",
+      "Bog Iron",
+      "Spanish Moss",
+      "Honey"
+    ],
+    "resultType": "Structure",
+    "id": "6a94589b44eb943fabf00626",
+    "created_date": "2026-08-30T16:21:47.772000",
+    "updated_date": "2026-08-30T16:21:47.772000"
+  },
+  {
+    "quantities": [
+      35,
+      10,
+      4
+    ],
+    "resultName": "Bioluminescent Passage",
+    "buildingTier": 3,
+    "description": "An underwater passage lit by bioluminescent algae in the walls, with cave pearl markers. The Vorticist color in living form — blue-green against black basalt.",
+    "craftingStation": "Workshop",
+    "materials": [
+      "Basalt",
+      "Bioluminescent Algae",
+      "Cave Pearl"
+    ],
+    "resultType": "Structure",
+    "id": "6a9470871e8cce7d3e6858e1",
+    "created_date": "2026-08-30T18:03:51.292000",
+    "updated_date": "2026-08-30T18:03:51.292000"
+  },
+  {
+    "quantities": [
+      150,
+      100,
+      40
+    ],
+    "resultName": "Bitumen-Baked Brick Rampart",
+    "buildingTier": 3,
+    "description": "A heavy city defense wall of mudbrick core encased in kiln-baked bricks set in bitumen mortar.",
+    "craftingStation": "Forge",
+    "materials": [
+      "Baked Brick",
+      "Clay",
+      "Bitumen"
+    ],
+    "resultType": "Structure",
+    "id": "6a9458913ff8e5023fc50164",
+    "created_date": "2026-08-30T16:21:37.624000",
+    "updated_date": "2026-08-30T16:21:37.624000"
+  },
+  {
+    "quantities": [
+      60,
+      20,
+      25
+    ],
+    "resultName": "Bitumen-Sealed Domestic House",
+    "buildingTier": 2,
+    "description": "A courtyard house of sun-dried mudbricks with bitumen waterproofing and reed-mat ceiling support.",
+    "craftingStation": "Workshop",
+    "materials": [
+      "Clay",
+      "Bitumen",
+      "Reed"
+    ],
+    "resultType": "Structure",
+    "id": "6a94589162271df0754878c7",
+    "created_date": "2026-08-30T16:21:37.427000",
+    "updated_date": "2026-08-30T16:21:37.427000"
+  },
+  {
+    "quantities": [
+      15,
+      8,
+      4
+    ],
+    "resultName": "Bone Chandelier",
+    "buildingTier": 3,
+    "description": "A hanging chandelier of strung vertebrae and amber crystals, lit from within. O'Keeffe's skull against the sky, made into a light fixture.",
+    "craftingStation": "Forge",
+    "materials": [
+      "Bone",
+      "Amber Crystal",
+      "Copper"
+    ],
+    "resultType": "Decoration",
+    "id": "6a947085ff19df8773abb532",
+    "created_date": "2026-08-30T18:03:49.136000",
+    "updated_date": "2026-08-30T18:03:49.136000"
+  },
+  {
+    "quantities": [
+      8,
+      5,
+      12
+    ],
+    "resultName": "Bone Cleaning Station",
+    "buildingTier": 2,
+    "description": "A workbench with copper tools for cleaning bones — brushes, chisels, and wire. The meeting place between the bone and the keeper.",
+    "craftingStation": "Workshop",
+    "materials": [
+      "Bone",
+      "Copper",
+      "Limestone"
+    ],
+    "resultType": "Station",
+    "id": "6a947084b71e6623f8c73dca",
+    "created_date": "2026-08-30T18:03:48.328000",
+    "updated_date": "2026-08-30T18:03:48.328000"
+  },
+  {
+    "quantities": [
+      5,
+      8
+    ],
+    "resultName": "Bone Display Niche",
+    "buildingTier": 1,
+    "description": "A carved limestone shelf for displaying cleaned bones. The first act of preservation — giving the bone its own space, its own light.",
+    "craftingStation": "Workshop",
+    "materials": [
+      "Bone",
+      "Limestone"
+    ],
+    "resultType": "Decoration",
+    "id": "6a9470848b589b1d999c9be8",
+    "created_date": "2026-08-30T18:03:48.047000",
+    "updated_date": "2026-08-30T18:03:48.047000"
+  },
+  {
+    "quantities": [
+      35,
+      25,
+      20,
+      12
+    ],
+    "resultName": "Bousillage Shotgun House",
+    "buildingTier": 2,
+    "description": "A narrow single-story home on elevated cypress stilts with mud-and-moss bousillage wall infill.",
+    "craftingStation": "Workshop",
+    "materials": [
+      "Cypress",
+      "Spanish Moss",
+      "Bog Moss",
+      "Bog Iron"
+    ],
+    "resultType": "Structure",
+    "id": "6a94589b740c57761c9bcc4c",
+    "created_date": "2026-08-30T16:21:47.992000",
+    "updated_date": "2026-08-30T16:21:47.992000"
+  },
+  {
+    "quantities": [
+      20,
+      5,
+      3
+    ],
+    "resultName": "Carved Cooking Hearth",
+    "buildingTier": 2,
+    "description": "A fire pit carved into the cave floor with smoke channels cut upward through the stone. Amber crystals provide light, bone provides fuel.",
+    "craftingStation": "Workshop",
+    "materials": [
+      "Limestone",
+      "Amber Crystal",
+      "Bone"
+    ],
+    "resultType": "Station",
+    "id": "6a9470821ac0396b7d25f850",
+    "created_date": "2026-08-30T18:03:46.846000",
+    "updated_date": "2026-08-30T18:03:46.846000"
+  },
+  {
+    "quantities": [
+      45,
+      3,
+      15
+    ],
+    "resultName": "Carved Council Chamber",
+    "buildingTier": 3,
+    "description": "A meeting hall carved from the rock, with gargoyle stone sentinels watching from the walls and glow moss lighting the chamber.",
+    "craftingStation": "Forge",
+    "materials": [
+      "Limestone",
+      "Gargoyle Stone",
+      "Glow Moss"
+    ],
+    "resultType": "Structure",
+    "id": "6a94708376b2c82225e260e0",
+    "created_date": "2026-08-30T18:03:47.360000",
+    "updated_date": "2026-08-30T18:03:47.360000"
+  },
+  {
+    "quantities": [
+      80,
+      5,
+      12,
+      8
+    ],
+    "resultName": "Carved Sacred Grotto",
+    "buildingTier": 4,
+    "description": "A sacred space carved deep into the rock, with gargoyle stone eyes watching, amber crystals casting warm light, and cave pearls adorning the altar.",
+    "craftingStation": "Crystal Chamber",
+    "materials": [
+      "Limestone",
+      "Gargoyle Stone",
+      "Amber Crystal",
+      "Cave Pearl"
+    ],
+    "resultType": "Structure",
+    "id": "6a94708340f8feccddbb1382",
+    "created_date": "2026-08-30T18:03:47.594000",
+    "updated_date": "2026-08-30T18:03:47.594000"
+  },
+  {
+    "quantities": [
+      200,
+      90,
+      15,
+      10
+    ],
+    "resultName": "Carved Sandstone Haveli",
+    "buildingTier": 3,
+    "description": "A grand merchant courtyard residence with intricately carved sandstone jali screens and sandalwood doorways.",
+    "craftingStation": "Workshop",
+    "materials": [
+      "Sandstone",
+      "Teak",
+      "Indigo",
+      "Sandalwood"
+    ],
+    "resultType": "Structure",
+    "id": "6a9458991cb5d203272cc9cb",
+    "created_date": "2026-08-30T16:21:45.656000",
+    "updated_date": "2026-08-30T16:21:45.656000"
+  },
+  {
+    "quantities": [
+      15
+    ],
+    "resultName": "Carved Sandstone Niche",
+    "buildingTier": 1,
+    "description": "A simple carved niche in the rose sandstone cliff. The Subtractive Family's extrovert — the carving is visible, decorative, announced.",
+    "craftingStation": "Workshop",
+    "materials": [
+      "Sandstone"
+    ],
+    "resultType": "Structure",
+    "id": "6a94708b73239cd5cbb17d6b",
+    "created_date": "2026-08-30T18:03:55.860000",
+    "updated_date": "2026-08-30T18:03:55.860000"
+  },
+  {
+    "quantities": [
+      12,
+      6
+    ],
+    "resultName": "Carved Sleeping Hollow",
+    "buildingTier": 1,
+    "description": "A sleeping hollow carved directly from the rock, lined with cave mushroom padding. The bed is the negative space — the building is what you removed.",
+    "craftingStation": "Workshop",
+    "materials": [
+      "Limestone",
+      "Cave Mushroom"
+    ],
+    "resultType": "Structure",
+    "id": "6a947082ccb2ce12a9d13775",
+    "created_date": "2026-08-30T18:03:46.635000",
+    "updated_date": "2026-08-30T18:03:46.635000"
+  },
+  {
+    "quantities": [
+      18,
+      4
+    ],
+    "resultName": "Carved Storage Niche",
+    "buildingTier": 2,
+    "description": "Shelves carved into the cave wall, decorated with cave pearls. The Subtractive storage — the shelf is the absence of stone.",
+    "craftingStation": "Workshop",
+    "materials": [
+      "Limestone",
+      "Cave Pearl"
+    ],
+    "resultType": "Structure",
+    "id": "6a9470837fb9ecabe0b42bb5",
+    "created_date": "2026-08-30T18:03:47.070000",
+    "updated_date": "2026-08-30T18:03:47.070000"
+  },
+  {
+    "quantities": [
+      15,
+      8
+    ],
+    "resultName": "Carved Threshold Niche",
+    "buildingTier": 1,
+    "description": "An entry chamber carved into limestone, lit by bioluminescent glow moss in wall niches. The first act of subtraction — removing stone to make a space.",
+    "craftingStation": "Workshop",
+    "materials": [
+      "Limestone",
+      "Glow Moss"
+    ],
+    "resultType": "Structure",
+    "id": "6a947082cc8b03be4d1be87b",
+    "created_date": "2026-08-30T18:03:46.426000",
+    "updated_date": "2026-08-30T18:03:46.426000"
+  },
+  {
+    "quantities": [
+      40,
+      12,
+      10,
+      8
+    ],
+    "resultName": "Catacomb Cubiculum",
+    "buildingTier": 3,
+    "description": "A vaulted burial chamber with shadow moss insulation, bone displays, and gold-inlaid walls. The Klimt 'Death and Life' painting made into a room.",
+    "craftingStation": "Forge",
+    "materials": [
+      "Ancient Brick",
+      "Shadow Moss",
+      "Bone",
+      "Gold Ore"
+    ],
+    "resultType": "Structure",
+    "id": "6a947088450c58bda3fefe94",
+    "created_date": "2026-08-30T18:03:52.730000",
+    "updated_date": "2026-08-30T18:03:52.730000"
+  },
+  {
+    "quantities": [
+      12,
+      6
+    ],
+    "resultName": "Catacomb Niche",
+    "buildingTier": 1,
+    "description": "A burial niche built from ancient brick, lined with sound-absorbing shadow moss. The catacomb's first adequate resting place.",
+    "craftingStation": "Workshop",
+    "materials": [
+      "Ancient Brick",
+      "Shadow Moss"
+    ],
+    "resultType": "Structure",
+    "id": "6a947088f6c646f58eacebb0",
+    "created_date": "2026-08-30T18:03:52.042000",
+    "updated_date": "2026-08-30T18:03:52.042000"
+  },
+  {
+    "quantities": [
+      90,
+      40,
+      25,
+      20,
+      15
+    ],
+    "resultName": "Cathedral of St. Sophia",
+    "buildingTier": 5,
+    "description": "A magnificent multi-domed cathedral with imported limestone masonry and gold-gilded cupolas.",
+    "craftingStation": "Crystal Chamber",
+    "materials": [
+      "Limestone",
+      "Pine",
+      "Bog Iron",
+      "Gold Ore",
+      "Runestone"
+    ],
+    "resultType": "Structure",
+    "id": "6a945897e086d489d9b7ef8a",
+    "created_date": "2026-08-30T16:21:43.089000",
+    "updated_date": "2026-08-30T16:21:43.089000"
+  },
+  {
+    "quantities": [
+      50,
+      40,
+      15
+    ],
+    "resultName": "Celtic Hillfort Rampart",
+    "buildingTier": 2,
+    "description": "A fortified portal with heavy oak timber palisade, dry-stone limestone walls, and iron-strapped doors.",
+    "craftingStation": "Workshop",
+    "materials": [
+      "English Oak",
+      "Limestone",
+      "Bog Iron"
+    ],
+    "resultType": "Structure",
+    "id": "6a945894952220ba96ac85a5",
+    "created_date": "2026-08-30T16:21:40.117000",
+    "updated_date": "2026-08-30T16:21:40.117000"
+  },
+  {
+    "quantities": [
+      15,
+      25,
+      10
+    ],
+    "resultName": "Celtic Wattle & Thatch Roundhouse",
+    "buildingTier": 1,
+    "description": "A traditional circular dwelling with oak timber frame, woven wattle, and steep thatched reed and heather roof.",
+    "craftingStation": "Workshop",
+    "materials": [
+      "English Oak",
+      "Reed",
+      "Heather"
+    ],
+    "resultType": "Structure",
+    "id": "6a945893f2f7f5c58cf62c49",
+    "created_date": "2026-08-30T16:21:39.721000",
+    "updated_date": "2026-08-30T16:21:39.721000"
+  },
+  {
+    "quantities": [
+      50,
+      40,
+      6
+    ],
+    "resultName": "Ceremonial Kiva",
+    "buildingTier": 3,
+    "description": "A circular subterranean chamber with stone bench seating, central hearth, sipapu floor niche, and turquoise accents.",
+    "craftingStation": "Forge",
+    "materials": [
+      "Sandstone",
+      "Juniper",
+      "Turquoise"
+    ],
+    "resultType": "Structure",
+    "id": "6a94589d503606e3f2a2d436",
+    "created_date": "2026-08-30T16:21:49.356000",
+    "updated_date": "2026-08-30T16:21:49.356000"
+  },
+  {
+    "quantities": [
+      25,
+      12
+    ],
+    "resultName": "Chalcedony Trail Marker",
+    "buildingTier": 2,
+    "description": "A tall stone cairn of petrified wood slabs topped with a luminous chalcedony crystal reflecting desert sunlight.",
+    "craftingStation": "Workshop",
+    "materials": [
+      "Petrified Wood",
+      "Chalcedony"
+    ],
+    "resultType": "Decoration",
+    "id": "6a9458a171da4f8b99a70fad",
+    "created_date": "2026-08-30T16:21:53.621000",
+    "updated_date": "2026-08-30T16:21:53.621000"
+  },
+  {
+    "quantities": [
+      35,
+      40,
+      25,
+      12
+    ],
+    "resultName": "Classical Stoa Colonnade",
+    "buildingTier": 3,
+    "description": "A covered public walkway with marble columns, limestone rear wall, and olive wood rafters with bronze trim.",
+    "craftingStation": "Forge",
+    "materials": [
+      "Marble",
+      "Limestone",
+      "Olive Wood",
+      "Bronze"
+    ],
+    "resultType": "Structure",
+    "id": "6a9458933ff8e5023fc50166",
+    "created_date": "2026-08-30T16:21:39.024000",
+    "updated_date": "2026-08-30T16:21:39.024000"
+  },
+  {
+    "quantities": [
+      110,
+      75,
+      15
+    ],
+    "resultName": "Cliff Alcove Palace",
+    "buildingTier": 4,
+    "description": "A multi-story masonry structure inside a massive sandstone cliff alcove, with juniper beams and turquoise mosaics.",
+    "craftingStation": "Forge",
+    "materials": [
+      "Sandstone",
+      "Juniper",
+      "Turquoise"
+    ],
+    "resultType": "Structure",
+    "id": "6a94589d00ab88dd6750fffd",
+    "created_date": "2026-08-30T16:21:49.615000",
+    "updated_date": "2026-08-30T16:21:49.615000"
+  },
+  {
+    "quantities": [
+      58,
+      32,
+      26
+    ],
+    "resultName": "Coastal Redwood Plank House",
+    "buildingTier": 3,
+    "description": "A traditional rectangular coastal dwelling of massive hand-split redwood planks on stone footings.",
+    "craftingStation": "Workshop",
+    "materials": [
+      "Redwood",
+      "Fern",
+      "Fog Moss"
+    ],
+    "resultType": "Structure",
+    "id": "6a9458a31fa78e9e6ed0b45e",
+    "created_date": "2026-08-30T16:21:55.157000",
+    "updated_date": "2026-08-30T16:21:55.157000"
+  },
+  {
+    "quantities": [
+      4,
+      2,
+      1
+    ],
+    "resultName": "Crafting Bench",
+    "buildingTier": 2,
+    "description": "A workbench with iron clamps and a waxed surface. Where everything begins.",
+    "craftingStation": "Workshop",
+    "materials": [
+      "Oak",
+      "Bog Iron",
+      "Beeswax"
+    ],
+    "resultType": "Station",
+    "id": "6a945608f9911c23ba12f1fd",
+    "created_date": "2026-08-30T16:10:48.332000",
+    "updated_date": "2026-08-30T16:10:48.332000"
+  },
+  {
+    "quantities": [
+      90,
+      45,
+      30,
+      40,
+      15
+    ],
+    "resultName": "Creole Gallery Plantation House",
+    "buildingTier": 4,
+    "description": "A spacious Creole residence with surrounding gallery porch, cypress siding, and hand-forged bog iron fasteners.",
+    "craftingStation": "Forge",
+    "materials": [
+      "Cypress",
+      "Spanish Moss",
+      "Bog Iron",
+      "Reed",
+      "Honey"
+    ],
+    "resultType": "Structure",
+    "id": "6a94589c8d39022290cd014c",
+    "created_date": "2026-08-30T16:21:48.394000",
+    "updated_date": "2026-08-30T16:21:48.394000"
+  },
+  {
+    "quantities": [
+      45,
+      15,
+      5
+    ],
+    "resultName": "Deir el-Medina Craftsman Dwelling",
+    "buildingTier": 2,
+    "description": "A domestic residence with sandstone foundation walls, papyrus thatch roof, and forged copper fittings.",
+    "craftingStation": "Workshop",
+    "materials": [
+      "Sandstone",
+      "Papyrus",
+      "Copper"
+    ],
+    "resultType": "Structure",
+    "id": "6a94589081591489e978dfdf",
+    "created_date": "2026-08-30T16:21:36.091000",
+    "updated_date": "2026-08-30T16:21:36.091000"
+  },
+  {
+    "quantities": [
+      35,
+      12
+    ],
+    "resultName": "Desert Dry-Stone Wall",
+    "buildingTier": 2,
+    "description": "A rugged terrace wall of interlocking granite stones without mortar, reinforced with ironwood posts.",
+    "craftingStation": "Workshop",
+    "materials": [
+      "Granite",
+      "Desert Ironwood"
+    ],
+    "resultType": "Structure",
+    "id": "6a94589fbd4b808ff31a0a88",
+    "created_date": "2026-08-30T16:21:51.468000",
+    "updated_date": "2026-08-30T16:21:51.468000"
+  },
+  {
+    "quantities": [
+      180,
+      40,
+      15,
+      60
+    ],
+    "resultName": "Desert Glass Sun Sanctuary",
+    "buildingTier": 4,
+    "description": "An open-air solar chapel with sacred scarab altars inlaid with gold leaf and Libyan desert glass.",
+    "craftingStation": "Forge",
+    "materials": [
+      "Sandstone",
+      "Desert Glass",
+      "Gold Ore",
+      "Limestone"
+    ],
+    "resultType": "Structure",
+    "id": "6a945890313ac6814aae3b28",
+    "created_date": "2026-08-30T16:21:36.515000",
+    "updated_date": "2026-08-30T16:21:36.515000"
+  },
+  {
+    "quantities": [
+      30,
+      15,
+      5,
+      12
+    ],
+    "resultName": "Enclosed Toxic Courtyard",
+    "buildingTier": 3,
+    "description": "A walled courtyard of thorn vine and shadow wood, filled with nightshade and venom sac specimens. The Poison Garden's inner sanctum.",
+    "craftingStation": "Forge",
+    "materials": [
+      "Thorn Vine",
+      "Nightshade",
+      "Venom Sac",
+      "Shadow Wood"
+    ],
+    "resultType": "Structure",
+    "id": "6a94708b3c8fd1f9e9a73a16",
+    "created_date": "2026-08-30T18:03:55.348000",
+    "updated_date": "2026-08-30T18:03:55.348000"
+  },
+  {
+    "quantities": [
+      2,
+      2,
+      1,
+      1,
+      1
+    ],
+    "resultName": "Fae Altar",
+    "buildingTier": 3,
+    "description": "An altar that glows from within. The Fae Kingdom's sacred architecture.",
+    "craftingStation": "Fae Workshop",
+    "materials": [
+      "Luminwood",
+      "Luminite",
+      "Fae Dust",
+      "Fairy Silk",
+      "Crystal"
+    ],
+    "resultType": "Structure",
+    "id": "6a94560ac9f7b7b80763886f",
+    "created_date": "2026-08-30T16:10:50.121000",
+    "updated_date": "2026-08-30T16:10:50.121000"
+  },
+  {
+    "quantities": [
+      3,
+      2,
+      2,
+      1,
+      1,
+      1,
+      2
+    ],
+    "resultName": "Fae Kingdom Portal",
+    "buildingTier": 4,
+    "description": "The portal to the Fae Kingdom. Living wood, fae light, ancient bog oak, and tuned crystal. The gate between worlds.",
+    "craftingStation": "Fae Workshop",
+    "materials": [
+      "Luminwood",
+      "Luminite",
+      "Fae Dust",
+      "Fairy Silk",
+      "Resonance Crystal",
+      "Bog Oak",
+      "Crystal"
+    ],
+    "resultType": "Portal",
+    "id": "6a94560b55cd1f158888c61b",
+    "created_date": "2026-08-30T16:10:51.131000",
+    "updated_date": "2026-08-30T16:10:51.131000"
+  },
+  {
+    "quantities": [
+      28,
+      22
+    ],
+    "resultName": "Fern-Thatched Ridge Shelter",
+    "buildingTier": 2,
+    "description": "A coastal lean-to of split redwood posts with heavy roof thatch woven from giant sword ferns.",
+    "craftingStation": "Workshop",
+    "materials": [
+      "Redwood",
+      "Fern"
+    ],
+    "resultType": "Structure",
+    "id": "6a9458a273bb87b9e7aab1e2",
+    "created_date": "2026-08-30T16:21:54.900000",
+    "updated_date": "2026-08-30T16:21:54.900000"
+  },
+  {
+    "quantities": [
+      60,
+      20,
+      10
+    ],
+    "resultName": "Frontier Log Cabin",
+    "buildingTier": 3,
+    "description": "A rugged wilderness homestead of notched lodgepole pine logs chinked with mud and geyser salt mortar.",
+    "craftingStation": "Workshop",
+    "materials": [
+      "Lodgepole Pine",
+      "Geyser Salt",
+      "Obsidian"
+    ],
+    "resultType": "Structure",
+    "id": "6a94589e7db3ddfa529530ac",
+    "created_date": "2026-08-30T16:21:50.607000",
+    "updated_date": "2026-08-30T16:21:50.607000"
+  },
+  {
+    "quantities": [
+      28,
+      16
+    ],
+    "resultName": "Frontier Root Cellar",
+    "buildingTier": 2,
+    "description": "A subterranean food storage bunker with fieldstone walls, chestnut framing, and oak plank trapdoor.",
+    "craftingStation": "Workshop",
+    "materials": [
+      "Chestnut",
+      "Oak"
+    ],
+    "resultType": "Structure",
+    "id": "6a9458a02afc25904fd5c0dc",
+    "created_date": "2026-08-30T16:21:52.483000",
+    "updated_date": "2026-08-30T16:21:52.483000"
+  },
+  {
+    "quantities": [
+      60,
+      10,
+      8
+    ],
+    "resultName": "Garden Chhatri Pavilion",
+    "buildingTier": 1,
+    "description": "An elevated kiosk with carved sandstone pillars, stone cupola dome, copper spire, and indigo fresco accents.",
+    "craftingStation": "Workshop",
+    "materials": [
+      "Sandstone",
+      "Copper",
+      "Indigo"
+    ],
+    "resultType": "Structure",
+    "id": "6a945898805e38237a6313fa",
+    "created_date": "2026-08-30T16:21:44.772000",
+    "updated_date": "2026-08-30T16:21:44.772000"
+  },
+  {
+    "quantities": [
+      2,
+      2,
+      1
+    ],
+    "resultName": "Garden Planter",
+    "buildingTier": 2,
+    "description": "Raised bed lined with willow and moss. Where things grow.",
+    "craftingStation": "Workshop",
+    "materials": [
+      "Oak",
+      "Willow",
+      "Bog Moss"
+    ],
+    "resultType": "Decoration",
+    "id": "6a9456097296afce6428e42d",
+    "created_date": "2026-08-30T16:10:49.098000",
+    "updated_date": "2026-08-30T16:10:49.098000"
+  },
+  {
+    "quantities": [
+      35,
+      3,
+      8
+    ],
+    "resultName": "Gargoyle Sentinel Post",
+    "buildingTier": 3,
+    "description": "A guarded passage with gargoyle stone sentinels embedded in gold-veined brick walls. The eyes watch. The 64Hz Listener is present.",
+    "craftingStation": "Forge",
+    "materials": [
+      "Ancient Brick",
+      "Gargoyle Stone",
+      "Gold Ore"
+    ],
+    "resultType": "Structure",
+    "id": "6a947088233612451f8e38b6",
+    "created_date": "2026-08-30T18:03:52.477000",
+    "updated_date": "2026-08-30T18:03:52.477000"
+  },
+  {
+    "quantities": [
+      4,
+      2,
+      2,
+      1,
+      1,
+      2,
+      1,
+      1
+    ],
+    "resultName": "Geode Gate",
+    "buildingTier": 4,
+    "description": "A gate of crystal and resonance that opens into the geode's heart. Requires materials from every level of the Inn.",
+    "craftingStation": "Crystal Chamber",
+    "materials": [
+      "Crystal",
+      "Resonance Crystal",
+      "Luminite",
+      "Bog Oak",
+      "Gold Ore",
+      "Marble",
+      "Star Dust",
+      "Dragon Scale"
+    ],
+    "resultType": "Portal",
+    "id": "6a94560a88a710ae875e2982",
+    "created_date": "2026-08-30T16:10:50.883000",
+    "updated_date": "2026-08-30T16:10:50.883000"
+  },
+  {
+    "quantities": [
+      220,
+      70,
+      35
+    ],
+    "resultName": "Geyser Thermal Lodge",
+    "buildingTier": 5,
+    "description": "A grand wilderness lodge with heavy timber joinery, geothermal salt-cured siding, and polished obsidian fireplaces.",
+    "craftingStation": "Crystal Chamber",
+    "materials": [
+      "Lodgepole Pine",
+      "Geyser Salt",
+      "Obsidian"
+    ],
+    "resultType": "Structure",
+    "id": "6a94589f4c3a99c48c5074f9",
+    "created_date": "2026-08-30T16:21:51.035000",
+    "updated_date": "2026-08-30T16:21:51.035000"
+  },
+  {
+    "quantities": [
+      120,
+      25,
+      30
+    ],
+    "resultName": "Glazed Lapis Gateway Tower",
+    "buildingTier": 3,
+    "description": "A fortified entryway of kiln-baked bricks glazed with deep blue lapis lazuli pigments.",
+    "craftingStation": "Forge",
+    "materials": [
+      "Baked Brick",
+      "Lapis Lazuli",
+      "Bitumen"
+    ],
+    "resultType": "Structure",
+    "id": "6a945891102187b615ca9d2f",
+    "created_date": "2026-08-30T16:21:37.975000",
+    "updated_date": "2026-08-30T16:21:37.975000"
+  },
+  {
+    "quantities": [
+      250,
+      30,
+      25,
+      50
+    ],
+    "resultName": "Gold-Capped Sandstone Obelisk",
+    "buildingTier": 4,
+    "description": "A monolithic four-sided sandstone obelisk on a limestone pedestal topped with gold-plated pyramidion.",
+    "craftingStation": "Forge",
+    "materials": [
+      "Sandstone",
+      "Gold Ore",
+      "Copper",
+      "Limestone"
+    ],
+    "resultType": "Decoration",
+    "id": "6a945890b46f583fa63f3443",
+    "created_date": "2026-08-30T16:21:36.767000",
+    "updated_date": "2026-08-30T16:21:36.767000"
+  },
+  {
+    "quantities": [
+      25,
+      5,
+      10
+    ],
+    "resultName": "Gold-Veined Passage",
+    "buildingTier": 2,
+    "description": "A passage with gold veins running through dark brick, insulated with shadow moss. The Klimt golden phase as architecture — gold on dark, luminous against shadow.",
+    "craftingStation": "Forge",
+    "materials": [
+      "Ancient Brick",
+      "Gold Ore",
+      "Shadow Moss"
+    ],
+    "resultType": "Structure",
+    "id": "6a94708874313c40d6d48e79",
+    "created_date": "2026-08-30T18:03:52.265000",
+    "updated_date": "2026-08-30T18:03:52.265000"
+  },
+  {
+    "quantities": [
+      35,
+      12,
+      4,
+      10
+    ],
+    "resultName": "Gothic Vault Passage",
+    "buildingTier": 3,
+    "description": "A vaulted corridor with shadow wood beams, iron supports, ghost crystal glow, and moss-damped acoustics. The gothic architecture of the deep city.",
+    "craftingStation": "Forge",
+    "materials": [
+      "Shadow Wood",
+      "Undercity Iron",
+      "Ghost Crystal",
+      "Shadow Moss"
+    ],
+    "resultType": "Structure",
+    "id": "6a94708a1a9492c7c1c98e50",
+    "created_date": "2026-08-30T18:03:54.091000",
+    "updated_date": "2026-08-30T18:03:54.091000"
+  },
+  {
+    "quantities": [
+      140,
+      60,
+      50,
+      25,
+      45,
+      30
+    ],
+    "resultName": "Grand Creole Plantation Manor",
+    "buildingTier": 5,
+    "description": "An opulent two-story raised Creole mansion with colonnaded galleries, wrought iron balustrades, and honey-waxed finishes.",
+    "craftingStation": "Crystal Chamber",
+    "materials": [
+      "Cypress",
+      "Spanish Moss",
+      "Bog Iron",
+      "Honey",
+      "Reed",
+      "Bog Moss"
+    ],
+    "resultType": "Structure",
+    "id": "6a94589cda0ca3a61f9754c5",
+    "created_date": "2026-08-30T16:21:48.609000",
+    "updated_date": "2026-08-30T16:21:48.609000"
+  },
+  {
+    "quantities": [
+      120,
+      70,
+      30,
+      20,
+      40
+    ],
+    "resultName": "Grand Marble Parthenon Temple",
+    "buildingTier": 5,
+    "description": "A monumental peripteral temple with marble Doric colonnades, bronze clamps, and copper roof tiles.",
+    "craftingStation": "Crystal Chamber",
+    "materials": [
+      "Marble",
+      "Limestone",
+      "Bronze",
+      "Copper",
+      "Olive Wood"
+    ],
+    "resultType": "Structure",
+    "id": "6a94589303343cdf9dcab91a",
+    "created_date": "2026-08-30T16:21:39.487000",
+    "updated_date": "2026-08-30T16:21:39.487000"
+  },
+  {
+    "quantities": [
+      400,
+      250,
+      50,
+      40,
+      30,
+      60
+    ],
+    "resultName": "Grand Mortuary Temple Complex",
+    "buildingTier": 5,
+    "description": "A grand multi-terraced funerary complex with limestone facings, carved sandstone colonnades, and gold sacred vessels.",
+    "craftingStation": "Crystal Chamber",
+    "materials": [
+      "Sandstone",
+      "Limestone",
+      "Gold Ore",
+      "Copper",
+      "Desert Glass",
+      "Papyrus"
+    ],
+    "resultType": "Structure",
+    "id": "6a94589066592ff19559036e",
+    "created_date": "2026-08-30T16:21:36.993000",
+    "updated_date": "2026-08-30T16:21:36.993000"
+  },
+  {
+    "quantities": [
+      200,
+      75,
+      65
+    ],
+    "resultName": "Great Forest Canopy Longhouse",
+    "buildingTier": 5,
+    "description": "A monumental multi-family longhouse of ancient old-growth redwood with elevated boardwalks and fog-moss insulated roofs.",
+    "craftingStation": "Crystal Chamber",
+    "materials": [
+      "Redwood",
+      "Fern",
+      "Fog Moss"
+    ],
+    "resultType": "Structure",
+    "id": "6a9458a3ca03cfc45736c0c0",
+    "created_date": "2026-08-30T16:21:55.591000",
+    "updated_date": "2026-08-30T16:21:55.591000"
+  },
+  {
+    "quantities": [
+      200,
+      120,
+      30
+    ],
+    "resultName": "Great House Citadel",
+    "buildingTier": 5,
+    "description": "A monumental multi-story Great House with core-and-veneer sandstone masonry, massive juniper vigas, and turquoise plazas.",
+    "craftingStation": "Crystal Chamber",
+    "materials": [
+      "Sandstone",
+      "Juniper",
+      "Turquoise"
+    ],
+    "resultType": "Structure",
+    "id": "6a94589daba5e1a86404e53c",
+    "created_date": "2026-08-30T16:21:49.858000",
+    "updated_date": "2026-08-30T16:21:49.858000"
+  },
+  {
+    "quantities": [
+      210,
+      95,
+      30
+    ],
+    "resultName": "Great Smoky Homestead",
+    "buildingTier": 5,
+    "description": "An expansive mountain farmstead with chestnut log main house, oak timber barn, stone springhouse, and ginseng curing sheds.",
+    "craftingStation": "Crystal Chamber",
+    "materials": [
+      "Chestnut",
+      "Oak",
+      "Ginseng"
+    ],
+    "resultType": "Structure",
+    "id": "6a9458a1d615c92dcaae0e85",
+    "created_date": "2026-08-30T16:21:53.229000",
+    "updated_date": "2026-08-30T16:21:53.229000"
+  },
+  {
+    "quantities": [
+      500,
+      350,
+      100,
+      45,
+      80
+    ],
+    "resultName": "Great Stepped Ziggurat Temple",
+    "buildingTier": 5,
+    "description": "A monumental multi-tiered stepped pyramid with mudbrick core, baked brick sheath, and lapis lazuli high temple.",
+    "craftingStation": "Crystal Chamber",
+    "materials": [
+      "Clay",
+      "Baked Brick",
+      "Bitumen",
+      "Lapis Lazuli",
+      "Reed"
+    ],
+    "resultType": "Structure",
+    "id": "6a945892661475ef74c37ae5",
+    "created_date": "2026-08-30T16:21:38.423000",
+    "updated_date": "2026-08-30T16:21:38.423000"
+  },
+  {
+    "quantities": [
+      30,
+      5,
+      12
+    ],
+    "resultName": "Hexagonal Chamber",
+    "buildingTier": 2,
+    "description": "A hexagonal living space carved around a basalt column cluster. The walls are the column faces. The chamber IS the geology.",
+    "craftingStation": "Workshop",
+    "materials": [
+      "Basalt",
+      "Cave Pearl",
+      "Tidal Moss"
+    ],
+    "resultType": "Structure",
+    "id": "6a9470869236017fbf55a432",
+    "created_date": "2026-08-30T18:03:50.805000",
+    "updated_date": "2026-08-30T18:03:50.805000"
+  },
+  {
+    "quantities": [
+      25,
+      30,
+      20,
+      8
+    ],
+    "resultName": "Highland Heather Longbow Range",
+    "buildingTier": 3,
+    "description": "A dedicated archery training field with carved yew bow racks, heather target butts, and oak pavilion.",
+    "craftingStation": "Workshop",
+    "materials": [
+      "Yew",
+      "English Oak",
+      "Heather",
+      "Bronze"
+    ],
+    "resultType": "Structure",
+    "id": "6a945894bfe29d39148cae27",
+    "created_date": "2026-08-30T16:21:40.548000",
+    "updated_date": "2026-08-30T16:21:40.548000"
+  },
+  {
+    "quantities": [
+      12,
+      25
+    ],
+    "resultName": "Ichu & Alder Storage Hut",
+    "buildingTier": 1,
+    "description": "A basic shelter of woven reed thatch supported by Andean alder framework.",
+    "craftingStation": "Workshop",
+    "materials": [
+      "Andean Alder",
+      "Reed"
+    ],
+    "resultType": "Structure",
+    "id": "6a94589a8f41b5095347da39",
+    "created_date": "2026-08-30T16:21:46.312000",
+    "updated_date": "2026-08-30T16:21:46.312000"
+  },
+  {
+    "quantities": [
+      200,
+      80,
+      50,
+      20,
+      40
+    ],
+    "resultName": "Imperial Dragon Pavilion",
+    "buildingTier": 5,
+    "description": "A grand royal pavilion with cinnabar lacquered columns, copper dragon ornaments, silk canopy, and jade plaques.",
+    "craftingStation": "Crystal Chamber",
+    "materials": [
+      "Baked Brick",
+      "Lacquer",
+      "Copper",
+      "Jade",
+      "Silk"
+    ],
+    "resultType": "Structure",
+    "id": "6a94589837b851943f7b5e85",
+    "created_date": "2026-08-30T16:21:44.548000",
+    "updated_date": "2026-08-30T16:21:44.548000"
+  },
+  {
+    "quantities": [
+      150,
+      80,
+      35,
+      40,
+      50
+    ],
+    "resultName": "Imperial Sun Usnu Platform",
+    "buildingTier": 5,
+    "description": "A grand multi-tiered ceremonial platform with fine ashlar stone, gold leaf ornamentation, and imperial canopy.",
+    "craftingStation": "Crystal Chamber",
+    "materials": [
+      "Andesite",
+      "Limestone",
+      "Gold Ore",
+      "Andean Alder",
+      "Reed"
+    ],
+    "resultType": "Structure",
+    "id": "6a94589bd14b9a9b8ac58010",
+    "created_date": "2026-08-30T16:21:47.245000",
+    "updated_date": "2026-08-30T16:21:47.245000"
+  },
+  {
+    "quantities": [
+      25,
+      15,
+      30
+    ],
+    "resultName": "Inca Qullqa Storehouse",
+    "buildingTier": 2,
+    "description": "A stone-and-thatch granary on elevated slopes with ventilated gables to preserve grain.",
+    "craftingStation": "Workshop",
+    "materials": [
+      "Andesite",
+      "Andean Alder",
+      "Reed"
+    ],
+    "resultType": "Structure",
+    "id": "6a94589ad0fd1bd84dd4686f",
+    "created_date": "2026-08-30T16:21:46.500000",
+    "updated_date": "2026-08-30T16:21:46.500000"
+  },
+  {
+    "quantities": [
+      20,
+      15,
+      10,
+      10
+    ],
+    "resultName": "Iron Age Bog Iron Smeltery",
+    "buildingTier": 1,
+    "description": "A bloomery furnace of limestone and clay to extract iron from bog ore, under a simple oak and thatched shelter.",
+    "craftingStation": "Forge",
+    "materials": [
+      "Limestone",
+      "Bog Iron",
+      "Reed",
+      "English Oak"
+    ],
+    "resultType": "Station",
+    "id": "6a945893215cda9df3144b64",
+    "created_date": "2026-08-30T16:21:39.904000",
+    "updated_date": "2026-08-30T16:21:39.904000"
+  },
+  {
+    "quantities": [
+      12,
+      8
+    ],
+    "resultName": "Ironwood Shade Ramada",
+    "buildingTier": 1,
+    "description": "An open-air shade structure with desert ironwood corner posts and flat thatched roof of saguaro cactus ribs.",
+    "craftingStation": "Workshop",
+    "materials": [
+      "Desert Ironwood",
+      "Saguaro"
+    ],
+    "resultType": "Structure",
+    "id": "6a94589ff5ee93254c471006",
+    "created_date": "2026-08-30T16:21:51.261000",
+    "updated_date": "2026-08-30T16:21:51.261000"
+  },
+  {
+    "quantities": [
+      80,
+      45,
+      60,
+      35
+    ],
+    "resultName": "Kallanka Great Hall",
+    "buildingTier": 4,
+    "description": "A monumental rectangular hall with multiple trapezoidal doors, polished stone walls, and tall alder roof frame.",
+    "craftingStation": "Forge",
+    "materials": [
+      "Andesite",
+      "Andean Alder",
+      "Reed",
+      "Limestone"
+    ],
+    "resultType": "Structure",
+    "id": "6a94589a48ebab4bbe8ea603",
+    "created_date": "2026-08-30T16:21:46.954000",
+    "updated_date": "2026-08-30T16:21:46.954000"
+  },
+  {
+    "quantities": [
+      120,
+      20,
+      30
+    ],
+    "resultName": "Karnak Hypostyle Columned Hall",
+    "buildingTier": 3,
+    "description": "A monumental colonnaded sanctuary with massive sandstone columns shaped into papyrus-bud capitals.",
+    "craftingStation": "Forge",
+    "materials": [
+      "Sandstone",
+      "Copper",
+      "Papyrus"
+    ],
+    "resultType": "Structure",
+    "id": "6a945890f45599dbd55f0e6a",
+    "created_date": "2026-08-30T16:21:36.306000",
+    "updated_date": "2026-08-30T16:21:36.306000"
+  },
+  {
+    "quantities": [
+      25,
+      15,
+      10,
+      5
+    ],
+    "resultName": "Kievan Banya (Bathhouse)",
+    "buildingTier": 2,
+    "description": "A sealed timber log sauna with stone hearth furnace for generating intense steam.",
+    "craftingStation": "Workshop",
+    "materials": [
+      "Pine",
+      "Birch",
+      "Runestone",
+      "Bog Iron"
+    ],
+    "resultType": "Structure",
+    "id": "6a94589605e47a375f33992a",
+    "created_date": "2026-08-30T16:21:42.660000",
+    "updated_date": "2026-08-30T16:21:42.660000"
+  },
+  {
+    "quantities": [
+      40,
+      15,
+      10,
+      6
+    ],
+    "resultName": "Klimt Gold Studio",
+    "buildingTier": 4,
+    "description": "A studio decorated with Klimt gold patterns — the alchemy of base material transformed into gold. The inventor's atelier at full power.",
+    "craftingStation": "Crystal Chamber",
+    "materials": [
+      "Shadow Wood",
+      "Undercity Iron",
+      "Gold Ore",
+      "Ghost Crystal"
+    ],
+    "resultType": "Station",
+    "id": "6a94708ac639c34f7d7a2672",
+    "created_date": "2026-08-30T18:03:54.348000",
+    "updated_date": "2026-08-30T18:03:54.348000"
+  },
+  {
+    "quantities": [
+      4,
+      2,
+      1
+    ],
+    "resultName": "Lacquer Cabinet",
+    "buildingTier": 2,
+    "description": "Bamboo cabinet with lacquered finish and copper hinges. Eastern elegance.",
+    "craftingStation": "Workshop",
+    "materials": [
+      "Bamboo",
+      "Lacquer",
+      "Copper"
+    ],
+    "resultType": "Furniture",
+    "id": "6a945609ce9ecc4d173a7263",
+    "created_date": "2026-08-30T16:10:49.407000",
+    "updated_date": "2026-08-30T16:10:49.407000"
+  },
+  {
+    "quantities": [
+      20,
+      10
+    ],
+    "resultName": "Limestone Megaron",
+    "buildingTier": 1,
+    "description": "A single-room rectangular hall with central hearth, olive wood pillars, and limestone foundations.",
+    "craftingStation": "Workshop",
+    "materials": [
+      "Limestone",
+      "Olive Wood"
+    ],
+    "resultType": "Structure",
+    "id": "6a945892aa0253ad4caced5e",
+    "created_date": "2026-08-30T16:21:38.629000",
+    "updated_date": "2026-08-30T16:21:38.629000"
+  },
+  {
+    "quantities": [
+      185,
+      65,
+      50
+    ],
+    "resultName": "Lithic Crystal Sanctum",
+    "buildingTier": 5,
+    "description": "A breathtaking ceremonial temple of fossilized tree trunks with fire agate floor mosaics and central chalcedony altar.",
+    "craftingStation": "Crystal Chamber",
+    "materials": [
+      "Petrified Wood",
+      "Agate",
+      "Chalcedony"
+    ],
+    "resultType": "Structure",
+    "id": "6a9458a2f8f37683b5b2646a",
+    "created_date": "2026-08-30T16:21:54.380000",
+    "updated_date": "2026-08-30T16:21:54.380000"
+  },
+  {
+    "quantities": [
+      14,
+      6
+    ],
+    "resultName": "Lodgepole Sweat Lodge",
+    "buildingTier": 1,
+    "description": "A domed ceremonial sauna of flexible lodgepole pine saplings banked with mineral-rich geyser salt.",
+    "craftingStation": "Workshop",
+    "materials": [
+      "Lodgepole Pine",
+      "Geyser Salt"
+    ],
+    "resultType": "Structure",
+    "id": "6a94589e222d602d52cb438a",
+    "created_date": "2026-08-30T16:21:50.063000",
+    "updated_date": "2026-08-30T16:21:50.063000"
+  },
+  {
+    "quantities": [
+      120,
+      35,
+      18
+    ],
+    "resultName": "Mandan Earth Lodge",
+    "buildingTier": 4,
+    "description": "A large dome-shaped timber-and-earth dwelling over four central posts, insulated with thick turf.",
+    "craftingStation": "Forge",
+    "materials": [
+      "Lodgepole Pine",
+      "Geyser Salt",
+      "Obsidian"
+    ],
+    "resultType": "Structure",
+    "id": "6a94589e06e12f61dbe9ef96",
+    "created_date": "2026-08-30T16:21:50.813000",
+    "updated_date": "2026-08-30T16:21:50.813000"
+  },
+  {
+    "quantities": [
+      3,
+      1,
+      1
+    ],
+    "resultName": "Marble Column",
+    "buildingTier": 2,
+    "description": "Fluted marble column with bronze cap and olive wood base. The classical touch.",
+    "craftingStation": "Forge",
+    "materials": [
+      "Marble",
+      "Bronze",
+      "Olive Wood"
+    ],
+    "resultType": "Structure",
+    "id": "6a945608adb1730ea4c0c5d4",
+    "created_date": "2026-08-30T16:10:48.777000",
+    "updated_date": "2026-08-30T16:10:48.777000"
+  },
+  {
+    "quantities": [
+      35,
+      15
+    ],
+    "resultName": "Marshland Reed Mudhif",
+    "buildingTier": 1,
+    "description": "A vaulted communal hall fashioned from bundled giant marsh reeds arched together and plastered with clay.",
+    "craftingStation": "Workshop",
+    "materials": [
+      "Reed",
+      "Clay"
+    ],
+    "resultType": "Structure",
+    "id": "6a945891221f93f676cd2426",
+    "created_date": "2026-08-30T16:21:37.228000",
+    "updated_date": "2026-08-30T16:21:37.228000"
+  },
+  {
+    "quantities": [
+      300,
+      40,
+      30,
+      90
+    ],
+    "resultName": "Multi-Story Brick Pagoda",
+    "buildingTier": 4,
+    "description": "A towering octagonal Buddhist pagoda of fired bricks with bamboo scaffolding and gleaming copper spire finial.",
+    "craftingStation": "Forge",
+    "materials": [
+      "Baked Brick",
+      "Copper",
+      "Lacquer",
+      "Bamboo"
+    ],
+    "resultType": "Structure",
+    "id": "6a94589844eb943fabf0061f",
+    "created_date": "2026-08-30T16:21:44.309000",
+    "updated_date": "2026-08-30T16:21:44.309000"
+  },
+  {
+    "quantities": [
+      45,
+      30,
+      8
+    ],
+    "resultName": "Mycenaean Cyclopean Wall",
+    "buildingTier": 2,
+    "description": "A massive fortification wall of unworked limestone boulders bound with sandstone and bronze pins.",
+    "craftingStation": "Forge",
+    "materials": [
+      "Limestone",
+      "Sandstone",
+      "Bronze"
+    ],
+    "resultType": "Structure",
+    "id": "6a94589260e01e00b79edf67",
+    "created_date": "2026-08-30T16:21:38.828000",
+    "updated_date": "2026-08-30T16:21:38.828000"
+  },
+  {
+    "quantities": [
+      50,
+      10,
+      5
+    ],
+    "resultName": "Nabataean Tomb Facade",
+    "buildingTier": 3,
+    "description": "An ornate tomb facade carved into the cliff face, with copper and gold inlays. The Subtractive Family's public face — the extrovert who dresses for the audience.",
+    "craftingStation": "Forge",
+    "materials": [
+      "Sandstone",
+      "Copper",
+      "Gold Ore"
+    ],
+    "resultType": "Structure",
+    "id": "6a94708ca588a62d1a16b59b",
+    "created_date": "2026-08-30T18:03:56.508000",
+    "updated_date": "2026-08-30T18:03:56.508000"
+  },
+  {
+    "quantities": [
+      350,
+      45,
+      25
+    ],
+    "resultName": "Nagara-Style Stone Temple",
+    "buildingTier": 4,
+    "description": "A majestic northern-style Hindu temple with soaring curvilinear sandstone tower and copper kalasha spire.",
+    "craftingStation": "Forge",
+    "materials": [
+      "Sandstone",
+      "Copper",
+      "Sandalwood"
+    ],
+    "resultType": "Structure",
+    "id": "6a9458995f19a65d5097f613",
+    "created_date": "2026-08-30T16:21:45.874000",
+    "updated_date": "2026-08-30T16:21:45.874000"
+  },
+  {
+    "quantities": [
+      3,
+      2,
+      1,
+      2,
+      1,
+      2
+    ],
+    "resultName": "Norse Throne",
+    "buildingTier": 3,
+    "description": "Carved yew throne with runestone inlays and amber settings. The seat of a jarl.",
+    "craftingStation": "Forge",
+    "materials": [
+      "Yew",
+      "Bog Iron",
+      "Runestone",
+      "Amber",
+      "Heather",
+      "Pine"
+    ],
+    "resultType": "Furniture",
+    "id": "6a9456099638a25f4b4b67bd",
+    "created_date": "2026-08-30T16:10:49.614000",
+    "updated_date": "2026-08-30T16:10:49.614000"
+  },
+  {
+    "quantities": [
+      4,
+      2
+    ],
+    "resultName": "Oak Wall",
+    "buildingTier": 1,
+    "description": "A sturdy wall of oak planks sealed with resin. The basic building block.",
+    "craftingStation": "Workshop",
+    "materials": [
+      "Oak",
+      "Resin"
+    ],
+    "resultType": "Structure",
+    "id": "6a9456076a44e5b06f8f5276",
+    "created_date": "2026-08-30T16:10:47.232000",
+    "updated_date": "2026-08-30T16:10:47.232000"
+  },
+  {
+    "quantities": [
+      2,
+      2,
+      3,
+      2,
+      2,
+      1,
+      2
+    ],
+    "resultName": "Observatory Dome",
+    "buildingTier": 4,
+    "description": "A dome of star iron and cosmic crystal. Opens to reveal the full sky. The astronomer's crown.",
+    "craftingStation": "Observatory",
+    "materials": [
+      "Star Iron",
+      "Cosmic Crystal",
+      "Marble",
+      "Gold Ore",
+      "Desert Glass",
+      "Luminwood",
+      "Star Dust"
+    ],
+    "resultType": "Structure",
+    "id": "6a94560bf8757576ae27400f",
+    "created_date": "2026-08-30T16:10:51.387000",
+    "updated_date": "2026-08-30T16:10:51.387000"
+  },
+  {
+    "quantities": [
+      20,
+      8,
+      6,
+      3
+    ],
+    "resultName": "O'Keeffe Skull Altar",
+    "buildingTier": 4,
+    "description": "A single skull against the window light, set on a gold-inlaid altar with fossil base and calcium crystal supports. O'Keeffe's vision made architecture.",
+    "craftingStation": "Crystal Chamber",
+    "materials": [
+      "Bone",
+      "Calcium Crystal",
+      "Fossil",
+      "Gold Ore"
+    ],
+    "resultType": "Decoration",
+    "id": "6a94708508b9be224f008d94",
+    "created_date": "2026-08-30T18:03:49.385000",
+    "updated_date": "2026-08-30T18:03:49.385000"
+  },
+  {
+    "quantities": [
+      80,
+      35,
+      20,
+      25,
+      12
+    ],
+    "resultName": "Ornate Stave Church (Stavkirke)",
+    "buildingTier": 5,
+    "description": "A monumental multi-tiered wooden cathedral with massive corner pine staves, carved dragon heads, and amber-inlaid altar.",
+    "craftingStation": "Crystal Chamber",
+    "materials": [
+      "Pine",
+      "Birch",
+      "Bog Iron",
+      "Runestone",
+      "Amber"
+    ],
+    "resultType": "Structure",
+    "id": "6a9458961bbb57db509114eb",
+    "created_date": "2026-08-30T16:21:42.136000",
+    "updated_date": "2026-08-30T16:21:42.136000"
+  },
+  {
+    "quantities": [
+      30,
+      5,
+      20,
+      4
+    ],
+    "resultName": "Ossuary Wall",
+    "buildingTier": 3,
+    "description": "A wall constructed from bones and fossils set in limestone mortar, with calcium crystal inlays. The Sedlec Ossuary approach — death made architectural.",
+    "craftingStation": "Forge",
+    "materials": [
+      "Bone",
+      "Calcium Crystal",
+      "Limestone",
+      "Fossil"
+    ],
+    "resultType": "Structure",
+    "id": "6a94708495815d012e05983b",
+    "created_date": "2026-08-30T18:03:48.856000",
+    "updated_date": "2026-08-30T18:03:48.856000"
+  },
+  {
+    "quantities": [
+      110,
+      48,
+      42
+    ],
+    "resultName": "Pacific Crest Totem Lodge",
+    "buildingTier": 4,
+    "description": "A prominent tribal lodge framed by heavy carved redwood heraldic posts depicting clan lineages.",
+    "craftingStation": "Forge",
+    "materials": [
+      "Redwood",
+      "Fern",
+      "Fog Moss"
+    ],
+    "resultType": "Structure",
+    "id": "6a9458a3daa5074ae80c68fb",
+    "created_date": "2026-08-30T16:21:55.380000",
+    "updated_date": "2026-08-30T16:21:55.380000"
+  },
+  {
+    "quantities": [
+      20,
+      10
+    ],
+    "resultName": "Papyrus & Sandstone Worker Hut",
+    "buildingTier": 1,
+    "description": "A modest shelter with woven papyrus reed matting anchored to rough sandstone rubble.",
+    "craftingStation": "Workshop",
+    "materials": [
+      "Papyrus",
+      "Sandstone"
+    ],
+    "resultType": "Structure",
+    "id": "6a94588f5859d507d4783722",
+    "created_date": "2026-08-30T16:21:35.893000",
+    "updated_date": "2026-08-30T16:21:35.893000"
+  },
+  {
+    "quantities": [
+      50,
+      22,
+      16
+    ],
+    "resultName": "Petrified Wood Wall Shrine",
+    "buildingTier": 3,
+    "description": "A ceremonial wall panel of slab-cut petrified wood with geometric mosaic bands of polished agate and chalcedony.",
+    "craftingStation": "Workshop",
+    "materials": [
+      "Petrified Wood",
+      "Agate",
+      "Chalcedony"
+    ],
+    "resultType": "Structure",
+    "id": "6a9458a1d5f5a2b5f100167a",
+    "created_date": "2026-08-30T16:21:53.933000",
+    "updated_date": "2026-08-30T16:21:53.933000"
+  },
+  {
+    "quantities": [
+      3,
+      1
+    ],
+    "resultName": "Pine Floor",
+    "buildingTier": 1,
+    "description": "Smooth pine flooring. Warm underfoot, fragrant.",
+    "craftingStation": "Workshop",
+    "materials": [
+      "Pine",
+      "Resin"
+    ],
+    "resultType": "Structure",
+    "id": "6a945607d33b09aa156547b0",
+    "created_date": "2026-08-30T16:10:47.443000",
+    "updated_date": "2026-08-30T16:10:47.443000"
+  },
+  {
+    "quantities": [
+      24,
+      6
+    ],
+    "resultName": "Plains Tipi Frame",
+    "buildingTier": 2,
+    "description": "A conical tripod framework of peeled lodgepole pine timbers, pegged with carved obsidian stakes.",
+    "craftingStation": "Workshop",
+    "materials": [
+      "Lodgepole Pine",
+      "Obsidian"
+    ],
+    "resultType": "Structure",
+    "id": "6a94589e621e6f1bd47054c1",
+    "created_date": "2026-08-30T16:21:50.297000",
+    "updated_date": "2026-08-30T16:21:50.297000"
+  },
+  {
+    "quantities": [
+      3,
+      1,
+      2,
+      1
+    ],
+    "resultName": "Poison Garden Trellis",
+    "buildingTier": 3,
+    "description": "A trellis of thorn vine and shadow wood that grows nightshade. Beautiful and deadly.",
+    "craftingStation": "Workshop",
+    "materials": [
+      "Thorn Vine",
+      "Nightshade",
+      "Shadow Wood",
+      "Ghost Crystal"
+    ],
+    "resultType": "Structure",
+    "id": "6a94560a6e8a2606205a677e",
+    "created_date": "2026-08-30T16:10:50.674000",
+    "updated_date": "2026-08-30T16:10:50.674000"
+  },
+  {
+    "quantities": [
+      15,
+      8,
+      2
+    ],
+    "resultName": "Poison Planter",
+    "buildingTier": 2,
+    "description": "A raised planter for toxic plants, built from thorn vine with nightshade borders and venom sac fertilizer. The Gorey garden in miniature.",
+    "craftingStation": "Workshop",
+    "materials": [
+      "Thorn Vine",
+      "Nightshade",
+      "Venom Sac"
+    ],
+    "resultType": "Structure",
+    "id": "6a94708b0c3cdbd4f915aa6a",
+    "created_date": "2026-08-30T18:03:55.096000",
+    "updated_date": "2026-08-30T18:03:55.096000"
+  },
+  {
+    "quantities": [
+      20,
+      10,
+      2
+    ],
+    "resultName": "Private Workshop",
+    "buildingTier": 2,
+    "description": "A personal crafting studio with shadow wood walls, undercity iron workbench, and ghost crystal accent lighting. The introvert's creative space.",
+    "craftingStation": "Forge",
+    "materials": [
+      "Shadow Wood",
+      "Undercity Iron",
+      "Ghost Crystal"
+    ],
+    "resultType": "Station",
+    "id": "6a947089cb5f45a0863dc5d6",
+    "created_date": "2026-08-30T18:03:53.770000",
+    "updated_date": "2026-08-30T18:03:53.770000"
+  },
+  {
+    "quantities": [
+      55,
+      30,
+      18,
+      25
+    ],
+    "resultName": "Raised Acadian Cottage",
+    "buildingTier": 3,
+    "description": "A cozy elevated cottage on rot-resistant cypress piers with bousillage insulation and shaded gallery porch.",
+    "craftingStation": "Workshop",
+    "materials": [
+      "Cypress",
+      "Spanish Moss",
+      "Bog Iron",
+      "Reed"
+    ],
+    "resultType": "Structure",
+    "id": "6a94589c7899d36fd251dd84",
+    "created_date": "2026-08-30T16:21:48.211000",
+    "updated_date": "2026-08-30T16:21:48.211000"
+  },
+  {
+    "quantities": [
+      14,
+      12
+    ],
+    "resultName": "Redwood Bark Sweat Lodge",
+    "buildingTier": 1,
+    "description": "A conical purification lodge of thick fibrous fallen redwood bark slabs chinked with damp coastal fog moss.",
+    "craftingStation": "Workshop",
+    "materials": [
+      "Redwood",
+      "Fog Moss"
+    ],
+    "resultType": "Structure",
+    "id": "6a9458a238f55d86ffaba10a",
+    "created_date": "2026-08-30T16:21:54.618000",
+    "updated_date": "2026-08-30T16:21:54.618000"
+  },
+  {
+    "quantities": [
+      5,
+      1
+    ],
+    "resultName": "Reed Mat",
+    "buildingTier": 1,
+    "description": "Woven reed mat. The simplest comfort — a dry place to sit.",
+    "craftingStation": "Workshop",
+    "materials": [
+      "Reed",
+      "Bog Moss"
+    ],
+    "resultType": "Furniture",
+    "id": "6a94560744a82ad30fefbbe2",
+    "created_date": "2026-08-30T16:10:47.633000",
+    "updated_date": "2026-08-30T16:10:47.633000"
+  },
+  {
+    "quantities": [
+      25,
+      5
+    ],
+    "resultName": "Rose Sandstone Shelter",
+    "buildingTier": 2,
+    "description": "A shelter carved into rose sandstone with copper fixtures. The O'Keeffe maximalism — the form made ornate to honor the material.",
+    "craftingStation": "Workshop",
+    "materials": [
+      "Sandstone",
+      "Copper"
+    ],
+    "resultType": "Structure",
+    "id": "6a94708c14456d581a2d8221",
+    "created_date": "2026-08-30T18:03:56.132000",
+    "updated_date": "2026-08-30T18:03:56.132000"
+  },
+  {
+    "quantities": [
+      5,
+      1,
+      2,
+      2,
+      1
+    ],
+    "resultName": "Round Table",
+    "buildingTier": 3,
+    "description": "A great round table of English oak. No head, no foot. Equality made solid.",
+    "craftingStation": "Workshop",
+    "materials": [
+      "English Oak",
+      "Yew",
+      "Limestone",
+      "Bronze",
+      "Amber"
+    ],
+    "resultType": "Furniture",
+    "id": "6a94560a3f373750bb91e785",
+    "created_date": "2026-08-30T16:10:50.402000",
+    "updated_date": "2026-08-30T16:10:50.402000"
+  },
+  {
+    "quantities": [
+      400,
+      120,
+      60,
+      30,
+      25
+    ],
+    "resultName": "Royal Sandstone Palace & Chhatri",
+    "buildingTier": 5,
+    "description": "An opulent palatial complex with domed chhatri pavilions, copper-sheathed spires, and sandalwood doors.",
+    "craftingStation": "Crystal Chamber",
+    "materials": [
+      "Sandstone",
+      "Teak",
+      "Copper",
+      "Sandalwood",
+      "Indigo"
+    ],
+    "resultType": "Structure",
+    "id": "6a94589a806a50741a1f5ff5",
+    "created_date": "2026-08-30T16:21:46.053000",
+    "updated_date": "2026-08-30T16:21:46.053000"
+  },
+  {
+    "quantities": [
+      20,
+      15
+    ],
+    "resultName": "Salt Crystal Storage",
+    "buildingTier": 2,
+    "description": "A storage chamber built from basalt columns, lined with salt crystal. The salt preserves anything stored within. The Vorticist functional aesthetic.",
+    "craftingStation": "Workshop",
+    "materials": [
+      "Basalt",
+      "Salt Crystal"
+    ],
+    "resultType": "Structure",
+    "id": "6a947086c52b6e2dc7088e7f",
+    "created_date": "2026-08-30T18:03:50.586000",
+    "updated_date": "2026-08-30T18:03:50.586000"
+  },
+  {
+    "quantities": [
+      30,
+      25
+    ],
+    "resultName": "Sandstone Pueblo Unit",
+    "buildingTier": 2,
+    "description": "An above-ground masonry room of hand-shaped sandstone blocks spanned by heavy juniper ceiling beams.",
+    "craftingStation": "Workshop",
+    "materials": [
+      "Sandstone",
+      "Juniper"
+    ],
+    "resultType": "Structure",
+    "id": "6a94589dbe246b5009cb1bb6",
+    "created_date": "2026-08-30T16:21:49.128000",
+    "updated_date": "2026-08-30T16:21:49.128000"
+  },
+  {
+    "quantities": [
+      80,
+      25,
+      20,
+      5
+    ],
+    "resultName": "Scholar's Garden Studio",
+    "buildingTier": 3,
+    "description": "A private retreat with bamboo framing, silk window scrims, lacquered desks, and carved jade inlay.",
+    "craftingStation": "Workshop",
+    "materials": [
+      "Bamboo",
+      "Silk",
+      "Lacquer",
+      "Jade"
+    ],
+    "resultType": "Structure",
+    "id": "6a94589750eecfbea38aacb2",
+    "created_date": "2026-08-30T16:21:43.791000",
+    "updated_date": "2026-08-30T16:21:43.791000"
+  },
+  {
+    "quantities": [
+      10,
+      2
+    ],
+    "resultName": "Sea Glass Wind Chime",
+    "buildingTier": 1,
+    "description": "Strand of sea glass hung on copper wire. The tidal cave's decoration — the ocean's refuse made into art.",
+    "craftingStation": "Workshop",
+    "materials": [
+      "Sea Glass",
+      "Copper"
+    ],
+    "resultType": "Decoration",
+    "id": "6a94708640c2b5c0de398581",
+    "created_date": "2026-08-30T18:03:50.264000",
+    "updated_date": "2026-08-30T18:03:50.264000"
+  },
+  {
+    "quantities": [
+      120,
+      60,
+      15
+    ],
+    "resultName": "Siheyuan Courtyard Residence",
+    "buildingTier": 2,
+    "description": "A traditional four-sided courtyard home with grey fired-brick walls, bamboo roof rafters, and red lacquer doors.",
+    "craftingStation": "Workshop",
+    "materials": [
+      "Baked Brick",
+      "Bamboo",
+      "Lacquer"
+    ],
+    "resultType": "Structure",
+    "id": "6a94589723c6b704b594e548",
+    "created_date": "2026-08-30T16:21:43.552000",
+    "updated_date": "2026-08-30T16:21:43.552000"
+  },
+  {
+    "quantities": [
+      50,
+      28,
+      16
+    ],
+    "resultName": "Sonoran Adobe Dwelling",
+    "buildingTier": 3,
+    "description": "A sun-dried earth brick home on granite foundation, framed with ironwood lintels and saguaro rib ceiling joists.",
+    "craftingStation": "Workshop",
+    "materials": [
+      "Granite",
+      "Desert Ironwood",
+      "Saguaro"
+    ],
+    "resultType": "Structure",
+    "id": "6a94589fb61b81817731d620",
+    "created_date": "2026-08-30T16:21:51.672000",
+    "updated_date": "2026-08-30T16:21:51.672000"
+  },
+  {
+    "quantities": [
+      2,
+      4,
+      1,
+      1
+    ],
+    "resultName": "Stained Window",
+    "buildingTier": 3,
+    "description": "Desert glass set in gold and silver framing within sandstone. Light made sacred.",
+    "craftingStation": "Forge",
+    "materials": [
+      "Sandstone",
+      "Desert Glass",
+      "Gold Ore",
+      "Silver"
+    ],
+    "resultType": "Decoration",
+    "id": "6a9456097e091b1acb4247c2",
+    "created_date": "2026-08-30T16:10:49.847000",
+    "updated_date": "2026-08-30T16:10:49.847000"
+  },
+  {
+    "quantities": [
+      5,
+      2,
+      1
+    ],
+    "resultName": "Storage Chest",
+    "buildingTier": 2,
+    "description": "Water-resistant cypress chest sealed with amber. Keeps the damp out.",
+    "craftingStation": "Workshop",
+    "materials": [
+      "Cypress",
+      "Bog Iron",
+      "Amber"
+    ],
+    "resultType": "Furniture",
+    "id": "6a945608ae9ee362df06c7f4",
+    "created_date": "2026-08-30T16:10:48.535000",
+    "updated_date": "2026-08-30T16:10:48.535000"
+  },
+  {
+    "quantities": [
+      250,
+      30,
+      60
+    ],
+    "resultName": "Subterranean Stepwell Pavilion",
+    "buildingTier": 3,
+    "description": "A subterranean multi-story water reservoir with carved sandstone steps, teak bracing, and copper water-spouts.",
+    "craftingStation": "Forge",
+    "materials": [
+      "Sandstone",
+      "Copper",
+      "Teak"
+    ],
+    "resultType": "Structure",
+    "id": "6a945899a1c9d1597f50157a",
+    "created_date": "2026-08-30T16:21:45.362000",
+    "updated_date": "2026-08-30T16:21:45.362000"
+  },
+  {
+    "quantities": [
+      100,
+      45,
+      28
+    ],
+    "resultName": "Superstition Outpost",
+    "buildingTier": 4,
+    "description": "A fortified canyon refuge against granite cliffs with ironwood palisade walls and saguaro-rib ceilings.",
+    "craftingStation": "Forge",
+    "materials": [
+      "Granite",
+      "Desert Ironwood",
+      "Saguaro"
+    ],
+    "resultType": "Structure",
+    "id": "6a94589f5a7190f395c8ec51",
+    "created_date": "2026-08-30T16:21:51.877000",
+    "updated_date": "2026-08-30T16:21:51.877000"
+  },
+  {
+    "quantities": [
+      110,
+      35,
+      15
+    ],
+    "resultName": "Teak & Sandalwood Timber Manor",
+    "buildingTier": 2,
+    "description": "A traditional Southern Indian courtyard residence with teak joinery, sandalwood doors, and copper ridge caps.",
+    "craftingStation": "Workshop",
+    "materials": [
+      "Teak",
+      "Sandalwood",
+      "Copper"
+    ],
+    "resultType": "Structure",
+    "id": "6a945899b74fd2a31924a452",
+    "created_date": "2026-08-30T16:21:45.027000",
+    "updated_date": "2026-08-30T16:21:45.027000"
+  },
+  {
+    "quantities": [
+      200,
+      70,
+      60,
+      120
+    ],
+    "resultName": "Terraced Hanging Garden Vault",
+    "buildingTier": 4,
+    "description": "An elevated terraced vault with bitumen lining and reed mats to retain soil high above ground.",
+    "craftingStation": "Workshop",
+    "materials": [
+      "Baked Brick",
+      "Bitumen",
+      "Reed",
+      "Clay"
+    ],
+    "resultType": "Structure",
+    "id": "6a9458923b83c09c7809411f",
+    "created_date": "2026-08-30T16:21:38.239000",
+    "updated_date": "2026-08-30T16:21:38.239000"
+  },
+  {
+    "quantities": [
+      70,
+      15,
+      5,
+      15
+    ],
+    "resultName": "The Beethoven Frieze Wall",
+    "buildingTier": 4,
+    "description": "A narrative wall — gold patterns shifting to show scenes from the archaeological record. The dead remembering what they were. The frieze you walk alongside.",
+    "craftingStation": "Crystal Chamber",
+    "materials": [
+      "Ancient Brick",
+      "Gold Ore",
+      "Gargoyle Stone",
+      "Bone"
+    ],
+    "resultType": "Structure",
+    "id": "6a9470882a524222ed3c0a08",
+    "created_date": "2026-08-30T18:03:52.938000",
+    "updated_date": "2026-08-30T18:03:52.938000"
+  },
+  {
+    "quantities": [
+      80,
+      15,
+      12,
+      8,
+      10,
+      5,
+      40
+    ],
+    "resultName": "The Charnel Cathedral",
+    "buildingTier": 5,
+    "description": "The ultimate bone architecture — a cathedral where every surface is bone, every light is amber, every support is calcium crystal. The body's last structure made into the body's first monument.",
+    "craftingStation": "Crystal Chamber",
+    "materials": [
+      "Bone",
+      "Calcium Crystal",
+      "Fossil",
+      "Gold Ore",
+      "Amber Crystal",
+      "Copper",
+      "Limestone"
+    ],
+    "resultType": "Structure",
+    "id": "6a94708530cb27b303628239",
+    "created_date": "2026-08-30T18:03:49.653000",
+    "updated_date": "2026-08-30T18:03:49.653000"
+  },
+  {
+    "quantities": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "resultName": "The Final Room",
+    "buildingTier": 5,
+    "description": "A simple room behind the Inn. A fire, a chair, a cup, a book. Built from one of everything. The seed the Inn grew from.",
+    "craftingStation": "Crystal Chamber",
+    "materials": [
+      "Bog Oak",
+      "Luminwood",
+      "Resonance Crystal",
+      "Star Iron",
+      "Dragon Scale",
+      "Cosmic Crystal",
+      "Amber",
+      "English Oak",
+      "Marble",
+      "Yew",
+      "Gold Ore",
+      "Crystal",
+      "Star Dust",
+      "Luminite",
+      "Fae Dust"
+    ],
+    "resultType": "Structure",
+    "id": "6a94560b71da4f8b99a6fe63",
+    "created_date": "2026-08-30T16:10:51.996000",
+    "updated_date": "2026-08-30T16:10:51.996000"
+  },
+  {
+    "quantities": [
+      120,
+      30,
+      8,
+      25,
+      20,
+      5
+    ],
+    "resultName": "The Golden Crypt",
+    "buildingTier": 5,
+    "description": "The ultimate catacomb — gold-veined walls, gargoyle sentinels, bone displays, shadow moss silence, and ghost crystal memory. Death made beautiful. The earth holding you the way the tree holds the fire.",
+    "craftingStation": "Crystal Chamber",
+    "materials": [
+      "Ancient Brick",
+      "Gold Ore",
+      "Gargoyle Stone",
+      "Bone",
+      "Shadow Moss",
+      "Ghost Crystal"
+    ],
+    "resultType": "Structure",
+    "id": "6a947089537272143a886057",
+    "created_date": "2026-08-30T18:03:53.198000",
+    "updated_date": "2026-08-30T18:03:53.198000"
+  },
+  {
+    "quantities": [
+      45,
+      25,
+      8,
+      20,
+      3
+    ],
+    "resultName": "The Gorey Greenhouse",
+    "buildingTier": 4,
+    "description": "A greenhouse of shadow wood and thorn vine, housing the Poison Garden's rarest specimens, lit by ghost crystal. The Gorey masterpiece — the macabre made beautiful, the dangerous made deliberate.",
+    "craftingStation": "Crystal Chamber",
+    "materials": [
+      "Thorn Vine",
+      "Nightshade",
+      "Venom Sac",
+      "Shadow Wood",
+      "Ghost Crystal"
+    ],
+    "resultType": "Structure",
+    "id": "6a94708ba804e3f9d5430998",
+    "created_date": "2026-08-30T18:03:55.642000",
+    "updated_date": "2026-08-30T18:03:55.642000"
+  },
+  {
+    "quantities": [
+      10,
+      10,
+      5,
+      3,
+      3,
+      5,
+      3,
+      2,
+      3,
+      1,
+      1,
+      1
+    ],
+    "resultName": "The Inn Foundation",
+    "buildingTier": 5,
+    "description": "The foundation of the Inn itself. Materials from every zone, every level, every biome. The building that builds all other buildings.",
+    "craftingStation": "Crystal Chamber",
+    "materials": [
+      "Oak",
+      "Limestone",
+      "Crystal",
+      "Bog Oak",
+      "Luminwood",
+      "Marble",
+      "Gold Ore",
+      "Yew",
+      "Resonance Crystal",
+      "Star Iron",
+      "Dragon Scale",
+      "Cosmic Crystal"
+    ],
+    "resultType": "Structure",
+    "id": "6a94560bc3b3772dbad93c9d",
+    "created_date": "2026-08-30T16:10:51.740000",
+    "updated_date": "2026-08-30T16:10:51.740000"
+  },
+  {
+    "quantities": [
+      60,
+      25,
+      20,
+      8,
+      15,
+      5
+    ],
+    "resultName": "The Inventor's Atelier",
+    "buildingTier": 5,
+    "description": "The ultimate creative space — gold-vaulted ceilings, iron workbenches, shadow wood walls, ghost crystal memory, moss silence, and geode crystal focus. The room the child eventually built. The room that was THEIRS.",
+    "craftingStation": "Crystal Chamber",
+    "materials": [
+      "Shadow Wood",
+      "Undercity Iron",
+      "Gold Ore",
+      "Ghost Crystal",
+      "Shadow Moss",
+      "Crystal"
+    ],
+    "resultType": "Structure",
+    "id": "6a94708a1ccbebc7881dd486",
+    "created_date": "2026-08-30T18:03:54.579000",
+    "updated_date": "2026-08-30T18:03:54.579000"
+  },
+  {
+    "quantities": [
+      180,
+      30,
+      20,
+      15,
+      40,
+      10
+    ],
+    "resultName": "The Monastery (Ad Deir)",
+    "buildingTier": 5,
+    "description": "The Subtractive Family's most adequate work — simpler than the Treasury, larger, higher in the mountains. The introvert's extrovert moment. The quiet building that is also the biggest.",
+    "craftingStation": "Crystal Chamber",
+    "materials": [
+      "Sandstone",
+      "Copper",
+      "Gold Ore",
+      "Desert Glass",
+      "Limestone",
+      "Bone"
+    ],
+    "resultType": "Structure",
+    "id": "6a94708c5dc8e8ffe19fed3e",
+    "created_date": "2026-08-30T18:03:56.987000",
+    "updated_date": "2026-08-30T18:03:56.987000"
+  },
+  {
+    "quantities": [
+      200,
+      8,
+      20,
+      15,
+      30,
+      10
+    ],
+    "resultName": "The Subtractive Cathedral",
+    "buildingTier": 5,
+    "description": "The ultimate subtractive architecture — a cathedral carved entirely from living rock, every column a removed space, every arch a negative, the building IS the geology.",
+    "craftingStation": "Crystal Chamber",
+    "materials": [
+      "Limestone",
+      "Gargoyle Stone",
+      "Amber Crystal",
+      "Cave Pearl",
+      "Glow Moss",
+      "Bone"
+    ],
+    "resultType": "Structure",
+    "id": "6a9470838d330b1b408b4182",
+    "created_date": "2026-08-30T18:03:47.811000",
+    "updated_date": "2026-08-30T18:03:47.811000"
+  },
+  {
+    "quantities": [
+      60,
+      20,
+      15,
+      10
+    ],
+    "resultName": "The Tidal Forge",
+    "buildingTier": 4,
+    "description": "A forge powered by the tidal vortex's mechanical force. Basalt construction, salt crystal tempering, sea glass observation, copper workings. The Vorticist machine.",
+    "craftingStation": "Forge",
+    "materials": [
+      "Basalt",
+      "Salt Crystal",
+      "Sea Glass",
+      "Copper"
+    ],
+    "resultType": "Station",
+    "id": "6a947087a4f6c938d5113b9f",
+    "created_date": "2026-08-30T18:03:51.497000",
+    "updated_date": "2026-08-30T18:03:51.497000"
+  },
+  {
+    "quantities": [
+      100,
+      20,
+      15,
+      10
+    ],
+    "resultName": "The Treasury (Al-Khazneh)",
+    "buildingTier": 4,
+    "description": "A monumental Hellenistic facade carved into rose sandstone, with copper detailing, gold urns, and desert glass skylights. The moment of revelation at the end of the Siq.",
+    "craftingStation": "Crystal Chamber",
+    "materials": [
+      "Sandstone",
+      "Copper",
+      "Gold Ore",
+      "Desert Glass"
+    ],
+    "resultType": "Structure",
+    "id": "6a94708c8c15665b99d3afa2",
+    "created_date": "2026-08-30T18:03:56.752000",
+    "updated_date": "2026-08-30T18:03:56.752000"
+  },
+  {
+    "quantities": [
+      150,
+      40,
+      30,
+      15,
+      25,
+      12,
+      20
+    ],
+    "resultName": "The Vorticist Cathedral",
+    "buildingTier": 5,
+    "description": "The ultimate angular cave architecture — a cathedral of hexagonal chambers, sea glass windows, bioluminescent walls, and a central vortex. BLAST and BLESS in stone.",
+    "craftingStation": "Crystal Chamber",
+    "materials": [
+      "Basalt",
+      "Sea Glass",
+      "Salt Crystal",
+      "Cave Pearl",
+      "Tidal Moss",
+      "Copper",
+      "Bioluminescent Algae"
+    ],
+    "resultType": "Structure",
+    "id": "6a947087d74131b6eba3fc8d",
+    "created_date": "2026-08-30T18:03:51.740000",
+    "updated_date": "2026-08-30T18:03:51.740000"
+  },
+  {
+    "quantities": [
+      10,
+      3
+    ],
+    "resultName": "Thorn Archway",
+    "buildingTier": 1,
+    "description": "An archway of living thorn vine with nightshade blooms. The Poison Garden's entrance — beautiful and dangerous, the Gorey aesthetic.",
+    "craftingStation": "Workshop",
+    "materials": [
+      "Thorn Vine",
+      "Nightshade"
+    ],
+    "resultType": "Structure",
+    "id": "6a94708ad5c1c1d7d488f671",
+    "created_date": "2026-08-30T18:03:54.854000",
+    "updated_date": "2026-08-30T18:03:54.854000"
+  },
+  {
+    "quantities": [
+      12,
+      8
+    ],
+    "resultName": "Tidal Pool Shelter",
+    "buildingTier": 1,
+    "description": "A shelter built from hexagonal basalt columns, insulated with tidal moss. Angular, functional, Vorticist. The cave's first adequate home.",
+    "craftingStation": "Workshop",
+    "materials": [
+      "Basalt",
+      "Tidal Moss"
+    ],
+    "resultType": "Structure",
+    "id": "6a947085e7933bf74adba64a",
+    "created_date": "2026-08-30T18:03:49.996000",
+    "updated_date": "2026-08-30T18:03:49.996000"
+  },
+  {
+    "quantities": [
+      1,
+      2
+    ],
+    "resultName": "Torch Holder",
+    "buildingTier": 1,
+    "description": "Iron bracket holding a beeswax torch. Lights the dark corridors.",
+    "craftingStation": "Forge",
+    "materials": [
+      "Bog Iron",
+      "Beeswax"
+    ],
+    "resultType": "Decoration",
+    "id": "6a945607254e69b9367197f1",
+    "created_date": "2026-08-30T16:10:47.820000",
+    "updated_date": "2026-08-30T16:10:47.820000"
+  },
+  {
+    "quantities": [
+      20,
+      10,
+      4
+    ],
+    "resultName": "Traditional Slavic Izba",
+    "buildingTier": 1,
+    "description": "A cozy log cabin of horizontally stacked pine logs notched at corners, sealed with birch bark strips.",
+    "craftingStation": "Workshop",
+    "materials": [
+      "Pine",
+      "Birch",
+      "Bog Iron"
+    ],
+    "resultType": "Structure",
+    "id": "6a945896cfc845d133542635",
+    "created_date": "2026-08-30T16:21:42.344000",
+    "updated_date": "2026-08-30T16:21:42.344000"
+  },
+  {
+    "quantities": [
+      40,
+      20,
+      10,
+      30,
+      25
+    ],
+    "resultName": "Traditional Viking Longhouse",
+    "buildingTier": 2,
+    "description": "A bow-sided hall with heavy pine posts, wattle walls of birch, and insulated turf roof of moss and heather.",
+    "craftingStation": "Workshop",
+    "materials": [
+      "Pine",
+      "Birch",
+      "Bog Iron",
+      "Heather",
+      "Bog Moss"
+    ],
+    "resultType": "Structure",
+    "id": "6a94589537945c80e783e102",
+    "created_date": "2026-08-30T16:21:41.396000",
+    "updated_date": "2026-08-30T16:21:41.396000"
+  },
+  {
+    "quantities": [
+      60,
+      25,
+      15,
+      20
+    ],
+    "resultName": "Trelleborg Ring Fort Palisade",
+    "buildingTier": 3,
+    "description": "A heavily reinforced timber rampart secured with iron bolts and anchored on cleaved runestone blocks.",
+    "craftingStation": "Forge",
+    "materials": [
+      "Pine",
+      "Birch",
+      "Bog Iron",
+      "Runestone"
+    ],
+    "resultType": "Structure",
+    "id": "6a94589513a578e1317e0ef0",
+    "created_date": "2026-08-30T16:21:41.927000",
+    "updated_date": "2026-08-30T16:21:41.927000"
+  },
+  {
+    "quantities": [
+      25,
+      12,
+      6,
+      15
+    ],
+    "resultName": "Viking Age Boathouse (Naust)",
+    "buildingTier": 2,
+    "description": "A sturdy shoreline timber shed with open gable ends for storing longships over winter.",
+    "craftingStation": "Workshop",
+    "materials": [
+      "Pine",
+      "Birch",
+      "Bog Iron",
+      "Bog Moss"
+    ],
+    "resultType": "Structure",
+    "id": "6a945895c9de5c4f7f4b0bf7",
+    "created_date": "2026-08-30T16:21:41.198000",
+    "updated_date": "2026-08-30T16:21:41.198000"
+  },
+  {
+    "quantities": [
+      10,
+      8,
+      15,
+      20
+    ],
+    "resultName": "Viking Turf Pit House",
+    "buildingTier": 1,
+    "description": "A simple semi-subterranean shelter insulated with birch bark, heather thatch, and damp bog moss turf.",
+    "craftingStation": "Workshop",
+    "materials": [
+      "Pine",
+      "Birch",
+      "Heather",
+      "Bog Moss"
+    ],
+    "resultType": "Structure",
+    "id": "6a945894906f973e3df88873",
+    "created_date": "2026-08-30T16:21:40.991000",
+    "updated_date": "2026-08-30T16:21:40.991000"
+  },
+  {
+    "quantities": [
+      30,
+      25,
+      12,
+      15
+    ],
+    "resultName": "Viking Village Smithy",
+    "buildingTier": 3,
+    "description": "A stone-hearth forge under heavy timber frame, optimized for smelting bog ore into wrought iron.",
+    "craftingStation": "Forge",
+    "materials": [
+      "Pine",
+      "Bog Iron",
+      "Runestone",
+      "Birch"
+    ],
+    "resultType": "Station",
+    "id": "6a945895c4ca4ebe7a3664d1",
+    "created_date": "2026-08-30T16:21:41.619000",
+    "updated_date": "2026-08-30T16:21:41.619000"
+  },
+  {
+    "quantities": [
+      40,
+      15,
+      10
+    ],
+    "resultName": "Vortex Observation Platform",
+    "buildingTier": 3,
+    "description": "A platform overlooking the central vortex, built from basalt with sea glass railings and salt crystal supports. The Vorticist viewing point.",
+    "craftingStation": "Forge",
+    "materials": [
+      "Basalt",
+      "Sea Glass",
+      "Salt Crystal"
+    ],
+    "resultType": "Structure",
+    "id": "6a9470877e0ef63993f71f44",
+    "created_date": "2026-08-30T18:03:51.065000",
+    "updated_date": "2026-08-30T18:03:51.065000"
+  },
+  {
+    "quantities": [
+      10,
+      3,
+      4
+    ],
+    "resultName": "Whitening Chamber",
+    "buildingTier": 2,
+    "description": "A quiet chamber where bones slowly whiten in solution, lit by amber crystal. The last traces of organic color leaving, the structure becoming pure.",
+    "craftingStation": "Workshop",
+    "materials": [
+      "Bone",
+      "Calcium Crystal",
+      "Amber Crystal"
+    ],
+    "resultType": "Structure",
+    "id": "6a9470849a030d2da01b40a0",
+    "created_date": "2026-08-30T18:03:48.545000",
+    "updated_date": "2026-08-30T18:03:48.545000"
+  },
+  {
+    "quantities": [
+      140,
+      180,
+      25,
+      15
+    ],
+    "resultName": "Wind-and-Rain Covered Bridge",
+    "buildingTier": 3,
+    "description": "A sheltered river bridge with fired-brick piers and ornate bamboo roof pavilion sealed in lacquer.",
+    "craftingStation": "Workshop",
+    "materials": [
+      "Bamboo",
+      "Baked Brick",
+      "Lacquer",
+      "Copper"
+    ],
+    "resultType": "Structure",
+    "id": "6a945898806a50741a1f5ff2",
+    "created_date": "2026-08-30T16:21:44.034000",
+    "updated_date": "2026-08-30T16:21:44.034000"
+  },
+  {
+    "quantities": [
+      60,
+      30,
+      15,
+      10
+    ],
+    "resultName": "Wooden Onion-Domed Chapel",
+    "buildingTier": 4,
+    "description": "A wooden church with stacked log walls, birch-shingle roofing, and an ornate helmet dome gilded with gold leaf.",
+    "craftingStation": "Forge",
+    "materials": [
+      "Pine",
+      "Birch",
+      "Bog Iron",
+      "Gold Ore"
+    ],
+    "resultType": "Structure",
+    "id": "6a945896f8f37683b5b26462",
+    "created_date": "2026-08-30T16:21:42.862000",
+    "updated_date": "2026-08-30T16:21:42.862000"
+  },
+  {
+    "quantities": [
+      15,
+      4
+    ],
+    "resultName": "Woodland Lean-To Shelter",
+    "buildingTier": 1,
+    "description": "A three-sided forest shelter of split chestnut logs and bark roof tiles with ginseng drying racks.",
+    "craftingStation": "Workshop",
+    "materials": [
+      "Chestnut",
+      "Ginseng"
+    ],
+    "resultType": "Structure",
+    "id": "6a9458a0a6500b4755ec7913",
+    "created_date": "2026-08-30T16:21:52.276000",
+    "updated_date": "2026-08-30T16:21:52.276000"
+  },
+  {
+    "quantities": [
+      115,
+      55,
+      18
+    ],
+    "resultName": "Woodlands Longhouse",
+    "buildingTier": 4,
+    "description": "A communal multi-family longhouse with arched chestnut sapling frames, oak bark shingling, and central hearths.",
+    "craftingStation": "Forge",
+    "materials": [
+      "Chestnut",
+      "Oak",
+      "Ginseng"
+    ],
+    "resultType": "Structure",
+    "id": "6a9458a1806a50741a1f5ff9",
+    "created_date": "2026-08-30T16:21:53.034000",
+    "updated_date": "2026-08-30T16:21:53.034000"
+  },
+  {
+    "quantities": [
+      5,
+      3
+    ],
+    "resultName": "Workshop Lamp Post",
+    "buildingTier": 1,
+    "description": "A lamp post for the Undercity's narrow streets. Undercity iron frame, shadow wood base. The crafted light of the inventor's city.",
+    "craftingStation": "Forge",
+    "materials": [
+      "Undercity Iron",
+      "Shadow Wood"
+    ],
+    "resultType": "Decoration",
+    "id": "6a94708989c6b9121f8b5ace",
+    "created_date": "2026-08-30T18:03:53.455000",
+    "updated_date": "2026-08-30T18:03:53.455000"
+  },
+  {
+    "quantities": [
+      50,
+      15,
+      8
+    ],
+    "resultName": "Woven Bamboo & Silk Tea House",
+    "buildingTier": 1,
+    "description": "An airy roadside tea house with split-bamboo screens, silk wall hangings, and lacquered serving counters.",
+    "craftingStation": "Workshop",
+    "materials": [
+      "Bamboo",
+      "Silk",
+      "Lacquer"
+    ],
+    "resultType": "Structure",
+    "id": "6a94589741f3e7a884b6107b",
+    "created_date": "2026-08-30T16:21:43.319000",
+    "updated_date": "2026-08-30T16:21:43.319000"
+  }
+]
