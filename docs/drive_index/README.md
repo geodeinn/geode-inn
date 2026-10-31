@@ -27,7 +27,7 @@ A map of the shared Google Drive folder Geode Inn-master build, listed 2026-10-2
 - **Drive link** opens the file in Google Drive.
 - **Image URL** (`https://lh3.googleusercontent.com/d/<id>`) returns the picture itself, so it works in an `<img>` tag or an image field. It keeps working only while the folder stays shared by link.
 - Images, videos, PDFs and archives stay in Drive; only text is copied into the repo.
-- This repo is public, so links are given only for the Inn's own documents and canon images. Folders, the bought image packs, the concept-library theme folders, the chat logs and files with keys are listed by name without a link. The full index with every link is with the client.
+- The repo was public when this index was made, so links are given only for the Inn's own documents and canon images. Folders, the bought image packs, the concept-library theme folders, the chat logs and files with keys are listed by name without a link. The full index with every link is with the client.
 
 ## Left out
 

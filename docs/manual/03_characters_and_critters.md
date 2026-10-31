@@ -223,7 +223,7 @@ See the single "To reconcile" list in section 8. The roster-specific open items 
 
 ### 1.8 Pictures for characters (October 29)
 
-The Base44 links of the canon image library expired, so the client saved the canon pictures as JPEGs in the Drive: Game Images > images for the canon > canon > jpeg pics (343 pictures, in characters, items and zones). The same set is ready for GitHub under `docs/canon_images/`, in the same folders. The September 15 library document listed 1,020 images; whether any of the others are still wanted is the client's call.
+The Base44 links of the canon image library expired, so the client saved the canon pictures as JPEGs in the Drive: Game Images > images for the canon > canon > jpeg pics (343 pictures, in characters, items and zones). The same set is in GitHub under `docs/canon_images/`, in the same folders (the friends and family pictures since October 31, once the repo was private). 25 of the pictures are in the folder twice under two names (checked on October 31); `docs/canon_images/README.md` lists the pairs. The September 15 library document listed 1,020 images; whether any of the others are still wanted is the client's call.
 
 The client asked for the unassigned pictures to be matched to characters where they fit. These are the matches made on October 29. Any of them can be changed.
 
