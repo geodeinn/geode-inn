@@ -13,7 +13,8 @@ Each file is one kind of record (a Base44 entity), with the field names Base44 u
 | elio/BoardSkin.json | 16 | 15 |
 | elio/Book.json | 179 | 118 |
 | elio/BuildingRecipe.json | 148 | 139 |
-| elio/ComicStrip.json | 45 | 20 |
+| elio/ComicStrip.json | 47 | 22 |
+| elio/Dialogue.json | 557 | 384 |
 | elio/EggHatch.json | 7 | 6 |
 | elio/ElementCharm.json | 118 | 0 |
 | elio/GameItem.json | 355 | 75 |
@@ -47,7 +48,9 @@ The Gazette strips are in `elio/ComicStrip.json` (script, panels and characters 
 
 | Strip | Title | Picture |
 |---|---|---|
+| #0 | Strip Zero: The Greek Yogurt Accord | comic_strips/strip_000_the_greek_yogurt_accord.jpg |
 | #1 | The Room That Wasnt There | comic_strips/strip_001_the_room_that_wasnt_there.jpg |
+| #2 | Letters to the Sentinel | comic_strips/strip_002_letters_to_the_sentinel.jpg |
 | #3 | The First Stone | comic_strips/strip_003_the_first_stone.jpg |
 | #4 | The Pocket-Change Gate | comic_strips/strip_004_the_pocket_change_gate.jpg |
 | #4 | The Watcher Sees All | comic_strips/strip_004_the_watcher_sees_all.jpg |
@@ -62,13 +65,9 @@ Strip numbers are as Base44 has them, and several strips share one (#1 is used 4
 
 Elio's own files (the documents and pictures it saved while working) sit in Base44's file storage, which can't be listed with a read-only token, so they are not here. The manual's Part 8, section 1.2 to 1.4, lists what the chat says is there.
 
-## Held back for now
-
-Some of this content carries personal details in places, so it stays out of this repo while the repo is public, and goes in once it is private: 2 strips in elio/ComicStrip.json (#0 Strip Zero: The Greek Yogurt Accord, #2 Letters to the Sentinel); **elio/Dialogue.json** (557 records).
-
 ## Left out
 
-- **Player and user data**: progress, inventories, votes, leaderboards, Common Room messages, purchases, diplomas, the designs players made, and performer contacts. It belongs to the people who use the site, the build does not need it, and this repo is public.
+- **Player and user data**: progress, inventories, votes, leaderboards, Common Room messages, purchases, diplomas, the designs players made, and performer contacts. It belongs to the people who use the site, and the build does not need it.
 - **InnCore** ("Elio, Voice of the Geode Inn"): already in the repo, in `docs/library/mechanics/` (`elio_voice_decision.md`, `inncore_identity.md`, `inncore_rules.md`, `inncore_family.md`, `inn_boot_sequence.md`).
 - **FaireVenue**: the two records are test entries.
 - **Emails, creator names and player ids** inside records are removed. Everything else is as Base44 has it.
