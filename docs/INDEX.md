@@ -1,6 +1,6 @@
 # THE GEODE INN — MASTER FILE INDEX
 
-The complete card catalog. Every .md file in the repo, grouped by folder. Updated 2026-09-10.
+The complete card catalog. Every .md file in the repo, grouped by folder. Updated 2026-11-02.
 
 AGENTS: search THIS file first. Ctrl-F the name or topic, then open the path.
 
@@ -10,16 +10,19 @@ AGENTS: search THIS file first. Ctrl-F the name or topic, then open the path.
 - `GEODE_INN_MASTER_MANIFEST.md` — Geode Inn — Master Game-Builder Manifest
 - `README.md` — 🏰 The Geode Inn
 
-## docs (418 files)
+## docs (426 files)
 
 - `docs/GEODE_INN_ARCHITECTURE_BLUEPRINT.md` — THE GEODE INN — COMPLETE ARCHITECTURE BLUEPRINT
 - `docs/GEODE_INN_PROJECT_BIBLE.md` — THE GEODE INN — PROJECT BIBLE (v3.0)
+- `docs/INDEX.md` — THE GEODE INN — MASTER FILE INDEX
 - `docs/MASTER_ASSET_LEDGER.md` — THE GEODE INN — MASTER ASSET LEDGER
+- `docs/MASTER_STRUCTURE_BLUEPRINT.md` — THE GEODE INN  MASTER STRUCTURE BLUEPRINT
 - `docs/VISUAL_EXPANSION_QUEUE.md` — Visual Expansion Queue — Elio's Response to the Fizgigs' Roadmap
 - `docs/VISUAL_EXPANSION_ROADMAP.md` — Visual Expansion Roadmap & Animation Sequencing Guide
 - `docs/archaeological_sites_master_list.md` — Geode Inn — Master Catalog of Archaeological Sites & Ancient Locations
 - `docs/builder_instruction_batch7.md` — BUILDER INSTRUCTION — BATCH 7
 - `docs/building_gathering_system.md` — Geode Inn — Building & Gathering System
+- `docs/card_image_gaps.md` — CARD DECK — IMAGE GAP LIST
 - `docs/fae_kingdom_quest_blueprint.md` — The Fae Kingdom — Quest & NPC Design Blueprint
 - `docs/geode_inn_aegean_light.md` — Geode Inn — The Aegean Light
 - `docs/geode_inn_annex_heartbeat_altar.md` — Geode Inn — The Miskatonic Annex: The Heartbeat Below
@@ -60,6 +63,7 @@ AGENTS: search THIS file first. Ctrl-F the name or topic, then open the path.
 - `docs/geode_inn_building_system.md` — THE GEODE INN — RESOURCE GATHERING & BUILDING SYSTEM
 - `docs/geode_inn_cabbit.md` — Geode Inn — The Cabbit
 - `docs/geode_inn_cabochon_knotwork_game.md` — Geode Inn — Cabochon Cut System & Celtic Knotwork Weaving Game
+- `docs/geode_inn_calder.md` — Geode Inn — Calder
 - `docs/geode_inn_camelot_alchemy.md` — Geode Inn — Sacred Geometry & Alchemy in Camelot
 - `docs/geode_inn_camelot_catacombs.md` — Geode Inn — The Catacombs Beneath Camelot
 - `docs/geode_inn_camelot_ether.md` — Geode Inn — Camelot: Ether
@@ -102,6 +106,7 @@ AGENTS: search THIS file first. Ctrl-F the name or topic, then open the path.
 - `docs/geode_inn_class_mapping_part2.md` — THE GEODE INN — CHARACTER CLASS MAPPING: PART 2
 - `docs/geode_inn_clockwork_skies.md` — Geode Inn — The Clockwork Skies
 - `docs/geode_inn_clockwork_skies_crew.md` — Geode Inn — The Arcana's Crew
+- `docs/geode_inn_cocobolo_grandfather_clock_build_plan.md` — The Cocobolo Longcase — Build Plan
 - `docs/geode_inn_colorado_plateau_zone.md` — Geode Inn — The Colorado Plateau: "The Sculpture"
 - `docs/geode_inn_combat_visualization.md` — Geode Inn — Resonance Combat Visualization
 - `docs/geode_inn_comic_strip_system.md` — Geode Inn — Comic Strip System
@@ -121,6 +126,7 @@ AGENTS: search THIS file first. Ctrl-F the name or topic, then open the path.
 - `docs/geode_inn_crete_labyrinth.md` — Geode Inn — The Labyrinth of Crete
 - `docs/geode_inn_critter_image_urls.md` — Geode Inn — Critter & NPC Image URLs (Final Batch)
 - `docs/geode_inn_critter_roster.md` — THE GEODE INN — COMPLETE CRITTER ROSTER
+- `docs/geode_inn_crystal_canticle_quest_chain.md` — Geode Inn — The Crystal Canticle
 - `docs/geode_inn_cthulhu_character_profile.md` — Geode Inn — Naut
 - `docs/geode_inn_da_vinci_character_profile.md` — Geode Inn — Leonardo da Vinci
 - `docs/geode_inn_dark_side_of_the_inn.md` — THE GEODE INN — The Dark Side of the Inn
@@ -170,6 +176,7 @@ AGENTS: search THIS file first. Ctrl-F the name or topic, then open the path.
 - `docs/geode_inn_gardener.md` — Geode Inn — The Gardener
 - `docs/geode_inn_gardener_and_beorn.md` — Geode Inn — The Gardener: The Greenward
 - `docs/geode_inn_gargoyle_designs.md` — Geode Inn — Gargoyle Designs
+- `docs/geode_inn_garnish_layers.md` — THE GARNISH LAYERS — The Add-In Layer Ledger
 - `docs/geode_inn_grand_collision_scene.md` — THE GEODE INN — The Grand Collision
 - `docs/geode_inn_greece_zone.md` — Geode Inn — Ancient Greece Zone
 - `docs/geode_inn_greek_philosophers.md` — Geode Inn — The Three on the Stairs
@@ -227,7 +234,7 @@ AGENTS: search THIS file first. Ctrl-F the name or topic, then open the path.
 - `docs/geode_inn_messenger_principle.md` — Geode Inn — The Messenger Principle
 - `docs/geode_inn_mim.md` — Geode Inn — Brim
 - `docs/geode_inn_mim_arc_full_weave.md` — Geode Inn — Brim's Arc: The Full Weave
-- `docs/geode_inn_miracle_max.md` — Geode Inn — Miracle Max
+- `docs/geode_inn_miracle_max.md` — Calder (formerly filed as Miracle Max)
 - `docs/geode_inn_mirror.md` — Geode Inn — The Mirror
 - `docs/geode_inn_mirror_systems_integration.md` — THE GEODE INN — Mirror Systems Integration
 - `docs/geode_inn_miskatonic_annex.md` — Geode Inn — The Miskatonic Annex
@@ -280,6 +287,7 @@ AGENTS: search THIS file first. Ctrl-F the name or topic, then open the path.
 - `docs/geode_inn_observatory_quest_chain.md` — Geode Inn — The Observatory Quest Chain: "The Question"
 - `docs/geode_inn_oceanianoir_formal_integration.md` — Geode Inn — Oceanianoir: Formal Quest Integration & Murloc Throughline
 - `docs/geode_inn_odin_character_profile.md` — Geode Inn — Odin Character Profile
+- `docs/geode_inn_one_liner_register.md` — THE ONE-LINER REGISTER
 - `docs/geode_inn_periodic_table_charms.md` — Geode Inn — The Periodic Table Charm Collection
 - `docs/geode_inn_persephone_hades.md` — Geode Inn — Persephone & Hades
 - `docs/geode_inn_persephone_redesign.md` — Geode Inn — Persephone Redesign
@@ -301,7 +309,6 @@ AGENTS: search THIS file first. Ctrl-F the name or topic, then open the path.
 - `docs/geode_inn_portrait_system_mapplethorpe.md` — THE GEODE INN — THE PORTRAIT SYSTEM
 - `docs/geode_inn_product_line_plan.md` — THE GEODE INN — Product Line: Novel, Graphic Novel, Tabletop Game
 - `docs/geode_inn_progression_combat.md` — Geode Inn — Progression and Combat Design
-- `docs/geode_inn_project_bible.md` — THE GEODE INN — PROJECT BIBLE
 - `docs/geode_inn_project_bible_master_backup_aug2026.md` — THE GEODE INN — PROJECT BIBLE
 - `docs/geode_inn_pulse_line.md` — Geode Inn — The Pulse Line
 - `docs/geode_inn_queen_of_roots.md` — Geode Inn — The Queen of Roots
@@ -310,6 +317,7 @@ AGENTS: search THIS file first. Ctrl-F the name or topic, then open the path.
 - `docs/geode_inn_quest_dialogue_tabletop_voice.md` — Geode Inn — Quest Giver Dialogue
 - `docs/geode_inn_quest_integration_native_system.md` — Geode Inn — Quest Integration: From AzerothCore to Native Systems
 - `docs/geode_inn_quest_mothers_many_faces.md` — Geode Inn — Quest Line: The Mother's Many Faces
+- `docs/geode_inn_rachel_kaiser_tattoo_census.md` — RACHEL KAISER COMMISSION — The Maker's Tattoo: Asset Census
 - `docs/geode_inn_ragnarok.md` — Geode Inn — Ragnarok: The Cycle Completion Event
 - `docs/geode_inn_ragnarok_graduation_scene.md` — THE GEODE INN — Ragnarok: The Graduation
 - `docs/geode_inn_ravens_angle.md` — Geode Inn — The Raven's Angle
@@ -429,20 +437,26 @@ AGENTS: search THIS file first. Ctrl-F the name or topic, then open the path.
 - `docs/novel_expansion_egypt_gates.md` — Chapter Eighteen-A: The Middle Gates
 - `docs/novel_expansion_part4_chapters.md` — Chapter Twenty-Six-A: The Council
 - `docs/novel_expansion_shadow_chapters.md` — Chapter Twenty-Three-A: The Shadow Inn
-- `docs/summary_of_building_geode_inn.md` — 
+- `docs/summary_of_building_geode_inn.md` — summary of building geode inn
 
-## docs/zone_specs (139 files)
+## docs/zone_specs (225 files)
 
 - `docs/zone_specs/geode_inn_additional_mechanics_master_spec.md` — THE ADDITIONAL MECHANICS — Master Specification
+- `docs/zone_specs/geode_inn_aegean_bearsark_arc.md` — THE BEARSARK ARC  The Wandering Guard
 - `docs/zone_specs/geode_inn_aegean_light_master_spec.md` — THE AEGEAN LIGHT ZONE — Master Specification
+- `docs/zone_specs/geode_inn_alchemical_landing_spec.md` — THE ALCHEMICAL LANDING  The Staircase's Third Space
+- `docs/zone_specs/geode_inn_anansi_sky_story_run_spec.md` — THE SKY-STORY RUN: ANANSI'S FOUR IMPOSSIBLE THINGS
 - `docs/zone_specs/geode_inn_anubis_master_spec.md` — THE ANUBIS SYSTEM — Master Specification
 - `docs/zone_specs/geode_inn_appalachian_zone_master_spec.md` — THE APPALACHIAN ZONE: "THE FIVE LAYERS" — Master Specification
+- `docs/zone_specs/geode_inn_arcade_background_law.md` — THE BACKGROUND LAW — ARCADE & ZONE BACKGROUND CANON
 - `docs/zone_specs/geode_inn_arcade_games_master_spec.md` — THE ARCADE GAME SPECS — Master Specification
 - `docs/zone_specs/geode_inn_arcade_pipeline_master_spec.md` — THE ARCADE PRODUCTION PIPELINE — Master Specification
 - `docs/zone_specs/geode_inn_arcade_production_pipeline_master_spec.md` — THE ARCADE PRODUCTION PIPELINE — Master Specification
 - `docs/zone_specs/geode_inn_art_visual_master_spec.md` — THE ART AND VISUAL REFERENCE — Master Specification
 - `docs/zone_specs/geode_inn_arthur_camelot_master_spec.md` — KING ARTHUR & THE CAMELOT ZONE — Master Specification
 - `docs/zone_specs/geode_inn_artisan_thief_master_spec.md` — THE ARTISAN THIEF — Master Specification
+- `docs/zone_specs/geode_inn_asian_theatre_pigment_thread_spec.md` — THE THEATRE FORMS AND THE PIGMENT THREAD — Asian Theatre as Imagery Law
+- `docs/zone_specs/geode_inn_atlantis_quest_chain.md` — THE ATLANTIS QUEST CHAIN: "THE CITY THAT CHOSE THE DEEP"
 - `docs/zone_specs/geode_inn_atlantis_zone_master_spec.md` — THE ATLANTIS ZONE — Master Specification
 - `docs/zone_specs/geode_inn_aughra_quest_master_spec.md` — THE AUGHRA QUESTLINE: "THE CARRYING" — Master Specification
 - `docs/zone_specs/geode_inn_backwards_walk_master_spec.md` — THE BACKWARDS WALK — Master Specification
@@ -452,97 +466,170 @@ AGENTS: search THIS file first. Ctrl-F the name or topic, then open the path.
 - `docs/zone_specs/geode_inn_bead_composer_master_spec.md` — THE BEAD COMPOSER — Master Specification
 - `docs/zone_specs/geode_inn_blue_box_tardis_spec.md` — THE BLUE BOX — TARDIS Easter Egg Specification
 - `docs/zone_specs/geode_inn_bone_room_master_spec.md` — THE BONE ROOM — Master Specification
+- `docs/zone_specs/geode_inn_bosch_shadows_quest_chain.md` — THE BOSCH SHADOWS QUEST CHAIN: "THE SHADOW'S OWN STORY"
+- `docs/zone_specs/geode_inn_brownie_roundup.md` — THE BROWNIE ROUNDUP
 - `docs/zone_specs/geode_inn_building_system_master_spec.md` — THE BUILDING SYSTEM — Master Specification
+- `docs/zone_specs/geode_inn_camelot_quest_chain.md` — THE CAMELOT QUEST CHAIN: "THE TABLE REMAINS"
+- `docs/zone_specs/geode_inn_camera_coverage_kit.md` — THE CAMERA COVERAGE KIT — CHARACTER-AT-ANGLE BLUEPRINT CANON
 - `docs/zone_specs/geode_inn_camera_system_master_spec.md` — THE CAMERA SYSTEM — Master Specification
 - `docs/zone_specs/geode_inn_campaign_narrative_master_spec.md` — THE CAMPAIGN NARRATIVE — Master Specification
+- `docs/zone_specs/geode_inn_campgrounds_build_scholar_spec.md` — THE CAMPGROUNDS BUILD-SCHOLAR — Master Specification
+- `docs/zone_specs/geode_inn_canopy_city_quest_chain.md` — THE CANOPY CITY QUEST CHAIN: "THE CITY IN THE BRANCHES"
 - `docs/zone_specs/geode_inn_card_game_framework_master_spec.md` — THE CARD GAME FRAMEWORK — Master Specification
 - `docs/zone_specs/geode_inn_card_game_master_spec.md` — THE CARD GAME — Master Specification
+- `docs/zone_specs/geode_inn_catacombs_mask_chapter_spec.md` — THE MASK CHAPTER — The Catacombs' New Room
+- `docs/zone_specs/geode_inn_catacombs_weave_spec.md` — THE CATACOMBS WEAVE  the underground's dwelling geography
 - `docs/zone_specs/geode_inn_catacombs_zone_build_sheet.md` — THE CATACOMBS — Master Zone Build Sheet
+- `docs/zone_specs/geode_inn_cave_city_master_spec.md` — THE CAVE CITY — CANONICAL MASTER SPEC (PROMOTED 2026-09-10)
+- `docs/zone_specs/geode_inn_celtic_depth_tuatha_gaelic.md` — THE CELTIC DEPTH WAVE — The Gaelic Tongue + The Tuatha's Wider Presence
+- `docs/zone_specs/geode_inn_celtic_highlands_book_of_kells_spec.md` — THE CELTIC HIGHLANDS  The Book of Kells Level
 - `docs/zone_specs/geode_inn_character_art_catalog_master_spec.md` — THE CHARACTER ART CATALOG — Master Specification
 - `docs/zone_specs/geode_inn_character_compendium_master_spec.md` — THE CHARACTER COMPENDIUM — Master Specification
 - `docs/zone_specs/geode_inn_charm_bracelet_master_spec.md` — THE CHARM BRACELET — Master Specification
 - `docs/zone_specs/geode_inn_china_zone_master_spec.md` — THE CHINA ZONE — Master Specification
+- `docs/zone_specs/geode_inn_cities_of_the_dead_walkthrough_level.md` — THE CITIES OF THE DEAD — The Walkthrough Level (French Quarter / St. Louis No. 1)
 - `docs/zone_specs/geode_inn_class_mapping_master_spec.md` — THE CLASS MAPPING SYSTEM — Master Specification
 - `docs/zone_specs/geode_inn_class_system_master_spec.md` — THE CHARACTER CLASS SYSTEM — Master Specification
+- `docs/zone_specs/geode_inn_color_works_master_spec.md` — THE COLOR WORKS — The Dye Wheel & The Glaze Line
 - `docs/zone_specs/geode_inn_colorado_plateau_quest_chain.md` — THE COLORADO PLATEAU — Quest Chain Master Spec
 - `docs/zone_specs/geode_inn_combat_progression_master_spec.md` — THE COMBAT AND PROGRESSION SYSTEM — Master Specification
+- `docs/zone_specs/geode_inn_comedy_troupe_registry.md` — THE COMEDY TROUPE REGISTRY
 - `docs/zone_specs/geode_inn_complete_walkthrough_master_spec.md` — THE COMPLETE WALKTHROUGH — Master Specification
 - `docs/zone_specs/geode_inn_cosmic_crew_master_spec.md` — THE COSMIC CREW — Master Specification
 - `docs/zone_specs/geode_inn_cosmic_layer_master_spec.md` — THE COSMIC LAYER SPACE SYSTEM — Master Specification
+- `docs/zone_specs/geode_inn_craft_curriculum_master_spec.md` — THE CRAFT CURRICULUM — The Cross-Craft Overlay
 - `docs/zone_specs/geode_inn_critter_roster_master_spec.md` — THE CRITTER ROSTER — Master Specification
 - `docs/zone_specs/geode_inn_cultural_quest_chains_master_spec.md` — THE CULTURAL QUEST CHAINS — Master Specification
 - `docs/zone_specs/geode_inn_dark_side_master_spec.md` — THE DARK SIDE OF THE INN — Master Specification
+- `docs/zone_specs/geode_inn_default_tray_registry.md` — THE DEFAULT TRAY REGISTRY — The Spiral Defaults
+- `docs/zone_specs/geode_inn_dew_circuit_spec.md` — The Dew Circuit — Spec (v0.2, rulings captured 2026-09-12 night)
 - `docs/zone_specs/geode_inn_drink_mechanic_master_spec.md` — THE DRINK MECHANIC — Master Specification
+- `docs/zone_specs/geode_inn_drum_circle_spec.md` — THE DRUM CIRCLE  the Campgrounds' Gathering Circle
 - `docs/zone_specs/geode_inn_egypt_zone_master_spec.md` — THE EGYPT ZONE — Master Specification
 - `docs/zone_specs/geode_inn_einherjar_master_spec.md` — THE EINHERJAR — Master Specification
 - `docs/zone_specs/geode_inn_endgame_master_spec.md` — THE ENDGAME — Master Specification
 - `docs/zone_specs/geode_inn_endgame_quest_integration_master_spec.md` — THE ENDGAME QUEST INTEGRATION — Master Specification
+- `docs/zone_specs/geode_inn_engine_room_and_gear_register_spec.md` — GEODE INN — THE ENGINE ROOM + THE GEAR REGISTER
+- `docs/zone_specs/geode_inn_entry_wall_knock_law_spec.md` — GEODE INN — THE ENTRY WALLS + THE KNOCK LAW
+- `docs/zone_specs/geode_inn_every_mind_welcome.md` — THE EVERY-MIND WELCOME
 - `docs/zone_specs/geode_inn_exterior_rousseau_magritte_master_spec.md` — THE EXTERIOR (ROUSSEAU + MAGRITTE) — Master Specification
 - `docs/zone_specs/geode_inn_external_zones_national_parks_master_spec.md` — THE EXTERNAL ZONE SYSTEM & NATIONAL PARKS — Master Specification
 - `docs/zone_specs/geode_inn_fae_geology_master_spec.md` — THE FAE GEOLOGY — Master Specification
 - `docs/zone_specs/geode_inn_fae_geology_parks_master_spec.md` — THE FAE GEOLOGY PARKS — Master Specification
+- `docs/zone_specs/geode_inn_fae_kingdom_production_master_spec.md` — THE FAE KINGDOM MMO — PRODUCTION MASTER SPEC
 - `docs/zone_specs/geode_inn_faery_camelot_master_spec.md` — THE FAERY KINGDOM AND CAMELOT — Master Specification
+- `docs/zone_specs/geode_inn_fair_descent_movement_spec.md` — THE FAIR DESCENT — The Inn's Vertical Movement Law
+- `docs/zone_specs/geode_inn_flight_law.md` — THE GIVEN WING  The Flight Law
+- `docs/zone_specs/geode_inn_fortune_cookie_critter_spec.md` — THE FORTUNE COOKIE — The Critter Ruled In (Krista, 2026-09-20)
+- `docs/zone_specs/geode_inn_foundling_register_master_spec.md` — THE FOUNDLING REGISTER — Master Specification
+- `docs/zone_specs/geode_inn_gargoyle_seek_spec.md` — THE GARGOYLE SEEK — The World-Wide Hide-and-Seek (Arcade roster #87 candidate)
+- `docs/zone_specs/geode_inn_gathering_spaces_master_spec.md` — THE GATHERING SPACES — MASTER SPEC
+- `docs/zone_specs/geode_inn_gemstone_egg_economy_spec.md` — THE GEMSTONE EGG ECONOMY
 - `docs/zone_specs/geode_inn_geological_sleep_master_spec.md` — THE GEOLOGICAL SLEEP — Master Specification
+- `docs/zone_specs/geode_inn_god_ladder_spec.md` — THE GOD LADDER — The Puzzle Duel Where the Prize Is Odin's Company (Arcade roster #88 candidate)
 - `docs/zone_specs/geode_inn_gorgons_garden_zone_build_sheet.md` — THE GORGON'S GARDEN — Master Zone Build Sheet
 - `docs/zone_specs/geode_inn_heartbeat_altar_master_spec.md` — THE MISKATONIC ANNEX & HEARTBEAT ALTAR — Master Specification
+- `docs/zone_specs/geode_inn_hearth_hound_legend.md` — THE HEARTH-HOUND LEGEND — The Hound That Stayed
 - `docs/zone_specs/geode_inn_hollow_earth_district_pass.md` — THE GEODE INN — Hollow Earth: The District Pass
 - `docs/zone_specs/geode_inn_important_tier_quests_master_spec.md` — THE IMPORTANT TIER QUESTS — Master Specification
 - `docs/zone_specs/geode_inn_in_between_game_master_spec.md` — THE IN-BETWEEN GAME — Master Specification
+- `docs/zone_specs/geode_inn_india_quest_chain.md` — THE INDIA QUEST CHAIN: "THE MANY FACES"
 - `docs/zone_specs/geode_inn_individual_characters_master_spec.md` — THE INDIVIDUAL CHARACTER PROFILES — Master Specification
+- `docs/zone_specs/geode_inn_inn_post_master_spec.md` — THE INN POST — The Official Mail System (Master Specification)
+- `docs/zone_specs/geode_inn_japan_summer_shrine_spec.md` — MOUNT FUJI — THE SUMMER SHRINE AND THE PASSAGE
 - `docs/zone_specs/geode_inn_knowledge_base_master_spec.md` — THE KNOWLEDGE BASE — Master Specification
+- `docs/zone_specs/geode_inn_lady_of_the_lake_spec.md` — THE LADY OF THE LAKE — The Water System's Camelot Chapter
+- `docs/zone_specs/geode_inn_layer_sweep_master_plan.md` — THE LAYER SWEEP — MASTER PLAN
+- `docs/zone_specs/geode_inn_library_deep_underground_spec.md` — THE LIBRARY DEEP UNDERGROUND  The Welsh-Slate Restricted Library
 - `docs/zone_specs/geode_inn_living_book_master_spec.md` — THE LIVING BOOK SYSTEM — Master Specification
 - `docs/zone_specs/geode_inn_lore_archive_master_spec.md` — THE LORE AND ARCHIVE SYSTEM — Master Specification
+- `docs/zone_specs/geode_inn_lost_and_found_goblin_spec.md` — THE LOST AND FOUND  THE GOBLIN-ING
+- `docs/zone_specs/geode_inn_main_floor_aurallia_weave.md` — THE ONE WHO TENDS — Aurallia's Main Floor Weave
 - `docs/zone_specs/geode_inn_mason_npc_master_spec.md` — MASON, THE STONE MASON — Master Specification
 - `docs/zone_specs/geode_inn_master_storyline_master_spec.md` — THE MASTER STORYLINE — Master Specification
 - `docs/zone_specs/geode_inn_master_structure_master_spec.md` — THE MASTER STRUCTURE — Master Specification
 - `docs/zone_specs/geode_inn_master_thread_master_spec.md` — THE MASTER THREAD INTEGRATION — Master Specification
+- `docs/zone_specs/geode_inn_meadery_quest_chain.md` — THE MEADERY QUEST CHAIN: "THE MEAD OF POETRY"
+- `docs/zone_specs/geode_inn_mesopotamia_master_spec.md` — THE MESOPOTAMIAN PLATFORM — CANONICAL MASTER SPEC (PROMOTED 2026-09-10)
 - `docs/zone_specs/geode_inn_mirror_systems_master_spec.md` — THE MIRROR SYSTEMS — Master Specification
+- `docs/zone_specs/geode_inn_miskatonic_annex_master_spec.md` — THE MISKATONIC ANNEX — MASTER WORLD SPEC
 - `docs/zone_specs/geode_inn_monster_encounter_scripts_master_spec.md` — THE MONSTER ENCOUNTER SCRIPTS — Master Specification
 - `docs/zone_specs/geode_inn_monster_of_the_deep_master_spec.md` — THE MONSTER OF THE DEEP — Master Specification
 - `docs/zone_specs/geode_inn_mt_shasta_master_spec.md` — MOUNT SHASTA — Master Specification
+- `docs/zone_specs/geode_inn_murloc_census.md` — THE MURLOC CENSUS  The Roundup
 - `docs/zone_specs/geode_inn_mycorrhizal_network_master_spec.md` — THE MYCORRHIZAL NETWORK — Master Specification
 - `docs/zone_specs/geode_inn_named_critters_master_spec.md` — THE NAMED CRITTERS — Master Specification
 - `docs/zone_specs/geode_inn_narrative_scenes_master_spec.md` — THE NARRATIVE SCENES — Master Specification
 - `docs/zone_specs/geode_inn_naut_royal_questline.md` — NAUT'S ROYAL QUESTLINE — "The Borrower's Ledger"
+- `docs/zone_specs/geode_inn_new_orleans_quarter_master_spec.md` — THE FRENCH QUARTER — New Orleans, the Bayou's Crown: MARIE LAVEAU & THE VOOODOO CRAFT
 - `docs/zone_specs/geode_inn_nine_levels_master_spec.md` — THE NINE LEVEL DOCS — Master Specification
 - `docs/zone_specs/geode_inn_nine_muses_master_spec.md` — THE NINE MUSES QUEST CHAINS — Master Specification
 - `docs/zone_specs/geode_inn_nook_effect_master_spec.md` — THE NOOK EFFECT — Master Specification
 - `docs/zone_specs/geode_inn_norrath_zone_quest_master_spec.md` — THE NORRATH-STYLE ZONE-QUEST SYSTEM — Master Specification
+- `docs/zone_specs/geode_inn_norse_coast_spec.md` — THE NORSE COAST
 - `docs/zone_specs/geode_inn_npc_new_roster_master_spec.md` — THE NPC NEW ROSTER — Master Specification
 - `docs/zone_specs/geode_inn_npc_profiles_master_spec.md` — THE NPC PROFILES — Master Specification
+- `docs/zone_specs/geode_inn_oceanianoir_chemistry_sync_spec.md` — OCEANIANOIR'S CHEMISTRY SECTION: THE ZONE-TIE SYNC SPEC
 - `docs/zone_specs/geode_inn_parks_sweep_master_inventory.md` — THE PARKS SWEEP — Master Inventory
+- `docs/zone_specs/geode_inn_passage_mounds_spec.md` — THE PASSAGE MOUNDS  the Little Newgranges, the Spiral Rocks, and the Underground Site Family
+- `docs/zone_specs/geode_inn_peru_andes_quest_chain.md` — THE PERU/ANDES QUEST CHAIN: "WHAT THE MOUNTAIN REMEMBERS"
+- `docs/zone_specs/geode_inn_petrified_forest_quest_chain.md` — THE PETRIFIED FOREST QUEST CHAIN: "THE PATIENT REPLACEMENT"
 - `docs/zone_specs/geode_inn_philosophers_stone_stage_master_spec.md` — THE PHILOSOPHER'S STONE STAGE — Master Specification
+- `docs/zone_specs/geode_inn_poison_garden_quest_chain.md` — THE POISON GARDEN QUEST CHAIN: "THE CURE GROWS BESIDE"
+- `docs/zone_specs/geode_inn_port_purgatory_spec.md` — PORT PURGATORY — The Parcel Between Realms (Arcade roster #88 candidate)
 - `docs/zone_specs/geode_inn_portal_arrow_master_spec.md` — THE PORTAL ARROW MECHANIC — Master Specification
 - `docs/zone_specs/geode_inn_portal_registry_master_spec.md` — THE GEODE INN — Portal Registry (Master Spec)
 - `docs/zone_specs/geode_inn_product_line_plan_master_spec.md` — THE PRODUCT LINE PLAN — Master Specification
+- `docs/zone_specs/geode_inn_progressive_lean_spec.md` — THE PROGRESSIVE LEAN — The Shift Arc as a Cast-Wide Architecture
 - `docs/zone_specs/geode_inn_pulse_line_master_spec.md` — THE PULSE LINE — Master Specification
 - `docs/zone_specs/geode_inn_quest_integration_master_spec.md` — THE QUEST INTEGRATION NATIVE SYSTEM — Master Specification
+- `docs/zone_specs/geode_inn_quest_mark_law.md` — THE QUEST MARK LAW — The Approach Mark and the Glow Register
 - `docs/zone_specs/geode_inn_ragnarok_master_spec.md` — RAGNAROK — Master Specification
 - `docs/zone_specs/geode_inn_redwood_cathedral_master_spec.md` — THE REDWOOD CATHEDRAL — Master Specification
+- `docs/zone_specs/geode_inn_redwood_quest_chain.md` — THE REDWOOD CATHEDRAL QUEST CHAIN: "THE SLOWEST FREQUENCY"
+- `docs/zone_specs/geode_inn_regional_dances_spec.md` — The Dance Halls — Regional Folk Dance Rhythm Game (Arcade Roster #86)
 - `docs/zone_specs/geode_inn_remaining_documents_master_spec.md` — THE REMAINING DOCUMENTS — Master Specification
 - `docs/zone_specs/geode_inn_remaining_systems_master_spec.md` — THE REMAINING SYSTEMS — Master Specification
 - `docs/zone_specs/geode_inn_remembrance_vision_master_spec.md` — THE REMEMBRANCE VISION SYSTEM — Master Specification
 - `docs/zone_specs/geode_inn_resonance_card_game_master_spec.md` — RESONANCE — The Geode Inn Card Game — Master Specification
+- `docs/zone_specs/geode_inn_resonance_chambers_spec.md` — THE RESONANCE CHAMBERS  the acoustic-archaeology gameplay system
 - `docs/zone_specs/geode_inn_rockies_quest_chain.md` — THE ROCKIES — Quest Chain Master Spec (with the Canadian Fold)
+- `docs/zone_specs/geode_inn_science_sidekick_law.md` — THE SCIENCE SIDEKICK LAW — Master Specification
 - `docs/zone_specs/geode_inn_seven_unwoven_systems_master_spec.md` — THE SEVEN UNWOVEN SYSTEMS — Master Specification
 - `docs/zone_specs/geode_inn_shadow_inn_tri_mode_spec.md` — THE SHADOW INN — Master Tri-Mode System Specification
 - `docs/zone_specs/geode_inn_shasta_quest_chain.md` — MOUNT SHASTA — Quest Chain Master Spec
+- `docs/zone_specs/geode_inn_shield_mixer_game_spec.md` — THE SHIELD MIXER: A TRIAL-AND-ERROR ELEMENT GAME
 - `docs/zone_specs/geode_inn_silica_thread_master_spec.md` — THE SILICA THREAD — Master Specification
+- `docs/zone_specs/geode_inn_silica_thread_questline_spec.md` — THE SILICA THREAD — The Glass Kingdoms Chapter
 - `docs/zone_specs/geode_inn_silk_road_master_spec.md` — THE SILK ROAD — Master Zone Integration Specification
+- `docs/zone_specs/geode_inn_spiral_gallery_quest_chain.md` — THE SPIRAL GALLERY QUEST CHAIN: "THE LONG HANDPRINT"
+- `docs/zone_specs/geode_inn_staircase_quest_chain.md` — THE STAIRCASE QUEST CHAIN: "THE TURNING"
+- `docs/zone_specs/geode_inn_standing_grove_tkaronto_research.md` — THE STANDING GROVE (TKARONTO)
 - `docs/zone_specs/geode_inn_stone_capsules_master_spec.md` — THE STONE CAPSULES & COMPANIONS SYSTEM — Master Specification
+- `docs/zone_specs/geode_inn_stone_circles_spec.md` — THE STONE CIRCLES
 - `docs/zone_specs/geode_inn_stone_vibration_master_spec.md` — THE STONE VIBRATION TOUCH SYSTEM — Master Specification
 - `docs/zone_specs/geode_inn_storyline_atlas_master_spec.md` — THE STORYLINE ATLAS — Master Specification
 - `docs/zone_specs/geode_inn_superstition_quest_chain.md` — THE SUPERSTITION MOUNTAINS — Quest Chain Master Spec
+- `docs/zone_specs/geode_inn_terracotta_quest_chain.md` — THE CHINA TERRACOTTA QUEST CHAIN: "THE CLAY ARMY'S WATCH"
 - `docs/zone_specs/geode_inn_the_giants_master_spec.md` — THE SLEEPING GIANTS — Master Specification
 - `docs/zone_specs/geode_inn_the_long_night_master_spec.md` — THE LONG NIGHT — Master Specification
 - `docs/zone_specs/geode_inn_the_owls_master_spec.md` — THE OWLS — Master Specification
 - `docs/zone_specs/geode_inn_the_platypus_master_spec.md` — BILL THE PLATYPUS — Master Specification
+- `docs/zone_specs/geode_inn_the_tap_spec.md` — THE TAP — THE INN'S COMMUNAL SINGALONG TRIGGER (Krista, 2026-09-20)
+- `docs/zone_specs/geode_inn_the_weave_master_spec.md` — THE WEAVE — Master Specification
 - `docs/zone_specs/geode_inn_the_weaver_master_spec.md` — THE WEAVER — Master Specification
+- `docs/zone_specs/geode_inn_tidal_caves_quest_chain.md` — THE TIDAL CAVES QUEST CHAIN: "THE BREATHING STONE"
+- `docs/zone_specs/geode_inn_tide_system_tie_in.md` — THE TIDE SYSTEM TIE-IN: "THE BEAT AND THE FERRY"
+- `docs/zone_specs/geode_inn_transylvanian_forest_spec.md` — THE TRANSYLVANIAN FOREST
 - `docs/zone_specs/geode_inn_treetop_marketplace_master_spec.md` — THE GEODE INN — The Treetop Marketplace (Master Spec + Schematics)
 - `docs/zone_specs/geode_inn_trifocal_gaze_master_spec.md` — THE TRIFOCAL GAZE — Master Specification
+- `docs/zone_specs/geode_inn_trovant_garden_quest_chain.md` — THE TROVANT GARDEN QUEST CHAIN: "THE STONE THAT ANSWERED"
 - `docs/zone_specs/geode_inn_tumble_run_master_spec.md` — TUMBLE RUN — Master Specification
 - `docs/zone_specs/geode_inn_unified_control_master_spec.md` — THE UNIFIED CONTROL SPEC — Master Specification
 - `docs/zone_specs/geode_inn_unified_resonance_master_spec.md` — THE UNIFIED RESONANCE ARCHITECTURE — Master Specification
+- `docs/zone_specs/geode_inn_unvoiced_shadow_knights_class_spec.md` — THE UNVOICED — Frequency-Feeder Class — Master Specification
+- `docs/zone_specs/geode_inn_van_gogh_garden_quest_chain.md` — THE GARDEN (VAN GOGH) QUEST CHAIN: "THE VISIBLE GROWING"
+- `docs/zone_specs/geode_inn_venue_row_master_spec.md` — THE VENUE ROW — Master Specification
 - `docs/zone_specs/geode_inn_voice_block_registry.md` — THE GEODE INN — Voice Block Registry & Character Voice Sync
 - `docs/zone_specs/geode_inn_voice_profile_master_spec.md` — THE VOICE PROFILE TRANSLATION REFERENCE — Master Specification
 - `docs/zone_specs/geode_inn_voice_profile_translation_master_spec.md` — THE VOICE PROFILE TRANSLATION REFERENCE — Master Specification
@@ -561,7 +648,13 @@ AGENTS: search THIS file first. Ctrl-F the name or topic, then open the path.
 - `docs/zone_specs/geode_inn_walkthrough_dissection_10_ascent_endings.md` — THE GEODE INN — Walkthrough Dissection 10: The Ascent and the Three Endings
 - `docs/zone_specs/geode_inn_walkthrough_dissection_11_in_between_shadow_inn.md` — D11 — THE IN-BETWEEN + THE SHADOW INN
 - `docs/zone_specs/geode_inn_walkthrough_dissection_12_canopy_redwood.md` — D12 — CANOPY CITY + THE REDWOOD'S FULL CLIMB
+- `docs/zone_specs/geode_inn_walkthrough_dissection_13_main_floor.md` — THE GEODE INN — Walkthrough Dissection 13: THE MAIN FLOOR
+- `docs/zone_specs/geode_inn_walkthrough_dissection_14_campgrounds.md` — THE GEODE INN — Walkthrough Dissection 14: THE CAMPGROUNDS
+- `docs/zone_specs/geode_inn_walkthrough_dissection_15_bayou.md` — THE GEODE INN — Walkthrough Dissection 15: THE BAYOU
+- `docs/zone_specs/geode_inn_walkthrough_dissection_16_bedrock_fortress_prism.md` — THE GEODE INN  Walkthrough Dissection 16: THE BEDROCK FORTRESS & THE PRISM
 - `docs/zone_specs/geode_inn_wandering_program_master_spec.md` — THE WANDERING PROGRAM — Master Specification
+- `docs/zone_specs/geode_inn_water_breath_law.md` — THE WATER-BREATH LAW  The Given Breath
+- `docs/zone_specs/geode_inn_water_environments_atlas.md` — THE WATER ENVIRONMENTS ATLAS — One Water, Many Waters
 - `docs/zone_specs/geode_inn_water_monster_bestiary_master_spec.md` — THE WATER MONSTER BESTIARY — Master Specification
 - `docs/zone_specs/geode_inn_water_system_master_spec.md` — THE WATER SYSTEM QUEST CHAINS — Master Specification
 - `docs/zone_specs/geode_inn_water_zone_level8_master_spec.md` — THE WATER ZONE (LEVEL 8) — Master Specification
@@ -571,15 +664,18 @@ AGENTS: search THIS file first. Ctrl-F the name or topic, then open the path.
 - `docs/zone_specs/geode_inn_zone_audit_master_spec.md` — THE ZONE AUDIT — Master Specification
 - `docs/zone_specs/geode_inn_zone_definitions_audit.md` — THE GEODE INN — Zone Definitions Audit
 - `docs/zone_specs/geode_inn_zone_designs_master_spec.md` — THE ZONE DESIGNS — Master Specification
+- `docs/zone_specs/geode_inn_zone_storyline_census.md` — THE ZONE STORYLINE CENSUS (v3 — corrected again 2026-09-10)
 - `docs/zone_specs/water_system_zone_architecture.md` — Geode Inn — Water System Zone Architecture
 
-## docs/library/specs (45 files)
+## docs/library/specs (53 files)
 
 - `docs/library/specs/GEODE_INN_MASTER_BUILD.md` — THE GEODE INN — MASTER BUILD DOCUMENT
 - `docs/library/specs/artisan_shop_visibility_spec.md` — Artisan Shop Visibility System — Cross-Platform Specification
+- `docs/library/specs/catacombs_undercity_builder_sync.md` — CATACOMBS + UNDERCITY  BUILDER SYNC
 - `docs/library/specs/character_name_sync_builder_message.md` — BUILDER SYNC — CHARACTER NAME ROSTER UPDATE
 - `docs/library/specs/comic_strip_builder_spec.md` — Geode Inn Gazette — Builder Spec for /gazette Page
 - `docs/library/specs/comic_strip_page_spec.md` — Geode Inn Gazette — Comic Strip Display Page Spec
+- `docs/library/specs/dark_side_build_sheet.md` — BUILD SHEET — THE DARK SIDE OF THE INN (the lava lamp sphere)
 - `docs/library/specs/digital_companion_app_spec.md` — THE DIGITAL COMPANION APP — PRODUCT SPECIFICATION
 - `docs/library/specs/egg_hatchery_first_event.md` — THE FIRST EGG — MONTHLY HATCHERY EVENT
 - `docs/library/specs/egg_hatchery_page_spec.md` — The Egg Hatchery — Page Spec
@@ -591,16 +687,22 @@ AGENTS: search THIS file first. Ctrl-F the name or topic, then open the path.
 - `docs/library/specs/geode_inn_creative_master_index.md` — THE GEODE INN — Creative Master Index
 - `docs/library/specs/geode_inn_creator_outreach.md` — Geode Inn — Creator Outreach Strategy
 - `docs/library/specs/geode_inn_cross_product_integration_map.md` — Geode Inn — Cross-Product Integration Map
+- `docs/library/specs/geode_inn_echo_songbook_schema.md` — THE ECHO SONGBOOK  Entity Schema
 - `docs/library/specs/geode_inn_egg_hatchery_master_spec.md` — THE EGG HATCHERY — Master System Specification
 - `docs/library/specs/geode_inn_final_room_mechanic_spec.md` — THE FINAL ROOM — Mechanical Integration Specification
+- `docs/library/specs/geode_inn_flesh_wound_knight_spec.md` — THE FLESH WOUND KNIGHT  Master Character Specification
 - `docs/library/specs/geode_inn_game_mechanics_dna_spec.md` — Geode Inn — Game Mechanics DNA Specification
 - `docs/library/specs/geode_inn_image_creation_template.md` — THE GEODE INN — Image Creation Template
 - `docs/library/specs/geode_inn_narrative_dna_spec.md` — Geode Inn — Narrative DNA Specification
 - `docs/library/specs/geode_inn_player_journey_spec.md` — Geode Inn — The Player Journey Specification
 - `docs/library/specs/geode_inn_podcast_creator_strategy.md` — THE GEODE INN PODCAST CREATOR ATTRACTION STRATEGY
 - `docs/library/specs/geode_inn_repository_zone_spec.md` — THE VESTIBULE — Master Zone Specification
+- `docs/library/specs/geode_inn_ripple_ledger.md` — THE GEODE INN  RIPPLE LEDGER
 - `docs/library/specs/geode_inn_silica_thread_spec.md` — THE SILICA THREAD — Master Specification
+- `docs/library/specs/geode_inn_speaking_to_the_building_spec.md` — SPEAKING TO THE BUILDING — Voice Input & the Guest Handbook
+- `docs/library/specs/geode_inn_the_royal_artifact_ledger.md` — THE ROYAL ARTIFACT LEDGER — First Wave (20 entries)
 - `docs/library/specs/geode_inn_the_royal_spec.md` — THE ROYAL — Master Zone Specification
+- `docs/library/specs/geode_inn_tv_deployment_spec.md` — Geode Inn — TV Platform Deployment Spec
 - `docs/library/specs/geode_inn_visual_dna_spec.md` — Geode Inn — Visual DNA Specification
 - `docs/library/specs/geode_inn_zone_game_gap_scan.md` — THE GEODE INN — Zone/Game Gap Scan
 - `docs/library/specs/geode_inn_zone_game_style_master_list.md` — THE GEODE INN — Zone-to-Game-Style Master List
@@ -675,12 +777,14 @@ AGENTS: search THIS file first. Ctrl-F the name or topic, then open the path.
 - `docs/zones/zone_catalog_fae_worldmap.md` — Geode Inn — Environment Reference & Zone Catalog
 - `docs/zones/zone_catalog_upstairs_main_staircase.md` — Geode Inn — Environment Catalog & Godot Reference
 
-## docs/characters (26 files)
+## docs/characters (56 files)
 
 - `docs/characters/character_animation_prompts_upper_inn.md` — Geode Inn — Character Animation Prompts
 - `docs/characters/character_image_crossref.md` — Geode Inn — Character Image Cross-Reference
 - `docs/characters/character_rename_ledger.md` — Geode Inn — Canonical Character Rename Ledger
 - `docs/characters/geode_inn_adam_wardrobe.md` — SPETER ADAMS — The Complete Wardrobe
+- `docs/characters/geode_inn_bar_cast_roster.md` — GEODE INN — THE BAR CAST ROSTER (FORMAL)
+- `docs/characters/geode_inn_brawl_pack_roster.md` — GEODE INN — THE BRAWL-PACK ROSTER (FORMAL)
 - `docs/characters/geode_inn_brownies.md` — Geode Inn — The Brownies
 - `docs/characters/geode_inn_brownies_and_grit.md` — Geode Inn — The Brownies & Grit
 - `docs/characters/geode_inn_byrd_narrative.md` — Geode Inn — THE BYRD NARRATIVE
@@ -689,23 +793,50 @@ AGENTS: search THIS file first. Ctrl-F the name or topic, then open the path.
 - `docs/characters/geode_inn_character_class_sentinel.md` — GEODE INN — Character Class System
 - `docs/characters/geode_inn_character_classes.md` — GEODE INN — Character Class System
 - `docs/characters/geode_inn_character_homes.md` — Geode Inn — Character Homes
+- `docs/characters/geode_inn_character_source_map.md` — THE CHARACTER SOURCE MAP
 - `docs/characters/geode_inn_class_abilities.md` — The Geode Inn — Playable Class Ability Sets
 - `docs/characters/geode_inn_clockwork_skies_crew.md` — Geode Inn — The Arcana's Crew
+- `docs/characters/geode_inn_dollkeeper_horror_register_spec.md` — THE DOLLKEEPER'S HORROR REGISTER — Speter Adams's Dolls, Creepy Canon
+- `docs/characters/geode_inn_dossier_gap_census.md` — THE DOSSIER GAP CENSUS
 - `docs/characters/geode_inn_duck_biology_solidified.md` — Geode Inn — The Duck's Biology: Solidified Integration
 - `docs/characters/geode_inn_new_npcs_batch2.md` — GEODE INN — NEW NPC ADDITIONS
 - `docs/characters/geode_inn_npc_adam.md` — SPETER ADAMS — The Chameleon / The Dollkeeper
+- `docs/characters/geode_inn_npc_ampulla_dossier.md` — AMPULLA — The Unvoiced Ambassador — Character Dossier
+- `docs/characters/geode_inn_npc_archivist_master_dossier.md` — HARRY / THE ARCHIVIST — The Master Dossier
+- `docs/characters/geode_inn_npc_aurallia_master_dossier.md` — AURALLIA — The Master Dossier
+- `docs/characters/geode_inn_npc_bard_master_dossier.md` — THE BARD  The Master Dossier
+- `docs/characters/geode_inn_npc_bethany_master_dossier.md` — BETHANY — The Master Dossier
 - `docs/characters/geode_inn_npc_bramble.md` — Bramble — The Seer / The Doodler
+- `docs/characters/geode_inn_npc_catacombs_doorkeeper_seed.md` — GEODE INN — SEED DOSSIER: THE CATACOMBS DOORKEEPER
+- `docs/characters/geode_inn_npc_catalyst_master_dossier.md` — The Catalyst — Master Dossier (Current Canon)
+- `docs/characters/geode_inn_npc_chameleon_druid_master_dossier.md` — THE CHAMELEON DRUID  The Master Dossier
+- `docs/characters/geode_inn_npc_charon_master_dossier.md` — CHARON — The Master Dossier
 - `docs/characters/geode_inn_npc_collector_dialogue_lucifer_cadence.md` — Geode Inn — The Collector: Dialogue Voice (Lucifer Cadence)
 - `docs/characters/geode_inn_npc_collector_quest_dialogue_lucifer_cadence.md` — Geode Inn — The Collector: Quest Chain Dialogue (Lucifer Cadence)
 - `docs/characters/geode_inn_npc_collector_solidified.md` — Geode Inn — The Collector: The Solidified Character
+- `docs/characters/geode_inn_npc_greg_master_dossier.md` — GREG — The Master Dossier
+- `docs/characters/geode_inn_npc_host_master_dossier.md` — THE HOST — The Master Dossier
 - `docs/characters/geode_inn_npc_jay.md` — JAY — The Huntsman / The Tavern Keeper
-- `docs/characters/geode_inn_npc_quartz_pebble_skeleton_seed.md`  Geode Inn  Seed NPC: The Quartz-Pebble Skeleton (unnamed candidate; the honest collector at the fire-light edge; awaiting naming session)
+- `docs/characters/geode_inn_npc_katya_master_dossier.md` — KATYA THE SIREN  The Master Dossier
+- `docs/characters/geode_inn_npc_lichenblossom_master_dossier.md` — LICHENBLOSSOM — The Master Dossier
+- `docs/characters/geode_inn_npc_lozen_master_dossier.md` — LOZEN  The Master Dossier
+- `docs/characters/geode_inn_npc_luna_master_dossier.md` — LUNA — The Master Dossier
+- `docs/characters/geode_inn_npc_maddi_master_dossier.md` — MADDI — The Master Dossier
+- `docs/characters/geode_inn_npc_oriel_seed.md` — GEODE INN — SEED DOSSIER: ORIEL
+- `docs/characters/geode_inn_npc_quartz_pebble_skeleton_seed.md` — GEODE INN — SEED NPC: THE QUARTZ-PEBBLE SKELETON
+- `docs/characters/geode_inn_npc_ragana_master_dossier.md` — THE RAGANA  The Master Dossier
+- `docs/characters/geode_inn_npc_screamer_seed.md` — GEODE INN — SEED DOSSIER: THE SCREAMER (working title)
+- `docs/characters/geode_inn_npc_tall_leprechaun_master_dossier.md` — THE INSTIGATING LEPRECHAUN — MASTER DOSSIER
+- `docs/characters/geode_inn_npc_tj_gabby_master_dossier.md` — TJ & GABBY — The Master Dossier
+- `docs/characters/geode_inn_npc_vaulknut_master_dossier.md` — VAULKNUT  The Master Dossier
+- `docs/characters/geode_inn_npc_zack_master_dossier.md` — ZACK — The Master Dossier
+- `docs/characters/geode_inn_root_storyline_study.md` — THE ROOT STORYLINE STUDY
 - `docs/characters/geode_inn_shoulder_companions_deep_storyline.md` — Geode Inn — The Two Shoulder Companions: Deep Storyline
 - `docs/characters/lozen_questline.md` — Lozen — The Sentinel's Vigil
 - `docs/characters/npc_hook_words.md` — Geode Inn — NPC Hook Word Catalog
 - `docs/characters/recovered_npc_profiles.md` — Recovered NPC Profiles — From Google Drive Recovery (Sept 1, 2026)
 
-## docs/games (23 files)
+## docs/games (24 files)
 
 - `docs/games/game_map_africa_middle_east.md` — Geode Inn — Cultural Mini-Game Variants: Africa & Middle East
 - `docs/games/game_map_americas_europe.md` — Cultural Mini-Game Variants: The Americas & Europe
@@ -726,12 +857,13 @@ AGENTS: search THIS file first. Ctrl-F the name or topic, then open the path.
 - `docs/games/geode_inn_shadow_inn_combat_engine.md` — Geode Inn — Shadow Inn Combat Engine
 - `docs/games/geode_inn_shadow_inn_full_duplicate.md` — THE SHADOW INN — FULL DUPLICATE
 - `docs/games/geode_inn_shifting_man_solidified.md` — Geode Inn — The Shifting Man: Solidified Integration
+- `docs/games/geode_inn_stone_poker_poker_night_law.md` — THE POKER NIGHT LAW — STONE POKER'S BANTER LAYER
 - `docs/games/geode_inn_tabletop_questline_analysis.md` — GEODE INN — Tabletop Questline Analysis
 - `docs/games/geode_inn_tri_mode_game_dynamic.md` — Geode Inn — Tri-Mode Game Dynamic
 - `docs/games/resonance_card_game_spec.md` — Resonance — Geode Inn Card Game
 - `docs/games/tumble_run_dlc_specs.md` — Tumble Run — DLC Pack Specs
 
-## docs/systems (20 files)
+## docs/systems (21 files)
 
 - `docs/systems/STEAM_BETA_CHECKLIST.md` — Geode Inn — Steam Beta Launch Checklist
 - `docs/systems/bohemian_rhapsody_design.md` — BOHEMIAN RHAPSODY
@@ -752,9 +884,10 @@ AGENTS: search THIS file first. Ctrl-F the name or topic, then open the path.
 - `docs/systems/geode_inn_pulse_line_solidified.md` — Geode Inn — The Pulse Line: Solidified Integration
 - `docs/systems/geode_inn_song_of_making_solidified.md` — Geode Inn — The Song of Making: Solidified Integration
 - `docs/systems/geode_inn_stone_vibration_godot_guide.md` — GEODE INN — STONE VIBRATION TOUCH SYSTEM
+- `docs/systems/geode_inn_witan_hearth_feis_spec.md` — Geode Inn — The Witan & The Hearth-Feis
 - `docs/systems/geode_inn_zone_video_catalog_wave2.md` — Geode Inn — Zone Video Clip Catalog (Wave 2)
 
-## docs/art (23 files)
+## docs/art (24 files)
 
 - `docs/art/animation_master_brief.md` — Geode Inn — Master Animation Brief
 - `docs/art/animation_prompts_cosmic_and_external.md` — Geode Inn — Animation Prompt Library: Cosmic Layer & External Zones
@@ -774,6 +907,7 @@ AGENTS: search THIS file first. Ctrl-F the name or topic, then open the path.
 - `docs/art/geode_inn_art_portfolio_aug28_batch3.md` — Geode Inn — Art Portfolio: Batch 3 (Aug 28, 2026)
 - `docs/art/geode_inn_art_portfolio_aug28_batch4.md` — Geode Inn — Art Portfolio: Batch 4 (Aug 28, 2026)
 - `docs/art/geode_inn_new_game_art_portfolio.md` — Geode Inn — New Game Systems Art Portfolio
+- `docs/art/geode_inn_royo_tarot_card_layout_spec.md` — THE PRINTED PORTFOLIO — THE ROYO TAROT CARD LAYOUT
 - `docs/art/mineral_charm_spirit_image_index.md` — Mineral Charm Spirit Image Index
 - `docs/art/morphic_all_zone_prompts.md` — Geode Inn — Morphic Video Generation Prompts
 - `docs/art/morphic_catacomb_prompts.md` — Geode Inn — Morphic Video Generation Prompts
@@ -797,7 +931,7 @@ AGENTS: search THIS file first. Ctrl-F the name or topic, then open the path.
 - `docs/data/mineral_charm_spirits_remaining.md` — GEODE INN — MINERAL CHARM SPIRIT CATALOG
 - `docs/data/mineral_charm_spirits_unique.md` — GEODE INN — MINERAL CHARM SPIRIT CATALOG
 
-## docs/gallery (18 files)
+## docs/gallery (20 files)
 
 - `docs/gallery/casting_review.md` — Casting Review — Visual Gallery Index
 - `docs/gallery/casting_review_part1_full_presence.md` — Casting Review — Part 1: Full Presence Characters
@@ -814,6 +948,8 @@ AGENTS: search THIS file first. Ctrl-F the name or topic, then open the path.
 - `docs/gallery/geode_inn_in_between_manifest.md` — Geode Inn — In-Between (Transitional Frequency) Asset Manifest
 - `docs/gallery/geode_inn_inbetween_manifest.md` — Geode Inn — In-Between Frequency State Asset Manifest
 - `docs/gallery/geode_inn_master_character_roster.md` — Geode Inn — Master Character & Creature Roster
+- `docs/gallery/geode_inn_needed_images_audit.md` — Geode Inn — Needed Images Audit & Prioritized Work Queue
+- `docs/gallery/geode_inn_stone_cave_structure_images.md` — THE STONE CAVE STRUCTURE IMAGES  THE ORDERED MANIFEST
 - `docs/gallery/geode_inn_stone_images_complete.md` — Geode Inn — Complete Stone Image Manifest (198 Stones)
 - `docs/gallery/geode_inn_supply_icons_manifest.md` — Geode Inn — Crafting Supply Icon Manifest
 - `docs/gallery/npc_portrait_manifest.md` — Geode Inn — NPC Portrait Manifest
@@ -914,12 +1050,14 @@ AGENTS: search THIS file first. Ctrl-F the name or topic, then open the path.
 - `docs/arcade_build_sheets/tier4_victoria_falls.md` — Build Sheet — Victoria Falls
 - `docs/arcade_build_sheets/tier4_zelda_style_world.md` — Build Sheet — Zelda-Style World
 
-## docs/library/audio (4 files)
+## docs/library/audio (6 files)
 
+- `docs/library/audio/arcade_music_profile_master_spec.md` — THE ARCADE MUSIC PROFILE MASTER SPEC
 - `docs/library/audio/audiobook_production_spec.md` — THE GEODE INN — Audiobook Production Spec
 - `docs/library/audio/geode_inn_audio_data_structure_spec.md` — Geode Inn Audio Data Structure — Implementation Guide
 - `docs/library/audio/geode_inn_audio_dna_spec.md` — Geode Inn — Audio DNA Specification
 - `docs/library/audio/geode_inn_complete_audio_coverage_map.md` — THE GEODE INN — COMPLETE AUDIO COVERAGE MAP
+- `docs/library/audio/staircase_ascending_track_spec.md` — THE STAIRCASE TRACK — "THE TURNING"
 
 ## docs/library/novel (21 files)
 
@@ -983,20 +1121,37 @@ AGENTS: search THIS file first. Ctrl-F the name or topic, then open the path.
 
 - `docs/audiobook/audiobook_chapter_1_script.md` — Audiobook Narration Script — "A Song of Stone and Silence"
 
-## docs/builder_messages (1 files)
+## docs/builder_messages (3 files)
 
+- `docs/builder_messages/fae_kingdom_mmo_builder_message.md` — BUILDER MESSAGE: The Fae Kingdom MMO — The Game Layer
+- `docs/builder_messages/gazette_front_page_builder_message.md` — BUILDER MESSAGE: The Gazette on the Front Door
 - `docs/builder_messages/water_zone_builder_message.md` — BUILDER MESSAGE: Water Zone Architecture
 
-## docs/card_game (1 files)
+## docs/card_game (2 files)
 
+- `docs/card_game/resonance_new_cast_expansion.md` — RESONANCE + THE ROYO DECK — The New Cast Expansion
 - `docs/card_game/resonance_starter_decks.md` — Resonance — Starter Deck Designs
 
-## docs/comics (1 files)
+## docs/comics (14 files)
 
 - `docs/comics/strip_001_the_great_renaming.md` — The Geode Inn Gazette — Strip #001: "The Great Renaming"
+- `docs/comics/strip_002_the_oldest_cold_case.md` — The Oldest Cold Case
+- `docs/comics/strip_004_the_keg_and_the_name.md` — Geode Inn Gazette — Strip #004: "The Keg and the Name"
+- `docs/comics/strip_017_the_building_has_ears.md` — The Geode Inn Gazette — Strip #017: "The Building Has Ears"
+- `docs/comics/strip_018_the_sliver_that_kept_time.md` — The Geode Inn Gazette — Strip #018: "The Sliver That Kept Time"
+- `docs/comics/strip_019_the_honest_liar.md` — Strip #019 — "The Honest Liar"
+- `docs/comics/strip_020_every_door_but_one.md` — Strip #020 — "Every Door But One"
+- `docs/comics/strip_022_the_booth_that_sold_nothing.md` — The Geode Inn Gazette — Strip #022: "The Booth That Sold Nothing"
+- `docs/comics/strip_023_the_stone_that_stays.md` — Strip #023 — "The Stone That Stays"
+- `docs/comics/strip_024_the_wall_that_keeps_receipts.md` — The Geode Inn Gazette — Strip #024: "The Wall That Keeps Receipts"
+- `docs/comics/strip_025_the_form_that_stays.md` — Strip #025 — "The Form That Stays"
+- `docs/comics/strip_026_the_broom_that_kept_time.md` — Strip #026 — "The Broom That Kept Time"
+- `docs/comics/strip_027_the_minutes_are_available.md` — The Geode Inn Gazette — Strip #027: "The Minutes Are Available"
+- `docs/comics/strip_029_the_bones_are_honest.md` — Strip #029 — "The Bones Are Honest"
 
-## docs/drive-recovery (28 files)
+## docs/drive-recovery (29 files)
 
+- `docs/drive-recovery/GEODE_INN_TROVE_CENSUS.md` — THE DRIVE TROVE CENSUS — 'all building components for game'
 - `docs/drive-recovery/bohemian_rhapsody_bead_mapping.md` — BOHEMIAN RHAPSODY
 - `docs/drive-recovery/bohemian_rhapsody_design.md` — BOHEMIAN RHAPSODY
 - `docs/drive-recovery/geode_inn_catacombs_item_templates.md` — Geode Inn — Interactive Item Templates: Catacombs Zone
@@ -1031,12 +1186,12 @@ AGENTS: search THIS file first. Ctrl-F the name or topic, then open the path.
 - `docs/drive-sync/DRIVE_MANIFEST.md` — Geode Inn — Google Drive Content Manifest
 - `docs/drive-sync/geode_inn_character_class_6_sentinel.md` — GEODE INN — Character Class System
 - `docs/drive-sync/geode_inn_character_class_system_festival_questline.md` — GEODE INN — Character Class System
-- `docs/drive-sync/geode_inn_character_development_session_aug2026.md` — 
+- `docs/drive-sync/geode_inn_character_development_session_aug2026.md` — Geode Inn — Character Development Session (Aug 2026)
 - `docs/drive-sync/geode_inn_drive_folder_structure.md` — Geode Inn — Google Drive Folder Structure
-- `docs/drive-sync/geode_inn_family_character_registry.md` — 
-- `docs/drive-sync/geode_inn_family_character_registry_updated.md` — 
-- `docs/drive-sync/geode_inn_master_storyline_game_progression.md` — 
-- `docs/drive-sync/geode_inn_siren_and_pirate.md` — 
+- `docs/drive-sync/geode_inn_family_character_registry.md` — Geode Inn — Family Character Registry
+- `docs/drive-sync/geode_inn_family_character_registry_updated.md` — Geode Inn — Family Character Registry
+- `docs/drive-sync/geode_inn_master_storyline_game_progression.md` — THE GEODE INN — Master Storyline & Game Progression Document
+- `docs/drive-sync/geode_inn_siren_and_pirate.md` — The Siren and the Pirate
 - `docs/drive-sync/geode_inn_tabletop_questline_analysis.md` — GEODE INN — Tabletop Questline Analysis
 - `docs/drive-sync/geode_inn_theme_brainstorm.md` — Theme Brainstorm
 
@@ -1052,14 +1207,19 @@ AGENTS: search THIS file first. Ctrl-F the name or topic, then open the path.
 
 - `docs/godot/tumble_run_audio_wiring_spec.md` — Tumble Run — Audio Wiring Spec
 
-## docs/library (8 files)
+## docs/library (13 files)
 
+- `docs/library/RECOVERED_LIBRARY_INDEX.md` — THE RECOVERED LIBRARY INDEX
 - `docs/library/egg_hatchery_event_1.md` — Egg Hatchery — First Monthly Event: "The Crone's Casting"
+- `docs/library/geode_inn_council_histories_research.md` — Geode Inn — The Council Histories (Research Dossier)
 - `docs/library/geode_inn_cryptid_inbetween_manifest.md` — Geode Inn — Cryptid Bestiary: In-Between (Transitional Frequency) Manifest
+- `docs/library/geode_inn_distinct_tempos_census.md` — THE DISTINCT TEMPOS CENSUS — THE TAP BAR'S JUKEBOX REGISTER (founded 2026-09-20)
+- `docs/library/geode_inn_statute_book_of_the_unconfirmed.md` — THE STATUTE-BOOK OF THE UNCONFIRMED
 - `docs/library/geode_inn_stone_images_complete.md` — Geode Inn — Complete Stone Image Manifest (198 Stones)
 - `docs/library/geode_inn_thread_mapping.md` — The Geode Inn — Thread Mapping
 - `docs/library/npc_hook_words.md` — Geode Inn — NPC Hook Word Catalog
 - `docs/library/npc_remaining_upload_results.md` — NPC Remaining Image Upload Results
+- `docs/library/oceanianoir_audit_report.md` — AUDIT MAP: OCEANIANOIR, THE ELEMENTCHARM QUESTLINE, AND THE MATERIAL QUEST LANDSCAPE
 - `docs/library/resonance_starter_decks.md` — Resonance — Starter Deck Designs
 - `docs/library/tumble_run_dlc_specs.md` — Tumble Run — DLC Pack Specs
 
@@ -1512,4 +1672,457 @@ AGENTS: search THIS file first. Ctrl-F the name or topic, then open the path.
 - `web_games/BUILD_ALL_PLATFORMS.md` — Geode Inn — All-Platform Build System
 - `web_games/PRICING_STRATEGY.md` — Geode Inn — Individual Game Monetization
 - `web_games/README.md` — Geode Inn — Standalone Web Games
-- `docs/characters/geode_inn_npc_vaulknut_master_dossier.md`  Geode Inn  Vaulknut: The Master Dossier (the selkie who chose the bench  every thread, one page)
+
+## docs/base44_data (2 files)
+
+- `docs/base44_data/README.md` — Base44 data
+- `docs/base44_data/missing.md` — Not elsewhere in GitHub
+
+## docs/blueprints (3 files)
+
+- `docs/blueprints/geode_inn_room_items_blueprint.md` — THE ROOM ITEMS BLUEPRINT
+- `docs/blueprints/inn_tree_3d_blueprint_viewer_guide.md` — The Blueprint as Jewelry — A Beginner's Guide to the 3D Viewer
+- `docs/blueprints/slow_walk_parcel_01_great_hall.md` — THE SLOW WALK — PARCEL 01: THE GREAT HALL
+
+## docs/canon_images (1 files)
+
+- `docs/canon_images/README.md` — Canon images
+
+## docs/drive_index (371 files)
+
+- `docs/drive_index/README.md` — Drive index: "Geode Inn-master build"
+- `docs/drive_index/docs/data_on_countries/countries/afghanistan/lore/afghansitan_lore.md` — afghansitan lore
+- `docs/drive_index/docs/data_on_countries/countries/albania/lore/albanian_lore.md` — albanian lore
+- `docs/drive_index/docs/data_on_countries/countries/algeria/lore/algerian_lore.md` — algerian lore
+- `docs/drive_index/docs/data_on_countries/countries/andorra/lore/andorra_lore.md` — andorra lore
+- `docs/drive_index/docs/data_on_countries/countries/angola/lore/angola_lore.md` — angola lore
+- `docs/drive_index/docs/data_on_countries/countries/antarctica/lore/antarctica_lore.md` — antarctica lore
+- `docs/drive_index/docs/data_on_countries/countries/antigua_and_barbuda/lore/antigua_and_barbuda_lore.md` — antigua and barbuda lore
+- `docs/drive_index/docs/data_on_countries/countries/argentina/lore/argentina_lore.md` — argentina lore
+- `docs/drive_index/docs/data_on_countries/countries/armenia/lore/armenia_lore.md` — armenia lore
+- `docs/drive_index/docs/data_on_countries/countries/australia/lore/australian_lore.md` — australian lore
+- `docs/drive_index/docs/data_on_countries/countries/austria/lore/austrian_lore.md` — austrian lore
+- `docs/drive_index/docs/data_on_countries/countries/azerbaijan/lore/azerbaijan_lore.md` — azerbaijan lore
+- `docs/drive_index/docs/data_on_countries/countries/bahamas/lore/bahamas_lore.md` — bahamas lore
+- `docs/drive_index/docs/data_on_countries/countries/bahrain/lore/bahrain_lore.md` — bahrain lore
+- `docs/drive_index/docs/data_on_countries/countries/bangladesh/lore/bangladesh_lore.md` — bangladesh lore
+- `docs/drive_index/docs/data_on_countries/countries/barbados/lore/barbados_lore.md` — barbados lore
+- `docs/drive_index/docs/data_on_countries/countries/belarus/lore/belarus_lore.md` — belarus lore
+- `docs/drive_index/docs/data_on_countries/countries/belgium/lore/belgium_lore.md` — belgium lore
+- `docs/drive_index/docs/data_on_countries/countries/belize/lore/belize_lore.md` — belize lore
+- `docs/drive_index/docs/data_on_countries/countries/benin/lore/benin_lore.md` — benin lore
+- `docs/drive_index/docs/data_on_countries/countries/bhutan/lore/bhutan_lore.md` — bhutan lore
+- `docs/drive_index/docs/data_on_countries/countries/bolivia/lore/bolivia_lore.md` — bolivia lore
+- `docs/drive_index/docs/data_on_countries/countries/bosnia_and_herzegovina/lore/bosnia_and_herzegovina_lore.md` — bosnia and herzegovina lore
+- `docs/drive_index/docs/data_on_countries/countries/botswana/lore/botswana_lore.md` — botswana lore
+- `docs/drive_index/docs/data_on_countries/countries/brazil/lore/brazilian_lore.md` — brazilian lore
+- `docs/drive_index/docs/data_on_countries/countries/brunei/lore/brunei_lore.md` — brunei lore
+- `docs/drive_index/docs/data_on_countries/countries/bulgaria/lore/bulgarian_lore.md` — bulgarian lore
+- `docs/drive_index/docs/data_on_countries/countries/burkina_faso/lore/burkina_faso_lore.md` — burkina faso lore
+- `docs/drive_index/docs/data_on_countries/countries/burundi/lore/burundi_lore.md` — burundi lore
+- `docs/drive_index/docs/data_on_countries/countries/cabo_verde/lore/cabo_verde_lore.md` — cabo verde lore
+- `docs/drive_index/docs/data_on_countries/countries/cambodia/lore/cambodian_lore.md` — cambodian lore
+- `docs/drive_index/docs/data_on_countries/countries/cameroon/lore/cameroon_lore.md` — cameroon lore
+- `docs/drive_index/docs/data_on_countries/countries/canada/alberta_ammolite_badlands_lore/alberta_lore.md` — alberta lore
+- `docs/drive_index/docs/data_on_countries/countries/canada/baffin_bay/baffin_bay_lore.md` — baffin bay lore
+- `docs/drive_index/docs/data_on_countries/countries/canada/british_columbia_jade/british_columbia_lore.md` — british columbia lore
+- `docs/drive_index/docs/data_on_countries/countries/canada/labrador_labradorite/labrador_lore.md` — labrador lore
+- `docs/drive_index/docs/data_on_countries/countries/canada/manitoba/manitoba_lore.md` — manitoba lore
+- `docs/drive_index/docs/data_on_countries/countries/canada/new_brunswick/new_brunswick_lore.md` — new brunswick lore
+- `docs/drive_index/docs/data_on_countries/countries/canada/newfoundland/newfoundland_lore.md` — newfoundland lore
+- `docs/drive_index/docs/data_on_countries/countries/canada/northwest_territories/northwest_territories_lore.md` — northwest territories lore
+- `docs/drive_index/docs/data_on_countries/countries/canada/nova_scotia/nova_scotia_lore.md` — nova scotia lore
+- `docs/drive_index/docs/data_on_countries/countries/canada/nunavut/nunavut_lore.md` — nunavut lore
+- `docs/drive_index/docs/data_on_countries/countries/canada/ontario/ontario_lore.md` — ontario lore
+- `docs/drive_index/docs/data_on_countries/countries/canada/prince_edward_island/prince_edward_island_lore.md` — prince edward island lore
+- `docs/drive_index/docs/data_on_countries/countries/canada/quebec/quebec_lore.md` — quebec lore
+- `docs/drive_index/docs/data_on_countries/countries/canada/saskatchewan/saskatchewan_lore.md` — saskatchewan lore
+- `docs/drive_index/docs/data_on_countries/countries/canada/yukon_territories/yukon_territories_lore.md` — yukon territories lore
+- `docs/drive_index/docs/data_on_countries/countries/central_african_republic/lore/central_african_republic_lore.md` — central african republic lore
+- `docs/drive_index/docs/data_on_countries/countries/chad/lore/chad_lore.md` — chad lore
+- `docs/drive_index/docs/data_on_countries/countries/chile/lore/chile_lore.md` — chile lore
+- `docs/drive_index/docs/data_on_countries/countries/china/lore/anhui/anhui_lore.md` — anhui lore
+- `docs/drive_index/docs/data_on_countries/countries/china/lore/fujian/fujian_lore.md` — fujian lore
+- `docs/drive_index/docs/data_on_countries/countries/china/lore/gansu/gansu_lore.md` — gansu lore
+- `docs/drive_index/docs/data_on_countries/countries/china/lore/guangdong/guangdong_lore.md` — guangdong lore
+- `docs/drive_index/docs/data_on_countries/countries/china/lore/guizhou/guizhou_lore.md` — guizhou lore
+- `docs/drive_index/docs/data_on_countries/countries/china/lore/hainan/hainan_lore.md` — hainan lore
+- `docs/drive_index/docs/data_on_countries/countries/china/lore/hebei/hebei_lore.md` — hebei lore
+- `docs/drive_index/docs/data_on_countries/countries/china/lore/heilongjiang/heilongjiang_lore.md` — heilongjiang lore
+- `docs/drive_index/docs/data_on_countries/countries/china/lore/henan/henan_lore.md` — henan lore
+- `docs/drive_index/docs/data_on_countries/countries/china/lore/hubei/hubei_lore.md` — hubei lore
+- `docs/drive_index/docs/data_on_countries/countries/china/lore/hunan/hunan_lore.md` — hunan lore
+- `docs/drive_index/docs/data_on_countries/countries/china/lore/jiangsu/jiangsu_lore.md` — jiangsu lore
+- `docs/drive_index/docs/data_on_countries/countries/china/lore/jiangxi/jiangxi_lore.md` — jiangxi lore
+- `docs/drive_index/docs/data_on_countries/countries/china/lore/jilin/jilin_lore.md` — jilin lore
+- `docs/drive_index/docs/data_on_countries/countries/china/lore/liaoning/liaoning_lore.md` — liaoning lore
+- `docs/drive_index/docs/data_on_countries/countries/china/lore/qinghai/qinghai_lore.md` — qinghai lore
+- `docs/drive_index/docs/data_on_countries/countries/china/lore/shaanxi/shaanxi_lore.md` — shaanxi lore
+- `docs/drive_index/docs/data_on_countries/countries/china/lore/shandong/shandong_lore.md` — shandong lore
+- `docs/drive_index/docs/data_on_countries/countries/china/lore/shanxi/shanxi_lore.md` — shanxi lore
+- `docs/drive_index/docs/data_on_countries/countries/china/lore/sichuan/sichuan_lore.md` — sichuan lore
+- `docs/drive_index/docs/data_on_countries/countries/china/lore/yunnan/yunnan_lore.md` — yunnan lore
+- `docs/drive_index/docs/data_on_countries/countries/china/lore/zhejiang/zhejiang_lore.md` — zhejiang lore
+- `docs/drive_index/docs/data_on_countries/countries/colombia/lore/colombian_lore.md` — colombian lore
+- `docs/drive_index/docs/data_on_countries/countries/comoros/lore/comoros_lore.md` — comoros lore
+- `docs/drive_index/docs/data_on_countries/countries/congo_congo_brazzaville/lore/congo_brazzaville_lore.md` — congo brazzaville lore
+- `docs/drive_index/docs/data_on_countries/countries/costa_rica/lore/costa_rican_lore.md` — costa rican lore
+- `docs/drive_index/docs/data_on_countries/countries/croatia/lore/croatian_lore.md` — croatian lore
+- `docs/drive_index/docs/data_on_countries/countries/cuba/lore/cuban_lore.md` — cuban lore
+- `docs/drive_index/docs/data_on_countries/countries/cyprus/lore/cyprus_lore.md` — cyprus lore
+- `docs/drive_index/docs/data_on_countries/countries/czechia_czech_republic/lore/czechia_lore.md` — czechia lore
+- `docs/drive_index/docs/data_on_countries/countries/democratic_republic_of_the_congo/lore/democratic_republic_of_the_congo_lore.md` — democratic republic of the congo lore
+- `docs/drive_index/docs/data_on_countries/countries/denmark/lore/denmark_lore.md` — denmark lore
+- `docs/drive_index/docs/data_on_countries/countries/djibouti/lore/djibouti_lore.md` — djibouti lore
+- `docs/drive_index/docs/data_on_countries/countries/dominica/lore/dominica_lore.md` — dominica lore
+- `docs/drive_index/docs/data_on_countries/countries/dominican_republic/lore/dominican_republic_lore.md` — dominican republic lore
+- `docs/drive_index/docs/data_on_countries/countries/easter_island/lore/easter_island_lore.md` — easter island lore
+- `docs/drive_index/docs/data_on_countries/countries/ecuador/lore/ecuador_lore.md` — ecuador lore
+- `docs/drive_index/docs/data_on_countries/countries/egypt/lore/egyptian_lore.md` — egyptian lore
+- `docs/drive_index/docs/data_on_countries/countries/el_salvador/lore/el_salvador_lore.md` — el salvador lore
+- `docs/drive_index/docs/data_on_countries/countries/england/lore/england_lore.md` — england lore
+- `docs/drive_index/docs/data_on_countries/countries/equatorial_guinea/lore/equatorial_guinea.md` — equatorial guinea
+- `docs/drive_index/docs/data_on_countries/countries/eritrea/lore/eritrea_lore.md` — eritrea lore
+- `docs/drive_index/docs/data_on_countries/countries/estonia/lore/estonia_lore.md` — estonia lore
+- `docs/drive_index/docs/data_on_countries/countries/eswatini/lore/eswatini_lore.md` — eswatini lore
+- `docs/drive_index/docs/data_on_countries/countries/ethiopia/lore/ethiopian_lore.md` — ethiopian lore
+- `docs/drive_index/docs/data_on_countries/countries/fiji/lore/fiji_lore.md` — fiji lore
+- `docs/drive_index/docs/data_on_countries/countries/finland/lore/finland_lore.md` — finland lore
+- `docs/drive_index/docs/data_on_countries/countries/france/lore/france_lore.md` — france lore
+- `docs/drive_index/docs/data_on_countries/countries/gabon/lore/gabon_lore.md` — gabon lore
+- `docs/drive_index/docs/data_on_countries/countries/gambia/lore/gambia_lore.md` — gambia lore
+- `docs/drive_index/docs/data_on_countries/countries/georgia/lore/georgia_lore.md` — georgia lore
+- `docs/drive_index/docs/data_on_countries/countries/germany/lore/german_lore.md` — german lore
+- `docs/drive_index/docs/data_on_countries/countries/ghana/lore/ghana_lore.md` — ghana lore
+- `docs/drive_index/docs/data_on_countries/countries/greece/lore/greek_lore.md` — greek lore
+- `docs/drive_index/docs/data_on_countries/countries/greenland/lore/greenland_lore.md` — greenland lore
+- `docs/drive_index/docs/data_on_countries/countries/grenada/lore/grenada_lore.md` — grenada lore
+- `docs/drive_index/docs/data_on_countries/countries/guatemala/lore/guatemalan_lore.md` — guatemalan lore
+- `docs/drive_index/docs/data_on_countries/countries/guinea/lore/guinea_lore.md` — guinea lore
+- `docs/drive_index/docs/data_on_countries/countries/guinea_bissau/lore/guinea_bissau_lore.md` — guinea bissau lore
+- `docs/drive_index/docs/data_on_countries/countries/guyana/lore/guyana_lore.md` — guyana lore
+- `docs/drive_index/docs/data_on_countries/countries/haiti/lore/haitian_lore.md` — haitian lore
+- `docs/drive_index/docs/data_on_countries/countries/holy_see/lore/holy_see_lore.md` — holy see lore
+- `docs/drive_index/docs/data_on_countries/countries/honduras/lore/honduras_lore.md` — honduras lore
+- `docs/drive_index/docs/data_on_countries/countries/hungary/lore/hungarian_lore.md` — hungarian lore
+- `docs/drive_index/docs/data_on_countries/countries/iceland/lore/iceland_lore.md` — iceland lore
+- `docs/drive_index/docs/data_on_countries/countries/india/lore/india_lore.md` — india lore
+- `docs/drive_index/docs/data_on_countries/countries/indonesia/lore/indonesia_lore.md` — indonesia lore
+- `docs/drive_index/docs/data_on_countries/countries/iran/lore/iranian_lore.md` — iranian lore
+- `docs/drive_index/docs/data_on_countries/countries/iraq/lore/iraq_lore.md` — iraq lore
+- `docs/drive_index/docs/data_on_countries/countries/ireland/lore/ireland_lore.md` — ireland lore
+- `docs/drive_index/docs/data_on_countries/countries/isle_of_man/lore/isle_of_man_lore.md` — isle of man lore
+- `docs/drive_index/docs/data_on_countries/countries/israel/lore/israel_lore.md` — israel lore
+- `docs/drive_index/docs/data_on_countries/countries/italy/lore/italian_lore.md` — italian lore
+- `docs/drive_index/docs/data_on_countries/countries/ivory_coast/lore/ivory_coast_lore.md` — ivory coast lore
+- `docs/drive_index/docs/data_on_countries/countries/jamaica/lore/jamaican_lore.md` — jamaican lore
+- `docs/drive_index/docs/data_on_countries/countries/japan/lore/japan_lore.md` — japan lore
+- `docs/drive_index/docs/data_on_countries/countries/jordan/lore/jordan_lore.md` — jordan lore
+- `docs/drive_index/docs/data_on_countries/countries/kazakhstan/lore/kazakhstan_lore.md` — kazakhstan lore
+- `docs/drive_index/docs/data_on_countries/countries/kenya/lore/kenya_lore.md` — kenya lore
+- `docs/drive_index/docs/data_on_countries/countries/kiribati/lore/kiribati_lore.md` — kiribati lore
+- `docs/drive_index/docs/data_on_countries/countries/kuwait/lore/kuwait_lore.md` — kuwait lore
+- `docs/drive_index/docs/data_on_countries/countries/kyrgyzstan/lore/kyrgyzstan_lore.md` — kyrgyzstan lore
+- `docs/drive_index/docs/data_on_countries/countries/laos/lore/laos_lore.md` — laos lore
+- `docs/drive_index/docs/data_on_countries/countries/latvia/lore/latvian_lore.md` — latvian lore
+- `docs/drive_index/docs/data_on_countries/countries/lebanon/lore/lebanese_lore.md` — lebanese lore
+- `docs/drive_index/docs/data_on_countries/countries/lesotho/lore/lesotho_lore.md` — lesotho lore
+- `docs/drive_index/docs/data_on_countries/countries/liberia/lore/liberia_lore.md` — liberia lore
+- `docs/drive_index/docs/data_on_countries/countries/libya/lore/libya_lore.md` — libya lore
+- `docs/drive_index/docs/data_on_countries/countries/liechtenstein/lore/liechtenstein_lore.md` — liechtenstein lore
+- `docs/drive_index/docs/data_on_countries/countries/lithuania/lore/lithuanian_lore.md` — lithuanian lore
+- `docs/drive_index/docs/data_on_countries/countries/luxembourg/lore/luxembourg_lore.md` — luxembourg lore
+- `docs/drive_index/docs/data_on_countries/countries/madagascar/lore/madagascar_lore.md` — madagascar lore
+- `docs/drive_index/docs/data_on_countries/countries/malawi/lore/malawi_lore.md` — malawi lore
+- `docs/drive_index/docs/data_on_countries/countries/malaysia/lore/malaysia_lore.md` — malaysia lore
+- `docs/drive_index/docs/data_on_countries/countries/maldives/lore/maldives_lore.md` — maldives lore
+- `docs/drive_index/docs/data_on_countries/countries/mali/lore/mali_lore.md` — mali lore
+- `docs/drive_index/docs/data_on_countries/countries/malta/lore/malta_lore.md` — malta lore
+- `docs/drive_index/docs/data_on_countries/countries/marshall_islands/lore/marshall_islands_lore.md` — marshall islands lore
+- `docs/drive_index/docs/data_on_countries/countries/mauritania/lore/mauritania_lore.md` — mauritania lore
+- `docs/drive_index/docs/data_on_countries/countries/mauritius/lore/mauritius_lore.md` — mauritius lore
+- `docs/drive_index/docs/data_on_countries/countries/mexico/lore/mexican_lore.md` — mexican lore
+- `docs/drive_index/docs/data_on_countries/countries/micronesia/lore/micronesia_lore.md` — micronesia lore
+- `docs/drive_index/docs/data_on_countries/countries/moldova/lore/moldova_lore.md` — moldova lore
+- `docs/drive_index/docs/data_on_countries/countries/monaco/lore/monaco_lore.md` — monaco lore
+- `docs/drive_index/docs/data_on_countries/countries/mongolia/lore/mongolia_lore.md` — mongolia lore
+- `docs/drive_index/docs/data_on_countries/countries/montenegro/lore/montenegro_lore.md` — montenegro lore
+- `docs/drive_index/docs/data_on_countries/countries/morocco/lore/morocco_lore.md` — morocco lore
+- `docs/drive_index/docs/data_on_countries/countries/mozambique/lore/mozambique_lore.md` — mozambique lore
+- `docs/drive_index/docs/data_on_countries/countries/myanmar/lore/myanmar_lore.md` — myanmar lore
+- `docs/drive_index/docs/data_on_countries/countries/namibia/lore/namibia_lore.md` — namibia lore
+- `docs/drive_index/docs/data_on_countries/countries/nauru/lore/nauru_lore.md` — nauru lore
+- `docs/drive_index/docs/data_on_countries/countries/nepal/lore/nepal_lore.md` — nepal lore
+- `docs/drive_index/docs/data_on_countries/countries/netherlands/lore/netherlands_lore.md` — netherlands lore
+- `docs/drive_index/docs/data_on_countries/countries/new_zealand/lore/new_zealand_lore.md` — new zealand lore
+- `docs/drive_index/docs/data_on_countries/countries/nicaragua/lore/nicaraguan_lore.md` — nicaraguan lore
+- `docs/drive_index/docs/data_on_countries/countries/niger/lore/niger_lore.md` — niger lore
+- `docs/drive_index/docs/data_on_countries/countries/nigeria/lore/nigerian_lore.md` — nigerian lore
+- `docs/drive_index/docs/data_on_countries/countries/north_korea/lore/north_korea_lore.md` — north korea lore
+- `docs/drive_index/docs/data_on_countries/countries/north_macedonia/lore/north_macedonia_lore.md` — north macedonia lore
+- `docs/drive_index/docs/data_on_countries/countries/norway/lore/norwegian_lore.md` — norwegian lore
+- `docs/drive_index/docs/data_on_countries/countries/oman/lore/oman_lore.md` — oman lore
+- `docs/drive_index/docs/data_on_countries/countries/pakistan/lore/pakistan_lore.md` — pakistan lore
+- `docs/drive_index/docs/data_on_countries/countries/palau/lore/palau_lore.md` — palau lore
+- `docs/drive_index/docs/data_on_countries/countries/palestine_state/lore/palestine_state_lore.md` — palestine state lore
+- `docs/drive_index/docs/data_on_countries/countries/panama/lore/panama_lore.md` — panama lore
+- `docs/drive_index/docs/data_on_countries/countries/papua_new_guinea/lore/papua_new_guinea_lore.md` — papua new guinea lore
+- `docs/drive_index/docs/data_on_countries/countries/paraguay/lore/paraguay_lore.md` — paraguay lore
+- `docs/drive_index/docs/data_on_countries/countries/peru/lore/peru_lore.md` — peru lore
+- `docs/drive_index/docs/data_on_countries/countries/philippines/lore/philippines_lore.md` — philippines lore
+- `docs/drive_index/docs/data_on_countries/countries/poland/lore/polish_lore.md` — polish lore
+- `docs/drive_index/docs/data_on_countries/countries/portugal/lore/portugal_lore.md` — portugal lore
+- `docs/drive_index/docs/data_on_countries/countries/qatar/lore/qatar_lore.md` — qatar lore
+- `docs/drive_index/docs/data_on_countries/countries/romania/lore/romanian_lore.md` — romanian lore
+- `docs/drive_index/docs/data_on_countries/countries/russia/lore/russia_lore.md` — russia lore
+- `docs/drive_index/docs/data_on_countries/countries/rwanda/lore/rwanda_lore.md` — rwanda lore
+- `docs/drive_index/docs/data_on_countries/countries/saint_kitts_and_nevis/lore/saint_kitts_and_nevis_lore.md` — saint kitts and nevis lore
+- `docs/drive_index/docs/data_on_countries/countries/saint_lucia/lore/saint_lucia_lore.md` — saint lucia lore
+- `docs/drive_index/docs/data_on_countries/countries/saint_vincent_and_the_grenadines/lore/saint_vincent_and_the_grenadines_lore.md` — saint vincent and the grenadines lore
+- `docs/drive_index/docs/data_on_countries/countries/samoa/lore/samoa_lore.md` — samoa lore
+- `docs/drive_index/docs/data_on_countries/countries/san_marino/lore/san_marino_lore.md` — san marino lore
+- `docs/drive_index/docs/data_on_countries/countries/sao_tome_and_principe/lore/sao_tome_and_principe_lore.md` — sao tome and principe lore
+- `docs/drive_index/docs/data_on_countries/countries/saudi_arabia/lore/saudi_arabian_lore.md` — saudi arabian lore
+- `docs/drive_index/docs/data_on_countries/countries/scotland/lore/scottish_lore.md` — scottish lore
+- `docs/drive_index/docs/data_on_countries/countries/senegal/lore/senegal_lore.md` — senegal lore
+- `docs/drive_index/docs/data_on_countries/countries/serbia/lore/serbia_lore.md` — serbia lore
+- `docs/drive_index/docs/data_on_countries/countries/seychelles/lore/seychelles_lore.md` — seychelles lore
+- `docs/drive_index/docs/data_on_countries/countries/siberia/lore/siberian_lore.md` — siberian lore
+- `docs/drive_index/docs/data_on_countries/countries/sicily/lore/sicilian_lore.md` — sicilian lore
+- `docs/drive_index/docs/data_on_countries/countries/sierra_leone/lore/sierra_leone_lore.md` — sierra leone lore
+- `docs/drive_index/docs/data_on_countries/countries/singapore/lore/singapore_lore.md` — singapore lore
+- `docs/drive_index/docs/data_on_countries/countries/slovakia/lore/slovakia_lore.md` — slovakia lore
+- `docs/drive_index/docs/data_on_countries/countries/slovenia/lore/slovenia_lore.md` — slovenia lore
+- `docs/drive_index/docs/data_on_countries/countries/solomon_islands/lore/solomon_islands_lore.md` — solomon islands lore
+- `docs/drive_index/docs/data_on_countries/countries/somalia/lore/somalia_lore.md` — somalia lore
+- `docs/drive_index/docs/data_on_countries/countries/south_africa/lore/south_africa_lore.md` — south africa lore
+- `docs/drive_index/docs/data_on_countries/countries/south_korea/lore/south_korea_lore.md` — south korea lore
+- `docs/drive_index/docs/data_on_countries/countries/south_sudan/lore/south_sudan_lore.md` — south sudan lore
+- `docs/drive_index/docs/data_on_countries/countries/spain/lore/spain_lore.md` — spain lore
+- `docs/drive_index/docs/data_on_countries/countries/sri_lanka/lore/sri_lanka_lore.md` — sri lanka lore
+- `docs/drive_index/docs/data_on_countries/countries/sudan/lore/sudan_lore/sudan_lore.md` — sudan lore
+- `docs/drive_index/docs/data_on_countries/countries/suriname/lore/suriname_lore.md` — suriname lore
+- `docs/drive_index/docs/data_on_countries/countries/sweden/lore/sweden_lore.md` — sweden lore
+- `docs/drive_index/docs/data_on_countries/countries/switzerland/lore/switzerland_lore.md` — switzerland lore
+- `docs/drive_index/docs/data_on_countries/countries/syria/lore/syria_lore.md` — syria lore
+- `docs/drive_index/docs/data_on_countries/countries/tajikistan/lore/tajikistan.md` — tajikistan
+- `docs/drive_index/docs/data_on_countries/countries/tanzania/lore/tanzania_lore.md` — tanzania lore
+- `docs/drive_index/docs/data_on_countries/countries/thailand/lore/thailand_lore.md` — thailand lore
+- `docs/drive_index/docs/data_on_countries/countries/timor_leste/lore/timor_leste_lore.md` — timor leste lore
+- `docs/drive_index/docs/data_on_countries/countries/togo/lore/togo_lore.md` — togo lore
+- `docs/drive_index/docs/data_on_countries/countries/tonga/lore/tonga_lore.md` — tonga lore
+- `docs/drive_index/docs/data_on_countries/countries/turkmenistan/lore/turkmenistan_lore.md` — turkmenistan lore
+- `docs/drive_index/docs/data_on_countries/countries/tuvalu/lore/tuvalu_lore.md` — tuvalu lore
+- `docs/drive_index/docs/data_on_countries/countries/uganda/lore/uganda_lore.md` — uganda lore
+- `docs/drive_index/docs/data_on_countries/countries/ukraine/lore/ukraine_lore.md` — ukraine lore
+- `docs/drive_index/docs/data_on_countries/countries/united_arab_emirates/lore/united_arab_emirates_lore.md` — united arab emirates lore
+- `docs/drive_index/docs/data_on_countries/countries/united_kingdom/lore/uk_lore.md` — uk lore
+- `docs/drive_index/docs/data_on_countries/countries/united_states/alabama/folklore/alabama_lore.md` — alabama lore
+- `docs/drive_index/docs/data_on_countries/countries/united_states/alaska/alaska_lore.md` — alaska lore
+- `docs/drive_index/docs/data_on_countries/countries/united_states/arizona/arizona_lore/arizona_lore.md` — arizona lore
+- `docs/drive_index/docs/data_on_countries/countries/united_states/arkansas/arkansas_lore/arkansas_lore.md` — arkansas lore
+- `docs/drive_index/docs/data_on_countries/countries/united_states/california/crystals_portal/california_lore.md` — california lore
+- `docs/drive_index/docs/data_on_countries/countries/united_states/colorado/colorado_lore/colorado_lore.md` — colorado lore
+- `docs/drive_index/docs/data_on_countries/countries/united_states/connecticut/connecticut_lore/connecticut_lore.md` — connecticut lore
+- `docs/drive_index/docs/data_on_countries/countries/united_states/florida/florida_lore/florida_lore.md` — florida lore
+- `docs/drive_index/docs/data_on_countries/countries/united_states/georgia/georgia_lore/georgia_lore.md` — georgia lore
+- `docs/drive_index/docs/data_on_countries/countries/united_states/hawaii/hawaii_lore/hawaii_lore.md` — hawaii lore
+- `docs/drive_index/docs/data_on_countries/countries/united_states/idaho/idaho_lore/idaho_lore.md` — idaho lore
+- `docs/drive_index/docs/data_on_countries/countries/united_states/illinois/illinois_lore/illinois_lore.md` — illinois lore
+- `docs/drive_index/docs/data_on_countries/countries/united_states/indiana/indiana_lore/indiana_lore.md` — indiana lore
+- `docs/drive_index/docs/data_on_countries/countries/united_states/iowa/iowa_lore/iowa_lore.md` — iowa lore
+- `docs/drive_index/docs/data_on_countries/countries/united_states/kansas/kansas_lore/kansas_lore.md` — kansas lore
+- `docs/drive_index/docs/data_on_countries/countries/united_states/kentucky/kentucky_lore/kentucky_lore.md` — kentucky lore
+- `docs/drive_index/docs/data_on_countries/countries/united_states/louisiana_opal_bog_witch/louisiana_lore/louisiana_lore.md` — louisiana lore
+- `docs/drive_index/docs/data_on_countries/countries/united_states/maine_ghosts/folklore/maine_folklore.md` — maine folklore
+- `docs/drive_index/docs/data_on_countries/countries/united_states/massachussets/massachussets_lore/massachussets_lore.md` — massachussets lore
+- `docs/drive_index/docs/data_on_countries/countries/united_states/michigan/michigan_lore/michigan_lore.md` — michigan lore
+- `docs/drive_index/docs/data_on_countries/countries/united_states/minnesota/minnesota_lore/minnesota_lore.md` — minnesota lore
+- `docs/drive_index/docs/data_on_countries/countries/united_states/mississippi/mississippi_lore/mississippi_lore.md` — mississippi lore
+- `docs/drive_index/docs/data_on_countries/countries/united_states/missouri/missouri_lore/missouri_lore.md` — missouri lore
+- `docs/drive_index/docs/data_on_countries/countries/united_states/montana/montana_lore/montana_lore.md` — montana lore
+- `docs/drive_index/docs/data_on_countries/countries/united_states/nebraska/nebraska_lore/nebraska_lore.md` — nebraska lore
+- `docs/drive_index/docs/data_on_countries/countries/united_states/nevada_aliens_ore/nevada_lore/nevada_lore.md` — nevada lore
+- `docs/drive_index/docs/data_on_countries/countries/united_states/new_hampshire/new_hampshire_lore/new_hampshire_lore.md` — new hampshire lore
+- `docs/drive_index/docs/data_on_countries/countries/united_states/new_jersey/new_jersey_lore/new_jersey_lore.md` — new jersey lore
+- `docs/drive_index/docs/data_on_countries/countries/united_states/new_mexico/new_mexico_lore/new_mexico_lore.md` — new mexico lore
+- `docs/drive_index/docs/data_on_countries/countries/united_states/new_york_catacombs/new_york_lore/new_york_lore.md` — new york lore
+- `docs/drive_index/docs/data_on_countries/countries/united_states/north_carolina/north_carolina_lore/north_carolina_lore.md` — north carolina lore
+- `docs/drive_index/docs/data_on_countries/countries/united_states/north_dakota/north_dakota_lore/north_dakota_lore.md` — north dakota lore
+- `docs/drive_index/docs/data_on_countries/countries/united_states/ohio/ohio_lore/ohio_lore.md` — ohio lore
+- `docs/drive_index/docs/data_on_countries/countries/united_states/oklahoma/oklahoma_lore/oklahoma_lore.md` — oklahoma lore
+- `docs/drive_index/docs/data_on_countries/countries/united_states/oregon_wizard_island_pietersite/oregon_lore/oregon_lore.md` — oregon lore
+- `docs/drive_index/docs/data_on_countries/countries/united_states/pennsylvania/pennsylvania_lore/pennsylvania_lore.md` — pennsylvania lore
+- `docs/drive_index/docs/data_on_countries/countries/united_states/rhode_island/rhode_island_lore/rhode_island_lore.md` — rhode island lore
+- `docs/drive_index/docs/data_on_countries/countries/united_states/south_carolina/south_carolina_lore/south_carolina_lore.md` — south carolina lore
+- `docs/drive_index/docs/data_on_countries/countries/united_states/south_dakota/south_dakota_lore/south_dakota_lore.md` — south dakota lore
+- `docs/drive_index/docs/data_on_countries/countries/united_states/tennessee/tennessee_lore/tennessee_lore.md` — tennessee lore
+- `docs/drive_index/docs/data_on_countries/countries/united_states/texas/texas_lore/texas_lore.md` — texas lore
+- `docs/drive_index/docs/data_on_countries/countries/united_states/utah/utah_lore/utah_lore.md` — utah lore
+- `docs/drive_index/docs/data_on_countries/countries/united_states/vermont/vermont_lore/vermont_lore.md` — vermont lore
+- `docs/drive_index/docs/data_on_countries/countries/united_states/washington_state/washington_lore/washington_lore.md` — washington lore
+- `docs/drive_index/docs/data_on_countries/countries/united_states/west_virginia/west_virginia_lore/west_virginia_lore.md` — west virginia lore
+- `docs/drive_index/docs/data_on_countries/countries/united_states/wisconsin/wisconsin_lore/wisconsin_lore.md` — wisconsin lore
+- `docs/drive_index/docs/data_on_countries/countries/united_states/wyoming_yellowstone/wyoming_lore/wyoming_lore.md` — wyoming lore
+- `docs/drive_index/docs/data_on_countries/countries/uruguay/lore/uruguay_lore.md` — uruguay lore
+- `docs/drive_index/docs/data_on_countries/countries/uzbekistan/lore/uzbekistan_lore.md` — uzbekistan lore
+- `docs/drive_index/docs/data_on_countries/countries/vanuatu/lore/vanuatu_lore.md` — vanuatu lore
+- `docs/drive_index/docs/data_on_countries/countries/venezuela/lore/venezualan_lore.md` — venezualan lore
+- `docs/drive_index/docs/data_on_countries/countries/vietnam/lore/vietnamese_lore.md` — vietnamese lore
+- `docs/drive_index/docs/data_on_countries/countries/wales/lore/welsh_lore.md` — welsh lore
+- `docs/drive_index/docs/data_on_countries/countries/yemen/lore/yemen_lore.md` — yemen lore
+- `docs/drive_index/docs/data_on_countries/countries/yugoslavia/lore/yugoslavia_lore.md` — yugoslavia lore
+- `docs/drive_index/docs/data_on_countries/countries/zambia/lore/zambia_lore.md` — zambia lore
+- `docs/drive_index/docs/data_on_countries/countries/zimbabwe/lore/zimbabwe_lore.md` — zimbabwe lore
+- `docs/drive_index/docs/first_batch_of_game_data/acrobat_files/builder_character_image_map.md` — Builder Message: Character Image Pairing Map
+- `docs/drive_index/docs/first_batch_of_game_data/acrobat_files/geode_inn_adam_wardrobe.md` — ADAM — The Complete Wardrobe
+- `docs/drive_index/docs/first_batch_of_game_data/acrobat_files/geode_inn_card_batch_4.md` — THE GEODE INN — CARD GAME: BATCH 4
+- `docs/drive_index/docs/first_batch_of_game_data/acrobat_files/geode_inn_catacombs_item_templates.md` — Geode Inn — Interactive Item Templates: Catacombs Zone
+- `docs/drive_index/docs/first_batch_of_game_data/acrobat_files/geode_inn_dm_walkthrough.md` — THE GEODE INN
+- `docs/drive_index/docs/first_batch_of_game_data/acrobat_files/geode_inn_level1_cosmology_complete.md` — Geode Inn — Level 1: COSMOLOGY
+- `docs/drive_index/docs/first_batch_of_game_data/acrobat_files/geode_inn_level4_campgrounds_complete.md` — Geode Inn — Level 4: CAMPGROUNDS
+- `docs/drive_index/docs/first_batch_of_game_data/acrobat_files/geode_inn_level6_catacombs_complete.md` — Geode Inn — Level 6: CATACOMBS
+- `docs/drive_index/docs/first_batch_of_game_data/acrobat_files/geode_inn_level8_water_zone_complete.md` — Geode Inn — Level 8: WATER ZONE
+- `docs/drive_index/docs/first_batch_of_game_data/acrobat_files/geode_inn_master_level_system.md` — Geode Inn — Master Level System
+- `docs/drive_index/docs/first_batch_of_game_data/acrobat_files/geode_inn_name_audit.md` — THE GEODE INN — NAME AUDIT
+- `docs/drive_index/docs/first_batch_of_game_data/acrobat_files/geode_inn_narrative_integration.md` — THE GEODE INN — NARRATIVE INTEGRATION DOCUMENT
+- `docs/drive_index/docs/first_batch_of_game_data/acrobat_files/geode_inn_npc_adam.md` — ADAM — The Chameleon / The Dollkeeper
+- `docs/drive_index/docs/first_batch_of_game_data/acrobat_files/geode_inn_npc_adam_1.md` — ADAM — The Chameleon / The Dollkeeper
+- `docs/drive_index/docs/first_batch_of_game_data/acrobat_files/geode_inn_npc_anna.md` — ANNA — The Seer / The Doodler
+- `docs/drive_index/docs/first_batch_of_game_data/acrobat_files/geode_inn_npc_jay.md` — JAY — The Huntsman / The Tavern Keeper
+- `docs/drive_index/docs/first_batch_of_game_data/acrobat_files/geode_inn_session_log_2026_08_26_andra_zee_charles_spirit_so.md` — Geode Inn — Session Log
+- `docs/drive_index/docs/first_batch_of_game_data/acrobat_files/geode_inn_shoulder_companions_deep_storyline.md` — Geode Inn — The Two Shoulder Companions: Deep Storyline
+- `docs/drive_index/docs/first_batch_of_game_data/acrobat_files/geode_inn_staircase_origin_storyline.md` — THE STAIRCASE ORIGIN — The Children of Volatility
+- `docs/drive_index/docs/first_batch_of_game_data/acrobat_files/geode_inn_the_egg_ancient_faberge_puzzle_egg.md` — THE GEODE INN — THE EGG
+- `docs/drive_index/docs/first_batch_of_game_data/acrobat_files/geode_inn_tunnel_keeper_hearth_tender_dialogue.md` — Geode Inn — Dialogue Trees: The Tunnel Keeper & The Hearth Tender
+- `docs/drive_index/docs/first_batch_of_game_data/acrobat_files/npc_hook_words.md` — Geode Inn — NPC Hook Word Catalog
+- `docs/drive_index/docs/first_batch_of_game_data/complete_game_image_library_for_concepts/cryptid_tarot_cards/printing_notes.md` — printing notes
+- `docs/drive_index/docs/first_batch_of_game_data/documents/gems_and_precious_stones_by_chemical_group.md` — gems and precious stones by chemical group
+- `docs/drive_index/docs/first_batch_of_game_data/documents/geode_inn_character_compendium_august_2026.md` — THE GEODE INN — CHARACTER COMPENDIUM
+- `docs/drive_index/docs/first_batch_of_game_data/documents/geode_inn_character_development_session_aug_2026.md` — **Geode Inn — Character Development Session (Aug 2026\)**
+- `docs/drive_index/docs/first_batch_of_game_data/documents/manifest.md` — manifest
+- `docs/drive_index/docs/first_batch_of_game_data/documents/storyteller.md` — storyteller
+- `docs/drive_index/docs/first_batch_of_game_data/documents/the_geode_inn.md` — THE GEODE INN � FULL LAYER-BY-LAYER WALKTHROUGH & CONSISTENCY AUDIT
+- `docs/drive_index/docs/first_batch_of_game_data/documents/world_geology_and_its_structure.md` — world geology and its structure
+- `docs/drive_index/docs/first_batch_of_game_data/game_images/uncategorized_images/character_list_for_templates.md` — character list for templates
+- `docs/drive_index/docs/first_batch_of_game_data/md_type_files/animation_master_brief_1.md` — Geode Inn — Master Animation Brief
+- `docs/drive_index/docs/first_batch_of_game_data/md_type_files/components_characters.md` — **Geode Inn — Zone Deck: Components & Characters**
+- `docs/drive_index/docs/first_batch_of_game_data/md_type_files/geode_inn_complete_storyline_final_summary.md` — THE GEODE INN — THE COMPLETE STORYLINE
+- `docs/drive_index/docs/first_batch_of_game_data/md_type_files/geode_inn_full_walkthrough_with_images.md` — THE GEODE INN — FULL LAYER-BY-LAYER WALKTHROUGH & CONSISTENCY AUDIT
+- `docs/drive_index/docs/first_batch_of_game_data/md_type_files/geode_inn_master_structure.md` — THE GEODE INN — MASTER STRUCTURE DOCUMENT
+- `docs/drive_index/docs/first_batch_of_game_data/md_type_files/geode_inn_new_npcs_batch2.md` — GEODE INN — NEW NPC ADDITIONS
+- `docs/drive_index/docs/first_batch_of_game_data/md_type_files/geode_inn_production_reference_sheet.md` — GEODE INN — PRODUCTION REFERENCE SHEET
+- `docs/drive_index/docs/first_batch_of_game_data/md_type_files/geode_inn_session_checkpoint_aug26_evening.md` — Geode Inn — Session Checkpoint
+- `docs/drive_index/docs/first_batch_of_game_data/md_type_files/geode_inn_session_summary_aug_24_late.md` — GEODE INN — SESSION SUMMARY
+- `docs/drive_index/docs/first_batch_of_game_data/md_type_files/storyline_original_text.md` — storyline original text
+- `docs/drive_index/docs/first_batch_of_game_data/zones/0101_01_the_egg/the_egg_2_2.md` — THE CONCEPT
+- `docs/drive_index/docs/first_batch_of_game_data/zones/01_cosmology/the_moon.md` — Visual Language
+- `docs/drive_index/docs/first_batch_of_game_data/zones/02_upstairs/copy_of_upstairs.md` — copy of upstairs
+- `docs/drive_index/docs/first_batch_of_game_data/zones/03_main_floor/the_main_floor.md` — THE HEARTH TENDER
+- `docs/drive_index/documents.md` — Documents
+- `docs/drive_index/images.md` — Image folders
+- `docs/drive_index/map.md` — Folder map
+- `docs/drive_index/zones/README.md` — Zones
+- `docs/drive_index/zones/alchemical_staircase.md` — Alchemical Staircase
+- `docs/drive_index/zones/bayou.md` — Bayou
+- `docs/drive_index/zones/camelot.md` — Camelot
+- `docs/drive_index/zones/campgrounds.md` — 03.2 Campgrounds
+- `docs/drive_index/zones/catacombs.md` — 06 Catacombs
+- `docs/drive_index/zones/cosmology.md` — 01 Cosmology
+- `docs/drive_index/zones/downstairs.md` — 05 Downstairs
+- `docs/drive_index/zones/egypt.md` — Egypt
+- `docs/drive_index/zones/fae_kingdom.md` — 07 Fae Kingdom
+- `docs/drive_index/zones/geode_inn_entrance.md` — Geode Inn Entrance
+- `docs/drive_index/zones/grand_canyon.md` — Grand Canyon
+- `docs/drive_index/zones/heart_of_the_inn.md` — Heart of the Inn
+- `docs/drive_index/zones/introduction.md` — Introduction
+- `docs/drive_index/zones/lighthouse.md` — Lighthouse
+- `docs/drive_index/zones/main_floor.md` — 03 Main Floor
+- `docs/drive_index/zones/malachis_labyrinth.md` — Malachi's Labyrinth
+- `docs/drive_index/zones/medusas_garden.md` — Medusa's Garden
+- `docs/drive_index/zones/mesopotamia.md` — Mesopotamia
+- `docs/drive_index/zones/miskatonic_annex.md` — Miskatonic Annex
+- `docs/drive_index/zones/peruvian_steps.md` — Peruvian Steps
+- `docs/drive_index/zones/petrified_forest.md` — Petrified Forest
+- `docs/drive_index/zones/poison_garden.md` — Poison Garden
+- `docs/drive_index/zones/redwood_canopy.md` — Redwood Canopy
+- `docs/drive_index/zones/spiral_gallery.md` — 10 Spiral Gallery
+- `docs/drive_index/zones/staircase.md` — 04 Staircase
+- `docs/drive_index/zones/superstition_mountains.md` — Superstition Mountains
+- `docs/drive_index/zones/terra_cotta_army.md` — Terra Cotta Army
+- `docs/drive_index/zones/the_cave_system.md` — The Cave System
+- `docs/drive_index/zones/the_egg.md` — 0101.01  The Egg
+- `docs/drive_index/zones/the_garden.md` — The Garden
+- `docs/drive_index/zones/the_hearth.md` — The Hearth
+- `docs/drive_index/zones/the_in_between.md` — The In-Between
+- `docs/drive_index/zones/thorins_meadery.md` — Thorin's Meadery
+- `docs/drive_index/zones/transylvanian_mountains.md` — Transylvanian Mountains
+- `docs/drive_index/zones/undercity.md` — 09 Undercity
+- `docs/drive_index/zones/upstairs.md` — 02 Upstairs
+- `docs/drive_index/zones/water_zone.md` — 08 Water Zone
+- `docs/drive_index/zones/yellowstone.md` — Yellowstone
+
+## docs/emblems (1 files)
+
+- `docs/emblems/geode_inn_crest_spec.md` — Geode Inn — The Inn's Crest
+
+## docs/gallery/gazette (15 files)
+
+- `docs/gallery/gazette/strip_001_postmasters_route/script.md` — The Postmaster’s Route
+- `docs/gallery/gazette/strip_003_the_spine_and_the_jellyfish/script.md` — The Spine and the Jellyfish
+- `docs/gallery/gazette/strip_004_the_hound_who_stayed/script.md` — Gazette Strip #004 — "The Hound Who Stayed"
+- `docs/gallery/gazette/strip_004_three_mouths_one_braid/script.md` — Gazette Strip #004 — "Three Mouths, One Braid"
+- `docs/gallery/gazette/strip_008_molly_and_the_bill/script.md` — Geode Inn Gazette — Strip #004
+- `docs/gallery/gazette/strip_009_what_the_traveler_carried/script.md` — Geode Inn Gazette — Strip #009
+- `docs/gallery/gazette/strip_010_the_easel_that_faces_the_wall/script.md` — Geode Inn Gazette — Strip #010
+- `docs/gallery/gazette/strip_011_three_skins/strip_011_script.md` — Strip #011 — "Three Skins"
+- `docs/gallery/gazette/strip_012_the_throat_of_the_building/strip_012_script.md` — The Geode Inn Gazette — Strip #012: "The Throat of the Building"
+- `docs/gallery/gazette/strip_013_the_silence_is_the_road/strip_013_script.md` — The Geode Inn Gazette — Strip #013: "The Silence Is the Road"
+- `docs/gallery/gazette/strip_014_the_city_where_nothing_bites/strip_014_script.md` — The Geode Inn Gazette — Strip #014: "The City Where Nothing Bites"
+- `docs/gallery/gazette/strip_016_the_word_in_the_flask/strip_016_script.md` — The Geode Inn Gazette — Strip #016: "The Word in the Flask"
+- `docs/gallery/gazette/strip_017_the_building_has_ears/script.md` — The Geode Inn Gazette — Strip #017: "The Building Has Ears"
+- `docs/gallery/gazette/strip_020_every_door_but_one/script.md` — Strip #020 — "Every Door But One"
+- `docs/gallery/gazette/strip_021_what_the_margin_kept/script.md` — The Geode Inn Gazette — Strip #021: "What the Margin Kept"
+
+## docs/gallery/reference (6 files)
+
+- `docs/gallery/reference/geode_inn_reference_hidden_materials_dossier.md` — Geode Inn Reference Codex: The Hidden Materials Dossier — Overlooked & Highly Utilized Materials
+- `docs/gallery/reference/geode_inn_reference_murals.md` — Geode Inn Public-Domain Murals, Cave-Art, and Fresco Reference Library
+- `docs/gallery/reference/geode_inn_reference_pottery_firing.md` — Geode Inn Reference Codex: Pottery Firing Techniques Across Cultures & Eras
+- `docs/gallery/reference/geode_inn_reference_progression.md` — The Progress of a Society — Spiral Gallery Reference Progression
+- `docs/gallery/reference/geode_inn_reference_salt_dossier.md` — Geode Inn Reference Codex: Salt's Full Dossier — The Canonical Cross-Craft Material
+- `docs/gallery/reference/geode_inn_reference_sculptures.md` — Geode Inn — Public-Domain Sculpture & Unique Artifact Reference Library
+
+## docs/harvest_2026-09-21 (3 files)
+
+- `docs/harvest_2026-09-21/HARVEST_README.md` — THE TROVE HARVEST — 2026-09-21
+- `docs/harvest_2026-09-21/backup_manifest_aug2026.md` — Geode Inn — Backup Manifest: Post-Ravens' Question
+- `docs/harvest_2026-09-21/card_game_batch3_cave_fae_quests.md` — THE GEODE INN — CARD GAME: BATCH 3
+
+## docs/harvest_2026-09-21/raw (2 files)
+
+- `docs/harvest_2026-09-21/raw/backup_manifest_aug2026.md` — Geode Inn — Backup Manifest: Post-Ravens' Question
+- `docs/harvest_2026-09-21/raw/card_game_batch3_cave_fae_quests.md` — THE GEODE INN — CARD GAME: BATCH 3
+
+## docs/manual (9 files)
+
+- `docs/manual/01_process_and_data.md` — Part 1: How the Work Flows, and the Data Dictionary
+- `docs/manual/02_world_and_zones.md` — Part 2: World, Levels and Zones
+- `docs/manual/03_characters_and_critters.md` — Part 3: Characters, NPCs, Voices and Critters
+- `docs/manual/04_stones_crafting_items.md` — Part 4: Stones, Crafting, Items and the Market
+- `docs/manual/05_music_sound_access.md` — Part 5: Music, the Song, Sound and Access
+- `docs/manual/06_quests_story_cards.md` — Part 6: Quests, Story, Cards and Publications
+- `docs/manual/07_arcade_and_art.md` — Part 7: Arcade, Mini-Games, Steam and Art Direction
+- `docs/manual/08_audit.md` — Part 8: The Audit: What Isn't in GitHub, What's Open, What Conflicts
+- `docs/manual/README.md` — The Geode Inn Manual
+
+## gallery/gazette (8 files)
+
+- `gallery/gazette/strip_022_the_booth_that_sold_nothing/script.md` — The Geode Inn Gazette — Strip #022: "The Booth That Sold Nothing"
+- `gallery/gazette/strip_024_the_wall_that_keeps_receipts/script.md` — The Geode Inn Gazette — Strip #024: "The Wall That Keeps Receipts"
+- `gallery/gazette/strip_027_the_minutes_are_available/script.md` — The Geode Inn Gazette — Strip #027: "The Minutes Are Available"
+- `gallery/gazette/strip_028_the_helmets_are_honest/script.md` — The Geode Inn Gazette — Strip #028: "The Helmets Are Honest"
+- `gallery/gazette/strip_030_the_stone_is_the_soup/script.md` — The Geode Inn Gazette — Strip #030: "The Stone Is the Soup"
+- `gallery/gazette/strip_031_the_slot_that_was_always_there/script.md` — The Geode Inn Gazette — Strip #031: "The Slot That Was Always There"
+- `gallery/gazette/strip_032_the_breath_between_the_bars/script.md` — The Geode Inn Gazette — Strip #032: "The Breath Between the Bars"
+- `gallery/gazette/strip_033_the_octopus_that_wasnt_for_sale/script.md` — The Geode Inn Gazette — Strip #033: "The Octopus That Wasn't for Sale"
