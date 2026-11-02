@@ -1,7 +1,9 @@
 # THE GEODE INN — PROJECT BIBLE (v3.0)
-## Last Updated: August 21, 2026
+## Last Updated: September 13, 2026 (the two copies merged into this one file on November 2, 2026)
 
 This is the master reference document for the Geode Inn project. It is updated after each working session. If you're looking for the current state of anything — what's done, what's next, where things live — this is the source of truth.
+
+> **One Bible (November 2, 2026).** The repo held two copies of this file whose names differed only in capital letters: `docs/GEODE_INN_PROJECT_BIBLE.md` (v3.0 of August 21, with the brownie entries of September 11) and `docs/geode_inn_project_bible.md` (the August 11 version, with the Froglodyte term of September 9 and the Spine Law of September 12 to 13). On Windows and on a Mac only one of the two shows up, so a builder could not tell which one they had. Both are merged here and the lower-case name is gone. Edit only this file. From the lower-case copy came the Froglodyte term, the design documents list and the Spine Law; everything else was already in this one.
 
 ---
 
@@ -26,7 +28,7 @@ This is the master reference document for the Geode Inn project. It is updated a
 - [x] Architectural layout finalized (tree structure: upstairs/main floor/staircase/downstairs)
 - [x] Aesthetic direction: warm hobbit-hole, amber/gold/cream tones, living tree (Darnassus-style)
 - [x] Narrative spine integrated (storyline.docx — cosmology, reincarnation, owl bloodline)
-- [x] Community moderation: frog transformation mechanic (3 strikes = suspension)
+- [x] Community moderation: frog transformation mechanic (3 strikes = suspension; a transformed player is officially a **Froglodyte**) — term by Krista, 2026-09-09
 - [x] Music direction: full zone and game mapping (classical instruments through electronica)
 - [x] Character roster: 60 designs complete and cataloged
 - [x] Gargoyle designs: 6 resonant sentinels designed with concept art generated
@@ -66,6 +68,26 @@ This is the master reference document for the Geode Inn project. It is updated a
 6. Package Phase 1 games for Steam Early Access
 7. Continue Base44 app build (tree interior, world map, market)
 8. Research cave fauna for Sơn Đoòng, Movile Cave, Cenotes, Great Blue Hole, Eisriesenwelt
+
+---
+
+## DESIGN DOCUMENTS INDEX
+
+From the August 11 copy. These were the files in Elio's Base44 sandbox then; most are in the repo now, so search `docs/INDEX.md` for the current path.
+
+All documents are stored in the Base44 sandbox and mirrored to Google Drive.
+
+| Document | Description | Drive Link |
+|----------|-------------|------------|
+| Geode Inn - World Building Notes (Aug 2026) | Full 11-section compilation | [View on Drive](https://drive.google.com/file/d/1s9c5Ijn7nSCAlQCc0dW4MY44Yr1lj-s/view?usp=drivesdk) |
+| geode_inn_gargoyle_designs.md | 6 resonant gargoyle sentinels with concept art | (in sandbox) |
+| geode_inn_music_direction.md | Full music/sound direction for all zones and games | (in sandbox) |
+| geode_inn_modern_legends.md | Modern Day Legends shelf entries | (in sandbox) |
+| geode_inn_character_art_catalog.md | 60 character designs with image links | (in sandbox) |
+| geode_inn_game_engine_roadmap.md | Hybrid architecture roadmap (Base44 + Godot + Steam) | (in sandbox) |
+| geode_inn_concept_art_prompts.md | Concept art prompts for all Phase 1 games | (in sandbox) |
+| storyline_text.md | The narrative spine (from storyline.docx) | (in sandbox) |
+| godot_project/SETUP_GUIDE.md | Step-by-step Godot project setup | (in sandbox) |
 
 ---
 
@@ -251,6 +273,10 @@ Authored by Krista. Runs underneath all game mechanics. Influenced unconsciously
 10. **Bias exclusion:** no content carrying racial, religious, or colonial bias; no Berserker publisher material, Thule Society, or hyperborean texts
 11. **Linguistic integrity:** translations route through family trees, not English-centric paths
 
+**8, second principle with this number. THE SPINE LAW** (Krista, 2026-09-12): everything branches from the periodic table — and the design number is a sideways infinity symbol: a finite table (118), an infinite branching (Krista: "that's just poetic") — Oceanianoir's chemistry section is the curricular spine of all material threads (Hidden Materials, firing, instruments, pigments, sprites; spec: geode_inn_oceanianoir_chemistry_sync_spec.md). The chemistry section is where the Inn stops treating matter as scenery: every element, material, pigment, instrument, and stone passes through one bench where the world is read for what it IS — and the reading is always honest, sometimes tender, and never finished.
+
+> **Two principles carry the number 8 (open, needs Krista's ruling).** In this copy #8 has been Epilepsy-safe design since August 21, and the Every-Mind Welcome charter, the quest mark law and the Digital Companion spec cite it as Principle #8 (the Steady Light Law). The Spine Law was ruled as #8 on September 12 in the lower-case copy, which had no principles 8 to 11, and the number is part of that ruling (8 as a sideways infinity); the Silica Thread questline and Gazette strip #003 cite it as #8. Both are kept as #8 until Krista rules which one keeps the number.
+
 ---
 
 ## PENDING FROM KRISTA
@@ -290,7 +316,12 @@ Authored by Krista. Runs underneath all game mechanics. Influenced unconsciously
 | Aug 19 | Open-world MMO architecture established, zone design documents created for all world regions, Living Book system designed, Remembrance Vision system specified, Steam Deck mapping completed, catacomb sites cataloged, quest chains written (Celtic, Greek, Jotunheim), labyrinth puzzles designed, Egypt zone fully designed, research mapping compiled |
 | Aug 20 | Fae Kingdom quest blueprint completed, world map structure finalized, zone designs for all continents (Europe, Americas, Africa/Middle East, Asia/Oceania, North America/Arctic), Council of Thinkers design spec completed, all zone Morphic prompts generated |
 | Aug 21 | 41 zone video clips reviewed and cataloged (all epilepsy-safe), 33 Godot scenes written and pushed to GitHub, language family tree translation system designed, translation database schema created (Book/BookTranslation/ScholarlyBridge), underwater traversal layer designed, 42 easter egg rule established for Owl character, zone video catalog Wave 2 pushed to GitHub, updated Project Bible v3.0 |
+| Sep 9 | Froglodyte named as the official term for a frog-transformed player (Krista) |
+| Sep 10 | The Great Shelving: the root's loose spec files sorted into folders, this Bible moved to `docs/GEODE_INN_PROJECT_BIBLE.md`, `docs/INDEX.md` built |
+| Sep 11 | Brownie roundup and the three-way tie (entry below) |
+| Sep 12 to 13 | The Spine Law ruled as Design Principle #8 (Krista); the number noted as a sideways infinity |
+| Nov 2 | The two copies of this Bible merged into this one file |
 
 ## THE BROWNIES (entry added 2026-09-11, from the Roundup)
-**THE BROWNIES (the fizgigs' true name  the Inn's maintenance crew and most convoluted costars):** three named (Brindle the leader, Cobble the thinker, Thatch the heart) + Grit the very small, very round, very stuck fuzzy creature; the Keeper's uninvited entourage (she walks slowly enough for them; she has never said so). THE CONTRACT IS THE CONSTITUTION (the folklore contract made explicit: the Catalyst's nightly saucer is the terms; the Fae Courts aren't parties; the Host is the beneficiary who respects it). THE BOGGART TRIGGER (break the contract: the vote is unanimous, the List records it, the transition is procedural). THE REVELATION (every wire the brownies run feeds the Owl's network  they don't know; The Pause is the first flicker  whisper Tier 3; the circuit completes when Eres reaches the cosmology level; the coconut shells go silent; then one picks up a wrench, because what else do they know). THE SHADOW CLASS (the 84Hz brownie you can play: aware, skilled, conflicted). Sources worn openly: Willow (1988) + Fizzgig. Full roundup: docs/zone_specs/geode_inn_brownie_roundup.m
-**THE THREE-WAY TIE (ruled 2026-09-11):** the brownies' wiring IS the Silica Thread's culture-strand made physical (every solder point a bead on the Thread; the Dark Side access condition 'Silica Thread traced' is load-bearing on their comedy  the wires built the way in). The Awakening Chain is the dark world's thesis in miniature (unaware  flicker  knowledge  keep working anyway = the Shadow state's whole law). THE COCONUT SHELL SOUND LAW: the polyrhythm IS the work (the clapping is not accompaniment); the shells are the parent-frequency family's smallest child; at 84Hz the war drum; and the deepest beat in the game is the one the shells don't play  the silence when the circuit completes, then the rhythm returns. The game's whole argument in one restart of a rhythm.
+**THE BROWNIES (the fizgigs' true name — the Inn's maintenance crew and most convoluted costars):** three named (Brindle the leader, Cobble the thinker, Thatch the heart) + Grit the very small, very round, very stuck fuzzy creature; the Keeper's uninvited entourage (she walks slowly enough for them; she has never said so). THE CONTRACT IS THE CONSTITUTION (the folklore contract made explicit: the Catalyst's nightly saucer is the terms; the Fae Courts aren't parties; the Host is the beneficiary who respects it). THE BOGGART TRIGGER (break the contract: the vote is unanimous, the List records it, the transition is procedural). THE REVELATION (every wire the brownies run feeds the Owl's network — they don't know; The Pause is the first flicker — whisper Tier 3; the circuit completes when Eres reaches the cosmology level; the coconut shells go silent; then one picks up a wrench, because what else do they know). THE SHADOW CLASS (the 84Hz brownie you can play: aware, skilled, conflicted). Sources worn openly: Willow (1988) + Fizzgig. Full roundup: docs/zone_specs/geode_inn_brownie_roundup.md
+**THE THREE-WAY TIE (ruled 2026-09-11):** the brownies' wiring IS the Silica Thread's culture-strand made physical (every solder point a bead on the Thread; the Dark Side access condition 'Silica Thread traced' is load-bearing on their comedy — the wires built the way in). The Awakening Chain is the dark world's thesis in miniature (unaware → flicker → knowledge → keep working anyway = the Shadow state's whole law). THE COCONUT SHELL SOUND LAW: the polyrhythm IS the work (the clapping is not accompaniment); the shells are the parent-frequency family's smallest child; at 84Hz the war drum; and the deepest beat in the game is the one the shells don't play — the silence when the circuit completes, then the rhythm returns. The game's whole argument in one restart of a rhythm.

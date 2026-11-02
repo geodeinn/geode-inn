@@ -32,9 +32,13 @@ docs/
   geode_inn_gargoyle_designs.md
   geode_inn_character_art_catalog.md
   geode_inn_modern_legends.md
-  geode_inn_project_bible.md
+  GEODE_INN_PROJECT_BIBLE.md
   geode_inn_worldbuilding_notes_aug2026.md
 ```
+
+## Where to start
+
+Builders: [BUILDER_README.md](BUILDER_README.md), then search [docs/INDEX.md](docs/INDEX.md). The rules, templates and open rulings for the whole project are in [docs/manual/](docs/manual/README.md).
 
 ## Setup
 
