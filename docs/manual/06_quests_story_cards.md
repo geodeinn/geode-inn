@@ -327,7 +327,7 @@ The Inn's own Keeper is the master version. Elio mapped 21 of 191 regions and sa
 
 ### 2.1 What it is
 
-Sources of truth: `docs/geode_inn_campaign_narrative.md`, `docs/GEODE_INN_PROJECT_BIBLE.md`, `docs/geode_inn_complete_walkthrough.md`, `docs/zone_specs/geode_inn_endgame_master_spec.md`. The Project Bible holds the Design Principles (for example #8, Spine Law, the periodic table is the curricular spine).
+Sources of truth: `docs/geode_inn_campaign_narrative.md`, `docs/GEODE_INN_PROJECT_BIBLE.md`, `docs/geode_inn_complete_walkthrough.md`, `docs/zone_specs/geode_inn_endgame_master_spec.md`. The Project Bible holds the Design Principles (for example #8, Spine Law, the periodic table is the curricular spine; the Steady Light Law is also numbered 8, see Part 8, 3.4).
 
 ### 2.2 The narrative spine (current canon)
 
@@ -1013,7 +1013,7 @@ Added from the early period (Jul 12 to Aug 30). Details are in 2.10 and 1.8.
 | Royal artifact ledger | `docs/library/specs/geode_inn_the_royal_artifact_ledger.md` |
 | Tabletop | `docs/tabletop/` |
 | Poker Night | `docs/games/geode_inn_stone_poker_poker_night_law.md` |
-| Index of everything | `docs/INDEX.md` (dated Sep 10; later files are not in it) |
+| Index of everything | `docs/INDEX.md` (on main dated Sep 10, so later files are not in it; rebuilt Nov 2 on the `inn-library` branch) |
 | Origin story and Part Six | `docs/zones/geode_inn_origin_story.md`, `docs/zones/geode_inn_origin_story_ch6_conversations.md` |
 | Master Storyline and Nine Realms | `docs/geode_inn_master_storyline.md`, `docs/geode_inn_nine_realms_architecture.md` |
 | The Egg and Song of Making | `docs/geode_inn_the_egg.md`, `docs/geode_inn_song_of_making.md` |

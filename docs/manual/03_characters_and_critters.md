@@ -96,7 +96,7 @@ Columns: Name, role, zone, voice register or casting reference, status. Casting 
 
 | Name | Role | Zone | Voice / casting | Status |
 |---|---|---|---|---|
-| The Host | Innkeeper at the Great Hall door; brass lantern | Main Floor | Patrick Stewart cadence and posture; warm, unhurried | Ruled; dossier; posture ruled Sep 27 |
+| The Host | Innkeeper at the Great Hall door; brass lantern | Main Floor | Patrick Stewart cadence and posture; warm, unhurried | Ruled; dossier; posture ruled Sep 27; also a tribute to Sir Patrick Stewart (Oct 31, see 1.9) |
 | The Catalyst | Bartender of the Impossible Garden bar; story-for-drink economy | Main Floor | Helena Bonham Carter presence, leaning on a Lovett warmth with teeth; hook "What changes?" | Ruled; evolved Sep 27; posture open |
 | The Firekeeper | Fire storyteller at the hearth corner | Main Floor | Tim Curry tribute (ruled Sep 10, replacing the Bard in that seat); hook "Tend." | Ruled |
 | The Bard (Bard Blowhard) | Musician; kilt and pipes; dock sessions with Zeke | Main Floor, Meadery, Campgrounds | Five registers (4.4); Porthos volume | Ruled; dossier |
@@ -262,6 +262,28 @@ The client asked for the unassigned pictures to be matched to characters where t
 - Critters: the axolotl, the mantis shrimp and the rain frog.
 
 **In GitHub but not in the canon folder:** Hades, Persephone, Leonardo da Vinci and King Arthur (elder form) have pictures in `docs/gallery/characters/` but none in the canon JPEG folder. If they're still canon, a copy in the folder keeps everything in one place.
+
+**One picture, two names (checked November 2):** `docs/gallery/characters/erik_norse_host_ingame.png` is the same picture as the canon JPEG "Marion". Which name it belongs to is for the naming session.
+
+### 1.9 The Host's bigger role (October 31)
+
+On October 31 the client asked for the Host's role to be a little more prominent, and said that he is now also a tribute to Sir Patrick Stewart, woven in the way the Firekeeper became the Tim Curry tribute (ruled Sep 10).
+
+**What canon already gives him.** He anchors more files than any other character (251 in the Sep 11 gap census) and has a master dossier (`docs/characters/geode_inn_npc_host_master_dossier.md`) and a first profile (`docs/geode_inn_the_host.md`, Aug 22). He welcomes every guest at the door with the brass lantern before they have earned anything, gives everyone the first bracelet charm (the Inn-Tree sigil), keeps each player's chair ("Welcome back. ...Your chair is still here."), grants City Charters, inspects player-built inns ("Room's ready."), wrote the guest handbook in the bedside drawer, and his title is the wake word, "Innkeeper" (Sep 25). Most of these happen once, at the door.
+
+**Ruled (Oct 31).** The tribute lives in how he carries himself: the cadence, the stillness, the warmth. His name, face and famous lines stay out of the game, the site and the store page. This fits the dossier's likeness rule (an original design, unattached to celebrity likenesses). Recorded in the dossier on Nov 2.
+
+**Proposed (Nov 2), waiting on the client's pick.** Written into the dossier as proposals:
+
+1. The first and the last face: he also sees each guest off at the door with the lantern. He never asks anyone to leave, so the farewell only answers the guest's own leaving.
+2. The Innkeeper's List in his hand: the Wanderer still brings the requests home (Main Floor canon has the Wanderer posting the quests), and the Host writes them up on the board. The board has no item or picture yet (the Great Hall ledger).
+3. The Innkeeper knock answered by the Innkeeper: when a guest says the wake word, he answers first in his own voice, then hands over to whoever keeps that room. This keeps the Voice Constancy Law (one voice per role) and still puts his voice in every zone.
+4. A nightly lantern round: a short visit to each level, inside the Inn, then back to his chair.
+5. A dedication line in the credits; the wording is the client's.
+
+**Pictures.** The Living portrait is `the_host_v2.png`, the same picture as the canon JPEG "the host". The Shadow form is described in the dossier (the Shadow Tribunal, velvet-and-obsidian armor) but has no picture, and there is no In-Between form yet. An earlier picture, `the_host.png` (in `docs/gallery/characters/` and `docs/drive-recovery/images/expanded-characters/`), is a direct likeness of the actor and shouldn't be used.
+
+**To reconcile.** The Aug 22 profile describes the actor's own face and look; the Sep 11 dossier's likeness rule and the canon portrait don't. The tribute ruling points to the dossier, so the profile's appearance lines are the ones to change. (Part 8, 3.4)
 
 ---
 

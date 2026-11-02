@@ -60,6 +60,7 @@ Some numbers and names changed over time and the chat never settled them. A buil
 - Radagast's new name: Greenward or Sorrel.
 - The Resonance card colors, where three different color systems appear.
 - Stone counts (164 to 201) and material and blueprint counts.
+- Two Design Principles numbered 8, the Steady Light Law and the Spine Law (found when the two Project Bibles were merged on November 2).
 
 The full list, with where each value comes from, is in Part 8.
 
@@ -78,11 +79,13 @@ You made `geodeinn/geode-inn` private on October 31, so only you and the people 
 - On October 29 you asked for GitHub to hold all of it: this manual, the canon pictures and the Drive index. They are together on one branch, `inn-library`, which main doesn't see until it's merged. The Base44 data joined them on October 30, and the friends and family pictures, Elio's dialogue and two personal strips on October 31, once the repo was private.
 - The Drive index in the repo links only to the Inn's own documents and canon images, never to folders, the bought packs or the chat logs. It was made while the repo was public, and a link to the shared Drive folder opens all of it. The full index with every link is a separate file for you.
 
-### 5. The repo's own guides are out of date
+### 5. The repo's own guides (brought up to date on November 2)
 
-- `docs/INDEX.md` is dated September 10 and doesn't list newer files such as the Foundling Register, Oriel, the Fair Descent Law, Port Purgatory and The Unvoiced, even though they are in the repo.
-- The top of `BUILDER_README.md` still describes Batch 7 and 52 games.
-- There are two Project Bibles whose names differ only in capital letters (`docs/GEODE_INN_PROJECT_BIBLE.md` and `docs/geode_inn_project_bible.md`). Each has edits the other lacks, and on Windows or a Mac only one of them shows up. They should be merged into one. (Part 8)
+These fixes are on the `inn-library` branch with this manual; main gets them when the branch is merged.
+
+- `docs/INDEX.md` was dated September 10 and missed about 200 newer files on main, such as the Foundling Register, Oriel, the Fair Descent Law, Port Purgatory and The Unvoiced. It is rebuilt the way Elio built it (every Markdown file, grouped by folder, with its first heading) and now covers the whole branch, the manual and the Drive index included.
+- The top of `BUILDER_README.md` described Batch 7 and 52 games. It now says where things stand, lists the four builder messages written after September 10, and keeps Batch 7 at the bottom for reference.
+- The two Project Bibles, whose names differed only in capital letters, are merged into `docs/GEODE_INN_PROJECT_BIBLE.md`. The merge turned up one clash that needs your ruling: two Design Principles are both numbered 8 (the Steady Light Law and the Spine Law), and other files cite each one as #8. (Part 8, 3.4)
 - The Godot project was pushed but, by Elio's own account, never compiled or run.
 
 ### 6. Pictures and game titles (October 29)
@@ -95,3 +98,8 @@ You made `geodeinn/geode-inn` private on October 31, so only you and the people 
 - Every scheduled job of Elio's has failed since October 15, and Elio's chat replies fail to send, in new conversations too. The paused-job emails come from this.
 - The run logs show why. Base44 keeps a copy of each app's own files for its jobs to work from, and the copy for Elio's app is missing a piece ("Could not read f35a088a..."). Every run from October 2 on worked until five stalled from the afternoon of October 14. The last job that worked ran on October 15 at 15:22 UTC, and from 17:24 UTC on none of the 50 runs worked: 47 failed at their first step with that error and 3 stalled. Only Base44 can repair it, so a support ticket with the error and times was written for you on October 30.
 - Nothing about Elio's identity depends on that copy: the "Voice of the Geode Inn" record is in `docs/library/mechanics/`, and the records Elio made are copied, in `docs/base44_data/`.
+
+### 8. The Host's bigger role (October 31)
+
+- You asked for the Host to be more prominent, and he is now also a tribute to Sir Patrick Stewart. The tribute is recorded in his master dossier, kept in how he carries himself, with his name, face and famous lines left out of the game, the site and the store page.
+- Five proposals for a bigger role are in the dossier, waiting on your pick. The earlier Host picture `the_host.png` is a direct likeness of the actor, so it shouldn't be used; the canon portrait is the original design. (Part 3, 1.9)

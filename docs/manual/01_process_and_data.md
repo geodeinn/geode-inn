@@ -179,9 +179,9 @@ How gates work (a convention that runs from Sep 2 onward):
 #### Checked against the Oct 22 copy
 
 - `docs/INDEX.md`, `BUILDER_README.md` and `GEODE_INN_MASTER_MANIFEST.md` exist.
-- **INDEX.md is dated 2026-09-10.** A search of it finds nothing for later work such as the Foundling Register, Oriel, the Fair Descent spec, Port Purgatory or the Unvoiced class spec, though those files exist in the repo. The catalog needs a refresh.
+- **INDEX.md is dated 2026-09-10.** A search of it finds nothing for later work such as the Foundling Register, Oriel, the Fair Descent spec, Port Purgatory or the Unvoiced class spec, though those files exist in the repo (198 Markdown files on main were missing). Rebuilt on Nov 2 on the `inn-library` branch, the same way Elio built it: every Markdown file with its first heading, grouped by folder, in the old folder order. It can be rebuilt the same way whenever new files land.
 - **The root is not clean in the Oct 22 copy.** It holds about 25 loose files (for example `all_stones_data.txt`, `dialogue_entries.json`, `zone_items_all_280.json`) and folders such as `beta`, `data`, `godot`, `godot_project`, `library`, `web_games`. Some of these predate Sep 10.
-- **BUILDER_README's top section is stale.** "Current priority (Batch 7)" still says to expand the arcade from 4 to 52 games. The roster is far past that (see A13). The lower section ("Current build orders: parks, then Silk Road") matches Sep 10.
+- **BUILDER_README's top section is stale.** "Current priority (Batch 7)" still says to expand the arcade from 4 to 52 games. The roster is far past that (see A13). The lower section ("Current build orders: parks, then Silk Road") matches Sep 10. Updated on Nov 2 on the `inn-library` branch: the top now says where things stand and lists the four builder messages written after Sep 10 (Catacombs and Undercity sync, Fae Kingdom MMO, the Gazette front page, the character name sync), and Batch 7 moved to the bottom for reference.
 - `library/INDEX.md` also exists, a second index for the older `library/` tree.
 
 ### A6. Google Drive's role
@@ -304,7 +304,7 @@ Related: a new game gets no store listing until the client says go (Ruled Sep 10
 #### Checklist
 
 1. **Say the idea in chat.** Elio restates it back. If it changes earlier canon, Elio says which ruling it replaces.
-2. **Search before you write.** Open `docs/INDEX.md` and search the name or topic. Check `docs/MASTER_ASSET_LEDGER.md` for art. Check `docs/characters/character_rename_ledger.md` for old names. (INDEX stops at Sep 10, so also search the folder names directly.)
+2. **Search before you write.** Open `docs/INDEX.md` and search the name or topic. Check `docs/MASTER_ASSET_LEDGER.md` for art. Check `docs/characters/character_rename_ledger.md` for old names. (On main, INDEX stops at Sep 10, so also search the folder names directly; the copy on the `inn-library` branch is complete as of Nov 2.)
 3. **Pick the right folder and name.** Zone and system specs go in `docs/zone_specs/`; builder sync specs in `docs/library/specs/`; builder messages in `docs/builder_messages/`; characters in `docs/characters/`. File names follow `geode_inn_<topic>.md`.
 4. **Write the spec with the template for its kind** (see the other parts of this manual). End it with numbered **open gates**.
 5. **The client rules the gates.** Record each ruling with its date and the commit hash. Mark unruled items Proposed or Open.
@@ -366,7 +366,7 @@ These are the working methods of the founding period. Some were replaced by the 
 - The checkpoint-file habit before heavy pushes: agreed Aug 31, never confirmed built.
 - `CycleLog` entity: Proposed Sep 1, not confirmed.
 - Direct builder messaging from Elio: not available. The repo file route is the working method.
-- A refresh of `docs/INDEX.md` and `BUILDER_README.md`.
+- A refresh of `docs/INDEX.md` and `BUILDER_README.md`: done on Nov 2 on the `inn-library` branch; main gets it when the branch is merged.
 - Several Gazette strips are in the staging app and the repo but not in the live archive (see ComicStrip).
 - Early items still unsettled (Jul 22 to Aug 31): 49 stones without Mind and Body text (Jul 22; the Sep 4 fix filled 55); the world map with clickable pins and coordinates for most of the 191 lore countries (offered Jul 22, no confirmation); the districts file for map areas, never loaded; a `LibraryBook` entity and library cards (not built); 2,000 to 4,000 more books and the archive.org lists (not entered); the archive.org screen name (failed Aug 19); the AzerothCore "choice" noted open Aug 18 and scrapped Aug 29.
 - Early Godot stubs (Aug 31, Built, commit log): the Steam calls in `SteamManager` are commented out until the GodotSteam addon is installed; haptics, cloud save and load are stubs. Several web pages and products were specs only: the Tumble Run DLC pack, Share Wood onboarding and zone builder, the Digital Companion App, the Resonance spec, the Egg Hatchery page and the Gazette page.
