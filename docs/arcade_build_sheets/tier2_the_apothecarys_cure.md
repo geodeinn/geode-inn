@@ -29,6 +29,8 @@ Frequency States:
 
 ## SECTION 3: VISUAL ASSETS NEEDED
 
+> Template art (found 2026-11-05): `docs/canon_images/from the chat (Nov 5)/game templates/the apothecarys cure.jpg` (a newt apothecary mixing and cheering, nine potions, six gems). Matched by content; whether the newt is Unless or a new character is open.
+
 - Character sprites: zone-appropriate NPCs (Living + Shadow states)
 - Background: Staircase environment in assigned artist style
 - UI: Antikythera-themed HUD, gold/brass on dark stone

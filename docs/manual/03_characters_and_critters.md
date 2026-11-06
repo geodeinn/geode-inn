@@ -216,6 +216,7 @@ Characters first written between July 12 and August 30, with their early names, 
 - Joe's wife and son are reserved slots, unnamed in game (Sep 11).
 - Gargoyle puppies (six, names pending); Flesh Wound Knight; Glassblower; Doorkeeper; Screamer; Laughkeeper; Quartz-Pebble Skeleton; Concord grape; Alexia's husband ("the annoying atheist"; Archive card reads "name pending, earned, not given").
 - The Bearsark's original name; the Blade and Whistler duo names.
+- Barnaby, Pip and Silas, three kids on the Tumble Run template (posted Nov 5): new to canon, and Barnaby is already Elora Nightbloom's beetle, so one of the two needs another name. The newt apothecary on The Apothecary's Cure template may be Unless or someone new. (Part 7, 1.24)
 
 ### 1.7 Open and to reconcile (roster)
 
@@ -265,7 +266,7 @@ The client asked for the unassigned pictures to be matched to characters where t
 
 **One picture, two names (checked November 2):** `docs/gallery/characters/erik_norse_host_ingame.png` is the same picture as the canon JPEG "Marion". Which name it belongs to is for the naming session.
 
-### 1.9 The Host's bigger role (October 31)
+### 1.9 The Host's bigger role (October 31; picks on November 5)
 
 On October 31 the client asked for the Host's role to be a little more prominent, and said that he is now also a tribute to Sir Patrick Stewart, woven in the way the Firekeeper became the Tim Curry tribute (ruled Sep 10).
 
@@ -273,17 +274,17 @@ On October 31 the client asked for the Host's role to be a little more prominent
 
 **Ruled (Oct 31).** The tribute lives in how he carries himself: the cadence, the stillness, the warmth. His name, face and famous lines stay out of the game, the site and the store page. This fits the dossier's likeness rule (an original design, unattached to celebrity likenesses). Recorded in the dossier on Nov 2.
 
-**Proposed (Nov 2), waiting on the client's pick.** Written into the dossier as proposals:
+**Proposed (Nov 2).** Written into the dossier as proposals; the client picked number 4 on November 5 ("i love the lantern approach, it's lovely"), and the other four still wait on a pick:
 
 1. The first and the last face: he also sees each guest off at the door with the lantern. He never asks anyone to leave, so the farewell only answers the guest's own leaving.
 2. The Innkeeper's List in his hand: the Wanderer still brings the requests home (Main Floor canon has the Wanderer posting the quests), and the Host writes them up on the board. The board has no item or picture yet (the Great Hall ledger).
 3. The Innkeeper knock answered by the Innkeeper: when a guest says the wake word, he answers first in his own voice, then hands over to whoever keeps that room. This keeps the Voice Constancy Law (one voice per role) and still puts his voice in every zone.
-4. A nightly lantern round: a short visit to each level, inside the Inn, then back to his chair.
+4. A nightly lantern round: a short visit to each level, inside the Inn, then back to his chair. **Picked (Nov 5).**
 5. A dedication line in the credits; the wording is the client's.
 
-**Pictures.** The Living portrait is `the_host_v2.png`, the same picture as the canon JPEG "the host". The Shadow form is described in the dossier (the Shadow Tribunal, velvet-and-obsidian armor) but has no picture, and there is no In-Between form yet. An earlier picture, `the_host.png` (in `docs/gallery/characters/` and `docs/drive-recovery/images/expanded-characters/`), is a direct likeness of the actor and shouldn't be used.
+**Pictures (ruled Nov 5).** The client said a picture of him already "matches the personality perfectly, as a fellow in a slightly patchwork overcoat and a great smile", and posted it with a second one: the patchwork overcoat by the hearth, arms open, and the same man opening the Inn door with the lantern raised ("yes, these are the same character"). The fireside picture is his main portrait and the door picture is his lantern round. Both come from the client's PC and aren't in the Drive; they join `docs/canon_images/` once the full-size files are saved. The old portrait, `the_host_v2.png` (the same picture as the canon JPEG "the host", the white-haired man in the vest and leather apron by the Hickory Hearth fire), goes to the Smiths: "the fellow in the vest and apron will fit really well into the smiths i think." The Five Smiths picture shows all five as dwarves and he is a tall human, so which smith he is stays open. The builder image maps still name `the_host_v2.png` for the Host until the new files are in. The Shadow form is described in the dossier (the Shadow Tribunal, velvet-and-obsidian armor) but has no picture, and there is no In-Between form yet; the lantern round needs both. An earlier picture, `the_host.png` (in `docs/gallery/characters/` and `docs/drive-recovery/images/expanded-characters/`), is a direct likeness of the actor and shouldn't be used.
 
-**To reconcile.** The Aug 22 profile describes the actor's own face and look; the Sep 11 dossier's likeness rule and the canon portrait don't. The tribute ruling points to the dossier, so the profile's appearance lines are the ones to change. (Part 8, 3.4)
+**To reconcile.** The Aug 22 profile describes the actor's own face and look; the Sep 11 dossier's likeness rule and the new portrait don't. The tribute ruling points to the dossier, so the profile's appearance lines are the ones to change, now to match the patchwork overcoat picture. (Part 8, 3.4)
 
 ---
 

@@ -38,6 +38,8 @@ Frequency State:
 
 ## SECTION 3: VISUAL ASSETS NEEDED
 
+> Template art (found 2026-11-05): `docs/canon_images/from the chat (Nov 5)/game templates/monster of the deep growth stages.jpg` (the player creature from hatchling to leviathan, its Shadow state) and `docs/canon_images/from the chat (Nov 5)/game templates/monster of the deep water monsters.jpg` (six water monsters: plesiosaur loch monster, wave-serpent, catfish-headed lake spirit, armored horseshoe guardian, jellyfish drifter, river cryptid). Matched by content, waiting on Krista's OK.
+
 Character Sprites/Portraits:
 - Player Creature: 5 growth stages (tiny, small, medium, large, leviathan) x swim (2), hunt (2), eat (1), rest (1) x 2 freq states = 60 sprites
 - 32 Water Monster rivals: idle (1), threat display (1) x 2 freq states = 128 sprites (drawn from existing 276-creature bestiary — 32 water monsters already have tri-mode assets)

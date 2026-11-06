@@ -39,6 +39,8 @@ Frequency State:
 
 ## SECTION 3: VISUAL ASSETS NEEDED
 
+> Template art (found 2026-11-05): `docs/canon_images/from the chat (Nov 5)/game templates/tomb tunnel explorer.jpg` (a human explorer running with a lantern, idle and digging, three scarabs, sand, stone and hieroglyph blocks). The finished cast below has a froglodyte digging instead; which one stays is open.
+
 Character Sprites/Portraits:
 - Player (Excavator): idle (1), digging (2), pumping sand (2) x 2 freq states = 10 sprites
 - Isis Priestess: portrait (1), manifesting (1) x 2 freq states = 4 sprites

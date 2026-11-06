@@ -597,6 +597,8 @@ Note: the Sep 10 blueprint puts Canopy City as its own level. The repo level doc
 
 D13 gives eight doors; the Sep 10 audit counts 17 sub-areas.
 
+Pictures from the client's PC (Nov 5, `docs/canon_images/from the chat (Nov 5)/zones/`): `main floor living.jpg`, the great hall under the living roots with Celtic knotwork beams, the hearth, a jewelry stall, arcade cabinets on a back stage and spiral stairs up to the galleries; and `main floor shadow.jpg`, the same hall with a violet hearth fire, blue roots and a black mirror floor. The client called both readings "accurate guesses"; whether the violet one is the Shadow or the In-Between look is still to say.
+
 | Room | Painter | Music | Keeper | Status |
 |---|---|---|---|---|
 | The Great Hall | Matisse light, Klimt weight, Del Toro wear | Heartbeat loudest here; Host 3 dB under | The Host, Lozen patrol, Wanderer | Parcel 01 DRAFT |
@@ -633,7 +635,7 @@ D13 gives eight doors; the Sep 10 audit counts 17 sub-areas.
 
 ### 6.6 Staircase, Catacombs, Undercity
 
-**Staircase (Level 5).** Rooms: Alchemical Landing (spec MISSING in Sep 10; a spec exists later), Alembic Window, Transformation Chamber, the Five Emblems hall (done), the Blue Box alcove (done Sep 11), the Stage. Chain: The Turning. Keepers: see level table.
+**Staircase (Level 5).** Rooms: Alchemical Landing (spec MISSING in Sep 10; a spec exists later), Alembic Window, Transformation Chamber, the Five Emblems hall (done), the Blue Box alcove (done Sep 11), the Stage. Chain: The Turning. Keepers: see level table. Picture from the client's PC (Nov 5): `docs/canon_images/from the chat (Nov 5)/zones/the staircase.jpg`, a double spiral stair past potion niches, alchemical symbols, a stained-glass alembic window and chained books.
 
 **Catacombs (Level 6).**
 

@@ -44,6 +44,8 @@ The forge fire is the Inn's most INTENSE fire — hotter than the feast, more co
 
 The smiths are a GROUP — not a single character. The Inn's metalworking is too varied for one smith. Each metal has its own character, its own behavior, its own way of being worked. Each smith specializes in one metal and embodies that metal's energy.
 
+> Pictures (2026-11-05): the canon image "five_smiths" (docs/canon_images/characters/storyline characters with quests/) shows all five as dwarves at their forges up the Staircase, labeled Iron, Bronze, Silver, Gold and Copper. On 2026-11-05 Krista moved the old Host portrait to the Smiths ("the fellow in the vest and apron will fit really well into the smiths i think"): the white-haired, white-bearded man in a dark vest and leather apron, canon image "the host" = docs/gallery/characters/the_host_v2.png. He is a tall human, not a dwarf, so which smith he is (or whether he joins them as someone new) is open.
+
 ### The Iron Smith — Forge
 
 **Name:** Forge. (The smith who works the base metal. The name IS the tool, the place, and the act — a forge is where iron is worked. Forge is the smith, the smith's workspace, and the smith's verb. "I forge." The word doesn't separate the worker from the work.)

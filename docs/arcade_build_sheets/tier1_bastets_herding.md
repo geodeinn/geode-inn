@@ -29,6 +29,8 @@ Frequency States:
 
 ## SECTION 3: VISUAL ASSETS NEEDED
 
+> Template art (found 2026-11-05): `docs/canon_images/from the chat (Nov 5)/game templates/bastets herding.jpg` (labeled: Bastet with the sistrum, the cats and lion cubs, the basket, the Cat's Eye Chrysoberyl gem and their Shadow looks).
+
 - Character sprites: zone-appropriate NPCs (Living + Shadow states)
 - Background: Egypt environment in assigned artist style
 - UI: Antikythera-themed HUD, gold/brass on dark stone

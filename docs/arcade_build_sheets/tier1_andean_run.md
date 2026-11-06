@@ -39,6 +39,8 @@ Frequency State:
 
 ## SECTION 3: VISUAL ASSETS NEEDED
 
+> Template art (found 2026-11-05): `docs/canon_images/from the chat (Nov 5)/game templates/andean run cast.jpg` (labeled "Andean Run": the Chasqui runner, Apu, the Awqa Pacha and their Shadow looks) and `docs/canon_images/from the chat (Nov 5)/game templates/andean run pixel sheet.jpg` (a pixel-style runner with run, jump, mid-slide, jumping attack and idle, the boulder, cactus, rope bridges and stone tiles). Which style stays is open.
+
 Character Sprites/Portraits:
 - Chasqui Runner: run cycle (4), jump (2), slide (2), turn (2) x 2 freq states = 20 sprites
 - Apu (mountain spirit): portrait (1), manifesting in stone (1) x 2 freq = 4 sprites

@@ -401,7 +401,8 @@ Latest status only. Items the chat logs show were resolved later are dropped. St
 - Steampunk robot NPC (Stone 11): Mail Crew or Ship's Announcer; name pending under the Bob Doctrine.
 - Unseelie/Seelie art: Zach's portrait critique list (Astronomer, Da Vinci regeneration) pending; Bast's two portraits not in the gallery manifest; Bast's 17 kittens, Marginalia portrait, Katya, Vanir, six gargoyles not in the master roster (as of Sep 9).
 - Build-Scholar Frank Wright: past left undisclosed (open). Tourist stereotype gate open.
-- The Host's bigger role (asked Oct 31): pick from the five proposals in his dossier, and word the credits dedication (Part 3, 1.9).
+- The Host's bigger role (asked Oct 31): the lantern round was picked on Nov 5; the other four proposals in his dossier and the credits dedication wording are still open (Part 3, 1.9).
+- From the Nov 5 session: which smith the old Host portrait is (the Five Smiths are dwarves, he is a tall human); Barnaby, Pip and Silas on the Tumble Run template (Barnaby is already Elora Nightbloom's beetle); whether the newt on The Apothecary's Cure template is Unless (Part 3, 1.6 and 1.9).
 - Concord grape lineage of the Unsniffed (Godiva, Helen, Aphrodite, Eris): not ruled.
 - (early period; not seen after Aug 30) Several in-game characters are based on real people who may need to approve their look or lines. The commit log records approval only for two visuals (two characters' colors and looks). The Aug 30 purge of one real person's name from NPC docs shows the risk.
 - (early period; not seen after Aug 30) The "Open Twelve" template NPCs for friends were not assigned; Marion (game tester) waited on a write-up (Aug 30). Maddi was later placed in the roster, Marion is not seen again.
@@ -447,7 +448,8 @@ Latest status only. Items the chat logs show were resolved later are dropped. St
 - Re-census of the whole World Architecture tree and the Drive recovery trove; Drive verification pass after the client reorganizes "Geode Inn-master build".
 - Crest owed: favicon or small variant, door plaque line, Gazette masthead, wax seal for Inn Post.
 - Angle-set paintings (player back 3/4, resident cuts, walkers' backs); NPC in-between portraits (59), item in-betweens (11), critter tri-mode art.
-- The Host: Shadow picture (the form is described, no picture) and an In-Between form and picture; only the Living portrait exists (Part 3, 1.9).
+- The Host: Shadow picture (the form is described, no picture) and an In-Between form and picture; only the Living look exists, the patchwork overcoat portrait and the door picture picked on Nov 5, and their full-size files still have to be saved into the repo (Part 3, 1.9).
+- From the Nov 5 templates: Tomb Tunnel's digger (the human explorer on the template or the froglodyte of the finished cast); which Andean Run style stays (pixel or painted); the client's OK on the other matches; Shadow or In-Between for the violet Main Floor picture; the templates and rooms still to post, and putting them in the Drive (Part 7, 1.24).
 - Persephone: Tide Queen and The Giver unpainted; Merlin merman, Huginn/Muninn, Brim standing, Vishnu sleeping dragon, Hades pair art owed.
 - Foundling, Greeblin family, Moppet and Kindling portraits queued ("cute critter batch").
 - Room Items Blueprint: about 66 items owed for Clockwork Skies and Main Floor; 5 portraits owed (three Canopy City NPCs, Greenward, Lichenblossom NPC face); Firekeeper final portrait; Music Room kit.
@@ -641,7 +643,7 @@ Ruling needed: one numbering scheme, a rule for "strip zero", and a list of whic
 | Gazette board spec | "Daily at midnight" | "When worth it" (QC law) | Sep 12-13 | QC law is the current wording but was not explicitly ruled. |
 | Comic spec field | `playerAdventures` boolean | string (Sep 12) | Sep 12-13 | |
 | Design Principle #8 | The Steady Light Law (epilepsy-safe design; #8 in the Project Bible since Aug 21; cited as #8 by the Every-Mind Welcome charter, the quest mark law and the Digital Companion spec) | The Spine Law (ruled as #8 on Sep 12 in the lower-case Bible, which had no 8 to 11; the number is part of the ruling, 8 as a sideways infinity; cited as #8 by the Silica Thread questline and Gazette strip #003) | Project Bible, both copies; found in the Nov 2 merge | Both kept as #8 in the merged Bible until ruled. Renumbering the other one means updating the files that cite it. |
-| The Host's face | The actor's own face and look (first profile, `docs/geode_inn_the_host.md`, Aug 22; the earlier picture `the_host.png`) | An original design, unattached to celebrity likenesses (master dossier, Sep 11; the canon portrait `the_host_v2.png`) | Aug 22, Sep 11 | The Oct 31 tribute ruling keeps the likeness out, so the profile's appearance lines should follow the dossier. |
+| The Host's face | The actor's own face and look (first profile, `docs/geode_inn_the_host.md`, Aug 22; the earlier picture `the_host.png`) | An original design, unattached to celebrity likenesses (master dossier, Sep 11; then the portrait `the_host_v2.png`, since Nov 5 the patchwork overcoat picture) | Aug 22, Sep 11, Nov 5 | The Oct 31 tribute ruling keeps the likeness out, so the profile's appearance lines should follow the dossier and the new portrait. |
 | Fizgig messaging | Direct to builder (tried Sep 1) | Email to client who pastes | Sep 1 | Email is current. |
 | Hatching notification | Flashes white | Sine-clamped amber glow (Steady Light Law) | Sep 11 | Amber. |
 | Heartbeat | Steady 50 BPM metronome | Spiral Heartbeat (Lateralus cycle) | Sep 11 | Spiral. |
@@ -973,3 +975,10 @@ The chat for these days is missing. Entries say "Ruled (commit)" only where the 
 - Oct 14 | Characters | The Canuck; Disney chameleon stands for Ziggy in the Mini-Inn.
 - Oct 14 | Creatures | Foundling Register spec filed (names left for the client).
 - Oct 15 | Music | Two songs seated in the Distinct Tempos Census; Wave Seven / Rewire Register.
+
+### After October 15 (the client's rulings in the Freelancer chat)
+
+- Oct 31 | Characters | The Host is a tribute to Sir Patrick Stewart, kept in how he carries himself; no name, face or famous lines in the game, the site or the store page. Make his role more prominent.
+- Oct 31 | Pictures | Picture versions are the tri-mode states (Living, Shadow, In-Between).
+- Nov 5 | Characters | The Host: the lantern round picked; new portrait (the patchwork overcoat by the hearth) and the door picture with the lantern, the same man. The old portrait goes to the Smiths.
+- Nov 5 | Pictures | The Main Floor (Living and Shadow) and the Staircase pictures from the client's PC filed; the first nine game templates matched to their build sheets.

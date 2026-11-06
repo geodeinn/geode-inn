@@ -757,6 +757,24 @@ On October 29 the client said the game titles will be adjusted to fit the world 
 
 **Titles that already fit:** Standing Stones, Tomb Tunnel, Andean Run, Monster of the Deep, Tumble Run, Moji Maker, Oracle's Riddles, Rune Hunt, Sacred Scramble, Bastet's Herding, Serpent Steps, Dragon's Descent, Crystal Catcher, Temple of the Naga, Dragon Tiles, Egyptian Gates, Acropolis in Five Lights, Ghats of Kali, Inca Terrace Lullaby, Redwood Cathedral, Spiral Gallery Tour, The Dream Gardener, The World Walker, The Crystal Paddle, The Thread, The Between, The Rest, Gargoyle Seek, Port Purgatory, LAYOVER, Dew Circuit and The Mohs Vibration. The National Park games (Appalachian Trail, Colorado Plateau, Superstition Mountains) can keep their place names if the client likes them; rule 4 applies to them too.
 
+### 1.24 Game templates found (November 5)
+
+On November 5 the client found "a bunch, maybe even all, of the templates for the smaller games with the items and characters completed" on their PC; OneDrive had kept them out of the Drive. Most pages are sprite sheets like the Andean Run one; some are "just the critters of the zone". None of the nine posted so far is among the 343 canon pictures. They are in `docs/canon_images/from the chat (Nov 5)/game templates/`, and each build sheet named in the table now opens its visual assets section with a note pointing to its template.
+
+| Template | Game (build sheet) | What is on it | How it was matched | Open |
+|---|---|---|---|---|
+| andean run pixel sheet | Andean Run (`tier1_andean_run.md`) | Pixel runner in poncho and wool cap: run, jump, mid-slide, jumping attack, idle; the boulder (8 frames), cactus, two rope bridges, stonework, mossy and fretwork tiles | Rope bridges and stone roads in the build sheet; the client agreed | Which of the two styles stays |
+| andean run cast | Andean Run | The Chasqui runner, Apu the mountain spirit (stone face, cloaked, snow form), the Awqa Pacha in four chase poses, a Shadow row | Labeled on the sheet; the same cast as the build sheet | Same |
+| bastets herding | Bastet's Herding (`tier1_bastets_herding.md`) | Bastet in three poses with the sistrum, the cats (sand cat and lion cubs among them), the basket, the green gem, a Shadow row | Labeled; the gem fits the prize, Cat's Eye Chrysoberyl. Bastet is grown, like `bastet_v2.png`, not the chibi canon picture | |
+| tomb tunnel explorer | Tomb Tunnel (`tier1_tomb_tunnel.md`) | A human explorer (run with lantern, idle, dig), three scarabs, sand, stone and hieroglyph blocks | The build sheet's excavator, Scarab Swarmer and its three block types | The finished cast (Sep 10) has a froglodyte digging; which one stays |
+| monster of the deep growth stages | Monster of the Deep (`tier1_monster_of_the_deep.md`) | The player creature from hatchling, pup, adolescent and adult to leviathan, in five rows of poses, and its Shadow state | The build sheet's five growth stages (tiny to leviathan) with swim, hunt, eat and rest | Client's OK |
+| monster of the deep water monsters | Monster of the Deep | Six labeled water monsters with sprite sizes: plesiosaur loch monster, wave-serpent, catfish-headed lake spirit, armored horseshoe guardian, jellyfish drifter, river cryptid | The build sheet's water monster rivals; a critters-of-the-zone page | Client's OK |
+| tumble run | Tumble Run (`tier2_tumble_run.md`) | Titled "Tumble": four ball states (full bounce, compressed tight ball, mid-roll, stuck in a jar), three kids (Barnaby, Pip, Silas), four items (humming geode crystals, pulsing knot of roots, chiming stone bell, spiral glyph stone) | The title and Tumble's ball mode; Tumble is the round furry critter of the canon picture `tumble_ingame` | The kids and items are new to canon; Barnaby is already Elora Nightbloom's beetle |
+| the apothecarys cure | The Apothecary's Cure (`tier2_the_apothecarys_cure.md`) | A newt in glasses and apron, mixing and cheering; nine potions; six gems | Dr. Mario on the Staircase: potions and pills to match, and the Staircase's alchemical newts | Whether the newt is Unless (canon: the quiet skeptic) or someone new |
+| standing stones | Standing Stones (`tier1_standing_stones.md`) | Golden-robed stonemasons (idle, carving, work, celebrate), star watchers (observing, calculating, pointing), a wisp, ravens (perched, flying, landing), carved I, J, L and T stone blocks with Shadow versions, a blue crystal | Tetris at Stonehenge; the blue crystal fits the prize, the Preseli Blue Stone | Client's OK |
+
+The Andean Run pixel sheet and the cast sheet are in two different styles (pixel art and painted), so one of them is the keeper. The client is posting the rest one at a time.
+
 ---
 
 ## 2. Steam and hosting decisions
@@ -929,7 +947,7 @@ Source of truth: the ledger conventions and the image sheet (`geode_inn_image_cr
 - **Recolor classes (REC law):** the unit of work is the class. Paint one class master; recolors are free. One kitten sheet covers all eight kittens; one puppy sheet covers six frequency pairs. Recolors inherit angles.
 - **Movement spec:** 207 animated elements (45 NPCs, 82 critters, 80 environmental). Tier 1 is about 50 elements for the beta. Tier 1 movement classes: 12 Main Floor NPCs, 8 dragon kittens, 6 gargoyle puppies, 6 fizgigs, 5 brownies, flames, and the ceiling gnome. 14 cycle classes painted by Sep 10.
 - **Movement behaviors:** nine types (ember mice scatter, hearth flicker, fireflies wander, shadow wisps at 84Hz only, pixies orbit, the Alchemist patrols, and so on).
-- **Pilot:** Tomb Tunnel: a froglodyte hero, a sand pump, Scarab Swarmer, Cobra Warden, Isis Priestess. 28 sprites in a Godot-ready atlas, plus 14 shadow sprites. The atlas folder named in the chat (`docs/library/sprites/tomb_tunnel`) is not in the local repo copy; only the two tool scripts are.
+- **Pilot:** Tomb Tunnel: a froglodyte hero, a sand pump, Scarab Swarmer, Cobra Warden, Isis Priestess. 28 sprites in a Godot-ready atlas, plus 14 shadow sprites. The atlas folder named in the chat, `docs/library/sprites/tomb_tunnel`, is on main: 28 frame files (each character in Living and Shadow) and three sheets (the 64-pixel atlas, the full atlas and the cast sheet), next to the two tool scripts. An earlier version of this manual called it missing because the copy checked then skipped picture files. A template from the client's PC with a human explorer as the digger turned up on November 5 (1.24).
 - **Flip-book method:** extract frames from the painted master to replace the original game's characters with the Geode cast (ruled Sep 9, pilot Tomb Tunnel).
 - **Sprite crunch:** a builder-side stream ("Parcel 5") that pulls the 64 px sheets from the CYCLE masters.
 - **Neutral sheets** from the Tier 3 sprite sprint may need cropping.

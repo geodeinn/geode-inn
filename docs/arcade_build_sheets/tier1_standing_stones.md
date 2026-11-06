@@ -29,6 +29,8 @@ Frequency States:
 
 ## SECTION 3: VISUAL ASSETS NEEDED
 
+> Template art (found 2026-11-05): `docs/canon_images/from the chat (Nov 5)/game templates/standing stones.jpg` (golden-robed stonemasons, star watchers, a wisp, ravens, carved stone blocks with Shadow versions, a blue crystal for the Preseli Blue Stone). Matched by content, waiting on Krista's OK.
+
 - Character sprites: zone-appropriate NPCs (Living + Shadow states)
 - Background: Stonehenge environment in assigned artist style
 - UI: Antikythera-themed HUD, gold/brass on dark stone
