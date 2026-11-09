@@ -1,6 +1,6 @@
 # THE GEODE INN — MASTER FILE INDEX
 
-The complete card catalog. Every .md file in the repo, grouped by folder. Updated 2026-11-02.
+The complete card catalog. Every .md file in the repo, grouped by folder. Updated 2026-11-08.
 
 AGENTS: search THIS file first. Ctrl-F the name or topic, then open the path.
 
@@ -2126,3 +2126,7 @@ AGENTS: search THIS file first. Ctrl-F the name or topic, then open the path.
 - `gallery/gazette/strip_031_the_slot_that_was_always_there/script.md` — The Geode Inn Gazette — Strip #031: "The Slot That Was Always There"
 - `gallery/gazette/strip_032_the_breath_between_the_bars/script.md` — The Geode Inn Gazette — Strip #032: "The Breath Between the Bars"
 - `gallery/gazette/strip_033_the_octopus_that_wasnt_for_sale/script.md` — The Geode Inn Gazette — Strip #033: "The Octopus That Wasn't for Sale"
+
+## docs/build_lists (1 files)
+
+- `docs/build_lists/01_main_floor.md` — Main Floor build list (Level 3)

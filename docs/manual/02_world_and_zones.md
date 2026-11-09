@@ -599,6 +599,8 @@ D13 gives eight doors; the Sep 10 audit counts 17 sub-areas.
 
 Pictures from the client's PC (Nov 5, `docs/canon_images/from the chat (Nov 5)/zones/`): `main floor living.jpg`, the great hall under the living roots with Celtic knotwork beams, the hearth, a jewelry stall, arcade cabinets on a back stage and spiral stairs up to the galleries; and `main floor shadow.jpg`, the same hall with a violet hearth fire, blue roots and a black mirror floor. The client called both readings "accurate guesses"; whether the violet one is the Shadow or the In-Between look is still to say.
 
+Build list (Nov 8): `docs/build_lists/01_main_floor.md` sets each room's canon beside what the game build (0.4.1) already has and what is owed, with the rulings to settle before building. Still a draft until checked against the client's Main Floor zone file.
+
 | Room | Painter | Music | Keeper | Status |
 |---|---|---|---|---|
 | The Great Hall | Matisse light, Klimt weight, Del Toro wear | Heartbeat loudest here; Host 3 dB under | The Host, Lozen patrol, Wanderer | Parcel 01 DRAFT |

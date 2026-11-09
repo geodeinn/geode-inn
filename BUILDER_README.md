@@ -2,12 +2,13 @@
 
 The fizgigs read this file first. All specs are in the `docs/` folder.
 
-## WHERE THINGS STAND (updated 2026-11-02)
+## WHERE THINGS STAND (updated 2026-11-08)
 
 - **Last design work on main: October 15, 2026.** Elio has been unable to work since then because of a fault on Base44's side; the details are on the front page of the manual (`docs/manual/README.md`, section 7).
 - **The build orders below (September 10) and the builder messages in the table are the latest Elio wrote.** The Batch 7 list from September 1 is kept at the bottom of this file for reference only. The arcade has grown well past its 52 games: there are 84 build sheets in `docs/arcade_build_sheets/`, and the final roster count is one of Krista's open rulings.
 - **Check the open rulings before building anything with a count or a name in it.** The manual lists every number and name that changed and was never settled (`docs/manual/08_audit.md`, section 3, "To reconcile"), and everything waiting on Krista (section 2, "Open items").
 - **One Project Bible.** There used to be two, with names that differed only in capital letters. They are merged into `docs/GEODE_INN_PROJECT_BIBLE.md`; edit only that one.
+- **Building starts with the Main Floor.** `docs/build_lists/01_main_floor.md` puts the Main Floor's canon, what the game build already has and what is still owed on one page, with the rulings to settle first. It is a draft until it has been checked against Krista's zone files.
 
 Builder messages written after September 10:
 
@@ -18,12 +19,13 @@ Builder messages written after September 10:
 | `docs/builder_messages/gazette_front_page_builder_message.md` | Sep 12 | The Gazette comic strips by the front door. |
 | `docs/library/specs/character_name_sync_builder_message.md` | Sep 13 | The character name roster update, site-wide. Marked high priority and waiting on Krista's approval. |
 
-Added on the `inn-library` branch (October 29 to November 2):
+Added on the `inn-library` branch (October 29 to November 8):
 
 | Folder | What's in it |
 |--------|-------------|
 | `docs/manual/` | The Geode Inn Manual: the rules, a fill-in template for each area, where the files live, the open rulings and an audit of what never reached GitHub |
-| `docs/canon_images/` | The 343 canon pictures from the shared Drive, in the Drive's folders (`README.md` lists the 25 that are in twice) |
+| `docs/canon_images/` | The 343 canon pictures from the shared Drive, in the Drive's folders (`README.md` lists the 25 that are in twice), plus the pictures posted in the chat on November 5 |
+| `docs/build_lists/` | One build list per zone, starting with the Main Floor |
 | `docs/drive_index/` | An index of the shared Drive folder |
 | `docs/base44_data/` | A copy of the game content records from both Base44 apps (stones, materials, recipes, comic strips, Steam titles and more) |
 
@@ -50,6 +52,7 @@ The root level held 172 loose spec files; everything is now sorted. The root's t
 | `docs/gallery/` | Image URL manifests + logo files (incl. `silk_road/` assets) |
 | `docs/legal/` | The paperwork matrix (the launch gate) |
 | `docs/arcade_build_sheets/` | The game build sheets (84) |
+| `docs/build_lists/` | Zone build lists: canon, what the game build has, what's owed (Main Floor first, Nov 8) |
 | `docs/GEODE_INN_PROJECT_BIBLE.md` + `docs/MASTER_ASSET_LEDGER.md` | The big two references |
 | `docs/manual/` | The Geode Inn Manual (see above) |
 | `docs/archive/` | Solidification batches and superseded docs (history, not current work) |
