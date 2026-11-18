@@ -1,0 +1,512 @@
+[
+ {
+  "Name": "StarlitGeode",
+  "LedgerSection": "2.3 Rename ledger",
+  "OldName": "Starlit Geode",
+  "NewName": "The Starlight Crystal",
+  "Date": "Sep 9",
+  "Note": "No repo text hits yet",
+  "EarlyName": "",
+  "NameInTheCommitLog": ""
+ },
+ {
+  "Name": "Cthulhu",
+  "LedgerSection": "2.3 Rename ledger",
+  "OldName": "Cthulhu (the NPC)",
+  "NewName": "Naut",
+  "Date": "Aug 30 and Sep 3",
+  "Note": "Lovecraft references keep the word",
+  "EarlyName": "",
+  "NameInTheCommitLog": ""
+ },
+ {
+  "Name": "Bill",
+  "LedgerSection": "2.3 Rename ledger",
+  "OldName": "Bill (the musician)",
+  "NewName": "The Bard",
+  "Date": "Sep 9",
+  "Note": "Bill the Platypus and Bill Skarsgard are unrelated and unchanged",
+  "EarlyName": "",
+  "NameInTheCommitLog": ""
+ },
+ {
+  "Name": "ARealName",
+  "LedgerSection": "2.3 Rename ledger",
+  "OldName": "(a real name)",
+  "NewName": "Lozen",
+  "Date": "Sep 9",
+  "Note": "The class title stays The Sentinel; literal rivers untouched",
+  "EarlyName": "",
+  "NameInTheCommitLog": ""
+ },
+ {
+  "Name": "TheVessel",
+  "LedgerSection": "2.3 Rename ledger",
+  "OldName": "the Vessel (gecko, placeholder)",
+  "NewName": "Ziggy",
+  "Date": "Sep 10",
+  "Note": "\"the Vessel\" belongs to Eres",
+  "EarlyName": "",
+  "NameInTheCommitLog": ""
+ },
+ {
+  "Name": "TheVessel_2",
+  "LedgerSection": "2.3 Rename ledger",
+  "OldName": "the Vessel",
+  "NewName": "Eres",
+  "Date": "Sep 10",
+  "Note": "Title ruling: Eres is the Vessel",
+  "EarlyName": "",
+  "NameInTheCommitLog": ""
+ },
+ {
+  "Name": "MadameMimMimMimm",
+  "LedgerSection": "2.3 Rename ledger",
+  "OldName": "Madame Mim, Mim, Mimm",
+  "NewName": "Brim",
+  "Date": "Sep 3, restored Sep 9",
+  "Note": "\"Mimm or Brim, whichever fits\"; Brim chosen. The card game's \"MADAME\" is superseded",
+  "EarlyName": "",
+  "NameInTheCommitLog": ""
+ },
+ {
+  "Name": "TheCrone",
+  "LedgerSection": "2.3 Rename ledger",
+  "OldName": "the Crone",
+  "NewName": "Ragana",
+  "Date": "Sep 9",
+  "Note": "Lowercase \"crone\" archetype and crone.png untouched; hatchery event title stays \"The Crone's Casting\"",
+  "EarlyName": "",
+  "NameInTheCommitLog": ""
+ },
+ {
+  "Name": "TheSeelieKingUnnamed",
+  "LedgerSection": "2.3 Rename ledger",
+  "OldName": "(the Seelie King, unnamed)",
+  "NewName": "Oleander",
+  "Date": "Sep 4",
+  "Note": "\"the Seelie King\" stays as descriptor",
+  "EarlyName": "",
+  "NameInTheCommitLog": ""
+ },
+ {
+  "Name": "Jareth",
+  "LedgerSection": "2.3 Rename ledger",
+  "OldName": "Jareth",
+  "NewName": "Malachi",
+  "Date": "Aug 31",
+  "Note": "Bowie as craft reference only",
+  "EarlyName": "",
+  "NameInTheCommitLog": ""
+ },
+ {
+  "Name": "ARealNameThenSolstara",
+  "LedgerSection": "2.3 Rename ledger",
+  "OldName": "A real name, then Solstara",
+  "NewName": "Luna (true name Taaffeite)",
+  "Date": "Sep 3, then Sep 9",
+  "Note": "Taaffeite intentional; not anagrammed",
+  "EarlyName": "",
+  "NameInTheCommitLog": ""
+ },
+ {
+  "Name": "ARealName_2",
+  "LedgerSection": "2.3 Rename ledger",
+  "OldName": "(a real name)",
+  "NewName": "Lichenblossom",
+  "Date": "Sep 4",
+  "Note": "",
+  "EarlyName": "",
+  "NameInTheCommitLog": ""
+ },
+ {
+  "Name": "TheClient",
+  "LedgerSection": "2.3 Rename ledger",
+  "OldName": "The client (as player character)",
+  "NewName": "Vaulknut",
+  "Date": "Sep 3",
+  "Note": "Authorship credits keep the real name",
+  "EarlyName": "",
+  "NameInTheCommitLog": ""
+ },
+ {
+  "Name": "ARealName_3",
+  "LedgerSection": "2.3 Rename ledger",
+  "OldName": "(a real name)",
+  "NewName": "Zeke",
+  "Date": "Sep 4",
+  "Note": "\"The Pirate\" for reference, not address",
+  "EarlyName": "",
+  "NameInTheCommitLog": ""
+ },
+ {
+  "Name": "ARealNameTheSiren",
+  "LedgerSection": "2.3 Rename ledger",
+  "OldName": "(a real name; the siren)",
+  "NewName": "Katya (Katija when Vaulknut says it)",
+  "Date": "Sep 4",
+  "Note": "Spelling law, section 5",
+  "EarlyName": "",
+  "NameInTheCommitLog": ""
+ },
+ {
+  "Name": "JoeJoeTheMiniaturist",
+  "LedgerSection": "2.3 Rename ledger",
+  "OldName": "Joe, Joe the Miniaturist",
+  "NewName": "The Collector",
+  "Date": "Sep 9, Sep 11",
+  "Note": "One Joe; diner keeps \"Joe's\"",
+  "EarlyName": "",
+  "NameInTheCommitLog": ""
+ },
+ {
+  "Name": "ARealName_4",
+  "LedgerSection": "2.3 Rename ledger",
+  "OldName": "(a real name)",
+  "NewName": "The Archivist; Harry",
+  "Date": "Sep 9, Sep 11",
+  "Note": "Faire name Harry",
+  "EarlyName": "",
+  "NameInTheCommitLog": ""
+ },
+ {
+  "Name": "EarlierWorkingNameWithheld",
+  "LedgerSection": "2.3 Rename ledger",
+  "OldName": "(earlier working name withheld)",
+  "NewName": "Oceanianoir",
+  "Date": "Sep 3, Sep 12",
+  "Note": "Real name never in canon",
+  "EarlyName": "",
+  "NameInTheCommitLog": ""
+ },
+ {
+  "Name": "ARealName_5",
+  "LedgerSection": "2.3 Rename ledger",
+  "OldName": "(a real name)",
+  "NewName": "Aurallia",
+  "Date": "Sep 3",
+  "Note": "Client's spelling; Elio proposed \"Aurelia\"",
+  "EarlyName": "",
+  "NameInTheCommitLog": ""
+ },
+ {
+  "Name": "Anna",
+  "LedgerSection": "2.3 Rename ledger",
+  "OldName": "Anna",
+  "NewName": "Bramble",
+  "Date": "Sep 4",
+  "Note": "",
+  "EarlyName": "",
+  "NameInTheCommitLog": ""
+ },
+ {
+  "Name": "ARealName_6",
+  "LedgerSection": "2.3 Rename ledger",
+  "OldName": "(a real name)",
+  "NewName": "Speter Adams",
+  "Date": "Sep 3",
+  "Note": "",
+  "EarlyName": "",
+  "NameInTheCommitLog": ""
+ },
+ {
+  "Name": "Wednesday",
+  "LedgerSection": "2.3 Rename ledger",
+  "OldName": "Wednesday (Addams)",
+  "NewName": "Belladonna",
+  "Date": "Sep 3",
+  "Note": "Cosmic crew \"The Wednesday\" kept",
+  "EarlyName": "",
+  "NameInTheCommitLog": ""
+ },
+ {
+  "Name": "Aughra",
+  "LedgerSection": "2.3 Rename ledger",
+  "OldName": "Aughra",
+  "NewName": "Fibonacci",
+  "Date": "Sep 3",
+  "Note": "",
+  "EarlyName": "",
+  "NameInTheCommitLog": ""
+ },
+ {
+  "Name": "Radagast",
+  "LedgerSection": "2.3 Rename ledger",
+  "OldName": "Radagast",
+  "NewName": "The Greenward, then Sorrel",
+  "Date": "Sep 3, Sep 10",
+  "Note": "See \"To reconcile\"",
+  "EarlyName": "",
+  "NameInTheCommitLog": ""
+ },
+ {
+  "Name": "Beorn",
+  "LedgerSection": "2.3 Rename ledger",
+  "OldName": "Beorn",
+  "NewName": "The Bearsark",
+  "Date": "Sep 3",
+  "Note": "Flag met_beorn still needs renaming",
+  "EarlyName": "",
+  "NameInTheCommitLog": ""
+ },
+ {
+  "Name": "Uhtred",
+  "LedgerSection": "2.3 Rename ledger",
+  "OldName": "Uhtred",
+  "NewName": "The Wayfarer",
+  "Date": "Sep 3",
+  "Note": "Waystone (Camelot recovery character) is separate",
+  "EarlyName": "",
+  "NameInTheCommitLog": ""
+ },
+ {
+  "Name": "Archimedes",
+  "LedgerSection": "2.3 Rename ledger",
+  "OldName": "Archimedes",
+  "NewName": "Noctua",
+  "Date": "Sep 3, Sep 10",
+  "Note": "Storage filenames keep legacy names",
+  "EarlyName": "",
+  "NameInTheCommitLog": ""
+ },
+ {
+  "Name": "Ryuk",
+  "LedgerSection": "2.3 Rename ledger",
+  "OldName": "Ryuk",
+  "NewName": "True Form",
+  "Date": "Sep 3",
+  "Note": "",
+  "EarlyName": "",
+  "NameInTheCommitLog": ""
+ },
+ {
+  "Name": "ARealNameNPC",
+  "LedgerSection": "2.3 Rename ledger",
+  "OldName": "(a real name) (NPC)",
+  "NewName": "Quire",
+  "Date": "Sep 3",
+  "Note": "Player slot FOLIO",
+  "EarlyName": "",
+  "NameInTheCommitLog": ""
+ },
+ {
+  "Name": "Wart",
+  "LedgerSection": "2.3 Rename ledger",
+  "OldName": "Wart",
+  "NewName": "Artair (child), Artorios (king), Arcturus (elder)",
+  "Date": "Sep 10",
+  "Note": "Elio's \"Arth\" dropped",
+  "EarlyName": "",
+  "NameInTheCommitLog": ""
+ },
+ {
+  "Name": "MiracleMax",
+  "LedgerSection": "2.3 Rename ledger",
+  "OldName": "Miracle Max",
+  "NewName": "Calder (Master Calder)",
+  "Date": "Sep 22",
+  "Note": "Princess Bride credit kept in inspiration notes; old profile link works",
+  "EarlyName": "",
+  "NameInTheCommitLog": ""
+ },
+ {
+  "Name": "BillThePlatypusAndTheDuck",
+  "LedgerSection": "2.3 Rename ledger",
+  "OldName": "Bill the Platypus and the Duck",
+  "NewName": "Bill the Duck",
+  "Date": "Sep 11",
+  "Note": "Bill on files, Duck aloud (Sep 16)",
+  "EarlyName": "",
+  "NameInTheCommitLog": ""
+ },
+ {
+  "Name": "Dobby",
+  "LedgerSection": "2.3 Rename ledger",
+  "OldName": "Dobby",
+  "NewName": "Dobbie",
+  "Date": "Sep 10",
+  "Note": "85 references",
+  "EarlyName": "",
+  "NameInTheCommitLog": ""
+ },
+ {
+  "Name": "ExaminerCartographer",
+  "LedgerSection": "2.3 Rename ledger",
+  "OldName": "Examiner / Cartographer (placeholders)",
+  "NewName": "Saker / Wren; Soma for Clockwork interoception",
+  "Date": "Sep 10",
+  "Note": "",
+  "EarlyName": "",
+  "NameInTheCommitLog": ""
+ },
+ {
+  "Name": "MadameMim",
+  "LedgerSection": "2.3a Earlier rename trail (Aug 24 to Aug 30)",
+  "OldName": "",
+  "NewName": "",
+  "Date": "Aug 24 to 30",
+  "Note": "Built (commit [b9a96ce], 19 files, filenames changed). Brim is the beta value; Sep 9 ledger confirms it",
+  "EarlyName": "Madame Mim",
+  "NameInTheCommitLog": "Madame Mimic, then Madame (Aug 24); Mim again (Aug 30); Brim (Aug 30, 22:32)"
+ },
+ {
+  "Name": "MagrittePipe",
+  "LedgerSection": "2.3a Earlier rename trail (Aug 24 to Aug 30)",
+  "OldName": "",
+  "NewName": "",
+  "Date": "Aug 30",
+  "Note": "Built (commit [b9a96ce], 19 files)",
+  "EarlyName": "Magritte Pipe",
+  "NameInTheCommitLog": "Monsieur Sentient"
+ },
+ {
+  "Name": "Cthulhu_2",
+  "LedgerSection": "2.3a Earlier rename trail (Aug 24 to Aug 30)",
+  "OldName": "",
+  "NewName": "",
+  "Date": "Aug 30",
+  "Note": "Built (commit [b4aae5f]). The ledger above lists Aug 30 and Sep 3",
+  "EarlyName": "Cthulhu",
+  "NameInTheCommitLog": "Naut"
+ },
+ {
+  "Name": "PlayerGuide",
+  "LedgerSection": "2.3a Earlier rename trail (Aug 24 to Aug 30)",
+  "OldName": "",
+  "NewName": "",
+  "Date": "Aug 30",
+  "Note": "Built (commit [b4aae5f]). Lark is not in the roster tables",
+  "EarlyName": "Player Guide",
+  "NameInTheCommitLog": "Lark"
+ },
+ {
+  "Name": "RadagastTheBrown",
+  "LedgerSection": "2.3a Earlier rename trail (Aug 24 to Aug 30)",
+  "OldName": "",
+  "NewName": "",
+  "Date": "Aug 24",
+  "Note": "Built (commit [4b4f602]). Later Sorrel (Sep 10)",
+  "EarlyName": "Radagast the Brown",
+  "NameInTheCommitLog": "The Greenward"
+ },
+ {
+  "Name": "Beorn_2",
+  "LedgerSection": "2.3a Earlier rename trail (Aug 24 to Aug 30)",
+  "OldName": "",
+  "NewName": "",
+  "Date": "Aug 24",
+  "Note": "Built (commit [4b4f602])",
+  "EarlyName": "Beorn",
+  "NameInTheCommitLog": "The Bearsark"
+ },
+ {
+  "Name": "Jareth_2",
+  "LedgerSection": "2.3a Earlier rename trail (Aug 24 to Aug 30)",
+  "OldName": "",
+  "NewName": "",
+  "Date": "Aug 24",
+  "Note": "Built (commit [4b4f602]). Later Malachi. Aug 25 commit [f46260d] still says \"Jareth v3\"",
+  "EarlyName": "Jareth",
+  "NameInTheCommitLog": "The Ravel"
+ },
+ {
+  "Name": "Uhtred_2",
+  "LedgerSection": "2.3a Earlier rename trail (Aug 24 to Aug 30)",
+  "OldName": "",
+  "NewName": "",
+  "Date": "Aug 24",
+  "Note": "Built (commit [4b4f602], confirmed by [8f278b5])",
+  "EarlyName": "Uhtred",
+  "NameInTheCommitLog": "The Wayfarer"
+ },
+ {
+  "Name": "Aughra_2",
+  "LedgerSection": "2.3a Earlier rename trail (Aug 24 to Aug 30)",
+  "OldName": "",
+  "NewName": "",
+  "Date": "Aug 24",
+  "Note": "Built (commit [4b4f602]). Later Fibonacci",
+  "EarlyName": "Aughra",
+  "NameInTheCommitLog": "The Augur"
+ },
+ {
+  "Name": "Archimedes_2",
+  "LedgerSection": "2.3a Earlier rename trail (Aug 24 to Aug 30)",
+  "OldName": "",
+  "NewName": "",
+  "Date": "Aug 24",
+  "Note": "Built (commit [4b4f602])",
+  "EarlyName": "Archimedes (owl)",
+  "NameInTheCommitLog": "Noctua"
+ },
+ {
+  "Name": "WednesdayAddams",
+  "LedgerSection": "2.3a Earlier rename trail (Aug 24 to Aug 30)",
+  "OldName": "",
+  "NewName": "",
+  "Date": "Aug 24",
+  "Note": "Built (commits [4b4f602], [8f278b5]). The ledger lists Sep 3. \"The Wednesday\" crew name is kept",
+  "EarlyName": "Wednesday Addams",
+  "NameInTheCommitLog": "Wednesday, then Belladonna"
+ },
+ {
+  "Name": "RyukForm",
+  "LedgerSection": "2.3a Earlier rename trail (Aug 24 to Aug 30)",
+  "OldName": "",
+  "NewName": "",
+  "Date": "Aug 24",
+  "Note": "Built (commit [4b4f602])",
+  "EarlyName": "Ryuk Form",
+  "NameInTheCommitLog": "True Form"
+ },
+ {
+  "Name": "Murdoch",
+  "LedgerSection": "2.3a Earlier rename trail (Aug 24 to Aug 30)",
+  "OldName": "",
+  "NewName": "",
+  "Date": "Aug 29",
+  "Note": "Built (commit, Aug 29): the first fix called Murlic \"the client's original character name, not a typo\"; one minute later it was fixed to Murloc, the game fish-creature. Final: Murloc",
+  "EarlyName": "Murdoch",
+  "NameInTheCommitLog": "Murlic, then Murloc"
+ },
+ {
+  "Name": "EloraNightbloom",
+  "LedgerSection": "2.3a Earlier rename trail (Aug 24 to Aug 30)",
+  "OldName": "",
+  "NewName": "",
+  "Date": "Aug 30",
+  "Note": "Built (commit [efae82d]): the first name belongs to a film character",
+  "EarlyName": "Elora Nightbloom",
+  "NameInTheCommitLog": "Briar Nightbloom"
+ },
+ {
+  "Name": "TheSeelieKing",
+  "LedgerSection": "2.3a Earlier rename trail (Aug 24 to Aug 30)",
+  "OldName": "",
+  "NewName": "",
+  "Date": "Aug 30",
+  "Note": "Built (commit [8475acf]); pronounced \"Leander\" with a silent O. Five options were offered, Aurelian recommended",
+  "EarlyName": "The Seelie King (unnamed)",
+  "NameInTheCommitLog": "Oleander"
+ },
+ {
+  "Name": "TheCabbit",
+  "LedgerSection": "2.3a Earlier rename trail (Aug 24 to Aug 30)",
+  "OldName": "",
+  "NewName": "",
+  "Date": "Aug 24 and Aug 28",
+  "Note": "Built (commit [bdbe90b]): \"Name the cabbit Eres, update all references\"",
+  "EarlyName": "the Cabbit (name TBD)",
+  "NameInTheCommitLog": "Eres"
+ },
+ {
+  "Name": "ARealPersonsNameAsAnNPC",
+  "LedgerSection": "2.3a Earlier rename trail (Aug 24 to Aug 30)",
+  "OldName": "",
+  "NewName": "",
+  "Date": "Aug 30",
+  "Note": "Ruled (commit, Aug 30). Same day Lozen was confirmed as the Sentinel's in-game name, so Lozen predates the Sep 9 ledger",
+  "EarlyName": "a real person's name as an NPC",
+  "NameInTheCommitLog": "Quire"
+ }
+]

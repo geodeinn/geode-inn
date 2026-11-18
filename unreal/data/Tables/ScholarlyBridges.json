@@ -1,0 +1,58 @@
+[
+ {
+  "Name": "6a94eec46de45c7c86b3f5d1",
+  "Note": "Maps Homeric beasts to the Inn's Archive.",
+  "ScholarName": "Beverley the Librarian",
+  "BridgeLanguage": "English",
+  "Year": 2026,
+  "BookId": "6a94eebb69c2e19dc973c6ca",
+  "BookTitle": "The Iliad",
+  "Base44Id": "6a94eec46de45c7c86b3f5d1",
+  "CreatedDate": "2026-08-31T03:02:28.558000",
+  "UpdatedDate": "2026-08-31T03:02:28.558000",
+  "Sources": "live",
+  "LiveValues": ""
+ },
+ {
+  "Name": "6a94eec46de45c7c86b3f5d2",
+  "Note": "Djinn taxonomy cross-referenced with the World Map.",
+  "ScholarName": "Tumble the Fizgig",
+  "BridgeLanguage": "English",
+  "Year": 2026,
+  "BookId": "6a94eebb69c2e19dc973c6ce",
+  "BookTitle": "One Thousand and One Nights",
+  "Base44Id": "6a94eec46de45c7c86b3f5d2",
+  "CreatedDate": "2026-08-31T03:02:28.558000",
+  "UpdatedDate": "2026-08-31T03:02:28.558000",
+  "Sources": "live",
+  "LiveValues": ""
+ },
+ {
+  "Name": "6a94eec46de45c7c86b3f5d3",
+  "Note": "As-above-so-below resonance key, holds the Staircase.",
+  "ScholarName": "The Alchemist",
+  "BridgeLanguage": "Latin",
+  "Year": 1300,
+  "BookId": "6a94eebb69c2e19dc973c6d0",
+  "BookTitle": "The Emerald Tablet",
+  "Base44Id": "6a94eec46de45c7c86b3f5d3",
+  "CreatedDate": "2026-08-31T03:02:28.558000",
+  "UpdatedDate": "2026-08-31T03:02:28.558000",
+  "Sources": "live",
+  "LiveValues": ""
+ },
+ {
+  "Name": "6a94eec46de45c7c86b3f5d4",
+  "Note": "Xibalba passages aligned to the Hollow Earth.",
+  "ScholarName": "Admiral Byrd",
+  "BridgeLanguage": "English",
+  "Year": 2025,
+  "BookId": "6a94eebb69c2e19dc973c6d3",
+  "BookTitle": "The Popol Vuh",
+  "Base44Id": "6a94eec46de45c7c86b3f5d4",
+  "CreatedDate": "2026-08-31T03:02:28.558000",
+  "UpdatedDate": "2026-08-31T03:02:28.558000",
+  "Sources": "live",
+  "LiveValues": ""
+ }
+]

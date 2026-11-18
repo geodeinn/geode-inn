@@ -1,0 +1,110 @@
+[
+ {
+  "Name": "1Cosmology",
+  "Section": "6.1 The nine levels",
+  "Level": "1 Cosmology",
+  "PainterLine": "Dali, no-outline (Dali moved upstairs Sep 4); Turner named earlier",
+  "Music": "Jon Hopkins (R, agreed Sep 26); Earth & Sky early track",
+  "KeepersAndHosts": "The Allfather, Freyr, Freyja, the Astronomer (Zack), Nyx, Bramble (window nook), Nine Muses",
+  "Status": "Ruled. Spec complete; rooms KIT-Z owed"
+ },
+ {
+  "Name": "2ClockworkSkies",
+  "Section": "6.1 The nine levels",
+  "Level": "2 Clockwork Skies",
+  "PainterLine": "Dali melting gearwork (Ruled Sep 4; Kandinsky retired to Shadow Inn)",
+  "Music": "Gear heart at 50 BPM",
+  "KeepersAndHosts": "The Captain, the crew of eight, Leonardo (Crystal Canticle host, R Sep 26), Cartographer (Soma maps)",
+  "Status": "Ruled. Spec done; KIT-Z owed"
+ },
+ {
+  "Name": "3MainFloor",
+  "Section": "6.1 The nine levels",
+  "Level": "3 Main Floor",
+  "PainterLine": "Matisse holds the light; Van Gogh and Picasso as rooms; Klimt amber weight",
+  "Music": "Royal Fire / warm (early); Main Floor warm 1.2 s room profile",
+  "KeepersAndHosts": "The Host, the Catalyst, the Firekeeper, the Bard, Ragana, Lozen, Naut, Aurallia",
+  "Status": "Ruled. Most-built level"
+ },
+ {
+  "Name": "4Campgrounds",
+  "Section": "6.1 The nine levels",
+  "Level": "4 Campgrounds",
+  "PainterLine": "Bierstadt / Carr per template; Rousseau honest ground for the exterior; Emily Carr woods",
+  "Music": "Faun and Patty Gurdy tavern-folk for the campfire (R Sep 26); campfire drone",
+  "KeepersAndHosts": "Jay, Wisteria, Luna, Frank Wright (Build-Scholar), the Glassblower",
+  "Status": "Ruled. Spec done; many rooms owed"
+ },
+ {
+  "Name": "5Staircase",
+  "Section": "6.1 The nine levels",
+  "Level": "5 Staircase",
+  "PainterLine": "Matisse one-stroke cutouts; Rackham, Escher, Klimt in the older template",
+  "Music": "Tool \"Lateralus\" (R Sep 26); Patty Gurdy on interaction (agreed); the Turning track",
+  "KeepersAndHosts": "Calder and Unless, the Retort and Bloop, the Cook, the Clockmaker (Turning), Gesso, Da Vinci",
+  "Status": "Ruled. Dissection D03"
+ },
+ {
+  "Name": "6Catacombs",
+  "Section": "6.1 The nine levels",
+  "Level": "6 Catacombs",
+  "PainterLine": "Klimt gold (Goya named in the Sep 3 chat)",
+  "Music": "Heilung (agreed Sep 26); Vivaldi Winter low-dub",
+  "KeepersAndHosts": "Ragana (Archive), Beverley, Charon, the Doorkeeper, Saker, the Bone Keeper",
+  "Status": "Ruled. Build sheet Sep 2; D04"
+ },
+ {
+  "Name": "7FaeKingdom",
+  "Section": "6.1 The nine levels",
+  "Level": "7 Fae Kingdom",
+  "PainterLine": "Rackham ink, Alan Lee on the Seelie court, John Bauer on the Unseelie (R Sep 4)",
+  "Music": "Tangerine Dream for Malachi, Harlots-style baroque for the Seelie (R Sep 26)",
+  "KeepersAndHosts": "Oleander, Malachi, the Queens, the Norns",
+  "Status": "Ruled. D07/D07B; four partials caught up Sep 11"
+ },
+ {
+  "Name": "8WaterZone",
+  "Section": "6.1 The nine levels",
+  "Level": "8 Water Zone",
+  "PainterLine": "Royo; gothic anime; Haeckel linework for hybrids (Sep 25)",
+  "Music": "Ocean's Edge (early); siren two-mix rule (R Sep 25)",
+  "KeepersAndHosts": "Persephone, Zeke, Katya, Charon, Naut",
+  "Status": "Ruled. Water system master spec; D06"
+ },
+ {
+  "Name": "9Undercity",
+  "Section": "6.1 The nine levels",
+  "Level": "9 Undercity",
+  "PainterLine": "Klimt gold gothic",
+  "Music": "Depeche Mode style; Heilung (client list, R Sep 26)",
+  "KeepersAndHosts": "Scarlett, the Clockmaker, the Blacksmith, Belladonna, the Collector (Joe), Ampulla",
+  "Status": "Ruled. D05"
+ },
+ {
+  "Name": "HollowEarth",
+  "Section": "6.1 The nine levels",
+  "Level": "Hollow Earth",
+  "PainterLine": "O'Keeffe key; Roerich violet at the Resonance Engine; all 37 artists converge",
+  "Music": "Lava-lamp zone: Gregorian chant with a Pink Floyd undertone (R Sep 26)",
+  "KeepersAndHosts": "Faction leaders (Echo, Lost); Vane; the Deep Ones",
+  "Status": "Ruled structure; districts section 6.7"
+ },
+ {
+  "Name": "LevelInBetween",
+  "Section": "6.1 The nine levels",
+  "Level": "Level ½ In-Between",
+  "PainterLine": "Grey; Escher holds the Between",
+  "Music": "Moonlight Sonata low-dub, 42Hz minimum (R Sep 26)",
+  "KeepersAndHosts": "Einstein; the Head Finder at Lost and Found",
+  "Status": "Ruled Oct 14"
+ },
+ {
+  "Name": "TheVoid",
+  "Section": "6.1 The nine levels",
+  "Level": "The Void",
+  "PainterLine": "No outline; silence",
+  "Music": "None: the heartbeat is the melody",
+  "KeepersAndHosts": "Nyx; the Rest bench",
+  "Status": "Ruled Oct 14; thin"
+ }
+]

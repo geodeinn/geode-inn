@@ -1,0 +1,776 @@
+[
+ {
+  "Name": "TheHost",
+  "RosterGroup": "Hearth and Main Floor",
+  "DisplayName": "The Host",
+  "Role": "Innkeeper at the Great Hall door; brass lantern",
+  "Zone": "Main Floor",
+  "VoiceCasting": "Patrick Stewart cadence and posture; warm, unhurried",
+  "Status": "Ruled; dossier; posture ruled Sep 27; also a tribute to Sir Patrick Stewart (Oct 31, see 1.9)"
+ },
+ {
+  "Name": "TheCatalyst",
+  "RosterGroup": "Hearth and Main Floor",
+  "DisplayName": "The Catalyst",
+  "Role": "Bartender of the Impossible Garden bar; story-for-drink economy",
+  "Zone": "Main Floor",
+  "VoiceCasting": "Helena Bonham Carter presence, leaning on a Lovett warmth with teeth; hook \"What changes?\"",
+  "Status": "Ruled; evolved Sep 27; posture open"
+ },
+ {
+  "Name": "TheFirekeeper",
+  "RosterGroup": "Hearth and Main Floor",
+  "DisplayName": "The Firekeeper",
+  "Role": "Fire storyteller at the hearth corner",
+  "Zone": "Main Floor",
+  "VoiceCasting": "Tim Curry tribute (ruled Sep 10, replacing the Bard in that seat); hook \"Tend.\"",
+  "Status": "Ruled"
+ },
+ {
+  "Name": "TheBard",
+  "RosterGroup": "Hearth and Main Floor",
+  "DisplayName": "The Bard (Bard Blowhard)",
+  "Role": "Musician; kilt and pipes; dock sessions with Zeke",
+  "Zone": "Main Floor, Meadery, Campgrounds",
+  "VoiceCasting": "Five registers (4.4); Porthos volume",
+  "Status": "Ruled; dossier"
+ },
+ {
+  "Name": "Ragana",
+  "RosterGroup": "Hearth and Main Floor",
+  "DisplayName": "Ragana (was the Crone)",
+  "Role": "Librarian; measures all phenomena",
+  "Zone": "Main Floor, Archive",
+  "VoiceCasting": "Hopkins gaze; West Country English; hook \"Sit.\"; posture Weeza, rarely Maleficent",
+  "Status": "Ruled Sep 9; dossier"
+ },
+ {
+  "Name": "Beverley",
+  "RosterGroup": "Hearth and Main Floor",
+  "DisplayName": "Beverley",
+  "Role": "Original librarian of the stacks; two-thirds height",
+  "Zone": "Archive",
+  "VoiceCasting": "Clipped Australian; hook \"Obviously.\"",
+  "Status": "Ruled; keeps her mannerisms (Sep 11)"
+ },
+ {
+  "Name": "Quire",
+  "RosterGroup": "Hearth and Main Floor",
+  "DisplayName": "Quire (The Reader)",
+  "Role": "Scholar of margins; keeper of the Ajivika shelf",
+  "Zone": "Archive",
+  "VoiceCasting": "Soft British, Gaiman-adjacent; hook \"Noticed.\"",
+  "Status": "Ruled"
+ },
+ {
+  "Name": "Naut",
+  "RosterGroup": "Hearth and Main Floor",
+  "DisplayName": "Naut",
+  "Role": "Squid-headed scholar by the fireplace",
+  "Zone": "Main Floor, Archive",
+  "VoiceCasting": "Quiet scholarly; hook \"Fascinating.\"",
+  "Status": "Ruled Sep 3"
+ },
+ {
+  "Name": "Brim",
+  "RosterGroup": "Hearth and Main Floor",
+  "DisplayName": "Brim",
+  "Role": "Chaos agent; mimic; pipe that is not a pipe",
+  "Zone": "Main Floor",
+  "VoiceCasting": "Mimic-shifting; hook \"Watch this.\"; Joker card",
+  "Status": "Ruled Sep 9 (Brim, not Mimm)"
+ },
+ {
+  "Name": "Ziggy",
+  "RosterGroup": "Hearth and Main Floor",
+  "DisplayName": "Ziggy",
+  "Role": "Crested gecko; Brim's shoulder counterweight; counts the player's returns",
+  "Zone": "Main Floor, Geode Corner, Clockwork Skies",
+  "VoiceCasting": "Danny Kaye \"Court Jester\" patter",
+  "Status": "Ruled Sep 10"
+ },
+ {
+  "Name": "Eres",
+  "RosterGroup": "Hearth and Main Floor",
+  "DisplayName": "Eres",
+  "Role": "Cabbit; the Vessel; companion of the Constant",
+  "Zone": "Cosmology",
+  "VoiceCasting": "Nonverbal (purr)",
+  "Status": "Ruled Sep 10"
+ },
+ {
+  "Name": "TheWandererOdinTheAllfather",
+  "RosterGroup": "Hearth and Main Floor",
+  "DisplayName": "The Wanderer / Odin the Allfather",
+  "Role": "One figure in two registers",
+  "Zone": "Main Floor / Cosmology",
+  "VoiceCasting": "Hook \"Passing through.\"",
+  "Status": "Ruled"
+ },
+ {
+  "Name": "Molly",
+  "RosterGroup": "Hearth and Main Floor",
+  "DisplayName": "Molly",
+  "Role": "Six-foot leprechaun; instigator; summoned by name",
+  "Zone": "Main Floor",
+  "VoiceCasting": "Deep brogue; Peaky Blinder cap",
+  "Status": "Ruled Sep 16"
+ },
+ {
+  "Name": "BillTheDuck",
+  "RosterGroup": "Hearth and Main Floor",
+  "DisplayName": "Bill the Duck",
+  "Role": "Platypus; the honest thief; also called Duck",
+  "Zone": "Crystal Gardens, roams",
+  "VoiceCasting": "Nonverbal; one quack per act",
+  "Status": "Ruled Sep 11 and Sep 16"
+ },
+ {
+  "Name": "JudgeTootenkowl",
+  "RosterGroup": "Hearth and Main Floor",
+  "DisplayName": "Judge Tootenkowl",
+  "Role": "Owl-headed frog judge; deals Stone Poker; presides at Frog Court",
+  "Zone": "Campgrounds, Poker back room",
+  "VoiceCasting": "Judge register",
+  "Status": "Ruled Sep 11"
+ },
+ {
+  "Name": "ThePostmaster",
+  "RosterGroup": "Hearth and Main Floor",
+  "DisplayName": "The Postmaster",
+  "Role": "Skeleton who dispatches the Inn Post; silent",
+  "Zone": "Bone Room dock",
+  "VoiceCasting": "Rib-xylophone, looping-script notes; Zoidberg-shaped role",
+  "Status": "Ruled Sep 11, Sep 22"
+ },
+ {
+  "Name": "TheCollector",
+  "RosterGroup": "Hearth and Main Floor",
+  "DisplayName": "The Collector (Joe)",
+  "Role": "Miniaturist and painter; diner owner",
+  "Zone": "Undercity",
+  "VoiceCasting": "Tom Ellis \"Lucifer\" cadence; hook \"Delightful.\"",
+  "Status": "Ruled Sep 9 and Sep 11"
+ },
+ {
+  "Name": "TheTeacher",
+  "RosterGroup": "Hearth and Main Floor",
+  "DisplayName": "The Teacher",
+  "Role": "Three-mode instructor",
+  "Zone": "Main Floor",
+  "VoiceCasting": "Canadian, Kathy Bates range; hook \"Incorrect.\"",
+  "Status": "Ruled (voice block)"
+ },
+ {
+  "Name": "MonsieurSentient",
+  "RosterGroup": "Hearth and Main Floor",
+  "DisplayName": "Monsieur Sentient",
+  "Role": "Sentient pipe, Brim's partner",
+  "Zone": "Main Floor",
+  "VoiceCasting": "Faint French; hook \"Absurd.\"",
+  "Status": "Ruled (voice block)"
+ },
+ {
+  "Name": "TheOwl",
+  "RosterGroup": "Hearth and Main Floor",
+  "DisplayName": "The Owl",
+  "Role": "The bloodline watcher",
+  "Zone": "Cosmology",
+  "VoiceCasting": "One word per heartbeat; hook \"Watching.\"",
+  "Status": "Ruled"
+ },
+ {
+  "Name": "Aurallia",
+  "RosterGroup": "Hearth and Main Floor",
+  "DisplayName": "Aurallia",
+  "Role": "The Hearth; one-step warmth; cave studio",
+  "Zone": "Main Floor, Spiral Gallery",
+  "VoiceCasting": "Dossier; five weave gates ruled Sep 18",
+  "Status": "Ruled Sep 3"
+ },
+ {
+  "Name": "Oriel",
+  "RosterGroup": "Hearth and Main Floor",
+  "DisplayName": "Oriel",
+  "Role": "Recurring silver-haired figure; companion in all zones, aid in the between",
+  "Zone": "Corridors and thresholds",
+  "VoiceCasting": "Four registers (host, scout, keeper, pourer)",
+  "Status": "Seed; role ruled Oct 9"
+ },
+ {
+  "Name": "EmberAndSpark",
+  "RosterGroup": "Hearth and Main Floor",
+  "DisplayName": "Ember and Spark",
+  "Role": "Hearth sprites; named by the fizgigs",
+  "Zone": "Main Floor",
+  "VoiceCasting": "Nonverbal",
+  "Status": "Ruled Sep 1"
+ },
+ {
+  "Name": "TheStoryteller",
+  "RosterGroup": "Hearth and Main Floor",
+  "DisplayName": "The Storyteller",
+  "Role": "Voices the Gazette strips; Living portrait made Sep 1",
+  "Zone": "Main Floor",
+  "VoiceCasting": "",
+  "Status": "Ruled"
+ },
+ {
+  "Name": "GessoTheCeilingGnome",
+  "RosterGroup": "Hearth and Main Floor",
+  "DisplayName": "Gesso the Ceiling Gnome",
+  "Role": "Silent examiner on the Staircase ceiling; mirror script",
+  "Zone": "Staircase",
+  "VoiceCasting": "Plaster-dust, never speaks to NPCs",
+  "Status": "Ruled"
+ },
+ {
+  "Name": "Lozen",
+  "RosterGroup": "Hearth and Main Floor",
+  "DisplayName": "Lozen",
+  "Role": "The Sentinel; guards the Front Door",
+  "Zone": "Main Floor, 7-Layer Deep",
+  "VoiceCasting": "Boxer cadence; \"Halt.\" then \"Oi.\"",
+  "Status": "Ruled; dossier"
+ },
+ {
+  "Name": "Vaulknut",
+  "RosterGroup": "Player-class and family-layer characters",
+  "DisplayName": "Vaulknut",
+  "Role": "Artisan Thief; selkie who chose the bench; raven doctor-mask",
+  "Zone": "Tidal Caves, Campgrounds",
+  "VoiceCasting": "Bog Fairy Golem voice; hook \"Make it true.\"",
+  "Status": "Ruled Sep 3, Sep 11; dossier"
+ },
+ {
+  "Name": "Charles",
+  "RosterGroup": "Player-class and family-layer characters",
+  "DisplayName": "Charles (Chameleon Druid)",
+  "Role": "Shapeshifter; garden and forest",
+  "Zone": "Fae Kingdom, garden",
+  "VoiceCasting": "Cillian Murphy stillness, Cumberbatch frame",
+  "Status": "Ruled; dossier"
+ },
+ {
+  "Name": "Katya",
+  "RosterGroup": "Player-class and family-layer characters",
+  "DisplayName": "Katya (Katija)",
+  "Role": "The Siren; guards the Water Door",
+  "Zone": "7-Layer Deep",
+  "VoiceCasting": "Hook \"Depth.\"",
+  "Status": "Ruled; dossier"
+ },
+ {
+  "Name": "Zeke",
+  "RosterGroup": "Player-class and family-layer characters",
+  "DisplayName": "Zeke",
+  "Role": "The Pirate; drummer; bodhran at 50 BPM",
+  "Zone": "Water, docks",
+  "VoiceCasting": "Full name Zaragoza or Ezekiel (running gag)",
+  "Status": "Ruled"
+ },
+ {
+  "Name": "TheTinkeringWeeaboo",
+  "RosterGroup": "Player-class and family-layer characters",
+  "DisplayName": "The Tinkering Weeaboo",
+  "Role": "Changeling class; annoyance meter 0 to 4",
+  "Zone": "Clockwork Skies",
+  "VoiceCasting": "Shinigami true form",
+  "Status": "Ruled; renaming right"
+ },
+ {
+  "Name": "SpeterAdams",
+  "RosterGroup": "Player-class and family-layer characters",
+  "DisplayName": "Speter Adams",
+  "Role": "Chameleon, Dollkeeper; six zone variants",
+  "Zone": "Catacombs, Cosmology, Staircase, Undercity, Water",
+  "VoiceCasting": "",
+  "Status": "Ruled Sep 3"
+ },
+ {
+  "Name": "Bramble",
+  "RosterGroup": "Player-class and family-layer characters",
+  "DisplayName": "Bramble (was Anna)",
+  "Role": "The Seer, doodler; no-outline rendering",
+  "Zone": "Cosmology nook",
+  "VoiceCasting": "",
+  "Status": "Ruled Sep 4"
+ },
+ {
+  "Name": "Luna",
+  "RosterGroup": "Player-class and family-layer characters",
+  "DisplayName": "Luna (true name Taaffeite)",
+  "Role": "Zen jeweler",
+  "Zone": "Campgrounds",
+  "VoiceCasting": "",
+  "Status": "Ruled Sep 9; dossier"
+ },
+ {
+  "Name": "Greg",
+  "RosterGroup": "Player-class and family-layer characters",
+  "DisplayName": "Greg",
+  "Role": "Luna's husband; artisan",
+  "Zone": "Campgrounds",
+  "VoiceCasting": "Reserved player slot",
+  "Status": "Seed; dossier"
+ },
+ {
+  "Name": "Zack",
+  "RosterGroup": "Player-class and family-layer characters",
+  "DisplayName": "Zack",
+  "Role": "The Astronomer",
+  "Zone": "Cosmology",
+  "VoiceCasting": "Einstein plus Cumberbatch art cast",
+  "Status": "Ruled; dossier"
+ },
+ {
+  "Name": "Maddi",
+  "RosterGroup": "Player-class and family-layer characters",
+  "DisplayName": "Maddi",
+  "Role": "Zack's wife; Social Butterfly Double Agent employee",
+  "Zone": "Cosmology",
+  "VoiceCasting": "\"Have you eaten?\"",
+  "Status": "Ruled; dossier"
+ },
+ {
+  "Name": "JayWisteria",
+  "RosterGroup": "Player-class and family-layer characters",
+  "DisplayName": "Jay, Wisteria",
+  "Role": "Huntsman Tavern keepers",
+  "Zone": "Campgrounds",
+  "VoiceCasting": "Wisteria is an alseid-cervitaur (Sep 22)",
+  "Status": "Ruled; dossiers"
+ },
+ {
+  "Name": "TJAndGabby",
+  "RosterGroup": "Player-class and family-layer characters",
+  "DisplayName": "TJ and Gabby",
+  "Role": "Tavern children",
+  "Zone": "Campgrounds",
+  "VoiceCasting": "Parental Gate",
+  "Status": "Dormant (5.1)"
+ },
+ {
+  "Name": "Lichenblossom",
+  "RosterGroup": "Player-class and family-layer characters",
+  "DisplayName": "Lichenblossom",
+  "Role": "Plant necromancer; volunteer artisan",
+  "Zone": "Market, garden",
+  "VoiceCasting": "New image is the NPC master; the client's own is the player-character portrait (Sep 11)",
+  "Status": "Ruled; dossier"
+ },
+ {
+  "Name": "Oceanianoir",
+  "RosterGroup": "Player-class and family-layer characters",
+  "DisplayName": "Oceanianoir",
+  "Role": "Living Archive; chemistry docent",
+  "Zone": "Staircase lab, Atlantis",
+  "VoiceCasting": "Real name never appears in canon (ruled Sep 12)",
+  "Status": "Ruled; dossier owed"
+ },
+ {
+  "Name": "Will",
+  "RosterGroup": "Player-class and family-layer characters",
+  "DisplayName": "Will",
+  "Role": "Methodical alchemist, Oceanianoir's partner",
+  "Zone": "Staircase lab",
+  "VoiceCasting": "",
+  "Status": "Ruled"
+ },
+ {
+  "Name": "Ryan",
+  "RosterGroup": "Player-class and family-layer characters",
+  "DisplayName": "Ryan",
+  "Role": "Meadery bartender; tempo activator",
+  "Zone": "Meadery",
+  "VoiceCasting": "Barbossa voice; Ezio stance",
+  "Status": "Ruled; name may change"
+ },
+ {
+  "Name": "ScarlettJohn",
+  "RosterGroup": "Player-class and family-layer characters",
+  "DisplayName": "Scarlett, John",
+  "Role": "Aurallia's children (names pending)",
+  "Zone": "Cave studio, Undercity",
+  "VoiceCasting": "",
+  "Status": "Open: names"
+ },
+ {
+  "Name": "Calder",
+  "RosterGroup": "Staircase, Catacombs, Undercity, Archive",
+  "DisplayName": "Calder (was Miracle Max)",
+  "Role": "Staircase alchemist",
+  "Zone": "Staircase",
+  "VoiceCasting": "Lloyd personality, Walken cadence, Williams wit",
+  "Status": "Ruled Sep 22"
+ },
+ {
+  "Name": "Unless",
+  "RosterGroup": "Staircase, Catacombs, Undercity, Archive",
+  "DisplayName": "Unless",
+  "Role": "Eldest alchemical newt; companion and independent NPC",
+  "Zone": "Staircase",
+  "VoiceCasting": "Skeptic",
+  "Status": "Ruled Sep 22"
+ },
+ {
+  "Name": "Bloop",
+  "RosterGroup": "Staircase, Catacombs, Undercity, Archive",
+  "DisplayName": "Bloop",
+  "Role": "Schrodinger cat, Retort's companion",
+  "Zone": "Staircase landing",
+  "VoiceCasting": "",
+  "Status": "Ruled"
+ },
+ {
+  "Name": "TheRetort",
+  "RosterGroup": "Staircase, Catacombs, Undercity, Archive",
+  "DisplayName": "The Retort (the Alchemist)",
+  "Role": "Tesla-cast staircase character",
+  "Zone": "Staircase",
+  "VoiceCasting": "",
+  "Status": "Ruled Sep 9"
+ },
+ {
+  "Name": "TheCook",
+  "RosterGroup": "Staircase, Catacombs, Undercity, Archive",
+  "DisplayName": "The Cook",
+  "Role": "Staircase kitchen",
+  "Zone": "Staircase",
+  "VoiceCasting": "",
+  "Status": "Ruled"
+ },
+ {
+  "Name": "Charon",
+  "RosterGroup": "Staircase, Catacombs, Undercity, Archive",
+  "DisplayName": "Charon",
+  "Role": "Ferryman; carries; fare is a frequency",
+  "Zone": "Catacombs, river",
+  "VoiceCasting": "Hopkins eyes",
+  "Status": "Ruled; dossier"
+ },
+ {
+  "Name": "Persephone",
+  "RosterGroup": "Staircase, Catacombs, Undercity, Archive",
+  "DisplayName": "Persephone",
+  "Role": "Four facets: Tide Queen, Spring, The Crossing, The Giver",
+  "Zone": "Lighthouse, Catacombs",
+  "VoiceCasting": "",
+  "Status": "Ruled Sep 30; Crossing and Spring painted"
+ },
+ {
+  "Name": "AnubisHadesHelTheMorrigan",
+  "RosterGroup": "Staircase, Catacombs, Undercity, Archive",
+  "DisplayName": "Anubis, Hades, Hel, the Morrigan",
+  "Role": "Guardians and judges",
+  "Zone": "Catacombs, Cosmology",
+  "VoiceCasting": "Anubis: \"Enough\", \"Too much\", \"Lighter than you think\"",
+  "Status": "Ruled"
+ },
+ {
+  "Name": "CatacombsDoorkeeper",
+  "RosterGroup": "Staircase, Catacombs, Undercity, Archive",
+  "DisplayName": "Catacombs Doorkeeper",
+  "Role": "Plague-mask doorkeeper; carillon player; skeleton key",
+  "Zone": "Catacombs",
+  "VoiceCasting": "Mask off only for his clan on seven turns",
+  "Status": "Seed; ruled Sep 28; name owed"
+ },
+ {
+  "Name": "Screamer",
+  "RosterGroup": "Staircase, Catacombs, Undercity, Archive",
+  "DisplayName": "Screamer",
+  "Role": "Doorkeeper critter at the Catacombs seal",
+  "Zone": "Catacombs",
+  "VoiceCasting": "",
+  "Status": "Ruled Oct 5; name owed"
+ },
+ {
+  "Name": "Ghost",
+  "RosterGroup": "Staircase, Catacombs, Undercity, Archive",
+  "DisplayName": "Ghost (Old) Librarian",
+  "Role": "Keeper of voices that never made it into books",
+  "Zone": "Deep Catacombs",
+  "VoiceCasting": "\"We do not interrupt the dead.\"",
+  "Status": "Ruled Sep 22"
+ },
+ {
+  "Name": "ClockmakerBlacksmith",
+  "RosterGroup": "Staircase, Catacombs, Undercity, Archive",
+  "DisplayName": "Clockmaker, Blacksmith",
+  "Role": "Undercity makers",
+  "Zone": "Undercity",
+  "VoiceCasting": "\"Time is a gear.\"",
+  "Status": "Ruled"
+ },
+ {
+  "Name": "BoneKeeperSaker",
+  "RosterGroup": "Staircase, Catacombs, Undercity, Archive",
+  "DisplayName": "Bone Keeper, Saker",
+  "Role": "Meadery owner's wife; archaeologist",
+  "Zone": "Bone Room",
+  "VoiceCasting": "Saker finds, Bone Keeper keeps",
+  "Status": "Ruled Sep 11"
+ },
+ {
+  "Name": "Ampulla",
+  "RosterGroup": "Staircase, Catacombs, Undercity, Archive",
+  "DisplayName": "Ampulla",
+  "Role": "Ambassador of the Unvoiced",
+  "Zone": "Hollow Men Mines",
+  "VoiceCasting": "Alan Cumming register; \"Whose was that one?\"",
+  "Status": "Ruled Sep 25"
+ },
+ {
+  "Name": "TheArchivist",
+  "RosterGroup": "Staircase, Catacombs, Undercity, Archive",
+  "DisplayName": "The Archivist (Harry)",
+  "Role": "Chess wizard",
+  "Zone": "Camelot",
+  "VoiceCasting": "Dresden nod",
+  "Status": "Ruled Sep 11"
+ },
+ {
+  "Name": "WrenSomaSaker",
+  "RosterGroup": "Staircase, Catacombs, Undercity, Archive",
+  "DisplayName": "Wren, Soma, Saker (the Examiner)",
+  "Role": "Canopy Cartographer, Clockwork interoception mapper, Examiner",
+  "Zone": "Canopy City, Clockwork Skies",
+  "VoiceCasting": "",
+  "Status": "Ruled Sep 10"
+ },
+ {
+  "Name": "LeonardoDaVinci",
+  "RosterGroup": "Staircase, Catacombs, Undercity, Archive",
+  "DisplayName": "Leonardo da Vinci",
+  "Role": "Hosts the Crystal Canticle; flight prep school",
+  "Zone": "Clockwork Skies, Staircase landing",
+  "VoiceCasting": "Tennant plus Goldblum body language (art softened)",
+  "Status": "Ruled"
+ },
+ {
+  "Name": "CouncilOfThinkers",
+  "RosterGroup": "Staircase, Catacombs, Undercity, Archive",
+  "DisplayName": "Council of Thinkers",
+  "Role": "Tesla, da Vinci, Newton, Einstein; the Inn's agora",
+  "Zone": "Archive",
+  "VoiceCasting": "Bicker Law",
+  "Status": "Ruled"
+ },
+ {
+  "Name": "Oleander",
+  "RosterGroup": "Fae, Norse, myth and cultural zones",
+  "DisplayName": "Oleander",
+  "Role": "Seelie King; original face",
+  "Zone": "Fae Kingdom",
+  "VoiceCasting": "",
+  "Status": "Ruled Sep 4, Sep 10"
+ },
+ {
+  "Name": "Malachi",
+  "RosterGroup": "Fae, Norse, myth and cultural zones",
+  "DisplayName": "Malachi (was Jareth)",
+  "Role": "Unseelie King; goblin king",
+  "Zone": "Fae Kingdom",
+  "VoiceCasting": "Bowie as craft reference only",
+  "Status": "Ruled"
+ },
+ {
+  "Name": "SeelieQueenUnseelieQueenQueenOfRoots",
+  "RosterGroup": "Fae, Norse, myth and cultural zones",
+  "DisplayName": "Seelie Queen, Unseelie Queen, Queen of Roots",
+  "Role": "Three queens, one trunk",
+  "Zone": "Fae Kingdom",
+  "VoiceCasting": "\"Ask better\"; \"And what will you give\"; \"One trunk\"",
+  "Status": "Ruled Sep 10"
+ },
+ {
+  "Name": "Fibonacci",
+  "RosterGroup": "Fae, Norse, myth and cultural zones",
+  "DisplayName": "Fibonacci (was Aughra)",
+  "Role": "Geode Cave keeper; \"The Carrying\"",
+  "Zone": "Geode Cave",
+  "VoiceCasting": "",
+  "Status": "Ruled Sep 3"
+ },
+ {
+  "Name": "ArtairArtoriosArcturus",
+  "RosterGroup": "Fae, Norse, myth and cultural zones",
+  "DisplayName": "Artair, Artorios, Arcturus",
+  "Role": "One king at three ages (was the Wart)",
+  "Zone": "Camelot, Valhalla",
+  "VoiceCasting": "Shift Arc",
+  "Status": "Ruled Sep 10"
+ },
+ {
+  "Name": "MerlinNoctua",
+  "RosterGroup": "Fae, Norse, myth and cultural zones",
+  "DisplayName": "Merlin, Noctua",
+  "Role": "Merlin and his owl (was Archimedes)",
+  "Zone": "Camelot, Water",
+  "VoiceCasting": "Merlin playable merman",
+  "Status": "Ruled; form list open"
+ },
+ {
+  "Name": "TheBearsark",
+  "RosterGroup": "Fae, Norse, myth and cultural zones",
+  "DisplayName": "The Bearsark (was Beorn)",
+  "Role": "Wandering Guard",
+  "Zone": "Norse, Greek zones",
+  "VoiceCasting": "",
+  "Status": "Ruled Sep 3; original name pending"
+ },
+ {
+  "Name": "TheWayfarer",
+  "RosterGroup": "Fae, Norse, myth and cultural zones",
+  "DisplayName": "The Wayfarer (was Uhtred)",
+  "Role": "First of the Story-Born",
+  "Zone": "Main door",
+  "VoiceCasting": "\"Where have you been?\"",
+  "Status": "Ruled"
+ },
+ {
+  "Name": "Erik",
+  "RosterGroup": "Fae, Norse, myth and cultural zones",
+  "DisplayName": "Erik (Earl Ragnar)",
+  "Role": "Norse host, shipbuilder",
+  "Zone": "Canopy City, Mead Hall",
+  "VoiceCasting": "",
+  "Status": "Ruled Sep 10"
+ },
+ {
+  "Name": "Sorrel",
+  "RosterGroup": "Fae, Norse, myth and cultural zones",
+  "DisplayName": "Sorrel (the Greenward, was Radagast)",
+  "Role": "Gardener",
+  "Zone": "Campgrounds, Garden",
+  "VoiceCasting": "",
+  "Status": "Ruled Sep 10"
+ },
+ {
+  "Name": "MedusaKaliBastetAnansiNyame",
+  "RosterGroup": "Fae, Norse, myth and cultural zones",
+  "DisplayName": "Medusa, Kali, Bastet, Anansi, Nyame",
+  "Role": "Cultural-zone figures",
+  "Zone": "Gorgon's Garden, India, Egypt, Anansi's sky",
+  "VoiceCasting": "Bast is an Egyptian Mau",
+  "Status": "Ruled"
+ },
+ {
+  "Name": "LadyOfTheLake",
+  "RosterGroup": "Fae, Norse, myth and cultural zones",
+  "DisplayName": "Lady of the Lake",
+  "Role": "Mermaid keeper of Excalibur",
+  "Zone": "Water, Camelot",
+  "VoiceCasting": "",
+  "Status": "Ruled Sep 25 (mermaid)"
+ },
+ {
+  "Name": "Cian",
+  "RosterGroup": "Quarter, Campgrounds and the new rooms",
+  "DisplayName": "Cian",
+  "Role": "Quarter Cook; secret hacker handle COLONEL",
+  "Zone": "French Quarter",
+  "VoiceCasting": "Spoken \"cayenne\"; handle spoken \"kernel\"",
+  "Status": "Ruled Sep 14"
+ },
+ {
+  "Name": "TheTourist",
+  "RosterGroup": "Quarter, Campgrounds and the new rooms",
+  "DisplayName": "The Tourist",
+  "Role": "Occasional Canadian visitor",
+  "Zone": "French Quarter",
+  "VoiceCasting": "Never named",
+  "Status": "Ruled Sep 14"
+ },
+ {
+  "Name": "TheCanuck",
+  "RosterGroup": "Quarter, Campgrounds and the new rooms",
+  "DisplayName": "The Canuck",
+  "Role": "Periodic tourist, poutine, \"aboot\"",
+  "Zone": "French Quarter",
+  "VoiceCasting": "Title is the name",
+  "Status": "Ruled Oct 14"
+ },
+ {
+  "Name": "FrankWright",
+  "RosterGroup": "Quarter, Campgrounds and the new rooms",
+  "DisplayName": "Frank Wright (the Build-Scholar)",
+  "Role": "Unpowered carpenter-scholar",
+  "Zone": "Campgrounds",
+  "VoiceCasting": "Xander heart, Alfred dignity, Harvard mouth",
+  "Status": "Ruled Sep 14"
+ },
+ {
+  "Name": "TheGlassblower",
+  "RosterGroup": "Quarter, Campgrounds and the new rooms",
+  "DisplayName": "The Glassblower",
+  "Role": "Furnace keeper, grumpy artist",
+  "Zone": "Campgrounds",
+  "VoiceCasting": "",
+  "Status": "Ruled; name pending"
+ },
+ {
+  "Name": "MarieLaveau",
+  "RosterGroup": "Quarter, Campgrounds and the new rooms",
+  "DisplayName": "Marie Laveau",
+  "Role": "Quarter resident",
+  "Zone": "French Quarter",
+  "VoiceCasting": "",
+  "Status": "Ruled; voice block owed (Batch 10)"
+ },
+ {
+  "Name": "TheFluteKeeper",
+  "RosterGroup": "Quarter, Campgrounds and the new rooms",
+  "DisplayName": "The Flute-Keeper",
+  "Role": "Gentle Neanderthal; never claims the flute",
+  "Zone": "Instrument quest",
+  "VoiceCasting": "",
+  "Status": "Ruled Sep 12"
+ },
+ {
+  "Name": "TheLaughkeeper",
+  "RosterGroup": "Quarter, Campgrounds and the new rooms",
+  "DisplayName": "The Laughkeeper",
+  "Role": "Grief-clerk Harlequin; face never shown",
+  "Zone": "Fair's edge",
+  "VoiceCasting": "Never speaks",
+  "Status": "Ruled Oct 1; name owed"
+ },
+ {
+  "Name": "TheTramp",
+  "RosterGroup": "Quarter, Campgrounds and the new rooms",
+  "DisplayName": "The Tramp",
+  "Role": "Nonverbal emote teacher",
+  "Zone": "Silk Road",
+  "VoiceCasting": "Chaplin nod",
+  "Status": "Ruled Sep 11"
+ },
+ {
+  "Name": "QuartzPebbleSkeleton",
+  "RosterGroup": "Quarter, Campgrounds and the new rooms",
+  "DisplayName": "Quartz-Pebble Skeleton",
+  "Role": "Collector who never takes",
+  "Zone": "Campfire edge",
+  "VoiceCasting": "",
+  "Status": "Seed (Sep 28); four gates"
+ },
+ {
+  "Name": "TheWanderingArchivist",
+  "RosterGroup": "Quarter, Campgrounds and the new rooms",
+  "DisplayName": "The Wandering Archivist",
+  "Role": "Mary Poppins law figure",
+  "Zone": "Roams",
+  "VoiceCasting": "Julie Andrews as patron",
+  "Status": "Ruled Sep 27 (not in repo)"
+ },
+ {
+  "Name": "ConcordGrape",
+  "RosterGroup": "Quarter, Campgrounds and the new rooms",
+  "DisplayName": "Concord grape",
+  "Role": "Refuses to be sniffed",
+  "Zone": "Campgrounds edge",
+  "VoiceCasting": "",
+  "Status": "Proposed Sep 27"
+ }
+]

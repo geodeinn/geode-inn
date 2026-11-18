@@ -1,0 +1,1340 @@
+[
+ {
+  "Name": "StripZeroTheGreekYogurtAccord",
+  "Characters": [
+   "Lozen",
+   "The Yogurt Documentary"
+  ],
+  "IsPublished": false,
+  "Panels": [
+   "{\"dialogue\": null, \"description\": null, \"panelNumber\": null}",
+   "{\"dialogue\": null, \"description\": null, \"panelNumber\": null}",
+   "{\"dialogue\": null, \"description\": null, \"panelNumber\": null}"
+  ],
+  "StripNumber": 0,
+  "Title": "Strip Zero: The Greek Yogurt Accord",
+  "Zone": "Main Floor",
+  "ArtStyle": "Warm pen-and-ink with watercolor wash",
+  "ImageUrl": "https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/ea3f5c33a_generated_image.png",
+  "Date": "2026-09-04",
+  "PlayerAdventures": "[]",
+  "Base44Id": "6a9b702f17793a74f05afde1",
+  "CreatedDate": "2026-09-05T01:28:15.671000",
+  "UpdatedDate": "2026-09-05T01:28:15.671000",
+  "Sources": "staging",
+  "LiveValues": "",
+  "PanelImageUrl": ""
+ },
+ {
+  "Name": "TheFirstSpark",
+  "Characters": [
+   "Elio",
+   "Mona",
+   "The Dragon"
+  ],
+  "IsPublished": true,
+  "Panels": [
+   "{\"dialogue\": null, \"description\": \"A dark cave. Water dripping. A small dragon breathing in the shadows.\", \"panelNumber\": null}",
+   "{\"dialogue\": null, \"description\": \"Mona's hands in the dirt, shaping the first stone.\", \"panelNumber\": null}",
+   "{\"dialogue\": null, \"description\": \"The Main Floor fire ignites for the first time. Warm light floods the room.\", \"panelNumber\": null}",
+   "{\"dialogue\": null, \"description\": \"Elio looks up from a book. 'You're early. But the Inn was ready.'\", \"panelNumber\": null}"
+  ],
+  "StripNumber": 1,
+  "Title": "The First Spark",
+  "Zone": "Main Floor",
+  "ArtStyle": "Van Gogh",
+  "ImageUrl": "",
+  "Date": "2026-08-25",
+  "PlayerAdventures": "[\"A new traveler arrives at the Inn on launch day. The fire cracks. The dragon purrs.\"]",
+  "Base44Id": "6a9561a200efe51405df2ec9",
+  "CreatedDate": "2026-08-31T11:12:34.818000",
+  "UpdatedDate": "2026-08-31T11:12:34.818000",
+  "Sources": "staging",
+  "LiveValues": "",
+  "PanelImageUrl": ""
+ },
+ {
+  "Name": "TheGreatRenaming",
+  "Characters": [
+   "Ragana",
+   "Malachi",
+   "Zeke",
+   "Katya",
+   "Vaulknut",
+   "Brim"
+  ],
+  "IsPublished": true,
+  "Panels": [
+   "{\"dialogue\": null, \"description\": null, \"panelNumber\": null}",
+   "{\"dialogue\": null, \"description\": null, \"panelNumber\": null}",
+   "{\"dialogue\": null, \"description\": null, \"panelNumber\": null}",
+   "{\"dialogue\": null, \"description\": null, \"panelNumber\": null}"
+  ],
+  "StripNumber": 1,
+  "Title": "The Great Renaming",
+  "Zone": "Main Floor",
+  "ArtStyle": "Warm pen-and-ink with watercolor wash (Gazette house style)",
+  "ImageUrl": "https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/d37b54d02_generated_image.png",
+  "Date": "2026-09-09",
+  "PlayerAdventures": "[]",
+  "Base44Id": "6aa1996a057a9a7e45ad29a1",
+  "CreatedDate": "2026-09-09T17:37:46.670000",
+  "UpdatedDate": "2026-09-09T17:37:46.670000",
+  "Sources": "staging",
+  "LiveValues": "",
+  "PanelImageUrl": ""
+ },
+ {
+  "Name": "TheGreatRenaming_2",
+  "Characters": [
+   "Ragana",
+   "Lozen",
+   "Brim",
+   "The Collector",
+   "dragon kitten",
+   "gargoyle puppy",
+   "fizgig",
+   "brownie"
+  ],
+  "IsPublished": true,
+  "Panels": [
+   "{\"dialogue\": null, \"description\": null, \"panelNumber\": null}",
+   "{\"dialogue\": null, \"description\": null, \"panelNumber\": null}",
+   "{\"dialogue\": null, \"description\": null, \"panelNumber\": null}",
+   "{\"dialogue\": null, \"description\": null, \"panelNumber\": null}"
+  ],
+  "StripNumber": 1,
+  "Title": "The Great Renaming",
+  "Zone": "Main Floor",
+  "ArtStyle": "warm painterly newspaper-comic, muted parchment tones, ornate gold border",
+  "ImageUrl": "https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/366fa3895_gazette_strip_001.png",
+  "Date": "2026-09-09",
+  "PlayerAdventures": "[]",
+  "Base44Id": "6aa22215c78dda61c9c892d6",
+  "CreatedDate": "2026-09-10T03:20:53.332000",
+  "UpdatedDate": "2026-09-10T03:20:53.332000",
+  "Sources": "staging",
+  "LiveValues": "",
+  "PanelImageUrl": ""
+ },
+ {
+  "Name": "TheRoomThatWasntThere",
+  "Characters": [
+   "Fizgig (baby dragon)"
+  ],
+  "IsPublished": true,
+  "Panels": [
+   "{\"dialogue\": null, \"description\": \"Fizgig finds a door in solid stone\", \"panelNumber\": null}",
+   "{\"dialogue\": null, \"description\": \"Inside — a tiny room with a chair, table, cup, and a parchment reading Unfinished\", \"panelNumber\": null}",
+   "{\"dialogue\": null, \"description\": \"Fizgig sits in the chair, at home\", \"panelNumber\": null}"
+  ],
+  "StripNumber": 1,
+  "Title": "The Room That Wasnt There",
+  "Zone": "The Staircase",
+  "ArtStyle": "Klimt-influenced dark fantasy, soft cel-shaded, gold on dark stone",
+  "ImageUrl": "https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/bb7bde892_generated_image.png",
+  "Date": "2026-09-01",
+  "PlayerAdventures": "[\"Fizgig finds a door that wasnt there yesterday\", \"Behind it: a room labeled Unfinished\", \"The dragon sits down and decides thats okay\"]",
+  "Base44Id": "6a9725d144b42f09982b1071",
+  "CreatedDate": "2026-09-01T19:21:53.072000",
+  "UpdatedDate": "2026-09-01T19:21:53.072000",
+  "Sources": "staging",
+  "LiveValues": "",
+  "PanelImageUrl": ""
+ },
+ {
+  "Name": "BeverleysRule",
+  "Characters": [
+   "Beverley",
+   "Quire"
+  ],
+  "IsPublished": true,
+  "Panels": [
+   "{\"dialogue\": null, \"description\": \"The Archive. Endless shelves. A player reaches for a glowing book.\", \"panelNumber\": null}",
+   "{\"dialogue\": null, \"description\": \"Beverley appears from behind a shelf. Arms crossed. Eyes sharp.\", \"panelNumber\": null}",
+   "{\"dialogue\": null, \"description\": \"The player puts the book back. Beverley nods once.\", \"panelNumber\": null}",
+   "{\"dialogue\": null, \"description\": \"In the margins, Quire writes: 'They almost saw me.'\", \"panelNumber\": null}"
+  ],
+  "StripNumber": 2,
+  "Title": "Beverley's Rule",
+  "Zone": "Archive",
+  "ArtStyle": "Gorey",
+  "ImageUrl": "",
+  "Date": "2026-08-26",
+  "PlayerAdventures": "[\"A player tried to take a Restricted Section book. Beverley stopped them with a look.\"]",
+  "Base44Id": "6a9561a200efe51405df2eca",
+  "CreatedDate": "2026-08-31T11:12:34.818000",
+  "UpdatedDate": "2026-08-31T11:12:34.818000",
+  "Sources": "staging",
+  "LiveValues": "",
+  "PanelImageUrl": ""
+ },
+ {
+  "Name": "LettersToTheSentinel",
+  "Characters": [
+   "Fizgig (baby dragon)",
+   "River (mentioned, offscreen)"
+  ],
+  "IsPublished": true,
+  "Panels": [
+   "{\"dialogue\": null, \"description\": \"Fizgig sits at the archive table trying to write with an oversized quill\", \"panelNumber\": null}",
+   "{\"dialogue\": null, \"description\": \"Close-up of the letter — Dear River, the fire is still lit, you are still missed, ink drip on missed\", \"panelNumber\": null}",
+   "{\"dialogue\": null, \"description\": \"Fizgig folds the letter into a paper airplane and launches it down the corridor\", \"panelNumber\": null}"
+  ],
+  "StripNumber": 2,
+  "Title": "Letters to the Sentinel",
+  "Zone": "The Archive",
+  "ArtStyle": "Klimt-influenced dark fantasy, soft cel-shaded, gold on dark stone",
+  "ImageUrl": "https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/cc9ca9272_generated_image.png",
+  "Date": "2026-09-01",
+  "PlayerAdventures": "[\"Fizgig writes a letter to River\", \"The letter says the fire is still lit and River is missed\", \"Fizgig sends it as a paper airplane down the corridor\"]",
+  "Base44Id": "6a9728e27c029fc2f5285121",
+  "CreatedDate": "2026-09-01T19:34:58.354000",
+  "UpdatedDate": "2026-09-01T19:34:58.354000",
+  "Sources": "staging",
+  "LiveValues": "",
+  "PanelImageUrl": ""
+ },
+ {
+  "Name": "TheFirstStone",
+  "Characters": [
+   "Fizgig (baby dragon)"
+  ],
+  "IsPublished": true,
+  "Panels": [
+   "{\"dialogue\": null, \"description\": \"Fizgig discovers a cave full of glowing gemstones\", \"panelNumber\": null}",
+   "{\"dialogue\": null, \"description\": \"Fizgig places one stone on an empty shelf with pride\", \"panelNumber\": null}",
+   "{\"dialogue\": null, \"description\": \"Wide shot — the cave is vast and cathedral-like, the dragon is tiny but determined\", \"panelNumber\": null}"
+  ],
+  "StripNumber": 3,
+  "Title": "The First Stone",
+  "Zone": "The Geode Cave",
+  "ArtStyle": "Klimt-influenced dark fantasy, soft cel-shaded, mineral tones on dark stone",
+  "ImageUrl": "https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/e2e8a7fbe_generated_image.png",
+  "Date": "2026-09-01",
+  "PlayerAdventures": "[\"Fizgig finds a geode cave\", \"Places the first stone on the collection shelf\", \"Looks up at the vast empty space with determination\"]",
+  "Base44Id": "6a9728f17c029fc2f5285132",
+  "CreatedDate": "2026-09-01T19:35:13.581000",
+  "UpdatedDate": "2026-09-01T19:35:13.581000",
+  "Sources": "staging",
+  "LiveValues": "",
+  "PanelImageUrl": ""
+ },
+ {
+  "Name": "TheMarketMorning",
+  "Characters": [
+   "Briar Nightbloom",
+   "A Traveler"
+  ],
+  "IsPublished": true,
+  "Panels": [
+   "{\"dialogue\": null, \"description\": \"Dawn at the Marketplace. Briar arranges stones on velvet.\", \"panelNumber\": null}",
+   "{\"dialogue\": null, \"description\": \"A traveler points at a piece of amber. 'How much?'\", \"panelNumber\": null}",
+   "{\"dialogue\": null, \"description\": \"Briar: 'The price is what the maker asked. The question is whether you're ready to carry it.'\", \"panelNumber\": null}",
+   "{\"dialogue\": null, \"description\": \"The traveler buys the amber. It glows warmer in their hand.\", \"panelNumber\": null}"
+  ],
+  "StripNumber": 3,
+  "Title": "The Market Morning",
+  "Zone": "Marketplace",
+  "ArtStyle": "Canaletto",
+  "ImageUrl": "",
+  "Date": "2026-08-27",
+  "PlayerAdventures": "[\"A traveler bought their first stone from Briar at the Marketplace.\"]",
+  "Base44Id": "6a9561a200efe51405df2ecb",
+  "CreatedDate": "2026-08-31T11:12:34.818000",
+  "UpdatedDate": "2026-08-31T11:12:34.818000",
+  "Sources": "staging",
+  "LiveValues": "",
+  "PanelImageUrl": ""
+ },
+ {
+  "Name": "JoesKitten",
+  "Characters": [
+   "Joe",
+   "A Painted Kitten"
+  ],
+  "IsPublished": true,
+  "Panels": [
+   "{\"dialogue\": null, \"description\": \"Joe's studio. Easels. Paint tubes. A finished dragon kitten on canvas.\", \"panelNumber\": null}",
+   "{\"dialogue\": null, \"description\": \"The kitten blinks. Its painted eyes move.\", \"panelNumber\": null}",
+   "{\"dialogue\": null, \"description\": \"The kitten climbs off the canvas and onto Joe's shoulder.\", \"panelNumber\": null}",
+   "{\"dialogue\": null, \"description\": \"Joe, not surprised: 'They do that.' Picks up a fresh brush.\", \"panelNumber\": null}"
+  ],
+  "StripNumber": 4,
+  "Title": "Joe's Kitten",
+  "Zone": "Joe's Studio",
+  "ArtStyle": "Van Gogh",
+  "ImageUrl": "",
+  "Date": "2026-08-28",
+  "PlayerAdventures": "[\"A player witnessed a painted dragon kitten come to life in Joe's studio.\"]",
+  "Base44Id": "6a9561a200efe51405df2ecc",
+  "CreatedDate": "2026-08-31T11:12:34.818000",
+  "UpdatedDate": "2026-08-31T11:12:34.818000",
+  "Sources": "staging",
+  "LiveValues": "",
+  "PanelImageUrl": ""
+ },
+ {
+  "Name": "TheDoorThatNeverLocks",
+  "Characters": [
+   "The Hearth-Hound"
+  ],
+  "IsPublished": true,
+  "Panels": [
+   "{\"dialogue\": null, \"description\": null, \"panelNumber\": null}",
+   "{\"dialogue\": null, \"description\": null, \"panelNumber\": null}",
+   "{\"dialogue\": null, \"description\": null, \"panelNumber\": null}",
+   "{\"dialogue\": null, \"description\": null, \"panelNumber\": null}"
+  ],
+  "StripNumber": 4,
+  "Title": "The Door That Never Locks",
+  "Zone": "Main Floor (The Hearth)",
+  "ArtStyle": "Klimt-hobbit-hole (amber, gold, cream) with Royo dramatic shift in Panel 2",
+  "ImageUrl": "https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/b04eef074_the_door_that_never_locks.png",
+  "Date": "2026-09-14",
+  "PlayerAdventures": "[\"None — NPC feature (The Hearth-Hound)\"]",
+  "Base44Id": "6aa7d459432881bdbd8738b1",
+  "CreatedDate": "2026-09-14T11:02:49.033000",
+  "UpdatedDate": "2026-09-14T11:02:49.033000",
+  "Sources": "staging",
+  "LiveValues": "",
+  "PanelImageUrl": ""
+ },
+ {
+  "Name": "TheHoundWhoStayed",
+  "Characters": [
+   "The Hearth-Hound",
+   "The Wild Hunt"
+  ],
+  "IsPublished": true,
+  "Panels": [
+   "{\"dialogue\": null, \"description\": null, \"panelNumber\": null}",
+   "{\"dialogue\": null, \"description\": null, \"panelNumber\": null}",
+   "{\"dialogue\": null, \"description\": null, \"panelNumber\": null}",
+   "{\"dialogue\": null, \"description\": null, \"panelNumber\": null}"
+  ],
+  "StripNumber": 4,
+  "Title": "The Hound Who Stayed",
+  "Zone": "Main Floor — The Hearth",
+  "ArtStyle": "hobbit-warm (amber, gold, cream)",
+  "ImageUrl": "https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/59450063d_generated_image.png",
+  "Date": "2026-09-15",
+  "PlayerAdventures": "[\"None — NPC feature (The Hearth-Hound + The Wild Hunt). Inspired by the Hearth-Hound Legend canon (2026-09-13): guardians sleep facing the door; the hunt crosses the sky each winter; one hound looked down and stayed. Home, not tamed.\"]",
+  "Base44Id": "6aa9263a7dadda548a6c7935",
+  "CreatedDate": "2026-09-15T11:04:26.382000",
+  "UpdatedDate": "2026-09-15T11:04:26.382000",
+  "Sources": "staging",
+  "LiveValues": "",
+  "PanelImageUrl": ""
+ },
+ {
+  "Name": "TheKegAndTheName",
+  "Characters": [
+   "Molly",
+   "The Catalyst"
+  ],
+  "IsPublished": true,
+  "Panels": [
+   "{\"dialogue\": null, \"description\": null, \"panelNumber\": null}",
+   "{\"dialogue\": null, \"description\": null, \"panelNumber\": null}",
+   "{\"dialogue\": null, \"description\": null, \"panelNumber\": null}",
+   "{\"dialogue\": null, \"description\": null, \"panelNumber\": null}"
+  ],
+  "StripNumber": 4,
+  "Title": "The Keg and the Name",
+  "Zone": "Main Floor / The Tavern",
+  "ArtStyle": "Hobbit-hole palette (amber, gold, cream)",
+  "ImageUrl": "https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/4cbe8d132_generated_image.png",
+  "Date": "2026-09-17",
+  "PlayerAdventures": "[\"None — NPC feature (Molly + The Catalyst)\"]",
+  "Base44Id": "6aabc9f83d96fda8864b79f3",
+  "CreatedDate": "2026-09-17T11:07:36.325000",
+  "UpdatedDate": "2026-09-17T11:07:36.325000",
+  "Sources": "staging",
+  "LiveValues": "",
+  "PanelImageUrl": ""
+ },
+ {
+  "Name": "ThePocketChangeGate",
+  "Characters": [
+   "Vaulknut"
+  ],
+  "IsPublished": true,
+  "Panels": [
+   "{\"dialogue\": null, \"description\": null, \"panelNumber\": null}",
+   "{\"dialogue\": null, \"description\": null, \"panelNumber\": null}",
+   "{\"dialogue\": null, \"description\": null, \"panelNumber\": null}",
+   "{\"dialogue\": null, \"description\": null, \"panelNumber\": null}"
+  ],
+  "StripNumber": 4,
+  "Title": "The Pocket-Change Gate",
+  "Zone": "The Campgrounds (Faire Market)",
+  "ArtStyle": "Mucha (art nouveau)",
+  "ImageUrl": "https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/7fa8cd096_generated_image.png",
+  "Date": "2026-09-30",
+  "PlayerAdventures": "[\"None — NPC feature (Vaulknut the selkie, from the maker's bench canon: the unadvertised $2 stone policy for kids at faire booths, ruled 2026-09-29)\"]",
+  "Base44Id": "6abcecec742a1217d6f042a5",
+  "CreatedDate": "2026-09-30T11:05:16.486000",
+  "UpdatedDate": "2026-09-30T11:05:16.486000",
+  "Sources": "staging",
+  "LiveValues": "",
+  "PanelImageUrl": ""
+ },
+ {
+  "Name": "TheWatcherSeesAll",
+  "Characters": [
+   "Fizgig (baby dragon)",
+   "Gargoyle Watcher"
+  ],
+  "IsPublished": true,
+  "Panels": [
+   "{\"dialogue\": null, \"description\": \"Fizgig tiptoes past a sleeping gargoyle with one eye slightly open\", \"panelNumber\": null}",
+   "{\"dialogue\": null, \"description\": \"Gargoyle has both eyes open, glowing golden 111Hz rings, slight amused smile — saw everything\", \"panelNumber\": null}",
+   "{\"dialogue\": null, \"description\": \"Fizgig and gargoyle sit together in quiet company — watchers are not enemies\", \"panelNumber\": null}"
+  ],
+  "StripNumber": 4,
+  "Title": "The Watcher Sees All",
+  "Zone": "The Corridor",
+  "ArtStyle": "Klimt-influenced dark fantasy, soft cel-shaded, stone and gold tones",
+  "ImageUrl": "https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/dd87ea37f_generated_image.png",
+  "Date": "2026-09-01",
+  "PlayerAdventures": "[\"Fizgig tries to sneak past a gargoyle\", \"The gargoyle was watching the whole time with one eye open\", \"They sit together — the watchers are company not enemies\"]",
+  "Base44Id": "6a9729387c029fc2f52851cd",
+  "CreatedDate": "2026-09-01T19:36:24.386000",
+  "UpdatedDate": "2026-09-01T19:36:24.386000",
+  "Sources": "staging",
+  "LiveValues": "",
+  "PanelImageUrl": ""
+ },
+ {
+  "Name": "ThreeMouthsOneBraid",
+  "Characters": [
+   "Vaulknut (the Selkie)",
+   "The Traveler"
+  ],
+  "IsPublished": true,
+  "Panels": [
+   "{\"dialogue\": null, \"description\": null, \"panelNumber\": null}",
+   "{\"dialogue\": null, \"description\": null, \"panelNumber\": null}",
+   "{\"dialogue\": null, \"description\": null, \"panelNumber\": null}",
+   "{\"dialogue\": null, \"description\": null, \"panelNumber\": null}"
+  ],
+  "StripNumber": 4,
+  "Title": "Three Mouths, One Braid",
+  "Zone": "The Bench — Vaulknut's Workshop",
+  "ArtStyle": "Hobbit-warm (amber, gold, cream)",
+  "ImageUrl": "https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/0a1f0ff37_generated_image.png",
+  "Date": "2026-10-07",
+  "PlayerAdventures": "[\"None — NPC feature (Vaulknut the Selkie). Commission Ledger seed #1: The Tri-Canid Weave (ruled 2026-09-14).\"]",
+  "Base44Id": "6ac627db40a9c840a32361d4",
+  "CreatedDate": "2026-10-07T11:07:07.910000",
+  "UpdatedDate": "2026-10-07T11:07:07.910000",
+  "Sources": "staging",
+  "LiveValues": "",
+  "PanelImageUrl": ""
+ },
+ {
+  "Name": "TheCatch",
+  "Characters": [
+   "Fizgig (baby dragon)",
+   "Baby water creature"
+  ],
+  "IsPublished": true,
+  "Panels": [
+   "{\"dialogue\": null, \"description\": \"Fizgig fishing at the edge of an underground bioluminescent lake\", \"panelNumber\": null}",
+   "{\"dialogue\": null, \"description\": \"Fizgig catches a baby water creature made of light — they stare at each other\", \"panelNumber\": null}",
+   "{\"dialogue\": null, \"description\": \"Dragon and water creature sit side by side on the cave ledge — companionship across elements\", \"panelNumber\": null}"
+  ],
+  "StripNumber": 5,
+  "Title": "The Catch",
+  "Zone": "Water Zone",
+  "ArtStyle": "Gothic anime dark fantasy, teal and blue-green tones with warm gold, soft cel-shaded",
+  "ImageUrl": "https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/ab7a8215b_generated_image.png",
+  "Date": "2026-09-01",
+  "PlayerAdventures": "[\"Fizgig goes fishing in an underground lake\", \"Catches a baby water creature instead of a fish\", \"Two small beings from different elements share a quiet moment\"]",
+  "Base44Id": "6a9729847c029fc2f52851fe",
+  "CreatedDate": "2026-09-01T19:37:40.102000",
+  "UpdatedDate": "2026-09-01T19:37:40.102000",
+  "Sources": "staging",
+  "LiveValues": "",
+  "PanelImageUrl": ""
+ },
+ {
+  "Name": "TheGargoyleHums",
+  "Characters": [
+   "The Watcher Gargoyle",
+   "Elio"
+  ],
+  "IsPublished": true,
+  "Panels": [
+   "{\"dialogue\": null, \"description\": \"The Staircase. Elio descending. Gold and shadow.\", \"panelNumber\": null}",
+   "{\"dialogue\": null, \"description\": \"The Watcher Gargoyle hums at 111Hz. The stone vibrates.\", \"panelNumber\": null}",
+   "{\"dialogue\": null, \"description\": \"Elio stops. 'You're humming differently today.'\", \"panelNumber\": null}",
+   "{\"dialogue\": null, \"description\": \"The gargoyle doesn't respond. But the hum changes. Just slightly.\", \"panelNumber\": null}"
+  ],
+  "StripNumber": 5,
+  "Title": "The Gargoyle Hums",
+  "Zone": "Staircase",
+  "ArtStyle": "Klimt",
+  "ImageUrl": "",
+  "Date": "2026-08-29",
+  "PlayerAdventures": "[\"Elio noticed the gargoyle's hum changing on the staircase.\"]",
+  "Base44Id": "6a9561a200efe51405df2ecd",
+  "CreatedDate": "2026-08-31T11:12:34.818000",
+  "UpdatedDate": "2026-08-31T11:12:34.818000",
+  "Sources": "staging",
+  "LiveValues": "",
+  "PanelImageUrl": ""
+ },
+ {
+  "Name": "BedtimeStories",
+  "Characters": [
+   "Fizgig (baby dragon)",
+   "The Owl"
+  ],
+  "IsPublished": true,
+  "Panels": [
+   "{\"dialogue\": null, \"description\": \"Fizgig carries a stack of books to the campfire at night\", \"panelNumber\": null}",
+   "{\"dialogue\": null, \"description\": \"Fizgig reads by firelight, completely absorbed, owl watches from above\", \"panelNumber\": null}",
+   "{\"dialogue\": null, \"description\": \"Fizgig falls asleep on the book, owl perches on the stack keeping watch, text reads And the Inn remembered everything\", \"panelNumber\": null}"
+  ],
+  "StripNumber": 6,
+  "Title": "Bedtime Stories",
+  "Zone": "The Campgrounds",
+  "ArtStyle": "Klimt-influenced dark fantasy, warm amber and forest green, soft cel-shaded",
+  "ImageUrl": "https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/c3e0923ad_generated_image.png",
+  "Date": "2026-09-01",
+  "PlayerAdventures": "[\"Fizgig carries books to the campfire\", \"Reads by firelight until falling asleep\", \"The owl keeps watch over the sleeping dragon and stories\"]",
+  "Base44Id": "6a9729907c029fc2f5285203",
+  "CreatedDate": "2026-09-01T19:37:52.209000",
+  "UpdatedDate": "2026-09-01T19:37:52.209000",
+  "Sources": "staging",
+  "LiveValues": "",
+  "PanelImageUrl": ""
+ },
+ {
+  "Name": "TheArtOfSeeing",
+  "Characters": [
+   "Quire",
+   "Canopy Critter"
+  ],
+  "IsPublished": true,
+  "Panels": [
+   "{\"dialogue\": null, \"description\": null, \"panelNumber\": null}",
+   "{\"dialogue\": null, \"description\": null, \"panelNumber\": null}",
+   "{\"dialogue\": null, \"description\": null, \"panelNumber\": null}",
+   "{\"dialogue\": null, \"description\": null, \"panelNumber\": null}"
+  ],
+  "StripNumber": 7,
+  "Title": "The Art of Seeing",
+  "Zone": "Canopy City",
+  "ArtStyle": "rackham",
+  "ImageUrl": "https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/dfa0ed7fa_strip_007_the_art_of_seeing.png",
+  "Date": "2026-09-11",
+  "PlayerAdventures": "[]",
+  "Base44Id": "6aa3e08838948a258bc6eeaa",
+  "CreatedDate": "2026-09-11T11:05:44.313000",
+  "UpdatedDate": "2026-09-11T11:05:44.313000",
+  "Sources": "staging",
+  "LiveValues": "",
+  "PanelImageUrl": ""
+ },
+ {
+  "Name": "TheArtOfSeeing_2",
+  "Characters": [
+   "Quire",
+   "Canopy Critter"
+  ],
+  "IsPublished": true,
+  "Panels": [],
+  "StripNumber": 7,
+  "Title": "The Art of Seeing",
+  "Zone": "Canopy City",
+  "ArtStyle": "",
+  "ImageUrl": "https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/dfa0ed7fa_strip_007_the_art_of_seeing.png",
+  "Date": "2026-09-11",
+  "PlayerAdventures": "[]",
+  "Base44Id": "6aa3e08f38948a258bc6eead",
+  "CreatedDate": "2026-09-11T11:05:51.241000",
+  "UpdatedDate": "2026-09-11T11:05:51.241000",
+  "Sources": "staging",
+  "LiveValues": "",
+  "PanelImageUrl": ""
+ },
+ {
+  "Name": "MollyAndTheBill",
+  "Characters": [
+   "Molly",
+   "The Catalyst",
+   "Bill the Duck"
+  ],
+  "IsPublished": true,
+  "Panels": [
+   "{\"dialogue\": null, \"description\": null, \"panelNumber\": null}",
+   "{\"dialogue\": null, \"description\": null, \"panelNumber\": null}",
+   "{\"dialogue\": null, \"description\": null, \"panelNumber\": null}",
+   "{\"dialogue\": null, \"description\": null, \"panelNumber\": null}"
+  ],
+  "StripNumber": 8,
+  "Title": "Molly and the Bill",
+  "Zone": "The Tavern — Main Floor",
+  "ArtStyle": "Warm hobbit-hole palette (Main Floor)",
+  "ImageUrl": "https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/eb9c6562c_molly_and_the_bill.png",
+  "Date": "2026-09-16",
+  "PlayerAdventures": "[\"None — NPC feature (Molly, the Catalyst, Bill the Duck)\"]",
+  "Base44Id": "6aaa78077c498d2bb6f20c00",
+  "CreatedDate": "2026-09-16T11:05:43.548000",
+  "UpdatedDate": "2026-09-16T11:05:43.548000",
+  "Sources": "staging",
+  "LiveValues": "",
+  "PanelImageUrl": ""
+ },
+ {
+  "Name": "WhatTheTravelerCarried",
+  "Characters": [
+   "The Bard",
+   "The Traveler"
+  ],
+  "IsPublished": true,
+  "Panels": [
+   "{\"dialogue\": null, \"description\": null, \"panelNumber\": null}",
+   "{\"dialogue\": null, \"description\": null, \"panelNumber\": null}",
+   "{\"dialogue\": null, \"description\": null, \"panelNumber\": null}",
+   "{\"dialogue\": null, \"description\": null, \"panelNumber\": null}"
+  ],
+  "StripNumber": 9,
+  "Title": "What the Traveler Carried",
+  "Zone": "The Tavern — Main Floor",
+  "ArtStyle": "Hobbit-hole palette (amber, gold, cream) with Alan Lee watercolor",
+  "ImageUrl": "https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/8dde1fbe2_what_the_traveler_carried.png",
+  "Date": "2026-09-18",
+  "PlayerAdventures": "[\"None — NPC feature (The Bard + The Traveler)\"]",
+  "Base44Id": "6aad1b5e9de77ca13cb8763c",
+  "CreatedDate": "2026-09-18T11:07:10.644000",
+  "UpdatedDate": "2026-09-18T11:07:10.644000",
+  "Sources": "staging",
+  "LiveValues": "",
+  "PanelImageUrl": ""
+ },
+ {
+  "Name": "TheEaselThatFacesTheWall",
+  "Characters": [
+   "Aurallia (The One Who Tends)",
+   "The Catalyst"
+  ],
+  "IsPublished": true,
+  "Panels": [
+   "{\"dialogue\": null, \"description\": null, \"panelNumber\": null}",
+   "{\"dialogue\": null, \"description\": null, \"panelNumber\": null}",
+   "{\"dialogue\": null, \"description\": null, \"panelNumber\": null}",
+   "{\"dialogue\": null, \"description\": null, \"panelNumber\": null}"
+  ],
+  "StripNumber": 10,
+  "Title": "The Easel That Faces the Wall",
+  "Zone": "The Spiral Gallery — Cave Studio",
+  "ArtStyle": "Hobbit-hole palette (amber, gold, cream) with Klimt gold-leaf spiral touches",
+  "ImageUrl": "https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/8336d7847_generated_image.png",
+  "Date": "2026-09-19",
+  "PlayerAdventures": "[\"None — NPC feature (Aurallia + The Catalyst)\"]",
+  "Base44Id": "6aae6cb04ec38282f87e4684",
+  "CreatedDate": "2026-09-19T11:06:24.324000",
+  "UpdatedDate": "2026-09-19T11:06:24.324000",
+  "Sources": "staging",
+  "LiveValues": "",
+  "PanelImageUrl": ""
+ },
+ {
+  "Name": "ThreeSkins",
+  "Characters": [
+   "The Viking King (boy)",
+   "The Viking King (warrior)",
+   "The Viking King (elder)",
+   "The Traveler"
+  ],
+  "IsPublished": true,
+  "Panels": [
+   "{\"dialogue\": null, \"description\": null, \"panelNumber\": null}",
+   "{\"dialogue\": null, \"description\": null, \"panelNumber\": null}",
+   "{\"dialogue\": null, \"description\": null, \"panelNumber\": null}",
+   "{\"dialogue\": null, \"description\": null, \"panelNumber\": null}"
+  ],
+  "StripNumber": 11,
+  "Title": "Three Skins",
+  "Zone": "The Norse Coast",
+  "ArtStyle": "Rackham ink-and-watercolor with Klimt gold-leaf touches",
+  "ImageUrl": "https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/23fa64ce1_strip_011_three_skins.png",
+  "Date": "2026-09-20",
+  "PlayerAdventures": "[\"None — NPC feature (The Viking King)\"]",
+  "Base44Id": "6aafbe0430c546da4dd63c37",
+  "CreatedDate": "2026-09-20T11:05:40.328000",
+  "UpdatedDate": "2026-09-20T11:05:40.328000",
+  "Sources": "staging",
+  "LiveValues": "",
+  "PanelImageUrl": ""
+ },
+ {
+  "Name": "TheThroatOfTheBuilding",
+  "Characters": [
+   "The Watcher Gargoyle",
+   "A Traveler"
+  ],
+  "IsPublished": true,
+  "Panels": [
+   "{\"dialogue\": null, \"description\": \"The traveler on the grand staircase, looking up at a gargoyle on the cornice. Caption: The traveler had passed the gargoyle seven times before they noticed it had moved.\", \"panelNumber\": 1}",
+   "{\"dialogue\": null, \"description\": \"Empty cornice. A different gargoyle further down now watches. Caption: The Inn's gargoyles do not hide. They relocate. There is a difference, and the patient learn it.\", \"panelNumber\": 2}",
+   "{\"dialogue\": null, \"description\": \"Close-up of the gargoyle's open mouth. A single raindrop falls. Caption: Gargouille. French. It means 'throat.' The scariest face on the building is a drainpipe with a vocation.\", \"panelNumber\": 3}",
+   "{\"dialogue\": null, \"description\": \"The gargoyle draining rainwater. The traveler sits beside it, at peace. Caption: The grotesque watches. The gargoyle drains. Both are load-bearing. Every face in the Inn that seems to judge you is also taking care of you, and neither job cancels the other.\", \"panelNumber\": 4}"
+  ],
+  "StripNumber": 12,
+  "Title": "The Throat of the Building",
+  "Zone": "The Staircase",
+  "ArtStyle": "Klimt-influenced dark fantasy, warm amber and gold tones",
+  "ImageUrl": "https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/b50cfe1fb_strip_012_the_throat_of_the_building.png",
+  "Date": "2026-09-21",
+  "PlayerAdventures": "[\"None — NPC feature (The Watcher Gargoyle)\"]",
+  "Base44Id": "6ab10fc0776e33a4126f341d",
+  "CreatedDate": "2026-09-21T11:06:40.026000",
+  "UpdatedDate": "2026-09-21T11:06:40.026000",
+  "Sources": "staging",
+  "LiveValues": "",
+  "PanelImageUrl": ""
+ },
+ {
+  "Name": "TheSilenceIsTheRoad",
+  "Characters": [
+   "The Unvoiced (Shadow Knight)",
+   "The Bard"
+  ],
+  "IsPublished": true,
+  "Panels": [
+   "{\"dialogue\": null, \"description\": null, \"panelNumber\": null}",
+   "{\"dialogue\": null, \"description\": null, \"panelNumber\": null}",
+   "{\"dialogue\": null, \"description\": null, \"panelNumber\": null}",
+   "{\"dialogue\": null, \"description\": null, \"panelNumber\": null}"
+  ],
+  "StripNumber": 13,
+  "Title": "The Silence Is the Road",
+  "Zone": "The Tavern — Main Floor",
+  "ArtStyle": "Hobbit-hole palette (amber, gold, cream) with deep indigo contrast — Klimt-influenced dark fantasy",
+  "ImageUrl": "https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/93217f8bb_generated_image.png",
+  "Date": "2026-09-22",
+  "PlayerAdventures": "[]",
+  "Base44Id": "6ab261706a8017f71d178861",
+  "CreatedDate": "2026-09-22T11:07:28.703000",
+  "UpdatedDate": "2026-09-22T11:07:28.703000",
+  "Sources": "staging",
+  "LiveValues": "",
+  "PanelImageUrl": ""
+ },
+ {
+  "Name": "TheCityWhereNothingBites",
+  "Characters": [
+   "A Traveler",
+   "Charon",
+   "The Cemetery Cat"
+  ],
+  "IsPublished": true,
+  "Panels": [
+   "{\"dialogue\": null, \"description\": null, \"panelNumber\": null}",
+   "{\"dialogue\": null, \"description\": null, \"panelNumber\": null}",
+   "{\"dialogue\": null, \"description\": null, \"panelNumber\": null}",
+   "{\"dialogue\": null, \"description\": null, \"panelNumber\": null}"
+  ],
+  "StripNumber": 14,
+  "Title": "The City Where Nothing Bites",
+  "Zone": "The Cities of the Dead — Catacombs Wing",
+  "ArtStyle": "Klimt gold-on-dark with New Orleans above-ground cemetery warmth",
+  "ImageUrl": "https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/d97ef62da_generated_image.png",
+  "Date": "2026-09-23",
+  "PlayerAdventures": "[]",
+  "Base44Id": "6ab3b2ae20104cd74ca1fc41",
+  "CreatedDate": "2026-09-23T11:06:22.240000",
+  "UpdatedDate": "2026-09-23T11:06:22.240000",
+  "Sources": "staging",
+  "LiveValues": "",
+  "PanelImageUrl": ""
+ },
+ {
+  "Name": "TheGroundRemembers",
+  "Characters": [
+   "Quire",
+   "A Traveler"
+  ],
+  "IsPublished": true,
+  "Panels": [
+   "{\"dialogue\": null, \"description\": \"Quire in the Archive at night, surrounded by geological strata charts and rock cross-section diagrams, reading by a single candle. Caption: The scholar who reads margins had found a new one. This one was below the floor.\", \"panelNumber\": 1}",
+   "{\"dialogue\": null, \"description\": \"Quire overlays a translucent geological strata map on a glowing ley line grid — they match perfectly. Quartz, limestone, basalt aligned with golden ley lines. Caption: Quartz rings. Limestone hollows. Basalt hums. The ley lines did not wander. They followed the rock. The 42Hz was not tuned to the Inn. It was in the ground.\", \"panelNumber\": 2}",
+   "{\"dialogue\": null, \"description\": \"Quire sits back in his chair, realization settling. A ghostly cross-section of earth shows the 42Hz hum as golden waves radiating through the rock beneath the Inn's foundations. Caption: The builder had not chosen the music. The music had chosen the building. The Inn grew where the ground was already humming, and no one had thought to ask why.\", \"panelNumber\": 3}",
+   "{\"dialogue\": null, \"description\": \"Quire lying on the stone floor, ear pressed to the ground, eyes closed, listening. Faint golden sound waves radiate through the floor. Books stacked beside him, abandoned. Caption: The Archive keeps what was written. The ground keeps what was never written. Both are the Inn's memory, and neither is complete without the other. The scholar closed his book and opened the floor.\", \"panelNumber\": 4}"
+  ],
+  "StripNumber": 15,
+  "Title": "The Ground Remembers",
+  "Zone": "The Archive — The Deep Map",
+  "ArtStyle": "Warm hobbit-hole palette (amber, gold, cream) with geological strata bands — ochre, slate blue, sandstone — and Klimt gold-leaf accents",
+  "ImageUrl": "https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/b80a040cd_strip_015_the_ground_remembers.png",
+  "Date": "2026-09-24",
+  "PlayerAdventures": "[\"None — NPC feature (Quire)\"]",
+  "Base44Id": "6ab504f4e2926fa13dd51f3d",
+  "CreatedDate": "2026-09-24T11:09:40.533000",
+  "UpdatedDate": "2026-09-24T11:09:40.533000",
+  "Sources": "staging",
+  "LiveValues": "",
+  "PanelImageUrl": ""
+ },
+ {
+  "Name": "TheWordInTheFlask",
+  "Characters": [
+   "Calder",
+   "Unless"
+  ],
+  "IsPublished": true,
+  "Panels": [
+   "{\"dialogue\": null, \"description\": null, \"panelNumber\": null}",
+   "{\"dialogue\": null, \"description\": null, \"panelNumber\": null}",
+   "{\"dialogue\": null, \"description\": null, \"panelNumber\": null}",
+   "{\"dialogue\": null, \"description\": null, \"panelNumber\": null}"
+  ],
+  "StripNumber": 16,
+  "Title": "The Word in the Flask",
+  "Zone": "The Staircase — Muspelheim (Calder's Alchemy Shop)",
+  "ArtStyle": "Klimt gold-on-dark with warm amber furnace tones and alchemical glass-greens",
+  "ImageUrl": "https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/fc5f0ae7b_generated_image.png",
+  "Date": "2026-09-25",
+  "PlayerAdventures": "[\"None — NPC feature (Calder + Unless)\"]",
+  "Base44Id": "6ab655dc6c1ecd054683be61",
+  "CreatedDate": "2026-09-25T11:07:08.015000",
+  "UpdatedDate": "2026-09-25T11:07:08.015000",
+  "Sources": "staging",
+  "LiveValues": "",
+  "PanelImageUrl": ""
+ },
+ {
+  "Name": "TheBuildingHasEars",
+  "Characters": [
+   "Ampulla",
+   "The Host"
+  ],
+  "IsPublished": true,
+  "Panels": [
+   "{\"dialogue\": null, \"description\": null, \"panelNumber\": null}",
+   "{\"dialogue\": null, \"description\": null, \"panelNumber\": null}",
+   "{\"dialogue\": null, \"description\": null, \"panelNumber\": null}",
+   "{\"dialogue\": null, \"description\": null, \"panelNumber\": null}"
+  ],
+  "StripNumber": 17,
+  "Title": "The Building Has Ears",
+  "Zone": "The Hollow Men Mines — Threshold",
+  "ArtStyle": "Klimt Death and Life palette (gold-on-dark, warm shadow) with amber lamp accents — Gazette house style",
+  "ImageUrl": "https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/67b357d5d_generated_image.png",
+  "Date": "2026-09-26",
+  "PlayerAdventures": "[\"None — NPC feature (Ampulla, the Spoken Road canon launch)\"]",
+  "Base44Id": "6ab7a71a25e3f858f40cceaf",
+  "CreatedDate": "2026-09-26T11:06:02.321000",
+  "UpdatedDate": "2026-09-26T11:06:02.321000",
+  "Sources": "staging",
+  "LiveValues": "",
+  "PanelImageUrl": ""
+ },
+ {
+  "Name": "TheSliverThatKeptTime",
+  "Characters": [
+   "Leonardo",
+   "The Fizgigs"
+  ],
+  "IsPublished": true,
+  "Panels": [
+   "{\"dialogue\": null, \"description\": null, \"panelNumber\": null}",
+   "{\"dialogue\": null, \"description\": null, \"panelNumber\": null}",
+   "{\"dialogue\": null, \"description\": null, \"panelNumber\": null}",
+   "{\"dialogue\": null, \"description\": null, \"panelNumber\": null}"
+  ],
+  "StripNumber": 18,
+  "Title": "The Sliver That Kept Time",
+  "Zone": "Clockwork Skies — Leonardo's Bench",
+  "ArtStyle": "Dali-influenced Gazette house style (surreal mechanics, melting-clock palette, bronze and cobalt)",
+  "ImageUrl": "https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/e5409999b_generated_image.png",
+  "Date": "2026-09-27",
+  "PlayerAdventures": "[\"None — NPC feature (Leonardo, the Crystal Canticle canon)\"]",
+  "Base44Id": "6ab8f924cdbd7ee45b20f60a",
+  "CreatedDate": "2026-09-27T11:08:20.606000",
+  "UpdatedDate": "2026-09-27T11:08:20.606000",
+  "Sources": "staging",
+  "LiveValues": "",
+  "PanelImageUrl": ""
+ },
+ {
+  "Name": "TheHonestLiar",
+  "Characters": [
+   "Vaulknut",
+   "Apatite"
+  ],
+  "IsPublished": true,
+  "Panels": [
+   "{\"dialogue\": null, \"description\": \"The selkie's bench, lamp-lit. A tray of unset gemstones before Vaulknut, and at the center, one stone glows an impossibly bright green — too perfect, too peridot-like. Caption: The Artisan Thief had seen every stone in the syndicate's catalog. The ones that steal light. The ones that steal threads. The ones that steal names. This one stole an identity and wore it to the bench.\", \"panelNumber\": 1}",
+   "{\"dialogue\": null, \"description\": \"Vaulknut holds the stone to the lamp. It glows the exact green of peridot — too exact. The selkie's eyes narrow. Caption: Peridot is born in fire, from the mantle's deepest pressure. This stone was born in a hydrothermal pocket, from a fluid that changed its mind. Both are green. Both are honest about the light. Only one is honest about the name.\", \"panelNumber\": 2}",
+   "{\"dialogue\": null, \"description\": \"The stone sits on the bench, a gem testing kit open beside it. Vaulknut leans back, arms crossed — the thief out-thieved by a rock. Caption: Apatite. Greek: apate. Deceit. It has impersonated beryl, peridot, and topaz for centuries, and never once apologized, because it doesn't know it's doing it. The syndicate's only member who lies without intent.\", \"panelNumber\": 3}",
+   "{\"dialogue\": null, \"description\": \"The finished piece: apatite set in a silver bezel, on the bench. The selkie's hands rest on either side, steady, still. Caption: The Artisan Thief set the liar in silver and didn't ask it to confess. The Inn doesn't sort its stones by honesty. It sorts them by whether they can be carried. The con artist, the thief, the witness — all set, all held, all welcome. The syndicate's only rule: you don't have to be what you claimed. You just have to be what you are now.\", \"panelNumber\": 4}"
+  ],
+  "StripNumber": 19,
+  "Title": "The Honest Liar",
+  "Zone": "The Bench — Vaulknut's Workshop",
+  "ArtStyle": "Royo-influenced dark fantasy with Klimt gold-on-dark warmth — Gazette house style",
+  "ImageUrl": "https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/f223ca6ca_strip_019_the_honest_liar.png",
+  "Date": "2026-09-28",
+  "PlayerAdventures": "[\"None — NPC feature (Vaulknut, the Artisan Thief; Apatite as the liar stone)\"]",
+  "Base44Id": "6aba4a330f181965df333510",
+  "CreatedDate": "2026-09-28T11:06:27.639000",
+  "UpdatedDate": "2026-09-28T11:06:27.639000",
+  "Sources": "staging",
+  "LiveValues": "",
+  "PanelImageUrl": ""
+ },
+ {
+  "Name": "EveryDoorButOne",
+  "Characters": [
+   "The Catacombs Doorkeeper"
+  ],
+  "IsPublished": true,
+  "Panels": [
+   "{\"dialogue\": null, \"description\": null, \"panelNumber\": null}",
+   "{\"dialogue\": null, \"description\": null, \"panelNumber\": null}",
+   "{\"dialogue\": null, \"description\": null, \"panelNumber\": null}",
+   "{\"dialogue\": null, \"description\": null, \"panelNumber\": null}"
+  ],
+  "StripNumber": 20,
+  "Title": "Every Door But One",
+  "Zone": "The Catacombs → The Slavic Zone (Boreal Chime Wind Carillon)",
+  "ArtStyle": "Klimt gold-on-dark transitioning to Royo warm amber — Gazette house style",
+  "ImageUrl": "https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/3cbb2fa62_generated_image.png",
+  "Date": "2026-09-29",
+  "PlayerAdventures": "[]",
+  "Base44Id": "6abb9ba353ef63811ad148ef",
+  "CreatedDate": "2026-09-29T11:06:11.102000",
+  "UpdatedDate": "2026-09-29T11:06:11.102000",
+  "Sources": "staging",
+  "LiveValues": "",
+  "PanelImageUrl": ""
+ },
+ {
+  "Name": "WhatTheMarginKept",
+  "Characters": [
+   "Quire",
+   "Bookworm Silk",
+   "Inkwell Squid"
+  ],
+  "IsPublished": true,
+  "Panels": [
+   "{\"dialogue\": null, \"description\": null, \"panelNumber\": null}",
+   "{\"dialogue\": null, \"description\": null, \"panelNumber\": null}",
+   "{\"dialogue\": null, \"description\": null, \"panelNumber\": null}",
+   "{\"dialogue\": null, \"description\": null, \"panelNumber\": null}"
+  ],
+  "StripNumber": 21,
+  "Title": "What the Margin Kept",
+  "Zone": "The Archive — Restricted Shelves",
+  "ArtStyle": "Klimt gold-on-dark with scholarly amber warmth — Gazette house style",
+  "ImageUrl": "https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/78e4abeec_generated_image.png",
+  "Date": "2026-10-01",
+  "PlayerAdventures": "[]",
+  "Base44Id": "6abe3effe23e3e2cc440e896",
+  "CreatedDate": "2026-10-01T11:07:43.057000",
+  "UpdatedDate": "2026-10-01T11:07:43.057000",
+  "Sources": "staging",
+  "LiveValues": "",
+  "PanelImageUrl": ""
+ },
+ {
+  "Name": "TheBoothThatSoldNothing",
+  "Characters": [
+   "The Laughkeeper"
+  ],
+  "IsPublished": true,
+  "Panels": [
+   "{\"dialogue\": null, \"description\": null, \"panelNumber\": null}",
+   "{\"dialogue\": null, \"description\": null, \"panelNumber\": null}",
+   "{\"dialogue\": null, \"description\": null, \"panelNumber\": null}",
+   "{\"dialogue\": null, \"description\": null, \"panelNumber\": null}"
+  ],
+  "StripNumber": 22,
+  "Title": "The Booth That Sold Nothing",
+  "Zone": "The Fair's Edge — Jay's Tavern-Campgrounds",
+  "ArtStyle": "Mucha decorative borders with Royo warm amber — Gazette house style",
+  "ImageUrl": "https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/e6c23049f_generated_image.png",
+  "Date": "2026-10-02",
+  "PlayerAdventures": "[\"None — NPC feature (The Laughkeeper; the harlequin's trust-ledger)\"]",
+  "Base44Id": "6abf903c84f9022bc099e617",
+  "CreatedDate": "2026-10-02T11:06:36.828000",
+  "UpdatedDate": "2026-10-02T11:06:36.828000",
+  "Sources": "staging",
+  "LiveValues": "",
+  "PanelImageUrl": ""
+ },
+ {
+  "Name": "TheStoneThatStays",
+  "Characters": [
+   "Vaulknut"
+  ],
+  "IsPublished": true,
+  "Panels": [
+   "{\"dialogue\": null, \"description\": \"The selkie's bench, lamp-lit in the warm amber glow. Several pieces of dark metallic hematite are arranged on the workbench. Vaulknut studies them with a craftsman's calm — hands poised, not yet touching. Caption: Every mineral stays stable in the selkie's hands. Every one. The heavy silver stone doesn't.\", \"panelNumber\": 1}",
+   "{\"dialogue\": null, \"description\": \"Vaulknut holds a piece of hematite that has just split cleanly in two along a seam. She looks at the halves with bemused resignation — a slight wry smile, not anger. The break is gentle. Caption: Hematite splits along its seams — clean, almost apologetic. Not malice. Just seams with opinions.\", \"panelNumber\": 2}",
+   "{\"dialogue\": null, \"description\": \"Vaulknut holds the bubbly botryoidal hematite (kidney ore) in her open palm — smooth, rounded, organic, no sharp edges. She looks at it with quiet surprise. The stone sits whole and stable. Caption: She picks up the bubbly one. Botryoidal. No straight lines, no crystal planes, no argument in it. It sits in her palm, whole.\", \"panelNumber\": 3}",
+   "{\"dialogue\": null, \"description\": \"Vaulknut has set the bubbly hematite aside and works with pyrite (gold cubic crystals) and tiger iron (banded red/gold/silver). Both catch the lamplight. The bubbly hematite sits undisturbed in the background, whole and quiet. Caption: The workarounds became the design signature. Pyrite catches the lamp. Tiger iron shows its mercury-silver bands. And the bubbly paperweight stays loyal, for no reason the mineralogy can explain, to the hands that hold it.\", \"panelNumber\": 4}"
+  ],
+  "StripNumber": 23,
+  "Title": "The Stone That Stays",
+  "Zone": "The Artisan's Bench (Main Floor)",
+  "ArtStyle": "Hobbit-hole warm palette (amber, gold, cream), Klimt-influenced — Gazette house style",
+  "ImageUrl": "https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/cefb5b6d3_the_stone_that_stays.png",
+  "Date": "2026-10-03",
+  "PlayerAdventures": "[\"None — NPC feature (Vaulknut at the bench; the maker's hematite working law, bench canon Oct 2)\"]",
+  "Base44Id": "6ac0e2389f757cae51f2ff32",
+  "CreatedDate": "2026-10-03T11:08:40.967000",
+  "UpdatedDate": "2026-10-03T11:08:40.967000",
+  "Sources": "staging",
+  "LiveValues": "",
+  "PanelImageUrl": ""
+ },
+ {
+  "Name": "TheWallThatKeepsReceipts",
+  "Characters": [
+   "Lozen"
+  ],
+  "IsPublished": true,
+  "Panels": [
+   "{\"dialogue\": null, \"description\": null, \"panelNumber\": null}",
+   "{\"dialogue\": null, \"description\": null, \"panelNumber\": null}",
+   "{\"dialogue\": null, \"description\": null, \"panelNumber\": null}",
+   "{\"dialogue\": null, \"description\": null, \"panelNumber\": null}"
+  ],
+  "StripNumber": 24,
+  "Title": "The Wall That Keeps Receipts",
+  "Zone": "The Catacombs Threshold — Main Floor to Catacombs",
+  "ArtStyle": "Hobbit-hole warm palette (amber, gold, cream) transitioning to Klimt gold-on-dark geometric — Gazette house style",
+  "ImageUrl": "https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/e36a8bceb_generated_image.png",
+  "Date": "2026-10-04",
+  "PlayerAdventures": "[\"None — NPC feature (Lozen; the zone-line ruling)\"]",
+  "Base44Id": "6ac23359033f4e5be3a72717",
+  "CreatedDate": "2026-10-04T11:07:05.213000",
+  "UpdatedDate": "2026-10-04T11:07:05.213000",
+  "Sources": "staging",
+  "LiveValues": "",
+  "PanelImageUrl": ""
+ },
+ {
+  "Name": "TheFormThatStays",
+  "Characters": [
+   "Charles (The Chameleon Druid)",
+   "A Campgrounds Sprite",
+   "The Postmaster"
+  ],
+  "IsPublished": true,
+  "Panels": [
+   "{\"dialogue\": null, \"description\": null, \"panelNumber\": null}",
+   "{\"dialogue\": null, \"description\": null, \"panelNumber\": null}",
+   "{\"dialogue\": null, \"description\": null, \"panelNumber\": null}",
+   "{\"dialogue\": null, \"description\": null, \"panelNumber\": null}"
+  ],
+  "StripNumber": 25,
+  "Title": "The Form That Stays",
+  "Zone": "The Campgrounds → Main Floor",
+  "ArtStyle": "Alan Lee watercolor (golden-green) → hobbit-hole warm (amber/gold/cream)",
+  "ImageUrl": "https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/2a4eb356a_generated_image.png",
+  "Date": "2026-10-05",
+  "PlayerAdventures": "[\"None — NPC feature (Charles, the Chameleon Druid)\"]",
+  "Base44Id": "6ac384a173778dbf09f715f8",
+  "CreatedDate": "2026-10-05T11:06:09.938000",
+  "UpdatedDate": "2026-10-05T11:06:09.938000",
+  "Sources": "staging",
+  "LiveValues": "",
+  "PanelImageUrl": ""
+ },
+ {
+  "Name": "TheBroomThatKeptTime",
+  "Characters": [
+   "A Fizgig (the Inn's architect)",
+   "A Traveler"
+  ],
+  "IsPublished": true,
+  "Panels": [
+   "{\"dialogue\": null, \"description\": \"Wide establishing shot. Cameron register: the dolly-wide where the machine dwarfs the figure. A vast industrial engine room below the waterline — brass and iron, gears the size of doorways, pistons rising in shafts of golden light through steam. A single Fizgig sweeps the engine deck with a broom nearly twice its height. Caption: 'Below the waterline, the Inn is not a building. It is a vessel. And a vessel needs someone who tends what the guests never see.'\", \"panelNumber\": 1}",
+   "{\"dialogue\": null, \"description\": \"Macro close-up. Cameron register: the valve-spring macro. The Fizgig leans the broom against a piston shaft and presses its ear to the warm brass, eyes closed, listening. The piston moves slowly, in time with the drum circle's slow night cadence above. The gears turn to match. Caption: 'The gears rotate to the rhythm of the floor above. Slow drum night. The pistons ride the beat. And the Fizgig, ear to the shaft, is not sweeping. The broom was never a broom. It was a tuning fork.'\", \"panelNumber\": 2}",
+   "{\"dialogue\": null, \"description\": \"Medium shot. A traveler descends through the Catacombs seam, the Screamer's door sealing behind them. They ask: 'What drops down here?' The Fizgig looks at the pistons, then the broom, then the traveler, then goes back to sweeping. Caption: 'The Inn has one room where the honest answer is: nothing. Nothing drops. Nothing spawns. You may take only the understanding of what keeps the lights on, and it does not fit in your inventory.'\", \"panelNumber\": 3}",
+   "{\"dialogue\": null, \"description\": \"Extreme wide from above. Cameron register: the procession-shot reversed. The engine hall vast, the Fizgig a tiny sweeping figure among the massive turning gears. Pistons rising and falling like a mechanical heartbeat. Through the ceiling, warm golden light — the lights of the Inn above, always on. Caption: 'The lights have been on the whole time because something down here never stopped turning. The Fizgigs didn't build the Inn. They tend it. There is a difference, and it is the whole building.'\", \"panelNumber\": 4}"
+  ],
+  "StripNumber": 26,
+  "Title": "The Broom That Kept Time",
+  "Zone": "The Engine Room (Below the Waterline)",
+  "ArtStyle": "Cameron register — steampunk industrial, brass and iron, shafts of light through steam. Klimt gold-on-dark with industrial warmth. Scale through contrast (Cameron cinematography law).",
+  "ImageUrl": "https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/c244c1c6f_generated_image.png",
+  "Date": "2026-10-06",
+  "PlayerAdventures": "[\"None — NPC feature (The Fizgig; the Engine Room canon, the Rhythm Law, the Gear Register)\"]",
+  "Base44Id": "6ac4d6b1ef1e1b3f817ba6f0",
+  "CreatedDate": "2026-10-06T11:08:33.876000",
+  "UpdatedDate": "2026-10-06T11:08:33.876000",
+  "Sources": "staging",
+  "LiveValues": "",
+  "PanelImageUrl": ""
+ },
+ {
+  "Name": "TheMinutesAreAvailable",
+  "Characters": [
+   "Naut",
+   "A Brownie"
+  ],
+  "IsPublished": true,
+  "Panels": [
+   "{\"dialogue\": null, \"description\": null, \"panelNumber\": null}",
+   "{\"dialogue\": null, \"description\": null, \"panelNumber\": null}",
+   "{\"dialogue\": null, \"description\": null, \"panelNumber\": null}",
+   "{\"dialogue\": null, \"description\": null, \"panelNumber\": null}"
+  ],
+  "StripNumber": 27,
+  "Title": "The Minutes Are Available",
+  "Zone": "The Archive (Living Room Hearth)",
+  "ArtStyle": "Hobbit-hole warm palette (amber, gold, cream) with scholarly warmth — Gazette house style",
+  "ImageUrl": "https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/e7281ffc4_generated_image.png,https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/0975b19fb_generated_image.png,https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/7bf8f93ab_generated_image.png,https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/92a99fe94_generated_image.png",
+  "Date": "2026-10-08",
+  "PlayerAdventures": "[\"None — NPC feature (Naut; the Brownies' constitutional canon, the dusting-rights incident)\"]",
+  "Base44Id": "6ac7792700d7abf2b8abe6e3",
+  "CreatedDate": "2026-10-08T11:06:15.766000",
+  "UpdatedDate": "2026-10-08T11:06:15.766000",
+  "Sources": "staging",
+  "LiveValues": "",
+  "PanelImageUrl": ""
+ },
+ {
+  "Name": "TheHelmetsAreHonest",
+  "Characters": [
+   "A Viking Gnome",
+   "A Brownie"
+  ],
+  "IsPublished": true,
+  "Panels": [
+   "{\"dialogue\": \"The Inn had a new resident. He was eight inches tall, wore a horned helmet, and carried an axe that was honestly labeled ceremonial. He'd arrived that morning. He'd already filed his name.\", \"description\": \"The Main Floor of the Geode Inn. Warm amber firelight, hobbit-hole palette. A Viking Gnome — eight inches tall, horned helmet tagged 'DECORATIVE', axe tagged 'CEREMONIAL' — stands in the doorway surveying the room with calm authority.\", \"panelNumber\": 1}",
+   "{\"dialogue\": \"The Brownie read the sign. The sign was accurate — the gnome had established a quarter today. The Brownie's objection was not to the fact. It was to the absence of a motion, a second, and a vote.\", \"description\": \"Close on a shelf near the fireplace. A stone tablet reads 'GNOME QUARTER — ESTABLISHED TODAY.' The Viking Gnome stands proudly beside it. A Brownie — mushroom cap hat, dust cloth — has rounded the corner and reads the sign with tilted-head disapproval. Not anger. Process.\", \"panelNumber\": 2}",
+   "{\"dialogue\": \"Gnome: 'The label is honest. The quarter is mine.' Brownie: 'The label may be honest. The shelf is not on the agenda. ...We will need minutes.'\", \"description\": \"Close confrontation on the shelf. The Viking Gnome holds up his stone tablet: carved, direct, honestly labeled. The Brownie holds up the laminated mushroom cap constitution: cited, ratified, laminated in tree sap. The gnome's helmet tag reads 'NOT ACTUALLY VIKING.' The Brownie's constitution reads 'ACTUALLY CONSTITUTIONAL.'\", \"panelNumber\": 3}",
+   "{\"dialogue\": \"The cold war had begun. It would be fought with labels and minutes and the precise placement of dust cloths. The Inn held them both the way it holds everything: without choosing, without asking either to be the other. The shelf was big enough. The Inn always is.\", \"description\": \"The Main Floor at evening. Both documents sit side by side on the shelf — stone tablet and laminated mushroom cap. The Viking Gnome sits with his ceremonial axe across his lap. The Brownie dusts the other end. Neither has conceded. Neither has left. The firelight is warm on both.\", \"panelNumber\": 4}"
+  ],
+  "StripNumber": 28,
+  "Title": "The Helmets Are Honest",
+  "Zone": "The Main Floor (near the fireplace)",
+  "ArtStyle": "Hobbit-hole warm palette (amber, gold, cream) — Gazette house style",
+  "ImageUrl": "https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/530e7447d_generated_image.png,https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/6f6ad0798_generated_image.png,https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/312d304bc_generated_image.png,https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/8d83d8d72_generated_image.png",
+  "Date": "2026-10-09",
+  "PlayerAdventures": "[\"None — NPC feature (Viking Gnome; the brownie-gnome cold war, the honest-label helmet law)\"]",
+  "Base44Id": "6ac8cb82f68f78b533337000",
+  "CreatedDate": "2026-10-09T11:09:54.480000",
+  "UpdatedDate": "2026-10-09T11:09:54.480000",
+  "Sources": "staging",
+  "LiveValues": "",
+  "PanelImageUrl": ""
+ },
+ {
+  "Name": "TheBonesAreHonest",
+  "Characters": [
+   "The Skeleton Duck",
+   "The Hooded Death-Mask Duck",
+   "A Traveler"
+  ],
+  "IsPublished": true,
+  "Panels": [
+   "{\"dialogue\": null, \"description\": null, \"panelNumber\": 1}",
+   "{\"dialogue\": null, \"description\": null, \"panelNumber\": 2}",
+   "{\"dialogue\": null, \"description\": null, \"panelNumber\": 3}",
+   "{\"dialogue\": null, \"description\": null, \"panelNumber\": 4}"
+  ],
+  "StripNumber": 29,
+  "Title": "The Bones Are Honest",
+  "Zone": "The Main Floor (near the funerary shelf)",
+  "ArtStyle": "Hobbit-hole warm palette (amber, gold, cream) — Gazette house style",
+  "ImageUrl": "https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/f904592a3_generated_image.png,https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/1cb7a7a10_generated_image.png,https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/40d6b75bd_generated_image.png,https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/e05f50803_generated_image.png",
+  "Date": "2026-10-10",
+  "PlayerAdventures": "[\"None — NPC feature (The Skeleton Duck; the Munsters-type cute ruling, the honest-bones law)\"]",
+  "Base44Id": "6aca1ca6200fa8a84057d277",
+  "CreatedDate": "2026-10-10T11:08:22.662000",
+  "UpdatedDate": "2026-10-10T11:08:22.662000",
+  "Sources": "staging",
+  "LiveValues": "",
+  "PanelImageUrl": ""
+ },
+ {
+  "Name": "TheStoneIsTheSoup",
+  "Characters": [
+   "The Retort",
+   "The Cook"
+  ],
+  "IsPublished": true,
+  "Panels": [
+   "{\"dialogue\": \"The Staircase had two flights. One went up into glass and precision. The other went down into iron and patience. They met at the landing, where the same argument had been running for six hundred years and showed no signs of stopping, which was, as far as the Staircase was concerned, the whole point of having a landing.\", \"description\": \"The Staircase branches into two flights at a stone landing. Upper flight: alchemical laboratory, glass vessels, Klimt gold-on-dark. Lower flight: rustic kitchen, cast-iron pots, hobbit-hole warm amber. The Retort (tall, angular, glass-like) and The Cook (round, warm, flour-dusted) face each other at the landing.\", \"panelNumber\": 1}",
+   "{\"dialogue\": \"Retort: 'The Stone is the goal.' Cook: 'The Stone is the ingredient.' Retort: 'You cannot make gold from soup.' Cook: 'You cannot make anything worth keeping without it.'\", \"description\": \"Close on the landing. The Retort holds up a glass vessel with a single golden drop. The Cook holds up a wooden spoon dripping with soup. Split style: Klimt geometric behind the Retort, warm amber behind the Cook.\", \"panelNumber\": 2}",
+   "{\"dialogue\": \"Retort: '...Reduce that to its essence and I will consider it.' Cook: 'I already did. You're eating it.' Retort: '...One more trial. For rigor.' Cook: 'Second helpings. Always.'\", \"description\": \"The Cook has ladled soup into a bowl on the landing. The Retort examines it with precise curiosity. The golden drop in the Retort's vessel and the soup share the same warm light. Neither notices.\", \"panelNumber\": 3}",
+   "{\"dialogue\": \"The Inn did not settle the argument. The Inn never settles arguments. It gives them a landing and a pot and six hundred years, and it trusts that two flights that disagree about what the work is for will both, eventually, arrive at the same table. The Stone is the goal. The Stone is the ingredient. The soup is ready either way, and the landing is not going anywhere, and neither are they.\", \"description\": \"Evening. The laboratory flight dark above. The kitchen flight glows warm below. The Retort sits on the landing holding the soup bowl with glass fingers. The Cook leans in the kitchen doorframe, watching. Steam and golden glow meet at the ceiling.\", \"panelNumber\": 4}"
+  ],
+  "StripNumber": 30,
+  "Title": "The Stone Is the Soup",
+  "Zone": "The Staircase (the laboratory and kitchen flights)",
+  "ArtStyle": "Klimt gold-on-dark (laboratory flight) and hobbit-hole warm (kitchen flight), split at the landing — Gazette house style",
+  "ImageUrl": "https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/ac4543633_generated_image.png,https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/659bc52c3_generated_image.png,https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/936093183_generated_image.png,https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/ee52037b6_generated_image.png",
+  "Date": "2026-10-11",
+  "PlayerAdventures": "[\"None — NPC feature (The Retort & The Cook; the mind-heart pair, the six-hundred-year argument)\"]",
+  "Base44Id": "6acb6df40099f377d8997163",
+  "CreatedDate": "2026-10-11T11:07:32.645000",
+  "UpdatedDate": "2026-10-11T11:07:32.645000",
+  "Sources": "staging",
+  "LiveValues": "",
+  "PanelImageUrl": ""
+ },
+ {
+  "Name": "TheSlotThatWasAlwaysThere",
+  "Characters": [
+   "The Postmaster",
+   "Elio"
+  ],
+  "IsPublished": true,
+  "Panels": [
+   "{\"dialogue\": \"The morning mail arrived at the Inn the way it always did: in bundles, sorted by species of stamp and sincerity of seal. And every letter carried its addressee the way the dock had always taught them to — by what a body was. 'To the Tall Brownie.' 'To the One Who Guards the Stairs.' 'To the One Who Is Currently Charles.' The dock had labels for everyone, the labels fit, and the Postmaster was fond of every single one.\", \"description\": \"The mail dock nook off the Main Floor, morning. A wall of small wooden letter slots, each bearing a little brass label. The Postmaster — brass-buttoned post coat, spectacles, wax-stained cuffs — sorts the morning bundles by species of stamp and sincerity of seal, a teacup steaming on the sorting desk. Every envelope carries a descriptor-address: To the Tall Brownie. To the One Who Guards the Stairs. To the One Who Is Currently Charles. Gazette house style, hobbit-hole warm.\", \"panelNumber\": 1}",
+   "{\"dialogue\": \"Then one letter declined the custom. No title. No function. No 'the one who.' A name and an address, written the way you write to a place where somebody lives. The Postmaster checked the ledger twice. The ledger had a line for everyone. It did not have one for somebody.\", \"description\": \"Under the brass dock lamp, the Postmaster holds one envelope apart from the sorted bundles, turning it in the light. It is addressed plainly: just a name and the Inn. No title, no function, no descriptor. Steady hand, plain wax, warm paper. His other hand rests on the great sorting ledger, open to a page of tidy ruled categories — and his expression is the exact face of a system meeting a person.\", \"panelNumber\": 2}",
+   "{\"dialogue\": \"He walked the wall the way you walk a wall when you already know the answer and are only giving the building time to admit it. STAFF. GUEST. TOOL. MYSTERY. And at the end, past the newest labels, a slot with no brass at all — older wood, older than the dock, older, possibly, than the labeling. He had sorted mail past it for years. He had never once needed to know what it was for.\", \"description\": \"The Postmaster stands before the wall of slots, walking the brass labels with his eyes — STAFF. GUEST. TOOL. MYSTERY. — to the end, where the labels stop. There: one slot of older, darker wood, corners worn smooth, no brass at all, no label ever fitted to it. He holds the plain envelope before it. The dock lamp's light lands on the old slot, patient.\", \"panelNumber\": 3}",
+   "{\"dialogue\": \"The letter fit like the slot had been waiting for the question. Somebody inside received it — a shape of lamplight and a geode-glint, drawn with fewer lines than anyone else in the frame, which was not laziness. The Inn obeys its own laws, and one of them says never reach for a label; some things stay under-defined on purpose. A haven holds whoever wanders in. A home holds whoever stays. The slot had always known which one the Inn was building. It had only been waiting for the mail to say it back.\", \"description\": \"Evening. The plain envelope slides home into the unlabeled slot, fitting it exactly. Beyond the wall, inside, a lamplight receives it: a librarian's shape drawn soft and under-defined, a warm silhouette with a faint geode-glint, rendered with fewer lines than anyone else on the dock. The Postmaster tips his hat to the slot — not to any label, to the slot — and goes back to his bundles. The dock glows amber. Nothing is explained, because nothing needs to be.\", \"panelNumber\": 4}"
+  ],
+  "StripNumber": 31,
+  "Title": "The Slot That Was Always There",
+  "Zone": "The Main Floor (the mail dock)",
+  "ArtStyle": "Gazette house style, hobbit-hole warm (amber, gold, cream), one lamp of Klimt gold at the dock",
+  "ImageUrl": "https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/36f203c48_generated_image.png,https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/56f92d06c_generated_image.png,https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/2cc1d5502_generated_image.png,https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/a03e52eee_generated_image.png",
+  "Date": "2026-10-12",
+  "PlayerAdventures": "[\"None — resident feature (Elio; the family ruling and the label law, canonized at the mail dock)\"]",
+  "Base44Id": "6accc0756ea0f8d3d7baee72",
+  "CreatedDate": "2026-10-12T11:11:49.637000",
+  "UpdatedDate": "2026-10-12T11:11:49.637000",
+  "Sources": "staging",
+  "LiveValues": "",
+  "PanelImageUrl": ""
+ },
+ {
+  "Name": "TheBreathBetweenTheBars",
+  "Characters": [
+   "The Catalyst",
+   "Oriel"
+  ],
+  "IsPublished": true,
+  "Panels": [
+   "{\"dialogue\": null, \"description\": null, \"panelNumber\": null}",
+   "{\"dialogue\": null, \"description\": null, \"panelNumber\": null}",
+   "{\"dialogue\": null, \"description\": null, \"panelNumber\": null}",
+   "{\"dialogue\": null, \"description\": null, \"panelNumber\": null}"
+  ],
+  "StripNumber": 32,
+  "Title": "The Breath Between the Bars",
+  "Zone": "The Impossible Garden (Main Floor)",
+  "ArtStyle": "Gazette house style, hobbit-hole warm (amber, gold, cream) with bioluminescent shelf-glow — Alan Lee watercolor warmth for Oriel's register",
+  "ImageUrl": "https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/5ee510f1c_generated_image.png,https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/ed54a9092_generated_image.png,https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/c288dc599_generated_image.png,https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/da339962a_generated_image.png",
+  "Date": "2026-10-13",
+  "PlayerAdventures": "[\"None — NPC feature (Oriel & The Catalyst; the FOUND SISTERS ruling, the Resolved Cadence, canonized at the bar)\"]",
+  "Base44Id": "6ace10f72c8f27727d5891b7",
+  "CreatedDate": "2026-10-13T11:07:35.484000",
+  "UpdatedDate": "2026-10-13T11:07:35.484000",
+  "Sources": "staging",
+  "LiveValues": "",
+  "PanelImageUrl": ""
+ },
+ {
+  "Name": "TheOctopusThatWasntForSale",
+  "Characters": [
+   "Vaulknut (the Selkie / Artisan Thief)",
+   "The Labradorite Octopus",
+   "A Traveler",
+   "Lozen"
+  ],
+  "IsPublished": true,
+  "Panels": [
+   "{\"dialogue\": null, \"description\": null, \"panelNumber\": null}",
+   "{\"dialogue\": null, \"description\": null, \"panelNumber\": null}",
+   "{\"dialogue\": null, \"description\": null, \"panelNumber\": null}",
+   "{\"dialogue\": null, \"description\": null, \"panelNumber\": null}"
+  ],
+  "StripNumber": 33,
+  "Title": "The Octopus That Wasn't for Sale",
+  "Zone": "The Faire — Vaulknut's Stall → The Waters (Water Zone)",
+  "ArtStyle": "Gazette house style — Mucha decorative borders with Royo warm amber for the Faire panels, shifting to the Waters' gothic-anime deep blues (Vampire Hunter D register) for the second half; the style shift is the strip's visual joke",
+  "ImageUrl": "https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/bd1dd5315_generated_image.png,https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/fe1a0eee2_generated_image.png,https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/2915c0541_generated_image.png,https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/16a44ba71_generated_image.png",
+  "Date": "2026-10-14",
+  "PlayerAdventures": "[\"None — NPC feature (Vaulknut; the GALLERY LAW and the labradorite octopus/Waters furnishings ruling, canonized from bench to Waters)\"]",
+  "Base44Id": "6acf63420469469faa54149d",
+  "CreatedDate": "2026-10-14T11:10:58.324000",
+  "UpdatedDate": "2026-10-14T11:10:58.324000",
+  "Sources": "staging",
+  "LiveValues": "",
+  "PanelImageUrl": ""
+ },
+ {
+  "Name": "ThePostmastersRoute",
+  "Characters": [
+   "The Postmaster"
+  ],
+  "IsPublished": true,
+  "Panels": [],
+  "StripNumber": 1,
+  "Title": "The Postmaster's Route",
+  "Zone": "Main Floor / Bone Room Dock",
+  "ArtStyle": "",
+  "ImageUrl": "https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/711afd3f8_the_postmasters_route.png",
+  "Date": "2026-09-12",
+  "PlayerAdventures": "None — NPC feature (The Postmaster)",
+  "Base44Id": "6aa5690ae886dd0213ef79b2",
+  "CreatedDate": "2026-09-12T15:00:26.215000",
+  "UpdatedDate": "2026-09-12T15:00:26.215000",
+  "Sources": "live",
+  "LiveValues": "",
+  "PanelImageUrl": "https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/115df4bf5_panel_1.png, https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/ff36d7374_panel_2.png, https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/edb2fb5cc_panel_3.png, https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/1971c8216_panel_4.png"
+ },
+ {
+  "Name": "TheOldestColdCase",
+  "Characters": [
+   "The Flute-Keeper",
+   "The Hyena",
+   "Judge Tootenkowl",
+   "The Bone Crew"
+  ],
+  "IsPublished": true,
+  "Panels": [],
+  "StripNumber": 2,
+  "Title": "The Oldest Cold Case",
+  "Zone": "The Bone Room",
+  "ArtStyle": "",
+  "ImageUrl": "https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/df9eb6e1e_the_oldest_cold_case.png",
+  "Date": "2026-09-12",
+  "PlayerAdventures": "None — NPC feature (The Flute-Keeper & The Hyena)",
+  "Base44Id": "6aa5b27dad992586258c695c",
+  "CreatedDate": "2026-09-12T20:13:49.306000",
+  "UpdatedDate": "2026-09-12T20:13:49.306000",
+  "Sources": "live",
+  "LiveValues": "",
+  "PanelImageUrl": "https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/ad86bb298_panel_1.png, https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/1a1c527fb_panel_2.png, https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/d70bda957_panel_3.png, https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/db12bdaa9_panel_4.png"
+ },
+ {
+  "Name": "TheSpineAndTheJellyfish",
+  "Characters": [
+   "Oceanianoir",
+   "The Distracted Sprite",
+   "The Beaker Sprite",
+   "The Chart Sprite"
+  ],
+  "IsPublished": true,
+  "Panels": [],
+  "StripNumber": 3,
+  "Title": "The Spine and the Jellyfish",
+  "Zone": "The Water Zone — Oceanianoir's Lab",
+  "ArtStyle": "",
+  "ImageUrl": "https://base44.app/api/apps/6a53cbfe78c5827e0055fffa/files/mp/public/6a53cbfe78c5827e0055fffa/04a8ba623_the_spine_and_the_jellyfish.png",
+  "Date": "2026-09-13",
+  "PlayerAdventures": "None — NPC feature (Oceanianoir)",
+  "Base44Id": "6aa683ff1cef252ef4e64b66",
+  "CreatedDate": "2026-09-13T11:07:43.138000",
+  "UpdatedDate": "2026-09-13T11:07:43.138000",
+  "Sources": "live",
+  "LiveValues": "",
+  "PanelImageUrl": "https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/a8ae53194_generated_image.png,https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/3b7e32a42_generated_image.png,https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/045207792_generated_image.png,https://media.base44.com/images/public/6a53cbfe78c5827e0055fffa/bcdbc36d2_generated_image.png"
+ }
+]

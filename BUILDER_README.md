@@ -9,6 +9,7 @@ The fizgigs read this file first. All specs are in the `docs/` folder.
 - **Check the open rulings before building anything with a count or a name in it.** The manual lists every number and name that changed and was never settled (`docs/manual/08_audit.md`, section 3, "To reconcile"), and everything waiting on Krista (section 2, "Open items").
 - **One Project Bible.** There used to be two, with names that differed only in capital letters. They are merged into `docs/GEODE_INN_PROJECT_BIBLE.md`; edit only that one.
 - **Building starts with the Main Floor.** `docs/build_lists/01_main_floor.md` puts the Main Floor's canon, what the game build already has and what is still owed on one page, with the rulings to settle first. It is a draft until it has been checked against Krista's zone files.
+- **The game is moving to Unreal Engine (ruled by Krista, November 2026).** All the game data is in `unreal/data/` as 30 Unreal DataTables with their row structs, ready to import; its `README.md` lists the tables and how they were checked. The repo stays the data source for geodeinn.com.
 
 Builder messages written after September 10:
 

@@ -1,0 +1,370 @@
+{
+ "summary": {
+  "tables": 30,
+  "rows": 3795,
+  "sourceRecords": 4274,
+  "problems": []
+ },
+ "tables": {
+  "Stones": {
+   "struct": "FGeodeStonesRow",
+   "rows": 202,
+   "sourceRecords": 366,
+   "fields": 39,
+   "source": "docs/base44_data/elio/Stone.json + docs/base44_data/live/Stone.json",
+   "checks": [
+    "201 staging + 165 live records; 164 matched by name and merged; 202 rows",
+    "every source value found in the output"
+   ],
+   "valuesNotFound": 0
+  },
+  "Materials": {
+   "struct": "FGeodeMaterialsRow",
+   "rows": 142,
+   "sourceRecords": 150,
+   "fields": 28,
+   "source": "docs/base44_data/elio/Material.json + docs/base44_data/live/Material.json",
+   "checks": [
+    "119 staging + 31 live records; 8 matched by name and merged; 142 rows",
+    "every source value found in the output"
+   ],
+   "valuesNotFound": 0
+  },
+  "BuildingRecipes": {
+   "struct": "FGeodeBuildingRecipesRow",
+   "rows": 156,
+   "sourceRecords": 156,
+   "fields": 19,
+   "source": "docs/base44_data/elio/BuildingRecipe.json + docs/base44_data/live/BuildingRecipe.json",
+   "checks": [
+    "148 staging + 8 live records; 0 matched by name and merged; 156 rows",
+    "every source value found in the output"
+   ],
+   "valuesNotFound": 0
+  },
+  "GameItems": {
+   "struct": "FGeodeGameItemsRow",
+   "rows": 355,
+   "sourceRecords": 355,
+   "fields": 13,
+   "source": "docs/base44_data/elio/GameItem.json",
+   "checks": [
+    "355 staging + 0 live records; 0 matched by name and merged; 355 rows",
+    "every source value found in the output"
+   ],
+   "valuesNotFound": 0
+  },
+  "MarketItems": {
+   "struct": "FGeodeMarketItemsRow",
+   "rows": 101,
+   "sourceRecords": 196,
+   "fields": 31,
+   "source": "docs/base44_data/elio/MarketItem.json + docs/base44_data/live/MarketItem.json",
+   "checks": [
+    "95 staging + 101 live records; 95 matched by name and merged; 101 rows",
+    "every source value found in the output"
+   ],
+   "valuesNotFound": 0
+  },
+  "ElementCharms": {
+   "struct": "FGeodeElementCharmsRow",
+   "rows": 118,
+   "sourceRecords": 118,
+   "fields": 17,
+   "source": "docs/base44_data/elio/ElementCharm.json",
+   "checks": [
+    "118 staging + 0 live records; 0 matched by name and merged; 118 rows",
+    "every source value found in the output"
+   ],
+   "valuesNotFound": 0
+  },
+  "QuestCharms": {
+   "struct": "FGeodeQuestCharmsRow",
+   "rows": 45,
+   "sourceRecords": 45,
+   "fields": 15,
+   "source": "docs/base44_data/elio/QuestCharm.json",
+   "checks": [
+    "45 staging + 0 live records; 0 matched by name and merged; 45 rows",
+    "every source value found in the output"
+   ],
+   "valuesNotFound": 0
+  },
+  "Dialogue": {
+   "struct": "FGeodeDialogueRow",
+   "rows": 557,
+   "sourceRecords": 603,
+   "fields": 18,
+   "source": "docs/base44_data/elio/Dialogue.json + docs/base44_data/live/Dialogue.json",
+   "checks": [
+    "557 staging + 46 live records; 46 matched by name and merged; 557 rows",
+    "every source value found in the output"
+   ],
+   "valuesNotFound": 0
+  },
+  "Lore": {
+   "struct": "FGeodeLoreRow",
+   "rows": 445,
+   "sourceRecords": 445,
+   "fields": 24,
+   "source": "docs/base44_data/elio/Lore.json + docs/base44_data/live/Lore.json",
+   "checks": [
+    "209 staging + 236 live records; 0 matched by name and merged; 445 rows",
+    "every source value found in the output"
+   ],
+   "valuesNotFound": 0
+  },
+  "Books": {
+   "struct": "FGeodeBooksRow",
+   "rows": 920,
+   "sourceRecords": 1086,
+   "fields": 26,
+   "source": "docs/base44_data/elio/Book.json + docs/base44_data/live/Book.json",
+   "checks": [
+    "179 staging + 907 live records; 166 matched by name and merged; 920 rows",
+    "every source value found in the output"
+   ],
+   "valuesNotFound": 0
+  },
+  "BookTranslations": {
+   "struct": "FGeodeBookTranslationsRow",
+   "rows": 8,
+   "sourceRecords": 8,
+   "fields": 15,
+   "source": "docs/base44_data/live/BookTranslation.json",
+   "checks": [
+    "0 staging + 8 live records; 0 matched by name and merged; 8 rows",
+    "every source value found in the output"
+   ],
+   "valuesNotFound": 0
+  },
+  "ScholarlyBridges": {
+   "struct": "FGeodeScholarlyBridgesRow",
+   "rows": 4,
+   "sourceRecords": 4,
+   "fields": 11,
+   "source": "docs/base44_data/live/ScholarlyBridge.json",
+   "checks": [
+    "0 staging + 4 live records; 0 matched by name and merged; 4 rows",
+    "every source value found in the output"
+   ],
+   "valuesNotFound": 0
+  },
+  "ComicStrips": {
+   "struct": "FGeodeComicStripsRow",
+   "rows": 50,
+   "sourceRecords": 50,
+   "fields": 16,
+   "source": "docs/base44_data/elio/ComicStrip.json + docs/base44_data/live/ComicStrip.json",
+   "checks": [
+    "47 staging + 3 live records; 0 matched by name and merged; 50 rows",
+    "every source value found in the output"
+   ],
+   "valuesNotFound": 0
+  },
+  "PodcastEpisodes": {
+   "struct": "FGeodePodcastEpisodesRow",
+   "rows": 6,
+   "sourceRecords": 6,
+   "fields": 13,
+   "source": "docs/base44_data/live/PodcastEpisode.json",
+   "checks": [
+    "0 staging + 6 live records; 0 matched by name and merged; 6 rows",
+    "every source value found in the output"
+   ],
+   "valuesNotFound": 0
+  },
+  "SteamTitles": {
+   "struct": "FGeodeSteamTitlesRow",
+   "rows": 19,
+   "sourceRecords": 19,
+   "fields": 18,
+   "source": "docs/base44_data/live/SteamTitle.json",
+   "checks": [
+    "0 staging + 19 live records; 0 matched by name and merged; 19 rows",
+    "every source value found in the output"
+   ],
+   "valuesNotFound": 0
+  },
+  "EggHatches": {
+   "struct": "FGeodeEggHatchesRow",
+   "rows": 17,
+   "sourceRecords": 17,
+   "fields": 22,
+   "source": "docs/base44_data/elio/EggHatch.json + docs/base44_data/live/EggHatch.json",
+   "checks": [
+    "7 staging + 10 live records; 0 matched by name and merged; 17 rows",
+    "every source value found in the output"
+   ],
+   "valuesNotFound": 0
+  },
+  "BoardSkins": {
+   "struct": "FGeodeBoardSkinsRow",
+   "rows": 16,
+   "sourceRecords": 16,
+   "fields": 18,
+   "source": "docs/base44_data/elio/BoardSkin.json",
+   "checks": [
+    "16 staging + 0 live records; 0 matched by name and merged; 16 rows",
+    "every source value found in the output"
+   ],
+   "valuesNotFound": 0
+  },
+  "TrayTemplates": {
+   "struct": "FGeodeTrayTemplatesRow",
+   "rows": 11,
+   "sourceRecords": 11,
+   "fields": 14,
+   "source": "docs/base44_data/elio/TrayTemplate.json",
+   "checks": [
+    "11 staging + 0 live records; 0 matched by name and merged; 11 rows",
+    "every source value found in the output"
+   ],
+   "valuesNotFound": 0
+  },
+  "Artisans": {
+   "struct": "FGeodeArtisansRow",
+   "rows": 2,
+   "sourceRecords": 2,
+   "fields": 28,
+   "source": "docs/base44_data/elio/Artisan.json + docs/base44_data/live/Artisan.json",
+   "checks": [
+    "1 staging + 1 live records; 0 matched by name and merged; 2 rows",
+    "every source value found in the output"
+   ],
+   "valuesNotFound": 0
+  },
+  "GrainStories": {
+   "struct": "FGeodeGrainStoriesRow",
+   "rows": 1,
+   "sourceRecords": 1,
+   "fields": 12,
+   "source": "docs/base44_data/elio/GrainStory.json",
+   "checks": [
+    "1 staging + 0 live records; 0 matched by name and merged; 1 rows",
+    "every source value found in the output"
+   ],
+   "valuesNotFound": 0
+  },
+  "ZoneItems": {
+   "struct": "FGeodeZoneItemsRow",
+   "rows": 224,
+   "sourceRecords": 224,
+   "fields": 8,
+   "source": "zone_items_all_280.json (224 items, whatever the file name says)",
+   "checks": [
+    "224 records, 224 rows",
+    "every source value found in the output"
+   ],
+   "valuesNotFound": 0
+  },
+  "Characters": {
+   "struct": "FGeodeCharactersRow",
+   "rows": 86,
+   "sourceRecords": 86,
+   "fields": 6,
+   "source": "docs/manual/03_characters_and_critters.md, 1.5 (current canon, who is ruled)",
+   "checks": [
+    "86 table rows read, 86 rows",
+    "every source value found in the output"
+   ],
+   "valuesNotFound": 0
+  },
+  "CharacterRenames": {
+   "struct": "FGeodeCharacterRenamesRow",
+   "rows": 51,
+   "sourceRecords": 51,
+   "fields": 7,
+   "source": "docs/manual/03_characters_and_critters.md, 2.3 and 2.3a (rename ledger)",
+   "checks": [
+    "51 table rows read, 51 rows",
+    "every source value found in the output"
+   ],
+   "valuesNotFound": 0
+  },
+  "CritterGroups": {
+   "struct": "FGeodeCritterGroupsRow",
+   "rows": 3,
+   "sourceRecords": 3,
+   "fields": 4,
+   "source": "docs/manual/03_characters_and_critters.md, 7.5 (the three named groups)",
+   "checks": [
+    "3 table rows read, 3 rows",
+    "every source value found in the output"
+   ],
+   "valuesNotFound": 0
+  },
+  "FoundingCast": {
+   "struct": "FGeodeFoundingCastRow",
+   "rows": 60,
+   "sourceRecords": 60,
+   "fields": 5,
+   "source": "docs/manual/03_characters_and_critters.md, 9.2 to 9.7 (founding cast, July to August)",
+   "checks": [
+    "60 table rows read, 60 rows",
+    "every source value found in the output"
+   ],
+   "valuesNotFound": 0
+  },
+  "Levels": {
+   "struct": "FGeodeLevelsRow",
+   "rows": 12,
+   "sourceRecords": 12,
+   "fields": 6,
+   "source": "docs/manual/02_world_and_zones.md, 6.1 (the nine levels and the half-levels)",
+   "checks": [
+    "12 table rows read, 12 rows",
+    "every source value found in the output"
+   ],
+   "valuesNotFound": 0
+  },
+  "Rooms": {
+   "struct": "FGeodeRoomsRow",
+   "rows": 89,
+   "sourceRecords": 89,
+   "fields": 9,
+   "source": "docs/manual/02_world_and_zones.md, 6.2 to 6.8 (rooms by level)",
+   "checks": [
+    "89 table rows read, 89 rows",
+    "every source value found in the output"
+   ],
+   "valuesNotFound": 0
+  },
+  "ZoneSections": {
+   "struct": "FGeodeZoneSectionsRow",
+   "rows": 10,
+   "sourceRecords": 10,
+   "fields": 2,
+   "source": "docs/manual/02_world_and_zones.md, section 6 in full (prose as well as tables)",
+   "checks": [
+    "10 sections, 10 rows (full text, tables included)",
+    "every source value found in the output"
+   ],
+   "valuesNotFound": 0
+  },
+  "CritterNotes": {
+   "struct": "FGeodeCritterNotesRow",
+   "rows": 1,
+   "sourceRecords": 1,
+   "fields": 2,
+   "source": "docs/manual/03_characters_and_critters.md, 7.5 in full",
+   "checks": [
+    "1 sections, 1 rows (full text, tables included)",
+    "every source value found in the output"
+   ],
+   "valuesNotFound": 0
+  },
+  "ArcadeGames": {
+   "struct": "FGeodeArcadeGamesRow",
+   "rows": 84,
+   "sourceRecords": 84,
+   "fields": 25,
+   "source": "docs/arcade_build_sheets/*.md (one row per build sheet)",
+   "checks": [
+    "84 build sheets, 84 rows; full sheet text kept in SheetMarkdown",
+    "every source value found in the output"
+   ],
+   "valuesNotFound": 0
+  }
+ }
+}

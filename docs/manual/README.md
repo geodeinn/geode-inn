@@ -114,3 +114,9 @@ These fixes are on the `inn-library` branch with this manual; main gets them whe
 
 - `docs/build_lists/01_main_floor.md` puts everything the repo says about the Main Floor on one page: each room's canon, what the game build already has, what is still owed, the pictures already in the repo, nine rulings to settle first and a suggested order (the Great Hall first). The four arcade games the Main Floor opens with are Standing Stones, Tomb Tunnel, Andean Run and Monster of the Deep, the same four whose templates you found on November 5.
 - It is a draft until it has been checked against your Main Floor zone file; then the gaps get filled and building can start. (Part 2, 6.4)
+
+### 11. The move to Unreal Engine (November 2026)
+
+- You decided to move the whole game to Unreal Engine, with GitHub kept as the data source for geodeinn.com: each game's page on the site carries its pictures and storyline and links out to where the game lives.
+- All the game data is now in `unreal/data/` as 30 Unreal DataTables (3,795 rows): stones, materials, recipes, items, charms, dialogue, lore, books, comic strips, Steam titles, zone items, characters, renames, the founding cast, levels, rooms and the 84 arcade build sheets. Where a record was in both Base44 apps, the two are merged and nothing either one says is dropped. The converter checks every value; all 30 tables pass. Its `README.md` explains how to import a table.
+- Next: the Unreal project in its own GitHub repo, with the tables imported and the folders laid out zone by zone, and the site data pointing each game page to the right place.
