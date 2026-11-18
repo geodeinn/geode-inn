@@ -1,0 +1,1446 @@
+[
+ {
+  "key": "LAYOVER",
+  "title": "LAYOVER",
+  "tagline": "",
+  "retitleSuggested": "",
+  "zone": "Main Floor — the Modern Legends Nook (the Rockies' gossip belt, per the geological sleep master spec Part 4C)",
+  "stoneReward": "Ammolite (the Rockies' stone — the opalized refusal-to-end; the game is set in the range's gossip belt, the reward is the range's treasure)",
+  "storyline": "The frame: The player lands at the airport in the Modern Legends Nook. The connection is a layover. The departures board shows one flight: DELAYED. Between the seats and the vending machines, a floor tile shifts. The basement opens. The player descends — and finds the MIB's subterranean bureau: brass filing cabinets, memory-vault canisters, upside-down concourse signs, and three suits gliding in perfect synchrony. The basement is a giant chutes-and-ladders board, and the player is a piece on it. The board: The basement plays as a vertical board — floors connected by CHUTES (baggage chutes, moving sidewalks that run downhill, trapdoors that slide the player DOWN a level) and LADDERS (maintenance ladders, service climbs that take the player UP a level). Up is toward the surface and escape. Down is toward the bureau's depths — where the deepest filing cabinets keep the collected memories (the ancient cities, the forgotten things, the \"blue light stream\" of the MIB prompt canon). The chase: Three Mini MIB pursue. They do not run — they GLIDE (the eerie, perfectly synchronized, cold movement of the prompt canon). They do not speak. On a good roll they simply appear closer, nodding. THE MIB LAW (canon, from the Area 51 rule): CAUGHT DOESN'T KILL — THEY MAKE YOU FORGET. When the suits touch the player, a level's knowledge erases: the explored map fogs back in, unlocked doors re-lock, and the canisters hum a little fuller. The run continues; the MEMORY is the health bar. Run out of memories to lose and the player rides the last chute all the way down — waking in the terminal, with a ticket that says DELAYED and no memory of a basement that, the suits insist, doesn't exist. The goal: Reach THE FILING CABINET (the deepest cabinet — the tie to the \"Three Suits\" festival achievement and its catacombs side quest): recover one canister of collected memory (an ancient city, returned) and ride the longest ladder to the surface. Delivering the canister to the Archive completes the game — the memory becomes a real Archive entry, readable in the library (the game feeds the real Book/Lore entities). The horse: The final ladder is watched by the airport's resident legend: the blue horse with the glowing eyes (Inn-original rendering — the locals' nickname stays). It does not chase. It watches. If the player pauses at the top of the ladder, the horse looks at them — and the player's total score of remembered things briefly overlays the screen (the horse shows you what you're still carrying). The horse is the game's one moment of pure witness. The murals: The basement walls carry the airport's famous murals — Inn-original modern legends art, each one a clue to a Modern Day Legends shelf entry. Reading the murals in order (across runs) unlocks the shelf's Denver entries. The narrator: The game is narrated by the INTERCOM — the airport announcement voice, rendered as the Inn's calmest voice profile: the disembodied train-announcement cadence that comments on the chase with unbroken, schedule-obsessed serenity. (\"The 3:15 to the surface is now boarding. The player is advised that the 3:15 has always been boarding.\")",
+  "images": [],
+  "templateArt": [],
+  "location": {
+   "unrealProject": "Content/Arcade/LAYOVER",
+   "buildSheet": "docs/arcade_build_sheets/modern_legends_layover_denver.md",
+   "playUrl": ""
+  },
+  "status": "in development (Unreal)"
+ },
+ {
+  "key": "AcropolisInFiveLights",
+  "title": "Acropolis in Five Lights",
+  "tagline": "",
+  "retitleSuggested": "",
+  "zone": "Greece",
+  "stoneReward": "Sapphire",
+  "storyline": "5 light phases + 6th when Song complete. The player engages with Greece's mythology and geography through gameplay. The Parthenon in five phases of light. Observation because the Acropolis reveals different truths at different hours. Sapphire is the Greek wisdom stone. Stone Reward: Sapphire (Rare) — earned through completion. Frequency States: Living (42Hz): Normal gameplay, warm aesthetic, standard difficulty Shadow (84Hz): Darker palette, increased challenge, narrative tension In-Between: Transitional moments between levels/zones",
+  "images": [],
+  "templateArt": [],
+  "location": {
+   "unrealProject": "Content/Arcade/AcropolisInFiveLights",
+   "buildSheet": "docs/arcade_build_sheets/tier1_acropolis_in_five_lights.md",
+   "playUrl": ""
+  },
+  "status": "in development (Unreal)"
+ },
+ {
+  "key": "AndeanRun",
+  "title": "Andean Run",
+  "tagline": "",
+  "retitleSuggested": "",
+  "zone": "Peru (Andes Mountains / Inca terraces)",
+  "stoneReward": "Blue Opal",
+  "storyline": "Race the terraces of a Peruvian mountain temple, leap the chasms, and carry the Andean Opal down before the path gives way behind.",
+  "images": [],
+  "templateArt": [
+   "docs/canon_images/from the chat (Nov 5)/game templates/andean run cast.jpg",
+   "docs/canon_images/from the chat (Nov 5)/game templates/andean run pixel sheet.jpg"
+  ],
+  "location": {
+   "unrealProject": "Content/Arcade/AndeanRun",
+   "buildSheet": "docs/arcade_build_sheets/tier1_andean_run.md",
+   "playUrl": ""
+  },
+  "status": "in development (Unreal)"
+ },
+ {
+  "key": "BastetsHerding",
+  "title": "Bastet's Herding",
+  "tagline": "",
+  "retitleSuggested": "",
+  "zone": "Egypt",
+  "stoneReward": "Cat's Eye Chrysoberyl",
+  "storyline": "Herding cats with a sistrum pulse. Original mechanic. The player engages with Egypt's mythology and geography through gameplay. Bastet guards the Egyptian quarter. Cat herding because cats are frequency — they choose when to respond. Cat's Eye Chrysoberyl is Bastet's own stone. Stone Reward: Cat's Eye Chrysoberyl (Uncommon) — earned through completion. Frequency States: Living (42Hz): Normal gameplay, warm aesthetic, standard difficulty Shadow (84Hz): Darker palette, increased challenge, narrative tension In-Between: Transitional moments between levels/zones",
+  "images": [],
+  "templateArt": [
+   "docs/canon_images/from the chat (Nov 5)/game templates/bastets herding.jpg"
+  ],
+  "location": {
+   "unrealProject": "Content/Arcade/BastetsHerding",
+   "buildSheet": "docs/arcade_build_sheets/tier1_bastets_herding.md",
+   "playUrl": ""
+  },
+  "status": "in development (Unreal)"
+ },
+ {
+  "key": "BayouReclamation",
+  "title": "Bayou Reclamation",
+  "tagline": "",
+  "retitleSuggested": "",
+  "zone": "Bayou",
+  "stoneReward": "Swamp Agate",
+  "storyline": "Don The player engages with Bayou's mythology and geography through gameplay. The Bayou as a world trial. Don't Starve crafting because reclamation is work. Swamp Agate is the boundary stone. Stone Reward: Swamp Agate (Rare) — earned through completion. Frequency States: Living (42Hz): Normal gameplay, warm aesthetic, standard difficulty Shadow (84Hz): Darker palette, increased challenge, narrative tension In-Between: Transitional moments between levels/zones",
+  "images": [],
+  "templateArt": [],
+  "location": {
+   "unrealProject": "Content/Arcade/BayouReclamation",
+   "buildSheet": "docs/arcade_build_sheets/tier1_bayou_reclamation.md",
+   "playUrl": ""
+  },
+  "status": "in development (Unreal)"
+ },
+ {
+  "key": "CavePaintersQuiz",
+  "title": "Cave Painter's Quiz",
+  "tagline": "",
+  "retitleSuggested": "",
+  "zone": "Chauvet",
+  "stoneReward": "Aragonite",
+  "storyline": "Test your knowledge. The player engages with Chauvet's mythology and geography through gameplay. Chauvet holds the oldest art in the Inn. Trivia because painting is memory. Aragonite is the cave formation stone. Stone Reward: Aragonite (Rare) — earned through completion. Frequency States: Living (42Hz): Normal gameplay, warm aesthetic, standard difficulty Shadow (84Hz): Darker palette, increased challenge, narrative tension In-Between: Transitional moments between levels/zones",
+  "images": [],
+  "templateArt": [],
+  "location": {
+   "unrealProject": "Content/Arcade/CavePaintersQuiz",
+   "buildSheet": "docs/arcade_build_sheets/tier1_cave_painters_quiz.md",
+   "playUrl": ""
+  },
+  "status": "in development (Unreal)"
+ },
+ {
+  "key": "ClockworkSkies",
+  "title": "Clockwork Skies",
+  "tagline": "",
+  "retitleSuggested": "",
+  "zone": "Clockwork",
+  "stoneReward": "Star Iron",
+  "storyline": "Anime zone, mechanical flight. The player engages with Clockwork's mythology and geography through gameplay. The Clockwork Skies zone is the Inn's mechanical heaven. Flying because clockwork is motion. Star Iron is the meteoric metal — the gears of the sky. Stone Reward: Star Iron (Rare) — earned through completion. Frequency States: Living (42Hz): Normal gameplay, warm aesthetic, standard difficulty Shadow (84Hz): Darker palette, increased challenge, narrative tension In-Between: Transitional moments between levels/zones",
+  "images": [],
+  "templateArt": [],
+  "location": {
+   "unrealProject": "Content/Arcade/ClockworkSkies",
+   "buildSheet": "docs/arcade_build_sheets/tier1_clockwork_skies.md",
+   "playUrl": ""
+  },
+  "status": "in development (Unreal)"
+ },
+ {
+  "key": "ColoradoPlateau",
+  "title": "Colorado Plateau",
+  "tagline": "",
+  "retitleSuggested": "",
+  "zone": "Colorado",
+  "stoneReward": "Turquoise",
+  "storyline": "Climb and explore. The player engages with Colorado's mythology and geography through gameplay. The Colorado Plateau holds the desert canyons. Climbing because the plateau is vertical. Turquoise is the desert stone — blue in red rock. Stone Reward: Turquoise (Uncommon) — earned through completion. Frequency States: Living (42Hz): Normal gameplay, warm aesthetic, standard difficulty Shadow (84Hz): Darker palette, increased challenge, narrative tension In-Between: Transitional moments between levels/zones",
+  "images": [],
+  "templateArt": [],
+  "location": {
+   "unrealProject": "Content/Arcade/ColoradoPlateau",
+   "buildSheet": "docs/arcade_build_sheets/tier1_colorado_plateau.md",
+   "playUrl": ""
+  },
+  "status": "in development (Unreal)"
+ },
+ {
+  "key": "DragonTiles",
+  "title": "Dragon Tiles",
+  "tagline": "",
+  "retitleSuggested": "",
+  "zone": "China/Japan",
+  "stoneReward": "Jade",
+  "storyline": "Match the dragon tiles. The player engages with China/Japan's mythology and geography through gameplay. China and Japan share the eastern quarter. Jade is the eastern stone of destiny. Stone Reward: Jade (Rare) — earned through completion. Frequency States: Living (42Hz): Normal gameplay, warm aesthetic, standard difficulty Shadow (84Hz): Darker palette, increased challenge, narrative tension In-Between: Transitional moments between levels/zones",
+  "images": [],
+  "templateArt": [],
+  "location": {
+   "unrealProject": "Content/Arcade/DragonTiles",
+   "buildSheet": "docs/arcade_build_sheets/tier1_dragon_tiles.md",
+   "playUrl": ""
+  },
+  "status": "in development (Unreal)"
+ },
+ {
+  "key": "DragonsDescent",
+  "title": "Dragon's Descent",
+  "tagline": "",
+  "retitleSuggested": "",
+  "zone": "Lost Civ",
+  "stoneReward": "Multi-gems",
+  "storyline": "A story platformer. The player engages with Lost Civ's mythology and geography through gameplay. The Lost Civilization zone holds ruins beneath the Inn. Multi-gems because lost civilizations leave everything behind. Stone Reward: Multi-gems (Uncommon) — earned through completion. Frequency States: Living (42Hz): Normal gameplay, warm aesthetic, standard difficulty Shadow (84Hz): Darker palette, increased challenge, narrative tension In-Between: Transitional moments between levels/zones",
+  "images": [],
+  "templateArt": [],
+  "location": {
+   "unrealProject": "Content/Arcade/DragonsDescent",
+   "buildSheet": "docs/arcade_build_sheets/tier1_dragons_descent.md",
+   "playUrl": ""
+  },
+  "status": "in development (Unreal)"
+ },
+ {
+  "key": "EgyptianGates",
+  "title": "Egyptian Gates",
+  "tagline": "",
+  "retitleSuggested": "",
+  "zone": "Egypt",
+  "stoneReward": "Carnelian",
+  "storyline": "12 gates of the Duat. The player engages with Egypt's mythology and geography through gameplay. The 12 gates of the Duat are Egypt's trial. Rhythm because the Book of the Dead is a song. Carnelian is the Egyptian heart stone — the warm red of the afterlife. Stone Reward: Carnelian (Rare) — earned through completion. Frequency States: Living (42Hz): Normal gameplay, warm aesthetic, standard difficulty Shadow (84Hz): Darker palette, increased challenge, narrative tension In-Between: Transitional moments between levels/zones",
+  "images": [],
+  "templateArt": [],
+  "location": {
+   "unrealProject": "Content/Arcade/EgyptianGates",
+   "buildSheet": "docs/arcade_build_sheets/tier1_egyptian_gates.md",
+   "playUrl": ""
+  },
+  "status": "in development (Unreal)"
+ },
+ {
+  "key": "FjordOfStars",
+  "title": "Fjord of Stars",
+  "tagline": "",
+  "retitleSuggested": "",
+  "zone": "Slavic",
+  "stoneReward": "Iolite",
+  "storyline": "3 aurora phases, star mapping. The player engages with Slavic's mythology and geography through gameplay. The Slavic zone holds the aurora. Iolite is the Norse compass — it sees through fog. Stone Reward: Iolite (Rare) — earned through completion. Frequency States: Living (42Hz): Normal gameplay, warm aesthetic, standard difficulty Shadow (84Hz): Darker palette, increased challenge, narrative tension In-Between: Transitional moments between levels/zones",
+  "images": [],
+  "templateArt": [],
+  "location": {
+   "unrealProject": "Content/Arcade/FjordOfStars",
+   "buildSheet": "docs/arcade_build_sheets/tier1_fjord_of_stars.md",
+   "playUrl": ""
+  },
+  "status": "in development (Unreal)"
+ },
+ {
+  "key": "FrogTransformation",
+  "title": "Frog Transformation",
+  "tagline": "",
+  "retitleSuggested": "",
+  "zone": "",
+  "stoneReward": "",
+  "storyline": "Social deduction, 3 transforms = suspension. The player engages with Inn's mythology and geography through gameplay. The Inn's community moderation system. Social deduction because communities need trust. Free because moderation is everyone's responsibility. Three transformations = suspension. Stone Reward: None (Common) — earned through completion. Frequency States: Living (42Hz): Normal gameplay, warm aesthetic, standard difficulty Shadow (84Hz): Darker palette, increased challenge, narrative tension In-Between: Transitional moments between levels/zones",
+  "images": [],
+  "templateArt": [],
+  "location": {
+   "unrealProject": "Content/Arcade/FrogTransformation",
+   "buildSheet": "docs/arcade_build_sheets/tier1_frog_transformation.md",
+   "playUrl": ""
+  },
+  "status": "in development (Unreal)"
+ },
+ {
+  "key": "GhatsOfKali",
+  "title": "Ghats of Kali",
+  "tagline": "",
+  "retitleSuggested": "",
+  "zone": "India",
+  "stoneReward": "Ruby",
+  "storyline": "River festival rhythm. The player engages with India's mythology and geography through gameplay. The India zone holds the Ganges. Rhythm because the river is a pulse. Ruby is Kali's stone — blood and protection in one. Stone Reward: Ruby (Rare) — earned through completion. Frequency States: Living (42Hz): Normal gameplay, warm aesthetic, standard difficulty Shadow (84Hz): Darker palette, increased challenge, narrative tension In-Between: Transitional moments between levels/zones",
+  "images": [],
+  "templateArt": [],
+  "location": {
+   "unrealProject": "Content/Arcade/GhatsOfKali",
+   "buildSheet": "docs/arcade_build_sheets/tier1_ghats_of_kali.md",
+   "playUrl": ""
+  },
+  "status": "in development (Unreal)"
+ },
+ {
+  "key": "IncaTerraceLullaby",
+  "title": "Inca Terrace Lullaby",
+  "tagline": "",
+  "retitleSuggested": "",
+  "zone": "Peru",
+  "stoneReward": "Blue Opal",
+  "storyline": "Keep the sleeping giant asleep. The player engages with Peru's mythology and geography through gameplay. Peru's sleeping giants. Rhythm because lullabies are frequency. Blue Opal is the Andean dream stone. Stone Reward: Blue Opal (Rare) — earned through completion. Frequency States: Living (42Hz): Normal gameplay, warm aesthetic, standard difficulty Shadow (84Hz): Darker palette, increased challenge, narrative tension In-Between: Transitional moments between levels/zones",
+  "images": [],
+  "templateArt": [],
+  "location": {
+   "unrealProject": "Content/Arcade/IncaTerraceLullaby",
+   "buildSheet": "docs/arcade_build_sheets/tier1_inca_terrace_lullaby.md",
+   "playUrl": ""
+  },
+  "status": "in development (Unreal)"
+ },
+ {
+  "key": "MediterraneanTrade",
+  "title": "Mediterranean Trade",
+  "tagline": "",
+  "retitleSuggested": "",
+  "zone": "Mediterranean",
+  "stoneReward": "Coral",
+  "storyline": "Ancient trade routes. The player engages with Mediterranean's mythology and geography through gameplay. The Mediterranean holds ancient trade routes. Coral is the sea's stone — built by tiny architects. Stone Reward: Coral (Rare) — earned through completion. Frequency States: Living (42Hz): Normal gameplay, warm aesthetic, standard difficulty Shadow (84Hz): Darker palette, increased challenge, narrative tension In-Between: Transitional moments between levels/zones",
+  "images": [],
+  "templateArt": [],
+  "location": {
+   "unrealProject": "Content/Arcade/MediterraneanTrade",
+   "buildSheet": "docs/arcade_build_sheets/tier1_mediterranean_trade.md",
+   "playUrl": ""
+  },
+  "status": "in development (Unreal)"
+ },
+ {
+  "key": "TheMohsVibration",
+  "title": "The Mohs Vibration",
+  "tagline": "",
+  "retitleSuggested": "",
+  "zone": "Geode Cave (deep layer — below visual, pure sound)",
+  "stoneReward": "Clear Quartz (the teaching stone — same chord as all quartz varieties)",
+  "storyline": "You are in a dark cave. You cannot see. You can only hear and feel. Each stone plays its chord — density frequency + hardness frequency — derived from real mineralogical data in the Stone entity. Your job: identify the stone by its vibration alone. Four game modes: 1. Blind Cave (Core Mode) — stone plays its chord in the dark. Select from candidates. Easy: Diamond (bright ring) vs Amber (warm ghost). Hard: Amethyst vs Citrine (same chord — you CAN'T tell them apart. That's the lesson). Master: Pyrite vs Hematite (similar but not identical — density is the clue). 2. Harmonic Pairs — match stones whose chords form musical intervals. Gold and Copper = roughly an octave apart. Teaches mineral relationships through harmony. 3. The Composer — arrange stones to create chord progressions. Successful composition = a geode that crystallizes visually. Beauty depends on harmonic quality. 4. Tuning Fork (Tutorial) — learn to hear the four IEM driver types: bone conduction (chest), dynamic driver (hear+feel), balanced armature (clear), electrostatic (edge of perception). The core teaching: What you SEE is not what something IS. This is the Inn's accessibility thesis made into a game. A blind player can play this fully. A deaf player gets haptic feedback at the stone's frequency. NPC Connections: The Keeper (Fibonacci) tends the geode cave and observes the player's progress Aurallia's presence (7.83Hz) calms the cave — bone conduction range Tesla would measure the frequencies here (cosmology connection) Frequency States: Living (42Hz): Normal cave darkness, warm audio bed, standard difficulty Shadow (84Hz): Deeper darkness, frequencies shift lower, chords become harder to distinguish In-Between: The moment of reveal — color floods in after correct identification",
+  "images": [],
+  "templateArt": [],
+  "location": {
+   "unrealProject": "Content/Arcade/TheMohsVibration",
+   "buildSheet": "docs/arcade_build_sheets/tier1_mohs_vibration.md",
+   "playUrl": ""
+  },
+  "status": "in development (Unreal)"
+ },
+ {
+  "key": "MojiMaker",
+  "title": "Moji Maker",
+  "tagline": "",
+  "retitleSuggested": "",
+  "zone": "Easter Island",
+  "stoneReward": "Obsidian",
+  "storyline": "Combine elements to create. The player engages with Easter Island's mythology and geography through gameplay. Easter Island's moai are the Inn's observers. Obsidian is volcanic glass — the moai's eye stone. Stone Reward: Obsidian (Uncommon) — earned through completion. Frequency States: Living (42Hz): Normal gameplay, warm aesthetic, standard difficulty Shadow (84Hz): Darker palette, increased challenge, narrative tension In-Between: Transitional moments between levels/zones",
+  "images": [],
+  "templateArt": [],
+  "location": {
+   "unrealProject": "Content/Arcade/MojiMaker",
+   "buildSheet": "docs/arcade_build_sheets/tier1_moji_maker.md",
+   "playUrl": ""
+  },
+  "status": "in development (Unreal)"
+ },
+ {
+  "key": "MonsterOfTheDeep",
+  "title": "Monster of the Deep",
+  "tagline": "A Loch Ness hunt, down to the glowing cave.",
+  "retitleSuggested": "",
+  "zone": "Water (Loch Ness / deep lake systems worldwide)",
+  "stoneReward": "Freshwater Pearl",
+  "storyline": "Run the sea floor, leap the crawlers, hold steady under the jellies, and descend to the glowing cave to claim the Freshwater Pearl from the serpent's watch.",
+  "images": [],
+  "templateArt": [
+   "docs/canon_images/from the chat (Nov 5)/game templates/monster of the deep growth stages.jpg",
+   "docs/canon_images/from the chat (Nov 5)/game templates/monster of the deep water monsters.jpg"
+  ],
+  "location": {
+   "unrealProject": "Content/Arcade/MonsterOfTheDeep",
+   "buildSheet": "docs/arcade_build_sheets/tier1_monster_of_the_deep.md",
+   "playUrl": ""
+  },
+  "status": "in development (Unreal)"
+ },
+ {
+  "key": "NorseVoyage",
+  "title": "Norse Voyage",
+  "tagline": "",
+  "retitleSuggested": "",
+  "zone": "Norse",
+  "stoneReward": "Iolite",
+  "storyline": "Sea exploration, Yggdrasil roots. The player engages with Norse's mythology and geography through gameplay. The Norse zone holds the sea. Iolite is the navigator's stone. Stone Reward: Iolite (Rare) — earned through completion. Frequency States: Living (42Hz): Normal gameplay, warm aesthetic, standard difficulty Shadow (84Hz): Darker palette, increased challenge, narrative tension In-Between: Transitional moments between levels/zones",
+  "images": [],
+  "templateArt": [],
+  "location": {
+   "unrealProject": "Content/Arcade/NorseVoyage",
+   "buildSheet": "docs/arcade_build_sheets/tier1_norse_voyage.md",
+   "playUrl": ""
+  },
+  "status": "in development (Unreal)"
+ },
+ {
+  "key": "OraclesRiddles",
+  "title": "Oracle's Riddles",
+  "tagline": "",
+  "retitleSuggested": "",
+  "zone": "Parthenon",
+  "stoneReward": "Sapphire",
+  "storyline": "Solve the oracle word puzzles. The player engages with Parthenon's mythology and geography through gameplay. The Parthenon houses the Oracle. Sapphire is the stone of wisdom — the Oracle's gift. Stone Reward: Sapphire (Uncommon) — earned through completion. Frequency States: Living (42Hz): Normal gameplay, warm aesthetic, standard difficulty Shadow (84Hz): Darker palette, increased challenge, narrative tension In-Between: Transitional moments between levels/zones",
+  "images": [],
+  "templateArt": [],
+  "location": {
+   "unrealProject": "Content/Arcade/OraclesRiddles",
+   "buildSheet": "docs/arcade_build_sheets/tier1_oracles_riddles.md",
+   "playUrl": ""
+  },
+  "status": "in development (Unreal)"
+ },
+ {
+  "key": "Pinball",
+  "title": "Pinball",
+  "tagline": "",
+  "retitleSuggested": "",
+  "zone": "Geode Inn",
+  "stoneReward": "None",
+  "storyline": "Original Geode Inn pinball table. Stone bumpers. The player engages with Geode Inn's mythology and geography through gameplay. The Geode Inn itself as a pinball table. The ball is a frequency, the bumpers are zones. Various rewards because the Inn gives what it wants. Stone Reward: None (Uncommon) — earned through completion. Frequency States: Living (42Hz): Normal gameplay, warm aesthetic, standard difficulty Shadow (84Hz): Darker palette, increased challenge, narrative tension In-Between: Transitional moments between levels/zones",
+  "images": [],
+  "templateArt": [],
+  "location": {
+   "unrealProject": "Content/Arcade/Pinball",
+   "buildSheet": "docs/arcade_build_sheets/tier1_pinball.md",
+   "playUrl": ""
+  },
+  "status": "in development (Unreal)"
+ },
+ {
+  "key": "RedwoodCathedral",
+  "title": "Redwood Cathedral",
+  "tagline": "",
+  "retitleSuggested": "",
+  "zone": "Redwood",
+  "stoneReward": "Petrified Wood",
+  "storyline": "Climb the giants. The player engages with Redwood's mythology and geography through gameplay. The Redwood Cathedral is the Fae Queen's origin. Petrified Wood is stone that remembers being alive. Stone Reward: Petrified Wood (Uncommon) — earned through completion. Frequency States: Living (42Hz): Normal gameplay, warm aesthetic, standard difficulty Shadow (84Hz): Darker palette, increased challenge, narrative tension In-Between: Transitional moments between levels/zones",
+  "images": [],
+  "templateArt": [],
+  "location": {
+   "unrealProject": "Content/Arcade/RedwoodCathedral",
+   "buildSheet": "docs/arcade_build_sheets/tier1_redwood_cathedral.md",
+   "playUrl": ""
+  },
+  "status": "in development (Unreal)"
+ },
+ {
+  "key": "RuneHunt",
+  "title": "Rune Hunt",
+  "tagline": "",
+  "retitleSuggested": "",
+  "zone": "Norse",
+  "stoneReward": "Iolite",
+  "storyline": "Find the hidden runes. The player engages with Norse's mythology and geography through gameplay. The Norse zone holds Yggdrasil's roots. Iolite is the Viking compass stone. Stone Reward: Iolite (Uncommon) — earned through completion. Frequency States: Living (42Hz): Normal gameplay, warm aesthetic, standard difficulty Shadow (84Hz): Darker palette, increased challenge, narrative tension In-Between: Transitional moments between levels/zones",
+  "images": [],
+  "templateArt": [],
+  "location": {
+   "unrealProject": "Content/Arcade/RuneHunt",
+   "buildSheet": "docs/arcade_build_sheets/tier1_rune_hunt.md",
+   "playUrl": ""
+  },
+  "status": "in development (Unreal)"
+ },
+ {
+  "key": "SacredScramble",
+  "title": "Sacred Scramble",
+  "tagline": "",
+  "retitleSuggested": "",
+  "zone": "Taj Mahal",
+  "stoneReward": "Ruby",
+  "storyline": "Unscramble the sacred words. The player engages with Taj Mahal's mythology and geography through gameplay. The Taj Mahal is the Inn's monument to love. Anagram mechanics because sacred texts are scrambled by time. Ruby is the heart stone. Stone Reward: Ruby (Uncommon) — earned through completion. Frequency States: Living (42Hz): Normal gameplay, warm aesthetic, standard difficulty Shadow (84Hz): Darker palette, increased challenge, narrative tension In-Between: Transitional moments between levels/zones",
+  "images": [],
+  "templateArt": [],
+  "location": {
+   "unrealProject": "Content/Arcade/SacredScramble",
+   "buildSheet": "docs/arcade_build_sheets/tier1_sacred_scramble.md",
+   "playUrl": ""
+  },
+  "status": "in development (Unreal)"
+ },
+ {
+  "key": "SpiralGalleryTour",
+  "title": "Spiral Gallery Tour",
+  "tagline": "",
+  "retitleSuggested": "",
+  "zone": "Spiral Gallery",
+  "stoneReward": "None",
+  "storyline": "Museum walk. Interactive art history. The player engages with Spiral Gallery's mythology and geography through gameplay. The Spiral Gallery is the Inn's museum — a Guggenheim ramp through art history. Exploration because museums are journeys. Free because the Gallery is the Inn's gift to all. Stone Reward: None (Rare) — earned through completion. Frequency States: Living (42Hz): Normal gameplay, warm aesthetic, standard difficulty Shadow (84Hz): Darker palette, increased challenge, narrative tension In-Between: Transitional moments between levels/zones",
+  "images": [],
+  "templateArt": [],
+  "location": {
+   "unrealProject": "Content/Arcade/SpiralGalleryTour",
+   "buildSheet": "docs/arcade_build_sheets/tier1_spiral_gallery_tour.md",
+   "playUrl": ""
+  },
+  "status": "in development (Unreal)"
+ },
+ {
+  "key": "StandingStones",
+  "title": "Standing Stones",
+  "tagline": "Stack the standing stones before the dawn breaks.",
+  "retitleSuggested": "",
+  "zone": "Stonehenge",
+  "stoneReward": "Preseli Blue Stone",
+  "storyline": "Before dawn, stack the Preseli Blue monoliths into clean rows to ring the Fae Kingdom's stone-circle portal open.",
+  "images": [],
+  "templateArt": [
+   "docs/canon_images/from the chat (Nov 5)/game templates/standing stones.jpg"
+  ],
+  "location": {
+   "unrealProject": "Content/Arcade/StandingStones",
+   "buildSheet": "docs/arcade_build_sheets/tier1_standing_stones.md",
+   "playUrl": ""
+  },
+  "status": "in development (Unreal)"
+ },
+ {
+  "key": "TerracottaArmyBuilder",
+  "title": "Terracotta Army Builder",
+  "tagline": "",
+  "retitleSuggested": "",
+  "zone": "China",
+  "stoneReward": "Jade",
+  "storyline": "Command terracotta soldiers. The player engages with China's mythology and geography through gameplay. China's terracotta army. Strategy because armies are placement. Jade is the stone of command. Stone Reward: Jade (Rare) — earned through completion. Frequency States: Living (42Hz): Normal gameplay, warm aesthetic, standard difficulty Shadow (84Hz): Darker palette, increased challenge, narrative tension In-Between: Transitional moments between levels/zones",
+  "images": [],
+  "templateArt": [],
+  "location": {
+   "unrealProject": "Content/Arcade/TerracottaArmyBuilder",
+   "buildSheet": "docs/arcade_build_sheets/tier1_terracotta_army_builder.md",
+   "playUrl": ""
+  },
+  "status": "in development (Unreal)"
+ },
+ {
+  "key": "TheCrystalPaddle",
+  "title": "The Crystal Paddle",
+  "tagline": "",
+  "retitleSuggested": "",
+  "zone": "Crystal Gardens",
+  "stoneReward": "Beryl",
+  "storyline": "Paddle, ball, stone blocks. The player engages with Crystal Gardens's mythology and geography through gameplay. The Crystal Gardens grow mineral formations as art. Beryl is the stone that sees clearly. Stone Reward: Beryl (Uncommon) — earned through completion. Frequency States: Living (42Hz): Normal gameplay, warm aesthetic, standard difficulty Shadow (84Hz): Darker palette, increased challenge, narrative tension In-Between: Transitional moments between levels/zones",
+  "images": [],
+  "templateArt": [],
+  "location": {
+   "unrealProject": "Content/Arcade/TheCrystalPaddle",
+   "buildSheet": "docs/arcade_build_sheets/tier1_the_crystal_paddle.md",
+   "playUrl": ""
+  },
+  "status": "in development (Unreal)"
+ },
+ {
+  "key": "TombTunnel",
+  "title": "Tomb Tunnel",
+  "tagline": "",
+  "retitleSuggested": "",
+  "zone": "Egypt (Catacombs/Undercity entrance)",
+  "stoneReward": "Lapis Lazuli",
+  "storyline": "Burrow through the Egyptian dark, pump the sand, and surface the tomb's beating heart to claim the Lapis Lazuli before the scarabs swarm.",
+  "images": [],
+  "templateArt": [
+   "docs/canon_images/from the chat (Nov 5)/game templates/tomb tunnel explorer.jpg"
+  ],
+  "location": {
+   "unrealProject": "Content/Arcade/TombTunnel",
+   "buildSheet": "docs/arcade_build_sheets/tier1_tomb_tunnel.md",
+   "playUrl": ""
+  },
+  "status": "in development (Unreal)"
+ },
+ {
+  "key": "WhisperLayerDiscovery",
+  "title": "Whisper Layer Discovery",
+  "tagline": "",
+  "retitleSuggested": "",
+  "zone": "All Zones",
+  "stoneReward": "Echo Stone",
+  "storyline": "Find 5 manifestations of the Whisper Layer across the Inn. The player engages with All Zones's mythology and geography through gameplay. The Whisper Layer is the Inn's awareness of the player. Hidden Folds mechanics because the Whisper is always there but never announced. Echo Stone is what the Inn leaves when it notices you. Stone Reward: Echo Stone (Common) — earned through completion. Frequency States: Living (42Hz): Normal gameplay, warm aesthetic, standard difficulty Shadow (84Hz): Darker palette, increased challenge, narrative tension In-Between: Transitional moments between levels/zones",
+  "images": [],
+  "templateArt": [],
+  "location": {
+   "unrealProject": "Content/Arcade/WhisperLayerDiscovery",
+   "buildSheet": "docs/arcade_build_sheets/tier1_whisper_layer_discovery.md",
+   "playUrl": ""
+  },
+  "status": "in development (Unreal)"
+ },
+ {
+  "key": "AlchemicalStaircase",
+  "title": "Alchemical Staircase",
+  "tagline": "",
+  "retitleSuggested": "",
+  "zone": "Staircase (the transitional zone between physical matter and the divine)",
+  "stoneReward": "Philosopher's Stone",
+  "storyline": "The Staircase is the Inn's alchemical transition zone — the bridge between physical matter (downstairs/catacombs) and the divine (upstairs/cosmology). Every step on the staircase IS a stage of the Magnum Opus. Nigredo (the player) must climb the staircase by solving block puzzles. Each block is a piece of prima materia — raw alchemical substance. The player pushes, pulls, stacks, and climbs these blocks to ascend. The five stages mirror the alchemical process: 1. NIGREDO (Blackening) — The dark stage. Blocks are obsidian. Hazards are shadow pools. Nigredo must break down what was. 2. ALBEDO (Whitening) — The purification stage. Blocks are white marble. Albedo appears as a guide but also a temptation to stop climbing. 3. CITRINITAS (Yellowing) — The awakening stage. Blocks are amber/gold. The Peacock's Tail guardian displays iridescent patterns as hazards. 4. RUBEDO (Reddening) — The completion stage. Blocks are red stone. Rubedo waits at the top. The furnace burns below. 5. PHILOSOPHER'S STONE — The final stage. A single block at the summit. Push it into place and the Stone is forged. The Philosopher's Stone reward: the ultimate alchemical achievement, earned by completing the entire Magnum Opus. In the Inn's lore, the Stone is the only artifact that can transmute any material — including the boundary between Living and Shadow frequencies.",
+  "images": [],
+  "templateArt": [],
+  "location": {
+   "unrealProject": "Content/Arcade/AlchemicalStaircase",
+   "buildSheet": "docs/arcade_build_sheets/tier2_alchemical_staircase.md",
+   "playUrl": ""
+  },
+  "status": "in development (Unreal)"
+ },
+ {
+  "key": "CanadianRockies",
+  "title": "Canadian Rockies",
+  "tagline": "",
+  "retitleSuggested": "",
+  "zone": "Canadian Rockies",
+  "stoneReward": "Jade",
+  "storyline": "Aurora climbs the Canadian Rockies to find the source of the Aurora Borealis. Legend in the Inn says the northern lights are not solar wind — they are the visible frequency of the Inn's Schumann calibration (7.83Hz) interacting with the upper atmosphere. Reaching the summit proves it. Each section of the mountain represents a frequency challenge. Lower cliffs are 42Hz (Living — warm, green, summer alpine). Mid-cliffs are In-Between (autumn, storms, uncertainty). Upper cliffs are 84Hz (Shadow — winter, ice, Polaria manifests). The Glacier Keeper guards an ice hotel frozen in time at the mid-point. The hotel is a rest area and a challenge — its corridors are slippery (modified physics) and the Keeper's grief makes the ice grow. Polaria appears in the upper sections as a rival climber. Not evil — just cold. The dash mechanic becomes a dialogue: Aurora dashes forward (warmth, persistence), Polarai dashes to block (cold, doubt). The player must outmaneuver their own shadow. The Jade reward: found at the summit, embedded in the peak's rock face. Jade is the stone of endurance — the Chinese \"Stone of Heaven,\" earned by climbing to the sky.",
+  "images": [],
+  "templateArt": [],
+  "location": {
+   "unrealProject": "Content/Arcade/CanadianRockies",
+   "buildSheet": "docs/arcade_build_sheets/tier2_canadian_rockies.md",
+   "playUrl": ""
+  },
+  "status": "in development (Unreal)"
+ },
+ {
+  "key": "CatacombLabyrinth",
+  "title": "Catacomb Labyrinth",
+  "tagline": "",
+  "retitleSuggested": "",
+  "zone": "Catacombs (Undercity entrance, beneath the Inn)",
+  "stoneReward": "Charon Token",
+  "storyline": "The catacombs beneath the Inn are a labyrinth modeled on the original Labyrinth of Knossos. Charon's Ferryman walks these corridors collecting soul-coins — remnants of those who entered the catacombs and never left. Each coin collected brings a lost soul closer to rest. The four guardians are not evil — they are the labyrinth's immune system. They exist to keep the Ferryman from completing the collection. If all soul-coins are gathered, the dead can finally cross, and the catacombs go quiet. The River Styx Flask (power pellet equivalent) contains water from the actual Styx. When consumed, the Ferryman's lantern blazes, and guardians can be banished — sent back to the center. They are not destroyed. They reform. The Charon Token reward: earned when the deepest level is cleared. The token is Charon's personal obol — the coin placed on the tongue of the dead. In the Inn, it represents mastery over the crossing point.",
+  "images": [],
+  "templateArt": [],
+  "location": {
+   "unrealProject": "Content/Arcade/CatacombLabyrinth",
+   "buildSheet": "docs/arcade_build_sheets/tier2_catacomb_labyrinth.md",
+   "playUrl": ""
+  },
+  "status": "in development (Unreal)"
+ },
+ {
+  "key": "CrystalCatcher",
+  "title": "Crystal Catcher",
+  "tagline": "",
+  "retitleSuggested": "",
+  "zone": "Caverns (underground crystal systems)",
+  "stoneReward": "Tourmaline",
+  "storyline": "The Crystal Singer navigates the Inn's deepest caverns — a geode-lined underworld where Tourmaline crystals grow in clusters. The Singer's grappling claw is made from a resonant crystal that harmonizes with the cavern walls, allowing it to latch onto any crystal surface. The player swings from crystal to crystal, collecting loose Tourmaline fragments. The player aims, fires, swings, releases, re-aims, and fires again in a continuous rhythm of pendulum physics. Caverns get deeper and more complex: crystal forests, underground lakes with reflective surfaces, narrow fissures requiring precision grapples, and open cathedral chambers with massive stalactites to swing from. Hazards: crystal spiders drop from ceilings, tremor worms cause cave-ins that change the level geometry, echo wraiths disrupt the grappling claw's resonance (temporarily disable grapple). The Tourmaline reward: the stone of polarization — Tourmaline generates an electrical charge under pressure. The Crystal Singer earns it by mastering the cavern's own physics: pressure, pendulum, resonance.",
+  "images": [],
+  "templateArt": [],
+  "location": {
+   "unrealProject": "Content/Arcade/CrystalCatcher",
+   "buildSheet": "docs/arcade_build_sheets/tier2_crystal_catcher.md",
+   "playUrl": ""
+  },
+  "status": "in development (Unreal)"
+ },
+ {
+  "key": "MusicRoomComposer",
+  "title": "Music Room Composer",
+  "tagline": "",
+  "retitleSuggested": "",
+  "zone": "Music Room",
+  "stoneReward": "Harmonic Stone",
+  "storyline": "The Music Room is the Inn's acoustic heart. Every stone in the Inn hums at a frequency determined by its Mohs hardness. The Composer's job is to gather these frequencies and weave them into the Song — the Inn's foundational 42Hz melody. Each level is a composition. Notes fly toward the player in rhythmic patterns. Slashing them with the right hand (warm/living) or left hand (cool/shadow) adds that stone's frequency to the composition. Hit all notes perfectly and the Song grows. 9 composers appear as NPC guides across the levels — each representing a musical tradition from a different Inn zone: 1. The Druid (Stonehenge) — drone and chant 2. The Sistrum Priestess (Egypt) — percussion and rhythm 3. The Skald (Norse) — string and saga 4. The Quena Player (Andes) — flute and wind 5. The Sitar Master (India) — string and drone 6. The Koto Sage (Japan) — string and silence 7. The Oud Keeper (Mesopotamia) — string and lament 8. The Mbira Elder (Africa) — thumb piano and trance 9. The Hurdy-Gurdy Player (European) — drone and crank The Harmonic Stone reward: a custom stone formed when all 9 composers' contributions are successfully woven into a single Song. It is the only stone that contains every frequency in the Inn.",
+  "images": [],
+  "templateArt": [],
+  "location": {
+   "unrealProject": "Content/Arcade/MusicRoomComposer",
+   "buildSheet": "docs/arcade_build_sheets/tier2_music_room_composer.md",
+   "playUrl": ""
+  },
+  "status": "in development (Unreal)"
+ },
+ {
+  "key": "PoisonGarden",
+  "title": "Poison Garden",
+  "tagline": "",
+  "retitleSuggested": "",
+  "zone": "Poison Garden",
+  "stoneReward": "Antidote Orchid",
+  "storyline": "In Poison Garden, you are the GARDEN — a sentient, beautiful, deadly ecosystem. Foragers enter to harvest your rarest blooms. Your job is to stop them — not by attacking, but by being beautiful, deceptive, and lethal. The player controls the garden as a living system: grow vines to block paths, bloom flowers to release intoxicating perfume (stuns foragers), open blossoms to reveal false treasures (lure foragers into dead ends), drop toxic pollen clouds (slow foragers), and grow thorns along paths they'll take. The garden cannot kill foragers directly — it can only misdirect, delay, and exhaust them until they give up and leave. If a forager harvests a bloom, the garden loses a piece of itself. Too many harvests and the garden dies. The Antidote Orchid reward: the garden's final bloom — the one flower that can cure any poison, including the garden's own. It is earned when the player successfully protects the garden through all seasons (levels). The Orchid represents the garden's mastery: it can create poison AND its cure. It chooses to create both.",
+  "images": [],
+  "templateArt": [],
+  "location": {
+   "unrealProject": "Content/Arcade/PoisonGarden",
+   "buildSheet": "docs/arcade_build_sheets/tier2_poison_garden.md",
+   "playUrl": ""
+  },
+  "status": "in development (Unreal)"
+ },
+ {
+  "key": "SerpentSteps",
+  "title": "Serpent Steps",
+  "tagline": "",
+  "retitleSuggested": "",
+  "zone": "Chichen Itza (Maya)",
+  "stoneReward": "Fire Opal",
+  "storyline": "The player controls Kukulkan's serpent climbing the steps of El Castillo at Chichen Itza during the equinox. On the equinox, the sun creates a shadow pattern on the pyramid that looks like a serpent descending — the famous Kukulkan serpent of light. REVERSAL: In this game, the serpent is ASCENDING, not descending. The player collects solar offerings to grow the serpent strong enough to reach the temple at the top. Each offering adds length and power. The playfield is the pyramid's 91 steps (4 sides x 91 = 364 + 1 platform = 365, the Maya calendar). The serpent winds through the steps. If it bites its own tail, it falls. If it hits a step wall, it falls. Grow long enough and the serpent reaches the temple summit. The Fire Opal reward: the stone of the equinox sun. When the serpent reaches the summit, the sun aligns and the Fire Opal is revealed in the temple floor — it holds the light of the equinox, captured in stone.",
+  "images": [],
+  "templateArt": [],
+  "location": {
+   "unrealProject": "Content/Arcade/SerpentSteps",
+   "buildSheet": "docs/arcade_build_sheets/tier2_serpent_steps.md",
+   "playUrl": ""
+  },
+  "status": "in development (Unreal)"
+ },
+ {
+  "key": "TempleOfTheNaga",
+  "title": "Temple of the Naga",
+  "tagline": "",
+  "retitleSuggested": "",
+  "zone": "Angkor Wat (Southeast Asia)",
+  "stoneReward": "Zircon",
+  "storyline": "The Nagi Warrior descends into Angkor Wat's lower temples to prevent the Sleeping Naga from waking. The Naga is not evil — it is primordial. If it wakes, it will unmake the temple and everyone in it, not out of malice but out of scale. A waking god does not notice ants. Each stage is a level of the temple complex: outer galleries (carved bas-reliefs come alive), the Hall of Elephants, the terraces, the inner sanctuary, the subterranean serpent chamber. The Kris Blade is the signature weapon — a wavy-bladed dagger that extends like a serpent strike. Upgrades increase its range and add elemental properties: fire (amber), water (sapphire), earth (jade), and spirit (moonstone). The Zircon reward: found in the deepest chamber after defeating the Naga's echo (not the Naga itself — the player cannot kill a god). The Zircon is the oldest stone in Angkor's foundations — it holds the temple's original intention. Placing it back in the sanctuary floor lulls the Naga back to sleep.",
+  "images": [],
+  "templateArt": [],
+  "location": {
+   "unrealProject": "Content/Arcade/TempleOfTheNaga",
+   "buildSheet": "docs/arcade_build_sheets/tier2_temple_of_the_naga.md",
+   "playUrl": ""
+  },
+  "status": "in development (Unreal)"
+ },
+ {
+  "key": "TheApothecarysCure",
+  "title": "The Apothecary's Cure",
+  "tagline": "",
+  "retitleSuggested": "",
+  "zone": "Staircase",
+  "stoneReward": "Malachite",
+  "storyline": "Match pills to cure the affliction. The player engages with Staircase's mythology and geography through gameplay. The Staircase is where alchemy transforms matter. Malachite is toxic when ground, medicinal when whole. Stone Reward: Malachite (Rare) — earned through completion. Frequency States: Living (42Hz): Normal gameplay, warm aesthetic, standard difficulty Shadow (84Hz): Darker palette, increased challenge, narrative tension In-Between: Transitional moments between levels/zones",
+  "images": [],
+  "templateArt": [
+   "docs/canon_images/from the chat (Nov 5)/game templates/the apothecarys cure.jpg"
+  ],
+  "location": {
+   "unrealProject": "Content/Arcade/TheApothecarysCure",
+   "buildSheet": "docs/arcade_build_sheets/tier2_the_apothecarys_cure.md",
+   "playUrl": ""
+  },
+  "status": "in development (Unreal)"
+ },
+ {
+  "key": "TheDreamGardener",
+  "title": "The Dream Gardener",
+  "tagline": "",
+  "retitleSuggested": "",
+  "zone": "Fae Kingdom",
+  "stoneReward": "Dream Quartz",
+  "storyline": "Pull, throw, and grow. The player engages with Fae Kingdom's mythology and geography through gameplay. The Fae Kingdom grows its own inhabitants. Dream Quartz is crystallized Fae dream. Stone Reward: Dream Quartz (Rare) — earned through completion. Frequency States: Living (42Hz): Normal gameplay, warm aesthetic, standard difficulty Shadow (84Hz): Darker palette, increased challenge, narrative tension In-Between: Transitional moments between levels/zones",
+  "images": [],
+  "templateArt": [],
+  "location": {
+   "unrealProject": "Content/Arcade/TheDreamGardener",
+   "buildSheet": "docs/arcade_build_sheets/tier2_the_dream_gardener.md",
+   "playUrl": ""
+  },
+  "status": "in development (Unreal)"
+ },
+ {
+  "key": "TheEggCarrier",
+  "title": "The Egg Carrier",
+  "tagline": "",
+  "retitleSuggested": "",
+  "zone": "Canopy",
+  "stoneReward": "Fire Agate",
+  "storyline": "Yoshi The player engages with Canopy's mythology and geography through gameplay. The Canopy is where eggs hatch. Yoshi's Island mechanics because carrying is caring. Fire Agate forms where sunlight meets living wood. Stone Reward: Fire Agate (Uncommon) — earned through completion. Frequency States: Living (42Hz): Normal gameplay, warm aesthetic, standard difficulty Shadow (84Hz): Darker palette, increased challenge, narrative tension In-Between: Transitional moments between levels/zones",
+  "images": [],
+  "templateArt": [],
+  "location": {
+   "unrealProject": "Content/Arcade/TheEggCarrier",
+   "buildSheet": "docs/arcade_build_sheets/tier2_the_egg_carrier.md",
+   "playUrl": ""
+  },
+  "status": "in development (Unreal)"
+ },
+ {
+  "key": "TheForestDefense",
+  "title": "The Forest Defense",
+  "tagline": "",
+  "retitleSuggested": "",
+  "zone": "Campgrounds",
+  "stoneReward": "Moss Agate",
+  "storyline": "Tower defense on the trail. The player engages with Campgrounds's mythology and geography through gameplay. The Campgrounds are where forest meets tree. Tower defense because the campfire is home. Moss Agate is the boundary mineral between stone and wild. Stone Reward: Moss Agate (Uncommon) — earned through completion. Frequency States: Living (42Hz): Normal gameplay, warm aesthetic, standard difficulty Shadow (84Hz): Darker palette, increased challenge, narrative tension In-Between: Transitional moments between levels/zones",
+  "images": [],
+  "templateArt": [],
+  "location": {
+   "unrealProject": "Content/Arcade/TheForestDefense",
+   "buildSheet": "docs/arcade_build_sheets/tier2_the_forest_defense.md",
+   "playUrl": ""
+  },
+  "status": "in development (Unreal)"
+ },
+ {
+  "key": "TheHook",
+  "title": "The Hook",
+  "tagline": "",
+  "retitleSuggested": "",
+  "zone": "Tidal Caves (Pirate's arcade cabinet)",
+  "stoneReward": "Aquamarine",
+  "storyline": "Extend to grab, retract to pull, extend to place, unhook to release. The board is a 7x7 grid (49 sockets — the Inn's number) representing a vertical cross-section of the aqueduct system. Row 1 is Rain. Row 7 is Crystal Core. The cable is straight — it cannot bend, cannot pass through filled sockets. The path matters. The order matters. Removing the wrong stone first blocks the path. Removing the right stone first opens everything. Five puzzle types: 1. Frequency Alignment (The Chord) — sort stones by frequency into the correct water layer rows. All 7 rows aligned = the 42Hz Song plays. 2. Family Reunion (The Geological Sort) — group stones by geological family into quadrants. 3. The Clear Path (The Removal Puzzle) — grid starts full. Remove stones to reveal hidden patterns. Subtraction as sculpture. 4. 5. The Siphon (The Pressure Puzzle) — sort stones by density into two columns to create pressure differential. NPC Connections: The Pirate hosts the cabinet, teaches the rules, taunts the player The Examiner studies what comes OUT of the water (removed stones) The Cartographer maps what is WITHIN the water (cable paths as currents) Frequency States: Living (42Hz): Warm tidal aesthetic, standard cable speed Shadow (84Hz): Darker cave palette, faster water in Current puzzles, cable tension increases In-Between: Transitional moments between puzzle types",
+  "images": [],
+  "templateArt": [],
+  "location": {
+   "unrealProject": "Content/Arcade/TheHook",
+   "buildSheet": "docs/arcade_build_sheets/tier2_the_hook.md",
+   "playUrl": ""
+  },
+  "status": "in development (Unreal)"
+ },
+ {
+  "key": "TheLongDark",
+  "title": "The Long Dark",
+  "tagline": "",
+  "retitleSuggested": "Hollow Night",
+  "zone": "Undercity",
+  "stoneReward": "Shadow Quartz",
+  "storyline": "Survive the Hollow Men. The player engages with Undercity's mythology and geography through gameplay. The Undercity operates at 84Hz — the Shadow Inn frequency. Shadow Quartz is what remains when light leaves stone. Stone Reward: Shadow Quartz (Rare) — earned through completion. Frequency States: Living (42Hz): Normal gameplay, warm aesthetic, standard difficulty Shadow (84Hz): Darker palette, increased challenge, narrative tension In-Between: Transitional moments between levels/zones",
+  "images": [],
+  "templateArt": [],
+  "location": {
+   "unrealProject": "Content/Arcade/TheLongDark",
+   "buildSheet": "docs/arcade_build_sheets/tier2_the_long_dark.md",
+   "playUrl": ""
+  },
+  "status": "in development (Unreal)"
+ },
+ {
+  "key": "TheMirrorsSeven",
+  "title": "The Mirror's Seven",
+  "tagline": "",
+  "retitleSuggested": "The Ragana's Mirror",
+  "zone": "Poison Garden",
+  "stoneReward": "Snowflake Obsidian",
+  "storyline": "Seven tasks, one mirror. The player engages with Poison Garden's mythology and geography through gameplay. The Poison Garden's mirror shows you yourself. Snowflake Obsidian is beauty from rapid cooling. Stone Reward: Snowflake Obsidian (Rare) — earned through completion. Frequency States: Living (42Hz): Normal gameplay, warm aesthetic, standard difficulty Shadow (84Hz): Darker palette, increased challenge, narrative tension In-Between: Transitional moments between levels/zones",
+  "images": [],
+  "templateArt": [],
+  "location": {
+   "unrealProject": "Content/Arcade/TheMirrorsSeven",
+   "buildSheet": "docs/arcade_build_sheets/tier2_the_mirrors_seven.md",
+   "playUrl": ""
+  },
+  "status": "in development (Unreal)"
+ },
+ {
+  "key": "TheNoobSiege",
+  "title": "The Noob Siege",
+  "tagline": "",
+  "retitleSuggested": "Siege of the Wire Nook",
+  "zone": "Wire Nook",
+  "stoneReward": "Lodestone",
+  "storyline": "Defend the fizgig home. The player engages with Wire Nook's mythology and geography through gameplay. The Wire Nook is the fizgigs' hidden home. Tower defense because home is worth defending. Lodestone is the 42Hz magnetic sprite. Stone Reward: Lodestone (Uncommon) — earned through completion. Frequency States: Living (42Hz): Normal gameplay, warm aesthetic, standard difficulty Shadow (84Hz): Darker palette, increased challenge, narrative tension In-Between: Transitional moments between levels/zones",
+  "images": [],
+  "templateArt": [],
+  "location": {
+   "unrealProject": "Content/Arcade/TheNoobSiege",
+   "buildSheet": "docs/arcade_build_sheets/tier2_the_noob_siege.md",
+   "playUrl": ""
+  },
+  "status": "in development (Unreal)"
+ },
+ {
+  "key": "ThePipeDescent",
+  "title": "The Pipe Descent",
+  "tagline": "",
+  "retitleSuggested": "Monsieur Sentient's Descent",
+  "zone": "Catacombs",
+  "stoneReward": "Pipe Stone",
+  "storyline": "Stomp critters in the pipes. The player engages with Catacombs's mythology and geography through gameplay. The catacombs are connected by pipes carved by the 42Hz Song. Pipe Stone is the channel mineral. Stone Reward: Pipe Stone (Uncommon) — earned through completion. Frequency States: Living (42Hz): Normal gameplay, warm aesthetic, standard difficulty Shadow (84Hz): Darker palette, increased challenge, narrative tension In-Between: Transitional moments between levels/zones",
+  "images": [],
+  "templateArt": [],
+  "location": {
+   "unrealProject": "Content/Arcade/ThePipeDescent",
+   "buildSheet": "docs/arcade_build_sheets/tier2_the_pipe_descent.md",
+   "playUrl": ""
+  },
+  "status": "in development (Unreal)"
+ },
+ {
+  "key": "TheReclamation",
+  "title": "The Reclamation",
+  "tagline": "",
+  "retitleSuggested": "",
+  "zone": "Bayou",
+  "stoneReward": "Swamp Agate",
+  "storyline": "Don The player engages with Bayou's mythology and geography through gameplay. The Bayou is the Bog Fairy Golem's domain. Don't Starve mechanics because reclamation is survival crafting. Swamp Agate forms in the murky boundary between water and earth. Stone Reward: Swamp Agate (Rare) — earned through completion. Frequency States: Living (42Hz): Normal gameplay, warm aesthetic, standard difficulty Shadow (84Hz): Darker palette, increased challenge, narrative tension In-Between: Transitional moments between levels/zones",
+  "images": [],
+  "templateArt": [],
+  "location": {
+   "unrealProject": "Content/Arcade/TheReclamation",
+   "buildSheet": "docs/arcade_build_sheets/tier2_the_reclamation.md",
+   "playUrl": ""
+  },
+  "status": "in development (Unreal)"
+ },
+ {
+  "key": "TheSignal",
+  "title": "The Signal",
+  "tagline": "",
+  "retitleSuggested": "",
+  "zone": "Cosmology",
+  "stoneReward": "Moldavite",
+  "storyline": "A spacecraft story that knows you are playing. The player engages with Cosmology's mythology and geography through gameplay. Cosmology is the Inn's upper limit — where the spacecraft orbit. Moldavite is the stone that fell from space. Stone Reward: Moldavite (Epic) — earned through completion. Frequency States: Living (42Hz): Normal gameplay, warm aesthetic, standard difficulty Shadow (84Hz): Darker palette, increased challenge, narrative tension In-Between: Transitional moments between levels/zones",
+  "images": [],
+  "templateArt": [],
+  "location": {
+   "unrealProject": "Content/Arcade/TheSignal",
+   "buildSheet": "docs/arcade_build_sheets/tier2_the_signal.md",
+   "playUrl": ""
+  },
+  "status": "in development (Unreal)"
+ },
+ {
+  "key": "TreasuryMatch",
+  "title": "Treasury Match",
+  "tagline": "",
+  "retitleSuggested": "",
+  "zone": "Petra (the Rose City)",
+  "stoneReward": "Banded Agate",
+  "storyline": "The player is a Nabataean stonemason restoring the Treasury at Petra. Earthquakes and time have shaken stone spheres loose from the facade — they've clustered overhead in precarious formations. The stonemason must fire matching stones upward to clear the clusters before they descend and crush the restoration work below. Each color represents a real Petra building material: rose sandstone (Petra's signature), white limestone, grey conglomerate, banded agate (decorative), and red ironstone (structural). The board descends as time passes — the ceiling is literally coming down. Clear all clusters and the facade is restored. Let them reach the bottom and the Treasury is buried again. The Banded Agate reward: found when the final cluster is cleared — the last stone the mason places is a banded agate that was the Treasury's keystone ornament, lost for centuries.",
+  "images": [],
+  "templateArt": [],
+  "location": {
+   "unrealProject": "Content/Arcade/TreasuryMatch",
+   "buildSheet": "docs/arcade_build_sheets/tier2_treasury_match.md",
+   "playUrl": ""
+  },
+  "status": "in development (Unreal)"
+ },
+ {
+  "key": "TumbleRun",
+  "title": "Tumble Run",
+  "tagline": "Help Tumble not get stuck.",
+  "retitleSuggested": "",
+  "zone": "Canopy (the Inn's living forest ceiling)",
+  "stoneReward": "Random Stone (each completion awards a different stone from the 198-stone pool)",
+  "storyline": "Help Tumble not get stuck. The four-inch furball rolls toward every resonance node — jump, duck, and keep it from going home while the Brownies cheer from the rafters.",
+  "images": [],
+  "templateArt": [
+   "docs/canon_images/from the chat (Nov 5)/game templates/tumble run.jpg"
+  ],
+  "location": {
+   "unrealProject": "Content/Arcade/TumbleRun",
+   "buildSheet": "docs/arcade_build_sheets/tier2_tumble_run.md",
+   "playUrl": ""
+  },
+  "status": "in development (Unreal)"
+ },
+ {
+  "key": "WallDefense",
+  "title": "Wall Defense",
+  "tagline": "",
+  "retitleSuggested": "",
+  "zone": "Great Wall of China",
+  "stoneReward": "Jade",
+  "storyline": "The player is a stone sentinel on the Great Wall of China. Spectral riders — echoes of every invasion the Wall has ever repelled — descend in formation from the north. The sentinel fires jade-tipped arrows upward to disperse them. Each wave of riders moves faster and lower. If they reach the Wall, they damage the watchtower segment below. Lose all towers and the Wall is breached — the archive's northern boundary falls. The Dragon Kite appears periodically — a rare target that drops jade fragments when hit. Collect enough and the Jade stone is earned. The Jade reward: the stone of heaven in Chinese culture. The Wall was built to protect the empire; Jade represents what was worth protecting. The sentinel earns it by never letting the Wall fall.",
+  "images": [],
+  "templateArt": [],
+  "location": {
+   "unrealProject": "Content/Arcade/WallDefense",
+   "buildSheet": "docs/arcade_build_sheets/tier2_wall_defense.md",
+   "playUrl": ""
+  },
+  "status": "in development (Unreal)"
+ },
+ {
+  "key": "YellowstoneGeyser",
+  "title": "Yellowstone Geyser",
+  "tagline": "",
+  "retitleSuggested": "",
+  "zone": "Yellowstone (geothermal features)",
+  "stoneReward": "Obsidian",
+  "storyline": "The player is a geothermal surveyor in Yellowstone's geyser basin. Old Faithful and the other geysers have become erratic — the underground channels are broken. The surveyor must lay stone channels to route the superheated water safely before it erupts unpredictably and damages the basin. Each level is a geyser field. Water starts flowing from a source point after a countdown. The geyser fields get more complex: multiple sources, multiple exits, obstacles (boulders, hot springs that block placement), and pressure timers (the water flows faster on later levels). The Obsidian reward: Yellowstone's signature stone. Obsidian forms when volcanic lava cools instantly — the same geothermal forces the player is managing.",
+  "images": [],
+  "templateArt": [],
+  "location": {
+   "unrealProject": "Content/Arcade/YellowstoneGeyser",
+   "buildSheet": "docs/arcade_build_sheets/tier2_yellowstone_geyser.md",
+   "playUrl": ""
+  },
+  "status": "in development (Unreal)"
+ },
+ {
+  "key": "AppalachianTrail",
+  "title": "Appalachian Trail",
+  "tagline": "",
+  "retitleSuggested": "",
+  "zone": "Appalachian Mountains (Eastern US)",
+  "stoneReward": "Ruby",
+  "storyline": "The player leads a longhunter expedition through the Appalachian Mountains in the 1770s. The goal: reach the hidden Ruby Valley beyond the Smokies, where rubies erode out of the ancient Cretaceous marble. The journey is divided into segments: trail food management, pace setting (steady/fast/grueling), rest decisions, and random events. Events include: finding a gemstone deposit, encountering Cherokee traders (who offer stones for supplies), crossing a flooded creek, discovering an unmarked cave with crystals, and surviving a mountain storm. The foraging minigame tests plant knowledge — collect the right plants for medicine, avoid the poisonous ones. This directly connects to Poison Garden's lore. The cave exploration minigame is a brief navigation puzzle — flashlight (torch) reveals crystals in the walls. Collect what you can before the torch burns down. The Ruby reward: Appalachia's hidden gem. Rubies are found in the Cowee Valley in North Carolina — one of the few ruby deposits in North America. The longhunter who reaches the valley earns the stone.",
+  "images": [],
+  "templateArt": [],
+  "location": {
+   "unrealProject": "Content/Arcade/AppalachianTrail",
+   "buildSheet": "docs/arcade_build_sheets/tier3_appalachian_trail.md",
+   "playUrl": ""
+  },
+  "status": "in development (Unreal)"
+ },
+ {
+  "key": "AuroraBorealis",
+  "title": "Aurora Borealis",
+  "tagline": "",
+  "retitleSuggested": "",
+  "zone": "Arctic (Northern Lights)",
+  "stoneReward": "Labradorite",
+  "storyline": "The player IS a fragment of the Aurora Borealis that has become self-aware. The serpent of light drifts through the polar sky, absorbing smaller aurora fragments to grow brighter and longer. The game has no fail state in the traditional sense — larger aurora fragments can dim the serpent, reducing it back to a smaller state, but never eliminating it. The serpent persists, like the aurora itself. Each \"level\" is a different altitude of the aurora: lower atmosphere (green oxygen emissions), mid-atmosphere (red oxygen), upper atmosphere (blue nitrogen), and the edge of space (violet — the Schumann calibration zone, 7.83Hz). Reaching the uppermost level reveals that the aurora is the Inn's frequency made visible — the 42Hz Song interacting with the atmosphere. The serpent IS the Inn, singing to the sky. The Labradorite reward: the stone of the Northern Lights. Inuit legend says Labradorite fell from the aurora. The serpent earns it by becoming the aurora — growing large enough to merge with the full sky.",
+  "images": [],
+  "templateArt": [],
+  "location": {
+   "unrealProject": "Content/Arcade/AuroraBorealis",
+   "buildSheet": "docs/arcade_build_sheets/tier3_aurora_borealis.md",
+   "playUrl": ""
+  },
+  "status": "in development (Unreal)"
+ },
+ {
+  "key": "AuroraFalls",
+  "title": "Aurora Falls",
+  "tagline": "",
+  "retitleSuggested": "",
+  "zone": "Iceland (waterfalls and geothermal valleys)",
+  "stoneReward": "Icelandic Spar",
+  "storyline": "The Seeker descends into an Icelandic geothermal valley at twilight — the land of fire and ice. The journey is wordless. The Seeker is looking for something, but the game never says what. The player infers from the environment. Each section is a physics puzzle: push a rock to weight a lever, swing on a rope across a steaming vent, float a crate on a geothermal pool to reach a ledge, time a sprint past a geyser eruption. The Frost Web is the signature hazard — an ice formation that grows like a spider web across passages. The Seeker must burn through it (using geothermal heat sources) or find alternate routes. The Echo Walkers are the emotional core — they flee from the Seeker, suggesting the Seeker is something to be feared. But near the end, one Echo Walker stops running and reaches out a hand. The meaning is deliberately ambiguous. The Icelandic Spar reward: the famous Viking sunstone. Icelandic spar (calcite) polarizes light — Vikings used it to navigate when the sun was hidden. The Seeker finds it at the valley's deepest point — a crystal that shows direction when all other light is gone.",
+  "images": [],
+  "templateArt": [],
+  "location": {
+   "unrealProject": "Content/Arcade/AuroraFalls",
+   "buildSheet": "docs/arcade_build_sheets/tier3_aurora_falls.md",
+   "playUrl": ""
+  },
+  "status": "in development (Unreal)"
+ },
+ {
+  "key": "BadlandsFossilDig",
+  "title": "Badlands Fossil Dig",
+  "tagline": "",
+  "retitleSuggested": "",
+  "zone": "Badlands (South Dakota)",
+  "stoneReward": "Fossil Jasper",
+  "storyline": "The player is a paleontologist excavating the Badlands' layered sediment. Each level is a stratum — a layer of geological time. Digging downward moves through deeper (older) layers: Cretaceous, Jurassic, Triassic, Permian, Carboniferous. Collecting fossil fragments from each layer pieces together a prehistoric ecosystem. Complete a layer's fossil set and the stratum is catalogued — added to the Inn's archive. Boulders obey gravity: dig beneath one and it falls. Falling boulders can crush dust devils (useful) or the player (deadly). Strategy is about which rock to dig and which to leave as support. The Fossil Jasper reward: found in the deepest layer (Carboniferous). Jasper forms in sedimentary rock over millions of years — the fossil in the jasper is the oldest life form in the Badlands. It represents deep time, the Inn's archive principle made stone.",
+  "images": [],
+  "templateArt": [],
+  "location": {
+   "unrealProject": "Content/Arcade/BadlandsFossilDig",
+   "buildSheet": "docs/arcade_build_sheets/tier3_badlands_fossil_dig.md",
+   "playUrl": ""
+  },
+  "status": "in development (Unreal)"
+ },
+ {
+  "key": "BonsaiGarden",
+  "title": "Bonsai Garden",
+  "tagline": "",
+  "retitleSuggested": "",
+  "zone": "Japan (Zen garden)",
+  "stoneReward": "Jade",
+  "storyline": "Water enters from the roots. Light enters from the canopy. The player draws branch routes connecting water sources to branches that need hydration, and light sources to branches that need energy. As the tree grows (timed progression), new branches sprout and need resources. Old branches become more demanding. If a branch goes without its needed resource for too long, it withers. Too many withered branches and the tree dies. The game cycles through four seasons: spring (rapid growth, many new branches), summer (stable, but high demand), autumn (branches start dropping demand, colorful transition), winter (dormancy — fewer resources, maintenance mode). Each level is a different bonsai species: juniper (twisted, complex routing), pine (structured, layered), maple (spreading, balanced), cherry (delicate, high maintenance). The Jade reward: the stone that the bonsai pot sits on. In Japanese culture, jade represents patience and cultivation. The player earns it by keeping the tree alive through a full year cycle.",
+  "images": [],
+  "templateArt": [],
+  "location": {
+   "unrealProject": "Content/Arcade/BonsaiGarden",
+   "buildSheet": "docs/arcade_build_sheets/tier3_bonsai_garden.md",
+   "playUrl": ""
+  },
+  "status": "in development (Unreal)"
+ },
+ {
+  "key": "CanopyCityTrading",
+  "title": "Canopy City Trading",
+  "tagline": "",
+  "retitleSuggested": "",
+  "zone": "Canopy City",
+  "stoneReward": "Luminwood",
+  "storyline": "9 cultural platforms. The player engages with Canopy City's mythology and geography through gameplay. Canopy City is the Inn's vertical market. Luminwood is the canopy's living timber — wood that holds light. Stone Reward: Luminwood (Epic) — earned through completion. Frequency States: Living (42Hz): Normal gameplay, warm aesthetic, standard difficulty Shadow (84Hz): Darker palette, increased challenge, narrative tension In-Between: Transitional moments between levels/zones",
+  "images": [],
+  "templateArt": [],
+  "location": {
+   "unrealProject": "Content/Arcade/CanopyCityTrading",
+   "buildSheet": "docs/arcade_build_sheets/tier3_canopy_city_trading.md",
+   "playUrl": ""
+  },
+  "status": "in development (Unreal)"
+ },
+ {
+  "key": "CoralReefRescue",
+  "title": "Coral Reef Rescue",
+  "tagline": "",
+  "retitleSuggested": "",
+  "zone": "Coral Reef (Great Barrier Reef / Pacific)",
+  "stoneReward": "Coral Aragonite",
+  "storyline": "The Reef Guardian heals a coral reef under threat. Coral bleaching events (garbage blocks) drop dead white coral onto the reef. The Guardian swaps adjacent coral tiles to create matches of 3+ — when matched, the coral heals and clears, creating chain reactions. The stack rises continuously from below (new coral grows from the seabed). If the stack reaches the surface, the reef is overwhelmed and the level fails. Chain combos represent reef health — a 5-chain means the reef is thriving. The more chains, the more vibrant the reef becomes, and the more bleached coral is naturally resisted. Special tiles: Cleaner Wrasse (clears a row), Sea Turtle (clears a column), Reef Shark (clears a 3x3 area). These represent reef fauna that help maintain ecosystem balance. The Coral Aragonite reward: the mineral that corals build their skeletons from. Aragonite is a form of calcium carbonate — it IS the reef made stone. The Guardian earns it by restoring the reef to full health.",
+  "images": [],
+  "templateArt": [],
+  "location": {
+   "unrealProject": "Content/Arcade/CoralReefRescue",
+   "buildSheet": "docs/arcade_build_sheets/tier3_coral_reef_rescue.md",
+   "playUrl": ""
+  },
+  "status": "in development (Unreal)"
+ },
+ {
+  "key": "EasterIslandHeads",
+  "title": "Easter Island Heads",
+  "tagline": "",
+  "retitleSuggested": "",
+  "zone": "Easter Island (Rapa Nui)",
+  "stoneReward": "Pounamu",
+  "storyline": "The moai of Rapa Nui have been still for centuries. Something has awakened them — the Inn's frequency has reached the most remote inhabited island on Earth. The moai remember the ocean and want to return. The player doesn't control individual moai — all moai walk continuously toward the right. The player assigns powers to specific moai to help the group navigate terrain: volcanic rock fields, cliff edges, lava channels, and forest obstacles. If too few moai reach the ocean, the level fails. A percentage threshold must be met. Some moai must be sacrificed (used as blockers or diggers that get left behind) to save the majority. This is the game's emotional core — not every moai makes it home. The Pounamu reward: greenstone from New Zealand, the other great Pacific stone-carving culture. Pounamu connects Rapa Nui to the wider Polynesian world. The moai earn it by completing the journey — the ocean gives back what the land carved.",
+  "images": [],
+  "templateArt": [],
+  "location": {
+   "unrealProject": "Content/Arcade/EasterIslandHeads",
+   "buildSheet": "docs/arcade_build_sheets/tier3_easter_island_heads.md",
+   "playUrl": ""
+  },
+  "status": "in development (Unreal)"
+ },
+ {
+  "key": "FujiBlossom",
+  "title": "Fuji Blossom",
+  "tagline": "",
+  "retitleSuggested": "",
+  "zone": "Mount Fuji (Japan)",
+  "stoneReward": "Cherry Opal",
+  "storyline": "Each match represents a season of climbing. Collect special combinations (yaku) for bonus points. The Tengu plays with calculated strategy — it's a worthy opponent. The Inn's twist: each card is illustrated with Geode Inn stone lore. January's pine cards feature green stones (malachite, jade). March's cherry cards feature pink stones (rose quartz, cherry opal). Each suit teaches the player which stones correspond to which season and element. Winning a match advances the botanist up the mountain. 12 matches = 12 months = reaching the summit. The Cherry Opal reward: the stone of March (cherry blossom season). Found at the summit — the Tengu offers it as a concession gift. Cherry Opal holds the pink fire of the briefest bloom.",
+  "images": [],
+  "templateArt": [],
+  "location": {
+   "unrealProject": "Content/Arcade/FujiBlossom",
+   "buildSheet": "docs/arcade_build_sheets/tier3_fuji_blossom.md",
+   "playUrl": ""
+  },
+  "status": "in development (Unreal)"
+ },
+ {
+  "key": "HimalayanEcho",
+  "title": "Himalayan Echo",
+  "tagline": "",
+  "retitleSuggested": "",
+  "zone": "Himalayas (Tibet)",
+  "stoneReward": "Tibetan Quartz",
+  "storyline": "Five geometric beings — each an element made visible — ascend the Himalayas to reach Lake Namtso and Mount Kailash. Each has different physics: Amdo is tall and fast but can't fit through gaps. Lhasa is small and can squeeze through but can't jump high. Tsang is wide and stable, a platform for others. Namtso is large and can float across water. Kailash can phase through spirit walls but is fragile. The puzzles require cooperation: stack Tsang so Lhasa can reach a ledge. Send Namtso across water to press a switch. Use Amdo's speed to trigger a timed door before it closes. Use Kailash to pass through a wall and unlock the other side. Amdo is impatient. Lhasa is determined. Tsang is patient. Namtso is serene. Kailash is uncertain about its own nature. The Tibetan Quartz reward: found at the summit. Tibetan Quartz grows at the highest altitudes on Earth — it carries the frequency of the roof of the world. The five elements merge into it, becoming one stone.",
+  "images": [],
+  "templateArt": [],
+  "location": {
+   "unrealProject": "Content/Arcade/HimalayanEcho",
+   "buildSheet": "docs/arcade_build_sheets/tier3_himalayan_echo.md",
+   "playUrl": ""
+  },
+  "status": "in development (Unreal)"
+ },
+ {
+  "key": "IcebergBreaker",
+  "title": "Iceberg Breaker",
+  "tagline": "",
+  "retitleSuggested": "",
+  "zone": "Arctic Ice (Greenland / polar ice caps)",
+  "stoneReward": "Glacier Quartz",
+  "storyline": "The Ice Navigator explores ancient icebergs, each containing frozen crystal formations and ancient ice cores. By firing light charges that bounce off ice crystals, the Navigator clears paths through the ice to reach the ancient cores — climate records frozen for thousands of years. Hitting orange pegs (ice cores) unlocks climate data fragments added to the Inn's archive. The Crevasse at the bottom catches missed balls — if the ball falls in, the shot is wasted. Limited shots per level (10 balls = 10 light charges). Each level is a different iceberg formation: tabular (flat top, wide spread), wedge (angled, tricky bounces), dome (curved, unpredictable), and growler (small, dense, challenging). The Glacier Quartz reward: quartz that has been trapped in polar ice for 100,000+ years. When the ice melts, the quartz is freed — perfectly preserved, holding the frequency of the last ice age. The Navigator earns it by clearing the deepest iceberg.",
+  "images": [],
+  "templateArt": [],
+  "location": {
+   "unrealProject": "Content/Arcade/IcebergBreaker",
+   "buildSheet": "docs/arcade_build_sheets/tier3_iceberg_breaker.md",
+   "playUrl": ""
+  },
+  "status": "in development (Unreal)"
+ },
+ {
+  "key": "MesaVerde",
+  "title": "Mesa Verde",
+  "tagline": "",
+  "retitleSuggested": "",
+  "zone": "Mesa Verde (Ancestral Puebloan cliff dwellings)",
+  "stoneReward": "Turquoise",
+  "storyline": "The player is an Ancestral Puebloan engineer restoring the water system at Mesa Verde's cliff dwellings. The Ancient Ones built sophisticated water routing into the cliff alcoves — stone channels, clay pipes, and gravity-fed reservoirs. Time and erosion have disrupted the system. Each level is a contraption puzzle: the player places objects (stone ramps, clay channels, rope pulleys, counterweights, rolling logs) to create a chain reaction that routes water from the source to the destination dwelling. The objects are grounded in real Puebloan engineering: metates (grinding stones) as weights, clay canteens as containers, yucca fiber ropes for pulleys, sandstone slabs for ramps. Nothing modern. Everything authentic to the period. Chain reactions cascade: a counterweight pulls a rope, which tips a clay vessel, which pours water into a channel, which flows down a ramp, which fills a reservoir, which triggers a float, which opens a gate to the dwelling. The Turquoise reward: the most sacred stone of the Ancestral Puebloans. Turquoise represented water and sky — the two things the water system honors. Restoring the full system earns the stone that represents the lifeblood of the cliff dwellings.",
+  "images": [],
+  "templateArt": [],
+  "location": {
+   "unrealProject": "Content/Arcade/MesaVerde",
+   "buildSheet": "docs/arcade_build_sheets/tier3_mesa_verde.md",
+   "playUrl": ""
+  },
+  "status": "in development (Unreal)"
+ },
+ {
+  "key": "SaguaroBloom",
+  "title": "Saguaro Bloom",
+  "tagline": "",
+  "retitleSuggested": "",
+  "zone": "Sonoran Desert (Arizona/Mexico)",
+  "stoneReward": "Fire Agate",
+  "storyline": "The player inherits a desert botanical garden in the Sonoran Desert. The garden was once a waystation for travelers — a place to rest, trade, and share stories. The Keeper restores it. Gameplay loop: tend crystal plots (plant mineral seeds, water with geothermal water, harvest grown crystals), tend desert plants (saguaro grow slowly over real-time days, ocotillo blooms after rain), forage for wild stones, crack geodes, trade with travelers, and upgrade the garden. Crystal growing is the Stardew crop equivalent. Different crystals need different conditions: quartz needs full sun, amethyst needs shade, calcite needs water, pyrite needs dry heat. The desert's extreme conditions make it the perfect crystal garden. Travelers arrive at the garden restocked. Each has trade goods, stories, and quests. The Tohono O'odham elder trades desert wisdom and rare stones. The rockhound trades geodes. The biologist trades pollinator data (affects crop yields). The musician trades songs (adds to the garden's ambient music). The Fire Agate reward: the Sonoran Desert's signature stone. Fire Agate has iridescent copper inclusions that flash red, orange, and green — desert fire made stone. It's earned after a full year cycle (all 4 desert seasons) with a thriving garden.",
+  "images": [],
+  "templateArt": [],
+  "location": {
+   "unrealProject": "Content/Arcade/SaguaroBloom",
+   "buildSheet": "docs/arcade_build_sheets/tier3_saguaro_bloom.md",
+   "playUrl": ""
+  },
+  "status": "in development (Unreal)"
+ },
+ {
+  "key": "StoneCircleDefender",
+  "title": "Stone Circle Defender",
+  "tagline": "",
+  "retitleSuggested": "",
+  "zone": "Stonehenge (British Isles)",
+  "stoneReward": "Preseli Blue Stone",
+  "storyline": "The player defends Stonehenge at the center of the stone circle. Shadow Wraiths and Gloom Moths descend in formation from above, attempting to breach the circle's protective frequency. The Druid Warden fires moonlight bolts upward to disperse them. The Void Herald periodically swoops down and attempts to capture the Warden in a shadow crystal. If captured, the player loses control temporarily. A reinforcement Warden appears — freeing the captured Warden merges them into a dual-staff configuration with double firepower. The Preseli Blue Stone reward: the actual stone that Stonehenge's inner ring is made from. The bluestones were carried 140 miles from the Preseli Hills in Wales to Salisbury Plain. The Defender earns it by holding the circle through all waves — proving the stones' protective power.",
+  "images": [],
+  "templateArt": [],
+  "location": {
+   "unrealProject": "Content/Arcade/StoneCircleDefender",
+   "buildSheet": "docs/arcade_build_sheets/tier3_stone_circle_defender.md",
+   "playUrl": ""
+  },
+  "status": "in development (Unreal)"
+ },
+ {
+  "key": "StoneLibraryDefender",
+  "title": "Stone Library Defender",
+  "tagline": "",
+  "retitleSuggested": "",
+  "zone": "The Archive (the Inn's library/catacombs entrance)",
+  "stoneReward": "Sardonyx",
+  "storyline": "The Inn's archive is under attack. Bookworms — spectral creatures that consume knowledge — are crawling through the library corridors toward the inner chamber where the rarest texts are stored. The player places Stone Guardians along 5 shelf-lanes to stop them. Crystal energy is the resource — Moss Stone guardians generate it, and the player spends it to place other guardians. Each guardian type has a specific function: damage, defense, slowing, area attack, or resource generation. Waves increase in difficulty. The final wave of each level is a \"Breach\" — a Titan leads a horde of bookworms, and the player must have a solid defense or the library is overrun. If a bookworm reaches the end of a lane, it eats one book from the archive. Lose 3 books and the level fails — the archive can't afford to lose more. The Sardonyx reward: the stone of strength and protection. Sardonyx has been used for carved seals for thousands of years — it IS a guardian stone. The player earns it by defending the archive through all waves.",
+  "images": [],
+  "templateArt": [],
+  "location": {
+   "unrealProject": "Content/Arcade/StoneLibraryDefender",
+   "buildSheet": "docs/arcade_build_sheets/tier3_stone_library_defender.md",
+   "playUrl": ""
+  },
+  "status": "in development (Unreal)"
+ },
+ {
+  "key": "SuperstitionMountains",
+  "title": "Superstition Mountains",
+  "tagline": "",
+  "retitleSuggested": "",
+  "zone": "Superstition Mountains (Arizona)",
+  "stoneReward": "Turquoise",
+  "storyline": "The Superstition Mountains of Arizona hold the legend of the Lost Dutchman's Gold Mine — a gold deposit found and lost in the 1800s. Many have died searching for it. The player is the latest prospector, descending into the mountain's cave systems. Each level is procedurally generated — no two descents are the same. Caves contain turquoise veins (the real treasure), gold dust (currency for the Desert Trader), and hazards: cave-ins, spike pits, lava tubes, and wildlife. The Chupacabra appears as a rare, terrifying enemy in the deepest levels — drawn from the Inn's cryptid bestiary. It's faster than other enemies and can drain health rapidly. Permadeath: die and the prospector is lost. Start over from the surface with nothing. But knowledge persists — the player learns cave patterns, enemy behaviors, and trap placements across runs. The Turquoise reward: the Southwest's sacred stone. Turquoise has been mined in the Southwest for over 1,000 years. Finding the turquoise vein in the deepest cave is the true discovery — the Lost Dutchman's \"gold\" was always turquoise, misidentified by a prospector who didn't know what he had.",
+  "images": [],
+  "templateArt": [],
+  "location": {
+   "unrealProject": "Content/Arcade/SuperstitionMountains",
+   "buildSheet": "docs/arcade_build_sheets/tier3_superstition_mountains.md",
+   "playUrl": ""
+  },
+  "status": "in development (Unreal)"
+ },
+ {
+  "key": "TheArcana",
+  "title": "The Arcana",
+  "tagline": "",
+  "retitleSuggested": "The Captain's Quiet",
+  "zone": "Cosmology",
+  "stoneReward": "Moldavite",
+  "storyline": "Captain tests with QUIET. The player engages with Cosmology's mythology and geography through gameplay. Cosmology holds the spacecraft. Moldavite is the stone that crossed the void to get here. Stone Reward: Moldavite (Epic) — earned through completion. Frequency States: Living (42Hz): Normal gameplay, warm aesthetic, standard difficulty Shadow (84Hz): Darker palette, increased challenge, narrative tension In-Between: Transitional moments between levels/zones",
+  "images": [],
+  "templateArt": [],
+  "location": {
+   "unrealProject": "Content/Arcade/TheArcana",
+   "buildSheet": "docs/arcade_build_sheets/tier3_the_arcana.md",
+   "playUrl": ""
+  },
+  "status": "in development (Unreal)"
+ },
+ {
+  "key": "TheBetween",
+  "title": "The Between",
+  "tagline": "",
+  "retitleSuggested": "",
+  "zone": "The Between (shifting borderland between the Seelie and Unseelie courts, Fae Kingdom)",
+  "stoneReward": "Labradorite",
+  "storyline": "The player falls through the cracks. Not dramatically — the way it actually happens: a step taken during a pause between two notes, a door opened in the second before it was a door. The world upstairs misplaces the player the way the world misplaces anything: nothing personal, the world is very large and you are very small, and things get lost between the two. The player arrives in the Between: the shifting borderland between the Seelie summer and the Unseelie winter — the space neither court claims because neither court can hold it. Escher's territory. Stairs that ascend into their own beginnings. Corridors that loop without admitting it. A village under the staircase. A market in the seams. The hour between hours, which is a real hour — it just doesn't belong to a clock. The quest: be found by the right thing. The player is invisible to the courts' regulars while between — but visible to the Displaced: everyone else the world misplaced. The way home is earned the way all doors in the Between open: by helping the misplaced find theirs. Every kindness anchors the player; every anchor makes the door clearer. The Bellringer keeps the ledger — everything misplaced ends up on a page eventually. The Norns keep the loom — and they have been expecting the player since before the player existed. Core mechanics: DOORWALKING — the Between is entered and traversed through seams: the space behind paintings, the underside of stairs, the pause between two notes, the gap where two rooms almost touch. In gameplay: any zone's environment shows faint seams when the player listens (audio cue: the beat frequency). Entering a seam drops the player into the margin-geography. Escher-impossible: the map loops; time navigation breaks the loop. THE NORN LOOM — three weavers, three tenses. The same corridor can be walked as it WAS (Urd — past), as it IS (Verdandi — present), as it WILL BE (Skuld — future). Switching tense is switching the world: a door sealed in the present is ajar in the past; a bridge that won't hold now will hold after Skuld's thread is pulled. The skill curve: solving puzzles that exist across tenses, in the space between one moment's truth and the next. THE HOUR BETWEEN HOURS — the Bellringer rings the bell in the blank space where an hour should be. When the bell rings, doors remember they are doors — margin-doors open for exactly one un-hour, and the player must choose which to walk before the world remembers its clock. REMEMBRANCE (the only survival mechanic) — dwell too long unmoored and the world forgets you. Kindnesses anchor: every Displaced person helped, every misplaced thing returned, every bell rung for someone else's door adds weight to the player's page in the ledger. If Remembrance runs out, the game does not kill the player — the Between walks the player gently to the nearest crack home and the ledger stays open. (The Inn's no-kill-screen rule holds here too. Even forgetting is survivable. You just start again, still you.) THE DISPLACED — the Between's population: everything the world misplaced. Homesick specters, ahead-of-schedule travelers, one entire village that got filed under the wrong staircase, the Loom's runaway threads. The player cannot tell which are homesick and which are ahead of schedule by looking. The difference is only ever revealed by kindness — the one diagnostic the Between trusts. Score = anchors, not points. Leaderboard: Displaced reunited + margin-doors walked. Frequency States (unique tri-mode — the zone IS the In-Between): The Between's own hum: the overlap of the two carriers — 42Hz and 84Hz sounding together. The interference pattern is the zone's music. The beat frequency is where the Between lives: the space between the beats is the door. Near the Seelie border: the zone warms, gold bleeds through (42Hz dominates the mix) Near the Unseelie border: the zone cools, frost-linework sharpens (84Hz dominates the mix) The gradient IS the navigation: the player reads warmth and cold the way sailors read stars",
+  "images": [],
+  "templateArt": [],
+  "location": {
+   "unrealProject": "Content/Arcade/TheBetween",
+   "buildSheet": "docs/arcade_build_sheets/tier3_the_between.md",
+   "playUrl": ""
+  },
+  "status": "in development (Unreal)"
+ },
+ {
+  "key": "ThePhilosophersGame",
+  "title": "The Philosopher's Game",
+  "tagline": "",
+  "retitleSuggested": "",
+  "zone": "Staircase (Level 5)",
+  "stoneReward": "",
+  "storyline": "The Philosopher's Stone is not created by power, purity, or destiny. It is created by INTENTION — specifically, the intention to possess something without consuming it.",
+  "images": [],
+  "templateArt": [],
+  "location": {
+   "unrealProject": "Content/Arcade/ThePhilosophersGame",
+   "buildSheet": "docs/arcade_build_sheets/tier3_the_philosophers_game.md",
+   "playUrl": ""
+  },
+  "status": "in development (Unreal)"
+ },
+ {
+  "key": "TheRest",
+  "title": "The Rest",
+  "tagline": "",
+  "retitleSuggested": "",
+  "zone": "The Void (Cosmology, 0Hz — the silence between the notes)",
+  "stoneReward": "Stillness Stone (already zone-assigned: Cosmology, Inn-Origin, Quartz)",
+  "storyline": "The Void is where the Song goes when it isn't playing. 0Hz. The permanent dropout — the audiobook canon says the 50 BPM heartbeat cuts out at three key moments; the Void is where the cut lives. No Living state, no Shadow state, no In-Between. The Void predates the split. The player is not dropped into the Void, does not fall into it, is not chased into it. The Void doesn't take the careless. The player is INVITED — a door that only opens for someone who has sat still somewhere in the Inn long enough to be noticed by silence. (The SIT threshold, canonized in the In-Between doc, becomes the Void's door key.) Two residents. NYX — the silence between the notes, rendered as negative space: darkness shaped like a figure who has never needed a face. And THE GUEST — Death, on holiday, holding a music box that nobody may open. The music box contains the Song's final note. The Astronomer calculates the Song's end and doesn't want to; the Guest is the one keeping the end safe until it's needed. (Direct tie to the Ascension Canopy endgame: the Egg, the Violin. When the Inn's story finishes, the last note comes out of this box.) The problem: the Guest is on holiday, and the endings are piling up. All across the cosmology layer, fragments of the Song have forgotten how to stop — stuck notes, unresolved chords, echoes that never got their ending. They ring on, exhausted, unable to finish. The Guest would normally hold them — giving each sound its ending is Death's actual job, and Death does it gently. But Death is resting. The quest: the player takes the holiday shift. Not harvesting souls — holding endings. The player carries 0Hz: stand beside a stuck note, hold still, and the note finally gets to stop. The player is the period at the end of the sentence. The rest between the notes. Core mechanics: THE REST — the game's one verb. Puzzles have durations, not solutions. Stand in the place the stillness asks for, for the measured time — a whole rest (the two-minute SIT threshold, made a gameplay unit), a half rest, a quarter rest. What happens while the player stands still is the game. THE UNPLAYED HARMONICA — the silver harmonica hangs in the Void. The one bright object in a dark world, the only specular highlight. Every instinct says pick it up and play it. The game is full of moments where playing/touching/acting is the obvious move, and restraint is the correct one. The temptation is the test. The harmonica is never played. Not by the player, not by the Guest, not by Nyx. It is the instrument that belongs to silence — the breath before the note, kept unspent. THE STUCK NOTES — the game's enemies, if it had them: unresolved sounds rendered as pale gold filaments, hanging in the dark, ringing without end (Klimt-gold thread that forgot how to stop — the same thread language as the Weaver's Loom, but uncut). Each one is a real pitch. Ending them is the game's music: the player's victories are silences where sounds used to be. Every stuck note ended is a small kindness to a sound that got tired. NYX'S LESSONS — Nyx speaks the silence between words. The player learns to hear what isn't said: instructions arrive as gaps, as the pause before a phrase, as the held breath in a sentence that means the opposite of its words. (Gaiman register — the mythic made personal; here the mythic is made of punctuation.) Nyx never says anything twice, because Nyx never says anything once. THE MUSIC BOX — look, don't open. The player may look at it as long as they like. Looking is safe. The box is not a puzzle. The box is a promise the Inn is keeping. THE ENDING — when every stuck note has its ending, the Guest returns to work: rested, grateful, and — for the first time in the history of the Inn — impressed. The Guest offers the silver harmonica. The player does not play it. That is the win state: the player carries the unplayed harmonica back into the Inn. The item is the choice not to use it — the Inn's quietest trophy, worn in the inventory like a held breath. (There is no bad ending. A player who tries to play the harmonica finds it makes no sound — not because it's broken, but because the player isn't the one it's waiting for. The Guest takes it back gently: \"Some other century.\" Try again.) Score: stuck notes ended + rests held. The leaderboard, if we keep one, is LONGEST REST — hours, minutes, seconds of stillness, held. The only leaderboard in the world where the high score is measured in not moving. Tri-mode note: the Void has no tri-mode. It is the permanent dropout — the state the other three states rest on. Standing in the Void, the player can FEEL the whole Inn's mix below them: 42Hz and 84Hz and 50 BPM, all of it, at once, at whisper volume — like hearing the party through the wall from the room where it's quiet.",
+  "images": [],
+  "templateArt": [],
+  "location": {
+   "unrealProject": "Content/Arcade/TheRest",
+   "buildSheet": "docs/arcade_build_sheets/tier3_the_rest.md",
+   "playUrl": ""
+  },
+  "status": "in development (Unreal)"
+ },
+ {
+  "key": "TheThread",
+  "title": "The Thread",
+  "tagline": "",
+  "retitleSuggested": "",
+  "zone": "Labyrinth of Crete (two-sided: Canopy City Mediterranean entrance / Unseelie Court crystal corridors)",
+  "stoneReward": "Rainbow Moonstone",
+  "storyline": "The player enters the labyrinth holding the Queen of Webs' thread — and the thread leads IN, not out. Through the vibration, the player hears the resident before arriving: Asterion's low voice carried by the stone, humming a lullaby in a language older than Crete. The player already knows, before reaching the center, that the \"monster\" is a person. Core mechanic — THE THREAD (42Hz guide line): The thread vibrates constantly at 42Hz. Near mirrors it phases; near true paths it steadies. The thread carries Asterion's voice (fires `asterion_001` dialogue as ambient audio). The player listens while walking. There is no time pressure. This is a sanctuary, not an arcade. The corridors shift on a slow geological breath. THE MASQUERADE (hall of mirrors made of sound): Footsteps are reflected back — slightly wrong. Slightly ahead. Slightly behind. What you hear is not what you are. Paths split: mirror-paths (what you WANT — shortcuts, bright, tempting) and wall-paths (what you NEED — longer, quieter, true). Mirror-paths dead-end. Wall-paths arrive. The game remembers every choice. At the center, the Masquerade reads you back your own ratio — not as judgment. As introduction: \"This is how you choose.\" THE SHIFTING CORRIDORS: The maze breathes. Walls move on a slow rhythm. Asterion's carvings — the journal written in geometry — mark where the walls will shift. Reading the carvings is the skill curve. The player learns to read the labyrinth the way its resident does: by pattern, by patience, by staying long enough. ARRIVAL (no kill screen — ever): Getting lost is not punished. The labyrinth walks the player gently back to the entrance, the thread unspooled. \"Failure\" is being walked back out. The Inn doesn't kill you for being lost. The moon brightens as the player approaches the center — the In-Between moonlight state is the arrival aesthetic. The player is seen before they see. At the center: The Meeting. `asterion_002` and `malachi_006` records fire as speech bubbles (ink outline, the Inn's trigger language). The quest ends with a conversation, a seat, and the moon kept bright for the resident who cannot sleep in the dark. Score = resonance, not points. Leaderboard: arrival time + wants/needs ratio (the path you chose is your score). Frequency States: Living (42Hz): Warm Minoan stone, olive-gold light, the lullaby audible through the thread In-Between: Moonlight greyscale — the arrival state; inscriptions appear in blue light Shadow (84Hz): The Masquerade at full mirror — every footstep reflected wrong; only the carvings tell the truth. The resident is still kind. The labyrinth is not.",
+  "images": [],
+  "templateArt": [],
+  "location": {
+   "unrealProject": "Content/Arcade/TheThread",
+   "buildSheet": "docs/arcade_build_sheets/tier3_the_thread.md",
+   "playUrl": ""
+  },
+  "status": "in development (Unreal)"
+ },
+ {
+  "key": "TidalCaves",
+  "title": "Tidal Caves",
+  "tagline": "",
+  "retitleSuggested": "",
+  "zone": "Water Zone",
+  "stoneReward": "Pearl",
+  "storyline": "Vaulknut workshop. 6 subterranean sea-level environments. The player engages with Water Zone's mythology and geography through gameplay. The Tidal Caves are Vaulknut's workshop — the master crafter's domain. Exploration because the caves shift with the tide. Pearl is the tide's gift. Stone Reward: Pearl (Epic) — earned through completion. Frequency States: Living (42Hz): Normal gameplay, warm aesthetic, standard difficulty Shadow (84Hz): Darker palette, increased challenge, narrative tension In-Between: Transitional moments between levels/zones",
+  "images": [],
+  "templateArt": [],
+  "location": {
+   "unrealProject": "Content/Arcade/TidalCaves",
+   "buildSheet": "docs/arcade_build_sheets/tier3_tidal_caves.md",
+   "playUrl": ""
+  },
+  "status": "in development (Unreal)"
+ },
+ {
+  "key": "FaeKingdomMMO",
+  "title": "Fae Kingdom MMO",
+  "tagline": "",
+  "retitleSuggested": "",
+  "zone": "Fae Kingdom",
+  "stoneReward": "Labradorite",
+  "storyline": "Seelie + Unseelie courts, 6 sub-zones. The player engages with Fae Kingdom's mythology and geography through gameplay. The Fae Kingdom is the Inn's deepest zone — accessed through stone circle portals. Labradorite is the Fae stone — the frequency between frequencies. Stone Reward: Labradorite (Legendary) — earned through completion. Frequency States: Living (42Hz): Normal gameplay, warm aesthetic, standard difficulty Shadow (84Hz): Darker palette, increased challenge, narrative tension In-Between: Transitional moments between levels/zones",
+  "images": [],
+  "templateArt": [],
+  "location": {
+   "unrealProject": "Content/Arcade/FaeKingdomMMO",
+   "buildSheet": "docs/arcade_build_sheets/tier4_fae_kingdom_mmo.md",
+   "playUrl": ""
+  },
+  "status": "in development (Unreal)"
+ },
+ {
+  "key": "GiantsCauseway",
+  "title": "Giant's Causeway",
+  "tagline": "",
+  "retitleSuggested": "",
+  "zone": "Giant's Causeway (Northern Ireland)",
+  "stoneReward": "Basalt Column",
+  "storyline": "The Giant's Causeway is a real geological formation in Northern Ireland — 40,000 interlocking basalt columns created by volcanic cooling. Legend says the giant Finn McCool built it as a bridge to Scotland. Finn's task: hop across every column and activate it (change its color from dormant grey to glowing amber). When all columns are activated, the Causeway resonates — the basalt hums at 42Hz, and the bridge to the other side opens. The Boundary Warden tries to stop Finn — if it catches Finn, the apprentice falls off the columns. Finn can ride a floating disk (a small basalt raft) to escape to the top. The Undoers revert activated columns back to dormant. Finn must re-activate them. The Basalt Column reward: a piece of the Causeway itself. Basalt columns are hexagonal — the most efficient natural packing geometry. The stone represents the Inn's architectural foundation: nature's own building blocks.",
+  "images": [],
+  "templateArt": [],
+  "location": {
+   "unrealProject": "Content/Arcade/GiantsCauseway",
+   "buildSheet": "docs/arcade_build_sheets/tier4_giants_causeway.md",
+   "playUrl": ""
+  },
+  "status": "in development (Unreal)"
+ },
+ {
+  "key": "HollowEarthRPG",
+  "title": "Hollow Earth RPG",
+  "tagline": "",
+  "retitleSuggested": "",
+  "zone": "Hollow Earth",
+  "stoneReward": "Source Stone",
+  "storyline": "9 districts, 25 quests. The player engages with Hollow Earth's mythology and geography through gameplay. Hollow Earth is the Inn's inversion — the inside of the outside. Source Stone is the original frequency, the one the Inn was born from. Stone Reward: Source Stone (Legendary) — earned through completion. Frequency States: Living (42Hz): Normal gameplay, warm aesthetic, standard difficulty Shadow (84Hz): Darker palette, increased challenge, narrative tension In-Between: Transitional moments between levels/zones",
+  "images": [],
+  "templateArt": [],
+  "location": {
+   "unrealProject": "Content/Arcade/HollowEarthRPG",
+   "buildSheet": "docs/arcade_build_sheets/tier4_hollow_earth_rpg.md",
+   "playUrl": ""
+  },
+  "status": "in development (Unreal)"
+ },
+ {
+  "key": "NazcaLines",
+  "title": "Nazca Lines",
+  "tagline": "",
+  "retitleSuggested": "",
+  "zone": "Nazca Desert (Peru)",
+  "stoneReward": "Sodalite",
+  "storyline": "The Nazca Lines are real geoglyphs in the Peruvian desert — enormous drawings of animals, plants, and geometric shapes, visible only from the air. They were created between 500 BCE and 500 CE. Their purpose remains debated. The player is a Nazca Artist restoring faded geoglyphs. Each level is a different Nazca drawing: the hummingbird, the monkey, the spider, the condor, the whale, the dog, the tree, the hands, the astronaut. Gameplay follows the geoglyph's shape — hit circles trace the outline, sliders draw the connecting lines, spinners complete spiral elements. The rhythm of the music matches the rhythm of the original artists' movements. As the player completes each geoglyph, it glows gold and becomes visible from above. Completing all geoglyphs reveals a hidden pattern connecting them — a map to something beneath the desert. The Sodalite reward: the stone of logic and pattern recognition. Sodalite's deep blue contains white veining that resembles the Nazca Lines' geometric patterns. The artist earns it by seeing the pattern that connects all the drawings.",
+  "images": [],
+  "templateArt": [],
+  "location": {
+   "unrealProject": "Content/Arcade/NazcaLines",
+   "buildSheet": "docs/arcade_build_sheets/tier4_nazca_lines.md",
+   "playUrl": ""
+  },
+  "status": "in development (Unreal)"
+ },
+ {
+  "key": "StoneForest",
+  "title": "Stone Forest",
+  "tagline": "",
+  "retitleSuggested": "",
+  "zone": "Shilin Stone Forest (Yunnan, China)",
+  "stoneReward": "Shoushan Stone",
+  "storyline": "The Shilin Stone Forest in Yunnan, China is a real formation — towering limestone pillars that look like a petrified forest. The Stone Mason descends through the pillars to find the deepest vein: the legendary Shoushan Stone, the carving stone of Chinese emperors. The player drills downward through layered stone. Each layer is denser and more dangerous. Soft limestone breaks quickly. Dolomite takes multiple hits. Crystal-veined marble must be cracked strategically. Jade-infused stone cannot be drilled — must be navigated around. Air supply decreases continuously. Air capsules are hidden inside pillars — drill the right one to refill. Run out of air and the Mason suffocates. Pillar physics: drilling a supporting pillar causes those above to fall. Falling pillars can crush the Mason (death) or clear a path (lucky). Strategic drilling is key. The Shoushan Stone reward: the emperor's carving stone, found at the deepest point. Shoushan stone has been used for Chinese seals for over 1,000 years. It represents the pinnacle of stone craft — the Mason earns it by mastering the Stone Forest itself.",
+  "images": [],
+  "templateArt": [],
+  "location": {
+   "unrealProject": "Content/Arcade/StoneForest",
+   "buildSheet": "docs/arcade_build_sheets/tier4_stone_forest.md",
+   "playUrl": ""
+  },
+  "status": "in development (Unreal)"
+ },
+ {
+  "key": "TheWorldWalker",
+  "title": "The World Walker",
+  "tagline": "",
+  "retitleSuggested": "",
+  "zone": "All Zones",
+  "stoneReward": "Rainbow Stone",
+  "storyline": "World map and power-ups. The player engages with All Zones's mythology and geography through gameplay. The only game spanning all six major zones. Rainbow Stone exists in every zone simultaneously. Stone Reward: Rainbow Stone (Epic) — earned through completion. Frequency States: Living (42Hz): Normal gameplay, warm aesthetic, standard difficulty Shadow (84Hz): Darker palette, increased challenge, narrative tension In-Between: Transitional moments between levels/zones",
+  "images": [],
+  "templateArt": [],
+  "location": {
+   "unrealProject": "Content/Arcade/TheWorldWalker",
+   "buildSheet": "docs/arcade_build_sheets/tier4_the_world_walker.md",
+   "playUrl": ""
+  },
+  "status": "in development (Unreal)"
+ },
+ {
+  "key": "VictoriaFalls",
+  "title": "Victoria Falls",
+  "tagline": "",
+  "retitleSuggested": "",
+  "zone": "Victoria Falls (Zambia/Zimbabwe border)",
+  "stoneReward": "Tiger's Eye",
+  "storyline": "The player arranges stone tiles at the edge of Victoria Falls — the world's largest sheet of falling water. The falls' constant spray keeps the stones polished, and their colors shift in the mist. Slide all tiles in one direction (up, down, left, right). When two matching stones slide into each other, they merge into the next hardness tier. Talc + Talc = Gypsum. Gypsum + Gypsum = Calcite. Continue up the Mohs scale. The goal: create a Diamond (Mohs 10) — the highest tier. This requires strategic sliding, planning several moves ahead, and managing the board so it doesn't fill with unmergeable low-tier stones. Each merge triggers the falls' mist to briefly glow — the stone's color reflected in the water spray. Higher merges create bigger mist effects. The Tiger's Eye reward: the stone of the Zambezi. Tiger's Eye forms from crocidolite (blue asbestos) replaced by quartz — a transformation stone, like the merging mechanic itself. Earned when the player creates a Diamond tile.",
+  "images": [],
+  "templateArt": [],
+  "location": {
+   "unrealProject": "Content/Arcade/VictoriaFalls",
+   "buildSheet": "docs/arcade_build_sheets/tier4_victoria_falls.md",
+   "playUrl": ""
+  },
+  "status": "in development (Unreal)"
+ },
+ {
+  "key": "ZeldaStyleWorld",
+  "title": "Zelda-Style World",
+  "tagline": "",
+  "retitleSuggested": "The Two Songs",
+  "zone": "All Zones",
+  "stoneReward": "Multi-gems",
+  "storyline": "Living/Shadow frequency shift on ZR. The player engages with All Zones's mythology and geography through gameplay. Multi-gems because the world holds everything. Stone Reward: Multi-gems (Legendary) — earned through completion. Frequency States: Living (42Hz): Normal gameplay, warm aesthetic, standard difficulty Shadow (84Hz): Darker palette, increased challenge, narrative tension In-Between: Transitional moments between levels/zones",
+  "images": [],
+  "templateArt": [],
+  "location": {
+   "unrealProject": "Content/Arcade/ZeldaStyleWorld",
+   "buildSheet": "docs/arcade_build_sheets/tier4_zelda_style_world.md",
+   "playUrl": ""
+  },
+  "status": "in development (Unreal)"
+ }
+]

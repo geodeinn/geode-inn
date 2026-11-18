@@ -2131,6 +2131,10 @@ AGENTS: search THIS file first. Ctrl-F the name or topic, then open the path.
 
 - `docs/build_lists/01_main_floor.md` — Main Floor build list (Level 3)
 
-## unreal/data (1 files)
+## site (1 files)
 
-- `unreal/data/README.md` — Geode Inn game data for Unreal Engine
+- `site/README.md` — Site data: the game pages
+
+## unreal (1 files)
+
+- `unreal/README.md` — Unreal Engine
