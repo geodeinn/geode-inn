@@ -216,7 +216,7 @@ Characters first written between July 12 and August 30, with their early names, 
 - Joe's wife and son are reserved slots, unnamed in game (Sep 11).
 - Gargoyle puppies (six, names pending); Flesh Wound Knight; Glassblower; Doorkeeper; Screamer; Laughkeeper; Quartz-Pebble Skeleton; Concord grape; Alexia's husband ("the annoying atheist"; Archive card reads "name pending, earned, not given").
 - The Bearsark's original name; the Blade and Whistler duo names.
-- Barnaby, Pip and Silas, three kids on the Tumble Run template (posted Nov 5): new to canon, and Barnaby is already Elora Nightbloom's beetle, so one of the two needs another name. The newt apothecary on The Apothecary's Cure template may be Unless or someone new. (Part 7, 1.24)
+- Barnaby, Pip and Silas, three kids on the Tumble Run template (posted Nov 5): new to canon, and Barnaby is already Briar Nightbloom's beetle (Elora before the Aug 30 rename), so one of the two needs another name. The newt apothecary on The Apothecary's Cure template may be Unless or someone new. (Part 7, 1.24)
 
 ### 1.7 Open and to reconcile (roster)
 

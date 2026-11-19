@@ -9,7 +9,7 @@ The fizgigs read this file first. All specs are in the `docs/` folder.
 - **Check the open rulings before building anything with a count or a name in it.** The manual lists every number and name that changed and was never settled (`docs/manual/08_audit.md`, section 3, "To reconcile"), and everything waiting on Krista (section 2, "Open items").
 - **One Project Bible.** There used to be two, with names that differed only in capital letters. They are merged into `docs/GEODE_INN_PROJECT_BIBLE.md`; edit only that one.
 - **Building starts with the Main Floor.** `docs/build_lists/01_main_floor.md` puts the Main Floor's canon, what the game build already has and what is still owed on one page, with the rulings to settle first. It is a draft until it has been checked against Krista's zone files.
-- **The game is moving to Unreal Engine 5.8 (ruled by Krista, November 2026).** The Unreal project is its own private repo, `geode-inn-unreal`: the game module, all 35 game data tables (3,946 rows) with their row structs, one content folder per level and one per arcade game. This repo stays the design source and the data source for geodeinn.com, whose game pages read `site/games.json` (see `site/README.md` and `unreal/README.md`).
+- **The game is moving to Unreal Engine 5.8 (ruled by Krista, November 2026).** The Unreal project is its own private repo, `geode-inn-unreal`: the game module, all 48 game data tables (4,745 rows) with their row structs, one content folder per level and one per arcade game. This repo stays the design source and the data source for geodeinn.com, whose game pages read `site/games.json` (see `site/README.md` and `unreal/README.md`).
 
 Builder messages written after September 10:
 

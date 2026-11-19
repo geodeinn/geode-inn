@@ -41,7 +41,7 @@ Frequency State:
 
 ## SECTION 3: VISUAL ASSETS NEEDED
 
-> Template art (found 2026-11-05): `docs/canon_images/from the chat (Nov 5)/game templates/tumble run.jpg` (titled "Tumble": Tumble's four ball states, three kids named Barnaby, Pip and Silas, and four items: humming geode crystals, a pulsing knot of roots, a chiming stone bell, a spiral glyph stone). The kids and items are new to canon; Barnaby is already Elora Nightbloom's beetle. Waiting on Krista's OK.
+> Template art (found 2026-11-05): `docs/canon_images/from the chat (Nov 5)/game templates/tumble run.jpg` (titled "Tumble": Tumble's four ball states, three kids named Barnaby, Pip and Silas, and four items: humming geode crystals, a pulsing knot of roots, a chiming stone bell, a spiral glyph stone). The kids and items are new to canon; Barnaby is already Briar Nightbloom's beetle (Elora before the Aug 30 rename). Waiting on Krista's OK.
 
 Character Sprites/Portraits:
 - Tumble (cube mode): idle (1), jumping (2), crashing (1) x 2 freq = 8 sprites
